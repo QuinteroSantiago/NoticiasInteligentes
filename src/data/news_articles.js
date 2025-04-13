@@ -6949,5 +6949,388 @@ export default [
         "link": "https://2001online.com/farandula/tension-en-la-feria-de-texcoco-agreden-a-luis-r-conriquez-por-no-cantar-corridos-en-su-show-202541216100",
         "date": "2025-04-12 20:10:00",
         "sentiment_score": -0.12947938591241837
+    },
+    {
+        "title": "Investigan al alcalde de Ahome, Gerardo Vargas Landeros, por presunto ejercicio indebido de la función pública",
+        "image_url": "https://www.infobae.com/resizer/v2/KKZ6IBAWABCVPDSWINB2TE4HME.jpg?auth=981cc5cc13e3132790de766a91430b03028bde36305a02551829d576bc2afd83&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/13/investigan-al-alcalde-de-ahome-gerardo-vargas-landeros-por-presunto-ejercicio-indebido-de-la-funcion-publica/",
+        "date": "2025-04-13 01:51:39",
+        "sentiment_score": -0.6558666676282883
+    },
+    {
+        "title": "Lo mejor de YouTube España: lista de los videos del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/SFP4H7HDDJDIHPFIA4Y5HTTLBU.jpg?auth=34c7f9725a99129b09d225ed72d221360deee9b8af73d68c04a0b3463dd54cfd&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/13/lo-mejor-de-youtube-espana-lista-de-los-videos-del-momento/",
+        "date": "2025-04-13 01:01:00",
+        "sentiment_score": 0.12217892706394196
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Barcelona este 13 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/KLMLDGCMUBHD5NCWSJER2QDBWM.jpg?auth=a00875ac443979c5fcc6dddde7ca7b34bfed301aa674bc86ddaf362c034e371c&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/13/clima-hoy-en-espana-temperaturas-para-barcelona-este-13-de-abril/",
+        "date": "2025-04-13 01:00:39",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Definidos los ocho equipos clasificados para los playoffs de la LF Femenina",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/12/definidos-los-ocho-equipos-clasificados-para-los-playoffs-de-la-lf-femenina/",
+        "date": "2025-04-12 22:17:44",
+        "sentiment_score": 0.17514323815703392
+    },
+    {
+        "title": "Talavera la Real recupera la normalidad tras susto de una tromba de agua que anega calles",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/12/talavera-la-real-recupera-la-normalidad-tras-susto-de-una-tromba-de-agua-que-anega-calles/",
+        "date": "2025-04-12 22:17:23",
+        "sentiment_score": -0.8479174841195345
+    },
+    {
+        "title": "Hoy será noticia. Domingo, 13 de abril",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/12/hoy-sera-noticia-domingo-13-de-abril/",
+        "date": "2025-04-12 22:17:06",
+        "sentiment_score": 0.031647052615880966
+    },
+    {
+        "title": "El impacto doméstico de la guerra comercial de Trump en España y EE.UU.",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/13/Aranceles_AliciaCaboblanco-RD7ia3LHyB64IfjkeHDBJHI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/impacto-domestico-guerra-comercial-trump-espana-eeuu-20250413204120-nt.html",
+        "date": "2025-04-13 02:11:44",
+        "sentiment_score": -0.15798038244247437
+    },
+    {
+        "title": "El Gobierno de Trump dice que el salvadoreño deportado por error está «vivo y seguro» en una cárcel de su país",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/13/kilmar-kJXE-U70807872253XeB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/gobierno-trump-dice-salvadoreno-deportado-error-vivo-20250413025401-nt.html",
+        "date": "2025-04-13 00:54:02",
+        "sentiment_score": -0.1519680619239807
+    },
+    {
+        "title": "'El Elegido'",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/04/13/Leiva-RU0EKZHWmrVrBEHRlgXIoLL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-elegido-20250413024139-nt.html",
+        "date": "2025-04-13 00:41:51",
+        "sentiment_score": -0.006264835596084595
+    },
+    {
+        "title": "Trump oficia y oficializa la ceremonia de la confusión",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/04/08/ley-medicamento-novedades-cambios-farmacia-consulta-k5eB--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-trump-oficia-oficializa-ceremonia-confusion-20250413011602-nt.html",
+        "date": "2025-04-12 23:16:06",
+        "sentiment_score": -0.7371105030179024
+    },
+    {
+        "title": "De Bruyne impulsa remontada de Manchester City",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/04/descarga-54-1-730x524.webp",
+        "tags": [
+            "premier league",
+            "deportes",
+            "manchester city",
+            "de bruyne",
+            "victoria",
+            "fútbol inglés"
+        ],
+        "link": "https://primicia.com.ve/deportes/de-bruyne-impulsa-remontada-de-manchester-city/",
+        "date": "2025-04-13 01:58:57",
+        "sentiment_score": 0.7447821721434593
+    },
+    {
+        "title": "South Summit Brasil 2025 posiciona a Latinoamérica como región estratégica ante los desafíos económicos globales",
+        "image_url": "https://s1.elespanol.com/2025/04/11/actualidad/1003743710707_254693610_1706x960.jpg?contentId=1003743710707",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/america-tech/20250413/south-summit-brasil-posiciona-latinoamerica-region-estrategica-desafios-economicos-globales/1003743710390_0.html",
+        "date": "2025-04-13 01:03:09",
+        "sentiment_score": -0.8437211513519287
+    },
+    {
+        "title": "Hugo Sánchez piensa que la próxima Copa Oro es una oportunidad para que México recupere hegemonía",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/c71e314/2147483647/strip/true/crop/7495x3935+0+533/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F1c%2F2e6ae265d6ca2d5a693e6014865d%2F8d43fe8d998b447bae679abf46c81b42",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-04-12/hugo-sanchez-piensa-que-la-proxima-copa-oro-es-una-oportunidad-para-que-mexico-recupere-hegemonia",
+        "date": "2025-04-13 00:48:17",
+        "sentiment_score": 0.7667588852345943
+    },
+    {
+        "title": "Ernesto Alterio: \"Me asusta esta época de ultras y runrún de guerra, hay un olor extraño a retroceso y pérdida de libertades\"",
+        "image_url": "https://s1.elespanol.com/2025/04/11/actualidad/1003743711203_254703921_1706x960.jpg?contentId=1003743711203",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250413/ernesto-alterio-asusta-epoca-ultras-runrun-guerra-olor-extrano-retroceso-perdida-libertades/935406785_0.html",
+        "date": "2025-04-13 00:29:37",
+        "sentiment_score": -0.0486142635345459
+    },
+    {
+        "title": "Los dos castigados de Hansi Flick justo antes del Dortmund-Barça: por motivos muy diferentes",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/13/culemania/primer-equipo/1003742648838_14419541_1706x960.jpg?contentId=1003742648838",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250413/los-castigados-hansi-flick-dortmund-barca-motivos-diferentes/1003742648818_0.html",
+        "date": "2025-04-13 00:19:56",
+        "sentiment_score": -0.62995745241642
+    },
+    {
+        "title": "Vuelve Miguel Bosé: \"Se han ensañado conmigo pero todo se olvida, todo cambia, todo desaparece\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/494992c534cb84e61959b1c314b38eb2/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/11/17443936684383.jpg",
+        "tags": [
+            "cultura",
+            "coronavirus",
+            "artículos daniel izeddin",
+            "miguel bosé",
+            "música latina",
+            "música",
+            "méxico",
+            "entrevistas",
+            "artículos rodrigo terrasa"
+        ],
+        "link": "https://www.elmundo.es/papel/cultura/2025/04/12/67f90c9ae4d4d84b4a8b457f.html",
+        "date": "2025-04-13 00:04:24",
+        "sentiment_score": -0.1671704351902008
+    },
+    {
+        "title": "Malas noticias para Arsenal de cara a la vuelta en Champions contra el Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/042025/1744503140416.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/malas-noticias-para-arsenal-de-cara-a-la-vuelta-en-champions-contra-el-real-madrid-202541219560",
+        "date": "2025-04-12 23:56:00",
+        "sentiment_score": 0.45353342965245247
+    },
+    {
+        "title": "Barcelona se vale de autogol para ganar en cancha de Leganés y proteger ventaja en cima de La Liga",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/6484fdc/2147483647/strip/true/crop/5201x2731+0+369/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F80%2F49%2Fc7939457207410d6e221a9ca6911%2Fc085efc8071d458d8d26f20dc45491b5",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-04-12/barcelona-se-vale-de-autogol-para-ganar-en-cancha-de-leganes-y-proteger-ventaja-en-cima-de-la-liga",
+        "date": "2025-04-12 23:36:04",
+        "sentiment_score": 0.275976225733757
+    },
+    {
+        "title": "Es imposible",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2022/02/23/621666d1b4142.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250413/imposible_287918.html",
+        "date": "2025-04-12 23:30:00",
+        "sentiment_score": -0.5707498043775558
+    },
+    {
+        "title": "Para una parte de Vox, la culpa de todo es de Núñez Feijóo",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2025/04/12/67fa81cd059fe.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250413/parte-vox-culpa-todo-nunez-feijoo_287849.html",
+        "date": "2025-04-12 23:30:00",
+        "sentiment_score": -0.8278749771416187
+    },
+    {
+        "title": "Horario, canal y dónde ver por TV hoy la jornada 9 de la Kings League de fútbol",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/04/11/67f959fa08f56.jpeg",
+        "tags": [
+            "horarios"
+        ],
+        "link": "https://www.mundodeportivo.com/horarios/20250413/1002444643/horario-canal-donde-ver-tv-hoy-jornada-9-kings-league-futbol.html",
+        "date": "2025-04-13 02:04:16",
+        "sentiment_score": 0.0708063393831253
+    },
+    {
+        "title": "La película de 'La Paca'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2025/04/13/2365819/pelicula-paca-son-banya.html",
+        "date": "2025-04-13 02:00:01",
+        "sentiment_score": -0.2859854996204376
+    },
+    {
+        "title": "Joan Miró y Maria Lai 'dialogan' en Cerdeña",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/04/13/2365879/arte-mallorca-exposicion-miro-cerdena.html",
+        "date": "2025-04-13 02:00:01",
+        "sentiment_score": 0.29592597484588623
+    },
+    {
+        "title": "Un nuevo oro para la cerveza Grahame Pearce",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2025/04/13/2366127/nuevo-oro-para-cerveza-grahame-pearce.html",
+        "date": "2025-04-13 02:00:01",
+        "sentiment_score": 0.447987824678421
+    },
+    {
+        "title": "Carmena: \"¿Cómo es posible que una persona sea contratada en una empresa pública y no trabaje? Es una vergüenza\"",
+        "image_url": "https://s1.elespanol.com/2025/04/10/actualidad/1003743709288_254665829_1706x960.jpg?contentId=1003743709288",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250413/carmena-posible-persona-contratada-empresa-publica-no-trabaje-verguenza/1003743703070_0.html",
+        "date": "2025-04-13 01:10:16",
+        "sentiment_score": -0.8928544614464045
+    },
+    {
+        "title": "El lugar donde la robótica industrial sube de nivel: así es el nuevo centro de automatización de OMRON en Alemania",
+        "image_url": "https://s1.elespanol.com/2025/04/10/actualidad/1003743707832_254639412_1706x960.jpg?contentId=1003743707832",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20250413/lugar-robotica-industrial-sube-nivel-nuevo-centro-automatizacion-omron-alemania/1003743707820_0.html",
+        "date": "2025-04-13 01:02:58",
+        "sentiment_score": 0.6186585240066051
+    },
+    {
+        "title": "¿Regalo o trampa? OpenAI y la CE tienen un nuevo plan para Europa",
+        "image_url": "https://s1.elespanol.com/2025/04/11/actualidad/1003743710736_254694114_1706x960.jpg?contentId=1003743710736",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/20250413/regalo-trampa-openai-ce-nuevo-plan-europa/1003743710524_13.html",
+        "date": "2025-04-13 01:02:26",
+        "sentiment_score": 0.014395803213119507
+    },
+    {
+        "title": "Real ID: Cuánto tiempo lleva tramitar el documento de identificación en California",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/real-id-cuanto-tiempo-lleva-tramitar-el-documento-de-identificacion-en-california--202541221530",
+        "date": "2025-04-13 01:53:00",
+        "sentiment_score": 0.041558898985385895
+    },
+    {
+        "title": "Saime entregará pasaportes tramitados en países sin representación consular: puede retirarlo un familiar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/saime-entregara-pasaportes-tramitados-en-paises-sin-representacion-consular-puede-retirarlo-un-familiar-202541221280",
+        "date": "2025-04-13 01:28:00",
+        "sentiment_score": -0.003766164183616638
+    },
+    {
+        "title": "Detienen en Florida a médico venezolano por presunta mala praxis: desfiguró el rostro de una mujer",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/sucesos/detienen-en-florida-a-medico-venezolano-por-presunta-mala-praxis-desfiguro-el-rostro-de-una-mujer-20254122150",
+        "date": "2025-04-13 01:05:00",
+        "sentiment_score": -0.4113975837826729
+    },
+    {
+        "title": "Sigue estos pasos para pagar tu factura de Corpoelec a través del Banco de Venezuela",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/sigue-estos-pasos-para-pagar-tu-factura-de-corpoelec-a-traves-del-banco-de-venezuela-20254122100",
+        "date": "2025-04-13 01:00:00",
+        "sentiment_score": 0.581247340887785
+    },
+    {
+        "title": "Advierten que Trump quiere cerrar 2025 con un millón de deportados: al menos 30 países podrían recibirlos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/migracion/advierten-que-trump-quiere-cerrar-2025-con-un-millon-de-deportados-al-menos-30-paises-podrian-recibirlos-202541220200",
+        "date": "2025-04-13 00:20:00",
+        "sentiment_score": -0.6729027964174747
+    },
+    {
+        "title": "Aeropuerto de Miami: estudio revela la terminal que ofrece la mejor gastronomía a los viajeros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/aeropuerto-de-miami-estudio-revela-la-terminal-que-ofrece-la-mejor-gastronomia-a-los-viajeros-202541220180",
+        "date": "2025-04-13 00:18:00",
+        "sentiment_score": 0.0692082941532135
+    },
+    {
+        "title": "Cabello radiante: repara las puntas secas con aceite de oliva y miel",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744491283597/close-up-taza-aceite-oliva-aceitunas-verdes_23-2148285992.jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/cabello-radiante-repara-las-puntas-secas-con-aceite-de-oliva-y-miel-202541220150",
+        "date": "2025-04-13 00:15:00",
+        "sentiment_score": -0.7770805321633816
+    },
+    {
+        "title": "Aclara la piel del rostro con una mascarilla natural de dos ingredientes",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744489990839/avena-enrollada-es-cereal-saludable-desayuno-escamas-avena-cuenco-aisladas-sobre-fondo-blanco_123827-35208.jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/aclara-la-piel-del-rostro-con-una-mascarilla-natural-de-dos-ingredientes-20254122050",
+        "date": "2025-04-13 00:05:00",
+        "sentiment_score": -0.7212280221283436
+    },
+    {
+        "title": "Seis pasos para realizar transferencias en la plataforma Patria",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/seis-pasos-para-realizar-transferencias-en-la-plataforma-patria-20254122000",
+        "date": "2025-04-13 00:00:00",
+        "sentiment_score": 0.0739442165941
+    },
+    {
+        "title": "Ejercitar: esto puede pasar si no respiras bien durante tu actividad física",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744309371735/medium-shot-smiley-woman-stretching-her-body_23-2148285827.jpeg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/ejercitar-esto-puede-pasar-si-no-respiras-bien-durante-tu-actividad-fisica-202541219550",
+        "date": "2025-04-12 23:55:00",
+        "sentiment_score": 0.4563855193555355
     }
 ];
