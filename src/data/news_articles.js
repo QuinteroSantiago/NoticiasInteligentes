@@ -160,46 +160,6 @@ export default [
         "sentiment_score": -0.07679003477096558
     },
     {
-        "title": "Borrador renta 2025 en Vizcaya: cómo obtenerlo y consultarlo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/noticias/2025/04/10/renta1-k2ZE-U70793071513TYB-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/declaracion-renta/borrador-renta-2025-vizcaya-obtenerlo-consultarlo-20250410153352-nt.html",
-        "date": "2025-04-10 13:33:53",
-        "sentiment_score": -0.036842554807662964
-    },
-    {
-        "title": "Prada anuncia la compra de Versace por 1.250 millones de euros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/04/10/Prada-k7XE-U70792989689QoH-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/prada-anuncia-compra-versace-1250-millones-euros-20250410151553-nt.html",
-        "date": "2025-04-10 13:15:55",
-        "sentiment_score": 0.36868035793304443
-    },
-    {
-        "title": "El caos bursátil expone 153.000 millones en ahorros de las familias españolas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/10/1495027034-ReZHHtFyFNCny4wGjCt2oWI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/caos-bursatil-expone-153000-millones-ahorros-familias-20250410142017-nt.html",
-        "date": "2025-04-10 12:22:16",
-        "sentiment_score": -0.15891282260417938
-    },
-    {
-        "title": "Los accionistas aprueban que Murtra sea presidente de Telefónica, con una participación del 64% en la junta",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/10/Murtra2-R8zp9W0cG0ISrJhK7XRDWWN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/accionistas-telefonica-20250410122834-nt.html",
-        "date": "2025-04-10 11:35:08",
-        "sentiment_score": -0.1511969119310379
-    },
-    {
         "title": "El PP impide que la Asamblea de Madrid investigue el ‘caso FP’ que salpica al Gobierno de Ayuso",
         "image_url": "https://imagenes.elpais.com/resizer/v2/EHMXDTRBPD66QWLJTMQLFNU5M4.jpg?auth=874eead7fbeb50a5ace8882d2f117d65883e08f1dcbf135f9195ceea0ed06cf2&width=1200",
         "tags": [
@@ -308,104 +268,6 @@ export default [
         "link": "https://elpais.com/espana/2025-04-10/el-tiempo-en-semana-santa-comunidad-por-comunidad.html",
         "date": "2025-04-10 14:21:30",
         "sentiment_score": -0.3296750336885452
-    },
-    {
-        "title": "El presunto pirómano de El Saler: “Que interés tengo en provocar un incendio en mi casa”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KQLDGTUJQNHKPHA6SAVG3VPRYA.JPG?auth=cd24e9483edb1af4f9158fe67c1ee26489db04f3954f2b6828fb46286cf15727&width=1200",
-        "tags": [
-            "bosques",
-            "incendios",
-            "comunidad valenciana",
-            "justicia",
-            "sucesos",
-            "incendios forestales",
-            "juicios",
-            "delitos",
-            "albufera de valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-10/el-presunto-piromano-de-el-saler-que-interes-tengo-en-provocar-un-incendio-en-mi-casa.html",
-        "date": "2025-04-10 13:48:28",
-        "sentiment_score": -0.6318926736712456
-    },
-    {
-        "title": "González Amador desvela a la jueza que paga 5.000 euros al mes por el ático que disfruta junto a Ayuso encima de su vivienda",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MHZ3QXAIN5DMTHW2O33SCQUYWQ.jpg?auth=ce896c07ff643506ca113eed61aae3d96bc30cc503271575eb65cdaf85b769f0&width=1200",
-        "tags": [
-            "vivienda",
-            "isabel díaz ayuso",
-            "jueces",
-            "madrid",
-            "comunidad de madrid",
-            "alberto gonzález amador"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-04-10/gonzalez-amador-desvela-a-la-jueza-que-paga-5000-euros-al-mes-por-el-que-atico-que-disfruta-junto-a-ayuso-encima-de-su-vivienda.html",
-        "date": "2025-04-10 13:46:31",
-        "sentiment_score": -0.14444087445735931
-    },
-    {
-        "title": "El Congreso aprueba la ley que permitirá disolver asociaciones franquistas sin el apoyo de PP y Vox",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CVSE4P2VLEVKXFYMH2YFOUYVEE.jpg?auth=4555cef56dd9cadf145a680842e00c8af1aab40bb96f87d86cdafef405945495&width=1200",
-        "tags": [
-            "pp",
-            "votaciones",
-            "partidos extraparlamentarios",
-            "españa",
-            "grupos parlamentarios",
-            "vox",
-            "psoe",
-            "congreso diputados",
-            "proyectos ley",
-            "cortes constituyentes",
-            "partidos conservadores",
-            "mesa congreso",
-            "gobierno",
-            "parlamento",
-            "ultras",
-            "cortes generales"
-        ],
-        "link": "https://elpais.com/espana/2025-04-10/el-congreso-aprueba-la-ley-que-permitira-disolver-asociaciones-franquistas-sin-el-apoyo-de-pp-y-vox.html",
-        "date": "2025-04-10 13:46:29",
-        "sentiment_score": -0.8862267881631851
-    },
-    {
-        "title": "Collboni pide ante la Unesco fondos para la alianza de administraciones contra el racismo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GV272MNII5LMQHGIL6X6USW4CM.jpg?auth=61cd97abedfb9c7cf7ca999963a983ade4474b92d9927ebfdf559b48fbd0272b&width=1200",
-        "tags": [
-            "racismo",
-            "jaume collboni",
-            "parís",
-            "onu",
-            "ciudades sostenibles",
-            "partido socialista",
-            "foros",
-            "unesco",
-            "cataluña",
-            "francia",
-            "ayuntamiento barcelona",
-            "discriminación",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-10/collboni-pide-ante-la-unesco-fondos-para-la-alianza-de-administraciones-contra-el-racismo.html",
-        "date": "2025-04-10 13:00:55",
-        "sentiment_score": 0.01987135410308838
-    },
-    {
-        "title": "El juzgado cita a Revilla el 16 de mayo para el acto de conciliación tras la denuncia del rey emérito",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BAR4YQPDLND5RDKHWAUVY7GFUE.jpg?auth=3146589309fb3532176d3fb7db18d89cd889f9732d71501767d63054d2424d4b&width=1200",
-        "tags": [
-            "juicios",
-            "juan carlos i",
-            "televisión",
-            "calumnias",
-            "miguel ángel revilla",
-            "españa",
-            "casa real",
-            "injurias",
-            "justicia"
-        ],
-        "link": "https://elpais.com/espana/2025-04-10/el-juzgado-cita-a-revilla-el-16-de-mayo-para-el-acto-de-conciliacion-tras-la-denuncia-del-rey-emerito.html",
-        "date": "2025-04-10 12:49:08",
-        "sentiment_score": -0.7006270363926888
     },
     {
         "title": "Muere Leo Beenhakker, mítico técnico de la 'Quinta del Buitre'",
@@ -6799,5 +6661,399 @@ export default [
         "link": "https://2001online.com/sucesos/detienen-a-hombre-por-maltrato-violento-a-expareja-la-victima-recibia-amenaza-de-muerte-202541315150",
         "date": "2025-04-13 19:15:00",
         "sentiment_score": -0.8677539844065905
+    },
+    {
+        "title": "Vargas Llosa y el amor",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/14/vargas-llosa-y-el-amor/",
+        "date": "2025-04-14 02:15:34",
+        "sentiment_score": 0.012379944324493408
+    },
+    {
+        "title": "Málaga: el pronóstico del clima para este 14 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/MZQGT5UDA5DBFLKNH4L3WWWOGA.jpg?auth=606f1ef5d286ecfdb13eb1ca26f6f4109f5d55445f87589f0126db3250ca0466&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/14/malaga-el-pronostico-del-clima-para-este-14-de-abril/",
+        "date": "2025-04-14 02:02:03",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "La compañía del helicóptero siniestrado en Nueva York dejará de opera \"de inmediato\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/14/la-compania-del-helicoptero-siniestrado-en-nueva-york-dejara-de-opera-de-inmediato/",
+        "date": "2025-04-14 01:47:34",
+        "sentiment_score": -0.7735804542899132
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Madrid este 14 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/KTMO32ZH5NFQTJK4WW3XK2AXRE.jpg?auth=3d81d586fd9cdbe989cb67f5b85638b4df4f3eee954bce37aac7d264f58f4c00&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/14/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-madrid-este-14-de-abril/",
+        "date": "2025-04-14 01:32:12",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Top de filmes imprescindibles para ver HOY en Prime Video España",
+        "image_url": "https://www.infobae.com/resizer/v2/LLNDP2MNHBFXZPNLCIBLGPRLQI.jpg?auth=ca48e591f53e2dd7004446da9ba94ee3e1b0b68786c3641ba140ca7aac710881&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/04/14/top-de-filmes-imprescindibles-para-ver-hoy-en-prime-video-espana/",
+        "date": "2025-04-14 01:30:55",
+        "sentiment_score": 0.4501218758523464
+    },
+    {
+        "title": "Top 10 de Netflix en España: Estas son las películas más vistas en la plataforma",
+        "image_url": "https://www.infobae.com/resizer/v2/5ESTJPH7ONF7VBKROIJ4NA37FQ.jpg?auth=8ff50e0fbd8ddbe75d973ef0ea9ae82683647f399a39c1843c6ab75ba26b1037&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/14/top-10-de-netflix-en-espana-estas-son-las-peliculas-mas-vistas-en-la-plataforma/",
+        "date": "2025-04-14 01:30:37",
+        "sentiment_score": 0.4404324144124985
+    },
+    {
+        "title": "Pronóstico del clima: las temperaturas que se esperan en Barcelona este 14 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/MK4Q25P6ABC3VHHQ3IW2PMIJKA.jpg?auth=18df06ea98cacd736794142097a6d52113031d8b770aa2b90f087e73eb5f2dca&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/14/pronostico-del-clima-las-temperaturas-que-se-esperan-en-barcelona-este-14-de-abril/",
+        "date": "2025-04-14 01:00:41",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "La posición de Fernando Alonso y Carlos Sainz en el campeonato de pilotos de la F1",
+        "image_url": "https://www.infobae.com/resizer/v2/G34A62ZOTRBJTJZFHI2WEIF4KY.png?auth=35c68ef57d9ea754c75a6c643c80cb8a8d28dea8728a6c356cb2cba4c9d7f797&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/04/13/la-posicion-de-fernando-alonso-y-carlos-sainz-en-el-campeonato-de-pilotos-de-la-f1/",
+        "date": "2025-04-13 23:45:47",
+        "sentiment_score": 0.3032575845718384
+    },
+    {
+        "title": "Tres heridos graves en un accidente de tráfico en San Martín de la Vega (Madrid)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/13/tres-heridos-graves-en-un-accidente-de-trafico-en-san-martin-de-la-vega-madrid/",
+        "date": "2025-04-13 23:31:31",
+        "sentiment_score": -0.7880938537418842
+    },
+    {
+        "title": "España refuerza las restricciones hasta el 22 de abril para viajeros internacionales, incluidos los peruanos",
+        "image_url": "https://www.infobae.com/resizer/v2/X2VRT7OQFFATBJCJPJLEI3UHP4.jpg?auth=b6895490933713be39ff1cf7c371cd8a16923a1b72939a3d13812986ea0c9d85&height=717&smart=true&width=1280",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/04/13/espana-refuerza-las-restricciones-hasta-el-22-de-abril-para-viajeros-internacionales-incluidos-los-peruanos/",
+        "date": "2025-04-13 23:04:31",
+        "sentiment_score": 0.30211421102285385
+    },
+    {
+        "title": "Noboa gana las elecciones y Luisa González no reconoce los resultados",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/14/noboa-kSOE-U70812837002q5B-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/noboa-gana-elecciones-luisa-gonzalez-reconoce-resultados-20250414035528-nt.html",
+        "date": "2025-04-14 01:56:38",
+        "sentiment_score": -0.22539371252059937
+    },
+    {
+        "title": "Mi trayectoria personal",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/04/trayectoria-personal-antonio-guerra-caballero.jpg",
+        "tags": [
+            "opinión",
+            "colaboraciones"
+        ],
+        "link": "https://elfarodeceuta.es/trayectoria-personal/",
+        "date": "2025-04-14 02:15:34",
+        "sentiment_score": -0.07581483572721481
+    },
+    {
+        "title": "Vargas Llosa, el último del \"boom\" latinoamericano",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/14/vargas-llosa-el-ultimo-del-boom-latinoamericano/",
+        "date": "2025-04-14 02:01:41",
+        "sentiment_score": -0.2548288553953171
+    },
+    {
+        "title": "De la visión realista a la surrealista de Ucrania",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "tribunas"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/tribunas/250414/1986845/vision-realista-surrealista-ucrania.html",
+        "date": "2025-04-14 01:30:00",
+        "sentiment_score": -0.14892742037773132
+    },
+    {
+        "title": "Reportan la muerte del escritor peruano Mario Vargas Llosa. Tenía 89 años",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/564c51b/2147483647/strip/true/crop/5184x2722+0+367/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F54%2Fdf%2F4034fd774edba4dd8a56ea1cacad%2Fap221658495573.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/entretenimiento/articulo/2025-04-13/reportan-la-muerte-del-escritor-peruano-mario-vargas-llosa",
+        "date": "2025-04-14 01:25:15",
+        "sentiment_score": -0.6931567713618279
+    },
+    {
+        "title": "Muere Mario Vargas Llosa, premio Nobel de Literatura y gigante de las letras latinoamericanas",
+        "image_url": "https://dims.apnews.com/dims4/default/b2c77cb/2147483647/strip/true/crop/4356x2450+0+215/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc7%2F35%2Ffbde8c2786606bdbe27f4021b75a%2F9e83d8daac6e4697bd44d728495d3511",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/mario-vargas-llosa-deceso-muerte-nobel-de-literatura-c06acfbff2295928bb52a4d45b5d726e",
+        "date": "2025-04-14 01:05:39",
+        "sentiment_score": -0.7929484508931637
+    },
+    {
+        "title": "Muere a los 89 años Mario Vargas Llosa, el último Premio Nobel de Literatura en lengua española",
+        "image_url": "https://s1.elespanol.com/2019/11/08/actualidad/actualidad_442967017_137410517_1706x960.jpg?contentId=442967017",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20250414/muere-anos-mario-vargas-llosa-ultimo-premio-nobel-literatura-lengua-espanola/776172643_0.html",
+        "date": "2025-04-14 01:03:43",
+        "sentiment_score": 0.3212742358446121
+    },
+    {
+        "title": "Buenas noticias en el FC Barcelona con relación a una de sus estrellas",
+        "image_url": "https://pxcdn.meridiano.net/042025/1744592552759.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/buenas-noticias-en-el-fc-barcelona-con-relacion-a-una-de-sus-estrellas-202541320460",
+        "date": "2025-04-14 01:03:00",
+        "sentiment_score": 0.04789329320192337
+    },
+    {
+        "title": "Falleció Mario Vargas Llosa, coloso de la Literatura latinoamericana y mundial",
+        "image_url": "https://elluchador.info/wp-content/uploads/2025/04/64a4310859bf5b64a90b7a86-1068x788.jpeg",
+        "tags": [
+            "literatura",
+            "entretenimiento",
+            "destacado",
+            "escritor"
+        ],
+        "link": "https://elluchador.info/?p=273098",
+        "date": "2025-04-14 00:56:42",
+        "sentiment_score": -0.18835850059986115
+    },
+    {
+        "title": "Las 5 incógnitas sobre Jésica que el PP quiere despejar este lunes en el Senado: de los viajes oficiales a su \"casita de novios\"",
+        "image_url": "https://s1.elespanol.com/2025/04/13/actualidad/1003743712719_254735958_1706x960.jpg?contentId=1003743712719",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250414/incognitas-jesica-pp-quiere-despejar-lunes-senado-viajes-oficiales-casita-novios/1003743712670_0.html",
+        "date": "2025-04-14 00:48:57",
+        "sentiment_score": -0.7827310431748629
+    },
+    {
+        "title": "Muere Mario Vargas Llosa a los 89 años",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/files/fp/uploads/2025/04/14/el-escritor-mario-vargas-llosa-en-una-imagen-de-archivo.r_d.512-394-9228.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.huffingtonpost.es/life/cultura/muere-escritor-mario-vargas-llosa-89nos.html",
+        "date": "2025-04-14 00:48:13",
+        "sentiment_score": -0.453870564699173
+    },
+    {
+        "title": "El puñetazo que partió en dos el boom latinoamericano",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/14/el-punetazo-que-partio-en-dos-el-boom-latinoamericano/",
+        "date": "2025-04-14 02:01:25",
+        "sentiment_score": -0.3531248867511749
+    },
+    {
+        "title": "Santos, con Neymar en cancha, cae ante Fluminense con un gol sobre el final",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/14/santos-con-neymar-en-cancha-cae-ante-fluminense-con-un-gol-sobre-el-final/",
+        "date": "2025-04-14 02:00:35",
+        "sentiment_score": 0.4948210343718529
+    },
+    {
+        "title": "La misteriosa muerte de Antonio Binimelis, el profesor mallorquín asesinado en La India",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3262923.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2025/04/14/2365493/misteriosa-muerte-antonio-binimelis-profesor-mallorquin-asesinado-india.html",
+        "date": "2025-04-14 02:00:01",
+        "sentiment_score": -0.7453711442649364
+    },
+    {
+        "title": "Todos los cuerpos pueden danzar en Festibaal 2025",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3262995.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/04/14/2365513/danza-mallorca-todos-cuerpos-pueden-danzar-festibaal-2025.html",
+        "date": "2025-04-14 02:00:01",
+        "sentiment_score": -0.03128060698509216
+    },
+    {
+        "title": "Santiago Barro defiende que los programadores deben aprovechar el potencial de la IA",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3265223.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/04/14/2366645/santiago-barro-defiende-los-programadores-deben-aprovechar-potencial-ia.html",
+        "date": "2025-04-14 02:00:01",
+        "sentiment_score": 0.05881232023239136
+    },
+    {
+        "title": "Un fin de semana de pura raza en Es Mercadal",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3265335.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2025/04/14/2366667/fin-semana-pura-raza-mercadal.html",
+        "date": "2025-04-14 02:00:01",
+        "sentiment_score": -0.5981102883815765
+    },
+    {
+        "title": "Volar con ellos, riesgo de muerte",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2025/04/14/2364893/animales-vuelo-avion-volar-ellos-riesgo-muerte.html",
+        "date": "2025-04-14 02:00:01",
+        "sentiment_score": -0.2052019089460373
+    },
+    {
+        "title": "El puñetazo por celos que partió en dos el boom literario latinoamericano",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2023/03/22/gabo-y-amigos-donoso-vargas.jpeg",
+        "tags": [
+            "ocio y cultura"
+        ],
+        "link": "https://www.heraldo.es/noticias/ocio-y-cultura/2025/04/14/vargas-llosa-garcia-marquez-punetazo-celos-boom-literario-latinoamericano-1815449.html",
+        "date": "2025-04-14 01:57:18",
+        "sentiment_score": -0.007010072469711304
+    },
+    {
+        "title": "Mujer detenida por estafar con rifas falsas en Lara: fingió recaudar fondos para operar a una niña",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744597003496.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/mujer-detenida-por-estafar-con-rifas-falsas-en-lara-fingio-recaudar-fondos-para-operar-a-una-nina-202541322160",
+        "date": "2025-04-14 02:16:00",
+        "sentiment_score": 0.2791187912225723
+    },
+    {
+        "title": "Cómo obtener el reverso de $225 por multas erróneas en Miami-Dade: pasos para registrar la impugnación",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744596611349.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/como-obtener-el-reverso-de-225-por-multas-erroneas-en-miami-dade-pasos-para-registrar-la-impugnacion-20254132290",
+        "date": "2025-04-14 02:09:00",
+        "sentiment_score": -0.5975884050130844
+    },
+    {
+        "title": "El Gobierno expresa su disposición para atender las necesidades de los venezolanos afectados por colapso de discoteca Jet Set: desplegaron un equipo técnico y consular",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744596113077.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/el-gobierno-expresa-su-disposicion-para-atender-las-necesidades-de-los-venezolanos-afectados-por-colapso-de-discoteca-jet-set-desplegaron-un-equipo-tecnico-y-consular-20254132230",
+        "date": "2025-04-14 02:03:00",
+        "sentiment_score": 0.32192059606313705
+    },
+    {
+        "title": "Predicciones de la semana del 14 al 20 de abril",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-14-al-20-de-abril--20254132200",
+        "date": "2025-04-14 02:00:00",
+        "sentiment_score": -0.040391191840171814
+    },
+    {
+        "title": "¿Tienes un correcto cepillado dental? ¡Entérate aquí!",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744385406117.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/tienes-un-correcto-cepillado-dental-enterate-aqui--202541321550",
+        "date": "2025-04-14 01:55:00",
+        "sentiment_score": 0.3256998881697655
+    },
+    {
+        "title": "Mario Vargas Llosa: el Nobel que conquistó el mundo con su pluma y sagacidad",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744596502754.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/mario-vargas-llosa-el-nobel-que-conquisto-el-mundo-con-su-pluma-y-sagacidad-202541321440",
+        "date": "2025-04-14 01:44:00",
+        "sentiment_score": 0.7028069160878658
+    },
+    {
+        "title": "Oficinas de registros y notarías no prestarán servicio durante la Semana Santa 2025: conozca cuando se reanuda el servicio",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744575001393.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/oficinas-de-registros-y-notarias-no-prestaran-servicio-durante-la-semana-santa-2025-conozca-cuando-se-reanuda-el-servicio-20254132100",
+        "date": "2025-04-14 01:00:00",
+        "sentiment_score": 0.15528505109250546
+    },
+    {
+        "title": "Monedas de colección USA: el ejemplar de 5 centavos que puede valer $1.000",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744591873577.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/monedas-de-coleccion-usa-el-ejemplar-de-5-centavos-que-puede-valer-1-000-202541320490",
+        "date": "2025-04-14 00:49:00",
+        "sentiment_score": 0.26452359557151794
+    },
+    {
+        "title": "Entérate de cuál es el aceite que alisa el cabello minutos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744586711894.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/enterate-de-cual-es-el-aceite-que-alisa-el-cabello-minutos-202541320450",
+        "date": "2025-04-14 00:45:00",
+        "sentiment_score": -0.7387139424681664
+    },
+    {
+        "title": "Muere el escritor peruano Mario Vargas Llosa a los 89 años",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744591370866.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/muere-el-escritor-peruano-mario-vargas-llosa-a-los-89-anos-202541320400",
+        "date": "2025-04-14 00:40:00",
+        "sentiment_score": -0.6668247189372778
     }
 ];
