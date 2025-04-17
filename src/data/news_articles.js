@@ -150,16 +150,6 @@ export default [
         "sentiment_score": -0.1253284066915512
     },
     {
-        "title": "Paramilitares sudaneses matan a 56 civiles en dos días en Darfur",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/13/sudan-k7F-U70809574897TfB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/paramilitares-sudaneses-matan-civiles-dos-dias-darfur-20250413150814-nt.html",
-        "date": "2025-04-13 13:08:14",
-        "sentiment_score": -0.1817111074924469
-    },
-    {
         "title": "El PSPV-PSOE acusa a Mazón de “ocultar” en enero un anticipo de 500 millones de euros del Gobierno",
         "image_url": "https://imagenes.elpais.com/resizer/v2/752XS2T5KX6U5ZR5QA6RGYLWU4.jpg?auth=699fa1751e93da782013bf77cf277e561408a39b954d7b715adf7324d97c1e80&width=1200",
         "tags": [
@@ -173,75 +163,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-13/el-pspv-psoe-acusa-a-mazon-de-ocultar-en-enero-un-anticipo-de-500-millones-de-euros-del-gobierno.html",
         "date": "2025-04-13 14:41:39",
         "sentiment_score": -0.8937694244086742
-    },
-    {
-        "title": "Mueren dos motoristas al chocar con un coche en Riudarenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/T35RGGHKRBADLOU6R2VBVSONCU.jpg?auth=6888a46c3644abbf9901da866c67b4e649a45a388a09fe666192fc873a766f31&width=1200",
-        "tags": [
-            "motocicletas",
-            "sucesos",
-            "tráfico",
-            "cataluña",
-            "accidentes",
-            "coches",
-            "riudarenes"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-13/mueren-dos-motoristas-al-chocar-con-un-coche-en-riudarenes.html",
-        "date": "2025-04-13 14:02:25",
-        "sentiment_score": -0.6872254088521004
-    },
-    {
-        "title": "El PP sostiene que el viaje de Sánchez a China obedece a los “intereses personales” de Zapatero",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WHJYKUH3KCQ6YJKLZKVLL7S3P4.jpg?auth=ed74a6372e7a5cb9dda3938edc7606ae7cc0ba8fe7f923ddeeebae56133ea8a1&width=1200",
-        "tags": [
-            "aranceles",
-            "xi jinping",
-            "psoe",
-            "pedro sánchez",
-            "gobierno",
-            "donald trump",
-            "españa",
-            "pp",
-            "cuca gamarra",
-            "china",
-            "alberto núñez feijóo",
-            "viajes oficiales"
-        ],
-        "link": "https://elpais.com/espana/2025-04-13/el-pp-sostiene-que-el-viaje-de-sanchez-a-china-obedece-a-los-intereses-personales-de-zapatero.html",
-        "date": "2025-04-13 11:52:31",
-        "sentiment_score": -0.7395830806344748
-    },
-    {
-        "title": "Ecuador vota antes en Madrid: así se viven las elecciones en la mayor diáspora europea",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JZVHT7BW6ZAIFMJIRBGE7OC7XA.jpg?auth=696e34186eab2644109bb4436d3fca239db3d89eb4e06c1b8e616c4adacfb7ed&width=1200",
-        "tags": [
-            "isabel díaz ayuso",
-            "luisa gonzález",
-            "daniel noboa",
-            "comunidad de madrid",
-            "elecciones ecuador",
-            "madrid",
-            "violencia",
-            "ecuador",
-            "narcotráfico"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-04-13/ecuador-vota-antes-en-madrid-asi-se-viven-las-elecciones-en-la-mayor-diaspora-europea.html",
-        "date": "2025-04-13 10:51:31",
-        "sentiment_score": -0.663948405534029
-    },
-    {
-        "title": "Un herido grave y cuatro leves tras precipitarse un coche desde Montjuïc",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CZU7NJYN5RDZBDBG4HRPT7ROTA.jpeg?auth=fc4c69a07c931499662a170d1d49f0e83d8a9868e97d8d7efec068279d98f6e0&width=1200",
-        "tags": [
-            "sucesos",
-            "montjuïc",
-            "barcelona",
-            "accidentes tráfico",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-13/un-herido-grave-y-cuatro-leves-tras-precipitarse-un-coche-desde-montjuic.html",
-        "date": "2025-04-13 10:20:37",
-        "sentiment_score": -0.1183980256319046
     },
     {
         "title": "La salida de la procesión de La Borriquita en Madrid a pesar de la lluvia",
@@ -6956,5 +6877,359 @@ export default [
         "link": "https://2001online.com/comunidad/estas-son-las-playas-aptas-de-puerto-cabello-para-el-asueto-de-semana-santa-20254161710",
         "date": "2025-04-16 21:01:00",
         "sentiment_score": 0.025026842951774597
+    },
+    {
+        "title": "El Valencia afronta un nuevo examen de supervivencia ante una Real Sociedad al alza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/el-valencia-afronta-un-nuevo-examen-de-supervivencia-ante-una-real-sociedad-al-alza/",
+        "date": "2025-04-17 02:04:40",
+        "sentiment_score": -0.47273775935173035
+    },
+    {
+        "title": "Navarra envía efectivos de emergencias para colaborar en el rescate del accidente de Astún",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/navarra-envia-efectivos-de-emergencias-para-colaborar-en-el-rescate-del-accidente-de-astun/",
+        "date": "2025-04-17 02:04:25",
+        "sentiment_score": -0.19071219116449356
+    },
+    {
+        "title": "Pedro Martín no se presentará a su reelección como secretario general del PSOE en Tenerife en el Congreso de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/SMKIUH5GEZC73KGTKEDATSG7OY.jpg?auth=08eab21bcc64a25bc543343b88192a3478b50a8a472d12188142947b3ab593ac&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/pedro-martin-no-se-presentara-a-su-reeleccion-como-secretario-general-del-psoe-en-tenerife-en-el-congreso-de-abril/",
+        "date": "2025-04-17 02:03:56",
+        "sentiment_score": 0.24134351313114166
+    },
+    {
+        "title": "Gamarra afea que Sánchez pase por \"otra humillación\" de Junts para seguir en la Moncloa",
+        "image_url": "https://www.infobae.com/resizer/v2/FQUWX3YQCBE4RF5ZDOEMACSZNE.jpg?auth=d6f47c453fbe0f18b6031c21c3bd4773a153e95f70089bf34925f881ef87eda2&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/gamarra-afea-que-sanchez-pase-por-otra-humillacion-de-junts-para-seguir-en-la-moncloa/",
+        "date": "2025-04-17 02:02:18",
+        "sentiment_score": -0.7396342232823372
+    },
+    {
+        "title": "Hombre acusado de fraude en España es detenido en el estado mexicano de Nuevo León",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/17/hombre-acusado-de-fraude-en-espana-es-detenido-en-el-estado-mexicano-de-nuevo-leon/",
+        "date": "2025-04-17 02:00:20",
+        "sentiment_score": -0.5722103342413902
+    },
+    {
+        "title": "Gallagher, titular en el Atlético",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/gallagher-titular-en-el-atletico/",
+        "date": "2025-04-17 01:49:32",
+        "sentiment_score": 0.6280329152941704
+    },
+    {
+        "title": "Libertad con medidas de alejamiento para una pareja arrestada por malos tratos a dos menores hijos de ella",
+        "image_url": "https://www.infobae.com/resizer/v2/QEKAYOFW25CNRO2VOSHBGGNTVU.jpg?auth=d41da48f14706cfe899dca7c2e49d3ae423a98105fa1e44b91266ddd1bab3cdc&height=1463&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/libertad-con-medidas-de-alejamiento-para-una-pareja-arrestada-por-malos-tratos-a-dos-menores-hijos-de-ella/",
+        "date": "2025-04-17 01:49:14",
+        "sentiment_score": -0.6141115874052048
+    },
+    {
+        "title": "Unas 800 personas salen a la calle en Barcelona contra el fascismo y a favor de Palestina",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/unas-800-personas-salen-a-la-calle-en-barcelona-contra-el-fascismo-y-a-favor-de-palestina/",
+        "date": "2025-04-17 01:48:59",
+        "sentiment_score": 0.1925666183233261
+    },
+    {
+        "title": "Un muerto y un herido en el derrumbe de una escalera en un garaje de Benetússer (Valencia)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/un-muerto-y-un-herido-en-el-derrumbe-de-una-escalera-en-un-garaje-de-benetusser-valencia/",
+        "date": "2025-04-17 01:48:27",
+        "sentiment_score": -0.8228665683418512
+    },
+    {
+        "title": "Unos 9.000 manifestantes piden a Alemania un apoyo ambicioso a la agricultura ecológica",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/unos-9000-manifestantes-piden-a-alemania-un-apoyo-ambicioso-a-la-agricultura-ecologica/",
+        "date": "2025-04-17 01:34:13",
+        "sentiment_score": 0.07660748064517975
+    },
+    {
+        "title": "Meloni, a solas con Trump: su viaje internacional más difícil e incierto",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/16/giorigia-meloni-RwRiAwmkeZMTs7TzuXxntDL-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/meloni-solas-trump-viaje-internacional-dificil-incierto-20250416035240-nt.html",
+        "date": "2025-04-17 01:52:58",
+        "sentiment_score": -0.14782701432704926
+    },
+    {
+        "title": "Dinamarca enviará soldados desarmados a Ucrania a «familiarizarse» con la guerra",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/16/uk-trining-R5UlzAOSFBw1ob0tGZjwlNP-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/dinamarca-enviara-soldados-desarmados-ucrania-familiarizarse-guerra-20250416034942-nt.html",
+        "date": "2025-04-17 01:50:38",
+        "sentiment_score": -0.09780094027519226
+    },
+    {
+        "title": "Renfe espera la llamada del promotor del AVE texano, pero asegura que la decisión de Trump no le causa impacto económico",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/17/1490595404-RGAG8aySkkgo5zQnc9UwTrM-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/renfe-espera-llamada-promotor-ave-texano-asegura-20250417034503-nt.html",
+        "date": "2025-04-17 01:45:03",
+        "sentiment_score": -0.08797933161258698
+    },
+    {
+        "title": "Estos son los cinco jugadores favoritos de Carlos el ‘Pibe’ Valderrama en la actualidad: hay un colombiano",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/04/17/estos-son-los-cinco-jugadores-favoritos-de-carlos-el-pibe-valderrama-en-la-actualidad-hay-un-colombiano/",
+        "date": "2025-04-17 02:12:09",
+        "sentiment_score": -0.16079844534397125
+    },
+    {
+        "title": "En busca de la tranquilidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/18/en-busca-de-la-tranquilidad/",
+        "date": "2025-04-17 02:03:09",
+        "sentiment_score": 0.3822072893381119
+    },
+    {
+        "title": "Real Madrid perdió 2-1 ante Arsenal y quedó eliminado de la Champions League",
+        "image_url": "https://elluchador.info/wp-content/uploads/2025/04/image-547-1068x758.png",
+        "tags": [
+            "deportes",
+            "arsenal",
+            "real madrid",
+            "eliminado"
+        ],
+        "link": "https://elluchador.info/?p=273522",
+        "date": "2025-04-17 01:33:38",
+        "sentiment_score": 0.18297794461250305
+    },
+    {
+        "title": "Giráldez: \"Condeno el odio que ha recibido Douvikas\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/18/giraldez-condeno-el-odio-que-ha-recibido-douvikas/",
+        "date": "2025-04-17 01:33:18",
+        "sentiment_score": 0.312982976436615
+    },
+    {
+        "title": "(Previa) El Athletic quiere olvidar la Copa y afianzarse en 'Champions' en Balaídos",
+        "image_url": "https://www.infobae.com/resizer/v2/D6MA2A56DNHF3IXIUVNH2X3DCQ.jpg?auth=1d20b333a838ed30ea00e5de136c87ea75a8cb1ec6ec27a0abad017585591927&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/18/previa-el-athletic-quiere-olvidar-la-copa-y-afianzarse-en-champions-en-balaidos/",
+        "date": "2025-04-17 01:19:24",
+        "sentiment_score": 0.31923457980155945
+    },
+    {
+        "title": "Real Madrid quedó fuera de Champions League ante Arsenal",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/04/IMG_0936.webp",
+        "tags": [
+            "destacados",
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/real-madrid-quedo-fuera-de-champions-league-ante-arsenal/",
+        "date": "2025-04-17 01:13:01",
+        "sentiment_score": -0.2283533215522766
+    },
+    {
+        "title": "Mbappé lesionado y abucheado en eliminación del Real Madrid en cuartos de la Champions",
+        "image_url": "https://dims.apnews.com/dims4/default/2b831e0/2147483647/strip/true/crop/1939x1291+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F57%2F76%2Fffc3e2bd60986231db2b2129e5c4%2F2ab9ce210b2f4c239d0b812bde47ab66",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/real-madrid-mbappe-champions-league-lesion-47387bce90a32ff49faf990ccbe6feab",
+        "date": "2025-04-17 01:11:59",
+        "sentiment_score": -0.8524696668609977
+    },
+    {
+        "title": "Mbappé lesionado y abucheado en eliminación del Real Madrid en cuartos de la Champions",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/04/Spain_Soccer_Champions_League_79620.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/04/16/mbapp-lesionado-y-abucheado-en-eliminacin-del-real-madrid-en-cuartos-de-la-champions/",
+        "date": "2025-04-17 01:11:59",
+        "sentiment_score": 0.24705234169960022
+    },
+    {
+        "title": "La explosión de la burbuja",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/3269521.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/04/17/2368867/explosion-burbuja.html",
+        "date": "2025-04-17 02:00:02",
+        "sentiment_score": -0.8430847469717264
+    },
+    {
+        "title": "Los transportistas denuncian el atasco en la Península de toneladas de mercancías a Baleares",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3269595.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2025/04/17/2368909/transportistas-denuncian-atasco-peninsula-toneladas-mercancias-baleares.html",
+        "date": "2025-04-17 02:00:02",
+        "sentiment_score": -0.8181458916515112
+    },
+    {
+        "title": "«Necesitamos que en Menorca se visibilice la alopecia femenina, es duro recibir miradas de pena»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3269537.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/04/17/2368891/necesitamos-menorca-visibilice-alopecia-femenina-duro-recibir-miradas-pena.html",
+        "date": "2025-04-17 02:00:02",
+        "sentiment_score": -0.6652838736772537
+    },
+    {
+        "title": "Tana Serra, profesora: \"Que un niño cante las tablas de multiplicar no sirve para nada\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7826e0ad-2029-40ae-ade5-36b77f4b55a5_media-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20250418/tana-serra-maestra-matematicas-tablas-de-multiplicar-111799584",
+        "date": "2025-04-17 01:48:43",
+        "sentiment_score": 0.4110855162143707
+    },
+    {
+        "title": "Fiscalía abre investigacón a funcionario policial en Carabobo: despojó de sus documentos a un conductor de gandola",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744845622973.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/fiscalia-abre-investigacon-a-funcionario-policial-en-carabobo-despojo-de-sus-documentos-a-un-conductor-de-gandola-202541622110",
+        "date": "2025-04-17 02:11:00",
+        "sentiment_score": -0.11092974245548248
+    },
+    {
+        "title": "Florida: Doral firma acuerdo de colaboración con ICE para que su policía local pueda detener a migrantes",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744858290926.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/florida-doral-firma-acuerdo-de-colaboracion-con-ice-para-que-su-policia-local-pueda-detener-a-migrantes-202541621590",
+        "date": "2025-04-17 01:59:00",
+        "sentiment_score": 0.05127213895320892
+    },
+    {
+        "title": "La actriz Silvia Pasquel reveló los bienes que heredó de Silvia Pinal",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744855764447.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/la-actriz-silvia-pasquel-revelo-los-bienes-que-heredo-de-silvia-pinal-202541621570",
+        "date": "2025-04-17 01:57:00",
+        "sentiment_score": -0.05225729942321777
+    },
+    {
+        "title": "¿Vas para la playa? Mejor no invites a estos signos zodiacales",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744724430724.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/vas-para-la-playa-mejor-no-invites-a-estos-signos-zodiacales-202541621550",
+        "date": "2025-04-17 01:55:00",
+        "sentiment_score": 0.4245646335184574
+    },
+    {
+        "title": "Gobierno de Trump entra en desacato por deportación de venezolanos a El Salvador: esto es lo que dice el juez",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744852714067.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/gobierno-de-trump-entra-en-desacato-por-deportacion-de-venezolanos-a-el-salvador-esto-es-lo-que-dice-el-juez-202541621210",
+        "date": "2025-04-17 01:21:00",
+        "sentiment_score": -0.8112213034182787
+    },
+    {
+        "title": "USA establece multas para inmigrantes que no notifiquen el cambio de domicilio: también puede ir a prisión",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744852897897.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/usa-establece-multas-para-inmigrantes-que-no-notifiquen-el-cambio-de-domicilio-tambien-puede-ir-a-prision--202541621210",
+        "date": "2025-04-17 01:21:00",
+        "sentiment_score": -0.09578832238912582
+    },
+    {
+        "title": "Nuevo detenido por fraude a reconocida entidad financiera en Lara: hurtaron 4 millones de bolívares",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744850345280.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/nuevo-detenido-por-fraude-a-reconocida-entidad-financiera-en-lara-hurtaron-4-millones-de-bolivares-202541621100",
+        "date": "2025-04-17 01:10:00",
+        "sentiment_score": -0.3138478733599186
+    },
+    {
+        "title": "Gregorio Pernía y su esposa anuncian que serán padres nuevamente: \"fue una noticia que me sacudió el alma\"",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744853565265.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/gregorio-pernia-y-su-esposa-anuncian-que-seran-padres-nuevamente-fue-una-noticia-que-me-sacudio-el-alma--20254162150",
+        "date": "2025-04-17 01:05:00",
+        "sentiment_score": -0.5850646272301674
+    },
+    {
+        "title": "Conozca los redes sociales oficiales del Sistema Patria: anuncian los bonos asignados",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744843908393.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conozca-los-redes-sociales-oficiales-del-sistema-patria-anuncian-los-bonos-asignados-20254162110",
+        "date": "2025-04-17 01:01:00",
+        "sentiment_score": 0.056696876883506775
+    },
+    {
+        "title": "Conoce las tarifas de peajes en Venezuela: montos Semana Santa 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744812384136.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conoce-las-tarifas-de-peajes-en-venezuela-montos-semana-santa-2025-20254162100",
+        "date": "2025-04-17 01:00:00",
+        "sentiment_score": -0.039080239832401276
     }
 ];
