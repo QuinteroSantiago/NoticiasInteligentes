@@ -150,56 +150,6 @@ export default [
         "sentiment_score": -0.06996530294418335
     },
     {
-        "title": "Esta combinación de fármacos puede prevenir miles de infartos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/04/14/colesterol.png",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/combinacion-farmacos-puede-prevenir-miles-infartos-20250414160100-nt.html",
-        "date": "2025-04-14 14:01:01",
-        "sentiment_score": -0.279466912150383
-    },
-    {
-        "title": "Zelenski invita a Trump a visitar Ucrania antes de tomar decisiones sobre el proceso de paz",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/14/suymy-kVgE-U70815570069w0F-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/zelenski-invita-trump-visitar-ucrania-tomar-decisiones-20250414140026-nt.html",
-        "date": "2025-04-14 12:01:31",
-        "sentiment_score": -0.14910517632961273
-    },
-    {
-        "title": "Rusia acusa a Ucrania de usar civiles como «escudos humanos» tras el ataque en Sumy",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/14/ultima_hora.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-acusa-ucrania-usar-civiles-escudos-humanos-20250414133311-nt.html",
-        "date": "2025-04-14 11:36:08",
-        "sentiment_score": -0.5284723490476608
-    },
-    {
-        "title": "Al menos ocho heridos tras un ataque de drones rusos contra edificios civiles en Odesa",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/14/1495200444-k1f-U708152321140zF-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ocho-heridos-tras-ataque-drones-rusos-edificios-20250414131453-nt.html",
-        "date": "2025-04-14 11:17:32",
-        "sentiment_score": -0.6508776322007179
-    },
-    {
-        "title": "Cinco videojuegos diferentes para disfrutar esta Semana Santa",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/04/14/the-messenger-RYP4BtoFLi2h8uccbeDlwbK-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/cinco-videojuegos-diferentes-disfrutar-semana-santa-20250414114759-nt.html",
-        "date": "2025-04-14 10:56:52",
-        "sentiment_score": -0.07941001653671265
-    },
-    {
         "title": "La Junta de Castilla y León y el Ejército construirán un puente temporal mientras se arregla el dañado en San Esteban de Gormaz",
         "image_url": "https://imagenes.elpais.com/resizer/v2/SNPIDQQYXVGXFGLW6YZZ4235VI.jpg?auth=f643ee14c44546b180f29947c40dd21ebe9869cc48f740bbc4f2039b3a4662dc&width=1200",
         "tags": [
@@ -300,73 +250,6 @@ export default [
         "link": "https://elpais.com/espana/2025-04-14/el-parlamento-asturiano-investigara-el-accidente-de-la-mina-donde-murieron-cinco-trabajadores.html",
         "date": "2025-04-14 14:56:33",
         "sentiment_score": 0.048177823424339294
-    },
-    {
-        "title": "Una jueza investiga supuestos gastos irregulares en Jucil, la principal asociación de guardias civiles",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I5MVD64TXNBALA3HZWC6JHMR7I.jpg?auth=f6e9f5d3395954c4b82b5b37b6f3f31dfd79b1c56cac187dc3b845abb8c5aa5c&width=1200",
-        "tags": [
-            "ministerio del interior",
-            "león",
-            "investigación judicial",
-            "guardia civil",
-            "jusapol",
-            "españa",
-            "denuncias",
-            "asociaciones"
-        ],
-        "link": "https://elpais.com/espana/2025-04-14/una-jueza-investiga-supuestos-gastos-irregulares-en-jucil-la-principal-asociacion-de-guardias-civiles.html",
-        "date": "2025-04-14 12:02:36",
-        "sentiment_score": -0.6150269955396652
-    },
-    {
-        "title": "El Ayuntamiento de Barcelona adquiere el Teatre Capitol de la Rambla que volverá a abrir en 2027",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PR3KHOTDU5A5BK6J5X77FFJZ6U.jpg?auth=c60f8881117d9ed28c331fae8af0929f2ae702da286ec23772f0028aae500fca&width=1200",
-        "tags": [
-            "política",
-            "jaume collboni",
-            "cataluña",
-            "teatro",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-14/el-ayuntamiento-de-barcelona-adquiere-el-teatre-capitol-de-la-rambla-que-volvera-a-abrir-en-2027.html",
-        "date": "2025-04-14 12:00:19",
-        "sentiment_score": 0.37027503550052643
-    },
-    {
-        "title": "El papa Francisco aprueba el primer paso para la beatificación del arquitecto Antoni Gaudí",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MZEVS7C66ZFJLPC5IVP2XLYYNU.jpg?auth=aacb7d14de6eeb00fe1a270ba26ca160f784849143af2e10d9dbddbb94cd2472&width=1200",
-        "tags": [
-            "sagrada familia",
-            "modernismo",
-            "antoni gaudí",
-            "iglesia católica",
-            "arquitectos pioneros",
-            "barcelona",
-            "beatificaciones",
-            "arquitectura",
-            "papa",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-14/el-papa-francisco-aprueba-el-primer-paso-para-la-beatificacion-del-arquitecto-antoni-gaudi-por-sus-virtudes-heroicas.html",
-        "date": "2025-04-14 11:46:47",
-        "sentiment_score": 0.6395860314369202
-    },
-    {
-        "title": "Las Tres Chimeneas de Sant Adrià y el Disseny Hub Barcelona, sedes principales del Congreso Mundial de Arquitectos de 2026",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AVD7QCMDFQHD3S6ZNNVWPRRKU4.jpg?auth=13b2f0740ca2e168d804a256cb159429ef9531c39339ad44f714592dbdf1f44e&width=1200",
-        "tags": [
-            "generalitat cataluña",
-            "urbanismo",
-            "cataluña",
-            "ayuntamiento barcelona",
-            "unesco",
-            "congresos",
-            "arquitectura",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-14/las-tres-chimeneas-de-sant-adria-y-el-disseny-hub-barcelona-sedes-principales-del-congreso-mundial-de-arquitectos-de-2026.html",
-        "date": "2025-04-14 11:38:54",
-        "sentiment_score": 0.84161626547575
     },
     {
         "title": "Del Cerro Grande y Hernández Hernández estarán en VAR en un Mundial de Clubes sin árbitros españoles de campo",
@@ -6903,5 +6786,376 @@ export default [
         "link": "https://2001online.com/servicios/la-sundde-llega-a-posadas-playas-y-terminales-verifican-cobro-del-dolar-a-la-tasa-bcv-202541715300",
         "date": "2025-04-17 19:30:00",
         "sentiment_score": -0.04313613474369049
+    },
+    {
+        "title": "Aritz: \"Es una pena porque veníamos a por los tres puntos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/aritz-es-una-pena-porque-veniamos-a-por-los-tres-puntos/",
+        "date": "2025-04-18 02:03:13",
+        "sentiment_score": -0.8999476404860616
+    },
+    {
+        "title": "Hugo Duro: \"Estamos en una situción difícil pero queda mucho y depende de nosotros\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/hugo-duro-estamos-en-una-situcion-dificil-pero-queda-mucho-y-depende-de-nosotros/",
+        "date": "2025-04-18 02:03:00",
+        "sentiment_score": 0.6099313460290432
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/KWCWLHOUOFD3NHCSCZTXATZBPE.jpg?auth=69721cb653fcd03f8ef8cb8d589dc342b3a35e3bd9b846e3a8fb3b2c174f4b11&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/18/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-malaga/",
+        "date": "2025-04-18 02:01:06",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El colombiano Luis Suárez sigue el frente de la tabla pese a no jugar por sanción",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/el-colombiano-luis-suarez-sigue-el-frente-de-la-tabla-pese-a-no-jugar-por-sancion/",
+        "date": "2025-04-18 01:48:41",
+        "sentiment_score": -0.5915712416172028
+    },
+    {
+        "title": "0-0; Dani Jiménez impide la victoria del Almería",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/0-0-dani-jimenez-impide-la-victoria-del-almeria/",
+        "date": "2025-04-18 01:48:28",
+        "sentiment_score": -0.5943806618452072
+    },
+    {
+        "title": "1-0. El Valencia de Corberán suma su primer triunfo liguero y deja de ser el colista",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/1-0-el-valencia-de-corberan-suma-su-primer-triunfo-liguero-y-deja-de-ser-el-colista/",
+        "date": "2025-04-18 01:47:35",
+        "sentiment_score": 0.6361828669905663
+    },
+    {
+        "title": "Mbappe se sitúa a cuatro goles de Lewandowski",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/mbappe-se-situa-a-cuatro-goles-de-lewandowski/",
+        "date": "2025-04-18 01:47:21",
+        "sentiment_score": 0.7208821102976799
+    },
+    {
+        "title": "Clima en España: la predicción del tiempo para Madrid este 18 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/CCAOGPK6R5ADBP5UTFYK6AA57Y.jpg?auth=c25926b0bc12cfddb1a8bf930c8730124c1eeadb59e31d3c482014beed80fda1&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/18/clima-en-espana-la-prediccion-del-tiempo-para-madrid-este-18-de-abril/",
+        "date": "2025-04-18 01:30:37",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Herido un parapentista tras sufrir una caída en una zona de vuelo de Jaén",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/herido-un-parapentista-tras-sufrir-una-caida-en-una-zona-de-vuelo-de-jaen/",
+        "date": "2025-04-18 01:18:56",
+        "sentiment_score": -0.7783545786514878
+    },
+    {
+        "title": "Escribano afrontará este año la renovación de 11 de los 16 miembros del Consejo de Indra",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/escribano-afrontara-este-ano-la-renovacion-de-11-de-los-16-miembros-del-consejo-de-indra/",
+        "date": "2025-04-18 01:18:11",
+        "sentiment_score": 0.43197370134294033
+    },
+    {
+        "title": "No existen los ateos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/04/18/macarena-sevilla-RYFLwn9TDieSgairF8D2c8K-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-existen-ateos-20250418040413-nt.html",
+        "date": "2025-04-18 02:04:26",
+        "sentiment_score": -0.10625094175338745
+    },
+    {
+        "title": "Imanol: “Hay cansancio y los frescos no han aprovechado la oportunidad”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/19/imanol-hay-cansancio-y-los-frescos-no-han-aprovechado-la-oportunidad/",
+        "date": "2025-04-18 02:03:43",
+        "sentiment_score": -0.4828503057360649
+    },
+    {
+        "title": "Momentos de la jornada 20",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/19/momentos-de-la-jornada-20/",
+        "date": "2025-04-18 02:02:30",
+        "sentiment_score": 0.482216015458107
+    },
+    {
+        "title": "Mallorca-Leganés: doble o nada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/04/18/2368095/real-mallorca-leganes-europa-permancia-doble-nada-son-moix.html",
+        "date": "2025-04-18 02:00:01",
+        "sentiment_score": 0.15053337812423706
+    },
+    {
+        "title": "Adiós a una tradición: la cita 'fulminada' de la agenda de Felipe VI y Letizia en la Semana Santa de Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3259173.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/04/18/2358933/adios-tradicion-cita-fulminada-agenda-felipe-letizia-semana-santa-mallorca.html",
+        "date": "2025-04-18 02:00:01",
+        "sentiment_score": -0.02327364683151245
+    },
+    {
+        "title": "El Real Madrid, líder al ritmo de Mbappé",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/19/el-real-madrid-lider-al-ritmo-de-mbappe/",
+        "date": "2025-04-18 01:48:02",
+        "sentiment_score": 0.8085204809904099
+    },
+    {
+        "title": "Florentino Pérez, reelegido presidente del Real Madrid hasta 2029",
+        "image_url": "https://www.infobae.com/resizer/v2/PUWJ5N27VNFSNJYG4ACTXSNIWE.jpg?auth=e2a7e5a5febac7a7cf0e0a4662e22feedd97b3f852757ca3a52ef2aeaf87d3ba&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/19/florentino-perez-reelegido-presidente-del-real-madrid-hasta-2029/",
+        "date": "2025-04-18 01:03:41",
+        "sentiment_score": 0.6189597137272358
+    },
+    {
+        "title": "Temas del día de EFE España del lunes 20 de enero de 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/19/temas-del-dia-de-efe-espana-del-lunes-20-de-enero-de-2025/",
+        "date": "2025-04-18 01:02:43",
+        "sentiment_score": 0.19065745919942856
+    },
+    {
+        "title": "El Barça sufre en San Mamés, el Real Madrid tropieza y la Real aprovecha otro traspié del Atlético en Liga F",
+        "image_url": "https://www.infobae.com/resizer/v2/YIFAIRVBAFH55O45A6PI45SLTI.jpg?auth=5278153515b0250d1a674b2c9fb99a58259db8decd2ee3961fd8e207ff5f17af&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/19/el-barca-sufre-en-san-mames-el-real-madrid-tropieza-y-la-real-aprovecha-otro-traspie-del-atletico-en-liga-f/",
+        "date": "2025-04-18 00:49:14",
+        "sentiment_score": -0.7266877703368664
+    },
+    {
+        "title": "El Athletic se afianza en 'Champions' en Balaídos y el Valencia se levanta contra la Real",
+        "image_url": "https://www.infobae.com/resizer/v2/FNX6JGC4TBCKRDPGMPI4TSVWE4.jpg?auth=cf68b35b0ae368826f8e0e035627adefbfae6422066f2a3db7431d4421bb05c6&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/19/el-athletic-se-afianza-en-champions-en-balaidos-y-el-valencia-se-levanta-contra-la-real/",
+        "date": "2025-04-18 02:02:15",
+        "sentiment_score": 0.5740989670157433
+    },
+    {
+        "title": "Herbolaris i curanderos (i II)",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/3266487.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/04/18/2367223/herbolaris-curanderos-1.html",
+        "date": "2025-04-18 02:00:01",
+        "sentiment_score": -0.46376945078372955
+    },
+    {
+        "title": "«Hay datos publicitarios que se están utilizando para identificar objetivos militares»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3266595.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/04/18/2366997/joana-moll-hay-datos-publicitarios-estan-utilizando-para-identificar-objetivos-militares.html",
+        "date": "2025-04-18 02:00:01",
+        "sentiment_score": -0.1415219008922577
+    },
+    {
+        "title": "ÁRBITROS | El RCD Espanyol – Getafe CF será dirigido por De Burgos Bengoetxea en la Jornada 32",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/04/3654235-74393628-2560-1440.jpg",
+        "tags": [
+            "primer equipo y club",
+            "la liga",
+            "j32",
+            "laliga ea sports",
+            "espanyol",
+            "rcde stadium",
+            "rcde",
+            "bordalás",
+            "rfef",
+            "arbitros",
+            "2025",
+            "getafe"
+        ],
+        "link": "https://www.lagradaonline.com/espanyol-getafe-bengoetxea-j32/",
+        "date": "2025-04-18 01:40:05",
+        "sentiment_score": 0.2029319368302822
+    },
+    {
+        "title": "¡Argentina en suspenso! Lionel Messi podría perderse el Mundial de 2026 (+video)",
+        "image_url": "https://pxcdn.meridiano.net/042025/1744938597787.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/argentina-en-suspenso-lionel-messi-podria-perderse-el-mundial-de-2026-video--202541721320",
+        "date": "2025-04-18 01:32:00",
+        "sentiment_score": -0.748947131447494
+    },
+    {
+        "title": "Un niño de Gaza mutilado es la foto del año",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250418/1994018/nino-gaza-mutilado-foto-ano.html",
+        "date": "2025-04-18 01:30:00",
+        "sentiment_score": -0.09078189730644226
+    },
+    {
+        "title": "El Festival de Cine de Moscú habla español",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/04/17/68014cc23cd03.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250418/1994021/festival-cine-moscu-habla-espanol.html",
+        "date": "2025-04-18 01:30:00",
+        "sentiment_score": 0.3214484117925167
+    },
+    {
+        "title": "Plataforma de criptomonedas HV IJEX: así vaciaron las cuentas de miles de personas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744936186914.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/plataforma-de-criptomonedas-hv-ijex-asi-vaciaron-las-cuentas-de-miles-de-personas-20254172200",
+        "date": "2025-04-18 02:00:00",
+        "sentiment_score": -0.6099223271012306
+    },
+    {
+        "title": "Semana Santa en Florida: invitan a la procesión del Nazareno en St. Hugh Catholic Church",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744941601961.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/semana-santa-en-florida-invitan-a-la-procesion-del-nazareno-en-st-hugh-catholic-church-202541721560",
+        "date": "2025-04-18 01:56:00",
+        "sentiment_score": 0.21374605037271976
+    },
+    {
+        "title": "Usa este ingrediente para evitar la resequedad del cabello en Semana Santa",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744644555622.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/usa-este-ingrediente-para-evitar-la-resequedad-del-cabello-en-semana-santa-202541721550",
+        "date": "2025-04-18 01:55:00",
+        "sentiment_score": 0.8244278486818075
+    },
+    {
+        "title": "Redadas ICE del 17 de abril: arrestan a varios inmigrantes en Seattle, Los Ángeles y Arizona",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744940458923.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/redadas-ice-del-17-de-abril-arrestan-a-varios-inmigrantes-en-seattle-los-angeles-y-arizona-202541721220",
+        "date": "2025-04-18 01:22:00",
+        "sentiment_score": -0.6389072425663471
+    },
+    {
+        "title": "Revelan la supuesta suma de dinero que Bisogno daba a su padre todos los meses",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744942392185.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/revelan-la-supuesta-suma-de-dinero-que-bisogno-daba-a-su-padre-todos-los-meses-202541721180",
+        "date": "2025-04-18 01:18:00",
+        "sentiment_score": -0.4735223203897476
+    },
+    {
+        "title": "Fecha clave: la Corte Suprema revisará los argumentos de Trump sobre la ciudadanía por nacimiento",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744938432574.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/fecha-clave-la-corte-suprema-revisara-los-argumentos-de-trump-sobre-la-ciudadania-por-nacimiento-20254172160",
+        "date": "2025-04-18 01:06:00",
+        "sentiment_score": -0.37533511593937874
+    },
+    {
+        "title": "Wells Fargo renovará más de 4.000 oficinas: incluirán innovaciones tecnológicas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744938332349.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/wells-fargo-renovara-mas-de-4-000-oficinas-incluiran-innovaciones-tecnologicas-20254172150",
+        "date": "2025-04-18 01:05:00",
+        "sentiment_score": 0.8301512338221073
+    },
+    {
+        "title": "Se suman nuevos establecimientos en Caracas al Plan Bodega: conozca los beneficios del programa",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744935731103.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/se-suman-nuevos-establecimientos-en-caracas-al-plan-bodega-conozca-los-beneficios-del-programa-20254172110",
+        "date": "2025-04-18 01:01:00",
+        "sentiment_score": 0.021267227828502655
+    },
+    {
+        "title": "Sistema Patria: tres canales directos para resolver dudas sobre bonos y servicios",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744912756675.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/sistema-patria-tres-canales-directos-para-resolver-dudas-sobre-bonos-y-servicios-20254172100",
+        "date": "2025-04-18 01:00:00",
+        "sentiment_score": 0.1363195665180683
+    },
+    {
+        "title": "Ciudadanía Estados Unidos: estas son las opciones para convertir a un familiar en residente permanente",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744935190151.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/ciudadania-estados-unidos-estas-son-las-opciones-para-convertir-a-un-familiar-en-residente-permanente-202541720120",
+        "date": "2025-04-18 00:12:00",
+        "sentiment_score": -0.1110420674085617
     }
 ];
