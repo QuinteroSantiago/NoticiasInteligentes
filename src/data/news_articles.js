@@ -1,214 +1,5 @@
 export default [
     {
-        "title": "Ver jugar a Messi y Luis Suárez en Perú, cena incluida, costará más de 1.000 dólares",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/16/ver-jugar-a-messi-y-luis-suarez-en-peru-cena-incluida-costara-mas-de-1000-dolares/",
-        "date": "2025-04-15 06:32:33",
-        "sentiment_score": 0.18395941704511642
-    },
-    {
-        "title": "La Carrera de la Mujer invitará a 2.000 mujeres afectadas por la Dana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/16/la-carrera-de-la-mujer-invitara-a-2000-mujeres-afectadas-por-la-dana/",
-        "date": "2025-04-15 06:32:18",
-        "sentiment_score": 0.20238903537392616
-    },
-    {
-        "title": "Airtificial crece en Asia con siete proyectos para fabricantes de Renault, Nissan y Tata",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/15/airtificial-crece-en-asia-con-siete-proyectos-para-fabricantes-de-renault-nissan-y-tata/",
-        "date": "2025-04-15 06:31:27",
-        "sentiment_score": 0.5178067497909069
-    },
-    {
-        "title": "Ampliamente percibido un terremoto de 2,8 al sur de la C.Valenciana y Murcia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/15/ampliamente-percibido-un-terremoto-de-28-al-sur-de-la-cvalenciana-y-murcia/",
-        "date": "2025-04-15 06:30:47",
-        "sentiment_score": -0.4923199452459812
-    },
-    {
-        "title": "Exdiputados y promotores de Foro Asturias niegan que Cascos tuviera \"barra libre\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/16/exdiputados-y-promotores-de-foro-asturias-niegan-que-cascos-tuviera-barra-libre/",
-        "date": "2025-04-15 06:19:23",
-        "sentiment_score": -0.8306866437196732
-    },
-    {
-        "title": "La taberna investigada por intoxicación asegura que los afectados tomaron otros alimentos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/16/la-taberna-investigada-por-intoxicacion-asegura-que-los-afectados-tomaron-otros-alimentos/",
-        "date": "2025-04-15 06:18:54",
-        "sentiment_score": -0.4246118329465389
-    },
-    {
-        "title": "El BH Coloma Team inicia un ambicioso camino hasta Los Ángeles",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/16/el-bh-coloma-team-inicia-un-ambicioso-camino-hasta-los-angeles/",
-        "date": "2025-04-15 06:17:50",
-        "sentiment_score": 0.6383958328515291
-    },
-    {
-        "title": "La Volta recupera la crono por equipos en una edición en la que está muy presente la dana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/16/la-volta-recupera-la-crono-por-equipos-en-una-edicion-en-la-que-esta-muy-presente-la-dana/",
-        "date": "2025-04-15 06:17:36",
-        "sentiment_score": 0.27894482389092445
-    },
-    {
-        "title": "Las bolsas indias abren con alzas impulsadas por posibles exenciones arancelarias de Trump",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/15/las-bolsas-indias-abren-con-alzas-impulsadas-por-posibles-exenciones-arancelarias-de-trump/",
-        "date": "2025-04-15 06:17:05",
-        "sentiment_score": 0.19855180382728577
-    },
-    {
-        "title": "'Warfare' se estrena en España: lecciones \"imborrables\" sobre el horror de la guerra",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/15/warfare-se-estrena-en-espana-lecciones-imborrables-sobre-el-horror-de-la-guerra/",
-        "date": "2025-04-15 06:16:46",
-        "sentiment_score": -0.22063785791397095
-    },
-    {
-        "title": "Illa arranca con las farmacéuticas su ronda contra los aranceles: el 60% de los medicamentos españoles vendidos a EE UU son catalanes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4CTLSZXEOF4VNJWF2GK2EBIIXI.jpg?auth=5eb771b71131b77eaefb4c9bd71cdcb1bf9fee8172a8b788ee1485a0a94cb295&width=1200",
-        "tags": [
-            "salvador illa",
-            "generalitat cataluña",
-            "industria farmacéutica",
-            "donald trump",
-            "cataluña",
-            "estados unidos",
-            "guerra comercial",
-            "medicamentos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-15/illa-arranca-con-las-farmaceuticas-su-ronda-contra-los-aranceles-el-60-de-los-medicamentos-espanoles-vendidos-a-ee-uu-son-catalanes.html",
-        "date": "2025-04-15 06:04:46",
-        "sentiment_score": -0.1046345978975296
-    },
-    {
-        "title": "Jornadas BIM del CITOP, la nueva formación subvencionada para impulsar la digitalización en la construcción",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5256078/jornadas-bim-citop-nueva-formacion-subvencionada-impulsar-digitalizacion-construccion",
-        "date": "2025-04-15 06:30:30",
-        "sentiment_score": 0.11725327745079994
-    },
-    {
-        "title": "Feijóo dice que Sánchez debe irse ante indicios de delito en su entorno: \"El Gobierno está rodeado de podredumbre\"",
-        "image_url": "https://static.grupojoly.com/clip/9dfe5ab9-d544-4fae-8c53-fc4babb5917c_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodejerez.es/espana/feijoo-sanchez-gobierno-rodeado-podredumbre_0_2003736651.html",
-        "date": "2025-04-15 06:27:33",
-        "sentiment_score": -0.8005079757422209
-    },
-    {
-        "title": "Antonio Machado ingresará simbólicamente en la RAE con casi un siglo de retraso",
-        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/04/15/67fe18e406c7d.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.diariodeleon.es/cultura/250415/1988353/antonio-machado-ingresara-simbolicamente-rae-siglo-retraso.html",
-        "date": "2025-04-15 06:27:00",
-        "sentiment_score": -0.3474256508052349
-    },
-    {
-        "title": "Alerta por sustancias tóxicas en colchones: consejos para crear un entorno de sueño seguro para tu hijo",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250415082549_120.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-alerta-sustancias-toxicas-colchones-consejos-crear-entorno-sueno-seguro-hijo-20250415082549.html",
-        "date": "2025-04-15 06:25:49",
-        "sentiment_score": -0.21711226552724838
-    },
-    {
-        "title": "ISDIN se consolida como fotoprotector oficial del Godó por undécimo año consecutivo",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/04/isdin-fotoprotector.jpeg",
-        "tags": [
-            "isdin",
-            "hemeroteca"
-        ],
-        "link": "https://www.economiadigital.es/hemeroteca/isdin-se-consolida-como-fotoprotector-oficial-del-godo-por-undecimo-ano-consecutivo.html",
-        "date": "2025-04-15 06:24:56",
-        "sentiment_score": 0.43974319845438004
-    },
-    {
-        "title": "Si te llega este recibo a casa y ves una subida del importe es por esto: en municipios de más de 5.000 habitantes",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/12/02/674dace4c84ee.jpeg",
-        "tags": [
-            "la rioja"
-        ],
-        "link": "https://www.cope.es/emisoras/la-rioja/noticias/te-llega-recibo-casa-ves-subida-importe-esto-municipios-5-000-habitantes-20250415_3131020.html",
-        "date": "2025-04-15 06:20:33",
-        "sentiment_score": -0.043089866638183594
-    },
-    {
-        "title": "Las 10 remontadas europeas más increíbles del Real Madrid en el Bernabéu",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/89f4181a-01dc-41df-bc49-61c79cfa49ca_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/04/15/10-remontadas-europeas-increibles-real-madrid-bernabeu-116402603.html",
-        "date": "2025-04-15 06:19:49",
-        "sentiment_score": 0.21937407553195953
-    },
-    {
-        "title": "La odisea de un grupo de jubilados de Castellón en un viaje del Imserso",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d9d7c44f-61f9-46ed-9594-1ba537e593ff_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lacronicabadajoz.com/sucesos/2025/04/15/odisea-grupo-jubilados-castellon-viaje-imserso-aeropuerto-barcelona-116402733.html",
-        "date": "2025-04-15 06:25:39",
-        "sentiment_score": -0.8930105250328779
-    },
-    {
-        "title": "La odisea de un grupo de jubilados de Castellón en un viaje del Imserso: 10 horas en el aeropuerto de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d9d7c44f-61f9-46ed-9594-1ba537e593ff_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sucesos/20250415/odisea-grupo-jubilados-castellon-viaje-imserso-aeropuerto-barcelona-116402727",
-        "date": "2025-04-15 06:25:39",
-        "sentiment_score": -0.8786522652953863
-    },
-    {
         "title": "El reggaetón se estudia para aprender español: así es como la comunidad china recurre a la música urbana para aprender el idioma",
         "image_url": "https://www.infobae.com/resizer/v2/IS7D56MUM5DNXC573W7C5TEL2E.jpg?auth=902645d9a3d634bd6a52761d37912a4072bf8eeb062079607470e8dab3c94f42&height=1280&smart=true&width=1920",
         "tags": [
@@ -6924,5 +6715,497 @@ export default [
         "link": "https://2001online.com/usa/internacionales/asi-seran-los-taxis-aereos-electricos-en-nueva-york-planean-conectar-con-aeropuertos-y-helipuertos-202541811130",
         "date": "2025-04-18 15:13:00",
         "sentiment_score": 0.45015300437808037
+    },
+    {
+        "title": "Manolo González: \"El objetivo está muy cerca, pero aún no lo tenemos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/18/manolo-gonzalez-el-objetivo-esta-muy-cerca-pero-aun-no-lo-tenemos/",
+        "date": "2025-04-18 22:15:57",
+        "sentiment_score": -0.004127785563468933
+    },
+    {
+        "title": "César Aira, Gustavo Faverón y Eduardo Halfon, finalistas de premio literario en España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/20/cesar-aira-gustavo-faveron-y-eduardo-halfon-finalistas-de-premio-literario-en-espana/",
+        "date": "2025-04-18 22:02:37",
+        "sentiment_score": 0.3190641365945339
+    },
+    {
+        "title": "Participantes hispanos en el Foro de Davos piden a Trump que invierta en los latinos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/participantes-hispanos-en-el-foro-de-davos-piden-a-trump-que-invierta-en-los-latinos/",
+        "date": "2025-04-18 21:49:26",
+        "sentiment_score": 0.5333017706871033
+    },
+    {
+        "title": "Heineken aporta cerca de 5.000 millones de euros a la economía española, el 0,3 % del PIB",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/heineken-aporta-cerca-de-5000-millones-de-euros-a-la-economia-espanola-el-03-del-pib/",
+        "date": "2025-04-18 21:49:13",
+        "sentiment_score": 0.8447213191539049
+    },
+    {
+        "title": "Voulgaris: \"Es una decisión difícil, pero era lo que tenía que hacer\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/voulgaris-es-una-decision-dificil-pero-era-lo-que-tenia-que-hacer/",
+        "date": "2025-04-18 21:49:01",
+        "sentiment_score": 0.49822693318128586
+    },
+    {
+        "title": "El Unicaja renueva representación del baloncesto español en el Consejo de Clubes de la BCL",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/el-unicaja-renueva-representacion-del-baloncesto-espanol-en-el-consejo-de-clubes-de-la-bcl/",
+        "date": "2025-04-18 21:48:47",
+        "sentiment_score": 0.6358937136828899
+    },
+    {
+        "title": "Se eleva a naranja el aviso por fuertes lluvias en el litoral de Huelva",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/se-eleva-a-naranja-el-aviso-por-fuertes-lluvias-en-el-litoral-de-huelva/",
+        "date": "2025-04-18 21:48:33",
+        "sentiment_score": -0.8530264031141996
+    },
+    {
+        "title": "Investigan la caída al vacío de una mujer desde una quinta planta en Málaga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/investigan-la-caida-al-vacio-de-una-mujer-desde-una-quinta-planta-en-malaga/",
+        "date": "2025-04-18 21:48:19",
+        "sentiment_score": -0.6313092652708292
+    },
+    {
+        "title": "Jueza pide documentos de personal del área laboral de David Sánchez que fueron contratadas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/jueza-pide-documentos-de-personal-del-area-laboral-de-david-sanchez-que-fueron-contratadas/",
+        "date": "2025-04-18 21:48:06",
+        "sentiment_score": -0.17369448021054268
+    },
+    {
+        "title": "El novio de Ayuso pide por otra vez suspender su cita judicial por un viaje programado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/el-novio-de-ayuso-pide-por-otra-vez-suspender-su-cita-judicial-por-un-viaje-programado/",
+        "date": "2025-04-18 21:47:52",
+        "sentiment_score": -0.8916761744767427
+    },
+    {
+        "title": "La nieta del nuevo director de la Agencia de Sanidad Pública de Estados Unidos se desmaya en medio del Despacho Oval",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/18/despacho-desmayo.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/nieta-nuevo-director-agencia-sanidad-publica-estados-20250418210849-nt.html",
+        "date": "2025-04-18 19:08:50",
+        "sentiment_score": -0.16379158198833466
+    },
+    {
+        "title": "Aumentan los sueldos, pero no el poder adquisitivo",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/04/15/104167123-kj3B--170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-aumentan-sueldos-poder-adquisitivo-20250419205632-nt.html",
+        "date": "2025-04-18 18:56:47",
+        "sentiment_score": -0.2979041188955307
+    },
+    {
+        "title": "Azorín y los toros",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/04/19/TERCERAABC_Azori%CC%81nylostoros_RICO-RBgocAxG6brukEtUhwGRf6L-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/francisco-rico-perez-azorin-toros-20250419205424-nt.html",
+        "date": "2025-04-18 18:54:25",
+        "sentiment_score": 0.08844664692878723
+    },
+    {
+        "title": "Un plan sencillo",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2025/04/10/banco_3-U26664584485Vtw-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-plan-sencillo-20250419205318-nt.html",
+        "date": "2025-04-18 18:53:26",
+        "sentiment_score": -0.07118180394172668
+    },
+    {
+        "title": "Aquel Sábado Santo",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/04/17/croquetas-kKLB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-garcia-cuartango-sabado-santo-20250419205225-nt.html",
+        "date": "2025-04-18 18:52:33",
+        "sentiment_score": -0.07193011045455933
+    },
+    {
+        "title": "Liberad a Kilmar Abrego",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/04/17/croquetas-kKLB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-liberad-kilmar-abrego-20250419205156-nt.html",
+        "date": "2025-04-18 18:52:05",
+        "sentiment_score": -0.19590157270431519
+    },
+    {
+        "title": "El don de la inmortalidad",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/04/08/barrioespanna-ksXD--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alfonso-j-ussia-don-inmortalidad-20250419192508-nt.html",
+        "date": "2025-04-18 18:42:47",
+        "sentiment_score": -0.11593039333820343
+    },
+    {
+        "title": "Mascarita",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/04/13/david-villa-hijo-luca-kZfE--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jon-juaristi-mascarita-20250419204159-nt.html",
+        "date": "2025-04-18 18:42:08",
+        "sentiment_score": -0.09933480620384216
+    },
+    {
+        "title": "El taco",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/04/13/david-villa-hijo-luca-kZfE--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-taco-20250419204033-nt.html",
+        "date": "2025-04-18 18:40:42",
+        "sentiment_score": -0.2410936951637268
+    },
+    {
+        "title": "El reto de sumar turistas",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/04/15/respuesta-viral-bar-granada-cliente-k0EE--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-reto-sumar-turistas-20250419203455-nt.html",
+        "date": "2025-04-18 18:35:08",
+        "sentiment_score": -0.04569938778877258
+    },
+    {
+        "title": "El Granada femenino vuelve a la Ciudad Deportiva",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/04/19/granada-femenino--k0tB-U230149634601423E-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/granadacf/previa-granada-femenino-vuelve-ciudad-deportiva-valencia-20250419131843-nt.html",
+        "date": "2025-04-18 22:11:51",
+        "sentiment_score": 0.6933961845934391
+    },
+    {
+        "title": "Ni los votantes del PSOE eximen a Sánchez de tener que presentar Presupuestos: solo el 32% le libra de pasar por una derrota asegurada",
+        "image_url": "https://phantom-elmundo.uecdn.es/93eb8211db532b7ad68dea975781613d/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/18/17449917998178.jpg",
+        "tags": [
+            "pedro sánchez",
+            "artículos paloma h. matellano",
+            "presupuestos generales del estado"
+        ],
+        "link": "https://www.elmundo.es/espana/encuestas/2025/04/19/68023ea9e9cf4a1f218b4575.html",
+        "date": "2025-04-18 22:03:31",
+        "sentiment_score": -0.658535048365593
+    },
+    {
+        "title": "La okupación, el enemigo útil",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.eldebate.com/economia/20250418/okupacion-enemigo-util_289419.html",
+        "date": "2025-04-18 21:55:00",
+        "sentiment_score": -0.805174570530653
+    },
+    {
+        "title": "Almeida pide confianza y esperanza en el futuro a Jesús de Medinaceli",
+        "image_url": "https://www.lacerca.com/imagenes/api_h_thumb/48a97f261d8a993cc7304d2fbb18d212.jpg",
+        "tags": [
+            "madrid",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/madrid/almeida-pide-confianza-esperanza-futuro-jesus-medinaceli-762137-1.html",
+        "date": "2025-04-18 21:55:00",
+        "sentiment_score": 0.09733614325523376
+    },
+    {
+        "title": "Kilmar Abrego García está “traumatizado” tras su deportación a la prisión de Bukele",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/P56255TARHY44O7RU3SH5YRYXA.jpg?auth=9d4b42159c507a5a8a8f5433dd39ebfd565f7825156dec2e89ccf3936ddff038&width=1200",
+        "tags": [
+            "estados unidos",
+            "maryland",
+            "donald trump",
+            "nayib bukele",
+            "migración",
+            "inmigrantes",
+            "inmigración irregular",
+            "inmigración",
+            "política migratoria ee. uu.",
+            "el salvador",
+            "deportación",
+            "crisis migratoria",
+            "américa",
+            "migrantes"
+        ],
+        "link": "https://elpais.com/us/migracion/2025-04-18/kilmar-abrego-garcia-esta-traumatizado-tras-su-deportacion-a-la-prision-de-bukele.html",
+        "date": "2025-04-18 21:44:50",
+        "sentiment_score": -0.8628267291933298
+    },
+    {
+        "title": "Real Madrid-Bayern: un festival ofensivo para verse las caras ante Olympiacos (93-71)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/04/18/image-2925d972-5a21-4ad9-8d07-4a72e3b956e4-85-2560-1440.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/baloncesto/euroliga/2024-2025/real-madrid-bayern-munich-resltado-resumen-highlights-hoy-playin_vid60002342/video.shtml",
+        "date": "2025-04-18 21:40:28",
+        "sentiment_score": 0.3954062983393669
+    },
+    {
+        "title": "Pase de lado a lado, gambeta a lo Messi y sutil definición: el golazo de Mastantuono ante Gimnasia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/04/18/pase-de-lado-a-lado-gambeta-a-lo-messi-y-sutil-definicion-el-golazo-de-mastantuono-ante-gimnasia/",
+        "date": "2025-04-18 21:34:58",
+        "sentiment_score": 0.9021343495696783
+    },
+    {
+        "title": "Chus Mateo, ante la cita con Olympiakos: \"Estamos con ganas de guerra y de pelear\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/18/chus-mateo-ante-la-cita-con-olympiakos-estamos-con-ganas-de-guerra-y-de-pelear/",
+        "date": "2025-04-18 21:31:14",
+        "sentiment_score": -0.4024845212697983
+    },
+    {
+        "title": "Almeida ve bien los “piques” con deportividad en el fútbol: Un poco de salseo no viene mal",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/almeida-ve-bien-los-piques-con-deportividad-en-el-futbol-un-poco-de-salseo-no-viene-mal/",
+        "date": "2025-04-18 21:18:07",
+        "sentiment_score": 0.15930090844631195
+    },
+    {
+        "title": "Otra victoria y arco en cero para el Espanyol, que mitiga temores de descenso en La Liga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/04/18/otra-victoria-y-arco-en-cero-para-el-espanyol-que-mitiga-temores-de-descenso-en-la-liga/",
+        "date": "2025-04-18 22:15:55",
+        "sentiment_score": 0.5052282065153122
+    },
+    {
+        "title": "Otra victoria y arco en cero para el Espanyol, que mitiga temores de descenso en La Liga",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/liga-espana-espanyol-getafe-descenso-2491d8179137a4bcefcb4f5d590ae347",
+        "date": "2025-04-18 22:15:55",
+        "sentiment_score": -0.915240028873086
+    },
+    {
+        "title": "Barcelona, la ciudad más dulce de España",
+        "image_url": "https://phantom-elmundo.uecdn.es/2c0f2032a4a1d742bfe0bc0a4cbb5b3c/crop/76x83/1194x828/f/webp/assets/multimedia/imagenes/2025/04/10/17442731884441.jpg",
+        "tags": [
+            "escapadas",
+            "planes"
+        ],
+        "link": "https://www.elmundo.es/metropoli/otros-planes/2025/04/19/67ee7006fc6c83f5378b4589.html",
+        "date": "2025-04-18 22:05:57",
+        "sentiment_score": 0.04472045972943306
+    },
+    {
+        "title": "La IA ya no se calla: por qué los 'chatbots' están relajando sus barreras éticas para contestar",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/04/ia-religion-v3-1.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "elon musk"
+        ],
+        "link": "https://www.elindependiente.com/futuro/inteligencia-artificial/2025/04/19/ia-no-calla-chatbots-relajando-barreras-eticas/",
+        "date": "2025-04-18 22:05:38",
+        "sentiment_score": 0.3687433935701847
+    },
+    {
+        "title": "Un hotel de 1.000 habitaciones para el arte en Carabanchel: salas de podcast, ballet y teatro, un escenario para conciertos en la azotea y espacio de 'coworking' para las mentes más creativas",
+        "image_url": "https://phantom-elmundo.uecdn.es/cd917d2a8150561d588d83599b73831f/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/15/17447260376166.jpg",
+        "tags": [
+            "carabanchel",
+            "hoteles",
+            "arte",
+            "artículos virginia gómez",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/04/19/67fe67af21efa061108b45a2.html",
+        "date": "2025-04-18 22:05:28",
+        "sentiment_score": 0.20789774134755135
+    },
+    {
+        "title": "Demasiada zanahoria para Puigdemont",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/04/17/68012454d57a3.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.lavanguardia.com/politica/20250419/10595758/demasiada-zanahoria-puigdemont.html",
+        "date": "2025-04-18 22:05:00",
+        "sentiment_score": -0.6566418185830116
+    },
+    {
+        "title": "Mr. Rabbit",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/12/vida/793930868_8708567_1706x960.jpg?contentId=793930868",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250418/mr-rabbit/1003742650185_13.html",
+        "date": "2025-04-18 22:00:00",
+        "sentiment_score": -0.046459347009658813
+    },
+    {
+        "title": "Bordalás: \"Da la sensación de que nos hemos dejado ir\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/18/bordalas-da-la-sensacion-de-que-nos-hemos-dejado-ir/",
+        "date": "2025-04-18 21:46:33",
+        "sentiment_score": -0.6450693570077419
+    },
+    {
+        "title": "Redadas ICE en Estados Unidos: buscan deportar a un joven que aparece en una foto con una pistola de agua",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745014270587.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-en-estados-unidos-buscan-deportar-a-un-joven-que-aparece-en-una-foto-con-una-pistola-de-agua--202541818100",
+        "date": "2025-04-18 22:10:00",
+        "sentiment_score": -0.636007534340024
+    },
+    {
+        "title": "Miami-Dade congela programa de seguridad de buses escolares: detectan errores en multas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745015056931.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/miami-dade-congela-programa-de-seguridad-de-buses-escolares-detectan-errores-en-multas-202541818100",
+        "date": "2025-04-18 22:10:00",
+        "sentiment_score": -0.30637530982494354
+    },
+    {
+        "title": "Colombia: atentado con bomba deja dos fallecidos y 24 heridos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745011822681.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/colombia-atentado-con-bomba-deja-dos-fallecidos-y-24-heridos-20254181800",
+        "date": "2025-04-18 22:00:00",
+        "sentiment_score": -0.622275959700346
+    },
+    {
+        "title": "Agrupación Kairo Worship se presentará en el Gimnasio \"Papá Carrillo\": fecha y hora",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745012935187.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/agrupacion-kairo-worship-se-presentara-en-el-gimnasio-papa-carrillo-fecha-y-hora-202541817520",
+        "date": "2025-04-18 21:52:00",
+        "sentiment_score": 0.6320505030453205
+    },
+    {
+        "title": "Cheques de estímulo para abril: estos son los estados que distribuirán asistencia económica",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745011245137.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cheques-de-estimulo-para-abril-estos-son-los-estados-que-distribuiran-asistencia-economica-202541817200",
+        "date": "2025-04-18 21:20:00",
+        "sentiment_score": -0.047966860234737396
+    },
+    {
+        "title": "TPS para venezolanos: por estos motivos podrían rechazar tu solicitud",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745010558092.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/tps-para-venezolanos-por-estos-motivos-podrian-rechazar-tu-solicitud-20254181780",
+        "date": "2025-04-18 21:08:00",
+        "sentiment_score": -0.7011643461883068
+    },
+    {
+        "title": "Centro de comando 911 monitorea 26 regiones del país: incluidas estas zonas de Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745009247734.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/centro-de-comando-911-monitorea-26-regiones-del-pais-incluidas-estas-zonas-de-caracas-20254181770",
+        "date": "2025-04-18 21:07:00",
+        "sentiment_score": 0.1541435495018959
+    },
+    {
+        "title": "Desbloqueo del Sistema Patria: pasos para recuperar el acceso",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745009235642.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/desbloqueo-del-sistema-patria-pasos-para-recuperar-el-acceso-202541816590",
+        "date": "2025-04-18 20:59:00",
+        "sentiment_score": 0.3117307089269161
+    },
+    {
+        "title": "Arrestan a maestra en Texas por delitos sexuales: fue denunciada por un exalumno",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745008967269.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/arrestan-a-maestra-en-texas-por-delitos-sexuales-fue-denunciada-por-un-exalumno-202541816460",
+        "date": "2025-04-18 20:46:00",
+        "sentiment_score": -0.3883398100733757
+    },
+    {
+        "title": "Shein aumentará sus precios en pocos días: esta es la fecha tentativa",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745007529863.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/shein-aumentara-sus-precios-en-pocos-dias-esta-es-la-fecha-tentativa-202541816180",
+        "date": "2025-04-18 20:18:00",
+        "sentiment_score": -0.017200849950313568
     }
 ];
