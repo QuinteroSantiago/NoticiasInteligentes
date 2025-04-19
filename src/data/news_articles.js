@@ -304,77 +304,6 @@ export default [
         "sentiment_score": -0.09271237254142761
     },
     {
-        "title": "El Gobierno presenta el concurso público para la resignificación del Valle de Cuelgamuros",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GBHHNCPYCFAVPPXGN23JO7RNLI.jpg?auth=84831e4737e5f6217ab69918606b957e44aa6efa6c7c00075c6fa2a2a6d74cf1&width=1200",
-        "tags": [
-            "exhumación franco",
-            "santa sede",
-            "ley memoria democrática",
-            "franquismo",
-            "conferencia episcopal",
-            "españa",
-            "memoria histórica",
-            "ángel víctor torres",
-            "francisco franco",
-            "gobierno",
-            "ley memoria histórica",
-            "valle de cuelgamuros"
-        ],
-        "link": "https://elpais.com/espana/2025-04-15/el-gobierno-presenta-el-concurso-publico-para-la-resignificacion-del-valle-de-cuelgamuros.html",
-        "date": "2025-04-15 14:08:45",
-        "sentiment_score": 0.16962826251983643
-    },
-    {
-        "title": "Navarra recupera la competencia de Tráfico y Seguridad Vial",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CSNR4IWBUCYLYOAGK6BJSYAGAM.jpg?auth=8b8864b33ecd56147263fc8cc57e4710f0e333a315e9d1b17cee672ee620129f&width=1200",
-        "tags": [
-            "españa",
-            "guardia civil",
-            "pamplona",
-            "dgt",
-            "psoe",
-            "navarra"
-        ],
-        "link": "https://elpais.com/espana/2025-04-15/navarra-recupera-la-competencia-de-trafico-y-seguridad-vial.html",
-        "date": "2025-04-15 13:44:41",
-        "sentiment_score": 0.02321411669254303
-    },
-    {
-        "title": "Los secretos del ordenador de Josu Ternera, el último gran jefe de ETA",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FHGARMIK5BGMXOBVH3ZDKFFUZA.jpg?auth=6174a9303817d2049e53929d62ad1fbc600b1d831ed65c1255e7095c8d00e087&width=1200",
-        "tags": [
-            "investigación judicial",
-            "el final de eta",
-            "investigación policial",
-            "audiencia nacional",
-            "ministerio del interior",
-            "atentados terroristas",
-            "guardia civil",
-            "francia",
-            "españa",
-            "eta",
-            "josu ternera"
-        ],
-        "link": "https://elpais.com/espana/2025-04-15/los-secretos-del-ordenador-de-josu-ternera-el-ultimo-gran-jefe-de-eta.html",
-        "date": "2025-04-15 13:25:40",
-        "sentiment_score": -0.39643261581659317
-    },
-    {
-        "title": "Los Mossos hallan muerto a un joven en Salt tras precipitarse de una casa en la que sonó la alarma",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3QG3FGJ3R5CUNJVUOETBRYH6IE.jpg?auth=0b55b1369c6d6a4cc312234e6aa3f9e21ff9c8556da688753ac3d55e3c0185d4&width=1200",
-        "tags": [
-            "mossos d'esquadra",
-            "investigación policial",
-            "girona",
-            "salt",
-            "cataluña",
-            "vivienda"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-15/los-mossos-hallan-muerto-a-un-joven-en-salt-tras-precipitarse-de-una-casa-en-la-que-sono-la-alarma.html",
-        "date": "2025-04-15 13:12:39",
-        "sentiment_score": -0.37522047758102417
-    },
-    {
         "title": "El 58 % de los ecuatorianos madrileños apostaron por Noboa en las elecciones tras el apoyo de Ayuso",
         "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/04/15/67fe912d74bf8.jpeg",
         "tags": [
@@ -7207,5 +7136,372 @@ export default [
         "link": "https://2001online.com/usa/servicios/shein-aumentara-sus-precios-en-pocos-dias-esta-es-la-fecha-tentativa-202541816180",
         "date": "2025-04-18 20:18:00",
         "sentiment_score": -0.017200849950313568
+    },
+    {
+        "title": "Los accionistas del Sabadell perderían dinero si aceptaran la opa de BBVA en este momento",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/los-accionistas-del-sabadell-perderian-dinero-si-aceptaran-la-opa-de-bbva-en-este-momento/",
+        "date": "2025-04-19 01:48:27",
+        "sentiment_score": -0.8402163237333298
+    },
+    {
+        "title": "Pidcock, doble campeón olímpico de bicicleta de montaña, correrá Ruta del Sol",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/pidcock-doble-campeon-olimpico-de-bicicleta-de-montana-correra-ruta-del-sol/",
+        "date": "2025-04-19 01:48:14",
+        "sentiment_score": 0.2509141080081463
+    },
+    {
+        "title": "España pide al Fondo de Solidaridad financiación para 4.404 millones en gastos de la dana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/espana-pide-al-fondo-de-solidaridad-financiacion-para-4404-millones-en-gastos-de-la-dana/",
+        "date": "2025-04-19 01:47:45",
+        "sentiment_score": 0.11866175383329391
+    },
+    {
+        "title": "Collboni se planta y cierra la negociación del presupuesto de Barcelona para 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/collboni-se-planta-y-cierra-la-negociacion-del-presupuesto-de-barcelona-para-2025/",
+        "date": "2025-04-19 01:47:32",
+        "sentiment_score": 0.424992460757494
+    },
+    {
+        "title": "Filmes para ver esta noche en Prime Video España",
+        "image_url": "https://www.infobae.com/resizer/v2/7HR7NZBODFHAPHVQHMTB3CIB5A.jpg?auth=85f9471c99fa0cfbfd69a04a2a13300669fb1ce22828331e07a3d7adf21cae20&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/04/19/filmes-para-ver-esta-noche-en-prime-video-espana/",
+        "date": "2025-04-19 01:30:58",
+        "sentiment_score": 0.4771893825381994
+    },
+    {
+        "title": "El Atlético-Getafe abrirá los cuartos el martes 4 de febrero; Leganés-R.Madrid miércoles 5",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/el-atletico-getafe-abrira-los-cuartos-el-martes-4-de-febrero-leganes-rmadrid-miercoles-5/",
+        "date": "2025-04-19 01:03:34",
+        "sentiment_score": 0.08818605914711952
+    },
+    {
+        "title": "El entrenador del Leganés promocionará en FITUR la imagen de Ávila como destino deportivo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/el-entrenador-del-leganes-promocionara-en-fitur-la-imagen-de-avila-como-destino-deportivo/",
+        "date": "2025-04-19 01:03:21",
+        "sentiment_score": 0.7019115537405014
+    },
+    {
+        "title": "La bolsa sube el 0,23 % y sigue en niveles de diciembre por encima de 11.900 puntos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/la-bolsa-sube-el-023-y-sigue-en-niveles-de-diciembre-por-encima-de-11900-puntos/",
+        "date": "2025-04-19 01:03:08",
+        "sentiment_score": 0.5042250603437424
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 19 de abril en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/26BMEP2J3JGBRNHEJ7PLTGWOUQ.jpg?auth=e46fab61ecf5edbead1a0a01c7dc856ddffc71cd199b565b7d3f47fe5bb47a9f&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/19/clima-las-temperaturas-que-predominaran-este-19-de-abril-en-barcelona/",
+        "date": "2025-04-19 01:00:38",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "FAES considera que \"la toma de control de Telefónica es una renacionalización excusada como operación de Estado\"",
+        "image_url": "https://www.infobae.com/resizer/v2/AXKOIBARQZCHDOGUSG2STGXOR4.jpg?auth=e5fc40a8a9960163df83c4064a156e9b85c59b58bab18e48fbc534a84a878b1e&height=2879&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/faes-considera-que-la-toma-de-control-de-telefonica-es-una-renacionalizacion-excusada-como-operacion-de-estado/",
+        "date": "2025-04-19 00:49:11",
+        "sentiment_score": -0.27870340645313263
+    },
+    {
+        "title": "EE.UU. busca arrebatar a China las ricas minas del Congo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/16/mina-kKoF-U70827535773lHI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/eeuu-busca-arrebatar-china-ricas-minas-congo-20250416133727-nt.html",
+        "date": "2025-04-19 02:09:27",
+        "sentiment_score": -0.05396917462348938
+    },
+    {
+        "title": "La inflación devora las ganancias salariales de los trabajadores",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/19/1490320934-RyQvdt4tjPBkXybERo8NtIK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/inflacion-devora-ganancias-salariales-trabajadores-20250419040259-nt.html",
+        "date": "2025-04-19 02:04:24",
+        "sentiment_score": -0.10512536764144897
+    },
+    {
+        "title": "Pico y placa del domingo 20 de abril: horarios y carreteras en el plan retorno a Bogotá de Semana Santa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HONKKRMQPZJJ7PB3HXR66AN5XY.jpg?auth=56ac9525b819dc6e176278036ac625d641880b9f98594d291abe5f17f227f7a8&width=1200",
+        "tags": [
+            "semana santa",
+            "bogotá",
+            "latinoamérica",
+            "carreteras",
+            "vehículos",
+            "colombia",
+            "pico y placa",
+            "américa"
+        ],
+        "link": "https://elpais.com/america-colombia/2025-04-19/pico-y-placa-del-domingo-20-de-abril-horarios-y-carreteras-en-el-plan-retorno-a-bogota-de-semana-santa.html",
+        "date": "2025-04-19 01:11:52",
+        "sentiment_score": 0.2980525717139244
+    },
+    {
+        "title": "El nuevo golpe que sufrió Mbappé tras la eliminación del Real Madrid en Champions",
+        "image_url": "https://www.lapatilla.com/wp-content/uploads/2025/04/8b54dabf094e99d24ff41ed324842d9cfc9fb5a4w.jpg?resize=640%2C427",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lapatilla.com/2025/04/18/el-nuevo-golpe-que-sufrio-mbappe-tras-la-eliminacion-del-real-madrid-en-champions/",
+        "date": "2025-04-19 00:54:04",
+        "sentiment_score": 0.10034681856632233
+    },
+    {
+        "title": "El Real Madrid arrolla al Bayern y se reta con el Olympiakos en cuartos de la Euroliga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/04/19/6802f069ccb5d.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20250419/real-madrid-arrolla-bayern-reta-olympiakos-cuartos-euroliga_289478.html",
+        "date": "2025-04-19 00:41:49",
+        "sentiment_score": -0.08825437724590302
+    },
+    {
+        "title": "Mbappé suma un nuevo fracaso esta temporada (+Detalles)",
+        "image_url": "https://pxcdn.meridiano.net/042025/1745032253882.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/mbappe-suma-un-nuevo-fracaso-esta-temporada-detalles--202541820400",
+        "date": "2025-04-19 00:40:00",
+        "sentiment_score": -0.8120812568813562
+    },
+    {
+        "title": "Previa del Benfica - FC Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/KVIIZXFP6RB73LHUBVZKGYRB3E.jpg?auth=3c80fc54514323e2527ade58a24e3c96676eed53fe9b1693617c83e36779935e&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/20/previa-del-benfica-fc-barcelona/",
+        "date": "2025-04-19 00:33:44",
+        "sentiment_score": 0.33464469760656357
+    },
+    {
+        "title": "García Cuenca concreta equipo para la Pro Liga con 24 jugadoras, 9 presentes en París 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/garcia-cuenca-concreta-equipo-para-la-pro-liga-con-24-jugadoras-9-presentes-en-paris-2024/",
+        "date": "2025-04-19 00:32:21",
+        "sentiment_score": 0.13889456167817116
+    },
+    {
+        "title": "Expertos llaman a incorporar la voz del paciente en las decisiones sobre su enfermedad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/expertos-llaman-a-incorporar-la-voz-del-paciente-en-las-decisiones-sobre-su-enfermedad/",
+        "date": "2025-04-19 00:19:16",
+        "sentiment_score": 0.6391984634101391
+    },
+    {
+        "title": "Blanca lleva 40 años recopilando las 4.200 obras de su bisabuelo Joaquín Sorolla: \"Están Velázquez, Goya y él; fue el mejor artista de su tiempo\"",
+        "image_url": "https://s1.elespanol.com/2025/04/16/actualidad/1003743718570_254850331_1706x960.jpg?contentId=1003743718570",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250419/blanca-lleva-anos-recopilando-obras-bisabuelo-joaquin-sorolla-velazquez-goya-mejor-artista-tiempo/1003743714869_0.html",
+        "date": "2025-04-19 00:14:00",
+        "sentiment_score": 0.4624380096793175
+    },
+    {
+        "title": "SIDN Digital Thinking y Google reunirán a expertos del Real Estate para debatir el impacto de la IA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/20/sidn-digital-thinking-y-google-reuniran-a-expertos-del-real-estate-para-debatir-el-impacto-de-la-ia/",
+        "date": "2025-04-19 00:03:01",
+        "sentiment_score": 0.27656716480851173
+    },
+    {
+        "title": "Ferran Torres: \"Queremos sellar la clasificación y coger confianza para la Liga\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/20/ferran-torres-queremos-sellar-la-clasificacion-y-coger-confianza-para-la-liga/",
+        "date": "2025-04-19 02:03:12",
+        "sentiment_score": 0.6896420493721962
+    },
+    {
+        "title": "Son Moix necesita de toda su magia",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3271285.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/04/19/2369751/futbol-real-mallorca-leganes-previa-partido-liga.html",
+        "date": "2025-04-19 02:00:01",
+        "sentiment_score": 0.19221249222755432
+    },
+    {
+        "title": "Grandes fortunas fútbol español (VII): Quién es el Grupo Élite, dueño Racing de Ferrol",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/montaje-ferrol_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/grandes-fortunas-futbol-espanol-grupo-elite-dueno-racing-ferrol",
+        "date": "2025-04-19 01:30:00",
+        "sentiment_score": 0.0743834376335144
+    },
+    {
+        "title": "El hijo de Antonio falleció por Insomnio Fatal Familiar: \"En mi familia, 37 personas han muerto por esta enfermedad genética\"",
+        "image_url": "https://s1.elespanol.com/2025/04/15/actualidad/1003743715350_254787086_1706x960.jpg?contentId=1003743715350",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250419/hijo-antonio-fallecio-insomnio-fatal-familiar-familia-personas-muerto-enfermedad-genetica/1003743715285_0.html",
+        "date": "2025-04-19 00:14:37",
+        "sentiment_score": -0.8042012173682451
+    },
+    {
+        "title": "Illa obedece a los tribunales, pone la bandera de España en su residencia oficial y Junts le ataca: \"Desnacionaliza Cataluña\"",
+        "image_url": "https://s1.elespanol.com/2025/04/18/actualidad/1003743720591_254893207_1706x960.jpg?contentId=1003743720591",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250419/illa-obedece-tribunales-pone-bandera-espana-residencia-oficial-junts-ataca-desnacionaliza-cataluna/1003743720530_0.html",
+        "date": "2025-04-19 00:10:34",
+        "sentiment_score": -0.36881811171770096
+    },
+    {
+        "title": "Florida lanza vacante para personas sin experiencia: empresa ofrece salario de $800 semanales",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745029325367.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/florida-lanza-vacante-para-personas-sin-experiencia-empresa-ofrece-salario-de-800-semanales-202541822140",
+        "date": "2025-04-19 02:14:00",
+        "sentiment_score": 0.14316741563379765
+    },
+    {
+        "title": "Organización denuncia que el gobierno de Trump pretende deportar más venezolanos a El Salvador en Semana Santa",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745027235614.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/organizacion-denuncia-que-el-gobierno-de-trump-pretende-deportar-mas-venezolanos-a-el-salvador-en-semana-santa-20254182230",
+        "date": "2025-04-19 02:03:00",
+        "sentiment_score": -0.17147638648748398
+    },
+    {
+        "title": "Espacio: tesoro regalo en cocinas pequeñas ¡Organízala!",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744732262390.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/espacio-tesoro-regalo-en-cocinas-pequenas-organizala--202541821550",
+        "date": "2025-04-19 01:55:00",
+        "sentiment_score": 0.37896878086030483
+    },
+    {
+        "title": "Suero fisiológico deja siete muertos en Perú: uno de los fallecidos tuvo muerte cerebral",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745026174321.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/suero-fisiologico-deja-siete-muertos-en-peru-uno-de-los-fallecidos-tuvo-muerte-cerebral-202541821310",
+        "date": "2025-04-19 01:31:00",
+        "sentiment_score": -0.561637207865715
+    },
+    {
+        "title": "Aeropuertos en USA: multas de $12.000 por llevar esto en tu maleta",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745026338291.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/aeropuertos-en-usa-multas-de-12-000-por-llevar-esto-en-tu-maleta-202541821270",
+        "date": "2025-04-19 01:27:00",
+        "sentiment_score": -0.04710263013839722
+    },
+    {
+        "title": "Muere venezolano por inmersión en el río Trinity de Estados Unidos: Piden ayuda para repatriar el cuerpo",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745020967812.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/muere-venezolano-por-inmersion-en-el-rio-trinity-de-estados-unidos-piden-ayuda-para-repatriar-el-cuerpo-202541820590",
+        "date": "2025-04-19 01:00:00",
+        "sentiment_score": -0.15881121158599854
+    },
+    {
+        "title": "Hombre amenaza con saltar de 15 metros de altura en Caracas: bomberos logran rescatarlo",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745021817694.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/hombre-amenaza-con-saltar-de-15-metros-de-altura-en-caracas-bomberos-logran-rescatarlo-20254182100",
+        "date": "2025-04-19 01:00:00",
+        "sentiment_score": -0.5847089532762766
+    },
+    {
+        "title": "Redadas ICE del 18 de abril: Otro inmigrante es arrestado y deportado a El Salvador",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745024424936.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-18-de-abril-otro-inmigrante-es-arrestado-y-deportado-a-el-salvador-20254182100",
+        "date": "2025-04-19 01:00:00",
+        "sentiment_score": 0.11183233931660652
+    },
+    {
+        "title": "Chamba Juvenil y Somos Venezuela: Pasos para registrarse y cobrar los bonos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745000903817.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/chamba-juvenil-y-somos-venezuela-pasos-para-registrarse-y-cobrar-los-bonos-20254182100",
+        "date": "2025-04-19 01:00:00",
+        "sentiment_score": 0.2837764471769333
+    },
+    {
+        "title": "Sistema Patria: estos son los bonos que faltan por pagar a los funcionarios públicos en abril",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745018268059.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/sistema-patria-estos-son-los-bonos-que-faltan-por-pagar-a-los-funcionarios-publicos-en-abril-20254182100",
+        "date": "2025-04-19 01:00:00",
+        "sentiment_score": -0.32694236561656
     }
 ];
