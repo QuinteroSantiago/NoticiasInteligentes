@@ -1,331 +1,5 @@
 export default [
     {
-        "title": "Talgo sube casi 6% en bolsa ante el posible avance de Polonia en el lanzamiento de una opa",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/17/talgo-sube-casi-6-en-bolsa-ante-el-posible-avance-de-polonia-en-el-lanzamiento-de-una-opa/",
-        "date": "2025-04-16 06:33:11",
-        "sentiment_score": 0.5720872208476067
-    },
-    {
-        "title": "Arteta, sobre Zubimendi: \"Tenemos que estar preparados\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/17/arteta-sobre-zubimendi-tenemos-que-estar-preparados/",
-        "date": "2025-04-16 06:32:57",
-        "sentiment_score": 0.30319856852293015
-    },
-    {
-        "title": "Fisac: \"No me preocupa la Copa, solo espero competir al máximo nivel en Granada\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/17/fisac-no-me-preocupa-la-copa-solo-espero-competir-al-maximo-nivel-en-granada/",
-        "date": "2025-04-16 06:32:42",
-        "sentiment_score": 0.5854046121239662
-    },
-    {
-        "title": "David Aznar: \"Tenemos recursos para hacerle daño al Barça\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/17/david-aznar-tenemos-recursos-para-hacerle-dano-al-barca/",
-        "date": "2025-04-16 06:32:28",
-        "sentiment_score": 0.7942062877118587
-    },
-    {
-        "title": "Los médicos, contrarios a imponer a los jóvenes que elijan ejercer entre pública o privada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/17/los-medicos-contrarios-a-imponer-a-los-jovenes-que-elijan-ejercer-entre-publica-o-privada/",
-        "date": "2025-04-16 06:32:13",
-        "sentiment_score": 0.30945946276187897
-    },
-    {
-        "title": "El oro logra nuevos máximos, al superar los 3.290 dólares el precio de la onza",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/16/el-oro-logra-nuevos-maximos-al-superar-los-3290-dolares-el-precio-de-la-onza/",
-        "date": "2025-04-16 06:31:23",
-        "sentiment_score": 0.3399169594049454
-    },
-    {
-        "title": "Marcos García Montes, abogado de Daniel Sancho, optimista tras presentar el recurso: “Volverá a España en dos o tres años”",
-        "image_url": "https://www.infobae.com/resizer/v2/CN6UZ2ZP4BCZTP6AGQCSGZIFOY.jpg?auth=833972917847a30bf657faeb8f41bed459ed168add0cf6db8ffbd2bf7398309a&height=924&smart=true&width=1640",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/16/marcos-garcia-montes-abogado-de-daniel-sancho-optimista-tras-presentar-el-recurso-volvera-a-espana-en-dos-o-tres-anos/",
-        "date": "2025-04-16 06:28:10",
-        "sentiment_score": 0.18500401079654694
-    },
-    {
-        "title": "Las revistas del corazón esta semana: del último adiós de Mario Vargas Llosa al secreto del matrimonio de Elsa Pataky",
-        "image_url": "https://www.infobae.com/resizer/v2/HU2W6HVXNBDD3DDUNG66Y3MUUM.jpg?auth=aac5e8c29b0e74ab551fc10d680f1a37f0d076c866419a65d7872c2e75f4dba9&height=960&smart=true&width=1706",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/16/las-revistas-del-corazon-esta-semana-del-ultimo-adios-de-mario-vargas-llosa-al-secreto-del-matrimonio-de-elsa-pataky/",
-        "date": "2025-04-16 06:25:07",
-        "sentiment_score": 0.1593010127544403
-    },
-    {
-        "title": "Trabajadores de Iveco reciben multas de 135 euros cada día por aparcar cerca de la fábrica: “No incentiva a los empleados a regresar”",
-        "image_url": "https://www.infobae.com/resizer/v2/QBOOC5QA3RF6RP4IPUBRAZELTE.png?auth=46f40dd379ee04f136866fbf528df50e4298af463d8652709e0313fa6f3b0d63&height=783&smart=true&width=1257",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/16/trabajadores-de-iveco-reciben-multas-de-135-euros-cada-dia-por-aparcar-cerca-de-la-fabrica-no-incentiva-a-los-empleados-a-regresar/",
-        "date": "2025-04-16 06:22:30",
-        "sentiment_score": -0.4740668386220932
-    },
-    {
-        "title": "La Fiscalía de Italia pide que Juana Rivas tenga la custodia de su hijo menor",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/17/la-fiscalia-de-italia-pide-que-juana-rivas-tenga-la-custodia-de-su-hijo-menor/",
-        "date": "2025-04-16 06:19:23",
-        "sentiment_score": -0.5757175944745541
-    },
-    {
-        "title": "Pagaron sus impuestos y eso podría llevarlos a su deportación: \"La gente se siente traicionada\"",
-        "image_url": "https://cdn.mnmstatic.net/cache/3d/c8/media_thumb-link-4049132.webp?1744749246=",
-        "tags": [
-            "eeuu",
-            "inmigración",
-            "actualidad",
-            "fiscalidad"
-        ],
-        "link": "https://www.meneame.net/story/pagaron-impuestos-eso-podria-llevarlos-deportacion-gente-siente",
-        "date": "2025-04-16 06:05:02",
-        "sentiment_score": -0.3623094782233238
-    },
-    {
-        "title": "Quién es Kilmar Abrego García, el deportado «por error» que protagoniza la última batalla judicial de Trump",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/16/comunidad-salvador-abrego-garcia-kFJI-U70826587576QvH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/kilmar-abrego-garcia-deportado-error-protagoniza-ultima-20250416082913-nt.html",
-        "date": "2025-04-16 06:29:13",
-        "sentiment_score": -0.356997549533844
-    },
-    {
-        "title": "La economía china crece más de lo esperado antes de la guerra comercial: un 5,4% en el primer trimestre",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/16/barcos-china-k08C-U70826507224k0G-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/economia-china-crece-esperado-guerra-comercial-primer-20250416075728-nt.html",
-        "date": "2025-04-16 05:57:29",
-        "sentiment_score": -0.06419450044631958
-    },
-    {
-        "title": "Un fondo estadounidense negocia la compra del hotel Silken de Santa Cruz",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/996070eb-17ba-40ba-8a7f-cd0ed6609601_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/santa-cruz-de-tenerife/2025/04/16/fondo-estadounidense-negocia-compra-hotel-116428410.html",
-        "date": "2025-04-16 06:30:53",
-        "sentiment_score": -0.04951721429824829
-    },
-    {
-        "title": "Desvíos de bus y cortes en Zaragoza este Miércoles Santo: afecciones del transporte en Semana Santa",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/04/01/2025040110234359707.jpg",
-        "tags": [
-            "zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/zaragoza/desvios-bus-cortes-zaragoza-miercoles-santo-afecciones-transporte-semana-santa/20250416083000917770.html",
-        "date": "2025-04-16 06:30:00",
-        "sentiment_score": -0.17470769956707954
-    },
-    {
-        "title": "Llenar el depósito sin vaciar la cartera: siete trucos para ahorrar gasolina en Semana Santa",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2025/04/14/B967BFA6-8EFB-4CF9-9A7C-6E4ED68DC6B9/llenar-deposito-vaciar-cartera-siete-trucos-ahorrar-gasolina-semana-santa_70.jpg?crop=764%2C430%2Cx0%2Cy43&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "noticias",
-            "ondacero",
-            "sociedad"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/llenar-deposito-vaciar-cartera-siete-trucos-ahorrar-gasolina-semana-santa_2025041667ff49bf160aba00014e239f.html",
-        "date": "2025-04-16 06:10:07",
-        "sentiment_score": 0.024416208267211914
-    },
-    {
-        "title": "Casimiro se reencuentra con Laso: \"Como jugador ya tenía mentalidad de entrenador\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/17/casimiro-se-reencuentra-con-laso-como-jugador-ya-tenia-mentalidad-de-entrenador/",
-        "date": "2025-04-16 06:03:52",
-        "sentiment_score": 0.7851388528943062
-    },
-    {
-        "title": "La Geoda (Almería) y la Laboral de Gijón, entre las aspirantes a Patrimonio Mundial",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/17/la-geoda-almeria-y-la-laboral-de-gijon-entre-las-aspirantes-a-patrimonio-mundial/",
-        "date": "2025-04-16 06:02:10",
-        "sentiment_score": 0.5236085951328278
-    },
-    {
-        "title": "La guerra de aranceles de Donald Trump, en directo | China nombra a un nuevo representante comercial en plena guerra arancelaria con EE UU",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WDMVMHAMDVT2G2TFLKUX5MDLFU.jpg?auth=64f4a8d6c86461c9970f6d6513ebc103d9749fec73252202840e2f025a5d9ad8&width=1200",
-        "tags": [
-            "política",
-            "unión europea",
-            "donald trump",
-            "proteccionismo",
-            "aranceles",
-            "estados unidos",
-            "política comercial",
-            "guerra comercial",
-            "política económica"
-        ],
-        "link": "https://elpais.com/internacional/2025-04-16/la-guerra-de-aranceles-de-donald-trump-en-directo.html",
-        "date": "2025-04-16 05:47:06",
-        "sentiment_score": -0.010865874588489532
-    },
-    {
-        "title": "¿Quieres saber cómo amanece hoy el deporte en Gipuzkoa?",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/04/16/67ff3edbee0f8.jpeg",
-        "tags": [
-            "deportes gipuzkoa"
-        ],
-        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/quieres-amanece-hoy-deporte-gipuzkoa-20250416_3134675.html",
-        "date": "2025-04-16 05:35:45",
-        "sentiment_score": -0.019008278846740723
-    },
-    {
-        "title": "Los mensajes de odio en redes se reducen casi la mitad en la primera vuelta de LaLiga",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/17/los-mensajes-de-odio-en-redes-se-reducen-casi-la-mitad-en-la-primera-vuelta-de-laliga/",
-        "date": "2025-04-16 05:33:57",
-        "sentiment_score": -0.7328126467764378
-    },
-    {
-        "title": "Una extraordinaria seguridad para un viaje de 400 metros de los 'stradivarios' reales",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/17/una-extraordinaria-seguridad-para-un-viaje-de-400-metros-de-los-stradivarios-reales/",
-        "date": "2025-04-16 05:33:03",
-        "sentiment_score": 0.34283122420310974
-    },
-    {
-        "title": "La Champions en juego: el Madrid y cinco claves de una posible remontada ante el Arsenal",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/16/2025041607261694075.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/cinco-factores-que-impulsan-esperanza-madrid-champions-superar-alaves/20250416073032340931.html",
-        "date": "2025-04-16 05:30:32",
-        "sentiment_score": 0.8069868367165327
-    },
-    {
-        "title": "Este es el pueblo con menos habitantes de Catalunya: está en Barcelona y no llegan a 30",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/04/16/gran-barcelona/1003742649627_14433230_1706x960.jpg?contentId=1003742649627",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20250416/este-es-el-pueblo-con-menos-habitantes-de-catalunya-esta-en-barcelona-no-llegan-trt/1003742649624_0.html",
-        "date": "2025-04-16 06:32:12",
-        "sentiment_score": 0.7049611508846283
-    },
-    {
-        "title": "El Hospital del Mar de Barcelona identifica una \"clave\" de la agresividad del cáncer de páncreas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2020/06/11/celulas-tumorales-de-cancer-de-pancreas-del-modelo-kras-del-cnio-mostrando-en-color-marron-la-expresion-de-galectina-1.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/noticia/5701061/0/hospital-mar-barcelona-identifica-claves-alta-agresividad-cancer-pancreas/",
-        "date": "2025-04-16 06:29:25",
-        "sentiment_score": -0.29556816071271896
-    },
-    {
-        "title": "Se buscan trabajadores para Semana Santa en Barcelona: salario de 3.000 euros y posibilidad de contrato fijo",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/04/01/economia/935666465_14355431_1706x960.jpg?contentId=935666465",
-        "tags": [
-            "business"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20250416/se-buscan-trabajadores-para-semana-santa-en-barcelona-salario-de-euros-posibilidad-contrato-fijo-trt/935656449_0.html",
-        "date": "2025-04-16 06:20:32",
-        "sentiment_score": 0.5533262565732002
-    },
-    {
-        "title": "Previsió del temps d’avui, 16 d’abril, a Catalunya: pluja i canvi de temps",
-        "image_url": "https://elmon.cat/app/uploads/sites/15/2024/12/46510529251_aa54b8eeda_k.jpg",
-        "tags": [
-            "meteocat",
-            "méteo"
-        ],
-        "link": "https://elmon.cat/meteo/previsio-temps-avui-16-abril-catalunya-meteocat-pluja-canvi-temps-994812/",
-        "date": "2025-04-16 06:11:12",
-        "sentiment_score": -0.6667568981647491
-    },
-    {
-        "title": "Jorge Rey avisa: a partir de este día de la semana las lluvias y tormentas irán a más",
-        "image_url": "https://edatv.news/filesedc/uploads/image/post/lluvias-carretera-tormenta-jorge-rey_1200_800.webp",
-        "tags": [
-            "top"
-        ],
-        "link": "https://edatv.news/actualidad/jorge-rey-avisa-tormentas-lluvias-mas-viernes-sabado",
-        "date": "2025-04-16 06:08:00",
-        "sentiment_score": 0.0492413192987442
-    },
-    {
-        "title": "Los aeropuertos españoles operarán 37.901 vuelos desde este miércoles en Semana Santa, un 9% más que en 2024",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250416080053_120.jpg",
-        "tags": [
-            "economía finanzas",
-            "transportes"
-        ],
-        "link": "https://www.europapress.es/economia/transportes-00343/noticia-aeropuertos-espanoles-operaran-37901-vuelos-miercoles-semana-santa-mas-2024-20250416080053.html",
-        "date": "2025-04-16 06:00:53",
-        "sentiment_score": 0.23071956634521484
-    },
-    {
-        "title": "Los aeropuertos españoles operarán 37.901 vuelos desde este miércoles en Semana Santa, un 9% más que en 2024",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/04/fotonoticia_20250416080053_1920-995x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/684704/los-aeropuertos-espanoles-operaran-37-901-vuelos-desde-este-miercoles-en-semana-santa-un-9-mas-que-en-2024/",
-        "date": "2025-04-16 06:00:53",
-        "sentiment_score": 0.12459324300289154
-    },
-    {
-        "title": "Entradas para el concierto de Jennifer Lopez en Pontevedra: precios y dónde comprarlas",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/04/15/2025041514091777418.jpg",
-        "tags": [
-            "pontevedra"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/pontevedra/entradas-concierto-jennifer-lopez-pontevedra-precios-donde-comprarlas/202504160800341386282.html",
-        "date": "2025-04-16 06:00:34",
-        "sentiment_score": 0.1529632732272148
-    },
-    {
         "title": "Cuánto dinero se lleva el FC Barcelona por conseguir el pase a semifinales de la Champions",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -514,16 +188,6 @@ export default [
         "link": "https://www.abc.es/economia/trump-paraliza-fondos-publicos-alta-velocidad-texas-20250416133028-nt.html",
         "date": "2025-04-16 11:35:55",
         "sentiment_score": -0.02871692180633545
-    },
-    {
-        "title": "La Comisión Europea autoriza Leqembi, el primer tratamiento que ralentiza el deterioro cognitivo del alzhéimer",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/04/16/lequembi-dos.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/comision-europea-autoriza-leqembi-primer-tratamiento-ralentiza-20250416121330-nt.html",
-        "date": "2025-04-16 10:13:31",
-        "sentiment_score": -0.09897845983505249
     },
     {
         "title": "La promesa de la ampliación en la Línea 3 de Metro: de Alcorcón o Fuenlabrada a la Puerta del Sol, en 35 minutos",
@@ -6674,5 +6338,424 @@ export default [
         "link": "https://2001online.com/usa/servicios/aeropuerto-jfk-de-nueva-york-la-manera-mas-barata-de-moverse-dentro-de-las-instalaciones-20254191100",
         "date": "2025-04-19 15:00:00",
         "sentiment_score": 0.27476371079683304
+    },
+    {
+        "title": "Hoy será noticia. Domingo, 20 de abril",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/19/hoy-sera-noticia-domingo-20-de-abril/",
+        "date": "2025-04-19 22:15:41",
+        "sentiment_score": 0.03444189578294754
+    },
+    {
+        "title": "González Laya cree que aranceles anunciados por Trump pueden empeorar la inflación en EEUU",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/gonzalez-laya-cree-que-aranceles-anunciados-por-trump-pueden-empeorar-la-inflacion-en-eeuu/",
+        "date": "2025-04-19 22:03:34",
+        "sentiment_score": -0.888204226270318
+    },
+    {
+        "title": "Soltour celebra 50 años con 50 euros de descuento en cualquier producto durante Fitur",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/soltour-celebra-50-anos-con-50-euros-de-descuento-en-cualquier-producto-durante-fitur/",
+        "date": "2025-04-19 22:03:21",
+        "sentiment_score": 0.7830915115773678
+    },
+    {
+        "title": "Bernabé sobre ayudas con la dana: \"Si viésemos medidas o ayudas en las que hay que ampliar el plazo, lo valoraríamos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/Y6KPRNW6PBDGXCMGWWBUZD4WHA.jpg?auth=f70aa7e98b7834965776d8eceb930a62af7a01614911175f8573f945aa82c011&height=1436&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/bernabe-sobre-ayudas-con-la-dana-si-viesemos-medidas-o-ayudas-en-las-que-hay-que-ampliar-el-plazo-lo-valorariamos/",
+        "date": "2025-04-19 22:03:08",
+        "sentiment_score": 0.5081095695495605
+    },
+    {
+        "title": "Temas del día de EFE Economía del martes, 21 de enero de enero de 2025 (13 horas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/temas-del-dia-de-efe-economia-del-martes-21-de-enero-de-enero-de-2025-13-horas/",
+        "date": "2025-04-19 22:02:54",
+        "sentiment_score": 0.09869416803121567
+    },
+    {
+        "title": "Sabaly sufre una lesión muscular en el semimembranoso derecho",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/sabaly-sufre-una-lesion-muscular-en-el-semimembranoso-derecho/",
+        "date": "2025-04-19 22:02:38",
+        "sentiment_score": -0.844099372625351
+    },
+    {
+        "title": "Pablo Pin: “El partido ha estado marcado por nuestro pobre nivel defensivo”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/19/pablo-pin-el-partido-ha-estado-marcado-por-nuestro-pobre-nivel-defensivo/",
+        "date": "2025-04-19 22:00:56",
+        "sentiment_score": -0.8963480833917856
+    },
+    {
+        "title": "Información sobre mujeres deportistas focaliza aspectos extraprofesionales, según estudio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/informacion-sobre-mujeres-deportistas-focaliza-aspectos-extraprofesionales-segun-estudio/",
+        "date": "2025-04-19 21:49:40",
+        "sentiment_score": 0.20779139548540115
+    },
+    {
+        "title": "Torres reafirma que no tiene relación con Aldama, niega contactos con \"señoritas\" y reta al PP a probar sus acusaciones",
+        "image_url": "https://www.infobae.com/resizer/v2/Y6IS53R355HWBA4OJENPFO3UBI.jpg?auth=c26c1f2881cfa45e00c22f455b3d59ac7a54854bb7657c53e3b3a7e93c266d62&height=1259&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/torres-reafirma-que-no-tiene-relacion-con-aldama-niega-contactos-con-senoritas-y-reta-al-pp-a-probar-sus-acusaciones/",
+        "date": "2025-04-19 21:49:26",
+        "sentiment_score": -0.8916823184117675
+    },
+    {
+        "title": "Las ONGD piden al Gobierno un \"cambio de rumbo\" en materia de ayuda al desarrollo para lograr la meta del 0,7%",
+        "image_url": "https://www.infobae.com/resizer/v2/CY44B4F4QBA5DA2DIHUWE5UJ6Y.jpg?auth=680ce23b0eec0f594efe6c8cfc8cffdc7aede17cd24ffdbe138a056efa2f573a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/las-ongd-piden-al-gobierno-un-cambio-de-rumbo-en-materia-de-ayuda-al-desarrollo-para-lograr-la-meta-del-07/",
+        "date": "2025-04-19 21:49:13",
+        "sentiment_score": 0.32823216170072556
+    },
+    {
+        "title": "Los guiris somos nosotros",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/04/13/david-villa-hijo-luca-kZfE--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-robles-guiris-20250420000633-nts.html",
+        "date": "2025-04-19 22:06:34",
+        "sentiment_score": -0.08030474185943604
+    },
+    {
+        "title": "Negar nuestras raíces cristianas",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2025/04/15/ordenador-joven-kgWH--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-negar-raices-cristianas-20250420200153-nt.html",
+        "date": "2025-04-19 18:55:15",
+        "sentiment_score": -0.10029003024101257
+    },
+    {
+        "title": "EE.UU. descubre por accidente cómo usar la atmósfera como un espía",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/17/atm31-RWQpO9GZwHlPSRkuiA3Ua8L-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/eeuu-descubre-accidente-usar-atmosfera-espia-20250417202027-nt.html",
+        "date": "2025-04-19 17:54:49",
+        "sentiment_score": -0.0793885737657547
+    },
+    {
+        "title": "El sueño de Athos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/04/20/TerceraABC_Athos_Dors-RMYiXYswLTZl4VdRknhHVzH-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pablo-d-ors-sueno-athos-20250420110805-nt.html",
+        "date": "2025-04-19 17:53:58",
+        "sentiment_score": -0.044010668992996216
+    },
+    {
+        "title": "Un turismo de silencio",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2025/04/10/banco_3-U26664584485Vtw-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-turismo-silencio-20250420155000-nt.html",
+        "date": "2025-04-19 17:51:33",
+        "sentiment_score": -0.07943132519721985
+    },
+    {
+        "title": "Sánchez y las nucleares",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/04/17/croquetas-kKLB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-sanchez-sanchez-nucleares-20250420113951-nt.html",
+        "date": "2025-04-19 17:51:12",
+        "sentiment_score": -0.12885671854019165
+    },
+    {
+        "title": "Begoña y Ábalos dan votos al PSOE",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/04/14/guapas(1)-kWZB--170x119@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-exposito-begona-abalos-dan-votos-psoe-20250420181845-nt.html",
+        "date": "2025-04-19 17:50:55",
+        "sentiment_score": -0.07536581158638
+    },
+    {
+        "title": "Ser mujer es nacer mujer",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/04/17/croquetas-kKLB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-mujer-nacer-mujer-20250420180924-nt.html",
+        "date": "2025-04-19 17:50:30",
+        "sentiment_score": -0.2708709239959717
+    },
+    {
+        "title": "Liberen a Barrabás",
+        "image_url": "https://s2.ppllstatics.com/todoalicante/www/multimedia/2025/04/16/equinos-k1O--170x119@TodoAlicante.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/karina-sainz-borgo-liberen-barrabas-20250420112735-nt.html",
+        "date": "2025-04-19 17:50:10",
+        "sentiment_score": -0.07804909348487854
+    },
+    {
+        "title": "Esto fue lo que le hicieron",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/04/15/104167123-kj3B--170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-sostres-hicieron-20250420104155-nt.html",
+        "date": "2025-04-19 17:49:50",
+        "sentiment_score": -0.08153033256530762
+    },
+    {
+        "title": "Javi Muñoz: \"Tenía claro que no estaba en fuera de juego\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/19/javi-munoz-tenia-claro-que-no-estaba-en-fuera-de-juego/",
+        "date": "2025-04-19 21:47:01",
+        "sentiment_score": -0.2016790173947811
+    },
+    {
+        "title": "0-3. Carreras marca en la victoria del Benfica ante el Guimarães y Di María se lesiona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/19/0-3-carreras-marca-en-la-victoria-del-benfica-ante-el-guimaraes-y-di-maria-se-lesiona/",
+        "date": "2025-04-19 21:46:44",
+        "sentiment_score": -0.611114677041769
+    },
+    {
+        "title": "Autor del gol de Las Palmas frente al Atlético: \"Tenía claro que no estaba fuera de juego\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/19/autor-del-gol-de-las-palmas-frente-al-atletico-tenia-claro-que-no-estaba-fuera-de-juego/",
+        "date": "2025-04-19 21:45:34",
+        "sentiment_score": -0.21402115747332573
+    },
+    {
+        "title": "0-3. El Benfica golea a domicilio al Vitória Guimarães y Di María se lesiona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/19/0-3-el-benfica-golea-a-domicilio-al-vitoria-guimaraes-y-di-maria-se-lesiona/",
+        "date": "2025-04-19 21:45:18",
+        "sentiment_score": -0.6876834072172642
+    },
+    {
+        "title": "Fernando Romay incendia con su sorna el pregón de la Feira do Viño de Quiroga",
+        "image_url": "https://cflvdg.avoz.es/sc/37xlbELmBXI7K_XBHSATnFB7IMQ=/768x/2025/04/19/00121745095681316718646/Foto/m_20250419_222455000.jpg",
+        "tags": [
+            "feira do viño",
+            "lemos",
+            "fernando romay",
+            "ribeira sacra"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/lemos/2025/04/20/fernando-romay-incendia-sorna-pregon-feira-do-vino-quiroga/0003_202504M20C5993.htm",
+        "date": "2025-04-19 21:32:00",
+        "sentiment_score": 0.4961961656808853
+    },
+    {
+        "title": "Milagros",
+        "image_url": "https://s1.ppllstatics.com/starfish/latest/assets/images/placeholders/ideal-placeholder.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/opinion/jose-maria-perez-zuniga-milagros-20250420232924-nt.html",
+        "date": "2025-04-19 21:29:24",
+        "sentiment_score": 0.03137010335922241
+    },
+    {
+        "title": "Gasto en gran consumo sube 4,6 % en 2024 y en 500 euros/hogar más que en 2022, según NIQ",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/gasto-en-gran-consumo-sube-46-en-2024-y-en-500-euroshogar-mas-que-en-2022-segun-niq/",
+        "date": "2025-04-19 21:18:02",
+        "sentiment_score": 0.5060902573168278
+    },
+    {
+        "title": "Un gol de Las Palmas en el descuento deja al Atlético de Madrid fuera de la pelea por la liga",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/04/las-palmas-atletico.jpg",
+        "tags": [
+            "ud las palmas",
+            "fútbol",
+            "atlético de madrid",
+            "laliga ea sports",
+            "diego pablo 'cholo' simeone",
+            "antoine griezmann"
+        ],
+        "link": "https://theobjective.com/deportes/futbol/2025-04-19/las-palmas-atletico-madrid-liga/",
+        "date": "2025-04-19 21:12:22",
+        "sentiment_score": -0.6367023531347513
+    },
+    {
+        "title": "El Levante golea para ser líder y el Racing mantiene a tiro el ascenso directo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250419231111_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-levante-golea-ser-lider-racing-mantiene-tiro-ascenso-directo-20250419231111.html",
+        "date": "2025-04-19 21:11:11",
+        "sentiment_score": 0.8217806108295918
+    },
+    {
+        "title": "La Laguna Tenerife-Barça y Real Madrid-Baxi Manresa, duelos de cuartos de la Copa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/la-laguna-tenerife-barca-y-real-madrid-baxi-manresa-duelos-de-cuartos-de-la-copa/",
+        "date": "2025-04-19 21:04:39",
+        "sentiment_score": -0.07329581677913666
+    },
+    {
+        "title": "Los chips y la inteligencia artificial española se diseñan en una capilla",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/04/20/ordenador-barcelona-kp0D-U2301511494876DcE-1200x840@RC.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.canarias7.es/economia/chips-inteligencia-artificial-espanola-disenan-capilla-20250420000740-ntrc.html",
+        "date": "2025-04-19 22:07:41",
+        "sentiment_score": 0.5877160299569368
+    },
+    {
+        "title": "Fuertes lluvias causan estragos en Trujillo este 19 de abril: al menos 15 zonas afectadas por el desborde de ríos y quebradas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745100651226.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/fuertes-lluvias-causan-estragos-en-trujillo-este-19-de-abril-al-menos-15-zonas-afectadas-por-el-desborde-de-rios-y-quebradas-202541918110",
+        "date": "2025-04-19 22:11:00",
+        "sentiment_score": -0.1483786776661873
+    },
+    {
+        "title": "Sepa cómo hacer el depósito directo del IRS para obtener reembolso",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745024868478.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/sepa-como-hacer-el-deposito-directo-del-irs-para-obtener-reembolso-20254191800",
+        "date": "2025-04-19 22:00:00",
+        "sentiment_score": 0.018028177320957184
+    },
+    {
+        "title": "Rescatan a un hombre de las riberas del río Guaire: cayó al derrapar con su moto",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745098798738.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/rescatan-a-un-hombre-de-las-riberas-del-rio-guaire-cayo-al-derrapar-con-su-moto-202541917400",
+        "date": "2025-04-19 21:40:00",
+        "sentiment_score": 0.39075783640146255
+    },
+    {
+        "title": "Saca El Pecho Fest con La Mega en Miragua: el renacer de la celebración de Semana Santa en Playa el Agua",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745097431436.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/saca-el-pecho-fest-con-la-mega-en-miragua-el-renacer-de-la-celebracion-de-semana-santa-en-playa-el-agua-202541917350",
+        "date": "2025-04-19 21:35:00",
+        "sentiment_score": 0.8890494219958782
+    },
+    {
+        "title": "Conozca los precios del pasaporte venezolano para 2025: ronda entre los $120 y $350",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745095024434.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conozca-los-precios-del-pasaporte-venezolano-para-2025-ronda-entre-los-120-y-350-202541917300",
+        "date": "2025-04-19 21:30:00",
+        "sentiment_score": 0.06010489910840988
+    },
+    {
+        "title": "Emergencia aérea: Avión de American Airlines regresa a Ezeiza por humo en cabina",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745097118963.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/emergencia-aerea-avion-de-american-airlines-regresa-a-ezeiza-por-humo-en-cabina-202541917110",
+        "date": "2025-04-19 21:11:00",
+        "sentiment_score": -0.19220130518078804
+    },
+    {
+        "title": "Novak Djokovic rompe el silencio: eligió al mejor deportista de la historia entre Messi y Michael Jordan",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744774592373.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/novak-djokovic-rompe-el-silencio-eligio-al-mejor-deportista-de-la-historia-entre-messi-y-michael-jordan-20254191700",
+        "date": "2025-04-19 21:00:00",
+        "sentiment_score": 0.7864423934370279
+    },
+    {
+        "title": "Plan de pagos en línea ante IRS: cómo solicitarlos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744830468685.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/plan-de-pagos-en-linea-ante-irs-como-solicitarlos-20254191700",
+        "date": "2025-04-19 21:00:00",
+        "sentiment_score": 0.3890242036432028
+    },
+    {
+        "title": "Así puedes obtener hasta $3000 por abrir una cuenta bancaria en USA: requisitos y montos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745095146817.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/asi-puedes-obtener-hasta-3000-por-abrir-una-cuenta-bancaria-en-usa-requisitos-y-montos-202541916380",
+        "date": "2025-04-19 20:38:00",
+        "sentiment_score": 0.6978106591850519
+    },
+    {
+        "title": "Walmart cerrará sucursales durante 2025 en estos condados de California: apuestan al mercado online",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744938693452.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/walmart-cerrara-sucursales-durante-2025-en-estos-condados-de-california-apuestan-al-mercado-online-20254191600",
+        "date": "2025-04-19 20:00:00",
+        "sentiment_score": 0.6719277314841747
     }
 ];
