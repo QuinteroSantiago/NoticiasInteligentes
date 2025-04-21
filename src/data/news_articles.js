@@ -181,36 +181,6 @@ export default [
         "sentiment_score": -0.1186874508857727
     },
     {
-        "title": "El BCE vuelve a bajar los tipos de interés: ¿cómo afecta a las hipotecas?",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/17/1480074421-RpfxeFT30cpcLDfpWwycrYI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/bce-vuelve-bajar-tipos-interes-afecta-hipotecas-20250417183826-nt.html",
-        "date": "2025-04-17 12:22:57",
-        "sentiment_score": -0.0850309431552887
-    },
-    {
-        "title": "Trump urge a despedir al presidente de la Reserva Federal por ser «demasiado lento» en bajar los tipos de interés",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/17/powell-RVvoRgHEQnm0DdTNNruFIpN-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trump-urge-despedir-presidente-reserva-federal-lento-20250417135205-nt.html",
-        "date": "2025-04-17 11:59:15",
-        "sentiment_score": -0.22380220890045166
-    },
-    {
-        "title": "¡Písale la cabeza!",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/04/15/respuesta-viral-bar-granada-cliente-k0EE--170x119@Ideal.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-pisale-cabeza-20250418130214-nt.html",
-        "date": "2025-04-17 11:02:14",
-        "sentiment_score": -0.2526487559080124
-    },
-    {
         "title": "Un joven apuñalado tras una noche de peleas multitudinarias entre estudiantes de viaje de fin de curso en Mallorca",
         "image_url": "https://imagenes.elpais.com/resizer/v2/O4HHEA2NGNHRJGU26FHDYRTOWI.jpg?auth=f6cea7e03a3c47a049a109c54e7ce40eb16aebab9cd16390d88d39df8ca5c922&width=1200",
         "tags": [
@@ -295,73 +265,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-04-17/cinco-trabajadores-heridos-dos-de-ellos-graves-por-el-derrumbe-de-un-techo-en-una-obra.html",
         "date": "2025-04-17 14:23:43",
         "sentiment_score": -0.7475393693894148
-    },
-    {
-        "title": "15 muertos en las carreteras en la primera fase de la Operación de Tráfico de Semana Santa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6SWGK3MKRJH4WIC42K2YADVMRA.jpg?auth=0bf665d7bab2d3a35499bbc09567de6d80666de8fa02f38e308e4e4cb7260f7b&width=1200",
-        "tags": [
-            "dgt",
-            "kamikazes",
-            "retenciones circulación",
-            "accidentes tráfico",
-            "atascos",
-            "españa",
-            "seguridad vial",
-            "víctimas"
-        ],
-        "link": "https://elpais.com/espana/2025-04-17/15-muertos-en-las-carreteras-en-la-primera-fase-de-la-operacion-de-trafico-de-semana-santa.html",
-        "date": "2025-04-17 13:52:54",
-        "sentiment_score": -0.7431734520941973
-    },
-    {
-        "title": "Port Aventura suspende la venta de entradas para el sábado ante la falta de acuerdo con los sindicatos por la huelga",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C2OGL6FUQZCGXP77EBWXUFCYLU.jpg?auth=9e7a83fc8f52cff13a32e25dc6301976a2bb5f524c0f0d6c0683250a78a69b8e&width=1200",
-        "tags": [
-            "parques atracciones",
-            "sindicatos",
-            "huelgas",
-            "port aventura",
-            "cataluña",
-            "trabajo"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-17/port-aventura-suspende-la-venta-de-entradas-para-el-sabado-ante-la-falta-de-acuerdo-con-los-sindicatos-por-la-huelga.html",
-        "date": "2025-04-17 11:49:40",
-        "sentiment_score": -0.39458759874105453
-    },
-    {
-        "title": "SOS Desaparecidos pide investigar por qué el helicóptero de Salvamento “no estuvo prevenido” el día de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CWPGICAFK5GRBKDSHLOGP7LGKA.jpg?auth=8fcf2351e38b4632acec0bf14265a94f51e998c30faa917ec4d2cbdffdda81fa&width=1200",
-        "tags": [
-            "desastres naturales",
-            "comunidad valenciana",
-            "dana",
-            "carlos mazón",
-            "catarroja",
-            "salvamento marítimo",
-            "paiporta",
-            "valencia",
-            "riadas"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-17/sos-desaparecidos-pide-investigar-por-que-el-helicoptero-de-salvamento-no-estuvo-prevenido-el-dia-de-la-dana.html",
-        "date": "2025-04-17 11:14:23",
-        "sentiment_score": -0.1465788334608078
-    },
-    {
-        "title": "Albares recibe a Burita en Madrid tras el respaldo de EE UU y Francia al plan marroquí para el Sáhara",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CGBEB635CJCBFAPJHKES2OZKHY.jpg?auth=1132535f3574c6cdb2e2f0a23d649090b3426647727802f5276b648be267603d&width=1200",
-        "tags": [
-            "relaciones bilaterales",
-            "españa",
-            "josé manuel albares",
-            "naser burita",
-            "marruecos",
-            "relaciones internacionales",
-            "sahara occidental",
-            "diplomacia"
-        ],
-        "link": "https://elpais.com/espana/2025-04-17/albares-recibe-a-burita-en-madrid-tras-el-respaldo-de-ee-uu-y-francia-al-plan-marroqui-para-el-sahara.html",
-        "date": "2025-04-17 10:21:46",
-        "sentiment_score": 0.15389911830425262
     },
     {
         "title": "Lo que debes saber sobre las semifinales de la Champions League",
@@ -6541,5 +6444,435 @@ export default [
         "link": "https://2001online.com/farandula/demi-moore-sobre-el-oscar-a-mejor-actriz-lo-supe-antes-de-que-lo-anunciaran--20254201600",
         "date": "2025-04-20 20:00:00",
         "sentiment_score": 0.5911133475601673
+    },
+    {
+        "title": "Von der Leyen dice que la UE defenderá sus principios en cualquier negociación con EE.UU.",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/von-der-leyen-dice-que-la-ue-defendera-sus-principios-en-cualquier-negociacion-con-eeuu/",
+        "date": "2025-04-21 02:02:39",
+        "sentiment_score": 0.5613081865012646
+    },
+    {
+        "title": "Cuerpo califica de \"lógico\" y \"natural\" que Banco Sabadell regrese a Cataluña",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/cuerpo-califica-de-logico-y-natural-que-banco-sabadell-regrese-a-cataluna/",
+        "date": "2025-04-21 01:49:36",
+        "sentiment_score": 0.6923401206731796
+    },
+    {
+        "title": "Ascienden a diez los detenidos por la pelea entre radicales del Córdoba y el Almería",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/ascienden-a-diez-los-detenidos-por-la-pelea-entre-radicales-del-cordoba-y-el-almeria/",
+        "date": "2025-04-21 01:49:23",
+        "sentiment_score": -0.8783294577151537
+    },
+    {
+        "title": "Desaparece el pendrive con la prueba por la que está imputado un alto cargo de Justicia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/desaparece-el-pendrive-con-la-prueba-por-la-que-esta-imputado-un-alto-cargo-de-justicia/",
+        "date": "2025-04-21 01:49:10",
+        "sentiment_score": -0.7758096009492874
+    },
+    {
+        "title": "Gregorio Ordóñez, ETA contra todos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/gregorio-ordonez-eta-contra-todos/",
+        "date": "2025-04-21 01:48:56",
+        "sentiment_score": -0.7573536336421967
+    },
+    {
+        "title": "El Gobierno apura al límite para lograr apoyos al decreto ómnibus con la duda de Junts",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/el-gobierno-apura-al-limite-para-lograr-apoyos-al-decreto-omnibus-con-la-duda-de-junts/",
+        "date": "2025-04-21 01:48:43",
+        "sentiment_score": 0.43396342918276787
+    },
+    {
+        "title": "Argelia asegura que el rehén español liberado \"está en buen estado de salud\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/argelia-asegura-que-el-rehen-espanol-liberado-esta-en-buen-estado-de-salud/",
+        "date": "2025-04-21 01:48:30",
+        "sentiment_score": -0.2551053538918495
+    },
+    {
+        "title": "Sánchez asegura ante las críticas de Trump que España es un socio fiable que cumple",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/22/sanchez-asegura-ante-las-criticas-de-trump-que-espana-es-un-socio-fiable-que-cumple/",
+        "date": "2025-04-21 01:48:03",
+        "sentiment_score": 0.0927962213754654
+    },
+    {
+        "title": "Rusia, dispuesta a restringir la exportación de alimentos si se desestabiliza su mercado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/rusia-dispuesta-a-restringir-la-exportacion-de-alimentos-si-se-desestabiliza-su-mercado/",
+        "date": "2025-04-21 01:34:11",
+        "sentiment_score": -0.7697721719741821
+    },
+    {
+        "title": "Las bolsas europeas continúan con el buen tono de ayer y abren al alza pendientes de Trump",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/las-bolsas-europeas-continuan-con-el-buen-tono-de-ayer-y-abren-al-alza-pendientes-de-trump/",
+        "date": "2025-04-21 01:33:58",
+        "sentiment_score": 0.48256857693195343
+    },
+    {
+        "title": "Bryan Caplan : «La democracia fracasa porque hace lo que quieren los votantes»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/04/21/bryan-caplan-R2WEf3BBRkdhLN5Jo7JAR8O-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/bryan-caplan-democracia-fracasa-quieren-votantes-20250421171731-nt.html",
+        "date": "2025-04-21 02:10:13",
+        "sentiment_score": -0.15763242542743683
+    },
+    {
+        "title": "Trump lanza a la UE a por nuevos socios y acelera el pacto con Mercosur",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/21/1489627213-Rqtf1mBguiZu6DsqJ3lfRcK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/trump-lanza-ue-nuevos-socios-acelera-pacto-20250421175443-nt.html",
+        "date": "2025-04-21 02:08:45",
+        "sentiment_score": -0.09140044450759888
+    },
+    {
+        "title": "Tres meses y un día",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/21/donald-trump-RnZGe19yRQO5ny0LuK6TPYI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/john-muller-tres-meses-dia-20250421040809-nt.html",
+        "date": "2025-04-21 02:08:09",
+        "sentiment_score": -0.11072348058223724
+    },
+    {
+        "title": "Tormenta sobre la universidad",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2025/04/15/ordenador-joven-kgWH--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-tormenta-sobre-universidad-20250421145605-nt.html",
+        "date": "2025-04-21 02:05:26",
+        "sentiment_score": -0.21431517601013184
+    },
+    {
+        "title": "Más 'Signalgate': el jefe del Pentágono también compartió información sensible en otro chat con su mujer y su hermano",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/21/pete-kvsB-U70844796141QtH-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/signalgate-jefe-pentagono-compartio-informacion-sensible-chat-20250421003558-nt.html",
+        "date": "2025-04-20 22:35:58",
+        "sentiment_score": -0.1720559298992157
+    },
+    {
+        "title": "El tiempo en Alicante/Alacant: previsión meteorológica para hoy, lunes 21 de abril",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fae5713a-030c-4a90-8592-5967555aabf4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/tiempo/2025/04/21/tiempo-alicante-alacant-prevision-meteorologica-116560714.html",
+        "date": "2025-04-21 02:14:04",
+        "sentiment_score": 0.22124144434928894
+    },
+    {
+        "title": "\"Di Stéfano me marcó uno de sus últimos goles, en Oviedo y jugando con el Español\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7076fc6c-c368-4ce4-a039-bbd3fc4025ae_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/real-oviedo/2025/04/21/manana-historia-real-oviedo-recopilada-116559181.html",
+        "date": "2025-04-21 02:09:00",
+        "sentiment_score": 0.007903099060058594
+    },
+    {
+        "title": "Liverpool da un gran paso hacia el título y Nacional promete pelear hasta el final",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/21/liverpool-da-un-gran-paso-hacia-el-titulo-y-nacional-promete-pelear-hasta-el-final/",
+        "date": "2025-04-21 01:00:17",
+        "sentiment_score": 0.8890139721333981
+    },
+    {
+        "title": "Muere César Luis Menotti, exentrenador del Barça, campeón del mundo en 1978 y mito del fútbol argentino",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/56ecfd51-44ba-47ef-8a7d-6e98a27dc252_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "futbol,argentina"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/04/21/fallece-cesar-luis-menotti-seleccionador-argentina-116560571.html",
+        "date": "2025-04-21 00:54:05",
+        "sentiment_score": -0.8834426272660494
+    },
+    {
+        "title": "Juana Acosta desveló su admiración por Julián Román, actor con el que protagoniza ‘La fianza’: “Hay química entre los dos”",
+        "image_url": "https://www.infobae.com/resizer/v2/JIV6CWJP5FAKPKYZJCUH2P7DBA.jpg?auth=2b0b788903e14118301a10119a89228d36d76c84a772a54601448754ffb26f9c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/04/21/juana-acosta-desvelo-su-admiracion-por-julian-roman-actor-con-el-que-protagoniza-la-fianza-hay-quimica-entre-los-dos/",
+        "date": "2025-04-21 00:40:52",
+        "sentiment_score": 0.2924325317144394
+    },
+    {
+        "title": "Wesam Amer, académico palestino: \"La gente decide su propio gobierno en Israel y en EEUU... ¿por qué no en Gaza?\"",
+        "image_url": "https://s1.elespanol.com/2025/04/15/actualidad/1003743716747_254813014_1706x1280.jpg?contentId=1003743716747",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/oriente-proximo/20250421/wesam-amer-academico-palestino-gente-decide-propio-gobierno-israel-eeuu-no-gaza/1003743716650_0.html",
+        "date": "2025-04-21 00:36:23",
+        "sentiment_score": 0.002153366804122925
+    },
+    {
+        "title": "Miércoles, 22 de enero de 2025 (08.00 GMT)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/22/miercoles-22-de-enero-de-2025-0800-gmt/",
+        "date": "2025-04-21 00:34:19",
+        "sentiment_score": -0.5064233914017677
+    },
+    {
+        "title": "Agenda Informativa de Europa Press para el 22 de enero ( 1 )",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/22/agenda-informativa-de-europa-press-para-el-22-de-enero-1/",
+        "date": "2025-04-21 00:17:35",
+        "sentiment_score": 0.004116937518119812
+    },
+    {
+        "title": "20 ABR 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/20-abr-2025-tertulion-domingos-20250421_3136194.html",
+        "date": "2025-04-21 00:00:58",
+        "sentiment_score": -0.7104792390018702
+    },
+    {
+        "title": "La plaza Mayor",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/04/21/104279682-k61C--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/gijon/janel-cuesta-plaza-mayor-20250421074945-nt.html",
+        "date": "2025-04-21 00:00:00",
+        "sentiment_score": 0.14582782983779907
+    },
+    {
+        "title": "QUE la Diputación de Barcelona haya repescado al menorquín Tolo Moya...",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/sorprende-sorprende/2025/04/21/2370617/diputacion-barcelona-haya-repescado-menorquin-tolo-moya.html",
+        "date": "2025-04-21 02:00:01",
+        "sentiment_score": -0.6629008837044239
+    },
+    {
+        "title": "Enrique Vila-Matas: «Si no escribiera me dedicaría a conspirar, pero eso es lo más parecido a escribir»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3269163.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/04/21/2368697/enrique-vila-matas-escribiera-dedicaria-conspirar-pero-eso-mas-parecido-escribir.html",
+        "date": "2025-04-21 02:00:01",
+        "sentiment_score": -0.21370002627372742
+    },
+    {
+        "title": "Las mujeres hacen historia en el nomenclátor de Sineu",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3245843.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/part-forana/2025/04/21/2356665/ajuntament-sineu-proyecto-historico-para-dedicar-calles-plazas-mujeres-relevantes.html",
+        "date": "2025-04-21 02:00:01",
+        "sentiment_score": 0.775275582447648
+    },
+    {
+        "title": "Giro de 180o de Antonio Asensio: Se hace un hueco en la TV tras vender el Grupo Zeta",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/asensio-1745160859997_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/mas-media/giro-vida-antonio-asensio-hace-hueco-tv-tras-vender-zeta",
+        "date": "2025-04-21 02:00:00",
+        "sentiment_score": -0.16350585222244263
+    },
+    {
+        "title": "El argentino Rafael Monti ubica a Vinotinto entre los líderes de la Liga Pro de Ecuador",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/21/el-argentino-rafael-monti-ubica-a-vinotinto-entre-los-lideres-de-la-liga-pro-de-ecuador/",
+        "date": "2025-04-21 01:30:15",
+        "sentiment_score": 0.41933930665254593
+    },
+    {
+        "title": "Cuenta atrás a Benidorm Fest... con Carla Frigo: \"Al público le gusta una buena diva pop\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/cuenta-atras-a-benidorm-fest-con-carla-frigo-al-publico-le-gusta-una-buena-diva-pop/",
+        "date": "2025-04-21 01:03:21",
+        "sentiment_score": 0.49259444139897823
+    },
+    {
+        "title": "La Bolsa española abre plana pero por encima de 11.900 puntos con el foco en el Sabadell",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/la-bolsa-espanola-abre-plana-pero-por-encima-de-11900-puntos-con-el-foco-en-el-sabadell/",
+        "date": "2025-04-21 01:03:07",
+        "sentiment_score": 0.08375326544046402
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Barcelona este lunes",
+        "image_url": "https://www.infobae.com/resizer/v2/EGRFVDTZPZBTXDUCVLBP6ABV4Y.jpg?auth=f5935f4f1d77efba3293c870654c2add043da88a1b7aa48e480c8b37c0bca4a0&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/21/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-barcelona-este-lunes/",
+        "date": "2025-04-21 01:00:36",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "¿Ollas quemadas? Recupéralas con estos infalibles trucos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744825512672.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/ollas-quemadas-recuperalas-con-estos-infalibles-trucos-202542022150",
+        "date": "2025-04-21 02:15:00",
+        "sentiment_score": -0.05680061876773834
+    },
+    {
+        "title": "Así puedes recibir asistencia económica con el programa TANF: beneficiarios perciben hasta $862",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745201793382.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/asi-puedes-recibir-asistencia-economica-con-el-programa-tanf-beneficiarios-perciben-hasta-862-202542022110",
+        "date": "2025-04-21 02:11:00",
+        "sentiment_score": 0.0009719282388687134
+    },
+    {
+        "title": "Fiscalía detiene al responsable del asesinato de un reconocido artesano en Nueva Esparta",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745196145826.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/fiscalia-detiene-al-responsable-del-asesinato-de-un-reconocido-artesano-en-nueva-esparta-202542020260",
+        "date": "2025-04-21 02:00:00",
+        "sentiment_score": -0.5774438921362162
+    },
+    {
+        "title": "Predicciones de la semana del 21 al 27 de abril",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-21-al-27-de-abril-20254202200",
+        "date": "2025-04-21 02:00:00",
+        "sentiment_score": -0.27272943407297134
+    },
+    {
+        "title": "¿El brócoli baja la presión arterial? Esto dice la ciencia",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745198788157.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/el-brocoli-baja-la-presion-arterial-esto-dice-la-ciencia-202542021450",
+        "date": "2025-04-21 01:45:00",
+        "sentiment_score": -0.6344470866024494
+    },
+    {
+        "title": "Fiscalía venezolana responde a la propuesta de Bukele y envía comunicaciones a la justicia de El Salvador",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745199882164.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/fiscalia-venezolana-responde-a-la-propuesta-de-bukele-y-envia-comunicaciones-a-la-justicia-de-el-salvador-202542021440",
+        "date": "2025-04-21 01:44:00",
+        "sentiment_score": -0.9378196028992534
+    },
+    {
+        "title": "Monedas de colección USA: los 50 centavos de Kennedy del 2003 que están valorados en $1.000",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745199232853.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/monedas-de-coleccion-usa-los-50-centavos-de-kennedy-del-2003-que-estan-valorados-en-1-000-202542021320",
+        "date": "2025-04-21 01:32:00",
+        "sentiment_score": -0.6505212560296059
+    },
+    {
+        "title": "Restablecen el paso vehicular en zonas afectadas por lluvias en Los Andes: paso de carga pesada sigue restringido en algunas vías",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745198826288.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/restablecen-el-paso-vehicular-en-zonas-afectadas-por-lluvias-en-los-andes-paso-de-carga-pesada-sigue-restringido-en-algunas-vias-202542021270",
+        "date": "2025-04-21 01:27:00",
+        "sentiment_score": -0.7842311002314091
+    },
+    {
+        "title": "INTT: los cinco requisitos para tramitar la licencia de conducir moto en Venezuela por primera vez",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745118103161.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/intt-los-cinco-requisitos-para-tramitar-la-licencia-de-conducir-moto-en-venezuela-por-primera-vez-20254202100",
+        "date": "2025-04-21 01:00:00",
+        "sentiment_score": 0.018218830227851868
+    },
+    {
+        "title": "Inmigrante embarazada es atacada por hablar español: vendía helados en Simi Valley",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745196834026.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/inmigrante-embarazada-es-atacada-por-hablar-espanol-vendia-helados-en-simi-valley-202542020420",
+        "date": "2025-04-21 00:42:00",
+        "sentiment_score": -0.5106216073036194
     }
 ];
