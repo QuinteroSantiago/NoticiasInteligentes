@@ -1,294 +1,5 @@
 export default [
     {
-        "title": "Una abogada aclara si un propietario te puede echar de la vivienda si la necesita para él aunque tengas contrato: “Puede ser una excusa para sacar un precio más alto”",
-        "image_url": "https://www.infobae.com/resizer/v2/RYDZM6JKTVDEZBBC5A5DU2LVW4.jpg?auth=722282d4ee770743b28e013dc338697d80114d42db44a9cb929f12c85820b76a&height=1071&smart=true&width=1905",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/17/una-abogada-aclara-si-un-propietario-te-puede-echar-de-la-vivienda-si-la-necesita-para-el-aunque-tengas-contrato-puede-ser-una-excusa-para-sacar-un-precio-mas-alto/",
-        "date": "2025-04-17 06:33:35",
-        "sentiment_score": 0.29713066667318344
-    },
-    {
-        "title": "El Eldense destituye a Dani Ponz como entrenador tras perder con el Cádiz",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/18/el-eldense-destituye-a-dani-ponz-como-entrenador-tras-perder-con-el-cadiz/",
-        "date": "2025-04-17 06:32:38",
-        "sentiment_score": -0.7748489435762167
-    },
-    {
-        "title": "1-1. Kike García y Jesús Rodríguez, goleadores de una insulsa primera parte",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/18/1-1-kike-garcia-y-jesus-rodriguez-goleadores-de-una-insulsa-primera-parte/",
-        "date": "2025-04-17 06:32:24",
-        "sentiment_score": 0.6612591445446014
-    },
-    {
-        "title": "Telefónica nombra presidente a Marc Murtra en sustitución de Álvarez-Pallete",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/18/telefonica-nombra-presidente-a-marc-murtra-en-sustitucion-de-alvarez-pallete/",
-        "date": "2025-04-17 06:32:09",
-        "sentiment_score": -0.17551520466804504
-    },
-    {
-        "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 17 de abril",
-        "image_url": "https://www.infobae.com/resizer/v2/4STNENPOIZHITKZHPGRJ2TGL2U.jpg?auth=e3fe9b60dfe3312b2c87e7f9d1e0002fcf71e462498e48e231fa76d92df79e82&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/17/vives-en-madrid-o-barcelona-aqui-esta-el-precio-de-la-gasolina-del-17-de-abril/",
-        "date": "2025-04-17 06:30:40",
-        "sentiment_score": -0.046607084572315216
-    },
-    {
-        "title": "Albares se reúne hoy con Bourita para \"celebrar el excelente estado\" entre España y Marruecos",
-        "image_url": "https://www.infobae.com/resizer/v2/DV664IBACJDL7DH2S27THDWLCQ.jpg?auth=02a879371c21694d36b6b5be6938f76f30084869355f0156a8aa770698f6ed8c&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/17/albares-se-reune-hoy-con-bourita-para-celebrar-el-excelente-estado-entre-espana-y-marruecos/",
-        "date": "2025-04-17 06:30:22",
-        "sentiment_score": 0.5038072466850281
-    },
-    {
-        "title": "Las 10 rutas más bonitas de Segovia: impresionantes paisajes, pueblos tradicionales y la subida a su montaña más alta",
-        "image_url": "https://www.infobae.com/resizer/v2/JOWBYSHEGVAKTD77YDOWV3ZUFY.jpeg?auth=ddd6d50dccdf25263c0b392f02960d8fa34f2f1d6335b75d6f973c4f193231a7&height=3648&smart=true&width=5472",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2025/04/17/las-10-rutas-mas-bonitas-de-segovia-impresionantes-paisajes-pueblos-tradicionales-y-la-subida-a-su-montana-mas-alta/",
-        "date": "2025-04-17 06:30:00",
-        "sentiment_score": 0.4607832729816437
-    },
-    {
-        "title": "Astún asegura que la instalación accidentada contaba con los permisos y revisiones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/18/astun-asegura-que-la-instalacion-accidentada-contaba-con-los-permisos-y-revisiones/",
-        "date": "2025-04-17 06:19:12",
-        "sentiment_score": -0.6681523211300373
-    },
-    {
-        "title": "Marta García: \"El objetivo en 2025 es mejorarme y eso ya será buen síntoma\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/18/marta-garcia-el-objetivo-en-2025-es-mejorarme-y-eso-ya-sera-buen-sintoma/",
-        "date": "2025-04-17 06:17:03",
-        "sentiment_score": 0.8264519646763802
-    },
-    {
-        "title": "De cayucos y azulejos: las historias que no se cuentan en los pueblos pesqueros de Senegal",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/17/de-cayucos-y-azulejos-las-historias-que-no-se-cuentan-en-los-pueblos-pesqueros-de-senegal/",
-        "date": "2025-04-17 06:15:59",
-        "sentiment_score": -0.4570133835077286
-    },
-    {
-        "title": "La Inspección de Trabajo en Cataluña aflora un 35% más de infracciones laborales vinculadas a extranjería",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HROXVM2ZIVFBYMYJ7P4I6GMOVU.jpg?auth=c7cd915adf9b9e8a0ce191749a7d8fd3a893e48695299aa0df0c6da46a1b4ebf&width=1200",
-        "tags": [
-            "contratos",
-            "permisos laborales",
-            "inspecciones trabajo",
-            "cataluña",
-            "trabajo",
-            "extranjeros"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-17/la-inspeccion-de-trabajo-en-cataluna-aflora-un-35-mas-de-infracciones-laborales-vinculadas-a-extranjeria.html",
-        "date": "2025-04-17 06:00:00",
-        "sentiment_score": -0.1322968527674675
-    },
-    {
-        "title": "Lo que no sabías del Palacio de La Granja, el Versalles español escondido en la sierra",
-        "image_url": "https://static.eldiario.es/clip/2c564891-d55f-4c37-87bc-c624d3f28488_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiario.es/viajes/no-sabias-palacio-granja-versalles-espanol-escondido-sierra-pm_1_12228385.html",
-        "date": "2025-04-17 06:32:19",
-        "sentiment_score": -0.001251220703125
-    },
-    {
-        "title": "¿Persiana subida o bajada? Científicos revelan qué opción mejora tu energía al despertar y reduce la fatiga",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250417082949_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-persiana-subida-bajada-cientificos-revelan-opcion-mejora-energia-despertar-reduce-fatiga-20250417082949.html",
-        "date": "2025-04-17 06:29:49",
-        "sentiment_score": 0.17238346487283707
-    },
-    {
-        "title": "Medio Gol, de la afición",
-        "image_url": "https://static.laregion.es/clip/2a8f8185-bf50-43a4-8739-19f021f81d12_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.atlantico.net/celtismo/medio-gol-aficion_1_20250417-3492737.html",
-        "date": "2025-04-17 06:25:00",
-        "sentiment_score": 0.5231831595301628
-    },
-    {
-        "title": "Cada vez es más evidente que el Gobierno no tiene un problema con los jueces; en realidad, solo lo tiene con los que investigan al PSOE\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "monólogo de las 8 de herrera"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/monologo-de-las-8-de-herrera/monologos/vez-evidente-gobierno-problema-jueces-realidad-investigan-psoe-20250417_3135429.html",
-        "date": "2025-04-17 06:21:52",
-        "sentiment_score": -0.07153186202049255
-    },
-    {
-        "title": "¿Quién se queja de Osakidetza?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/opinion/tribuna-abierta/2025/04/17/queja-osakidetza-9532592.html",
-        "date": "2025-04-17 06:21:32",
-        "sentiment_score": -0.6733013540506363
-    },
-    {
-        "title": "1-2. Barcola da aire al PSG",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/01/18/1-2-barcola-da-aire-al-psg/",
-        "date": "2025-04-17 06:18:31",
-        "sentiment_score": 0.8271978609263897
-    },
-    {
-        "title": "Celaya: \"Vivas tiene un sentido de la lealtad institucional que no se ve en otros rincones de España\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "menores extranjeros no acompañados (mena)",
-            "noticias",
-            "vox",
-            "partido socialista obrero español (psoe)",
-            "elecciones",
-            "parlamentarios por ceuta",
-            "juan vivas",
-            "política",
-            "partido popular (pp)"
-        ],
-        "link": "https://elfarodeceuta.es/celaya-vivas-tiene-sentido-lealtad-institucional-no-se-ve-otros-rincones-espana/",
-        "date": "2025-04-17 06:16:44",
-        "sentiment_score": 0.07486717402935028
-    },
-    {
-        "title": "Ni Delicias ni Atocha: el barrio céntrico al lado del Retiro donde se venden pisos desde 550.000 euros",
-        "image_url": "https://okdiario.com/img/2025/04/16/ni-delicias-ni-atocha-el-barrio-centrico-al-lado-del-retiro-donde-se-venden-pisos-desde-550.000-euros.jpg",
-        "tags": [
-            "vivienda",
-            "precio del alquiler",
-            "comunidad de madrid",
-            "españa",
-            "compraventa de viviendas",
-            "madrid"
-        ],
-        "link": "https://okdiario.com/madrid/ni-delicias-ni-atocha-barrio-centrico-lado-del-retiro-donde-venden-pisos-desde-550-000-euros-14622509",
-        "date": "2025-04-17 06:15:41",
-        "sentiment_score": 0.22638705372810364
-    },
-    {
-        "title": "Al Real Madrid no le da ni para empatar",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/33fbbb25-8246-468b-aefc-8a97a0960584_16-9-aspect-ratio_default_0_x2300y1063.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2025/04/17/real-madrid-le-da-empatar-9532568.html",
-        "date": "2025-04-17 06:13:00",
-        "sentiment_score": -0.8068717997521162
-    },
-    {
-        "title": "Valladolid empieza la cuenta atrás para el desmontaje de la vía de Ariza",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/04/14/1495092460-kK0D-U2301464380965bhF-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/empieza-cuenta-atras-levantar-via-ariza-20250417111147-nt.html",
-        "date": "2025-04-17 06:08:55",
-        "sentiment_score": -0.29861150681972504
-    },
-    {
-        "title": "Borja Jiménez: \"Tenemos que disfrutar, hemos ganado a dos equipazos esta semana\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/01/18/borja-jimenez-tenemos-que-disfrutar-hemos-ganado-a-dos-equipazos-esta-semana/",
-        "date": "2025-04-17 06:33:21",
-        "sentiment_score": 0.831699663773179
-    },
-    {
-        "title": "Marc Murtra, un perfil próximo al Gobierno para presidir Telefónica",
-        "image_url": "https://www.infobae.com/resizer/v2/52QGICAGVRGAJIQVTCQKEYBNDI.jpg?auth=5b25f89288ff96d638b554613028d0bd6e6d6167c90530a03e5fa7df980c77a2&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/01/18/marc-murtra-un-perfil-proximo-al-gobierno-para-presidir-telefonica/",
-        "date": "2025-04-17 06:33:07",
-        "sentiment_score": 0.05865873396396637
-    },
-    {
-        "title": "Semana Santa histórica para el turismo: con récords de viajeros y con los precios más caros que nunca pese al ‘huracán Trump’",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/60de73f3-3391-4090-b06d-ea9856ab7b08_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/economia/2025/04/17/turismo-semana-santa-historica-records-116473153.html",
-        "date": "2025-04-17 06:19:53",
-        "sentiment_score": -0.6691417172551155
-    },
-    {
-        "title": "Diego Pablo Simeone: \"Cuando uno se acostumbra a ganar, después es más difícil perder\"",
-        "image_url": "https://www.infobae.com/resizer/v2/FQRNEHYDURHI7DL7KW5X274JN4.jpg?auth=692cc520db5a0b056aa2504c7edb84db8bdf50c08b1c597c4ebe1de15769f613&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/01/18/diego-pablo-simeone-cuando-uno-se-acostumbra-a-ganar-despues-es-mas-dificil-perder/",
-        "date": "2025-04-17 06:17:19",
-        "sentiment_score": 0.03414745628833771
-    },
-    {
-        "title": "Detenidos tres traficantes que distribuían drogas para sesiones de 'chemsex' en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/796dc47f-6859-4da0-bc82-d423f78b26c9_16-9-aspect-ratio_default_1369114.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20250417/detenidos-traficantes-drogas-chemsex-barcelona-116472863",
-        "date": "2025-04-17 06:13:58",
-        "sentiment_score": -0.7307520862668753
-    },
-    {
-        "title": "La Inspecció de Treball de Catalunya impone sanciones récord por 49,4 millones",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/03/29/642429dce2935.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20250417/10593856/inspeccio-treball-catalunya-impone-sanciones-record-49-4-millones.html",
-        "date": "2025-04-17 06:05:00",
-        "sentiment_score": 0.08212834596633911
-    },
-    {
         "title": "Compromís pide investigar si ponen en peligro a operarios que limpian garajes tras la dana",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -651,25 +362,6 @@ export default [
         "link": "https://elpais.com/espana/2025-04-17/albares-recibe-a-burita-en-madrid-tras-el-respaldo-de-ee-uu-y-francia-al-plan-marroqui-para-el-sahara.html",
         "date": "2025-04-17 10:21:46",
         "sentiment_score": 0.15389911830425262
-    },
-    {
-        "title": "Detenido en Murcia un presunto yihadista que recopilaba fotos de policías y buscaba armas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PSWECDGXKZFYRA35672IT33YPU.jpg?auth=72b8fe84a2a52b62c2a8c4e2cdc09f912e30be0b07c51929322430501e4e999b&width=1200",
-        "tags": [
-            "guardia civil",
-            "yihadismo",
-            "detenciones",
-            "españa",
-            "murcia",
-            "terroristas",
-            "lucha antiterrorista",
-            "ministerio del interior",
-            "fiscalía",
-            "audiencia nacional"
-        ],
-        "link": "https://elpais.com/espana/2025-04-17/detenido-en-murcia-un-presunto-yihadista-que-recopilaba-fotos-de-policias-y-buscaba-armas.html",
-        "date": "2025-04-17 10:15:54",
-        "sentiment_score": -0.7690349444746971
     },
     {
         "title": "Lo que debes saber sobre las semifinales de la Champions League",
@@ -6370,5 +6062,484 @@ export default [
         "link": "https://2001online.com/usa/internacionales/expulsiones-de-inmigrantes-a-el-salvador-presentan-recurso-para-levantar-la-pausa-202542011350",
         "date": "2025-04-20 15:35:00",
         "sentiment_score": -0.8269228469580412
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 21 de abril",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/20/hoy-sera-noticia-lunes-21-de-abril/",
+        "date": "2025-04-20 22:17:48",
+        "sentiment_score": 0.03639214113354683
+    },
+    {
+        "title": "Mar Molné, plata en foso olímpico de la Copa del Mundo de Lima",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/20/mar-molne-plata-en-foso-olimpico-de-la-copa-del-mundo-de-lima/",
+        "date": "2025-04-20 21:47:56",
+        "sentiment_score": -0.03129155933856964
+    },
+    {
+        "title": "Cervera: \"Hay un lío bastante gordo con el tema de los árbitros\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/20/cervera-hay-un-lio-bastante-gordo-con-el-tema-de-los-arbitros/",
+        "date": "2025-04-20 21:47:38",
+        "sentiment_score": -0.8494181036949158
+    },
+    {
+        "title": "Momentos de la jornada 32",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/20/momentos-de-la-jornada-32/",
+        "date": "2025-04-20 21:31:46",
+        "sentiment_score": 0.06382477283477783
+    },
+    {
+        "title": "Hoy es noticia. martes, 21 de enero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/hoy-es-noticia-martes-21-de-enero/",
+        "date": "2025-04-20 21:18:17",
+        "sentiment_score": 0.3425934165716171
+    },
+    {
+        "title": "0-0. Empate insuficiente para Deportivo y Tenerife",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/20/0-0-empate-insuficiente-para-deportivo-y-tenerife/",
+        "date": "2025-04-20 21:17:45",
+        "sentiment_score": -0.9151222202926874
+    },
+    {
+        "title": "A falta de Lewandowski y Mbappé, de nuevo Budimir",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/20/a-falta-de-lewandowski-y-mbappe-de-nuevo-budimir/",
+        "date": "2025-04-20 21:17:28",
+        "sentiment_score": -0.707994606345892
+    },
+    {
+        "title": "31-30. Villa de Aranda roza la permanencia tras imponerse en su casa al Valladolid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/20/31-30-villa-de-aranda-roza-la-permanencia-tras-imponerse-en-su-casa-al-valladolid/",
+        "date": "2025-04-20 20:46:54",
+        "sentiment_score": 0.5575188472867012
+    },
+    {
+        "title": "Radamel Falcao no continuará en el Millonarios colombiano por cuestiones fiscales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/radamel-falcao-no-continuara-en-el-millonarios-colombiano-por-cuestiones-fiscales/",
+        "date": "2025-04-20 20:33:52",
+        "sentiment_score": -0.4786402955651283
+    },
+    {
+        "title": "Eric García: \"La mentalidad del equipo ha sido increíble\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/21/eric-garcia-la-mentalidad-del-equipo-ha-sido-increible/",
+        "date": "2025-04-20 20:33:37",
+        "sentiment_score": 0.8744546789675951
+    },
+    {
+        "title": "Trump felicita la Pascua a los «debiluchos» jueces y llama a Biden «cretino destructivo»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/19/trmpas-RGuUH4UA68nHvi8Xr4oCZoI-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-llama-biden-cretino-destructivo-felicitacion-pascua-20250419202840-nt.html",
+        "date": "2025-04-20 19:13:45",
+        "sentiment_score": -0.28806421160697937
+    },
+    {
+        "title": "El Ejército israelí admite un «error» tras la muerte de socorristas en Gaza",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/20/ISRAEL-RrmlfOIZrilZuDZTzg0QObI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ejercito-israeli-admite-error-tras-muerte-socorristas-20250420204216-nt.html",
+        "date": "2025-04-20 18:42:17",
+        "sentiment_score": -0.20296449959278107
+    },
+    {
+        "title": "La paz sea con vosotros",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/04/21/15862788_20250420150205-Rxtu1gUFsBbPoem0M3zNImL-350x624@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sor-simona-brambilla-paz-20250421150227-nt.html",
+        "date": "2025-04-20 17:26:23",
+        "sentiment_score": -0.007483243942260742
+    },
+    {
+        "title": "El hombre más peligroso del mundo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/04/21/ENFOQUEABC_KennedyJr_Sorman-RbjUxw7ovt4pR6JnapEQHjI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-hombre-peligroso-mundo-20250421144420-nt.html",
+        "date": "2025-04-20 17:25:58",
+        "sentiment_score": -0.3135167956352234
+    },
+    {
+        "title": "Reivindicar la libertad",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/04/21/TERCERAABC_libertad_Milian-RQwTqKiI0cW5cGJ5oLSVdTK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-milian-querol-reivindicar-libertad-20250421140430-nt.html",
+        "date": "2025-04-20 17:25:16",
+        "sentiment_score": -0.18182526528835297
+    },
+    {
+        "title": "Teruel existe",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/04/08/barrioespanna-ksXD--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-teruel-existe-20250421143337-nt.html",
+        "date": "2025-04-20 17:25:04",
+        "sentiment_score": -0.036467939615249634
+    },
+    {
+        "title": "Avanza la decadencia",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/04/13/david-villa-hijo-luca-kZfE--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-avanza-decadencia-20250421143003-nt.html",
+        "date": "2025-04-20 17:24:47",
+        "sentiment_score": -0.09562179446220398
+    },
+    {
+        "title": "Catolicismo popular y catolicismo populista",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/04/15/Investigaci-tecnolgica-k21B--170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-catolicismo-popular-catolicismo-populista-20250421183742-nt.html",
+        "date": "2025-04-20 17:24:31",
+        "sentiment_score": -0.18519362807273865
+    },
+    {
+        "title": "«Resignificaciones»",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/04/15/respuesta-viral-bar-granada-cliente-k0EE--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-resignificaciones-20250421141510-nt.html",
+        "date": "2025-04-20 17:24:10",
+        "sentiment_score": -0.16533832252025604
+    },
+    {
+        "title": "Catolicismo sociológico",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/04/17/croquetas-kKLB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-catolicismo-sociologico-20250421192310-nt.html",
+        "date": "2025-04-20 17:23:47",
+        "sentiment_score": -0.08388575911521912
+    },
+    {
+        "title": "El inicio del retorno del puente de Semana Santa en Cataluña colapsa las carreteras",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4FLACGZP24JCC3MUY6AEN6LIZ4.jpg?auth=31a3a37fbe686b79eb43db1a9cf46180ff9fc370d6c01e40733bc2830a2520dc&width=1200",
+        "tags": [
+            "ap-7",
+            "tráfico",
+            "costa dorada",
+            "cataluña",
+            "mossos d'esquadra",
+            "costa brava"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-20/el-inicio-del-retorno-del-puente-de-semana-santa-en-cataluna-colapsa-las-carreteras.html",
+        "date": "2025-04-20 18:41:47",
+        "sentiment_score": -0.07861451432108879
+    },
+    {
+        "title": "Ancelotti: \"La afición, como nosotros, cree que algo podemos sacar esta temporada\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/20/ancelotti-la-aficion-como-nosotros-cree-que-algo-podemos-sacar-esta-temporada/",
+        "date": "2025-04-20 22:17:12",
+        "sentiment_score": 0.6036503501236439
+    },
+    {
+        "title": "Valverde mantiene vivo al Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/CRAOKAUDVZDA7HMIMWAWN3MGM4.jpg?auth=6005e71b4b46b7a95fc97f2a6cc26dc28d669109326b52e1cf42d8b48764a1aa&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/20/valverde-mantiene-vivo-al-real-madrid/",
+        "date": "2025-04-20 22:15:54",
+        "sentiment_score": 0.5742051377892494
+    },
+    {
+        "title": "Carlo Ancelotti: \"Es el nuevo fútbol, el VAR no llama al árbitro por el penalti de Bellingham\"",
+        "image_url": "https://www.infobae.com/resizer/v2/AZMIKS5ZUZBWPPDZ22F3D6GWRM.jpg?auth=1eb8bb1bc276caab460191cf50a73cf4664a6aecfbe84b637ee3a017677d3a10&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/20/carlo-ancelotti-es-el-nuevo-futbol-el-var-no-llama-al-arbitro-por-el-penalti-de-bellingham/",
+        "date": "2025-04-20 22:15:19",
+        "sentiment_score": -0.4097469337284565
+    },
+    {
+        "title": "El autobús del Athletic pincha en el añadido",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/84f96df3-6a6b-4379-9f3d-ef9a9e05e1d1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/04/21/autobus-athletic-pincha-anadido-9540503.html",
+        "date": "2025-04-20 22:12:50",
+        "sentiment_score": -0.12654584646224976
+    },
+    {
+        "title": "El gigante andaluz del libro apuesta por un megaproyecto en Granada",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/04/21/gigante-andaluz-libro-granada-kYJG-U2301475357764uYG-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/gigante-andaluz-libro-apuesta-megaproyecto-granada-20250421001240-nt.html",
+        "date": "2025-04-20 22:12:40",
+        "sentiment_score": 0.4400172382593155
+    },
+    {
+        "title": "Viaje a la imprenta española que alumbró Don Quijote en el año 1605",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "miguel de cervantes",
+            "imprenta",
+            "don quijote",
+            "literatura",
+            "entretenimiento"
+        ],
+        "link": "https://www.elnacional.com/entretenimiento/viaje-a-la-imprenta-espanola-que-alumbro-don-quijote/",
+        "date": "2025-04-20 22:07:18",
+        "sentiment_score": -0.016477197408676147
+    },
+    {
+        "title": "Fue bonito mientras duró",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/04/21/unai-madrid-kHL-U2301520585224ICF-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/jon-rivas-bonito-duro-20250421000547-nt.html",
+        "date": "2025-04-20 22:05:48",
+        "sentiment_score": 0.7995489723980427
+    },
+    {
+        "title": "Caras conocidas, concursos, fútbol y mucho entretenimiento en la tele que viene",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/04/21/presentadores-k2LC-U2301518553752On-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/culturas/tv/caras-conocidas-concursos-futbol-entretenimiento-tele-viene-20250421000223-ntrc.html",
+        "date": "2025-04-20 22:03:48",
+        "sentiment_score": 0.4713477622717619
+    },
+    {
+        "title": "El barman de Castellana 113 que resiste con la coctelería a la vieja usanza: \"¿'Boom' del gintonic? Yo servía más antes que ahora, 300 kg. de limón al mes sólo en la piel\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/0d7482b5c14061209693a31325d6e277/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/20/17451371729106.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/04/21/6804b001e9cf4ae14a8b456e.html",
+        "date": "2025-04-20 22:03:08",
+        "sentiment_score": -0.7620011083781719
+    },
+    {
+        "title": "Luis Alberto de Cuenca: \"Los días de ensayos teatrales con Fernando Savater fueron los más felices de mi vida\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/c3a4abbaf8d657222cb38d145ba67048/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/20/17451548385583.jpg",
+        "tags": [
+            "artículos daniel izeddin"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/04/21/6804e362fdddff492f8b45a6.html",
+        "date": "2025-04-20 22:03:07",
+        "sentiment_score": 0.6879352778196335
+    },
+    {
+        "title": "La tienda de Peligros que arrasa con sus directos",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/04/21/tienda-kDNB-U2301478004049D9G-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/tienda-peligros-arrasa-directos-20250421001249-nt.html",
+        "date": "2025-04-20 22:12:49",
+        "sentiment_score": 0.7409958001226187
+    },
+    {
+        "title": "La consulta de psicología que prioriza la palabra",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/04/21/sagas-empresariales-kdUF-U2301475404432n2H-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/consulta-psicologia-prioriza-palabra-20250421001244-nt.html",
+        "date": "2025-04-20 22:12:44",
+        "sentiment_score": 0.49314165115356445
+    },
+    {
+        "title": "Portero venezolano Contreras llega a Ecuador para reemplazar a Javier Burrai en Barcelona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/22/portero-venezolano-contreras-llega-a-ecuador-para-reemplazar-a-javier-burrai-en-barcelona/",
+        "date": "2025-04-20 22:03:53",
+        "sentiment_score": 0.34415578097105026
+    },
+    {
+        "title": "Recordando a Vargas Llosa",
+        "image_url": "https://phantom-expansion.uecdn.es/14e9d5106ecda7c2dcce7f3d210be3ae/crop/934x61/1790x631/f/webp/assets/multimedia/imagenes/2025/04/20/17451817819132.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.expansion.com/opinion/2025/04/21/68055b5de5fdeaf5188b4580.html",
+        "date": "2025-04-20 22:03:12",
+        "sentiment_score": -0.00589066743850708
+    },
+    {
+        "title": "Hegseth compartió detalles del ataque en Yemen en otro chat de Signal con su esposa, hermano y abogado",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/03/28/67e6911543b61.r_d.2289-1526-980.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20250421/10600692/hegseth-compartio-detalles-ataque-yemen-chat-signal-esposa-hermano-abogado.html",
+        "date": "2025-04-20 22:02:53",
+        "sentiment_score": -0.17053994163870811
+    },
+    {
+        "title": "Muere Hugo 'El Loco' Gatti, emblemático portero y comentarista televisivo argentino",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8d56960d-4c14-4385-8258-d070f3b90198_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "futbol,argentina,futbolistas"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/04/21/muere-hugo-loco-gatti-emblematico-116560059.html",
+        "date": "2025-04-20 22:02:45",
+        "sentiment_score": 0.6030366271734238
+    },
+    {
+        "title": "Reportan restablecimiento total de los servicios en Trujillo: más de 600 familias afectadas y 5 fallas de borde",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745179558263.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/reportan-restablecimiento-total-de-los-servicios-de-electricidad-y-agua-en-trujillo-202542015220",
+        "date": "2025-04-20 21:30:00",
+        "sentiment_score": 0.00789034366607666
+    },
+    {
+        "title": "Autobuses con venezolanos que iban a ser deportados a El Salvador fueron devueltos abruptamente: sepa por qué",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745184683630.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/autobuses-con-venezolanos-que-iban-a-ser-deportados-a-el-salvador-fueron-devueltos-abruptamente-sepa-por-que-202542017260",
+        "date": "2025-04-20 21:26:00",
+        "sentiment_score": -0.838415645994246
+    },
+    {
+        "title": "A 23 años de Mi Gorda Bella, así está hoy Natalia Streignard",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745185282055.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/a-23-anos-de-mi-gorda-bella-asi-esta-hoy-natalia-streignard-202542017250",
+        "date": "2025-04-20 21:25:00",
+        "sentiment_score": 0.8227101592347026
+    },
+    {
+        "title": "Anuncian cierre parcial de la autopista Caracas- La Guaira: la restricción arranca este lunes 21 de abril",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745182961068.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/anuncian-cierre-parcial-de-la-autopista-caracas--la-guaira-la-restriccion-arranca-este-lunes-21-de-abril-20254201720",
+        "date": "2025-04-20 21:02:00",
+        "sentiment_score": -0.556552991271019
+    },
+    {
+        "title": "Nuevas fechas de la gira de Shakira por Estados Unidos: conozca cuándo puede comprar los boletos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745178516531.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/nuevas-fechas-de-la-gira-de-shakira-por-estados-unidos-conozca-cuando-puede-comprar-los-boletos-20254201700",
+        "date": "2025-04-20 21:00:00",
+        "sentiment_score": 0.12612714804708958
+    },
+    {
+        "title": "Recomiendan eliminar la IA de WhatsApp: estos son los cinco motivos explicados por expertos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744776249805.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/recomiendan-eliminar-la-ia-de-whatsapp-estos-son-los-cinco-motivos-explicados-por-expertos-20254201700",
+        "date": "2025-04-20 21:00:00",
+        "sentiment_score": 0.15830336138606071
+    },
+    {
+        "title": "DHL suspende este tipo de envíos hacia Estados Unidos: conozca por cuánto tiempo",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745179768658.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/dhl-suspende-este-tipo-de-envios-hacia-estados-unidos-conozca-por-cuanto-tiempo-20254201620",
+        "date": "2025-04-20 20:02:00",
+        "sentiment_score": 0.08126361668109894
+    },
+    {
+        "title": "Demi Moore habla sobre el premio a la mejor actriz: “Lo supe antes de que lo anunciaran”",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745179167534.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/demi-moore-rompe-el-silencio-tras-perder-el-oscar-lo-supe-antes-de-que-lo-anunciaran--20254201600",
+        "date": "2025-04-20 20:00:00",
+        "sentiment_score": 0.5911133475601673
+    },
+    {
+        "title": "Cáncer en la tercera edad: la comunicación abierta y la integración familiar son primordiales",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744842584445.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/cancer-en-la-tercera-edad-la-comunicacion-abierta-y-la-integracion-familiar-son-primordiales-20254201600",
+        "date": "2025-04-20 20:00:00",
+        "sentiment_score": -0.878713265992701
+    },
+    {
+        "title": "Demi Moore sobre el Oscar a Mejor Actriz: “Lo supe antes de que lo anunciaran”",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745179167534.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/demi-moore-sobre-el-oscar-a-mejor-actriz-lo-supe-antes-de-que-lo-anunciaran--20254201600",
+        "date": "2025-04-20 20:00:00",
+        "sentiment_score": 0.5911133475601673
     }
 ];
