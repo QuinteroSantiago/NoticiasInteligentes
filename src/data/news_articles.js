@@ -119,39 +119,6 @@ export default [
         "sentiment_score": -0.6843558195978403
     },
     {
-        "title": "Muere Óscar Muñoz, periodista referente de la información local en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/75SATKW52NGXJIKCPOPNJK6WPE.jpg?auth=08e1c8bf78ce450544b95f49feecb6b615366e1640d5fcda381fc48c3f64ffa7&width=1200",
-        "tags": [
-            "barcelona",
-            "la vanguardia",
-            "cataluña",
-            "obituarios",
-            "periodismo"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-18/muere-oscar-munoz-periodista-referente-de-la-informacion-local-en-barcelona.html",
-        "date": "2025-04-18 12:16:31",
-        "sentiment_score": -0.5625330731272697
-    },
-    {
-        "title": "5 planes gratis en Madrid del 18 al 25 de abril: un evento para leer en compañía y un recital de Lope de Vega",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KEFGNUOA4ZHPTENVA5KWZ2NYZU.jpg?auth=f2bb1b4ae0501875baa2b9f8820c83f05c14f83e00f5c2707ffc65beb9c992dc&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "exposiciones",
-            "música",
-            "ocio",
-            "poesía",
-            "tiempo libre",
-            "conciertos",
-            "lectura",
-            "madrid",
-            "semana santa"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-04-18/5-planes-gratis-en-madrid-del-18-al-25-de-abril-un-evento-para-leer-en-compania-y-un-recital-de-lope-de-vega.html",
-        "date": "2025-04-18 11:59:22",
-        "sentiment_score": 0.13885075598955154
-    },
-    {
         "title": "¿Quiénes son los 18 miembros de la junta directiva de Florentino Pérez en el Real Madrid?",
         "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/18/culemania/palco/1003742650301_14446050_1706x960.jpg?contentId=1003742650301",
         "tags": [
@@ -6748,5 +6715,348 @@ export default [
         "link": "https://2001online.com/nacionales/jorge-rodriguez-responde-a-la-propuesta-de-bukele-permita-que-un-abogado-obtenga-informacion-de-los-secuestrados-20254211700",
         "date": "2025-04-21 21:00:00",
         "sentiment_score": -0.9353578155860305
+    },
+    {
+        "title": "Hereu aboga por reforzar los lazos con Latinoamerica: Siempre estará abierto el Atlántico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/hereu-aboga-por-reforzar-los-lazos-con-latinoamerica-siempre-estara-abierto-el-atlantico/",
+        "date": "2025-04-22 02:02:58",
+        "sentiment_score": 0.5380040667951107
+    },
+    {
+        "title": "La Xunta califica de \"excelente noticia\" que Stellantis adjudique a Vigo nueva plataforma",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/la-xunta-califica-de-excelente-noticia-que-stellantis-adjudique-a-vigo-nueva-plataforma/",
+        "date": "2025-04-22 02:02:44",
+        "sentiment_score": 0.5332433953881264
+    },
+    {
+        "title": "Clima en Málaga: la previsión meteorológica para este 22 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/2NY2S7O66ZEGNDUN53ADUWJUDE.jpg?auth=b81353337aae0b570d96b71b2b4f78c3e92b980bf4b6e44e7ee19a57b58653e9&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/22/clima-en-malaga-la-prevision-meteorologica-para-este-22-de-abril/",
+        "date": "2025-04-22 02:01:44",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Temas del día de EFE Economía del miércoles, 22 de enero de 2025 (19:30 horas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/temas-del-dia-de-efe-economia-del-miercoles-22-de-enero-de-2025-1930-horas/",
+        "date": "2025-04-22 01:49:41",
+        "sentiment_score": -0.6680403538048267
+    },
+    {
+        "title": "Álex Pastor: \"Tenemos 31 puntos, estamos en la mitad de la tabla y tranquilos\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/alex-pastor-tenemos-31-puntos-estamos-en-la-mitad-de-la-tabla-y-tranquilos/",
+        "date": "2025-04-22 01:49:27",
+        "sentiment_score": 0.8234969824552536
+    },
+    {
+        "title": "Mario Martín: \"El Madrid ha sido y es mi casa, pero pienso como jugador del Valladolid\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/mario-martin-el-madrid-ha-sido-y-es-mi-casa-pero-pienso-como-jugador-del-valladolid/",
+        "date": "2025-04-22 01:49:14",
+        "sentiment_score": 0.4615313336253166
+    },
+    {
+        "title": "Valverde: \"El Besiktas ha sido mejor que nosotros\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/valverde-el-besiktas-ha-sido-mejor-que-nosotros/",
+        "date": "2025-04-22 01:49:00",
+        "sentiment_score": 0.20631814002990723
+    },
+    {
+        "title": "CCOO carga contra el \"irresponsable tacticismo\" que ha impedido revalorizar las pensiones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/ccoo-carga-contra-el-irresponsable-tacticismo-que-ha-impedido-revalorizar-las-pensiones/",
+        "date": "2025-04-22 01:48:46",
+        "sentiment_score": -0.7717542126774788
+    },
+    {
+        "title": "El conseller de Interior en el atentado del 17A acusa de \"negligencia\" al Gobierno, pero rechaza hablar de \"connivencia\"",
+        "image_url": "https://www.infobae.com/resizer/v2/GIITM433U5EOHB4TNL6U4MMUSA.jpg?auth=73184ebbfa630796602952465f147268bcdf8299c75812cbfa1899e16ab47ac4&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/22/el-conseller-de-interior-en-el-atentado-del-17a-acusa-de-negligencia-al-gobierno-pero-rechaza-hablar-de-connivencia/",
+        "date": "2025-04-22 01:47:35",
+        "sentiment_score": -0.9151406642049551
+    },
+    {
+        "title": "Pronóstico del clima en Madrid este martes 22 de abril: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/JKE56W4X4JHIVNGIEUS25TWLRM.jpg?auth=e804a697500e879cec27e9c945c2d81ea5cc06c3ab601b183e6caeb3e40d7bc1&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/22/pronostico-del-clima-en-madrid-este-martes-22-de-abril-temperatura-lluvias-y-viento/",
+        "date": "2025-04-22 01:30:58",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Maduro dice que Bukele viola derechos humanos y exige liberación incondicional de deportados",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/22/maduro-kHJC-U70851264733NvG-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/maduro-dice-bukele-viola-derechos-humanos-exige-20250422040041-nt.html",
+        "date": "2025-04-22 02:00:42",
+        "sentiment_score": -0.16089817881584167
+    },
+    {
+        "title": "En busca y captura una periodista rusa acusada de difundir información falsa sobre la invasión de Ucrania",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/22/periodista.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/busca-captura-periodista-rusa-acusada-difundir-informacion-20250422033356-nt.html",
+        "date": "2025-04-22 01:39:41",
+        "sentiment_score": -0.24844114482402802
+    },
+    {
+        "title": "Gabriel Rabinovich, investigador: «No quisiera morir sin que un paciente pruebe mi suero contra el cáncer»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/04/22/rabinovich-RDxAJaA6QFtwwIPOMaSlhkI-1200x840@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/gabriel-rabinovich-investigador-quisiera-morir-paciente-pruebe-20250422033758-nt.html",
+        "date": "2025-04-22 01:37:59",
+        "sentiment_score": -0.06770816445350647
+    },
+    {
+        "title": "Previa del Real Madrid - Baskonia",
+        "image_url": "https://www.infobae.com/resizer/v2/DSUJ73W7EJHYRN4PWSOWBR4Q6A.jpg?auth=d7bb15c40f2b09cdcb93b2f1032a126e6364665eb5d0d0c3be7a7c1d97c1baf9&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/22/previa-del-real-madrid-baskonia/",
+        "date": "2025-04-22 02:03:44",
+        "sentiment_score": 0.5314705222845078
+    },
+    {
+        "title": "El Mallorca, en busca de un milagro en Montjuïc",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3274953.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/04/22/2371231/barcelona-real-mallorca-previa-datos-del-partido-liga.html",
+        "date": "2025-04-22 02:00:01",
+        "sentiment_score": -0.04835936427116394
+    },
+    {
+        "title": "FC Barcelona-Real Mallorca",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/04/22/2371253/directo-barcelona-real-mallorca-minuto-minuto-del-partido-laliga-easports.html",
+        "date": "2025-04-22 02:00:01",
+        "sentiment_score": 0.03607630729675293
+    },
+    {
+        "title": "Ricardo Gómez: «España es un país conformado por horrorsos 'influencers' históricos»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3269621.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/04/22/2368943/ricardo-gomez.html",
+        "date": "2025-04-22 02:00:01",
+        "sentiment_score": -0.05465668439865112
+    },
+    {
+        "title": "Vinícius declarará telemáticamente ante una jueza de Barcelona por insultos racistas en un Clásico",
+        "image_url": "https://www.infobae.com/resizer/v2/52D34L3CVVH5TKRTD724AFNCYQ.jpg?auth=2effb4d51ad6987804504f1ea8436db5c1b46f435416c94b46cfef65d3ee8a08&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/22/vinicius-declarara-telematicamente-ante-una-jueza-de-barcelona-por-insultos-racistas-en-un-clasico/",
+        "date": "2025-04-22 01:32:52",
+        "sentiment_score": -0.686807295307517
+    },
+    {
+        "title": "Día del Libro: casetas en León y el relevo del Cervantes",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/04/21/68067e23f3aae.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250422/1995958/dia-libro-casetas-leon-relevo-cervantes.html",
+        "date": "2025-04-22 01:30:00",
+        "sentiment_score": 0.014109581708908081
+    },
+    {
+        "title": "Lamine Yamal, Rafael Nadal y Real Madrid, entre los galardonados en los premios Laureus",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/04/dfd25c8376a1643829866cbf085eafff5c7a7d94-e1745284362225.jpg",
+        "tags": [
+            "lamine yamal",
+            "deportes",
+            "rafael nadal",
+            "real madrid"
+        ],
+        "link": "https://eldiariony.com/2025/04/21/lamine-yamal-rafael-nadal-y-real-madrid-entre-los-galardonados-en-los-premios-laureus/",
+        "date": "2025-04-22 01:13:53",
+        "sentiment_score": 0.5353464558720589
+    },
+    {
+        "title": "La huella del papa Francisco vista desde Menorca: «Se esforzó por transformar la Iglesia»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3275011.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/04/22/2371287/huella-del-papa-francisco-vista-desde-menorca-esforzo-por-transformar-iglesia.html",
+        "date": "2025-04-22 02:00:01",
+        "sentiment_score": -0.09956471621990204
+    },
+    {
+        "title": "La burocracia asfixia a la España rural",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/04/21/68067f29651ef.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/250422/1995965/burocracia-asfixia-espana-rural.html",
+        "date": "2025-04-22 01:30:00",
+        "sentiment_score": -0.5459354445338249
+    },
+    {
+        "title": "El Albéitar despide abril con flamenco",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/04/21/6806908032338.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250422/1996024/albeitar-despide-abril-flamenco.html",
+        "date": "2025-04-22 01:30:00",
+        "sentiment_score": 0.2718509789556265
+    },
+    {
+        "title": "Banco Sabadell oficializa la vuelta de su sede social a Cataluña",
+        "image_url": "https://www.infobae.com/resizer/v2/Z3PLQ3QRFJHQHNXDCVKSQOTPNU.jpg?auth=36eb1e5ba28be5658708c30a33ede71bd8c318446eb8d1fdf4d9338d09ffa687&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/22/banco-sabadell-oficializa-la-vuelta-de-su-sede-social-a-cataluna/",
+        "date": "2025-04-22 01:19:47",
+        "sentiment_score": -0.07647043466567993
+    },
+    {
+        "title": "El huevo es vital en la dieta del Tauro: 5 platos fáciles y muy económicos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744827849194.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/el-huevo-es-vital-en-la-dieta-del-tauro-5-platos-faciles-y-muy-economicos-202542122150",
+        "date": "2025-04-22 02:15:00",
+        "sentiment_score": 0.33260079473257065
+    },
+    {
+        "title": "MLB: Mauricio Dubón asegura que ha recibido amenazas tras su choque con Luis Arráez",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745288362582.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/mlb-mauricio-dubon-asegura-que-ha-recibido-amenazas-tras-su-choque-con-luis-arraez-20254212260",
+        "date": "2025-04-22 02:06:00",
+        "sentiment_score": -0.5122814271599054
+    },
+    {
+        "title": "Los Oscar imponen nuevas reglas: los votantes deberán ver todas las películas nominadas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745288374048.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/los-oscar-imponen-nuevas-reglas-los-votantes-deberan-ver-todas-las-peliculas-nominadas-20254212250",
+        "date": "2025-04-22 02:05:00",
+        "sentiment_score": 0.06371155381202698
+    },
+    {
+        "title": "Cónclave 2025: el rol fundamental de Chicago en la elección del nuevo papa",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745286977524.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/conclave-2025-el-rol-fundamental-de-chicago-en-la-eleccion-del-nuevo-papa-202542121400",
+        "date": "2025-04-22 01:40:00",
+        "sentiment_score": -0.15196428075432777
+    },
+    {
+        "title": "Atrae abundancia y prosperidad: así se usa la hoja de laurel en el Feng Shui",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745282116615.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/atrae-abundancia-y-prosperidad-asi-se-usa-la-hoja-de-laurel-en-el-feng-shui-202542121150",
+        "date": "2025-04-22 01:15:00",
+        "sentiment_score": 0.5079872608184814
+    },
+    {
+        "title": "La consumes todos los días: bebida recomendada para remover el maquillaje",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1744829468317.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/la-consumes-todos-los-dias-bebida-recomendada-para-remover-el-maquillaje-202542121150",
+        "date": "2025-04-22 01:15:00",
+        "sentiment_score": 0.7747938856482506
+    },
+    {
+        "title": "Cuatro requisitos para viajar con mascotas desde el Terminal La Bandera: incluye un documento emitido por un veterinario",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745258550151.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/cuatro-requisitos-para-viajar-con-mascotas-desde-el-terminal-la-bandera-incluye-un-documento-emitido-por-un-veterinario-20254212100",
+        "date": "2025-04-22 01:00:00",
+        "sentiment_score": 0.11472684144973755
+    },
+    {
+        "title": "Redadas ICE del 21 de abril: inmigrante arrestado en Boston enfrenta su tercera deportación",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745284110922.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-21-de-abril-inmigrante-arrestado-en-boston-enfrenta-su-tercera-deportacion-20254212100",
+        "date": "2025-04-22 01:00:00",
+        "sentiment_score": -0.42447565868496895
+    },
+    {
+        "title": "Kristen Stewart se casa en secreto con Dylan Meyer, la guionista que la volvió a enamorar",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745267349830.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/kristen-stewart-se-casa-en-secreto-con-dylan-meyer-la-guionista-que-la-volvio-a-enamorar-20254212100",
+        "date": "2025-04-22 01:00:00",
+        "sentiment_score": 0.16808932647109032
+    },
+    {
+        "title": "Detienen a una adolescente por abusar de sus hermanas en Guarenas: difundía el material pornográfico",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745278858341.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-una-adolescente-por-abusar-de-sus-hermanas-en-guarenas-difundia-el-material-pornografico-202542120570",
+        "date": "2025-04-22 00:57:00",
+        "sentiment_score": -0.07419981807470322
     }
 ];
