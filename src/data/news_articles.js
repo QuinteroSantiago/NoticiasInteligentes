@@ -120,16 +120,6 @@ export default [
         "sentiment_score": -0.00541338324546814
     },
     {
-        "title": "Rusia reivindica la reconquista de la penúltima localidad bajo control ucraniano en Kursk",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/19/sumy-kqDH-U70840295669Ko-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-reivindica-reconquista-penultima-localidad-bajo-control-20250419135046-nt.html",
-        "date": "2025-04-19 11:50:47",
-        "sentiment_score": -0.13143643736839294
-    },
-    {
         "title": "Desalojan el Museo Guggenheim Bilbao durante dos horas y media por una falsa alarma",
         "image_url": "https://imagenes.elpais.com/resizer/v2/KX43TTMRRBB33IUMM6TU3CBM2E.jpg?auth=e473dd44d13f264468398edf34879d8db02817e6d4fb62f0299bc21fb2e26f5c&width=1200",
         "tags": [
@@ -144,37 +134,6 @@ export default [
         "link": "https://elpais.com/espana/2025-04-19/desalojan-el-museo-guggenheim-bilbao-durante-dos-horas-y-media-por-una-falsa-alarma.html",
         "date": "2025-04-19 14:23:55",
         "sentiment_score": -0.8546596365049481
-    },
-    {
-        "title": "La Diputación de Barcelona ficha al extrabajador de ERC señalado por los carteles de Maragall",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VGFVDZYTRFFKPJO3U7RBWYFLTI.jpg?auth=2c5537fb5134fcfc2dc1530e912060ef34c785683d45e537a9fbf68e7fddd0ed&width=1200",
-        "tags": [
-            "diputación provincial barcelona",
-            "partidos políticos",
-            "cataluña",
-            "ernest maragall",
-            "oriol junqueras",
-            "erc"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-19/la-diputacion-de-barcelona-ficha-al-extrabajador-de-erc-senalado-por-los-carteles-de-maragall.html",
-        "date": "2025-04-19 13:13:27",
-        "sentiment_score": 0.025537431240081787
-    },
-    {
-        "title": "Los trabajadores de Port Aventura denuncian que el parque está abierto sin “garantías” para el público",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C2OGL6FUQZCGXP77EBWXUFCYLU.jpg?auth=9e7a83fc8f52cff13a32e25dc6301976a2bb5f524c0f0d6c0683250a78a69b8e&width=1200",
-        "tags": [
-            "semana santa",
-            "seguridad laboral",
-            "port aventura",
-            "salou",
-            "turismo",
-            "cataluña",
-            "tarragona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-19/los-trabajadores-de-port-aventura-denuncian-que-el-parque-esta-abierto-sin-garantias-para-el-publico.html",
-        "date": "2025-04-19 11:51:14",
-        "sentiment_score": -0.6374685131013393
     },
     {
         "title": "El asesinato de un niño de 13 años consterna a la comunidad inmigrante de Los Ángeles: 'No podemos confiar en nadie'",
@@ -7170,5 +7129,417 @@ export default [
         "link": "https://2001online.com/farandula/el-dia-que-marlene-favela-vio-de-cerca-la-muerte-casi-me-cuesta-la-vida--202542216110",
         "date": "2025-04-22 20:11:00",
         "sentiment_score": -0.6878078300505877
+    },
+    {
+        "title": "Mazón acusa a Sánchez de \"deslealtad institucional\" por ir a Valencia sin avisar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/mazon-acusa-a-sanchez-de-deslealtad-institucional-por-ir-a-valencia-sin-avisar/",
+        "date": "2025-04-23 02:04:34",
+        "sentiment_score": -0.8812089702114463
+    },
+    {
+        "title": "La presidenta del CGPJ defiende el actual sistema de acceso a la carrera judicial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/la-presidenta-del-cgpj-defiende-el-actual-sistema-de-acceso-a-la-carrera-judicial/",
+        "date": "2025-04-23 02:04:20",
+        "sentiment_score": 0.6047920659184456
+    },
+    {
+        "title": "Albares aborda con Vivas e Imbroda el \"paso de mercancías\" hacia Marruecos con las aduanas aún inoperativas",
+        "image_url": "https://www.infobae.com/resizer/v2/PRMSGE645BBQJJVJD3K7II7DFU.jpg?auth=80ee324f3af805455655378c6f33e931b80c4926d6b67141d86fd4e2bde79947&height=1591&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/albares-aborda-con-vivas-e-imbroda-el-paso-de-mercancias-hacia-marruecos-con-las-aduanas-aun-inoperativas/",
+        "date": "2025-04-23 02:03:24",
+        "sentiment_score": 0.15158502757549286
+    },
+    {
+        "title": "Gamarra culpa al Gobierno de que no se revaloricen las pensiones y le acusa de usar \"como rehenes\" a los jubilados",
+        "image_url": "https://www.infobae.com/resizer/v2/U7D55IB3CBGZ5GSPAWGFDBH5AQ.jpg?auth=0845e5af826ded82f2471b5939ee27b6c57fea0ad5bc342993dfeb751011b33f&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/gamarra-culpa-al-gobierno-de-que-no-se-revaloricen-las-pensiones-y-le-acusa-de-usar-como-rehenes-a-los-jubilados/",
+        "date": "2025-04-23 02:02:53",
+        "sentiment_score": -0.8837026972323656
+    },
+    {
+        "title": "El refugiado afgano acusado de violar a una compatriota en Ciudad Real asegura que las relaciones fueron consentidas",
+        "image_url": "https://www.infobae.com/resizer/v2/KXLLAWKDPBEVDFQH4S5JPWBU3Q.jpg?auth=a29333c53def715f39ad3db5af2afe6b9780e52e63ff54c5388c30ac2b18d40d&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/el-refugiado-afgano-acusado-de-violar-a-una-compatriota-en-ciudad-real-asegura-que-las-relaciones-fueron-consentidas/",
+        "date": "2025-04-23 02:02:23",
+        "sentiment_score": -0.7111756894737482
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Málaga este 23 de abril",
+        "image_url": "https://www.infobae.com/resizer/v2/JLJQYJWCWJBGRF65PRAUFWIGKM.jpg?auth=eb03cf75c426ef9858ae5f590a7d8c6cc928e52e37270e0f026d18c30d58b486&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/23/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-malaga-este-23-de-abril/",
+        "date": "2025-04-23 02:01:40",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Un juzgado archiva la demanda por la muerte de 15 ancianos por covid en una residencia de Alcoi (Alicante)",
+        "image_url": "https://www.infobae.com/resizer/v2/TFZG7YUU4RBMRDVWUZTKKBEZ5A.jpg?auth=2d2e1c03d5574fd536dc4be693f2b489d367d4ecf391a2115e573ecedfd7d6a6&height=1281&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/un-juzgado-archiva-la-demanda-por-la-muerte-de-15-ancianos-por-covid-en-una-residencia-de-alcoi-alicante/",
+        "date": "2025-04-23 01:49:14",
+        "sentiment_score": -0.8516794946044683
+    },
+    {
+        "title": "Guardiola acusa a Sánchez de usar a los pensionistas como \"escudo humano\" para sus \"intereses partidistas\"",
+        "image_url": "https://www.infobae.com/resizer/v2/5A3FVZS7ZZGPNPXBANCCF6AF2U.jpg?auth=438fe7fa75389dbdc0a1fb7833a5b789e7c57e18a1ac733afa9b9c355d7f8515&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/guardiola-acusa-a-sanchez-de-usar-a-los-pensionistas-como-escudo-humano-para-sus-intereses-partidistas/",
+        "date": "2025-04-23 01:48:42",
+        "sentiment_score": -0.04615938663482666
+    },
+    {
+        "title": "Sánchez anuncia otros 2.220 millones para la reconstrucción de infraestructuras en Valencia tras la dana",
+        "image_url": "https://www.infobae.com/resizer/v2/Y62I3NUYLRARDF5NYJQR7ARF3Q.jpg?auth=dd6e2012a092bc989ed9e4f25f328f587d3ddd4a56c6b6ecb5139fba8b5d237c&height=1262&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/sanchez-anuncia-otros-2220-millones-para-la-reconstruccion-de-infraestructuras-en-valencia-tras-la-dana/",
+        "date": "2025-04-23 01:48:12",
+        "sentiment_score": -0.6238766051828861
+    },
+    {
+        "title": "Camil Ros, reelegido secretario general de UGT de Cataluña con el 78,53 % de los votos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/camil-ros-reelegido-secretario-general-de-ugt-de-cataluna-con-el-7853-de-los-votos/",
+        "date": "2025-04-23 01:33:15",
+        "sentiment_score": 0.3943954408168793
+    },
+    {
+        "title": "Nasry Asfura: «El 30 de noviembre Honduras defenderá su democracia y su libertad»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/22/asfura-R9nKXk31uZKRMYCId8dacLL-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/nasry-asfura-noviembre-honduras-defendera-democracia-libertad-20250422205155-nt.html",
+        "date": "2025-04-23 02:01:39",
+        "sentiment_score": 0.014438360929489136
+    },
+    {
+        "title": "Dinero para casi todo, menos para los enfermos de ELA",
+        "image_url": "https://s2.ppllstatics.com/laverdad/www/multimedia/2025/04/20/200821080--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-dinero-enfermos-ela-20250423200308-nt.html",
+        "date": "2025-04-23 02:01:05",
+        "sentiment_score": -0.5492268651723862
+    },
+    {
+        "title": "Guerra en Ucrania: tan lejos de la paz como de la escalada",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/23/zaporiyia-RcZGl2e86z5P8pcWL5OMkMJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/guerra-ucrania-lejos-paz-escalada-20250423165812-nt.html",
+        "date": "2025-04-23 01:57:37",
+        "sentiment_score": -0.13138380646705627
+    },
+    {
+        "title": "Alarma en el BCE por el apoyo de EE.UU. a las criptomonedas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/04/23/trump-eeuu-RVO9pXISjVmRBimuVDOU1fN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/alarma-bce-apoyo-eeuu-criptomonedas-20250423035300-nt.html",
+        "date": "2025-04-23 01:53:01",
+        "sentiment_score": -0.11148619651794434
+    },
+    {
+        "title": "Musk se retira del Gobierno tras el hundimiento de Tesla",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/23/elon-kSaE-U70856924561qZD-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/musk-retira-gobierno-tras-hundimiento-tesla-20250423020046-nt.html",
+        "date": "2025-04-23 00:00:47",
+        "sentiment_score": -0.08967870473861694
+    },
+    {
+        "title": "Un juez ordena al Gobierno de EEUU volver a contratar al personal de Voice of America y otros medios estatales",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250423041353_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-juez-ordena-gobierno-eeuu-volver-contratar-personal-voice-of-america-otros-medios-estatales-20250423041353.html",
+        "date": "2025-04-23 02:13:53",
+        "sentiment_score": -0.18060386925935745
+    },
+    {
+        "title": "Hansi Flick alabó el gran trabajo de Ancelotti tras la victoria del FC Barcelona",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/04/caa3a133318231eafaed1e82b07145cf547d3aec-e1745373984119.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "fc barcelona"
+        ],
+        "link": "https://eldiariony.com/2025/04/22/hansi-flick-alabo-el-gran-trabajo-de-ancelotti-tras-la-victoria-del-fc-barcelona/",
+        "date": "2025-04-23 02:07:54",
+        "sentiment_score": 0.36445438861846924
+    },
+    {
+        "title": "Una de las mayores fortunas del mundo aterriza en Gijón: el dueño de Louis Vuitton se hace con gran parte de un centro comercial",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32460cda-2afb-4020-a6d5-f8825f245231_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/2025/04/23/mayores-fortunas-mundo-aterriza-gijon-116630267.html",
+        "date": "2025-04-23 02:02:22",
+        "sentiment_score": -0.02093791961669922
+    },
+    {
+        "title": "De Vargas Llosa a nuestro ‘menorquí’",
+        "image_url": "https://men.gsstatic.es/autor/juan-jose-gomila-felix/21.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/04/23/2371923/vargas-llosa-nuestro-menorqui.html",
+        "date": "2025-04-23 02:00:01",
+        "sentiment_score": 0.1725282371044159
+    },
+    {
+        "title": "Hansi Flick reveló su pensamiento sobre Ansu Fati tras su titularidad ante Mallorca",
+        "image_url": "https://pxcdn.meridiano.net/042025/1745373323610.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/hansi-flick-revelo-su-pensamiento-sobre-ansu-fati-tras-su-titularidad-ante-mallorca-20254222160",
+        "date": "2025-04-23 01:55:00",
+        "sentiment_score": -0.8637594822794199
+    },
+    {
+        "title": "(AMP.) Feijóo acusa a Sánchez de \"engañar\" a los pensionistas y usarlos como \"rehenes\" con su \"decreto trampa\"",
+        "image_url": "https://www.infobae.com/resizer/v2/ZNFJ2ETKSJD2DJCL4FKEGETUM4.jpg?auth=2aff0677c9669fe3dc954f547eb4e41b3909d316b5e7863750828aab62ce4c3a&height=1648&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/23/amp-feijoo-acusa-a-sanchez-de-enganar-a-los-pensionistas-y-usarlos-como-rehenes-con-su-decreto-trampa/",
+        "date": "2025-04-23 01:47:43",
+        "sentiment_score": -0.8716606087982655
+    },
+    {
+        "title": "Los hutíes reivindican el derribo de un dron estadounidense y ataques contra portaaviones y buques",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250423034704_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-huties-reivindican-derribo-dron-estadounidense-ataques-contra-portaaviones-buques-20250423034704.html",
+        "date": "2025-04-23 01:47:04",
+        "sentiment_score": -0.6810284070670605
+    },
+    {
+        "title": "Copa del Rey: Cristóbal Soria recomienda ver el Real Madrid Vs Barcelona por Meridiano TV",
+        "image_url": "https://pxcdn.meridiano.net/042025/1745372925655.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/copa-del-rey-cristobal-soria-recomienda-ver-el-real-madrid-vs-barcelona-por-meridiano-tv-202542221430",
+        "date": "2025-04-23 01:43:00",
+        "sentiment_score": 0.2678459510207176
+    },
+    {
+        "title": "GMV generará una nueva versión del generador de datos del sistema Galileo por 12 millones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/gmv-generara-una-nueva-version-del-generador-de-datos-del-sistema-galileo-por-12-millones/",
+        "date": "2025-04-23 01:33:01",
+        "sentiment_score": 0.6579239228740335
+    },
+    {
+        "title": "Palladium ingresa 1.200 millones, el 12 % más, y pone el foco en Asia y Oriente Medio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/23/palladium-ingresa-1200-millones-el-12-mas-y-pone-el-foco-en-asia-y-oriente-medio/",
+        "date": "2025-04-23 01:32:15",
+        "sentiment_score": 0.4245319291949272
+    },
+    {
+        "title": "Se estrena el documental 'Los sueños de Pepe' sobre el expresidente uruguayo Mujica",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/23/se-estrena-el-documental-los-suenos-de-pepe-sobre-el-expresidente-uruguayo-mujica/",
+        "date": "2025-04-23 02:03:38",
+        "sentiment_score": 0.3229456692934036
+    },
+    {
+        "title": "Gayà: “Esperamos al mejor Barcelona, es un equipazo”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/23/gaya-esperamos-al-mejor-barcelona-es-un-equipazo/",
+        "date": "2025-04-23 02:02:37",
+        "sentiment_score": 0.5927961692214012
+    },
+    {
+        "title": "Barcelona reabre sus fuentes ornamentales tras más de dos años cerradas por la sequía",
+        "image_url": "https://album.mediaset.es/eimg/2025/04/22/cascada-del-parc-de-la-ciutadella_ae4e.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20250423/barcelona-reabre-fuentes-ornamentales-sequia_18_015364691.html",
+        "date": "2025-04-23 02:00:34",
+        "sentiment_score": -0.8469804469496012
+    },
+    {
+        "title": "Descubre el secreto tras las rosas y libros de Sant Jordi: entre la tradición y el mito",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3275429.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/actualidad/dudas-respuestas/2025/04/23/2371587/descubre-secreto-tras-rosas-libros-sant-jordi-entre-tradicion-mito.html",
+        "date": "2025-04-23 02:00:01",
+        "sentiment_score": 0.37305575609207153
+    },
+    {
+        "title": "Novedades editoriales con sello mallorquín para este Sant Jordi",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3276239.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/04/23/2372063/sant-jordi-2025-novedades-editoriales-sello-mallorquin-para-este-sant-jordi.html",
+        "date": "2025-04-23 02:00:01",
+        "sentiment_score": 0.148176372051239
+    },
+    {
+        "title": "Gasóleos (Porto Pi)",
+        "image_url": "https://men.gsstatic.es/autor/margarita-caules/30.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/04/23/2371925/gasoleos-porto.html",
+        "date": "2025-04-23 02:00:01",
+        "sentiment_score": 0.020702630281448364
+    },
+    {
+        "title": "¿Largo o corto? Expertos indican el mejor corte de cabello para los Libra",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745262020842.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/largo-o-corto-expertos-indican-el-mejor-corte-de-cabello-para-los-libra-202542222150",
+        "date": "2025-04-23 02:15:00",
+        "sentiment_score": 0.42383570596575737
+    },
+    {
+        "title": "Venezuela responde a la nota diplomática de El Salvador: la considera una confesión de acciones delictivas internacionales",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745372811496.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-responde-a-la-nota-diplomatica-de-el-salvador-la-considera-una-confesion-de-acciones-delictivas-internacionales-20254222220",
+        "date": "2025-04-23 02:02:00",
+        "sentiment_score": -0.8494661208242178
+    },
+    {
+        "title": "Wanda Nara revela la conexión entre el papa Francisco y el nombre de su hija Francesca",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745375133714.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/wanda-nara-revela-la-conexion-entre-el-papa-francisco-y-el-nombre-de-su-hija-francesca-202542221530",
+        "date": "2025-04-23 01:53:00",
+        "sentiment_score": 0.34733231365680695
+    },
+    {
+        "title": "Muere senderista durante carrera de montaña en plena nevada en Mérida: cinco competidores fueron rescatados",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745373572180.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/muere-senderista-durante-carrera-de-montana-en-plena-nevada-en-merida-cinco-competidores-fueron-rescatados-202542221440",
+        "date": "2025-04-23 01:44:00",
+        "sentiment_score": -0.8574199061840773
+    },
+    {
+        "title": "Redada ICE en Pomona: arrestan cerca de 20 jornaleros afuera de un Home Depot",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745373862352.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redada-ice-en-pomona-arrestan-cerca-de-20-jornaleros-afuera-de-un-home-depot-202542221410",
+        "date": "2025-04-23 01:41:00",
+        "sentiment_score": -0.2547869011759758
+    },
+    {
+        "title": "Grecia Colmenares: emocionada abuela viaja desde Italia a Miami para conocer a su nieto",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745372920940.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/grecia-colmenares-emocionada-abuela-viaja-desde-italia-a-miami-para-conocer-a-su-nieto-202542221250",
+        "date": "2025-04-23 01:25:00",
+        "sentiment_score": 0.08439245820045471
+    },
+    {
+        "title": "Para verte siempre joven: cuatro frutas eficaces contra las arrugas",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745261103044.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/para-verte-siempre-joven-cuatro-frutas-eficaces-contra-las-arrugas-202542221150",
+        "date": "2025-04-23 01:15:00",
+        "sentiment_score": 0.607082387432456
+    },
+    {
+        "title": "Cantv lanza cursos gratuitos desde su aula virtual: incluye ciberseguridad y criptografía",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745363568076.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/cantv-lanza-cursos-gratuitos-desde-su-aula-virtual-incluye-ciberseguridad-y-criptografia-20254222110",
+        "date": "2025-04-23 01:01:00",
+        "sentiment_score": 0.03564653918147087
+    },
+    {
+        "title": "Banco Digital de los Trabajadores: pasos para calcular el monto de la Unidad de Valor de Crédito",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745340991513.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/banco-digital-de-los-trabajadores-pasos-para-calcular-el-monto-de-la-unidad-de-valor-de-credito-20254222100",
+        "date": "2025-04-23 01:00:00",
+        "sentiment_score": 0.0627777948975563
+    },
+    {
+        "title": "Mujer acusa a estrella de la NFL de abuso sexual: pide una indemnización de 50 millones de dólares",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745369843092.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/mujer-acusa-a-estrella-de-la-nfl-de-abuso-sexual-pide-una-indemnizacion-de-50-millones-de-dolares-20254222100",
+        "date": "2025-04-23 01:00:00",
+        "sentiment_score": 0.13987093046307564
     }
 ];
