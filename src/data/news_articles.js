@@ -1,217 +1,5 @@
 export default [
     {
-        "title": "El PP recuerda a Sánchez que EEUU es un \"aliado imprescindible\" y dice a Trump que \"España es mucho más que su Gobierno\"",
-        "image_url": "https://www.infobae.com/resizer/v2/U2EGNGW7JNEWJP6MDTYMOBULNQ.jpg?auth=e39186748218ccdf0456bf78e30a2cb54cb698aa7e8ae00b34e41f3fd836f933&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/01/21/el-pp-recuerda-a-sanchez-que-eeuu-es-un-aliado-imprescindible-y-dice-a-trump-que-espana-es-mucho-mas-que-su-gobierno/",
-        "date": "2025-04-20 06:18:30",
-        "sentiment_score": -0.8924172278493643
-    },
-    {
-        "title": "El Tesoro celebra el martes una subasta de letras a tres y nueve meses, la última de abril",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/20/el-tesoro-celebra-el-martes-una-subasta-de-letras-a-tres-y-nueve-meses-la-ultima-de-abril/",
-        "date": "2025-04-20 06:15:55",
-        "sentiment_score": 0.1260902602225542
-    },
-    {
-        "title": "A juicio por quemar la puerta de la casa de sus vecinos para quejarse del ruido",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/20/a-juicio-por-quemar-la-puerta-de-la-casa-de-sus-vecinos-para-quejarse-del-ruido/",
-        "date": "2025-04-20 06:15:36",
-        "sentiment_score": -0.8636778052896261
-    },
-    {
-        "title": "Álvaro Pombo: \"Cervantes es todo un modelo de literatura libertaria y genial\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/20/alvaro-pombo-cervantes-es-todo-un-modelo-de-literatura-libertaria-y-genial/",
-        "date": "2025-04-20 06:15:20",
-        "sentiment_score": 0.855255126953125
-    },
-    {
-        "title": "Desarrollo de centros de datos generará en España hasta 70.000 millones de euros para 2030",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/21/desarrollo-de-centros-de-datos-generara-en-espana-hasta-70000-millones-de-euros-para-2030/",
-        "date": "2025-04-20 06:03:48",
-        "sentiment_score": 0.7893695514649153
-    },
-    {
-        "title": "El Barça celebra su mejoría para la Copa y Tenerife competirá “ante el rival más duro”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/21/el-barca-celebra-su-mejoria-para-la-copa-y-tenerife-competira-ante-el-rival-mas-duro/",
-        "date": "2025-04-20 06:03:36",
-        "sentiment_score": 0.5822431445121765
-    },
-    {
-        "title": "Los aficionados del Barcelona en Lisboa, con un ojo en el cielo y el otro en los 3 puntos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/21/los-aficionados-del-barcelona-en-lisboa-con-un-ojo-en-el-cielo-y-el-otro-en-los-3-puntos/",
-        "date": "2025-04-20 06:03:23",
-        "sentiment_score": 0.45313772186636925
-    },
-    {
-        "title": "Ibon Navarro avisa de que el partido precedente ante el Joventut \"no sirve de referencia\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/21/ibon-navarro-avisa-de-que-el-partido-precedente-ante-el-joventut-no-sirve-de-referencia/",
-        "date": "2025-04-20 06:03:09",
-        "sentiment_score": 0.8372854180634022
-    },
-    {
-        "title": "'Caperucita en Manhattan', cuento de hadas contemporáneo interpretado por Carolina Yuste",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/21/caperucita-en-manhattan-cuento-de-hadas-contemporaneo-interpretado-por-carolina-yuste/",
-        "date": "2025-04-20 06:02:57",
-        "sentiment_score": 0.23316292464733124
-    },
-    {
-        "title": "El Gobierno valenciano ve un \"agravio\" con La Palma la ausencia ya de 79 días de Sánchez",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/21/el-gobierno-valenciano-ve-un-agravio-con-la-palma-la-ausencia-ya-de-79-dias-de-sanchez/",
-        "date": "2025-04-20 06:02:42",
-        "sentiment_score": -0.7134483866393566
-    },
-    {
-        "title": "Choque por los menas",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/1fea60ed-39b1-4b80-ab3afda4a21a2fd4.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z17d85aa8-8a77-43f8-94d91d360d7424d1/202504/choque-por-los-menas",
-        "date": "2025-04-20 06:27:04",
-        "sentiment_score": -0.22765402495861053
-    },
-    {
-        "title": "La soledad calle a calle: el número de hogares unipersonales se duplica en veinte años en Valladolid",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/04/19/ventanas-kXc-U2301353172670w5B-1200x840@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/soledad-calle-calle-numero-hogares-unipersonales-duplica-20250420081911-nt.html",
-        "date": "2025-04-20 06:19:11",
-        "sentiment_score": -0.09557726234197617
-    },
-    {
-        "title": "Puente, en minoría en el polémico paso del AVE por Toledo: quiere una estación y demora el examen de dos que piden Page y el alcalde",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/04/15/el-ministro-de-transportes-oscar-puente-este-lunes-en-las-pruebas-del-tren-entre-badajoz-y-plasencia.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/noticia/5701116/0/puente-minoria-polemico-paso-ave-toledo-una-estacion-dos-piden-page-alcalde/",
-        "date": "2025-04-20 06:14:59",
-        "sentiment_score": -0.019205927848815918
-    },
-    {
-        "title": "El pueblo más bonito de Guadalajara para visitar esta primavera: una auténtica joya a dos horas de Madrid",
-        "image_url": "https://s1.elespanol.com/2024/09/25/eldigitalcastillalamancha/vivir/turismo/888671438_249477750_1706x960.jpg?contentId=888671438",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/vivir/turismo/20250420/pueblo-bonito-guadalajara-visitar-primavera-autentica-joya-horas-madrid-trt/1003743715867_0.html",
-        "date": "2025-04-20 06:04:24",
-        "sentiment_score": 0.7875254042446613
-    },
-    {
-        "title": "Real Madrid - Athletic de Bilbao: Horario, alineaciones y dónde ver el partido de LaLiga EA Sports en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/04/19/002311A0-1A18-4F27-9A39-3EE58BB30E0A/vinicius-inaki-williams_98.jpg?crop=3264%2C1836%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-athletic-bilbao-horario-alineaciones-donde-ver-partido-laliga-sports-directo_2025042068048d80160aba000150f853.html",
-        "date": "2025-04-20 06:00:32",
-        "sentiment_score": 0.05494453012943268
-    },
-    {
-        "title": "El Tenerife pone a prueba el fortín del Baskonia",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e31b080b-ddaf-48a1-9291-3b0e8caa452b_16-9-aspect-ratio_default_0_x1355y300.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2025/04/20/tenerife-pone-prueba-fortin-baskonia-9537859.html",
-        "date": "2025-04-20 06:00:11",
-        "sentiment_score": 0.6791609674692154
-    },
-    {
-        "title": "El Alavés busca embarrar aún más el descenso",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d5fc0f0c-0a18-45ae-ad87-567c393c91b9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2025/04/20/alaves-busca-embarrar-descenso-sevilla-laliga-9537871.html",
-        "date": "2025-04-20 06:00:11",
-        "sentiment_score": 0.8138143047690392
-    },
-    {
-        "title": "Cristina Tamborero, diseñadora nupcial: \"Se llevan mucho los vestidos de novia dos en uno y en mi caso, el trabajo artesanal\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/43351bc5-8150-48e6-82e9-42323b659347_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/estilo-y-famosos/20250420/cristina-tamborero-disenadora-vestidos-de-novia-desfile-pedralbes-decimo-aniversario-entrevista-116402102",
-        "date": "2025-04-20 06:30:13",
-        "sentiment_score": -0.10175684094429016
-    },
-    {
-        "title": "Ferrovial hace las Américas con las autopistas de Estados Unidos y Canadá",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f7f60011-8e54-4082-baea-6f38d4d6b377_16-9-aspect-ratio_default_1369006.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lne.es/economia/2025/04/20/ferrovial-americas-autopistas-estados-unidos-116538755.html",
-        "date": "2025-04-20 06:24:43",
-        "sentiment_score": 0.0018160641193389893
-    },
-    {
-        "title": "Lo que debes saber hoy, 20 de abril, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2022/01/23/vivir-en-barcelona/644695536_9765273_1706x960.jpg?contentId=644695536",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250420/lo-que-debes-saber-hoy-de-abril-barcelona/1003742650486_0.html",
-        "date": "2025-04-20 06:18:03",
-        "sentiment_score": 0.6582130752503872
-    },
-    {
-        "title": "Barcelona, la segunda ruta con más éxito en Alvedro, casi ‘al completo’",
-        "image_url": "https://www.elidealgallego.com/images/showid/7133586",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elidealgallego.com/articulo/a-coruna/barcelona-segunda-ruta-exito-alvedro-casi-completo-5260245",
-        "date": "2025-04-20 06:09:00",
-        "sentiment_score": -0.06966842710971832
-    },
-    {
         "title": "Mónica Puig: La exhibición Alcaraz-Tiafoe puede tener \"el mismo impacto\" que Bad Bunny",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -320,26 +108,6 @@ export default [
         "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-forma-esperanza-20250420161748-nt.html",
         "date": "2025-04-20 14:18:16",
         "sentiment_score": -0.11530661582946777
-    },
-    {
-        "title": "Nuevo accidente aéreo en EEUU: Siete muertos tras estrellarse dos avionetas en Illinois y Nebraska",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/noticias/2025/04/20/avioneta1-k8lG-U708428828618KG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/nuevo-accidente-aereo-eeuu-siete-muertos-tras-20250420115607-nt.html",
-        "date": "2025-04-20 09:58:07",
-        "sentiment_score": -0.2687850743532181
-    },
-    {
-        "title": "Cuánto dinero gana un guardia civil en España: este es el sueldo por categoría",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/diario_abc/2025/04/16/guardia-civil-kLDH-U70827888508HlE-1200x840@abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/dinero-gana-guardia-civil-espana-sueldo-categoria-20250420130235-nt.html",
-        "date": "2025-04-20 09:00:00",
-        "sentiment_score": -0.1604134738445282
     },
     {
         "title": "Un menor de 17 años fallece ahogado en la playa de Coma-ruga (Tarragona)",
@@ -7177,5 +6945,571 @@ export default [
         "link": "https://2001online.com/nacionales/delcy-rodriguez-arriba-a-china-este-23-de-abril-conozca-la-agenda-de-trabajo-202542311430",
         "date": "2025-04-23 15:43:00",
         "sentiment_score": -0.19787776470184326
+    },
+    {
+        "title": "El Hang Seng gana un 1,86 % animado por las subidas de las tecnológicas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/24/el-hang-seng-gana-un-186-animado-por-las-subidas-de-las-tecnologicas/",
+        "date": "2025-04-23 22:18:50",
+        "sentiment_score": 0.4054526761174202
+    },
+    {
+        "title": "Víctor Claver y Players Hub 360 guían a los atletas hacia su nueva vida",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/24/victor-claver-y-players-hub-360-guian-a-los-atletas-hacia-su-nueva-vida/",
+        "date": "2025-04-23 22:18:36",
+        "sentiment_score": 0.4755088500678539
+    },
+    {
+        "title": "Los precios de los hoteles subieron casi un 8 % en 2024 y suman cuatro años de alzas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/24/los-precios-de-los-hoteles-subieron-casi-un-8-en-2024-y-suman-cuatro-anos-de-alzas/",
+        "date": "2025-04-23 22:18:23",
+        "sentiment_score": 0.5842163376510143
+    },
+    {
+        "title": "Savignani: “Hoy no importa tanto el partido, importa el orgullo de pertenecer a este club”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/23/savignani-hoy-no-importa-tanto-el-partido-importa-el-orgullo-de-pertenecer-a-este-club/",
+        "date": "2025-04-23 22:17:09",
+        "sentiment_score": 0.7344302609562874
+    },
+    {
+        "title": "Hoy será noticia. Jueves, 24 de abril",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/23/hoy-sera-noticia-jueves-24-de-abril/",
+        "date": "2025-04-23 22:16:48",
+        "sentiment_score": 0.03652041032910347
+    },
+    {
+        "title": "Los precios industriales suben al 2,3 % en diciembre por el encarecimiento de la energía",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/24/los-precios-industriales-suben-al-23-en-diciembre-por-el-encarecimiento-de-la-energia/",
+        "date": "2025-04-23 21:49:41",
+        "sentiment_score": 0.2557798847556114
+    },
+    {
+        "title": "Las bolsas europeas abren al alza tras pedir Trump a la Fed que baje tipos inmediatamente",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/24/las-bolsas-europeas-abren-al-alza-tras-pedir-trump-a-la-fed-que-baje-tipos-inmediatamente/",
+        "date": "2025-04-23 21:49:26",
+        "sentiment_score": 0.516547791659832
+    },
+    {
+        "title": "Las opciones de turismo verde dan la vuelta al mundo y sus ecosistemas en Fitur 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/24/las-opciones-de-turismo-verde-dan-la-vuelta-al-mundo-y-sus-ecosistemas-en-fitur-2025/",
+        "date": "2025-04-23 21:49:06",
+        "sentiment_score": 0.719243410974741
+    },
+    {
+        "title": "Cuenta atrás para Benidorm Fest 2025... con Melody: \"Era ahora o nunca\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/24/cuenta-atras-para-benidorm-fest-2025-con-melody-era-ahora-o-nunca/",
+        "date": "2025-04-23 21:48:51",
+        "sentiment_score": 0.8188428431749344
+    },
+    {
+        "title": "La Bolsa española abre con un alza del 0,4 % y supera los 12.000 puntos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/24/la-bolsa-espanola-abre-con-un-alza-del-04-y-supera-los-12000-puntos/",
+        "date": "2025-04-23 21:48:37",
+        "sentiment_score": 0.4738772474229336
+    },
+    {
+        "title": "Los ultras del Viernes Santo",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/04/23/antoniopelayo-ksnF--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-ultras-viernes-santo-20250424190655-nts.html",
+        "date": "2025-04-23 19:55:29",
+        "sentiment_score": -0.057482004165649414
+    },
+    {
+        "title": "El Papa hincha",
+        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/04/22/Primero-U02680084383sKy-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/lucas-haurie-papa-hincha-20250424184450-nts.html",
+        "date": "2025-04-23 19:55:28",
+        "sentiment_score": -0.01658034324645996
+    },
+    {
+        "title": "Voto de chavales",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/04/22/comborobo-kKHG--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-voto-chavales-20250424114838-nt.html",
+        "date": "2025-04-23 18:48:59",
+        "sentiment_score": -0.07208466529846191
+    },
+    {
+        "title": "El ruinoso negocio político de Elon Musk: pierde 131.000 millones de dólares tras su paso por la Casa Blanca",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/04/23/Musk-R0VYteGIUWX0luBHCvuP8FP-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ruinoso-negocio-politico-elon-musk-pierde-131000-20250423202959-nt.html",
+        "date": "2025-04-23 18:30:00",
+        "sentiment_score": -0.16438865661621094
+    },
+    {
+        "title": "Un soneto desconocido de Cervantes",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/04/23/205424TerceraSaiz.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/adrian-j-saiz-soneto-desconocido-cervantes-20250424154512-nt.html",
+        "date": "2025-04-23 18:15:08",
+        "sentiment_score": -0.08235466480255127
+    },
+    {
+        "title": "La carta del caudillo",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2025/04/22/colegio3-U14412881217LsG-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-carta-caudillo-20250424192922-nt.html",
+        "date": "2025-04-23 18:14:46",
+        "sentiment_score": -0.25245918333530426
+    },
+    {
+        "title": "Voto adolescente, voto radicalmente cautivo",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/04/23/antoniopelayo-ksnF--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/agustin-pery-voto-adolescente-voto-radicalmente-cautivo-20250424113301-nt.html",
+        "date": "2025-04-23 18:14:04",
+        "sentiment_score": -0.0983494222164154
+    },
+    {
+        "title": "Votar antes y votar bien",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/04/23/antoniopelayo-ksnF--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-votar-votar-bien-20250424111421-nt.html",
+        "date": "2025-04-23 18:13:39",
+        "sentiment_score": -0.09542667865753174
+    },
+    {
+        "title": "Bienvenidos a la Doctrina Social",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2025/04/22/colegio3-U14412881217LsG-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alberto-garcia-reyes-bienvenidos-doctrina-social-20250424124556-nt.html",
+        "date": "2025-04-23 18:13:19",
+        "sentiment_score": -0.06669235229492188
+    },
+    {
+        "title": "Responsabilidad colegiada",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/04/22/juan-del-val-khzB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-responsabilidad-colegiada-20250424161028-nt.html",
+        "date": "2025-04-23 18:13:00",
+        "sentiment_score": -0.10773232579231262
+    },
+    {
+        "title": "Javier Cercas y Xavier Bosch, entre los autores más vendidos de un Sant Jordi de récord",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OCW4VTALOQR5BCFUAULRTCQLGA.jpg?auth=89fb60a3d2dcebbfda501e654e8f451cde9136e16991ecf6f516831365b87da0&width=1200",
+        "tags": [
+            "cultura",
+            "sant jordi",
+            "escritores",
+            "editoriales",
+            "novela",
+            "xavier bosch",
+            "cataluña",
+            "libros",
+            "javier cercas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-23/javier-cercas-y-xavier-bosch-entre-los-autores-mas-vendidos-de-un-sant-jordi-de-record.html",
+        "date": "2025-04-23 19:53:08",
+        "sentiment_score": -0.036590442061424255
+    },
+    {
+        "title": "El PP de Murcia insta a Vox a firmar ya sus Presupuestos porque acepta “el marco político” del partido ultra",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/R2WRKOQTIBENRIHZU4YWXTDHKI.jpg?auth=53454245a9433d0e9f0816110ea3c9cd88c6b099f8932cd0dbb8ddf70eafcdd4&width=1200",
+        "tags": [
+            "ultraderecha",
+            "coaliciones políticas",
+            "fernando lópez miras",
+            "pp",
+            "presupuestos autonómicos",
+            "españa",
+            "pactos políticos",
+            "vox",
+            "región de murcia"
+        ],
+        "link": "https://elpais.com/espana/2025-04-23/el-pp-de-murcia-insta-a-vox-a-que-respalde-ya-sus-presupuestos-porque-ha-aceptado-el-marco-politico-que-propone-el-partido-ultra.html",
+        "date": "2025-04-23 19:12:26",
+        "sentiment_score": -0.795656118541956
+    },
+    {
+        "title": "Los poetas luchan por hacerse un hueco en la calle en un Sant Jordi plagado de novelas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2KEIZXN37VC4PCVGUHMPRC3AKE.jpg?auth=41d275cf8defc7cc63df11582676de5adc61ee97bdbdecbad3984595849804cc&width=1200",
+        "tags": [
+            "literatura",
+            "sant jordi",
+            "poesía",
+            "libros",
+            "libreros",
+            "barcelona",
+            "cataluña",
+            "literatura catalana"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-23/los-poetas-luchan-por-hacerse-un-hueco-en-la-calle-en-un-sant-jordi-plagado-de-novelas.html",
+        "date": "2025-04-23 19:10:12",
+        "sentiment_score": -0.6627445034682751
+    },
+    {
+        "title": "La plataforma ‘Sant Jordi per la Llengua’ congrega a 2.000 manifestantes en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y5KWIKPCXYQQX47YIDKOWDHZ74.jpg?auth=3f5d9054e6857c6802eb4dd28bdc600b83e6fdd455693811294afd8d24bb63b8&width=1200",
+        "tags": [
+            "sindicato de inquilinas",
+            "sant jordi",
+            "protestas sociales",
+            "òmnium cultural",
+            "anc",
+            "govern cataluña",
+            "cataluña",
+            "asociaciones",
+            "catalán",
+            "manifestaciones políticas",
+            "lengua",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-23/la-plataforma-sant-jordi-per-la-llengua-congrega-a-2000-manifestantes-en-barcelona.html",
+        "date": "2025-04-23 18:40:39",
+        "sentiment_score": 0.3626394309103489
+    },
+    {
+        "title": "La Fiscalía de Cádiz recurre la sentencia que obliga a retirar artículos sobre el alférez que intervino en el proceso a Miguel Hernández",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3SKEZM3A6VAWPAM6MXJNGW3VWE.jpg?auth=d8a3eede9d7159faff08ffffc4e39f6dd0685ecf8835c531f4edfcfea98759ae&width=1200",
+        "tags": [
+            "guerra civil",
+            "juzgados",
+            "españa",
+            "miguel hernandez",
+            "alicante",
+            "universidad",
+            "libertad expresión",
+            "franquismo",
+            "cádiz"
+        ],
+        "link": "https://elpais.com/espana/2025-04-23/la-fiscalia-de-cadiz-recurre-la-sentencia-que-obliga-a-retirar-articulos-sobre-el-alferez-que-intervino-en-el-proceso-a-miguel-hernandez.html",
+        "date": "2025-04-23 18:21:21",
+        "sentiment_score": -0.6058620885014534
+    },
+    {
+        "title": "Para quién se hacen las colas más largas de Sant Jordi 2025",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LJFTQIYBFVFSXAHTXLUKFQHWOA.jpg?auth=def5d00c74bc2508fab9d762fedb63646a58676a02595d2915e3de55d7b71df0&width=1200",
+        "tags": [
+            "lectura",
+            "barcelona",
+            "novela",
+            "libros",
+            "cataluña",
+            "escritores",
+            "cultura",
+            "sant jordi"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-23/para-quien-se-hacen-las-colas-mas-largas-de-sant-jordi-2025.html",
+        "date": "2025-04-23 17:36:06",
+        "sentiment_score": -0.7648868523538113
+    },
+    {
+        "title": "El antecedente de la polémica compra de 15 millones de balas a una empresa israelí: 9.216 pistolas del mismo fabricante",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FMSC26LRAXUNVQP6PPON6KZQ2E.jpg?auth=74df40b0cede44791594957f3e24a2d8bd86d3ad7ed373b85d743daf7175fbe5&width=1200",
+        "tags": [
+            "ministerio del interior",
+            "israel",
+            "guerra",
+            "españa",
+            "fernando grande-marlaska",
+            "franja gaza",
+            "licitaciones",
+            "armamento",
+            "guardia civil",
+            "defensa"
+        ],
+        "link": "https://elpais.com/espana/2025-04-23/el-antecedente-de-la-polemica-compra-de-15-millones-de-balas-a-una-empresa-israeli-9216-pistolas-del-mismo-fabricante.html",
+        "date": "2025-04-23 17:22:10",
+        "sentiment_score": -0.7883275393396616
+    },
+    {
+        "title": "Un Sant Jordi de radio en la calle",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AAZT7INIU5CSFOJL36LZZMYLWY.jpg?auth=257b53f87b665d7e9a72f90b0265e6d94550e654e411994f551c0d359a53afa6&width=1200",
+        "tags": [
+            "sant jordi",
+            "periodismo",
+            "libros",
+            "escritores",
+            "barcelona",
+            "literatura",
+            "cadena ser",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-23/un-sant-jordi-de-radio-en-la-calle.html",
+        "date": "2025-04-23 17:20:58",
+        "sentiment_score": 0.020890623331069946
+    },
+    {
+        "title": "Lío monumental con las entradas de la final de Copa: el Barça, indignado con la RFEF y los socios, hartos de la gestión de Laporta",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/11/culemania/palco/915668490_13963793_1706x960.jpg?contentId=915668490",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250423/lio-de-la-copa-barca-rfef-laporta/1003742651608_0.html",
+        "date": "2025-04-23 22:17:20",
+        "sentiment_score": -0.24077806994318962
+    },
+    {
+        "title": "Güler premia la rotación; Ancelotti encuentra un 'nuevo Modric'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/23/guler-premia-la-rotacion-ancelotti-encuentra-un-nuevo-modric/",
+        "date": "2025-04-23 22:16:12",
+        "sentiment_score": 0.5241644866764545
+    },
+    {
+        "title": "Ancelotti da practicamente por descartado a Camavinga para la final de Copa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/23/ancelotti-da-practicamente-por-descartado-a-camavinga-para-la-final-de-copa/",
+        "date": "2025-04-23 22:15:23",
+        "sentiment_score": -0.5954724308103323
+    },
+    {
+        "title": "Crónica del Getafe - Real Madrid, 0-1",
+        "image_url": "https://www.infobae.com/resizer/v2/WMOY727VUFE5HFJLBQHTQ24BKQ.jpg?auth=643e3cd2d288f41ad888b059dfc94c90ef16fe19d06ebf90248381be8e66fdd4&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/23/cronica-del-getafe-real-madrid-0-1/",
+        "date": "2025-04-23 22:15:20",
+        "sentiment_score": -0.06986379623413086
+    },
+    {
+        "title": "Invocación de la desaparecida librería Hiperión",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/v26/img/destacadas/elmundo__logo-generica.jpg",
+        "tags": [
+            "cultura",
+            "literatura",
+            "poesía",
+            "libros",
+            "artículos antonio lucas"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/04/24/68067663fc6c83ec7c8b4570.html",
+        "date": "2025-04-23 22:15:03",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Ancelotti: \"La calidad que tiene Güler en la construcción del juego es fenomenal\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250424001255_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-ancelotti-calidad-tiene-guler-construccion-juego-fenomenal-20250424001255.html",
+        "date": "2025-04-23 22:12:55",
+        "sentiment_score": 0.6142789497971535
+    },
+    {
+        "title": "Un muerto al incendiarse una vivienda en Granada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5bd3c345-ae92-4e1a-9d18-8cc2f0ccbade_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/sucesos/2025/04/24/muerto-incendiarse-vivienda-granada-116671109.html",
+        "date": "2025-04-23 22:10:57",
+        "sentiment_score": -0.6981630176305771
+    },
+    {
+        "title": "1a PARTE | 23 ABR 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/1a-parte-23-abr-2025-partidazo-cope-20250424_3138287.html",
+        "date": "2025-04-23 22:08:57",
+        "sentiment_score": 0.5351103954017162
+    },
+    {
+        "title": "Real Madrid vence 1-0 a Getafe antes de la final de la Copa del Rey contra Barcelona",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/04/AP25113781000563.webp",
+        "tags": [
+            "general"
+        ],
+        "link": "https://lacalle.com.ve/real-madrid-vence-1-0-a-getafe-antes-de-la-final-de-la-copa-del-rey-contra-barcelona/",
+        "date": "2025-04-23 22:08:52",
+        "sentiment_score": -0.05340054631233215
+    },
+    {
+        "title": "Quizás fue un ensayo para Sevilla",
+        "image_url": "https://www.eldebate.com/uploads/2022/11/21/637b484301e2c.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20250424/quizas-ensayo-sevilla_290746.html",
+        "date": "2025-04-23 22:18:38",
+        "sentiment_score": -0.424586383625865
+    },
+    {
+        "title": "Cien años de Paco Candel, el desconocido charnego que escribió el primer 'best seller' en catalán: \"Todas las casas tenían un libro suyo\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/1e4adec591397ef44b771d49801af4d9/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/11/17443881494722.jpg",
+        "tags": [
+            "cultura",
+            "literatura",
+            "barcelona",
+            "arte",
+            "artículos vanessa graell",
+            "cataluña",
+            "cine"
+        ],
+        "link": "https://www.elmundo.es/la-lectura/2025/04/24/67f8d358fdddfffa3a8b4595.html",
+        "date": "2025-04-23 22:15:32",
+        "sentiment_score": -0.0392964631319046
+    },
+    {
+        "title": "Clásico Mundial de Beisbol: ratifican a Omar López como el manager de la selección de Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745447653992.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/clasico-mundial-de-beisbol-ratifican-a-omar-lopez-como-el-manager-de-la-seleccion-de-venezuela-202542318130",
+        "date": "2025-04-23 22:13:00",
+        "sentiment_score": -0.6161299794912338
+    },
+    {
+        "title": "Migrante afirma que se salvó de la deportación gracias al papa Francisco: esta es su historia",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745286977524.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/migrante-afirma-que-se-salvo-de-la-deportacion-gracias-al-papa-francisco-esta-es-su-historia-202542318120",
+        "date": "2025-04-23 22:12:00",
+        "sentiment_score": 0.40285590291023254
+    },
+    {
+        "title": "Suplementos: Distrilab amplía su línea Distro",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745442612678.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/suplementos-distrilab-amplia-su-linea-distro-20254231800",
+        "date": "2025-04-23 22:00:00",
+        "sentiment_score": 0.08271854370832443
+    },
+    {
+        "title": "Cónclave papal: El Cardenal \"corrupto\" despedido por el papa Francisco ahora quiere elegir al nuevo Santo Padre",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745444661098.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/conclave-papal-el-cardenal-corrupto-despedido-por-el-papa-francisco-ahora-quiere-elegir-al-nuevo-santo-padre-202542317510",
+        "date": "2025-04-23 21:51:00",
+        "sentiment_score": -0.2994282580912113
+    },
+    {
+        "title": "Baloncesto español: juegos decisivos del fin de semana",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745444781781.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/baloncesto-espanol-juegos-decisivos-del-fin-de-semana-202542317460",
+        "date": "2025-04-23 21:46:00",
+        "sentiment_score": 0.567945683375001
+    },
+    {
+        "title": "Arriba a Venezuela avión con 174 migrantes venezolanos deportados por Estados Unidos: fueron trasladados desde Honduras",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745443732086.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/arriba-a-venezuela-avion-con-174-migrantes-venezolanos-deportados-por-estados-unidos-fueron-trasladados-desde-honduras-202542317290",
+        "date": "2025-04-23 21:29:00",
+        "sentiment_score": 0.009365007281303406
+    },
+    {
+        "title": "Seguro Social USA: estos beneficiarios recibirán hasta $1.450 el 1 de mayo",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745443671404.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/seguro-social-usa-estos-beneficiarios-recibiran-hasta-1-450-el-1-de-mayo-202542317180",
+        "date": "2025-04-23 21:18:00",
+        "sentiment_score": 0.004156164824962616
+    },
+    {
+        "title": "Alcantarilla que explotó en New York casi cobra tres vidas: una mujer y dos niños se salvaron por segundos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745441199188.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/alcantarilla-que-exploto-en-new-york-casi-cobra-tres-vidas-una-mujer-y-dos-ninos-se-salvaron-por-segundos-202542317100",
+        "date": "2025-04-23 21:10:00",
+        "sentiment_score": -0.5397680588066578
+    },
+    {
+        "title": "Nueva Jersey lanza operativo de emergencia para tramitar la Real ID: requisitos y horarios",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745442529114.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/nueva-jersey-lanza-operativo-de-emergencia-para-tramitar-la-real-id-requisitos-y-horarios--20254231770",
+        "date": "2025-04-23 21:07:00",
+        "sentiment_score": 0.04725285619497299
+    },
+    {
+        "title": "Anuncian la llegada de un nuevo avión con repatriados desde Estados Unidos este 23 de abril",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745441758617.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/anuncian-la-llegada-de-un-nuevo-avion-con-repatriados-desde-estados-unidos-este-23-de-abril-20254231710",
+        "date": "2025-04-23 21:01:00",
+        "sentiment_score": 0.016990281641483307
     }
 ];
