@@ -1,215 +1,5 @@
 export default [
     {
-        "title": "Una argentina ve en el Mercadona dulce de leche de una marca de su país y se escandaliza: “Origen Francia, ¿qué?”",
-        "image_url": "https://www.infobae.com/resizer/v2/TKSRMSWLKVAYBNJ72565FM3HVI.jpg?auth=32bd96fc10d25f0b3027eeb9c72833226fb1f10eb9a72c7ba520523d9b4eed87&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/24/una-argentina-ve-en-el-mercadona-dulce-de-leche-de-una-marca-de-su-pais-y-se-escandaliza-origen-francia-que/",
-        "date": "2025-04-24 06:34:11",
-        "sentiment_score": -0.7669183984398842
-    },
-    {
-        "title": "Temas del día de EFE Economía del 24 de enero de enero de 2025 (13:00 horas)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/24/temas-del-dia-de-efe-economia-del-24-de-enero-de-enero-de-2025-1300-horas/",
-        "date": "2025-04-24 06:34:02",
-        "sentiment_score": -0.1461542248725891
-    },
-    {
-        "title": "Page afirma que el bloqueo político no dejará recortes en servicios públicos de la región",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/24/page-afirma-que-el-bloqueo-politico-no-dejara-recortes-en-servicios-publicos-de-la-region/",
-        "date": "2025-04-24 06:33:48",
-        "sentiment_score": -0.5345918126404285
-    },
-    {
-        "title": "Hogares redujeron en 1.500 millones su inversión en letras entre septiembre y noviembre",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/24/hogares-redujeron-en-1500-millones-su-inversion-en-letras-entre-septiembre-y-noviembre/",
-        "date": "2025-04-24 06:33:34",
-        "sentiment_score": 0.1898006647825241
-    },
-    {
-        "title": "Chivite presenta en Fitur a Navarra como \"un oasis en un mundo demasiado turistificado\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/24/chivite-presenta-en-fitur-a-navarra-como-un-oasis-en-un-mundo-demasiado-turistificado/",
-        "date": "2025-04-24 06:33:20",
-        "sentiment_score": 0.6693811062723398
-    },
-    {
-        "title": "Las autonomías vitivinícolas exhibirán su potencial exportador en Barcelona Wine Week",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/24/las-autonomias-vitivinicolas-exhibiran-su-potencial-exportador-en-barcelona-wine-week/",
-        "date": "2025-04-24 06:33:06",
-        "sentiment_score": 0.7496943790465593
-    },
-    {
-        "title": "Jagoba Arrasate: \"Necesitamos recuperar la esencia\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/24/jagoba-arrasate-necesitamos-recuperar-la-esencia/",
-        "date": "2025-04-24 06:32:51",
-        "sentiment_score": 0.34516485780477524
-    },
-    {
-        "title": "Bordalás denuncia ante la policía las amenazas sufridas en redes sociales",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/24/bordalas-denuncia-ante-la-policia-las-amenazas-sufridas-en-redes-sociales/",
-        "date": "2025-04-24 06:32:37",
-        "sentiment_score": -0.7776143103837967
-    },
-    {
-        "title": "Muere una mujer en el incendio de una vivienda en Torrent (Valencia) y asisten a una menor",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/24/muere-una-mujer-en-el-incendio-de-una-vivienda-en-torrent-valencia-y-asisten-a-una-menor/",
-        "date": "2025-04-24 06:32:07",
-        "sentiment_score": -0.7321655545383692
-    },
-    {
-        "title": "La actriz y dramaturga Estel Solé gana el XLV Premio Ramon Llull con 'Aquest tros de vida'",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/24/la-actriz-y-dramaturga-estel-sole-gana-el-xlv-premio-ramon-llull-con-aquest-tros-de-vida/",
-        "date": "2025-04-24 06:31:51",
-        "sentiment_score": 0.6712831743061543
-    },
-    {
-        "title": "Cuatro vecinos, intoxicados en el incendio de una vivienda de Móstoles a causa de una vela",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6GUKTUGYONLKEY5COIEMS2USZI.jpg?auth=2dd8181ac7fd241b4701b6438b7e5da35ad34f5c23fa09b8ad7cac74cfd6b932&width=1200",
-        "tags": [
-            "heridos",
-            "bomberos",
-            "intoxicación",
-            "móstoles",
-            "madrid",
-            "incendios",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-04-24/cuatro-vecinos-intoxicados-en-el-incendio-de-una-vivienda-de-mostoles-a-causa-de-una-vela.html",
-        "date": "2025-04-24 05:27:16",
-        "sentiment_score": -0.8183329328894615
-    },
-    {
-        "title": "Ancelotti se enfada con Endrick: \"Esto no lo puede hacer\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/04/24/image-f4ba93cc-b637-4837-af2e-d50c2973389d-85-2560-1440.jpeg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2024-2025/video-rueda-de-prensa-carlo-ancelotti-getafe-real-madrid-tremendo-enfado-endrick-esto-no-lo-puede-hacer_vid60003076/video.shtml",
-        "date": "2025-04-24 06:28:40",
-        "sentiment_score": -0.8918078374117613
-    },
-    {
-        "title": "Los bares de Sevilla se preparan para otro 'tsunami' de aficionados en sus terrazas por la final de Copa del Rey",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2c40b9d0-e074-4997-bc5b-f8b0efc75563_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "copa del rey,real madrid,fc barcelona,sevilla"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2025/04/24/bares-sevilla-aficionados-real-madrid-barcelona-final-copa-rey-116675924.html",
-        "date": "2025-04-24 06:23:26",
-        "sentiment_score": -0.3240773528814316
-    },
-    {
-        "title": "El restaurante que enamoró a Marc Ribas y consiguió una de las notas más altas en ‘Joc de Cartes’: en el centro de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/04/24/gastro/1003742651640_14471930_1706x960.jpg?contentId=1003742651640",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gastro/20250424/el-restaurante-que-enamoro-marc-ribas-consiguio-una-de-las-notas-mas-altas-en-joc-cartes-el-centro-barcelona/1003742651636_0.html",
-        "date": "2025-04-24 06:32:50",
-        "sentiment_score": 0.5223919041454792
-    },
-    {
-        "title": "Gloria Osteria: un restaurante italiano único (y enorme) en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e4245d9d-a78b-4bd4-b73d-089ff8b3163d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20250424/gloria-osteria-restaurante-italiano-barcelona-116576988",
-        "date": "2025-04-24 06:30:59",
-        "sentiment_score": -0.2771587520837784
-    },
-    {
-        "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 24 de abril",
-        "image_url": "https://www.infobae.com/resizer/v2/43K3B2VOGJEOLHMEG4HRUFTTIY.jpg?auth=f9a4b904c4e66027cf8390ede44eec20b71237e7aad7f071cd5388f2c54fe6a6&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/24/vives-en-madrid-o-barcelona-aqui-esta-el-precio-de-la-gasolina-del-24-de-abril/",
-        "date": "2025-04-24 06:30:58",
-        "sentiment_score": -0.14567936211824417
-    },
-    {
-        "title": "La casa de tres plantas de Lydia Lozano en Chamartín con toque bohemio y un gran jardín",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/04/lydia-lozano-casa-chamartin.jpg",
-        "tags": [
-            "casas",
-            "madrid",
-            "celebrities",
-            "gente",
-            "televisión"
-        ],
-        "link": "https://theobjective.com/gente/2025-04-24/casa-tres-plantas-lydia-lozano-chamartin/",
-        "date": "2025-04-24 06:30:00",
-        "sentiment_score": -0.8787588085979223
-    },
-    {
-        "title": "Lluc Crusellas sirve sus delicias dulces en Barcelona (y otras noticias gastro)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6289878e-3a81-4951-9b96-299534f53735_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/20250424/lluc-crusellas-hotel-mandarin-oriental-barcelona-116661497",
-        "date": "2025-04-24 06:29:54",
-        "sentiment_score": 0.7183026298880577
-    },
-    {
-        "title": "Detenido por robar un reloj de 55.000 euros a un turista en Montjuïc",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8aec6f11-e987-48e7-aa9b-fd52b06017f3_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/sucesos/20250424/detenido-robar-reloj-lujo-montjuic-116675946",
-        "date": "2025-04-24 06:29:06",
-        "sentiment_score": -0.7458128351718187
-    },
-    {
-        "title": "La predicción de Gonzalo Bernardos sobre el precio de la vivienda en 2025: \"Va a ser un festival inmobiliario\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/08/economista-gonzalo-bernardos-conferencia.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/prediccion-gonzalo-bernardos-precio-vivienda-2025-va-ser-festival-5703428/",
-        "date": "2025-04-24 06:28:06",
-        "sentiment_score": 0.39124755561351776
-    },
-    {
         "title": "Rusia e Irán debaten en Moscú proyectos clave de infraestructuras energéticas",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -6725,5 +6515,456 @@ export default [
         "link": "https://2001online.com/usa/servicios/cuenta-bancaria-en-estados-unidos-pasos-para-abrirla-sin-ser-residente-20254271060",
         "date": "2025-04-27 14:06:00",
         "sentiment_score": 0.0024550557136535645
+    },
+    {
+        "title": "La Asociación Española Contra Cáncer apuesta de nuevo por \"Brazaletes de esperanza\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/la-asociacion-espanola-contra-cancer-apuesta-de-nuevo-por-brazaletes-de-esperanza/",
+        "date": "2025-04-27 23:04:11",
+        "sentiment_score": 0.4408116601407528
+    },
+    {
+        "title": "EH Bildu aboga por culminar la legislatura ante \"una extrema derecha mundial\" que busca tumbar al Gobierno de Sánchez",
+        "image_url": "https://www.infobae.com/resizer/v2/PMTYBQZIIRAIZH5VDS67FVXLHY.jpg?auth=e57b39dddc8636b24d1542d1a1d4bd1b32c99d46860508147396ee138466eecd&height=1240&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/eh-bildu-aboga-por-culminar-la-legislatura-ante-una-extrema-derecha-mundial-que-busca-tumbar-al-gobierno-de-sanchez/",
+        "date": "2025-04-27 23:03:57",
+        "sentiment_score": -0.7484989576041698
+    },
+    {
+        "title": "Coalición Canaria exige a su socio del PP que esta vez \"esté a la altura\" con los menores",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/coalicion-canaria-exige-a-su-socio-del-pp-que-esta-vez-este-a-la-altura-con-los-menores/",
+        "date": "2025-04-27 23:03:42",
+        "sentiment_score": 0.41983459889888763
+    },
+    {
+        "title": "Más del 90 % de las aves en la Corriente de Canarias han ingerido plástico, según el CSIC",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/mas-del-90-de-las-aves-en-la-corriente-de-canarias-han-ingerido-plastico-segun-el-csic/",
+        "date": "2025-04-27 23:03:13",
+        "sentiment_score": -0.6943751983344555
+    },
+    {
+        "title": "Descubren ADN de animales domésticos de hace más de 6.000 años en el Pirineo aragonés",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/descubren-adn-de-animales-domesticos-de-hace-mas-de-6000-anos-en-el-pirineo-aragones/",
+        "date": "2025-04-27 23:02:43",
+        "sentiment_score": 0.020141467452049255
+    },
+    {
+        "title": "España se impone en unos Platino muy repartidos, con hasta siete países premiados, y con Brasil como gran triunfadora",
+        "image_url": "https://www.infobae.com/resizer/v2/M7N6XGLQFFFKZOK7LNLFPZZWVI.jpg?auth=736653ac91ef7abaafb921157a23e768e10a41524f9e2dc1e55b7fee046a041e&height=1278&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/27/espana-se-impone-en-unos-platino-muy-repartidos-con-hasta-siete-paises-premiados-y-con-brasil-como-gran-triunfadora/",
+        "date": "2025-04-27 23:00:35",
+        "sentiment_score": 0.8450411930680275
+    },
+    {
+        "title": "Eduard Fernández, ganador a Mejor interpretación masculina en los Premios Platino 2025: “Hay mucha incultura. Por eso está avanzando tanto la extrema derecha”",
+        "image_url": "https://www.infobae.com/resizer/v2/F7XWTXGCT5HAPGEFRV3LTODJCU.jpg?auth=92dd6e67a4b03a21b06433591a699a81e1ff688eb1819445c52f454a1a9b2361&height=1874&smart=true&width=3332",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/04/27/eduard-fernandez-ganador-a-mejor-interpretacion-masculina-en-los-premios-platino-2025-hay-mucha-incultura-por-eso-esta-avanzando-tanto-la-extrema-derecha/",
+        "date": "2025-04-27 22:52:27",
+        "sentiment_score": 0.08263495936989784
+    },
+    {
+        "title": "Los Premios Platino reconocen la importancia de ‘Cien años de soledad’ como mejor serie del año",
+        "image_url": "https://www.infobae.com/resizer/v2/3TVXAPM5MRDNFDD3JUD2LPIDQY.jpg?auth=ee354185b3b7f8911602ae319e257d4e362532b339f99ce5e931d292616225a7&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/04/27/los-premios-platino-reconocen-la-importancia-de-la-serie-cien-anos-de-soledad-como-la-mejor-del-ano/",
+        "date": "2025-04-27 22:43:40",
+        "sentiment_score": 0.8093041889369488
+    },
+    {
+        "title": "Expertos muestran cautela, pero creen que DeepSeek podría cambiar reglas del juego de IA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/expertos-muestran-cautela-pero-creen-que-deepseek-podria-cambiar-reglas-del-juego-de-ia/",
+        "date": "2025-04-27 22:33:27",
+        "sentiment_score": 0.7845836021006107
+    },
+    {
+        "title": "Solo en cuatro municipios es más barato alquilar que comprar y la brecha seguirá al alza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/solo-en-cuatro-municipios-es-mas-barato-alquilar-que-comprar-y-la-brecha-seguira-al-alza/",
+        "date": "2025-04-27 22:33:13",
+        "sentiment_score": 0.03141137957572937
+    },
+    {
+        "title": "A las claras",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/04/28/AdobeStock_909442589-RekhO6PnEEXK5dCYFWmvTRL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-narbona-claras-20250428004417-nts.html",
+        "date": "2025-04-27 22:44:17",
+        "sentiment_score": -0.11811459064483643
+    },
+    {
+        "title": "Matan a un joven de 20 años a puñaladas en plena calle en Puente de Vallecas",
+        "image_url": "https://cdn.mnmstatic.net/cache/3d/d7/media_thumb-link-4052832.webp?1745755806=",
+        "tags": [
+            "puente de vallecas",
+            "actualidad",
+            "muerte",
+            "madrid",
+            "españa",
+            "puñalada"
+        ],
+        "link": "https://www.meneame.net/story/matan-joven-20-anos-punaladas-plena-calle-puente-vallecas",
+        "date": "2025-04-27 20:25:02",
+        "sentiment_score": -0.42373326793313026
+    },
+    {
+        "title": "El último mensaje del Papa",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/04/24/fotonoticia_20221207171552_690-kYLE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-ultimo-mensaje-papa-20250428215120-nts.html",
+        "date": "2025-04-27 19:52:07",
+        "sentiment_score": -0.19542354345321655
+    },
+    {
+        "title": "Aquel campo",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/04/24/padre-angel-fernandez-artime-papa-kOPE--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-campo-20250428215108-nts.html",
+        "date": "2025-04-27 19:52:06",
+        "sentiment_score": -0.14651618897914886
+    },
+    {
+        "title": "Trump anuncia la «recuperación» del Día de Colón",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/27/1-Rpmxn6gIuuCdmruuXTa9EJM-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-anuncia-recuperacion-dia-colon-20250427210346-nt.html",
+        "date": "2025-04-27 19:03:46",
+        "sentiment_score": -0.13832086324691772
+    },
+    {
+        "title": "Dinamarca y Groenlandia, listas para hablar juntas con Trump",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/27/MetteFrederiksen-RCEoyNZoH1llY85KdA7sOJI-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/dinamarca-groenlandia-listas-hablar-juntas-trump-20250427194900-nt.html",
+        "date": "2025-04-27 17:49:17",
+        "sentiment_score": -0.08093294501304626
+    },
+    {
+        "title": "Activistas disparan con pistolas de agua contra un bus turístico en Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FZ7VIQ5K2FGZBOMIJZGGCVUNCE.JPG?auth=f388d05b3fe5349b649e580b47cd5db56a8ee24d63ca3708ddae8c34384de8d6&width=1200",
+        "tags": [
+            "turistificación",
+            "vecinos",
+            "barcelona",
+            "turismo masivo",
+            "turismo",
+            "sagrada familia",
+            "cruceros",
+            "visitas turísticas",
+            "autobuses"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-27/activistas-disparan-con-pistolas-de-agua-contra-un-bus-turistico-en-barcelona.html",
+        "date": "2025-04-27 20:32:55",
+        "sentiment_score": -0.23719218373298645
+    },
+    {
+        "title": "Von der Leyen se reunirá con víctimas de la dana el 13 de mayo en Bruselas, no durante el congreso del PPE en Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DH2JZSHFNGE4QWXZ5N3MH6ZMKQ.jpg?auth=3d203f214cc9ad23a27948e161c4e1cb2f374d5594f41c037662e77978297ef8&width=1200",
+        "tags": [
+            "comisión europea",
+            "ursula von der leyen",
+            "comunidad valenciana",
+            "dana",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-27/von-der-leyen-se-reunira-con-victimas-de-la-dana-el-13-de-mayo-en-bruselas-no-durante-el-congreso-del-ppe-en-valencia.html",
+        "date": "2025-04-27 19:51:01",
+        "sentiment_score": 0.140015359967947
+    },
+    {
+        "title": "Muere la librera y activista cultural Montserrat Úbeda",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SOE3D3DTCBDE5FYI2AJE327QCI.jpg?auth=7c21b04278af56049abaff17f89c027e0d388094c7fc6bef547257adf9dc6f98&width=1200",
+        "tags": [
+            "obituarios",
+            "editoriales",
+            "generalitat cataluña",
+            "cultura",
+            "empresarios",
+            "barcelona",
+            "carles puigdemont",
+            "quim torra",
+            "escritores",
+            "cataluña",
+            "catalán",
+            "libros",
+            "librerías"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-27/muere-la-librera-y-activista-cultural-montserrat-ubeda.html",
+        "date": "2025-04-27 18:20:34",
+        "sentiment_score": -0.05876070261001587
+    },
+    {
+        "title": "Yolanda Díaz se mantiene en la dirección de Sumar como “invitada permanente”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2NI7QUQY5VUSUZB5TGBEK3XO4Y.jpg?auth=ca16a9c87cef02bbd42cc214a76169b7751eaf54fede9794db2dbb945878c3a1&width=1200",
+        "tags": [
+            "ernest urtasun domenech",
+            "españa",
+            "izquierdismo",
+            "partidos políticos",
+            "sumar",
+            "yolanda díaz"
+        ],
+        "link": "https://elpais.com/espana/2025-04-27/yolanda-diaz-se-mantiene-en-la-direccion-de-sumar-como-invitada-permanente.html",
+        "date": "2025-04-27 17:17:11",
+        "sentiment_score": -0.3397488594055176
+    },
+    {
+        "title": "Oporto, Roma, Fenerbahce y Besiktas, en peligro",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/28/oporto-roma-fenerbahce-y-besiktas-en-peligro/",
+        "date": "2025-04-27 23:02:12",
+        "sentiment_score": 0.14611759781837463
+    },
+    {
+        "title": "Mónica Yzaguirre jura como nueva presidenta de la Audiencia tinerfeña",
+        "image_url": "https://cdn.diariodeavisos.com/wp-content/uploads/2025/04/pagina-12-afot-jura-1024x768.jpg",
+        "tags": [
+            "justicia y tribunales",
+            "portada apertura 4",
+            "portada"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/04/monica-yzaguirre-jura-como-nueva-presidenta-de-la-audiencia-tinerfena/",
+        "date": "2025-04-27 23:00:00",
+        "sentiment_score": 0.2151504121720791
+    },
+    {
+        "title": "Cruz Roja defiende su gestión en el centro de Santa Cruz de Tenerife para migrantes",
+        "image_url": "https://cdn.diariodeavisos.com/wp-content/uploads/2025/04/cats-58-1024x668.jpg",
+        "tags": [
+            "santa cruz",
+            "tenerife",
+            "portada local",
+            "metropolitana",
+            "portada",
+            "portada apertura 4"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/04/cruz-roja-defiende-su-gestion-en-el-centro-de-santa-cruz-de-tenerife-para-migrantes/",
+        "date": "2025-04-27 23:00:00",
+        "sentiment_score": -0.6369831785559654
+    },
+    {
+        "title": "Y al séptimo día Roma descansó",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/04/27/roma2-kBZE-U2301589510460qNH-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/sociedad/septimo-dia-roma-descanso-20250427005859-ntrc.html",
+        "date": "2025-04-27 22:59:00",
+        "sentiment_score": 0.5859698802232742
+    },
+    {
+        "title": "Cervera estalla: “Los jugadores están indignados, son muchas cosas y muy seguidas”",
+        "image_url": "https://static.eldiario.es/clip/aa1f10b9-403d-49f9-9ac2-b5c8e0f65363_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiario.es/canariasahora/Deportes/futbol/cervera-estalla-jugadores-indignados-son-cosas-seguidas_1_12252247.html",
+        "date": "2025-04-27 22:57:15",
+        "sentiment_score": -0.10131856799125671
+    },
+    {
+        "title": "Josep Pedrerol pide la venta de esta figura del Real Madrid (+ Video)",
+        "image_url": "https://pxcdn.meridiano.net/042025/1745794686125.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/josep-pedrerol-pide-la-venta-de-esta-figura-del-real-madrid-video--202542718570",
+        "date": "2025-04-27 22:57:00",
+        "sentiment_score": -0.720523914322257
+    },
+    {
+        "title": "¿Y de qué se quejan los granadinos?",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/04/28/Quejas02-kGFB-U2301589749407VqD-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/granada/quejan-granadinos-20250428004824-nt.html",
+        "date": "2025-04-27 22:48:24",
+        "sentiment_score": -0.01756226271390915
+    },
+    {
+        "title": "El central Andreas Christensen estará otras 3 semanas de baja por una lesión en el sóleo",
+        "image_url": "https://www.infobae.com/resizer/v2/DPN74AG3LJEOVNNLA2G3NAFI2U.jpg?auth=3d58f8f948c7cedbcf4c3fb8baadebcdf351912b990c3485dcacd1997e0c2358&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/28/el-central-andreas-christensen-estara-otras-3-semanas-de-baja-por-una-lesion-en-el-soleo/",
+        "date": "2025-04-27 22:47:22",
+        "sentiment_score": -0.5524533223360777
+    },
+    {
+        "title": "«Me gustan las entrevistas con silencios»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/04/28/risto-kHwC-U2301587597264kaE-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/culturas/tv/gustan-entrevistas-silencios-20250428004322-ntrc.html",
+        "date": "2025-04-27 22:43:24",
+        "sentiment_score": 0.10750364512205124
+    },
+    {
+        "title": "El triple triplete que hace soñar a Laporta: el Barça ha dejado de ser ‘el bufón de Europa’",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/28/culemania/primer-equipo/1003742652642_14490770_1706x960.jpg?contentId=1003742652642",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250427/el-triplete-laporta-el-barca-de-europa/1003742652633_0.html",
+        "date": "2025-04-27 22:41:14",
+        "sentiment_score": 0.769177995622158
+    },
+    {
+        "title": "Parricidas, filicidas y asesinos múltiples definen la «maldad humana» en España",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/04/21/Imagen%20parricida-R07N5auFmzwm8HGB2AiOsSN-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/sociedad/parricidas-filicidas-asesinos-multiples-definen-maldad-humana-20250421003721-ntrc.html",
+        "date": "2025-04-27 22:37:22",
+        "sentiment_score": -0.8937199413776398
+    },
+    {
+        "title": "Despídete del dolor de estómago con esta efectiva infusión natural",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745777782367.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/despidete-del-dolor-de-estomago-con-esta-efectiva-infusion-natural-20254271950",
+        "date": "2025-04-27 23:05:00",
+        "sentiment_score": -0.7939636800438166
+    },
+    {
+        "title": "Proceso para cambiar las placas de vehículos: seis requisitos que pide el INTT",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745632386815.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/proceso-para-cambiar-las-placas-de-vehiculos-seis-requisitos-que-pide-el-intt-20254271900",
+        "date": "2025-04-27 23:00:00",
+        "sentiment_score": -0.4039236232638359
+    },
+    {
+        "title": "Conoce cuáles son los requisitos para recibir una beca y estudiar diseño de modas en Miami",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745775427274.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/conoce-cuales-son-los-requisitos-para-recibir-una-beca-y-estudiar-diseno-de-modas-en-miami-20254271900",
+        "date": "2025-04-27 23:00:00",
+        "sentiment_score": 0.09283827617764473
+    },
+    {
+        "title": "Fallece Jiggly Caliente a los 44 años: fue participante de RuPaul's Drag Race",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745794554651.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/fallece-jiggly-caliente-a-los-44-anos-fue-participante-de-rupaul-s-drag-race-202542718530",
+        "date": "2025-04-27 22:53:00",
+        "sentiment_score": -0.7235608324408531
+    },
+    {
+        "title": "Choque entre dos colectivos y un vehículo particular en Caracas: una persona resultó con diversas lesiones en su cuerpo",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745794183596.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/choque-entre-dos-colectivos-y-un-vehiculo-particular-en-caracas-una-persona-resulto-con-diversas-lesiones-en-su-cuerpo-202542718500",
+        "date": "2025-04-27 22:50:00",
+        "sentiment_score": -0.544008694589138
+    },
+    {
+        "title": "Aerolínea estadounidense se encargará de vuelos de deportación: estos son los detalles del acuerdo con el DHS",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745794113663.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/aerolinea-estadounidense-se-encargara-de-vuelos-de-deportacion-estos-son-los-detalles-del-acuerdo-con-el-dhs-202542718440",
+        "date": "2025-04-27 22:44:00",
+        "sentiment_score": 0.1501936987042427
+    },
+    {
+        "title": "Exintegrante de Wachiturros revela acuerdo publicitario con Lacoste: no puede vestir su marca",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745793392600.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/exintegrante-de-wachiturros-revela-acuerdo-publicitario-con-lacoste-no-puede-vestir-su-marca-202542718320",
+        "date": "2025-04-27 22:32:00",
+        "sentiment_score": -0.315857470035553
+    },
+    {
+        "title": "Lele Pons revela su estado de salud tras resbalarse en el gender reveal party de su bebé",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745792558514.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/lele-pons-revela-su-estado-de-salud-tras-resbalarse-en-el-gender-reveal-party-de-su-bebe-202542718220",
+        "date": "2025-04-27 22:22:00",
+        "sentiment_score": -0.7962444350123405
+    },
+    {
+        "title": "Empleos Estados Unidos: los trabajos más seguros ante la posible recesión económica",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745617299799.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/empleos-estados-unidos-los-trabajos-mas-seguros-ante-la-posible-recesion-economica-20254271800",
+        "date": "2025-04-27 22:00:00",
+        "sentiment_score": 0.35667336359620094
+    },
+    {
+        "title": "Angelique Boyer protagonizará el esperado regreso de \"La Dueña\"",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745790682821.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/angelique-boyer-protagonizara-el-esperado-regreso-de-la-duena--202542717460",
+        "date": "2025-04-27 21:46:00",
+        "sentiment_score": 0.3982676938176155
     }
 ];
