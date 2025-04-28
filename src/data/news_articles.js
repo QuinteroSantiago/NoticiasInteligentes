@@ -180,26 +180,6 @@ export default [
         "sentiment_score": -0.0804845541715622
     },
     {
-        "title": "El Gobierno lanza un perte para construir viviendas en serie a un ritmo de 15.000 al año",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/24/PedroSnchezEFE-R1OOuh0RLKmqGSwcqtn5ebI-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-lanza-perte-construir-viviendas-serie-ritmo-20250424151313-nt.html",
-        "date": "2025-04-24 13:14:19",
-        "sentiment_score": 0.03104981780052185
-    },
-    {
-        "title": "Problemas serios de matemáticas",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/04/23/chupitos1-kilC--170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/berta-gonzalez-de-vega-problemas-serios-matematicas-20250424151656-nt.html",
-        "date": "2025-04-24 12:09:11",
-        "sentiment_score": -0.1227036714553833
-    },
-    {
         "title": "Richard Gere y Ralph Fiennes participan en el BCN Film Fest",
         "image_url": "https://imagenes.elpais.com/resizer/v2/IEP2JE2P3NAPZBC2CHDYGZA6JE.jpg?auth=7fc0c5719a53c12050f076274df0703b62e4697189b6067042cc465411ffba74&width=1200",
         "tags": [
@@ -6966,5 +6946,355 @@ export default [
         "link": "https://2001online.com/farandula/angelique-boyer-protagonizara-el-esperado-regreso-de-la-duena--202542717460",
         "date": "2025-04-27 21:46:00",
         "sentiment_score": 0.3982676938176155
+    },
+    {
+        "title": "Junts confirma que negocia in extremis el decreto 'ómnibus' con el Gobierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/junts-confirma-que-negocia-in-extremis-el-decreto-omnibus-con-el-gobierno/",
+        "date": "2025-04-28 02:04:10",
+        "sentiment_score": -0.578566424548626
+    },
+    {
+        "title": "Barbón critica la \"política tacticista\" del PP con el decreto 'ómnibus' y le pide que deje de \"votar contra Asturias\"",
+        "image_url": "https://www.infobae.com/resizer/v2/WYEQOAW72ZBT3DCF3LCFRD6EWI.jpg?auth=488ff082e7a1dd5b37998d939840a4862fcad683ea89c905f5589275738e4176&height=1301&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/barbon-critica-la-politica-tacticista-del-pp-con-el-decreto-omnibus-y-le-pide-que-deje-de-votar-contra-asturias/",
+        "date": "2025-04-28 02:03:56",
+        "sentiment_score": -0.8929614005610347
+    },
+    {
+        "title": "El Consell exige a Morant que \"pelee\" por las ayudas a la dana: \"Que sea aliada de los afectados y no rehén de Sánchez\"",
+        "image_url": "https://www.infobae.com/resizer/v2/TBA5ADWUTBARBIOJG3H46Z4DMQ.jpg?auth=46f61c9eb5241320fd31feee34ed9672dbd5f1842436e8d3fdf63e6530f52733&height=1302&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/el-consell-exige-a-morant-que-pelee-por-las-ayudas-a-la-dana-que-sea-aliada-de-los-afectados-y-no-rehen-de-sanchez/",
+        "date": "2025-04-28 02:03:40",
+        "sentiment_score": -0.756312033161521
+    },
+    {
+        "title": "Las pérdidas económicas por las inundaciones de Valencia suman 15.400 millones, según AON",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/las-perdidas-economicas-por-las-inundaciones-de-valencia-suman-15400-millones-segun-aon/",
+        "date": "2025-04-28 01:48:35",
+        "sentiment_score": -0.9091454306617379
+    },
+    {
+        "title": "Red Eléctrica refuerza la red de transporte en Madrid tras ampliar cuatro subestaciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/red-electrica-refuerza-la-red-de-transporte-en-madrid-tras-ampliar-cuatro-subestaciones/",
+        "date": "2025-04-28 01:48:14",
+        "sentiment_score": 0.6902858093380928
+    },
+    {
+        "title": "Telefónica lanza una plataforma de IA Generativa para crear asistentes virtuales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/telefonica-lanza-una-plataforma-de-ia-generativa-para-crear-asistentes-virtuales/",
+        "date": "2025-04-28 01:47:59",
+        "sentiment_score": 0.7498566191643476
+    },
+    {
+        "title": "La plantilla de Astilleros Balenciaga dice que hay dos meses para salvar la empresa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/la-plantilla-de-astilleros-balenciaga-dice-que-hay-dos-meses-para-salvar-la-empresa/",
+        "date": "2025-04-28 01:47:45",
+        "sentiment_score": -0.6911543905735016
+    },
+    {
+        "title": "La ACB desvela el calendario y los horarios de la Minicopa Endesa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/la-acb-desvela-el-calendario-y-los-horarios-de-la-minicopa-endesa/",
+        "date": "2025-04-28 01:47:31",
+        "sentiment_score": 0.0974530279636383
+    },
+    {
+        "title": "Le Senne se remite a los \"tiempos\" del procedimiento judicial y apunta que \"no tomará ninguna decisión\"",
+        "image_url": "https://www.infobae.com/resizer/v2/5YOXQS67AFA75PNRK7BAVSCHVQ.jpg?auth=8dfea2a048707f089f483f124eff4afc3ec47a111103b6dadc684f4a2768902b&height=1102&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/le-senne-se-remite-a-los-tiempos-del-procedimiento-judicial-y-apunta-que-no-tomara-ninguna-decision/",
+        "date": "2025-04-28 01:47:16",
+        "sentiment_score": -0.050233229994773865
+    },
+    {
+        "title": "Javi Rodríguez: \"El punto es bueno, fuera de casa nos estaba costando mucho\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/javi-rodriguez-el-punto-es-bueno-fuera-de-casa-nos-estaba-costando-mucho/",
+        "date": "2025-04-28 01:34:18",
+        "sentiment_score": 0.7890116944909096
+    },
+    {
+        "title": "Agenda: qué hacer en Asturias hoy lunes 28 de abril de 2025",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2b5fdf3-f472-498e-a5d2-d3304ec89425_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/sociedad/2025/04/28/agenda-asturias-hoy-lunes-28-116801746.html",
+        "date": "2025-04-28 02:10:00",
+        "sentiment_score": 0.048380255699157715
+    },
+    {
+        "title": "Carlo Ancelotti se condena a sí mismo, y la final de Copa lo confirma",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/13/2025031305240337282.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/carlo-ancelotti-experto-decisiones-que-nadie-entiende/20250428040153342153.html",
+        "date": "2025-04-28 02:01:53",
+        "sentiment_score": -0.007825493812561035
+    },
+    {
+        "title": "Vox y el cine de Berlanga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2025/04/28/vox-cine-berlanga-116796876.html",
+        "date": "2025-04-28 02:00:56",
+        "sentiment_score": -0.03448891639709473
+    },
+    {
+        "title": "El Ceuta se acerca a la gloria del ascenso",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/04/aficion-ad-ceuta-editorial-750x500.jpg?v=1745787398",
+        "tags": [
+            "editorial"
+        ],
+        "link": "https://elfarodeceuta.es/ceuta-acerca-gloria-ascenso/",
+        "date": "2025-04-28 02:00:39",
+        "sentiment_score": 0.8116373717784882
+    },
+    {
+        "title": "Los mejores memes de la victoria de Barcelona ante Real Madrid en Copa del Rey (+Video)",
+        "image_url": "https://pxcdn.meridiano.net/042025/1745805201182.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/los-mejores-memes-de-la-victoria-de-barcelona-ante-real-madrid-en-copa-del-rey-video--202542721550",
+        "date": "2025-04-28 01:55:00",
+        "sentiment_score": 0.8323364779353142
+    },
+    {
+        "title": "Carin León se prepara para conquistar a Bogotá con un concierto en El Campín: “Es mi segunda casa”",
+        "image_url": "https://www.infobae.com/resizer/v2/7YJICZLJMVDRBIHYUGQWPWW34E.jpg?auth=70bafe27a56211950a759cecdafd91fd4663a63c4de9f934a83242e30f3bfa49&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/04/28/carin-leon-se-prepara-para-conquistar-a-bogota-con-un-concierto-en-el-campin-es-mi-segunda-casa/",
+        "date": "2025-04-28 01:47:21",
+        "sentiment_score": 0.8419599030166864
+    },
+    {
+        "title": "El reparto de los menores migrantes solos, a examen",
+        "image_url": "https://static.laregion.es/clip/3d1cb1e5-2f32-425a-a35b-496dd94a3b0f_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.atlantico.net/espana/reparto-menores-migrantes-solos-examen_1_20250428-3504396.html",
+        "date": "2025-04-28 01:30:05",
+        "sentiment_score": -0.07970871031284332
+    },
+    {
+        "title": "E. Toral, autor leonés ‘¿in partibus infidelium?’",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "tribunas"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/tribunas/250428/2005517/e-toral-autor-leones-in-partibus-infidelium.html",
+        "date": "2025-04-28 01:30:00",
+        "sentiment_score": -0.1321103796362877
+    },
+    {
+        "title": "El Gobierno desvela el reparto de menores entre tensiones con el PP",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/04/27/680e5b0f6b537.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/250428/2006067/gobierno-desvela-reparto-menores-tensiones-pp.html",
+        "date": "2025-04-28 01:30:00",
+        "sentiment_score": 0.020895235240459442
+    },
+    {
+        "title": "Zonas de Bajas Emisiones en España: los cambios que llegan ahora en las principales ciudades",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/04/11/senal-zona-bajas-emsiones-madrid.webp",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/motor/actualidad/zonas-bajas-emisiones-espana-cambios-que-llegan-ahora-principales-ciudades-5699923/",
+        "date": "2025-04-28 02:04:50",
+        "sentiment_score": 0.017946865409612656
+    },
+    {
+        "title": "José Ángel Saiz: \"Más que enterrar a un jefe de Estado, hemos despedido a un pastor\"",
+        "image_url": "https://static.grupojoly.com/clip/f1c411c7-1ca3-4afd-b78c-15fdfbdc5080_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodealmeria.es/sociedad/jose-angel-saiz-enterrar-jefe_0_2003823822.html",
+        "date": "2025-04-28 02:00:47",
+        "sentiment_score": -0.4642670005559921
+    },
+    {
+        "title": "Colapso en la hospedería de Son Espases para familiares de enfermos por la alta demanda",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3283541.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/04/28/2375319/alta-demanda-colapsa-hospederia-son-espases-para-familiares-enfermos.html",
+        "date": "2025-04-28 02:00:01",
+        "sentiment_score": 0.07151351869106293
+    },
+    {
+        "title": "Despidos 'masivos' en Freixenet mientras su matriz bate récord de facturación",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/freixenet2_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/despidos-masivos-freixenet-mientras-matriz-bate-record-facturacion",
+        "date": "2025-04-28 02:00:00",
+        "sentiment_score": -0.46384821832180023
+    },
+    {
+        "title": "Neymar se despide del Al-Hilal: \"Lo di todo por jugar\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/28/neymar-se-despide-del-al-hilal-lo-di-todo-por-jugar/",
+        "date": "2025-04-28 01:49:43",
+        "sentiment_score": 0.8401379901915789
+    },
+    {
+        "title": "Inter Miami sin Messi pierde primer partido de la temporada ante FC Dallas que remonta 4-3",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/04/MLS_DALLAS_INTER_MIAMI_01046.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/04/27/inter-miami-sin-messi-pierde-primer-partido-de-la-temporada-ante-fc-dallas-que-remonta-4-3/",
+        "date": "2025-04-28 01:48:56",
+        "sentiment_score": -0.4361957758665085
+    },
+    {
+        "title": "Conoce los recursos disponibles para presentar el examen de conducir en Illinois: todos son gratuitos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745805959589.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/conoce-los-recursos-disponibles-para-presentar-el-examen-de-conducir-en-illinois-todos-son-gratuitos-20254272220",
+        "date": "2025-04-28 02:02:00",
+        "sentiment_score": 0.18858337588608265
+    },
+    {
+        "title": "Maluma organiza un festival gratuito en Medellín: Piso 21, Marc Anthony y más invitados",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745805948773.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/maluma-organiza-un-festival-gratuito-en-medellin-piso-21-marc-anthony-y-mas-invitados-20254272220",
+        "date": "2025-04-28 02:02:00",
+        "sentiment_score": 0.09392224252223969
+    },
+    {
+        "title": "Predicciones de la semana del 28 de abril al 4 de mayo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-28-de-abril-al-4-de-mayo--20254272200",
+        "date": "2025-04-28 02:00:00",
+        "sentiment_score": 0.014652285724878311
+    },
+    {
+        "title": "Consulado de Estados Unidos en México: negarán visas a turistas que quieran dar a luz",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745783088862.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/consulado-de-estados-unidos-en-mexico-negaran-visas-a-turistas-que-quieran-dar-a-luz-20254272200",
+        "date": "2025-04-28 02:00:00",
+        "sentiment_score": 0.001058816909790039
+    },
+    {
+        "title": "Paso a paso para preparar una crema natural para el rostro",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745801330003.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/paso-a-paso-para-preparar-una-crema-natural-para-el-rostro-202542721200",
+        "date": "2025-04-28 01:20:00",
+        "sentiment_score": -0.7426477074623108
+    },
+    {
+        "title": "Impedimento visual: esto debes saber para limpiar tus lentes correctamente",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745514835172.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/impedimento-visual-esto-debes-saber-para-limpiar-tus-lentes-correctamente-202542721200",
+        "date": "2025-04-28 01:20:00",
+        "sentiment_score": -0.4425256550312042
+    },
+    {
+        "title": "⁠Green Day: Hollywood rinde homenaje a la banda con una estrella en el paseo de la fama",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745804224749.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/green-day-hollywood-rinde-homenaje-a-la-banda-con-una-estrella-en-el-paseo-de-la-fama-202542721100",
+        "date": "2025-04-28 01:10:00",
+        "sentiment_score": 0.22080879285931587
+    },
+    {
+        "title": "Este documento te puede ayudar a viajar sin presentar Real ID: precio y beneficios",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745802450071.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/este-documento-te-puede-ayudar-a-viajar-sin-presentar-real-id-precio-y-beneficios-20254272120",
+        "date": "2025-04-28 01:02:00",
+        "sentiment_score": -0.389006320387125
+    },
+    {
+        "title": "Disidencia de las Farc asesina a nueve militares colombianos: otros fueron secuestrados",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745801851181.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/disidencia-de-las-farc-asesina-a-nueve-militares-colombianos-otros-fueron-secuestrados-20254272100",
+        "date": "2025-04-28 01:00:00",
+        "sentiment_score": -0.48855186998844147
+    },
+    {
+        "title": "Saime: conozca la ubicación de las unidades móviles de cedulación este lunes 28 de abril",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745771302599.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/saime-conozca-la-ubicacion-de-las-unidades-moviles-de-cedulacion-este-lunes-28-de-abril-20254272100",
+        "date": "2025-04-28 01:00:00",
+        "sentiment_score": 0.04565205052495003
     }
 ];
