@@ -1,270 +1,5 @@
 export default [
     {
-        "title": "España lidera la investigación europea de obesidad con 22 ensayos clínicos en marcha",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/25/espana-lidera-la-investigacion-europea-de-obesidad-con-22-ensayos-clinicos-en-marcha/",
-        "date": "2025-04-25 06:33:47",
-        "sentiment_score": 0.6626893393695354
-    },
-    {
-        "title": "Investigan los indicios de violencia en el cadáver del joven de Ciudad Rodrigo (Salamanca)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/25/investigan-los-indicios-de-violencia-en-el-cadaver-del-joven-de-ciudad-rodrigo-salamanca/",
-        "date": "2025-04-25 06:33:30",
-        "sentiment_score": -0.7338116932660341
-    },
-    {
-        "title": "Armengol apuesta por \"defender la democracia\" ante \"élites tecnológicas que van a hacer caja con gobiernos democráticos\"",
-        "image_url": "https://www.infobae.com/resizer/v2/PQ2PA4KAN5C3TLATLDE44KEDUQ.jpg?auth=40a3257bdb573915d7ecce078f7588c098a4dea29eeaf8f535c9ab99f41a5ce4&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/25/armengol-apuesta-por-defender-la-democracia-ante-elites-tecnologicas-que-van-a-hacer-caja-con-gobiernos-democraticos/",
-        "date": "2025-04-25 06:31:57",
-        "sentiment_score": 0.19157994538545609
-    },
-    {
-        "title": "¿Vives en Madrid o Barcelona? Aquí está el precio de la gasolina del 25 de abril",
-        "image_url": "https://www.infobae.com/resizer/v2/BTWMEJHJGRDQ5LXBHNDWE275WU.jpg?auth=de0ee742925f834b39feb7c2f12efba64666f3852e06dfaafe0cdae2c6068570&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/25/vives-en-madrid-o-barcelona-aqui-esta-el-precio-de-la-gasolina-del-25-de-abril/",
-        "date": "2025-04-25 06:30:43",
-        "sentiment_score": -0.046607084572315216
-    },
-    {
-        "title": "La Comunidad de Madrid exige al Gobierno un marco normativo que permita agilizar las desokupaciones",
-        "image_url": "https://www.infobae.com/resizer/v2/F7RLLQ3YDBCZTOYXRDJVTROMUM.jpg?auth=dbe156f6d31901c327acca98d43793831d28ab6d295ed4c75fe30baea00843a6&height=1440&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/25/la-comunidad-de-madrid-exige-al-gobierno-un-marco-normativo-que-permita-agilizar-las-desokupaciones/",
-        "date": "2025-04-25 06:19:08",
-        "sentiment_score": -0.3121730238199234
-    },
-    {
-        "title": "Fenadismer: 30.000 transportistas dejarán de tributar por módulos sin un nuevo decreto",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/25/fenadismer-30000-transportistas-dejaran-de-tributar-por-modulos-sin-un-nuevo-decreto/",
-        "date": "2025-04-25 06:18:52",
-        "sentiment_score": -0.7933573052287102
-    },
-    {
-        "title": "Morant acusa a Mazón de ir \"tarde\" y cree que \"retruca\" al Gobierno porque \"le ha tomado la delantera\" en reconstrucción",
-        "image_url": "https://www.infobae.com/resizer/v2/4GGUEOPVRVCDHIRDHP77BITJKY.jpg?auth=68c23988c785e566ef5c0ab7a54e9b358a0bcde4af284547810c8dcd6ca6dead&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/25/morant-acusa-a-mazon-de-ir-tarde-y-cree-que-retruca-al-gobierno-porque-le-ha-tomado-la-delantera-en-reconstruccion/",
-        "date": "2025-04-25 06:18:38",
-        "sentiment_score": -0.3947261869907379
-    },
-    {
-        "title": "Arrasate sienta a Muriqi y Pellegrini desplaza a Bartra al lateral",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/25/arrasate-sienta-a-muriqi-y-pellegrini-desplaza-a-bartra-al-lateral/",
-        "date": "2025-04-25 06:18:23",
-        "sentiment_score": 0.17416687309741974
-    },
-    {
-        "title": "La árbitra Olatz Olmedo: \"No somos extraterrestres y queremos hacer nuestro trabajo bien\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/25/la-arbitra-olatz-olmedo-no-somos-extraterrestres-y-queremos-hacer-nuestro-trabajo-bien/",
-        "date": "2025-04-25 06:17:53",
-        "sentiment_score": 0.6812799647450447
-    },
-    {
-        "title": "Los futuros médicos se examinan hoy en busca de una plaza en la Sanidad pública",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/25/los-futuros-medicos-se-examinan-hoy-en-busca-de-una-plaza-en-la-sanidad-publica/",
-        "date": "2025-04-25 06:17:24",
-        "sentiment_score": 0.20632940530776978
-    },
-    {
-        "title": "España ha adjudicado 46 contratos por más de 1.000 millones a la industria militar israelí desde el inicio de la guerra de Gaza",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O73JPVYJDRCKRERSGN6K7NFUYY.jpg?auth=55148594363fb48c39a3357feeccd315eb5bac8c7c27611b0500aedb699112bd&width=1200",
-        "tags": [
-            "israel",
-            "guerra",
-            "españa",
-            "militares carrera",
-            "industria armamentística"
-        ],
-        "link": "https://elpais.com/espana/2025-04-25/espana-ha-adjudicado-46-contratos-por-mas-de-1000-millones-a-la-industria-militar-israeli-desde-el-inicio-de-la-guerra-de-gaza.html",
-        "date": "2025-04-25 06:27:19",
-        "sentiment_score": 0.007054496556520462
-    },
-    {
-        "title": "5 planes gratis del 25 de abril al 2 de mayo: feria del libro viejo y aniversario de la Casa de Campo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IQWU7AR52BBPHNLWANQIXDTKZ4.jpg?auth=e650b42120f72dbb8f7970aa86f7a9fcb591b1d119d196ed201751abf9fc32dd&width=1200",
-        "tags": [
-            "madrid",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-04-25/5-planes-gratis-del-25-de-abril-al-2-de-mayo-feria-del-libro-viejo-y-aniversario-de-la-casa-de-campo.html",
-        "date": "2025-04-25 05:25:21",
-        "sentiment_score": 0.30263336561620235
-    },
-    {
-        "title": "Una afectada por la sentencia que avala la venta de su casa a un fondo buitre: “Me han quitado la dignidad”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FTKAP6HLMFBMBGVHCL6O3L2BTQ.jpg?auth=fec76de32bf216cc84c5644c5c27ee5a67d885d7edef8961563bfb61b7a71e08&width=1200",
-        "tags": [
-            "sentencias",
-            "comunidad de madrid",
-            "tribunal supremo",
-            "viviendas alquiler",
-            "fondos buitre",
-            "madrid",
-            "fidere",
-            "blackstone",
-            "ana botella",
-            "vivienda"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-04-25/una-afectada-por-la-sentencia-que-avala-la-venta-de-su-casa-a-un-fondo-buitre-me-han-quitado-la-dignidad.html",
-        "date": "2025-04-25 05:17:20",
-        "sentiment_score": -0.6100431382656097
-    },
-    {
-        "title": "En directo | Más de 128.000 personas han visitado ya la capilla ardiente del papa Francisco",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7fc7198-899d-4678-9f33-71b8e367e8cc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "papa francisco,el vaticano,iglesia católica"
-        ],
-        "link": "https://www.superdeporte.es/ocio/tv/2025/04/25/muere-papa-francisco-reacciones-proximos-116570785.html",
-        "date": "2025-04-25 06:34:00",
-        "sentiment_score": -0.5181431621313095
-    },
-    {
-        "title": "Sánchez Llibre contra Illa más la \"deconstrucción nacional\"",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/05/06/business/853174766_12886163_1706x960.jpg?contentId=853174766",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20250425/sanchez-llibre-contra-illa-mas-deconstruccion-nacional/1003742650414_0.html",
-        "date": "2025-04-25 06:33:56",
-        "sentiment_score": -0.9420445384457707
-    },
-    {
-        "title": "José Luis García, sexólogo: “O el porno o los padres. Los padres deben decidir si van a mantener el silencio”",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250425083252_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-jose-luis-garcia-sexologo-porno-padres-padres-deben-decidir-si-van-mantener-silencio-20250425083252.html",
-        "date": "2025-04-25 06:32:52",
-        "sentiment_score": -0.7699386980384588
-    },
-    {
-        "title": "Fallece a los 73 años Drazen Dalipagic, el máximo anotador del baloncesto yugoslavo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/01/25/fallece-a-los-73-anos-drazen-dalipagic-el-maximo-anotador-del-baloncesto-yugoslavo/",
-        "date": "2025-04-25 06:32:27",
-        "sentiment_score": 0.8885431624948978
-    },
-    {
-        "title": "Cata Coll: \"Somos conscientes de que el Real Madrid cada vez está más cerca\"",
-        "image_url": "https://www.infobae.com/resizer/v2/GQZBOLAY6JAJ7CZK35VCKOJEUM.jpg?auth=a97b7b5fe15a0a74b1428d4765e013755238462258cbe18a3d912180b9816a4b&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/01/25/cata-coll-somos-conscientes-de-que-el-real-madrid-cada-vez-esta-mas-cerca/",
-        "date": "2025-04-25 06:32:13",
-        "sentiment_score": 0.6604218818247318
-    },
-    {
-        "title": "Olmo o Fermín despiertan la duda en el once del técnico culé",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/437cbddf-3b94-4e4d-b523473cf37438f1.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/zf23230f2-3319-4d76-b522c36a018a2c45/202504/olmo-o-fermin-despiertan-la-duda-en-el-once-del-tecnico-cule",
-        "date": "2025-04-25 06:27:14",
-        "sentiment_score": -0.09479738771915436
-    },
-    {
-        "title": "Mbappé busca redimirse",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/ee601295-89eb-40cf-83b0c32ad9f63655.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/zbd105349-df1d-454a-a9fe2a9b212bd905/202504/mbappe-busca-redimirse",
-        "date": "2025-04-25 06:24:48",
-        "sentiment_score": 0.47651080042123795
-    },
-    {
-        "title": "Una infancia ‘apantallada’",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f05a654f-caad-492f-a82a-0e0830a086cf_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/actualidad/sociedad/2025/04/25/infancia-apantallada-9557375.html",
-        "date": "2025-04-25 06:18:18",
-        "sentiment_score": -0.23287666589021683
-    },
-    {
-        "title": "Fito y Fitipaldis lleva su nueva gira al BEC los próximos 9 y 10 de enero",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7f62700f-ddf1-4134-b446-dcc16c9f2867_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/cultura/2025/04/25/fito-fitipaldis-lleva-nueva-gira-9557371.html",
-        "date": "2025-04-25 06:32:58",
-        "sentiment_score": 0.10837213322520256
-    },
-    {
-        "title": "Baró (ERC Barcelona) aboga por acabar la \"confrontación gratuita\" y preparar las municipales de 2027",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250425083147_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-baro-erc-barcelona-aboga-acabar-confrontacion-gratuita-preparar-municipales-2027-20250425083147.html",
-        "date": "2025-04-25 06:31:47",
-        "sentiment_score": -0.25764980912208557
-    },
-    {
-        "title": "\"¿Cómo cantas en una canción después de Roger Mas?\"",
-        "image_url": "https://static1.ara.cat/clip/d40ca2d6-6830-49fb-8ed7-c90122b92518_16-9-aspect-ratio_default_0_x2771y0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/cultura/musica/cantas-cancion-despues-roger_128_5357843.html",
-        "date": "2025-04-25 06:29:05",
-        "sentiment_score": -0.07461103796958923
-    },
-    {
-        "title": "Djokovic, al rescate de un Mutua Madrid Open huérfano de Alcaraz y Nadal",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/33dcc644-d71f-4dc6-a3e7-29e2ce9457b3_16-9-aspect-ratio_default_1370305.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/04/25/djokovic-mutua-madrid-open-alcaraz-nadal-tenis-116714479.html",
-        "date": "2025-04-25 06:18:12",
-        "sentiment_score": 0.2944432348012924
-    },
-    {
         "title": "El Banco Nacional de Suiza teme una desaceleración económica del país por guerra comercial",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -6795,5 +6530,608 @@ export default [
         "link": "https://2001online.com/farandula/anibal-hamilton-y-luis-silva-se-unen-en-homenaje-al-alma-criolla-venezuela-tiene-un-nuevo-ritmo-electronico-202542810360",
         "date": "2025-04-28 14:36:00",
         "sentiment_score": 0.09332229197025299
+    },
+    {
+        "title": "Abascal apoya a Meloni investigada por la Fiscalía por liberación de libio buscado por CPI",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/abascal-apoya-a-meloni-investigada-por-la-fiscalia-por-liberacion-de-libio-buscado-por-cpi/",
+        "date": "2025-04-28 22:18:36",
+        "sentiment_score": 0.12348110973834991
+    },
+    {
+        "title": "Una anciana de 91 años intoxicada muy grave en un incendio en Parla (Madrid)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/28/una-anciana-de-91-anos-intoxicada-muy-grave-en-un-incendio-en-parla-madrid/",
+        "date": "2025-04-28 22:18:19",
+        "sentiment_score": -0.8247904647141695
+    },
+    {
+        "title": "Zarzuela distribuye cinco fotografías de la infanta Sofía en su 18 aniversario",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/28/zarzuela-distribuye-cinco-fotografias-de-la-infanta-sofia-en-su-18-aniversario/",
+        "date": "2025-04-28 22:17:49",
+        "sentiment_score": 0.047774091362953186
+    },
+    {
+        "title": "El rey presidirá este martes el Consejo de Seguridad Nacional",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/28/el-rey-presidira-este-martes-el-consejo-de-seguridad-nacional/",
+        "date": "2025-04-28 22:17:33",
+        "sentiment_score": 0.06466128677129745
+    },
+    {
+        "title": "Los centros educativos de La Rioja abrirán este martes en horario habitual",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/28/los-centros-educativos-de-la-rioja-abriran-este-martes-en-horario-habitual/",
+        "date": "2025-04-28 22:17:16",
+        "sentiment_score": 0.14754126593470573
+    },
+    {
+        "title": "Marruecos contribuye a la recuperación eléctrica en España mediante la interconexión submarina",
+        "image_url": "https://www.infobae.com/resizer/v2/EXW56LKMFRBHPEK34PZUMOWQYM.jpg?auth=cd10f16618f19609c5abc366fe5ae9f6907fafc5ca07fec1aef894d0955b44ce&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/28/marruecos-contribuye-a-la-recuperacion-electrica-en-espana-mediante-la-interconexion-submarina/",
+        "date": "2025-04-28 22:17:02",
+        "sentiment_score": 0.6474182792007923
+    },
+    {
+        "title": "España y Portugal se quedan sin electricidad: esto es lo que sabemos",
+        "image_url": "https://www.infobae.com/resizer/v2/FGCXGOJCOVH5JE2CMU74RBXD6M.png?auth=ccf57d6d4515c62d62fb4d9a922538938667ef2f8f8be4a85cf0f5259ee4bcdc&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/the-new-york-times/2025/04/28/espana-y-portugal-se-quedan-sin-electricidad-esto-es-lo-que-sabemos/",
+        "date": "2025-04-28 22:15:15",
+        "sentiment_score": -0.01523495465517044
+    },
+    {
+        "title": "“No podía ponerme en contacto con mis hijos”: el apagón deja incomunicados a millones de personas en toda España durante 10 horas",
+        "image_url": "https://www.infobae.com/resizer/v2/LYKV6FR5SZF2TDHGL56O2TMOTQ.png?auth=38887ff942fc6be8d497a2a3193b561dfb2fe2393efb3c9a91b40797d949764a&height=739&smart=true&width=1374",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/28/no-podia-ponerme-en-contacto-con-mis-hijos-el-apagon-deja-incomunicados-a-millones-de-personas-en-toda-espana-durante-10-horas/",
+        "date": "2025-04-28 22:11:23",
+        "sentiment_score": -0.6093611903488636
+    },
+    {
+        "title": "Las autoridades advierten sobre una nueva estafa tras el apagón: “Confía únicamente en fuentes oficiales”",
+        "image_url": "https://www.infobae.com/resizer/v2/RIBFEXQVSFGRBM2RSCM3PTLSSU.jpg?auth=7a31b51f6ccf1c47ee1897ad2650622661e36d2286ded32391031a9f74e9d951&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/04/28/las-autoridades-advierten-sobre-una-nueva-estafa-tras-el-apagon-confia-unicamente-en-fuentes-oficiales/",
+        "date": "2025-04-28 22:07:02",
+        "sentiment_score": 0.3436104878783226
+    },
+    {
+        "title": "Belarra pide más soberanía y fortalecer el Estado para proteger a la gente ante emergencias como el apagón",
+        "image_url": "https://www.infobae.com/resizer/v2/QSUJRC3YYNBFDCIOAEHHOKENZU.jpg?auth=ab93c9c727fe8237370fb63698245ee8b93359340f5cc5820c58f28924ac006c&height=1279&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/04/28/belarra-pide-mas-soberania-y-fortalecer-el-estado-para-proteger-a-la-gente-ante-emergencias-como-el-apagon/",
+        "date": "2025-04-28 22:01:46",
+        "sentiment_score": -0.19210369884967804
+    },
+    {
+        "title": "Sánchez, de apagón",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/04/27/moneda-euros-papa-vaticano-kZlE--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ana-sanchez-sanchez-apagon-20250429212121-nt.html",
+        "date": "2025-04-28 19:22:59",
+        "sentiment_score": -0.14083071053028107
+    },
+    {
+        "title": "Un camino hacia la perfección humana",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/04/29/1495306961-RAV9ofKDWZHqinH1oPgpbOJ-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/maria-de-leon-castillejo-camino-perfeccion-humana-20250429210751-nt.html",
+        "date": "2025-04-28 19:07:52",
+        "sentiment_score": -0.0018385052680969238
+    },
+    {
+        "title": "Silencio y apagón",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/04/24/fotonoticia_20221207171552_690-kYLE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-silencio-apagon-20250429205856-nt.html",
+        "date": "2025-04-28 18:59:04",
+        "sentiment_score": -0.7870198525488377
+    },
+    {
+        "title": "El desprecio",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/04/27/moneda-euros-papa-vaticano-kZlE--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ramon-palomar-desprecio-20250429205810-nt.html",
+        "date": "2025-04-28 18:58:18",
+        "sentiment_score": -0.23733173310756683
+    },
+    {
+        "title": "¿Y si don Pelayo era mujer?",
+        "image_url": "https://s3.ppllstatics.com/laverdad/www/multimedia/2025/04/14/ninabautizo-kOuC--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/isabel-san-sebastian-don-pelayo-era-mujer-20250429205750-nt.html",
+        "date": "2025-04-28 18:58:04",
+        "sentiment_score": -0.13472388684749603
+    },
+    {
+        "title": "Nosotros pagamos",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/04/27/terrelu-ka0E--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/cartas-al-director-pagamos-20250428204635-nt.html",
+        "date": "2025-04-28 18:57:41",
+        "sentiment_score": -0.20815160870552063
+    },
+    {
+        "title": "A ver, niño, ¿qué es un autócrata para ti?",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/04/27/terrelu-ka0E--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-lillo-ver-nino-autocrata-20250429205659-nt.html",
+        "date": "2025-04-28 18:57:09",
+        "sentiment_score": -0.05703732371330261
+    },
+    {
+        "title": "A los toros a oscuras",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/04/24/fotonoticia_20221207171552_690-kYLE--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alberto-garcia-reyes-toros-oscuras-20250429190300-nt.html",
+        "date": "2025-04-28 18:56:55",
+        "sentiment_score": -0.135221466422081
+    },
+    {
+        "title": "Black out",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/04/27/moneda-euros-papa-vaticano-kZlE--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-black-out-20250429205633-nt.html",
+        "date": "2025-04-28 18:56:42",
+        "sentiment_score": -0.1878041923046112
+    },
+    {
+        "title": "Literatura europea",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/04/29/image0-R1OJIpdz0a7jOvy4wXLSwFM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jorge-urrutia-literatura-europea-20250429173327-nt.html",
+        "date": "2025-04-28 18:56:21",
+        "sentiment_score": -0.11534218490123749
+    },
+    {
+        "title": "Los colegios públicos y concertados de Madrid sí abrirán mañana, pero sin actividad lectiva",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GRPZZETSZ5B4TMX4MPPZHXGCRQ.jpeg?auth=f3d94d59eb47a800e8c3b37911409b1878707a2e5cec4476fb68dbf5d02763ee&width=1200",
+        "tags": [
+            "apagones luz",
+            "comunidad de madrid",
+            "gobierno autonómico",
+            "educación",
+            "colegios",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-04-28/los-colegios-publicos-y-concertados-de-madrid-si-abriran-manana-pero-sin-actividad-lectiva.html",
+        "date": "2025-04-28 20:21:55",
+        "sentiment_score": -0.0315374955534935
+    },
+    {
+        "title": "Illa afirma que el Govern trabaja para recobrar la normalidad al 100% en las próximas horas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JE25RTE3XBF5TNSREH4Y5B5MBI.jpg?auth=fbaf8a82b6918a470acb624a02bbff60d75c6a4893dc0481a28c084b8568b754&width=1200",
+        "tags": [
+            "apagones luz",
+            "mossos d'esquadra",
+            "cataluña",
+            "salvador illa"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-28/illa-afirma-que-el-govern-trabaja-para-recobrar-la-normalidad-al-100-en-las-proximas-horas.html",
+        "date": "2025-04-28 20:14:27",
+        "sentiment_score": 0.2398127019405365
+    },
+    {
+        "title": "El plan del Gobierno califica de “catastróficas” crisis de electricidad como la del lunes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HNBHV2YWB6VJMZK3BC45K6I5XE.jpg?auth=eaf1303c33b349cf92706b2a5eed5b51f6a1363e93fdd16dd4dc189c1675b98b&width=1200",
+        "tags": [
+            "suministro energía",
+            "españa",
+            "suministro electricidad",
+            "gobierno",
+            "energía",
+            "apagones luz",
+            "infraestructuras eléctricas",
+            "red eléctrica",
+            "energía eléctrica"
+        ],
+        "link": "https://elpais.com/espana/2025-04-28/el-plan-del-gobierno-califica-de-catastroficas-crisis-de-electricidad-como-la-del-lunes.html",
+        "date": "2025-04-28 19:38:06",
+        "sentiment_score": -0.6648963857442141
+    },
+    {
+        "title": "En la sala de mando del metro de Barcelona: “Nunca se había visto todas las líneas en stop”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2EHS6DZ2JRDHPH3EPECRT7BM6Q.jpeg?auth=295053fd9a8bbfe465efb031307c214fc2add183ae94477c53f326ac030a96b1&width=1200",
+        "tags": [
+            "suministro energía",
+            "suministro electricidad",
+            "metro barcelona",
+            "apagones luz",
+            "energía eléctrica",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-28/en-la-sala-de-mando-del-metro-de-barcelona-nunca-se-habia-visto-todas-las-lineas-en-stop.html",
+        "date": "2025-04-28 19:29:20",
+        "sentiment_score": -0.8015346601605415
+    },
+    {
+        "title": "Luces y sombras en el mapa eléctrico vasco",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KIQA7M6A4RFVVJ3ZQCT444BTUI.jpg?auth=299dd95c8009d9aaca6d6d3898c93ef6f3a2b49d43e5586834bfcd19f9099826&width=1200",
+        "tags": [
+            "san sebastián",
+            "trenes",
+            "colegios",
+            "bilbao",
+            "energía eléctrica",
+            "país vasco",
+            "españa",
+            "transporte público",
+            "apagones luz"
+        ],
+        "link": "https://elpais.com/espana/2025-04-28/luces-y-sombras-en-el-mapa-electrico-vasco.html",
+        "date": "2025-04-28 19:21:01",
+        "sentiment_score": 0.6901910081505775
+    },
+    {
+        "title": "Illa logra pactar el segundo suplemento de crédito pero tendrá que aplazar los cambios en la tasa turística",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ADLQJKBK2HIIF4VLXLBC2TLWXU.jpg?auth=7c8e8c92a352154c4df25c9a8ea84ca7b36e4ee629a6dc43808b3382ec20cc89&width=1200",
+        "tags": [
+            "cataluña",
+            "erc",
+            "presupuestos autonómicos",
+            "psc",
+            "tasa turística",
+            "en comú podem",
+            "generalitat cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-28/illa-logra-pactar-el-segundo-suplemento-de-credito-pero-tendra-que-aplazar-los-cambios-en-la-tasa-turistica.html",
+        "date": "2025-04-28 19:15:22",
+        "sentiment_score": 0.5405872017145157
+    },
+    {
+        "title": "Abel se mueve en silla de ruedas y vive en un noveno: “Si no vuelve la luz, me quedaré a dormir en el portal”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6AQ4RXORGVENNIILDXNBSJO77A.jpg?auth=24a92e05b2aa493e17ed2d21d2bcf1b58cca6f2f25d0e36f814ecc9bc55b4831&width=1200",
+        "tags": [
+            "barcelona",
+            "apagones luz",
+            "ascensores",
+            "cataluña",
+            "energía eléctrica",
+            "esclerosis múltiple"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-28/abel-se-mueve-en-silla-de-ruedas-y-vive-en-un-noveno-si-no-vuelve-la-luz-me-quedare-a-dormir-en-el-portal.html",
+        "date": "2025-04-28 18:41:34",
+        "sentiment_score": -0.5957471132278442
+    },
+    {
+        "title": "El día en el que la capital se volvió analógica y los madrileños cenaron sardinas en lata",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WBP4ROMLXNCLRCPXSH2YXCZQXA.jpeg?auth=aa14ab4ff5b997eae5455036bcc15d52a7b0fd722b0c093dea31b04767dfa5ae&width=1200",
+        "tags": [
+            "apagones luz",
+            "comunidad de madrid",
+            "suministro energía",
+            "energía eléctrica",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-04-28/el-dia-en-el-que-la-capital-se-volvio-analogica-y-los-madrilenos-cenaron-sardinas-en-lata.html",
+        "date": "2025-04-28 18:10:46",
+        "sentiment_score": -0.21705441176891327
+    },
+    {
+        "title": "Rescatada una anciana de 88 años atrapada más de una hora en un ascensor en Girona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YZOJRSOGXUPTJTF6Y367ZFDQDI.jpg?auth=f6aa85c6b8d1a6d3b388f9a014c09b5da885c892c155d7d9529e67ee3d984f9d&width=1200",
+        "tags": [
+            "energía eléctrica",
+            "girona",
+            "sucesos",
+            "cataluña",
+            "ancianos",
+            "apagones luz",
+            "emergencias",
+            "ascensores"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-04-28/rescatada-una-anciana-de-88-anos-atrapada-mas-de-una-hora-en-un-ascensor-en-girona.html",
+        "date": "2025-04-28 17:44:09",
+        "sentiment_score": -0.002013295888900757
+    },
+    {
+        "title": "Desconvocada la manifestación contra Mazón medio año después de la dana por el apagón",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TCZ23VBNL5G45DWV7L7LPVTEDI.JPG?auth=dd7a0b0f5f9addbb3d8ae3249e64e92fafd7498ebe6654e17f1ff1cff41fae1c&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "inundaciones dana octubre 2024",
+            "protestas sociales",
+            "apagones luz",
+            "dana",
+            "carlos mazón"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-04-28/desconvocada-la-manifestacion-contra-mazon-medio-ano-despues-de-la-dana-por-el-apagon.html",
+        "date": "2025-04-28 17:42:29",
+        "sentiment_score": -0.5050535425543785
+    },
+    {
+        "title": "Previa del Arsenal-PSG",
+        "image_url": "https://www.infobae.com/resizer/v2/P2H6PV2XVFBM7ENL3IHOM7LQCQ.jpg?auth=27d2fb8fa1e872fded75fbaa0e771a0700408148d87510945df7008caac679fb&height=1276&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/04/28/previa-del-arsenal-psg/",
+        "date": "2025-04-28 22:16:27",
+        "sentiment_score": -0.016324885189533234
+    },
+    {
+        "title": "¿Se va o se queda? Joan Laporta da luces sobre el futuro de Hansi Flick en el Barcelona",
+        "image_url": "https://pxcdn.meridiano.net/042025/1745878486867.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/se-va-o-se-queda-joan-laporta-da-luces-sobre-el-futuro-de-hansi-flick-en-el-barcelona-202542818160",
+        "date": "2025-04-28 22:16:00",
+        "sentiment_score": 0.4388684928417206
+    },
+    {
+        "title": "Nuevas fotos oficiales de la infanta Sofía con motivo de su 18 cumpleaños",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/04/28/5.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/noticia/5704631/0/nuevas-fotos-oficiales-infanta-sofia-con-motivo-su-18-cumpleanos/",
+        "date": "2025-04-28 22:15:27",
+        "sentiment_score": -0.002014830708503723
+    },
+    {
+        "title": "Völler: \"Rüdiger es un gran jugador, pero como jugador de la selección debe mostrar clase en su comportamiento\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250429001441_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-voller-rudiger-gran-jugador-jugador-seleccion-debe-mostrar-clase-comportamiento-20250429001441.html",
+        "date": "2025-04-28 22:14:41",
+        "sentiment_score": -0.8500933237373829
+    },
+    {
+        "title": "¿Qué es el nivel 3 de emergencias activado por el Gobierno tras el apagón?",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/04/28/680f707494513.r_d.2661-1180.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20250429/nivel-3-emergencias-activado-gobierno-apagon-cns_292072.html",
+        "date": "2025-04-28 22:10:07",
+        "sentiment_score": -0.27976634725928307
+    },
+    {
+        "title": "El Surne quiere sellar ya la permanencia",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/04/29/surne-quiere-sellar-permanencia-kaxF-U2301602988591BaF-1200x1300@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/surne-quiere-sellar-permanencia-20250429000816-nt.html",
+        "date": "2025-04-28 22:08:16",
+        "sentiment_score": 0.7394842877984047
+    },
+    {
+        "title": "La Infanta Sofía cumple 18 años con fotos inéditas y un futuro diferente",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/04/28/680f3c774486f.r_d.3354-1537-2000.jpeg",
+        "tags": [
+            "casa real"
+        ],
+        "link": "https://www.eldebate.com/espana/casa-real/20250429/infanta-sofia-cumple-18-anos-fotos-ineditas-futuro-diferente_291879.html",
+        "date": "2025-04-28 22:07:42",
+        "sentiment_score": 0.602247504517436
+    },
+    {
+        "title": "Feijóo habla de \"emergencia nacional\" y pide que al apagón no se sume un \"apagón informativo\" del Gobierno",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250429000435_120.jpg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.europapress.es/nacional/noticia-feijoo-habla-emergencia-nacional-pide-apagon-no-sume-apagon-informativo-gobierno-20250429000435.html",
+        "date": "2025-04-28 22:04:35",
+        "sentiment_score": -0.8403754439204931
+    },
+    {
+        "title": "Remolcan el AVE que ha estado ocho horas tirado en las vías entre Zaragoza y Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fb73fa65-ad24-4e60-bf13-9ec03725759b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elperiodico.com/es/trafico-y-transportes/20250429/remolcan-ave-ocho-horas-tirado-116834982",
+        "date": "2025-04-28 22:19:00",
+        "sentiment_score": -0.15386831760406494
+    },
+    {
+        "title": "Este es el único punto de Cataluña donde no se ha cortado la luz durante el apagón: “Es indignante”",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/01/19/business/business_4510262_1794235_1706x960.jpg?contentId=4510262",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20250428/este-unico-punto-cataluna-no-cortado-durante-apagon-es-indignante-trt/1003742652905_0.html",
+        "date": "2025-04-28 22:14:43",
+        "sentiment_score": -0.8152466332539916
+    },
+    {
+        "title": "El apagón deja a 1.200 pasajeros del AVE pasando noche en el pabellón Antonio Rivilla de Puertollano",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/04/Todos-los-pasajeros-esperaban-a-ser-trasladados-al-pabellon-de-Puertollano-scaled.jpg",
+        "tags": [
+            "ayuntamiento de puertollano",
+            "ave",
+            "adif",
+            "pasajeros",
+            "puertollano",
+            "apagón"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/puertollano/el-apagon-deja-a-1-200-pasajeros-del-ave-pasando-noche-en-el-pabellon-antonio-rivilla-de-puertollano/",
+        "date": "2025-04-28 22:11:55",
+        "sentiment_score": -0.05629339814186096
+    },
+    {
+        "title": "Germán Grisales",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/28/business/1003742652888_14495160_1706x960.jpg?contentId=1003742652888",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20250428/german-grisales/1003742652887_0.html",
+        "date": "2025-04-28 22:11:26",
+        "sentiment_score": -0.14793840050697327
+    },
+    {
+        "title": "El FC Barcelona golea al Trabzonsport para ganar su tercera Youth League",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250429001050_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-fc-barcelona-golea-trabzonsport-ganar-tercera-youth-league-20250429001050.html",
+        "date": "2025-04-28 22:10:50",
+        "sentiment_score": 0.6492685526609421
+    },
+    {
+        "title": "Estas son las hipótesis del apagón eléctrico total en España",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/04/29/680ffb99db6cc.r_d.971-708-6250.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20250429/estas-son-hipotesis-apagon-electrico-total-espana_292064.html",
+        "date": "2025-04-28 22:10:09",
+        "sentiment_score": -0.7427890561521053
+    },
+    {
+        "title": "Temporada de huracanes en Texas: los artículos de emergencia que estarán libre de impuestos el fin de semana",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745879590253.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/temporada-de-huracanes-en-texas-los-articulos-de-emergencia-que-estaran-libre-de-impuestos-el-fin-de-semana-202542818150",
+        "date": "2025-04-28 22:15:00",
+        "sentiment_score": -0.17778026312589645
+    },
+    {
+        "title": "Karol G sufre caída mientras conducía una cuatrimoto",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745878469282.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/karol-g-sufre-caida-mientras-conducia-una-cuatrimoto-20254281890",
+        "date": "2025-04-28 22:09:00",
+        "sentiment_score": -0.7562382388859987
+    },
+    {
+        "title": "USCIS ordenó suspender procesos de asignación de Green Card para mitigar fraudes y problemas de seguridad pública y nacional",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745878118059.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/uscis-ordeno-suspender-procesos-de-asignacion-de-green-card-para-mitigar-fraudes-y-problemas-de-seguridad-publica-y-nacional--20254281880",
+        "date": "2025-04-28 22:08:00",
+        "sentiment_score": -0.8265131302177906
+    },
+    {
+        "title": "Detienen a nueve \"cantarutas\" en Chacao: quedan a la orden de fiscalía por violar estas ordenanzas municipales",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745872820613.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-nueve-cantarutas-en-chacao-quedan-a-la-orden-de-fiscalia-por-violar-estas-ordenanzas-municipales-20254281850",
+        "date": "2025-04-28 22:05:00",
+        "sentiment_score": -0.39621423184871674
+    },
+    {
+        "title": "Su futuro lejos del Real Madrid: Carlo Ancelotti llegaría a un acuerdo con la selección de Brasil",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745878108037.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/su-futuro-lejos-del-real-madrid-carlo-ancelotti-llegaria-a-un-acuerdo-con-la-seleccion-de-brasil-202542817500",
+        "date": "2025-04-28 21:50:00",
+        "sentiment_score": -0.628276064991951
+    },
+    {
+        "title": "Capturan a un segundo implicado en el robo del bolso de Kristi Noem: también es indocumentado",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745874264322.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/capturan-a-un-segundo-implicado-en-el-robo-del-bolso-de-kristi-noem-tambien-es-indocumentado-202542817300",
+        "date": "2025-04-28 21:30:00",
+        "sentiment_score": -0.48855656757950783
+    },
+    {
+        "title": "María Claire preocupada ante posible diagnóstico de cáncer",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745876568256.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/maria-claire-preocupada-ante-posible-diagnostico-de-cancer-202542817300",
+        "date": "2025-04-28 21:30:00",
+        "sentiment_score": -0.8486712537705898
+    },
+    {
+        "title": "Delcy Rodríguez se reúne con vicepresidente de Lenovo: evalúan incorporar la Inteligencia Artificial en la agenda de cooperación con China",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745870064981.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/delcy-rodriguez-se-reune-con-vicepresidente-de-lenovo-evaluan-incorporar-la-inteligencia-artificial-en-la-agenda-de-cooperacion-con-china-202542817100",
+        "date": "2025-04-28 21:10:00",
+        "sentiment_score": 0.6633136300370097
+    },
+    {
+        "title": "Notificaciones del Sistema Patria: esto es lo que debes hacer si no las recibes por mensaje de texto",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745873384121.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/notificaciones-del-sistema-patria-esto-es-lo-que-debes-hacer-si-no-las-recibes-por-mensaje-de-texto-20254281710",
+        "date": "2025-04-28 21:01:00",
+        "sentiment_score": 0.26583876833319664
+    },
+    {
+        "title": "Apagón en España: presidente Sánchez ofrece estas recomendaciones a la ciudadanía para enfrentar la emergencia",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745867469365.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/diario-2001/apagon-en-espana-presidente-sanchez-ofrece-estas-recomendaciones-a-la-ciudadania-para-enfrentar-la-emergencia-20254281710",
+        "date": "2025-04-28 21:01:00",
+        "sentiment_score": -0.7188611552119255
     }
 ];
