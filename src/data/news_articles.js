@@ -100,16 +100,6 @@ export default [
         "sentiment_score": -0.7797301206737757
     },
     {
-        "title": "Tres niños ciudadanos estadounidenses, incluyendo uno con cáncer, fueron deportados con sus madres, según defensores",
-        "image_url": "https://www.lapatilla.com/wp-content/uploads/2025/04/Screenshot_87_285179.jpg?resize=640%2C320",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lapatilla.com/2025/04/28/tres-ninos-ciudadanos-estadounidenses-incluyendo-uno-con-cancer-fueron-deportados-con-sus-madres-segun-defensores/",
-        "date": "2025-04-28 10:29:57",
-        "sentiment_score": -0.4583414997905493
-    },
-    {
         "title": "Sánchez pide realizar llamadas breves y reducir al mínimo los desplazamientos",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/28/Desplazamientos-k9kD-U70887677425GLH-1200x840@diario_abc.jpg",
         "tags": [
@@ -178,36 +168,6 @@ export default [
         "link": "https://www.abc.es/economia/cubre-seguro-apagon-20250428162046-nt.html",
         "date": "2025-04-28 14:24:28",
         "sentiment_score": -0.22647453844547272
-    },
-    {
-        "title": "Las centrales nucleares españolas se encuentran en situación de prealerta de emergencia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/28/1491057521-kOGH-U708869104886oB-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/centrales-nucleares-espanolas-encuentran-situacion-prealerta-emergencia-20250428154009-nt.html",
-        "date": "2025-04-28 13:40:10",
-        "sentiment_score": -0.1906706690788269
-    },
-    {
-        "title": "Qué países están afectados por el apagón",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/28/apagon_20250428152108-Rair0uQmeXzfOjhjZzWXCYP-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/paises-afectados-apagon-20250428152414-nt.html",
-        "date": "2025-04-28 13:26:43",
-        "sentiment_score": -0.3168325424194336
-    },
-    {
-        "title": "¿Cuánto puede durar el apagón en España?",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/28/apagon4-ka3-U70886721362lAF-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/puede-durar-apagon-espana-20250428151740-nt.html",
-        "date": "2025-04-28 13:17:41",
-        "sentiment_score": -0.16230373084545135
     },
     {
         "title": "El director general de Tráfico pide evitar los desplazamientos “salvo que sea muy necesario”",
@@ -7258,5 +7218,386 @@ export default [
         "link": "https://2001online.com/usa/servicios/illinois-este-documento-puede-servir-como-licencia-e-identificacion-legal-para-indocumentados--2025511750",
         "date": "2025-05-01 21:05:00",
         "sentiment_score": -0.016146104782819748
+    },
+    {
+        "title": "El Sepblac impone una multa de más de 600.000 euros a Banca March, que recurre la sanción",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/31/el-sepblac-impone-una-multa-de-mas-de-600000-euros-a-banca-march-que-recurre-la-sancion/",
+        "date": "2025-05-02 02:02:33",
+        "sentiment_score": -0.8404883909970522
+    },
+    {
+        "title": "El IBEX se asienta en máximos de 2008, superando 12.400 puntos, y subiendo el 7% en el mes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/31/el-ibex-se-asienta-en-maximos-de-2008-superando-12400-puntos-y-subiendo-el-7-en-el-mes/",
+        "date": "2025-05-02 02:02:18",
+        "sentiment_score": 0.5916732177138329
+    },
+    {
+        "title": "Lakovic: El equipo viaja a La Coruña \"preparado y con ganas de volver a vencer en ACB\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/31/lakovic-el-equipo-viaja-a-la-coruna-preparado-y-con-ganas-de-volver-a-vencer-en-acb/",
+        "date": "2025-05-02 02:02:03",
+        "sentiment_score": 0.6363454572856426
+    },
+    {
+        "title": "El Covirán, a por una victoria balsámica en un partido clave",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/31/el-coviran-a-por-una-victoria-balsamica-en-un-partido-clave/",
+        "date": "2025-05-02 01:49:17",
+        "sentiment_score": 0.7606032397598028
+    },
+    {
+        "title": "España jugará ante República Checa en Lorca (Murcia) en marzo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/31/espana-jugara-ante-republica-checa-en-lorca-murcia-en-marzo/",
+        "date": "2025-05-02 01:49:04",
+        "sentiment_score": 0.07727208361029625
+    },
+    {
+        "title": "El Salvador participará en el primer partido de rugby femenino en centros penitenciarios",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/31/el-salvador-participara-en-el-primer-partido-de-rugby-femenino-en-centros-penitenciarios/",
+        "date": "2025-05-02 01:48:50",
+        "sentiment_score": 0.5488749779760838
+    },
+    {
+        "title": "Continúa la fuga de talento de Anaitasuna",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/31/continua-la-fuga-de-talento-de-anaitasuna/",
+        "date": "2025-05-02 01:48:36",
+        "sentiment_score": 0.49726299941539764
+    },
+    {
+        "title": "El Gobierno aprobará próximamente un decreto con entregas a cuenta a las comunidades",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/31/el-gobierno-aprobara-proximamente-un-decreto-con-entregas-a-cuenta-a-las-comunidades/",
+        "date": "2025-05-02 01:48:23",
+        "sentiment_score": 0.045257702469825745
+    },
+    {
+        "title": "Daniela Blsaco abrirá la final de Benidorm Fest 2025 y Melody la cerrará",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/31/daniela-blsaco-abrira-la-final-de-benidorm-fest-2025-y-melody-la-cerrara/",
+        "date": "2025-05-02 01:48:09",
+        "sentiment_score": 0.5637191813439131
+    },
+    {
+        "title": "Illa garantiza que hará cumplir \"estrictamente\" el régimen sancionador sobre vivienda",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/01/31/illa-garantiza-que-hara-cumplir-estrictamente-el-regimen-sancionador-sobre-vivienda/",
+        "date": "2025-05-02 01:47:55",
+        "sentiment_score": 0.4371708631515503
+    },
+    {
+        "title": "El agujero negro de las pensiones: 31.315 millones sin apoyo de impuestos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/02/pensi-RJpxBBUk4uEXwtS370JxlgN-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/agujero-negro-pensiones-31315-millones-apoyo-impuestos-20250502174052-nt.html",
+        "date": "2025-05-02 01:37:01",
+        "sentiment_score": -0.13797031342983246
+    },
+    {
+        "title": "Las energéticas alertaron el 22 de abril a Red Eléctrica de un «mix suicida»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/02/CorredorEP-RpuCNPXYXcpShtJiVs7DbNM-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/energeticas-alertaron-abril-red-electrica-mix-suicida-20250502175651-nt.html",
+        "date": "2025-05-02 01:18:12",
+        "sentiment_score": -0.1151343584060669
+    },
+    {
+        "title": "Los «operadores privados» alertaron al gestor público",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/04/29/atrapados-tunel-luna-de-miel-U26554314680JAu-170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-operadores-privados-alertaron-gestor-publico-20250502031640-nt.html",
+        "date": "2025-05-02 01:16:53",
+        "sentiment_score": -0.5711301788687706
+    },
+    {
+        "title": "El mundo se vuelve borroso: ¿Por qué hay cada vez más problemas oculares?",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/05/02/problemas-oculares-RI6WQDVcO7QmOLrHqR5PAsO-1200x840@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/vemos-vez-borroso-20250502160235-nt.html",
+        "date": "2025-05-02 00:37:57",
+        "sentiment_score": -0.10591919720172882
+    },
+    {
+        "title": "Marie Ferro critica al Real Madrid por el arbitraje: \"Llevan quejándose toda la temporada\"",
+        "image_url": "https://pxcdn.meridiano.net/052025/1746142028294.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/marie-ferro-critica-al-real-madrid-por-el-arbitraje-llevan-quejandose-toda-la-temporada--20255122150",
+        "date": "2025-05-02 02:15:00",
+        "sentiment_score": -0.01775788515806198
+    },
+    {
+        "title": "El Real Madrid se enfrentará al Manchester City en el 'playoff' de la Champions",
+        "image_url": "https://www.infobae.com/resizer/v2/2O77PQH46BDKLAK73HP5ICE7VM.jpg?auth=68d5e3c1ce4f64897879849d0ceb046726d562fdd6033449375466d2d4b50d7c&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/31/el-real-madrid-se-enfrentara-al-manchester-city-en-el-playoff-de-la-champions/",
+        "date": "2025-05-02 02:04:22",
+        "sentiment_score": 0.793940270319581
+    },
+    {
+        "title": "Manchester City-Real Madrid, la estrella de las eliminatorias de acceso a octavos de final",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/31/manchester-city-real-madrid-la-estrella-de-las-eliminatorias-de-acceso-a-octavos-de-final/",
+        "date": "2025-05-02 02:03:38",
+        "sentiment_score": 0.20996281504631042
+    },
+    {
+        "title": "¿Exploras con frecuencia el borde de la lengua? Hay una importante razón para hacerlo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4638965b-71ea-4d4c-9ea4-a2e0277bd941_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.informacion.es/salud/guia/2025/05/02/cancer-oral-frecuente-mayores-borde-lengua-87259465.html",
+        "date": "2025-05-02 01:59:00",
+        "sentiment_score": -0.6066735275089741
+    },
+    {
+        "title": "Importante jugador del Barcelona se queda sin Champions ni Clásico de Liga",
+        "image_url": "https://elclarinweb.com/2025/05/01/jules-kounde-sin-champions-ni-clasico-por-lesion/%3Cimg",
+        "tags": [
+            "actualidad",
+            "deportes"
+        ],
+        "link": "https://elclarinweb.com/2025/05/01/jules-kounde-sin-champions-ni-clasico-por-lesion/",
+        "date": "2025-05-02 01:57:31",
+        "sentiment_score": -0.6983436420559883
+    },
+    {
+        "title": "Marie Ferro critica al Real Madrid tras polémicas con los árbitros: Llevan quejándose toda la temporada",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746155285408.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/marie-ferro-critica-al-real-madrid-tras-polemicas-con-los-arbitros-llevan-quejandose-toda-la-temporada-20255121550",
+        "date": "2025-05-02 01:55:00",
+        "sentiment_score": -0.1702081710100174
+    },
+    {
+        "title": "Agenda de León: todas las actividades hasta el 8 de mayo",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/05/01/6813568049f31.jpeg",
+        "tags": [
+            "destinos"
+        ],
+        "link": "https://www.diariodeleon.es/ocio/destinos/250502/2015011/destinos.html",
+        "date": "2025-05-02 01:30:00",
+        "sentiment_score": 0.2226426750421524
+    },
+    {
+        "title": "“¿Cómo buenísimo?“: el divertido duelo entre Rodrigo de Paul y Julián Álvarez en el entrenamiento del Atlético de Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/05/02/como-buenisimo-el-divertido-duelo-entre-rodrigo-de-paul-y-julian-alvarez-en-el-entrenamiento-del-atletico-de-madrid/",
+        "date": "2025-05-02 01:22:20",
+        "sentiment_score": 0.1791735291481018
+    },
+    {
+        "title": "El Real Madrid se medirá al Manchester City, en la eliminatoria de octavos de final",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/01/31/el-real-madrid-se-medira-al-manchester-city-en-la-eliminatoria-de-octavos-de-final/",
+        "date": "2025-05-02 01:18:38",
+        "sentiment_score": -0.04658038169145584
+    },
+    {
+        "title": "Cien días de furia y aranceles: Trump 'rompe' las reglas de la economía... salvo en impuestos",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/04/30/trump-foto-mitin-100dias.r_d.1455-532-3299.jpeg",
+        "tags": [
+            "economía y finanzas"
+        ],
+        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/100-dias-furia-aranceles-trump-rompe-reglas-economia-salvo-impuestos-5705357/",
+        "date": "2025-05-02 02:04:17",
+        "sentiment_score": -0.777243122458458
+    },
+    {
+        "title": "Los fichajes de verano que no cuajaron en el Espanyol: qué fue de Irvin Cardona y Ünüvar, y la importancia de rectificar a tiempo",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/05/unuvar-espanyol.jpg",
+        "tags": [
+            "primer equipo y club"
+        ],
+        "link": "https://www.lagradaonline.com/espanyol-cesiones-irvin-cardona-saint-etienne-naci-unuvar/",
+        "date": "2025-05-02 02:00:34",
+        "sentiment_score": -0.0443548858165741
+    },
+    {
+        "title": "«Los veganos generan menos resistencia a los antibióticos que los carnívoros»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3287049.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2025/05/02/2377353/veganos-estan-menos-expuestos-problema-superbacterias-los-carnivoros.html",
+        "date": "2025-05-02 02:00:01",
+        "sentiment_score": -0.5034385770559311
+    },
+    {
+        "title": "El Palma Futsal busca la triple corona",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3288249.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/palma-futsal/2025/05/02/2378163/final-four-champions-league-futbol-sala-palma-futsal-busca-triple-corona.html",
+        "date": "2025-05-02 02:00:01",
+        "sentiment_score": 0.1447436660528183
+    },
+    {
+        "title": "Tòfol Pons, un libertario con 7 vidas",
+        "image_url": "https://uh.gsstatic.es/autor/manuel-aguilera/10893.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/05/02/2378109/tofol-pons-libertario-vidas.html",
+        "date": "2025-05-02 02:00:01",
+        "sentiment_score": -0.7576027251780033
+    },
+    {
+        "title": "Piketty vs Waldenström",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/20/655b1c8d78a47.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250502/10619523/piketty-vs-waldenstroem.html",
+        "date": "2025-05-02 02:00:00",
+        "sentiment_score": 0.24404307454824448
+    },
+    {
+        "title": "Marie Ferro destaca en El Chiringuito que Lamine Yamal tiene potencial para ganar el Balón de Oro: La edad lo beneficia",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746152557386.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/marie-ferro-destaca-en-el-chiringuito-que-lamine-yamal-tiene-potencial-para-ganar-el-balon-de-oro-la-edad-lo-beneficia-20255121550",
+        "date": "2025-05-02 01:55:00",
+        "sentiment_score": -0.5856532528996468
+    },
+    {
+        "title": "¿Infestación por roedores? Elimínalos de esta forma segura y no tóxica",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1746016336426.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/infestacion-por-roedores-eliminalos-de-esta-forma-segura-y-no-toxica-20255122150",
+        "date": "2025-05-02 02:15:00",
+        "sentiment_score": 0.13826751708984375
+    },
+    {
+        "title": "Esto es lo que cuesta anular una orden de deportación en Estados Unidos: recomendaciones para buscar asesoría legal",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746152018743.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/esto-es-lo-que-cuesta-anular-una-orden-de-deportacion-en-estados-unidos-recomendaciones-para-buscar-asesoria-legal-20255122120",
+        "date": "2025-05-02 02:12:00",
+        "sentiment_score": -0.8527871044352651
+    },
+    {
+        "title": "Maduro informa que abogados en Estados Unidos trabajan para recuperar a la niña Maikelys Espinoza: Es un caso muy grave",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746141146119.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-informa-que-abogados-en-estados-unidos-trabajan-para-recuperar-a-la-nina-maikelys-espinoza-es-un-caso-muy-grave-2025512200",
+        "date": "2025-05-02 02:00:00",
+        "sentiment_score": -0.7569974288344383
+    },
+    {
+        "title": "Laura Pausini reinterpreta a Bad Bunny y cautiva con su versión de “Turista”",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746124870198.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/laura-pausini-reinterpreta-a-bad-bunny-y-cautiva-con-su-version-de-turista--2025512200",
+        "date": "2025-05-02 02:00:00",
+        "sentiment_score": 0.8481970950961113
+    },
+    {
+        "title": "La secuela “Otro pequeño favor” llega a Prime Video con Blake Lively y Anna Kendrick: promete más giros y más comedia",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746151858881.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/la-secuela-otro-pequeno-favor-llega-a-prime-video-con-blake-lively-y-anna-kendrick-promete-mas-giros-y-mas-comedia-2025512200",
+        "date": "2025-05-02 02:00:00",
+        "sentiment_score": 0.09775739349424839
+    },
+    {
+        "title": "California ofrece este beneficio a conductores sin infracciones: requisitos y proceso de verificación",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746149105981.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/california-ofrece-este-beneficio-a-conductores-sin-infracciones-requisitos-y-proceso-de-verificacion-20255121220",
+        "date": "2025-05-02 01:22:00",
+        "sentiment_score": 0.2287379801273346
+    },
+    {
+        "title": "Joven y firme: conoce la fruta que le devolverá la lozanía a tu piel",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745955687193.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/joven-y-firme-conoce-la-fruta-que-le-devolvera-la-lozania-a-tu-piel-20255121200",
+        "date": "2025-05-02 01:20:00",
+        "sentiment_score": 0.7116734245792031
+    },
+    {
+        "title": "¿Frío para la piel?: conoce todos los beneficios que te aporta",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1745957147683.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/frio-para-la-piel-conoce-todos-los-beneficios-que-te-aporta-20255121200",
+        "date": "2025-05-02 01:20:00",
+        "sentiment_score": 0.7444613287225366
     }
 ];
