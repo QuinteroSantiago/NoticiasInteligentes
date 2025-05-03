@@ -1,319 +1,5 @@
 export default [
     {
-        "title": "Illa defiende sus reuniones con presidentes autonómicos \"para escuchar y sumar apoyos\"",
-        "image_url": "https://www.infobae.com/resizer/v2/ADX7DXVHHZFFPALJBJP2WLBOXE.jpg?auth=0e9e2065d969e3f3a02d09269be62fc327aa97efa6a3d5b5d13ac42e4c586c3b&height=1440&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/29/illa-defiende-sus-reuniones-con-presidentes-autonomicos-para-escuchar-y-sumar-apoyos/",
-        "date": "2025-04-29 06:34:26",
-        "sentiment_score": 0.5160105153918266
-    },
-    {
-        "title": "El parqué tailandés cierra en negativo en jornada festiva en el resto del Sudeste Asiático",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/29/el-parque-tailandes-cierra-en-negativo-en-jornada-festiva-en-el-resto-del-sudeste-asiatico/",
-        "date": "2025-04-29 06:34:09",
-        "sentiment_score": -0.7989974785596132
-    },
-    {
-        "title": "Cataluña asegura que las bilaterales Gobierno-Generalitat son fruto de la \"mano tendida\" del Govern",
-        "image_url": "https://www.infobae.com/resizer/v2/ITTUSBR3FZFNNNQTUGSLQVC5BY.jpg?auth=c29149c9f758ff97bbbd1b8283cda789a38901fd62665c70b4b15f7b192e0035&height=1440&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/29/cataluna-asegura-que-las-bilaterales-gobierno-generalitat-son-fruto-de-la-mano-tendida-del-govern/",
-        "date": "2025-04-29 06:33:54",
-        "sentiment_score": 0.6368844956159592
-    },
-    {
-        "title": "Qué hacer con los alimentos de la nevera tras el apagón, según los expertos",
-        "image_url": "https://www.infobae.com/resizer/v2/NLRROVWD2NH3TNHBCWYRX2WL4Q.jpeg?auth=a003eebddacfc4d00af99842bdaa65e119197b2e6c34988df41d51098632e6af&height=3024&smart=true&width=4032",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/29/que-hacer-con-los-alimentos-de-la-nevera-tras-el-apagon-segun-la-nutricionista-boticaria-garcia/",
-        "date": "2025-04-29 06:33:43",
-        "sentiment_score": -0.4542814716696739
-    },
-    {
-        "title": "La venta de abonos estatales de tren y autobús con descuentos se reactiva mañana",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/29/la-venta-de-abonos-estatales-de-tren-y-autobus-con-descuentos-se-reactiva-manana/",
-        "date": "2025-04-29 06:33:37",
-        "sentiment_score": 0.5078475587069988
-    },
-    {
-        "title": "De Aldama aporta un whatsapp en el que dice al jefe de gabinete de Hacienda cómo quiere abonar una deuda de su sociedad",
-        "image_url": "https://www.infobae.com/resizer/v2/E365VBAYDVCDTMDUYBAOKBANZY.jpg?auth=b660ce0ffe2ea59f2d9bed1aedbc7b9d6ba4db0500e6544343a36ff3495a11e4&height=1953&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/29/de-aldama-aporta-un-whatsapp-en-el-que-dice-al-jefe-de-gabinete-de-hacienda-como-quiere-abonar-una-deuda-de-su-sociedad/",
-        "date": "2025-04-29 06:33:20",
-        "sentiment_score": -0.2537173591554165
-    },
-    {
-        "title": "El fiscal general del Estado niega al juez que filtrara los correos de la pareja de Ayuso",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/01/29/el-fiscal-general-del-estado-niega-al-juez-que-filtrara-los-correos-de-la-pareja-de-ayuso/",
-        "date": "2025-04-29 06:33:03",
-        "sentiment_score": -0.5730918105691671
-    },
-    {
-        "title": "Reabre el servicio de la Red de Metro de la Comunidad de Madrid",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/29/reabre-el-servicio-de-la-red-de-metro-de-la-comunidad-de-madrid/",
-        "date": "2025-04-29 06:31:32",
-        "sentiment_score": -0.6927926391363144
-    },
-    {
-        "title": "La CNMV asegura que las infraestructuras del mercado siguen funcionando con normalidad",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/04/29/la-cnmv-asegura-que-las-infraestructuras-del-mercado-siguen-funcionando-con-normalidad/",
-        "date": "2025-04-29 06:31:15",
-        "sentiment_score": 0.4989905431866646
-    },
-    {
-        "title": "El tiempo que tarda la comida en deteriorarse en la nevera y el congelador durante un apagón: “Si tenemos que abrir, que sea el número mínimo de veces”",
-        "image_url": "https://www.infobae.com/resizer/v2/FXH427S72FFZRHN6PQXPDTMD74.jpeg?auth=22b029923a0629d69770154db0febc5dfffcf2e3dd585cd165fdf5b46a7e874d&height=4480&smart=true&width=6720",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/29/el-tiempo-que-tarda-la-comida-en-deteriorarse-en-la-nevera-y-el-congelador-durante-un-apagon-si-tenemos-que-abrir-para-coger-algo-que-sea-el-numero-minimo-de-veces-para-evitar-que-salga-el-frio/",
-        "date": "2025-04-29 06:31:07",
-        "sentiment_score": -0.2089327722787857
-    },
-    {
-        "title": "Metro de Madrid recupera el servicio a las 8.00 salvo la L-7A y Cercanías circula al 50% al día siguiente del gran apagón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OUAQYADYEXW33T6UN3RCW2XHOM.jpg?auth=7c398ba23e3648be877e95b7c03bbf4abcecb9b03568bdb2b6a356ef66e7753e&width=1200",
-        "tags": [
-            "movilidad urbana",
-            "autobuses",
-            "cercanías madrid",
-            "comunidad de madrid",
-            "movilidad sostenible",
-            "autobuses urbanos",
-            "apagones luz",
-            "metro madrid",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-04-29/metro-de-madrid-recupera-el-servicio-y-cercanias-circula-al-50-el-dia-despues-del-gran-apagon.html",
-        "date": "2025-04-29 06:34:00",
-        "sentiment_score": 0.012576527893543243
-    },
-    {
-        "title": "Sant Jordi por el realismo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PFBNW63Z2NJ5AHB7NZF2RPZ5E4.jpg?auth=8470239bf9ee88e227a603d627b51c002e93eaf31b44088fd86c7748b32c4090&width=1200",
-        "tags": [
-            "sant jordi",
-            "catalán",
-            "lengua",
-            "cataluña",
-            "manifestaciones",
-            "cursos idiomas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-29/sant-jordi-por-el-realismo.html",
-        "date": "2025-04-29 05:32:20",
-        "sentiment_score": 0.04467657208442688
-    },
-    {
-        "title": "Renfe suspende la circulación de trenes de Rodalies en toda Cataluña por falta de garantías",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M265UKTVU3LAGCO7EWCNHS3DSQ.jpg?auth=0862f335a50a037f35adea395b5ec18416a2360b8560cfaef04d4c36d9a27365&width=1200",
-        "tags": [
-            "renfe",
-            "barcelona",
-            "movilidad urbana",
-            "adif",
-            "cataluña",
-            "energía eléctrica",
-            "trenes"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-04-29/renfe-suspende-la-circulacion-de-trenes-de-rodalies-en-toda-cataluna-por-falta-de-garantias.html",
-        "date": "2025-04-29 05:20:49",
-        "sentiment_score": -0.7125458922237158
-    },
-    {
-        "title": "Restablecido el 99,95% de la demanda eléctrica a las 7.00 horas, según Red Eléctrica",
-        "image_url": "https://www.infobae.com/resizer/v2/FLRFGRAKXZE35FM3I4JJDEKW7Y.jpg?auth=1a3e8452e8c7de1e4be3a918ed5b80a818efcb4c32921eb235d5a06932c3cef0&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/04/29/restablecido-el-9995-de-la-demanda-electrica-a-las-700-horas-segun-red-electrica/",
-        "date": "2025-04-29 06:30:32",
-        "sentiment_score": 0.1403265967965126
-    },
-    {
-        "title": "El Almería-Ferrol, aplazado por el apagón, se disputará esta noche",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/04/29/el-almeria-ferrol-aplazado-por-el-apagon-se-disputara-esta-noche/",
-        "date": "2025-04-29 06:30:19",
-        "sentiment_score": -0.08142618834972382
-    },
-    {
-        "title": "La casa de Luis Figo y su mujer cerca de El Retiro con acabados de lujo y zona de servicio",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/04/luis-figo-casa.jpg",
-        "tags": [
-            "gente",
-            "casas",
-            "madrid",
-            "celebrities"
-        ],
-        "link": "https://theobjective.com/gente/2025-04-29/casa-luis-figo-mujer-retiro-lujo/",
-        "date": "2025-04-29 06:30:00",
-        "sentiment_score": -0.10960399359464645
-    },
-    {
-        "title": "Cómo consultar el estado de los trenes de Cercanías Renfe y las incidencias hoy después del apagón",
-        "image_url": "https://s10.s3c.es/imag/_v0/3014x1645/4/c/e/1200x655_tren-renfe-cercanias-istock.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/transportes-turismo/noticias/13338453/04/25/como-consultar-el-estado-de-los-trenes-de-cercanias-renfe-y-las-incidencias-hoy-despues-del-apagon.html",
-        "date": "2025-04-29 06:20:04",
-        "sentiment_score": -0.7325584068894386
-    },
-    {
-        "title": "El Ejército trabaja toda la noche para paliar los efectos del apagón: rescate de pasajeros de AVE, suministro de combustible a hospitales y reparto de mantas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/04/29/el-ejercito-trabaja-toda-la-noche-para-paliar-los-efectos-del-apagon-rescate-de-pasajeros-de-ave-suministro-de-combustible-a-hospitales-y-reparto-de-mantas/",
-        "date": "2025-04-29 06:18:21",
-        "sentiment_score": -0.59060437977314
-    },
-    {
-        "title": "El joven que hará que comas hamburguesas y pizzas... sin culpa",
-        "image_url": "https://phantom-elmundo.uecdn.es/3096165ba2bcc80003bd0701af420f10/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/24/17454690367061.jpg",
-        "tags": [
-            "artículos cristina galafate"
-        ],
-        "link": "https://www.elmundo.es/yodona/vida-saludable/2025/04/29/6809be2be4d4d829668b4597.html",
-        "date": "2025-04-29 06:17:23",
-        "sentiment_score": 0.13013193756341934
-    },
-    {
-        "title": "El Superordenador de Opta predice el próximo campeón de la Champions League",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/01/31/6B153EF3-3F43-447F-A303-CC5FB2F96650/trofeo-uefa-champions-league_98.jpg?crop=1111%2C625%2Cx7%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/superordenador-opta-predice-proximo-campeon-champions-league_2025042968106de7319ae75da4bb1e32.html",
-        "date": "2025-04-29 06:12:55",
-        "sentiment_score": 0.007431432604789734
-    },
-    {
-        "title": "ElPozo Alimentación cerró 2024 con una facturación de 1.845 millones de euros",
-        "image_url": "https://static.grupojoly.com/clip/01d37694-aad6-48ab-85d0-aae01ab00d9d_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariodejerez.es/empresas-al-dia/elpozo-alimentacion-cerro-2024-facturacion_0_2003827642.html",
-        "date": "2025-04-29 06:07:51",
-        "sentiment_score": 0.28429817222058773
-    },
-    {
-        "title": "Todos los retrasos y cancelaciones en el Aeropuerto de Barcelona este martes por el apagón",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2017/07/27/movilidad/movilidad_234486556_10759081_1706x960.jpg?contentId=234486556",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20250429/todos-los-retrasos-cancelaciones-en-el-aeropuerto-de-barcelona-este-martes-por-apagon/1003742652931_0.html",
-        "date": "2025-04-29 06:31:17",
-        "sentiment_score": -0.5540831573307514
-    },
-    {
-        "title": "Las cuevas a media hora de Barcelona que son una de las joyas naturales de la provincia: galerías subterráneas e increíbles formaciones",
-        "image_url": "https://www.infobae.com/resizer/v2/3T7EH7XHHNAOBJHX275XTUMQZA.jpg?auth=f574f3c961f0ef21c745b5c9582ccb8f6563a328d2abd00a55b89ec125a399f3&height=666&smart=true&width=1000",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2025/04/29/las-cuevas-a-media-hora-de-barcelona-que-son-una-de-las-joyas-naturales-de-la-provincia-galerias-subterraneas-e-increibles-formaciones/",
-        "date": "2025-04-29 06:30:00",
-        "sentiment_score": 0.5647596716880798
-    },
-    {
-        "title": "Rodalies funciona al 60%; Cercanías Madrid al 50% mientras se va recuperando también la circulación de alta velocidad y larga distancia",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/04/29/los-trenes-de-rodalies-circularan-este-martes-al-60-de-su-actividad.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/noticia/5704790/0/rodalies-funciona-60-cercanias-madrid-50-mientras-se-va-recuperando-tambien-circulacion-alta-velocidad-larga-distancia/",
-        "date": "2025-04-29 06:29:30",
-        "sentiment_score": -0.16263040155172348
-    },
-    {
-        "title": "Apagón masivo en España | Las imágenes de la UME repartiendo mantas, comida y agua a los viajeros atrapados en las estaciones de tren",
-        "image_url": "https://images.ecestaticos.com/xUNjZ_u0aSzNhjQa4v2DZj0wnSc=/0x0:963x623/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5cc%2F078%2F68b%2F5cc07868be8b9a80660e9221d58941b7.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elconfidencial.com/espana/2025-04-29/1qrt-apagon-masivo-espana-imagenes-ume-repartiendo-mantas-comida-agua-viajeros-atrapados_4118428/",
-        "date": "2025-04-29 06:29:00",
-        "sentiment_score": -0.8162179589271545
-    },
-    {
-        "title": "España recupera más del 99 % de la demanda de electricidad tras el apagón pero el caos seguirá durante horas",
-        "image_url": "https://cflvdg.avoz.es/sc/-691jMFKoTfyv9XWrRTGBVvTpys=/768x/2025/04/29/00121745898856778122748/Foto/soler.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavozdegalicia.es/retransmision/economia/2025/04/29/espana-recupera-82-demanda-electricidad-tras-apagon-caos-seguira-durante-horas/01071745898878606713696.htm",
-        "date": "2025-04-29 06:29:00",
-        "sentiment_score": -0.8120197542011738
-    },
-    {
-        "title": "España recupera la electricidad casi por completo tras uno de los apagones más graves de Europa",
-        "image_url": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/0/06/00628fc4-a109-56d7-b2ab-e55e5a216f9e/681068be5653e.image.jpg?resize=300%2C200",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.yakimaherald.com/news/nation_and_world/nation/espa-a-recupera-la-electricidad-casi-por-completo-tras-uno-de-los-apagones-m-s/article_6d5d3f4d-9a99-5b5c-83ab-1b1a6b586a1c.html",
-        "date": "2025-04-29 06:26:49",
-        "sentiment_score": -0.7351430468261242
-    },
-    {
-        "title": "Sergio Goycochea: cómo reinventarse después de la gloria, la importancia de adaptarse al cambio y su nuevo desafío en televisión",
-        "image_url": "https://www.infobae.com/resizer/v2/X2RKY7JGYFGTXFEJ6XGF34SXDA.jpg?auth=45b5b66b91eba94c6afa3503a7802d702ab4a46b7c99b7ae830e397ee14e1f76&height=1152&smart=true&width=2048",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/reportajes/2025/04/29/sergio-goycochea-como-reinventarse-despues-de-la-gloria-la-importancia-de-adaptarse-al-cambio-y-su-nuevo-desafio-en-television/",
-        "date": "2025-04-29 06:26:42",
-        "sentiment_score": 0.13496331870555878
-    },
-    {
-        "title": "Catalunya prevé abrir escuelas \"con normalidad\", sin incidencias reportadas",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250429082504_120.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-catalunya-preve-abrir-escuelas-normalidad-incidencias-reportadas-20250429082504.html",
-        "date": "2025-04-29 06:25:04",
-        "sentiment_score": -0.10873902589082718
-    },
-    {
         "title": "Un enfermero muestra cómo se vive un apagón trabajando en la UCI: “La vida del paciente depende mucho...”",
         "image_url": "https://www.infobae.com/resizer/v2/KENGIS3DKVB5TM4ODRO4I47RWI.png?auth=38ce0efa20d647fb64f327932f8001efa3956045f3bec58da222f14064ff89ee&height=1080&smart=true&width=1920",
         "tags": [
@@ -6846,5 +6532,499 @@ export default [
         "link": "https://2001online.com/comunidad/aragua-envian-maquinaria-para-zonas-afectas-por-el-desborde-del-rio-choroni-20255210550",
         "date": "2025-05-02 14:55:00",
         "sentiment_score": -0.5475067459046841
+    },
+    {
+        "title": "JJpD apuesta por suprimir la distinción entre juez y magistrado salvo en el Supremo para evitar traslados forzosos",
+        "image_url": "https://www.infobae.com/resizer/v2/4IL7LQET4VFJ5BS6HACBNM7ESE.jpg?auth=ac116cf21230dbe11e3b75c8526d2684d9118970891ae83e9f20809133d81ee5&height=1301&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/jjpd-apuesta-por-suprimir-la-distincion-entre-juez-y-magistrado-salvo-en-el-supremo-para-evitar-traslados-forzosos/",
+        "date": "2025-05-02 22:03:25",
+        "sentiment_score": 0.44673145562410355
+    },
+    {
+        "title": "España busca mañana, ante Países Bajos, dar un paso de gigante hacia el Mundial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/espana-busca-manana-ante-paises-bajos-dar-un-paso-de-gigante-hacia-el-mundial/",
+        "date": "2025-05-02 22:03:10",
+        "sentiment_score": 0.3020021840929985
+    },
+    {
+        "title": "Condenado en Granda un padre a dos años de prisión y a indemnizar a su hijo por pegarle",
+        "image_url": "https://www.infobae.com/resizer/v2/DW7JHQ7NLVFOPBQJLD4FO5XQKE.jpg?auth=127f042f1fb9ee5462fbdce134af7f84cf822afe76ce27f55902116295bc3699&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/condenado-en-granda-un-padre-a-dos-anos-de-prision-y-a-indemnizar-a-su-hijo-por-pegarle/",
+        "date": "2025-05-02 22:02:56",
+        "sentiment_score": -0.7931053079664707
+    },
+    {
+        "title": "Ley de bienestar animal: ¿Para cuándo la obligatoriedad del curso para perros y el seguro?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/ley-de-bienestar-animal-para-cuando-la-obligatoriedad-del-curso-para-perros-y-el-seguro/",
+        "date": "2025-05-02 22:02:41",
+        "sentiment_score": 0.41375235095620155
+    },
+    {
+        "title": "El TSJ andaluz confirma un año de cárcel para un padre por exponer a su hijo menor a contenido pornográfico",
+        "image_url": "https://www.infobae.com/resizer/v2/R5J4XEWLEVHODNLYZPIF5SOCSA.jpg?auth=fc978e04195aa2393ba4c4341442231aa3ae501d59b67a249799bc84fb441cc3&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/el-tsj-andaluz-confirma-un-ano-de-carcel-para-un-padre-por-exponer-a-su-hijo-menor-a-contenido-pornografico/",
+        "date": "2025-05-02 22:02:27",
+        "sentiment_score": -0.8352539725601673
+    },
+    {
+        "title": "El PNV cierra la primera fase de sus elecciones con Ortuzar y Esteban en plena disputa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/el-pnv-cierra-la-primera-fase-de-sus-elecciones-con-ortuzar-y-esteban-en-plena-disputa/",
+        "date": "2025-05-02 22:02:07",
+        "sentiment_score": 0.292293980717659
+    },
+    {
+        "title": "La Audiencia Nacional juzga desde este lunes a un hombre que hacía pintadas de la bandera de Estado Islámico en cárceles",
+        "image_url": "https://www.infobae.com/resizer/v2/NLW4TKIBCRH7ZHVJHIEE2BQ6V4.jpg?auth=6c5fa2d141882040ee8f9f74d522ef41c67427a755a41b4f8cce22fa591ac44e&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/la-audiencia-nacional-juzga-desde-este-lunes-a-un-hombre-que-hacia-pintadas-de-la-bandera-de-estado-islamico-en-carceles/",
+        "date": "2025-05-02 21:49:04",
+        "sentiment_score": -0.873551239259541
+    },
+    {
+        "title": "Un hombre mata a cuchilladas a su pareja en Langreo (Asturias)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/un-hombre-mata-a-cuchilladas-a-su-pareja-en-langreo-asturias/",
+        "date": "2025-05-02 21:48:49",
+        "sentiment_score": -0.9039896875619888
+    },
+    {
+        "title": "Antena 3 revalida el liderazgo de las audiencias en enero por quinto mes consecutivo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/antena-3-revalida-el-liderazgo-de-las-audiencias-en-enero-por-quinto-mes-consecutivo/",
+        "date": "2025-05-02 21:48:21",
+        "sentiment_score": 0.7979216240346432
+    },
+    {
+        "title": "Feijóo ensalza a Juanma Moreno por su candidatura para el Comité Europeo de las Regiones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/feijoo-ensalza-a-juanma-moreno-por-su-candidatura-para-el-comite-europeo-de-las-regiones/",
+        "date": "2025-05-02 21:33:58",
+        "sentiment_score": 0.7525493986904621
+    },
+    {
+        "title": "Al menos tres heridos en un atropello múltiple en Stuttgart",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/02/Stuttgart-knDC-U70913378133uNG-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/tres-heridos-atropello-multiple-stuttgart-20250502201248-nt.html",
+        "date": "2025-05-02 18:18:14",
+        "sentiment_score": -0.5297788754105568
+    },
+    {
+        "title": "La ultraderecha pisa fuerte en el Reino Unido por el desgaste del bipartidismo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/05/02/farage-RZ8xVXK9XFW326Xw4PthpEL-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ultraderecha-pisa-fuerte-reino-unido-desgaste-bipartidismo-20250502194446-nt.html",
+        "date": "2025-05-02 17:44:46",
+        "sentiment_score": -0.08087247610092163
+    },
+    {
+        "title": "EE.UU. acusa a Alemania de ser una «tiranía disfrazada» por declarar a AfD «extremista» y «contraria a la Constitución»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/05/02/MarcoRubio-kh8E-U70913194829elG-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/eeuu-acusa-alemania-tirania-disfrazada-declarar-afd-20250502193929-nt.html",
+        "date": "2025-05-02 17:39:30",
+        "sentiment_score": -0.11868433654308319
+    },
+    {
+        "title": "Periodistas: sospechosos habituales",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/05/03/ABCTERCERA_Sospechososhabituales_AYLLON_S-RjSoE9s0EnbDrN8Bz7UoJTI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-ayllon-periodistas-sospechosos-habituales-20250503191536-nt.html",
+        "date": "2025-05-02 17:29:28",
+        "sentiment_score": -0.20795048773288727
+    },
+    {
+        "title": "La primera potencia populista",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/04/29/atrapados-tunel-luna-de-miel-U26554314680JAu-170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-primera-potencia-populista-20250503192619-nt.html",
+        "date": "2025-05-02 17:26:29",
+        "sentiment_score": -0.14545996487140656
+    },
+    {
+        "title": "Un boicot impresentable a todos los madrileños",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/04/30/analitica-U41102535115byg-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-boicot-impresentable-madrilenos-20250503192610-nt.html",
+        "date": "2025-05-02 17:26:14",
+        "sentiment_score": -0.7962149940431118
+    },
+    {
+        "title": "España a oscuras",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/05/03/ABC_ANGULOOSCURO_Espan%CC%83aaoscuras_DEPRADA-Rs15qt3w3JKZ01URxOfVmvK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-espana-oscuras-20250503191550-nt.html",
+        "date": "2025-05-02 17:16:12",
+        "sentiment_score": -0.10822740197181702
+    },
+    {
+        "title": "Más pena que gloria",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/05/02/traspinedo-kRYF--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/alfonso-j-ussia-pena-gloria-20250503160122-nt.html",
+        "date": "2025-05-02 17:15:36",
+        "sentiment_score": -0.07155510783195496
+    },
+    {
+        "title": "Hartos de ir al supermercado",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2025/05/02/supremo-U01757377037gVT-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/pedro-garcia-cuartango-hartos-supermercado-20250503161220-nt.html",
+        "date": "2025-05-02 17:15:27",
+        "sentiment_score": -0.031012654304504395
+    },
+    {
+        "title": "El apagón y la oscuridad",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2025/05/02/supremo-U01757377037gVT-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-apagon-oscuridad-20250503155134-nt.html",
+        "date": "2025-05-02 17:15:18",
+        "sentiment_score": -0.1364821493625641
+    },
+    {
+        "title": "Cuatro muertos en un choque frontal de dos coches en Plasencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IDT5XGM7ABA3TGNOZZPDJCJXKA.jpg?auth=dd065a39a71d65f8e08ca2d27e5954e3acf27e7279b7156d7cb9dfda76440905&width=1200",
+        "tags": [
+            "cáceres",
+            "españa",
+            "accidentes tráfico",
+            "extremadura",
+            "plasencia",
+            "emergencias",
+            "carreteras",
+            "guardia civil"
+        ],
+        "link": "https://elpais.com/espana/2025-05-02/cuatro-muertos-en-un-choque-frontal-de-dos-coches-en-plasencia.html",
+        "date": "2025-05-02 19:35:17",
+        "sentiment_score": -0.7438221648335457
+    },
+    {
+        "title": "Un helicóptero de los Bomberos de Asturias que ayudaba en un incendio cae al pantano de Tanes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DXZU334IYNE2RBWAAALPXN5ECY.jpg?auth=3236941b1390502362bcaa64c2e575f268f90068e28d597d1610c6f05a3704be&width=1200",
+        "tags": [
+            "españa",
+            "principado de asturias",
+            "helicópteros",
+            "incendios",
+            "accidentes aéreos",
+            "sucesos",
+            "oviedo",
+            "bomberos"
+        ],
+        "link": "https://elpais.com/espana/2025-05-02/un-helicoptero-de-los-bomberos-de-asturias-que-ayudaba-en-un-incendio-cae-al-pantano-de-tanes.html",
+        "date": "2025-05-02 18:02:07",
+        "sentiment_score": -0.42387765645980835
+    },
+    {
+        "title": "«La marcha de Arturo Ruiz no puede hacernos perder el foco»",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/05/03/ORNELLA2-kvwC-U2301645526816UBH-748x524@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/granadacf/marcha-arturo-ruiz-puede-hacernos-perder-foco-20250503001543-nt.html",
+        "date": "2025-05-02 22:15:44",
+        "sentiment_score": 0.17381331324577332
+    },
+    {
+        "title": "Una \"fiesta bienhumorada\" y alternativa de 400 socialistas contra el \"sectarismo\" de Sol",
+        "image_url": "https://phantom-elmundo.uecdn.es/448f2bdfa6b618972d2dc29cef496cb6/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/02/17462085149135.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "madrid",
+            "psoe"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/05/03/68150642e9cf4a0d6e8b456e.html",
+        "date": "2025-05-02 22:07:47",
+        "sentiment_score": 0.06963041424751282
+    },
+    {
+        "title": "La banca digital se abre camino, pero también los peligros y las amenazas",
+        "image_url": "https://phantom-elmundo.uecdn.es/9b934333e97cf0acbca430e9d3d4a6b5/resize/1200/f/webp/assets/multimedia/imagenes/2025/04/25/17455957521912.jpg",
+        "tags": [
+            "actualidad económica especiales"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/05/03/68067c09e85ecedd7e8b459e.html",
+        "date": "2025-05-02 22:05:55",
+        "sentiment_score": 0.31744541972875595
+    },
+    {
+        "title": "Y tras el civismo, ¿ahora qué?",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/05/03/apagon-gente-tranquila-kTdF-U2301646541854jZC-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.canarias7.es/nacional/politica/tras-civismo-20250503000417-ntrc.html",
+        "date": "2025-05-02 22:04:18",
+        "sentiment_score": -0.3470213711261749
+    },
+    {
+        "title": "El PSOE extremeño mantiene el choque con el Gobierno y reitera la petición de prórroga de Almaraz",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/05/54275916255-8e0b355f82-h-e1746119686971-1440x808.jpg",
+        "tags": [
+            "extremadura",
+            "electricidad",
+            "partido socialista obrero español (psoe)",
+            "endesa",
+            "eléctricas",
+            "energía",
+            "partido popular (pp)",
+            "pedro sánchez",
+            "congreso de los diputados",
+            "naturgy",
+            "red eléctrica",
+            "aranceles",
+            "energías renovables",
+            "gobierno de españa",
+            "sara aagesen",
+            "iberdrola",
+            "energía nuclear",
+            "apagón",
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/05/03/el-psoe-extremeno-mantiene-el-choque-con-el-gobierno-y-reitera-la-peticion-de-prorroga-de-almaraz/",
+        "date": "2025-05-02 22:00:26",
+        "sentiment_score": -0.02210259437561035
+    },
+    {
+        "title": "Luis Díaz y Liverpool tomarían una decisión con el aumento salarial que pide el colombiano: hay suspenso en Anfield",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/05/02/luis-diaz-y-liverpool-tomarian-una-decision-con-el-aumento-salarial-que-pide-el-colombiano-hay-suspenso-en-anfield/",
+        "date": "2025-05-02 22:13:26",
+        "sentiment_score": 0.48503880202770233
+    },
+    {
+        "title": "El Bilbao Basket viaja en busca de su gran objetivo",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/05/02/abdur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/bilbao-basket-viaja-busca-gran-objetivo-20250502000722-nt.html",
+        "date": "2025-05-02 22:07:23",
+        "sentiment_score": -0.2733762189745903
+    },
+    {
+        "title": "Guía del partido Valladolid-Barça de hoy: dónde verlo, horario y alineaciones",
+        "image_url": "https://static1.ara.cat/clip/4d426202-bc1a-4318-aa9d-7d5c1dba59b1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/guia-partido-valladolid-barca-hoy-verlo-horario-alineaciones_1_5366627.html",
+        "date": "2025-05-02 22:05:48",
+        "sentiment_score": 0.06091306358575821
+    },
+    {
+        "title": "“¿Nucleares? No, gracias”: la frustrada campaña que marcó a una generación",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/05/02/68151de6719e2.r_d.269-140-9553.jpeg",
+        "tags": [
+            "historia contemporánea"
+        ],
+        "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20250503/10641595/nucleares-gracias-frustrada-campana-marco-generacion.html",
+        "date": "2025-05-02 22:05:00",
+        "sentiment_score": -0.14720381796360016
+    },
+    {
+        "title": "HPE, en el punto de mira de un inversor activista",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/04/26/680d320a97dc4.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250503/10621670/hpe-punto-mira-inversor.html",
+        "date": "2025-05-02 22:05:00",
+        "sentiment_score": -0.7610182072967291
+    },
+    {
+        "title": "Las mejores escenas del barroco Lacroix",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/05/03/ter-mejores-escenas-1-kyp-U2301641738764gV-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/territorios/mejores-escenas-barroco-lacroix-20250503000044-nt.html",
+        "date": "2025-05-02 22:00:45",
+        "sentiment_score": 0.17298094183206558
+    },
+    {
+        "title": "‘Pare’ no hay más que uno",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/05/01/pensamiento/1003742653999_14517460_1706x960.jpg?contentId=1003742653999",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250502/pare-no-hay-mas-que-uno/1003742653991_13.html",
+        "date": "2025-05-02 22:00:00",
+        "sentiment_score": -0.17458603531122208
+    },
+    {
+        "title": "La Feria de Abril de Cataluña también aprueba a Illa: “Necesitamos un Govern que nos tenga en cuenta a todos”",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/05/02/politica/1003742654379_14524587_1706x960.jpg?contentId=1003742654379",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/politica/20250502/la-feria-abril-cataluna-illa-necesitamos-govern/1003742654367_0.html",
+        "date": "2025-05-02 22:00:00",
+        "sentiment_score": 0.23391315340995789
+    },
+    {
+        "title": "'Parenostre' y la corrupción como instrumento de gobierno",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/05/01/pensamiento/1003742653984_14517210_1706x960.jpg?contentId=1003742653984",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250502/parenostre-la-corrupcion-como-instrumento-de-gobierno/1003742654003_13.html",
+        "date": "2025-05-02 22:00:00",
+        "sentiment_score": -0.7296983581036329
+    },
+    {
+        "title": "Estos son los lugares recomendados para vender monedas de colección en Estados Unidos: ofrecen venta directa o subastas",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746224187922.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/estos-son-los-lugares-recomendados-para-vender-monedas-de-coleccion-en-estados-unidos-ofrecen-venta-directa-o-subastas-20255218150",
+        "date": "2025-05-02 22:15:00",
+        "sentiment_score": 0.2559261806309223
+    },
+    {
+        "title": "California: así puede impactar en la economía local la falta de trabajadores inmigrantes en el campo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746223488720.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/california-asi-puede-impactar-en-la-economia-local-la-falta-de-trabajadores-inmigrantes-en-el-campo-2025521840",
+        "date": "2025-05-02 22:04:00",
+        "sentiment_score": 0.4187058135867119
+    },
+    {
+        "title": "Mujer demanda a American Airlines por agresión sexual durante un vuelo: la aerolínea había ignorado quejas anteriores",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746223717976.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/mujer-demanda-a-american-airlines-por-agresion-sexual-durante-un-vuelo-la-aerolinea-habia-ignorado-quejas-anteriores-20255217520",
+        "date": "2025-05-02 21:52:00",
+        "sentiment_score": -0.6873001847416162
+    },
+    {
+        "title": "Adolescente repatriada relata que fue separada de sus padres y hermanos: autoridades estadounidenses la enviaron sola a Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746222545874.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/adolescente-repatriada-relata-que-fue-separada-de-sus-padres-y-hermanos-autoridades-estadounidenses-la-enviaron-sola-a-venezuela-20255217230",
+        "date": "2025-05-02 21:23:00",
+        "sentiment_score": -0.783042598515749
+    },
+    {
+        "title": "Banco de Venezuela llega a TikTok: usuarios tendrán detalles sobre cómo potenciar su negocio",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746220562481.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/banco-de-venezuela-llega-a-tiktok-usuarios-tendran-detalles-sobre-como-potenciar-su-negocio-2025521790",
+        "date": "2025-05-02 21:09:00",
+        "sentiment_score": 0.32007221691310406
+    },
+    {
+        "title": "Oreo sortea $1.000 dólares en Estados Unidos: así puedes participar",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746220365611.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/oreo-sortea-1-000-dolares-en-estados-unidos-asi-puedes-participar-2025521770",
+        "date": "2025-05-02 21:07:00",
+        "sentiment_score": 0.2825297396630049
+    },
+    {
+        "title": "Florida anuncia cuándo vencen las licencias de conducir de extranjeros con estatus migratorio: debe revisar su documento",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746219594239.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/florida-anuncia-cuando-vencen-las-licencias-de-conducir-de-extranjeros-con-estatus-migratorio-debe-revisar-su-documento-20255216590",
+        "date": "2025-05-02 20:59:00",
+        "sentiment_score": 0.1873220056295395
+    },
+    {
+        "title": "Sistema Patria: tome nota de estos seis consejos si tiene problemas para ingresar a la plataforma",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746220375537.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/sistema-patria-tome-nota-de-estos-seis-consejos-si-tiene-problemas-para-ingresar-a-la-plataforma-20255216520",
+        "date": "2025-05-02 20:52:00",
+        "sentiment_score": -0.002441391348838806
+    },
+    {
+        "title": "Programa Home de Texas favorece a inmigrantes que necesitan vivienda: requisitos para acceder",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746221674678.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/programa-home-de-texas-favorece-a-inmigrantes-que-necesitan-vivienda-requisitos-para-acceder-20255216400",
+        "date": "2025-05-02 20:40:00",
+        "sentiment_score": 0.6486907340586185
+    },
+    {
+        "title": "Precio del dólar BCV para el 5 de mayo: así abrirá la semana la moneda estadounidense",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746218399044.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-bcv-para-el-5-de-mayo-asi-abrira-la-semana-la-moneda-estadounidense-20255216350",
+        "date": "2025-05-02 20:35:00",
+        "sentiment_score": -0.0397089347243309
     }
 ];
