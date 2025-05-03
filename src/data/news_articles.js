@@ -140,66 +140,6 @@ export default [
         "sentiment_score": -0.23888663947582245
     },
     {
-        "title": "Sin USAID para sus vecinos, EE.UU. arriesga mayor inmigración y penetración china",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/29/usaid_20250429154244-ROo05bmYiqF2vBHScQXoSVJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/usaid-vecinos-eeuu-arriesga-mayor-inmigracion-penetracion-20250429153612-nt.html",
-        "date": "2025-04-29 13:44:58",
-        "sentiment_score": -0.09013599157333374
-    },
-    {
-        "title": "Red Eléctrica avisó de que la gran penetración de las renovables podía generar «riesgos de desconexión»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/29/1495773305-RMYlFjYM7FRNVlvh8dJQazM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/red-electrica-aviso-gran-penetracion-renovables-generar-20250429151515-nt.html",
-        "date": "2025-04-29 13:15:16",
-        "sentiment_score": -0.08784937858581543
-    },
-    {
-        "title": "Amnistía Internacional denuncia que los 100 días de Trump «son un desafío para los derechos humanos»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/29/afp1-kUAD-U70890276879w5G-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/amnistia-internacional-denuncia-100-dias-trump-desafio-20250429150753-nt.html",
-        "date": "2025-04-29 13:07:54",
-        "sentiment_score": -0.18945613503456116
-    },
-    {
-        "title": "Los plásticos domésticos causaron más de 356.000 muertes cardíacas en 2018",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/04/29/pexels-fede-arna-6138732.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/plasticos-domesticos-causaron-356000-muertes-cardiacas-2018-20250429141741-nt.html",
-        "date": "2025-04-29 12:18:56",
-        "sentiment_score": -0.13963454961776733
-    },
-    {
-        "title": "Una innovadora terapia CAR-T española rescata a pacientes con linfoma",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/04/29/74296497_41d7b02bdd_o.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/innovadora-terapia-cart-espanola-rescata-pacientes-linfoma-20250429140039-nt.html",
-        "date": "2025-04-29 12:01:13",
-        "sentiment_score": -0.057586103677749634
-    },
-    {
-        "title": "Miles de pasajeros de la alta velocidad ferroviaria siguen en tierra este martes por el apagón masivo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/04/29/1495793114-R44pHTrmBzY46CBx03jaZ3M-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/miles-pasajeros-alta-velocidad-ferroviaria-siguen-tierra-20250429135708-nt.html",
-        "date": "2025-04-29 12:00:47",
-        "sentiment_score": -0.15062889456748962
-    },
-    {
         "title": "El Constitucional admite a trámite el recurso de Ayuso contra el reparto de migrantes por comunidades",
         "image_url": "https://imagenes.elpais.com/resizer/v2/DWTZDZRXSRHL7IESM3T3DYRHWM.jpg?auth=c91032daff7f58a2b5dd36cbad03201cbdc0c3e4a784d4289bb1fb4eda7489c2&width=1200",
         "tags": [
@@ -7026,5 +6966,386 @@ export default [
         "link": "https://2001online.com/nacionales/precio-del-dolar-bcv-para-el-5-de-mayo-asi-abrira-la-semana-la-moneda-estadounidense-20255216350",
         "date": "2025-05-02 20:35:00",
         "sentiment_score": -0.0397089347243309
+    },
+    {
+        "title": "El Eibar quiere la victoria ante el Depor para acercarse a la zona de arriba",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/el-eibar-quiere-la-victoria-ante-el-depor-para-acercarse-a-la-zona-de-arriba/",
+        "date": "2025-05-03 02:04:57",
+        "sentiment_score": 0.21661370992660522
+    },
+    {
+        "title": "Valero recupera el liderato y se jugará la Tartessos con Ferreira",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/valero-recupera-el-liderato-y-se-jugara-la-tartessos-con-ferreira/",
+        "date": "2025-05-03 02:04:43",
+        "sentiment_score": 0.6489597149193287
+    },
+    {
+        "title": "La mujer asesinada en Asturias llevaba \"muy poco tiempo\" de relación con el presunto autor",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/la-mujer-asesinada-en-asturias-llevaba-muy-poco-tiempo-de-relacion-con-el-presunto-autor/",
+        "date": "2025-05-03 02:04:29",
+        "sentiment_score": -0.7099892888218164
+    },
+    {
+        "title": "Bolaños dice que Ayuso, su pareja y Miguel Ángel Rodríguez van a ir \"pa'casa\" en 2027",
+        "image_url": "https://www.infobae.com/resizer/v2/GPSZJQUH7RAIHC4DZFG3J5WM5E.jpg?auth=db578ad7dc74af9584d848440e6ecf14e35963fa144886bb9d96f3f8d1e615ee&height=1268&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/bolanos-dice-que-ayuso-su-pareja-y-miguel-angel-rodriguez-van-a-ir-pacasa-en-2027/",
+        "date": "2025-05-03 02:04:15",
+        "sentiment_score": 0.22561916708946228
+    },
+    {
+        "title": "Muere un hombre en Ibiza intoxicado por un brasero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/muere-un-hombre-en-ibiza-intoxicado-por-un-brasero/",
+        "date": "2025-05-03 02:04:00",
+        "sentiment_score": -0.815498823300004
+    },
+    {
+        "title": "Mazón expresa su \"respeto\" a la gente que se manifiesta por su gestión y critica a quien \"se aprovecha del dolor\"",
+        "image_url": "https://www.infobae.com/resizer/v2/LKZH5DYP4BCV7LVKR7EMIVIH6M.jpg?auth=a6563d1de0d8215cbe0bed8421e39ef0d9d07d638d10b5add4dc24b4cb49b1cb&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/mazon-expresa-su-respeto-a-la-gente-que-se-manifiesta-por-su-gestion-y-critica-a-quien-se-aprovecha-del-dolor/",
+        "date": "2025-05-03 02:03:46",
+        "sentiment_score": -0.8234587125480175
+    },
+    {
+        "title": "El Castellón y el Huesca se miden en dinámicas opuestas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/el-castellon-y-el-huesca-se-miden-en-dinamicas-opuestas/",
+        "date": "2025-05-03 01:48:10",
+        "sentiment_score": 0.17204762995243073
+    },
+    {
+        "title": "Temas del día de EFE España del sábado 1 de febrero de 2025 (13:30 horas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/temas-del-dia-de-efe-espana-del-sabado-1-de-febrero-de-2025-1330-horas/",
+        "date": "2025-05-03 01:47:56",
+        "sentiment_score": -0.7863548416644335
+    },
+    {
+        "title": "Podemos: \"Junts y Puigdemont quieren ir de leones, pero son gatitos domesticados\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/podemos-junts-y-puigdemont-quieren-ir-de-leones-pero-son-gatitos-domesticados/",
+        "date": "2025-05-03 01:47:42",
+        "sentiment_score": -0.6108071357011795
+    },
+    {
+        "title": "Illa a Ayuso: \"No aceptamos lecciones de solidaridad, ni de libertad, ni de honestidad\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/illa-a-ayuso-no-aceptamos-lecciones-de-solidaridad-ni-de-libertad-ni-de-honestidad/",
+        "date": "2025-05-03 01:47:28",
+        "sentiment_score": 0.38343556225299835
+    },
+    {
+        "title": "George Simion: «Pretendo hacer en Rumanía lo mismo que Trump en EE.UU.»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/02/SIMION2-R6zEUUs9rsGhBARhHXsDozO-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/george-simion-pretendo-rumania-trump-eeuu-20250502202501-nt.html",
+        "date": "2025-05-03 00:58:47",
+        "sentiment_score": -0.13510099053382874
+    },
+    {
+        "title": "Volkswagen, en su peor crisis desde el escándalo del diésel",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/05/03/ceo-k6qE-U709142114348nG-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/volkswagen-peor-crisis-escandalo-diesel-20250503023252-nt.html",
+        "date": "2025-05-03 00:32:53",
+        "sentiment_score": -0.1386204957962036
+    },
+    {
+        "title": "Hipèrboles",
+        "image_url": "https://uh.gsstatic.es/autor/joan-guasp/10925.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/05/03/2378731/hiperboles.html",
+        "date": "2025-05-03 02:00:02",
+        "sentiment_score": -0.12720715999603271
+    },
+    {
+        "title": "Cáncer de estómago: un tumor asintomático que tiene relación con el helicobácter pylori",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/004097dc-aab9-4871-a9d4-6212f0e81516_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "aparato digestivo,responde el doctor,oncología,cáncer de pancreas"
+        ],
+        "link": "https://www.superdeporte.es/salud/guia/2025/05/03/cancer-gastrico-o-estomago-tumor-89165229.html",
+        "date": "2025-05-03 01:59:00",
+        "sentiment_score": -0.3526313006877899
+    },
+    {
+        "title": "El Joventut recupera efectivos y pone a prueba el liderato del Real Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/01/el-joventut-recupera-efectivos-y-pone-a-prueba-el-liderato-del-real-madrid/",
+        "date": "2025-05-03 01:49:10",
+        "sentiment_score": 0.4876050725579262
+    },
+    {
+        "title": "Hansi Flick: \"Szczesny es el número uno\"",
+        "image_url": "https://www.infobae.com/resizer/v2/IXX7GRCWOFFXBNVVO5ANR2UDPY.jpg?auth=3da8a329eeacdc4044290b9fe6b0fbaee44337d49926654269d1ec7e5107f9d0&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/01/hansi-flick-szczesny-es-el-numero-uno/",
+        "date": "2025-05-03 01:48:56",
+        "sentiment_score": 0.36446666717529297
+    },
+    {
+        "title": "El Athletic pone a prueba su puesto 'Champions' y el Betis las aspiraciones europeas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/01/el-athletic-pone-a-prueba-su-puesto-champions-y-el-betis-las-aspiraciones-europeas/",
+        "date": "2025-05-03 01:33:29",
+        "sentiment_score": 0.7139072604477406
+    },
+    {
+        "title": "Flick: \"Tenemos que encadenar varios partidos ganando para poner presión al Real Madrid\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/01/flick-tenemos-que-encadenar-varios-partidos-ganando-para-poner-presion-al-real-madrid/",
+        "date": "2025-05-03 01:33:15",
+        "sentiment_score": 0.581464871764183
+    },
+    {
+        "title": "Álvaro Morales cumple apuesta y se rapa en programa en vivo",
+        "image_url": "https://www.infobae.com/resizer/v2/QZ4VKD2TNJD3BAUOHUOP37GWTI.jpg?auth=0bc91b9175260fd7abbb17f4eaab0e280f326b0383525e33dd62f81540910c8f&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/05/03/alvaro-morales-cumple-apuesta-y-se-rapa-en-programa-en-vivo/",
+        "date": "2025-05-03 01:28:24",
+        "sentiment_score": 0.26366427540779114
+    },
+    {
+        "title": "La Laguna Tenerife, a por la defensa del cuarto puesto ante el Río Breogán",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/01/la-laguna-tenerife-a-por-la-defensa-del-cuarto-puesto-ante-el-rio-breogan/",
+        "date": "2025-05-03 01:18:20",
+        "sentiment_score": 0.16973276436328888
+    },
+    {
+        "title": "La Liga: ¿Cuándo fue la última vez que Celta le ganó a Real Madrid en el Bernabéu?",
+        "image_url": "https://pxcdn.meridiano.net/042025/1745930937913.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/la-liga-cuando-fue-la-ultima-vez-que-celta-gano-a-real-madrid-en-bernabeu--20254298330",
+        "date": "2025-05-03 01:12:00",
+        "sentiment_score": 0.3326859623193741
+    },
+    {
+        "title": "Juanmi, titular en el Getafe; Pedrosa y Romero vuelven al once del Sevilla",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/01/juanmi-titular-en-el-getafe-pedrosa-y-romero-vuelven-al-once-del-sevilla/",
+        "date": "2025-05-03 01:03:04",
+        "sentiment_score": 0.6720512174069881
+    },
+    {
+        "title": "Tormenta de noticias",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/01/investidura-presidente-estados-unidos-donald-trump-2-750x500.jpg",
+        "tags": [
+            "opinión",
+            "colaboraciones"
+        ],
+        "link": "https://elfarodeceuta.es/tormenta-de-noticias/",
+        "date": "2025-05-03 02:10:25",
+        "sentiment_score": -0.8457307070493698
+    },
+    {
+        "title": "Pep Guardiola se tomará un descanso del fútbol en 2027",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/01/AP25011643397748.jpg",
+        "tags": [
+            "uncategorized"
+        ],
+        "link": "https://eldiariony.com/2025/05/02/pep-guardiola-se-tomara-un-descanso-del-futbol-en-2027/",
+        "date": "2025-05-03 02:04:01",
+        "sentiment_score": 0.027446337044239044
+    },
+    {
+        "title": "Diego Ocampo: \"Para volver a ganar al Barça necesitamos continuidad defensiva\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/01/diego-ocampo-para-volver-a-ganar-al-barca-necesitamos-continuidad-defensiva/",
+        "date": "2025-05-03 02:03:00",
+        "sentiment_score": 0.3176776096224785
+    },
+    {
+        "title": "Caos urbano",
+        "image_url": "https://uh.gsstatic.es/autor/amaya-michelena/416.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/05/03/2378739/caos-urbano.html",
+        "date": "2025-05-03 02:00:02",
+        "sentiment_score": -0.021153241395950317
+    },
+    {
+        "title": "«Abrí Facebook y encontré un montón de mensajes de una persona que se había creado una realidad paralela»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3289611.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2025/05/03/2378853/sucesos-mallorca-mujer-relata-juicio-palma-acoso-sufre-por-parte-hombre-que-coincidio-hace-anos.html",
+        "date": "2025-05-03 02:00:02",
+        "sentiment_score": -0.5150486566126347
+    },
+    {
+        "title": "La cadena de librerías La Central se interesa por La Biblioteca de Babel",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3289343.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/05/03/2378705/libros-cadena-central-muestra-interes-por-abrir-nueva-libreria-palma.html",
+        "date": "2025-05-03 02:00:02",
+        "sentiment_score": -0.13746456801891327
+    },
+    {
+        "title": "Dolor de rodillas: mantendrá saludable tus articulaciones y tejido conectivo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746201844342.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/dolor-de-rodillas-mantendra-saludable-tus-articulaciones-y-tejido-conectivo-20255222100",
+        "date": "2025-05-03 02:10:00",
+        "sentiment_score": 0.6780531071126461
+    },
+    {
+        "title": "Corpocapital invita a vecinos y comerciantes a renovar contratos vencidos en Parque Central: permitirá continuar con las mejoras",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746234834513.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/corpocapital-invita-a-vecinos-y-comerciantes-a-renovar-contratos-vencidos-en-parque-central-permitira-continuar-con-las-mejoras-2025522270",
+        "date": "2025-05-03 02:07:00",
+        "sentiment_score": 0.3808422386646271
+    },
+    {
+        "title": "Cuatro mexicanos fueron detenidos por cruzar inmigrantes de Canadá a Estados Unidos: cobraban elevadas sumas de dinero",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746236472955.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/cuatro-mexicanos-fueron-detenidos-por-cruzar-inmigrantes-de-canada-a-estados-unidos-cobraban-elevadas-sumas-de-dinero-20255221380",
+        "date": "2025-05-03 01:38:00",
+        "sentiment_score": -0.8192877899855375
+    },
+    {
+        "title": "Cabello denuncia la decisión de Estados Unidos de no repatriar niños: Es la respuesta arrogante del imperialismo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746236919080.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/cabello-denuncia-la-decision-de-estados-unidos-de-no-repatriar-ninos-es-la-respuesta-arrogante-del-imperialismo-20255221360",
+        "date": "2025-05-03 01:36:00",
+        "sentiment_score": -0.2652370408177376
+    },
+    {
+        "title": "DOGE desactivará estas tarjetas de crédito: la razón y quiénes son los afectados",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746209624878.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/doge-desactivara-estas-tarjetas-de-credito-la-razon-y-quienes-son-los-afectados-20255221300",
+        "date": "2025-05-03 01:30:00",
+        "sentiment_score": -0.4171833507716656
+    },
+    {
+        "title": "Gustavo Petro revela que fue sometido a una cirugía facial: \"era una masa que pudo ser maléfica\"",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746235049313.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/gustavo-petro-revela-que-fue-sometido-a-una-cirugia-facial-era-una-masa-que-pudo-ser-malefica--20255221290",
+        "date": "2025-05-03 01:29:00",
+        "sentiment_score": -0.595200426876545
+    },
+    {
+        "title": "Chicharrones importados desde Colombia se venden sin autorización a USA: emiten alerta",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746217322582.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/chicharrones-importados-desde-colombia-se-venden-sin-autorizacion-a-usa-emiten-alerta-20255221250",
+        "date": "2025-05-03 01:25:00",
+        "sentiment_score": 0.027052827179431915
+    },
+    {
+        "title": "Redadas ICE del 2 de mayo: arrestan a inmigrante venezolano vinculado a un homicidio en el extranjero",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746234410299.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-2-de-mayo-arrestan-a-inmigrante-venezolano-vinculado-a-un-homicidio-en-el-extranjero-2025522160",
+        "date": "2025-05-03 01:06:00",
+        "sentiment_score": -0.7407205831259489
+    },
+    {
+        "title": "Entérate de cuál es el eficaz truco para que el cabello dure más tiempo limpio",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746233222238.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/enterate-de-cual-es-el-eficaz-truco-para-que-el-cabello-dure-mas-tiempo-limpio--20255220550",
+        "date": "2025-05-03 00:55:00",
+        "sentiment_score": -0.6850129961967468
+    },
+    {
+        "title": "El venezolano Reinaldo De Fernández publica en España su primer libro “El Canto de los Azulejos”",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746231722108.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/el-venezolano-reinaldo-de-fernandez-publica-en-espana-su-primer-libro-el-canto-de-los-azulejos--20255220450",
+        "date": "2025-05-03 00:45:00",
+        "sentiment_score": 0.17706579342484474
     }
 ];
