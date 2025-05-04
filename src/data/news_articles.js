@@ -140,66 +140,6 @@ export default [
         "sentiment_score": -0.09818609058856964
     },
     {
-        "title": "El VIII Congreso CEAPI reunirá en Sevilla a 500 líderes empresariales e institucionales en un momento decisivo para Latinoamérica y la Unión Europea",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/04/30/ceapi-kyhC-U70901530190SDF-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/viii-congreso-ceapi-reunira-sevilla-500-lideres-20250430150031-nt.html",
-        "date": "2025-04-30 13:00:32",
-        "sentiment_score": 0.016694694757461548
-    },
-    {
-        "title": "Polonia compra a Estados Unidos 400 misiles de medio alcance",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/04/30/AMRAAMF3R_20210512_007-RPVaBhKJsNKllqNoMRQuxjJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/polonia-compra-estados-unidos-400-misiles-medio-20250430142441-nt.html",
-        "date": "2025-04-30 12:29:09",
-        "sentiment_score": 0.036550700664520264
-    },
-    {
-        "title": "El Gobierno desdeña el impacto de la guerra comercial y mantiene su previsión de crecimiento en el 2,6%",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/30/carloscuerpoefe-Rz9fiGiujl5cgjV9W8sh4AI-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-desdena-impacto-guerra-comercial-mantiene-prevision-20250430141116-nt.html",
-        "date": "2025-04-30 12:13:53",
-        "sentiment_score": 0.14181171357631683
-    },
-    {
-        "title": "La UE defiende el kit de supervivencia presentado hace un mes: «El apagón en España y Portugal demuestra que tenemos que estar preparados»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/04/30/supermercados-kERE-U709009193082WE-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ue-defiende-kit-supervivencia-presentado-mes-apagon-20250430140646-nt.html",
-        "date": "2025-04-30 12:10:16",
-        "sentiment_score": -0.15421919524669647
-    },
-    {
-        "title": "Electricidad más cara y merma fiscal de 1.000 millones: el coste del «apagón» nuclear en España",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/04/30/asco-R4DIIicqzwnvkobD5lGOasN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/electricidad-cara-merma-fiscal-1000-millones-coste-20250430135316-nt.html",
-        "date": "2025-04-30 11:53:17",
-        "sentiment_score": -0.08503250777721405
-    },
-    {
-        "title": "Así ayuda el ejercicio físico entre los 45 y 65 años a prevenir el alzhéimer",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/04/30/hombre-runningcopia.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/ayuda-ejercicio-fisico-anos-prevenir-alzheimer-20250430130000-nt.html",
-        "date": "2025-04-30 11:00:01",
-        "sentiment_score": -0.05015107989311218
-    },
-    {
         "title": "ERC propone equiparar la tasa turística catalana de hoteles de cinco estrellas y pisos turísticos",
         "image_url": "https://imagenes.elpais.com/resizer/v2/FZ5I63J3T5L3ZLOFIAF7LQFIEY.jpg?auth=e448b0044d523284a846a172e98e24a35992806e7041416f6d292677fc966d6f&width=1200",
         "tags": [
@@ -6634,5 +6574,405 @@ export default [
         "link": "https://2001online.com/farandula/carolina-sandoval-se-ausenta-de-las-pantallas-por-intervencion-medica-no-fue-por-motivos-esteticos-sino-por-salud-20255316160",
         "date": "2025-05-03 20:18:00",
         "sentiment_score": 0.02093341574072838
+    },
+    {
+        "title": "Temas del día de EFE Economía del lunes 3 de febrero de 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/02/temas-del-dia-de-efe-economia-del-lunes-3-de-febrero-de-2025/",
+        "date": "2025-05-04 02:03:03",
+        "sentiment_score": 0.026430722326040268
+    },
+    {
+        "title": "El Atlético pincha y cede la tercera plaza a la Real Sociedad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/02/el-atletico-pincha-y-cede-la-tercera-plaza-a-la-real-sociedad/",
+        "date": "2025-05-04 02:02:49",
+        "sentiment_score": 0.4100992828607559
+    },
+    {
+        "title": "Detenido tras agredir a un taxista y robarle después el vehículo en Burguillos (Toledo)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/02/detenido-tras-agredir-a-un-taxista-y-robarle-despues-el-vehiculo-en-burguillos-toledo/",
+        "date": "2025-05-04 02:02:35",
+        "sentiment_score": -0.7718962505459785
+    },
+    {
+        "title": "Muere con 51 años Marc Lloret, teclista y fundador de la banda Mishima",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/02/muere-con-51-anos-marc-lloret-teclista-y-fundador-de-la-banda-mishima/",
+        "date": "2025-05-04 02:02:22",
+        "sentiment_score": 0.012693047523498535
+    },
+    {
+        "title": "Diez personas fallecidas en accidentes de tráfico este fin de semana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/02/diez-personas-fallecidas-en-accidentes-de-trafico-este-fin-de-semana/",
+        "date": "2025-05-04 02:02:06",
+        "sentiment_score": -0.8119979593902826
+    },
+    {
+        "title": "Prisión sin fianza para el diputado de la Asamblea de Ceuta acusado de narcotráfico",
+        "image_url": "https://www.infobae.com/resizer/v2/ETI36ZK4KJBB7JIPK7NNH7FVVY.jpg?auth=f4c810588020e8ab534b26c12fbb119531f0865127043b631f5dac3730218456&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/02/prision-sin-fianza-para-el-diputado-de-la-asamblea-de-ceuta-acusado-de-narcotrafico/",
+        "date": "2025-05-04 01:49:09",
+        "sentiment_score": -0.704252352938056
+    },
+    {
+        "title": "Encuentra: \"Salvar el 'average' es lo único positivo de este partido\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/02/encuentra-salvar-el-average-es-lo-unico-positivo-de-este-partido/",
+        "date": "2025-05-04 01:47:39",
+        "sentiment_score": 0.582907110452652
+    },
+    {
+        "title": "3-1.Con dos goles en 4 minutos, el Leverkusen de Alonso encarrila triunfo sobre Hoffenheim",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/02/3-1con-dos-goles-en-4-minutos-el-leverkusen-de-alonso-encarrila-triunfo-sobre-hoffenheim/",
+        "date": "2025-05-04 01:47:26",
+        "sentiment_score": 0.42845986038446426
+    },
+    {
+        "title": "Una persona muerta y cinco heridas en una colisión múltiple en Alcover (Tarragona)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/02/una-persona-muerta-y-cinco-heridas-en-una-colision-multiple-en-alcover-tarragona/",
+        "date": "2025-05-04 01:47:10",
+        "sentiment_score": -0.6760349459946156
+    },
+    {
+        "title": "Rescatados 5 esquiadores y un cazador accidentados el fin de semana en el Pirineo aragonés",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/02/rescatados-5-esquiadores-y-un-cazador-accidentados-el-fin-de-semana-en-el-pirineo-aragones/",
+        "date": "2025-05-04 01:34:35",
+        "sentiment_score": -0.67310531437397
+    },
+    {
+        "title": "La lentitud regulatoria del Gobierno lastra el desarrollo del almacenamiento energético",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/05/04/renovables-RHu8a2iv9Z0GxEV6sDSyR0H-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/lentitud-regulatoria-gobierno-lastra-desarrollo-almacenamiento-energetico-20250504162931-nt.html",
+        "date": "2025-05-04 01:12:46",
+        "sentiment_score": -0.034555792808532715
+    },
+    {
+        "title": "Sánchez no puede con Madrid",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/04/30/broncano-orcera-kYsE--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-sanchez-puede-madrid-20250504163516-nt.html",
+        "date": "2025-05-04 00:53:25",
+        "sentiment_score": -0.03829848766326904
+    },
+    {
+        "title": "Terremoto en La Caixa con profundas réplicas en una España con los plomos fundidos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/04/faine,simon.baucells-RxRrspDYYb9eQQmT4mLGhUM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/maria-jesus-perez-terremoto-caixa-profundas-replicas-espana-plomos-fundidos-20250504194127-nt.html",
+        "date": "2025-05-04 00:52:18",
+        "sentiment_score": -0.05913272500038147
+    },
+    {
+        "title": "Rumanía vuelve a votar con otro candidato prorruso como favorito",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/05/03/simion-RhutrNSUpU8BJsjHo8PaseN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/rumania-vuelve-votar-candidato-prorruso-favorito-20250503024414-nt.html",
+        "date": "2025-05-04 00:44:15",
+        "sentiment_score": -0.11020982265472412
+    },
+    {
+        "title": "Suecia, bajo el terror de los niños sicarios",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/01/police-kA3F-U709080089634gF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/uppsala-bajo-terror-ninos-sicarios-bandas-suecas-20250501204741-nt.html",
+        "date": "2025-05-04 00:41:04",
+        "sentiment_score": -0.269953191280365
+    },
+    {
+        "title": "EE.UU. y Alemania chocan de nuevo por la ultraderecha de AfD",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/05/03/muska-RPVnE3qXL7zQbxkUnF0TtSL-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/eeuu-alemania-chocan-nuevo-ultraderecha-afd-20250503022714-nt.html",
+        "date": "2025-05-04 00:27:15",
+        "sentiment_score": -0.2049536406993866
+    },
+    {
+        "title": "Roma, capital de Europa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/05/04/SantAngelo-RAAuIBVTYPsnzrJKkbj7zBK-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-roma-capital-europa-20250504015728-nt.html",
+        "date": "2025-05-03 23:57:46",
+        "sentiment_score": -0.05070647597312927
+    },
+    {
+        "title": "El camino hacia el colapso moral (II)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ce85b96f-d804-4a3a-9447-4a16bea9b005_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/canarias/2025/05/04/camino-colapso-moral-ii-117007238.html",
+        "date": "2025-05-04 02:09:43",
+        "sentiment_score": -0.6088280230760574
+    },
+    {
+        "title": "86-73: El Real Madrid se enciende a tiempo ante el Joventut para conservar el liderato",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/02/86-73-el-real-madrid-se-enciende-a-tiempo-ante-el-joventut-para-conservar-el-liderato/",
+        "date": "2025-05-04 02:03:46",
+        "sentiment_score": 0.8199438638985157
+    },
+    {
+        "title": "Reto de altura en el Movistar Arena ante un Madrid herido",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9616024c-50f6-482c-b2b3-0ead07060226_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2025/05/04/reto-altura-movistar-arena-madrid-117005668.html",
+        "date": "2025-05-04 02:00:32",
+        "sentiment_score": 0.42842064797878265
+    },
+    {
+        "title": "El filial quiere dar en casa el último paso hacia el ‘Playoff’",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2025/05/04/filial-quiere-dar-casa-ultimo-117003668.html",
+        "date": "2025-05-04 02:00:29",
+        "sentiment_score": 0.21518345177173615
+    },
+    {
+        "title": "Doble pared y zurdazo fulminante: el golazo de Lionel Messi en la victoria del Inter Miami ante el New York Red Bulls",
+        "image_url": "https://www.infobae.com/resizer/v2/UCZHM7ZPAFCLFF6IHA544C6P7A.jpg?auth=fdb249d69e27473c2a6bd0d4ae3ef9553142d1eed573fca493c5d2aee9a435a5&height=2629&smart=true&width=3944",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/05/04/doble-pared-y-zurdazo-fulminante-el-golazo-de-lionel-messi-en-la-victoria-del-inter-miami-ante-el-new-york-red-bulls/",
+        "date": "2025-05-04 01:44:39",
+        "sentiment_score": 0.010939061641693115
+    },
+    {
+        "title": "(Crónica) El Arsenal pasa por encima del Manchester City en su lucha por la Premier",
+        "image_url": "https://www.infobae.com/resizer/v2/TVTFXKL3JVBX3P3S6DNJTLTMQU.jpg?auth=9a585bc93e3c335e7cc641ab6d47470c30b9afea51b338323efb5616ad3b8472&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/02/cronica-el-arsenal-pasa-por-encima-del-manchester-city-en-su-lucha-por-la-premier/",
+        "date": "2025-05-04 01:33:25",
+        "sentiment_score": 0.5007744431495667
+    },
+    {
+        "title": "Szczesny y diez más para la Champions y el Clásico",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/04/2025050402571890629.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/szczesny-diez-mas-champions-clasico/20250504031147342830.html",
+        "date": "2025-05-04 01:11:47",
+        "sentiment_score": 0.7000488415360451
+    },
+    {
+        "title": "Pedri, De Jong, Lamine, Raphinha y Olmo: la hoja de ruta de Flick para gestionar los minutos de las estrellas del Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/05/04/culemania/primer-equipo/1003742654543_14527448_1706x960.jpg?contentId=1003742654543",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250504/pedri-jong-lamine-raphinha-de-flick-barca/1003742654539_0.html",
+        "date": "2025-05-04 01:05:21",
+        "sentiment_score": 0.09215924143791199
+    },
+    {
+        "title": "5-1. El Arsenal atormenta al City",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/02/5-1-el-arsenal-atormenta-al-city/",
+        "date": "2025-05-04 01:04:03",
+        "sentiment_score": 0.8758011162281036
+    },
+    {
+        "title": "El árbitro De Burgos Bengoetxea seinventa un penalti",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0932cd67-ac09-4931-9dc6-3b24159ab161_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2025/05/04/arbitro-burgos-bengoetxea-seinventa-penalti-117004881.html",
+        "date": "2025-05-04 02:00:32",
+        "sentiment_score": -0.5205390825867653
+    },
+    {
+        "title": "Marlon Velasco, un 'enemigo' de la casa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/palma-futsal/2025/05/04/2379443/futbol-sala-champions-league-palma-persigue-triple-corona.html",
+        "date": "2025-05-04 02:00:01",
+        "sentiment_score": 0.03520627319812775
+    },
+    {
+        "title": "Día de la Madre: las que sostienen la enfermedad",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/28/19/11/7/ia-madre.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/dia-madre-sostienen-enfermedad_174759_102.html",
+        "date": "2025-05-04 02:00:00",
+        "sentiment_score": -0.08226457238197327
+    },
+    {
+        "title": "Moda rural para las fiestas de este verano en León: Con el corazón en un pueblo",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/28/18/73/5/corazonespuebloscamsietas.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/moda-mas-rural-con-corazon-en-pueblo_174748_102.html",
+        "date": "2025-05-04 02:00:00",
+        "sentiment_score": 0.0011962652206420898
+    },
+    {
+        "title": "Conoce donde están ubicados los Centros de Atención al Usuario de Corpoelec en Caracas: son seis oficinas",
+        "image_url": "https://pxcdn.meridiano.net/092023/1695842189098.webp?ch=650&cw=1155&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conoce-donde-estan-ubicados-los-centros-de-atencion-al-usuario-de-corpoelec-en-caracas-son-seis-oficinas-2025532200",
+        "date": "2025-05-04 02:00:00",
+        "sentiment_score": 0.13862376101315022
+    },
+    {
+        "title": "Elecciones regionales 2025: candidatos a la Asamblea Nacional realizan encuentro con jóvenes del GPP en Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746323387524/WhatsApp%20Image%202025-05-03%20at%205.37.14%20PM.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/elecciones-regionales-2025-candidatos-a-la-asamblea-nacional-realizan-encuentro-con-jovenes-del-gpp-en-caracas-20255321260",
+        "date": "2025-05-04 01:51:00",
+        "sentiment_score": 0.12775686755776405
+    },
+    {
+        "title": "Logan Paul tiene un nuevo rival, ¿olvidará la rencilla contra Lionel Messi?",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746325985146/USATSI_23739922.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/logan-paul-tiene-un-nuevo-rival-olvidara-la-rencilla-contra-lionel-messi--20255322360",
+        "date": "2025-05-04 01:50:09",
+        "sentiment_score": -0.5677333474159241
+    },
+    {
+        "title": "Energía cósmica positiva tres signos que verán mucho dinero durante mayo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746203791264/signos%20que%20vera%CC%81n%20mucho%20dinero%20durante%20mayo.jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/energia-cosmica-positiva-tres-signos-que-veran-mucho-dinero-durante-mayo-20255321300",
+        "date": "2025-05-04 01:30:00",
+        "sentiment_score": 0.5430452413856983
+    },
+    {
+        "title": "Cuándo se celebra el Día de las Madres en Estados Unidos: opciones para festejar en familia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cuando-se-celebra-el-dia-de-las-madres-en-estados-unidos-opciones-para-festejar-en-familia-20255321280",
+        "date": "2025-05-04 01:28:00",
+        "sentiment_score": 0.011161431670188904
+    },
+    {
+        "title": "¿Te avergüenza tu vello facial? Elimínalo fácilmente de esta forma",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1746040189533/angry-displeased-lady-holding-razor_171337-1781.jpeg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/te-averguenza-tu-vello-facial-eliminalo-facilmente-de-esta-forma-20255321150",
+        "date": "2025-05-04 01:15:00",
+        "sentiment_score": 0.3874306119978428
+    },
+    {
+        "title": "Pensionados: seis pasos para acceder al Ingreso de Guerra con aumento",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/pensionados-seis-pasos-para-acceder-al-ingreso-de-guerra-con-aumento-2025532100",
+        "date": "2025-05-04 01:00:00",
+        "sentiment_score": -0.04320155084133148
+    },
+    {
+        "title": "Fiscalía restituye inmueble a adulto mayor en Aragua: estaba invadido por un sujeto desde hace 10 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/fiscalia-restituye-inmueble-a-adulto-mayor-en-aragua-estaba-invadido-por-un-sujeto-desde-hace-10-anos-20255320520",
+        "date": "2025-05-04 00:52:00",
+        "sentiment_score": -0.07179562002420425
+    },
+    {
+        "title": "El oro sigue subiendo su valor en USA: consejos prácticos para comprar o vender el metal",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-oro-sigue-subiendo-su-valor-en-usa-consejos-practicos-para-comprar-o-vender-el-metal-20255320400",
+        "date": "2025-05-04 00:40:00",
+        "sentiment_score": 0.4129967428743839
+    },
+    {
+        "title": "Cambio de juego: Estrellas del deporte que probaron suerte en otras disciplinas",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746316729464/Imagen%20de%20WhatsApp%202025-05-03%20a%20las%2018.56.10_ad216eec.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/cambio-de-juego-estrellas-del-deporte-que-probaron-suerte-en-otras-disciplinas-20255321320",
+        "date": "2025-05-04 00:35:27",
+        "sentiment_score": 0.3564162254333496
     }
 ];
