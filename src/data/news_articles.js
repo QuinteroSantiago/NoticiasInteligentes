@@ -252,125 +252,6 @@ export default [
         "sentiment_score": 0.6711901016533375
     },
     {
-        "title": "El detenido por la muerte de su madre de 77 años en Colmenar reconoce que la mató e ingresa en prisión",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4QEEKSU4HVCJDANDSADHF4KWVY.jpeg?auth=f4a8cf3653447d33177d2e7ab89e276789bbfe89e2b1d96e0afedc3d167c4dbd&width=1200",
-        "tags": [
-            "prisión preventiva",
-            "comunidad de madrid",
-            "detenciones",
-            "investigación policial",
-            "guardia civil",
-            "sucesos",
-            "jueces",
-            "salud mental",
-            "madrid",
-            "homicidios"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-05-01/el-detenido-por-la-muerte-de-su-madre-de-77-anos-en-colmenar-reconoce-que-la-mato-e-ingresa-en-prision.html",
-        "date": "2025-05-01 13:29:27",
-        "sentiment_score": -0.7289848923683167
-    },
-    {
-        "title": "La maldición de ‘la casa de los horrores’ de Oviedo: niños enfermos y muerte",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LCQSCL6OCRFBJILT2MDZ35RWJA.jpg?auth=06f0add476d80b25f8b43986e128d6e5bb5c6ed7a955c485fd6770c639af919d&width=1200",
-        "tags": [
-            "detenciones",
-            "policía",
-            "tutela",
-            "abandono menores",
-            "españa",
-            "menores",
-            "oviedo"
-        ],
-        "link": "https://elpais.com/espana/2025-05-01/la-maldicion-de-la-casa-de-los-horrores-de-oviedo-ninos-enfermos-y-muerte.html",
-        "date": "2025-05-01 12:43:15",
-        "sentiment_score": -0.905738634057343
-    },
-    {
-        "title": "‘La casa de los horrores’ de Oviedo: el confinamiento sin fin de tres niños rodeados de basura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LCQSCL6OCRFBJILT2MDZ35RWJA.jpg?auth=06f0add476d80b25f8b43986e128d6e5bb5c6ed7a955c485fd6770c639af919d&width=1200",
-        "tags": [
-            "policía",
-            "españa",
-            "oviedo",
-            "detenciones",
-            "menores",
-            "tutela",
-            "abandono menores"
-        ],
-        "link": "https://elpais.com/espana/2025-05-01/la-casa-de-los-horrores-de-oviedo-el-confinamiento-sin-fin-de-tres-ninos-rodeados-de-basura.html",
-        "date": "2025-05-01 12:43:15",
-        "sentiment_score": -0.26077747344970703
-    },
-    {
-        "title": "Las obras en el acceso ferroviario al aeropuerto de Barcelona obligan a utilizar, este puente, autobuses a los pasajeros de la R2",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VVQ4YNVUEVEVZDCHSRZ335D6GY.jpg?auth=601a7e7bb5f695008532353606bc2ce2118d5516191f250cee2fb670e06d56ba&width=1200",
-        "tags": [
-            "cataluña",
-            "averías",
-            "adif",
-            "barcelona",
-            "aeropuerto el prat",
-            "renfe"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-01/las-obras-en-el-acceso-ferroviario-al-aeropuerto-de-barcelona-obligan-a-utilizar-este-puente-autobuses-a-los-pasajeros-de-la-r2.html",
-        "date": "2025-05-01 12:31:11",
-        "sentiment_score": -0.0023084282875061035
-    },
-    {
-        "title": "Dulzaro, el “castellano y maricón” renovador del folclore de los pueblos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MLBER2S4JZA4PH6SMJDMTX5H5E.jpg?auth=8b174d519a585fec744f3664d582a54beb0180ddeb5bfb45ab5dbb0d5adcfee2&width=1200",
-        "tags": [
-            "castilla y león",
-            "españa",
-            "comunidad lgtbiq",
-            "folklore",
-            "artistas",
-            "músicos",
-            "valladolid",
-            "conciertos",
-            "cantantes"
-        ],
-        "link": "https://elpais.com/espana/2025-05-01/dulzaro-el-castellano-y-maricon-renovador-del-folclore-de-los-pueblos.html",
-        "date": "2025-05-01 11:56:20",
-        "sentiment_score": 0.31148718297481537
-    },
-    {
-        "title": "Sánchez acusa a Feijóo de “someterse a las grandes empresas” tras el rechazo del PP al decreto por los aranceles",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QYOLSFFNXWQWRR2JFPGTBZ44N4.jpg?auth=3f73933b0ebdad798872c82a271b1d66d0aecf62e6315b7172b408eeacc19d93&width=1200",
-        "tags": [
-            "política",
-            "españa",
-            "derecho laboral",
-            "pp",
-            "alberto núñez feijóo",
-            "pedro sánchez",
-            "psoe",
-            "día internacional trabajo"
-        ],
-        "link": "https://elpais.com/espana/2025-05-01/sanchez-acusa-a-feijoo-de-someterse-a-las-grandes-empresas-tras-el-rechazo-del-pp-al-decreto-por-los-aranceles.html",
-        "date": "2025-05-01 11:33:08",
-        "sentiment_score": 0.0022401362657546997
-    },
-    {
-        "title": "El paso atrás de la líder de Podemos en Navarra ahonda la crisis territorial del partido",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/V64DYSEKSZDJLHKYOUYTOADXF4.jpg?auth=070625db7dc9b4dee144f955fca8884c9f0b90dd34507b52c3e011b9e6e29fa1&width=1200",
-        "tags": [
-            "españa",
-            "izquierda unida",
-            "unidas podemos",
-            "yolanda díaz",
-            "begoña alfaro",
-            "sumar",
-            "elecciones autonómicas 2023",
-            "contigo-zurekin",
-            "podemos"
-        ],
-        "link": "https://elpais.com/espana/2025-05-01/el-paso-atras-de-la-lider-de-podemos-en-navarra-ahonda-la-crisis-territorial-del-partido.html",
-        "date": "2025-05-01 11:20:17",
-        "sentiment_score": -0.6902625504881144
-    },
-    {
         "title": "España activa una 'operación reforzada' de su red eléctrica tras el apagón y frena el uso de renovables",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/34b3677c-e2d5-4c50-b581-6b600d98a51b_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -6314,5 +6195,379 @@ export default [
         "link": "https://2001online.com/deportes/en-imagenes-celebridades-venezolanas-vibraron-con-la-velocidad-del-gran-premio-de-miami-20255417350",
         "date": "2025-05-04 20:38:51",
         "sentiment_score": 0.8609802890568972
+    },
+    {
+        "title": "El Gobierno cántabro licita la publicidad en soportes de compañías aéreas para Rumanía",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/el-gobierno-cantabro-licita-la-publicidad-en-soportes-de-companias-aereas-para-rumania/",
+        "date": "2025-05-05 02:05:05",
+        "sentiment_score": 0.29962312057614326
+    },
+    {
+        "title": "Irak niega implicación en el tráfico de crudo iraní y promete más transparencia",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/irak-niega-implicacion-en-el-trafico-de-crudo-irani-y-promete-mas-transparencia/",
+        "date": "2025-05-05 02:04:50",
+        "sentiment_score": 0.24893252551555634
+    },
+    {
+        "title": "El pivote Antonio Bazán seguirá en el Barça hasta final de temporada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/el-pivote-antonio-bazan-seguira-en-el-barca-hasta-final-de-temporada/",
+        "date": "2025-05-05 02:04:37",
+        "sentiment_score": 0.5657812356948853
+    },
+    {
+        "title": "El hispanouruguayo Kuki Zalazar se desvincula del Córdoba",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/el-hispanouruguayo-kuki-zalazar-se-desvincula-del-cordoba/",
+        "date": "2025-05-05 02:04:24",
+        "sentiment_score": -0.8046354241669178
+    },
+    {
+        "title": "Abascal reivindica la \"oposición de dedito\" para señalar al PP cuando blanquea al Gobierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/abascal-reivindica-la-oposicion-de-dedito-para-senalar-al-pp-cuando-blanquea-al-gobierno/",
+        "date": "2025-05-05 02:03:57",
+        "sentiment_score": -0.8918914217501879
+    },
+    {
+        "title": "Uber compra el 30 % de la empresa de VTC Auro tras la sentencia del Constitucional",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/uber-compra-el-30-de-la-empresa-de-vtc-auro-tras-la-sentencia-del-constitucional/",
+        "date": "2025-05-05 02:03:44",
+        "sentiment_score": 0.704465689137578
+    },
+    {
+        "title": "El fundador de una ONG que fabrica incubadoras asequibles recibe el premio Princesa Girona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/el-fundador-de-una-ong-que-fabrica-incubadoras-asequibles-recibe-el-premio-princesa-girona/",
+        "date": "2025-05-05 02:03:27",
+        "sentiment_score": 0.6103876829147339
+    },
+    {
+        "title": "La cirujana no homologada no operó a las mujeres que la denuncian según otros investigados",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/la-cirujana-no-homologada-no-opero-a-las-mujeres-que-la-denuncian-segun-otros-investigados/",
+        "date": "2025-05-05 02:03:12",
+        "sentiment_score": -0.412845004349947
+    },
+    {
+        "title": "Podemos explica que no participó en las manifestaciones de los sindicatos al tener el escudo social votos suficientes",
+        "image_url": "https://www.infobae.com/resizer/v2/U5CNRU2RFZGOFLQNNT7U6YXWEY.jpg?auth=4b49e3e0c33a7ecbbaf5798d965df25f6919c268f3cde11f2249a9e406b9184c&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/podemos-explica-que-no-participo-en-las-manifestaciones-de-los-sindicatos-al-tener-el-escudo-social-votos-suficientes/",
+        "date": "2025-05-05 02:02:59",
+        "sentiment_score": -0.9011885579675436
+    },
+    {
+        "title": "Unos 10.700 viajeros y 30 trenes afectados por un robo de cable en el AVE Madrid-Sevilla",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/05/unos-10700-viajeros-y-30-trenes-afectados-por-un-robo-de-cable-en-el-ave-madrid-sevilla/",
+        "date": "2025-05-05 02:00:56",
+        "sentiment_score": -0.7967950236052275
+    },
+    {
+        "title": "La Fonteta se regala otra final mirando a la Euroliga (75-62)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4de0d2bf-487e-4f60-99e0-7ca11a9ea098_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2025/05/05/fonteta-regala-final-mirando-euroliga-117031359.html",
+        "date": "2025-05-05 02:00:58",
+        "sentiment_score": 0.25231456756591797
+    },
+    {
+        "title": "Nico González, el broche al mercado invernal del Manchester City",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/02/03/nico-gonzalez-el-broche-al-mercado-invernal-del-manchester-city/",
+        "date": "2025-05-05 01:49:11",
+        "sentiment_score": 0.563906092196703
+    },
+    {
+        "title": "Ayuso dice que el Gobierno \"coloca a agentes en las comunidades autónomas, no candidatos”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/ayuso-dice-que-el-gobierno-coloca-a-agentes-en-las-comunidades-autonomas-no-candidatos/",
+        "date": "2025-05-05 01:33:42",
+        "sentiment_score": -0.833071194589138
+    },
+    {
+        "title": "Estadística",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.atlantico.net/opinion/estadistica_1_20250505-3512178.html",
+        "date": "2025-05-05 01:00:27",
+        "sentiment_score": -0.1451774537563324
+    },
+    {
+        "title": "Las denuncias por violación se triplican en España en seis años: una nueva víctima cada 105 minutos",
+        "image_url": "https://s1.elespanol.com/2025/05/02/actualidad/1003743740537_255268565_1706x960.jpg?contentId=1003743740537",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20250505/denuncias-violacion-triplican-espana-anos-nueva-victima-minutos/1003743740383_0.html",
+        "date": "2025-05-05 00:51:17",
+        "sentiment_score": -0.9136942401528358
+    },
+    {
+        "title": "El Atlético de Madrid reinventa la experiencia de sus fans en el Metropolitano con inteligencia artificial y geolocalización",
+        "image_url": "https://s1.elespanol.com/2025/04/05/actualidad/1003743700800_254510195_1706x960.jpg?contentId=1003743700800",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20250505/atletico-madrid-reinventa-experiencia-fans-metropolitano-inteligencia-artificial-geolocalizacion/1003743736945_0.html",
+        "date": "2025-05-05 00:38:06",
+        "sentiment_score": 0.5602041408419609
+    },
+    {
+        "title": "El Real Madrid sufre pero se aferra a la Liga con doblete de Mbappé",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol",
+            "real madrid",
+            "celta de vigo",
+            "deportes",
+            "kylian mbappé"
+        ],
+        "link": "https://www.elnacional.com/deportes/real-madrid-sufre-pero-se-aferra-a-la-liga-con-doblete-de-mbappe/",
+        "date": "2025-05-05 00:37:29",
+        "sentiment_score": 0.05089887976646423
+    },
+    {
+        "title": "Gallardo y la crisis de Vox en Castilla y León empañan la cumbre de Patriotas de Abascal",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/gallardo-y-la-crisis-de-vox-en-castilla-y-leon-empanan-la-cumbre-de-patriotas-de-abascal/",
+        "date": "2025-05-05 00:33:08",
+        "sentiment_score": -0.9145789910107851
+    },
+    {
+        "title": "El PSOE expresa su apoyo a Hermoso, y Sumar y Podemos esperan que la justicia actúe",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/02/03/el-psoe-expresa-su-apoyo-a-hermoso-y-sumar-y-podemos-esperan-que-la-justicia-actue/",
+        "date": "2025-05-05 00:32:41",
+        "sentiment_score": 0.441839262843132
+    },
+    {
+        "title": "Fernando León de Aranoa: \"La literatura es un desquite, escribo por perplejidad\"",
+        "image_url": "https://s1.elespanol.com/2025/04/30/actualidad/1003743738330_255227192_1706x960.jpg?contentId=1003743738330",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20250505/fernando-leon-aranoa-literatura-desquite-escribo-perplejidad/1003743738226_0.html",
+        "date": "2025-05-05 00:11:27",
+        "sentiment_score": 0.44636088609695435
+    },
+    {
+        "title": "Lunes, 5 de mayo de 2025 (02.00 GMT)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/05/lunes-5-de-mayo-de-2025-0200-gmt/",
+        "date": "2025-05-05 02:15:39",
+        "sentiment_score": -0.014124102890491486
+    },
+    {
+        "title": "Javier Bardem y Penélope Cruz protagonizan Bunker: el quinto proyecto de la pareja",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746411263731.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/javier-bardem-y-penelope-cruz-protagonizan-bunker-el-quinto-proyecto-de-la-pareja-2025542280",
+        "date": "2025-05-05 02:08:00",
+        "sentiment_score": -0.8916029231622815
+    },
+    {
+        "title": "Consultorio laboral con UGT | \"Mi contrato dice que la jornada es de lunes a viernes. ¿Tengo que trabajar también festivos?\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/12/plantea-todas-tus-dudas-sobre-los-conceptos-de-tu-nomina-a-los-especialistas-de-ugt.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/noticia/5705087/0/consultorio-laboral-ugt-contratos-trabajar-festivos-fijo-discontinuo/",
+        "date": "2025-05-05 02:00:43",
+        "sentiment_score": 0.3100299648940563
+    },
+    {
+        "title": "Montilivi pone a prueba la fe del Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3291799.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/05/05/2379781/girona-real-mallorca-previa-del-partido-liga.html",
+        "date": "2025-05-05 02:00:01",
+        "sentiment_score": -0.19521494209766388
+    },
+    {
+        "title": "Los expertos piden aumentar la masa arbórea en las zonas urbanas de Menorca",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3291865.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/05/05/2379825/expertos-piden-aumentar-masa-arborea-zonas-urbanas-menorca.html",
+        "date": "2025-05-05 02:00:01",
+        "sentiment_score": 0.22231920808553696
+    },
+    {
+        "title": "Salvador Illa visita La Menorquina con motivo de su 85 aniversario",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3291867.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/05/05/2379831/salvador-illa-visita-menorquina-motivo-aniversario.html",
+        "date": "2025-05-05 02:00:01",
+        "sentiment_score": 0.07624185085296631
+    },
+    {
+        "title": "Que la población de cangrejos azules se haya disparado an la playa de Es Grau...",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3291907.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/sorprende-sorprende/2025/05/05/2379855/poblacion-cangrejos-azules-haya-disparado-playa-grau.html",
+        "date": "2025-05-05 02:00:01",
+        "sentiment_score": -0.520319364964962
+    },
+    {
+        "title": "Girona FC-Real Mallorca",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/05/05/2379887/directo-girona-real-mallorca-minuto-minuto-del-partido-laliga-easports.html",
+        "date": "2025-05-05 02:00:01",
+        "sentiment_score": 0.1159803569316864
+    },
+    {
+        "title": "Cómo obtener una Real ID en Estados Unidos a menor costo: estados y requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746411505556.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/como-obtener-una-real-id-en-estados-unidos-a-menor-costo-estados-y-requisitos-20255422140",
+        "date": "2025-05-05 02:14:00",
+        "sentiment_score": 0.020479664206504822
+    },
+    {
+        "title": "Estados Unidos: Una bacteria causa preocupación en el sector salud",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746242288788.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/estados-unidos-una-bacteria-causa-preocupacion-en-el-sector-salud-2025542200",
+        "date": "2025-05-05 02:00:00",
+        "sentiment_score": -0.39450015500187874
+    },
+    {
+        "title": "Predicciones de la semana del 5 al 11 de mayo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-5-al-11-de-mayo--2025542200",
+        "date": "2025-05-05 02:00:00",
+        "sentiment_score": -0.050962597131729126
+    },
+    {
+        "title": "Alerta epidemiológica en Ecuador: brote de leptospirosis deja ocho niños muertos",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746407761601.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/alerta-epidemiologica-en-ecuador-brote-de-leptospirosis-deja-ocho-ninos-muertos-20255421450",
+        "date": "2025-05-05 01:45:00",
+        "sentiment_score": -0.4678990710526705
+    },
+    {
+        "title": "Uñas: mantenlas sanas y olvídate de los hongos",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746204855020.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/unas-mantenlas-sanas-y-olvidate-de-los-hongos-20255421300",
+        "date": "2025-05-05 01:30:00",
+        "sentiment_score": 0.8445957945659757
+    },
+    {
+        "title": "Revocan permisos de trabajo a beneficiarios de CBP One en Estados Unidos: opciones para inmigrantes",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746408627016.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/revocan-permisos-de-trabajo-a-beneficiarios-de-cbp-one-en-estados-unidos-opciones-para-inmigrantes-20255421260",
+        "date": "2025-05-05 01:26:00",
+        "sentiment_score": -0.7870408222079277
+    },
+    {
+        "title": "Mantén el frizz bajo control con esta maravillosa fórmula natural",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746406202233.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/manten-el-frizz-bajo-control-con-esta-maravillosa-formula-natural-20255421250",
+        "date": "2025-05-05 01:25:00",
+        "sentiment_score": -0.7731039542704821
+    },
+    {
+        "title": "Gigante farmacéutica Merck fabricará nueva planta en este estado de USA: generarán miles de empleos",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1746023702822.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/gigante-farmaceutica-merck-fabricara-nueva-planta-en-este-estado-de-usa-generaran-miles-de-empleos-20255421150",
+        "date": "2025-05-05 01:15:00",
+        "sentiment_score": 0.4214824363589287
+    },
+    {
+        "title": "México: Estos programas abrirán registro en mayo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746226667946.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/mexico-estos-programas-abriran-registro-en-mayo-20255421100",
+        "date": "2025-05-05 01:10:00",
+        "sentiment_score": 0.15966174006462097
     }
 ];
