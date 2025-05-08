@@ -140,36 +140,6 @@ export default [
         "sentiment_score": -0.0153084397315979
     },
     {
-        "title": "Este es el programa electoral de AUR, el partido político de George Simion",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/03/reuters-R0kJCpssQUFm9Eswizv2mSJ-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/programa-electoral-aur-partido-politico-george-simion-20250503155846-nt.html",
-        "date": "2025-05-04 08:06:13",
-        "sentiment_score": -0.054075539112091064
-    },
-    {
-        "title": "El Gobierno mexicano arresta a un alcalde ligado al rancho de Jalisco con hornos crematorios",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/05/04/rancho-horror-alcalde-RprMh8v7l4LSVL8s59Y4rFL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/gobierno-mexicano-arresta-alcalde-ligado-rancho-jalisco-20250504100102-nt.html",
-        "date": "2025-05-04 08:03:42",
-        "sentiment_score": -0.12816692888736725
-    },
-    {
-        "title": "De qué ideología es Victor Ponta y cuál es su programa electoral en las elecciones de Rumania",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/05/04/ponta-R114vMsICqInnbquL48tFIP-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ideologia-victor-ponta-programa-electoral-elecciones-rumania-20250504161009-nt.html",
-        "date": "2025-05-04 06:19:10",
-        "sentiment_score": -0.051321983337402344
-    },
-    {
         "title": "El regionalismo cántabro elige a Paula Fernández como sucesora electoral del histórico Revilla",
         "image_url": "https://imagenes.elpais.com/resizer/v2/7J6LK5Y7MVE7BN6RUXXWAV5VFM.jpg?auth=82cd322533d39b7969f3c1fb420a23cb5be764e6bb153b9bd178b70c197c14d4&width=1200",
         "tags": [
@@ -6904,5 +6874,530 @@ export default [
         "link": "https://2001online.com/usa/sucesos/pareja-de-ancianos-ve-morir-a-su-hijo-tras-incendio-de-su-vivienda-20255711350",
         "date": "2025-05-07 15:35:00",
         "sentiment_score": -0.6980978772044182
+    },
+    {
+        "title": "Feijóo recuerda que Mazón \"no está investigado\" y reprocha a Sánchez no haber \"dado ni un euro\" a Valencia tras la dana",
+        "image_url": "https://www.infobae.com/resizer/v2/GF5UZNLEGZCGLIT23VA65NIFDE.jpg?auth=494c3a449334070d1de34e22b22533370563e3725a8c7326e3c87dbc97310dd0&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/07/feijoo-recuerda-que-mazon-no-esta-investigado-y-reprocha-a-sanchez-no-haber-dado-ni-un-euro-a-valencia-tras-la-dana/",
+        "date": "2025-05-07 21:45:33",
+        "sentiment_score": -0.8708937233313918
+    },
+    {
+        "title": "Proyecto impulsado por España fortalece gobernanza climática y acceso al agua en Honduras",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/07/proyecto-impulsado-por-espana-fortalece-gobernanza-climatica-y-acceso-al-agua-en-honduras/",
+        "date": "2025-05-07 21:32:14",
+        "sentiment_score": 0.6738076508045197
+    },
+    {
+        "title": "Feijóo acusa a Sánchez de buscar \"vetar la fusión\" de BBVA y Sabadell con la \"medida populista\" de la consulta pública",
+        "image_url": "https://www.infobae.com/resizer/v2/YESPWBKUXNFTFPHKWL4TBJ3PB4.jpg?auth=0a6be7b976044f1b559987773de160b73c9bdb7bad58388e0a33051fda2fe915&height=1278&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/07/feijoo-acusa-a-sanchez-de-buscar-vetar-la-fusion-de-bbva-y-sabadell-con-la-medida-populista-de-la-consulta-publica/",
+        "date": "2025-05-07 21:31:09",
+        "sentiment_score": -0.8349214363843203
+    },
+    {
+        "title": "Sánchez participará en la cumbre de la Liga Árabe que se celebrará el 17 de mayo en Irak, con Gaza como tema central",
+        "image_url": "https://www.infobae.com/resizer/v2/655WVPOYQNBFHPPFX67P6WGW5Q.jpg?auth=9e12d8d9baba725fd9f30524638c542db4563c24cd95983418d49775bdf197c9&height=1278&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/07/sanchez-participara-en-la-cumbre-de-la-liga-arabe-que-se-celebrara-el-17-de-mayo-en-irak-con-gaza-como-tema-central/",
+        "date": "2025-05-07 21:15:36",
+        "sentiment_score": 0.09303554147481918
+    },
+    {
+        "title": "21-20. El Rocasa Gran Canaria toma una ventaja mínima ante el Costa del Sol Málaga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/07/21-20-el-rocasa-gran-canaria-toma-una-ventaja-minima-ante-el-costa-del-sol-malaga/",
+        "date": "2025-05-07 21:03:30",
+        "sentiment_score": 0.5995165258646011
+    },
+    {
+        "title": "Bonoloto: este es el número ganador del sorteo del 7 de mayo",
+        "image_url": "https://www.infobae.com/resizer/v2/YVDAD5JQPVDKVG3ADSSBA4VFUM.jpg?auth=908c9b0e16152eaafb094e95bcf6a1a5500233c18a49b2b4d8805e4f53edffa9&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/07/bonoloto-este-es-el-numero-ganador-del-sorteo-del-7-de-mayo/",
+        "date": "2025-05-07 20:30:36",
+        "sentiment_score": 0.12711473181843758
+    },
+    {
+        "title": "El Congreso pide al Gobierno apoyar al caprino y celebrar el Día de la Cabra Malagueña",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/07/el-congreso-pide-al-gobierno-apoyar-al-caprino-y-celebrar-el-dia-de-la-cabra-malaguena/",
+        "date": "2025-05-07 20:16:19",
+        "sentiment_score": 0.21374444663524628
+    },
+    {
+        "title": "Para qué sirve el zinc: beneficios y efectos secundarios",
+        "image_url": "https://www.infobae.com/resizer/v2/YZLNUTKSCBH7LJZ65V537XIIGE.jpeg?auth=cbab1724d58334689c23b66c070610aa514d956f5374ee8aec34ad9a7792f52f&height=2592&smart=true&width=3888",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/07/para-que-sirve-el-zinc-beneficios-y-efectos-secundarios/",
+        "date": "2025-05-07 20:05:56",
+        "sentiment_score": 0.34268030524253845
+    },
+    {
+        "title": "EE.UU ha apremiado a países que soportan aranceles a que aprueben licencias para Starlink",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/07/eeuu-ha-apremiado-a-paises-que-soportan-aranceles-a-que-aprueben-licencias-para-starlink/",
+        "date": "2025-05-07 20:02:56",
+        "sentiment_score": 0.09862411022186279
+    },
+    {
+        "title": "Fue la modelo más joven del mundo, debutó en una pasarela con 4 años y ahora intenta huir de la fama: “Soy solo un ser humano, una adolescente”",
+        "image_url": "https://www.infobae.com/resizer/v2/OYFM2OHH3FFLJN3DO6PXX4R2Y4.png?auth=91663a4da72cef6bb1ec7b812ce6909a7c1853a7e1d4d3292408370d294d3f61&height=531&smart=true&width=801",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/07/fue-la-modelo-mas-joven-del-mundo-debuto-en-una-pasarela-con-4-anos-y-ahora-intenta-huir-de-la-fama-soy-solo-un-ser-humano-una-adolescente/",
+        "date": "2025-05-07 19:55:33",
+        "sentiment_score": 0.16446755826473236
+    },
+    {
+        "title": "Los hoteles suman otro récord de precios, pero venden menos noches por primera vez tras la pandemia",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/07/1485664521-R1dL8fVJQtQ0eeDldQAkUDL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/hoteles-suman-record-precios-venden-noches-primera-20250507192330-nt.html",
+        "date": "2025-05-07 17:24:33",
+        "sentiment_score": -0.06923145055770874
+    },
+    {
+        "title": "Zapatero elogia a Sheinbaum en México, ¿la antesala del deshielo en las relaciones con España?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/05/07/zapatero-Rw7ayqGj3t7VEPmFzFlHy3J-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/zapatero-elogia-sheinbaum-mexico-antesala-deshielo-relaciones-20250507191030-nt.html",
+        "date": "2025-05-07 17:22:13",
+        "sentiment_score": -0.04697293043136597
+    },
+    {
+        "title": "Educación abre expediente informativo a una escuela de Terrassa y garantiza actuaciones “con determinación” si se confirman los hechos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XOKT2D56TZF63IELXW6SBI2ZMI.jpg?auth=a5d49497bedbb46948b4de9c6309cc35db3272095c82ec992df77a7f5f7743e8&width=1200",
+        "tags": [
+            "parlamentos autonómicos",
+            "enseñanza concertada",
+            "esther niubó",
+            "familia",
+            "enseñanza religiosa",
+            "en comú podem",
+            "cataluña",
+            "educación"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-05-07/educacion-abre-expediente-informativo-a-una-escuela-de-terrassa-y-garantiza-actuaciones-con-determinacion-si-se-confirman-los-hechos.html",
+        "date": "2025-05-07 19:05:26",
+        "sentiment_score": -0.765067134052515
+    },
+    {
+        "title": "Sesderma se alía con el grupo de medicina estética Wanjing para impulsar la distribución de sus productos en China",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6LPATV6JKUEFXFE7Q6OSTXJE5Q.jpg?auth=4cb6b313a6b7000fd4bba024c46bfdeadc55a4d860c12ca1a91566b96abcc343&width=1200",
+        "tags": [
+            "economía",
+            "estética corporal",
+            "comunidad valenciana",
+            "belleza",
+            "china",
+            "negocios",
+            "acuerdos internacionales"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-07/sesderma-se-alia-con-el-grupo-de-medicina-estetica-wanjing-para-impulsar-la-distribucion-de-sus-productos-en-china.html",
+        "date": "2025-05-07 18:40:22",
+        "sentiment_score": 0.33354663848876953
+    },
+    {
+        "title": "La crónica | El apagón sofoca el incendio en la izquierda por el gasto en defensa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BLDUTBAXQFA4TL4KMZORDDGTOI.jpg?auth=74c1f672ec5f92d4500aedd21d18c27bf7bc0d1a96592c7f23be60603ecd704e&width=1200",
+        "tags": [
+            "españa",
+            "gabriel rufián",
+            "congreso diputados",
+            "energía",
+            "upn",
+            "energía nuclear",
+            "cristina valido",
+            "mertxe aizpurua",
+            "energías renovables",
+            "eaj-pnv",
+            "política energética",
+            "ione belarra",
+            "míriam nogueras",
+            "pablo iglesias",
+            "sumar",
+            "pedro sánchez",
+            "debates parlamentarios",
+            "néstor rego",
+            "santiago abascal",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://elpais.com/espana/2025-05-07/la-cronica-el-apagon-sofoca-el-incendio-en-la-izquierda-por-el-gasto-en-defensa.html",
+        "date": "2025-05-07 18:20:31",
+        "sentiment_score": -0.4858567602932453
+    },
+    {
+        "title": "El Supremo rechaza dar el segundo indulto a Junqueras",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ABHX4SKI7A7QUQBYU6U7HJBAK4.jpg?auth=670b858b16d25d4e4d868cfde15db5234a7a417f3a024d2a2f4478aa1d316ffc&width=1200",
+        "tags": [
+            "jordi turull",
+            "dolors bassa",
+            "oriol junqueras",
+            "cataluña",
+            "raül romeva",
+            "indulto",
+            "procés independentista catalán",
+            "amnistía",
+            "tribunales"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-05-07/el-supremo-rechaza-dar-el-segundo-indulto-a-junqueras.html",
+        "date": "2025-05-07 17:58:57",
+        "sentiment_score": -0.8192797061055899
+    },
+    {
+        "title": "Condenado a cárcel Fernando Martín, constructor y expresidente del Real Madrid, por el mayor pelotazo de Gürtel",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PUWGYGCTEPMBOO4ISYVJI7NUB4.jpg?auth=da8443fc939aba4319ca06d8a16c7313ca636d38136311f22bfb242a50742f1f&width=1200",
+        "tags": [
+            "pablo crespo",
+            "españa",
+            "fernando martin alvarez",
+            "fiscalía",
+            "sentencias",
+            "investigación judicial",
+            "sentencias condenatorias",
+            "fiscalía anticorrupción",
+            "pp madrid",
+            "arganda del rey",
+            "pp",
+            "ginés lópez rodríguez",
+            "audiencia nacional",
+            "caso gürtel",
+            "corrupción política",
+            "construcción",
+            "fernando correa",
+            "corrupción",
+            "comunidad de madrid",
+            "martinsa",
+            "benjamín martín vasco"
+        ],
+        "link": "https://elpais.com/espana/2025-05-07/condenado-a-carcel-fernando-martin-constructor-y-expresidente-del-real-madrid-por-el-mayor-pelotazo-de-gurtel.html",
+        "date": "2025-05-07 17:54:41",
+        "sentiment_score": -0.7921390980482101
+    },
+    {
+        "title": "El Parlament da luz verde al aumento de la tasa turística sin la moratoria pactada entre el Govern y ERC",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3NPBNKMVTZRM4UPAOVZPONQJ6I.jpg?auth=6e68605ca4e7d6e9f8015e1b85fe7054db77f7086b21a9b17a1438e7d7a5f260&width=1200",
+        "tags": [
+            "erc",
+            "turismo barato",
+            "govern cataluña",
+            "tasa turística",
+            "cataluña",
+            "en comú podem",
+            "psc"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-05-07/el-parlament-da-luz-verde-al-aumento-de-la-tasa-turistica-sin-la-moratoria-pactada-entre-el-govern-y-erc.html",
+        "date": "2025-05-07 17:24:32",
+        "sentiment_score": 0.2115237358957529
+    },
+    {
+        "title": "PSG-Inter, final inédita",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/07/psg-inter-final-inedita/",
+        "date": "2025-05-07 22:18:02",
+        "sentiment_score": -0.11653696000576019
+    },
+    {
+        "title": "Jueves 8 de mayo de 2025 (22.00 GMT)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/07/jueves-8-de-mayo-de-2025-2200-gmt/",
+        "date": "2025-05-07 22:17:13",
+        "sentiment_score": -0.005230199545621872
+    },
+    {
+        "title": "Los dos meses decisivos para Joan Laporta: con las elecciones del Barça en el horizonte",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/24/culemania/palco/1003742651625_14471768_1706x960.jpg?contentId=1003742651625",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250507/los-decisivos-joan-laporta-elecciones-barca-horizonte/1003742655647_0.html",
+        "date": "2025-05-07 22:10:07",
+        "sentiment_score": -0.8230134109035134
+    },
+    {
+        "title": "El PSG venció al Arsenal y jugará la final de la Champions League contra el Inter",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes",
+            "champions league",
+            "fútbol",
+            "inter de milán",
+            "parís saint-germain"
+        ],
+        "link": "https://www.elnacional.com/deportes/el-psg-vencio-al-arsenal-y-jugara-la-final-de-la-champions-league-contra-el-inter/",
+        "date": "2025-05-07 21:56:41",
+        "sentiment_score": 0.20986761152744293
+    },
+    {
+        "title": "Los mejores memes del pase del PSG a la final de la Champions League: las burlas a Mbappé y al Arsenal",
+        "image_url": "https://www.infobae.com/resizer/v2/JLCIPB2PUFF5HDARUR7NSTFVHE.JPG?auth=7ae047b4f1028f794ad0042e2cd90788d477193eb19b60eb00a526441e691384&height=445&smart=true&width=642",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/05/07/los-mejores-memes-del-pase-del-psg-a-la-final-de-la-champions-league-las-burlas-a-mbappe-y-al-arsenal/",
+        "date": "2025-05-07 21:54:24",
+        "sentiment_score": 0.018184557557106018
+    },
+    {
+        "title": "Mikel Merino, en El Partidazo de COPE: \"Donnarumma les ha mantenido vivos en el partido\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/05/07/681bd63747646.r_d.728-864-2833.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/mikel-merino-partidazo-cope-donnarumma-les-mantenido-vivos-partido-20250507_3146103.html",
+        "date": "2025-05-07 21:53:08",
+        "sentiment_score": 0.05760025978088379
+    },
+    {
+        "title": "Niños de Gaza",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/07/2025050723421159185.jpg",
+        "tags": [
+            "humor"
+        ],
+        "link": "https://www.mundiario.com/articulo/humor/ninos-de-gaza/20250507234607343252.html",
+        "date": "2025-05-07 21:46:07",
+        "sentiment_score": 0.6076001673936844
+    },
+    {
+        "title": "Periodista venezolano recibe amenazas de muerte: no apoyar a Vinicius Jr. en el balón de oro fue la causa",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746656850252.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/periodista-venezolano-recibe-amenazas-de-muerte-no-apoyar-a-vinicius-jr-en-el-balon-de-oro-fue-la-causa-20255718360",
+        "date": "2025-05-07 21:40:27",
+        "sentiment_score": -0.88060587272048
+    },
+    {
+        "title": "El Valencia Basket-CB Gran Canaria de este sábado, con sabor a Playoff",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7fec143a-01e7-438c-8818-e5b855901220_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/cb-gran-canaria/2025/05/07/valencia-basket-cb-gran-canaria-117149096.html",
+        "date": "2025-05-07 21:28:27",
+        "sentiment_score": 0.3831416144967079
+    },
+    {
+        "title": "Así es Yeremay Hernández: el habilidoso extremo que amenaza al Sporting de Gijón",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/05/07/104788354-kWGI--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/sporting/yeremay-hernandez-habilidoso-extremo-amenaza-sporting-gijon-20250507210027-nt.html",
+        "date": "2025-05-07 21:28:26",
+        "sentiment_score": -0.42502982914447784
+    },
+    {
+        "title": "PSG e Inter jugarán la final de la Champions League 2025",
+        "image_url": "https://elclarinweb.com/2025/05/07/final-champions-league-2025-psg-vs-inter-en-munich/%3Cimg",
+        "tags": [
+            "deportes",
+            "actualidad"
+        ],
+        "link": "https://elclarinweb.com/2025/05/07/final-champions-league-2025-psg-vs-inter-en-munich/",
+        "date": "2025-05-07 22:18:26",
+        "sentiment_score": 0.2026725709438324
+    },
+    {
+        "title": "Las olas de calor y las sequías en los ecosistemas debilitan su capacidad para absorber dióxido de carbono",
+        "image_url": "https://www.infobae.com/resizer/v2/YVBAOXWLBRFBRNN2ESXQOXGBSY.jpg?auth=3c13d65a3b3e2a93480d2ecca8b2355cd9800a314e161c46934654874766e91c&height=816&smart=true&width=1456",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/medio-ambiente/2025/05/07/las-olas-de-calor-y-las-sequias-en-los-ecosistemas-debilitan-su-capacidad-para-absorber-dioxido-de-carbono/",
+        "date": "2025-05-07 22:15:11",
+        "sentiment_score": -0.8461692575365305
+    },
+    {
+        "title": "Zelnova Zeltia eleva ventas un 5% y mira a los 100 millones",
+        "image_url": "https://phantom-expansion.uecdn.es/840d65c7ac6312e7f1845e053341514e/crop/1x0/2048x1365/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/07/17466384088333.jpg",
+        "tags": [
+            "empresas>",
+            "artículos nerea san esteban>",
+            "distribución>"
+        ],
+        "link": "https://www.expansion.com/empresas/distribucion/2025/05/08/681b9674e5fdeaa1018b45c7.html",
+        "date": "2025-05-07 22:07:11",
+        "sentiment_score": -0.1071077436208725
+    },
+    {
+        "title": "Los semáforos del jueves 8 de mayo: Byung-Chul Han, Tommy Robredo, Jaume Guardiola y Eloi Planes",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/11/26/6562835d2a284.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20250508/10657565/semaforos-jueves-8-mayo-byung-chul-han-tommy-robredo-jaume-guardiola-eloi-planes.html",
+        "date": "2025-05-07 22:05:00",
+        "sentiment_score": 0.1083386167883873
+    },
+    {
+        "title": "Desigualdades e impuestos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/05/07/681b6a71d1d30.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20250508/10658028/desigualdades-e-impuestos.html",
+        "date": "2025-05-07 22:05:00",
+        "sentiment_score": 0.3367009311914444
+    },
+    {
+        "title": "José Brito: Vamos a la Gobernación para corregir lo que está mal (+Video)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "locales",
+            "venezuela post electoral",
+            "política"
+        ],
+        "link": "https://eltiempove.com/jose-brito-vamos-a-la-gobernacion-para-corregir-lo-que-esta-mal-video/",
+        "date": "2025-05-07 22:04:59",
+        "sentiment_score": -0.23891758918762207
+    },
+    {
+        "title": "Cuándo y dónde se juega la final de la Champions League 2024-2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/05/07/cuando-donde-final-champions-league-2024-2025-orix/",
+        "date": "2025-05-07 22:03:51",
+        "sentiment_score": 0.4621785953640938
+    },
+    {
+        "title": "Luis Enrique se muestra muy autocrítico a pesar de la clasificación a la final (+Declaraciones)",
+        "image_url": "https://pxcdn.meridiano.net/052025/1746656381819.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/luis-enrique-se-muestra-muy-autocritico-a-pesar-de-la-clasificacion-a-la-final-declaraciones--2025571810",
+        "date": "2025-05-07 22:01:00",
+        "sentiment_score": 0.6208277065306902
+    },
+    {
+        "title": "ICE arresta a inmigrante presuntamente solicitado en Venezuela: lo acusan de varios delitos",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746656028506.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ice-arresta-a-inmigrante-presuntamente-solicitado-en-venezuela-lo-acusan-de-varios-delitos-20255718130",
+        "date": "2025-05-07 22:13:00",
+        "sentiment_score": -0.7407205831259489
+    },
+    {
+        "title": "\"Como una puñalada\": El sentimiento de Beckham por la ausencia de su hijo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746654753007.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/como-una-punalada-el-sentimiento-de-beckham-por-la-ausencia-de-su-hijo-20255718340",
+        "date": "2025-05-07 21:40:27",
+        "sentiment_score": -0.17765876650810242
+    },
+    {
+        "title": "Champions League: PSG elimina al Arsenal e inscribe su nombre en la final del torneo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746654004884.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/champions-league-psg-elimina-al-arsenal-e-inscribe-su-nombre-en-la-final-del-torneo-20255717290",
+        "date": "2025-05-07 21:29:00",
+        "sentiment_score": 0.4082229360938072
+    },
+    {
+        "title": "Rusia denuncia sabotaje contra líderes mundiales para impedir que viajen a Moscú: Tratan de cerrar rutas de transporte",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746652983008.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/rusia-denuncia-sabotaje-contra-lideres-mundiales-para-impedir-que-viajen-a-moscu-tratan-de-cerrar-rutas-de-transporte-20255717160",
+        "date": "2025-05-07 21:16:00",
+        "sentiment_score": -0.8574740681797266
+    },
+    {
+        "title": "Estados que aún distribuyen cheques de estímulo en mayo: montos y requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746653188637.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/estados-que-aun-distribuyen-cheques-de-estimulo-en-mayo-montos-y-requisitos-20255717120",
+        "date": "2025-05-07 21:12:00",
+        "sentiment_score": -0.10127035528421402
+    },
+    {
+        "title": "Nuevo sistema de divulgación del CNE: conozca los candidatos y cargos a elegir el 25 de mayo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746649526064.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/nuevo-sistema-de-divulgacion-del-cne-conozca-los-candidatos-y-cargos-a-elegir-el-25-de-mayo-2025571650",
+        "date": "2025-05-07 21:07:00",
+        "sentiment_score": 0.03220232576131821
+    },
+    {
+        "title": "Redada ICE en restaurante de Washington: oficiales verificaron estatus migratorio de los empleados",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746651850779.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redada-ice-en-restaurante-de-washington-oficiales-verificaron-estatus-migratorio-de-los-empleados-2025571730",
+        "date": "2025-05-07 21:03:00",
+        "sentiment_score": -0.01999935507774353
+    },
+    {
+        "title": "Mavesa celebra el Día de la Madre con un empaque edición especial",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746649042927.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/mavesa-celebra-el-dia-de-la-madre-con-un-empaque-edicion-especial-2025571700",
+        "date": "2025-05-07 21:00:00",
+        "sentiment_score": 0.5546408295631409
+    },
+    {
+        "title": "¿Alex Pereira colgaría los guantes por desacuerdo con UFC? Esto se sabe",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746653577078.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/alex-pereira-colgaria-los-guantes-por-desacuerdo-con-ufc-esto-se-sabe-20255717370",
+        "date": "2025-05-07 20:54:46",
+        "sentiment_score": -0.9068568777292967
     }
 ];
