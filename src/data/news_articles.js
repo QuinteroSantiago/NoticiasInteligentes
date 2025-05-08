@@ -130,16 +130,6 @@ export default [
         "sentiment_score": -0.028228849172592163
     },
     {
-        "title": "«El Salón del Automóvil es un bálsamo frente a los aranceles»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/05/04/lacalle-R0aQneilvFvMTDiugzRFfhL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/salon-automovil-balsamo-frente-aranceles-20250504183843-nt.html",
-        "date": "2025-05-04 10:49:56",
-        "sentiment_score": -0.0153084397315979
-    },
-    {
         "title": "El regionalismo cántabro elige a Paula Fernández como sucesora electoral del histórico Revilla",
         "image_url": "https://imagenes.elpais.com/resizer/v2/7J6LK5Y7MVE7BN6RUXXWAV5VFM.jpg?auth=82cd322533d39b7969f3c1fb420a23cb5be764e6bb153b9bd178b70c197c14d4&width=1200",
         "tags": [
@@ -154,88 +144,6 @@ export default [
         "link": "https://elpais.com/espana/2025-05-04/el-regionalismo-cantabro-elige-a-paula-fernandez-como-sucesora-electoral-del-historico-revilla.html",
         "date": "2025-05-04 17:08:22",
         "sentiment_score": 0.6081431843340397
-    },
-    {
-        "title": "Detenido el último tripulante de la narcolancha que mató a dos guardias civiles en Barbate",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GMGF7SE3GVXOWFOQRXR3BXIYH4.jpg?auth=754bcfe10fa3643cc6b63eeac7606616711bcc3ccfd6a0d6a3b9176edc519a74&width=1200",
-        "tags": [
-            "investigación judicial",
-            "narcotráfico",
-            "barbate",
-            "españa",
-            "cádiz",
-            "narcotraficantes",
-            "investigación policial",
-            "asesinatos",
-            "guardia civil",
-            "marruecos",
-            "detenciones",
-            "uco"
-        ],
-        "link": "https://elpais.com/espana/2025-05-04/detenido-el-ultimo-tripulante-de-la-narcolancha-que-mato-a-dos-guardias-civiles-en-barbate.html",
-        "date": "2025-05-04 12:13:37",
-        "sentiment_score": -0.406514436006546
-    },
-    {
-        "title": "Un apagón histórico: sin precedentes en España y entre los más masivos de Europa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4VWYNWYIRVDY7BNDDIMHF5QZIU.png?auth=1b0008e4ab58363c4c6c2931b0673d8a807cd1e47291c50abf519c0dfbf7b3a0&width=1200",
-        "tags": [
-            "energía eléctrica",
-            "españa",
-            "suministro electricidad",
-            "suministro energía",
-            "incidentes",
-            "apagones luz"
-        ],
-        "link": "https://elpais.com/espana/2025-05-04/un-apagon-historico-sin-precedentes-en-espana-y-entre-los-mas-masivos-de-europa.html",
-        "date": "2025-05-04 12:00:00",
-        "sentiment_score": -0.841114517301321
-    },
-    {
-        "title": "El arquitecto Jaume Vendrell, director del Incasòl ante el reto de construir miles de pisos públicos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NHZX4IZ225FVPASJWW5LVJRTVU.jpg?auth=72ca6b29df02cb1aec2b9a9049cea1b1f58881c60af6758d780db6ab11aed770&width=1200",
-        "tags": [
-            "legislación vivienda",
-            "nombramientos",
-            "vpo",
-            "salvador illa",
-            "urbanismo",
-            "empresas públicas",
-            "vivienda",
-            "generalitat cataluña",
-            "incasòl",
-            "construcción viviendas",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-04/el-arquitecto-jaume-vendrell-director-del-incasol-ante-el-reto-de-construir-miles-de-pisos-publicos.html",
-        "date": "2025-05-04 11:39:20",
-        "sentiment_score": -0.00502486526966095
-    },
-    {
-        "title": "La presidenta de Extremadura exige por carta a Sánchez “un informe objetivo y acreditado” sobre las causas del apagón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CTJGEJJDIRCDPLV4HU5FHY2FZQ.jpg?auth=f384c2b14ffc79c9f5853092dd9b9a2d7b8e207fadf46c1a6c9d2baf705e409f&width=1200",
-        "tags": [
-            "gobierno",
-            "pedro sánchez",
-            "junta de extremadura",
-            "maría guardiola martín",
-            "apagones luz",
-            "españa",
-            "extremadura"
-        ],
-        "link": "https://elpais.com/espana/2025-05-04/la-presidenta-de-extremadura-exige-por-carta-a-sanchez-un-informe-objetivo-y-acreditado-sobre-las-causas-del-apagon.html",
-        "date": "2025-05-04 10:55:31",
-        "sentiment_score": -0.8114582467824221
-    },
-    {
-        "title": "Muere un escritor experto en Manuel de Pedrolo en el incendio de un edificio en Tàrrega",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CDMSI4W6PVHSBKNI2AVJITHSUQ.jfif?auth=a27f7d3f56eab6ae4baaf15d36b5f47300cb398bf97c0a96b7bed55fb31f08a0&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-04/muere-un-escritor-experto-en-manuel-de-pedrolo-en-el-incendio-de-un-edificio-en-tarrega.html",
-        "date": "2025-05-04 10:35:57",
-        "sentiment_score": -0.8692328175529838
     },
     {
         "title": "Frustran ataque en concierto de Lady Gaga: fue ideado como un «desafío» para redes sociales",
@@ -7399,5 +7307,397 @@ export default [
         "link": "https://2001online.com/deportes/alex-pereira-colgaria-los-guantes-por-desacuerdo-con-ufc-esto-se-sabe-20255717370",
         "date": "2025-05-07 20:54:46",
         "sentiment_score": -0.9068568777292967
+    },
+    {
+        "title": "Andreu Buenafuente presenta su nuevo programa en ‘La Revuelta’ y Broncano se lleva una bronca de un Manuel Carrasco “bastante enfadado”: “No eres un hombre de palabra”",
+        "image_url": "https://www.infobae.com/resizer/v2/7Y52IDAZNRE3PH2PVCCXEBRVE4.jpg?auth=d97cdcad0fff4695c0d9f732da7f545be97b1cac8ab6c5eec516e8ec787a87fa&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/08/andreu-buenafuente-presenta-su-nuevo-programa-en-la-revuelta-y-broncano-se-lleva-una-bronca-de-un-manuel-carrasco-bastante-enfadado-no-eres-un-hombre-de-palabra/",
+        "date": "2025-05-08 01:43:07",
+        "sentiment_score": -0.9276383398100734
+    },
+    {
+        "title": "Pronóstico del clima en Madrid este 8 de mayo: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/MMME457DWBB77G22Z6YMDWUQRA.jpg?auth=f181a9be747909b50127571f1e25036f5d23a0bce256d04a26c1562e69067d21&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/08/pronostico-del-clima-en-madrid-este-8-de-mayo-temperatura-lluvias-y-viento/",
+        "date": "2025-05-08 01:31:59",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Ranking de Prime Video en España: estas son las películas más vistas del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/5MRXQXGHBBCH7H75UTLWSLKUMQ.jpg?auth=b7f0dbf0efe49dec5d9d16e71300fa1a69354fa180b174ec4860f1e45f66d30b&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/05/08/ranking-de-prime-video-en-espana-estas-son-las-peliculas-mas-vistas-del-momento/",
+        "date": "2025-05-08 01:31:18",
+        "sentiment_score": 0.7445468716323376
+    },
+    {
+        "title": "Las películas más populares de Netflix España que no podrás dejar de ver",
+        "image_url": "https://www.infobae.com/resizer/v2/M52SD5MKWVHNNPFWB766MJCMLU.jpg?auth=eaa3a8c86932f33a94ad30eb68454a1236a90c3ea53c22d9e224a2d187602f80&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/08/las-peliculas-mas-populares-de-netflix-espana-que-no-podras-dejar-de-ver/",
+        "date": "2025-05-08 01:31:00",
+        "sentiment_score": 0.29326120018959045
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Barcelona este 8 de mayo",
+        "image_url": "https://www.infobae.com/resizer/v2/4IAZGGTAGJE35DFJSEM4YHHBZU.jpg?auth=040d6a7342f1b5cb7f0f90c6d8ec32b1e159c7da3e229045bc8a7698b0a9cf03&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/08/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-barcelona-este-8-de-mayo/",
+        "date": "2025-05-08 01:16:40",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El Senado argentino aprueba la designación de Wenceslao Bunge como embajador en España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/08/el-senado-argentino-aprueba-la-designacion-de-wenceslao-bunge-como-embajador-en-espana/",
+        "date": "2025-05-08 00:16:54",
+        "sentiment_score": 0.4747065454721451
+    },
+    {
+        "title": "Rodríguez Zapatero se reúne con el canciller mexicano De la Fuente y hablan de geopolítica",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/08/rodriguez-zapatero-se-reune-con-el-canciller-mexicano-de-la-fuente-y-hablan-de-geopolitica/",
+        "date": "2025-05-08 00:16:37",
+        "sentiment_score": 0.07227125018835068
+    },
+    {
+        "title": "Feijóo dice que obligaría a las eléctricas a prolongar la vida útil de las nucleares \"por interés nacional\"",
+        "image_url": "https://www.infobae.com/resizer/v2/PJ2HF5MTRBFSVM27CVV2VHJZWQ.jpg?auth=39491cb27c4d9b9ea12551fbc8732d92e2f823cb6b028d8fbc20131813a4d2e5&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/08/feijoo-dice-que-obligaria-a-las-electricas-a-prolongar-la-vida-util-de-las-nucleares-por-interes-nacional/",
+        "date": "2025-05-08 00:00:38",
+        "sentiment_score": 0.3555915132164955
+    },
+    {
+        "title": "Un soltero rompe a llorar en mitad de la cena en ‘First Dates’: “Nadie se fija en mí y me marginan”",
+        "image_url": "https://www.infobae.com/resizer/v2/K5SKLV7OOFFAPLBBSHU6VJW2RI.png?auth=c9f2650d5616390f50adb500b733f8c02badcc70f98e847d9af63ac651cc7921&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/07/un-soltero-rompe-a-llorar-en-mitad-de-la-cena-en-first-dates-nadie-se-fija-en-mi-y-me-marginan/",
+        "date": "2025-05-07 23:53:39",
+        "sentiment_score": 0.13839951902627945
+    },
+    {
+        "title": "Desalojadas 30 viviendas de Villaverde (Madrid) por un incendio sin heridos de un bar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/07/desalojadas-30-viviendas-de-villaverde-madrid-por-un-incendio-sin-heridos-de-un-bar/",
+        "date": "2025-05-07 23:45:57",
+        "sentiment_score": -0.8290475029498339
+    },
+    {
+        "title": "Los «ultrarricos» que ataca Sánchez generan la mitad de la electricidad renovable en España",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/08/Iberdrola-RCh4soepWa7WJgArPjjzBOM-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ultrarricos-ataca-sanchez-generan-mitad-electricidad-renovable-20250508192636-nt.html",
+        "date": "2025-05-08 02:08:13",
+        "sentiment_score": -0.04014277458190918
+    },
+    {
+        "title": "El intento del Gobierno de frenar la opa de BBVA afronta fuertes dudas legales",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/08/torres-cuerpo-RMK24l2q9FrT9IxtSWANFdN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/intento-gobierno-frenar-opa-bbva-afronta-fuertes-20250508040714-nt.html",
+        "date": "2025-05-08 02:07:59",
+        "sentiment_score": -0.020370036363601685
+    },
+    {
+        "title": "Sánchez teje una política intervencionista en la 'guerra' contra las empresas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/08/garamendi-R6kLjwK7FsWJnJPAJjDXpvJ-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/politica-intervencionista-guerra-empresas-20250508194641-nt.html",
+        "date": "2025-05-08 02:07:40",
+        "sentiment_score": -0.18810077011585236
+    },
+    {
+        "title": "Un simple escáner detecta el párkinson mucho antes de los primeros síntomas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/05/07/image1-Lungu.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/posible-detectar-parkinson-simple-escaner-20250508120845-nt.html",
+        "date": "2025-05-07 23:31:01",
+        "sentiment_score": -0.10307154059410095
+    },
+    {
+        "title": "Joan Laporta, presidente del Barcelona: «No estamos en la final por decisiones arbitrales que nos perjudicaron»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/05/07/inter-barcelona-polemica-arbitro-champions-league-orix/",
+        "date": "2025-05-08 02:03:41",
+        "sentiment_score": 0.1538633406162262
+    },
+    {
+        "title": "Xosé Álvarez y el Conceyu d’Asturies en Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4bd2c459-fec5-4722-bf7d-b438e6797615_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/cultura/2025/05/08/xose-alvarez-conceyu-d-asturies-117143567.html",
+        "date": "2025-05-08 02:01:07",
+        "sentiment_score": -0.24896688759326935
+    },
+    {
+        "title": "Arteta afirma que Arsenal fue el mejor equipo pese a la derrota ante el PSG en la Liga de Campeones",
+        "image_url": "https://dims.apnews.com/dims4/default/9c15171/2147483647/strip/true/crop/2008x1337+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2F80%2F4c935ec970b8c89f8a4ee1679807%2Fdfb38b83d4704f0cbda8880c79f31af6",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/arsenal-arteta-luis-enrique-campeones-b9a28cd18a8cd6d019e507ea32ea38e1",
+        "date": "2025-05-08 01:47:51",
+        "sentiment_score": 0.2611316442489624
+    },
+    {
+        "title": "Arteta afirma que Arsenal fue el mejor equipo pese a la derrota ante el PSG en la Liga de Campeones",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/05/ARSENAL-ARTETA_74265.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/05/07/arteta-afirma-que-arsenal-fue-el-mejor-equipo-pese-a-la-derrota-ante-el-psg-en-la-liga-de-campeones/",
+        "date": "2025-05-08 01:47:50",
+        "sentiment_score": -0.8312717545777559
+    },
+    {
+        "title": "“Despierta, bebito”: el tierno video de Lautaro Martínez con sus hijos tras llevar al Inter a la final de la Champions",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/05/08/despierta-bebito-el-tierno-video-de-lautaro-martinez-con-sus-hijos-tras-llevar-al-inter-a-la-final-de-la-champions/",
+        "date": "2025-05-08 01:20:24",
+        "sentiment_score": 0.6954251453280449
+    },
+    {
+        "title": "Javier Tebas vuelve a arremeter contra el Real Madrid por esta razón",
+        "image_url": "https://pxcdn.meridiano.net/052025/1746665983962.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/javier-tebas-vuelve-a-arremeter-contra-el-real-madrid-por-esta-razon-20255720500",
+        "date": "2025-05-08 00:50:00",
+        "sentiment_score": -0.8924218434840441
+    },
+    {
+        "title": "Karla Sofía Gascón no fue a la MET Gala porque estuvo en el hospital",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/05/Karla-Sofia-Gascon-3.jpg",
+        "tags": [
+            "entretenimiento",
+            "met gala",
+            "karla sofía gascón"
+        ],
+        "link": "https://eldiariony.com/2025/05/07/karla-sofia-gascon-no-fue-a-la-met-gala-porque-estuvo-en-el-hospital/",
+        "date": "2025-05-08 00:47:32",
+        "sentiment_score": -0.7313769785687327
+    },
+    {
+        "title": "Marruecos intercepta cinco embarcaciones con 156 migrantes que se dirigían a las Islas Canarias",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250508024105_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-marruecos-intercepta-cinco-embarcaciones-156-migrantes-dirigian-islas-canarias-20250508024105.html",
+        "date": "2025-05-08 00:41:05",
+        "sentiment_score": -0.5402296334505081
+    },
+    {
+        "title": "Bukayo Saka falla una clara ocasión contra PSG y Arsenal vuelve a quedarse corto",
+        "image_url": "https://dims.apnews.com/dims4/default/21dec4c/2147483647/strip/true/crop/6630x4413+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F46%2F4b%2F16814f929102c2406bd4b578e41a%2F7c145993932e46d69744d08520240a59",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/champions-league-arsenal-bukayo-saka-eliminado-psg-f87dd8642892eb4032c30e54f0457318",
+        "date": "2025-05-08 00:40:54",
+        "sentiment_score": -0.8761462047696114
+    },
+    {
+        "title": "Bukayo Saka falla una clara ocasión contra PSG y Arsenal vuelve a quedarse corto",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/05/ARSENAL_SIN_TROFEO_18298.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/05/07/bukayo-saka-falla-una-clara-ocasin-contra-psg-y-arsenal-vuelve-a-quedarse-corto/",
+        "date": "2025-05-08 00:40:53",
+        "sentiment_score": -0.7468249648809433
+    },
+    {
+        "title": "El descuido de Jennifer López en Mallorca: el vestido que le jugó una mala pasada en la Plaza de Toros de Palma",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/05/08/2381201/descuido-jennifer-lopez-mallorca-vestido-jugo-mala-pasada-plaza-toros-palma.html",
+        "date": "2025-05-08 02:00:01",
+        "sentiment_score": 0.02869439125061035
+    },
+    {
+        "title": "Los jóvenes investigadores de arte se dan cita en la Fundación Juan March",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3295581.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/05/08/2382013/jovenes-investigadores-arte-dan-cita-fundacion-juan-march.html",
+        "date": "2025-05-08 02:00:01",
+        "sentiment_score": 0.14749899879097939
+    },
+    {
+        "title": "Otro acusado del macrojuicio de drogas confiesa: son ya 40 de los 50 encausados los que asumen condenas",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3295573.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2025/05/08/2382015/otro-acusado-del-macrojuicio-drogas-confiesa-son-encausados-que-asumen-condenas.html",
+        "date": "2025-05-08 02:00:01",
+        "sentiment_score": -0.6275051161646843
+    },
+    {
+        "title": "«La gente va a los espectáculos como el de Madò Pereta a soñar»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/05/08/2382125/gente-espectaculos-como-mado-pereta-sonar.html",
+        "date": "2025-05-08 02:00:01",
+        "sentiment_score": 0.19581593573093414
+    },
+    {
+        "title": "Luis Enrique recuerda a su hija fallecida: Tengo el deseo de ganar la Champions con el PSG, así como lo hice con el Barcelona",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746669646447.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/luis-enrique-recuerda-a-su-hija-fallecida-tengo-el-deseo-de-ganar-la-champions-con-el-psg-asi-como-lo-hice-con-el-barcelona-20255722240",
+        "date": "2025-05-08 01:37:08",
+        "sentiment_score": 0.6967728286981583
+    },
+    {
+        "title": "Amaranta Hank relató la experiencia que la llevó a distanciarse del cine para adultos: “Demasiadas mentiras, demasiada negligencia”",
+        "image_url": "https://www.infobae.com/resizer/v2/2X3PERYY25GSJD5HY2EFJSOFYE.jpg?auth=36749348bc545ee1b376114d03a37b147abb887d159b8a01b87f0a694062a775&height=540&smart=true&width=960",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/05/08/amaranta-hank-relato-la-experiencia-que-la-llevo-a-distanciarse-del-cine-para-adultos-demasiadas-mentiras-demasiada-negligencia/",
+        "date": "2025-05-08 01:31:16",
+        "sentiment_score": 0.12631987035274506
+    },
+    {
+        "title": "GTU invita a jornada gratuita para legalizar documentos universitarios en Caracas: lugar y requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746653879219.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/gtu-invita-a-jornada-gratuita-para-legalizar-documentos-universitarios-en-caracas-lugar-y-requisitos-2025572210",
+        "date": "2025-05-08 02:01:00",
+        "sentiment_score": 0.0691584013402462
+    },
+    {
+        "title": "Sujeto recibe descarga eléctrica al intentar hurtar una subestación: presentó quemaduras en 60% de su cuerpo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746654197725.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/sujeto-recibe-descarga-electrica-al-intentar-hurtar-una-subestacion-presento-quemaduras-en-60-de-su-cuerpo-2025572210",
+        "date": "2025-05-08 02:01:00",
+        "sentiment_score": -0.6920801792293787
+    },
+    {
+        "title": "Cabello afirma que solo había cuatro opositores en la Embajada Argentina: El 20 de abril se fue una de ellas por su cuenta",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746668345499.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/cabello-afirma-que-solo-habia-cuatro-opositores-en-la-embajada-argentina-el-20-de-abril-se-fue-una-de-ellas-por-su-cuenta-20255721340",
+        "date": "2025-05-08 01:34:00",
+        "sentiment_score": -0.22448258474469185
+    },
+    {
+        "title": "Gobernador de Illinois responde al gobierno de Trump: Su administración ha violado la Constitución y ha negado el debido proceso",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746667969584.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/gobernador-de-illinois-responde-al-gobierno-de-trump-su-administracion-ha-violado-la-constitucion-y-ha-negado-el-debido-proceso-20255721290",
+        "date": "2025-05-08 01:29:00",
+        "sentiment_score": -0.7720542009919882
+    },
+    {
+        "title": "“Mañana Fue Muy Bonito”: Karol G estrena documental de Netflix en Nueva York",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746667778746.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/manana-fue-muy-bonito-karol-g-estrena-documental-de-netflix-en-nueva-york-20255721260",
+        "date": "2025-05-08 01:26:00",
+        "sentiment_score": 0.845217963680625
+    },
+    {
+        "title": "Canciller Gil: Acuerdo entre Rusia y Venezuela incluye la creación de una nueva arquitectura financiera",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746669615395.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/canciller-gil-acuerdo-entre-rusia-y-venezuela-incluye-la-creacion-de-una-nueva-arquitectura-financiera-20255721250",
+        "date": "2025-05-08 01:25:00",
+        "sentiment_score": 0.054672129452228546
+    },
+    {
+        "title": "La Semana Nacional de Huracanes declarada por Trump llega hasta esta fecha: los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746640709848.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/la-semana-nacional-de-huracanes-declarada-por-trump-llega-hasta-esta-fecha-los-detalles-20255721150",
+        "date": "2025-05-08 01:15:00",
+        "sentiment_score": -0.3567155972123146
+    },
+    {
+        "title": "Desmancha las axilas con esta bebida que siempre tienes en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746666437442.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/desmancha-las-axilas-con-esta-bebida-que-siempre-tienes-en-casa-20255721150",
+        "date": "2025-05-08 01:15:00",
+        "sentiment_score": -0.8149996213614941
+    },
+    {
+        "title": "Cocina alimentos correctamente para prevenir el cáncer: temperatura es vital",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746558247612.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/cocina-alimentos-correctamente-para-prevenir-el-cancer-temperatura-es-vital-20255721100",
+        "date": "2025-05-08 01:10:00",
+        "sentiment_score": 0.720651563256979
     }
 ];
