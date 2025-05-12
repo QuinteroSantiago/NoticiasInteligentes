@@ -160,46 +160,6 @@ export default [
         "sentiment_score": -0.06476801633834839
     },
     {
-        "title": "El Papa que Dios quiera",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/05/08/Prevost-RtzHsWddNjsBiTNTHHXiVLI-1200x840@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/chapu-apaolaza-papa-dios-quiera-20250508203013-nt.html",
-        "date": "2025-05-08 18:30:28",
-        "sentiment_score": -0.07435658574104309
-    },
-    {
-        "title": "España en la Filbo",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/05/06/guardiacivilotra-kr--170x119@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/carlos-granes-espana-filbo-20250509201631-nt.html",
-        "date": "2025-05-08 18:16:40",
-        "sentiment_score": -0.09836307168006897
-    },
-    {
-        "title": "Hechos radiactivos",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/04/30/broncano-orcera-kYsE--170x119@Ideal.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/rosa-belmonte-radiactivos-20250509201053-nt.html",
-        "date": "2025-05-08 18:11:00",
-        "sentiment_score": -0.14207756519317627
-    },
-    {
-        "title": "El civismo como plebiscito",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/05/06/sonda-Espacial-U64286512238FSW-170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jesus-lillo-civismo-plebiscito-20250509160200-nt.html",
-        "date": "2025-05-08 18:10:49",
-        "sentiment_score": -0.17182160913944244
-    },
-    {
         "title": "El pasado del papa León XIV en España: visitas a Ávila, Palencia, Valladolid, Sevilla, León y Salamanca",
         "image_url": "https://imagenes.elpais.com/resizer/v2/BREXWX3BCKAIVHG4OSXEN7VI3A.jpg?auth=a9270e15c8a46f51904e096a27fffcd70ec695d9d153c0f643eb00a483d84bc9&width=1200",
         "tags": [
@@ -228,131 +188,6 @@ export default [
         "link": "https://elpais.com/espana/2025-05-08/la-politica-espanola-recibe-a-leon-xiv-deseandole-acierto-y-reforzar-el-dialogo.html",
         "date": "2025-05-08 18:40:59",
         "sentiment_score": 0.3303430825471878
-    },
-    {
-        "title": "El Govern fía el futuro de la tasa turística a su trámite como proyecto de ley",
-        "image_url": "https://imagenes.elpais.com/resizer/gvruh_ZX96yAXGlVrFuP-0UJ0-I=/arc-anglerfish-eu-central-1-prod-prisa/public/WGHQM2EQLRCSLHOTXBMKS46U4A.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-08/el-govern-fia-el-futuro-de-la-tasa-turistica-a-su-tramite-como-proyecto-de-ley.html",
-        "date": "2025-05-08 18:06:15",
-        "sentiment_score": 0.08285476639866829
-    },
-    {
-        "title": "El PP se queda solo en el Congreso en defensa de su estrategia energética",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OXOCRC5OVVHX6M35O4EV2ZA7ZE.jpg?auth=be455aed3e7d7bb3302215248b2294c4e3e406ea7f8e34abe42a260332f147e1&width=1200",
-        "tags": [
-            "energía",
-            "presupuestos generales estado",
-            "vox",
-            "juntsxcat",
-            "debates parlamentarios",
-            "upn",
-            "españa",
-            "congreso diputados",
-            "erc",
-            "energía nuclear",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/2025-05-08/el-pp-se-queda-solo-en-el-congreso-en-defensa-de-su-estrategia-energetica.html",
-        "date": "2025-05-08 17:36:04",
-        "sentiment_score": 0.342341847717762
-    },
-    {
-        "title": "La Fiscalía recurre la imputación del delegado del Gobierno en Madrid en el caso de Begoña Gómez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2ABDO6QLKH2XOTECA27M2EU53I.jpg?auth=b1d5463ac1305506bbbe27276d2aeb9fe3ee9a1efeee9ae92a4489abd32dc594&width=1200",
-        "tags": [
-            "begoña gómez fernández",
-            "fiscalía",
-            "pedro sánchez",
-            "justicia",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-05-08/la-fiscalia-recurre-la-imputacion-del-delegado-del-gobierno-en-madrid-en-el-caso-de-begona-gomez.html",
-        "date": "2025-05-08 16:47:13",
-        "sentiment_score": -0.8259898331016302
-    },
-    {
-        "title": "Cataluña se vuelca con el Día de Europa en una jornada repleta de actividades",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I6CCF6LYURAI2A7TLKYXH2NRVE.jpg?auth=80503762f148880637d4eda402dcfe45b0f22fa2e7a994ba2b9d59cd63378681&width=1200",
-        "tags": [
-            "europa",
-            "manifestaciones",
-            "barcelona",
-            "democracia",
-            "cataluña",
-            "cultura",
-            "deportes",
-            "música",
-            "conmemoraciones históricas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-08/cataluna-se-vuelca-con-el-dia-de-europa-en-una-jornada-repleta-de-actividades.html",
-        "date": "2025-05-08 16:19:25",
-        "sentiment_score": 0.37128716334700584
-    },
-    {
-        "title": "La labor de Assange por la transparencia y el periodismo de proximidad en la dana, Premis Llibertat d’Expressió",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WODS2U3P7N3GJAMY2XCKVMHXKA.jpg?auth=cfb13c9bedcc7aaf427707b6d484fa42f1e0a4988cff4e761d09530c1448343c&width=1200",
-        "tags": [
-            "periodismo",
-            "comunidad valenciana",
-            "dana",
-            "julian assange",
-            "inundaciones dana octubre 2024",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-08/la-labor-de-assange-por-la-transparencia-y-el-periodismo-de-proximidad-en-la-dana-premis-llibertat-dexpressio.html",
-        "date": "2025-05-08 16:16:54",
-        "sentiment_score": 0.6714064218103886
-    },
-    {
-        "title": "Una vivienda con una habitación en el centro de Barcelona cuesta en promedio 1.278 euros mensuales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/42RW7JTSX5GR7CKXXOKAAWQFRI.jpg?auth=946ef7fe40296f7ad65687fc15ce892f58b3003a9a5368cd863237df445e48cc&width=1200",
-        "tags": [
-            "indicadores sociales",
-            "ayuntamiento barcelona",
-            "comercio",
-            "vivienda",
-            "economía",
-            "ciudades turísticas",
-            "cataluña",
-            "urbanismo",
-            "barcelona",
-            "informes económicos",
-            "indicadores económicos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-08/una-vivienda-con-una-habitacion-en-el-centro-de-barcelona-cuesta-en-promedio-1278-euros-mensuales.html",
-        "date": "2025-05-08 15:55:34",
-        "sentiment_score": 0.12338215857744217
-    },
-    {
-        "title": "Barcelona endurece la guerra contra los negocios que venden gominolas de cannabis e inspecciona 35 ‘growshops’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6U2FTOL6AJBEJAMVEXFDTOFPKA.jpg?auth=1936b7dec3de2bf904d10055d326da2017dfa1f6102f9680933473dcbea8b4e3&width=1200",
-        "tags": [
-            "drogas",
-            "guardia urbana",
-            "cataluña",
-            "cannabis",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-08/barcelona-endurece-la-guerra-contra-los-negocios-que-venden-gominolas-de-cannabis-e-inspecciona-35-growshops.html",
-        "date": "2025-05-08 15:37:51",
-        "sentiment_score": -0.8002892080694437
-    },
-    {
-        "title": "Absueltos de prevaricación y tráfico de influencias tres exalcaldes del PP y dos arquitectos de la población castellonense de Cabanes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3G4YJL5SJVETJDZQPU344HLZLY.jpg?auth=41c3358b8aac2bae5ed72220631a39046a66221147e885d2a2a701c92ce47f77&width=1200",
-        "tags": [
-            "cabanes",
-            "castellón",
-            "tribunales",
-            "comunidad valenciana",
-            "sentencias"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-08/absueltos-de-prevaricacion-y-trafico-de-influencias-tres-exalcaldes-del-pp-y-dos-arquitectos-de-la-poblacion-castellonense-de-cabanes.html",
-        "date": "2025-05-08 15:30:27",
-        "sentiment_score": -0.7537583820521832
     },
     {
         "title": "Valverde: \"No es real que hayamos perdido 4-1 cuando les hemos tenido contra las cuerdas\"",
@@ -6906,5 +6741,575 @@ export default [
         "link": "https://2001online.com/servicios/conoce-el-cronograma-de-distribucion-de-gasolina-subsidiada-del-12-al-18-de-mayo-202551120340",
         "date": "2025-05-12 00:34:00",
         "sentiment_score": -0.7348810341209173
+    },
+    {
+        "title": "Almirall triplica sus ganancias en el primer trimestre hasta los 21,6 millones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/12/almirall-triplica-sus-ganancias-en-el-primer-trimestre-hasta-los-216-millones/",
+        "date": "2025-05-12 06:32:18",
+        "sentiment_score": 0.6331259645521641
+    },
+    {
+        "title": "Mazda no publica previsiones de resultados de 2025 por los aranceles de Trump",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/12/mazda-no-publica-previsiones-de-resultados-de-2025-por-los-aranceles-de-trump/",
+        "date": "2025-05-12 06:32:01",
+        "sentiment_score": -0.588333735242486
+    },
+    {
+        "title": "El Banco de España multa a Depasify con 240.000 euros por negarse a facilitar información",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/12/el-banco-de-espana-multa-a-depasify-con-240000-euros-por-negarse-a-facilitar-informacion/",
+        "date": "2025-05-12 06:31:45",
+        "sentiment_score": -0.8491159304976463
+    },
+    {
+        "title": "Neinor cierra la venta de su porfolio de vivienda en alquiler y logra 325 millones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/12/neinor-cierra-la-venta-de-su-porfolio-de-vivienda-en-alquiler-y-logra-325-millones/",
+        "date": "2025-05-12 06:31:29",
+        "sentiment_score": 0.37645113095641136
+    },
+    {
+        "title": "Lucas, de Andy y Lucas, desmiente que se haya peleado con su compañero: “No sé si es de alguien a quien no le pagamos bien”",
+        "image_url": "https://www.infobae.com/resizer/v2/AYWAYE2IYFAZJG2RL5KLX24SHQ.jpg?auth=c2af0ecaac805a2b23cf0eb8ff2ea57a15479cee5351a6b3196ea9eff3884815&height=2160&smart=true&width=3840",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/12/lucas-de-andy-y-lucas-desmiente-que-se-haya-peleado-con-su-companero-no-se-si-es-de-alguien-a-quien-no-le-pagamos-bien/",
+        "date": "2025-05-12 06:25:28",
+        "sentiment_score": -0.8212525686249137
+    },
+    {
+        "title": "La Bolsa de Pakistán abre con ganancias superiores al 9 % tras el alto el fuego con India",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/12/la-bolsa-de-pakistan-abre-con-ganancias-superiores-al-9-tras-el-alto-el-fuego-con-india/",
+        "date": "2025-05-12 06:16:45",
+        "sentiment_score": 0.3535587787628174
+    },
+    {
+        "title": "Moda a plazos, la clave para no renunciar ir a la última",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/12/moda-a-plazos-la-clave-para-no-renunciar-ir-a-la-ultima/",
+        "date": "2025-05-12 06:16:25",
+        "sentiment_score": 0.061236672103405
+    },
+    {
+        "title": "Los 3 motivos por los que tu perro no te obedece cuando le llamas: “¿Tú irías o no irías?”",
+        "image_url": "https://www.infobae.com/resizer/v2/2OVZSQ2EKZH3BFZM4IJ57ET55U.jpg?auth=86ce375b329557fbbf68213bb7718e69be8f958f2e7c63ad8006b1f8bc569f84&height=3360&smart=true&width=5040",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/12/los-3-motivos-por-los-que-tu-perro-no-te-obedece-cuando-le-llamas-tu-irias-o-no-irias/",
+        "date": "2025-05-12 06:05:41",
+        "sentiment_score": 0.17584219574928284
+    },
+    {
+        "title": "Unos 35.000 profesionales de defensa acuden hoy a FEINDEF para analizar el sector en pleno debate sobre la seguridad",
+        "image_url": "https://www.infobae.com/resizer/v2/KNLPOGV6VBG6FH4MXK2NSESPQ4.jpg?auth=d18f22027a1808f69b55d86a6c06e9d6491a069307a5c854764928ba2697dc09&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/12/unos-35000-profesionales-de-defensa-acuden-hoy-a-feindef-para-analizar-el-sector-en-pleno-debate-sobre-la-seguridad/",
+        "date": "2025-05-12 06:00:52",
+        "sentiment_score": 0.14691811800003052
+    },
+    {
+        "title": "5 mossos que analizaron el dispositivo para detener a Puigdemont declaran este lunes ante la jueza",
+        "image_url": "https://www.infobae.com/resizer/v2/AZR4KZWJVZCRXERGJMOEHUTHAE.jpg?auth=e3638fe112acb3ee71e235b47f40a5ebb963c3735050ba267ce5750f9248bc09&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/12/5-mossos-que-analizaron-el-dispositivo-para-detener-a-puigdemont-declaran-este-lunes-ante-la-jueza/",
+        "date": "2025-05-12 06:00:34",
+        "sentiment_score": -0.20759683847427368
+    },
+    {
+        "title": "Trump anuncia que firmará un decreto para reducir entre un 30% y un 80% el precio de los medicamentos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/05/12/trump-k8CI-U70962530579HrE-1200x840@diario_abc.JPG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-anuncia-firmara-decreto-reducir-precio-medicamentos-20250512082408-nt.html",
+        "date": "2025-05-12 06:24:47",
+        "sentiment_score": -0.0965057909488678
+    },
+    {
+        "title": "Ni un parto ni un cólico nefrítico: este es el dolor más insoportable para una persona, según la ciencia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/noticias/2025/05/11/dolor-kXX-U70960506583DUD-1200x840@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/parto-colico-nefritico-dolor-insoportable-persona-segun-20250512070000-nt.html",
+        "date": "2025-05-12 05:00:02",
+        "sentiment_score": -0.25120463967323303
+    },
+    {
+        "title": "¿A qué comunidades de España pueden afectar más los aranceles de Trump?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/05/12/traranc23-RyJCk2gBanrikgZxo7nPNBO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/comunidades-espanolas-pueden-afectar-aranceles-trump-20250512153244-nt.html",
+        "date": "2025-05-12 04:19:07",
+        "sentiment_score": -0.1819189339876175
+    },
+    {
+        "title": "Cuándo se cobra la paga extra de verano de los jubilados en 2025: fecha y cuantía de las pensiones",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/05/09/pensiones.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cobra-paga-extra-verano-jubilados-2025-fecha-20250512060000-nt.html",
+        "date": "2025-05-12 04:00:24",
+        "sentiment_score": -0.07073034346103668
+    },
+    {
+        "title": "La IA que revisa cada coma y evita errores millonarios",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/05/12/josemassa-RqzBpGkLisJp8PSh6Sbao4J-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ia-revisa-coma-evita-errores-millonarios-20250512192202-nt.html",
+        "date": "2025-05-12 03:53:49",
+        "sentiment_score": -0.06997025012969971
+    },
+    {
+        "title": "La ola tecnológica da un nuevo impulso a los fondos cotizados",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/12/etf-RgX7dNBdikNh6EnRJqj6ziL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ola-tecnologica-nuevo-impulso-fondos-cotizados-20250512185908-nt.html",
+        "date": "2025-05-12 03:53:34",
+        "sentiment_score": 0.0005283057689666748
+    },
+    {
+        "title": "La tecnología da un brillo de credibilidad al viaje responsable de la alta joyería",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/12/Bocetojoyas-R7Y57GYyjsEVEPTAjuWRYhJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/tecnologia-brillo-credibilidad-viaje-responsable-alta-joyeria-20250512055321-nt.html",
+        "date": "2025-05-12 03:53:21",
+        "sentiment_score": -0.007408022880554199
+    },
+    {
+        "title": "Las semillas de larga germinación de los robots agricultores",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/12/UPV-VINESCOUT-Front-ROgPfY5GfDgl6DUbEdH3w5I-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/semillas-larga-germinacion-robots-agricultores-20250512055221-nt.html",
+        "date": "2025-05-12 03:52:22",
+        "sentiment_score": -0.02266484498977661
+    },
+    {
+        "title": "EE.UU. y China, optimistas tras las primeras negociaciones comerciales en Suiza",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/12/negociacion-comercial-eeuu-china-reuters-kjMB-U70961301738aII-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/eeuu-china-optimistas-tras-primeras-negociaciones-comerciales-20250512043216-nt.html",
+        "date": "2025-05-12 02:32:17",
+        "sentiment_score": -0.09913390874862671
+    },
+    {
+        "title": "Friedrich Merz: un hombre fuerte de derecha para Europa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/11/merz-kVuD-U70960489209fwD-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/friedrich-merz-hombre-fuerte-derecha-europa-20250511042828-nt.html",
+        "date": "2025-05-12 02:28:28",
+        "sentiment_score": -0.0711621344089508
+    },
+    {
+        "title": "Las principales autoridades europeas reciben a las víctimas de la dana que Mazón no ha atendido",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PJBWB7F2FJE65CD2VLY7QZJ6XM.jpg?auth=173dc93cb5872a81af5017384c41a39e3217a012c12ff9857637111283b0f161&width=1200",
+        "tags": [
+            "inundaciones dana octubre 2024",
+            "comisión europea",
+            "ppcv",
+            "ursula von der leyen",
+            "carlos mazón",
+            "vox",
+            "valencia",
+            "dana",
+            "generalitat valenciana",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-12/las-principales-autoridades-europeas-reciben-a-las-victimas-de-la-dana-que-mazon-no-ha-atendido.html",
+        "date": "2025-05-12 05:16:37",
+        "sentiment_score": -0.44637419283390045
+    },
+    {
+        "title": "El impuesto de guerra, el tentáculo de las maras que se extiende hasta España",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/A3WL3J3TQFFH3NEK3XWN32I6L4.jpg?auth=6baa7d894d38f88f6ac98ddef893ed18a87b6708e1a09ed52d381f54bd2f2b0a&width=1200",
+        "tags": [
+            "pandillas",
+            "centroamérica",
+            "barcelona",
+            "honduras",
+            "el salvador",
+            "cataluña",
+            "maras",
+            "guatemala",
+            "extorsiones",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-05-12/el-impuesto-de-guerra-el-tentaculo-de-las-maras-que-se-extiende-hasta-espana.html",
+        "date": "2025-05-12 03:30:01",
+        "sentiment_score": -0.8769019870087504
+    },
+    {
+        "title": "El 90% de los fondos europeos destinados a nuevas guarderías en Cataluña quedan sin usar",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CDBMFG4OVRB4NLK7INHPSSIEHM.jpg?auth=67b93c73716f04d5d8ddae50a7e43dd55c4ad11151d52f649a6e2e2ce53b72ef&width=1200",
+        "tags": [
+            "educación infantil",
+            "ayuntamientos",
+            "infancia",
+            "centros educativos",
+            "cataluña",
+            "educación",
+            "subvenciones",
+            "guarderías"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-05-12/el-90-de-los-fondos-europeos-destinados-a-nuevas-guarderias-en-cataluna-quedan-sin-usar.html",
+        "date": "2025-05-12 03:30:01",
+        "sentiment_score": 0.12949074059724808
+    },
+    {
+        "title": "El “alquiler social” de la Xunta en A Coruña: rentas de hasta 975 euros al mes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CGDI2BARBRCBFOXG6DUEOQFOUI.JPG?auth=80b2e00f1117e592093340c753062ad534e2c3546cfa3d6d3f9f6b9b1e38230c&width=1200",
+        "tags": [
+            "cooperativas vivienda",
+            "viviendas alquiler",
+            "españa",
+            "xunta galicia",
+            "vpo",
+            "vivienda",
+            "alfonso rueda",
+            "galicia",
+            "a coruña",
+            "ico",
+            "ayuntamiento a coruña"
+        ],
+        "link": "https://elpais.com/espana/galicia/2025-05-12/el-alquiler-social-de-la-xunta-en-a-coruna-rentas-de-hasta-975-euros-al-mes.html",
+        "date": "2025-05-12 03:30:01",
+        "sentiment_score": -0.2741689085960388
+    },
+    {
+        "title": "El independentismo busca su camino en la Cataluña de Illa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FS4D2UJWIZDAJI5MB7OKYFK66Q.jpg?auth=5f1964131b525df6d0c77872705de420b4043fbf7d51b2cebc942ed8ca20be79&width=1200",
+        "tags": [
+            "erc",
+            "juntsxcat",
+            "oriol junqueras",
+            "anc",
+            "cup",
+            "independentismo",
+            "cataluña",
+            "carles puigdemont",
+            "elecciones catalanas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-05-12/el-independentismo-busca-su-camino-en-la-cataluna-de-illa.html",
+        "date": "2025-05-12 03:30:01",
+        "sentiment_score": -0.6660355683416128
+    },
+    {
+        "title": "“Expectación” en el PP ante la reunión de Feijóo con sus barones",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CDF32QMHA274MNSPJSCRLBHKNE.jpg?auth=e2f00ea0c1148869d0762f4d160c54f0110b3d32c8a2f33d1a17309e7e5acee1&width=1200",
+        "tags": [
+            "jorge azcón",
+            "españa",
+            "congresos pp",
+            "carlos mazón",
+            "comité ejecutivo nacional",
+            "juan manuel moreno",
+            "alfonso rueda",
+            "fernando lópez miras",
+            "alfonso fernández mañueco",
+            "isabel díaz ayuso",
+            "partidos políticos",
+            "pp",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://elpais.com/espana/2025-05-12/expectacion-en-el-pp-ante-la-reunion-de-feijoo-con-sus-barones.html",
+        "date": "2025-05-12 03:30:01",
+        "sentiment_score": 0.048749927431344986
+    },
+    {
+        "title": "Estados Unidos retrasa hasta 2026 el envío a Rota de su sexto destructor antimisiles",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BX4QC3KTDNAG3OPJCYQUZT2ROY.jpg?auth=2ceff5f3073ad76fbdd697ab1ec26e09b2b66b16b45619b45495ab0603547c5d&width=1200",
+        "tags": [
+            "ucrania",
+            "otan",
+            "españa",
+            "base de rota",
+            "donald trump",
+            "estados unidos",
+            "armada",
+            "rusia",
+            "escudo antimisiles",
+            "rota",
+            "ministerio de defensa",
+            "defensa",
+            "margarita robles"
+        ],
+        "link": "https://elpais.com/espana/2025-05-12/estados-unidos-retrasa-hasta-2026-el-envio-a-rota-de-su-sexto-destructor-antimisiles.html",
+        "date": "2025-05-12 03:30:01",
+        "sentiment_score": 0.030013948678970337
+    },
+    {
+        "title": "Fuego, bombas y esvásticas: el retrato del miedo de los niños perseguidos por la guerra",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7ASEOSD4RRA35HZBEDDTLEVECY.jpg?auth=b701ff1c18f3469e4b666c7e764bbb0e2992e803fb656f9f72958a34cbfa125d&width=1200",
+        "tags": [
+            "ucrania",
+            "españa",
+            "infancia",
+            "guerra civil española",
+            "víctimas guerra",
+            "refugiados",
+            "división azul",
+            "franquismo",
+            "dibujo",
+            "ateneo madrid",
+            "segunda guerra mundial",
+            "rusia",
+            "memoria histórica",
+            "exposiciones",
+            "segunda república española",
+            "víctimas franquismo"
+        ],
+        "link": "https://elpais.com/espana/2025-05-12/fuego-bombas-y-esvasticas-el-retrato-del-miedo-de-los-ninos-perseguidos-por-la-guerra.html",
+        "date": "2025-05-12 03:30:01",
+        "sentiment_score": -0.3792904168367386
+    },
+    {
+        "title": "La industria militar española se prepara para digerir una lluvia de millones tras años de sequía",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E44XLMDBH2JOVZHB7HEOCOXJSA.jpg?auth=37bff5d9593f4afb13b6299265c73b17518ac2f50fc3bc9dbb35df52113b26b0&width=1200",
+        "tags": [
+            "ferias",
+            "españa",
+            "santa bàrbara",
+            "ministerio de defensa",
+            "exportaciones",
+            "indra",
+            "defensa",
+            "gasto militar",
+            "industria armamentística"
+        ],
+        "link": "https://elpais.com/espana/2025-05-12/la-industria-militar-espanola-se-prepara-para-digerir-una-lluvia-de-millones-tras-anos-de-sequia.html",
+        "date": "2025-05-12 03:30:01",
+        "sentiment_score": 0.6218357793986797
+    },
+    {
+        "title": "La crónica | Los partidos marcan en la calle su abismal distancia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4A2BEHOSGSHJSTOQ2PXWMMUMWM.jpg?auth=88a200ff987274519644432b45e13bf7b6ccfb37921bfde032ce4b6997570f34&width=1200",
+        "tags": [
+            "españa",
+            "manifestaciones",
+            "europa",
+            "vox",
+            "psoe",
+            "israel",
+            "sumar",
+            "gobierno",
+            "protestas sociales",
+            "política",
+            "podemos",
+            "palestina",
+            "partidos políticos",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2025-05-12/la-cronica-los-partidos-marcan-en-la-calle-su-abismal-distancia.html",
+        "date": "2025-05-12 03:30:01",
+        "sentiment_score": -0.7278370559215546
+    },
+    {
+        "title": "Omar Mascarell se quita una gran espina como futbolista del RCD Mallorca",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/05/12/682194551e4cf.jpeg",
+        "tags": [
+            "deportes mallorca"
+        ],
+        "link": "https://www.cope.es/emisoras/illes-balears/baleares/mallorca/deportes-mallorca/noticias/omar-mascarell-quita-gran-espina-futbolista-rcd-mallorca-20250512_3148170.html",
+        "date": "2025-05-12 06:32:54",
+        "sentiment_score": -0.03175133466720581
+    },
+    {
+        "title": "Agenda Informativa de Europa Press para este lunes 12 de mayo (1)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/12/agenda-informativa-de-europa-press-para-este-lunes-12-de-mayo-1/",
+        "date": "2025-05-12 06:31:14",
+        "sentiment_score": 0.030710309743881226
+    },
+    {
+        "title": "Día de la Familia sobre Ruedas: recorridos para bicis y patines",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/05/09/IMG_5738-k6PD-U2301719378084PG-1200x840@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/eventos/dia-familia-sobre-ruedas-recorridos-bicis-patines-20250512081943-nt.html",
+        "date": "2025-05-12 06:19:43",
+        "sentiment_score": 0.04596003331243992
+    },
+    {
+        "title": "Dónde está la pradera de San Isidro y por qué se celebran las fiestas en este lugar",
+        "image_url": "https://okdiario.com/img/2022/05/09/donde-esta-la-pradera-de-san-isidro-y-por-que-se-celebran-las-fiestas-en-este-lugar.jpg",
+        "tags": [
+            "feria de san isidro",
+            "madrid",
+            "españa"
+        ],
+        "link": "https://okdiario.com/madrid/donde-esta-pradera-san-isidro-que-celebran-fiestas-este-lugar-9038736",
+        "date": "2025-05-12 06:15:25",
+        "sentiment_score": 0.404673233628273
+    },
+    {
+        "title": "07:00H | 12 MAY 2025 | Herrera en COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/horas-completas/07-00h-12-may-2025-herrera-cope-20250512_3148144.html",
+        "date": "2025-05-12 06:07:00",
+        "sentiment_score": 0.5792553052306175
+    },
+    {
+        "title": "La vehemente reacción de Jagoba Arrasate que muestra su tensión en los partidos del RCD Mallorca",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/05/12/68218fd725818.jpeg",
+        "tags": [
+            "deportes mallorca"
+        ],
+        "link": "https://www.cope.es/emisoras/illes-balears/baleares/mallorca/deportes-mallorca/noticias/vehemente-reaccion-jagoba-arrasate-muestra-tension-partidos-rcd-mallorca-20250512_3148142.html",
+        "date": "2025-05-12 06:06:54",
+        "sentiment_score": -0.059768348932266235
+    },
+    {
+        "title": "El motivo por el que este martes no se emite 'La Revuelta'",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/05/12/la-revuelta-kDBD-U2301740856793lLI-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/gente-estilo/motivo-martes-emite-revuelta-20250512074654-nt.html",
+        "date": "2025-05-12 05:46:55",
+        "sentiment_score": -0.885173381306231
+    },
+    {
+        "title": "¿Un tsunami en España este siglo? Habla un experto: «Es muy probable, falta saber su magnitud»",
+        "image_url": "https://okdiario.com/img/2025/05/11/europapress_4197513_cartel_aviso_tsunami_playa_lima_peru-1.jpg",
+        "tags": [
+            "andalucía",
+            "españa",
+            "entrevistas",
+            "expertos",
+            "tsunami"
+        ],
+        "link": "https://okdiario.com/andalucia/tsunami-espana-este-siglo-habla-experto-si-muy-probable-falta-saber-magnitud-14722629",
+        "date": "2025-05-12 05:40:00",
+        "sentiment_score": -0.612354576587677
+    },
+    {
+        "title": "Albert Serra | “El cine gallego tiene más audacia que el que proviene de Madrid”",
+        "image_url": "https://www.elidealgallego.com/images/showid/7342282",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elidealgallego.com/articulo/a-coruna/albert-serra-cine-gallego-tiene-audacia-proviene-madrid-5285989",
+        "date": "2025-05-12 05:30:52",
+        "sentiment_score": 0.24072381108999252
+    },
+    {
+        "title": "¿Tomas paracetamol tras el parto? Este nuevo disco de lactancia te dice si tu leche es segura",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250512072748_120.jpg",
+        "tags": [
+            "mujer",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/mujer/noticia-tomas-paracetamol-parto-nuevo-disco-lactancia-te-dice-si-leche-segura-20250512072748.html",
+        "date": "2025-05-12 05:27:48",
+        "sentiment_score": 0.27092187479138374
+    },
+    {
+        "title": "Muere una niña de 8 años tras caer por el patio interior de un edificio en Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/641d60fe-858c-4404-a78a-254d9c9ac777_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreogallego.es/sucesos/2025/05/12/muere-nina-8-anos-caer-117286471.html",
+        "date": "2025-05-12 06:35:58",
+        "sentiment_score": -0.8819351522251964
+    },
+    {
+        "title": "LaLiga: comparten audios del VAR de las polémicas jugadas del Barcelona-Real Madrid",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747005826285.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/laliga-comparten-audios-del-var-de-las-polemicas-jugadas-del-barcelona-real-madrid-202551123460",
+        "date": "2025-05-12 03:46:00",
+        "sentiment_score": 0.12227809429168701
+    },
+    {
+        "title": "Despensas de alimentos gratuitas en Texas sin requerimiento condicional: estas son las ubicaciones y fechas disponibles",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746991647363.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/despensas-de-alimentos-gratuitas-en-texas-sin-requerimiento-condicional-estas-son-las-ubicaciones-y-fechas-disponibles-202551123200",
+        "date": "2025-05-12 03:20:00",
+        "sentiment_score": -0.018778737634420395
+    },
+    {
+        "title": "Suspenden vuelos en Newark: nueva falla técnica agrava crisis aérea en aeropuerto de Nueva Jersey",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746992320402.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/suspenden-vuelos-en-newark-nueva-falla-tecnica-agrava-crisis-aerea-en-aeropuerto-de-nueva-jersey-20255112300",
+        "date": "2025-05-12 03:00:00",
+        "sentiment_score": -0.6594181917607784
+    },
+    {
+        "title": "Esta es la ciudad de Florida donde se registra una baja en los precios de los inmoboliarios: cuánto cuesta vivir allí",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746988527048.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/esta-es-la-ciudad-de-florida-donde-se-registra-una-baja-en-los-precios-de-los-inmoboliarios-cuanto-cuesta-vivir-alli-202551122300",
+        "date": "2025-05-12 02:30:00",
+        "sentiment_score": -0.6544596254825592
+    },
+    {
+        "title": "Papa León XIV vio Cónclave antes de asumir pontificado: revela su hermano",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747016880405.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/papa-leon-xiv-vio-conclave-antes-de-asumir-pontificado-revela-su-hermano-202551122260",
+        "date": "2025-05-12 02:26:00",
+        "sentiment_score": -0.06186401844024658
     }
 ];
