@@ -6100,5 +6100,438 @@ export default [
         "link": "https://2001online.com/usa/servicios/descubra-donde-conseguir-servicios-medicos-gratuitos-para-inmigrantes-en-california-atienden-a-indocumentados-20255111100",
         "date": "2025-05-11 15:00:00",
         "sentiment_score": 0.3186103366315365
+    },
+    {
+        "title": "Cervera: \"El descenso es un paso atrás pero vamos a volver; hay que resetear muchas cosas\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/cervera-el-descenso-es-un-paso-atras-pero-vamos-a-volver-hay-que-resetear-muchas-cosas/",
+        "date": "2025-05-11 22:17:06",
+        "sentiment_score": -0.03183116018772125
+    },
+    {
+        "title": "Carlos Cantero: Se me ha vuelto a poner la piel de gallina en el pabellón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/carlos-cantero-se-me-ha-vuelto-a-poner-la-piel-de-gallina-en-el-pabellon/",
+        "date": "2025-05-11 22:16:50",
+        "sentiment_score": -0.74634850025177
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 12 de mayo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/hoy-sera-noticia-lunes-12-de-mayo/",
+        "date": "2025-05-11 22:16:28",
+        "sentiment_score": 0.038469381630420685
+    },
+    {
+        "title": "Rubén Burgos: Ha sido un partidazo. Estamos muy contentas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/ruben-burgos-ha-sido-un-partidazo-estamos-muy-contentas/",
+        "date": "2025-05-11 21:46:32",
+        "sentiment_score": 0.9170794486999512
+    },
+    {
+        "title": "Vicente Moreno: \"No siempre logras lo que mereces\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/vicente-moreno-no-siempre-logras-lo-que-mereces/",
+        "date": "2025-05-11 21:46:16",
+        "sentiment_score": -0.029562830924987793
+    },
+    {
+        "title": "63-71. El Valencia Basket cierra por la vía rápida en Zaragoza su tercera liga consecutiva",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/63-71-el-valencia-basket-cierra-por-la-via-rapida-en-zaragoza-su-tercera-liga-consecutiva/",
+        "date": "2025-05-11 21:32:07",
+        "sentiment_score": 0.5929863564670086
+    },
+    {
+        "title": "El Valencia acompaña al Girona en la Euroliga y el Zaragoza queda pendiente de la previa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/el-valencia-acompana-al-girona-en-la-euroliga-y-el-zaragoza-queda-pendiente-de-la-previa/",
+        "date": "2025-05-11 21:31:50",
+        "sentiment_score": -0.09186472371220589
+    },
+    {
+        "title": "El Valencia avanza en su 'dinastía' con su tercera Liga seguida",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/el-valencia-avanza-en-su-dinastia-con-su-tercera-liga-seguida/",
+        "date": "2025-05-11 21:31:33",
+        "sentiment_score": 0.8263870570808649
+    },
+    {
+        "title": "Isco: \"Se han escapado dos puntos muy importantes\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/isco-se-han-escapado-dos-puntos-muy-importantes/",
+        "date": "2025-05-11 21:31:17",
+        "sentiment_score": -0.7070297654718161
+    },
+    {
+        "title": "0-0. Tenerife y Ferrol empatan en un tedioso y soporífero encuentro",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/0-0-tenerife-y-ferrol-empatan-en-un-tedioso-y-soporifero-encuentro/",
+        "date": "2025-05-11 21:17:31",
+        "sentiment_score": 0.49917496740818024
+    },
+    {
+        "title": "Consulta injustificada",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/05/11/pedrosanchezcarloscuerpoefe-RzM2n7rj8rtjdVhtlFQIH6O-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/jose-ramon-iturriaga-consulta-injustificada-20250511210034-nt.html",
+        "date": "2025-05-11 19:01:34",
+        "sentiment_score": -0.11532142758369446
+    },
+    {
+        "title": "Le Pen apoya a Putin frente a Macron y los aliados europeos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/05/11/lepen-putin-RGYM3OAEwDb7BYWPOzE3h7L-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pen-apoya-putin-frente-macron-aliados-europeos-20250511203842-nt.html",
+        "date": "2025-05-11 18:39:42",
+        "sentiment_score": -0.08596789836883545
+    },
+    {
+        "title": "«Mira, es el Papa»",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/05/06/sonda-Espacial-U64286512238FSW-170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-mira-papa-20250512194106-nt.html",
+        "date": "2025-05-11 17:41:14",
+        "sentiment_score": -0.021732062101364136
+    },
+    {
+        "title": "La vaticanista",
+        "image_url": "https://s3.ppllstatics.com/diariosur/www/multimedia/2025/05/08/discapacidad-trabajador-U11014081000UaQ-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jesus-nieto-jurado-vaticanista-20250512192217-nt.html",
+        "date": "2025-05-11 17:22:25",
+        "sentiment_score": 0.04534408450126648
+    },
+    {
+        "title": "Bancos... ¿patriotas?",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/05/06/sonda-Espacial-U64286512238FSW-170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/luis-del-val-bancos-patriotas-20250512192152-nt.html",
+        "date": "2025-05-11 17:22:14",
+        "sentiment_score": -0.12496627867221832
+    },
+    {
+        "title": "Primeras impresiones leoninas",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/05/08/manola-k99F--170x119@Leonoticias.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-primeras-impresiones-leoninas-20250512192139-nt.html",
+        "date": "2025-05-11 17:22:06",
+        "sentiment_score": -0.021096616983413696
+    },
+    {
+        "title": "El sucesor de Pedro",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/05/07/broncano-sevillanos-k8gD--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-sucesor-pedro-20250512192126-nt.html",
+        "date": "2025-05-11 17:21:56",
+        "sentiment_score": -0.1523125171661377
+    },
+    {
+        "title": "Una respuesta liberal a la IA",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/05/12/ENFOQUEABC_RespuestaliberalalaIA_Sorman-RvOaXFW2JwDMoKqDNTKUZrM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/guy-sorman-respuesta-liberal-ia-20250512192114-nt.html",
+        "date": "2025-05-11 17:21:49",
+        "sentiment_score": -0.13796287775039673
+    },
+    {
+        "title": "En Roma no hay vuelta atrás",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/05/12/ABCTERCERA_LEONXIV_SERRANO-RvUjn0QAwYC5EvKzuXBhjuJ-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-francisco-serrano-oceja-roma-vuelta-atras-20250512192043-nt.html",
+        "date": "2025-05-11 17:21:16",
+        "sentiment_score": -0.028371810913085938
+    },
+    {
+        "title": "BBVA-Banco Sabadell, opa y populismo",
+        "image_url": "https://s1.ppllstatics.com/salamancahoy/www/multimedia/2025/05/06/1746530591736-kJJB--170x119@SalamancaHoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/cecilio-madero-bbvabanco-sabadell-opa-populismo-20250512162559-nt.html",
+        "date": "2025-05-11 17:21:01",
+        "sentiment_score": -0.07160711288452148
+    },
+    {
+        "title": "Herido grave un niño de seis años por un atropello en Usera",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/M57KYHHA7WVPGETBTHXTLHYQYQ.jpg?auth=4d40b74eaf9c3955815881f032ead1f2d8940e554e8a98d282c4ad790515db0c&width=1200",
+        "tags": [
+            "accidentes tráfico",
+            "comunidad de madrid",
+            "tráfico",
+            "madrid",
+            "accidentes",
+            "sam"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-05-11/herido-grave-un-nino-de-seis-anos-por-un-atropello-en-usera.html",
+        "date": "2025-05-11 19:39:27",
+        "sentiment_score": -0.1867402046918869
+    },
+    {
+        "title": "Nuevos retrasos en la estación de trenes de Sevilla por incidencias en la línea Madrid-Andalucía",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BO7C2KOMNIW5YUEJGVQ6TYTNXQ.jpg?auth=8aa1a57db39d538dc6f382664c2425a2660db164618af56b47d74b57d2755ec6&width=1200",
+        "tags": [
+            "adif",
+            "óscar puente santiago",
+            "sevilla",
+            "retrasos transporte",
+            "andalucía",
+            "ministerio de transportes",
+            "españa",
+            "renfe"
+        ],
+        "link": "https://elpais.com/espana/2025-05-11/nuevos-retrasos-en-la-estacion-de-trenes-de-sevilla-por-incidencias-en-la-linea-madrid-andalucia.html",
+        "date": "2025-05-11 18:28:22",
+        "sentiment_score": -0.8109526913613081
+    },
+    {
+        "title": "La polémica por el \"menos mal\" que se escucha en la conversación del VAR en el gol anulado a Fermín",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/05/12/68211fd6319e7.r_d.690-491-3018.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/polemica-mal-escucha-conversacion-var-gol-anulado-fermin-20250512_3148085.html",
+        "date": "2025-05-11 22:15:38",
+        "sentiment_score": -0.06561392545700073
+    },
+    {
+        "title": "Un jugador del Madrid fue blanco de insultos en redes tras su error en el Clásico",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/26/2025042617385080524.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/futbolista-madrid-fue-blanco-odio-miles-usuarios-redes-fallo-clasico/20250512001531343622.html",
+        "date": "2025-05-11 22:15:31",
+        "sentiment_score": -0.4299064725637436
+    },
+    {
+        "title": "Muere Alfonso de Borbón, primo de don Juan Carlos",
+        "image_url": "https://static.grupojoly.com/clip/e4dbfa62-f98a-4856-9392-d4b85bdd038d_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodecadiz.es/gente/muere-alfonso-borbon-primo-don_0_2003916812.html",
+        "date": "2025-05-11 22:12:26",
+        "sentiment_score": -0.9054385125637054
+    },
+    {
+        "title": "¡Siguiendo los pasos de su padre! Cristiano Ronaldo Jr convocado con Portugal",
+        "image_url": "https://pxcdn.meridiano.net/052025/1747001431007.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/siguiendo-los-pasos-de-su-padre-cristiano-ronaldo-jr-convocado-con-portugal-202551118100",
+        "date": "2025-05-11 22:10:00",
+        "sentiment_score": 0.7315093781799078
+    },
+    {
+        "title": "Lamine Yamal con 17 años va camino a igualar este logro de Cristiano Ronaldo (+Video)",
+        "image_url": "https://pxcdn.meridiano.net/052025/1747001163899.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/lamine-yamal-con-17-anos-va-camino-a-igualar-este-logro-de-cristiano-ronaldo-video--20255111860",
+        "date": "2025-05-11 22:06:00",
+        "sentiment_score": -0.45671068131923676
+    },
+    {
+        "title": "Radiografía de la música en directo: los datos que explican por qué las entradas son más caras que nunca",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/05/12/fotolead-1200.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/radiografia-musica-directo-datos-explican-entradas-caras-20250512000355-ntrc.html",
+        "date": "2025-05-11 22:03:57",
+        "sentiment_score": 0.6508880853652954
+    },
+    {
+        "title": "Cataluña, sin banca ni banquillo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/25/pensamiento/zona-franca/880921944_13378501_1706x960.png?contentId=880921944",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20250511/cataluna-sin-banca-ni-banquillo/1003742656633_13.html",
+        "date": "2025-05-11 22:00:00",
+        "sentiment_score": -0.8380522122606635
+    },
+    {
+        "title": "El Racing no puede con el Oviedo en busca del ascenso directo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250511235815_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-racing-no-puede-oviedo-busca-ascenso-directo-20250511235815.html",
+        "date": "2025-05-11 21:58:15",
+        "sentiment_score": 0.7180454023182392
+    },
+    {
+        "title": "«Madrid pasó de 30 bibliotecas y centros culturales a 125 hoy día»",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/05/10/pruja-kZu-U2301719300922LCC-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/granada/madrid-paso-bibliotecas-centros-culturales-125-hoy-20250512000838-nt.html",
+        "date": "2025-05-11 22:08:38",
+        "sentiment_score": 0.38065069913864136
+    },
+    {
+        "title": "Cataluña deja atrás el 'procés' pero el Govern de Illa sigue en precario",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/05/12/WhatsApp%20Image%202025-05-11%20at%2014.40.36-Rj3wHXxt5Y7UCZu2SPnqTRM-1200x840@RC.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.hoy.es/nacional/cataluna-deja-atras-proces-govern-illa-sigue-20250512000429-ntrc.html",
+        "date": "2025-05-11 22:04:31",
+        "sentiment_score": -0.8475230112671852
+    },
+    {
+        "title": "CBP decomisa miles de productos falsificados en Nueva York: el valor estimado de la mercancía supera los $198.100",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747001610482.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/sucesos/cbp-decomisa-miles-de-productos-falsificados-en-nueva-york-el-valor-estimado-de-la-mercancia-supera-los-198-100-20255111870",
+        "date": "2025-05-11 22:07:00",
+        "sentiment_score": -0.7386421542614698
+    },
+    {
+        "title": "Inspeccionan avance de construcción de CDI en Fuerte Tiuna: tendrá consultorios de cardiología y ginecología",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747002098766.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/inspeccionan-avance-de-construccion-de-cdi-en-fuerte-tiuna-tendra-consultorios-de-cardiologia-y-ginecologia-20255111870",
+        "date": "2025-05-11 22:07:00",
+        "sentiment_score": 0.15981988236308098
+    },
+    {
+        "title": "El Clásico: David Sánchez afirma que el árbitro fue el mejor jugador de Ancelotti",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746999708247.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/el-clasico-david-sanchez-afirma-que-el-arbitro-fue-el-mejor-jugador-de-ancelotti-202551118170",
+        "date": "2025-05-11 21:23:36",
+        "sentiment_score": -0.06421893835067749
+    },
+    {
+        "title": "Cristiano Ronaldo: así celebró el Día de las Madres con su progenitora y Georgina Rodríguez",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747000894271.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/cristiano-ronaldo-asi-celebro-el-dia-de-las-madres-con-su-progenitora-y-georgina-rodriguez-20255111820",
+        "date": "2025-05-11 21:09:59",
+        "sentiment_score": 0.204655259847641
+    },
+    {
+        "title": "Reembolsos del IRS: este es el calendario de pagos entre el 12 y 18 de mayo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746997709577.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/reembolsos-del-irs-este-es-el-calendario-de-pagos-entre-el-12-y-18-de-mayo--20255111780",
+        "date": "2025-05-11 21:08:00",
+        "sentiment_score": 0.3692022506147623
+    },
+    {
+        "title": "Tres pescadores desaparecidos en altamar: activan búsqueda en litoral aragüeño tras retraso de embarcación",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746991477608.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/tres-pescadores-desaparecidos-en-altamar-activan-busqueda-en-litoral-aragueno-tras-retraso-de-embarcacion-20255111700",
+        "date": "2025-05-11 21:00:00",
+        "sentiment_score": 0.5279713813215494
+    },
+    {
+        "title": "Saren: tome nota de los requisitos para realizar un traspaso de vivienda",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746998051046.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/saren-tome-nota-de-los-requisitos-para-realizar-un-traspaso-de-vivienda-202551116260",
+        "date": "2025-05-11 20:26:00",
+        "sentiment_score": 0.2245282493531704
+    },
+    {
+        "title": "Maduro respalda iniciativa de Rusia para negociar tregua con Ucrania: Los pueblos del mundo tienen derecho a la paz",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746996711190.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-respalda-iniciativa-de-rusia-para-negociar-tregua-con-ucrania-los-pueblos-del-mundo-tienen-derecho-a-la-paz-202551116220",
+        "date": "2025-05-11 20:22:00",
+        "sentiment_score": 0.3480425700545311
+    },
+    {
+        "title": "Donald Trump expresa su “frustración” con jueces que obstaculizan su política de deportación",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746994641405.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/donald-trump-expresa-su-frustracion-con-jueces-que-obstaculizan-su-politica-de-deportacion-202551116200",
+        "date": "2025-05-11 20:20:00",
+        "sentiment_score": 0.5394937247037888
+    },
+    {
+        "title": "China confirma que negociaciones arancelarias con Estados Unidos: Fueron profundas y constructivas",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746993709472.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/china-confirma-que-negociaciones-arancelarias-con-estados-unidos-fueron-profundas-y-constructivas--20255111670",
+        "date": "2025-05-11 20:07:00",
+        "sentiment_score": 0.09898365288972855
     }
 ];
