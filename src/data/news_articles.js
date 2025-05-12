@@ -6533,5 +6533,378 @@ export default [
         "link": "https://2001online.com/internacionales/china-confirma-que-negociaciones-arancelarias-con-estados-unidos-fueron-profundas-y-constructivas--20255111670",
         "date": "2025-05-11 20:07:00",
         "sentiment_score": 0.09898365288972855
+    },
+    {
+        "title": "Feria del Libro de Bogotá cierra con unos 600.000 visitantes y España como protagonista",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/12/feria-del-libro-de-bogota-cierra-con-unos-600000-visitantes-y-espana-como-protagonista/",
+        "date": "2025-05-12 02:15:18",
+        "sentiment_score": 0.3686527833342552
+    },
+    {
+        "title": "España: las predicciones del tiempo en Madrid este 12 de mayo",
+        "image_url": "https://www.infobae.com/resizer/v2/ABZUP3TUP5GYFGQANACFJDLJM4.jpg?auth=ed62a5610affd72d2141ebc14d806287dc1f0cec1f9d96efb62459972d866ce7&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/12/espana-las-predicciones-del-tiempo-en-madrid-este-12-de-mayo/",
+        "date": "2025-05-12 01:32:44",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Lo más visto esta semana de Prime Video en España",
+        "image_url": "https://www.infobae.com/resizer/v2/XNTEDVJOGVGMNI2ZYALG5SEEGU.jpg?auth=6b97418e48ab3cbc5e09f1bd1ad27a6d7147a81f756843cb2c2449b067546b72&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/05/12/lo-mas-visto-esta-semana-de-prime-video-en-espana/",
+        "date": "2025-05-12 01:31:14",
+        "sentiment_score": 0.2861696816980839
+    },
+    {
+        "title": "En esta posición quedaron Fernando Alonso y Carlos Sainz en el campeonato mundial de pilotos de la Fórmula 1",
+        "image_url": "https://www.infobae.com/resizer/v2/7IYCX6OG4BDNJH5DIIWOPY4S4Y.png?auth=2422ee6f29ed5a117bc6684e1b1a4a7ca8fa6bb3be1ab8801d90aa30cb050747&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/05/11/en-esta-posicion-quedaron-fernando-alonso-y-carlos-sainz-en-el-campeonato-mundial-de-pilotos-de-la-formula-1/",
+        "date": "2025-05-11 23:45:53",
+        "sentiment_score": 0.1928488127887249
+    },
+    {
+        "title": "Muere un camionero tras volcar en la A-4 a la altura de Herencia (Ciudad Real)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/muere-un-camionero-tras-volcar-en-la-a-4-a-la-altura-de-herencia-ciudad-real/",
+        "date": "2025-05-11 23:45:25",
+        "sentiment_score": -0.7710928320884705
+    },
+    {
+        "title": "Cuatro personas trasladadas al centro de salud tras salirse de la AP-15 en Pueyo (Navarra)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/11/cuatro-personas-trasladadas-al-centro-de-salud-tras-salirse-de-la-ap-15-en-pueyo-navarra/",
+        "date": "2025-05-11 23:31:04",
+        "sentiment_score": -0.44172655045986176
+    },
+    {
+        "title": "Los artistas que dominan el ranking de K-pop en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/QO6NLRPVFBFPZCMTUGTOGE3SQY.jpg?auth=b9955758918f81301b5d974a8ecd9b4d02d474d407a63fae6c3e6437e6510602&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/11/los-artistas-que-dominan-el-ranking-de-k-pop-en-itunes-espana/",
+        "date": "2025-05-11 23:15:23",
+        "sentiment_score": 0.03554946184158325
+    },
+    {
+        "title": "Cinco pescadores que sobrevivieron 55 días a la deriva bebiendo agua de lluvia y cocinando pescado llegan a Galápagos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "sobrevivientes",
+            "pescadores",
+            "galápagos",
+            "deriva",
+            "actualidad",
+            "55 días"
+        ],
+        "link": "https://www.meneame.net/story/cinco-pescadores-sobrevivieron-55-dias-deriva-bebiendo-agua",
+        "date": "2025-05-12 01:35:02",
+        "sentiment_score": -0.2906523495912552
+    },
+    {
+        "title": "Acoso a un juez o desafío institucional",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/05/07/ibuprofeno-paracetamol-krwF--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-acoso-juez-desafio-institucional-20250512040436-nt.html",
+        "date": "2025-05-12 02:04:40",
+        "sentiment_score": -0.25134243071079254
+    },
+    {
+        "title": "Europa en juego: el calendario del Mallorca y sus rivales en la recta final de la Liga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/05/12/2384823/real-mallorca-calendario-posobilidades-tres-partidos-para-sonar-europa.html",
+        "date": "2025-05-12 02:00:01",
+        "sentiment_score": -0.08552801609039307
+    },
+    {
+        "title": "¿Lamine Yamal superior a Cristiano Ronaldo y Messi? Los números lo confirman",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/05/AP25131543237826-e1747013271131.jpg",
+        "tags": [
+            "fútbol",
+            "cristiano ronaldo",
+            "fc barcelona",
+            "lamine yamal",
+            "messi",
+            "deportes"
+        ],
+        "link": "https://eldiariony.com/2025/05/11/lamine-yamal-superior-a-cristiano-ronaldo-y-messi-los-numeros-lo-confirman/",
+        "date": "2025-05-12 01:52:00",
+        "sentiment_score": -0.5492571070790291
+    },
+    {
+        "title": "Reino Unido aumentará de cinco a diez años el tiempo de residencia necesario para solicitar la nacionalidad",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250512034721_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-reino-unido-aumentara-cinco-diez-anos-tiempo-residencia-necesario-solicitar-nacionalidad-20250512034721.html",
+        "date": "2025-05-12 01:47:21",
+        "sentiment_score": 0.33844517916440964
+    },
+    {
+        "title": "Polémica por el Valle de los Caídos: Estos son los proyectos que hay en los despachos",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/valle-5_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/polemica-por-valle-los-caidos-estos-son-proyectos-hay-despachos",
+        "date": "2025-05-12 01:45:00",
+        "sentiment_score": -0.30042508617043495
+    },
+    {
+        "title": "Deportes | El Alcoyano se agarra con uñas y dientes a la Primera Federación",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1585388.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-alcoyano-se-agarra-con-unas-y-dientes-a-la-permanencia",
+        "date": "2025-05-12 01:00:22",
+        "sentiment_score": -0.1028425544500351
+    },
+    {
+        "title": "Víctor Muñoz desactiva los comentarios en RRSS por los insultos tras su ocasión fallada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eltiempove.com/victor-munoz-desactiva-los-comentarios-en-rrss-por-los-insultos-tras-su-ocasion-fallada/",
+        "date": "2025-05-12 00:56:58",
+        "sentiment_score": -0.6365522369742393
+    },
+    {
+        "title": "El Barça vuelve a ganar el clásico y sentencia la Liga",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://eltiempove.com/el-barca-vuelve-a-ganar-el-clasico-y-sentencia-la-liga/",
+        "date": "2025-05-12 00:46:56",
+        "sentiment_score": 0.7511758543550968
+    },
+    {
+        "title": "Marruecos se alía con las tres dictaduras del Sahel alineadas con Putin para abrir una nueva salida al mar cerca de Canarias",
+        "image_url": "https://s1.elespanol.com/2025/05/11/actualidad/1003743752639_255494814_1706x960.jpg?contentId=1003743752639",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/africa/20250512/marruecos-alia-dictaduras-sahel-alineadas-putin-abrir-nueva-salida-mar-cerca-canarias/1003743743120_0.html",
+        "date": "2025-05-12 00:39:22",
+        "sentiment_score": -0.4539569020271301
+    },
+    {
+        "title": "Las 100 mejores ideas de 2025: estas son las ganadoras",
+        "image_url": "https://phantom-elmundo.uecdn.es/2a6957aebdf3920f446823bab8dbd8f8/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/08/17467046657106.jpg",
+        "tags": [
+            "innovación",
+            "actualidad económica premios"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/05/12/681b80e3fdddffcd598b4592.html",
+        "date": "2025-05-12 00:36:32",
+        "sentiment_score": 0.6261475868523121
+    },
+    {
+        "title": "Álvaro Benito critica la actuación de una estrella del Clásico: \"es una vergüenza\"",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/12/2025051202320312669.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/alvaro-benito-critica-actuacion-estrella-clasico-es-verguenza/20250512023453343638.html",
+        "date": "2025-05-12 00:34:53",
+        "sentiment_score": -0.9014248577877879
+    },
+    {
+        "title": "¿Por qué el suelo de la vivienda es como el cacao o el café? En tiempos de inflación... se dispara",
+        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2025/04/galletas-jengibre-forma-vivienda-4314952.jpg?tf=1200x",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.businessinsider.es/economia/suelo-vivienda-como-cacao-cafe-tiempos-inflacion-dispara-1453565",
+        "date": "2025-05-12 02:15:02",
+        "sentiment_score": -0.2930586636066437
+    },
+    {
+        "title": "Esta podría ser la alternativa del Sabadell frente a la opa del BBVA: una operación que sería de gran calado para Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1494c0f0-5df3-4392-b62e-70e1d89f3b88_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2025/05/12/alternativa-sabadell-frente-opa-bbva-117282233.html",
+        "date": "2025-05-12 02:10:00",
+        "sentiment_score": -0.4544318839907646
+    },
+    {
+        "title": "Ya a la venta las entradas para el Andorra – Inglaterra en el RCDE Stadium: 200 localidades reservadas para socios del Espanyol con un 75% de descuento",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/04/andorra-inglaterra-750x422.jpg",
+        "tags": [
+            "primer equipo y club"
+        ],
+        "link": "https://www.lagradaonline.com/andorra-inglaterra-entradas-rcde-stadium-descuento-socios-espanyol/",
+        "date": "2025-05-12 02:00:39",
+        "sentiment_score": 0.2840220145881176
+    },
+    {
+        "title": "Marina Collado ahonda en las contradicciones de vivir del turismo en su nueva obra",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3296863.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/05/12/2382763/marina-collado-ahonda-contradicciones-vivir-del-turismo-nueva-obra.html",
+        "date": "2025-05-12 02:00:01",
+        "sentiment_score": -0.6076402738690376
+    },
+    {
+        "title": "Barcelona empata con gol de Felipe Caicedo y conserva el liderato en Ecuador",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/12/barcelona-empata-con-gol-de-felipe-caicedo-y-conserva-el-liderato-en-ecuador/",
+        "date": "2025-05-12 01:30:17",
+        "sentiment_score": 0.6585928313434124
+    },
+    {
+        "title": "Cataluña deja atrás el 'procés' pero el Govern de Illa sigue en precario",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/05/11/6820c5cd222a1.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/250512/2047388/cataluna-deja-atras-proces-govern-illa-sigue-precario.html",
+        "date": "2025-05-12 01:30:00",
+        "sentiment_score": -0.8514776825904846
+    },
+    {
+        "title": "Dime con quién te retratas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/dime-retratas_0_2003916928.html",
+        "date": "2025-05-12 01:10:14",
+        "sentiment_score": -0.047840557992458344
+    },
+    {
+        "title": "Shakira invita a Lele Pons a unirse a su gira “Las mujeres ya no lloran”: La primera embarazada caminando con la Loba",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747016391503.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/shakira-invita-a-lele-pons-a-unirse-a-su-gira-las-mujeres-ya-no-lloran-la-primera-embarazada-caminando-con-la-loba-202551122120",
+        "date": "2025-05-12 02:12:00",
+        "sentiment_score": 0.1258049663156271
+    },
+    {
+        "title": "El dólar Morgan de 1895: la moneda que puede valer hasta $269.500",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747015705971.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-dolar-morgan-de-1895-la-moneda-que-puede-valer-hasta-269-500-20255112250",
+        "date": "2025-05-12 02:05:00",
+        "sentiment_score": 0.022705763578414917
+    },
+    {
+        "title": "Predicciones de la semana del 12 al 18 de mayo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-12-al-18-de-mayo--20255112200",
+        "date": "2025-05-12 02:00:00",
+        "sentiment_score": -0.09705708175897598
+    },
+    {
+        "title": "Melena rubia: dos ingredientes para decolorar tu cabello",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746815183916.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/melena-rubia-dos-ingredientes-para-decolorar-tu-cabello-202551121450",
+        "date": "2025-05-12 01:45:00",
+        "sentiment_score": 0.14708194136619568
+    },
+    {
+        "title": "Condados de Illinois reciben comida gratis durante este mes de mayo 2025: todo lo que necesitas saber aquí",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746985627146.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/condados-de-illinois-reciben-comida-gratis-durante-este-mes-de-mayo-2025-todo-lo-que-necesitas-saber-aqui-202551121450",
+        "date": "2025-05-12 01:45:00",
+        "sentiment_score": 0.6654713824391365
+    },
+    {
+        "title": "Funvisis: reportan sismo de magnitud 4.9 en Sucre este 11 de mayo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747015331850.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/funvisis-reportan-sismo-de-magnitud-4-9-en-sucre-este-11-de-mayo-202551121430",
+        "date": "2025-05-12 01:43:00",
+        "sentiment_score": -0.801891153678298
+    },
+    {
+        "title": "Exfoliante de azúcar y miel para las manos: así debes utilizarlo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747012908548.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/exfoliante-de-azucar-y-miel-para-las-manos-asi-debes-utilizarlo-202551121400",
+        "date": "2025-05-12 01:40:00",
+        "sentiment_score": 0.25413477420806885
+    },
+    {
+        "title": "Nuevo caos aéreo: suspenden vuelos en aeropuerto de Newark por fallas en equipos",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747013045382.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/nuevo-caos-aereo-suspenden-vuelos-en-aeropuerto-de-newark-por-fallas-en-equipos-202551121190",
+        "date": "2025-05-12 01:19:00",
+        "sentiment_score": -0.8371102921664715
+    },
+    {
+        "title": "Jornada de cedulación sin cita en Caracas: estos son los puntos de atención este lunes 12 de mayo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1746989270329.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/jornada-de-cedulacion-sin-cita-en-caracas-estos-son-los-puntos-de-atencion-este-lunes-12-de-mayo-20255112100",
+        "date": "2025-05-12 01:00:00",
+        "sentiment_score": 0.12903263419866562
+    },
+    {
+        "title": "Conoce el cronograma de distribución de gasolina subsidiada del 12 al 18 de mayo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747010750490.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conoce-el-cronograma-de-distribucion-de-gasolina-subsidiada-del-12-al-18-de-mayo-202551120340",
+        "date": "2025-05-12 00:34:00",
+        "sentiment_score": -0.7348810341209173
     }
 ];
