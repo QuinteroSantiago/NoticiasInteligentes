@@ -120,36 +120,6 @@ export default [
         "sentiment_score": -0.07453829050064087
     },
     {
-        "title": "Transformando estrategias empresariales",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/05/14/EncuentroIA20mayo-RGZRF36CulUUmfU4dQRwq7I-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/transformando-estrategias-empresariales-20250514155237-nt.html",
-        "date": "2025-05-14 13:52:38",
-        "sentiment_score": 0.09134858846664429
-    },
-    {
-        "title": "Trump acudirá a las negociaciones de paz en Turquía si también lo hace Putin",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/14/trump-arab-kzrC-U70975959488ZZH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trump-acudira-negociaciones-paz-turquia-putin-20250514155205-nt.html",
-        "date": "2025-05-14 13:52:30",
-        "sentiment_score": -0.1028701663017273
-    },
-    {
-        "title": "Brutal intento de secuestro a plena luz del día en el centro de París a la hija de un líder de criptomonedas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/14/secuestro-francia-kCKF-U70974895600IWH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/brutal-intento-secuestro-plena-luz-dia-centro-20250514135634-nt.html",
-        "date": "2025-05-14 11:56:35",
-        "sentiment_score": -0.16872479021549225
-    },
-    {
         "title": "Las cifras del futuro hospital Trueta: inversión de 700 millones y puesta en marcha en 2031",
         "image_url": "https://imagenes.elpais.com/resizer/v2/OPHTAVIBMNGRVJD3QRXB54FSPM.jpg?auth=9e0da5c2a04b1e81f77cda5ab05e6860f30600cd91b35a9b6bd57d7dd75ed273&width=1200",
         "tags": [
@@ -247,75 +217,6 @@ export default [
         "link": "https://elpais.com/espana/2025-05-14/abalos-admite-que-consintio-que-se-filtraran-parte-de-los-mensajes-con-sanchez.html",
         "date": "2025-05-14 14:17:54",
         "sentiment_score": -0.24091127142310143
-    },
-    {
-        "title": "El PP insta a las víctimas de la dana a que pidan comparecer en la comisión de la Cortes Valencianas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DZYRQ5PNGDUELUHRXAUOXQ6APE.jpg?auth=0c496521800b9cdf399fdf4b9838e68a1b866db2d8863c3a62b21a3be39cd4ea&width=1200",
-        "tags": [
-            "generalitat valenciana",
-            "carlos mazón",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-14/el-pp-insta-a-las-victimas-de-la-dana-a-que-pidan-comparecer-en-la-comision-de-la-cortes-valencianas.html",
-        "date": "2025-05-14 14:02:22",
-        "sentiment_score": -0.02601766586303711
-    },
-    {
-        "title": "Una explosión provoca un incendio en una nave de productos químicos en la localidad sevillana de Alcalá de Guadaíra",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OMGPLAIDP5DFTLSGCVLXVX3XVE.jpg?auth=0590cf936f0e7ac1839278d90e880cf467b6d4e28555bddcaeb836cb3b26ffe1&width=1200",
-        "tags": [
-            "accidentes",
-            "sucesos",
-            "españa",
-            "andalucía",
-            "sevilla",
-            "explosiones",
-            "química"
-        ],
-        "link": "https://elpais.com/espana/2025-05-14/una-explosion-provoca-un-incendio-en-una-nave-de-productos-quimicos-en-la-localidad-sevillana-de-alcala-de-guadaira.html",
-        "date": "2025-05-14 13:20:42",
-        "sentiment_score": 0.006624490022659302
-    },
-    {
-        "title": "La lgtbifobia aumenta de forma “alarmante” en España: una de cada cinco personas LGTBI+ ha sufrido acoso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JOYWJPERPZCFVP3EB3IXGW3HZQ.jpg?auth=dc9b319aea088a708c725ba04853562ba33ee0277f8369bed749c6251920de3c&width=1200",
-        "tags": [
-            "sociedad",
-            "transfobia",
-            "delitos odio",
-            "felgtb",
-            "homofobia",
-            "comunidad lgtbiq+",
-            "lesbofobia",
-            "lgtbifobia"
-        ],
-        "link": "https://elpais.com/sociedad/2025-05-14/la-lgtbifobia-aumenta-de-forma-alarmante-en-espana-una-de-cada-cinco-personas-lgtbi-ha-sufrido-acoso.html",
-        "date": "2025-05-14 13:13:56",
-        "sentiment_score": -0.16575248539447784
-    },
-    {
-        "title": "El delegado del Gobierno de Madrid explica al juez Peinado que no participó en la contratación de la asistente de Begoña Gómez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BW6MQVCY2K65FECEZBGZNZNRPE.jpg?auth=e3edef0fe7fa58a70b5606d2e4fce5608cb9e8ff2b4a6e267aefde865a021ffe&width=1200",
-        "tags": [
-            "juan carlos peinado",
-            "tribunales",
-            "españa",
-            "justicia",
-            "pedro sánchez",
-            "google",
-            "delitos",
-            "psoe",
-            "gobierno",
-            "rosauro varo baena",
-            "telefónica",
-            "investigación judicial",
-            "begoña gómez fernández"
-        ],
-        "link": "https://elpais.com/espana/2025-05-14/el-delegado-del-gobierno-de-madrid-explica-al-juez-peinado-que-no-participo-en-la-contratacion-de-la-asistente-de-begona-gomez.html",
-        "date": "2025-05-14 13:01:27",
-        "sentiment_score": -0.40631578117609024
     },
     {
         "title": "La millonaria cifra que pagaría un club de Italia por una de las joyas de la selección argentina",
@@ -7432,5 +7333,445 @@ export default [
         "link": "https://2001online.com/usa/servicios/cheque-de-estimulo-por-725-se-pueden-recibir-pagos-sin-afectar-otros-beneficios-en-california--20255171700",
         "date": "2025-05-17 21:00:00",
         "sentiment_score": -0.7325419560074806
+    },
+    {
+        "title": "Conoce el clima de este día en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/DU6LNISYFFHCNEILVLVVU7AMMU.jpg?auth=95f88ec76195a914a0bd054ebfd0e7bf0e05ecc46d637162575971297936defb&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/18/conoce-el-clima-de-este-dia-en-madrid/",
+        "date": "2025-05-18 01:30:41",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Estudiante colombiano en España calificó de aterrador el sistema de calificación de los exámenes: “Me despierta una serie de dudas”",
+        "image_url": "https://www.infobae.com/resizer/v2/JDHRY6MWQFGC5G3ADDWCYSVL6Q.jpg?auth=8fcc92fbba1a3c56964cffad6e918610b4aea1837e5e236a056d15b9dfc48471&height=1080&smart=true&width=2000",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/05/18/estudiante-colombiano-en-espana-califico-de-aterrador-el-sistema-de-calificacion-de-los-examenes-me-despierta-una-serie-de-dudas/",
+        "date": "2025-05-18 01:19:24",
+        "sentiment_score": 0.36219288781285286
+    },
+    {
+        "title": "Dos heridos de gravedad en un choque frontal entre dos turismos en Navalcarnero (Madrid)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/18/dos-heridos-de-gravedad-en-un-choque-frontal-entre-dos-turismos-en-navalcarnero-madrid/",
+        "date": "2025-05-18 01:15:36",
+        "sentiment_score": -0.8189422748982906
+    },
+    {
+        "title": "Lo mejor de YouTube España: lista de los videos del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/WFRZHHUQ2JFYHNFULTJU4TI3VE.jpg?auth=dd1524860d4ebc4301dd169167d890a3881a0bd3863190b0751ebb01104e3ee5&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/18/lo-mejor-de-youtube-espana-lista-de-los-videos-del-momento/",
+        "date": "2025-05-18 01:01:03",
+        "sentiment_score": 0.7510422933846712
+    },
+    {
+        "title": "Clima en Barcelona: la predicción para este 18 de mayo",
+        "image_url": "https://www.infobae.com/resizer/v2/TPI4ZCEKC5GGZDPIWYWCVAXXKE.jpg?auth=e7e0b1664538e7a515632fee74dd957d8814745f5d76e3ab270eb10bb0add23b&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/18/clima-en-barcelona-la-prediccion-para-este-18-de-mayo/",
+        "date": "2025-05-18 01:00:42",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Los mensajes políticos de Eurovisión: de las felicitaciones y ánimos a la polémica",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/18/los-mensajes-politicos-de-eurovision-de-las-felicitaciones-y-animos-a-la-polemica/",
+        "date": "2025-05-18 00:30:38",
+        "sentiment_score": 0.08556944131851196
+    },
+    {
+        "title": "Valencia corona a Estrella y Lukas como nuevos referentes de la danza urbana española",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/18/valencia-corona-a-estrella-y-lukas-como-nuevos-referentes-de-la-danza-urbana-espanola/",
+        "date": "2025-05-18 00:15:34",
+        "sentiment_score": 0.8043945394456387
+    },
+    {
+        "title": "André Carrillo y el problema de salud que le detectaron en España y no le permitió fichar por Atlético Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/PH7AJRQRBFG75OQPBJPX6VENKU.jpg?auth=371e524e6e07db5222aa8eef699ebcb5892c23efce6ded7b4c866702b3d43eb8&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/05/17/andre-carrillo-y-el-problema-de-salud-que-le-detectaron-en-espana-y-no-le-permitio-fichar-por-atletico-madrid/",
+        "date": "2025-05-17 23:33:23",
+        "sentiment_score": -0.16406980156898499
+    },
+    {
+        "title": "Melody se lleva 37 puntos en la final de Eurovisión: así han votado a España los jurados y el público europeo",
+        "image_url": "https://www.infobae.com/resizer/v2/6V4ORQ7MH5BDHH3BEFYQ37PLGI.jpg?auth=4b7ede37fc61fb915129bcbfb6f80998f35adec42c3b8f148837d551c562cbb6&height=1300&smart=true&width=1950",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/17/melody-se-lleva-37-puntos-en-la-final-de-eurovision-asi-han-votado-a-espana-los-jurados-y-el-publico-europeo/",
+        "date": "2025-05-17 23:19:16",
+        "sentiment_score": -0.8872150536626577
+    },
+    {
+        "title": "Austria gana Eurovisión 2025 y España vuelve a hundirse a los últimos puestos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/17/austria-gana-eurovision-2025-y-espana-vuelve-a-hundirse-a-los-ultimos-puestos/",
+        "date": "2025-05-17 23:16:44",
+        "sentiment_score": -0.8463992904871702
+    },
+    {
+        "title": "De patrulla por la frontera del 'sheriff' Trump con México",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/05/18/frontera_20250517170107-Ri7YUYeAVBzdm8Ly8qivCuM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/patrulla-frontera-sheriff-trump-mexico-20250518163438-nt.html",
+        "date": "2025-05-18 02:13:25",
+        "sentiment_score": -0.05326387286186218
+    },
+    {
+        "title": "Dos años de ley de Vivienda: España pierde 120.000 pisos en alquiler y las rentas se disparan un 26%",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/05/18/1466390819-RqZt0fo40Q2KS8nrOMIj7gO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/dos-anos-ley-vivienda-espana-pierde-120000-20250518175919-nt.html",
+        "date": "2025-05-18 02:11:36",
+        "sentiment_score": -0.07823927700519562
+    },
+    {
+        "title": "Los gemelos virtuales ya son los nuevos cimientos de la ciudad del futuro",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/05/18/gemelodigitalvigo-RxRSwvXNX0dhARQGhPdUkqK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gemelos-virtuales-nuevos-cimientos-ciudad-futuro-20250518030755-nt.html",
+        "date": "2025-05-18 01:07:56",
+        "sentiment_score": 0.008639603853225708
+    },
+    {
+        "title": "La tecnología generativa da sus primeras puntadas en la creación textil",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/05/16/desigual-Moda1-RmT97G426zX9SFd3lBLgXXI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/tecnologia-generativa-primeras-puntadas-creacion-textil-20250516172200-nt.html",
+        "date": "2025-05-18 01:07:43",
+        "sentiment_score": -0.03762730956077576
+    },
+    {
+        "title": "Una receta de innovación abierta para fortalecer a la industria farmacéutica",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/05/18/industriafarmaceutica-R1MzRnb2QoJ99sjPPBG36iI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/receta-innovacion-abierta-fortalecer-industria-farmaceutica-20250518192718-nt.html",
+        "date": "2025-05-18 01:07:21",
+        "sentiment_score": 0.0469551682472229
+    },
+    {
+        "title": "Máximos bursátiles pese a una incertidumbre que persiste",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/18/espana-macro-indices-RSf55tXqcUkXyB5NYDWxqPN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/yolanda-gomez-rojo-opinion-yolanda-gomez-20250518193824-nt.html",
+        "date": "2025-05-18 01:07:08",
+        "sentiment_score": -0.13905976712703705
+    },
+    {
+        "title": "Sánchez insiste en su cruzada personal contra Israel",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/05/14/linterna-broncano-IMALENT-MS18-kYlF--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-abc-sanchez-insiste-cruzada-personal-israel-20250518200028-nt.html",
+        "date": "2025-05-17 23:37:00",
+        "sentiment_score": -0.7322580404579639
+    },
+    {
+        "title": "31 ceros y 10 puntos del público: así han sido los votos para España en la final de Eurovisión 2025",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VZHUOZXUSBELXFWPII3XXZ37QI.jpg?auth=4ed1579bb5b84200a00f8bf7d4b586f946ec09b6c9130490ece0add619a95c8f&width=1200",
+        "tags": [
+            "festival eurovisión",
+            "rtve",
+            "músicos",
+            "programas entretenimiento",
+            "cantantes",
+            "la 1",
+            "música",
+            "melody",
+            "televisión"
+        ],
+        "link": "https://elpais.com/television/2025-05-17/31-ceros-y-10-puntos-del-publico-asi-han-sido-los-votos-para-espana-en-la-final-de-eurovision-2025.html",
+        "date": "2025-05-17 23:12:46",
+        "sentiment_score": 0.6385824158787727
+    },
+    {
+        "title": "¿A quién dio España los puntos en Eurovisión?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/P3KJQXIYMNFVJPWXHZ62SU2OHE.jpg?auth=3d882e808699d4cae99b73221faa9b64552cece88a030c8494ffe80e2a053426&width=1200",
+        "tags": [
+            "canciones",
+            "televisión",
+            "melody",
+            "festival eurovisión",
+            "rtve",
+            "música"
+        ],
+        "link": "https://elpais.com/television/2025-05-17/a-quien-dio-espana-los-puntos-en-eurovision.html",
+        "date": "2025-05-17 22:50:36",
+        "sentiment_score": 0.11979861184954643
+    },
+    {
+        "title": "Deportes | El Hércules hace el ridículo dentro y fuera del césped y el Alcoyano no depende de sí mismo para salvarse",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1590907.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-hercules-hace-el-ridiculo-dentro-y-fuera-del-cesped-y-el-alcoyano-no-depende-de-si-mismo-para-salvarse",
+        "date": "2025-05-18 02:04:20",
+        "sentiment_score": -0.8324868325144053
+    },
+    {
+        "title": "Real Mallorca-Getafe",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/05/18/2389355/directo-real-mallorca-getafe-minuto-minuto-del-partido-laliga-easports.html",
+        "date": "2025-05-18 02:00:01",
+        "sentiment_score": 0.1304943859577179
+    },
+    {
+        "title": "Metamorfosis de huertas a viviendas",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/28/37/53/9/mural-sobre-la-historia-del-milagro-del-sacramento.jpeg",
+        "tags": [
+            "el bierzo"
+        ],
+        "link": "https://www.lanuevacronica.com/el-bierzo/metamorfosis-huertas-viviendas_175642_102.html",
+        "date": "2025-05-18 02:00:00",
+        "sentiment_score": -0.006238102912902832
+    },
+    {
+        "title": "La otra vida de Vinicius Jr: El brasileño se suma al mundo empresarial como Ronaldo",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/montaje-vini_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/otra-vida-vinicius-jr-brasileno-se-suma-al-mundo-empresarial-como-ronaldo",
+        "date": "2025-05-18 01:45:00",
+        "sentiment_score": -0.006356239318847656
+    },
+    {
+        "title": "Villanueva, ESIC, CUNEF, UNIE y UDIT: corren el riesgo de cerrar 5 universidades privadas de Madrid por la ley de Sánchez",
+        "image_url": "https://s1.elespanol.com/2025/05/16/actualidad/1003743761440_255654296_1706x960.jpg?contentId=1003743761440",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250518/villanueva-esic-cunef-unie-udit-corren-riesgo-cerrar-universidades-privadas-madrid-ley-sanchez/1003743752995_0.html",
+        "date": "2025-05-18 00:44:32",
+        "sentiment_score": -0.7593894544988871
+    },
+    {
+        "title": "Dime qué vena te ha pinchado la enfermera y te diré qué te van a hacer",
+        "image_url": "https://phantom-elmundo.uecdn.es/fc3d6b0777402ee1ccacda403d601355/crop/0x0/1200x800/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/17/17474654391407.jpg",
+        "tags": [
+            "enfermera saturada",
+            "ciencia y salud",
+            "salud",
+            "enfermedades"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2025/05/18/682834cde85ece44218b4589.html",
+        "date": "2025-05-18 00:20:18",
+        "sentiment_score": 0.07848785072565079
+    },
+    {
+        "title": "Real Madrid debutará en el Mundial de Clubes ante este rival",
+        "image_url": "https://pxcdn.meridiano.net/052025/1747525406116.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/real-madrid-debutara-en-el-mundial-de-clubes-ante-este-rival-202551719430",
+        "date": "2025-05-17 23:43:00",
+        "sentiment_score": -0.7794176191091537
+    },
+    {
+        "title": "Arnau Pons: «El ambiente literario es mezquino y de un narcisismo enfermizo»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/05/18/2388749/literatura-arnau-pons-ambiente-literario-mezquino-narcisismo-enfermizo.html",
+        "date": "2025-05-18 02:00:01",
+        "sentiment_score": -0.11977660655975342
+    },
+    {
+        "title": "El PSOE de Palma adopta el 'modelo Barcelona' frente a los pisos turísticos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/05/18/2389169/psoe-palma-adopta-modelo-barcelona-frente-pisos-turisticos.html",
+        "date": "2025-05-18 02:00:01",
+        "sentiment_score": -0.2880851775407791
+    },
+    {
+        "title": "Los top de la semana del Índice de la Digitalización de Wake Up Box: de la cuántica con diamantes al 'blockchain'",
+        "image_url": "https://s1.elespanol.com/2025/05/14/actualidad/1003743756788_255568900_1706x960.jpg?contentId=1003743756788",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20250518/top-semana-indice-digitalizacion-wake-up-box-cuantica-diamantes-blockchain/1003743756784_0.html",
+        "date": "2025-05-18 01:20:20",
+        "sentiment_score": 0.18643108755350113
+    },
+    {
+        "title": "Roach (Sanofi), ante la guerra comercial: \"Es natural que continuemos invirtiendo en EEUU, es un mercado crucial\"",
+        "image_url": "https://s1.elespanol.com/2025/05/17/actualidad/1003743761773_255660643_1706x960.jpg?contentId=1003743761773",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20250518/roach-sanofi-guerra-comercial-natural-continuemos-invirtiendo-eeuu-mercado-crucial/1003743761405_0.html",
+        "date": "2025-05-18 01:10:16",
+        "sentiment_score": -0.26019470393657684
+    },
+    {
+        "title": "Tutankamón, la momia «viral» con la que se obsesionó la prensa española",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2025/05/16/5DBBE5D8-F4CE-4746-A09A-3FFA0CB53E4A/ilustracion-revista-esfera-que-recrea-entierro-tutankamon_69.jpg?crop=2016%2C1134%2Cx0%2Cy441&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "andalucía"
+        ],
+        "link": "https://www.larazon.es/andalucia/tutankamon-momia-viral-que-obsesiono-prensa-espanola_20250518682727d7f7f20a10d03f5aec.html",
+        "date": "2025-05-18 00:56:58",
+        "sentiment_score": 0.07967647910118103
+    },
+    {
+        "title": "Meloni pacta una interconexión con Grecia y lanza a sus empresas a la energía nuclear tras el apagón español para ser \"hub eléctrico mediterráneo\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/9914de5be349980559b5b8c6364e6102/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/16/17474116549420.jpg",
+        "tags": [
+            "artículos carlos segovia",
+            "actualidad económica opinión",
+            "apagón",
+            "giorgia meloni"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/05/18/682618b3e9cf4a9a478b45b6.html",
+        "date": "2025-05-18 00:21:44",
+        "sentiment_score": -0.3712867647409439
+    },
+    {
+        "title": "El potente jugo que disminuye el nivel del colesterol: así debes consumirlo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747533416943/jugo-pina-superficie-madera-oscura_1150-42305.jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/el-potente-jugo-que-disminuye-el-nivel-del-colesterol-asi-debes-consumirlo-20255172250",
+        "date": "2025-05-18 02:05:00",
+        "sentiment_score": -0.7205813527107239
+    },
+    {
+        "title": "Maduro anuncia nueva fase para la distribución de gas doméstico: también la sustitución masiva de cilindros en Antímano",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-nueva-fase-para-la-distribucion-de-gas-domestico-tambien-la-sustitucion-masiva-de-cilindros-en-antimano-20255172200",
+        "date": "2025-05-18 02:00:00",
+        "sentiment_score": 0.1032959520816803
+    },
+    {
+        "title": "En video: Buque Escuela Cuauhtémoc de México se estrella contra el Puente de Brooklyn",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/en-video-buque-escuela-cuauhtemoc-de-mexico-se-estrella-contra-el-puente-de-brooklyn--202551721540",
+        "date": "2025-05-18 01:54:00",
+        "sentiment_score": -0.08324569463729858
+    },
+    {
+        "title": "Colapinto bajo la lupa en Imola: investigarán incidente en el pitlane",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/colapinto-bajo-la-lupa-en-imola-investigaran-incidente-en-el-pitlane-202551722280",
+        "date": "2025-05-18 01:35:56",
+        "sentiment_score": -0.7569398693740368
+    },
+    {
+        "title": "Filtran el contrato de Neymar con el Santos: salario millonario y lujos exclusivos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/filtran-el-contrato-de-neymar-con-el-santos-salario-millonario-y-lujos-exclusivos-202551722300",
+        "date": "2025-05-18 01:35:56",
+        "sentiment_score": 0.7179975900799036
+    },
+    {
+        "title": "El parque acuático más grande de Illinois abrirá sus puertas la próxima semana: horarios y fechas claves",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-parque-acuatico-mas-grande-de-illinois-abrira-sus-puertas-la-proxima-semana-horarios-y-fechas-claves-202551721180",
+        "date": "2025-05-18 01:18:00",
+        "sentiment_score": 0.82735176384449
+    },
+    {
+        "title": "Niña atrapada en una alcantarilla es rescatada por dos jóvenes: las autoridades habían suspendido la búsqueda",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/nina-atrapada-en-una-alcantarilla-es-rescatada-por-dos-jovenes-las-autoridades-habian-suspendido-la-busqueda-20255172100",
+        "date": "2025-05-18 01:00:00",
+        "sentiment_score": -0.6800227779895067
+    },
+    {
+        "title": "INTT: escuelas del transporte e instructores de manejo aprobados en Caracas y Miranda",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/intt-escuelas-del-transporte-e-instructores-de-manejo-aprobados-en-caracas-y-miranda-20255172100",
+        "date": "2025-05-18 01:00:00",
+        "sentiment_score": 0.34458960592746735
+    },
+    {
+        "title": "Mucosidad en la garganta: mejores métodos para eliminarla",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747338390665/Captura%20de%20pantalla%202025-05-15%20a%20la(s)%203.45.53%20p.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/mucosidad-en-la-garganta-mejores-metodos-para-eliminarla-202551720500",
+        "date": "2025-05-18 00:50:00",
+        "sentiment_score": -0.8059171922504902
+    },
+    {
+        "title": "En video: Cristiano Jr. recrea icónico look de su padre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/en-video-cristiano-jr-recrea-iconico-look-de-su-padre-202551721150",
+        "date": "2025-05-18 00:20:34",
+        "sentiment_score": 0.5961945056915283
     }
 ];
