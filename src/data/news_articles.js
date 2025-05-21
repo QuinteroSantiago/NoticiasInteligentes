@@ -100,36 +100,6 @@ export default [
         "sentiment_score": -0.09764377772808075
     },
     {
-        "title": "Macron se está convirtiendo en el presidente más impopular de la historia de Francia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/05/17/Macron-Rj69dN5rLXWb4fCVatLcOXL-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/macron-convirtiendo-presidente-impopular-historia-francia-20250517160252-nt.html",
-        "date": "2025-05-17 14:02:52",
-        "sentiment_score": -0.22315680980682373
-    },
-    {
-        "title": "Las lenguas del Congreso",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/05/17/cartas-director-1024x512-U00200406851brW-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-lenguas-congreso-20250517130634-nt.html",
-        "date": "2025-05-17 11:06:35",
-        "sentiment_score": -0.13453906774520874
-    },
-    {
-        "title": "¿Hay que dejar los carbohidratos a partir de los 40?",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/05/16/carbohidratos-mediana-edad-RzWCrXdVupjxuVfkBmpcxNM-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/dejar-carbohidratos-partir-20250516170000-nt.html",
-        "date": "2025-05-17 11:02:51",
-        "sentiment_score": -0.011579543352127075
-    },
-    {
         "title": "‘Esa diva’ valiente y poderosa: la letra de la canción con la que Melody representa a España en Eurovisión",
         "image_url": "https://imagenes.elpais.com/resizer/v2/4663XYKV7FBQBAG2O56AQJ5LVE.jpg?auth=4a671740269f74a58a7681cb4683aedada1f80d13369db6548f982c02a3a1d24&width=1200",
         "tags": [
@@ -174,54 +144,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-17/compromis-denuncia-la-inaccion-de-antifraude-un-ano-despues-de-su-denuncia-contra-mazon.html",
         "date": "2025-05-17 14:40:27",
         "sentiment_score": -0.8364714719355106
-    },
-    {
-        "title": "Detenido el exnovio de la ‘reina de la coca’ tras fugarse de prisión",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZIF4XFZTQRCARE4UH6SFONDNGQ.jpg?auth=367eaec4b3674c7cc3e7058c592988f371ec9a5a67701918919ada5850c06ff0&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "prisiones",
-            "españa",
-            "delitos",
-            "aranjuez",
-            "madrid",
-            "cocaína",
-            "blanqueo capitales",
-            "fuga presos",
-            "narcotráfico",
-            "policía nacional",
-            "adicciones",
-            "fugitivos"
-        ],
-        "link": "https://elpais.com/espana/2025-05-17/detenido-el-exnovio-de-la-reina-de-la-coca-tras-fugarse-de-prision.html",
-        "date": "2025-05-17 13:18:12",
-        "sentiment_score": -0.80418083909899
-    },
-    {
-        "title": "El juez ordena libertad con personación periódica para la conductora del atropello cerca del campo del RCD Espanyol",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VBHP4KFOG5BPBEKNO7I2SH6EYQ.jpg?auth=9dd5b9be04065a2ed2c275206f42f67733da36db0df806ebd8cc8ed17d5c65a9&width=1200",
-        "tags": [
-            "heridos",
-            "cataluña",
-            "cornellà de llobregat",
-            "investigación judicial",
-            "atropellos",
-            "rcd espanyol",
-            "accidentes"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-17/el-juez-ordena-libertad-con-personacion-periodica-para-la-conductora-del-atropello-cerca-del-campo-del-rcd-espanyol.html",
-        "date": "2025-05-17 12:21:52",
-        "sentiment_score": -0.8529160860925913
-    },
-    {
-        "title": "Sánchez carga contra Israel ante los países árabes en Bagdad: “Palestina se desangra ante nuestros ojos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XQ355H4VP3TJ5K2DUP2TWGT4MQ.jpg?auth=997881ba660b6973f48fc77db9d4ddab8337ef9baf315b2a3e719a161609d522&width=1200",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-05-17/sanchez-carga-contra-israel-ante-los-paises-arabes-en-bagdad-palestina-se-desangra-ante-nuestros-ojos.html",
-        "date": "2025-05-17 10:25:36",
-        "sentiment_score": -0.37223662436008453
     },
     {
         "title": "Sigue en directo la penúltima jornada en 1a RFEF; la Cultural podría confirmar su ascenso a Segunda",
@@ -7312,5 +7234,442 @@ export default [
         "link": "https://2001online.com/usa/internacionales/minorista-publix-retira-un-comestible-para-bebes-posible-presencia-de-plomo-20255201700",
         "date": "2025-05-20 21:00:00",
         "sentiment_score": 0.029867585748434067
+    },
+    {
+        "title": "Japón registró un déficit comercial de 711 millones de euros en abril",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/21/japon-registro-un-deficit-comercial-de-711-millones-de-euros-en-abril/",
+        "date": "2025-05-21 02:00:53",
+        "sentiment_score": -0.6961041688919067
+    },
+    {
+        "title": "Clima en Madrid: cuál será la temperatura máxima y mínima este 21 de mayo",
+        "image_url": "https://www.infobae.com/resizer/v2/Y2AOANHLOJHL5PPCQQSUOLCWIU.jpg?auth=ed066c9d79fb3c4b7375cc3385b09f63f515d5f4632be6532e7eeebfd3d46aaf&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/21/clima-en-madrid-cual-sera-la-temperatura-maxima-y-minima-este-21-de-mayo/",
+        "date": "2025-05-21 01:30:58",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Francia Márquez y Petro se pronunciaron sobre presunto caso de xenofobia y abuso policial contra migrantes colombianos en España",
+        "image_url": "https://www.infobae.com/resizer/v2/EY3OPV5ZVJHMFEQRJ2JXN3323E.png?auth=56e19d725cf6bc447c5e80bebb93ca3bf8081b53dd034384288c68f073d71cc5&height=494&smart=true&width=799",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/05/21/francia-marquez-y-petro-se-pronunciaron-sobre-presunto-caso-de-xenofobia-y-abuso-policial-contra-migrantes-colombianos-en-espana/",
+        "date": "2025-05-21 01:25:02",
+        "sentiment_score": -0.8315492253750563
+    },
+    {
+        "title": "Candela Peña presenta ‘Furia’ en ‘La Revuelta’ y Cristina Castaño nueva serie y “nuevo humano”: “Tranquilo, no es tuyo”",
+        "image_url": "https://www.infobae.com/resizer/v2/6JPXEYU7TJCVTII46JFZOVSS44.png?auth=fcbaa0ffc24cbe247e84c4a0862c5b8e7c9af2860d1ca59e4b0443fdefdda96a&height=937&smart=true&width=1915",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/21/candela-pena-presenta-furia-en-la-revuelta-y-cristina-castano-nueva-serie-y-nuevo-humano-tranquilo-no-es-tuyo/",
+        "date": "2025-05-21 00:49:38",
+        "sentiment_score": -0.10092877596616745
+    },
+    {
+        "title": "Decir que Frisby España es una empresa “pirata” podría meter en un lío legal a cualquier colombiano: esta es la razón",
+        "image_url": "https://www.infobae.com/resizer/v2/FCALZQ4VPBAPHM3A6H5G5CG67A.jpg?auth=42332a37cb2e24f68e486199064a92d28d233b80ed6b14a7c9452c8a190deacf&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/05/20/decir-que-frisby-espana-es-una-empresa-pirata-podria-meter-en-un-lio-legal-a-cualquier-colombiano-esta-es-la-razon/",
+        "date": "2025-05-20 23:09:21",
+        "sentiment_score": 0.039150699973106384
+    },
+    {
+        "title": "Un soltero de ‘First Dates’ le regala unos huevos de sus gallinas a su cita: “Mis gallinas no tienen nombre, porque cada vez que les pongo uno se me mueren”",
+        "image_url": "https://www.infobae.com/resizer/v2/67ZNBFACGJASZICRL33J5Y5ULY.png?auth=a7bd6f696db05f2f7f7789f3ba3a06a7d10eef44d692beb83f3693940cf6b320&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/20/un-soltero-de-first-dates-le-regala-unos-huevos-de-sus-gallinas-a-su-cita-mis-gallinas-no-tienen-nombre-porque-cada-vez-que-les-pongo-uno-se-me-mueren/",
+        "date": "2025-05-20 23:03:47",
+        "sentiment_score": -0.7280052378773689
+    },
+    {
+        "title": "Hoy será noticia. Miércoles, 21 de mayo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/20/hoy-sera-noticia-miercoles-21-de-mayo/",
+        "date": "2025-05-20 23:02:31",
+        "sentiment_score": 0.03396112471818924
+    },
+    {
+        "title": "Revilla asegura que tiene \"la conciencia tranquila\" tras ser demandado por el rey emérito en los juzgados de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/DPK3MNZCFNDIHN6BEJML6XYZP4.jpg?auth=e0e2ddb1972de857ebae83cb605a204b89b2bef181b6c64d950f41f62987e528&height=1288&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/20/revilla-asegura-que-tiene-la-conciencia-tranquila-tras-ser-demandado-por-el-rey-emerito-en-los-juzgados-de-madrid/",
+        "date": "2025-05-20 23:00:51",
+        "sentiment_score": 0.04875430464744568
+    },
+    {
+        "title": "Revilla explica en ‘El Hormiguero’ cómo ha vivido el acto de conciliación tras la demanda del rey emérito: “Me piden que reconozca que he mentido”",
+        "image_url": "https://www.infobae.com/resizer/v2/IVJXCOALLZHJ7HZTTPZ3BEGJ34.jpg?auth=18f2fbf900e5227483986e532e6458119d93b01ebf75a9ac0519d3fad1117efc&height=533&smart=true&width=799",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/20/revilla-explica-en-el-hormiguero-como-ha-vivido-el-acto-de-conciliacion-tras-la-demanda-del-rey-emerito-me-piden-que-reconozca-que-he-mentido/",
+        "date": "2025-05-20 22:49:12",
+        "sentiment_score": -0.7388495393097401
+    },
+    {
+        "title": "Ryanair obligará a los trabajadores no afiliados a CC.OO. a devolver miles de euros a partir de junio y les bajará el sueldo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/05/20/1417894017-RA3z6MRke4p8QSgN7C4ac4K-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ryanair-obligara-trabajadores-afiliados-ccoo-devolver-miles-20250520205536-nt.html",
+        "date": "2025-05-21 00:51:46",
+        "sentiment_score": -0.09921735525131226
+    },
+    {
+        "title": "Con el asilo cerrado, Trump acoge a los afrikáners por «genocidio» en Sudáfrica",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/20/refugiados-sudafrica_20250520201752-Ra26mr7zPu6fitbnI0SRsbN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/asilo-cerrado-trump-acoge-afrikaners-genocidio-sudafrica-20250520202421-nt.html",
+        "date": "2025-05-21 00:37:43",
+        "sentiment_score": -0.2148541361093521
+    },
+    {
+        "title": "Así se habla por teléfono con Donald Trump",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/20/trump-kKaD-U701003427218lgB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/habla-telefono-donald-trump-20250520023343-nt.html",
+        "date": "2025-05-21 00:36:35",
+        "sentiment_score": -0.11905175447463989
+    },
+    {
+        "title": "El anodino diálogo Trump-Putin es beneficioso para ambos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/20/obus-Rg9b0Ito1tvSrDPu36pUOQJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/anodino-dialogo-trumpputin-beneficioso-20250520175126-nt.html",
+        "date": "2025-05-21 00:34:51",
+        "sentiment_score": -0.06502467393875122
+    },
+    {
+        "title": "¿Es el virus del herpes labial una causa desconocida de alzhéimer?",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/05/20/herpes.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/virus-herpes-labial-causa-desconocida-alzheimer-20250521131224-nt.html",
+        "date": "2025-05-21 00:17:10",
+        "sentiment_score": -0.16930469870567322
+    },
+    {
+        "title": "Así son los sistemas de atraque para aeropuertos que desarrolla Asturias y en los que están interesados casi 70 terminales de Europa, Oriente Medio y América",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf7ce2fd-d9ed-4d63-bc1b-115fe8f0416d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2025/05/21/son-sistemas-atraque-aeropuertos-desarrolla-117627695.html",
+        "date": "2025-05-21 02:01:57",
+        "sentiment_score": 0.5714345723390579
+    },
+    {
+        "title": "Josep Gayà: de su debut en el Bernabéu a la liga más insólita de Europa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/05/21/2390909/futbol-josep-gaya-zimbru-mallorquin-superliga-moldavia.html",
+        "date": "2025-05-21 02:00:01",
+        "sentiment_score": -0.018862098455429077
+    },
+    {
+        "title": "El Incibe apuesta ahora por acoger la comandancia virtual de la Guardia Civil",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/28/42/45/8/fachada-exterior-incibe.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/incibe-apuesta-ahora-por-acoger-comandancia-virtual-guardia-civil_175831_102.html",
+        "date": "2025-05-21 02:00:00",
+        "sentiment_score": -0.04749181866645813
+    },
+    {
+        "title": "Nico Williams, el fichaje que nadie vio venir",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/14/2025031416095568007.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/futuro-nico-williams-entra-escena/20250521035419344686.html",
+        "date": "2025-05-21 01:54:19",
+        "sentiment_score": 0.24546139687299728
+    },
+    {
+        "title": "Ismael García, un coleccionista de éxitos en Turquía",
+        "image_url": "https://static.laregion.es/clip/d104889a-3a32-4a1f-b268-affcd2f2a26d_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.laregion.es/deporte-local/ismael-garcia-coleccionista-exitos-turquia_1_20250521-3534443.html",
+        "date": "2025-05-21 01:30:36",
+        "sentiment_score": 0.20393986999988556
+    },
+    {
+        "title": "Un militante del PP disputará el cargo a Feijóo",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/05/20/682cbc974fde4.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/250521/2048667/militante-pp-disputara-cargo-feijoo.html",
+        "date": "2025-05-21 01:30:00",
+        "sentiment_score": -0.20466188341379166
+    },
+    {
+        "title": "Curro 'el del bombo', el relevo de Manolo para animar a 'La Roja': \"Quería que continuara con su legado, no soy su sucesor\"",
+        "image_url": "https://s1.elespanol.com/2025/05/20/actualidad/1003743766325_255748491_1706x960.jpg?contentId=1003743766325",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250520/curro-bombo-relevo-manolo-animar-roja-queria-continuara-legado-no-sucesor/1003743765176_0.html",
+        "date": "2025-05-21 00:24:02",
+        "sentiment_score": -0.2503340244293213
+    },
+    {
+        "title": "La final de la Copa Sudamericana se jugará en Bolivia",
+        "image_url": "https://s.w.org/images/core/emoji/15.1.0/72x72/1f6a8.png",
+        "tags": [
+            "deportes",
+            "bolivia",
+            "copa sudamericana"
+        ],
+        "link": "https://noticialdia.com/deportes/la-final-de-la-copa-sudamericana-se-jugara-en-bolivia/",
+        "date": "2025-05-20 23:47:40",
+        "sentiment_score": 0.031186580657958984
+    },
+    {
+        "title": "La revolución del 'cúbit': una carrera entre ciencia y tecnología para alcanzar la supremacía cuántica",
+        "image_url": "https://s1.elespanol.com/2025/05/20/actualidad/1003743766169_255740883_1706x960.jpg?contentId=1003743766169",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/20250520/revolucion-cubit-carrera-ciencia-tecnologia-alcanzar-supremacia-cuantica/1003743765863_0.html",
+        "date": "2025-05-20 23:45:00",
+        "sentiment_score": 0.6388623937964439
+    },
+    {
+        "title": "LaLiga: conoce el fichaje que el Real Madrid le quiere arrebatar al Barcelona",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747785512811.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/laliga-conoce-el-fichaje-que-el-real-madrid-le-quiere-arrebatar-al-barcelona-202552019440",
+        "date": "2025-05-20 23:44:00",
+        "sentiment_score": 0.7018028199672699
+    },
+    {
+        "title": "Guardiola puso en duda su futuro en Manchester City: “Si no lo hacen, me voy”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/05/AP25140745381303-e1747791199887.jpg",
+        "tags": [
+            "guardiola",
+            "fútbol",
+            "deportes",
+            "manchester city"
+        ],
+        "link": "https://eldiariony.com/2025/05/20/guardiola-puso-en-duda-su-futuro-en-manchester-city-si-no-lo-hacen-me-voy/",
+        "date": "2025-05-21 02:09:00",
+        "sentiment_score": -0.8552828738465905
+    },
+    {
+        "title": "El peligro de financiar los gastos corrientes va a más",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/05/20/682c968f4314a.r_d.4167-2669-558.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250521/10692973/gastos-corrientes-financiar-consumo-espana.html",
+        "date": "2025-05-21 02:00:00",
+        "sentiment_score": -0.44711997359991074
+    },
+    {
+        "title": "José Brito sostuvo un encuentro con dirigentes gremiales de Anzoátegui",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "política",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/jose-brito-sostuvo-un-encuentro-con-dirigentes-gremiales-de-anzoategui/",
+        "date": "2025-05-21 01:49:43",
+        "sentiment_score": 0.09648344665765762
+    },
+    {
+        "title": "Quién es el empresario acusado de ser el nuevo narco más poderoso del país",
+        "image_url": "https://www.infobae.com/resizer/v2/XED5T3NKZRFIDJQSKZJ3DBNYKM.jpg?auth=57ebc499301ada7dd1d2c72924f4c80c52509ef69866bb8bff895419e5b6bb76&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/sociedad/policiales/2025/05/21/quien-es-el-empresario-acusado-de-ser-el-nuevo-narco-mas-poderoso-del-pais/",
+        "date": "2025-05-21 01:43:37",
+        "sentiment_score": -0.8036151994019747
+    },
+    {
+        "title": "Azucarera anuncia un despido colectivo para todas sus plantas, incluida La Bañeza",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/05/20/682cc3eed3c87.jpeg",
+        "tags": [
+            "la bañeza"
+        ],
+        "link": "https://www.diariodeleon.es/leon/provincia/la-baneza/250521/2048672/azucarera-anuncia-despido-colectivo-todas-plantas-incluida-baneza.html",
+        "date": "2025-05-21 01:30:00",
+        "sentiment_score": -0.5351074710488319
+    },
+    {
+        "title": "Conesa, entre murallas, iglesias y castillos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/05/20/682c449600ee0.r_d.395-235-5619.png",
+        "tags": [
+            "las fotos de los lectores"
+        ],
+        "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20250521/10699789/conesa-murallas-iglesias-castillos.html",
+        "date": "2025-05-21 01:30:00",
+        "sentiment_score": -0.08708985894918442
+    },
+    {
+        "title": "Más de 75 empresas de biotecnología emergentes usan Veeva Basics en áreas clínicas, regulatorias y de calidad",
+        "image_url": "https://mma.prnewswire.com/media/1488285/Veeva_Systems_Logo_v2.jpg?p=publish",
+        "tags": [
+            "bio",
+            "medical pharmaceuticals",
+            "health care & hospitals",
+            "stw",
+            "iot",
+            "hea",
+            "cloud computing/internet of things",
+            "computer software",
+            "computer & electronics",
+            "mtc",
+            "biotechnology",
+            "cpr"
+        ],
+        "link": "https://www.prnewswire.com/news-releases/mas-de-75-empresas-de-biotecnologia-emergentes-usan-veeva-basics-en-areas-clinicas-regulatorias-y-de-calidad-302461252.html",
+        "date": "2025-05-21 01:15:00",
+        "sentiment_score": 0.45178328081965446
+    },
+    {
+        "title": "Conferencia de Presidentes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/editorial/conferencia-presidentes_0_2003973305.html",
+        "date": "2025-05-21 01:08:54",
+        "sentiment_score": -0.05623805522918701
+    },
+    {
+        "title": "Informan nuevas políticas para transferencias en Wells Fargo: estarán sujetas a normas estrictas",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747793968259.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/informan-nuevas-politicas-para-transferencias-en-wells-fargo-estaran-sujetas-a-normas-estrictas-20255202270",
+        "date": "2025-05-21 02:07:00",
+        "sentiment_score": -0.8491362575441599
+    },
+    {
+        "title": "Lanzan operación Ángel Guardián contra inmigrantes en California: Fiscalía busca neutralizar el estatus de santuario",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747793125315.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/lanzan-operacion-angel-guardian-contra-inmigrantes-en-california-fiscalia-busca-neutralizar-el-estatus-de-santuario-20255202240",
+        "date": "2025-05-21 02:04:00",
+        "sentiment_score": -0.8944084420800209
+    },
+    {
+        "title": "Días de mora en Cashea: así puedes retroceder al nivel 1 en tu línea de compra",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747793299295.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/dias-de-mora-en-cashea-asi-puedes-retroceder-al-nivel-1-en-tu-linea-de-compra-20255202220",
+        "date": "2025-05-21 02:02:00",
+        "sentiment_score": -0.8167726751416922
+    },
+    {
+        "title": "Fedecámaras conversó con diplomático de Estados Unidos sobre las sanciones",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747790237519.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/fedecamaras-converso-con-diplomatico-de-estados-unidos-sobre-las-sanciones-202552021590",
+        "date": "2025-05-21 01:59:00",
+        "sentiment_score": 0.35610903799533844
+    },
+    {
+        "title": "Belinda protagonizará a Carlota de Habsburgo en serie histórica de Sony Pictures",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747793950896.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/belinda-protagonizara-a-carlota-de-habsburgo-en-serie-historica-de-sony-pictures-202552021590",
+        "date": "2025-05-21 01:59:00",
+        "sentiment_score": 0.07656092196702957
+    },
+    {
+        "title": "Dúo dinámico: Mascarilla de aguacate y miel para reparar las puntas del cabello",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747792287250.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/duo-dinamico-mascarilla-de-aguacate-y-miel-para-reparar-las-puntas-del-cabello-202552021550",
+        "date": "2025-05-21 01:55:00",
+        "sentiment_score": -0.6245376318693161
+    },
+    {
+        "title": "Redadas ICE del 20 de mayo: más de 500 inmigrantes arrestados en operativos ejecutados en Florida y Texas",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747792594909.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-20-de-mayo-mas-de-500-inmigrantes-arrestados-en-operativos-ejecutados-en-florida-y-texas-202552021490",
+        "date": "2025-05-21 01:49:00",
+        "sentiment_score": -0.38590213283896446
+    },
+    {
+        "title": "Los alimentos que debes consumir a diario para tener un cabello abundante: habla una experta",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747681580214.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/los-alimentos-que-debes-consumir-a-diario-para-tener-un-cabello-abundante-habla-una-experta-202552021450",
+        "date": "2025-05-21 01:45:00",
+        "sentiment_score": 0.3556921184062958
+    },
+    {
+        "title": "Primer bono especial de mayo: conozca hasta qué fecha se estará asignando",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747790305045.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/primer-bono-especial-de-mayo-conozca-hasta-que-fecha-se-estara-asignando-202552021150",
+        "date": "2025-05-21 01:15:00",
+        "sentiment_score": 0.11424177139997482
+    },
+    {
+        "title": "El secreto del pepino y el limón: ¿Es la solución definitiva para bajar de peso?",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747789501324.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/el-secreto-del-pepino-y-el-limon-es-la-solucion-definitiva-para-bajar-de-peso--202552021150",
+        "date": "2025-05-21 01:15:00",
+        "sentiment_score": -0.5828893147408962
     }
 ];
