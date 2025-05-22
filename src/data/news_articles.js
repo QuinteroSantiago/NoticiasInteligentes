@@ -1,378 +1,5 @@
 export default [
     {
-        "title": "Un hombre compra un billete de lotería que sale premiado con más de 4 millones de euros, pero se queda sin el dinero: no se enteró de que había ganado",
-        "image_url": "https://www.infobae.com/resizer/v2/RXLRRZCSZVHB5JJNRECQTPCSVU.jpg?auth=cbf85d331e2d453bf074d6ba6a995371a93d2024fd16be59986ebadbb19cb656&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/05/18/un-hombre-compra-un-billete-de-loteria-que-sale-premiado-con-mas-de-4-millones-de-euros-pero-se-queda-sin-el-dinero-no-se-entero-de-que-habia-ganado/",
-        "date": "2025-05-18 17:11:26",
-        "sentiment_score": -0.35363762080669403
-    },
-    {
-        "title": "Rusia intercepta a un petrolero de propiedad griega que navegaba desde Estonia",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/18/rusia-intercepta-a-un-petrolero-de-propiedad-griega-que-navegaba-desde-estonia/",
-        "date": "2025-05-18 17:02:35",
-        "sentiment_score": -0.7148920260369778
-    },
-    {
-        "title": "Juan Carlos I abandona Galicia tras pasar seis días en Sanxenxo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/18/juan-carlos-i-abandona-galicia-tras-pasar-seis-dias-en-sanxenxo/",
-        "date": "2025-05-18 17:02:14",
-        "sentiment_score": -0.8289687056094408
-    },
-    {
-        "title": "Las tres mentiras que te dicen en tu trabajo, según un abogado: “Que no te la cuelen”",
-        "image_url": "https://www.infobae.com/resizer/v2/PFD2MS5ZCBGOZJOL2VLSV2YNPI.jpg?auth=bbf3c752278afeaf5898f08bff745fadeae096c6097a8ee2fc057a048a76ccc0&height=1080&smart=true&width=1837",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/05/18/las-tres-mentiras-que-te-dicen-en-tu-trabajo-segun-un-abogado-que-no-te-la-cuelen/",
-        "date": "2025-05-18 17:01:13",
-        "sentiment_score": -0.8165590334683657
-    },
-    {
-        "title": "Una mujer que se gastó 30.000 euros para transformar su “jungla” de jardín en “santuario” es amenazada con el desalojo por el Ayuntamiento: debe revertir la obra",
-        "image_url": "https://www.infobae.com/resizer/v2/47JM7W6GZBA6RGSAOFG7YIGJFM.jpg?auth=333e83158b74f28d7ec968224a0ba0f2d9462d1d92f0de9a6a748afddc5bfdcb&height=3648&smart=true&width=5472",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/05/18/una-mujer-que-se-gasto-30000-euros-para-transformar-su-jungla-de-jardin-en-santuario-es-amenazada-con-el-desalojo-por-el-ayuntamiento-debe-revertir-la-obra/",
-        "date": "2025-05-18 16:50:25",
-        "sentiment_score": -0.6937186568975449
-    },
-    {
-        "title": "El Real Valladolid cierra su línea defensiva para sorprender al Alavés",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/18/el-real-valladolid-cierra-su-linea-defensiva-para-sorprender-al-alaves/",
-        "date": "2025-05-18 16:47:33",
-        "sentiment_score": 0.5993903949856758
-    },
-    {
-        "title": "Sarabia reclama sensatez y lógica en la programación de los partidos",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/18/sarabia-reclama-sensatez-y-logica-en-la-programacion-de-los-partidos/",
-        "date": "2025-05-18 16:33:15",
-        "sentiment_score": -0.4637593477964401
-    },
-    {
-        "title": "El argentino Juan Cruz, entre las novedades de un Leganés obligado a ganar en Gran Canaria",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/18/el-argentino-juan-cruz-entre-las-novedades-de-un-leganes-obligado-a-ganar-en-gran-canaria/",
-        "date": "2025-05-18 16:19:09",
-        "sentiment_score": 0.4666469544172287
-    },
-    {
-        "title": "Los doce heridos por la colisión de un camión y un autobús en la AP-7 son de carácter leve",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/18/los-doce-heridos-por-la-colision-de-un-camion-y-un-autobus-en-la-ap-7-son-de-caracter-leve/",
-        "date": "2025-05-18 16:18:50",
-        "sentiment_score": -0.7926282919943333
-    },
-    {
-        "title": "Este es el pueblo más grande Barcelona: un municipio de apenas 600 habitantes con iglesias, castillos y rutas de senderismo",
-        "image_url": "https://www.infobae.com/resizer/v2/S2FKS7OUCVGQPNBHI7X3WHUIBI.jpg?auth=feac82de84b1f2e620bfbf19267c417ecf967ba0c5c330ad3ac9e510ee1585a6&height=854&smart=true&width=1280",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2025/05/18/este-es-el-pueblo-mas-grande-barcelona-un-municipio-de-apenas-600-habitantes-con-iglesias-castillos-y-rutas-de-senderismo/",
-        "date": "2025-05-18 16:15:18",
-        "sentiment_score": -0.29375483840703964
-    },
-    {
-        "title": "Un joven, muy grave tras sufrir una puñalada en el cuello",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DYRWNDOI6FA6JB2SJLJPWPRYJM.jpeg?auth=01be8b30279df2693c5bb29a3d5da72a0397c1f60c107e0b1e929e202082df3e&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "sucesos",
-            "madrid",
-            "armas blancas",
-            "samur",
-            "agresiones físicas",
-            "heridos"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-05-18/un-joven-muy-grave-tras-sufrir-una-punalada-en-el-cuello.html",
-        "date": "2025-05-18 15:50:25",
-        "sentiment_score": -0.7687822636216879
-    },
-    {
-        "title": "El defensor del pueblo catalán cree que la menor tutelada que fue violada no es un caso aislado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/W5PGWJTHGJB2LMCRVWP2IUIBMY.jpg?auth=4ff9e1922c1b9439ec11bb9d3b5ce3308eac90421ebd3f0e2a16a555745a3c3a&width=1200",
-        "tags": [
-            "generalitat cataluña",
-            "cataluña",
-            "infancia",
-            "abusos sexuales",
-            "menores",
-            "pederastia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-18/el-defensor-del-pueblo-catalan-cree-que-la-menor-tutelada-que-fue-violada-no-es-un-caso-aislado.html",
-        "date": "2025-05-18 14:34:35",
-        "sentiment_score": -0.656777523458004
-    },
-    {
-        "title": "LaLiga: Vallejo aparece en la titularidad con el Real Madrid por primera vez desde hace tres años (+Video)",
-        "image_url": "https://pxcdn.meridiano.net/052025/1747588086614.jpg?ch=180&cw=320",
-        "tags": [
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/laliga-vallejo-aparece-en-la-titularidad-con-el-real-madrid-por-primera-vez-desde-hace-tres-anos-video--20255181390",
-        "date": "2025-05-18 17:09:00",
-        "sentiment_score": 0.12885361909866333
-    },
-    {
-        "title": "El Baskonia acaricia su billete para el 'play off' por el título",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fc961bc6-61d0-44ff-a5d3-1d9744ba6b0c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2025/05/18/baskonia-acaricia-billete-play-off-barcelona-buesa-arena-9649817.html",
-        "date": "2025-05-18 17:06:38",
-        "sentiment_score": 0.5681701749563217
-    },
-    {
-        "title": "Más de 23.000 personas se manifiestan con 'Canarias tiene un límite' por un cambio de modelo turístico en las islas",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/05/18/DF27C81D-38FE-4032-9003-DDD18E4CA117/manifestacion-canarias_70.jpg?crop=3400%2C1913%2Cx0%2Cy179&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "economía",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/economia/mas-23000-personas-manifiestan-canarias-tiene-limite-cambio-modelo-turistico-islas_20250518682a12f6f7f20a10d041501b.html",
-        "date": "2025-05-18 17:03:50",
-        "sentiment_score": 0.09670764952898026
-    },
-    {
-        "title": "Vudú contra los cerebros del Barça: el Instant Replay del ARA",
-        "image_url": "https://static1.ara.cat/clip/dedc8a68-2be4-47fb-9ad9-a57696469c13_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/baloncesto/acb/vudu-bases-barca-instant-replay-ara_1_5383789.html",
-        "date": "2025-05-18 17:03:43",
-        "sentiment_score": -0.28853605687618256
-    },
-    {
-        "title": "El Barça golea antes del asalto a la Champions y el Real Madrid no consigue su pleno a domicilio en la Liga F",
-        "image_url": "https://www.infobae.com/resizer/v2/W7YHNJXZS5EHJB6CBMSR4HFB6Q.jpg?auth=d6d33dc93353d8e206dfe505565bf2826a7e93d1d52207a8f2a64b8f1b883fad&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/05/18/el-barca-golea-antes-del-asalto-a-la-champions-y-el-real-madrid-no-consigue-su-pleno-a-domicilio-en-la-liga-f/",
-        "date": "2025-05-18 17:00:14",
-        "sentiment_score": -0.7805508002638817
-    },
-    {
-        "title": "A BBVA le urge vender este chalet de 100 metros reformado: cuesta 37.900 euros por tiempo limitado",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2025/05/casa-4324681.jpg?tf=1200x",
-        "tags": [
-            "vivienda"
-        ],
-        "link": "https://www.businessinsider.es/vivienda/bbva-urge-vender-chalet-100-metros-reformado-cuesta-37900-euros-tiempo-limitado-1461085",
-        "date": "2025-05-18 17:00:03",
-        "sentiment_score": 0.18240417912602425
-    },
-    {
-        "title": "Según Forbes Cristiano Ronaldo es el deportista mejor pagado del mundo",
-        "image_url": "https://elluchador.info/wp-content/uploads/2025/05/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis_September_2023_cropped.jpg",
-        "tags": [
-            "deportes",
-            "venezuela"
-        ],
-        "link": "https://elluchador.info/?p=277617",
-        "date": "2025-05-18 16:40:50",
-        "sentiment_score": 0.6046882942318916
-    },
-    {
-        "title": "Directo | Sevilla - Real Madrid",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/05/18/mbappe-kjNI-U2301808399194K1G-758x531@RC.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiariomontanes.es/deportes/futbol/liga-primera/directo-sevilla-real-madrid-jornada37-20250518173837-dirc.html",
-        "date": "2025-05-18 16:39:38",
-        "sentiment_score": -0.013718567788600922
-    },
-    {
-        "title": "Primer contacto con sus familias de los dos vascos a los que el chavismo encarceló acusándoles sin pruebas de vínculos con el CNI",
-        "image_url": "https://phantom-elmundo.uecdn.es/fb7eae3fc46c11fc766f81749f5f6129/crop/9x20/812x556/f/webp/assets/multimedia/imagenes/2025/05/18/17475880754154.jpg",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://www.elmundo.es/internacional/2025/05/18/682a13b0fdddff452a8b457d.html",
-        "date": "2025-05-18 17:09:37",
-        "sentiment_score": -0.688402758911252
-    },
-    {
-        "title": "Festival ofensivo del Baskonia ante un Barça herido (110-98)",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1051edda-8386-41ea-aad0-9f101dd151e2_16-9-aspect-ratio_default_0_x1225y1928.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2025/05/18/festival-ofensivo-baskonia-barca-herido-9649634.html",
-        "date": "2025-05-18 17:05:50",
-        "sentiment_score": 0.5502534508705139
-    },
-    {
-        "title": "Esta es la calle más corta de Barcelona: mide solo cuatro metros y su nombre se remonta al siglo X",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/08/09/ciutat-vella/785431730_10832061_1706x960.jpg?contentId=785431730",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250518/esta-es-la-calle-mas-corta-de-barcelona-mide-solo-cuatro-metros-su-nombre-se-remonta-al-siglo/1003742658616_0.html",
-        "date": "2025-05-18 17:02:51",
-        "sentiment_score": 0.5764462202787399
-    },
-    {
-        "title": "Verstappen imparte una nueva lección magistral en Imola",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/05/18/verstappen-imparte-una-nueva-leccion-magistral-en-imola/",
-        "date": "2025-05-18 17:01:05",
-        "sentiment_score": 0.6787048764526844
-    },
-    {
-        "title": "Empezó en Barcelona: el empresario paquistaní que conquista España con sus supermercados italianos",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/05/15/vida/1003742657753_14583234_1706x960.jpg?contentId=1003742657753",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20250518/empezo-barcelona-empresario-paquistani-conquista-espana-supermercados-italianos-trt/1003742657744_0.html",
-        "date": "2025-05-18 17:00:00",
-        "sentiment_score": 0.07131701335310936
-    },
-    {
-        "title": "Marcos Giralt Torrente: \"No hay nada peor que escribir con deseo de venganza\"",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/05/14/letraglobal/1003742657452_14577937_1706x960.jpg?contentId=1003742657452",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/letraglobal/letras/20250518/marcos-giralt-torrente-no-escribir-deseo-venganza/1003742657759_0.html",
-        "date": "2025-05-18 17:00:00",
-        "sentiment_score": -0.025473758578300476
-    },
-    {
-        "title": "Operan de emergencia a Ferran Torres y surgen rumores de reencuentro con Sira Martínez",
-        "image_url": "https://pxcdn.2001online.com/2001/052025/1747587520142.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/operan-de-emergencia-a-ferran-torres-y-surgen-rumores-de-reencuentro-con-sira-martinez-202551813350",
-        "date": "2025-05-18 16:59:29",
-        "sentiment_score": -0.4655497595667839
-    },
-    {
-        "title": "Natalia Bryant se gradúa y honra el legado de su padre con la \"Mamba Negra\"",
-        "image_url": "https://pxcdn.2001online.com/2001/052025/1747589556768.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/natalia-bryant-se-gradua-y-honra-el-legado-de-su-padre-con-la-mamba-negra--202551813540",
-        "date": "2025-05-18 16:59:29",
-        "sentiment_score": 0.5260207056999207
-    },
-    {
-        "title": "La nueva decisión de Estados Unidos sobre los disparadores de reinicio forzado: lo que debe saber",
-        "image_url": "https://pxcdn.2001online.com/2001/052025/1747585826391.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/internacionales/la-nueva-decision-de-estados-unidos-sobre-los-disparadores-de-reinicio-forzado-lo-que-debe-saber-202551812500",
-        "date": "2025-05-18 16:50:00",
-        "sentiment_score": -0.5856364145874977
-    },
-    {
-        "title": "Venezolanos ganan medalla de bronce en competencia internacional de chocolate: Es trabajo duro y pasión",
-        "image_url": "https://pxcdn.2001online.com/2001/052025/1747583573732.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/nacionales/venezolanos-ganan-medalla-de-bronce-en-competencia-internacional-de-chocolate-es-trabajo-duro-y-pasion-202551812450",
-        "date": "2025-05-18 16:45:00",
-        "sentiment_score": 0.7713233791291714
-    },
-    {
-        "title": "El papa León XIV es invitado a México por la presidenta Claudia Sheinbaum",
-        "image_url": "https://pxcdn.2001online.com/2001/052025/1747585969114.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/internacionales/el-papa-leon-xiv-es-invitado-a-mexico-por-la-presidenta-claudia-sheinbaum-202551812330",
-        "date": "2025-05-18 16:33:00",
-        "sentiment_score": 0.14588095247745514
-    },
-    {
-        "title": "Delegación venezolana en misa de entronización del papa León XIV: Carmen Meléndez a la cabeza de la representación",
-        "image_url": "https://pxcdn.2001online.com/2001/052025/1747584776793.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/internacionales/delegacion-venezolana-en-misa-de-entronizacion-del-papa-leon-xiv-carmen-melendez-a-la-cabeza-de-la-representacion-20255181240",
-        "date": "2025-05-18 16:22:00",
-        "sentiment_score": 0.833222160115838
-    },
-    {
-        "title": "Masacre en Cauca: un venezolano entre las víctimas tras ataque armado en local nocturno",
-        "image_url": "https://pxcdn.2001online.com/2001/052025/1747577628304.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/migracion/masacre-en-cauca-un-venezolano-entre-las-victimas-tras-ataque-armado-en-local-nocturno-20255181200",
-        "date": "2025-05-18 16:00:00",
-        "sentiment_score": -0.5939258467406034
-    },
-    {
-        "title": "Empresario árabe asesinado en Margarita: delincuentes prenden fuego a su camioneta con él dentro",
-        "image_url": "https://pxcdn.2001online.com/2001/052025/1747583840378.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/empresario-arabe-asesinado-en-margarita-delincuentes-prenden-fuego-a-su-camioneta-con-el-dentro-202551811590",
-        "date": "2025-05-18 15:59:00",
-        "sentiment_score": -0.1824026256799698
-    },
-    {
-        "title": "Florida: esta ley favorece a comercios y anula cierta protección a consumidores desde el 1ro de julio",
-        "image_url": "https://pxcdn.2001online.com/2001/052025/1747581893081.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/internacionales/florida-esta-ley-favorece-a-comercios-y-anula-cierta-proteccion-a-consumidores-desde-el-1ro-de-julio-202551811450",
-        "date": "2025-05-18 15:45:00",
-        "sentiment_score": 0.1087193638086319
-    },
-    {
-        "title": "Capturan a dos sujetos en Caracas: contaban con sustancias estupefacientes",
-        "image_url": "https://pxcdn.2001online.com/2001/052025/1747582752265.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/capturan-a-dos-sujetos-en-caracas-contaban-con-sustancias-estupefacientes-202551811440",
-        "date": "2025-05-18 15:44:00",
-        "sentiment_score": -0.3976221978664398
-    },
-    {
         "title": "Sánchez felicita al europeísta Dan tras imponerse en la segunda vuelta de las elecciones presidenciales rumanas",
         "image_url": "https://www.infobae.com/resizer/v2/MLCHUFCP75AXBGUXSLY22MLSVA.jpg?auth=6eae291c6f86ee541c2b72cf6c7de117e22bf72dd646b52c2a30e3cb2a794974&height=1278&smart=true&width=1920",
         "tags": [
@@ -491,60 +118,6 @@ export default [
         "link": "https://www.abc.es/opinion/editorial-abc-sanchez-impone-mensaje-rtve-eurovision-20250519201532-nt.html",
         "date": "2025-05-18 18:48:03",
         "sentiment_score": -0.41797247529029846
-    },
-    {
-        "title": "Israel, 'twelve points'",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/05/15/IMG-20250514-WA0015-k5wD--170x119@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/chapu-apaolaza-israel-twelve-points-20250519184629-nt.html",
-        "date": "2025-05-18 18:01:00",
-        "sentiment_score": -0.1405039131641388
-    },
-    {
-        "title": "Un papado apasionante",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/05/15/estandar_20250515140055-Ri1pQukjJL8S3ykKR8aFudJ-170x119@Hoy.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/juan-manuel-de-prada-papado-apasionante-20250519133627-nt.html",
-        "date": "2025-05-18 18:00:48",
-        "sentiment_score": -0.14183279871940613
-    },
-    {
-        "title": "Una lenta agonía",
-        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/05/15/ancianos-kZxC--170x119@Las%20Provincias.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/luis-del-val-lenta-agonia-20250519125255-nt.html",
-        "date": "2025-05-18 17:57:45",
-        "sentiment_score": -0.20868514478206635
-    },
-    {
-        "title": "Una diva valiente, poderosa",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/05/06/sonda-Espacial-U64286512238FSW-170x119@El%20Comercio.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/jose-f-pelaez-diva-valiente-poderosa-20250519190714-nt.html",
-        "date": "2025-05-18 17:13:09",
-        "sentiment_score": -0.16486681997776031
-    },
-    {
-        "title": "Cataluña abre la convocatoria para el Bono Alquiler Joven: 250 euros al mes durante dos años",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FQNOY2LEXNHJ5AKEYYFXNFGKG4.jpg?auth=9e63dbb404a5066b540a5a6fdf18806b9d22036196ecf63225d58433f24ce35c&width=1200",
-        "tags": [
-            "cataluña",
-            "viviendas alquiler",
-            "jóvenes",
-            "ayudas públicas",
-            "vivienda"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-18/cataluna-abre-la-convocatoria-para-el-bono-alquiler-joven-250-euros-al-mes-durante-dos-anos.html",
-        "date": "2025-05-18 18:08:57",
-        "sentiment_score": 0.112063929438591
     },
     {
         "title": "«España no es un país 'capturado', pero debería estar mejor contra la corrupción»",
@@ -7950,5 +7523,554 @@ export default [
         "link": "https://2001online.com/farandula/isabel-allende-afirma-que-dejara-estados-unidos-si-el-pais-se-vuelve-autoritario-no-quiero-vivir-en-dictadura-202552120590",
         "date": "2025-05-22 01:01:00",
         "sentiment_score": -0.9313683845102787
+    },
+    {
+        "title": "La deuda acumulada del Reino Unido se sitúa en el 95,5 % del PIB",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/22/la-deuda-acumulada-del-reino-unido-se-situa-en-el-955-del-pib/",
+        "date": "2025-05-22 06:30:55",
+        "sentiment_score": -0.5629361569881439
+    },
+    {
+        "title": "El Banco central indio observa con \"optimismo cauteloso\" la economía del país",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/22/el-banco-central-indio-observa-con-optimismo-cauteloso-la-economia-del-pais/",
+        "date": "2025-05-22 06:30:39",
+        "sentiment_score": 0.45764685422182083
+    },
+    {
+        "title": "Una madre coge por error un tren y olvida a su bebé de seis meses en el coche: “¡Vengan rápido!”",
+        "image_url": "https://www.infobae.com/resizer/v2/QGHHUJP66ZH3JMJOXKMGWJGWQ4.jpg?auth=3fdc2d3ba501827ce7b645cde7ed789b544878c5ad12bb529b00a3372631d534&height=1447&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/22/una-madre-coge-por-error-un-tren-y-olvida-a-su-bebe-de-seis-meses-en-el-coche-vengan-rapido/",
+        "date": "2025-05-22 06:27:57",
+        "sentiment_score": -0.792040778324008
+    },
+    {
+        "title": "Los alumnos de la Policía Nacional perciben 460 euros: Marlaska les cobra 300 por los servicios de lavandería de la Academia",
+        "image_url": "https://www.infobae.com/resizer/v2/UPGEJCNUINFH5GC2HZPXFCJ2DM.jpg?auth=ed1aeba39de823485066e890e859b445dba3ef18d50862b35fe241d5f406b02d&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/22/los-alumnos-de-la-policia-nacional-perciben-460-euros-marlaska-les-cobra-300-por-los-servicios-de-lavanderia-de-la-academia/",
+        "date": "2025-05-22 06:24:18",
+        "sentiment_score": -0.3920134827494621
+    },
+    {
+        "title": "Tony Aguilar revela las primeras palabras de Melody tras la final de Eurovisión: “Estaba enfadada, dijo que esto siempre es lo mismo”",
+        "image_url": "https://www.infobae.com/resizer/v2/HC33EV366ZHPLANMJ56ZVSJFWE.jpg?auth=7e908db452fac014ae3f7c1dbddb411b8fb9ee013a0d53ec107e5b4e61f29f82&height=597&smart=true&width=946",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/22/tony-aguilar-revela-las-primeras-palabras-de-melody-tras-la-final-de-eurovision-estaba-enfadada-dijo-que-esto-siempre-es-lo-mismo/",
+        "date": "2025-05-22 06:22:44",
+        "sentiment_score": -0.3143210653215647
+    },
+    {
+        "title": "Soledad Núñez (Banco de España): \"no actuar frente al calentamiento tendrá mayor coste\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/22/soledad-nunez-banco-de-espana-no-actuar-frente-al-calentamiento-tendra-mayor-coste/",
+        "date": "2025-05-22 06:16:43",
+        "sentiment_score": -0.7743998626247048
+    },
+    {
+        "title": "Las comunidades del PP siguen sin aceptar la quita de deuda que sí quieren las del PSOE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/22/las-comunidades-del-pp-siguen-sin-aceptar-la-quita-de-deuda-que-si-quieren-las-del-psoe/",
+        "date": "2025-05-22 06:16:24",
+        "sentiment_score": -0.8499415926635265
+    },
+    {
+        "title": "Spotify retornó cerca de 137 millones de euros a los artistas españoles en 2024",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/22/spotify-retorno-cerca-de-137-millones-de-euros-a-los-artistas-espanoles-en-2024/",
+        "date": "2025-05-22 06:16:08",
+        "sentiment_score": 0.24339677393436432
+    },
+    {
+        "title": "La Asamblea de Madrid aprobará el dictamen de la comisión de investigación de Begoña Gómez",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/22/la-asamblea-de-madrid-aprobara-el-dictamen-de-la-comision-de-investigacion-de-begona-gomez/",
+        "date": "2025-05-22 06:15:51",
+        "sentiment_score": -0.05022946000099182
+    },
+    {
+        "title": "‘Supervivientes 2025′: Montoya y Terelu Campos protagonizan una tensa discusión y Borja toma una decisión respecto a su relación con Ana Solma",
+        "image_url": "https://www.infobae.com/resizer/v2/RWFSNMI6T5DPDET3CE3KM7ST44.png?auth=3de15f7b14001723804ee96d680747350222695fff5b1a982fbf03549e508709&height=436&smart=true&width=788",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/22/supervivientes-2025-montoya-y-terelu-campos-protagonizan-una-tensa-discusion-y-borja-toma-una-decision-respecto-a-su-relacion-con-ana-solma/",
+        "date": "2025-05-22 06:04:40",
+        "sentiment_score": -0.6869391165673733
+    },
+    {
+        "title": "Venezuela detiene a otro español acusado de «sabotear las elecciones con explosivos»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/22/1496669777-k8P-U701014480949niG-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/venezuela-detiene-espanol-acusado-sabotear-elecciones-explosivos-20250522070226-nt.html",
+        "date": "2025-05-22 05:05:31",
+        "sentiment_score": -0.23548316955566406
+    },
+    {
+        "title": "‘Pequeños Calvarios’, la comedia valenciana que mapea manías, obsesiones y miedos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AO3AUOVXRFAFNF5A4FNKMJSI44.jpg?auth=c2f87d0202833aefd60f04a9ef9d1dd5c2569762d5b55d4ba2b77b09f2c371bc&width=1200",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-22/pequenos-calvarios-la-comedia-valenciana-que-mapea-manias-obsesiones-y-miedos.html",
+        "date": "2025-05-22 04:50:45",
+        "sentiment_score": 0.22564000636339188
+    },
+    {
+        "title": "Ópera para animar el espíritu de las víctimas de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7AYNM6LWQFGN3NLT6KHIGAXFRE.jpg?auth=531401561571cd1a17c3be11342d43b642f6a451c2351e27503fd85f91be7207&width=1200",
+        "tags": [
+            "catarroja",
+            "ópera",
+            "aldaia",
+            "dana",
+            "valencia",
+            "comunidad valenciana",
+            "música clásica",
+            "teatro real"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-22/opera-para-animar-el-espiritu-de-las-victimas-de-la-dana.html",
+        "date": "2025-05-22 04:36:25",
+        "sentiment_score": 0.14635612070560455
+    },
+    {
+        "title": "La propuesta del PSOE para la regularización: autorizaciones de un año y sin condicionarlas a un contrato de trabajo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TV5YVBXCURGI5I6INFXC56E6OY.JPG?auth=96c1c965492cfe39c5806497825d4dc9a4f5c2955380ff7044f1b43f46706dc9&width=1200",
+        "tags": [
+            "inmigración irregular",
+            "juntsxcat",
+            "eaj-pnv",
+            "migrantes",
+            "inmigración",
+            "regularización inmigrantes",
+            "españa",
+            "pp",
+            "ceoe"
+        ],
+        "link": "https://elpais.com/espana/2025-05-22/la-propuesta-del-psoe-para-la-regularizacion-autorizaciones-de-un-ano-y-sin-condicionarlas-a-un-contrato-de-trabajo.html",
+        "date": "2025-05-22 03:40:00",
+        "sentiment_score": -0.15083393082022667
+    },
+    {
+        "title": "El PSOE cierra filas con Cerdán: “Si hubiera algo, el presidente le habría cortado la cabeza”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TC4Y52BJM5BEZEH65PTRXPO64A.jpg?auth=017ea2d6550409489889697511b3f1ecf5e88298f90f105dd8304336a276eb24&width=1200",
+        "tags": [
+            "uco",
+            "justicia",
+            "patxi lópez",
+            "psoe",
+            "pedro sánchez",
+            "gobierno de españa",
+            "españa",
+            "pp",
+            "santos cerdán",
+            "juan lobato",
+            "caso koldo"
+        ],
+        "link": "https://elpais.com/espana/2025-05-22/el-psoe-cierra-filas-con-cerdan-si-hubiera-algo-el-presidente-le-habria-cortado-la-cabeza.html",
+        "date": "2025-05-22 03:40:00",
+        "sentiment_score": -0.5675254166126251
+    },
+    {
+        "title": "El cierre de la oficina comercial de la Generalitat en Tel Aviv, un gesto simbólico pero que rompe complicidades",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Q2LBXOTOCZGD3K22N4D2BCCG2Q.jpg?auth=1b9d18514c3773435a16f0ae0985889048c3f5b541b561a4a02212b661f8a638&width=1200",
+        "tags": [
+            "palestina",
+            "cataluña",
+            "juntsxcat",
+            "israel",
+            "carles puigdemont",
+            "jordi pujol",
+            "generalitat cataluña",
+            "salvador illa",
+            "independencia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-05-22/el-cierre-de-la-oficina-comercial-de-la-generalitat-en-tel-aviv-un-gesto-simbolico-pero-que-rompe-complicidades.html",
+        "date": "2025-05-22 03:30:01",
+        "sentiment_score": 0.23249608278274536
+    },
+    {
+        "title": "Llegan las últimas tormentas de mayo y una nueva caída de las temperaturas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GYC43QG2U37B6LA6HDQ57DRUAA.jpg?auth=bf71ed93995db64815c6304a67475b3f1b0a83ffd11f67edd3537adb4d38571d&width=1200",
+        "tags": [
+            "el tiempo",
+            "temperaturas máximas",
+            "predicción meteorológica",
+            "meteorología",
+            "temperaturas mínimas",
+            "climas",
+            "temperaturas",
+            "noticias de españa",
+            "aemet"
+        ],
+        "link": "https://elpais.com/espana/2025-05-22/llegan-las-ultimas-tormentas-de-mayo-y-una-nueva-caida-de-las-temperaturas.html",
+        "date": "2025-05-22 03:30:01",
+        "sentiment_score": -0.06675233691930771
+    },
+    {
+        "title": "Se busca al taxista de Valladolid que no llevó a una embarazada al hospital",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HDQGQYD2INCPZEZZLMYUG6EPHI.jpg?auth=fd6496c3b13dbb7da9152dbaf2d92397bbf020fa2537575b3e41f56726b905a3&width=1200",
+        "tags": [
+            "policía",
+            "bebés",
+            "españa",
+            "parto",
+            "castilla y león",
+            "valladolid",
+            "taxis",
+            "policía municipal",
+            "partos naturales"
+        ],
+        "link": "https://elpais.com/espana/2025-05-22/se-busca-al-taxista-de-valladolid-que-no-llevo-a-una-embarazada-al-hospital.html",
+        "date": "2025-05-22 03:30:01",
+        "sentiment_score": -0.11628574132919312
+    },
+    {
+        "title": "La playa de La Malagueta pide auxilio",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WCAO53IFKVA2FDEU6IJAE2WYUU.jpg?auth=cd6cba15a287e758239dfd8c225c2fae47f8b5c82fdd3265a2b51f02c5269c39&width=1200",
+        "tags": [
+            "medio ambiente",
+            "turismo playa",
+            "costa del sol",
+            "andalucía",
+            "turismo",
+            "españa",
+            "playas",
+            "pp",
+            "málaga",
+            "turismo masivo",
+            "costas"
+        ],
+        "link": "https://elpais.com/espana/2025-05-22/la-playa-de-la-malagueta-pide-auxilio.html",
+        "date": "2025-05-22 03:30:01",
+        "sentiment_score": -0.09099599719047546
+    },
+    {
+        "title": "Un director de sucursal acepta devolver los dos millones de euros que robó a 39 clientes que confiaban en él, incluido su tío",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UTXLJOY4XZAKHLL7FCXBERCMSI.jpg?auth=4dd3950ba7e71d09e9538d6568803bd243dc048951f3dec5857ad4ecab8d633a&width=1200",
+        "tags": [
+            "tribunales",
+            "getafe",
+            "sentencias",
+            "madrid",
+            "investigación judicial",
+            "estafas",
+            "leganés",
+            "juicios",
+            "grupo caja rural",
+            "sucesos",
+            "bancos",
+            "cajas ahorro",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-05-22/un-director-de-sucursal-acepta-devolver-los-dos-millones-de-euros-que-robo-a-39-clientes-que-confiaban-en-el-incluido-su-tio.html",
+        "date": "2025-05-22 03:30:01",
+        "sentiment_score": -0.14349321275949478
+    },
+    {
+        "title": "Un enjambre de influencias, dinero y poder rodea el asesinato de Andrii Portnov",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/R6SFGZ62K5HMPEN2MCNPLDFHLM.JPG?auth=da99803cce63e5084e455cee0720d34017ea322285e4a2c7deb46dbf24492da8&width=1200",
+        "tags": [
+            "madrid",
+            "investigación judicial",
+            "ucrania",
+            "sicarios",
+            "rusia",
+            "sucesos",
+            "policía nacional",
+            "comunidad de madrid",
+            "asesinatos"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-05-22/un-enjambre-de-influencias-dinero-y-poder-rodea-el-asesinato-de-andrii-portnov.html",
+        "date": "2025-05-22 03:30:00",
+        "sentiment_score": -0.7322932425886393
+    },
+    {
+        "title": "La identidad de la mujer rubia que acompaña al rey Juan Carlos en sus visitas a Sangenjo",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/05/mujer-rubia-juan-carlos-sangenjo.jpg",
+        "tags": [
+            "rey juan carlos",
+            "galicia",
+            "celebrities",
+            "gente"
+        ],
+        "link": "https://theobjective.com/gente/2025-05-22/identidad-mujer-rubia-rey-juan-carlos/",
+        "date": "2025-05-22 06:30:00",
+        "sentiment_score": 0.2678014934062958
+    },
+    {
+        "title": "Un nuevo peldaño para el Olímpico: «León se lo merece, nos pone en el mapa del fútbol femenino»",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/05/22/IMG_0542--366x256.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/nuevo-peldano-olimpico-leon-merece-pone-mapa-20250522111143-nt.html",
+        "date": "2025-05-22 06:17:12",
+        "sentiment_score": 0.7461946904659271
+    },
+    {
+        "title": "Adrián Navalón, psicólogo: \"La economía se ha desarrollado sin tener en cuenta la psicología\"",
+        "image_url": "https://static.grupojoly.com/clip/2d9cf85b-5536-4470-a9b1-e0b40ed54f7f_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodesevilla.es/salud/investigacion-tecnologia/adrian-navalon-psicologo-economia-desarrollado_0_2003983992.html",
+        "date": "2025-05-22 06:00:46",
+        "sentiment_score": -0.7533031739294529
+    },
+    {
+        "title": "Eduardo Coudet, de las dudas a las certezas",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/14fa9c09-5e18-45c4-ab66-4d0b3357ff1a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2025/05/22/coudet-dudas-certezas-alaves-9663944.html",
+        "date": "2025-05-22 06:00:19",
+        "sentiment_score": 0.4596351385116577
+    },
+    {
+        "title": "La casa olvidada de la condesa de Montarco, madre de Alejandra de Rojas: 50 años en ruinas",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/05/alejandra-rojas-casa-dona-blanca.jpg",
+        "tags": [
+            "madrid",
+            "casas",
+            "gente",
+            "celebrities"
+        ],
+        "link": "https://theobjective.com/gente/2025-05-22/casa-olvidada-condesa-montarco-alejandra-rojas/",
+        "date": "2025-05-22 06:00:00",
+        "sentiment_score": -0.8967284904792905
+    },
+    {
+        "title": "La ceremonia de graduación de la infanta Sofía: un momento privado con sus padres, los Reyes",
+        "image_url": "https://static.grupojoly.com/clip/542427aa-9f83-4653-8c41-4547c7d66c86_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodealmeria.es/gente/ceremonia-graduacion-infanta-sofia-momento_0_2003984001.html",
+        "date": "2025-05-22 05:41:18",
+        "sentiment_score": -0.542158342897892
+    },
+    {
+        "title": "30 multireincidents detinguts a l’Hospitalet de Llobregat, Cornellà i Esplugues en l’operatiu Kanpai",
+        "image_url": "https://www.eltriangle.eu/wp-content/uploads/2025/05/e711e23d-e81a-42dc-81f2-5ab0523ec7d8-e1747906889298-300x194.jpeg",
+        "tags": [
+            "al carrer",
+            "actualitat",
+            "mossos d'esquadra",
+            "guàrdia urbana",
+            "policia nacional"
+        ],
+        "link": "https://www.eltriangle.eu/2025/05/22/30-multireincidents-detinguts-a-lhospitalet-de-llobregat-cornella-i-esplugues-en-loperatiu-kanpai/",
+        "date": "2025-05-22 06:30:35",
+        "sentiment_score": -0.6017155572772026
+    },
+    {
+        "title": "Dos carriles cortados en la AP-7 en Llinars del Vallès (Barcelona) por un accidente",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-dos-carriles-cortados-ap-llinars-valles-barcelona-accidente-20250522081740.html",
+        "date": "2025-05-22 06:17:40",
+        "sentiment_score": -0.6050037890672684
+    },
+    {
+        "title": "Confirmado: el Meteocat anuncia más lluvias en Barcelona a partir de esta hora",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/31/672342bb4fd93.r_d.2453-3155.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20250522/1002469222/confirmado-meteocat-anuncia-mas-lluvias-barcelona-partir-hora-dct.html",
+        "date": "2025-05-22 06:15:24",
+        "sentiment_score": 0.2562885582447052
+    },
+    {
+        "title": "5 hospitalizados por un incendio en una vivienda en Sabadell (Barcelona)",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250522081050_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-hospitalizados-incendio-vivienda-sabadell-barcelona-20250522081050.html",
+        "date": "2025-05-22 06:10:50",
+        "sentiment_score": -0.8017091955989599
+    },
+    {
+        "title": "Impermeables a la realidad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b0ef25c-7ed1-4661-a3fb-350d977d4810_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/opinion/2025/05/22/impermeables-realidad-117682344.html",
+        "date": "2025-05-22 06:01:20",
+        "sentiment_score": -0.47366444766521454
+    },
+    {
+        "title": "El proveedor de felicidad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47f83d14-fcaf-4c1a-85a3-f75f3974864c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/opinion/2025/05/22/proveedor-felicidad-117678309.html",
+        "date": "2025-05-22 06:01:18",
+        "sentiment_score": 0.21330620348453522
+    },
+    {
+        "title": "La sequía provocó en Catalunya la mayor extinción de mariposas desde que hay registros",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/05/22/682eb8b3606b2.r_d.967-283-4384.jpeg",
+        "tags": [
+            "natural"
+        ],
+        "link": "https://www.lavanguardia.com/natural/20250522/10707997/sequia-provoco-catalunya-mayor-extincion-local-mariposas-hay-registros.html",
+        "date": "2025-05-22 06:00:33",
+        "sentiment_score": -0.10295254737138748
+    },
+    {
+        "title": "Masajes Barcelona; un puente entre cuerpo, mente y ciudad",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7362670",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5299975/masajes-barcelona-puente-entre-cuerpo-mente-ciudad",
+        "date": "2025-05-22 06:00:00",
+        "sentiment_score": 0.15003176033496857
+    },
+    {
+        "title": "Piden el uso de pistolas eléctricas para evitar lo ocurrido en el aeropuerto de Gran Canaria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b0f71f3-11e7-4d1d-80a0-a56b61c8e0cb_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/sociedad/2025/05/22/piden-pistolas-electricas-evitar-ocurrido-117678457.html",
+        "date": "2025-05-22 05:59:57",
+        "sentiment_score": -0.4407322481274605
+    },
+    {
+        "title": "Saime: conozca cuáles son los recaudos necesarios para solicitar datos filiatorios a nivel nacional",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747872626276.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/saime-conozca-cuales-son-los-recaudos-necesarios-para-solicitar-datos-filiatorios-a-nivel-nacional-2025522020",
+        "date": "2025-05-22 04:02:00",
+        "sentiment_score": 0.010611295700073242
+    },
+    {
+        "title": "CONVOCATORIA BFC BANCO FONDO COMÚN 22 MAY 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747756715857.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "publi servicios - legales"
+        ],
+        "link": "https://2001online.com/legales/convocatoria-bfc-banco-fondo-comun-22-may-2025-2025522000",
+        "date": "2025-05-22 04:00:00",
+        "sentiment_score": 0.014101851731538773
+    },
+    {
+        "title": "Cabello se pronuncia sobre el militar estadounidense liberado este 20 de mayo: Él no vino para acá hacer un picnic",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747879552093.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/cabello-se-pronuncia-sobre-el-militar-estadounidense-liberado-este-20-de-mayo-el-no-vino-para-aca-hacer-un-picnic-202552123560",
+        "date": "2025-05-22 03:56:00",
+        "sentiment_score": -0.14901788532733917
+    },
+    {
+        "title": "Asesinan a dos empleados de la embajada israelí frente al Museo Judío en Washington: conozca los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747886042982.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/asesinan-a-dos-empleados-de-la-embajada-israeli-frente-al-museo-judio-en-washington-conozca-los-detalles-202552123540",
+        "date": "2025-05-22 03:54:00",
+        "sentiment_score": -0.7229039650410414
+    },
+    {
+        "title": "Estados Unidos deporta a dos cubanos a Sudán del Sur: tendrían antecedentes penales",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747884466179.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/estados-unidos-deporta-a-dos-cubanos-a-sudan-del-sur-tendrian-antecedentes-penales-202552123420",
+        "date": "2025-05-22 03:43:00",
+        "sentiment_score": -0.49327149987220764
+    },
+    {
+        "title": "Pensionados del IVSS pueden recibir pagos y transferencias por veMonedero: estos son los siete pasos",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747878368578.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/pensionados-del-ivss-pueden-recibir-pagos-y-transferencias-por-vemonedero-estos-son-los-siete-pasos-202552123400",
+        "date": "2025-05-22 03:40:00",
+        "sentiment_score": -0.09094195440411568
+    },
+    {
+        "title": "La nueva Visa \"tarjeta dorada\" de Donald Trump estará disponible en pocos días: así funcionará el registro",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747882464439.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/la-nueva-visa-tarjeta-dorada-de-donald-trump-estara-disponible-en-pocos-dia-asi-funcionara-el-registro-202552123100",
+        "date": "2025-05-22 03:20:00",
+        "sentiment_score": 0.643355930224061
+    },
+    {
+        "title": "El estado de Estados Unidos que podría permitir conducir con la licencia vencida: conozca la propuesta",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747884067214.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/el-estado-de-estados-unidos-que-podria-permitir-conducir-con-la-licencia-vencida-conozca-la-propuesta-202552123150",
+        "date": "2025-05-22 03:15:00",
+        "sentiment_score": 0.15967918932437897
+    },
+    {
+        "title": "Mujer celebraba su cumpleños en el cine y el techo le cayó encima: veía la película \"Destino Final\"",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747869550336.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/mujer-celebraba-su-cumplenos-en-el-cine-y-el-techo-le-cayo-encima-veia-la-pelicula-destino-final--202552123150",
+        "date": "2025-05-22 03:15:00",
+        "sentiment_score": -0.35683561861515045
+    },
+    {
+        "title": "Policía de Texas: arrestan a tres inmigrantes escondidos en pacas de heno",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747882702079.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/policia-de-texas-arrestan-a-tres-inmigrantes-escondidos-en-pacas-de-heno-20255212330",
+        "date": "2025-05-22 03:03:00",
+        "sentiment_score": -0.16431009024381638
     }
 ];
