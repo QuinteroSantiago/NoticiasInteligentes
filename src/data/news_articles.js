@@ -120,66 +120,6 @@ export default [
         "sentiment_score": -0.08523818850517273
     },
     {
-        "title": "La IA permite que donantes y receptores hagan 'match' en trasplantes de hígado",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/05/19/equipo-briceno-RFipp0ktpGEgjFdMeuJ7I7L-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/ia-permite-donantes-receptores-hagan-match-trasplantes-20250519160455-nt.html",
-        "date": "2025-05-19 14:09:02",
-        "sentiment_score": -0.09885273873806
-    },
-    {
-        "title": "Hito histórico en cirugía: Realizan el primer trasplante de vejiga en un ser humano",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/05/19/primer-trasplante-vejiga-RchyogUAOsqEvUplGIkwn2N-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/hito-historico-cirugia-realizan-primer-trasplante-vejiga-20250519154450-nt.html",
-        "date": "2025-05-19 13:48:31",
-        "sentiment_score": -0.05330526828765869
-    },
-    {
-        "title": "Rusia prohíbe a Amnistía Internacional y la declara una organización «indeseable»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/05/19/amnistia-internacional-kH6H-U70998156823NjH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-prohibe-amnistia-internacional-declara-organizacion-indeseable-20250519131745-nt.html",
-        "date": "2025-05-19 11:17:45",
-        "sentiment_score": -0.15277604758739471
-    },
-    {
-        "title": "Rusia sigue ganando terreno en Ucrania horas antes de la llamada de Trump a Putin",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/05/19/vladimirputin-kxgC-U70997890289AEG-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-sigue-ganando-terreno-ucrania-horas-llamada-20250519131445-nt.html",
-        "date": "2025-05-19 11:14:46",
-        "sentiment_score": -0.272024929523468
-    },
-    {
-        "title": "Los funcionarios llevan la protesta por los salarios a Moncloa",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/05/19/1407342845-RNxggpOE3cOuAG6aWiNjjjJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/funcionarios-llevan-protesta-salarios-moncloa-20250519124946-nt.html",
-        "date": "2025-05-19 10:49:47",
-        "sentiment_score": -0.08426463603973389
-    },
-    {
-        "title": "Las subidas del salario mínimo se cebaron con el empleo en los negocios más pequeños",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/19/camarera-piso-hotel-Rd7ymokubx164wylYYrcX8K-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/subidas-salario-minimo-cebaron-empleo-negocios-pequenos-20250519122625-nt.html",
-        "date": "2025-05-19 10:28:14",
-        "sentiment_score": -0.09056010842323303
-    },
-    {
         "title": "Reabierto el puente sobre el barranco del Poyo que dañó la riada y que conecta Alaquàs y Torrent",
         "image_url": "https://imagenes.elpais.com/resizer/v2/DRBPRJCUSVBLRMEFEFM6W6TZRM.jpeg?auth=e66d3e906c5ecc63eb4a382abd36ff7b4a6cd2c7b3049d40e8bc6099f01bdd91&width=1200",
         "tags": [
@@ -7966,5 +7906,365 @@ export default [
         "link": "https://2001online.com/nacionales/expo-feria-del-cafe-biscucuy-2025-finalizo-con-exito-202552217190",
         "date": "2025-05-22 21:19:00",
         "sentiment_score": 0.5434144884347916
+    },
+    {
+        "title": "Silvia Pérez Cruz y Salvador Sobral presentan su proyecto en conjunto en ‘La Revuelta’ y cuentan cómo se conocieron: “Fue una epifanía de música”",
+        "image_url": "https://www.infobae.com/resizer/v2/EBOWFVBMBFCZBBD3PANG3CMSDQ.png?auth=557d6c838a262440d83433056d5546b0a1636196c26b668a130b6b5e214523ec&height=599&smart=true&width=1123",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/22/silvia-perez-cruz-y-salvador-sobral-presentan-su-proyecto-en-conjunto-en-la-revuelta-y-cuentan-como-se-conocieron-fue-una-epifania-de-musica/",
+        "date": "2025-05-22 23:40:09",
+        "sentiment_score": 0.48686703853309155
+    },
+    {
+        "title": "Una cita de ‘First Dates’ entre dos solteros que sale mal desde el principio: “Con una falda me hubieras gustado más”",
+        "image_url": "https://www.infobae.com/resizer/v2/HDC322NBU5BW3HI5LKRV2AYEHQ.jpg?auth=e5033da15c093e153d0cdc50c4a347c891441843b1c4b1b7215e3e1ddf1a864a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/05/22/una-cita-de-first-dates-entre-dos-solteros-que-sale-mal-desde-el-principio-con-una-falda-me-hubieras-gustado-mas/",
+        "date": "2025-05-22 23:38:05",
+        "sentiment_score": -0.867522893473506
+    },
+    {
+        "title": "De la casa de la playa a la del pueblo, o los pisos vacíos: así te afectaría la nueva tributación que prepara el Gobierno",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/23/1426381606-RZ8UBZlAIWbmvwntpDmnikN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/casa-playa-pueblo-pisos-vacios-afectaria-nueva-20250523031442-nt.html",
+        "date": "2025-05-23 01:14:42",
+        "sentiment_score": -0.14627857506275177
+    },
+    {
+        "title": "El PSOE quiere subir los impuestos a la segunda vivienda y los pisos vacíos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/05/23/1492437522-Rl6I6tSzfbVedFdRbpCHPRI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/psoe-quiere-subir-impuestos-segunda-vivienda-pisos-20250523204413-nt.html",
+        "date": "2025-05-23 01:13:33",
+        "sentiment_score": -0.08354538679122925
+    },
+    {
+        "title": "La nueva jubilación anticipada quedará limitada a un puñado de trabajos de riesgo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/23/consrtruccion-protesta-jubilacion-anticipada-efe-Rw7wnYGVHOqzssbf7Rd3iYO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/nueva-jubilacion-anticipada-quedara-limitada-punado-trabajos-20250523193212-nt.html",
+        "date": "2025-05-23 01:11:49",
+        "sentiment_score": -0.07495984435081482
+    },
+    {
+        "title": "La vacuna española contra la tuberculosis a la que le faltan 22 millones de euros",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/05/22/martin-carlos.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/vacuna-espanola-tuberculosis-faltan-millones-euros-20250522185602-nt.html",
+        "date": "2025-05-23 00:57:15",
+        "sentiment_score": -0.03686630725860596
+    },
+    {
+        "title": "Teoría y sentimiento del portero de fútbol",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/05/22/cOURTOIS-RahTFeR8GcGYCS0aw5STMmM-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-teoria-sentimiento-portero-futbol-20250522023250-nt.html",
+        "date": "2025-05-23 00:33:03",
+        "sentiment_score": -0.005732715129852295
+    },
+    {
+        "title": "¿Qué funciona para el dolor lumbar?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/05/22/2505saludespaldainterior.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/funciona-dolor-lumbar-20250522014405-nt.html",
+        "date": "2025-05-22 23:44:05",
+        "sentiment_score": -0.19969330728054047
+    },
+    {
+        "title": "Madrid acogerá la fase final del Eurobasket 2029",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2025/05/23/madrid-acogera-fase-final-eurobasket-117726801.html",
+        "date": "2025-05-23 02:01:07",
+        "sentiment_score": 0.01224730908870697
+    },
+    {
+        "title": "El CTT Alaior debate si renunciar al ascenso a Segunda División: «No podemos hacer esos viajes»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3315807.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/deportes/polideportivo/2025/05/23/2392949/ctt-alaior-debate-renunciar-ascenso.html",
+        "date": "2025-05-23 02:00:01",
+        "sentiment_score": -0.6127031650394201
+    },
+    {
+        "title": "Frentes de batalla",
+        "image_url": "https://uh.gsstatic.es/autor/enrique-lazaro/10839.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/05/23/2392729/frentes-batalla.html",
+        "date": "2025-05-23 02:00:01",
+        "sentiment_score": -0.29822808504104614
+    },
+    {
+        "title": "Modric se despide este sábado del Bernabéu y dejará el Real Madrid",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/05/foto-1-27.jpg",
+        "tags": [
+            "deportes",
+            "real madrid",
+            "modric",
+            "despedida",
+            "noticias destacadas"
+        ],
+        "link": "https://elsiglo.com.ve/modric-se-despide-este-sabado-del-bernabeu-y-dejara-el-real-madrid/",
+        "date": "2025-05-23 01:57:44",
+        "sentiment_score": -0.16319505870342255
+    },
+    {
+        "title": "¿Quieres ser protagonista de una película de terror en Jerez?",
+        "image_url": "https://static.grupojoly.com/clip/2161b123-5cd0-4089-83ed-fcde11edf7d5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/quieres-protagonista-pelicula-terror-jerez_0_2003989425.html",
+        "date": "2025-05-23 01:30:47",
+        "sentiment_score": -0.07543247193098068
+    },
+    {
+        "title": "Agenda de León: toda la programación hasta el 30 de mayo",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/05/21/682e35ec38be6.jpeg",
+        "tags": [
+            "agenda de león"
+        ],
+        "link": "https://www.diariodeleon.es/ocio/agenda-de-leon/250523/2048796/destinos.html",
+        "date": "2025-05-23 01:30:00",
+        "sentiment_score": 0.5897417683154345
+    },
+    {
+        "title": "Gerard Piqué bajo la lupa: abogado denuncia supuesto conflicto de intereses en contrato de la Supercopa de España",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747963398052.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/gerard-pique-bajo-la-lupa-abogado-denuncia-supuesto-conflicto-de-intereses-en-contrato-de-la-supercopa-de-espana-202552222100",
+        "date": "2025-05-23 01:17:35",
+        "sentiment_score": -0.6155778598040342
+    },
+    {
+        "title": "Rodrygo tiene como pretendiente a este grande de LaLiga (+Video)",
+        "image_url": "https://pxcdn.meridiano.net/052025/1747962911993.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/rodrygo-tiene-como-pretendiente-a-este-grande-de-laliga--202552221110",
+        "date": "2025-05-23 01:11:00",
+        "sentiment_score": 0.00932590663433075
+    },
+    {
+        "title": "Las ciencias ómicas y la alimentación",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/ciencias-omicas-alimentacion_0_2003991138.html",
+        "date": "2025-05-23 01:08:15",
+        "sentiment_score": -0.004605092108249664
+    },
+    {
+        "title": "Alerta social en Francia por la influencia e infiltración del radicalismo islámico: \"Es una amenaza\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/570fc425fbd7581c5232d4039a706301/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/22/17479212430671.jpg",
+        "tags": [
+            "emmanuel macron",
+            "francia",
+            "artículos carlos fresneda"
+        ],
+        "link": "https://www.elmundo.es/internacional/2025/05/23/682f2138fc6c834e2e8b4595.html",
+        "date": "2025-05-23 01:00:16",
+        "sentiment_score": -0.16290494799613953
+    },
+    {
+        "title": "Adrián Fiorenza: «Venezuela es un punto máximo en mi trayectoria como entrenador»",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/05/5008468364842085786-1.jpg",
+        "tags": [
+            "deportes",
+            "voleibol",
+            "voleibol femenino",
+            "seleccion",
+            "venezuela"
+        ],
+        "link": "https://elsiglo.com.ve/adrian-fiorenza-venezuela-es-un-punto-maximo-en-mi-trayectoria-como-entrenador/",
+        "date": "2025-05-23 02:00:30",
+        "sentiment_score": 0.8326981626451015
+    },
+    {
+        "title": "La nueva vida de Jorge Lorenzo alejado de Mallorca: de pentacampeón del mundo de motociclismo a productor de un podcast de éxito",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/05/23/2392409/nueva-vida-jorge-lorenzo-alejado-mallorca-pentacampeon-del-mundo-motociclismo-productor-podcast-exito.html",
+        "date": "2025-05-23 02:00:01",
+        "sentiment_score": 0.5865497663617134
+    },
+    {
+        "title": "El Banco de España lo confirma: a partir de ahora, cuidado con pagar el alquiler con una transferencia bancaria",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3315031.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/05/23/2392521/banco-espana-confirma-partir-ahora-cuidado-pagar-alquiler-una-transferencia-bancaria.html",
+        "date": "2025-05-23 02:00:01",
+        "sentiment_score": -0.6332707479596138
+    },
+    {
+        "title": "Josep Maria Llompart: un siglo de poesía y reivindicación",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3315065.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/05/23/2392539/josep-llompart-siglo-poesia-reivindicacion-referente-literatura-cultura-catalanas.html",
+        "date": "2025-05-23 02:00:01",
+        "sentiment_score": 0.37580934166908264
+    },
+    {
+        "title": "Sor Lucía Caram: «Dios sacaría a latigazos de su templo a muchos»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3315655.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2025/05/23/2392867/sor-lucia-caram-dios-sacaria-latigazos-templo-muchos.html",
+        "date": "2025-05-23 02:00:01",
+        "sentiment_score": -0.5367490351200104
+    },
+    {
+        "title": "«Casi todos los días pienso en dedicarme a otra cosa»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3315667.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/05/23/2392877/enric-gonzalez-casi-todos-dias-pienso-dedicarme-otra-cosa.html",
+        "date": "2025-05-23 02:00:01",
+        "sentiment_score": -0.15166300535202026
+    },
+    {
+        "title": "El límite de coches para ir a Eivissa este verano provoca un aumento de reservas para venir a Menorca",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3315709.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/05/23/2392899/limite-coches-para-eivissa-este-verano-deriva-mas-turistas-menorca.html",
+        "date": "2025-05-23 02:00:01",
+        "sentiment_score": -0.3706488460302353
+    },
+    {
+        "title": "Cabello de ensueño: el aguacate y pepino son el único elixir que tu melena necesita",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747965254620.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/cabello-de-ensueno-el-aguacate-y-pepino-son-el-unico-elixir-que-tu-melena-necesita-202552222100",
+        "date": "2025-05-23 02:10:00",
+        "sentiment_score": 0.3084126375615597
+    },
+    {
+        "title": "Desmantelan a banda dedicada al tráfico de drogas en Caracas: fueron aprehendidas cinco personas",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747965146470.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/desmantelan-a-banda-dedicada-al-trafico-de-drogas-en-caracas-fueron-aprehendidas-cinco-personas-20255222230",
+        "date": "2025-05-23 02:03:00",
+        "sentiment_score": -0.052900999784469604
+    },
+    {
+        "title": "Así puedes encontrar a los aliados comerciales con bajada de inicial en Cashea: estos son los pasos",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747960050869.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/asi-puedes-encontrar-a-los-aliados-comerciales-con-bajada-de-inicial-en-cashea-estos-son-los-pasos-20255222200",
+        "date": "2025-05-23 02:00:00",
+        "sentiment_score": -0.024610698223114014
+    },
+    {
+        "title": "Comienzan las movilizaciones por Memorial Day: reportan posibles retrasos en el aeropuerto de Newark",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747965698116.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/comienzan-las-movilizaciones-por-memorial-day-reportan-posibles-retrasos-en-el-aeropuerto-de-newark-20255222200",
+        "date": "2025-05-23 02:00:00",
+        "sentiment_score": -0.7439348567277193
+    },
+    {
+        "title": "Justin Bieber retira mensaje polémico dedicado a Hailey en redes sociales",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747966785496.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/justin-bieber-retira-mensaje-polemico-dedicado-a-hailey-en-redes-sociales-202552221580",
+        "date": "2025-05-23 01:58:00",
+        "sentiment_score": -0.4957997091114521
+    },
+    {
+        "title": "Niña peruana se viraliza al ser traductora en aeropuerto de Estados Unidos: ayudó a una familia migrante",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747962840462.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/nina-peruana-se-viraliza-al-ser-traductora-en-aeropuerto-de-estados-unidos-ayudo-a-una-familia-migrante-202552221550",
+        "date": "2025-05-23 01:55:00",
+        "sentiment_score": 0.06990810483694077
+    },
+    {
+        "title": "Saime: estos son los documentos que debe consignar en un caso de usurpación de identidad",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747271532661.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/saime-estos-son-los-documentos-que-debe-consignar-en-un-caso-de-usurpacion-de-identidad-202552221550",
+        "date": "2025-05-23 01:55:00",
+        "sentiment_score": -0.7106381449848413
+    },
+    {
+        "title": "Rejuvenece: cortes de pelo que hacen a mujeres de 60 años lucir de 40",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747852081827.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/rejuvenece-cortes-de-pelo-que-hacen-a-mujeres-de-60-anos-lucir-de-40-202552221450",
+        "date": "2025-05-23 01:45:00",
+        "sentiment_score": 0.4137412738054991
+    },
+    {
+        "title": "En video: abuela de Ángela Aguilar le dedica unas palabras a Christian Nodal",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747945125981.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/en-video-abuela-de-angela-aguilar-le-dedica-unas-palabras-a-christian-nodal-202552221400",
+        "date": "2025-05-23 01:40:00",
+        "sentiment_score": 0.5081738233566284
+    },
+    {
+        "title": "Elle Fanning y Kieran Culkin se unen a Los juegos del hambre: Amanecer en la cosecha",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1747965005591.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/elle-fanning-y-kieran-culkin-se-unen-a-los-juegos-del-hambre-amanecer-en-la-cosecha-202552221350",
+        "date": "2025-05-23 01:35:00",
+        "sentiment_score": -0.1479734554886818
     }
 ];
