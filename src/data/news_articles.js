@@ -1,265 +1,5 @@
 export default [
     {
-        "title": "La deuda acumulada del Reino Unido se sitúa en el 95,5 % del PIB",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/22/la-deuda-acumulada-del-reino-unido-se-situa-en-el-955-del-pib/",
-        "date": "2025-05-22 06:30:55",
-        "sentiment_score": -0.5629361569881439
-    },
-    {
-        "title": "El Banco central indio observa con \"optimismo cauteloso\" la economía del país",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/22/el-banco-central-indio-observa-con-optimismo-cauteloso-la-economia-del-pais/",
-        "date": "2025-05-22 06:30:39",
-        "sentiment_score": 0.45764685422182083
-    },
-    {
-        "title": "Una madre coge por error un tren y olvida a su bebé de seis meses en el coche: “¡Vengan rápido!”",
-        "image_url": "https://www.infobae.com/resizer/v2/QGHHUJP66ZH3JMJOXKMGWJGWQ4.jpg?auth=3fdc2d3ba501827ce7b645cde7ed789b544878c5ad12bb529b00a3372631d534&height=1447&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/05/22/una-madre-coge-por-error-un-tren-y-olvida-a-su-bebe-de-seis-meses-en-el-coche-vengan-rapido/",
-        "date": "2025-05-22 06:27:57",
-        "sentiment_score": -0.792040778324008
-    },
-    {
-        "title": "Los alumnos de la Policía Nacional perciben 460 euros: Marlaska les cobra 300 por los servicios de lavandería de la Academia",
-        "image_url": "https://www.infobae.com/resizer/v2/UPGEJCNUINFH5GC2HZPXFCJ2DM.jpg?auth=ed1aeba39de823485066e890e859b445dba3ef18d50862b35fe241d5f406b02d&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/05/22/los-alumnos-de-la-policia-nacional-perciben-460-euros-marlaska-les-cobra-300-por-los-servicios-de-lavanderia-de-la-academia/",
-        "date": "2025-05-22 06:24:18",
-        "sentiment_score": -0.3920134827494621
-    },
-    {
-        "title": "Tony Aguilar revela las primeras palabras de Melody tras la final de Eurovisión: “Estaba enfadada, dijo que esto siempre es lo mismo”",
-        "image_url": "https://www.infobae.com/resizer/v2/HC33EV366ZHPLANMJ56ZVSJFWE.jpg?auth=7e908db452fac014ae3f7c1dbddb411b8fb9ee013a0d53ec107e5b4e61f29f82&height=597&smart=true&width=946",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/05/22/tony-aguilar-revela-las-primeras-palabras-de-melody-tras-la-final-de-eurovision-estaba-enfadada-dijo-que-esto-siempre-es-lo-mismo/",
-        "date": "2025-05-22 06:22:44",
-        "sentiment_score": -0.3143210653215647
-    },
-    {
-        "title": "Soledad Núñez (Banco de España): \"no actuar frente al calentamiento tendrá mayor coste\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/22/soledad-nunez-banco-de-espana-no-actuar-frente-al-calentamiento-tendra-mayor-coste/",
-        "date": "2025-05-22 06:16:43",
-        "sentiment_score": -0.7743998626247048
-    },
-    {
-        "title": "Las comunidades del PP siguen sin aceptar la quita de deuda que sí quieren las del PSOE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/22/las-comunidades-del-pp-siguen-sin-aceptar-la-quita-de-deuda-que-si-quieren-las-del-psoe/",
-        "date": "2025-05-22 06:16:24",
-        "sentiment_score": -0.8499415926635265
-    },
-    {
-        "title": "Spotify retornó cerca de 137 millones de euros a los artistas españoles en 2024",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/22/spotify-retorno-cerca-de-137-millones-de-euros-a-los-artistas-espanoles-en-2024/",
-        "date": "2025-05-22 06:16:08",
-        "sentiment_score": 0.24339677393436432
-    },
-    {
-        "title": "La Asamblea de Madrid aprobará el dictamen de la comisión de investigación de Begoña Gómez",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/05/22/la-asamblea-de-madrid-aprobara-el-dictamen-de-la-comision-de-investigacion-de-begona-gomez/",
-        "date": "2025-05-22 06:15:51",
-        "sentiment_score": -0.05022946000099182
-    },
-    {
-        "title": "‘Supervivientes 2025′: Montoya y Terelu Campos protagonizan una tensa discusión y Borja toma una decisión respecto a su relación con Ana Solma",
-        "image_url": "https://www.infobae.com/resizer/v2/RWFSNMI6T5DPDET3CE3KM7ST44.png?auth=3de15f7b14001723804ee96d680747350222695fff5b1a982fbf03549e508709&height=436&smart=true&width=788",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/05/22/supervivientes-2025-montoya-y-terelu-campos-protagonizan-una-tensa-discusion-y-borja-toma-una-decision-respecto-a-su-relacion-con-ana-solma/",
-        "date": "2025-05-22 06:04:40",
-        "sentiment_score": -0.6869391165673733
-    },
-    {
-        "title": "La identidad de la mujer rubia que acompaña al rey Juan Carlos en sus visitas a Sangenjo",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/05/mujer-rubia-juan-carlos-sangenjo.jpg",
-        "tags": [
-            "rey juan carlos",
-            "galicia",
-            "celebrities",
-            "gente"
-        ],
-        "link": "https://theobjective.com/gente/2025-05-22/identidad-mujer-rubia-rey-juan-carlos/",
-        "date": "2025-05-22 06:30:00",
-        "sentiment_score": 0.2678014934062958
-    },
-    {
-        "title": "Un nuevo peldaño para el Olímpico: «León se lo merece, nos pone en el mapa del fútbol femenino»",
-        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/05/22/IMG_0542--366x256.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/nuevo-peldano-olimpico-leon-merece-pone-mapa-20250522111143-nt.html",
-        "date": "2025-05-22 06:17:12",
-        "sentiment_score": 0.7461946904659271
-    },
-    {
-        "title": "Adrián Navalón, psicólogo: \"La economía se ha desarrollado sin tener en cuenta la psicología\"",
-        "image_url": "https://static.grupojoly.com/clip/2d9cf85b-5536-4470-a9b1-e0b40ed54f7f_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodesevilla.es/salud/investigacion-tecnologia/adrian-navalon-psicologo-economia-desarrollado_0_2003983992.html",
-        "date": "2025-05-22 06:00:46",
-        "sentiment_score": -0.7533031739294529
-    },
-    {
-        "title": "Eduardo Coudet, de las dudas a las certezas",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/14fa9c09-5e18-45c4-ab66-4d0b3357ff1a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2025/05/22/coudet-dudas-certezas-alaves-9663944.html",
-        "date": "2025-05-22 06:00:19",
-        "sentiment_score": 0.4596351385116577
-    },
-    {
-        "title": "La casa olvidada de la condesa de Montarco, madre de Alejandra de Rojas: 50 años en ruinas",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/05/alejandra-rojas-casa-dona-blanca.jpg",
-        "tags": [
-            "madrid",
-            "casas",
-            "gente",
-            "celebrities"
-        ],
-        "link": "https://theobjective.com/gente/2025-05-22/casa-olvidada-condesa-montarco-alejandra-rojas/",
-        "date": "2025-05-22 06:00:00",
-        "sentiment_score": -0.8967284904792905
-    },
-    {
-        "title": "La ceremonia de graduación de la infanta Sofía: un momento privado con sus padres, los Reyes",
-        "image_url": "https://static.grupojoly.com/clip/542427aa-9f83-4653-8c41-4547c7d66c86_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodealmeria.es/gente/ceremonia-graduacion-infanta-sofia-momento_0_2003984001.html",
-        "date": "2025-05-22 05:41:18",
-        "sentiment_score": -0.542158342897892
-    },
-    {
-        "title": "30 multireincidents detinguts a l’Hospitalet de Llobregat, Cornellà i Esplugues en l’operatiu Kanpai",
-        "image_url": "https://www.eltriangle.eu/wp-content/uploads/2025/05/e711e23d-e81a-42dc-81f2-5ab0523ec7d8-e1747906889298-300x194.jpeg",
-        "tags": [
-            "al carrer",
-            "actualitat",
-            "mossos d'esquadra",
-            "guàrdia urbana",
-            "policia nacional"
-        ],
-        "link": "https://www.eltriangle.eu/2025/05/22/30-multireincidents-detinguts-a-lhospitalet-de-llobregat-cornella-i-esplugues-en-loperatiu-kanpai/",
-        "date": "2025-05-22 06:30:35",
-        "sentiment_score": -0.6017155572772026
-    },
-    {
-        "title": "Dos carriles cortados en la AP-7 en Llinars del Vallès (Barcelona) por un accidente",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-dos-carriles-cortados-ap-llinars-valles-barcelona-accidente-20250522081740.html",
-        "date": "2025-05-22 06:17:40",
-        "sentiment_score": -0.6050037890672684
-    },
-    {
-        "title": "Confirmado: el Meteocat anuncia más lluvias en Barcelona a partir de esta hora",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/31/672342bb4fd93.r_d.2453-3155.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20250522/1002469222/confirmado-meteocat-anuncia-mas-lluvias-barcelona-partir-hora-dct.html",
-        "date": "2025-05-22 06:15:24",
-        "sentiment_score": 0.2562885582447052
-    },
-    {
-        "title": "5 hospitalizados por un incendio en una vivienda en Sabadell (Barcelona)",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250522081050_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-hospitalizados-incendio-vivienda-sabadell-barcelona-20250522081050.html",
-        "date": "2025-05-22 06:10:50",
-        "sentiment_score": -0.8017091955989599
-    },
-    {
-        "title": "Impermeables a la realidad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b0ef25c-7ed1-4661-a3fb-350d977d4810_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/opinion/2025/05/22/impermeables-realidad-117682344.html",
-        "date": "2025-05-22 06:01:20",
-        "sentiment_score": -0.47366444766521454
-    },
-    {
-        "title": "El proveedor de felicidad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47f83d14-fcaf-4c1a-85a3-f75f3974864c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2025/05/22/proveedor-felicidad-117678309.html",
-        "date": "2025-05-22 06:01:18",
-        "sentiment_score": 0.21330620348453522
-    },
-    {
-        "title": "La sequía provocó en Catalunya la mayor extinción de mariposas desde que hay registros",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/05/22/682eb8b3606b2.r_d.967-283-4384.jpeg",
-        "tags": [
-            "natural"
-        ],
-        "link": "https://www.lavanguardia.com/natural/20250522/10707997/sequia-provoco-catalunya-mayor-extincion-local-mariposas-hay-registros.html",
-        "date": "2025-05-22 06:00:33",
-        "sentiment_score": -0.10295254737138748
-    },
-    {
-        "title": "Masajes Barcelona; un puente entre cuerpo, mente y ciudad",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7362670",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5299975/masajes-barcelona-puente-entre-cuerpo-mente-ciudad",
-        "date": "2025-05-22 06:00:00",
-        "sentiment_score": 0.15003176033496857
-    },
-    {
-        "title": "Piden el uso de pistolas eléctricas para evitar lo ocurrido en el aeropuerto de Gran Canaria",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b0f71f3-11e7-4d1d-80a0-a56b61c8e0cb_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/sociedad/2025/05/22/piden-pistolas-electricas-evitar-ocurrido-117678457.html",
-        "date": "2025-05-22 05:59:57",
-        "sentiment_score": -0.4407322481274605
-    },
-    {
         "title": "Desde un sacerdote a un padre de familia: 55 hombres detenidos por pedofilia a través de una red que operaba en Telegram",
         "image_url": "https://www.infobae.com/resizer/v2/3BCBPADA5NGLVP7CASCTDHL37M.jpg?auth=5d06db7f8b49e10e8cdfc9106999f531025a8353d8246a6534784a12bb7b527e&height=3981&smart=true&width=5971",
         "tags": [
@@ -6835,5 +6575,439 @@ export default [
         "link": "https://2001online.com/usa/internacionales/emiten-alerta-por-consumo-de-potente-droga-en-estados-unidos-dea-advierte-que-las-muertes-se-han-multiplicado-202552510430",
         "date": "2025-05-25 14:43:00",
         "sentiment_score": -0.8628440387547016
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 26 de mayo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/25/hoy-sera-noticia-lunes-26-de-mayo/",
+        "date": "2025-05-25 22:16:45",
+        "sentiment_score": 0.041587039828300476
+    },
+    {
+        "title": "Muere un bombero durante un incendio en un hotel de Santa Susanna (Barcelona)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/25/muere-un-bombero-durante-un-incendio-en-un-hotel-de-santa-susanna-barcelona/",
+        "date": "2025-05-25 22:16:29",
+        "sentiment_score": -0.7868446800857782
+    },
+    {
+        "title": "Laura Grajales no seguirá en Universitario: la sentida despedida de la voleibolista tras fichar por el subcampeón de España",
+        "image_url": "https://www.infobae.com/resizer/v2/P5K4L6B7ZBBU7DSD5QVCROFLYM.png?auth=c85a2428c47299e105dab15d9ab56124d6c846e575130bd29f05be3deeb8d2c6&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/05/25/laura-grajales-no-seguira-en-universitario-la-sentida-despedida-de-la-voleibolista-tras-fichar-por-el-subcampeon-de-espana/",
+        "date": "2025-05-25 21:47:55",
+        "sentiment_score": -0.32044852524995804
+    },
+    {
+        "title": "El presidente del Sporting califica de \"desastrosa\" la temporada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/25/el-presidente-del-sporting-califica-de-desastrosa-la-temporada/",
+        "date": "2025-05-25 21:47:34",
+        "sentiment_score": -0.9135407591238618
+    },
+    {
+        "title": "Galarreta: \"El legado de De Marcos quedará para siempre\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/25/galarreta-el-legado-de-de-marcos-quedara-para-siempre/",
+        "date": "2025-05-25 21:32:35",
+        "sentiment_score": 0.37345585227012634
+    },
+    {
+        "title": "El 'tren del ascenso granota' pone rumbo a Valencia y se espera que llegue a las 2.30",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/25/el-tren-del-ascenso-granota-pone-rumbo-a-valencia-y-se-espera-que-llegue-a-las-230/",
+        "date": "2025-05-25 21:18:09",
+        "sentiment_score": 0.10267905704677105
+    },
+    {
+        "title": "La selección femenina de España gana la final de la Liga Europea de fútbol playa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/25/la-seleccion-femenina-de-espana-gana-la-final-de-la-liga-europea-de-futbol-playa/",
+        "date": "2025-05-25 21:17:52",
+        "sentiment_score": 0.4198812283575535
+    },
+    {
+        "title": "El Festival más grande de España Love the 90s México llega a la CDMX: elenco, fecha y lugar",
+        "image_url": "https://www.infobae.com/resizer/v2/UOAOF6ZEIZGPBFLJGWXKECFGLE.jpg?auth=4a10248fdf947fc647edb04e2c4da55b4fe3b54dbec6e15eb5225eabf6dd265a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/05/25/el-festival-mas-grande-de-espana-love-the-90s-mexico-llega-a-la-cdmx-elenco-fecha-y-lugar/",
+        "date": "2025-05-25 21:17:41",
+        "sentiment_score": 0.8848674297332764
+    },
+    {
+        "title": "España se resarce y gana a Bélgica en cinco sets",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/25/espana-se-resarce-y-gana-a-belgica-en-cinco-sets/",
+        "date": "2025-05-25 21:17:36",
+        "sentiment_score": 0.4794361740350723
+    },
+    {
+        "title": "Desalojan las urgencias del hospital de Benalmádena por una fuga accidental de gas tóxico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/25/desalojan-las-urgencias-del-hospital-de-benalmadena-por-una-fuga-accidental-de-gas-toxico/",
+        "date": "2025-05-25 21:17:15",
+        "sentiment_score": -0.7346868887543678
+    },
+    {
+        "title": "Von der Leyen pide a Trump hasta el 9 de julio para alcanzar un «buen acuerdo»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/05/25/1496699059-kBUC-U7010311116878hE-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/von-der-leyen-pide-trump-julio-alcanzar-20250525224219-nt.html",
+        "date": "2025-05-25 21:22:25",
+        "sentiment_score": -0.13775745034217834
+    },
+    {
+        "title": "Maestros absentistas",
+        "image_url": "https://s2.ppllstatics.com/burgosconecta/www/multimedia/2025/05/22/CANICOSA-BUENA-U2201639219475vhD--170x119@Burgosconecta-Burgosconecta.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-maestros-absentistas-20250526221602-nts.html",
+        "date": "2025-05-25 20:22:43",
+        "sentiment_score": -0.1956043690443039
+    },
+    {
+        "title": "¿Qué hemos de hacer?",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/05/26/caras-colores-diferencias-REDgl3VVYWHiQAqXf29m04K-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-marin-sicilia-que-hemos-de-hacer-20250526221607-nts.html",
+        "date": "2025-05-25 20:16:07",
+        "sentiment_score": -0.09441593289375305
+    },
+    {
+        "title": "La vega",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/05/23/mansion-marbella3-k0LG--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-garcia-barbeito-vega-20250526221600-nts.html",
+        "date": "2025-05-25 20:16:01",
+        "sentiment_score": -0.04495495557785034
+    },
+    {
+        "title": "Agreden a un varón en Peñafiel (Valladolid) y medio centenar de familiares de la víctima tirotean su casa",
+        "image_url": "https://cdn.mnmstatic.net/cache/3d/f8/media_thumb-link-4061247.webp?1748178666=",
+        "tags": [
+            "reyerta",
+            "tiroteo",
+            "familiares",
+            "peñafiel",
+            "actualidad"
+        ],
+        "link": "https://www.meneame.net/story/agreden-varon-penafiel-valladolid-medio-centenar-familiares-casa",
+        "date": "2025-05-25 19:20:30",
+        "sentiment_score": -0.42315297201275826
+    },
+    {
+        "title": "España promueve una coalición internacional para romper con sanciones a Israel el bloqueo a Gaza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WSM34CKSZ2ZYS6VNFEXCBJHN5I.jpg?auth=7aecc405297cefc3a32bb8b23cfe5ace61ab4de2b0a7957f38c841b14785584b&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "israel",
+            "onu",
+            "gobierno",
+            "palestina",
+            "josé manuel albares",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-05-25/espana-promueve-una-coalicion-internacional-para-romper-con-sanciones-a-israel-el-bloqueo-a-gaza.html",
+        "date": "2025-05-25 19:25:11",
+        "sentiment_score": -0.8759480491280556
+    },
+    {
+        "title": "Tamara Silva Bernaschina: \"Narrar con ojos de niño abre la puerta a lo siniestro, lo fantástico y lo onírico\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/d2298bc366cce51838b3c91ed5e94cdd/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/23/17480193647806.jpg",
+        "tags": [
+            "literatura",
+            "artículos andrés seoane",
+            "latinoamérica",
+            "uruguay"
+        ],
+        "link": "https://www.elmundo.es/la-lectura/2025/05/26/68309274e85ecef3558b45ae.html",
+        "date": "2025-05-25 22:11:54",
+        "sentiment_score": 0.7239072248339653
+    },
+    {
+        "title": "La promoción de ascenso ante el otro Rayo",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/05/25/105328839-kTwF--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/aviles/promocion-ascenso-ante-rayo-20250526000752-nt.html",
+        "date": "2025-05-25 22:07:52",
+        "sentiment_score": 0.09212228655815125
+    },
+    {
+        "title": "El baloncesto ACB no entiende de los méritos del Surne",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/05/26/acb-no-entiende-meritos-surne-k14B-U2301881845459m9H-1200x1400@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/baloncesto-acb-entiende-meritos-surne-20250526000751-nt.html",
+        "date": "2025-05-25 22:07:52",
+        "sentiment_score": -0.3933580368757248
+    },
+    {
+        "title": "Los liberales del PP quieren marcar el rumbo del congreso de julio",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/05/ayuso-serrano-pp-1440x808.jpg",
+        "tags": [
+            "españa",
+            "esperanza aguirre",
+            "josé maría aznar",
+            "isabel díaz ayuso",
+            "partido popular (pp)",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/05/26/los-liberales-del-pp-quieren-marcar-el-rumbo-del-congreso-de-julio/",
+        "date": "2025-05-25 22:05:26",
+        "sentiment_score": -0.09412293136119843
+    },
+    {
+        "title": "Flick: \"Ha sido perfecto terminar así la temporada\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/25/flick-ha-sido-perfecto-terminar-asi-la-temporada/",
+        "date": "2025-05-25 22:00:17",
+        "sentiment_score": 0.926246015354991
+    },
+    {
+        "title": "El delantero del Real Madrid Kylian Mbappé, Pichichi y Bota de Oro 2024-25",
+        "image_url": "https://www.infobae.com/resizer/v2/ZWAZDMZKWNHWFN3OQ7RMIDG3DQ.jpg?auth=0e2ab604e5998906106400f578fddad0aafee1ea95360ed119c844dc7fb05e3a&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/25/el-delantero-del-real-madrid-kylian-mbappe-pichichi-y-bota-de-oro-2024-25/",
+        "date": "2025-05-25 22:00:16",
+        "sentiment_score": 0.10270645469427109
+    },
+    {
+        "title": "Destaca en Google: claves de SEO hiperlocal para negocios de barrio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/59196f19-3b18-4e6f-aac7-c8a97974ac51_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "negocios,google,seo,digital,crecimiento"
+        ],
+        "link": "https://www.superdeporte.es/fuera-de-juego/2025/05/26/destaca-google-claves-seo-hiperlocal-117816968.html",
+        "date": "2025-05-25 22:00:01",
+        "sentiment_score": 0.37488097697496414
+    },
+    {
+        "title": "Mbappé, Pichichi y Bota de Oro 2024-25",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250525235731_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-mbappe-pichichi-bota-oro-2024-25-20250525235731.html",
+        "date": "2025-05-25 21:57:31",
+        "sentiment_score": 0.8332523442804813
+    },
+    {
+        "title": "No ha sido una carrera cualquiera, y tampoco un coche más: el nuevo E-3008 brilló en la jornada más comprometida del año en la capital",
+        "image_url": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2025/05/Untitled-design105.jpg",
+        "tags": [
+            "actualidad",
+            "peugeot",
+            "motor"
+        ],
+        "link": "https://www.muyinteresante.com/actualidad/carrera-contra-la-violencia-de-genero-en-madrid.html",
+        "date": "2025-05-25 21:53:57",
+        "sentiment_score": 0.4078924357891083
+    },
+    {
+        "title": "Valverde: \"Se notaba la emoción (por la despedida de De Marcos) por encima del estadio\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/25/valverde-se-notaba-la-emocion-por-la-despedida-de-de-marcos-por-encima-del-estadio/",
+        "date": "2025-05-25 22:16:10",
+        "sentiment_score": 0.4496700316667557
+    },
+    {
+        "title": "El Athletic iguala la puntuación más alta de su historia (70)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/05/25/el-athletic-iguala-la-puntuacion-mas-alta-de-su-historia-70/",
+        "date": "2025-05-25 22:15:20",
+        "sentiment_score": 0.20600442588329315
+    },
+    {
+        "title": "El fondo Masia invertirá 20 millones de euros en 'start up' de Barcelona",
+        "image_url": "https://phantom-expansion.uecdn.es/f62edf47fb31db893357b6e320a09e0f/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/25/17481977912050.jpg",
+        "tags": [
+            "emprendedores>",
+            "fondos de inversión>",
+            "cataluña>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2025/05/26/68335ffee5fdea3a7f8b456e.html",
+        "date": "2025-05-25 22:10:19",
+        "sentiment_score": 0.08633607253432274
+    },
+    {
+        "title": "Muere un bombero en un incendio en un hotel de Santa Susanna (Barcelona)",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2025/05/25/FD04E01D-38CE-419D-AA89-914F6F604A81/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/muere-bombero-incendio-hotel-santa-susanna-barcelona_202505266833947a3407f96812ae19f4.html",
+        "date": "2025-05-25 22:06:50",
+        "sentiment_score": -0.41306789964437485
+    },
+    {
+        "title": "Arrancan las obras de conexión de la A-2 y la B-40 en el Baix Llobregat",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/11/09/672f55fe9426b.r_d.861-966-2192.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20250526/10719142/arrancan-obras-conexion-2-b-40-baix-llobregat.html",
+        "date": "2025-05-25 22:05:00",
+        "sentiment_score": 0.2344660460948944
+    },
+    {
+        "title": "Crítica de 'Los Tortuga' (2024): La hija de la taxista viuda",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/05/26/critica-cine-los-tortuga-kjKB-U2301880559183AOB-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/cine/mikel-g-gurpegui-critica-tortuga-2024-hija-taxista-viuda-20250526000229-nt.html",
+        "date": "2025-05-25 22:02:30",
+        "sentiment_score": -0.4855761080980301
+    },
+    {
+        "title": "CNE extiende la jornada electoral: Por una hora más o hasta que culminen las colas",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748210774397.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/cne-extiende-la-jornada-electoral-por-una-hora-mas-o-hasta-que-culminen-las-colas-20255251870",
+        "date": "2025-05-25 22:07:00",
+        "sentiment_score": 0.3223368413746357
+    },
+    {
+        "title": "Conozca el precio del metro cuadrado en Caracas: va desde los 310 dólares en La Candelaria",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748209662400.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conozca-el-precio-del-metro-cuadrado-en-caracas-va-desde-los-310-dolares-en-la-candelaria-20255251800",
+        "date": "2025-05-25 22:00:00",
+        "sentiment_score": -0.031157363206148148
+    },
+    {
+        "title": "Onda Tropical N°1 avanza hacia el oriente de Venezuela: lluvias y descargas en Anzoátegui",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748206802674.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/onda-tropical-n-1-avanza-hacia-el-oriente-de-venezuela-lluvias-y-descargas-en-anzoategui-20255251800",
+        "date": "2025-05-25 22:00:00",
+        "sentiment_score": 0.010716624557971954
+    },
+    {
+        "title": "J Balvin celebra 40 años en Italia con Sofía Vergara y habla sobre la ausencia de Valentina Ferrer",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748210583612.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/j-balvin-celebra-40-anos-en-italia-con-sofia-vergara-y-habla-sobre-la-ausencia-de-valentina-ferrer-202552517510",
+        "date": "2025-05-25 21:51:00",
+        "sentiment_score": 0.020927876234054565
+    },
+    {
+        "title": "La venenosa muestra resultados de su cirugía mamaria en redes sociales: Quede loca",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748208956247.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/la-venenosa-muestra-resultados-de-su-cirugia-mamaria-en-redes-sociales-quede-loca--202552517350",
+        "date": "2025-05-25 21:35:00",
+        "sentiment_score": -0.017479881644248962
+    },
+    {
+        "title": "Programa Samuel Robinson abre inscripciones para bachilleres y estudiantes: contribuye al ingreso en la UCV",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748207361087.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/programa-samuel-robinson-abre-inscripciones-para-bachilleres-y-estudiantes-contribuye-al-ingreso-en-la-ucv-202552517300",
+        "date": "2025-05-25 21:31:00",
+        "sentiment_score": -0.0074768587946891785
+    },
+    {
+        "title": "Cupones SNAP: el calendario de pagos para junio por estado",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748207472188.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cupones-snap-el-calendario-de-pagos-para-junio-por-estado-20255251790",
+        "date": "2025-05-25 21:09:00",
+        "sentiment_score": 0.10045403800904751
+    },
+    {
+        "title": "Maduro anuncia nuevo sistema electoral: Que se haga una reingeniería",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748204755574.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-nuevo-sistema-electoral-que-se-haga-una-reingenieria-20255251700",
+        "date": "2025-05-25 21:00:00",
+        "sentiment_score": 0.20456566289067268
+    },
+    {
+        "title": "Estos son los delitos que podrían vetarte la solicitud de visa en Usa",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748034005470.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/estos-son-los-delitos-que-podrian-vetarte-la-solicitud-de-visa-en-usa-202552516300",
+        "date": "2025-05-25 20:30:00",
+        "sentiment_score": -0.12398567795753479
+    },
+    {
+        "title": "Por esta razón las transferencias de Wells Fargo ahora tardarán más en hacerse efectivas: esto debe saber",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748197031652.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/por-esta-razon-las-transferencias-de-wells-fargo-ahora-tardaran-mas-en-hacerse-efectivas-esto-debe-saber-20255251650",
+        "date": "2025-05-25 20:05:00",
+        "sentiment_score": -0.1349056363105774
     }
 ];
