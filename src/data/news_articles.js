@@ -100,66 +100,6 @@ export default [
         "sentiment_score": -0.7126818690448999
     },
     {
-        "title": "¿Por qué deberías evitar aliñar ensaladas con el líquido de las latas de conserva?",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/05/28/latas-aceite-RD5pdiAHZNxQkNGSdisL6QO-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/deberias-evitar-alinar-ensaladas-liquido-latas-conserva-20250528152255-nt.html",
-        "date": "2025-05-28 13:22:55",
-        "sentiment_score": -0.1346515417098999
-    },
-    {
-        "title": "La lucha de Iara contra el cáncer (III): «Pagué 4.000 euros por una ambulancia en la que casi fallezco»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/05/28/1496573219-kiWF-U701047490709CoH-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/lucha-iara-cancer-iii-pague-4000-euros-20250528144655-nt.html",
-        "date": "2025-05-28 13:20:43",
-        "sentiment_score": -0.13618987798690796
-    },
-    {
-        "title": "Trabajo eleva la presión y marca proteger el empleo y las oficinas como líneas rojas en la opa de BBVA",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/28/yolanda-diaz-RM4r3g2g1IY3MH3saOikSIO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/trabajo-eleva-presion-marca-proteger-empleo-oficinas-20250528135128-nt.html",
-        "date": "2025-05-28 11:51:29",
-        "sentiment_score": -0.08681158721446991
-    },
-    {
-        "title": "Israel asegura haber matado a un «comandante» de Hizbolá en un bombardeo en Líbano",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/28/libano-afp-kALC-U701046798686S2E-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-asegura-haber-matado-comandante-hizbola-bombardeo-20250528130503-nt.html",
-        "date": "2025-05-28 11:05:04",
-        "sentiment_score": -0.15010733902454376
-    },
-    {
-        "title": "Adidas confirma el acceso a datos personales de clientes por parte de un «tercero no autorizado»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/05/28/adida-kMlE-U701046538449jGD-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/adidas-confirma-acceso-datos-personales-clientes-parte-20250528123623-nt.html",
-        "date": "2025-05-28 10:54:48",
-        "sentiment_score": -0.19938534498214722
-    },
-    {
-        "title": "Arkansas busca a Grant Hardin, fugado de la cárcel donde cumplía condena por asesinato y violación",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/05/28/grant-hardin-klbF-U701046243850nM-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/arkansas-busca-grant-hardin-fugado-carcel-cumplia-20250528122529-nt.html",
-        "date": "2025-05-28 10:25:30",
-        "sentiment_score": -0.24538016319274902
-    },
-    {
         "title": "Los promotores de la regularización de inmigrantes reclaman su lugar en las negociaciones",
         "image_url": "https://imagenes.elpais.com/resizer/v2/2FCGHHHLEVF5LGSXZI2CYSHKPY.jpg?auth=3bb8ac111eedc70c3757c545c00671e5b42aef85defe42090ad557a7c10d7c5a&width=1200",
         "tags": [
@@ -292,66 +232,6 @@ export default [
         "link": "https://elpais.com/espana/2025-05-28/el-congreso-aprueba-crear-dos-comisiones-de-investigacion-del-apagon-al-mismo-tiempo.html",
         "date": "2025-05-28 14:23:41",
         "sentiment_score": -0.8908148165792227
-    },
-    {
-        "title": "Madrid se enfrenta a temperaturas de récord en mayo sin noticias del plan contra el calor",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I3BGXL6GNBAVFL5RKXCN4RZEJY.jpg?auth=6c08690d7ba48454a7bc37fa3642bd7f6bd9e719a8a64f5c7f85850d702d1dff&width=1200",
-        "tags": [
-            "primavera",
-            "altas temperaturas",
-            "calor",
-            "predicción meteorológica",
-            "meteorología",
-            "temperaturas máximas",
-            "climas",
-            "noticias de españa",
-            "temperaturas mínimas",
-            "récords",
-            "temperaturas",
-            "el tiempo",
-            "aemet",
-            "alerta meteorológica"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-05-28/madrid-se-enfrenta-a-temperaturas-de-record-en-mayo-sin-noticias-del-plan-contra-el-calor.html",
-        "date": "2025-05-28 14:11:48",
-        "sentiment_score": 0.21491250023245811
-    },
-    {
-        "title": "El Palau de la Música Catalana albergará un concierto solidario con Palestina",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C76YQY6KXNCKFPRKTMRJCFTC2A.jpg?auth=99f1de578db3a38d9ff5cf248e9e1413e5d1ea31b6b3d3ac6d21d23b7e2f07e1&width=1200",
-        "tags": [
-            "cultura",
-            "cataluña",
-            "barcelona",
-            "palau música",
-            "oriente próximo",
-            "conflicto árabe-israelí",
-            "música",
-            "palestina",
-            "franja gaza",
-            "israel"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-05-28/el-palau-de-la-musica-catalana-albergara-un-concierto-solidario-con-palestina.html",
-        "date": "2025-05-28 14:01:10",
-        "sentiment_score": 0.004430800676345825
-    },
-    {
-        "title": "Ayuso denuncia sin pruebas una operación de Estado contra ella y su pareja: “Que condenen a Sánchez por narcotráfico”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2Y2UCYOZVJK7JIYPGZC6CLLYR4.jpg?auth=e6f0c3018098df91e34cf2a31828d897d76e47e840c1cbb4453db147798d20c0&width=1200",
-        "tags": [
-            "alfonso serrano",
-            "madrid",
-            "pp",
-            "pedro sánchez",
-            "alberto núñez feijóo",
-            "isabel díaz ayuso",
-            "psoe",
-            "comunidad de madrid",
-            "residencias ancianos"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-05-28/ayuso-denuncia-sin-pruebas-una-operacion-de-estado-contra-ella-y-su-pareja-que-condenen-a-sanchez-por-narcotrafico.html",
-        "date": "2025-05-28 13:24:26",
-        "sentiment_score": 0.14561156928539276
     },
     {
         "title": "Nuevo varapalo para David Broncano tras su enfrentamiento con Melody: su exnovia tira de la manta y desenmascara al presentador",
@@ -7426,5 +7306,345 @@ export default [
         "link": "https://2001online.com/sucesos/pareja-sentenciada-a-30-anos-de-prision-por-prostitucion-forzada-captaban-a-jovenes-prometiendo-oportunidades-de-trabajo-20255311650",
         "date": "2025-05-31 20:05:00",
         "sentiment_score": -0.2964770533144474
+    },
+    {
+        "title": "Predicción del clima en Madrid para antes de salir de casa este 1 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/BSSF7W2NAFAEPDZ3X67AG2QU64.jpg?auth=42f1fe25f7bc38fdcca414df4562517f495c110d8b60ce78d60cccca376a5c58&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/01/prediccion-del-clima-en-madrid-para-antes-de-salir-de-casa-este-1-de-junio/",
+        "date": "2025-06-01 01:30:36",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 1 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/EEABKXLRN5ADVK5EHVMO3WA76A.jpg?auth=0df96f4ebce554c663921873fecfbe2af02aaef410ab9a8d8773698d5e005259&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/01/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-1-de-junio/",
+        "date": "2025-06-01 01:00:39",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Mueren dos personas en un tiroteo en el paseo marítimo de Fuengirola (Málaga)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/01/mueren-dos-personas-en-un-tiroteo-en-el-paseo-maritimo-de-fuengirola-malaga/",
+        "date": "2025-06-01 01:00:32",
+        "sentiment_score": -0.7465337291359901
+    },
+    {
+        "title": "Valeria Mazza y Alejandro Gravier apoyaron a Franco Colapinto en el GP de España: visita a boxes y mensajes de cariño",
+        "image_url": "https://www.infobae.com/resizer/v2/PKYYWILNFBF7BHRHWUWTQBOBIA.jpg?auth=0ba6006816a6f6cb974e33263b4cf5c0b3524a4ff41011162db6e4f77bdd8086&height=2346&smart=true&width=1320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/06/01/valeria-mazza-y-alejandro-gravier-apoyaron-a-franco-colapinto-en-el-gp-de-espana-visita-a-boxes-y-mensajes-de-carino/",
+        "date": "2025-06-01 00:22:38",
+        "sentiment_score": 0.07416786253452301
+    },
+    {
+        "title": "Asociación de Damnificados por la DANA Horta Sud propone una reunión con Mazón en un municipio de la ‘zona cero’",
+        "image_url": "https://www.infobae.com/resizer/v2/XWVEESFIRFAODLA4AT6LDKMMJM.png?auth=21770ee20895bbe3931661c12ebc3a2ed055e76e4c8f64ae4e86b8aa05c88b72&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/01/asociacion-de-damnificados-por-la-dana-horta-sud-propone-una-reunion-con-mazon-en-un-municipio-de-la-zona-cero/",
+        "date": "2025-06-01 00:19:54",
+        "sentiment_score": -0.14274489879608154
+    },
+    {
+        "title": "Rigoberta es mucha Rigoberta, aunque se haga de rogar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/31/rigoberta-es-mucha-rigoberta-aunque-se-haga-de-rogar/",
+        "date": "2025-05-31 23:45:19",
+        "sentiment_score": -0.20286518335342407
+    },
+    {
+        "title": "Impacto en la Fórmula 1: un piloto no podrá correr el Gran Premio de España por un problema médico",
+        "image_url": "https://www.infobae.com/resizer/v2/JK3QC62SMRBZ3KWIP6L62OF4GY.jpg?auth=2f9111b7a99e14679add080e0e72bd5d1bfbcb504b71c92d1708c0b35e306737&height=3264&smart=true&width=4896",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/05/31/impacto-en-la-formula-1-un-piloto-no-podra-correr-el-gran-premio-de-espana-por-un-problema-medico/",
+        "date": "2025-05-31 22:50:25",
+        "sentiment_score": -0.8551204698160291
+    },
+    {
+        "title": "Hoy será noticia. Domingo, 1 de junio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/31/hoy-sera-noticia-domingo-1-de-junio/",
+        "date": "2025-05-31 22:45:52",
+        "sentiment_score": 0.028220031410455704
+    },
+    {
+        "title": "Madrid se rinde ante Emilia, que hace un triplete en la ciudad con su “Emilia Tour 2025”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/05/31/madrid-se-rinde-ante-emilia-que-hace-un-triplete-en-la-ciudad-con-su-emilia-tour-2025/",
+        "date": "2025-05-31 22:31:08",
+        "sentiment_score": -0.7570111714303493
+    },
+    {
+        "title": "El gran juego de la vida",
+        "image_url": "https://s2.ppllstatics.com/laverdad/www/multimedia/2025/05/27/lince1-k2AI-U84850685007Fwa-170x119@La%20Verdad-LaVerdad.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jaime-bayly-gran-juego-vida-20250601015411-nt.html",
+        "date": "2025-05-31 23:54:43",
+        "sentiment_score": -0.08056339621543884
+    },
+    {
+        "title": "Ramón Franco en el Campo de Gibraltar: 1929, llega el héroe",
+        "image_url": "https://static.grupojoly.com/clip/3733f9a0-6638-4ff1-b78a-80720d36c028_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europasur.es/campo-de-gibraltar/ramon-franco-campo-gibraltar-1929_0_2004017581.html",
+        "date": "2025-06-01 02:01:07",
+        "sentiment_score": -0.8172861114144325
+    },
+    {
+        "title": "'Guau qué viajes': De vacaciones con los mejores amigos, los de cuatro patas",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/28/35/33/4/guauqueviajes.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/guau-viajes-vacaciones-con-mejores-amigos-cuatro-patas_175546_102.html",
+        "date": "2025-06-01 02:00:00",
+        "sentiment_score": -0.07598316669464111
+    },
+    {
+        "title": "El PSG conquista por fin la Champions con un histórico 5-0 al Inter de Milán en Munich",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/3ONEGSNNPVAXXFZGQEQJJ7MEY4.jpg?auth=7db21601437cf2f08c801896f5f32997cea82772148ac9bd0ec1e16607e0c04b&height=673&smart=true&width=1024",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2025/06/01/el-psg-conquista-por-fin-la-champions-con-un-historico-5-0-al-inter-de-milan-en-munich/",
+        "date": "2025-06-01 01:21:57",
+        "sentiment_score": 0.2091800421476364
+    },
+    {
+        "title": "Carlos Antonio Vélez aprovechó el título del PSG en Champions para enviar una “pulla” a la selección Colombia: vea lo que dijo",
+        "image_url": "https://www.infobae.com/resizer/v2/VQU5EJZHNVFNZHNXANWXYUOPDE.jpg?auth=cba91e668088c4c21f2f2ef3d41aa1a6e2dced66ea435f2de2b2a00944a0ae59&height=3042&smart=true&width=4833",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/06/01/carlos-antonio-velez-aprovecho-el-titulo-del-psg-en-champions-para-enviar-una-pulla-a-la-seleccion-colombia-vea-lo-que-dijo/",
+        "date": "2025-06-01 01:07:32",
+        "sentiment_score": -0.19671444594860077
+    },
+    {
+        "title": "Zelenski critica la ambigüedad de Rusia ante su próxima reunión, en la que espera que el papel de EEUU sea \"decisivo\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250601014520_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-zelenski-critica-ambiguedad-rusia-proxima-reunion-espera-papel-eeuu-sea-decisivo-20250601014520.html",
+        "date": "2025-05-31 23:45:20",
+        "sentiment_score": -0.5872943624854088
+    },
+    {
+        "title": "Sin Presupuestos, sin censura, sin Constitución",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "cartas al director"
+        ],
+        "link": "https://www.eldebate.com/opinion/cartas-director/20250601/presupuestos-censura-constitucion_302550.html",
+        "date": "2025-05-31 23:30:00",
+        "sentiment_score": -0.7824218906462193
+    },
+    {
+        "title": "Javier Menacho, el artesano andaluz que conquistó a Dior: \"Una buena piel puede durar más de 500 años\"",
+        "image_url": "https://s1.elespanol.com/2025/05/23/actualidad/1003743772243_255852873_1706x960.jpg?contentId=1003743772243",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/lujos/20250531/javier-menacho-artesano-andaluz-conquisto-dior-buena-piel-puede-durar-anos/1003743772028_0.html",
+        "date": "2025-05-31 23:25:08",
+        "sentiment_score": -0.6785608008503914
+    },
+    {
+        "title": "Champions League: ¡Envejecieron mal! Así se burlaban los periódicos españoles de Kylian Mbappé",
+        "image_url": "https://pxcdn.meridiano.net/052025/1748733562102.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/liga-de-campeones/champions-league-envejecieron-mal-asi-se-burlaban-los-periodicos-espanoles-de-kylian-mbappe-202553119190",
+        "date": "2025-05-31 23:19:00",
+        "sentiment_score": -0.17253854498267174
+    },
+    {
+        "title": "La Feria de Zaragoza se rinde al perreo con el reguetón de Myke Towers",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3cb3924a-42d3-406a-8bee-e99cc13d229e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodicodearagon.com/cultura/2025/06/01/feria-zaragoza-rinde-perreo-regueton-118076215.html",
+        "date": "2025-05-31 23:12:30",
+        "sentiment_score": -0.08946982026100159
+    },
+    {
+        "title": "Estallaron los MEMES por la paliza del PSG al Inter con un recado para Mbappé",
+        "image_url": "https://cdn8.cgixix.com/wp-content/uploads/2025/05/7fcb8be76324d6fceaf80ba70b7cfbeb5996ae87w.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://lapatilla.com/2025/05/31/estallaron-los-memes-por-la-paliza-del-psg-al-inter-con-un-recado-para-mbappe/",
+        "date": "2025-05-31 23:06:22",
+        "sentiment_score": 0.6781274527311325
+    },
+    {
+        "title": "La brillantez de Messi continúa y el Inter Miami apalea 5-1 al Crew de Columbus",
+        "image_url": "https://dims.apnews.com/dims4/default/4310c48/2147483647/strip/true/crop/2000x1331+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa4%2F74%2F2834a5f04ba97ee8cebf65b8cf10%2Fb0274fff5dda434c8a79e555e160d6c7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/inter-miami-mls-messi-crew-d9e95bf30271fb4593dc3cbf22f0646e",
+        "date": "2025-06-01 02:10:57",
+        "sentiment_score": 0.7804049402475357
+    },
+    {
+        "title": "\"Nunca oí a tantos cardenales criticar tan dura y groseramente a un Papa\"",
+        "image_url": "https://static.grupojoly.com/clip/28e3238d-8e2d-4018-9ca7-013734d98464_source-aspect-ratio_default_0_x1608y251.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europasur.es/andalucia/oi-cardenales-criticar-dura-groseramente_0_2004053180.html",
+        "date": "2025-06-01 02:00:08",
+        "sentiment_score": 0.5264902710914612
+    },
+    {
+        "title": "Lara Fluxà gana el premio de la Nit del Galerisme con ‘Firefly'",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/06/01/2398999/lara-fluxa-gana-premio-nit-del-galerisme-firefly.html",
+        "date": "2025-06-01 02:00:01",
+        "sentiment_score": -0.5108438357710838
+    },
+    {
+        "title": "La algarroba guarda el secreto de la soberanía alimentaria europea sin pagar peaje ambiental",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3322825.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2025/06/01/2396715/algarroba-guarda-secreto-soberania-alimentaria-europea-pagar-peaje-ambiental.html",
+        "date": "2025-06-01 02:00:00",
+        "sentiment_score": -0.5655689835548401
+    },
+    {
+        "title": "En Fotos: así celebran la victoria del PSG en las calles de Francia",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748743969310/41.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/en-fotos-asi-celebran-la-victoria-del-psg-en-las-calles-de-francia-202553122140",
+        "date": "2025-06-01 02:14:00",
+        "sentiment_score": -0.03240605443716049
+    },
+    {
+        "title": "David Beckham y Tom Cruise: la sorpresa en la final de la Champions",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/david-beckham-y-tom-cruise-la-sorpresa-en-la-final-de-la-champions-20255312300",
+        "date": "2025-06-01 02:01:52",
+        "sentiment_score": 0.06133916974067688
+    },
+    {
+        "title": "Fuertes lluvias causan inundaciones al sur de Nigeria: reportan más de 150 fallecidos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/fuertes-lluvias-causan-inundaciones-al-sur-de-nigeria-reportan-mas-de-150-fallecidos-20255312200",
+        "date": "2025-06-01 02:00:00",
+        "sentiment_score": -0.7629810608923435
+    },
+    {
+        "title": "Piel joven por muchos años: trucos caseros para lograrlo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748539604781/Captura%20de%20pantalla%202025-05-29%20a%20la(s)%201.26.12%20p.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/piel-joven-por-muchos-anos-trucos-caseros-para-lograrlo-202553121550",
+        "date": "2025-06-01 01:55:00",
+        "sentiment_score": 0.08019709587097168
+    },
+    {
+        "title": "Llega la temporada de huracanes a Estados Unidos: expertos se preocupan por los recortes federales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/llega-la-temporada-de-huracanes-a-estados-unidos-expertos-se-preocupan-por-los-recortes-federales-202553121520",
+        "date": "2025-06-01 01:52:00",
+        "sentiment_score": -0.7762601096183062
+    },
+    {
+        "title": "Juez Federal anula decisión de Trump de invalidar permisos de trabajo: la medida afectaría al menos a 5 mil venezolanos con TPS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/juez-federal-anula-decision-de-trump-de-invalidar-permisos-de-trabajo-la-medida-afectaria-al-menos-a-5-mil-venezolanos-con-tps-202553121450",
+        "date": "2025-06-01 01:45:00",
+        "sentiment_score": -0.48157307133078575
+    },
+    {
+        "title": "Sujeto es detenido por hurtar material de un hospital en Nueva Esparta: fue sorprendido infraganti",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748740624192/image.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/sujeto-es-detenido-por-hurtar-material-de-un-hospital-en-nueva-esparta-fue-sorprendido-infraganti-202553121200",
+        "date": "2025-06-01 01:20:00",
+        "sentiment_score": -0.12328711152076721
+    },
+    {
+        "title": "Delcy Rodríguez: Hemos avanzado en el sector cárnico pero tienen que bajar aún más los precios",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/delcy-rodriguez-hemos-avanzado-en-el-sector-carnico-pero-tienen-que-bajar-aun-mas-los-precios-202553121120",
+        "date": "2025-06-01 01:12:00",
+        "sentiment_score": 0.20985781401395798
+    },
+    {
+        "title": "Emmanuel Macron luego de la final de la Champions: París es la capital de Europa esta noche",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/emmanuel-macron-luego-de-la-final-de-la-champions-paris-es-la-capital-de-europa-esta-noche-20255312200",
+        "date": "2025-06-01 01:01:57",
+        "sentiment_score": 0.7367940098047256
+    },
+    {
+        "title": "INTT activa jornada en Caracas y Zulia: estos son los puntos de encuentro en el mes de junio",
+        "image_url": "http://www.intt.gob.ve/inttweb/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-26-at-11.18.12-1-1024x771.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/intt-activa-jornada-en-caracas-y-zulia-estos-son-los-puntos-de-encuentro-en-el-mes-de-junio-20255312100",
+        "date": "2025-06-01 01:00:00",
+        "sentiment_score": 0.421566603705287
     }
 ];
