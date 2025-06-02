@@ -170,36 +170,6 @@ export default [
         "sentiment_score": -0.0518660843372345
     },
     {
-        "title": "Indra ofrece en torno a dos millones a Duro Felguera por 'El Tallerón'",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/05/29/Blindado-kVzD-U701054468369N9C-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/indra-ofrece-torno-dos-millones-duro-felguera-20250529153956-nt.html",
-        "date": "2025-05-29 14:08:14",
-        "sentiment_score": -0.0945298969745636
-    },
-    {
-        "title": "El Rey aboga por «desarrollar el poder duro» de Europa en defensa en el premio Carlomagno a Von der Leyen",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/05/29/rey-k6C-U701053703181nXB-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rey-aboga-desarrollar-poder-duro-europa-defensa-20250529133220-nt.html",
-        "date": "2025-05-29 12:23:49",
-        "sentiment_score": -0.042692601680755615
-    },
-    {
-        "title": "CEOE y Cepyme instan a los partidos a parar la ley de reducción de jornada por el «daño» que hará a empresas y ciudadanos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/05/29/garamendi-demiguel-ROY5laNLePZX1EoV2kkd1jO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ceoe-cepyme-instan-partidos-parar-ley-reduccion-20250529135620-nt.html",
-        "date": "2025-05-29 11:59:45",
-        "sentiment_score": -0.020428091287612915
-    },
-    {
         "title": "Los socios de izquierdas exigen más contundencia al PSOE sobre la filtración de audios de Leire Díez",
         "image_url": "https://imagenes.elpais.com/resizer/v2/AHH4HK7DTN4KDE6V4PKZ3FVRUA.jpg?auth=ff0033937641d84422884d1c472f2af31baea1d2e6014df66baef29723e209f5&width=1200",
         "tags": [
@@ -370,31 +340,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-05-29/barcelona-redobla-este-verano-su-plan-contra-el-incivismo-y-la-limpieza-del-espacio-publico.html",
         "date": "2025-05-29 14:47:39",
         "sentiment_score": 0.3392738066613674
-    },
-    {
-        "title": "El juez amplía sus pesquisas para escudriñar los contratos de emergencia de la Junta de Andalucía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/65Y7FIXN7DUR55WI2R2REZ66RU.jpg?auth=60594978a26fb882f2e1a38370836c9a6eae899bf7b27193d12c9052aa046796&width=1200",
-        "tags": [
-            "juan manuel moreno",
-            "sanidad",
-            "fiscalía anticorrupción",
-            "andalucía",
-            "contratos administrativos",
-            "junta andalucía",
-            "sanidad pública",
-            "prevaricación",
-            "juzgados",
-            "contratos",
-            "salud",
-            "caso contratos emergencia sas",
-            "sevilla",
-            "españa",
-            "sanidad privada",
-            "malversación fondos"
-        ],
-        "link": "https://elpais.com/espana/2025-05-29/el-juez-amplia-sus-pesquisas-para-escudrinar-los-contratos-de-emergencia-de-la-junta-de-andalucia.html",
-        "date": "2025-05-29 13:57:32",
-        "sentiment_score": -0.0755772814154625
     },
     {
         "title": "Óscar Téllez, de millonario a mileurista: \"Antes nunca miraba la cuenta corriente\"",
@@ -7415,5 +7360,408 @@ export default [
         "link": "https://2001online.com/deportes/traere-panuelos-la-proxima-vez-la-ironica-respuesta-de-verstappen-tras-la-sancion-por-chocar-a-russell-en-espana-2025611750",
         "date": "2025-06-01 20:18:08",
         "sentiment_score": -0.7545209769159555
+    },
+    {
+        "title": "Empiezan hoy las declaraciones en la causa por agresiones sexuales en el colegio Highlands",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/02/empiezan-hoy-las-declaraciones-en-la-causa-por-agresiones-sexuales-en-el-colegio-highlands/",
+        "date": "2025-06-02 02:16:07",
+        "sentiment_score": -0.342453733086586
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Madrid este lunes",
+        "image_url": "https://www.infobae.com/resizer/v2/TAEJPQ3BRVDAFAVPL3U7UY7PLQ.jpg?auth=fa2149b30684551a1545c7f88ea675e72000bcc97a5b5cf1383c9ad19f58c722&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/02/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-madrid-este-lunes/",
+        "date": "2025-06-02 01:31:38",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El conservador, Karol Nawrocki, da un revés a los resultados de mayo y se convierte en el presidente de Polonia, según las últimas encuestas",
+        "image_url": "https://www.infobae.com/resizer/v2/WJQ7ATRLCJD6TIP4Y3OJ57EBIA.jpg?auth=60253149a134682bac8540afb80fd3d1370ff8409160fc8d061992ef81f07e4f&height=1257&smart=true&width=1846",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/02/el-conservador-karol-nawrocki-da-un-reves-a-los-resultados-de-mayo-y-se-convierte-en-el-presidente-de-polonia-en-la-segunda-vuelta-de-las-elecciones-generales/",
+        "date": "2025-06-02 00:51:19",
+        "sentiment_score": -0.4664542153477669
+    },
+    {
+        "title": "Chayanne \"torea\" la Plaza de España con su música y llena de ritmo el Icónica Fest ante miles de espectadores",
+        "image_url": "https://www.infobae.com/resizer/v2/C26MZD6ITZADRC2YB7ECA25JDM.jpg?auth=cb6807fe968b30cfb50b8844936ac592dc6b056d62c0beddd770c4907417af9b&height=1281&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/02/chayanne-torea-la-plaza-de-espana-con-su-musica-y-llena-de-ritmo-el-iconica-fest-ante-miles-de-espectadores/",
+        "date": "2025-06-02 00:00:16",
+        "sentiment_score": 0.6044500321149826
+    },
+    {
+        "title": "Fernando Alonso y Carlos Sainz: su ranking en el Campeonato de Pilotos de la F1",
+        "image_url": "https://www.infobae.com/resizer/v2/DBPDNTJOZZD7DJV6DJ52NIU5WY.png?auth=d17ff889a9ec5b763069e734f9a747bef62e0dec4dc959a77096a48bdf70f8d2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/06/01/fernando-alonso-y-carlos-sainz-su-ranking-en-el-campeonato-de-pilotos-de-la-f1/",
+        "date": "2025-06-01 23:31:46",
+        "sentiment_score": 0.18838439881801605
+    },
+    {
+        "title": "Las mejores cintas de Netflix España para ver en cualquier momento",
+        "image_url": "https://www.infobae.com/resizer/v2/D52FFHY2DBC5DMHZBIFVEIMNVI.jpg?auth=371c938f977353e65fa64fc50563855d82c31db0ead2b38447ab0b7a1ec48c69&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/01/las-mejores-cintas-de-netflix-espana-para-ver-en-cualquier-momento/",
+        "date": "2025-06-01 23:30:53",
+        "sentiment_score": 0.7445468716323376
+    },
+    {
+        "title": "Jiménez logra su decimosexto título y tercero de 2025 el PGA Tour Champions",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/01/jimenez-logra-su-decimosexto-titulo-y-tercero-de-2025-el-pga-tour-champions/",
+        "date": "2025-06-01 22:32:48",
+        "sentiment_score": 0.6255409941077232
+    },
+    {
+        "title": "Hoy será noticia. Lunes, 2 de junio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/01/hoy-sera-noticia-lunes-2-de-junio/",
+        "date": "2025-06-01 22:32:26",
+        "sentiment_score": 0.03810124844312668
+    },
+    {
+        "title": "El borrador de sentencia elaborado por la vicepresidenta del TC avala la ley de amnistía",
+        "image_url": "https://www.infobae.com/resizer/v2/PWNEJVVLO5EHDMIJGJSIOAACYM.jpg?auth=ed6cf5b68c353e2cc843262880064ddc0847f97adfc04778357a6c698d1ff5be&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/01/el-borrador-de-sentencia-elaborado-por-la-vicepresidenta-del-tc-avala-la-ley-de-amnistia/",
+        "date": "2025-06-01 22:30:35",
+        "sentiment_score": -0.054376691579818726
+    },
+    {
+        "title": "Incentivos perversos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/06/01/gentecalle-RND94JqhW3x3TGNJeDg987H-1200x840@diario_abc.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/incentivos-perversos-20250601041458-nt.html",
+        "date": "2025-06-02 02:15:07",
+        "sentiment_score": -0.1519700288772583
+    },
+    {
+        "title": "Casi un 30% de las personas no saben que tienen diabetes",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/05/30/EldoctorAlbertoAliaga,endocrinologoQuironsaludSagradoCorazon.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/habitos-vida-saludable/personas-saben-diabetes-20250602002800-nt.html",
+        "date": "2025-06-01 22:28:01",
+        "sentiment_score": -0.11345316469669342
+    },
+    {
+        "title": "¿Qué es la miastenia gravis, que crece en las mujeres jóvenes y los hombres mayores de 50?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fcfa7645-8dff-4c3f-9f48-60f4c212c094_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "neurología,responde el doctor,farmacología,salud,salud visual,oftalmología"
+        ],
+        "link": "https://www.superdeporte.es/salud/guia/2025/06/02/miastenia-gravis-crece-mujeres-jovenes-66809140.html",
+        "date": "2025-06-02 01:59:00",
+        "sentiment_score": -0.7903315387666225
+    },
+    {
+        "title": "Bulos, cloacas y otra política",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.atlantico.net/opinion/bulos-cloacas-politica_1_20250602-3863140.html",
+        "date": "2025-06-02 01:30:22",
+        "sentiment_score": -0.6846616920083761
+    },
+    {
+        "title": "Liga Endesa: Así quedaron las llaves de postemporada ¿Madrid y Barcelona cuándo se pueden cruzar?",
+        "image_url": "https://pxcdn.meridiano.net/062025/1748829220959.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/baloncesto/baloncesto-internacional/liga-endesa-asi-quedaron-las-llaves-de-postemporada-madrid-y-barcelona-cuando-se-pueden-cruzar--20256121150",
+        "date": "2025-06-02 01:15:00",
+        "sentiment_score": 0.6167911533266306
+    },
+    {
+        "title": "Los Angeles FC listo para el Mundial de Clubes FIFA 2025TM",
+        "image_url": "https://s.w.org/images/core/emoji/15.0.3/72x72/2122.png",
+        "tags": [
+            "mundial de clubes fifa",
+            "los angeles fc",
+            "sport",
+            "fútbol"
+        ],
+        "link": "https://mundonow.com/los-angeles-fc-mundial-clubes-2025/",
+        "date": "2025-06-02 01:09:31",
+        "sentiment_score": 0.06449885666370392
+    },
+    {
+        "title": "Historia en 4 tiempos | Un día como hoy: \"Estanislao Reverter gana el Rallye Luis de Baviera\"",
+        "image_url": "https://static.laregion.es/clip/8cbf33b7-235b-4188-b1b8-62c369676b40_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/provincia/historia-4-tiempos-dia-hoy_1_20250602-3863192.html",
+        "date": "2025-06-02 00:30:38",
+        "sentiment_score": -0.04082157462835312
+    },
+    {
+        "title": "La Real es el único de la Liga junto al Madrid que presenta beneficio neto acumulado desde 2015",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2025/06/01/105499896-kJUF--758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/real-unico-liga-junto-madrid-presenta-beneficio-20250602071906-nt.html",
+        "date": "2025-06-02 00:00:00",
+        "sentiment_score": 0.34040065854787827
+    },
+    {
+        "title": "San Mamés es el único estadio de la Liga que rompe el techo del 90% de ocupación",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/06/01/CF1SRDE1-kQoF-U2301949758696toH-1200x840@El%20Correo.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/athletic/san-mames-unico-estadio-liga-rompe-techo-20250601013152-nt.html",
+        "date": "2025-06-01 23:56:55",
+        "sentiment_score": 0.16741977259516716
+    },
+    {
+        "title": "Los mejores libros para buscar en la Feria del Libro de Madrid",
+        "image_url": "https://s1.elespanol.com/2025/05/30/actualidad/1003743782065_256038008_1706x960.jpg?contentId=1003743782065",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20250601/mejores-libros-buscar-feria-libro-madrid/1003743779439_0.html",
+        "date": "2025-06-01 23:30:38",
+        "sentiment_score": 0.4793016389012337
+    },
+    {
+        "title": "Llega la felicidad al actor Jaime Lorente: Se casa tras años de amor secreto y 2 hijos",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/alejandro-27-1748686676697_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/llega-felicidad-actor-jaime-lorente-se-casa-anos-amor-secreto-hijos",
+        "date": "2025-06-01 23:30:00",
+        "sentiment_score": -0.12751950323581696
+    },
+    {
+        "title": "Amor en las redes: la reaparición de Ashlyn Castro que hizo vibrar a Jude Bellingham",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748809462037.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/amor-en-las-redes-la-reaparicion-de-ashlyn-castro-que-hizo-vibrar-a-jude-bellingham-2025612000",
+        "date": "2025-06-01 23:02:09",
+        "sentiment_score": -0.02343880385160446
+    },
+    {
+        "title": "Fiesta del cine 2025: Todas las películas que podremos ver por 3,5 euros",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3325633.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/06/02/2397543/fiesta-del-cine-2025-todas-peliculas-podremos-ver-por-euros.html",
+        "date": "2025-06-02 02:00:01",
+        "sentiment_score": -0.001198992133140564
+    },
+    {
+        "title": "El pésimo momento de Neymar en Brasil: sufrió una insólita expulsión y Santos cayó en zona de descenso en el Brasileirao",
+        "image_url": "https://www.infobae.com/resizer/v2/ZCD2XAQT4FGBZOZPCLFRBYU3ME.jpg?auth=5cc75eb31d831e7c56cb3e04a41c96a162b6e716157833702d57b2aea32f87ce&height=4289&smart=true&width=5616",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/02/el-pesimo-momento-de-neymar-en-brasil-sufrio-una-insolita-expulsion-y-santos-cayo-en-zona-de-descenso-en-el-brasileirao/",
+        "date": "2025-06-02 01:48:03",
+        "sentiment_score": -0.37992415577173233
+    },
+    {
+        "title": "Barcelona pierde ante Aucas e Independiente queda como líder en Ecuador",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/02/barcelona-pierde-ante-aucas-e-independiente-queda-como-lider-en-ecuador/",
+        "date": "2025-06-02 01:45:15",
+        "sentiment_score": -0.053492844104766846
+    },
+    {
+        "title": "Hamilton fue superado por Leclerc y Hulkenberg en otro mal momento desde que llegó a Ferrari",
+        "image_url": "https://dims.apnews.com/dims4/default/ae1f68b/2147483647/strip/true/crop/4460x2969+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F21%2Fad%2Ff910fec6a642a1b0db529b89702c%2F6f304ecd19c64517b0da5d3e1d5b58b4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/ferrari-hamilton-punto-bajo-f1-barcelona-9b74a3dc665b3582338214ab2f159fcb",
+        "date": "2025-06-02 01:11:12",
+        "sentiment_score": -0.8530361987650394
+    },
+    {
+        "title": "Cómo elegir carrera: estos son los grados con mayor tasa de contratación y sueldo",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/graficos/1748617583_990x0.jpg",
+        "tags": [
+            "selectividad",
+            "educación",
+            "artículos maría alcántara",
+            "universidades",
+            "españa",
+            "pau",
+            "periodismo de datos",
+            "artículos alberto hernández"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/06/02/6838ae31e9cf4a8e628b45ad.html",
+        "date": "2025-06-02 01:00:11",
+        "sentiment_score": 0.07560603320598602
+    },
+    {
+        "title": "Por qué envejecer bien también depende de ti: \"Las relaciones sociales y una actitud positiva son importantes\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/c0a873f70bc0d7ee352e98614066a166/resize/1200/f/webp/assets/multimedia/imagenes/2025/05/30/17486066471010.jpg",
+        "tags": [
+            "artículos cristina g. lucio",
+            "ciencia y salud",
+            "salud",
+            "biociencia"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2025/06/02/68398ffce4d4d8804a8b4580.html",
+        "date": "2025-06-02 01:00:09",
+        "sentiment_score": 0.7758608683943748
+    },
+    {
+        "title": "Flamengo golea a Fortaleza y es el nuevo líder de la liga brasileña",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/02/flamengo-golea-a-fortaleza-y-es-el-nuevo-lider-de-la-liga-brasilena/",
+        "date": "2025-06-02 00:45:15",
+        "sentiment_score": 0.6168882884085178
+    },
+    {
+        "title": "Las polémicas de Piqué: Del desinterés por la KingsLeague al paso en falso de la Davis",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/pique3_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/polemicas-pique-desinteres-kings-league-paso-falso-copa-davis",
+        "date": "2025-06-02 00:45:00",
+        "sentiment_score": -0.9094509351998568
+    },
+    {
+        "title": "Detienen a tres personas en Falcón por maltrato físico a niños: la abuela presentó la denuncia",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748828699586.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-tres-personas-en-falcon-por-maltrato-fisico-a-ninos-la-abuela-presento-la-denuncia-20256122130",
+        "date": "2025-06-02 02:13:00",
+        "sentiment_score": -0.6158364601433277
+    },
+    {
+        "title": "Entérate de cuál es la mascarilla natural que retrasa la aparición de arrugas",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748829244773.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/enterate-de-cual-es-la-mascarilla-natural-que-retrasa-la-aparicion-de-arrugas-2025612250",
+        "date": "2025-06-02 02:05:00",
+        "sentiment_score": -0.8411374595016241
+    },
+    {
+        "title": "Artistas latinos en la mira: cancelaciones masivas de conciertos en Estados Unidos por revocación de visas",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748830368491.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/artistas-latinos-en-la-mira-cancelaciones-masivas-de-conciertos-en-estados-unidos-por-revocacion-de-visas--2025612240",
+        "date": "2025-06-02 02:04:00",
+        "sentiment_score": -0.8633818617090583
+    },
+    {
+        "title": "Predicciones de la semana del 2 al 8 de junio",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748638114855.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-2-al-8-de-junio--2025612200",
+        "date": "2025-06-02 02:00:00",
+        "sentiment_score": -0.051020167768001556
+    },
+    {
+        "title": "Conoce cuál es el remedio casero más efectivo para aliviar el dolor de estómago",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748828219303.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/conoce-cual-es-el-remedio-casero-mas-efectivo-para-aliviar-el-dolor-de-estomago-20256121400",
+        "date": "2025-06-02 01:40:00",
+        "sentiment_score": -0.8191528730094433
+    },
+    {
+        "title": "En video: Joaquina y Chiara Oliver sorprenden con homenaje improvisado a Taylor Swift",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748829508477.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/en-video-joaquina-y-chiara-oliver-sorprenden-con-homenaje-improvisado-a-taylor-swift-20256121340",
+        "date": "2025-06-02 01:34:00",
+        "sentiment_score": 0.05774910748004913
+    },
+    {
+        "title": "James Blunt revela el verdadero significado de su éxito “You’re Beautiful” tras 20 años de lanzamiento: no es una canción de amor",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748827676963.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/james-blunt-revela-el-verdadero-significado-de-su-exito-you-re-beautiful-tras-20-anos-de-lanzamiento-no-es-una-cancion-de-amor-20256121250",
+        "date": "2025-06-02 01:25:00",
+        "sentiment_score": 0.5674919076263905
+    },
+    {
+        "title": "El impactante mensaje de Camila Homs por la reconciliación de Rodrigo De Paul y Tini",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748818776684.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/el-impactante-mensaje-de-camila-homs-por-la-reconciliacion-de-rodrigo-de-paul-y-tini-2025612200",
+        "date": "2025-06-02 01:03:45",
+        "sentiment_score": 0.3796454407274723
+    },
+    {
+        "title": "Tarifas Movistar: estos son los precios de los planes para junio 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748804841408.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/tarifas-movistar-estos-son-los-precios-de-los-planes-para-junio-2025-2025612100",
+        "date": "2025-06-02 01:00:00",
+        "sentiment_score": 0.10231956280767918
+    },
+    {
+        "title": "Al menos tres detenidos por tráfico de drogas en Apure: serán imputados por la Fiscalía",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748825888195.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/al-menos-tres-detenidos-por-trafico-de-drogas-en-apure-seran-imputados-por-la-fiscalia-2025612100",
+        "date": "2025-06-02 01:00:00",
+        "sentiment_score": -0.6927884593605995
     }
 ];
