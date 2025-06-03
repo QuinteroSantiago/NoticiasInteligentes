@@ -130,71 +130,6 @@ export default [
         "sentiment_score": -0.27193020284175873
     },
     {
-        "title": "Los héroes de la UCO",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/05/30/cartas-director-1200x630-U81547848600EUs-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-heroes-uco-20250530160355-nt.html",
-        "date": "2025-05-30 14:03:55",
-        "sentiment_score": -0.011332899332046509
-    },
-    {
-        "title": "Grecia declara el estado de emergencia en algunas regiones del norte tras encontrar uranio en el suministro de agua potable",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "actualidad",
-            "uranio",
-            "agua",
-            "grecia",
-            "agua potable",
-            "contaminación"
-        ],
-        "link": "https://www.meneame.net/story/grecia-declara-estado-emergencia-algunas-regiones-norte-tras",
-        "date": "2025-05-30 12:40:02",
-        "sentiment_score": -0.7322198282927275
-    },
-    {
-        "title": "Repsol suma más de 2,6 millones de clientes de luz y gas, y mete presión a las grandes eléctricas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/05/30/repsolimaz-Rts1oltXen0Qbsbc0u0xqxL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/repsol-suma-millones-clientes-luz-gas-mete-20250530140723-nt.html",
-        "date": "2025-05-30 12:07:23",
-        "sentiment_score": -0.04443085193634033
-    },
-    {
-        "title": "Amancio Ortega compra por 240 millones la sede de Planeta en Barcelona, uno de los edificios más reconocibles de la Diagonal",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/05/30/0-RELNoEFPvH0LC4lFZxhSUpI-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/amancio-ortega-compra-sede-planeta-emblema-skyline-20250530135126-nt.html",
-        "date": "2025-05-30 11:55:57",
-        "sentiment_score": -0.0844191312789917
-    },
-    {
-        "title": "Al menos 20 heridos por disparos israelíes en un nuevo incidente en el reparto de ayuda en Gaza",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/05/30/protestas-entrada-ayuda-kvOC-U701059502078RuH-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/heridos-disparos-israelies-nuevo-incidente-reparto-ayuda-20250530132754-nt.html",
-        "date": "2025-05-30 11:27:55",
-        "sentiment_score": -0.3501844108104706
-    },
-    {
-        "title": "Sarampión: ¿cómo hacer frente al aumento del número de casos?",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/05/30/sarampion.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/sarampion-frente-aumento-numero-casos-20250530115404-nt.html",
-        "date": "2025-05-30 10:52:15",
-        "sentiment_score": -0.25235824286937714
-    },
-    {
         "title": "Adelanta de forma temeraria a un coche patrulla en un vehículo con droga y acaba detenido",
         "image_url": "https://imagenes.elpais.com/resizer/v2/2BDV3BBHLZCBFNPPQLT475GXQ4.jpg?auth=611213b53ff9a07af06e11f3bc18283c63d6974a35a0609b22e160d7863c4b29&width=1200",
         "tags": [
@@ -263,102 +198,6 @@ export default [
         "link": "https://elpais.com/espana/2025-05-30/ni-en-tu-pueblo-ni-en-el-mio-la-simbiosis-de-macrogranjas-y-plantas-de-biogas-saca-a-los-pueblos-a-la-calle.html",
         "date": "2025-05-30 14:28:20",
         "sentiment_score": -0.8198370356112719
-    },
-    {
-        "title": "El juez Peinado rectifica y anula su reclamación de un informe sobre el rescate de Air Europa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FGHDCETBFVCPLK4SUFHL4B6HZY.jpg?auth=a836eadbc0aaf334b631a57dc69e84dd34c520c84a23fc3b1c6cdebe98a129dd&width=1200",
-        "tags": [
-            "investigación judicial",
-            "audiencia nacional",
-            "pedro sánchez",
-            "psoe",
-            "delitos",
-            "globalia",
-            "juan carlos peinado",
-            "begoña gómez fernández",
-            "españa",
-            "justicia",
-            "corrupción",
-            "air europa"
-        ],
-        "link": "https://elpais.com/espana/2025-05-30/el-juez-peinado-rectifica-y-anula-su-reclamacion-de-un-informe-sobre-el-rescate-de-air-europa.html",
-        "date": "2025-05-30 14:09:40",
-        "sentiment_score": -0.6601688899099827
-    },
-    {
-        "title": "Un hombre mata a golpes de pistola a otro en una pelea en León",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MC6COPNSXV3YVN6ZZI4NKDWJVE.jpg?auth=61a7d6197ad95a2f71fe2dcf0c9cff9c6f11cf58e6d6d549ffa254f0b502130f&width=1200",
-        "tags": [
-            "guardia civil",
-            "homicidios",
-            "españa",
-            "bembibre",
-            "león",
-            "sucesos",
-            "tiroteos"
-        ],
-        "link": "https://elpais.com/espana/2025-05-30/un-hombre-mata-a-golpes-de-pistola-a-otro-en-una-pelea-en-leon.html",
-        "date": "2025-05-30 14:09:14",
-        "sentiment_score": -0.8321582470089197
-    },
-    {
-        "title": "La jueza de la dana pregunta a la Generalitat quienes podían validar la alerta",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IG253EINOBGZTLGZALCO3TNKSY.jpg?auth=ca72418b7fd95135afe823370721866a6f15c3ee3cacfab8fe3211a093542d26&width=1200",
-        "tags": [
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-30/la-jueza-de-la-dana-pregunta-a-la-generalitat-quienes-podian-validar-la-alerta.html",
-        "date": "2025-05-30 13:59:13",
-        "sentiment_score": -0.3995346613228321
-    },
-    {
-        "title": "Morrissey y otros retos de Noches del Botánico: “Es vegetariano militante. Ese día algunos puestos tendrán que cerrar”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WTMCN5CDYFI6NCAE577R3ZN4VQ.jpg?auth=df4028c0abcfa6436b1f46d4c08b900293118436f9c1b3cb0e32402a47346479&width=1200",
-        "tags": [
-            "conciertos",
-            "festivales música",
-            "noches del botánico",
-            "cantantes",
-            "madrid",
-            "comunidad de madrid",
-            "arte",
-            "música",
-            "morrisey"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-05-30/morrissey-y-otros-retos-de-noches-del-botanico-es-vegetariano-militante-ese-dia-algunos-puestos-tendran-que-cerrar.html",
-        "date": "2025-05-30 13:51:16",
-        "sentiment_score": -0.5315673090517521
-    },
-    {
-        "title": "El PP y Vox proponen la Alta Distinción valenciana para la madrileña Fundación Toro de Lidia, a la que dan 600.00 euros mientras asfixian a la Acadèmia de la Llengua",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DKFRPZM72ZAQXNNYTGVXGNC374.JPG?auth=75617b486923263ce20106173e81fe213023b2c681e731d6895cbe09f8da1f45&width=1200",
-        "tags": [
-            "compromis-q",
-            "toros",
-            "vicente barrera",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "ppcv",
-            "vox"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-30/el-pp-y-vox-proponen-la-alta-distincion-valenciana-para-la-madrilena-fundacion-toro-de-lidia-a-la-que-dan-60000-euros-mientras-asfixian-a-la-academia-de-la-llengua.html",
-        "date": "2025-05-30 13:10:31",
-        "sentiment_score": -0.3596063554286957
-    },
-    {
-        "title": "El juzgado decreta el sobreseimiento provisional de la causa del incendio de Campanar",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6DKVJGUDNREDFESAARUSSY3NOA.jpg?auth=4af0b5fc364222010610fdc7adaf2e0dd571afff36c91a29b20bef967139bf09&width=1200",
-        "tags": [
-            "incendios",
-            "valencia",
-            "sucesos",
-            "policía nacional",
-            "comunidad valenciana",
-            "juzgados"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-05-30/el-juzgado-decreta-el-sobreseimiento-provisional-de-la-causa-del-incendio-de-campanar.html",
-        "date": "2025-05-30 13:02:59",
-        "sentiment_score": -0.6495350003242493
     },
     {
         "title": "La mayoría de venezolanos enviados a El Salvador no tenía condena por crímenes en EE UU",
@@ -7448,5 +7287,366 @@ export default [
         "link": "https://2001online.com/farandula/cardi-b-estalla-contra-offset-le-pidio-manutencion-y-hasta-la-dejo-con-la-factura-de-los-ninos--2025621370",
         "date": "2025-06-02 20:12:00",
         "sentiment_score": -0.20216858386993408
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Málaga este 3 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/D3M5PDD6KFEFFD42WQZ66A7WOQ.jpg?auth=a8aa4ea9ed14fd30d8cb5b21e6b501ff2c3fda363d561f29508cdde481ca114a&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/03/clima-hoy-en-espana-temperaturas-para-malaga-este-3-de-junio/",
+        "date": "2025-06-03 02:16:27",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/N4M4IVRFERDCHCK6HNLNYX5KNQ.jpg?auth=25629c36349610d43f3222c4e040945e94e96c590e4fc348655971464bdbe395&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/03/prediccion-del-clima-estas-son-las-temperaturas-en-barcelona/",
+        "date": "2025-06-03 01:16:02",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Sergi López visita ‘La Revuelta’ a presentar su nueva película y comer gambas, es manoseado por Broncano y habla sobre el mundo de la rave en Marruecos: “Están inventando un mundo nuevo”",
+        "image_url": "https://www.infobae.com/resizer/v2/J6LTMGS4YJHPTBW7WMHLOXDZUM.jpg?auth=8a0ea9c16789197cb11dae59e659c6eea8dc1c593621e5aac86ff461461aa494&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/03/sergi-lopez-visita-la-revuelta-a-presentar-su-nueva-pelicula-y-comer-gambas-es-manoseado-por-broncano-y-habla-sobre-el-mundo-de-la-rave-en-marruecos-estan-inventando-un-mundo-nuevo/",
+        "date": "2025-06-03 00:22:28",
+        "sentiment_score": -0.17815938591957092
+    },
+    {
+        "title": "Expertos advierten sobre los efectos de una tormenta solar grave: “Podría deshabilitar sistemas vitales”",
+        "image_url": "https://www.infobae.com/resizer/v2/3NT2273T6FFPDKAOKBNXUW3BDI.jpg?auth=eb69172367684a94114dc9a1ceb1d7fef96f8ab6569f37d2e7715c692bf4d464&height=1153&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/30/expertos-advierten-sobre-los-efectos-de-una-tormenta-solar-grave-podria-deshabilitar-sistemas-vitales/",
+        "date": "2025-06-03 00:00:54",
+        "sentiment_score": -0.7098071947693825
+    },
+    {
+        "title": "Solo el 21,71% de los niños de familias con pocos recursos va a campus que incluyen comida",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/02/solo-el-2171-de-los-ninos-de-familias-con-pocos-recursos-va-a-campus-que-incluyen-comida/",
+        "date": "2025-06-02 23:31:28",
+        "sentiment_score": -0.21596809849143028
+    },
+    {
+        "title": "Desigualdad también en verano: los niños con bajos ingresos van a campamentos sin comedor",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/02/desigualdad-tambien-en-verano-los-ninos-con-bajos-ingresos-van-a-campamentos-sin-comedor/",
+        "date": "2025-06-02 23:16:11",
+        "sentiment_score": -0.804113982245326
+    },
+    {
+        "title": "Cerca de 15.000 aficionados aclaman a la plantilla del Elche en su estadio tras el ascenso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/02/cerca-de-15000-aficionados-aclaman-a-la-plantilla-del-elche-en-su-estadio-tras-el-ascenso/",
+        "date": "2025-06-02 22:46:53",
+        "sentiment_score": 0.1960868462920189
+    },
+    {
+        "title": "Un fallecido y un herido muy grave en una salida de vía en San Adrián (Navarra)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/02/un-fallecido-y-un-herido-muy-grave-en-una-salida-de-via-en-san-adrian-navarra/",
+        "date": "2025-06-02 22:31:01",
+        "sentiment_score": -0.7922724187374115
+    },
+    {
+        "title": "Miret: “Creo que podemos hacer un baloncesto mas igualado”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/02/miret-creo-que-podemos-hacer-un-baloncesto-mas-igualado/",
+        "date": "2025-06-02 22:19:06",
+        "sentiment_score": 0.5889138430356979
+    },
+    {
+        "title": "Un test y un nuevo medicamento para revertir el pronóstico del cáncer de próstata agresivo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/06/02/cancer-prostata-Rnu3gsLclK46ofxDStAGNvI-1200x840@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/alla-metastasis-genes-definen-agresividad-cancer-prostata-20250602211412-nt.html",
+        "date": "2025-06-03 02:13:46",
+        "sentiment_score": -0.18150731921195984
+    },
+    {
+        "title": "Postemporada Liga Endesa: Este es el plantel del Real Madrid para enfrentar al Baskonia",
+        "image_url": "https://pxcdn.meridiano.net/062025/1748917674368.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/baloncesto/baloncesto-internacional/postemporada-liga-endesa-este-es-el-plantel-del-real-madrid-para-enfrentar-al-baskonia-20256222170",
+        "date": "2025-06-03 02:17:00",
+        "sentiment_score": 0.2103748358786106
+    },
+    {
+        "title": "Martes, 3 de junio de 2025 (02.00 GMT)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/03/martes-3-de-junio-de-2025-0200-gmt/",
+        "date": "2025-06-03 02:16:06",
+        "sentiment_score": -0.007993184030056
+    },
+    {
+        "title": "Lamine Yamal declara: \"Si tiene que llegar el Balón de Oro, llegará\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lamine yamal",
+            "deportes"
+        ],
+        "link": "https://noticialdia.com/deportes/lamine-yamal-declara-si-tiene-que-llegar-el-balon-de-oro-llegara/",
+        "date": "2025-06-03 02:12:27",
+        "sentiment_score": 0.5601657927036285
+    },
+    {
+        "title": "Florentino Pérez encuentra en el PSG un aliado inesperado para los fichajes",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/03/2025060304043636301.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/psg-surge-como-insospechado-aliado-florentino-perez-mercado-fichajes/20250603041200346019.html",
+        "date": "2025-06-03 02:12:00",
+        "sentiment_score": 0.8119331430643797
+    },
+    {
+        "title": "Bernabé y Morant: una relación que se afianza entre el ruido de Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/39edee9c-77c2-40dd-98c6-6c8da5622f38_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2025/06/03/bernabe-morant-relacion-afianza-ruido-118144747.html",
+        "date": "2025-06-03 02:00:34",
+        "sentiment_score": 0.011897623538970947
+    },
+    {
+        "title": "El pueblo costero de Mallorca que enamoró a Franco Colapinto: calas paradisíacas y paisajes naturales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/06/03/2400129/pueblo-costero-mallorca-enamoro-franco-colapinto-calas-paradisiacas-paisajes-naturales.html",
+        "date": "2025-06-03 02:00:01",
+        "sentiment_score": 0.41872814297676086
+    },
+    {
+        "title": "Qué es de los herederos de Lorenzo Sanz: Cómo vive el clan del expresidente del Madrid",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/diseno-sin-titulo---2025-06-02t152756854_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/que-del-clan-lorenzo-sanz-como-viven-hijos-expresidente-madrid",
+        "date": "2025-06-03 02:00:00",
+        "sentiment_score": -0.057667866349220276
+    },
+    {
+        "title": "Caos en el Santander: Cierra su servicio de automóviles en plena oleada de despidos",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/santander-wabi_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/caos-santander-cierra-servicio-automoviles-oleada-despidos",
+        "date": "2025-06-03 01:30:00",
+        "sentiment_score": -0.6229517534375191
+    },
+    {
+        "title": "Hacienda encuentra problemas al amigo de Begoña Gómez",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/06/01/683c4407245b6.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/250603/2049977/hacienda-encuentra-problemas-barrabes.html",
+        "date": "2025-06-03 01:30:00",
+        "sentiment_score": -0.7793788854032755
+    },
+    {
+        "title": "CR7 estaría cerca de llegar a este equipo en el Mundial de Clubes: está en el mismo grupo del Real Madrid",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748915079022.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/cr7-estaria-cerca-de-llegar-a-este-equipo-en-el-mundial-de-clubes-esta-en-el-mismo-grupo-del-real-madrid-20256221280",
+        "date": "2025-06-03 01:28:00",
+        "sentiment_score": 0.7752004116773605
+    },
+    {
+        "title": "Tres escuelas de negocios de Barcelona entran el top 20 mundial en formación ejecutiva",
+        "image_url": "https://album.mediaset.es/eimg/2025/06/02/esade-en-barcelona_7349.jpg",
+        "tags": [
+            "educación"
+        ],
+        "link": "https://www.telecinco.es/noticias/educacion/20250603/tres-escuelas-negocios-barcelona-entran-top-mundial-formacion-ejecutiva_18_015741579.html",
+        "date": "2025-06-03 02:00:34",
+        "sentiment_score": 0.8040480315685272
+    },
+    {
+        "title": "Del aula a la pista: la vida de Rafa Gómez entre canastas y partituras",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3330421.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/deportes/baloncesto/2025/06/03/2400377/del-aula-pista-vida-rafa-gomez-entre-canastas-partituras.html",
+        "date": "2025-06-03 02:00:01",
+        "sentiment_score": -0.18955817818641663
+    },
+    {
+        "title": "La planta ancestral para ahuyentar los mosquitos este verano y conciliar el sueño: insecticida natural durante 8 horas",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3329443.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/06/03/2399879/planta-ancestral-para-ahuyentar-mosquitos-este-verano-conciliar-sueno-insecticida-natural-durante-horas.html",
+        "date": "2025-06-03 02:00:01",
+        "sentiment_score": 0.5883807837963104
+    },
+    {
+        "title": "El Ajuntament pedirá a Aena más fuentes de agua potable en el aeropuerto",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3329867.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/06/03/2400117/ajuntament-pedira-aena-mas-fuentes-agua-potable-aeropuerto.html",
+        "date": "2025-06-03 02:00:01",
+        "sentiment_score": 0.03872983157634735
+    },
+    {
+        "title": "Las pinturas de Enrique Mestre se exponen en Ca n’Àngel",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3330293.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2025/06/03/2400285/pinturas-enrique-mestre-exponen-angel.html",
+        "date": "2025-06-03 02:00:01",
+        "sentiment_score": 0.057416319847106934
+    },
+    {
+        "title": "El Palma Futsal blinda a su estrella",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3330425.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/palma-futsal/2025/06/03/2400385/futbol-sala-palma-futsal-renovara-brasileno-luan-muller.html",
+        "date": "2025-06-03 02:00:01",
+        "sentiment_score": 0.3907727152109146
+    },
+    {
+        "title": "El milenario del monasterio de Montserrat",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3329839.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/06/03/2400107/milenario-del-monasterio-montserrat.html",
+        "date": "2025-06-03 02:00:01",
+        "sentiment_score": 0.14013461768627167
+    },
+    {
+        "title": "Maduro respalda alerta a venezolanos de no viajar a Estados Unidos: Y los que estén allá, regresen",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748915118374.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-respalda-alerta-a-venezolanos-de-no-viajar-a-estados-unidos-y-los-que-esten-alla-regresen-2025622220",
+        "date": "2025-06-03 02:02:00",
+        "sentiment_score": 0.781680578365922
+    },
+    {
+        "title": "Maquillaje a prueba de agua: tres ingredientes naturales para retirarlo sin esfuerzo",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748630415876.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/maquillaje-a-prueba-de-agua-tres-ingredientes-naturales-para-retirarlo-sin-esfuerzo-20256221550",
+        "date": "2025-06-03 01:55:00",
+        "sentiment_score": 0.15002867579460144
+    },
+    {
+        "title": "Hijo del \"Profesor Jirafales\" revela causa real de su muerte: desmiente versión oficial",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748915671562.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/hijo-del-profesor-jirafales-revela-causa-real-de-su-muerte-desmiente-version-oficial-20256221520",
+        "date": "2025-06-03 01:52:00",
+        "sentiment_score": -0.8635984025895596
+    },
+    {
+        "title": "Elimina las manchas de la piel con esta económica mascarilla a base de aloe vera",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748914918659.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/elimina-las-manchas-de-la-piel-con-esta-economica-mascarilla-a-base-de-aloe-vera-20256221500",
+        "date": "2025-06-03 01:50:00",
+        "sentiment_score": -0.647064208984375
+    },
+    {
+        "title": "Migbelis Castellanos revela desafíos en \"Desiguales\": Ponernos de acuerdo ha sido un tema",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748915133739.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/migbelis-castellanos-revela-desafios-en-desiguales-ponernos-de-acuerdo-ha-sido-un-tema-20256221430",
+        "date": "2025-06-03 01:43:00",
+        "sentiment_score": 0.6691857241094112
+    },
+    {
+        "title": "\"El teléfono negro 2\" anuncia terror intensificado: su director promete mayor crudeza",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748914725255.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/el-telefono-negro-2-anuncia-terror-intensificado-su-director-promete-mayor-crudeza-20256221360",
+        "date": "2025-06-03 01:36:00",
+        "sentiment_score": -0.062148258090019226
+    },
+    {
+        "title": "Carta astral de Yulimar Rojas: su Luna en Virgo la hace ser perfeccionista y constante",
+        "image_url": "https://pxcdn.2001online.com/2001/052025/1748697552211.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/carta-astral-de-yulimar-rojas-su-luna-en-virgo-la-hace-ser-perfeccionista-y-constante-20256221300",
+        "date": "2025-06-03 01:30:00",
+        "sentiment_score": 0.10771150887012482
+    },
+    {
+        "title": "\"La quimera del oro\" de Charles Chaplin regresa a salas de cine: restauración en 4K para su centenario",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748914143204.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/la-quimera-del-oro-de-charles-chaplin-regresa-a-salas-de-cine-restauracion-en-4k-para-su-centenario-20256221210",
+        "date": "2025-06-03 01:21:00",
+        "sentiment_score": 0.2856190539896488
+    },
+    {
+        "title": "Mundial de Clubes 2025: conozca dónde y cómo adquirir los boletos para el esperado torneo",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1748913998742.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/mundial-de-clubes-2025-conozca-donde-y-como-adquirir-los-boletos-para-el-esperado-torneo-20256221130",
+        "date": "2025-06-03 01:13:00",
+        "sentiment_score": 0.06946025416254997
     }
 ];
