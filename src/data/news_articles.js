@@ -170,36 +170,6 @@ export default [
         "sentiment_score": -0.29288966953754425
     },
     {
-        "title": "Gaza se queda hoy sin ayuda humanitaria tras los tiroteos mortales durante su reparto",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/06/04/gazaa-kIHD-U701084518954kSE-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/gaza-queda-hoy-ayuda-humanitaria-tras-tiroteos-20250604145952-nt.html",
-        "date": "2025-06-04 12:59:53",
-        "sentiment_score": -0.10589718818664551
-    },
-    {
-        "title": "El Sabadell ve «deseables» fusiones entre bancos pequeños si no afectan «al interés general»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/06/04/sabadell-ceo-RkchPm6HT86akgu8nMSWGbM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/sabadell-deseables-fusiones-bancos-pequenos-afectan-interes-20250604144556-nt.html",
-        "date": "2025-06-04 12:45:57",
-        "sentiment_score": -0.09880909323692322
-    },
-    {
-        "title": "Suecia juzga a un yihadista por el asesinato de un piloto jordano que fue quemado vivo en Siria",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/06/04/94975635_Osama_Krayem_trans_NvBQ-kLwE-U701084352084o9B-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/suecia-juzga-yihadista-asesinato-piloto-jordano-quemado-20250604142710-nt.html",
-        "date": "2025-06-04 12:27:11",
-        "sentiment_score": -0.33934953808784485
-    },
-    {
         "title": "El PSOE-A pide la reprobación del presidente de la Cámara de Cuentas por “obstruir el control democrático”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/4RNNTWQVNFHERGCXM4AO4UJTI4.jpg?auth=e9a91af08f779c022f91be50a13baed25b1467609346164540d7f0d00319cc5a&width=1200",
         "tags": [
@@ -360,25 +330,6 @@ export default [
         "link": "https://elpais.com/espana/2025-06-04/la-princesa-leonor-llega-a-nueva-york-en-la-ultima-escala-americana-del-buque-escuela-elcano.html",
         "date": "2025-06-04 14:17:39",
         "sentiment_score": 0.08516143262386322
-    },
-    {
-        "title": "Una víctima de la dana a Mazón: “¿Si no tiene miedo, por qué no declara?”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YBQSR447WGHFOYUX6TOOXPVEBY.jpg?auth=70887649a41b4825319ba4c673fc88abdf6139a8bbd1fd2af7f5c76e289756c9&width=1200",
-        "tags": [
-            "catarroja",
-            "alfafar",
-            "valencia",
-            "paiporta",
-            "carlos mazón",
-            "comunidad valenciana",
-            "aldaia",
-            "sedaví",
-            "benetússer",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-06-04/una-victima-de-la-dana-a-mazon-si-no-tiene-miedo-por-que-no-declara.html",
-        "date": "2025-06-04 13:55:06",
-        "sentiment_score": -0.8039461076259613
     },
     {
         "title": "De la Fuente reivindica el juego de la Selección al hablar del Barça de Flick: \"Fuimos los primeros\"",
@@ -6524,5 +6475,302 @@ export default [
         "link": "https://2001online.com/usa/servicios/programa-cooling-assistance-benefit-en-nueva-york-elegibilidad-para-acceder-a-un-aire-acondicionado-gratis--2025671650",
         "date": "2025-06-07 20:05:00",
         "sentiment_score": 0.1006917804479599
+    },
+    {
+        "title": "Madrid: la predicción del tiempo para este 8 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/4EGTGUNIKJFTFH3RPDJ4VLARHE.jpg?auth=05e5574a162d5ccaff830f8e237ec0cebd98faad89faef071d096e7bbb864221&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/08/madrid-la-prediccion-del-tiempo-para-este-8-de-junio/",
+        "date": "2025-06-08 01:45:37",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Muere un motorista al chocar contra un turismo en Parla (Madrid)",
+        "image_url": "https://www.infobae.com/resizer/v2/F3TADT3HKNEIDHLR2XWKDDOOT4.jpg?auth=52ffe4a13ee1f44338237b82b5e7945d51a2ab367bf8284eef64724c1b0a444b&height=1249&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/08/muere-un-motorista-al-chocar-contra-un-turismo-en-parla-madrid-2/",
+        "date": "2025-06-08 01:04:58",
+        "sentiment_score": -0.7819232847541571
+    },
+    {
+        "title": "Un joven de 21 años, herido muy grave tras ser tiroteado cuando caminaba por la calle en Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7UKHKQ7GUVG4JGXLEN6YTYINDM.JPG?auth=ec1e26126397e2bdc7542788557238b5978bd3e9bfc84be706638fdb7db39cee&width=1200",
+        "tags": [
+            "samur",
+            "policía",
+            "sucesos",
+            "madrid",
+            "comunidad de madrid",
+            "investigación policial",
+            "armas de fuego",
+            "hospitales"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-06-08/un-joven-de-21-anos-herido-muy-grave-tras-ser-tiroteado-cuando-caminaba-por-la-calle-en-madrid.html",
+        "date": "2025-06-08 01:56:51",
+        "sentiment_score": -0.7395159136503935
+    },
+    {
+        "title": "Macarena Blanco, la madrileña que susurra a los corales de Punta Cana: \"Estamos curando la pandemia de los arrecifes\"",
+        "image_url": "https://s1.elespanol.com/2025/06/04/actualidad/1003743788286_256156114_1706x960.jpg?contentId=1003743788286",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/referentes/20250608/macarena-blanco-madrilena-susurra-corales-punta-cana-curando-pandemia-arrecifes/1003743788244_0.html",
+        "date": "2025-06-08 02:10:03",
+        "sentiment_score": -0.054084986448287964
+    },
+    {
+        "title": "Luarca cuenta una historia de cine: \"Este era el paraíso de Gil Parrondo\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dea04913-62a5-48b8-b004-d3c83fb68247_16-9-aspect-ratio_default_0_x482y787.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/occidente/2025/06/08/luarca-cuenta-historia-cine-paraiso-118368257.html",
+        "date": "2025-06-08 02:10:00",
+        "sentiment_score": -0.1363488733768463
+    },
+    {
+        "title": "«Me enteré de en qué país vivía el día de los últimos fusilamientos de Franco»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bd9e2bbc-ae1e-4742-8249-1961c71e9db5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/estela/2025/06/08/julian-hernandez-me-entere-de-en-que-pais-vivia-el-dia-de-los-ultimos-fusilamientos-de-franco-118357550.html",
+        "date": "2025-06-08 02:06:02",
+        "sentiment_score": -0.27508746087551117
+    },
+    {
+        "title": "Dos décadas del desembarco de Vicenç Grande en el Real Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3328559.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/06/08/2399345/dos-decadas-del-desembarco-vicenc-grande-real-mallorca.html",
+        "date": "2025-06-08 02:00:01",
+        "sentiment_score": -0.0263197124004364
+    },
+    {
+        "title": "Insomnio familiar fatal, la enfermedad que quita el sueño y ha matado a 35 personas de una misma familia en Jaén",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32e076e3-a31e-46aa-82ff-6e3b2449ff02_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.epe.es/es/salud/20250608/insomnio-familiar-fatal-enfermedad-no-deja-dormir-jaen-115277428",
+        "date": "2025-06-08 01:59:00",
+        "sentiment_score": -0.9150167787447572
+    },
+    {
+        "title": "Insomnio familiar fatal, la enfermedad que quita el sueño y ha matado a 35 personas de una misma familia en Jaén",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32e076e3-a31e-46aa-82ff-6e3b2449ff02_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/salud/guia/2025/06/08/insomnio-familiar-fatal-enfermedad-no-deja-dormir-jaen-115277435.html",
+        "date": "2025-06-08 01:59:00",
+        "sentiment_score": -0.9081408325582743
+    },
+    {
+        "title": "Txell Feixas, corresponsal en Oriente Medio: \"Netanyahu necesita esta guerra por las ansias expansionistas de Israel\"",
+        "image_url": "https://s1.elespanol.com/2025/06/06/actualidad/1003743793355_256251203_1706x960.jpg?contentId=1003743793355",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elespanol.com/mundo/oriente-proximo/20250608/txell-feixas-corresponsal-oriente-medio-netanyahu-necesita-guerra-ansias-expansionistas-israel/1003743782486_0.html",
+        "date": "2025-06-08 02:10:08",
+        "sentiment_score": -0.8424279624596238
+    },
+    {
+        "title": "El genial invento español para no tener que regar las plantas en vacaciones: ahorra un 80% de agua y mantiene la humedad",
+        "image_url": "https://s1.elespanol.com/2025/06/05/omicrono/hardware/1003743790500_256198029_1706x960.jpg?contentId=1003743790500",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20250608/genial-invento-espanol-no-tener-regar-plantas-vacaciones-ahorra-agua-mantiene-humedad/1003743784799_0.html",
+        "date": "2025-06-08 02:10:04",
+        "sentiment_score": 0.35928384959697723
+    },
+    {
+        "title": "Sánchez cumple 40 días sin aceptar preguntas de la prensa y 11 meses sin dar entrevistas a medios españoles",
+        "image_url": "https://s1.elespanol.com/2025/06/07/actualidad/1003743794353_256272210_1706x960.jpg?contentId=1003743794353",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250606/sanchez-cumple-dias-sin-aceptar-preguntas-prensa-meses-dar-entrevistas-medios-espanoles/1003743791488_0.html",
+        "date": "2025-06-08 02:10:02",
+        "sentiment_score": -0.8773970734328032
+    },
+    {
+        "title": "Feijóo pide convertir la manifestación de Madrid en \"un grito atronador de decencia ante un Gobierno indecente\"",
+        "image_url": "https://s1.elespanol.com/2025/06/07/actualidad/1003743794392_256272690_1706x960.jpg?contentId=1003743794392",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250608/feijoo-pide-convertir-manifestacion-madrid-grito-atronador-decencia-gobierno-indecente/1003743794389_0.html",
+        "date": "2025-06-08 02:09:13",
+        "sentiment_score": -0.0753042995929718
+    },
+    {
+        "title": "El Puerto de Algeciras se estanca",
+        "image_url": "https://static.grupojoly.com/clip/f324a8a8-74d3-408a-bd98-00c117b68d90_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europasur.es/campo-de-gibraltar/puerto-algeciras-estanca_0_2004100184.html",
+        "date": "2025-06-08 02:01:02",
+        "sentiment_score": -0.8825107906013727
+    },
+    {
+        "title": "Las esculturas vestibles de Carla Souto",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ad2715b-cf8a-4b78-9fec-ba088d68602e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/estela/2025/06/08/esculturas-vestibles-carla-souto-joyera-118261550.html",
+        "date": "2025-06-08 02:00:29",
+        "sentiment_score": 0.2360512614250183
+    },
+    {
+        "title": "Ayuso: “Nos quieren hacer sentir extranjeros en España”",
+        "image_url": "https://static.laregion.es/clip/2bb200df-a580-44cb-b31d-db823c1c3f60_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/espana/ayuso-quieren-sentir-extranjeros-espana_1_20250608-3871702.html",
+        "date": "2025-06-08 02:00:21",
+        "sentiment_score": -0.9112730538472533
+    },
+    {
+        "title": "La Conferencia de Presidentes: un encuentro desaprovechado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/editorial/2025/06/08/2403993/conferencia-presidentes-encuentro-desaprovechado.html",
+        "date": "2025-06-08 02:00:01",
+        "sentiment_score": -0.8207064718008041
+    },
+    {
+        "title": "La indignidad de Ayuso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/06/08/2403835/indignidad-ayuso.html",
+        "date": "2025-06-08 02:00:01",
+        "sentiment_score": -0.5200582891702652
+    },
+    {
+        "title": "Los 12 pueblos catalanes de Junts y ERC que quieren más Guardia Civil: \"Aquí no hay ideología, hay necesidades de los vecinos\"",
+        "image_url": "https://s1.elespanol.com/2025/06/06/actualidad/1003743793719_256258443_1706x960.jpg?contentId=1003743793719",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250608/pueblos-catalanes-junts-erc-quieren-guardia-civil-no-ideologia-necesidades-vecinos/1003743791355_0.html",
+        "date": "2025-06-08 01:40:48",
+        "sentiment_score": 0.2072439342737198
+    },
+    {
+        "title": "Trump responde a protestas por redadas migratorias: 2.000 soldados de la Guardia Nacional llegarán a Los Ángeles",
+        "image_url": "https://vivirediciones.es/wp-content/uploads/2025/06/rss-efe57b85ab2f76747a6b493811323e5f4315c1ea5bbw.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/trump-responde-a-protestas-por-redadas-migratorias-2-000-soldados-de-la-guardia-nacional-llegaran-a-los-angeles-2025672270",
+        "date": "2025-06-08 02:08:00",
+        "sentiment_score": 0.2561172693967819
+    },
+    {
+        "title": "El Desfile Nacional del Día Puertorriqueño llega a Nueva York: horario y programación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-desfile-nacional-del-dia-puertorriqueno-llega-a-nueva-york-horario-y-programacion-2025672280",
+        "date": "2025-06-08 02:08:00",
+        "sentiment_score": 0.08224300295114517
+    },
+    {
+        "title": "Detienen a extorsionador que azotaba a comerciantes del Mercado de Coche: exigía altas sumas de dinero",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-extorsionador-que-azotaba-a-comerciantes-del-mercado-de-coche-exigia-altas-sumas-de-dinero-2025672200",
+        "date": "2025-06-08 02:00:00",
+        "sentiment_score": -0.26525022834539413
+    },
+    {
+        "title": "El enigma de la evacuación: mitos y verdades del por qué tu cuerpo se resiste",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1749150318415/Captura%20de%20pantalla%202025-06-05%20a%20la(s)%203.04.47%20p.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/el-enigma-de-la-evacuacion-mitos-y-verdades-del-por-que-tu-cuerpo-se-resiste-20256721550",
+        "date": "2025-06-08 01:55:00",
+        "sentiment_score": 0.09576940536499023
+    },
+    {
+        "title": "¿Regresará Donald Trump a la WWE?: la propuesta de Logan Paul que enloqueció al público",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1749345961789/trump-elon_11zon.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/regresara-donald-trump-a-la-wwe-la-propuesta-de-logan-paul-que-enloquecio-al-publico-2025672210",
+        "date": "2025-06-08 01:16:50",
+        "sentiment_score": 0.11298482120037079
+    },
+    {
+        "title": "Activan jornadas de créditos para electrodomésticos este 8 de junio: productos que puede adquirir",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/activan-jornadas-de-creditos-para-electrodomesticos-este-8-de-junio-productos-que-puede-adquirir-2025672100",
+        "date": "2025-06-08 01:00:00",
+        "sentiment_score": 0.13071691431105137
+    },
+    {
+        "title": "Rehabilitan la residencia Estudiantil Livia Gouverneur en Caracas: aspiran albergar a jóvenes de diversos estados del país",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/rehabilitan-la-residencia-estudiantil-livia-gouverneur-en-caracas-aspiran-albergar-a-jovenes-de-diversos-estados-del-pais-20256720590",
+        "date": "2025-06-08 00:59:00",
+        "sentiment_score": 0.3019476104527712
+    },
+    {
+        "title": "Trump advierte a Musk sobre apoyar a candidatos demócratas: Habrá consecuencias muy graves",
+        "image_url": "https://s.france24.com/media/display/b1e9b68e-4317-11f0-9a01-005056bf30b7/w:1280/p:16x9/2025-06-06T060535Z_434923757_RC2JSEAHXB5Y_RTRMADP_3_USA-TRUMP-MUSK-FRUSTRATION.JPG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/trump-advierte-a-musk-sobre-apoyar-a-candidatos-democratas-habra-consecuencias-muy-graves-20256720580",
+        "date": "2025-06-08 00:58:00",
+        "sentiment_score": -0.7306530978530645
+    },
+    {
+        "title": "De Messi a Lamine Yamal: este es el restaurante preferido de los jugadores del FC Barcelona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/de-messi-a-lamine-yamal-este-es-el-restaurante-preferido-de-los-jugadores-del-fc-barcelona-20256721400",
+        "date": "2025-06-08 00:46:32",
+        "sentiment_score": 0.5124005079269409
+    },
+    {
+        "title": "Hinchas de River Plate y Cristiano Ronaldo: la campaña viral que busca un fichaje de ensueño",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1749340586518/image.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/hinchas-de-river-plate-y-cristiano-ronaldo-la-campana-viral-que-busca-un-fichaje-de-ensueno-20256721150",
+        "date": "2025-06-08 00:24:59",
+        "sentiment_score": 0.1698681116104126
     }
 ];
