@@ -138,48 +138,6 @@ export default [
         "sentiment_score": -0.7107485625892878
     },
     {
-        "title": "Canarias alberga 22 años después el desfile del Día de las Fuerzas Armadas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QHTNG6AIHFCXTLNAK4O2PSKYJE.jpg?auth=520a94ee14445249c276193a238167d18ef2b5fc1c8d191c23455591ae2bc6bb&width=1200",
-        "tags": [
-            "ume",
-            "guardia civil",
-            "ejército aire",
-            "felipe vi",
-            "reina letizia",
-            "fuerzas armadas",
-            "españa",
-            "monarquía",
-            "ejército español",
-            "desfiles militares"
-        ],
-        "link": "https://elpais.com/espana/2025-06-07/canarias-alberga-40-anos-despues-el-desfile-del-dia-de-las-fuerzas-armadas.html",
-        "date": "2025-06-07 13:55:53",
-        "sentiment_score": -0.06000994145870209
-    },
-    {
-        "title": "Unas 2.000 personas protestan en Madrid por el aumento en el gasto en defensa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EHDU5QMBI4RYWCHIILPSIXTPKM.jpg?auth=961a16f8ce57767db7bac9638defed12fc9bba12a7a40c93bb2069b949deffa5&width=1200",
-        "tags": [
-            "podemos",
-            "madrid",
-            "izquierda unida",
-            "ione belarra",
-            "donald trump",
-            "españa",
-            "defensa",
-            "gasto militar",
-            "otan",
-            "sumar",
-            "ejército tierra",
-            "mark rutte",
-            "bruselas",
-            "manifestaciones"
-        ],
-        "link": "https://elpais.com/espana/2025-06-07/unas-2000-personas-protestan-en-madrid-por-el-aumento-en-el-gasto-en-defensa.html",
-        "date": "2025-06-07 11:59:56",
-        "sentiment_score": -0.26208025217056274
-    },
-    {
         "title": "Las noticias imprescindibles del sábado 7 de junio en León",
         "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2025/06/07/NOTICIAS-DIA-7JUNIO-kc2C-U2301950591526aaF-1200x840@Leonoticias.jpg",
         "tags": [
@@ -6681,5 +6639,235 @@ export default [
         "link": "https://2001online.com/nacionales/sistema-electrico-nacional-realizan-labores-correctivas-en-la-planta-termoelectrica-202561013290",
         "date": "2025-06-10 17:29:00",
         "sentiment_score": 0.7848884481936693
+    },
+    {
+        "title": "Las últimas previsiones para Málaga: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/6VBA6QGBAJHTJC2NCIBFJCCZDQ.jpg?auth=b8d3c6a0917a04e07e11c155e120d39702aa88af22cdccdb5c863d8f96b1e16d&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/las-ultimas-previsiones-para-malaga-temperatura-lluvias-y-viento/",
+        "date": "2025-06-11 02:01:49",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Madrid este 11 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/N5GRA76UTJDUXARMPJV3XZMVQA.jpg?auth=25d81388f01463161ec1dfdd3d249fcb8106e776293f9e67867bdf7271599651&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-madrid-este-11-de-junio/",
+        "date": "2025-06-11 01:30:59",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Johannes Pietsch, ganador de Eurovisión, visita ‘La Revuelta’ e imita a Melody con giro de coleta incluido: “Hola Melody, espero que estés bien”",
+        "image_url": "https://www.infobae.com/resizer/v2/MZG7FFVTSVGW5DMZ4S5CRSU6QA.png?auth=1361fc5a86d514c6e10a79dbd7cc3411916fde9127964165a56ef5fda33c544b&height=398&smart=true&width=720",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/johannes-pietsch-ganador-de-eurovision-visita-la-revuelta-e-imita-a-melody-con-giro-de-coleta-incluido-hola-melody-espero-que-estes-bien/",
+        "date": "2025-06-11 01:26:31",
+        "sentiment_score": 0.09932151809334755
+    },
+    {
+        "title": "Los aseguradores empiezan a inquitarse con el apagón",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/06/07/playa%20gijon-kyVH-U44023600138FMa-170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-aseguradores-empiezan-inquitarse-apagon-20250611192306-nt.html",
+        "date": "2025-06-11 02:10:16",
+        "sentiment_score": -0.4706825464963913
+    },
+    {
+        "title": "Eliminatorias | La Vinotinto peleará por el repechaje en septiembre",
+        "image_url": "https://nuevodia.com.ve/wp-content/uploads/2025/06/repechaje-e1749607446534.webp",
+        "tags": [
+            "eliminatorias mundialistas",
+            "selección vinotinto",
+            "deportes",
+            "eliminatorias sudamericanas para el mundial",
+            "la vinotinto",
+            "mundial 2026",
+            "repechaje",
+            "selección de venezuela",
+            "destacadas",
+            "eliminatorias sudamericanas",
+            "noticias falcón",
+            "la vinotinto hoy"
+        ],
+        "link": "https://nuevodia.com.ve/eliminatorias-la-vinotinto-peleara-por-el-repechaje-en-septiembre/",
+        "date": "2025-06-11 02:07:56",
+        "sentiment_score": -0.13585904240608215
+    },
+    {
+        "title": "Definido el mapa de la liga para el Hestia Menorca",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3343153.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/deportes/baloncesto/2025/06/11/2405905/definido-mapa-liga-para-hestia-menorca.html",
+        "date": "2025-06-11 02:00:01",
+        "sentiment_score": 0.2883419170975685
+    },
+    {
+        "title": "Recibimiento por todo lo alto para Ancelotti en São Paulo: \"Felicidades, Carletto\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/11/recibimiento-por-todo-lo-alto-para-ancelotti-en-sao-paulo-felicidades-carletto/",
+        "date": "2025-06-11 01:51:55",
+        "sentiment_score": 0.830770468339324
+    },
+    {
+        "title": "Tú sí que vales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/si-vales_0_2004120037.html",
+        "date": "2025-06-11 01:12:43",
+        "sentiment_score": 0.6463166624307632
+    },
+    {
+        "title": "Surtopía, el restaurante al que un inspector Michelin no daba más de tres meses y lleva ya 13 años cocinando sin tópicos el Sur en Madrid",
+        "image_url": "https://phantom-elmundo.uecdn.es/4eac65eb19c6250b3af850559913476d/crop/15x39/3072x2077/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/10/17495596892175.jpg",
+        "tags": [
+            "comer",
+            "cocina",
+            "gastronomía",
+            "madrid",
+            "restaurantes"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/06/11/68429fd2e9cf4a27138b4580.html",
+        "date": "2025-06-11 00:36:22",
+        "sentiment_score": 0.5130633041262627
+    },
+    {
+        "title": "Llegan los calores del verano y las competiciones deportivas propias de la temporada",
+        "image_url": "https://www.nuevatribuna.es/media/nuevatribuna/images/2025/06/11/2025061102282748804.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.nuevatribuna.es/articulo/sociedad/llegan-calores-verano-competiciones-deportivas-propias-temporada/20250611023108239243.html",
+        "date": "2025-06-11 00:31:08",
+        "sentiment_score": 0.8244330994784832
+    },
+    {
+        "title": "Aficionados del Inter de Milán cantan “Pachuca” antes de comenzar el Mundial de C lubes, ¿Qué pasó realmente?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/06/10/aficionados-del-inter-de-milan-cantan-pachuca-antes-de-comenzar-el-mundial-de-clubes-que-paso-realmente/",
+        "date": "2025-06-10 23:55:00",
+        "sentiment_score": -0.273159421980381
+    },
+    {
+        "title": "Tiempos de suspiros y oscuridades",
+        "image_url": "https://men.gsstatic.es/autor/juan-jose-gomila-felix/21.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/06/11/2405687/tiempos-suspiros-oscuridades.html",
+        "date": "2025-06-11 02:00:01",
+        "sentiment_score": -0.8007281385362148
+    },
+    {
+        "title": "Que ayer fuera día de retenciones, además de en la carretera general, en la Ronda de Maó...",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3342977.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/sorprende-sorprende/2025/06/11/2405831/ayer-fuera-dia-retenciones-ademas-carretera-general-ronda-mao.html",
+        "date": "2025-06-11 02:00:01",
+        "sentiment_score": -0.7417744975537062
+    },
+    {
+        "title": "DO Catalunya: 25 años de arraigo, confianza y futuro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/77fac094-d058-479d-a639-36edafe0446c_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/cata-mayor/20250611/do-catalunya-25-anos-arraigo-118450149",
+        "date": "2025-06-11 01:59:51",
+        "sentiment_score": 0.18261878192424774
+    },
+    {
+        "title": "Expresidente Santos llama a planear ciudades inteligentes con visión social de largo plazo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/11/expresidente-santos-llama-a-planear-ciudades-inteligentes-con-vision-social-de-largo-plazo/",
+        "date": "2025-06-11 01:53:02",
+        "sentiment_score": 0.6178977284580469
+    },
+    {
+        "title": "Cacheos virtuales en los aeropuertos: el innovador sistema que quiere EEUU para examinarte sin tocar tu cuerpo",
+        "image_url": "https://s1.elespanol.com/2025/06/06/ciencia/tecnologia/1003743792848_256241161_1706x960.jpg?contentId=1003743792848",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20250611/cacheos-virtuales-aeropuertos-innovador-sistema-quiere-eeuu-examinarte-sin-tocar-cuerpo/1003743791302_0.html",
+        "date": "2025-06-11 01:13:11",
+        "sentiment_score": -0.0636066198348999
+    },
+    {
+        "title": "Illa esquiva el veto a sus socios para ampliar el 'superaeropuerto' de El Prat",
+        "image_url": "https://phantom-elmundo.uecdn.es/d4e3792b72b074e50aae0f5e86783d20/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/10/17495814448095.jpg",
+        "tags": [
+            "artículos clara rojas",
+            "artículos césar urrutia"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/06/11/684883eee4d4d8c27b8b458b.html",
+        "date": "2025-06-11 00:36:21",
+        "sentiment_score": 0.22695502638816833
+    },
+    {
+        "title": "El papel clave de Toni Segarra, el ideólogo del plan del BBVA para seducir al Sabadell",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/sgarra_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/papel-clave-toni-segarra-ideologo-bbva-para-seducir-al-sabadell",
+        "date": "2025-06-11 00:30:00",
+        "sentiment_score": -0.8891407586634159
+    },
+    {
+        "title": "Tres médicos heridos deja accidente en La Ceiba",
+        "image_url": "https://elperiodicodemonagas.com.ve/wp-content/uploads/2025/06/IMG-20250610-WA0106_1.jpg",
+        "tags": [
+            "accidente",
+            "médicos",
+            "sucesos",
+            "suceso"
+        ],
+        "link": "https://elperiodicodemonagas.com.ve/sucesos/tres-medicos-heridos-deja-accidente-en-la-ceiba/",
+        "date": "2025-06-11 00:29:38",
+        "sentiment_score": -0.6726556532084942
+    },
+    {
+        "title": "El economista Gonzalo Bernardos es tajante contra el catalán: \"Lo han convertido en un idioma antipático\"",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2025/06/10/0DDF454D-3BE4-40DD-B557-34CF4A589CCC/imagen-gonzalo-bernardos-ciudad-barcelona_69.jpg?crop=1244%2C700%2Cx4%2Cy0&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/economista-gonzalo-bernardos-tajante-catalan-han-convertido-idioma-antipatico-p7m_20250611684809e23686c164f3882af0.html",
+        "date": "2025-06-11 00:26:02",
+        "sentiment_score": -0.3436865955591202
+    },
+    {
+        "title": "El bloqueo político por la ampliación de El Prat hace que 30 aeropuertos de Aena crezcan a mayor ritmo desde 2019",
+        "image_url": "https://s1.elespanol.com/2025/06/10/actualidad/1003743797973_256340353_1706x960.jpg?contentId=1003743797973",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20250611/bloqueo-politico-ampliacion-prat-hace-aeropuertos-aena-crezcan-mayor-ritmo/1003743797831_0.html",
+        "date": "2025-06-11 00:02:50",
+        "sentiment_score": 0.4900820851325989
     }
 ];
