@@ -190,16 +190,6 @@ export default [
         "sentiment_score": -0.13159188628196716
     },
     {
-        "title": "Milei se reúne con Edmundo González en Madrid en un encuentro marcado por el atentado contra Uribe",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/06/08/milei-kl6B-U701105255158iq-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/milei-reune-edmundo-gonzalez-madrid-encuentro-marcado-20250608160003-nt.html",
-        "date": "2025-06-08 14:00:04",
-        "sentiment_score": -0.01889479160308838
-    },
-    {
         "title": "Lo que no mata engorda",
         "image_url": "https://imagenes.elpais.com/resizer/v2/5MRNR6LOQBEENNIHQPVUMQFRLA.jpg?auth=1acdf87c3f21aff6272a6d1fff05851136817be8b09a700149f6d00a59f14cf3&width=1200",
         "tags": [
@@ -217,80 +207,6 @@ export default [
         "link": "https://elpais.com/espana/2025-06-08/lo-que-no-mata-engorda.html",
         "date": "2025-06-08 14:55:26",
         "sentiment_score": -0.9185785772278905
-    },
-    {
-        "title": "A un lado y otro de la Meridiana de Barcelona: los vecinos de la Trinitat Nova y Vella piden una conexión en metro",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GATNHVZBAVCR7EAH3XRV6TTQKQ.jpg?auth=49d8153969cb63279669f6f6fc0910aea84dcef41039b8b7920e2de7fe0726cb&width=1200",
-        "tags": [
-            "cataluña",
-            "barrios",
-            "metro barcelona",
-            "contaminación tráfico",
-            "barcelona",
-            "tmb",
-            "contaminación",
-            "circulación transporte",
-            "metro",
-            "asociaciones vecinos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-08/a-un-lado-y-otro-de-la-meridiana-de-barcelona-los-vecinos-de-la-trinitat-nova-y-vella-piden-una-conexion-en-metro.html",
-        "date": "2025-06-08 13:07:49",
-        "sentiment_score": -0.38638629019260406
-    },
-    {
-        "title": "Feijóo en la protesta contra el Gobierno: “Señor Sánchez, ríndase a la democracia. Convoque elecciones ya”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SOWRW26B5FDP5LDQPLZEYOZM64.JPG?auth=3d70cc93cac049e2031786bd5f98b0db533df887ecf47f96c0ea886fa14c1085&width=1200",
-        "tags": [
-            "mariano rajoy",
-            "corrupción política",
-            "isabel díaz ayuso",
-            "pp",
-            "josé maría aznar",
-            "manifestaciones",
-            "españa",
-            "alberto núñez feijóo",
-            "psoe",
-            "vox"
-        ],
-        "link": "https://elpais.com/espana/2025-06-08/feijoo-en-la-protesta-contra-el-gobierno-senor-sanchez-rindase-a-la-democracia-convoque-elecciones-ya.html",
-        "date": "2025-06-08 12:09:04",
-        "sentiment_score": -0.3413538932800293
-    },
-    {
-        "title": "Hallan el cuerpo sin vida de una mujer en la orilla de una playa de Almuñécar",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6OCZTENSNZEFXCJMC3PE4GX5QA.jpg?auth=8508b019f53f3b9e5aa50ee88fb96b2d5dde06410d502f067339451160f72409&width=1200",
-        "tags": [
-            "sucesos",
-            "playas",
-            "granada",
-            "españa",
-            "almuñécar"
-        ],
-        "link": "https://elpais.com/espana/2025-06-08/hallan-el-cuerpo-sin-vida-de-una-mujer-en-la-orilla-de-una-playa-de-almunecar.html",
-        "date": "2025-06-08 11:59:48",
-        "sentiment_score": -0.5446403622627258
-    },
-    {
-        "title": "Chappell Roan reina en la última noche del Primavera Sound: fantasía para un mundo que asoma",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3ZCXNH75OZCGZK55UCMTFE7YJ4.jpg?auth=79258f68713c0f2534c505c14f35283cf539f898c4aab6a27e98654c38b214ea&width=1200",
-        "tags": [
-            "fórum culturas 2004",
-            "cataluña",
-            "chappell roan",
-            "pop",
-            "baile",
-            "barcelona",
-            "espectáculos",
-            "lcd soundsystem",
-            "festivales música",
-            "música",
-            "primavera sound",
-            "cultura",
-            "conciertos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-08/chappell-roan-reina-en-la-ultima-noche-del-primavera-sound-fantasia-para-un-mundo-que-asoma.html",
-        "date": "2025-06-08 10:52:27",
-        "sentiment_score": -0.25938379764556885
     },
     {
         "title": "Laporta prefiere estar con España a las secciones de su Barça",
@@ -7061,5 +6977,267 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/business/20250611/lucha-fundacio-vila-casas-libra-empresas/1003742665050_0.html",
         "date": "2025-06-11 22:00:00",
         "sentiment_score": -0.7799787130206823
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/E5CCATV4LVFBHKJTOOVUPZWDKU.jpg?auth=9987a25b4c04a216e6bab1f88da278cbaa603c6e4dd9c97bb8bf81a455745295&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/12/prediccion-del-clima-estas-son-las-temperaturas-en-malaga/",
+        "date": "2025-06-12 02:01:44",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Pedro Duque, el primer astronauta español, aprovecha la “ingravidez” del tobogán, responde las clásicas como un ingeniero, y habla de películas espaciales: “Apollo 13 es exactamente como pasa”",
+        "image_url": "https://www.infobae.com/resizer/v2/VXDPRVHI7ZA4LLNXNR6L2QIVT4.png?auth=e0fe92ab19272a202efc300116a32a578a410bc397fe4b6667527f196c5a7134&height=391&smart=true&width=720",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/12/pedro-duque-el-primer-astronauta-espanol-aprovecha-la-ingravidez-del-tobogan-responde-las-clasicas-como-un-ingeniero-y-habla-de-peliculas-espaciales-apollo-13-es-exactamente-como-pasa/",
+        "date": "2025-06-12 01:45:13",
+        "sentiment_score": 0.250476386398077
+    },
+    {
+        "title": "España: el pronóstico del tiempo para Madrid este 12 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/RGWLZETCOBB3VOO4J35NR7OXWA.jpg?auth=2f494be92b4ed1a8da3c65b579afdede8d98beb3e5ad526fa821276253f4baa3&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/12/espana-el-pronostico-del-tiempo-para-madrid-este-12-de-junio/",
+        "date": "2025-06-12 01:31:22",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 12 de junio en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/HQ3VC4UFEVAZLG4SU3DBKTIZWY.jpg?auth=bb7f79b14ff479c1418c674eb5f778c7b0434304d563c89971bb2e3f4380c957&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/12/clima-las-temperaturas-que-predominaran-este-12-de-junio-en-barcelona/",
+        "date": "2025-06-12 01:16:46",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Los mejores filmes de Prime Video España para ver en cualquier momento",
+        "image_url": "https://www.infobae.com/resizer/v2/5HXI5TF5FZASZEJG5FRLWXMNA4.jpg?auth=51399cba538e2f529fc33fd5814ed080f9c269a16ec6cf21b3e580b6dca695c2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/06/11/los-mejores-filmes-de-prime-video-espana-para-ver-en-cualquier-momento/",
+        "date": "2025-06-11 23:30:41",
+        "sentiment_score": 0.7445468716323376
+    },
+    {
+        "title": "Colombia y España lanzan becas para cursos certificados: son más de 1.000 opciones, así puede participar",
+        "image_url": "https://www.infobae.com/resizer/v2/DEAKE57ADJGAHDDECX5F4GCSNU.jpg?auth=67f357219bbc1dcc1473376bf6b0220e7c837b316566268a59ca684805a4f357&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/06/11/colombia-y-espana-lanzan-becas-para-cursos-certificados-son-mas-de-1000-opciones-asi-puede-participar/",
+        "date": "2025-06-11 22:34:39",
+        "sentiment_score": 0.6700615342706442
+    },
+    {
+        "title": "Un muerto y un herido en un presunto tiroteo en una vivienda de Isla Cristina (Huelva)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/un-muerto-y-un-herido-en-un-presunto-tiroteo-en-una-vivienda-de-isla-cristina-huelva/",
+        "date": "2025-06-11 22:28:18",
+        "sentiment_score": -0.7729108352214098
+    },
+    {
+        "title": "Una soltera de ‘First Dates’ saca una esposas para decirle a su acompañante nudista si quiere una segunda cita: “Se siente mucho placer, es muy intenso”",
+        "image_url": "https://www.infobae.com/resizer/v2/6AEFXILAMBD6LF7VFFN3GNWOJE.png?auth=e439de20001a2406e75e1bd2c23e3992b326b4734ab92b723563ff412aa2557d&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/una-soltera-de-first-dates-saca-una-esposas-para-decirle-a-su-acompanante-nudista-si-quiere-una-segunda-cita-se-siente-mucho-placer-es-muy-intenso/",
+        "date": "2025-06-11 22:20:07",
+        "sentiment_score": -0.5865376181900501
+    },
+    {
+        "title": "La ministra de Industria del Reino Unido, Sarah Jones, en la Cámara de Comercio Española",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/12/camaracomercio-RMcUMX0ashSuTqHFRXTJg3I-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ministra-industria-reino-unido-sarah-jones-camara-20250612014837-nt.html",
+        "date": "2025-06-11 23:48:49",
+        "sentiment_score": 0.049264222383499146
+    },
+    {
+        "title": "Operación Dominik Greif",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3344753.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/06/12/2406757/operacion-dominik-greif.html",
+        "date": "2025-06-12 02:00:01",
+        "sentiment_score": -0.11257849633693695
+    },
+    {
+        "title": "El impactante banderazo para el plantel de River antes del viaje al Mundial de Clubes: el gesto de Mastantuono con los hinchas",
+        "image_url": "https://www.infobae.com/resizer/v2/KRM4OEWNWFG7HBYO4UEPCJRQGE.jpg?auth=15f52c64627497c8d89f679ef55df8773e023b5674e87099b69b62bb140bf665&height=1366&smart=true&width=2048",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/12/el-impactante-banderazo-para-el-plantel-de-river-antes-del-viaje-al-mundial-de-clubes-el-gesto-de-mastantuono-con-los-hinchas/",
+        "date": "2025-06-12 01:37:09",
+        "sentiment_score": 0.18887175619602203
+    },
+    {
+        "title": "Bienvenido, míster Zheng",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/bienvenido-mister-zheng_0_2004128478.html",
+        "date": "2025-06-12 01:11:43",
+        "sentiment_score": 0.4602424129843712
+    },
+    {
+        "title": "Proyecto Caetra: nace una plataforma que coordina los diferentes servicios ante catástrofes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9cd5f5e1-3e4d-4c67-8600-c3b0f5163fbf_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20250612/proyecto-caetra-nace-plataforma-coordina-118483626",
+        "date": "2025-06-12 00:59:08",
+        "sentiment_score": 0.09755560755729675
+    },
+    {
+        "title": "La figura del Real Madrid que puede abandonar el club tras la llegada llegada de Franco Mastantuono",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/12/la-figura-del-real-madrid-que-puede-abandonar-el-club-tras-la-llegada-llegada-de-franco-mastantuono/",
+        "date": "2025-06-12 00:54:51",
+        "sentiment_score": 0.2424909621477127
+    },
+    {
+        "title": "El pacto sobre Gibraltar elimina la Verja pero impone un \"control dual\" de la frontera que implica 'de facto' la soberanía británica",
+        "image_url": "https://s1.elespanol.com/2025/06/11/espana/politica/1003743800730_256392519_1706x960.jpg?contentId=1003743800730",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250612/pacto-gibraltar-elimina-verja-impone-control-dual-frontera-implica-facto-soberania-britanica/1003743800599_0.html",
+        "date": "2025-06-12 00:39:44",
+        "sentiment_score": -0.8662422131747007
+    },
+    {
+        "title": "La investigación del apagón recaba conversaciones previas de Red Eléctrica con hasta 30 centros de control diferentes",
+        "image_url": "https://s1.elespanol.com/2025/06/11/actualidad/1003743800428_256387224_1706x960.jpg?contentId=1003743800428",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20250612/investigacion-apagon-recaba-conversaciones-previas-red-electrica-centros-control-diferentes/1003743800422_0.html",
+        "date": "2025-06-12 00:30:48",
+        "sentiment_score": -0.05019224062561989
+    },
+    {
+        "title": "Escándalo en el Sevilla FC: Qué hay tras la 'criptoestafa' de 6 de sus exfutbolistas",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/diseno-sin-titulo---2025-06-11t125825561_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/escandalo-sevilla-fc-presunta-criptoestafa-6-exfutbolistas",
+        "date": "2025-06-12 00:30:00",
+        "sentiment_score": -0.8919142475351691
+    },
+    {
+        "title": "Así es El Mirador de Cuatro Vientos donde Marta López se casa: menú todo incluido por 139 euros por persona",
+        "image_url": "https://s1.elespanol.com/2025/06/11/actualidad/1003743799507_256369838_1706x960.jpg?contentId=1003743799507",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20250612/mirador-vientos-marta-lopez-casa-menu-incluido-euros-persona/1003743799434_0.html",
+        "date": "2025-06-12 00:17:15",
+        "sentiment_score": 0.10833149775862694
+    },
+    {
+        "title": "Real Madrid presentará a Alexander-Arnold este jueves",
+        "image_url": "https://elluchador.info/wp-content/uploads/2025/06/alexander-arnold-camiseta-madrid-1068x641.jpeg",
+        "tags": [
+            "presentación",
+            "deportes",
+            "real madrid"
+        ],
+        "link": "https://elluchador.info/?p=280799",
+        "date": "2025-06-11 23:47:12",
+        "sentiment_score": 0.1455877535045147
+    },
+    {
+        "title": "La historia de Antònia Font: de su separación y regreso al significado de su nombre",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3344041.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/06/12/2406321/historia-antonia-font-separacion-regreso-significado-nombre.html",
+        "date": "2025-06-12 02:00:01",
+        "sentiment_score": -0.008234471082687378
+    },
+    {
+        "title": "Quo vadis, Marga",
+        "image_url": "https://uh.gsstatic.es/autor/llorenc-capella/10871.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/06/12/2406481/quo-vadis-marga.html",
+        "date": "2025-06-12 02:00:01",
+        "sentiment_score": -0.6134537234902382
+    },
+    {
+        "title": "Condenado en Palma por acosar a una mujer: «El acusado se creó una realidad paralela»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3344659.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2025/06/12/2406675/sucesos-mallorca-condenado-palma-por-acosar-mujer-acusado-creo-realidad-paralela.html",
+        "date": "2025-06-12 02:00:01",
+        "sentiment_score": -0.8047004882246256
+    },
+    {
+        "title": "La ‘Tras’ permitirá alojarse en su barco en el puerto de Maó los fines de semana",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3344351.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/06/12/2406581/tras-permitira-alojarse-barco-puerto-mao-fines-semana.html",
+        "date": "2025-06-12 02:00:01",
+        "sentiment_score": 0.1904338151216507
+    },
+    {
+        "title": "Fallece Rafael Guitart, empresario y promotor en la hostelería y la construcción",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3344625.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/06/12/2406689/fallece-rafael-guitart-empresario-promotor-hosteleria-construccion.html",
+        "date": "2025-06-12 02:00:01",
+        "sentiment_score": -0.7953921295702457
+    },
+    {
+        "title": "Cofares, líder del reparto boticario",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/07/6844924e3d0ec.r_d.2715-1993-876.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250612/10765818/cofares-reparto-farmacias-cooperativa.html",
+        "date": "2025-06-12 02:00:00",
+        "sentiment_score": 0.5264993198215961
+    },
+    {
+        "title": "“Messi me salvó”: la revelación al borde de las lágrimas de una leyenda del Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/XE22YPP7WJAIFFQZANVWKVVV6I.png?auth=77f3b0575f9de42867cebd00d19c114e1592845e3e61a13cd00e7d8546d9e24b&height=696&smart=true&width=744",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/12/messi-me-salvo-la-revelacion-al-borde-de-las-lagrimas-de-una-leyenda-del-barcelona/",
+        "date": "2025-06-12 01:12:25",
+        "sentiment_score": 0.7904743328690529
     }
 ];
