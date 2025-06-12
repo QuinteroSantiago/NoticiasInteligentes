@@ -293,109 +293,6 @@ export default [
         "sentiment_score": -0.25938379764556885
     },
     {
-        "title": "Josep Oliu confía en que el Gobierno tenga en cuenta los “perjuicios” de la opa del BBVA sobre el Sabadell",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/B5AYXYCNC5ANTDHPU3BHADBYXY.jpg?auth=b7eca8f8de08f2206fafe0712ed6c99cc96bf9a63c0a80ee87571202949adceb&width=1200",
-        "tags": [
-            "cataluña",
-            "gobierno",
-            "banco sabadell",
-            "opa",
-            "tv3",
-            "cnmv",
-            "bbva",
-            "banca",
-            "bancos",
-            "cnmc"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-08/josep-oliu-confia-en-que-el-gobierno-tenga-en-cuenta-los-perjuicios-de-la-opa-del-bbva-sobre-el-sabadell.html",
-        "date": "2025-06-08 10:17:14",
-        "sentiment_score": -0.8818901320919394
-    },
-    {
-        "title": "Manifestación del 8 de junio en Madrid en contra de Pedro Sánchez, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IAGMC7NHYVCGFFLAGAQMVCUPZA.jpg?auth=2f57bcd400aab1ab522e356068946a2de437a52500cf18598cc7dc756034f087&width=1200",
-        "tags": [
-            "koldo garcía",
-            "españa",
-            "manifestaciones",
-            "pp",
-            "alberto núñez feijóo",
-            "leire díez",
-            "josé maría aznar",
-            "mariano rajoy",
-            "psoe",
-            "plaza de españa madrid",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/2025-06-08/manifestacion-del-8-de-junio-en-madrid-en-contra-de-pedro-sanchez-en-imagenes.html",
-        "date": "2025-06-08 08:51:39",
-        "sentiment_score": -0.3379802629351616
-    },
-    {
-        "title": "Ayuso defiende el modelo de primarias para escoger al líder del PP, contrario al que defiende Feijóo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OENTRZ5UJIEMRPJIN5DPGVIMT4.jpg?auth=22812ed4daf7d9f761dda9beab75957c0b870718497c5a2c66baac520c9d602e&width=1200",
-        "tags": [
-            "españa",
-            "congresos pp",
-            "alberto núñez feijóo",
-            "pp",
-            "pedro sánchez",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/2025-06-08/ayuso-defiende-el-modelo-de-primarias-para-escoger-al-lider-del-pp-contrario-al-que-defiende-feijoo.html",
-        "date": "2025-06-08 08:49:44",
-        "sentiment_score": -0.8405539253726602
-    },
-    {
-        "title": "La manifestación del PP, en directo | Feijóo liderará la protesta bajo el lema “mafia o democracia”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PD6WTKJGHZFT5OGYZPRN6KIKWY.jpg?auth=6a640b1068fe2b814c9228121f113d90aee85a1fe0652cc871b5f31f07e4b325&width=1200",
-        "tags": [
-            "psoe",
-            "pedro sánchez",
-            "josé maría aznar",
-            "gobierno",
-            "plaza de españa madrid",
-            "manifestaciones",
-            "juan manuel moreno",
-            "mariano rajoy",
-            "alberto núñez feijóo",
-            "españa",
-            "isabel díaz ayuso",
-            "pp",
-            "leire díez",
-            "koldo garcía"
-        ],
-        "link": "https://elpais.com/espana/2025-06-08/la-manifestacion-del-pp.html",
-        "date": "2025-06-08 07:30:01",
-        "sentiment_score": 0.11963503062725067
-    },
-    {
-        "title": "Elisenda Alamany, ERC: “Si avanzamos en Cercanías y financiación, seguiremos hablando para los Presupuestos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GLXJM6NM6VEGPN4PCBZ5QTHE2M.jpg?auth=b573aaa66c97da510f48c8215b9a57eba315b76f88a5a7136843bb7a4a9c1a01&width=1200",
-        "tags": [
-            "vivienda",
-            "política autonómica",
-            "política municipal",
-            "turismo",
-            "catalán",
-            "cataluña",
-            "presupuestos municipales",
-            "parlament cataluña",
-            "parlamentos autonómicos",
-            "presupuestos autonómicos",
-            "cercanías",
-            "tasa turística",
-            "erc",
-            "barcelona",
-            "política",
-            "ayuntamiento barcelona",
-            "elisenda alamany"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-08/elisenda-alamany-erc-si-avanzamos-en-cercanias-y-financiacion-seguiremos-hablando-para-los-presupuestos.html",
-        "date": "2025-06-08 06:32:25",
-        "sentiment_score": -0.4287870228290558
-    },
-    {
         "title": "Laporta prefiere estar con España a las secciones de su Barça",
         "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/08/culemania/palco/1003742664155_14698535_1706x960.jpg?contentId=1003742664155",
         "tags": [
@@ -6630,5 +6527,539 @@ export default [
         "link": "https://www.elperiodico.com/es/sociedad/20250611/la-anilla-verde-de-la-ampliacion-del-aeropuerto-esquivara-un-plan-de-5000-viviendas-en-el-baix-llobregat-118496809",
         "date": "2025-06-11 17:04:37",
         "sentiment_score": 0.12408800423145294
+    },
+    {
+        "title": "Nuevo Jorge Chávez responde a críticas del diseño de su techo y lo compara con aeropuertos de España, Francia e Italia",
+        "image_url": "https://www.infobae.com/resizer/v2/BC7HGBVVSZD73OHCGMKJL2HCME.jpg?auth=31e71e5d0c49a43cbcef2da7757e81aaf74b89225e986b93a6433f19ecce3337&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/06/11/nuevo-aeropuerto-jorge-chavez-responde-a-criticas-del-diseno-de-su-techo-y-lo-compara-con-aeropuertos-de-espana-francia-e-italia/",
+        "date": "2025-06-11 22:09:03",
+        "sentiment_score": 0.15565508231520653
+    },
+    {
+        "title": "Albares recalca tras el acuerdo sobre Gibraltar que \"España no renuncia a su reclamación de soberanía\"",
+        "image_url": "https://www.infobae.com/resizer/v2/L27BL35D5VGA7NQS76RMCZ3N4E.jpg?auth=d1859820127bfe3096d8ef4381070b2cf7065a4a0c2ba239bd3c861a25500c46&height=1282&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/11/albares-recalca-tras-el-acuerdo-sobre-gibraltar-que-espana-no-renuncia-a-su-reclamacion-de-soberania/",
+        "date": "2025-06-11 21:45:18",
+        "sentiment_score": -0.44113684445619583
+    },
+    {
+        "title": "Cuatro futbolistas argentinos fueron denunciados por una presunta criptoestafa en España",
+        "image_url": "https://www.infobae.com/resizer/v2/F7RZAK52FNHI5MQQJZ7DDU6P3Y.jpg?auth=d68704c687308d6b3f556fb9af3e3cd3af6678baa9b471aecfa1c0bde5dc0be9&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/11/cuatro-futbolistas-argentinos-fueron-denunciados-por-una-presunta-criptoestafa-en-espana/",
+        "date": "2025-06-11 21:21:53",
+        "sentiment_score": -0.9371896889060736
+    },
+    {
+        "title": "Número ganador de la lotería 6/49 de este 11 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/J5XOY6X5OFFC5BDPCKOG5I5EMM.jpg?auth=65094737280b3120202c0d135183f7c25acbe93f10dcc6f862a7c60bc51a0a7a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/numero-ganador-de-la-loteria-649-de-este-11-de-junio/",
+        "date": "2025-06-11 21:00:28",
+        "sentiment_score": 0.06829076260328293
+    },
+    {
+        "title": "“Viene para ser titular”: el análisis en España sobre el desembarco de Franco Mastantuono al Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/5E7X6FUVUBHNPHXPD6WHHK4FHI.jpg?auth=3f2a98e98f84a4a85c2bfa3d8ee6c37ea3540dda06299548cdd684b2c4079305&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/11/viene-para-ser-titular-el-analisis-en-espana-sobre-el-desembarco-de-franco-mastantuono-al-real-madrid/",
+        "date": "2025-06-11 20:39:57",
+        "sentiment_score": 0.4477013163268566
+    },
+    {
+        "title": "Comprobar Bonoloto: los ganadores para este 11 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/WX47J62PAJBD5LEKBA7IFK5JFI.png?auth=a9369cd53996d442ef1884b1efe3ae5f8e2d1f987af7d0f4c9c59d9b8b14f938&height=900&smart=true&width=1600",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/comprobar-bonoloto-los-ganadores-para-este-11-de-junio/",
+        "date": "2025-06-11 20:15:35",
+        "sentiment_score": 0.09449587762355804
+    },
+    {
+        "title": "De la estresante vida en Reino Unido al placer y tranquilidad de Canarias: “El sueño de vivir en una isla se ha hecho realidad”",
+        "image_url": "https://www.infobae.com/resizer/v2/4OREXR57DBCVZF3CCKP3ABA7GA.jpg?auth=4d9a675dc8d70ae81e58cb8d25a5b4ef8a641c46dd21a74fe4a9c543bcda0901&height=1414&smart=true&width=2121",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/de-la-estresante-vida-en-reino-unido-al-placer-y-tranquilidad-de-canarias-el-sueno-de-vivir-en-una-isla-se-ha-hecho-realidad/",
+        "date": "2025-06-11 20:01:50",
+        "sentiment_score": -0.16208568215370178
+    },
+    {
+        "title": "La ampliación del aeropuerto de El Prat supondrá un crecimiento del 2% del PIB catalán, según Foment del Treball",
+        "image_url": "https://www.infobae.com/resizer/v2/PTSHOT4ZG5F5LMMQRRH6URJCME.jpg?auth=52212ca54a13cac0ab9059136a1af35a390ce6d7593d1a32ec96de0351ea2ffa&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/la-ampliacion-del-aeropuerto-de-el-prat-supondra-un-crecimiento-del-2-del-pib-catalan-segun-foment-del-treball/",
+        "date": "2025-06-11 19:57:12",
+        "sentiment_score": 0.1381390169262886
+    },
+    {
+        "title": "Carlos III pone fin a una tradición mítica en el Trooping the Colour por su tratamiento contra el cáncer: el príncipe Guillermo toma su relevo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/carlos-iii-pone-fin-a-una-tradicion-mitica-en-el-trooping-the-colour-por-su-tratamiento-contra-el-cancer-el-principe-guillermo-toma-su-relevo/",
+        "date": "2025-06-11 19:52:38",
+        "sentiment_score": -0.49838289618492126
+    },
+    {
+        "title": "Una experta en finanzas explica cuáles son las diferencias entre los tipos de contratos a la hora de reservar una casa: “Hay tres tipos distintos”",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2EPT3JZD5F4RASLNRZ6FUOUCI.jpg?auth=37e32da93cd01623c997b6c74a9687ba405a288a2e2fb367ca3028ad0c6f1fd0&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/11/una-experta-en-finanzas-explica-cuales-son-las-diferencias-entre-los-tipos-de-contratos-a-la-hora-de-reservar-una-casa-hay-tres-tipos-distintos/",
+        "date": "2025-06-11 19:50:44",
+        "sentiment_score": 0.06394372507929802
+    },
+    {
+        "title": "EE.UU. presiona a la presidenta de México para que sea más enérgica en la lucha contra la 'narcopolítica'",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/11/sheinbaum-landau-RqTRJkG0iww2pAb6gqGduxM-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/eeuu-presiona-presidenta-mexico-energica-lucha-narcopolitica-20250611220804-nt.html",
+        "date": "2025-06-11 20:11:06",
+        "sentiment_score": -0.11932054162025452
+    },
+    {
+        "title": "Errores populares",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/06/10/paliza-agustin-kx0B--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-errores-populares-20250612141715-nts.html",
+        "date": "2025-06-11 19:12:26",
+        "sentiment_score": -0.041320621967315674
+    },
+    {
+        "title": "El desmérito y la incapacidad",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/06/12/t-a-f-Rj6sjXRo13d58r3tScqCWrM-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-de-borja-ortas-luceno-desmerito-incapacidad-20250612211121-nts.html",
+        "date": "2025-06-11 19:11:42",
+        "sentiment_score": -0.11254897713661194
+    },
+    {
+        "title": "Castigar con la Virgen",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/06/10/LIBRERIA-U37633381523vID-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-castigar-virgen-20250612193503-nts.html",
+        "date": "2025-06-11 19:11:41",
+        "sentiment_score": 0.00852617621421814
+    },
+    {
+        "title": "Gaza se desangra mientras Netanyahu trata de evitar unas elecciones anticipadas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/06/11/gaza-ayuda-RXVpI5OFFbbU4WNAO92kI5L-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/gaza-desangra-netanyahu-trata-evitar-elecciones-anticipadas-20250611204112-nt.html",
+        "date": "2025-06-11 18:41:12",
+        "sentiment_score": -0.06814318895339966
+    },
+    {
+        "title": "Europa siempre",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/06/07/playa%20gijon-kyVH-U44023600138FMa-170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-europa-siempre-20250612194022-nt.html",
+        "date": "2025-06-11 17:52:18",
+        "sentiment_score": -0.13284845650196075
+    },
+    {
+        "title": "Criteria Caixa descarta definitivamente entrar en Celsa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/06/11/faine-isidro-RasO1pEmRjl9jpNp7dxH0aM-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/criteria-caixa-descarta-definitivamente-entrar-celsa-20250611195028-nt.html",
+        "date": "2025-06-11 17:50:28",
+        "sentiment_score": -0.09182398021221161
+    },
+    {
+        "title": "El caso de la Quinta República",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/06/12/250612TerceraFontecha-RIzw3HFXOxmdbXxUazqvK5L-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/manuel-fernandezfontecha-torres-quinta-republica-20250612182013-nt.html",
+        "date": "2025-06-11 17:43:05",
+        "sentiment_score": -0.09979739785194397
+    },
+    {
+        "title": "La camiseta de Ábalos",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/06/09/1497284758-kgwB--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-camiseta-abalos-20250612154919-nt.html",
+        "date": "2025-06-11 17:42:57",
+        "sentiment_score": -0.09067103266716003
+    },
+    {
+        "title": "Derivadas de selectividad",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/06/10/paliza-agustin-kx0B--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/berta-gonzalez-de-vega-derivadas-selectividad-20250612173442-nt.html",
+        "date": "2025-06-11 17:42:42",
+        "sentiment_score": -0.19119678437709808
+    },
+    {
+        "title": "El PSOE defiende a Cerdán y asegura que “jamás” ha cobrado comisiones",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HU7CAPXCJCJSGFNV75FQEEH4LY.jpg?auth=aeeaaf543e9a0c3d93cbb0889c6934e18bd4f446129db848a0389e7703480b94&width=1200",
+        "tags": [
+            "españa",
+            "pp",
+            "upn",
+            "caso koldo",
+            "pedro sánchez",
+            "psoe",
+            "koldo garcía",
+            "gabriel rufián",
+            "gobierno de españa",
+            "erc",
+            "santos cerdán"
+        ],
+        "link": "https://elpais.com/espana/2025-06-11/el-psoe-defiende-a-cerdan-y-asegura-que-jamas-ha-cobrado-comisiones.html",
+        "date": "2025-06-11 20:34:24",
+        "sentiment_score": 0.14030276983976364
+    },
+    {
+        "title": "Los alcaldes de Castelldefels y El Prat rechazan el proyecto de ampliación del aeropuerto",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HPEELKSY2FGQ2SI2KDFKHKB6HQ.jpg?auth=be6187dd93151250819d755e52042f99dcfd73405d1c5f325b39e9eaf34a9a11&width=1200",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-11/los-alcaldes-de-castelldefels-y-el-prat-rechazan-el-proyecto-de-ampliacion-del-aeropuerto.html",
+        "date": "2025-06-11 20:04:21",
+        "sentiment_score": -0.6966167334467173
+    },
+    {
+        "title": "Una grabación en manos de la UCO implica a Santos Cerdán en un supuesto cobro de comisiones",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NA6GNAUHSBD6HJWYQZED6Y6Z44.jpg?auth=5b3ece17fc75cf968c006a839538546b344c1765a63a783d084da14660593200&width=1200",
+        "tags": [
+            "uco",
+            "españa",
+            "cadena ser",
+            "adjudicación contratos",
+            "corrupción",
+            "josé luis ábalos",
+            "santos cerdán",
+            "guardia civil",
+            "koldo garcía"
+        ],
+        "link": "https://elpais.com/espana/2025-06-11/una-grabacion-en-manos-de-la-uco-implica-a-santos-cerdan-en-un-supuesto-cobro-de-comisiones.html",
+        "date": "2025-06-11 19:56:15",
+        "sentiment_score": -0.1860567182302475
+    },
+    {
+        "title": "Feijóo insiste en que se ha enterado por los medios del pacto de Gibraltar y señala “intereses personales” tras las negociaciones",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SVE4U2ULDJJHSYHCTE2JS6TNOI.jpg?auth=22162b855f68e902cca8a3e3cefa835481480a5d9e3be9a0c267e0db996f6688&width=1200",
+        "tags": [
+            "unión europea",
+            "gibraltar",
+            "alberto núñez feijóo",
+            "pedro sánchez",
+            "juan manuel moreno",
+            "pp",
+            "fabian picardo",
+            "josé manuel albares"
+        ],
+        "link": "https://elpais.com/espana/2025-06-11/feijoo-insiste-en-que-se-ha-enterado-por-los-medios-del-pacto-de-gibraltar-y-senala-intereses-personales-tras-las-negociaciones.html",
+        "date": "2025-06-11 19:38:45",
+        "sentiment_score": 0.4730084612965584
+    },
+    {
+        "title": "El PSOE andaluz acusa de un “posible delito de prevaricación” al presidente de la Cámara de Cuentas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2OOWT6ME5JBYRD2UGNWRO2TXEE.png?auth=b53703b4f0a311492dfd368e48caadef39b30a27be684ff41851afb7b3f83b65&width=1200",
+        "tags": [
+            "adelante andalucía",
+            "españa",
+            "junta andalucía",
+            "juan manuel moreno",
+            "pp-a",
+            "psoe-a",
+            "parlamento andalucía",
+            "vox",
+            "por andalucía",
+            "caso contratos emergencia sas",
+            "andalucía"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2025-06-11/el-psoe-andaluz-acusa-de-un-posible-delito-de-prevaricacion-al-presidente-de-la-camara-de-cuentas.html",
+        "date": "2025-06-11 19:24:17",
+        "sentiment_score": -0.833482762798667
+    },
+    {
+        "title": "Marc Gascons y Fermí Puig a título póstumo, Premios Nacionales de Gastronomía de Cataluña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y4Y4Z3J3KBFBVHWZ3AVZ5ZRU2U.jpg?auth=7132cefc765952d68eca4bc4abc545fe90bae861f7e969880fe25c4202a05ceb&width=1200",
+        "tags": [
+            "periodismo",
+            "alimentación",
+            "guía michelin",
+            "premios",
+            "fermí puig",
+            "gastronomía",
+            "nutrición",
+            "cataluña",
+            "restaurantes",
+            "cocineros"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-11/marc-gascons-y-fermi-puig-a-titulo-postumo-premios-nacionales-de-gastronomia-de-cataluna.html",
+        "date": "2025-06-11 18:38:07",
+        "sentiment_score": 0.04730196297168732
+    },
+    {
+        "title": "Pedro Sánchez habla por primera vez con León XIV: “España y el Vaticano seguirán trabajando en la defensa de los derechos humanos”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TYGA3GGESCIPMYITRGKQYXUIGE.jpg?auth=53f4ba36953a279d2c58ffce2a3b0100216b6a30b8a2fb96883a31b9ccdd50ac&width=1200",
+        "tags": [
+            "iglesia católica",
+            "guerra",
+            "climas",
+            "gobierno",
+            "españa",
+            "contaminación",
+            "abusos sexuales",
+            "pedro sánchez",
+            "roma",
+            "papa león xiv",
+            "abusos sexuales iglesia católica españa"
+        ],
+        "link": "https://elpais.com/espana/2025-06-11/pedro-sanchez-habla-por-primera-vez-con-leon-xiv-espana-y-el-vaticano-seguiran-trabajando-en-la-defensa-de-los-derechos-humanos.html",
+        "date": "2025-06-11 18:31:57",
+        "sentiment_score": 0.06618916988372803
+    },
+    {
+        "title": "La Aemet activa avisos naranja en Castilla y León y la Comunidad de Madrid por fuertes tormentas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WCYC6L6VGQGA3SBCGCYOIATM4M.jpg?auth=9fc7726ee9267cd9c0d78e631b7fc2842e12fe18709c8ce5045dfe14766f51ac&width=1200",
+        "tags": [
+            "lluvias torrenciales",
+            "madrid",
+            "comunidad de madrid",
+            "castilla y león",
+            "aemet",
+            "granizo",
+            "temporales"
+        ],
+        "link": "https://elpais.com/espana/2025-06-11/la-aemet-pone-en-alerta-naranja-a-castilla-y-leon-y-la-comunidad-de-madrid-por-fuertes-tormentas.html",
+        "date": "2025-06-11 17:34:36",
+        "sentiment_score": -0.6061530038714409
+    },
+    {
+        "title": "El Real Madrid impone su ley en el arranque de las semifinales ante Unicaja con un recital de triples",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/06/12/6849ff6d167d4.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20250612/real-madrid-impone-ley-arranque-semifinales-ante-unicaja-recital-triples_306480.html",
+        "date": "2025-06-11 22:16:38",
+        "sentiment_score": 0.3375974968075752
+    },
+    {
+        "title": "Las estadísticas del Unicaja en la derrota contra el Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7bc3f625-7cdd-4a86-93b5-216b064ddd61_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/06/12/estadisticas-unicaja-derrota-real-madrid-semifinal-118526757.html",
+        "date": "2025-06-11 22:15:20",
+        "sentiment_score": -0.6427442878484726
+    },
+    {
+        "title": "Este es el jugador del América que jugará el Mundial de Clubes 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/YVYCX7CM7FEYFMK6OV5J23OMJE.jpg?auth=58ed244b1ff9de170a47bb4e069095a4469ad4914e0ed222028899e9bbbdbab1&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/06/11/este-es-el-jugador-del-america-que-jugara-el-mundial-de-clubes-2025/",
+        "date": "2025-06-11 22:15:00",
+        "sentiment_score": -0.8407371435314417
+    },
+    {
+        "title": "Convocatoria | El karateka Marcos Veiga, llamado por al Federación Española para el Proyecto Entrena",
+        "image_url": "https://www.diariodeferrol.com/images/showid2/7402777?w=900",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeferrol.com/articulo/deportes/convocatoria-karateka-marcos-veiga-llamado-federacion-espanola-proyecto-entrena-5327328",
+        "date": "2025-06-11 22:15:00",
+        "sentiment_score": 0.071248859167099
+    },
+    {
+        "title": "El Ayuntamiento de Las Palmas de Gran Canaria bonificará el impuesto de obras a la construcción de viviendas protegidas",
+        "image_url": "https://s3.ppllstatics.com/canarias7/www/multimedia/2025/06/11/202550908-kGTC--1200x840@Canarias7.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.canarias7.es/canarias/gran-canaria/las-palmas-de-gran-canaria/ayuntamiento-palmas-gran-canaria-bonificara-impuesto-obras-20250612225513-nt.html",
+        "date": "2025-06-11 22:06:11",
+        "sentiment_score": -0.2952994257211685
+    },
+    {
+        "title": "El Stradivarius valorado en 20 millones de euros que 'ocultan' los aprendices de músico entre singulares instrumentos, partituras y batutas",
+        "image_url": "https://phantom-elmundo.uecdn.es/9e41fb77c3255b2de696e315c05aa78f/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/09/17494779831332.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/06/12/6841a92efc6c83dd328b45aa.html",
+        "date": "2025-06-11 22:04:32",
+        "sentiment_score": 0.861784715205431
+    },
+    {
+        "title": "Chus Mateo: \"Mi equipo ha entendido muy bien cómo enfrentarse a otro con esta calidad defensiva\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250612000238_120.jpg",
+        "tags": [
+            "baloncesto",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-chus-mateo-equipo-entendido-muy-bien-enfrentarse-otro-calidad-defensiva-20250612000238.html",
+        "date": "2025-06-11 22:02:38",
+        "sentiment_score": 0.05552050471305847
+    },
+    {
+        "title": "Adolescencia on line",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/06/12/Clipboard-0071-kyBH-U23020440888893uD-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/opinion/juan-carlos-viloria-adolescencia-line-20250612000229-ntrc.html",
+        "date": "2025-06-11 22:02:30",
+        "sentiment_score": -0.775747362524271
+    },
+    {
+        "title": "Voz comunitaria | Vecinos solicitan limpieza de la laguna de Tronconal (+Fotos)",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "comunidad. barcelona",
+            "tronconal",
+            "locales",
+            "comunidad",
+            "voz comunitaria"
+        ],
+        "link": "https://eltiempove.com/voz-comunitaria-vecinos-solicitan-limpieza-de-la-laguna-de-tronconal-fotos/",
+        "date": "2025-06-11 22:10:42",
+        "sentiment_score": -0.8107132893055677
+    },
+    {
+        "title": "Palomas al aire por la Dana en Avilés",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/06/12/105825476-kCXF--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcomercio.es/aviles/palomas-aire-dana-aviles-ricardo-cases-niemeyer-20250612000419-nt.html",
+        "date": "2025-06-11 22:07:24",
+        "sentiment_score": 0.016621217131614685
+    },
+    {
+        "title": "El PP, incómodo con el debate de primarias abierto por Ayuso: \"Quita a Sánchez del foco\"",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/06/feijoo-congreso-pp-1440x808.jpg",
+        "tags": [
+            "gobierno de españa",
+            "alberto núñez feijóo",
+            "pedro sánchez",
+            "españa",
+            "isabel díaz ayuso",
+            "partido popular (pp)"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/06/12/el-pp-incomodo-con-el-debate-de-primarias-abierto-por-ayuso-quita-a-sanchez-del-foco/",
+        "date": "2025-06-11 22:05:55",
+        "sentiment_score": -0.5221550613641739
+    },
+    {
+        "title": "España regresa al gas tras el apagón: en mayo disparó su demanda para generar electricidad",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/04/imagen-buque-metanero.jpg",
+        "tags": [
+            "energía",
+            "economía",
+            "apagón",
+            "energías renovables"
+        ],
+        "link": "https://www.elindependiente.com/economia/2025/06/12/espana-regresa-al-gas-tras-el-apagon-en-mayo-disparo-su-demanda-para-generar-electricidad/",
+        "date": "2025-06-11 22:05:46",
+        "sentiment_score": -0.9083828534930944
+    },
+    {
+        "title": "Los semáforos del jueves 12 de junio: Marc Gascons, Carles Vilarrubí, Alfonso Serrano y Janet Sanz",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/11/26/6562835d2a284.r_d.474-232-0.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20250612/10763671/semaforos-jueves-12-junio-marc-gascons-carles-vilarrubi-alfonso-serrano-janet-sanz.html",
+        "date": "2025-06-11 22:05:00",
+        "sentiment_score": 0.1083386167883873
+    },
+    {
+        "title": "El escritor de barrio que revive su juventud entre las 'ruinas' de Vallecas",
+        "image_url": "https://phantom-elmundo.uecdn.es/db126dd8002782f15394cdb8e97b6a5f/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/11/17496381864595.jpg",
+        "tags": [
+            "madrid",
+            "literatura"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/06/12/68495cafe9cf4a644e8b459f.html",
+        "date": "2025-06-11 22:04:34",
+        "sentiment_score": 0.04213181138038635
+    },
+    {
+        "title": "Montserrat Pasqual",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/11/politica/1003742665059_14715232_1706x960.jpg?contentId=1003742665059",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20250611/montserrat-pasqual/1003742665057_0.html",
+        "date": "2025-06-11 22:00:00",
+        "sentiment_score": -0.6451592966914177
+    },
+    {
+        "title": "La ampliación de El Prat abre una \"oportunidad\" para los aeropuertos de Girona y Reus: \"No tiene por qué ser mala\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/07/01/empresas/775432610_8145579_1706x960.jpg?contentId=775432610",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250611/ampliacion-prat-oportunidad-aeropuertos-girona-reus-no/1003742664954_0.html",
+        "date": "2025-06-11 22:00:00",
+        "sentiment_score": 0.15114407241344452
+    },
+    {
+        "title": "La química IMCD facturó 139 millones en 2024",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/11/business/confidente-vip/1003742665024_14714406_1706x960.jpg?contentId=1003742665024",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20250611/quimica-imcd-facturo-millones/1003742665002_0.html",
+        "date": "2025-06-11 22:00:00",
+        "sentiment_score": 0.5116481855511665
+    },
+    {
+        "title": "La lucha en la Fundació Vila Casas se libra en sus empresas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/11/business/1003742665072_14715435_1706x960.jpg?contentId=1003742665072",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250611/lucha-fundacio-vila-casas-libra-empresas/1003742665050_0.html",
+        "date": "2025-06-11 22:00:00",
+        "sentiment_score": -0.7799787130206823
     }
 ];
