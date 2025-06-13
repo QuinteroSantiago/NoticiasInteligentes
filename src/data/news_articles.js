@@ -6721,5 +6721,275 @@ export default [
         "link": "https://www.ara.cat/opinio/nostra-llengua-viu-1916_1_5405846.html",
         "date": "2025-06-12 21:00:05",
         "sentiment_score": -0.21214352548122406
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Madrid?",
+        "image_url": "https://www.infobae.com/resizer/v2/D66MKOFMGNHUFOA22DURR5GHP4.jpg?auth=909622eb6079fbb31a460498f69f30db35c43cc13acf0adec2adf42e4882869e&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/13/cual-es-la-temperatura-promedio-en-madrid/",
+        "date": "2025-06-13 01:31:03",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 13 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/6USM6BYQ5ZA4JBV6J5ENLO6J6A.jpg?auth=b388cdbdaa0e32c04f9fed9a5fc6ece71bac7c9fbc3e0ecc632f33b883419d49&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/13/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-13-de-junio/",
+        "date": "2025-06-13 01:15:46",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Silvia Alonso y Álex González visitan ‘La Revuelta’ a presentar su nueva serie, sacar músculo, y a criticar el ‘clickbait’: “Estamos en 2025, molaría que dejaran de instrumentalizarnos”",
+        "image_url": "https://www.infobae.com/resizer/v2/VMLXOY6AAFECLIHCG3WCK22QXI.png?auth=db10b30ed4ddaf5064cbc96e1794390508d8f71de7504ec690e6c51013d0b1b5&height=431&smart=true&width=720",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/13/silvia-alonso-y-alex-gonzalez-visitan-la-revuelta-a-presentar-su-nueva-serie-sacar-musculo-y-a-criticar-el-clickbait-estamos-en-2025-molaria-que-dejaran-de-instrumentalizarnos/",
+        "date": "2025-06-13 00:38:28",
+        "sentiment_score": 0.08309746533632278
+    },
+    {
+        "title": "Albares \"reafirma los valores democráticos\" por el 40 aniversario de la entrada de España en Europa",
+        "image_url": "https://www.infobae.com/resizer/v2/23L7LFLUH5BNTEENQ33MIQQQUA.jpg?auth=d749e231d0e773d5366f2010edbd753a5886fbc4c318f274ebda96811037e54c&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/13/albares-reafirma-los-valores-democraticos-por-el-40-aniversario-de-la-entrada-de-espana-en-europa/",
+        "date": "2025-06-13 00:15:33",
+        "sentiment_score": 0.21612007915973663
+    },
+    {
+        "title": "Fallece una persona en el interior de su coche en Fene (Galicia)",
+        "image_url": "https://www.infobae.com/resizer/v2/5CNCBNFSGRG6DGP4Z6JUVLP6YY.jpg?auth=305b1acefdf22e528987876d6826a5fbf03883b627e467fc95ab723d712cd628&height=1131&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/13/fallece-una-persona-en-el-interior-de-su-coche-en-fene-galicia/",
+        "date": "2025-06-13 00:06:53",
+        "sentiment_score": -0.7806603834033012
+    },
+    {
+        "title": "Albares inaugura los actos de conmemoración de la entrada de España en Europa para \"reafirmar los valores democráticos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/TGJRWAFSUNFVBACUZH33TGYHJY.jpg?auth=58b08e1cdf54714a8be7a810dc02b96293a452ae5e634b5c6c880c4e9c07c117&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/13/albares-inaugura-los-actos-de-conmemoracion-de-la-entrada-de-espana-en-europa-para-reafirmar-los-valores-democraticos/",
+        "date": "2025-06-13 00:00:50",
+        "sentiment_score": 0.30169160664081573
+    },
+    {
+        "title": "IU señala que espera nuevas medidas contra la corrupción en los próximos días y que el PSOE depure responsabilidades",
+        "image_url": "https://www.infobae.com/resizer/v2/O5B3DTT7VJCPBKEXO5AQ4ZWDYM.jpg?auth=4c224a86652fbd785047b5e41720fb293d7519d329759ff8a91cc8e5153fca2f&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/12/iu-senala-que-espera-nuevas-medidas-contra-la-corrupcion-en-los-proximos-dias-y-que-el-psoe-depure-responsabilidades/",
+        "date": "2025-06-12 23:45:33",
+        "sentiment_score": 0.1664358153939247
+    },
+    {
+        "title": "Arrestan por homicidio a los dueños de la discoteca en la que murió Rubby Pérez",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/06/13/jwt-aet.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/arrestan-homicidio-duenos-discoteca-murio-rubby-perez-20250613014434-nt.html",
+        "date": "2025-06-12 23:44:35",
+        "sentiment_score": -0.24598994851112366
+    },
+    {
+        "title": "Origen e historia de los espacios urbanos de Algeciras: El Secano (V)",
+        "image_url": "https://static.grupojoly.com/clip/ca9bf446-9811-431a-bc8a-5b7bbd39af34_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europasur.es/algeciras/origen-e-historia-espacios-urbanos_0_2004123334.html",
+        "date": "2025-06-13 02:01:15",
+        "sentiment_score": 0.33706166595220566
+    },
+    {
+        "title": "Adolescencia 'online'",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/250613/2050977/adolescencia-online.html",
+        "date": "2025-06-13 01:30:00",
+        "sentiment_score": -0.10582516342401505
+    },
+    {
+        "title": "Lo oculto de Santos Cerdán: Su ascenso de técnico electrónico a estratega del PSOE",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/fotonoticia-20250612163823-690_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/lo-oculto-santos-cerdan-ascenso-tecnico-electronico-estratega-psoe",
+        "date": "2025-06-13 01:30:00",
+        "sentiment_score": -0.5150081589818001
+    },
+    {
+        "title": "¿Qué gigante europeo llega con mejores opciones para ganar el Mundial de Clubes?",
+        "image_url": "https://pxcdn.meridiano.net/062025/1749779171330.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/que-gigante-europeo-llega-con-mejores-opciones-para-ganar-el-mundial-de-clubes--202561221180",
+        "date": "2025-06-13 01:18:00",
+        "sentiment_score": 0.07925321161746979
+    },
+    {
+        "title": "Equipo histórico de Europa rompería el mercado de fichajes con Jhon Lucumí: competiría con un conjunto italiano",
+        "image_url": "https://www.infobae.com/resizer/v2/7NAH2GT4EVASNBR5CSVRCIIKII.jpg?auth=45e4b6ea40ca203efb851c64c5d98891525dc021a6aff7f24e703ce7828d7d94&height=1583&smart=true&width=2140",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/06/13/equipo-historico-de-europa-romperia-el-mercado-de-fichajes-con-jhon-lucumi-competiria-con-un-conjunto-italiano/",
+        "date": "2025-06-13 00:58:42",
+        "sentiment_score": 0.4896821528673172
+    },
+    {
+        "title": "Con 15 representantes colombianos, arranca el Mundial de Clubes en Estados Unidos",
+        "image_url": "https://www.infobae.com/resizer/v2/RDM5GWCOBRDSXKSEQFSJPUDRIM.png?auth=6bed892668b8079f8a666372f906d6cf96252290261b02a674e59794b683158d&height=770&smart=true&width=1200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/06/13/con-15-representantes-colombianos-arranca-el-mundial-de-clubes-en-estados-unidos/",
+        "date": "2025-06-13 00:37:05",
+        "sentiment_score": 0.2776443250477314
+    },
+    {
+        "title": "Gómez Cuétara, el español tras la app que recrea escenas de crímenes para la Policía: \"Lo que vemos no suele ser agradable\"",
+        "image_url": "https://s1.elespanol.com/2025/06/11/actualidad/1003743800188_256382205_1706x960.jpg?contentId=1003743800188",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250613/gomez-cuetara-espanol-app-recrea-escenas-crimenes-policia-vemos-no-suele-agradable/1003743800149_0.html",
+        "date": "2025-06-13 00:28:25",
+        "sentiment_score": 0.032818734645843506
+    },
+    {
+        "title": "Abróchense los cinturones",
+        "image_url": "https://s.libertaddigital.com/2019/06/28/ave-atocha280619.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-06-13/anna-grau-abrochense-los-cinturones-7265110/",
+        "date": "2025-06-13 00:10:58",
+        "sentiment_score": -0.24910029396414757
+    },
+    {
+        "title": "España y Portugal, 40 años después del Tratado de Adhesión",
+        "image_url": "https://phantom-expansion.uecdn.es/89a2f317011ff8b45ac4688881afacb0/crop/43x13/2018x1330/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/13/17497716429698.jpg",
+        "tags": [
+            "economía>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/06/13/684b6410e5fdea57128b459b.html",
+        "date": "2025-06-12 23:42:00",
+        "sentiment_score": 0.09883538633584976
+    },
+    {
+        "title": "Quién es quién en el férreo núcleo de amigos de la Infanta Cristina que la arropan en su 60o cumpleaños",
+        "image_url": "https://s1.elespanol.com/2025/06/11/actualidad/1003743800071_256380228_1706x960.jpg?contentId=1003743800071",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20250612/ferreo-nucleo-amigos-infanta-cristina-arropan-cumpleanos/1003743800064_0.html",
+        "date": "2025-06-12 23:34:34",
+        "sentiment_score": 0.0014107078313827515
+    },
+    {
+        "title": "El 'Ciudad de Barcelona' podría alojar en su estancia en Maó hasta 500 turistas en sus 124 camarotes",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3346043.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/06/13/2407519/ciudad-barcelona-podria-alojar-estancia-mao-hasta-500-turistas-124-camarotes.html",
+        "date": "2025-06-13 02:00:01",
+        "sentiment_score": 0.11602414399385452
+    },
+    {
+        "title": "El Mallorca Live Festival centra los planes de ocio de este fin de semana",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3345297.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/06/13/2406971/ocio-mallorca-agenda-del-fin-semana-del-13de-junio.html",
+        "date": "2025-06-13 02:00:01",
+        "sentiment_score": 0.13378548622131348
+    },
+    {
+        "title": "El coraje del inspector jefe Plácido Martínez",
+        "image_url": "https://men.gsstatic.es/autor/josep-pons-fraga/48.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/06/13/2407399/coraje-del-inspector-jefe-placido-martinez.html",
+        "date": "2025-06-13 02:00:01",
+        "sentiment_score": 0.11760935932397842
+    },
+    {
+        "title": "De ferri a hotel flotante: el plan de Trasmed para el puerto de Maó despierta un rechazo unánime",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3346035.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/06/13/2407511/rechazo-unanime-plan-trasmed-para-convertir-ferri-hotel-flotante-mao.html",
+        "date": "2025-06-13 02:00:01",
+        "sentiment_score": -0.8411437887698412
+    },
+    {
+        "title": "‘Foc i Fum’ ja repica a l’escenari de Calós",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3346163.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2025/06/13/2407579/foc-fum-repica-escenari-calos.html",
+        "date": "2025-06-13 02:00:01",
+        "sentiment_score": -0.16297022998332977
+    },
+    {
+        "title": "La guerra del abuelo de Armengol",
+        "image_url": "https://uh.gsstatic.es/autor/manuel-aguilera/10893.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/06/13/2407377/guerra-del-abuelo-armengol.html",
+        "date": "2025-06-13 02:00:01",
+        "sentiment_score": -0.8184663895517588
+    },
+    {
+        "title": "El compañero de Colapinto reveló su preocupación sobre el GP de Canadá de Fórmula 1: “Es muy complicado”",
+        "image_url": "https://www.infobae.com/resizer/v2/JZU32JUCMNF43OGEPKDDBGNIIM.jpg?auth=45bae123df5ce586f9ea168b0f309a85c4e9a30ebbf8155b3cb439d8881b9f35&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/13/el-companero-de-colapinto-revelo-su-preocupacion-sobre-el-gp-de-canada-de-formula-1-es-muy-complicado/",
+        "date": "2025-06-13 01:35:07",
+        "sentiment_score": -0.6634025741368532
+    },
+    {
+        "title": "Agenda de León: toda la programación hasta el 20 de junio",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2025/06/12/684b0c2c5a5de.r_d.1186-803-2927.png",
+        "tags": [
+            "agenda de león"
+        ],
+        "link": "https://www.diariodeleon.es/ocio/agenda-de-leon/250613/2050955/destinos.html",
+        "date": "2025-06-13 01:30:00",
+        "sentiment_score": 0.5399245321750641
+    },
+    {
+        "title": "Cinco promesas de la hostelería leonesa",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/06/12/684b4905293b6.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/250613/2051028/cinco-promesas-hosteleria-leonesa.html",
+        "date": "2025-06-13 01:30:00",
+        "sentiment_score": 0.7072812095284462
     }
 ];
