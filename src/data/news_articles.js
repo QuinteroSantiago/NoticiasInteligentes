@@ -140,56 +140,6 @@ export default [
         "sentiment_score": -0.09903217852115631
     },
     {
-        "title": "La bilirrubina protege frente a los efectos más graves de la malaria",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/06/13/52845988965_545f56f349_o-RVrVlNgWiBc6C7gIFiWX1KO-1200x840@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/bilirrubina-protege-frente-efectos-graves-malaria-20250613153000-nt.html",
-        "date": "2025-06-13 13:30:01",
-        "sentiment_score": -0.2405097335577011
-    },
-    {
-        "title": "Un vuelo de Air India regresa a Tailandia tras una amenaza de bomba",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/13/india-kghB-U701135158189paC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/vuelo-air-india-regresa-tailandia-tras-amenaza-20250613145826-nt.html",
-        "date": "2025-06-13 12:58:27",
-        "sentiment_score": -0.2497449368238449
-    },
-    {
-        "title": "Un perdón insuficiente",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/06/13/cartas-director-1200x630-U61222475282QYg-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-perdon-insuficiente-20250613143139-nt.html",
-        "date": "2025-06-13 12:31:40",
-        "sentiment_score": -0.1347947120666504
-    },
-    {
-        "title": "Meta AI publica los chats privados que los usuarios mantienen con el asistente de IA",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/06/13/1497690606-k9kD-U701134623605xOC-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/meta-publica-chats-privados-usuarios-mantienen-asistente-20250613134507-nt.html",
-        "date": "2025-06-13 11:45:08",
-        "sentiment_score": -0.24741460382938385
-    },
-    {
-        "title": "Piezas viejas y sistemas eléctricos fallidos: el accidente de la India reaviva las denuncias sobre fallos de seguridad en Boeing",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/13/boeing-R1ANDSG2kVTHniVSU7JVZ6J-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/piezas-viejas-sistemas-electricos-fallidos-accidente-india-20250613131542-nt.html",
-        "date": "2025-06-13 11:19:18",
-        "sentiment_score": -0.1738172173500061
-    },
-    {
         "title": "Andalucía carece de un diagnóstico y estadísticas oficiales en materia de alquiler, según la Cámara de Cuentas",
         "image_url": "https://imagenes.elpais.com/resizer/v2/LIGPM4JICVFEPMT2L7SLZCO7II.jpg?auth=43eafa99bf4e4ba4057f971025c180c67627df11d632c40b3b3a673a1c9311c6&width=1200",
         "tags": [
@@ -7351,5 +7301,325 @@ export default [
         "link": "https://2001online.com/sucesos/deflagracion-en-local-del-23-de-enero-deja-siete-heridos-entre-ellos-un-menor-de-edad-20256161700",
         "date": "2025-06-16 21:00:00",
         "sentiment_score": -0.7062525935471058
+    },
+    {
+        "title": "Sánchez se reúne mañana con Nogueras (Junts) y Rufián (ERC) para calibrar su apoyo como socios tras la salida de Cerdán",
+        "image_url": "https://www.infobae.com/resizer/v2/4QE44SJEDVBEPHPWMNPN6MA2GE.jpg?auth=66c8df3e2fed743093540e897cb88f5c8aa6c1d46af87b7fd5ad882eee6ffa42&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/16/sanchez-se-reune-manana-con-nogueras-junts-y-rufian-erc-para-calibrar-su-apoyo-como-socios-tras-la-salida-de-cerdan/",
+        "date": "2025-06-16 22:32:56",
+        "sentiment_score": -0.26800350099802017
+    },
+    {
+        "title": "Una soltera de ‘First Dates’ se pone celosa por las llamadas que recibe su acompañante durante la cena: “Alguna pájara que tiene por ahí”",
+        "image_url": "https://www.infobae.com/resizer/v2/TDO37EVCTVDUHAYSUJ3HKLY3KI.png?auth=978e33889477507a1541786e1b58020a67b58e7b679fc026ccfc91045c1b7003&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/16/una-soltera-de-first-dates-se-pone-celosa-por-las-llamadas-que-recibe-su-acompanante-durante-la-cena-alguna-pajara-que-tiene-por-ahi/",
+        "date": "2025-06-16 22:19:13",
+        "sentiment_score": 0.04003569483757019
+    },
+    {
+        "title": "Un joven cubano denuncia que el paro estudiantil por el 'tarifazo' de internet móvil, se detuvo por la «represión»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/06/17/cuba-kdaG-U70114927560530G-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/joven-cubano-denuncia-paro-estudiantil-tarifazo-internet-20250617010511-nt.html",
+        "date": "2025-06-16 23:06:23",
+        "sentiment_score": -0.11267474293708801
+    },
+    {
+        "title": "Un joven de 22 años fallece desangrado en una farmacia tras recibir dos puñaladas en Getafe",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EVFMK46NHNFY5NZQASVTVTJ4S4.jpeg?auth=5648e34a7db86f9dbec1a48da39d9686478fa0c52093c9682b4620af0055ede9&width=1200",
+        "tags": [
+            "summa 112",
+            "getafe",
+            "comunidad de madrid",
+            "madrid",
+            "detenciones",
+            "bandas latinas",
+            "homicidios",
+            "sucesos",
+            "policía",
+            "investigación policial"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-06-17/un-joven-de-22-anos-fallece-desangrado-en-una-farmacia-tras-recibir-dos-punaladas-en-getafe.html",
+        "date": "2025-06-17 00:30:39",
+        "sentiment_score": -0.6629931814968586
+    },
+    {
+        "title": "Agenda: qué hacer en Asturias hoy martes 17 de junio de 2025",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1ed16246-4381-4afa-8cf9-4cb5bda2df30_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/sociedad/2025/06/17/agenda-asturias-hoy-martes-17-118690877.html",
+        "date": "2025-06-17 02:09:00",
+        "sentiment_score": 0.19726327992975712
+    },
+    {
+        "title": "Árbitro que amenazó al Real Madrid lidera nuevo sindicato de colegiados",
+        "image_url": "https://pxcdn.meridiano.net/062025/1750125918957.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/arbitro-que-amenazo-al-real-madrid-lidera-nuevo-sindicato-de-colegiados-20256162220",
+        "date": "2025-06-17 02:02:00",
+        "sentiment_score": -0.0144052654504776
+    },
+    {
+        "title": "Josep Maria Pons: «Gabriel Garcías no concebía el chanchullo, no le entraba»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3350771.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/06/17/2410111/josep-maria-pons-gabriel-garcias-concebia-chanchullo-entraba.html",
+        "date": "2025-06-17 02:00:01",
+        "sentiment_score": -0.6689042672514915
+    },
+    {
+        "title": "El jugador del Real Mallorca que pensaba que llegaría el fin del mundo...y se equivocó",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3345455.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/06/17/2407167/real-mallorca-otra-liga-mendoca-mendoza-creia-fin-del-mundo.html",
+        "date": "2025-06-17 02:00:01",
+        "sentiment_score": -0.21341684460639954
+    },
+    {
+        "title": "Ponencia política y Cayetana: «Entre la sorpresa y la esperanza»",
+        "image_url": "https://men.gsstatic.es/autor/joan-huguet/11011.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/06/17/2410019/ponencia-politica-cayetana-entre-sorpresa-esperanza.html",
+        "date": "2025-06-17 02:00:01",
+        "sentiment_score": 0.3300482854247093
+    },
+    {
+        "title": "Unicaja vs Real Madrid: El 4to juego de semifinales se vive este martes en Meridiano Televisión",
+        "image_url": "https://pxcdn.meridiano.net/062025/1750124661864.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/baloncesto/baloncesto-internacional/unicaja-vs-real-madrid-el-4to-juego-de-semifinales-se-vive-este-martes-en-meridiano-television-202561621380",
+        "date": "2025-06-17 01:38:00",
+        "sentiment_score": 0.2070562168955803
+    },
+    {
+        "title": "Borussia Dortmund apunta a llevarse a una figura de la cantera del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/OICNVA6CSFA7HOXTXJYVR2Q3HA.jpg?auth=9f4b49da2bb69e8a81f9863ca4b415738184a1eaff1b039c961565d3937e1c41&height=2267&smart=true&width=3389",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/06/17/borussia-dortmund-apunta-a-llevarse-a-una-figura-de-la-cantera-del-real-madrid/",
+        "date": "2025-06-17 00:17:49",
+        "sentiment_score": 0.7833270244300365
+    },
+    {
+        "title": "Las 7 mejores participaciones de equipos mexicanos en el Mundial de Clubes",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-06/16/04/thumb/oC25kYvRu.jpg?3%2C0=&crop=1245%3A830&resize=1250%3A830",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/equipos-mexicanos-mundial-de-clubes-2025-pachuca-monterrey",
+        "date": "2025-06-17 00:01:03",
+        "sentiment_score": -0.4352998286485672
+    },
+    {
+        "title": "El Gobierno desbloquea hoy 11.000 millones para CCAA y municipios tratando de estabilizar la legislatura",
+        "image_url": "https://phantom-expansion.uecdn.es/3d040056fb3235edba805514447f19ac/crop/168x94/1846x1212/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/16/17500983774461.jpg",
+        "tags": [
+            "artículos juande portillo>",
+            "economía>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/06/17/685061ebe5fdea433b8b45ad.html",
+        "date": "2025-06-16 23:58:48",
+        "sentiment_score": 0.3865886852145195
+    },
+    {
+        "title": "La startup que combina IA y biometría dactilar para zanjar (por fin) la identificación errónea de los pacientes",
+        "image_url": "https://s1.elespanol.com/2025/06/16/actualidad/1003743806080_256494832_1706x960.jpg?contentId=1003743806080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/20250616/startup-combina-ia-biometria-dactilar-zanjar-fin-identificacion-erronea-pacientes/1003743806053_0.html",
+        "date": "2025-06-16 23:51:00",
+        "sentiment_score": 0.36814429610967636
+    },
+    {
+        "title": "El juicio en el que Just Eat reclama a Glovo 295 millones empieza este martes en Barcelona",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250617040051_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-juicio-just-eat-reclama-glovo-295-millones-empieza-martes-barcelona-20250617040051.html",
+        "date": "2025-06-17 02:00:51",
+        "sentiment_score": -0.308920044451952
+    },
+    {
+        "title": "El nuevo tren nocturno que conectará 100 ciudades europeas por menos de lo que cuesta un vuelo",
+        "image_url": "https://static.euronews.com/articles/stories/09/32/60/20/1200x675_cmsv2_0d4d3830-c724-5da2-a8c8-4cb167fbf26d-9326020.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://es.euronews.com/viajes/2025/06/17/el-nuevo-tren-nocturno-que-conectara-100-ciudades-europeas-por-menos-de-lo-que-cuesta-un-v",
+        "date": "2025-06-17 02:00:24",
+        "sentiment_score": 0.43187873996794224
+    },
+    {
+        "title": "Es desplacen a Ciutadella 90 policies nacionals de Palma i Madrid",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3350681.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2025/06/17/2410077/desplacen-ciutadella-policies-nacionals-palma-madrid.html",
+        "date": "2025-06-17 02:00:01",
+        "sentiment_score": 0.14427657425403595
+    },
+    {
+        "title": "Beatriz Fernández asume la dirección general del Grupo Mascaró",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/06/17/2410191/beatriz-fernandez-asume-direccion-mascaro.html",
+        "date": "2025-06-17 02:00:01",
+        "sentiment_score": 0.04553643614053726
+    },
+    {
+        "title": "Pintor envuelto en su propio enigma",
+        "image_url": "https://uh.gsstatic.es/autor/jesus-garcia-marin/10330.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/06/17/2410145/pintor-envuelto-propio-enigma.html",
+        "date": "2025-06-17 02:00:01",
+        "sentiment_score": -0.4240725636482239
+    },
+    {
+        "title": "De Menorca al frente de guerra Ucrania: «Donamos el coche y lo queremos llenar con donativos»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3350773.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/06/17/2410113/menorca-frente-guerra-ucrania-donamos-coche-queremos-llenar-donativos.html",
+        "date": "2025-06-17 02:00:01",
+        "sentiment_score": -0.18513469398021698
+    },
+    {
+        "title": "Miquel Vives cumple 90 años | Radio La Soledad |‘Playing Dickens’ se estrena el sábado",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3350879.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/06/17/2410193/miquel-vives-cumple-anos-radio-soledad-playing-dickens-estrena-sabado.html",
+        "date": "2025-06-17 02:00:01",
+        "sentiment_score": 0.6320498064160347
+    },
+    {
+        "title": "Médico principal de Matthew Perry estrella de \"Friends\" se declara culpable por distribución de ketamina",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750126465787.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/farandula/medico-principal-de-matthew-perry-estrella-de-friends-se-declara-culpable-por-distribucion-de-ketamina-20256162250",
+        "date": "2025-06-17 02:05:00",
+        "sentiment_score": -0.739527840167284
+    },
+    {
+        "title": "Conozca los requisitos para registrar un emprendimiento en el Seniat: debe tener el rif actualizado",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750125094231.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conozca-los-requisitos-para-registrar-un-emprendimiento-en-el-seniat-debe-tener-el-rif-actualizado-20256162210",
+        "date": "2025-06-17 02:01:00",
+        "sentiment_score": 0.0431006345897913
+    },
+    {
+        "title": "Error a la hora de comer lentejas: desaprovechas todo el hierro que ofrece el grano",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1749755495965.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/error-a-la-hora-de-comer-lentejas-desaprovechas-todo-el-hierro-que-ofrece-el-grano-20256162200",
+        "date": "2025-06-17 02:00:00",
+        "sentiment_score": 0.40603045746684074
+    },
+    {
+        "title": "Redadas ICE del 16 de junio: 55 indocumentados detenidos en un galpón de peleas ilegales de gallos",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750125503779.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-16-de-junio-55-indocumentados-detenidos-en-un-galpon-de-peleas-ilegales-de-gallos-202561621580",
+        "date": "2025-06-17 01:58:00",
+        "sentiment_score": -0.7244050167500973
+    },
+    {
+        "title": "Viudo de Patricia Fuenmayor, reportera de Univision, da sus primeras declaraciones en homenaje de Nueva York: Celebrémosla con alegría",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750125736548.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/viudo-de-patricia-fuenmayor-reportera-de-univision-da-sus-primeras-declaraciones-en-homenaje-de-nueva-york-celebremosla-con-alegria-202561621510",
+        "date": "2025-06-17 01:51:00",
+        "sentiment_score": -0.3978687487542629
+    },
+    {
+        "title": "Nicky Jam confirma concierto en Caracas como parte de gira Sunshine Tour",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750124906159.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/nicky-jam-confirma-concierto-en-caracas-como-parte-de-gira-sunshine-tour-202561621460",
+        "date": "2025-06-17 01:46:00",
+        "sentiment_score": 0.05322626605629921
+    },
+    {
+        "title": "Karol G se \"mechonea\" con estrellas de Televisa en un avance de su álbum Tropicoqueta",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750124339846.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/karol-g-se-mechonea-con-estrellas-de-televisa-en-un-avance-de-su-album-tropicoqueta--202561621330",
+        "date": "2025-06-17 01:33:00",
+        "sentiment_score": 0.0862126536667347
+    },
+    {
+        "title": "Mundial de Clubes 2025: Boca y Benfica empatan en aguerrido encuentro en Miami",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750124014230.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/mundial-de-clubes-2025-boca-y-benfica-empatan-en-aguerrido-encuentro-en-miami-202561621290",
+        "date": "2025-06-17 01:29:00",
+        "sentiment_score": -0.9054790083318949
+    },
+    {
+        "title": "Trump concede nuevos contratos para reabrir prisiones destinadas a migrantes: ICE afirma tener \"urgencia\"",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750122125882.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/trump-concede-nuevos-contratos-para-reabrir-prisiones-destinadas-a-migrantes-ice-afirma-tener-urgencia--20256162110",
+        "date": "2025-06-17 01:01:00",
+        "sentiment_score": 0.8930850867182016
+    },
+    {
+        "title": "Banco Digital de los Trabajadores: cinco pasos para afiliarse al servicio de pago a proveedores",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750095530746.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/banco-digital-de-los-trabajadores-cinco-pasos-para-afiliarse-al-servicio-de-pago-a-proveedores-20256162100",
+        "date": "2025-06-17 01:00:00",
+        "sentiment_score": 0.6604559533298016
     }
 ];
