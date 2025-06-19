@@ -154,92 +154,6 @@ export default [
         "sentiment_score": -0.3328309990465641
     },
     {
-        "title": "La Patrulla Águila se despide de los cielos tras 40 años de acrobacias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/B5U33KXRMS7QA5PJV4C4MLDAAU.jpg?auth=d2b130820a0e9852633b9e3cd49a5b281d65c2843c888466394e690dd8b310e0&width=1200",
-        "tags": [
-            "fuerzas armadas",
-            "felipe vi",
-            "españa",
-            "princesa de asturias",
-            "aviones",
-            "ejército español",
-            "caza",
-            "ministerio de defensa",
-            "ejército aire",
-            "margarita robles",
-            "defensa",
-            "san javier"
-        ],
-        "link": "https://elpais.com/espana/2025-06-15/la-patrulla-aguila-se-despide-de-los-cielos-tras-40-anos-de-acrobacias.html",
-        "date": "2025-06-15 14:11:05",
-        "sentiment_score": 0.056274592876434326
-    },
-    {
-        "title": "Feijóo exige a Sánchez un pleno monográfico sobre la trama corrupta esta semana en el Congreso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3NZWL6EPLLLBVX7LGWZ5VASLNQ.jpg?auth=ed3ebf176b650a8f2e411117f70349dc9bac71da0247bea9a8d2111b15cb858e&width=1200",
-        "tags": [
-            "pp",
-            "alberto núñez feijóo",
-            "caso koldo",
-            "pedro sánchez",
-            "málaga",
-            "españa",
-            "congresos pp",
-            "gobierno",
-            "koldo garcía",
-            "isabel díaz ayuso",
-            "santos cerdán",
-            "mociones censura",
-            "josé luis ábalos",
-            "juan manuel moreno"
-        ],
-        "link": "https://elpais.com/espana/2025-06-15/feijoo-exige-a-sanchez-un-pleno-monografico-sobre-la-trama-corrupta-esta-semana-en-el-congreso.html",
-        "date": "2025-06-15 12:37:01",
-        "sentiment_score": -0.040941789746284485
-    },
-    {
-        "title": "Fallece a los 63 años Miquel Suqué, de grupo Peralada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4IRZK7FE2VEQHPH2ZNTEJFCBGY.jpg?auth=76e7a8b763fb555e6d8174360888c7f46e023f90868a170681ead556b0ac10e4&width=1200",
-        "tags": [
-            "vinos",
-            "cataluña",
-            "figueres",
-            "entierros",
-            "empresas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-15/fallece-a-los-63-anos-miquel-suque-de-grupo-peralada.html",
-        "date": "2025-06-15 12:20:54",
-        "sentiment_score": 0.034811630845069885
-    },
-    {
-        "title": "Aragón cifra en seis millones los daños por la tormenta del viernes en la comarca de Belchite",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JFMXTUOZ4JMUQKLF5MW2CTRFLU.jpg?auth=6cf65e115f7e8c7a26390670f442a458e1c95f1c158cf8ef118cb1bca56ade06&width=1200",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-06-15/aragon-cifra-en-seis-millones-los-danos-por-la-tormenta-del-viernes-en-la-comarca-de-belchite.html",
-        "date": "2025-06-15 12:12:07",
-        "sentiment_score": -0.5377657674252987
-    },
-    {
-        "title": "El tiempo: domingo de tormentas en vísperas del inicio de un nuevo episodio de calor intenso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5245WQZOVYETOL3J3SKNJMRDNY.jpg?auth=dcbd93732ce5d3bfa3eb35227fbc8b1ea07a5ba2bbe8ffe74ff61288c0d27021&width=1200",
-        "tags": [
-            "noticias de españa",
-            "temperaturas",
-            "aemet",
-            "el tiempo",
-            "temperaturas máximas",
-            "climas",
-            "meteorología",
-            "predicción meteorológica",
-            "temperaturas mínimas"
-        ],
-        "link": "https://elpais.com/espana/2025-06-15/domingo-de-tormentas-en-visperas-del-inicio-de-un-nuevo-episodio-de-calor-intenso.html",
-        "date": "2025-06-15 10:46:19",
-        "sentiment_score": -0.050480589270591736
-    },
-    {
         "title": "‘Casting Lear’ y ‘Afanador’ parten como favoritas en la 28a edición de los Max",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/97d2f9e3-186a-4122-8e76-3f615db37565_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -7524,5 +7438,338 @@ export default [
         "link": "https://2001online.com/deportes/atp-halle-zverev-busca-afianzar-su-juego-en-cesped-ante-un-marcos-giron-dispuesto-a-sorprender-202561815190",
         "date": "2025-06-18 19:19:00",
         "sentiment_score": -0.2790149748325348
+    },
+    {
+        "title": "La familia Buss vende los Lakers por 10.000 millones de dólares a Mark Walter",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/la-familia-buss-vende-los-lakers-por-10000-millones-de-dolares-a-mark-walter/",
+        "date": "2025-06-19 02:15:57",
+        "sentiment_score": 0.6918203383684158
+    },
+    {
+        "title": "1-2. Pachuca se queda con las manos vacías",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/1-2-pachuca-se-queda-con-las-manos-vacias/",
+        "date": "2025-06-19 02:15:43",
+        "sentiment_score": 0.24233096837997437
+    },
+    {
+        "title": "El Atlético de Madrid llega a Seattle para enfrentar a Sounders",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/el-atletico-de-madrid-llega-a-seattle-para-enfrentar-a-sounders/",
+        "date": "2025-06-19 02:15:30",
+        "sentiment_score": 0.32103459537029266
+    },
+    {
+        "title": "\"No queremos ningún diálogo\", dicen manifestantes en Panamá en medio de protestas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/no-queremos-ningun-dialogo-dicen-manifestantes-en-panama-en-medio-de-protestas/",
+        "date": "2025-06-19 02:15:14",
+        "sentiment_score": -0.7956886533647776
+    },
+    {
+        "title": "Mahomes afirma que tener la mejor ofensiva llevará a los Chiefs a su sexto Super Bowl",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/mahomes-afirma-que-tener-la-mejor-ofensiva-llevara-a-los-chiefs-a-su-sexto-super-bowl/",
+        "date": "2025-06-19 01:00:30",
+        "sentiment_score": 0.591074101626873
+    },
+    {
+        "title": "Temas del día de EFE Economía del jueves 19 de junio de 2025",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/18/temas-del-dia-de-efe-economia-del-jueves-19-de-junio-de-2025/",
+        "date": "2025-06-18 23:53:05",
+        "sentiment_score": 0.009982388466596603
+    },
+    {
+        "title": "Iberdrola achaca a una gestión \"temeraria y negligente\" de Red Eléctrica el apagón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/18/iberdrola-achaca-a-una-gestion-temeraria-y-negligente-de-red-electrica-el-apagon/",
+        "date": "2025-06-18 23:52:48",
+        "sentiment_score": -0.9152583181858063
+    },
+    {
+        "title": "Barcelona: el estado del tiempo para este 18 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/A4CTAZD3GFDMJNQ4NSZYVNJDMI.jpg?auth=14611cb258083455447aff3018211c7b74524d67abb1c532ffdc44e73902891c&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/18/barcelona-el-estado-del-tiempo-para-este-18-de-junio/",
+        "date": "2025-06-18 23:52:35",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "El petróleo Brent sube un 0,33 %, hasta 76,70 dólares",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/18/el-petroleo-brent-sube-un-033-hasta-7670-dolares/",
+        "date": "2025-06-18 23:52:32",
+        "sentiment_score": 0.2041132152080536
+    },
+    {
+        "title": "España: el pronóstico del tiempo para Madrid este 18 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/3MU2HKNCBNFW5FQLAHAU25HETQ.jpg?auth=4de3ce9ef5c48955971146a6671f88332ed1e49013c5d4824a26309a4cc45985&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/18/espana-el-pronostico-del-tiempo-para-madrid-este-18-de-junio/",
+        "date": "2025-06-18 23:52:17",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Varias CC.AA. detectan que las entregas a cuenta aprobadas por Hacienda para este año son menores a lo que se les prometió",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/19/MaraJesusMonteroJaimeGarca-RHBwIZPW8FgeEJsCrQll4dP-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/varias-ccaa-detectan-entregas-cuenta-aprobadas-hacienda-20250619191412-nt.html",
+        "date": "2025-06-19 01:18:01",
+        "sentiment_score": -0.12294131517410278
+    },
+    {
+        "title": "«La gente debería manifestarse contra los 'reyes' de Silicon Valley»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/06/19/jordan-banaji_20250618165403-Rj3vIIfmmRMedNPptjaOx6I-1200x840@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/silicon-valley-solo-quiere-dinero-rapido-forma-20250619150130-nt.html",
+        "date": "2025-06-19 01:16:24",
+        "sentiment_score": -0.10341280698776245
+    },
+    {
+        "title": "¿Por qué Estados Unidos no debería prescindir de sus tradicionales aliados?",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/19/Trump-RFs0dcYVOY38DywLfk49cDI-350x624@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pedro-rodriguez-estados-unidos-deberia-prescindir-tradicionales-aliados-20250619180702-nt.html",
+        "date": "2025-06-19 01:11:41",
+        "sentiment_score": -0.14790886640548706
+    },
+    {
+        "title": "Un modelo de prestigio global convertido en 'Marca España'",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/19/escuela-negocio-masteres-prestigio-RaXH8sF2oRfqZa9ucLo47PL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/formacion/modelo-prestigio-global-convertido-marca-espana-20250619011506-nt.html",
+        "date": "2025-06-18 23:15:07",
+        "sentiment_score": 0.06542828679084778
+    },
+    {
+        "title": "Multiconexiones para impulsar el despegue profesional",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/06/19/especial-masteres-networking-kdlC-RuvyEMsmMbRzXpb2DyGb7HL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/formacion/multiconexiones-impulsar-despegue-profesional-20250619011231-nt.html",
+        "date": "2025-06-18 23:12:31",
+        "sentiment_score": -0.05900821089744568
+    },
+    {
+        "title": "Miradas a unas experiencias que alimentan el futuro",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/19/libros-RndM85HV89XiIp0MCuVvCzO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/formacion/miradas-experiencias-alimentan-futuro-20250619195458-nt.html",
+        "date": "2025-06-18 22:51:25",
+        "sentiment_score": 0.02614957094192505
+    },
+    {
+        "title": "LA IA da otro acelerón a la formación flexible y a medida",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/17/ia-formacion-masteres.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/formacion/ia-aceleron-formacion-flexible-medida-20250619112248-nt.html",
+        "date": "2025-06-18 22:48:32",
+        "sentiment_score": -0.012292742729187012
+    },
+    {
+        "title": "Livensa Living Studios, la opción ideal para estudiantes de Máster",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/19/livensalivingstudios-R3iCqf7q5NecXGtx3OnD9DJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/formacion/livensa-living-studios-opcion-ideal-estudiantes-master-20250619004740-nt.html",
+        "date": "2025-06-18 22:47:41",
+        "sentiment_score": -0.014384955167770386
+    },
+    {
+        "title": "Un impulso para seguir subiendo peldaños a partir de los 50 años",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/19/estudiarmayores-R4lsthYWaOXH8rksmqFpDpL-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/formacion/impulso-seguir-subiendo-peldanos-partir-anos-20250619004331-nt.html",
+        "date": "2025-06-18 22:43:32",
+        "sentiment_score": 0.03280577063560486
+    },
+    {
+        "title": "Las respuestas a los desafíos de una nueva era económica y social",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/06/19/ImagenAdobeStock_1334431740-RH4xPzz7tRUCQ96DkhsxHUN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/formacion/respuestas-desafios-nueva-era-economica-social-20250619154553-nt.html",
+        "date": "2025-06-18 22:42:29",
+        "sentiment_score": 0.013818949460983276
+    },
+    {
+        "title": "Javier Aroca: \"Todos dejamos de ir a los mítines de todos cuando la política se futbolizó\"",
+        "image_url": "https://static.grupojoly.com/clip/32084daf-128b-45b1-b237-d62b1ad95a0d_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldiadecordoba.es/entrevistas/javier-aroca-dejamos-mitines-politica_0_2004172582.html",
+        "date": "2025-06-19 02:01:03",
+        "sentiment_score": 0.25392404198646545
+    },
+    {
+        "title": "Josep Puerto: \"Son los favoritos, pero estamos preparados\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/08734869-d140-46ff-a070-8415ded6eb18_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2025/06/19/josep-puerto-son-favoritos-preparados-118777118.html",
+        "date": "2025-06-19 02:00:42",
+        "sentiment_score": -0.8853100342676044
+    },
+    {
+        "title": "Amargo debut del Pachuca en el Mundial de Clubes",
+        "image_url": "https://mundonow.com/wp-content/uploads/2025/06/8335f03f9c7dcfcbefe23e55c4c230c61d5c820e.jpg",
+        "tags": [
+            "fútbol",
+            "mundial de clubes fifa",
+            "pachuca",
+            "sport"
+        ],
+        "link": "https://mundonow.com/pachuca-salzburgo-derrota-mundial-clubes-2025/",
+        "date": "2025-06-19 01:57:51",
+        "sentiment_score": 0.315406933426857
+    },
+    {
+        "title": "El Valencia rechaza una millonaria oferta por uno de los futbolistas favoritos de Corberán",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/05/2025040519183211405.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/valencia-rechaza-millonaria-oferta-uno-futbolistas-favoritos-corberan/20250619034844347785.html",
+        "date": "2025-06-19 01:48:44",
+        "sentiment_score": -0.8515740474686027
+    },
+    {
+        "title": "La ley aclara si está permitido hacer hogueras en las playas de Mallorca la noche de San Juan: esto es lo que debes saber",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3351573.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/06/19/2410537/ley-aclara-esta-permitido-hacer-hogueras-playas-mallorca-noche-san-juan-esto-debes-saber.html",
+        "date": "2025-06-19 02:00:01",
+        "sentiment_score": 0.11587058007717133
+    },
+    {
+        "title": "Que algunos artículos de opinión publicados en «Es Diari» lleguen realmente lejos...",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3353517.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/sorprende-sorprende/2025/06/19/2411835/algunos-articulos-opinion-publicados-diari-lleguen-realmente-lejos.html",
+        "date": "2025-06-19 02:00:01",
+        "sentiment_score": -0.228694349527359
+    },
+    {
+        "title": "De color pardo oliva y sabor picante: Así es el alga asiática invasora que buscan los científicos en Baleares",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3353263.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/06/19/2411655/color-pardo-oliva-sabor-picante-asi-alga-asiatica-invasora-buscan-cientificos-baleares.html",
+        "date": "2025-06-19 02:00:01",
+        "sentiment_score": -0.4686380848288536
+    },
+    {
+        "title": "La corrupción fulmina el plan de Sánchez para contentar a Puigdemont y Page que deja sin agua ni financiación a la Comunidad Valenciana",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/04/18/662133f140725.r_d.991-386-9443.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250619/corrupcion-fulmina-plan-sanchez-contentar-puigdemont-page-deja-agua-financiacion-comunidad-valenciana_308339.html",
+        "date": "2025-06-19 02:00:00",
+        "sentiment_score": -0.9318745341151953
+    },
+    {
+        "title": "Figura de la selección Colombia se infiltró en un barrio de Medellín para ver lo mejor del talento antioqueño: “Gracias por venir”",
+        "image_url": "https://www.infobae.com/resizer/v2/OFHUC5ESJZBITPG7K6IWNYWQJI.png?auth=058a2cdf579b9e8c7d0df262c876e001ef7089f0fa520ee215c1f6ef1d075de9&height=770&smart=true&width=1200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/06/19/figura-de-la-seleccion-colombia-se-infiltro-en-un-barrio-de-medellin-para-ver-lo-mejor-del-talento-antioqueno-gracias-por-venir/",
+        "date": "2025-06-19 01:47:37",
+        "sentiment_score": -0.026537582278251648
+    },
+    {
+        "title": "El PP crea en Génova el organismo Nuevos Españoles para atraer el voto extranjero",
+        "image_url": "https://phantom-elmundo.uecdn.es/99740ab460797f3188e1e7b06876d3f4/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/18/17502716838955.jpg",
+        "tags": [
+            "artículos juanma lamet"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/06/19/6852fea8e85ecede3f8b458f.html",
+        "date": "2025-06-19 01:09:03",
+        "sentiment_score": -0.5524818152189255
+    },
+    {
+        "title": "Historia en 4 tiempos | Un día como hoy: “Noel Soto”",
+        "image_url": "https://static.laregion.es/clip/cb8b43d8-97ce-4878-8abf-d6feda9d92c6_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/comarca-de-ourense/historia-4-tiempos-dia-hoy_1_20250619-3886697.html",
+        "date": "2025-06-19 00:30:44",
+        "sentiment_score": -0.04082157462835312
+    },
+    {
+        "title": "Fundación ”la Caixa”: un plan estratégico para transformar el futuro social, científico y cultural",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/06/18/685286dd02ed4.r_d.671-770-8996.jpeg",
+        "tags": [
+            "ed branded"
+        ],
+        "link": "https://www.eldebate.com/ed-branded/20250619/fundacion-la-caixa-un-plan-estrategico-para-transformar-el-futuro-social-cientifico-y-cultural_308643.html",
+        "date": "2025-06-19 00:28:13",
+        "sentiment_score": 0.5927171260118484
+    },
+    {
+        "title": "El invento de dos jóvenes españoles para revolucionar el pádel: un marcador que lleva la puntuación de los partidos",
+        "image_url": "https://s1.elespanol.com/2025/06/10/omicrono/tecnologia/1003743798117_256343185_1706x960.jpg?contentId=1003743798117",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20250619/invento-jovenes-espanoles-revolucionar-padel-marcador-lleva-puntuacion-partidos/1003743796223_0.html",
+        "date": "2025-06-19 00:23:27",
+        "sentiment_score": 0.29211190342903137
     }
 ];
