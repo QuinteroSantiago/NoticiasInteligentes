@@ -1,282 +1,5 @@
 export default [
     {
-        "title": "La Audiencia de Madrid retoma este lunes el juicio contra los ultras que colgaron un muñeco de Vinícius",
-        "image_url": "https://www.infobae.com/resizer/v2/WTHKH2EUHRAAPKPSK7XFBHVQNQ.jpg?auth=73cae7dee7574c763d1ca394c4d88c5165f079a56778f634400e6c4407f0bf99&height=1268&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/06/16/la-audiencia-de-madrid-retoma-este-lunes-el-juicio-contra-los-ultras-que-colgaron-un-muneco-de-vinicius/",
-        "date": "2025-06-16 06:30:49",
-        "sentiment_score": -0.6057309284806252
-    },
-    {
-        "title": "Comienza el tramo final de ‘Supervivientes 2025’: de la reacción de Anita al ver su corte de pelo a la noticia que hizo feliz a Montoya",
-        "image_url": "https://www.infobae.com/resizer/v2/TXEAJAEWFNDM5MOAAKJMCJWLFU.jpg?auth=4766696755d46dc95e62e3b61990eee836a805477258c8b6c7c1fb0707a813bb&height=863&smart=true&width=1540",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/16/comienza-el-tramo-final-de-supervivientes-2025-de-la-reaccion-de-anita-al-ver-su-corte-de-pelo-a-la-noticia-que-hizo-feliz-a-montoya/",
-        "date": "2025-06-16 06:18:19",
-        "sentiment_score": -0.6274481825530529
-    },
-    {
-        "title": "Expectación en el PSOE a la espera de que Santos Cerdán cumpla con su palabra y entregue este lunes su acta de diputado",
-        "image_url": "https://www.infobae.com/resizer/v2/SFOABAJHVNC63NLCTEUNUMZ7SE.jpg?auth=e5f48e3adadb339340f0d8171d5f4b053c8503930ef5592fa0e5f146103f843e&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/06/16/expectacion-en-el-psoe-a-la-espera-de-que-santos-cerdan-cumpla-con-su-palabra-y-entregue-este-lunes-su-acta-de-diputado/",
-        "date": "2025-06-16 06:15:16",
-        "sentiment_score": 0.1736547276377678
-    },
-    {
-        "title": "Cómo afecta a los usuarios la nueva ley de cajeros automáticos en España",
-        "image_url": "https://www.infobae.com/resizer/v2/FHSOE5YNQFAP3EXDK6SNCWWHUA.jpg?auth=98448079684dea3faf8ef532ee47a7f3cbea97a3bbb075f0cacea42753a87ad9&height=2467&smart=true&width=3700",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/16/como-afecta-a-los-usuarios-la-nueva-ley-de-cajeros-automaticos-en-espana/",
-        "date": "2025-06-16 06:05:20",
-        "sentiment_score": 0.1329725682735443
-    },
-    {
-        "title": "Estos son los 5 tipos de insomnio: claves para tratarlos",
-        "image_url": "https://www.infobae.com/resizer/v2/7XA4DA7TKVAP3LHEZC23M7BI2I.jpg?auth=8de92d6ebda8776da9857a91d0dbfa0dd66bcd09aa31d0c36a1bb1146fb6840e&height=653&smart=true&width=1161",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/16/estos-son-los-5-tipos-de-insomnio-claves-para-tratarlos/",
-        "date": "2025-06-16 06:01:37",
-        "sentiment_score": -0.7714739609509706
-    },
-    {
-        "title": "Qué es la oxitocina, la ‘hormona del amor’ que interviene durante el parto",
-        "image_url": "https://www.infobae.com/resizer/v2/D6KDIV3KHJEBDH3FFGT2F26ZJM.jpeg?auth=c1543bf350707b1bfefeb2417b44798c98c86476c82a7e08d608ec8fcac7b0eb&height=3584&smart=true&width=5376",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/16/que-es-la-oxitocina-la-hormona-del-amor-que-interviene-durante-el-parto/",
-        "date": "2025-06-16 05:45:48",
-        "sentiment_score": 0.4402984417974949
-    },
-    {
-        "title": "Esto es en lo que debes fijarte cuando recibas una carta de despido, según un abogado: “Aunque hayas cometido el mayor error, va a ser improcedente”",
-        "image_url": "https://www.infobae.com/resizer/v2/26DM4G5ON5DQBHE6S64VTALGFQ.jpg?auth=ff45db02b972bfe8522ddd743637e802eef30b8b412ec8df3c1442295e63b12a&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/16/esto-es-en-lo-que-debes-fijarte-cuando-recibas-una-carta-de-despido-segun-un-abogado-aunque-hayas-cometido-el-mayor-error-va-a-ser-improcedente/",
-        "date": "2025-06-16 05:42:32",
-        "sentiment_score": -0.05441240966320038
-    },
-    {
-        "title": "La AN sienta en el banquillo este lunes a un acusado de captación yihadista y recopilar consejos para 'lobos solitarios'",
-        "image_url": "https://www.infobae.com/resizer/v2/MZ5KAYQNNJC2TNOXE3KBJ4TKDE.jpg?auth=6a32b815a239086581250da83dfc0f7c593cb6030af4075f6fc1b45c7b8371f8&height=1285&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/06/16/la-an-sienta-en-el-banquillo-este-lunes-a-un-acusado-de-captacion-yihadista-y-recopilar-consejos-para-lobos-solitarios/",
-        "date": "2025-06-16 05:30:55",
-        "sentiment_score": -0.7355143688619137
-    },
-    {
-        "title": "Más Madrid solicita que el presidente de Acciona comparezca en el Congreso por las presuntas mordidas del ‘caso Koldo’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QBWWANYUL243F3Y5IVRANFVB6I.jpg?auth=188286c0044a3e048f3f2f57b80eef5823a38273247641e73f2ff71b8dffeb21&width=1200",
-        "tags": [
-            "caso koldo",
-            "pedro sánchez",
-            "santos cerdán",
-            "asamblea madrid",
-            "comunidad de madrid",
-            "mónica garcía gómez",
-            "más madrid",
-            "madrid",
-            "congreso diputados"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-06-16/mas-madrid-solicita-que-el-presidente-de-acciona-comparezca-en-el-congreso-por-las-presuntas-mordidas-del-caso-koldo.html",
-        "date": "2025-06-16 06:25:12",
-        "sentiment_score": -0.6419720631092787
-    },
-    {
-        "title": "Una avería afecta el funcionamiento de cinco líneas de Cercanías en el sur de Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XYXYS4XYXJCNLBUNCSTCEYMCQE.jpg?auth=6cd784837f2cef4e53c2d16898fdcd2f5f25487eff6d50b4ef6421df2d5322f6&width=1200",
-        "tags": [
-            "cataluña",
-            "cercanías",
-            "barcelona",
-            "tarragona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-16/una-averia-afecta-el-funcionamiento-de-cinco-lineas-de-cercanias-en-el-sur-de-barcelona.html",
-        "date": "2025-06-16 06:16:20",
-        "sentiment_score": -0.5568623654544353
-    },
-    {
-        "title": "Más Madrid recurre ante la justicia la licencia para el circuito previsto de F-1",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BPC5KUFN2JCSJJSSWVAD4M4CQ4.jpg?auth=465a2aaf02df4ca72f6a7d054c14be0500cd2c15e6ede5de75dfcbf8c4cfe363&width=1200",
-        "tags": [
-            "mundial fórmula 1",
-            "más madrid",
-            "madrid",
-            "ayuntamiento madrid",
-            "isabel díaz ayuso",
-            "comunidad de madrid",
-            "recursos judiciales",
-            "pp madrid",
-            "josé luis martínez almeida",
-            "licencias",
-            "gobierno comunidad madrid",
-            "automovilismo"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-06-16/mas-madrid-recurre-la-licencia-para-construir-el-circuito-de-la-f-1-que-impulsan-ayuso-y-almeida-y-reclama-que-se-suspenda-cautelarmente.html",
-        "date": "2025-06-16 05:30:00",
-        "sentiment_score": -0.3476789854466915
-    },
-    {
-        "title": "Giro de 180o en la Familia Real tras la importante decisión del rey Felipe: ahora sí",
-        "image_url": "https://edatv.news/filesedc/uploads/image/post/montaje-primer-plano-felipe-vi-traje-azul-exclamacion_1200_800.webp",
-        "tags": [
-            "top"
-        ],
-        "link": "https://edatv.news/corazon/giro-familia-real-tras-importante-decision-rey-felipe",
-        "date": "2025-06-16 06:32:00",
-        "sentiment_score": 0.3656114563345909
-    },
-    {
-        "title": "La zona de Madrid en la que creció Grison se está revalorizando y tiene chalés con piscina",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/06/zona-madrid-crecio-grison.jpg",
-        "tags": [
-            "la revuelta",
-            "celebrities",
-            "gente",
-            "televisión",
-            "soto del real"
-        ],
-        "link": "https://theobjective.com/gente/2025-06-16/zona-madrid-crecio-grison-revalorizando-chales/",
-        "date": "2025-06-16 06:30:00",
-        "sentiment_score": -0.6356050856411457
-    },
-    {
-        "title": "El tiempo para hoy en España, 16 de junio de 2025",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250616081900_120.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-tiempo-hoy-espana-16-junio-2025-20250616081900.html",
-        "date": "2025-06-16 06:19:00",
-        "sentiment_score": -0.39611075818538666
-    },
-    {
-        "title": "Experimentado, pero de andar irregular y dependiente del VAR: perfil del árbitro designado para el debut de Boca en el Mundial de Clubes",
-        "image_url": "https://www.infobae.com/resizer/v2/IDIVX2TRZBAF7JXHQALLEMM5YQ.jpg?auth=58fddefd94651999136d7a4bbe5c2064e49e17dd119554dec59a32824496f67b&height=2363&smart=true&width=3289",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/06/16/experimentado-pero-de-andar-irregular-y-dependiente-del-var-perfil-del-arbitro-designado-para-el-debut-de-boca-en-el-mundial-de-clubes/",
-        "date": "2025-06-16 06:16:54",
-        "sentiment_score": 0.06973373889923096
-    },
-    {
-        "title": "El espasmo acomodativo: una \"miopía falsa\" antesala de la real por el abuso de pantallas",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250616081548_120.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-espasmo-acomodativo-miopia-falsa-antesala-real-abuso-pantallas-20250616081548.html",
-        "date": "2025-06-16 06:15:48",
-        "sentiment_score": -0.889360866509378
-    },
-    {
-        "title": "Lexus lleva el lujo gastronómico a la carretera con su primer food truck de alta cocina",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/06/16/684fb36d263e1.r_d.3018-2606-2001.jpeg",
-        "tags": [
-            "motor"
-        ],
-        "link": "https://www.eldebate.com/motor/20250616/lexus-lleva-lujo-gastronomico-carretera-primer-food-truck-alta-cocina_307571.html",
-        "date": "2025-06-16 06:12:38",
-        "sentiment_score": 0.8004741314798594
-    },
-    {
-        "title": "“Confrontar es necesario para disputar la riqueza que se está generando”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/52225d1a-db1c-4bcc-a3c1-d58041aa0f2d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.noticiasdealava.eus/economia/2025/06/16/confrontar-necesario-disputar-riqueza-generando-9764748.html",
-        "date": "2025-06-16 06:05:28",
-        "sentiment_score": 0.26611022651195526
-    },
-    {
-        "title": "A solas con Marcos Moneta, el fanático de Messi que apeló a su pasado futbolero para convertir el mejor try del año",
-        "image_url": "https://www.infobae.com/resizer/v2/67VWRXAFFBAK3KGDSNNOAIPNBM.JPG?auth=cb354c4dfff5e08a7387832aa4968e632d72490676a1953ba61a71d26f3fd54e&height=1440&smart=true&width=2160",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/06/16/a-solas-con-marcos-moneta-el-fanatico-de-messi-que-apelo-a-su-pasado-futbolero-para-convertir-el-mejor-try-del-ano/",
-        "date": "2025-06-16 06:32:50",
-        "sentiment_score": -0.4268287271261215
-    },
-    {
-        "title": "El laberinto de la vergüenza",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/0e447845-f499-4680-91d7f02afea6d8a2.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z96bb554a-c87d-42d6-826f3343faf7b633/202506/el-laberinto-de-la-verguenza",
-        "date": "2025-06-16 06:31:19",
-        "sentiment_score": -0.791721498593688
-    },
-    {
-        "title": "Obras en la A-2 causan grandes atascos y colapsan el entorno de Plaza en hora punta",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/06/16/imagen-de-las-retenciones-la-manana-de-este-lunes.jpeg",
-        "tags": [
-            "zaragoza"
-        ],
-        "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2025/06/16/obras-en-la-a-2-causan-grandes-atascos-y-colapsan-el-entorno-de-plaza-en-hora-punt-1832150.html",
-        "date": "2025-06-16 06:31:00",
-        "sentiment_score": -0.8058852422982454
-    },
-    {
-        "title": "El grupo de teatro Faro-Miño cumple 35 años con más de 600 representaciones",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/06/15/2025061518484450499.jpg",
-        "tags": [
-            "ribeira sacra"
-        ],
-        "link": "https://www.elprogreso.es/articulo/ribeira-sacra/grupo-teatro-faro-mino-cumple-35-anos-mas-600-representaciones/202506160830431888198.html",
-        "date": "2025-06-16 06:30:43",
-        "sentiment_score": -0.07214808464050293
-    },
-    {
-        "title": "Los mejores perros de raza pastor alemán de España y Portugal se lucen en Sarria",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/06/15/2025061521455119937.jpg",
-        "tags": [
-            "sarria"
-        ],
-        "link": "https://www.elprogreso.es/articulo/sarria/mejores-perros-raza-pastor-aleman-espana-portugal-lucen-sarria/202506160828391888487.html",
-        "date": "2025-06-16 06:28:39",
-        "sentiment_score": 0.7780558075755835
-    },
-    {
-        "title": "16 buenos restaurantes que debes conocer antes de que acabe junio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8ae3e339-9350-46ac-80ff-caecf26d4e71_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20250616/buenos-restaurantes-barcelona-zaytun-moments-aurt-gyoza-house-besta-5-hermanos-mama-gorda-118558980",
-        "date": "2025-06-16 06:27:02",
-        "sentiment_score": 0.45634982734918594
-    },
-    {
-        "title": "La vida actual de Irene Montalà: de pedir limosna en el Liceu a ser una actriz de renombre en Catalunya",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/06/16/vivir-en-barcelona/1003742666139_14734979_1706x1280.jpg?contentId=1003742666139",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250616/vida-actual-irene-montala-pedir-limosna-liceu-actriz-renombre-catalunya/1003742666136_0.html",
-        "date": "2025-06-16 06:26:11",
-        "sentiment_score": -0.613666370511055
-    },
-    {
         "title": "Acciona despide a su director de construcción en España relacionado con el caso Koldo",
         "image_url": "https://www.infobae.com/resizer/v2/HLQOURV4Q5HINDIBQ24CYRNLVU.jpg?auth=97d428ef1d9d06ac56dce012f9a1d10c2dc266c32d94a1cf2206f3ff2618f9cd&height=1080&smart=true&width=1920",
         "tags": [
@@ -7311,5 +7034,596 @@ export default [
         "link": "https://2001online.com/usa/curiosidades/reportan-explosion-de-un-cohete-de-spacex-realizaba-pruebas-para-un-proximo-lanzamiento-202561911350",
         "date": "2025-06-19 15:35:00",
         "sentiment_score": 0.1699603646993637
+    },
+    {
+        "title": "Hoy será noticia. Viernes, 20 de junio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/hoy-sera-noticia-viernes-20-de-junio/",
+        "date": "2025-06-19 22:17:07",
+        "sentiment_score": 0.03931083902716637
+    },
+    {
+        "title": "“¡Sigan diciendo que está acabado!“: el relato en España del golazo de Messi en el Mundial de Clubes y la emoción de un histórico del Barcelona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/19/sigan-diciendo-que-esta-acabado-el-relato-en-espana-del-golazo-de-messi-en-el-mundial-de-clubes-y-la-emocion-de-un-historico-del-barcelona/",
+        "date": "2025-06-19 22:05:56",
+        "sentiment_score": 0.6671753451228142
+    },
+    {
+        "title": "Martín Morilla corta una oreja en la plaza de la Maestranza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/martin-morilla-corta-una-oreja-en-la-plaza-de-la-maestranza/",
+        "date": "2025-06-19 22:05:05",
+        "sentiment_score": -0.3754761889576912
+    },
+    {
+        "title": "Portugal repatría a dos españoles desde Israel",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/portugal-repatria-a-dos-espanoles-desde-israel/",
+        "date": "2025-06-19 22:04:49",
+        "sentiment_score": -0.805488501675427
+    },
+    {
+        "title": "2-1. Messi hasta la eternidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/2-1-messi-hasta-la-eternidad/",
+        "date": "2025-06-19 21:48:17",
+        "sentiment_score": 0.4654197320342064
+    },
+    {
+        "title": "2-3. Jimbee asalta el Palau con un penalti indirecto en el último minuto e iguala la final",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/2-3-jimbee-asalta-el-palau-con-un-penalti-indirecto-en-el-ultimo-minuto-e-iguala-la-final/",
+        "date": "2025-06-19 21:48:00",
+        "sentiment_score": 0.38709568977355957
+    },
+    {
+        "title": "Honduras envía primeros 125 bovinos vivos a México tras cumplir con el protocolo sanitario",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/honduras-envia-primeros-125-bovinos-vivos-a-mexico-tras-cumplir-con-el-protocolo-sanitario/",
+        "date": "2025-06-19 21:45:17",
+        "sentiment_score": 0.4192096069455147
+    },
+    {
+        "title": "Francia, Italia y Lituania, a cuartos; España y Bélgica comienzan con victoria",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/francia-italia-y-lituania-a-cuartos-espana-y-belgica-comienzan-con-victoria/",
+        "date": "2025-06-19 21:33:59",
+        "sentiment_score": 0.4550049751996994
+    },
+    {
+        "title": "Japón dará asistencia técnica a Perú para modernizar y concluir un proyecto de irrigación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/japon-dara-asistencia-tecnica-a-peru-para-modernizar-y-concluir-un-proyecto-de-irrigacion/",
+        "date": "2025-06-19 21:31:15",
+        "sentiment_score": 0.45616862177848816
+    },
+    {
+        "title": "Servinabar niega que Santos Cerdán haya sido o sea socio de esta empresa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/19/servinabar-niega-que-santos-cerdan-haya-sido-o-sea-socio-de-esta-empresa/",
+        "date": "2025-06-19 21:30:58",
+        "sentiment_score": -0.6478624492883682
+    },
+    {
+        "title": "Hasta el moño de puteros",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/06/16/carnet-conducir-ayudas-k3sG--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mono-puteros-20250620180201-nts.html",
+        "date": "2025-06-19 20:58:07",
+        "sentiment_score": -0.10549688339233398
+    },
+    {
+        "title": "Bruselas también es 'fachosfera'",
+        "image_url": "https://s2.ppllstatics.com/laverdad/www/multimedia/2025/06/18/campos-rio-kTa--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-bruselas-fachosfera-20250620225701-nt.html",
+        "date": "2025-06-19 20:57:11",
+        "sentiment_score": -0.16331225633621216
+    },
+    {
+        "title": "El sol es una idea",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2025/06/16/deportivos_14-k3qB--170x119@Diario%20Montanes.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-sol-idea-20250620224918-nts.html",
+        "date": "2025-06-19 20:49:18",
+        "sentiment_score": -0.1203133761882782
+    },
+    {
+        "title": "Todo lo progre también se desvanece en el aire",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/06/12/1483716049--170x119.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-progre-desvanece-aire-20250620224912-nts.html",
+        "date": "2025-06-19 20:49:12",
+        "sentiment_score": -0.11497631669044495
+    },
+    {
+        "title": "No es un preso político, es un asesino",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/06/20/asesinato-matrimonio-becerril-RlbO0C9OxkOdeTsT5tPDghL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/teresa-jimenezbecerril-preso-politico-asesino-20250620224857-nts.html",
+        "date": "2025-06-19 20:48:58",
+        "sentiment_score": -0.1394529640674591
+    },
+    {
+        "title": "Portugal desmantela una milicia neonazi liderada por un alto mando policial",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/06/19/MAL-RtFqLdir7yfH5xjPWnEPuLP-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/portugal-desmantela-milicia-neonazi-liderada-alto-mando-20250619194059-nt.html",
+        "date": "2025-06-19 17:41:15",
+        "sentiment_score": -0.23874406516551971
+    },
+    {
+        "title": "El administrador de la empresa Servinabar 2000 S.L. niega que Santos Cerdán sea socio",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/34X44GXAOA5N4PIUXLZFMYSNTI.jpg?auth=9971aabe218099e02dd0f1e0d77552cf9b0756128016f21490630e2a5d0d39b3&width=1200",
+        "tags": [
+            "guardia civil",
+            "caso koldo",
+            "uco",
+            "koldo garcía",
+            "santos cerdán",
+            "navarra",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-06-19/el-administrador-de-la-empresa-servinabar-2000-sl-niega-que-santos-cerdan-sea-socio.html",
+        "date": "2025-06-19 21:52:07",
+        "sentiment_score": -0.22624752670526505
+    },
+    {
+        "title": "La Casa Batlló de Barcelona recupera el aspecto original de su fachada posterior",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SCWB3VTN6FH6DEO6HQJEHHHVJE.jpg?auth=4e69ce79d673f5e0f8d2f366a08649cc27fb66f0cfaac0e28472e0c1465d215c&width=1200",
+        "tags": [
+            "modernismo",
+            "antoni gaudí",
+            "urbanismo",
+            "arquitectos",
+            "cataluña",
+            "barcelona",
+            "turismo",
+            "arquitectura",
+            "obras arte"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-19/la-casa-batllo-de-barcelona-recupera-el-aspecto-original-de-su-fachada-posterior.html",
+        "date": "2025-06-19 21:10:12",
+        "sentiment_score": 0.11081326007843018
+    },
+    {
+        "title": "Ábalos rompe su silencio: “Santos Cerdán y Koldo García me han utilizado”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/S3255OLKAFGMHPBZG5NYG4MSM4.jpg?auth=ff038c9db916ce6e935cadba041804f5f9e2bfc3c50ee1129527e595caa6be8d&width=1200",
+        "tags": [
+            "españa",
+            "guardia civil",
+            "psn-psoe",
+            "psoe",
+            "corrupción",
+            "uco",
+            "ministerio de transportes",
+            "cadena ser",
+            "josé luis ábalos",
+            "santos cerdán",
+            "koldo garcía",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2025-06-19/abalos-rompe-su-silencio-santos-cerdan-y-koldo-garcia-me-han-utilizado.html",
+        "date": "2025-06-19 19:08:05",
+        "sentiment_score": -0.745655246078968
+    },
+    {
+        "title": "La pulpa de guayaba que llevó hasta un “macrolaboratorio” de cocaína",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GPQH443LORFIXI3HTITCPEPCPU.jpg?auth=6c609a471515e40132a7f36444d584213e5a094b4ec5bdd968c2e3f18a066a16&width=1200",
+        "tags": [
+            "agencia tributaria",
+            "españa",
+            "tráfico",
+            "drogas",
+            "policía nacional",
+            "valencia",
+            "cocaína",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/2025-06-19/la-pulpa-de-guayaba-que-llevo-hasta-un-macrolaboratorio-de-cocaina.html",
+        "date": "2025-06-19 18:49:02",
+        "sentiment_score": -0.7073171492666006
+    },
+    {
+        "title": "La Casa Blanca insiste en que todos los países europeos, “incluida España”, deben gastar el 5% en Defensa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TXF7RWDAWS5XKN257IW5KDBERU.jpg?auth=0fca8546b5cd0d8fe7b319b3f34af362f5320fd296c1903d4b0d40008536704e&width=1200",
+        "tags": [
+            "otan",
+            "ucrania",
+            "guerra de rusia en ucrania",
+            "ataques militares",
+            "unión europea",
+            "conflictos internacionales",
+            "guerra",
+            "donald trump",
+            "rusia",
+            "estados unidos",
+            "conflictos",
+            "europa",
+            "conflictos armados"
+        ],
+        "link": "https://elpais.com/internacional/2025-06-19/la-casa-blanca-insiste-en-que-todos-los-paises-europeos-incluida-espana-deben-gastar-el-5-en-defensa.html",
+        "date": "2025-06-19 18:20:08",
+        "sentiment_score": -0.3302636742591858
+    },
+    {
+        "title": "Los jueces que absolvieron a Salvini en el caso Open Arms alegan que España, y no Italia, debió acoger a los migrantes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ORWD2O7UMZKFAPTXDMVIOMSE3U.jpg?auth=6b873b14c4de1839544b170e75985a5606e742b61feec9e932930160a7636a46&width=1200",
+        "tags": [
+            "mar mediterráneo",
+            "españa",
+            "matteo salvini",
+            "derechos humanos",
+            "inmigración",
+            "italia",
+            "libia",
+            "malta",
+            "sentencias",
+            "migración",
+            "ong",
+            "salvamento marítimo"
+        ],
+        "link": "https://elpais.com/internacional/2025-06-19/los-jueces-que-absolvieron-a-salvini-en-el-caso-open-arms-alegan-que-espana-y-no-italia-debio-acoger-a-los-migrantes.html",
+        "date": "2025-06-19 18:09:23",
+        "sentiment_score": -0.4985626470297575
+    },
+    {
+        "title": "La antigua sede de Telefónica reabre sus puertas tras más de una década vacía",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TGDOGQHYVJBJ3CC5MVVURU5IGU.jpg?auth=9ec27b0d4eda849f64b865ca39369e8169cb45ad8fdeb5e8858a72d2df2a9f26&width=1200",
+        "tags": [
+            "telecomunicaciones",
+            "obras municipales",
+            "telefónica",
+            "barcelona",
+            "innovación",
+            "cataluña",
+            "astrazeneca",
+            "edificios historicos",
+            "empresas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-19/la-antigua-sede-de-telefonica-reabre-sus-puertas-tras-mas-de-una-decada-vacia.html",
+        "date": "2025-06-19 17:12:29",
+        "sentiment_score": 0.2201998047530651
+    },
+    {
+        "title": "Louzán, en Tiempo de Juego: \"Queremos ampliar las once sedes del Mundial; optan Valencia y Vigo\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/06/19/685486d9acef1.r_d.753-810-2833.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/louzan-juego-queremos-ampliar-once-sedes-mundial-optan-valencia-vigo-20250619_3172945.html",
+        "date": "2025-06-19 22:05:44",
+        "sentiment_score": -0.033970654010772705
+    },
+    {
+        "title": "Oscar espera la gran oportunidad por la que salió de África",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/06/20/granada-oscar-1-kR3E-U2302136206061ZJ-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/granadacf/oscar-espera-gran-oportunidad-salio-africa-20250620234603-nt.html",
+        "date": "2025-06-19 21:46:04",
+        "sentiment_score": 0.2283572405576706
+    },
+    {
+        "title": "Dellafuente celebra una década en la música ante 140.000 personas",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/06/20/granada-dellafuente-europa-press-kjd-U2302135336288V5D-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/culturas/musica/dellafuente-celebra-decada-musica-ante-140000-personas-20250620234343-nt.html",
+        "date": "2025-06-19 21:43:43",
+        "sentiment_score": 0.5044903382658958
+    },
+    {
+        "title": "Lista completa de los 50 mejores restaurantes del mundo",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/06/19/gala50best-0-kYj-U2302138446147LsF-758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/culturas/gastronomia/lista-completa-mejores-restaurantes-mundo-20250619233617-ntrc.html",
+        "date": "2025-06-19 21:36:20",
+        "sentiment_score": 0.17951296269893646
+    },
+    {
+        "title": "Quintana reivindica el bipartito 20 años después",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2019/03/10/2019031000562454225.png",
+        "tags": [
+            "eurorregión"
+        ],
+        "link": "https://www.mundiario.com/articulo/eurorregion/anxo-quintana-reivindica-bipartito-veinte-anos-despues/20250619233149347918.html",
+        "date": "2025-06-19 21:31:49",
+        "sentiment_score": -0.25971819460392
+    },
+    {
+        "title": "Real Madrid anuncia baja de Kylian Mbappé por gastroenteritis",
+        "image_url": "https://elluchador.info/wp-content/uploads/2025/06/Kylian-Mbappe-3-1068x801.jpg",
+        "tags": [
+            "mundo",
+            "deportes"
+        ],
+        "link": "https://elluchador.info/?p=281569",
+        "date": "2025-06-19 21:09:21",
+        "sentiment_score": -0.7215860579162836
+    },
+    {
+        "title": "Relevantes juristas difunden un memorial por la recuperación de la normalidad democrática frente a la crisis institucional",
+        "image_url": "https://s1.elespanol.com/2025/06/19/actualidad/1003743813424_256638825_1706x960.jpg?contentId=1003743813424",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20250619/relevantes-juristas-difunden-memorial-recuperacion-normalidad-democratica-frente-crisis-institucional/1003743813339_0.html",
+        "date": "2025-06-19 21:01:55",
+        "sentiment_score": -0.801269456744194
+    },
+    {
+        "title": "El peruano Maido se corona como mejor restaurante del mundo: tres españoles en la lista",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/06/19/A47DD51F-AA01-4267-B1E0-D8DEFAF62593/peruano-maido-corona-como-mejor-restaurante-mundo-tres-espanoles-lista_70.jpg?crop=7952%2C4473%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "ondacero",
+            "noticias",
+            "sociedad"
+        ],
+        "link": "https://www.ondacero.es/noticias/sociedad/peruano-maido-corona-como-mejor-restaurante-mundo-tres-espanoles-lista_2025061968547a569bb16f41b8e7dc8a.html",
+        "date": "2025-06-19 21:00:06",
+        "sentiment_score": 0.07517904043197632
+    },
+    {
+        "title": "Premios 50 Best 2025: la lista completa de los mejores restaurantes del mundo",
+        "image_url": "https://www.infobae.com/resizer/v2/KNTH4UV2XNDBFNYUFHKZJPQKY4.png?auth=9af91c6983c35f8dc94e47ff88fb4c827800e3f9ec55ef41704705c2f3f788f3&height=767&smart=true&width=1365",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/tendencias/2025/06/19/premios-50-best-2025-la-lista-completa-de-los-mejores-restaurantes-del-mundo/",
+        "date": "2025-06-19 20:48:54",
+        "sentiment_score": 0.7981451284140348
+    },
+    {
+        "title": "Kylian Mppabé recibe el alta tras ser ingresado por un \"cuadro agudo de gastroenteritis\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/03/16/E41C1E71-6EEC-446B-A273-F4C99E1776EC/kylian-mbappe-celebra-uno-sus-goles-villarreal-ceramica_98.jpg?crop=4500%2C2532%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/kylian-mppabe-recibe-alta-ser-ingresado-cuadro-agudo-gastroenteritis_202506196854760a0221901ab11439aa.html",
+        "date": "2025-06-19 20:41:46",
+        "sentiment_score": -0.47357504814863205
+    },
+    {
+        "title": "Un acuerdo esperanzador para Rodalies",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20250620/10808504/acuerdo-esperanzador-rodalies.html",
+        "date": "2025-06-19 22:05:00",
+        "sentiment_score": 0.9078495530411601
+    },
+    {
+        "title": "Los semáforos del viernes 20 de junio: Carl June, Mitsuharu Tsumura, Ignacio García Cuenca y Sándor Pintér",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/11/26/6562835d2a284.r_d.474-232-0.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20250620/10804053/semaforos-viernes-20-junio-carl-june-mitsuharu-tsumura-ignacio-garcia-cuenca-sandor-pinter.html",
+        "date": "2025-06-19 22:05:00",
+        "sentiment_score": 0.1083386167883873
+    },
+    {
+        "title": "Video | Venezolano Telesco Segovia y Messi anotaron en la victoria del Inter Miami ante el Porto",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "telesco segovia",
+            "inter miami",
+            "qué acaba de pasar",
+            "deportes"
+        ],
+        "link": "https://elpitazo.net/deportes/video-venezolano-telesco-segovia-y-messi-anotaron-en-la-victoria-del-inter-miami-ante-el-porto/",
+        "date": "2025-06-19 22:01:00",
+        "sentiment_score": 0.5896549746394157
+    },
+    {
+        "title": "Desconectar para volver a conectar, sin ir más lejos",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/13/global-content/1003742665492_14723327_1706x960.jpg?contentId=1003742665492",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/global-content/20250619/desconectar-volver-conectar-sin-ir-lejos/1003742665486_0.html",
+        "date": "2025-06-19 22:00:00",
+        "sentiment_score": 0.4906547777354717
+    },
+    {
+        "title": "Los hermanos Torres y Pantea barren al Grupo Sagardi y abrirán en el mercado de Santa Caterina",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2019/09/27/gastro/gastro_432466754_10352891_1706x960.jpg?contentId=432466754",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250619/hermanos-torres-pantea-grupo-sagardi-santa-caterina/1003742667310_0.html",
+        "date": "2025-06-19 22:00:00",
+        "sentiment_score": 0.6591110080480576
+    },
+    {
+        "title": "El Barcelona pone la directa por Nico Williams: detalles de su posible fichaje",
+        "image_url": "https://www.naiz.eus/media/asset_publics/resources/001/243/398/news_landscape/0620_kir_athletic.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.naiz.eus/eu/hemeroteca/gara/editions/2025-06-20/hemeroteca_articles/el-barcelona-pone-la-directa-por-nico-williams-detalles-de-su-posible-fichaje",
+        "date": "2025-06-19 22:00:00",
+        "sentiment_score": 0.06591591238975525
+    },
+    {
+        "title": "Pasa a la acción: empieza a ahorrar energía",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/19/global-content/1003742667092_14752432_1706x960.jpg?contentId=1003742667092",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/global-content/20250619/pasa-accion-empieza-ahorrar-energia/1003742667079_0.html",
+        "date": "2025-06-19 22:00:00",
+        "sentiment_score": 0.6400540675967932
+    },
+    {
+        "title": "¡Llega el verano!",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/19/pensamiento/1003742667417_14758705_1706x960.jpg?contentId=1003742667417",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250619/llega-verano/1003742667416_13.html",
+        "date": "2025-06-19 22:00:00",
+        "sentiment_score": 0.6361823529005051
+    },
+    {
+        "title": "Suspende pagos en Barcelona la ‘app’ de alquiler de coches Virtuo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/19/business/confidente-vip/1003742667374_14757862_1706x960.jpg?contentId=1003742667374",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20250619/suspende-pagos-barcelona-app-alquiler-coches-virtuo/1003742667337_0.html",
+        "date": "2025-06-19 22:00:00",
+        "sentiment_score": -0.8412241414189339
+    },
+    {
+        "title": "Mundial de Clubes 2025: Telasco Segovia le pone sabor vinotinto al triunfo del Inter de Miami ante el Porto con este golazo",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750372839584.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/mundial-de-clubes-2025-telasco-segovia-le-pone-sabor-vinotinto-al-triunfo-del-inter-de-miami-ante-el-porto-con-este-golazo-202561918130",
+        "date": "2025-06-19 22:13:00",
+        "sentiment_score": 0.5883828178048134
+    },
+    {
+        "title": "La familia Buss y la millonaria venta de los Lakers: las razones detrás de una decisión histórica",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750372187666.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/la-familia-buss-y-la-millonaria-venta-de-los-lakers-las-razones-detras-de-una-decision-historica-20256191900",
+        "date": "2025-06-19 22:10:19",
+        "sentiment_score": -0.1698356494307518
+    },
+    {
+        "title": "Cole Palmer y Connie Grace: un romance lejos de los focos",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750373610332.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/cole-palmer-y-connie-grace-un-romance-lejos-de-los-focos-20256191900",
+        "date": "2025-06-19 22:10:19",
+        "sentiment_score": 0.3747175931930542
+    },
+    {
+        "title": "Inician capacitación gratuita de jóvenes en inteligencia artificial en estas 8 casas de estudios",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750371397056.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/inician-capacitacion-gratuita-de-jovenes-en-inteligencia-artificial-en-estas-8-casas-de-estudios-20256191890",
+        "date": "2025-06-19 22:09:00",
+        "sentiment_score": 0.3815884245559573
+    },
+    {
+        "title": "Precio del Euro BCV para el 20 de junio: así se cotizará la moneda europea",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750370836709.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-euro-bcv-para-el-20-de-junio-asi-se-cotizara-la-moneda-europea-20256191820",
+        "date": "2025-06-19 22:02:00",
+        "sentiment_score": 0.028710193932056427
+    },
+    {
+        "title": "¡Impactante! conductor huye de agentes de ICE y choca contra un poste: lo que dijo la policía te sorprenderá",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750370491345.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/impactante-conductor-huye-de-agentes-de-ice-y-choca-contra-un-poste-lo-que-dijo-la-policia-te-sorprendera-20256191810",
+        "date": "2025-06-19 22:01:00",
+        "sentiment_score": -0.7281453162431717
+    },
+    {
+        "title": "Lili Estefan aborda la ausencia de Raúl de Molina en “El Gordo y La Flaca”: Se ha hecho un procedimiento",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750370634519.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/lili-estefan-aborda-la-ausencia-de-raul-de-molina-en-el-gordo-y-la-flaca-se-ha-hecho-un-procedimiento--20256191810",
+        "date": "2025-06-19 22:01:00",
+        "sentiment_score": -0.04862256720662117
+    },
+    {
+        "title": "Precio del dólar BCV para el 20 de junio: así se cotizará la moneda estadounidense",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750370242444.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-bcv-para-el-20-de-junio-asi-se-cotizara-la-moneda-estadounidense--202561917590",
+        "date": "2025-06-19 22:00:00",
+        "sentiment_score": 0.016797054558992386
+    },
+    {
+        "title": "¡Atención Inmigrantes! Redadas laborales ahora tendrán un nuevo enfoque para los arrestos",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750370301748.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/atencion-inmigrantes-redadas-laborales-ahora-tendran-un-nuevo-enfoque-para-los-arrestos-202561917500",
+        "date": "2025-06-19 21:50:00",
+        "sentiment_score": -0.1074344664812088
+    },
+    {
+        "title": "Rafael Nadal: Rey Felipe VI nombra marqués de Llevant al extenista español",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750365840588.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/rafael-nadal-rey-felipe-vi-nombra-marques-de-llevant-al-extenista-espanol--20256191830",
+        "date": "2025-06-19 21:17:59",
+        "sentiment_score": 0.6550661846995354
     }
 ];
