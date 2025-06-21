@@ -160,46 +160,6 @@ export default [
         "sentiment_score": 0.05001106858253479
     },
     {
-        "title": "Un análisis de sangre podría reducir los rechazos de los trasplantes de hígado",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/06/17/labo-cancer.png",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/analisis-sangre-reducir-rechazos-trasplantes-higado-20250617154732-nt.html",
-        "date": "2025-06-17 13:48:16",
-        "sentiment_score": -0.09641827642917633
-    },
-    {
-        "title": "El informe del Gobierno sobre el apagón admite la responsabilidad de Red Eléctrica pero trata de implicar a las empresas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/17/saraaagesenep-RNqdqnJG3ks8LFFI4hSCvLI-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/informe-gobierno-sobre-apagon-admite-responsabilidad-red-20250617142950-nt.html",
-        "date": "2025-06-17 12:31:14",
-        "sentiment_score": -0.22526727616786957
-    },
-    {
-        "title": "Luís Montenegro pide a la oposición que le permita gobernar Portugal los próximos cuatro años",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/06/17/luis-kHQD-U701151896328qPD-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/luis-montenegro-pide-oposicion-permita-gobernar-portugal-20250617132848-nt.html",
-        "date": "2025-06-17 11:28:49",
-        "sentiment_score": 0.016581594944000244
-    },
-    {
-        "title": "El Gobierno belga estudia suprimir el Senado esta legislatura para reducir costes",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/17/Bart-Wever-kgSB-U701151624231CQB-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/gobierno-belga-estudia-suprimir-senado-legislatura-reducir-20250617130052-nt.html",
-        "date": "2025-06-17 11:00:53",
-        "sentiment_score": -0.06225672364234924
-    },
-    {
         "title": "PP y ERC se unen en el Senado por el informe Cerdán: “Puso la mano en el fuego y se abrasó”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/LL6TMATU5D253JCCG5XZ76JBAA.jpg?auth=fc3169fdd7cc8ee3d64df1869f89485dc7296c65ade75774fd491e36fc3e11d7&width=1200",
         "tags": [
@@ -7671,5 +7631,393 @@ export default [
         "link": "https://2001online.com/usa/internacionales/desgarrador-cuatro-hermanos-le-suplican-a-trump-el-regreso-de-sus-padres-deportados-202562017140",
         "date": "2025-06-20 21:14:00",
         "sentiment_score": -0.4813512787222862
+    },
+    {
+        "title": "Dellafuente demuestra que un artista independiente puede llenar un estadio como el Metropolitano y plantarle cara a espectáculos multimillonarios",
+        "image_url": "https://www.infobae.com/resizer/v2/5Y5EWETL2ZCQTFSNMQO2ON2IZA.jpg?auth=f6cd614d554113b83aa314f6da950ee7dd15ab2de3d0635063a3bcd8929749f6&height=3808&smart=true&width=5712",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/06/21/dellafuente-demuestra-que-un-artista-independiente-puede-llenar-un-estadio-como-el-metropolitano-y-plantarle-cara-a-espectaculos-multimillonarios/",
+        "date": "2025-06-21 02:07:42",
+        "sentiment_score": 0.9177411217242479
+    },
+    {
+        "title": "Temperaturas en Málaga: prepárate antes de salir de casa",
+        "image_url": "https://www.infobae.com/resizer/v2/A4CTAZD3GFDMJNQ4NSZYVNJDMI.jpg?auth=14611cb258083455447aff3018211c7b74524d67abb1c532ffdc44e73902891c&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/21/temperaturas-en-malaga-preparate-antes-de-salir-de-casa/",
+        "date": "2025-06-21 02:02:35",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Madrid este sábado",
+        "image_url": "https://www.infobae.com/resizer/v2/A4CTAZD3GFDMJNQ4NSZYVNJDMI.jpg?auth=14611cb258083455447aff3018211c7b74524d67abb1c532ffdc44e73902891c&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/21/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-madrid-este-sabado/",
+        "date": "2025-06-21 01:30:44",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Barcelona este 21 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/A4CTAZD3GFDMJNQ4NSZYVNJDMI.jpg?auth=14611cb258083455447aff3018211c7b74524d67abb1c532ffdc44e73902891c&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/21/clima-hoy-en-espana-temperaturas-para-barcelona-este-21-de-junio/",
+        "date": "2025-06-21 01:17:37",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "¿Estás buscando trabajo en España? Estas son las 10 profesiones técnicas más demandadas",
+        "image_url": "https://www.infobae.com/resizer/v2/F5V7GA3CCJAXPFX6GVWDXD7FRQ.jpg?auth=1253ce206cc00553b8401aca755c6492acffd7f04950be5546256fd92f846699&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/06/21/estas-buscando-trabajo-en-espana-estas-son-las-10-profesiones-tecnicas-mas-demandadas/",
+        "date": "2025-06-21 00:06:44",
+        "sentiment_score": 0.298919141292572
+    },
+    {
+        "title": "Ranking de Prime Video en España: estas son las películas más vistas del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/T5GRYRGLF5CTTODZNO37SASCCI.jpg?auth=05bbfa9c2f2eb1d2ab2642005b4137141bc74068ce3c8c285e27b747d1680e80&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/06/20/ranking-de-prime-video-en-espana-estas-son-las-peliculas-mas-vistas-del-momento/",
+        "date": "2025-06-20 23:30:39",
+        "sentiment_score": 0.2153387200087309
+    },
+    {
+        "title": "La negociación por el futuro de Almaraz encalla en plena crisis del apagón",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/06/20/CentralAlmarazGuillermoNavarro-RepY7tPzPIG1xEufao7MMLM-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/negociacion-futuro-almaraz-encalla-plena-crisis-apagon-20250620181814-nt.html",
+        "date": "2025-06-21 01:52:36",
+        "sentiment_score": -0.059691011905670166
+    },
+    {
+        "title": "Precios, apagón y burocracia: el cóctel que frena la financiación de las renovables",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/06/21/parque-fotovoltaico-RYtjfbFGFZ0VAiJV4OyjVqO-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/precios-apagon-burocracia-coctel-frena-financiacion-renovables-20250621035206-nt.html",
+        "date": "2025-06-21 01:52:06",
+        "sentiment_score": -0.07637637853622437
+    },
+    {
+        "title": "El Gobierno se atasca en la ejecución y el calendario de los fondos europeos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/21/sanchez-leyen-RW8I1iAbutpCzxlXXlQL9KN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-atasca-ejecucion-calendario-fondos-europeos-20250621035142-nt.html",
+        "date": "2025-06-21 01:51:42",
+        "sentiment_score": -0.02969425916671753
+    },
+    {
+        "title": "¿Caerán los ayatolás? El incierto camino hacia un cambio de régimen",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/20/iran-RocdZ13zHAFaJr9JpmGocXN-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/caeran-ayatolas-incierto-camino-cambio-regimen-20250620195747-nt.html",
+        "date": "2025-06-21 01:50:19",
+        "sentiment_score": -0.14695747196674347
+    },
+    {
+        "title": "El fenómeno Labubu: cómo China busca ganar influencia mediante su propiedad intelectual",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/06/13/labubu-afp-RngGMvdrqckbaNftMfuO9QI-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/fenomeno-labubu-globalizacion-propiedad-intelectual-china-20250613121112-nt.html",
+        "date": "2025-06-21 01:07:51",
+        "sentiment_score": -0.11963866651058197
+    },
+    {
+        "title": "Messi, la imaginación en pantalón corto",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/06/21/messi3_20250620185443-Rlf4Ttmantr2VZk6zRJxciJ-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-messi-imaginacion-pantalon-corto-20250621013827-nt.html",
+        "date": "2025-06-21 01:00:33",
+        "sentiment_score": 0.015841960906982422
+    },
+    {
+        "title": "Desde la prisión domiciliaria, Cristina Kirchner lidera un acto y critica al Gobierno de Milei: «Bullrich es nefasta»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/06/21/arg-kzrE-U701173280710YIE-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/prision-domiciliaria-cristina-kirchner-lidera-acto-critica-20250621015645-nt.html",
+        "date": "2025-06-20 23:58:29",
+        "sentiment_score": -0.03331989049911499
+    },
+    {
+        "title": "FIFA borra un polémico informe: el error estadístico que disparó la rivalidad entre Boca y River",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750467793060.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/fifa-borra-un-polemico-informe-el-error-estadistico-que-disparo-la-rivalidad-entre-boca-y-river-20256202300",
+        "date": "2025-06-21 02:08:40",
+        "sentiment_score": -0.4784185066819191
+    },
+    {
+        "title": "Estas son las series de moda en Netflix México hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/3ILG6ARO65GSXKX3D2HXEQOXPU.jpg?auth=49262afaeec20a7ad29d37c6146b2a28628bfee4fd80ec8a4650c10fa5fb0f9e&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/06/21/estas-son-las-series-de-moda-en-netflix-mexico-hoy/",
+        "date": "2025-06-21 02:02:07",
+        "sentiment_score": 0.6329119056463242
+    },
+    {
+        "title": "Menorca, presente en la última edición de RetoTech Baleares",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3356169.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/06/21/2413267/menorca-presente-ultima-edicion-retotech-baleares.html",
+        "date": "2025-06-21 02:00:01",
+        "sentiment_score": 0.5190855488181114
+    },
+    {
+        "title": "La última edición de RetoTech Baleares ya tiene ganadores",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3345589.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/06/21/2407243/ultima-edicion-retotech-baleares-tiene-ganadores.html",
+        "date": "2025-06-21 02:00:01",
+        "sentiment_score": 0.5190855488181114
+    },
+    {
+        "title": "León sin León: el debate de la capitalidad",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/06/20/68553d3754eda.jpeg",
+        "tags": [
+            "la revista"
+        ],
+        "link": "https://www.diariodeleon.es/monograficos/revista/250621/2051707/leon-leon-debate-capitalidad.html",
+        "date": "2025-06-21 01:30:00",
+        "sentiment_score": -0.6955036297440529
+    },
+    {
+        "title": "Este es el top 10 de series en Netflix Colombia para disfrutar acompañado",
+        "image_url": "https://www.infobae.com/resizer/v2/DKDQQ3L2WNBGZLX4AGIYGIIEUU.jpg?auth=1ea2adb9377b41ea05390d2e8a3f5052db84897c8aad11c6331aaff453b234c7&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/06/21/este-es-el-top-10-de-series-en-netflix-colombia-para-disfrutar-acompanado/",
+        "date": "2025-06-21 01:16:40",
+        "sentiment_score": 0.18770477175712585
+    },
+    {
+        "title": "Una mañana buscando minas en Madrid con soldados de Ucrania: ya han sido adiestrados 8.000 en tres años",
+        "image_url": "https://s1.elespanol.com/2025/06/20/actualidad/1003743815111_256672699_1706x960.jpg?contentId=1003743815111",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20250621/manana-buscando-minas-madrid-soldados-ucrania-adiestrados-anos/1003743813982_0.html",
+        "date": "2025-06-21 00:57:26",
+        "sentiment_score": 0.174712672829628
+    },
+    {
+        "title": "Compartir piso con 67, 57 o 55 años, el drama de Penélope, Augusto o Miguel: \"No es la vida que te has planteado, deprime\"",
+        "image_url": "https://s1.elespanol.com/2025/06/20/actualidad/1003743814902_256668716_1706x960.jpg?contentId=1003743814902",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250621/compartir-piso-anos-drama-penelope-augusto-miguel-no-vida-planteado-deprime/1003743814041_0.html",
+        "date": "2025-06-21 00:17:49",
+        "sentiment_score": 0.0446012020111084
+    },
+    {
+        "title": "Nancho Novo: \"En vez de tantas noches de fiesta por ahí, podría haberme comprado una casa en el barrio Salamanca\"",
+        "image_url": "https://s1.elespanol.com/2025/06/20/actualidad/1003743814827_256666822_1706x960.jpg?contentId=1003743814827",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250621/nancho-novo-vez-noches-fiesta-ahi-podria-haberme-comprado-casa-barrio-salamanca/1003743814305_0.html",
+        "date": "2025-06-21 00:17:40",
+        "sentiment_score": -0.787966288626194
+    },
+    {
+        "title": "Magia y dragones, el debut de Toni Cortés que inicia la apuesta de Dolmen por la literatura en catalán",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3356217.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/06/21/2413257/magia-dragones-debut-toni-cortes-inicia-apuesta-dolmen-por-literatura-catalan.html",
+        "date": "2025-06-21 02:00:01",
+        "sentiment_score": -0.25650762021541595
+    },
+    {
+        "title": "Del Girona al Vila-real: el PSOE y Compromís aspiran a catalanizar el fútbol valenciano",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/06/20/68554242f19b0.r_d.1930-933-3475.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250621/girona-vilareal-psoe-compromis-aspiran-catalanizar-futbolvalenciano_309381.html",
+        "date": "2025-06-21 02:00:00",
+        "sentiment_score": 0.19603687524795532
+    },
+    {
+        "title": "Joël Dicker: «Leer te hace menos vulnerable a la manipulación»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/58e805a7-202f-4ea4-b840-00349fdca655_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eldia.es/cultura/2025/06/21/joel-dicker-leer-vulnerable-manipulacion-118897137.html",
+        "date": "2025-06-21 01:22:00",
+        "sentiment_score": -0.33907441794872284
+    },
+    {
+        "title": "Al menos 75 personas han muerto por calor en lo que va de junio, según el Carlos III: el tercero más mortal en 10 años",
+        "image_url": "https://s1.elespanol.com/2024/07/18/actualidad/871423308_247879369_1706x960.jpg?contentId=871423308",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20250621/personas-muerto-calor-va-junio-carlos-iii-tercero-mortal-anos/1003743815013_0.html",
+        "date": "2025-06-21 00:57:47",
+        "sentiment_score": -0.6633387096226215
+    },
+    {
+        "title": "Sánchez e Illa se niegan a informar de su reunión privada a 10 días de caducar sus pactos con ERC para el 'cupo catalán'",
+        "image_url": "https://s1.elespanol.com/2025/06/20/actualidad/1003743815125_256674754_1706x960.jpg?contentId=1003743815125",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250621/sanchez-illa-niegan-informar-reunion-privada-dias-caducar-pactos-erc-cupo-catalan/1003743814998_0.html",
+        "date": "2025-06-21 00:57:47",
+        "sentiment_score": -0.3457934632897377
+    },
+    {
+        "title": "Karol G se inspira en agrupación venezolana y lanza “Papasito”",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/06/1750446470034-730x524.webp",
+        "tags": [
+            "tropicoqueta",
+            "papasito",
+            "cantante",
+            "karol g",
+            "venezolana",
+            "placeres",
+            "los melódicos",
+            "colombiana",
+            "album"
+        ],
+        "link": "https://primicia.com.ve/placeres/karol-g-se-inspira-en-agrupacion-venezolana-y-lanza-papasito/",
+        "date": "2025-06-21 00:37:46",
+        "sentiment_score": 0.3243475779891014
+    },
+    {
+        "title": "Marc Bernal: polémica reacción del jugador del FC Barcelona ante gritos anti-España",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750461785181.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/marc-bernal-polemica-reaccion-del-jugador-del-fc-barcelona-ante-gritos-anti-espana-20256202100",
+        "date": "2025-06-21 00:08:36",
+        "sentiment_score": -0.8516724184155464
+    },
+    {
+        "title": "Nuevo revés para Trump: jueza federal le prohíbe suspender matrículas a estudiantes extranjeros en Harvard",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750472450347.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/nuevo-reves-para-trump-jueza-federal-le-prohibe-suspender-matriculas-a-estudiantes-extranjeros-en-harvard-202562022100",
+        "date": "2025-06-21 02:10:00",
+        "sentiment_score": 0.03876245766878128
+    },
+    {
+        "title": "CBP advierte que enviará este importante mensaje a ciertas personas: lee para que no te agarren desprevenido",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cbp-advierte-que-enviara-este-importante-mensaje-a-ciertas-personas-lee-para-que-no-te-agarren-desprevenido-202562022100",
+        "date": "2025-06-21 02:10:00",
+        "sentiment_score": -0.07254088670015335
+    },
+    {
+        "title": "Secretos milagrosos de los peluqueros para un cabello manejable: adiós al frizz",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750274179293.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/secretos-milagrosos-de-los-peluqueros-para-un-cabello-manejable-adios-al-frizz-20256202200",
+        "date": "2025-06-21 02:00:00",
+        "sentiment_score": 0.6955541726201773
+    },
+    {
+        "title": "Conozca los cuatro requisitos para registrar a un recién nacido ante el Saren: el proceso se realiza de forma presencial",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750459918998.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conozca-los-cuatro-requisitos-para-registrar-a-un-recien-nacido-ante-el-saren-el-proceso-se-realiza-de-forma-presencial-202562021480",
+        "date": "2025-06-21 01:48:00",
+        "sentiment_score": 0.0638454332947731
+    },
+    {
+        "title": "Dulcería en Chicago ofrece piñatas del ICE: son virales en redes sociales",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750468381359.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/dulceria-en-chicago-ofrece-pinatas-del-ice-son-virales-en-redes-sociales-202562121150",
+        "date": "2025-06-21 01:47:22",
+        "sentiment_score": 0.09741539508104324
+    },
+    {
+        "title": "Juicio por muerte de Maradona: definen nuevo tribunal para reiniciar el caso tras su anulación",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750473517477.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/juicio-por-muerte-de-maradona-definen-nuevo-tribunal-para-reiniciar-el-caso-tras-su-anulacion-202562021380",
+        "date": "2025-06-21 01:38:00",
+        "sentiment_score": -0.14434731751680374
+    },
+    {
+        "title": "Asambleas de la juventud inician este sábado 21 de junio: más de 40 mil Consejos Comunales desplegados",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750467192686.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/asambleas-de-la-juventud-inician-este-sabado-21-de-junio-mas-de-40-mil-consejos-comunales-desplegados-202562021290",
+        "date": "2025-06-21 01:29:00",
+        "sentiment_score": 0.1507135033607483
+    },
+    {
+        "title": "Banesco confirma fallas en su plataforma la noche de este 20 de junio",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750469020444.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/banesco-confirma-fallas-en-su-plataforma-la-noche-de-este-20-de-junio-202562021230",
+        "date": "2025-06-21 01:23:00",
+        "sentiment_score": -0.5212051495909691
+    },
+    {
+        "title": "Venezuela firma convenio para impulsar la producción de cacao: también exportará chocolate líquido",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750468634199.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-firma-convenio-para-impulsar-la-produccion-de-cacao-tambien-exportara-chocolate-liquido-202562021170",
+        "date": "2025-06-21 01:17:00",
+        "sentiment_score": 0.10572924092411995
     }
 ];
