@@ -150,16 +150,6 @@ export default [
         "sentiment_score": -0.21837598085403442
     },
     {
-        "title": "Finlandia legisla por primera vez el autogobierno de los nativos sami",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/06/20/Samipeople-k22G-U701168992307dxB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/finlandia-legisla-primera-vez-autogobierno-nativos-sami-20250620140921-nt.html",
-        "date": "2025-06-20 12:09:22",
-        "sentiment_score": -0.013840824365615845
-    },
-    {
         "title": "Sanidad informa a los colegios de farmacéuticos valencianos que se retrasa el pago de medicamentos por falta de liquidez",
         "image_url": "https://imagenes.elpais.com/resizer/v2/TLKJKO4YZXRYJ3KCKAERACOT2A.jpg?auth=432011b8456252b9d4172772ba514e13e6b1e3bae3fb4a5dc8271b5dd002844f&width=1200",
         "tags": [
@@ -299,42 +289,6 @@ export default [
         "link": "https://elpais.com/espana/2025-06-20/el-rey-en-uno-de-sus-discursos-mas-europeistas-la-erosion-del-orden-mundial-ha-hecho-saltar-todas-las-alarmas.html",
         "date": "2025-06-20 14:18:12",
         "sentiment_score": 0.10187412053346634
-    },
-    {
-        "title": "El asesino pelirrojo de Elisa Abruñedo: “Lo siento. No puedo justificar lo que hice. No lo entiendo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6HSS3F6U3KL5C3D7VYFPJKFINE.jpg?auth=54a7f40ceb777075c3720d804660ffbb0f0822bf0d3d2439ce1ae748f718eec0&width=1200",
-        "tags": [
-            "asesinatos",
-            "cabanas",
-            "juicios",
-            "españa",
-            "violaciones",
-            "denuncias",
-            "tribunales",
-            "galicia"
-        ],
-        "link": "https://elpais.com/espana/galicia/2025-06-21/el-asesino-pelirrojo-de-elisa-abrunedo-lo-siento-no-puedo-justificar-lo-que-hice-no-lo-entiendo.html",
-        "date": "2025-06-20 14:06:12",
-        "sentiment_score": -0.872763697989285
-    },
-    {
-        "title": "Cerdán pide la liquidación de sus seis años de diputado en el Congreso: 19.200 euros",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5SISS66B3VABJEA5LUTNANBRIE.jpg?auth=f697a3f88a67c75f75eef29b0a548c001036c6beb7f06ab44c91234a549eea24&width=1200",
-        "tags": [
-            "españa",
-            "psoe",
-            "paro masculino",
-            "santos cerdán",
-            "corrupción política",
-            "koldo garcía",
-            "congreso diputados",
-            "caso koldo",
-            "josé luis ábalos",
-            "corrupción policial"
-        ],
-        "link": "https://elpais.com/espana/2025-06-20/cerdan-pide-la-liquidacion-de-sus-seis-anos-de-diputado-en-el-congreso-19200-euros.html",
-        "date": "2025-06-20 13:52:07",
-        "sentiment_score": -0.25717073678970337
     },
     {
         "title": "'La traviata', la ópera más íntima de Verdi, clausura la temporada del Teatro Real",
@@ -6643,5 +6597,337 @@ export default [
         "link": "https://2001online.com/sucesos/accidente-entre-vehiculos-de-carga-pesada-deja-un-muerto-en-caracas-quedo-aprisionado-entre-los-camiones-20256231750",
         "date": "2025-06-23 21:05:00",
         "sentiment_score": -0.6435604058206081
+    },
+    {
+        "title": "Clima en Málaga: la previsión meteorológica para este 24 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/CHHYZEY3LRE2RFPJKYZPR4TI3M.jpg?auth=9667eb34e2a46c2693e42c8b72acb8c36e243e8e79fa3bb67233809f1c8f039a&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/clima-en-malaga-la-prevision-meteorologica-para-este-24-de-junio/",
+        "date": "2025-06-24 02:01:27",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Pronóstico del clima en Madrid este martes 24 de junio: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/CHHYZEY3LRE2RFPJKYZPR4TI3M.jpg?auth=9667eb34e2a46c2693e42c8b72acb8c36e243e8e79fa3bb67233809f1c8f039a&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/pronostico-del-clima-en-madrid-este-martes-24-de-junio-temperatura-lluvias-y-viento/",
+        "date": "2025-06-24 01:30:57",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Barcelona este 24 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/GKA3FFW4JFEB7GOJJXLN52MWJM.jpg?auth=0e6afbb455d1ff051763747db8015f9da4f28384c065c1e5b997011e10cc4009&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/clima-hoy-en-espana-temperaturas-para-barcelona-este-24-de-junio/",
+        "date": "2025-06-24 01:16:03",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Una mujer se niega a tener una cita con el soltero que le presentan en ‘First Dates’: “¿De qué vamos a hablar, de peines?\"",
+        "image_url": "https://www.infobae.com/resizer/v2/JUITISLQANCPBOWI2SURQOUAPY.png?auth=47bbdfaf24ddc2afca77dc52e6aa5da4100bdd54614a6a2d91f199b64d814f04&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/23/una-mujer-se-niega-a-tener-una-cita-con-el-soltero-que-le-presentan-en-first-dates-de-que-vamos-a-hablar-de-peines/",
+        "date": "2025-06-23 22:44:18",
+        "sentiment_score": -0.4570694752037525
+    },
+    {
+        "title": "Serafí, una industria gráfica que da muy buena impresión (y algo más)",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3334347.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/06/24/2402241/serafi-industria-grafica-muy-buena-impresion-algo-mas.html",
+        "date": "2025-06-24 02:00:01",
+        "sentiment_score": 0.012747302651405334
+    },
+    {
+        "title": "Zaki Badou, todo un mito del Real Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3355015.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/06/24/2412575/zaki-badou-real-mallorca-casablanca.html",
+        "date": "2025-06-24 02:00:01",
+        "sentiment_score": 0.7421741634607315
+    },
+    {
+        "title": "Impulsu a los usos de la computación cuántica n'empreses",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b319ec8-c307-4285-b66b-3a0c241b32a0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2025/06/24/impulsu-usos-computacion-cuantica-nempreses-118890611.html",
+        "date": "2025-06-24 01:00:50",
+        "sentiment_score": -0.08511817455291748
+    },
+    {
+        "title": "El revolucionario motor para tener aviones hipersónicos: se podría viajar de Madrid a Los Ángeles en menos de una hora",
+        "image_url": "https://s1.elespanol.com/2025/06/20/omicrono/defensa-y-espacio/1003743814562_256661362_1706x960.jpg?contentId=1003743814562",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/omicrono/defensa-y-espacio/20250624/revolucionario-motor-tener-aviones-hipersonicos-podria-viajar-madrid-angeles-hora/1003743814067_0.html",
+        "date": "2025-06-24 00:54:29",
+        "sentiment_score": 0.7387051563709974
+    },
+    {
+        "title": "¡Qué viene la derecha! Comisiones se \"pertrecha\"",
+        "image_url": "https://s.libertaddigital.com/2025/06/23/sordo-montero-comisiones.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-06-24/pedro-gil-ruiz-que-viene-la-derecha-comisiones-se-pertrecha-7269174/",
+        "date": "2025-06-24 00:53:56",
+        "sentiment_score": -0.8720749318599701
+    },
+    {
+        "title": "EL ESPAÑOL crea empleo joven con su Máster de Periodismo: siete contratados, el 50% de los alumnos",
+        "image_url": "https://s1.elespanol.com/2025/06/23/actualidad/1003743818102_256728007_1706x960.jpg?contentId=1003743818102",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/sociedad/educacion/20250624/espanol-crea-empleo-joven-master-periodismo-contratados-alumnos/1003743817985_0.html",
+        "date": "2025-06-24 00:53:41",
+        "sentiment_score": 0.2524178475141525
+    },
+    {
+        "title": "Polonia advirtió a Rutte de que no aceptaría \"una excepción para España\" porque supondría \"una ruptura de la OTAN\"",
+        "image_url": "https://s1.elespanol.com/2025/06/23/espana/politica/1003743818091_256727783_1706x960.jpg?contentId=1003743818091",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250624/polonia-advirtio-rutte-no-aceptaria-excepcion-espana-supondria-ruptura-otan/1003743817977_0.html",
+        "date": "2025-06-24 00:52:35",
+        "sentiment_score": -0.6139068156480789
+    },
+    {
+        "title": "Dónde y cuándo ver el Valencia vs Real Madrid gratis en Venezuela",
+        "image_url": "https://pxcdn.meridiano.net/062025/1750726338580.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/baloncesto/baloncesto-internacional/donde-y-cuando-ver-el-valencia-vs-real-madrid-gratis-en-venezuela-202562320470",
+        "date": "2025-06-24 00:47:00",
+        "sentiment_score": 0.645196121186018
+    },
+    {
+        "title": "Canal de Panamá tienta a las constructoras españolas para su plan de ampliación de 7.400 millones hasta 2035",
+        "image_url": "https://s1.elespanol.com/2025/06/23/actualidad/1003743817965_256725417_1706x960.jpg?contentId=1003743817965",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20250624/canal-panama-tienta-constructoras-espanolas-plan-ampliacion-millones/1003743817944_0.html",
+        "date": "2025-06-24 00:41:37",
+        "sentiment_score": -0.038016438484191895
+    },
+    {
+        "title": "De Estados paternalistas a ultra-liberales",
+        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/82a90569/Terraza%20cafeteri%CC%81a%20en%20Venecia.jpg?v=63916868363",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elsaltodiario.com/el-leon-dormido/estados-paternalistas-ultra-liberales",
+        "date": "2025-06-24 00:24:00",
+        "sentiment_score": -0.40363554656505585
+    },
+    {
+        "title": "‘Ara que tinc vint anys’",
+        "image_url": "https://uh.gsstatic.es/autor/teresa-riera/11311.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/06/24/2415147/ara-tinc-vint-anys-1.html",
+        "date": "2025-06-24 02:00:01",
+        "sentiment_score": 0.2445337027311325
+    },
+    {
+        "title": "Anestesiados de segunda",
+        "image_url": "https://men.gsstatic.es/autor/xim-todo/11773.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/06/24/2415051/anestesiados-segunda.html",
+        "date": "2025-06-24 02:00:01",
+        "sentiment_score": -0.7922377809882164
+    },
+    {
+        "title": "Jaime Horrach, ‘Jimmy’, en su tránsito del blanco y negro al color",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3360999.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/06/24/2415279/jaime-horrach-jimmy-transito-del-blanco-negro-color.html",
+        "date": "2025-06-24 02:00:01",
+        "sentiment_score": 0.17443300783634186
+    },
+    {
+        "title": "'O te acuestas conmigo, o te mato': Luz se fue de copas con su ex, pelearon y le disparó en casa de su jefe policía con su arma",
+        "image_url": "https://s1.elespanol.com/2025/06/23/actualidad/1003743817749_256721374_1706x960.jpg?contentId=1003743817749",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250624/acuestas-conmigo-mato-luz-copas-ex-pelearon-disparo-casa-jefe-policia-arma/1003743817132_0.html",
+        "date": "2025-06-24 00:54:14",
+        "sentiment_score": -0.18578727543354034
+    },
+    {
+        "title": "Ouigo mete presión a Iryo y Renfe: ya es el operador más barato en casi todas las líneas de alta velocidad liberalizadas",
+        "image_url": "https://s1.elespanol.com/2025/06/23/actualidad/1003743817310_256714100_1706x960.jpg?contentId=1003743817310",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20250624/ouigo-mete-presion-iryo-renfe-operador-barato-todas-lineas-alta-velocidad-liberalizadas/1003743817263_0.html",
+        "date": "2025-06-24 00:41:41",
+        "sentiment_score": -0.7117342315614223
+    },
+    {
+        "title": "El legado de Félix Lascaray, en llamas: Lo oculto de su empresa LEA tras el incendio",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/06/lea-fabrica-incendio_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/felix-lascaray-saca-fuerzas-peor-momento-lea-tras-incendio-su-planta",
+        "date": "2025-06-24 00:30:00",
+        "sentiment_score": -0.7199373804032803
+    },
+    {
+        "title": "El feroz cruce en vivo entre Jorge D’Alessandro y Balassone por Messi y el presente de Boca y River en el Mundial de Clubes",
+        "image_url": "https://www.infobae.com/resizer/v2/MQ72756BTJEFHFYSBNN33TJGWA.jpg?auth=d9c46a22313a1cee040cd3be3090c78acc3e3676a2a4156cf90d6c4dfd1dc07c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/24/el-feroz-cruce-en-vivo-entre-jorge-dalessandro-y-balassone-por-messi-y-el-presente-de-boca-y-river-en-el-mundial-de-clubes/",
+        "date": "2025-06-24 00:18:25",
+        "sentiment_score": -0.8114125207066536
+    },
+    {
+        "title": "Room Mate cuadruplica el beneficio de sus hoteles en España y crece un 22%",
+        "image_url": "https://phantom-expansion.uecdn.es/c526de1dc53a582640f7fb906c34b276/crop/43x55/2018x1371/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/23/17507011552726.jpg",
+        "tags": [
+            "empresas>",
+            "artículos rebeca arroyo>",
+            "transporte y turismo>"
+        ],
+        "link": "https://www.expansion.com/empresas/transporte/2025/06/24/68599507468aeb57798b457a.html",
+        "date": "2025-06-23 23:43:44",
+        "sentiment_score": 0.6087467446923256
+    },
+    {
+        "title": "«Cuando me entero de la oferta del Sporting de Portugal, lo único que pido es acabar la temporada en el Levante»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d5597a07-e1c2-4686-80e7-929922ace924_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "levante,trabajo,portugal,familia,georgia"
+        ],
+        "link": "https://www.superdeporte.es/levante-ud/2025/06/24/entero-oferta-sporting-portugal-unico-118988614.html",
+        "date": "2025-06-23 23:28:33",
+        "sentiment_score": 0.2828596234321594
+    },
+    {
+        "title": "Maduro compara a Bukele con Netanyahu por “violar” los DDHH: Es un monstruo de baja monta",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750730617183.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-compara-a-bukele-con-netanyahu-por-violar-los-ddhh-es-un-monstruo-de-baja-monta-20256232290",
+        "date": "2025-06-24 02:09:00",
+        "sentiment_score": -0.39429984986782074
+    },
+    {
+        "title": "El cilantro es un tesoro en tu cocina: te da las mejores sopas y ayuda a controlar estas enfermedades",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750360360213.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/el-cilantro-es-un-tesoro-en-tu-cocina-te-da-las-mejores-sopas-y-ayuda-a-controlar-estas-enfermedades-20256232200",
+        "date": "2025-06-24 02:00:00",
+        "sentiment_score": 0.8083254490047693
+    },
+    {
+        "title": "Houston Food Bank apoya a niños con desnutrición: lea los requisitos para optar al programa",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750731195867.webp?ch=212&cw=377&extw=webp",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/houston-food-bank-apoya-a-ninos-con-desnutricion-lea-los-requisitos-para-optar-al-programa-202562321580",
+        "date": "2025-06-24 01:58:00",
+        "sentiment_score": 0.6252556405961514
+    },
+    {
+        "title": "Cristian Castro confiesa que no le gusta ser adulto: Me quedo mentalmente en los 13 años",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750729922407.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/cristian-castro-confiesa-que-no-le-gusta-ser-adulto-me-quedo-mentalmente-en-los-13-anos-202562321500",
+        "date": "2025-06-24 01:50:00",
+        "sentiment_score": 0.30650677531957626
+    },
+    {
+        "title": "Copa Airlines suma nueva frecuencia diaria entre Caracas y Panamá: consulte aquí el itinerario de vuelo",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750724472510.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/copa-airlines-suma-nueva-frecuencia-diaria-entre-caracas-y-panama-consulte-aqui-el-itinerario-de-vuelo-202562321350",
+        "date": "2025-06-24 01:35:00",
+        "sentiment_score": 0.1602937262505293
+    },
+    {
+        "title": "Comida y ropa gratis en Houston: el Christian Community Service Center pide estos requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750728290301.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/comida-y-ropa-gratis-en-houston-el-christian-community-service-center-pide-estos-requisitos-202562321240",
+        "date": "2025-06-24 01:24:00",
+        "sentiment_score": 0.33150611259043217
+    },
+    {
+        "title": "Estas son las propuestas del Ministerio de Educación para las materias de ciencias naturales y matemáticas",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750730176693.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/estas-son-las-propuestas-del-ministerio-de-educacion-para-las-materias-de-ciencias-naturales-y-matematicas-202562321230",
+        "date": "2025-06-24 01:23:00",
+        "sentiment_score": 0.16653941571712494
+    },
+    {
+        "title": "Karol G se inspira en \"Los Melódicos\" para crear el tema favorito de su nuevo álbum: Es un techno merengue venezolano",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750727585273.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/karol-g-se-inspira-en-los-melodicos-para-crear-el-tema-favorito-de-su-nuevo-album-es-un-techno-merengue-venezolano-202562321100",
+        "date": "2025-06-24 01:10:00",
+        "sentiment_score": 0.23829880356788635
+    },
+    {
+        "title": "Sabrina Carpenter se plantea un giro radical en sus conciertos: Esto va a molestar a mis fans\"",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750727157630.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/sabrina-carpenter-se-plantea-un-giro-radical-en-sus-conciertos-esto-va-a-molestar-a-mis-fans--20256232140",
+        "date": "2025-06-24 01:04:00",
+        "sentiment_score": 0.32362230122089386
+    },
+    {
+        "title": "Danna Paola celebra sus 30 años con una fiesta dedicada al personaje \"María Belén\"",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750727173981.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/danna-paola-celebra-sus-30-anos-con-una-fiesta-dedicada-al-personaje-maria-belen--20256232110",
+        "date": "2025-06-24 01:01:00",
+        "sentiment_score": 0.40920281410217285
     }
 ];
