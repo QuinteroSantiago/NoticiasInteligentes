@@ -1,151 +1,5 @@
 export default [
     {
-        "title": "El PP busca apoyos para tumbar el 'decreto Marlaska' sobre el registro de viajeros",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/06/20/viajeros-hotel.JPG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.ideal.es/economia/pp-busca-apoyos-tumbar-decreto-marlaska-sobre-20250621083238-ntrc.html",
-        "date": "2025-06-21 06:32:40",
-        "sentiment_score": -0.01180356740951538
-    },
-    {
-        "title": "La “Galia de Astérix y Obélix” que sueña con el ascenso a Primera División",
-        "image_url": "https://static1.ara.cat/clip/84d031d7-d07c-40fa-a980-715d40fbf665_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/deportes/futbol/galia-asterix-obelix-suena-ascenso-primera-division_130_5418912.html",
-        "date": "2025-06-21 06:30:44",
-        "sentiment_score": -0.03576326370239258
-    },
-    {
-        "title": "La presidenta \"Burrikín\": Ayuso expulsa de Madrid a los comercios de barrio",
-        "image_url": "https://www.elplural.com/uploads/s1/20/02/67/1/ayuso-burguerking_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/presidenta-burrikin-ayuso-expulsa-madrid-comercios-barrio_354812102",
-        "date": "2025-06-21 06:26:13",
-        "sentiment_score": -0.22496190667152405
-    },
-    {
-        "title": "Los antecedentes del novio de Ayuso utilizados por el fiscal frente al juez Hurtado",
-        "image_url": "https://www.elplural.com/uploads/s1/20/03/16/4/ilustracion-fiscal-general_7_480x270.jpeg",
-        "tags": [
-            "tribunales"
-        ],
-        "link": "https://www.elplural.com/sociedad/tribunales/antecedentes-novio-ayuso-utilizados-fiscal-frente-juez-hurtado_354838102",
-        "date": "2025-06-21 06:25:00",
-        "sentiment_score": -0.17300957441329956
-    },
-    {
-        "title": "Hinchas de Boca Juniors invaden el sur de Florida durante el Mundial de Clubes",
-        "image_url": "https://dims.apnews.com/dims4/default/7c2facf/2147483647/strip/true/crop/3300x2197+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2F77%2F226bb1582948afe8930d7a693ff7%2F694d32dfe6714dc3a44ab2bd11694ded",
-        "tags": [
-            "top"
-        ],
-        "link": "https://apnews.com/article/clubes-mundial-boca-juniors-hinchas-florida-49d15aadc72f9df99d51977175293735",
-        "date": "2025-06-21 06:24:06",
-        "sentiment_score": -0.23259244114160538
-    },
-    {
-        "title": "Hinchas de Boca Juniors invaden el sur de Florida durante el Mundial de Clubes",
-        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/06/CLUBES_MUNDIAL-BOCA-HINCHAS_63569.jpg?strip=all&w=1400px",
-        "tags": [
-            "en español"
-        ],
-        "link": "https://www.chicagotribune.com/2025/06/21/hinchas-de-boca-juniors-invaden-el-sur-de-florida-durante-el-mundial-de-clubes/",
-        "date": "2025-06-21 06:24:05",
-        "sentiment_score": 0.1335992068052292
-    },
-    {
-        "title": "El primer gimnasio de Valladolid nació en un teatro",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/06/19/teatro-calderon-klmH-U230201839270364G-650x455@El%20Norte.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/primer-gimnasio-valladolid-nacio-teatro-20250621082212-nt.html",
-        "date": "2025-06-21 06:22:13",
-        "sentiment_score": 0.6113091967999935
-    },
-    {
-        "title": "Giro de 180o en el Metro de Madrid: estas paradas cambian para siempre y nada volverá a ser igual",
-        "image_url": "https://okdiario.com/img/2025/06/19/giro-de-180--en-el-metro-de-madrid-estas-paradas-cambian-para-siempre-y-nada-volvera-a-ser-igual.jpg",
-        "tags": [
-            "transporte público",
-            "españa",
-            "madrid",
-            "comunidad de madrid",
-            "metro",
-            "metro madrid"
-        ],
-        "link": "https://okdiario.com/madrid/giro-180o-metro-madrid-estas-paradas-cambian-siempre-nada-volvera-ser-igual-14976357",
-        "date": "2025-06-21 06:15:04",
-        "sentiment_score": -0.06493975222110748
-    },
-    {
-        "title": "La gallina de los huevos de oro: el coche",
-        "image_url": "https://diario16plus.com/uploads/s1/21/92/16/5/la-gallina-de-los-huevos-de-oro.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://diario16plus.com/opinion/gallina-huevos-oro-coche_509441_102.html",
-        "date": "2025-06-21 06:30:00",
-        "sentiment_score": -0.09323224425315857
-    },
-    {
-        "title": "Vigorexia, cuando la obsesión por el cuerpo perfecto se convierte en un peligro",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250621082954_120.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-vigorexia-cuando-obsesion-cuerpo-perfecto-convierte-peligro-20250621082954.html",
-        "date": "2025-06-21 06:29:54",
-        "sentiment_score": -0.9008922735229135
-    },
-    {
-        "title": "La llegada de viajeros todo el año empuja el empleo ligado al turismo, que crece un 20% en dos años",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/89476a3a-bf02-4d48-87c7-9950225947e1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.levante-emv.com/economia/2025/06/21/empleo-vinculado-turismo-crecido-desestacionalizacion-pisos-turisticos-ilegales-118899530.html",
-        "date": "2025-06-21 06:29:24",
-        "sentiment_score": 0.04631286859512329
-    },
-    {
-        "title": "Lo que debes saber hoy, 21 de junio, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/05/03/vivir-en-barcelona/1003742654396_14525044_1706x960.jpg?contentId=1003742654396",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250621/debes-saber-hoy-junio-barcelona/1003742667782_0.html",
-        "date": "2025-06-21 06:22:06",
-        "sentiment_score": 0.8428127784281969
-    },
-    {
-        "title": "Gonzalo Bernardos le augura un mal futuro a la reducción de jornada de Yolanda Díaz: \"No podremos mantener la prosperidad de este país\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b46c4d7c-328f-499e-9690-c501fc660799_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20250621/gonzalo-bernardos-reduccion-jornada-laboral-yolanda-diaz-mal-futuro-dv-118793391",
-        "date": "2025-06-21 06:15:23",
-        "sentiment_score": -0.6438529826700687
-    },
-    {
-        "title": "Claudia Bavel reacciona a la versión de Lamine Yamal sobre sus conversaciones: \"Es el mismo argumento de siempre\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8850d7df-518f-4c54-817d-bdf8475ab985_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20250621/claudia-bavel-lamine-yamal-reacciona-version-118899285",
-        "date": "2025-06-21 06:09:57",
-        "sentiment_score": 0.08369505405426025
-    },
-    {
         "title": "A la caza del millonario que compra viviendas en España: los bancos contratan detectives privados para saber quién quiere invertir en inmuebles",
         "image_url": "https://www.infobae.com/resizer/v2/CWRP27V25RFS3BZS7UBPRRGF5E.jpeg?auth=73caabf9d14f450ce92696485c5baa472bedbb786f120cf7a44284db8c379cdf&height=4912&smart=true&width=7360",
         "tags": [
@@ -6289,5 +6143,583 @@ export default [
         "link": "https://2001online.com/servicios/plan-cayapa-busca-reparar-200-botes-de-agua-denuncias-han-sido-recabadas-a-traves-del-sistema-1x10-202562411270",
         "date": "2025-06-24 15:27:00",
         "sentiment_score": 0.584684519097209
+    },
+    {
+        "title": "Muere una mujer atropellada por un tren en un paso a nivel en Rábade (Lugo)",
+        "image_url": "https://www.infobae.com/resizer/v2/EJOZ7XLRTBGMXAJXM5E4XKYY24.jpg?auth=46f37d1412427d99ed354d4dad42c1f7363f5aa9f31602e1d6eb4d4064dd700e&height=816&smart=true&width=1456",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/muere-una-mujer-atropellada-por-un-tren-en-un-paso-a-nivel-en-rabade-lugo/",
+        "date": "2025-06-24 22:06:58",
+        "sentiment_score": -0.6729167196899652
+    },
+    {
+        "title": "Ganadores de Bonoloto del 24 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/2D22TSFDBJCEHIECLWRJLWUQIU.jpg?auth=0f8d364022b340f9b936878cdcc9af4602a796ccca3443df81ec42d1022cdd45&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/ganadores-de-bonoloto-del-24-de-junio/",
+        "date": "2025-06-24 20:15:36",
+        "sentiment_score": 0.07439833134412766
+    },
+    {
+        "title": "Una doctora señala que el ayuno intermitente no solo sirve para perder peso: “Está siendo malinterpretado”",
+        "image_url": "https://www.infobae.com/resizer/v2/WZO3352F7ZBARBUERMEFCUXZ3Y.jpg?auth=1f2195eb8433365d8c39dd2ede3d98dfeaba5b9b8371c0b1d2c999501b9f62e6&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/una-doctora-senala-que-el-ayuno-intermitente-no-solo-sirve-para-perder-peso-esta-siendo-malinterpretado/",
+        "date": "2025-06-24 19:51:24",
+        "sentiment_score": 0.5610833130776882
+    },
+    {
+        "title": "Un abogado explica cómo reclamar a tu banco que te baje la cuota hipotecaria: “Podrías dejar de pagar durante cinco años”",
+        "image_url": "https://www.infobae.com/resizer/v2/D6MVTQOZYNHP5NB2E2C75KZBXQ.png?auth=878fc3edf7f7e0cc61c96fb11b67f7f321612b5f3e2071e200c71eb047758f55&height=677&smart=true&width=1217",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/un-abogado-explica-como-reclamar-a-tu-banco-que-te-baje-la-cuota-hipotecaria-podrias-dejar-de-pagar-durante-cinco-anos/",
+        "date": "2025-06-24 19:50:25",
+        "sentiment_score": 0.10922141373157501
+    },
+    {
+        "title": "Salva, el sintecho de Barajas que encontró trabajo en Asturias, deja su empleo a las dos semanas: “Era muy duro físicamente”",
+        "image_url": "https://www.infobae.com/resizer/v2/JOYUA3OQXNE6NEFDXE7KOAGLSA.png?auth=165a2a1fb2d12e6790c5b296b5b0ef9676dbbf4f87954e9148d2d8d8037c7b82&height=668&smart=true&width=1187",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/salva-el-sintecho-de-barajas-que-encontro-trabajo-en-asturias-deja-su-empleo-a-las-dos-semanas-era-muy-duro-fisicamente/",
+        "date": "2025-06-24 19:49:42",
+        "sentiment_score": 0.032876282930374146
+    },
+    {
+        "title": "Un español que reside en Paraguay cuenta la razón por la que decidió mudarse al estado: “Alejarte del progresismo salvaje que está habiendo en otros países”",
+        "image_url": "https://www.infobae.com/resizer/v2/REH5I7OWO5HIRB5NDSPWUQDFL4.png?auth=92efccebee1cb81fb82089ed0d5c2e5525c2b5fafd7e187a8661b20eb2d2ac52&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/un-espanol-que-reside-en-paraguay-cuenta-la-razon-por-la-que-decidio-mudarse-al-estado-alejarte-del-progresismo-salvaje-que-esta-habiendo-en-otros-paises/",
+        "date": "2025-06-24 19:49:03",
+        "sentiment_score": 0.5048249252140522
+    },
+    {
+        "title": "Ganadores de Euromillones de este 24 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/DF22RSLR7JHWNAJDJLQSSD4WYM.jpg?auth=884d85f7a5a7170273df2b8663f2491f108df738651f05b4bc51277e075aa471&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/ganadores-de-euromillones-de-este-24-de-junio/",
+        "date": "2025-06-24 19:45:36",
+        "sentiment_score": 0.5332283265888691
+    },
+    {
+        "title": "Fabio Celestini, exjugador del Getafe y entrenador, puede ir a la cárcel si regresa a su país: qué es lo que ha hecho",
+        "image_url": "https://www.infobae.com/resizer/v2/FM5KESG4JNEMDAFXSAXBNDWWJ4.png?auth=d4c5ea66624f3aca4b51ecc3755796a1918425c97abb55ae360b64afdabf1009&height=362&smart=true&width=703",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/06/24/fabio-celestini-exjugador-del-getafe-y-entrenador-puede-ir-a-la-carcel-si-regresa-a-su-pais-que-es-lo-que-ha-hecho/",
+        "date": "2025-06-24 19:45:15",
+        "sentiment_score": -0.8466149568557739
+    },
+    {
+        "title": "La UCO entrega al TS el contrato privado en el que consta que Cerdán pagó 6.000 euros por el 45% de Servinabar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/24/la-uco-entrega-al-ts-el-contrato-privado-en-el-que-consta-que-cerdan-pago-6000-euros-por-el-45-de-servinabar/",
+        "date": "2025-06-24 19:38:00",
+        "sentiment_score": -0.12547567486763
+    },
+    {
+        "title": "La Policía encuentra un cadáver dentro de un cubo de basura en un piso en Gijón: un hombre detenido",
+        "image_url": "https://www.infobae.com/resizer/v2/QUIMVEWPXBF4ND3WUNTWCOWDE4.jpg?auth=8838f42af9289b16c32ca94ee7916ea64d98b0ed39f1a7d6550216d399f02348&height=1434&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/24/la-policia-encuentra-un-cadaver-dentro-de-un-cubo-de-basura-en-un-piso-en-gijon-un-hombre-detenido/",
+        "date": "2025-06-24 19:22:42",
+        "sentiment_score": -0.35817597806453705
+    },
+    {
+        "title": "Cuerpo no espera represalias de la Administración Trump tras los reproches por el gasto en defensa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/24/1498111784-kWcH-U701189563639RfG-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cuerpo-espera-represalias-administracion-trump-tras-reproches-20250624231113-nt.html",
+        "date": "2025-06-24 21:11:39",
+        "sentiment_score": -0.15185877680778503
+    },
+    {
+        "title": "La otra Europa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/06/25/AdobeStock_285353664(1)-R0Wu9Wvab05JjkcCCjDeF4O-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/antonio-benitez-burraco-europa-20250625170515-nts.html",
+        "date": "2025-06-24 20:27:08",
+        "sentiment_score": -0.12833651900291443
+    },
+    {
+        "title": "Vísteme despacio que tengo prisa",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/06/23/modelo-daphne-selfe-kSv--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-diaz-visteme-despacio-prisa-20250625222706-nts.html",
+        "date": "2025-06-24 20:27:07",
+        "sentiment_score": -0.03540655970573425
+    },
+    {
+        "title": "El efecto tiburón",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/06/23/modelo-daphne-selfe-kSv--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/yolanda-vallejo-efecto-tiburon-20250625183300-nts.html",
+        "date": "2025-06-24 20:27:05",
+        "sentiment_score": -0.1485542505979538
+    },
+    {
+        "title": "Una posibilidad real",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/06/20/garrapata-laboratori-knYF--170x119@El%20Norte.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ignacio-moreno-bustamante-posibilidad-real-20250625222704-nts.html",
+        "date": "2025-06-24 20:27:04",
+        "sentiment_score": -0.05016440153121948
+    },
+    {
+        "title": "Hogueras por el sur",
+        "image_url": "https://s2.ppllstatics.com/burgosconecta/www/multimedia/2025/06/19/parque-eolico-kuKB--170x119@Burgosconecta.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/eduardo-barba-hogueras-sur-20250625140445-nts.html",
+        "date": "2025-06-24 20:27:03",
+        "sentiment_score": -0.09841302037239075
+    },
+    {
+        "title": "Intervención sin precedentes",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2025/06/18/lola1-k8dH--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-intervencion-precedentes-20250625200654-nt.html",
+        "date": "2025-06-24 18:07:04",
+        "sentiment_score": -0.14271223545074463
+    },
+    {
+        "title": "Científicos consiguen corregir mutaciones dañinas en el ADN mitocondrial con edición genética",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/06/24/mitocondria-RnECfKxt7JWrlmc6jwEYiiM-1200x840@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/cientificos-consiguen-corregir-mutaciones-daninas-adn-mitocondrial-20250624200000-nt.html",
+        "date": "2025-06-24 18:00:00",
+        "sentiment_score": -0.06413397192955017
+    },
+    {
+        "title": "Planes de defensa para ellas",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2025/06/20/dieta-kIOF-U150273256415P2D-1248-k1cH--170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/maria-jose-fuentealamo-planes-defensa-20250625194650-nt.html",
+        "date": "2025-06-24 17:47:38",
+        "sentiment_score": -0.21273545920848846
+    },
+    {
+        "title": "ONU: 80 años en la inoperancia",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/06/24/250625%20Tercera%20Arias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/inocencio-f-arias-onu-anos-inoperancia-20250625175417-nt.html",
+        "date": "2025-06-24 17:46:08",
+        "sentiment_score": -0.1845894455909729
+    },
+    {
+        "title": "El Supremo cita a declarar a Alvise por la supuesta financiación ilegal de su partido",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4PP5JWJSWSGKJLMFEWKUUEPLWA.jpg?auth=2c7219c2d980567207cc25019a7ef2b538a7d47a2e0561a9ab398c8870c8d9a8&width=1200",
+        "tags": [
+            "españa",
+            "financiación ilegal",
+            "alvise pérez",
+            "se acabó la fiesta (salf)"
+        ],
+        "link": "https://elpais.com/espana/2025-06-24/el-supremo-cita-a-declarar-a-alvise-por-la-supuesta-financiacion-ilegal-de-su-partido.html",
+        "date": "2025-06-24 19:50:59",
+        "sentiment_score": 0.016742520034313202
+    },
+    {
+        "title": "Los Mossos investigan la muerte violenta de un hombre en el barrio de Sant Andreu de Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TDWTBVBKCRATRH5ILKYUXPX3VA.jpg?auth=6d2308a8afb6f21121f95f91c9d876d3297e3c3af20fc4bae8112c5a9eb6b84e&width=1200",
+        "tags": [
+            "investigación policial",
+            "peleas",
+            "mossos d'esquadra",
+            "cataluña",
+            "barcelona",
+            "sucesos"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-24/los-mossos-investigan-la-muerte-violenta-de-un-hombre-en-el-barrio-de-sant-andreu-de-barcelona.html",
+        "date": "2025-06-24 19:44:48",
+        "sentiment_score": -0.4700438305735588
+    },
+    {
+        "title": "El PSOE acepta debatir una reforma del PP para controlar más al Gobierno en el Congreso",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IWGZWHDPSGF65TCOYLS4NW3EPM.jpg?auth=f6a9111689bf2e1b3aa1376e4a793930daa88adc54df1aeff7e620e4c9512053&width=1200",
+        "tags": [
+            "junta portavoces",
+            "plenos parlamentarios",
+            "alberto núñez feijóo",
+            "grupos parlamentarios",
+            "congreso diputados",
+            "gobierno",
+            "votaciones",
+            "leyes ordinarias",
+            "partidos políticos",
+            "pp",
+            "juntsxcat",
+            "pedro sánchez",
+            "mesa congreso",
+            "psoe",
+            "liderazgo político",
+            "oposición política",
+            "españa",
+            "debates parlamentarios"
+        ],
+        "link": "https://elpais.com/espana/2025-06-24/el-psoe-acepta-debatir-una-reforma-del-pp-para-controlar-mas-al-gobierno-en-el-congreso.html",
+        "date": "2025-06-24 18:32:29",
+        "sentiment_score": -0.8400053940713406
+    },
+    {
+        "title": "Los partidos contrarios a la ‘ley mordaza’ reactivan su reforma a días del décimo aniversario de la entrada en vigor",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SYFDHXXT5CXC3CXZMXZX635GDI.jpg?auth=b567bcecc8cc6bda09621e24fe2892645a3c20795141887c4e28ca19102ab82c&width=1200",
+        "tags": [
+            "eaj-pnv",
+            "reforma legislativa",
+            "ley mordaza",
+            "erc",
+            "eh bildu",
+            "españa",
+            "congreso diputados",
+            "juntsxcat",
+            "podemos",
+            "sumar",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2025-06-24/los-partidos-contrarios-a-la-ley-mordaza-reactivan-su-reforma-a-dias-del-decimo-aniversario-de-la-entrada-en-vigor.html",
+        "date": "2025-06-24 17:35:32",
+        "sentiment_score": 0.2737375944852829
+    },
+    {
+        "title": "La Junta celebra los éxitos deportivos de la región y reconoce el papel del deporte como espejo de valores",
+        "image_url": "https://i1.wp.com/www.liberaldecastilla.com/wp-content/uploads/2025/06/La-Junta-celebra-los-exitos-deportivos-de-la-region-y-reconoce-el-papel-del-deporte-como-espejo-de-valores.jpg?ssl=1",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://informacioncuenca.com/la-junta-celebra-los-exitos-deportivos-de-la-region-y-reconoce-el-papel-del-deporte-como-espejo-de-valores",
+        "date": "2025-06-24 22:00:06",
+        "sentiment_score": 0.2495235875248909
+    },
+    {
+        "title": "La encrucijada de Carlos Torres: dejar la OPA y comprometer su futuro o seguir y abocar al BBVA a un elevado riesgo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/24/business/1003742668457_14776866_1706x960.jpg?contentId=1003742668457",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250624/encrucijada-carlos-torres-opa-comprometer-bbva-elevado/1003742668455_0.html",
+        "date": "2025-06-24 22:00:00",
+        "sentiment_score": -0.8070342540740967
+    },
+    {
+        "title": "La ZEC gana peso con la llegada de 51 empresas en 2025",
+        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2025/04/25/bamrayo-kX0C--80x80@Canarias7.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.canarias7.es/economia/empresas/zec-gana-peso-llegada-empresas-2025-20250625225522-nt.html",
+        "date": "2025-06-24 21:55:23",
+        "sentiment_score": 0.5658570192754269
+    },
+    {
+        "title": "Cuerpo cree que la condición a la OPA de BBVA protege el interés general y permite crear valor a los bancos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250624234742_120.jpg",
+        "tags": [
+            "economía finanzas",
+            "finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/finanzas-00340/noticia-cuerpo-cree-condicion-opa-bbva-protege-interes-general-permite-crear-valor-bancos-20250624234742.html",
+        "date": "2025-06-24 21:47:42",
+        "sentiment_score": 0.270682692527771
+    },
+    {
+        "title": "Cuerpo cree que la condición a la OPA de BBVA protege el interés general y permite crear valor a los bancos",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/06/fotonoticia_20250624234742_1920-1013x675.jpg",
+        "tags": [
+            "última hora",
+            "economía"
+        ],
+        "link": "https://forbes.es/economia/746687/cuerpo-cree-que-la-condicion-a-la-opa-de-bbva-protege-el-interes-general-y-permite-crear-valor-a-los-bancos/",
+        "date": "2025-06-24 21:47:42",
+        "sentiment_score": 0.18353259563446045
+    },
+    {
+        "title": "Entregados los Premios y Distinciones al Mérito Deportivo de Castilla-La Mancha",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/06/24/2025062423421081117.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.clm24.es/articulo/deportes/junta-entrega-reconocimientos-merito-deportivo-2024-herencia/20250624234313454243.html",
+        "date": "2025-06-24 21:43:13",
+        "sentiment_score": 0.6878610514104366
+    },
+    {
+        "title": "Así está el cuadro de octavos de final del Mundial de Clubes tras la eliminación de Boca Juniors",
+        "image_url": "https://www.infobae.com/resizer/v2/ZZCALXEHPFE65ML2VF55PEDP2M.jpg?auth=7dfba0f0f4e155533b883404fafae9a7fa85c8ab13c75403477a99752e76d51d&height=2711&smart=true&width=4067",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/24/asi-esta-el-cuadro-de-octavos-de-final-del-mundial-de-clubes-tras-la-eliminacion-de-boca-juniors/",
+        "date": "2025-06-24 21:19:50",
+        "sentiment_score": -0.7811205703765154
+    },
+    {
+        "title": "El secreto del éxito de La Primera Vez de Netflix: vínculos reales y confesiones emotivas",
+        "image_url": "https://www.infobae.com/resizer/v2/7RPOZZW6IFD6FJDPEZCPHZ4OQA.png?auth=d2752edf495bef15580b1e32fc68922d6668e0ee0e4e9bc45a448b7ddb8347f2&height=700&smart=true&width=1200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/tecno/2025/06/24/el-secreto-del-exito-de-la-primera-vez-de-netflix-vinculos-reales-y-confesiones-emotivas/",
+        "date": "2025-06-24 21:05:17",
+        "sentiment_score": 0.3580390363931656
+    },
+    {
+        "title": "Juanma Rodríguez: \"Si Kameron Taylor y Tyson Pérez se van, estaremos preparados para traer sus recambios\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4987c972-0e9a-4132-8ae7-9841497edcb6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/06/24/juanma-rodriguez-101-television-zona-verde-director-deportivo-119029629.html",
+        "date": "2025-06-24 20:59:06",
+        "sentiment_score": 0.7065540850162506
+    },
+    {
+        "title": "'La Traviata' conmueve al público del Teatro Real en su regreso",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250624225604_120.jpg",
+        "tags": [
+            "teatro real",
+            "cultura"
+        ],
+        "link": "https://www.europapress.es/cultura/teatroreal-01040/noticia-traviata-conmueve-publico-teatro-real-regreso-20250624225604.html",
+        "date": "2025-06-24 20:56:04",
+        "sentiment_score": -0.8882291074842215
+    },
+    {
+        "title": "Un Camino abrasador",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/bbc41c95-c9c8-44f0-80904f96c6a8fa29.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/zf5172323-8bf2-4eef-94c1d49e5fda200c/202506/un-camino-abrasador",
+        "date": "2025-06-24 22:17:47",
+        "sentiment_score": 0.058642879128456116
+    },
+    {
+        "title": "Jimbee Cartagena pone el título a tiro tras un triunfo emocionante ante el Barcelona (3-2)",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/06/25/685b1ffd59ac9.jpeg",
+        "tags": [
+            "deportes cartagena"
+        ],
+        "link": "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/cartagena/deportes-cartagena/noticias/jimbee-cartagena-pone-titulo-tiro-triunfo-emocionante-barcelona-20250625_3175345.html",
+        "date": "2025-06-24 22:16:32",
+        "sentiment_score": 0.012841463088989258
+    },
+    {
+        "title": "El San Pablo ficha a Neto, ex NBA y ex del Barça",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/3e99ab4b-4aca-462a-b58eb31d55601e32.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z8fb17df1-d4de-411a-8def9822f1e532ba/202506/el-san-pablo-burgos-ficha-a-raul-neto-ex-nba-y-ex-del-barca",
+        "date": "2025-06-24 22:10:46",
+        "sentiment_score": -0.7875939663499594
+    },
+    {
+        "title": "Collboni y Tito, en antena",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20250625/10822876/collboni-tito-antena.html",
+        "date": "2025-06-24 22:05:00",
+        "sentiment_score": 0.03629621863365173
+    },
+    {
+        "title": "Los semáforos del miércoles 25 de junio: Jordi Clos, Miguel Fernández, Alfred García y Miguel Ángel Fernández",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/11/26/6562835d2a284.r_d.474-232-0.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20250625/10822655/semaforos-miercoles-25-junio-jordi-clos-miguel-fernandez-alfred-garcia-miguel-angel-fernandez.html",
+        "date": "2025-06-24 22:05:00",
+        "sentiment_score": 0.1083386167883873
+    },
+    {
+        "title": "Aldi acelera su expansión en España con más de 20 aperturas previstas en 2025",
+        "image_url": "https://phantom-elmundo.uecdn.es/50b00456c4dff4ebeb52ba4ff77a8003/crop/55x0/1489x1076/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/24/17507841515959.jpg",
+        "tags": [
+            "artículos gabriela galarza"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/06/25/685ae0eae4d4d857198b45ae.html",
+        "date": "2025-06-24 22:03:59",
+        "sentiment_score": 0.2309863567352295
+    },
+    {
+        "title": "Humo",
+        "image_url": "https://phantom-elmundo.uecdn.es/342e2c868897e652116349830ed1bf4d/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/25/17508399664023.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/06/25/685ade59e4d4d8af1a8b45a3.html",
+        "date": "2025-06-24 22:03:56",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "El ‘boom’ de patrocinadores de Leo Messi en el Inter Miami desafía al Barça",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/23/culemania/culemaniacos/1003742668226_14772992_1706x960.jpg?contentId=1003742668226",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250624/patrocinadores-leo-messi-inter-miami-desafia-barca/1003742668207_0.html",
+        "date": "2025-06-24 22:02:50",
+        "sentiment_score": 0.5242054983973503
+    },
+    {
+        "title": "El Spotify Camp Nou, candidato a la final de la Champions por primera vez en el siglo XXI",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/01/22/culemania/palco/918418182_14009040_1706x960.png?contentId=918418182",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250624/spotify-camp-nou-candidato-champions-primera-xxi/1003742668363_0.html",
+        "date": "2025-06-24 22:02:27",
+        "sentiment_score": 0.5071977600455284
+    },
+    {
+        "title": "La continua búsqueda de Laporta de jóvenes promesas para el Barça: cinco fichajes en los últimos cuatro años",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/06/culemania/palco/1003742646886_14382252_1706x960.jpg?contentId=1003742646886",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250624/continua-busqueda-laporta-jovenes-promesas-barca-fichajes/1003742668417_0.html",
+        "date": "2025-06-24 22:02:07",
+        "sentiment_score": -0.6021095663309097
+    },
+    {
+        "title": "Seguro Social de EEUU libera este miércoles el pago más alto para jubilados: este es el monto",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750802857193.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/seguro-social-de-eeuu-libera-este-miercoles-el-pago-mas-alto-para-jubilados-este-es-el-monto-20256241870",
+        "date": "2025-06-24 22:07:00",
+        "sentiment_score": 0.06217183731496334
+    },
+    {
+        "title": "Anuncian la formación de la tormenta tropical Andrea: el primer ciclón de la temporada del Atlántico",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750802419393.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/anuncian-la-formacion-de-la-tormenta-tropical-andrea-el-primer-ciclon-de-la-temporada-del-atlantico-20256241830",
+        "date": "2025-06-24 22:03:00",
+        "sentiment_score": -0.09524938464164734
+    },
+    {
+        "title": "Regulan el uso de fuegos artificiales: Conozca las penas por su uso ilegal",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750728271800.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/regulan-el-uso-de-fuegos-artificiales-conozca-las-penas-por-su-uso-ilegal-20256241800",
+        "date": "2025-06-24 22:00:00",
+        "sentiment_score": -0.7128057144582272
+    },
+    {
+        "title": "Martin Kove es expulsado de una convención por morder a una compañera de “Cobra Kai”: Solo intentaba ser gracioso",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750803717944.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/farandula/martin-kove-es-expulsado-de-una-convencion-por-morder-a-una-companera-de-cobra-kai-solo-intentaba-ser-gracioso-202562417380",
+        "date": "2025-06-24 21:38:00",
+        "sentiment_score": -0.6556714959442616
+    },
+    {
+        "title": "Muere turista en playa de Florida tras ser alcanzado por un rayo: celebraba su luna de miel",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750800999295.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/sucesos/muere-turista-en-playa-de-florida-tras-ser-alcanzado-por-un-rayo-celebraba-su-luna-de-miel-202562417240",
+        "date": "2025-06-24 21:24:00",
+        "sentiment_score": -0.702762071043253
+    },
+    {
+        "title": "ICE deporta a un turista tras revisar su celular: esto fue lo que encontraron",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750799430462.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ice-deporta-a-un-turista-tras-revisar-su-celular-esto-fue-lo-que-encontraron-202562417100",
+        "date": "2025-06-24 21:10:00",
+        "sentiment_score": -0.30518369004130363
+    },
+    {
+        "title": "Alarma en la región andina del país: intensas lluvias dejan crecida de ríos, derrumbes e inundaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750798346039.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/alarma-en-la-region-andina-del-pais-intensas-lluvias-dejan-crecida-de-rios-derrumbes-e-inundaciones-20256241710",
+        "date": "2025-06-24 21:01:00",
+        "sentiment_score": 0.03884842246770859
+    },
+    {
+        "title": "Capturan a pareja en Monagas por maltrato físico: encadenaban y golpeaban a su hijo de 13 años",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750796626614.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/capturan-a-pareja-en-monagas-por-maltrato-fisico-encadenaban-y-golpeaban-a-su-hijo-de-13-anos-202562416540",
+        "date": "2025-06-24 20:54:00",
+        "sentiment_score": 0.04252132773399353
+    },
+    {
+        "title": "ICE libera a venezolano para donar riñón a su hermano: la cirugía ya tiene fecha",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750788137914.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ice-libera-a-venezolano-para-donar-rinon-a-su-hermano-la-cirugia-ya-tiene-fecha-202562416250",
+        "date": "2025-06-24 20:25:00",
+        "sentiment_score": -0.7964717820286751
+    },
+    {
+        "title": "Así puedes enviar remesas desde tu billetera Wally a Banesco: son seis sencillos pasos",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750797987943.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/asi-puedes-enviar-remesas-desde-tu-billetera-wally-a-banesco-son-seis-sencillos-pasos-202562416230",
+        "date": "2025-06-24 20:23:00",
+        "sentiment_score": 0.18415017612278461
     }
 ];
