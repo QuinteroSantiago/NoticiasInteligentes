@@ -140,66 +140,6 @@ export default [
         "sentiment_score": -0.04331040382385254
     },
     {
-        "title": "Abono mensual de Media Distancia: cuánto va a costar con los nuevos precios y desde cuándo se pueden adquirir los billetes",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/06/24/tren-media-distnacia-kFNH-U7011876648124zF-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/abono-mensual-media-distancia-costar-nuevos-precios-20250624160850-nt.html",
-        "date": "2025-06-24 14:14:31",
-        "sentiment_score": 0.017140477895736694
-    },
-    {
-        "title": "Los investigadores surcoreanos piden detener al expresidente Yoon",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/06/24/Yoon-Suk-kiDG-U701187136415nmB-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/investigadores-surcoreanos-piden-detener-expresidente-yoon-20250624155330-nt.html",
-        "date": "2025-06-24 13:54:25",
-        "sentiment_score": -0.13085827231407166
-    },
-    {
-        "title": "El Parlamento Europeo defiende la gratuidad de la maleta de mano ante la pasividad de la UE",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/06/24/1483834811-RLIg2QexW8nqZKCoewzGtlO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/parlamento-europeo-defiende-gratuidad-maleta-mano-ante-20250624145839-nt.html",
-        "date": "2025-06-24 12:58:40",
-        "sentiment_score": -0.06400248408317566
-    },
-    {
-        "title": "El Gobierno carga de burocracia a la CNMC y Red Eléctrica como receta del apagón",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/06/24/Aagesen-RT7RYudOdLAJEkuv9ChOjUL-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-carga-burocracia-cnmc-red-electrica-receta-20250624143506-nt.html",
-        "date": "2025-06-24 12:35:07",
-        "sentiment_score": -0.019786953926086426
-    },
-    {
-        "title": "Rusia bombardea la ciudad estratégica de Dnipro a plena luz del día mientras arranca la cumbre de la OTAN",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/06/24/dnipro-kqoG-U701187184291EjD-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-bombardea-estrategica-ciudad-dnipro-plena-luz-20250624140510-nt.html",
-        "date": "2025-06-24 12:10:45",
-        "sentiment_score": -0.17695969343185425
-    },
-    {
-        "title": "El Gobierno impone a BBVA mantener la personalidad jurídica, patrimonio y autonomía de Banco Sabadell al menos tres años",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/24/carlos-cuerpo-cmin-RI3V5Ya1ckrpF48lGW4GyNN-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-torpedea-opa-bbva-endurece-condiciones-pese-20250624102430-nt.html",
-        "date": "2025-06-24 11:53:41",
-        "sentiment_score": -0.06491383910179138
-    },
-    {
         "title": "El PP de Almeida ‘perdona’ a Petro y le mantiene la llave de Madrid pese a que Vox pide quitársela",
         "image_url": "https://imagenes.elpais.com/resizer/v2/MKE4YRRDOJNDKH4E32KPAMFKDE.jpg?auth=674d60980fcfd006946f8485331c69974ab2df9c1e0e11730a7ff8bf8cd38f6f&width=1200",
         "tags": [
@@ -339,39 +279,6 @@ export default [
         "link": "https://elpais.com/sociedad/2025-06-24/las-muertes-por-cancer-de-pulmon-en-mujeres-en-espana-superan-por-primera-vez-a-las-de-cancer-de-mama.html",
         "date": "2025-06-24 14:15:11",
         "sentiment_score": -0.26172180473804474
-    },
-    {
-        "title": "La trama Ábalos-Cerdán pasa factura a Sumar, que sufre nuevas esciciones tras la salida de Podemos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FD4HGJKIAQABLAAWWBTKSNPYUA.jpg?auth=b064cd18dcbae1cad52cdd2af768fa1b4a00ebce5d98ccb93fffade61c0b6f20&width=1200",
-        "tags": [
-            "españa",
-            "psoe",
-            "santos cerdán",
-            "gobierno de coalición",
-            "més",
-            "corrupción política",
-            "congreso diputados",
-            "koldo garcía",
-            "josé luis ábalos",
-            "podemos",
-            "sumar"
-        ],
-        "link": "https://elpais.com/espana/2025-06-24/la-trama-abalos-cerdan-pasa-factura-a-sumar-que-sufre-nuevas-esciciones-tras-la-salida-de-podemos.html",
-        "date": "2025-06-24 13:39:21",
-        "sentiment_score": -0.1331210434436798
-    },
-    {
-        "title": "Manos Limpias denuncia a la jueza de la dana y alimenta el bulo de que el Gobierno oculta la cifra de fallecidos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/K4KDS4WLQNAQ7IEEFHGJDVAUNE.jpg?auth=9041418e24eee7cb41f7f9efe2304a98e418888d2cf4a1712052bbfba7717ce2&width=1200",
-        "tags": [
-            "valencia",
-            "tribunales",
-            "catástrofes",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-06-24/manos-limpias-denuncia-a-la-jueza-de-la-dana-y-alimenta-el-bulo-de-que-el-gobierno-oculta-la-cifra-de-fallecidos.html",
-        "date": "2025-06-24 13:09:15",
-        "sentiment_score": -0.6997848581522703
     },
     {
         "title": "“Europa pagará a lo GRANDE”: Trump publica un mensaje privado de Rutte con tono halagador ante la cumbre de la OTAN",
@@ -7512,5 +7419,383 @@ export default [
         "link": "https://2001online.com/deportes/wanda-nara-vs-mauro-icardi-nuevo-conflicto-por-la-custodia-de-sus-hijas-20256271800",
         "date": "2025-06-27 21:04:22",
         "sentiment_score": -0.7958305981010199
+    },
+    {
+        "title": "Pronóstico del tiempo en Madrid para este 28 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/VLQPBJ57FVHE5EEUO244GVVUKI.jpg?auth=df376a06cf4887c1b7ee95578b1c9dcd7048cb8fd0eb9aa19637a1e1d65329f6&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/28/pronostico-del-tiempo-en-madrid-para-este-28-de-junio/",
+        "date": "2025-06-28 01:45:43",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 28 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/VLQPBJ57FVHE5EEUO244GVVUKI.jpg?auth=df376a06cf4887c1b7ee95578b1c9dcd7048cb8fd0eb9aa19637a1e1d65329f6&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/28/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-28-de-junio/",
+        "date": "2025-06-28 01:18:44",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Criptoestafa de FX Winning: hay dos detenidos en caso que afectó a 15 mil personas en 30 países, incluyendo España y Perú",
+        "image_url": "https://www.infobae.com/resizer/v2/PXF22L2RSJFQ7NFD5IC4EKU3SM.jpg?auth=43888545c9917f6f52e797d53c8a8605e63c35179588684c62e7ef62eb8d8dca&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/06/27/criptoestafa-de-fx-winning-hay-dos-detenidos-en-caso-que-afecto-a-15-mil-personas-en-30-paises-incluyendo-espana-y-peru/",
+        "date": "2025-06-27 23:57:33",
+        "sentiment_score": -0.23915139585733414
+    },
+    {
+        "title": "Alianza contra la Desigualdad pide aplicar un impuesto para los millonarios en México",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/alianza-contra-la-desigualdad-pide-aplicar-un-impuesto-para-los-millonarios-en-mexico/",
+        "date": "2025-06-27 23:32:50",
+        "sentiment_score": -0.26845861226320267
+    },
+    {
+        "title": "La Bolsa de México cierra con un avance semanal del 2 % y rompe dos semanas de caídas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/la-bolsa-de-mexico-cierra-con-un-avance-semanal-del-2-y-rompe-dos-semanas-de-caidas/",
+        "date": "2025-06-27 23:32:33",
+        "sentiment_score": 0.6034123748540878
+    },
+    {
+        "title": "Las mejores películas en Prime Video en España hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/T5GRYRGLF5CTTODZNO37SASCCI.jpg?auth=05bbfa9c2f2eb1d2ab2642005b4137141bc74068ce3c8c285e27b747d1680e80&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/06/27/las-mejores-peliculas-en-prime-video-en-espana-hoy/",
+        "date": "2025-06-27 23:31:00",
+        "sentiment_score": 0.7445468716323376
+    },
+    {
+        "title": "Top 10 de Netflix en España: Estas son las películas más vistas en la plataforma",
+        "image_url": "https://www.infobae.com/resizer/v2/OF5EMOTUMFDI3PH7EMHYN7H72E.jpg?auth=020a872697c6a572b54c51b637fb0725d510834f7efb3ca1d0b530a138a5004c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/27/top-10-de-netflix-en-espana-estas-son-las-peliculas-mas-vistas-en-la-plataforma/",
+        "date": "2025-06-27 23:30:41",
+        "sentiment_score": 0.528931237757206
+    },
+    {
+        "title": "Tierras raras, el grifo que Pekín abre y cierra para lograr sus fines comerciales y geoestratégicos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/27/minerales-RSRELpL24kwpKlPyhcDUMzK-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/grifo-pekin-abre-cierra-lograr-fines-comerciales-20250627194711-nt.html",
+        "date": "2025-06-28 02:10:08",
+        "sentiment_score": -0.14736899733543396
+    },
+    {
+        "title": "De «gran error» a apoyar su impulso: las incongruencias de Teresa Ribera con las nucleares",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/06/27/teresa-ribera-efe-RdebdDtSYMIguerfFAGG85K-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gran-error-apoyar-impulso-incongruencias-teresa-ribera-20250627040822-nt.html",
+        "date": "2025-06-28 02:08:23",
+        "sentiment_score": -0.04821482300758362
+    },
+    {
+        "title": "La doble cara de Ribera frente a la energía nuclear",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/06/27/aviso-medico-paracetamol-k0ZD--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-doble-cara-ribera-frente-energia-nuclear-20250628182950-nt.html",
+        "date": "2025-06-27 22:20:49",
+        "sentiment_score": -0.5850391983985901
+    },
+    {
+        "title": "Más de un millón de asientos vacíos en la fase de grupos del Mundial de Clubes",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/73640a4/2147483647/strip/true/crop/5634x2958+0+399/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2Fc9%2F804dcb9ffa8f5131b2f864041e4b%2F8efcb410cda54904bb2dff9e2e3c9401",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-06-27/mas-de-un-millon-de-asientos-vacios-en-la-fase-de-grupos-del-mundial-de-clubes",
+        "date": "2025-06-28 02:08:03",
+        "sentiment_score": -0.22523799538612366
+    },
+    {
+        "title": "Agustín Lleida desgrana los planes del nuevo Oviedo: \"Con el ascenso, el mercado internacional se ha abierto mucho: todos quieren jugar en Primera\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/72f28343-7db9-4e66-839b-aba65b40f879_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/real-oviedo/2025/06/28/agustin-lleida-desgrana-planes-nuevo-119142189.html",
+        "date": "2025-06-28 02:06:35",
+        "sentiment_score": -0.0993238091468811
+    },
+    {
+        "title": "Las series favoritas del público en Netflix México",
+        "image_url": "https://www.infobae.com/resizer/v2/3ILG6ARO65GSXKX3D2HXEQOXPU.jpg?auth=49262afaeec20a7ad29d37c6146b2a28628bfee4fd80ec8a4650c10fa5fb0f9e&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/06/28/las-series-favoritas-del-publico-en-netflix-mexico/",
+        "date": "2025-06-28 02:01:09",
+        "sentiment_score": 0.18770477175712585
+    },
+    {
+        "title": "Rels B, de la vida en Son Gotleu a reinar en Son Moix",
+        "image_url": "https://uh.gsstatic.es/autor/editorial/32.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/editorial/2025/06/28/2418491/rels-vida-son-gotleu-reinar-son-moix.html",
+        "date": "2025-06-28 02:00:01",
+        "sentiment_score": -0.013891458511352539
+    },
+    {
+        "title": "Revelan las cifras del “contrato más lucrativo de la historia” firmado por Cristiano Ronaldo",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/06/AP25155772647658-e1751063923404.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "cristiano ronaldo",
+            "al nassr"
+        ],
+        "link": "https://eldiariony.com/2025/06/27/revelan-las-cifras-del-contrato-mas-lucrativo-de-la-historia-firmado-por-cristiano-ronaldo/",
+        "date": "2025-06-28 01:49:00",
+        "sentiment_score": 0.6004733070731163
+    },
+    {
+        "title": "Más colombianos podrían jugar el Mundial de Clubes en Estados Unidos: así es la estrategia de la FIFA para los octavos",
+        "image_url": "https://www.infobae.com/resizer/v2/TX6YLORFIRFG7PS5KS27CNQRCM.jpg?auth=ba57576c9dc306ea46b3da730e12958f832bca708211ac9ef72889357c98ece6&height=4189&smart=true&width=5825",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/06/28/mas-colombianos-podrian-jugar-el-mundial-de-clubes-en-estados-unidos-asi-es-la-estrategia-de-la-fifa-para-los-octavos/",
+        "date": "2025-06-28 01:34:12",
+        "sentiment_score": 0.5159165933728218
+    },
+    {
+        "title": "La España del bochorno",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "tribunas"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/tribunas/250628/2052474/espana-bochorno.html",
+        "date": "2025-06-28 01:30:00",
+        "sentiment_score": -0.9192736577242613
+    },
+    {
+        "title": "Interior aprueba 'in extremis' 20 millones para aplacar a la Policía",
+        "image_url": "https://phantom-elmundo.uecdn.es/4e4380f45c094c7d84e5b195df867a69/crop/0x47/907x652/f/webp/assets/multimedia/imagenes/2025/06/27/17510540975099.jpg",
+        "tags": [
+            "policía nacional",
+            "fernando grande-marlaska",
+            "artículos gema peñalosa",
+            "guardia civil"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/06/28/685edfa5fc6c83d3128b457f.html",
+        "date": "2025-06-28 01:02:53",
+        "sentiment_score": -0.5453322716057301
+    },
+    {
+        "title": "El helado más deseado del verano solo lo podrás a encontrar en Rialto",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/939d6d5c-3669-44b8-a35c-317f81711e13_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2025/06/28/helado-deseado-verano-podras-encontrar-119118188.html",
+        "date": "2025-06-28 01:00:26",
+        "sentiment_score": -0.1546362340450287
+    },
+    {
+        "title": "Ancelotti afirma que “en Sudamerica hay más calidad que en Europa”",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/06/AP25160740077781_c5cb6d.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "carlo ancelotti"
+        ],
+        "link": "https://eldiariony.com/2025/06/27/ancelotti-afirma-que-en-sudamerica-hay-mas-calidad-que-en-europa/",
+        "date": "2025-06-28 00:31:14",
+        "sentiment_score": 0.20711684972047806
+    },
+    {
+        "title": "Pablo Torre: nombre propio y apellido ilustre para el Mallorca de Jagoba Arrasate",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/06/28/2417935/pablo-torre-nombre-propio-apellido-ilustre-para-mallorca-jagoba-arrasate.html",
+        "date": "2025-06-28 02:00:01",
+        "sentiment_score": 0.48372000455856323
+    },
+    {
+        "title": "UPA denuncia los precios «ruinosos» del cereal que se fijan en las lonjas",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/06/26/685d21111ff00.jpeg",
+        "tags": [
+            "agro"
+        ],
+        "link": "https://www.diariodeleon.es/monograficos/agro/250628/2052284/upa-denuncia-precios-ruinosos-cereal-fijan-lonjas.html",
+        "date": "2025-06-28 01:30:00",
+        "sentiment_score": -0.7966047991067171
+    },
+    {
+        "title": "Pantoja y Bertín entran en la lista de morosos españoles, que deben al fisco 16.100 millones",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/06/27/685ed30a257f2.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/250628/2052459/pantoja-bertin-entran-lista-morosos-espanoles-deben-16-100-m.html",
+        "date": "2025-06-28 01:30:00",
+        "sentiment_score": -0.1954186111688614
+    },
+    {
+        "title": "La frase de George Russell que confirmó el interés de Mercedes por Max Verstappen",
+        "image_url": "https://www.infobae.com/resizer/v2/VWNTFGJ2QJEYFPHAVXRZRAETAY.jpg?auth=1376826ca28a2ea970f7bcbc4253fc187286011c30b7b4ec69d4e606dac49a99&height=534&smart=true&width=800",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/28/la-frase-de-george-russell-que-confirmo-el-interes-de-mercedes-por-max-verstappen/",
+        "date": "2025-06-28 01:29:27",
+        "sentiment_score": -0.4758592024445534
+    },
+    {
+        "title": "Más gacelas",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/gacelas_0_2004240416.html",
+        "date": "2025-06-28 01:08:29",
+        "sentiment_score": -0.2296067476272583
+    },
+    {
+        "title": "La compra de pisos al contado alcanza máximos históricos en Barcelona: ¿quién está detrás?",
+        "image_url": "https://album.mediaset.es/eimg/2025/06/27/fachada-de-un-edificio-en-construccion-en-barcelona_1a86.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20250628/barcelona-alcanza-historicos-maximos-compra-pisos-contado_18_015728110.html",
+        "date": "2025-06-28 01:00:52",
+        "sentiment_score": 0.035478316247463226
+    },
+    {
+        "title": "Música, fiestas y magia en Cantabria: así será el sábado más completo del verano",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/03/07/2025030709481398138.png",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/cultura/agenda-cantabria-musica-fiestas-cantabria-asi-sera-sabado-mas-completo-que-hacer-hoy-cantabria/20250628030000565001.html",
+        "date": "2025-06-28 01:00:00",
+        "sentiment_score": 0.9038132485002279
+    },
+    {
+        "title": "Incautan un arsenal de granadas en Caracas: serían usadas con fines terroristas",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751076409420.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/incautan-un-arsenal-de-granadas-en-caracas-serian-usadas-con-fines-terroristas-20256272270",
+        "date": "2025-06-28 02:07:00",
+        "sentiment_score": -0.09932592511177063
+    },
+    {
+        "title": "Anuncian cierre parcial de vías en Chacao este 29 de junio: realizarán la Carrera Caminata del Colegio San Francisco de Asís",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751068554618.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/anuncian-cierre-parcial-de-vias-en-chacao-este-29-de-junio-realizaran-la-carrera-caminata-del-colegio-san-francisco-de-asis-20256272210",
+        "date": "2025-06-28 02:01:00",
+        "sentiment_score": -0.5151499398052692
+    },
+    {
+        "title": "Llega la ayuda aérea al Páramo merideño: envían materiales para la reconstrucción de puentes",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751075882636.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/llega-la-ayuda-aerea-al-paramo-merideno-envian-materiales-para-la-reconstruccion-de-puentes-20256272200",
+        "date": "2025-06-28 02:00:00",
+        "sentiment_score": -0.1233351081609726
+    },
+    {
+        "title": "Así puedes lucir una piel bronceada sin ir a la playa: afamado maquillador internacional revela su secreto",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750878474088.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/asi-puedes-lucir-una-piel-bronceada-sin-ir-a-la-playa-afamado-maquillador-internacional-revela-su-secreto-20256272200",
+        "date": "2025-06-28 02:00:00",
+        "sentiment_score": 0.4364412948489189
+    },
+    {
+        "title": "Ministro Ricardo Sánchez se pronuncia sobre denuncias por ventas de cupos universitarios",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751069076057.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/ministro-ricardo-sanchez-se-pronuncia-sobre-denuncias-por-ventas-de-cupos-universitarios-202562721300",
+        "date": "2025-06-28 01:30:00",
+        "sentiment_score": 0.030085787177085876
+    },
+    {
+        "title": "Corpoelec lanza jornadas integrales este 28 de junio: sepa más",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751054827335.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/corpoelec-lanza-jornadas-integrales-este-28-de-junio-sepa-mas-202562721100",
+        "date": "2025-06-28 01:10:00",
+        "sentiment_score": 0.15656577795743942
+    },
+    {
+        "title": "Metrolink baja las tarifas de sus boletos: sepa desde cuándo aplicarán",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751073020982.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/metrolink-baja-las-tarifas-de-sus-boletos-sepa-desde-cuando-aplicaran-202562721100",
+        "date": "2025-06-28 01:10:00",
+        "sentiment_score": 0.21006646007299423
+    },
+    {
+        "title": "Así describió Adamari López una infidelidad: \"Si alguien me da motivos soy celosa\"",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751053131765.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/asi-describio-adamari-lopez-una-infidelidad-si-alguien-me-da-motivos-soy-celosa--20256272100",
+        "date": "2025-06-28 01:00:00",
+        "sentiment_score": 0.012085288763046265
+    },
+    {
+        "title": "¿Mal aliento al despertar en la mañana? Aquí tienes 5 soluciones milagrosas contra la halitosis matutina",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1750877921734.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/mal-aliento-al-despertar-en-la-manana-aqui-tienes-5-soluciones-milagrosas-contra-la-halitosis-matutina-20256272100",
+        "date": "2025-06-28 01:00:00",
+        "sentiment_score": -0.05685637891292572
+    },
+    {
+        "title": "Conozca las empresas que colaboran con ICE en Florida: aquí los acuerdos para restringir empleo a indocumentados",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751071985727.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/conozca-las-empresas-que-colaboran-con-ice-en-florida-aqui-los-acuerdos-para-restringir-empleo-a-indocumentados-202562720490",
+        "date": "2025-06-28 00:49:00",
+        "sentiment_score": 0.5201629418879747
     }
 ];
