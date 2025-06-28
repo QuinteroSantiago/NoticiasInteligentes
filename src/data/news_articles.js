@@ -1,302 +1,5 @@
 export default [
     {
-        "title": "Se reestrena una de las películas míticas del cine mudo: 100 años de un clásico basado en terribles hechos reales",
-        "image_url": "https://www.infobae.com/resizer/v2/OTRYN2CRYJFYJFWDIW2IVFDEYA.jpg?auth=1cf969fe5be62fdab1c09f1295e2c3e0654078507631cf102b9b895e705b1ed3&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/06/24/se-reestrena-una-de-las-peliculas-miticas-del-cine-mudo-100-anos-de-un-clasico-basado-en-terribles-hechos-reales/",
-        "date": "2025-06-24 06:26:25",
-        "sentiment_score": -0.044244036078453064
-    },
-    {
-        "title": "Tu botella de agua reutilizable podría estar más sucia que un inodoro: cómo y cuándo debes limpiarla",
-        "image_url": "https://www.infobae.com/resizer/v2/4LHWGPKI4FFVFBITE4P2GUFOOU.jpg?auth=e16e5d2a16e3f30c64797fc3094692ff44709b0c48163372857b0ae3baed078c&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/24/tu-botella-de-agua-reutilizable-podria-estar-mas-sucia-que-un-inodoro-como-y-cuando-debes-limpiarla/",
-        "date": "2025-06-24 06:25:44",
-        "sentiment_score": -0.05821465700864792
-    },
-    {
-        "title": "Los 10 productos de supermercado que “debes probar” si visitas EEUU, según un estadounidense en España: “No son muy saludables, pero estáis de vacaciones, ¿no?”",
-        "image_url": "https://www.infobae.com/resizer/v2/QUDKXLH5EBEHNLX57VEPT2T5XI.png?auth=d8a728641f7c20f032fad7b5807a46f23c144e4fbfa6e1a2e9b6eaed4f5b3a38&height=720&smart=true&width=1280",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/24/los-10-productos-de-supermercado-que-debes-probar-si-visitas-eeuu-segun-un-estadounidense-en-espana-no-son-muy-saludables-pero-estais-de-vacaciones-no/",
-        "date": "2025-06-24 06:18:30",
-        "sentiment_score": -0.6797023192048073
-    },
-    {
-        "title": "Un abogado aclara si es legal que el casero suba el precio del alquiler cada seis meses: “Tiene que venir previsto en el contrato”",
-        "image_url": "https://www.infobae.com/resizer/v2/4ARUG265EBHXPF3DVOH7CI7QVA.png?auth=92ed569b2c6608389a086eb463d0bbf42ba38d429ab07f28821079a51f2c101b&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/24/un-abogado-aclara-si-es-legal-que-el-casero-suba-el-precio-del-alquiler-cada-seis-meses-tiene-que-venir-previsto-en-el-contrato/",
-        "date": "2025-06-24 06:10:43",
-        "sentiment_score": -0.05639228969812393
-    },
-    {
-        "title": "Del yogur a los pepinillos: los 5 alimentos más ricos en probióticos que facilitan la digestión y protegen el sistema inmunitario",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/24/del-yogur-a-los-pepinillos-los-5-alimentos-mas-ricos-en-probioticos-que-facilitan-la-digestion-y-protegen-el-sistema-inmunitario/",
-        "date": "2025-06-24 06:08:04",
-        "sentiment_score": 0.3508266620337963
-    },
-    {
-        "title": "Casa gratis y 15.000 euros: la iniciativa de un pueblo de Barcelona de 650 habitantes para evitar la despoblación",
-        "image_url": "https://www.infobae.com/resizer/v2/ETWU3P7VVJGJZFDYXESKSENEFY.jpg?auth=143ffd7ae6b1b7f7ebce263cc66fc1f7a3a40318f07634d939850494ad0d80a2&height=1536&smart=true&width=2048",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/24/casa-gratis-y-15000-euros-la-iniciativa-de-un-pueblo-de-barcelona-de-650-habitantes-para-evitar-la-despoblacion/",
-        "date": "2025-06-24 06:06:33",
-        "sentiment_score": 0.40461136400699615
-    },
-    {
-        "title": "Un guardia civil se enfrenta a “un año de prisión militar” en Alcalá-Meco por no ejercer de chófer de un oficial",
-        "image_url": "https://www.infobae.com/resizer/v2/VMQFIDRW45BJHAAXCD3HTI5CTE.jpg?auth=d85d09d2270099802121a3b04d2948ccf411511bcd3c7cbe3d19e7a1f39e8776&height=1153&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/24/un-guardia-civil-se-enfrenta-a-un-ano-de-prision-militar-en-alcala-meco-por-no-ejercer-de-chofer-de-un-oficial/",
-        "date": "2025-06-24 06:04:40",
-        "sentiment_score": -0.859753854572773
-    },
-    {
-        "title": "Estas son las diferencias entre la diabetes tipo 1 y 2",
-        "image_url": "https://www.infobae.com/resizer/v2/3GMCTMEWABCWFKKKE2SSBTO5CI.jpg?auth=410e928bd826412f902fd69cc8fb2c93e70126ce1dc14f1cf7bfc16cfb619004&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/24/estas-son-las-diferencias-entre-la-diabetes-tipo-1-y-2/",
-        "date": "2025-06-24 05:55:25",
-        "sentiment_score": -0.3975145183503628
-    },
-    {
-        "title": "Una empresa alemana inventa un airbag para los pies: “Las piernas pueden moverse de manera descontrolada durante el impacto””",
-        "image_url": "https://www.infobae.com/resizer/v2/GLP5OVUNDVALBNU3XK2323SSDQ.png?auth=e3014a0255d41199e4889cd2abb3d748933f05cb79b43c8c82babf3021e86dbd&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/24/una-empresa-alemana-inventa-un-airbag-para-los-pies-las-piernas-pueden-moverse-de-manera-descontrolada-durante-el-impacto/",
-        "date": "2025-06-24 05:49:11",
-        "sentiment_score": 0.09841035306453705
-    },
-    {
-        "title": "Las orcas conocidas por llevar salmones en la cabeza también se dan masajes de algas entre sí",
-        "image_url": "https://www.infobae.com/resizer/v2/2JU7KJQFPVGTTDJEWAD6NOFWWM.jpg?auth=7a5790a4133be78a7fb3b1b76a5bf5ae70d6a102abb3765c0193f5121a1cf00f&height=744&smart=true&width=1322",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/24/las-orcas-conocidas-por-llevar-salmones-en-la-cabeza-tambien-se-dan-masajes-de-algas-entre-si/",
-        "date": "2025-06-24 05:32:41",
-        "sentiment_score": 0.17148712277412415
-    },
-    {
-        "title": "Un bebé, herido grave tras quemarse con un petardo en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CICQPWWGEBYKD26GX4WSIIHZEU.jpg?auth=dbc5b44f273081cf4ed8f28f08cca2cb0e45d781dcbd1675e6eb2f46d95c6361&width=1200",
-        "tags": [
-            "playas",
-            "accidentes",
-            "mossos d'esquadra",
-            "sant joan (mallorca)",
-            "petardos",
-            "fiesta",
-            "guardia urbana",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-24/un-bebe-herido-grave-tras-quemarse-con-un-petardo-en-barcelona.html",
-        "date": "2025-06-24 05:40:50",
-        "sentiment_score": -0.7461268585175276
-    },
-    {
-        "title": "Los Reyes en Montserrat: Hospitalidad abacial y furia pensionista",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/24/vida/1003742668300_14774299_1706x960.jpg?contentId=1003742668300",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20250624/reyes-montserrat-hospitalidad-abacial-furia-pensionista/1003742668299_0.html",
-        "date": "2025-06-24 06:37:55",
-        "sentiment_score": -0.9142999108880758
-    },
-    {
-        "title": "El Gobierno destina 1.334 millones de euros para contratar la energía verde que mueve los trenes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250624083053_120.jpg",
-        "tags": [
-            "economía finanzas",
-            "transportes"
-        ],
-        "link": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-destina-1334-millones-euros-contratar-energia-verde-mueve-trenes-20250624083053.html",
-        "date": "2025-06-24 06:30:53",
-        "sentiment_score": 0.4074952155351639
-    },
-    {
-        "title": "El Gobierno destina 1.334 millones de euros para contratar la energía verde que mueve los trenes",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/06/fotonoticia_20250624083053_1920-1019x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/745561/el-gobierno-destina-1-334-millones-de-euros-para-contratar-la-energia-verde-que-mueve-los-trenes/",
-        "date": "2025-06-24 06:30:53",
-        "sentiment_score": 0.19670427590608597
-    },
-    {
-        "title": "Más de la mitad de España está hoy en aviso por tormentas y calor, con Aragón y Cataluña en nivel naranja",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250624082931_120.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-tiempo-hoy-espana-24-junio-2025-20250624082931.html",
-        "date": "2025-06-24 06:29:31",
-        "sentiment_score": -0.5916718393564224
-    },
-    {
-        "title": "Avisos en 15 comunidades, con calor intenso en el este y tormentas con granizo en el norte",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/06/calor-barcelona-junio.jpg",
-        "tags": [
-            "tormentas",
-            "el tiempo",
-            "granizo",
-            "temperaturas",
-            "calor",
-            "aemet",
-            "sociedad"
-        ],
-        "link": "https://theobjective.com/sociedad/2025-06-24/avisos-15-comunidades-calor-tormentas-granizo/",
-        "date": "2025-06-24 06:25:54",
-        "sentiment_score": -0.7209968790411949
-    },
-    {
-        "title": "El ex mallorquinista Paunovic cierra el círculo: del descenso con el Oviedo en Son Moix a ascenderlo 24 años después",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/06/24/685a375a61391.jpeg",
-        "tags": [
-            "deportes mallorca"
-        ],
-        "link": "https://www.cope.es/emisoras/illes-balears/baleares/mallorca/deportes-mallorca/noticias/ex-mallorquinista-paunovic-cierra-circulo-descenso-oviedo-son-moix-ascenderlo-24-anos-20250624_3174772.html",
-        "date": "2025-06-24 06:22:35",
-        "sentiment_score": -0.06655517220497131
-    },
-    {
-        "title": "El restaurante temático que llega a Madrid con magia para los más pequeños y postres inspirados en Disney",
-        "image_url": "https://www.elplural.com/uploads/s1/20/04/38/3/palacio-by-lola-palacio-by-lola_7_480x270.jpeg",
-        "tags": [
-            "planes"
-        ],
-        "link": "https://www.elplural.com/oxigena2/planes/restaurante-tematico-madrid-magia-postres-inspirados-disney-v0_354995102",
-        "date": "2025-06-24 05:41:59",
-        "sentiment_score": 0.05657127499580383
-    },
-    {
-        "title": "Bildu lleva hoy al Congreso su exigencia para reconocer como víctima al fallecido de los Sanfermines de 1978",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250624072550_120.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.europapress.es/nacional/noticia-bildu-lleva-hoy-congreso-exigencia-reconocer-victima-fallecido-sanfermines-1978-20250624072550.html",
-        "date": "2025-06-24 05:25:50",
-        "sentiment_score": -0.7593723610043526
-    },
-    {
-        "title": "Así queda la clasificación de la fase de grupos y los octavos de final del Mundial de Clubes",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/06/clasificacion-horarios-mundial-clubes.jpg",
-        "tags": [
-            "manchester city",
-            "sl benfica",
-            "borussia dortmund",
-            "atlético de madrid",
-            "lionel messi",
-            "luis suárez",
-            "bayern de múnich",
-            "psg",
-            "real madrid",
-            "oporto",
-            "estados unidos",
-            "milán",
-            "fútbol"
-        ],
-        "link": "https://theobjective.com/deportes/futbol/2025-06-24/clasificacion-resultados-mundial-de-clubes/",
-        "date": "2025-06-24 05:25:03",
-        "sentiment_score": 0.45610166154801846
-    },
-    {
-        "title": "Badalona arde por Sant Joan: decenas de incendios colapsan a los bomberos",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/06/24/gran-barcelona/1003742668301_14774356_1706x960.jpg?contentId=1003742668301",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20250624/badalona-arde-sant-joan-decenas-incendios-colapsan-bomberos/1003742668298_0.html",
-        "date": "2025-06-24 06:37:08",
-        "sentiment_score": -0.5965657830238342
-    },
-    {
-        "title": "La Ferni: vida de la cantante trans que hizo historia en Cosquín y terminó con la discriminación de género en el folclore",
-        "image_url": "https://www.infobae.com/resizer/v2/T3QFCD3Y2FGIZPCRMSFPO2FQVY.jpg?auth=3967dd776960c044162f71b14b0973e7715ef1231dac526eed12b2b93ae221da&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/sociedad/2025/06/24/la-ferni-vida-de-la-cantante-trans-que-hizo-historia-en-cosquin-y-termino-con-la-discriminacion-de-genero-en-el-folclore/",
-        "date": "2025-06-24 06:27:36",
-        "sentiment_score": 0.3184341937303543
-    },
-    {
-        "title": "Mariona Caldentey, contundente contra la masificación en Mallorca en 'La Revuelta': «Que la gente vaya a otros sitios»",
-        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3361513.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.menorca.info/vips/television/2025/06/24/2415341/mariona-caldentey-contundente-contra-masificacion-mallorca-revuelta-gente-vaya-otros-sitios.html",
-        "date": "2025-06-24 06:27:00",
-        "sentiment_score": 0.7374117374420166
-    },
-    {
-        "title": "Herido grave un bebé de un mes por la explosión de un petardo en Palau-Solità y Plegamans",
-        "image_url": "https://static1.ara.cat/clip/f156d7d9-bbda-4731-84a0-6ecef7c50b86_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://es.ara.cat/sociedad/herido-grave-bebe-mes-explosion-petardo-palau-solita-plegamans_1_5421559.html",
-        "date": "2025-06-24 06:22:01",
-        "sentiment_score": -0.8777779182419181
-    },
-    {
-        "title": "Barcelona buena y barata: Bodega Manolo reabre por todo lo alto con sus calamares encebollados y su 'esqueixada' espectacular",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/27922c26-e0de-4ea9-81d4-eb68f7556138_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/cata-mayor/restaurantes/20250624/bodega-manolo-restaurante-barcelona-118961275",
-        "date": "2025-06-24 06:21:55",
-        "sentiment_score": -0.3086707890033722
-    },
-    {
-        "title": "Ginnan, el mejor de lo nuevo en España",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://forbes.es/opinion/745544/ginnan-el-mejor-de-lo-nuevo-en-espana/",
-        "date": "2025-06-24 06:15:07",
-        "sentiment_score": -0.13807888329029083
-    },
-    {
-        "title": "Christian Community Service Center: Familias con dificultades de Houston pueden recibir estas ayudas",
-        "image_url": "https://pxcdn.2001online.com/2001/062025/1750706154150.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/servicios/christian-community-service-center-familias-con-dificultades-de-houston-pueden-recibir-estas-ayudas-202562413150",
-        "date": "2025-06-24 06:08:47",
-        "sentiment_score": 0.2522665448486805
-    },
-    {
         "title": "Tezanos recurrirá en el TC la multa que recibió por el sondeo 'flash' sobre Sánchez en pleno periodo electoral",
         "image_url": "https://www.infobae.com/resizer/v2/NFR5FKSA2BEH5LB3I7YAUJYYWY.jpg?auth=3bb732b40ec14fda34532fee3fe050e17c94f8aef99bf4339a16debf7a948bd3&height=1280&smart=true&width=1920",
         "tags": [
@@ -395,19 +98,6 @@ export default [
         "link": "https://www.infobae.com/espana/2025/06/24/los-5-trucos-definitivos-para-limpiar-el-parquet-y-que-no-pierda-su-brillo/",
         "date": "2025-06-24 16:49:22",
         "sentiment_score": 0.1583826094865799
-    },
-    {
-        "title": "Padre de tres marines es golpeado en la cabeza y detenido por ICE en California",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/20/media_thumb-link-4071476.webp?1750758006=",
-        "tags": [
-            "actualidad",
-            "ice",
-            "golpeado",
-            "marines"
-        ],
-        "link": "https://www.meneame.net/story/padre-tres-marines-golpeado-cabeza-detenido-ice-california",
-        "date": "2025-06-24 10:05:03",
-        "sentiment_score": -0.7614245023578405
     },
     {
         "title": "Beersheba, el último golpe mortal de Irán antes del alto el fuego",
@@ -7246,5 +6936,581 @@ export default [
         "link": "https://2001online.com/usa/internacionales/dia-de-la-independencia-actividades-culturales-gratuitas-en-washington-dc-por-el-4-de-julio-202562711420",
         "date": "2025-06-27 15:42:00",
         "sentiment_score": 0.8586109485477209
+    },
+    {
+        "title": "México inicia restricción a importación de mercancías producidas con trabajo forzoso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/mexico-inicia-restriccion-a-importacion-de-mercancias-producidas-con-trabajo-forzoso/",
+        "date": "2025-06-27 21:31:12",
+        "sentiment_score": -0.754372438415885
+    },
+    {
+        "title": "3-1. España supera con buena nota su último test antes de la Eurocopa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/27/3-1-espana-supera-con-buena-nota-su-ultimo-test-antes-de-la-eurocopa/",
+        "date": "2025-06-27 21:16:35",
+        "sentiment_score": 0.7566291280090809
+    },
+    {
+        "title": "La bolsa de São Paulo cae un 0,18 % semanal ante las divergencias por la política fiscal",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/la-bolsa-de-sao-paulo-cae-un-018-semanal-ante-las-divergencias-por-la-politica-fiscal/",
+        "date": "2025-06-27 21:16:13",
+        "sentiment_score": -0.0024645328521728516
+    },
+    {
+        "title": "Indra sube el 4,84 % en bolsa tras elevar Morgan Stanley un 118 % su precio objetivo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/indra-sube-el-484-en-bolsa-tras-elevar-morgan-stanley-un-118-su-precio-objetivo/",
+        "date": "2025-06-27 21:08:02",
+        "sentiment_score": 0.3550257980823517
+    },
+    {
+        "title": "Hereu avanza que \"está pronta la solución\" en la compraventa de Talgo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/hereu-avanza-que-esta-pronta-la-solucion-en-la-compraventa-de-talgo/",
+        "date": "2025-06-27 21:07:46",
+        "sentiment_score": 0.46871510334312916
+    },
+    {
+        "title": "El IBEX suma un 0,86 % en la semana tras el alto al fuego y las negociaciones comerciales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/el-ibex-suma-un-086-en-la-semana-tras-el-alto-al-fuego-y-las-negociaciones-comerciales/",
+        "date": "2025-06-27 21:07:29",
+        "sentiment_score": 0.02129305899143219
+    },
+    {
+        "title": "Temas del día de EFE Economía del viernes, 27 de junio de 2025 (19:00 horas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/temas-del-dia-de-efe-economia-del-viernes-27-de-junio-de-2025-1900-horas/",
+        "date": "2025-06-27 21:07:12",
+        "sentiment_score": 0.004816334694623947
+    },
+    {
+        "title": "Trump advierte que le gustaría acortar el plazo de llegada a nuevos acuerdos comerciales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/trump-advierte-que-le-gustaria-acortar-el-plazo-de-llegada-a-nuevos-acuerdos-comerciales/",
+        "date": "2025-06-27 21:06:55",
+        "sentiment_score": 0.12628206610679626
+    },
+    {
+        "title": "La economía paraguaya creció un 5,9 % interanual en el primer trimestre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/la-economia-paraguaya-crecio-un-59-interanual-en-el-primer-trimestre/",
+        "date": "2025-06-27 21:06:39",
+        "sentiment_score": 0.538023941218853
+    },
+    {
+        "title": "ONG: En México casi 40 millones de personas carecen de trabajo digno y salario suficiente",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/27/ong-en-mexico-casi-40-millones-de-personas-carecen-de-trabajo-digno-y-salario-suficiente/",
+        "date": "2025-06-27 21:06:23",
+        "sentiment_score": -0.7948630396276712
+    },
+    {
+        "title": "Universidad bunkerizada",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/06/25/LLERENA-U61806555434rIk-170x119@Hoy.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-universidad-bunkerizada-20250628222342-nts.html",
+        "date": "2025-06-27 20:24:18",
+        "sentiment_score": 0.011851847171783447
+    },
+    {
+        "title": "El circo de España",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/06/24/ibuprofeno-paracetamol-U82023804345PYr-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-jose-lopez-de-paz-circo-espana-20250628121254-nts.html",
+        "date": "2025-06-27 20:11:29",
+        "sentiment_score": -0.1295335441827774
+    },
+    {
+        "title": "Tregua macarena",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/06/24/ibuprofeno-paracetamol-U82023804345PYr-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-tregua-macarena-20250628220903-nts.html",
+        "date": "2025-06-27 20:09:04",
+        "sentiment_score": -0.10368186235427856
+    },
+    {
+        "title": "La ciudad Icónica",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/06/28/1498204901-R3c8AmF3lAhQ5cp2u8mWzJN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-ciudad-iconica-20250628122422-nts.html",
+        "date": "2025-06-27 20:08:11",
+        "sentiment_score": -0.05856728553771973
+    },
+    {
+        "title": "Prisas",
+        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/06/25/manifa-cadiz-marconi-U603397530940icB-U46528043403cNW-170x119@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jon-juaristi-prisas-20250628130734-nt.html",
+        "date": "2025-06-27 19:23:00",
+        "sentiment_score": -0.08638283610343933
+    },
+    {
+        "title": "Trump suspende las negociaciones comerciales con Canadá por su impuesto a las tecnológicas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/06/27/carney-trump-aranceles-kGfB-U701206431897shB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-suspende-negociaciones-comerciales-canada-impuesto-tecnologicas-20250627205344-nt.html",
+        "date": "2025-06-27 18:53:45",
+        "sentiment_score": -0.18198612332344055
+    },
+    {
+        "title": "Bolivia alerta ante la OEA que las movilizaciones promovidas por Evo Morales ponen en riesgo las elecciones",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/27/boliviaoea-RswcNQfKl3u8Uxrzoiu37QJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/bolivia-alerta-ante-oea-movilizaciones-promovidas-evo-20250627204003-nt.html",
+        "date": "2025-06-27 18:40:03",
+        "sentiment_score": -0.10604646801948547
+    },
+    {
+        "title": "Turull ridiculiza a Pumpido",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/06/24/ibuprofeno-paracetamol-U82023804345PYr-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-turull-ridiculiza-pumpido-20250628182401-nt.html",
+        "date": "2025-06-27 17:18:06",
+        "sentiment_score": -0.13102301955223083
+    },
+    {
+        "title": "Dumas, el 'Guernica' y nostalgia de UCD",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/06/27/250628TerceraBonet.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/juan-manuel-bonet-dumas-guernica-nostalgia-ucd-20250628124434-nt.html",
+        "date": "2025-06-27 17:11:18",
+        "sentiment_score": -0.05451366305351257
+    },
+    {
+        "title": "Chase Johnsey, director del Ballet de Barcelona: “‘Giselle’ es mi venganza”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JQCOGUL7DVDKBP3U2UVY46LE4Y.jpg?auth=ed7ac1b1c7d1cda332615630f604a8045ffbc06021166d92e1f97d6e6370890a&width=1200",
+        "tags": [
+            "danza",
+            "música",
+            "generalitat cataluña",
+            "conciertos",
+            "cataluña",
+            "ballet",
+            "acoso escolar",
+            "ballet nacional cuba",
+            "alicia alonso",
+            "baile",
+            "ayuntamiento barcelona",
+            "barcelona",
+            "bailarines"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-27/chase-johnsey-director-del-ballet-de-barcelona-giselle-es-mi-venganza.html",
+        "date": "2025-06-27 19:37:45",
+        "sentiment_score": 0.49026044458150864
+    },
+    {
+        "title": "Trump asegura que España cumplirá la meta del 5% de gasto militar: “Garantizado”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CSKPTR2Z7WLQQ2OG3VNOYF4IJM.jpg?auth=424ecaef6687aac71220701a0993f15469006493031918145d9cca28af8c820d&width=1200",
+        "tags": [
+            "donald trump",
+            "otan",
+            "estados unidos",
+            "cumbres internacionales",
+            "gasto militar",
+            "pedro sánchez",
+            "defensa",
+            "españa"
+        ],
+        "link": "https://elpais.com/internacional/2025-06-27/trump-asegura-que-espana-cumplira-la-meta-del-5-de-gasto-militar-garantizado.html",
+        "date": "2025-06-27 19:10:11",
+        "sentiment_score": -0.5866209268569946
+    },
+    {
+        "title": "PreZero abre en Barcelona la mayor planta de combustible sólido recuperado de España",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IMNR3Q4OYFATBH6MEHPNQNK74U.jpg?auth=fac5e48d0cc86aa6a7705d6cbc1a046d4f299bd7994c78164a702ba48d1fa10c&width=1200",
+        "tags": [
+            "residuos",
+            "cataluña",
+            "consorci zona franca barcelona",
+            "combustibles",
+            "pere navarro",
+            "reciclaje"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-27/prezero-abre-en-barcelona-la-mayor-planta-de-combustible-solido-recuperado-de-espana.html",
+        "date": "2025-06-27 17:38:03",
+        "sentiment_score": 0.4157710187137127
+    },
+    {
+        "title": "La familia de Guillem Agulló y la Generalitat chocan por el futuro del premio antifascista",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VJR57KR4NEPSCDQHLNAKZTWIJU.jpg?auth=de4505ff015ee00774f8fdfafe1aab72282481a87e414436536bd29ab3436999&width=1200",
+        "tags": [
+            "cataluña",
+            "premios",
+            "generalitat cataluña",
+            "fascismo",
+            "delitos odio"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-27/la-familia-de-guillem-agullo-y-la-generalitat-chocan-por-el-futuro-del-premio-antifascista.html",
+        "date": "2025-06-27 17:33:33",
+        "sentiment_score": 0.2403568997979164
+    },
+    {
+        "title": "Diez desalojos a la semana en el hotel okupa de San Blas: \"Ojalá la semana que viene estemos en un lugar mejor, el acuerdo es la única salida digna\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/3366d1550b5046b3c8d8c8e7f8638996/crop/162x0/1509x898/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/27/17510516810638.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "sucesos",
+            "artículos luis f. durán"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/06/28/685eda9bfc6c83312f8b4575.html",
+        "date": "2025-06-27 22:15:02",
+        "sentiment_score": 0.0454229936003685
+    },
+    {
+        "title": "La violencia homófoba sigue viva en Madrid con 239 ataques al año: \"La mayoría de agresores son hombres blancos heterosexuales\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/94db23a5382faacccd78306fd9af61a5/crop/1144x443/3072x1728/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/26/17509521736241.jpg",
+        "tags": [
+            "artículos daniel j. ollero"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/06/28/685d6336fdddff1c298b4576.html",
+        "date": "2025-06-27 22:15:01",
+        "sentiment_score": -0.23493504524230957
+    },
+    {
+        "title": "Mundial de Clubes: Boca y River golearon en las tribunas, pero decepcionaron en el juego",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/14df9a5/2147483647/strip/true/crop/2474x1299+0+178/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F64%2Fa0%2F0a59d7733cc191bb04c2d05b7595%2F5b92b50e49cf43eaadd5134335f20da4",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-06-27/mundial-de-clubes-boca-y-river-golearon-en-las-tribunas-pero-decepcionaron-en-el-juego",
+        "date": "2025-06-27 22:10:53",
+        "sentiment_score": 0.08948829770088196
+    },
+    {
+        "title": "De la crisis del Estatut a la amnistía, 15 años de soberanismo y 'procés': \"El gran culpable de aquello fue Zapatero\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/2d636e4b5e52228ae48ad8e7b40ce5c7/crop/21x0/2541x1680/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/27/17510438762585.jpg",
+        "tags": [
+            "josé luis rodríguez zapatero",
+            "cataluña",
+            "artículos iñaki ellakuría"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/06/27/685ece8dfdddffd7458b45a4.html",
+        "date": "2025-06-27 21:58:35",
+        "sentiment_score": -0.05082163214683533
+    },
+    {
+        "title": "La figura del fútbol europeo que criticó el Mundial de Clubes por la falta de vacaciones: “Es un derecho del jugador”",
+        "image_url": "https://www.infobae.com/resizer/v2/GYXSTASEKRH2FHNYI5JO7ONTAI.jpg?auth=310dcf53e04722d7808526fec2cd8a8964022745af477a532b6639fa377abbee&height=5558&smart=true&width=8336",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/06/27/la-figura-del-futbol-europeo-que-critico-el-mundial-de-clubes-por-la-falta-de-vacaciones-es-un-derecho-del-jugador/",
+        "date": "2025-06-27 21:39:26",
+        "sentiment_score": -0.9056546594947577
+    },
+    {
+        "title": "Real Madrid, Manchester City y Bayern de Múnich los que más recaudaron en el Mundial de Clubes",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/06/AP25169708209302-e1751059622198.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "real madrid",
+            "bayern de munich",
+            "mundial de clubes",
+            "manchester city"
+        ],
+        "link": "https://eldiariony.com/2025/06/27/real-madrid-manchester-city-y-bayern-de-munich-los-que-mas-recaudaron-en-el-mundial-de-clubes/",
+        "date": "2025-06-27 21:28:52",
+        "sentiment_score": 0.3021004684269428
+    },
+    {
+        "title": "Andalucía rechaza por «inadmisible» el reparto de menores inmigrantes",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/06/28/menas-kNbE-U2302217117049FIH-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/andalucia/andalucia-rechaza-inadmisible-reparto-menores-inmigrantes-20250628232644-nt.html",
+        "date": "2025-06-27 21:26:44",
+        "sentiment_score": -0.5458941645920277
+    },
+    {
+        "title": "Attaoui, Battocletti y Femke Bol hacen vibrar a Vallerhemoso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/27/attaoui-battocletti-y-femke-bol-hacen-vibrar-a-vallerhemoso/",
+        "date": "2025-06-27 21:23:41",
+        "sentiment_score": 0.32069018483161926
+    },
+    {
+        "title": "Primera fase del Mundial de Clubes termina con escaso público en las tribunas, sin sorpresas y pocas emociones",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/WHT7GD24LZFGBF4S5XBCSHG7CQ.JPG?auth=970b74d62e2ea9e5006300fc61b1b52c58bdd852bd4e47f7a03a5477b0f24b3a&height=823&smart=true&width=1234",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/deportes/2025/06/27/primera-fase-del-mundial-de-clubes-termina-con-escaso-publico-en-las-tribunas-sin-sorpresas-y-pocas-emociones/",
+        "date": "2025-06-27 21:17:35",
+        "sentiment_score": -0.10521216690540314
+    },
+    {
+        "title": "David Alaba sufre una nueva lesión durante el Mundial",
+        "image_url": "https://www.infobae.com/resizer/v2/JD4S5XHGEFHL3ICYYVPIYA7VYY.jpg?auth=8e0dc75294114f35d27cde23ced6a95c5e8bfdb60990e094153394ab261d8044&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/27/david-alaba-sufre-una-nueva-lesion-durante-el-mundial/",
+        "date": "2025-06-27 20:49:57",
+        "sentiment_score": -0.7963592214509845
+    },
+    {
+        "title": "Aitana Bonmatí, ingresada con Meningitis a seis días del debut de España en la Eurocopa",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/06/28/685f151fd9870.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/aitana-bonmati-ingresada-meningitis-seis-dias-debut-espana-eurocopa-20250628_3177543.html",
+        "date": "2025-06-27 22:16:08",
+        "sentiment_score": -0.15002873539924622
+    },
+    {
+        "title": "La democracia son los padres",
+        "image_url": "https://s.libertaddigital.com/2025/06/27/pumpido-montalban-270625.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-06-28/diego-gonzalez-la-democracia-son-los-padres-7270866/",
+        "date": "2025-06-27 22:12:52",
+        "sentiment_score": -0.8300433866679668
+    },
+    {
+        "title": "ERC apremia al PSOE a \"concretar\" la nueva financiación esta semana porque \"Montero ha echado el freno de mano\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/0e26a8b15a0f0736155a31c01e2db5d3/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/27/17510531199260.jpg",
+        "tags": [
+            "artículos víctor mondelo",
+            "salvador illa",
+            "amnistía"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/06/28/685edea1e85ece76548b458a.html",
+        "date": "2025-06-27 22:10:32",
+        "sentiment_score": -0.691428367048502
+    },
+    {
+        "title": "Stada potencia su 'hub' de Barcelona y apuesta por el autocuidado",
+        "image_url": "https://phantom-expansion.uecdn.es/4fd5aed255522668c597bfecc560a414/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/27/17510529513521.jpg",
+        "tags": [
+            "artículos rut font>",
+            "empresas>",
+            "cataluña>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2025/06/28/685ef28ee5fdead1718b45ca.html",
+        "date": "2025-06-27 22:10:00",
+        "sentiment_score": 0.5739450417459011
+    },
+    {
+        "title": "Messi y sus amigos de Inter Miami se reencuentran con Luis Enrique y PSG en el Mundial de Clubes",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/9552e4f/2147483647/strip/true/crop/2088x1096+0+148/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F05%2F4d%2Faef342b3c1166259c2da3133b493%2Fff093924ba1d42ddbb6e14b7333fc771",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-06-27/messi-y-sus-amigos-de-inter-miami-se-reencuentran-con-luis-enrique-y-psg-en-el-mundial-de-clubes",
+        "date": "2025-06-27 22:08:11",
+        "sentiment_score": -0.17608755081892014
+    },
+    {
+        "title": "60 años de Barraca: el lugar del debut español de The Stone Roses entre 'trippies' y mescalina",
+        "image_url": "https://phantom-elmundo.uecdn.es/4b8a8d590050023c9cd2b40883abb734/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/19/17503450217610.jpg",
+        "tags": [
+            "valencia"
+        ],
+        "link": "https://www.elmundo.es/cronica/2025/06/28/68542378e4d4d8ee5f8b4578.html",
+        "date": "2025-06-27 22:07:56",
+        "sentiment_score": -0.008434385061264038
+    },
+    {
+        "title": "Desalojan la estación de Sants por una posible amenaza de bomba",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/06/12/estacion-de-sants.r_d.1421-1681.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/noticia/5726367/0/desalojan-estacion-sants-por-una-amenza-bomba/",
+        "date": "2025-06-27 22:06:07",
+        "sentiment_score": -0.2098938263952732
+    },
+    {
+        "title": "\"Cuatro votos\" para una moción de censura a Sánchez: así respira el Congreso frente a las cuentas de Feijóo",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/06/feijoo-pp-congresodiputados-1440x808.jpg",
+        "tags": [
+            "alberto núñez feijóo",
+            "españa",
+            "moción de censura",
+            "pedro sánchez",
+            "gobierno de españa",
+            "partido popular (pp)"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/06/28/cuatro-votos-para-una-mocion-de-censura-a-sanchez-asi-respira-el-congreso-frente-a-las-cuentas-de-feijoo/",
+        "date": "2025-06-27 22:05:27",
+        "sentiment_score": -0.33033525198698044
+    },
+    {
+        "title": "OTAN no, bases fuera",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/06/27/685eff93e3c06.jpeg",
+        "tags": [
+            "historia contemporánea"
+        ],
+        "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20250628/10835667/otan-bases-fuera.html",
+        "date": "2025-06-27 22:05:00",
+        "sentiment_score": -0.17813868820667267
+    },
+    {
+        "title": "Incendios y pestilencias",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/01/18/5fa522e316f68.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20250628/10835337/incendios-pestilencias.html",
+        "date": "2025-06-27 22:05:00",
+        "sentiment_score": -0.8831338575109839
+    },
+    {
+        "title": "Ron De Santis revela nuevos detalles de \"Alligator Alcatráz\": podría comenzar a recibir inmigrantes el 1 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751062585446.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ron-de-santis-revela-nuevos-detalles-de-alligator-alcatraz-podria-comenzar-a-recibir-inmigrantes-el-1-de-julio-202562718120",
+        "date": "2025-06-27 22:12:00",
+        "sentiment_score": -0.48193375766277313
+    },
+    {
+        "title": "\"Messi tardó en brillar\": Brad Pitt causa revuelo con declaraciones sobre el astro argentino",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751062898545.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/messi-tardo-en-brillar-brad-pitt-causa-revuelo-con-declaraciones-sobre-el-astro-argentino-20256271900",
+        "date": "2025-06-27 22:09:22",
+        "sentiment_score": -0.770186509937048
+    },
+    {
+        "title": "Fortnite dará reembolsos a jugadores que denunciaron facturación engañosa: esta es la fecha límite",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751034671089.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/curiosidades/fortnite-dara-reembolsos-a-jugadores-que-denunciaron-facturacion-enganosa-esta-es-la-fecha-limite-20256271850",
+        "date": "2025-06-27 22:05:00",
+        "sentiment_score": 0.0727805532515049
+    },
+    {
+        "title": "ICE detiene a niño con cáncer en la puerta de un juzgado en Los Ángeles: vea la reacción de su madre",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751060217124.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ice-detiene-a-nino-con-cancer-en-la-puerta-de-un-juzgado-en-los-angeles-vea-la-reaccion-de-su-madre-20256271800",
+        "date": "2025-06-27 22:00:00",
+        "sentiment_score": -0.443324975669384
+    },
+    {
+        "title": "Movistar, Digitel y Movilnet ofrecen llamadas y SMS gratis en zonas afectadas por las lluvias: conozca los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751058959445.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/movistar-digitel-y-movilnet-ofrecen-llamadas-y-sms-gratis-en-zonas-afectadas-por-las-lluvias-conozca-los-detalles-202562717550",
+        "date": "2025-06-27 21:55:00",
+        "sentiment_score": 0.6014449968934059
+    },
+    {
+        "title": "\"APXGP\": la nueva apuesta de Hollywood junto a Brad Pitt en la Fórmula 1",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751060527958.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/apxgp-la-nueva-apuesta-de-hollywood-junto-a-brad-pitt-en-la-formula-1-202562718300",
+        "date": "2025-06-27 21:34:03",
+        "sentiment_score": 0.38022649474442005
+    },
+    {
+        "title": "Corte Suprema falla a favor de Trump y sus políticas más polémicas: ¿Qué medidas contra inmigrantes pueden activarse?",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751059100908.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/corte-suprema-falla-a-favor-de-trump-y-sus-politicas-mas-polemicas-que-medidas-contra-inmigrantes-pueden-activarse--202562717300",
+        "date": "2025-06-27 21:30:00",
+        "sentiment_score": 0.23079411685466766
+    },
+    {
+        "title": "Precio del Euro BCV para el 30 de junio: así abrirá la semana la moneda europea",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751059853265.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-euro-bcv-para-el-30-de-junio-asi-abrira-la-semana-la-moneda-europea-202562717240",
+        "date": "2025-06-27 21:24:00",
+        "sentiment_score": 0.01993415877223015
+    },
+    {
+        "title": "Precio del dólar BCV para el 30 de junio: así abrirá la semana la moneda estadounidense",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751059106930.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-bcv-para-el-30-de-junio-asi-abrira-la-semana-la-moneda-estadounidense-202562717120",
+        "date": "2025-06-27 21:12:00",
+        "sentiment_score": 0.01236969605088234
+    },
+    {
+        "title": "Wanda Nara vs. Mauro Icardi: nuevo conflicto por la custodia de sus hijas",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751059470776.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/wanda-nara-vs-mauro-icardi-nuevo-conflicto-por-la-custodia-de-sus-hijas-20256271800",
+        "date": "2025-06-27 21:04:22",
+        "sentiment_score": -0.7958305981010199
     }
 ];
