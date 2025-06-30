@@ -100,16 +100,6 @@ export default [
         "sentiment_score": -0.04069313406944275
     },
     {
-        "title": "¿Quién es alias \"Fito\"? Estos son los hechos que han marcado su vida criminal en Ecuador",
-        "image_url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_774,h_568/https://lapatilla.com/wp-content/uploads/2025/06/Screenshot_94-1.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://lapatilla.com/2025/06/26/quien-es-alias-fito-estos-son-los-hechos-que-han-marcado-su-vida-criminal-en-ecuador/",
-        "date": "2025-06-26 11:41:39",
-        "sentiment_score": -0.8641679836437106
-    },
-    {
         "title": "Los minoritarios de Red Eléctrica exigen transparencia a Beatriz Corredor en la gestión del apagón",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/06/26/BeatrizCorredor-RSqIhsBI8Z7QLNIimQxWr7O-1200x840@diario_abc.jpg",
         "tags": [
@@ -191,26 +181,6 @@ export default [
         "link": "https://www.abc.es/internacional/lideres-ue-reafirman-compromiso-disparar-gasto-defensa-20250626165914-nt.html",
         "date": "2025-06-26 14:59:35",
         "sentiment_score": -0.00584760308265686
-    },
-    {
-        "title": "El legado de Noel que permite seguir viviendo a Samuel: «Doy las gracias a este tratamiento»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/06/26/cancer-cerebral-Ripxbd9EgKSEQeOMjK8xHPL-1200x840@diario_abc.JPG",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/legado-noel-permite-seguir-viviendo-samuel-doy-20250626154114-nt.html",
-        "date": "2025-06-26 13:48:01",
-        "sentiment_score": -0.14290748536586761
-    },
-    {
-        "title": "Una mayoría del Congreso exige ya al Gobierno que baje el IRPF para acabar con el chollo recaudatorio de la inflación",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/06/26/diputadosjuntscongreso-RUYVPSWATN73il3hMqpM6WJ-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/mayoria-congreso-exige-gobierno-baje-irpf-acabar-20250626152621-nt.html",
-        "date": "2025-06-26 13:27:55",
-        "sentiment_score": -0.06486338376998901
     },
     {
         "title": "Israel acusa a Sánchez de liderar una “cruzada antisraelí” y de estar “en el lado equivocado de la historia”",
@@ -7363,5 +7333,325 @@ export default [
         "link": "https://2001online.com/servicios/asi-bajas-de-nivel-y-pierdes-puntos-en-cashea-disminuye-tu-linea-de-compra-202562916300",
         "date": "2025-06-29 20:30:00",
         "sentiment_score": -0.5018819458782673
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Barcelona?",
+        "image_url": "https://www.infobae.com/resizer/v2/3MU2HKNCBNFW5FQLAHAU25HETQ.jpg?auth=4de3ce9ef5c48955971146a6671f88332ed1e49013c5d4824a26309a4cc45985&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/30/cual-es-la-temperatura-promedio-en-barcelona/",
+        "date": "2025-06-30 01:17:44",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Top de las mejores películas de Prime Video en España",
+        "image_url": "https://www.infobae.com/resizer/v2/T5GRYRGLF5CTTODZNO37SASCCI.jpg?auth=05bbfa9c2f2eb1d2ab2642005b4137141bc74068ce3c8c285e27b747d1680e80&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/06/29/top-de-las-mejores-peliculas-de-prime-video-en-espana/",
+        "date": "2025-06-29 23:31:17",
+        "sentiment_score": 0.1980811133980751
+    },
+    {
+        "title": "Ranking de Netflix en España: estas son las películas favoritas del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/OF5EMOTUMFDI3PH7EMHYN7H72E.jpg?auth=020a872697c6a572b54c51b637fb0725d510834f7efb3ca1d0b530a138a5004c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/29/ranking-de-netflix-en-espana-estas-son-las-peliculas-favoritas-del-momento/",
+        "date": "2025-06-29 23:30:54",
+        "sentiment_score": -0.12405925989151001
+    },
+    {
+        "title": "Canciones de K-pop en iTunes España para escuchar hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/A4YD263FHRD7NI3APILFFDKBP4.jpg?auth=0820a7bac32d87558aad9d98dc33ea718a5cffe2c4d43337554ca135afe7c7b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/29/canciones-de-k-pop-en-itunes-espana-para-escuchar-hoy/",
+        "date": "2025-06-29 23:15:25",
+        "sentiment_score": 0.04990515112876892
+    },
+    {
+        "title": "De Adolfo Suárez a Anna Ivanovic o Joseph Fiennes: un vecindario de lo más popular",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3363895.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/06/30/2416417/son-vida-vecinos-mas-conocidos-son-vida.html",
+        "date": "2025-06-30 02:00:01",
+        "sentiment_score": -0.10260532796382904
+    },
+    {
+        "title": "Mapa racinguista 2025/26: los 20 viajes que ningún aficionado se quiere perder",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/06/29/2025062911105231580.jpg",
+        "tags": [
+            "racing de santander"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/racing-santander/mapa-racinguista-2025-26-20-viajes-que-ningun-aficionado-quiere-perder/20250630040000565163.html",
+        "date": "2025-06-30 02:00:00",
+        "sentiment_score": 0.2265039160847664
+    },
+    {
+        "title": "El Momento Güler: del ostracismo con Ancelotti al brillo con Xabi Alonso",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/25/2025022508372414751.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/momento-guler-ostracismo-ancelotti-brillo-xabi-alonso/20250630035133348923.html",
+        "date": "2025-06-30 01:51:33",
+        "sentiment_score": 0.47905075550079346
+    },
+    {
+        "title": "Muere Paco Pérez Durán, exjugador del Castilla y activista contra la ELA, a los 63 años",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/30/2025063003350796873.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/muere-paco-perez-duran-exjugador-castilla-activista-ela-63-anos/20250630033543348921.html",
+        "date": "2025-06-30 01:35:43",
+        "sentiment_score": 0.3057618513703346
+    },
+    {
+        "title": "Críticas por la presencia de filiales en el fútbol de élite: 'Distorsionan las ligas'",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/06/fili_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/criticas-por-presencia-filiales-futbol-elite-distorsionan-ligas",
+        "date": "2025-06-30 01:00:00",
+        "sentiment_score": -0.8555942252278328
+    },
+    {
+        "title": "Los fondos se enrocan en EEUU aunque son conscientes de que Trump resta fuerza al país",
+        "image_url": "https://s1.elespanol.com/2025/06/27/actualidad/1003743824870_256852782_1706x960.jpg?contentId=1003743824870",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20250630/fondos-enrocan-eeuu-conscientes-trump-resta-fuerza-pais/1003743824844_0.html",
+        "date": "2025-06-30 00:41:43",
+        "sentiment_score": -0.5177758783102036
+    },
+    {
+        "title": "'Hello, Metro speaking': el suburbano de Madrid lanza un chat con Inteligencia Artificial para resolver dudas al momento",
+        "image_url": "https://s1.elespanol.com/2024/01/30/actualidad/828927480_239532111_1706x960.jpg?contentId=828927480",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20250630/hello-metro-speaking-suburbano-madrid-lanza-chat-inteligencia-artificial-resolver-dudas-momento/1003743823979_0.html",
+        "date": "2025-06-30 00:29:19",
+        "sentiment_score": 0.14607218280434608
+    },
+    {
+        "title": "Jacobo Bergareche tensiona RTVE por sus ataques al mundo de la cultura en España",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/06/bergareche_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/jacobo-bergareche-tensiona-rtve-por-ataques-mundo-cultura-espana",
+        "date": "2025-06-30 00:00:00",
+        "sentiment_score": -0.7252230402082205
+    },
+    {
+        "title": "Presentación oficial en la provincia de Cádiz",
+        "image_url": "https://static.grupojoly.com/clip/77210acf-b00b-46be-a70f-edd786d205f5_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europasur.es/algeciras/guardia-civil-presentacion-oficial-provincia-cadiz_0_2004240726.html",
+        "date": "2025-06-29 23:56:09",
+        "sentiment_score": 0.8534025326371193
+    },
+    {
+        "title": "Tormentas y mareas",
+        "image_url": "https://s.libertaddigital.com/2025/06/27/pumpido-montalban-270625.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-06-30/agapito-maestre-tormentas-y-mareas-7271188/",
+        "date": "2025-06-29 23:09:17",
+        "sentiment_score": -0.3837137296795845
+    },
+    {
+        "title": "Entrerríos, un apellido para la historia: \"Es todo un orgullo\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/24bc8aaa-6741-4928-bd6c-19fc82ee1cdf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/2025/06/30/entrerrios-apellido-historia-orgullo-119192956.html",
+        "date": "2025-06-30 02:04:59",
+        "sentiment_score": 0.32773980498313904
+    },
+    {
+        "title": "Esta es la clave para que \"Los juegos del hambre\" recalasen en Asturias: agilidad en la gestión",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1c01afe2-0b01-413d-8647-6ac813a0d2c1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2025/06/30/clave-juegos-hambre-recalasen-asturias-119192579.html",
+        "date": "2025-06-30 02:04:59",
+        "sentiment_score": -0.09258387982845306
+    },
+    {
+        "title": "Así es la localidad de artesanos donde creció la mallorquina Cata Coll: la portera de la selección española de fútbol que conquistó el mundo",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3365817.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/06/30/2417475/asi-localidad-artesanos-donde-crecio-mallorquina-cata-coll-portera-seleccion-espanola-futbol-conquisto-mundo.html",
+        "date": "2025-06-30 02:00:01",
+        "sentiment_score": 0.5358916595578194
+    },
+    {
+        "title": "Jordi Juan en Menorca: «Con los líderes actuales, el consenso en nuestro país no será posible»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3369029.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/06/30/2419225/los-lideres-actuales-consenso-nuestro-pais-sera-posible.html",
+        "date": "2025-06-30 02:00:01",
+        "sentiment_score": 0.0013985037803649902
+    },
+    {
+        "title": "Dos visiones de lo mismo",
+        "image_url": "https://uh.gsstatic.es/autor/pau-faner/11.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/06/30/2419267/dos-visiones-mismo.html",
+        "date": "2025-06-30 02:00:01",
+        "sentiment_score": 0.03060220181941986
+    },
+    {
+        "title": "“No perdió Leo, perdió Inter Miami que juega con estatuas”: el fuerte mensaje de una leyenda que jugó con Messi",
+        "image_url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_566,h_381/https://lapatilla.com/wp-content/uploads/2025/06/Captura-de-pantalla_29-6-2025_211542_www.infobae.com_.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://lapatilla.com/2025/06/29/no-perdio-leo-perdio-inter-miami-que-juega-con-estatuas-el-fuerte-mensaje-de-una-leyenda-que-jugo-con-messi/",
+        "date": "2025-06-30 01:16:18",
+        "sentiment_score": -0.47435373812913895
+    },
+    {
+        "title": "Santos Cerdán negará en el Supremo la autenticidad de los audios de Koldo que grabaron el reparto de presuntas 'mordidas'",
+        "image_url": "https://s1.elespanol.com/2025/06/11/actualidad/1003743799676_256887898_1706x960.jpg?contentId=1003743799676",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20250630/santos-cerdan-negara-supremo-autenticidad-audios-koldo-grabaron-reparto-presuntas-mordidas/1003743825753_0.html",
+        "date": "2025-06-30 01:05:54",
+        "sentiment_score": -0.8522079605609179
+    },
+    {
+        "title": "Jordi Labanda, Ricardo Cavolo y Ana Jarén muestran a través de su arte las conexiones invisibles del síndrome cardiovascular-renal-metabólico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.granadahoy.com/salud/actualidad/jordi-labanda-ricardo-cavolo-ana_0_2004251889.html",
+        "date": "2025-06-30 01:00:50",
+        "sentiment_score": 0.46369660645723343
+    },
+    {
+        "title": "Clara Vegas y Emely Barile graban material juntas y así reaccionan los fans",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751249887135.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/clara-vegas-y-emely-barile-graban-material-juntas-y-asi-reaccionan-los-fans-202562922120",
+        "date": "2025-06-30 02:12:00",
+        "sentiment_score": -0.3415410444140434
+    },
+    {
+        "title": "Colapsa el techo de una vivienda en Caracas: quedó en situación de riesgo",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751249263881.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/colapsa-el-techo-de-una-vivienda-en-caracas-quedo-en-situacion-de-riesgo-20256292280",
+        "date": "2025-06-30 02:08:00",
+        "sentiment_score": -0.13462850078940392
+    },
+    {
+        "title": "Osmel Sousa no se queda callado y le envía tajante mensaje a Prince Julio César: Yo me pongo lo que me dé la gana",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751249224196.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/osmel-sousa-no-se-queda-callado-y-le-envia-tajante-mensaje-a-prince-julio-cesar-yo-me-pongo-lo-que-me-de-la-gana-20256292230",
+        "date": "2025-06-30 02:03:00",
+        "sentiment_score": 0.023237675428390503
+    },
+    {
+        "title": "Mascarilla natural para hidratar la piel: así puedes prepararla con ingredientes económicos",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751247917514.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/mascarilla-natural-para-hidratar-la-piel-asi-puedes-prepararla-con-ingredientes-economicos-20256292200",
+        "date": "2025-06-30 02:00:00",
+        "sentiment_score": -0.7890579234808683
+    },
+    {
+        "title": "Predicciones de la semana del 30 de junio al 6 de julio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-30-de-junio-al-6-de-julio-20256292200",
+        "date": "2025-06-30 02:00:00",
+        "sentiment_score": -0.23977458477020264
+    },
+    {
+        "title": "Aseguran que ICE usa tecnología de reconocimiento facial con IA para identificar migrantes: así funciona",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751249100660.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/aseguran-que-ice-usa-tecnologia-de-reconocimiento-facial-con-ia-para-identificar-migrantes-asi-funciona-202562921570",
+        "date": "2025-06-30 01:57:00",
+        "sentiment_score": 0.046238310635089874
+    },
+    {
+        "title": "Restituyen servicios de telecomunicaciones en Mérida: Cantv continúa instalaciones de fibra óptica en varios sectores",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751248517840.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/restituyen-servicios-de-telecomunicaciones-en-merida-cantv-continua-instalaciones-de-fibra-optica-en-varios-sectores-202562921550",
+        "date": "2025-06-30 01:55:00",
+        "sentiment_score": 0.07236279547214508
+    },
+    {
+        "title": "Salma Hayek revela secreto casero para limpiar el rostro: piel lozana a los 58 años con la receta de su abuela",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751243034507.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/salma-hayek-revela-secreto-casero-para-limpiar-el-rostro-piel-lozana-a-los-58-anos-con-la-receta-de-su-abuela-202562921350",
+        "date": "2025-06-30 01:35:00",
+        "sentiment_score": -0.6736624874174595
+    },
+    {
+        "title": "Camilo estrena \"Maldito ChatGPT\" cuestionando influencia de IA en las relaciones amorosas",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751246849784.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/camilo-estrena-maldito-chatgpt-cuestionando-influencia-de-ia-en-las-relaciones-amorosas-202562921250",
+        "date": "2025-06-30 01:25:00",
+        "sentiment_score": 0.261061929166317
+    },
+    {
+        "title": "NBA: LeBron James quiere extender su reinado con los Lakers por esta millonaria cifra",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751239811476.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/nba-lebron-james-quiere-extender-su-reinado-con-los-lakers-por-esta-millonaria-cifra-202562921150",
+        "date": "2025-06-30 01:15:00",
+        "sentiment_score": 0.21782433614134789
     }
 ];
