@@ -1,263 +1,5 @@
 export default [
     {
-        "title": "Estos son los cuatro documentos que debes pedir “sí o sí” si vas a comprar una vivienda, según una experta: “Ni se te ocurra comprar un piso sin revisar esto”",
-        "image_url": "https://www.infobae.com/resizer/v2/ISJVFJZWXBA7DLLHMGE5CVDIGM.png?auth=7e3edab6d72325507ad7c0b4fdb6475efdf3330a142666ef3ac150d6835f6b4a&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/27/estos-son-los-cuatro-documentos-que-debes-pedir-si-o-si-si-vas-a-comprar-una-vivienda-segun-una-experta-ni-se-te-ocurra-comprar-un-piso-sin-revisar-esto/",
-        "date": "2025-06-27 06:23:46",
-        "sentiment_score": -0.05479082465171814
-    },
-    {
-        "title": "El Congreso rinde este viernes homenaje a las víctimas del terrorismo con la ausencia de Vox y principales asociaciones",
-        "image_url": "https://www.infobae.com/resizer/v2/QJHZZNPCGZF3XKHAGV7LOWP5EA.jpg?auth=d691bab31ebdaa42db1a5648f2e10e5b90a17008e9288ca97814d3844526311e&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/06/27/el-congreso-rinde-este-viernes-homenaje-a-las-victimas-del-terrorismo-con-la-ausencia-de-vox-y-principales-asociaciones/",
-        "date": "2025-06-27 06:23:05",
-        "sentiment_score": -0.6727092768996954
-    },
-    {
-        "title": "Más de 375.000 niños en España se quedan solos en casa frente al móvil sin presencia de un adulto, según Educo",
-        "image_url": "https://www.infobae.com/resizer/v2/QTBB6EU52JBE3GIPYSUS5C3XEQ.jpg?auth=850d1fd9edcc0b01dd1d6093ea9b27f218a7a9e3f968e627ea412d72e243b1b9&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/06/27/mas-de-375000-ninos-en-espana-se-quedan-solos-en-casa-frente-al-movil-sin-presencia-de-un-adulto-segun-educo/",
-        "date": "2025-06-27 06:19:11",
-        "sentiment_score": -0.7107711490243673
-    },
-    {
-        "title": "Esta es la multa a la que te enfrentas si cargas tu coche eléctrico por la ventana",
-        "image_url": "https://www.infobae.com/resizer/v2/AV5PO2KCHZEFLFFMW4V47SPIYA.jpg?auth=18c13e4f88bce9f99b2bd6ba2b0db38509abf75d51bbef0ed2c157a4d4ac7edd&height=4000&smart=true&width=6000",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/27/esta-es-la-multa-a-la-que-te-enfrentas-si-cargas-tu-coche-electrico-por-la-ventana/",
-        "date": "2025-06-27 06:11:21",
-        "sentiment_score": -0.8060978390276432
-    },
-    {
-        "title": "Cuándo es el Día del Orgullo",
-        "image_url": "https://www.infobae.com/resizer/v2/PA4PNCSWHNE6HAUVQ5IXKY5YA4.jpg?auth=bedaa8e0097b217b86839948fd8d32656a510c94fe4fe5a329e7050ece67097e&height=3143&smart=true&width=4714",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/27/cuando-es-el-dia-del-orgullo/",
-        "date": "2025-06-27 06:02:53",
-        "sentiment_score": 0.09826990962028503
-    },
-    {
-        "title": "Las 12 claves para tener un sueño saludable, según la ciencia",
-        "image_url": "https://www.infobae.com/resizer/v2/WOL3CGE25NCJ5DHX5E7KBT4XPE.jpg?auth=a01290fe68524d113a53c56cea7e7011bffe871351681855cacff5ee33960b91&height=4000&smart=true&width=6000",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/06/27/las-12-claves-para-tener-un-sueno-saludable-segun-la-ciencia/",
-        "date": "2025-06-27 06:00:01",
-        "sentiment_score": 0.5756783373653889
-    },
-    {
-        "title": "Madrid refuerza su posición como capital mundial de la música en directo",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/24/ConciertosMadrid-Rbgjz1DpgNhpQRVxXtoGm9I-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/madrid-refuerza-posicion-capital-mundial-musica-directo-20250624191511-nt.html",
-        "date": "2025-06-27 06:06:11",
-        "sentiment_score": -0.026134639978408813
-    },
-    {
-        "title": "Mazón pide un “plan exhaustivo” para recortar gastos a toda las consejerías",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GHE5OCQDI6NFQ4QES6IPKCRZP4.jpg?auth=bb5aa0e4db3e9fdf4b466d02250fafa5b17777e5941aa08b5e623363c2861d51&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "carlos mazón",
-            "generalitat valenciana",
-            "inundaciones dana octubre 2024",
-            "dana",
-            "hacienda pública"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-06-27/mazon-pide-un-plan-exhaustivo-para-recortar-gastos-a-toda-las-consejerias.html",
-        "date": "2025-06-27 05:32:08",
-        "sentiment_score": 0.08156077563762665
-    },
-    {
-        "title": "Las comunidades debaten el real decreto que detalla el proceso para reubicar a los menores migrantes",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5e14e1d4-7f7f-41cc-b3d1-19182ec3ec1e_16-9-aspect-ratio_default_0_x2284y1241.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.deia.eus/actualidad/sociedad/2025/06/27/comunidades-debaten-real-decreto-detalla-9812145.html",
-        "date": "2025-06-27 06:34:03",
-        "sentiment_score": 0.14407030120491982
-    },
-    {
-        "title": "\"Máximas superiores a los 42o C\": la primera ola de calor del verano llega ya a España y la Aemet activa el nivel naranja en estas zonas",
-        "image_url": "https://images.ecestaticos.com/Vo-kEkqi9qJKKQABI51l-jjN3rk=/0x0:630x500/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F60c%2F010%2Fe79%2F60c010e79001a4d1a7529eb2dbaf59ec.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elconfidencial.com/espana/2025-06-27/1qrt-maximas-superiores-42-grados-primera-ola-calor-verano-llega-espana-aemet-activa-nivel-naranja-zonas_4160554/",
-        "date": "2025-06-27 06:33:00",
-        "sentiment_score": 0.33591893315315247
-    },
-    {
-        "title": "El teatro que no te puedes perder en julio",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/06/26/las-cinco-de-julio.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/el-teatro-te-puedes-perder-julio-1.html",
-        "date": "2025-06-27 06:32:33",
-        "sentiment_score": -0.00017189979553222656
-    },
-    {
-        "title": "Roberto Brasero alegra a todas estas zonas: la ola de calor no va a llegar allí",
-        "image_url": "https://edatv.news/filesedc/uploads/image/post/roberto-brasero-calor-sol-abanico_1200_800.webp",
-        "tags": [
-            "top"
-        ],
-        "link": "https://edatv.news/actualidad/roberto-brasero-alegria-zonas-no-ola-calor",
-        "date": "2025-06-27 06:31:00",
-        "sentiment_score": -0.257608063519001
-    },
-    {
-        "title": "Un total de 22 provincias en aviso por calor, con nivel naranja en Andalucía",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250627082407_120.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-tiempo-hoy-espana-27-junio-2025-20250627082407.html",
-        "date": "2025-06-27 06:24:07",
-        "sentiment_score": -0.40946582704782486
-    },
-    {
-        "title": "Programa Orgullo Madrid 2025, viernes 27 junio: todos los eventos y actos de hoy",
-        "image_url": "https://okdiario.com/img/2025/06/25/programa-orgullo-madrid-2025-viernes-27-junio-todos-los-eventos-y-actos-de-hoy.jpg",
-        "tags": [
-            "gays",
-            "españa",
-            "madrid",
-            "comunidad de madrid",
-            "orgullo gay"
-        ],
-        "link": "https://okdiario.com/madrid/programa-orgullo-madrid-2025-viernes-27-junio-todos-eventos-actos-hoy-15003228",
-        "date": "2025-06-27 06:15:22",
-        "sentiment_score": 0.4203048124909401
-    },
-    {
-        "title": "El abogado Gonzalo Boye cree que el aval del TC a la amnistía era necesario para \"zanjar\" el debate",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250627083442_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-abogado-gonzalo-boye-cree-aval-tc-amnistia-era-necesario-zanjar-debate-20250627083442.html",
-        "date": "2025-06-27 06:34:42",
-        "sentiment_score": -0.17967405915260315
-    },
-    {
-        "title": "Regresa a Barcelona uno de los festival más prestigiosos de Europa de cortos y animación: horario, entradas y detalles",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/06/27/vivir-en-barcelona/1003742669098_14787121_1706x960.jpg?contentId=1003742669098",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250627/regresa-barcelona-festival-prestigiosos-europa-cortos-animacion-horario-entradas-detalles/1003742669095_0.html",
-        "date": "2025-06-27 06:33:47",
-        "sentiment_score": 0.7732560392469168
-    },
-    {
-        "title": "Barcelona Global llama a levantar las \"barreras\" al talento e inversión",
-        "image_url": "https://s10.s3c.es/imag/_v0/1620x1080/c/7/b/1200x655_ramonagenjobarcelonaglobal.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13436342/06/25/barcelona-global-llama-a-levantar-las-barreras-al-talento-e-inversion.html",
-        "date": "2025-06-27 06:33:05",
-        "sentiment_score": 0.22073599696159363
-    },
-    {
-        "title": "Un hacker filtra los datos personales de Sánchez y otros nuevos ministros",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/03/28/67e667cccae73.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20250627/hacker-filtra-datos-personales-sanchez-otros-nuevos-ministros_311495.html",
-        "date": "2025-06-27 06:31:15",
-        "sentiment_score": -0.6372523959726095
-    },
-    {
-        "title": "“No somos los únicos que vivimos en una autocaravana en la Cerdanya, hay mucha gente”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/26/685d7b45283b6.r_d.800-600-2806.jpeg",
-        "tags": [
-            "lleida"
-        ],
-        "link": "https://www.lavanguardia.com/local/lleida/20250627/10831170/unicos-vivimos-autocaravana-cerdanya-hay-gente.html",
-        "date": "2025-06-27 06:28:12",
-        "sentiment_score": 0.5776388384401798
-    },
-    {
-        "title": "Una fiesta para reivindicar el poder del libro de bolsillo",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages02/2025/06/27/D1606F8D-2631-42DD-B2AE-0541581D25C1/maria-martinez-inma-rubiales-maximo-huerta-ayer_69.jpg?crop=2000%2C1125%2Cx0%2Cy191&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/fiesta-reivindicar-poder-libro-bolsillo_20250627685e392b1d59cc2968bbc400.html",
-        "date": "2025-06-27 06:24:43",
-        "sentiment_score": -0.12570151686668396
-    },
-    {
-        "title": "El Meteocat lo confirma: alerta amarilla en Catalunya por lo que llega a partir de este día",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/12/11/67597247952fc.r_d.2987-2350.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20250627/1002490167/meteocat-confirma-alerta-amarilla-catalunya-llega-partir-dia-dct.html",
-        "date": "2025-06-27 06:19:05",
-        "sentiment_score": 0.0888051986694336
-    },
-    {
-        "title": "Lluvia de premios en Canarias en la Lotería Nacional y La Primitiva",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e404413a-8228-4314-8cde-e52b283485c4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/gran-canaria/2025/06/27/lluvia-premios-canarias-loteria-nacional-primitiva-dv-119113603.html",
-        "date": "2025-06-27 06:16:45",
-        "sentiment_score": 0.05632016062736511
-    },
-    {
-        "title": "Un grupo de ciberdelincuentes filtra el DNI y la dirección del domicilio particular de Sánchez",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/06/sanchez-filtracion-datos.jpg",
-        "tags": [
-            "dni",
-            "juanma moreno",
-            "ciberdelincuencia",
-            "pedro sánchez",
-            "policía nacional",
-            "política",
-            "domicilio",
-            "maría guardiola",
-            "filtraciones"
-        ],
-        "link": "https://theobjective.com/espana/politica/2025-06-27/ciberdelincuentes-filtracion-dni-domicilio-particular-sanchez/",
-        "date": "2025-06-27 06:09:30",
-        "sentiment_score": -0.550661675632
-    },
-    {
-        "title": "En estos 3 sitios de Barcelona sirven unos pescados grandes a la parrilla que alegrarán tu fin de semana",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7822b145-51f4-4b5f-8979-2bd6bd29d427_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20250627/restaurantes-mejores-pescados-parrilla-grandes-barcelona-118959861",
-        "date": "2025-06-27 06:05:56",
-        "sentiment_score": 0.5249613132327795
-    },
-    {
         "title": "Trump da por “garantizado” que España cumplirá con el gasto del 5% en defensa de la OTAN",
         "image_url": "https://www.infobae.com/resizer/v2/5N6ZJW3URRARTPCRQKIQNB3HZE.jpg?auth=99e44a0fd45d2921bd86fefc9da6fcaf75e5f4ac0bfacb823a29f9473f145ac8&height=2832&smart=true&width=4240",
         "tags": [
@@ -7063,5 +6805,641 @@ export default [
         "link": "https://2001online.com/nacionales/la-ucv-se-pronuncia-por-la-eliminacion-de-pruebas-internas-esta-decision-afecta-a-bachilleres-que-se-habian-preparado--202563011140",
         "date": "2025-06-30 15:14:00",
         "sentiment_score": 0.11657851375639439
+    },
+    {
+        "title": "Loterías de Catalunya: números ganadores de la 6/49 este 30 del junio",
+        "image_url": "https://www.infobae.com/resizer/v2/MKIVKEXZ7FAA3GSZXEOUYC24ZY.jpg?auth=0d3a09096e3675ae539775754e0d00e772eb057ee536ddf36c42697fc44f9654&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/30/loterias-de-catalunya-numeros-ganadores-de-la-649-este-30-del-junio/",
+        "date": "2025-06-30 21:00:28",
+        "sentiment_score": 0.040395013988018036
+    },
+    {
+        "title": "Prohens carga contra Armengol por haber defendido a Santos Cerdán, alguien de su \"máxima confianza\"",
+        "image_url": "https://www.infobae.com/resizer/v2/JHNDAPGGBFAU7PDEJBLZWJ5X34.jpg?auth=5c97f569d30fd9199fae667c6390032a5f5bec7286fd8ef7ccb83bfaa568afb0&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/30/prohens-carga-contra-armengol-por-haber-defendido-a-santos-cerdan-alguien-de-su-maxima-confianza/",
+        "date": "2025-06-30 20:52:49",
+        "sentiment_score": -0.7807758487761021
+    },
+    {
+        "title": "Cuánto tiempo estará en prisión provisional Santos Cerdán, ex secretario de organización del PSOE",
+        "image_url": "https://www.infobae.com/resizer/v2/IYIIN7GCYJAMPAIYHG4XSX3ZZU.jpg?auth=e6b7a2f655275f7864cfbef6ccb63ddfa7a1bc89864605e54fd2922241fd1475&height=2130&smart=true&width=3240",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/30/cuanto-tiempo-estara-en-prision-provisional-santos-cerdan-ex-secretario-de-organizacion-del-psoe/",
+        "date": "2025-06-30 20:43:49",
+        "sentiment_score": -0.8555243341252208
+    },
+    {
+        "title": "Se interrumpe la circulación en trenes de alta velocidad que circulan entre Madrid, Toledo y Andalucía por una incidencia en la catenaria",
+        "image_url": "https://www.infobae.com/resizer/v2/73RBT37MYNHZXBQD73L7QWXEBA.jpg?auth=a0284771c8a9ff03218afde2ee8f2c4a96b8bc3fa267f7a1fdadfd22cb5a0404&height=1152&smart=true&width=2048",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/30/se-interrumpe-la-circulacion-en-trenes-de-alta-velocidad-que-circulan-entre-madrid-toledo-y-andalucia-por-una-incidencia-en-la-catenaria/",
+        "date": "2025-06-30 20:35:57",
+        "sentiment_score": -0.7896779030561447
+    },
+    {
+        "title": "Estos son los resultados ganadores del sorteo de EuroDreams del 30 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/VYYEOIDRGZBUXAD2ZHGUCH6FIQ.jpg?auth=bc93399d032e4c1b30c0fd92b7a7e49ebd4d27a8f443c91cb4d8dc0e37cc9ef9&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/30/estos-son-los-resultados-ganadores-del-sorteo-de-eurodreams-del-30-de-junio/",
+        "date": "2025-06-30 20:31:41",
+        "sentiment_score": 0.5713628120720387
+    },
+    {
+        "title": "La Primitiva: esta es la combinación ganadora del sorteo del 30 de junio",
+        "image_url": "https://www.infobae.com/resizer/v2/5IMBCEZCY5FGVAES2VAZQ2IRLE.jpg?auth=94c01f4e3faa8d28057b313471960bd66294ea91fe0a8aa16b187e4c3fe2c30a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/30/la-primitiva-esta-es-la-combinacion-ganadora-del-sorteo-del-30-de-junio/",
+        "date": "2025-06-30 20:30:36",
+        "sentiment_score": 0.4468725733458996
+    },
+    {
+        "title": "La Abogacía Española pide recursos \"suficientes\" para la reforma organizativa de los nuevos tribunales de instancia",
+        "image_url": "https://www.infobae.com/resizer/v2/LNWPO6EEFRAAJDJLA3KPESE4IY.jpg?auth=f0e515e7ff2db06c3ffa03db28eeacbf5bd97fce4ca25a805c00e130ad694d4f&height=1237&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/06/30/la-abogacia-espanola-pide-recursos-suficientes-para-la-reforma-organizativa-de-los-nuevos-tribunales-de-instancia/",
+        "date": "2025-06-30 20:22:39",
+        "sentiment_score": 0.3422831892967224
+    },
+    {
+        "title": "Jugada ganadora y resultado del último sorteo de Bonoloto",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2M3I6GTDRAKBDQBIJN7RTAJPE.png?auth=aa49b632d6506bc96a1ff7a3f2245bcfb6c28042071e793bc4355847be21fe47&height=900&smart=true&width=1600",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/30/jugada-ganadora-y-resultado-del-ultimo-sorteo-de-bonoloto/",
+        "date": "2025-06-30 20:15:33",
+        "sentiment_score": 0.09361360594630241
+    },
+    {
+        "title": "Un piloto de combate del Ejército del Aire cuenta cuál es su salario mensual: “Son sueldos bastante públicos”",
+        "image_url": "https://www.infobae.com/resizer/v2/4R4LU7DJWRBM5HPQUQMHPAYXDY.png?auth=1e6e066de6869ad7d11bb8d74717f993786c6de9fd85cba6e4d2e05f50eae43a&height=679&smart=true&width=1203",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/30/un-piloto-de-combate-del-ejercito-del-aire-cuenta-cual-es-su-salario-mensual-son-sueldos-bastante-publicos/",
+        "date": "2025-06-30 19:56:35",
+        "sentiment_score": 0.18208231776952744
+    },
+    {
+        "title": "“En finanzas no hay nada gratis y lo que es seguro trae otros riesgos”: las claves de un experto para aumentar tus ahorros",
+        "image_url": "https://www.infobae.com/resizer/v2/W5EYGNXOKFD67CATUVQGMXV57M.jpg?auth=34b9911d97f1f657b1bb9a748cecb071de2aed413f492b4c86d93401b07ca928&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/30/en-finanzas-no-hay-nada-gratis-y-lo-que-es-seguro-trae-otros-riesgos-las-claves-de-un-experto-para-aumentar-tus-ahorros/",
+        "date": "2025-06-30 19:55:51",
+        "sentiment_score": 0.17494720593094826
+    },
+    {
+        "title": "Interrumpida la circulación en más de una veintena de trenes de alta velocidad entre Madrid y Andalucía por una avería",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/06/30/1498312183-kNtH-U701218385808iGD-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/interrumpida-circulacion-trenes-madrid-andalucia-averia-20250630215807-nt.html",
+        "date": "2025-06-30 20:00:15",
+        "sentiment_score": -0.7217935565859079
+    },
+    {
+        "title": "Encuentran veinte cadáveres, cinco de ellos decapitados, en el estado mexicano de Sinaloa",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/30/Policia-kzQ-U701218197567j6B-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/encuentran-veinte-cadaveres-cinco-decapitados-estado-mexicano-20250630214325-nt.html",
+        "date": "2025-06-30 19:43:57",
+        "sentiment_score": -0.16187241673469543
+    },
+    {
+        "title": "El desafío del cambio en Medicina",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/07/01/cancer-tribuna-RksC3mKjazxb5ckM6lSu5nL-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/david-moreno-desafio-cambio-medicina-20250701170805-nts.html",
+        "date": "2025-06-30 19:42:45",
+        "sentiment_score": -0.19432838261127472
+    },
+    {
+        "title": "Nuestras cumbres",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/06/29/imserso-kT2--170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/juan-j-borrero-cumbres-20250701214244-nts.html",
+        "date": "2025-06-30 19:42:44",
+        "sentiment_score": -0.02793145179748535
+    },
+    {
+        "title": "Montero se achicharra",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/06/27/aviso-medico-paracetamol-k0ZD--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ramon-roman-montero-achicharra-20250701214242-nts.html",
+        "date": "2025-06-30 19:42:43",
+        "sentiment_score": -0.157476544380188
+    },
+    {
+        "title": "El examigo Cerdán",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/07/01/1491420437-RtwAzkjsX1IHCCmZSDIAyLN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-examigo-cerdan-20250701213707-nts.html",
+        "date": "2025-06-30 19:40:39",
+        "sentiment_score": -0.15547284483909607
+    },
+    {
+        "title": "Trump denuncia a la ciudad de Los Ángeles por sus leyes «santuario» sobre inmigración",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/30/1498318471-kyNH-U701218038383l0-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-denuncia-ciudad-angeles-leyes-santuario-sobre-20250630210859-nt.html",
+        "date": "2025-06-30 19:09:00",
+        "sentiment_score": -0.13852395117282867
+    },
+    {
+        "title": "¿Privilegio indebido? La fiscalía insiste en trasladar a Cristina Kirchner a prisión",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/30/cristinakirchner-R1vviRoKadboDmM9rX6NkKO-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/privilegio-indebido-fiscalia-insiste-trasladar-cristina-kirchner-20250630204109-nt.html",
+        "date": "2025-06-30 18:41:10",
+        "sentiment_score": -0.09707695245742798
+    },
+    {
+        "title": "El Senado se faja en una sesión maratoniana para impulsar la gran ley fiscal y de gasto de Trump",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/06/30/senado-thune-efe-k01-U701217977591AkF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/senado-faja-sesion-maratoniana-impulsar-gran-ley-20250630204017-nt.html",
+        "date": "2025-06-30 18:40:18",
+        "sentiment_score": -0.04635748267173767
+    },
+    {
+        "title": "A Sánchez le cortan su mano derecha",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/06/27/aviso-medico-paracetamol-k0ZD--170x119@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-sanchez-cortan-mano-derecha-20250701200842-nt.html",
+        "date": "2025-06-30 18:18:49",
+        "sentiment_score": -0.563778929412365
+    },
+    {
+        "title": "La circulación de la alta velocidad entre Madrid y Andalucía se reanudará de forma progresiva tras una incidencia en la catenaria",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5VHXYDBQTJG4FMHHXY7WWQ3LQA.jpg?auth=b9ba1246ab57e32963cd56be9182d75f6c89f449c7e81d2e5a4b0d09062af217&width=1200",
+        "tags": [
+            "adif",
+            "castilla-la mancha",
+            "pasajeros",
+            "andalucía",
+            "trenes",
+            "incidencias transporte",
+            "transporte ferroviario",
+            "transporte",
+            "españa",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/2025-06-30/interrumpida-la-alta-velocidad-entre-madrid-y-andalucia-por-una-incidencia-en-la-catenaria.html",
+        "date": "2025-06-30 20:21:49",
+        "sentiment_score": -0.762942785397172
+    },
+    {
+        "title": "La declaración de bienes en el Supremo de Santos Cerdán y su familia: una casa en Navarra y tres cuentas con 49.000 euros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RTZQ6SIZDD2QHU2KLCS7NG5O6E.jpg?auth=7c08073476443be85992c1e2d283de43ea56a1e684d570f8e535de5928874bac&width=1200",
+        "tags": [
+            "españa",
+            "caso koldo",
+            "santos cerdán",
+            "corrupción",
+            "corrupción política",
+            "tribunal supremo",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2025-06-30/la-declaracion-de-bienes-en-el-supremo-de-santos-cerdan-y-su-familia-una-casa-en-navarra-y-tres-cuentas-con-49000-euros.html",
+        "date": "2025-06-30 18:28:19",
+        "sentiment_score": -0.002387404441833496
+    },
+    {
+        "title": "Detenido en Madrid el torero Cayetano Rivera Ordóñez por enfrentarse a varios policías",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DIIHJA6KS5DIBCWDU4UAJWZ7EY.jpg?auth=5879a74defac57ef3af1460a796947d5a85dffd26bed3137b388699c77642223&width=1200",
+        "tags": [
+            "comunidad de madrid",
+            "comida rápida",
+            "policía nacional",
+            "policía",
+            "policía municipal",
+            "sucesos",
+            "alcoholismo",
+            "madrid",
+            "toreros"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-06-30/detenido-en-madrid-el-torero-cayetano-rivera-ordonez-por-enfrentarse-a-varios-policias.html",
+        "date": "2025-06-30 18:11:27",
+        "sentiment_score": -0.65155965462327
+    },
+    {
+        "title": "El Metro de Barcelona celebra su centenario comprando 39 trenes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VVY5ZMEKDJBKDCLQKNZOEUQ5H4.jpg?auth=3dc43e200e1ae6202df9a2f1f452f323719c238653b8eaca9c92b926de3e82c4&width=1200",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-30/el-metro-de-barcelona-celebra-su-centenario-comprando-39-trenes.html",
+        "date": "2025-06-30 18:02:23",
+        "sentiment_score": 0.20976578444242477
+    },
+    {
+        "title": "Herida grave una mujer en Madrid por la caída de un árbol",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UTEI7GI6DFGZXNYMGPAVMBQBCQ.png?auth=a11d412665f9ac034ac416ecb2e7b4b77ca59346a9e249ef0b4e1f2746a46b7e&width=1200",
+        "tags": [
+            "árboles",
+            "comunidad de madrid",
+            "moncloa-aravaca",
+            "emergencias",
+            "ayuntamiento madrid",
+            "sucesos",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-06-30/herida-grave-una-mujer-en-madrid-por-la-caida-de-un-arbol.html",
+        "date": "2025-06-30 17:50:54",
+        "sentiment_score": -0.1179429292678833
+    },
+    {
+        "title": "Una plaga de chinches mantiene cerradas cinco habitaciones en la cárcel de mujeres de Wad-Ras",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MTIAU66WSRGEJHWAMHRKZFSZFE.jpg?auth=4a4e0564c8f603a7e7be7ec23c6d1b2974ad07be680bd24a760ceb41dc22d59d&width=1200",
+        "tags": [
+            "centros penitenciarios",
+            "mujeres",
+            "generalitat cataluña",
+            "barcelona",
+            "cataluña",
+            "prisiones",
+            "salud pública",
+            "plagas",
+            "salud",
+            "justicia",
+            "sanidad"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-30/una-plaga-de-chinches-mantiene-cerradas-cinco-habitaciones-en-la-carcel-de-mujeres-de-wad-ras.html",
+        "date": "2025-06-30 17:44:30",
+        "sentiment_score": -0.7957599200308323
+    },
+    {
+        "title": "“La tarde ha sido muy mala”: Montse, la trabajadora de la limpieza de Barcelona muerta en la ola de calor, avisó de que se encontraba mal",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O5TOFXEIT5FQNMLULB4BNXPSXI.jpg?auth=4ee36e7ace76bc49be3d329d2e60b3bd81292863e37746571b3df0c7c6f128ee&width=1200",
+        "tags": [
+            "olas calor",
+            "denuncias",
+            "limpieza",
+            "temperaturas máximas",
+            "ayuntamientos",
+            "calor",
+            "cataluña",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-06-30/la-tarde-ha-sido-muy-mala-montse-la-trabajadora-de-la-limpieza-de-barcelona-muerta-en-la-ola-de-calor-aviso-de-que-se-encontraba-mal.html",
+        "date": "2025-06-30 17:30:14",
+        "sentiment_score": -0.7695058211684227
+    },
+    {
+        "title": "Miguel Ángel Muñoz desvela en 'El Hormiguero' por qué no prueba las copas",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/07/01/miguel-angel-munoz-k4RG--758x531@El%20Correo.PNG",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/gente-estilo/miguel-angel-munoz-desvela-prueba-copas-emborrachamos-20250701001305-nt.html",
+        "date": "2025-06-30 22:16:42",
+        "sentiment_score": -0.20732059329748154
+    },
+    {
+        "title": "Salomón Rondón se despide del Pachuca para emigrar al Real Oviedo",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/06/Salomon-Rondon.png",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://elsiglo.com.ve/salomon-rondon-se-despide-del-pachuca-para-emigrar-al-real-oviedo/",
+        "date": "2025-06-30 22:12:38",
+        "sentiment_score": -0.7305650152266026
+    },
+    {
+        "title": "Andrea, Miss Asturias, Anaís...: las mujeres relacionadas con Ábalos empiezan a hablar",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/06/europapress-6751453-exministro-transportes-jose-luis-abalos-llegada-comparece-comision-1440x808.jpg",
+        "tags": [
+            "caso koldo",
+            "españa",
+            "josé luis ábalos"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/07/01/andrea-miss-asturias-anais-las-mujeres-relacionadas-con-abalos-empiezan-a-hablar/",
+        "date": "2025-06-30 22:06:09",
+        "sentiment_score": -0.6141797695308924
+    },
+    {
+        "title": "La decisión del juez de enviar a Cerdán a prisión rompe la estrategia de silencio de Koldo y Ábalos",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/06/santos-cerdan-caso-koldo-1440x808.jpg",
+        "tags": [
+            "uco",
+            "tribunales",
+            "crisis psoe",
+            "caso koldo",
+            "santos cerdán",
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/07/01/la-decision-del-juez-de-enviar-a-cerdan-a-prision-rompe-la-estrategia-de-silencio-de-koldo-y-abalos/",
+        "date": "2025-06-30 22:05:13",
+        "sentiment_score": -0.0116349458694458
+    },
+    {
+        "title": "Cerdán traiciona a sus aliados más fieles al desvelar cómo convenció al PNV para llevar a Pedro Sánchez a La Moncloa",
+        "image_url": "https://phantom-elmundo.uecdn.es/743caace6b79f24d3dea10de5d93fc6e/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/30/17513122971905.jpg",
+        "tags": [
+            "santos cerdán",
+            "artículos josean izarra",
+            "psoe",
+            "pnv",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/07/01/6862e80921efa0994e8b45a4.html",
+        "date": "2025-06-30 22:03:25",
+        "sentiment_score": -0.6736197657883167
+    },
+    {
+        "title": "El experto en efectos especiales (con tres Goyas) que dio clase sin saberlo a 'El Solitario': \"Me preguntó cómo podía borrar las huellas dactilares\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/3b67a73d52ca3e0ceeb371decdb70dde/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/30/17512808662882.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/07/01/68626d5021efa0c0768b4584.html",
+        "date": "2025-06-30 22:02:21",
+        "sentiment_score": 0.005770832300186157
+    },
+    {
+        "title": "Aitana Bonmatí se reincorpora a la concentración de la selección",
+        "image_url": "https://www.infobae.com/resizer/v2/5NPMBV35IBAOVOMPWV6UF4EQXE.jpg?auth=72aea2d79eedc7ecf3ed52b9c56244c0b936c99108b18e0a5c9d1d752282236b&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/06/30/aitana-bonmati-se-reincorpora-a-la-concentracion-de-la-seleccion/",
+        "date": "2025-06-30 21:49:07",
+        "sentiment_score": 0.15918445587158203
+    },
+    {
+        "title": "La despedida de Ángel Di María del Benfica: \"Fueron dos etapas más que hermosas en mi vida\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "rosario central",
+            "ángel di maría",
+            "fútbol",
+            "benfica",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/2025/06/la-despedida-de-angel-di-maria-del-benfica-fueron-dos-etapas-mas-que-hermosas-en-mi-vida/",
+        "date": "2025-06-30 21:45:47",
+        "sentiment_score": 0.6426433771848679
+    },
+    {
+        "title": "Euro femenina 2025 busca impacto global con España campeona mundial tras su primer título",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/6d48333/2147483647/strip/true/crop/3138x1647+0+222/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F79%2Fbf%2F52f0eff91c1a51b33ffa4c421a80%2F5d536a7428fb43b5ac68ba2530cf5cb8",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-06-30/euro-femenina-2025-busca-impacto-global-con-espana-campeona-mundial-tras-su-primer-titulo",
+        "date": "2025-06-30 21:42:11",
+        "sentiment_score": 0.30617672204971313
+    },
+    {
+        "title": "Aitana Bonmatí se reincorpora a la concentración de la selección",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250630233653_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-reincorpora-concentracion-seleccion-20250630233653.html",
+        "date": "2025-06-30 21:36:53",
+        "sentiment_score": -0.17675384134054184
+    },
+    {
+        "title": "El Ayuntamiento de Barcelona abre un expediente informativo a FCC por la muerte de la barrendera en plena ola de calor",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/afbcddc2-1d39-4fc6-b6ea-c948673938e2_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20250701/ayuntamiento-barcelona-abre-expediente-informativo-fcc-muerte-barrendera-ola-calor-119229001",
+        "date": "2025-06-30 22:06:07",
+        "sentiment_score": -0.3609812930226326
+    },
+    {
+        "title": "Un millar de pisos turísticos no se registra a tiempo y serán ilegales desde hoy",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/07/01/1480104730-k8II-U23022364937072oH-1200x840@Ideal.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/granada/millar-pisos-turisticos-registra-tiempo-ilegales-hoy-20250701000358-nt.html",
+        "date": "2025-06-30 22:03:58",
+        "sentiment_score": -0.7996198702603579
+    },
+    {
+        "title": "Glovo consigue el sí de 14.000 riders y comienza a operar con un modelo sin autónomos",
+        "image_url": "https://phantom-elmundo.uecdn.es/49731d45d2cc37be1577871ae59a073c/crop/225x110/974x671/f/webp/assets/multimedia/imagenes/2025/06/30/17513013432180.jpg",
+        "tags": [
+            "empresas de tecnología",
+            "glovo",
+            "tecnología e innovación",
+            "artículos josé m. rodríguez silva"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/07/01/6862ab0921efa04a568b45ad.html",
+        "date": "2025-06-30 22:03:06",
+        "sentiment_score": 0.2367354854941368
+    },
+    {
+        "title": "De la Toscana a París: esta es la tasa que se debe pagar por noche en las principales ciudades de Europa",
+        "image_url": "https://phantom-elmundo.uecdn.es/bff6bf793c12e308cef7d4542cf137bf/crop/307x205/2765x1843/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/30/17512936453287.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elmundo.es/economia/ahorro-y-consumo/2025/07/01/68629f94e85ece5b098b459c.html",
+        "date": "2025-06-30 22:03:05",
+        "sentiment_score": -0.27330081164836884
+    },
+    {
+        "title": "Eduard Sallent",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/08/09/politica/876922348_13322239_1706x960.jpg?contentId=876922348",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20250630/eduard-sallent/1003742669911_0.html",
+        "date": "2025-06-30 22:02:19",
+        "sentiment_score": -0.1354437619447708
+    },
+    {
+        "title": "El 8 de agosto no fue un buen día",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/21/pensamiento/1003742650655_14452004_1706x960.jpg?contentId=1003742650655",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20250630/agosto-no-buen-dia/1003742669929_13.html",
+        "date": "2025-06-30 22:02:16",
+        "sentiment_score": -0.8240652922540903
+    },
+    {
+        "title": "Manel Torras, el ‘indepe’ que fue el rey del cárnico, al banquillo por el fraude de los NFT",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/30/business/1003742669934_14800866_1706x960.jpg?contentId=1003742669934",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250630/manel-torras-indepe-carnico-banquillo-fraude-nft/1003742669933_0.html",
+        "date": "2025-06-30 22:02:12",
+        "sentiment_score": -0.8033853117376566
+    },
+    {
+        "title": "Crónica Global cumple diez años",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/30/vida/1003742669986_14801984_1706x960.jpg?contentId=1003742669986",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250630/cronica-global-cumple-anos/1003742669974_0.html",
+        "date": "2025-06-30 22:00:00",
+        "sentiment_score": 0.7456218916922808
+    },
+    {
+        "title": "La Barcelona que ríe: novelas raras y divertidas que capturan la ciudad",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/01/pensamiento/844425584_12707107_1706x960.jpg?contentId=844425584",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250630/barcelona-rie-novelas-raras-divertidas-capturan-ciudad/1003742669988_13.html",
+        "date": "2025-06-30 22:00:00",
+        "sentiment_score": 0.8396232314407825
+    },
+    {
+        "title": "1a PARTE | 30 JUN 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/1a-parte-30-jun-2025-partidazo-cope-20250630_3178438.html",
+        "date": "2025-06-30 21:56:54",
+        "sentiment_score": -0.6177206039428711
+    },
+    {
+        "title": "¿Las placas son del auto o del conductor? Texas cambia reglas en leyes de tránsito y estas son las novedades",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751321195048.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/las-placas-son-del-auto-o-del-conductor-texas-cambia-reglas-en-leyes-de-transito-y-estas-son-las-novedades-20256301860",
+        "date": "2025-06-30 22:06:00",
+        "sentiment_score": -0.10219943523406982
+    },
+    {
+        "title": "Trump ordena despojar de la ciudadanía a este grupo de inmigrantes: una persona ya fue desnaturalizada en junio",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751318975948.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/trump-ordena-despojar-de-la-ciudadania-a-este-grupo-de-inmigrantes-una-persona-ya-fue-desnaturalizada-en-junio-20256301820",
+        "date": "2025-06-30 22:02:00",
+        "sentiment_score": -0.6595751941204071
+    },
+    {
+        "title": "Esta hierba está en el top entre los productos naturales para desinflamar: la recomienda National Institutes of Health",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751131669702.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/esta-hierba-esta-en-el-top-entre-los-productos-naturales-para-desinflamar-la-recomienda-national-institutes-of-health-20256301800",
+        "date": "2025-06-30 22:00:00",
+        "sentiment_score": 0.22719284519553185
+    },
+    {
+        "title": "Corpoelec atiende más de 3 mil solicitudes a través de VenApp: conozca cómo reportar una falla eléctrica",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751320053277.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/corpoelec-atiende-mas-de-3-mil-solicitudes-a-traves-de-venapp-conozca-como-reportar-una-falla-electrica-202563017440",
+        "date": "2025-06-30 21:44:00",
+        "sentiment_score": 0.14047180116176605
+    },
+    {
+        "title": "Natti Natasha comparte su primer ultrasonido con sus fans: así fue la reacción de su hija al conocee al futuro bebé",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751320068888.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/natti-natasha-comparte-su-primer-ultrasonido-con-sus-fans-asi-fue-la-reaccion-de-su-hija-al-conocee-al-futuro-bebe-202563017320",
+        "date": "2025-06-30 21:32:00",
+        "sentiment_score": 0.6634493879973888
+    },
+    {
+        "title": "¡Dato clave para inmigrantes! Esta frase podría salvarlo de la deportación",
+        "image_url": "https://pxcdn.2001online.com/2001/042025/1743533643279.webp?ch=212&cw=377&extw=jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/dato-clave-para-inmigrantes-esta-frase-podria-salvarlo-de-la-deportacion-202563017250",
+        "date": "2025-06-30 21:25:00",
+        "sentiment_score": 0.29457205906510353
+    },
+    {
+        "title": "¡Cuenta regresiva en EEUU! los estados y ciudades que subirán el salario mínimo desde el 1 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751317546216.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/cuenta-regresiva-en-eeuu-los-estados-y-ciudades-que-subiran-el-salario-minimo-desde-el-1-de-julio-20256301750",
+        "date": "2025-06-30 21:05:00",
+        "sentiment_score": 0.5192614085972309
+    },
+    {
+        "title": "NetUno participó en el 2do Encuentro Nacional de Proveedores de Internet",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751314166167.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/netuno-participo-en-el-2do-encuentro-nacional-de-proveedores-de-internet-20256301700",
+        "date": "2025-06-30 21:00:00",
+        "sentiment_score": 0.08056756854057312
+    },
+    {
+        "title": "Estos beneficiarios recibirán hasta $967 por pagos del SSI: conozca qué fecha de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751318739165.webp?ch=212&cw=377&extw=webp",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/estos-beneficiarios-recibiran-hasta-967-por-pagos-del-ssi-conozca-que-fecha-de-julio-202563016590",
+        "date": "2025-06-30 20:59:00",
+        "sentiment_score": 0.04767419770359993
+    },
+    {
+        "title": "Tiktoker \"El Fresa\" será imputado por estos delitos en Venezuela: fiscalía informa su detención",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751317164902.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/tiktoker-el-fresa-sera-imputado-por-estos-delitos-en-venezuela-fiscalia-informa-su-detencion-202563016590",
+        "date": "2025-06-30 20:59:00",
+        "sentiment_score": -0.7388797346502542
     }
 ];
