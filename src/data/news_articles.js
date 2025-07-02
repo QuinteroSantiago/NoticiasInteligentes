@@ -126,16 +126,6 @@ export default [
         "sentiment_score": -0.17761549353599548
     },
     {
-        "title": "Irán llora la muerte de los militares y científicos fallecidos en los ataques de Israel con un multitudinario funeral de Estado",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/06/28/iran.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/iran-llora-muerte-militares-cientificos-fallecidos-ataques-20250628124012-nt.html",
-        "date": "2025-06-28 10:40:13",
-        "sentiment_score": -0.132857546210289
-    },
-    {
         "title": "Dos detenidos por agredir a dos mujeres para robarles el bolso en Gandia",
         "image_url": "https://imagenes.elpais.com/resizer/v2/XXN6FF43INEM5FXFRVZ6LJM52A.jpg?auth=78a610d447fe42ba1fa61d4c97ccea9fc0718c3c2b444bb2e0ff9b40ff5965b1&width=1200",
         "tags": [
@@ -161,52 +151,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-06-28/un-instituto-de-madrid-denuncia-insultos-y-amenazas-de-ortega-smith-concejal-de-vox-contra-dos-profesores.html",
         "date": "2025-06-28 14:38:16",
         "sentiment_score": -0.8492629677057266
-    },
-    {
-        "title": "La alcaldesa de El Prat tacha de “aberración” la ampliación del aeropuerto de El Prat",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AKBOXCZ6V6OJFFBCNWYDJRT37I.jpg?auth=333ffc849c4fa3f0a87b3cb78abb48e8be3719c83b8d80745c30868bab53e3ec&width=1200",
-        "tags": [
-            "govern cataluña",
-            "en comú podem",
-            "cataluña",
-            "aena aeropuertos",
-            "aeropuerto el prat",
-            "el prat de llobregat"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-28/la-alcaldesa-de-el-prat-tacha-de-aberracion-la-ampliacion-del-aeropuerto-de-el-prat.html",
-        "date": "2025-06-28 11:46:31",
-        "sentiment_score": -0.30784259364008904
-    },
-    {
-        "title": "Multitudinaria protesta de jueces y fiscales contra la reforma judicial ante el Supremo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MYBP2LNEPBGODPCTBELTU3YPQI.jpg?auth=0faffaad35e2e9458f3383653f0327cf7399e70c215fe48f38db225c00331ecb&width=1200",
-        "tags": [
-            "españa",
-            "fiscales",
-            "protestas sociales",
-            "pedro sánchez",
-            "jueces",
-            "huelgas",
-            "gobierno",
-            "justicia"
-        ],
-        "link": "https://elpais.com/espana/2025-06-28/multitudinaria-protesta-de-jueces-y-fiscales-contra-la-reforma-judicial-al-supremo.html",
-        "date": "2025-06-28 10:41:00",
-        "sentiment_score": -0.5611983835697174
-    },
-    {
-        "title": "Generalitat y Gobierno formalizarán la propuesta de financiación para Cataluña el 14 de julio",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EWM6BMENKU23TIW3IS4XZNW4S4.jpg?auth=46b9d97d53c4bd40b79d0faff1f9376ad365d3bef1950c3b91b2498b353f2a08&width=1200",
-        "tags": [
-            "impuestos",
-            "oriol junqueras",
-            "erc",
-            "cataluña",
-            "financiación autonómica"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-28/generalitat-y-govern-formalizaran-la-propuesta-de-financiacion-para-cataluna-el-14-de-julio.html",
-        "date": "2025-06-28 10:26:54",
-        "sentiment_score": -0.5335233341902494
     },
     {
         "title": "El Real Madrid, dueño de la taquilla del Mundial de Clubes (+Detalles)",
@@ -7439,5 +7383,376 @@ export default [
         "link": "https://2001online.com/usa/internacionales/conozca-el-estado-preferido-del-ice-para-realizar-redadas-arresta-alrededor-de-142-inmigrantes-por-dia--20257116480",
         "date": "2025-07-01 20:48:00",
         "sentiment_score": -0.3313634768128395
+    },
+    {
+        "title": "Previsión meteorológica: las temperaturas que se esperan en Madrid este 2 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/02/prevision-meteorologica-las-temperaturas-que-se-esperan-en-madrid-este-2-de-julio/",
+        "date": "2025-07-02 01:30:56",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en Barcelona: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/UAVNNSVQ2BDOZLTU4G3FOZ3OYY.jpg?auth=df43e4acea8cc3a57bfb6f5f9cd7d334f69444f2bd0a29be41452b2e711b5a35&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/02/clima-en-barcelona-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2025-07-02 01:16:55",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Un muerto y tres heridos graves en una pelea multitudinaria en Ribiera, A Coruña: “Muchísimos integrantes peleando entre ellos”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/01/un-muerto-y-tres-heridos-graves-en-una-pelea-multitudinaria-en-ribiera-a-coruna-muchisimos-integrantes-peleando-entre-ellos/",
+        "date": "2025-07-01 23:42:25",
+        "sentiment_score": -0.8441026136279106
+    },
+    {
+        "title": "La barba de un soltero de ‘First Dates’ desvía la conversación de la cena: “Tu casa tiene que tener más pelos que mi barba”",
+        "image_url": "https://www.infobae.com/resizer/v2/YLQWEF7FXRBERIBSRWBXAVBYSE.png?auth=1d27f17d6a1a7f78a3286dfae3c67ee0db373d3b46c98cd489571f7409139927&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/01/la-barba-de-un-soltero-de-first-dates-desvia-la-conversacion-de-la-cena-tu-casa-tiene-que-tener-mas-pelos-que-mi-barba/",
+        "date": "2025-07-01 23:05:40",
+        "sentiment_score": -0.923753553070128
+    },
+    {
+        "title": "Sumar cuestiona si \"hay algo más\" detrás del 'caso Koldo' y apela al PSOE a responder \"hasta dónde llega\" la corrupción",
+        "image_url": "https://www.infobae.com/resizer/v2/D2JBZMYHZREZ3GZVBRN2GGRWFI.jpg?auth=8715b8e19042593ac90fe7bd70f53b7ca32e52e0e59af94f2f2eaa9207ca74ff&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/01/sumar-cuestiona-si-hay-algo-mas-detras-del-caso-koldo-y-apela-al-psoe-a-responder-hasta-donde-llega-la-corrupcion/",
+        "date": "2025-07-01 22:52:30",
+        "sentiment_score": -0.6543265115469694
+    },
+    {
+        "title": "Peruanos descendientes de españoles tienen hasta esta fecha para solicitar nacionalidad: España anuncia fin del plazo en 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/GZM6NME6DJAP5AKHKPFOHNDVRE.png?auth=11f4510f2b59bc84613dcac256b568e225129b808614d00255972a3b7cdc5a3c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/07/01/peruanos-descendientes-de-espanoles-tienen-hasta-esta-fecha-para-solicitar-nacionalidad-espana-anuncia-fin-del-plazo-en-2025/",
+        "date": "2025-07-01 22:52:26",
+        "sentiment_score": 0.18313252925872803
+    },
+    {
+        "title": "Dos muertos en Segarra a causa de los dos incendios forestales que afectan simultáneamente a la comarca",
+        "image_url": "https://www.infobae.com/resizer/v2/DUA6V4EW3ZGJ5HUSMC76NN2CKM.jpg?auth=3b45ee33b15062517d5d6fba4761c38bae7f13a6ad90cf63e2e01e1ac1111921&height=3333&smart=true&width=5000",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/01/dos-muertos-en-segarra-a-causa-de-los-dos-incendios-forestales-que-afectan-simultaneamente-a-la-comarca/",
+        "date": "2025-07-01 22:33:30",
+        "sentiment_score": -0.8593458235263824
+    },
+    {
+        "title": "Huijsen se toma la revancha con la Juventus en el Mundial de Clubes, el equipo que le invitó a irse cuando buscaba una oportunidad con el primer equipo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/07/01/huijsen-se-toma-la-revancha-con-la-juventus-en-el-mundial-de-clubes-el-equipo-que-le-invito-a-irse-cuando-buscaba-una-oportunidad-con-el-primer-equipo/",
+        "date": "2025-07-01 22:30:21",
+        "sentiment_score": -0.11041101813316345
+    },
+    {
+        "title": "Cita obligatoria del verano avilesino: el exjefe de la Casa del Rey abre la nueva edición de los Cursos de La Granda",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ac00f5b9-8cd0-4d1b-b3a3-629d1f5c9cf2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/aviles/2025/07/02/cita-obligatoria-verano-avilesino-exjefe-119265737.html",
+        "date": "2025-07-02 02:04:09",
+        "sentiment_score": -0.09182031452655792
+    },
+    {
+        "title": "La burbuja inmobiliaria se hincha aún más en Baleares y el precio se dispara un 15 %",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3371675.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/07/02/2420849/burbuja-inmobiliaria-hincha-aun-mas-baleares-precio-dispara.html",
+        "date": "2025-07-02 02:00:01",
+        "sentiment_score": 0.10465143620967865
+    },
+    {
+        "title": "Igor Tudor: \"Diez jugadores me pidieron el cambio\"",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "juventus",
+            "fútbol",
+            "mundial de clubes",
+            "igor tudor",
+            "deportes"
+        ],
+        "link": "https://eltiempove.com/igor-tudor-diez-jugadores-me-pidieron-el-cambio/",
+        "date": "2025-07-02 01:54:48",
+        "sentiment_score": -0.5379455387592316
+    },
+    {
+        "title": "El Director General de la Policía, en jaque: Un subinspector denuncia 'prevaricación'",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/07/policia-denuncia-dir-general_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/director-general-policia-jaque-subinspector-denuncia-prevaricacion",
+        "date": "2025-07-02 01:30:00",
+        "sentiment_score": -0.8405161947011948
+    },
+    {
+        "title": "Universitario debe hacer doble pago para fichar a Luis Ramos: “Es una cifra impagable, no hará locuras económicas”",
+        "image_url": "https://www.infobae.com/resizer/v2/5N5XYWLOUBDM5EIIMBKHLQRHJE.jpg?auth=fc9ac0c1cc685c576095f4fdfa667231e194d5674926cff0cc7937f5f179c928&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/07/02/universitario-debe-hacer-doble-pago-para-fichar-a-luis-ramos-es-una-cifra-impagable-no-hara-locuras-economicas/",
+        "date": "2025-07-02 01:27:47",
+        "sentiment_score": -0.06951088458299637
+    },
+    {
+        "title": "Real Madrid en los cuartos de final del Mundial de Clubes",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/07/gonzalo-730x524.webp",
+        "tags": [
+            "deportes",
+            "mundial de clubes",
+            "fútbol",
+            "real madrid",
+            "cuartos de final",
+            "gonzalo garcía",
+            "hala madrid",
+            "xabi alonso"
+        ],
+        "link": "https://primicia.com.ve/deportes/real-madrid-en-los-cuartos-de-final-del-mundial-de-clubes/",
+        "date": "2025-07-02 01:02:41",
+        "sentiment_score": 0.031301893293857574
+    },
+    {
+        "title": "La ELA también mata en el deporte: Estos son los jugadores que la han sufrido",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/07/diseno-sin-titulo---2025-07-01t130801908_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/ela-tambien-mata-deporte-jugadores-sufren-enfermedad",
+        "date": "2025-07-02 01:00:00",
+        "sentiment_score": -0.6814612410962582
+    },
+    {
+        "title": "Mundial de Clubes: Inicia la lucha por el pase a cuartos entre Borussia Dortmund y Monterrey",
+        "image_url": "https://pxcdn.meridiano.net/072025/1751417416489.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/usa/futbol/futbol-internacional/mundial-de-clubes-inicia-la-lucha-por-el-pase-a-cuartos-entre-borussia-dortmund-y-monterrey--20257120530",
+        "date": "2025-07-02 00:53:00",
+        "sentiment_score": 0.1800331063568592
+    },
+    {
+        "title": "Courtois sorprendió con un llamativo análisis sobre el nivel del Mundial de Clubes: “No somos los mejores”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/02/courtois-sorprendio-con-un-llamativo-analisis-sobre-el-nivel-del-mundial-de-clubes-no-somos-los-mejores/",
+        "date": "2025-07-02 00:49:12",
+        "sentiment_score": -0.26068712398409843
+    },
+    {
+        "title": "Antonela Roccuzzo conmueve a fans al revelar foto de su boda con Messi: celebran su séptimo aniversario",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751423342607/ae3ae0622f3c-img-20250630-wa0003.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/antonela-roccuzzo-conmueve-a-fans-al-revelar-foto-de-su-boda-con-messi-celebran-su-septimo-aniversario-20257122120",
+        "date": "2025-07-02 02:12:00",
+        "sentiment_score": 0.2637445740401745
+    },
+    {
+        "title": "\"Etelvino Vázquez ha desarrollado en Asturias el espíritu del teatro independiente\", dice Alberto Fernández Torres",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c490d3a5-5023-4b5a-8e6c-844d260826a8_16-9-aspect-ratio_default_1385924.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/aviles/2025/07/02/etelvino-vazquez-desarrollado-asturias-espiritu-119265938.html",
+        "date": "2025-07-02 02:04:09",
+        "sentiment_score": 0.074252650141716
+    },
+    {
+        "title": "Estos son los quince artistas que se pondrán en bolas en Porrúa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0889f0c2-afbb-41f6-8178-c8c63dc6cf01_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/oriente/2025/07/02/son-quince-artistas-pondran-bolas-119268317.html",
+        "date": "2025-07-02 02:04:09",
+        "sentiment_score": -0.06287673115730286
+    },
+    {
+        "title": "Cómo evitar que un día en el mar acabe en tragedia: campaña en Menorca para reducir accidentes",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3371545.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/07/02/2420785/como-evitar-dia-mar-acabe-tragedia-campana-menorca-para-reducir-accidentes.html",
+        "date": "2025-07-02 02:00:01",
+        "sentiment_score": -0.8496041744947433
+    },
+    {
+        "title": "Joan Crespí ‘Xopolet’, el pobler que desafió al viento",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3370903.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/07/02/2420347/joan-crespi-xopolet-pobler-desafio-viento.html",
+        "date": "2025-07-02 02:00:01",
+        "sentiment_score": -0.21591877937316895
+    },
+    {
+        "title": "Que haya llamado la atención en Ferreries la presencia del coche de Google...",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3371831.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/sorprende-sorprende/2025/07/02/2420945/haya-llamado-atencion-ferreries-presencia-del-coche-google.html",
+        "date": "2025-07-02 02:00:01",
+        "sentiment_score": 0.5037670843303204
+    },
+    {
+        "title": "La ópera y la zarzuela se citan en el Castell de Bellver con la Simfònica",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3371457.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/07/02/2420733/opera-zarzuela-citan-castell-bellver-simfonica.html",
+        "date": "2025-07-02 02:00:01",
+        "sentiment_score": 0.12765741348266602
+    },
+    {
+        "title": "El secreto de la mejor nota de la PAU en Menorca: «Le echaba más de seis horas al día»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3371755.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/07/02/2420901/andreu-moll-garcia-mejor-nota-menorca-pau-echaba-mas-seis-horas-dia.html",
+        "date": "2025-07-02 02:00:01",
+        "sentiment_score": 0.4300379604101181
+    },
+    {
+        "title": "Vuelven las veladas musicales a Can Tàpera",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/07/02/2420807/vuelven-veladas-musicales-can-tapera.html",
+        "date": "2025-07-02 02:00:01",
+        "sentiment_score": 0.662209901958704
+    },
+    {
+        "title": "Sánchez recomendó veranear este año en Valencia: ¿Van a predicar con el ejemplo el presidente y sus ministros?",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/07/01/6863cb6c7ce08.r_d.481-221-12807.png",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250702/sanchez-recomendo-veranear-este-ano-valencia-predicar-ejemplo-presidente-ministros_312802.html",
+        "date": "2025-07-02 02:00:00",
+        "sentiment_score": 0.32537903636693954
+    },
+    {
+        "title": "BNC emite nuevo comunicado este 1 de julio sobre la afectación en su plataforma: tome nota del número para reclamos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751421235801.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/bnc-emite-nuevo-comunicado-este-1-de-julio-sobre-la-afectacion-en-su-plataforma-tome-nota-del-numero-para-reclamos--20257121240",
+        "date": "2025-07-02 02:16:00",
+        "sentiment_score": 0.019909989088773727
+    },
+    {
+        "title": "Puntos claves del presupuesto aprobado para Trump: inyecta millones de dólares para las deportaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751423657770.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/puntos-claves-del-presupuesto-aprobado-para-trump-inyecta-millones-de-dolares-para-las-deportaciones-20257122150",
+        "date": "2025-07-02 02:15:00",
+        "sentiment_score": 0.4464811235666275
+    },
+    {
+        "title": "Cuatro niños migrantes buscan refugio en iglesia de Illinois tras recibir órdenes de deportación: cruzaron solos la frontera",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751423380621.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/migracion/cuatro-ninos-migrantes-buscan-refugio-en-iglesia-de-illinois-tras-recibir-ordenes-de-deportacion-cruzaron-solos-la-frontera-20257122100",
+        "date": "2025-07-02 02:10:00",
+        "sentiment_score": -0.551290899515152
+    },
+    {
+        "title": "Bill Gates aplica este método gratuito para fortalecer su memoria: así se mantiene como un genio de la informática a los 70 años",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751421578995.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/bill-gates-aplica-este-metodo-gratuito-para-fortalecer-su-memoria-asi-se-mantiene-como-un-genio-de-la-informatica-a-los-70-anos-2025712250",
+        "date": "2025-07-02 02:05:00",
+        "sentiment_score": -0.8165473937988281
+    },
+    {
+        "title": "INTT: así puedes obtener la certificación internacional de la licencia de conducir",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751420253514.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/intt-asi-puedes-obtener-la-certificacion-internacional-de-la-licencia-de-conducir-2025712200",
+        "date": "2025-07-02 02:00:00",
+        "sentiment_score": 0.07405175641179085
+    },
+    {
+        "title": "Llega a los 50 años con los abdominales marcados: cuatro sencillas rutinas caseras para aplanar la barriga",
+        "image_url": "https://pxcdn.2001online.com/2001/062025/1751297378782.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/llega-a-los-50-anos-con-los-abdominales-marcados-cuatro-sencillas-rutinas-caseras-para-aplanar-la-barriga-2025712200",
+        "date": "2025-07-02 02:00:00",
+        "sentiment_score": 0.6006473954766989
+    },
+    {
+        "title": "Wendy Guevara revela que ha sido víctima de fraude: esto es lo que se sabe",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751422132587.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/wendy-guevara-revela-que-ha-sido-victima-de-fraude-esto-es-lo-que-se-sabe-20257121520",
+        "date": "2025-07-02 01:52:00",
+        "sentiment_score": -0.716483511030674
+    },
+    {
+        "title": "Banco venezolano lanza nueva tarjeta para compras online y retiros en el exterior: así la solicita",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751421500617.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/banco-venezolano-lanza-nueva-tarjeta-para-compras-online-y-retiros-en-el-exterior-asi-la-solicita-20257121470",
+        "date": "2025-07-02 01:47:00",
+        "sentiment_score": 0.5717066526412964
+    },
+    {
+        "title": "El ingrediente secreto que permite aprovechar al máximo el hierro de las lentejas: la receta es muy sencilla y a bajo costo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751419465509.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/el-ingrediente-secreto-que-permite-aprovechar-al-maximo-el-hierro-de-las-lentejas-la-receta-es-muy-sencilla-y-a-bajo-costo-20257121450",
+        "date": "2025-07-02 01:45:00",
+        "sentiment_score": 0.2603374868631363
     }
 ];
