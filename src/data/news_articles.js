@@ -120,16 +120,6 @@ export default [
         "sentiment_score": -0.13516512513160706
     },
     {
-        "title": "Un respeto para los fontaneros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/06/29/cartas-director-1024x512-U46116156468LfZ-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-respeto-fontaneros-20250629160854-nt.html",
-        "date": "2025-06-29 14:12:12",
-        "sentiment_score": -0.14565645158290863
-    },
-    {
         "title": "Vox quiere devolver a la ilegalidad a más de un millón de inmigrantes regularizados",
         "image_url": "https://imagenes.elpais.com/resizer/v2/PS7CQBSZJOY7BKJEJBYR2FVGOE.jpg?auth=a5108bb118ac587249dcf9386ff5f50d7438a1382a730aa2191b42538998e80a&width=1200",
         "tags": [
@@ -146,77 +136,6 @@ export default [
         "link": "https://elpais.com/espana/2025-06-29/vox-quiere-devolver-a-la-ilegalidad-a-mas-de-un-millon-de-inmigrantes-regularizados.html",
         "date": "2025-06-29 16:56:28",
         "sentiment_score": -0.6960642207413912
-    },
-    {
-        "title": "El presidente de RTVE aspira a que la programación de La 2 sea un 60% en catalán en junio de 2026",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2EQOGPUJHVCBDJ2FYBGW3WQHWI.jpg?auth=7f56edb6dfbc1d739ab12aca29a023e95acd6df93b2e5c8a32395cfb4d796b63&width=1200",
-        "tags": [
-            "josé pablo lópez",
-            "tve",
-            "rtve",
-            "catalán",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-29/el-presidente-de-rtve-aspira-a-que-la-programacion-de-la-2-sea-un-60-en-catalan-en-junio-de-2026.html",
-        "date": "2025-06-29 12:42:44",
-        "sentiment_score": 0.10885525494813919
-    },
-    {
-        "title": "Una trabajadora de la limpieza muere en plena ola de calor en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YUTIBRPY25DJ3FYLP5SFA5UBLA.jpg?auth=d59c9b9e96ef33f085e15c31c75d17eca03c3caa178e0ec7cf77f398becacc27&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-29/una-trabajadora-de-la-limpieza-muere-en-plena-ola-de-calor-en-barcelona.html",
-        "date": "2025-06-29 12:36:31",
-        "sentiment_score": -0.7841565832495689
-    },
-    {
-        "title": "Barcelona ‘reestrena’ la Via Laietana después de tres años de obras",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/26N7BOGZQZQEX2Z23D6UDXQI44.jpg?auth=a8b3f7b2596635e096a636060a77440c22197474213a0bf002777771d2ca074f&width=1200",
-        "tags": [
-            "urbanismo",
-            "cataluña",
-            "barcelona",
-            "jaume collboni"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-29/barcelona-reestrena-la-via-laietana-despues-de-tres-anos-de-obras.html",
-        "date": "2025-06-29 12:19:07",
-        "sentiment_score": 0.7310426887124777
-    },
-    {
-        "title": "Rigoberta Bandini, la heroína armada con el escudo del humor",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SFQKQNYQREOTIFMKT6RDPKBN4I.jpg?auth=578cc8df3fe0993dd35d2922448efebf02682b99b3b659ab7045a6a9d2a9485d&width=1200",
-        "tags": [
-            "palau sant jordi",
-            "crítica musical",
-            "cataluña",
-            "rigoberta bandini",
-            "cantantes",
-            "barcelona",
-            "cantautores"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-06-29/rigoberta-bandini-la-heroina-armada-con-el-escudo-del-humor.html",
-        "date": "2025-06-29 12:01:57",
-        "sentiment_score": 0.15447521209716797
-    },
-    {
-        "title": "Marlaska inaugura la cumbre de desarrollo de la ONU en Sevilla, que recibirá a más de 70 líderes mundiales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OC535SSE32CUOWGA5EAYUYQT3A.jpg?auth=3c9e6b4a02b5d84e4924b41a13a5934aa17d3162ee9293166f0e216a7ae46b9b&width=1200",
-        "tags": [
-            "españa",
-            "cooperación y desarrollo",
-            "desarrollo humano",
-            "cumbres bilaterales",
-            "pedro sánchez",
-            "onu",
-            "fernando grande-marlaska",
-            "financiación",
-            "sevilla"
-        ],
-        "link": "https://elpais.com/espana/2025-06-29/marlaska-inaugura-la-cumbre-de-desarrollo-de-la-onu-en-sevilla-que-recibira-a-mas-de-70-lideres-mundiales.html",
-        "date": "2025-06-29 11:51:30",
-        "sentiment_score": 0.6588136460632086
     },
     {
         "title": "El español que identificó a la asesina buscada por EEUU puede reclamar hasta 20.000 dólares de recompensa",
@@ -7485,5 +7404,340 @@ export default [
         "link": "https://2001online.com/servicios/reportan-pago-de-un-bono-complementario-a-traves-del-sistema-patria-este-2-de-julio-conozca-los-montos-2025721740",
         "date": "2025-07-02 21:04:00",
         "sentiment_score": 0.03850649669766426
+    },
+    {
+        "title": "Dos heridos en un aparatoso accidente en la M-30 de Madrid tras volcar un camión y chocar con un autobús",
+        "image_url": "https://www.infobae.com/resizer/v2/MHCKCW4NDNCPZDTOQOW4TGQB4M.jpg?auth=2cc8b8ac9d33f3b79b68ed855f478130ad107bc0d3e0c8d1ff4b16bdc7fea229&height=528&smart=true&width=704",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/03/dos-heridos-en-un-aparatoso-accidente-en-la-m-30-de-madrid-tras-volcar-un-camion-y-chocar-con-un-autobus/",
+        "date": "2025-07-03 02:06:38",
+        "sentiment_score": -0.6809998191893101
+    },
+    {
+        "title": "Madrid: el pronóstico del clima para este 3 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/03/madrid-el-pronostico-del-clima-para-este-3-de-julio/",
+        "date": "2025-07-03 01:30:56",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Conoce el clima de este día en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/GKA3FFW4JFEB7GOJJXLN52MWJM.jpg?auth=0e6afbb455d1ff051763747db8015f9da4f28384c065c1e5b997011e10cc4009&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/03/conoce-el-clima-de-este-dia-en-barcelona/",
+        "date": "2025-07-03 01:18:10",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El mordisco de un octogenario a su cita de ‘First Dates’ acaba con un beso en ardiente: “Te estás comiendo todo mi pintalabios”",
+        "image_url": "https://www.infobae.com/resizer/v2/RWJ7BKZJV5BCRBZVAYKH7S24EI.png?auth=c0b1cae252f04ac27f608355bdcb0eb3b4fb27a80a91c27a3e160b9819654f37&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/02/el-mordisco-de-un-octogenario-a-su-cita-de-first-dates-acaba-con-un-beso-en-ardiente-te-estas-comiendo-todo-mi-pintalabios/",
+        "date": "2025-07-02 23:41:45",
+        "sentiment_score": 0.7954086642712355
+    },
+    {
+        "title": "Las películas favoritas del público en Netflix España",
+        "image_url": "https://www.infobae.com/resizer/v2/OF5EMOTUMFDI3PH7EMHYN7H72E.jpg?auth=020a872697c6a572b54c51b637fb0725d510834f7efb3ca1d0b530a138a5004c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/02/las-peliculas-favoritas-del-publico-en-netflix-espana/",
+        "date": "2025-07-02 23:30:39",
+        "sentiment_score": 0.7579628005623817
+    },
+    {
+        "title": "David Galván: “A veces hay que quitarse el pensamiento racional y tirar de corazón”",
+        "image_url": "https://static.grupojoly.com/clip/55291e64-fcb8-482b-85dd-cb5401ba7237_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europasur.es/toros/entrevista-torero-david-galvan-pensamiento-corazon_0_2004267239.html",
+        "date": "2025-07-03 02:01:12",
+        "sentiment_score": -0.022595852613449097
+    },
+    {
+        "title": "Real Mallorca: un proyecto a examen",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/07/03/2421535/real-mallorca-proyecto-examen.html",
+        "date": "2025-07-03 02:00:01",
+        "sentiment_score": -0.5295817255973816
+    },
+    {
+        "title": "Turistificación: cómo el auge turístico transforma y expulsa a algunos residentes de los destinos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/07/02/turistificacion-auge-turistico-expulsa-residentes-orix/",
+        "date": "2025-07-03 01:03:39",
+        "sentiment_score": -0.6674974486231804
+    },
+    {
+        "title": "Dos cirujanas españolas firman un nuevo hito de la medicina robótica: salvan del cáncer de mama dejando la piel intacta",
+        "image_url": "https://s1.elespanol.com/2025/06/27/actualidad/1003743824460_256844953_1706x960.jpg?contentId=1003743824460",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20250703/cirujanas-espanolas-firman-nuevo-hito-medicina-robotica-salvan-cancer-mama-dejando-piel-intacta/1003743785673_0.html",
+        "date": "2025-07-03 00:54:09",
+        "sentiment_score": 0.343963623046875
+    },
+    {
+        "title": "Leire Díez y Teijelo intentaron comprar al exdueño del Badajoz para atacar a la UCO: le dijeron que informaban a Sánchez",
+        "image_url": "https://s1.elespanol.com/2025/07/02/actualidad/1003743831738_256983985_1706x960.jpg?contentId=1003743831738",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20250703/leire-teijelo-intentaron-comprar-exdueno-badajoz-atacar-uco-dijeron-informaban-sanchez/1003743831566_0.html",
+        "date": "2025-07-03 00:52:42",
+        "sentiment_score": -0.4079536944627762
+    },
+    {
+        "title": "Javier Tebas insiste: \"El mundial de clubes es dañino\"",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "españa",
+            "javier tebas",
+            "deportes",
+            "mundial de clubes",
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://eltiempove.com/javier-tebas-insiste-el-mundial-de-clubes-es-danino/",
+        "date": "2025-07-03 00:15:13",
+        "sentiment_score": -0.941759898327291
+    },
+    {
+        "title": "Todos los caminos de la fontanera llevan a Sánchez",
+        "image_url": "https://s1.elespanol.com/2025/07/02/actualidad/1003743831698_256983350_1024x576.jpg?contentId=1003743831698",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20250703/caminos-fontanera-llevan-sanchez/1003743831695_14.html",
+        "date": "2025-07-03 00:13:21",
+        "sentiment_score": -0.7009724229574203
+    },
+    {
+        "title": "El caos en los controles de pasaportes de Barajas revela el colapso de un modelo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/03/2025070301523839093.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/caos-controles-pasaportes-barajas-revela-colapso-modelo/20250703015329349263.html",
+        "date": "2025-07-02 23:53:29",
+        "sentiment_score": -0.8578363675624132
+    },
+    {
+        "title": "Laura Laprida mostró su embarazo de ocho meses y medio con un divertido video: “¿Y ahora cómo me levanto?\"",
+        "image_url": "https://www.infobae.com/resizer/v2/RRJFC54C6JAOJI4USKO5MRNBAI.png?auth=cafa5070ea5394e9a3603951e788459aca342a2d0edb2abb0cb17d70753c77a3&height=1920&smart=true&width=1080",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/07/02/laura-laprida-mostro-su-embarazo-de-ocho-meses-y-medio-con-un-divertido-video-y-ahora-como-me-levanto/",
+        "date": "2025-07-02 23:50:52",
+        "sentiment_score": 0.12769627571105957
+    },
+    {
+        "title": "02 JUL 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-jul-2025-partidazo-cope-20250703_3179768.html",
+        "date": "2025-07-02 23:45:00",
+        "sentiment_score": -0.08684232085943222
+    },
+    {
+        "title": "Fin de curso: asfixiados y soñando con las vacaciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lanuevacronica.com/opinion/fin-curso-asfixiados-sonando-con-vacaciones_178395_102.html",
+        "date": "2025-07-03 02:10:00",
+        "sentiment_score": 0.008130133152008057
+    },
+    {
+        "title": "Oviedo es la cuarta gran ciudad de España con menor endeudamiento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/274bcd4d-9fa3-4f50-92a1-d02dadc9e60b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/07/03/oviedo-cuarta-gran-ciudad-espana-119305389.html",
+        "date": "2025-07-03 02:05:41",
+        "sentiment_score": -0.23624861240386963
+    },
+    {
+        "title": "Medidas educativas que se tienen que hacer realidad",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/07/reunion-Juan-Vivas-Pilar-Alegria-julio-2025-educacion-001-750x500.jpg",
+        "tags": [
+            "editorial"
+        ],
+        "link": "https://elfarodeceuta.es/medidas-educativas-tienen-hacer-realidad/",
+        "date": "2025-07-03 02:00:51",
+        "sentiment_score": 0.1867358684539795
+    },
+    {
+        "title": "La música electrónica busca su hueco en verano en Es Migjorn",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3373189.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2025/07/03/2421699/musica-electronica-busca-hueco-verano.html",
+        "date": "2025-07-03 02:00:01",
+        "sentiment_score": 0.2344525344669819
+    },
+    {
+        "title": "Antonio Gaudí & Francisco Blanch, cita con los arquitectos leoneses (1a parte)",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/28/98/80/4/avenida-de-ordono-ii-antiguo-paseo-de-las-negrillas.jpeg",
+        "tags": [
+            "lnc culturas"
+        ],
+        "link": "https://www.lanuevacronica.com/lnc-culturas/antonio-gaudi-francisco-blanch-cita-con-arquitectos-leoneses-1a-parte_178389_102.html",
+        "date": "2025-07-03 01:50:00",
+        "sentiment_score": -0.03460153937339783
+    },
+    {
+        "title": "Estados Unidos negó el visado al equipo femenino cubano de voleibol para competir en Puerto Rico",
+        "image_url": "https://www.infobae.com/resizer/v2/YZWD4TGRKJBJPSHFW2YJ2GC7CM.jpg?auth=8734ba57c69be6cb861dcb0f327ea22251ca7add7dfaa92685cf99fa91b3eab1&height=1630&smart=true&width=2545",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/estados-unidos/2025/07/03/estados-unidos-nego-el-visado-al-equipo-femenino-cubano-de-voleibol-para-competir-en-puerto-rico/",
+        "date": "2025-07-03 01:30:59",
+        "sentiment_score": -0.7191028874367476
+    },
+    {
+        "title": "Montero habla de \"sabotaje\" en la alta velocidad otra vez y culpa a Ouigo mientras un incendio para la línea Madrid-Barcelona",
+        "image_url": "https://s1.elespanol.com/2025/07/02/actualidad/1003743831773_256984721_1706x960.jpg?contentId=1003743831773",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20250703/montero-habla-sabotaje-alta-velocidad-vez-culpa-ouigo-incendio-linea-madrid-barcelona/1003743831764_0.html",
+        "date": "2025-07-03 00:51:56",
+        "sentiment_score": -0.8660656055435538
+    },
+    {
+        "title": "Interior atribuye el caos de la T4 a un \"fallo informático\" pero los policías culpan a Aena de \"falta de planificación\" en Barajas",
+        "image_url": "https://s1.elespanol.com/2025/07/02/actualidad/1003743831750_256984321_1706x960.jpg?contentId=1003743831747",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20250703/interior-atribuye-caos-t4-fallo-informatico-policias-culpan-aena-falta-planificacion-barajas/1003743831545_0.html",
+        "date": "2025-07-03 00:29:57",
+        "sentiment_score": -0.8602194078266621
+    },
+    {
+        "title": "Luchadora rusa causa indignación al dar de fumar cigarro electrónico a un orangután: se ha deteriorado su salud",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751509461497.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/luchadora-rusa-causa-indignacion-al-dar-de-fumar-cigarro-electronico-a-un-orangutan-se-ha-deteriorado-su-salud-20257222150",
+        "date": "2025-07-03 02:15:00",
+        "sentiment_score": -0.866949045099318
+    },
+    {
+        "title": "Caramelo se va contra “La Casa de los Famosos”: Yo tenía el salario más bajo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751509086924.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/caramelo-se-va-contra-la-casa-de-los-famosos-yo-tenia-el-salario-mas-bajo-20257222110",
+        "date": "2025-07-03 02:11:00",
+        "sentiment_score": 0.20812712609767914
+    },
+    {
+        "title": "Brasil: 17 años de prisión para el hombre que robó balón autografiado por Neymar",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751504109354.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/brasil-17-anos-de-prision-para-el-hombre-que-robo-balon-autografiado-por-neymar-20257222470",
+        "date": "2025-07-03 02:08:33",
+        "sentiment_score": -0.3086797073483467
+    },
+    {
+        "title": "¿Preparado? Chuck E. Cheese lanza sala de videojuegos para adultos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751508530155.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/preparado-chuck-e-cheese-lanza-sala-de-videojuegos-para-adultos-2025722280",
+        "date": "2025-07-03 02:08:00",
+        "sentiment_score": 0.12047439441084862
+    },
+    {
+        "title": "Inces ofrece cursos gratuitos de perforación petrolera y mecánica industrial: estos son los requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751508442994.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/inces-ofrece-cursos-gratuitos-de-perforacion-petrolera-y-mecanica-industrial-estos-son-los-requisitos-2025722240",
+        "date": "2025-07-03 02:04:00",
+        "sentiment_score": -0.023425627499818802
+    },
+    {
+        "title": "Sumar anuncia descuento: consulte el calendario de pago de impuestos en Caracas para julio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751500845845.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/sumar-anuncia-descuento-consulte-el-calendario-de-pago-de-impuestos-en-caracas-para-julio-2025722210",
+        "date": "2025-07-03 02:01:00",
+        "sentiment_score": 0.0019137263298034668
+    },
+    {
+        "title": "Pierde peso a toda velocidad: la mejor combinación natural para aprovechar el potencial dietético del jengibre",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751507735005.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/pierde-peso-a-toda-velocidad-la-mejor-combinacion-natural-para-aprovechar-el-potencial-dietetico-del-jengibre-2025722200",
+        "date": "2025-07-03 02:00:00",
+        "sentiment_score": -0.7675204109400511
+    },
+    {
+        "title": "Osman Quero es el nuevo presidente de Fedeagro: así queda conformada la junta directiva",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751507721685.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/osman-quero-es-el-nuevo-presidente-de-fedeagro-asi-queda-conformada-la-junta-directiva-20257221560",
+        "date": "2025-07-03 01:56:00",
+        "sentiment_score": 0.4512723535299301
+    },
+    {
+        "title": "Ferry con 65 personas a bordo se hunde en Indonesia: reportan al menos dos muertos y 43 desaparecidos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751507733129.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/ferry-con-65-personas-a-bordo-se-hunde-en-indonesia-reportan-al-menos-dos-muertos-y-43-desaparecidos-20257221380",
+        "date": "2025-07-03 01:38:00",
+        "sentiment_score": -0.036738816648721695
+    },
+    {
+        "title": "Gobernación de La Guaira abrirá un estudio de grabación para talentos locales: contará con sala de edición y equipos de última tecnología",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751499151006.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/gobernacion-de-la-guaira-abrira-un-estudio-de-grabacion-para-talentos-locales-contara-con-sala-de-edicion-y-equipos-de-ultima-tecnologia-20257221300",
+        "date": "2025-07-03 01:30:00",
+        "sentiment_score": 0.048936232924461365
     }
 ];
