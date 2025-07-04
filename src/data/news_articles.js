@@ -303,72 +303,6 @@ export default [
         "sentiment_score": -0.9018500689417124
     },
     {
-        "title": "Así ha sido el interrogatorio a Santos Cerdán: “No me he llevado ni un euro”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QT5HAFQV6NCEVP3HSAUHOSESPM.jpg?auth=4035d23174f93ab53c67397d41e35928fc728208d3628441e9c53e413184cff2&width=1200",
-        "tags": [
-            "corrupción",
-            "tribunal supremo",
-            "caso koldo",
-            "psn-psoe",
-            "psoe",
-            "josé luis ábalos",
-            "obras públicas",
-            "justicia",
-            "españa",
-            "santos cerdán"
-        ],
-        "link": "https://elpais.com/espana/2025-06-30/asi-ha-sido-el-interrogatorio-a-santos-cerdan-no-me-he-llevado-ni-un-euro.html",
-        "date": "2025-06-30 14:12:23",
-        "sentiment_score": -0.20227186009287834
-    },
-    {
-        "title": "Cae una red que pedía hasta 8.000 euros por trámites falsos de residencia para inmigrantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7NSTL5N7LNDQNMKCFDRRF5GBJU.png?auth=b757a2ba58ed24b3513c5a7029e57b71545500e38d07472d9922d550284d57db&width=1200",
-        "tags": [
-            "inmigración",
-            "inmigración irregular",
-            "estafas",
-            "matrimonio",
-            "reagrupación familiar",
-            "policía",
-            "policía nacional",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-06-30/cae-una-red-que-pedia-hasta-8000-euros-por-tramites-falsos-de-residencia-para-inmigrantes.html",
-        "date": "2025-06-30 14:03:38",
-        "sentiment_score": -0.7063198443502188
-    },
-    {
-        "title": "El PP, tras el envío a prisión de Cerdán: “El sanchismo va camino de la cárcel”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7PL54HNJFTP325Y7R42OP6PZO4.jpg?auth=dda35ba328bc57ac69c9f263364ba039b9c3b521950aa419a3bc2be17662b832&width=1200",
-        "tags": [
-            "pedro sánchez",
-            "españa",
-            "isabel díaz ayuso",
-            "alberto núñez feijóo",
-            "santos cerdán",
-            "koldo garcía",
-            "josé luis ábalos"
-        ],
-        "link": "https://elpais.com/espana/2025-06-30/el-pp-tras-el-envio-a-prision-de-cerdan-el-sanchismo-va-camino-de-la-carcel.html",
-        "date": "2025-06-30 13:31:37",
-        "sentiment_score": 0.0302952378988266
-    },
-    {
-        "title": "Cuca Gamarra dejará la secretaría general del PP tras el congreso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/L6JA67ULA7VAATXZJLX2E6KGXQ.jpg?auth=1d486ae442d49de98523a5e14ffe3aa1014a0650c856289260af11caa5b9aabd&width=1200",
-        "tags": [
-            "política",
-            "alberto núñez feijóo",
-            "cuca gamarra",
-            "pp",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-06-30/cuca-gamarra-dejara-la-secretaria-general-del-pp-tras-el-congreso.html",
-        "date": "2025-06-30 13:19:53",
-        "sentiment_score": 0.048008088022470474
-    },
-    {
         "title": "Fabrizio Romano destapa lo que ocurrirá con el futuro de Nico Paz",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/23/2025052320443641018.jpg",
         "tags": [
@@ -7677,5 +7611,346 @@ export default [
         "link": "https://2001online.com/farandula/a-13-anos-de-su-partida-revelan-como-celebro-jenni-rivera-su-ultimo-cumpleanos-en-familia-2025731740",
         "date": "2025-07-03 21:04:00",
         "sentiment_score": 0.547002375125885
+    },
+    {
+        "title": "Ábalos negó en el TS haber recibido favores de Air Europa por el rescate: “Jamás me han cambiado ni la butaca”",
+        "image_url": "https://www.infobae.com/resizer/v2/WBLLJR65LND5DKQPN53PDZFCXE.jpg?auth=08d6915ebe80ec06d72d583fd874e94d2dc9101a527bda818a4c89a21fe74874&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/04/abalos-nego-en-el-ts-haber-recibido-favores-de-air-europa-por-el-rescate-jamas-me-han-cambiado-ni-la-butaca/",
+        "date": "2025-07-04 01:30:10",
+        "sentiment_score": -0.43525300174951553
+    },
+    {
+        "title": "Rescatan el cuerpo de un hombre del interior de un pozo en Poio (Pontevedra)",
+        "image_url": "https://www.infobae.com/resizer/v2/FA2KTVZXQZGTBIL2H3BB3IV6SM.jpg?auth=a7d0b6cff29bc41b588222b1c9e3b4378b0e4eff654a6858dcbeda09c8730a68&height=1851&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/04/rescatan-el-cuerpo-de-un-hombre-del-interior-de-un-pozo-en-poio-pontevedra/",
+        "date": "2025-07-04 01:02:22",
+        "sentiment_score": -0.227152481675148
+    },
+    {
+        "title": "Suspenden operaciones en un atraque del puerto de Algeciras por la colisión de un ferry",
+        "image_url": "https://www.infobae.com/resizer/v2/E67V6N3WQZHDTG665A67QDZDJI.jpg?auth=a07e0821b380e693d24e488607226089a734742c3384efdac56b2fb83c4231d7&height=3456&smart=true&width=5184",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/04/suspenden-operaciones-en-un-atraque-del-puerto-de-algeciras-por-la-colision-de-un-ferry/",
+        "date": "2025-07-04 00:34:16",
+        "sentiment_score": -0.6179399415850639
+    },
+    {
+        "title": "Rescatadas 22 personas a bordo de dos pateras al sur de Formentera",
+        "image_url": "https://www.infobae.com/resizer/v2/4IEMPZIMQRAOBAEADJU2EOO3BY.jpg?auth=77393612ab043681da17de792401c1b35c1cff33036f037336b6fde26f2b90fb&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/03/rescatadas-22-personas-a-bordo-de-dos-pateras-al-sur-de-formentera/",
+        "date": "2025-07-03 23:28:44",
+        "sentiment_score": -0.10225243121385574
+    },
+    {
+        "title": "Un aficionado al swing y una soltera con “una sonrisa muy peligrosa” se presentan con un abrazo, pero la distancia les separa",
+        "image_url": "https://www.infobae.com/resizer/v2/XYYLTHNQMNF7ZNV63DQ3BKA7IM.jpg?auth=f2c9747e8db79acd4a807a1b7f0593e9cb3f5a5f667a8ad083ea23b33b52c7af&height=989&smart=true&width=1759",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/03/un-aficionado-al-swing-y-una-soltera-con-una-sonrisa-muy-peligrosa-se-presentan-con-un-abrazo-pero-la-distancia-les-separa/",
+        "date": "2025-07-03 23:19:51",
+        "sentiment_score": -0.3208582289516926
+    },
+    {
+        "title": "Junts propone cerrar la Audiencia Nacional y crear un Consejo de Justicia en Cataluña para nombrar a jueces",
+        "image_url": "https://www.infobae.com/resizer/v2/GVBMHOKY3RGU5KD77GCOH6FB5U.jpg?auth=79e61524ea771e69c10e784de1596fda85751031717775debd2e9deed649d05b&height=1246&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/03/junts-propone-cerrar-la-audiencia-nacional-y-crear-un-consejo-de-justicia-en-cataluna-para-nombrar-a-jueces/",
+        "date": "2025-07-03 22:23:13",
+        "sentiment_score": -0.1750538945198059
+    },
+    {
+        "title": "La llegada de Leonor a Gijón con el buque \"Elcano\" levanta pasiones: \"Está bien conocer el barco, pero lo mejor sería verla a ella\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3e47f018-9f26-4dea-87da-911121e36fde_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/2025/07/04/llegada-leonor-gijon-buque-elcano-119343923.html",
+        "date": "2025-07-04 02:04:56",
+        "sentiment_score": -0.05697408318519592
+    },
+    {
+        "title": "El diseñador de carteles de Son Banya",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3374317.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2025/07/04/2422423/disenador-carteles-son-banya.html",
+        "date": "2025-07-04 02:00:01",
+        "sentiment_score": -0.3961092010140419
+    },
+    {
+        "title": "Guía para inscribirse en los viajes del Imserso 2025: el proceso paso a paso",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3373401.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/07/04/2421823/guia-para-inscribirse-viajes-del-imserso-2025-proceso-paso-paso.html",
+        "date": "2025-07-04 02:00:01",
+        "sentiment_score": 0.581749927252531
+    },
+    {
+        "title": "Sóller ultima el homenaje al legendario baloncestista Rafa Rullán",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3373775.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/baloncesto/2025/07/04/2422069/soller-ultima-homenaje-legendario-baloncestista-rafa-rullan.html",
+        "date": "2025-07-04 02:00:01",
+        "sentiment_score": 0.501527413725853
+    },
+    {
+        "title": "El futbolista Diogo Jota, estrella del Liverpool y Portugal, muere a los 28 años en un accidente automovilístico en España junto a su hermano",
+        "image_url": "https://meridadigital.com.ve/wp-content/uploads/2025/07/DIOGO-JOTA-MUERE-1024x731.jpeg",
+        "tags": [
+            "destacadas",
+            "deportes"
+        ],
+        "link": "https://meridadigital.com.ve/el-futbolista-diogo-jota-estrella-del-liverpool-y-portugal-muere-a-los-28-anos-en-un-accidente-automovilistico-en-espana-junto-a-su-hermano",
+        "date": "2025-07-04 01:59:13",
+        "sentiment_score": -0.7435810435563326
+    },
+    {
+        "title": "¿Te has planteado una vida sin hijos?",
+        "image_url": "https://static.wixstatic.com/media/ddd658_6b626c6d3b064b10abeda83b042869fe~mv2.jpg/v1/fit/w_1000,h_771,al_c,q_80/file.png",
+        "tags": [
+            "psicología y salud"
+        ],
+        "link": "https://www.informe21.com/post/te-has-planteado-una-vida-sin-hijos",
+        "date": "2025-07-04 01:31:33",
+        "sentiment_score": -0.7691808678209782
+    },
+    {
+        "title": "Laura Pausini y Robbie Williams une voces en \"Desire\": el nuevo himno oficial de la FIFA",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751590483747.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/laura-pausini-y-robbie-williams-une-voces-en-desire-el-nuevo-himno-oficial-de-la-fifa-20257320500",
+        "date": "2025-07-04 00:50:00",
+        "sentiment_score": 0.9201411362737417
+    },
+    {
+        "title": "Salomón Rondón: ¿Cuándo debuta en La Liga de España con el Real Oviedo? (+Video)",
+        "image_url": "https://pxcdn.meridiano.net/072025/1751588707651.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/salomon-rondon-cuando-debuta-en-la-liga-de-espana-con-el-real-oviedo-video--20257320250",
+        "date": "2025-07-04 00:27:00",
+        "sentiment_score": 0.21811557561159134
+    },
+    {
+        "title": "Isabella Ladera: quién es la influencer venezolana vinculada a Vinicius Jr. y al peruano Hugo García",
+        "image_url": "https://www.infobae.com/resizer/v2/VHLA7PH7PZDCBIDGKZOOBMC2ZA.png?auth=d257381dbf9b4be1c9798653397f2a00a7b490af28a4d2f0c346dc843d1a64b4&height=720&smart=true&width=1280",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/07/04/isabella-ladera-quien-es-la-influencer-venezolana-vinculada-a-vinicius-jr-y-al-peruano-hugo-garcia/",
+        "date": "2025-07-04 00:12:17",
+        "sentiment_score": 0.3513890877366066
+    },
+    {
+        "title": "Metrópoli, capital mundial del cómic",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b26b3a6d-eded-4b28-880a-6fb115c1609b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/gijon/2025/07/04/metropoli-capital-mundial-comic-119343486.html",
+        "date": "2025-07-04 02:04:57",
+        "sentiment_score": -0.1531227082014084
+    },
+    {
+        "title": "Un antiguo cementerio emerge en las obras de unos jardines en Barcelona: aparecen restos humanos del siglo XVIII",
+        "image_url": "https://album.mediaset.es/eimg/2025/07/03/emerge-un-antiguo-cementerio-en-las-obras-de-un-jardin-en-barcelona_98d9.png",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20250704/cementerio-emerge-obras-jardin-restos-oseos-siglo-xvii-barcelona_18_016036025.html",
+        "date": "2025-07-04 02:00:05",
+        "sentiment_score": -0.22559430822730064
+    },
+    {
+        "title": "Uribarri, el republicano que abandonó la Isla",
+        "image_url": "https://uh.gsstatic.es/autor/manuel-aguilera/10893.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/07/04/2422275/uribarri-republicano-abandono-isla.html",
+        "date": "2025-07-04 02:00:01",
+        "sentiment_score": -0.20471784472465515
+    },
+    {
+        "title": "El equipo de Padelin se clasifica al Nacional",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3374571.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/deportes/polideportivo/2025/07/04/2422535/equipo-padelin-clasifica-nacional.html",
+        "date": "2025-07-04 02:00:01",
+        "sentiment_score": 0.6432921886444092
+    },
+    {
+        "title": "Nina Dobrev, de ‘Crónicas Vampíricas’, veranea en Mallorca con su marido",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3374385.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/07/04/2422483/nina-dobrev-cronicas-vampiricas-veranea-mallorca-marido.html",
+        "date": "2025-07-04 02:00:01",
+        "sentiment_score": -0.03257758170366287
+    },
+    {
+        "title": "Arnau Rueda, el nuevo héroe del Canal de Menorca",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3374265.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2025/07/04/2422439/nuevo-heroe-del-canal-menorca.html",
+        "date": "2025-07-04 02:00:01",
+        "sentiment_score": 0.15242713689804077
+    },
+    {
+        "title": "Carrizo: Los retos de las rutas",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/04/686767593856c.jpeg",
+        "tags": [
+            "destinos"
+        ],
+        "link": "https://www.diariodeleon.es/ocio/destinos/250704/2053122/carrizo-retos-rutas.html",
+        "date": "2025-07-04 01:30:00",
+        "sentiment_score": 0.18186655640602112
+    },
+    {
+        "title": "Los expertos buscan en Tui cómo explicar el cambio climático",
+        "image_url": "https://static.laregion.es/clip/13916cb7-d5e8-46ba-b227-14efd3207464_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.atlantico.net/o-baixo-mino/expertos-buscan-tui-explicar-cambio_1_20250704-3906254.html",
+        "date": "2025-07-04 00:40:44",
+        "sentiment_score": 0.19494950026273727
+    },
+    {
+        "title": "Lo oculto de la siderúrgica 'peneuvista' Sidenor: Sus vínculos con empresas israelíes",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/07/sidenor-1751554875518_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/oculto-siderurgica-peneuvista-sidenor-vinculos-israel",
+        "date": "2025-07-04 00:30:00",
+        "sentiment_score": -0.11618061363697052
+    },
+    {
+        "title": "Anuncian formación literaria gratuita en la Galería de Arte Nacional: fechas, contenidos y dónde inscribirse",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751590973708.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/anuncian-formacion-literaria-gratuita-en-la-galeria-de-arte-nacional-fechas-contenidos-y-donde-inscribirse-20257320380",
+        "date": "2025-07-04 02:10:00",
+        "sentiment_score": 0.2884028721600771
+    },
+    {
+        "title": "Fevipan responde: Hay harina, hay pan y las panaderías están abastecidas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751591601699.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/fevipan-responde-hay-harina-hay-pan-y-las-panaderias-estan-abastecidas-2025732290",
+        "date": "2025-07-04 02:09:00",
+        "sentiment_score": 0.29327335208654404
+    },
+    {
+        "title": "Joven de 18 años muere electrocutado al colgar una toalla en el tendedero: el tubo estaba energizado esta es la información oficial",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751577936758.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/joven-de-18-anos-muere-electrocutado-al-colgar-una-toalla-en-el-tendedero-el-tubo-estaba-energizado-2025732250",
+        "date": "2025-07-04 02:05:00",
+        "sentiment_score": 0.07819252088665962
+    },
+    {
+        "title": "Esta sala de cine ofrece una función privada para grupos en $5 por persona: incluye cotufas y refrescos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751594343310.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/esta-sala-de-cine-ofrece-una-funcion-privada-para-grupos-en-5-por-persona-incluye-cotufas-y-refrescos-20257319100",
+        "date": "2025-07-04 02:04:00",
+        "sentiment_score": 0.33242451492697
+    },
+    {
+        "title": "Científico del IVIC advierte a pacientes diabéticos sobre tratamientos fraudulentos: Les indican que se retiren la insulina",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751582224313.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/cientifico-del-ivic-advierte-a-pacientes-diabeticos-sobre-tratamientos-fraudulentos-les-indican-que-se-retiren-la-insulina-2025732200",
+        "date": "2025-07-04 02:00:00",
+        "sentiment_score": -0.5064233466982841
+    },
+    {
+        "title": "Esta es la mejor sustancia para ayudar a un sueño placentero: la ciencia se define entre valeriana y melatonina",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751396313423.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/esta-es-la-mejor-sustancia-para-ayudar-a-un-sueno-placentero-la-ciencia-se-define-entre-valeriana-y-melatonina-2025732200",
+        "date": "2025-07-04 02:00:00",
+        "sentiment_score": 0.6082390770316124
+    },
+    {
+        "title": "¡Alerta sanitaria! EEUU retira más de 360 000 libras de tocino de esta marca por posible listeria",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751590255757.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/alerta-sanitaria-eeuu-retira-mas-de-360-000-libras-de-tocino-de-esta-marca-por-posible-listeria-2025732200",
+        "date": "2025-07-04 02:00:00",
+        "sentiment_score": -0.8244600351899862
+    },
+    {
+        "title": "El FBI actualiza su lista de los 10 más buscados: cuatro inmigrantes latinos entre ellos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751558825686.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-fbi-actualiza-su-lista-de-los-10-mas-buscados-cuatro-inmigrantes-latinos-entre-ellos--20258321200",
+        "date": "2025-07-04 01:33:13",
+        "sentiment_score": 0.2538076154887676
+    },
+    {
+        "title": "Luis Ortiz bajo investigación: Guardians lo aparta mientras MLB indaga",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751584921660.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/luis-ortiz-bajo-investigacion-guardians-lo-aparta-mientras-mlb-indaga-2025732200",
+        "date": "2025-07-04 01:02:14",
+        "sentiment_score": -0.699659189209342
+    },
+    {
+        "title": "Eco moda cobra vida: inauguran tienda ficticia de pop-up para anunciar la segunda temporada de “Betty, la fea” en streaming",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751591018592.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/eco-moda-cobra-vida-inauguran-tienda-ficticia-de-pop-up-para-anunciar-la-segunda-temporada-de-betty-la-fea-en-streaming-2025732120",
+        "date": "2025-07-04 01:02:00",
+        "sentiment_score": 0.11902514100074768
     }
 ];
