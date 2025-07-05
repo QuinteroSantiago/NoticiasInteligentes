@@ -160,46 +160,6 @@ export default [
         "sentiment_score": 0.03533220291137695
     },
     {
-        "title": "Bodas que unen y separan",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/07/01/cartas-director-1024x512-Rx6OwMMi8Z83UK1WXfL78hN-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-bodas-unen-separan-20250701160141-nt.html",
-        "date": "2025-07-01 14:02:37",
-        "sentiment_score": -0.09051865339279175
-    },
-    {
-        "title": "Trump y Netanyahu se reunirán el próximo lunes en la Casa Blanca para abordar la situación en Gaza e Irán",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/noticias/2025/07/01/trump-netanyahu-afp-kuRH-U7012223958630yC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trump-netanyahu-reuniran-proximo-lunes-casa-blanca-20250701151152-nt.html",
-        "date": "2025-07-01 13:20:45",
-        "sentiment_score": -0.07710674405097961
-    },
-    {
-        "title": "Cuánto dinero gana un fisioterapeuta en España en 2025: sueldo base y diferencias entre pública y privada",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/01/fisio.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/dinero-gana-fisioterapeuta-espana-2025-sueldo-base-20250701151742-nt.html",
-        "date": "2025-07-01 13:17:43",
-        "sentiment_score": -0.13978368043899536
-    },
-    {
-        "title": "Guterres pide que el gasto militar no merme la ayuda humanitaria",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/01/guterres-onu-efe-kCvD-U701221740435jLD-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/guterres-pide-gasto-militar-merme-ayuda-humanitaria-20250701140338-nt.html",
-        "date": "2025-07-01 12:22:11",
-        "sentiment_score": 0.040073543787002563
-    },
-    {
         "title": "La comisión de la dana en Les Corts empieza sin víctimas y con ingenieros pidiendo obras para limitar daños",
         "image_url": "https://imagenes.elpais.com/resizer/v2/NMLS7XNJRD6ENNFGEIKTMWEE2E.jpg?auth=14a8687d5b25ca421b2cd7a6806aa9d4ef8625fa45f0e889a51f3fee1280960c&width=1200",
         "tags": [
@@ -354,22 +314,6 @@ export default [
         "link": "https://elpais.com/espana/2025-07-01/el-gobierno-reconoce-el-dano-de-la-entrada-de-cerdan-en-prision-pero-el-apoyo-de-los-socios-lo-anima-a-resistir.html",
         "date": "2025-07-01 14:33:21",
         "sentiment_score": -0.9249612540006638
-    },
-    {
-        "title": "La Guardia Civil investiga a los dueños y a los responsables de la calefacción de una casa rural de Soria donde murieron dos huéspedes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6LS7IWY4F5FIZLGWGPC4AZ6O7Y.jpg?auth=27b722f4f616df934c673c3c2f27f72e0e9648660b3a3f9d848ced9b7c443366&width=1200",
-        "tags": [
-            "sucesos",
-            "calefacción",
-            "soria",
-            "castilla y león",
-            "guardia civil",
-            "españa",
-            "instalaciones energéticas"
-        ],
-        "link": "https://elpais.com/espana/2025-07-01/la-guardia-civil-investiga-a-los-duenos-y-a-los-responsables-de-la-calefaccion-de-una-casa-rural-de-soria-donde-murieron-dos-huespedes.html",
-        "date": "2025-07-01 13:43:31",
-        "sentiment_score": -0.5775162987411022
     },
     {
         "title": "Eurocaja Rural da la bienvenida a 103 estudiantes en prácticas",
@@ -7674,5 +7618,427 @@ export default [
         "link": "https://2001online.com/usa/servicios/alerta-viajeros-suspenden-vuelos-en-el-aeropuerto-o-hare-por-tormentas-electricas-este-4-de-julio-20257416590",
         "date": "2025-07-04 20:59:00",
         "sentiment_score": -0.381548959761858
+    },
+    {
+        "title": "Las películas más populares de Netflix España que no podrás dejar de ver",
+        "image_url": "https://www.infobae.com/resizer/v2/OF5EMOTUMFDI3PH7EMHYN7H72E.jpg?auth=020a872697c6a572b54c51b637fb0725d510834f7efb3ca1d0b530a138a5004c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/04/las-peliculas-mas-populares-de-netflix-espana-que-no-podras-dejar-de-ver/",
+        "date": "2025-07-04 23:31:02",
+        "sentiment_score": 0.21778477728366852
+    },
+    {
+        "title": "El registro de alquileres suma 40.000 solicitudes desde su aplicación y supera las 255.000",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/04/el-registro-de-alquileres-suma-40000-solicitudes-desde-su-aplicacion-y-supera-las-255000/",
+        "date": "2025-07-04 22:53:26",
+        "sentiment_score": 0.20136743411421776
+    },
+    {
+        "title": "La Bolsa de Londres cierra plana, pendiente de los aranceles de Trump",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/04/la-bolsa-de-londres-cierra-plana-pendiente-de-los-aranceles-de-trump/",
+        "date": "2025-07-04 22:53:09",
+        "sentiment_score": -0.4130551144480705
+    },
+    {
+        "title": "La Bolsa española sube el 0,03 % semanal pese al contexto de tipos de interés y aranceles",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/04/la-bolsa-espanola-sube-el-003-semanal-pese-al-contexto-de-tipos-de-interes-y-aranceles/",
+        "date": "2025-07-04 22:52:53",
+        "sentiment_score": 0.02841697633266449
+    },
+    {
+        "title": "La CNMC propone más retribución a redes pero por debajo de lo que pedían las eléctricas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/04/la-cnmc-propone-mas-retribucion-a-redes-pero-por-debajo-de-lo-que-pedian-las-electricas/",
+        "date": "2025-07-04 22:52:37",
+        "sentiment_score": -0.23863349109888077
+    },
+    {
+        "title": "Temas del día de EFE Economía del viernes 4 de julio de 2025 (19:00 horas)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/04/temas-del-dia-de-efe-economia-del-viernes-4-de-julio-de-2025-1900-horas/",
+        "date": "2025-07-04 22:52:20",
+        "sentiment_score": 0.007735289633274078
+    },
+    {
+        "title": "Eslovaquia logra excepciones al veto de combustibles rusos previsto por la UE desde 2028",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/04/eslovaquia-logra-excepciones-al-veto-de-combustibles-rusos-previsto-por-la-ue-desde-2028/",
+        "date": "2025-07-04 22:52:04",
+        "sentiment_score": 0.10685242712497711
+    },
+    {
+        "title": "Detenido un jefe de Vigilancia Aduanera en Cataluña por contrabando de tabaco",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/04/detenido-un-jefe-de-vigilancia-aduanera-en-cataluna-por-contrabando-de-tabaco/",
+        "date": "2025-07-04 22:51:47",
+        "sentiment_score": -0.6731704603880644
+    },
+    {
+        "title": "Críticas al Gobierno italiano por su intención de subir los peajes en plenas vacaciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/04/criticas-al-gobierno-italiano-por-su-intencion-de-subir-los-peajes-en-plenas-vacaciones/",
+        "date": "2025-07-04 22:51:31",
+        "sentiment_score": -0.8764774594455957
+    },
+    {
+        "title": "Lula defiende la transición energética pero no renuncia al petróleo que enriquece a Brasil",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/04/lula-defiende-la-transicion-energetica-pero-no-renuncia-al-petroleo-que-enriquece-a-brasil/",
+        "date": "2025-07-04 22:51:15",
+        "sentiment_score": -0.666691355407238
+    },
+    {
+        "title": "Eva González, la novia del verano",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/07/05/eva-RNgjpkuk73kDsWwzchgbZcN-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-eva-gonzalez-novia-verano-20250705014258-nt.html",
+        "date": "2025-07-04 23:52:40",
+        "sentiment_score": -0.06828099489212036
+    },
+    {
+        "title": "La impopular presidenta de Perú, Dina Boluarte, firma el decreto en el que se aumenta el sueldo en un 125%",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/05/dilma-kUb-U701244785540V4C-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/impopular-presidenta-peru-dina-boluarte-firma-decreto-20250705012005-nt.html",
+        "date": "2025-07-04 23:20:51",
+        "sentiment_score": -0.09703952074050903
+    },
+    {
+        "title": "Bellingham advierte de los peligros del Dortmund: \"Muy dinámicos y con mucha velocidad\"",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "jude belingham",
+            "deportes",
+            "fútbol",
+            "real madrid",
+            "mundial de clubes",
+            "borussia dortmund"
+        ],
+        "link": "https://eltiempove.com/bellingham-advierte-de-los-peligros-del-dortmund-muy-dinamicos-y-con-mucha-velocidad/",
+        "date": "2025-07-05 01:52:41",
+        "sentiment_score": 0.7550645619630814
+    },
+    {
+        "title": "Xabi Alonso: \"Jugamos mejor con Güler, pero tiene que aprender\"",
+        "image_url": "https://www.infobae.com/resizer/v2/ZBS2VEDCHZBIPA3KP7NU3NK2PI.jpg?auth=9654f1501eaa9051f79b2b33014ba95814b11a8599ad000f69f2dcee4aa3914a&height=1399&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/05/xabi-alonso-jugamos-mejor-con-guler-pero-tiene-que-aprender/",
+        "date": "2025-07-05 01:40:34",
+        "sentiment_score": 0.058247894048690796
+    },
+    {
+        "title": "La otra vida de Luis Figo: La leyenda del fútbol ahora un referente en moda y negocios",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/06/captura-de-pantalla-2025-06-21-a-las-185931psd_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/otra-vida-luis-figo-leyenda-futbol-ahora-referente-moda-negocios",
+        "date": "2025-07-05 01:30:00",
+        "sentiment_score": 0.8096535485237837
+    },
+    {
+        "title": "Feijóo presenta al PP como \"la casa común del centro\" y Aznar desata el entusiasmo acusando al sanchismo de \"robar\", \"mentir\" y \"vender España\"",
+        "image_url": "https://s1.elespanol.com/2025/07/04/actualidad/1003743835006_257045849_1706x960.jpg?contentId=1003743835006",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250705/feijoo-presenta-pp-casa-comun-centro-aznar-desata-entusiasmo-acusando-sanchismo-robar-mentir-vender-espana/1003743835379_0.html",
+        "date": "2025-07-05 01:24:35",
+        "sentiment_score": -0.7506087087094784
+    },
+    {
+        "title": "Xabi Alonso: \"Jugamos mejor con Güler, pero tiene que aprender\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250705031346_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-xabi-alonso-jugamos-mejor-guler-tiene-aprender-20250705031346.html",
+        "date": "2025-07-05 01:13:46",
+        "sentiment_score": 0.08654923737049103
+    },
+    {
+        "title": "Mitos 'fenómeno kinki' (II): 'El Pirri', el joven de Canillejas que triunfó en el cine",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/07/captura-de-pantalla-2025-07-04-a-las-172803_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/seriales/mitos-del-fenomeno-kinki-ii-pirri-joven-canillejas-que-llego-al-cine",
+        "date": "2025-07-05 01:00:00",
+        "sentiment_score": -0.7899774573743343
+    },
+    {
+        "title": "Arda Güler: \"Xabi me pide que juegue como un 10\"",
+        "image_url": "https://www.infobae.com/resizer/v2/DUQSGLYLMJHV5FJ2EHMBQAA47E.jpg?auth=cbca6aa7ccbfba5149c08a5a83728de41fab9188a06b4762a502f7813b1a869e&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/05/arda-guler-xabi-me-pide-que-juegue-como-un-10/",
+        "date": "2025-07-05 00:49:20",
+        "sentiment_score": -0.17287904024124146
+    },
+    {
+        "title": "Mundial de Clubes: Brasil celebra el triunfo de Fluminense ante el Al Hilal",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/05/2025070502383013174.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/mundial-clubes-brasil-celebra-triunfo-fluminense-hilal/20250705024048349474.html",
+        "date": "2025-07-05 00:40:48",
+        "sentiment_score": 0.745231669396162
+    },
+    {
+        "title": "Jude Bellingham: \"El Dortmund ha mejorado mucho con Niko Kovac\"",
+        "image_url": "https://www.infobae.com/resizer/v2/NARTDD4LG5C2LJCRAO66CASLF4.jpg?auth=ac4cc4e7f761665f7de021aaeedf19368955decf2625ebb7c6936820e547804d&height=1335&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/05/jude-bellingham-el-dortmund-ha-mejorado-mucho-con-niko-kovac/",
+        "date": "2025-07-05 00:34:03",
+        "sentiment_score": 0.6743782535195351
+    },
+    {
+        "title": "Deportistas profesionales en la mira del ICE: estos son los atletas que han sido detenidos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751675543568.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/deportistas-profesionales-en-la-mira-del-ice-estos-son-los-atletas-que-han-sido-detenidos-20257420210",
+        "date": "2025-07-05 00:21:00",
+        "sentiment_score": -0.5194467976689339
+    },
+    {
+        "title": "El nuevo presidente de la Audiencia Provincial de Asturias reclama medios para agilizar los juicios",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06da3541-f35a-49da-8c48-57af89fe3a6e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2025/07/05/nuevo-presidente-audiencia-provincial-asturias-119382141.html",
+        "date": "2025-07-05 02:04:59",
+        "sentiment_score": -0.21473856270313263
+    },
+    {
+        "title": "Pablo Torre, inminente",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3375917.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/07/05/2423267/pablo-torre-inminente.html",
+        "date": "2025-07-05 02:00:01",
+        "sentiment_score": 0.05659087747335434
+    },
+    {
+        "title": "Mondo Lab 45 vuelve con Zabriskie",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/04/686821413a7f6.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250705/2053236/mondo-lab-45-vuelve-zabriskie.html",
+        "date": "2025-07-05 01:30:00",
+        "sentiment_score": 0.20468570850789547
+    },
+    {
+        "title": "Miguel Tellado, secretario general del PP, y su \"familia política\"",
+        "image_url": "https://s1.elespanol.com/2025/07/04/espana/politica/1003743835315_257052181_1706x960.jpg?contentId=1003743835315",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250705/miguel-tellado-secretario-general-pp-familia-politica/1003743835306_3.html",
+        "date": "2025-07-05 01:17:51",
+        "sentiment_score": -0.13951273635029793
+    },
+    {
+        "title": "Democracia hasta el final",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/democracia-final_0_2004286736.html",
+        "date": "2025-07-05 01:08:55",
+        "sentiment_score": 0.09999802708625793
+    },
+    {
+        "title": "Blackstone y Azora siguen los pasos de Patrizia y ponen en venta sus pisos en alquiler en Cataluña",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/2c/media_thumb-link-4074564.webp?1751654407=",
+        "tags": [
+            "venta",
+            "azora",
+            "viviendas barcelona",
+            "fondos de inversión",
+            "blackstone",
+            "actualidad"
+        ],
+        "link": "https://www.meneame.net/story/blackstone-azora-siguen-pasos-patrizia-ponen-venta-pisos",
+        "date": "2025-07-05 00:40:03",
+        "sentiment_score": 0.15298113226890564
+    },
+    {
+        "title": "Los trenes se desangran en Almería y Jaén",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2025/07/04/99247B5B-3396-4285-88A0-0547E37ECF20/estacion-tren-jaen_69.jpg?crop=1280%2C720%2Cx0%2Cy123&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "andalucía"
+        ],
+        "link": "https://www.larazon.es/andalucia/trenes-desangran-almeria-jaen_2025070568686f7377c930725868138a.html",
+        "date": "2025-07-05 00:18:59",
+        "sentiment_score": -0.7683704346418381
+    },
+    {
+        "title": "Una pintura oculta tras otra: tras más de un siglo, emergió una obra inédita de Lola Anglada",
+        "image_url": "https://www.infobae.com/resizer/v2/YRSNI72UCBHOTGU7LSTMMOQ7DA.jpg?auth=b767af2493117eeeb31bfc56d66378f18d3a89d62b8996dcdcd1e099bd206f52&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/cultura/2025/07/05/una-pintura-oculta-tras-otra-tras-mas-de-un-siglo-emergio-una-obra-inedita-de-lola-anglada/",
+        "date": "2025-07-05 00:17:39",
+        "sentiment_score": 0.8374949153512716
+    },
+    {
+        "title": "Sanxenxo iza sus 17 banderas azules como líder nacional",
+        "image_url": "https://static.laregion.es/clip/84a0a321-3e97-4b1a-91a3-281d72a01940_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.atlantico.net/o-salnes/sanxenxo-iza-17-banderas-azules_1_20250705-3907420.html",
+        "date": "2025-07-05 00:15:53",
+        "sentiment_score": 0.3104802966117859
+    },
+    {
+        "title": "Conozca la agenda de celebración por la canonización de Carmen Rendiles y José Gregorio Hernández: arranca el 17 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751681261557.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/conozca-la-agenda-de-celebracion-por-la-canonizacion-de-carmen-rendiles-y-jose-gregorio-hernandez-arranca-el-17-de-julio-20257422150",
+        "date": "2025-07-05 02:15:00",
+        "sentiment_score": 0.5225607044994831
+    },
+    {
+        "title": "Así es la experiencia en la Expo Simón: puedes conversar con el Libertador mediante IA",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751670653520.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/asi-es-la-experiencia-en-la-expo-simon-puedes-conversar-con-el-libertador-mediante-ia-20257419180",
+        "date": "2025-07-05 02:12:00",
+        "sentiment_score": 0.1379845142364502
+    },
+    {
+        "title": "¡Alerta al dormir! Esta es la posición que no debes adoptar en tu cama para un sueño perfecto: descansarás mucho más",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751553353822.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/alerta-al-dormir-esta-es-la-posicion-que-no-debes-adoptar-en-tu-cama-para-un-sueno-perfecto-descansaras-mucho-mas-2025742200",
+        "date": "2025-07-05 02:00:00",
+        "sentiment_score": 0.7671862849965692
+    },
+    {
+        "title": "De la guanábana se aprovechan hasta sus hojas: aquí tienes 7 enfermedades que puedes prevenir con estas recetas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751680444631.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/de-la-guanabana-se-aprovechan-hasta-sus-hojas-aqui-tienes-7-enfermedades-que-puedes-prevenir-con-estas-recetas-2025742200",
+        "date": "2025-07-05 02:00:00",
+        "sentiment_score": 0.8429024955257773
+    },
+    {
+        "title": "Arlington y Keller aprueban aumento salarial para estos trabajadores: aplica para el período 2025-2026",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751679358021.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/arlington-y-keller-aprueban-aumento-salarial-para-estos-trabajadores-aplica-para-el-periodo-2025-2026-2025742200",
+        "date": "2025-07-05 02:00:00",
+        "sentiment_score": 0.3478952646255493
+    },
+    {
+        "title": "Julio César Chávez Jr.: revelan su oscuro rol dentro del Cártel de Sinaloa",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751681950565.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/julio-cesar-chavez-jr-revelan-su-oscuro-rol-dentro-del-cartel-de-sinaloa-20257422300",
+        "date": "2025-07-05 01:46:39",
+        "sentiment_score": -0.7238480355590582
+    },
+    {
+        "title": "Abren concurso para emprendedores con un premio de $15.000 dólares: así puede postularse en Sambil Emprende",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751678278085.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/abren-concurso-para-emprendedores-con-un-premio-de-15-000-dolares-asi-puede-postularse-en-sambil-emprende-20257421300",
+        "date": "2025-07-05 01:30:00",
+        "sentiment_score": 0.10752017796039581
+    },
+    {
+        "title": "Autoridades atienden afectación en puente de Barinas: comunica al estado con la autopista los Llanos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751678375553.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/autoridades-atienden-afectacion-en-puente-de-barinas-comunica-al-estado-con-la-autopista-los-llanos-20257421260",
+        "date": "2025-07-05 01:26:00",
+        "sentiment_score": -0.7943791225552559
+    },
+    {
+        "title": "Universidad de las Ciencias ofrece la carrera de Oceanología: conozca de qué trata y cuándo postularse",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751677904123.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/universidad-de-las-ciencias-ofrece-la-carrera-de-oceanologia-conozca-de-que-trata-y-cuando-postularse-20257421170",
+        "date": "2025-07-05 01:17:00",
+        "sentiment_score": 0.08388043195009232
+    },
+    {
+        "title": "Venezuela y China firman acuerdo para desarrollar tecnologías de la IA en el país",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751671264437.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-y-china-firman-acuerdo-para-desarrollar-tecnologias-de-la-ia-en-el-pais-2025742100",
+        "date": "2025-07-05 01:00:00",
+        "sentiment_score": 0.5061452351510525
     }
 ];
