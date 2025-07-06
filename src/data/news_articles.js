@@ -350,23 +350,6 @@ export default [
         "sentiment_score": -0.7576295733451843
     },
     {
-        "title": "Duelo y conmoción en Valls por la muerte de un niño de dos años olvidado dentro de un coche",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FHGDBFHEGBDVFB7LWKWUWG36NU.jpg?auth=9ea21c4211572d47a54ab5fa9ee07a6f79153f4bba4f2456b4c1e2c78513ced8&width=1200",
-        "tags": [
-            "valls",
-            "cataluña",
-            "olas calor",
-            "padres",
-            "menores",
-            "mossos d'esquadra",
-            "homicidios",
-            "muertes"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-02/duelo-y-conmocion-en-valls-por-la-muerte-de-un-nino-de-dos-anos-olvidado-dentro-de-un-coche.html",
-        "date": "2025-07-02 13:29:00",
-        "sentiment_score": -0.6914313845336437
-    },
-    {
         "title": "La magia de Gonzalo García le ha permitido al Real Madrid obtener esta cifra millonaria",
         "image_url": "https://pxcdn.meridiano.net/072025/1751476746970.jpg?ch=180&cw=320",
         "tags": [
@@ -7573,5 +7556,386 @@ export default [
         "link": "https://2001online.com/usa/internacionales/dreamers-sufren-duro-golpe-en-texas-juez-bloquea-beneficio-estudiantes-universitarios-deberan-pagar-mas-2025751650",
         "date": "2025-07-05 20:05:00",
         "sentiment_score": -0.8192075230181217
+    },
+    {
+        "title": "Youtube en España: la lista de los 10 videos más populares de este día",
+        "image_url": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/06/youtube-en-espana-la-lista-de-los-10-videos-mas-populares-de-este-dia/",
+        "date": "2025-07-06 01:16:18",
+        "sentiment_score": -0.76935909781605
+    },
+    {
+        "title": "Temperaturas en Barcelona: prepárate antes de salir de casa",
+        "image_url": "https://www.infobae.com/resizer/v2/3MU2HKNCBNFW5FQLAHAU25HETQ.jpg?auth=4de3ce9ef5c48955971146a6671f88332ed1e49013c5d4824a26309a4cc45985&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/06/temperaturas-en-barcelona-preparate-antes-de-salir-de-casa/",
+        "date": "2025-07-06 01:15:55",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Más allá del aula: estudiantes acceden a carreras y especializaciones en Perú, EEUU, México y España",
+        "image_url": "https://www.infobae.com/resizer/v2/FTDYWEFL6NGWXOURO4IM4Y3CZM.jpg?auth=bdde3e6839643254ccd12ef20a8411e30a528f7b5a4cf64f5ad4444d56000c14&height=816&smart=true&width=1456",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/07/06/mas-alla-del-aula-estudiantes-acceden-a-carreras-y-especializaciones-en-peru-eeuu-mexico-y-espana/",
+        "date": "2025-07-06 00:59:32",
+        "sentiment_score": 0.5841940809041262
+    },
+    {
+        "title": "Rauw Alejandro ofrece uno de los espectáculos más completos de lo que va de año con su primera parada de ‘Cosa Nuestra’ en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/NW7HCUJNV5E63FAD2GLNYIOSOE.jpg?auth=778a09064d653e3b9555fe668465ee3634e6c9d684ff1c8128042586aeec7e21&height=349&smart=true&width=720",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/07/06/rauw-alejandro-ofrece-uno-de-los-espectaculos-mas-completos-de-lo-que-va-de-ano-con-su-primera-parada-de-cosa-nuestra-en-madrid/",
+        "date": "2025-07-06 00:24:57",
+        "sentiment_score": 0.9015630660578609
+    },
+    {
+        "title": "Gonzalo sigue brillando, vuelve a ver portería ante el Borussia Dortmund y se convierte en el pichichi del Mundial de Clubes",
+        "image_url": "https://www.infobae.com/resizer/v2/67ZLUDPUGFFDDKMLOYWHN6FI3Q.jpg?auth=50c8fe124d0eb85bdddf93b018d40a4f699e5ea6a71f1d55cb9f115ed978fc04&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/07/05/gonzalo-sigue-brillando-vuelve-a-ver-porteria-ante-el-borussia-dortmund-y-se-convierte-en-el-pichichi-del-mundial-de-clubes/",
+        "date": "2025-07-05 23:04:37",
+        "sentiment_score": 0.6692331172525883
+    },
+    {
+        "title": "El Real Madrid sufre en los minutos finales, pero se impone al Borussia Dortmund y certifica su pase a semifinales del Mundial de Clubes",
+        "image_url": "https://www.infobae.com/resizer/v2/J72WXCWYYZBHTG2UW3PKNCZ4X4.jpg?auth=05254d01fd8e86c11cc8964effb62473e647b9b755dde77f1699863c6554dd0b&height=2143&smart=true&width=3810",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/07/05/el-real-madrid-se-sufre-para-imponerse-al-borussia-dortmund-pero-certifica-su-pase-a-semifinales-del-mundial-de-clubes/",
+        "date": "2025-07-05 22:31:22",
+        "sentiment_score": 0.14688074588775635
+    },
+    {
+        "title": "Desde Tequila, Jalisco, el Atlas anuncia a su nuevo refuerzo proveniente de España",
+        "image_url": "https://www.infobae.com/resizer/v2/YF7KUGLUVZEZ3BC7USNUTKAAIA.jpg?auth=6383c64856e7542daf447fe23a70aeadb57252234717b2cdfad922cfe34f2b05&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/07/05/desde-tequila-jalisco-el-atlas-anuncia-a-su-nuevo-refuerzo-proveniente-de-espana/",
+        "date": "2025-07-05 22:23:15",
+        "sentiment_score": 0.3508633878082037
+    },
+    {
+        "title": "Cómo coger un tren",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/07/06/PelaezTrenes_20250706005622-ReCCUoEjySkhNYoWm19IEzO-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-coger-tren-20250706012230-nt.html",
+        "date": "2025-07-05 23:22:43",
+        "sentiment_score": -0.03691732883453369
+    },
+    {
+        "title": "Los complejos primeros pasos de un viaje de crecimiento personal y profesional",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/06/universidad55-RIdnJ2pq6XgF16KAOkh2NSP-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/formacion/complejos-primeros-pasos-viaje-crecimiento-personal-profesional-20250706185722-nt.html",
+        "date": "2025-07-05 23:04:43",
+        "sentiment_score": 0.008408904075622559
+    },
+    {
+        "title": "Un nuevo hogar para facilitar el salto a la universidad",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/06/LivensaBcnSantsBadal-Pisci-RJzAmgLMjW38m0qwLMJy9zH-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/formacion/nuevo-hogar-facilitar-salto-universidad-20250706140234-nt.html",
+        "date": "2025-07-05 23:02:45",
+        "sentiment_score": -0.07085463404655457
+    },
+    {
+        "title": "Un galardón para la formación que traspasa fronteras",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/07/06/academica-R9kpUtfBGLWqyjUzk7gxW5H-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/formacion/galardon-formacion-traspasa-fronteras-20250706160217-nt.html",
+        "date": "2025-07-05 23:01:13",
+        "sentiment_score": 0.14734527468681335
+    },
+    {
+        "title": "Ramón Langa, actor: \"Tengo vozarrón de hombre duro, pero, en realidad, soy muy blandito\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/16f776c6-395b-4332-a14a-a25a9325e88a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/07/06/ramon-langa-actor-vozarron-hombre-119408098.html",
+        "date": "2025-07-06 02:08:00",
+        "sentiment_score": 0.21648622304201126
+    },
+    {
+        "title": "La reina de la belleza auténtica",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88799c06-41c8-4f1e-a979-45b2411ebd62_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/estela/2025/07/06/laura-ponte-reina-belleza-autentica-119352074.html",
+        "date": "2025-07-06 02:00:30",
+        "sentiment_score": -0.0922650396823883
+    },
+    {
+        "title": "‘Mallorca al centre’",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/07/06/2423713/mallorca-centre.html",
+        "date": "2025-07-06 02:00:01",
+        "sentiment_score": -0.08581709861755371
+    },
+    {
+        "title": "Lo oculto de la actriz Alejandra Onieva: Cuñada de Tamara Falco y ligada a Hollywood",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/07/alejandro-29-1751737596628_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/oculto-actriz-alejandra-onieva-cunada-tamara-falco-ligada-hollywood",
+        "date": "2025-07-06 02:00:00",
+        "sentiment_score": 0.08691367506980896
+    },
+    {
+        "title": "Mbappé se reencontrará con el PSG un año después de fichar por el Madrid",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/07/fff-scaled.jpg",
+        "tags": [
+            "deportes",
+            "noticias destacadas"
+        ],
+        "link": "https://elsiglo.com.ve/mbappe-se-reencontrara-con-el-psg-un-ano-despues-de-fichar-por-el-madrid/",
+        "date": "2025-07-06 01:11:51",
+        "sentiment_score": 0.07370471954345703
+    },
+    {
+        "title": "Tomamos partido por España",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/tomamos-partido-espana_0_2004291572.html",
+        "date": "2025-07-06 01:10:43",
+        "sentiment_score": 0.19273138791322708
+    },
+    {
+        "title": "¡Taxi!",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/taxi_0_2004291472.html",
+        "date": "2025-07-06 01:05:43",
+        "sentiment_score": 0.2825078070163727
+    },
+    {
+        "title": "Las muertes por calor dejan cifras récord en Galicia",
+        "image_url": "https://static.laregion.es/clip/11ec0c35-06f3-444d-8981-e1ccbbdd83e5_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.atlantico.net/galicia/muertes-calor-dejan-cifras-record_1_20250706-3908317.html",
+        "date": "2025-07-06 01:00:36",
+        "sentiment_score": -0.13886476680636406
+    },
+    {
+        "title": "Rafaela conecta jonrón y Medias Rojas aplastan a Nacionales 10-3 para llegar a 10.000 victorias",
+        "image_url": "https://dims.apnews.com/dims4/default/7e9051c/2147483647/strip/true/crop/7366x4903+0+4/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F5b%2Fdc61edcf3fed3a2598585022d351%2F1435e76215f345db81fed8711c9a8613",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/medias-rojas-nacionales-rafaela-10000-triunfos-mlb-4659685a6eb91e070df0b341520f4ed0",
+        "date": "2025-07-06 00:50:15",
+        "sentiment_score": 0.4015551880002022
+    },
+    {
+        "title": "La España del cambio ya no funciona: el AVE, Barajas, las comisarías o el Sepe colapsan y la sensación de caos se extiende",
+        "image_url": "https://s1.elespanol.com/2025/07/05/actualidad/1003743835694_257059565_1706x960.jpg?contentId=1003743835694",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20250706/espana-cambio-no-funciona-ave-barajas-comisarias-sepe-colapsan-sensacion-caos-extiende/1003743834923_0.html",
+        "date": "2025-07-06 00:33:16",
+        "sentiment_score": -0.917669165879488
+    },
+    {
+        "title": "Alquimista de la luz",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8d008ba4-0da3-43f6-8127-75765f80f686_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/estela/2025/07/06/los-viejos-oficios-maria-goretti-bello-serans-alquimista-de-la-luz-119275972.html",
+        "date": "2025-07-06 02:00:30",
+        "sentiment_score": 0.10119959712028503
+    },
+    {
+        "title": "«Me fui de casa a los 15 años para conseguir que mi familia estuviese orgullosa de mí»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0c397e94-bf8b-48b6-ac40-ad58f2dff943_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.farodevigo.es/estela/2025/07/06/pino-sagliocco-casa-15-anos-familia-estuviese-orgullosa-de-mi-119363215.html",
+        "date": "2025-07-06 02:00:29",
+        "sentiment_score": 0.11062923073768616
+    },
+    {
+        "title": "El verano en Valencia, para comérselo: la espectacular tarta de queso que sabe a horchata y fartons",
+        "image_url": "https://imagenes.eldebate.com/files/image_16_9_desktop/files/fp/uploads/2025/07/04/6867fc1865e8a.r_d.582-1137-6227.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250706/verano-valencia-comerselo-espectacular-tarta-queso-sabe-horchata-fartons_314091.html",
+        "date": "2025-07-06 02:00:00",
+        "sentiment_score": 0.6410694383084774
+    },
+    {
+        "title": "¿Por qué es una mala idea reutilizar el protector solar del año pasado, según los expertos?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3eb76be1-bb2d-4646-8d72-ef2b5b2e3625_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/salud/guia/2025/07/06/reutilizar-protector-solar-peligroso-piel-73092456.html",
+        "date": "2025-07-06 01:59:00",
+        "sentiment_score": 0.5159161128103733
+    },
+    {
+        "title": "El show de Lionel Messi en Montreal: asistencia y dos golazos para el triunfo del Inter Miami",
+        "image_url": "https://www.infobae.com/resizer/v2/RHSQBNOVJFGLPFVUXKLBKF4IUA.jpg?auth=922d93b04c4fcb20791cf5673a86aa0c92872bbe8b6ab3301cf5f13353848bef&height=3152&smart=true&width=4727",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/06/el-show-de-lionel-messi-en-montreal-asistencia-y-dos-golazos-para-el-triunfo-del-inter-miami/",
+        "date": "2025-07-06 01:47:51",
+        "sentiment_score": 0.7288874387741089
+    },
+    {
+        "title": "Beni, la leonesa pionera del fútbol en Cataluña: \"Lo dejé al casarme, si es hoy no lo dejo\"",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/06/6869a4b8ef4e3.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/250706/2053328/beni-leonesa-pionera-futbol-cataluna-deje-casarme-hoy-dejo.html",
+        "date": "2025-07-06 01:30:00",
+        "sentiment_score": -0.06828698515892029
+    },
+    {
+        "title": "El verano más caro llena los hoteles pero con menos turistas españoles",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/05/6869641b07d05.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/250706/2053300/verano-caro-llena-hoteles-turistas-espanoles.html",
+        "date": "2025-07-06 01:30:00",
+        "sentiment_score": -0.10223564505577087
+    },
+    {
+        "title": "Sube a 43 la cifra de muertos por inundaciones en Texas: 15 de ellos son niños",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/sube-a-43-la-cifra-de-muertos-por-inundaciones-en-texas-15-de-ellos-son-ninos-2025752210",
+        "date": "2025-07-06 02:01:00",
+        "sentiment_score": -0.5042431466281414
+    },
+    {
+        "title": "Nueva jornada de atención veterinaria gratuita en Los Caobos este 6 de julio: también habrá vacunas a bajo costo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/nueva-jornada-de-atencion-veterinaria-gratuita-en-los-caobos-este-6-de-julio-tambien-habra-vacunas-a-bajo-costo-2025752200",
+        "date": "2025-07-06 02:00:00",
+        "sentiment_score": 0.6685913577675819
+    },
+    {
+        "title": "Shakira apoya a las víctimas de inundaciones en Texas: donará parte de las ganancias de su concierto en San Antonio",
+        "image_url": "https://www.excelsior.com.mx/770x530/filters:format(webp):quality(75)/media/pictures/2025/07/04/3337033.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/farandula/shakira-apoya-a-las-victimas-de-inundaciones-en-texas-donara-parte-de-las-ganancias-de-su-concierto-en-san-antonio-2025752200",
+        "date": "2025-07-06 02:00:00",
+        "sentiment_score": -0.013110145926475525
+    },
+    {
+        "title": "Nicolás Maduro: Tenemos que fortalecer nuestros sistemas de defensa",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/nicolas-maduro-tenemos-que-fortalecer-nuestros-sistemas-de-defensa-20257521400",
+        "date": "2025-07-06 01:40:00",
+        "sentiment_score": 0.4784291237592697
+    },
+    {
+        "title": "Reportan más de 2 mil familias afectadas por las lluvias en Barinas: aprobaron ayudas para su atención",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/reportan-mas-de-2-mil-familias-afectadas-por-las-lluvias-en-barinas-aprobaron-ayudas-para-su-atencion-2025752110",
+        "date": "2025-07-06 01:01:00",
+        "sentiment_score": -0.7110178489238024
+    },
+    {
+        "title": "Enfermedades que podrás curar con la aromaterapia: holística natural",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751460177261/Captura%20de%20pantalla%202025-07-02%20a%20la(s)%208.42.27%20a.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/enfermedades-que-podras-curar-con-la-aromaterapia-holistica-natural-2025752100",
+        "date": "2025-07-06 01:00:00",
+        "sentiment_score": 0.35978348553180695
+    },
+    {
+        "title": "Certificación para taxis individuales en Venezuela: estos son los requisitos exigidos por el INTT",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/certificacion-para-taxis-individuales-en-venezuela-estos-son-los-requisitos-exigidos-por-el-intt-2025752100",
+        "date": "2025-07-06 01:00:00",
+        "sentiment_score": 0.06389183178544044
+    },
+    {
+        "title": "\"Estoy destrozado\": Julio César Chávez reaparece tras la detención de su hijo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/estoy-destrozado-julio-cesar-chavez-reaparece-tras-la-detencion-de-su-hijo-20257521250",
+        "date": "2025-07-06 00:31:00",
+        "sentiment_score": -0.019910871982574463
+    },
+    {
+        "title": "Nueva York se rebela contra el ICE: los restaurantes unen fuerzas para proteger a trabajadores migrantes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/nueva-york-se-rebela-contra-el-ice-los-restaurantes-unen-fuerzas-para-proteger-a-trabajadores-migrantes-20257520200",
+        "date": "2025-07-06 00:20:00",
+        "sentiment_score": -0.030992761254310608
+    },
+    {
+        "title": "EE.UU.: Universidad de Pensilvania prohíbe participación de atletas transgénero y borra logros de Lia Thomas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/ee-uu-universidad-de-pensilvania-prohibe-participacion-de-atletas-transgenero-y-borra-logros-de-lia-thomas-20257520500",
+        "date": "2025-07-06 00:06:10",
+        "sentiment_score": -0.7787242103368044
     }
 ];
