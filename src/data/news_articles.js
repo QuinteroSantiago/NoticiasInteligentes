@@ -1,280 +1,5 @@
 export default [
     {
-        "title": "Un joven se salta el límite de velocidad y la policía le multa y le quita tres puntos del carnet: su padre envía una carta de agradecimiento a los agentes",
-        "image_url": "https://www.infobae.com/resizer/v2/5V4GPRA3HBHZXPQA7JMRAMBIJM.jpg?auth=06c9eb170ada1d56d4628b595ee290531bf85198b3ac7bd1af0f9df7f3b7c604&height=1278&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/02/un-joven-se-salta-el-limite-de-velocidad-y-la-policia-le-multa-y-le-quita-tres-puntos-del-carnet-su-padre-envia-una-carta-de-agradecimiento-a-los-agentes/",
-        "date": "2025-07-02 06:34:39",
-        "sentiment_score": -0.6249365583062172
-    },
-    {
-        "title": "Carmen Machi revela que se marchó de ‘Aída’ debido a un problema en su salud: “El día que la dejé se me quitó y nunca más lo he tenido”",
-        "image_url": "https://www.infobae.com/resizer/v2/AFLWLVYWKBFQ7DHZ4SYZT4DVXA.jpeg?auth=b9227cf7bb7b6e20d285de4b9f6e830fd025df09559906bafd204dabda15937e&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/02/carmen-machi-revela-que-se-marcho-de-aida-debido-a-un-problema-en-su-salud-el-dia-que-la-deje-se-me-quito-y-nunca-mas-lo-he-tenido/",
-        "date": "2025-07-02 06:27:47",
-        "sentiment_score": -0.8887889860197902
-    },
-    {
-        "title": "Las revistas del corazón esta semana: las imágenes que confirman la relación de Aitana y Plex",
-        "image_url": "https://www.infobae.com/resizer/v2/MEUGNA4FWRB77ISTUTUO37K5RY.jpg?auth=c8a728c3c1377c6239302a51a96a4bdd11b4c34fa50f679e0154c69bf688883f&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/02/las-revistas-del-corazon-esta-semana-las-imagenes-que-confirman-la-relacion-de-aitana-y-plex/",
-        "date": "2025-07-02 06:23:31",
-        "sentiment_score": 0.04601076990365982
-    },
-    {
-        "title": "Estafa de 2,2 millones de euros al seguro médico: acusan a la directiva de una compañía de taxis de falsificar facturas y blanquear dinero",
-        "image_url": "https://www.infobae.com/resizer/v2/IPFXGTGPYTDRXH2PZSWKRMD7BU.jpg?auth=0f2c54d3985624a9d16ec0b3fba2440ce321fc3e41fd0a590f07d6315d140440&height=3667&smart=true&width=5500",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/02/estafa-de-22-millones-de-euros-al-seguro-medico-acusan-a-la-directiva-de-una-compania-de-taxis-de-falsificar-facturas-y-blanquear-dinero/",
-        "date": "2025-07-02 06:04:20",
-        "sentiment_score": -0.7510608695447445
-    },
-    {
-        "title": "Esta es la razón por la que el calor nos vuelve más agresivos, según una psicóloga",
-        "image_url": "https://www.infobae.com/resizer/v2/YX7OY2IXXJB7VOXSCMIZVFCOOI.jpg?auth=05d3b32bbc08644ce486d77656a0f54d32593fec8340e5ad245143ff32f0e05d&height=3700&smart=true&width=5500",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/02/esta-es-la-razon-por-la-que-el-calor-nos-vuelve-mas-agresivos-segun-una-psicologa/",
-        "date": "2025-07-02 06:03:00",
-        "sentiment_score": -0.26589154452085495
-    },
-    {
-        "title": "Una experta aclara cómo conseguir una hipoteca si eres autónomo: “Tienes que demostrar que ganas dinero”",
-        "image_url": "https://www.infobae.com/resizer/v2/GT4YYHQEXZHEBB5GLMNYAEBKYQ.png?auth=4bd4ce129be7563d0b32685c054b53e7c9a3c55817a21c6bd5048700b4561c11&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/02/una-experta-aclara-como-conseguir-una-hipoteca-si-eres-autonomo-tienes-que-demostrar-que-ganas-dinero/",
-        "date": "2025-07-02 06:01:09",
-        "sentiment_score": 0.38190126419067383
-    },
-    {
-        "title": "Una inquilina es desahuciada tras una década de alquiler: alegó que, según el derecho sucesorio mexicano, la vivienda no era de los propietarios, pero lo rechazan",
-        "image_url": "https://www.infobae.com/resizer/v2/G2ROCHCOLNDJPKJP6MXC2FJLI4.jpg?auth=8d883e144d33fd21350df243c1571d4770eaaf83527c42ce83f053c95659635e&height=1370&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/02/una-inquilina-es-desahuciada-tras-una-decada-de-alquiler-alego-que-segun-el-derecho-sucesorio-mexicano-la-vivienda-no-era-de-los-propietarios-pero-lo-rechazan/",
-        "date": "2025-07-02 05:51:48",
-        "sentiment_score": -0.5880134887993336
-    },
-    {
-        "title": "Un hombre de 31 años termina con la cabeza perforada por el pez que acababa de pescar: un marlín blanco de 27 kilos",
-        "image_url": "https://www.infobae.com/resizer/v2/MB6UFRKSCVHV7JZ66V7OGN46MQ.jpg?auth=02b2f73a44e8479bfd1f88431e5c017bb3805bf0c6ed70a3481078ec3a4b455f&height=4912&smart=true&width=7360",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/02/un-hombre-de-31-anos-termina-con-la-cabeza-perforada-por-el-pez-que-acababa-de-pescar-un-marlin-blanco-de-27-kilos/",
-        "date": "2025-07-02 05:50:24",
-        "sentiment_score": -0.7891591005027294
-    },
-    {
-        "title": "Estos son los cinco electrodomésticos que tienes que desconectar antes de irte de vacaciones: pueden sobrecargarse y elevan la factura de la luz",
-        "image_url": "https://www.infobae.com/resizer/v2/I4FFTOX365FTBDRXHHDSSVXG6Q.jpg?auth=da57902370ccb3462a2b94262596d8f33934b5edcdb0b28787739a923b1ad822&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/02/estos-son-los-cinco-electrodomesticos-que-tienes-que-desconectar-antes-de-irte-de-vacaciones-pueden-sobrecargarse-y-elevan-la-factura-de-la-luz/",
-        "date": "2025-07-02 05:44:41",
-        "sentiment_score": -0.36204420775175095
-    },
-    {
-        "title": "‘The Bear’ renueva por una temporada más: la aclamada serie de Disney+ llegará hasta las cinco entregas",
-        "image_url": "https://www.infobae.com/resizer/v2/6OKCC7MCHRHGHMKWC7VJUTQOTE.jpg?auth=8900eb1442252cd6d14c5874aa90761f8d1d889df38529846aea69d3e8590374&height=2160&smart=true&width=3840",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/07/02/the-bear-renueva-por-una-temporada-mas-la-aclamada-serie-de-disney-llegara-hasta-las-cinco-entregas/",
-        "date": "2025-07-02 05:42:45",
-        "sentiment_score": 0.7444563433527946
-    },
-    {
-        "title": "Cuánto dinero gana un médico de cabecera en España: salario por comunidad autónoma y complementos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/23/salario-medico-2025-kTxD-U701222998347nIC-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/dinero-gana-medico-cabecera-espana-salario-comunidad-autonoma-complementos--20250702171747-nt.html",
-        "date": "2025-07-02 05:15:01",
-        "sentiment_score": -0.13592329621315002
-    },
-    {
-        "title": "El primer gran incendio del año en Cataluña deja un granjero y un trabajador muertos en Lleida",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/L7BAOO5V6FFG3KXMJK744PDODY.jpg?auth=24265f9a22413b9419fa9ccc479f834166a5d1e381c2d4a8b5d99046b828bb87&width=1200",
-        "tags": [
-            "incendios forestales",
-            "psc",
-            "lleida",
-            "muertes",
-            "generalitat cataluña",
-            "cataluña",
-            "agricultura",
-            "salvador illa",
-            "incendios"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-02/el-primer-gran-incendio-del-ano-en-cataluna-deja-un-granjero-y-un-trabajador-muertos-en-lleida.html",
-        "date": "2025-07-02 06:18:55",
-        "sentiment_score": -0.6250589415431023
-    },
-    {
-        "title": "Castilla-La Mancha borra el precio de la matrícula: el primer curso universitario será gratis desde septiembre",
-        "image_url": "https://www.elplural.com/uploads/s1/20/10/79/1/una-facultad-de-la-universidad-de-castilla-la-mancha-uclm_7_480x270.jpeg",
-        "tags": [
-            "castilla-la mancha",
-            "educación"
-        ],
-        "link": "https://www.elplural.com/autonomias/castilla-la-mancha/castilla-la-mancha-borra-precio-matricula-primer-curso-universitario-sera-gratis-septiembre_355641102",
-        "date": "2025-07-02 06:34:59",
-        "sentiment_score": -0.05044788122177124
-    },
-    {
-        "title": "El arranque liguero más vertiginoso para el RCD Mallorca que pone alerta a sus aficionados",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/07/02/6864d25d012a3.jpeg",
-        "tags": [
-            "deportes mallorca"
-        ],
-        "link": "https://www.cope.es/emisoras/illes-balears/baleares/mallorca/deportes-mallorca/noticias/arranque-liguero-vertiginoso-rcd-mallorca-pone-alerta-aficionados-20250702_3179188.html",
-        "date": "2025-07-02 06:32:43",
-        "sentiment_score": -0.022306114435195923
-    },
-    {
-        "title": "El tiempo para hoy en España, 2 de julio de 2025",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250702083123_120.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-tiempo-hoy-espana-julio-2025-20250702083123.html",
-        "date": "2025-07-02 06:31:23",
-        "sentiment_score": -0.2484373226761818
-    },
-    {
-        "title": "El refugio de Ana Botín en una aldea alpina de Suiza: un chalé imponente y fiesta para la jet set",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/07/ana-botin-finca.jpg",
-        "tags": [
-            "gente",
-            "finca",
-            "celebrities",
-            "ana botín",
-            "ciudad real"
-        ],
-        "link": "https://theobjective.com/gente/2025-07-02/refugio-ana-botin-suiza-chale-fiesta/",
-        "date": "2025-07-02 06:30:00",
-        "sentiment_score": 0.882834448479116
-    },
-    {
-        "title": "España persigue su tercer gran título internacional en RTVE",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/594ef023-833f-493c-a4d80cf4a216c821.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/za9911b44-b616-4441-96a37dfaa3a28579/202507/espana-persigue-su-tercer-gran-titulo-internacional-en-rtve",
-        "date": "2025-07-02 06:28:53",
-        "sentiment_score": 0.06472419574856758
-    },
-    {
-        "title": "La penúltima perla",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/ac3126d3-74bb-45e6-9f2d887fb84ff7d5.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z1d8ceb12-08cd-4d1d-b70df9230241c39e/202507/la-penultima-perla",
-        "date": "2025-07-02 06:26:37",
-        "sentiment_score": 0.14449679851531982
-    },
-    {
-        "title": "El primer Alvia de la mañana entre Cádiz y Madrid vuelve a tener retraso",
-        "image_url": "https://static.grupojoly.com/clip/c1aa94fa-e24f-46af-a7ea-6fc525e7a7e2_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodejerez.es/noticias-provincia-cadiz/primer-alvia-manana-cadiz-madrid-retrasos_0_2004268424.html",
-        "date": "2025-07-02 06:26:21",
-        "sentiment_score": -0.780623922124505
-    },
-    {
-        "title": "El primer Alvia de la mañana entre Cádiz y Madrid vuelve a tener retraso",
-        "image_url": "https://static.grupojoly.com/clip/c1aa94fa-e24f-46af-a7ea-6fc525e7a7e2_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodecadiz.es/noticias-provincia-cadiz/primer-alvia-manana-cadiz-madrid-retrasos_0_2004268423.html",
-        "date": "2025-07-02 06:26:21",
-        "sentiment_score": -0.8702651401981711
-    },
-    {
-        "title": "Noticias de hoy, miércoles 2 de julio de 2025",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/06/22/72E60C14-22FB-4C46-A08D-E73445B7C247/noticias-hoy-domingo-22-junio-2025_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena 3 noticias",
-            "sociedad"
-        ],
-        "link": "https://www.antena3.com/noticias/sociedad/noticias-hoy-miercoles-2-julio-2025_202507026864d35477c9307258651eac.html",
-        "date": "2025-07-02 06:36:04",
-        "sentiment_score": 0.041893430054187775
-    },
-    {
-        "title": "Miguel Bosé, así ha sido su apoteósico regreso a Madrid 8 años después: \"Pensé que no iba a volver\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250702083420_120.jpg",
-        "tags": [
-            "cine y música",
-            "chance"
-        ],
-        "link": "https://www.europapress.es/chance/cineymusica/noticia-miguel-bose-asi-sido-apoteosico-regreso-madrid-anos-despues-pense-no-iba-volver-20250702083420.html",
-        "date": "2025-07-02 06:34:20",
-        "sentiment_score": 0.0635138750076294
-    },
-    {
-        "title": "Imágenes del día: Andrés Iniesta organiza un partido de fútbol en su pueblo de Albacete por los 15 años de su bodega",
-        "image_url": "https://s1.elespanol.com/2025/07/02/actualidad/1003743830176_256955429_1706x1280.jpg?contentId=1003743830176",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20250702/imagenes-dia-andres-iniesta-organiza-partido-futbol-pueblo-albacete-anos-bodega/1003743830155_3.html",
-        "date": "2025-07-02 06:34:02",
-        "sentiment_score": -0.03144162893295288
-    },
-    {
-        "title": "Desalojo de pisos en el barrio de Vallcarca en Barcelona, hoy en directo: Última hora del desahucio y el Ayuntamiento",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ad3d5ab1-b169-4193-a2f8-ea0f1439d837_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20250702/desalojo-pisos-vallcarca-barcelona-ultima-hora-directo-119272803",
-        "date": "2025-07-02 06:27:00",
-        "sentiment_score": -0.8006865493953228
-    },
-    {
-        "title": "El primer tren Alvia de la mañana entre Cádiz y Madrid vuelve a tener retraso",
-        "image_url": "https://static.grupojoly.com/clip/c1aa94fa-e24f-46af-a7ea-6fc525e7a7e2_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.europasur.es/noticias-provincia-cadiz/primer-alvia-manana-cadiz-madrid-retrasos_0_2004268425.html",
-        "date": "2025-07-02 06:26:21",
-        "sentiment_score": -0.780623922124505
-    },
-    {
-        "title": "Laliga 25/26 ya conoce su hoja de ruta",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/a04c8f14-a9aa-4019-933d65ad721d91ab.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z30c126d0-fa87-4090-ad5ef2c182c95e65/202507/laliga-2526-ya-conoce-su-hoja-de-ruta",
-        "date": "2025-07-02 06:24:54",
-        "sentiment_score": 0.040892235934734344
-    },
-    {
         "title": "El presunto altercado de Fran Rivera con una mujer en plena calle: “Si te bajas, te reviento”",
         "image_url": "https://www.infobae.com/resizer/v2/C2CYOYKWXZBNTPI6YGXYHN2DGQ.jpg?auth=eb5b647848d53b243e18a9898005c94fd56163b9d019c3258b92c7c0550045df&height=4608&smart=true&width=8192",
         "tags": [
@@ -7469,5 +7194,384 @@ export default [
         "link": "https://2001online.com/deportes/emotiva-despedida-familiares-y-amigos-dan-el-ultimo-adios-al-jugador-diogo-jota-y-su-hermano-andre-20257510320",
         "date": "2025-07-05 14:32:00",
         "sentiment_score": 0.040391020476818085
+    },
+    {
+        "title": "Resultados de la lotería 6/49: ganadores y números premiados",
+        "image_url": "https://www.infobae.com/resizer/v2/5MZBTVL77FEE3ESTGK6OMB5GQU.jpg?auth=5056ea2e6e04543aa5d059b9758d8137f355eaba0e11829d4c8bcc8c8681aa55&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/05/resultados-de-la-loteria-649-ganadores-y-numeros-premiados/",
+        "date": "2025-07-05 21:00:27",
+        "sentiment_score": 0.06653425469994545
+    },
+    {
+        "title": "El PSOE manchego lamenta que Ferraz no tenga en cuenta a Page, \"que gana elecciones\", y defiende su derecho a discrepar",
+        "image_url": "https://www.infobae.com/resizer/v2/ZNMNODWSCRACTPQM5DMYCT3K4Q.jpg?auth=4b07b2a084984dde55d3624cf1876a802b19d02a0a00af7ec93e38791a925946&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/05/el-psoe-manchego-lamenta-que-ferraz-no-tenga-en-cuenta-a-page-que-gana-elecciones-y-defiende-su-derecho-a-discrepar/",
+        "date": "2025-07-05 20:22:50",
+        "sentiment_score": -0.8476260099560022
+    },
+    {
+        "title": "Estos son los ganadores del sorteo de Super Once del 5 julio",
+        "image_url": "https://www.infobae.com/resizer/v2/PCDXDXWPZJB6LIOCSUNLBJDF34.jpg?auth=b6d7597b0a20e3e1190f0aecdc169a58914bf651fed56619049789ca0c36a79f&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/05/estos-son-los-ganadores-del-sorteo-de-super-once-del-5-julio/",
+        "date": "2025-07-05 19:45:23",
+        "sentiment_score": 0.11244224570691586
+    },
+    {
+        "title": "Puente llama \"hipócrita\" a Page en el Comité Federal y este pide turno de réplica pero no se lo conceden",
+        "image_url": "https://www.infobae.com/resizer/v2/WDQYZRQVQVDUTJEMV76WCNFDLI.jpg?auth=18b404b322ee191c31c36834ca4bdb9d414855c6124e093258a918954e055b73&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/05/puente-llama-hipocrita-a-page-en-el-comite-federal-y-este-pide-turno-de-replica-pero-no-se-lo-conceden/",
+        "date": "2025-07-05 19:38:14",
+        "sentiment_score": -0.8289673645049334
+    },
+    {
+        "title": "Feijóo, reelegido presidente del PP de forma contundente: recibe el 99,24% de los votos",
+        "image_url": "https://www.infobae.com/resizer/v2/BIK65GP6LBGPVNR63WXJUYETE4.jpg?auth=ed6bca90104eb20fb9db0e3e0313f788d4f34e901aa4750b68366d8be4fb0e65&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/05/feijoo-reelegido-presidente-del-pp-de-forma-contundente-recibe-el-9924-de-los-votos/",
+        "date": "2025-07-05 19:37:53",
+        "sentiment_score": 0.7655333410948515
+    },
+    {
+        "title": "Sorteo 5 de la Triplex de la Once: los números que dieron fortuna a los nuevos ganadores",
+        "image_url": "https://www.infobae.com/resizer/v2/4H3U3QIFVVD5LDKJMJSF6WWNDY.jpg?auth=e80d21489f735203cc5d97d149e49628ff38bc5039139c9f720fcacce4b90db3&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/05/sorteo-5-de-la-triplex-de-la-once-los-numeros-que-dieron-fortuna-a-los-nuevos-ganadores/",
+        "date": "2025-07-05 19:30:23",
+        "sentiment_score": 0.09375966712832451
+    },
+    {
+        "title": "Adriana Lastra destaca el feminismo como \"eje político\" del PSOE y reconoce la presencia del machismo en el partido",
+        "image_url": "https://www.infobae.com/resizer/v2/WV2ECLLCTVC2RKJ6BYEYO5VC4A.jpg?auth=e2ab3155b34394fb3c9aaba7713cea5b9a6595ce93e8d45e52a15975282a3504&height=1462&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/05/adriana-lastra-destaca-el-feminismo-como-eje-politico-del-psoe-y-reconoce-la-presencia-del-machismo-en-el-partido/",
+        "date": "2025-07-05 18:53:30",
+        "sentiment_score": 0.15784938633441925
+    },
+    {
+        "title": "Moreno replica a Puente tras criticar la \"hipocresía\" de Page: \"Es muy feo decírselo al único presidente con mayoría\"",
+        "image_url": "https://www.infobae.com/resizer/v2/K4NCQL2OUBDCTBSYZUTIBW4G6Q.jpg?auth=769e17245e1cdc987dc2287004abceed544c7e0bec82973e731b62765f58427c&height=1421&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/05/moreno-replica-a-puente-tras-criticar-la-hipocresia-de-page-es-muy-feo-decirselo-al-unico-presidente-con-mayoria/",
+        "date": "2025-07-05 18:53:13",
+        "sentiment_score": -0.9339421037584543
+    },
+    {
+        "title": "Sánchez pone fin a un Comité Federal de ocho horas defendiendo su gestión y con un dardo a Felipe González",
+        "image_url": "https://www.infobae.com/resizer/v2/R7PUKZ66LVFIFFJNLHJYZLQFD4.jpg?auth=d17d07ee4aae3554956ebbe26eea435c3d0e28759f89d0b799539bb146db2e12&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/05/sanchez-pone-fin-a-un-comite-federal-de-ocho-horas-defendiendo-su-gestion-y-con-un-dardo-a-felipe-gonzalez/",
+        "date": "2025-07-05 18:52:55",
+        "sentiment_score": 0.013682350516319275
+    },
+    {
+        "title": "Real Madrid - Borussia Dortmund en el Mundial de Clubes, en directo: el club blanco y el alemán luchan por el pase a semifinales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/07/05/real-madrid-borussia-dortmund-en-el-mundial-de-clubes-en-directo-el-club-blanco-y-el-aleman-luchan-por-el-pase-a-semifinales/",
+        "date": "2025-07-05 18:41:33",
+        "sentiment_score": 0.021623749285936356
+    },
+    {
+        "title": "Feijóo: “No seré como él y si hago lo que hace él, echadme”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4WKQCUKKFNGZXJSEQFSBGC3FJA.jpg?auth=281c0bd786f7069bdded7b04d7d3cf69972c3e0b2dcc3b2aa79283b4c7b65268&width=1200",
+        "tags": [
+            "pp",
+            "pedro sánchez",
+            "psoe",
+            "josé maría aznar",
+            "alberto núñez feijóo",
+            "miguel tellado",
+            "congresos políticos",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-05/feijoo-no-sere-como-el-y-si-hago-lo-que-hace-el-echadme.html",
+        "date": "2025-07-05 18:05:55",
+        "sentiment_score": -0.665865221992135
+    },
+    {
+        "title": "Page se queda casi solo en el Comité Federal",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2V4DI6W36ZK4HCPS5QAZP7LS5Q.jpg?auth=908d6a31147e6b32a5bbd71731345271f064a244d6fc466015743225f02067a2&width=1200",
+        "tags": [
+            "gobierno de españa",
+            "comité federal psoe",
+            "españa",
+            "psoe",
+            "pedro sánchez",
+            "santos cerdán",
+            "caso koldo",
+            "barones psoe"
+        ],
+        "link": "https://elpais.com/espana/2025-07-05/page-se-queda-casi-solo-en-el-comite-federal.html",
+        "date": "2025-07-05 17:13:02",
+        "sentiment_score": -0.713743943721056
+    },
+    {
+        "title": "Mundial de Clubes: ¿Cuándo se jugará la semifinal entre Real Madrid y PSG?",
+        "image_url": "https://pxcdn.meridiano.net/072025/1751753783734.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/mundial-de-clubes-cuando-se-jugara-la-semifinal-entre-real-madrid-y-psg--20257518140",
+        "date": "2025-07-05 22:14:00",
+        "sentiment_score": 0.05488330125808716
+    },
+    {
+        "title": "El duro camino del Real Madrid hacia la final: PSG en semifinales en el 'lado de la muerte'",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/07/05/image-93578fa2-a287-42e1-96b1-b43cd73eefe5-85-2560-1440.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.eurosport.es/futbol/mundial-de-clubes/2025/cuadro-semifinales-cruces-horarios-fechas-rival-real-madrid-donde-ver-television-online-streaming_sto23196075/story.shtml",
+        "date": "2025-07-05 22:13:26",
+        "sentiment_score": -0.18989891558885574
+    },
+    {
+        "title": "Real Madrid supera al Dortmund con apuros finales y se cita con el PSG en semis",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/07/AP25186738342340.jpg",
+        "tags": [
+            "borussia dortmund",
+            "mundial de clubes",
+            "gonzalo garcía",
+            "deportes",
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2025/07/05/real-madrid-supera-al-dortmund-con-goles-de-gonzalo-y-fran-garcia-y-se-cita-con-el-psg-en-semis/",
+        "date": "2025-07-05 22:11:34",
+        "sentiment_score": 0.33313848078250885
+    },
+    {
+        "title": "El Real Madrid de los García se cita con Luis Enrique en una final anticipada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7a797241-a7e5-4bc2-9936-8ddf3189f716_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2025/07/06/cronica-real-madrid-borussia-dortmund-mundial-clubes-119407709.html",
+        "date": "2025-07-05 22:08:43",
+        "sentiment_score": -0.3177042156457901
+    },
+    {
+        "title": "Romances (Closa Capital): “El 50% de las operaciones de integración salen mal”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/04/6867ec19c8a38.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250706/10858635/50-operaciones-integracion-salen-mal.html",
+        "date": "2025-07-05 22:05:00",
+        "sentiment_score": 0.36281645484268665
+    },
+    {
+        "title": "Una sucesión de esfuerzos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/04/21/6080394c1b879.r_d.374-276-0.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250706/10857671/sucesion-esfuerzos-xavier-marcet.html",
+        "date": "2025-07-05 22:05:00",
+        "sentiment_score": 0.10698358714580536
+    },
+    {
+        "title": "El grupo que relanza hoteles catalanes desde Dubái",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/04/6868180edd541.r_d.2440-1693-915.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250706/10859251/grupo-relanza-hoteles-catalanes-dubai.html",
+        "date": "2025-07-05 22:05:00",
+        "sentiment_score": 0.24020814895629883
+    },
+    {
+        "title": "Las dos épocas de la calle Bonaire",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/04/68678f8a0cd1d.r_d.1181-814-2338.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20250706/10856406/dos-epocas-calle-bonaire.html",
+        "date": "2025-07-05 22:05:00",
+        "sentiment_score": -0.06538006663322449
+    },
+    {
+        "title": "El corazón industrial de Catalunya pide voz en la política económica",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/04/6867dcfdcfaf1.r_d.2052-1124-1055.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250706/10858394/corazon-industrial-catalunya-pide-voz-politica-economica.html",
+        "date": "2025-07-05 22:05:00",
+        "sentiment_score": -0.20618562400341034
+    },
+    {
+        "title": "El Real Madrid tira de talento español y sufrimiento final para tumbar al Dortmund y plantarse en semis",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/07/05/686997294f77a.r_d.2272-1315-2731.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/20250706/real-madrid-tira-talento-espanol-sufrimiento-final-tumbar-dortmund-plantarse-semis_314344.html",
+        "date": "2025-07-05 22:02:23",
+        "sentiment_score": -0.860084006562829
+    },
+    {
+        "title": "Una oleada de apagones en Barcelona deja a 6.000 clientes sin luz: “Hemos tirado miles de euros en comida”",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/29/vida/1003742653102_14499522_1706x960.jpg?contentId=1003742653102",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20250705/oleada-apagones-barcelona-clientes-tirado-miles-comida/1003742671130_0.html",
+        "date": "2025-07-05 22:01:57",
+        "sentiment_score": -0.8071495871990919
+    },
+    {
+        "title": "Los 7 cracks que juegan en Arabia Saudita y podrían romperla en Europa",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-07/04/19/thumb/2jMtVF4gm.jpg?3%2C0=&crop=1245%3A830&resize=1250%3A830",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/mejores-jugadores-en-arabia-saudita-mundial-de-clubes",
+        "date": "2025-07-05 22:01:03",
+        "sentiment_score": 0.29337866231799126
+    },
+    {
+        "title": "El dispositivo para combatir el calor en Barcelona: dan abanicos, gorras y agua fría a personas vulnerables",
+        "image_url": "https://album.mediaset.es/eimg/2025/06/29/mas-de-un-centenar-de-estaciones-de-la-aemet-superaron-los-40oc-con-hasta-46oc-en-el-granado-huelva_8dd7.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20250705/dispositivo-ola-calor-personas-vulnerables-abanicos-agua-fria-barcelona_18_016014954.html",
+        "date": "2025-07-05 22:00:54",
+        "sentiment_score": -0.6895819492638111
+    },
+    {
+        "title": "Eduard Fernández",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/08/creacion/922667817_14827279_1706x960.jpg?contentId=922667817",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20250705/eduard-fernandez/1003742671442_0.html",
+        "date": "2025-07-05 22:00:00",
+        "sentiment_score": -0.25563138723373413
+    },
+    {
+        "title": "Lula insinúa posible candidatura para 2026: Brasil podría tener un presidente electo cuatro veces",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751751823897.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/lula-insinua-posible-candidatura-para-2026-brasil-podria-tener-un-presidente-electo-cuatro-veces-20257518150",
+        "date": "2025-07-05 22:15:00",
+        "sentiment_score": 0.04787634313106537
+    },
+    {
+        "title": "¡Atención beneficiarios SNAP! Conozca la fecha de pago por número EDG en Texas: aquí el calendario",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751753696978.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/atencion-beneficiarios-snap-conozca-la-fecha-de-pago-por-numero-edg-en-texas-aqui-el-calendario-20257518130",
+        "date": "2025-07-05 22:13:00",
+        "sentiment_score": 0.04257844388484955
+    },
+    {
+        "title": "Salarios en la Casa Blanca: estos son los funcionarios que más cobran en el gobierno de Trump",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751655029723.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/salarios-en-la-casa-blanca-estos-son-los-funcionarios-que-mas-cobran-en-el-gobierno-de-trump-20257517350",
+        "date": "2025-07-05 21:35:00",
+        "sentiment_score": -0.059441253542900085
+    },
+    {
+        "title": "Inicia construcción de puente provisional en Guasdualito: busca restablecer conectividad tras inundaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751749775060.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/inicia-construccion-de-puente-provisional-en-guasdualito-busca-restablecer-conectividad-tras-inundaciones-20257517310",
+        "date": "2025-07-05 21:31:00",
+        "sentiment_score": 0.14819708466529846
+    },
+    {
+        "title": "Luis Díaz: esta es la razón por la cual no viajó al funeral de Diogo Jota",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751752067109.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/luis-diaz-esta-es-la-razon-por-la-cual-no-viajo-al-funeral-de-diogo-jota-20257518100",
+        "date": "2025-07-05 21:17:23",
+        "sentiment_score": -0.6033540014177561
+    },
+    {
+        "title": "¡Atención jubilados! Próximo pago del Seguro Social en EEUU: ¿Quién recibe su beneficio el 9 de julio?",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751750391979.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/atencion-jubilados-proximo-pago-del-seguro-social-en-eeuu-quien-recibe-su-beneficio-el-9-de-julio--20257517120",
+        "date": "2025-07-05 21:12:00",
+        "sentiment_score": 0.43278050981462
+    },
+    {
+        "title": "Elon Musk: Hoy se forma el Partido América para devolverle a Estados Unidos su libertad",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751749403267.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/elon-musk-hoy-se-forma-el-partido-america-para-devolverle-a-estados-unidos-su-libertad-2025751780",
+        "date": "2025-07-05 21:08:00",
+        "sentiment_score": -0.7899732980877161
+    },
+    {
+        "title": "Wimbledon 2025: Djokovic hace historia y brilla con el mejor punto del torneo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751747340212.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/wimbledon-2025-djokovic-hace-historia-y-brilla-con-el-mejor-punto-del-torneo-20257517500",
+        "date": "2025-07-05 21:03:38",
+        "sentiment_score": 0.9017436802387238
+    },
+    {
+        "title": "¡Inolvidable! \"El Amanecer Vallenato\" rindió homenaje a Juan Gabriel en el Poliedro de Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751746104396.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/inolvidable-el-amanecer-vallenato-rindio-homenaje-a-juan-gabriel-en-el-poliedro-de-caracas-2025751690",
+        "date": "2025-07-05 20:09:00",
+        "sentiment_score": 0.40294815972447395
+    },
+    {
+        "title": "¡Dreamers sufren duro golpe en Texas! Juez bloquea beneficio: estudiantes universitarios deberán pagar más",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751738606508.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/dreamers-sufren-duro-golpe-en-texas-juez-bloquea-beneficio-estudiantes-universitarios-deberan-pagar-mas-2025751650",
+        "date": "2025-07-05 20:05:00",
+        "sentiment_score": -0.8192075230181217
     }
 ];
