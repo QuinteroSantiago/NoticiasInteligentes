@@ -130,66 +130,6 @@ export default [
         "sentiment_score": 0.07030579447746277
     },
     {
-        "title": "Ouigo niega «categóricamente» ser el responsable del caos ferroviario del lunes: «Ningún tren presentaba daños al llegar al taller»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/03/1489861416-RODEJrea4g22UroAelrZdqM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/ouigo-niega-categoricamente-responsable-caos-ferroviario-lunes-20250703141133-nt.html",
-        "date": "2025-07-03 12:12:10",
-        "sentiment_score": -0.13026507198810577
-    },
-    {
-        "title": "Abre el canal de Panamá para unir el Pacífico y el Atlántico",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/02/canal-de-panama-Rb4LXp0UcWehI02yXRWBPIK-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/abre-canal-panama-unir-pacifico-atlantico-20250702193111-nt.html",
-        "date": "2025-07-03 11:30:55",
-        "sentiment_score": -0.014790356159210205
-    },
-    {
-        "title": "Los sindicatos amenazan con movilizaciones por tener congelado el sueldo de los funcionarios",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/03/pepe-unai-ccoougt-primerodemayo-RlZSJ6FxlpSPQHsLRNwfwsL-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/sindicatos-amenazan-movilizaciones-tener-congelado-sueldo-funcionarios-20250703132639-nt.html",
-        "date": "2025-07-03 11:30:08",
-        "sentiment_score": -0.0631401389837265
-    },
-    {
-        "title": "Un apretón de manos para la paz entre israelíes y palestinos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/02/40000-8-Ru6CGZ5ijKl1wnSwR1BFC5N-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/apreton-manos-paz-israelies-palestinos-20250702205857-nt.html",
-        "date": "2025-07-03 11:29:58",
-        "sentiment_score": 0.060759902000427246
-    },
-    {
-        "title": "Acusan a TikTok de viralizar vídeos racistas hechos con la IA de Google",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/07/03/ia-tiktok-RVhjZIyGP14I7JjG86NuXjI-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/acusan-tiktok-viralizar-videos-racistas-ia-google-20250703130117-nt.html",
-        "date": "2025-07-03 11:01:18",
-        "sentiment_score": -0.3166019320487976
-    },
-    {
-        "title": "China critica los acuerdos comerciales entre Vietnam y EE.UU. que «perjudican» a otros",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/03/mao-trump-kCkB-U701233890404UjC-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/china-critica-acuerdos-comerciales-vietnam-eeuu-perjudican-20250703124347-nt.html",
-        "date": "2025-07-03 10:43:47",
-        "sentiment_score": -0.1778002232313156
-    },
-    {
         "title": "Las víctimas del metro de Valencia sobre la gestión con las afectadas de la dana: “Es un calco de lo que nos hicieron”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/DJ2OXWNBJVABFJQKIK4XVNYS74.JPG?auth=9c78659124df3a9ee0bb826631e56e9619e3411291458c32656388877678e613&width=1200",
         "tags": [
@@ -331,24 +271,6 @@ export default [
         "link": "https://elpais.com/espana/2025-07-03/sanchez-comunica-a-varios-miembros-de-la-ejecutiva-del-psoe-que-no-seguiran-tras-el-comite-federal-del-sabado.html",
         "date": "2025-07-03 15:19:21",
         "sentiment_score": -0.28717517852783203
-    },
-    {
-        "title": "Prisión para dos patronos de una patera que desembarcó inmigrantes en Formentera e intentó volver a Argelia a por más",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/R2MUPFK3NBF55BL6473L7I3REY.jpeg?auth=34007434978acdfb0503ba93a5cbd74f0692efa7fbe8356fcbad365794ae2e66&width=1200",
-        "tags": [
-            "isla formentera",
-            "baleares",
-            "inmigración irregular españa",
-            "inmigración",
-            "pateras",
-            "inmigración irregular",
-            "pateras mediterráneo",
-            "inmigrantes africanos",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-07-03/prision-para-dos-patronos-de-una-patera-que-desembarco-inmigrantes-en-formentera-e-intentaron-volver-a-argelia-a-por-mas.html",
-        "date": "2025-07-03 14:14:12",
-        "sentiment_score": -0.1655871719121933
     },
     {
         "title": "Rachad, cerca de poner rumbo al Real Madrid Castilla a cambio de 6 millones",
@@ -7486,5 +7408,350 @@ export default [
         "link": "https://2001online.com/usa/servicios/tsa-otorga-beneficios-exclusivos-a-militares-de-eeuu-sepa-cuales-2025761600",
         "date": "2025-07-06 20:00:00",
         "sentiment_score": 0.10797682031989098
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/GKA3FFW4JFEB7GOJJXLN52MWJM.jpg?auth=0e6afbb455d1ff051763747db8015f9da4f28384c065c1e5b997011e10cc4009&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/07/prediccion-del-clima-estas-son-las-temperaturas-en-madrid/",
+        "date": "2025-07-07 01:31:29",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Pronóstico del clima: las temperaturas esperadas en Barcelona este 7 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/3MU2HKNCBNFW5FQLAHAU25HETQ.jpg?auth=4de3ce9ef5c48955971146a6671f88332ed1e49013c5d4824a26309a4cc45985&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/07/pronostico-del-clima-las-temperaturas-esperadas-en-barcelona-este-7-de-julio/",
+        "date": "2025-07-07 01:18:11",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "¿Qué ver en Prime Video? Estas son las películas top en España",
+        "image_url": "https://www.infobae.com/resizer/v2/T5GRYRGLF5CTTODZNO37SASCCI.jpg?auth=05bbfa9c2f2eb1d2ab2642005b4137141bc74068ce3c8c285e27b747d1680e80&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/07/06/que-ver-en-prime-video-estas-son-las-peliculas-top-en-espana/",
+        "date": "2025-07-06 23:30:48",
+        "sentiment_score": 0.23355581611394882
+    },
+    {
+        "title": "Los artistas que dominan el ranking de K-pop en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/A4YD263FHRD7NI3APILFFDKBP4.jpg?auth=0820a7bac32d87558aad9d98dc33ea718a5cffe2c4d43337554ca135afe7c7b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/06/los-artistas-que-dominan-el-ranking-de-k-pop-en-itunes-espana/",
+        "date": "2025-07-06 23:15:25",
+        "sentiment_score": 0.6724048964679241
+    },
+    {
+        "title": "Isabel Allende, la escritora en español más leída de la historia: “Si la cosa se pone color de hormiga, como creo que se va a poner, tendré que irme de Estados Unidos”",
+        "image_url": "https://www.infobae.com/resizer/v2/KA2RF7VL3JGUNFDK6RYSGZQLZI.jpg?auth=211449fb86f8711a3920ac531560913cfb552f18385b2d43ea9eb05cae1dd020&height=1440&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/05/25/isabel-allende-la-escritora-en-espanol-mas-leida-de-la-historia-si-la-cosa-se-pone-color-de-hormiga-como-creo-que-se-va-a-poner-tendre-que-irme-de-estados-unidos/",
+        "date": "2025-07-06 22:25:19",
+        "sentiment_score": 0.17032133787870407
+    },
+    {
+        "title": "Courtois: \"Debemos aprender a matar los partidos\"",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "real madrid",
+            "mundial de clubes",
+            "thibaut courtois"
+        ],
+        "link": "https://eltiempove.com/courtois-debemos-aprender-a-matar-los-partidos/",
+        "date": "2025-07-07 02:15:05",
+        "sentiment_score": 0.017617598176002502
+    },
+    {
+        "title": "Juan Carlos Ruiz Boix: \"San Roque es hoy la capital cultural del Campo de Gibraltar\"",
+        "image_url": "https://static.grupojoly.com/clip/45599ede-6d07-446c-b9b7-efdd2c6de26d_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europasur.es/san_roque/juan-carlos-ruiz-boix-capital-cultural-campo-gibraltar_0_2004276484.html",
+        "date": "2025-07-07 02:00:53",
+        "sentiment_score": 0.7519316114485264
+    },
+    {
+        "title": "El inicio del despliegue en la provincia de Cádiz",
+        "image_url": "https://static.grupojoly.com/clip/307fc486-c627-4ddd-971f-9d6df98fb866_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europasur.es/algeciras/guardia-civil-inicio-despliegue-provincia-cadiz_0_2004270163.html",
+        "date": "2025-07-07 02:00:53",
+        "sentiment_score": 0.3289372846484184
+    },
+    {
+        "title": "El hijo de Carlo Ancelotti dirigirá al Botafogo del venezolano Jefferson Savarino",
+        "image_url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_640,h_480/https://lapatilla.com/wp-content/uploads/2025/07/davide-carlo-ancelotti.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://lapatilla.com/2025/07/06/el-hijo-de-carlo-ancelotti-dirigira-al-botafogo-del-venezolano-jefferson-savarino/",
+        "date": "2025-07-07 01:27:33",
+        "sentiment_score": 0.41079971194267273
+    },
+    {
+        "title": "El Mundial de Clubes define una nueva economía del fútbol",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/28/2025062801493848410.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/mundial-clubes-define-nueva-economia-futbol/20250707031511349669.html",
+        "date": "2025-07-07 01:15:11",
+        "sentiment_score": 0.3593880124390125
+    },
+    {
+        "title": "Lo popular y lo culto",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/popular-culto_0_2004298637.html",
+        "date": "2025-07-07 01:06:31",
+        "sentiment_score": 0.03342293202877045
+    },
+    {
+        "title": "Santos Cerdán y su socio hacían negocios con una empresa controlada por Zalbidegoitia, el tesorero histórico del PNV",
+        "image_url": "https://s1.elespanol.com/2025/07/06/actualidad/1003743836156_257068555_1706x960.jpg?contentId=1003743836156",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/20250707/santos-cerdan-socio-hacian-negocios-empresa-controlada-zalbidegoitia-tesorero-historico-pnv/1003743836062_0.html",
+        "date": "2025-07-07 01:06:21",
+        "sentiment_score": -0.18598773330450058
+    },
+    {
+        "title": "El inesperado cruce entre dos ídolos de Boca Juniors: Martín Palermo le contestó a Chicho Serna y reactivó un viejo debate",
+        "image_url": "https://www.infobae.com/resizer/v2/TLBLYZNFCFGGJG3OZNFIXIBCXU.JPG?auth=e4a523ac6c4d9c4638b4424a6e2cc41ce4a20eb541db3b1d692b8779355a080b&height=2388&smart=true&width=3448",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/07/el-inesperado-cruce-entre-dos-idolos-de-boca-juniors-martin-palermo-le-contesto-a-chicho-serna-y-reactivo-un-viejo-debate/",
+        "date": "2025-07-07 00:53:50",
+        "sentiment_score": 0.33114954829216003
+    },
+    {
+        "title": "Tras ser eliminado del Mundial de Clubes, el Al Hilal cerraría el fichaje de referente de histórico equipo italiano",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/07/07/tras-ser-eliminado-del-mundial-de-clubes-el-al-hilal-cerraria-el-fichaje-de-referente-de-historico-equipo-italiano/",
+        "date": "2025-07-07 00:48:21",
+        "sentiment_score": 0.6993061862885952
+    },
+    {
+        "title": "El CIEMAT apuesta por la inteligencia artificial para soñar con energía nuclear infinita",
+        "image_url": "https://s1.elespanol.com/2023/02/10/ciencia/740436922_230823730_1706x960.jpg?contentId=740436922",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/centros-tecnologicos/20250707/ciemat-apuesta-inteligencia-artificial-sonar-energia-nuclear-infinita/1003743832272_0.html",
+        "date": "2025-07-07 00:46:13",
+        "sentiment_score": 0.27529284358024597
+    },
+    {
+        "title": "Tres de cada diez ofertas de empleo en Granada son de perfil tecnológico",
+        "image_url": "https://static.grupojoly.com/clip/00e86505-9312-4110-ac10-5c8597e97de7_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.granadahoy.com/granada/tres-diez-ofertas-empleo-granada-tecnologico_0_2004292155.html",
+        "date": "2025-07-07 02:05:59",
+        "sentiment_score": 0.06998145580291748
+    },
+    {
+        "title": "Ciutadella destaca en el mapa nacional: el 20 % de las viviendas de Cala en Blanes son de alquiler turístico",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3377887.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/07/07/2424135/ciutadella-destaca-mapa-nacional-viviendas-cala-blanes-son-alquiler-turistico.html",
+        "date": "2025-07-07 02:00:01",
+        "sentiment_score": -0.043011374771595
+    },
+    {
+        "title": "Glòria de Castro: «Saldría a quemar contenedores, pero en lugar de eso prefiero escribir»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3367773.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/07/07/2418577/literatura-mallorca-saldria-quemar-contenedores-pero-lugar-eso-prefiero-escribir.html",
+        "date": "2025-07-07 02:00:01",
+        "sentiment_score": -0.29871396720409393
+    },
+    {
+        "title": "El paraíso de los británicos sigue estando en España y tiene un nombre: Benidorm",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/04/22/6807b8090b772.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250707/paraiso-britanicos-sigue-estando-espana-tiene-nombre-benidorm_313711.html",
+        "date": "2025-07-07 02:00:00",
+        "sentiment_score": 0.2677758112549782
+    },
+    {
+        "title": "Los Otros Vuelos doblan la actividad de las compañías aéreas en el aeropuerto leonés",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/06/686ab8b57b02e.jpeg",
+        "tags": [
+            "león"
+        ],
+        "link": "https://www.diariodeleon.es/leon/250707/2053377/otros-vuelos-doblan-actividad-companias-aereas-aeropuerto-leones.html",
+        "date": "2025-07-07 01:30:00",
+        "sentiment_score": 0.02222030609846115
+    },
+    {
+        "title": "Buenas cifras que animan el aeropuerto",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "editoriales"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/editoriales/250707/2053383/buenas-cifras-animan-aeropuerto.html",
+        "date": "2025-07-07 01:30:00",
+        "sentiment_score": 0.914081278257072
+    },
+    {
+        "title": "Uviéu ye la cuarta gran ciudá d'España con menor endeudamientu",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/274bcd4d-9fa3-4f50-92a1-d02dadc9e60b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2025/07/07/uvieu-ye-cuarta-gran-ciuda-119405223.html",
+        "date": "2025-07-07 01:05:40",
+        "sentiment_score": -0.2266751229763031
+    },
+    {
+        "title": "¿Y tú, aún no cuentas con tu CIO?",
+        "image_url": "https://s1.elespanol.com/2025/07/04/actualidad/1003743834093_257027941_1706x960.jpg?contentId=1003743834093",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/opinion/20250707/no-cuentas-cio/1003743833962_12.html",
+        "date": "2025-07-07 00:47:16",
+        "sentiment_score": -0.29372765123844147
+    },
+    {
+        "title": "Colores chillones, gatitos con lazo y un packaging que parece un Happy Meal: ¿qué tiene Barcelona para que tantas firmas de moda dirijan sus colecciones a \"adultos que no quieren crecer\"?",
+        "image_url": "https://phantom-elmundo.uecdn.es/84d98cf0559b8d3d3cf8a483e1c68460/crop/7x67/705x590/f/webp/assets/multimedia/imagenes/2025/07/02/17514612147780.png",
+        "tags": [
+            "tendencias de moda",
+            "moda"
+        ],
+        "link": "https://www.elmundo.es/yodona/moda/2025/07/07/68652a3afdddff21298b4578.html",
+        "date": "2025-07-07 00:38:40",
+        "sentiment_score": 0.6344182938337326
+    },
+    {
+        "title": "Retinol corporal: aprende a usar este activo que no está hecho solo para el rostro",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751634106956.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/retinol-corporal-aprende-a-usar-este-activo-que-no-esta-hecho-solo-para-el-rostro-2025762200",
+        "date": "2025-07-07 02:00:00",
+        "sentiment_score": 0.20634892955422401
+    },
+    {
+        "title": "Predicciones de la semana del 7 al 13 de julio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-7-al-13-de-julio--2025762200",
+        "date": "2025-07-07 02:00:00",
+        "sentiment_score": -0.00600404292345047
+    },
+    {
+        "title": "Prestigioso psiquiatra revela secreto para dormir bien: el truco está en usar de forma correcta tus ojos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751852607230.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/prestigioso-psiquiatra-revela-secreto-para-dormir-bien-el-truco-esta-en-usar-de-forma-correcta-tus-ojos-20257621500",
+        "date": "2025-07-07 01:50:00",
+        "sentiment_score": -0.8231821320950985
+    },
+    {
+        "title": "Continúa el retiro de escombros en en la Autopista Gran Mariscal de Ayacucho: sentido Guarenas-Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751852461511.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/continua-el-retiro-de-escombros-en-en-la-autopista-gran-mariscal-de-ayacucho-sentido-guarenas-caracas-20257621430",
+        "date": "2025-07-07 01:43:00",
+        "sentiment_score": 0.45450037717819214
+    },
+    {
+        "title": "“Jurassic World El Renacimiento” arrasa en taquilla: se posiciona como el cuarto mejor debut de la franquicia",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751853138193.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/jurassic-world-el-renacimiento-arrasa-en-taquilla-se-posiciona-como-el-cuarto-mejor-debut-de-la-franquicia-20257621420",
+        "date": "2025-07-07 01:42:00",
+        "sentiment_score": 0.8913793433457613
+    },
+    {
+        "title": "Programa tu teléfono para alertar a tus contactos si eres detenido por ICE: así debes hacerlo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751841974133.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/programa-tu-telefono-para-alertar-a-tus-contactos-si-eres-detenido-por-ice-asi-debes-hacerlo-20257621340",
+        "date": "2025-07-07 01:34:00",
+        "sentiment_score": 0.3302626386284828
+    },
+    {
+        "title": "Garantizan el combustible en el Páramo: ministerio de Hidrocarburos activa plan especial para surtir a productores y servicios públicos en Mérida",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751849928240.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/garantizan-el-combustible-en-el-paramo-ministerio-de-hidrocarburos-activa-plan-especial-para-surtir-a-productores-y-servicios-publicos-en-merida-20257621310",
+        "date": "2025-07-07 01:31:00",
+        "sentiment_score": 0.1909698322415352
+    },
+    {
+        "title": "Cambio de datos en Cashea: el paso esencial para actualizar su correo o teléfono registrado",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751772448386.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/cambio-de-datos-en-cashea-el-paso-esencial-para-actualizar-su-correo-o-telefono-registrado-2025762100",
+        "date": "2025-07-07 01:00:00",
+        "sentiment_score": 0.20394159480929375
+    },
+    {
+        "title": "Es ideal contra diabetes, artritis y calambres: la fuerza curativa poco conocida de este tubérculo tan popular",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751849579636.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/es-ideal-contra-diabetes-artritis-y-calambres-la-fuerza-curativa-poco-conocida-de-este-tuberculo-tan-popular-20257620550",
+        "date": "2025-07-07 00:55:00",
+        "sentiment_score": -0.5911736711859703
+    },
+    {
+        "title": "Amazonas: más de 170 familias afectadas por la crecida del río Orinoco debido a las lluvias",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751848768093.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/amazonas-mas-de-170-familias-afectadas-por-la-crecida-del-rio-orinoco-debido-a-las-lluvias-20257620440",
+        "date": "2025-07-07 00:44:00",
+        "sentiment_score": -0.10139524191617966
     }
 ];
