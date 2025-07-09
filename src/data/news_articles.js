@@ -253,102 +253,6 @@ export default [
         "sentiment_score": -0.7956070117652416
     },
     {
-        "title": "Las mujeres detrás de la valla que aún gritan por el PSOE",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TRZGVRN4SBWKD6R3ASK2MHYKY4.jpg?auth=1276ec9d3b2a3ee53d2df1473cb10c431073ef944e17f431df46c93b3b3cf78d&width=1200",
-        "tags": [
-            "machismo",
-            "psoe",
-            "españa",
-            "política",
-            "prostitución",
-            "corrupción",
-            "partidos políticos",
-            "santos cerdán",
-            "comité federal psoe"
-        ],
-        "link": "https://elpais.com/espana/2025-07-05/las-mujeres-detras-de-la-valla-que-aun-gritan-por-el-psoe.html",
-        "date": "2025-07-05 13:27:05",
-        "sentiment_score": 0.1445292830467224
-    },
-    {
-        "title": "Sánchez recupera a Antonio Hernando en la Ejecutiva del PSOE y salva al ‘número dos’ de Cerdán",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BXKOL6MLTRCJDK7DETFKJSFQDM.jpg?auth=ec777c3d909e26e38884f440253a59a2854fa308891cb5b1a9f95e4555ff631c&width=1200",
-        "tags": [
-            "gobierno",
-            "corrupción",
-            "machismo",
-            "comité federal psoe",
-            "josé luis ábalos",
-            "pp",
-            "prostitución",
-            "santos cerdán",
-            "política",
-            "pedro sánchez",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-07-05/sanchez-recupera-a-antonio-hernando-en-la-ejecutiva-del-psoe-y-salva-al-numero-dos-de-cerdan.html",
-        "date": "2025-07-05 12:04:17",
-        "sentiment_score": -0.17839889228343964
-    },
-    {
-        "title": "Más de 80 detenidos en Barcelona en un dispositivo contra la multirreincidencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y7MPCJ2R3D3ODDXEG2PE6CNV34.jpg?auth=32810622d3557593fe0e98ee7ffdcf9fb20c0ba528cbce6c58cfb5b896b87be6&width=1200",
-        "tags": [
-            "policía",
-            "barcelona",
-            "cataluña",
-            "robos",
-            "detenciones",
-            "mossos d'esquadra",
-            "delitos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-05/mas-de-80-detenidos-en-barcelona-en-un-dispositivo-contra-la-multirreincidencia.html",
-        "date": "2025-07-05 11:38:50",
-        "sentiment_score": -0.4855487607419491
-    },
-    {
-        "title": "Barcelona en comú pide un “frente amplio” de las izquierdas en vistas a las municipales de 2027",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3ODYLDMANFECPHOP5JPUO6B3ZQ.jpeg?auth=dcb1ad2f378dd84d29fbb9c3ca421bcb6889caa4ccca05fc713b160aca1aa924&width=1200",
-        "tags": [
-            "barcelona",
-            "ada colau",
-            "partidos políticos",
-            "congresos políticos",
-            "janet sanz",
-            "elecciones municipales",
-            "política municipal",
-            "cataluña",
-            "política",
-            "barcelona en comú"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-05/barcelona-en-comu-pide-un-frente-amplio-de-las-izquierdas-en-vistas-a-las-municipales-de-2027.html",
-        "date": "2025-07-05 11:05:21",
-        "sentiment_score": 0.45396312326192856
-    },
-    {
-        "title": "Sánchez reivindica su Gobierno y descarta dimitir: “Tengo el corazón tocado y la determinación intacta”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Z6QKA2L3P5JTPFFHYQTRWGTE3E.jpg?auth=9b93f5b3ed0386851b08fa5793bb76fa74bf5c6248ef5cbfae239e2803dad871&width=1200",
-        "tags": [
-            "socialismo",
-            "gobierno",
-            "santos cerdán",
-            "alberto núñez feijóo",
-            "psoe",
-            "tribunales",
-            "machismo",
-            "josé luis ábalos",
-            "pp",
-            "españa",
-            "corrupción",
-            "política",
-            "pedro sánchez",
-            "comité federal psoe"
-        ],
-        "link": "https://elpais.com/espana/2025-07-05/sanchez-reivindica-su-gobierno-y-descarta-dimitir-tengo-el-corazon-tocado-y-la-determinacion-intacta.html",
-        "date": "2025-07-05 11:04:51",
-        "sentiment_score": 0.7308746911585331
-    },
-    {
         "title": "Equi Fernández suena como el sustituto de Zubimendi",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/82b00aac-98c8-4663-ba3f-c4359fee05a5_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -7534,5 +7438,361 @@ export default [
         "link": "https://2001online.com/servicios/estos-son-los-beneficios-del-nuevo-codigo-0422-de-digitel-podras-elegir-tu-numero-2025781710",
         "date": "2025-07-08 21:01:00",
         "sentiment_score": 0.7980771735310555
+    },
+    {
+        "title": "Clima en Madrid: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/VLQPBJ57FVHE5EEUO244GVVUKI.jpg?auth=df376a06cf4887c1b7ee95578b1c9dcd7048cb8fd0eb9aa19637a1e1d65329f6&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/09/clima-en-madrid-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2025-07-09 01:30:56",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Valencia aconseja a los residentes de cuatro viviendas afectadas en el incendio no acceder al interior",
+        "image_url": "https://www.infobae.com/resizer/v2/WB7EKPWOARBONG4DVDCQD6ID6Q.jpg?auth=c21c6b0d0aa9e3d0906f5faa10427ffbccbd0135ebde2f58a6fd04c8eda0cc43&height=1131&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/08/valencia-aconseja-a-los-residentes-de-cuatro-viviendas-afectadas-en-el-incendio-no-acceder-al-interior/",
+        "date": "2025-07-08 23:48:10",
+        "sentiment_score": -0.6968013234436512
+    },
+    {
+        "title": "464 efectivos continuarán trabajando esta noche en la extinción del incendio de Paüls, que sigue activo y afecta ya a unas 3.200 hectáreas",
+        "image_url": "https://www.infobae.com/resizer/v2/RPD6G2ZQD5GG7FGDLWYR74EGRE.jpg?auth=5c56c4187b1b5825b49c639a203f97a49dabd1ea372e1d44f790d9153da1fe89&height=686&smart=true&width=1280",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/08/464-efectivos-continuaran-trabajando-esta-noche-en-la-extincion-del-incendio-de-pauls-que-sigue-activo-y-afecta-ya-a-unas-3200-hectareas/",
+        "date": "2025-07-08 23:34:24",
+        "sentiment_score": -0.5263925641775131
+    },
+    {
+        "title": "Muere a los 80 años el sindicalista ferrolano Suso Díaz, padre de la ministra de Trabajo",
+        "image_url": "https://www.infobae.com/resizer/v2/44UN4FBS4ZGYLLWR5TJFIF4DTM.jpg?auth=4138db08402446c0bed81a1fddb93a39bb8972e00d9ea75004e1aab5efc52d6f&height=1436&smart=true&width=2153",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/08/muere-a-los-80-anos-el-sindicalista-ferrolano-suso-diaz-padre-de-la-ministra-de-trabajo/",
+        "date": "2025-07-08 22:32:08",
+        "sentiment_score": 0.42341069877147675
+    },
+    {
+        "title": "Feijóo traslada sus condolencias a Yolanda Díaz por el fallecimiento de su padre, el sindicalista gallego Suso Díaz",
+        "image_url": "https://www.infobae.com/resizer/v2/35JNA3OQ2FCETGFFWZCJPTHI7A.jpg?auth=72e2808c537286aecd5ee69177bd238468037d212bcfe4ee3f6d90d9af71c558&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/08/feijoo-traslada-sus-condolencias-a-yolanda-diaz-por-el-fallecimiento-de-su-padre-el-sindicalista-gallego-suso-diaz/",
+        "date": "2025-07-08 22:23:06",
+        "sentiment_score": -0.395498089492321
+    },
+    {
+        "title": "Sánchez traslada su \"cariño\" y \"respeto\" a Yolanda Díaz por el fallecimiento de su padre, el sindicalista Suso Díaz",
+        "image_url": "https://www.infobae.com/resizer/v2/W66D4TEQGRCL7DRG5WSUDTMRXI.jpg?auth=20ca0d360b4a5240525f1fcf9fe7b581aa9612bda96531b76e6ea523ad707760&height=1294&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/08/sanchez-traslada-su-carino-y-respeto-a-yolanda-diaz-por-el-fallecimiento-de-su-padre-el-sindicalista-suso-diaz/",
+        "date": "2025-07-08 22:22:55",
+        "sentiment_score": -0.50937370210886
+    },
+    {
+        "title": "El Supremo de EE.UU. da luz verde a los despidos masivos de funcionarios de Trump",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/09/d-trump-kvDD-U701262300913mfH-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/supremo-eeuu-luz-verde-despidos-masivos-funcionarios-20250709013059-nt.html",
+        "date": "2025-07-08 23:31:00",
+        "sentiment_score": -0.06957155466079712
+    },
+    {
+        "title": "Javier Reviriego: \"Para LIV Golf es muy importante estar en campos del nivel de Valderrama\"",
+        "image_url": "https://static.grupojoly.com/clip/cc70e9f9-9c63-4a1d-83a1-f9da4dec192a_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.europasur.es/deportes/javier-reviriego-liv-golf-importante-estar-campos-nivel-valderrama-sotogrande_0_2004310057.html",
+        "date": "2025-07-09 02:01:07",
+        "sentiment_score": 0.7653622273355722
+    },
+    {
+        "title": "Reencuentro Luis Enrique-Mbappé le pone morbo a la semi PSG-Real Madrid en el Mundial de Clubes",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/a736a6c/2147483647/strip/true/crop/1024x538+0+73/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2Fec%2Ff56805dd4d4197d60e189dc050df%2Fap25189694130870.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-07-08/reencuentro-luis-enrique-mbappe-le-pone-morbo-a-la-semi-psg-real-madrid-en-el-mundial-de-clubes",
+        "date": "2025-07-09 01:49:00",
+        "sentiment_score": -0.3876691237092018
+    },
+    {
+        "title": "Hugo García responde tras cena de Isabella Ladera con Vinícius Jr. y lanza frase que aviva rumores: “Hincha de Vinícius no, del Real Madrid”",
+        "image_url": "https://www.infobae.com/resizer/v2/JAHV3HCJ4VCF3L7OB7ULT3ZXZU.jpg?auth=6887fd605e79fd80a17e60532f1ee01412804d9746a7c78ea920d928ecf81985&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/07/09/hugo-garcia-responde-tras-cena-de-isabella-ladera-con-vinicius-jr-y-lanza-frase-que-aviva-rumores-hincha-de-vinicius-no-del-real/",
+        "date": "2025-07-09 01:38:40",
+        "sentiment_score": -0.8313781740143895
+    },
+    {
+        "title": "Así es la nueva normativa con la localía en la Liga de Campeones",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2025/07/Asi-es-la-nueva-normativa-con-la-localia-en-la-Liga-de-Campeones-8-de-jul-2025-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "deportes",
+            "maturín",
+            "venezuela",
+            "monagas"
+        ],
+        "link": "https://elorientaldemonagas.com/asi-es-la-nueva-normativa-con-la-localia-en-la-liga-de-campeones/",
+        "date": "2025-07-09 01:05:00",
+        "sentiment_score": 0.1753418669104576
+    },
+    {
+        "title": "El salto de Carlos Ocaña: De 'escritor' de Sánchez a dominar el Real Madrid de basket",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/07/whatsapp-image-2025-07-08-at-204808-11zon_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/salto-carlos-ocana-escritor-sanchez-dominar-real-madrid-baloncesto",
+        "date": "2025-07-09 01:00:00",
+        "sentiment_score": 0.21542809903621674
+    },
+    {
+        "title": "UEFA mantiene sanciones a Rüdiger, Mbappé y Ceballos por conducta indecente",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2025/07/UEFA-mantiene-sanciones-a-Rudiger-Mbappe-y-Ceballos-por-conducta-indecente-8-de-jul-2025-elorientaldemonagas.com_-1024x477.gif",
+        "tags": [
+            "deportes",
+            "maturín",
+            "venezuela",
+            "monagas"
+        ],
+        "link": "https://elorientaldemonagas.com/uefa-mantiene-sanciones-a-rudiger-mbappe-y-ceballos-por-conducta-indecente/",
+        "date": "2025-07-09 01:00:00",
+        "sentiment_score": -0.8879549019038677
+    },
+    {
+        "title": "De vacaciones en Río a verdugo de su exequipo. João Pedro irrumpe con Chelsea en Mundial de Clubes",
+        "image_url": "https://dims.apnews.com/dims4/default/e68338f/2147483647/strip/true/crop/400x356+0+0/resize/28x25!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2Fd6%2F24be7e05491da439aed7d88df1a3%2Fbluesky-logo-white-copy.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/joao-pedro-chelsea-fluminense-clubes-mundial-b9fa9e84db1d4d81bd67f94042a98c98",
+        "date": "2025-07-09 00:52:14",
+        "sentiment_score": 0.047642096877098083
+    },
+    {
+        "title": "De vacaciones en Río a verdugo de su exequipo. João Pedro irrumpe con Chelsea en Mundial de Clubes",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/07/CLUBES_MUNDIAL_JOAO_PEDRO_82185.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/07/08/de-vacaciones-en-ro-a-verdugo-de-su-exequipo-joo-pedro-irrumpe-con-chelsea-en-mundial-de-clubes/",
+        "date": "2025-07-09 00:52:13",
+        "sentiment_score": -0.06464749574661255
+    },
+    {
+        "title": "Botafogo de Brasil contrata a Davide Ancelotti, hijo de Carlo Ancelotti, como nuevo técnico",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/870b211/2147483647/strip/true/crop/2066x1085+0+146/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2F05%2Fe89758e89e3c4da7ee215fd0d968%2Ff1bb66c5cd454938a70409b2d2354b21",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-07-08/botafogo-de-brasil-contrata-a-davide-ancelotti-hijo-de-carlo-ancelotti-como-nuevo-tecnico",
+        "date": "2025-07-09 00:41:18",
+        "sentiment_score": 0.17654776573181152
+    },
+    {
+        "title": "Susana Quintanilla (Sanitas Hospitales): \"El hospital de Valdebebas podrá atender a 30.000 pacientes a final de año\"",
+        "image_url": "https://s1.elespanol.com/2025/07/07/actualidad/1003743837222_257087081_1706x960.jpg?contentId=1003743837222",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20250709/susana-quintanilla-sanitas-hospitales-hospital-valdebebas-podra-atender-pacientes-final-ano/1003743837089_0.html",
+        "date": "2025-07-09 00:31:56",
+        "sentiment_score": 0.487963929772377
+    },
+    {
+        "title": "El Cruïlla de Barcelona abre este miércoles una edición con Alanis Morissette y Love of Lesbian",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250709040448_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-cruilla-barcelona-abre-miercoles-edicion-alanis-morissette-love-of-lesbian-20250709040448.html",
+        "date": "2025-07-09 02:04:48",
+        "sentiment_score": 0.1051507294178009
+    },
+    {
+        "title": "Corresponsales en Capdepera: el altavoz de los ideales y inquietudes de los jóvenes",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3380647.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/part-forana/2025/07/09/2425695/corresponsales-capdepera-altavoz-ideales-inquietudes-jovenes.html",
+        "date": "2025-07-09 02:00:01",
+        "sentiment_score": 0.28578323125839233
+    },
+    {
+        "title": "La vivienda: Una cuestión de Estado",
+        "image_url": "https://uh.gsstatic.es/autor/jose-antonio-perez-montiel/11327.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/07/09/2425651/vivienda-cuestion-estado.html",
+        "date": "2025-07-09 02:00:01",
+        "sentiment_score": 0.2847527712583542
+    },
+    {
+        "title": "Qué es de Marimar Díaz, la última novia de Miguel Ángel Blanco: Su vida hoy tras ETA",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/07/captura-de-pantalla-2025-07-08-a-las-125731_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/investigacion/que-marimar-diaz-ultima-pareja-miguel-angel-blanco-su-vida-actual",
+        "date": "2025-07-09 01:00:00",
+        "sentiment_score": -0.4635527580976486
+    },
+    {
+        "title": "Ángel, el albañil de 50 años que mató de un escopetazo a su hermano mayor Joan e hirió a 5 mossos antes de ser abatido",
+        "image_url": "https://s1.elespanol.com/2025/07/08/actualidad/1003743839675_257132557_1706x960.jpg?contentId=1003743839675",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250709/angel-albanil-anos-mato-escopetazo-hermano-mayor-joan-hirio-mossos-abatido/1003743839434_0.html",
+        "date": "2025-07-09 00:35:53",
+        "sentiment_score": -0.857701844535768
+    },
+    {
+        "title": "Fuga de enfermeros en Málaga: los recién graduados se marchan en busca de contratos más estables",
+        "image_url": "https://s1.elespanol.com/2023/08/18/enclave-ods/opinion/787681904_235456355_1706x960.jpg?contentId=787681904",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/malaga/vivir/salud/20250709/fuga-enfermeros-malaga-recien-graduados-marchan-busca-contratos-estables/1003743835166_0.html",
+        "date": "2025-07-09 00:35:26",
+        "sentiment_score": -0.8154095187783241
+    },
+    {
+        "title": "RTVE contrata en 'La 2 Cataluña' a los independentistas Toni Soler y Vicent Sanchis y ficha a Jordi Basté para el 'prime time'",
+        "image_url": "https://s1.elespanol.com/2025/07/08/actualidad/1003743839711_257133202_1706x960.jpg?contentId=1003743839711",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elespanol.com/invertia/medios/20250709/rtve-contrata-cataluna-independentistas-toni-soler-vicent-sanchis-ficha-jordi-baste-prime-time/1003743838308_0.html",
+        "date": "2025-07-09 00:31:59",
+        "sentiment_score": -0.8558696452528238
+    },
+    {
+        "title": "¡Choque de titanes! Real Madrid y PSG juegan una 'final anticipada' (Previa)",
+        "image_url": "https://pxcdn.meridiano.net/072025/1752020490276.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/choque-de-titanes-real-madrid-y-psg-juegan-una-final-anticipada-previa--20257820210",
+        "date": "2025-07-09 00:21:00",
+        "sentiment_score": 0.14210673421621323
+    },
+    {
+        "title": "¡Desde monedas hasta LP! Estos objetos caseros pueden valer millones de dólares en EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752026908198.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/desde-monedas-hasta-lp-estos-objetos-caseros-pueden-valer-millones-de-dolares-en-eeuu-2025782280",
+        "date": "2025-07-09 02:08:00",
+        "sentiment_score": 0.8271072432398796
+    },
+    {
+        "title": "Barbie celebra la diversidad: lanzan muñeca con diabetes tipo 1 e incluye equipo médico auténtico",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752026577513.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/barbie-celebra-la-diversidad-lanzan-muneca-con-diabetes-tipo-1-e-incluye-equipo-medico-autentico-2025782210",
+        "date": "2025-07-09 02:01:00",
+        "sentiment_score": 0.08831999823451042
+    },
+    {
+        "title": "La hierba rica en colágeno que combate los dolores de artrosis y reduce la inflamación abdominal",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752026061954.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/la-hierba-rica-en-colageno-que-combate-los-dolores-de-artrosis-y-reduce-la-inflamacion-abdominal-2025782200",
+        "date": "2025-07-09 02:00:00",
+        "sentiment_score": -0.7657832074910402
+    },
+    {
+        "title": "Una crema casera que hace milagros en tu piel para verte joven: solo debes añadirle este popular ingrediente a la miel",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1751903108451.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/una-crema-casera-que-hace-milagros-en-tu-piel-para-verte-joven-solo-debes-anadirle-este-popular-ingrediente-a-la-miel-2025782200",
+        "date": "2025-07-09 02:00:00",
+        "sentiment_score": 0.5493803136050701
+    },
+    {
+        "title": "Invitan a planificar vacaciones en zonas afectadas por las lluvias: en dos semanas las vías podrían estar despejadas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752008824569.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/invitan-a-planificar-vacaciones-en-zonas-afectadas-por-las-lluvias-en-dos-semanas-las-vias-podrian-estar-despejadas-20257821590",
+        "date": "2025-07-09 01:59:00",
+        "sentiment_score": 0.8108424749225378
+    },
+    {
+        "title": "Más de 15 millones de personas a nivel mundial podrían padecer cáncer de estómago: revelan la principal causa",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752024999832.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/mas-de-15-millones-de-personas-a-nivel-mundial-podrian-padecer-cancer-de-estomago-revelan-la-principal-causa-2025782150",
+        "date": "2025-07-09 01:53:00",
+        "sentiment_score": -0.8571473201736808
+    },
+    {
+        "title": "Mérida restablece comunicación terrestre con Trujillo y Barinas tras intensas lluvias",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752026287220.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/merida-restablece-comunicacion-terrestre-con-trujillo-y-barinas-tras-intensas-lluvias-20257821410",
+        "date": "2025-07-09 01:41:00",
+        "sentiment_score": -0.7452771365642548
+    },
+    {
+        "title": "Fortalece el sistema inmunológico: esta es la manera correcta de consumir las hojas de plátano para aprovechar sus propiedades curativas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752024384748.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/fortalece-el-sistema-inmunologico-esta-es-la-manera-correcta-de-consumir-las-hojas-de-platano-para-aprovechar-sus-propiedades-curativas-20257821350",
+        "date": "2025-07-09 01:35:00",
+        "sentiment_score": -0.8437413442879915
+    },
+    {
+        "title": "Hija de Lili Estefan gana la corona: Lina Luaces es la nueva Miss Universe Cuba 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752025531015.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/hija-de-lili-estefan-gana-la-corona-lina-luaces-es-la-nueva-miss-universe-cuba-2025-20257821180",
+        "date": "2025-07-09 01:18:00",
+        "sentiment_score": 0.6112358383834362
+    },
+    {
+        "title": "Detienen a sujeto que agredió salvajemente a un motorizado: Fiscalía lo imputará por el delito de lesiones",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752022752400.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-sujeto-que-agredio-salvajemente-a-un-motorizado-fiscalia-lo-imputara-por-el-delito-de-lesiones-2025782130",
+        "date": "2025-07-09 01:03:00",
+        "sentiment_score": 0.051344990730285645
     }
 ];
