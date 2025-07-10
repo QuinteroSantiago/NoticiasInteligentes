@@ -1,140 +1,5 @@
 export default [
     {
-        "title": "El 'héroe americano perdido' que cambió la historia de China y del mundo: «Fue la cosa más estúpida que este país haya hecho jamás»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/07/06/herame-RjHh4GMENWGGXWbWZ8JTtCM-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/heroe-americano-perdido-cambio-historia-china-mundo-20250706195740-nt.html",
-        "date": "2025-07-06 06:15:01",
-        "sentiment_score": -0.09144118428230286
-    },
-    {
-        "title": "El Berlín de Paloma Sánchez-Garnica: un recorrido literario por los puntos clave del Telón de Acero",
-        "image_url": "https://www.elplural.com/uploads/s1/20/13/51/3/paloma-sanchez-garnica-foto-javier-ocan-a-1_7_480x270.jpeg",
-        "tags": [
-            "libros"
-        ],
-        "link": "https://www.elplural.com/playtime/libros/berlin-paloma-sanchez-garnica-recorrido-literario-puntos-clave-telon-acero_355927102",
-        "date": "2025-07-06 06:33:05",
-        "sentiment_score": -0.1073060929775238
-    },
-    {
-        "title": "El fiestón de Míchel Salgado en Baiona y la boda ‘presidencial’ gallega",
-        "image_url": "https://static.laregion.es/clip/412a987e-4b4a-438f-b3bf-d4b68a639d01_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.atlantico.net/vigo/fieston-michel-salgado-baiona-boda_1_20250706-3908245.html",
-        "date": "2025-07-06 06:30:50",
-        "sentiment_score": -0.09723858162760735
-    },
-    {
-        "title": "Norman Foster, a sus 90 años: así es su relación con la española Elena Ochoa",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2009/05/20/962481a.r_d.247-126-18198.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/noticia/5728307/0/norman-foster-sus-90-anos-asi-es-su-relacion-con-espanola-elena-ochoa/",
-        "date": "2025-07-06 06:21:27",
-        "sentiment_score": 0.015820235013961792
-    },
-    {
-        "title": "Thibaut Courtois asegura la victoria del Real Madrid sobre el Borussia Dortmund con una gran atajada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://apnews.com/article/clubes-mundial-real-madrid-courtois-borussia-932b74ca23a56e6151a9461df73441a5",
-        "date": "2025-07-06 06:19:05",
-        "sentiment_score": 0.7224572524428368
-    },
-    {
-        "title": "Thibaut Courtois asegura la victoria del Real Madrid sobre el Borussia Dortmund con una gran atajada",
-        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/07/CWC_Real_Madrid_Borussia_Dortmund_Soccer_01435.jpg?strip=all&w=1400px",
-        "tags": [
-            "en español"
-        ],
-        "link": "https://www.chicagotribune.com/2025/07/06/thibaut-courtois-asegura-la-victoria-del-real-madrid-sobre-el-borussia-dortmund-con-una-gran-atajada/",
-        "date": "2025-07-06 06:19:04",
-        "sentiment_score": -0.09860454499721527
-    },
-    {
-        "title": "El cambio modal se resiste: la mitad de los españoles volverá a elegir coche este verano, con el avión al alza y leve retroceso del tren",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/06/28/trafico-lento-durante-la-operacion-salida-de-verano-2024-en-la-autovia-a2-a-28-de-junio-de-2024.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/noticia/5726642/0/casi-mitad-los-espanoles-volveran-elegir-coche-estas-vacaciones-con-avion-recuperandose-un-leve-retroceso-tren/",
-        "date": "2025-07-06 06:04:47",
-        "sentiment_score": -0.3907368630170822
-    },
-    {
-        "title": "La noche se apaga en los pueblos, la España vacía pierde sus discotecas: \"Debo llevar a mis hijos a 25 km para salir de fiesta\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/07/01/pablo-jose-victoria-fundador-de-la-discoteca-limite-en-horcajo-de-los-montes-ciudad-real.r_d.1174-475-6445.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/noticia/5727325/0/noche-se-apaga-los-pueblos-espana-vacia-pierde-sus-discotecas-tengo-que-llevar-mis-hijos-25-kilometros-para-salir-fiesta/",
-        "date": "2025-07-06 06:01:56",
-        "sentiment_score": -0.12497590482234955
-    },
-    {
-        "title": "La gastronomía y la restauración madrileña a vista de dron",
-        "image_url": "https://capital.es/wp-content/uploads/2025/07/Capital_JulAgo_2025_Gastro_009-1024x750.jpg",
-        "tags": [
-            "lifestyle"
-        ],
-        "link": "https://capital.es/lifestyle/la-gastronomia-y-la-restauracion-madrilena-a-vista-de-dron/133054/",
-        "date": "2025-07-06 06:00:36",
-        "sentiment_score": 0.25075728446245193
-    },
-    {
-        "title": "Museo de Ciencias Naturales de Madrid 2025: qué ver, horarios y entradas para disfrutarlo al máximo",
-        "image_url": "https://okdiario.com/img/2025/07/05/museo-de-ciencias-naturales-de-madrid-2025-que-ver-horarios-y-entradas-para-disfrutarlo-al-maximo.jpg",
-        "tags": [
-            "museos",
-            "madrid",
-            "españa",
-            "actividades",
-            "naturaleza",
-            "ciencia"
-        ],
-        "link": "https://okdiario.com/madrid/museo-ciencias-naturales-madrid-horarios-entradas-visita-15063677",
-        "date": "2025-07-06 06:00:06",
-        "sentiment_score": 0.5121809616684914
-    },
-    {
-        "title": "Así quedaron las semifinales del Mundial de Clubes 2025",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/18ac2a9/2147483647/strip/true/crop/4800x2520+0+342/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2Fba%2F4739b42b4d47ac3a98e8cd0be803%2Fcwc-real-madrid-borussia-dortmund-soccer-92964.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-07-05/asi-quedaron-las-semifinales-del-mundial-de-clubes-2025",
-        "date": "2025-07-06 05:53:34",
-        "sentiment_score": 0.022591277956962585
-    },
-    {
-        "title": "Amazon ya sabe qué producto pedirás tres meses antes de que lo pidas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/84b8e7f8-cfef-4572-8fd7-82e7a1403664_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/economia/2025/07/06/amazon-prediccion-pedidos-envio-a-domicilio-algoritmos-119411291.html",
-        "date": "2025-07-06 06:32:17",
-        "sentiment_score": -0.006180956959724426
-    },
-    {
-        "title": "Hallan restos humanos en fábrica de fuegos artificiales de California tras explosión: aún no identifican a las víctimas",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1751779686312.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/usa/internacionales/hallan-restos-humanos-en-fabrica-de-fuegos-artificiales-de-california-tras-explosion-aun-no-identifican-a-las-victimas-2025761280",
-        "date": "2025-07-06 05:28:00",
-        "sentiment_score": -0.10834934562444687
-    },
-    {
         "title": "Un director de gabinete de un alcalde en Francia es despedido por haber publicado solo “13 artículos en 9 meses” en Facebook: “Se ha roto la confianza”",
         "image_url": "https://www.infobae.com/resizer/v2/YEVU2UKQCDYSMFKEHQ5NGBAI2I.jpg?auth=7b53c130bd27b44e514d769820987d40a9c4355d88eb96b2220a5687557fe431&height=2796&smart=true&width=3919",
         "tags": [
@@ -253,26 +118,6 @@ export default [
         "link": "https://www.abc.es/opinion/editorial-feijoo-asume-reto-historico-20250706152837-nt.html",
         "date": "2025-07-06 13:28:52",
         "sentiment_score": -0.047275543212890625
-    },
-    {
-        "title": "Cuánto dinero cobra una azafata de vuelo en España: sueldos en Iberia, Ryanair, Vueling, Air Europa, easyJet y resto de compañías",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/12/18/sueldo-azafata-espana-kb4-U701236376869Q0H-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/dinero-cobra-azafata-vuelo-espana-sueldos-iberia-ryanair-vueling-aireuropa-easyjet-20250706180443-nt.html",
-        "date": "2025-07-06 08:00:05",
-        "sentiment_score": -0.053151726722717285
-    },
-    {
-        "title": "Cuando se paga más por los soldados muertos que por los vivos y se convierte en un 'negocio rentable'",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/06/ato1-RpX4hgvQKezTpe3WJBFHQWN-1200x840@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/soldados-valen-muertos-vivos-convierte-modelo-subsistencia-20250706195503-nt.html",
-        "date": "2025-07-06 07:44:20",
-        "sentiment_score": -0.22903567552566528
     },
     {
         "title": "Abascal considera “una victoria” que Feijóo copie su discurso contra la inmigración",
@@ -7182,5 +7027,646 @@ export default [
         "link": "https://2001online.com/nacionales/usuarios-reportan-bajon-electrico-en-varios-estados-de-venezuela-este-9-de-julio-2025791210",
         "date": "2025-07-09 16:01:00",
         "sentiment_score": -0.14982043579220772
+    },
+    {
+        "title": "Psicóloga chiclayana presentó en España la primera tesis del mundo dedicada al Papa León XIV",
+        "image_url": "https://www.infobae.com/resizer/v2/QJHD5LKIWJDSDLYNZZYBAGSVYA.png?auth=042bbad12b58495e4f897ed5ce19d88161713032eeabce43ca9c2144de0fef84&height=668&smart=true&width=1187",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/peru/2025/07/09/psicologa-chiclayana-presento-en-espana-la-primera-tesis-del-mundo-dedicada-al-papa-leon-xiv/",
+        "date": "2025-07-09 22:05:09",
+        "sentiment_score": -0.1382584050297737
+    },
+    {
+        "title": "Los errores de Asencio y Rüdiger en defensa que sentenciaron al Real Madrid en el partido ante el PSG",
+        "image_url": "https://www.infobae.com/resizer/v2/EPDAFWXAYVDXRDKGQW5JRCIO7I.jpg?auth=07df35c1b95a4814064fe3525a6b4521b16c60d6c04be9ae7f214d2344eec7c5&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/07/09/los-errores-de-asencio-y-rudiger-en-defensa-que-sentenciaron-al-real-madrid-en-el-partido-ante-el-psg/",
+        "date": "2025-07-09 21:50:33",
+        "sentiment_score": -0.3688137158751488
+    },
+    {
+        "title": "El PP reitera que Sánchez participó a título lucrativo en los \"prostíbulos\" del suegro: \"Decir la verdad nunca es duro\"",
+        "image_url": "https://www.infobae.com/resizer/v2/RSE4MFKJZVDG7H3UATK23AILWA.jpg?auth=9ea6ebf22b55373d748a811f4f2e0ca8fa2fea6518426e20e080961e6f938083&height=1296&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/09/el-pp-reitera-que-sanchez-participo-a-titulo-lucrativo-en-los-prostibulos-del-suegro-decir-la-verdad-nunca-es-duro/",
+        "date": "2025-07-09 21:38:02",
+        "sentiment_score": -0.34352270141243935
+    },
+    {
+        "title": "La emoción de Lucía Galán al cantar por primera vez en España con su hija: la canción que eligieron",
+        "image_url": "https://www.infobae.com/resizer/v2/4MDU4PCZPVDHTJFSBYDAHKSR4U.png?auth=be5e39f5d25457ba08f178970f5a7dc45b36bee5b99cdb3207bbbe5d7585b9d3&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/07/09/la-emocion-de-lucia-galan-al-cantar-por-primera-vez-en-espana-con-su-hija-la-cancion-que-eligieron/",
+        "date": "2025-07-09 21:24:19",
+        "sentiment_score": 0.8230210207402706
+    },
+    {
+        "title": "El PSG se da un festín para humillar al Real Madrid y sellar su billete a la final Mundial de Clubes",
+        "image_url": "https://www.infobae.com/resizer/v2/OE76HUJSPVF4LCTYDWRKBNTAVU.jpg?auth=94e286a86ffa56107b7c004a14d834aec3b780624765f2a42bbba582226137dc&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/07/09/el-psg-se-da-un-festin-para-humillar-al-real-madrid-y-sellar-su-billete-a-la-final-mundial-de-clubes/",
+        "date": "2025-07-09 21:11:10",
+        "sentiment_score": 0.2893470525741577
+    },
+    {
+        "title": "Número ganador de la lotería 6/49 de este 9 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/MKIVKEXZ7FAA3GSZXEOUYC24ZY.jpg?auth=0d3a09096e3675ae539775754e0d00e772eb057ee536ddf36c42697fc44f9654&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/09/numero-ganador-de-la-loteria-649-de-este-9-de-julio/",
+        "date": "2025-07-09 21:00:23",
+        "sentiment_score": 0.058467257767915726
+    },
+    {
+        "title": "Feijóo lamenta que \"herederos políticos de asesinos\" entren hoy en La Moncloa \"como si nada\": \"No ocurrirá conmigo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/KAK4276WMNH4NKIAYUTHHZSVI4.jpg?auth=e5f1bb9a419037f503b73332c53abdfe38fa6a41c0514fe3567c561ca67cfd2a&height=1268&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/09/feijoo-lamenta-que-herederos-politicos-de-asesinos-entren-hoy-en-la-moncloa-como-si-nada-no-ocurrira-conmigo/",
+        "date": "2025-07-09 20:52:44",
+        "sentiment_score": -0.8960582483559847
+    },
+    {
+        "title": "Bonoloto: este es el número ganador del sorteo de este 9 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/WHQYEW2OEZCXDFD3IHM2AB2IXA.jpg?auth=4b217ddbdae9f3e886553b6289c0a94a0143b9358b93b35e99630507d07c07a2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/09/bonoloto-este-es-el-numero-ganador-del-sorteo-de-este-9-de-julio/",
+        "date": "2025-07-09 20:15:33",
+        "sentiment_score": 0.6181680392473936
+    },
+    {
+        "title": "Lorde confiesa cómo un trastorno de conducta alimentaria le hizo perder la creatividad: “Solo pensaba en pesar lo menos posible”",
+        "image_url": "https://www.infobae.com/resizer/v2/SPFQRNFXHFCM3CGOBCK2STS7H4.jpg?auth=d532ceeb5d849ca348ba34cf99c06c414e39b7a74a4e7993d2cedf207b244fcf&height=3046&smart=true&width=4569",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/07/09/lorde-confiesa-como-un-trastorno-de-conducta-alimentaria-le-hizo-perder-la-creatividad-solo-pensaba-en-pesar-lo-menos-posible/",
+        "date": "2025-07-09 20:08:26",
+        "sentiment_score": 0.16608145460486412
+    },
+    {
+        "title": "Camps anuncia que asume el \"reto\" de liderar de nuevo el PP de la Comunidad Valenciana: \"Quiero volver a ser presidente\"",
+        "image_url": "https://www.infobae.com/resizer/v2/J7PWEHZ77FC3FK7XZJVOCE3PKA.jpg?auth=f9d570381a9f6a301e6b776112175478000cbd42e1b837a9f7548d4f1ce26f2e&height=1272&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/09/camps-anuncia-que-asume-el-reto-de-liderar-de-nuevo-el-pp-de-la-comunidad-valenciana-quiero-volver-a-ser-presidente/",
+        "date": "2025-07-09 19:52:37",
+        "sentiment_score": 0.3210957646369934
+    },
+    {
+        "title": "La esposa de un detenido en Alligator Alcatraz afirma que allí sufren calor sofocante, humedad y problemas para el aseo",
+        "image_url": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_749,h_500/https://lapatilla.com/wp-content/uploads/2025/07/Alligator-Alcatraz.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://lapatilla.com/2025/07/09/la-esposa-de-un-detenido-en-alligator-alcatraz-afirma-que-alli-sufren-calor-sofocante-humedad-y-problemas-para-el-aseo/",
+        "date": "2025-07-09 20:37:53",
+        "sentiment_score": -0.9322873624041677
+    },
+    {
+        "title": "Socialistas o sanchistas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/07/10/pedro-sanchez-caida-RuETQvkQ1GBHvcj3q7e8rDO-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jose-joaquin-gallardo-socialistas-sanchistas-20250710220511-nts.html",
+        "date": "2025-07-09 20:05:11",
+        "sentiment_score": -0.06035587191581726
+    },
+    {
+        "title": "Baltasar en precampaña",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/07/08/BIZUM-kHa-U22014298240789LF-1200x840@Leonoticias-k5SG--170x119@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/lucas-haurie-baltasar-precampana-20250710220509-nts.html",
+        "date": "2025-07-09 20:05:10",
+        "sentiment_score": -0.03235635161399841
+    },
+    {
+        "title": "Un tribunal de Corea del Sur ordena arrestar al expresidente Yoon Suk Yeol",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/07/09/1498628176-k8KH-U701268396319kyF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/tribunal-corea-sur-ordena-arrestar-expresidente-yoon-20250709211320-nt.html",
+        "date": "2025-07-09 19:13:20",
+        "sentiment_score": -0.1503591537475586
+    },
+    {
+        "title": "El puto amo",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/05/29/Captura%20de%20pantalla%202025-05-29%20a%20las%2013.41.30-U84631374361aQJ-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-puto-amo-20250709204508-nts.html",
+        "date": "2025-07-09 18:45:59",
+        "sentiment_score": -0.18043507635593414
+    },
+    {
+        "title": "La Airef, contra el dirigismo de La Moncloa",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/07/08/sahara-kRLE-U2302318121217boD-170x119@Diario%20Montanes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-airef-dirigismo-moncloa-20250710190453-nt.html",
+        "date": "2025-07-09 18:37:55",
+        "sentiment_score": -0.18560560047626495
+    },
+    {
+        "title": "Un hombre rescata a dos mujeres y cuatro niños de un incendio en un sexto piso en París",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/09/Paris-k2yC-U701267716776viF-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/hombre-rescata-dos-mujeres-cuatro-ninos-incendio-20250709203340-nt.html",
+        "date": "2025-07-09 18:33:41",
+        "sentiment_score": -0.16832752525806427
+    },
+    {
+        "title": "De socios a cómplices",
+        "image_url": "https://s3.ppllstatics.com/lasprovincias/www/multimedia/2025/05/29/Captura%20de%20pantalla%202025-05-29%20a%20las%2013.41.30-U84631374361aQJ-170x119@Las%20Provincias.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-socios-complices-20250709185627-nt.html",
+        "date": "2025-07-09 18:18:45",
+        "sentiment_score": -0.14204764366149902
+    },
+    {
+        "title": "La Susana y la España que pudo ser",
+        "image_url": "https://s2.ppllstatics.com/laverdad/www/multimedia/2025/07/07/CARMEN-MARIA-ko5D--170x119@La%20Verdad.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/berta-gonzalez-de-vega-susana-espana-pudo-20250710164756-nt.html",
+        "date": "2025-07-09 17:38:43",
+        "sentiment_score": -0.1536843180656433
+    },
+    {
+        "title": "Irse lejos",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/07/08/ducha-U66041242064fVE-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/angel-antonio-herrera-irse-lejos-20250710153427-nt.html",
+        "date": "2025-07-09 17:38:35",
+        "sentiment_score": -0.08561313152313232
+    },
+    {
+        "title": "Sororidad",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/07/06/creatina-kKlB--170x119@El%20Comercio.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-sororidad-20250710193806-nt.html",
+        "date": "2025-07-09 17:38:14",
+        "sentiment_score": -0.13973334431648254
+    },
+    {
+        "title": "El Liceu desembarca en la playa: la Sinfónica conquista la Barceloneta con ‘Mar i Cel’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RSRUHIFDLVCPXCLZNCC53AUJKM.JPG?auth=58d9e02ab2714896215b7e203a4787755c68934a534f69cf1291d6a69926a3c5&width=1200",
+        "tags": [
+            "playas",
+            "teatro liceo",
+            "barcelona",
+            "conciertos",
+            "cataluña",
+            "cultura",
+            "música"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-09/el-liceu-desembarca-en-la-playa-la-sinfonica-conquista-la-barceloneta-con-mar-i-cel.html",
+        "date": "2025-07-09 22:10:18",
+        "sentiment_score": 0.4788367375731468
+    },
+    {
+        "title": "Adolescencia y pop, los ejes de la primera jornada del Cruïlla",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FCJRDPX5BJO65E7WA54SNWTPNQ.jpg?auth=fcf7045371a806a79dbc153faac0df2c08d36bbd5ea9ed5737a3671fcc37bfe7&width=1200",
+        "tags": [
+            "música",
+            "festival cruïlla barcelona",
+            "barcelona",
+            "cataluña",
+            "festivales música",
+            "cultura",
+            "jóvenes",
+            "gracie abrams"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-09/adolescencia-y-pop-los-ejes-de-la-primera-jornada-del-cruilla.html",
+        "date": "2025-07-09 21:54:01",
+        "sentiment_score": 0.7228891402482986
+    },
+    {
+        "title": "Camps reta a Mazón y se postula para dirigir el PP valenciano: “¿No os parece lealtad haber estado callado 15 años?”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6JAXL2BWMJEAHAMBQDW23DN6AE.JPG?auth=edebc9f912fd7042561120abb762d450d4a9de4542aeb8bbf22af1d2f482c6b6&width=1200",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-09/camps-reta-a-mazon-y-se-postula-para-dirigir-el-pp-valenciano-no-os-parece-lealtad-haber-estado-callado-15-anos.html",
+        "date": "2025-07-09 19:42:46",
+        "sentiment_score": -0.0748271644115448
+    },
+    {
+        "title": "Santos Cerdán: “Me ingresan en prisión para encontrar el dinero oculto. Nunca aparecerá”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E5HHN6ILGVLEMCRGM2I6LEZ5NQ.jpg?auth=3ec605850624847c83e8f16ecae72f50a41361f2f766e670f97a595168d15e85&width=1200",
+        "tags": [
+            "acciona",
+            "psoe",
+            "josé luis ábalos",
+            "tribunales",
+            "corrupción",
+            "santos cerdán",
+            "pedro sánchez",
+            "koldo garcía",
+            "pp",
+            "españa",
+            "josé maría aznar"
+        ],
+        "link": "https://elpais.com/espana/2025-07-09/santos-cerdan-me-ingresan-en-prision-para-encontrar-el-dinero-oculto-nunca-aparecera.html",
+        "date": "2025-07-09 19:22:59",
+        "sentiment_score": -0.9114433079957962
+    },
+    {
+        "title": "Los socorristas de una piscina municipal de Madrid salvan de ahogarse ‘in extremis’ a un menor de 17 años",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TCIV5M62A5DJ3LUKPADZKOA3FM.png?auth=21ad2670adb7d3cd0764746ede0a1a6ef276b34208a61b03503d7100a99726c2&width=1200",
+        "tags": [
+            "ahogamientos",
+            "madrid",
+            "samur",
+            "piscinas",
+            "sucesos",
+            "hospitales",
+            "socorristas",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-07-09/los-socorristas-de-una-piscina-municipal-de-madrid-salvan-de-ahogarse-in-extremis-a-un-menor-de-17-anos.html",
+        "date": "2025-07-09 18:52:03",
+        "sentiment_score": -0.6860473807901144
+    },
+    {
+        "title": "El jurado considera culpable a la aspirante a ‘mossa’ de asesinar con alevosía, amenazar y maltratar a su expareja",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RTFSAZIGXROFZUNOX4FAAQNS54.jpg?auth=bacd423b4d6413313b82ecbad4739b6ed38fb9a9c63976f15b280f6dfea7c829&width=1200",
+        "tags": [
+            "cataluña",
+            "asesinatos",
+            "ap barcelona",
+            "mossos d'esquadra",
+            "juicios",
+            "jurado popular"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-09/el-jurado-considera-culpable-a-la-aspirante-a-mossa-de-asesinar-con-alevosia-amenazar-y-maltratar-a-su-expareja.html",
+        "date": "2025-07-09 18:17:12",
+        "sentiment_score": 0.13341420888900757
+    },
+    {
+        "title": "Abuelo y ‘rider’ a los 73 años: “Hago un gran esfuerzo para llegar lo más pronto posible”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/URHDWQO62G5NJECBZVXZCYWSX4.jpg?auth=ec32417e1a22e28eefcd4b7fcc0541d303bb5efcbdb21e17c336678c8acc497d&width=1200",
+        "tags": [
+            "cataluña",
+            "economía",
+            "calor",
+            "barcelona",
+            "repartidores",
+            "verano",
+            "empleo",
+            "just eat"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-09/abuelo-y-rider-a-los-73-anos-hago-un-gran-esfuerzo-para-llegar-lo-mas-pronto-posible.html",
+        "date": "2025-07-09 18:08:25",
+        "sentiment_score": 0.0031391307711601257
+    },
+    {
+        "title": "Feijóo se encastilla en su negativa a asumir que España rechazó el 5% del gasto militar en la OTAN",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/626HVDFAKNEWFBPTJIMOJEVADU.jpg?auth=435119ce3bbe7ba886f345e495293029f22951c910978a587e07c38d7fe28884&width=1200",
+        "tags": [
+            "otan",
+            "guerra",
+            "política defensa",
+            "conflictos armados",
+            "política",
+            "ejército profesional",
+            "conflictos",
+            "ejército español",
+            "armamento",
+            "ejército aire",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-09/feijoo-se-encastilla-en-su-negativa-a-asumir-que-espana-rechazo-el-5-del-gasto-militar-en-la-otan.html",
+        "date": "2025-07-09 17:34:15",
+        "sentiment_score": -0.8863437622785568
+    },
+    {
+        "title": "Los Franco “claudican en su batalla” por las estatuas del Maestro Mateo y apremian a Santiago para que las recoja",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AT2LLM232QDWR2JFBQZ56RNOLU.jpg?auth=2023bbb0ce3d5cffd9231824342185ed4fc0aaebd5af382cc600aa96a30efbc9&width=1200",
+        "tags": [
+            "dictadura",
+            "pazo de meirás",
+            "francisco franco",
+            "memoria histórica",
+            "santiago de compostela",
+            "galicia",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/galicia/2025-07-09/los-franco-claudican-en-su-batalla-por-las-estatuas-del-maestro-mateo-y-apremian-a-santiago-para-que-las-recoja.html",
+        "date": "2025-07-09 17:23:59",
+        "sentiment_score": -0.2079598605632782
+    },
+    {
+        "title": "Thibaut Courtois: \"A veces una hostia así te viene bien para seguir corrigiendo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/IXQ5JSQFUVHC7O4MZHAGSXC6QA.jpg?auth=337ebcc1470bc926957e36656060c3d4cb638d84e858b36619a17a02dfcb188a&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/09/thibaut-courtois-a-veces-una-hostia-asi-te-viene-bien-para-seguir-corrigiendo/",
+        "date": "2025-07-09 22:19:14",
+        "sentiment_score": 0.7258448861539364
+    },
+    {
+        "title": "1a PARTE | 09 JUL 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/1a-parte-09-jul-2025-partidazo-cope-20250710_3183285.html",
+        "date": "2025-07-09 22:18:26",
+        "sentiment_score": 0.07530857622623444
+    },
+    {
+        "title": "El particular análisis de Xabi Alonso tras la histórica goleada que el Real Madrid sufrió ante el PSG en el Mundial de Clubes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/09/el-particular-analisis-de-xabi-alonso-tras-la-historica-goleada-que-el-real-madrid-sufrio-ante-el-psg-en-el-mundial-de-clubes/",
+        "date": "2025-07-09 22:17:03",
+        "sentiment_score": -0.849816458299756
+    },
+    {
+        "title": "Esta fue la explicación de Xabi Alonso tras la humillación del PSG",
+        "image_url": "https://pxcdn.meridiano.net/072025/1752097668893.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/esta-fue-la-explicacion-de-xabi-alonso-tras-la-humillacion-del-psg-20257918140",
+        "date": "2025-07-09 22:14:00",
+        "sentiment_score": -0.7295941561460495
+    },
+    {
+        "title": "Xabi Alonso: \"Toca descansar, resetear, refrescar y empezar desde cero\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250710000707_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-xabi-alonso-toca-descansar-resetear-refrescar-empezar-cero-20250710000707.html",
+        "date": "2025-07-09 22:07:07",
+        "sentiment_score": 0.6501443088054657
+    },
+    {
+        "title": "22:00 | 09 JUL 2025 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-09-jul-2025-juego-20250710_3183282.html",
+        "date": "2025-07-09 22:06:53",
+        "sentiment_score": 0.01816326007246971
+    },
+    {
+        "title": "La \"provocadora\" escultura que aterriza en una rotonda del centro de Madrid y que ha sido sufragada por un hotel de lujo: un caballo de seis metros suspendido en el aire",
+        "image_url": "https://phantom-elmundo.uecdn.es/8fd79ed60fc72dbd3d4953c0933e5e13/crop/0x256/966x900/f/webp/assets/multimedia/imagenes/2025/07/09/17520861222472.jpg",
+        "tags": [
+            "artículos ana del barrio"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/07/10/686eb902fdddffb2558b45b3.html",
+        "date": "2025-07-09 22:04:13",
+        "sentiment_score": -0.8550831265747547
+    },
+    {
+        "title": "El entrenador de Brasil Carlo Ancelotti sentenciado a un año de prisión en España por fraude fiscal",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/4f3ec41/2147483647/strip/true/crop/3472x1823+0+245/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9f%2Fb7%2Fa08c243143418bf8142f91e07cbc%2Fa8f78dc67d674173abaec84424af20cb",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-07-09/el-entrenador-de-brasil-carlo-ancelotti-sentenciado-a-un-ano-de-prision-en-espana-por-fraude-fiscal",
+        "date": "2025-07-09 22:03:54",
+        "sentiment_score": -0.6712491381913424
+    },
+    {
+        "title": "Courtois carga duramente contra Tebas: \"No he visto a ningún otro presidente hablar así...\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/07/09/image-9d46ac9a-2cc6-4636-95a5-4b348072a742-85-2560-1440.jpeg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/mundial-de-clubes/2025/declaraciones-courtois-contra-javier-tebas-descanso_sto23200481/story.shtml",
+        "date": "2025-07-09 22:01:54",
+        "sentiment_score": -0.7994613777846098
+    },
+    {
+        "title": "Del veraneo a las vacaciones",
+        "image_url": "https://www.diariodeferrol.com/images/3945855",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodeferrol.com/articulo/opinion/veraneo-vacaciones-5360817",
+        "date": "2025-07-09 22:20:00",
+        "sentiment_score": -0.05832785367965698
+    },
+    {
+        "title": "Un propietario de Barcelona se harta de que su vecino fume en su piso y le deja una nota que no tiene desperdicio: \"Sublime\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2023/09/01/64f1b74ecac68.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20250710/1002497539/propietario-barcelona-harta-vecino-fume-piso-le-deja-nota-desperdicio-sublime-dct.html",
+        "date": "2025-07-09 22:05:51",
+        "sentiment_score": -0.6059442348778248
+    },
+    {
+        "title": "Orbio: la IA filtra y el reclutador acierta",
+        "image_url": "https://phantom-elmundo.uecdn.es/219b29f39b2d7fc9c19d8066cc9ceb25/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/04/17516402133494.jpg",
+        "tags": [
+            "empresas",
+            "startup",
+            "actualidad económica"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/07/10/6866379ee4d4d87b078b457e.html",
+        "date": "2025-07-09 22:01:40",
+        "sentiment_score": 0.4849475659430027
+    },
+    {
+        "title": "Mundial de Clubes: PSG de Luis Enrique humilla al fútbol español con este dato",
+        "image_url": "https://pxcdn.meridiano.net/072025/1752098565334.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/mundial-de-clubes-psg-de-luis-enrique-humilla-al-futbol-espanol-con-este-dato-2025791800",
+        "date": "2025-07-09 22:00:00",
+        "sentiment_score": 0.08820611238479614
+    },
+    {
+        "title": "La vida actual de Miriam Sánchez: La ex de Pipi Estrada entre escándalos y el olvido",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/07/alejandro-40_1600_1067.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elcierredigital.com/cultura/vida-actual-miriam-sanchez-ex-pipi-estrada-escandalos-y-olvido",
+        "date": "2025-07-09 22:00:00",
+        "sentiment_score": -0.31625789403915405
+    },
+    {
+        "title": "Barcelona desmantela el fallido wifi público de Colau y Cellnex",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/09/business/1003742672466_14846292_1706x960.jpg?contentId=1003742672466",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250709/barcelona-desmantela-fallido-wifi-publico-colau-cellnex/1003742672456_0.html",
+        "date": "2025-07-09 22:00:00",
+        "sentiment_score": -0.7429778445512056
+    },
+    {
+        "title": "La guerra contra Airbnb y la moratoria disparan la inversión hotelera en Barcelona",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/09/business/1003742672597_14849014_1706x960.jpg?contentId=1003742672597",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250709/guerra-airbnb-moratoria-disparan-inversion-hotelera-barcelona/1003742672537_0.html",
+        "date": "2025-07-09 22:00:00",
+        "sentiment_score": 0.5087471343576908
+    },
+    {
+        "title": "El desplome del precio de las materias primas recorta las ventas de Cargill a 1.663 millones",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/09/business/confidente-vip/1003742672600_14849044_1706x960.jpg?contentId=1003742672600",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/confidente-vip/20250709/desplome-precio-materias-primas-recorta-cargill-millones/1003742672590_0.html",
+        "date": "2025-07-09 22:00:00",
+        "sentiment_score": 0.5748209655284882
+    },
+    {
+        "title": "Competencia se obsesiona con el transporte catalán",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/09/business/1003742672629_14849519_1706x960.jpg?contentId=1003742672629",
+        "tags": [
+            "top"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250709/competencia-obsesiona-transporte-catalan/1003742672627_0.html",
+        "date": "2025-07-09 22:00:00",
+        "sentiment_score": -0.4864939898252487
+    },
+    {
+        "title": "Luis Oliveros ofreció claves para emprendedores en foro virtual organizado por Bancamiga",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752098768837.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/luis-oliveros-ofrecio-claves-para-emprendedores-en-foro-virtual-organizado-por-bancamiga-20257918140",
+        "date": "2025-07-09 22:14:00",
+        "sentiment_score": 0.29082477279007435
+    },
+    {
+        "title": "ICE abre vacantes de empleo: conoce el salario y beneficios que ofrecen",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752074022734.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/ice-abre-vacantes-de-empleo-conoce-el-salario-y-beneficios-que-ofrecen-20257918100",
+        "date": "2025-07-09 22:10:00",
+        "sentiment_score": 0.2487015351653099
+    },
+    {
+        "title": "Molestia en Liverpool: el polémico gesto de Szoboszlai tras la tragedia de Diogo Jota",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752097071119.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/molestia-en-liverpool-el-polemico-gesto-de-szoboszlai-tras-la-tragedia-de-diogo-jota-2025791900",
+        "date": "2025-07-09 22:08:08",
+        "sentiment_score": -0.9248366253450513
+    },
+    {
+        "title": "Capturan a tres personas por maltrato físico y verbal contra adolescente en Caracas: la golpeaban con palos de madera",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752096689171.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/capturan-a-tres-personas-por-maltrato-fisico-y-verbal-contra-adolescente-en-caracas-la-golpeaban-con-palos-de-madera-2025791880",
+        "date": "2025-07-09 22:08:00",
+        "sentiment_score": -0.6607865393161774
+    },
+    {
+        "title": "Illinois envía millones en propiedades no reclamadas: ¿Cuál es el monto del cheque y requisitos?",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752099124732.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/illinois-envia-millones-en-propiedades-no-reclamadas-cual-es-el-monto-del-cheque-y-requisitos--2025791880",
+        "date": "2025-07-09 22:08:00",
+        "sentiment_score": 0.09594999998807907
+    },
+    {
+        "title": "En video: así fue la emotiva celebración de Lili Estefan y su hija Lina Luaces tras ganar Miss Universo Cuba",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752098955514.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/en-video-asi-fue-la-emotiva-celebracion-de-lili-estefan-y-su-hija-lina-luaces-tras-ganar-miss-universo-cuba-2025791820",
+        "date": "2025-07-09 22:02:00",
+        "sentiment_score": 0.3844728022813797
+    },
+    {
+        "title": "Impunidad y terror: así actúa contra los inmigrantes la nueva fuerza policial de Estados Unidos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752102090821.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/impunidad-y-terror-asi-actua-contra-los-inmigrantes-la-nueva-fuerza-policial-de-estados-unidos--2025791800",
+        "date": "2025-07-09 22:00:00",
+        "sentiment_score": -0.26363201439380646
+    },
+    {
+        "title": "La tienda de Illinois con más “suerte” en EEUU: venden boletos de lotería ganadores",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752098351875.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/la-tienda-de-illinois-con-mas-suerte-en-eeuu-venden-boletos-de-loteria-ganadores-20257917590",
+        "date": "2025-07-09 21:59:00",
+        "sentiment_score": 0.6087752431631088
+    },
+    {
+        "title": "Trump anuncia arancel de 50% a Brasil: entrará en vigor a partir del 1 de agosto",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752097131381.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/trump-anuncia-arancel-de-50-a-brasil-en-represalia-por-el-juicio-a-jair-bolsonaro-20257917360",
+        "date": "2025-07-09 21:36:00",
+        "sentiment_score": -0.23279038444161415
+    },
+    {
+        "title": "Julio César Chávez Jr.: el motivo por el cual no fue a su audiencia",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752096888073.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/julio-cesar-chavez-jr-el-motivo-por-el-cual-no-fue-a-su-audiencia-20257918300",
+        "date": "2025-07-09 21:32:53",
+        "sentiment_score": -0.39908547699451447
     }
 ];
