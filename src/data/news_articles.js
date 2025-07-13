@@ -1,289 +1,5 @@
 export default [
     {
-        "title": "Un herido por asta de toro en un peligroso y veloz tercer encierro de San Fermín 2025",
-        "image_url": "https://www.infobae.com/resizer/v2/VBDL6VJJJREUXIEJSDS4SPP37U.jpg?auth=3332286af64b9bb4910139656552d82587355af2a2946c3682e0cbcad9da4dc2&height=1483&smart=true&width=2224",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/09/un-herido-por-asta-de-toro-en-un-peligroso-y-veloz-tercer-encierro-de-san-fermin-2025/",
-        "date": "2025-07-09 06:32:56",
-        "sentiment_score": -0.6978402808308601
-    },
-    {
-        "title": "El BOE publica el cese de Francisco Salazar de su cargo en Moncloa tras haber sido señalado por acosar a mujeres",
-        "image_url": "https://www.infobae.com/resizer/v2/KMUIC36S5FDP3BLFLH7JQTRMRU.jpg?auth=45a51e9349bf8d0ee7aaa6bfa968ffeaecec50d1cababa9c196cd7a12e89cf16&height=1362&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/09/el-boe-publica-el-cese-de-francisco-salazar-de-su-cargo-en-moncloa-tras-haber-sido-senalado-por-acosar-a-mujeres/",
-        "date": "2025-07-09 06:22:37",
-        "sentiment_score": -0.7866094838827848
-    },
-    {
-        "title": "Los 13 actores que fueron despedidos de películas de Hollywood: de Viggo Mortensen a Richard Gere",
-        "image_url": "https://www.infobae.com/resizer/v2/5SI5OGLSRFHP3EKPBLH22647K4.jpg?auth=8106c3bb8aa01b015063ebadbb90b24aafe34e2678fb02558b62a70459aff3cf&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/07/09/los-13-actores-que-fueron-despedidos-de-peliculas-de-hollywood-de-viggo-mortensen-a-richard-gere/",
-        "date": "2025-07-09 06:09:52",
-        "sentiment_score": -0.022389806807041168
-    },
-    {
-        "title": "Cuándo se estrena ‘Los 4 Fantásticos’, la película que introduce al icónico grupo de superhéroes en el Universo Cinematográfico Marvel",
-        "image_url": "https://www.infobae.com/resizer/v2/EDI54DEOG5CLBPU4RPOTJUH5A4.jpg?auth=1237ddd0d9ab9c1a047f8e010b929e743b821201d60e4aba66154be3758c599a&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/07/09/cuando-se-estrena-los-4-fantasticos-la-pelicula-que-introduce-al-iconico-grupo-de-superheroes-en-el-universo-cinematografico-marvel/",
-        "date": "2025-07-09 06:09:12",
-        "sentiment_score": 0.4517445042729378
-    },
-    {
-        "title": "Un abogado explica cómo recuperar el dinero que “Hacienda te quitó de más”: te pueden devolver “hasta 3.000 euros”",
-        "image_url": "https://www.infobae.com/resizer/v2/6PWARI3XA5H3HCT5X3ZDXKKVDU.jpg?auth=e8a5d2f8c2be5622345c32fee738eaa8fdd5c935b3c12ad55d06bff8b6d1c1fe&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/09/un-abogado-explica-como-recuperar-el-dinero-que-hacienda-te-quito-de-mas-te-pueden-devolver-hasta-3000-euros/",
-        "date": "2025-07-09 06:07:54",
-        "sentiment_score": 0.09997347369790077
-    },
-    {
-        "title": "Un hombre tala 16 árboles del terreno de su vecina para mejorar las vistas al mar desde su casa: la afectada reclama 1,2 millones de euros de indemnización",
-        "image_url": "https://www.infobae.com/resizer/v2/X77YFUMEWJDPXKOTO7LXJOK6IM.jpg?auth=3feb0a36eea51224616d48b9fe534a7b4d4c9c708a0904836e10ec881aceb29d&height=2559&smart=true&width=4550",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/09/un-hombre-tala-16-arboles-del-terreno-de-su-vecina-para-mejorar-las-vistas-al-mar-desde-su-casa-la-afectada-reclama-12-millones-de-euros-de-indemnizacion/",
-        "date": "2025-07-09 06:07:16",
-        "sentiment_score": 0.5058875158429146
-    },
-    {
-        "title": "La forma en la que hacemos la maleta dice mucho sobre “nuestra forma de vivir, amarnos y protegernos”, según un psicoanalista",
-        "image_url": "https://www.infobae.com/resizer/v2/YNR2ITGLCFESHDHWLNTYT2CHVI.jpg?auth=d453942f99801589f4e44d18de540cb3785d43cfafe9712538b03b8cbf98dfa4&height=846&smart=true&width=1128",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/09/la-forma-en-la-que-hacemos-la-maleta-dice-mucho-sobre-nuestra-forma-de-vivir-amarnos-y-protegernos-segun-un-psicoanalista/",
-        "date": "2025-07-09 06:03:47",
-        "sentiment_score": -0.012986462563276291
-    },
-    {
-        "title": "Intoxicaciones alimentarias y sustancias químicas: ¿cómo limitar los riesgos de las barbacoas?",
-        "image_url": "https://www.infobae.com/resizer/v2/W7BXSR326NCBZGPIZY3IIZHP2Y.jpg?auth=5a2b1871e3951ea8a44e862d8023b164621a6a111fbd4b20586cac2fefdaa033&height=3840&smart=true&width=5760",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/09/intoxicaciones-alimentarias-y-sustancias-quimicas-como-limitar-los-riesgos-de-las-barbacoas/",
-        "date": "2025-07-09 05:59:23",
-        "sentiment_score": -0.8624423015862703
-    },
-    {
-        "title": "¿Cuánto gastamos por averías en el coche en una década?: los diez coches más baratos de reparar",
-        "image_url": "https://www.infobae.com/resizer/v2/RHJTU3LZ3JBODFLH4WOJYSZRSU.jpg?auth=1b6493411baebca27b7eafeef8a5d1292c2af9b084471ad725b3d890353a7258&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/09/cuanto-gastamos-por-averias-en-el-coche-en-una-decada-los-diez-coches-mas-baratos-de-reparar/",
-        "date": "2025-07-09 05:53:35",
-        "sentiment_score": 0.3339831419289112
-    },
-    {
-        "title": "Leonor llega hoy a Ferrol a bordo del 'Juan Sebastián Elcano'",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/09/leonor-llega-hoy-a-ferrol-a-bordo-del-juan-sebastian-elcano/",
-        "date": "2025-07-09 05:53:01",
-        "sentiment_score": 0.0775107704102993
-    },
-    {
-        "title": "Estados Unidos pide la extradición de alias 'Fito', cabecilla de Los Choneros",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/09/fito-kslE-U701263285202gdC-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/estados-unidos-pide-extradicion-alias-fito-cabecilla-20250709082034-nt.html",
-        "date": "2025-07-09 06:20:35",
-        "sentiment_score": -0.11979292333126068
-    },
-    {
-        "title": "Última hora de la actualidad política, en directo | Sánchez comparece en el Congreso para atajar el ‘caso Cerdán’ y anunciar medidas anticorrupción",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ERKKSD7GEVGW5MJ2DQMLIECZMI.jpg?auth=a3c89a4ff19aee25b422f3165069d6b5f9dd29382b8f7341895b330add4bfb05&width=1200",
-        "tags": [
-            "gobierno de españa",
-            "santiago abascal",
-            "legislaturas políticas",
-            "política",
-            "políticos",
-            "alberto núñez feijóo",
-            "debates parlamentarios",
-            "vox",
-            "gobierno",
-            "psoe",
-            "partidos políticos",
-            "congreso diputados",
-            "senado",
-            "gobierno de coalición",
-            "pp",
-            "sumar",
-            "españa",
-            "xv legislatura españa",
-            "yolanda díaz",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2025-07-09/ultima-hora-de-la-actualidad-politica-en-directo.html",
-        "date": "2025-07-09 06:32:33",
-        "sentiment_score": -0.4100574254989624
-    },
-    {
-        "title": "El alquiler residencial restará 14.519 inmuebles este 2025, casi la mitad en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/LV4DRX4X2NGURL55IKANBMK7ZI.jpg?auth=57617e58cfa118dc1745c18dbf658bd70062d436a072827572a9a6c5aa56a987&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/07/09/el-alquiler-residencial-restara-14519-inmuebles-este-2025-casi-la-mitad-en-barcelona/",
-        "date": "2025-07-09 06:34:25",
-        "sentiment_score": 0.012561425566673279
-    },
-    {
-        "title": "Dotor, el primer cedido en salir",
-        "image_url": "https://static.laregion.es/clip/e87f7aa7-f696-4334-8204-0b544d7b1041_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.atlantico.net/celtismo/dotor-primer-cedido-salir_1_20250709-3911821.html",
-        "date": "2025-07-09 06:23:38",
-        "sentiment_score": -0.8851023968309164
-    },
-    {
-        "title": "Una veintena de provincias estarán en aviso por lluvias, tormentas y calor, Teruel y Castellón en nivel naranja",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250709082115_120.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-tiempo-hoy-espana-julio-2025-20250709082115.html",
-        "date": "2025-07-09 06:21:15",
-        "sentiment_score": -0.3333551958203316
-    },
-    {
-        "title": "Los madrileños están de enhorabuena: el cambio fiscal para las herencias que afecta a tu bolsillo",
-        "image_url": "https://okdiario.com/img/2025/07/05/los-madrilenos-estan-de-enhorabuena-el-cambio-fiscal-para-las-herencias-que-afecta-a-tu-bolsillo.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "españa",
-            "herencias",
-            "madrid",
-            "impuestos",
-            "impuesto de sucesiones"
-        ],
-        "link": "https://okdiario.com/madrid/madrilenos-estan-enhorabuena-cambio-fiscal-herencias-que-afecta-tu-bolsillo-15063727",
-        "date": "2025-07-09 06:15:23",
-        "sentiment_score": -0.04379302263259888
-    },
-    {
-        "title": "Daniel Arias: \"Siempre he estado muy obsesionado con hacer mi camino\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e2cd55aa-81a4-4f23-9ad4-67689332abc6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2025/07/09/daniel-arias-entrevista-119508163.html",
-        "date": "2025-07-09 06:07:08",
-        "sentiment_score": -0.11063088476657867
-    },
-    {
-        "title": "Ni Reus ni Barcelona: este es el desconocido capricho arquitectónico español que más se parece a Gaudí",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/08/vida/1003742672039_14838055_1706x960.jpg?contentId=1003742672039",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/historia/20250709/barcelona-reus-desconocido-capricho-arquitectonico-espanol-gaudi-trt/1003742672026_0.html",
-        "date": "2025-07-09 06:34:13",
-        "sentiment_score": 0.3155590817332268
-    },
-    {
-        "title": "Bombas viejas, 'La 2' en catalán y Tomàs Molina",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/08/vida/1003742672310_14843600_1706x960.jpg?contentId=1003742672310",
-        "tags": [
-            "top"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20250709/bombas-viejas-catalan-tomas-molina/1003742672372_0.html",
-        "date": "2025-07-09 06:23:41",
-        "sentiment_score": -0.8393423110246658
-    },
-    {
-        "title": "Tolón celebra el impulso del Gobierno al VIII Centenario de la Catedral de Toledo y augura un gran impacto económico",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250709082327_120.jpg",
-        "tags": [
-            "castilla-la mancha"
-        ],
-        "link": "https://www.europapress.es/castilla-lamancha/noticia-tolon-celebra-impulso-gobierno-viii-centenario-catedral-toledo-augura-gran-impacto-economico-20250709082327.html",
-        "date": "2025-07-09 06:23:27",
-        "sentiment_score": 0.5916407853364944
-    },
-    {
-        "title": "Tolón celebra el impulso del Gobierno al VIII Centenario de la Catedral de Toledo y augura un gran impacto económico",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "toledo",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/toledo/tolon-gobierno-viii-centenario-catedral-toledo-gran-impacto-774044-1.html",
-        "date": "2025-07-09 06:23:00",
-        "sentiment_score": 0.6661425828933716
-    },
-    {
-        "title": "Casi 400 muertes en Madrid y Barcelona durante la ola de calor son atribuibles al cambio climático",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/07/09/una-joven-se-tapa-la-cara-con-un-abanico-mientras-camina-por-el-centro-de-cordoba-en-plena-ola-de-calor.jpeg",
-        "tags": [
-            "planeta"
-        ],
-        "link": "https://www.huffingtonpost.es/planeta/casi-400-muertes-madrid-barcelona-ola-calor-son-atribuibles-cambio-climatico.html",
-        "date": "2025-07-09 06:22:19",
-        "sentiment_score": -0.6440650820732117
-    },
-    {
-        "title": "“Lo ideal sería desayunar a las nueve y cenar a las cuatro”, asegura una bióloga y experta en microbiota",
-        "image_url": "https://www.infobae.com/resizer/v2/BMC6ZTMRN5BANCO2RDQAS3ALNI.jpg?auth=dcfb20e87335985a778a344df0ea48f000f682b808540d296d1110e53d5281e3&height=864&smart=true&width=1536",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/peru/2025/07/09/lo-ideal-seria-desayunar-a-las-nueve-y-cenar-a-las-cuatro-asegura-una-biologa-y-experta-en-microbiota/",
-        "date": "2025-07-09 06:17:30",
-        "sentiment_score": 0.001252979040145874
-    },
-    {
-        "title": "La oferta de alquiler residencial en España cae un 2% en 2025 con Barcelona liderando la pérdida de viviendas",
-        "image_url": "https://www.elboletin.com/wp-content/uploads/2021/01/www.elboletin.com_fotos_1_146210_alquiler-vivienda.jpg",
-        "tags": [
-            "mercado inmobiliario",
-            "alquiler madrid",
-            "alquiler barcelona",
-            "presión demanda",
-            "zonas tensionadas",
-            "viviendas 2025",
-            "fundación alquiler seguro",
-            "alquiler en españa",
-            "observatorio del alquiler",
-            "precios alquiler"
-        ],
-        "link": "https://www.elboletin.com/la-oferta-de-alquiler-residencial-en-espana-cae-un-2-en-2025-con-barcelona-liderando-la-perdida-de-viviendas/",
-        "date": "2025-07-09 06:16:05",
-        "sentiment_score": -0.5939788185060024
-    },
-    {
-        "title": "El nuevo SUV con corazón español y mecánica china que entra por los ojos y gana por el bolsillo",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/07/07/686c393ea65e9.jpeg",
-        "tags": [
-            "pruebas"
-        ],
-        "link": "https://www.eldebate.com/motor/pruebas/20250709/nuevo-suv-corazon-espanol-mecanica-china-entra-ojos-gana-bolsillo_314887.html",
-        "date": "2025-07-09 06:14:12",
-        "sentiment_score": 0.17880193144083023
-    },
-    {
         "title": "Era el destino europeo candidato a destronar a España, pero los turistas están huyendo: 80 euros por una tumbona o 20 por una ensalada",
         "image_url": "https://www.infobae.com/resizer/v2/AMY4T6ZDQSC6MXSVW5IRLS7VWI.jpg?auth=9af51e4dad48e4009d754775f55d395dd6a1252d2884956bcdc66dfd47bf1247&height=2840&smart=true&width=4502",
         "tags": [
@@ -7451,5 +7167,315 @@ export default [
         "link": "https://2001online.com/usa/sucesos/sexagenario-condenado-por-ataque-a-martillazos-en-metro-de-nueva-york-la-victima-sufrio-varias-fracturas-en-el-craneo-20257121100",
         "date": "2025-07-12 15:00:00",
         "sentiment_score": -0.7642308250069618
+    },
+    {
+        "title": "El PSOE acusa a Jorge Azcón de estar “ausente” ante la dana de Aragón y le apoda ‘MAzcón’: “¿Cuándo dejará de estar de veraneo?”",
+        "image_url": "https://www.infobae.com/resizer/v2/5Y3KQPR5VJETLCVWJQCDKJHIK4.jpg?auth=0ed136c4230223e6dcd913aa5ed88027ae7e1d548b21c69aced6fd75097806c7&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/12/el-psoe-acusa-a-jorge-azcon-de-estar-ausente-ante-la-dana-de-aragon-y-le-apoda-mazcon-cuando-dejara-de-estar-de-veraneo/",
+        "date": "2025-07-12 22:09:53",
+        "sentiment_score": -0.47408414632081985
+    },
+    {
+        "title": "Feijóo pide al Gobierno efectivos para \"frenar la espiral de violencia\" en Torre Pacheco (Murcia)",
+        "image_url": "https://www.infobae.com/resizer/v2/SF2RFVRNJVE4ZOUAHNRE3THRIQ.jpg?auth=d03765bc3cb7b927ef1865cc1a40d003db33b4e9084aba37d2b1d1f0faf0cdc5&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/12/feijoo-pide-al-gobierno-efectivos-para-frenar-la-espiral-de-violencia-en-torre-pacheco-murcia/",
+        "date": "2025-07-12 21:52:58",
+        "sentiment_score": -0.5252197757363319
+    },
+    {
+        "title": "(Crónica) Alemania cae contra Suecia y se va por el lado de España en los cruces de la EURO",
+        "image_url": "https://www.infobae.com/resizer/v2/NLQ3GARIMJB4BNLWOT4FBHEWTE.jpg?auth=9bd28a9d01a12c386bd29fe1534656b02608f1e3ee5c562eb7381f0a42d40123&height=1212&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/12/cronica-alemania-cae-contra-suecia-y-se-va-por-el-lado-de-espana-en-los-cruces-de-la-euro/",
+        "date": "2025-07-12 21:50:04",
+        "sentiment_score": -0.21996098011732101
+    },
+    {
+        "title": "El PSOE acusa a Jorge Azcón de estar \"ausente\" ante la dana y le apoda 'MAzcón' por \"desentenderse\" de Aragón",
+        "image_url": "https://www.infobae.com/resizer/v2/5Y3KQPR5VJETLCVWJQCDKJHIK4.jpg?auth=0ed136c4230223e6dcd913aa5ed88027ae7e1d548b21c69aced6fd75097806c7&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/12/el-psoe-acusa-a-jorge-azcon-de-estar-ausente-ante-la-dana-y-le-apoda-mazcon-por-desentenderse-de-aragon/",
+        "date": "2025-07-12 21:37:30",
+        "sentiment_score": -0.9061942882835865
+    },
+    {
+        "title": "Lotería 6/49: jugada ganadora y resultado del último sorteo",
+        "image_url": "https://www.infobae.com/resizer/v2/MKIVKEXZ7FAA3GSZXEOUYC24ZY.jpg?auth=0d3a09096e3675ae539775754e0d00e772eb057ee536ddf36c42697fc44f9654&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/12/loteria-649-jugada-ganadora-y-resultado-del-ultimo-sorteo/",
+        "date": "2025-07-12 21:00:24",
+        "sentiment_score": 0.10706459172070026
+    },
+    {
+        "title": "Continúan las demoras en trenes con destino y origen a Andalucía por una nueva incidencia en La Sagra",
+        "image_url": "https://www.infobae.com/resizer/v2/DMINA5BINFATNKWCPRIVGPHC5I.jpg?auth=56c95a46487e59c0ed2abcaa4392f0a5b68e311305a6328c306b6634bd048ae0&height=1280&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/12/continuan-las-demoras-en-trenes-con-destino-y-origen-a-andalucia-por-una-nueva-incidencia-en-la-sagra/",
+        "date": "2025-07-12 21:00:06",
+        "sentiment_score": -0.5782001316547394
+    },
+    {
+        "title": "Estos son los resultados ganadores del sorteo de la Primitiva del 12 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/5IMBCEZCY5FGVAES2VAZQ2IRLE.jpg?auth=94c01f4e3faa8d28057b313471960bd66294ea91fe0a8aa16b187e4c3fe2c30a&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/12/estos-son-los-resultados-ganadores-del-sorteo-de-la-primitiva-del-12-de-julio/",
+        "date": "2025-07-12 20:30:33",
+        "sentiment_score": 0.028395764529705048
+    },
+    {
+        "title": "Resultados de Bonoloto de este 12 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/2D22TSFDBJCEHIECLWRJLWUQIU.jpg?auth=0f8d364022b340f9b936878cdcc9af4602a796ccca3443df81ec42d1022cdd45&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/12/resultados-de-bonoloto-de-este-12-de-julio/",
+        "date": "2025-07-12 20:15:38",
+        "sentiment_score": 0.09449587762355804
+    },
+    {
+        "title": "Se buscan dos personas en Cubelles (Barcelona) por el desbordamiento del río Foix durante la DANA",
+        "image_url": "https://www.infobae.com/resizer/v2/XUH3WFRY3JASPBMF3K6KBNRGWU.jpg?auth=efa7d16328dedb7ae6ce0c769197180fa24bdd4a2827639bf0b4b3912d84fb29&height=3648&smart=true&width=5472",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/12/se-buscan-dos-personas-en-cubelles-barcelona-por-el-desbordamiento-del-rio-foix-durante-la-dana/",
+        "date": "2025-07-12 19:48:49",
+        "sentiment_score": -0.38260865211486816
+    },
+    {
+        "title": "Super Once: estos son los números ganadores del Sorteo 5 de este 12 julio",
+        "image_url": "https://www.infobae.com/resizer/v2/PCDXDXWPZJB6LIOCSUNLBJDF34.jpg?auth=b6d7597b0a20e3e1190f0aecdc169a58914bf651fed56619049789ca0c36a79f&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/12/super-once-estos-son-los-numeros-ganadores-del-sorteo-5-de-este-12-julio/",
+        "date": "2025-07-12 19:45:23",
+        "sentiment_score": 0.18222832679748535
+    },
+    {
+        "title": "Trump pasa de las amenazas a los porcentajes",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/07/09/073f62ee-cfd9-4719-bff3-5113214452df-ka9H--170x119@Leonoticias.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-trump-pasa-amenazas-porcentajes-20250713203937-nt.html",
+        "date": "2025-07-12 18:39:41",
+        "sentiment_score": -0.45522674918174744
+    },
+    {
+        "title": "«Hay medidas que España debe adoptar para reducir el riesgo de un nuevo apagón»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/07/13/Imagen%20Maria%20Carvalho%201-ku1-U2302346946792U8H-1200x840@RC.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.ideal.es/economia/medidas-espana-debe-adoptar-reducir-riesgo-nuevo-20250713001357-ntrc.html",
+        "date": "2025-07-12 22:13:59",
+        "sentiment_score": -0.14917053654789925
+    },
+    {
+        "title": "Sánchez se apresta a contentar a sus socios para cerrar el curso con la mayoría atornillada",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/07/13/sanchez-diaz-socios-ktoG-U2302353612663XJC-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/nacional/sanchez-apresta-contentar-socios-cerrar-curso-mayoria-20250713000623-ntrc.html",
+        "date": "2025-07-12 22:06:24",
+        "sentiment_score": -0.8737954450771213
+    },
+    {
+        "title": "Las dos semanas en el talego de Cerdán",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/07/13/santos-cerdan-soto-kviG-U2302354507178QNC-1200x840@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ideal.es/nacional/dos-semanas-talego-cerdan-20250713000558-ntrc.html",
+        "date": "2025-07-12 22:05:59",
+        "sentiment_score": -0.7412827424705029
+    },
+    {
+        "title": "Las tres semanas en el talego de Cerdán",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/07/09/barbie1200x1200--562x562.gif",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/politica/dos-semanas-talego-cerdan-20250713000558-ntrc.html",
+        "date": "2025-07-12 22:05:59",
+        "sentiment_score": -0.7412827424705029
+    },
+    {
+        "title": "La nueva capa de Superman tiene sello español",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/07/13/superman-capa-kPZB--758x531@RC.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elcorreo.com/gente-estilo/nueva-capa-superman-sello-espanol-20250713000717-ntrc.html",
+        "date": "2025-07-12 22:07:18",
+        "sentiment_score": 0.16770631074905396
+    },
+    {
+        "title": "La UE ha intensificado este siglo las relaciones comerciales con dictaduras",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/12/68729ccb266aa.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250713/10883621/ue-intensificado-siglo-relaciones-comerciales-dictaduras.html",
+        "date": "2025-07-12 22:05:00",
+        "sentiment_score": -0.6822791062295437
+    },
+    {
+        "title": "Los enigmáticos arcos de Sant Cugat",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/11/68714ac38d354.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20250713/10881687/enigmaticos-arcos-sant-cugat.html",
+        "date": "2025-07-12 22:05:00",
+        "sentiment_score": -0.3480638936161995
+    },
+    {
+        "title": "La banca andorrana, fortalecida en casa y fuera",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/11/6870e64a036d9.r_d.1823-1453-1230.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250713/10879747/banca-andorra-crecimiento-resultados.html",
+        "date": "2025-07-12 22:05:00",
+        "sentiment_score": 0.5321123152971268
+    },
+    {
+        "title": "Esquiar será más caro",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/10/6870071973afa.r_d.590-393-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250713/10878235/esquiar-sera-mas-caro.html",
+        "date": "2025-07-12 22:05:00",
+        "sentiment_score": 0.22927343100309372
+    },
+    {
+        "title": "Una intensa lluvia somete a Catalunya a otra jornada de meteorología extrema",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/12/6872ab0d21a57.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.lavanguardia.com/local/catalunya/20250713/10883685/intensa-lluvia-somete-catalunya-jornada-meteorologia-extrema.html",
+        "date": "2025-07-12 22:05:00",
+        "sentiment_score": -0.5303260870277882
+    },
+    {
+        "title": "Julio César Chávez cumple 63 años: un festejo marcado por el arresto de su hijo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752358141542.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/julio-cesar-chavez-cumple-63-anos-un-festejo-marcado-por-el-arresto-de-su-hijo-20257121900",
+        "date": "2025-07-12 22:08:03",
+        "sentiment_score": -0.5543441697955132
+    },
+    {
+        "title": "Fiscalía restituye un inmueble a un adulto mayor en Aragua: llevaba 18 años invadido",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752357509061.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/fiscalia-restituye-un-inmueble-a-un-adulto-mayor-en-aragua-llevaba-18-anos-invadido-20257121880",
+        "date": "2025-07-12 22:08:00",
+        "sentiment_score": -0.8676182795315981
+    },
+    {
+        "title": "¿Qué gana Ovidio Guzmán al declararse culpable?: estos son los cuatro delitos que admitió",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752293534322.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/que-gana-ovidio-guzman-al-declararse-culpable-estos-son-los-cuatro-delitos-que-admitio-20257121800",
+        "date": "2025-07-12 22:00:00",
+        "sentiment_score": -0.7415017783641815
+    },
+    {
+        "title": "Autoridades investigan las causas de la explosión en Catia: Tenemos la sospecha de que esto no es fortuito",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752353886166.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/autoridades-investigan-las-causas-de-la-explosion-en-catia-tenemos-la-sospecha-de-que-esto-no-es-fortuito-202571217300",
+        "date": "2025-07-12 21:30:00",
+        "sentiment_score": 0.06382017582654953
+    },
+    {
+        "title": "Medida temporal en Ciudad de Nutrias: instalan pasarelas para permitir el paso entre caseríos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752353256041.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/medida-temporal-en-ciudad-de-nutrias-instalan-pasarelas-para-permitir-el-paso-entre-caserios-20257121750",
+        "date": "2025-07-12 21:05:00",
+        "sentiment_score": 0.23631145805120468
+    },
+    {
+        "title": "¡Dato migratorio! Así puedes hacerle seguimiento a tu caso con USCIS: identifica el número más importante de tu trámite",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752348607638.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/dato-migratorio-asi-puedes-hacerle-seguimiento-a-tu-caso-con-uscis-identifica-el-numero-mas-importante-de-tu-tramite-20257121750",
+        "date": "2025-07-12 21:05:00",
+        "sentiment_score": 0.03970692306756973
+    },
+    {
+        "title": "Cumpleaños de Vinicius Jr.: la polémica felicitación del Balón de Oro al jugador brasileño",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752355291890.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/cumpleanos-de-vinicius-jr-la-polemica-felicitacion-del-balon-de-oro-al-jugador-brasileno--20257121800",
+        "date": "2025-07-12 21:02:26",
+        "sentiment_score": -0.008841723203659058
+    },
+    {
+        "title": "La IA arrasa con 1.300 puestos de trabajo de dos empresas con presencia mundial: se dedican a la búsqueda de empleos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752289589494.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/la-ia-arrasa-con-1-300-puestos-de-trabajo-de-dos-empresas-con-presencia-mundial-se-dedican-a-la-busqueda-de-empleos-20257121700",
+        "date": "2025-07-12 21:00:00",
+        "sentiment_score": 0.519159235060215
+    },
+    {
+        "title": "Oficial| Cheque de Estímulo en Illinois: dinero por fondos no reclamados llega a 600.000 residentes",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752354458868.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/oficial-cheque-de-estimulo-en-illinois-dinero-por-fondos-no-reclamados-llega-a-600-000-residentes-202571216550",
+        "date": "2025-07-12 20:55:00",
+        "sentiment_score": 0.051996149122714996
+    },
+    {
+        "title": "UFC Fight Night: cartelera, por dónde y a qué hora ver Derrick Lewis vs. Tallison Teixeira",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752354187760.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/ufc-fight-night-cartelera-por-donde-y-a-que-hora-ver-derrick-lewis-vs-tallison-teixeira-202571217200",
+        "date": "2025-07-12 20:34:29",
+        "sentiment_score": 0.2869303748011589
     }
 ];
