@@ -365,21 +365,6 @@ export default [
         "sentiment_score": -0.602810088545084
     },
     {
-        "title": "Un estudio científico detecta 30 agentes infecciosos en la zona cero de la dana que podrían provocar epidemias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FPMLFUJULBEVTLPV7NPVKKCI7I.JPG?auth=8bda81557e56a50f71f9ec551eb72f8e196aede524ef3c553a99026701a78f2f&width=1200",
-        "tags": [
-            "investigación científica",
-            "universidad valencia",
-            "enfermedades",
-            "comunidad valenciana",
-            "inundaciones dana octubre 2024",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-09/un-estudio-cientifico-detecta-30-agentes-infecciosos-en-la-zona-cero-de-la-dana-que-podrian-provocar-epidemias-en-un-ano.html",
-        "date": "2025-07-09 14:11:54",
-        "sentiment_score": -0.19912650808691978
-    },
-    {
         "title": "Pedro Sánchez defiende el derecho internacional y el multilateralismo para afrontar los retos globales",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -7477,5 +7462,440 @@ export default [
         "link": "https://2001online.com/deportes/ufc-fight-night-cartelera-por-donde-y-a-que-hora-ver-derrick-lewis-vs-tallison-teixeira-202571217200",
         "date": "2025-07-12 20:34:29",
         "sentiment_score": 0.2869303748011589
+    },
+    {
+        "title": "Sebastián Yatra apoya a los migrantes antes de comenzar su gira musical en España: “Ves que la vida de las personas se jode”",
+        "image_url": "https://www.infobae.com/resizer/v2/YTLGHPSMBZGRHDYMT46ZWSQMYY.png?auth=f34878d4b7004d773bec9110cf09f49bfd375f2e553ec909959298aea5edf8ed&height=512&smart=true&width=911",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/07/13/sebastian-yatra-apoya-a-los-migrantes-antes-de-comenzar-su-gira-musical-en-espana-ves-que-la-vida-de-las-personas-se-jode/",
+        "date": "2025-07-13 01:46:38",
+        "sentiment_score": 0.02725796401500702
+    },
+    {
+        "title": "¿Cuáles son las nuevas tendencias en YouTube en España?",
+        "image_url": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/13/cuales-son-las-nuevas-tendencias-en-youtube-en-espana/",
+        "date": "2025-07-13 01:16:12",
+        "sentiment_score": -0.7663897341117263
+    },
+    {
+        "title": "España: las predicciones del tiempo en Barcelona este 13 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/GKA3FFW4JFEB7GOJJXLN52MWJM.jpg?auth=0e6afbb455d1ff051763747db8015f9da4f28384c065c1e5b997011e10cc4009&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/13/espana-las-predicciones-del-tiempo-en-barcelona-este-13-de-julio/",
+        "date": "2025-07-13 01:15:51",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "López Miras condena la violencia en Torre Pacheco y pide recuperar la convivencia: \"Orden y ley para todos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/6FCWXDQQX5F4FPIWPL6L3K4UVQ.jpg?auth=fb64016cae77ccdded07941d16f274bda7a14bd097c204f1fa440781d67c242b&height=1306&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/12/lopez-miras-condena-la-violencia-en-torre-pacheco-y-pide-recuperar-la-convivencia-orden-y-ley-para-todos/",
+        "date": "2025-07-12 23:07:51",
+        "sentiment_score": -0.46868567168712616
+    },
+    {
+        "title": "El alcalde de Torre Pacheco (Murcia) pide calma tras los altercados y defiende la convivencia en el municipio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/12/el-alcalde-de-torre-pacheco-murcia-pide-calma-tras-los-altercados-y-defiende-la-convivencia-en-el-municipio/",
+        "date": "2025-07-12 22:22:42",
+        "sentiment_score": -0.8314717281609774
+    },
+    {
+        "title": "Hallan muerta en la pedanía murciana de Aljucer a una mujer desaparecida desde primeras horas de la tarde",
+        "image_url": "https://www.infobae.com/resizer/v2/V7UBGB7SZNCTLEY23QJHCR37WU.jpg?auth=4b9c27be013a388bd600792711e87adb60e339a24ca907c62f26fef7507592e9&height=1131&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/12/hallan-muerta-en-la-pedania-murciana-de-aljucer-a-una-mujer-desaparecida-desde-primeras-horas-de-la-tarde/",
+        "date": "2025-07-12 22:18:24",
+        "sentiment_score": -0.5792094748467207
+    },
+    {
+        "title": "Cuánto dinero cobra un cura en España en 2025: sueldo medio que ganan al mes",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2024/09/16/cura-k3WD-U70827083141xYD-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/dinero-cobra-cura-espana-2025-sueldo-medio-20250713190333-nt.html",
+        "date": "2025-07-13 01:47:40",
+        "sentiment_score": -0.009227603673934937
+    },
+    {
+        "title": "La consolidación europea, en el Peugeot y rumbo a La Mareta",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/13/indra-R7t4RpUP2yYwMN8t5eNEV9O-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/maria-jesus-perez-consolidacion-europea-peugeot-rumbo-mareta-20250713032248-nt.html",
+        "date": "2025-07-13 01:22:48",
+        "sentiment_score": -0.13004562258720398
+    },
+    {
+        "title": "Órdago de Trump a la UE: en plenas negociaciones, confirma aranceles del 30%",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/12/reu-ke3H-U701282502115MjB-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/ordago-trump-ue-plenas-negociaciones-confirma-aranceles-20250712211034-nt.html",
+        "date": "2025-07-13 01:21:35",
+        "sentiment_score": -0.13929462432861328
+    },
+    {
+        "title": "El euro digital, el plan del BCE para retener el control del dinero en la era virtual",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/13/1495323939-Rm2ipDC5lQoFLwVy8ge1wiN-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/euro-digital-plan-bce-retener-control-dinero-20250713015728-nt.html",
+        "date": "2025-07-13 01:00:00",
+        "sentiment_score": -0.13911032676696777
+    },
+    {
+        "title": "La nueva España 'sin' hunde el consumo de bebidas alcohólicas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/13/consumoalcohol-R9jTERIhyC5rlfcK4oUaFaK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/nueva-espana-hunde-consumo-bebidas-alcoholicas-20250713175655-nt.html",
+        "date": "2025-07-13 00:31:48",
+        "sentiment_score": -0.11275894939899445
+    },
+    {
+        "title": "Las purgas en la cúpula militar de China destapan una crisis de poder",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/12/EuropaPress_5908944_tianjin_feb_2024____chinese_president_xi_jinping_also_general_secretary_of%20(1)-kt0G-U7012817652943ZD-1200x840@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/purgas-cupula-militar-china-destapan-crisis-poder-20250712170859-nt.html",
+        "date": "2025-07-13 00:29:53",
+        "sentiment_score": -0.11493316292762756
+    },
+    {
+        "title": "Jorge, Carlos, Txema",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/07/13/cavia-RJT3UJEkzjp1o1xKVOxwmQJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-jorge-carlos-txema-20250713020252-nt.html",
+        "date": "2025-07-13 00:02:52",
+        "sentiment_score": -0.20005887746810913
+    },
+    {
+        "title": "Por primera vez en la historia, los soldados rusos se rindieron ante una ofensiva solo de robots",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/06/ato1-U78056088446edA-170x170@diario_abc.PNG",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/p-20250713175948-nt.html",
+        "date": "2025-07-12 23:43:20",
+        "sentiment_score": -0.17485667765140533
+    },
+    {
+        "title": "La cara oculta de una misión rusa que parecía salida de una película",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/13/gr-k1nF-RpIH8UCdroYkHRDhEzKNuSL-1200x840@diario_abc.PNG",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/cara-oculta-mision-rusa-parecia-salida-pelicula-20250713203946-nt.html",
+        "date": "2025-07-12 23:42:41",
+        "sentiment_score": -0.15392042696475983
+    },
+    {
+        "title": "Marta Fano: \"En Manos Unidas vemos milagros cada día desde hace más de 66 años\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/953dd515-6a4c-4d12-ac46-792647f2cb1e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/07/13/marta-fano-manos-unidas-vemos-119639822.html",
+        "date": "2025-07-13 02:03:51",
+        "sentiment_score": -0.13498525321483612
+    },
+    {
+        "title": "PSG busca redondear su temporada en la final del Mundial Clubes ante un Chelsea en ascenso",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "fútbol",
+            "mundial de clubes",
+            "chelsea fc",
+            "deportes",
+            "psg",
+            "gran final"
+        ],
+        "link": "https://eltiempove.com/psg-busca-redondear-su-temporada-en-la-final-del-mundial-clubes-ante-un-chelsea-en-ascenso/",
+        "date": "2025-07-13 01:28:58",
+        "sentiment_score": 0.24573759734630585
+    },
+    {
+        "title": "No son \"tres\" y no están sólo en el PSOE: los 27 imputados en el entorno del Gobierno y Sánchez que envenenan su legislatura",
+        "image_url": "https://s1.elespanol.com/2025/07/10/actualidad/1003743842517_257183649_1706x960.jpg?contentId=1003743842517",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20250713/no-no-solo-psoe-imputados-entorno-gobierno-sanchez-envenenan-legislatura/1003743841718_0.html",
+        "date": "2025-07-13 01:22:42",
+        "sentiment_score": -0.8079789057374
+    },
+    {
+        "title": "IA, gemelos digitales y sensores convierten el Hospital del Henares en banco de pruebas de la nueva gestión sanitaria",
+        "image_url": "https://s1.elespanol.com/2025/07/11/actualidad/1003743844170_257215423_1706x960.jpg?contentId=1003743844170",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20250713/ia-gemelos-digitales-sensores-convierten-hospital-henares-banco-pruebas-nueva-gestion-sanitaria/1003743843387_0.html",
+        "date": "2025-07-13 01:15:10",
+        "sentiment_score": 0.544210646301508
+    },
+    {
+        "title": "El marqués de Valdueza, amigo de pupitre y de caza del Emérito: \"Me molesta su exilio, es injusto. Ahora no veo fácil su retorno\"",
+        "image_url": "https://s1.elespanol.com/2025/07/11/actualidad/1003743844480_257221450_1706x960.jpg?contentId=1003743844480",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250713/marques-valdueza-amigo-pupitre-caza-emerito-molesta-exilio-injusto-ahora-no-veo-facil-retorno/1003743839144_0.html",
+        "date": "2025-07-13 00:57:36",
+        "sentiment_score": 0.09733082354068756
+    },
+    {
+        "title": "Historia en 4 tiempos | Tal día como hoy: \"Sánchez, nuevo guardameta del Orense\"",
+        "image_url": "https://static.laregion.es/clip/6e3bb671-1d5a-420f-8455-aa2667215f06_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.laregion.es/provincia/historia-4-tiempos-dia-hoy_1_20250713-3916235.html",
+        "date": "2025-07-13 00:30:37",
+        "sentiment_score": -0.023147881031036377
+    },
+    {
+        "title": "Rodrygo será la clave para nuevos fichajes",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/03/31/2024033123581831782.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/rodrygo-sera-clave-nuevos-fichajes/20250713012435350225.html",
+        "date": "2025-07-12 23:24:35",
+        "sentiment_score": -0.5200426243245602
+    },
+    {
+        "title": "La generación de cristal ahora es de vidrio: transparentes, sólidos y con propósito",
+        "image_url": "https://s1.elespanol.com/2025/07/11/actualidad/1003743843425_257201648_1706x960.jpg?contentId=1003743843425",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20250712/generacion-cristal-ahora-vidrio-transparentes-solidos-proposito/1003743839023_0.html",
+        "date": "2025-07-12 23:15:58",
+        "sentiment_score": 0.5884601324796677
+    },
+    {
+        "title": "12 JUL 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/12-jul-2025-tramo-final-juego-20250713_3184697.html",
+        "date": "2025-07-12 23:07:00",
+        "sentiment_score": -0.05537945032119751
+    },
+    {
+        "title": "AC/DC deja en Madrid un rastro de azufre con un concierto que se recordará durante décadas",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/07/12/6872da6296a69.jpeg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.eldebate.com/cultura/musica/20250713/acdc-deja-madrid-rastro-azufre-concierto-recordara-durante-decadas_316608.html",
+        "date": "2025-07-12 23:06:07",
+        "sentiment_score": 0.33056550472974777
+    },
+    {
+        "title": "El obispo leonés acusado por Franco de \"rijoso chulo de putas\"",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/08/62/6/obispo-fidel-calahorra.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/obispo-leones-acusado-por-franco-rijoso-chulo-putas_178876_102.html",
+        "date": "2025-07-13 02:05:00",
+        "sentiment_score": -0.09459269046783447
+    },
+    {
+        "title": "Asturias busca una vía que la lleve a Europa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/186a95d2-c4d2-458d-bf97-9936dfc122af_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lne.es/asturias/2025/07/13/asturias-busca-via-lleve-europa-119639403.html",
+        "date": "2025-07-13 02:03:51",
+        "sentiment_score": -0.0916796326637268
+    },
+    {
+        "title": "Un rayo alcanza a una mujer y a su hija en la Marina de València",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ce2c4e8c-d46f-45ab-af19-82e247850616_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2025/07/13/rayo-alcanza-mujer-hija-marina-119640387.html",
+        "date": "2025-07-13 02:00:48",
+        "sentiment_score": -0.3521036058664322
+    },
+    {
+        "title": "Salones de Juego en Baleares: 14 cierres en cinco años, el negocio se desinfla a paso lento",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3381183.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/07/13/2426045/salones-juego-baleares-cierres-cinco-anos-negocio-pierde-fuelle.html",
+        "date": "2025-07-13 02:00:02",
+        "sentiment_score": 0.06383587419986725
+    },
+    {
+        "title": "Toni Nadal, corrector de estilos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/07/13/2428643/toni-nadal-corrector-estilos.html",
+        "date": "2025-07-13 02:00:02",
+        "sentiment_score": -0.008505016565322876
+    },
+    {
+        "title": "Sólo vehículos eléctricos y sin calefacción: las medidas previstas en Granada y Armilla ante alertas por mala calidad del aire",
+        "image_url": "https://static.grupojoly.com/clip/9b67db74-113e-45f2-99ae-f595cef07cc4_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.granadahoy.com/granada/circulacion-vehiculos-electricos-prohibicion-calefaccion-granada-armilla-actuaran-primera-vez-casos-alerta-mala-calidad-aire_0_2004299307.html",
+        "date": "2025-07-13 01:15:33",
+        "sentiment_score": -0.5808878913521767
+    },
+    {
+        "title": "ERC mueve ficha en el Congreso: el pacto por la financiación sigue en el aire",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/24/2025022418160787219.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/erc-mueve-ficha-congreso-pacto-financiacion-sigue-aire/20250713025018350228.html",
+        "date": "2025-07-13 00:50:18",
+        "sentiment_score": -0.5415163207799196
+    },
+    {
+        "title": "Así celebró James Rodríguez su cumpleaños 34: las redes sociales se ‘encendieron’ con sus publicaciones",
+        "image_url": "https://www.infobae.com/resizer/v2/BMYEG4O37FEFXA4RUWCRNOJ3KE.jpg?auth=a780108bd0311f143addbb3474de0de04869e4abc6a5c5b30b3395fa07477c81&height=3819&smart=true&width=5376",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/07/13/asi-celebro-james-rodriguez-su-cumpleanos-34-las-redes-sociales-se-encendieron-con-sus-publicaciones/",
+        "date": "2025-07-13 00:13:28",
+        "sentiment_score": 0.7560917437076569
+    },
+    {
+        "title": "Cantv: conozca la fecha del pago de la factura por el terminal del número telefónico",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/cantv-conozca-la-fecha-del-pago-de-la-factura-por-el-terminal-del-numero-telefonico-20257122200",
+        "date": "2025-07-13 02:00:00",
+        "sentiment_score": 0.7734021674841642
+    },
+    {
+        "title": "Transforma cuerpo y mente con el beso: beneficios inesperados de este acto de amor",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752085162800/Captura%20de%20pantalla%202025-07-09%20a%20la(s)%201.00.37%20p.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/transforma-cuerpo-y-mente-con-el-beso-beneficios-inesperados-de-este-acto-de-amor-20257122200",
+        "date": "2025-07-13 02:00:00",
+        "sentiment_score": 0.7683162735775113
+    },
+    {
+        "title": "Cristian Castro aún disfruta del biberón: también quiere lanzar una línea del producto para adultos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/cristian-castro-aun-disfruta-del-biberon-tambien-quiere-lanzar-una-linea-del-producto-para-adultos-202571221300",
+        "date": "2025-07-13 01:30:00",
+        "sentiment_score": 0.23340541124343872
+    },
+    {
+        "title": "Banesco recomienda no usar su plataforma para transferir fondos provenientes de billeteras virtuales: sepa por qué",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752369082839/519076014_18513200242012079_1862091968573094713_n..jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/banesco-recomienda-no-usar-su-plataforma-para-transferir-fondos-provenientes-de-billeteras-virtuales-sepa-por-que-202571221230",
+        "date": "2025-07-13 01:23:00",
+        "sentiment_score": 0.29418323934078217
+    },
+    {
+        "title": "¡Prevenidos! Mantenimiento de Corpoelec este 13 de julio: conoce los horarios",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/prevenidos-mantenimiento-de-corpoelec-este-13-de-julio-conoce-los-horarios-202571221100",
+        "date": "2025-07-13 01:10:00",
+        "sentiment_score": 0.12399173527956009
+    },
+    {
+        "title": "Surfista sobrevive más de 18 horas varado en el mar: estuvo rodeado de tiburones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/surfista-sobrevive-mas-de-18-horas-varado-en-el-mar-estuvo-rodeado-de-tiburones-20257122100",
+        "date": "2025-07-13 01:00:00",
+        "sentiment_score": -0.1596229076385498
+    },
+    {
+        "title": "Pronóstico del tiempo para Chicago: lanzan alerta por humo de incendios forestales y lluvias aisladas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/pronostico-del-tiempo-para-chicago-lanzan-alerta-por-humo-de-incendios-forestales-y-lluvias-aisladas-202571220290",
+        "date": "2025-07-13 00:29:00",
+        "sentiment_score": -0.19804079830646515
+    },
+    {
+        "title": "Presidente de Irán resultó herido durante un ataque israelí: se encontraba con el equipo de seguridad nacional",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/presidente-de-iran-resulto-herido-durante-un-ataque-israeli-se-encontraba-con-el-equipo-de-seguridad-nacional-202571220270",
+        "date": "2025-07-13 00:27:00",
+        "sentiment_score": -0.78043451346457
+    },
+    {
+        "title": "Saime lanza nuevo servicio: pasos para certificar en línea tu cédula y pasaporte",
+        "image_url": "https://i0.wp.com/mundour.com/wp-content/uploads/2023/08/Saime.webp?fit=680%2C383&ssl=1",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/saime-lanza-nuevo-servicio-pasos-para-certificar-en-linea-tu-cedula-y-pasaporte-202571220190",
+        "date": "2025-07-13 00:19:00",
+        "sentiment_score": 0.154995858669281
+    },
+    {
+        "title": "Esta tienda ofrece ropa infantil en menos de 1 dólar por el Día del Niño: también se puede pagar a crédito con Cashea",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/esta-tienda-ofrece-ropa-infantil-en-menos-de-1-dolar-por-el-dia-del-nino-tambien-se-puede-pagar-a-credito-con-cashea-202571220190",
+        "date": "2025-07-13 00:19:00",
+        "sentiment_score": 0.1527027264237404
     }
 ];
