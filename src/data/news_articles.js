@@ -150,66 +150,6 @@ export default [
         "sentiment_score": -0.0034735798835754395
     },
     {
-        "title": "'Omertá'",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/07/10/cartas-director-1200x630-U34704450241YRN-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-omerta-20250710160528-nt.html",
-        "date": "2025-07-10 14:05:28",
-        "sentiment_score": -0.2412465214729309
-    },
-    {
-        "title": "Los trabajadores de Navantia en Cartagena, en huelga de hambre para alcanzar un convenio digno",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/10/1496909602-RqDXAAhI3xrWeEhC3XNKLhK-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/trabajadores-navantia-cartagena-huelga-hambre-alcanzar-convenio-20250710155539-nt.html",
-        "date": "2025-07-10 13:55:40",
-        "sentiment_score": -0.07706525921821594
-    },
-    {
-        "title": "Exceltur cuestiona que el turismo tenga la culpa de la crisis de vivienda",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/10/1498674230-RYC9kfJDDzx8H9b5m5rcOxK-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/exceltur-duda-problemas-achacan-turismo-realmente-culpa-20250710133147-nt.html",
-        "date": "2025-07-10 12:50:09",
-        "sentiment_score": -0.07454745471477509
-    },
-    {
-        "title": "Escrivá critica que la opa de BBVA sobre el Sabadell «está durando demasiado tiempo»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/07/10/escriva-foro_20250710144407-R3nGQZ0xmJC0UTwW3Gm5oSL-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/escriva-critica-opa-bbva-sobre-sabadell-durando-20250710135319-nt.html",
-        "date": "2025-07-10 12:48:39",
-        "sentiment_score": -0.08813408017158508
-    },
-    {
-        "title": "Israel se compromete con la UE a mejorar el acceso a la ayuda humanitaria en Gaza tras las presiones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/10/kala-kallas-kq8E-U701271878756jaH-1200x840@diario_abc.JPG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-compromete-ue-mejorar-acceso-ayuda-humanitaria-20250710130653-nt.html",
-        "date": "2025-07-10 11:10:08",
-        "sentiment_score": 0.05846351385116577
-    },
-    {
-        "title": "Elon Musk confirma que Grok, su IA conversacional, llegará a los Tesla",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/07/10/tesla-k7UH-U701271473020J0G-1200x840@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/elon-musk-confirma-grok-ia-conversacional-llegara-20250710130437-nt.html",
-        "date": "2025-07-10 11:04:38",
-        "sentiment_score": -0.12263569235801697
-    },
-    {
         "title": "Moreno abandona el Parlamento andaluz tras la ofensiva del PSOE por las acusaciones de abusos al alcalde de Algeciras",
         "image_url": "https://imagenes.elpais.com/resizer/v2/DFKNDSYW4FPCPDCNXQ52EIBT4M.jpg?auth=46615ef375bceefce4478636d8d556eb0a1318ad3d0824c33b59dc6fb56bc47b&width=1200",
         "tags": [
@@ -360,16 +300,6 @@ export default [
         "link": "https://elpais.com/espana/2025-07-10/detenido-un-hombre-que-fingia-hacer-deporte-para-asaltar-villas-de-lujo-en-marbella.html",
         "date": "2025-07-10 15:01:52",
         "sentiment_score": -0.7353179510682821
-    },
-    {
-        "title": "España importó por vez primera en 2023 más armamento del que exportó",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/R7CHIFLUA5B4JFOIJCKQHWFDGI.jpg?auth=b16ed50ffdea7ff92ca2cda7e91d8cface60514cd3924343bc282ed7cb507f75",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-07-10/espana-importo-por-vez-primera-en-2023-mas-armamento-del-que-exporto.html",
-        "date": "2025-07-10 13:49:05",
-        "sentiment_score": -0.423039048910141
     },
     {
         "title": "Morante se queda en Pamplona tras salir por la puerta grande: así celebra su triunfo en San Fermín",
@@ -7372,5 +7302,360 @@ export default [
         "link": "https://2001online.com/deportes/david-benavidez-establece-una-condicion-para-pelear-con-canelo-conozca-cual-es-20257131700",
         "date": "2025-07-13 21:00:00",
         "sentiment_score": -0.10038106143474579
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Málaga este 14 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/VLQPBJ57FVHE5EEUO244GVVUKI.jpg?auth=df376a06cf4887c1b7ee95578b1c9dcd7048cb8fd0eb9aa19637a1e1d65329f6&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/14/clima-hoy-en-espana-temperaturas-para-malaga-este-14-de-julio/",
+        "date": "2025-07-14 02:17:15",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Pronóstico del clima en Madrid este lunes: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/GKA3FFW4JFEB7GOJJXLN52MWJM.jpg?auth=0e6afbb455d1ff051763747db8015f9da4f28384c065c1e5b997011e10cc4009&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/14/pronostico-del-clima-en-madrid-este-lunes-temperatura-lluvias-y-viento/",
+        "date": "2025-07-14 01:31:36",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 14 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=1536&smart=true&width=2688",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/14/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-14-de-julio/",
+        "date": "2025-07-14 01:18:08",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Números ganadores del Lototurf de este 14 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/XUZH4R6EORA4TL6AXQM5XXBG5M.png?auth=47b4aacadda7019d429d7df45865af6642b2403f048855b2a9853351367f3dc4&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/14/numeros-ganadores-del-lototurf-de-este-14-de-julio/",
+        "date": "2025-07-14 00:15:49",
+        "sentiment_score": 0.01279192790389061
+    },
+    {
+        "title": "Estas son las mejores películas de Netflix para ver hoy en España",
+        "image_url": "https://www.infobae.com/resizer/v2/OF5EMOTUMFDI3PH7EMHYN7H72E.jpg?auth=020a872697c6a572b54c51b637fb0725d510834f7efb3ca1d0b530a138a5004c&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/13/estas-son-las-mejores-peliculas-de-netflix-para-ver-hoy-en-espana/",
+        "date": "2025-07-13 23:30:58",
+        "sentiment_score": -0.12405925989151001
+    },
+    {
+        "title": "K-pop en iTunes: las 10 mejores canciones en España",
+        "image_url": "https://www.infobae.com/resizer/v2/A4YD263FHRD7NI3APILFFDKBP4.jpg?auth=0820a7bac32d87558aad9d98dc33ea718a5cffe2c4d43337554ca135afe7c7b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/13/k-pop-en-itunes-las-10-mejores-canciones-en-espana/",
+        "date": "2025-07-13 23:15:28",
+        "sentiment_score": 0.03554946184158325
+    },
+    {
+        "title": "Ya son seis los detenidos en Torre Pacheco por agresiones, daños y altercados",
+        "image_url": "https://www.infobae.com/resizer/v2/RCG7JOP46JEK3EWXC3X34UKCRI.JPG?auth=7b969be92967401e1e634ca2f1ee2a17736a4c3ffd8dfd841db66456ff23e2fc&height=2080&smart=true&width=3120",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/13/ya-son-seis-los-detenidos-en-torre-pacheco-por-agresiones-danos-y-altercados/",
+        "date": "2025-07-13 23:14:16",
+        "sentiment_score": -0.48137854039669037
+    },
+    {
+        "title": "Hacienda pierde la pista de cientos de grandes rentas tras su último ataque fiscal a los ricos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/14/MaraJessMonteroEFE-R2og6giDOKJyNgDLDe0yKZP-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/hacienda-pierde-pista-cientos-grandes-rentas-tras-20250714220207-nt.html",
+        "date": "2025-07-14 01:22:09",
+        "sentiment_score": -0.08806081116199493
+    },
+    {
+        "title": "La burocracia se desboca en España con 1,3 millones de páginas más en los BOE",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/14/cata-RK4Z49ngen0v4uOFRLCR3jP-1200x840@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/burocracia-desboca-espana-millones-paginas-boe-20250714180450-nt.html",
+        "date": "2025-07-14 00:58:16",
+        "sentiment_score": -0.07775014638900757
+    },
+    {
+        "title": "El consejo del Banco de España designa hoy al nuevo economista jefe entre López Salido y Nuño",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/07/14/joseluisescrivagobernador-RfqoSs8Vdz97TgVsPXw52KK-1200x840@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/consejo-banco-espana-designa-hoy-nuevo-economista-20250714173406-nt.html",
+        "date": "2025-07-14 00:57:47",
+        "sentiment_score": -0.09654176235198975
+    },
+    {
+        "title": "Otro portero vasco para hacer historia en el VCF",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/50e53c3a-9fc4-4f78-83c3-325a59949d1b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2025/07/14/portero-vasco-historia-vcf-119663548.html",
+        "date": "2025-07-14 02:00:29",
+        "sentiment_score": 0.6722483038902283
+    },
+    {
+        "title": "Francisco Fullana y Alba Ventura, un dúo de violín y piano este lunes en Ciutadella",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3386681.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2025/07/14/2429165/duo-violin-piano-ciutadella.html",
+        "date": "2025-07-14 02:00:01",
+        "sentiment_score": 0.2123611457645893
+    },
+    {
+        "title": "El gran año de Esperança Cladera",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3386687.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/otros-deportes/2025/07/14/2429173/gran-ano-esperanca-cladera.html",
+        "date": "2025-07-14 02:00:01",
+        "sentiment_score": 0.6259238943457603
+    },
+    {
+        "title": "Independiente Santa Fe fue homenajeado antes de duelo con Pereira: jugadores ‘Matecañas’ hicieron pasillo al campeón",
+        "image_url": "https://www.infobae.com/resizer/v2/CMGQVBAQLFFN3DI7PB47FILB2Y.jpg?auth=391fd263a9f3ae9546cf29fd6c712d250a1a7d94bf2669a0f28106532166558a&height=1638&smart=true&width=2048",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/07/14/independiente-santa-fe-fue-homenajeado-antes-de-duelo-con-pereira-jugadores-matecanas-hicieron-pasillo-al-campeon/",
+        "date": "2025-07-14 01:31:36",
+        "sentiment_score": 0.7609865218400955
+    },
+    {
+        "title": "Chelsea aplastó al PSG",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/07/campeon.jpg",
+        "tags": [
+            "deportes",
+            "noticias destacadas",
+            "fifa 2025",
+            "mundial de clubes"
+        ],
+        "link": "https://elsiglo.com.ve/chelsea-aplasto-al-psg/",
+        "date": "2025-07-14 01:11:51",
+        "sentiment_score": 0.33035701513290405
+    },
+    {
+        "title": "EN FOTOS: Trump asistió a la final del Mundial de Clubes y hasta entregó los premios a los jugadores",
+        "image_url": "https://caraotadigital.net/wp-content/uploads/2025/07/Donald-Trump-infantino.jpg",
+        "tags": [
+            "usa",
+            "chelsea",
+            "psg",
+            "mundial de clubes",
+            "donald trump"
+        ],
+        "link": "https://caraotadigital.net/usa/en-fotos-trump-asistio-a-la-final-del-mundial-de-clubes-y-hasta-entrego-los-premios-a-los-jugadores/",
+        "date": "2025-07-14 01:07:08",
+        "sentiment_score": 0.11254476010799408
+    },
+    {
+        "title": "Trump asistió a final del Mundial de Clubes y se robó el show, entregó premios y hasta se coló en la foto oficial",
+        "image_url": "https://caraotadigital.net/wp-content/uploads/2025/07/Donald-Trump-infantino.jpg",
+        "tags": [
+            "mundial de clubes",
+            "usa",
+            "donald trump",
+            "chelsea",
+            "psg"
+        ],
+        "link": "https://caraotadigital.net/usa/trump-asistio-a-final-del-mundial-de-clubes-y-se-robo-el-show-entrego-premios-y-hasta-se-colo-en-la-foto-oficial/",
+        "date": "2025-07-14 01:07:08",
+        "sentiment_score": -0.17284375429153442
+    },
+    {
+        "title": "Chelsea se coronó campeón del Mundo",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/07/IMG_2808.webp",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/chelsea-se-corono-campeon-del-mundo/",
+        "date": "2025-07-14 00:40:59",
+        "sentiment_score": 0.0978192687034607
+    },
+    {
+        "title": "Donald Trump cataloga a Pelé como el mejor jugador de todos los tiempos",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/07/AP25195005913407.jpg",
+        "tags": [
+            "fútbol",
+            "donald trump",
+            "deportes",
+            "pelé",
+            "mundial de clubes"
+        ],
+        "link": "https://eldiariony.com/2025/07/13/donald-trump-cataloga-a-pele-como-el-mejor-jugador-de-todos-los-tiempos/",
+        "date": "2025-07-14 00:26:05",
+        "sentiment_score": -0.6888770572841167
+    },
+    {
+        "title": "Estella Tonrath: «Aprendí a ser más fuerte al quedarme fuera de París»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/facebook/3386551.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/otros-deportes/2025/07/14/2429083/estella-tonraht-aprendi-ser-mas-fuerte-quedarme-fuera-paris.html",
+        "date": "2025-07-14 02:00:01",
+        "sentiment_score": 0.32832056283950806
+    },
+    {
+        "title": "El difícil encaje de la aviación privada en los aeropuertos",
+        "image_url": "https://uh.gsstatic.es/autor/antoni-planells/12401.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/07/14/2429095/dificil-encaje-aviacion-privada-aeropuertos.html",
+        "date": "2025-07-14 02:00:01",
+        "sentiment_score": -0.64161142334342
+    },
+    {
+        "title": "Que Pedro Bagur, un asiduo lector de «Es Diari»...",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/facebook/3386741.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/sorprende-sorprende/2025/07/14/2429203/pedro-bagur-asiduo-lector-diari.html",
+        "date": "2025-07-14 02:00:01",
+        "sentiment_score": 0.5017651468515396
+    },
+    {
+        "title": "La fauna exótica del Parc Samà",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/08/686ce060798fc.r_d.862-568-0.png",
+        "tags": [
+            "las fotos de los lectores"
+        ],
+        "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20250714/10867637/fauna-exotica-parc-sama.html",
+        "date": "2025-07-14 02:00:00",
+        "sentiment_score": 0.5985153615474701
+    },
+    {
+        "title": "¿Cuánto sabes sobre Scarlett Johansson?",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/PYLZ7WQU25C45HBOO6Y4EZZKOE.jpg?auth=0abb3aa6986ee5dabc63144da4185f612e4516f9b064faba4694bc5fae942c84&height=1561&smart=true&width=1918",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.metroworldnews.com/entretenimiento/2025/07/14/cuanto-sabes-sobre-scarlett-johansson/",
+        "date": "2025-07-14 01:10:09",
+        "sentiment_score": 0.12112557888031006
+    },
+    {
+        "title": "Melena sana y brillante: así puedes preparar una mascarilla natural que hidrata el cabello desde la raíz hasta las puntas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752458783054.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/melena-sana-y-brillante-asi-puedes-preparar-una-mascarilla-natural-que-hidrata-el-cabello-desde-la-raiz-hasta-las-puntas-202571322100",
+        "date": "2025-07-14 02:10:00",
+        "sentiment_score": -0.785230714827776
+    },
+    {
+        "title": "Wicked cobra vida: Ariana Grande y Cynthia Erivo anuncian especial en vivo del musical",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752459034762.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/wicked-cobra-vida-ariana-grande-y-cynthia-erivo-anuncian-especial-en-vivo-del-musical--20257132250",
+        "date": "2025-07-14 02:05:00",
+        "sentiment_score": 0.38441138714551926
+    },
+    {
+        "title": "Héctor Rodríguez insta a reflexionar sobre la jubilación de los docentes: Es la edad de mayor capacidad",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752455131777.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/hector-rodriguez-insta-a-reflexionar-sobre-la-jubilacion-de-los-docentes-es-la-edad-de-mayor-capacidad-20257132200",
+        "date": "2025-07-14 02:00:00",
+        "sentiment_score": 0.39650505036115646
+    },
+    {
+        "title": "Predicciones de la semana del 14 al 20 de julio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-14-al-20-de-julio--20257132200",
+        "date": "2025-07-14 02:00:00",
+        "sentiment_score": -0.04767906665802002
+    },
+    {
+        "title": "Evita morir antes de tiempo: estos son los 5 alimentos que debes eliminar ya para alargar tu vida y tener una vejez feliz",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752457805782.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/evita-morir-antes-de-tiempo-estos-son-los-5-alimentos-que-debes-eliminar-ya-para-alargar-tu-vida-y-tener-una-vejez-feliz-202571321550",
+        "date": "2025-07-14 01:55:00",
+        "sentiment_score": -0.734180174767971
+    },
+    {
+        "title": "Angelique Boyer revive la magia de “Rebelde”: trabaja nuevamente junto a Estefanía Villarreal y María Fernanda",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752458211733.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/angelique-boyer-revive-la-magia-de-rebelde-trabaja-nuevamente-junto-a-estefania-villarreal-y-maria-fernanda-202571321540",
+        "date": "2025-07-14 01:54:00",
+        "sentiment_score": 0.7503213882446289
+    },
+    {
+        "title": "Polémica en Los 4 Fantásticos: Pedro Pascal responde a las críticas sobre su personaje",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752457699391.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/polemica-en-los-4-fantasticos-pedro-pascal-responde-a-las-criticas-sobre-su-personaje-202571321460",
+        "date": "2025-07-14 01:46:00",
+        "sentiment_score": -0.5364395007491112
+    },
+    {
+        "title": "Operación Caracas Sonríe: conozca dónde estará desplegada este lunes 14 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752457055403.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/operacion-caracas-sonrie-conozca-donde-estara-desplegada-este-lunes-14-de-julio-202571321420",
+        "date": "2025-07-14 01:42:00",
+        "sentiment_score": 0.21428601443767548
+    },
+    {
+        "title": "Elimina las arrugas del rostro con una milagrosa mascarilla a base de naranja fácil y rápida de preparar en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752456139199.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/elimina-las-arrugas-del-rostro-con-una-milagrosa-mascarilla-a-base-de-naranja-facil-y-rapida-de-preparar-en-casa-202571321300",
+        "date": "2025-07-14 01:30:00",
+        "sentiment_score": -0.5999068878591061
+    },
+    {
+        "title": "¡La fuente de la eterna juventud! El secreto para retardar el envejecimiento y vivir muchos años: lo recomienda The New York Times",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752455183934.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/la-fuente-de-la-eterna-juventud-el-secreto-para-retardar-el-envejecimiento-y-vivir-muchos-anos-lo-recomienda-the-new-york-times-202571321150",
+        "date": "2025-07-14 01:15:00",
+        "sentiment_score": 0.29752391949296
     }
 ];
