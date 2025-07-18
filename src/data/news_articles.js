@@ -130,56 +130,6 @@ export default [
         "sentiment_score": -0.1354033648967743
     },
     {
-        "title": "La escasez de trabajadores en la construcción se duplica desde 2020 y lastra la oferta de vivienda",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/14/1486541281-RGmBQFYCdie9gq4GaalfpVO-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/escasez-trabajadores-construccion-duplica-2020-lastra-oferta-20250714141435-nt.html",
-        "date": "2025-07-14 13:12:49",
-        "sentiment_score": -0.11177346110343933
-    },
-    {
-        "title": "Un débil plan industrial y tecnológico para la seguridad y la defensa",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/07/14/MUERTE-MUJER-ADRENALINA-HORMIGUERO-kWXD--170x119@Ideal.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/carlos-marti-sempere-debil-plan-industrial-tecnologico-seguridad-defensa-20250714142504-nt.html",
-        "date": "2025-07-14 12:25:04",
-        "sentiment_score": -0.0030320286750793457
-    },
-    {
-        "title": "El humanismo cristiano en el PP",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/07/14/cartas-director-1200x630-U65842234305bCv-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-humanismo-cristiano-pp-20250714132953-nt.html",
-        "date": "2025-07-14 11:30:58",
-        "sentiment_score": -0.0704062283039093
-    },
-    {
-        "title": "Los aeropuertos de Aena han acogido a más de 180 millones de pasajeros en lo que va de año",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/14/1498396712-RV10Z2sYuCaIdzCGeSLE2EJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/aeropuertos-aena-acogido-180-millones-pasajeros-ano-20250714125322-nt.html",
-        "date": "2025-07-14 10:53:22",
-        "sentiment_score": -0.08716969192028046
-    },
-    {
-        "title": "Fedea propone una jubilación más flexible: se puede trabajar al menos seis años más en condiciones dignas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/14/jubilados-cartas-RYAE2Xrx7TmYZuXZpuOEfIM-1200x840@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/fedea-propone-jubilacion-flexible-puede-trabajar-seis-20250714124230-nt.html",
-        "date": "2025-07-14 10:42:31",
-        "sentiment_score": -0.04993745684623718
-    },
-    {
         "title": "Detenido un menor por el triple apuñalamiento del viernes en Moncloa",
         "image_url": "https://imagenes.elpais.com/resizer/v2/VFLLPLJOFFFZVJUHMKE76F62ZU.png?auth=e843bcf1be952c3ea2485f28607c93ad6b215efd988fd9cb9067b84e63493f3b&width=1200",
         "tags": [
@@ -280,79 +230,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-14/no-estabas-en-tu-sitio-cono-el-reproche-de-un-ciudadano-a-mazon-por-su-gestion-de-la-dana-cuando-se-cumplen-dos-anos-de-mandato.html",
         "date": "2025-07-14 16:07:09",
         "sentiment_score": -0.6546408794820309
-    },
-    {
-        "title": "Una testigo del ‘caso Errejón’, en unos audios que mandó a Mouliaá: “No me contaste nada malo, simplemente que ese tío era un baboso”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PTBG433XKBHPZKU2NZQ4O42VBA.jpg?auth=9b69153a775a7fe350a4b45652dad2dcb698140d785aa229af617f3609bd193a&width=1200",
-        "tags": [
-            "denuncias",
-            "elisa mouliaá",
-            "proceso judicial",
-            "comunidad de madrid",
-            "madrid",
-            "íñigo errejón",
-            "agresiones sexuales",
-            "denuncias falsas"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-07-14/una-testigo-de-mouliaa-en-unos-audios-que-le-mando-por-el-caso-errejon-vas-a-poner-a-un-tipo-en-la-carcel-por-algo-que-no-ha-hecho.html",
-        "date": "2025-07-14 14:06:32",
-        "sentiment_score": -0.6025122925639153
-    },
-    {
-        "title": "La Guardia Civil realizará hasta el domingo 30.000 pruebas de alcohol y drogas al día",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SHTJBBJNABED5AECUROVFWAHPE.jpg?auth=2a006e11fb7ce4248e9fd1caf09972886bf381b12efead5fcf2467279d847090&width=1200",
-        "tags": [
-            "guardia civil",
-            "multas",
-            "denuncias",
-            "accidentes tráfico",
-            "alcoholismo",
-            "españa",
-            "dgt",
-            "accidentes",
-            "controles alcoholemia",
-            "heridos"
-        ],
-        "link": "https://elpais.com/espana/2025-07-14/la-guardia-civil-realizara-hasta-el-domingo-30000-pruebas-de-alcohol-y-drogas-al-dia.html",
-        "date": "2025-07-14 13:48:28",
-        "sentiment_score": -0.03912626951932907
-    },
-    {
-        "title": "ERC desbanca a Junts de la alcaldía de Puigcerdà con una moción de censura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5DPPT4M7ZNG3PBBFRXXBIOY7EM.jpg?auth=d0c0e8d7cf610e02acc4d716018cd924a1df11c96a21ab9cc16d6cd75636346c&width=1200",
-        "tags": [
-            "puigcerdà",
-            "barcelona",
-            "comunidades autónomas",
-            "girona",
-            "cataluña",
-            "erc",
-            "política",
-            "juntsxcat",
-            "política autonómica",
-            "alcaldía"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-14/erc-desbanca-a-junts-de-la-alcaldia-de-puigcerda-con-una-mocion-de-censura.html",
-        "date": "2025-07-14 13:45:05",
-        "sentiment_score": 0.05018264055252075
-    },
-    {
-        "title": "El PP condena los discursos de odio contra los migrantes pero evita vincularlos con Vox",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MWESRKGZ2JOODBOT7WTY2J746Y.jpg?auth=24aff62b8db999029aff80f86e3d522cf520683b19d52e4617b15625fcc4e444&width=1200",
-        "tags": [
-            "delitos odio",
-            "fernando grande-marlaska",
-            "racismo",
-            "vox",
-            "torre-pacheco",
-            "política",
-            "españa",
-            "pp",
-            "xenofobia"
-        ],
-        "link": "https://elpais.com/espana/2025-07-14/el-pp-condena-los-discursos-de-odio-contra-los-migrantes-pero-evita-vincularlos-con-vox.html",
-        "date": "2025-07-14 13:44:43",
-        "sentiment_score": -0.6243648640811443
     },
     {
         "title": "Hasta 25 réplicas suceden al terremoto que ha sacudido la Región este lunes",
@@ -7814,5 +7691,389 @@ export default [
         "link": "https://2001online.com/nacionales/otra-onda-tropical-transita-por-venezuela-sepa-donde-llovera-jueves-y-viernes-202571717210",
         "date": "2025-07-17 21:21:00",
         "sentiment_score": -0.056182861328125
+    },
+    {
+        "title": "Muere un niño de 10 años en Mallorca tras ser atropellado por un vehículo mientras cruzaba un paso de peatones junto a su madre y sus hermanos",
+        "image_url": "https://www.infobae.com/resizer/v2/5K37MVGEJJDDTCO4XHMJVJSQNA.jpg?auth=bf35c20f4eba759c4448fd21da3ddc5524a80239d454ba5a3cea24b127211cb8&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "atropellos",
+            "muerte",
+            "sucesos",
+            "mallorca",
+            "españa-sociedad",
+            "sucesos espana",
+            "españa-noticias",
+            "accidente mortal"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/17/muere-un-nino-de-10-anos-en-mallorca-tras-ser-atropellado-por-un-vehiculo-mientras-cruzaba-un-paso-de-peatones-junto-a-su-madre-y-sus-hermanos/",
+        "date": "2025-07-17 23:26:02",
+        "sentiment_score": -0.6940732151269913
+    },
+    {
+        "title": "¿350 millones por Vinicius? El negocio que Florentino no debería dejar pasar",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/22/2025042209244695675.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/350-millones-vinicius-negocio-que-florentino-deberia-dejar-pasar/20250718040103350738.html",
+        "date": "2025-07-18 02:01:03",
+        "sentiment_score": -0.05493524670600891
+    },
+    {
+        "title": "‘La Traviata’, de Madrid a Alaior",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3392651.jpg",
+        "tags": [
+            "la traviata",
+            "plaça nova",
+            "alaior",
+            "cultura",
+            "ópera"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2025/07/18/2432543/traviata-madrid-alaior.html",
+        "date": "2025-07-18 02:00:01",
+        "sentiment_score": 0.5845057033002377
+    },
+    {
+        "title": "EA Sports FC 26 ya tiene fecha, portadas y precios: entérate de todos los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752803120313.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "fifa",
+            "videojuegos",
+            "ea spots fc26",
+            "fútbol",
+            "deportes",
+            "ea sports",
+            "jude bellingham",
+            "electronic arts",
+            "zlatan ibrahimovic"
+        ],
+        "link": "https://2001online.com/deportes/ea-sports-fc-26-ya-tiene-fecha-portadas-y-precios-enterate-de-todos-los-detalles-202571722300",
+        "date": "2025-07-18 01:36:00",
+        "sentiment_score": 0.09849334880709648
+    },
+    {
+        "title": "Los técnicos de cinco empresas de gas le redactaron a Montoro las leyes que luego amañó el exministro",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/17/687942dde24b8.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/250718/2054475/tecnicos-cinco-empresas-gas-le-redactaron-montoro-leyes-amano-montoro-da-baja-pp-imputado-psoe-toma-revancha.html",
+        "date": "2025-07-18 01:30:00",
+        "sentiment_score": -0.17213987186551094
+    },
+    {
+        "title": "El polémico peaje cae en un enredo legal",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "editoriales"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/editoriales/250718/2054461/polemico-peaje-cae-enredo-legal.html",
+        "date": "2025-07-18 01:30:00",
+        "sentiment_score": -0.8574738409370184
+    },
+    {
+        "title": "María José González: “Los grandes diseñadores buscan modelos altas, con caderas estrechas y figuras muy estilizadas\"",
+        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2025/07/16/45486462-A7FE-4F7C-B285-D06C3F214F75/maria-jose-gonzalez-fundadora-nuevamoda-producciones-figuras-mas-conocidas-sector-malaga_69.jpg?crop=2048%2C1152%2Cx0%2Cy190&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "andalucía"
+        ],
+        "link": "https://www.larazon.es/andalucia/maria-jose-gonzalez-grandes-disenadores-buscan-modelos-altas-caderas-estrechas-figuras-muy-estilizadas_202507186877669c525aa26f9a4ed0e8.html",
+        "date": "2025-07-18 01:00:22",
+        "sentiment_score": 0.2670993283390999
+    },
+    {
+        "title": "La lucha de la barrendera Elvira Gómez contra trabajar con calor extremo: \"Tengo 60.000 firmas y Yolanda Díaz no me recibe\"",
+        "image_url": "https://s1.elespanol.com/2025/07/17/reportajes/1003743852877_257377875_1706x960.jpg?contentId=1003743852877",
+        "tags": [
+            "reportajes",
+            "terrassa (barcelona)",
+            "barcelona",
+            "yolanda díaz"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250718/lucha-barrendera-elvira-gomez-trabajar-calor-extremo-firmas-yolanda-diaz-no-recibe/1003743852748_0.html",
+        "date": "2025-07-18 00:57:42",
+        "sentiment_score": -0.3465200811624527
+    },
+    {
+        "title": "Canarias acusa al Gobierno de trampear los plazos y el número de menas: sólo se lleva a 3.355 y \"no lo hará antes de septiembre\"",
+        "image_url": "https://s1.elespanol.com/2025/07/17/espana/politica/1003743853089_257381821_1706x960.jpg?contentId=1003743853089",
+        "tags": [
+            "menores",
+            "inmigración ilegal",
+            "inmigración",
+            "gobierno de canarias",
+            "partido popular (pp)",
+            "inmigrantes",
+            "migración",
+            "islas canarias",
+            "fernando clavijo",
+            "emigración"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250718/canarias-acusa-gobierno-trampear-plazos-numero-menas-solo-lleva-no-hara-septiembre/1003743852550_0.html",
+        "date": "2025-07-18 00:57:17",
+        "sentiment_score": -0.9209476364776492
+    },
+    {
+        "title": "Pareja de Linda Caicedo envió un mensaje de apoyo a la crack colombiana: “A escribir un nuevo capítulo en nuestra historia”",
+        "image_url": "https://www.infobae.com/resizer/v2/NFJD622OWWOYPOCEYNGMLHUKXA.jpg?auth=313f45ecb826e94a13937667761bb26f5d852b2b7f87ed23f13a412feba5edb6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "novia",
+            "linda caicedo",
+            "colombia-noticias",
+            "pareja",
+            "copa américa femenina",
+            "valeria herrera",
+            "colombia-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/07/18/pareja-de-linda-caicedo-envio-un-mensaje-de-apoyo-a-la-crack-colombiana-a-escribir-un-nuevo-capitulo-en-nuestra-historia/",
+        "date": "2025-07-18 00:42:00",
+        "sentiment_score": 0.6208546757698059
+    },
+    {
+        "title": "Las entrañas 'tech' del Roig Arena: productos 'tropicalizados' y sensores de brillo en la tierra de la luz y del color",
+        "image_url": "https://s1.elespanol.com/2025/07/17/actualidad/1003743852334_257367237_1706x960.jpg?contentId=1003743852334",
+        "tags": [
+            "sector audiovisual",
+            "comunidad valenciana",
+            "gran empresa",
+            "valencia",
+            "lg",
+            "tecnología"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20250717/entranas-tech-roig-arena-productos-tropicalizados-sensores-brillo-tierra-luz-color/1003743851932_0.html",
+        "date": "2025-07-17 23:58:07",
+        "sentiment_score": 0.7702911458909512
+    },
+    {
+        "title": "Mujeres de Barcelona se movilizaron en apoyo a Sugey Herrera",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "política",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/mujeres-de-barcelona-se-movilizaron-en-apoyo-a-sugey-herrera/",
+        "date": "2025-07-18 02:00:37",
+        "sentiment_score": 0.04307100176811218
+    },
+    {
+        "title": "Turismo: Cuanto más, no es mejor",
+        "image_url": "https://uh.gsstatic.es/autor/rafa-duran/11877.png",
+        "tags": [
+            "prensa digital",
+            "grupo serra",
+            "medio de comunicación",
+            "tribuna",
+            "artículos de opinión"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/07/18/2432461/turismo-cuanto-mas-mejor.html",
+        "date": "2025-07-18 02:00:01",
+        "sentiment_score": -0.08242084085941315
+    },
+    {
+        "title": "Variado musical para un 'finde' con Ossifar, Jay Jay Johanson o Tomeu Penya",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3392549.jpg",
+        "tags": [
+            "ocio en mallorca",
+            "cultura",
+            "ocio",
+            "conciertos en mallorca",
+            "concierto",
+            "agenda de conciertos",
+            "eventos en mallorca",
+            "agenda musical",
+            "ossifar",
+            "música",
+            "música en directo",
+            "música en mallorca"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/07/18/2432441/variado-musical-para-finde-ossifar-jay-jay-johanson-tomeu-penya.html",
+        "date": "2025-07-18 02:00:01",
+        "sentiment_score": 0.009348377585411072
+    },
+    {
+        "title": "Ramón, estudiante de IA a los 91 años: «Aprender no depende de la edad, depende de la curiosidad»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3392443.jpg",
+        "tags": [
+            "palma de mallorca",
+            "ia",
+            "entrevista",
+            "ultimas noticias",
+            "local",
+            "última hora",
+            "palma",
+            "inteligencia artificial",
+            "personas mayores"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/07/18/2432371/aprender-depende-edad-depende-curiosidad-1.html",
+        "date": "2025-07-18 02:00:01",
+        "sentiment_score": 0.1698988527059555
+    },
+    {
+        "title": "«Me sentía como un rey sobre mi moto»: la aventura de un joven de Mallorca que recorrió 14 países de Europa en 70 días",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3392671.jpg",
+        "tags": [
+            "viajar",
+            "moto",
+            "escandinavia",
+            "sociedad",
+            "tendencias",
+            "última hora",
+            "aventura",
+            "la muerte de luis xiv",
+            "francia",
+            "rey",
+            "experiencia",
+            "europa"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/07/18/2432537/sentia-como-rey-sobre-moto-aventura-joven-mallorca-recorrio-paises-europa-dias.html",
+        "date": "2025-07-18 02:00:01",
+        "sentiment_score": 0.0704352855682373
+    },
+    {
+        "title": "El mecánico que sufrió quemaduras sigue en el Hospital Juaneda Ciutadella",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3392647.jpg",
+        "tags": [
+            "sucesos en ciutadella",
+            "sucesos",
+            "accidente laboral",
+            "puerto de ciutadella"
+        ],
+        "link": "https://www.menorca.info/menorca/sucesos/2025/07/18/2432539/mecanico-sufrio-quemaduras-sigue-hospital-juaneda-ciutadella.html",
+        "date": "2025-07-18 02:00:01",
+        "sentiment_score": -0.7567687891423702
+    },
+    {
+        "title": "Un incendio en un escenario pone en peligro Tomorrowland",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/17/6879418acbaa3.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250718/2054467/incendio-escenario-pone-peligro-tomorrowland.html",
+        "date": "2025-07-18 01:30:00",
+        "sentiment_score": -0.543448256328702
+    },
+    {
+        "title": "No habrá cupo catalán",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/250718/2054458/habra-cupo-catalan.html",
+        "date": "2025-07-18 01:30:00",
+        "sentiment_score": -0.6428224593400955
+    },
+    {
+        "title": "Trump pide divulgar los testimonios del gran jurado que acusó a Jeffrey Epstein: Una estafa perpetuada por los demócratas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752804175809.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "justicia",
+            "fiscalia",
+            "estados unidos",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/trump-pide-divulgar-los-testimonios-del-gran-jurado-que-acuso-a-jeffrey-epstein-una-estafa-perpetuada-por-los-democratas-20257172290",
+        "date": "2025-07-18 02:09:00",
+        "sentiment_score": -0.20536146685481071
+    },
+    {
+        "title": "Ozzie Guillén vuelve a encender la polémica: En Venezuela nadie sabe más de pelota que yo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752806155891.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "oswaldo guillén",
+            "deportes"
+        ],
+        "link": "https://2001online.com/deportes/ozzie-guillen-vuelve-a-encender-la-polemica-en-venezuela-nadie-sabe-mas-de-pelota-que-yo-20257172250",
+        "date": "2025-07-18 02:05:00",
+        "sentiment_score": 0.3149709850549698
+    },
+    {
+        "title": "Inauguran farmacia BADAN en San Antonio de los Altos: estará abierta las 24 horas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752801724818.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "banco de drogas antineoplásicas (badan)",
+            "servicios",
+            "medicamentos de alto costo"
+        ],
+        "link": "https://2001online.com/servicios/inauguran-farmacia-badan-en-san-antonio-de-los-altos-estara-abierta-las-24-horas-20257172230",
+        "date": "2025-07-18 02:03:00",
+        "sentiment_score": 0.028733663260936737
+    },
+    {
+        "title": "Anuncian paradas inteligentes con botones de emergencia para Caracas: se instalarán en las 22 parroquias",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752794801452.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "gestión de gobierno",
+            "comunidad",
+            "ciudad",
+            "venezuela",
+            "transporte"
+        ],
+        "link": "https://2001online.com/comunidad/anuncian-paradas-inteligentes-con-botones-de-emergencia-para-caracas-se-instalaran-en-las-22-parroquias-20257172200",
+        "date": "2025-07-18 02:00:00",
+        "sentiment_score": 0.2565930001437664
+    },
+    {
+        "title": "¡Bella a toda hora! Maquilladores profesionales revelan su secreto: así dura todo el día el efecto del corrector de ojeras",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752690776172.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/bella-a-toda-hora-maquilladores-profesionales-revelan-su-secreto-asi-dura-todo-el-dia-el-efecto-del-corrector-de-ojeras-20257172200",
+        "date": "2025-07-18 02:00:00",
+        "sentiment_score": 0.277731329202652
+    },
+    {
+        "title": "Redadas ICE del 17 de julio: arrestan a propietarios de cinco negocios por contratación ilegal de indocumentados",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752803916111.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ice",
+            "internacionales",
+            "restaurantes",
+            "detenidos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-17-de-julio-arrestan-a-propietarios-de-cinco-negocios-por-contratacion-ilegal-de-indocumentados-202571721580",
+        "date": "2025-07-18 01:58:00",
+        "sentiment_score": -0.5513882972300053
+    },
+    {
+        "title": "Crecida del río Orinoco deja dos comunidades afectadas en Ciudad Bolívar: autoridades evacuaron a las familias",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752802346878.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "comunidad",
+            "diario 2001",
+            "venezuela",
+            "organismos de seguridad",
+            "lluvias"
+        ],
+        "link": "https://2001online.com/comunidad/crecida-del-rio-orinoco-deja-dos-comunidades-afectadas-en-ciudad-bolivar-autoridades-evacuaron-a-las-familias-202571721370",
+        "date": "2025-07-18 01:37:00",
+        "sentiment_score": 0.042647674679756165
+    },
+    {
+        "title": "Selena Gomez y Benny Blanco planean una boda VIP: revelan los detalles de la ceremonia",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752802489877.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "farandula",
+            "matrimonio",
+            "benny blanco",
+            "selena gómez"
+        ],
+        "link": "https://2001online.com/farandula/selena-gomez-y-benny-blanco-planean-una-boda-vip-revelan-los-detalles-de-la-ceremonia--202571721330",
+        "date": "2025-07-18 01:33:00",
+        "sentiment_score": 0.14705916121602058
+    },
+    {
+        "title": "Bad Bunny sorprende en Puerto Rico: inaugura una exposición artística sobre la cultura boricua",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752801826672.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bad bunny",
+            "debi tirar más fotos tour",
+            "farandula"
+        ],
+        "link": "https://2001online.com/farandula/bad-bunny-sorprende-en-puerto-rico-inaugura-una-exposicion-artistica-sobre-la-cultura-boricua--202571721200",
+        "date": "2025-07-18 01:20:00",
+        "sentiment_score": 0.24981747567653656
     }
 ];
