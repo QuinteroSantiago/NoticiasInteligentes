@@ -342,40 +342,6 @@ export default [
         "sentiment_score": -0.19156259298324585
     },
     {
-        "title": "Detenido en Mataró el supuesto el líder del movimiento xenófobo que alienta la “cacería” de magrebíes en Torre Pacheco",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZLY35ZH3A5HRJJ3APZNJZRQ2JE.jpg?auth=be2424c9e93f46fe907979d306cd9e90499895e8a7e2d0c7818e130516dccb9c&width=1200",
-        "tags": [
-            "españa",
-            "vox",
-            "mataró",
-            "inmigración",
-            "torre-pacheco",
-            "migración",
-            "murcia",
-            "violencia",
-            "delitos odio"
-        ],
-        "link": "https://elpais.com/espana/2025-07-15/detenido-en-mataro-el-supuesto-el-lider-del-movimiento-xenofobo-que-alienta-la-caceria-de-magrebies-en-torre-pacheco.html",
-        "date": "2025-07-15 13:28:33",
-        "sentiment_score": -0.8201859220862389
-    },
-    {
-        "title": "El Supremo descarta la petición del juez Peinado para investigar a Bolaños por malversación y tráfico de influencias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2PNKWCY6TZMNLGBUVQQKFWIZFI.jpg?auth=82df2947cc7fccc953094d5a75cce49ab3258afdf20d0fb3e72f1ebb9f70d786&width=1200",
-        "tags": [
-            "pedro sánchez",
-            "félix bolaños garcía",
-            "begoña gómez fernández",
-            "justicia",
-            "tribunal supremo",
-            "gobierno",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-07-15/el-supremo-descarta-la-peticion-del-juez-peinado-para-investigar-a-bolanos-por-malversacion-y-trafico-de-influencias.html",
-        "date": "2025-07-15 13:18:26",
-        "sentiment_score": -0.7805219274014235
-    },
-    {
         "title": "De Eugenia Osborne a Nicolás Montenegro, las celebs se enamoran de estas gafas de sol inspiradas en Sevilla",
         "image_url": "https://static.grupojoly.com/clip/673b7310-4818-4a81-9854-9b31eb84bc4b_facebook-aspect-ratio_default_0.jpg",
         "tags": [
@@ -7928,5 +7894,447 @@ export default [
         "link": "https://2001online.com/comunidad/freddy-bernal-sostiene-conversaciones-para-la-activacion-de-casas-de-cambio-en-tachira-pronto-se-acabara-el-desorden-20257181700",
         "date": "2025-07-18 21:00:00",
         "sentiment_score": 0.23395927250385284
+    },
+    {
+        "title": "Las últimas previsiones para Málaga: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/3MU2HKNCBNFW5FQLAHAU25HETQ.jpg?auth=4de3ce9ef5c48955971146a6671f88332ed1e49013c5d4824a26309a4cc45985&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "noticias",
+            "tiempo en españa",
+            "españa noticias",
+            "málaga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/19/las-ultimas-previsiones-para-malaga-temperatura-lluvias-y-viento/",
+        "date": "2025-07-19 02:02:21",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Las últimas previsiones para Madrid: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/A4CTAZD3GFDMJNQ4NSZYVNJDMI.jpg?auth=14611cb258083455447aff3018211c7b74524d67abb1c532ffdc44e73902891c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/19/las-ultimas-previsiones-para-madrid-temperatura-lluvias-y-viento/",
+        "date": "2025-07-19 01:31:06",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en Barcelona: la predicción para este 19 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/MLF732S2QRFAZPVV3UYAGHVFX4.jpg?auth=e324eaf2380074aecb5a4fae8aad77a416949bed391eabc88700301daee388db&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "tiempo en españa",
+            "barcelona",
+            "españa sociedad",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/19/clima-en-barcelona-la-prediccion-para-este-19-de-julio/",
+        "date": "2025-07-19 01:19:30",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Antes de pelear en España, Westcol se sometió a prueba de polígrafo: infidelidad y dinero fueron los temas principales",
+        "image_url": "https://www.infobae.com/resizer/v2/W2AXXJF57RGQFAT7IZIPEJRBEA.png?auth=c9746b137f17e02be1dca7f507c492b6582ff836d3641e5654015622a6acf0e8&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "ibai llanos",
+            "boxeo",
+            "westcol",
+            "la velada del año",
+            "colombia-noticias",
+            "the grefg",
+            "pelea",
+            "colombia-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/07/19/antes-de-pelear-en-espana-westcol-se-sometio-a-prueba-de-poligrafo-infidelidad-y-dinero-fueron-los-temas-principales/",
+        "date": "2025-07-19 00:18:08",
+        "sentiment_score": 0.07363440096378326
+    },
+    {
+        "title": "La reacción de Gimena Accardi al encuentro de Erreway en España: “Qué emoción verlos volver”",
+        "image_url": "https://www.infobae.com/resizer/v2/LGIU57B3DRANHDJ6U4KAMFGEE4.png?auth=c1a5f222fde2029541e425128c132a118a04874b3a5edb9251da439c066e79b4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "erreway",
+            "benjamin rojas",
+            "gimena accardi",
+            "gime accardi"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/07/18/la-reaccion-de-gimena-accardi-al-encuentro-de-erreway-en-espana-que-emocion-verlos-volver/",
+        "date": "2025-07-18 23:57:44",
+        "sentiment_score": 0.6646187826991081
+    },
+    {
+        "title": "Las mejores películas en Netflix en España hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/OF5EMOTUMFDI3PH7EMHYN7H72E.jpg?auth=020a872697c6a572b54c51b637fb0725d510834f7efb3ca1d0b530a138a5004c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "españa-televisión",
+            "streaming",
+            "noticias",
+            "netflix"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/18/las-mejores-peliculas-en-netflix-en-espana-hoy/",
+        "date": "2025-07-18 23:30:58",
+        "sentiment_score": 0.8461119439452887
+    },
+    {
+        "title": "Películas para ver esta noche en Prime Video España",
+        "image_url": "https://www.infobae.com/resizer/v2/T5GRYRGLF5CTTODZNO37SASCCI.jpg?auth=05bbfa9c2f2eb1d2ab2642005b4137141bc74068ce3c8c285e27b747d1680e80&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "españa-televisión",
+            "streaming",
+            "noticias",
+            "prime video"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/07/18/peliculas-para-ver-esta-noche-en-prime-video-espana/",
+        "date": "2025-07-18 23:30:38",
+        "sentiment_score": 0.1980811133980751
+    },
+    {
+        "title": "Un incendio forestal originado en una comunidad religiosa de Ibi (Alicante) afecta ya a 250 hectáreas y obliga a evacuar a 25 personas",
+        "image_url": "https://www.infobae.com/resizer/v2/6NNOTDE6OBERLMZJEGLSBY2GXA.jpg?auth=d388839c6ba4377b9ee891063e669460a91e29e397565d8f0bad40545a4704c9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "extincion de incendios",
+            "alicante",
+            "españa-noticias",
+            "incendio",
+            "incendio forestal",
+            "unidad militar de emergencias",
+            "españa-nacional"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/18/un-incendio-forestal-originado-en-una-comunidad-religiosa-de-ibi-alicante-afecta-ya-a-250-hectareas-y-obliga-a-evacuar-a-25-personas/",
+        "date": "2025-07-18 22:25:10",
+        "sentiment_score": 0.2150414101779461
+    },
+    {
+        "title": "Los aplaudidores",
+        "image_url": "https://uh.gsstatic.es/autor/javier-mato/10621.png",
+        "tags": [
+            "medio de comunicación",
+            "prensa digital",
+            "artículos de opinión",
+            "grupo serra",
+            "tribuna"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/07/19/2433243/aplaudidores.html",
+        "date": "2025-07-19 02:00:01",
+        "sentiment_score": -0.27736732363700867
+    },
+    {
+        "title": "Araceli Cañadas, profesora: «El duende gitano es siglos de tradición, talento y trabajo\"",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/18/687aa4317bfda.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/250719/2054563/araceli-canadas-profesora-duende-gitano-siglos-tradicion-talento-trabajo.html",
+        "date": "2025-07-19 01:30:00",
+        "sentiment_score": 0.15074950829148293
+    },
+    {
+        "title": "Las series de Netflix Colombia que roban la atención HOY",
+        "image_url": "https://www.infobae.com/resizer/v2/DKDQQ3L2WNBGZLX4AGIYGIIEUU.jpg?auth=1ea2adb9377b41ea05390d2e8a3f5052db84897c8aad11c6331aaff453b234c7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "series",
+            "streaming",
+            "netflix",
+            "colombia-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/07/19/las-series-de-netflix-colombia-que-roban-la-atencion-hoy/",
+        "date": "2025-07-19 01:18:13",
+        "sentiment_score": -0.5246887803077698
+    },
+    {
+        "title": "Moncloa tendrá que entregar el expediente y los informes de seguridad de Huawei: el PP cita a Bolaños en el Congreso",
+        "image_url": "https://s1.elespanol.com/2025/06/24/espana/politica/1003743819585_257415603_1706x960.jpg?contentId=1003743819585",
+        "tags": [
+            "donald trump",
+            "comisión europea (ce)",
+            "cuca gamarra",
+            "félix bolaños garcía",
+            "xi jinping",
+            "estados unidos",
+            "huawei",
+            "otan",
+            "china",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250719/moncloa-entregar-expediente-informes-seguridad-huawei-pp-cita-bolanos-congreso/1003743854839_0.html",
+        "date": "2025-07-19 01:01:11",
+        "sentiment_score": -0.8810937562957406
+    },
+    {
+        "title": "Gómez de Salinas, el noble que perdió Gibraltar porque el rey Felipe V no le envió refuerzos y terminó condenado por traidor",
+        "image_url": "https://s1.elespanol.com/2025/07/18/actualidad/1003743853739_257393937_1706x960.jpg?contentId=1003743853739",
+        "tags": [
+            "reportajes",
+            "gibraltar",
+            "historia",
+            "españa",
+            "inglaterra",
+            "reino unido"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250719/gomez-salinas-noble-perdio-gibraltar-rey-felipe-no-envio-refuerzos-termino-condenado-traidor/1003743853589_0.html",
+        "date": "2025-07-19 01:00:24",
+        "sentiment_score": -0.7853432968258858
+    },
+    {
+        "title": "De 'Stumble Guys' a 'Monopoly GO!', así se desarrollan juegos de éxito mundial desde España: \"Hace 10 años era inimaginable\"",
+        "image_url": "https://s1.elespanol.com/2025/07/16/omicrono/software/1003743851060_257343427_1706x960.jpg?contentId=1003743851060",
+        "tags": [
+            "dispositivos móviles",
+            "aplicaciones móviles",
+            "españa",
+            "videojuegos",
+            "software",
+            "tecnología",
+            "barcelona"
+        ],
+        "link": "https://www.elespanol.com/omicrono/software/20250719/stumble-guys-monopoly-go-desarrollan-juegos-exito-mundial-espana-hace-anos-inimaginable/1003743850065_0.html",
+        "date": "2025-07-19 01:00:21",
+        "sentiment_score": 0.61214604601264
+    },
+    {
+        "title": "¿Qué ha pasado en Cruz Azul con el fichaje de Luka Jovic?",
+        "image_url": "https://www.infobae.com/resizer/v2/KDNSGBCZQYOSK3OQYEPXYB5WYI.jpg?auth=5fadc1e1cbdbba22806a12576da4d01a3cb4861636532342d1c29dfadbf57985&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "club cruz azul",
+            "mexico-deportes",
+            "luka jovic",
+            "futbol",
+            "liga mx"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/07/19/que-ha-pasado-en-cruz-azul-con-el-fichaje-de-luka-jovic/",
+        "date": "2025-07-19 00:45:00",
+        "sentiment_score": 0.11533812060952187
+    },
+    {
+        "title": "Novia de Linda Caicedo ‘botó la casa por la ventana’: esta fue la millonada que gastó en lujoso accesorio",
+        "image_url": "https://www.infobae.com/resizer/v2/ZLQZFFEFCVDTVG5ZGQSJ7AQ57M.png?auth=e4eeb4a668a335b0a21dc70e3e485dd905956a740531d5038eecc9985908983c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "valeria herrera",
+            "novia de linda caicedo",
+            "lujos",
+            "selección colombia femenina",
+            "bolso miu miu",
+            "colombia-noticias",
+            "linda caicedo",
+            "colombia-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/07/19/novia-de-linda-caicedo-boto-la-casa-por-la-ventana-esta-fue-la-millonada-que-gasto-en-lujoso-accesorio/",
+        "date": "2025-07-19 00:10:54",
+        "sentiment_score": 0.5356520377099514
+    },
+    {
+        "title": "El Oviedo, que descarta a Luka Jovic, a punto de cerrar el fichaje de Álex Forés",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b0636880-02dc-4289-a48b-d0627eab6f45_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "goles",
+            "la nueva españa",
+            "villarreal"
+        ],
+        "link": "https://www.lne.es/real-oviedo/2025/07/19/oviedo-descarta-luka-jovic-punto-119853207.html",
+        "date": "2025-07-19 00:04:03",
+        "sentiment_score": -0.16617482900619507
+    },
+    {
+        "title": "Los gobiernos de Sánchez, Ayuso y Moreno Bonilla han destinado desde 2021 más de cinco millones a una ONG marroquí que culpa a VOX de la crisis en Torre Pacheco",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/07/Captura-de-pantalla-2025-07-18-143751.jpg",
+        "tags": [
+            "inmigración",
+            "ong",
+            "torre pacheco",
+            "españa",
+            "inmigración magrebí"
+        ],
+        "link": "https://gaceta.es/espana/los-gobiernos-de-sanchez-ayuso-y-moreno-bonilla-han-destinado-desde-2021-mas-de-cinco-millones-a-una-ong-marroqui-que-culpa-a-vox-de-la-crisis-en-torre-pacheco-20250719-0200/",
+        "date": "2025-07-19 00:00:00",
+        "sentiment_score": -0.540939575061202
+    },
+    {
+        "title": "Oviedo sale a la conquista de Europa con la música clásica: las novedades de los Conciertos del Auditorio y las Jornadas de Piano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3eadab01-d7bc-41f8-a631-93d652182a18_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "música clásica",
+            "conciertos",
+            "cultura",
+            "música"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/07/19/oviedo-sale-conquista-europa-musica-119851440.html",
+        "date": "2025-07-19 02:04:42",
+        "sentiment_score": 0.10760004818439484
+    },
+    {
+        "title": "El verano de su vida: cinco niños saharauis llegan a Menorca",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3394161.jpg",
+        "tags": [
+            "local",
+            "saharauis"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/07/19/2433405/verano-vida-cinco-ninos-saharauis-llegan-menorca.html",
+        "date": "2025-07-19 02:00:01",
+        "sentiment_score": 0.11512184143066406
+    },
+    {
+        "title": "40 clubes participarán en la Liga Metropolitana de Voleibol del estado Anzoátegui",
+        "image_url": "https://turimiquire.net/wp-content/uploads/2025/07/40-clubes-participaran-en-la-liga-metropolitana-de-voleibol-del-estado-anzoategui.jpg",
+        "tags": [
+            "regional"
+        ],
+        "link": "https://turimiquire.net/2025/07/18/40-clubes-participaran-en-la-liga-metropolitana-de-voleibol-del-estado-anzoategui/",
+        "date": "2025-07-19 01:20:30",
+        "sentiment_score": 0.16030400432646275
+    },
+    {
+        "title": "Huir de la foto fea",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fea",
+            "foto",
+            "huir"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/huir-foto-fea_0_2004406289.html",
+        "date": "2025-07-19 01:07:32",
+        "sentiment_score": -0.28300991654396057
+    },
+    {
+        "title": "Los beneficios de Cristiano Ronaldo en Arabia Saudita: lujos extremos y cifras récord",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752889211090.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "contrato de cristiano ronaldo",
+            "fútbol árabe",
+            "georgina rodríguez",
+            "cristiano ronaldo",
+            "arabia saudita",
+            "liga árabe",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://2001online.com/deportes/los-beneficios-de-cristiano-ronaldo-en-arabia-saudita-lujos-extremos-y-cifras-record-202571822450",
+        "date": "2025-07-19 02:06:32",
+        "sentiment_score": 0.5938715115189552
+    },
+    {
+        "title": "Detienen a dos mujeres por extorsionar a comerciantes del Zulia: los amenazaban a cambio de dinero",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752884320896.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "maracaibo",
+            "locales",
+            "sucesos",
+            "amenazas",
+            "diario 2001",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-dos-mujeres-por-extorsionar-a-comerciantes-del-zulia-los-amenazaban-a-cambio-de-dinero--20257182210",
+        "date": "2025-07-19 02:01:00",
+        "sentiment_score": -0.1234639398753643
+    },
+    {
+        "title": "Piel y cabello de supermodelo: tres maneras de comer huevo para realzar tu belleza y dejar sin aliento a todos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752761299971.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/piel-y-cabello-de-supermodelo-tres-maneras-de-comer-huevo-para-realzar-tu-belleza-y-dejar-sin-aliento-a-todos-20257182200",
+        "date": "2025-07-19 02:00:00",
+        "sentiment_score": 0.4920244738459587
+    },
+    {
+        "title": "\"Thalía La Más Viral\": internautas arremeten contra la mexicana y la comparan con Yailin por esta razón",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752868630770.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "thalia",
+            "farandula",
+            "música",
+            "yailin la màs viral",
+            "farándula",
+            "chisme"
+        ],
+        "link": "https://2001online.com/farandula/thalia-la-mas-viral-internautas-arremeten-contra-la-mexicana-y-la-comparan-con-yailin-por-esta-razon-20257182200",
+        "date": "2025-07-19 02:00:00",
+        "sentiment_score": -0.12839443981647491
+    },
+    {
+        "title": "¿No sabes inglés? Así puedes optar a la ciudadanía estadounidense sin saber el idioma",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752890234008.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "inglés",
+            "servicios",
+            "eeuu",
+            "ciudadanía"
+        ],
+        "link": "https://2001online.com/usa/servicios/no-sabes-ingles-asi-puedes-optar-a-la-ciudadania-estadounidense-sin-saber-el-idioma--20257182200",
+        "date": "2025-07-19 02:00:00",
+        "sentiment_score": -0.18828439712524414
+    },
+    {
+        "title": "¿Sabes cómo votar en las elecciones municipales del 27 de julio?: sigue este paso a paso",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752889782117.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "nacionales",
+            "elecciones 27 de julio",
+            "elcciones",
+            "consulta nacional",
+            "consulta de la juventud"
+        ],
+        "link": "https://2001online.com/nacionales/sabes-como-votar-en-las-elecciones-municipales-del-27-de-julio-sigue-este-paso-a-paso-20257182200",
+        "date": "2025-07-19 02:00:00",
+        "sentiment_score": 0.10089071467518806
+    },
+    {
+        "title": "Redadas ICE del 18 de julio: arrestan a dos miembros del MS-13 en Nueva Inglaterra: tienen cargos por extorsión",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752892514945.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "internacionales",
+            "redadas ice texas",
+            "redadas del ice"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-18-de-julio-arrestan-a-dos-miembros-del-ms-13-en-nueva-inglaterra-tienen-cargos-por-extorsion-202571821580",
+        "date": "2025-07-19 01:58:00",
+        "sentiment_score": -0.24354446679353714
+    },
+    {
+        "title": "Escándalo de KissCam en concierto de Coldplay: esposa del CEO Andy Byron toma esta decisión inesperada",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752880231248.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "farandula",
+            "astronomer",
+            "kiss cam",
+            "coldplay"
+        ],
+        "link": "https://2001online.com/usa/farandula/escandalo-de-kisscam-en-concierto-de-coldplay-esposa-del-ceo-andy-byron-toma-esta-decision-inesperada-202571821500",
+        "date": "2025-07-19 01:50:00",
+        "sentiment_score": -0.09421995282173157
+    },
+    {
+        "title": "MLB: Ronald Acuña Jr. protagoniza el out de la temporada ante los Yankees",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752891152782.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "deportes",
+            "ronald acuña jr.",
+            "bravos de atlanta"
+        ],
+        "link": "https://2001online.com/deportes/mlb-ronald-acuna-jr-protagoniza-el-out-de-la-temporada-ante-los-yankees-202571821420",
+        "date": "2025-07-19 01:42:00",
+        "sentiment_score": -0.22680501639842987
+    },
+    {
+        "title": "Drama, misterio y comedia: conoce los tres estrenos de Netflix más esperados para este fin de semana",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752888084640.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "farandula",
+            "netflix series",
+            "netflix peliculas",
+            "netflix",
+            "estaremos de netflix"
+        ],
+        "link": "https://2001online.com/farandula/drama-misterio-y-comedia-conoce-los-tres-estrenos-de-netflix-mas-esperados-para-este-fin-de-semana-202571821370",
+        "date": "2025-07-19 01:37:00",
+        "sentiment_score": 0.7631204668432474
     }
 ];
