@@ -1,267 +1,5 @@
 export default [
     {
-        "title": "Ni café ni cerveza, esto es lo que más dinero da a un bar: “Multiplicas por mucho, algo rápido”",
-        "image_url": "https://www.infobae.com/resizer/v2/35T3RWKHWRCQ3IYILBGTBQBUHI.png?auth=5ad5284388c1a97127c71ced81da0e5198e3e9b1ab7b18c089da37345f3df10c&height=585&smart=true&width=1169",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/15/ni-cafe-ni-cerveza-esto-es-lo-que-mas-dinero-da-a-un-bar-multiplicas-por-mucho-algo-rapido/",
-        "date": "2025-07-15 06:30:36",
-        "sentiment_score": 0.16972000151872635
-    },
-    {
-        "title": "Esto es lo que tienes que saber si tienes un accidente laboral, según un abogado: “Las esperas nunca son buenas”",
-        "image_url": "https://www.infobae.com/resizer/v2/I2QKB47TRRHW3BSFA2FJNVDX4Y.jpg?auth=726cacb9e3920028b6123be353b21bcb8ebfc4642976ec7f86c3f6ed0ec4d704&height=2800&smart=true&width=4200",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/15/esto-es-lo-que-tienes-que-saber-si-tienes-un-accidente-laboral-segun-un-abogado-las-esperas-nunca-son-buenas/",
-        "date": "2025-07-15 06:26:51",
-        "sentiment_score": -0.46640559658408165
-    },
-    {
-        "title": "27 operaciones y 34.000 euros menos: una paciente denuncia a un dentista tras quedarse sin dientes y con implantes defectuosos",
-        "image_url": "https://www.infobae.com/resizer/v2/6O5EWQH7KJH6VCXFRT5IXFYGZM.jpg?auth=986be3068f8d907248fe8187647548059906c532d94eafe53e7c828a74f22b6d&height=1186&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/15/27-operaciones-y-34000-euros-menos-una-paciente-denuncia-a-un-dentista-tras-quedarse-sin-dientes-y-con-implantes-defectuosos/",
-        "date": "2025-07-15 06:22:58",
-        "sentiment_score": -0.511492233723402
-    },
-    {
-        "title": "Las duras circunstancias en las que Michu criaba a su hija Rocío: “Eran condiciones bastante complicadas para vivir”",
-        "image_url": "https://www.infobae.com/resizer/v2/TESRPPYXWVEE7BFFPOO4XPLN7M.jpg?auth=f07c8cc67b011f86f2e80b6017a40d13b88330c6834f1a15b8b6bdbddf320509&height=1213&smart=true&width=1618",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/15/las-duras-circunstancias-en-las-que-michu-vivia-con-su-hija-rocio-eran-condiciones-bastante-complicadas-para-vivir/",
-        "date": "2025-07-15 06:12:04",
-        "sentiment_score": -0.6482171695679426
-    },
-    {
-        "title": "Los herederos de una vivienda logran el desahucio de la pareja de hecho del fallecido, que había vivido allí durante años",
-        "image_url": "https://www.infobae.com/resizer/v2/DCSPS6RIRRDZJD3J33OTNX4N2I.jpeg?auth=0d94de2099cc2bffafc8c178a6830992419f1add5add65669dc64d9920e3668b&height=3453&smart=true&width=6240",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/15/los-herederos-de-una-vivienda-logran-el-desahucio-de-la-pareja-de-hecho-del-fallecido-que-habia-vivido-alli-durante-anos/",
-        "date": "2025-07-15 05:46:28",
-        "sentiment_score": -0.5615911968052387
-    },
-    {
-        "title": "El CGPJ ratificará hoy las ternas con miras a un último intento para desbloquear nombramientos clave en el Supremo",
-        "image_url": "https://www.infobae.com/resizer/v2/5L7WLUYQYJHZNHACJRLZFM6PGE.jpg?auth=2c4dbe16f05f0ed4f6f5010f628cc4b1b94f199b8da10c0331faf178381b7f63&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/15/el-cgpj-ratificara-hoy-las-ternas-con-miras-a-un-ultimo-intento-para-desbloquear-nombramientos-clave-en-el-supremo/",
-        "date": "2025-07-15 05:37:25",
-        "sentiment_score": 0.2088138833642006
-    },
-    {
-        "title": "Los 5 mejores remedios caseros para aliviar las hemorroides: de comer alimentos ricos en fibra a baños calientes",
-        "image_url": "https://www.infobae.com/resizer/v2/SJNEFMOMBVBDDDVOQTULAESDPI.jpg?auth=b24e29dab42bed57547df8b2eac3dab45f621460daede7eff2c304595ef5a42f&height=2945&smart=true&width=5236",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/15/los-5-mejores-remedios-caseros-para-aliviar-las-hemorroides-de-comer-alimentos-ricos-en-fibra-a-banos-calientes/",
-        "date": "2025-07-15 05:36:26",
-        "sentiment_score": 0.7023221831768751
-    },
-    {
-        "title": "Una venezolana que vive en España destaca los rasgos de la personalidad de los españoles: “Tienen el arte de quejarse con estilo”",
-        "image_url": "https://www.infobae.com/resizer/v2/SPT5HYVUTBHU3M7B7W7X72CTHY.png?auth=a157888e194111c8c1d421bc85357c35f771dea1b1b4fa6ffc1af7abba78b808&height=720&smart=true&width=1280",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/15/una-venezolana-que-vive-en-espana-destaca-los-rasgos-de-la-personalidad-de-los-espanoles-tienen-el-arte-de-quejarse-con-estilo/",
-        "date": "2025-07-15 05:34:30",
-        "sentiment_score": -0.017178624868392944
-    },
-    {
-        "title": "Sánchez y Pradales se reúnen hoy en Moncloa para abordar el traspaso del primer bloque de la Seguridad Social",
-        "image_url": "https://www.infobae.com/resizer/v2/JKRF57QZ75HQNHWJCUKMB55ZSQ.jpg?auth=b8c6752c3faa4110176ec847f315e79467502a848844c859148bae64fce72d5f&height=1280&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/15/sanchez-y-pradales-se-reunen-hoy-en-moncloa-para-abordar-el-traspaso-del-primer-bloque-de-la-seguridad-social/",
-        "date": "2025-07-15 05:22:20",
-        "sentiment_score": 0.13277658820152283
-    },
-    {
-        "title": "Cuánto dinero gana un auxiliar de farmacia en España en 2025: sueldo base y complementos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/02/26/farmacia-kPkB-U701288971841KeH-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/dinero-cobra-auxiliar-farmacia-espana-2025-sueldo-20250715092321-nt.html",
-        "date": "2025-07-15 06:00:03",
-        "sentiment_score": -0.07871076464653015
-    },
-    {
-        "title": "El calor sofocante vuelve a poner a Andalucía en aviso naranja",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f804a9e-170d-4a23-9615-932b435372f8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "el tiempo,el tiempo en andalucia,calor,alerta naranja"
-        ],
-        "link": "https://www.elcorreoweb.es/andalucia/2025/07/15/calor-sofocante-vuelve-poner-andalucia-119704630.html",
-        "date": "2025-07-15 06:37:48",
-        "sentiment_score": 0.16706237196922302
-    },
-    {
-        "title": "Así afecta la última decisión tomada por una empresa que iba a construir una planta de microchips en España: lo revela Marc Vidal",
-        "image_url": "https://imagenes.cope.es/files/webp_328_184/files/fp/uploads/2025/04/07/67f3d6b341421.r_d.341-148-4100.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.cope.es/actualidad/economia/audios/asi-afecta-ultima-decision-tomada-empresa-iba-construir-planta-microchips-espana-revela-marc-vidal-20250715_3185458.html",
-        "date": "2025-07-15 06:33:21",
-        "sentiment_score": -0.20615938305854797
-    },
-    {
-        "title": "El pueblo de Euskadi que participa en el 'Grand Prix': a 20 km de Bilbao y muy cerca de la playa",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/07/14/urduliz-municipio-de-euskadi.png",
-        "tags": [
-            "vizcaya"
-        ],
-        "link": "https://www.20minutos.es/noticia/5731033/0/pueblo-vasco-gana-grand-prix/",
-        "date": "2025-07-15 06:24:34",
-        "sentiment_score": 0.4749436564743519
-    },
-    {
-        "title": "Un total de 19 provincias tienen activos avisos por altas temperaturas, de hasta 41oC",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250715082255_120.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-tiempo-hoy-espana-15-julio-2025-20250715082255.html",
-        "date": "2025-07-15 06:22:55",
-        "sentiment_score": 0.09964864701032639
-    },
-    {
-        "title": "El mercado de pases de la Scaloneta a un año del Mundial: los cinco que cambiaron de club y el batallón con su futuro en duda",
-        "image_url": "https://www.infobae.com/resizer/v2/LUTZAREPI5HWRFRCQHBZKR7STQ.jpg?auth=80a0afd525ab13f50bf0f292090cca3fb75c381cf3221ff87ca1d2aae41e7481&height=1080&smart=true&width=1920",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/07/15/el-mercado-de-pases-de-la-scaloneta-a-un-ano-del-mundial-los-cinco-que-cambiaron-de-club-y-el-batallon-con-su-futuro-en-duda/",
-        "date": "2025-07-15 06:15:27",
-        "sentiment_score": -0.0961339920759201
-    },
-    {
-        "title": "Miles de empresas siguen sin adaptarse al fichaje digital obligatorio y se exponen a multas de hasta 10.000 € por trabajador",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5365822/miles-empresas-siguen-adaptarse-fichaje-digital-obligatorio-exponen-multas-hasta-10000-trabajador",
-        "date": "2025-07-15 06:03:56",
-        "sentiment_score": -0.845690231770277
-    },
-    {
-        "title": "¿Seguirán subiendo los precios de la vivienda en La Rioja?: La previsión de la IA",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/07/15/6875eadf0a1a6.png",
-        "tags": [
-            "logroño"
-        ],
-        "link": "https://www.cope.es/emisoras/la-rioja/la-rioja-provincia/logrono/noticias/seguiran-subiendo-precios-vivienda-rioja-prevision-ia-20250715_3185444.html",
-        "date": "2025-07-15 06:02:08",
-        "sentiment_score": -0.052374035120010376
-    },
-    {
-        "title": "Les va a sobrar el ’procés’",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/de0cfd39-9338-4736-98a4-8d4c2d7cc805_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldia.es/opinion/2025/07/15/les-sobrar-proces-119699617.html",
-        "date": "2025-07-15 06:00:52",
-        "sentiment_score": -0.9425165168941021
-    },
-    {
-        "title": "Comprar casa con IA: así está cambiando el mercado inmobiliario con ChatGPT en 2025",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d77eef2-55d5-4f23-bfb9-6f180c1ca0f5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.laprovincia.es/economia/2025/07/15/comprar-casa-ia-cambiando-mercado-dv-119697860.html",
-        "date": "2025-07-15 06:00:51",
-        "sentiment_score": 0.1833706647157669
-    },
-    {
-        "title": "\"Dejemos de hablar del tiempo. Hablemos del clima\", el llamamiento para tratar al cambio climático con la importancia que merece",
-        "image_url": "https://www.antena3.com/public/img/antena3noticias/favicon/apple-touch-icon-180x180.png",
-        "tags": [
-            "antena 3 noticias",
-            "actualidad",
-            "el tiempo"
-        ],
-        "link": "https://www.antena3.com/noticias/el-tiempo/actualidad/dejemos-hablar-tiempo-hablemos-clima-llamamiento-tratar-cambio-climatico-importancia-que-merece_202507156875ee74525aa26f9a4cfea4.html",
-        "date": "2025-07-15 06:00:20",
-        "sentiment_score": -0.8747647311538458
-    },
-    {
-        "title": "9 buenos restaurantes que debes visitar antes de que acabe julio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4e5911f9-852b-4fa6-9632-baebb0b90298_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20250715/buenos-restaurantes-barcelona-last-monkey-fukamura-casa-fiero-can-pringa-maldita-barra-bodega-manolo-gelida-119607825",
-        "date": "2025-07-15 06:40:06",
-        "sentiment_score": 0.4905050992965698
-    },
-    {
-        "title": "Restaurantes 'para guiris' que merecen una (re)visita de los barceloneses",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/26cd7229-6659-48cf-b9fd-76c2e105d3a2_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/20250715/mejores-restaurantes-barcelona-turistas-119483067",
-        "date": "2025-07-15 06:39:18",
-        "sentiment_score": -0.07452753186225891
-    },
-    {
-        "title": "Las 'Malas Lenguas' de Cintora explican la \"profecía autocumplida\" de Torre Pacheco que tiene \"en su salsa\" a Feijoo y Abascal",
-        "image_url": "https://www.elplural.com/uploads/s1/20/04/43/6/jesus-cintora-presentador-malas-lenguas-la-1_7_480x270.jpeg",
-        "tags": [
-            "todo tv"
-        ],
-        "link": "https://www.elplural.com/todo-tv/malas-lenguas-cintora-explican-profecia-autocumplida-torre-pacheco-tiene-en-salsa-feijoo-abascal_356504102",
-        "date": "2025-07-15 06:38:32",
-        "sentiment_score": -0.27594123780727386
-    },
-    {
-        "title": "La niña que quería ser piloto de helicóptero y puede poner a León en órbita",
-        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2025/07/11/3a66e15f-4e79-4de4-be63-e7b70c6c6665-kA2D-U2302338115895ULD-1200x840@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/leon/nina-queria-piloto-helicoptero-puede-poner-leon-20250715082052-nt.html",
-        "date": "2025-07-15 06:20:53",
-        "sentiment_score": 0.32394399121403694
-    },
-    {
-        "title": "La industria local abandera la inversión en instalaciones",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/1e9396d7-b344-4fb1-9bd1b87136600bdb.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/zb57f19ea-9e80-4838-a40e6c31d451ab55/202507/la-industria-local-abandera-la-inversion-en-instalaciones",
-        "date": "2025-07-15 06:20:30",
-        "sentiment_score": 0.6132381334900856
-    },
-    {
-        "title": "Los insectos regresan al Tour",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5e91345b-d587-45aa-acc5-3f20d486bf9b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/tour-francia/2025/07/15/insectos-regresan-tour-tourmalet-sergi-lopez-egea-119704657.html",
-        "date": "2025-07-15 06:20:02",
-        "sentiment_score": 0.3543417304754257
-    },
-    {
         "title": "Un español viaja al edificio más peligroso del mundo y cuenta su experiencia: “Solo pensaba en salir de allí con vida”",
         "image_url": "https://www.infobae.com/resizer/v2/PNHSRZ56TFAIXI7OXF5CLE6QIE.png?auth=41a5b5f1565a0c7c56f5ac08fb56b024c3f23e8330b5090c0c93d86bc99a3ebc&height=519&smart=true&width=804",
         "tags": [
@@ -7622,5 +7360,573 @@ export default [
         "link": "https://2001online.com/servicios/sistema-patria-monto-en-bolivares-del-ingreso-por-guerra-economica-para-pensionados-20257181200",
         "date": "2025-07-18 16:00:00",
         "sentiment_score": -0.12941262125968933
+    },
+    {
+        "title": "Montoro obtuvo datos reservados de la Agencia Tributaria sobre Rato, Pujol, Rafa Nadal y Aguirre, según el sumario",
+        "image_url": "https://www.infobae.com/resizer/v2/B2L35VBK5JHJPKAZLTPLLEQB2U.jpg?auth=4eb3bdcbac7e0a118f9f186e41f4024f44071ce16eb9bebe69c81e4d312f36af&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/18/montoro-obtuvo-datos-reservados-de-la-agencia-tributaria-sobre-rato-pujol-rafa-nadal-y-aguirre-segun-el-sumario/",
+        "date": "2025-07-18 21:52:52",
+        "sentiment_score": 0.009058378636837006
+    },
+    {
+        "title": "Crónica del España - Suiza: 2-0",
+        "image_url": "https://www.infobae.com/resizer/v2/OCKTWG2IH5GVRF6WGG72Y4PLYQ.jpg?auth=e6225f0803bd5715953139d7ff1e7e1e12c7f817ea7d3358eebbd2a21bf8c310&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/18/cronica-del-espana-suiza-2-0/",
+        "date": "2025-07-18 21:50:14",
+        "sentiment_score": -0.0683395192027092
+    },
+    {
+        "title": "Laia Aleixandri se perderá la semifinal de España en la EURO por sanción",
+        "image_url": "https://www.infobae.com/resizer/v2/QFWJWFEVXFA5TISXDNSX6D5SHY.jpg?auth=38cea361d540b847ed169e3e847ea5bff0c0121546d5969f066393004d1bdb83&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/18/laia-aleixandri-se-perdera-la-semifinal-de-espana-en-la-euro-por-sancion/",
+        "date": "2025-07-18 21:49:06",
+        "sentiment_score": -0.8733027400448918
+    },
+    {
+        "title": "Un incendio forestal en Ávila avanza por el viento mientras los dispositivos desplegados tratan de proteger varios núcleos urbanos del alcance de las llamas",
+        "image_url": "https://www.infobae.com/resizer/v2/I7FFDNT4DFC4NMOEAGB2TGC45E.jpg?auth=fd9d4912287e5beb433b211fcbc4fc1fd646d0f6e320fa286e0df97907721ae9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "ume",
+            "españa-noticias",
+            "incendio forestal",
+            "incendios",
+            "avila",
+            "españa-nacional"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/18/un-incendio-forestal-en-avila-avanza-por-el-viento-mientras-los-dispositivos-desplegados-tratan-de-proteger-varios-nucleos-urbanos-del-alcance-de-las-llamas/",
+        "date": "2025-07-18 21:24:18",
+        "sentiment_score": -0.3791547380387783
+    },
+    {
+        "title": "Montoro recibía \"información relevante y protegida\" en un correo que utilizaban imputados en la causa",
+        "image_url": "https://www.infobae.com/resizer/v2/FFNANQ5MBJBJBB6PCUXO6JTC7Y.jpg?auth=95e94d5f2a4abd2bff83296a8e982d6e9d5aec92cb7011ebe4ffe18d8606b947&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/18/montoro-recibia-informacion-relevante-y-protegida-en-un-correo-que-utilizaban-imputados-en-la-causa/",
+        "date": "2025-07-18 21:22:30",
+        "sentiment_score": -0.008048079907894135
+    },
+    {
+        "title": "El despacho de Montoro cobró 679.000 euros de Codere, la multinacional del juego vinculada al exministro Rafael Catalá",
+        "image_url": "https://www.infobae.com/resizer/v2/FMVQLWMT7ZC5TDZKQGD7KS4ZRM.jpg?auth=e70218742f00f4f667856579027efdc7ea9b156e82b04277c00e48ca313594cc&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "partido popular",
+            "equipo economico",
+            "trafico de influencias",
+            "corrupcion",
+            "españa-noticias",
+            "codere",
+            "españa-nacional",
+            "caso montoro"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/18/el-despacho-de-montoro-cobro-hasta-679000-euros-de-codere-la-multinacional-del-juego-vinculada-al-exministro-rafael-catala/",
+        "date": "2025-07-18 20:56:57",
+        "sentiment_score": 0.04305669665336609
+    },
+    {
+        "title": "Taína, la hija de Valeria Mazza, cantó con Erreway en España",
+        "image_url": "https://www.infobae.com/resizer/v2/RCE3CMGKKRCCXFKLKNJ2HGDJVA.png?auth=8730269671bf11b7cb3eb30a02d98ebedeeb5f325bed1d150a7d7f357ca0000d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "erreway",
+            "benjamín rojas",
+            "valeria mazza",
+            "taina gravier",
+            "felipe colombo",
+            "camila bordonaba"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/07/18/taina-la-hija-de-valeria-mazza-canto-con-erreway-en-espana/",
+        "date": "2025-07-18 20:45:40",
+        "sentiment_score": 0.36764703691005707
+    },
+    {
+        "title": "Ocho medios aéreos y diez unidades terrestres trabajan para sofocar un incendio declarado en Morón (Sevilla)",
+        "image_url": "https://www.infobae.com/resizer/v2/WB7EKPWOARBONG4DVDCQD6ID6Q.jpg?auth=c21c6b0d0aa9e3d0906f5faa10427ffbccbd0135ebde2f58a6fd04c8eda0cc43&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "moron de la frontera",
+            "españa-noticias",
+            "incendio forestal",
+            "sevilla",
+            "incendios",
+            "españa-nacional",
+            "incendio"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/18/ocho-medios-aereos-y-diez-unidades-terrestres-trabajan-para-sofocar-un-incendio-declarado-en-moron-sevilla/",
+        "date": "2025-07-18 20:16:41",
+        "sentiment_score": -0.39723171293735504
+    },
+    {
+        "title": "Estos son los resultados del sorteo de Euromillones del 18 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/DF22RSLR7JHWNAJDJLQSSD4WYM.jpg?auth=884d85f7a5a7170273df2b8663f2491f108df738651f05b4bc51277e075aa471&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa loterías",
+            "euromillones",
+            "españa-economia",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/18/estos-son-los-resultados-del-sorteo-de-euromillones-del-18-de-julio/",
+        "date": "2025-07-18 20:00:35",
+        "sentiment_score": 0.5332283265888691
+    },
+    {
+        "title": "Aznar denuncia que España \"sufre una crisis existencial\" en la que se discuten temas como la soberanía nacional",
+        "image_url": "https://www.infobae.com/resizer/v2/PVIFROVH7RCU7LJM7BWTXNTFGE.jpg?auth=3b23f6d2c5186517c7218b4d9bcf98d6a24e6aefbc41e8b6ba2385eee9d085a0&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/18/aznar-denuncia-que-espana-sufre-una-crisis-existencial-en-la-que-se-discuten-temas-como-la-soberania-nacional/",
+        "date": "2025-07-18 19:53:01",
+        "sentiment_score": -0.8132221372798085
+    },
+    {
+        "title": "Las empresas que contrataron al despacho de Montoro conocieron los presupuestos del Gobierno seis meses antes que el Congreso",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XKQFRKSV56QQ3XAXR4ZZ7AXAEU.jpg?auth=abe045afcf646d3591dee11f61b304075eb7f1e14db139fae3d04e6d5bb9e927&width=1200",
+        "tags": [
+            "cristóbal montoro",
+            "españa",
+            "equipo económico sl",
+            "ministerio de hacienda",
+            "corrupción",
+            "presupuestos generales estado"
+        ],
+        "link": "https://elpais.com/espana/2025-07-18/las-empresas-que-contrataron-al-despacho-de-montoro-conocieron-los-presupuestos-del-gobierno-seis-meses-antes-que-el-congreso.html",
+        "date": "2025-07-18 20:54:07",
+        "sentiment_score": 0.3725421465933323
+    },
+    {
+        "title": "De Rato a la baronesa Thyssen: el envío de “información reservada” al jefe de Gabinete de Montoro sobre inspecciones fiscales",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CBXGBDICFFDGJHDA2QDWJZNWPM.jpeg?auth=812dabf81c4730fb2c86ea50254f1fd52dffa01a682814473d5bfd245bd3085c&width=1200",
+        "tags": [
+            "caso gürtel",
+            "canal de isabel ii",
+            "ministerio de hacienda",
+            "demetrio carceller",
+            "jordi pujol",
+            "lezo",
+            "rafael nadal",
+            "rodrigo rato",
+            "agencia tributaria",
+            "investigación judicial",
+            "hacienda pública",
+            "españa",
+            "cristóbal montoro",
+            "esperanza aguirre",
+            "duro felguera"
+        ],
+        "link": "https://elpais.com/espana/2025-07-18/de-rato-a-la-baronesa-thyssen-el-envio-de-informacion-reservada-al-jefe-de-gabinete-de-montoro-sobre-inspecciones-fiscales.html",
+        "date": "2025-07-18 20:21:11",
+        "sentiment_score": 0.06561234593391418
+    },
+    {
+        "title": "Los vecinos de Piera salen a la calle contra la islamofobia: “Han dañado la mezquita, pero no han podido quemar nuestra fe y esperanza”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MR777HMUM5EAFGMFQSPL5SXJFY.jpg?auth=d487f6592c25741bfd67aa3833c7650bd565b97f950105f8cd912decdb9b5e03&width=1200",
+        "tags": [
+            "mezquitas",
+            "piera",
+            "manifestaciones",
+            "racismo",
+            "violencia racial",
+            "barcelona",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-18/los-vecinos-de-piera-salen-a-la-calle-contra-la-islamofobia-han-danado-la-mezquita-pero-no-han-podido-quemar-nuestra-fe-y-esperanza.html",
+        "date": "2025-07-18 19:58:58",
+        "sentiment_score": -0.7842432726174593
+    },
+    {
+        "title": "El Liceu estrena la primera ópera de Ros-Marbà dedicada a la figura de Walter Benjamin",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5BT63A6ANNDPXIXKK5GHJWW6U4.jpg?auth=4262550716ebe4ef1616d9b8a72164da905dc877a4e814dfaac878baba10993f&width=1200",
+        "tags": [
+            "música",
+            "cataluña",
+            "ópera",
+            "òpera a catalunya",
+            "teatro liceo"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-18/el-liceu-estrena-la-primera-opera-de-ros-marba-dedicada-a-la-figura-de-walter-benjamin.html",
+        "date": "2025-07-18 19:29:17",
+        "sentiment_score": 0.014920853078365326
+    },
+    {
+        "title": "Un incendio en la sierra de Gredos de Ávila corta una carretera y avanza descontrolado por el viento",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/U5HZQJBHRRFWLCFDYBBDWGWV6A.jpeg?auth=52525e40e41697f7fc9a63020a77bcfd0742ee14ce84a302981de67d4ecabef1&width=1200",
+        "tags": [
+            "bomberos",
+            "incendios",
+            "incendios forestales",
+            "castilla y león",
+            "viento",
+            "ávila",
+            "calor",
+            "navaluenga",
+            "junta castilla y león",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-18/un-incendio-en-la-sierra-de-gredos-de-avila-corta-una-carretera-y-avanza-descontrolado-por-el-viento.html",
+        "date": "2025-07-18 19:11:27",
+        "sentiment_score": -0.7046608850359917
+    },
+    {
+        "title": "Un informe de los Mossos vincula al exministro Rafael Catalá con la trama para conseguir ventajas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y7TOQFRD6PSCUWTU7BFEMZNLIM.jpg?auth=8480fd86abe2e745024e844ee5f117604e662ee7f417141a654b1fe125dbd5b7&width=1200",
+        "tags": [
+            "empresas",
+            "investigación judicial",
+            "pp",
+            "españa",
+            "cristóbal montoro",
+            "codere",
+            "ministerio de hacienda",
+            "delitos"
+        ],
+        "link": "https://elpais.com/espana/2025-07-18/un-informe-de-los-mossos-vincula-al-exministro-rafael-catala-con-la-trama-para-conseguir-ventajas.html",
+        "date": "2025-07-18 19:05:24",
+        "sentiment_score": -0.015655606985092163
+    },
+    {
+        "title": "Los correos del ‘caso Montoro’ desvelan una “estrategia de presión” sobre Hacienda para participar “en la redacción del BOE”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZA2AEJ4F45H4NDOVLCLQYYKQIM.jpg?auth=c4d7e449dc6cf3606907f020c9ade807ec7676fd973134bd63dcf6f0ae77dbcc&width=1200",
+        "tags": [
+            "empresas",
+            "fiscalía anticorrupción",
+            "gobierno",
+            "investigación judicial",
+            "mariano rajoy",
+            "corrupción",
+            "españa",
+            "pp",
+            "mossos d'esquadra",
+            "tarragona",
+            "cristóbal montoro",
+            "gas",
+            "justicia",
+            "ministerio de hacienda",
+            "delitos"
+        ],
+        "link": "https://elpais.com/espana/2025-07-18/los-correos-del-caso-montoro-desvelan-una-estrategia-de-presion-sobre-hacienda-para-participar-en-la-redaccion-del-boe.html",
+        "date": "2025-07-18 18:59:00",
+        "sentiment_score": -0.3836577460169792
+    },
+    {
+        "title": "El Gobierno pide a la Eurocámara que desautorice la exposición de Vox sobre Cuelgamuros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FIF2TTLTQJN5HK4RO275PQE6Z4.jpg?auth=8c51b620b787b2b373d1c6b15724716d14b0bd7b485bad7026edd367429cfd96&width=1200",
+        "tags": [
+            "franquismo",
+            "exposiciones",
+            "parlamento europeo",
+            "josé manuel albares",
+            "vox",
+            "españa",
+            "europa",
+            "valle de cuelgamuros"
+        ],
+        "link": "https://elpais.com/espana/2025-07-18/el-gobierno-pide-a-la-eurocamara-que-desautorice-la-exposicion-de-vox-sobre-cuelgamuros.html",
+        "date": "2025-07-18 18:00:00",
+        "sentiment_score": -0.7554125431925058
+    },
+    {
+        "title": "Así es el chalé con piscina comprado por la Comunidad de Madrid por 4,3 millones donde Ayuso disfrutó de un fin de semana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/R2PJU4PFWJCXNHBSONVQTSJRNE.JPG?auth=651bd6a446a1bfa09eb17d0871d04f7f99be26a9476c45d6493b6c87e50dbef0&width=1200",
+        "tags": [
+            "isabel díaz ayuso",
+            "comunidad de madrid",
+            "casas",
+            "pp",
+            "vivienda",
+            "guadarrama",
+            "madrid",
+            "política autonómica"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-07-18/asi-es-el-chalet-con-piscina-comprado-por-la-comunidad-de-madrid-por-43-millones-donde-ayuso-disfruto-de-un-fin-de-semana.html",
+        "date": "2025-07-18 17:29:17",
+        "sentiment_score": 0.5969199389219284
+    },
+    {
+        "title": "La Fiscalía ya veía en 2019 indicios de que Montoro participó en el reparto de “ganancias ilícitas” a cambio de reformas legales",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XIUF2DIBH5D2TBE2HPOFJK5BG4.jpg?auth=3522b73398f820042a8a7964925280f327425771d878e5ebfb7b18f9ec22d177&width=1200",
+        "tags": [
+            "pp",
+            "españa",
+            "cristóbal montoro",
+            "equipo económico sl",
+            "corrupción"
+        ],
+        "link": "https://elpais.com/espana/2025-07-18/la-fiscalia-ya-veia-e-2019-indicios-de-que-montoro-participo-en-el-reparto-de-ganancias-ilicitas-a-cambio-de-reformas-legales.html",
+        "date": "2025-07-18 17:24:26",
+        "sentiment_score": -0.647586377337575
+    },
+    {
+        "title": "Un 'viaje' para avivar la llama de los comercios y tabernas centenarias: de la famosa boina que compró el Che Guevara al alquimista de confianza de Isabel de Farnesio",
+        "image_url": "https://phantom-elmundo.uecdn.es/92042cd9e05d2a24a87846b71ad52681/crop/4x0/1000x996/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529670346812.jpg",
+        "tags": [
+            "artículos virginia gómez",
+            "restaurantes",
+            "madrid",
+            "historia"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/07/19/6878d88421efa04a118b45b4.html",
+        "date": "2025-07-18 22:13:36",
+        "sentiment_score": 0.47808295488357544
+    },
+    {
+        "title": "¿Cómo veían los monarcas la Sierra de Guadarrama? Ruta para conocer (y probar) las dos 'sillas reales'",
+        "image_url": "https://phantom-elmundo.uecdn.es/4b7d202bfefa1516b1a482f144f851b1/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/18/17528400043807.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/07/19/687a349b21efa090708b4587.html",
+        "date": "2025-07-18 22:13:35",
+        "sentiment_score": 0.32875407487154007
+    },
+    {
+        "title": "Con triplete de Kerolin, Brasil aplasta a Bolivia en la Copa América Femenina",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/90280dc/2147483647/strip/true/crop/3333x2222+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F00%2Fd9%2Fef6b4eb736dafbd28ccf47f5c0c9%2Ff430892fb788449ebefe5c691568cdbc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/eeuu/articulo/2025-07-18/con-triplete-de-kerolin-brasil-aplasta-6-0-a-bolivia-en-la-copa-america-femenina",
+        "date": "2025-07-18 22:07:07",
+        "sentiment_score": 0.5268367752432823
+    },
+    {
+        "title": "Aitana Bonmatí: \"Parece que estemos obligadas a ganar 6-0, hemos hecho historia\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250718235911_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-aitana-bonmati-parece-estemos-obligadas-ganar-hemos-hecho-historia-20250718235911.html",
+        "date": "2025-07-18 21:59:11",
+        "sentiment_score": -0.21867673099040985
+    },
+    {
+        "title": "Montse Tomé encuentra en Athenea del Castillo su ‘agitapartidos’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/X54AVMKZP5AETLQ5OZZFEVBB3U.jpg?auth=3e0fde0be27649e1e8ed0827985d36e73ff7879dc24f5871bbaf7b19a030a81d&width=1200",
+        "tags": [
+            "fútbol",
+            "competiciones",
+            "eurocopa femenina",
+            "selección suiza fútbol femenino",
+            "entrenadores",
+            "seleccion española fútbol femenino",
+            "montse tomé",
+            "deportes",
+            "futbolistas",
+            "eurocopa femenina 2025"
+        ],
+        "link": "https://elpais.com/deportes/eurocopa-futbol-femenino/2025-07-18/montse-tome-encuentra-en-athenea-del-castillo-su-agitapartidos.html",
+        "date": "2025-07-18 21:32:57",
+        "sentiment_score": -0.7869660519063473
+    },
+    {
+        "title": "El Colegio Profesional de Criminología impulsará formación y protocolos de actuación para Policía Municipal de Madrid",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250718231642_120.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.europapress.es/madrid/noticia-colegio-profesional-criminologia-impulsara-formacion-protocolos-actuacion-policia-municipal-madrid-20250718231642.html",
+        "date": "2025-07-18 21:16:42",
+        "sentiment_score": 0.3286140188574791
+    },
+    {
+        "title": "España vuelve a hacer historia y se lleva el billete a semifinales ante Suiza",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/214f9d54-48c0-4694-9a88-3db3734a8374_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "futbol,selección femenina de fútbol"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/07/18/espana-vuelve-historia-lleva-billete-119851580.html",
+        "date": "2025-07-18 21:08:36",
+        "sentiment_score": -0.47175149619579315
+    },
+    {
+        "title": "1a PARTE | 18 JUL 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/1a-parte-18-jul-2025-partidazo-cope-20250719_3187924.html",
+        "date": "2025-07-18 22:16:10",
+        "sentiment_score": -0.05460454523563385
+    },
+    {
+        "title": "Migrantes de segunda generación: tres de cada diez bebés son hijos de extranjeros",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/07/18/torre-pacheco-altercados.jpg",
+        "tags": [
+            "tres",
+            "generacion",
+            "hijos",
+            "migrantes",
+            "diez",
+            "extranjeros",
+            "bebes",
+            "segunda"
+        ],
+        "link": "https://www.leonoticias.com/nacional/migrantes-segunda-generacion-tres-diez-bebes-hijos-20250719191617-ntrc.html",
+        "date": "2025-07-18 22:14:36",
+        "sentiment_score": -0.8776403088122606
+    },
+    {
+        "title": "La delirante lucha supremacista que destruyó Europa",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/18/687abc2ebf1cd.jpeg",
+        "tags": [
+            "historia contemporánea"
+        ],
+        "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20250719/10904641/delirante-lucha-supremacista-destruyo-europa-hitler-mein-kempf.html",
+        "date": "2025-07-18 22:05:00",
+        "sentiment_score": -0.0272129625082016
+    },
+    {
+        "title": "Constructor de argumentos",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/07/19/ter-constructor-argumentos-kJd-U2302400299560MQF-758x531@El%20Correo.jpg",
+        "tags": [
+            "barcelona (provincia)",
+            "toros"
+        ],
+        "link": "https://www.elcorreo.com/culturas/territorios/constructor-argumentos-20250719000029-nt.html",
+        "date": "2025-07-18 22:00:29",
+        "sentiment_score": -0.6225631237030029
+    },
+    {
+        "title": "Detienen a sujeto por disparar un arma contra su expareja en Caracas: la mujer tiene siete meses de embarazo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752874436584.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "caracas",
+            "detienen sujeto",
+            "cicpc",
+            "douglas rico cicpc",
+            "sucesos",
+            "douglas rico"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-sujeto-por-disparar-un-arma-contra-su-expareja-en-caracas-la-mujer-tiene-siete-meses-de-embarazo-20257181850",
+        "date": "2025-07-18 22:05:00",
+        "sentiment_score": -0.036370210349559784
+    },
+    {
+        "title": "Así celebrarán el Día del Niño en Chacao: conoce la agenda para este domingo 20 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752871999316.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "alcaldía de chacao",
+            "comunidad",
+            "día del niño",
+            "gustavo duque"
+        ],
+        "link": "https://2001online.com/comunidad/asi-celebraran-el-dia-del-nino-en-chacao-conoce-la-agenda-para-este-domingo-20-de-julio-20257181830",
+        "date": "2025-07-18 22:03:00",
+        "sentiment_score": 0.229827543720603
+    },
+    {
+        "title": "¡Alerta aérea en EEUU! TSA anuncia nuevas reglas para los vuelos: esta es la exigencia para familias que viajen con niños",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752875716588.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "vuelos",
+            "servicios",
+            "tsa",
+            "familias"
+        ],
+        "link": "https://2001online.com/usa/servicios/alerta-aerea-en-eeuu-tsa-anuncia-nuevas-reglas-para-los-vuelos-esta-es-la-exigencia-para-familias-que-viajen-con-ninos-20257181800",
+        "date": "2025-07-18 22:00:00",
+        "sentiment_score": 0.6286846864968538
+    },
+    {
+        "title": "¡Insólito! Pasajero intenta abrir la salida de emergencia en pleno vuelo: detienen al hombre en Cedar Rapids",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752876474714.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "salida de emergencia",
+            "vuelo",
+            "pasajero",
+            "sucesos"
+        ],
+        "link": "https://2001online.com/usa/sucesos/insolito-pasajero-intenta-abrir-la-salida-de-emergencia-en-pleno-vuelo-detienen-al-hombre-en-cedar-rapids-202571817590",
+        "date": "2025-07-18 21:59:00",
+        "sentiment_score": -0.7389371581375599
+    },
+    {
+        "title": "Marco Rubio confirma la liberación de 10 estadounidenses detenidos en Venezuela: Agradecemos la mediación de Nayib Bukele",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752874761788.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "eeuu",
+            "diario 2001",
+            "internacionales",
+            "venezuela",
+            "el salvador"
+        ],
+        "link": "https://2001online.com/internacionales/marco-rubio-confirma-la-liberacion-de-10-estadounidenses-detenidos-en-venezuela-agradecemos-la-mediacion-de-nayib-bukele-202571817520",
+        "date": "2025-07-18 21:52:00",
+        "sentiment_score": 0.591337576508522
+    },
+    {
+        "title": "Artistas venezolanos estrenan colaboración: “Devuelvan a los chamos” reúne a 17 cantantes",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752874106651.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "música",
+            "estados unidos",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/musica/artistas-venezolanos-estrenan-colaboracion-devuelvan-a-los-chamos-reune-a-17-cantantes-202571817270",
+        "date": "2025-07-18 21:27:00",
+        "sentiment_score": 0.22801871597766876
+    },
+    {
+        "title": "¡Atención conductores! Así puedes tramitar la licencia de conducir comercial en Texas: conoce quiénes son elegibles",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752873257164.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "servicios",
+            "licencia de conducir",
+            "texas"
+        ],
+        "link": "https://2001online.com/usa/servicios/atencion-conductores-asi-puedes-tramitar-la-licencia-de-conducir-comercial-en-texas-conoce-quienes-son-elegibles-202571817110",
+        "date": "2025-07-18 21:11:00",
+        "sentiment_score": -0.6023216377943754
+    },
+    {
+        "title": "Gaceta Hípica dice presente este domingo 20 de julio en La Rinconada",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752872899424.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "hipismo",
+            "meridianotv",
+            "deportes",
+            "gacetahípica"
+        ],
+        "link": "https://2001online.com/deportes/gaceta-hipica-dice-presente-este-domingo-20-de-julio-en-la-rinconada-20257181770",
+        "date": "2025-07-18 21:07:00",
+        "sentiment_score": 0.734982792288065
+    },
+    {
+        "title": "Gobierno confirma liberación de 252 venezolanos detenidos en El Salvador: realizaron un intercambio por un grupo de ciudadanos estadounidenses",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752872576449.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cecot",
+            "el salvador",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/gobierno-confirma-liberacion-de-252-venezolanos-detenidos-en-el-salvador-realizaron-un-intercambio-por-un-grupo-de-ciudadanos-estadounidenses-20257181750",
+        "date": "2025-07-18 21:05:00",
+        "sentiment_score": -0.23036013543605804
+    },
+    {
+        "title": "Freddy Bernal sostiene conversaciones para la activación de casas de cambio en Táchira: Pronto se acabará el desorden",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752872400000.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "venezuela",
+            "peso",
+            "frontera",
+            "bolívares",
+            "comunidad",
+            "colombia",
+            "moneda",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/comunidad/freddy-bernal-sostiene-conversaciones-para-la-activacion-de-casas-de-cambio-en-tachira-pronto-se-acabara-el-desorden-20257181700",
+        "date": "2025-07-18 21:00:00",
+        "sentiment_score": 0.23395927250385284
     }
 ];
