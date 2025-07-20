@@ -1,169 +1,5 @@
 export default [
     {
-        "title": "Esta es la razón por la que South Park ya solo se puede ver en Estados Unidos",
-        "image_url": "https://www.infobae.com/resizer/v2/5Q5A4EDBIFECHJ7L4OEAYVVW4I.jpeg?auth=82b567be0d60404ab7443fb08af1234779d3eb07cd5414854deee7dea32772b6&height=659&smart=true&width=1170",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/07/16/esta-es-la-razon-por-la-que-south-park-ya-solo-se-puede-ver-en-estados-unidos/",
-        "date": "2025-07-16 05:23:30",
-        "sentiment_score": -0.7373468838632107
-    },
-    {
-        "title": "El colosal palacio donde se ha rodado la serie que arrasa en televisión \"Valle Salvaje\"",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2025/07/15/780ACD36-BD43-46BE-82B7-3E3167527FBD/colosal-palacio-donde-rodado-serie-que-arrasa-television-valle-salvaje_69.jpg?crop=1748%2C983%2Cx0%2Cy130&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "castilla y león"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/colosal-palacio-donde-rodado-serie-que-arrasa-television-valle-salvaje_20250716687624293c6d9a1f9478e8e9.html",
-        "date": "2025-07-16 06:00:13",
-        "sentiment_score": -0.0660819336771965
-    },
-    {
-        "title": "El BEI financiará 385 millones de euros al Grupo Indra para desarrollar tecnologías de defensa y espacio",
-        "image_url": "https://actualidadaeroespacial.com/wp-content/themes/jnews/assets/img/jeg-empty.png",
-        "tags": [
-            "indra",
-            "industria",
-            "financiar",
-            "bei"
-        ],
-        "link": "https://actualidadaeroespacial.com/el-bei-financiara-385-millones-de-euros-al-grupo-indra-para-desarrollar-tecnologias-de-defensa-y-espacio/",
-        "date": "2025-07-16 05:41:08",
-        "sentiment_score": 0.45245954394340515
-    },
-    {
-        "title": "\"Extrema\" preocupación en Canarias por el ‘no’ exprés del asilo a menores migrantes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d36a9023-237c-4c06-9e4c-5b38a5de5bb4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.farodevigo.es/sociedad/2025/07/16/extrema-preocupacion-canarias-expres-asilo-119740829.html",
-        "date": "2025-07-16 05:35:12",
-        "sentiment_score": -0.25037963688373566
-    },
-    {
-        "title": "La compraventa de vivienda se dispara en Cantabria y crece un 55% respecto a hace un año",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/07/15/inmobiliaria-kXw-RXNVmOovmH1QTHsMLuoEy0I-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/compraventa-vivienda-dispara-cantabria-crece-ano-20250715180916-nt.html",
-        "date": "2025-07-16 05:35:10",
-        "sentiment_score": 0.3097939044237137
-    },
-    {
-        "title": "El 'cupo' catalán tensionará un sistema que sostiene el 71% del presupuesto cántabro",
-        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2025/07/15/financiacion-koFE-U23023814503785bH-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/cupo-catalan-tensionara-sistema-sostiene-presupuesto-cantabro-20250716072731-nt.html",
-        "date": "2025-07-16 05:27:32",
-        "sentiment_score": 0.22533949464559555
-    },
-    {
-        "title": "¿Qué es Deport Them Now? El colectivo neonazi que trata de incendiar Torre Pacheco",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2025/07/16/687744bb97143.png",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/actualidad/nacional/2025/07/16/deport-them-now-el-colectivo-neonazi-trata-incendiar-torre-pacheco-654421-1031.html",
-        "date": "2025-07-16 06:22:14",
-        "sentiment_score": -0.8183099571615458
-    },
-    {
-        "title": "'The New York Times' lanza un crudo aviso: \"España sabe que tiene un problema\"",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/07/16/una-vista-general-de-barcelona.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/the-new-york-times-lanza-crudo-aviso-espana-problema.html",
-        "date": "2025-07-16 06:20:16",
-        "sentiment_score": -0.04902586340904236
-    },
-    {
-        "title": "El primer gran \"pelotazo\" especulativo en España fue en el siglo XVII y lo dio un conde",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/07/15/68763b665faab.r_d.727-567-2978.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/noticias/primer-gran-pelotazo-especulativo-espana-siglo-xvii-dio-conde-20250716_3185460.html",
-        "date": "2025-07-16 06:19:29",
-        "sentiment_score": -0.07872378826141357
-    },
-    {
-        "title": "Del restaurante Fermí Puig a la Fonda Balmes: la cocina catalana viaja en carro (de plata)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dfb0a467-442e-4818-af31-e8d8dd779224_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20250716/restaurante-fonda-balmes-barcelona-119690160",
-        "date": "2025-07-16 06:14:28",
-        "sentiment_score": -0.23081085085868835
-    },
-    {
-        "title": "Esta es la mejor ciudad de Catalunya, según Le Corbusier: \"Es admirable, llena de vida e intensa\"",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/07/16/vivir-en-barcelona/1003742674137_14876251_1706x960.jpg?contentId=1003742674137",
-        "tags": [
-            "top"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250716/mejor-ciudad-catalunya-corbusier-admirable-llena-vida-intensa-trt/1003742674133_0.html",
-        "date": "2025-07-16 06:04:00",
-        "sentiment_score": -0.017747655510902405
-    },
-    {
-        "title": "Confirmado por la AEMET: Barcelona dirá adiós al sol y volverán las lluvias a partir de este día",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/04/11/6617c30a01c09.r_d.2762-2537.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20250716/1002500844/confirmado-aemet-barcelona-dira-adios-sol-volveran-lluvias-partir-dia-dct.html",
-        "date": "2025-07-16 06:02:16",
-        "sentiment_score": -0.009452030062675476
-    },
-    {
-        "title": "La curiosa forma de ganar dinero comprando una habitación de hotel",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2025/07/curiosa-forma-ganar-dinero-comprando-habitacion-hotel-4345135.jpg?tf=1200x",
-        "tags": [
-            "vivienda"
-        ],
-        "link": "https://www.businessinsider.es/vivienda/curiosa-forma-ganar-dinero-comprando-habitacion-hotel-1473150",
-        "date": "2025-07-16 06:00:08",
-        "sentiment_score": 0.4463915806263685
-    },
-    {
-        "title": "Más de mil páginas fraudulentas en 60 países: la red internacional del timo del transporte público en Facebook y su conexión con Rusia y Vietnam",
-        "image_url": "https://files.maldita.es/maldita/uploads/images/2025/07/687630d365b07red-internacional-timo-transporte-publico-webp.webp",
-        "tags": [
-            "top"
-        ],
-        "link": "https://maldita.es/investigaciones/20250716/transporte-timo-red-internacional-facebook/",
-        "date": "2025-07-16 06:00:00",
-        "sentiment_score": -0.1666697859764099
-    },
-    {
-        "title": "FIB 2025: cartel, horario y cómo llegar al Festival Internacional de Benicasim",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2023/07/07/uno-de-los-escenarios-del-fib-2019.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/fib-2025-cartel-horario-como-llegar-festival-internacional-benicasim-hpe1.html",
-        "date": "2025-07-16 06:00:00",
-        "sentiment_score": 0.5224424675107002
-    },
-    {
-        "title": "María Mayán: “Necesitamos más apoyo para transferir los hallazgos en cáncer a la empresa y al paciente”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.atlantico.net/tv/entrevista-a/maria-mayan-necesitamos-apoyo-transferir_1_20250716-3919937.html",
-        "date": "2025-07-16 05:20:12",
-        "sentiment_score": 0.015369445085525513
-    },
-    {
         "title": "Un juez imputa al exministro Montoro y a sus socios por utilizar la cartera de Hacienda para modificar leyes en beneficio de empresas",
         "image_url": "https://www.infobae.com/resizer/v2/MK5RKK5IHRCZRLFNTPQZDJFHUQ.jpg?auth=4af30c2b70cbbc99ec83d7a9b15f0e7cfff176574956427b1a587c13171f5d14&height=1067&smart=true&width=1600",
         "tags": [
@@ -7754,5 +7590,519 @@ export default [
         "link": "https://2001online.com/internacionales/tension-lula-da-silva-arremete-contra-trump-por-las-sanciones-a-los-jueces-del-supremo-202571910360",
         "date": "2025-07-19 14:36:00",
         "sentiment_score": -0.048010580241680145
+    },
+    {
+        "title": "Atrapados y sin señal, una madre y su hijo de 9 años se pierden en el bosque y logran salvarse con cartas escritas a mano: “Help”",
+        "image_url": "https://www.infobae.com/resizer/v2/IWN6LGTVS5CEFLCCXDPDC75FOQ.png?auth=eb5e1c8ba480d88c466f80dcd3b46a4c50e6c1182318e1706cea3a8054345466&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "salvar vida",
+            "desaparecidos",
+            "estados unidos",
+            "bosque",
+            "rescate",
+            "sucesos",
+            "españa-sociedad",
+            "españa-noticias",
+            "personas desaparecidas"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/19/atrapados-y-sin-senal-una-madre-y-su-hijo-de-9-anos-se-pierden-en-el-bosque-y-logran-salvarse-con-cartas-escritas-a-mano-help/",
+        "date": "2025-07-19 19:31:13",
+        "sentiment_score": -0.5178707465529442
+    },
+    {
+        "title": "España da la bienvenida a la declaración de alto el fuego provisional entre el Gobierno congoleño y la milicia del M23",
+        "image_url": "https://www.infobae.com/resizer/v2/HQXMHJYSLRG7PBQCI73VVR2SEY.jpg?auth=2ef24b5f6793a9354a3cba097dc882390c0a565c693b521effc1fa3b9c7aa5da&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/19/espana-da-la-bienvenida-a-la-declaracion-de-alto-el-fuego-provisional-entre-el-gobierno-congoleno-y-la-milicia-del-m23/",
+        "date": "2025-07-19 18:53:22",
+        "sentiment_score": 0.22863981127738953
+    },
+    {
+        "title": "Illa defiende una justicia \"que funcione bien para garantizar la convivencia\"",
+        "image_url": "https://www.infobae.com/resizer/v2/WXX2AFOGDJCVLCADIW56KMNRRU.jpg?auth=7216a4fa43ebc9ff9e0350e37aead84dbd044c83ea3882255a5bb131f8920956&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/19/illa-defiende-una-justicia-que-funcione-bien-para-garantizar-la-convivencia/",
+        "date": "2025-07-19 18:53:05",
+        "sentiment_score": -0.27590739727020264
+    },
+    {
+        "title": "España da la bienvenida a la declaración de alto el fuego provisional entre RDC y el M23",
+        "image_url": "https://www.infobae.com/resizer/v2/FFZ66G3VDRHPXCGQRBEJRWGSBE.jpg?auth=03a7b314c91c21a1fb7209f3466fb83b898e0d041a56fc86b172d5f299131977&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/19/espana-da-la-bienvenida-a-la-declaracion-de-alto-el-fuego-provisional-entre-rdc-y-el-m23/",
+        "date": "2025-07-19 18:49:48",
+        "sentiment_score": 0.3281162828207016
+    },
+    {
+        "title": "Una colombiana que vive en España habla de la oferta gastronómica: “Es mentira que extrañe la comida”",
+        "image_url": "https://www.infobae.com/resizer/v2/5UMPS7IOB5ASTM4NBX727FCPWM.png?auth=115d8d13d41977473320d0bd1336cdb1107c44f066d4277e9ff70697fe4d5e42&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "virales españa",
+            "viral",
+            "españa-sociedad",
+            "redes sociales",
+            "españa-noticias",
+            "cocina española",
+            "restaurantes",
+            "restaurantes madrid",
+            "tortilla de patatas"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/19/una-colombiana-que-vive-en-espana-habla-de-la-oferta-gastronomica-es-mentira-que-extrane-la-comida/",
+        "date": "2025-07-19 18:19:24",
+        "sentiment_score": 0.7498782128095627
+    },
+    {
+        "title": "Sara García-Cubillana, la primera mujer oficial número 1 en la Escuela Naval",
+        "image_url": "https://www.infobae.com/resizer/v2/4474PJZD7ZC3LPOIW6CKCVQTUY.jpg?auth=e264bc784046085be37fe77e760a9a936684784e4b53fd9d4d83c2308bd6ce2a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "princesa leonor",
+            "españa-noticias",
+            "fuerzas armadas",
+            "armada española",
+            "ejército españa",
+            "fuerzas armadas españa",
+            "leonor",
+            "ministerio de defensa",
+            "españa-nacional",
+            "ejército"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/19/sara-garcia-cubillana-la-primera-mujer-oficial-numero-1-en-la-escuela-naval/",
+        "date": "2025-07-19 17:25:37",
+        "sentiment_score": 0.7058323174715042
+    },
+    {
+        "title": "Serrano (PSOE) apuesta por reforzar el Fondo de Transición Justa para encarar la crisis de la automoción",
+        "image_url": "https://www.infobae.com/resizer/v2/NHY5WMHGRNGPDC7A6XKOUMXN6I.jpg?auth=9ca19faef3e5afa439b707378c8733b64e7dc54b8a46e106b4b7809f005af0d1&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/19/serrano-psoe-apuesta-por-reforzar-el-fondo-de-transicion-justa-para-encarar-la-crisis-de-la-automocion/",
+        "date": "2025-07-19 17:23:01",
+        "sentiment_score": 0.283055379986763
+    },
+    {
+        "title": "Ucrania propone a Rusia retomar las conversaciones de paz la próxima semana",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/07/19/zelensky-k0uG-U701314845342LXD-1200x840@diario_abc.jpg",
+        "tags": [
+            "ucrania",
+            "semana",
+            "paz",
+            "conversaciones",
+            "rusia",
+            "nuevas",
+            "propone",
+            "proxima"
+        ],
+        "link": "https://www.abc.es/internacional/ucrania-propone-rusia-retomar-conversaciones-paz-proxima-20250719202130-nt.html",
+        "date": "2025-07-19 18:21:30",
+        "sentiment_score": -0.02450120449066162
+    },
+    {
+        "title": "Decenas de ultras se concentran junto al centro de inmigrantes de Alcalá de Henares en busca de un nuevo epicentro para su odio",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QHRQJHKQKRHKVICML2RL6DYJ3Q.JPG?auth=00ab49362b94fc82fed68c2690e2411b16f84f62f8cabdddecafc7de5f8446c5&width=1200",
+        "tags": [
+            "torre-pacheco",
+            "comunidad de madrid",
+            "inmigrantes",
+            "policía",
+            "xenofobia",
+            "alcalá de henares",
+            "madrid",
+            "ultras"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-07-19/decenas-de-ultras-se-concentran-junto-al-centro-de-inmigrantes-de-alcala-de-henares-en-busca-de-un-nuevo-epicentro-para-su-odio.html",
+        "date": "2025-07-19 19:11:13",
+        "sentiment_score": -0.3086252138018608
+    },
+    {
+        "title": "Controlados la mayoría de incendios que han arrasado miles de hectáreas este fin de semana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NYPBBR5ZWFKENI2D76PG34BAIY.jpg?auth=f7c837006556016c03e5a79977e68055429cf6cbda9c64a3e15137533986ff0a&width=1200",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-19/controlados-la-mayoria-de-incendios-que-han-arrasado-miles-de-hectareas-este-fin-de-semana.html",
+        "date": "2025-07-19 18:37:41",
+        "sentiment_score": 0.40892497450113297
+    },
+    {
+        "title": "La manifestación por el Orgullo en Barcelona reivindica el papel de la cultura frente al discurso de Trump y Orbán",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FTFOSXPKHZLDJNMA3BWR6RDYHE.jpg?auth=1cb423858e2bc8af7a88af5304da0f3e7e15e1749fea8ad8c1234bac0f099c17&width=1200",
+        "tags": [
+            "barcelona",
+            "orgullo lgtbi",
+            "derechos humanos",
+            "artistas",
+            "minorías sociales",
+            "manifestaciones",
+            "cataluña",
+            "cultura",
+            "marchas protesta"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-19/la-manifestacion-por-el-orgullo-en-barcelona-reivindica-el-papel-de-la-cultura-frente-al-discurso-de-trump-y-orban.html",
+        "date": "2025-07-19 18:20:31",
+        "sentiment_score": 0.4897943548858166
+    },
+    {
+        "title": "“Se acabó la estrategia de oposición del PP. Tendrá que inventar otra”",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/07/europapress-6859004-presidente-gobierno-pedro-sanchez-antes-encuentro-lehendakari-imanol-scaled-e1752871653549-1440x808.jpg",
+        "tags": [
+            "partido popular (pp)",
+            "cristóbal montoro",
+            "crónicas desde la moncloa",
+            "españa",
+            "ministerio de hacienda y función pública",
+            "pedro sánchez",
+            "partido socialista obrero español (psoe)",
+            "santos cerdán",
+            "corrupción",
+            "mariano rajoy",
+            "alberto núñez feijóo",
+            "josé maría aznar",
+            "sara aagesen",
+            "gobierno de españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/07/20/se-acabo-la-estrategia-de-oposicion-del-pp-tendra-que-inventar-otra/",
+        "date": "2025-07-19 22:05:42",
+        "sentiment_score": -0.8998814709484577
+    },
+    {
+        "title": "El Real Oviedo espera con optimismo por Jovic",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/07/19/106938551-kHGI--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "optimismo",
+            "espera",
+            "oviedo",
+            "jovic"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-espera-optimismo-jovic-20250719191948-nt.html",
+        "date": "2025-07-19 22:05:33",
+        "sentiment_score": -0.28930141031742096
+    },
+    {
+        "title": "Hacia ecos de lo sagrado. De la piedra a la carne. De lo íntimo compartido",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2025/07/WEB-10.jpg",
+        "tags": [
+            "segovia",
+            "portada secundaria"
+        ],
+        "link": "https://eladelantado.com/segovia/hacia-ecos-de-lo-sagrado-de-la-piedra-a-la-carne-de-lo-intimo-compartido/",
+        "date": "2025-07-19 21:54:42",
+        "sentiment_score": 0.2619639039039612
+    },
+    {
+        "title": "Cuenta regresiva para el Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/072025/1752962001650.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/usa/futbol/futbol-espanol/cuenta-regresiva-para-el-real-madrid--202571917370",
+        "date": "2025-07-19 21:37:00",
+        "sentiment_score": 0.06424592062830925
+    },
+    {
+        "title": "En imágenes: así fue la lujosa y emotiva boda de Éder Militao y Tainá Castro",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752961279011.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "brasil",
+            "real madrid",
+            "lucas paquetá",
+            "vinicius jr",
+            "boda",
+            "sao paulo",
+            "deportes",
+            "rodrygo goes",
+            "éder militao",
+            "tainá castro"
+        ],
+        "link": "https://2001online.com/deportes/en-imagenes-asi-fue-la-lujosa-y-emotiva-boda-de-eder-militao-y-taina-castro-202571917500",
+        "date": "2025-07-19 21:06:16",
+        "sentiment_score": -0.17227903008460999
+    },
+    {
+        "title": "Arrancan las microdenciales en la ULPGC con un proyecto piloto de nueve y 'online'",
+        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2025/03/27/soraya-ko3H--1200x840@Canarias7.jpg",
+        "tags": [
+            "créditos",
+            "inteligencia artificial",
+            "universidad de las palmas de gran canaria"
+        ],
+        "link": "https://www.canarias7.es/sociedad/educacion/arrancan-microdenciales-ulpgc-proyecto-piloto-nueve-online-20250720213839-nt.html",
+        "date": "2025-07-19 20:38:40",
+        "sentiment_score": 0.12396432273089886
+    },
+    {
+        "title": "Reportan fichaje a préstamo de Marcus Rashford con el FC Barcelona",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/07/AP25056457520102.jpg",
+        "tags": [
+            "marcus rashford",
+            "fc barcelona",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://eldiariony.com/2025/07/19/reportan-fichaje-a-prestamo-de-marcus-rashford-con-el-fc-barcelona/",
+        "date": "2025-07-19 20:12:45",
+        "sentiment_score": 0.7566350270062685
+    },
+    {
+        "title": "El mundo del fútbol despide al exguardameta 'Manolín', asentado en Vilagarcía",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/07/19/2025071921525243871.jpg",
+        "tags": [
+            "vilagarcía"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/vilagarcia-arousa/mundo-futbol-despide-exguardameta-manolin-asentado-vilagarcia/202507192154371400781.html",
+        "date": "2025-07-19 19:54:37",
+        "sentiment_score": -0.2437431365251541
+    },
+    {
+        "title": "El mundo del fútbol despide al exguardameta monfortino 'Manolín'",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/07/19/2025071921440960719.jpg",
+        "tags": [
+            "ribeira sacra"
+        ],
+        "link": "https://www.elprogreso.es/articulo/ribeira-sacra/mundo-futbol-despide-exguardameta-monfortino-manolin/202507192145451896124.html",
+        "date": "2025-07-19 19:45:45",
+        "sentiment_score": -0.2437431365251541
+    },
+    {
+        "title": "Ángeles Vázquez, la conselleira gallega de Medio Ambiente, enfrentada a los defensores del medio ambiente",
+        "image_url": "https://static.eldiario.es/clip/58cd2d2d-4857-4a16-8a87-8a100cf0b232_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "orense",
+            "actualidad",
+            "la coruña",
+            "pontevedra",
+            "noticias",
+            "galicia",
+            "lugo",
+            "opinión",
+            "análisis"
+        ],
+        "link": "https://www.eldiario.es/galicia/angeles-vazquez-conselleira-gallega-medio-ambiente-enfrentada-defensores-medio-ambiente_1_12475054.html",
+        "date": "2025-07-19 19:34:52",
+        "sentiment_score": -0.1746216118335724
+    },
+    {
+        "title": "Terapias con realidad extendida",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/07/19/innova-R5H8KafrChJRuFrnxiJlpWP-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "asturias innova",
+            "bayer",
+            "astrazeneca",
+            "oviedo"
+        ],
+        "link": "https://www.elcomercio.es/tecnologia/asturias-innova/terapias-realidad-extendida-20250719201822-nt.html",
+        "date": "2025-07-19 22:16:20",
+        "sentiment_score": 0.6635073013603687
+    },
+    {
+        "title": "Un magrebí asesina a puñaladas a un hombre en un autobús nocturno en Castelldefels",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2025/07/descarga-23-1-1-700x467.jpg",
+        "tags": [
+            "magrebi",
+            "castelldefels",
+            "puñaladas",
+            "autobus",
+            "cataluña"
+        ],
+        "link": "https://www.alertadigital.com/2025/07/20/un-magrebi-asesina-a-punaladas-a-un-hombre-en-un-autobus-nocturno-en-castelldefels/",
+        "date": "2025-07-19 22:13:18",
+        "sentiment_score": -0.8497245721518993
+    },
+    {
+        "title": "La apuesta catalana de Consum",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/18/687a6e2a93d04.r_d.497-241-4885.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250720/10904039/apuesta-catalana-consum.html",
+        "date": "2025-07-19 22:05:00",
+        "sentiment_score": 0.707287659868598
+    },
+    {
+        "title": "El abono de pagas extras pierde terreno en las ofertas de empleo",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/19/687b7e6ae35f4.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250720/10905521/abono-pagas-extras-pierde-terreno-ofertas-empleo.html",
+        "date": "2025-07-19 22:05:00",
+        "sentiment_score": -0.05065229535102844
+    },
+    {
+        "title": "Marruecos: el vecino del Sur pisa fuerte",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/18/687a6f0f4dd40.r_d.1038-961-2191.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250720/10904037/marruecos-economia-reunion-harvard.html",
+        "date": "2025-07-19 22:05:00",
+        "sentiment_score": 0.85758794285357
+    },
+    {
+        "title": "Misas en latín en la calle Laforja",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/18/687a230d10292.r_d.1107-1022-2338.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20250720/10902427/misas-latin-calle-laforja.html",
+        "date": "2025-07-19 22:05:00",
+        "sentiment_score": 0.0003218352794647217
+    },
+    {
+        "title": "La mermelada de peras, nueces y canela de Valle y Vega triunfa por su sabor y valor social",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/07/20/Imagen%20ValleyVega_premios_BBVA_Mermelada-kAKI-U2302410351324GSH-1200x840@Ideal.jpg",
+        "tags": [
+            "bbva"
+        ],
+        "link": "https://www.ideal.es/granada/mermelada-peras-nueces-canela-valle-vega-triunfa-20250720000448-nt.html",
+        "date": "2025-07-19 22:04:49",
+        "sentiment_score": 0.48739588633179665
+    },
+    {
+        "title": "Los investigadores del 'caso Cellex' sospechan que Tabernero y Torner conocían el desvío del patrimonio de Pere Mir",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/19/business/1003742675133_14894318_1706x960.jpg?contentId=1003742675133",
+        "tags": [
+            "caso cellex",
+            "consejería de justicia",
+            "fundaciones",
+            "cataluña",
+            "business",
+            "hospital vall d'hebron",
+            "barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250719/investigadores-cellex-tabernero-torner-patrimonio-pere-mir/1003742674899_0.html",
+        "date": "2025-07-19 22:00:00",
+        "sentiment_score": -0.489342350512743
+    },
+    {
+        "title": "¡Malas noticias! Detención de migrantes sin derecho a fianza genera pánico: aquí dudas sobre la medida",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/malas-noticias-detencion-de-migrantes-sin-derecho-a-fianza-genera-panico-aqui-dudas-sobre-la-medida-202571918160",
+        "date": "2025-07-19 22:16:00",
+        "sentiment_score": -0.7003739047795534
+    },
+    {
+        "title": "Hallan el cadáver de una niña de 10 años en Zulia: el cuñado de la mamá es el principal sospechoso",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752962384584.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "zulia",
+            "sucesos",
+            "infanticidio"
+        ],
+        "link": "https://2001online.com/sucesos/hallan-el-cadaver-de-una-nina-de-10-anos-en-zulia-el-cunado-de-la-mama-es-el-principal-sospechoso-202571918100",
+        "date": "2025-07-19 22:10:00",
+        "sentiment_score": -0.7818232923746109
+    },
+    {
+        "title": "Aseo Urbano en Caracas: conoce los horarios de recolección de basura para evitar el brote de enfermedades ante la temporada de lluvias",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752958942616.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "alcaldía de caracas",
+            "supracaracas",
+            "comunidad",
+            "aseo urbano caracas"
+        ],
+        "link": "https://2001online.com/comunidad/aseo-urbano-en-caracas-conoce-los-horarios-de-recoleccion-de-basura-para-evitar-el-brote-de-enfermedades-ante-la-temporada-de-lluvias-20257191850",
+        "date": "2025-07-19 22:05:00",
+        "sentiment_score": 0.1596594601869583
+    },
+    {
+        "title": "UFC 318: hora y dónde ver hoy el esperado duelo entre Dustin Poirier y Max Holloway",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752960817794.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ufc318",
+            "dana white",
+            "max holloway",
+            "dustin poirier",
+            "ufc",
+            "deportes",
+            "mma",
+            "retiro de dustin poirier"
+        ],
+        "link": "https://2001online.com/deportes/ufc-318-hora-y-donde-ver-hoy-el-esperado-duelo-entre-dustin-poirier-y-max-holloway-202571918100",
+        "date": "2025-07-19 21:36:47",
+        "sentiment_score": 0.6039429195225239
+    },
+    {
+        "title": "¡Atención jubilados! Pagos del Seguro Social en EEUU: ¿Quiénes reciben dinero la próxima semana y cuánto?",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752959381807.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/atencion-jubilados-pagos-del-seguro-social-en-eeuu-quienes-reciben-dinero-la-proxima-semana-y-cuanto--20257191770",
+        "date": "2025-07-19 21:07:00",
+        "sentiment_score": 0.11020811647176743
+    },
+    {
+        "title": "Manny Pacquiao vs. Mario Barrios: hora y dónde ver la pelea del regreso del filipino al ring",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752960984444.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "méxico",
+            "mario barrios",
+            "peso welter",
+            "las vegas",
+            "cinturón welter cmb",
+            "deportes",
+            "ee.uu.",
+            "boxeo",
+            "filipinas",
+            "manny pacquiao"
+        ],
+        "link": "https://2001online.com/deportes/manny-pacquiao-vs-mario-barrios-hora-y-donde-ver-la-pelea-del-regreso-del-filipino-al-ring-202571917550",
+        "date": "2025-07-19 21:06:17",
+        "sentiment_score": 0.2161966636776924
+    },
+    {
+        "title": "El triunfo de Lina Luaces desata polémica: la familia Estefan estalla ante acusaciones de corrupción",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752963085405.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "miss universo cuba",
+            "farandula",
+            "polémica"
+        ],
+        "link": "https://2001online.com/farandula/el-triunfo-de-lina-luaces-desata-polemica-la-familia-estefan-estalla-ante-acusaciones-de-corrupcion-20257191760",
+        "date": "2025-07-19 21:06:00",
+        "sentiment_score": -0.0637473613023758
+    },
+    {
+        "title": "¡Colombianos de fiesta en Nueva York! Esto es lo que promete el festival FIOC 2025: este 20 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752949560398.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "celebración colombiana en nyc",
+            "estados unidos",
+            "colombianos en nueva york",
+            "fioc ny 20 de julio",
+            "festival independencia orgullo colombiano en queens",
+            "usa",
+            "13ra edición del festival independencia orgullo colombiano (fioc ny)",
+            "internacionales",
+            "colombia",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/usa/internacionales/colombianos-de-fiesta-en-nueva-york-esto-es-lo-que-promete-el-festival-fioc-2025-este-20-de-julio-20257191750",
+        "date": "2025-07-19 21:05:00",
+        "sentiment_score": 0.5201024785637856
+    },
+    {
+        "title": "Atención comerciantes de ropa en Venezuela: conoce las normas de etiquetado para evitar multas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752957131807.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "etiquetado de ropa en venezuela",
+            "servicios",
+            "ropa en venezuela",
+            "sencamer"
+        ],
+        "link": "https://2001online.com/servicios/atencion-comerciantes-de-ropa-en-venezuela-conoce-las-normas-de-etiquetado-para-evitar-multas-202571916470",
+        "date": "2025-07-19 20:47:00",
+        "sentiment_score": 0.012905240058898926
     }
 ];
