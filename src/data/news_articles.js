@@ -150,59 +150,6 @@ export default [
         "sentiment_score": -0.04015663266181946
     },
     {
-        "title": "Absuelto tras permanecer preso más de un año acusado de violar a una mujer en un portal en Medina del Campo",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/39/media_thumb-link-4078043.webp?1752653226=",
-        "tags": [
-            "absuelto",
-            "actualidad",
-            "medina del campo",
-            "viogen"
-        ],
-        "link": "https://www.meneame.net/story/absuelto-tras-permanecer-preso-mas-ano-acusado-violar-mujer",
-        "date": "2025-07-16 12:05:05",
-        "sentiment_score": -0.5224816650152206
-    },
-    {
-        "title": "El Supremo cierra la puerta a que los tribunales aumenten las indemnizaciones por despido improcedente",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/16/supre-RgihVF2ab6MGlU76CAC9mnO-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/supremo-cierra-puerta-tribunales-aumenten-indemnizaciones-despido-20250716133516-nt.html",
-        "date": "2025-07-16 11:41:50",
-        "sentiment_score": -0.18094594776630402
-    },
-    {
-        "title": "Masorange y Zurich firman un acuerdo exclusivo en materia de seguros que alcanza a 32 millones de clientes",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/16/SpengerGUILLERMONAVARRO-RtrrAYRKfDKhwk8ku4OzTYN-1200x840@diario_abc.JPG",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/masorange-zurich-firman-acuerdo-exclusivo-materia-seguros-20250716131532-nt.html",
-        "date": "2025-07-16 11:15:32",
-        "sentiment_score": -0.049242496490478516
-    },
-    {
-        "title": "Trump defiende que la fiscal general de EE.UU. publique «lo que considere creíble» sobre el caso Epstein",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/16/trump-epstein-kQwD-U701298290662u7G-1200x840@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/trump-defiende-fiscal-general-eeuu-publique-considere-20250716130406-nt.html",
-        "date": "2025-07-16 11:04:07",
-        "sentiment_score": -0.21258917450904846
-    },
-    {
-        "title": "PURA CENSURA",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/07/16/cartas-director-1024x512-U71858401236BDM-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-pura-censura-20250716123610-nt.html",
-        "date": "2025-07-16 10:36:11",
-        "sentiment_score": -0.40468911826610565
-    },
-    {
         "title": "El Govern retira el decreto sobre las energías renovables al constatar la oposición de ERC",
         "image_url": "https://imagenes.elpais.com/resizer/v2/EDWBXH6XTJD3HGBS5HEP5KMHE4.jpg?auth=d5df43e11df767e9dda4a85742b8a5dba0ac7412e34708b08b5b67ec01dcfc95&width=1200",
         "tags": [
@@ -8104,5 +8051,425 @@ export default [
         "link": "https://2001online.com/servicios/atencion-comerciantes-de-ropa-en-venezuela-conoce-las-normas-de-etiquetado-para-evitar-multas-202571916470",
         "date": "2025-07-19 20:47:00",
         "sentiment_score": 0.012905240058898926
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Málaga este domingo 20 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "málaga",
+            "noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/20/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-malaga-este-domingo-20-de-julio/",
+        "date": "2025-07-20 02:01:01",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en España: el pronóstico del tiempo para Madrid este 20 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/UAVNNSVQ2BDOZLTU4G3FOZ3OYY.jpg?auth=df43e4acea8cc3a57bfb6f5f9cd7d334f69444f2bd0a29be41452b2e711b5a35&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "noticias",
+            "tiempo en españa",
+            "españa noticias",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/20/clima-en-espana-el-pronostico-del-tiempo-para-madrid-este-20-de-julio/",
+        "date": "2025-07-20 01:30:36",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "YouTube en España: los 10 videos que son populares hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "streaming",
+            "noticias",
+            "españa-televisión",
+            "youtube"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/20/youtube-en-espana-los-10-videos-que-son-populares-hoy/",
+        "date": "2025-07-20 01:16:10",
+        "sentiment_score": 0.12368035316467285
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Barcelona este 20 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/A4CTAZD3GFDMJNQ4NSZYVNJDMI.jpg?auth=14611cb258083455447aff3018211c7b74524d67abb1c532ffdc44e73902891c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "tiempo en españa",
+            "barcelona",
+            "españa sociedad",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/20/clima-hoy-en-espana-temperaturas-para-barcelona-este-20-de-julio/",
+        "date": "2025-07-20 01:15:50",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Una épica Alemania elimina a Francia y se cita con España en semifinales de la Eurocopa",
+        "image_url": "https://www.infobae.com/resizer/v2/5AXB2DZWSBASLGQSPAIEID4ERE.jpg?auth=016a8eab00a55388ccee34ee2efcd72d6e806607b5980648381947a3f054843d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/19/una-epica-alemania-elimina-a-francia-y-se-cita-con-espana-en-semifinales-de-la-eurocopa/",
+        "date": "2025-07-19 22:49:04",
+        "sentiment_score": 0.3724351078271866
+    },
+    {
+        "title": "El incendio de Valdecaballeros obliga a evacuar a 440 personas, después de arrasar con más de 1.000 hectáreas de pasto",
+        "image_url": "https://www.infobae.com/resizer/v2/PB4UDT63IBEQHPMYFJ47IZRADI.jpg?auth=19863eb7a3ce3d07d614beeacc21aae30aca82cb388cb8ac0d7460d0aa9a9c3a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bomberos",
+            "incendios",
+            "extremadura",
+            "hectáreas",
+            "incendios españa",
+            "evacuaciones",
+            "incendio",
+            "fuego",
+            "españa-sociedad",
+            "cáceres españa",
+            "españa-noticias",
+            "plan infocaex"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/19/el-incendio-de-valdecaballeros-obliga-a-evacuar-a-440-personas-despues-de-arrasar-con-mas-de-1000-hectareas-de-pasto/",
+        "date": "2025-07-19 22:21:10",
+        "sentiment_score": -0.13976554572582245
+    },
+    {
+        "title": "El soberanismo articula la voz popular en Europa y América frente a un bipartidismo globalista que empieza a implosionar",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/07/Diseno-sin-titulo-7.png",
+        "tags": [
+            "iberosfera",
+            "viktor orbán",
+            "vox",
+            "europa",
+            "bruselas",
+            "estados unidos",
+            "españa",
+            "donald trump"
+        ],
+        "link": "https://gaceta.es/europa/el-soberanismo-articula-la-voz-popular-en-europa-y-america-frente-a-un-bipartidismo-globalista-que-empieza-a-implosionar-20250720-0400/",
+        "date": "2025-07-20 02:00:00",
+        "sentiment_score": 0.33242183923721313
+    },
+    {
+        "title": "El Real Avilés también arrasa en el Tsunami Xixón",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/07/20/alcala-norte-tsunami-RJOEcyrvitCmHsoJke4m9iJ-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "fútbol",
+            "primera rfef",
+            "real avilés",
+            "estadio román suárez puerta",
+            "conciertos"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/real-aviles-arrasa-tsunami-xixon-20250720111510-nt.html",
+        "date": "2025-07-20 02:00:00",
+        "sentiment_score": -0.0014654174447059631
+    },
+    {
+        "title": "Blanco y Alonso, tras la estela de Montoro: Acento presiona al Gobierno y cambia normas en las Cortes en pro de sus clientes",
+        "image_url": "https://s1.elespanol.com/2025/07/18/actualidad/1003743854873_257415710_1706x960.jpg?contentId=1003743854873",
+        "tags": [
+            "periodismo de investigación",
+            "política",
+            "psoe (partido socialista obrero español)",
+            "gobierno de españa",
+            "cristóbal montoro",
+            "lobby"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250720/blanco-alonso-estela-montoro-acento-presiona-gobierno-cambia-normas-cortes-pro-clientes/1003743854823_0.html",
+        "date": "2025-07-20 01:18:43",
+        "sentiment_score": 0.19458624720573425
+    },
+    {
+        "title": "Los top semanales del Índice de la Digitalización: sensores y datos para mejorar el rendimiento de los cultivos",
+        "image_url": "https://s1.elespanol.com/2025/07/16/actualidad/1003743850865_257339887_1706x960.jpg?contentId=1003743850865",
+        "tags": [
+            "sensores",
+            "innovación",
+            "inteligencia artificial",
+            "grandes actores",
+            "agricultura",
+            "tecnología",
+            "digitalización"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/20250720/top-semanales-indice-digitalizacion-sensores-datos-mejorar-rendimiento-cultivos/1003743850854_0.html",
+        "date": "2025-07-20 01:11:34",
+        "sentiment_score": 0.3454367518424988
+    },
+    {
+        "title": "Barbón se rebela contra Sánchez: el PSOE asturiano usará \"todos los instrumentos\" para combatir el 'cupo catalán'",
+        "image_url": "https://s1.elespanol.com/2025/07/19/espana/politica/1003743855350_257424236_1706x960.jpg?contentId=1003743855350",
+        "tags": [
+            "independentismo",
+            "asturias",
+            "pedro sánchez",
+            "política",
+            "cataluña",
+            "psc",
+            "psoe (partido socialista obrero español)",
+            "emiliano garcía-page",
+            "financiación autonómica",
+            "salvador illa roca"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250720/barbon-rebela-sanchez-psoe-asturiano-usara-instrumentos-combatir-cupo-catalan/1003743855288_0.html",
+        "date": "2025-07-20 01:06:06",
+        "sentiment_score": -0.21420210599899292
+    },
+    {
+        "title": "Iker Casillas causa revuelo con su sorpresiva visita a ciudad colombiana: “Maravilloso”",
+        "image_url": "https://www.infobae.com/resizer/v2/PWO3RX66DNELNH5Y5TNJ3XV2OM.jpg?auth=39a99f87fee2192e749d199b05dbcc778049ea78a975a2de4aa823d726f6718a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "iker casillas",
+            "colombia-deportes",
+            "islas del rosario",
+            "cartagena"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/07/20/iker-casillas-causa-revuelo-con-su-sorpresiva-visita-a-ciudad-colombiana-maravilloso/",
+        "date": "2025-07-20 01:04:12",
+        "sentiment_score": -0.008501995354890823
+    },
+    {
+        "title": "Cristóbal Montoro, el traficante de influencias",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "actualidad",
+            "corrupción",
+            "montoro",
+            "fraude fiscal",
+            "bufete",
+            "cristiano ronaldo"
+        ],
+        "link": "https://www.meneame.net/story/cristobal-montoro-traficante-influencias",
+        "date": "2025-07-20 00:55:03",
+        "sentiment_score": -0.7359956074506044
+    },
+    {
+        "title": "Tomás de Perrate: \"Soy un hombre de mi tiempo, pero siempre miraré a lo que hicieron mis antepasados\"",
+        "image_url": "https://s1.elespanol.com/2025/07/17/actualidad/1003743851957_257359680_1706x973.jpg?contentId=1003743851957",
+        "tags": [
+            "entrevistas",
+            "flamenco"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/flamenco/20250720/tomas-perrate-hombre-tiempo-siempre-mirare-hicieron-antepasados/1003743851908_0.html",
+        "date": "2025-07-20 00:06:11",
+        "sentiment_score": 0.14244210720062256
+    },
+    {
+        "title": "Se busca un 'hogar' para los misteriosos restos esparcidos por el monte de El Pardo que un día fueron una iglesia-hospital de pedigrí en la calle Princesa",
+        "image_url": "https://phantom-elmundo.uecdn.es/8195674c40ad44c3e6856531bcf8fb15/crop/86x36/726x676/f/image/jpeg/assets/multimedia/imagenes/2022/03/21/16478803395824.jpg",
+        "tags": [
+            "madrid",
+            "artículos carlos guisasola"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/07/20/687abe95fdddff950f8b4580.html",
+        "date": "2025-07-19 23:31:29",
+        "sentiment_score": 0.1724659949541092
+    },
+    {
+        "title": "2a PARTE | 19 JUL 2025 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/2a-parte-19-jul-2025-juego-20250720_3188065.html",
+        "date": "2025-07-19 22:42:25",
+        "sentiment_score": -0.0037856511771678925
+    },
+    {
+        "title": "Cerilla en la Babel de Murcia",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/19/687bea51b9d4a.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/250720/2054616/cerilla-babel-murcia.html",
+        "date": "2025-07-20 01:30:00",
+        "sentiment_score": 0.21313294023275375
+    },
+    {
+        "title": "Tecnología para evitar otro apagón: convertir los coches eléctricos en la batería más grande del mundo es la clave",
+        "image_url": "https://s1.elespanol.com/2025/07/16/actualidad/1003743851005_257342532_1706x960.jpg?contentId=1003743851005",
+        "tags": [
+            "baterías coche eléctrico",
+            "movilidad",
+            "energía",
+            "baterías",
+            "startup",
+            "startups",
+            "tecnología"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250720/tecnologia-evitar-apagon-convertir-coches-electricos-bateria-grande-mundo-clave/1003743850993_0.html",
+        "date": "2025-07-20 01:12:49",
+        "sentiment_score": 0.5873233377933502
+    },
+    {
+        "title": "Peleas y ajustes de cuentas: repuntan los crímenes con armas blancas en este inicio de verano",
+        "image_url": "https://phantom-elmundo.uecdn.es/c8960417ed23b19cba2bd8b74e5ced05/crop/2x0/998x997/f/image/jpeg/assets/multimedia/imagenes/2023/12/28/17037819584998.jpg",
+        "tags": [
+            "artículos cristina rubio"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/07/20/687bed8e21efa0ad3a8b45a7.html",
+        "date": "2025-07-20 01:07:20",
+        "sentiment_score": -0.868971579708159
+    },
+    {
+        "title": "El Gobierno estudia subir de 5 a 6 años la duración de la carrera de Veterinaria para adaptarla a la UE y reducir la \"sobrecarga docente\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/91bb3bada9f31695a868b9a67342276c/crop/717x297/2171x1751/f/image/jpeg/assets/multimedia/imagenes/2025/05/19/17476804195945.jpg",
+        "tags": [
+            "universidades",
+            "educación",
+            "artículos olga r. sanmartín",
+            "selectividad",
+            "diana morant",
+            "universidad complutense",
+            "pau"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/07/20/687b5f58e85ece2d208b456d.html",
+        "date": "2025-07-20 01:07:20",
+        "sentiment_score": -0.8725618245080113
+    },
+    {
+        "title": "Nueva Caledonia no era Cataluña: Manuel Valls firma la paz con los kanakos y dice que la comparación \"es una estafa\"",
+        "image_url": "https://s1.elespanol.com/2025/07/18/actualidad/1003743854887_257416040_1706x960.jpg?contentId=1003743854887",
+        "tags": [
+            "política",
+            "nueva caledonia",
+            "manuel valls",
+            "carles puigdemont",
+            "nacionalismo"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250720/nueva-caledonia-no-cataluna-manuel-valls-firma-paz-kanakos-dice-comparacion-estafa/1003743853693_0.html",
+        "date": "2025-07-20 01:05:51",
+        "sentiment_score": -0.6485019102692604
+    },
+    {
+        "title": "Juan Lobato: \"Un Gobierno que no quiere presentar Presupuestos del Estado no tiene mucha razón de ser\"",
+        "image_url": "https://s1.elespanol.com/2025/07/16/actualidad/1003743851177_257345774_1706x960.jpg?contentId=1003743851177",
+        "tags": [
+            "política",
+            "psoe (partido socialista obrero español)",
+            "entrevistas",
+            "pedro sánchez",
+            "hablando sobre españa"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250720/juan-lobato-gobierno-no-quiere-presentar-presupuestos-mucha-razon/1003743850568_0.html",
+        "date": "2025-07-20 01:05:24",
+        "sentiment_score": -0.13730782270431519
+    },
+    {
+        "title": "Gerard Piqué y Clara Chía reaparecen juntos: así muestran su romántica escapada por Estados Unidos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/gerard-pique-y-clara-chia-reaparecen-juntos-asi-muestran-su-romantica-escapada-por-ee-uu--202571921450",
+        "date": "2025-07-20 01:04:27",
+        "sentiment_score": 0.10853641480207443
+    },
+    {
+        "title": "En el corazón de Radisson: así es cómo desde Madrid la cadena fija precios o compra un hotel en cualquier parte del mundo",
+        "image_url": "https://s1.elespanol.com/2025/07/17/actualidad/1003743852439_257369190_1706x960.jpg?contentId=1003743852439",
+        "tags": [
+            "turismo",
+            "madrid",
+            "hotel radisson blu",
+            "hoteles"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20250720/corazon-radisson-madrid-cadena-fija-precios-compra-hotel-cualquier-parte-mundo/1003743845988_0.html",
+        "date": "2025-07-20 01:01:23",
+        "sentiment_score": 0.6381936818361282
+    },
+    {
+        "title": "Los peligros del exceso de magnesio: expertos alertan por males para tu sistema digestivo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752977463732/primer-plano-de-la-mano-de-una-mujer-tomando-medicina.jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/los-peligros-del-exceso-de-magnesio-expertos-alertan-por-males-para-tu-sistema-digestivo-202571922150",
+        "date": "2025-07-20 02:15:00",
+        "sentiment_score": 0.20495115220546722
+    },
+    {
+        "title": "Árbol de Ceiba cae sobre una vivienda en Anzoátegui este 19 de julio: no se reportan fallecidos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752977431913/image.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/arbol-de-ceiba-cae-sobre-una-vivienda-en-anzoategui-este-19-de-julio-no-se-reportan-fallecidos-202571920170",
+        "date": "2025-07-20 02:11:00",
+        "sentiment_score": -0.49712463468313217
+    },
+    {
+        "title": "Entregan bienes incautados a organismos de seguridad del país: son más de 100 vehículos y 3 aeronaves",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/entregan-bienes-incautados-a-organismos-de-seguridad-del-pais-son-mas-de-100-vehiculos-y-3-aeronaves-20257192280",
+        "date": "2025-07-20 02:08:00",
+        "sentiment_score": -0.8278073854744434
+    },
+    {
+        "title": "El secreto mejor guardado de los salones de belleza: los tres mejores productos naturales para hacer mascarillas faciales en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752768757617/Captura%20de%20pantalla%202025-07-17%20a%20la(s)%2012.12.26%20p.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/el-secreto-mejor-guardado-de-los-salones-de-belleza-los-tres-mejores-productos-naturales-para-hacer-mascarillas-faciales-en-casa-20257192200",
+        "date": "2025-07-20 02:00:00",
+        "sentiment_score": -0.246036134660244
+    },
+    {
+        "title": "Metro de Nueva York tiene prohibida esta práctica para inmigrantes dentro de sus instalaciones: puede ir detenido",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/metro-de-nueva-york-tiene-prohibida-esta-practica-para-inmigrantes-dentro-de-sus-instalaciones-puede-ir-detenido-20257192200",
+        "date": "2025-07-20 02:00:00",
+        "sentiment_score": -0.7790035884827375
+    },
+    {
+        "title": "Foro Penal difunde lista de excarcelaciones del 18 de julio: han verificado un total de 35",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/foro-penal-difunde-lista-de-excarcelaciones-del-18-de-julio-han-verificado-un-total-de-35-202571921460",
+        "date": "2025-07-20 01:46:00",
+        "sentiment_score": -0.4773257300257683
+    },
+    {
+        "title": "Muere el creador de las icónicas alas de Victoria’s Secret: esta es la causa del deceso",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752974776085/image.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/farandula/muere-el-creador-de-las-iconicas-alas-de-victoria-s-secret-esta-es-la-causa-del-deceso-202571921370",
+        "date": "2025-07-20 01:37:00",
+        "sentiment_score": 0.45956913009285927
+    },
+    {
+        "title": "Aterrizaje de emergencia en Los Ángeles este 19 de julio: el avión pertenece a Delta Air Lines",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/aterrizaje-de-emergencia-en-los-angeles-este-19-de-julio-el-avion-pertenece-a-delta-air-lines-202571920150",
+        "date": "2025-07-20 01:15:00",
+        "sentiment_score": -0.13957267999649048
+    },
+    {
+        "title": "Combate la pancreatitis con esta planta antinflamatoria: así debes consumirla para aprovecharla al máximo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752973322062/taza-de-te-con-hojas.jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/combate-la-pancreatitis-con-esta-planta-antinflamatoria-asi-debes-consumirla-para-aprovecharla-al-maximo-202571921100",
+        "date": "2025-07-20 01:10:00",
+        "sentiment_score": -0.6550672352313995
     }
 ];
