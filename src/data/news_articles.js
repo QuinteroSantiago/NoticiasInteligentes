@@ -147,16 +147,6 @@ export default [
         "sentiment_score": -0.06937241554260254
     },
     {
-        "title": "El Reino Unido reduce la edad mínima para votar en las elecciones generales a 16 años",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/17/ukelectiones-kfMB-U701304924971uhB-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/reino-unido-reduce-edad-minima-votar-elecciones-20250717125335-nt.html",
-        "date": "2025-07-17 10:53:35",
-        "sentiment_score": 0.06821990013122559
-    },
-    {
         "title": "El Parlament de Cataluña reprueba al Govern por los problemas en las infraestructuras",
         "image_url": "https://imagenes.elpais.com/resizer/v2/7YHMOINLDB2HR4BJUPBJVC7TDY.jpg?auth=c9fb34f2f4578c2a883d5bc316f2c13a7b5388a9693662651d3149f054275406&width=1200",
         "tags": [
@@ -8156,5 +8146,489 @@ export default [
         "link": "https://2001online.com/usa/servicios/atencion-mexicano-en-eeuu-evite-el-impuesto-de-1-de-las-remesas-con-esta-herramienta-asi-puedes-obtenerla-20257201750",
         "date": "2025-07-20 21:05:00",
         "sentiment_score": 0.15171660110354424
+    },
+    {
+        "title": "Predicción del clima en Málaga para antes de salir de casa este 21 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "tiempo en españa",
+            "españa sociedad",
+            "málaga",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/21/prediccion-del-clima-en-malaga-para-antes-de-salir-de-casa-este-21-de-julio/",
+        "date": "2025-07-21 02:17:19",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Pronóstico del clima en Madrid este 21 de julio: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/A4CTAZD3GFDMJNQ4NSZYVNJDMI.jpg?auth=14611cb258083455447aff3018211c7b74524d67abb1c532ffdc44e73902891c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "madrid",
+            "noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/21/pronostico-del-clima-en-madrid-este-21-de-julio-temperatura-lluvias-y-viento/",
+        "date": "2025-07-21 01:31:47",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Mueren dos personas tras ser arrolladas por el Alvia de Madrid en Moriscos (Salamanca)",
+        "image_url": "https://www.infobae.com/resizer/v2/IFI6BZ4N2FG4LCNKZFPRDTVNFE.jpeg?auth=fc025814fdb219bc13ff710499a85354bf66656027efd6195df636f308d00dd1&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "salamanca españa",
+            "efe",
+            "castilla y león",
+            "accidente",
+            "agencias",
+            "madrid",
+            "alvia",
+            "viajes en tren",
+            "españa-nacional",
+            "guardia civil",
+            "trenes",
+            "tren",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/21/mueren-dos-personas-tras-ser-arrolladas-por-el-alvia-de-madrid-en-moriscos-salamanca/",
+        "date": "2025-07-21 01:18:11",
+        "sentiment_score": -0.218744445592165
+    },
+    {
+        "title": "Ranking Netflix: estas son las películas favoritas del público español",
+        "image_url": "https://www.infobae.com/resizer/v2/OF5EMOTUMFDI3PH7EMHYN7H72E.jpg?auth=020a872697c6a572b54c51b637fb0725d510834f7efb3ca1d0b530a138a5004c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "españa-televisión",
+            "noticias",
+            "netflix",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/20/ranking-netflix-estas-son-las-peliculas-favoritas-del-publico-espanol/",
+        "date": "2025-07-20 23:30:58",
+        "sentiment_score": 0.21778477728366852
+    },
+    {
+        "title": "K-pop en iTunes: las 10 canciones más adictivas en España",
+        "image_url": "https://www.infobae.com/resizer/v2/A4YD263FHRD7NI3APILFFDKBP4.jpg?auth=0820a7bac32d87558aad9d98dc33ea718a5cffe2c4d43337554ca135afe7c7b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa",
+            "itunes",
+            "k-pop",
+            "streaming",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/20/k-pop-en-itunes-las-10-canciones-mas-adictivas-en-espana/",
+        "date": "2025-07-20 23:15:24",
+        "sentiment_score": 0.04895460605621338
+    },
+    {
+        "title": "Sánchez promete a Junts y ERC una singularidad nuclear catalana",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/21/sanchezjunts-RphdT7CGIvGyIQMd0gVcV7J-1200x840@diario_abc.jpg",
+        "tags": [
+            "partido socialista obrero español (psoe)",
+            "partido popular (pp)",
+            "junts per catalunya",
+            "cataluña",
+            "esquerra republicana",
+            "congreso de los diputados",
+            "unión europea",
+            "pedro sánchez"
+        ],
+        "link": "https://www.abc.es/economia/sanchez-promete-junts-erc-singularidad-nuclear-catalana-20250721194626-nt.html",
+        "date": "2025-07-21 02:05:05",
+        "sentiment_score": -0.07215413451194763
+    },
+    {
+        "title": "Junts y ERC luchan ahora por la singularidad nuclear",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/07/17/bar-granada-arrasa-quintillos-un-euro-kUlC--170x119@Ideal.jpg",
+        "tags": [
+            "extremadura",
+            "junts per catalunya",
+            "cataluña",
+            "editoriales de abc",
+            "energías renovables",
+            "pedro sánchez",
+            "españa"
+        ],
+        "link": "https://www.abc.es/opinion/junts-erc-luchan-singularidad-nuclear-20250721183902-nt.html",
+        "date": "2025-07-21 02:04:51",
+        "sentiment_score": -0.15646539628505707
+    },
+    {
+        "title": "El largo camino sobre los datos de la delincuencia común",
+        "image_url": "https://static.grupojoly.com/clip/99c69afc-c659-4778-ac49-fa2f1f20f8f7_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/camino-datos-delincuencia-comun_0_2004381749.html",
+        "date": "2025-07-21 02:01:34",
+        "sentiment_score": -0.12520956993103027
+    },
+    {
+        "title": "Las sombras de Greif",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3396633.jpg",
+        "tags": [
+            "fútbol",
+            "dominik greif",
+            "real mallorca",
+            "laliga",
+            "última hora",
+            "ultimas noticias",
+            "primera división",
+            "rcd mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/07/21/2434269/sombras-greif.html",
+        "date": "2025-07-21 02:00:01",
+        "sentiment_score": -0.09833976626396179
+    },
+    {
+        "title": "La solución para no morir de éxito",
+        "image_url": "https://uh.gsstatic.es/autor/miguel-angel-borras/11507.png",
+        "tags": [
+            "medio de comunicación",
+            "prensa digital",
+            "artículos de opinión",
+            "grupo serra",
+            "tribuna"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/07/21/2434179/solucion-para-morir-exito.html",
+        "date": "2025-07-21 02:00:01",
+        "sentiment_score": 0.02402728796005249
+    },
+    {
+        "title": "Victoria Beckham reaccionó al fallido cambio de look de David Beckham",
+        "image_url": "https://www.infobae.com/resizer/v2/3LUARJZZT5CTHMYZSTQPYSUSXA.jpg?auth=3e9f63462788c261d8f2243485024a95be3131e3f71f33e6d926065e37bbc217&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cambio de look",
+            "david beckham",
+            "victoria beckham"
+        ],
+        "link": "https://www.infobae.com/entretenimiento/2025/07/21/victoria-beckham-reacciono-al-fallido-cambio-de-look-de-david-beckham/",
+        "date": "2025-07-21 01:40:36",
+        "sentiment_score": -0.6079166047275066
+    },
+    {
+        "title": "Compromís, 7 años de apoyo infructuoso a Sánchez: pactó la financiación valenciana y solo avanza el cupo catalán",
+        "image_url": "https://s1.elespanol.com/2025/07/20/actualidad/1003743855809_257432259_1706x960.jpg?contentId=1003743855809",
+        "tags": [
+            "financiación autonómica",
+            "economía",
+            "valencia",
+            "comunidad valenciana"
+        ],
+        "link": "https://www.elespanol.com/valencia/economia/20250721/compromis-anos-apoyo-infructuoso-sanchez-pacto-financiacion-valenciana-solo-avanza-cupo-catalan/1003743855797_0.html",
+        "date": "2025-07-21 00:30:36",
+        "sentiment_score": -0.6893827430903912
+    },
+    {
+        "title": "Las dos caras de la financiación autonómica: cupo para Cataluña y deuda para la Comunidad Valenciana",
+        "image_url": "https://phantom-elmundo.uecdn.es/93bef698e89b8cdcc04ff4e50379a4aa/crop/230x108/1268x1147/f/image/jpeg/assets/multimedia/imagenes/2022/03/21/16478812024559.jpg",
+        "tags": [
+            "jordi pujol",
+            "maría jesús montero",
+            "dana",
+            "agencia tributaria",
+            "pedro sánchez",
+            "felipe gonzález",
+            "artículos gerard melgar",
+            "psc",
+            "impuestos",
+            "ximo puig",
+            "erc",
+            "diana morant",
+            "ciu",
+            "salvador illa",
+            "artículos noa de la torre",
+            "psoe",
+            "carlos mazón",
+            "irpf"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/07/21/687a73e1fc6c83f5778b45c7.html",
+        "date": "2025-07-21 00:22:28",
+        "sentiment_score": -0.5749733448028564
+    },
+    {
+        "title": "Puertas abiertas al ascenso de Vox",
+        "image_url": "https://phantom-elmundo.uecdn.es/2d2aea672efc6ef80cffece682b88885/crop/557x95/2385x1923/f/image/jpeg/assets/multimedia/imagenes/2025/01/28/17380869392890.jpg",
+        "tags": [
+            "artículos roberto benito"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/07/21/687d0921e4d4d83c508b45a5.html",
+        "date": "2025-07-21 00:22:26",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Guerra sin cuartel entre las CCAA por los puntos de acceso a la red: inversiones industriales, centros de datos y vivienda, en el aire",
+        "image_url": "https://s1.elespanol.com/2025/06/13/actualidad/1003743803642_256447183_1706x960.jpg?contentId=1003743803642",
+        "tags": [
+            "inteligencia artificial",
+            "vivienda",
+            "energía",
+            "unef",
+            "empresas",
+            "energía fotovoltaica"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20250720/guerra-sin-cuartel-ccaa-puntos-acceso-red-inversiones-industriales-centros-datos-vivienda-aire/1003743854031_0.html",
+        "date": "2025-07-20 23:23:17",
+        "sentiment_score": 0.5332983285188675
+    },
+    {
+        "title": "Lorenzo Caprile: “Las mujeres y los gais se entienden tan bien porque no hay competencia. Todos buscamos lo mismo\"",
+        "image_url": "https://s1.elespanol.com/2025/07/18/actualidad/1003743853112_257382440_1706x1280.jpg?contentId=1003743853112",
+        "tags": [
+            "protagonistas",
+            "naty abascal",
+            "belleza",
+            "lorenzo caprile",
+            "feminismo",
+            "esperanza aguirre",
+            "moda"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20250720/lorenzo-caprile-mujeres-gais-entienden-bien-no-competencia-buscamos-mismo/1003743853111_0.html",
+        "date": "2025-07-20 23:00:29",
+        "sentiment_score": -0.9467495428398252
+    },
+    {
+        "title": "Juan Avellaneda: \"Tengo terapeuta. Si no, estaría como una cabra. Tras el susto que tuve, te cambia el chip\"",
+        "image_url": "https://s1.elespanol.com/2025/07/18/actualidad/1003743854082_257399841_1706x960.jpg?contentId=1003743854082",
+        "tags": [
+            "tamara falcó",
+            "salud",
+            "reina letizia",
+            "entrevistas",
+            "famosos",
+            "felipe vi"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20250720/juan-avellaneda-terapeuta-no-cabra-susto-cambia-chip/1003743854052_0.html",
+        "date": "2025-07-20 22:43:53",
+        "sentiment_score": -0.1355418562889099
+    },
+    {
+        "title": "La cesión del Vivarium para la bioincubadora será de diez años",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fdd58a1f-9ed4-47f4-9ad1-e60bf8c468ac_16-9-aspect-ratio_default_0_x773y1063.jpg",
+        "tags": [
+            "empresas",
+            "españa",
+            "alcalde",
+            "diez años"
+        ],
+        "link": "https://www.lne.es/oviedo/la-corredoria/2025/07/21/cesion-vivarium-bioincubadora-sera-diez-119895006.html",
+        "date": "2025-07-21 02:10:00",
+        "sentiment_score": 0.11018066108226776
+    },
+    {
+        "title": "De Mieres a la ONU para demostrar que \"la biomasa es el nuevo petróleo\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ae236f31-66da-4111-94ea-77c24cb6040e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "petróleo",
+            "fundación la caixa",
+            "ies",
+            "onu",
+            "estudiantes"
+        ],
+        "link": "https://www.lne.es/cuencas/2025/07/21/mieres-onu-demostrar-biomasa-nuevo-119890886.html",
+        "date": "2025-07-21 02:10:00",
+        "sentiment_score": 0.2933478355407715
+    },
+    {
+        "title": "‘Magic’ Johnson regresa a Mallorca para pasar unas vacaciones en familia",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3395941.jpg",
+        "tags": [
+            "sociedad",
+            "magic johnson",
+            "última hora",
+            "tendencias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/07/21/2434063/magic-johnson-regresa-mallorca-para-pasar-unas-vacaciones-familia.html",
+        "date": "2025-07-21 02:00:01",
+        "sentiment_score": 0.15603649616241455
+    },
+    {
+        "title": "El CB Es Castell pone sus ojos en EE.UU y ficha a Guillem Garcia",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3396357.jpg",
+        "tags": [
+            "cb es castell",
+            "sa tintina es castell",
+            "baloncesto"
+        ],
+        "link": "https://www.menorca.info/deportes/baloncesto/2025/07/21/2434149/castell-pone-ojos-ficha-guillem-garcia.html",
+        "date": "2025-07-21 02:00:01",
+        "sentiment_score": 0.2687866631895304
+    },
+    {
+        "title": "El campus del Barça se estrena en Menorca con poco tirón",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3396515.jpg",
+        "tags": [
+            "fútbol en menorca",
+            "fútbol"
+        ],
+        "link": "https://www.menorca.info/deportes/futbol/2025/07/21/2434237/campus-del-barca-estrena-menorca-poco-tiron.html",
+        "date": "2025-07-21 02:00:01",
+        "sentiment_score": -0.08767151832580566
+    },
+    {
+        "title": "¿Cuánto cobrará Marcus Rashford en el FC Barcelona?",
+        "image_url": "https://pxcdn.meridiano.net/072025/1753062467725.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/usa/futbol/cuanto-cobrara-marcus-rashford-en-el-fc-barcelona--202572021500",
+        "date": "2025-07-21 01:50:00",
+        "sentiment_score": -0.8371233325451612
+    },
+    {
+        "title": "El rapero Bnet campeón de España reivindicando a León",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/20/687d180d5a6f6.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250721/2054651/rapero-bnet-campeon-espana-reivindicando-leon.html",
+        "date": "2025-07-21 01:30:00",
+        "sentiment_score": 0.7018583342432976
+    },
+    {
+        "title": "Las dos leyendas del deporte con las que Mascherano comparó a Messi tras su gran actuación en la goleada del Inter Miami",
+        "image_url": "https://www.infobae.com/resizer/v2/VLPQE5MPSRHIBJNF3XGLXJJ3FQ.jpg?auth=25322a13e442a750b78de478d61b322d5d4355b5b8fe2c9cc4777ce8e6dd2a08&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "lionel messi",
+            "deportes-argentina",
+            "deportes-internacional",
+            "inter miami",
+            "mls",
+            "michael jordan",
+            "rafael nadal",
+            "javier mascherano"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/21/las-dos-leyendas-del-deporte-con-las-que-mascherano-comparo-a-messi-tras-su-gran-actuacion-en-la-goleada-del-inter-miami/",
+        "date": "2025-07-21 01:20:13",
+        "sentiment_score": 0.22727647423744202
+    },
+    {
+        "title": "Profecía novelada",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "profecia",
+            "novelada"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/profecia-novelada_0_2004416270.html",
+        "date": "2025-07-21 01:08:53",
+        "sentiment_score": -0.06289398670196533
+    },
+    {
+        "title": "Predicciones de la semana del 21 al 27 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752853034056.webp?ch=720&cw=1280&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-21-al-27-de-julio--20257202200",
+        "date": "2025-07-21 02:00:00",
+        "sentiment_score": -0.050962597131729126
+    },
+    {
+        "title": "¡Ni melón ni durazno! Estos son los secretos de las frutas más nutritivas del mundo: es importante el aporte de fibra a tu cuerpo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752866644849.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/ni-melon-ni-durazno-estos-son-los-secretos-de-las-frutas-mas-nutritivas-del-mundo-es-importante-el-aporte-de-fibra-a-tu-cuerpo-20257202200",
+        "date": "2025-07-21 02:00:00",
+        "sentiment_score": 0.32107800245285034
+    },
+    {
+        "title": "La razón más común del fracaso de las dietas: ¿Qué tanto pesa tu predisposición a los regímenes alimenticios?",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753062663102.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/la-razon-mas-comun-del-fracaso-de-las-dietas-que-tanto-pesa-tu-predisposicion-a-los-regimenes-alimenticios--202572021550",
+        "date": "2025-07-21 01:55:00",
+        "sentiment_score": 0.46518389880657196
+    },
+    {
+        "title": "Extraditan a 'Fito' el narco a EEUU desde Ecuador: es el capo de la banda criminal más antigua",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753062494408.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "&#x27;fito el narco&#x27;",
+            "eeuu",
+            "internacionales",
+            "ecuador"
+        ],
+        "link": "https://2001online.com/usa/internacionales/extraditan-a-fito-el-narco-a-eeuu-desde-ecuador-es-el-capo-de-la-banda-criminal-mas-antigua-202572021480",
+        "date": "2025-07-21 01:48:00",
+        "sentiment_score": -0.5986458845436573
+    },
+    {
+        "title": "Alerta por diabetes precoz y problemas respiratorios: afamado médico de Maryland pide eliminar ya estas comidas entre los niños",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753060865274.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/alerta-por-diabetes-precoz-y-problemas-respiratorios-afamado-medico-de-maryland-pide-eliminar-ya-estas-comidas-entre-los-ninos-202572021350",
+        "date": "2025-07-21 01:35:00",
+        "sentiment_score": 0.43206629157066345
+    },
+    {
+        "title": "Ni el Cheddar ni el Brie: estos son los quesos más sanos que puedes consumir para proteger tu organismo con el mejor menú",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753059309583.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/ni-el-cheddar-ni-el-brie-estos-son-los-quesos-mas-sanos-que-puedes-consumir-para-proteger-tu-organismo-con-el-mejor-menu-202572021150",
+        "date": "2025-07-21 01:15:00",
+        "sentiment_score": 0.6570853181183338
+    },
+    {
+        "title": "¡Alarma en Estados Unidos! Aumenta la sextorsión digital: usan IA para simular fotos íntimas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753060754600.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "internacionales",
+            "sextorsión digital",
+            "desnudos con ia",
+            "incremento de casos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/alarma-en-estados-unidos-aumenta-la-sextorsion-digital-usan-ia-para-simular-fotos-intimas-202572021140",
+        "date": "2025-07-21 01:14:00",
+        "sentiment_score": -0.9356074156239629
+    },
+    {
+        "title": "Paulina Rubio desmiente los rumores: esto dijo sobre la custodia de su hijo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753060330665.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "colate",
+            "farandula",
+            "paulina rubio"
+        ],
+        "link": "https://2001online.com/farandula/paulina-rubio-desmiente-los-rumores-esto-dijo-sobre-la-custodia-de-su-hijo-202572021100",
+        "date": "2025-07-21 01:10:00",
+        "sentiment_score": -0.05871254950761795
+    },
+    {
+        "title": "Wendy Guevara quiere volver a la Casa de Los Famosos: esto es lo que dijo la ganadora del reality",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753059902678.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "farandula",
+            "wendy guevara",
+            "la casa de los famosos"
+        ],
+        "link": "https://2001online.com/farandula/wendy-guevara-quiere-volver-a-la-casa-de-los-famosos-esto-es-lo-que-dijo-la-ganadora-del-reality-20257202130",
+        "date": "2025-07-21 01:03:00",
+        "sentiment_score": 0.7062908448278904
+    },
+    {
+        "title": "Clásico Gaceta Hípica en su tercera edición: Bella del Cielo se impone en La Rinconada",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753059642558.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bella del cielo",
+            "deportes",
+            "gaceta hípica",
+            "clásico gaceta hípica"
+        ],
+        "link": "https://2001online.com/deportes/clasico-gaceta-hipica-en-su-tercera-edicion-bella-del-cielo-se-impone-en-la-rinconada-20257202110",
+        "date": "2025-07-21 01:01:00",
+        "sentiment_score": 0.5640589781105518
     }
 ];
