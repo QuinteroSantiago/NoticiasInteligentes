@@ -179,20 +179,6 @@ export default [
         "sentiment_score": -0.8905292516574264
     },
     {
-        "title": "Estos son los emoticonos que mejor funcionan para ligar en Tinder",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/07/18/tinder-R7SAKXURHPsHav29ikdYFXN-1200x840@diario_abc.JPG",
-        "tags": [
-            "funcionan",
-            "emoticonos",
-            "mejor",
-            "tinder",
-            "ligar"
-        ],
-        "link": "https://www.abc.es/tecnologia/emoticonos-mejor-funcionan-ligar-tinder-20250718122153-nt.html",
-        "date": "2025-07-18 10:21:54",
-        "sentiment_score": -0.06254172325134277
-    },
-    {
         "title": "Illa activa la elaboración de los Presupuestos en respuesta a los plantes de sus socios",
         "image_url": "https://imagenes.elpais.com/resizer/v2/D3KNLPCFDNBRBNZC7IZASANOBY.jpg?auth=57bbabb36672b9620426e56da58a82338a98747e0ad40a0fae9342ade4a72a1f&width=1200",
         "tags": [
@@ -349,22 +335,6 @@ export default [
         "link": "https://elpais.com/sociedad/2025-07-18/espana-vuelve-a-detectar-un-foco-de-gripe-aviar-en-una-granja-de-pavos-de-badajoz-tras-mas-de-dos-anos-sin-incidencia.html",
         "date": "2025-07-18 14:57:53",
         "sentiment_score": 0.01967465877532959
-    },
-    {
-        "title": "El Constitucional no ve urgente resolver sobre la petición de Puigdemont para que levante su orden de detención en España",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NNAV3Z7FL2VR2PL5SGR6NEFFII.jpg?auth=eebf7bb131b81d0adc94413dc881b75b0c8364642d7073f2c2e8d2ae7178e4a8&width=1200",
-        "tags": [
-            "españa",
-            "juntsxcat",
-            "justicia",
-            "cataluña",
-            "independentismo",
-            "carles puigdemont",
-            "tribunal constitucional"
-        ],
-        "link": "https://elpais.com/espana/2025-07-18/el-constitucional-no-ve-urgente-resolver-sobre-la-peticion-de-puigdemont-para-que-levante-su-orden-de-detencion-en-espana.html",
-        "date": "2025-07-18 14:08:28",
-        "sentiment_score": -0.06436832994222641
     },
     {
         "title": "Jude Bellingham, optimista tras su operación: «Volveré pronto»",
@@ -8419,5 +8389,451 @@ export default [
         "link": "https://2001online.com/agenda-empresarial/la-deseada-arsen-ii-200-de-empire-keeway-vuelve-repotenciada-20257211750",
         "date": "2025-07-21 21:05:00",
         "sentiment_score": 0.45336861349642277
+    },
+    {
+        "title": "Previsión meteorológica del estado del tiempo en Málaga para este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/MLF732S2QRFAZPVV3UYAGHVFX4.jpg?auth=e324eaf2380074aecb5a4fae8aad77a416949bed391eabc88700301daee388db&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "tiempo en españa",
+            "málaga",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/22/prevision-meteorologica-del-estado-del-tiempo-en-malaga-para-este-22-de-julio/",
+        "date": "2025-07-22 02:16:21",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Miles de personas se manifiestan en Murcia para dejar claro que “la Región no es racista” y abogan por la convivencia",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3376",
+        "tags": [
+            "murcia",
+            "anti racismo",
+            "manifestacion",
+            "racismo",
+            "españa-nacional",
+            "torre pacheco",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/22/miles-de-personas-se-manifiestan-en-murcia-para-dejar-claro-que-la-region-no-es-racista-y-abogan-por-la-convivencia/",
+        "date": "2025-07-22 01:55:12",
+        "sentiment_score": -0.07971595227718353
+    },
+    {
+        "title": "Icetex lanzó 495 becas virtuales para colombianos en alianza con España: así puede participar",
+        "image_url": "https://www.infobae.com/resizer/v2/WOVXV5EU2ZD3DIYUEUA2BAGKY4.jpg?auth=2dab72d90895257db03175d3ae49ecda722895e9919ffbf7792ce263f4cd30f0&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "becas icetex",
+            "colombia-noticias",
+            "cursos virtuales icetex",
+            "cursos icetex",
+            "colombia-servicios",
+            "becas en españa",
+            "becas para colombianos"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/07/22/icetex-lanzo-495-becas-virtuales-para-colombianos-en-alianza-con-espana-asi-puede-participar/",
+        "date": "2025-07-22 01:45:22",
+        "sentiment_score": 0.61872299015522
+    },
+    {
+        "title": "Temperaturas en Madrid: prepárate antes de salir de casa",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa sociedad",
+            "madrid",
+            "noticias",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/22/temperaturas-en-madrid-preparate-antes-de-salir-de-casa/",
+        "date": "2025-07-22 01:30:57",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Predicción del clima en Barcelona para antes de salir de casa este 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/A4CTAZD3GFDMJNQ4NSZYVNJDMI.jpg?auth=14611cb258083455447aff3018211c7b74524d67abb1c532ffdc44e73902891c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa sociedad",
+            "noticias",
+            "barcelona",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/22/prediccion-del-clima-en-barcelona-para-antes-de-salir-de-casa-este-22-de-julio/",
+        "date": "2025-07-22 01:17:37",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "El Gobierno aprobará este martes el Proyecto de Ley de Información Clasificada",
+        "image_url": "https://www.infobae.com/resizer/v2/4ZJ3IYBZUJHSBBD66KOSVCFRTM.jpg?auth=670b5da4c43fa8d79c816da5aaffbea097c9c25d7848b7ad5fd6583107753c3f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "consejo de ministros espana",
+            "españa-nacional",
+            "españa-noticias",
+            "proyecto de ley",
+            "congreso de los diputados espana",
+            "informacion clasificada",
+            "congreso de los diputados"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/22/el-gobierno-aprobara-este-martes-el-proyecto-de-ley-de-informacion-clasificada/",
+        "date": "2025-07-22 00:16:38",
+        "sentiment_score": -0.0187947079539299
+    },
+    {
+        "title": "San Sebastián de La Gomera se lleva la victoria en el tercer programa de ‘Grand Prix del Verano’: la máxima participación de los padrinos lleva a una final aplastante",
+        "image_url": "https://www.infobae.com/resizer/v2/5BCZP2W5DRCATJJOFK52WG2UUA.jpg?auth=21b498c1c9ac8c16936752eead1027cc39d53310af9a0c257ba7908473da35db&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "lidia valentín",
+            "ramón garcía",
+            "j.j vaquero",
+            "zaragoza españa",
+            "programas de televisión",
+            "tve",
+            "canarias",
+            "grand prix del verano",
+            "españa-entretenimiento",
+            "televisión españa",
+            "aragón",
+            "la gomera",
+            "rtve"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/21/san-sebastian-de-la-gomera-se-lleva-la-victoria-en-el-tercer-programa-de-grand-prix-del-verano/",
+        "date": "2025-07-21 22:49:44",
+        "sentiment_score": -0.051120102405548096
+    },
+    {
+        "title": "Crónica de las tres horas que necesitó Barbón para sacar adelante (gracias a la derecha) el acuerdo en la Junta contra el pacto fiscal catalán",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c0d7e964-43ba-4bf5-a881-66cfb948df22_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "psoe",
+            "financiación",
+            "asturias",
+            "financiación autonómica"
+        ],
+        "link": "https://www.lne.es/asturias/2025/07/22/cronica-tres-horas-necesito-barbon-119929989.html",
+        "date": "2025-07-22 02:03:26",
+        "sentiment_score": 0.05399850010871887
+    },
+    {
+        "title": "Financiación 'singular', amenaza directa a la igualdad en España",
+        "image_url": "https://men.gsstatic.es/autor/joan-huguet/11011.png",
+        "tags": [
+            "firmas del día"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/07/22/2434769/financiacion-singular-amenaza-directa-igualdad-espana.html",
+        "date": "2025-07-22 02:00:01",
+        "sentiment_score": 0.3464422672986984
+    },
+    {
+        "title": "Los agricultores denuncian el golpe mortal al trasvase Tajo-Segura: «Estamos ante el Gobierno de la imposición»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/07/13/6873f078804a8.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250722/agricultores-denuncian-golpe-mortal-trasvase-tajosegura-estamos-ante-gobierno-imposicion_316373.html",
+        "date": "2025-07-22 02:00:00",
+        "sentiment_score": -0.7250372618436813
+    },
+    {
+        "title": "Zapato3 desnuda su ‘Corazón fantasma’",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2025/07/ZAPATO3_Album.jpg",
+        "tags": [
+            "fernando batoni",
+            "corazón fantasma",
+            "zapato3",
+            "lo actual",
+            "álbum",
+            "a - modulo 7 - b",
+            "canción"
+        ],
+        "link": "https://correodelcaroni.com/sociedad/actual/zapato3-desnuda-su-corazon-fantasma/",
+        "date": "2025-07-22 01:52:50",
+        "sentiment_score": 0.5042253471910954
+    },
+    {
+        "title": "Se fue de River para buscar oportunidades, explotó en Europa y ahora le dejará al club una fortuna por su venta",
+        "image_url": "https://www.infobae.com/resizer/v2/PZL5GSMRBZGMJMNYSIPO4WTZUY.jpg?auth=4e3aed367d2da8db86edc2ae499382bf996c64fab1e77738c308f180ec8dd88c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-argentina",
+            "joaquin panichelli",
+            "mirandés",
+            "racing de estrasburgo",
+            "river plate"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/22/se-fue-de-river-para-buscar-oportunidades-exploto-en-europa-y-ahora-le-dejara-al-club-una-fortuna-por-su-venta/",
+        "date": "2025-07-22 01:43:09",
+        "sentiment_score": 0.6681677736341953
+    },
+    {
+        "title": "Costarricense Navas termina su etapa en Argentina y emigra a México para enrolarse con Pumas",
+        "image_url": "https://dims.apnews.com/dims4/default/62144c8/2147483647/strip/true/crop/3491x2324+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2F3a%2F707662bd1dc767cf1a250c7b90f3%2Fabec6d054bef479cbe152f2b5a1a2245",
+        "tags": [
+            "sports",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/keylor-navas-pumas-newells-old-boys-54b259bc963a87a0b1e2fada8f869496",
+        "date": "2025-07-22 01:41:17",
+        "sentiment_score": 0.15566426515579224
+    },
+    {
+        "title": "Costarricense Navas termina su etapa en Argentina y emigra a México para enrolarse con Pumas",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/07/DEP-FUT_ARGENTINA-NAVAS_39562.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/07/21/costarricense-navas-termina-su-etapa-en-argentina-y-emigra-a-mxico-para-enrolarse-con-pumas/",
+        "date": "2025-07-22 01:41:17",
+        "sentiment_score": 0.2518303096294403
+    },
+    {
+        "title": "Las Prácticas de Iván en el Máster: \"Jamás imaginé que aprendería tanto al comenzar esta etapa\"",
+        "image_url": "https://s1.elespanol.com/2025/07/21/actualidad/1003743856236_257439162_1706x960.jpg?contentId=1003743856236",
+        "tags": [
+            "educación",
+            "ucjc: universidad camilo josé cela",
+            "periódico el español"
+        ],
+        "link": "https://www.elespanol.com/sociedad/educacion/20250722/practicas-ivan-master-jamas-imagine-aprenderia-comenzar-etapa/1003743856183_0.html",
+        "date": "2025-07-22 01:37:49",
+        "sentiment_score": 0.11309970915317535
+    },
+    {
+        "title": "El Ejército de Tierra prueba una \"segunda piel\" de camuflaje para sus vehículos: así se convertirán en 'invisibles' a los radares",
+        "image_url": "https://s1.elespanol.com/2025/07/18/actualidad/1003743854301_257403447_1706x960.jpg?contentId=1003743854301",
+        "tags": [
+            "ejército de tierra",
+            "observatorio de la defensa",
+            "vehículos militares"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20250722/ejercito-tierra-prueba-segunda-piel-camuflaje-vehiculos-convertiran-invisibles-radares/1003743853288_0.html",
+        "date": "2025-07-22 01:37:45",
+        "sentiment_score": 0.1982835754752159
+    },
+    {
+        "title": "Más allá de Torre Pacheco: las redes que explotan el odio a nivel global",
+        "image_url": "https://media.es.wired.com/photos/687ee0a3bb2b4cd5fd3c9aaa/master/pass/torrepacheco5.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://es.wired.com/articulos/mas-alla-de-torre-pacheco-las-redes-que-explotan-el-odio-a-nivel-global",
+        "date": "2025-07-22 00:55:26",
+        "sentiment_score": -0.9195062844082713
+    },
+    {
+        "title": "La Bonoloto toca en Gran Canaria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/666fb7d4-8b5b-4bc9-9539-1969f15a8bc5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "combinación ganadora",
+            "sorteos",
+            "premios",
+            "bonoloto",
+            "euro"
+        ],
+        "link": "https://www.laprovincia.es/sociedad/2025/07/22/bonoloto-toca-gran-canaria-119931659.html",
+        "date": "2025-07-22 02:09:51",
+        "sentiment_score": 0.5196352787315845
+    },
+    {
+        "title": "Gijoneses y turistas aplauden el inminente comienzo de las obras para reconstruir el refugio de Cimavilla: \"es parte de nuestra historia\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3cebcb12-593c-463a-807c-1f49c0091081_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gente",
+            "cimavilla",
+            "historia",
+            "espacio"
+        ],
+        "link": "https://www.lne.es/gijon/2025/07/22/gijoneses-turistas-aplauden-inminente-comienzo-119930899.html",
+        "date": "2025-07-22 02:03:27",
+        "sentiment_score": -0.07585054636001587
+    },
+    {
+        "title": "Emblemas justos y necesarios para negocios únicos",
+        "image_url": "https://static.grupojoly.com/clip/fc23fc9c-9d1b-4076-8712-3fbbf3533686_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicos",
+            "emblemas",
+            "necesarios",
+            "negocios",
+            "justos"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/emblemas-justos-necesarios-negocios-unicos_0_2004420622.html",
+        "date": "2025-07-22 02:00:13",
+        "sentiment_score": 0.5915516912937164
+    },
+    {
+        "title": "Hay que tener cerebro",
+        "image_url": "https://uh.gsstatic.es/autor/teresa-riera/11311.png",
+        "tags": [
+            "medio de comunicación",
+            "grupo serra",
+            "prensa digital",
+            "tribuna",
+            "artículos de opinión"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/07/22/2434763/hay-tener-cerebro.html",
+        "date": "2025-07-22 02:00:01",
+        "sentiment_score": 0.4708135649561882
+    },
+    {
+        "title": "Que algunos consellers insulares tengan que colocarse debajo de la mesa...",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3398271.jpg",
+        "tags": [
+            "sorprende y no sorprende"
+        ],
+        "link": "https://www.menorca.info/opinion/sorprende-sorprende/2025/07/22/2434985/algunos-consellers-insulares-tengan-colocarse-debajo-mesa.html",
+        "date": "2025-07-22 02:00:01",
+        "sentiment_score": -0.4245506748557091
+    },
+    {
+        "title": "La lucha de Marga Crespí tras ser desheredada: «He impugnado el testamento por mi hijo, sólo quiero justicia»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3398001.jpg",
+        "tags": [
+            "tendencias",
+            "herencia",
+            "sociedad",
+            "maltrato psicológico",
+            "marga crespí",
+            "malos tratos",
+            "última hora",
+            "maltrato",
+            "natación sincronizada"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/07/22/2434801/marga-crespi-desheredada-por-padre-voy-impugnar-testamento-por-hijo.html",
+        "date": "2025-07-22 02:00:01",
+        "sentiment_score": -0.5444509387016296
+    },
+    {
+        "title": "Las nuevas cesiones de Sánchez al independentismo catalán esquilman todavía más a los valencianos",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/07/21/687dd71cc6b44.r_d.1832-520-3390.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250722/nuevas-cesiones-sanchez-independentismo-catalan-esquilman-todavia-valencianos_319034.html",
+        "date": "2025-07-22 02:00:00",
+        "sentiment_score": -0.913154810667038
+    },
+    {
+        "title": "Papá de Lamine Yamal estalla contra las críticas de la megafiesta: Que lo denuncien si hizo algo malo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753149581737.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "farandula",
+            "megafiesta",
+            "lamine yamal"
+        ],
+        "link": "https://2001online.com/farandula/papa-de-lamine-yamal-estalla-contra-las-criticas-de-la-megafiesta-que-lo-denuncien-si-hizo-algo-malo-202572121570",
+        "date": "2025-07-22 01:57:00",
+        "sentiment_score": -0.18930433690547943
+    },
+    {
+        "title": "Danna Paola se cansa y responde a las comparaciones con Karol G: Grandes mentes piensan igual",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753151155607.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "karol g",
+            "danna paola",
+            "farandula"
+        ],
+        "link": "https://2001online.com/farandula/danna-paola-se-cansa-y-responde-a-las-comparaciones-con-karol-g-grandes-mentes-piensan-igual-202572122190",
+        "date": "2025-07-22 02:19:00",
+        "sentiment_score": 0.022824585437774658
+    },
+    {
+        "title": "Retiran del mercado 5 millones de piscinas tras la muerte de 9 niños: esto fue lo que pasó",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753151542146.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "retiran",
+            "piscinas",
+            "mercado",
+            "servicios",
+            "muerte",
+            "niños"
+        ],
+        "link": "https://2001online.com/usa/servicios/retiran-del-mercado-5-millones-de-piscinas-tras-la-muerte-de-9-ninos-esto-fue-lo-que-paso-20257212250",
+        "date": "2025-07-22 02:05:00",
+        "sentiment_score": 0.0333089604973793
+    },
+    {
+        "title": "Anuncian la llegada de dos ondas tropicales al país: la primera ingresará el 22 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753137134965.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "temporada de lluvias",
+            "diario 2001",
+            "vaguadas",
+            "venezuela",
+            "nacionales"
+        ],
+        "link": "https://2001online.com/nacionales/anuncian-la-llegada-de-dos-ondas-tropicales-al-pais-la-primera-ingresara-el-22-de-julio-20257212210",
+        "date": "2025-07-22 02:01:00",
+        "sentiment_score": 0.297943577170372
+    },
+    {
+        "title": "¡Haz milagros por tu salud cardiovascular! Agrega este popular producto al café: una cucharadita será suficiente",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1752864633839.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/haz-milagros-por-tu-salud-cardiovascular-agrega-este-popular-producto-al-cafe-una-cucharadita-sera-suficiente-20257212200",
+        "date": "2025-07-22 02:00:00",
+        "sentiment_score": 0.7241727979853749
+    },
+    {
+        "title": "Mantén los riñones en buen estado: este es el remedio casero más efectivo para limpiarlos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753148824806.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/manten-los-rinones-en-buen-estado-este-es-el-remedio-casero-mas-efectivo-para-limpiarlos-20257212200",
+        "date": "2025-07-22 02:00:00",
+        "sentiment_score": -0.055341437458992004
+    },
+    {
+        "title": "Se disparan precios de las visas en EEUU: esto es lo que deberás pagar por turismo y estudiantes",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753147461109.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "visitante",
+            "visa",
+            "servicios",
+            "tarifa"
+        ],
+        "link": "https://2001online.com/usa/servicios/se-disparan-precios-de-las-visas-en-eeuu-esto-es-lo-que-deberas-pagar-por-turismo-y-estudiantes-20257212200",
+        "date": "2025-07-22 02:00:00",
+        "sentiment_score": -0.05993273854255676
+    },
+    {
+        "title": "La loba cuida de su equipo: bailarina de Shakira revela que reciben apoyo psicológico gratuito",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753148450380.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "farandula",
+            "shakira",
+            "&#x27;las mujeres no lloran&#x27;"
+        ],
+        "link": "https://2001online.com/farandula/la-loba-cuida-de-su-equipo-bailarina-de-shakira-revela-que-reciben-apoyo-psicologico-gratuito-202572121370",
+        "date": "2025-07-22 01:37:00",
+        "sentiment_score": 0.20134222880005836
+    },
+    {
+        "title": "¿Cuánto ha ganado la joven que difundió en redes la infidelidad del CEO en concierto de Coldplay?",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753147289717.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "farandula",
+            "coldplay",
+            "ceo"
+        ],
+        "link": "https://2001online.com/farandula/cuanto-ha-ganado-la-joven-que-difundio-en-redes-la-infidelidad-del-ceo-en-concierto-de-coldplay--202572121180",
+        "date": "2025-07-22 01:18:00",
+        "sentiment_score": 0.6713740341365337
+    },
+    {
+        "title": "¡Todos alertas en EEUU! Los cupones SNAP ya no servirán para comprar estos alimentos: aplica en seis estados",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753147857998.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "acceso a snap",
+            "servicios",
+            "beneficiarios snap"
+        ],
+        "link": "https://2001online.com/usa/servicios/todos-alertas-en-eeuu-los-cupones-snap-ya-no-serviran-para-comprar-estos-alimentos-aplica-en-seis-estados-202572121180",
+        "date": "2025-07-22 01:18:00",
+        "sentiment_score": 0.09054771065711975
     }
 ];
