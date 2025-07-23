@@ -1,234 +1,5 @@
 export default [
     {
-        "title": "Ampliemos el futuro, no los aeropuertos: ni la Llotja ni Tabarca crecerán",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/T5POXGO4WNHKXGHUM4JMLPRBSU.JPG?auth=7e5aff9e014ece60c9f69d5205b2583e975d2fda9df71eb8c912d6789ec3ddd4&width=1200",
-        "tags": [
-            "valencia",
-            "aeropuertos",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "medio ambiente",
-            "turismo"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-19/ampliemos-el-futuro-no-los-aeropuertos-ni-la-llotja-ni-tabarca-creceran.html",
-        "date": "2025-07-19 05:24:28",
-        "sentiment_score": -0.015436381101608276
-    },
-    {
-        "title": "Un hombre de 36 años herido grave por arma blanca en el distrito de Villaverde (Madrid)",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250719083349_120.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.europapress.es/madrid/noticia-hombre-36-anos-herido-grave-arma-blanca-distrito-villaverde-madrid-20250719081102.html",
-        "date": "2025-07-19 06:33:49",
-        "sentiment_score": -0.8202578099444509
-    },
-    {
-        "title": "El Teatro Real retransmitirá 'La traviata' en diferentes pueblos de España este sábado",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250719083251_120.jpg",
-        "tags": [
-            "cultura",
-            "teatro real"
-        ],
-        "link": "https://www.europapress.es/cultura/teatroreal-01040/noticia-teatro-real-retransmitira-traviata-diferentes-pueblos-espana-sabado-20250719083251.html",
-        "date": "2025-07-19 06:32:51",
-        "sentiment_score": 0.11588615737855434
-    },
-    {
-        "title": "Los trabajadores extranjeros de Castilla-La Mancha ingresan 700 euros menos al mes que los asalariados españoles",
-        "image_url": "https://s1.elespanol.com/2018/01/24/castilla-y-leon/castilla_y_leon_279738052_201653569_1706x960.jpg?contentId=279738052",
-        "tags": [
-            "economía",
-            "mercado laboral",
-            "castilla-la mancha"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/economia/20250719/trabajadores-extranjeros-castilla-la-mancha-ingresan-euros-mes-asalariados-espanoles/1003743854557_0.html",
-        "date": "2025-07-19 06:31:04",
-        "sentiment_score": -0.633251940831542
-    },
-    {
-        "title": "Las rutas en autocaravana más buscadas en España en 2025",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7463699",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5370800/rutas-autocaravana-buscadas-espana-2025",
-        "date": "2025-07-19 06:17:12",
-        "sentiment_score": 0.3082701787352562
-    },
-    {
-        "title": "Un hombre de 36 a",
-        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2025/05/madrid-sucesos-grave-peaton-atropellado-moto-a-4-paso.jpg",
-        "tags": [
-            "avenida real de pinto"
-        ],
-        "link": "https://www.madridactual.es/noticias-regionales/madrid-ciudad/villaverde/madrid-sucesos-hombre-36-anos-herido-grave-arma-blanca-20250719-8045647.html",
-        "date": "2025-07-19 06:11:01",
-        "sentiment_score": -0.1085682362318039
-    },
-    {
-        "title": "Hombre de 36 a",
-        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2025/07/madrid-sucesos-incendio-declarado-parcela-pasto-carabanchel.jpg",
-        "tags": [
-            "avenida real de pinto"
-        ],
-        "link": "https://www.madridactual.es/noticias-regionales/sucesos/madrid-sucesos-hombre-36-anos-herido-grave-arma-blanca-20250719-8045647.html",
-        "date": "2025-07-19 06:11:01",
-        "sentiment_score": -0.1085682362318039
-    },
-    {
-        "title": "«Este verano cada pueblo al que vamos nos piden la de 'Mi Peña'»",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/07/15/charangas.jpg",
-        "tags": [
-            "música",
-            "segovia"
-        ],
-        "link": "https://www.elnortedecastilla.es/segovia/verano-pueblo-vamos-piden-pena-20250719080950-nt.html",
-        "date": "2025-07-19 06:09:50",
-        "sentiment_score": 0.6542897820472717
-    },
-    {
-        "title": "La clase media de La Liga se desangra: los equipos de la zona noble no evitan la fuga de estrellas ni entrando en Europa",
-        "image_url": "https://s1.elespanol.com/2025/07/19/actualidad/1003743854929_257417226_1706x960.jpg?contentId=1003743854929",
-        "tags": [
-            "premier league",
-            "villarreal cf",
-            "athletic club de bilbao",
-            "real madrid cf",
-            "bundesliga",
-            "javier tebas",
-            "real betis",
-            "fc barcelona",
-            "atlético de madrid",
-            "real sociedad"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20250719/clase-media-liga-desangra-equipos-zona-noble-no-evitan-fuga-estrellas-entrando-europa/1003743854259_0.html",
-        "date": "2025-07-19 06:00:00",
-        "sentiment_score": -0.12116101384162903
-    },
-    {
-        "title": "Estos son los 3 pueblos de Madrid perfectos para una escapada de verano",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/28fdf0a4-7b64-4b30-b97e-2350a0a051cd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "clubviajar",
-            "viajes",
-            "verano",
-            "españa",
-            "pueblos"
-        ],
-        "link": "https://www.levante-emv.com/viajes/son-3-pueblos-madrid-perfectos-119594271.html",
-        "date": "2025-07-19 05:59:34",
-        "sentiment_score": 0.2080685943365097
-    },
-    {
-        "title": "Ser iberoamericanos: una decisión estratégica",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/03/25/cumbre-iberoamericana.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.20minutos.es/internacional/ser-iberoamericanos-decision-estrategica-articulo-nuria-vilanova-5732694/",
-        "date": "2025-07-19 05:35:50",
-        "sentiment_score": 0.11795905232429504
-    },
-    {
-        "title": "La OBC cautiva al público neerlandés con el talento de compositores catalanes",
-        "image_url": "https://static1.ara.cat/clip/7000ec45-f12a-4de3-965f-3e80c45a0535_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "compositores",
-            "catalanes",
-            "obc",
-            "publico",
-            "cautiva",
-            "talento",
-            "neerlandes"
-        ],
-        "link": "https://es.ara.cat/cultura/obc-cautiva-publico-neerlandes-talento-compositores-catalanes_1_5448534.html",
-        "date": "2025-07-19 06:31:06",
-        "sentiment_score": -0.0679742693901062
-    },
-    {
-        "title": "Los votantes marroquíes nacionalizados refuerzan al PSOE y ya influyen en el censo",
-        "image_url": "https://edatv.news/filesedc/uploads/image/post/2025/07/edatv---2025-07-18t161903008_1200_800.webp",
-        "tags": [
-            "top"
-        ],
-        "link": "https://edatv.news/politica/los-votantes-marroquies-nacionalizados-refuerzan-al-psoe-y-ya-influyen-censo",
-        "date": "2025-07-19 06:30:00",
-        "sentiment_score": 0.029226742684841156
-    },
-    {
-        "title": "Lo que debes saber hoy, 19 de julio, de Barcelona",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2018/06/21/economia/economia_316728326_10425524_1706x960.jpg?contentId=316728326",
-        "tags": [
-            "tráfico",
-            "clima",
-            "transporte",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250719/debes-saber-hoy-julio-barcelona/1003742675089_0.html",
-        "date": "2025-07-19 06:28:55",
-        "sentiment_score": -0.1492968201637268
-    },
-    {
-        "title": "Bruce Springsteen: \"No soy la mejor compañía dentro de mi cabeza\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32c76535-fb47-4ada-bbb0-f508e93a6feb_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ansiedad",
-            "psicología",
-            "depresión",
-            "psiquiatría",
-            "salud mental",
-            "bruce springsteen"
-        ],
-        "link": "https://www.elperiodico.com/es/ser-feliz/20250719/bruce-springsteen-mejor-compania-cabeza-119768014",
-        "date": "2025-07-19 06:27:03",
-        "sentiment_score": -0.5461500249803066
-    },
-    {
-        "title": "igrafiq, La agencia de marketing digital en Vilanova i la Geltrú se expande a Tarragona, Reus y Barcelona",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7463698",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5370799/igrafiq-agencia-marketing-digital-vilanova-i-geltru-expande-tarragona-reus-barcelona",
-        "date": "2025-07-19 06:17:12",
-        "sentiment_score": 0.5843537263572216
-    },
-    {
-        "title": "El Meteocat, obligado a decretar alerta amarilla por calor extremo a partir de esta hora",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/06/29/6860d6dde8e0d.r_d.3801-2534.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20250719/1002502591/meteocat-obligado-decretar-alerta-amarilla-calor-extremo-partir-hora-dct.html",
-        "date": "2025-07-19 06:07:04",
-        "sentiment_score": -0.4045785292983055
-    },
-    {
-        "title": "Las demás incógnitas por resolver en la portería del Barça",
-        "image_url": "https://static1.ara.cat/clip/2e2216ed-8ac6-45dc-986d-ac426aefc364_16-9-aspect-ratio_default_0.png",
-        "tags": [
-            "incognitas",
-            "barca",
-            "porteria",
-            "resolver"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/incognitas-resolver-porteria-barca_1_5448521.html",
-        "date": "2025-07-19 06:01:03",
-        "sentiment_score": -0.21812327206134796
-    },
-    {
-        "title": "Gui Guedes no se mueve del Almería",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/07/19/687b31fd5d268.jpeg",
-        "tags": [
-            "jugadores"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/jugadores/279810/gui-guedes-queda-rubi-cuenta-portugues.html",
-        "date": "2025-07-19 05:49:57",
-        "sentiment_score": -0.4755473807454109
-    },
-    {
         "title": "Un médico desvela algunos beneficios de la sandía que igual desconocías: “Ayuda a la producción de colágeno’’",
         "image_url": "https://www.infobae.com/resizer/v2/5NTIF32QBRCAXEXQ25PDXBR23U.jpeg?auth=7ecc7fc3f4e79653462694967e1f777323291b25d09091528ba8311190edc698&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -462,72 +233,6 @@ export default [
         "link": "https://elpais.com/espana/2025-07-19/espana-asegura-a-ee-uu-que-el-contrato-de-interior-con-la-china-huwaei-no-supone-ningun-riesgo-de-seguridad.html",
         "date": "2025-07-19 11:33:53",
         "sentiment_score": -0.1862230822443962
-    },
-    {
-        "title": "La esposa del vecino agredido en Torre Pacheco habla de la repercusión del caso: “Han utilizado la paliza a Domingo para traer la violencia al pueblo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FACX6ES525HD3JT3FCQUJ4RNWI.jpg?auth=d64dd933d65fc90628f630fa0c9cd3528c96f390acc7a54067fa00daf94a825a&width=1200",
-        "tags": [
-            "polémicas",
-            "xenofobia",
-            "política",
-            "agresiones físicas",
-            "españa",
-            "torre-pacheco",
-            "sucesos",
-            "inmigración"
-        ],
-        "link": "https://elpais.com/espana/2025-07-19/la-esposa-del-vecino-agredido-en-torre-pacheco-habla-de-la-repercusion-del-caso-han-utilizado-la-paliza-a-domingo-para-traer-la-violencia-al-pueblo.html",
-        "date": "2025-07-19 10:10:00",
-        "sentiment_score": -0.8283353801816702
-    },
-    {
-        "title": "La música que intenta curar los estragos de la dana en Letur: “Que no nos olviden”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ALVO4TTZ6VH5JLDGNQZWNVCFOM.jpg?auth=7bc9abc1a8db3dd9a5e822467fd665f4d002432013cc32b1e4258eecf6119c74&width=1200",
-        "tags": [
-            "temporales",
-            "muertes",
-            "turismo",
-            "reconstrucción",
-            "letur",
-            "inundaciones dana octubre 2024",
-            "españa",
-            "dana",
-            "pueblos deshabitados"
-        ],
-        "link": "https://elpais.com/espana/2025-07-19/la-musica-que-intenta-curar-los-estragos-de-la-dana-en-letur-que-no-nos-olviden.html",
-        "date": "2025-07-19 09:21:46",
-        "sentiment_score": -0.7939199898391962
-    },
-    {
-        "title": "Los bomberos controlan el incendio de Navaluenga durante la noche tras el desalojo de 60 niños de un campamento",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3VDIRGKUTFDX7GYI6D675FKHDI.jpg?auth=157ed8788d513f141bff7edce3595b872ce9a1d7a1ec9d9eb168cb569b1adcde&width=1200",
-        "tags": [
-            "junta castilla y león",
-            "incendios forestales",
-            "españa",
-            "incendios",
-            "calor",
-            "viento"
-        ],
-        "link": "https://elpais.com/espana/2025-07-19/los-bomberos-controlan-el-incendio-de-navaluenga-durante-la-noche-tras-el-desalojo-de-60-ninos-de-un-campamento.html",
-        "date": "2025-07-19 08:46:23",
-        "sentiment_score": -0.4784739874303341
-    },
-    {
-        "title": "El incendio entre Ibi y Alcoi, que lleva quemadas más de 250 hectáreas, ha sido perimetrado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QA47MXN7HFIOFB7WKVXYP533GE.jpg?auth=355c94c3b32ba120abe08c193de2025f7a516a9b51e2cef57e4d6098db02f285&width=1200",
-        "tags": [
-            "incendios forestales",
-            "emergencias 112 gva",
-            "comunidad valenciana",
-            "ibi",
-            "bomberos",
-            "ume",
-            "alcoi"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-19/el-incendio-entre-ibi-y-alcoi-que-lleva-quemadas-mas-de-250-hectareas-ha-sido-perimetrado.html",
-        "date": "2025-07-19 06:44:12",
-        "sentiment_score": -0.04432205855846405
     },
     {
         "title": "Rodrygo alía a Madrid y Barça",
@@ -7897,5 +7602,488 @@ export default [
         "link": "https://2001online.com/sucesos/detenido-por-el-cicpc-tras-hurto-de-dolares-y-euros-a-comerciante-202572211500",
         "date": "2025-07-22 15:50:00",
         "sentiment_score": -0.4267235193401575
+    },
+    {
+        "title": "Montero expresa su \"preocupación\" por el incendio forestal en los montes próximos a Córdoba",
+        "image_url": "https://www.infobae.com/resizer/v2/ONZVTIDCFVEY3LOAJSQJN2JPSQ.jpg?auth=153204d6d16c83c327e9d6a086917c6ecd09b7f3827bb3a55e7e1e858155de9a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/22/montero-expresa-su-preocupacion-por-el-incendio-forestal-en-los-montes-proximos-a-cordoba/",
+        "date": "2025-07-22 21:23:04",
+        "sentiment_score": -0.7147108130156994
+    },
+    {
+        "title": "Torres acusa al PP de preferir \"una derrota\" del Gobierno que mecanismos para evitar apagones en Canarias",
+        "image_url": "https://www.infobae.com/resizer/v2/BUTERQ2YNJEM3MBXQHYEBWU4MA.jpg?auth=bbc97aa21c7ddd2bca007aeb28adfe589352b7f9bdc8bcdb29fddf8c8f568ca6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/22/torres-acusa-al-pp-de-preferir-una-derrota-del-gobierno-que-mecanismos-para-evitar-apagones-en-canarias/",
+        "date": "2025-07-22 21:22:41",
+        "sentiment_score": -0.7899877745658159
+    },
+    {
+        "title": "Estos son los resultados del sorteo de Bonoloto del 22 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/2D22TSFDBJCEHIECLWRJLWUQIU.jpg?auth=0f8d364022b340f9b936878cdcc9af4602a796ccca3443df81ec42d1022cdd45&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bonoloto",
+            "españa-loterías",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/22/estos-son-los-resultados-del-sorteo-de-bonoloto-del-22-de-julio/",
+        "date": "2025-07-22 20:15:32",
+        "sentiment_score": 0.09361360594630241
+    },
+    {
+        "title": "Ayuso dice que \"lo de empatar es una seña de identidad del sanchismo\" y que Sánchez debe su cargo a tramas de corrupción",
+        "image_url": "https://www.infobae.com/resizer/v2/MQCX34XVRVABNKHU2D6MWS42H4.jpg?auth=dc3dde0c490a530fe0db59422bb073b667d0450d47a4b4f2cc9185f0a7e77ee5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/22/ayuso-dice-que-lo-de-empatar-es-una-sena-de-identidad-del-sanchismo-y-que-sanchez-debe-su-cargo-a-tramas-de-corrupcion/",
+        "date": "2025-07-22 19:53:19",
+        "sentiment_score": -0.7280430570244789
+    },
+    {
+        "title": "El diputado de la Chunta rompe la disciplina de voto de Sumar y rechaza el decreto antiapagones",
+        "image_url": "https://www.infobae.com/resizer/v2/CVKXLDQSVRCWJAKCZULAIEZEWQ.jpg?auth=d5d413f5b2f87b099a76c25788bddf227057c1b977e297c1132e464822af9ff6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/22/el-diputado-de-la-chunta-rompe-la-disciplina-de-voto-de-sumar-y-rechaza-el-decreto-antiapagones/",
+        "date": "2025-07-22 19:53:08",
+        "sentiment_score": -0.8574096579104662
+    },
+    {
+        "title": "El PP pide explicaciones al Gobierno por las adjudicaciones vinculadas a la presunta trama corrupta del PSOE en Melilla",
+        "image_url": "https://www.infobae.com/resizer/v2/AGGE6D62ZZGTXKYHZW3GU4QJ2Y.jpg?auth=62893ff80e562688189ff2227b6a1b55adf540ecd139c7f1e979e39b67921095&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/22/el-pp-pide-explicaciones-al-gobierno-por-las-adjudicaciones-vinculadas-a-la-presunta-trama-corrupta-del-psoe-en-melilla/",
+        "date": "2025-07-22 19:52:57",
+        "sentiment_score": -0.8615595232695341
+    },
+    {
+        "title": "El Gobierno nombra a la diplomática Laura Oroz Ulibarri como embajadora de España en la República de Chile",
+        "image_url": "https://www.infobae.com/resizer/v2/53Y35LWFUVDR3CFGDVVNNIY62Y.jpg?auth=554cf5dc05c4818c4eb3d65596dee46b0291d3d9f6cbaca3578f2689f15f8b1a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/22/el-gobierno-nombra-a-la-diplomatica-laura-oroz-ulibarri-como-embajadora-de-espana-en-la-republica-de-chile/",
+        "date": "2025-07-22 19:52:46",
+        "sentiment_score": 0.2503005564212799
+    },
+    {
+        "title": "España nombra a la diplomática Laura Oroz Ulibarri como embajadora en Chile",
+        "image_url": "https://www.infobae.com/resizer/v2/MYIZH4TULNCUVKLQ2XX543LEA4.jpg?auth=56764564f7d86830e6905c00fa15ff5c443c6cfce2f92dc7df012f455083b26e&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/22/espana-nombra-a-la-diplomatica-laura-oroz-ulibarri-como-embajadora-en-chile/",
+        "date": "2025-07-22 19:49:10",
+        "sentiment_score": 0.33601606637239456
+    },
+    {
+        "title": "Un español que vive en Suiza explica la mejor manera de emigrar a este país para no cometer errores: “Ahorra antes de mudarte”",
+        "image_url": "https://www.infobae.com/resizer/v2/5V734ADMZVGY5FQ4UO32FDVFUM.jpg?auth=5770275c69fe9204b79dc011cd51b3858fb5a2dfc4a75e785fe69cfd3bbacb73&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "extranjería",
+            "tiktok",
+            "migrantes",
+            "suiza",
+            "tiktok españa",
+            "españa-noticias",
+            "españa-sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/22/un-espanol-que-vive-en-suiza-explica-la-mejor-manera-de-emigrar-a-este-pais-para-no-cometer-errores-ahorra-antes-de-mudarte/",
+        "date": "2025-07-22 19:48:02",
+        "sentiment_score": 0.3363666571676731
+    },
+    {
+        "title": "Resultados del Super Once del 22 julio",
+        "image_url": "https://www.infobae.com/resizer/v2/PPFHQD7ONZCW5DHK2KQEM5XRCY.jpg?auth=7563789ed01319b51c40432578d3fab16da6f51f84c84520b021889f1d38cf5f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "super once",
+            "españa-economía",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/22/resultados-del-super-once-del-22-julio/",
+        "date": "2025-07-22 19:45:22",
+        "sentiment_score": 0.1880860161036253
+    },
+    {
+        "title": "Desalojadas 60 viviendas por un incendio a las afueras de Córdoba",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CATMH5GLWVA77JAJFRRXJNDHWE.jpg?auth=a569fcaa043d58d2ac116fdfe5d80a6c677cd745f94fa15ae773c207c1ac9248&width=1200",
+        "tags": [
+            "córdoba",
+            "desalojos",
+            "emergencias",
+            "españa",
+            "león",
+            "andalucía",
+            "albaida",
+            "incendios",
+            "incendios forestales",
+            "bomberos",
+            "castilla y león"
+        ],
+        "link": "https://elpais.com/espana/2025-07-22/desalojadas-60-viviendas-por-un-incendio-a-las-afueras-de-cordoba.html",
+        "date": "2025-07-22 20:52:11",
+        "sentiment_score": -0.8505196627229452
+    },
+    {
+        "title": "Votos con olor a protector solar",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LREPI4IATJNFHLARG6P6ILZMZQ.jpg?auth=bcb6ff27ceb187c4d1e58911ebc9ad2f7446ba9f6e466e0d0b47619b15e9fb95&width=1200",
+        "tags": [
+            "política",
+            "partidos políticos",
+            "congreso diputados",
+            "cortes",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-22/votos-con-olor-a-protector-solar.html",
+        "date": "2025-07-22 19:44:31",
+        "sentiment_score": -0.4990396276116371
+    },
+    {
+        "title": "Pedro Sánchez se aferra a su mayoría pese a la caída de un decreto: “De siete votaciones sacamos seis. Ni tan mal”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UE5AGOLKCZJ3JPT3R4JFFP6JFY.jpg?auth=54f1ab9b1579413af8408f9f5f424a2ea232a5973a94833eb9e394bddd0b4a27&width=1200",
+        "tags": [
+            "votación parlamentaria",
+            "viajes oficiales",
+            "españa",
+            "congreso diputados",
+            "decretos",
+            "montevideo",
+            "uruguay",
+            "apagones luz",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2025-07-22/pedro-sanchez-se-aferra-a-su-mayoria-pese-a-la-caida-de-un-decreto-de-siete-votaciones-sacamos-seis-ni-tan-mal.html",
+        "date": "2025-07-22 18:28:00",
+        "sentiment_score": -0.7939012683928013
+    },
+    {
+        "title": "Cristian Cásseres responde a Meridiano si el pasaporte pesa: \"Yangel fue a la MLS y Valverde fue al Real Madrid\"",
+        "image_url": "https://pxcdn.meridiano.net/072025/1753222230399.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/cristian-casseres-responde-a-meridiano-si-el-pasaporte-pesa-yangel-fue-a-la-mls-y-valverde-fue-al-real-madrid--202572218120",
+        "date": "2025-07-22 22:12:00",
+        "sentiment_score": 0.2529004327952862
+    },
+    {
+        "title": "La vivienda, una crisis por estrangulamiento",
+        "image_url": "https://phantom-elmundo.uecdn.es/e0deabc0e33bf0ed4c34938c1371bb26/crop/94x36/894x836/f/image/jpeg/assets/multimedia/imagenes/2023/10/13/16972158562894.jpg",
+        "tags": [
+            "artículos francisco rodríguez",
+            "vivienda"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/07/23/687fb2a0e4d4d8c2468b45cd.html",
+        "date": "2025-07-22 22:06:12",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Homenaje floral japonés en la tumba de Macià",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/22/687fd9c9c348d.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20250723/10914887/homenaje-floral-japones-tumba-macia.html",
+        "date": "2025-07-22 22:05:00",
+        "sentiment_score": -0.042992472648620605
+    },
+    {
+        "title": "El padre Linero respondió a los polémicos comentarios de exjugador del Real Madrid: “Soy un machista en rehabilitación”",
+        "image_url": "https://www.infobae.com/resizer/v2/YUHAKX6QTNGT7FQGUZW7HQ5FRM.jpg?auth=b5c8c30dcf9d35b51c5d83d1aeeabbca3bff3b14621f5006fc1708d9731a078a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "polémica",
+            "machismo",
+            "real madrid",
+            "exjugador",
+            "chicharito hernández",
+            "padre linero",
+            "comentarios"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/07/22/el-padre-linero-respondio-a-los-polemicos-comentarios-de-exjugador-del-real-madrid-soy-un-machista-en-rehabilitacion/",
+        "date": "2025-07-22 21:37:27",
+        "sentiment_score": -0.05914471298456192
+    },
+    {
+        "title": "Álvaro Rodríguez firma cuatro temporadas con el Elche",
+        "image_url": "https://www.infobae.com/resizer/v2/ISE5G6DQX5CMRP2XJFFTQJWLEM.jpg?auth=fe9ce2131f0984f7f514f0e640e0bb51031efb3e1a26d63acce1b271bc79e6b9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/22/alvaro-rodriguez-firma-cuatro-temporadas-con-el-elche/",
+        "date": "2025-07-22 21:19:37",
+        "sentiment_score": 0.25260884314775467
+    },
+    {
+        "title": "¿Por qué se cierra el parque de El Retiro cuando más calor hace? La clave detrás de esta decisión que muchos no entienden",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/07/22/687fd94169cc0.r_d.1520-1109-1417.jpeg",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/noticias/cierra-parque-retiro-calor-clave-detras-decision-entienden-20250722_3189339.html",
+        "date": "2025-07-22 21:03:37",
+        "sentiment_score": -0.10296809673309326
+    },
+    {
+        "title": "Álvaro Rodríguez firma cuatro temporadas con el Elche",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250722225257_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-alvaro-rodriguez-firma-cuatro-temporadas-elche-20250722225257.html",
+        "date": "2025-07-22 20:52:57",
+        "sentiment_score": 0.17889675498008728
+    },
+    {
+        "title": "El video viral de Kylian Mbappé contagiado por el ritmo de Bad Bunny",
+        "image_url": "https://pxcdn.meridiano.net/072025/1753213344734.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/usa/farandula/el-video-viral-de-kylian-mbappe-contagiado-por-el-ritmo-de-bad-bunny-202572216270",
+        "date": "2025-07-22 20:27:00",
+        "sentiment_score": -0.4625030532479286
+    },
+    {
+        "title": "Estrella Morente presenta su disco homenaje a grandes voces femeninas",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/07/22/2025072222180112240.jpg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/musica/estrella-morente-presenta-disco-homenaje-grandes-voces-femeninas/20250722221813566831.html",
+        "date": "2025-07-22 20:18:13",
+        "sentiment_score": 0.3487373050302267
+    },
+    {
+        "title": "Hechos y curiosidades de la gastronomía",
+        "image_url": "https://elorientaldemonagas.com/wp-content/uploads/2025/01/cropped-photo_2024-10-02_09-02-52.jpg",
+        "tags": [
+            "monagas",
+            "gastronomía",
+            "venezuela",
+            "maturín"
+        ],
+        "link": "https://elorientaldemonagas.com/hechos-y-curiosidades-de-la-gastronomia/",
+        "date": "2025-07-22 20:08:39",
+        "sentiment_score": -0.3754979744553566
+    },
+    {
+        "title": "Así se preparó Franco Colapinto para el GP de Bélgica de Fórmula 1: la leyenda que lo entrenó",
+        "image_url": "https://www.infobae.com/resizer/v2/VLKJL7MFFJG27PD4WEPZ3BW6BE.png?auth=acec168a55d046517b15c85110fd2e9e2729f3a2c67af072aa61013226ec19f9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-argentina",
+            "fernando belasteguín",
+            "fórmula 1",
+            "franco colapinto",
+            "alpine f1 team"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/22/asi-se-preparo-franco-colapinto-para-el-gp-de-belgica-de-formula-1-la-leyenda-que-lo-entreno/",
+        "date": "2025-07-22 22:16:37",
+        "sentiment_score": 0.17237743735313416
+    },
+    {
+        "title": "La frase de Fábregas sobre el futuro de su amigo Messi que causó sensación en la prensa mundial",
+        "image_url": "https://www.infobae.com/resizer/v2/LRMAZAAJBZH7XOKLE2M3QCCDUE.jpg?auth=1107dfd0c76a1f9974e376f21934713f96da0954793ddeb3cba74855bbd87821&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-argentina",
+            "lionel messi",
+            "como",
+            "deportes-internacional",
+            "cesc fábregas",
+            "calcio",
+            "inter miami",
+            "serie a"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/22/la-frase-de-fabregas-sobre-el-futuro-de-su-amigo-messi-que-causo-sensacion-en-la-prensa-mundial/",
+        "date": "2025-07-22 22:10:51",
+        "sentiment_score": -0.020625479519367218
+    },
+    {
+        "title": "Contrastes, el restaurante que llega de un pueblo marinero de Barcelona para triunfar en Madrid con una cocina fusión muy personal",
+        "image_url": "https://phantom-elmundo.uecdn.es/29cfa07c0ef3b0da8c6281f7d7e61ae1/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/22/17531794062532.jpg",
+        "tags": [
+            "madrid",
+            "comer",
+            "gastronomía",
+            "restaurantes"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/07/23/687a1de0e4d4d8c3248b456d.html",
+        "date": "2025-07-22 22:09:19",
+        "sentiment_score": 0.27336379885673523
+    },
+    {
+        "title": "Valentina Agudelo (Save Health): \"Falta muchísimo desarrollo en salud femenina; las soluciones que tenemos son las mismas desde hace 70 años\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
+        "tags": [
+            "artículos clara rojas"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/07/23/687f3c65e9cf4a973b8b458a.html",
+        "date": "2025-07-22 22:06:12",
+        "sentiment_score": 0.3312539756298065
+    },
+    {
+        "title": "La Ruta Chic vuelve a recorrer España este verano: productos exclusivos para un público fiel",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/07/22/2025072214553792155.jpg",
+        "tags": [
+            "tendencias"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/tendencias/ruta-chic-vuelve-recorrer-espana-verano-productos-exclusivos-publico-fiel/20250723000512973758.html",
+        "date": "2025-07-22 22:05:12",
+        "sentiment_score": 0.5956134274601936
+    },
+    {
+        "title": "El Clínic celebra los 60 años del primer trasplante de riñón en España (y luego llegaron otros 5.806)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8816cccc-f60a-4303-9f45-392c148d577a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "médicos",
+            "hospitales",
+            "barcelona",
+            "trasplantes"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20250723/clinic-celebra-60-anos-primer-119967133",
+        "date": "2025-07-22 22:00:10",
+        "sentiment_score": -0.04992583394050598
+    },
+    {
+        "title": "60 años del primer trasplante de riñón en España, realizado en el Hospital Clínic Barcelona: \"Es un hito\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8816cccc-f60a-4303-9f45-392c148d577a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "trasplantes",
+            "médicos",
+            "hospitales",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20250723/primer-trasplante-rinon-espana-hospital-clinic-barcelona-hito-119967133",
+        "date": "2025-07-22 22:00:10",
+        "sentiment_score": -0.04992583394050598
+    },
+    {
+        "title": "Albiol: \"Crónica es el medio de referencia para el área metropolitana de Barcelona\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/03/27/politica/843175851_12691347_1706x960.jpg?contentId=843175851",
+        "tags": [
+            "entrevistas x aniversario",
+            "badalona",
+            "xavier garcía albiol",
+            "x aniversario",
+            "crónica global media",
+            "periodismo",
+            "pp",
+            "prensa",
+            "medios de comunicación",
+            "política"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/politica/20250722/albiol-cronica-medio-referencia-area-metropolitana-barcelona/1003742675855_0.html",
+        "date": "2025-07-22 22:00:00",
+        "sentiment_score": 0.7475046496838331
+    },
+    {
+        "title": "Ex Miss Monagas Yesenia Maurera revela lucha contra Biopolímeros: requiere cirugía inmediata y apoyo económico",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753222528788.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ex miss monagas yesenia maurera revela lucha contra biopolímeros: requiere cirugía inmediata y apoyo económico"
+        ],
+        "link": "https://2001online.com/farandula/ex-miss-monagas-yesenia-maurera-revela-lucha-contra-biopolimeros-requiere-cirugia-inmediata-y-apoyo-economico--202572218110",
+        "date": "2025-07-22 22:11:00",
+        "sentiment_score": -0.8278355821967125
+    },
+    {
+        "title": "ICE arresta a excandidato presidencial de Haití en Florida: conozca las razones",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753220879553.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ice arresta a excandidato presidencial de haití en florida: conozca las razones"
+        ],
+        "link": "https://2001online.com/internacionales/ice-arresta-a-excandidato-presidencial-de-haiti-en-florida-conozca-las-razones-20257221710",
+        "date": "2025-07-22 22:10:00",
+        "sentiment_score": -0.6261967550963163
+    },
+    {
+        "title": "¡Alerta de gordura! A partir de esta edad en la que se hace más difícil rebajar la barriga: toma tus previsiones antes que sea demasiado tarde",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753188040744.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/alerta-de-gordura-a-partir-de-esta-edad-en-la-que-se-hace-mas-dificil-rebajar-la-barriga-toma-tus-previsiones-antes-que-sea-demasiado-tarde-20257221800",
+        "date": "2025-07-22 22:00:00",
+        "sentiment_score": 0.33604640141129494
+    },
+    {
+        "title": "¡Sin importar estatus migratorio! Salud gratuita y sin cita llega a Bridgehampton: jornada móvil este 23 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753220300015.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "¡sin importar estatus migratorio! salud gratuita y sin cita llega a bridgehampton: jornada móvil este 23 de julio"
+        ],
+        "link": "https://2001online.com/usa/servicios/sin-importar-estatus-migratorio-salud-gratuita-y-sin-cita-llega-a-bridgehampton-jornada-movil-este-23-de-julio-202572217410",
+        "date": "2025-07-22 21:41:00",
+        "sentiment_score": 0.4473206363618374
+    },
+    {
+        "title": "Familia de Ozzy Osbourne emite comunicado sobre la trágica perdida: Murió rodeado de mucho cariño",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753221020083.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "familia de ozzy osbourne emite comunicado sobre la trágica perdida: murió rodeado de mucho cariño"
+        ],
+        "link": "https://2001online.com/farandula/familia-de-ozzy-osbourne-emite-comunicado-sobre-la-tragica-perdida-murio-rodeado-de-mucho-carino-202572217200",
+        "date": "2025-07-22 21:20:00",
+        "sentiment_score": -0.1762397587299347
+    },
+    {
+        "title": "Banco Digital de los Trabajadores: los cinco trámites que puede realizar en sus pantallas de autogestión",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753217234049.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "banco digital de los trabajadores: los cinco trámites que puede realizar en sus pantallas de autogestión"
+        ],
+        "link": "https://2001online.com/servicios/banco-digital-de-los-trabajadores-los-cinco-tramites-que-puede-realizar-en-sus-pantallas-de-autogestion-20257221710",
+        "date": "2025-07-22 21:01:00",
+        "sentiment_score": -0.028553888201713562
+    },
+    {
+        "title": "Cacao venezolano llega a Rusia: Miranda exporta un primer lote de 50 toneladas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753217580281.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cacao venezolano llega a rusia: miranda exporta un primer lote de 50 toneladas"
+        ],
+        "link": "https://2001online.com/nacionales/cacao-venezolano-llega-a-rusia-miranda-exporta-un-primer-lote-de-50-toneladas-20257221710",
+        "date": "2025-07-22 21:01:00",
+        "sentiment_score": 0.17842786759138107
+    },
+    {
+        "title": "Alligator alcatraz: el nuevo frente migratorio de DeSantis se topa con jueza que ya sancionó al estado",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753208746286.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "alligator alcatraz: el nuevo frente migratorio de desantis se topa con jueza que ya sancionó al estado"
+        ],
+        "link": "https://2001online.com/usa/internacionales/alligator-alcatraz-el-nuevo-frente-migratorio-de-desantis-se-topa-con-jueza-que-ya-sanciono-al-estado-20257221700",
+        "date": "2025-07-22 21:00:00",
+        "sentiment_score": -0.8463350106030703
+    },
+    {
+        "title": "¡Van con todo! DHS promete \"inundar\" Nueva York con agentes migratorios tras ataque a oficial de la CBP",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753217266565.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "¡van con todo! dhs promete &quot;inundar&quot; nueva york con agentes migratorios tras ataque a oficial de la cbp"
+        ],
+        "link": "https://2001online.com/usa/internacionales/van-con-todo-dhs-promete-inundar-nueva-york-con-agentes-migratorios-tras-ataque-a-oficial-de-la-cbp-20257221700",
+        "date": "2025-07-22 21:00:00",
+        "sentiment_score": -0.9178466340526938
+    },
+    {
+        "title": "Cierran una de las sucursales del DMV más concurridas de Illinois: autoridades pelean en redes por la decisión",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753221347842.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cierran una de las sucursales del dmv más concurridas de illinois: autoridades pelean en redes por la decisión"
+        ],
+        "link": "https://2001online.com/usa/servicios/cierran-una-de-las-sucursales-del-dmv-mas-concurridas-de-illinois-autoridades-pelean-en-redes-por-la-decision-202572216500",
+        "date": "2025-07-22 20:50:00",
+        "sentiment_score": -0.17452866956591606
     }
 ];
