@@ -204,37 +204,6 @@ export default [
         "sentiment_score": -0.8345637619495392
     },
     {
-        "title": "Investigada una mujer por conducir ocho kilómetros en sentido contrario por la autovía A-49 en Huelva",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MXZMX4DHNVDILPI4SNQ225ACXI.jpg?auth=ced69a89002e6f462708641320a1b48b908977f6cb1508c52cd0fc06051de786&width=1200",
-        "tags": [
-            "huelva",
-            "españa",
-            "tráfico",
-            "accidentes",
-            "ayamonte"
-        ],
-        "link": "https://elpais.com/espana/2025-07-19/investigada-una-mujer-por-conducir-ocho-kilometros-en-sentido-contrario-por-la-autovia-a-49-en-huelva.html",
-        "date": "2025-07-19 11:45:15",
-        "sentiment_score": -0.3751445487141609
-    },
-    {
-        "title": "España asegura a EE UU que el contrato de Interior con la china Huwaei no supone ningún riesgo de seguridad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2WFYRDG5KNFJ5J3CTHIVR4XZKE.jpg?auth=1349b358ea67f243d4ea717bc66e5c8a84ab32c38a0a65688fe080fb8ea7e8bc&width=1200",
-        "tags": [
-            "seguridad nacional",
-            "política exterior",
-            "ministerio del interior",
-            "escuchas telefónicas",
-            "estados unidos",
-            "huawei",
-            "españa",
-            "china"
-        ],
-        "link": "https://elpais.com/espana/2025-07-19/espana-asegura-a-ee-uu-que-el-contrato-de-interior-con-la-china-huwaei-no-supone-ningun-riesgo-de-seguridad.html",
-        "date": "2025-07-19 11:33:53",
-        "sentiment_score": -0.1862230822443962
-    },
-    {
         "title": "Rodrygo alía a Madrid y Barça",
         "image_url": "https://www.recentlyheard.com/wp-content/uploads/2025/07/Rodrygo-alia-a-Madrid-y-Barca.JPG",
         "tags": [
@@ -8085,5 +8054,360 @@ export default [
         "link": "https://2001online.com/usa/servicios/cierran-una-de-las-sucursales-del-dmv-mas-concurridas-de-illinois-autoridades-pelean-en-redes-por-la-decision-202572216500",
         "date": "2025-07-22 20:50:00",
         "sentiment_score": -0.17452866956591606
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Madrid?",
+        "image_url": "https://www.infobae.com/resizer/v2/A4CTAZD3GFDMJNQ4NSZYVNJDMI.jpg?auth=14611cb258083455447aff3018211c7b74524d67abb1c532ffdc44e73902891c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/23/cual-es-la-temperatura-promedio-en-madrid/",
+        "date": "2025-07-23 01:45:39",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 23 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/VLQPBJ57FVHE5EEUO244GVVUKI.jpg?auth=df376a06cf4887c1b7ee95578b1c9dcd7048cb8fd0eb9aa19637a1e1d65329f6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "barcelona",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/23/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-23-de-julio/",
+        "date": "2025-07-23 01:17:16",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Desde España, Monreal se pronuncia sobre el Consejo Nacional de Morena y reitera respaldo a Luisa Alcalde",
+        "image_url": "https://www.infobae.com/resizer/v2/K3LER6PAUNAFRIOK44L7HVWMIQ.jpg?auth=641bec3e0d33b28e28974eba118183dc7e0cf38132fd8aba4a587b32525d798f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "morena",
+            "ricardo monreal",
+            "mexico-noticias"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/07/23/desde-espana-monreal-se-pronuncia-sobre-el-consejo-nacional-de-morena-y-reitera-respaldo-a-luisa-alcalde/",
+        "date": "2025-07-23 00:15:00",
+        "sentiment_score": -0.11489436030387878
+    },
+    {
+        "title": "Desalojan 100 viviendas en Córdoba de forma preventiva por la evolución de un nuevo incendio forestal mientras continúan los trabajos de extinción",
+        "image_url": "https://www.infobae.com/resizer/v2/NNL4RZNLY5E6XLS236SQ7TERYI.jpeg?auth=cebfc083aa371be056007e4f66aa23dd516e2e73250e45ce48cd8c7bec7c7412&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "cordoba",
+            "incendio forestal",
+            "incendio",
+            "desalojo preventivo",
+            "incendios forestales",
+            "españa-nacional",
+            "andalucia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/22/desalojan-100-viviendas-en-cordoba-de-forma-preventiva-por-la-evolucion-de-un-nuevo-incendio-forestal-mientras-continuan-los-trabajos-de-extincion/",
+        "date": "2025-07-22 23:52:19",
+        "sentiment_score": 0.6000836826860905
+    },
+    {
+        "title": "Noelia Núñez (PP) admite no haber acabado sus estudios y asegura que \"nunca\" ha tenido intención de \"engañar a nadie\"",
+        "image_url": "https://www.infobae.com/resizer/v2/I5CQCDOXMVB3NNQ4FQBBMWIWSM.jpg?auth=84e5706cdb2db75c57e7718da46dbb94341ef2a3ac4d83d87a441d079b354682&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/22/noelia-nunez-pp-admite-no-haber-acabado-sus-estudios-y-asegura-que-nunca-ha-tenido-intencion-de-enganar-a-nadie/",
+        "date": "2025-07-22 23:22:32",
+        "sentiment_score": -0.6105479318648577
+    },
+    {
+        "title": "Keylor Navas declara tras su llegada a Pumas: “Estamos contentos de estar aquí”",
+        "image_url": "https://www.infobae.com/resizer/v2/XR3UZV6DUBH5TLXMG2BA72OJ7M.jpeg?auth=2ea7fe31aa81187d09e72f7fa4e9f69d3bfa68fda87a4f2ae3f0e258621127b6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "liga mx",
+            "club pumas",
+            "futbol",
+            "keylor navas",
+            "mexico-deportes"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/07/23/keylor-navas-declara-tras-su-llegada-a-pumas-estamos-contentos-de-estar-aqui/",
+        "date": "2025-07-23 01:55:00",
+        "sentiment_score": -0.049942150712013245
+    },
+    {
+        "title": "Las vacaciones de Vinicius Júnior junto a cuatro famosas influencers en Brasil: fotos, videos y una canción sugerente",
+        "image_url": "https://www.infobae.com/resizer/v2/DWKNE2QHFRBDJOHQ7QAKQDKBLM.jpg?auth=61f9d231f61b5228ea696875ee972644361012d6ca04bf2837dc3843a0f90af6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "vinicius júnior",
+            "al ahli",
+            "vinicius jr.",
+            "deportes-argentina",
+            "brasil",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/23/las-vacaciones-de-vinicius-junior-junto-a-cuatro-famosas-influencers-en-brasil-fotos-videos-y-una-cancion-sugerente/",
+        "date": "2025-07-23 01:27:40",
+        "sentiment_score": -0.018048904836177826
+    },
+    {
+        "title": "La Andalucía vaciada",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vaciada",
+            "andalucia"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/editorial/andalucia-vaciada_0_2004430824.html",
+        "date": "2025-07-23 01:10:36",
+        "sentiment_score": -0.09256520867347717
+    },
+    {
+        "title": "Sevilla y su calor especial",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "especial",
+            "sevilla",
+            "calor"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/sevilla-calor-especial_0_2004430813.html",
+        "date": "2025-07-23 01:10:17",
+        "sentiment_score": -0.26965922117233276
+    },
+    {
+        "title": "Con una goleada sin piedad, Colombia se enfila a semifinales y elimina a Bolivia",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/22210621/AFP__20250722__67HY992__v1__HighRes__FblCopaAmerica2025WomenColBol-1280x853.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "copa américa"
+        ],
+        "link": "https://www.elnacional.com/2025/07/con-una-goleada-sin-piedad-colombia-se-enfila-a-semifinales-y-elimina-a-bolivia/",
+        "date": "2025-07-23 01:09:08",
+        "sentiment_score": -0.20486433804035187
+    },
+    {
+        "title": "Los Reyes y la Princesa Leonor entregan este miércoles los Premios Princesa de Girona en Barcelona",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250723040449_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-reyes-princesa-leonor-entregan-miercoles-premios-princesa-girona-barcelona-20250723040449.html",
+        "date": "2025-07-23 02:04:49",
+        "sentiment_score": 0.25876601971685886
+    },
+    {
+        "title": "Recorrían las playas de Cartagena en busca clientes: así operaba red criminal dedicada a la explotación sexual de mujeres y niñas",
+        "image_url": "https://www.infobae.com/resizer/v2/PP4B2QN7SNA4LEVVYCN52RDJWE.jpeg?auth=471e36388dea50e36a3d911481b8080b557ae0e0072c849097cb5be247d5d6b9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "titan 24",
+            "explotación sexual",
+            "fiscalía",
+            "turismo sexual",
+            "cartagena",
+            "colombia-noticias"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/07/23/recorrian-las-playas-de-cartagena-en-busca-clientes-asi-operaba-red-criminal-dedicada-a-la-explotacion-sexual-de-mujeres-y-ninas/",
+        "date": "2025-07-23 01:49:28",
+        "sentiment_score": -0.8525967728346586
+    },
+    {
+        "title": "De los GAL al 23-F: los secretos que podrían ver la luz con la nueva ley del Gobierno",
+        "image_url": "https://phantom-elmundo.uecdn.es/5b78eb66f46aa0193960737884d149ba/crop/1019x163/2165x1309/f/image/jpeg/assets/multimedia/imagenes/2025/02/05/17387861273131.jpg",
+        "tags": [
+            "artículos paloma h. matellano",
+            "margarita robles",
+            "23 f",
+            "félix bolaños",
+            "gobierno de españa",
+            "cni",
+            "consejo de ministros",
+            "congreso de los diputados"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/07/23/687fda2321efa0dd6f8b4584.html",
+        "date": "2025-07-23 01:00:26",
+        "sentiment_score": -0.3069089651107788
+    },
+    {
+        "title": "Liverpool empezaría a decirle adiós a Luis Díaz: tendría dos figuras en Europa como reemplazo del colombiano",
+        "image_url": "https://www.infobae.com/resizer/v2/LRNBWD3E2JFDBP4GE2HZMTBJTY.jpg?auth=cddb9b477e06a37d171ffd15706b6b0f956f5458b3f237d1861d782afe5d1b69&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "liverpool",
+            "colombia-deportes",
+            "luis díaz",
+            "real madrid",
+            "bayern munich",
+            "malick fofana",
+            "rodrygo"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/07/23/liverpool-empezaria-a-decirle-adios-a-luis-diaz-tendria-dos-figuras-en-europa-como-reemplazo-del-colombiano/",
+        "date": "2025-07-23 00:50:49",
+        "sentiment_score": 0.027350157499313354
+    },
+    {
+        "title": "Las mentiras cochinas",
+        "image_url": "https://s.libertaddigital.com/2024/09/27/pedro-sanchez-begona-gomez-pedro-almodovar-recorte.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-07-23/pedro-de-tena-las-mentiras-cochinas-7279193/",
+        "date": "2025-07-23 00:31:08",
+        "sentiment_score": -0.22153671085834503
+    },
+    {
+        "title": "La banca de inversión ve España como el epicentro mundial del hidrógeno verde: el país cumple con todos los requisitos",
+        "image_url": "https://s1.elespanol.com/2025/03/27/actualidad/934417451_254252100_1706x960.jpg?contentId=934417451",
+        "tags": [
+            "energías renovables",
+            "observatorio de la energía",
+            "fondos de inversión",
+            "hidrógeno",
+            "energía - biogás"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20250723/banca-inversion-ve-espana-epicentro-mundial-hidrogeno-verde-pais-cumple-requisitos/1003743858680_0.html",
+        "date": "2025-07-23 00:04:48",
+        "sentiment_score": 0.8537095095962286
+    },
+    {
+        "title": "Tomás Etcheverry le puso punto final a su relación con De la Peña",
+        "image_url": "https://www.infobae.com/resizer/v2/VVZUCJCAKRG7BFVVMJ2C6ILMMM.jpg?auth=c0c76991e2389a2e7a846aa3a61e537ec9a09033b5c64419ef70bc45efb1c117&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "horacio de la peña",
+            "deportes-argentina",
+            "tenis argentino",
+            "tomás etcheverry"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/22/tomas-etcheverry-le-puso-punto-final-a-su-relacion-con-de-la-pena/",
+        "date": "2025-07-22 23:45:52",
+        "sentiment_score": -0.7100362256169319
+    },
+    {
+        "title": "Precios de los alimentos aumentan en todo el mundo",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/07/Alimentos-730x524.webp",
+        "tags": [
+            "precios",
+            "mundo",
+            "cambio climático",
+            "alimentos",
+            "clima",
+            "aumento",
+            "economía",
+            "especiales"
+        ],
+        "link": "https://primicia.com.ve/especiales/especiales-especiales/precios-de-los-alimentos-aumentan-en-todo-el-mundo/",
+        "date": "2025-07-22 23:45:46",
+        "sentiment_score": -0.16611987352371216
+    },
+    {
+        "title": "Museografía de vanguardia",
+        "image_url": "https://s1.elespanol.com/2025/07/12/actualidad/1003743845444_257238647_1706x960.jpg?contentId=1003743845444",
+        "tags": [
+            "mínima molestia",
+            "museos",
+            "generalitat de catalunya"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/opinion/minima_molestia_ignacio_echevarria/20250722/museografia-vanguardia/1003743845441_13.html",
+        "date": "2025-07-22 23:45:20",
+        "sentiment_score": 0.46492743492126465
+    },
+    {
+        "title": "¿Adiós al café para siempre? Estos son los mejores sustitutos de la cafeína: son naturales, gratis y más eficientes",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753236342817.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/adios-al-cafe-para-siempre-estos-son-los-mejores-sustitutos-de-la-cafeina-son-naturales-gratis-y-mas-eficientes-202572222100",
+        "date": "2025-07-23 02:10:00",
+        "sentiment_score": 0.25519391894340515
+    },
+    {
+        "title": "¡Cazzu está harta! no quiere que le pregunten más por Christian Nodal: Ya dije todo lo que tenía que decir",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753237405139.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "¡cazzu está harta! no quiere que le pregunten más por christian nodal: ya dije todo lo que tenía que decir"
+        ],
+        "link": "https://2001online.com/farandula/cazzu-esta-harta-no-quiere-que-le-pregunten-mas-por-christian-nodal-ya-dije-todo-lo-que-tenia-que-decir-20257222270",
+        "date": "2025-07-23 02:07:00",
+        "sentiment_score": -0.8546701185405254
+    },
+    {
+        "title": "Alerta máxima por ascenso de nivel del río Orinoco debido a las intensas lluvias: más de mil familias están en refugios",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753233542070.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "alerta máxima por ascenso de nivel del río orinoco debido a las intensas lluvias: más de mil familias están en refugios"
+        ],
+        "link": "https://2001online.com/comunidad/alerta-maxima-por-ascenso-de-nivel-del-rio-orinoco-debido-a-las-intensas-lluvias-mas-de-mil-familias-estan-en-refugios-20257222260",
+        "date": "2025-07-23 02:06:00",
+        "sentiment_score": 0.02521529793739319
+    },
+    {
+        "title": "¡Más protección para inmigrantes! Esta ciudad de Nuevo México prohíbe la cooperación con agentes federales",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753235101115.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "¡más protección para inmigrantes! esta ciudad de nuevo méxico prohíbe la cooperación con agentes federales"
+        ],
+        "link": "https://2001online.com/usa/internacionales/mas-proteccion-para-inmigrantes-esta-ciudad-de-nuevo-mexico-prohibe-la-cooperacion-con-agentes-federales-20257222200",
+        "date": "2025-07-23 02:00:00",
+        "sentiment_score": -0.6300981268286705
+    },
+    {
+        "title": "¡Adiós a las cremas hidratantes de marcas reconocidas! Revelan una milagrosa fuente natural de colágeno: logra una piel lozana a bajo costo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753125774972.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/adios-a-las-cremas-hidratantes-de-marcas-reconocidas-revelan-una-milagrosa-fuente-natural-de-colageno-logra-una-piel-lozana-a-bajo-costo-20257222200",
+        "date": "2025-07-23 02:00:00",
+        "sentiment_score": 0.8719472568482161
+    },
+    {
+        "title": "¡Y no es el huevo! Estos son los verdaderos alimentos con más proteínas: son más sanos y tienen exquisito sabor",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753235345410.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/y-no-es-el-huevo-estos-son-los-verdaderos-alimentos-con-mas-proteinas-son-mas-sanos-y-tienen-exquisito-sabor-202572221550",
+        "date": "2025-07-23 01:55:00",
+        "sentiment_score": 0.442915216088295
+    },
+    {
+        "title": "Agentes del ICE arrestan a indocumentados aún sin antecedentes: conozca los planes del Servicio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753236414801.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "agentes del ice arrestan a indocumentados aún sin antecedentes: conozca los planes del servicio"
+        ],
+        "link": "https://2001online.com/usa/servicios/agentes-del-ice-arrestan-a-indocumentados-aun-sin-antecedentes-conozca-los-planes-del-servicio-202572221480",
+        "date": "2025-07-23 01:48:00",
+        "sentiment_score": -0.06875158101320267
+    },
+    {
+        "title": "¿Se puede trabajar por un sueldo menor al salario mínimo en EEUU?: la ley estipula esto",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753235561354.webp?ch=212&cw=377&extw=webp",
+        "tags": [
+            "¿se puede trabajar por un sueldo menor al salario mínimo en eeuu?: la ley estipula esto"
+        ],
+        "link": "https://2001online.com/usa/servicios/se-puede-trabajar-por-un-sueldo-menor-al-salario-minimo-en-eeuu-la-ley-estipula-esto-202572221400",
+        "date": "2025-07-23 01:40:00",
+        "sentiment_score": -0.011080674827098846
+    },
+    {
+        "title": "Banco del Tesoro: estos son los límites para consumos internacionales con la tarjeta Master Debit",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753235279540.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "banco del tesoro: estos son los límites para consumos internacionales con la tarjeta master debit"
+        ],
+        "link": "https://2001online.com/servicios/banco-del-tesoro-estos-son-los-limites-para-consumos-internacionales-con-la-tarjeta-master-debit-202572221210",
+        "date": "2025-07-23 01:21:00",
+        "sentiment_score": 0.0010313615202903748
+    },
+    {
+        "title": "Lo dice afamado neurocientífico de la Universidad de Stanford: este es el tiempo mínimo semanal que debes dedicarle al cardio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753233215676.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/lo-dice-afamado-neurocientifico-de-la-universidad-de-stanford-este-es-el-tiempo-minimo-semanal-que-debes-dedicarle-al-cardio-202572221200",
+        "date": "2025-07-23 01:20:00",
+        "sentiment_score": 0.576608182862401
     }
 ];
