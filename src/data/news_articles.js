@@ -194,23 +194,6 @@ export default [
         "sentiment_score": -0.10511643812060356
     },
     {
-        "title": "Fallece Joan Callau, exalcalde socialista de Sant Adrià del Besòs",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RFSHP7ACCJBYDATLAO4BZH3WEU.jpg?auth=bc3e6762d03017ac37dae3ea79f3d5c9b2c894b87a9946a6857202ad39dbda07&width=1200",
-        "tags": [
-            "psc",
-            "cataluña",
-            "obituarios",
-            "enfermedades",
-            "ayuntamientos",
-            "sant adrià de besòs",
-            "política",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-20/fallece-joan-callau-exalcalde-socialista-de-sant-adria-del-besos.html",
-        "date": "2025-07-20 11:58:01",
-        "sentiment_score": 0.049121346324682236
-    },
-    {
         "title": "Ellas, con el balón en los pies, son un caballo de Troya",
         "image_url": "https://static.eldiario.es/clip/bdee3a42-de72-41cf-a4d9-18f256265033_16-9-discover-aspect-ratio_default_0.jpg",
         "tags": [
@@ -8165,5 +8148,445 @@ export default [
         "link": "https://2001online.com/servicios/atencion-contribuyentes-de-caracas-asi-seran-premiadas-las-comunidades-con-mayor-recaudacion-20257231740",
         "date": "2025-07-23 21:04:00",
         "sentiment_score": 0.18315153568983078
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Málaga este 24 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa noticias",
+            "noticias",
+            "españa sociedad",
+            "málaga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/24/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-malaga-este-24-de-julio/",
+        "date": "2025-07-24 02:01:37",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Madrid este 24 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/GKA3FFW4JFEB7GOJJXLN52MWJM.jpg?auth=0e6afbb455d1ff051763747db8015f9da4f28384c065c1e5b997011e10cc4009&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "madrid",
+            "españa sociedad",
+            "noticias",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/24/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-madrid-este-24-de-julio/",
+        "date": "2025-07-24 01:31:16",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "España: el pronóstico del tiempo en Barcelona este 24 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa sociedad",
+            "barcelona",
+            "noticias",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/24/espana-el-pronostico-del-tiempo-en-barcelona-este-24-de-julio/",
+        "date": "2025-07-24 01:17:51",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "La selección española femenina de fútbol entra en la final de la Eurocopa tras lograr la victoria contra Alemania con un único gol al final de la prórroga",
+        "image_url": "https://www.infobae.com/resizer/v2/GFD3QRCAMNG2BNZNB673RTO6GE.jpg?auth=092edf827a8f1e41e9cc3affc20d7d1f6737a264abfd2ceb61b17d925ddbf5e6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "eurocopa femenina 2025",
+            "seleccion  espanola de futbol",
+            "españa-noticias",
+            "españa-deportes",
+            "eurocopa",
+            "seleccion espanola femenina",
+            "seleccion espanola femenina de futbol"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/07/24/la-seleccion-espanola-femenina-de-futbol-entra-en-la-final-de-la-eurocopa-tras-lograr-la-victoria-contra-alemania-con-un-unico-gol-al-final-de-la-prorroga/",
+        "date": "2025-07-24 00:04:26",
+        "sentiment_score": 0.48724716901779175
+    },
+    {
+        "title": "Top de las mejores películas de Netflix en España",
+        "image_url": "https://www.infobae.com/resizer/v2/OF5EMOTUMFDI3PH7EMHYN7H72E.jpg?auth=020a872697c6a572b54c51b637fb0725d510834f7efb3ca1d0b530a138a5004c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "netflix",
+            "streaming",
+            "españa-televisión",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/23/top-de-las-mejores-peliculas-de-netflix-en-espana/",
+        "date": "2025-07-23 23:31:08",
+        "sentiment_score": 0.29326120018959045
+    },
+    {
+        "title": "Top de películas imprescindibles para ver HOY en Prime Video España",
+        "image_url": "https://www.infobae.com/resizer/v2/T5GRYRGLF5CTTODZNO37SASCCI.jpg?auth=05bbfa9c2f2eb1d2ab2642005b4137141bc74068ce3c8c285e27b747d1680e80&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "streaming",
+            "prime video",
+            "españa-televisión",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/07/23/top-de-peliculas-imprescindibles-para-ver-hoy-en-prime-video-espana/",
+        "date": "2025-07-23 23:30:49",
+        "sentiment_score": 0.7287179473787546
+    },
+    {
+        "title": "El golazo a los 112 minutos con el que España venció por primera vez a Alemania y avanzó a la final de la Eurocopa femenina",
+        "image_url": "https://www.infobae.com/resizer/v2/RGNAKXWML5AS7EPRVI4QTWTAE4.jpg?auth=c3d5e7f2f99bc69b8a683b63f3bf42cdada0991b8fff0e9d0dd92d41eb12246a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "eurocopa femenina",
+            "aitana bonmatí",
+            "deportes-internacional",
+            "selección de alemania",
+            "selección de españa",
+            "deportes-espn"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/23/el-golazo-a-los-112-minutos-con-el-que-espana-vencio-por-primera-vez-a-alemania-y-avanzo-a-la-final-de-la-eurocopa-femenina/",
+        "date": "2025-07-23 23:23:21",
+        "sentiment_score": 0.5324413478374481
+    },
+    {
+        "title": "AV. España derrota a Alemania y se mete en la final de la Eurocopa Femenina por primera vez",
+        "image_url": "https://www.infobae.com/resizer/v2/LDZKABMPCNHUHL7TBVZNLDOXXU.jpg?auth=26ede61f057d6da61f6a6322c92bd2b070606ea82e34fcec38f3c6f70fe44417&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/23/av-espana-derrota-a-alemania-y-se-mete-en-la-final-de-la-eurocopa-femenina-por-primera-vez/",
+        "date": "2025-07-23 22:20:12",
+        "sentiment_score": 0.30738310515880585
+    },
+    {
+        "title": "Vilagarcía cancela a Mägo de Oz por insultar a Sánchez y «frivolizar» con las drogas y la prostitución",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/43/media_thumb-link-4080450.webp?1753277346=",
+        "tags": [
+            "mago de oz",
+            "actualidad",
+            "drogas",
+            "pedro sanchez",
+            "prostitución",
+            "cancelacion"
+        ],
+        "link": "https://www.meneame.net/story/vilagarcia-cancela-mago-oz-insultar-sanchez-frivolizar-drogas",
+        "date": "2025-07-24 00:55:02",
+        "sentiment_score": -0.6440081335604191
+    },
+    {
+        "title": "Museos de la ciudad de León: Liceo Egipcio",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/21/46/7/reproduccion-de-un-espectacular-sarcofago.jpeg",
+        "tags": [
+            "lnc culturas"
+        ],
+        "link": "https://www.lanuevacronica.com/lnc-culturas/liceo-egipcio_179495_102.html",
+        "date": "2025-07-24 02:00:00",
+        "sentiment_score": -0.06868696212768555
+    },
+    {
+        "title": "Xabi Alonso señalado: Recibe críticas desde Alemania",
+        "image_url": "https://pxcdn.meridiano.net/072025/1753321400682.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/usa/futbol/xabi-alonso-senalado-recibe-criticas-desde-alemania-202572321430",
+        "date": "2025-07-24 01:43:00",
+        "sentiment_score": -0.0437278151512146
+    },
+    {
+        "title": "La Feria de los Tontos",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "feria",
+            "tontos"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/feria-tontos_0_2004439548.html",
+        "date": "2025-07-24 01:10:00",
+        "sentiment_score": 0.011266559362411499
+    },
+    {
+        "title": "ERC \"pasa\" del intento de Rufián para ser el candidato del \"frente plurinacional\" que impulsa Podemos para las generales",
+        "image_url": "https://s1.elespanol.com/2025/07/23/espana/politica/1003743860704_257518303_1706x960.jpg?contentId=1003743860704",
+        "tags": [
+            "gabriel rufián",
+            "ione belarra",
+            "arnaldo otegi",
+            "eh bildu",
+            "oriol junqueras",
+            "erc esquerra republicana de cataluña",
+            "irene montero",
+            "política"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250724/erc-pasa-intento-rufian-candidato-frente-plurinacional-impulsa-podemos-generales/1003743860682_0.html",
+        "date": "2025-07-24 00:59:34",
+        "sentiment_score": -0.18206600844860077
+    },
+    {
+        "title": "Brasil avanza a semifinales de la Copa América Femenina tras vencer a Paraguay",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/b81d788/2147483647/strip/true/crop/6072x4048+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2d%2Ff3%2Fa86c819c4975c796f5ff82781196%2F16398a1d0d9e4ce1aeac7bc98b31c125",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-07-23/brasil-avanza-a-semifinales-de-la-copa-america-femenina-tras-vencer-a-paraguay",
+        "date": "2025-07-23 23:52:54",
+        "sentiment_score": 0.6577932350337505
+    },
+    {
+        "title": "Adriana Abascal consolida su relación con Manuel Filiberto de Saboya (y también su marca): debut 'royal' y reclamo de 'celebs'",
+        "image_url": "https://s1.elespanol.com/2025/07/23/actualidad/1003743859768_257501590_1706x960.jpg?contentId=1003743859768",
+        "tags": [
+            "méxico",
+            "tendencias de moda",
+            "celebrities"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20250723/adriana-abascal-consolida-relacion-manuel-filiberto-saboya-marca-debut-royal-reclamo-celebs/1003743859674_0.html",
+        "date": "2025-07-23 23:51:49",
+        "sentiment_score": 0.05141077935695648
+    },
+    {
+        "title": "'Mamá, quiero ser inventor': la startup de formación STEAM que convierte en realidad el sueño frustrado de tres niños",
+        "image_url": "https://s1.elespanol.com/2025/07/22/actualidad/1003743857645_257464734_1706x960.jpg?contentId=1003743857645",
+        "tags": [
+            "programación informática",
+            "innovación",
+            "tecnología",
+            "startups",
+            "steam",
+            "educación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250723/mama-quiero-inventor-startup-formacion-steam-convierte-realidad-sueno-frustrado-ninos/1003743857592_0.html",
+        "date": "2025-07-23 23:50:00",
+        "sentiment_score": 0.6006767004728317
+    },
+    {
+        "title": "Gloria desahuciada",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250724/gloria-desahuciada_319962.html",
+        "date": "2025-07-23 23:30:00",
+        "sentiment_score": -0.6117748320102692
+    },
+    {
+        "title": "AMP. Saúl Ñíguez rescinde contrato con el Atlético de Madrid y firma con el Flamengo hasta diciembre de 2028",
+        "image_url": "https://www.infobae.com/resizer/v2/GTGPJQ2EEFAFTLXLS5DYIYJE3E.jpg?auth=37e29ce127eda7cc87fb858d7c3f9c244b4f0a636484373f851d92bb4c8d63ec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/23/amp-saul-niguez-rescinde-contrato-con-el-atletico-de-madrid-y-firma-con-el-flamengo-hasta-diciembre-de-2028/",
+        "date": "2025-07-23 23:19:08",
+        "sentiment_score": 0.05181583762168884
+    },
+    {
+        "title": "Tesla reduce sus ganancias en el segundo trimestre de 2025 un 16% hasta los 995 millones de euros",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250724011835_120.jpg",
+        "tags": [
+            "motor",
+            "sector"
+        ],
+        "link": "https://www.europapress.es/motor/sector-00644/noticia-tesla-reduce-ganancias-segundo-trimestre-2025-16-995-millones-euros-20250724011835.html",
+        "date": "2025-07-23 23:18:35",
+        "sentiment_score": 0.27605221420526505
+    },
+    {
+        "title": "Marc Seguí: «Quería dar pasos de gigante siendo aún novato»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3400955.jpg",
+        "tags": [
+            "entrevista en mallorca",
+            "es gremi",
+            "sala es gremi",
+            "entrevista",
+            "música en directo",
+            "entrevista en palma",
+            "agenda musical",
+            "música",
+            "marc seguí",
+            "disco",
+            "música en mallorca",
+            "cultura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/07/24/2436167/marc-segui-queria-dar-pasos-gigante-siendo-aun-novato.html",
+        "date": "2025-07-24 02:00:01",
+        "sentiment_score": -0.19218961894512177
+    },
+    {
+        "title": "Prohens pedirá a Sánchez compromisos en vivienda y ayuda en inmigración",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3401217.jpg",
+        "tags": [
+            "pedro sánchez",
+            "inmigración",
+            "marga prohens",
+            "ultimas noticias",
+            "local",
+            "última hora",
+            "viviendas en baleares",
+            "vivienda",
+            "palma",
+            "insularidad",
+            "audiencia",
+            "palma de mallorca"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/07/24/2436341/prohens-pedira-sanchez-compromisos-vivienda-ayuda-inmigracion.html",
+        "date": "2025-07-24 02:00:01",
+        "sentiment_score": 0.0698595941066742
+    },
+    {
+        "title": "Seis meses de prisión por usar una tarjeta perdida para entrar en una discoteca de Es Pla",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3401097.jpg",
+        "tags": [
+            "sucesos en ciutadella",
+            "sucesos",
+            "es pla de sant joan"
+        ],
+        "link": "https://www.menorca.info/menorca/sucesos/2025/07/24/2436249/seis-meses-prision-por-usar-tarjeta-perdida-para-entrar-discoteca-pla.html",
+        "date": "2025-07-24 01:55:59",
+        "sentiment_score": -0.7533391620963812
+    },
+    {
+        "title": "Aitana Bonmatí sobre la Eurocopa femenina",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/07/0dfbfedbe9cde75d731e861bd9c3e76421a977faw.jpg",
+        "tags": [
+            "deportes",
+            "eurocopa femenina",
+            "fútbol",
+            "fútbol femenino",
+            "uefa"
+        ],
+        "link": "https://elsiglo.com.ve/aitana-bonmati-sobre-la-eurocopa-femenina/",
+        "date": "2025-07-24 01:51:24",
+        "sentiment_score": 0.6393201798200607
+    },
+    {
+        "title": "¡Alarma culé! Surgió un nuevo contratiempo para Barcelona",
+        "image_url": "https://pxcdn.meridiano.net/072025/1753320329572.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/usa/futbol/alarma-cule-surgio-un-nuevo-contratiempo-para-barcelona-202572321250",
+        "date": "2025-07-24 01:25:00",
+        "sentiment_score": 0.17545977234840393
+    },
+    {
+        "title": "Del hospital a heroína: el gol de Bonmatí lleva a España a la final de la Euro",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/07/EURO_2025-ESPA209A-BONMATI_14657.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/07/23/del-hospital-a-herona-el-gol-de-bonmat-lleva-a-espaa-a-la-final-de-la-euro/",
+        "date": "2025-07-24 01:13:07",
+        "sentiment_score": 0.6754522286355495
+    },
+    {
+        "title": "\"No hace falta estar mal para ir a terapia\": las palabras de Andrés Iniesta ante los Reyes de España",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753315691771.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "&quot;no hace falta estar mal para ir a terapia&quot;: las palabras de andrés iniesta ante los reyes de españa"
+        ],
+        "link": "https://2001online.com/deportes/no-hace-falta-estar-mal-para-ir-a-terapia-las-palabras-de-andres-iniesta-ante-los-reyes-de-espana-20257232200",
+        "date": "2025-07-24 01:06:53",
+        "sentiment_score": 0.32602789998054504
+    },
+    {
+        "title": "¿Quieres aumentar las ventas y exportar tus productos? Toma nota de estos cuatro pasos claves",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753308543542.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "¿quieres aumentar las ventas y exportar tus productos? toma nota de estos cuatro pasos claves"
+        ],
+        "link": "https://2001online.com/servicios/quieres-aumentar-las-ventas-y-exportar-tus-productos-toma-nota-de-estos-cuatro-pasos-claves-202572322170",
+        "date": "2025-07-24 02:17:00",
+        "sentiment_score": 0.7029963620007038
+    },
+    {
+        "title": "Proponen aumentar la tarifa para ingresar a Europa: este sería el nuevo monto a partir de 2026",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753323182264.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "proponen aumentar la tarifa para ingresar a europa: este sería el nuevo monto a partir de 2026"
+        ],
+        "link": "https://2001online.com/internacionales/proponen-aumentar-la-tarifa-para-ingresar-a-europa-este-seria-el-nuevo-monto-a-partir-de-2026-202572322130",
+        "date": "2025-07-24 02:13:00",
+        "sentiment_score": 0.03652992099523544
+    },
+    {
+        "title": "FMF multa a 'Chicharito' Hernández: conozca los alegatos de la organización",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753322165818.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "fmf multa a &#x27;chicharito&#x27; hernández: conozca los alegatos de la organización"
+        ],
+        "link": "https://2001online.com/deportes/fmf-multa-a-chicharito-hernandez-conozca-los-alegatos-de-la-organizacion-202572322450",
+        "date": "2025-07-24 02:07:00",
+        "sentiment_score": -0.8037850707769394
+    },
+    {
+        "title": "Redadas ICE del 23 de julio: arrestan a 243 inmigrantes indocumentados en Denver",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753322648725.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "redadas ice del 23 de julio: arrestan a 243 inmigrantes indocumentados en denver"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-23-de-julio-arrestan-a-243-inmigrantes-indocumentados-en-denver-20257232220",
+        "date": "2025-07-24 02:02:00",
+        "sentiment_score": -0.48453930020332336
+    },
+    {
+        "title": "¡Vacaciones de terror! Texano se lanza al agua para hacer snorkel y el hélice de un barco destroza sus piernas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753328113821.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "¡vacaciones de terror! texano se lanza al agua para hacer snorkel y el hélice de un barco destroza sus piernas"
+        ],
+        "link": "https://2001online.com/sucesos/vacaciones-de-terror-texano-se-lanza-al-agua-para-hacer-snorkel-y-el-helice-de-un-barco-destroza-sus-piernas-20257232210",
+        "date": "2025-07-24 02:01:00",
+        "sentiment_score": -0.8169761803001165
+    },
+    {
+        "title": "UBER cambia sus reglas en California: las mujeres tendrán ahora este increíble beneficio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753324981576.webp?ch=212&cw=377&extw=webp",
+        "tags": [
+            "uber cambia sus reglas en california: las mujeres tendrán ahora este increíble beneficio"
+        ],
+        "link": "https://2001online.com/usa/servicios/uber-cambia-sus-reglas-en-california-las-mujeres-tendran-ahora-este-increible-beneficio--20257232200",
+        "date": "2025-07-24 02:00:00",
+        "sentiment_score": 0.0014657042920589447
+    },
+    {
+        "title": "¡Alarma mundial por la dieta Princesas de Disney! Alertan sobre régimen peligroso para perder peso de manera veloz: lo convirtieron en reto viral",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753210515901.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/alarma-mundial-por-la-dieta-princesas-de-disney-alertan-sobre-regimen-peligroso-para-perder-peso-de-manera-veloz-lo-convirtieron-en-reto-viral-20257232200",
+        "date": "2025-07-24 02:00:00",
+        "sentiment_score": 0.42215030640363693
+    },
+    {
+        "title": "¡Autonomía en peligro! DHS ordena investigar a la autoridad de Harvard por su programa de visas de intercambio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753317946564.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "¡autonomía en peligro! dhs ordena investigar a la autoridad de harvard por su programa de visas de intercambio"
+        ],
+        "link": "https://2001online.com/usa/internacionales/autonomia-en-peligro-dhs-ordena-investigar-a-la-autoridad-de-harvard-por-su-programa-de-visas-de-intercambio-20257232200",
+        "date": "2025-07-24 02:00:00",
+        "sentiment_score": 0.043509796261787415
+    },
+    {
+        "title": "Tiburón ataca a un hombre en Hollywood Beach: a los 30 minutos los bañistas volvieron al agua",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753319900658.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "tiburón ataca a un hombre en hollywood beach: a los 30 minutos los bañistas volvieron al agua"
+        ],
+        "link": "https://2001online.com/usa/internacionales/tiburon-ataca-a-un-hombre-en-hollywood-beach-a-los-30-minutos-los-banistas-volvieron-al-agua-202572321570",
+        "date": "2025-07-24 01:57:00",
+        "sentiment_score": -0.5578774604946375
+    },
+    {
+        "title": "Macron demanda a Candace Owens por por difamación: la influencer afirma que la primera dama francesa nació varón",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753321533326.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "macron demanda a candace owens por por difamación: la influencer afirma que la primera dama francesa nació varón"
+        ],
+        "link": "https://2001online.com/internacionales/macron-demanda-a-candace-owens-por-por-difamacion-la-influencer-afirma-que-la-primera-dama-francesa-nacio-varon-202572321560",
+        "date": "2025-07-24 01:56:00",
+        "sentiment_score": -0.30731355398893356
     }
 ];
