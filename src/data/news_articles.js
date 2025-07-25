@@ -1,332 +1,5 @@
 export default [
     {
-        "title": "Expertas en limpieza explican todos los otros usos que tiene el abrillantador de los platos: “Di adiós a las odiosas marcas de dedos y de agua”",
-        "image_url": "https://www.infobae.com/resizer/v2/HB7JMYLBMNEXVDCRXWJOLJ45Q4.jpg?auth=4cfb883945550407536410c5a83d448bf6864d207fd871a07ee0f4682ee9a5d4&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "casa",
-            "limpieza",
-            "limpieza del hogar",
-            "lavavajillas",
-            "españa-sociedad",
-            "españa-noticias",
-            "hogar"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/21/expertas-en-limpieza-explican-todos-los-otros-usos-que-tiene-el-abrillantador-de-los-platos-di-adios-a-las-odiosas-marcas-de-dedos-y-de-agua/",
-        "date": "2025-07-21 06:36:36",
-        "sentiment_score": 0.5759587977081537
-    },
-    {
-        "title": "Un francés que vive en España explica por qué los españoles creen que les tratan mal en su país: “El respeto, como la confianza, hay que ganárselo”",
-        "image_url": "https://www.infobae.com/resizer/v2/L3ECSLZSP5DGLPDOEOXJPY54W4.jpg?auth=77891fa10534bc9d3b40cad78e3b33acd1bf055446177e3de2af409d93bc9bc8&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "estados unidos",
-            "tiktok españa",
-            "españa-sociedad",
-            "redes sociales",
-            "españa-noticias",
-            "virales",
-            "tiktok"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/21/un-frances-que-vive-en-espana-explica-por-que-los-espanoles-creen-que-les-tratan-mal-en-su-pais-el-respeto-como-la-confianza-hay-que-ganarselo/",
-        "date": "2025-07-21 06:31:00",
-        "sentiment_score": 0.12433867156505585
-    },
-    {
-        "title": "¿Es mejor orinar de pie o sentado? Un enfermero lo aclara: “Hay gente que parece que tiene un aspersor”",
-        "image_url": "https://www.infobae.com/resizer/v2/JNJZ5B2ZR5CGHC4WLASLS74NWM.jpg?auth=4511ef7f68658b0dac6377024a4671dad670c8b23e1b4a7591787eb391d739c8&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "tiktok españa",
-            "redes sociales",
-            "españa-noticias",
-            "próstata",
-            "españa-salud",
-            "tiktok"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/21/es-mejor-orinar-de-pie-o-sentado-un-enfermero-lo-aclara-hay-gente-que-parece-que-tiene-un-aspersor/",
-        "date": "2025-07-21 06:23:39",
-        "sentiment_score": 0.5182422213256359
-    },
-    {
-        "title": "Carlos Cuerpo informará este lunes en el Congreso del expediente de Bruselas a España por la OPA de BBVA",
-        "image_url": "https://www.infobae.com/resizer/v2/MR5BUOJ6S5HWXLN3U6ZOTU6QWI.jpg?auth=ef54d78674d0611f8f79ec90d4b70df8f6d42a616d74d48de18ed7d14965fd33&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/07/21/carlos-cuerpo-informara-este-lunes-en-el-congreso-del-expediente-de-bruselas-a-espana-por-la-opa-de-bbva/",
-        "date": "2025-07-21 06:19:23",
-        "sentiment_score": -0.003795687109231949
-    },
-    {
-        "title": "Al menos 13 muertos en un accidente de autobús en Rusia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/21/rusia-kp1F-U701318136260njD-1200x840@diario_abc.PNG",
-        "tags": [
-            "accidente",
-            "rusia",
-            "autobus",
-            "muertos"
-        ],
-        "link": "https://www.abc.es/internacional/muertos-accidente-autobus-rusia-20250721082744-nt.html",
-        "date": "2025-07-21 06:27:44",
-        "sentiment_score": -0.8553741602227092
-    },
-    {
-        "title": "Última hora de la actualidad política, en directo | Pardo de Vera y el exdirector de Carreteras comparecen ante el juez por amaños en obras públicas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MVIAA6TZVZCYVAAPPPVDZOCRMA.jpg?auth=e55fe2d1888a6a763a746640f50dabd2ba5a8136c5481eb99e502b35ea14aef8&width=1200",
-        "tags": [
-            "vox",
-            "josé luis ábalos",
-            "caso koldo",
-            "política",
-            "sumar",
-            "debates parlamentarios",
-            "santiago abascal",
-            "alberto núñez feijóo",
-            "cristóbal montoro",
-            "españa",
-            "pp",
-            "santos cerdán",
-            "senado",
-            "parlamento",
-            "partidos políticos",
-            "yolanda díaz",
-            "koldo garcía",
-            "psoe",
-            "congreso diputados",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2025-07-21/ultima-hora-de-la-actualidad-politica-en-directo.html",
-        "date": "2025-07-21 05:30:01",
-        "sentiment_score": 0.17291762307286263
-    },
-    {
-        "title": "Un goleador alemán de lazo con Maradona y dos arqueros españoles: los “europibes” que jugarán con Argentina en L’Alcudia",
-        "image_url": "https://www.infobae.com/resizer/v2/CV46357IQBFOFPU6RJP3YB65PM.jpg?auth=25f8459ba72e712220d0457407f2b848b352e83d96a673989a5ed514a919730c&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "cotif 2025",
-            "alain gómez",
-            "deportes-argentina",
-            "selección argentina",
-            "can armando güner",
-            "josé castelau de roa"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/07/21/un-goleador-aleman-de-lazo-con-maradona-y-dos-arqueros-espanoles-los-europibes-que-jugaran-con-argentina-en-lalcudia/",
-        "date": "2025-07-21 06:39:49",
-        "sentiment_score": 0.15181203931570053
-    },
-    {
-        "title": "La leyenda croata que embelesó a Modric de niño y que le hizo fichar por el Milan: \"Veía mucho la liga italiana por mi ídolo\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/07/21/modric-firma-con-el-ac-milan.png",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/noticia/5733022/0/leyenda-croata-que-embeleso-modric-nino-que-le-hizo-fichar-por-milan-veia-mucho-liga-italiana-por-mi-idolo/",
-        "date": "2025-07-21 06:28:25",
-        "sentiment_score": 0.7205807380378246
-    },
-    {
-        "title": "La semana arranca inestable y lluviosa en el norte y más soleada en el resto de España",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/07/21/vista-de-la-playa-cartagenera-de-cala-cortina-este-domingo.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/07/21/la-semana-arranca-inestable-y-lluviosa-en-el-norte-y-mas-soleada-en-el-resto-de-espana-1840961-daa.html",
-        "date": "2025-07-21 06:28:09",
-        "sentiment_score": -0.8657400216907263
-    },
-    {
-        "title": "Las asociaciones serán clave en la evaluación de tecnología sanitaria",
-        "image_url": "https://static.grupojoly.com/clip/fe509adc-95ad-4b64-ba54-892698a3b809_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "clave",
-            "evaluacion",
-            "seran",
-            "asociaciones",
-            "tecnologia"
-        ],
-        "link": "https://www.malagahoy.es/salud/actualidad/asociaciones-seran-clave-evaluacion-tecnologia_0_2004416559.html",
-        "date": "2025-07-21 06:14:13",
-        "sentiment_score": 0.30780852772295475
-    },
-    {
-        "title": "Las asociaciones serán clave en la evaluación de tecnología sanitaria",
-        "image_url": "https://static.grupojoly.com/clip/fe509adc-95ad-4b64-ba54-892698a3b809_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "evaluacion",
-            "seran",
-            "clave",
-            "asociaciones",
-            "tecnologia"
-        ],
-        "link": "https://www.diariodejerez.es/salud/actualidad/asociaciones-seran-clave-evaluacion-tecnologia_0_2004416551.html",
-        "date": "2025-07-21 06:14:12",
-        "sentiment_score": 0.2927214168012142
-    },
-    {
-        "title": "La expresidenta de Adif y el exdirector de Carreteras, ante el juez por amaños en obras públicas",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/06/26/la-ex-presidenta-de-adif-y-ex-secretaria-de-estado-de-transportes-movilidad-y-agenda-urbana-isabel-pardo-de-vera-posada.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/la-expresidenta-adif-exdirector-carreteras-juez-amanos-obras-publicasbr.html",
-        "date": "2025-07-21 06:36:33",
-        "sentiment_score": -0.7697271164506674
-    },
-    {
-        "title": "Los famosos cosméticos asiáticos 'viajan' desde Corea al centro de Granada",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/07/17/Miin%20negocio%201.jpeg",
-        "tags": [
-            "ciudad",
-            "cosmeticos",
-            "granada",
-            "corea",
-            "llegan",
-            "famosos",
-            "asiaticos",
-            "centro"
-        ],
-        "link": "https://www.ideal.es/granada/famosos-cosmeticos-asiaticos-viajan-corea-centro-granada-20250721083142-nt.html",
-        "date": "2025-07-21 06:31:43",
-        "sentiment_score": 0.08946730196475983
-    },
-    {
-        "title": "Vuelos por 29 libras y vistas al Atlántico: este irresistible destino gallego enamora a Reino Unido",
-        "image_url": "https://fotografias.larazon.es/clipping/cmsimages01/2025/07/21/A14FF4CC-C97F-4F68-A9F1-59F398A67B4B/galerias-ciudad_69.jpg?crop=1246%2C701%2Cx81%2Cy0&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "galicia"
-        ],
-        "link": "https://www.larazon.es/galicia/vuelos-29-libras-vistas-atlantico-este-irresistible-destino-gallego-enamora-reino-unido_20250721687ddb1cffbf4a1a673d854c.html",
-        "date": "2025-07-21 06:20:15",
-        "sentiment_score": 0.8496911861002445
-    },
-    {
-        "title": "Las 10 noticias más importantes del mundo ahora mismo: 21 de julio de 2025",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2025/07/presidente-gobierno-pedro-sanchez-vicepresidenta-segunda-ministra-trabajo-yolanda-diaz-4346665.jpg?tf=1200x",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.businessinsider.es/economia/10-noticias-importantes-mundo-ahora-mismo-21-julio-2025-1405124",
-        "date": "2025-07-21 06:20:00",
-        "sentiment_score": 0.1109551340341568
-    },
-    {
-        "title": "La AEMET confirma un cambio drástico del tiempo a partir de este día: alerta amarilla en Barcelona",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/31/672342bb4fd93.r_d.2453-3155.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20250721/1002503419/aemet-confirma-cambio-drastico-partir-dia-alerta-amarilla-barcelona-dct.html",
-        "date": "2025-07-21 06:17:51",
-        "sentiment_score": 0.16497722268104553
-    },
-    {
-        "title": "Badalona busca la mejor 'smash burger' (y otras noticias gastro)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/04ec5cb9-e3aa-40a3-87b1-563d328733b3_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hoteles",
-            "cocineros",
-            "gastronomía",
-            "badalona",
-            "restaurantes barcelona",
-            "restaurante",
-            "qué comer hoy",
-            "cóctel y coctelerías",
-            "dónde comer hoy",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/20250721/smash-edition-the-champions-burger-badalona-119764061",
-        "date": "2025-07-21 06:16:59",
-        "sentiment_score": 0.7183026298880577
-    },
-    {
-        "title": "\"En Barcelona hay un déficit de videovigilancia clarísimo\"",
-        "image_url": "https://static1.ara.cat/clip/328743bc-44b2-4df8-a25b-4ece17692e53_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "deficit",
-            "videovigilancia",
-            "hay",
-            "barcelona",
-            "clarisimo"
-        ],
-        "link": "https://es.ara.cat/sociedad/barcelona/barcelona-hay-deficit-videovigilancia-clarisimo_128_5450247.html",
-        "date": "2025-07-21 06:11:20",
-        "sentiment_score": -0.4451393261551857
-    },
-    {
-        "title": "Nuevas caras y viejas metas",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/8831ea42-ccb5-437d-8b6276fa65fe4af7.jpg",
-        "tags": [
-            "diego simeone",
-            "sevilla fc",
-            "inter de miami",
-            "real madrid",
-            "los ángeles",
-            "fichajes",
-            "fc barcelona",
-            "enrique cerezo",
-            "osasuna",
-            "villarreal cf",
-            "ángel correa",
-            "atlético de madrid",
-            "betis",
-            "rcd espanyol",
-            "jesús areso",
-            "alavés",
-            "miami"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zf1449bb0-b245-4441-bd29033d564d79d1/202507/nuevas-caras-y-viejas-metas",
-        "date": "2025-07-21 06:09:36",
-        "sentiment_score": 0.5899301394820213
-    },
-    {
-        "title": "Flick, obligado a hacer otro milagro",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/e78415f3-4711-48a9-b7f2ae6491068ed1.jpg",
-        "tags": [
-            "ronald koeman",
-            "manchester united",
-            "ferran torres",
-            "fc barcelona",
-            "xavi hernández",
-            "íñigo martínez",
-            "adn",
-            "robert lewandowski",
-            "balón de oro",
-            "hansi flick",
-            "raphinha",
-            "pedri"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zbe45b98b-6b45-4a23-85670cc8d4d5b177/202507/flick-obligado-a-hacer-otro-milagro",
-        "date": "2025-07-21 06:08:20",
-        "sentiment_score": 0.5946663394570351
-    },
-    {
-        "title": "El poder adquisitivo se queda encallado",
-        "image_url": "https://www.eldiadevalladolid.com/media/img/2025/1be26e75-8a9c-45ba-9dfd27686498f9a9.jpg",
-        "tags": [
-            "eurozona",
-            "irlanda",
-            "badajoz",
-            "reino unido",
-            "almería",
-            "madrid",
-            "finlandia",
-            "hungría",
-            "austria",
-            "barcelona",
-            "economía",
-            "pib",
-            "ucrania",
-            "bélgica",
-            "ocde",
-            "guipúzcoa",
-            "españa",
-            "portugal"
-        ],
-        "link": "https://www.eldiadevalladolid.com/noticia/z3aefa2e5-04ca-4904-acbde2990b32d422/202507/el-poder-adquisitivo-se-queda-encallado",
-        "date": "2025-07-21 06:04:29",
-        "sentiment_score": -0.2784167155623436
-    },
-    {
         "title": "Un padre va a los tribunales porque no quiere pagar la pensión a sus hijos universitarios y alega desapego: el juez se lo niega porque son buenos estudiantes",
         "image_url": "https://www.infobae.com/resizer/v2/S4PDKYWK5NAZ7CJHYCKCQ3ML6I.jpg?auth=b57903673632e305842e1332acfd391e8c04d0754b20f776b25e23860290c67c&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -7821,5 +7494,223 @@ export default [
         "link": "https://2001online.com/zona3d/salud/ansiedad-y-problemas-para-dormir-tu-cuerpo-avisa-que-estas-estresado-y-estas-son-las-formulas-milagrosas-para-evitarlo-20257246300",
         "date": "2025-07-24 10:30:00",
         "sentiment_score": 0.016922980546951294
+    },
+    {
+        "title": "Carrefour facturó 2.872 millones de euros en España durante el segundo trimestre, un 3,5% más",
+        "image_url": "https://www.infobae.com/resizer/v2/PXOJL5NQTJHBZCQUDCJAO3PBFI.jpg?auth=c02387248f446767f211bca10484453928945a6da8b3c6cfcbf0bc9c121e6a90&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/24/carrefour-facturo-2872-millones-de-euros-en-espana-durante-el-segundo-trimestre-un-35-mas/",
+        "date": "2025-07-24 18:49:10",
+        "sentiment_score": 0.3104878105223179
+    },
+    {
+        "title": "Sumar plantea que todas las parejas de hecho puedan percibir la pensión de viudedad a la vez que la jubilación: “Genera una nueva forma de discriminación”",
+        "image_url": "https://www.infobae.com/resizer/v2/CQWG4DGP2VFXPH2GG7I4HZOSOE.jpg?auth=bc39d682a4a9994baeb0c3f69ad5b7d4af29e78dd5b65c6714b3603135a6b3ef&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa",
+            "españa-noticias",
+            "política españa",
+            "españa-nacional",
+            "sumar",
+            "gobierno de españa",
+            "seguridad social españa",
+            "subsidios y ayudas",
+            "parejas",
+            "pensiones",
+            "matrimonio"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/24/sumar-plantea-que-todas-las-parejas-de-hecho-puedan-percibir-la-pension-de-viudedad-a-la-vez-que-la-jubilacion-genera-una-nueva-forma-de-discriminacion/",
+        "date": "2025-07-24 17:55:17",
+        "sentiment_score": -0.10860678553581238
+    },
+    {
+        "title": "La muy seria eficacia de los videojuegos engancha a la gestión empresarial",
+        "image_url": "https://phantom-elmundo.uecdn.es/9ec8132c48b3fdc1d8c41ffae7198236/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/18/17528472844883.jpg",
+        "tags": [
+            "actualidad económica",
+            "vida laboral"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/07/25/687a547421efa0fa428b45a6.html",
+        "date": "2025-07-24 22:08:39",
+        "sentiment_score": 0.6723923776298761
+    },
+    {
+        "title": "La tecnología de Oreyeon que busca mejorar la seguridad aeroportuaria aterriza en España",
+        "image_url": "https://phantom-expansion.uecdn.es/ab9423bb33e87ea41acc3815d39bde0d/crop/165x0/1886x1147/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/24/17533909627697.jpg",
+        "tags": [
+            "economía digital>",
+            "empresas>",
+            "innovación>",
+            "artículos florián r.s.>",
+            "innovación y empresas>",
+            "empresas de tecnología>"
+        ],
+        "link": "https://www.expansion.com/economia-digital/innovacion/2025/07/25/6882ad3a468aebc1758b4596.html",
+        "date": "2025-07-24 22:05:27",
+        "sentiment_score": 0.31207965314388275
+    },
+    {
+        "title": "El consumo de alcohol desciende entre los jóvenes pero crecen otras adicciones como el cannabis y el uso de pantallas",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/07/A1-1412081994-1-321x197.jpg",
+        "tags": [
+            "hemeroteca"
+        ],
+        "link": "https://www.economiadigital.es/hemeroteca/consumo-alcohol-desciende-entre-jovenes-crecen-otras-adicciones-cannabis-uso-pantallas.html",
+        "date": "2025-07-24 18:11:21",
+        "sentiment_score": 0.06531583517789841
+    },
+    {
+        "title": "La Federación Mexicana de Fútbol multa a Chicharito por sus comentarios sobre las mujeres",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/24/5652642E-62D2-438E-8615-AA84B217EE0A/chicharito-partido-chivas_98.jpg?crop=4000%2C2251%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/federacion-mexicana-futbol-multa-chicharito-sus-comentarios-mujeres_202507246882719dffbf4a1a67439ff6.html",
+        "date": "2025-07-24 17:47:09",
+        "sentiment_score": -0.20734678953886032
+    },
+    {
+        "title": "El Corte Inglés reelige a Marta Álvarez como presidenta y anuncia 3.000 millones de inversión hasta 2030",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aa63eaff-451c-4083-9c38-b5358754f0a8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "negocios",
+            "madrid",
+            "economía",
+            "administración"
+        ],
+        "link": "https://www.elperiodicodearagon.com/economia/2025/07/24/corte-ingles-reelige-marta-alvarez-120039044.html",
+        "date": "2025-07-24 17:38:16",
+        "sentiment_score": 0.1468920111656189
+    },
+    {
+        "title": "'Chicharito' Hernández se disculpa por sus comentarios machistas: \"Nunca fue mi intención limitar, herir ni dividir\"\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/60249769-7298-422d-b75e-9e35635f81eb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "machismo",
+            "tiktok",
+            "fútbol"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2025/07/24/chicharito-hernandez-disculpa-comentarios-machistas-120038796.html",
+        "date": "2025-07-24 17:23:21",
+        "sentiment_score": -0.6610991023480892
+    },
+    {
+        "title": "Candidata del oficialismo cerró campaña en el centro de Barcelona (+Fotos)",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "política",
+            "venezuela al día",
+            "oficialismo",
+            "cierre de campaña"
+        ],
+        "link": "https://eltiempove.com/candidata-del-oficialismo-cerro-campana-en-el-centro-de-barcelona-fotos/",
+        "date": "2025-07-24 21:37:41",
+        "sentiment_score": 0.13466110080480576
+    },
+    {
+        "title": "Minuto a minuto: Elecciones Municipales 2025/24 de julio",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-11-at-2.38.56-PM.jpeg",
+        "tags": [
+            "línea de tiempo",
+            "destacado"
+        ],
+        "link": "https://ultimasnoticias.com.ve/destacado/minuto-a-minuto-elecciones-municipales-2025-24-de-julio/",
+        "date": "2025-07-24 20:03:16",
+        "sentiment_score": 0.04907018132507801
+    },
+    {
+        "title": "Autoridades estadales conmemoraron el natalicio de Simón Bolívar en Barcelona",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "política",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/autoridades-estadales-conmemoraron-el-natalicio-de-simon-bolivar-en-barcelona/",
+        "date": "2025-07-24 19:54:04",
+        "sentiment_score": 0.04933665692806244
+    },
+    {
+        "title": "Alerta de la Guardia Civil por lo que está pasando a empresas hortofrutícolas en España: \"Se detectan irregularidades\"",
+        "image_url": "https://s10.s3c.es/imag/_v0/1920x1048/7/f/a/1200x655_guardia-civil.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13479198/07/25/alerta-de-la-guardia-civil-por-lo-que-esta-pasando-a-empresas-hortofruticolas-en-espana-se-detectan-irregularidades.html",
+        "date": "2025-07-24 19:21:13",
+        "sentiment_score": -0.8762203399091959
+    },
+    {
+        "title": "La Diputació de Barcelona asume el proceso de selección de plazas funcionariales en cinco municipios de menos de 5.000 habitantes",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/07/24/ple-juliol25-dintre.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/noticia/5734398/0/diputacio-barcelona-asume-proceso-seleccion-plazas-funcionariales-cinco-municipios-menos-5-000-habitantes/",
+        "date": "2025-07-24 18:54:39",
+        "sentiment_score": 0.17515208944678307
+    },
+    {
+        "title": "El Barça prevé volar a Japón este viernes tras restablecer la gira",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/24/3DDD593D-AA44-4D31-BEAC-9872061EB36E/barca-entrenamiento_98.jpg?crop=4041%2C2274%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "deportes",
+            "antena 3 noticias",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/barca-preve-volar-japon-este-viernes_2025072468827f86ffbf4a1a6743b407.html",
+        "date": "2025-07-24 18:46:30",
+        "sentiment_score": -0.8929993119090796
+    },
+    {
+        "title": "Malavé: Barceloneses perciben las municipales como una primaria del chavismo",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "política"
+        ],
+        "link": "https://eltiempove.com/malave-barceloneses-perciben-las-municipales-como-una-primaria-del-chavismo/",
+        "date": "2025-07-24 18:02:26",
+        "sentiment_score": -0.0737580806016922
+    },
+    {
+        "title": "El hermano de Montserrat Caballé podría ser desahuciado por impago del alquiler de 41.000 euros",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/07/24/carlos-kmUG-U2302470764606LVC-1200x840@El%20Norte.jpg",
+        "tags": [
+            "alquiler",
+            "montserrat caballé"
+        ],
+        "link": "https://www.elnortedecastilla.es/gente-estilo/hermano-montserrat-caballe-desahuciado-impago-alquiler-41000-20250724193857-nt.html",
+        "date": "2025-07-24 17:38:57",
+        "sentiment_score": -0.13347437977790833
+    },
+    {
+        "title": "ICE sanciona a Walmart con multa millonaria: descubren estas irregularidades con sus empleados migrantes",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753388533944.webp?ch=212&cw=377&extw=webp",
+        "tags": [
+            "redadas ice",
+            "ice",
+            "walmart"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ice-sanciona-a-walmart-con-multa-millonaria-descubren-estas-irregularidades-con-sus-empleados-migrantes-202572415330",
+        "date": "2025-07-24 19:33:00",
+        "sentiment_score": -0.5421119406819344
+    },
+    {
+        "title": "¡Luz verde! Chevron reactivará operaciones en Venezuela: esto es lo que se sabe",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753379668037.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "combustible",
+            "venezuela",
+            "chevron",
+            "trump"
+        ],
+        "link": "https://2001online.com/nacionales/luz-verde-chevron-reactivara-operaciones-en-venezuela-esto-es-lo-que-se-sabe-202572414160",
+        "date": "2025-07-24 18:16:00",
+        "sentiment_score": -0.7541034463793039
     }
 ];
