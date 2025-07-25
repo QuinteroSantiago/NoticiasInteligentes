@@ -216,41 +216,6 @@ export default [
         "sentiment_score": -0.18433625996112823
     },
     {
-        "title": "Ocho 'gadgets' ideales para sacarle partido a las vacaciones de verano",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/07/21/block_portable_hero-R4W1vVyMRrxWielUmnCdjsK-1200x840@diario_abc.jpg",
-        "tags": [
-            "ocho",
-            "partido",
-            "vacaciones",
-            "sacarle",
-            "verano",
-            "gadgets",
-            "ideales"
-        ],
-        "link": "https://www.abc.es/tecnologia/ocho-gadgets-ideales-sacarle-partido-vacaciones-verano-20250721155453-nt.html",
-        "date": "2025-07-21 13:54:54",
-        "sentiment_score": 0.020471930503845215
-    },
-    {
-        "title": "Cuerpo señala tener las «herramientas necesarias» para paliar el paso de la Dana y de la Administración Trump",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/07/21/1499033674-R95REjDOiRRMkS3a3l2C1DN-1200x840@diario_abc.jpg",
-        "tags": [
-            "administracion",
-            "gobierno",
-            "tener",
-            "paso",
-            "dana",
-            "herramientas",
-            "paliar",
-            "necesarias",
-            "trump",
-            "senala"
-        ],
-        "link": "https://www.abc.es/economia/cuerpo-senala-tener-herramientas-necesarias-paliar-paso-20250721152502-nt.html",
-        "date": "2025-07-21 13:29:34",
-        "sentiment_score": -0.08476528525352478
-    },
-    {
         "title": "Pardo de Vera, ante el juez: “Koldo me decía: ‘Bonita, te tienes que llevar bien con el ministro”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JAPHBWZ4EJDBZM6TNBJIAXHALQ.JPG?auth=9e59ceb0cdc2b49c5033f1f06645b6ef4d66e2f6c8452aa62e13f2c9fec5384c&width=1200",
         "tags": [
@@ -396,23 +361,6 @@ export default [
         "link": "https://elpais.com/espana/2025-07-21/el-constitucional-avoca-a-pleno-el-recurso-en-el-que-puigdemont-pide-la-amnistia.html",
         "date": "2025-07-21 15:13:31",
         "sentiment_score": -0.4621279761195183
-    },
-    {
-        "title": "Génova lamenta que en el PP hubiera “compañeros” que pudieron “usar el partido o el Gobierno para enriquecerse”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TIQ3IKZGZZNNLHES2ZEUNBNSTA.jpg?auth=4ba1653c5e84ac6a7f17d4bfef3d5fc2060040d408657630fe74569b7a1cd35e&width=1200",
-        "tags": [
-            "pp",
-            "corrupción política",
-            "cristóbal montoro",
-            "españa",
-            "marcial dorado",
-            "narcotraficantes",
-            "ester muñoz",
-            "hacienda pública"
-        ],
-        "link": "https://elpais.com/espana/2025-07-21/genova-lamenta-que-en-el-pp-hubiera-companeros-que-pudieron-usar-el-partido-o-el-gobierno-para-enriquecerse.html",
-        "date": "2025-07-21 13:24:13",
-        "sentiment_score": -0.752636156976223
     },
     {
         "title": "El Decreto \"antiapagones\", en el aire",
@@ -7712,5 +7660,78 @@ export default [
         "link": "https://2001online.com/nacionales/luz-verde-chevron-reactivara-operaciones-en-venezuela-esto-es-lo-que-se-sabe-202572414160",
         "date": "2025-07-24 18:16:00",
         "sentiment_score": -0.7541034463793039
+    },
+    {
+        "title": "Cerdán y Begoña borrados",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "begona",
+            "borrados",
+            "cerdan"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/articulos/cerdan-begona-borrados_0_2004447146.html",
+        "date": "2025-07-25 01:06:23",
+        "sentiment_score": -0.6280753761529922
+    },
+    {
+        "title": "Real Kids, la startup que cuida los snacks infantiles",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/19/687beddb6f703.r_d.2387-2003-980.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250725/10906196/real-kids-startup-cuida-snacks-infantiles.html",
+        "date": "2025-07-25 01:00:00",
+        "sentiment_score": 0.33679232001304626
+    },
+    {
+        "title": "La otra cara de la 'escapada' de Banco Sabadell: sacrifica su filial TSB con el viento en contra de los tipos de interés",
+        "image_url": "https://phantom-elmundo.uecdn.es/63aa2b13d58eb487f19599424c7a8eb8/crop/307x307/2765x2765/f/image/jpeg/assets/multimedia/imagenes/2023/10/11/16970261849784.jpg",
+        "tags": [
+            "artículos clara rojas",
+            "banco sabadell",
+            "artículos laura de la quintana",
+            "bbva",
+            "opa"
+        ],
+        "link": "https://www.elmundo.es/economia/dinero-inversion/2025/07/25/68824ee3e85eceec438b4590.html",
+        "date": "2025-07-25 00:44:24",
+        "sentiment_score": 0.2548938952386379
+    },
+    {
+        "title": "Manifiestamente mejorable",
+        "image_url": "https://s.libertaddigital.com/2024/09/27/pedro-sanchez-begona-gomez-pedro-almodovar-recorte.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-07-25/anna-grau-manifiestamente-mejorable-7279852/",
+        "date": "2025-07-24 22:23:47",
+        "sentiment_score": -0.8054726300761104
+    },
+    {
+        "title": "Conferry ofrece oportunidad de empleo: conoce la vacante disponible y los requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753406090569.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "oferta laboral",
+            "empleos",
+            "puerto la cruz"
+        ],
+        "link": "https://2001online.com/servicios/conferry-ofrece-oportunidad-de-empleo-conoce-la-vacante-disponible-y-los-requisitos-202572421150",
+        "date": "2025-07-25 01:15:00",
+        "sentiment_score": 0.42988970689475536
+    },
+    {
+        "title": "Natasha Rey: la modelo uruguaya que destapó el nuevo escándalo de Mauro Icardi y la 'China' Suárez",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753396872065.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "mauro icardi",
+            "mauro icardi y la china suárez",
+            "polémica",
+            "infidelidad de icardi",
+            "natasha rey",
+            "la china suárez"
+        ],
+        "link": "https://2001online.com/deportes/natasha-rey-la-modelo-uruguaya-que-destapo-el-nuevo-escandalo-de-mauro-icardi-y-la-china-suarez-20257242000",
+        "date": "2025-07-24 23:09:08",
+        "sentiment_score": -0.9036597087979317
     }
 ];
