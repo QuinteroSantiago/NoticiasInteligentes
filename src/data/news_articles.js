@@ -1,236 +1,5 @@
 export default [
     {
-        "title": "Montoya rompe su silencio y reaparece tras huir de la televisión: “Tuve que parar. Mi cabeza dijo ‘basta’”",
-        "image_url": "https://www.infobae.com/resizer/v2/4WJ3W4QVCVBNFBIPZW3YZTJWUY.jpg?auth=52ec04682399c121dc36660c279b8777f1d1232c614b13b79b7dfb8056740db5&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-entretenimiento",
-            "supervivientes",
-            "gente españa",
-            "corazón y estilo españa",
-            "famosos españa",
-            "españa-noticias",
-            "montoya"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/22/montoya-rompe-su-silencio-y-reaparece-tras-huir-de-la-television-tuve-que-parar-mi-cabeza-dijo-basta/",
-        "date": "2025-07-22 06:15:21",
-        "sentiment_score": 0.14363372698426247
-    },
-    {
-        "title": "Los 5 hábitos que protegen el cerebro y cuidan la memoria: “Puede reducir el riesgo de desarrollar la enfermedad de Alzheimer”",
-        "image_url": "https://www.infobae.com/resizer/v2/H2BWW6EO7NAG3BCBG5OJ2DUQUM.jpg?auth=b0ad55346f153edb7476b8fd46295cc30a76b8cca5fc1486687cab13593ccf5b&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "alzheimer",
-            "enfermedades neurodegenerativas",
-            "enfermedades y medicamentos",
-            "españa-salud",
-            "cerebro",
-            "españa-noticias",
-            "enfermedades y medicamentos españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/22/los-5-habitos-que-protegen-el-cerebro-y-cuidan-la-memoria-puede-reducir-el-riesgo-de-desarrollar-la-enfermedad-de-alzheimer/",
-        "date": "2025-07-22 06:12:45",
-        "sentiment_score": 0.7946119736880064
-    },
-    {
-        "title": "La mejor dieta para después de los 60 años, según el experto en longevidad Valter Longo: “Comer así te ayuda a vivir hasta los 90”",
-        "image_url": "https://www.infobae.com/resizer/v2/OEW2AB4QQBDCBDBXBBUJVVPW5M.jpg?auth=91150061b68052e9bd9b8d4e6ab1b3a951fc20a63451b60e0bf27f212946da2a&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "dietas",
-            "dietas españa",
-            "sucesos",
-            "españa-sociedad",
-            "sucesos españa",
-            "salud",
-            "longevidad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/22/la-mejor-dieta-para-despues-de-los-60-anos-segun-el-experto-en-longevidad-valter-longo-comer-asi-te-ayuda-a-vivir-hasta-los-90/",
-        "date": "2025-07-22 06:02:49",
-        "sentiment_score": 0.3060866631567478
-    },
-    {
-        "title": "Los secretos del franquismo y la Transición verán la luz: el Gobierno aprueba la desclasificación de documentos reservados",
-        "image_url": "https://www.infobae.com/resizer/v2/XK6ALLX6GFGN5GHOH6CMYOTYFM.png?auth=036b449a80cd29c328c830c355a9e0ea8951c05e1a6b120215d1b8f12f5dcd49&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "franquismo",
-            "memoria histórica",
-            "gobierno de españa",
-            "memoria democrática",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/22/los-secretos-del-franquismo-y-la-transicion-veran-la-luz-el-gobierno-aprueba-la-desclasificacion-de-documentos-reservados/",
-        "date": "2025-07-22 05:57:13",
-        "sentiment_score": 0.1234550029039383
-    },
-    {
-        "title": "El Constitucional estudia hoy la petición de Juana Rivas para que se suspenda la entrega de su hijo al padre",
-        "image_url": "https://www.infobae.com/resizer/v2/VUG6CE7BY5C7HGYVBMHPR3E32E.jpg?auth=eab9393a0283de24bac3627e4d4af6ff8527d641989dafd2eef4c30d29e838a2&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/22/el-constitucional-estudia-hoy-la-peticion-de-juana-rivas-para-que-se-suspenda-la-entrega-de-su-hijo-al-padre/",
-        "date": "2025-07-22 05:54:05",
-        "sentiment_score": -0.5335526540875435
-    },
-    {
-        "title": "El Congreso cierra hoy el curso debatiendo tres decretos, tres leyes del Senado y dos reformas reglamentarias",
-        "image_url": "https://www.infobae.com/resizer/v2/FST6P4UN2FDNHJNX2LUIBPLUAM.jpg?auth=b16043477c5d5ebb41c1645f3b1539727c90c5aceb63a4d4b1bc4ee0db9bcfb0&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/22/el-congreso-cierra-hoy-el-curso-debatiendo-tres-decretos-tres-leyes-del-senado-y-dos-reformas-reglamentarias/",
-        "date": "2025-07-22 05:53:47",
-        "sentiment_score": 0.13901424407958984
-    },
-    {
-        "title": "España despliega hoy por primera vez cazas F-18 en Islandia para intensificar la vigilancia en el Atlántico Norte",
-        "image_url": "https://www.infobae.com/resizer/v2/YX6B7YCKRJE6NHOPDYTH6JJO6I.jpg?auth=b1cde055cc4f39adcf8f0021032a797530dac29963f1b29b5f89bef749f67072&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/22/espana-despliega-hoy-por-primera-vez-cazas-f-18-en-islandia-para-intensificar-la-vigilancia-en-el-atlantico-norte/",
-        "date": "2025-07-22 05:53:30",
-        "sentiment_score": 0.39636823534965515
-    },
-    {
-        "title": "Illa comparece este martes en el Parlamento catalán por el caso Cerdán y su eventual afectación a Cataluña",
-        "image_url": "https://www.infobae.com/resizer/v2/4KWPWDTZI5FCNNX56Y7MY72KI4.jpg?auth=ddf81f6ba9a0d6f60c3c5d559a5b988cd281843d77edbb5bea94f0f318f5a605&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/22/illa-comparece-este-martes-en-el-parlamento-catalan-por-el-caso-cerdan-y-su-eventual-afectacion-a-cataluna/",
-        "date": "2025-07-22 05:52:55",
-        "sentiment_score": -0.44037166610360146
-    },
-    {
-        "title": "Una española en Argentina habla de una de las mayores diferencias: “Me hace mucha gracia cómo te explican dónde están las cosas”",
-        "image_url": "https://www.infobae.com/resizer/v2/CFLTT3XECVEHVBG2KQTKLBZECQ.png?auth=39577d0a6245d1a49c62dba85a377e64742d922cf2b95f67c8dbc0caf210897f&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "argentina",
-            "tiktok españa",
-            "españa-sociedad",
-            "redes sociales",
-            "tiktok"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/22/una-espanola-en-argentina-habla-de-una-de-las-mayores-diferencias-me-hace-mucha-gracia-como-te-explican-donde-estan-las-cosas/",
-        "date": "2025-07-22 05:50:33",
-        "sentiment_score": -0.8084233030676842
-    },
-    {
-        "title": "El Gobierno aprueba el protocolo para reubicar a los menores migrantes con el rechazo de las 10 comunidades del PP y Castilla-La Mancha",
-        "image_url": "https://www.infobae.com/resizer/v2/I25TCNH7W5GRTDTND2POB6W77M.jpg?auth=6b1c12cfb9848039cea6a6a8b0f9cced39adb6ff45827b8c731fe8e81fa7988a&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "melilla",
-            "migrantes",
-            "ceuta",
-            "canarias",
-            "gobierno de españa",
-            "españa-sociedad",
-            "consejo de ministros",
-            "inmigración españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/22/el-gobierno-aprueba-el-protocolo-para-reubicar-a-los-menores-migrantes-con-el-rechazo-de-las-10-comunidades-del-pp-y-castilla-la-mancha/",
-        "date": "2025-07-22 05:44:33",
-        "sentiment_score": 0.05576217547059059
-    },
-    {
-        "title": "Ascienden a 27 los muertos tras estrellarse un avión militar en una escuela de Bangladés",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/22/lugar-hechos-bangla-kbcH-U7013224611789SE-1200x840@diario_abc.jpg",
-        "tags": [
-            "escuela",
-            "militar",
-            "ascienden",
-            "tras",
-            "banglades",
-            "estrellarse",
-            "avion",
-            "muertos"
-        ],
-        "link": "https://www.abc.es/internacional/ascienden-muertos-tras-estrellarse-avion-militar-escuela-20250722082956-nt.html",
-        "date": "2025-07-22 06:29:56",
-        "sentiment_score": -0.7742107752710581
-    },
-    {
-        "title": "Última hora de la actualidad política, en directo | El Supremo se reúne para estudiar la petición de Cerdán de salir de prisión",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DIQBT2BG55FL7DXBNU2GG7P2ZY.jpg?auth=ac8770598a968bf96b4ef9f3d05a236f3186171185d4d01dc72adb1c6b627d89&width=1200",
-        "tags": [
-            "xv legislatura españa",
-            "congreso diputados",
-            "alberto núñez feijóo",
-            "pp",
-            "legislaturas políticas",
-            "yolanda díaz",
-            "santiago abascal",
-            "caso koldo",
-            "koldo garcía",
-            "partidos políticos",
-            "debates parlamentarios",
-            "senado",
-            "cristóbal montoro",
-            "parlamento",
-            "vox",
-            "política",
-            "pedro sánchez",
-            "psoe",
-            "sumar",
-            "corrupción",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-07-22/ultima-hora-de-la-actualidad-politica-en-directo.html",
-        "date": "2025-07-22 05:45:01",
-        "sentiment_score": -0.3520708531141281
-    },
-    {
-        "title": "Un demoledor Gonzalo Miró augura qué pasará con Ayuso tras su fin de semana en el chalet: \"Solo el inicio...\"",
-        "image_url": "https://www.elplural.com/uploads/s1/20/04/37/3/gonzalo-miro-colaborador-la-roca_7_480x270.jpeg",
-        "tags": [
-            "extratele"
-        ],
-        "link": "https://www.elplural.com/extratele/demoledor-gonzalo-miro-augura-pasara-ayuso-fin-semana-chalet-solo-inicio_356983102",
-        "date": "2025-07-22 06:39:19",
-        "sentiment_score": -0.2531261742115021
-    },
-    {
-        "title": "El aire acondicionado, un salvavidas que ignoramos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/82f02dd0-0b2d-49cc-a007-3afbd91ec289_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "temperaturas",
-            "mortalidad",
-            "europa",
-            "estados unidos"
-        ],
-        "link": "https://www.lne.es/sociedad/2025/07/22/el-aire-acondicionado-un-salvavidas-que-ignoramos-119936279.html",
-        "date": "2025-07-22 06:38:57",
-        "sentiment_score": -0.34756773710250854
-    },
-    {
-        "title": "Tragedia en el motociclismo español: los once pilotos muertos en accidentes en la última década",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/07/21/luis-salom-pau-alsina-y-borja-gomez.jpeg",
-        "tags": [
-            "motociclismo"
-        ],
-        "link": "https://www.20minutos.es/deportes/noticia/5733308/0/la-gran-tragedia-del-motociclismo-espanol-estos-son-los-once-pilotos-muertos-en-accidentes-en-la-ultima-decada/",
-        "date": "2025-07-22 06:40:26",
-        "sentiment_score": -0.8897699555382133
-    },
-    {
-        "title": "Buscan a un hombre de 66 años desaparecido en Candanedo de Fenar",
-        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/07/22/69241c45-a4f4-42b6-abf1-328b9891f7e4-kA1H-U2302441045456xkH-1200x840@Leonoticias.jpg",
-        "tags": [
-            "fenar",
-            "buscan",
-            "hombre",
-            "desaparecido",
-            "anos",
-            "candanedo"
-        ],
-        "link": "https://www.leonoticias.com/comarcas/buscan-hombre-anos-desaparecido-candanedo-fenar-20250722083909-nt.html",
-        "date": "2025-07-22 06:39:09",
-        "sentiment_score": -0.11865714937448502
-    },
-    {
         "title": "Alerta en los aeropuertos de AENA por irregularidades en el handling: “La seguridad de personas y aviones debe ser lo primero”",
         "image_url": "https://www.infobae.com/resizer/v2/HQMYKB5PH5HIFCK5CO2B3GXUA4.png?auth=513872de2f842d19034d0d7b2db15826d1902ae670a18c05cf5542fb98df59fd&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -6149,5 +5918,172 @@ export default [
         "link": "https://www.europapress.es/catalunya/noticia-govern-destina-10-millones-rehabilitacion-vivienda-publica-terrassa-barcelona-20250725171411.html",
         "date": "2025-07-25 15:14:11",
         "sentiment_score": 0.31945258751511574
+    },
+    {
+        "title": "Bolsa o vivienda: ¿qué es más rentable, líquida y segura?",
+        "image_url": "https://phantom-expansion.uecdn.es/f1d705baca66bbf1a55c2e3a671b5e13/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/25/17534732839550.jpg",
+        "tags": [
+            "mercados>",
+            "inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/mercados/2025/07/25/6883e012e5fdea9e588b4597.html",
+        "date": "2025-07-25 21:49:17",
+        "sentiment_score": 0.14858682453632355
+    },
+    {
+        "title": "El acuerdo récord de más de mil millones de euros entre el Manchester City y Puma y su importancia más allá de los resultados económicos",
+        "image_url": "https://static.eldiario.es/clip/aab587c7-acaf-487a-9731-dfc14175cc33_16-9-discover-aspect-ratio_default_1122597.jpg",
+        "tags": [
+            "record",
+            "manchester",
+            "millones",
+            "mil",
+            "importancia",
+            "resultados",
+            "economicos",
+            "puma",
+            "city",
+            "acuerdo",
+            "euros"
+        ],
+        "link": "https://www.eldiario.es/economia/acuerdo-record-mil-millones-euros-manchester-city-puma-importancia-resultados-economicos_1_12488953.html",
+        "date": "2025-07-25 20:08:17",
+        "sentiment_score": -0.00472530722618103
+    },
+    {
+        "title": "La Junta e Innova IRV se alían para impulsar el ecosistema empresarial tecnológico andaluz",
+        "image_url": "https://static.grupojoly.com/clip/791ab1af-71a6-47b6-9477-db18de9abe1d_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "innova",
+            "ecosistema",
+            "tecnológico",
+            "irv",
+            "junta",
+            "empresarial"
+        ],
+        "link": "https://www.elconciso.es/coyuntura/junta-innova-irv-ecosistema-empresarial-tecnologico_0_2004451313.html",
+        "date": "2025-07-25 17:40:59",
+        "sentiment_score": 0.46268996968865395
+    },
+    {
+        "title": "Todos somos un poco 'subecarros'",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/07/25/107126594-ktDG-U2302478894536QXE-1200x1700@El%20Comercio.jpg",
+        "tags": [
+            "poco",
+            "subecarros"
+        ],
+        "link": "https://www.elcomercio.es/opinion/leopoldo-tolivar-poco-subecarros-20250726185306-nt.html",
+        "date": "2025-07-25 17:22:52",
+        "sentiment_score": -0.9027613690122962
+    },
+    {
+        "title": "Egoístas",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2023/09/12/vida/793930868_8708567_1706x960.jpg?contentId=793930868",
+        "tags": [
+            "mujeres",
+            "pensamiento",
+            "machismo",
+            "desigualdad de género"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250725/egoistas/1003742676897_13.html",
+        "date": "2025-07-25 22:00:00",
+        "sentiment_score": -0.6810976900160313
+    },
+    {
+        "title": "Así se empleó Foment para atraer la Ryder Cup a Cataluña",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/25/business/1003742677091_14931970_1706x960.jpg?contentId=1003742677091",
+        "tags": [
+            "foment del treball",
+            "inversiones",
+            "business",
+            "golf",
+            "girona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250725/empleo-foment-atraer-ryder-cup-cataluna/1003742677089_0.html",
+        "date": "2025-07-25 22:00:00",
+        "sentiment_score": -0.20009981095790863
+    },
+    {
+        "title": "Viviendas de uso turístico: una visión equivocada y una fiscalidad errónea",
+        "image_url": "https://phantom-expansion.uecdn.es/bd32ef3d9824a2e6229b40f244b149ab/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/25/17534783314422.jpg",
+        "tags": [
+            "turismo>",
+            "economía>",
+            "opinión>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/2025/07/25/6883f43fe5fdeaeb118b45a7.html",
+        "date": "2025-07-25 21:59:49",
+        "sentiment_score": -0.6627460476011038
+    },
+    {
+        "title": "Los mejores SUV para viajar en familia",
+        "image_url": "https://phantom-expansion.uecdn.es/6418beebc194e3fb2744db4586d324d4/crop/505x110/1930x1060/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/11/17522283613783.jpg",
+        "tags": [
+            "artículos daniel g. lifona>",
+            "motor>",
+            "empresas>",
+            "nea>"
+        ],
+        "link": "https://www.expansion.com/empresas/motor/2025/07/25/6870e1d9e5fdea3b418b4577.html",
+        "date": "2025-07-25 21:58:23",
+        "sentiment_score": 0.8030409850180149
+    },
+    {
+        "title": "Raquel Gil: \"En la 'tasa Amazon', el Ayuntamiento de Barcelona irá hasta el final\"",
+        "image_url": "https://phantom-expansion.uecdn.es/f8daf38ddccb095c84eac93c4593bb6b/crop/0x0/2048x1365/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/25/17534779760122.jpg",
+        "tags": [
+            "fiscal>",
+            "cataluña>",
+            "artículos david casals>",
+            "impuestos y normativas>",
+            "economía>",
+            "política>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2025/07/25/6883f46ae5fdea26188b459f.html",
+        "date": "2025-07-25 21:50:42",
+        "sentiment_score": -0.3612762913107872
+    },
+    {
+        "title": "El alma de Llanes que iluminó Asturias",
+        "image_url": "https://s2.ppllstatics.com/diariosur/www/multimedia/2025/07/24/zara-U12470172575Vyg-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "llanes",
+            "asturias",
+            "alma",
+            "ilumino"
+        ],
+        "link": "https://www.elcomercio.es/opinion/pepe-avarez-alma-llanes-ilumino-asturias-20250726224339-nt.html",
+        "date": "2025-07-25 21:22:12",
+        "sentiment_score": -0.6844005957245827
+    },
+    {
+        "title": "Barcelona desactiva el Plan de Actuación Municipal por viento fuerte por la \"mejora\" meteorológica",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250725230742_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-barcelona-desactiva-plan-actuacion-municipal-viento-fuerte-mejora-meteorologica-20250725230742.html",
+        "date": "2025-07-25 21:07:42",
+        "sentiment_score": -0.7577551864087582
+    },
+    {
+        "title": "Renfe solventa una anomalía técnica en un tren y reorganiza el trayecto Madrid-Barcelona",
+        "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA6M0QA_M.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://es.investing.com/news/economy-news/renfe-solventa-una-anomalia-tecnica-en-un-tren-y-reorganiza-el-trayecto-madridbarcelona-3233789",
+        "date": "2025-07-25 20:59:01",
+        "sentiment_score": -0.3246890604496002
+    },
+    {
+        "title": "Supremacismo y mentiras catalanas sobre Sijena",
+        "image_url": "https://s.libertaddigital.com/autores/el-editorial.png",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-07-25/editorial-supremacismo-y-mentiras-catalanas-sobre-sijena-7280245/",
+        "date": "2025-07-25 20:33:15",
+        "sentiment_score": -0.8843057127669454
     }
 ];
