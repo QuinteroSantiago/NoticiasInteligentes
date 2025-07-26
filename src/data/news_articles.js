@@ -179,21 +179,6 @@ export default [
         "sentiment_score": -0.10970275104045868
     },
     {
-        "title": "Los sindicatos amenazan con movilizaciones para desbloquear la reducción de jornada",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/07/22/1495882070-R3UPcnEWEvOPp8j0VwlHWtL-1200x840@diario_abc.jpg",
-        "tags": [
-            "sindicatos",
-            "junts per catalunya",
-            "yolanda díaz",
-            "congreso de los diputados",
-            "trabajadores",
-            "cataluña"
-        ],
-        "link": "https://www.abc.es/economia/sindicatos-amenazan-movilizaciones-desbloquear-reduccion-jornada-20250722130511-nt.html",
-        "date": "2025-07-22 11:22:52",
-        "sentiment_score": -0.06319776177406311
-    },
-    {
         "title": "El extraño caso del currículum fluctuante de Noelia Núñez, diputada del PP y alto cargo de Feijóo",
         "image_url": "https://imagenes.elpais.com/resizer/v2/WRY3PK7LP3EPHOINIYX4DVBEO4.jpg?auth=c8683479a31c31f82de80d3a24d893eca175ab577dbdd602bc03a756bf5eb1b4&width=1200",
         "tags": [
@@ -354,27 +339,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-07-22/erc-desautoriza-a-rufian-tras-pedir-una-coalicion-plurinacional-en-el-congreso-no-esta-sobre-la-mesa.html",
         "date": "2025-07-22 14:24:33",
         "sentiment_score": -0.7135687153786421
-    },
-    {
-        "title": "El Constitucional levanta la suspensión de la ley de Ayuso que busca dificultar que la Casa de Correos sea lugar de memoria democrática",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6NXGM42TOVAFTLYXECRGOTG4UU.jpg?auth=7d327ff9e1248d66ff052c6b10259c3700c28b44cf0542bf0ad3799dafb731fb&width=1200",
-        "tags": [
-            "pp",
-            "constitución española",
-            "memoria de españa",
-            "gobierno autonómico",
-            "tribunales",
-            "franquismo",
-            "memoria histórica",
-            "isabel díaz ayuso",
-            "tribunal constitucional",
-            "ley memoria democrática",
-            "madrid",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-07-22/el-constitucional-levanta-la-suspension-de-la-ley-de-ayuso-que-busca-dificultar-que-la-casa-de-correos-sea-lugar-de-memoria-democratica.html",
-        "date": "2025-07-22 14:10:11",
-        "sentiment_score": -0.505291011184454
     },
     {
         "title": "El Gobierno autoriza la tramitación urgente de préstamos a Airbus para cumplir con los compromisos de la OTAN",
@@ -6085,5 +6049,64 @@ export default [
         "link": "https://www.libertaddigital.com/opinion/2025-07-25/editorial-supremacismo-y-mentiras-catalanas-sobre-sijena-7280245/",
         "date": "2025-07-25 20:33:15",
         "sentiment_score": -0.8843057127669454
+    },
+    {
+        "title": "El sector agropecuario de Perú creció el 9,3 % en mayo por mejores condiciones climáticas",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/26/el-sector-agropecuario-de-peru-crecio-el-93-en-mayo-por-mejores-condiciones-climaticas/",
+        "date": "2025-07-26 01:00:14",
+        "sentiment_score": 0.656596589833498
+    },
+    {
+        "title": "Sobresueldos para cubrir plazas: «Quería ser médico rural y los 9.000 euros me ayudaron»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sociedad/2025/07/21/DAMBin-RTKh0iPZTy4Kb9yMG5Hy2LL-1200x840@diario_abc.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.abc.es/sociedad/sobresueldos-cubrir-plazas-queria-medico-rural-9000-20250721023757-nt.html",
+        "date": "2025-07-26 00:38:19",
+        "sentiment_score": -0.0784737765789032
+    },
+    {
+        "title": "La jueza paraliza el desahucio de los Caballé de la sede de su fundación por su situación de vulnerabilidad económica",
+        "image_url": "https://s1.elespanol.com/2025/07/25/actualidad/1003743863368_257568946_1706x960.jpg?contentId=1003743863368",
+        "tags": [
+            "montserrat caballé",
+            "revistas del corazón",
+            "famosos",
+            "tribunales",
+            "ópera",
+            "desahucios",
+            "barcelona"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20250726/jueza-paraliza-desahucio-caballe-sede-fundacion-situacion-vulnerabilidad-economica/1003743863403_0.html",
+        "date": "2025-07-26 01:14:42",
+        "sentiment_score": 0.21043813228607178
+    },
+    {
+        "title": "Caideros: agricultura y ganado en la cima de Gáldar",
+        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2025/07/17/arguineguin-kSeE--562x562@Canarias7.jpg",
+        "tags": [
+            "ganaderías",
+            "agricultura",
+            "gáldar"
+        ],
+        "link": "https://www.canarias7.es/canarias/gran-canaria/caideros-agricultura-ganado-cima-galdar-20250726234536-nt.html",
+        "date": "2025-07-25 22:55:19",
+        "sentiment_score": 0.7599575817584991
+    },
+    {
+        "title": "El Aeropuerto Internacional de Miami tendrá cambios: descubre cuáles serán las modificaciones en el MIA",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753489435078.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "#2001 online  #eeuu  #miami  #talento  #radio",
+            "miami"
+        ],
+        "link": "https://2001online.com/usa/internacionales/el-aeropuerto-internacional-de-miami-tendra-cambios-descubre-cuales-seran-las-modificaciones-en-el-mia-202572520180",
+        "date": "2025-07-26 00:18:00",
+        "sentiment_score": 0.683984313160181
     }
 ];
