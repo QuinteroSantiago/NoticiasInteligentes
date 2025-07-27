@@ -4648,5 +4648,33 @@ export default [
         "link": "https://2001online.com/internacionales/no-mas-cafe-colombiano-para-eeuu-alarma-en-los-mercados-por-los-aranceles-de-trump-20257261650",
         "date": "2025-07-26 20:05:00",
         "sentiment_score": 0.08466888219118118
+    },
+    {
+        "title": "Los dos candidatos a liderar a los jóvenes empresarios asturianos, frente a frente: ambos desvelan sus propuestas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0453fa81-9bef-474b-9d49-f8f046057d02_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asturias",
+            "empresas",
+            "aje",
+            "talento"
+        ],
+        "link": "https://www.lne.es/asturias/2025/07/27/candidatos-liderar-jovenes-empresarios-asturianos-120090473.html",
+        "date": "2025-07-27 02:02:53",
+        "sentiment_score": 0.8136866725981236
+    },
+    {
+        "title": "El 'Schindler norcoreano' que ha rescatado a 4.000 desertores con ayuda de una red 'criminal': \"Una vida cuesta 10.000 $\"",
+        "image_url": "https://s1.elespanol.com/2025/07/25/actualidad/1003743862615_257554892_1706x960.jpg?contentId=1003743862615",
+        "tags": [
+            "corea del norte",
+            "asia",
+            "criminalidad",
+            "corea del sur",
+            "esclavitud",
+            "abusos sexuales"
+        ],
+        "link": "https://www.elespanol.com/mundo/asia/20250727/schindler-norcoreano-rescatado-desertores-ayuda-red-criminal-vida-cuesta/1003743861701_0.html",
+        "date": "2025-07-27 01:46:51",
+        "sentiment_score": -0.3644639402627945
     }
 ];
