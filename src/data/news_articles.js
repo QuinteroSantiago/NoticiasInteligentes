@@ -1,600 +1,5 @@
 export default [
     {
-        "title": "“El resultado duele y mucho”: colombiano tras comparar el precio del mercado en Colombia y España",
-        "image_url": "https://www.infobae.com/resizer/v2/RKY7N5VMRNBJDPS4JXFY4HFAII.png?auth=d1ad16974c25adcb23cbb5e530cb09a309b564b0ab72e5294c0cd6c78fa61495&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "carnes",
-            "productos de aseo",
-            "colombia-noticias",
-            "granos",
-            "mercado",
-            "precios en colombia",
-            "lácteos",
-            "comparación",
-            "precios en españa",
-            "verduras"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/07/23/el-resultado-duele-y-mucho-colombiano-tras-comparar-el-precio-del-mercado-en-colombia-y-espana/",
-        "date": "2025-07-23 17:12:18",
-        "sentiment_score": 0.0473647341132164
-    },
-    {
-        "title": "Un asistente de vuelo explica los efectos del vuelo más largo del mundo: “Saca lo mejor y lo peor de los pasajeros”",
-        "image_url": "https://www.infobae.com/resizer/v2/FVNIU7OPN745RR3CLS6OTC33WA.jpg?auth=bdb2f36a2d6c3754e95c3508869612663261b230d72ac02fdb02bc549f0afd49&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "aerolíneas",
-            "aviones",
-            "avión",
-            "españa-sociedad",
-            "españa-noticias",
-            "nueva york",
-            "singapur",
-            "aeropuertos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/un-asistente-de-vuelo-explica-los-efectos-del-vuelo-mas-largo-del-mundo-saca-lo-mejor-y-lo-peor-de-los-pasajeros/",
-        "date": "2025-07-23 17:00:24",
-        "sentiment_score": -0.043837592005729675
-    },
-    {
-        "title": "Estados Unidos y la UE se acercan a un acuerdo comercial: aranceles generales del 15%",
-        "image_url": "https://www.infobae.com/resizer/v2/7ANFB6CJAJBDLIVERVRWEKOLOQ.jpg?auth=3dfc0c13e40269c2d393a977d41b176c34eea0b347b312310ad62edd81a724fe&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "unión europea",
-            "españa-noticias",
-            "japón",
-            "aranceles",
-            "ee.uu.",
-            "ue",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/estados-unidos-y-la-ue-se-acercan-a-un-acuerdo-comercial-aranceles-generales-del-15/",
-        "date": "2025-07-23 16:59:20",
-        "sentiment_score": 0.28070729225873947
-    },
-    {
-        "title": "Noelia Núñez presenta la dimisión de todos sus cargos en el PP y deja el acta tras mentir en su currículum académico: “Asumo toda la responsabilidad de mis actos”",
-        "image_url": "https://www.infobae.com/resizer/v2/DXPR47TJDJGWXH63EIY57WMGT4.jpg?auth=7f29e4bd379f9a95017b13963cb6bfeb01a5fa04cde5123bee99053abd8f5759&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-nacional",
-            "españa-noticias",
-            "pp",
-            "noelia núñez",
-            "política españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/noelia-nunez-presenta-la-dimision-de-todos-sus-cargos-en-el-pp-tras-mentir-en-su-curriculum-academico-asumo-toda-la-responsabilidad-de-mis-propios-actos/",
-        "date": "2025-07-23 16:57:02",
-        "sentiment_score": 0.06250723823904991
-    },
-    {
-        "title": "El PSOE cree que Noelia Núñez incumple el Código ético del Congreso y le insta a quitar el falso doble grado de su ficha",
-        "image_url": "https://www.infobae.com/resizer/v2/KYJ5AJOF4FDOLEXWKTW5MN3YRE.jpg?auth=b1309be5ebfa9d4ba05d41a07fd945b5e38a9d5a757a647fb999606aeef67bc3&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/23/el-psoe-cree-que-noelia-nunez-incumple-el-codigo-etico-del-congreso-y-le-insta-a-quitar-el-falso-doble-grado-de-su-ficha/",
-        "date": "2025-07-23 16:54:02",
-        "sentiment_score": -0.8396495841443539
-    },
-    {
-        "title": "El despacho clave del 'caso Montoro' pide anular la causa y critica al juez por su \"investigación desproporcionada\"",
-        "image_url": "https://www.infobae.com/resizer/v2/3JQJPBZRXZERPMHIYUIBYYAIAM.jpg?auth=201002c901e37660d37a6c1d869b61e978c008f36914ad3bb66e31115f9ce3d7&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/23/el-despacho-clave-del-caso-montoro-pide-anular-la-causa-y-critica-al-juez-por-su-investigacion-desproporcionada/",
-        "date": "2025-07-23 16:53:45",
-        "sentiment_score": -0.8711666204035282
-    },
-    {
-        "title": "Cuarenta jóvenes recorren los pasos del exilio republicano y civil por Navarra, Cataluña y Francia",
-        "image_url": "https://www.infobae.com/resizer/v2/LAM5DPUGY5DKHJDG6PSGP5BFF4.jpg?auth=96afb3dd113e97c9c03f0c64227f1496c20b56b8c30e36ae9dd6beeb17de8d59&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/23/cuarenta-jovenes-recorren-los-pasos-del-exilio-republicano-y-civil-por-navarra-cataluna-y-francia/",
-        "date": "2025-07-23 16:24:16",
-        "sentiment_score": -0.041834667325019836
-    },
-    {
-        "title": "Robles visita el buque Castilla en Rota (Cádiz) donde España ocupa el mando de la Fuerza de Reacción Marítima de la OTAN",
-        "image_url": "https://www.infobae.com/resizer/v2/7OIYQEQH4JCIJOLMVPYIPV4SIQ.jpg?auth=8a6fc71adbf30591fbcaa0a8bef78683d3f57fe962dbd6041a8aec9a22bae422&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/23/robles-visita-el-buque-castilla-en-rota-cadiz-donde-espana-ocupa-el-mando-de-la-fuerza-de-reaccion-maritima-de-la-otan/",
-        "date": "2025-07-23 16:23:59",
-        "sentiment_score": 0.026556774973869324
-    },
-    {
-        "title": "El diputado de Chunta contradice a Díaz y Sumar y dice que decidió su voto contra al decreto antiapagón antes del Pleno",
-        "image_url": "https://www.infobae.com/resizer/v2/4QWKHMOYJNAZVBY3FBRWZY2UCU.jpg?auth=84390ea9c94cd0d3b2e8d4d7d3d234c7e95df532acf1f84da5a560c9ceeca508&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/23/el-diputado-de-chunta-contradice-a-diaz-y-sumar-y-dice-que-decidio-su-voto-contra-al-decreto-antiapagon-antes-del-pleno/",
-        "date": "2025-07-23 16:23:41",
-        "sentiment_score": -0.5892933718860149
-    },
-    {
-        "title": "Las gasísticas definieron a Montoro como \"simpático\" tras una reunión: \"Ha hablado de política, no ha preguntado nada\"",
-        "image_url": "https://www.infobae.com/resizer/v2/VFSN3ZLK6VEZLG2OKA6FFKO3OM.jpg?auth=4f8780e1d75060fdc68c1a589f4c452c49d1a8fbed16a4eb2ac239e739b3eb4a&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/23/las-gasisticas-definieron-a-montoro-como-simpatico-tras-una-reunion-ha-hablado-de-politica-no-ha-preguntado-nada/",
-        "date": "2025-07-23 16:23:30",
-        "sentiment_score": -0.5293175969272852
-    },
-    {
-        "title": "La UE y EE.UU. se acercan a un acuerdo arancelario del 15%",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/23/vdltrump-kKbE-U701330842519a4B-1200x840@diario_abc.jpg",
-        "tags": [
-            "ue",
-            "acercan",
-            "arancelario",
-            "acuerdo",
-            "eeuu"
-        ],
-        "link": "https://www.abc.es/internacional/ue-eeuu-acercan-acuerdo-arancelario-20250723185434-nt.html",
-        "date": "2025-07-23 16:55:52",
-        "sentiment_score": -0.14696717262268066
-    },
-    {
-        "title": "Los Reyes, la princesa Leonor y la infanta Sofía presiden la entrega de los Premios Princesa de Girona en el Liceu",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5HIGSEWREJHJROIVP7G7E6JCMQ.jpg?auth=761885574d34e7c28b0a3187a74f2c8039fff007d2465c276e515dde837cb8ea&width=1200",
-        "tags": [
-            "reina letizia",
-            "felipe vi",
-            "princesa de asturias",
-            "premios",
-            "casa real",
-            "teatro liceo",
-            "sofia de borbón",
-            "fundación princesa de girona",
-            "premios princesa de girona",
-            "barcelona",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-07-23/los-reyes-la-princesa-leonor-y-la-infanta-sofia-presiden-la-entrega-de-premios-princesa-de-girona-en-el-liceu.html",
-        "date": "2025-07-23 17:09:32",
-        "sentiment_score": 0.6677201967686415
-    },
-    {
-        "title": "El juez titular deja en libertad al detenido por los cinco asaltos e incendios en casas de l’Horta de Lleida",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DELCKIG2L5AWTIHPU4C4NDAKFQ.jpg?auth=439cac8a58f206f546983bb6d4e6a1845023b30daa5ed39a624884fcdfc08c8d&width=1200",
-        "tags": [
-            "robos",
-            "asaltos",
-            "lleida",
-            "tribunales",
-            "mossos d'esquadra",
-            "guardia urbana",
-            "incendios",
-            "barcelona",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-23/el-juez-titular-deja-en-libertad-al-detenido-por-los-cinco-asaltos-e-incendios-en-casas-de-lhorta-de-lleida.html",
-        "date": "2025-07-23 17:04:32",
-        "sentiment_score": -0.6351112350821495
-    },
-    {
-        "title": "La diputada del PP Noelia Núñez dimite de todos sus cargos tras la polémica de su currículum",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DQCLK7J2MZECZAFR32SGC7KKBY.jpg?auth=6fee60f72ba45e4dfe2b132c098fdc91a7d4cbeba59ad7ee65db0db474b954f4&width=1200",
-        "tags": [
-            "alberto núñez feijóo",
-            "pp",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-07-23/la-diputada-del-pp-noelia-nunez-dimite-de-todos-sus-cargos-tras-la-polemica-de-su-curriculum.html",
-        "date": "2025-07-23 16:50:03",
-        "sentiment_score": -0.783964391797781
-    },
-    {
-        "title": "El presidente del Parlamento andaluz propone sancionar a los grupos por incidencias en la tribuna de público",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JD3RAIZQGVF35HVUQQ6Y5SYJM4.jpg?auth=40e1b9d5c13f47778fc99179910c25b733a65ababe2665afc0b4ef66e5a8d705&width=1200",
-        "tags": [
-            "cazorla",
-            "parlamento andalucía",
-            "pp-a",
-            "españa",
-            "protestas sociales",
-            "incidentes",
-            "andalucía",
-            "juan manuel moreno"
-        ],
-        "link": "https://elpais.com/espana/2025-07-23/el-presidente-del-parlamento-andaluz-propone-sancionar-a-los-grupos-por-incidencias-en-la-tribuna-de-publico.html",
-        "date": "2025-07-23 16:37:55",
-        "sentiment_score": -0.9125992646440864
-    },
-    {
-        "title": "Telemadrid atribuye a un “fallo técnico” la emisión de un vídeo de Pedro Sánchez con la voz ralentizada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YLCYYVMK65AB7AID3WQ7AUYXXQ.jpg?auth=62ae2cbe61fb5022fb26f6004e225eab4a692b5aa69f5c182f94a421f9b42fcf&width=1200",
-        "tags": [
-            "manipulación informativa",
-            "gobierno de españa",
-            "cadenas televisión",
-            "televisión autonómica",
-            "madrid",
-            "comunidad de madrid",
-            "psoe",
-            "gobierno comunidad madrid",
-            "pp",
-            "pedro sánchez",
-            "telemadrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-07-23/telemadrid-atribuye-a-un-fallo-tecnico-la-emision-de-un-video-de-pedro-sanchez-con-la-voz-ralentizada.html",
-        "date": "2025-07-23 16:05:04",
-        "sentiment_score": -0.7735513988882303
-    },
-    {
-        "title": "Metro de Madrid comenzará a transportar paquetería en las líneas 3 y 12 con el proyecto ‘Última Milla’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WE4DKWODZZBMDLZVSLAHMLH4CI.jpg?auth=310ea41d7f45deb7b4fdef30be514309df02ecf979f0bec9255afab019981fc9&width=1200",
-        "tags": [
-            "isabel díaz ayuso",
-            "metro madrid",
-            "transporte",
-            "transporte ferroviario",
-            "ayuntamiento madrid",
-            "madrid",
-            "comunidad de madrid",
-            "metro",
-            "contaminación"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-07-23/metro-de-madrid-comenzara-a-transportar-paqueteria-en-las-lineas-3-y-12-con-el-proyecto-ultima-milla.html",
-        "date": "2025-07-23 16:04:47",
-        "sentiment_score": 0.029969125986099243
-    },
-    {
-        "title": "Sheinbaum reprende a Monreal sobre sus vacaciones en España: “El poder se ejerce con humildad”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HKMO4MIUFZM2BDXINK6G56H6G4.jpg?auth=197b7f96a73fa4388fb44db505058be64722cab3f99166acce62cbed7ddc6e5b&width=1200",
-        "tags": [
-            "ricardo monreal",
-            "latinoamérica",
-            "lujo",
-            "españa",
-            "claudia sheinbaum",
-            "méxico",
-            "américa",
-            "viajes",
-            "adán augusto lópez",
-            "vacaciones",
-            "austeridad"
-        ],
-        "link": "https://elpais.com/mexico/2025-07-23/sheinbaum-reprende-a-monreal-sobre-sus-vacaciones-en-espana-el-poder-se-ejerce-con-humildad.html",
-        "date": "2025-07-23 15:45:26",
-        "sentiment_score": -0.22991371154785156
-    },
-    {
-        "title": "Cierra el Café Central, meca del jazz en Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JSUQV7Z4RFH2BITZZMR5G2ZHQI.JPG?auth=26f88f10cecc15b023b430db5d6b56abcdf9dce21c9ddb4736527a3880ff28ad&width=1200",
-        "tags": [
-            "jazz",
-            "música",
-            "cierre establecimientos",
-            "comunidad de madrid",
-            "café",
-            "bares",
-            "madrid",
-            "locales comerciales"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-07-23/cierra-el-cafe-central-meca-del-jazz-en-madrid.html",
-        "date": "2025-07-23 15:38:46",
-        "sentiment_score": -0.8624498378485441
-    },
-    {
-        "title": "La biblioteca Jaume Fuster de Barcelona, premio LIBER 2025 al fomento de la lectura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5YYS5QUU74GPRR55377MVOBVVA.jpg?auth=a2ccc751fab460ee0f42bd4db1e37dcc71e71cfbf054a96ddc060ba97b4037a6&width=1200",
-        "tags": [
-            "ayuntamiento barcelona",
-            "lectura",
-            "jóvenes",
-            "bibliotecas",
-            "cultura",
-            "barcelona",
-            "jaume fuster",
-            "cataluña",
-            "bibliotecas municipales",
-            "barrios",
-            "premios",
-            "servicios públicos",
-            "liber"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-23/la-biblioteca-jaume-fuster-de-barcelona-premio-liber-2025-al-fomento-de-la-lectura.html",
-        "date": "2025-07-23 15:31:02",
-        "sentiment_score": 0.7226561140269041
-    },
-    {
-        "title": "Feijóo plantea expulsiones más fáciles en caso de delito también a inmigrantes con residencia legal",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7EOSWVEE3VG5DCZJKBWOIEAW5I.jpg?auth=0ab01d9fe3a1f48c0be785b56b23170b9639962446a297e1e7353981c612c376&width=1200",
-        "tags": [
-            "expulsión inmigrantes",
-            "delitos",
-            "deportación",
-            "política",
-            "alberto núñez feijóo",
-            "españa",
-            "migración",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/2025-07-23/feijoo-plantea-expulsiones-mas-faciles-en-caso-de-delito-tambien-a-inmigrantes-regulares.html",
-        "date": "2025-07-23 14:44:58",
-        "sentiment_score": -0.7821301948279142
-    },
-    {
-        "title": "Alta velocidad en auge: la liberalización ferroviaria dispara la demanda",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/23/2025072319101225177.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.mundiario.com/articulo/sociedad/alta-velocidad-auge-liberalizacion-ferroviaria-dispara-demanda/20250723191255351232.html",
-        "date": "2025-07-23 17:12:55",
-        "sentiment_score": 0.692455405369401
-    },
-    {
-        "title": "El Málaga CF Femenino renueva a Elena Martínez",
-        "image_url": "https://static.grupojoly.com/clip/86b014b1-632e-4273-aea1-482dd0328658_facebook-aspect-ratio_default_0.png",
-        "tags": [
-            "últimas noticias málaga",
-            "málaga cf"
-        ],
-        "link": "https://www.malagahoy.es/malaga_cf/malaga-cf-femenino-renueva-elena_0_2004434771.html",
-        "date": "2025-07-23 17:11:10",
-        "sentiment_score": 0.20533223822712898
-    },
-    {
-        "title": "La doble cara del mercado de fichajes del Levante UD en los últimos años",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/05f5e47f-eae9-48c5-b3a6-0ef451cb81a8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "de frutos",
-            "economia",
-            "mercado fichajes",
-            "ud",
-            "europa league",
-            "afición",
-            "competición",
-            "orriols",
-            "ciutat de valència",
-            "fútbol",
-            "futbolista",
-            "rúben vezo",
-            "levante ud",
-            "primera división",
-            "atlético levante",
-            "fichajes",
-            "julián calero",
-            "aficionados",
-            "laliga"
-        ],
-        "link": "https://www.levante-emv.com/levante-ud/2025/07/23/doble-cara-mercado-fichajes-levante-119990254.html",
-        "date": "2025-07-23 17:09:09",
-        "sentiment_score": -0.11755120754241943
-    },
-    {
-        "title": "Saúl Ñíguez rescinde su contrato con el Atlético de Madrid",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250723190859_120.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-saul-niguez-rescinde-contrato-atletico-madrid-20250723190859.html",
-        "date": "2025-07-23 17:08:59",
-        "sentiment_score": -0.05665804445743561
-    },
-    {
-        "title": "De Canarias a EE. UU. con una beca: «Seré la sombra de mi mentor para aprender lo máximo posible»",
-        "image_url": "https://s3.ppllstatics.com/canarias7/www/multimedia/2025/07/23/Mapfre28-k0R--1200x840@Canarias7.jpg",
-        "tags": [
-            "estados unidos",
-            "beca",
-            "maximo",
-            "estudios",
-            "canarias",
-            "posible",
-            "aprender",
-            "fundacion mapfre canarias",
-            "sombra",
-            "formacion",
-            "mentor"
-        ],
-        "link": "https://www.canarias7.es/sociedad/educacion/canarias-beca-sombra-mentor-aprender-maximo-posible-20250723180411-nt.html",
-        "date": "2025-07-23 17:08:55",
-        "sentiment_score": 0.21725276112556458
-    },
-    {
-        "title": "El UCAM ata al ala pívot De la Torre para una plantilla con catorce fichas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b4294ad0-97c9-4c28-8418-61627375e181_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "deportes",
-            "plantilla",
-            "contratación",
-            "ucam",
-            "real betis",
-            "club",
-            "campaña",
-            "ucam murcia cb"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2025/07/23/ucam-ata-ala-pivot-torre-120000298.html",
-        "date": "2025-07-23 17:06:44",
-        "sentiment_score": 0.08107122778892517
-    },
-    {
-        "title": "El Athletic, sexto de LaLiga en gasto",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f6ab1043-9cde-4f6c-b672-acb46b02c3e1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sexto",
-            "fichajes",
-            "athletic",
-            "gasto",
-            "laliga"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/07/23/athletic-sexto-laliga-gasto-fichajes-9913668.html",
-        "date": "2025-07-23 17:05:57",
-        "sentiment_score": -0.033416420221328735
-    },
-    {
-        "title": "La Biblioteca Jaume Fuster, premiada por impulsar la lectura",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/07/23/688112e74b971.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/biblioteca-jaume-fuster-premiada-impulsar-lectura-20250723_3189965.html",
-        "date": "2025-07-23 17:03:55",
-        "sentiment_score": 0.04544118046760559
-    },
-    {
-        "title": "Emilio García-Cancho, nuevo presidente de la Audiencia Provincial de Badajoz",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250723184749_120.jpg",
-        "tags": [
-            "extremadura"
-        ],
-        "link": "https://www.europapress.es/extremadura/noticia-emilio-garcia-cancho-nuevo-presidente-audiencia-provincial-badajoz-20250723184749.html",
-        "date": "2025-07-23 16:47:49",
-        "sentiment_score": -0.039707258343696594
-    },
-    {
-        "title": "El Gobierno de Castilla-La Mancha pedirá \"unidad real\" para luchar contra el trasvase en la Mesa del Agua",
-        "image_url": "https://www.elplural.com/uploads/s1/20/24/79/9/esther-padilla-2_7_480x270.jpeg",
-        "tags": [
-            "castilla-la mancha"
-        ],
-        "link": "https://www.elplural.com/autonomias/castilla-la-mancha/gobierno-castilla-la-mancha-pedira-unidad-real-luchar-contra-trasvase-mesa-agua_357143102",
-        "date": "2025-07-23 16:38:59",
-        "sentiment_score": -0.03087189793586731
-    },
-    {
-        "title": "La BBC planea conquistar también al mundo adulto con su superestrella Bluey",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6330ba95-f686-4341-ae7f-54514221c0ac_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "series",
-            "perros",
-            "familia",
-            "bbc"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/cultura/2025/07/23/bluey-bbc-nueva-marca-120001368.html",
-        "date": "2025-07-23 17:17:50",
-        "sentiment_score": 0.15639926493167877
-    },
-    {
-        "title": "De Los Corrales a París, con una cuadro pintado en pleno confinamiento: Eladio Aguilera, XII premio de Unia de pintura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3d551104-408c-4fab-be7c-b6a6b5c0a412_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "andalucía,premio,unia,pintura,sevilla,corrales,arte,huelva"
-        ],
-        "link": "https://www.elcorreoweb.es/andalucia/2025/07/23/corrales-paris-cuadro-pintado-pleno-119783380.html",
-        "date": "2025-07-23 17:17:16",
-        "sentiment_score": -0.039437562227249146
-    },
-    {
-        "title": "El país más seguro de Europa ha tomado una decisión drástica para acabar con el turismo masivo: España lo hace en dos ciudades",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/07/23/688115d2e0286.jpeg",
-        "tags": [
-            "vivir"
-        ],
-        "link": "https://www.cope.es/actualidad/vivir/noticias/pais-seguro-europa-tomado-decision-drastica-acabar-turismo-masivo-espana-dos-ciudades-20250723_3189971.html",
-        "date": "2025-07-23 17:15:55",
-        "sentiment_score": -0.15862660109996796
-    },
-    {
-        "title": "¿Llegó el gran día para Amanda Dudamel? Las fotos con velo en París que desataron los rumores",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753294441932.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "¿llegó el gran día para amanda dudamel? las fotos con velo en parís que desataron los rumores"
-        ],
-        "link": "https://2001online.com/farandula/llego-el-gran-dia-para-amanda-dudamel-las-fotos-con-velo-en-paris-que-desataron-los-rumores-20257231380",
-        "date": "2025-07-23 17:08:00",
-        "sentiment_score": 0.46944738924503326
-    },
-    {
-        "title": "Programa contra desalojos en Houston: así puedes aplicar para Eviction Diversion",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753290938990.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "programa contra desalojos en houston: así puedes aplicar para eviction diversion"
-        ],
-        "link": "https://2001online.com/usa/internacionales/programa-contra-desalojos-en-houston-asi-puedes-aplicar-para-eviction-diversion--20257231320",
-        "date": "2025-07-23 17:02:00",
-        "sentiment_score": 0.3563409820199013
-    },
-    {
-        "title": "¡Prevenidos! Saime suspende sus servicios este jueves 24 de julio: ¿Qué debes saber?",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753289160944.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "¡prevenidos! saime suspende sus servicios este jueves 24 de julio: ¿qué debes saber?"
-        ],
-        "link": "https://2001online.com/servicios/prevenidos-saime-suspende-sus-servicios-este-jueves-24-de-julio-que-debes-saber--202572312520",
-        "date": "2025-07-23 16:52:00",
-        "sentiment_score": 0.15542596578598022
-    },
-    {
-        "title": "Comienza despliegue del Plan República: FANB resguardará 15 mil centros de votación en todo el país",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753288782589.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "comienza despliegue del plan república: fanb resguardará 15 mil centros de votación en todo el país"
-        ],
-        "link": "https://2001online.com/nacionales/comienza-despliegue-del-plan-republica-fanb-resguardara-15-mil-centros-de-votacion-en-todo-el-pais-202572312510",
-        "date": "2025-07-23 16:51:00",
-        "sentiment_score": 0.0629204735159874
-    },
-    {
-        "title": "¡Buenas noticias! PoliBaruta crea nueva Brigada Canina y de Protección Animal",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753286062264.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "¡buenas noticias! polibaruta crea nueva brigada canina y de protección animal"
-        ],
-        "link": "https://2001online.com/comunidad/buenas-noticias-polibaruta-crea-nueva-brigada-canina-y-de-proteccion-animal-202572312500",
-        "date": "2025-07-23 16:50:00",
-        "sentiment_score": 0.041074320673942566
-    },
-    {
-        "title": "Trump envió una emotiva carta a la familia de un joven asesinado en Washington: la madre reveló lo que decía",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753217281114.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "trump envió una emotiva carta a la familia de un joven asesinado en washington: la madre reveló lo que decía"
-        ],
-        "link": "https://2001online.com/servicios/trump-envio-una-emotiva-carta-a-la-familia-de-un-joven-asesinado-en-washington-la-madre-revelo-lo-que-decia-202572312300",
-        "date": "2025-07-23 16:30:00",
-        "sentiment_score": -0.8998477859422565
-    },
-    {
-        "title": "¡Atención conductores de Carolina del Norte! Tienen bajo la lupa a estos infractores: activo hasta el 27 de julio",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753284579946.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "¡atención conductores de carolina del norte! tienen bajo la lupa a estos infractores: activo hasta el 27 de julio"
-        ],
-        "link": "https://2001online.com/usa/internacionales/atencion-conductores-de-carolina-del-norte-tienen-bajo-la-lupa-a-estos-infractores-activo-hasta-el-27-de-julio-202572312240",
-        "date": "2025-07-23 16:24:00",
-        "sentiment_score": 0.7430352065712214
-    },
-    {
-        "title": "¿Fin de los impuestos a la propiedad? Ohio debate una enmienda para aliviar el bolsillo de los ciudadanos",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753284675816.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "¿fin de los impuestos a la propiedad? ohio debate una enmienda para aliviar el bolsillo de los ciudadanos"
-        ],
-        "link": "https://2001online.com/usa/internacionales/fin-de-los-impuestos-a-la-propiedad-ohio-debate-una-enmienda-para-aliviar-el-bolsillo-de-los-ciudadanos-202572312100",
-        "date": "2025-07-23 16:10:00",
-        "sentiment_score": 0.22915303707122803
-    },
-    {
-        "title": "¡Justicia en Valles del Tuy! Capturan al presunto asesino de madre e hijo: hallan los cuerpos en una vivienda",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753285807024.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "¡justicia en valles del tuy! capturan al presunto asesino de madre e hijo: hallan los cuerpos en una vivienda"
-        ],
-        "link": "https://2001online.com/sucesos/justicia-en-valles-del-tuy-capturan-al-presunto-asesino-de-madre-e-hijo-hallan-los-cuerpos-en-una-vivienda--20257231280",
-        "date": "2025-07-23 16:08:00",
-        "sentiment_score": -0.5402664840221405
-    },
-    {
-        "title": "En video: la exmiss universo Alicia machado causa revuelo con inesperado anuncio",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753285654953.jpg?ch=675&cw=1200",
-        "tags": [
-            "en video: la exmiss universo alicia machado causa revuelo con inesperado anuncio"
-        ],
-        "link": "https://2001online.com/farandula/en-video-la-exmiss-universo-alicia-machado-causa-revuelo-con-inesperado-anuncio-202572311560",
-        "date": "2025-07-23 15:56:00",
-        "sentiment_score": 0.628058847039938
-    },
-    {
         "title": "Crónica del Alemania - España: 0-1",
         "image_url": "https://www.infobae.com/resizer/v2/37RT7E3GBREH3F2UPHGYX2ERGQ.jpg?auth=f37ab130fc3eb40921fe1f2bd6e060b12d9c2164db930eef6585fcc576e21cbd&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -729,36 +134,6 @@ export default [
         "sentiment_score": -0.2692701667547226
     },
     {
-        "title": "Familias británicas reciben restos equivocados de víctimas del accidente de Air India",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/23/avion-air-india-accidente-kWgF-U70133113383135C-1200x840@diario_abc.jpg",
-        "tags": [
-            "britanicas",
-            "accidente",
-            "victimas",
-            "equivocados",
-            "reciben",
-            "restos",
-            "air",
-            "india",
-            "familias"
-        ],
-        "link": "https://www.abc.es/internacional/familias-britanicas-reciben-restos-equivocados-victimas-accidente-20250723203057-nt.html",
-        "date": "2025-07-23 18:30:57",
-        "sentiment_score": -0.2534515708684921
-    },
-    {
-        "title": "Crónica judicial de una mafia",
-        "image_url": "https://s2.ppllstatics.com/laverdad/www/multimedia/2025/07/03/aire-kxGG--170x119@La%20Verdad.jpg",
-        "tags": [
-            "mafia",
-            "judicial",
-            "cronica"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-cronica-judicial-mafia-20250724184005-nt.html",
-        "date": "2025-07-23 17:51:19",
-        "sentiment_score": -0.17874321341514587
-    },
-    {
         "title": "Fallece el expresidente del Principado de Asturias Antonio Trevín a los 69 años",
         "image_url": "https://imagenes.elpais.com/resizer/v2/ZYAL5CHDLFJV3PYA4XCPJUVU6A.jpg?auth=ca5c6c547e2b5320cab900e2d4aea5d05ca8231857de2213e38818afb411d812&width=1200",
         "tags": [
@@ -832,107 +207,6 @@ export default [
         "link": "https://elpais.com/espana/2025-07-23/perfil-noelia-nunez-la-ayuso-de-fuenlabrada-que-hizo-carrera-en-tiktok-y-cayo-por-falsear-sus-estudios.html",
         "date": "2025-07-23 19:00:43",
         "sentiment_score": 0.6746601015329361
-    },
-    {
-        "title": "El despacho que fundó Montoro pide anular la causa y acusa al juez de impulsar “una investigación desproporcionada”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RIRH4AH3IFKXZO3AGIYOVTMX7Y.jpg?auth=ac90448245ea5297432b5a195993d9ce3e4d5ba3e6b9910f68bac719496d1566&width=1200",
-        "tags": [
-            "investigación judicial",
-            "jueces",
-            "corrupción política",
-            "españa",
-            "empresas",
-            "cristóbal montoro",
-            "gas",
-            "ministerio de hacienda"
-        ],
-        "link": "https://elpais.com/espana/2025-07-23/el-despacho-que-fundo-montoro-pide-anular-la-causa-y-acusa-al-juez-de-impulsar-una-investigacion-desproporcionada.html",
-        "date": "2025-07-23 18:29:27",
-        "sentiment_score": -0.7576353214681149
-    },
-    {
-        "title": "EE UU defiende la repatriación del triple asesino de Usera que se coló entre los presos canjeados con Venezuela: “Muchos denunciaron torturas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AVQ3B2MMFBKFXNHFCOOORJISOQ.jpg?auth=b849db6e73fd7e0545a5650f3928a5edfa2fd4288e0ba8a0487410ac9068f3ca&width=1200",
-        "tags": [
-            "estados unidos",
-            "nicolás maduro",
-            "venezuela",
-            "inmigración",
-            "comunidad de madrid",
-            "usera",
-            "presos políticos",
-            "madrid",
-            "asesinatos",
-            "donald trump"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-07-23/ee-uu-defiende-la-repatriacion-del-triple-asesino-de-usera-que-se-colo-entre-los-presos-canjeados-con-venezuela-muchos-de-ellos-denunciaron-torturas.html",
-        "date": "2025-07-23 18:14:34",
-        "sentiment_score": -0.5624532960355282
-    },
-    {
-        "title": "Alemania – España, en directo | María Méndez acompaña a Irene Paredes en el eje de la zaga",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GK77Z4ESKJKODEQVJW36C6YUAI.jpg?auth=f1f85ebf5a0ba7d1c7f1572ad879f731d6d0f74479b80e3985e07b8df7a9a80b&width=1200",
-        "tags": [
-            "futbolistas",
-            "deportes",
-            "eurocopa femenina",
-            "selección alemana fútbol femenino",
-            "entrenadores",
-            "fútbol",
-            "eurocopa femenina 2025",
-            "seleccion española fútbol femenino",
-            "competiciones"
-        ],
-        "link": "https://elpais.com/deportes/eurocopa-futbol-femenino/2025-07-23/alemania-espana-en-directo-la-semifinal-de-la-eurocopa-femenina-en-vivo.html",
-        "date": "2025-07-23 18:10:00",
-        "sentiment_score": 0.2886715456843376
-    },
-    {
-        "title": "Una huella en un portal permite resolver el asesinato de Paco el Kiosquero diez años después",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EOLFEP24ABBTNJ6FTTSLMREWGU.jpg?auth=5f01a0e6f644d60f54e555ee311e75bb314b97585ca8bdf6c22fc597c3f83276&width=1200",
-        "tags": [
-            "sucesos",
-            "investigación policial",
-            "españa",
-            "detención terroristas",
-            "marbella",
-            "costa del sol",
-            "málaga",
-            "asesinatos"
-        ],
-        "link": "https://elpais.com/espana/2025-07-23/una-huella-en-un-portal-permite-resolver-el-asesinato-de-paco-el-kiosquero-diez-anos-despues.html",
-        "date": "2025-07-23 18:09:28",
-        "sentiment_score": -0.5481592416763306
-    },
-    {
-        "title": "Laia Estrada deja el escaño como diputada de la CUP en el Parlament por “discrepancias políticas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JXUKEZAJ4BIBBJUM3MZW5PUOYU.jpg?auth=87f7aeac64eff570a2b6406b39cfca600401f293a9d60f60190d54eeb36d4038&width=1200",
-        "tags": [
-            "partidos políticos",
-            "independencia",
-            "cup",
-            "cataluña",
-            "parlament cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-23/laia-estrada-deja-el-escano-como-diputada-de-la-cup-en-el-parlament-por-discrepancias-politicas.html",
-        "date": "2025-07-23 17:47:16",
-        "sentiment_score": 0.609392836689949
-    },
-    {
-        "title": "Sánchez carga en Paraguay contra Trump mientras busca grandes contratos para empresas españolas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SV34FEENY5P4TGBWYK5BOIASBI.jpg?auth=ae56bb8f6e9c0064b167e1100670489c397b7ae89224a49443a5aaef0a8b2bd0&width=1200",
-        "tags": [
-            "asunción",
-            "pedro sánchez",
-            "paraguay",
-            "latinoamérica",
-            "relaciones exteriores",
-            "empresas",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-07-23/sanchez-carga-en-paraguay-contra-trump-mientras-busca-grandes-contratos-para-empresas-espanolas.html",
-        "date": "2025-07-23 17:46:10",
-        "sentiment_score": 0.4428469240665436
     },
     {
         "title": "Cata Coll, del hospital a ser la heroína ante Alemania",
@@ -4676,5 +3950,222 @@ export default [
         "link": "https://www.elespanol.com/mundo/asia/20250727/schindler-norcoreano-rescatado-desertores-ayuda-red-criminal-vida-cuesta/1003743861701_0.html",
         "date": "2025-07-27 01:46:51",
         "sentiment_score": -0.3644639402627945
+    },
+    {
+        "title": "Ishiba promete aplicar a pleno el pacto arancelario negando fin de aferrarse al cargo",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
+        "tags": [
+            "shigeru ishiba",
+            "partido liberal democrático",
+            "acuerdo arancelario",
+            "nhk",
+            "efe",
+            "donald trump",
+            "japón",
+            "ryosei akazawa",
+            "tokio",
+            "komeito",
+            "estados unidos"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/27/ishiba-promete-aplicar-a-pleno-el-pacto-arancelario-negando-fin-de-aferrarse-al-cargo/",
+        "date": "2025-07-27 03:15:17",
+        "sentiment_score": -0.7708047460764647
+    },
+    {
+        "title": "Los aeropuertos de Girona y Reus despegan: cifras históricas en pleno debate sobre El Prat",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OCD3IGJ5AVGDPD4KNFTATQK464.jpg?auth=95699ada03381f51c861959a4f7c5dc917a9f5ae620de1585be639a1cbb2be1b&width=1200",
+        "tags": [
+            "reus",
+            "aeropuerto el prat",
+            "aena aeropuertos",
+            "economía",
+            "cataluña",
+            "girona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-27/los-aeropuertos-de-girona-y-reus-despegan-cifras-historicas-en-plena-discusion-sobre-el-prat.html",
+        "date": "2025-07-27 03:30:01",
+        "sentiment_score": 0.6629192307591438
+    },
+    {
+        "title": "Un triple asesino que se definió como “el ser humano horrible”: la historia del criminal liberado por Trump",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RSEDPT2TDBG7TBYZXKHB4WLXNY.jpg?auth=5ce5a71772966cdbc3c4215cbebcae2f887d6af0ab8f8d7a4ca57f111560a06f&width=1200",
+        "tags": [
+            "madrid",
+            "nicolás maduro",
+            "donald trump",
+            "alemania",
+            "sucesos",
+            "venezuela",
+            "estados unidos",
+            "josé luis rodríguez zapatero",
+            "presos políticos",
+            "nayib bukele",
+            "presos",
+            "usera",
+            "extradiciones",
+            "españa",
+            "comunidad de madrid",
+            "juzgados",
+            "asesinatos",
+            "diosdado cabello"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-07-27/un-ser-humano-horrible-liberado-en-suelo-americano.html",
+        "date": "2025-07-27 03:30:01",
+        "sentiment_score": -0.9391302829608321
+    },
+    {
+        "title": "Venezuela vuelve a las urnas en unas elecciones municipales con marcada apatía",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/888768c2-20d6-45c5-8a01-47095d8747fc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "nicolás maduro",
+            "maría corina machado",
+            "venezuela",
+            "elecciones"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/internacional/2025/07/27/venezuela-elecciones-municipales-2025-resultados-120096441.html",
+        "date": "2025-07-27 06:16:02",
+        "sentiment_score": -0.3289269804954529
+    },
+    {
+        "title": "La subida de precios dispara por encima del 40% la brecha entre vivienda libre y protegida",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2017/09/01/li_59a997e0ca73a.jpeg",
+        "tags": [
+            "vivienda"
+        ],
+        "link": "https://www.20minutos.es/noticia/5734226/0/subida-precios-dispara-por-encima-40-brecha-entre-vivienda-libre-protegida/",
+        "date": "2025-07-27 05:59:10",
+        "sentiment_score": 0.1232670396566391
+    },
+    {
+        "title": "He analizado cuatro exfoliantes corporales y tengo claro cuál es mi ganador",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QZWGQC7SP5C5DBLAXWF3PJCOVU.png?auth=60b561038efbcf36dced431ed495379c3efbc0d3292edcafdc2cdfd1338612a9&width=1200",
+        "tags": [
+            "higiene",
+            "ventas internet",
+            "comercio electrónico",
+            "belleza corporal",
+            "belleza",
+            "tratamientos belleza"
+        ],
+        "link": "https://elpais.com/escaparate/comparativas/2025-07-27/mejor-exfoliante-corporal.html",
+        "date": "2025-07-27 05:00:00",
+        "sentiment_score": -0.7564761750400066
+    },
+    {
+        "title": "El apagón y el rechazo al decreto ahuyentan el apetito inversor por las renovables en España",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/07/27/paneles-ktNG-U2302482760751lHI-1200x840@RC.jpg",
+        "tags": [
+            "iberdrola",
+            "energías renovables",
+            "apagón",
+            "repsol"
+        ],
+        "link": "https://www.canarias7.es/economia/apagon-rechazo-decreto-ahuyentan-apetito-inversor-renovables-20250727065914-ntrc.html",
+        "date": "2025-07-27 04:59:18",
+        "sentiment_score": -0.8928219117224216
+    },
+    {
+        "title": "El coche eléctrico es inaccesible por precio para 8 de cada 10 compradores",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/26/688505fc90b90.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250727/10926532/coche-electrico-inaccesible-precio-8-10-compradores.html",
+        "date": "2025-07-27 04:00:00",
+        "sentiment_score": 0.42051684856414795
+    },
+    {
+        "title": "Fabrice Cambolive: “España es un mercado con potencial para crecer”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/26/68852cbe417f4.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250727/10927023/espana-mercado-potencial-crecer.html",
+        "date": "2025-07-27 04:00:00",
+        "sentiment_score": 0.05056127533316612
+    },
+    {
+        "title": "Así será el nuevo registro de jornada que impondrá Yolanda Díaz",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/26/6885151f85f7e.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250727/10926585/nuevo-registro-jornada-impondra-yolanda-diaz.html",
+        "date": "2025-07-27 04:00:00",
+        "sentiment_score": -0.2739657759666443
+    },
+    {
+        "title": "Por qué Neinor compra Aedas",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/07/27/neinor-kohE-U2302482979445CpB-1200x840@RC.jpg",
+        "tags": [
+            "neinor",
+            "aedas",
+            "compra"
+        ],
+        "link": "https://www.elcomercio.es/economia/empresas/neinor-compra-aedas-20250727065950-ntrc.html",
+        "date": "2025-07-27 04:59:52",
+        "sentiment_score": 0.6044840980321169
+    },
+    {
+        "title": "España busca la gloria",
+        "image_url": "https://static.laregion.es/clip/9737e7c2-7ab8-493d-8f33-97f928e920dc_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "eurocopa",
+            "selección española de fútbol"
+        ],
+        "link": "https://www.laregion.es/deportes/espana-busca-gloria_1_20250727-3932579.html",
+        "date": "2025-07-27 04:30:09",
+        "sentiment_score": 0.714510777965188
+    },
+    {
+        "title": "Efemérides de hoy 27 de julio de 2025: ¿Qué pasó el 27 de julio?",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/18/C4837F89-6774-4574-BA3A-CDF98D8FC3D2/efemerides-hoy-27-julio-2025-carlos-sastre-gana-tour-francia_96.jpg?crop=853%2C480%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "sociedad",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/sociedad/efemerides-hoy-27-julio-2025-que-paso-27-julio_202507276885a45cabb2960d1fb6da93.html",
+        "date": "2025-07-27 04:00:28",
+        "sentiment_score": -0.05784895271062851
+    },
+    {
+        "title": "Cesc Guim: Maratones por los microchips",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/26/688520df59d22.png",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250727/10926535/cesc-guim-maratones-microchips.html",
+        "date": "2025-07-27 04:00:00",
+        "sentiment_score": 0.6122912783175707
+    },
+    {
+        "title": "“A Bruselas le ha faltado ambición sobre el tamaño del presupuesto”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250727/10926482/bruselas-le-faltado-ambicion-sobre-tamano-presupuesto.html",
+        "date": "2025-07-27 04:00:00",
+        "sentiment_score": -0.4532267041504383
+    },
+    {
+        "title": "Las empresas madrileñas piden otro aeropuerto ante la saturación de Barajas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/26/6884fccaa1c4e.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250727/10926494/empresas-madrilenas-piden-aeropuerto-saturacion-barajas.html",
+        "date": "2025-07-27 04:00:00",
+        "sentiment_score": 0.442260529845953
+    },
+    {
+        "title": "Milán, atrapada en sus torres",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/26/68851afd647ce.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20250727/10926665/milan-atrapada-torres.html",
+        "date": "2025-07-27 04:00:00",
+        "sentiment_score": -0.839858902618289
     }
 ];
