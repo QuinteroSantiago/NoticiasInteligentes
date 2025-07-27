@@ -1,375 +1,5 @@
 export default [
     {
-        "title": "Las revistas del corazón esta semana: la tristeza de Isa Pantoja tras ser madre y la ruina de Cayetano Martínez de Irujo",
-        "image_url": "https://www.infobae.com/resizer/v2/CBBDB6C3WVBWLJ7RMHLIERSLA4.jpg?auth=3ddf7f176c71f6ef3bdc4330a0474950dff156c10a5b6fa08b0fa0bbff040b63&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "felipe vi",
-            "corazón y estilo españa",
-            "famosos españa",
-            "españa-noticias",
-            "gente españa",
-            "revistas del corazón",
-            "cayetano martínez de irujo",
-            "isa pantoja",
-            "alejandra rubio",
-            "reina sofía",
-            "españa-entretenimiento"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/las-revistas-del-corazon-esta-semana-la-tristeza-de-isa-pantoja-tras-ser-madre-y-la-ruina-de-cayetano-martinez-de-irujo/",
-        "date": "2025-07-23 06:35:22",
-        "sentiment_score": 0.09062817692756653
-    },
-    {
-        "title": "Los Reyes y la Princesa Leonor presiden este miércoles los Premios Princesa de Girona en Barcelona",
-        "image_url": "https://www.infobae.com/resizer/v2/MKC6O7GZAFCDLAY4L46GXK6TZ4.jpg?auth=2254f8c2bcab64ad8d5e8eab12c18b0a2daa2578da88767f57c60c6f7f403107&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/23/los-reyes-y-la-princesa-leonor-presiden-este-miercoles-los-premios-princesa-de-girona-en-barcelona/",
-        "date": "2025-07-23 06:22:46",
-        "sentiment_score": 0.15688791871070862
-    },
-    {
-        "title": "Cómo alquilar tu casa en verano de forma legal: estos son los pasos a seguir",
-        "image_url": "https://www.infobae.com/resizer/v2/4UOADUP55FGSPMOQEJNYFRHAXI.jpg?auth=127c668daeef9c39029a0f0e9807fc88c0d1fdb552333f7613fff6e9c828f1f6&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "vivienda españa",
-            "leyes españa",
-            "alquiler españa",
-            "alquileres españa",
-            "españa-noticias",
-            "turismo españa",
-            "alquiler turístico españa",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/como-alquilar-tu-casa-en-verano-de-forma-legal-estos-son-los-pasos-a-seguir/",
-        "date": "2025-07-23 06:20:43",
-        "sentiment_score": -0.3201207369565964
-    },
-    {
-        "title": "Se recomienda a los estadounidenses que no beban alcohol por la ola de calor: estas son las advertencias en condiciones peligrosas",
-        "image_url": "https://www.infobae.com/resizer/v2/P3GPRENOZVEBLO4VL5VO5J2DV4.jpg?auth=9f53d3ea0d6f9f112a2b88e7b9926012a5d99cc9a58a20a070a4e966c5b20ca0&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "alcohol",
-            "estados unidos",
-            "sucesos",
-            "españa-sociedad",
-            "españa-noticias",
-            "españa-internacional",
-            "temperatura",
-            "ola de calor",
-            "sucesos españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/se-recomienda-a-los-estadounidenses-que-no-beban-alcohol-por-la-ola-de-calor-estas-son-las-advertencias-en-condiciones-peligrosas/",
-        "date": "2025-07-23 06:14:57",
-        "sentiment_score": -0.7785334587097168
-    },
-    {
-        "title": "El alegato de Gonzalo Bernardos a favor de la reducción de jornada: “Hay que dejar de competir por bajos costes laboral y apostar por la calidad”",
-        "image_url": "https://www.infobae.com/resizer/v2/TRNHLCKQWFCOFBTTG5KUVHTQJA.png?auth=49da650e4663c235d471fa2c853738c9e0a5793dbcbc7b877d6410ad034c4ceb&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "empleo",
-            "ministerio de trabajo",
-            "yolanda díaz",
-            "españa-noticias",
-            "jornada laboral",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/el-alegato-de-gonzalo-bernardos-a-favor-de-la-reduccion-de-jornada-hay-que-dejar-de-competir-por-bajos-costes-laboral-y-apostar-por-la-calidad/",
-        "date": "2025-07-23 06:11:55",
-        "sentiment_score": -0.6451347209513187
-    },
-    {
-        "title": "La frase que debes decir a tu pareja para no discutir, según un psicólogo: “Los problemas son emocionales”",
-        "image_url": "https://www.infobae.com/resizer/v2/CI4C7DXNZRGG7NVLE2ZIVKQSMY.jpg?auth=f56fbbe69bd90e20e8ab5e19a34732acfe478201b93b59df6c0c52ab9c7a69f6&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "salud mental",
-            "amor",
-            "psicología",
-            "españa-salud",
-            "parejas"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/la-frase-que-debes-decir-a-tu-pareja-para-no-discutir-segun-un-psicologo-los-problemas-son-emocionales/",
-        "date": "2025-07-23 06:00:09",
-        "sentiment_score": 0.0033334344625473022
-    },
-    {
-        "title": "Un español en Miami cuenta lo que más le ha impresionado de la ciudad: “No parece para nada Estados Unidos”",
-        "image_url": "https://www.infobae.com/resizer/v2/EKMEZVN7V5H73N2I5LMM4O3E7M.png?auth=a4cf017a304c6ced3949e130744fdb6c230ccfb96a60a51720e84eb0049bfc22&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "redes sociales",
-            "estados unidos",
-            "idioma español",
-            "españa-sociedad",
-            "españa-noticias",
-            "tiktok españa",
-            "lengua española",
-            "tiktok"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/un-espanol-en-miami-cuenta-lo-que-mas-le-ha-impresionado-de-la-ciudad-no-parece-para-nada-estados-unidos/",
-        "date": "2025-07-23 05:58:23",
-        "sentiment_score": -0.4876966364681721
-    },
-    {
-        "title": "Primeros detalles de la nueva serie del creador de ‘Breaking Bad’ con un enigmático mensajes: “La felicidad es contagiosa”",
-        "image_url": "https://www.infobae.com/resizer/v2/J4QYDEAW45BBZDX4LBVCEHNCLY.jpg?auth=b4ca3967ae56a88b66679d044da783065a3cde0c2662e884a51f72812cbb1432&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "series",
-            "españa-noticias",
-            "españa-cultura",
-            "series españa",
-            "apple tv",
-            "breaking bad"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/07/23/primeros-detalles-de-la-nueva-serie-del-creador-de-breaking-bad-con-un-enigmatico-mensajes-la-felicidad-es-contagiosa/",
-        "date": "2025-07-23 05:55:41",
-        "sentiment_score": 0.4324594158679247
-    },
-    {
-        "title": "Urgencias saturadas, 43o en centros de salud y listas de espera en colapso: los hospitales españoles, al límite con la llegada del verano",
-        "image_url": "https://www.infobae.com/resizer/v2/UNFTHZFYLBC47JVIVWORWI7FEQ.jpg?auth=e938e16e3832ba7370104d13121272ce685dd92bdac70a569931280197c560fb&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "sanidad españa",
-            "hospitales españa",
-            "sindicatos españa",
-            "españa-noticias",
-            "trabajadores sanitarios",
-            "sanidad pública",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/urgencias-saturadas-43-en-centros-de-salud-y-listas-de-espera-en-colapso-los-hospitales-espanoles-al-limite-con-la-llegada-del-verano/",
-        "date": "2025-07-23 05:54:15",
-        "sentiment_score": -0.8053737543523312
-    },
-    {
-        "title": "Un estudio descubre una novedosa terapia contra las pesadillas: “Podría ayudar a prevenir la aparición de pensamientos suicidas”",
-        "image_url": "https://www.infobae.com/resizer/v2/5ZRICEN6WRDK5FM27VD4ZN632M.jpg?auth=c114af5a31624a2c00c3146834e379f2228a1e2c8b7c92adfa7cff35c397672d&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "psicología",
-            "españa-noticias",
-            "españa-salud",
-            "sueño",
-            "salud mental",
-            "pesadillas"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/23/un-estudio-descubre-una-novedosa-terapia-contra-las-pesadillas-podria-ayudar-a-prevenir-la-aparicion-de-pensamientos-suicidas/",
-        "date": "2025-07-23 05:52:46",
-        "sentiment_score": -0.4115271121263504
-    },
-    {
-        "title": "El incendio a las afueras de Córdoba se reactiva y desarrolla “una carrera ascendente”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/J4YABSTCDNOZDLHEMJWVG5GNUA.jpg?auth=ec5f43bfd2bd4281b7df5a654c036314e895ff7e4ef1cb83c7cfd1558a51f80e&width=1200",
-        "tags": [
-            "incendios",
-            "incendios forestales",
-            "andalucía",
-            "españa",
-            "córdoba",
-            "desalojos"
-        ],
-        "link": "https://elpais.com/espana/2025-07-23/el-incendio-a-las-afueras-de-cordoba-se-reactiva-y-desarrolla-una-carrera-ascendente.html",
-        "date": "2025-07-23 05:42:46",
-        "sentiment_score": -0.56135368719697
-    },
-    {
-        "title": "¿Cómo llegan Hércules y Elche al primer pulso del verano?",
-        "image_url": "https://s1.elespanol.com/2025/06/03/actualidad/1003743787267_257490714_1706x960.jpg?contentId=1003743787267",
-        "tags": [
-            "alicante (ciudad)",
-            "hércules cf",
-            "hércules de alicante cf",
-            "fútbol"
-        ],
-        "link": "https://www.elespanol.com/alicante/deporte/hercules-cf/20250723/llegan-hercules-elche-primer-pulso-verano/1003743859122_0.html",
-        "date": "2025-07-23 06:37:44",
-        "sentiment_score": -0.17891907691955566
-    },
-    {
-        "title": "Ceballos abre de nuevo la puerta",
-        "image_url": "https://www.eldiadevalladolid.com/media/img/2025/10c9f881-1a89-4d5f-a5947ba125fe1381.jpg",
-        "tags": [
-            "betis",
-            "real madrid",
-            "champions league",
-            "haro",
-            "mundial de clubes",
-            "fifa",
-            "xabi alonso",
-            "novela"
-        ],
-        "link": "https://www.eldiadevalladolid.com/noticia/z9975118c-5bc0-4747-8ce707748ef16ff3/202507/ceballos-abre-de-nuevo-la-puerta",
-        "date": "2025-07-23 06:30:37",
-        "sentiment_score": 0.13222818076610565
-    },
-    {
-        "title": "El Gobierno concede al Alto Comisionado de la ONU para los Refugiados (ACNUR) la Cruz de la Orden de Isabel la Católica",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250723082826_120.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.europapress.es/nacional/noticia-gobierno-concede-alto-comisionado-onu-refugiados-acnur-cruz-orden-isabel-catolica-20250723082826.html",
-        "date": "2025-07-23 06:28:26",
-        "sentiment_score": -0.0690992921590805
-    },
-    {
-        "title": "Bares de Sevilla donde comer si vas a la Velada de Ibai Llanos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47271643-1ff5-4c52-bf9f-93222d630e4b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sevilla,gastronomía,restaurantes,ibai llanos,la cartuja"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2025/07/23/velada-restaurante-cerca-cartuja-gastronomia-119549112.html",
-        "date": "2025-07-23 06:25:00",
-        "sentiment_score": 0.7636276409029961
-    },
-    {
-        "title": "El rearme ideológico de Feijóo permite al PP recuperar la iniciativa política y recuperar su mayoría parlamentaria",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-1871043.jpg",
-        "tags": [
-            "politica"
-        ],
-        "link": "https://www.vozpopuli.com/espana/politica/el-rearme-ideologico-de-feijoo-permite-al-pp-recuperar-la-iniciativa-politica-y-recuperar-su-mayoria-parlamentaria.html",
-        "date": "2025-07-23 06:23:43",
-        "sentiment_score": -0.6201804168522358
-    },
-    {
-        "title": "Ocho días sin agua en cuatro pedanías de Segovia: «Ya no me acordaba de cuando te lavabas en una palangana»",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/07/23/agua-sepulveda6-kdX-U2302451507442k0B-1200x840@El%20Norte.jpeg",
-        "tags": [
-            "cuatro",
-            "pedanias",
-            "dias",
-            "palangana",
-            "segovia",
-            "acordaba",
-            "lavabas",
-            "agua",
-            "ocho"
-        ],
-        "link": "https://www.elnortedecastilla.es/segovia/ocho-dias-agua-cuatro-pedanias-segovia-acordaba-20250723082121-nt.html",
-        "date": "2025-07-23 06:21:22",
-        "sentiment_score": -0.8528677215799689
-    },
-    {
-        "title": "Otra precupante secuela del covid-19 que afecta incluso a quienes no lo han padecido",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250723082048_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-otra-precupante-secuela-covid-19-afecta-incluso-quienes-no-padecido-20250723082048.html",
-        "date": "2025-07-23 06:20:48",
-        "sentiment_score": -0.5486997105181217
-    },
-    {
-        "title": "Fernando Romay y los deportistas que no pudieron cotizar: \"Si tenía que llevar a mi hijo al hospital público, sabía que me llegaría una factura\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/66c6ad88-bfae-4438-8596-52e359751c05_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid",
-            "jubilación"
-        ],
-        "link": "https://www.lne.es/deportes/2025/07/23/fernando-romay-deportistas-pudieron-cotizar-119975957.html",
-        "date": "2025-07-23 06:16:05",
-        "sentiment_score": 0.05330130457878113
-    },
-    {
-        "title": "Detienen a una mujer de 25 años por la muerte violenta de un hombre en un piso de Calella",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/06/12/684af111d4866.webp",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/noticias/detienen-mujer-25-anos-muerte-violenta-hombre-piso-calella-20250723_3189505.html",
-        "date": "2025-07-23 06:39:02",
-        "sentiment_score": -0.7029546722769737
-    },
-    {
-        "title": "Catalunya activa sus planes frente a inundaciones ante los frentes de lluvia previstos a partir de este miércoles",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e8bdaf6e-9de7-4916-b278-20321e0b8381_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "servei meteorològic de catalunya (meteocat)",
-            "aemet - agencia estatal de meteorología",
-            "lluvias"
-        ],
-        "link": "https://www.elperiodico.com/es/tiempo/20250723/catalunya-activa-planes-frente-inundaciones-lluvias-miercoles-119976030",
-        "date": "2025-07-23 06:32:38",
-        "sentiment_score": -0.13233688473701477
-    },
-    {
-        "title": "Una \"baja atlántica\" llega a España y la Aemet activa los avisos en estas zonas: habrá tormentas \"muy fuertes\" con granizo",
-        "image_url": "https://images.ecestaticos.com/swBdSSzrMndenUp4b_NZ81RQYKw=/0x0:910x710/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F9d0%2Fed5%2F9b1%2F9d0ed59b18127120f5fdca7165b6ab9e.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elconfidencial.com/espana/2025-07-23/1qrt-baja-atlantica-acerca-espana-aemet-activa-avisos-habra-tormentas-fuertes-granizo_4178376/",
-        "date": "2025-07-23 06:29:00",
-        "sentiment_score": 0.0007817000150680542
-    },
-    {
-        "title": "Altas temperaturas, lluvias, tormentas, vientos y rissagas ponen hoy en aviso a 14 provincias",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250723082609_120.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-tiempo-hoy-espana-23-julio-2025-20250723082609.html",
-        "date": "2025-07-23 06:26:09",
-        "sentiment_score": -0.2606242373585701
-    },
-    {
-        "title": "Barcelona, preparada para el chaparrón a partir de esta hora: el Meteocat lo confirma con una alerta naranja por lluvias intensas",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/10/31/672342bb4fd93.r_d.2453-3155.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20250723/1002504512/barcelona-preparada-chaparron-partir-hora-meteocat-confirma-alerta-naranja-lluvias-intensas-dct.html",
-        "date": "2025-07-23 06:25:00",
-        "sentiment_score": -0.02531963586807251
-    },
-    {
-        "title": "El popular restaurante en el centro de Barcelona que sorprendió a Bruce Springsteen: “Lo probó todo”",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/07/23/gastro/1003742675955_14908812_1706x960.jpg?contentId=1003742675955",
-        "tags": [
-            "gastronomía",
-            "gastro",
-            "famosos barcelona",
-            "restaurantes barcelona",
-            "curiosidades",
-            "bares y restaurantes"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gastro/20250723/popular-restaurante-centro-barcelona-sorprendio-bruce-springsteen-probo/1003742675954_0.html",
-        "date": "2025-07-23 06:22:15",
-        "sentiment_score": -0.3313542902469635
-    },
-    {
-        "title": "Octavi Pujades usa 'la fuerza' en su boda con Anna Senan: una ceremonia para el recuerdo",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/files/fp/uploads/2025/07/23/68807df66aa4b.r_d.166-309-0.png",
-        "tags": [
-            "trending topic"
-        ],
-        "link": "https://www.cadena100.es/trending-topic/noticias/octavi-pujades-fuerza-boda-anna-senan-ceremonia-recuerdo-20250723_137832.html",
-        "date": "2025-07-23 06:21:38",
-        "sentiment_score": 0.08185148239135742
-    },
-    {
-        "title": "Francisca Bohigas Gavilanes, la primera y única diputada de derechas católicas en la II República por León",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/07/22/BOHIGAS-kH0B-U2302445422101uGH-1200x840@Leonoticias.jpg",
-        "tags": [
-            "derechas",
-            "primera",
-            "diputada",
-            "leon",
-            "bohigas",
-            "unica",
-            "catolicas",
-            "francisca",
-            "republica",
-            "gavilanes",
-            "espana"
-        ],
-        "link": "https://www.leonoticias.com/leon/francisca-bohigas-gavilanes-primera-unica-diputada-derechas-20250723082015-nt.html",
-        "date": "2025-07-23 06:20:16",
-        "sentiment_score": 0.022875964641571045
-    },
-    {
         "title": "“El resultado duele y mucho”: colombiano tras comparar el precio del mercado en Colombia y España",
         "image_url": "https://www.infobae.com/resizer/v2/RKY7N5VMRNBJDPS4JXFY4HFAII.png?auth=d1ad16974c25adcb23cbb5e530cb09a309b564b0ab72e5294c0cd6c78fa61495&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -4841,5 +4471,182 @@ export default [
         "link": "https://www.diariodejerez.es/andalucia/112-andalucia-gestiona-421-000-emergencias-primer-semestre-2025_0_2004458320.html",
         "date": "2025-07-26 10:56:38",
         "sentiment_score": 0.02754153311252594
+    },
+    {
+        "title": "São Paulo alerta de que el arancel del 50 % de Trump puede destruir hasta 120.000 empleos",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
+        "tags": [
+            "arancel",
+            "jair bolsonaro",
+            "donald trump",
+            "estados unidos",
+            "efe",
+            "são paulo",
+            "luiz inácio lula da silva",
+            "tarcísio de freitas",
+            "brasil",
+            "industria",
+            "empleo"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/26/sao-paulo-alerta-de-que-el-arancel-del-50-de-trump-puede-destruir-hasta-120000-empleos/",
+        "date": "2025-07-26 19:45:13",
+        "sentiment_score": -0.1959707885980606
+    },
+    {
+        "title": "Un arquitecto solicita reducir la pensión de su hija de 400 euros a 50 al mes: la Justicia lo rechaza porque no sufre de “precariedad económica”",
+        "image_url": "https://www.infobae.com/resizer/v2/ACLPI2SQ4FDQTC4KMKDSIDALMU.jpg?auth=bffc2d2fd991349e35c630e325a319344ad6a5750c407da00c7c75b4b22c1228&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "tribunal",
+            "sentencias españa",
+            "justicia españa",
+            "tribunales españa",
+            "justicia",
+            "familias",
+            "españa-nacional",
+            "pensiones",
+            "subvenciones y ayudas"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/26/un-arquitecto-solicita-reducir-la-pension-de-su-hija-de-400-euros-a-50-al-mes-la-justicia-lo-rechaza-porque-no-sufre-de-precariedad-economica/",
+        "date": "2025-07-26 18:05:15",
+        "sentiment_score": -0.04704643040895462
+    },
+    {
+        "title": "Qué serie o película ver esta noche en Disney+ España",
+        "image_url": "https://www.infobae.com/resizer/v2/EPARKIM5JVDJ7C5QZDPA63O7ZM.jpg?auth=69ba65d9cb3ecb4c32451e000e5a2a1a286fa2d7825529b64fae07034e7c5fa5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "disney plus",
+            "streaming",
+            "españa-televisión",
+            "series disney",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/26/que-serie-o-pelicula-ver-esta-noche-en-disney-espana/",
+        "date": "2025-07-26 17:30:43",
+        "sentiment_score": 0.4609876275062561
+    },
+    {
+        "title": "Alerta policial en Europa por la «yihad de TikTok»: los menores se suman al terrorismo islamista",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/07/25/detenidos-menores-yihadismo-k6JF-U2302477677989FLB-1200x840@RC.jpg",
+        "tags": [
+            "menores",
+            "islamista",
+            "yihad",
+            "tiktok",
+            "suman",
+            "europa",
+            "terrorismo",
+            "policial",
+            "alerta"
+        ],
+        "link": "https://www.canarias7.es/internacional/europa/alerta-policial-europa-yihad-tiktok-menores-suman-20250727001132-ntrc.html",
+        "date": "2025-07-26 22:11:33",
+        "sentiment_score": 0.761957811191678
+    },
+    {
+        "title": "Las viviendas prémium se disparan un 15%, ¿dónde suben con más fuerza?",
+        "image_url": "https://phantom-expansion.uecdn.es/78fbf6965333120a01d396fd99154267/crop/38x47/1896x1286/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/26/17535494497533.jpg",
+        "tags": [
+            "inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/2025/07/26/68850706468aeb83478b457a.html",
+        "date": "2025-07-26 18:21:41",
+        "sentiment_score": 0.38139406219124794
+    },
+    {
+        "title": "(Previa) El Barça arranca contra el Vissel Kobe con el aliciente de Rashford",
+        "image_url": "https://www.infobae.com/resizer/v2/H2TNNCMNF5GWTLTKTVCZWFHBQQ.jpg?auth=fe4b65fc82be1b60c425f98c7851f39821468efe228dc4014f3bce658037aa9d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/26/previa-el-barca-arranca-contra-el-vissel-kobe-con-el-aliciente-de-rashford/",
+        "date": "2025-07-26 18:19:04",
+        "sentiment_score": 0.00276368111371994
+    },
+    {
+        "title": "La luz nace en Los Guinchos desde hace más de medio siglo",
+        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2025/07/25/equipo_trabajadores-kJtD-U2302477023961fPI-1200x840@Canarias7.jpg",
+        "tags": [
+            "endesa"
+        ],
+        "link": "https://www.canarias7.es/economia/luz-nace-guinchos-medio-siglo-20250727231706-nt.html",
+        "date": "2025-07-26 22:17:06",
+        "sentiment_score": 0.7183190248906612
+    },
+    {
+        "title": "Computación cuántica: la próxima revolución tecnológica ya está en marcha",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/25/6883c26f043e5.r_d.4274-2987-557.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250727/10925084/computacion-cuantica-finanzas-tecnologia-inversion.html",
+        "date": "2025-07-26 22:05:00",
+        "sentiment_score": -0.007080137729644775
+    },
+    {
+        "title": "Luis Bassat: \"En Barcelona sabrá mal que yo ayude a Madrid con la Fórmula 1\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/21/business/1003742675339_14897906_1706x960.jpg?contentId=1003742675339",
+        "tags": [
+            "circuit de catalunya",
+            "montmeló",
+            "madrid",
+            "empresarios",
+            "publicidad",
+            "entrevistas",
+            "fórmula 1",
+            "cataluña",
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250726/luis-bassat-barcelona-sabra-ayude-madrid-formula/1003742675338_0.html",
+        "date": "2025-07-26 22:00:00",
+        "sentiment_score": -0.30713503062725067
+    },
+    {
+        "title": "«En España no faltan mentes brillantes, falta el dinero»",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/07/26/asturianodiaspora-RiI6dxwR93VllO2hZTpljcN-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "asturianos en la diáspora"
+        ],
+        "link": "https://www.elcomercio.es/asturianos-por-el-mundo/espana-faltan-mentes-brillantes-falta-dinero-20250726222444-nt.html",
+        "date": "2025-07-26 20:24:44",
+        "sentiment_score": -0.020451664924621582
+    },
+    {
+        "title": "Israel anuncia la reanudación del lanzamiento de ayuda humanitaria en Gaza",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/25/688377e609404.r_d.2750-1833-816.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20250726/10926805/israel-anuncia-reanudacion-lanzamiento-ayuda-humanitaria-gaza.html",
+        "date": "2025-07-26 20:00:46",
+        "sentiment_score": -0.7988664750009775
+    },
+    {
+        "title": "Te obligan a hacerlo en el aeropuerto sin saber que es un peligro para tu móvil",
+        "image_url": "https://www.movilzona.es/app/uploads-movilzona.es/2025/07/aeropuerto-puertas-y-control-de-seguridad-.png",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.movilzona.es/noticias/problemas/dejar-movil-bandeja-control-aeropuerto-peligro/",
+        "date": "2025-07-26 19:32:59",
+        "sentiment_score": -0.8534887861460447
+    },
+    {
+        "title": "¿No más café colombiano para EEUU? Alarma en los mercados por los aranceles de Trump",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753549466509.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "aranceles afectan importación del café colombiano",
+            "eeuu",
+            "mercado del café colombiano en eeuu",
+            "asociación nacional de exportadores de café de colombia (asoexport)",
+            "usa",
+            "exportación de café de colombia a eeuu",
+            "estados unidos",
+            "aranceles a colombia",
+            "café colombiano en eeuu"
+        ],
+        "link": "https://2001online.com/internacionales/no-mas-cafe-colombiano-para-eeuu-alarma-en-los-mercados-por-los-aranceles-de-trump-20257261650",
+        "date": "2025-07-26 20:05:00",
+        "sentiment_score": 0.08466888219118118
     }
 ];
