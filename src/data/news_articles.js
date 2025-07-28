@@ -1,240 +1,5 @@
 export default [
     {
-        "title": "Detienen a dos personas en el puerto de Algeciras con casi dos kilos de oro ocultos en las zapatillas: las láminas estaban valoradas en 145.000 euros",
-        "image_url": "https://www.infobae.com/resizer/v2/KRRAGHAXWVEUDANXXJKI6N2QYY.jpg?auth=15446d0ff8681a0a18109d019c1655ed2806b59873772c56b80859681bf21d0b&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "policía nacional españa",
-            "campo de gibraltar",
-            "contrabando",
-            "narcotráfico",
-            "estrecho de gibraltar",
-            "españa-noticias",
-            "guardia civil españa",
-            "españa-nacional",
-            "oro",
-            "metales"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/detienen-a-dos-personas-en-el-puerto-de-algeciras-con-casi-dos-kilos-de-oro-ocultos-en-las-zapatillas-las-laminas-estaban-valoradas-en-145000-euros/",
-        "date": "2025-07-24 15:39:09",
-        "sentiment_score": -0.5662183575332165
-    },
-    {
-        "title": "Harry y Meghan sufren un importante varapalo económico: Netflix no renueva su contrato de 100 millones de dólares",
-        "image_url": "https://www.infobae.com/resizer/v2/O5MUR5RWBPSZS4D5GFJORGBLBM.jpg?auth=405346c795e9152b50b8b26ec3a5779b3aba605aacea065fab9257da5cf551e7&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "realeza",
-            "netflix",
-            "familia real británica",
-            "príncipe harry",
-            "corazón y estilo españa",
-            "españa-entretenimiento",
-            "españa-noticias",
-            "meghan markle"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/harry-y-meghan-sufren-un-importante-varapalo-economico-netflix-no-renueva-su-contrato-de-100-millones-de-dolares/",
-        "date": "2025-07-24 14:43:22",
-        "sentiment_score": 0.38945260271430016
-    },
-    {
-        "title": "Óscar Puente declara en el Congreso una nueva vivienda en Alicante y una nueva hipoteca de 173.000 euros",
-        "image_url": "https://www.infobae.com/resizer/v2/VU35BHDY5VG5NEUFYZTKRJRUHQ.jpg?auth=b302c48056bd6ace940554f51fd47c618a8d16a0c9b481e869edd3bd5abf9eb9&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/24/oscar-puente-declara-en-el-congreso-una-nueva-vivienda-en-alicante-y-una-nueva-hipoteca-de-173000-euros/",
-        "date": "2025-07-24 14:39:03",
-        "sentiment_score": 0.18743666633963585
-    },
-    {
-        "title": "Zelenski da marcha atrás tras las protestas y las quejas de la UE: una ley devolverá la independencia a los entes anticorrupción",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/24/zelenski-RQYVweHCzCFoq5oKmbkT79I-1200x840@diario_abc.jpg",
-        "tags": [
-            "quejas",
-            "zelenski",
-            "entes",
-            "protestas",
-            "anticorrupcion",
-            "tras",
-            "ley",
-            "atras",
-            "ue",
-            "marcha",
-            "devolvera",
-            "independencia"
-        ],
-        "link": "https://www.abc.es/internacional/zelenski-marcha-atras-tras-protestas-quejas-ue-20250724162359-nt.html",
-        "date": "2025-07-24 14:23:59",
-        "sentiment_score": -0.08731913566589355
-    },
-    {
-        "title": "Una asociación de memoria histórica acusa a la Comunidad de Madrid de “blanquear” el franquismo en una exposición fotográfica",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RBO53KSYOJA4LI24WVIUGU5CKM.jpg?auth=4457e8930270b9ca3f481f2c9de7ab33e3e500251c28a5c037504207b1ebec06&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "gobierno autonómico",
-            "dictadura",
-            "exposiciones",
-            "franquismo",
-            "fotografía",
-            "ley memoria histórica",
-            "memoria de españa",
-            "cultura",
-            "exposiciones temporales",
-            "víctimas franquismo",
-            "memoria histórica",
-            "ley memoria democrática",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-07-24/una-asociacion-de-memoria-historica-acusa-a-la-comunidad-de-madrid-de-blanquear-el-franquismo-en-una-exposicion-fotografica.html",
-        "date": "2025-07-24 16:30:48",
-        "sentiment_score": 0.3142698332667351
-    },
-    {
-        "title": "Pere Navarro activa en la DGT una alerta para el fin de semana: prevé 6,5 millones de desplazamientos",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2024/12/DGT-1-1200x676.jpeg",
-        "tags": [
-            "movilidad",
-            "pere navarro",
-            "dgt",
-            "sociedad"
-        ],
-        "link": "https://www.economiadigital.es/sociedad/pere-navarro-activa-en-la-dgt-una-alerta-para-el-fin-de-semana-preve-65-millones-de-desplazamientos.html",
-        "date": "2025-07-24 17:00:00",
-        "sentiment_score": -0.26754559576511383
-    },
-    {
-        "title": "Fernando Romay y Coral Bistuer no pueden cobrar la pensión por ser olímpicos: \"Nosotros tributábamos como artistas y toreros\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/24/552FE548-B78F-4E0B-809A-EFDE27D70209/romay_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena3",
-            "y ahora sonsoles",
-            "programas"
-        ],
-        "link": "https://www.antena3.com/programas/y-ahora-sonsoles/fernando-romay-coral-bistuer-pueden-cobrar-pension-ser-olimpicos-nosotros-tributabamos-como-artistas-toreros_2025072468826349f4ec026a96ba8db1.html",
-        "date": "2025-07-24 16:46:01",
-        "sentiment_score": -0.9190762685611844
-    },
-    {
-        "title": "Marta Álvarez, reelegida presidenta de El Corte Inglés",
-        "image_url": "https://www.murciadiario.com/media/murciadiario/images/2025/07/24/2025072418113235112.jpg",
-        "tags": [
-            "empresas"
-        ],
-        "link": "https://www.murciadiario.com/articulo/empresas/marta-alvarez-reelegida-presidenta-corte-ingles/20250724181349130829.html",
-        "date": "2025-07-24 16:13:49",
-        "sentiment_score": 0.12392853200435638
-    },
-    {
-        "title": "La tasa de retribución para garantizar inversión en redes debería situarse en el 7,5%, según estudio de UPV",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/07/fotonoticia_20250724175834_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/771106/la-tasa-de-retribucion-para-garantizar-inversion-en-redes-deberia-situarse-en-el-75-segun-estudio-de-upv/",
-        "date": "2025-07-24 15:58:34",
-        "sentiment_score": 0.0010152757167816162
-    },
-    {
-        "title": "La tasa de retribución para garantizar inversión en redes debería situarse en el 7,5%, según estudio de UPV",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250724175834_120.jpg",
-        "tags": [
-            "economía finanzas",
-            "energía"
-        ],
-        "link": "https://www.europapress.es/economia/energia-00341/noticia-tasa-retribucion-garantizar-inversion-redes-deberia-situarse-75-estudio-upv-20250724175834.html",
-        "date": "2025-07-24 15:58:34",
-        "sentiment_score": 0.05418020486831665
-    },
-    {
-        "title": "Carmelo Paniagua: \"El hockey patines es el deporte más laureado de España, pero todavía hay que insistir en que se conozca\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/64821c33-0483-4e70-92ab-883bd6176847_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hockey"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/07/24/carmelo-paniagua-hockey-patines-deporte-120033924.html",
-        "date": "2025-07-24 15:23:33",
-        "sentiment_score": 0.7066283598542213
-    },
-    {
-        "title": "Cajas llenas de papeles, vinos caros y muchos bolsos: desvelan el contenido de las cajas de la mudanza de Santos Cerdán",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-1979960.jpg",
-        "tags": [
-            "dolcevita"
-        ],
-        "link": "https://www.vozpopuli.com/dolcevita/cajas-llenas-de-papeles-vinos-caros-y-muchos-bolsos-desvelan-el-contenido-de-las-cajas-de-la-mudanza-de-santos-cerdan.html",
-        "date": "2025-07-24 14:49:28",
-        "sentiment_score": -0.8953505698591471
-    },
-    {
-        "title": "La nueva realidad de María Lapiedra: de sus striptease a una vida familiar en Barcelona",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/04/29/644c4ca49299f.r_d.780-398-3162.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20250724/1002505418/nueva-realidad-maria-lapiedra-striptease-vida-familiar-barcelona-dct.html",
-        "date": "2025-07-24 17:16:53",
-        "sentiment_score": 0.014030277729034424
-    },
-    {
-        "title": "Colonial gana 107 millones en el primer semestre, un 17% más",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/24/business/1003742676737_14924911_1706x960.jpg?contentId=1003742676737",
-        "tags": [
-            "business",
-            "oficinas",
-            "inmobiliaria colonial",
-            "colonial"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20250724/colonial-gana-millones-primer-semestre/1003742676726_0.html",
-        "date": "2025-07-24 17:02:58",
-        "sentiment_score": 0.5964924357831478
-    },
-    {
-        "title": "La carta de Ter Stegen a la afición del Barça: \"Queridos culés...\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/24/8E2706D3-575F-4D4B-99B2-3EEC730D1F23/ter-stegen-foto-archivo_98.jpg?crop=3231%2C1818%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/carta-ter-stegen-aficion-barca-queridos-cules_2025072468826546abb2960d1fb4a696.html",
-        "date": "2025-07-24 16:54:30",
-        "sentiment_score": -0.04245338216423988
-    },
-    {
-        "title": "La inmobiliaria Colonial aprovecha el rebote de las oficinas y gana 107 millones el primer semestre de 2025",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f4379e0b-b332-469e-82c4-7dca1a717c39_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mercado inmobiliario"
-        ],
-        "link": "https://www.diariodeibiza.es/economia/2025/07/24/inmobiliaria-colonial-aprovecha-rebote-oficinas-120037479.html",
-        "date": "2025-07-24 16:52:08",
-        "sentiment_score": 0.034374356269836426
-    },
-    {
-        "title": "Más Espejo elogia la habilidad de la Princesa Leonor para hablar en diferentes idiomas: \"La pronunciación es perfecta\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/24/FD5C0036-2E4C-4695-9C47-B24C3244F6E4/mas-espejo-habla-familia-real-premios-princesa-girona_70.jpg?crop=1651%2C929%2Cx0%2Cy5&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "programas",
-            "noticias",
-            "espejo público",
-            "antena3"
-        ],
-        "link": "https://www.antena3.com/programas/espejo-publico/noticias/mas-espejo-elogia-habilidad-princesa-leonor-hablar-diferentes-idiomas-pronunciacion-perfecta_20250724688260a7f4ec026a96ba8a6d.html",
-        "date": "2025-07-24 16:34:47",
-        "sentiment_score": 0.7893575765192509
-    },
-    {
-        "title": "Tres detenidos en Córdoba tras robar en un comercio y dañar vehículos",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/07/24/68825e5c57213.jpeg",
-        "tags": [
-            "córdoba - actualidad"
-        ],
-        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20250724/tres-detenidos-cordoba-robar-comercio-danar-vehiculos_320517.html",
-        "date": "2025-07-24 16:25:04",
-        "sentiment_score": -0.850478557869792
-    },
-    {
         "title": "Carrefour facturó 2.872 millones de euros en España durante el segundo trimestre, un 3,5% más",
         "image_url": "https://www.infobae.com/resizer/v2/PXOJL5NQTJHBZCQUDCJAO3PBFI.jpg?auth=c02387248f446767f211bca10484453928945a6da8b3c6cfcbf0bc9c121e6a90&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -243,26 +8,6 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2025/07/24/carrefour-facturo-2872-millones-de-euros-en-espana-durante-el-segundo-trimestre-un-35-mas/",
         "date": "2025-07-24 18:49:10",
         "sentiment_score": 0.3104878105223179
-    },
-    {
-        "title": "Sumar plantea que todas las parejas de hecho puedan percibir la pensión de viudedad a la vez que la jubilación: “Genera una nueva forma de discriminación”",
-        "image_url": "https://www.infobae.com/resizer/v2/CQWG4DGP2VFXPH2GG7I4HZOSOE.jpg?auth=bc39d682a4a9994baeb0c3f69ad5b7d4af29e78dd5b65c6714b3603135a6b3ef&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa",
-            "españa-noticias",
-            "política españa",
-            "españa-nacional",
-            "sumar",
-            "gobierno de españa",
-            "seguridad social españa",
-            "subsidios y ayudas",
-            "parejas",
-            "pensiones",
-            "matrimonio"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/sumar-plantea-que-todas-las-parejas-de-hecho-puedan-percibir-la-pension-de-viudedad-a-la-vez-que-la-jubilacion-genera-una-nueva-forma-de-discriminacion/",
-        "date": "2025-07-24 17:55:17",
-        "sentiment_score": -0.10860678553581238
     },
     {
         "title": "La muy seria eficacia de los videojuegos engancha a la gestión empresarial",
@@ -289,53 +34,6 @@ export default [
         "link": "https://www.expansion.com/economia-digital/innovacion/2025/07/25/6882ad3a468aebc1758b4596.html",
         "date": "2025-07-24 22:05:27",
         "sentiment_score": 0.31207965314388275
-    },
-    {
-        "title": "El consumo de alcohol desciende entre los jóvenes pero crecen otras adicciones como el cannabis y el uso de pantallas",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/07/A1-1412081994-1-321x197.jpg",
-        "tags": [
-            "hemeroteca"
-        ],
-        "link": "https://www.economiadigital.es/hemeroteca/consumo-alcohol-desciende-entre-jovenes-crecen-otras-adicciones-cannabis-uso-pantallas.html",
-        "date": "2025-07-24 18:11:21",
-        "sentiment_score": 0.06531583517789841
-    },
-    {
-        "title": "La Federación Mexicana de Fútbol multa a Chicharito por sus comentarios sobre las mujeres",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/24/5652642E-62D2-438E-8615-AA84B217EE0A/chicharito-partido-chivas_98.jpg?crop=4000%2C2251%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/federacion-mexicana-futbol-multa-chicharito-sus-comentarios-mujeres_202507246882719dffbf4a1a67439ff6.html",
-        "date": "2025-07-24 17:47:09",
-        "sentiment_score": -0.20734678953886032
-    },
-    {
-        "title": "El Corte Inglés reelige a Marta Álvarez como presidenta y anuncia 3.000 millones de inversión hasta 2030",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aa63eaff-451c-4083-9c38-b5358754f0a8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "negocios",
-            "madrid",
-            "economía",
-            "administración"
-        ],
-        "link": "https://www.elperiodicodearagon.com/economia/2025/07/24/corte-ingles-reelige-marta-alvarez-120039044.html",
-        "date": "2025-07-24 17:38:16",
-        "sentiment_score": 0.1468920111656189
-    },
-    {
-        "title": "'Chicharito' Hernández se disculpa por sus comentarios machistas: \"Nunca fue mi intención limitar, herir ni dividir\"\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/60249769-7298-422d-b75e-9e35635f81eb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "machismo",
-            "tiktok",
-            "fútbol"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/07/24/chicharito-hernandez-disculpa-comentarios-machistas-120038796.html",
-        "date": "2025-07-24 17:23:21",
-        "sentiment_score": -0.6610991023480892
     },
     {
         "title": "Candidata del oficialismo cerró campaña en el centro de Barcelona (+Fotos)",
@@ -406,28 +104,6 @@ export default [
         "sentiment_score": -0.8929993119090796
     },
     {
-        "title": "Malavé: Barceloneses perciben las municipales como una primaria del chavismo",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "locales",
-            "política"
-        ],
-        "link": "https://eltiempove.com/malave-barceloneses-perciben-las-municipales-como-una-primaria-del-chavismo/",
-        "date": "2025-07-24 18:02:26",
-        "sentiment_score": -0.0737580806016922
-    },
-    {
-        "title": "El hermano de Montserrat Caballé podría ser desahuciado por impago del alquiler de 41.000 euros",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/07/24/carlos-kmUG-U2302470764606LVC-1200x840@El%20Norte.jpg",
-        "tags": [
-            "alquiler",
-            "montserrat caballé"
-        ],
-        "link": "https://www.elnortedecastilla.es/gente-estilo/hermano-montserrat-caballe-desahuciado-impago-alquiler-41000-20250724193857-nt.html",
-        "date": "2025-07-24 17:38:57",
-        "sentiment_score": -0.13347437977790833
-    },
-    {
         "title": "ICE sanciona a Walmart con multa millonaria: descubren estas irregularidades con sus empleados migrantes",
         "image_url": "https://pxcdn.2001online.com/2001/072025/1753388533944.webp?ch=212&cw=377&extw=webp",
         "tags": [
@@ -438,19 +114,6 @@ export default [
         "link": "https://2001online.com/usa/internacionales/ice-sanciona-a-walmart-con-multa-millonaria-descubren-estas-irregularidades-con-sus-empleados-migrantes-202572415330",
         "date": "2025-07-24 19:33:00",
         "sentiment_score": -0.5421119406819344
-    },
-    {
-        "title": "¡Luz verde! Chevron reactivará operaciones en Venezuela: esto es lo que se sabe",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753379668037.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "combustible",
-            "venezuela",
-            "chevron",
-            "trump"
-        ],
-        "link": "https://2001online.com/nacionales/luz-verde-chevron-reactivara-operaciones-en-venezuela-esto-es-lo-que-se-sabe-202572414160",
-        "date": "2025-07-24 18:16:00",
-        "sentiment_score": -0.7541034463793039
     },
     {
         "title": "Cerdán y Begoña borrados",
@@ -2722,5 +2385,343 @@ export default [
         "link": "https://www.elmundo.es/cronica/2025/07/28/68866010fdddffbe328b4589.html",
         "date": "2025-07-27 22:08:29",
         "sentiment_score": -0.6161561533808708
+    },
+    {
+        "title": "Cuánto cobran las jugadoras de la selección española: compensación a los clubes y a la selección, primas individuales y una cantidad fija de 15.000 euros",
+        "image_url": "https://www.infobae.com/resizer/v2/REICBRGX3BE4HI42WSZA5UYBGQ.jpg?auth=18b23904f5fe3e79944db903fc6647b545296d9d9b121ed07d7b9f39c45f24c9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "selección de españa de fútbol",
+            "eurocopa femenina 2025",
+            "salarios",
+            "fútbol españa",
+            "fútbol",
+            "selección de fútbol",
+            "eurocopa femenina",
+            "españa-noticias",
+            "euro 2025",
+            "sueldos",
+            "españa-deportes",
+            "selección de españa femenina de fútbol"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/28/cuanto-cobran-las-jugadoras-de-la-seleccion-espanola-compensacion-a-los-clubes-y-a-la-seleccion-primas-individuales-y-una-cantidad-fija-de-15000-euros/",
+        "date": "2025-07-28 05:00:42",
+        "sentiment_score": -0.28581349551677704
+    },
+    {
+        "title": "La antigua casa de Carlos III que ahora puedes comprar por 4,5 millones de libras: 4.000 metros cuadrados, seis dormitorios y un granero",
+        "image_url": "https://www.infobae.com/resizer/v2/34Y5GIZGHJESXMIULV5SQ6HFU4.jpg?auth=b899d7a95664b7ecf2556eea3349a0255eceddcc18069d1ade5c2ddb206d8c8b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "casas reales",
+            "corazón y estilo españa",
+            "españa-noticias",
+            "casa real británica",
+            "españa-entretenimiento",
+            "carlos iii",
+            "realeza"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/28/la-antigua-casa-de-carlos-iii-que-ahora-puedes-comprar-por-45-millones-de-libras-4000-metros-cuadrados-seis-dormitorios-y-un-granero/",
+        "date": "2025-07-28 03:00:00",
+        "sentiment_score": -0.015234649181365967
+    },
+    {
+        "title": "El país más seguro del mundo, sin ejército y con un papel clave en la OTAN",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/07/27/isl7-RXqKayaEPGoWzzItEdfwyXP-1200x840@diario_abc.PNG",
+        "tags": [
+            "industria armamentística",
+            "donald trump",
+            "política",
+            "xi jinping",
+            "negociaciones",
+            "noruega",
+            "otan",
+            "defensa",
+            "multinacionales",
+            "abc",
+            "guerras",
+            "armas",
+            "reino unido",
+            "segunda guerra mundial",
+            "diplomáticos",
+            "ursula von der leyen",
+            "política exterior",
+            "violencia",
+            "guerra en ucrania",
+            "abc.es",
+            "américa",
+            "islandia",
+            "acuerdos",
+            "china",
+            "europa",
+            "seguridad",
+            "volodímir zelenski",
+            "unión europea",
+            "economia",
+            "comercio",
+            "crimea",
+            "pesca",
+            "vladimir putin",
+            "ucrania",
+            "estados unidos",
+            "rusia",
+            "groenlandia",
+            "españa",
+            "paz",
+            "asia",
+            "servicio militar",
+            "criminalidad",
+            "diplomacia",
+            "ártico",
+            "fuerzas armadas",
+            "ad abc"
+        ],
+        "link": "https://www.abc.es/internacional/pais-seguro-mundo-ejercito-papel-clave-otan-20250727060000-nt.html",
+        "date": "2025-07-28 04:10:07",
+        "sentiment_score": -0.08090844750404358
+    },
+    {
+        "title": "Iván Barrondo, responsable en España de la agencia inmobiliaria John Taylor: “Las casas que yo vendo no me las puedo permitir”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/72K2NOBHVZCPPPWOOT3GHMROQI.jpg?auth=afa708e99eabf1d8bf4c88a994d9658b18f33c098292d6f53b606f561cbd190e&width=1200",
+        "tags": [
+            "gastronomía",
+            "lujo",
+            "sector inmobiliario",
+            "aficiones (hobbies)",
+            "empresas",
+            "casas singulares",
+            "viajes",
+            "economía",
+            "literatura"
+        ],
+        "link": "https://elpais.com/economia/negocios/entrevistas-afterwork/2025-07-28/ivan-barrondo-responsable-en-espana-de-la-agencia-inmobiliaria-john-taylor-las-casas-que-yo-vendo-no-me-las-puedo-permitir.html",
+        "date": "2025-07-28 03:30:00",
+        "sentiment_score": 0.4684905856847763
+    },
+    {
+        "title": "El empleado que creó una red de talleres para todos los vehículos",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/07/28/buirtago-granada-ka9-U2302454486949c9G-1200x840@Ideal.jpg",
+        "tags": [
+            "trabajo",
+            "granada",
+            "granada (provincia)",
+            "polígono juncaril",
+            "neumáticos",
+            "motril"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/empleado-creo-red-talleres-vehiculos-20250728082255-nt.html",
+        "date": "2025-07-28 06:22:56",
+        "sentiment_score": 0.5031443051993847
+    },
+    {
+        "title": "Risas celestiales: predicciones zodiacales con chispa madrile",
+        "image_url": "https://www.madridactual.es/images/stories/noticias/recursos/horoscopos/horoscopo-5.jpg",
+        "tags": [
+            "san gin&eacute;s",
+            "la latina",
+            "templo de debod",
+            "gran v&iacute;a",
+            "barrio de las letras",
+            "teatro real",
+            "parque del oeste",
+            "calle gran v&iacute;a",
+            "casa de campo",
+            "rastro",
+            "puerta del sol",
+            "pradera de san isidro",
+            "lavapi&eacute;s",
+            "calle preciados",
+            "retiro",
+            "malasa&ntilde;a",
+            "mercado de san miguel",
+            "plaza mayor"
+        ],
+        "link": "https://www.madridactual.es/informacion-de-servicio/horoscopo-guason/risas-celestiales-predicciones-zodiacales-con-chispa-madrilena-para-alegrar-tu-semana-1753675328-20250728-8046938.html",
+        "date": "2025-07-28 04:02:08",
+        "sentiment_score": -0.1085682362318039
+    },
+    {
+        "title": "Por qué sube la Bolsa si se espera menos crecimiento y más inflación: claves de la complacencia inversora",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O4QKQG6WIRJ2PGWQNEAV3WBINM.jpg?auth=ec7ad693a37352dd158c4a80cb25f46d586f1f4cc8b3de80be440cd957a26ab0&width=1200",
+        "tags": [
+            "renta variable",
+            "bolsa",
+            "inversión",
+            "inversión en valores y títulos",
+            "s&p 500",
+            "ibex 35",
+            "mercados financieros",
+            "wall street",
+            "guerra comercial"
+        ],
+        "link": "https://cincodias.elpais.com/mercados-financieros/2025-07-28/por-que-sube-la-bolsa-si-se-espera-menos-crecimiento-y-mas-inflacion-claves-de-la-complacencia-inversora.html",
+        "date": "2025-07-28 03:25:00",
+        "sentiment_score": -0.8150347992777824
+    },
+    {
+        "title": "Las cripto piden paso en el ascensor social: “Si no hubiera sido por bitcoin no habríamos podido comprar el piso”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XXK4CFP425C6HFUEYOREX2N6OE.JPG?auth=5be69dad31c815dc5d8c9868b56490177f86aab94c8a953f1df80aefdc257a84&width=1200",
+        "tags": [
+            "blockchain",
+            "etherium",
+            "fintech",
+            "criptomonedas",
+            "mercados financieros",
+            "bitcoin"
+        ],
+        "link": "https://cincodias.elpais.com/criptoactivos/2025-07-28/las-cripto-piden-paso-en-el-ascensor-social-si-no-hubiera-sido-por-bitcoin-no-habriamos-podido-comprar-el-piso.html",
+        "date": "2025-07-28 03:25:00",
+        "sentiment_score": -0.12198849022388458
+    },
+    {
+        "title": "Cuando Venezuela despertó, el dinosaurio seguía allí: un año del mayor fraude electoral de Maduro",
+        "image_url": "https://images.ecestaticos.com/mJepCOvGesf9qyKCe-JK7CGQouA=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F01d%2F720%2F9c8%2F01d7209c88d796099a7bed03ed1992de.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.elconfidencial.com/mundo/2025-07-28/fraude-electoral-chavismo-inundaciones-crisis-1hms_4180980/",
+        "date": "2025-07-28 03:00:00",
+        "sentiment_score": -0.8130526151508093
+    },
+    {
+        "title": "El mejor deportista del momento ni juega al tenis ni marca goles",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/07/27/6886780e115f0.r_d.755-992-6250.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.eldebate.com/deportes/20250728/mejor-deportista-momento-juega-tenis-marca-goles_320895.html",
+        "date": "2025-07-28 02:30:00",
+        "sentiment_score": -0.12287649512290955
+    },
+    {
+        "title": "Los miles de afectados por la quiebra de la aseguradora FWU se rearman al límite de la fecha tope",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/03/18/67d99d0231ef6.r_d.307-278.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.eldebate.com/economia/20250728/miles-afectados-quiebra-aseguradora-fwu-rearman-limite-fecha-tope_319863.html",
+        "date": "2025-07-28 02:30:00",
+        "sentiment_score": -0.7178581692278385
+    },
+    {
+        "title": "Trevenque, tecnología de Granada para el mundo",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/07/28/trevenque-kLdD-U2302444412670ZFB-1200x840@Ideal.jpg",
+        "tags": [
+            "latinoamérica",
+            "barcelona (provincia)",
+            "españa",
+            "granada",
+            "andalucía",
+            "servicios sociales"
+        ],
+        "link": "https://www.ideal.es/economia/factoria-de-empresas/trevenque-tecnologia-granada-mundo-20250728082300-nt.html",
+        "date": "2025-07-28 06:23:01",
+        "sentiment_score": 0.8341377153992653
+    },
+    {
+        "title": "Jennifer López se queda en paños menores en su último concierto en Polonia: su cara lo dice todo",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/07/28/688711881a9bc.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/gente/20250728/1002506940/jennifer-lopez-queda-panos-menores-ultimo-concierto-polonia-cara-dice-dct.html",
+        "date": "2025-07-28 06:15:45",
+        "sentiment_score": 0.34526778757572174
+    },
+    {
+        "title": "Cortada la R5 de FGC entre de Sant Vicenç de Castellet y Manresa (Barcelona) por robo de cobre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b8413918-99b0-469e-bef3-d73770f6b3c7_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ferrocarrils de la generalitat (fgc)"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20250728/cortada-r5-fgc-sant-vicenc-120118545",
+        "date": "2025-07-28 05:34:42",
+        "sentiment_score": -0.7951246770098805
+    },
+    {
+        "title": "Cortada la R5 de FGC entre de Sant Vicenç de Castellet y Manresa (Barcelona) por robo de cobre",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250728072817_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-cortada-r5-fgc-sant-vicenc-castellet-manresa-barcelona-robo-cobre-20250728072817.html",
+        "date": "2025-07-28 05:28:17",
+        "sentiment_score": -0.7535594189539552
+    },
+    {
+        "title": "Antelm Pujol, doctor: \"En los primeros días de vacaciones aún estamos pensando en el trabajo y revisando correos electrónicos\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/05/14/istock-1456618607.r_d.578-819.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/salud/actualidad/antelm-pujol-doctor-primeros-dias-vacaciones-pensando-trabajo-revisando-correos-electronicos-5732547/",
+        "date": "2025-07-28 05:00:00",
+        "sentiment_score": 0.0735970251262188
+    },
+    {
+        "title": "Elvis Amoroso indicó que Manuel Ferreira ganó elección a la Alcaldía de Urbaneja",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "venezuela al día",
+            "locales",
+            "política"
+        ],
+        "link": "https://eltiempove.com/elvis-amoroso-indico-que-manuel-ferreira-gano-eleccion-a-la-alcaldia-de-urbaneja/",
+        "date": "2025-07-28 04:30:20",
+        "sentiment_score": 0.08107217401266098
+    },
+    {
+        "title": "CNE ofreció el primer boletín de las elecciones municipales",
+        "image_url": "https://elluchador.info/wp-content/uploads/2025/07/captura-de-video-90445.jpg",
+        "tags": [
+            "elecciones",
+            "venezuela",
+            "destacado",
+            "boletín electoral",
+            "nacionales",
+            "municipal"
+        ],
+        "link": "https://elluchador.info/?p=285296",
+        "date": "2025-07-28 04:21:05",
+        "sentiment_score": 0.086218923330307
+    },
+    {
+        "title": "Lidl se convertirá en el mayor operador logístico de la ZAL del Port de Barcelona en 2027",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bb6b74ca-8df9-4286-ad39-5de420f6fade_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "puertos",
+            "logística",
+            "puerto de barcelona",
+            "distribución comercial",
+            "alimentación",
+            "import & export",
+            "infraestructuras",
+            "transportes",
+            "lidl",
+            "transporte marítimo",
+            "comercio"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20250728/empresa-distribucion-lidl-mayor-operador-logistico-zal-puerto-de-barcelona-120049830",
+        "date": "2025-07-28 04:00:55",
+        "sentiment_score": 0.018484294414520264
+    },
+    {
+        "title": "Font Design Group: interruptores de diseño",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/27/68864881f3954.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20250728/10927952/interruptores-diseno.html",
+        "date": "2025-07-28 04:00:00",
+        "sentiment_score": 0.48452436923980713
+    },
+    {
+        "title": "La polémica actriz: esta es la transformación física de Patricia Schwarzgruber a través de los años",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753677813452.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "patricia schwarzgruber",
+            "#actrizvenezolana"
+        ],
+        "link": "https://2001online.com/farandula/la-polemica-actriz-esta-es-la-transformacion-fisica-de-patricia-schwarzgruber-a-traves-de-los-anos--20257280360",
+        "date": "2025-07-28 04:36:00",
+        "sentiment_score": 0.04704338312149048
     }
 ];
