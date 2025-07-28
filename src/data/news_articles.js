@@ -46,104 +46,6 @@ export default [
         "sentiment_score": 0.18743666633963585
     },
     {
-        "title": "El BCE cumple las previsiones y congela los tipos de interés: mantiene el precio del dinero en el 2%",
-        "image_url": "https://www.infobae.com/resizer/v2/LTWZJRY2XFBPVOKKUS4VVPCNFM.JPG?auth=d7ad604140148336217b3d798a0e15241cad0e5f6be82bc47bc47b6559a62b1c&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "tipos de interés",
-            "españa economía",
-            "bce",
-            "españa noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/el-bce-cumple-las-previsiones-y-congela-los-tipos-de-interes-mantiene-el-precio-del-dinero-en-el-2/",
-        "date": "2025-07-24 12:56:41",
-        "sentiment_score": 0.001862458884716034
-    },
-    {
-        "title": "Cuál es el precio máximo y mínimo de la luz en España para este viernes",
-        "image_url": "https://www.infobae.com/resizer/v2/HE4EKBX3CFAXZLCLM3RYGISZ4Q.jpg?auth=1c3ae90676978c61f78262f9fcdce13f6647477c8a518c2792731b9b60bd194e&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "electricidad",
-            "españa-noticias",
-            "noticias",
-            "factura luz españa",
-            "precio de la luz",
-            "españa-economía",
-            "precio de la luz españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/cual-es-el-precio-maximo-y-minimo-de-la-luz-en-espana-para-este-viernes/",
-        "date": "2025-07-24 12:17:17",
-        "sentiment_score": 0.12574935890734196
-    },
-    {
-        "title": "Estas son las oposiciones a las que te puedes apuntar este verano solo con Bachillerato",
-        "image_url": "https://www.infobae.com/resizer/v2/SY27L5SMV5DBBJCUCJ7DKMMSLU.jpg?auth=faa75af0aaa647317dd96639cf434c6e95b4bea6efe0e5e864391ce3ddb6d3f0&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "funcionarios",
-            "oposiciones españa",
-            "españa-sociedad",
-            "oposiciones",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/estas-son-las-oposiciones-a-las-que-te-puedes-apuntar-este-verano-solo-con-bachillerato/",
-        "date": "2025-07-24 12:14:53",
-        "sentiment_score": 0.31131353974342346
-    },
-    {
-        "title": "Madrid se corona como la segunda mejor ciudad del mundo para salir de fiesta",
-        "image_url": "https://www.infobae.com/resizer/v2/CPDZI72IDZD5LDPTHLAU6UNC3U.jpg?auth=940094508be44e928c44c1bf11e13298a68757d37851885e81e39f4aedb047e6&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "ranking",
-            "espectaculos",
-            "ciudades",
-            "madrid",
-            "noche",
-            "fiesta",
-            "vida nocturna",
-            "las vegas",
-            "actividades de ocio"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/madrid-se-corona-como-la-segunda-mejor-ciudad-del-mundo-para-salir-de-fiesta/",
-        "date": "2025-07-24 12:13:27",
-        "sentiment_score": -0.03131042420864105
-    },
-    {
-        "title": "Citan a declarar como investigado por un delito de odio al dueño del bar de Vigo que expulsó a turistas israelíes",
-        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3376",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/24/citan-a-declarar-como-investigado-por-un-delito-de-odio-al-dueno-del-bar-de-vigo-que-expulso-a-turistas-israelies/",
-        "date": "2025-07-24 12:08:30",
-        "sentiment_score": -0.8345484286546707
-    },
-    {
-        "title": "La Audiencia Nacional no admite los recursos de Aragón contra la Sectorial para el reparto de menores",
-        "image_url": "https://www.infobae.com/resizer/v2/ICNBY2VJCBAI7BOUJQTK756HJI.jpg?auth=64a5e5c4eab885d8850ef2c1791dcd0943c02eb15881fc20ad38d1c0b6d661d1&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/24/la-audiencia-nacional-no-admite-los-recursos-de-aragon-contra-la-sectorial-para-el-reparto-de-menores/",
-        "date": "2025-07-24 12:08:14",
-        "sentiment_score": -0.718279467895627
-    },
-    {
-        "title": "La Unión Europea aprueba aranceles por 93.000 millones ante el posible fracaso del acuerdo comercial con Estados Unidos",
-        "image_url": "https://www.infobae.com/resizer/v2/GQDSOTCM5BBO7ENHTACDFMQOEM.jpg?auth=05c41ed0f0adc5fe3f746b27c999df30d09f469182b15a01f24de8a51d53bc0a&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "comisión europea",
-            "eeuu",
-            "españa-economia",
-            "españa-noticias",
-            "unión europea",
-            "aranceles",
-            "impuestos españa",
-            "donald trump"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/la-union-europea-aprueba-aranceles-por-93000-millones-ante-el-posible-fracaso-del-acuerdo-comercial-con-estados-unidos/",
-        "date": "2025-07-24 11:54:28",
-        "sentiment_score": 0.021968409419059753
-    },
-    {
         "title": "Zelenski da marcha atrás tras las protestas y las quejas de la UE: una ley devolverá la independencia a los entes anticorrupción",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/24/zelenski-RQYVweHCzCFoq5oKmbkT79I-1200x840@diario_abc.jpg",
         "tags": [
@@ -163,49 +65,6 @@ export default [
         "link": "https://www.abc.es/internacional/zelenski-marcha-atras-tras-protestas-quejas-ue-20250724162359-nt.html",
         "date": "2025-07-24 14:23:59",
         "sentiment_score": -0.08731913566589355
-    },
-    {
-        "title": "El Corte Inglés prevé invertir más de 3.000 millones hasta 2030 con su plan estratégico",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/24/JGA25-original-RI8Taku5eHpaqkgy9TmFvrJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "invertir",
-            "corte",
-            "ingles",
-            "estrategico",
-            "millones",
-            "preve",
-            "3000",
-            "plan",
-            "2030"
-        ],
-        "link": "https://www.abc.es/economia/corte-ingles-preve-invertir-3000-millones-2030-20250724160027-nt.html",
-        "date": "2025-07-24 14:01:07",
-        "sentiment_score": -0.004299670457839966
-    },
-    {
-        "title": "Una dentista revela qué productos de Mercadona hay que evitar para la salud bucal: «Me ha sorprendido verlo en la estantería»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/recreo/2025/07/24/productos-desaconsejados-mercadona-dientes-kRgC-U701335319636HEF-1200x840@diario_abc.jpg",
-        "tags": [
-            "el recreo"
-        ],
-        "link": "https://www.abc.es/recreo/dentista-revela-productos-mercadona-evitar-salud-bucal-20250724150700-nt.html",
-        "date": "2025-07-24 13:07:01",
-        "sentiment_score": -0.1349056512117386
-    },
-    {
-        "title": "UNO advierte de la fragilidad del empleo logístico pese al repunte del turismo y las rebajas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/24/PHOTO-2025-07-24-13-28-06-RwPbVy8WscEqr4x7AeuPrBK-1200x840@diario_abc.jpg",
-        "tags": [
-            "encuesta población activa (epa)",
-            "consumo",
-            "economia",
-            "trabajo",
-            "ine",
-            "empleo"
-        ],
-        "link": "https://www.abc.es/economia/advierte-fragilidad-empleo-logistico-pese-repunte-turismo-20250724140226-nt.html",
-        "date": "2025-07-24 12:02:27",
-        "sentiment_score": -0.04083731770515442
     },
     {
         "title": "Una asociación de memoria histórica acusa a la Comunidad de Madrid de “blanquear” el franquismo en una exposición fotográfica",
@@ -229,89 +88,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-07-24/una-asociacion-de-memoria-historica-acusa-a-la-comunidad-de-madrid-de-blanquear-el-franquismo-en-una-exposicion-fotografica.html",
         "date": "2025-07-24 16:30:48",
         "sentiment_score": 0.3142698332667351
-    },
-    {
-        "title": "Leonor y Sofía visitan el municipio gerundense de Sant Martí Vell en medio de un amplio dispositivo de seguridad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OAHS3QL6O5OWXKDILMKNOPG43Q.jpg?auth=430e99c1e42e9bd211b86e4dd18aa301f624182e612d3c3d5f6470ada45d58f4&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-24/leonor-y-sofia-visitan-el-municipio-gerundense-de-san-marti-vell-en-medio-de-un-amplio-dispositivo-de-seguridad.html",
-        "date": "2025-07-24 12:03:23",
-        "sentiment_score": 0.2689620070159435
-    },
-    {
-        "title": "Los usuarios habituales de tren padecen más ansiedad que la media de población",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AXBRELNM7N6I3SVMH5CJHWVM2E.jpg?auth=15b8aa02e6967902af61a639ce152155e646adc8a6a5b19907e9a424018eccf2&width=1200",
-        "tags": [
-            "viajes tren",
-            "transporte ferroviario",
-            "retrasos transporte",
-            "ansiedad",
-            "renfe",
-            "cercanías",
-            "salud mental",
-            "trenes",
-            "cataluña",
-            "urv"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-24/los-usuarios-habituales-de-tren-padecen-mas-ansiedad-que-la-media-de-poblacion.html",
-        "date": "2025-07-24 12:00:27",
-        "sentiment_score": -0.42441414669156075
-    },
-    {
-        "title": "Se colaban por ventanas abiertas mientras los dueños de la casa dormían: detenida una pareja por varios robos en Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QFKUW2R2JBHSZFC7OC7Y4DEBSY.jpg?auth=2e6c321dd5d74174e375748d854caa525a2e76d400c980fdc727194b9d363a4d&width=1200",
-        "tags": [
-            "sucesos",
-            "comunidad de madrid",
-            "robos",
-            "madrid",
-            "guardia civil",
-            "majadahonda"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-07-24/se-colaban-por-ventanas-abiertas-mientras-los-duenos-de-la-casa-dormian-detenida-una-pareja-por-varios-robos-en-madrid.html",
-        "date": "2025-07-24 11:06:34",
-        "sentiment_score": -0.45513738319277763
-    },
-    {
-        "title": "El Ayuntamiento de Vilagarcía cancela un concierto de Mägo de Oz por frivolizar sobre el ‘caso Koldo’: “Dejad de robarnos la cocaína y las putas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Q7EPTQ5UBVG5VEY7Q7NSH2OZZY.jpg?auth=f4c4d948f9ca23f16bb4ae8e4f13fbed0b3fe574edbce8b4f9e98d2416c75c43&width=1200",
-        "tags": [
-            "mago de oz",
-            "conciertos",
-            "fiestas locales",
-            "corrupción política",
-            "vilagarcía de arousa",
-            "galicia",
-            "drogas",
-            "españa",
-            "bandas música",
-            "psoe",
-            "prostitución",
-            "fiestas populares",
-            "corrupción",
-            "pontevedra",
-            "caso koldo"
-        ],
-        "link": "https://elpais.com/espana/2025-07-24/el-ayuntamiento-de-vilagarcia-cancela-un-concierto-de-mago-de-oz-por-frivolizar-sobre-el-caso-koldo-dejad-de-robarnos-la-cocaina-y-las-putas.html",
-        "date": "2025-07-24 10:56:24",
-        "sentiment_score": -0.862435644492507
-    },
-    {
-        "title": "La jueza rechaza el recurso del novio de Ayuso contra su procesamiento y concluye: “Hay claros indicios” de fraude con facturas falsas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/P4INND53XRC77JX3UOFM7AWC6U.jpg?auth=fb26d698f4fef0dcd423a7e7f7ee1e1805a0565101fccebaae918c1b8b7cc507&width=1200",
-        "tags": [
-            "isabel díaz ayuso",
-            "madrid",
-            "juzgados",
-            "comunidad de madrid",
-            "fraude fiscal",
-            "alberto gonzález amador"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-07-24/la-jueza-rechaza-el-recurso-del-novio-de-ayuso-contra-su-procesamiento-y-concluye-hay-claros-indicios-de-fraude-con-facturas-falsas.html",
-        "date": "2025-07-24 10:33:34",
-        "sentiment_score": -0.4500635862350464
     },
     {
         "title": "Pere Navarro activa en la DGT una alerta para el fin de semana: prevé 6,5 millones de desplazamientos",
@@ -391,26 +167,6 @@ export default [
         "sentiment_score": -0.8953505698591471
     },
     {
-        "title": "Única Inmobiliaria explica como puede ayudar la IA a vender una vivienda",
-        "image_url": "https://www.diariosigloxxi.com/images/20537",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5376567/unica-inmobiliaria-explica-como-puede-ayudar-ia-vender-vivienda",
-        "date": "2025-07-24 14:01:14",
-        "sentiment_score": 0.4026839956641197
-    },
-    {
-        "title": "Las profesiones mejor pagadas en España: hasta 59.000 euros de diferencia entre la hostelería y las energéticas",
-        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2025/06/camarera-bar-4334012.jpg?tf=1200x",
-        "tags": [
-            "empleo"
-        ],
-        "link": "https://www.businessinsider.es/empleo/profesiones-mejor-pagadas-espana-59000-euros-diferencia-hosteleria-energeticas-1474474",
-        "date": "2025-07-24 14:00:04",
-        "sentiment_score": -0.1532672420144081
-    },
-    {
         "title": "La nueva realidad de María Lapiedra: de sus striptease a una vida familiar en Barcelona",
         "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/04/29/644c4ca49299f.r_d.780-398-3162.png",
         "tags": [
@@ -477,106 +233,6 @@ export default [
         "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20250724/tres-detenidos-cordoba-robar-comercio-danar-vehiculos_320517.html",
         "date": "2025-07-24 16:25:04",
         "sentiment_score": -0.850478557869792
-    },
-    {
-        "title": "Tensión en supermercado de California: compradores abortan incursión de agentes del ICE",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753366707079.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "tensión en supermercado de california: compradores abortan incursión de agentes del ice"
-        ],
-        "link": "https://2001online.com/usa/internacionales/tension-en-supermercado-de-california-compradores-abortan-incursion-de-agentes-del-ice-20257248510",
-        "date": "2025-07-24 12:51:00",
-        "sentiment_score": -0.5345926098525524
-    },
-    {
-        "title": "¡Alerta beneficiarios! seis estados endurecen el control de SNAP: ¿Qué no puedes comprar?",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753358504219.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "¡alerta beneficiarios! seis estados endurecen el control de snap: ¿qué no puedes comprar?"
-        ],
-        "link": "https://2001online.com/usa/servicios/alerta-beneficiarios-seis-estados-endurecen-el-control-de-snap-que-no-puedes-comprar--20257248160",
-        "date": "2025-07-24 12:16:00",
-        "sentiment_score": 0.059857577085494995
-    },
-    {
-        "title": "¡Lo último! Precio del peso mexicano frente al dólar este 24 de julio",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753358716048.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "¡lo último! precio del peso mexicano frente al dólar este 24 de julio"
-        ],
-        "link": "https://2001online.com/dolarlatam/lo-ultimo-precio-del-peso-mexicano-frente-al-dolar-este-24-de-julio-2025724860",
-        "date": "2025-07-24 12:06:00",
-        "sentiment_score": -0.1174691878259182
-    },
-    {
-        "title": "Saime: estos son los requisitos para denunciar el delito de usurpación de identidad",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753305406505.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "saime: estos son los requisitos para denunciar el delito de usurpación de identidad"
-        ],
-        "link": "https://2001online.com/servicios/saime-estos-son-los-requisitos-para-denunciar-el-delito-de-usurpacion-de-identidad-2025724800",
-        "date": "2025-07-24 12:00:00",
-        "sentiment_score": -0.7815920766443014
-    },
-    {
-        "title": "Onda tropical N° 19 se desplaza por Venezuela: este es el pronóstico y trayectoria según el Inameh",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753357517949.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "onda tropical n° 19 se desplaza por venezuela: este es el pronóstico y trayectoria según el inameh"
-        ],
-        "link": "https://2001online.com/nacionales/onda-tropical-n-19-se-desplaza-por-venezuela-este-es-el-pronostico-y-trayectoria-segun-el-inameh-20257247460",
-        "date": "2025-07-24 11:46:00",
-        "sentiment_score": 0.044419802725315094
-    },
-    {
-        "title": "Oso ataca a senderista durante paseo en montañas de Alaska: la víctima no podía caminar tras el encuentro con el animal",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753359898952.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "oso ataca a senderista durante paseo en montañas de alaska: la víctima no podía caminar tras el encuentro con el animal"
-        ],
-        "link": "https://2001online.com/usa/sucesos/oso-ataca-a-senderista-durante-paseo-en-montanas-de-alaska-la-victima-no-podia-caminar-tras-el-encuentro-con-el-animal-20257247280",
-        "date": "2025-07-24 11:28:00",
-        "sentiment_score": -0.46615519747138023
-    },
-    {
-        "title": "INTT: estos son los trámites que puede realizar en línea y que llegarán a su correo electrónico",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753304429616.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "intt: estos son los trámites que puede realizar en línea y que llegarán a su correo electrónico"
-        ],
-        "link": "https://2001online.com/servicios/intt-estos-son-los-tramites-que-puede-realizar-en-linea-y-que-llegaran-a-su-correo-electronico-2025724700",
-        "date": "2025-07-24 11:00:00",
-        "sentiment_score": 0.2993010804057121
-    },
-    {
-        "title": "Eduin Caz vocalista principal del Grupo Firme celebra a lo grande la apertura de su tercer restaurante “Agustito”",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753328885990.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "eduin caz vocalista principal del grupo firme celebra a lo grande la apertura de su tercer restaurante “agustito”"
-        ],
-        "link": "https://2001online.com/farandula/eduin-caz-vocalista-principal-del-grupo-firme-celebra-a-lo-grande-la-apertura-de-su-tercer-restaurante-agustito--2025724700",
-        "date": "2025-07-24 11:00:00",
-        "sentiment_score": 0.5688237734138966
-    },
-    {
-        "title": "Joven es detenida por complicidad en el homicidio de un hombre: entró a un local nocturno con una pistola en su cartera",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753356232528.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "joven es detenida por complicidad en el homicidio de un hombre: entró a un local nocturno con una pistola en su cartera"
-        ],
-        "link": "https://2001online.com/sucesos/joven-es-detenida-por-complicidad-en-el-homicidio-de-un-hombre-entro-a-un-local-nocturno-con-una-pistola-en-su-cartera-20257246380",
-        "date": "2025-07-24 10:38:00",
-        "sentiment_score": -0.7396746203303337
-    },
-    {
-        "title": "¿Ansiedad y problemas para dormir? Tu cuerpo avisa que estás estresado y estas son las fórmulas milagrosas para evitarlo",
-        "image_url": "https://pxcdn.2001online.com/2001/072025/1753300204043.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "variedades - salud"
-        ],
-        "link": "https://2001online.com/zona3d/salud/ansiedad-y-problemas-para-dormir-tu-cuerpo-avisa-que-estas-estresado-y-estas-son-las-formulas-milagrosas-para-evitarlo-20257246300",
-        "date": "2025-07-24 10:30:00",
-        "sentiment_score": 0.016922980546951294
     },
     {
         "title": "Carrefour facturó 2.872 millones de euros en España durante el segundo trimestre, un 3,5% más",
@@ -3008,5 +2664,63 @@ export default [
         "link": "https://www.elidealgallego.com/articulo/sociedad/espana-esta-solo-impulso-final-convertirse-primer-pais-eliminar-hepatitis-c-5378670",
         "date": "2025-07-27 19:51:56",
         "sentiment_score": -0.22300852090120316
+    },
+    {
+        "title": "Sólo el 40% de los 'boomers' se ha jubilado y las cuentas no salen",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/27/viejis.jpg",
+        "tags": [
+            "ocde",
+            "españa",
+            "impuestos",
+            "grecia",
+            "pensiones",
+            "seguridad social",
+            "europa",
+            "boom"
+        ],
+        "link": "https://www.abc.es/economia/solo-boomers-jubilado-cuentas-salen-20250728023127-nt.html",
+        "date": "2025-07-28 00:34:31",
+        "sentiment_score": -0.13141180574893951
+    },
+    {
+        "title": "Lucas Díaz, director en España de Aqualia: “Adaptamos los servicios del ciclo del agua a las particularidades de cada territorio con soluciones a medida”",
+        "image_url": "https://www.lne.es/ideas/Aqualia-Lucas-Diaz/images/redes/redes.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.diariodemallorca.es/ideas/Aqualia-Lucas-Diaz/index.html",
+        "date": "2025-07-28 01:59:42",
+        "sentiment_score": 0.6838346663862467
+    },
+    {
+        "title": "Deportes | Grupo Cívica tomará el testigo de Finetwork como patrocinador principal del Hércules, si no prosperan las gestiones de este con terceros",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1641996.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/grupo-civica-tomara-el-testigo-de-finetwork-como-patrocinador-principal-del-hercules-si-no-prosperan-las-gestiones-de-este-con-terceros",
+        "date": "2025-07-28 00:42:44",
+        "sentiment_score": -0.10690297186374664
+    },
+    {
+        "title": "Errores comunes al usar crema solar que podrían estar dejando tu piel sin protección este verano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f28a44da-de46-45af-bd30-6f59b969b0ff_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "responde el doctor",
+            "dermatología"
+        ],
+        "link": "https://www.laprovincia.es/salud/guia/2025/07/28/errores-comunes-crema-solar-riesgo-piel-120116551.html",
+        "date": "2025-07-28 01:59:44",
+        "sentiment_score": 0.00023236870765686035
+    },
+    {
+        "title": "\"Mohamed Atta me comentó que conocía perfectamente España y que en varias ocasiones había estado en Alicante, Marbella y Madrid\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/da74726c09132be564ee3257b8a0cb81/crop/117x368/2574x2825/f/image/jpeg/assets/multimedia/imagenes/2022/02/09/16444360039230.jpg",
+        "tags": [
+            "artículos martín mucha"
+        ],
+        "link": "https://www.elmundo.es/cronica/2025/07/28/68866010fdddffbe328b4589.html",
+        "date": "2025-07-27 22:08:29",
+        "sentiment_score": -0.6161561533808708
     }
 ];
