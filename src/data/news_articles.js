@@ -1,364 +1,5 @@
 export default [
     {
-        "title": "Irene Villa reaparece en sus redes tras ser operada de la columna",
-        "image_url": "https://www.infobae.com/resizer/v2/N76M3LHNNJDCPAZNZZHH7TLN2E.jpg?auth=8adfaa5daa32b7964a160b585cfe31d3c2a6c87850718866824ea789288b7fbc&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-entretenimiento",
-            "enfermedades de famosos",
-            "corazón y estilo españa",
-            "españa-noticias",
-            "operaciones",
-            "irene villa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/irene-villa-reaparece-en-sus-redes-tras-ser-operada-de-la-columna/",
-        "date": "2025-07-24 06:38:30",
-        "sentiment_score": 0.5211484879255295
-    },
-    {
-        "title": "Dos españoles enseñan la ciudad que más les ha impresionado: “Si te preguntas cómo sería una ciudad hecha con IA, vas a flipar”",
-        "image_url": "https://www.infobae.com/resizer/v2/ECCJ65RIVFEG3P46A6HUWM3EAI.png?auth=5c74754714e25a127f084a37303638889b76d7466d3f583be82f11df765606a7&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "china",
-            "redes sociales",
-            "viajes y turismo",
-            "españa-noticias",
-            "tiktok españa",
-            "viajes",
-            "españa-sociedad",
-            "tiktok"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/dos-espanoles-ensenan-la-ciudad-que-mas-les-ha-impresionado-si-te-preguntas-como-seria-una-ciudad-hecha-con-ia-vas-a-flipar/",
-        "date": "2025-07-24 06:35:12",
-        "sentiment_score": 0.1048671305179596
-    },
-    {
-        "title": "Todo lo que no se vio en los Premios Princesa de Girona: del “Iniesta de mi vida” de Felipe VI al guiño a la DANA",
-        "image_url": "https://www.infobae.com/resizer/v2/366HYTEKHVDQVLFS5XNBX6NZDA.jpg?auth=8eba49baa9196670c73e5a7bb30c079bce0fd5493850e239e315ec0134f83ada&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "casas reales",
-            "reina letizia",
-            "felipe vi",
-            "realeza",
-            "españa-entretenimiento",
-            "corazón y estilo españa",
-            "españa-noticias",
-            "infanta sofía",
-            "premios princesa de girona",
-            "barcelona",
-            "princesa leonor",
-            "casa real españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/todo-lo-que-no-se-vio-en-los-premios-princesa-de-girona-del-iniesta-de-mi-vida-de-felipe-vi-y-el-guino-a-la-dana/",
-        "date": "2025-07-24 06:33:40",
-        "sentiment_score": 0.48949985951185226
-    },
-    {
-        "title": "Un médico explica qué frutas no es bueno comer por la noche: “Son muy sanas pero pueden dificultar el sueño”",
-        "image_url": "https://www.infobae.com/resizer/v2/LC5SXZWCGVCD3D4DOXZM5LWJRU.jpg?auth=28d7a5f78f31406bacf6cdca06d42d34fe64c431304e7ae83ad953e8bdaf8666&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "sucesos españa",
-            "sucesos",
-            "españa-sociedad",
-            "fruta",
-            "sueño",
-            "dormir"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/un-medico-explica-que-frutas-no-es-bueno-comer-por-la-noche-son-muy-sanas-pero-pueden-dificultar-el-sueno/",
-        "date": "2025-07-24 06:15:29",
-        "sentiment_score": 0.06635631620883942
-    },
-    {
-        "title": "Qué hacer si te pica una avispa asiática: estas son las zonas de España en las que más aparecen",
-        "image_url": "https://www.infobae.com/resizer/v2/7KQU7RR5GJFMLJC7M74A5JK5QM.jpg?auth=be2c16218dfc2f9a5c531f0e7866673cbd92b5ec078c0ae975ffb6e1a0714f47&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "avispas",
-            "españa-salud",
-            "picaduras",
-            "insectos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/que-hacer-si-te-pica-una-avispa-asiatica-estas-son-las-zonas-de-espana-en-las-que-mas-aparecen/",
-        "date": "2025-07-24 06:05:14",
-        "sentiment_score": -0.850738039240241
-    },
-    {
-        "title": "Un grupo de estudiantes desarrolla un dron híbrido impreso en 3D capaz de volar y sumergirse en el agua en cuestión de segundos",
-        "image_url": "https://www.infobae.com/resizer/v2/Y4UDXWKKUJEUVGKCR7ZYD3ZM2I.jpg?auth=25012485b0df2968a1e28081cbb34fa57d0c79828839411d32ad4c9ddb090e6a&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "drones",
-            "españa-internacional",
-            "exploracion marina"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/un-grupo-de-estudiantes-desarrolla-un-dron-hibrido-impreso-en-3d-capaz-de-volar-y-sumergirse-en-el-agua-en-cuestion-de-segundos/",
-        "date": "2025-07-24 06:01:41",
-        "sentiment_score": 0.38351481780409813
-    },
-    {
-        "title": "Hallan muerto al senderista de 15 años que se perdió en el Valle de Aosta de los Alpes italianos",
-        "image_url": "https://www.infobae.com/resizer/v2/MZIFARQFPBHJ7CL43QHX2SYJV4.png?auth=c9d9fb12aa73e09bb4f478b7017e16466678a09ad8afab40a3e07d616872b757&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "sucesos",
-            "accidentes",
-            "francia",
-            "españa-sociedad",
-            "italia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/hallan-muerto-al-senderista-de-15-anos-que-se-perdio-en-el-valle-de-aosta-de-los-alpes-italianos/",
-        "date": "2025-07-24 05:59:26",
-        "sentiment_score": -0.16478325426578522
-    },
-    {
-        "title": "Primer vistazo a Meryl Streep en ‘El Diablo viste de Prada 2’: todos los detalles de la esperada secuela",
-        "image_url": "https://www.infobae.com/resizer/v2/PKGTKIDFLJCLTKJP4CMAJPVED4.jpg?auth=3501611772328df97cb784c9f1e623a22e9ca9a37114eb51229c85bb7bf828ca&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "cine",
-            "españa-cultura",
-            "el diablo viste de prada",
-            "actrices",
-            "meryl streep",
-            "cine españa"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/07/24/primer-vistazo-a-meryl-streep-en-el-diablo-viste-de-prada-2-todos-los-detalles-de-la-esperada-secuela/",
-        "date": "2025-07-24 05:58:49",
-        "sentiment_score": 0.09686026722192764
-    },
-    {
-        "title": "La operan del fémur a los 103 años y dos días después ya está de pie: “Un ejemplo de fuerza y determinación”",
-        "image_url": "https://www.infobae.com/resizer/v2/6DDLO5DYWFGTTPY77ECOGOERNE.jpg?auth=844ce47e5035d0442cb3bcf88969fbf81e3c1f90a218ce2dd0f83142b030874e&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "fémur",
-            "enfermedades y medicamentos españa",
-            "quirófano",
-            "españa-salud",
-            "cirugía",
-            "operación",
-            "enfermedades y medicamentos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/la-operan-del-femur-a-los-103-anos-y-dos-dias-despues-ya-esta-de-pie-un-ejemplo-de-fuerza-y-determinacion/",
-        "date": "2025-07-24 05:57:37",
-        "sentiment_score": 0.19639992713928223
-    },
-    {
-        "title": "¿Vivir o pagar el alquiler? El arrendamiento ya se come más del 100% del sueldo medio en Barcelona y Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/VSWJU65O4ZCR3CRATKICKZRJ5E.jpg?auth=e4f45f4967f32138172908c10ebf9cdd3115f768bb843e04a2bfa6fd7e16a241&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa economía",
-            "españa noticias",
-            "mercado inmobiliarios",
-            "vivienda españa",
-            "alquiler españa",
-            "alquiler",
-            "vivienda",
-            "precios españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/vivir-o-pagar-el-alquiler-el-arrendamiento-ya-se-come-mas-del-100-del-sueldo-medio-en-barcelona-y-madrid/",
-        "date": "2025-07-24 05:39:56",
-        "sentiment_score": -0.27295874059200287
-    },
-    {
-        "title": "Sánchez revertirá las rebajas investigadas por el juez que hizo Montoro a grandes empresas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VMMJHNRTZVI5VMDOK2BEEFHWYQ.jpg?auth=2e458a119a8cf3c57903fc0417008d43c953428f67cb9bd4d47c8a155b2b9797&width=1200",
-        "tags": [
-            "viajes oficiales",
-            "política",
-            "chile",
-            "uruguay",
-            "relaciones internacionales",
-            "españa",
-            "gobierno",
-            "paraguay",
-            "latinoamérica",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2025-07-24/sanchez-revertira-las-rebajas-investigadas-por-el-juez-que-hizo-montoro-a-grandes-empresas.html",
-        "date": "2025-07-24 06:00:00",
-        "sentiment_score": -0.5604241713881493
-    },
-    {
-        "title": "Iker Casillas reacciona, sin disimular su cabreo, a las declaraciones de la Pantoja colombiana confirmando su 'affaire'",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250724084027_120.jpg",
-        "tags": [
-            "chance",
-            "gente"
-        ],
-        "link": "https://www.europapress.es/chance/gente/noticia-iker-casillas-reacciona-disimular-cabreo-declaraciones-pantoja-colombiana-confirmando-affaire-20250724084027.html",
-        "date": "2025-07-24 06:40:27",
-        "sentiment_score": -0.0693640261888504
-    },
-    {
-        "title": "El mejor teatro clásico, un revulsivo económico para Mérida",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/07/23/merida1-kvQF--758x531@Leonoticias.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.leonoticias.com/content-local/reale-seguros-y-festival-internacional-de-teatro-clasico-de-merida/",
-        "date": "2025-07-24 06:31:26",
-        "sentiment_score": 0.11937082931399345
-    },
-    {
-        "title": "Las vacunas de refuerzo contra la COVID-19 previenen hospitalizaciones en pacientes oncológicos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250724082948_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "asistencia"
-        ],
-        "link": "https://www.infosalus.com/asistencia/noticia-vacunas-refuerzo-contra-covid-19-previenen-hospitalizaciones-pacientes-oncologicos-20250724082948.html",
-        "date": "2025-07-24 06:29:48",
-        "sentiment_score": 0.42301608622074127
-    },
-    {
-        "title": "Los argumentos del Supremo para confirmar que Cerdán seguirá en la cárcel son demoledores\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "monólogo de las 8h de antonio herráiz"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/monologo-de-las-8h-de-antonio-herraiz/monologos/argumentos-supremo-confirmar-cerdan-seguira-carcel-son-demoledores-20250724_3190078.html",
-        "date": "2025-07-24 06:21:12",
-        "sentiment_score": -0.17962965369224548
-    },
-    {
-        "title": "Los vecinos de La Lastra no quieren al Monoloco Fest de vuelta en el barrio",
-        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2025/07/23/MONOLOCO%20(3)-kaqC-U23024587389861LE-1200x840@Leonoticias.jpg",
-        "tags": [
-            "lastra",
-            "monoloco",
-            "vuelta",
-            "barrio",
-            "vecinos",
-            "fest",
-            "quieren"
-        ],
-        "link": "https://www.leonoticias.com/leon/vecinos-lastra-quieren-monoloco-fest-vuelta-barrio-20250724081956-nt.html",
-        "date": "2025-07-24 06:19:56",
-        "sentiment_score": 0.2760879844427109
-    },
-    {
-        "title": "El caso de Noelia Núñez",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/07/diputada-pp-noelia-nunez-dimite-750x494.png",
-        "tags": [
-            "opinión",
-            "colaboraciones"
-        ],
-        "link": "https://elfarodeceuta.es/caso-noelia-nunez/",
-        "date": "2025-07-24 06:16:00",
-        "sentiment_score": -0.5097276717424393
-    },
-    {
-        "title": "Un ‘cerebro’ para el Real Madrid",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/899b8a24-bda8-453c-b13bea76cc157760.jpg",
-        "tags": [
-            "real madrid",
-            "balón de oro",
-            "river plate",
-            "alemania",
-            "dean huijsen",
-            "conference league",
-            "chelsea fc",
-            "luka modric",
-            "xabi alonso",
-            "españa",
-            "liverpool fc",
-            "rodri hernández",
-            "pep guardiola",
-            "mundial de clubes",
-            "manchester city",
-            "toni kroos",
-            "bayern de munich"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z6a0622a8-a872-4131-bbc213b9c49436a1/202507/un-cerebro-para-el-real-madrid",
-        "date": "2025-07-24 06:10:45",
-        "sentiment_score": -0.04944378137588501
-    },
-    {
-        "title": "La Princesa de Girona y la ANC se hunde",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/02/03/vida/921418002_14063450_1706x960.jpg?contentId=921418002",
-        "tags": [
-            "salvador illa",
-            "parlament",
-            "primeras planas",
-            "felipe vi",
-            "cataluña",
-            "girona",
-            "cup"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20250724/princesa-girona-anc-hunde/1003742676472_0.html",
-        "date": "2025-07-24 06:02:14",
-        "sentiment_score": 0.20447808504104614
-    },
-    {
-        "title": "Francisco Muro de Iscar.- Sin Gobierno",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "otr press",
-            "firmas"
-        ],
-        "link": "https://www.europapress.es/otr-press/firmas/franciscomuro/noticia-francisco-muro-iscar-gobierno-20250724080154.html",
-        "date": "2025-07-24 06:01:54",
-        "sentiment_score": -0.9091226579621434
-    },
-    {
-        "title": "Aagesen se reúne hoy con la CNMC para trabajar el decreto antiapagones y tacha de «irresponsable» su rechazo",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/07/fotonoticia_20250724075531_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/770132/aagesen-se-reune-hoy-con-la-cnmc-para-trabajar-el-decreto-antiapagones-y-tacha-de-irresponsable-su-rechazo/",
-        "date": "2025-07-24 05:55:31",
-        "sentiment_score": 0.1984410136938095
-    },
-    {
-        "title": "Dos heridos tras chocar un bus y una furgoneta en el túnel de Glòries de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f7f798fc-d6f7-4870-8802-7c79b70dd490_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "plaza de las glòries",
-            "tmb - transportes metropolitanos de barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20250724/heridos-chocar-bus-furgoneta-glories-barcelona-120013496",
-        "date": "2025-07-24 06:40:02",
-        "sentiment_score": -0.8070415779948235
-    },
-    {
-        "title": "Dos heridos tras chocar un bus de TMB y una furgoneta en el túnel de Glòries de Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5832bd73-a045-4f91-ae6f-03b10cc06f52_16-9-discover-aspect-ratio_default_0_x739y1103.jpg",
-        "tags": [
-            "plaza de las glòries",
-            "tmb - transportes metropolitanos de barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20250724/heridos-chocar-bus-tmb-furgoneta-glories-barcelona-120013496",
-        "date": "2025-07-24 06:40:02",
-        "sentiment_score": -0.7787296939641237
-    },
-    {
-        "title": "Dos heridos tras chocar un bus de TMB y una furgoneta en el túnel de Glòries de Barcelona",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-dos-heridos-chocar-bus-tmb-furgoneta-tunel-glories-barcelona-20250724083524.html",
-        "date": "2025-07-24 06:35:24",
-        "sentiment_score": -0.7836211137473583
-    },
-    {
-        "title": "Aitana, el nombre con origen en El Puerto de Santa María y la Guerra Civil",
-        "image_url": "https://static.grupojoly.com/clip/0b28f0c0-4f71-43a9-ad11-c4aace38425a_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "origen",
-            "puerto",
-            "aitana",
-            "santa",
-            "nombre"
-        ],
-        "link": "https://www.europasur.es/television/aitana-nombre-origen-puerto-santa_0_2004439804.html",
-        "date": "2025-07-24 06:34:38",
-        "sentiment_score": -0.015815645456314087
-    },
-    {
         "title": "Detienen a dos personas en el puerto de Algeciras con casi dos kilos de oro ocultos en las zapatillas: las láminas estaban valoradas en 145.000 euros",
         "image_url": "https://www.infobae.com/resizer/v2/KRRAGHAXWVEUDANXXJKI6N2QYY.jpg?auth=15446d0ff8681a0a18109d019c1655ed2806b59873772c56b80859681bf21d0b&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -671,76 +312,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-07-24/la-jueza-rechaza-el-recurso-del-novio-de-ayuso-contra-su-procesamiento-y-concluye-hay-claros-indicios-de-fraude-con-facturas-falsas.html",
         "date": "2025-07-24 10:33:34",
         "sentiment_score": -0.4500635862350464
-    },
-    {
-        "title": "El desalojo de un grupo de menores judíos de un vuelo en Valencia provoca acusaciones de Israel de antisemitismo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OSIAANBHDRKELI5OZROQZ7ZQIE.jpg?auth=0fdff4a68a867e0ffd805ba331a71298fa5b449335e087053f69f12a0a5a84d6&width=1200",
-        "tags": [
-            "aeropuertos",
-            "vueling airlines",
-            "judíos",
-            "incidentes",
-            "valencia",
-            "antisemitismo",
-            "comunidad valenciana",
-            "seguridad aérea"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-24/el-desalojo-de-un-grupo-de-menores-judios-de-un-vuelo-en-valencia-provoca-acusaciones-de-israel-de-antisemitismo.html",
-        "date": "2025-07-24 09:57:59",
-        "sentiment_score": -0.8159871809184551
-    },
-    {
-        "title": "Salvador Illa arranca una gira en China para rastrear inversiones y reforzar relaciones",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QJDXBSA25CUQXPS4LC7LOV3URI.jpg?auth=febc3216044f82ee0bebd009ab46bb65b9aebd5f47f9b80ed7812aa3e927bf1a&width=1200",
-        "tags": [
-            "salvador illa",
-            "generalitat cataluña",
-            "cupra",
-            "pasqual maragall",
-            "inversión",
-            "cataluña",
-            "damm",
-            "china",
-            "economía"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-07-24/salvador-illa-arranca-una-gira-en-china-para-rastrear-inversiones-y-reforzar-relaciones.html",
-        "date": "2025-07-24 09:53:24",
-        "sentiment_score": 0.13870565593242645
-    },
-    {
-        "title": "La Fiscalía respalda abrir diligencias contra Leire Díez por sus supuestas maniobras",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3YVBTTIBZ5D6XPK2BDN52RAZOY.jpg?auth=af05938eaec2462072d3c953bdcabc0b92adbd3e8538fe0b4a2ceaf91b8d8feb&width=1200",
-        "tags": [
-            "empresarios",
-            "delitos",
-            "javier pérez dolset",
-            "fiscalía",
-            "psoe",
-            "investigación judicial",
-            "pedro sánchez",
-            "leire díez",
-            "justicia",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-07-24/la-fiscalia-respalda-abrir-diligencias-contra-leire-diez-por-sus-supuestas-maniobras.html",
-        "date": "2025-07-24 09:14:15",
-        "sentiment_score": -0.2944849282503128
-    },
-    {
-        "title": "La victoria de España en la semifinal de la Eurocopa arrasa en audiencia con un 32,3% de cuota",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NGDEV4PPWZO3RMAUWD32RPRIQE.jpg?auth=a16a1c3d6b238682c1d23c0f22fb662558d2c31f944a79319183207a39399cac&width=1200",
-        "tags": [
-            "eurocopa femenina 2025",
-            "selección española",
-            "la 1",
-            "tve",
-            "televisión",
-            "rtve",
-            "audiencia medios"
-        ],
-        "link": "https://elpais.com/television/2025-07-24/la-victoria-de-espana-en-la-semifinal-de-la-eurocopa-arrasa-en-audiencia-con-un-323-de-cuota.html",
-        "date": "2025-07-24 09:07:47",
-        "sentiment_score": 0.06533811241388321
     },
     {
         "title": "Pere Navarro activa en la DGT una alerta para el fin de semana: prevé 6,5 millones de desplazamientos",
@@ -3212,5 +2783,230 @@ export default [
         "link": "https://theofficer.es/el-turismo-sube-precios/",
         "date": "2025-07-27 13:00:00",
         "sentiment_score": 0.361844077706337
+    },
+    {
+        "title": "La ayuda vuelve por fin a Gaza tras la indignación por la hambruna",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/07/27/gaza-RLCw5MfRLYiUbowJo47CpOM-1200x840@diario_abc.JPG",
+        "tags": [
+            "tras",
+            "hambruna",
+            "vuelve",
+            "ayuda",
+            "fin",
+            "indignacion",
+            "gaza"
+        ],
+        "link": "https://www.abc.es/internacional/ayuda-vuelve-fin-gaza-tras-indignacion-hambruna-20250727202121-nt.html",
+        "date": "2025-07-27 18:28:25",
+        "sentiment_score": -0.149679496884346
+    },
+    {
+        "title": "Los líderes europeos aceptan el acuerdo comercial con EE.UU. como un compromiso por la cooperación y la estabilidad",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/06/30/686283b8e5799.r_d.1237-1111-1169.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20250727/10928247/economia-lideres-europeos-aceptan-acuerdo-comercial-eeuu-compromiso-cooperacion-estabilidad-agenciaslv20250727.html",
+        "date": "2025-07-27 20:42:43",
+        "sentiment_score": -0.06798267364501953
+    },
+    {
+        "title": "Athenea se revaloriza tras su gran Eurocopa",
+        "image_url": "https://okdiario.com/diariomadridista/img/2025/07/27/athenea.jpg",
+        "tags": [
+            "femenino",
+            "real madrid femenino",
+            "real madrid"
+        ],
+        "link": "https://okdiario.com/diariomadridista/real-madrid/athenea-revaloriza-gran-eurocopa-554796",
+        "date": "2025-07-27 19:47:26",
+        "sentiment_score": 0.7452823277562857
+    },
+    {
+        "title": "La UEFA le permite a Inglaterra tirar un penalti dos veces: al Atleti se lo quisieron anular",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-1998172.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/la-uefa-le-permite-a-inglaterra-tirar-un-penalti-dos-veces-al-atleti-se-lo-quisieron-anular.html",
+        "date": "2025-07-27 19:36:47",
+        "sentiment_score": -0.780617319047451
+    },
+    {
+        "title": "Unos penaltis para olvidar",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-1998169.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/una-tanda-de-penaltis-para-olvidar.html",
+        "date": "2025-07-27 19:19:52",
+        "sentiment_score": -0.5662753134965897
+    },
+    {
+        "title": "Sorpresa máxima con la reaparición de Zayra Gutiérrez: vuelve a Telecinco y se somete a un brutal cambio de 'look'",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/06/19/6672dd636538d.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20250727/1002506803/sorpresa-maxima-reaparicion-zayra-gutierrez-vuelve-telecinco-somete-brutal-cambio-look-dct.html",
+        "date": "2025-07-27 18:18:04",
+        "sentiment_score": 0.586363673210144
+    },
+    {
+        "title": "Dos asaltantes armados roban 50.000 euros en un casino-bingo de Guadalajara a plena luz del día",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/27/72CD11F0-B8C7-4B2D-A3B2-A4CF8787CA64/imagen-archivo-casino_98.jpg?crop=6240%2C3511%2Cx0%2Cy329&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "sociedad"
+        ],
+        "link": "https://www.antena3.com/noticias/sociedad/dos-asaltantes-armados-roban-50000-euros-casinobingo-guadalajara-plena-luz-dia_2025072768866c1bffbf4a1a674636d6.html",
+        "date": "2025-07-27 18:12:43",
+        "sentiment_score": -0.7042295448482037
+    },
+    {
+        "title": "La IA prevé que el precio del alquiler en Logroño subirá un 22,9% en el tercer trimestre",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250727200036_120.jpg",
+        "tags": [
+            "la rioja"
+        ],
+        "link": "https://www.europapress.es/la-rioja/noticia-ia-preve-precio-alquiler-logrono-subira-229-tercer-trimestre-20250727200036.html",
+        "date": "2025-07-27 18:00:36",
+        "sentiment_score": 0.1756845973432064
+    },
+    {
+        "title": "Los postes de recarga ultrarrápida dan 'alas' al coche eléctrico",
+        "image_url": "https://phantom-elmundo.uecdn.es/c6cdc0da9c1bdb36f71bed7370c9505a/crop/202x97/2870x2765/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053386573556.jpg",
+        "tags": [
+            "artículos félix cerezo",
+            "motor",
+            "actualidad económica",
+            "coches eléctricos"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/07/27/6882546dfdddffeb248b459d.html",
+        "date": "2025-07-27 17:55:59",
+        "sentiment_score": -0.7074481882154942
+    },
+    {
+        "title": "Socimis, family office y aseguradoras espolean la inversión residencial",
+        "image_url": "https://phantom-expansion.uecdn.es/d1bf7dd836fe13f0dbde94f8c7d0d88a/crop/39x15/866x566/f/webp/assets/multimedia/imagenes/2025/07/25/17534650624842.jpg",
+        "tags": [
+            "mercado inmobiliario>",
+            "empresas>",
+            "inmobiliario y construcción>",
+            "artículos rebeca arroyo>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/07/28/6883c791e5fdea361f8b45a9.html",
+        "date": "2025-07-27 22:08:46",
+        "sentiment_score": 0.6616500429809093
+    },
+    {
+        "title": "Martin Jacob (IESE): \"Los ciudadanos españoles pagan impuestos relativamente altos comparados con otros países\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/8cbdc0704b5acb0f1c004b31e1c70300/crop/217x32/782x587/f/image/jpeg/assets/multimedia/imagenes/2022/02/01/16437129236540.jpg",
+        "tags": [
+            "entrevistas",
+            "artículos alejandra olcese",
+            "economía"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/07/28/6880edc4e85ece8f248b45b4.html",
+        "date": "2025-07-27 22:08:05",
+        "sentiment_score": -0.0033057183027267456
+    },
+    {
+        "title": "La jornada electoral transcurrió de manera discreta en Barcelona (+Fotos)",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "venezuela al día",
+            "locales",
+            "política"
+        ],
+        "link": "https://eltiempove.com/la-jornada-electoral-transcurrio-de-manera-discreta-en-barcelona/",
+        "date": "2025-07-27 21:54:38",
+        "sentiment_score": 0.15923014283180237
+    },
+    {
+        "title": "Trabajar en el paraíso balear y estar condenado a vivir en una caravana",
+        "image_url": "https://phantom-elmundo.uecdn.es/2de411fffb6da0e6c6287b2772ef862c/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529705699400.jpg",
+        "tags": [
+            "turismo",
+            "turismo baleares",
+            "artículos eduardo colom"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/07/27/68865660e85ecedf1b8b458b.html",
+        "date": "2025-07-27 20:53:28",
+        "sentiment_score": -0.7635794188827276
+    },
+    {
+        "title": "El agua, la bebida favorita de los españoles por encima de refrescos y zumos",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/27/4A7A409C-960E-42CD-B62B-9C57432A0DDF/saben-cual-bebida-favorita-espanoles-agua-nada-mas-que-agua_70.jpg?crop=3168%2C1782%2Cx0%2Cy244&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "antena 3 noticias",
+            "economía"
+        ],
+        "link": "https://www.antena3.com/noticias/economia/agua-bebida-favorita-espanoles-encima-refrescos-zumos_2025072768868e15abb2960d1fb76517.html",
+        "date": "2025-07-27 20:37:41",
+        "sentiment_score": 0.2022731676697731
+    },
+    {
+        "title": "Fotoenvejecimiento: ¿qué efectos tiene el sol sobre el colágeno de la piel y cómo podemos protegernos?",
+        "image_url": "https://static.eldiario.es/clip/307610a3-5d29-40a5-beed-937e3072a9ab_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "economía doméstica",
+            "motor",
+            "derechos consumidores",
+            "bienestar",
+            "consumo",
+            "viajar",
+            "vino",
+            "consumoclaro",
+            "salud",
+            "sexo",
+            "alimentación",
+            "nutrición",
+            "cerveza",
+            "consumo digital",
+            "perros",
+            "ahorrar"
+        ],
+        "link": "https://www.eldiario.es/consumoclaro/tu-mejor-yo/fotoenvejecimiento-efectos-sol-colageno-piel-protegernos_1_12468655.html",
+        "date": "2025-07-27 20:05:16",
+        "sentiment_score": -0.0596407949924469
+    },
+    {
+        "title": "Leire Iglesias: \"No vamos a hacer vivienda social, vamos a hacer vivienda asequible\"",
+        "image_url": "https://static.eldiario.es/clip/b3f7be81-807e-4f46-bdac-cb585f921450_16-9-discover-aspect-ratio_default_1122618.jpg",
+        "tags": [
+            "no",
+            "social",
+            "vivienda",
+            "leire",
+            "asequible",
+            "iglesias"
+        ],
+        "link": "https://www.eldiario.es/economia/leire-iglesias-no-vivienda-social-vivienda-asequible_128_12485682.html",
+        "date": "2025-07-27 20:05:14",
+        "sentiment_score": -0.030057191848754883
+    },
+    {
+        "title": "Fiscal General de la República Tarek William Saab ejerció su derecho al voto por la paz",
+        "image_url": "https://ciudadmcy.info.ve/wp-content/uploads/2025/07/gvjpg-45437.jpg",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://ciudadmcy.info.ve/fiscal-general-de-la-republica-tarek-william-saab-ejercio-su-derecho-al-voto-por-la-paz",
+        "date": "2025-07-27 20:03:56",
+        "sentiment_score": 0.6244339793920517
+    },
+    {
+        "title": "España está a un solo impulso final de convertirse en el primer país en eliminar la hepatitis C",
+        "image_url": "https://www.elidealgallego.com/images/showid/7475224",
+        "tags": [
+            "hepatitis c",
+            "sanidad",
+            "españa",
+            "salud"
+        ],
+        "link": "https://www.elidealgallego.com/articulo/sociedad/espana-esta-solo-impulso-final-convertirse-primer-pais-eliminar-hepatitis-c-5378670",
+        "date": "2025-07-27 19:51:56",
+        "sentiment_score": -0.22300852090120316
     }
 ];
