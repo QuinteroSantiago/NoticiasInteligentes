@@ -1,181 +1,5 @@
 export default [
     {
-        "title": "Una mujer deja su trabajo en EEUU, se divorcia y se va a Italia a disfrutar de su jubilación de casi 1.300 euros: “Me encanta poder ir al supermercado y no arruinarme”",
-        "image_url": "https://www.infobae.com/resizer/v2/OYF27RVDRRBCNGAESMFNYRO3N4.jpg?auth=72d966de4ed13e0055540b2ca4779174554ecc440230713643517eedb5388432&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "palermo",
-            "estados unidos",
-            "jubilación",
-            "españa-sociedad",
-            "italia",
-            "seguridad social"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/25/una-mujer-deja-su-trabajo-en-eeuu-se-divorcia-y-se-va-a-italia-a-disfrutar-de-su-jubilacion-de-1500-dolares-me-encanta-poder-ir-al-supermercado-y-no-arruinarme/",
-        "date": "2025-07-25 16:46:25",
-        "sentiment_score": -0.06879335641860962
-    },
-    {
-        "title": "Von der Leyen y Trump acuerdan reunirse este domingo en Escocia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/25/vdldonaldjtrump-kexF-U701340203520NT-1200x840@diario_abc.jpg",
-        "tags": [
-            "domingo",
-            "von",
-            "trump",
-            "reunirse",
-            "acuerdan",
-            "leyen",
-            "der",
-            "escocia"
-        ],
-        "link": "https://www.abc.es/internacional/von-der-leyen-trump-acuerdan-reunirse-domingo-20250725183103-nt.html",
-        "date": "2025-07-25 16:31:03",
-        "sentiment_score": 0.26347918063402176
-    },
-    {
-        "title": "Trump calcula en «un 50% o menos» las posibilidades de cerrar un acuerdo comercial con la UE",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/07/25/trump-periodistas-casa-blanca-efe-kMXE-U701340037002LBD-1200x840@diario_abc.jpg",
-        "tags": [
-            "acuerdo",
-            "ue",
-            "comercial",
-            "trump",
-            "posibilidades",
-            "cerrar",
-            "calcula"
-        ],
-        "link": "https://www.abc.es/internacional/trump-calcula-posibilidades-cerrar-acuerdo-comercial-ue-20250725174900-nt.html",
-        "date": "2025-07-25 15:49:00",
-        "sentiment_score": -0.09542518854141235
-    },
-    {
-        "title": "Trump reactiva la polémica licencia de Chevron en Venezuela tras devolverle Maduro diez presos estadounidenses",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/25/maduro-RF6cH5dzDQmWBQzLpgOLOFJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "nicolás maduro",
-            "marco rubio",
-            "venezuela",
-            "el salvador",
-            "estados unidos",
-            "caracas",
-            "donald trump"
-        ],
-        "link": "https://www.abc.es/internacional/trump-oxigeno-maduro-reactivando-polemica-licencia-chevron-20250725161046-nt.html",
-        "date": "2025-07-25 14:50:41",
-        "sentiment_score": -0.1676507294178009
-    },
-    {
-        "title": "LaLiga cuenta un año más con el respaldo de BKT",
-        "image_url": "https://static.grupojoly.com/clip/e6cf930d-ebb0-4dcc-acc7-ef49dcde54e0_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "respaldo",
-            "laliga",
-            "ano",
-            "bkt",
-            "cuenta"
-        ],
-        "link": "https://www.eldiadecordoba.es/empresas-al-dia/laliga-cuenta-ano-respaldo-bkt_0_2004451139.html",
-        "date": "2025-07-25 16:49:13",
-        "sentiment_score": 0.5559173636138439
-    },
-    {
-        "title": "Cisma en el Departamento de Estado de EE UU por la liberación del 'asesino de Usera'",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/07/25/venezolanos-k2L-U2302477893478UxE-1200x840@RC.jpg",
-        "tags": [
-            "washington",
-            "madrid (ciudad)",
-            "españa",
-            "venezuela",
-            "nueva york",
-            "donald trump",
-            "alemania",
-            "caracas",
-            "texas",
-            "estados unidos"
-        ],
-        "link": "https://www.elcomercio.es/internacional/eeuu/cisma-departamento-estado-liberacion-asesino-usera-20250725182813-ntrc.html",
-        "date": "2025-07-25 16:31:51",
-        "sentiment_score": -0.7780353873968124
-    },
-    {
-        "title": "\"El traslado de las estatuas del paseo Sarasate cuenta con el informe favorable de Príncipe de Viana\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7beec57b-f654-4386-8f34-1acb916d1cb5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "paseo",
-            "estatuas",
-            "traslado",
-            "taconera",
-            "sarasate"
-        ],
-        "link": "https://www.noticiasdenavarra.com/pamplona/2025/07/25/traslado-estatuas-paseo-sarasate-taconera-9920258.html",
-        "date": "2025-07-25 15:24:10",
-        "sentiment_score": -0.8137070909142494
-    },
-    {
-        "title": "Una nueva generación de la ÑBA llama a la puerta este verano",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-1844062.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/una-nueva-generacion-de-la-nba-llama-a-la-puerta-este-verano.html",
-        "date": "2025-07-25 15:19:31",
-        "sentiment_score": -0.3055059611797333
-    },
-    {
-        "title": "Renfe suspende la venta de billetes del Avlo entre Madrid y Barcelona tras detectar fisuras en los trenes Avril",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fbfcd53b-b107-4445-9cd3-5a863b4186e5_16-9-discover-aspect-ratio_default_1391172.jpg",
-        "tags": [
-            "avlo",
-            "talgo",
-            "renfe",
-            "trenes"
-        ],
-        "link": "https://www.diariodemallorca.es/economia/2025/07/25/renfe-suspende-venta-billetes-avlo-120068415.html",
-        "date": "2025-07-25 17:10:34",
-        "sentiment_score": -0.9228602731600404
-    },
-    {
-        "title": "Un 40% de los visitantes que recibió la provincia de Pontevedra en junio fueron extranjeros",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "galicia",
-            "galicia turismo"
-        ],
-        "link": "https://www.europapress.es/galicia/turismo-00624/noticia-40-visitantes-recibio-provincia-pontevedra-junio-fueron-extranjeros-20250725185006.html",
-        "date": "2025-07-25 16:50:06",
-        "sentiment_score": 0.2501623257994652
-    },
-    {
-        "title": "Netflix España estrena por sorpresa y sin avisar el 'true crime' que fue paralizado por orden judicial: asesinato en el centro de Barcelona",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/07/25/6883af2aa49b0.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20250725/1002505889/netflix-espana-estrena-sorpresa-avisar-true-crime-paralizado-orden-judicial-asesinato-centro-barcelona-dct.html",
-        "date": "2025-07-25 16:25:31",
-        "sentiment_score": -0.5176169387996197
-    },
-    {
-        "title": "Illa va a China para reactivar la inversión del país con foco en el coche eléctrico",
-        "image_url": "https://s10.s3c.es/imag/_v0/3840x2560/7/f/7/1200x655_salvadorillainformeeconomia.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13480276/07/25/illa-va-a-china-para-reactivar-la-inversion-del-pais-con-foco-en-el-coche-electrico.html",
-        "date": "2025-07-25 16:13:17",
-        "sentiment_score": 0.10911485552787781
-    },
-    {
-        "title": "El Govern destina 10 millones a la rehabilitación de vivienda pública en Terrassa (Barcelona)",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250725171411_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-govern-destina-10-millones-rehabilitacion-vivienda-publica-terrassa-barcelona-20250725171411.html",
-        "date": "2025-07-25 15:14:11",
-        "sentiment_score": 0.31945258751511574
-    },
-    {
         "title": "Bolsa o vivienda: ¿qué es más rentable, líquida y segura?",
         "image_url": "https://phantom-expansion.uecdn.es/f1d705baca66bbf1a55c2e3a671b5e13/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/25/17534732839550.jpg",
         "tags": [
@@ -205,32 +29,6 @@ export default [
         "link": "https://www.eldiario.es/economia/acuerdo-record-mil-millones-euros-manchester-city-puma-importancia-resultados-economicos_1_12488953.html",
         "date": "2025-07-25 20:08:17",
         "sentiment_score": -0.00472530722618103
-    },
-    {
-        "title": "La Junta e Innova IRV se alían para impulsar el ecosistema empresarial tecnológico andaluz",
-        "image_url": "https://static.grupojoly.com/clip/791ab1af-71a6-47b6-9477-db18de9abe1d_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "innova",
-            "ecosistema",
-            "tecnológico",
-            "irv",
-            "junta",
-            "empresarial"
-        ],
-        "link": "https://www.elconciso.es/coyuntura/junta-innova-irv-ecosistema-empresarial-tecnologico_0_2004451313.html",
-        "date": "2025-07-25 17:40:59",
-        "sentiment_score": 0.46268996968865395
-    },
-    {
-        "title": "Todos somos un poco 'subecarros'",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/07/25/107126594-ktDG-U2302478894536QXE-1200x1700@El%20Comercio.jpg",
-        "tags": [
-            "poco",
-            "subecarros"
-        ],
-        "link": "https://www.elcomercio.es/opinion/leopoldo-tolivar-poco-subecarros-20250726185306-nt.html",
-        "date": "2025-07-25 17:22:52",
-        "sentiment_score": -0.9027613690122962
     },
     {
         "title": "Egoístas",
@@ -4193,5 +3991,697 @@ export default [
         "link": "https://2001online.com/farandula/la-foto-de-corina-smith-y-lasso-que-enciende-las-redes-colaboracion-o-romance--20257282100",
         "date": "2025-07-29 01:00:00",
         "sentiment_score": 0.1076921746134758
+    },
+    {
+        "title": "Un hombre viaja a Marruecos una semana y acumula una factura telefónica de 37.000 euros: “Orange me ha cortado la línea”",
+        "image_url": "https://www.infobae.com/resizer/v2/X2MMP6W6ONDHBJIB26UA53IOTI.JPG?auth=da958bc2e96732cf4555e770d5a1a802ace7102565fe513d23703e2b83925e53&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "orange",
+            "francia",
+            "facturas telefonicas",
+            "españa-nacional",
+            "españa-noticias",
+            "roaming"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/29/un-hombre-viaja-a-marruecos-una-semana-y-acumula-una-factura-telefonica-de-37000-euros-orange-me-ha-cortado-la-linea/",
+        "date": "2025-07-29 06:38:30",
+        "sentiment_score": -0.7957746088504791
+    },
+    {
+        "title": "Una española que vive en Paraguay explica si es un país seguro: “Nada que ver con Barcelona”",
+        "image_url": "https://www.infobae.com/resizer/v2/X6DNUINZHFF5PDZMYVSXDBURUY.png?auth=97061b756d4db23cd93bed106cb541ecafe691168fdb18f9a3624843e3e8bc16&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "españa-sociedad",
+            "redes sociales",
+            "tiktok",
+            "españa-noticias",
+            "tiktok españa",
+            "paraguay"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/29/una-espanola-que-vive-en-paraguay-explica-si-es-un-pais-seguro-nada-que-ver-con-barcelona/",
+        "date": "2025-07-29 06:38:16",
+        "sentiment_score": -0.1616978496313095
+    },
+    {
+        "title": "Los cinco complementos que pueden mejorar tu estado de ánimo, según una doctora: “Esto no sustituye al ejercicio físico”",
+        "image_url": "https://www.infobae.com/resizer/v2/CHVES7H3K5CZHDTQM3LJ4GW2Z4.jpg?auth=fc499c0cb28c95d220e53d755ff964d1b1721ea156ea1fdd9734520f78142ffb&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "salud mental españa",
+            "alimentación saludable",
+            "suplemento alimenticio",
+            "españa-noticias",
+            "españa-salud",
+            "salud mental"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/29/los-cinco-complementos-que-pueden-mejorar-tu-estado-de-animo-segun-una-doctora-esto-no-sustituye-al-ejercicio-fisico/",
+        "date": "2025-07-29 06:35:07",
+        "sentiment_score": 0.7500662468373775
+    },
+    {
+        "title": "Así han sido los primeros días de Felipe VI, Letizia y sus hijas en Mallorca: tiempo en familia y varios viajes",
+        "image_url": "https://www.infobae.com/resizer/v2/3JL2MCEEW5BLNFUXUU7QP64U4Y.jpg?auth=5da8e86fbd652ca4b4343de8c2cdb8ac1bdb6d4914097dbcc812df58038cedf9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "gente españa",
+            "felipe vi",
+            "islas baleares",
+            "famosos españa",
+            "corazón y estilo españa",
+            "españa-noticias",
+            "realeza",
+            "casas reales",
+            "casa real españa",
+            "reina letizia",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/29/asi-han-sido-los-primeros-dias-de-felipe-vi-letizia-y-sus-hijas-en-mallorca-tiempo-en-familia-y-varios-viajes/",
+        "date": "2025-07-29 06:32:14",
+        "sentiment_score": 0.28980356454849243
+    },
+    {
+        "title": "La directora general de la Guardia Civil se desplaza este martes a Torre Pacheco (Murcia)",
+        "image_url": "https://www.infobae.com/resizer/v2/IIRTKRWC2JDSZGBKZCQRIEBHMQ.jpg?auth=46d02ec4c9ee3cce32ea488c29771f8b60b23e7b10a21b4d406cbc816c520e24&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/29/la-directora-general-de-la-guardia-civil-se-desplaza-este-martes-a-torre-pacheco-murcia/",
+        "date": "2025-07-29 06:22:41",
+        "sentiment_score": -0.031046271324157715
+    },
+    {
+        "title": "Cómo saber si una persona carece de habilidades sociales dependiendo de sus temas de conversación, según la psicología",
+        "image_url": "https://www.infobae.com/resizer/v2/EBBFKRXARZC3DECUEA3KIIR3S4.jpeg?auth=47fa6a91bc07d51eeacdcbdcfd49f72cd7db29444df5cc026e0693f3ce0848fd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "psicología",
+            "españa noticias",
+            "comunicación",
+            "españa salud",
+            "terapia psicológica"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/29/como-saber-si-una-persona-carece-de-habilidades-sociales-dependiendo-de-sus-temas-de-conversacion-segun-la-psicologia/",
+        "date": "2025-07-29 06:18:27",
+        "sentiment_score": -0.755226843059063
+    },
+    {
+        "title": "Las caries pueden transmitirse a través de los besos, aseguran los expertos",
+        "image_url": "https://www.infobae.com/resizer/v2/SVQKHQWAR5BM5PV25A5GXKJO5Y.jpeg?auth=d0546d0943dce14ee8b204eb6c0366bc8f9d880fbd685eeebd8019a2d07cff48&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "enfermedades bucodentales",
+            "españa-noticias",
+            "bacterias",
+            "españa-salud",
+            "caries",
+            "enfermedades y medicamentos",
+            "besos",
+            "enfermedades y medicamentos españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/29/la-caries-puede-transmitirse-a-traves-de-los-besos-aseguran-los-expertos/",
+        "date": "2025-07-29 06:14:25",
+        "sentiment_score": -0.25632816553115845
+    },
+    {
+        "title": "James Gunn confirma que el Batman de Robert Pattinson no coincidirá con el nuevo Superman: “Ya veremos qué hacemos de aquí en adelante”",
+        "image_url": "https://www.infobae.com/resizer/v2/O2IFBM2JY5HNXAO3CKUTIGOHOM.jpg?auth=98d589d912a95f6476a7b1b2dba5a3d196bad17794d6d940d3493b85f4d702f2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cine",
+            "españa-noticias",
+            "batman",
+            "dc",
+            "james gunn",
+            "españa-cultura",
+            "superman",
+            "robert pattinson",
+            "cine españa"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/07/29/james-gunn-confirma-que-el-batman-de-robert-pattinson-no-coincidira-con-el-nuevo-superman-ya-veremos-que-hacemos-de-aqui-en-adelante/",
+        "date": "2025-07-29 06:08:04",
+        "sentiment_score": 0.044868722558021545
+    },
+    {
+        "title": "Estos son los diez países que más cerveza beben: España aparece en la lista",
+        "image_url": "https://www.infobae.com/resizer/v2/CSOV2SVJ4RCMJADZ6AXU7HGEME.jpeg?auth=ed6e8d5bcc3c59fa50238239750b3d6ffa9c1d05f6ab3e4fd9eaf985753e2d3c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "consumo de drogas",
+            "cerveza",
+            "españa-sociedad",
+            "alcohol"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/29/estos-son-los-diez-paises-que-mas-cerveza-beben-espana-aparece-en-la-lista/",
+        "date": "2025-07-29 05:56:19",
+        "sentiment_score": 0.03719344735145569
+    },
+    {
+        "title": "Un español en Corea del Norte explica por qué es tan complicado hacer turismo allí: “No puedes salir del plan de viaje establecido”",
+        "image_url": "https://www.infobae.com/resizer/v2/3CBA34ZCR5FPTIOGW6KOLC6C6Q.jpg?auth=8b328cd10a64256f51d0ba0a248213593361b588c8c8d8b64bc5b0380c783b73&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "redes sociales",
+            "españa-sociedad",
+            "corea del norte",
+            "tiktok",
+            "tiktok españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/29/un-espanol-en-corea-del-norte-explica-por-que-es-tan-complicado-hacer-turismo-alli-no-puedes-salir-del-plan-de-viaje-establecido/",
+        "date": "2025-07-29 05:51:22",
+        "sentiment_score": -0.7731501497328281
+    },
+    {
+        "title": "Acciona aumenta un 353% sus beneficios con 526 millones de euros",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/29/1498183133-R5cPKOkUudm5eZNjDWMgOFP-1200x840@diario_abc.jpg",
+        "tags": [
+            "acciona",
+            "españa",
+            "comisión nacional del mercado de valores (cnmv)"
+        ],
+        "link": "https://www.abc.es/economia/acciona-aumenta-353-beneficios-526-millones-euros-20250729083155-nt.html",
+        "date": "2025-07-29 06:38:38",
+        "sentiment_score": -0.09119690954685211
+    },
+    {
+        "title": "La increíble apuesta que un potencial rival de Ilia Topuria se atreve a realizar: «Si pierdo, le daré 500.000 dólares»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2025/07/29/tsarukyan-apuesta-topuria-RNWAwDhuxpUwgLdHbwwR2WO-1200x840@diario_abc.png",
+        "tags": [
+            "ilia topuria",
+            "ufc - ultimate fighting championship",
+            "dana white",
+            "lucha",
+            "artes marciales mixtas",
+            "islam makhachev"
+        ],
+        "link": "https://www.abc.es/deportes/mma/increible-apuesta-potencial-rival-ilia-topuria-atreve-20250729132617-nt.html",
+        "date": "2025-07-29 02:46:11",
+        "sentiment_score": -0.1138598620891571
+    },
+    {
+        "title": "Estabilizado un incendio en la Sierra Oeste de Madrid con tres focos entre Fresnedillas, Peralejo y Zarzalejo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BGXMOJMAY5IFLKZJXXEE5I34JQ.jpg?auth=0733724d9c978985af1c9e1b90b9441900d4c0e825e7200c7c2267d62554b54b&width=1200",
+        "tags": [
+            "incendios",
+            "bomberos",
+            "comunidad de madrid",
+            "zarzalejo",
+            "incendios forestales",
+            "fresnedillas de la oliva",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-07-29/estabilizado-el-incendio-en-la-sierra-oeste-de-madrid-con-tres-focos-entre-fresnedillas-peralejo-y-zarzalejo.html",
+        "date": "2025-07-29 06:00:29",
+        "sentiment_score": -0.4351402446627617
+    },
+    {
+        "title": "La hambruna desde esta orilla",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MQWJQLLXQJP2HMHNB3MUEIKJK4.jpg?auth=0ef9e31a3d374f128471d539b4624738dc9ee303fbea39c1a8c2c95d882ca6ea&width=1200",
+        "tags": [
+            "hambre",
+            "hamás",
+            "franja gaza",
+            "comunidad de madrid",
+            "genocidio",
+            "israel",
+            "delitos contra humanidad",
+            "muertes",
+            "madrid",
+            "muertos guerra",
+            "conflicto árabe-israelí",
+            "palestina"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-07-29/la-hambruna-desde-esta-orilla.html",
+        "date": "2025-07-29 03:30:01",
+        "sentiment_score": -0.9414064921438694
+    },
+    {
+        "title": "Sánchez y Feijóo alejan sus realidades paralelas en el ecuador de la legislatura",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SHREK6RZEZCCROZ5GYGOQD7W4Y.JPG?auth=560678fbefdb156903d832b597a9f04eb9904d867ac060335dd497835ed42d3c&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "política",
+            "gobierno",
+            "psoe",
+            "alberto núñez feijóo",
+            "pp",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-29/sanchez-y-feijoo-alejan-sus-realidades-paralelas-en-el-ecuador-de-la-legislatura.html",
+        "date": "2025-07-29 03:30:01",
+        "sentiment_score": 0.4630357176065445
+    },
+    {
+        "title": "Averías, apagones y temporales obligan a suspender totalmente Rodalies tres veces en 2025",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AIYYTBVVGFKO3LDFR6NSGT2VGY.jpg?auth=f04163e3c839d501791049876ee1b731dc5bb797000f68e137067dd2c27f280e&width=1200",
+        "tags": [
+            "renfe",
+            "barcelona",
+            "cataluña",
+            "incidencias transporte",
+            "trenes mercancías",
+            "turismo",
+            "adif",
+            "trenes"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-29/averias-apagones-y-temporales-obligan-a-suspender-totalmente-rodalies-tres-veces-en-2025.html",
+        "date": "2025-07-29 03:30:01",
+        "sentiment_score": -0.8365741800516844
+    },
+    {
+        "title": "El accidente de O Marisquiño, sin culpables: vuelve a archivarse sin responsabilidad penal para el Ayuntamiento y el Puerto de Vigo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DBKBROEJ3ZMXFBAVK3GVCSDGTA.jpg?auth=3a398fc832f1e05a81a3242ec605328d3a987bf611ac4664e1c79c774462371e&width=1200",
+        "tags": [
+            "música",
+            "accidentes marítimos",
+            "puertos de galicia",
+            "vigo",
+            "heridos",
+            "proceso judicial",
+            "festivales música",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-27/el-accidente-de-o-marisquino-vuelve-a-archivarse-sin-responsabilidad-penal-para-el-ayuntamiento-y-el-puerto-de-vigo.html",
+        "date": "2025-07-29 03:30:01",
+        "sentiment_score": -0.8415371011942625
+    },
+    {
+        "title": "Maixabel Lasa, 25 años después del asesinato de Juan María Jáuregui por ETA: “Le mataron por tender puentes”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XJOKUV7R65FFFAGFMNHCBXMGLU.jpg?auth=b5bd0d9005500b5f614d1fb35e652ee17123f57e3722caddd10d6a4b652ff94a&width=1200",
+        "tags": [
+            "juan maría jauregi",
+            "juan maría jáuregui",
+            "víctimas terrorismo",
+            "guardia civil",
+            "eta",
+            "gal",
+            "franquismo",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-29/maixabel-lasa-25-anos-despues-del-asesinato-de-jauregui-por-eta-le-mataron-por-tender-puentes.html",
+        "date": "2025-07-29 03:30:01",
+        "sentiment_score": -0.4816870465874672
+    },
+    {
+        "title": "ERC deja de ingresar 1,7 millones de euros tras perder las elecciones",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7JY3SIZR4JNTTEJF3GYCIYZKHY.jpg?auth=41e5f546b58086ddb3f8a831d4c814cd6763a14855e1bb275faa3ea0d02c746b&width=1200",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-29/erc-deja-de-ingresar-17-millones-de-euros-tras-perder-las-elecciones.html",
+        "date": "2025-07-29 03:30:01",
+        "sentiment_score": -0.915118875913322
+    },
+    {
+        "title": "Un Pacto Nacional por la Educación en Cataluña tras los resultados de PISA",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PKDIL5BMY5GV5GXSTPPCRXX5YQ.jpg?auth=783a14f5244c5183908ab56b4e35f270378d1455a457483f326508658c062588&width=1200",
+        "tags": [
+            "cataluña",
+            "profesorado",
+            "exámenes",
+            "informes pisa",
+            "política educativa",
+            "educación",
+            "sindicatos enseñanza",
+            "bachillerato",
+            "estudiantes"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-29/un-pacto-nacional-por-la-educacion-en-cataluna-tras-los-resultados-de-pisa.html",
+        "date": "2025-07-29 03:30:01",
+        "sentiment_score": -0.47328784689307213
+    },
+    {
+        "title": "Como un Mundial: España movilizará 13 ministerios ante el reto inédito de los eclipses solares totales que se avecinan",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4FQ5LKVE4ZBODBX2Q52P36SX3Q.jpg?auth=53ab6acfc46b838d8b7159581dfdb65fbc7c46bbcbd7c3f0e0556bf135843b4d&width=1200",
+        "tags": [
+            "ministerio de ciencia, innovación y universidades",
+            "protección civil",
+            "la luna",
+            "astronomía",
+            "ministerio de fomento",
+            "consejo de ministros",
+            "mundial 2030",
+            "eclipses",
+            "ciencia",
+            "españa",
+            "fenómenos astronómicos",
+            "verano",
+            "la tierra",
+            "sol"
+        ],
+        "link": "https://elpais.com/ciencia/2025-07-29/como-un-mundial-espana-movilizara-13-ministerios-ante-el-reto-inedito-de-los-eclipses-solares-totales-que-se-avecinan.html",
+        "date": "2025-07-29 03:20:00",
+        "sentiment_score": 0.4291881136596203
+    },
+    {
+        "title": "Las claves del acuerdo de aranceles entre la Unión Europea y Trump: del impacto en España a la falta de contrapartidas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4BVQSYZBWBECDKVDQUMLWF4RV4.jpg?auth=925ef19fe6d664c782c647f4570dc6927223d01b7fed4c54aeb3f118c84309fe&width=1200",
+        "tags": [
+            "aranceles",
+            "política",
+            "guerra comercial",
+            "comisión europea",
+            "importaciones",
+            "donald trump",
+            "estados unidos",
+            "unión europea",
+            "ursula von der leyen"
+        ],
+        "link": "https://elpais.com/videos/2025-07-29/las-claves-del-acuerdo-de-aranceles-entre-la-union-europea-y-trump-del-impacto-en-espana-a-la-falta-de-contrapartidas.html",
+        "date": "2025-07-29 03:15:00",
+        "sentiment_score": -0.37832092493772507
+    },
+    {
+        "title": "La Abogacía del Estado pide casi cuatro años de prisión y medio millón de euros para el novio de Ayuso",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/03/14/2024031415210010679.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/abogacia-estado-pide-casi-cuatro-anos-prision-medio-millon-euros-novio-ayuso/20250729083142351672.html",
+        "date": "2025-07-29 06:31:42",
+        "sentiment_score": -0.7438097465783358
+    },
+    {
+        "title": "El surrealista momento en el que Patxi Salinas la lía en el 'Grand Prix' y Ramón García acaba por los suelos",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/07/29/ramon-garcia-grand-prix-kaND--758x531@El%20Correo.jpg",
+        "tags": [
+            "surrealista",
+            "grand",
+            "garcia",
+            "acaba",
+            "urduliz",
+            "patxi",
+            "ramontxu",
+            "lia",
+            "prix",
+            "herencia",
+            "penaranda de bracamonte",
+            "ramon",
+            "suelos",
+            "momento",
+            "salinas"
+        ],
+        "link": "https://www.elcorreo.com/gente-estilo/surrealista-momento-patxi-salinas-lia-grand-prix-20250729082420-nt.html",
+        "date": "2025-07-29 06:24:20",
+        "sentiment_score": -0.0114530548453331
+    },
+    {
+        "title": "El \"sexto sentido\" que conecta al intestino y el cerebro y decide cuánto comes",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250729080947_120.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-sexto-sentido-conecta-intestino-cerebro-decide-cuanto-comes-20250729080947.html",
+        "date": "2025-07-29 06:09:47",
+        "sentiment_score": 0.25968316197395325
+    },
+    {
+        "title": "El Gobierno aprueba hoy ampliar permiso por nacimiento a 17 semanas y retribuir parte del permiso por cuidado",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/07/fotonoticia_20250729080109_1920-1200x675.jpg",
+        "tags": [
+            "última hora",
+            "economía"
+        ],
+        "link": "https://forbes.es/economia/772617/el-gobierno-aprueba-hoy-ampliar-permiso-por-nacimiento-a-17-semanas-y-retribuir-parte-del-permiso-por-cuidado/",
+        "date": "2025-07-29 06:01:09",
+        "sentiment_score": 0.24842850118875504
+    },
+    {
+        "title": "La discreta vida de Gigi Howard, exnovia del Rey Felipe: madre a los 42 años y CEO de éxito",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/07/rey-felipe-gigi-howard.jpg",
+        "tags": [
+            "modelos",
+            "rey felipe vi",
+            "gente",
+            "celebrities"
+        ],
+        "link": "https://theobjective.com/gente/2025-07-29/vida-gigi-howard-exnovia-rey-felipe/",
+        "date": "2025-07-29 06:00:00",
+        "sentiment_score": -0.14972537755966187
+    },
+    {
+        "title": "Duro Felguera presentará hoy su plan de viabilidad a la mesa del ERE, dos días antes de fin del preconcurso",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/07/fotonoticia_20250729075740_1920-1200x675.jpg",
+        "tags": [
+            "última hora",
+            "economía"
+        ],
+        "link": "https://forbes.es/economia/772622/duro-felguera-presentara-hoy-su-plan-de-viabilidad-a-la-mesa-del-ere-dos-dias-antes-de-fin-del-preconcurso/",
+        "date": "2025-07-29 05:57:40",
+        "sentiment_score": -0.16662784665822983
+    },
+    {
+        "title": "Virus para acabar con las bacterias: así los fagos podrían ser el arma contra la resistencia a los antibióticos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250729074949_690.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-virus-acabar-bacterias-asi-fagos-podrian-ser-arma-contra-resistencia-antibioticos-20250729074949.html",
+        "date": "2025-07-29 05:49:49",
+        "sentiment_score": 0.42529047280550003
+    },
+    {
+        "title": "El vocablo caracol: Una versátil antología (y II)",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/07/vocablo-caracol-versatil-antologia-001-750x500.jpg",
+        "tags": [
+            "opinión",
+            "colaboraciones"
+        ],
+        "link": "https://elfarodeceuta.es/vocablo-caracol-versatil-antologia-ii/",
+        "date": "2025-07-29 05:39:59",
+        "sentiment_score": 0.18944348394870758
+    },
+    {
+        "title": "Galicia, entre las regiones más seguras de España por tercer año consecutivo",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/07/17/2025071713392710091.jpg",
+        "tags": [
+            "galicia"
+        ],
+        "link": "https://www.elprogreso.es/articulo/galicia/galicia-regiones-mas-seguras-espana-tercer-ano-consecutivo/202507171343281895583.html",
+        "date": "2025-07-29 05:30:00",
+        "sentiment_score": -0.49331755191087723
+    },
+    {
+        "title": "Telefónica Brasil gana 371 millones en el primer semestre del año, un 13,45% más",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/07/fotonoticia_20250729072957_1920-1200x675.jpg",
+        "tags": [
+            "última hora",
+            "economía"
+        ],
+        "link": "https://forbes.es/economia/772597/telefonica-brasil-gana-371-millones-en-el-primer-semestre-del-ano-un-1345-mas/",
+        "date": "2025-07-29 05:29:57",
+        "sentiment_score": 0.2058078497648239
+    },
+    {
+        "title": "La gran verbena veraniega del indie está en Sarria: Cala Vento, Ortiga o Shego",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/06/27/2025062719131824359.jpg",
+        "tags": [
+            "sarria"
+        ],
+        "link": "https://www.elprogreso.es/articulo/sarria/indie-llega-orilla-rio-sarria/202507290843001891231.html",
+        "date": "2025-07-29 06:43:00",
+        "sentiment_score": 0.2166603058576584
+    },
+    {
+        "title": "La inscripción del Granada en la ACB, confirmada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "confirmada",
+            "acb",
+            "inscripcion",
+            "granada"
+        ],
+        "link": "https://www.deia.eus/baloncesto/2025/07/29/inscripcion-granada-acb-confirmada-9928720.html",
+        "date": "2025-07-29 06:41:39",
+        "sentiment_score": -0.5251888260245323
+    },
+    {
+        "title": "Guardiola descansará tras su etapa en el City",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2a1609b0-dd8b-4b1e-8e0f-4aa8e1d92a81_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "etapa",
+            "descansara",
+            "guardiola",
+            "city"
+        ],
+        "link": "https://www.deia.eus/futbol/2025/07/29/guardiola-descansara-etapa-city-9928698.html",
+        "date": "2025-07-29 06:38:19",
+        "sentiment_score": 0.19207608699798584
+    },
+    {
+        "title": "Collboni exige un plan de inversiones a Endesa tras los cortes de luz sufridos en Barcelona en plena ola de calor",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/07/11/quien-hace-barcelona/1003742673145_14858895_1706x960.jpg?contentId=1003742673145",
+        "tags": [
+            "información municipal",
+            "endesa",
+            "ayuntamiento de barcelona",
+            "jaume collboni"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20250729/collboni-exige-plan-inversiones-endesa-cortes-luz-sufridos-barcelona-plena-ola-calor/1003742677737_0.html",
+        "date": "2025-07-29 06:35:01",
+        "sentiment_score": -0.8430363573133945
+    },
+    {
+        "title": "Sufrió como nadie a Maradona en México 86, se convirtió en “villano” de Argentina y halló cómo hacer rentable la “humillación”",
+        "image_url": "https://www.infobae.com/resizer/v2/LX4NCYQDCVB3PAD4PG4S6SBO3Y.jpg?auth=23fd677d181b68a38afe30ae0a328ea2fbbde3c772f21f9dde14ea00bec609d0&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "mundial méxico 1986",
+            "selección de inglaterra",
+            "diego maradona",
+            "deportes-argentina",
+            "peter shilton",
+            "deportes-internacional",
+            "selección argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/29/sufrio-como-nadie-a-maradona-en-mexico-86-se-convirtio-en-villano-de-argentina-y-hallo-como-hacer-rentable-la-humillacion/",
+        "date": "2025-07-29 06:28:27",
+        "sentiment_score": 0.2440844476222992
+    },
+    {
+        "title": "Bolets Petràs, en la Boqueria, cierra temporalmente para replantear su oferta",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/561a0b40-9023-4857-a9cb-0bbca466c1b6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "mercados",
+            "qué comer hoy",
+            "gastronomía"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/20250729/bolets-petras-cierra-temporalmente-mercado-boqueria-barcelona-120124157",
+        "date": "2025-07-29 06:25:32",
+        "sentiment_score": -0.4566114768385887
+    },
+    {
+        "title": "Okupan un piso de Barcelona y la decisión que toman los vecinos para echarles todavía se comenta en el barrio",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/07/28/68870a059bf6d.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.cope.es/actualidad/sociedad/noticias/okupan-piso-barcelona-decision-toman-vecinos-echarles-todavia-comenta-barrio-20250729_3191447.html",
+        "date": "2025-07-29 06:25:17",
+        "sentiment_score": -0.19069476425647736
+    },
+    {
+        "title": "Estruch (Mossos): se seguirá \"presionando\" hasta que los ladrones marchen de Barcelona y Catalunya",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250729082338_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-estruch-mossos-seguira-presionando-ladrones-marchen-barcelona-catalunya-20250729082338.html",
+        "date": "2025-07-29 06:23:38",
+        "sentiment_score": -0.7306146584451199
+    },
+    {
+        "title": "BBVA SEGUROS, C.A. FORMULARIO MS-02 29 JUL 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753730504113.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "publi servicios - balances"
+        ],
+        "link": "https://2001online.com/balances/bbva-seguros-c-a-formulario-ms-02-29-jul-2025-2025729000",
+        "date": "2025-07-29 04:00:00",
+        "sentiment_score": 0.27423241175711155
+    },
+    {
+        "title": "Nueva ruta turística para visualizar el relámpago del Catatumbo: el espectáculo lumínico más grande del mundo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753752436152.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "turismo",
+            "relámpago del catatumbo zulia",
+            "relámpago del catatumbo",
+            "zulia"
+        ],
+        "link": "https://2001online.com/comunidad/nueva-ruta-turistica-para-visualizar-el-relampago-del-catatumbo-el-espectaculo-luminico-mas-grande-del-mundo-202572823450",
+        "date": "2025-07-29 03:45:00",
+        "sentiment_score": 0.025352470576763153
+    },
+    {
+        "title": "MLB: pelotero dominicano es suspendido tras verse involucrado en un escándalo por apuestas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753760000958.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cleveland guardians"
+        ],
+        "link": "https://2001online.com/deportes/mlb-pelotero-dominicano-es-suspendido-tras-verse-involucrado-en-un-escandalo-por-apuestas-202572823310",
+        "date": "2025-07-29 03:31:00",
+        "sentiment_score": -0.4101691525429487
+    },
+    {
+        "title": "Colombiana facilitaba el hackeo de cuentas bancarias venezolanas desde el exterior: fue capturada en Táchira",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753745828222.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ecuador",
+            "diario 2001",
+            "venezuela",
+            "colombia",
+            "justicia",
+            "occidente"
+        ],
+        "link": "https://2001online.com/sucesos/colombiana-facilitaba-el-hackeo-de-cuentas-bancarias-venezolanas-desde-el-exterior-fue-capturada-en-tachira-20257282340",
+        "date": "2025-07-29 03:04:00",
+        "sentiment_score": -0.4279770292341709
+    },
+    {
+        "title": "Así sobrevive tu autoestima a las redes sociales: claves determinantes para la salud emocional, según la psicología",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753758091329.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "mente",
+            "psicología del color",
+            "conducta",
+            "autoestima",
+            "redessociales",
+            "rrss"
+        ],
+        "link": "https://2001online.com/usa/internacionales/asi-sobrevive-tu-autoestima-a-las-redes-sociales-claves-determinantes-para-la-salud-emocional-segun-la-psicologia-20257282330",
+        "date": "2025-07-29 03:03:00",
+        "sentiment_score": 0.38942720368504524
+    },
+    {
+        "title": "Maduro envía nuevo mensaje a los alcaldes de oposición: Trabajemos juntos en un solo plan",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753756381150.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cne",
+            "diario 2001",
+            "venezuela",
+            "autoridades municipales"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-envia-nuevo-mensaje-a-los-alcaldes-de-oposicion-trabajemos-juntos-en-un-solo-plan-20257282330",
+        "date": "2025-07-29 03:03:00",
+        "sentiment_score": 0.5336055308580399
+    },
+    {
+        "title": "¿Quieres retrasar tu envejecimiento? Elimina ya de tu dieta estos 11 alimentos que perjudican tu organismo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753468779919.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/quieres-retrasar-tu-envejecimiento-elimina-ya-de-tu-dieta-estos-11-alimentos-que-perjudican-tu-organismo-20257282300",
+        "date": "2025-07-29 03:00:00",
+        "sentiment_score": 0.0772210955619812
+    },
+    {
+        "title": "Sacha Fitness revela todo su tratamiento facial: incluye botox y luz pulsada",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753757966027.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "sacha fitness",
+            "tratamiento facial"
+        ],
+        "link": "https://2001online.com/farandula/sacha-fitness-revela-todo-su-tratamiento-facial-incluye-botox-y-luz-pulsada--202572822560",
+        "date": "2025-07-29 02:56:00",
+        "sentiment_score": 0.27745258808135986
+    },
+    {
+        "title": "Tu hogar siempre con el mejor y más agradable olor: mezcla vinagre con las cáscaras de este vegetal para el mejor desodorizante casero",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753757222207.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/tu-hogar-siempre-con-el-mejor-y-mas-agradable-olor-mezcla-vinagre-con-las-cascaras-de-este-vegetal-para-el-mejor-desodorizante-casero-202572822500",
+        "date": "2025-07-29 02:50:00",
+        "sentiment_score": 0.6759891659021378
+    },
+    {
+        "title": "Muere exbeisbolista Ryne Sandberg tras luchar contra el cáncer: fue exaltado al Salón de la Fama en 2005",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753757683406.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "chicago cubs"
+        ],
+        "link": "https://2001online.com/deportes/muere-exbeisbolista-ryne-sandberg-tras-luchar-contra-el-cancer-fue-exaltado-al-salon-de-la-fama-en-2005-202572822460",
+        "date": "2025-07-29 02:46:00",
+        "sentiment_score": 0.16336576640605927
     }
 ];
