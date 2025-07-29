@@ -1,32 +1,5 @@
 export default [
     {
-        "title": "La contratación en transporte de mercancías cae un 2,7% en Ciudad Real pese al auge del sector en la región",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2024/12/EuropaPress_6165540_transporte_mercancias.jpg",
-        "tags": [
-            "plataforma logística",
-            "castilla-la mancha",
-            "transporte de mercancías",
-            "nacional",
-            "mercancías"
-        ],
-        "link": "https://www.lanzadigital.com/castilla-la-mancha/la-contratacion-en-transporte-de-mercancias-cae-un-27-en-ciudad-real-pese-al-auge-del-sector-en-la-region/",
-        "date": "2025-07-25 05:23:00",
-        "sentiment_score": -0.03680488467216492
-    },
-    {
-        "title": "Barcelona avanza hacia un parque de vivienda pública de 15.000 pisos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/afe62176-0d95-418d-ab17-b5e253550624_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "vivienda social",
-            "ayuntamiento de barcelona",
-            "vivienda"
-        ],
-        "link": "https://www.elperiodico.com/es/mas-barcelona/20250725/barcelona-avanza-parque-vivienda-publica-119986286",
-        "date": "2025-07-25 06:00:41",
-        "sentiment_score": 0.42979540675878525
-    },
-    {
         "title": "Una mujer deja su trabajo en EEUU, se divorcia y se va a Italia a disfrutar de su jubilación de casi 1.300 euros: “Me encanta poder ir al supermercado y no arruinarme”",
         "image_url": "https://www.infobae.com/resizer/v2/OYF27RVDRRBCNGAESMFNYRO3N4.jpg?auth=72d966de4ed13e0055540b2ca4779174554ecc440230713643517eedb5388432&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -41,32 +14,6 @@ export default [
         "link": "https://www.infobae.com/espana/2025/07/25/una-mujer-deja-su-trabajo-en-eeuu-se-divorcia-y-se-va-a-italia-a-disfrutar-de-su-jubilacion-de-1500-dolares-me-encanta-poder-ir-al-supermercado-y-no-arruinarme/",
         "date": "2025-07-25 16:46:25",
         "sentiment_score": -0.06879335641860962
-    },
-    {
-        "title": "Llegan a España los nuevos Samsung Galazy Z Fold7 y Flip7",
-        "image_url": "https://www.infobae.com/resizer/v2/3YPCXIYJZRAUTJPAZRUTE2VFQ4.jpg?auth=eb7694e3de5cd0619ccf22cb2e7da8f03aebe52ecbe0612c1d0d97c609fcbe72&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/07/25/llegan-a-espana-los-nuevos-samsung-galazy-z-fold7-y-flip7/",
-        "date": "2025-07-25 10:18:57",
-        "sentiment_score": 0.1430455520749092
-    },
-    {
-        "title": "Receta de escalivada en freidora de aire: cómo hacer este clásico a base de verduras sin encender el horno",
-        "image_url": "https://www.infobae.com/resizer/v2/4ST2QSK6OJHFZBZMZPQROXWMVA.jpg?auth=92a8daa3e313ba8d2b3fb95cac2c0833f63e3801aa8d1a9520665e501c64b936&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "freidora de aire",
-            "recetas españa",
-            "recetas saludables",
-            "españa-gastronomía",
-            "españa-noticias",
-            "recetas freidora de aire",
-            "recetas"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/24/receta-de-escalivada-en-freidora-de-aire-como-hacer-este-clasico-a-base-de-verduras-sin-encender-el-horno/",
-        "date": "2025-07-25 09:19:44",
-        "sentiment_score": 0.09820355474948883
     },
     {
         "title": "Von der Leyen y Trump acuerdan reunirse este domingo en Escocia",
@@ -3205,5 +3152,626 @@ export default [
         "link": "https://2001online.com/curiosidades/sorpresa-en-el-mundo-gamers-xbox-revela-antes-de-tiempo-la-fecha-de-mortal-kombat-legacy-kollection-202572811300",
         "date": "2025-07-28 15:30:00",
         "sentiment_score": 0.5835617538541555
+    },
+    {
+        "title": "España pide a Tailandia y Camboya que \"respeten por el bien de la paz\" el alto al fuego acordado",
+        "image_url": "https://www.infobae.com/resizer/v2/4DLV37FQKJFC5ADY3GRPVJIIOE.jpg?auth=30cfd75477329f281cfed034b81e7d2625def289e3aacbf89148b1667dcc4edd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/28/espana-pide-a-tailandia-y-camboya-que-respeten-por-el-bien-de-la-paz-el-alto-al-fuego-acordado/",
+        "date": "2025-07-28 22:19:46",
+        "sentiment_score": -0.1847979724407196
+    },
+    {
+        "title": "Exteriores pide a Tailandia y Camboya que \"respeten por el bien de la paz y el diálogo\" el alto al fuego acordado",
+        "image_url": "https://www.infobae.com/resizer/v2/XOARYKGSAFAL3OX6PY4K24QRLE.jpg?auth=de91485d7be7438a7901110e506edae2a913adb5fd65470e5201e2ee9aef6057&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/28/exteriores-pide-a-tailandia-y-camboya-que-respeten-por-el-bien-de-la-paz-y-el-dialogo-el-alto-al-fuego-acordado/",
+        "date": "2025-07-28 21:52:33",
+        "sentiment_score": -0.04259607195854187
+    },
+    {
+        "title": "EuroDreams: este es el número ganador del sorteo del 28 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/VYYEOIDRGZBUXAD2ZHGUCH6FIQ.jpg?auth=bc93399d032e4c1b30c0fd92b7a7e49ebd4d27a8f443c91cb4d8dc0e37cc9ef9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "eurodreams",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/28/eurodreams-este-es-el-numero-ganador-del-sorteo-del-28-de-julio/",
+        "date": "2025-07-28 21:19:42",
+        "sentiment_score": 0.09668233245611191
+    },
+    {
+        "title": "La Primitiva: este es el número ganador del sorteo del 28 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/5IMBCEZCY5FGVAES2VAZQ2IRLE.jpg?auth=94c01f4e3faa8d28057b313471960bd66294ea91fe0a8aa16b187e4c3fe2c30a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "primitiva"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/28/la-primitiva-este-es-el-numero-ganador-del-sorteo-del-28-de-julio/",
+        "date": "2025-07-28 21:15:35",
+        "sentiment_score": 0.4468725733458996
+    },
+    {
+        "title": "Resultados ganadores de Bonoloto de este 28 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/WHQYEW2OEZCXDFD3IHM2AB2IXA.jpg?auth=4b217ddbdae9f3e886553b6289c0a94a0143b9358b93b35e99630507d07c07a2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "bonoloto",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/28/resultados-ganadores-de-bonoloto-de-este-28-de-julio/",
+        "date": "2025-07-28 20:45:39",
+        "sentiment_score": 0.12112702801823616
+    },
+    {
+        "title": "La nueva película de Batman, acusada de “basura infecta hispanofóbica” tras el primer tráiler: “¿Por qué hay tanto español llorando?\"",
+        "image_url": "https://www.infobae.com/resizer/v2/JBVHIEOSMNF6JFWF3OZCA4EZLY.jpg?auth=564a7752d45dafaf2ef9efe40e5c891058d5254ef349214357b352ebeb35aa00&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "leyenda negra",
+            "cine",
+            "españa-noticias",
+            "batman",
+            "conquista española",
+            "leyenda negra de la conquista española",
+            "películas",
+            "bruce wayne",
+            "españa-cultura",
+            "cine españa",
+            "conquista de américa",
+            "warner bros"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/07/28/la-nueva-pelicula-de-batman-acusada-de-basura-infecta-hispanofobica-tras-el-primer-trailer-por-que-hay-tanto-espanol-llorando/",
+        "date": "2025-07-28 19:56:33",
+        "sentiment_score": 0.4801296852529049
+    },
+    {
+        "title": "Un niño que se divertía saltando desde un muelle es mordido por un tiburón: las autoridades investigan por qué se bañaban en una zona prohibida",
+        "image_url": "https://www.infobae.com/resizer/v2/UNLJREQY2ZB4NOODY2TCTX2WJE.jpg?auth=cd605863f24baf8562ae3bc62ea712d4a25ed187e7819cd493b8f5e6cd50f650&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "triburones",
+            "francia",
+            "españa-noticias",
+            "sucesos",
+            "océano",
+            "sucesos españa",
+            "polinesia francesa",
+            "animales",
+            "españa-sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/28/un-nino-que-se-divertia-saltando-desde-un-muelle-es-mordido-por-un-tiburon-las-autoridades-investigan-por-que-se-banaban-en-una-zona-prohibida/",
+        "date": "2025-07-28 19:53:14",
+        "sentiment_score": -0.8123729769140482
+    },
+    {
+        "title": "Un doctor en antropología económica habla abiertamente sobre los okupas: “Afectan al 0,057% de las viviendas”",
+        "image_url": "https://www.infobae.com/resizer/v2/C2SHIZKVRJEPRHGVMJSBWLB7JQ.jpg?auth=97430bf20ee072029339fa7ef07b17190d36cc9cae66da5688a279faff1e7ba9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "okupas españa",
+            "okupación",
+            "redes sociales",
+            "tiktok españa",
+            "tiktok",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/28/un-doctor-en-antropologia-economica-habla-abiertamente-sobre-los-okupas-afectan-al-0057-de-las-viviendas/",
+        "date": "2025-07-28 19:51:43",
+        "sentiment_score": -0.03146335482597351
+    },
+    {
+        "title": "Un padre deshereda a sus dos hijos por abandonarle antes de morir y la Justicia le da la razón: solo le llamaban para pedirle dinero y “le ignoraron totalmente”",
+        "image_url": "https://www.infobae.com/resizer/v2/5YNJTKAXBNGFRN2IUM2SX74OOQ.jpg?auth=6afd66122c2a0f83e40bda62b9383b06c752835bcb1e292de33bf8342647f4eb&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "castilla y león",
+            "ávila",
+            "herencias españa",
+            "españa-noticias",
+            "justicia",
+            "tribunales",
+            "testamento",
+            "herencias",
+            "justicia españa",
+            "juicios",
+            "españa-nacional",
+            "sentencias españa",
+            "tribunales españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/28/un-padre-deshereda-a-sus-dos-hijos-por-abandonarle-antes-de-morir-y-la-justicia-le-da-la-razon-solo-le-llamaban-para-pedirle-dinero-y-le-ignoraron-totalmente/",
+        "date": "2025-07-28 19:39:39",
+        "sentiment_score": -0.12553942203521729
+    },
+    {
+        "title": "Una instructora de surf pierde el brazo atropellada por un tren y lo encuentran “a varios metros”: “Pasaron tres segundos”",
+        "image_url": "https://www.infobae.com/resizer/v2/F5MC47OEUFHVXAHB53WHIXVBFA.jpg?auth=e5c569f8effefe702d69198907d53e6f5bcd2d90eac0016920b3caea3683c448&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "hospitales",
+            "españa-noticias",
+            "estados unidos",
+            "sucesos",
+            "atropellos",
+            "sucesos españa",
+            "españa-sociedad",
+            "trenes",
+            "médicos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/28/una-instructora-de-surf-pierde-el-brazo-atropellada-por-un-tren-y-lo-encuentran-a-varios-metros-pasaron-tres-segundos/",
+        "date": "2025-07-28 19:39:19",
+        "sentiment_score": 0.6726432889699936
+    },
+    {
+        "title": "Bienvenidos al infierno del Cecot: testimonio del venezolano maquillador tras su deportación",
+        "image_url": "https://elclarinweb.com/2025/07/28/testimonio-del-venezolano-maquillador-deportado/%3Cimg",
+        "tags": [
+            "actualidad",
+            "migración",
+            "sucesos"
+        ],
+        "link": "https://elclarinweb.com/2025/07/28/testimonio-del-venezolano-maquillador-deportado/",
+        "date": "2025-07-28 18:20:11",
+        "sentiment_score": -0.755955945700407
+    },
+    {
+        "title": "El país idílico del presidente del Gobierno: turismo, seguridad y medallas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/07/28/pedrosanchezandando-RpQdEb4LunsRunUnZBXDv8I-1200x840@diario_abc.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/pais-idilico-presidente-gobierno-turismo-seguridad-medallas-20250728203857-nt.html",
+        "date": "2025-07-28 18:38:58",
+        "sentiment_score": 0.0422053337097168
+    },
+    {
+        "title": "La UCO apunta a que “gran parte” de las supuestas mordidas que llegaban al despacho de Montoro iban a sus socios “a través de transferencias directas”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NYB7H6DAKVDBPLS6Y2NL66KXVQ.jpg?auth=5dfbc4a3f45fd64a4747d5ae4a7b8bde74bf33b00085c3914de37a0aa41b5275&width=1200",
+        "tags": [
+            "caso montoro",
+            "gas",
+            "uco",
+            "cristóbal montoro",
+            "corrupción",
+            "empresas",
+            "españa",
+            "asesoramiento financiero",
+            "hacienda pública"
+        ],
+        "link": "https://elpais.com/espana/2025-07-28/la-uco-apunta-a-que-parte-de-las-supuestas-mordidas-que-llegaban-al-despacho-de-montoro-iban-a-sus-socios-a-traves-de-transferencias-directas.html",
+        "date": "2025-07-28 20:12:20",
+        "sentiment_score": -0.09945584088563919
+    },
+    {
+        "title": "El Govern retira la campaña institucional del Plan Catalunya lidera tras el informe del CAC",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YA475EJZGQTGGDDJTNPD6M2GMM.jpg?auth=0e2a199ebddc2fe2bd6c2d95ef853bee87d6b0b1f5843b5ebe133de5f98bd7e8&width=1200",
+        "tags": [
+            "economía",
+            "consejo audiovisual cataluña",
+            "cataluña",
+            "govern cataluña",
+            "salvador illa"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-28/el-govern-retira-la-campana-institucional-del-plan-catalunya-lidera-tras-el-informe-del-cac.html",
+        "date": "2025-07-28 19:26:26",
+        "sentiment_score": 0.14803365990519524
+    },
+    {
+        "title": "El punto fatídico de España, el final de la Eurocopa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TM4XGHHH3BH7PHTNROVFLZLBAY.jpg?auth=7958d4efe962eadcbadf762bdf9f3b1c402cbb264c4b7b97022dc181d40acfc6&width=1200",
+        "tags": [
+            "eurocopa femenina 2025",
+            "eurocopa femenina",
+            "seleccion española fútbol femenino",
+            "selección inglesa fútbol femenino",
+            "entrenadores",
+            "deportes",
+            "selección española",
+            "montse tomé",
+            "fútbol",
+            "futbolistas",
+            "competiciones"
+        ],
+        "link": "https://elpais.com/deportes/eurocopa-futbol-femenino/2025-07-28/el-punto-fatidico-de-espana-el-final-de-la-eurocopa.html",
+        "date": "2025-07-28 18:53:03",
+        "sentiment_score": -0.21165216714143753
+    },
+    {
+        "title": "El PP elimina la vicesecretaría de Noelia Núñez y encarga el área de inmigración al inventor de la marca Vox",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6SKAKDCYLJG77LEL5PYSTRMCKM.jpg?auth=30da8919b8ab5e2b9300877ea9805938bda79b0dc509a6ab89da9d3a54fd614d&width=1200",
+        "tags": [
+            "noelia núñez",
+            "alberto núñez feijóo",
+            "nombramientos",
+            "partidos políticos",
+            "inmigración",
+            "vox",
+            "pp",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-28/el-pp-elimina-la-vicesecretaria-de-noelia-nunez-y-encarga-el-area-de-inmigracion-al-inventor-de-la-marca-vox.html",
+        "date": "2025-07-28 17:58:13",
+        "sentiment_score": -0.04919816553592682
+    },
+    {
+        "title": "La IA impulsa el nuevo ecosistema emprendedor en España",
+        "image_url": "https://revistabyte.es/wp-content/uploads/2020/12/implementar-mal-la-inteligencia-artificial-y-el-machine-learning-1024x648.jpg",
+        "tags": [
+            "ia",
+            "caixabank",
+            "actualidad ti",
+            "ecosistema emprendedor",
+            "españa"
+        ],
+        "link": "https://revistabyte.es/actualidad-it/ia-ecosistema-emprendedor/",
+        "date": "2025-07-28 22:05:00",
+        "sentiment_score": 0.6630570255219936
+    },
+    {
+        "title": "Un plan pionero entre meriendas, fútbol y escapadas a la playa para integrar a los menas: \"El prejuicio acaba cuando les pones nombre y cara; todo lo que necesitan, como nosotros, es que alguien les tenga en cuenta\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/92042cd9e05d2a24a87846b71ad52681/crop/4x0/1000x996/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529670346812.jpg",
+        "tags": [
+            "solidaridad",
+            "artículos virginia gómez",
+            "madrid",
+            "sociedad"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/07/29/68874b3421efa0572c8b4590.html",
+        "date": "2025-07-28 22:03:03",
+        "sentiment_score": 0.5208501368761063
+    },
+    {
+        "title": "El Granada afronta al menos un amistoso más con incógnitas",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/07/29/luca-k6AE-U2302503645963ThD-1200x840@Ideal.jpg",
+        "tags": [
+            "chiclana de la frontera",
+            "martin hongla",
+            "san pedro del pinatar",
+            "granada cf",
+            "fran escribá",
+            "r.c. deportivo de la coruña"
+        ],
+        "link": "https://www.ideal.es/granadacf/granada-afronta-amistoso-incognitas-20250729235619-nt.html",
+        "date": "2025-07-28 21:56:19",
+        "sentiment_score": -0.09554288536310196
+    },
+    {
+        "title": "El Real Oviedo acapara protagonismo en el homenaje a los equipos ascendidos",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/07/28/107195137-kef--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "liga de fútbol profesional",
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-acapara-protagonismo-homenaje-equipos-ascendidos-20250729231218-nt.html",
+        "date": "2025-07-28 21:24:39",
+        "sentiment_score": 0.6380657628178596
+    },
+    {
+        "title": "Bellido asume nuevas responsabilidades en la dirección nacional del PP como secretario de Grupos Institucionales",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/07/28/6887e8a347c38.jpeg",
+        "tags": [
+            "córdoba"
+        ],
+        "link": "https://www.cope.es/emisoras/andalucia/cordoba-provincia/cordoba/noticias/bellido-asume-nuevas-responsabilidades-direccion-nacional-pp-secretario-grupos-institucionales-20250728_3191997.html",
+        "date": "2025-07-28 21:16:28",
+        "sentiment_score": 0.04616826772689819
+    },
+    {
+        "title": "Las obras que tramita Almeida bajo un mercado histórico de Madrid afectan a la muralla árabe pero ignoran su presencia",
+        "image_url": "https://static.eldiario.es/clip/465ddb4f-c47f-427f-8b03-ee68bc803c62_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tramita",
+            "presencia",
+            "almeida",
+            "arabe",
+            "mercado",
+            "muralla",
+            "afectan",
+            "obras",
+            "ignoran",
+            "historico",
+            "madrid"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/obras-tramita-almeida-mercado-historico-madrid-afectan-muralla-arabe-ignoran-presencia_1_12495975.html",
+        "date": "2025-07-28 20:59:37",
+        "sentiment_score": -0.05669236183166504
+    },
+    {
+        "title": "Darío Ramírez ficha por el Real Madrid C",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/08f9c9ad-10e3-4296-a2a7-4730dae2b057_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ramirez",
+            "dario",
+            "ficha",
+            "real",
+            "madrid"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/07/28/dario-ramirez-ficha-real-madrid-9928346.html",
+        "date": "2025-07-28 20:57:35",
+        "sentiment_score": 0.2099228873848915
+    },
+    {
+        "title": "La doble vida sin vacaciones de Álvaro Benito: \"Entre el fútbol y la música, este año he llegado a mi límite\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/582677f48d0e8cc81831412c418484d3/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/28/17537140283048.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid",
+            "cultura",
+            "televisión",
+            "música"
+        ],
+        "link": "https://www.elmundo.es/papel/lideres/2025/07/28/68873c31fc6c83f14a8b45a9.html",
+        "date": "2025-07-28 20:49:23",
+        "sentiment_score": 0.38795899599790573
+    },
+    {
+        "title": "Restablecido el AVE entre Madrid y Andalucía tras un incendio",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/f80bc7aa-c7cc-474c-9c29a2e28eceacc4.jpg",
+        "tags": [
+            "ave",
+            "incendios",
+            "puertollano",
+            "alta velocidad",
+            "adif",
+            "brazatortas",
+            "andalucía",
+            "ciudad real",
+            "madrid"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z7486ac16-cfcf-495d-93d73dd10ab21545/202507/restablecido-el-ave-entre-madrid-y-andalucia-tras-un-incendio",
+        "date": "2025-07-28 20:41:46",
+        "sentiment_score": -0.837370965629816
+    },
+    {
+        "title": "¿Quién es Dro Fernández, la perla gallega de la Masía que ha seducido a Hansi Flick?",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/28/culemania/1003742677580_14940645_1706x960.jpg?contentId=1003742677580",
+        "tags": [
+            "hansi flick",
+            "la masía",
+            "secciones",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20250728/dro-fernandez-gallega-masia-seducido-hansi-flick/1003742677562_0.html",
+        "date": "2025-07-28 22:11:47",
+        "sentiment_score": 0.8477742895483971
+    },
+    {
+        "title": "Laporta pasa de las presiones de la Euroliga para construir el nuevo Palau Blaugrana",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/05/02/culemania/palco/1003742654388_14524859_1706x960.jpg?contentId=1003742654388",
+        "tags": [
+            "palau blaugrana",
+            "joan laporta",
+            "palco",
+            "espai barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250728/laporta-presiones-euroliga-construir-nuevo-palau-blaugrana/1003742677604_0.html",
+        "date": "2025-07-28 22:11:45",
+        "sentiment_score": -0.8690014854073524
+    },
+    {
+        "title": "El estricto código interno de Hansi Flick con el primer equipo del Barça: cinco puntos innegociables",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/28/culemania/primer-equipo/1003742677723_14943669_1706x960.jpg?contentId=1003742677723",
+        "tags": [
+            "héctor fort",
+            "lamine yamal",
+            "primer equipo",
+            "hansi flick",
+            "barça",
+            "pretemporada del barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250728/estricto-codigo-interno-hansi-flick-barca-innegociables/1003742677721_0.html",
+        "date": "2025-07-28 22:11:43",
+        "sentiment_score": 0.7566243689507246
+    },
+    {
+        "title": "Laporta y los capitanes del Barça: una relación marcada por el desgaste",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/01/11/culemania/primer-equipo/824177665_14943660_1706x960.jpg?contentId=824177665",
+        "tags": [
+            "sergio busquets",
+            "primer equipo",
+            "ter stegen",
+            "frenkie de jong",
+            "joan laporta",
+            "ronald araujo",
+            "barça",
+            "gerard piqué"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250728/laporta-capitanes-barca-relacion-marcada-desgaste/1003742677722_0.html",
+        "date": "2025-07-28 22:11:41",
+        "sentiment_score": -0.0909242033958435
+    },
+    {
+        "title": "Imponen castigos brutales a los soldados rusos que ya no quieren luchar por Putin",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/07/28/castigos-brutales-soldados-rusos-putin-trax/",
+        "date": "2025-07-28 22:03:44",
+        "sentiment_score": -0.9006184041500092
+    },
+    {
+        "title": "Cierra el Seminario de Barcelona tras cuatro siglos de historia",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/28/vida/1003742677714_14943479_1706x960.jpg?contentId=1003742677714",
+        "tags": [
+            "juan josé omella",
+            "iglesia católica",
+            "vida",
+            "religión"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20250728/cierra-seminario-barcelona-siglos-historia/1003742677583_0.html",
+        "date": "2025-07-28 22:00:00",
+        "sentiment_score": -0.2363676279783249
+    },
+    {
+        "title": "Palatchi da la espalda a la OPA al Sabadell y reduce al mínimo su cartera en el BBVA",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2015/01/11/business/business_2509968_588738_1706x960.jpg?contentId=2509968",
+        "tags": [
+            "banco sabadell",
+            "banca",
+            "ricos",
+            "sicav",
+            "business",
+            "bbva",
+            "opa"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250728/palatchi-espalda-opa-sabadell-reduce-cartera-bbva/1003742677715_0.html",
+        "date": "2025-07-28 22:00:00",
+        "sentiment_score": 0.21756407618522644
+    },
+    {
+        "title": "No, no vivimos en un 'true crime'",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/04/21/pensamiento/1003742650655_14452004_1706x960.jpg?contentId=1003742650655",
+        "tags": [
+            "zona franca",
+            "fake news",
+            "cataluña",
+            "crimen",
+            "series de televisión"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20250728/no-no-vivimos-true-crime/1003742677678_13.html",
+        "date": "2025-07-28 22:00:00",
+        "sentiment_score": -0.7438519718125463
+    },
+    {
+        "title": "Hermógenes Patón: profesor, escritor y concursante en programas de televisión",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/07/29/HERMOGENES-kvdF-U2302500631034scC-1200x840@Ideal.jpg",
+        "tags": [
+            "concursos",
+            "la chana",
+            "literatura",
+            "granada (provincia)",
+            "granada"
+        ],
+        "link": "https://www.ideal.es/granada/hermogenes-paton-profesor-escritor-concursante-programas-television-20250729234513-nt.html",
+        "date": "2025-07-28 21:45:14",
+        "sentiment_score": 0.2667422331869602
+    },
+    {
+        "title": "Precio del dólar y euro BCV para el 29 de julio: así se cotizarán las divisas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753740586363.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bcv",
+            "precio bcv venezuela",
+            "dinero",
+            "dólar bcv"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-29-de-julio-asi-se-cotizaran-las-divisas-202572818110",
+        "date": "2025-07-28 22:11:00",
+        "sentiment_score": 0.008051220327615738
+    },
+    {
+        "title": "Jorge Rodríguez: El partido de Alberto Galíndez en Cojedes se convierte en la tercera fuerza a nivel nacional",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753735133605.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "elecciones municipales 27 de julio",
+            "venezuela",
+            "diario 2001",
+            "oposición"
+        ],
+        "link": "https://2001online.com/nacionales/jorge-rodriguez-el-partido-de-alberto-galindez-en-cojedes-se-convierte-en-la-tercera-fuerza-a-nivel-nacional-20257281850",
+        "date": "2025-07-28 22:05:00",
+        "sentiment_score": 0.07700694352388382
+    },
+    {
+        "title": "Capturados por aplicar pantallazos en comercios de Propatria: están a la orden de la Fiscalía",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753739678949.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "pantallazos falsos",
+            "estafador",
+            "estafas",
+            "cicpc",
+            "fiscalia"
+        ],
+        "link": "https://2001online.com/sucesos/capturados-por-aplicar-pantallazos-en-comercios-de-propatria-estan-a-la-orden-de-la-fiscalia-20257281730",
+        "date": "2025-07-28 22:04:00",
+        "sentiment_score": -0.043131858110427856
+    },
+    {
+        "title": "Si quieres recordar este contenido no comas más estos alimentos: Universidad de Harvard revela los peores enemigos de tu memoria",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753636216875.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/si-quieres-recordar-este-contenido-no-comas-mas-estos-alimentos-universidad-de-harvard-revela-los-peores-enemigos-de-tu-memoria-20257281800",
+        "date": "2025-07-28 22:00:00",
+        "sentiment_score": 0.5505945198237896
+    },
+    {
+        "title": "Declaran a Álvaro Uribe culpable de soborno: su abogado asegura que no irá a la cárcel",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753739388976.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "expresidente",
+            "justicia",
+            "diario 2001",
+            "acusaciones",
+            "delitos"
+        ],
+        "link": "https://2001online.com/internacionales/declaran-a-alvaro-uribe-culpable-de-soborno-su-abogado-asegura-que-no-ira-a-la-carcel-202572817550",
+        "date": "2025-07-28 21:55:00",
+        "sentiment_score": -0.04620544984936714
+    },
+    {
+        "title": "MLB: Ronald Acuña Jr. dirá presente en el juego con mayor público en la historia de la ronda regular",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753739602889.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bravos de atlanta"
+        ],
+        "link": "https://2001online.com/deportes/mlb-ronald-acuna-jr-dira-presente-en-el-juego-con-mayor-publico-en-la-historia-de-la-ronda-regular-202572817370",
+        "date": "2025-07-28 21:37:00",
+        "sentiment_score": 0.006891906261444092
+    },
+    {
+        "title": "Ninel Conde entra a La Casa de los Famosos México con advertencia firme: Mi tranquilidad no tiene precio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753738175595.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "la casa de los famos méxico",
+            "ninel conde"
+        ],
+        "link": "https://2001online.com/farandula/ninel-conde-entra-a-la-casa-de-los-famosos-mexico-con-advertencia-firme-mi-tranquilidad-no-tiene-precio-202572817270",
+        "date": "2025-07-28 21:27:00",
+        "sentiment_score": 0.09315373003482819
+    },
+    {
+        "title": "Demandan al gobierno de Trump: 20 fiscales buscan frenar la entrega de datos de beneficiarios de los cupones SNAP",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753737829647.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "fiscales",
+            "snap",
+            "trump",
+            "demanda",
+            "beneficiarios",
+            "cupones de alimentos",
+            "inmigrantes"
+        ],
+        "link": "https://2001online.com/usa/internacionales/demandan-al-gobierno-de-trump-20-fiscales-buscan-frenar-la-entrega-de-datos-de-beneficiarios-de-los-cupones-snap-202572817100",
+        "date": "2025-07-28 21:10:00",
+        "sentiment_score": -0.7882261853665113
+    },
+    {
+        "title": "ABA Ultra de Cantv está en promoción: ofrece hasta 20% de descuento en sus planes",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753739376213.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "aba cantv",
+            "aba ultra"
+        ],
+        "link": "https://2001online.com/servicios/aba-ultra-de-cantv-esta-en-promocion-ofrece-hasta-20-de-descuento-en-sus-planes-20257281790",
+        "date": "2025-07-28 21:09:00",
+        "sentiment_score": 0.09962590225040913
+    },
+    {
+        "title": "Ingreso Especial de Vacaciones: ¿quiénes han cobrado este bono especial por el Sistema Patria?",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753734836642.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "sistema patria",
+            "bonos",
+            "patria",
+            "dinero"
+        ],
+        "link": "https://2001online.com/servicios/ingreso-especial-de-vacaciones-quienes-han-cobrado-este-bono-especial-por-el-sistema-patria--20257281730",
+        "date": "2025-07-28 21:03:00",
+        "sentiment_score": -0.0148540660738945
     }
 ];
