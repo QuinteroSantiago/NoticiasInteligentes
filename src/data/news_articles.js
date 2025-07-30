@@ -1,108 +1,5 @@
 export default [
     {
-        "title": "El Hospital Reina Sofía instalará 3.500 paneles solares para autoabastecerse y dar sombra al parking principal",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/07/26/aparcamiento-reina-sofia-RJED1EK1aIHsLBK9F4mJnyK-1200x840@diario_abc.jpg",
-        "tags": [
-            "córdoba",
-            "españa",
-            "andalucía"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/hospital-reina-sofia-instalara-3500-paneles-solares-20250726164842-nts.html",
-        "date": "2025-07-26 06:17:53",
-        "sentiment_score": -0.03749606013298035
-    },
-    {
-        "title": "La economía circular del olivar: de aceites a campos de fútbol con huesos de aceituna",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/72967607-0895-4335-afe3-68e697d9642d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "economía",
-            "aceite de oliva",
-            "combustible",
-            "españa",
-            "fútbol",
-            "cosmética",
-            "campos"
-        ],
-        "link": "https://www.diariodeibiza.es/economia/2025/07/26/economia-circular-olivar-aceites-campos-120077147.html",
-        "date": "2025-07-26 06:29:40",
-        "sentiment_score": 0.20858365297317505
-    },
-    {
-        "title": "El 'boom' inmobiliario contagia las subidas de precios a la 'España fresca'",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92926e1b-75a9-49af-ae69-72d48d9bbf3e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "galicia",
-            "mercado inmobiliario",
-            "sector inmobiliario",
-            "españa",
-            "castilla y león",
-            "cantabria",
-            "país vasco",
-            "pisos",
-            "asturias",
-            "navarra",
-            "vivienda"
-        ],
-        "link": "https://www.diariodemallorca.es/economia/2025/07/26/boom-inmobiliario-precios-vivienda-espana-fresca-120077035.html",
-        "date": "2025-07-26 06:21:52",
-        "sentiment_score": 0.1744699329137802
-    },
-    {
-        "title": "Alfonso Álvarez (Cellnex): \"Habrá más fusiones como la de Orange y MásMóvil. Nos viene mejor que haya menos operadores pero más fuertes\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/98825261-0b56-4f73-aa44-0c2ebc1b4ba5_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "infraestructuras",
-            "españa",
-            "crecimiento",
-            "seguridad",
-            "economía",
-            "orange",
-            "5g"
-        ],
-        "link": "https://www.diariodemallorca.es/economia/2025/07/26/alfonso-alvarez-cellnex-habra-fusiones-120076977.html",
-        "date": "2025-07-26 06:19:38",
-        "sentiment_score": 0.19692790508270264
-    },
-    {
-        "title": "Una directiva financiera para reflotar a Pronovias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/de75c771-65a0-4b30-b1b4-406542c088ad_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "empresas",
-            "moda",
-            "ceo",
-            "pronovias"
-        ],
-        "link": "https://www.diariodeibiza.es/economia/2025/07/26/quien-es-cristina-alba-ochoa-directiva-universo-financiero-reflotar-pronovias-120076910.html",
-        "date": "2025-07-26 06:12:11",
-        "sentiment_score": 0.3137492388486862
-    },
-    {
-        "title": "Los expertos descartan una burbuja en el sector inmobiliario a corto plazo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b283d7fc-55e2-4ac1-ab7a-fbfb4d0c245b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "burbuja",
-            "expertos",
-            "descartan",
-            "inmobiliario",
-            "sector"
-        ],
-        "link": "https://www.deia.eus/economia/2025/07/26/expertos-descartan-burbuja-sector-inmobiliario-9921382.html",
-        "date": "2025-07-26 06:00:18",
-        "sentiment_score": 0.6430481225252151
-    },
-    {
-        "title": "Renfe detecta fisuras en los rodales de un tren Avril de la línea Madrid-Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fbfcd53b-b107-4445-9cd3-5a863b4186e5_16-9-discover-aspect-ratio_default_1391172.jpg",
-        "tags": [
-            "trenes",
-            "renfe",
-            "avlo"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20250726/renfe-suspende-venta-billetes-avlo-120068412",
-        "date": "2025-07-26 05:48:46",
-        "sentiment_score": -0.9254994923248887
-    },
-    {
         "title": "Milei anuncia baja de impuestos a exportaciones agropecuarias y veto a leyes opositoras",
         "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
         "tags": [
@@ -151,54 +48,6 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2025/07/26/pogacar-esta-mas-o-menos-hecho-pero-todavia-no-puedo-decirlo/",
         "date": "2025-07-26 15:15:43",
         "sentiment_score": -0.031183116137981415
-    },
-    {
-        "title": "El supermercado que triunfa en redes sociales con la mayoría de productos a menos de 1 euro: a 40 minutos del centro de Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/OZDJG5RHM5CF5E34DOFEWHJJNU.png?auth=34a80be683ed450632143e32ec4e41ce285272448fbb63c2b904260aebf92682&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "madrid",
-            "españa-sociedad",
-            "supermercados",
-            "tiktok españa",
-            "comunidad de madrid",
-            "supermercados españa",
-            "españa-noticias",
-            "redes sociales",
-            "tiktok"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/26/el-supermercado-que-triunfa-en-redes-sociales-con-la-mayoria-de-productos-a-menos-de-1-euro-a-40-minutos-del-centro-de-madrid/",
-        "date": "2025-07-26 10:00:53",
-        "sentiment_score": 0.14890354871749878
-    },
-    {
-        "title": "Carmen Weiler concentra las opciones del equipo español",
-        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/26/carmen-weiler-concentra-las-opciones-del-equipo-espanol/",
-        "date": "2025-07-26 09:16:26",
-        "sentiment_score": 0.15197787433862686
-    },
-    {
-        "title": "El Senado gasta más de 100.000 euros en el mantenimiento de los sistemas de votación y los micrófonos del hemiciclo",
-        "image_url": "https://www.infobae.com/resizer/v2/WIFTFU2FA5D4XLQOA7UNYYPE3M.jpg?auth=b4b5abdfea838af3679beefcebd64734f37f683067101bf45aa9714e8e6152db&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/26/el-senado-gasta-mas-de-100000-euros-en-el-mantenimiento-de-los-sistemas-de-votacion-y-los-microfonos-del-hemiciclo/",
-        "date": "2025-07-26 08:52:30",
-        "sentiment_score": -0.38156528025865555
-    },
-    {
-        "title": "Akira Cómics se convierte en la primera librería del mundo con dos Premios Eisner",
-        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/26/akira-comics-se-convierte-en-la-primera-libreria-del-mundo-con-dos-premios-eisner/",
-        "date": "2025-07-26 08:17:01",
-        "sentiment_score": 0.6013254821300507
     },
     {
         "title": "Aumentan a 33 los muertos por enfrentamientos entre Tailandia y Camboya, que llamó a un alto el fuego",
@@ -307,39 +156,6 @@ export default [
         "link": "https://www.noticiasdenavarra.com/pamplona/2025/07/26/pamplona-sanfermines-9913830.html",
         "date": "2025-07-26 10:25:55",
         "sentiment_score": 0.559784822165966
-    },
-    {
-        "title": "La Comunitat Valenciana recibirá 14.012 millones por las entregas a cuenta en 2025, un 10,43 % más",
-        "image_url": "https://s1.elespanol.com/2025/04/03/actualidad/1003743698355_254464189_1706x960.jpg?contentId=1003743698355",
-        "tags": [
-            "comunidad valenciana",
-            "financiación autonómica",
-            "economía"
-        ],
-        "link": "https://www.elespanol.com/valencia/economia/20250726/cvalenciana-recibira-millones-entregas-cuenta/1003743863689_0.html",
-        "date": "2025-07-26 09:30:39",
-        "sentiment_score": 0.4695803001523018
-    },
-    {
-        "title": "ProFuturo llegó en 2024 a 3.609 escuelas de 30 países con un alcance en la formación de 262.000 docentes y 941.785 niños",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250726111101_120.jpg",
-        "tags": [
-            "infancia",
-            "ep social"
-        ],
-        "link": "https://www.europapress.es/epsocial/infancia/noticia-profuturo-llego-2024-3609-escuelas-30-paises-alcance-formacion-262000-docentes-941785-ninos-20250726111101.html",
-        "date": "2025-07-26 09:11:01",
-        "sentiment_score": 0.5657336954027414
-    },
-    {
-        "title": "Las autonomías recibirán este mes casi 10.000 millones en atrasos por entregas a cuenta",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/c/a/0/autonomias.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13480591/07/25/las-autonomias-recibiran-este-mes-casi-10000-millones-en-atrasos-por-entregas-a-cuenta.html",
-        "date": "2025-07-26 07:15:34",
-        "sentiment_score": 0.16213061660528183
     },
     {
         "title": "La justicia admite la primera demanda por el incumplimiento de los derechos fundamentales de la Ley ELA",
@@ -5150,5 +4966,469 @@ export default [
         "link": "https://2001online.com/migracion/interceptan-embarcacion-con-16-venezolanos-rumbo-a-aruba-hay-dos-detenidos-202572911140",
         "date": "2025-07-29 15:14:00",
         "sentiment_score": 0.039853595197200775
+    },
+    {
+        "title": "Isaac del Toro no estará en la Vuelta de España, esto sigue para el joven ciclista",
+        "image_url": "https://www.infobae.com/resizer/v2/DILAH23ZD5HWTCTTMRI4MOC3AU.jpeg?auth=24c61102badde83439d910cf31b99604d85df0fd00c657f3a162b32175e6dcbc&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "isaac del toro",
+            "mexico-deportes",
+            "la vuelta a españa",
+            "uae emirates team",
+            "ciclismo"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/07/29/isaac-del-toro-no-estara-en-la-vuelta-de-espana-esto-sigue-para-el-joven-ciclista/",
+        "date": "2025-07-29 22:15:07",
+        "sentiment_score": 0.7116382401436567
+    },
+    {
+        "title": "Un incendio forestal declarado en Las Hurdes (Cáceres) obliga a evacuar a más de medio centenar de personas: activada la situación operativa 2 del plan Infocaex",
+        "image_url": "https://www.infobae.com/resizer/v2/IHBNRLNYR5CNRGYZOWIOLEGN2I.jpg?auth=4ff9e4a238d78e346cacf07afa05211f9bd34e06538700f65f83c9f9829f7d56&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "plan infoca",
+            "caceres",
+            "incendios",
+            "incendio forestal",
+            "caceres espana",
+            "españa-nacional"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/29/un-incendio-forestal-declarado-en-las-hurdes-caceres-obliga-a-evacuar-a-mas-de-medio-centenar-de-personas-activada-la-situacion-operativa-2-del-plan-infocaex/",
+        "date": "2025-07-29 21:25:25",
+        "sentiment_score": -0.3527708537876606
+    },
+    {
+        "title": "Sánchez rehúsa hablar de la cogestión de los aeropuertos de Baleares y solo ofrece reforzar la coordinación",
+        "image_url": "https://www.infobae.com/resizer/v2/SMULPUW35BACVCXTSJ2ZS2PYOY.jpg?auth=f0bfd0da54defa0f164fd37378cfc1a6fa75f56732dc320a8533103783ba460c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/29/sanchez-rehusa-hablar-de-la-cogestion-de-los-aeropuertos-de-baleares-y-solo-ofrece-reforzar-la-coordinacion/",
+        "date": "2025-07-29 21:24:05",
+        "sentiment_score": -0.09249186515808105
+    },
+    {
+        "title": "Tellado (PP): \"Sánchez es un muerto viviente de la política española, que no acepta la realidad que está viviendo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/MXLWOMLTN5GOZHLGD6B5TLSFD4.jpg?auth=479344b9cd0299866627d32c92c46f4ab951b355e2a8886e1faae1a0640b3790&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/29/tellado-pp-sanchez-es-un-muerto-viviente-de-la-politica-espanola-que-no-acepta-la-realidad-que-esta-viviendo/",
+        "date": "2025-07-29 21:23:47",
+        "sentiment_score": -0.9141390579752624
+    },
+    {
+        "title": "Sánchez asegura que \"no habrá crisis de Gobierno\" pero emplaza a volver a preguntarle en el futuro",
+        "image_url": "https://www.infobae.com/resizer/v2/VGV4PYC3ZZDPNF23KNQTDDJOLY.jpg?auth=d744e61ba00d09135f8f9e10142fa33484f2861233ecb4089373e91ff26f101c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/29/sanchez-asegura-que-no-habra-crisis-de-gobierno-pero-emplaza-a-volver-a-preguntarle-en-el-futuro/",
+        "date": "2025-07-29 21:23:30",
+        "sentiment_score": 0.07426631450653076
+    },
+    {
+        "title": "El Gobierno aprueba un acuerdo de casi 40 millones para la compra de unidades para el suministro de combustible",
+        "image_url": "https://www.infobae.com/resizer/v2/ZAOXPZ7WERFGDHRDXQF2TJRQOM.jpg?auth=cc9e0ca3332d47541bd1decb38c57680efeadc7939ce4f3705668ed8c3875d5b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/29/el-gobierno-aprueba-un-acuerdo-de-casi-40-millones-para-la-compra-de-unidades-para-el-suministro-de-combustible/",
+        "date": "2025-07-29 21:23:19",
+        "sentiment_score": 0.5774386525154114
+    },
+    {
+        "title": "El Gobierno nombra a Ignacio Céspedes Camacho como nuevo Almirante Jefe de Apoyo Logístico de la Armada",
+        "image_url": "https://www.infobae.com/resizer/v2/6BQIXTC3EVB7TPBZRXSOREIWR4.jpg?auth=a632d783232ee4e1b9ab849a0e351c91c4b794d5bd6878fb7574a4cb08ebf1fa&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/29/el-gobierno-nombra-a-ignacio-cespedes-camacho-como-nuevo-almirante-jefe-de-apoyo-logistico-de-la-armada/",
+        "date": "2025-07-29 20:54:06",
+        "sentiment_score": 0.20909085869789124
+    },
+    {
+        "title": "Gobierno aprueba por más de 700.000 euros las obras en la cubierta de la cancillería de la Embajada de España en Lisboa",
+        "image_url": "https://www.infobae.com/resizer/v2/VCAJAGVOKJEGRIPF7DOD6YCDZI.jpg?auth=71c45db9923e2bd39eec35c8a7da0e12a684b95e0220f69f26f9c6f54fd354f7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/29/gobierno-aprueba-por-mas-de-700000-euros-las-obras-en-la-cubierta-de-la-cancilleria-de-la-embajada-de-espana-en-lisboa/",
+        "date": "2025-07-29 20:53:48",
+        "sentiment_score": 0.5373188555240631
+    },
+    {
+        "title": "El PSN dice que la hermana de Cerdán ya no forma parte del partido porque solicitó la baja",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/29/el-psn-dice-que-la-hermana-de-cerdan-ya-no-forma-parte-del-partido-porque-solicito-la-baja/",
+        "date": "2025-07-29 20:53:31",
+        "sentiment_score": -0.5431270897388458
+    },
+    {
+        "title": "José María Ángel: \"No ha existido ninguna irregularidad en mi acceso a la función pública\"",
+        "image_url": "https://www.infobae.com/resizer/v2/S3Q2U4MAKZDDVFGDZQ5QMHOPMI.jpg?auth=6bdef1638288a6da794c4758499eca1463698342d65ca14dfdf287a0111aa463&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/29/jose-maria-angel-no-ha-existido-ninguna-irregularidad-en-mi-acceso-a-la-funcion-publica/",
+        "date": "2025-07-29 20:53:14",
+        "sentiment_score": -0.20447932183742523
+    },
+    {
+        "title": "Los vicerrectores de la US que se presentarán a las elecciones a rector dejan sus cargos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/07/29/vicerrectores-Rj5rSqbT87TgHxfrOd6d1zN-1200x840@diario_abc.jpg",
+        "tags": [
+            "elecciones",
+            "universidad de sevilla"
+        ],
+        "link": "https://www.abc.es/sevilla/ciudad/vicerrectores-presentaran-elecciones-rector-dejan-cargos-20250729192327-nts.html",
+        "date": "2025-07-29 17:23:28",
+        "sentiment_score": -0.03468364477157593
+    },
+    {
+        "title": "Sánchez reafirma su defensa del fiscal general tras el procesamiento: “Creemos en su inocencia y cuenta con el aval del Gobierno”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FOQDC5CL65PJHPJEGGNGQ3OFVM.jpg?auth=c61dabd0f8280a972608599422f451bd432e9151be75e3fd3a18bfd084412900&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "política",
+            "palma",
+            "fiscalía general estado",
+            "imputados",
+            "álvaro garcía ortiz",
+            "mallorca",
+            "tribunal supremo",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-29/sanchez-reafirma-su-defensa-del-fiscal-general-tras-el-procesamiento-creemos-en-su-inocencia-y-cuenta-con-el-aval-del-gobierno.html",
+        "date": "2025-07-29 19:21:41",
+        "sentiment_score": 0.09944906085729599
+    },
+    {
+        "title": "José María Ángel niega haber cometido irregularidades para ser funcionario y continúa como comisionado del Gobierno para la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H5UCF4LXIJG4DHIOJQKTI4BTCI.JPG?auth=b4a4b0716425cd968bdd16314c5e9654cfba9974bdc5561d0cd7f76f45a4e476&width=1200",
+        "tags": [
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-29/jose-maria-angel-niega-haber-cometido-irregularidades-para-ser-funcionario-y-continua-como-comisionado-del-gobierno-para-la-dana.html",
+        "date": "2025-07-29 18:47:33",
+        "sentiment_score": -0.7569226361811161
+    },
+    {
+        "title": "Centenares de personas piden la dimisión de Mazón en la primera manifestación en la zona cero de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5HRF42BKUJKW5E7FHETGXWV2YY.jpg?auth=66be196e043d322014696fe10c287a73fa4a22f1e347464f12784a73d03fa3be&width=1200",
+        "tags": [
+            "carlos mazón",
+            "aldaia",
+            "lluvias torrenciales",
+            "catarroja",
+            "dana",
+            "protestas sociales",
+            "comunidad valenciana",
+            "paiporta",
+            "víctimas",
+            "benetússer",
+            "valencia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-29/centenares-de-personas-piden-la-dimision-de-mazon-en-la-primera-manifestacion-en-la-zona-cero-de-la-dana.html",
+        "date": "2025-07-29 18:26:45",
+        "sentiment_score": -0.8157698027789593
+    },
+    {
+        "title": "Azael, talento gallego para el Racing con las ideas claras",
+        "image_url": "https://www.diariodeferrol.com/images/showid2/7478412?w=900",
+        "tags": [
+            "racing club ferrol",
+            "fútbol",
+            "primera rfef"
+        ],
+        "link": "https://www.diariodeferrol.com/articulo/deportes/azael-talento-gallego-racing-ideas-claras-5381274",
+        "date": "2025-07-29 22:15:00",
+        "sentiment_score": 0.5431139227002859
+    },
+    {
+        "title": "De las clásicas a las más originales, 16 tartas de queso muy buenas para probar al menos una vez",
+        "image_url": "https://phantom-elmundo.uecdn.es/6954fb8e56c96ff3e616c6a03d262423/crop/0x142/800x675/f/webp/assets/multimedia/imagenes/2024/07/28/17222008239339.jpg",
+        "tags": [
+            "comer",
+            "gastronomía",
+            "restaurantes"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/07/30/68889fea21efa015268b456f.html",
+        "date": "2025-07-29 22:04:05",
+        "sentiment_score": 0.5670327208936214
+    },
+    {
+        "title": "Ayuso 'reconecta' el mundo rural desde la tierra: Madrid recupera 121 kilómetros de caminos en las zonas más aisladas de la región",
+        "image_url": "https://phantom-elmundo.uecdn.es/51ded3774df26a5e18ce81351c21152a/crop/0x0/3024x3024/f/image/jpeg/assets/multimedia/imagenes/2022/01/31/16436433363550.jpg",
+        "tags": [
+            "medio ambiente",
+            "mundo rural",
+            "madrid",
+            "artículos vicente coll",
+            "agricultura",
+            "comunidad de madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/07/30/688890fcfc6c83316c8b457b.html",
+        "date": "2025-07-29 22:03:40",
+        "sentiment_score": -0.733241930603981
+    },
+    {
+        "title": "Madrid y Moncloa reavivan la guerra por Barajas tras dos meses de acuerdo: \"El comportamiento de Aena es desalmado\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/fe576422dedb0c3cb9d0278935780192/f/webp/assets/multimedia/imagenes/2025/07/29/17538169794316.png",
+        "tags": [
+            "sucesos",
+            "josé luis martínez-almeida",
+            "comunidad de madrid",
+            "aeropuerto de barajas"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/07/30/688908e3e9cf4a875d8b45d4.html",
+        "date": "2025-07-29 22:03:39",
+        "sentiment_score": -0.9018150474876165
+    },
+    {
+        "title": "El granadino que quiere representar a futbolistas",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/07/29/granada-agente-fifa-pepe-marin-kFVB-U2302508541380pcH-1200x840@Ideal.jpg",
+        "tags": [
+            "granada",
+            "federación internacional de fútbol asociación (fifa)"
+        ],
+        "link": "https://www.ideal.es/deportes/provincial-granada/granadino-quiere-representar-futbolistas-20250730235534-nt.html",
+        "date": "2025-07-29 21:55:34",
+        "sentiment_score": 0.29943566769361496
+    },
+    {
+        "title": "Ya llega la Navidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "navidad",
+            "real madrid"
+        ],
+        "link": "https://www.ideal.es/opinion/jesus-lens-llega-navidad-20250730231930-nt.html",
+        "date": "2025-07-29 21:19:30",
+        "sentiment_score": -0.16396121680736542
+    },
+    {
+        "title": "Sigue en directo la actualidad del incendio del Tiétar",
+        "image_url": "https://www.diariodeavila.es/media/img/2025/29cc69e7-3c33-4c2c-8ab8bb1aa58b5980.jpg",
+        "tags": [
+            "incendios",
+            "ávila",
+            "valle del tiétar",
+            "mombeltrán"
+        ],
+        "link": "https://www.diariodeavila.es/noticia/z20069f64-ab76-4252-abb74aff0d4ebf22/202507/sigue-en-directo-la-actualidad-del-incendio-del-tietar",
+        "date": "2025-07-29 20:54:19",
+        "sentiment_score": -0.16656790673732758
+    },
+    {
+        "title": "Baltanás o cómo pasar '¡Buen rato en el Cerrato!'",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/07/26/3-Las%20visitas%20al%20Barrio%20de%20Bodegas%20son%20uno%20de%20los%20reclamos%20tursticos%20de%20Baltans-RzHYdc0KquGury15z9bAydK-1200x840@El%20Norte.jpg",
+        "tags": [
+            "baltanás",
+            "verano"
+        ],
+        "link": "https://www.elnortedecastilla.es/promocionales/baltanas-pasar-buen-rato-cerrato-20250730224734-nt.html",
+        "date": "2025-07-29 20:47:35",
+        "sentiment_score": 0.45195737294852734
+    },
+    {
+        "title": "Las autoridades de Gaza dicen que la mayoría de la ayuda que ha entrado ha sido saqueada o ha caído en zonas peligrosas",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250729223308_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-autoridades-gaza-dicen-mayoria-ayuda-entrado-sido-saqueada-caido-zonas-peligrosas-20250729223308.html",
+        "date": "2025-07-29 20:33:08",
+        "sentiment_score": -0.8859703177586198
+    },
+    {
+        "title": "Deportes | El Hércules inicia el rearme de su bandas con Carlos Rojas",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1643316.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-hercules-inicia-el-rearme-de-su-bandas-con-carlos-rojas",
+        "date": "2025-07-29 20:31:53",
+        "sentiment_score": 0.1556505709886551
+    },
+    {
+        "title": "La estimación del tiempo de baja para Ter Stegen: \"Es un marrón para LaLiga\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/07/29/6888c16bb78da.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/estimacion-baja-ter-stegen-marron-laliga-20250730_3192620.html",
+        "date": "2025-07-29 22:12:03",
+        "sentiment_score": -0.14453807473182678
+    },
+    {
+        "title": "“El desastre de Gaza puede provocar otra ‘primavera árabe’”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/29/6888ef1a8afa2.jpeg",
+        "tags": [
+            "la contra"
+        ],
+        "link": "https://www.lavanguardia.com/lacontra/20250730/10934587/pol-morillas-desastre-gaza-provocar-primavera-arabe.html",
+        "date": "2025-07-29 22:05:00",
+        "sentiment_score": 0.11731575429439545
+    },
+    {
+        "title": "El SEM aterriza en su nueva sede de L'Hospitalet: \"Estar en el futuro Biopol nos abrirá a la ciudadanía\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd279551-315f-4fbe-b993-f443766534a7_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hospitalet de llobregat",
+            "departament de salut",
+            "infraestructuras"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20250730/sem-aterriza-nueva-sede-lhospitalet-futuro-biopol-120158908",
+        "date": "2025-07-29 22:02:16",
+        "sentiment_score": 0.4053930565714836
+    },
+    {
+        "title": "«La postura del árbol sobre la tabla tiene el chapuzón asegurado»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/07/30/etv-instructora-paddle-yoga-kMfG-U2302507618183QPB-1200x1200@RC.jpg",
+        "tags": [
+            "verano"
+        ],
+        "link": "https://www.elnortedecastilla.es/vivir/postura-arbol-sobre-tabla-chapuzon-asegurado-20250730000213-ntrc.html",
+        "date": "2025-07-29 22:02:14",
+        "sentiment_score": 0.4079579636454582
+    },
+    {
+        "title": "Pisos feos",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/07/29/Clipboard-0176.png",
+        "tags": [
+            "madrid (ciudad)",
+            "zaragoza",
+            "bilbao",
+            "sevilla",
+            "casas",
+            "españa"
+        ],
+        "link": "https://www.elcomercio.es/opinion/manuel-vilas-pisos-feos-20250730000126-ntrc.html",
+        "date": "2025-07-29 22:01:27",
+        "sentiment_score": -0.8466614447534084
+    },
+    {
+        "title": "Polémico regreso: Gerardo Ortiz vuelve a la música tras admitir estar vinculado con el narcotráfico",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753826788222.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "gerardo ortiz",
+            "narcocorridos"
+        ],
+        "link": "https://2001online.com/farandula/polemico-regreso-gerardo-ortiz-vuelve-a-la-musica-tras-admitir-estar-vinculado-con-el-narcotrafico--20257291840",
+        "date": "2025-07-29 22:04:00",
+        "sentiment_score": 0.02071443200111389
+    },
+    {
+        "title": "Alarma por la hipertensión arterial: así conviertes a tu cerebro en una víctima silenciosa de una peligrosa enfermedad",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753734166293.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/alarma-por-la-hipertension-arterial-asi-conviertes-a-tu-cerebro-en-una-victima-silenciosa-de-una-peligrosa-enfermedad-20257291800",
+        "date": "2025-07-29 22:00:00",
+        "sentiment_score": -0.6591468397527933
+    },
+    {
+        "title": "¡Atención, colombianos! Sepa cómo solicitar citas en el consulado de Miami",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753826230425.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "miami",
+            "citas",
+            "consulado"
+        ],
+        "link": "https://2001online.com/usa/servicios/atencion-colombianos-sepa-como-solicitar-citas-en-el-consulado-de-miami-202572917560",
+        "date": "2025-07-29 21:56:00",
+        "sentiment_score": -0.16968508809804916
+    },
+    {
+        "title": "Del maquillaje a las fragancias: Selena Gomez sorprende con el lanzamiento de su nuevo perfume “Rare Eau”",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753825983417.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "rare beauty",
+            "selena gómez"
+        ],
+        "link": "https://2001online.com/farandula/del-maquillaje-a-las-fragancias-selena-gomez-sorprende-con-el-lanzamiento-de-su-nuevo-perfume-rare-eau--202572917500",
+        "date": "2025-07-29 21:50:00",
+        "sentiment_score": 0.615437613800168
+    },
+    {
+        "title": "Adam Sandler domina Netflix: la secuela de “Happy Gilmore” se posiciona como la más vista de la plataforma",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753825357518.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "terminagolf",
+            "adam sandler",
+            "happy gilmore 2"
+        ],
+        "link": "https://2001online.com/farandula/adam-sandler-domina-netflix-la-secuela-de-happy-gilmore-se-posiciona-como-la-mas-vista-de-la-plataforma--202572917320",
+        "date": "2025-07-29 21:32:00",
+        "sentiment_score": 0.7954557724297047
+    },
+    {
+        "title": "Activan dispositivo especial de seguridad para motorizados en Baruta: horarios y ubicación de los puntos de control",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753826348854.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "baruta"
+        ],
+        "link": "https://2001online.com/servicios/baruta-despliega-dispositivo-policial-en-zona-de-frecuentes-accidentes-de-moto-estos-son-los-horarios-202572917230",
+        "date": "2025-07-29 21:23:00",
+        "sentiment_score": 0.06462150067090988
+    },
+    {
+        "title": "Precio del dólar y euro BCV para el 30 de julio: así se cotizarán las divisas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753823761054.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "euro bcv",
+            "bcv venezuela",
+            "dólar bcv",
+            "precio bcv",
+            "dinero"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-30-de-julio-asi-se-cotizaran-las-divisas-202572917160",
+        "date": "2025-07-29 21:16:00",
+        "sentiment_score": 0.007564134895801544
+    },
+    {
+        "title": "Conozca el precio actualizado del metro cuadrado en Caracas: va desde los $305 en Petare",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753822082530.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "caracas",
+            "apartamerntos",
+            "metros cuadrados",
+            "venta de apartamentos",
+            "petare"
+        ],
+        "link": "https://2001online.com/servicios/conozca-el-precio-actualizado-del-metro-cuadrado-en-caracas-va-desde-los-305-en-petare-20257291790",
+        "date": "2025-07-29 21:09:00",
+        "sentiment_score": 0.09794577769935131
+    },
+    {
+        "title": "El rival chino de Starbucks ya está en Nueva York: dónde encontrar Luckin Coffee",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753819478769.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "estados unidos",
+            "internacionales",
+            "luckin coffee",
+            "nueva york",
+            "starbucks"
+        ],
+        "link": "https://2001online.com/usa/internacionales/el-rival-chino-de-starbucks-ya-esta-en-nueva-york-donde-encontrar-luckin-coffee--20257291700",
+        "date": "2025-07-29 21:00:00",
+        "sentiment_score": 0.30913848616182804
+    },
+    {
+        "title": "Dime cómo caminas y te diré quién eres\": la Psicología analiza tus pasos y revela tu verdadera personalidad",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753676282301.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "psicologia",
+            "caminar",
+            "personalidad"
+        ],
+        "link": "https://2001online.com/usa/internacionales/dime-como-caminas-y-te-dire-quien-eres-la-psicologia-analiza-tus-pasos-y-revela-tu-verdadera-personalidad-202572916550",
+        "date": "2025-07-29 20:55:00",
+        "sentiment_score": 0.05845475196838379
     }
 ];
