@@ -1,125 +1,5 @@
 export default [
     {
-        "title": "Milei anuncia baja de impuestos a exportaciones agropecuarias y veto a leyes opositoras",
-        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
-        "tags": [
-            "argentina",
-            "oposición",
-            "sociedad rural argentina",
-            "impuestos a las exportaciones",
-            "agropecuarias",
-            "buenos aires",
-            "efe",
-            "javier milei",
-            "expo rural",
-            "luis caputo",
-            "retenciones"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/26/milei-anuncia-baja-de-impuestos-a-exportaciones-agropecuarias-y-veto-a-leyes-opositoras/",
-        "date": "2025-07-26 17:15:23",
-        "sentiment_score": 0.24221539497375488
-    },
-    {
-        "title": "Norris saldrá primero, por delante de Piastri, en Spa-Francorchamps",
-        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
-        "tags": [
-            "fórmula uno",
-            "efe",
-            "gran premio",
-            "red bull",
-            "oscar piastri",
-            "charles leclerc",
-            "lando norris",
-            "max verstappen",
-            "mclaren",
-            "spa-francorchamps",
-            "bélgica"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/26/norris-saldra-primero-por-delante-de-piastri-en-spa-francorchamps/",
-        "date": "2025-07-26 15:45:30",
-        "sentiment_score": 0.8412291966378689
-    },
-    {
-        "title": "Pogacar: \"Está más o menos hecho, pero todavía no puedo decirlo\"",
-        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/26/pogacar-esta-mas-o-menos-hecho-pero-todavia-no-puedo-decirlo/",
-        "date": "2025-07-26 15:15:43",
-        "sentiment_score": -0.031183116137981415
-    },
-    {
-        "title": "Aumentan a 33 los muertos por enfrentamientos entre Tailandia y Camboya, que llamó a un alto el fuego",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/07/26/cambodia-R1MVk7SrZ9HPwFfiwwt4GLK-1200x840@diario_abc.jpg",
-        "tags": [
-            "asia",
-            "camboya",
-            "tailandia"
-        ],
-        "link": "https://www.abc.es/internacional/aumentan-muertos-enfrentamientos-tailandia-camboya-llamo-alto-20250726165645-nt.html",
-        "date": "2025-07-26 14:56:46",
-        "sentiment_score": -0.14721247553825378
-    },
-    {
-        "title": "La justicia admite la primera demanda por el incumplimiento de los derechos fundamentales de la Ley ELA",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/26/146D1C05-7CEB-421D-B6C9-E6E39B088DDC/ela_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena 3 noticias",
-            "sociedad"
-        ],
-        "link": "https://www.antena3.com/noticias/sociedad/justicia-admite-primera-demanda-incumplimiento-derechos-fundamentales-ley-ela_2025072668850d25ffbf4a1a67457a52.html",
-        "date": "2025-07-26 17:15:17",
-        "sentiment_score": 0.5424031801521778
-    },
-    {
-        "title": "Caterina Biscari sella la alianza del sincrotrón catalán con China: \"Espero que sirva para romper fronteras geopolíticas\"",
-        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/26/business/1003742677164_14933280_1706x960.jpg?contentId=1003742677164",
-        "tags": [
-            "business",
-            "cerdanyola del vallès",
-            "china",
-            "cataluña",
-            "ciencia",
-            "salvador illa"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20250726/caterina-biscari-sincrotron-china-espero-fronteras-geopoliticas/1003742677163_0.html",
-        "date": "2025-07-26 16:45:15",
-        "sentiment_score": 0.33800242841243744
-    },
-    {
-        "title": "El empleo en los hoteles de la Comunidad Valenciana crece un 4,4% en el primer semestre de 2025",
-        "image_url": "https://images.ecestaticos.com/WszEXijeqCgfBK3JG2uRt4ivUDE=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F776%2Fd01%2F664%2F776d01664038a6d90d7715697a909094.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elconfidencial.com/espana/comunidad-valenciana/2025-07-26/el-empleo-en-los-hoteles-de-la-comunitat-valenciana-crece-un-4-4-en-el-primer-semestre-de-2025_4180705/",
-        "date": "2025-07-26 16:40:00",
-        "sentiment_score": 0.5078229643404484
-    },
-    {
-        "title": "Fin de semana con calor en ascenso y fuertes tormentas: estas son las provincias en alerta",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/26/3AA7B0F8-1251-4FCB-BED3-8AF13E848F6E/varias-personas-protegen-lluvia_98.jpg?crop=5299%2C2981%2Cx0%2Cy278&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "el tiempo",
-            "actualidad",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/el-tiempo/actualidad/fin-semana-calor-ascenso-fuertes-tormentas-estas-son-provincias-alerta_2025072668850178abb2960d1fb68c24.html",
-        "date": "2025-07-26 16:25:28",
-        "sentiment_score": -0.11247403174638748
-    },
-    {
-        "title": "Salvador Illa anuncia que los cursos de catalán volverán a China el próximo curso",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-1991054.jpg",
-        "tags": [
-            "cataluna"
-        ],
-        "link": "https://www.vozpopuli.com/espana/cataluna/salvador-illa-anuncia-que-los-cursos-de-catalan-volveran-a-china-el-proximo-curso.html",
-        "date": "2025-07-26 15:47:32",
-        "sentiment_score": 0.061746932566165924
-    },
-    {
         "title": "São Paulo alerta de que el arancel del 50 % de Trump puede destruir hasta 120.000 empleos",
         "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3389",
         "tags": [
@@ -140,39 +20,6 @@ export default [
         "sentiment_score": -0.1959707885980606
     },
     {
-        "title": "Un arquitecto solicita reducir la pensión de su hija de 400 euros a 50 al mes: la Justicia lo rechaza porque no sufre de “precariedad económica”",
-        "image_url": "https://www.infobae.com/resizer/v2/ACLPI2SQ4FDQTC4KMKDSIDALMU.jpg?auth=bffc2d2fd991349e35c630e325a319344ad6a5750c407da00c7c75b4b22c1228&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa noticias",
-            "tribunal",
-            "sentencias españa",
-            "justicia españa",
-            "tribunales españa",
-            "justicia",
-            "familias",
-            "españa-nacional",
-            "pensiones",
-            "subvenciones y ayudas"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/26/un-arquitecto-solicita-reducir-la-pension-de-su-hija-de-400-euros-a-50-al-mes-la-justicia-lo-rechaza-porque-no-sufre-de-precariedad-economica/",
-        "date": "2025-07-26 18:05:15",
-        "sentiment_score": -0.04704643040895462
-    },
-    {
-        "title": "Qué serie o película ver esta noche en Disney+ España",
-        "image_url": "https://www.infobae.com/resizer/v2/EPARKIM5JVDJ7C5QZDPA63O7ZM.jpg?auth=69ba65d9cb3ecb4c32451e000e5a2a1a286fa2d7825529b64fae07034e7c5fa5&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "disney plus",
-            "streaming",
-            "españa-televisión",
-            "series disney",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/26/que-serie-o-pelicula-ver-esta-noche-en-disney-espana/",
-        "date": "2025-07-26 17:30:43",
-        "sentiment_score": 0.4609876275062561
-    },
-    {
         "title": "Alerta policial en Europa por la «yihad de TikTok»: los menores se suman al terrorismo islamista",
         "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/07/25/detenidos-menores-yihadismo-k6JF-U2302477677989FLB-1200x840@RC.jpg",
         "tags": [
@@ -189,26 +36,6 @@ export default [
         "link": "https://www.canarias7.es/internacional/europa/alerta-policial-europa-yihad-tiktok-menores-suman-20250727001132-ntrc.html",
         "date": "2025-07-26 22:11:33",
         "sentiment_score": 0.761957811191678
-    },
-    {
-        "title": "Las viviendas prémium se disparan un 15%, ¿dónde suben con más fuerza?",
-        "image_url": "https://phantom-expansion.uecdn.es/78fbf6965333120a01d396fd99154267/crop/38x47/1896x1286/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/26/17535494497533.jpg",
-        "tags": [
-            "inmobiliario>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/2025/07/26/68850706468aeb83478b457a.html",
-        "date": "2025-07-26 18:21:41",
-        "sentiment_score": 0.38139406219124794
-    },
-    {
-        "title": "(Previa) El Barça arranca contra el Vissel Kobe con el aliciente de Rashford",
-        "image_url": "https://www.infobae.com/resizer/v2/H2TNNCMNF5GWTLTKTVCZWFHBQQ.jpg?auth=fe4b65fc82be1b60c425f98c7851f39821468efe228dc4014f3bce658037aa9d&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/07/26/previa-el-barca-arranca-contra-el-vissel-kobe-con-el-aliciente-de-rashford/",
-        "date": "2025-07-26 18:19:04",
-        "sentiment_score": 0.00276368111371994
     },
     {
         "title": "La luz nace en Los Guinchos desde hace más de medio siglo",
@@ -5649,5 +5476,510 @@ export default [
         "link": "https://2001online.com/zona3d/salud/no-mueras-por-un-derrame-cerebral-comienza-a-practicar-desde-hoy-mismo-estos-tres-habitos-saludables-para-salvar-tu-vida-20257292100",
         "date": "2025-07-30 01:00:00",
         "sentiment_score": 0.24597622454166412
+    },
+    {
+        "title": "Las revistas del corazón esta semana: el emotivo reencuentro de la princesa Leonor y la infanta Sofía",
+        "image_url": "https://www.infobae.com/resizer/v2/YL4GT3EI4JG3JPELMDN5GFV3OE.jpg?auth=bac85109077ed007b0cb790047a1fa58df2227f088dd3c8641fd158cbd848e8c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "corazón y estilo españa",
+            "revistas",
+            "revistas del corazón",
+            "tamara falcó",
+            "gente españa",
+            "famosos españa",
+            "españa-entretenimiento",
+            "terelu campos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/las-revistas-del-corazon-esta-semana-el-emotivo-reencuentro-de-la-princesa-leonor-y-la-infanta-sofia/",
+        "date": "2025-07-30 06:41:30",
+        "sentiment_score": 0.03807274252176285
+    },
+    {
+        "title": "Este es el precio de la gasolina este 30 de julio en Madrid, Barcelona y otras ciudades de España",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "precio gasolina",
+            "gasolina",
+            "noticias",
+            "españa-economia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/este-es-el-precio-de-la-gasolina-este-30-de-julio-en-madrid-barcelona-y-otras-ciudades-de-espana/",
+        "date": "2025-07-30 06:31:04",
+        "sentiment_score": -0.06122169271111488
+    },
+    {
+        "title": "Ni ‘Sé lo que hicisteis el último verano’ ni ‘28 años después’: esta es la nueva película de terror que ha conquistado a la crítica",
+        "image_url": "https://www.infobae.com/resizer/v2/BFN67KO2PNA4TPGACTFAGCNX2U.jpg?auth=4df897416c56bc1a5990f863541fa86343dec6d5e4e3d7792d5b78c63246e733&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "cine españa",
+            "cine de terror",
+            "cine",
+            "estrenos de cine",
+            "españa-cultura"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/07/30/ni-se-lo-que-hicisteis-el-ultimo-verano-ni-28-anos-despues-esta-es-la-nueva-pelicula-de-terror-que-ha-conquistado-a-la-critica/",
+        "date": "2025-07-30 06:28:53",
+        "sentiment_score": 0.6990597136318684
+    },
+    {
+        "title": "Calvià (Mallorca) recuerda este miércoles a los guardias civiles asesinados por ETA, al cumplirse 16 años del atentado",
+        "image_url": "https://www.infobae.com/resizer/v2/PDHXESNHTRE7JBEO4UHFHSBQHE.jpg?auth=1e2666cb3c8de203ec8169e1744300f551337ff172b8c224f5ea2b44713c3c4f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/30/calvia-mallorca-recuerda-este-miercoles-a-los-guardias-civiles-asesinados-por-eta-al-cumplirse-16-anos-del-atentado/",
+        "date": "2025-07-30 06:23:01",
+        "sentiment_score": -0.6998941414058208
+    },
+    {
+        "title": "Una española que vive en Países Bajos explica las principales diferencias laborales: “Por trabajar menos no cobras menos”",
+        "image_url": "https://www.infobae.com/resizer/v2/C3GUPUFXRNEL5E6NMGTD3J4XSE.jpg?auth=9e19ec7e5e3ec5636355baa64e225968a42ebd3b57ad8422f50be0e158a82c9c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "países bajos",
+            "españa-noticias",
+            "españa-sociedad",
+            "tiktok",
+            "tiktok españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/una-espanola-que-vive-en-paises-bajos-explica-las-principales-diferencias-laborales-por-trabajar-menos-no-cobras-menos/",
+        "date": "2025-07-30 06:11:07",
+        "sentiment_score": -0.5497733354568481
+    },
+    {
+        "title": "Un oftalmólogo desmiente que ellos nunca se operen la vista: “Tengo tres compañeros que este año se han operado y están encantados de la vida”",
+        "image_url": "https://www.infobae.com/resizer/v2/GGZD4A67FRBMXNNQJYQ2WMP2BA.png?auth=774f13ba1718acbb3673508d902b878aa42cee6ca7ec423ca97cd134017b7f57&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "miopía",
+            "españa-noticias",
+            "lentillas",
+            "redes sociales",
+            "médicos",
+            "españa-sociedad",
+            "gafas",
+            "tiktok",
+            "tiktok españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/un-oftalmologo-desmiente-que-ellos-nunca-se-operen-la-vista-tengo-tres-companeros-que-este-ano-se-han-operado-y-estan-encantados-de-la-vida/",
+        "date": "2025-07-30 06:10:10",
+        "sentiment_score": 0.646683219820261
+    },
+    {
+        "title": "La letra pequeña del acuerdo energético entre la UE y EEUU que Trump ignora: dificultades logísticas y una decisión en manos de empresas privadas",
+        "image_url": "https://www.infobae.com/resizer/v2/KVXRFOAA7JV44KTO4GMLVIVDAI.jpg?auth=2f094af1c5ff161d87f9fac7fcd97295b8e05094dd2508c621cb87a4c095504d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "ue",
+            "españa-nacional",
+            "españa-noticias",
+            "donald trump",
+            "españa-internacional",
+            "eeuu",
+            "aranceles"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/la-letra-pequena-del-acuerdo-energetico-entre-la-ue-y-eeuu-que-trump-ignora-dificultades-logisticas-y-una-decision-en-manos-de-empresas-privadas/",
+        "date": "2025-07-30 06:08:02",
+        "sentiment_score": 0.566433984786272
+    },
+    {
+        "title": "Boticaria García desmiente todos los bulos que circulan en las redes sobre el agua con gas: “Tiene sodio, pero en cantidades pequeñas”",
+        "image_url": "https://www.infobae.com/resizer/v2/OIQXBFA6BJFTNDLAPF7TXBAG7E.jpg?auth=98d30ddf71560bc6f4ae2c7285c297a85e0180d6687824a38efdf1e3032bb816&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "agua",
+            "agua con gas",
+            "nutrición",
+            "españa-noticias",
+            "españa-salud",
+            "alimentación saludable",
+            "nutrición españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/boticaria-garcia-desmiente-todos-los-bulos-que-circulan-en-las-redes-sobre-el-agua-con-gas-tiene-sodio-pero-en-cantidades-pequenas/",
+        "date": "2025-07-30 06:07:36",
+        "sentiment_score": 0.09523485600948334
+    },
+    {
+        "title": "Un abogado explica son las cinco prácticas ilegal que “seguro” que has sufrido en tu trabajo: “Las horas extra son voluntarias”",
+        "image_url": "https://www.infobae.com/resizer/v2/Z4BF6R2XGNAITHLUOJMLBRUHVY.png?auth=2c52b8027f1c37780ad0bc91730b9f9143ed07ee61fef805beb3899af6353147&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-economia",
+            "derechos laborales",
+            "jornada laboral",
+            "españa-noticias",
+            "tiktok españa",
+            "empleo"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/un-abogado-explica-son-las-cinco-practicas-ilegal-que-seguro-que-has-sufrido-en-tu-trabajo-las-horas-extra-son-voluntarias/",
+        "date": "2025-07-30 05:55:26",
+        "sentiment_score": -0.008165121078491211
+    },
+    {
+        "title": "Una española que vive en Alemania manda un mensaje contundente a los españoles: “Estáis en una burbuja”",
+        "image_url": "https://www.infobae.com/resizer/v2/XWD45VQCW5GODKXOH7DVDHLAXY.png?auth=1cd03b05b673f8349a67e54d7081a2d0c1ce50ecf4b7d4c3c095997c21e01035&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "alemania",
+            "redes sociales",
+            "tiktok",
+            "españa-sociedad",
+            "españa-noticias",
+            "salarios españa",
+            "tiktok españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/una-espanola-que-vive-en-alemania-manda-un-mensaje-contundente-a-los-espanoles-estais-en-una-burbuja/",
+        "date": "2025-07-30 05:46:04",
+        "sentiment_score": -0.0618462860584259
+    },
+    {
+        "title": "Aena gana 301 millones en el primer trimestre, un 15,4% más, y bate récords de tráfico y actividad comercial",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/30/1436972401-RSwlttGEntZmVVnN0QAujLN-1200x840@diario_abc.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.abc.es/economia/aena-gana-301-millones-primer-trimestre-154-20250730083516-nt.html",
+        "date": "2025-07-30 06:35:16",
+        "sentiment_score": -0.07739681005477905
+    },
+    {
+        "title": "Caixabank logra un beneficio de 2.951 millones hasta junio, un 10,3% más, y se dispara en hipotecas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/07/30/gonzalo-gortazar-ROSF1otC9incY5UfR4InSYM-1200x840@diario_abc.jpg",
+        "tags": [
+            "hipotecas",
+            "caixabank",
+            "banco central europeo bce"
+        ],
+        "link": "https://www.abc.es/economia/caixabank-logra-beneficio-2951-millones-junio-103-20250730082402-nt.html",
+        "date": "2025-07-30 06:24:03",
+        "sentiment_score": -0.06768856942653656
+    },
+    {
+        "title": "El Santander gana 6.833 millones hasta junio, un 12,8% más, y lanza otra recompra de acciones por 1.700 millones",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/07/30/hector-grisi-botin-Ro3PATAaz80sSiO6rHOH5yN-1200x840@diario_abc.jpg",
+        "tags": [
+            "banca",
+            "europa",
+            "banco santander",
+            "ana patricia botín-sanz de satuola o'shea",
+            "españa"
+        ],
+        "link": "https://www.abc.es/economia/santander-gana-6833-millones-junio-128-lanza-20250730075616-nt.html",
+        "date": "2025-07-30 05:56:16",
+        "sentiment_score": -0.017436176538467407
+    },
+    {
+        "title": "Un alerta por tifón obliga a alterar el viaje oficial por China del presidente de la Generalitat",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KKPBYIJV65KBFGF7TO4TDJ2MME.jpg?auth=a453e06c437f3cb3816684157c70644c9cafc656c9c04131e4e0777d864bf59a&width=1200",
+        "tags": [
+            "govern cataluña",
+            "tifones",
+            "cataluña",
+            "generalitat cataluña",
+            "salvador illa",
+            "china"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-30/un-alerta-por-tifon-obliga-a-alterar-el-viaje-oficial-por-china-del-presidente-de-la-generalitat.html",
+        "date": "2025-07-30 05:34:16",
+        "sentiment_score": -0.8834341689944267
+    },
+    {
+        "title": "Corruptos: asco y reproche",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RUDXGBY3DBMSTDIPB32H332OGI.jpg?auth=ebce23bba8b6f5821af9c74fe1197416347eef762f5b0cd3fb9dd242082eb1e3&width=1200",
+        "tags": [
+            "corrupción política",
+            "prostitución",
+            "política",
+            "corrupción",
+            "isabel díaz ayuso",
+            "cataluña",
+            "delitos",
+            "partidos políticos",
+            "jordi pujol"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-30/corruptos-asco-y-reproche.html",
+        "date": "2025-07-30 03:30:01",
+        "sentiment_score": -0.9221215024590492
+    },
+    {
+        "title": "Villanueva de la Jara llora la muerte de los tres niños del fatídico accidente de tráfico: “La felicidad de esos padres eran sus hijos”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Q6TMTGCPBVBJRK54BBAKGY7APQ.JPG?auth=c99b6c5a757edab6b348fd551c0d59fda73a460d433beeca43313a5e7dfdcecd&width=1200",
+        "tags": [
+            "víctimas",
+            "san clemente",
+            "accidentes tráfico",
+            "castilla-la mancha",
+            "accidentes",
+            "guardia civil",
+            "cuenca",
+            "villanueva de la jara",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-30/villanueva-de-la-jara-llora-la-muerte-de-los-tres-ninos-del-fatidico-accidente-de-trafico-la-felicidad-de-esos-padres-eran-sus-hijos.html",
+        "date": "2025-07-30 03:30:01",
+        "sentiment_score": 0.007152445614337921
+    },
+    {
+        "title": "Un procesamiento cogido con alfileres",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ANO2FGFZ7RNOBPEXYOJEEJ7BL4.jpg?auth=7697da888d9fc124a30d2db888998f83dd7ae44f8707e179a09c688c8d17c0c1&width=1200",
+        "tags": [
+            "tribunales",
+            "juicios",
+            "imputados",
+            "fiscalía general estado",
+            "tribunal supremo",
+            "recursos judiciales",
+            "álvaro garcía ortiz",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-30/un-procesamiento-cogido-con-alfileres.html",
+        "date": "2025-07-30 03:30:01",
+        "sentiment_score": -0.26497918739914894
+    },
+    {
+        "title": "Inquilinos de tres bloques diferentes de Madrid comparten casero y acusación: “Usan tácticas de un fondo buitre”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YOFCSZRYNVERTCIJZ7B5E73EYY.jpg?auth=1dd5a34d266c41153d5ad06898293dc053dfdbdbf64662ccdf38249dd172fcc0&width=1200",
+        "tags": [
+            "viviendas alquiler",
+            "fondos buitre",
+            "arganzuela",
+            "zona lavapiés",
+            "problemas sociales",
+            "madrid",
+            "chamberí",
+            "congreso diputados",
+            "vivienda",
+            "comunidad de madrid",
+            "desahucios"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-07-30/inquilinos-de-tres-bloques-de-madrid-comparten-casero-y-acusacion-usan-tacticas-de-un-fondo-buitre.html",
+        "date": "2025-07-30 03:30:01",
+        "sentiment_score": -0.7563229538500309
+    },
+    {
+        "title": "Malvivir entre invernaderos: un cuarto en mitad de la nada, sin agua potable y electricidad solo dos días a la semana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/76JLN3V5SZDQZPIXPGMBNKABOQ.jpeg?auth=28115a06877e0dd3b96650d5dd0e4add383c514b713c681e294ba89d78adc938&width=1200",
+        "tags": [
+            "andalucía",
+            "agricultura",
+            "pobreza",
+            "níjar",
+            "almería",
+            "infravivienda",
+            "invernaderos",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-30/alquilar-entre-invernaderos-un-cuarto-en-mitad-de-la-nada-sin-agua-potable-y-electricidad-solo-dos-dias-a-la-semana.html",
+        "date": "2025-07-30 03:30:01",
+        "sentiment_score": -0.3092116490006447
+    },
+    {
+        "title": "Así bailan las futuras estrellas de la danza: el Ballet de la Ópera de París presenta en España su cantera",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/I47V2IUPC5HRVIVRLFI26CHAKU.jpg?auth=d75b0983b137424257780fdeefe27f843026a4e2eb8c9bc8c8e2d29bf31a87dc&width=1200",
+        "tags": [
+            "artes escénicas",
+            "ballet",
+            "danza",
+            "parís",
+            "bailarines",
+            "cultura",
+            "madrid",
+            "sevilla",
+            "verano",
+            "artistas",
+            "espectáculos"
+        ],
+        "link": "https://elpais.com/cultura/2025-07-30/asi-bailan-las-futuras-estrellas-de-la-danza-el-ballet-de-la-opera-de-paris-presenta-en-espana-su-cantera.html",
+        "date": "2025-07-30 03:30:01",
+        "sentiment_score": 0.6368280611932278
+    },
+    {
+        "title": "La duda también erosiona las instituciones",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7NK3N4MDHZDY5CPTAYVTT7DKHM.jpg?auth=933e3c1942f2ef3254870b19dabfc9719b2da9dcc82cb2c1a88116499b1ae21e&width=1200",
+        "tags": [
+            "investigación judicial",
+            "imputados",
+            "juicio oral",
+            "fiscalía general estado",
+            "tribunal supremo",
+            "recursos judiciales",
+            "álvaro garcía ortiz",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-30/la-duda-tambien-erosiona-las-instituciones.html",
+        "date": "2025-07-30 03:30:01",
+        "sentiment_score": -0.869843615218997
+    },
+    {
+        "title": "El Gobierno se aferra a la “inocencia” del fiscal general para resistir la ofensiva por su procesamiento",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NKPOBD76HVMEHLVI2KKNETY2BI.jpg?auth=c33574d2f410a75a55772bc06b55bb30d44bba5fdb1dd997bc88100d3bad32ec&width=1200",
+        "tags": [
+            "gobierno",
+            "imputados",
+            "fiscalía general estado",
+            "psoe",
+            "tribunal supremo",
+            "álvaro garcía ortiz",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-07-30/el-gobierno-se-aferra-a-la-inocencia-del-fiscal-general-para-resistir-la-ofensiva-por-su-procesamiento.html",
+        "date": "2025-07-30 03:30:01",
+        "sentiment_score": -0.8826442509889603
+    },
+    {
+        "title": "Mueren ahogados dos hermanos menores de edad británicos en una playa de Salou",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OMC4M4LLLVFH5KLB3SLO6FIIAU.aspx?auth=a6c848668cb42b2bd34f1ac750c0b6b2c35bf428335fdf1243fdaa971ba76ac1&width=1200",
+        "tags": [
+            "menores",
+            "cataluña",
+            "salou",
+            "protección civil",
+            "turismo",
+            "ahogamientos",
+            "mossos d'esquadra"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-30/mueren-ahogados-dos-hermanos-menores-de-edad-britanicos-en-una-playa-de-salou.html",
+        "date": "2025-07-30 03:26:57",
+        "sentiment_score": 0.05713534355163574
+    },
+    {
+        "title": "La 'saudade' futbolística de Rodrygo le aleja del Real Madrid y le acerca a la Premier",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/81f9c60f-71cf-4d50-a523-87e9fd565738_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,rodrygo,premier league,futbol"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/07/30/saudade-futbolistica-rodrygo-real-madrid-premier-120186084.html",
+        "date": "2025-07-30 06:32:05",
+        "sentiment_score": -0.1471591591835022
+    },
+    {
+        "title": "Las Palmas de Gran Canaria y Santa Cruz de Tenerife, entre las ciudades donde más quieren vivir en toda España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9c0c62c6-b5d0-4b4a-b9b2-c7fa61cde26e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "málaga",
+            "tenerife",
+            "las palmas de gran canaria",
+            "vivienda",
+            "santa cruz",
+            "españa",
+            "economía"
+        ],
+        "link": "https://www.laprovincia.es/economia/2025/07/30/palmas-gran-canaria-santa-cruz-vivir-espana-dv-120185606.html",
+        "date": "2025-07-30 06:32:32",
+        "sentiment_score": 0.46222056448459625
+    },
+    {
+        "title": "¿Lo venderán finalmente? Tensión entre el Real Madrid y Vinicius va en aumento",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753838462991.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "real madrid"
+        ],
+        "link": "https://2001online.com/deportes/sera-finalmente-vendido-tension-entre-el-real-madrid-y-vinicius-va-en-aumento-20257300100",
+        "date": "2025-07-30 04:10:00",
+        "sentiment_score": -0.5509515069425106
+    },
+    {
+        "title": "¡Atención comerciantes! Estos son los pasos que exige Sundde para legalizar las promociones",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753843074512.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "comerciante c",
+            "sundde",
+            "ofertas en sundde",
+            "promociones",
+            "comercios"
+        ],
+        "link": "https://2001online.com/servicios/atencion-comerciantes-estos-son-los-pasos-que-exige-sundde-para-legalizar-las-promociones-202572923500",
+        "date": "2025-07-30 03:50:00",
+        "sentiment_score": 0.1072334311902523
+    },
+    {
+        "title": "Estados Unidos enviará otro vuelo de deportación a Cuba: se intensifica la política migratoria de Trump",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753847089277.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "estados unidos",
+            "cuba",
+            "dhs",
+            "deportación",
+            "ice",
+            "vuelo",
+            "cubanos"
+        ],
+        "link": "https://2001online.com/usa/servicios/estados-unidos-enviara-otro-vuelo-de-deportacion-a-cuba-se-intensifica-la-politica-migratoria-de-trump-202572923300",
+        "date": "2025-07-30 03:30:00",
+        "sentiment_score": 0.047614600509405136
+    },
+    {
+        "title": "Conozca los cuatro requisitos para corregir el error migratorio ante el Saime: el trámite solo es presencial",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753845077476.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "saime"
+        ],
+        "link": "https://2001online.com/servicios/conozca-los-cuatro-requisitos-para-corregir-el-error-migratorio-ante-el-saime-el-tramite-solo-es-presencial-202572923100",
+        "date": "2025-07-30 03:10:00",
+        "sentiment_score": 0.035212818533182144
+    },
+    {
+        "title": "Habilitan pre-registro para celebrar la canonización de José Gregorio Hernández y Carmén Rendiles: lista de eventos",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753842770034.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "venezuela",
+            "santo",
+            "roma"
+        ],
+        "link": "https://2001online.com/nacionales/habilitan-pre-registro-para-celebrar-la-canonizacion-de-jose-gregorio-hernandez-y-carmen-rendiles-lista-de-eventos-20257292300",
+        "date": "2025-07-30 03:00:00",
+        "sentiment_score": -0.10012117773294449
+    },
+    {
+        "title": "¡Alerta por cáncer de colon! Estos son los siete síntomas claves que avisan sobre un tumor maligno: incluye la pérdida de peso sopresiva",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753730407650.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/alerta-por-cancer-de-colon-estos-son-los-siete-sintomas-claves-que-avisan-sobre-un-tumor-maligno-incluye-la-perdida-de-peso-sopresiva-20257292300",
+        "date": "2025-07-30 03:00:00",
+        "sentiment_score": 0.09508667513728142
+    },
+    {
+        "title": "Acuerdos con China: estos son los rubros venezolanos que incrementarán su exportación a la nación asiática",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753839364567.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "rubros",
+            "venezuela",
+            "materia prima",
+            "diario 20010"
+        ],
+        "link": "https://2001online.com/nacionales/acuerdos-con-china-estos-son-los-rubros-venezolanos-que-incrementaran-su-exportacion-a-la-nacion-asiatica-20257292300",
+        "date": "2025-07-30 03:00:00",
+        "sentiment_score": 0.3154301196336746
+    },
+    {
+        "title": "La Velada del Año V: Abby rompe el silencio y aclara por qué llevaba la bandera de Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753844557974.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "abby",
+            "rorro"
+        ],
+        "link": "https://2001online.com/deportes/la-velada-del-ano-v-abby-rompe-el-silencio-y-aclara-por-que-llevaba-la-bandera-de-venezuela-202572922480",
+        "date": "2025-07-30 02:48:00",
+        "sentiment_score": -0.8867538003250957
+    },
+    {
+        "title": "¡Se reaviva el escándalo!: la hija de Jonathan Montenegro y Yelena Maciel no sigue a su padre en redes",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753844336039.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "yelena maciel",
+            "jonathan montenegro"
+        ],
+        "link": "https://2001online.com/farandula/se-reaviva-el-escandalo-la-hija-de-jonathan-montenegro-y-yelena-maciel-no-sigue-a-su-padre-en-redes--202572922430",
+        "date": "2025-07-30 02:43:00",
+        "sentiment_score": -0.8863226929679513
+    },
+    {
+        "title": "Evita sentirte viejo con tan solo 40 años: estos son los trucos que debes aplicar en tu día a día para alargar tu juventud",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753842722269.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/evita-sentirte-viejo-con-tan-solo-40-anos-estos-son-los-trucos-que-debes-aplicar-en-tu-dia-a-dia-para-alargar-tu-juventud-202572922400",
+        "date": "2025-07-30 02:40:00",
+        "sentiment_score": -0.019166745245456696
     }
 ];
