@@ -62,102 +62,6 @@ export default [
         "sentiment_score": -0.14721247553825378
     },
     {
-        "title": "Más de 100.000 solicitudes de la tarjeta Buscyl para viajar gratis en autobús por Castilla y León",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/07/26/usuariabuscyl-RYskJ49JLEjcDNT2TAtJTFN-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "castilla y león"
-        ],
-        "link": "https://www.abc.es/espana/castilla-leon/100000-solicitudes-tarjeta-buscyl-viajar-gratis-autobus-20250726134540-nt.html",
-        "date": "2025-07-26 11:45:40",
-        "sentiment_score": 0.09686300158500671
-    },
-    {
-        "title": "Finaliza la reurbanización de la calle San Vicente de Paúl en Triana tras una inversión de 115.000 euros",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/07/26/sanvicente-paul-RUJlN4QE2F2qNWSHsV6dVhP-1200x840@diario_abc.jpeg",
-        "tags": [
-            "peatones",
-            "obras",
-            "sevilla",
-            "ayuntamiento de sevilla",
-            "aparcamientos"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/finaliza-reurbanizacion-calle-san-vicente-paul-triana-20250726130904-nts.html",
-        "date": "2025-07-26 11:09:05",
-        "sentiment_score": 0.06700310111045837
-    },
-    {
-        "title": "Oficial: Valentín Gómez, nuevo refuerzo para la defensa del Betis",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2025/07/24/oficial-valentin-gomez-Rt75llEg741S0Cxu6IQ0tsM-1200x840@diario_abc.jpg",
-        "tags": [
-            "betis"
-        ],
-        "link": "https://www.abc.es/deportes/alfinaldelapalmera/fichajes-betis/oficial-valentin-gomez-nuevo-refuerzo-defensa-betis-20250726182633-nts.html",
-        "date": "2025-07-26 11:08:19",
-        "sentiment_score": -0.07752719521522522
-    },
-    {
-        "title": "Elisa Hernández revoluciona los platós de televisión mientras Iker Casillas se mantiene en silencio",
-        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2025/07/26/6884df77e1ef2.jpeg",
-        "tags": [
-            "vaya mundo"
-        ],
-        "link": "https://www.mundodeportivo.com/vaya-mundo/20250726/1002506247/elisa-hernandez-revoluciona-platos-television-iker-casillas-mantiene-silencio-galeria-dct.html",
-        "date": "2025-07-26 14:13:52",
-        "sentiment_score": -0.3129269927740097
-    },
-    {
-        "title": "Alba Carrillo destapa el \"modus operandi\" de algunos hombres y señala a Iker Casillas: \"Así pueden estar con quince mujeres a la vez\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/06/22/6857f71013438.r_d.926-425.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20250726/1002506222/alba-carrillo-destapa-modus-operandi-hombres-iker-casillas-asi-quince-mujeres-dct.html",
-        "date": "2025-07-26 13:45:38",
-        "sentiment_score": -0.1329282447695732
-    },
-    {
-        "title": "Elisa Hernández, otra 'amiga' de Iker Casillas, destapa al exfutbolista: \"Ha estado con las dos haciendo lo que le ha dado la gana\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/07/26/6884d1dde5eb0.r_d.719-661.jpeg",
-        "tags": [
-            "vaya mundo"
-        ],
-        "link": "https://www.mundodeportivo.com/vaya-mundo/20250726/1002506227/elisa-hernandez-amiga-iker-casillas-rompe-silencio-sigue-patron-me-vendio-version-me-dando-cuenta-asi-dct.html",
-        "date": "2025-07-26 13:13:22",
-        "sentiment_score": -0.1713440716266632
-    },
-    {
-        "title": "Alfonso Rueda: \"Apuesto por la innovación como vía prioritaria para mejorar la productividad\"",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/07/26/2025072614410643846.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/economia/alfonso-rueda-apuesto-innovacion-como-via-prioritaria-mejorar-productividad/202507261448301401654.html",
-        "date": "2025-07-26 12:48:30",
-        "sentiment_score": 0.19682122394442558
-    },
-    {
-        "title": "La iluminación exterior del Santiago Bernabéu estará compuesta por más de 10.000 luces LED",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/07/26/6884bf0fb000a.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/iluminacion-exterior-santiago-bernabeu-estara-compuesta-10-000-luces-led-20250726_3191270.html",
-        "date": "2025-07-26 12:21:17",
-        "sentiment_score": -0.029327094554901123
-    },
-    {
-        "title": "Pamplona, más allá de los Sanfermines",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/583c07ab-3f6b-4716-ae43-b70686fad1dc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sanfermines",
-            "pamplona"
-        ],
-        "link": "https://www.noticiasdenavarra.com/pamplona/2025/07/26/pamplona-sanfermines-9913830.html",
-        "date": "2025-07-26 10:25:55",
-        "sentiment_score": 0.559784822165966
-    },
-    {
         "title": "La justicia admite la primera demanda por el incumplimiento de los derechos fundamentales de la Ley ELA",
         "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/26/146D1C05-7CEB-421D-B6C9-E6E39B088DDC/ela_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
         "tags": [
@@ -214,69 +118,6 @@ export default [
         "link": "https://www.vozpopuli.com/espana/cataluna/salvador-illa-anuncia-que-los-cursos-de-catalan-volveran-a-china-el-proximo-curso.html",
         "date": "2025-07-26 15:47:32",
         "sentiment_score": 0.061746932566165924
-    },
-    {
-        "title": "El buque con combustible fondeado ante el Puerto de Barcelona viene a descargar gasolina",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b02b118-dce5-4629-a177-58b526662952_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "palestina",
-            "barcelona",
-            "puertos"
-        ],
-        "link": "https://www.elperiodico.com/es/internacional/20250726/buque-combustible-israel-fondeado-barcelona-120083920",
-        "date": "2025-07-26 12:49:18",
-        "sentiment_score": 0.03611312806606293
-    },
-    {
-        "title": "Denuncian que un buque con combustible militar para Israel está fondeado en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b02b118-dce5-4629-a177-58b526662952_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "palestina",
-            "barcelona",
-            "puertos"
-        ],
-        "link": "https://www.elperiodico.com/es/internacional/20250726/denuncian-buque-combustible-militar-israel-fondeado-barcelona-120083920",
-        "date": "2025-07-26 12:49:18",
-        "sentiment_score": -0.2214139997959137
-    },
-    {
-        "title": "Renfe habilita este lunes buses alternativos por las obras en Sant Vicenç de Calders (Tarragona)",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250726142242_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-renfe-habilita-lunes-buses-alternativos-obras-sant-vicenc-calders-tarragona-20250726142242.html",
-        "date": "2025-07-26 12:22:42",
-        "sentiment_score": 0.1729758307337761
-    },
-    {
-        "title": "Pere Navarro (DGT) lanza una crítica al Gobierno: «¿Para cuándo la Ley de Movilidad?»",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/07/pere-navarro.jpg",
-        "tags": [
-            "sociedad",
-            "dgt"
-        ],
-        "link": "https://www.economiadigital.es/sociedad/pere-navarro-dgt-lanza-critica-ds.html",
-        "date": "2025-07-26 11:43:00",
-        "sentiment_score": 0.2366180643439293
-    },
-    {
-        "title": "El 112 de Andalucía gestiona más de 421.000 emergencias en el primer semestre de 2025",
-        "image_url": "https://static.grupojoly.com/clip/5be93a15-c760-403d-b31a-c7cef1258b75_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "primer",
-            "000",
-            "gestiona",
-            "emergencias",
-            "andalucia",
-            "112",
-            "2025",
-            "421",
-            "semestre"
-        ],
-        "link": "https://www.diariodejerez.es/andalucia/112-andalucia-gestiona-421-000-emergencias-primer-semestre-2025_0_2004458320.html",
-        "date": "2025-07-26 10:56:38",
-        "sentiment_score": 0.02754153311252594
     },
     {
         "title": "São Paulo alerta de que el arancel del 50 % de Trump puede destruir hasta 120.000 empleos",
@@ -5430,5 +5271,383 @@ export default [
         "link": "https://2001online.com/usa/internacionales/dime-como-caminas-y-te-dire-quien-eres-la-psicologia-analiza-tus-pasos-y-revela-tu-verdadera-personalidad-202572916550",
         "date": "2025-07-29 20:55:00",
         "sentiment_score": 0.05845475196838379
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 30 de julio en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/UAVNNSVQ2BDOZLTU4G3FOZ3OYY.jpg?auth=df43e4acea8cc3a57bfb6f5f9cd7d334f69444f2bd0a29be41452b2e711b5a35&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "málaga",
+            "españa sociedad",
+            "noticias",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/clima-las-temperaturas-que-predominaran-este-30-de-julio-en-malaga/",
+        "date": "2025-07-30 02:01:46",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Madrid este 30 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/GKA3FFW4JFEB7GOJJXLN52MWJM.jpg?auth=0e6afbb455d1ff051763747db8015f9da4f28384c065c1e5b997011e10cc4009&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "madrid",
+            "noticias",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/clima-hoy-en-espana-temperaturas-para-madrid-este-30-de-julio/",
+        "date": "2025-07-30 01:31:00",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 30 de julio en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/CHHYZEY3LRE2RFPJKYZPR4TI3M.jpg?auth=9667eb34e2a46c2693e42c8b72acb8c36e243e8e79fa3bb67233809f1c8f039a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "españa sociedad",
+            "noticias",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/clima-las-temperaturas-que-predominaran-este-30-de-julio-en-barcelona/",
+        "date": "2025-07-30 01:17:02",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Este es el precio de la playera que Jesús Ernesto, el hijo menor de AMLO, lució en Santander, España",
+        "image_url": "https://www.infobae.com/resizer/v2/TD3GSVLPSFCZLLWUNVHHM5SICM.jpg?auth=55bb8dfa91ab548d384c9a602c115f0334567502d393d1e4ec209981c0015c16&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "santander",
+            "méxico",
+            "mexico-noticias",
+            "fiesta",
+            "morena",
+            "jesús ernesto",
+            "beatriz gutiérrez müller",
+            "amlo",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/07/30/este-es-el-precio-de-la-playera-que-jesus-ernesto-el-hijo-menor-de-amlo-lucio-en-santander-espana/",
+        "date": "2025-07-30 01:05:00",
+        "sentiment_score": -0.10630842298269272
+    },
+    {
+        "title": "José María Ángel, el alto comisionado del Gobierno para la reconstrucción tras la DANA, niega irregularidades en su acceso a la función pública y anuncia posibles “acciones administrativas y legales”",
+        "image_url": "https://www.infobae.com/resizer/v2/S3Q2U4MAKZDDVFGDZQ5QMHOPMI.jpg?auth=6bdef1638288a6da794c4758499eca1463698342d65ca14dfdf287a0111aa463&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "administracion publica",
+            "españa-noticias",
+            "irregularidades",
+            "falsificacion",
+            "valencia",
+            "dana valencia",
+            "españa-nacional",
+            "política españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/29/jose-maria-angel-el-alto-comisionado-del-gobierno-para-la-reconstruccion-tras-la-dana-niega-irregularidades-en-su-acceso-a-la-funcion-publica-y-anuncia-posibles-acciones-administrativas-y-legales/",
+        "date": "2025-07-29 23:22:13",
+        "sentiment_score": -0.5140485689043999
+    },
+    {
+        "title": "FC Barcelona rinde homenaje a Kobe Bryant con una camiseta al estilo Black Mamba",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/07/AP25197640342656-e1753841457579.jpg",
+        "tags": [
+            "black mamba",
+            "fútbol",
+            "fc barcelona",
+            "deportes",
+            "kobe bryant"
+        ],
+        "link": "https://eldiariony.com/2025/07/29/fc-barcelona-rinde-homenaje-a-kobe-bryant-con-una-camiseta-al-estilo-black-mamba/",
+        "date": "2025-07-30 02:12:22",
+        "sentiment_score": 0.8084456827491522
+    },
+    {
+        "title": "LaLiga: Real Madrid hace oficial que Mbappé vestirá la mítica camiseta 10",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753838201277.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "kylian mbappé"
+        ],
+        "link": "https://2001online.com/deportes/laliga-real-madrid-hace-oficial-que-mbappe-vestira-la-mitica-camiseta-10-202572921150",
+        "date": "2025-07-30 01:15:00",
+        "sentiment_score": 0.17845642566680908
+    },
+    {
+        "title": "Oficial: Kylian Mbappé vestirá la 10 del Real Madrid",
+        "image_url": "https://eldiariony.com/wp-content/uploads/sites/2/2025/07/AP25186792086814.jpg",
+        "tags": [
+            "deportes",
+            "luka modric",
+            "fútbol",
+            "kylian mbappé",
+            "real madrid"
+        ],
+        "link": "https://eldiariony.com/2025/07/29/oficial-kylian-mbappe-vestira-la-10-del-real-madrid/",
+        "date": "2025-07-30 00:46:38",
+        "sentiment_score": -0.33248623833060265
+    },
+    {
+        "title": "Rodrygo con el futuro más incierto en el Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/072025/1753835629133.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/rodrygo-con-el-futuro-mas-incierto-en-el-real-madrid-202572920350",
+        "date": "2025-07-30 00:35:00",
+        "sentiment_score": 0.06220391392707825
+    },
+    {
+        "title": "General Dynamics se alía con Rheinmetall para fabricar en Asturias los cañones con los que busca modernizar el Leopard 2E",
+        "image_url": "https://s1.elespanol.com/2022/03/02/actualidad/654195370_257642671_1706x960.jpg?contentId=654195370",
+        "tags": [
+            "santa bárbara",
+            "general dynamics",
+            "indra",
+            "observatorio de la defensa",
+            "vehículos militares",
+            "ejército español",
+            "ejército de tierra"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20250730/general-dynamics-alia-rheinmetall-fabricar-asturias-canones-busca-modernizar-leopard/1003743866976_0.html",
+        "date": "2025-07-30 00:15:03",
+        "sentiment_score": -0.05006250739097595
+    },
+    {
+        "title": "Todos somos la mezcla de un jugador del Real Madrid y uno del Barcelona, descubre cuál es la tuya",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-07/29/20/thumb/6cxH5sWtb.jpg?3%2C0=&crop=1245%3A830&resize=1250%3A830",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/quiz-mezcla-jugador-real-madrid-fc-barcelona-futbol",
+        "date": "2025-07-30 00:01:02",
+        "sentiment_score": -0.08083923161029816
+    },
+    {
+        "title": "Balance y futuro de seis meses de incertidumbre con Muface",
+        "image_url": "https://s1.elespanol.com/2025/03/24/actualidad/933667402_254153167_1706x960.jpg?contentId=933667402",
+        "tags": [
+            "tribunas de opinión",
+            "sanidad",
+            "opinión",
+            "tribunas"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20250729/balance-futuro-meses-incertidumbre-muface/1003743867129_12.html",
+        "date": "2025-07-29 23:53:43",
+        "sentiment_score": 0.4116442948579788
+    },
+    {
+        "title": "Los incendios de Ávila y Las Hurdes, los que más preocupan en España: 120 evacuados y la UME desplegada",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/07/30/vista-del-puesto-de-mando-este-martes-por-mombentran-en-avila.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/los-incendios-avila-hurdes-mas-preocupan-espana-120-evacuados-ume-desplegadabr.html",
+        "date": "2025-07-29 23:50:07",
+        "sentiment_score": -0.644923709332943
+    },
+    {
+        "title": "Iker Casillas, en el centro de una nueva tormenta sentimental",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/22/2025042210555620835.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/iker-casillas-centro-nueva-tormenta-sentimental/20250730014344351771.html",
+        "date": "2025-07-29 23:43:44",
+        "sentiment_score": -0.41494252532720566
+    },
+    {
+        "title": "El fútbol femenino es un coñazo",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/15/666cc4387ad74.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20250730/futbol-femenino-conazo_321662.html",
+        "date": "2025-07-29 23:30:00",
+        "sentiment_score": -0.5757697373628616
+    },
+    {
+        "title": "Sugey Herrera fue proclamada como alcaldesa reelecta en el municipio Simón Bolívar",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2025/07/sugeyherreraganadoracomiciosbolivarf29072025a.jpg",
+        "tags": [
+            "política",
+            "venezuela al día",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/sugey-herrera-fue-proclamada-como-alcaldesa-reelecta-en-el-municipio-simon-bolivar/",
+        "date": "2025-07-30 02:03:12",
+        "sentiment_score": 0.10589861124753952
+    },
+    {
+        "title": "Este es el coche compacto y con estilo deportivo que conduce el rey Felipe VI en sus vacaciones en Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3410955.jpg",
+        "tags": [
+            "verano en mallorca",
+            "felipe vi",
+            "ocio en mallorca",
+            "audiencias-um",
+            "monarquía española",
+            "los reyes en mallorca",
+            "última hora",
+            "sociedad",
+            "casa real",
+            "turismo en mallorca",
+            "vacaciones en mallorca",
+            "ia-news",
+            "tendencias",
+            "cupra formentor"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/07/30/2439833/este-coche-compacto-estilo-deportivo-conduce-rey-felipe-vacaciones-mallorca.html",
+        "date": "2025-07-30 02:00:01",
+        "sentiment_score": 0.22587108612060547
+    },
+    {
+        "title": "China lidera la carrera por la fusión nuclear",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/07/26/68852cade1dd1.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250730/10926783/fusion-nuclear-china-ue-eeuu.html",
+        "date": "2025-07-30 02:00:00",
+        "sentiment_score": -0.8827498024329543
+    },
+    {
+        "title": "Barcelona analiza una opción distinta a jugar en el Camp Nou y Montjuic",
+        "image_url": "https://pxcdn.meridiano.net/072025/1753838660271.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-analiza-una-opcion-distinta-a-jugar-en-el-camp-nou-y-montjuic-202572921240",
+        "date": "2025-07-30 01:24:00",
+        "sentiment_score": -0.40689079463481903
+    },
+    {
+        "title": "El mensaje de Franco Colapinto en medio de la crisis que atraviesa Boca Juniors",
+        "image_url": "https://www.infobae.com/resizer/v2/RAHEWO5O55BFDDKOVQG24IUIVU.jpg?auth=cd1c7d34f8bcda7e1497a4d1b91bd5f5948bfdda2fedb8cbbe2a668d948a3a23&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "franco colapinto",
+            "juan román riquelme",
+            "boca juniors",
+            "alpine f1 team",
+            "fórmula 1",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/07/30/el-mensaje-de-franco-colapinto-en-medio-de-la-crisis-que-atraviesa-boca-juniors/",
+        "date": "2025-07-30 01:17:46",
+        "sentiment_score": 0.2949346750974655
+    },
+    {
+        "title": "Falsas biografías",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "biografias",
+            "falsas"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/falsas-biografias_0_2004480120.html",
+        "date": "2025-07-30 01:08:00",
+        "sentiment_score": -0.6953075118362904
+    },
+    {
+        "title": "¡Atención, hombres! La combinación de cabozantinib y atezolizumab te puede salvar la vida: la ciencia logra revolucionario descubrimiento",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753711973132.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "próstata",
+            "cáncer",
+            "tratamientos",
+            "cáncer de próstata"
+        ],
+        "link": "https://2001online.com/usa/internacionales/atencion-hombres-la-combinacion-de-cabozantinib-y-atezolizumab-te-puede-salvar-la-vida-la-ciencia-logra-revolucionario-descubrimiento-20257292200",
+        "date": "2025-07-30 02:00:00",
+        "sentiment_score": -0.5928375199437141
+    },
+    {
+        "title": "Ni carne de res ni huevo: revelan cuál es la mejor proteína para alargar la juventud y retardar la vejez",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753730156201.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/ni-carne-de-res-ni-huevo-revelan-cual-es-la-mejor-proteina-para-alargar-la-juventud-y-retardar-la-vejez-20257292200",
+        "date": "2025-07-30 02:00:00",
+        "sentiment_score": 0.4682689644396305
+    },
+    {
+        "title": "“Le agarré terror al cadáver de mi madre”: El doloroso recuerdo de infancia que persigue a Maribel Guardia",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753842354487.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "celebridades",
+            "recuerdos"
+        ],
+        "link": "https://2001online.com/farandula/le-agarre-terror-al-cadaver-de-mi-madre-el-doloroso-recuerdo-de-infancia-que-persigue-a-maribel-guardia-202572921540",
+        "date": "2025-07-30 01:54:00",
+        "sentiment_score": -0.7948803771287203
+    },
+    {
+        "title": "Emiten alerta de tsunami para la costa oeste de EEUU: estas son las ciudades en peligro",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753840360755.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "estados",
+            "eeuu",
+            "tsunami"
+        ],
+        "link": "https://2001online.com/usa/internacionales/emiten-alerta-de-tsunami-para-la-costa-oeste-de-eeuu-estas-son-las-ciudades-en-peligro-202572921520",
+        "date": "2025-07-30 01:52:00",
+        "sentiment_score": -0.13711600005626678
+    },
+    {
+        "title": "Doral Central Park abre segunda etapa con atracciones gratuitas: estrena centro comunitario de 80.000 pies cuadrados",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753841669105.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "doral central park"
+        ],
+        "link": "https://2001online.com/usa/servicios/doral-central-park-abre-segunda-etapa-con-atracciones-gratuitas-estrena-centro-comunitario-de-80-000-pies-cuadrados-202572921470",
+        "date": "2025-07-30 01:47:00",
+        "sentiment_score": 0.7104212483391166
+    },
+    {
+        "title": "Venezuela espera dos nuevas ondas tropicales para los primeros días de agosto: conozca el pronóstico del Inameh",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753831806152.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "venezuela",
+            "vaguadas",
+            "pronóstico",
+            "clima"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-espera-dos-nuevas-ondas-tropicales-para-los-primeros-dias-de-agosto-conozca-el-pronostico-del-inameh-202572921450",
+        "date": "2025-07-30 01:45:00",
+        "sentiment_score": -0.20032819360494614
+    },
+    {
+        "title": "Conviasa habilita ruta a Santa Elena de Uairén desde diversos puntos del país: conozca el itinerario",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753826567026.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "venezuela",
+            "economía",
+            "vuelos"
+        ],
+        "link": "https://2001online.com/nacionales/conviasa-habilita-ruta-a-santa-elena-de-uairen-desde-diversos-puntos-del-pais-conozca-el-itinerario-202572921440",
+        "date": "2025-07-30 01:44:00",
+        "sentiment_score": 0.0939144603908062
+    },
+    {
+        "title": "Conoce el emprendimiento que ofrece cuidado personalizado para adultos mayores y niños: así funciona el sistema de atención",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753814083183.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "adultos mayores"
+        ],
+        "link": "https://2001online.com/servicios/conoce-el-emprendimiento-que-ofrece-cuidado-personalizado-para-adultos-mayores-y-ninos-asi-funciona-el-sistema-de-atencion-20257292100",
+        "date": "2025-07-30 01:00:00",
+        "sentiment_score": 0.4144835136830807
+    },
+    {
+        "title": "No mueras por un derrame cerebral: comienza a practicar desde hoy mismo estos tres hábitos saludables para salvar tu vida",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753728556581.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/no-mueras-por-un-derrame-cerebral-comienza-a-practicar-desde-hoy-mismo-estos-tres-habitos-saludables-para-salvar-tu-vida-20257292100",
+        "date": "2025-07-30 01:00:00",
+        "sentiment_score": 0.24597622454166412
     }
 ];
