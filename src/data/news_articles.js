@@ -1,54 +1,5 @@
 export default [
     {
-        "title": "Reino Unido recetará entradas de fútbol contra la depresión: “Las gradas son buenas para la cabeza”",
-        "image_url": "https://www.infobae.com/resizer/v2/7UVGBHDCW5A5TMSRWMDIAS7ZXY.jpg?auth=74a2aa1e1334dd881a662f3e87ecd2f28072a68e528b2f3823331c4173938242&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "depresión",
-            "españa-noticias",
-            "reino unido",
-            "fútbol",
-            "españa-sociedad",
-            "salud mental",
-            "fármacos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/27/reino-unido-recetara-entradas-de-futbol-contra-la-depresion-las-gradas-son-buenas-para-la-cabeza/",
-        "date": "2025-07-27 13:57:41",
-        "sentiment_score": 0.10895286500453949
-    },
-    {
-        "title": "El 67% de los españoles quiere quedarse en España, pero los jóvenes miran al extranjero: el 41% se mudaría a otro país",
-        "image_url": "https://www.infobae.com/resizer/v2/3JNEGAX3QNEQRJRYNGYY53V4AU.jpg?auth=990a4008e45c08420c80ffa8fc4e5bebb096df6e9de6f37270333a087fe801c3&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "emigrar",
-            "satisfacción residencial",
-            "vivienda",
-            "generaciones",
-            "andalucía",
-            "inmigración",
-            "españa-noticias",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/27/el-67-de-los-espanoles-quiere-quedarse-en-espana-pero-los-jovenes-miran-al-extranjero-el-41-se-mudaria-a-otro-pais/",
-        "date": "2025-07-27 11:13:31",
-        "sentiment_score": 0.5601067170500755
-    },
-    {
-        "title": "Un educador canino desvela qué significa que tu perro se revuelque durante los paseos: “Son formas distintas de manejar la incomodidad”",
-        "image_url": "https://www.infobae.com/resizer/v2/EK2URJDFQJD35KFDGBMKOAK2UQ.jpg?auth=fb3fa582a5e5c2bdbb902b470a252c62ffb323a69d2c090f5f9587245344bc25&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "perros",
-            "instagram",
-            "españa-noticias",
-            "redes sociales",
-            "españa-sociedad",
-            "mascotas",
-            "animales"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/27/un-educador-canino-desvela-que-significa-que-tu-perro-se-revuelque-durante-los-paseos-son-formas-distintas-de-manejar-la-incomodidad/",
-        "date": "2025-07-27 10:24:33",
-        "sentiment_score": -0.486535981297493
-    },
-    {
         "title": "Tailandia y Camboya se preparan para negociar mientras los enfrentamientos continúan",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/07/27/camboya-RoGU5D1wyiXkS7gW2FhoP1M-1200x840@diario_abc.jpg",
         "tags": [
@@ -73,17 +24,6 @@ export default [
         "link": "https://www.antena3.com/noticias/sociedad/registran-incrementos-trafico-algunos-puntos-pais-operacion-retorno-puente-santiago_2025072768864467ffbf4a1a67461912.html",
         "date": "2025-07-27 15:23:19",
         "sentiment_score": 0.274113304913044
-    },
-    {
-        "title": "Coche eléctrico: mitos que debes dejar atrás antes de comprar uno",
-        "image_url": "https://fotografias.lasexta.com/clipping/cmsimages01/2021/11/02/EAD91F45-97EA-4181-A0E2-23E710829000/96.jpg?crop=1541%2C867%2Cx31%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "noticias motor",
-            "motor"
-        ],
-        "link": "https://www.lasexta.com/motor/noticias/coche-electrico-mitos-que-debes-dejar-atras-antes-comprar-uno_2025072768861bd5abb2960d1fb718fb.html",
-        "date": "2025-07-27 12:30:13",
-        "sentiment_score": -0.6452423185110092
     },
     {
         "title": "La energética de la Generalitat catalana tendrá el 10% de una central eléctrica reversible",
@@ -177,35 +117,6 @@ export default [
         "link": "https://www.vozpopuli.com/espana/cataluna/erc-y-junts-amenazan-a-sanchez-con-acercarse-a-pp-y-vox-si-no-cumple-con-el-cupo-solo-nos-importa-cataluna.html",
         "date": "2025-07-27 14:37:39",
         "sentiment_score": -0.8718798710033298
-    },
-    {
-        "title": "Puigdemont avisa a Sánchez de que no dé por descontado su apoyo y carga contra \"extremos y populismos\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eadd6c0d-08a0-4f55-8aa6-213485811c07_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "carles puigdemont"
-        ],
-        "link": "https://www.lacronicabadajoz.com/nacional/2025/07/27/puigdemont-acto-francia-psoe-negociaciones-pedro-sanchez-120105054.html",
-        "date": "2025-07-27 13:14:06",
-        "sentiment_score": -0.513914130628109
-    },
-    {
-        "title": "El turismo se estabiliza y los precios hoteleros suben un 5,2%",
-        "image_url": "https://theofficer.es/wp-content/uploads/2025/07/The-officer-turismo-rural.jpg",
-        "tags": [
-            "adr",
-            "turismo",
-            "hoteles",
-            "noticias",
-            "ocupación hotelera",
-            "revpar",
-            "precios hoteleros",
-            "pernoctaciones",
-            "economía",
-            "ine"
-        ],
-        "link": "https://theofficer.es/el-turismo-sube-precios/",
-        "date": "2025-07-27 13:00:00",
-        "sentiment_score": 0.361844077706337
     },
     {
         "title": "La ayuda vuelve por fin a Gaza tras la indignación por la hambruna",
@@ -6871,5 +6782,535 @@ export default [
         "link": "https://2001online.com/deportes/venezuela-confirma-cuerpo-tecnico-de-lujo-para-el-clasico-mundial-de-beisbol-miguel-cabrera-dira-presente-202573017360",
         "date": "2025-07-30 21:36:00",
         "sentiment_score": -0.48449892550706863
+    },
+    {
+        "title": "Embraer resalta su peso estratégico al quedar exenta del arancel del 50 % de Trump",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "embraer",
+            "industria aeroespacial",
+            "exportaciones",
+            "donald trump",
+            "aranceles",
+            "liberación",
+            "efe",
+            "são paulo",
+            "estados unidos",
+            "gobierno de estados unidos",
+            "gobierno de brasil"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/embraer-resalta-su-peso-estrategico-al-quedar-exenta-del-arancel-del-50-de-trump/",
+        "date": "2025-07-31 02:17:34",
+        "sentiment_score": 0.7168726399540901
+    },
+    {
+        "title": "El presidente surcoreano celebra el acuerdo arancelario y dice que reduce la incertidumbre",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "acuerdo comercial",
+            "exportaciones",
+            "donald trump",
+            "lee jae-myung",
+            "biotecnología",
+            "efe",
+            "estados unidos",
+            "industria naval",
+            "semiconductores",
+            "aranceles",
+            "corea del sur"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/el-presidente-surcoreano-celebra-el-acuerdo-arancelario-y-dice-que-reduce-la-incertidumbre/",
+        "date": "2025-07-31 02:17:21",
+        "sentiment_score": 0.731594217941165
+    },
+    {
+        "title": "Bolsa de Seúl abre ligeramente al alza tras anuncio de acuerdo entre Corea del Sur y EEUU",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "hyundai motor",
+            "kospi",
+            "donald trump",
+            "efe",
+            "samsung electronics",
+            "bolsa de seúl",
+            "sk hynix",
+            "estados unidos",
+            "seúl",
+            "comercio internacional",
+            "corea del sur"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/bolsa-de-seul-abre-ligeramente-al-alza-tras-anuncio-de-acuerdo-entre-corea-del-sur-y-eeuu/",
+        "date": "2025-07-31 02:17:08",
+        "sentiment_score": 0.5137722939252853
+    },
+    {
+        "title": "La producción industrial de Japón aumentó un 1,7 % en junio",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "efe",
+            "industria electrónica",
+            "producción industrial",
+            "tokio",
+            "asia",
+            "equipos de transporte",
+            "economía",
+            "ministerio de economía comercio e industria",
+            "industria manufacturera",
+            "efecom",
+            "japón"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/la-produccion-industrial-de-japon-aumento-un-17-en-junio/",
+        "date": "2025-07-31 02:16:54",
+        "sentiment_score": 0.35143188387155533
+    },
+    {
+        "title": "Canciller chino pide a Washington evitar la confrontación en reunión con empresas de EEUU",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "wang yi",
+            "diplomacia internacional",
+            "efe",
+            "apple",
+            "goldman sachs",
+            "pekín",
+            "relaciones china-estados unidos",
+            "negociaciones arancelarias",
+            "consejo empresarial china-eeuu",
+            "estocolmo",
+            "boeing"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/canciller-chino-pide-a-washington-evitar-la-confrontacion-en-reunion-con-empresas-de-eeuu/",
+        "date": "2025-07-31 02:16:40",
+        "sentiment_score": 0.5862903632223606
+    },
+    {
+        "title": "Demandan ante el Supremo el contrato con operador hongkonés por puertos en Canal de Panamá",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "efe",
+            "canal de panamá",
+            "ck hutchison",
+            "panama ports company",
+            "balboa",
+            "cosco",
+            "ministerio público",
+            "contrato de concesión",
+            "puertos",
+            "ciudad de panamá",
+            "anel flores"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/demandan-ante-el-supremo-el-contrato-con-operador-hongkones-por-puertos-en-canal-de-panama/",
+        "date": "2025-07-31 02:16:27",
+        "sentiment_score": -0.6876777410507202
+    },
+    {
+        "title": "Beneficio neto de Samsung cayó casi un 50 % en segundo trimestre por baja demanda de chips",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "efe",
+            "samsung electronics",
+            "estados unidos",
+            "seúl",
+            "demanda de chips",
+            "inteligencia artificial",
+            "semiconductores",
+            "dx",
+            "hbm",
+            "beneficio neto",
+            "efecom"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/beneficio-neto-de-samsung-cayo-casi-un-50-en-segundo-trimestre-por-baja-demanda-de-chips/",
+        "date": "2025-07-31 02:16:13",
+        "sentiment_score": -0.7936894576996565
+    },
+    {
+        "title": "James Rodríguez sería el fichaje estelar de un histórico equipo en España: solo tendría una condición en León",
+        "image_url": "https://www.infobae.com/resizer/v2/GZXVUJGKEBEBNCAIMAAFM6CKTQ.JPG?auth=8f0c5fc580a2b3b83ba32a28c16a4c56d4c7014a93bc88915a8f54e98a83d6b1&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "sevilla",
+            "colombia-deportes",
+            "liga mx",
+            "james rodríguez sevilla",
+            "james rodríguez león",
+            "club león",
+            "james rodríguez"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/07/31/james-rodriguez-seria-el-fichaje-estelar-de-un-historico-equipo-en-espana-solo-tendria-una-condicion-en-leon/",
+        "date": "2025-07-31 01:25:41",
+        "sentiment_score": 0.8440128806978464
+    },
+    {
+        "title": "Clima en Barcelona: cuál será la temperatura máxima y mínima este 31 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/3MU2HKNCBNFW5FQLAHAU25HETQ.jpg?auth=4de3ce9ef5c48955971146a6671f88332ed1e49013c5d4824a26309a4cc45985&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/31/clima-en-barcelona-cual-sera-la-temperatura-maxima-y-minima-este-31-de-julio/",
+        "date": "2025-07-31 01:18:10",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Ranking Netflix: las películas más vistas HOY por el público español",
+        "image_url": "https://www.infobae.com/resizer/v2/OF5EMOTUMFDI3PH7EMHYN7H72E.jpg?auth=020a872697c6a572b54c51b637fb0725d510834f7efb3ca1d0b530a138a5004c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-televisión",
+            "netflix",
+            "streaming",
+            "noticias",
+            "películas"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/ranking-netflix-las-peliculas-mas-vistas-hoy-por-el-publico-espanol/",
+        "date": "2025-07-30 23:31:20",
+        "sentiment_score": 0.6659732554107904
+    },
+    {
+        "title": "Una postal de Lana Turner",
+        "image_url": "https://imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/250731/2055612/postal-lana-turner.html",
+        "date": "2025-07-31 01:30:00",
+        "sentiment_score": -0.5562111735343933
+    },
+    {
+        "title": "El terremoto de Rusia sacude el Pacífico, despierta un volcán y pone a prueba la ciencia",
+        "image_url": "https://www.nuevatribuna.es/media/nuevatribuna/images/2025/07/30/2025073020551593168.jpg",
+        "tags": [
+            "sostenibilidad"
+        ],
+        "link": "https://www.nuevatribuna.es/articulo/sostenibilidad/kamchatka-terremoto-rusia-sacude-pacifico-despierta-volcan-pone-prueba-ciencia/20250731032318240985.html",
+        "date": "2025-07-31 01:23:18",
+        "sentiment_score": 0.5730882361531258
+    },
+    {
+        "title": "90 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "90",
+            "anos"
+        ],
+        "link": "https://www.huelvainformacion.es/opinion/articulos/90-anos_0_2004485588.html",
+        "date": "2025-07-31 01:06:58",
+        "sentiment_score": 0.10890540480613708
+    },
+    {
+        "title": "Canarias denuncia la falta de fondos de Moncloa para los menas: las CCAA tendrán para tres meses y las islas para 9 días",
+        "image_url": "https://s1.elespanol.com/2025/07/30/espana/politica/1003743869399_257679256_1706x960.jpg?contentId=1003743869399",
+        "tags": [
+            "castilla-la mancha",
+            "islas canarias",
+            "emiliano garcía-page",
+            "inmigración",
+            "gobierno de canarias",
+            "xunta de galicia",
+            "menores",
+            "alfonso rueda",
+            "emigración",
+            "inmigración ilegal"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250731/canarias-denuncia-falta-fondos-moncloa-menas-ccaa-meses-islas-dias/1003743866942_0.html",
+        "date": "2025-07-31 00:58:44",
+        "sentiment_score": -0.8614159328863025
+    },
+    {
+        "title": "Este jugador del Real Madrid impediría la llegada de más jugadores (+Detalles)",
+        "image_url": "https://pxcdn.meridiano.net/072025/1753922335902.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/este-jugador-del-real-madrid-impediria-la-llegada-de-mas-jugadores-detalles--202573020540",
+        "date": "2025-07-31 00:54:00",
+        "sentiment_score": -0.7932607159018517
+    },
+    {
+        "title": "Acuerdo inminente para dar entrada a un socio en Air Europa: los Hidalgo ultiman detalles con Turkish Airlines",
+        "image_url": "https://s1.elespanol.com/2025/05/07/actualidad/1003743746250_255373636_1706x960.jpg?contentId=1003743746250",
+        "tags": [
+            "líneas aéreas",
+            "air europa",
+            "turismo"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20250731/acuerdo-inminente-dar-entrada-socio-air-europa-hidalgo-ultiman-detalles-turkish-airlines/1003743868406_0.html",
+        "date": "2025-07-31 00:36:25",
+        "sentiment_score": 0.3111632615327835
+    },
+    {
+        "title": "Saúl Ñíguez, en El Partidazo de COPE: \"Mi relación con Simeone tuvo altibajos, pero siempre fue directo, no fue falso como otros en el club \"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/07/30/688a792a854a6.r_d.941-398-2214.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/saul-niguez-partidazo-cope-mi-relacion-simeone-tuvo-altibajos-siempre-directo-falso-otros-club-20250731_3193221.html",
+        "date": "2025-07-30 23:43:01",
+        "sentiment_score": -0.019929736852645874
+    },
+    {
+        "title": "“Pequeñas empresas para grandes países”, lema del VII Foro Iberoamericano de la Mipyme presentado en Tenerife",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2025/07/Foro-Mipyme-1-1024x682.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/pequenas-empresas-para-grandes-paises-lema-del-vii-foro-iberoamericano-de-la-mipyme-presentado-en-tenerife/",
+        "date": "2025-07-30 23:22:11",
+        "sentiment_score": 0.08192703127861023
+    },
+    {
+        "title": "Saiz llama a las autonomías del PP a no caer en la insumisión",
+        "image_url": "https://cdn.diariodeavisos.com/wp-content/uploads/2025/07/pagina-8-afot-saiz-1024x686.jpg",
+        "tags": [
+            "portada apertura 4",
+            "nacional",
+            "portada"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/07/saiz-llama-a-las-autonomias-del-pp-a-no-caer-en-la-insumision/",
+        "date": "2025-07-30 23:00:00",
+        "sentiment_score": -0.05743926763534546
+    },
+    {
+        "title": "La huella que deja Pedro Fanego Valle, referente de la ingeniería asturiana fallecido: \"Trabajador, honesto y gran padre\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7a9afa4e-a663-4ed2-8367-792aca924bc9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ingenieros",
+            "ingeniería",
+            "colegio",
+            "matrimonio"
+        ],
+        "link": "https://www.lne.es/gijon/2025/07/31/huella-deja-pedro-fanego-valle-120220309.html",
+        "date": "2025-07-31 02:10:00",
+        "sentiment_score": 0.02669098973274231
+    },
+    {
+        "title": "Virtuosa de pasarela y novel ante el micrófono: así es Lena Shan, la joven cantante que abrirá el Ewan de Salinas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e893d3b2-936c-4674-8815-4164ce81ffd5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "china",
+            "salinas",
+            "españa"
+        ],
+        "link": "https://www.lne.es/aviles/2025/07/31/virtuosa-pasarela-novel-microfono-lena-120218700.html",
+        "date": "2025-07-31 02:05:22",
+        "sentiment_score": 0.16405940055847168
+    },
+    {
+        "title": "Con casi 16 metros de eslora y construido en Nueva Zelanda: así es el 'Aifos', el velero con el que navega el rey Felipe VI en Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3412679.jpg",
+        "tags": [
+            "los reyes en mallorca",
+            "aifos",
+            "verano en mallorca",
+            "vacaciones en mallorca",
+            "última hora",
+            "ocio en mallorca",
+            "turismo en mallorca",
+            "tendencias",
+            "ia-news",
+            "audiencias-um",
+            "rey felipe vi",
+            "casa real",
+            "sociedad",
+            "copa del rey"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/07/31/2440597/casi-metros-eslora-construido-nueva-zelanda-asi-aifos-velero-que-navega-rey-felipe-mallorca.html",
+        "date": "2025-07-31 02:00:01",
+        "sentiment_score": 0.23163478076457977
+    },
+    {
+        "title": "Palma excederá el sábado el tope de cruceros con cuatro barcos y 15.000 pasajeros",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3413101.jpg",
+        "tags": [
+            "palma",
+            "última hora",
+            "ultimas noticias",
+            "cruceros en palma",
+            "palma de mallorca",
+            "masificación turística",
+            "saturación turística",
+            "local"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/07/31/2440865/palma-excedera-sabado-tope-cruceros-cuatro-barcos-14000-pasajeros.html",
+        "date": "2025-07-31 02:00:01",
+        "sentiment_score": -0.31203751266002655
+    },
+    {
+        "title": "Mejorar la capacidad y operatividad del puerto de Son Blanc",
+        "image_url": "https://men.gsstatic.es/autor/editorial/32.png",
+        "tags": [
+            "editorial"
+        ],
+        "link": "https://www.menorca.info/opinion/editorial/2025/07/31/2441007/mejorar-capacidad-operatividad-del-puerto-son-blanc.html",
+        "date": "2025-07-31 01:57:55",
+        "sentiment_score": 0.47118519991636276
+    },
+    {
+        "title": "La española Submer desarrollará un centro de datos preparado para la IA en la India",
+        "image_url": "https://s1.elespanol.com/2025/07/30/actualidad/1003743868104_257655654_1706x960.jpg?contentId=1003743868104",
+        "tags": [
+            "inteligencia artificial",
+            "india",
+            "innovación",
+            "tecnológicas",
+            "empresas tecnológicas",
+            "tecnología"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20250731/espanola-submer-desarrollara-centro-datos-preparado-ia-india/1003743868087_0.html",
+        "date": "2025-07-31 00:32:18",
+        "sentiment_score": -0.06561034917831421
+    },
+    {
+        "title": "Manuel Neuer podría dar el último estacazo a Ter Stegen",
+        "image_url": "https://pxcdn.meridiano.net/072025/1753920582360.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/manuel-neuer-podria-dar-el-ultimo-estacazo-a-ter-stegen-202573020100",
+        "date": "2025-07-31 00:10:00",
+        "sentiment_score": -0.7601145543158054
+    },
+    {
+        "title": "El ciclo Excéntricos reivindica el talento emergente y ofrecerá cinco conciertos",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/07/30/107250661-krPH--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "ciclo",
+            "excentricos",
+            "emergente",
+            "cinco",
+            "talento",
+            "ofrecera",
+            "conciertos",
+            "reivindica"
+        ],
+        "link": "https://www.eldiariomontanes.es/dmusica/festivales/ciclo-excentricos-reivindica-talento-emergente-ofrecera-cinco-20250731143212-nt.html",
+        "date": "2025-07-31 00:00:00",
+        "sentiment_score": 0.13607709854841232
+    },
+    {
+        "title": "Más de cuatro mil insumos médicos llegan a Apure por vía fluvial: pacientes con esta patología serán beneficiados",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753919293828.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "apure",
+            "insumos médicos"
+        ],
+        "link": "https://2001online.com/comunidad/mas-de-cuatro-mil-insumos-medicos-llegan-a-apure-por-via-fluvial-pacientes-con-esta-patologia-seran-beneficiados-202573022150",
+        "date": "2025-07-31 02:15:00",
+        "sentiment_score": 0.5252517312765121
+    },
+    {
+        "title": "Reportan derrame de sustancias inflamables en el Colegio Las Acacias este 30 de julio: no había niños en el centro",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753926506342.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "san pedro",
+            "componentes químicos",
+            "colegio las acacias"
+        ],
+        "link": "https://2001online.com/sucesos/reportan-derrame-de-sustancias-inflamables-en-el-colegio-las-acacias-este-30-de-julio-no-habia-ninos-en-el-centro-20257302250",
+        "date": "2025-07-31 02:05:00",
+        "sentiment_score": -0.8895079651847482
+    },
+    {
+        "title": "Así puedes ganarte un PlayStation 5 con Cashea: solo debes seguir estos tres pasos antes del 31 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753925629421.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cashea",
+            "playstation 5"
+        ],
+        "link": "https://2001online.com/servicios/asi-puedes-ganarte-un-playstation-5-con-cashea-solo-debes-seguir-estos-tres-pasos-antes-del-31-de-julio-20257302250",
+        "date": "2025-07-31 02:05:00",
+        "sentiment_score": 0.5483915358781815
+    },
+    {
+        "title": "En video: leones marinos se arrojan al mar escapando de una lluvia de piedras por terremoto en Rusia",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753926672104.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "tereemoto en rusia",
+            "leones marino's",
+            "tsunami"
+        ],
+        "link": "https://2001online.com/internacionales/en-video-leones-marinos-se-arrojan-al-mar-escapando-de-una-lluvia-de-piedras-por-terremoto-en-rusia-20257302230",
+        "date": "2025-07-31 02:03:00",
+        "sentiment_score": -0.8534556347876787
+    },
+    {
+        "title": "¡Peligro por la ola de calor! Estos son los riesgos de dormir con altas temperaturas: hasta puedes sufrir accidentes",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753818773511.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/peligro-por-la-ola-de-calor-estos-son-los-riesgos-de-dormir-con-altas-temperaturas-hasta-puedes-sufrir-accidentes-20257302200",
+        "date": "2025-07-31 02:00:00",
+        "sentiment_score": -0.8313202299177647
+    },
+    {
+        "title": "Cabello aclara el alcance de la licencia otorgada a Chevron: Es privada y lo que diga el palangrismo es ficción",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753926306829.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "donald trump",
+            "venezuela",
+            "petroleo",
+            "diario 2001",
+            "eeuu",
+            "nicolás maduro"
+        ],
+        "link": "https://2001online.com/nacionales/cabello-aclara-el-alcance-de-la-licencia-otorgada-a-chevron-es-privada-y-lo-que-diga-el-palangrismo-es-ficcion-202573021550",
+        "date": "2025-07-31 01:55:00",
+        "sentiment_score": 0.44633651338517666
+    },
+    {
+        "title": "¿Nodal borracho?: el artista se desploma en pleno concierto y fans afirman que estaba ebrio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753927391425.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "christian nodal",
+            "concierto"
+        ],
+        "link": "https://2001online.com/farandula/nodal-borracho-el-artista-se-desploma-en-pleno-concierto-y-fans-afirman-que-estaba-ebrio-202573021410",
+        "date": "2025-07-31 01:41:00",
+        "sentiment_score": -0.6386370621621609
+    },
+    {
+        "title": "Entregan áreas rehabilitadas del Hospital Militar en Caracas: atenderán más de 30 especialidades",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753925295271.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "hospital militar",
+            "caracas",
+            "rehabilitan hospital militar en caracas",
+            "hospital militar en caracas"
+        ],
+        "link": "https://2001online.com/nacionales/entregan-areas-rehabilitadas-del-hospital-militar-en-caracas-atenderan-mas-de-30-especialidades-20257302020",
+        "date": "2025-07-31 01:39:00",
+        "sentiment_score": 0.01830502599477768
+    },
+    {
+        "title": "Exjugador de NBA, Macus Morris: detenido en Las Vegas y esta es la causa",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753924921081.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "estafa",
+            "las vegas",
+            "fraude en casinos",
+            "fraude millonario",
+            "marcus morris",
+            "nba"
+        ],
+        "link": "https://2001online.com/deportes/exjugador-de-nba-macus-morris-detenido-en-las-vegas-y-esta-es-la-causa-202573022300",
+        "date": "2025-07-31 01:38:13",
+        "sentiment_score": -0.8136809291318059
+    },
+    {
+        "title": "Tom Cruise y Ana de Armas: el polémico historial amoroso de la nueva pareja del momento",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753904092518.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "famosos",
+            "romance",
+            "ana de armas",
+            "chisme",
+            "farándula",
+            "tom cruise"
+        ],
+        "link": "https://2001online.com/farandula/tom-cruise-y-ana-de-armas-el-polemico-historial-amoroso-de-la-nueva-pareja-del-momento-202573021300",
+        "date": "2025-07-31 01:30:00",
+        "sentiment_score": 0.09799900650978088
     }
 ];
