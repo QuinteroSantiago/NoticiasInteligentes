@@ -1,28 +1,5 @@
 export default [
     {
-        "title": "Venezuela vuelve a las urnas en unas elecciones municipales con marcada apatía",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/888768c2-20d6-45c5-8a01-47095d8747fc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "nicolás maduro",
-            "maría corina machado",
-            "venezuela",
-            "elecciones"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/internacional/2025/07/27/venezuela-elecciones-municipales-2025-resultados-120096441.html",
-        "date": "2025-07-27 06:16:02",
-        "sentiment_score": -0.3289269804954529
-    },
-    {
-        "title": "La subida de precios dispara por encima del 40% la brecha entre vivienda libre y protegida",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2017/09/01/li_59a997e0ca73a.jpeg",
-        "tags": [
-            "vivienda"
-        ],
-        "link": "https://www.20minutos.es/noticia/5734226/0/subida-precios-dispara-por-encima-40-brecha-entre-vivienda-libre-protegida/",
-        "date": "2025-07-27 05:59:10",
-        "sentiment_score": 0.1232670396566391
-    },
-    {
         "title": "Reino Unido recetará entradas de fútbol contra la depresión: “Las gradas son buenas para la cabeza”",
         "image_url": "https://www.infobae.com/resizer/v2/7UVGBHDCW5A5TMSRWMDIAS7ZXY.jpg?auth=74a2aa1e1334dd881a662f3e87ecd2f28072a68e528b2f3823331c4173938242&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -107,52 +84,6 @@ export default [
         "link": "https://www.lasexta.com/motor/noticias/coche-electrico-mitos-que-debes-dejar-atras-antes-comprar-uno_2025072768861bd5abb2960d1fb718fb.html",
         "date": "2025-07-27 12:30:13",
         "sentiment_score": -0.6452423185110092
-    },
-    {
-        "title": "Anne Igartiburu sorprende con su posición ante el escándalo de Iker Casillas: \"Igual me decís algo, pero...\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/06/08/684584485cca8.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20250727/1002506566/anne-igartiburu-sorprende-posicion-escandalo-iker-casillas-igual-me-decis-dct.html",
-        "date": "2025-07-27 09:43:13",
-        "sentiment_score": -0.050321996212005615
-    },
-    {
-        "title": "El Corte Inglés reelige a Marta Álvarez como presidenta y prevé invertir 3.000 millones",
-        "image_url": "https://www.diariodeferrol.com/images/showid2/7474538?w=900",
-        "tags": [
-            "marta álvarez",
-            "presidenta",
-            "el corte inglés"
-        ],
-        "link": "https://www.diariodeferrol.com/articulo/economia/corte-ingles-reelige-marta-alvarez-como-presidenta-preve-invertir-3000-millones-5378326",
-        "date": "2025-07-27 08:24:09",
-        "sentiment_score": 0.5462972670793533
-    },
-    {
-        "title": "Este es el casoplón que usa Florentino Pérez para pasar el verano en España",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/07/dgt-pere-navarro-321x197.jpg",
-        "tags": [
-            "florentino pérez",
-            "residencias",
-            "sociedad",
-            "real madrid"
-        ],
-        "link": "https://www.economiadigital.es/sociedad/casoplon-florentino-perez-pasar-verano-espana.html",
-        "date": "2025-07-27 08:00:00",
-        "sentiment_score": 0.6040757820010185
-    },
-    {
-        "title": "Claves imprescindibles que no te suelen dar para evitar lesiones durante el Camino de Santiago",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250727084454_690.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-claves-imprescindibles-no-te-suelen-dar-evitar-lesiones-camino-santiago-20250727084454.html",
-        "date": "2025-07-27 06:44:54",
-        "sentiment_score": -0.4284755773842335
     },
     {
         "title": "La energética de la Generalitat catalana tendrá el 10% de una central eléctrica reversible",
@@ -6443,5 +6374,502 @@ export default [
         "link": "https://2001online.com/sucesos/hombre-celoso-prende-fuego-a-la-casa-de-su-expareja-un-adulto-mayor-y-una-bebe-resultaron-heridos-202573011520",
         "date": "2025-07-30 15:52:00",
         "sentiment_score": -0.8259450942277908
+    },
+    {
+        "title": "Lotería 6/49: la combinación ganadora del sorteo de este 30 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/MKIVKEXZ7FAA3GSZXEOUYC24ZY.jpg?auth=0d3a09096e3675ae539775754e0d00e772eb057ee536ddf36c42697fc44f9654&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-economía",
+            "españa-loterías",
+            "6/49"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/loteria-649-la-combinacion-ganadora-del-sorteo-de-este-30-de-julio/",
+        "date": "2025-07-30 21:00:28",
+        "sentiment_score": 0.1043770145624876
+    },
+    {
+        "title": "Varios incendios activos en Pontevedra obligan a evacuar vecinos y requieren la intervención de la UME: “La situación es muy complicada”",
+        "image_url": "https://www.infobae.com/resizer/v2/RMVPFDQGHFAJVAATHH5JPUDJRQ.jpeg?auth=8abbc7827bb4d5bc76ede1a13d16c63edbc17fdca801abeb058e8cacc8f59a4d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-nacional",
+            "españa-noticias",
+            "incendio",
+            "galicia",
+            "pontevedra",
+            "unidad militar de emergencias",
+            "incendios forestales"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/varios-incendios-activos-en-pontevedra-obligan-a-evacuar-vecinos-y-requieren-la-intervencion-de-la-ume-la-situacion-es-muy-complicada/",
+        "date": "2025-07-30 20:46:07",
+        "sentiment_score": 0.016092758625745773
+    },
+    {
+        "title": "Números ganadores de Bonoloto de este 30 de julio",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2M3I6GTDRAKBDQBIJN7RTAJPE.png?auth=aa49b632d6506bc96a1ff7a3f2245bcfb6c28042071e793bc4355847be21fe47&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bonoloto",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/numeros-ganadores-de-bonoloto-de-este-30-de-julio/",
+        "date": "2025-07-30 20:15:39",
+        "sentiment_score": 0.6181680392473936
+    },
+    {
+        "title": "Super Once: jugada ganadora y resultado del Sorteo 5",
+        "image_url": "https://www.infobae.com/resizer/v2/PPFHQD7ONZCW5DHK2KQEM5XRCY.jpg?auth=7563789ed01319b51c40432578d3fab16da6f51f84c84520b021889f1d38cf5f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "super once",
+            "españa-economía",
+            "españa-loterías",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/super-once-jugada-ganadora-y-resultado-del-sorteo-5/",
+        "date": "2025-07-30 19:45:27",
+        "sentiment_score": 0.11465558409690857
+    },
+    {
+        "title": "Una joven asegura haber discutido con Froilán en una discoteca en Ibiza: “Me topé con una situación bastante incómoda”",
+        "image_url": "https://www.infobae.com/resizer/v2/QMZDVS2ANZCRFGL3EYUUTE4CYA.jpg?auth=1c8c34178c56a733933dfea5a88c0e7ed1a83af066aa797310679e2a79b10f8d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "froilán",
+            "españa-noticias",
+            "casa real españa",
+            "corazón y estilo españa",
+            "españa-entretenimiento",
+            "casas reales",
+            "realeza"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/una-joven-asegura-haber-discutido-con-froilan-en-una-discoteca-en-ibiza-me-tope-con-una-situacion-bastante-incomoda/",
+        "date": "2025-07-30 19:40:25",
+        "sentiment_score": -0.7769696563482285
+    },
+    {
+        "title": "Malú ficha por ‘Sueños de libertad’: el importante cambio que protagonizará en la serie de Antena 3",
+        "image_url": "https://www.infobae.com/resizer/v2/VS4TGIU7F5A7FEV6JPVC4SPPEI.jpg?auth=c477d1cb13e73f854c36495c488628aefb2509aeb67e61d8a3303261539d274d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "atresmedia",
+            "españa-noticias",
+            "televisión españa",
+            "antena 3",
+            "españa-entretenimiento",
+            "series españa",
+            "malú",
+            "sueños de libertad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/malu-ficha-por-suenos-de-libertad-el-importante-cambio-que-protagonizara-en-la-serie-de-antena-3/",
+        "date": "2025-07-30 19:40:06",
+        "sentiment_score": 0.6382448058575392
+    },
+    {
+        "title": "El aviso de un abogado sobre quien muere sin herederos: “Hay premio por comunicarlo”",
+        "image_url": "https://www.infobae.com/resizer/v2/TSX27M4TABDMNCL3SNNM2XGZJY.png?auth=7d8f296aaabac0fb15d3e3454db0c5fc53a03fc5d58b6aa4def7049b36d1d5d4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "impuestos españa",
+            "impuestos",
+            "abogados",
+            "testamento",
+            "españa-economia",
+            "herencias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/el-aviso-de-un-abogado-sobre-quien-muere-sin-herederos-hay-premio-por-comunicarlo/",
+        "date": "2025-07-30 19:26:28",
+        "sentiment_score": 0.08788290247321129
+    },
+    {
+        "title": "Una actriz ganadora de un Oscar afirma que lleva años “autorretirándose” tras ver cómo Hollywood trató a sus padres: “No quiero sufrir lo mismo que mi familia”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "españa-noticias",
+            "españa-cultura",
+            "cine",
+            "janet leigh",
+            "actrices",
+            "hollywood",
+            "jamie lee curtis",
+            "cine españa"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/07/30/una-actriz-ganadora-de-un-oscar-afirma-que-lleva-anos-autorretirandose-tras-ver-como-hollywood-trato-a-sus-padres-no-quiero-sufrir-lo-mismo-que-mi-familia/",
+        "date": "2025-07-30 19:26:22",
+        "sentiment_score": -0.2865913212299347
+    },
+    {
+        "title": "Cómo preparar helado de yogur casero, un postre fácil para el verano",
+        "image_url": "https://www.infobae.com/resizer/v2/7CSXAIAYMFGENNXOQRWU6WCCVI.jpg?auth=3a60780046a051b04a0e660059e6c22f13c6e44607fb6f8e512a36eb02959249&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "yogur",
+            "helado",
+            "españa-gastronomía",
+            "españa-noticias",
+            "helados",
+            "postre",
+            "postres"
+        ],
+        "link": "https://www.infobae.com/espana/2025/07/30/como-preparar-helado-de-yogur-casero-un-postre-facil-para-el-verano/",
+        "date": "2025-07-30 19:20:40",
+        "sentiment_score": 0.3097865991294384
+    },
+    {
+        "title": "Un colombiano sería la venta más cara del Monterrey de México en su historia: esto pagarán por Nelson Deossa desde España",
+        "image_url": "https://www.infobae.com/resizer/v2/A2FVW2NU6ZES3KUQ5YCQGO2ZJI.jpg?auth=374f73982f0b82b533fb2d5283208a327ff1406ef49d58537ca9df356443b352&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "fútbol españa",
+            "fichajes",
+            "laliga",
+            "colombianos en el exterior",
+            "colombia-deportes",
+            "nelson deossa",
+            "real betis",
+            "monterrey cf"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/07/30/un-colombiano-seria-la-venta-mas-cara-del-monterrey-de-mexico-en-su-historia-esto-pagaran-por-nelson-deossa-desde-espana/",
+        "date": "2025-07-30 18:57:08",
+        "sentiment_score": 0.3501593880355358
+    },
+    {
+        "title": "Trump firma una orden ejecutiva para incrementar los aranceles a Brasil hasta el 50 %",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/30/tumo1-kNDI-U701360655014WL-1200x840@diario_abc.jpg",
+        "tags": [
+            "jair bolsonaro",
+            "política exterior",
+            "brasil",
+            "importaciones",
+            "donald trump",
+            "empresas",
+            "estados unidos",
+            "derechos humanos"
+        ],
+        "link": "https://www.abc.es/internacional/trump-firma-orden-ejecutiva-incrementar-aranceles-brasil-20250730214038-nt.html",
+        "date": "2025-07-30 19:45:27",
+        "sentiment_score": -0.18258318305015564
+    },
+    {
+        "title": "Red Eléctrica descarta realizar provisiones sin que haya culpables claros del apagón",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/30/BeatrizCorredor-RdSmMJyUZdL6IsvTh68c3yI-1200x840@diario_abc.jpg",
+        "tags": [
+            "cnmc (comisión nacional de mercados y competencia )",
+            "red eléctrica",
+            "beatriz corredor sierra"
+        ],
+        "link": "https://www.abc.es/economia/red-electrica-descarta-realizar-provisiones-culpables-claros-20250730192216-nt.html",
+        "date": "2025-07-30 17:22:17",
+        "sentiment_score": -0.10734526813030243
+    },
+    {
+        "title": "El PIB de EE.UU. crece un 0,7% en el segundo trimestre",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/30/trump-reuters-RXe9YiFufrbutWWZNDRl2WM-1200x840@diario_abc.jpg",
+        "tags": [
+            "trimestre",
+            "pib",
+            "crece",
+            "segundo",
+            "eeuu"
+        ],
+        "link": "https://www.abc.es/economia/pib-eeuu-crece-segundo-trimestre-20250730192005-nt.html",
+        "date": "2025-07-30 17:20:55",
+        "sentiment_score": -0.11098398268222809
+    },
+    {
+        "title": "Detenido un hombre acusado de matar a su madre octogenaria en Torelló (Barcelona)",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DVBV2O55SJTLX7Q2JFZND66UGA.jpg?auth=8a061a4036c5d1a3e6baef8f49963d51b8d248d36d2c39d4f99df38cc81416f0&width=1200",
+        "tags": [
+            "mossos d'esquadra",
+            "investigación judicial",
+            "torelló",
+            "asesinatos",
+            "cataluña",
+            "barcelona",
+            "homicidios",
+            "sucesos"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-30/detenido-un-hombre-acusado-de-matar-a-su-madre-octogenaria-en-torello-barcelona.html",
+        "date": "2025-07-30 18:39:35",
+        "sentiment_score": -0.34722238779067993
+    },
+    {
+        "title": "En imágenes: Vinicius Jr. estrena look y lo comparan con Lamine Yamal",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753913344115.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "look de vinicius",
+            "brasil",
+            "look",
+            "fc barcelona",
+            "vinicius jr",
+            "lamine yamal",
+            "real madrid",
+            "vacaciones"
+        ],
+        "link": "https://2001online.com/deportes/en-imagenes-vinicius-jr-estrena-look-y-lo-comparan-con-lamine-yamal-20257301900",
+        "date": "2025-07-30 22:09:19",
+        "sentiment_score": 0.7151634991168976
+    },
+    {
+        "title": "David Sánchez responde a críticas al Barça por su nueva palanca: \"¿Y Fly Emirates?\"",
+        "image_url": "https://imagenes.cope.es/files/webp_328_184/uploads/2025/07/30/688a3dbc344b7.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/david-sanchez-responde-criticas-fc-barcelona-palanca-congo-fly-emirates-hay-debate-moralista-20250731_3193209.html",
+        "date": "2025-07-30 22:02:10",
+        "sentiment_score": -0.11107727885246277
+    },
+    {
+        "title": "Real Oviedo y la celebración más especial del siglo azul",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/07/30/107254459-k0LH--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo",
+            "estadio carlos tartiere"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-celebracion-especial-siglo-azul-20250731215828-nt.html",
+        "date": "2025-07-30 22:00:00",
+        "sentiment_score": 0.2937674820423126
+    },
+    {
+        "title": "Unos 224.275 progenitores tuvieron prestación natal",
+        "image_url": "https://static.laregion.es/clip/7bb04fdd-7e85-4522-9b12-1cb97e8cce58_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "seguridad social",
+            "menores"
+        ],
+        "link": "https://www.laregion.es/sociedad/224-275-progenitores-tuvieron-prestacion_1_20250730-3937343.html",
+        "date": "2025-07-30 21:30:31",
+        "sentiment_score": 0.11970581859350204
+    },
+    {
+        "title": "Así se enteró de cómo su pareja le estaba siendo infiel con Iker Casillas: \"Me fui de casa\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0a91cd9c-871a-465a-86c5-baded527d72c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sociedad,historia,instagram,telecinco,real madrid"
+        ],
+        "link": "https://www.elperiodicomediterraneo.com/sociedad/2025/07/30/entero-pareja-infiel-iker-casillas-120218423.html",
+        "date": "2025-07-30 20:59:40",
+        "sentiment_score": 0.04425792396068573
+    },
+    {
+        "title": "El Atlético de Madrid cede a Thomas Lemar al Girona",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/fbf7ff1f-484e-46ee-aeb04c6ad4564789.jpg",
+        "tags": [
+            "girona fc",
+            "atlético de madrid",
+            "real madrid",
+            "supercopa de europa",
+            "laliga ea sports"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zf0f8fd54-a8a2-489c-8cea52e842b5606c/202507/el-atletico-de-madrid-cede-a-thomas-lemar-al-girona",
+        "date": "2025-07-30 20:38:26",
+        "sentiment_score": 0.45927455462515354
+    },
+    {
+        "title": "La decisión sobre la prisión de Cerdán en el Constitucional recae sobre el magistrado conservador Macías",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/07/europapress-6816945-presidente-tribunal-constitucional-candido-conde-pumpido-vicepresidenta-1440x808.jpg",
+        "tags": [
+            "tribunal constitucional",
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/07/30/la-decision-sobre-la-prision-de-cerdan-en-el-constitucional-recae-sobre-el-magistrado-conservador-macias/",
+        "date": "2025-07-30 20:27:13",
+        "sentiment_score": -0.24414455518126488
+    },
+    {
+        "title": "El Real Zaragoza celebra con una victoria su primer partido con público en el Ibercaja Estadio",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/07/30/2025073021574117714.jpg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/real-zaragoza/victoria-real-zaragoza-segundo-test-mirandes-primer-partido-publico-ibercaja-estadio/20250730222030935157.html",
+        "date": "2025-07-30 20:20:30",
+        "sentiment_score": 0.7049849890172482
+    },
+    {
+        "title": "La corrupción y los pecados capitales",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "política",
+            "corrupción",
+            "luz",
+            "exposición"
+        ],
+        "link": "https://www.lne.es/opinion/2025/07/31/corrupcion-pecados-capitales-120213699.html",
+        "date": "2025-07-30 20:07:37",
+        "sentiment_score": -0.7445911131799221
+    },
+    {
+        "title": "La Hermandad del marido de Aguirre y la paradoja de fomentar la desigualdad mientras da limosna a sus afectados",
+        "image_url": "https://static.eldiario.es/clip/9a929b6e-2f99-4524-94fc-f1674174bb46_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "da",
+            "limosna",
+            "desigualdad",
+            "aguirre",
+            "marido",
+            "paradoja",
+            "hermandad",
+            "fomentar",
+            "afectados"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/hermandad-marido-aguirre-paradoja-fomentar-desigualdad-da-limosna-afectados_1_12483767.html",
+        "date": "2025-07-30 20:00:28",
+        "sentiment_score": -0.1056322455406189
+    },
+    {
+        "title": "¡Negligentes! Padres dejan solo a su hijo de 10 años en el aeropuerto para no perder su vuelo",
+        "image_url": "https://www.metroworldnews.com/resizer/v2/77VG6GFLG5BCNM25RQHA2APPMQ.jpg?auth=1f072c0eca0e0155d740199ddb47dbb9a88c90edc39a08bf78c5676f27fddd26&height=853&smart=true&width=1280",
+        "tags": [
+            "abandonado",
+            "video viral",
+            "aeropuerto"
+        ],
+        "link": "https://www.metroworldnews.com/noticias/2025/07/30/negligentes-padres-dejan-solo-a-su-hijo-de-10-anos-en-el-aeropuerto-para-no-perder-su-vuelo/",
+        "date": "2025-07-30 22:08:40",
+        "sentiment_score": -0.7707020845264196
+    },
+    {
+        "title": "Sanitarios españoles al rescate de los niños de Gaza",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/08/04/gaza-baby-RrnkTm0CbCS32eE4v8al5AO-1200x840@RC.jpg",
+        "tags": [
+            "sanitarios",
+            "gaza",
+            "rescate",
+            "espanoles",
+            "ninos"
+        ],
+        "link": "https://www.hoy.es/sociedad/sanitarios-espanoles-rescate-ninos-gaza-20250804000328-ntrc.html",
+        "date": "2025-07-30 22:03:29",
+        "sentiment_score": -0.20555896311998367
+    },
+    {
+        "title": "Sàmper, 'conseller' de Empresa: \"El nuevo centro de Chery es una buena noticia, pero es solo un primer paso\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/30/politica/1003742678267_14953294_1706x960.jpg?contentId=1003742678267",
+        "tags": [
+            "cataluña",
+            "inversiones",
+            "salvador illa",
+            "empresas",
+            "business",
+            "miquel samper",
+            "china"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250730/samper-conseller-empresa-centro-chery-noticia-primer/1003742678142_0.html",
+        "date": "2025-07-30 22:00:00",
+        "sentiment_score": -0.5048956200480461
+    },
+    {
+        "title": "'Le Monde': “Aragón y Cataluña luchan por la 'Capilla Sixtina del arte románico'”",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2024/04/13/vida/847425267_12773222_1706x960.jpg?contentId=847425267",
+        "tags": [
+            "francia",
+            "cataluña",
+            "mnac",
+            "sijena",
+            "habla el extranjero"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/habla-el-extranjero/20250730/monde-aragon-cataluna-luchan-capilla-sixtina-romanico/1003742678233_0.html",
+        "date": "2025-07-30 22:00:00",
+        "sentiment_score": -0.519914910197258
+    },
+    {
+        "title": "Justin Bieber sorprende al compartir su reflexión tras el éxito masivo de “SWAG”: Puedo ser egoísta",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753915680778.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "justin bieber",
+            "swag"
+        ],
+        "link": "https://2001online.com/farandula/justin-bieber-sorprende-al-compartir-su-reflexion-tras-el-exito-masivo-de-swag-puedo-ser-egoista-202573018190",
+        "date": "2025-07-30 22:19:00",
+        "sentiment_score": 0.669501019641757
+    },
+    {
+        "title": "Llegan más de 200 venezolanos en vuelo del Plan Vuelta a la Patria: regresan desde Honduras",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753913810782.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "plan vuelta a la patria"
+        ],
+        "link": "https://2001online.com/nacionales/llegan-mas-de-200-venezolanos-en-vuelo-del-plan-vuelta-a-la-patria-regresan-desde-honduras-202573018170",
+        "date": "2025-07-30 22:17:00",
+        "sentiment_score": 0.030318081378936768
+    },
+    {
+        "title": "Fiscalía imputará a dos sujetos por el tráfico de cocaína: los interceptaron en las costas de Falcón",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753911520328.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "drogas",
+            "diario 2001",
+            "venezuela",
+            "seguridad"
+        ],
+        "link": "https://2001online.com/sucesos/fiscalia-imputara-a-dos-sujetos-por-el-trafico-de-cocaina-los-interceptaron-en-las-costas-de-falcon-202573018100",
+        "date": "2025-07-30 22:10:00",
+        "sentiment_score": -0.3347605913877487
+    },
+    {
+        "title": "De actor a empresario: Leonardo DiCaprio construye un hotel ecológico en una playa exclusiva de Israel",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753913439926.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "hotel",
+            "leonardo dicaprio"
+        ],
+        "link": "https://2001online.com/farandula/de-actor-a-empresario-leonardo-dicaprio-construye-un-hotel-ecologico-en-una-playa-exclusiva-de-israel--20257301880",
+        "date": "2025-07-30 22:08:00",
+        "sentiment_score": 0.6373829888179898
+    },
+    {
+        "title": "¡Más dinero! Florida aumenta el salario mínimo a $14 por hora: sepa desde cuándo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753913011689.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "florida",
+            "salario",
+            "aumento"
+        ],
+        "link": "https://2001online.com/usa/servicios/mas-dinero-florida-aumenta-el-salario-minimo-a-14-por-hora-sepa-desde-cuando-20257301830",
+        "date": "2025-07-30 22:03:00",
+        "sentiment_score": -0.01922653615474701
+    },
+    {
+        "title": "Ola de calor azota Nueva York: temperaturas récord y pronóstico para los próximos días",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753912805425.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "pronóstico del tiempo",
+            "ola de calor",
+            "nueva york"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ola-de-calor-azota-nueva-york-temperaturas-record-y-pronostico-para-los-proximos-dias--202573017590",
+        "date": "2025-07-30 21:59:00",
+        "sentiment_score": 0.5937552228569984
+    },
+    {
+        "title": "Nueva jornada especial de Mercantil para apertura de cuenta corriente simplificada: conoce los detalles del operativo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753912343056.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "jornada especial",
+            "cuenta corriente simplificada",
+            "mercantil"
+        ],
+        "link": "https://2001online.com/servicios/nueva-jornada-especial-de-mercantil-para-apertura-de-cuenta-corriente-simplificada-conoce-los-detalles-del-operativo-202573017580",
+        "date": "2025-07-30 21:58:00",
+        "sentiment_score": -0.04544461518526077
+    },
+    {
+        "title": "Romance confirmado: Jessica Alba y Danny Ramírez sellan su nueva relación al ser vistos juntos en Los Ángeles",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753912567804.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "jessica alba",
+            "danny ramirez"
+        ],
+        "link": "https://2001online.com/farandula/romance-confirmado-jessica-alba-y-danny-ramirez-sellan-su-nueva-relacion-al-ser-vistos-juntos-en-los-angeles-202573017380",
+        "date": "2025-07-30 21:38:00",
+        "sentiment_score": -0.12187927961349487
+    },
+    {
+        "title": "Venezuela confirma cuerpo técnico de lujo para el Clásico Mundial de Beisbol: Miguel Cabrera dirá presente",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753913342663.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "miguel cabrera",
+            "clásico mundial de beisbol"
+        ],
+        "link": "https://2001online.com/deportes/venezuela-confirma-cuerpo-tecnico-de-lujo-para-el-clasico-mundial-de-beisbol-miguel-cabrera-dira-presente-202573017360",
+        "date": "2025-07-30 21:36:00",
+        "sentiment_score": -0.48449892550706863
     }
 ];
