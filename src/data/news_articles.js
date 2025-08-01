@@ -1,65 +1,5 @@
 export default [
     {
-        "title": "El empleado que creó una red de talleres para todos los vehículos",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/07/28/buirtago-granada-ka9-U2302454486949c9G-1200x840@Ideal.jpg",
-        "tags": [
-            "trabajo",
-            "granada",
-            "granada (provincia)",
-            "polígono juncaril",
-            "neumáticos",
-            "motril"
-        ],
-        "link": "https://www.ideal.es/economia/factoria-de-empresas/empleado-creo-red-talleres-vehiculos-20250728082255-nt.html",
-        "date": "2025-07-28 06:22:56",
-        "sentiment_score": 0.5031443051993847
-    },
-    {
-        "title": "Trevenque, tecnología de Granada para el mundo",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/07/28/trevenque-kLdD-U2302444412670ZFB-1200x840@Ideal.jpg",
-        "tags": [
-            "latinoamérica",
-            "barcelona (provincia)",
-            "españa",
-            "granada",
-            "andalucía",
-            "servicios sociales"
-        ],
-        "link": "https://www.ideal.es/economia/factoria-de-empresas/trevenque-tecnologia-granada-mundo-20250728082300-nt.html",
-        "date": "2025-07-28 06:23:01",
-        "sentiment_score": 0.8341377153992653
-    },
-    {
-        "title": "Jennifer López se queda en paños menores en su último concierto en Polonia: su cara lo dice todo",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/07/28/688711881a9bc.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/gente/20250728/1002506940/jennifer-lopez-queda-panos-menores-ultimo-concierto-polonia-cara-dice-dct.html",
-        "date": "2025-07-28 06:15:45",
-        "sentiment_score": 0.34526778757572174
-    },
-    {
-        "title": "Cortada la R5 de FGC entre de Sant Vicenç de Castellet y Manresa (Barcelona) por robo de cobre",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b8413918-99b0-469e-bef3-d73770f6b3c7_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ferrocarrils de la generalitat (fgc)"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20250728/cortada-r5-fgc-sant-vicenc-120118545",
-        "date": "2025-07-28 05:34:42",
-        "sentiment_score": -0.7951246770098805
-    },
-    {
-        "title": "Cortada la R5 de FGC entre de Sant Vicenç de Castellet y Manresa (Barcelona) por robo de cobre",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250728072817_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-cortada-r5-fgc-sant-vicenc-castellet-manresa-barcelona-robo-cobre-20250728072817.html",
-        "date": "2025-07-28 05:28:17",
-        "sentiment_score": -0.7535594189539552
-    },
-    {
         "title": "Una madre soltera pide cambio de horario en Mercadona para cuidar a su hijo, pero la empresa ofrece otros turnos y la Justicia lo avala: “No es un derecho absoluto”",
         "image_url": "https://www.infobae.com/resizer/v2/FDOGQSWTHFAZJI73RFUY6JSAMQ.jpg?auth=8a15f66fec18bf9e5da6d5cbaed10d58ea26f9644a74c6011e5da6b18ea30955&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -321,29 +261,6 @@ export default [
         "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-tirar-basura-20250728125412-nt.html",
         "date": "2025-07-28 10:57:09",
         "sentiment_score": -0.15398193895816803
-    },
-    {
-        "title": "Abanca supera previsiones y gana 427 millones en el primer semestre de 2025",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/07/28/abancofi-RvxkW7RMoYCrCCkgyJnQ1nM-1200x840@diario_abc.jpg",
-        "tags": [
-            "galicia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/galicia/abanca-supera-previsiones-gana-427-millones-primer-20250728114619-nt.html",
-        "date": "2025-07-28 09:46:20",
-        "sentiment_score": 0.2732093632221222
-    },
-    {
-        "title": "Tesla y Samsung sellan una estratégica alianza para la venta de chips de 16.500 millones de dólares",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/28/tesla-kBlF-U7013475017840rG-1200x840@diario_abc.JPG",
-        "tags": [
-            "samsung",
-            "uh abc",
-            "tesla"
-        ],
-        "link": "https://www.abc.es/economia/tesla-samsung-sellan-estrategica-alianza-venta-chips-20250728100209-nt.html",
-        "date": "2025-07-28 08:03:27",
-        "sentiment_score": -0.0577273964881897
     },
     {
         "title": "El viaje para ver a la familia que acabó en tragedia en una carretera de Cuenca",
@@ -8101,5 +8018,441 @@ export default [
         "link": "https://2001online.com/deportes/noche-de-leyendas-donde-verla-leerla-y-jugarla--20257311270",
         "date": "2025-07-31 16:07:00",
         "sentiment_score": 0.8159924764186144
+    },
+    {
+        "title": "Los de Juan Luis Fraile deslucen la segunda corrida del verano venteño",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/los-de-juan-luis-fraile-deslucen-la-segunda-corrida-del-verano-venteno/",
+        "date": "2025-07-31 22:19:44",
+        "sentiment_score": -0.5424071624875069
+    },
+    {
+        "title": "De princesa a reina del pop en España, Aitana cierra en el Metropolitano su metamorfosis",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3408",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/31/de-princesa-a-reina-del-pop-en-espana-aitana-cierra-en-el-metropolitano-su-metamorfosis/",
+        "date": "2025-07-31 22:19:05",
+        "sentiment_score": 0.3069699630141258
+    },
+    {
+        "title": "El eslovaco Tomas Drahovsky, traspasado por el Movistar Inter al Catania de Italia",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3408",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/el-eslovaco-tomas-drahovsky-traspasado-por-el-movistar-inter-al-catania-de-italia/",
+        "date": "2025-07-31 22:18:46",
+        "sentiment_score": -0.182391457259655
+    },
+    {
+        "title": "Panamá y Perú firman un acuerdo que fortalece su conectividad aérea",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/panama-y-peru-firman-un-acuerdo-que-fortalece-su-conectividad-aerea/",
+        "date": "2025-07-31 22:15:41",
+        "sentiment_score": 0.7398938946425915
+    },
+    {
+        "title": "Imanol Arias tira de martinete y soleá en su pregón interpretado en el Cante de las Minas",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/imanol-arias-tira-de-martinete-y-solea-en-su-pregon-interpretado-en-el-cante-de-las-minas/",
+        "date": "2025-07-31 21:47:07",
+        "sentiment_score": -0.07281948626041412
+    },
+    {
+        "title": "Iberdrola vende su filial en México y centra el foco en EEUU, Brasil, Reino Unido y España",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "scottishpower energy networks",
+            "neoenergia",
+            "méxico",
+            "iberdrola",
+            "efe",
+            "i-de",
+            "inversiones energéticas",
+            "cox",
+            "avangrid networks",
+            "venta de filial",
+            "estados unidos"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/iberdrola-vende-su-filial-en-mexico-y-centra-el-foco-en-eeuu-brasil-reino-unido-y-espana/",
+        "date": "2025-07-31 21:46:55",
+        "sentiment_score": 0.3993879109621048
+    },
+    {
+        "title": "Austria Viena, Rosenborg, AZ Alkmaar, Dundee y Sparta Praga avanzan a la tercera ronda",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/austria-viena-rosenborg-az-alkmaar-dundee-y-sparta-praga-avanzan-a-la-tercera-ronda/",
+        "date": "2025-07-31 21:45:38",
+        "sentiment_score": 0.1778973639011383
+    },
+    {
+        "title": "Trump: Plan de Canadá para reconocer a Palestina no es \"factor decisivo\" en negociaciones",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/trump-plan-de-canada-para-reconocer-a-palestina-no-es-factor-decisivo-en-negociaciones/",
+        "date": "2025-07-31 21:45:18",
+        "sentiment_score": -0.5377961806952953
+    },
+    {
+        "title": "Vía Campesina califica pacto comercial entre la UE y Estados Unidos como \"un desastre\"",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/via-campesina-califica-pacto-comercial-entre-la-ue-y-estados-unidos-como-un-desastre/",
+        "date": "2025-07-31 21:16:59",
+        "sentiment_score": -0.9266789350658655
+    },
+    {
+        "title": "Amazon gana 35.291 millones de dólares hasta junio, un 47 % más interanual",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/amazon-gana-35291-millones-de-dolares-hasta-junio-un-47-mas-interanual/",
+        "date": "2025-07-31 21:16:43",
+        "sentiment_score": 0.4986400194466114
+    },
+    {
+        "title": "Cellnex reduce pérdidas un 72,5% el primer semestre hasta 115 millones y sube ingresos un 6%",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/31/cellnex-jaime-garcia_20250731194124-RAoO9q4fbaxMkrz06KRCOoM-1200x840@diario_abc.jpg",
+        "tags": [
+            "europa",
+            "austria",
+            "irlanda"
+        ],
+        "link": "https://www.abc.es/economia/cellnex-reduce-perdidas-725-primer-semestre-115-20250731194554-nt.html",
+        "date": "2025-07-31 17:45:55",
+        "sentiment_score": -0.05169519782066345
+    },
+    {
+        "title": "La moda de las fiestas de 15 años llega a España: «Nos hemos gastado 8.000 euros en esta celebración»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/play/2025/07/31/fiesta-RQ3HPlWgeABrQ1aQ2lu2H2J-1200x840@diario_abc.jpg",
+        "tags": [
+            "antena 3",
+            "colombia",
+            "familia"
+        ],
+        "link": "https://www.abc.es/play/television/noticias/moda-fiestas-anos-llega-espana-gastado-8000-20250731194325-nt.html",
+        "date": "2025-07-31 17:43:25",
+        "sentiment_score": -0.03634333610534668
+    },
+    {
+        "title": "PSOE y Más Madrid visitan sin éxito el chalé de Rascafría al que fue Ayuso con su familia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UZOFVJPRYFCXFEF6ZS6R62UUUI.JPG?auth=833bc0103ed5e74fd9ab2120b8fc43c05f74e391e2a0977afb53ddf7f87313a1&width=1200",
+        "tags": [
+            "isabel díaz ayuso",
+            "madrid",
+            "más madrid",
+            "rascafría",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-07-31/psoe-y-mas-madrid-visitan-sin-exito-el-chale-de-rascafria-al-que-fue-ayuso-con-su-familia.html",
+        "date": "2025-07-31 19:53:17",
+        "sentiment_score": -0.7138838060200214
+    },
+    {
+        "title": "Barcelona acuerda con Endesa mejoras en las instalaciones tras los cortes de luz en plena ola de calor",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MMPPV6TZM5CCVAFQVMOVSYGJ5Q?auth=05cb8a374bb03fcffe40e23ea60308925746b10e333f60e080b50875bb2c517a&width=1200",
+        "tags": [
+            "endesa",
+            "energía eléctrica",
+            "jaume collboni",
+            "laia bonet",
+            "cataluña",
+            "luz",
+            "apagones luz",
+            "energía"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-31/barcelona-acuerda-con-endesa-mejoras-en-las-instalaciones-tras-los-cortes-de-luz-en-plena-ola-de-calor.html",
+        "date": "2025-07-31 18:17:54",
+        "sentiment_score": 0.488923754543066
+    },
+    {
+        "title": "Hospitales catalanes atienden a seis menores enfermos provenientes de Gaza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XJGMYIYEMVL57IAPQQLDIMYVQA.jpg?auth=d98d7d9cad0e5c9f6d1d9f85d1d1253a61537fea259b515153eca33fd6391a59&width=1200",
+        "tags": [
+            "msf",
+            "cataluña",
+            "hospital general vall d'hebron",
+            "conflicto árabe-israelí",
+            "hospitales"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-07-31/hospitales-catalanes-atienden-a-seis-menores-enfermos-provenientes-de-gaza.html",
+        "date": "2025-07-31 18:12:11",
+        "sentiment_score": 0.42469518072903156
+    },
+    {
+        "title": "Matar, morir y corromper: crímenes reales de la aristocracia española",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/07/crimenes.jpg",
+        "tags": [
+            "tendencias",
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/tendencias/2025/08/01/matar-morir-y-corromper-crimenes-reales-de-la-aristocracia-espanola/",
+        "date": "2025-07-31 22:06:01",
+        "sentiment_score": -0.5571159012615681
+    },
+    {
+        "title": "En Madrid no hay playa, pero sí sierra: descubre 10 restaurantes donde comer de lujo este verano",
+        "image_url": "https://phantom-elmundo.uecdn.es/8737be2450c9f9b283fae7bff1e8bc9c/crop/0x0/3066x2044/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/10/17521596381357.jpg",
+        "tags": [
+            "madrid",
+            "gastronomía",
+            "comer",
+            "restaurantes"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/08/01/686cf28fe85ece8b738b4585.html",
+        "date": "2025-07-31 22:04:14",
+        "sentiment_score": 0.6779754720628262
+    },
+    {
+        "title": "La IFSC Climbing World Cup Comunidad de Madrid 2025 ya forma parte de la historia de la escalada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b787f1ea-9752-4b76-b82a-de85e87de2dc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "escalada,comunidad de madrid,iberdrola,deportes,copa del mundo,escalada deportiva"
+        ],
+        "link": "https://www.laopiniondezamora.es/deportes/2025/07/31/ifsc-climbing-world-cup-comunidad-120255044.html",
+        "date": "2025-07-31 21:59:52",
+        "sentiment_score": 0.7639099098742008
+    },
+    {
+        "title": "El proyecto Haarp no ha provocado el terremoto en Kamchatka ni el posterior tsunami",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3402",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/07/31/el-proyecto-haarp-no-ha-provocado-el-terremoto-en-kamchatka-ni-el-posterior-tsunami/",
+        "date": "2025-07-31 21:45:56",
+        "sentiment_score": -0.6544289812445641
+    },
+    {
+        "title": "El mal menor de Iker Benito",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2025/07/30/688a8cf410675.jpeg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/osasuna/2025/07/31/iker-benito-perdera-el-inicio-liguero-osasuna-655993-1027.html",
+        "date": "2025-07-31 21:27:46",
+        "sentiment_score": -0.71285748668015
+    },
+    {
+        "title": "El Atlético de Madrid ejerce la opción de recompra por Mouriño",
+        "image_url": "https://www.eldiadevalladolid.com/media/img/2025/bf468304-6f47-40f3-a2fe50896e39edc8.jpg",
+        "tags": [
+            "atlético de madrid",
+            "alavés",
+            "vitoria",
+            "real zaragoza",
+            "villarreal cf"
+        ],
+        "link": "https://www.eldiadevalladolid.com/noticia/z9ab01aeb-edea-4fce-881f6b38d615bcff/202507/el-atletico-de-madrid-ejerce-la-opcion-de-recompra-por-mourino",
+        "date": "2025-07-31 20:59:09",
+        "sentiment_score": -0.8552876161411405
+    },
+    {
+        "title": "«Lo más bestia que he visto fue el escenario giratorio de U2»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/07/23/escenarios-kU4E-U23024436443470sC-1200x840@RC.jpg",
+        "tags": [
+            "ac-dc",
+            "iron maiden",
+            "u2",
+            "the rolling stones",
+            "the beatles",
+            "la fura dels baus",
+            "bandas de música",
+            "verano"
+        ],
+        "link": "https://www.ideal.es/vivir/bestia-visto-escenario-giratorio-20250724001648-ntrc.html",
+        "date": "2025-07-31 22:16:49",
+        "sentiment_score": 0.24956806004047394
+    },
+    {
+        "title": "Ruta Live será este 1° de agosto en Barcelona",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/07/Ruta-Live.jpeg",
+        "tags": [
+            "zxgeneral",
+            "anzoátegui"
+        ],
+        "link": "https://ultimasnoticias.com.ve/anzoateggui/ruta-live-sera-este-1-de-agosto-en-barcelona/",
+        "date": "2025-07-31 22:07:25",
+        "sentiment_score": 0.03564637154340744
+    },
+    {
+        "title": "“Nuestro mejor incentivo es hacer solo lo que nos divierte”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/07/31/688b883296482.r_d.2992-1754-764.jpeg",
+        "tags": [
+            "la contra"
+        ],
+        "link": "https://www.lavanguardia.com/lacontra/20250801/10941772/carlos-jordi-grangel-nuestro-mejor-incentivo-divierte.html",
+        "date": "2025-07-31 22:05:00",
+        "sentiment_score": -0.08411476016044617
+    },
+    {
+        "title": "El calvario de María y Jesús con sus hijas tras un \"pseudoterapia\" que rompió la familia",
+        "image_url": "https://phantom-elmundo.uecdn.es/09842518c5d1dbc06dc2eb70c1bae85c/crop/0x132/1920x1412/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/28/17536903128384.jpg",
+        "tags": [
+            "psicología",
+            "málaga",
+            "sociedad",
+            "andalucía",
+            "tribunales"
+        ],
+        "link": "https://www.elmundo.es/andalucia/2025/08/01/68873390e4d4d8d3188b45a3.html",
+        "date": "2025-07-31 22:03:06",
+        "sentiment_score": -0.8205524627119303
+    },
+    {
+        "title": "Un julio trágico en las carreteras de Lleida dispara las muertes de tráfico en Cataluña",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/31/vida/1003742678707_14961917_1706x960.jpg?contentId=1003742678707",
+        "tags": [
+            "servei català de trànsit",
+            "accidentes",
+            "vida"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20250731/tragico-carreteras-lleida-dispara-muertes-trafico-cataluna/1003742678654_0.html",
+        "date": "2025-07-31 22:00:00",
+        "sentiment_score": -0.8397805951535702
+    },
+    {
+        "title": "¿Laura Zapata le guarda rencor a Karol G por no incluirla en su homenaje de villanas?: este fue el duro comentario que hizo sobre la artista",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754000393526.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "rivalidades",
+            "polémica"
+        ],
+        "link": "https://2001online.com/farandula/laura-zapata-le-guarda-rencor-a-karol-g-por-no-incluirla-en-su-homenaje-de-villanas-este-fue-el-duro-comentario-que-hizo-sobre-la-artista-202573118190",
+        "date": "2025-07-31 22:19:00",
+        "sentiment_score": -0.31935612112283707
+    },
+    {
+        "title": "Prepárate para el mal tiempo en Nueva York: tome nota de los números de emergencia para reportar apagones",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754000159705.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "números de emergencia",
+            "pronóstico del clima",
+            "nueva york"
+        ],
+        "link": "https://2001online.com/usa/internacionales/preparate-para-el-mal-tiempo-en-nueva-york-tome-nota-de-los-numeros-de-emergencia-para-reportar-apagones-202573118120",
+        "date": "2025-07-31 22:12:00",
+        "sentiment_score": -0.7461862228810787
+    },
+    {
+        "title": "Fallece niño de 2 años en guardería de Connecticut: se atragantó comiendo albóndigas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753999330209.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "negligencia infantil",
+            "connecticut"
+        ],
+        "link": "https://2001online.com/usa/internacionales/fallece-nino-de-2-anos-en-guarderia-de-connecticut-se-atraganto-comiendo-albondigas-202573118110",
+        "date": "2025-07-31 22:11:00",
+        "sentiment_score": -0.7151102926582098
+    },
+    {
+        "title": "Hermanos Williams: Iñaki y Nico denuncian intento de coacción tras acusación por estafa",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753999582847.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "omnigestion 24 slu",
+            "nico williams",
+            "iñaki williams",
+            "bilbao",
+            "mercedes amg",
+            "athletic bilbao",
+            "estafa"
+        ],
+        "link": "https://2001online.com/deportes/hermanos-williams-inaki-y-nico-denuncian-intento-de-coaccion-tras-acusacion-por-estafa-202573118450",
+        "date": "2025-07-31 22:10:45",
+        "sentiment_score": -0.8806081544607878
+    },
+    {
+        "title": "Forenses revelan la causa de muerte del luchador Hulk Hogan: conozca los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753999400788.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "wwe",
+            "hulk hogan",
+            "luchador"
+        ],
+        "link": "https://2001online.com/farandula/forenses-revelan-la-causa-de-muerte-del-luchador-hulk-hogan-conozca-los-detalles-20257311800",
+        "date": "2025-07-31 22:00:00",
+        "sentiment_score": -0.7981453314423561
+    },
+    {
+        "title": "¡Tecnología de punta! Dallas tendrá su primera línea de robotaxis: comenzarán a operar en el 2026",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753998106471.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "dallas",
+            "línea",
+            "robotaxis"
+        ],
+        "link": "https://2001online.com/usa/servicios/tecnologia-de-punta-dallas-tendra-su-primera-linea-de-robotaxis-comenzaran-a-operar-en-el-2026-20257311800",
+        "date": "2025-07-31 22:00:00",
+        "sentiment_score": 0.8296938976272941
+    },
+    {
+        "title": "Alerta sanitaria en Nueva York: brote de legionela deja un muerto y más de 20 contagiados",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753992530670.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "internacionales",
+            "legionela",
+            "alud",
+            "estados unidos",
+            "nueva york"
+        ],
+        "link": "https://2001online.com/usa/internacionales/alerta-sanitaria-en-nueva-york-brote-de-legionela-deja-un-muerto-y-mas-de-20-contagiados-20257311800",
+        "date": "2025-07-31 22:00:00",
+        "sentiment_score": -0.3325114566832781
+    },
+    {
+        "title": "Modelos, reciclaje y arte en vivo: el desfile \"Class-715\" mostró la moda desde un concepto sustentable",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753999591068.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "moda",
+            "desfile en caracas"
+        ],
+        "link": "https://2001online.com/farandula/modelos-reciclaje-y-arte-en-vivo-el-desfile-class-715-mostro-la-moda-desde-un-concepto-sustentable-202573117510",
+        "date": "2025-07-31 21:51:00",
+        "sentiment_score": 0.7972924187779427
+    },
+    {
+        "title": "Escándalo en la Leagues Cup: guardaespaldas de Lionel Messi empuja a jugadores del Atlas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753999662103.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "leagues cup",
+            "inter de miami",
+            "guardaespaldas de messi",
+            "mls",
+            "lionel messi",
+            "yassine cheuko"
+        ],
+        "link": "https://2001online.com/deportes/escandalo-en-la-leagues-cup-guardaespaldas-de-lionel-messi-empuja-a-jugadores-del-atlas-202573118350",
+        "date": "2025-07-31 21:40:03",
+        "sentiment_score": -0.17385539412498474
+    },
+    {
+        "title": "Batalla de superhéroes: Los 4 fantásticos destrona a Superman como la película más taquillera del momento",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753998217244.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "'los 4 fantásticos'",
+            "superman"
+        ],
+        "link": "https://2001online.com/farandula/batalla-de-superheroes-los-4-fantasticos-destrona-a-superman-como-la-pelicula-mas-taquillera-del-momento-202573117380",
+        "date": "2025-07-31 21:38:00",
+        "sentiment_score": 0.5070401765406132
     }
 ];
