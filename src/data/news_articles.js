@@ -167,102 +167,6 @@ export default [
         "sentiment_score": -0.10279810428619385
     },
     {
-        "title": "Más de 700.000 euros vuelven a poner operativo el centro de salud de Mira, arrasado por la dana",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/07/28/centro-salud-mira-Rg0c1IMTRAmPeWGsvDzcvwI-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "castilla la mancha"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/700000-euros-vuelven-poner-operativo-centro-salud-20250728144050-nt.html",
-        "date": "2025-07-28 12:40:51",
-        "sentiment_score": -0.06216108798980713
-    },
-    {
-        "title": "Airbus compra sistemas antimisiles a la israelí Elbit para la flota de A400M alemana por 223 millones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/07/28/airbus-logo-kVcE-U7013485729618BI-1200x840@diario_abc.jpg",
-        "tags": [
-            "aviones",
-            "airbus",
-            "ministerio de defensa",
-            "uh abc",
-            "defensa"
-        ],
-        "link": "https://www.abc.es/economia/airbus-compra-sistemas-antimisiles-israeli-elbit-flota-20250728135908-nt.html",
-        "date": "2025-07-28 12:07:10",
-        "sentiment_score": -0.02107200026512146
-    },
-    {
-        "title": "Un portal de datos abiertos para más transparencia e información «inteligente» en la gestión del agua urbana en Alicante",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/07/28/centro-de-control-amaem-RIo2ea1IeRCy6y6a5pEaOLK-1200x840@diario_abc.png",
-        "tags": [
-            "valencia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/portal-datos-abiertos-transparencia-informacion-inteligente-gestion-20250728135607-nt.html",
-        "date": "2025-07-28 11:56:08",
-        "sentiment_score": 0.03217901289463043
-    },
-    {
-        "title": "Dos detenidos en Málaga por intentar introducir en el mercado más de 78.000 envases de anabolizantes",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/07/28/anabolizantesmalaga-Rtge821GdXMlYAb7xT6QP8M-1200x840@diario_abc.jpg",
-        "tags": [
-            "andalucía",
-            "españa",
-            "málaga"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/malaga/dos-detenidos-malaga-intentar-introducir-mercado-78000-20250728134032-nts.html",
-        "date": "2025-07-28 11:54:04",
-        "sentiment_score": -0.1933763325214386
-    },
-    {
-        "title": "La cara B del optimismo económico de Sánchez",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/07/28/sanchez-moncloa-28julio2025-afp-REWZCUJcQyveAJaOgCLjXOO-1200x840@diario_abc.jpg",
-        "tags": [
-            "aplica",
-            "quitar",
-            "insiste",
-            "precios",
-            "oferta",
-            "reduce",
-            "sanchez",
-            "vivienda",
-            "ley"
-        ],
-        "link": "https://www.abc.es/economia/cara-optimismo-economico-sanchez-20250728132511-nt.html",
-        "date": "2025-07-28 11:25:57",
-        "sentiment_score": -0.1373414397239685
-    },
-    {
-        "title": "Cuánto dinero cobra un controlador aéreo en España en 2025: sueldo base y complementos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/28/controladoraereo-k3I-U701342650383YQH-1200x840@diario_abc.jpg",
-        "tags": [
-            "aereo",
-            "sueldo",
-            "complementos",
-            "2025",
-            "controlador",
-            "espana",
-            "cobra",
-            "base"
-        ],
-        "link": "https://www.abc.es/economia/cuanto-dinero-cobra-controlador-aereo-espana-2025-sueldo-base-complementos-20250728170650-nt.html",
-        "date": "2025-07-28 10:58:25",
-        "sentiment_score": -0.05493047833442688
-    },
-    {
-        "title": "Tirar la basura",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/07/28/cartas-director-1200x630-U40804773451LLe-1200x630@diario_abc.jpg",
-        "tags": [
-            "marruecos",
-            "getafe",
-            "residuos",
-            "josé maría aznar"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-tirar-basura-20250728125412-nt.html",
-        "date": "2025-07-28 10:57:09",
-        "sentiment_score": -0.15398193895816803
-    },
-    {
         "title": "El viaje para ver a la familia que acabó en tragedia en una carretera de Cuenca",
         "image_url": "https://imagenes.elpais.com/resizer/v2/7NCXNWOJLZMP7AWM3GLOKV7GEA.jpg?auth=2a21b4c65d60f986343fcc0754a9cfaf201edbd036a124674d43da8fd7349297&width=1200",
         "tags": [
@@ -404,39 +308,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-07-28/unos-manifestantes-denuncian-abuso-policial-en-una-cacerolada-a-favor-de-palestina-en-madrid.html",
         "date": "2025-07-28 14:46:01",
         "sentiment_score": -0.6638352088630199
-    },
-    {
-        "title": "Roban un barco en Cádiz y lo devuelven en menos de 24 horas tras usarlo para cruzar el Estrecho con inmigrantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RSTKMJXAPJBG5ARXFCLIHMUTQE.jpg?auth=96b32ed68cc3266488c7c194af16b244994854a525fa47691ea2612c6c07387e&width=1200",
-        "tags": [
-            "investigación policial",
-            "cádiz",
-            "algeciras",
-            "sotogrande",
-            "barcos",
-            "españa",
-            "policía nacional",
-            "robos"
-        ],
-        "link": "https://elpais.com/espana/andalucia/2025-07-28/roban-un-barco-en-cadiz-y-lo-devuelven-en-menos-de-24-horas-tras-usarlo-para-cruzar-el-estrecho-con-inmigrantes.html",
-        "date": "2025-07-28 14:18:54",
-        "sentiment_score": -0.5605338029563427
-    },
-    {
-        "title": "Bomberos y directores de centros escolares protestan en Valencia por las condiciones laborales y la falta de recursos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SD4LSEEVDNMY7NZSV76VGBZL2M.jpg?auth=fa6eaffb87a9347703e78826f2526305c26d16506a950a565291303d6fb0c593&width=1200",
-        "tags": [
-            "protestas sociales",
-            "bomberos",
-            "valencia",
-            "profesorado",
-            "comunidad valenciana",
-            "huelgas",
-            "sindicatos enseñanza"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-28/los-bomberos-y-los-directores-de-centros-escolares-exigen-en-valencia-mejores-condiciones-laborales.html",
-        "date": "2025-07-28 13:59:49",
-        "sentiment_score": -0.6215002052485943
     },
     {
         "title": "Sol, playa y Bad Bunny: así descansa Mbappé en el Caribe",
@@ -8454,5 +8325,468 @@ export default [
         "link": "https://2001online.com/farandula/batalla-de-superheroes-los-4-fantasticos-destrona-a-superman-como-la-pelicula-mas-taquillera-del-momento-202573117380",
         "date": "2025-07-31 21:38:00",
         "sentiment_score": 0.5070401765406132
+    },
+    {
+        "title": "Hoy será noticia. Viernes, 1 de agosto",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "incendios forestales",
+            "instituto nacional de estadística",
+            "sector agroalimentario",
+            "madrid",
+            "guerra comercial",
+            "cerveza",
+            "quincena musical",
+            "españa",
+            "comisión europea",
+            "administración trump",
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/hoy-sera-noticia-viernes-1-de-agosto/",
+        "date": "2025-08-01 02:16:48",
+        "sentiment_score": -0.8317792378365993
+    },
+    {
+        "title": "Detenido un hombre como supuesto autor de una violación en Ferrol",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "joven",
+            "detención",
+            "violación",
+            "policía nacional",
+            "a coruña",
+            "ferrol",
+            "galicia",
+            "investigación policial",
+            "efe",
+            "agresión sexual"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/detenido-un-hombre-como-supuesto-autor-de-una-violacion-en-ferrol/",
+        "date": "2025-08-01 02:16:35",
+        "sentiment_score": -0.3997366651892662
+    },
+    {
+        "title": "Clima en Málaga: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/CHHYZEY3LRE2RFPJKYZPR4TI3M.jpg?auth=9667eb34e2a46c2693e42c8b72acb8c36e243e8e79fa3bb67233809f1c8f039a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "málaga",
+            "españa sociedad",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/01/clima-en-malaga-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2025-08-01 02:16:03",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Jessica Bouzas avanza a octavos; Coco Gauff también gana y Andreeva dice adiós a Montreal",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/jessica-bouzas-avanza-a-octavos-coco-gauff-tambien-gana-y-andreeva-dice-adios-a-montreal/",
+        "date": "2025-08-01 02:15:21",
+        "sentiment_score": 0.22287794947624207
+    },
+    {
+        "title": "Aitana anuncia por sorpresa su primera gira mundial para 2026: estas son las ciudades a las que llevará su ‘Cuarto Azul World Tour’",
+        "image_url": "https://www.infobae.com/resizer/v2/IT53CW6PIFC57PBVPPZF5QQUGQ.jpg?auth=e7b7825ee8370f0261476378e18c9f1bed068ce6c510289da580cfc5be5440c2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "música españa",
+            "españa-cultura",
+            "aitana",
+            "música",
+            "conciertos españa",
+            "conciertos",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/08/01/aitana-anuncia-por-sorpresa-su-primera-gira-mundial-para-2026-estas-seran-las-ciudades-a-las-que-llevara-su-cuarto-azul-world-tour/",
+        "date": "2025-08-01 01:53:05",
+        "sentiment_score": 0.18367942050099373
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este 1 de agosto: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/CHHYZEY3LRE2RFPJKYZPR4TI3M.jpg?auth=9667eb34e2a46c2693e42c8b72acb8c36e243e8e79fa3bb67233809f1c8f039a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "tiempo en españa",
+            "noticias",
+            "españa sociedad",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/01/pronostico-del-clima-en-barcelona-este-1-de-agosto-temperatura-lluvias-y-viento/",
+        "date": "2025-08-01 01:16:52",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "La presidenta suiza no logra ningún acuerdo arancelario en un último contacto con Trump",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "casa blanca",
+            "exportaciones",
+            "donald trump",
+            "efe",
+            "novartis",
+            "estados unidos",
+            "sector farmacéutico",
+            "suiza",
+            "gravámenes",
+            "acuerdo arancelario",
+            "karin keller sutter"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/la-presidenta-suiza-no-logra-ningun-acuerdo-arancelario-en-un-ultimo-contacto-con-trump/",
+        "date": "2025-08-01 01:16:42",
+        "sentiment_score": -0.7172540947794914
+    },
+    {
+        "title": "La petrolera argentina YPF abre nueva ronda para vender áreas maduras",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "salta",
+            "formicruz",
+            "mendoza",
+            "efe",
+            "ypf",
+            "proyecto andes",
+            "vaca muerta",
+            "banco santander",
+            "argentina",
+            "áreas maduras",
+            "hidrocarburos convencionales"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/la-petrolera-argentina-ypf-abre-nueva-ronda-para-vender-areas-maduras/",
+        "date": "2025-08-01 01:16:27",
+        "sentiment_score": 0.48974546790122986
+    },
+    {
+        "title": "Argentina consolida el superávit de su balanza energética en el primer semestre",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "balanza energética",
+            "buenos aires",
+            "hidrocarburos",
+            "efe",
+            "exportaciones energéticas",
+            "cámara de exploración y producción de hidrocarburos",
+            "ypf",
+            "shell",
+            "vaca muerta",
+            "argentina",
+            "suroeste argentino"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/07/31/argentina-consolida-el-superavit-de-su-balanza-energetica-en-el-primer-semestre/",
+        "date": "2025-08-01 01:16:14",
+        "sentiment_score": 0.7935240641236305
+    },
+    {
+        "title": "Aitana, que se enteren en el mundo entero: mandas tú en la capital",
+        "image_url": "https://www.infobae.com/resizer/v2/2K3XQOSGXZCQPEODL5IWPKEH3Y.jpg?auth=98207a6110777261bb7a5d6079a0474fc3b7722a35a81fbfbe934055593e1b66&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "riyadh air metropolitano",
+            "conciertos españa",
+            "música",
+            "aitana",
+            "madrid",
+            "música españa",
+            "conciertos",
+            "españa-cultura"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/08/01/aitana-que-se-enteren-en-el-mundo-mandas-tu-en-la-capital/",
+        "date": "2025-08-01 01:10:55",
+        "sentiment_score": 0.8311800137162209
+    },
+    {
+        "title": "Niños y adolescentes no deberían usar aplicaciones de acompañamiento de IA",
+        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2025/07/que-es-la-inteligencia-artificial-1.jpg",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://soynuevaprensadigital.com/npd/ninos-y-adolescentes-no-deberian-usar-aplicaciones-de-acompanamiento-de-ia/",
+        "date": "2025-07-31 22:31:14",
+        "sentiment_score": -0.7752771303057671
+    },
+    {
+        "title": "Manolo Díaz se hace esencia de \"Luanco al mar\": el homenaje que le brindarán en unos días",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7d310fd3-c291-4060-9634-f93a3f1b9980_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "luanco",
+            "mar",
+            "música",
+            "manolo díaz"
+        ],
+        "link": "https://www.lne.es/aviles/2025/08/01/manolo-diaz-esencia-luanco-mar-120254682.html",
+        "date": "2025-08-01 02:04:49",
+        "sentiment_score": 0.23643788695335388
+    },
+    {
+        "title": "Por qué un Máster en Inteligencia Artificial estratégico puede transformar una carrera profesional",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7481764",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5383973/master-inteligencia-artificial-estrategico-puede-transformar-carrera-profesional",
+        "date": "2025-08-01 01:59:53",
+        "sentiment_score": 0.3127623423933983
+    },
+    {
+        "title": "Canal Sénior amplía su programa de formación gratuita con actividades diarias en línea",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7481761",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5383970/canal-senior-amplia-programa-formacion-gratuita-actividades-diarias-linea",
+        "date": "2025-08-01 01:46:39",
+        "sentiment_score": 0.7589410617947578
+    },
+    {
+        "title": "Facsímiles de Felechas: paradigma de recuperación etnomusicológica leonesa",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/07/31/688b9d044fe4d.jpeg",
+        "tags": [
+            "tribunas"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/tribunas/250801/2055692/facsimiles-felechas-paradigma-recuperacion-etnomusicologica-leonesa.html",
+        "date": "2025-08-01 01:30:00",
+        "sentiment_score": 0.38640306517481804
+    },
+    {
+        "title": "Un arquero multicampeón se convirtió en el factor que puede derrumbar el pase del Dibu Martínez al Manchester United",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes-argentina",
+            "selección argentina",
+            "deportes-internacional",
+            "dibu martínez"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/01/un-arquero-multicampeon-se-convirtio-en-el-factor-que-puede-derrumbar-el-pase-del-dibu-martinez-al-manchester-united/",
+        "date": "2025-08-01 01:25:31",
+        "sentiment_score": -0.644027765840292
+    },
+    {
+        "title": "Relato de verano de Elena Medel: Todo lo que necesitas",
+        "image_url": "https://phantom-elmundo.uecdn.es/59ec3ae607229aedc38224334134ffbb/resize/1200/f/webp/assets/multimedia/imagenes/2025/07/31/17539562345425.jpg",
+        "tags": [
+            "literatura",
+            "elena medel",
+            "verano"
+        ],
+        "link": "https://www.elmundo.es/la-lectura/2025/08/01/688b392021efa053428b45d4.html",
+        "date": "2025-08-01 01:25:12",
+        "sentiment_score": 0.06491145491600037
+    },
+    {
+        "title": "Adiós al visionario: fallece Bob Wilson, reconocido director y dramaturgo estadounidense",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754011072454.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "dramaturgo.",
+            "bob wilson"
+        ],
+        "link": "https://2001online.com/farandula/adios-al-visionario-fallece-bob-wilson-reconocido-director-y-dramaturgo-estadounidense-202573121130",
+        "date": "2025-08-01 01:13:00",
+        "sentiment_score": -0.8009958602488041
+    },
+    {
+        "title": "Los amores del verano",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "amores",
+            "verano"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/amores-verano_0_2004496608.html",
+        "date": "2025-08-01 01:09:22",
+        "sentiment_score": -0.22210940718650818
+    },
+    {
+        "title": "Las nueve joyas de Masaveu",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/adcc886f-0d26-45bf-8c0e-07ead5bdae0e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "estados unidos",
+            "parís",
+            "nueva york",
+            "obras"
+        ],
+        "link": "https://www.lne.es/asturias/2025/08/01/nueve-joyas-masaveu-120256829.html",
+        "date": "2025-08-01 02:00:32",
+        "sentiment_score": 0.11196926236152649
+    },
+    {
+        "title": "La infamia",
+        "image_url": "https://uh.gsstatic.es/autor/miquel-serra/10066.png",
+        "tags": [
+            "grupo serra",
+            "tribuna",
+            "prensa digital",
+            "artículos de opinión",
+            "medio de comunicación"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/08/01/2441599/infamia-1.html",
+        "date": "2025-08-01 02:00:01",
+        "sentiment_score": -0.8763184733688831
+    },
+    {
+        "title": "Las razones que ubican a Lamine Yamal como candidato a ganar el Balón de Oro (+Video)",
+        "image_url": "https://pxcdn.meridiano.net/072025/1754012301749.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/las-razones-que-ubican-a-lamine-yamal-como-candidato-a-ganar-el-balon-de-oro-video--202573121390",
+        "date": "2025-08-01 01:39:00",
+        "sentiment_score": 0.19019125401973724
+    },
+    {
+        "title": "Presentan en Uruguay un libro con textos inéditos sobre Joaquín Torres García",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/08/01/presentan-en-uruguay-un-libro-con-textos-ineditos-sobre-joaquin-torres-garcia/",
+        "date": "2025-08-01 01:15:19",
+        "sentiment_score": 0.37175777181982994
+    },
+    {
+        "title": "Nuestro aliado Marruecos",
+        "image_url": "https://gaceta.es/wp-content/uploads/2022/06/OPI-Javi-Torres-265.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://gaceta.es/opinion/nuestro-aliado-marruecos-20250801-0235/",
+        "date": "2025-08-01 00:35:00",
+        "sentiment_score": -0.8659454472362995
+    },
+    {
+        "title": "El negocio que quiere comprar Tata Motors en España: con beneficios de 105 millones y más de 4.000 empleados",
+        "image_url": "https://s1.elespanol.com/2025/07/31/actualidad/1003743870221_257693718_1706x960.jpg?contentId=1003743870221",
+        "tags": [
+            "motor",
+            "iveco",
+            "hispano-suiza",
+            "tata motors",
+            "madrid",
+            "industria automovilística"
+        ],
+        "link": "https://www.elespanol.com/motor/20250801/negocio-quiere-comprar-tata-motors-espana-beneficios-millones-empleados/1003743870216_0.html",
+        "date": "2025-08-01 00:28:00",
+        "sentiment_score": -0.2648267559707165
+    },
+    {
+        "title": "\"Decidí no tener pareja para ganar la Fórmula 1\": la sorprendente confesión de Lewis Hamilton",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754013149593.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "piloto de fórmula1",
+            "lewis hamilton",
+            "f1",
+            "piloto de f1",
+            "ferrari",
+            "fórmula 1",
+            "mercedes amg",
+            "escudería ferrari"
+        ],
+        "link": "https://2001online.com/deportes/decidi-no-tener-pareja-para-ganar-la-formula-1-la-sorprendente-confesion-de-lewis-hamilton-20257312300",
+        "date": "2025-08-01 02:08:25",
+        "sentiment_score": -0.1410033032298088
+    },
+    {
+        "title": "Sistema Patria: inicia pago de un nuevo bono por Bs. 1.620 este 31 de julio",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754013836090.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bonos sociales",
+            "bono del buen pastor",
+            "sistema patria"
+        ],
+        "link": "https://2001online.com/servicios/sistema-patria-inicia-pago-de-un-nuevo-bono-por-bs-1-620-este-31-de-julio-20257312250",
+        "date": "2025-08-01 02:05:00",
+        "sentiment_score": 0.05596783012151718
+    },
+    {
+        "title": "Restablecen el paso entre Apure y Barinas: conoce los sectores con prioridad para transitar desde esta noche",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754013866514.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "temporada de lluvias",
+            "lluvias en los andes",
+            "apure",
+            "lluvias",
+            "barinas"
+        ],
+        "link": "https://2001online.com/nacionales/restablecen-el-paso-entre-apure-y-barinas-conoce-los-sectores-con-prioridad-para-transitar-desde-esta-noche-20257312220",
+        "date": "2025-08-01 02:02:00",
+        "sentiment_score": 0.38335036486387253
+    },
+    {
+        "title": "Problemas para Maroon 5: miembro de la banda es acusado de agresión sexual",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754013805050.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "denuncia",
+            "maroon 5"
+        ],
+        "link": "https://2001online.com/farandula/problemas-para-maroon-5-miembro-de-la-banda-es-acusado-de-agresion-sexual-20257312200",
+        "date": "2025-08-01 02:00:00",
+        "sentiment_score": -0.6365228854119778
+    },
+    {
+        "title": "¡Solidaridad comunitaria! El programa \"Monarcas Luchadoras\" ayuda a familias afectadas por el ICE: sepa dónde",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754013251241.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "inmigrantes",
+            "california",
+            "monarcas luchadoras"
+        ],
+        "link": "https://2001online.com/usa/internacionales/solidaridad-comunitaria-el-programa-monarcas-luchadoras-ayuda-a-familias-afectadas-por-el-ice-sepa-donde-202573121530",
+        "date": "2025-08-01 01:53:00",
+        "sentiment_score": 0.2037721574306488
+    },
+    {
+        "title": "Anuncian operativo de 30 días para atender a niños vulnerables en las calles de Caracas: serán llevados a un centro",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754003727983.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "misión negra hipólita"
+        ],
+        "link": "https://2001online.com/nacionales/anuncian-operativo-de-30-dias-para-atender-a-ninos-vulnerables-en-las-calles-de-caracas-seran-llevados-a-un-centro-202573121480",
+        "date": "2025-08-01 01:48:00",
+        "sentiment_score": 0.026512742042541504
+    },
+    {
+        "title": "¿Pueden robarte si se acercan con un punto de venta a tu tarjeta sin contacto?: Asobanca lo explica",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754010420195.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "tarjetas sin contacto"
+        ],
+        "link": "https://2001online.com/servicios/pueden-robarte-si-se-acercan-con-un-punto-de-venta-a-tu-tarjeta-sin-contacto-asobanca-lo-explica-202573121330",
+        "date": "2025-08-01 01:33:00",
+        "sentiment_score": 0.11850301176309586
+    },
+    {
+        "title": "Verónica Castro se despide definitivamente de la actuación: No tengo la edad ni la energía",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754012098173.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "actriz",
+            "verónica castro"
+        ],
+        "link": "https://2001online.com/farandula/veronica-castro-se-despide-definitivamente-de-la-actuacion-no-tengo-la-edad-ni-la-energia-202573121280",
+        "date": "2025-08-01 01:28:00",
+        "sentiment_score": -0.8753333743661642
+    },
+    {
+        "title": "Grill House inaugura nueva sede en Los Chaguaramos y celebra II aniversario",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754011776512.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "grill house",
+            "los chaguaramos"
+        ],
+        "link": "https://2001online.com/agenda-personal/grill-house-inaugura-nueva-sede-en-los-chaguaramos-y-celebra-ii-aniversario-202573121230",
+        "date": "2025-08-01 01:23:00",
+        "sentiment_score": -0.0614984929561615
+    },
+    {
+        "title": "Yango llega a Venezuela para transformar la movilidad en Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1754011253414.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "#caracas",
+            "yango"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/yango-llega-a-venezuela-para-transformar-la-movilidad-en-caracas-202573121150",
+        "date": "2025-08-01 01:15:00",
+        "sentiment_score": 0.26263284496963024
     }
 ];
