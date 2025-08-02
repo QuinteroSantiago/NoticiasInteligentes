@@ -1,408 +1,5 @@
 export default [
     {
-        "title": "Un hombre viaja a Marruecos una semana y acumula una factura telefónica de 37.000 euros: “Orange me ha cortado la línea”",
-        "image_url": "https://www.infobae.com/resizer/v2/X2MMP6W6ONDHBJIB26UA53IOTI.JPG?auth=da958bc2e96732cf4555e770d5a1a802ace7102565fe513d23703e2b83925e53&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "orange",
-            "francia",
-            "facturas telefonicas",
-            "españa-nacional",
-            "españa-noticias",
-            "roaming"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/29/un-hombre-viaja-a-marruecos-una-semana-y-acumula-una-factura-telefonica-de-37000-euros-orange-me-ha-cortado-la-linea/",
-        "date": "2025-07-29 06:38:30",
-        "sentiment_score": -0.7957746088504791
-    },
-    {
-        "title": "Una española que vive en Paraguay explica si es un país seguro: “Nada que ver con Barcelona”",
-        "image_url": "https://www.infobae.com/resizer/v2/X6DNUINZHFF5PDZMYVSXDBURUY.png?auth=97061b756d4db23cd93bed106cb541ecafe691168fdb18f9a3624843e3e8bc16&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "barcelona",
-            "españa-sociedad",
-            "redes sociales",
-            "tiktok",
-            "españa-noticias",
-            "tiktok españa",
-            "paraguay"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/29/una-espanola-que-vive-en-paraguay-explica-si-es-un-pais-seguro-nada-que-ver-con-barcelona/",
-        "date": "2025-07-29 06:38:16",
-        "sentiment_score": -0.1616978496313095
-    },
-    {
-        "title": "Los cinco complementos que pueden mejorar tu estado de ánimo, según una doctora: “Esto no sustituye al ejercicio físico”",
-        "image_url": "https://www.infobae.com/resizer/v2/CHVES7H3K5CZHDTQM3LJ4GW2Z4.jpg?auth=fc499c0cb28c95d220e53d755ff964d1b1721ea156ea1fdd9734520f78142ffb&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "salud mental españa",
-            "alimentación saludable",
-            "suplemento alimenticio",
-            "españa-noticias",
-            "españa-salud",
-            "salud mental"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/29/los-cinco-complementos-que-pueden-mejorar-tu-estado-de-animo-segun-una-doctora-esto-no-sustituye-al-ejercicio-fisico/",
-        "date": "2025-07-29 06:35:07",
-        "sentiment_score": 0.7500662468373775
-    },
-    {
-        "title": "Así han sido los primeros días de Felipe VI, Letizia y sus hijas en Mallorca: tiempo en familia y varios viajes",
-        "image_url": "https://www.infobae.com/resizer/v2/3JL2MCEEW5BLNFUXUU7QP64U4Y.jpg?auth=5da8e86fbd652ca4b4343de8c2cdb8ac1bdb6d4914097dbcc812df58038cedf9&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "gente españa",
-            "felipe vi",
-            "islas baleares",
-            "famosos españa",
-            "corazón y estilo españa",
-            "españa-noticias",
-            "realeza",
-            "casas reales",
-            "casa real españa",
-            "reina letizia",
-            "españa-entretenimiento"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/29/asi-han-sido-los-primeros-dias-de-felipe-vi-letizia-y-sus-hijas-en-mallorca-tiempo-en-familia-y-varios-viajes/",
-        "date": "2025-07-29 06:32:14",
-        "sentiment_score": 0.28980356454849243
-    },
-    {
-        "title": "La directora general de la Guardia Civil se desplaza este martes a Torre Pacheco (Murcia)",
-        "image_url": "https://www.infobae.com/resizer/v2/IIRTKRWC2JDSZGBKZCQRIEBHMQ.jpg?auth=46d02ec4c9ee3cce32ea488c29771f8b60b23e7b10a21b4d406cbc816c520e24&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/07/29/la-directora-general-de-la-guardia-civil-se-desplaza-este-martes-a-torre-pacheco-murcia/",
-        "date": "2025-07-29 06:22:41",
-        "sentiment_score": -0.031046271324157715
-    },
-    {
-        "title": "Cómo saber si una persona carece de habilidades sociales dependiendo de sus temas de conversación, según la psicología",
-        "image_url": "https://www.infobae.com/resizer/v2/EBBFKRXARZC3DECUEA3KIIR3S4.jpeg?auth=47fa6a91bc07d51eeacdcbdcfd49f72cd7db29444df5cc026e0693f3ce0848fd&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "psicología",
-            "españa noticias",
-            "comunicación",
-            "españa salud",
-            "terapia psicológica"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/29/como-saber-si-una-persona-carece-de-habilidades-sociales-dependiendo-de-sus-temas-de-conversacion-segun-la-psicologia/",
-        "date": "2025-07-29 06:18:27",
-        "sentiment_score": -0.755226843059063
-    },
-    {
-        "title": "Las caries pueden transmitirse a través de los besos, aseguran los expertos",
-        "image_url": "https://www.infobae.com/resizer/v2/SVQKHQWAR5BM5PV25A5GXKJO5Y.jpeg?auth=d0546d0943dce14ee8b204eb6c0366bc8f9d880fbd685eeebd8019a2d07cff48&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "enfermedades bucodentales",
-            "españa-noticias",
-            "bacterias",
-            "españa-salud",
-            "caries",
-            "enfermedades y medicamentos",
-            "besos",
-            "enfermedades y medicamentos españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/29/la-caries-puede-transmitirse-a-traves-de-los-besos-aseguran-los-expertos/",
-        "date": "2025-07-29 06:14:25",
-        "sentiment_score": -0.25632816553115845
-    },
-    {
-        "title": "James Gunn confirma que el Batman de Robert Pattinson no coincidirá con el nuevo Superman: “Ya veremos qué hacemos de aquí en adelante”",
-        "image_url": "https://www.infobae.com/resizer/v2/O2IFBM2JY5HNXAO3CKUTIGOHOM.jpg?auth=98d589d912a95f6476a7b1b2dba5a3d196bad17794d6d940d3493b85f4d702f2&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "cine",
-            "españa-noticias",
-            "batman",
-            "dc",
-            "james gunn",
-            "españa-cultura",
-            "superman",
-            "robert pattinson",
-            "cine españa"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/07/29/james-gunn-confirma-que-el-batman-de-robert-pattinson-no-coincidira-con-el-nuevo-superman-ya-veremos-que-hacemos-de-aqui-en-adelante/",
-        "date": "2025-07-29 06:08:04",
-        "sentiment_score": 0.044868722558021545
-    },
-    {
-        "title": "Estos son los diez países que más cerveza beben: España aparece en la lista",
-        "image_url": "https://www.infobae.com/resizer/v2/CSOV2SVJ4RCMJADZ6AXU7HGEME.jpeg?auth=ed6e8d5bcc3c59fa50238239750b3d6ffa9c1d05f6ab3e4fd9eaf985753e2d3c&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "consumo de drogas",
-            "cerveza",
-            "españa-sociedad",
-            "alcohol"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/29/estos-son-los-diez-paises-que-mas-cerveza-beben-espana-aparece-en-la-lista/",
-        "date": "2025-07-29 05:56:19",
-        "sentiment_score": 0.03719344735145569
-    },
-    {
-        "title": "Un español en Corea del Norte explica por qué es tan complicado hacer turismo allí: “No puedes salir del plan de viaje establecido”",
-        "image_url": "https://www.infobae.com/resizer/v2/3CBA34ZCR5FPTIOGW6KOLC6C6Q.jpg?auth=8b328cd10a64256f51d0ba0a248213593361b588c8c8d8b64bc5b0380c783b73&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "redes sociales",
-            "españa-sociedad",
-            "corea del norte",
-            "tiktok",
-            "tiktok españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/07/29/un-espanol-en-corea-del-norte-explica-por-que-es-tan-complicado-hacer-turismo-alli-no-puedes-salir-del-plan-de-viaje-establecido/",
-        "date": "2025-07-29 05:51:22",
-        "sentiment_score": -0.7731501497328281
-    },
-    {
-        "title": "Acciona aumenta un 353% sus beneficios con 526 millones de euros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/07/29/1498183133-R5cPKOkUudm5eZNjDWMgOFP-1200x840@diario_abc.jpg",
-        "tags": [
-            "acciona",
-            "españa",
-            "comisión nacional del mercado de valores (cnmv)"
-        ],
-        "link": "https://www.abc.es/economia/acciona-aumenta-353-beneficios-526-millones-euros-20250729083155-nt.html",
-        "date": "2025-07-29 06:38:38",
-        "sentiment_score": -0.09119690954685211
-    },
-    {
-        "title": "Estabilizado un incendio en la Sierra Oeste de Madrid con tres focos entre Fresnedillas, Peralejo y Zarzalejo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BGXMOJMAY5IFLKZJXXEE5I34JQ.jpg?auth=0733724d9c978985af1c9e1b90b9441900d4c0e825e7200c7c2267d62554b54b&width=1200",
-        "tags": [
-            "incendios",
-            "bomberos",
-            "comunidad de madrid",
-            "zarzalejo",
-            "incendios forestales",
-            "fresnedillas de la oliva",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-07-29/estabilizado-el-incendio-en-la-sierra-oeste-de-madrid-con-tres-focos-entre-fresnedillas-peralejo-y-zarzalejo.html",
-        "date": "2025-07-29 06:00:29",
-        "sentiment_score": -0.4351402446627617
-    },
-    {
-        "title": "La Abogacía del Estado pide casi cuatro años de prisión y medio millón de euros para el novio de Ayuso",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/03/14/2024031415210010679.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/abogacia-estado-pide-casi-cuatro-anos-prision-medio-millon-euros-novio-ayuso/20250729083142351672.html",
-        "date": "2025-07-29 06:31:42",
-        "sentiment_score": -0.7438097465783358
-    },
-    {
-        "title": "El surrealista momento en el que Patxi Salinas la lía en el 'Grand Prix' y Ramón García acaba por los suelos",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/07/29/ramon-garcia-grand-prix-kaND--758x531@El%20Correo.jpg",
-        "tags": [
-            "surrealista",
-            "grand",
-            "garcia",
-            "acaba",
-            "urduliz",
-            "patxi",
-            "ramontxu",
-            "lia",
-            "prix",
-            "herencia",
-            "penaranda de bracamonte",
-            "ramon",
-            "suelos",
-            "momento",
-            "salinas"
-        ],
-        "link": "https://www.elcorreo.com/gente-estilo/surrealista-momento-patxi-salinas-lia-grand-prix-20250729082420-nt.html",
-        "date": "2025-07-29 06:24:20",
-        "sentiment_score": -0.0114530548453331
-    },
-    {
-        "title": "El \"sexto sentido\" que conecta al intestino y el cerebro y decide cuánto comes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250729080947_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-sexto-sentido-conecta-intestino-cerebro-decide-cuanto-comes-20250729080947.html",
-        "date": "2025-07-29 06:09:47",
-        "sentiment_score": 0.25968316197395325
-    },
-    {
-        "title": "El Gobierno aprueba hoy ampliar permiso por nacimiento a 17 semanas y retribuir parte del permiso por cuidado",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/07/fotonoticia_20250729080109_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/772617/el-gobierno-aprueba-hoy-ampliar-permiso-por-nacimiento-a-17-semanas-y-retribuir-parte-del-permiso-por-cuidado/",
-        "date": "2025-07-29 06:01:09",
-        "sentiment_score": 0.24842850118875504
-    },
-    {
-        "title": "La discreta vida de Gigi Howard, exnovia del Rey Felipe: madre a los 42 años y CEO de éxito",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/07/rey-felipe-gigi-howard.jpg",
-        "tags": [
-            "modelos",
-            "rey felipe vi",
-            "gente",
-            "celebrities"
-        ],
-        "link": "https://theobjective.com/gente/2025-07-29/vida-gigi-howard-exnovia-rey-felipe/",
-        "date": "2025-07-29 06:00:00",
-        "sentiment_score": -0.14972537755966187
-    },
-    {
-        "title": "Duro Felguera presentará hoy su plan de viabilidad a la mesa del ERE, dos días antes de fin del preconcurso",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/07/fotonoticia_20250729075740_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/772622/duro-felguera-presentara-hoy-su-plan-de-viabilidad-a-la-mesa-del-ere-dos-dias-antes-de-fin-del-preconcurso/",
-        "date": "2025-07-29 05:57:40",
-        "sentiment_score": -0.16662784665822983
-    },
-    {
-        "title": "Virus para acabar con las bacterias: así los fagos podrían ser el arma contra la resistencia a los antibióticos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250729074949_690.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-virus-acabar-bacterias-asi-fagos-podrian-ser-arma-contra-resistencia-antibioticos-20250729074949.html",
-        "date": "2025-07-29 05:49:49",
-        "sentiment_score": 0.42529047280550003
-    },
-    {
-        "title": "El vocablo caracol: Una versátil antología (y II)",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/07/vocablo-caracol-versatil-antologia-001-750x500.jpg",
-        "tags": [
-            "opinión",
-            "colaboraciones"
-        ],
-        "link": "https://elfarodeceuta.es/vocablo-caracol-versatil-antologia-ii/",
-        "date": "2025-07-29 05:39:59",
-        "sentiment_score": 0.18944348394870758
-    },
-    {
-        "title": "Galicia, entre las regiones más seguras de España por tercer año consecutivo",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/07/17/2025071713392710091.jpg",
-        "tags": [
-            "galicia"
-        ],
-        "link": "https://www.elprogreso.es/articulo/galicia/galicia-regiones-mas-seguras-espana-tercer-ano-consecutivo/202507171343281895583.html",
-        "date": "2025-07-29 05:30:00",
-        "sentiment_score": -0.49331755191087723
-    },
-    {
-        "title": "Telefónica Brasil gana 371 millones en el primer semestre del año, un 13,45% más",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/07/fotonoticia_20250729072957_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/772597/telefonica-brasil-gana-371-millones-en-el-primer-semestre-del-ano-un-1345-mas/",
-        "date": "2025-07-29 05:29:57",
-        "sentiment_score": 0.2058078497648239
-    },
-    {
-        "title": "La gran verbena veraniega del indie está en Sarria: Cala Vento, Ortiga o Shego",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/06/27/2025062719131824359.jpg",
-        "tags": [
-            "sarria"
-        ],
-        "link": "https://www.elprogreso.es/articulo/sarria/indie-llega-orilla-rio-sarria/202507290843001891231.html",
-        "date": "2025-07-29 06:43:00",
-        "sentiment_score": 0.2166603058576584
-    },
-    {
-        "title": "La inscripción del Granada en la ACB, confirmada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "confirmada",
-            "acb",
-            "inscripcion",
-            "granada"
-        ],
-        "link": "https://www.deia.eus/baloncesto/2025/07/29/inscripcion-granada-acb-confirmada-9928720.html",
-        "date": "2025-07-29 06:41:39",
-        "sentiment_score": -0.5251888260245323
-    },
-    {
-        "title": "Guardiola descansará tras su etapa en el City",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2a1609b0-dd8b-4b1e-8e0f-4aa8e1d92a81_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "etapa",
-            "descansara",
-            "guardiola",
-            "city"
-        ],
-        "link": "https://www.deia.eus/futbol/2025/07/29/guardiola-descansara-etapa-city-9928698.html",
-        "date": "2025-07-29 06:38:19",
-        "sentiment_score": 0.19207608699798584
-    },
-    {
-        "title": "Collboni exige un plan de inversiones a Endesa tras los cortes de luz sufridos en Barcelona en plena ola de calor",
-        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/07/11/quien-hace-barcelona/1003742673145_14858895_1706x960.jpg?contentId=1003742673145",
-        "tags": [
-            "información municipal",
-            "endesa",
-            "ayuntamiento de barcelona",
-            "jaume collboni"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20250729/collboni-exige-plan-inversiones-endesa-cortes-luz-sufridos-barcelona-plena-ola-calor/1003742677737_0.html",
-        "date": "2025-07-29 06:35:01",
-        "sentiment_score": -0.8430363573133945
-    },
-    {
-        "title": "Sufrió como nadie a Maradona en México 86, se convirtió en “villano” de Argentina y halló cómo hacer rentable la “humillación”",
-        "image_url": "https://www.infobae.com/resizer/v2/LX4NCYQDCVB3PAD4PG4S6SBO3Y.jpg?auth=23fd677d181b68a38afe30ae0a328ea2fbbde3c772f21f9dde14ea00bec609d0&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "mundial méxico 1986",
-            "selección de inglaterra",
-            "diego maradona",
-            "deportes-argentina",
-            "peter shilton",
-            "deportes-internacional",
-            "selección argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/07/29/sufrio-como-nadie-a-maradona-en-mexico-86-se-convirtio-en-villano-de-argentina-y-hallo-como-hacer-rentable-la-humillacion/",
-        "date": "2025-07-29 06:28:27",
-        "sentiment_score": 0.2440844476222992
-    },
-    {
-        "title": "Bolets Petràs, en la Boqueria, cierra temporalmente para replantear su oferta",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/561a0b40-9023-4857-a9cb-0bbca466c1b6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "mercados",
-            "qué comer hoy",
-            "gastronomía"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/20250729/bolets-petras-cierra-temporalmente-mercado-boqueria-barcelona-120124157",
-        "date": "2025-07-29 06:25:32",
-        "sentiment_score": -0.4566114768385887
-    },
-    {
-        "title": "Okupan un piso de Barcelona y la decisión que toman los vecinos para echarles todavía se comenta en el barrio",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/07/28/68870a059bf6d.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.cope.es/actualidad/sociedad/noticias/okupan-piso-barcelona-decision-toman-vecinos-echarles-todavia-comenta-barrio-20250729_3191447.html",
-        "date": "2025-07-29 06:25:17",
-        "sentiment_score": -0.19069476425647736
-    },
-    {
-        "title": "Estruch (Mossos): se seguirá \"presionando\" hasta que los ladrones marchen de Barcelona y Catalunya",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250729082338_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-estruch-mossos-seguira-presionando-ladrones-marchen-barcelona-catalunya-20250729082338.html",
-        "date": "2025-07-29 06:23:38",
-        "sentiment_score": -0.7306146584451199
-    },
-    {
         "title": "La SEPI entrará en Talgo: el Consejo de Ministros aprueba la operación de 75 millones de euros",
         "image_url": "https://www.infobae.com/resizer/v2/JXQIHKVRUL4LAVX7QD3Y3CZNXY.jpg?auth=a39d6f4fabb6648d6c06028749acc1e8180571acc61420aa0cbd086b45906912&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -635,52 +232,6 @@ export default [
         "link": "https://www.abc.es/espana/cataluna/rompe-record-guinness-coleccionista-reunir-5000-figurines-20250729123716-nt.html",
         "date": "2025-07-29 11:41:05",
         "sentiment_score": -0.03551381826400757
-    },
-    {
-        "title": "Cuatro muertos, entre ellos un niño, tras el naufragio de un barco turístico en Rumanía",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/07/29/danubio-kWJ-U701352117258bcB-1200x840@diario_abc.PNG",
-        "tags": [
-            "barco",
-            "rumania",
-            "tras",
-            "turistico",
-            "cuatro",
-            "nino",
-            "naufragio",
-            "muertos"
-        ],
-        "link": "https://www.abc.es/internacional/cuatro-muertos-tras-naufragio-barco-turistico-rumania-20250729112204-nt.html",
-        "date": "2025-07-29 09:25:07",
-        "sentiment_score": -0.39883551001548767
-    },
-    {
-        "title": "Netanyahu acusa a Hamás de manipular cifras e imágenes y «fomentar la percepción de una crisis» en Gaza",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/07/29/gaa.jpg",
-        "tags": [
-            "percepcion",
-            "hamas",
-            "cifras",
-            "imagenes",
-            "acusa",
-            "fomentar",
-            "crisis",
-            "gaza",
-            "netanyahu",
-            "manipular"
-        ],
-        "link": "https://www.abc.es/internacional/netanyahu-acusa-hamas-manipular-cifras-imagenes-fomentar-20250729092020-nt.html",
-        "date": "2025-07-29 07:23:21",
-        "sentiment_score": -0.08044344186782837
-    },
-    {
-        "title": "El PIB crece un 0,7% en el segundo trimestre, impulsado por el consumo interno",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/07/29/1499033193-REA5ejVkD3ogqx0aw3HDC7H-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/pib-crece-segundo-trimestre-impulsado-consumo-interno-20250729090017-nt.html",
-        "date": "2025-07-29 07:00:18",
-        "sentiment_score": -0.07298038899898529
     },
     {
         "title": "El PP exige la “dimisión inmediata” del fiscal general y usa el caso como ejemplo de la “corrupción sanchista”",
@@ -8131,5 +7682,595 @@ export default [
         "link": "https://2001online.com/farandula/inspirado-en-the-beatles-juanes-lanza-su-tema-cuando-estamos-tu-y-yo-aqui-el-video-20258111300",
         "date": "2025-08-01 15:30:00",
         "sentiment_score": 0.20198919624090195
+    },
+    {
+        "title": "Illa espera que Puigdemont pueda volver ya amnistiado tras el verano",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "ley de amnistía",
+            "efe",
+            "carles puigdemont",
+            "regreso",
+            "cataluña",
+            "congreso",
+            "junts",
+            "política española",
+            "salvador illa",
+            "china"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/illa-espera-que-puigdemont-pueda-volver-ya-amnistiado-tras-el-verano/",
+        "date": "2025-08-01 22:17:17",
+        "sentiment_score": 0.268286868929863
+    },
+    {
+        "title": "El ascenso a Primera, objetivo de los nuevos fichajes del Sporting",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "efe",
+            "asier garitano",
+            "fútbol",
+            "lucas perrin",
+            "gijón",
+            "primera división",
+            "fichajes",
+            "afición",
+            "justin smith",
+            "españa",
+            "sporting"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/el-ascenso-a-primera-objetivo-de-los-nuevos-fichajes-del-sporting/",
+        "date": "2025-08-01 22:16:36",
+        "sentiment_score": 0.7936656028032303
+    },
+    {
+        "title": "Norris se reivindica en el primer libre de Hungaroring; Sainz acaba 16o y Colapinto, 18o",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "lando norris",
+            "efe",
+            "oscar piastri",
+            "mclaren",
+            "carlos sainz",
+            "entrenamientos libres",
+            "gran premio de hungría",
+            "alpine",
+            "hungaroring",
+            "budapest",
+            "racing bulls"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/norris-se-reivindica-en-el-primer-libre-de-hungaroring-sainz-acaba-16-y-colapinto-18/",
+        "date": "2025-08-01 22:16:22",
+        "sentiment_score": 0.6194714456796646
+    },
+    {
+        "title": "Carles Coll paga su explosiva puesta en escena y concluye séptimo en los 200 braza",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "sergi lópez",
+            "haiyang qin",
+            "efe",
+            "universidad de virginia tech",
+            "200 braza",
+            "melquiades álvarez",
+            "carles coll",
+            "singapur",
+            "natación",
+            "españa",
+            "mundiales de singapur"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/carles-coll-paga-su-explosiva-puesta-en-escena-y-concluye-septimo-en-los-200-braza/",
+        "date": "2025-08-01 22:02:23",
+        "sentiment_score": -0.9291930207982659
+    },
+    {
+        "title": "El gol de la italiana Girelli a Portugal, el mejor de la Eurocopa para los aficionados",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "efe",
+            "aficionados",
+            "cristiana girelli",
+            "mejor gol",
+            "fútbol",
+            "ginebra",
+            "portugal",
+            "eurocopa femenina",
+            "suiza",
+            "uefa",
+            "jule brand"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/el-gol-de-la-italiana-girelli-a-portugal-el-mejor-de-la-eurocopa-para-los-aficionados/",
+        "date": "2025-08-01 22:02:09",
+        "sentiment_score": 0.21380078792572021
+    },
+    {
+        "title": "José Salinas: \"Desde ya tenemos que ser ambiciosos, hay que ir siempre a ganar\"",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "berlín",
+            "efe",
+            "fc union berlín",
+            "josé salinas",
+            "pretemporada",
+            "laliga",
+            "fútbol",
+            "espanyol",
+            "wolfsburgo",
+            "alemania"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/jose-salinas-desde-ya-tenemos-que-ser-ambiciosos-hay-que-ir-siempre-a-ganar/",
+        "date": "2025-08-01 22:01:55",
+        "sentiment_score": 0.8824539594352245
+    },
+    {
+        "title": "El paro sube en julio hasta el 4,2 % en EEUU con menor creación de empleo de lo esperado",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "estados unidos",
+            "asistencia social",
+            "efecom",
+            "gobierno federal",
+            "efe",
+            "oficina de estadísticas laborales",
+            "donald trump",
+            "reserva federal",
+            "washington",
+            "desempleo",
+            "salud"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/el-paro-sube-en-julio-hasta-el-42-en-eeuu-con-menor-creacion-de-empleo-de-lo-esperado/",
+        "date": "2025-08-01 22:01:42",
+        "sentiment_score": 0.4358338676393032
+    },
+    {
+        "title": "Abascal acusa al Gobierno de ser una \"manada de desalmados\" por \"promocionar la inmigración ilegal\"",
+        "image_url": "https://www.infobae.com/resizer/v2/TKDWLNVTYNGYVJ4QHG42B7PDFI.jpg?auth=bdf2bfd591ff19226327a5c7f41d9fb9b70cdd058a6d3eb7120b753fb8cc880b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/abascal-acusa-al-gobierno-de-ser-una-manada-de-desalmados-por-promocionar-la-inmigracion-ilegal/",
+        "date": "2025-08-01 21:52:34",
+        "sentiment_score": -0.906522030942142
+    },
+    {
+        "title": "Investigan la muerte violenta de una mujer de 53 años en O Porriño (Pontevedra)",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "crimen",
+            "o porriño",
+            "efe",
+            "mujer",
+            "trabajadora social",
+            "112",
+            "guardia civil",
+            "autopsia",
+            "muerte violenta",
+            "pontevedra"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/investigan-la-muerte-violenta-de-una-mujer-de-53-anos-en-o-porrino-pontevedra/",
+        "date": "2025-08-01 21:16:23",
+        "sentiment_score": -0.5429918747395277
+    },
+    {
+        "title": "Asociaciones cántabras de apoyo a Palestina leen 18000 nombres de niños asesinados en Gaza",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "najaty jabary",
+            "efe",
+            "plaza del ayuntamiento",
+            "gaza",
+            "santander",
+            "palestina",
+            "niños asesinados",
+            "guerra",
+            "acción por palestina",
+            "genocidio"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/01/asociaciones-cantabras-de-apoyo-a-palestina-leen-18000-nombres-de-ninos-asesinados-en-gaza/",
+        "date": "2025-08-01 21:02:24",
+        "sentiment_score": -0.3718657083809376
+    },
+    {
+        "title": "Abanicos para todos",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/07/30/PlayaMalva-kAeD--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "josé luis sanz",
+            "marcha",
+            "españa"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-abanicos-20250802225952-nts.html",
+        "date": "2025-08-01 21:02:24",
+        "sentiment_score": -0.03601387143135071
+    },
+    {
+        "title": "Chapa y pintura",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/07/31/ivana-rodriguez-instagram-kvqH--170x119@El%20Comercio.jpg",
+        "tags": [
+            "televisión",
+            "pintura",
+            "andalucía",
+            "sevilla"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-jose-lopez-de-paz-chapa-pintura-20250802225916-nts.html",
+        "date": "2025-08-01 21:01:20",
+        "sentiment_score": -0.15368996560573578
+    },
+    {
+        "title": "Más de 5.000 firmas recogidas para declarar al Sevilla FC como Bien de Interés Cultural Etnológico",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/deportes/2025/08/01/aficion-sfc-RkwSNWwW3QdJvaV6jBEK27J-1200x840@diario_abc.jpg",
+        "tags": [
+            "orgullo de nervion",
+            "noticias del sevilla fc",
+            "deportes"
+        ],
+        "link": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/5000-firmas-recogidas-declarar-sevilla-bien-interes-20250801130857-nts.html",
+        "date": "2025-08-01 20:43:27",
+        "sentiment_score": 0.03394073247909546
+    },
+    {
+        "title": "La Diputación aporta 60.000 euros para la mejora del Santuario de la Virgen de la Sierra de Cabra",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/08/01/Virgen-sierra-cordoba-kcdE-U701369327416xLC-1200x840@diario_abc.jpg",
+        "tags": [
+            "diputación de córdoba",
+            "pintura",
+            "cabra",
+            "obras"
+        ],
+        "link": "https://www.abc.es/espana/andalucia/cordoba/diputacion-aporta-60000-euros-mejora-santuario-virgen-20250801195801-nts.html",
+        "date": "2025-08-01 17:58:02",
+        "sentiment_score": 0.14734989404678345
+    },
+    {
+        "title": "Una jueza de Andorra reactiva la causa contra Rajoy por la Operación Cataluña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BOPUWGLRDZCHBJ7RZC5Q7JDJZQ.jpg?auth=e889a28e5f6902615eeb0beffe92d237cc4e5cad6718f4d7592ab623d1282350&width=1200",
+        "tags": [
+            "cataluña",
+            "banca privada d'andorra",
+            "andorra",
+            "pp",
+            "mariano rajoy",
+            "jueces",
+            "independentismo",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-08-01/una-jueza-de-andorra-reactiva-la-causa-contra-rajoy-por-la-operacion-cataluna.html",
+        "date": "2025-08-01 19:32:44",
+        "sentiment_score": -0.4852121137082577
+    },
+    {
+        "title": "Muere Gloria Rognoni, la musa en la sombra",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H6MDY5FWJFF77NL65NBGLABL6A.jpg?auth=866e1a69030572e0cd7dc9bd38d9e1138e47be922889cd010e4b5e9a36239c1d&width=1200",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-01/muere-gloria-rognoni-la-musa-en-la-sombra.html",
+        "date": "2025-08-01 19:20:03",
+        "sentiment_score": -0.8360436707735062
+    },
+    {
+        "title": "Detenido en Palafrugell un administrador de fincas sin licencia acusado de cometer 46 delitos contra extranjeros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5RNV5E466JBABHUTVRY4FWEELM.jpg?auth=9c2415bf4ad8d62d72208f659b6ead1437f253dde66f3bb5d920a1ba83c849a2&width=1200",
+        "tags": [
+            "top"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-01/detenido-en-palafrugell-un-administrador-de-fincas-sin-licencia-acusado-de-cometer-46-delitos-contra-extranjeros.html",
+        "date": "2025-08-01 18:21:58",
+        "sentiment_score": -0.09302669018507004
+    },
+    {
+        "title": "Segundo test de preparación para el Racing",
+        "image_url": "https://www.diariodeferrol.com/images/showid2/7483289?w=900",
+        "tags": [
+            "racing club ferrol",
+            "fútbol"
+        ],
+        "link": "https://www.diariodeferrol.com/articulo/deportes/segundo-test-preparacion-racing-5385019",
+        "date": "2025-08-01 22:15:00",
+        "sentiment_score": 0.05162147432565689
+    },
+    {
+        "title": "Dani Olmo, en El Partidazo de COPE: \"El fichaje de Joan García da un gran salto de calidad al equipo\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/08/01/688d20047eefa.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/dani-olmo-partidazo-cope-fichaje-joan-garcia-da-gran-salto-calidad-equipo-20250801_3194339.html",
+        "date": "2025-08-01 22:04:10",
+        "sentiment_score": 0.11318445205688477
+    },
+    {
+        "title": "¿Cuántos días de descanso tendrá el Real Madrid antes de LaLiga?",
+        "image_url": "https://pxcdn.meridiano.net/082025/1754085144555.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/cuantos-dias-de-descanso-tendra-el-real-madrid-antes-de-laliga--20258117500",
+        "date": "2025-08-01 21:50:00",
+        "sentiment_score": -0.23192543536424637
+    },
+    {
+        "title": "Equipos mexicanos terminan con saldo negativo en su primera confrontación ante la MLS en Leagues Cup",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/9201440/2147483647/strip/true/crop/7194x4796+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff7%2Ff2%2F48873642d632b72130183b3f4956%2F315504a7c9a44636a0f6b5c7271374bc",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-08-01/equipos-mexicanos-terminan-con-saldo-negativo-en-su-primera-confrontacion-ante-la-mls-en-leagues-cup",
+        "date": "2025-08-01 21:33:19",
+        "sentiment_score": 0.3412948101758957
+    },
+    {
+        "title": "La Fiscalía pide 2,5 años de cárcel para Asencio por difundir el vídeo sexual de una menor",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/08/01/raul-asencio-kChH-U23025412641575GB-1200x840@RC.jpg",
+        "tags": [
+            "delitos sexuales",
+            "san bartolomé de tirajana",
+            "real madrid"
+        ],
+        "link": "https://www.ideal.es/deportes/futbol/fiscalia-pide-anos-carcel-asencio-difundir-video-20250801232425-ntrc.html",
+        "date": "2025-08-01 21:30:52",
+        "sentiment_score": -0.4653762932866812
+    },
+    {
+        "title": "La Fiscalía pide dos años y medio de cárcel para Raúl Asencio por la difusión de un vídeo de contenido sexual",
+        "image_url": "https://www.infobae.com/resizer/v2/OMAGBRBMKRCA7O24PPF2C7GOWM.jpg?auth=2292a4061d9dc54b4b69e6846eebcf1a382ce23f84e282da2d3ea037f54618f7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/08/01/la-fiscalia-pide-dos-anos-y-medio-de-carcel-para-raul-asencio-por-la-difusion-de-un-video-de-contenido-sexual/",
+        "date": "2025-08-01 21:19:17",
+        "sentiment_score": -0.7817053440958261
+    },
+    {
+        "title": "Brasil intentará ratificar hegemonía en Copa América Femenina ante Colombia que busca revancha",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/20e0355/2147483647/strip/true/crop/6438x4292+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd2%2F0a%2F02a25109572e4a8dee55aea0d9a4%2F3b1137355aca4c93997f4da74d5765ad",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-08-01/brasil-intentara-ratificar-hegemonia-en-copa-america-femenina-ante-colombia-que-busca-revancha",
+        "date": "2025-08-01 21:15:59",
+        "sentiment_score": 0.5906766913831234
+    },
+    {
+        "title": "Los guardias civiles que vigilan las vacaciones de Sánchez, ante la incógnita de si tendrán que pagar los gastos de su bolsillo",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2024/08/pedro-sanchez-lanzarote-1440x808.jpg",
+        "tags": [
+            "guardia civil",
+            "canarias",
+            "españa",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/08/02/los-guardias-civiles-que-vigilan-las-vacaciones-de-sanchez-ante-la-incognita-de-si-tendran-que-pagar-los-gastos-de-su-bolsillo/",
+        "date": "2025-08-01 22:06:06",
+        "sentiment_score": 0.18315673805773258
+    },
+    {
+        "title": "Charo Ruiz, la sevillana que triunfó en Ibiza y hoy enamora a Nueva York: \"Mis clientas siempre han valorado mucho mi patronaje, lo bien que sientan mis prendas\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/ef628436186af0722e63f4ca3df7c075/crop/111x0/999x666/f/webp/assets/multimedia/imagenes/2025/06/30/17512843477043.jpg",
+        "tags": [
+            "yodona",
+            "moda",
+            "artículos silvia nieto"
+        ],
+        "link": "https://www.elmundo.es/yodona/moda/2025/08/02/68627a0421efa0b4728b4584.html",
+        "date": "2025-08-01 22:05:53",
+        "sentiment_score": -0.5733052790164948
+    },
+    {
+        "title": "Los semáforos del sábado 2 de agosto: Marcos Morau, Valentí Oviedo, Nayib Bukele e Ignacio Higuero",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2023/11/26/6562835d2a284.r_d.474-232-0.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lavanguardia.com/opinion/20250802/10945326/semaforos-sabado-2-agosto-marcos-morau-valenti-oviedo-nayib-bukele-e-ignacio-higuero.html",
+        "date": "2025-08-01 22:05:00",
+        "sentiment_score": 0.1083386167883873
+    },
+    {
+        "title": "La Palestina árabe y judía que proyectó la ONU y que árabes y judíos boicotearon",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2021/05/13/609d2d58e895d.r_d.313-203-7483.jpeg",
+        "tags": [
+            "historia contemporánea"
+        ],
+        "link": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20250802/10945672/palestina-arabe-judia-proyecto-onu-arabes-judios-boicotearon-israel-gaza.html",
+        "date": "2025-08-01 22:05:00",
+        "sentiment_score": 0.01716691255569458
+    },
+    {
+        "title": "Sintrasalud solicita que todo el personal reciba el pago del bono especial de vacaciones",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "salud"
+        ],
+        "link": "https://eltiempove.com/sintrasalud-solicita-que-todo-el-personal-reciba-el-pago-del-bono-especial-de-vacaciones/",
+        "date": "2025-08-01 22:00:12",
+        "sentiment_score": 0.10902827233076096
+    },
+    {
+        "title": "Los bajos de la exsede de CDC, epicentro del 'caso 3%', serán un restaurante japonés",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/03/05/business/928917167_14213835_1706x960.jpg?contentId=928917167",
+        "tags": [
+            "jordi pujol soley",
+            "bares y restaurantes",
+            "lujo",
+            "gastronomía",
+            "política",
+            "ciu"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/politica/20250801/bajos-exsede-cdc-epicentro-caso-restaurante-japones/1003742678558_0.html",
+        "date": "2025-08-01 22:00:00",
+        "sentiment_score": 0.10665551200509071
+    },
+    {
+        "title": "Rechazo de los transportistas al nuevo peso para los camiones: \"En Cataluña fue un desastre\"",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/07/31/business/1003742678616_14959938_1706x960.jpg?contentId=1003742678616",
+        "tags": [
+            "cataluña",
+            "business",
+            "transportes",
+            "gobierno",
+            "camiones"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250801/rechazo-transportistas-nuevo-peso-camiones-cataluna-desastre/1003742678591_0.html",
+        "date": "2025-08-01 22:00:00",
+        "sentiment_score": -0.16252924501895905
+    },
+    {
+        "title": "Gabarró: “Nos hemos convertido en 'activistas' de una especie en extinción: el Gestor de la Arquitectura”",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/06/29/creacion/1003742669667_14796985_1706x960.jpg?contentId=1003742669667",
+        "tags": [
+            "educación",
+            "innovación",
+            "arquitectura",
+            "ventas",
+            "empresas",
+            "creación",
+            "diseño"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20250801/gabarro-convertido-activistas-especie-extincion-gestor-arquitectura/1003742669662_0.html",
+        "date": "2025-08-01 22:00:00",
+        "sentiment_score": -0.26727311313152313
+    },
+    {
+        "title": "Raphinha: El gran \"tapado\" para ganar el Balón de Oro 2025 (+Datos)",
+        "image_url": "https://pxcdn.meridiano.net/082025/1754083150882.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/raphinha-el-gran-tapado-para-ganar-el-balon-de-oro-2025-datos--20258117400",
+        "date": "2025-08-01 21:40:00",
+        "sentiment_score": 0.262521855533123
+    },
+    {
+        "title": "El Chelsea pone un precio de escándalo: ¿será Cole Palmer el fichaje más caro de la historia?",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754086506996.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "inglaterra",
+            "neymar jr.",
+            "mercado de fichajes",
+            "cole palmer",
+            "manchester city",
+            "fichajes",
+            "premier league",
+            "chelsea"
+        ],
+        "link": "https://2001online.com/deportes/el-chelsea-pone-un-precio-de-escandalo-sera-cole-palmer-el-fichaje-mas-caro-de-la-historia--2025811950",
+        "date": "2025-08-01 22:07:43",
+        "sentiment_score": -0.31389692425727844
+    },
+    {
+        "title": "Lanzan Plan Defensa y Justicia Inmediata en centros preventivos: ofrecerán asistencia jurídica gratuita",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754080093533.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "caracabobo",
+            "venezuela",
+            "diario 2001",
+            "justicia"
+        ],
+        "link": "https://2001online.com/nacionales/lanzan-plan-defensa-y-justicia-inmediata-en-centros-preventivos-ofreceran-asistencia-juridica-gratuita-2025811860",
+        "date": "2025-08-01 22:06:00",
+        "sentiment_score": 0.015075169503688812
+    },
+    {
+        "title": "Precio del dólar y euro BCV para el 4 de agosto: así se cotizarán las divisas oficiales",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754084518704.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bcv",
+            "dólar bcv",
+            "euro bcv",
+            "bcv venezuela",
+            "dinero"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-4-de-agosto-asi-se-cotizaran-las-divisas-oficiales-20258117550",
+        "date": "2025-08-01 21:55:00",
+        "sentiment_score": -0.010810241103172302
+    },
+    {
+        "title": "Gas La Guaira activa plan de financiamiento para adquirir los cilindros: tome nota del número de contacto",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754083051115.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "gas la guaira"
+        ],
+        "link": "https://2001online.com/servicios/gas-la-guaira-activa-plan-de-financiamiento-para-adquirir-los-cilindros-tome-nota-del-numero-de-contacto-20258117170",
+        "date": "2025-08-01 21:17:00",
+        "sentiment_score": 0.08194254525005817
+    },
+    {
+        "title": "Calendario de pago de impuestos en Caracas para el mes de agosto: así puede obtener 5% de descuento",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754080085504.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "impuesto caracas",
+            "sumar"
+        ],
+        "link": "https://2001online.com/servicios/calendario-de-pago-de-impuestos-en-caracas-para-el-mes-de-agosto-asi-puede-obtener-5-de-descuento-2025811780",
+        "date": "2025-08-01 21:08:00",
+        "sentiment_score": -0.02079683542251587
+    },
+    {
+        "title": "Inmigrantes en alerta en Carolina del Norte: conozca el alcance de la ley HB 318 y cuándo entrará en vigor",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754075745486.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ice",
+            "usa",
+            "carolina del norte",
+            "eeuu",
+            "alguaciles deben colaborar con el ice en nc",
+            "ley hb 318 nc",
+            "estados unidos",
+            "indocumentados en nc",
+            "inmigrantes en carolina del norte",
+            "ley antiinmigrantes en carolina del norte"
+        ],
+        "link": "https://2001online.com/usa/internacionales/inmigrantes-en-alerta-en-carolina-del-norte-conozca-el-alcance-de-la-ley-hb-318-y-cuando-entrara-en-vigor-2025811750",
+        "date": "2025-08-01 21:05:00",
+        "sentiment_score": 0.31114475056529045
+    },
+    {
+        "title": "Denuncias, rescates y hogares seguros: así actúa el DFPS de Texas ante el abuso",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754076597129.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "maltratos",
+            "internacionales",
+            "niños",
+            "estados unidos",
+            "hogares",
+            "texas",
+            "dfps"
+        ],
+        "link": "https://2001online.com/usa/internacionales/denuncias-rescates-y-hogares-seguros-asi-actua-el-dfps-de-texas-ante-el-abuso-2025811700",
+        "date": "2025-08-01 21:00:00",
+        "sentiment_score": -0.0968611091375351
+    },
+    {
+        "title": "USCIS actualiza políticas para verificar los antecedentes de asilados y refugiados: conozca los nuevos criterios",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754081982460.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "asilo",
+            "uscis",
+            "criterios"
+        ],
+        "link": "https://2001online.com/usa/servicios/uscis-actualiza-politicas-para-verificar-los-antecedentes-de-asilados-y-refugiados-conozca-los-nuevos-criterios-20258116590",
+        "date": "2025-08-01 20:59:00",
+        "sentiment_score": 0.06795816496014595
+    },
+    {
+        "title": "Raspa y Gana con Gaceta Hípica entrega una moto 0 Kilómetros en Caracas",
+        "image_url": "https://pxcdn.meridiano.net/072025/1753985514902.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/raspa-y-gana-con-gaceta-hipica-entrega-una-moto-0-kilometros-en-caracas-20258116350",
+        "date": "2025-08-01 20:35:00",
+        "sentiment_score": 0.2524981200695038
+    },
+    {
+        "title": "Illinois: conoce dónde conseguir comida gratis y los requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754078716636.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "illinois",
+            "comida gratis"
+        ],
+        "link": "https://2001online.com/usa/servicios/illinois-conoce-donde-conseguir-comida-gratis-y-los-requisitos-2025811680",
+        "date": "2025-08-01 20:08:00",
+        "sentiment_score": 0.09686003997921944
     }
 ];
