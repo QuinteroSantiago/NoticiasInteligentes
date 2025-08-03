@@ -242,46 +242,6 @@ export default [
         "sentiment_score": -0.2161712795495987
     },
     {
-        "title": "Trump anuncia aranceles del 25% a las importaciones procedentes de la India",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/30/modi.jpg",
-        "tags": [
-            "india",
-            "anuncia",
-            "procedentes",
-            "trump",
-            "importaciones",
-            "aranceles"
-        ],
-        "link": "https://www.abc.es/internacional/trump-anuncia-aranceles-importaciones-procedentes-india-20250730150210-nt.html",
-        "date": "2025-07-30 13:02:51",
-        "sentiment_score": -0.31299059092998505
-    },
-    {
-        "title": "Alemania dispara su presupuesto militar un 32,5% por la amenaza de Rusia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/30/merz-kbrD-U701358709071COI-1200x840@diario_abc.jpg",
-        "tags": [
-            "vladimir putin",
-            "francia",
-            "alemania"
-        ],
-        "link": "https://www.abc.es/internacional/alemania-dispara-presupuesto-militar-325-amenaza-rusia-20250730143024-nt.html",
-        "date": "2025-07-30 12:35:20",
-        "sentiment_score": -0.0793180763721466
-    },
-    {
-        "title": "El beneficio operativo de Porsche cae un 67% durante el primer semestre",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/motor/2025/07/30/307902_2980x1676-RYLFijK0gBdAj54qCiTwiLK-1200x840@diario_abc.jpg",
-        "tags": [
-            "porsche (coches)",
-            "motor",
-            "industria automovilística",
-            "volkswagen (coches)"
-        ],
-        "link": "https://www.abc.es/motor/economia/beneficio-operativo-porsche-cae-primer-semestre-20250730134322-nt.html",
-        "date": "2025-07-30 11:43:23",
-        "sentiment_score": -0.08205386996269226
-    },
-    {
         "title": "Duro informe del Gobierno contra las plataformas: solo el 2% de los mensajes de odio se retira en las 24 horas siguientes a su denuncia",
         "image_url": "https://imagenes.elpais.com/resizer/v2/DNZYHEYPQNC4VGNYMTWQ7PASLY.jpg?auth=91b930306b681c8a63b7f0cd8b70474e753e2e741fe0e352b0c7ce17b4040254&width=1200",
         "tags": [
@@ -8603,5 +8563,522 @@ export default [
         "link": "https://2001online.com/sucesos/denuncian-acto-de-profanacion-y-hurto-en-la-catedral-de-barquisimeto-sustrajeron-cableado-de-audio-2025821700",
         "date": "2025-08-02 21:00:00",
         "sentiment_score": -0.06076158583164215
+    },
+    {
+        "title": "Marta pone broche de oro a su paso por Copa América: título, la mejor y 2 decisivos goles",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "rodrigo paz delgado",
+            "copa américa femenina",
+            "marta vieira da silva",
+            "quito",
+            "brasil",
+            "fútbol femenino",
+            "ecuador",
+            "leicy santos",
+            "efe",
+            "arthur elias",
+            "orlando pride"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/03/marta-pone-broche-de-oro-a-su-paso-por-copa-america-titulo-la-mejor-y-2-decisivos-goles/",
+        "date": "2025-08-03 01:45:17",
+        "sentiment_score": 0.5093815326690674
+    },
+    {
+        "title": "Clima en Madrid: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/CHHYZEY3LRE2RFPJKYZPR4TI3M.jpg?auth=9667eb34e2a46c2693e42c8b72acb8c36e243e8e79fa3bb67233809f1c8f039a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "madrid",
+            "noticias",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/03/clima-en-madrid-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2025-08-03 01:30:33",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Lista de los 10 videos en YouTube que son tendencia en España este día",
+        "image_url": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-televisión",
+            "youtube",
+            "streaming",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/03/lista-de-los-10-videos-en-youtube-que-son-tendencia-en-espana-este-dia/",
+        "date": "2025-08-03 01:16:13",
+        "sentiment_score": 0.04138469696044922
+    },
+    {
+        "title": "Brasil conquista su novena Copa América en espectacular final con Colombia",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "colombia",
+            "brasil",
+            "efe",
+            "copa américa femenina",
+            "mayra ramírez",
+            "penaltis",
+            "bucaramanga",
+            "quito",
+            "marta",
+            "linda caicedo",
+            "final de fútbol"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/03/brasil-conquista-su-novena-copa-america-en-espectacular-final-con-colombia/",
+        "date": "2025-08-03 01:16:01",
+        "sentiment_score": 0.5961839854717255
+    },
+    {
+        "title": "Clima en Barcelona: la predicción para este 3 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "barcelona",
+            "noticias",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/03/clima-en-barcelona-la-prediccion-para-este-3-de-agosto/",
+        "date": "2025-08-03 01:15:52",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Prensa brasileña destaca \"dramática\" final que gana la Canarinha en tanda de penaltis",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "colombia",
+            "o globo",
+            "brasil",
+            "efe",
+            "copa américa femenina",
+            "río de janeiro",
+            "tanda de penaltis",
+            "folha de sao paulo",
+            "quito",
+            "marta",
+            "final de fútbol"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/03/prensa-brasilena-destaca-dramatica-final-que-gana-la-canarinha-en-tanda-de-penaltis/",
+        "date": "2025-08-03 01:15:48",
+        "sentiment_score": 0.22488316893577576
+    },
+    {
+        "title": "Temas del día de EFE Economía del domingo, 3 de agosto de 2025",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "arabia saudí",
+            "rusia",
+            "efe",
+            "telefónica",
+            "opep",
+            "crudo",
+            "sabadell",
+            "economía",
+            "madrid",
+            "bbva",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/02/temas-del-dia-de-efe-economia-del-domingo-3-de-agosto-de-2025/",
+        "date": "2025-08-02 23:30:11",
+        "sentiment_score": 0.19646459072828293
+    },
+    {
+        "title": "Milei veta leyes de aumento a jubilados y de emergencia en discapacidad en Argentina",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "efe",
+            "boletín oficial",
+            "congreso",
+            "argentina",
+            "jubilados",
+            "javier milei",
+            "parlamento",
+            "leyes",
+            "discapacidad",
+            "buenos aires"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/02/milei-veta-leyes-de-aumento-a-jubilados-y-de-emergencia-en-discapacidad-en-argentina/",
+        "date": "2025-08-02 23:17:31",
+        "sentiment_score": 0.06562592834234238
+    },
+    {
+        "title": "La aerolínea brasileña Azul anuncia respaldo financiero por 650 millones de dólares",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "efe",
+            "brasil",
+            "reestructuración financiera",
+            "deuda empresarial",
+            "aerolínea",
+            "capítulo 11",
+            "inversión",
+            "río de janeiro",
+            "azul",
+            "tribunal de estados unidos",
+            "efecom"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/02/la-aerolinea-brasilena-azul-anuncia-respaldo-financiero-por-650-millones-de-dolares/",
+        "date": "2025-08-02 23:17:18",
+        "sentiment_score": 0.5635121464729309
+    },
+    {
+        "title": "Cientos de personas reclaman en A Gudiña (Ourense) recuperar los trenes que perdieron",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
+        "tags": [
+            "efe",
+            "rubén ríos",
+            "alta velocidad",
+            "porta de galicia",
+            "renfe",
+            "dereito ao tren",
+            "conexiones ferroviarias",
+            "ministerio de transportes",
+            "a gudiña",
+            "ourense",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/02/cientos-de-personas-reclaman-en-a-gudina-ourense-recuperar-los-trenes-que-perdieron/",
+        "date": "2025-08-02 23:17:04",
+        "sentiment_score": -0.9168334221467376
+    },
+    {
+        "title": "El juez impone 32 años de cárcel por abuso sexual al padre de los niños rescatados en la selva amazónica",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/03/ranoque-kFXE-U7013724018415nC-1200x840@diario_abc.PNG",
+        "tags": [
+            "colombia",
+            "niños",
+            "farc fuerzas armadas revolucionarias de colombia",
+            "amazonas",
+            "violencia"
+        ],
+        "link": "https://www.abc.es/internacional/juez-impone-anos-carcel-abuso-sexual-padre-20250803025658-nt.html",
+        "date": "2025-08-03 00:58:02",
+        "sentiment_score": -0.2532447427511215
+    },
+    {
+        "title": "Canteli pide a Barbón que exija para Oviedo la Agencia de la Salud: \"Será una prueba de hasta dónde alcanza tu influencia ante el Gobierno de España\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f480e4ec-80a9-4444-a252-9d44159df6ba_16-9-aspect-ratio_default_0_x937y493.jpg",
+        "tags": [
+            "gobierno",
+            "asturias",
+            "principado",
+            "salud"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/08/03/canteli-pide-barbon-exija-oviedo-120306510.html",
+        "date": "2025-08-03 02:15:00",
+        "sentiment_score": 0.03749054670333862
+    },
+    {
+        "title": "La Supercopa da el pistoletazo a un calendario muy exigente",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0bec7a7-46ad-4921-b754-eb9dc71be084_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pedro martínez",
+            "el valencia",
+            "fin de semana",
+            "valencia basket"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2025/08/03/supercopa-da-pistoletazo-calendario-exigente-120303885.html",
+        "date": "2025-08-03 02:00:47",
+        "sentiment_score": 0.24600273370742798
+    },
+    {
+        "title": "La Puerta de Jerez de Tarifa",
+        "image_url": "https://static.grupojoly.com/clip/158f35ca-5a8e-4768-aa1f-bd7ccb2b8b70_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/tarifa/puerta-jerez-tarifa_0_2004192795.html",
+        "date": "2025-08-03 02:00:26",
+        "sentiment_score": -0.2560945600271225
+    },
+    {
+        "title": "Batalla perdida por José María Ángel",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250803/batalla-perdida-jose-maria-angel_322770.html",
+        "date": "2025-08-03 02:00:00",
+        "sentiment_score": -0.6748818419873714
+    },
+    {
+        "title": "Brasil derrota en penales a Colombia y conquista la Copa América femenina por novena ocasión",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/d2b99f8/2147483647/strip/true/crop/6932x4622+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2F61%2F52dabf81bee47b87122cc82379d6%2F7f4afbf489d9486c8cc38d778538ef30",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-08-02/brasil-derrota-en-penales-a-colombia-y-conquista-la-copa-america-femenina-por-novena-ocasion",
+        "date": "2025-08-03 01:44:13",
+        "sentiment_score": 0.5506738722324371
+    },
+    {
+        "title": "Crónicas Gijonesas: Las pioneras del fútbol en Gijón",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/56b8c707-f716-41c4-bddb-e738fdc1d34f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mujeres",
+            "fútbol femenino",
+            "fútbol",
+            "club"
+        ],
+        "link": "https://www.lne.es/gijon/2025/08/03/cronicas-gijonesas-pioneras-futbol-gijon-120306211.html",
+        "date": "2025-08-03 01:32:44",
+        "sentiment_score": 0.6311655566096306
+    },
+    {
+        "title": "Los altos precios disparan las casas con más de dos familias bajo el mismo techo",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/08/02/688e4e933d2ee.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/250803/2055877/altos-precios-disparan-casas-dos-familias-techo.html",
+        "date": "2025-08-03 01:30:00",
+        "sentiment_score": 0.40455392003059387
+    },
+    {
+        "title": "El asfalto español que cambiará las carreteras: es más resistente a las grietas y está fabricado con las colillas de los cigarrillos",
+        "image_url": "https://s1.elespanol.com/2025/07/28/omicrono/tecnologia/1003743865382_257607784_1706x960.jpg?contentId=1003743865382",
+        "tags": [
+            "españa",
+            "construcción",
+            "asfalto",
+            "tecnología"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20250803/asfalto-espanol-cambiara-carreteras-resistente-grietas-fabricado-colillas-cigarrillos/1003743865362_0.html",
+        "date": "2025-08-03 01:04:45",
+        "sentiment_score": 0.27785198390483856
+    },
+    {
+        "title": "Rafael Correa: \"Si un presidente traiciona su programa y engaña a la gente, debe poder iniciarse un proceso de destitución\"",
+        "image_url": "https://s1.elespanol.com/2025/07/22/actualidad/1003743857491_257461698_1706x1280.jpg?contentId=1003743857491",
+        "tags": [
+            "nicolás maduro",
+            "rafael correa",
+            "política",
+            "venezuela",
+            "ecuador",
+            "entrevistas",
+            "josé luis rodríguez-zapatero"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250803/rafael-correa-presidente-traiciona-programa-engana-gente-debe-poder-iniciarse-proceso-destitucion/1003743857487_0.html",
+        "date": "2025-08-03 01:04:44",
+        "sentiment_score": -0.9032848570495844
+    },
+    {
+        "title": "Pilar Alegría deberá explicar a las Cortes dos vuelos oficiales a Aragón \"sin registrar\" desde que ella lidera el PSOE autonómico",
+        "image_url": "https://s1.elespanol.com/2025/07/31/espana/politica/1003743871030_257708012_1706x960.jpg?contentId=1003743871030",
+        "tags": [
+            "partido popular (pp)",
+            "política",
+            "pilar alegría",
+            "gobierno de españa",
+            "congreso de los diputados"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250803/pilar-alegria-debera-explicar-cortes-vuelos-oficiales-aragon-sin-registrar-lidera-psoe-autonomico/1003743870755_0.html",
+        "date": "2025-08-03 01:03:44",
+        "sentiment_score": -0.13578324019908905
+    },
+    {
+        "title": "El Mallorca se lo toma con calma",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/08/03/2442967/mallorca-toma-calma.html",
+        "date": "2025-08-03 02:00:01",
+        "sentiment_score": 0.2569831907749176
+    },
+    {
+        "title": "El verano de Martín Berasategui: trabajo a destajo, paseos por La Concha y una parada en Rekondo para comer arroz con almejas",
+        "image_url": "https://phantom-elmundo.uecdn.es/d192f1973d875465fb716fb52dc9114c/crop/0x168/640x594/f/webp/assets/multimedia/imagenes/2025/07/09/17520572413970.jpg",
+        "tags": [
+            "gastronomía",
+            "verano",
+            "comer"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/08/03/686e45fbfdddff56638b4584.html",
+        "date": "2025-08-03 01:22:18",
+        "sentiment_score": 0.4298328459262848
+    },
+    {
+        "title": "Andres Veiel: Hay hoy un renacimiento de la estética e ideología exaltadas por Riefenstahl",
+        "image_url": "https://www.infobae.com/resizer/v2/B6XOVMBCEJEZ5FB2RABQAPP7FM.jpg?auth=69b0004b08bee486b434bd00ce4467fc18fc764778090452f58aceecb5562a7a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cine nazi",
+            "efe",
+            "filmin",
+            "andres veiel",
+            "adolf hitler",
+            "leni riefenstahl",
+            "documental",
+            "docsbarcelona",
+            "alemania",
+            "polonia",
+            "afd"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/08/03/andres-veiel-hay-hoy-un-renacimiento-de-la-estetica-e-ideologia-exaltadas-por-riefenstahl/",
+        "date": "2025-08-03 01:15:12",
+        "sentiment_score": -0.020400837063789368
+    },
+    {
+        "title": "¿A que no lo sabes? Día 5 de la Feria de Ceuta 2025",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/08/que-no-sabes-dia-cinco-concurso-feria-ceuta-2025-011-play-750x500.jpg?v=1754169868",
+        "tags": [
+            "la marina",
+            "feria",
+            "sociedad",
+            "noticias",
+            "premios",
+            "concurso",
+            "cultura y tradiciones"
+        ],
+        "link": "https://elfarodeceuta.es/que-no-sabes-dia-cinco-feria-ceuta-2025/",
+        "date": "2025-08-03 01:09:12",
+        "sentiment_score": 0.8039669785648584
+    },
+    {
+        "title": "Los 20 años de infierno de Lara Gil tras una cirugía bariátrica: \"¿Qué puede ser tan grave como para mutilar el estómago?\"",
+        "image_url": "https://s1.elespanol.com/2025/08/01/actualidad/1003743872277_257731043_1706x960.jpg?contentId=1003743872277",
+        "tags": [
+            "activismo",
+            "obesidad",
+            "cirugía general y del aparato digestivo",
+            "salud"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20250803/anos-infierno-lara-gil-cirugia-bariatrica-puede-grave-mutilar-estomago/1003743872215_0.html",
+        "date": "2025-08-03 01:03:43",
+        "sentiment_score": -0.30358459055423737
+    },
+    {
+        "title": "El Gobierno se vuelca en ‘intervenir’ el alquiler ante el bloqueo a la ley del suelo y el rechazo a la de vivienda",
+        "image_url": "https://s1.elespanol.com/2025/08/01/actualidad/1003743872365_257732580_1706x960.jpg?contentId=1003743872365",
+        "tags": [
+            "ley de vivienda",
+            "idealista",
+            "empresas",
+            "sareb",
+            "alquiler de viviendas",
+            "vivienda"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/20250803/gobierno-vuelca-intervenir-alquiler-bloqueo-ley-suelo-rechazo-vivienda/1003743872118_0.html",
+        "date": "2025-08-03 00:33:48",
+        "sentiment_score": -0.11984819173812866
+    },
+    {
+        "title": "Cinco años de Juan Carlos en el exilio de Abu Dabi: \"Creyó que sólo sería un verano\" pero sus amigos \"no ven posible la vuelta\"",
+        "image_url": "https://s1.elespanol.com/2025/08/01/actualidad/1003743872300_257731617_1706x960.jpg?contentId=1003743872300",
+        "tags": [
+            "porfolio",
+            "casa real",
+            "reportajes",
+            "pilar eyre",
+            "rey juan carlos i",
+            "monarquía"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250803/anos-juan-carlos-exilio-abu-dabi-creyo-solo-verano-amigos-no-ven-posible-vuelta/1003743871402_0.html",
+        "date": "2025-08-03 00:29:24",
+        "sentiment_score": -0.43026823550462723
+    },
+    {
+        "title": "Sitssa habilita número telefónico para reservar pasajes hacia el oriente venezolano: también anuncia el horario",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/sitssa-habilita-numero-telefonico-para-reservar-pasajes-hacia-el-oriente-venezolano-tambien-anuncia-el-horario-2025822260",
+        "date": "2025-08-03 02:06:00",
+        "sentiment_score": -0.05504772439599037
+    },
+    {
+        "title": "Abren investigación contra fiscal que imputó a Trump: sospechan de motivos políticos en caso del Capitolio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/abren-investigacion-contra-fiscal-que-imputo-a-trump-sospechan-de-motivos-politicos-en-caso-del-capitolio-2025822210",
+        "date": "2025-08-03 02:01:00",
+        "sentiment_score": -0.8323603309690952
+    },
+    {
+        "title": "¡Frena la caída de tus senos! Deja ya estos hábitos perjudiciales: gánale la batalla al tiempo sin gastar un centavo",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753986201954/Captura%20de%20pantalla%202025-07-31%20a%20la(s)%202.22.42%20p.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/frena-la-caida-de-tus-senos-deja-ya-estos-habitos-perjudiciales-ganale-la-batalla-al-tiempo-sin-gastar-un-centavo-2025822200",
+        "date": "2025-08-03 02:00:00",
+        "sentiment_score": -0.061002522706985474
+    },
+    {
+        "title": "Nuevas reglas para pedir visas americanas en México: así es el procedimiento para solicitantes",
+        "image_url": "https://blob.diariodelyaqui.mx/images/2023/09/06/visa-americana-embajada-de-estados-unidos-hace-advertencia-a-solicitantes-4475b0fb-focus-0-0-732-549.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/nuevas-reglas-para-pedir-visas-americanas-en-mexico-asi-es-el-procedimiento-para-solicitantes-20258221250",
+        "date": "2025-08-03 01:25:00",
+        "sentiment_score": 0.04829680919647217
+    },
+    {
+        "title": "Hallan restos de uno de los mineros chilenos atrapados tras derrumbe causado por un sismo: no ha sido identificado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/hallan-restos-de-uno-de-los-mineros-chilenos-atrapados-tras-derrumbe-causado-por-un-sismo-no-ha-sido-identificado-2025822110",
+        "date": "2025-08-03 01:01:00",
+        "sentiment_score": -0.9246127177029848
+    },
+    {
+        "title": "Pasaporte habilitado en el Saime: requisitos y costo actualizado",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754100133225/Screenshot%202025-08-01%20212709.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/pasaporte-habilitado-en-el-saime-requisitos-y-costo-actualizado-2025822100",
+        "date": "2025-08-03 01:00:00",
+        "sentiment_score": 0.018061548471450806
+    },
+    {
+        "title": "¡Sencillos y en la comodidad de tu hogar! Ya no tendrás que gastar dinero en gimnasios para fortalecer tu espalda: te damos siete eficaces ejercicios",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753978430859/Captura%20de%20pantalla%202025-07-31%20a%20la(s)%2012.13.27%20p.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/sencillos-y-en-la-comodidad-de-tu-hogar-ya-no-tendras-que-gastar-dinero-en-gimnasios-para-fortalecer-tu-espalda-te-damos-siete-eficaces-ejercicios-2025822100",
+        "date": "2025-08-03 01:00:00",
+        "sentiment_score": 0.502071674913168
+    },
+    {
+        "title": "Ben Affleck reacciona con molestia: Ana de Armas y Tom Cruise tienen responsabilidad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/ben-affleck-reacciona-con-molestia-ana-de-armas-y-tom-cruise-tienen-responsabilidad-20258220380",
+        "date": "2025-08-03 00:38:00",
+        "sentiment_score": -0.10760736092925072
+    },
+    {
+        "title": "Fiscalía restituye inmueble a adulto mayor en Carabobo: llevaba más de 19 años invadido",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/fiscalia-restituye-inmueble-a-adulto-mayor-en-carabobo-llevaba-mas-de-19-anos-invadido-20258220360",
+        "date": "2025-08-03 00:36:00",
+        "sentiment_score": -0.36435510590672493
+    },
+    {
+        "title": "Javier \"Chicharito\" Hernández publica nuevo video y así reaccionan las redes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/javier-chicharito-hernandez-publica-nuevo-video-y-asi-reaccionan-las-redes-20258221300",
+        "date": "2025-08-03 00:35:22",
+        "sentiment_score": -0.1272742860019207
     }
 ];
