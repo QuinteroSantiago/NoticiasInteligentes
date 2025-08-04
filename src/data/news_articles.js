@@ -251,67 +251,6 @@ export default [
         "sentiment_score": -0.11266821622848511
     },
     {
-        "title": "Microsoft se convierte en la segunda empresa en superar los 4 billones de dólares en capitalización bursátil",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/07/31/Microsoft.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/microsoft-convierte-segunda-empresa-superar-billones-dolares-20250731155250-nt.html",
-        "date": "2025-07-31 13:53:08",
-        "sentiment_score": 0.592606283724308
-    },
-    {
-        "title": "El presidente de Italia, otro aliado que se vuelve contra Israel: «Es inhumano reducir a un pueblo al hambre»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/07/31/netanyahu-matarella-kGKI-U701363486434qUE-1200x840@diario_abc.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.abc.es/internacional/obstinacion-matar-indiscriminadamente-acusacion-presidente-italiano-netanyahu-20250731133006-nt.html",
-        "date": "2025-07-31 12:39:12",
-        "sentiment_score": -0.8290720880031586
-    },
-    {
-        "title": "Cenar en un patio sevillano del siglo XVIII rodeado de columnas de mármol es posible en este restaurante",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/gurme/2025/07/31/ajo-blanco-de-melon-y(1)-RSutIoB1yBsn234y9Be3xLL-1200x840@diario_abc.jpg",
-        "tags": [
-            "siglo",
-            "xviii",
-            "columnas",
-            "patio",
-            "marmol",
-            "sevillano",
-            "cenar",
-            "rodeado",
-            "posible",
-            "restaurante"
-        ],
-        "link": "https://www.abc.es/gurme/sevilla/cenar-patio-sevillano-siglo-xviii-rodeado-columnas-20250731123814-nts.html",
-        "date": "2025-07-31 12:24:55",
-        "sentiment_score": 0.002460002899169922
-    },
-    {
-        "title": "Operación salida 1 de agosto: Renfe pone a la venta 118.000 plazas con origen y destino Comunidad Valenciana",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/07/31/joaquin-sorolla-valencia-RJwVkh8jFXn67Oz4BkpE90J-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "valencia"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/operacion-salida-agosto-renfe-pone-venta-118000-20250731140233-nt.html",
-        "date": "2025-07-31 12:02:33",
-        "sentiment_score": 0.07050837576389313
-    },
-    {
-        "title": "El PIB de C-LM creció un 0,9% en el segundo trimestre del año, por encima de la media nacional del 0,7%",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/07/31/el-RGtviZxE53zE7RDtJ24t3jJ-1200x840@diario_abc.JPG",
-        "tags": [
-            "españa",
-            "castilla la mancha"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/pib-clm-crecio-segundo-trimestre-ano-encima-20250731124524-nt.html",
-        "date": "2025-07-31 10:45:24",
-        "sentiment_score": -0.09564468264579773
-    },
-    {
         "title": "Detenido el representante en España de Lyoness, una multinacional acusada de una estafa piramidal viral",
         "image_url": "https://imagenes.elpais.com/resizer/v2/6UGD2WMWSVDENHPU5NK5AAYDME.jpg?auth=21e5d1d4762c245f6bcc3300f10ce4a439bb41c214ae0ee9f8982fe6aafb611a&width=1200",
         "tags": [
@@ -449,41 +388,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-31/zulima-perez-un-perfil-tecnico-con-experiencia-politica-para-asumir-la-reconstruccion-de-la-zona-cero.html",
         "date": "2025-07-31 14:22:27",
         "sentiment_score": 0.22389516979455948
-    },
-    {
-        "title": "José María Ángel, un veterano político obligado a dimitir por un título falso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7RIH3JSFIVB4XCXVAHKCM7DIFU.jpg?auth=d21188be6401480687be681fe0c8f1ca97add69ae3d99f4100ffe030364502a1&width=1200",
-        "tags": [
-            "dana",
-            "generalitat valenciana",
-            "carlos mazón",
-            "inundaciones dana octubre 2024",
-            "diputación provincial valencia",
-            "comunidad valenciana",
-            "gobierno",
-            "política"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-07-31/jose-maria-angel-un-veterano-politico-obligado-a-dimitir-por-un-titulo-falso.html",
-        "date": "2025-07-31 14:19:32",
-        "sentiment_score": 0.03725692629814148
-    },
-    {
-        "title": "Detenido un hombre por conducir 22 kilómetros en dirección contraria en una autovía de Palencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZABR2PIIEREGJOLE2TJAIQOKX4.jpg?auth=39357ad2e8c3cef664ab11065ddce593a476dd96762dbb0d015b0bb4be5643de&width=1200",
-        "tags": [
-            "tráfico",
-            "burgos",
-            "controles alcoholemia",
-            "palencia",
-            "accidentes",
-            "guardia civil",
-            "sucesos",
-            "españa",
-            "seguridad vial"
-        ],
-        "link": "https://elpais.com/espana/2025-07-31/detenido-un-hombre-por-conducir-22-kilometros-en-direccion-contraria-en-una-autovia-de-palencia.html",
-        "date": "2025-07-31 13:55:22",
-        "sentiment_score": -0.637324646115303
     },
     {
         "title": "Un nuevo incendio en Pontevedra se suma al de Ávila y Las Hurdes (Cáceres), donde más de 80 vecinos regresan a sus casas",
@@ -8353,5 +8257,423 @@ export default [
         "link": "https://2001online.com/farandula/la-descarada-respuesta-de-jennifer-lopez-tras-ser-comparada-con-una-actriz-erotica-2025831700",
         "date": "2025-08-03 21:00:00",
         "sentiment_score": -0.5130927786231041
+    },
+    {
+        "title": "Continúa activo el incendio forestal de Badajoz, y estabilizados los de Ourense y Granada",
+        "image_url": "https://www.infobae.com/resizer/v2/FESQN2EERFDPTFQCG4AZYZ5PCI.jpg?auth=cf891ab1d308260b9c91a8004a306e91d72a6d2e83f53e4c61c57eba2189a2b8&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "huelva",
+            "ourense",
+            "ávila",
+            "españa-nacional",
+            "girona",
+            "galicia",
+            "andalucía",
+            "a coruña",
+            "efe",
+            "incendio forestal",
+            "fuego",
+            "badajoz",
+            "incendio",
+            "cataluña",
+            "extremadura",
+            "granada",
+            "sevilla",
+            "agencias",
+            "pontevedra"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/04/continua-activo-el-incendio-forestal-de-badajoz-y-estabilizados-los-de-ourense-y-granada/",
+        "date": "2025-08-04 02:07:47",
+        "sentiment_score": -0.8446077462285757
+    },
+    {
+        "title": "Conoce el clima de este día en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/VLQPBJ57FVHE5EEUO244GVVUKI.jpg?auth=df376a06cf4887c1b7ee95578b1c9dcd7048cb8fd0eb9aa19637a1e1d65329f6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "barcelona",
+            "noticias",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/04/conoce-el-clima-de-este-dia-en-barcelona/",
+        "date": "2025-08-04 01:17:43",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Las películas más populares de Netflix España que no podrás dejar de ver",
+        "image_url": "https://www.infobae.com/resizer/v2/OF5EMOTUMFDI3PH7EMHYN7H72E.jpg?auth=020a872697c6a572b54c51b637fb0725d510834f7efb3ca1d0b530a138a5004c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-televisión",
+            "netflix",
+            "streaming",
+            "noticias",
+            "películas"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/03/las-peliculas-mas-populares-de-netflix-espana-que-no-podras-dejar-de-ver/",
+        "date": "2025-08-03 23:30:50",
+        "sentiment_score": 0.29326120018959045
+    },
+    {
+        "title": "Prime Video: Así quedo el top de las mejores películas de la plataforma en España",
+        "image_url": "https://www.infobae.com/resizer/v2/T5GRYRGLF5CTTODZNO37SASCCI.jpg?auth=05bbfa9c2f2eb1d2ab2642005b4137141bc74068ce3c8c285e27b747d1680e80&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-televisión",
+            "streaming",
+            "prime video",
+            "noticias",
+            "películas"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/08/03/prime-video-asi-quedo-el-top-de-las-mejores-peliculas-de-la-plataforma-en-espana/",
+        "date": "2025-08-03 23:30:33",
+        "sentiment_score": 0.8811986930668354
+    },
+    {
+        "title": "Video| Revelaron el desespero que tenía Westcol en medio de su pelea en España: “No tengo rodilla”",
+        "image_url": "https://www.infobae.com/resizer/v2/EKKAYSJGDVF5TEAJIQIAQWDPAY.png?auth=5227d4fafe194da94c3e373de241039e961e71c6c0d7618b5daca7ca62e0d0fe&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "westcol",
+            "the grefg",
+            "la velada del año",
+            "colombia-noticias",
+            "pelea",
+            "video",
+            "colombia-entretenimiento",
+            "boxeo"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/08/03/videorevelaron-el-desespero-que-tenia-westcol-en-medio-de-su-pelea-en-espana-no-tengo-rodilla/",
+        "date": "2025-08-03 23:16:28",
+        "sentiment_score": -0.480044711381197
+    },
+    {
+        "title": "El veneno de ETA persiste",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/07/31/ivana-rodriguez-instagram-kvqH--170x119@El%20Comercio.jpg",
+        "tags": [
+            "hernani",
+            "ertzaintza",
+            "eh bildu",
+            "batasuna",
+            "país vasco"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-veneno-eta-persiste-20250804184122-nt.html",
+        "date": "2025-08-04 02:06:25",
+        "sentiment_score": -0.6568656116724014
+    },
+    {
+        "title": "El Principado brinda su apoyo a que Oviedo acoja la Agencia de Salud",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3a3ab2e-569d-4f6a-81cb-bfe54045ae32_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "principado",
+            "ejecutivo",
+            "barbón",
+            "salud"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/08/04/principado-brinda-apoyo-oviedo-acoja-120325330.html",
+        "date": "2025-08-04 02:10:00",
+        "sentiment_score": 0.08410155773162842
+    },
+    {
+        "title": "El cuarto de muestras",
+        "image_url": "https://static.grupojoly.com/clip/0d0f34f9-c2a9-4354-919d-079f3b7515e8_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "jerez-xérez-sherry",
+            "últimas noticias jerez",
+            "marco de jerez"
+        ],
+        "link": "https://www.diariodejerez.es/jerez/cuarto-muestras_0_2004513838.html",
+        "date": "2025-08-04 02:00:48",
+        "sentiment_score": 0.22327855974435806
+    },
+    {
+        "title": "Benidorm busca el amparo del Constitucional para esquivar una condena millonaria que amenaza sus finanzas",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/08/01/688ca8545486f.r_d.567-182-12605.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250804/benidorm-busca-amparo-constitucional-esquivar-condena-millonaria-amenaza-finanzas_322456.html",
+        "date": "2025-08-04 02:00:00",
+        "sentiment_score": -0.8946240469813347
+    },
+    {
+        "title": "Pueblos en fiestas en Alicante, Castellón y Valencia: programa de actos para el lunes 4 de agosto",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/07/31/688b5dbaf2473.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250804/pueblos-fiestas-alicante-castellon-valencia-programa-actos-lunes-4-agosto_322227.html",
+        "date": "2025-08-04 02:00:00",
+        "sentiment_score": 0.0016185790300369263
+    },
+    {
+        "title": "Aitor Guarino, tercer año en el Atlético",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3419331.jpg",
+        "tags": [
+            "fútbol",
+            "aitor guarino",
+            "fútbol en menorca"
+        ],
+        "link": "https://www.menorca.info/deportes/futbol/2025/08/04/2443377/aitor-guarino-tercer-ano-atletico.html",
+        "date": "2025-08-04 01:55:59",
+        "sentiment_score": 0.7519488669931889
+    },
+    {
+        "title": "Mina Bonino incendia el verano antes del regreso de Fede Valverde a la acción",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/04/2025080403491243000.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/mina-bonino-incendia-verano-antes-regreso-fede-valverde-accion-madrid/20250804035058352147.html",
+        "date": "2025-08-04 01:50:58",
+        "sentiment_score": -0.32725466787815094
+    },
+    {
+        "title": "Illa cambia el 'España nos roba' por 'Madrid nos roba': los datos desmienten el discurso con el que justifica el cupo catalán",
+        "image_url": "https://s1.elespanol.com/2025/08/03/actualidad/1003743873341_257752050_1706x960.jpg?contentId=1003743873341",
+        "tags": [
+            "cataluña",
+            "josep borrell",
+            "emiliano garcía-page",
+            "madrid",
+            "política",
+            "salvador illa roca"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250804/illa-cambia-espana-roba-madrid-datos-desmienten-discurso-justifica-cupo-catalan/1003743873187_0.html",
+        "date": "2025-08-04 00:13:11",
+        "sentiment_score": -0.03339877724647522
+    },
+    {
+        "title": "La amenaza de guerra de CEOE y sindicatos obliga a Díaz a retrasar la entrada de Pimec en el Consejo Económico y Social",
+        "image_url": "https://s1.elespanol.com/2025/08/01/actualidad/1003743871646_257719559_1706x960.jpg?contentId=1003743871646",
+        "tags": [
+            "empleo hoy",
+            "cc.oo. comisiones obreras",
+            "ugt",
+            "ceoe",
+            "sindicatos"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/empleo/20250804/amenaza-guerra-ceoe-sindicatos-obliga-diaz-retrasar-entrada-pimec-consejo-economico-social/1003743871643_0.html",
+        "date": "2025-08-04 00:10:29",
+        "sentiment_score": -0.710952140390873
+    },
+    {
+        "title": "Boyas inteligentes para monitorizar la calidad del agua en las playas españolas",
+        "image_url": "https://s1.elespanol.com/2025/07/30/actualidad/1003743868627_257665486_1706x960.jpg?contentId=1003743868627",
+        "tags": [
+            "medioambiente",
+            "sostenibilidad",
+            "investigación",
+            "playas",
+            "salud pública",
+            "investigación científica"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/investigacion/20250803/boyas-inteligentes-monitorizar-calidad-agua-playas-espanolas/1003743868563_0.html",
+        "date": "2025-08-03 23:46:00",
+        "sentiment_score": 0.3621579557657242
+    },
+    {
+        "title": "Xabier Anduaga, el tenor vasco que triunfa en Nueva York: \"Tuve que elegir entre cantar y el fútbol. Acerté\"",
+        "image_url": "https://s1.elespanol.com/2025/07/29/actualidad/1003743866934_257635204_1706x910.jpg?contentId=1003743866934",
+        "tags": [
+            "entrevistas",
+            "conciertos música",
+            "escenarios"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/20250803/xabier-anduaga-tenor-vasco-triunfa-nueva-york-elegir-cantar-futbol-acerte/1003743866681_0.html",
+        "date": "2025-08-03 23:43:00",
+        "sentiment_score": 0.30049144476652145
+    },
+    {
+        "title": "Bayer, enseña \"mundial\" de Langreo, aborda una descarbonización pionera",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2f40f541-d2d7-4945-999c-ef3499862b51_16-9-aspect-ratio_default_0_x833y358.jpg",
+        "tags": [
+            "fidma",
+            "bayer",
+            "iberdrola",
+            "descarbonización",
+            "asturias"
+        ],
+        "link": "https://www.lne.es/gijon/2025/08/04/bayer-ensena-mundial-langreo-aborda-120325527.html",
+        "date": "2025-08-04 02:01:07",
+        "sentiment_score": 0.01031947135925293
+    },
+    {
+        "title": "Xavier Larsson: «Siempre he considerado un privilegio dedicarme a la música como profesión»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3418861.jpg",
+        "tags": [
+            "xavier larsson",
+            "cultura"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2025/08/04/2443229/xavier-larsson-siempre-considerado-privilegio-dedicarme-musica-como-profesion.html",
+        "date": "2025-08-04 01:55:59",
+        "sentiment_score": 0.2392527461051941
+    },
+    {
+        "title": "Urtasun innova la política informativa del Gobierno",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3418901.jpg",
+        "tags": [
+            "blogs"
+        ],
+        "link": "https://www.menorca.info/opinion/blogs/2025/08/04/2443247/urtasun-innova-politica-informativa-del-gobierno.html",
+        "date": "2025-08-04 01:55:58",
+        "sentiment_score": 0.5039464831352234
+    },
+    {
+        "title": "Scayle refuerza su papel tecnológico con un laboratorio de comunicación cuántica",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/08/03/688f9280d4eb5.jpeg",
+        "tags": [
+            "león"
+        ],
+        "link": "https://www.diariodeleon.es/leon/250804/2055924/scayle-refuerza-papel-tecnologico-laboratorio-comunicacion-cuantica.html",
+        "date": "2025-08-04 01:30:00",
+        "sentiment_score": 0.3893831428140402
+    },
+    {
+        "title": "Ricky Rubio vuelve, eso es lo importante",
+        "image_url": "https://static.laregion.es/clip/08d40f82-c1e3-4a19-8fb7-e3aae63078bb_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dkv joventut",
+            "acb",
+            "nba",
+            "baloncesto"
+        ],
+        "link": "https://www.laregion.es/opinion/ricky-rubio-vuelve-importante_1_20250804-3941115.html",
+        "date": "2025-08-04 01:10:13",
+        "sentiment_score": -0.5352348014712334
+    },
+    {
+        "title": "¿Qué es la mecánica cuántica? Todo mundo tiene una opinión distinta, hasta los científicos que la estudian",
+        "image_url": "https://media.es.wired.com/photos/688ffdec9bd2b3fa46e9e551/master/pass/mecanicacuantica.jpg",
+        "tags": [
+            "ciencia",
+            "web",
+            "textaboveleftsmall"
+        ],
+        "link": "https://es.wired.com/articulos/que-es-la-mecanica-cuantica-todo-mundo-tiene-una-opinion-distinta-hasta-los-cientificos-que-la-estudian",
+        "date": "2025-08-04 01:04:09",
+        "sentiment_score": -0.6302494239062071
+    },
+    {
+        "title": "Renfe prescinde de los Talgo-Avril del corredor Madrid-Barcelona por falta de fiabilidad",
+        "image_url": "https://phantom-elmundo.uecdn.es/7c795bbc3e0bb54086ee52a89e08ab49/f/image/jpeg/assets/multimedia/imagenes/2024/01/17/17055016058889.jpg",
+        "tags": [
+            "artículos césar urrutia",
+            "renfe"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/08/04/688fa149e9cf4a0f748b45ac.html",
+        "date": "2025-08-04 00:13:44",
+        "sentiment_score": -0.656782129779458
+    },
+    {
+        "title": "¡Como de ciencia ficción! Así puedes eliminar recuerdos con el ejercicio físico: investigadores revelan una disciplina para controlar tus neuronas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754273555452.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/como-de-ciencia-ficcion-asi-puedes-eliminar-recuerdos-con-el-ejercicio-fisico-investigadores-revelan-una-disciplina-para-controlar-tus-neuronas-20258322150",
+        "date": "2025-08-04 02:15:00",
+        "sentiment_score": 0.49347013235092163
+    },
+    {
+        "title": "En video: Dua Lipa comparte el escenario con su padre durante su concierto en Kosovar",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754274071252.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "dua lipa",
+            "concierto"
+        ],
+        "link": "https://2001online.com/farandula/en-video-dua-lipa-comparte-el-escenario-con-su-padre-durante-su-concierto-en-kosovar-20258322140",
+        "date": "2025-08-04 02:14:00",
+        "sentiment_score": 0.729276031255722
+    },
+    {
+        "title": "Nayib Bukele defiende la reelección indefinida: El 90 % de los países desarrollados lo permiten",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754268274722.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "congreso",
+            "reforma",
+            "constitución"
+        ],
+        "link": "https://2001online.com/diario-2001/nayib-bukele-defiende-la-reeleccion-indefinida-el-90-de-los-paises-desarrollados-lo-permiten-2025832220",
+        "date": "2025-08-04 02:02:00",
+        "sentiment_score": 0.4176981523633003
+    },
+    {
+        "title": "CNE anuncia resultados irreversibles de las Elecciones de Concejales en comunidades indígenas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754271750716.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "elecciones concejales 2025",
+            "venezuela",
+            "indígenas"
+        ],
+        "link": "https://2001online.com/nacionales/cne-anuncia-resultados-irreversibles-de-las-elecciones-de-concejales-en-comunidades-indigenas-2025832220",
+        "date": "2025-08-04 02:02:00",
+        "sentiment_score": 0.388917313888669
+    },
+    {
+        "title": "Frena el envejecimiento de tu piel con un producto que siempre tienes en tu refrigerador: aplícalo dos veces al día como Drew Barrymore",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754074419721.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/frena-el-envejecimiento-de-tu-piel-con-un-producto-que-siempre-tienes-en-tu-refrigerador-aplicalo-dos-veces-al-dia-como-drew-barrymore-2025832200",
+        "date": "2025-08-04 02:00:00",
+        "sentiment_score": 0.8332433216273785
+    },
+    {
+        "title": "Predicciones de la semana del 4 al 10 de agosto",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753984357381.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-4-al-10-de-agosto--2025832200",
+        "date": "2025-08-04 02:00:00",
+        "sentiment_score": -0.040264904499053955
+    },
+    {
+        "title": "Scarlet Ortiz y su sorprendente confesión: Yo no me veía en el Miss Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754273027662.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "miss venezuela 1992",
+            "scarlet ortiz"
+        ],
+        "link": "https://2001online.com/farandula/scarlet-ortiz-y-su-sorprendente-confesion-yo-no-me-veia-en-el-miss-venezuela--20258321590",
+        "date": "2025-08-04 01:59:00",
+        "sentiment_score": -0.7518078219145536
+    },
+    {
+        "title": "Habla el peluquero de Amal Clooney: afamado estilista internacional revela el secreto del espectacular cabello de la esposa de George Clooney",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754272143349.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/habla-el-peluquero-de-amal-clooney-afamado-estilista-internacional-revela-el-secreto-del-espectacular-cabello-de-la-esposa-de-george-clooney-20258321550",
+        "date": "2025-08-04 01:55:00",
+        "sentiment_score": 0.665097014978528
+    },
+    {
+        "title": "Daniel Otayek se va contra Patricia Schwarzgruber: Expones a tu hija al escándalo público",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754271725971.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "patricia schwarzgruber",
+            "daniel otayek"
+        ],
+        "link": "https://2001online.com/farandula/daniel-otayek-se-va-contra-patricia-schwarzgruber-expones-a-tu-hija-al-escandalo-publico-20258321370",
+        "date": "2025-08-04 01:37:00",
+        "sentiment_score": -0.8725005509331822
+    },
+    {
+        "title": "Hoteles de Mérida ofrecen paquetes accesibles para los turistas: incluyen desayunos y actividades recreativas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754261791867.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "turismo",
+            "venezuela",
+            "región andina"
+        ],
+        "link": "https://2001online.com/comunidad/hoteles-de-merida-ofrecen-paquetes-accesibles-para-los-turistas-incluyen-desayunos-y-actividades-recreativas-2025832130",
+        "date": "2025-08-04 01:03:00",
+        "sentiment_score": 0.588135614991188
     }
 ];
