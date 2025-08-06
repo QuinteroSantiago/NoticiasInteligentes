@@ -136,26 +136,6 @@ export default [
         "sentiment_score": -0.5552798919379711
     },
     {
-        "title": "Venticinco empresas se adhieren al código de la UE sobre inteligencia artificial (IA)",
-        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3409",
-        "tags": [
-            "microsoft",
-            "unión europea",
-            "derechos de autor",
-            "openai",
-            "comisión europea",
-            "inteligencia artificial",
-            "efe",
-            "regulación tecnológica",
-            "amazon",
-            "google",
-            "bruselas"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/08/02/venticinco-empresas-se-adhieren-al-codigo-de-la-ue-sobre-inteligencia-artificial-ia/",
-        "date": "2025-08-02 14:17:24",
-        "sentiment_score": -0.8350875824689865
-    },
-    {
         "title": "El mal, Dios y la fe",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/08/03/ABCTERCERA_Diosylafe_CUARTANGO-R5ag3KEaLza84eyHc6EqPsK-350x624@diario_abc.jpg",
         "tags": [
@@ -262,29 +242,6 @@ export default [
         "sentiment_score": -0.1285797506570816
     },
     {
-        "title": "'La abeja reina', la abuela que dirigía un imperio de cocaína con sus hijos: «No era una familia común y corriente»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/03/abuel2-R2z87KPo4VzWrz8Lxu9FapI-1200x840@diario_abc.PNG",
-        "tags": [
-            "bugatti",
-            "lujo",
-            "millones",
-            "drogas",
-            "policía",
-            "abc.es",
-            "manchester",
-            "familia",
-            "ad abc",
-            "cocaína",
-            "reino unido",
-            "hijos",
-            "abc",
-            "cardiff"
-        ],
-        "link": "https://www.abc.es/internacional/abeja-reina-abuela-dirigia-imperio-cocaina-familiar-20250803185925-nt.html",
-        "date": "2025-08-02 13:52:58",
-        "sentiment_score": -0.212718203663826
-    },
-    {
         "title": "Muere el exvicerrector de la UB, Gaspar Rosselló, en un accidente en Mallorca",
         "image_url": "https://imagenes.elpais.com/resizer/v2/TR4SDFPJSZBTNKV7726YQI5VNU.jpg?auth=07cb305b6d7f7c46776105dac29a7bb073b3af63e52247470d79178a426b5339&width=1200",
         "tags": [
@@ -359,25 +316,6 @@ export default [
         "link": "https://elpais.com/espana/galicia/2025-08-02/un-incendio-avanza-sin-control-en-vilardevos-tras-quemar-450-hectareas.html",
         "date": "2025-08-02 14:34:43",
         "sentiment_score": -0.8453423604369164
-    },
-    {
-        "title": "La princesa Leonor de Borbón acude con el rey Felipe VI al club náutico de Palma",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BG64J3VSOBNS3EZROZZHSKIBOQ.jpg?auth=aeddd1ce4cf49e65a3b13995f2975a5188c5c7eebe48816570949af728066eff&width=1200",
-        "tags": [
-            "felipe vi",
-            "palma",
-            "familia real",
-            "casa real",
-            "deportes acuáticos",
-            "baleares",
-            "navegadores náuticos",
-            "leonor de borbón",
-            "monarquía",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-02/la-princesa-leonor-de-borbon-acude-con-el-rey-felipe-vi-al-club-nautico-de-palma.html",
-        "date": "2025-08-02 10:38:46",
-        "sentiment_score": 0.1669817455112934
     },
     {
         "title": "Luka Doncic se compromete y renueva con los Lakers por tres temporadas y 165 millones",
@@ -8282,5 +8220,394 @@ export default [
         "link": "https://2001online.com/farandula/guillermo-del-toro-revela-como-jacob-elordi-salva-el-proyecto-frankenstein-estuvo-bajo-mucha-presion-20258516550",
         "date": "2025-08-05 20:55:00",
         "sentiment_score": 0.3234330713748932
+    },
+    {
+        "title": "Conoce el clima de este día en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/MLF732S2QRFAZPVV3UYAGHVFX4.jpg?auth=e324eaf2380074aecb5a4fae8aad77a416949bed391eabc88700301daee388db&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "málaga",
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/06/conoce-el-clima-de-este-dia-en-malaga/",
+        "date": "2025-08-06 02:16:07",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "España: las predicciones del tiempo en Madrid este 6 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "noticias",
+            "españa noticias",
+            "tiempo en españa",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/06/espana-las-predicciones-del-tiempo-en-madrid-este-6-de-agosto/",
+        "date": "2025-08-06 01:30:56",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en Barcelona: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/3MU2HKNCBNFW5FQLAHAU25HETQ.jpg?auth=4de3ce9ef5c48955971146a6671f88332ed1e49013c5d4824a26309a4cc45985&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "españa sociedad",
+            "noticias",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/06/clima-en-barcelona-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2025-08-06 01:17:30",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Trueno fue visto en España con una modelo: de quién se trata",
+        "image_url": "https://www.infobae.com/resizer/v2/G3CL2E5JSFHJVLHLIKQVL6DUHQ.jpg?auth=d6991a325267e9c1f23cf1d445435c8325e86338ee917444b09a7accca99d52f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "teresa prettel",
+            "nicki nicole",
+            "trueno",
+            "lamine yamal"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/08/06/trueno-fue-visto-en-espana-con-una-modelo-de-quien-se-trata/",
+        "date": "2025-08-06 00:30:00",
+        "sentiment_score": -0.06036005914211273
+    },
+    {
+        "title": "Empresa española forma y contrata a jóvenes peruanos con visado académico por falta de conductores y mecánicos en Girona",
+        "image_url": "https://www.infobae.com/resizer/v2/H57KXLELHJBNDEIRVUOIZF6HLA.png?auth=696a8b9f560c5525765bdd619cb6f3674639bfaa036bb0cd4b63e88aa209767f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "visado académico",
+            "girona",
+            "montevia",
+            "peru-noticias",
+            "peruanos",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/peru/2025/08/05/empresa-en-espana-forma-y-contrata-a-jovenes-peruanos-con-visado-academico-por-falta-de-conductores-y-mecanicos-en-girona/",
+        "date": "2025-08-05 23:48:31",
+        "sentiment_score": 0.1608234941959381
+    },
+    {
+        "title": "Qué significa llevar gafas de sol en interior, según la psicología",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3421707.jpg",
+        "tags": [
+            "consejos útiles",
+            "ia-news",
+            "audiencias-um",
+            "trucos para ahorrar",
+            "psicología",
+            "aprender y más",
+            "dudas y respuestas",
+            "curiosidades y trucos",
+            "noticias interesantes"
+        ],
+        "link": "https://www.menorca.info/actualidad/dudas-respuestas/2025/08/06/2444351/significa-llevar-gafas-sol-interior-segun-psicologia.html",
+        "date": "2025-08-06 02:00:01",
+        "sentiment_score": -0.09751544147729874
+    },
+    {
+        "title": "Cristòfol Romaguera debuta en el Liceu con el ‘West Side Story’ de Gustave Dudamel",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3421951.jpg",
+        "tags": [
+            "cultura en mallorca",
+            "ópera en mallorca",
+            "cultura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/08/06/2444485/cristofol-romaguera-debuta-liceu-west-side-story-gustave-dudamel.html",
+        "date": "2025-08-06 02:00:01",
+        "sentiment_score": -0.056360453367233276
+    },
+    {
+        "title": "¿Cuál sería la clave para que el Atlético de Madrid salga a buscar un nuevo bombazo de verano?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/24/2025062414072582713.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/cual-seria-clave-que-atletico-madrid-salga-buscar-nuevo-bombazo-verano/20250806033938352344.html",
+        "date": "2025-08-06 01:39:38",
+        "sentiment_score": 0.3034258037805557
+    },
+    {
+        "title": "Esto es lo que dijo Luka Jovic tras llegar al AEK de Atenas y no a Cruz Azul: “Vi la pasión en los ojos del dueño”",
+        "image_url": "https://www.infobae.com/resizer/v2/YF7LAWRVHFGKJA3YVBFUXU566I.jpg?auth=58c165cc5d66495420bd2e19cace9696b93c1833f16563517eddf10e5e5e9cc9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "luka jovic",
+            "aek de atenas",
+            "mexico-deportes",
+            "cruz azul",
+            "liga mx"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/08/06/esto-es-lo-que-dijo-luka-jovic-tras-llegar-al-aek-de-atenas-y-no-a-cruz-azul-vi-la-pasion-en-los-ojos-del-dueno/",
+        "date": "2025-08-06 01:35:00",
+        "sentiment_score": 0.10464084893465042
+    },
+    {
+        "title": "Conoce el fichaje más inesperado del Real Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/03/2025030321374555879.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/fichaje-mas-inesperado-real-madrid/20250806031255352341.html",
+        "date": "2025-08-06 01:12:55",
+        "sentiment_score": 0.7789338603615761
+    },
+    {
+        "title": "Inter Miami vs. Pumas UNAM por la Leagues Cup: previa, alineaciones posibles, hora y cómo ver por TV e internet",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/08/05/inter-miami-pumas-unam-leagues-cup-orix/",
+        "date": "2025-08-06 01:03:55",
+        "sentiment_score": 0.31870802491903305
+    },
+    {
+        "title": "\"La ola de calor puede dañar permanentemente tu móvil\": las acciones cotidianas que tienes que evitar para que no se funda",
+        "image_url": "https://s1.elespanol.com/2025/08/04/actualidad/1003743874352_257769439_1706x960.jpg?contentId=1003743874352",
+        "tags": [
+            "smartphones",
+            "calor",
+            "ola de calor",
+            "trucos",
+            "playas",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/elandroidelibre/tutoriales/trucos/20250806/ola-calor-puede-danar-permanentemente-movil-acciones-cotidianas-evitar-no-funda/1003743874337_0.html",
+        "date": "2025-08-06 00:16:14",
+        "sentiment_score": -0.24142073094844818
+    },
+    {
+        "title": "05 AGO 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/05-ago-2025-partidazo-cope-20250806_3195671.html",
+        "date": "2025-08-05 23:48:04",
+        "sentiment_score": -0.02662275731563568
+    },
+    {
+        "title": "Aitor Esteban ata el futuro del PNV al de Pedro Sánchez",
+        "image_url": "https://s1.elespanol.com/2025/08/05/actualidad/1003743876328_257804088_1024x576.jpg?contentId=1003743876328",
+        "tags": [
+            "partido popular (pp)",
+            "editoriales",
+            "editoriales de opinión",
+            "opinión",
+            "pnv",
+            "aitor esteban"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20250805/aitor-esteban-ata-futuro-pnv-pedro-sanchez/1003743876285_14.html",
+        "date": "2025-08-05 23:47:47",
+        "sentiment_score": -0.7715495899319649
+    },
+    {
+        "title": "La génesis del Hernán Cortés",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/43c545fb-0013-4391-9283-79da74ef7367_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "altura",
+            "fiestas",
+            "asturias",
+            "inmobiliarias"
+        ],
+        "link": "https://www.lne.es/gijon/2025/08/06/genesis-hernan-cortes-120385074.html",
+        "date": "2025-08-06 02:07:00",
+        "sentiment_score": -0.04407978057861328
+    },
+    {
+        "title": "El helado que se hace en Cangas y solo se puede degustar allí",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/021437f4-bc1c-4749-b4ae-65617512f123_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "madrid",
+            "gente"
+        ],
+        "link": "https://www.lne.es/occidente/2025/08/06/helado-cangas-degustar-120386092.html",
+        "date": "2025-08-06 02:00:57",
+        "sentiment_score": -0.16500850021839142
+    },
+    {
+        "title": "Jesse, ‘el hombre bandera’, vive en El guardián del vacío sin luz, ni calefacción, ni refrigeración...",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3422083.jpg",
+        "tags": [
+            "sociedad",
+            "última hora",
+            "tendencias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/08/06/2444593/jesse-hombre-bandera-vive-guardian-del-vacio-luz-calefaccion-refrigeracion.html",
+        "date": "2025-08-06 02:00:01",
+        "sentiment_score": 0.17065778374671936
+    },
+    {
+        "title": "Ducharse vestidos (a los que falsifican títulos)",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/3421891.jpg",
+        "tags": [
+            "firmas del día"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/08/06/2444441/ducharse-vestidos-que-falsifican-titulos.html",
+        "date": "2025-08-06 02:00:01",
+        "sentiment_score": 0.20322835445404053
+    },
+    {
+        "title": "Oviedo, ciudad imaginada de novela",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/44741619-88b0-409b-9fb6-dbc72ad10e16_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "libros",
+            "guadalajara",
+            "campo san francisco",
+            "covadonga"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/08/06/oviedo-ciudad-imaginada-novela-120385810.html",
+        "date": "2025-08-06 01:32:41",
+        "sentiment_score": 0.07855570316314697
+    },
+    {
+        "title": "Sheinbaum nombra a Claudia Pavlovich, exgobernadora de Sonora por el PRI, como embajadora de Panamá",
+        "image_url": "https://www.infobae.com/resizer/v2/5SYEQSTPQNCYZE77VMQOBTHVAQ.jpg?auth=bef1dd4a5a6ad32a05b40747b68b66d91baa28d4323e1778e35739a138fb91ae&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "mexico-noticias",
+            "sre",
+            "embajada de méxico en panamá",
+            "sonora",
+            "claudia pavlovich",
+            "comisión permanente"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/08/06/sheinbaum-nombra-a-claudia-pavlovich-exgobernadora-de-sonora-por-el-pri-como-embajadora-de-panama/",
+        "date": "2025-08-06 01:22:28",
+        "sentiment_score": -0.5255593061447144
+    },
+    {
+        "title": "Exburrier inglesa revela en el reality ‘Celebrity SAS’ que fue lo peor de estar en una prisión de Perú",
+        "image_url": "https://www.infobae.com/resizer/v2/JZONELHUDFDGTBKJEELPPZONPU.png?auth=13905d1fed47daba30da807451b5991d60974eb8d998550ba4c1757552f84d24&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "michaella mccollum",
+            "narcotrafico",
+            "droga",
+            "celebrity sas",
+            "aeropuerto jorge chávez",
+            "prisión",
+            "peru-noticias"
+        ],
+        "link": "https://www.infobae.com/peru/2025/08/06/exburrier-inglesa-revela-en-el-reality-celebrity-sas-que-fue-lo-peor-de-estar-en-una-prision-de-peru/",
+        "date": "2025-08-06 00:25:00",
+        "sentiment_score": -0.7130799982696772
+    },
+    {
+        "title": "Así puedes postularte en línea a la Universidad de las Ciencias: hay oportunidad hasta el 17 de agosto",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754445942360.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "universidad de las ciencias",
+            "ingreso",
+            "postulación"
+        ],
+        "link": "https://2001online.com/servicios/asi-puedes-postularte-en-linea-a-la-universidad-de-las-ciencias-hay-oportunidad-hasta-el-17-de-agosto-20258522120",
+        "date": "2025-08-06 02:12:00",
+        "sentiment_score": 0.058247022330760956
+    },
+    {
+        "title": "Redadas ICE: frases que debes saber para evitar procedimientos migratorios irregulares",
+        "image_url": "https://pxcdn.2001online.com/2001/072025/1753732099009.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "evite decir estas frases",
+            "ice",
+            "migrantes"
+        ],
+        "link": "https://2001online.com/usa/servicios/redadas-ice-frases-que-debes-saber-para-evitar-procedimientos-migratorios-irregulares-20258522100",
+        "date": "2025-08-06 02:10:00",
+        "sentiment_score": -0.6110557392239571
+    },
+    {
+        "title": "Despídete de los indeseables los poros abiertos: aplica esta efectiva mascarilla natural a base de una milagrosa planta",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754445729137.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/despidete-de-los-indeseables-los-poros-abiertos-aplica-esta-efectiva-mascarilla-natural-a-base-de-una-milagrosa-planta-20258522100",
+        "date": "2025-08-06 02:10:00",
+        "sentiment_score": -0.8084288407117128
+    },
+    {
+        "title": "Expertos lo llaman el “oro líquido”: conoce el aceite perfecto para freír los alimentos y no sentir remordimientos por tu salud",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754332873712.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/expertos-lo-llaman-el-oro-liquido-conoce-el-aceite-perfecto-para-freir-los-alimentos-y-no-sentir-remordimientos-por-tu-salud-2025852200",
+        "date": "2025-08-06 02:00:00",
+        "sentiment_score": 0.2932126075029373
+    },
+    {
+        "title": "¡Boicot total! Empleados del supermercado Stater Bros denuncian injusticias laborales: tienen contratos vencidos desde marzo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754444915752.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "california",
+            "boicot",
+            "starter bros."
+        ],
+        "link": "https://2001online.com/usa/internacionales/boicot-total-empleados-del-supermercado-stater-bros-denuncian-injusticias-laborales-tienen-contratos-vencidos-desde-marzo-2025852200",
+        "date": "2025-08-06 02:00:00",
+        "sentiment_score": -0.8921221140772104
+    },
+    {
+        "title": "Sheryl Rubio enternece las redes: comparte un vídeo de su bebé calificando comida",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754446186054.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "sheryl rubio",
+            "madre"
+        ],
+        "link": "https://2001online.com/farandula/sheryl-rubio-enternece-las-redes-comparte-un-video-de-su-bebe-calificando-comida--20258521560",
+        "date": "2025-08-06 01:56:00",
+        "sentiment_score": 0.021449148654937744
+    },
+    {
+        "title": "La Guaira celebra a la juventud: llega este viernes “La Ruta live Bachiller” con Omar Enrique y más",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754444964828.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "omar enrique",
+            "la ruta live bachiller"
+        ],
+        "link": "https://2001online.com/farandula/la-guaira-celebra-a-la-juventud-llega-este-viernes-la-ruta-live-bachiller-con-omar-enrique-y-mas-20258521440",
+        "date": "2025-08-06 01:44:00",
+        "sentiment_score": 0.5407420545816422
+    },
+    {
+        "title": "¡Emely Barile sigue insistiendo!: la influencer se presentó en el casting Miss Grand Venezuela 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754443757637.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "emely barile",
+            "miss grand venezuela"
+        ],
+        "link": "https://2001online.com/farandula/emely-barile-sigue-insistiendo-la-influencer-se-presento-en-el-casting-miss-grand-venezuela-2025-20258521100",
+        "date": "2025-08-06 01:10:00",
+        "sentiment_score": 0.08211484551429749
+    },
+    {
+        "title": "¡Atención, Nueva York! En estos hospitales atienden a los contagiados de la enfermedad del legionario: ¿Cómo reconocer los síntomas?",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754446083521.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "#nueva york",
+            "legionella",
+            "enfermedad del legionario}"
+        ],
+        "link": "https://2001online.com/usa/internacionales/atencion-nueva-york-en-estos-hospitales-atienden-a-los-contagiados-de-la-enfermedad-del-legionario-como-reconocer-los-sintomas--2025852190",
+        "date": "2025-08-06 01:09:00",
+        "sentiment_score": -0.8231054414063692
+    },
+    {
+        "title": "¡Triste confesión! Christina Applegate revela el duro impacto de la esclerosis múltiple en su vida",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754422358580.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "farándula",
+            "famosos",
+            "christina applegate",
+            "salud"
+        ],
+        "link": "https://2001online.com/farandula/triste-confesion-christina-applegate-revela-el-duro-impacto-de-la-esclerosis-multiple-en-su-vida-2025852100",
+        "date": "2025-08-06 01:00:00",
+        "sentiment_score": -0.026491202414035797
     }
 ];
