@@ -232,73 +232,6 @@ export default [
         "sentiment_score": -0.8333133012056351
     },
     {
-        "title": "Otros tres incendios en Galicia calcinan 350 hectáreas y obligan a cortar carreteras en Costa da Morte",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IPP3STLUKVNRBAE3JACJJLSPAI.jpg?auth=e845d546e59ee9dfbbbf8c636893a4f11c29f09f91ca9cb87555597f00f1b14d&width=1200",
-        "tags": [
-            "provincia a coruña",
-            "vilardevós",
-            "calor",
-            "ponteceso",
-            "xunta galicia",
-            "galicia",
-            "provincia ourense",
-            "españa",
-            "incendios forestales"
-        ],
-        "link": "https://elpais.com/espana/galicia/2025-08-03/otros-tres-incendios-en-galicia-calcinan-350-hectareas-y-obligan-a-cortar-carreteras-en-costa-da-morte.html",
-        "date": "2025-08-03 13:12:29",
-        "sentiment_score": -0.02851739525794983
-    },
-    {
-        "title": "Recuperan los cuerpos sin vida de los dos ocupantes de la avioneta que cayó al mar en Sóller",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3WRIJH54FFH5DGZM33N4E5IFI4.jpg?auth=434625d16682bb0cc87bba12742533f691249c57fd9374db1b44925707bfef44&width=1200",
-        "tags": [
-            "accidentes",
-            "españa",
-            "accidentes aéreos",
-            "baleares",
-            "mallorca"
-        ],
-        "link": "https://elpais.com/espana/2025-08-03/recuperan-los-cuerpos-sin-vida-de-los-dos-ocupantes-de-la-avioneta-que-cayo-al-mar-en-soller.html",
-        "date": "2025-08-03 12:43:34",
-        "sentiment_score": -0.7596232742071152
-    },
-    {
-        "title": "Salvador Illa pide “corregir el ‘dumping fiscal’ que hace Madrid”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KXGX4LGFZNJTZLH6D266KJEQZY.jpg?auth=7d8f862c1c6ac11dbee68b97b0b505903315b2456b3106aafc04bbc28342cacf&width=1200",
-        "tags": [
-            "financiación autonómica",
-            "salvador illa",
-            "dumping",
-            "cataluña",
-            "impuestos",
-            "irpf",
-            "financiación",
-            "isabel díaz ayuso",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-03/salvador-illa-pide-corregir-el-dumping-fiscal-que-hace-madrid.html",
-        "date": "2025-08-03 12:27:34",
-        "sentiment_score": -0.8559439610689878
-    },
-    {
-        "title": "Detenido el conductor de un coche implicado en un accidente en el que murió un joven en Sant Feliu (Barcelona)",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JVBZD3KD3ZC7NCJWBAM3DKZG7U.jpg?auth=6cf13276f351d728876a9700eb8a13eab0546ec1519f82d4d527685ec6b25a29&width=1200",
-        "tags": [
-            "hospitales",
-            "cataluña",
-            "tráfico",
-            "coches",
-            "muertes",
-            "mossos d'esquadra",
-            "accidentes",
-            "heridos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-03/detenido-el-conductor-de-un-coche-implicado-en-un-accidente-en-el-que-murio-un-joven-en-sant-feliu-barcelona.html",
-        "date": "2025-08-03 11:11:13",
-        "sentiment_score": -0.7360345255583525
-    },
-    {
         "title": "El Real Madrid echa a andar este lunes",
         "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/08/03/688f9c0bcffa9.jpeg",
         "tags": [
@@ -8278,5 +8211,343 @@ export default [
         "link": "https://2001online.com/usa/curiosidades/existen-los-extraterrestres-jefa-de-inteligencia-de-eeuu-desata-ola-de-rumores-estas-declaraciones-fueron-lapidarias-20258617340",
         "date": "2025-08-06 21:34:00",
         "sentiment_score": 0.10548761114478111
+    },
+    {
+        "title": "\"Aiko El Grupo\" y \".bd.\", una noche intensa que invita a seguir",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3ffc3aa1-d12c-4ef4-9e9d-b8cf986fdcf3_16-9-aspect-ratio_default_0_x820y1106.jpg",
+        "tags": [
+            "conciertos",
+            "música",
+            "jóvenes",
+            "público"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/08/07/aiko-grupo-bd-noche-intensa-120416456.html",
+        "date": "2025-08-07 02:01:33",
+        "sentiment_score": 0.007872849702835083
+    },
+    {
+        "title": "Lavinia Leonhard, la mallorquina que veranea con Marco Asensio",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3423431.jpg",
+        "tags": [
+            "última hora",
+            "sociedad",
+            "tendencias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/08/07/2445091/lavinia-leonhard-mallorquina-veranea-marco-asensio.html",
+        "date": "2025-08-07 02:00:01",
+        "sentiment_score": -0.010351866483688354
+    },
+    {
+        "title": "“La compra impulsiva de ropa es una adicción socialmente aceptada”",
+        "image_url": "https://static.grupojoly.com/clip/f9592959-8876-49d5-b6fe-784b684c1479_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "impulsiva",
+            "socialmente",
+            "ropa",
+            "compra",
+            "adiccion"
+        ],
+        "link": "https://www.granadahoy.com/entrevistas/compra-impulsiva-ropa-adiccion-socialmente_0_2004533525.html",
+        "date": "2025-08-07 01:59:03",
+        "sentiment_score": 0.3016965687274933
+    },
+    {
+        "title": "El debate del verano en el Real Madrid: Gonzalo o Endrick, a quién dar el '9' y más galones con el Mundial a la vista",
+        "image_url": "https://s1.elespanol.com/2025/08/06/deportes/futbol/1003743877475_257824660_1706x960.jpg?contentId=1003743877475",
+        "tags": [
+            "real madrid cf",
+            "endrick felipe",
+            "xabi alonso",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250807/debate-verano-real-madrid-gonzalo-endrick-dar-galones-mundial-vista/1003743877192_0.html",
+        "date": "2025-08-07 00:50:05",
+        "sentiment_score": 0.32076843082904816
+    },
+    {
+        "title": "Historia en 4 tiempos | El exdelantero del Arenteiro Cucala, al Racing de Santander",
+        "image_url": "https://static.laregion.es/clip/a82d4851-6714-462f-8c7b-8ce8ffb49f6a_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "historia en 4 tiempos"
+        ],
+        "link": "https://www.laregion.es/provincia/historia-4-tiempos-arenteiro_1_20250807-3943951.html",
+        "date": "2025-08-07 00:30:04",
+        "sentiment_score": -0.04082157462835312
+    },
+    {
+        "title": "Lighthouse financia su 'retail' en España por 200 millones",
+        "image_url": "https://phantom-expansion.uecdn.es/1095cb075f9be54432e6b7e5573d2dcd/crop/156x0/1884x1152/resize/1200/f/webp/assets/multimedia/imagenes/2025/08/06/17545029945474.jpg",
+        "tags": [
+            "empresas",
+            "mercado inmobiliario",
+            "inmobiliario y construcción"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/08/07/6893972ee5fdea26158b457f.html",
+        "date": "2025-08-07 00:17:46",
+        "sentiment_score": 0.5674227550625801
+    },
+    {
+        "title": "Lali Espósito compartió el detrás de escena de sus shows en Cuyo: “¡Así cerramos la primera etapa de la gira!”",
+        "image_url": "https://www.infobae.com/resizer/v2/ZMPXEC72FRHG5BOYQPU5PHQE6A.jpg?auth=79267ae23b26d8b1d6c2f3633988b718e6bf9372db3c9ae5af9c7c175cba2a6c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "lali espósito",
+            "no vayas a atender cuando el demonio llama"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/08/07/lali-esposito-compartio-el-detras-de-escena-de-sus-shows-en-cuyo-asi-cerramos-la-primera-etapa-de-la-gira/",
+        "date": "2025-08-07 02:14:19",
+        "sentiment_score": 0.05574377253651619
+    },
+    {
+        "title": "Sinvema pide que bono especial de vacaciones sea entregado a todo el personal de educación en Anzoátegui",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "educación"
+        ],
+        "link": "https://eltiempove.com/sinvema-pide-que-bono-especial-de-vacaciones-sea-entregado-a-todo-el-personal-de-educacion-en-anzoategui/",
+        "date": "2025-08-07 02:09:07",
+        "sentiment_score": -0.21257520467042923
+    },
+    {
+        "title": "Miami rendirá por tercera vez homenaje a Álvaro Uribe con una calle en su honor: así será bautizada",
+        "image_url": "https://www.infobae.com/resizer/v2/Q5OU77KHUFEWFNJRQM7C7UATD4.jpg?auth=e6773b568c79d1161f6e8071c14b7230f4092d4f45a60f8f520064a80cc10d3b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "calle uribe",
+            "condena uribe",
+            "álvaro uribe",
+            "miami-dade",
+            "colombia-noticias",
+            "miami",
+            "estados unidos"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/08/07/miami-rendira-por-tercera-vez-homenaje-a-alvaro-uribe-con-una-calle-en-su-honor-asi-sera-bautizada/",
+        "date": "2025-08-07 02:06:07",
+        "sentiment_score": 0.22656429558992386
+    },
+    {
+        "title": "Propulsado por gas natural licuado y con una pista de atletismo de 500 metros: así es el crucero AIDAcosma que hace escala en Palma",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3413251.jpg",
+        "tags": [
+            "barcos",
+            "audiencias-um",
+            "tendencias",
+            "navieras",
+            "cruceros",
+            "sostenibilidad",
+            "aida",
+            "última hora",
+            "ia-news",
+            "sociedad"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/08/07/2440965/propulsado-por-gas-natural-licuado-una-pista-atletismo-500-metros-asi-crucero-aidacosma-hace-escala-palma.html",
+        "date": "2025-08-07 02:00:01",
+        "sentiment_score": 0.64548185095191
+    },
+    {
+        "title": "La historia olvidada del antiguo tren de Alcúdia",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3423085.jpg",
+        "tags": [
+            "palma de mallorca",
+            "associació d'amics del ferrocarril de les illes balears",
+            "alcúdia",
+            "ultimas noticias",
+            "guerra civil en mallorca",
+            "pollentia",
+            "palma",
+            "local",
+            "tren",
+            "última hora",
+            "ferrocarril de mallorca",
+            "arqueología en mallorca",
+            "puerto",
+            "industria en mallorca"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/07/2444895/tren-alcudia.html",
+        "date": "2025-08-07 02:00:01",
+        "sentiment_score": 0.13163915276527405
+    },
+    {
+        "title": "León, por encima del medio millón de estancias",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/34/79/3/turismoleon.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/leon-por-encima-medio-millon-estancias_180209_102.html",
+        "date": "2025-08-07 02:00:00",
+        "sentiment_score": 0.2791898027062416
+    },
+    {
+        "title": "Quiso imitar al Dibu Martínez y lo sufrió de la peor manera: el gol de penal de Luis Suárez en Inter Miami y el festejo para su hija",
+        "image_url": "https://www.infobae.com/resizer/v2/EMMAXADUSREDXLBW5KN3HKJVF4.jpg?auth=19e7af90b3d72b74b6632290b50395d15119908bc3640c47ebbed2a085b4e62a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-internacional",
+            "leagues cup",
+            "deportes-argentina",
+            "luis suárez",
+            "pumas de méxico",
+            "inter miami"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/07/quiso-imitar-al-dibu-martinez-y-lo-sufrio-de-la-peor-manera-el-gol-de-penal-de-luis-suarez-en-inter-miami-y-el-festejo-para-su-hija/",
+        "date": "2025-08-07 01:57:23",
+        "sentiment_score": -0.8262102715671062
+    },
+    {
+        "title": "Accionistas del Sabadell aprueban la venta de TSB y suben la presión contra la opa",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/05/03/681649ce60ad8.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/250807/2056166/accionistas-sabadell-aprueban-venta-tsb-suben-presion-opa.html",
+        "date": "2025-08-07 01:25:00",
+        "sentiment_score": 0.4562855176627636
+    },
+    {
+        "title": "El contundente mensaje de Neymar a Carlo Ancelotti de cara a una posible convocatoria a la selección de Brasil",
+        "image_url": "https://www.infobae.com/resizer/v2/BK3HSJ7K4FAX3NX2IYLASE5BXU.JPG?auth=cbf3f77bca6455a05fe0c03172c22fafd06b481afdbb8e887c201a55038b81cf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-internacional",
+            "carlo ancelotti",
+            "deportes-argentina",
+            "neymar",
+            "santos",
+            "brasil",
+            "mundial 2026"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/07/el-contundente-mensaje-de-neymar-a-carlo-ancelotti-de-cara-a-una-posible-convocatoria-a-la-seleccion-de-brasil/",
+        "date": "2025-08-07 01:15:52",
+        "sentiment_score": 0.3004361540079117
+    },
+    {
+        "title": "Cafés para llorar, amigos a 15 € la hora y quedadas para gritar: la industria del consuelo grupal se viraliza desde Chicago",
+        "image_url": "https://s1.elespanol.com/2025/08/06/actualidad/1003743877900_257833425_1706x960.jpg?contentId=1003743877900",
+        "tags": [
+            "sociedad",
+            "estilo de vida",
+            "soledad"
+        ],
+        "link": "https://www.elespanol.com/mujer/estilo-vida/20250807/cafes-llorar-amigos-eur-hora-quedadas-gritar-industria-consuelo-grupal-viraliza-chicago/1003743875572_0.html",
+        "date": "2025-08-07 00:50:02",
+        "sentiment_score": -0.015371620655059814
+    },
+    {
+        "title": "Copa de Brasil: Savarino le pone sello vinotinto a la clasificación de Botafogo con este golazo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754533431673.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "jefferson savarino",
+            "botafogo"
+        ],
+        "link": "https://2001online.com/deportes/copa-de-brasil-savarino-le-pone-sello-vinotinto-a-la-clasificacion-de-botafogo-con-este-golazo-20258622120",
+        "date": "2025-08-07 02:12:00",
+        "sentiment_score": 0.05549442768096924
+    },
+    {
+        "title": "Hallan a joven degollada en caño de Boca de Uchire: era buscada por su familia en Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754530070873.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "\"aladdín y sus noches de arabia\" llegan al teatro santa fe",
+            "diario 2001",
+            "venezuela",
+            "anzoátegui",
+            "altos de lídice"
+        ],
+        "link": "https://2001online.com/sucesos/hallan-a-joven-degollada-en-cano-de-boca-de-uchire-era-buscada-por-su-familia-en-caracas-2025862240",
+        "date": "2025-08-07 02:04:00",
+        "sentiment_score": -0.762223407626152
+    },
+    {
+        "title": "Revelan nuevos estudios sobre el Ozempic: su uso podría reducir la fuerza muscular",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754533414738.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ozempic para bajar de peso",
+            "ozempic",
+            "analysis",
+            "estudios en ratones",
+            "nuevos estudios"
+        ],
+        "link": "https://2001online.com/curiosidades/revelan-nuevos-estudios-sobre-el-ozempic-su-uso-podria-reducir-la-fuerza-muscular-2025862240",
+        "date": "2025-08-07 02:04:00",
+        "sentiment_score": -0.08293032646179199
+    },
+    {
+        "title": "EEUU advierte a sus ciudadanos sobre brote de chikungunya en China: prenden esta alarma entre viajeros",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754527700069.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "estados unidos",
+            "china",
+            "chikungunya",
+            "salud pública"
+        ],
+        "link": "https://2001online.com/internacionales/eeuu-advierte-a-sus-ciudadanos-sobre-brote-de-chikungunya-en-china-prenden-esta-alarma-entre-viajeros-2025862220",
+        "date": "2025-08-07 02:02:00",
+        "sentiment_score": -0.28540046513080597
+    },
+    {
+        "title": "Invertirán más de un millón de dólares para modernizar importante centro comercial de Caracas: será más seguro y cómodo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754526081898.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "sabana grande",
+            "centro comercial el recreo",
+            "grupo nsm",
+            "caracas"
+        ],
+        "link": "https://2001online.com/nacionales/invertiran-mas-de-un-millon-de-dolares-para-modernizar-importante-centro-comercial-de-caracas-sera-mas-seguro-y-comodo-2025862200",
+        "date": "2025-08-07 02:00:00",
+        "sentiment_score": 0.5974146611988544
+    },
+    {
+        "title": "¡Atención, cincuentones! Esta es la rutina de ejercicios perfecta para evitar la osteoporosis: también previene la pérdida de masa muscular",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754419720496.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/atencion-cincuentones-esta-es-la-rutina-de-ejercicios-perfecta-para-evitar-la-osteoporosis-tambien-previene-la-perdida-de-masa-muscular-2025862200",
+        "date": "2025-08-07 02:00:00",
+        "sentiment_score": 0.8354069022461772
+    },
+    {
+        "title": "Taller de fotografía para niños en la Galería de Arte Nacional: aprenderán cómo componer una imagen y más",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754514904780.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "fotografía para niños",
+            "galería de arte nacional",
+            "taller de fotografía en caracas"
+        ],
+        "link": "https://2001online.com/comunidad/taller-de-fotografia-para-ninos-en-la-galeria-de-arte-nacional-aprenderan-como-componer-una-imagen-y-mas-2025862200",
+        "date": "2025-08-07 02:00:00",
+        "sentiment_score": 0.6258662212640047
+    },
+    {
+        "title": "Redadas ICE del 6 de agosto: arrestan a 42 inmigrantes en Houston vinculados a esta organización criminal",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754531977638.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "redadas",
+            "houston",
+            "ice"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-ice-del-6-de-agosto-arrestan-a-42-inmigrantes-en-houston-vinculados-a-esta-organizacion-criminal-20258621590",
+        "date": "2025-08-07 01:59:00",
+        "sentiment_score": -0.3321363292634487
+    },
+    {
+        "title": "“The Walking Dead” pierde a una de sus actrices más jóvenes: el cáncer le arrebató los sueños",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754531741754.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "batalla contra el cáncer",
+            "luto en hollywood"
+        ],
+        "link": "https://2001online.com/farandula/the-walking-dead-pierde-a-una-de-sus-actrices-mas-jovenes-el-cancer-le-arrebato-los-suenos-20258621530",
+        "date": "2025-08-07 01:53:00",
+        "sentiment_score": -0.5507038608193398
+    },
+    {
+        "title": "¡Casa nueva! Karlis Romero muestra la sorprendente remodelación de su hogar",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754533961475.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "karis romero",
+            "gustavo elis"
+        ],
+        "link": "https://2001online.com/farandula/casa-nueva-karlis-romero-muestra-la-sorprendente-remodelacion-de-su-hogar-20258621420",
+        "date": "2025-08-07 01:42:00",
+        "sentiment_score": 0.8718397011980414
     }
 ];
