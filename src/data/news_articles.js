@@ -186,48 +186,6 @@ export default [
         "sentiment_score": -0.09494394063949585
     },
     {
-        "title": "Destrucción en Gaza: el 92% de las viviendas han sido arrasadas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/04/gaza-R1ogpl3DkkoB4walwsw12EL-1200x840@diario_abc.jpg",
-        "tags": [
-            "destruccion",
-            "arrasadas",
-            "viviendas",
-            "gaza"
-        ],
-        "link": "https://www.abc.es/internacional/destruccion-gaza-viviendas-arrasadas-20250804121941-nt.html",
-        "date": "2025-08-04 11:32:54",
-        "sentiment_score": -0.34150902926921844
-    },
-    {
-        "title": "Exjefes de seguridad de Israel piden a Trump que colabore para terminar la guerra en Gaza",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/04/gazadestruccion-kpjD-U701376459622e7D-1200x840@diario_abc.jpg",
-        "tags": [
-            "colabore",
-            "exjefes",
-            "terminar",
-            "gaza",
-            "trump",
-            "piden",
-            "seguridad",
-            "guerra",
-            "israel"
-        ],
-        "link": "https://www.abc.es/internacional/exjefes-seguridad-israel-piden-trump-colabore-terminar-20250804133141-nt.html",
-        "date": "2025-08-04 11:32:07",
-        "sentiment_score": -0.031422555446624756
-    },
-    {
-        "title": "Si tienes menos de 1.000 seguidores no puedes continuar haciendo directos en Instagram",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/08/04/instagram-RFRgzAZfYdfKsI3pdYGZXIO-1200x840@diario_abc.jpg",
-        "tags": [
-            "redes sociales",
-            "instagram"
-        ],
-        "link": "https://www.abc.es/tecnologia/1000-seguidores-puedes-continuar-haciendo-directos-instagram-20250804125247-nt.html",
-        "date": "2025-08-04 10:52:48",
-        "sentiment_score": -0.06173180043697357
-    },
-    {
         "title": "La segunda ola de calor del verano en España, en imágenes",
         "image_url": "https://imagenes.elpais.com/resizer/v2/WQHTHWWGC5CULF7S3QMNBFXFP4.jpg?auth=43bd69d1550b5a01e8b37618415364f5507a723d9b0db09d8999eb5b2b8c8c56&width=1200",
         "tags": [
@@ -276,129 +234,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-08-04/varios-altos-cargos-del-gobierno-de-mazon-se-aprestan-a-certificar-sus-estudios-tras-los-escandalos-de-las-titulaciones.html",
         "date": "2025-08-04 14:53:10",
         "sentiment_score": -0.6477367822080851
-    },
-    {
-        "title": "Barcelona activa un plan contra la degradación Sant Antoni: retirada de los bancos que puso Colau y más policía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5B7P3HTJ2ZBOHHQUV2A2AAHSCY.jpg?auth=c67fd36bcfede85be69d4daa22c221e0b09a03a91004ae027df70505bb06208a&width=1200",
-        "tags": [
-            "barcelona",
-            "urbanismo",
-            "cataluña",
-            "ayuntamiento barcelona",
-            "ada colau",
-            "jordi valls",
-            "jaume collboni",
-            "mercado abastos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-04/barcelona-activa-un-plan-contra-la-degradacion-sant-antoni-retirada-de-los-bancos-que-puso-colau-y-mas-policia.html",
-        "date": "2025-08-04 14:09:44",
-        "sentiment_score": -0.8204618319869041
-    },
-    {
-        "title": "Un caballo le amputa un dedo de un mordisco a una turista en Menorca",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QQJEH2IJOVK7FPBX4M3D56UASQ.jpg?auth=aff2207951b5a34fe81546d1d3dbb2f24a1633b1e312fa1d7adee74097b82036&width=1200",
-        "tags": [
-            "baleares",
-            "amputaciones",
-            "hospitales",
-            "fiestas locales",
-            "caballos",
-            "menorca",
-            "sucesos",
-            "turismo",
-            "españa",
-            "animales"
-        ],
-        "link": "https://elpais.com/espana/2025-08-04/un-caballo-le-amputa-un-dedo-de-un-mordisco-a-una-turista-en-menorca.html",
-        "date": "2025-08-04 13:38:53",
-        "sentiment_score": -0.7481009997427464
-    },
-    {
-        "title": "Detienen al hijo de una mujer asesinada en Alicante en 2022 que fingió un robo para no contar la verdad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WYRAUX5TG5JZHLR35CKGQZMATQ.jpg?auth=239dd219f040d6b03fb7153f10f6b5e09d7aa0e50ebfc74492c0fa4d80f7cd69&width=1200",
-        "tags": [
-            "guardamar del segura",
-            "homicidios",
-            "provincia alicante",
-            "asesinatos",
-            "guardia civil",
-            "sucesos",
-            "españa",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/2025-08-04/detienen-al-hijo-de-una-mujer-asesinada-en-alicante-en-2022-que-fingio-un-robo-para-no-contar-la-verdad.html",
-        "date": "2025-08-04 12:50:12",
-        "sentiment_score": -0.6689214501529932
-    },
-    {
-        "title": "La historia mortal de un hombre maltratado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3DGWBY4HSFFXLPLK6IKAMN3HAU.jpg?auth=5621fb8f678601759736b69f1975316f96a968e5966c229e17c45a5763a4241b&width=1200",
-        "tags": [
-            "herencias",
-            "proceso judicial",
-            "murcia",
-            "molina de segura",
-            "familia",
-            "homicidios",
-            "investigación policial",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-04/historia-mortal-de-un-hombre-maltratado.html",
-        "date": "2025-08-04 11:14:53",
-        "sentiment_score": -0.8151341080665588
-    },
-    {
-        "title": "Ana Millán, la polémica colabora de Ayuso con un currículum engordado en campaña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RZGGC7S4JHZUPB5XDXBJYLTMJ4.jpg?auth=24dcf20d31495688feb40ff30204e3a900ae1067c5ac8c416c5f74b1989bd59b&width=1200",
-        "tags": [
-            "asamblea madrid",
-            "arroyomolinos",
-            "noelia núñez",
-            "isabel díaz ayuso",
-            "ana millán",
-            "madrid",
-            "pp",
-            "2007-2011",
-            "curriculum",
-            "comunidad de madrid",
-            "2003-2007"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-08-04/ana-millan-la-polemica-colabora-de-ayuso-con-un-curriculum-engordado-en-campana.html",
-        "date": "2025-08-04 11:00:18",
-        "sentiment_score": 0.05190740525722504
-    },
-    {
-        "title": "La CUP denuncia 323 pisos turísticos sin licencia en Cataluña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SVRYYU7OHBGFTJF4W5XPHXQ23E.jpg?auth=5be5ed644837838ef86087cacf74866f523e5c083c94f76d1b0cb5df56e883bb&width=1200",
-        "tags": [
-            "airbnb",
-            "viviendas alquiler temporada",
-            "cup",
-            "barcelona",
-            "cataluña",
-            "vivienda",
-            "turismo"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-04/la-cup-denuncia-323-pisos-turisticos-sin-licencia-en-cataluna.html",
-        "date": "2025-08-04 10:57:12",
-        "sentiment_score": -0.6098650135099888
-    },
-    {
-        "title": "Detenida una pareja tras detectar el hospital La Fe de Valencia cocaína y hachís en su hijo de tres años",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RIPJQ25AOBBL5NL5AJAX3J7C2A.JPG?auth=a8b83b0b7d70b78709248d039d47d732f3c3d6efb9cd8e5bffc49b4e68621dc3&width=1200",
-        "tags": [
-            "maltrato infantil",
-            "drogas",
-            "comunidad valenciana",
-            "valencia",
-            "hachís",
-            "cocaína",
-            "policía nacional",
-            "hospital la fe"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-08-04/detenida-una-pareja-tras-detectar-el-hospital-la-fe-de-valencia-cocaina-y-hachis-en-su-hijo-de-tres-anos.html",
-        "date": "2025-08-04 10:55:15",
-        "sentiment_score": -0.47588201239705086
     },
     {
         "title": "El Real Madrid arranca una pretemporada exprés de 15 días sin Bellingham ni Mastantuono",
@@ -8310,5 +8145,516 @@ export default [
         "link": "https://2001online.com/usa/internacionales/el-ice-tambien-regresa-a-clases-con-todo-y-redadas-ninos-van-o-no-van-a-sus-escuelas--2025871750",
         "date": "2025-08-07 21:05:00",
         "sentiment_score": -0.8255682038143277
+    },
+    {
+        "title": "Pronóstico del clima en Málaga para antes de salir de casa este 8 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/A4CTAZD3GFDMJNQ4NSZYVNJDMI.jpg?auth=14611cb258083455447aff3018211c7b74524d67abb1c532ffdc44e73902891c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "noticias",
+            "málaga",
+            "españa sociedad",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/08/pronostico-del-clima-en-malaga-para-antes-de-salir-de-casa-este-8-de-agosto/",
+        "date": "2025-08-08 02:16:08",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima en Madrid: temperatura y probabilidad de lluvia para hoy 8 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/D262HUJM25AEDEK35FZPGPB5TI.png?auth=0a4e14a545effeca71cacc43abab414b7dd5f1c22986f45981bf4ca612961bfd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa noticias",
+            "tiempo en españa",
+            "españa sociedad",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/08/clima-en-madrid-temperatura-y-probabilidad-de-lluvia-para-este-8-de-agosto/",
+        "date": "2025-08-08 01:43:18",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Cuál fue el último intento de España para reconquistar México y qué papel jugó Santa Anna",
+        "image_url": "https://www.infobae.com/resizer/v2/KOZJHV5J2VGM7CUK3F3METQI74.jpg?auth=a5e97890dd059ed6243aec6b406d9ec933cbf80b616d061fca0fb95dd9b636ab&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "antonio lópez de santa anna",
+            "vicente guerrero",
+            "historia de méxico",
+            "reconquista",
+            "manuel mier y terán",
+            "invasión extranjera",
+            "méxico",
+            "independencia de méxico",
+            "españa",
+            "mexico-noticias"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/08/08/cual-fue-el-ultimo-intento-de-espana-para-reconquistar-mexico-y-que-papel-jugo-santa-anna/",
+        "date": "2025-08-08 01:40:00",
+        "sentiment_score": -0.8487489130347967
+    },
+    {
+        "title": "Dos heridos en el incendio de una granja de gallinas en Motilla del Palancar (Cuenca)",
+        "image_url": "https://www.infobae.com/resizer/v2/P4VUV4PMNVB5XBZI7ZHUAQRNDE.jpg?auth=07257eac9b5f68dfa8a54ba0f2eb954ebbba1cc5613e058816ff27358c5bed6a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "sucesos españa",
+            "incendio",
+            "heridos",
+            "sucesos",
+            "españa-nacional",
+            "cuenca"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/08/dos-heridos-en-el-incendio-de-una-granja-de-gallinas-en-motilla-del-palancar-cuenca/",
+        "date": "2025-08-08 01:26:26",
+        "sentiment_score": -0.5994071755558252
+    },
+    {
+        "title": "Clima en España: el estado del tiempo para Barcelona este 8 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/EPCHMK2O2BGBBN7EYVIM2F25QI.jpg?auth=cd491c939654ad6ad783b4d2cd601e79a755e70d80bedec7ea9950156cd2c6bf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "tiempo en españa",
+            "barcelona",
+            "españa sociedad",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/08/clima-en-espana-el-estado-del-tiempo-para-barcelona-este-8-de-agosto/",
+        "date": "2025-08-08 01:16:53",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Milei se lanza de lleno a la campaña por las legislativas con un lema provocador: «Kirchnerismo Nunca Más»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/07/javier-milei-kg2F-U701390191793CjC-1200x840@diario_abc.jpg",
+        "tags": [
+            "buenos aires",
+            "elecciones",
+            "uh abc",
+            "javier milei",
+            "parlamento",
+            "argentina"
+        ],
+        "link": "https://www.abc.es/internacional/milei-lanza-lleno-campana-legislativas-lema-provocador-20250807225019-nt.html",
+        "date": "2025-08-08 02:18:40",
+        "sentiment_score": -0.08659505844116211
+    },
+    {
+        "title": "BBVA revisa las sinergias de la opa sobre el Sabadell e insiste en que puede retirar la oferta",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/08/07/torres-bbva-RAqU67itv1n5I1kvBSHr1iL-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/bbva-revisa-sinergias-opa-sobre-sabadell-insiste-20250807185351-nt.html",
+        "date": "2025-08-08 02:18:15",
+        "sentiment_score": -0.08351147174835205
+    },
+    {
+        "title": "El Banco Mundial ratifica una condena a España de 97 millones por los recortes a las renovables",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/08/08/eolico-parque-RfCzVTDb7GuWxl3pSehT83O-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/banco-mundial-ratifica-condena-espana-millones-recortes-20250808041754-nt.html",
+        "date": "2025-08-08 02:17:55",
+        "sentiment_score": -0.08141446113586426
+    },
+    {
+        "title": "El régimen cubano acumula 18.000 millones de dólares con el país en la miseria",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/07/castro-RmiWMGyuS3LWgGZJDHz6phP-1200x840@diario_abc.jpg",
+        "tags": [
+            "raúl castro",
+            "cuba",
+            "miguel díaz-canel",
+            "fuerzas armadas",
+            "economia"
+        ],
+        "link": "https://www.abc.es/internacional/regimen-cubano-acumula-18000-millones-dolares-pais-20250807173714-nt.html",
+        "date": "2025-08-08 02:15:48",
+        "sentiment_score": -0.1942652463912964
+    },
+    {
+        "title": "Europa diseña un nuevo banco internacional para financiar el rearme",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/08/06/von-der-leyen-afp-R687GoN3t7XMREsYfbqtDoK-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/europa-disena-nuevo-banco-internacional-financiar-rearme-20250806174407-nt.html",
+        "date": "2025-08-08 02:07:42",
+        "sentiment_score": -0.03141096234321594
+    },
+    {
+        "title": "Pocas esperanzas en Ucrania en la cumbre entre Trump y Putin",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/07/putin-trump-RsK8387w2UmYxeP7yx3c5AJ-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/pocas-esperanzas-ucrania-cumbre-trump-putin-20250807204652-nt.html",
+        "date": "2025-08-08 02:07:16",
+        "sentiment_score": -0.08465373516082764
+    },
+    {
+        "title": "Varias manifestaciones simultáneas protestan en Israel contra el plan de Netanyahu",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/07/tel-aviv-reuters-3-k80C-U701390268291BXF-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/varias-manifestaciones-simultaneas-protestan-israel-plan-netanyahu-20250807232324-nt.html",
+        "date": "2025-08-08 02:06:15",
+        "sentiment_score": -0.10879307985305786
+    },
+    {
+        "title": "Cuatro firmas rescatadas por la SEPI con 203 millones están al borde de la quiebra",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/08/08/1489787471-RGZJiRcI11EzMI7HJFUst7K-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/cuatro-firmas-rescatadas-sepi-203-millones-borde-20250808200013-nt.html",
+        "date": "2025-08-08 01:59:39",
+        "sentiment_score": -0.0531945526599884
+    },
+    {
+        "title": "Usos políticos del lenguaje",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/08/08/250808TerceraForner-REMckrZT174XcrbdBs1kELM-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/salvador-forner-munoz-usos-politicos-lenguaje-20250808130108-nt.html",
+        "date": "2025-08-07 23:04:22",
+        "sentiment_score": -0.1763026863336563
+    },
+    {
+        "title": "Libertad de culto y libertad de expresión",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/08/08/1499525778-U16788505134Jiw-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-libertad-culto-libertad-expresion-20250808201310-nt.html",
+        "date": "2025-08-07 22:58:09",
+        "sentiment_score": -0.42042818665504456
+    },
+    {
+        "title": "Los últimos favoritos entran en juego en La Llorea: Alejandro Álvarez y Juan Pastor fueron los mejores de la jornada del jueves",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/169260d8-7a9a-4f53-ab80-cbacc26ee94d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "premios",
+            "la nueva españa",
+            "unicaja",
+            "golf"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2025/08/08/ultimos-favoritos-entran-juego-llorea-120445325.html",
+        "date": "2025-08-08 02:00:45",
+        "sentiment_score": 0.890753049403429
+    },
+    {
+        "title": "Kylian Mbappé apoya a los más necesitados del Perú: impulsa la construcción de un colegio y la remodelación de una cancha de fútbol",
+        "image_url": "https://www.infobae.com/resizer/v2/PRUCLP7FYZAFDDDD2IYB3UHTWY.jpg?auth=2babbb618fabe14c57ab720938c04c80ff470e4ac34140811c5254d05b3f073d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "peru-deportes",
+            "perú",
+            "kylian mbappé",
+            "fundación inspired by km",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/08/08/kylian-mbappe-apoya-a-los-mas-necesitados-del-peru-impulsa-la-construccion-de-un-colegio-y-la-remodelacion-de-una-cancha-de-futbol/",
+        "date": "2025-08-08 01:45:50",
+        "sentiment_score": 0.6912152320146561
+    },
+    {
+        "title": "Lamine Yamal sorprendió en Barcelona con un look excéntrico: la comparación de Ronald Araújo que causó furor en las redes",
+        "image_url": "https://www.infobae.com/resizer/v2/ZFT2KVQTIC2NKTM4AIM4Z3OWZY.jpg?auth=7228ca7608991dfa0b3360c7bf0d55ee9abfc7e7bb36d3b7fd04c190639c5e34&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "ronald araújo",
+            "lamine yamal",
+            "la liga",
+            "fc barcelona",
+            "deportes-argentina",
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/08/lamine-yamal-sorprendio-en-barcelona-con-un-look-excentrico-la-comparacion-de-ronald-araujo-que-causo-furor-en-las-redes/",
+        "date": "2025-08-08 01:28:41",
+        "sentiment_score": 0.44423526525497437
+    },
+    {
+        "title": "La ex periodista enfadada",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "periodista",
+            "enfadada",
+            "ex"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/ex-periodista-enfadada_0_2004538199.html",
+        "date": "2025-08-08 01:11:34",
+        "sentiment_score": -0.16273872554302216
+    },
+    {
+        "title": "El nuevo 'hormigón blando' que evita accidentes de avión al aterrizar: \"Parece sólido, pero se desmorona con el impacto\"",
+        "image_url": "https://s1.elespanol.com/2025/08/06/omicrono/tecnologia/1003743876826_257813065_1706x960.jpg?contentId=1003743876826",
+        "tags": [
+            "tecnología",
+            "aviones",
+            "transporte aéreo",
+            "aeropuertos",
+            "construcción"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20250808/nuevo-hormigon-blando-evita-accidentes-avion-aterrizar-parece-solido-desmorona-impacto/1003743876075_0.html",
+        "date": "2025-08-08 00:13:35",
+        "sentiment_score": 0.5356058515608311
+    },
+    {
+        "title": "Cerdán tenía correo propio en Noran con el alias de 'El Pequeño': Antxon le informaba de sus negocios comunes",
+        "image_url": "https://s1.elespanol.com/2025/08/07/actualidad/1003743879313_257859494_1706x1280.jpg?contentId=1003743879313",
+        "tags": [
+            "santos cerdán",
+            "josé luis ábalos",
+            "españa",
+            "psoe (partido socialista obrero español)",
+            "koldo garcía izaguirre",
+            "periodismo de investigación",
+            "corrupción"
+        ],
+        "link": "https://www.elespanol.com/espana/20250808/cerdan-correo-propio-noran-alias-pequeno-antxon-informaba-negocios-comunes/1003743875331_0.html",
+        "date": "2025-08-08 00:13:33",
+        "sentiment_score": -0.3120960593223572
+    },
+    {
+        "title": "España ante el reto de la economía intangible",
+        "image_url": "https://s1.elespanol.com/2025/08/07/actualidad/1003743878563_257845688_1706x960.jpg?contentId=1003743878563",
+        "tags": [
+            "tribunas de opinión",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20250807/espana-reto-economia-intangible/1003743878070_12.html",
+        "date": "2025-08-07 23:51:22",
+        "sentiment_score": 0.07032299041748047
+    },
+    {
+        "title": "Coimbra acogerá la bienal nómada Manifesta 2028",
+        "image_url": "https://static.euronews.com/articles/stories/09/40/49/47/1200x675_cmsv2_00bd69ff-abe1-51f5-97f2-7ae4d2c5b5e5-9404947.jpg",
+        "tags": [
+            "portugal",
+            "coimbra",
+            "arte contemporáneo",
+            "cultura"
+        ],
+        "link": "https://es.euronews.com/cultura/2025/08/08/coimbra-acogera-la-bienal-nomada-manifesta-en-2028",
+        "date": "2025-08-08 02:00:05",
+        "sentiment_score": 0.5766371190547943
+    },
+    {
+        "title": "«Llegamos tarde para salvar el cartel de Eléctrica Española»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3424993.jpg",
+        "tags": [
+            "palma de mallorca",
+            "ultimas noticias",
+            "noticias palma hoy",
+            "palma",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/08/08/2445767/rotuilla-llegamos-tarde-para-cartel-electrica-espanola.html",
+        "date": "2025-08-08 02:00:01",
+        "sentiment_score": -0.45515723526477814
+    },
+    {
+        "title": "Qué significa que vistas igual que tu pareja, según la psicología",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3423323.jpg",
+        "tags": [
+            "relaciones de pareja",
+            "consejos útiles",
+            "audiencias-um",
+            "noticias interesantes",
+            "dudas y respuestas",
+            "trucos para ahorrar",
+            "psicología",
+            "curiosidades y trucos",
+            "aprender y más",
+            "ia-news",
+            "moda"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/08/08/2445037/significa-vistas-igual-pareja-segun-psicologia.html",
+        "date": "2025-08-08 02:00:01",
+        "sentiment_score": 0.14860474318265915
+    },
+    {
+        "title": "Gaudí & Lázaro de Diego. Cita con los arquitectos leoneses (2a parte)",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/35/95/7/diputacion-de-leon-antes-de-1892-figura-el-jardinillo-publico-donde-se-ubicara-la-casa-botines.jpeg",
+        "tags": [
+            "lnc culturas"
+        ],
+        "link": "https://www.lanuevacronica.com/lnc-culturas/gaudi-lazaro-diego-cita-con-arquitectos-leoneses-2a-parte_180273_102.html",
+        "date": "2025-08-08 01:55:00",
+        "sentiment_score": -0.09664779901504517
+    },
+    {
+        "title": "Illa cumple un año en la Generalitat con la financiación y la amnistía como grandes retos",
+        "image_url": "https://static.laregion.es/clip/80082854-6a3c-45a7-801a-e0ee3cc6fbd6_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cataluña",
+            "generalitat de cataluña"
+        ],
+        "link": "https://www.laregion.es/espana/illa-cumple-ano-generalitat-financiacion_1_20250808-3944934.html",
+        "date": "2025-08-08 01:50:42",
+        "sentiment_score": -0.039269573986530304
+    },
+    {
+        "title": "Sugey Herrera se juramentó para su segundo periodo como alcaldesa de Barcelona",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "política",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/sugey-herrera-se-juramento-para-su-segundo-periodo-como-alcaldesa-de-barcelona/",
+        "date": "2025-08-08 01:48:32",
+        "sentiment_score": 0.2055816985666752
+    },
+    {
+        "title": "Ritmo cerebral: cómo la música electrónica impacta en la mente y la conciencia",
+        "image_url": "https://www.infobae.com/resizer/v2/DIKUWEFOU5ERTMU226Z3UE4SSE.jpg?auth=fdfb092c4ceb32a06df042436eb97de9e78497cb98fd10a66939eeee45064f7c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "sincronización cerebral",
+            "música electrónica",
+            "newsroom bue",
+            "estados alterados de conciencia",
+            "arrastre neuronal",
+            "universidad de barcelona"
+        ],
+        "link": "https://www.infobae.com/america/ciencia-america/2025/08/08/ritmo-cerebral-como-la-musica-electronica-impacta-en-la-mente-y-la-conciencia/",
+        "date": "2025-08-08 01:13:36",
+        "sentiment_score": 0.09872441366314888
+    },
+    {
+        "title": "Las mafias turcas fingen llegar a la Comunitat Valenciana con fotos falsas tras el asesinato en Torrevieja: \"¿Vamos de caza?\"",
+        "image_url": "https://s1.elespanol.com/2025/08/07/actualidad/1003743879224_257858157_1706x960.jpg?contentId=1003743879224",
+        "tags": [
+            "castellón (provincia)",
+            "turquía",
+            "valencia",
+            "alicante",
+            "mafias",
+            "comunidad valenciana",
+            "alicante (provincia)"
+        ],
+        "link": "https://www.elespanol.com/alicante/20250808/mafias-turcas-fingen-llegar-comunitat-valenciana-fotos-falsas-asesinato-torrevieja-vamos-caza/1003743879160_0.html",
+        "date": "2025-08-08 00:13:59",
+        "sentiment_score": -0.8761049238964915
+    },
+    {
+        "title": "Google ofrece capacitación gratuita en IA a estudiantes universitarios de cinco países: deberán ser mayores de 18 años",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754617750608.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "google",
+            "eeuu",
+            "google ia",
+            "estudiantes universitarios",
+            "universidades",
+            "géminis",
+            "usa",
+            "ia actualidad",
+            "ia"
+        ],
+        "link": "https://2001online.com/internacionales/google-ofrece-capacitacion-gratuita-en-ia-a-estudiantes-universitarios-de-cinco-paises-deberan-ser-mayores-de-18-anos-20258722150",
+        "date": "2025-08-08 02:15:00",
+        "sentiment_score": 0.735355431213975
+    },
+    {
+        "title": "¿Hay que preocuparse en serio por las manchas marrones de los plátanos o bananas? La verdad sobre esa peculiar pigmentación en esta popular fruta",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754618761968.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/hay-que-preocuparse-en-serio-por-las-manchas-marrones-de-los-platanos-o-bananas-la-verdad-sobre-esa-peculiar-pigmentacion-en-esta-popular-fruta-20258722100",
+        "date": "2025-08-08 02:10:00",
+        "sentiment_score": 0.8700390998274088
+    },
+    {
+        "title": "Estrellas virales: estos son los deportistas venezolanos que dominan TikTok",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754619757860.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "salomón rondón",
+            "ronald acuña jr.",
+            "tiktok venezuela",
+            "tiktok",
+            "venezolanos tiktok",
+            "yulimar rojas",
+            "viral"
+        ],
+        "link": "https://2001online.com/deportes/estrellas-virales-estos-son-los-deportistas-venezolanos-que-dominan-tiktok-2025872300",
+        "date": "2025-08-08 02:03:53",
+        "sentiment_score": 0.3352247104048729
+    },
+    {
+        "title": "Molotov vuelve a Venezuela: la fiesta del rock y el logo tiene cita en Caracas este 16 de agosto",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754619451105.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "conciertos 2025",
+            "molotov"
+        ],
+        "link": "https://2001online.com/farandula/molotov-vuelve-a-venezuela-la-fiesta-del-rock-y-el-logo-tiene-cita-en-caracas-este-16-de-agosto-2025872230",
+        "date": "2025-08-08 02:03:00",
+        "sentiment_score": 0.39665086567401886
+    },
+    {
+        "title": "Estos son los alimentos que te envejecen mucho más rápido: aquí puedes encontrar los ingredientes para tu juventud prolongada",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754509148986.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/estos-son-los-alimentos-que-te-envejecen-mucho-mas-rapido-aqui-puedes-encontrar-los-ingredientes-para-tu-juventud-prolongada-2025872200",
+        "date": "2025-08-08 02:00:00",
+        "sentiment_score": 0.594335924834013
+    },
+    {
+        "title": "¡Muertes, abusos y maltratos! Las condiciones \"horribles\" de niños inmigrantes en centros de detención del ICE",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754618364008.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ice",
+            "centros de detención",
+            "maltratos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/muertes-abusos-y-maltratos-las-condiciones-horribles-de-ninos-inmigrantes-en-centros-de-detencion-del-ice-20258721590",
+        "date": "2025-08-08 01:59:00",
+        "sentiment_score": -0.7159549407660961
+    },
+    {
+        "title": "Chiky Bombom confiesa el maltrato que recibe como conductora de televisión: Me criticaron por ser inmigrante",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754618432430.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "podcast",
+            "chiky bombom"
+        ],
+        "link": "https://2001online.com/farandula/chiky-bombom-confiesa-el-maltrato-que-recibe-como-conductora-de-television-me-criticaron-por-ser-inmigrante--20258721580",
+        "date": "2025-08-08 01:58:00",
+        "sentiment_score": -0.7096045464277267
+    },
+    {
+        "title": "¡Ternura! Justin Bieber sorprende al revelar a su hijo en el videoclip “Yukon”",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754617655062.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "yukpa",
+            "justin bieber"
+        ],
+        "link": "https://2001online.com/farandula/ternura-justin-bieber-sorprende-al-revelar-a-su-hijo-en-el-videoclip-yukon--20258721450",
+        "date": "2025-08-08 01:45:00",
+        "sentiment_score": 0.2132003977894783
+    },
+    {
+        "title": "Inameh advierte que temporada de huracanes 2025 será más activa de lo normal: hasta 18 tormentas tropicales",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754616722958.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/inameh-advierte-que-temporada-de-huracanes-2025-sera-mas-activa-de-lo-normal-hasta-18-tormentas-tropicales-20258721220",
+        "date": "2025-08-08 01:22:00",
+        "sentiment_score": 0.1559058353304863
+    },
+    {
+        "title": "Corpoelec anuncia jornadas integrales este 8 y 9 de agosto: ubicaciones y trámites",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754577475897.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "corpoelec",
+            "jornadas integrales"
+        ],
+        "link": "https://2001online.com/servicios/corpoelec-anuncia-jornadas-integrales-este-8-y-9-de-agosto-ubicaciones-y-tramites-20258721100",
+        "date": "2025-08-08 01:10:00",
+        "sentiment_score": 0.3824696969240904
     }
 ];
