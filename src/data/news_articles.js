@@ -193,49 +193,6 @@ export default [
         "sentiment_score": -0.14783410727977753
     },
     {
-        "title": "Detenido un sospechoso como presunto autor del cuerpo degollado y destripado en Francia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/05/police-kFhC-U701380244014tj-758x531@diario_abc.PNG",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/detenido-sospechoso-presunto-autor-cuerpo-degollado-destripado-20250805154627-nt.html",
-        "date": "2025-08-05 13:58:52",
-        "sentiment_score": -0.2185516506433487
-    },
-    {
-        "title": "Ryanair asegura que no espera «ningún impacto» por la huelga en el 'handling' convocada en el puente de agosto",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/08/05/1491163018-RebUqGlvBCpYoYKIWJSDBpM-1200x840@diario_abc.jpg",
-        "tags": [
-            "ryanair",
-            "cgt",
-            "sindicatos",
-            "españa"
-        ],
-        "link": "https://www.abc.es/economia/ryanair-asegura-espera-ningun-impacto-huelga-handling-20250805125422-nt.html",
-        "date": "2025-08-05 11:18:34",
-        "sentiment_score": -0.10268521308898926
-    },
-    {
-        "title": "El vídeo que Israel creó con IA en el que imaginaba una Gaza futurista sin palestinos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/05/GAZAIA-RYqYJQlVunm5QU0aRWaphbN-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/israel-recrea-video-inteligencia-artificial-gaza-futurista-20250805122303-nt.html",
-        "date": "2025-08-05 10:42:37",
-        "sentiment_score": -0.05963560938835144
-    },
-    {
-        "title": "Enerfip alcanza los 70 millones de euros recaudados y los 22 proyectos financiados en España",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/08/05/Enerfip-Espana-RivWfAbScrtN9rkLU3TiYWN-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/enerfip-alcanza-millones-euros-recaudados-proyectos-financiados-20250805123411-nt.html",
-        "date": "2025-08-05 10:34:12",
-        "sentiment_score": 0.05562824010848999
-    },
-    {
         "title": "El Gobierno ofrece a la Xunta el despliegue de la UME para sofocar un incendio que supera las 20 hectáreas",
         "image_url": "https://imagenes.elpais.com/resizer/v2/PE6BOIZLGVF3PJ4CVZ2WJY2IQE.jpg?auth=b184c924cd8b68df8871274b8a128e389d7ef4b336d3d575be2e938cf62ce8d6&width=1200",
         "tags": [
@@ -387,22 +344,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-08-05/los-monstruos-labubu-se-aduenan-del-centro-de-barcelona-hemos-gastado-700-euros-pero-creo-que-es-una-inversion.html",
         "date": "2025-08-05 15:06:49",
         "sentiment_score": -0.11147969961166382
-    },
-    {
-        "title": "España encabeza el crecimiento del sector privado europeo al inicio del tercer trimestre",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7F4KM3HAQFEBHG4BPILNWRULVU.jpg?auth=c4902bf5b596ad18bd82fb6af889b58cf97ed3acbbb87aa36d52265000e7cb78&width=1200",
-        "tags": [
-            "índice pmi",
-            "sector privado",
-            "industria",
-            "sector servicios",
-            "empresas",
-            "guerra comercial",
-            "economía"
-        ],
-        "link": "https://elpais.com/economia/2025-08-05/espana-encabeza-el-crecimiento-del-sector-privado-europeo-al-inicio-del-tercer-trimestre.html",
-        "date": "2025-08-05 12:37:17",
-        "sentiment_score": 0.3180420622229576
     },
     {
         "title": "El Comité de Segunda Instancia desestima el último recurso del Real Madrid para aplazar su partido ante Osasuna",
@@ -8648,5 +8589,559 @@ export default [
         "link": "https://2001online.com/deportes/albert-ramirez-noqueo-a-jerome-pampellone-en-el-septimo-round-2025881780",
         "date": "2025-08-08 21:08:00",
         "sentiment_score": 0.2524981200695038
+    },
+    {
+        "title": "The Strongest es multado y jugará seis partidos sin público por mala conducta de hinchas",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3427",
+        "tags": [
+            "blooming",
+            "sanción deportiva",
+            "gloriosa ultra sur 34",
+            "daniel terrazas",
+            "the strongest",
+            "always ready",
+            "federación boliviana de fútbol",
+            "josé gudiño",
+            "la paz",
+            "divisón profesional",
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/09/the-strongest-es-multado-y-jugara-seis-partidos-sin-publico-por-mala-conducta-de-hinchas/",
+        "date": "2025-08-09 02:15:16",
+        "sentiment_score": -0.8509203288704157
+    },
+    {
+        "title": "Pronóstico del tiempo en Málaga para este 9 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/MLF732S2QRFAZPVV3UYAGHVFX4.jpg?auth=e324eaf2380074aecb5a4fae8aad77a416949bed391eabc88700301daee388db&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "noticias",
+            "málaga",
+            "españa sociedad",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/09/pronostico-del-tiempo-en-malaga-para-este-9-de-agosto/",
+        "date": "2025-08-09 02:02:08",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Milei critica al Congreso y se niega a convalidar leyes de aumento de gasto público",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3427",
+        "tags": [
+            "peronismo",
+            "javier milei",
+            "déficit fiscal",
+            "gasto público",
+            "buenos aires",
+            "argentina",
+            "jubilaciones",
+            "gobierno de argentina",
+            "efe",
+            "tesoro nacional",
+            "congreso nacional"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/09/milei-critica-al-congreso-y-se-niega-a-convalidar-leyes-de-aumento-de-gasto-publico/",
+        "date": "2025-08-09 01:45:22",
+        "sentiment_score": -0.8536405842751265
+    },
+    {
+        "title": "La inflación china se queda al 0 % en julio tras su primer repunte en cinco meses",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3427",
+        "tags": [
+            "shanghái",
+            "oficina nacional de estadística",
+            "estadística",
+            "índice de precios al consumidor",
+            "precios industriales",
+            "inflación",
+            "índice de precios a la producción",
+            "analistas",
+            "efe",
+            "china",
+            "efecom"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/09/la-inflacion-china-se-queda-al-0-en-julio-tras-su-primer-repunte-en-cinco-meses/",
+        "date": "2025-08-09 01:45:20",
+        "sentiment_score": -0.3974647670984268
+    },
+    {
+        "title": "Madrid: el pronóstico del tiempo para este 9 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/UAVNNSVQ2BDOZLTU4G3FOZ3OYY.jpg?auth=df43e4acea8cc3a57bfb6f5f9cd7d334f69444f2bd0a29be41452b2e711b5a35&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "noticias",
+            "madrid",
+            "españa sociedad",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/09/madrid-el-pronostico-del-tiempo-para-este-9-de-agosto/",
+        "date": "2025-08-09 01:30:43",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima en Barcelona: pronóstico de lluvias y ráfagas de viento",
+        "image_url": "https://www.infobae.com/resizer/v2/UAVNNSVQ2BDOZLTU4G3FOZ3OYY.jpg?auth=df43e4acea8cc3a57bfb6f5f9cd7d334f69444f2bd0a29be41452b2e711b5a35&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "tiempo en españa",
+            "barcelona",
+            "españa sociedad",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/09/clima-en-barcelona-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2025-08-09 01:19:08",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Barry B se consagra en una noche de música con raíz y sones escoceses",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3427",
+        "tags": [
+            "franz ferdinand",
+            "sonorama",
+            "pop",
+            "burgos",
+            "rock",
+            "aranda de duero",
+            "carolina durante",
+            "música en vivo",
+            "efe",
+            "escocia",
+            "barry b"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/09/barry-b-se-consagra-en-una-noche-de-musica-con-raiz-y-sones-escoceses/",
+        "date": "2025-08-09 01:15:23",
+        "sentiment_score": 0.6833993084728718
+    },
+    {
+        "title": "Desalojan a 40 personas por el incendio declarado en Aranjuez",
+        "image_url": "https://www.infobae.com/resizer/v2/GCWRBL7V4NGULHDFCLVW6WNL2Y.jpg?auth=4892f4da1dcc2c2d12f9ce0e0bb6d9f94d73c72e0e71e37c6a20060e88aa4e9d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bomberos de madrid",
+            "sucesos españa",
+            "españa-noticias",
+            "sucesos",
+            "comunidad de madrid",
+            "madrid",
+            "incendio",
+            "bomberos",
+            "españa-nacional"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/09/desalojan-a-40-personas-por-el-incendio-declarado-en-aranjuez/",
+        "date": "2025-08-09 00:53:38",
+        "sentiment_score": -0.6335739940404892
+    },
+    {
+        "title": "Rescatadas tres personas en monte Buciero (Santoña) tras resultar heridas en una excursión",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3427",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/09/rescatadas-tres-personas-en-monte-buciero-santona-tras-resultar-heridas-en-una-excursion/",
+        "date": "2025-08-09 00:49:33",
+        "sentiment_score": -0.6954331565648317
+    },
+    {
+        "title": "La inflación en Colombia rompe su racha de desaceleración y cierra julio en 4,90 %",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3427",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/09/la-inflacion-en-colombia-rompe-su-racha-de-desaceleracion-y-cierra-julio-en-490/",
+        "date": "2025-08-09 00:45:36",
+        "sentiment_score": -0.26808811724185944
+    },
+    {
+        "title": "Inventario de una amistad",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/08/09/TERCERAABC_Inventariodeunaamistad_RUBIO-Re0LGtqQ7kRLZxTpa6Jy7IJ-350x624@diario_abc.jpg",
+        "tags": [
+            "españa",
+            "el mundo",
+            "federico garcía lorca",
+            "arte",
+            "cuatro",
+            "trabajo",
+            "tribunal de cuentas",
+            "francia",
+            "vicente aleixandre",
+            "el rubio",
+            "amor",
+            "la tercera de abc",
+            "español",
+            "francisco franco",
+            "poeta"
+        ],
+        "link": "https://www.abc.es/opinion/martinmiguel-rubio-esteban-inventario-amistad-20250809183107-nt.html",
+        "date": "2025-08-08 23:19:00",
+        "sentiment_score": -0.017726033926010132
+    },
+    {
+        "title": "Ellos son las cinco parejas de la Gala de Dansa de Ballarins Mallorquins, con las entradas agotadas",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3427043.jpg",
+        "tags": [
+            "última hora",
+            "sociedad",
+            "tendencias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/08/09/2446623/ellos-son-cinco-parejas-gala-dansa-ballarins-mallorquins-las-entradas-agotadas.html",
+        "date": "2025-08-09 02:00:01",
+        "sentiment_score": 0.5095294490456581
+    },
+    {
+        "title": "Ya avisó Romanones",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "romanones",
+            "aviso"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/aviso-romanones_0_2004543306.html",
+        "date": "2025-08-09 01:12:53",
+        "sentiment_score": -0.20924746990203857
+    },
+    {
+        "title": "El Centro de Inteligencia de las Fuerzas Armadas españolas usará IA para monitorizar las redes sociales y la 'dark web'",
+        "image_url": "https://s1.elespanol.com/2025/08/01/actualidad/1003743871679_257720124_1706x960.jpg?contentId=1003743871679",
+        "tags": [
+            "fuerzas armadas",
+            "seguridad nacional",
+            "observatorio de la defensa",
+            "ministerio de defensa",
+            "cni",
+            "servicios de inteligencia"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20250809/centro-inteligencia-fuerzas-armadas-espanolas-usara-ia-monitorizar-redes-sociales-dark-web/1003743871245_0.html",
+        "date": "2025-08-09 01:01:06",
+        "sentiment_score": -0.03643948584794998
+    },
+    {
+        "title": "Juego de espías en Rabat por la sucesión de Mohammed VI: sus 2 servicios secretos chocan por aupar a su hermano o a su hijo",
+        "image_url": "https://s1.elespanol.com/2025/08/08/actualidad/1003743880365_257878649_1706x960.jpg?contentId=1003743880365",
+        "tags": [
+            "reportajes",
+            "áfrica",
+            "marruecos",
+            "europa",
+            "mohamed vi"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250809/juego-espias-rabat-sucesion-mohammed-vi-servicios-secretos-chocan-aupar-hermano-hijo/1003743863930_0.html",
+        "date": "2025-08-09 00:56:04",
+        "sentiment_score": -0.8382353503257036
+    },
+    {
+        "title": "¿Quién fue el futbolista mexicano que intentó conquistar a Olivia Collins?",
+        "image_url": "https://www.infobae.com/resizer/v2/CDMTOMRNSRAWRNRU7L6OSMXZUA.JPG?auth=67cc2a7eed81b00cdc4c607a903a2a2d26aceb5aa8675141cf8ae8b2931e624a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "hugo sánchez",
+            "olivia collins",
+            "mexico-deportes",
+            "la casa de los famoso",
+            "club pumas"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/08/09/quien-fue-el-futbolista-mexicano-que-intento-conquistar-a-olivia-collins/",
+        "date": "2025-08-09 00:42:00",
+        "sentiment_score": 0.07751503586769104
+    },
+    {
+        "title": "Marina Saura, autora: “Disfruto cada instante porque he visto lo fácil que es morirse y ser desgraciado teniéndolo todo\"",
+        "image_url": "https://s1.elespanol.com/2025/08/05/actualidad/1003743875891_257795548_1706x960.jpg?contentId=1003743875891",
+        "tags": [
+            "amor",
+            "pintura",
+            "protagonistas",
+            "carlos saura",
+            "escritores"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20250809/marina-saura-autora-disfruto-instante-visto-facil-morirse-desgraciado-teniendolo/1003743875860_0.html",
+        "date": "2025-08-09 00:01:09",
+        "sentiment_score": -0.24446383118629456
+    },
+    {
+        "title": "Cantabria agranda su privilegio como la comunidad mejor financiada del país",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/08/08/107486443-kPvF--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "luis ángel agüeros",
+            "pedro sánchez",
+            "maría jesús montero",
+            "presupuestos generales del estado",
+            "cataluña",
+            "gobierno de cantabria",
+            "maría josé sáenz de buruaga gómez",
+            "economia",
+            "servicios públicos",
+            "hacienda"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/cantabria-agranda-privilegio-comunidad-mejor-financiada-pais-20250809074153-nt.html",
+        "date": "2025-08-09 00:00:00",
+        "sentiment_score": 0.49605752527713776
+    },
+    {
+        "title": "La difícil situación de Felipe VI tras el grave accidente de su amigo Jaime Anglada y atento a la salud de su tía Irene de Grecia",
+        "image_url": "https://s1.elespanol.com/2025/08/08/corazon/casas-reales/1003743880434_257880104_1706x960.jpg?contentId=1003743880434",
+        "tags": [
+            "casas reales",
+            "felipe vi",
+            "verano"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20250808/dificil-situacion-felipe-vi-grave-accidente-amigo-jaime-anglada-atento-salud-tia-irene-grecia/1003743879990_0.html",
+        "date": "2025-08-08 23:48:33",
+        "sentiment_score": -0.7781533719971776
+    },
+    {
+        "title": "08 AGO 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/08-ago-2025-partidazo-cope-20250809_3197325.html",
+        "date": "2025-08-08 23:40:00",
+        "sentiment_score": 0.6304443962872028
+    },
+    {
+        "title": "Eva Aznar Morales, fundadora de la Gatoteca, tajante: \"Somos una protectora de animales, no una cafetería con gatos\"",
+        "image_url": "https://s1.elespanol.com/2025/08/08/actualidad/1003743879817_257869058_1706x960.jpg?contentId=1003743879817",
+        "tags": [
+            "mascotas",
+            "mascotario",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/mascotario/20250808/eva-aznar-morales-fundadora-gatoteca-tajante-protectora-animales-no-cafeteria-gatos/1003743879766_0.html",
+        "date": "2025-08-08 23:36:00",
+        "sentiment_score": 0.044157207012176514
+    },
+    {
+        "title": "Las creadoras abogan por una Facultad de Bellas Artes para Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2f694d0e-0179-464e-bd61-80970f6a4d2c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bellas artes",
+            "fidma",
+            "asturias",
+            "sabadell",
+            "mujeres"
+        ],
+        "link": "https://www.lne.es/sociedad/2025/08/09/creadoras-abogan-facultad-bellas-artes-120475260.html",
+        "date": "2025-08-09 02:15:00",
+        "sentiment_score": 0.062355563044548035
+    },
+    {
+        "title": "Puigdemont reivindica su segunda fuga: Junts apunta a Illa por la “desnacionalización”",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/10/2025031021044358458.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/puigdemon-reivindica-segunda-fuga-junts-apunta-illa-desnacionalizacion/20250809041328352589.html",
+        "date": "2025-08-09 02:13:28",
+        "sentiment_score": -0.8121648877859116
+    },
+    {
+        "title": "La 111 del triatlón más duro del mundo llegó a meta con la bandera de Oncobierzo y casi 2.000 euros contra el cáncer",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/34/97/3/carolina-laurentiu-1.jpeg",
+        "tags": [
+            "el bierzo"
+        ],
+        "link": "https://www.lanuevacronica.com/el-bierzo/111-triatlon-mas-duro-mundo-llego-meta-con-bandera-oncobierzo-casi-2000-euros-contra-cancer_180222_102.html",
+        "date": "2025-08-09 02:10:00",
+        "sentiment_score": 0.2754710614681244
+    },
+    {
+        "title": "Barcelona afirma que Ter Stegen vuelve como capitán tras informe médico enviado a LaLiga",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/08/MARC_TER_STEGEN_36287_6b1602.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/08/08/barcelona-afirma-que-ter-stegen-vuelve-como-capitn-tras-informe-mdico-enviado-a-laliga/",
+        "date": "2025-08-09 02:05:04",
+        "sentiment_score": -0.37299013137817383
+    },
+    {
+        "title": "Migrar de Somalia a Mallorca: «Muchos niños mueren por el camino en el Sáhara»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3427109.jpg",
+        "tags": [
+            "mar mediterráneo",
+            "extranjeros",
+            "patera",
+            "somalia",
+            "travesía",
+            "palma de mallorca",
+            "cruz roja",
+            "ultimas noticias",
+            "torturas",
+            "puerto de palma",
+            "palma",
+            "vulnerables",
+            "migrantes",
+            "local",
+            "última hora",
+            "mallorca",
+            "autoridad portuaria de baleares",
+            "inmigración"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/09/2446631/migrar-somalia-mallorca-muchos-ninos-mueren-por-camino-sahara.html",
+        "date": "2025-08-09 02:00:01",
+        "sentiment_score": -0.20543675124645233
+    },
+    {
+        "title": "Un Mallorca a medio construir se presenta en el Ciutat de Palma",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3426515.jpg",
+        "tags": [
+            "rcd mallorca",
+            "fútbol",
+            "trofeu ciutat de palma",
+            "primera división",
+            "ultimas noticias",
+            "laliga",
+            "real mallorca",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/08/09/2446539/mallorca-medio-construir-presenta-ciutat-palma.html",
+        "date": "2025-08-09 02:00:01",
+        "sentiment_score": -0.08294987678527832
+    },
+    {
+        "title": "Primeras recetas mallorquinas de berenjenas",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3426493.jpg",
+        "tags": [
+            "recetas de cocina",
+            "gastronomía"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/gastronomia/2025/08/09/2446599/primeras-recetas-mallorquinas-berenjenas.html",
+        "date": "2025-08-09 02:00:01",
+        "sentiment_score": -0.25309303402900696
+    },
+    {
+        "title": "El fricandó de ternera de Marcelo Ramón",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/37/19/5/la-receta-de-fricando-de-ternera-de-marcelo-ramon.jpeg",
+        "tags": [
+            "lnc culturas"
+        ],
+        "link": "https://www.lanuevacronica.com/lnc-culturas/fricando-ternera-marcelo-ramon_180328_102.html",
+        "date": "2025-08-09 02:00:00",
+        "sentiment_score": 0.2071361020207405
+    },
+    {
+        "title": "¿Alianza inesperada entre el Barça y el Athletic?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/25/2025062516540117244.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/salida-inigo-rumbo-arabia-beneficia-athletic/20250809021635352587.html",
+        "date": "2025-08-09 00:16:35",
+        "sentiment_score": 0.11137533187866211
+    },
+    {
+        "title": "ICE detiene a pareja de venezolanos en un Walmart de Nueva York: fueron separados de su bebé de dos años",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754705133630.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "pareja",
+            "venezolanos",
+            "ice"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ice-detiene-a-pareja-de-venezolanos-en-un-walmart-de-nueva-york-fueron-separados-de-su-bebe-de-dos-anos-2025882250",
+        "date": "2025-08-09 02:05:00",
+        "sentiment_score": -0.7036509364843369
+    },
+    {
+        "title": "Louis BPM estrena “OE OE” con Farruko: colaboración internacional y lanzamiento en La Guaira marcan un nuevo capítulo en su carrera",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754706670356.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "farruko",
+            "música 2025"
+        ],
+        "link": "https://2001online.com/farandula/louis-bpm-estrena-oe-oe-con-farruko-colaboracion-internacional-y-lanzamiento-en-la-guaira-marcan-un-nuevo-capitulo-en-su-carrera-2025882200",
+        "date": "2025-08-09 02:00:00",
+        "sentiment_score": 0.8842413974925876
+    },
+    {
+        "title": "¡De no creer! Jennifer López sufre un rechazo en una exclusiva tienda de Estambul",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754680996445.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "escándalo",
+            "chisme",
+            "música",
+            "farándula"
+        ],
+        "link": "https://2001online.com/farandula/de-no-creer-jennifer-lopez-sufre-un-rechazo-en-una-exclusiva-tienda-de-estambul-20258821450",
+        "date": "2025-08-09 01:45:00",
+        "sentiment_score": -0.822976978495717
+    },
+    {
+        "title": "Regreso Vinotinto: el impacto que tendrán Darwin Machís y Yordan Osorio en la Liga FUTVE",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754703071488.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "yordan osorio",
+            "futve",
+            "deportivo la guaira",
+            "darwin machís",
+            "ucv fc",
+            "liga futve"
+        ],
+        "link": "https://2001online.com/deportes/regreso-vinotinto-el-impacto-que-tendran-darwin-machis-y-yordan-osorio-en-la-liga-futve-20258822300",
+        "date": "2025-08-09 01:33:48",
+        "sentiment_score": 0.852604616433382
+    },
+    {
+        "title": "Romance a la vista: así será la nueva historia de amor de Anne Hathaway en la 'El Diablo viste a la moda 2'",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754703680989.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "hollywood",
+            "cine"
+        ],
+        "link": "https://2001online.com/farandula/romance-a-la-vista-asi-sera-la-nueva-historia-de-amor-de-anne-hathaway-en-la-el-diablo-viste-a-la-moda-2--20258821270",
+        "date": "2025-08-09 01:27:00",
+        "sentiment_score": 0.3958343379199505
+    },
+    {
+        "title": "Servicio Público: el primer actor Eduardo Serrano necesita ayuda en su lucha contra el cáncer",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754702507444.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "eduardo serrano",
+            "servicio público"
+        ],
+        "link": "https://2001online.com/comunidad/servicio-publico-el-primer-actor-eduardo-serrano-necesita-ayuda-en-su-lucha-contra-el-cancer-20258821240",
+        "date": "2025-08-09 01:24:00",
+        "sentiment_score": -0.7809667401015759
+    },
+    {
+        "title": "¡Sin necesidad de productos químicos! Despídete del frizz con esta mascarilla natural que puedes preparar en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754701593996.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/sin-necesidad-de-productos-quimicos-despidete-del-frizz-con-esta-mascarilla-natural-que-puedes-preparar-en-casa-20258821150",
+        "date": "2025-08-09 01:15:00",
+        "sentiment_score": -0.7524472549557686
+    },
+    {
+        "title": "Las figuras más influyentes: top cinco de los deportistas venezolanos más seguidos en Instagram",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754701556515.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "miguel cabrera",
+            "josé altuve",
+            "yeferson soteldo",
+            "instagram",
+            "salomón rondón",
+            "ronald acuña jr."
+        ],
+        "link": "https://2001online.com/deportes/las-figuras-mas-influyentes-top-cinco-de-los-deportistas-venezolanos-mas-seguidos-en-instagram-2025882200",
+        "date": "2025-08-09 01:04:17",
+        "sentiment_score": 0.2134047970175743
+    },
+    {
+        "title": "¡Adiós resequedad capilar! El aceite que siempre tienes en la cocina que hidrata desde la raíz hasta las puntas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754700715879.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/adios-resequedad-capilar-el-aceite-que-siempre-tienes-en-la-cocina-que-hidrata-desde-la-raiz-hasta-las-puntas-2025882100",
+        "date": "2025-08-09 01:00:00",
+        "sentiment_score": -0.5881848409771919
+    },
+    {
+        "title": "Es muy barato y te aporta mucha vitamina B6 y C: este alimento muy popular en América Latina ofrece gran energía para tu jornada cotidiana",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754593083732.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/es-muy-barato-y-te-aporta-mucha-vitamina-b6-y-c-este-alimento-muy-popular-en-america-latina-ofrece-gran-energia-para-tu-jornada-cotidiana-2025882100",
+        "date": "2025-08-09 01:00:00",
+        "sentiment_score": 0.764068990945816
     }
 ];
