@@ -144,136 +144,6 @@ export default [
         "sentiment_score": 0.12905244529247284
     },
     {
-        "title": "Meloni: «La situación de Gaza es dramática e intolerable»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/08/meloniefe-k8QC-U701392814774EcF-1200x840@diario_abc.jpg",
-        "tags": [
-            "roma",
-            "gaza",
-            "italia",
-            "israel",
-            "hamás",
-            "giorgia meloni",
-            "benjamín netanyahu"
-        ],
-        "link": "https://www.abc.es/internacional/meloni-situacion-gaza-dramatica-intolerable-20250808151004-nt.html",
-        "date": "2025-08-08 13:10:05",
-        "sentiment_score": -0.2076016068458557
-    },
-    {
-        "title": "Noruega, Suecia y Dinamarca financian el primer envío de armas de la OTAN a Ucrania",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/08/patriotzelesnki-kUGH-U701392545691Qo-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/noruega-suecia-dinamarca-financian-primer-envio-armas-20250808145857-nt.html",
-        "date": "2025-08-08 12:58:58",
-        "sentiment_score": 0.0073503851890563965
-    },
-    {
-        "title": "El precio de la gasolina en España, un 8% más barato que la media europea",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/motor/2025/08/08/estacion-servicio-repsol-RBt47OQ0PRFPGOkS5Q7Y8wK-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "dgt dirección general de tráfico",
-            "motor",
-            "diésel",
-            "carburantes",
-            "gasolina",
-            "unión europea",
-            "verano"
-        ],
-        "link": "https://www.abc.es/motor/economia/precio-gasolina-espana-barato-media-europea-20250808145700-nt.html",
-        "date": "2025-08-08 12:57:01",
-        "sentiment_score": -0.11670005321502686
-    },
-    {
-        "title": "Castelo 6: viviendas de lujo en edificios históricos en Segovia para estudiantes universitarios de todo el mundo",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/08/08/fachada(4)-R5qaf6lgPfZbfupNKutYHEM-1200x840@diario_abc.jpg",
-        "tags": [
-            "madrid (ciudad)",
-            "sostenibilidad",
-            "vivienda",
-            "segovia",
-            "lujo",
-            "estudiantes",
-            "sector inmobiliario"
-        ],
-        "link": "https://www.abc.es/economia/castelo-viviendas-lujo-edificios-historicos-segovia-estudiantes-20250808141439-nt.html",
-        "date": "2025-08-08 12:14:39",
-        "sentiment_score": 0.04461207985877991
-    },
-    {
-        "title": "Dimite el embajador austriaco ante la UE por un blog de relatos misóginos y sexuales",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/08/Thomas_Oberreiter,_Cube_521,_Ambassadors'_2014_visit_to_Cinqfontaines-101-kkII-U701391925671B7C-1200x840@diario_abc.jpg",
-        "tags": [
-            "austria",
-            "mujeres",
-            "ministerio de asuntos exteriores y cooperación",
-            "relatos",
-            "unión europea",
-            "imagen",
-            "viena"
-        ],
-        "link": "https://www.abc.es/internacional/dimite-embajador-austriaco-ante-ue-blog-relatos-20250808134656-nt.html",
-        "date": "2025-08-08 11:58:24",
-        "sentiment_score": -0.18084797263145447
-    },
-    {
-        "title": "De la paz en 24 horas en Ucrania a la esperada cumbre entre Trump y Putin: diez meses de idas y venidas diplomáticas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/07/trumpyputin-kq9G-U701387807077MHH-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/paz-horas-ucrania-esperada-cumbre-trump-putin-20250807123602-nt.html",
-        "date": "2025-08-08 11:54:11",
-        "sentiment_score": -0.12024489045143127
-    },
-    {
-        "title": "Alemania suspende las exportaciones de armas a Israel tras la aprobación del plan para ocupar Gaza",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/08/alemania-kOfF-U7013922025962ZE-1200x840@diario_abc.jpg",
-        "tags": [
-            "uh abc",
-            "gaza",
-            "exportaciones",
-            "israel",
-            "alemania",
-            "armas"
-        ],
-        "link": "https://www.abc.es/internacional/alemania-suspende-exportaciones-armas-israel-tras-aprobacion-20250808124846-nt.html",
-        "date": "2025-08-08 11:43:55",
-        "sentiment_score": -0.11660024523735046
-    },
-    {
-        "title": "Las vacunas no solo previenen enfermedades: también podrían combatir el envejecimiento",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/08/08/50802098581_16d882e850_o--758x531.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/vacunas-solo-previenen-enfermedades-combatir-envejecimiento-20250808102312-nt.html",
-        "date": "2025-08-08 11:26:21",
-        "sentiment_score": -0.16126945614814758
-    },
-    {
-        "title": "La comunidad internacional insta a Netanyahu a que reconsidere el plan para tomar Gaza",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/08/netanyahu-kY0D-U7013912320360X-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/comunidad-internacional-insta-netanyahu-reconsidere-plan-tomar-20250808092837-nt.html",
-        "date": "2025-08-08 10:57:44",
-        "sentiment_score": -0.0452861487865448
-    },
-    {
-        "title": "La nueva versión de ChatGPT decepciona y frena el sueño de la prometida IA sobrehumana",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/08/08/gpt-cinco-RrQzZdDbTW5UCLbHOoHlMnL-758x531@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/nueva-version-chatgpt-cumple-expectativas-decepciona-expertos-20250808122244-nt.html",
-        "date": "2025-08-08 10:47:56",
-        "sentiment_score": -0.06937912106513977
-    },
-    {
         "title": "Fuengirola contratará detectives privados para vigilar a los funcionarios de baja",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JUXPYKFGRNGEJDVJGG6GVC63VM.jpg?auth=10adb2d7b73a2eade22c529b06295c2d251644d88aeda49351ada846507c4ed7&width=1200",
         "tags": [
@@ -360,97 +230,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-08-08/comuns-reclama-a-la-onu-bombardear-posiciones-militares-de-israel.html",
         "date": "2025-08-08 14:28:58",
         "sentiment_score": 0.0936601310968399
-    },
-    {
-        "title": "Barcelona certifica que los toldos instalados en parques y escuelas bajan la temperatura hasta cuatro grados",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3GMO4JZE3RDTXCGLGAX35QGR5E.jpg?auth=5886a6cbb98d99fd334fbc6f00a298708184c1b723c9caa36265547721dae019&width=1200",
-        "tags": [
-            "temperaturas",
-            "temperaturas máximas",
-            "verano",
-            "barcelona",
-            "cambio climático",
-            "cataluña",
-            "climas",
-            "calor"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-08/barcelona-certifica-que-los-toldos-instalados-en-parques-y-escuelas-bajan-la-temperatura-hasta-cuatro-grados.html",
-        "date": "2025-08-08 13:27:46",
-        "sentiment_score": 0.16596565395593643
-    },
-    {
-        "title": "Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KL43ZOANFJFURKKPABKSZ6XQUU.jpg?auth=2930dee0d701d370d98f1624541c7f1796c6c7cd91e143f2b0d6ef00160ef044&width=1200",
-        "tags": [
-            "musulmanes",
-            "ayuntamientos",
-            "islamofobia",
-            "jumilla",
-            "vox",
-            "partidos políticos",
-            "pp",
-            "ramadán",
-            "murcia",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-08/vox-al-pp-en-el-tenso-pleno-que-aprobo-impedir-las-fiestas-musulmanas-en-jumilla-objetivo-cumplido.html",
-        "date": "2025-08-08 12:49:56",
-        "sentiment_score": -0.7544361967593431
-    },
-    {
-        "title": "L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6QODWIZ2LBMGHO7FMB2CSZ6VWA.jpg?auth=0cd1caec07622e9786a50b7d38b230efd3b5ffbacd2f3a20444ae1ec02c5e601&width=1200",
-        "tags": [
-            "protección civil",
-            "cataluña",
-            "agua",
-            "medio ambiente",
-            "bomberos",
-            "contaminación agua",
-            "contaminación",
-            "mossos d'esquadra"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-08/lametlla-de-mar-cierra-todas-sus-playas-por-la-presencia-de-una-mancha-blanca-y-viscosa.html",
-        "date": "2025-08-08 12:16:40",
-        "sentiment_score": -0.4862529933452606
-    },
-    {
-        "title": "Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5WE3U33WFZE3BJCGURPJNZ5I6U.jpg?auth=1e40f7419ac4343057552257d37f6e34b6c3da6e2ebd4cbd86eb2d63460c7139&width=1200",
-        "tags": [
-            "migrantes",
-            "inmigración",
-            "cayucos",
-            "pateras canarias",
-            "barcos",
-            "inmigración irregular",
-            "canarias",
-            "españa",
-            "pateras",
-            "lanzarote",
-            "guardia civil",
-            "inmigrantes africanos",
-            "polizones",
-            "inmigración irregular españa",
-            "inmigrantes"
-        ],
-        "link": "https://elpais.com/espana/2025-08-08/desembarcan-en-lanzarote-por-razones-humanitarias-49-polizones-que-viajaban-en-un-barco-procedente-de-dakar.html",
-        "date": "2025-08-08 12:05:39",
-        "sentiment_score": -0.7590380553156137
-    },
-    {
-        "title": "Un pueblo de Asturias se vuelca con el Mundial de Bateo de Oro: “No hablamos el mismo idioma, pero nos entendemos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SQS66LSK7JDG7ECPBWZJME67TM.jpg?auth=29173dc03a3195173928414887d32a61fb0998e15d2b4f618e932b2e421890ad&width=1200",
-        "tags": [
-            "ocio",
-            "principado de asturias",
-            "campeonato mundial",
-            "oro",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-08/un-pueblo-de-asturias-se-vuelca-con-el-mundial-de-bateo-de-oro-no-hablamos-el-mismo-idioma-pero-nos-entendemos.html",
-        "date": "2025-08-08 10:37:28",
-        "sentiment_score": 0.6500610932707787
     },
     {
         "title": "El Baskonia destituye a Pablo Laso tras un año en el banquillo azulgrana",
@@ -8642,5 +8421,537 @@ export default [
         "link": "https://2001online.com/farandula/continuan-los-rumores-nicki-nicole-es-vista-con-la-camisa-de-lamine-yamal-durante-un-partido-del-barca-202581117130",
         "date": "2025-08-11 21:13:00",
         "sentiment_score": 0.585364043712616
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Madrid este 12 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/MLF732S2QRFAZPVV3UYAGHVFX4.jpg?auth=e324eaf2380074aecb5a4fae8aad77a416949bed391eabc88700301daee388db&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "madrid",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/12/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-madrid-este-12-de-agosto/",
+        "date": "2025-08-12 01:31:00",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Última hora de los incendios en España, en directo: tres heridos en Madrid y Cádiz y miles de personas desalojadas",
+        "image_url": "https://www.infobae.com/resizer/v2/5746CFKPERG2BP2KUONZHJLQ3M.jpg?auth=700e65b38a5a5566e309695ff6b24d25a9f80c6ac36323b6e52f1b74bfc04cb6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "sucesos",
+            "sucesos españa",
+            "madrid",
+            "españa-sociedad",
+            "león",
+            "incendios españa",
+            "comunidad de madrid",
+            "incendios",
+            "españa-noticias",
+            "zamora"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/12/ultima-hora-de-los-incendios-en-espana-en-directo-tres-heridos-en-madrid-y-cadiz-y-miles-de-personas-desalojadas/",
+        "date": "2025-08-11 23:23:33",
+        "sentiment_score": -0.6908882781863213
+    },
+    {
+        "title": "Cubas de la Sagra se lleva el primer puesto para la final del Grand Prix del Verano: una dominación, prueba a prueba",
+        "image_url": "https://www.infobae.com/resizer/v2/QL433SFCRJHRDCPLL52Z6YAUYY.jpg?auth=044f3025e4120d517ad572e748be68c785b05ad9fae387ed3e78b58ca60463b3&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "vizcaya",
+            "televisión españa",
+            "madrid",
+            "españa-entretenimiento",
+            "españa-noticias",
+            "carolina marín",
+            "grand prix",
+            "tve",
+            "rtve",
+            "ramón garcía",
+            "sergio bezos",
+            "programas de televisión",
+            "grand prix del verano"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/12/cubas-de-la-sagra-se-lleva-el-primer-puesto-para-la-final-del-grand-prix-del-verano-un-xxx/",
+        "date": "2025-08-11 22:49:53",
+        "sentiment_score": 0.23307739198207855
+    },
+    {
+        "title": "La mitad de los españoles considera que la sociedad está «rota»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/08/12/feijoo-sanchez-RZUpNeqfwPZDhqSkdXVowbI-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/espana/mitad-espanoles-considera-sociedad-rota-20250812032845-nt.html",
+        "date": "2025-08-12 01:28:59",
+        "sentiment_score": -0.160099059343338
+    },
+    {
+        "title": "Trump toma a la fuerza el control de Washington",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/11/washington-RY9VIGX4ySVcalwhxTFHtcI-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-toma-fuerza-control-washington-20250811163407-nt.html",
+        "date": "2025-08-12 00:55:38",
+        "sentiment_score": -0.11917643249034882
+    },
+    {
+        "title": "El asesinato de Miguel Uribe, el fracaso de la Paz total de Petro",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/12/uribe1-kgMC-U701404187388BFE-1200x840@diario_abc.jpg",
+        "tags": [
+            "política",
+            "gustavo petro",
+            "colombia",
+            "hoy",
+            "medellin (colombia)",
+            "álvaro uribe vélez",
+            "farc fuerzas armadas revolucionarias de colombia",
+            "violencia"
+        ],
+        "link": "https://www.abc.es/internacional/asesinato-miguel-uribe-fracaso-paz-total-petro-20250812021827-nt.html",
+        "date": "2025-08-12 00:19:41",
+        "sentiment_score": -0.14033527672290802
+    },
+    {
+        "title": "Trump sitúa a Madrid como modelo de la ciudad segura que quiere que sea Washington",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/11/dc-knIC-U701402666104BbC-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-situa-madrid-modelo-ciudad-segura-quiere-20250811164737-nt.html",
+        "date": "2025-08-11 23:25:56",
+        "sentiment_score": -0.28805601596832275
+    },
+    {
+        "title": "Pirómano en libertad",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/juan-j-borrero-piromano-libertad-20250812182852-nts.html",
+        "date": "2025-08-11 21:25:24",
+        "sentiment_score": -0.017311006784439087
+    },
+    {
+        "title": "Del karaoke al aplauso en la puesta de sol",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ramon-roman-karaoke-aplauso-puesta-sol-20250812113428-nts.html",
+        "date": "2025-08-11 21:24:52",
+        "sentiment_score": -0.08129298686981201
+    },
+    {
+        "title": "No solo los genes, el estilo de vida también influye en las cardiopatías genéticas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/08/11/diane-fatkin-Jasmina-Cvetkovska-team-laboratory-2022-2_WEB-1280px--758x531.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/solo-genes-estilo-vida-influye-cardiopatias-geneticas-20250811140202-nt.html",
+        "date": "2025-08-11 21:00:01",
+        "sentiment_score": -0.14064212143421173
+    },
+    {
+        "title": "El incendio ideológico de la Mezquita",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-incendio-ideologico-mezquita-20250812225902-nts.html",
+        "date": "2025-08-11 20:59:02",
+        "sentiment_score": -0.13104286789894104
+    },
+    {
+        "title": "Trump retrasa la imposición de aranceles a China horas antes de que acabase la tregua comercial",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/11/donadljtrump-ktQB-U701403787323wRE-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/trump-prolonga-dias-tregua-arancelaria-china-20250811213155-nt.html",
+        "date": "2025-08-11 20:35:11",
+        "sentiment_score": -0.17599715292453766
+    },
+    {
+        "title": "Al menos un muerto y dos desaparecidos tras «múltiples» explosiones en una planta de acero en Pensilvania",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/11/pensilvania-afp-kosC-U7014037969073hH-1200x840@diario_abc.jpg",
+        "tags": [
+            "policía",
+            "uh abc",
+            "estados unidos"
+        ],
+        "link": "https://www.abc.es/internacional/muerto-dos-desaparecidos-tras-multiples-explosiones-planta-20250811215027-nt.html",
+        "date": "2025-08-11 20:08:30",
+        "sentiment_score": -0.4395347833633423
+    },
+    {
+        "title": "Fuego infernal en Tres Cantos con viento cambiante y centenares de vecinos desalojados",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KQ3Z2MS6SJAXRF3S7ANHW26Z6Q.jpg?auth=598a477dd1dd554aa4b872f3eb87c7073b7cf276428e6600f2ccf5af1f36504f&width=1200",
+        "tags": [
+            "comunidad de madrid",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-08-12/fuego-infernal-en-tres-cantos-con-viento-cambiante-y-centenares-de-vecinos-desalojados.html",
+        "date": "2025-08-12 01:28:20",
+        "sentiment_score": -0.8377825003117323
+    },
+    {
+        "title": "El incendio en Tres Cantos (Madrid), en imágenes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7SH2ZCG4MZFGHKY5AKA4SCAXJY.jpg?auth=1769aa900ecbdaab9be89b6e28490fc752704de07422327a8e6c7f741f31f997&width=1200",
+        "tags": [
+            "incendios",
+            "madrid",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-08-11/el-incendio-en-tres-cantos-madrid-en-imagenes.html",
+        "date": "2025-08-11 22:42:32",
+        "sentiment_score": -0.6445334330201149
+    },
+    {
+        "title": "El origen de los United Tribuns y su llegada a Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3431223.jpg",
+        "tags": [
+            "organización criminal",
+            "tráfico de drogas",
+            "playa de palma",
+            "ultimas noticias",
+            "última hora",
+            "sucesos en mallorca",
+            "united tribuns de mallorca",
+            "united tribuns",
+            "historia",
+            "policía nacional",
+            "noticias",
+            "noticias sucesos hoy",
+            "accidente de tráfico"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2025/08/12/2448187/origen-united-tribuns-llegada-mallorca.html",
+        "date": "2025-08-12 02:00:01",
+        "sentiment_score": -0.8501226538792253
+    },
+    {
+        "title": "Menores no acompañados",
+        "image_url": "https://uh.gsstatic.es/autor/antonio-papell/12205.png",
+        "tags": [
+            "prensa digital",
+            "artículos de opinión",
+            "tribuna",
+            "grupo serra",
+            "medio de comunicación"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/08/12/2448099/menores-acompanados.html",
+        "date": "2025-08-12 02:00:01",
+        "sentiment_score": -0.14596089720726013
+    },
+    {
+        "title": "Putin intentará culpar a Ucrania de la guerra",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "intentara",
+            "ucrania",
+            "culpar",
+            "putin",
+            "guerra"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/editorial/putin-intentara-culpar-ucrania-guerra_0_2004554032.html",
+        "date": "2025-08-12 01:05:46",
+        "sentiment_score": -0.12906253337860107
+    },
+    {
+        "title": "Desde Rooney hasta Ten Hag: los conflictos más polémicos que ha protagonizado Cristiano Ronaldo en el fútbol",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754959592732.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cristiano ronaldo",
+            "portugal",
+            "manchester united"
+        ],
+        "link": "https://2001online.com/deportes/desde-rooney-hasta-ten-hag-los-conflictos-mas-polemicos-que-ha-protagonizado-cristiano-ronaldo-en-el-futbol-202581120390",
+        "date": "2025-08-12 00:39:00",
+        "sentiment_score": -0.6134745460003614
+    },
+    {
+        "title": "Javier Milei, entre ultrasionistas y antisemitas",
+        "image_url": "https://s1.elespanol.com/2025/02/15/mundo/america/924417835_253153881_1706x960.jpg?contentId=924417835",
+        "tags": [
+            "tribunas",
+            "israel",
+            "tribunas de opinión",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20250812/javier-milei-ultrasionistas-antisemitas/1003743882845_12.html",
+        "date": "2025-08-12 00:36:50",
+        "sentiment_score": -0.14361977577209473
+    },
+    {
+        "title": "Los 6 vínculos que unen a Leire Díez con Cerdán: de Ferraz a Diego de León pasando por la relación con el abogado Teijelo",
+        "image_url": "https://s1.elespanol.com/2025/06/04/actualidad/1003743788163_256154021_1706x960.jpg?contentId=1003743788163",
+        "tags": [
+            "santos cerdán",
+            "política",
+            "javier pérez dolset",
+            "gobierno de españa",
+            "psoe (partido socialista obrero español)"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250812/vinculos-unen-leire-cerdan-ferraz-diego-leon-pasando-relacion-abogado-teijelo/1003743883052_0.html",
+        "date": "2025-08-12 00:32:09",
+        "sentiment_score": 0.040155813097953796
+    },
+    {
+        "title": "Detecta el riesgo en segundos: el invento 'made in Cantabria' que viaja contigo para frenar la sumisión química en fiestas",
+        "image_url": "https://s1.elespanol.com/2025/08/11/actualidad/1003743882662_257919584_1706x960.jpg?contentId=1003743882662",
+        "tags": [
+            "discotecas",
+            "cantabria",
+            "agresiones sexuales",
+            "violencia de género",
+            "actualidad"
+        ],
+        "link": "https://www.elespanol.com/mujer/actualidad/20250812/detecta-riesgo-segundos-invento-made-in-cantabria-viaja-contigo-frenar-sumision-quimica-fiestas/1003743882255_0.html",
+        "date": "2025-08-12 00:31:45",
+        "sentiment_score": 0.3528694212436676
+    },
+    {
+        "title": "Diez malienses de 17 años, los primeros 'asilados' que salen de Canarias rumbo a la Península: serán acogidos por Asturias",
+        "image_url": "https://s1.elespanol.com/2025/08/11/actualidad/1003743882844_257925878_1706x960.jpg?contentId=1003743882844",
+        "tags": [
+            "clavijo",
+            "gran canaria",
+            "centros de menores",
+            "islas canarias",
+            "reportajes",
+            "mali"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250812/malienses-anos-primeros-asilados-salen-canarias-rumbo-peninsula-acogidos-asturias/1003743882242_0.html",
+        "date": "2025-08-12 00:31:40",
+        "sentiment_score": -0.4370945952832699
+    },
+    {
+        "title": "11 AGO 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/11-ago-2025-partidazo-cope-20250812_3198057.html",
+        "date": "2025-08-11 23:54:52",
+        "sentiment_score": -0.5920863784849644
+    },
+    {
+        "title": "El vinilo, entre el refugio melómano y el objeto \"clasista\": los claroscuros de un formato resucitado",
+        "image_url": "https://s1.elespanol.com/2025/08/06/actualidad/1003743877287_257821302_1706x960.jpg?contentId=1003743877287",
+        "tags": [
+            "discos música",
+            "música"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20250811/vinilo-refugio-melomano-objeto-clasista-claroscuros-formato-resucitado/1003743874184_0.html",
+        "date": "2025-08-11 23:50:00",
+        "sentiment_score": 0.09398418664932251
+    },
+    {
+        "title": "Miquel Ferrer: «Ante la avalancha de novedades, tiene sentido más que nunca el trabajo de los libreros»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3430939.jpg",
+        "tags": [
+            "literatura en mallorca",
+            "cultura",
+            "ocio en mallorca",
+            "cultura en mallorca",
+            "rata corner"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/08/12/2448013/miquel-ferrer-ante-avalancha-novedades-tiene-sentido-mas-nunca-trabajo-libreros.html",
+        "date": "2025-08-12 02:00:01",
+        "sentiment_score": -0.056191861629486084
+    },
+    {
+        "title": "Salarios nunca vistos, partidos en el Camp Nou y la incógnita de los argentinos: la nueva liga que promete revolucionar al rugby",
+        "image_url": "https://www.infobae.com/resizer/v2/6WVNLZYESFDTBLJJA7O6LLGQMY.jpg?auth=6039dbb77591914c768ee7be5a4dc6dc4fb501b0cf6d8fe7e3221a730d4209cc&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "rugby 360",
+            "los pumas",
+            "deportes-argentina",
+            "rugby",
+            "roger tuivasa-sheck"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/12/salarios-nunca-vistos-partidos-en-el-camp-nou-y-la-incognita-de-los-argentinos-la-nueva-liga-que-promete-revolucionar-al-rugby/",
+        "date": "2025-08-12 01:52:19",
+        "sentiment_score": 0.5142321325838566
+    },
+    {
+        "title": "Es la nueva gran promesa del fútbol mundial y dejó tendido en el césped a Gabriel Heinze en la práctica",
+        "image_url": "https://www.infobae.com/resizer/v2/T7WAPE62BVFAVP52DDJI5B4KQY.jpg?auth=2ec3b7e82a89256c06b859984cac2320639552fed87117ed555aa5b2149f6be6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "gabriel heinze",
+            "arsenal",
+            "max robert dowman",
+            "deportes-argentina",
+            "mikel arteta",
+            "premier league",
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/12/es-la-nueva-gran-promesa-del-futbol-mundial-y-dejo-tendido-en-el-cesped-a-gabriel-heinze-en-la-practica/",
+        "date": "2025-08-12 01:26:11",
+        "sentiment_score": 0.7540187165141106
+    },
+    {
+        "title": "El Genil, entre el calor y la prohibición: bañistas retan el veto al baño en el río granadino",
+        "image_url": "https://static.grupojoly.com/clip/8fcf673d-37d7-426c-a25b-26cd65f3ce45_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "policía local de granada",
+            "link en bio granada",
+            "últimas noticias granada",
+            "ayuntamiento de granada"
+        ],
+        "link": "https://www.granadahoy.com/granada/genil-calor-prohibicion-vecinos-banistas-granada-retan-veto-bano-rio_0_2004542288.html",
+        "date": "2025-08-12 01:15:02",
+        "sentiment_score": -0.874553450383246
+    },
+    {
+        "title": "Busup entra en los mercados de Italia, Grecia, Colombia y Argentina",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250812030450_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-busup-entra-mercados-italia-grecia-colombia-argentina-20250812030450.html",
+        "date": "2025-08-12 01:04:50",
+        "sentiment_score": 0.6557341739535332
+    },
+    {
+        "title": "Con Beyonce, Dua Lipa o Aitana los conciertos son una pasarela",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/08/Beyonce.jpg",
+        "tags": [
+            "farándula",
+            "dua lipa",
+            "beyonce",
+            "aitana"
+        ],
+        "link": "https://elsiglo.com.ve/con-beyonce-dua-lipa-o-aitana-los-conciertos-son-una-pasarela/",
+        "date": "2025-08-12 00:34:50",
+        "sentiment_score": 0.03442656993865967
+    },
+    {
+        "title": "Mapa interactivo de todas las catedrales de España: un paseo desde el estilo visigodo al neoclásico",
+        "image_url": "https://s1.elespanol.com/2025/07/01/actualidad/1003743829529_256942312_1706x960.jpg?contentId=1003743829529",
+        "tags": [
+            "patrimonio histórico",
+            "arquitectura"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/arquitectura/20250811/mapa-interactivo-todas-catedrales-espana-paseo-estilo-visigodo-neoclasico/1003743829499_0.html",
+        "date": "2025-08-11 23:50:00",
+        "sentiment_score": 0.08393669128417969
+    },
+    {
+        "title": "Almighty llega a Caracas con el Endiosau Tour: será un show lleno de sorpresas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754965262207.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "endiosau tour",
+            "almighty"
+        ],
+        "link": "https://2001online.com/farandula/almighty-llega-a-caracas-con-el-endiosau-tour-sera-un-show-lleno-de-sorpresas-202581122180",
+        "date": "2025-08-12 02:18:00",
+        "sentiment_score": 0.030345559120178223
+    },
+    {
+        "title": "Polvo del Sahara llega a Venezuela: hasta esta fecha afectará la zona costera y central",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754960094563.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "polvo del sahara",
+            "clima",
+            "agosto",
+            "costa",
+            "centro"
+        ],
+        "link": "https://2001online.com/nacionales/polvo-del-sahara-llega-a-venezuela-hasta-esta-fecha-afectara-la-zona-costera-y-central-202581122160",
+        "date": "2025-08-12 02:16:00",
+        "sentiment_score": -0.8706553690135479
+    },
+    {
+        "title": "Este es el ejercicio favorito de Arnold Schwarzenegger para estar en forma: a sus 77 años revela con qué frecuencia va al gimnasio",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754678289755.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/este-es-el-ejercicio-favorito-de-arnold-schwarzenegger-para-estar-en-forma-a-sus-77-anos-revela-con-que-frecuencia-va-al-gimnasio-20258112200",
+        "date": "2025-08-12 02:00:00",
+        "sentiment_score": 0.3215741738677025
+    },
+    {
+        "title": "Rafa y Chinin llevan el flamenco a Free Cover: sorprenden con un medley de canciones",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754964505202.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "free cover",
+            "rafa y chinin"
+        ],
+        "link": "https://2001online.com/farandula/rafa-y-chinin-llevan-el-flamenco-a-free-cover-sorprenden-con-un-medley-de-canciones--202581121590",
+        "date": "2025-08-12 01:59:00",
+        "sentiment_score": 0.8658025078475475
+    },
+    {
+        "title": "Reencuentro histórico: los Jonas Brothers y Demi Lovato se reúnen en concierto tras 15 años de “Camp Rock”",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754963175229.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "jonas brothers",
+            "demi lovato",
+            "camp rock"
+        ],
+        "link": "https://2001online.com/farandula/reencuentro-historico-los-jonas-brothers-y-demi-lovato-se-reunen-en-concierto-tras-15-anos-de-camp-rock--202581121430",
+        "date": "2025-08-12 01:43:00",
+        "sentiment_score": 0.837470717728138
+    },
+    {
+        "title": "La vida del Rey Juan Carlos I llega a Netflix: conozca los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754962271130.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "netflix",
+            "the crown",
+            "rey juan carlos i"
+        ],
+        "link": "https://2001online.com/farandula/la-vida-del-rey-juan-carlos-i-llega-a-netflix-conozca-los-detalles-202581121270",
+        "date": "2025-08-12 01:27:00",
+        "sentiment_score": 0.5403794851154089
+    },
+    {
+        "title": "¿Tienes una pareja indocumentada y eres residente? Así debes presentar la solicitud de ciudadanía en EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754961237645.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "indocumentados",
+            "residentes",
+            "ciudadanía"
+        ],
+        "link": "https://2001online.com/usa/servicios/tienes-una-pareja-indocumentada-y-eres-residente-asi-debes-presentar-la-solicitud-de-ciudadania-en-eeuu-202581121130",
+        "date": "2025-08-12 01:13:00",
+        "sentiment_score": -0.49474113434553146
+    },
+    {
+        "title": "Saime anuncia nueva jornada de cedulación sin cita: también habrá verificación de datos",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754954633330.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "venezuela",
+            "trámites",
+            "diario 2001",
+            "pasaportes"
+        ],
+        "link": "https://2001online.com/servicios/saime-anuncia-nueva-jornada-de-cedulacion-sin-cita-tambien-habra-verificacion-de-datos-20258112130",
+        "date": "2025-08-12 01:03:00",
+        "sentiment_score": -0.10424590110778809
+    },
+    {
+        "title": "Carta astral del Papa león XIV: indica que viajará por el planeta y se convertirá en el pontífice más mediático de la historia",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754832181751.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/carta-astral-del-papa-leon-xiv-indica-que-viajara-por-el-planeta-y-se-convertira-en-el-pontifice-mas-mediatico-de-la-historia-20258112100",
+        "date": "2025-08-12 01:00:00",
+        "sentiment_score": -0.0054800063371658325
+    },
+    {
+        "title": "Todoticket ajusta límites de consumo y transferencias para estas tarjetas: conozca los montos que puede usar diario",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754935568200.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "todoticket"
+        ],
+        "link": "https://2001online.com/servicios/todoticket-ajusta-limites-de-consumo-y-transferencias-para-estas-tarjetas-conozca-los-montos-que-puede-usar-diario-20258112100",
+        "date": "2025-08-12 01:00:00",
+        "sentiment_score": 0.05397140420973301
     }
 ];
