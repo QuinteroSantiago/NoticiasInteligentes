@@ -185,16 +185,6 @@ export default [
         "sentiment_score": -0.11820468306541443
     },
     {
-        "title": "Escalar como forma de huida",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/09/trumpnetanyahu-RZNyZOYINt7KrCm79f8rSlI-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/jose-m-de-areilza-escalar-forma-huida-20250809135829-nt.html",
-        "date": "2025-08-09 12:00:05",
-        "sentiment_score": -0.1357738971710205
-    },
-    {
         "title": "Clamor en Barcelona contra la ocupación de Israel en Gaza: “Mucho hablar de derechos humanos para luego no respetarlos”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/I2N7XGOKZFIAXP6VQZW4KOMPMA.jpg?auth=a40fc0d91d786792a3ff1cab7f58c769d80d9756e8bed52a99584b9b77ea3f15&width=1200",
         "tags": [
@@ -229,55 +219,6 @@ export default [
         "link": "https://elpais.com/economia/negocios/2025-08-09/morirse-en-espana-es-cada-vez-mas-caro.html",
         "date": "2025-08-09 15:40:00",
         "sentiment_score": -0.5500332154333591
-    },
-    {
-        "title": "Mueren dos personas al estrellarse una avioneta en la localidad valenciana de Requena",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BCUVOX552JN5FIHBVAU2UH73G4.jpg?auth=28dd69d3fce174448ae6aae949b51e159dcfe941f2f1e5e1b512ee510fcb3606&width=1200",
-        "tags": [
-            "víctimas",
-            "requena",
-            "accidentes aéreos",
-            "avionetas",
-            "valencia",
-            "accidentes",
-            "comunidad valenciana",
-            "sucesos"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-08-09/mueren-dos-personas-al-estrellarse-una-avioneta-en-la-localidad-valenciana-de-requena.html",
-        "date": "2025-08-09 11:57:30",
-        "sentiment_score": -0.8228697907179594
-    },
-    {
-        "title": "Muere aplastada por una máquina una jornalera marroquí vecina de Jumilla",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YLIUO4P3QFBFBON6Z3KXWQAF7M.jpg?auth=27503af852dfb080297c09a2063838328e339cfa917438a541a2b8f1ca594b0c&width=1200",
-        "tags": [
-            "ultraderecha",
-            "inmigración",
-            "jumilla",
-            "accidentes laborales",
-            "españa",
-            "murcia"
-        ],
-        "link": "https://elpais.com/espana/2025-08-09/muere-aplastada-por-una-maquina-una-jornalera-marroqui-vecina-de-jumilla.html",
-        "date": "2025-08-09 11:52:02",
-        "sentiment_score": -0.07226495444774628
-    },
-    {
-        "title": "Cuatro personas salen ilesas tras saltar al mar desde una barca incendiada en Roses (Girona)",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SUW3E3VSINDSDFGF3YJIZZYTOY.jpg?auth=ce0ef7e726b97bf3438909d46cf5737ffea39c124b942a21bf4ce8ad6f5b8bd6&width=1200",
-        "tags": [
-            "barcos",
-            "sucesos",
-            "incendios",
-            "playas",
-            "girona",
-            "salvamento marítimo",
-            "cataluña",
-            "roses"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-09/cuatro-personas-salen-ilesas-tras-saltar-al-mar-desde-una-barca-incendiada-en-roses-girona.html",
-        "date": "2025-08-09 10:42:35",
-        "sentiment_score": -0.8459925539791584
     },
     {
         "title": "Un experto en vivienda vaticina un negro panorama para el mercado del alquiler: “Está en estado de emergencia”",
@@ -379,20 +320,6 @@ export default [
         "link": "https://www.ideal.es/deportes/futbol/morata-arte-nomada-20250809163118-ntrc.html",
         "date": "2025-08-09 14:31:20",
         "sentiment_score": 0.18735014647245407
-    },
-    {
-        "title": "Los 10 podcasts de Spotify en España para engancharse este día",
-        "image_url": "https://www.infobae.com/resizer/v2/6S7XXSIS4NDBJLGM3XL7TQEDB4.jpg?auth=2be31b3374b286343bf685f11cec47515394655728c2c825bb274120ee9bb929&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "streaming",
-            "noticias",
-            "españa-television",
-            "spotify",
-            "podcast"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/los-10-podcasts-de-spotify-en-espana-para-engancharse-este-dia/",
-        "date": "2025-08-09 14:15:38",
-        "sentiment_score": 0.7298370189964771
     },
     {
         "title": "Manolo Vital 'vuelve' a Valencia de Alcántara: este es el bonito homenaje que le hace su pueblo",
@@ -8308,5 +8235,532 @@ export default [
         "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-13-de-agosto-asi-se-cotizaran-las-divisas-oficiales-20258121700",
         "date": "2025-08-12 21:00:00",
         "sentiment_score": -0.011236295104026794
+    },
+    {
+        "title": "Clima en Málaga: cuál será la temperatura máxima y mínima este 13 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/A6PD5C4CIFF27E2URW3I46WVJE.png?auth=3610483284f1994b08b8384f5c8535e42f6ac5e59e2bbc59906446cea6720aa3&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias",
+            "málaga",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/clima-en-malaga-cual-sera-la-temperatura-maxima-y-minima-este-13-de-agosto/",
+        "date": "2025-08-13 02:16:11",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El beneficio neto de Ecopetrol se desploma un 33,2 % en el primer semestre de 2025",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3428",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/13/el-beneficio-neto-de-ecopetrol-se-desploma-un-332-en-el-primer-semestre-de-2025/",
+        "date": "2025-08-13 01:16:24",
+        "sentiment_score": 0.4085818715393543
+    },
+    {
+        "title": "Parlamento argentino reactiva comisión investigadora del caso de la criptomoneda $LIBRA",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3428",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/13/parlamento-argentino-reactiva-comision-investigadora-del-caso-de-la-criptomoneda-libra/",
+        "date": "2025-08-13 01:16:07",
+        "sentiment_score": 0.1056319884955883
+    },
+    {
+        "title": "Gobierno suspende temporalmente operación de la mayor cadena de minimercados de Paraguay",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3428",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/13/gobierno-suspende-temporalmente-operacion-de-la-mayor-cadena-de-minimercados-de-paraguay/",
+        "date": "2025-08-13 01:15:51",
+        "sentiment_score": -0.8690922670066357
+    },
+    {
+        "title": "El Nikkei supera por primera vez los 43.000 puntos aupado por los máximos en Wall Street",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3428",
+        "tags": [
+            "nikkei",
+            "efe",
+            "japón",
+            "bolsa de tokio",
+            "mercado bursátil",
+            "estados unidos",
+            "toyota",
+            "sony",
+            "wall street",
+            "tokio",
+            "resultados financieros"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/13/el-nikkei-supera-por-primera-vez-los-43000-puntos-aupado-por-los-maximos-en-wall-street/",
+        "date": "2025-08-13 01:15:34",
+        "sentiment_score": 0.26809261739254
+    },
+    {
+        "title": "China condena a 15 años de prisión al ex subdirector de la tabacalera estatal por sobornos",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3428",
+        "tags": [
+            "xi jinping",
+            "efe",
+            "anyang",
+            "campaña anticorrupción",
+            "corrupción",
+            "sobornos",
+            "partido comunista de china",
+            "china",
+            "ling chengxing",
+            "xu ying",
+            "administración estatal del monopolio del tabaco"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/13/china-condena-a-15-anos-de-prision-al-ex-subdirector-de-la-tabacalera-estatal-por-sobornos/",
+        "date": "2025-08-13 01:15:18",
+        "sentiment_score": -0.929855989292264
+    },
+    {
+        "title": "Última hora de los incendios en España de este miércoles 13 de agosto: todos los fuegos que siguen activos",
+        "image_url": "https://www.infobae.com/resizer/v2/Q65SDFK6NVAKHG2WJENT56SELM.jpg?auth=55774a607a86bb7d4d3c2884758b6c5867517e87cdfc1936f572eaa0c35b8e64&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "sucesos",
+            "sucesos españa",
+            "ola de calor",
+            "españa-sociedad",
+            "incendios españa",
+            "temporal",
+            "incendios",
+            "españa-noticias",
+            "bomberos",
+            "guardia civil"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/ultima-hora-de-los-incendios-en-espana-de-este-miercoles-13-de-agosto-todos-los-fuegos-que-siguen-activos/",
+        "date": "2025-08-12 22:24:31",
+        "sentiment_score": -0.7508183997124434
+    },
+    {
+        "title": "Gaza, al borde de la escalada",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/13/ejercito-israeli-RWLflaF02tXN96O0flPMZLK-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/gaza-borde-escalada-20250813190851-nt.html",
+        "date": "2025-08-13 01:48:02",
+        "sentiment_score": -0.1676529049873352
+    },
+    {
+        "title": "Puigdemont fija septiembre como límite para firmar la singularidad nuclear catalana",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/08/13/1418208758(2)-RGzvDnjTTO7muL5PlngHimM-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/puigdemont-fija-septiembre-limite-firmar-singularidad-nuclear-20250813173301-nt.html",
+        "date": "2025-08-13 01:39:43",
+        "sentiment_score": -0.05532953143119812
+    },
+    {
+        "title": "La presidenta de México, Claudia Sheinbaum, concretó un nuevo gesto hacia el gobierno de Donald Trump",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/13/clau-knzD-U701408781671iFB-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/presidenta-mexico-claudia-sheinbaum-concreto-nuevo-gesto-20250813033008-nt.html",
+        "date": "2025-08-13 01:32:11",
+        "sentiment_score": -0.15606340765953064
+    },
+    {
+        "title": "Identidad cristiana",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/08/13/ABCTERCERA_Identidadcristiana_MASFERRER-Rru3hvyt5M4pQtKZbYOGrFI-350x624@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/aniceto-masferrer-identidad-cristiana-20250813132848-nt.html",
+        "date": "2025-08-13 01:08:44",
+        "sentiment_score": -0.14408186078071594
+    },
+    {
+        "title": "Pedro Sánchez obliga, pero no paga",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/08/12/1498636788-RK8tDUn6lMvS49hsjNCUhbL-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/rocio-albert-pedro-sanchez-obliga-paga-20250812183135-nt.html",
+        "date": "2025-08-13 01:07:10",
+        "sentiment_score": -0.10597977042198181
+    },
+    {
+        "title": "Ryanair ultima otro recorte de casi 1 millón de asientos en España y no descarta abandonar más aeropuertos regionales",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/08/12/1485804862-ROXwyNPt3A5DJODpty2KpMJ-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/ryanair-ultima-recorte-millon-asientos-espana-descarta-20250812190322-nt.html",
+        "date": "2025-08-13 01:04:42",
+        "sentiment_score": -0.10770964622497559
+    },
+    {
+        "title": "DBRS augura un año sólido para el sector bancario a causa del crecimiento del crédito",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/08/12/1486546798-RyKVDq2c3B6CqLAnmT73IIL-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/dbrs-augura-ano-solido-sector-bancario-causa-20250812174855-nt.html",
+        "date": "2025-08-13 00:30:51",
+        "sentiment_score": -0.04432344436645508
+    },
+    {
+        "title": "No tiene límites",
+        "image_url": "https://s1.ppllstatics.com/burgosconecta/www/multimedia/2025/08/12/eclipse-U2201669506254YjE--170x119@Burgosconecta.jpeg",
+        "tags": [
+            "alfonso fernández mañueco",
+            "óscar puente",
+            "ave",
+            "incendios",
+            "guardia civil",
+            "renfe"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-diaz-limites-20250813214216-nts.html",
+        "date": "2025-08-12 22:04:01",
+        "sentiment_score": -0.12368360161781311
+    },
+    {
+        "title": "Con la Iglesia han topado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/yolanda-vallejo-iglesia-topado-20250813202425-nts.html",
+        "date": "2025-08-12 22:03:32",
+        "sentiment_score": -0.1093423068523407
+    },
+    {
+        "title": "Desalmado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/ignacio-moreno-bustamante-desalmado-20250813185608-nts.html",
+        "date": "2025-08-12 22:03:02",
+        "sentiment_score": -0.13448169827461243
+    },
+    {
+        "title": "El anillo de compromiso de Cristiano Ronaldo y Georgina Rodríguez se roba las miradas",
+        "image_url": "https://www.infobae.com/resizer/v2/WFYECSV66BHN3EEQBHVXNG5YQI.png?auth=4c5614643e176ddff8daeb0445185c663ef0e71a1bcb41a97812f51f8ea7af31&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "new york times",
+            "engagement",
+            "ronaldo",
+            "ring"
+        ],
+        "link": "https://www.infobae.com/america/the-new-york-times/2025/08/13/el-anillo-de-compromiso-de-cristiano-ronaldo-y-georgina-rodriguez-se-roba-las-miradas/",
+        "date": "2025-08-13 02:15:20",
+        "sentiment_score": 0.014040134847164154
+    },
+    {
+        "title": "Silverio Argüelles: \"La herencia que deja Gerardo Sanz es preocupante e hipoteca el futuro de Llanera\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9dc09967-88ae-4bdb-9d56-433c0d416f4c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "herencia",
+            "psoe",
+            "ayuntamiento",
+            "vecinos"
+        ],
+        "link": "https://www.lne.es/llanera/2025/08/13/silverio-arguelles-herencia-deja-gerardo-120570890.html",
+        "date": "2025-08-13 02:05:07",
+        "sentiment_score": -0.8119955062866211
+    },
+    {
+        "title": "Estatus de los vuelos en vivo: demoras y cancelaciones en la CDMX",
+        "image_url": "https://www.infobae.com/resizer/v2/CMVDXZ7HBNDMZAW7GUGISD32D4.jpg?auth=fd780efd04da6bc6657766960a77be0fdc35bc06a966a2e995d067f0537c0450&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "mexico-noticias",
+            "vuelos cancelados",
+            "aicm",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/08/13/estatus-de-los-vuelos-en-vivo-demoras-y-cancelaciones-en-la-cdmx/",
+        "date": "2025-08-13 01:17:15",
+        "sentiment_score": -0.760679854080081
+    },
+    {
+        "title": "«Nos estamos cocinando vivos»: Europa arde por incendios mientras las temperaturas superan los 38 °C",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/08/12/incendios-europa-verano-temperaturas-calor-trax/",
+        "date": "2025-08-13 01:03:44",
+        "sentiment_score": -0.7786724641919136
+    },
+    {
+        "title": "¿Cuáles son las claves para que el Real Madrid pueda salir campeón de LaLiga?",
+        "image_url": "https://pxcdn.meridiano.net/082025/1755044124716.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/cuales-son-las-claves-para-que-el-real-madrid-pueda-salir-campeon-de-laliga--202581220510",
+        "date": "2025-08-13 00:51:00",
+        "sentiment_score": 0.6322768051177263
+    },
+    {
+        "title": "Huijsen, Arda Güler y Mbappé: la columna vertebral del nuevo Real Madrid toma forma tras una pretemporada exprés",
+        "image_url": "https://s1.elespanol.com/2025/08/12/actualidad/1003743884638_257954506_1706x960.jpg?contentId=1003743884638",
+        "tags": [
+            "fútbol",
+            "real madrid cf",
+            "arda güler",
+            "xabi alonso",
+            "kylian mbappé"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250813/huijsen-arda-guler-mbappe-columna-vertebral-nuevo-real-madrid-toma-forma-pretemporada-expres/1003743884628_0.html",
+        "date": "2025-08-13 00:31:08",
+        "sentiment_score": 0.11674349009990692
+    },
+    {
+        "title": "Donnarumma anuncia que dejará el PSG tras ser excluido del partido de la Supercopa de la UEFA",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/033cf33/2147483647/strip/true/crop/2733x1822+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F00%2F11%2F677691ff28ef66512e0901fec429%2F97903cbf039f49cabfbb57fc807e8fb7",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-08-12/donnarumma-anuncia-que-dejara-el-psg-tras-ser-excluido-del-partido-de-la-supercopa-de-la-uefa",
+        "date": "2025-08-13 00:16:53",
+        "sentiment_score": -0.33290470391511917
+    },
+    {
+        "title": "¡Vinícius Jr. sigue en declive! Así fue su regreso al Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/082025/1755042496582.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/vinicius-jr-sigue-en-declive-asi-fue-su-regreso-al-real-madrid-202581220120",
+        "date": "2025-08-13 00:12:00",
+        "sentiment_score": -0.07047292590141296
+    },
+    {
+        "title": "Los 7 fichajes bomba que ha tenido el América en toda su historia",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-08/12/18/thumb/mN5GaI7RK.jpg?3%2C0=&crop=1245%3A830&resize=1250%3A830",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/fichajes-bomba-club-america-allan-saint-maximin",
+        "date": "2025-08-13 00:00:03",
+        "sentiment_score": 0.5302744805812836
+    },
+    {
+        "title": "De giras, dietas y hoteles",
+        "image_url": "https://uh.gsstatic.es/autor/carlos-olalla/10861.png",
+        "tags": [
+            "grupo serra",
+            "artículos de opinión",
+            "tribuna",
+            "medio de comunicación",
+            "prensa digital"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/08/13/2448877/giras-dietas-hoteles.html",
+        "date": "2025-08-13 02:00:01",
+        "sentiment_score": -0.11040236055850983
+    },
+    {
+        "title": "Duquende regresa a León: \"Allí donde conocen España es por el flamenco y por los toros\"",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/43/17/2/el-cantaor-flamenco-natural-de-la-ciudad-catalana-de-sabadell-juan-rafael-cortes-santiago-conocido-en-su-faceta-artistica-como-duquende-deflamenco.jpeg",
+        "tags": [
+            "lnc culturas"
+        ],
+        "link": "https://www.lanuevacronica.com/lnc-culturas/duquende-regresa-leon-alli-donde-conocen-espana-es-por-flamenco-por-toros_180509_102.html",
+        "date": "2025-08-13 02:00:00",
+        "sentiment_score": 0.30005723610520363
+    },
+    {
+        "title": "Manuel Valls: «El francés no viene a Menorca a cambiar, ni a restar»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3432755.jpg",
+        "tags": [
+            "ciudadanos franceses",
+            "ultimas noticias",
+            "palma",
+            "manuel valls",
+            "local",
+            "palma de mallorca",
+            "foro menorca illa del rei",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/13/2448981/manuel-valls-frances-viene-menorca-cambiar-restar.html",
+        "date": "2025-08-13 02:00:00",
+        "sentiment_score": -0.05625954270362854
+    },
+    {
+        "title": "Carlos Domínguez, piloto contra incendios en alerta máxima: \"Tenemos que estar en el aire en menos de 10 minutos\"",
+        "image_url": "https://s1.elespanol.com/2025/08/12/reportajes/1003743884535_257952786_1706x960.jpg?contentId=1003743884535",
+        "tags": [
+            "portugal",
+            "reportajes",
+            "incendios forestales"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250812/carlos-dominguez-piloto-incendios-alerta-maxima-aire-minutos/1003743884454_0.html",
+        "date": "2025-08-13 00:31:00",
+        "sentiment_score": -0.7100480571389198
+    },
+    {
+        "title": "Independiente vs. Mushuc Runa: ¿Un duelo desigual en Sudamericana por la actualidad de ambos?",
+        "image_url": "https://www.recentlyheard.com/wp-content/uploads/2025/08/Independiente-vs-Mushuc-Runa-%C2%BFUn-duelo-desigual-en-Sudamericana-por.jpeg",
+        "tags": [
+            "news"
+        ],
+        "link": "https://www.recentlyheard.com/independiente-vs-mushuc-runa-un-duelo-desigual-en-sudamericana-por-la-actualidad-de-ambos/",
+        "date": "2025-08-13 00:11:58",
+        "sentiment_score": 0.1300724893808365
+    },
+    {
+        "title": "La era de la \"antiambición\": cuando la pereza y la inutilidad se convierten en una conquista social",
+        "image_url": "https://s1.elespanol.com/2025/08/05/actualidad/1003743875869_257795081_1706x960.jpg?contentId=1003743875869",
+        "tags": [
+            "ensayo",
+            "libros"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/ensayo/20250812/antiambicion-pereza-inutilidad-convierten-conquista-social/1003743873772_0.html",
+        "date": "2025-08-12 23:55:00",
+        "sentiment_score": -0.8882605079561472
+    },
+    {
+        "title": "Jirafas alimentadas con helados o granizados de gusano para suricatos: así combaten la ola de calor los zoos en España",
+        "image_url": "https://s1.elespanol.com/2025/08/11/actualidad/1003743882186_257911840_1706x960.jpg?contentId=1003743882186",
+        "tags": [
+            "verano",
+            "temperaturas",
+            "zoológicos",
+            "ola de calor",
+            "historias"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20250812/jirafas-alimentadas-helados-granizados-gusano-suricatos-combaten-ola-calor-zoos-espana/1003743882097_0.html",
+        "date": "2025-08-12 23:49:00",
+        "sentiment_score": 0.3294949382543564
+    },
+    {
+        "title": "Ficha por el Nástic y horas después lo despiden por hacer comentarios catalanófobos en redes: \"Tengo otras ofertas\"",
+        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743884645_257954603_1706x960.jpg?contentId=1003743884645",
+        "tags": [
+            "el chiringuito",
+            "club gimnàstic de tarragona",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.elespanol.com/deportes/20250812/ficha-nastic-horas-despues-despiden-hacer-comentarios-catalanofobos-redes-ofertas/1003743884643_0.html",
+        "date": "2025-08-12 23:47:39",
+        "sentiment_score": -0.7964589297771454
+    },
+    {
+        "title": "Caso Martha Lía Grajales: informan que seguirá su proceso judicial en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755051473478.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "martha lía grajales",
+            "fiscalia",
+            "medida a favor",
+            "imputada"
+        ],
+        "link": "https://2001online.com/nacionales/caso-martha-lia-grajales-informan-que-seguira-su-proceso-judicial-en-casa-20258122280",
+        "date": "2025-08-13 02:08:00",
+        "sentiment_score": 0.023725345730781555
+    },
+    {
+        "title": "¿No sabes si el colesterol malo ya afecta tu salud? El National Health Service de Inglaterra recomienda revisar estos síntomas en pies y manos",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755049867258.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/no-sabes-si-el-colesterol-malo-ya-afecta-tu-salud-el-national-health-service-de-inglaterra-recomienda-revisar-estos-sintomas-en-pies-y-manos-20258122250",
+        "date": "2025-08-13 02:05:00",
+        "sentiment_score": -0.7227886505424976
+    },
+    {
+        "title": "¡Falta de higiene en las celdas! Juez ordena mejorar condiciones en centro de detención de ICE en Nueva York",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755051174774.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ice",
+            "nueva york"
+        ],
+        "link": "https://2001online.com/usa/migracion/falta-de-higiene-en-las-celdas-juez-ordena-mejorar-condiciones-en-centro-de-detencion-de-ice-en-nueva-york-20258122240",
+        "date": "2025-08-13 02:04:00",
+        "sentiment_score": -0.3096848502755165
+    },
+    {
+        "title": "¡Emocionante! Alleh y Yorghaki sorprenden con concierto y firma de autógrafos en Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755050821479.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "alleh y yorghaki",
+            "la ciudad",
+            "altamira"
+        ],
+        "link": "https://2001online.com/farandula/emocionante-alleh-y-yorghaki-sorprenden-con-concierto-y-firma-de-autografos-en-caracas-20258122230",
+        "date": "2025-08-13 02:03:00",
+        "sentiment_score": 0.12054575607180595
+    },
+    {
+        "title": "Francisco Ameliach deja la AN: este es el nuevo cargo que asumirá en el Zulia",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755048345258.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "autoridades",
+            "asamblea nacional",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/francisco-ameliach-deja-la-an-este-es-el-nuevo-cargo-que-asumira-en-el-zulia-20258122200",
+        "date": "2025-08-13 02:00:00",
+        "sentiment_score": -0.011815831065177917
+    },
+    {
+        "title": "Inicio del año escolar en Nueva York: consulte aquí el calendario oficial",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755045855762.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "clases",
+            "nueva york",
+            "cronograma"
+        ],
+        "link": "https://2001online.com/usa/servicios/inicio-del-ano-escolar-en-nueva-york-consulte-aqui-el-calendario-oficial-20258122200",
+        "date": "2025-08-13 02:00:00",
+        "sentiment_score": -0.5230680964887142
+    },
+    {
+        "title": "El tamaño de este músculo determina el tiempo que vivirás: debes mantenerlo siempre muy grande para alargar tu vida",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754939384754.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/el-tamano-de-este-musculo-determina-el-tiempo-que-viviras-debes-mantenerlo-siempre-muy-grande-para-alargar-tu-vida-20258122200",
+        "date": "2025-08-13 02:00:00",
+        "sentiment_score": 0.3881749100983143
+    },
+    {
+        "title": "¿Lograrán el sueño mundialista? La Vinotinto se prepara para buscar el pase al repechaje en septiembre",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755051423286.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "la vinotinto",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/deportes/lograran-el-sueno-mundialista-la-vinotinto-se-prepara-para-buscar-el-pase-al-repechaje-en-septiembre-202581221510",
+        "date": "2025-08-13 01:51:00",
+        "sentiment_score": 0.21991869807243347
+    },
+    {
+        "title": "Yordano comparte la historia de su padre: así fue como construyó un imperio publicitario",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755049467618.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "yordano",
+            "x",
+            "memorias"
+        ],
+        "link": "https://2001online.com/farandula/yordano-comparte-la-historia-de-su-padre-asi-fue-como-construyo-un-imperio-publicitario-202581221390",
+        "date": "2025-08-13 01:39:00",
+        "sentiment_score": 0.25079936534166336
+    },
+    {
+        "title": "Venezolanos en el exterior: así pueden tramitar la partida de nacimiento en línea a través del Saren",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755010094068.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "venezolanos en el exterior",
+            "saren"
+        ],
+        "link": "https://2001online.com/servicios/venezolanos-en-el-exterior-asi-pueden-tramitar-la-partida-de-nacimiento-en-linea-a-traves-del-saren-20258122100",
+        "date": "2025-08-13 01:00:00",
+        "sentiment_score": 0.3243731539696455
     }
 ];
