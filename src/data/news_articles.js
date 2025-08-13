@@ -1,553 +1,5 @@
 export default [
     {
-        "title": "El mando del aire acondicionado esconde un botón que no conoces y que ayuda a ahorrar energía",
-        "image_url": "https://www.infobae.com/resizer/v2/Z352P6JQXBCC3MPHJYQVGZZKFA.jpg?auth=a33ee8f2daba99f7e65fe3013c8f992c7749fa3a9ac64e0bc919be85ed106a00&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "aire acondicionado",
-            "españa-sociedad",
-            "ahorro energético",
-            "electrodomesticos",
-            "humedad ambiental",
-            "españa-noticias",
-            "temperatura",
-            "ola de calor",
-            "ahorro de energía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/el-mando-del-aire-acondicionado-esconde-un-boton-que-no-conoces-y-que-ayuda-a-ahorrar-energia/",
-        "date": "2025-08-09 17:04:29",
-        "sentiment_score": -0.47430622950196266
-    },
-    {
-        "title": "Uno de los pueblos más bonitos de España está en Cataluña: casas blancas, mar color turquesa y rodeado de naturaleza",
-        "image_url": "https://www.infobae.com/resizer/v2/JT3HAHSG3VCADFGMWTTPDCTD7E.jpg?auth=26ad8c8eee91bed5fbd00184e44646cb64d3a7e6458cf2f41ecd2300d48a1f1b&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "pueblos de espana",
-            "españa-noticias",
-            "national geographic",
-            "turismo",
-            "mar",
-            "españa-viajes",
-            "viajes"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/uno-de-los-pueblos-mas-bonitos-de-espana-esta-en-cataluna-casas-blancas-mar-color-turquesa-y-rodeado-de-naturaleza/",
-        "date": "2025-08-09 17:03:52",
-        "sentiment_score": 0.8678857712075114
-    },
-    {
-        "title": "Condenado el hombre que encendió un cigarrillo con la llama del soldado desconocido del Arco del Triunfo de París: “La tontería del siglo”",
-        "image_url": "https://www.infobae.com/resizer/v2/SZY5J5GOGJFRGQXCYLR2XZLZ4E.jpg?auth=3b0396969c8e1130f8181a2ceca68d9ce4078a21b2319bc99d0450cda07dd4e5&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "sucesos españa",
-            "sucesos",
-            "justicia",
-            "francia",
-            "españa-internacional",
-            "españa-noticias",
-            "tribunales"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/condenado-el-hombre-que-encendio-un-cigarrillo-con-la-llama-del-soldado-desconocido-del-arco-del-triunfo-de-paris-la-tonteria-del-siglo/",
-        "date": "2025-08-09 16:36:14",
-        "sentiment_score": -0.7533910907804966
-    },
-    {
-        "title": "Estos son los hábitos sencillos que harán que despertarse por las mañanas sea mucho más fácil",
-        "image_url": "https://www.infobae.com/resizer/v2/IDXPYGPDVFEPRNZDS224OYQVWY.png?auth=f261f65950db59fff11d0b7d621638c128cf75fe1ec44742b11a74fbbf495a9a&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-sociedad",
-            "dormir bien",
-            "habitos saludables",
-            "dormir",
-            "españa-noticias",
-            "descansar",
-            "buenos habitos",
-            "consejos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/estos-son-los-habitos-sencillos-que-haran-que-despertarse-por-las-mananas-sea-mucho-mas-facil/",
-        "date": "2025-08-09 16:14:36",
-        "sentiment_score": -0.7493326440453529
-    },
-    {
-        "title": "Receta de cuña de crema y chocolate, un dulce típico de Sevilla que destaca por su esponjosidad y su delicioso relleno",
-        "image_url": "https://www.infobae.com/resizer/v2/K4QIAIHBR5HPRE7YGMI5K56UPU.jpg?auth=c4eb115a16c9bf568b749fe07e99ed7fd83808d92794ce965227af28f9645a9d&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-gastronomía",
-            "productos españa",
-            "españa noticias",
-            "sevilla",
-            "chocolate",
-            "recetas españa",
-            "postres",
-            "recetas",
-            "andalucía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/receta-de-cuna-de-crema-y-chocolate-un-dulce-tipico-de-sevilla-que-destaca-por-su-esponjosidad-y-su-delicioso-relleno/",
-        "date": "2025-08-09 16:14:10",
-        "sentiment_score": 0.5059647858142853
-    },
-    {
-        "title": "Turistas y vecinos cuentan cómo sobreviven a la ola de calor en la Puerta del Sol de Madrid: “Es insoportable”",
-        "image_url": "https://www.infobae.com/resizer/v2/QEZJ3WEQ6FG6XMP2QJ6XGKXIZI.jpg?auth=5adf0aa700405022f21bd7de66355486d8aa676dce2b325ae7f0337e0c5ec766&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-sociedad",
-            "golpe de calor",
-            "españa-noticias",
-            "calor",
-            "clima",
-            "temperatura",
-            "ola de calor",
-            "tiempo en españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/turistas-y-vecinos-cuentan-como-sobreviven-a-la-ola-de-calor-en-la-puerta-del-sol-de-madrid-es-insoportable/",
-        "date": "2025-08-09 16:03:13",
-        "sentiment_score": -0.7130200192332268
-    },
-    {
-        "title": "Un abogado laboralista advierte sobre los cambios ilegales en las condiciones de trabajo: “Ahora ya conoces tus derechos, no permitas que sean vulnerados”",
-        "image_url": "https://www.infobae.com/resizer/v2/E6DRDBG66BBLXDTQ4X6PCWZYMA.png?auth=afccb7faf6d4ab0eba832817adaa0c6b2c0ddc157ac229517e64fbd3449841d7&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "indemnizaciones",
-            "españa-economia",
-            "tiktok españa",
-            "derechos laborales",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/un-abogado-laboralista-advierte-sobre-los-cambios-ilegales-en-las-condiciones-de-trabajo-ahora-ya-conoces-tus-derechos-no-permitas-que-sean-vulnerados/",
-        "date": "2025-08-09 15:51:17",
-        "sentiment_score": 0.36469341814517975
-    },
-    {
-        "title": "España logra un oro, una plata y otros dos bronces en los Juegos Mundiales de Chengdu",
-        "image_url": "https://www.infobae.com/resizer/v2/75OSBH37ZVBQ3K3JP73RBVX3WY.jpg?auth=c5c474e9e55683363d05776cd1ca74a048ae3c7722b5908a9fee37f55e537d1c&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/08/09/espana-logra-un-oro-una-plata-y-otros-dos-bronces-en-los-juegos-mundiales-de-chengdu/",
-        "date": "2025-08-09 15:49:20",
-        "sentiment_score": 0.4708482250571251
-    },
-    {
-        "title": "Super Once: estos son los resultados del Sorteo 4",
-        "image_url": "https://www.infobae.com/resizer/v2/JHBUAUX5SBC7XDHYK3AJIAK4MA.jpg?auth=6321c084e0c20542cac18ad56f2b3e07889bb0e280070f0dfa9895eb3802317a&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-economía",
-            "super once",
-            "noticias",
-            "españa-loterías"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/super-once-estos-son-los-resultados-del-sorteo-4/",
-        "date": "2025-08-09 15:45:23",
-        "sentiment_score": 0.023861072957515717
-    },
-    {
-        "title": "Los bancos aprovechan la opa de BBVA a Sabadell para captar clientes con dinero en efectivo y rentabilidad",
-        "image_url": "https://www.infobae.com/resizer/v2/ZTPOCRFDKJASBJOSW3KG5EE3VQ.jpg?auth=3ef1d3afa53281449d28431f7b2fc3b4f121c94c10736000ad045bc3d7a83619&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-economia",
-            "banco sabadell",
-            "bbva",
-            "españa-noticias",
-            "bancos españa",
-            "banco santander",
-            "bankinter"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/los-bancos-aprovechan-la-opa-de-bbva-a-sabadell-para-captar-clientes-con-dinero-en-efectivo-y-rentabilidad/",
-        "date": "2025-08-09 15:42:36",
-        "sentiment_score": 0.34905552491545677
-    },
-    {
-        "title": "Ministros por conveniencia",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/08/09/cartas-director-1200x630-U82734820183frr-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-ministros-conveniencia-20250809185820-nt.html",
-        "date": "2025-08-09 16:58:21",
-        "sentiment_score": -0.16486552357673645
-    },
-    {
-        "title": "Arendt tenía razón",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/08/10/1430553438-U51824818218muR-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/karina-sainz-borgo-arendt-razon-20250810162658-nt.html",
-        "date": "2025-08-09 16:58:15",
-        "sentiment_score": -0.14346089959144592
-    },
-    {
-        "title": "Hemos aprendido todo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/08/10/1476615599-U08575777227VfQ-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/salvador-sostres-aprendido-20250810185754-nt.html",
-        "date": "2025-08-09 16:58:03",
-        "sentiment_score": -0.11820468306541443
-    },
-    {
-        "title": "Clamor en Barcelona contra la ocupación de Israel en Gaza: “Mucho hablar de derechos humanos para luego no respetarlos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I2N7XGOKZFIAXP6VQZW4KOMPMA.jpg?auth=a40fc0d91d786792a3ff1cab7f58c769d80d9756e8bed52a99584b9b77ea3f15&width=1200",
-        "tags": [
-            "conflicto árabe-israelí",
-            "franja gaza",
-            "israel",
-            "barcelona",
-            "genocidio",
-            "cataluña",
-            "palestina",
-            "guerra",
-            "protestas sociales",
-            "manifestaciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-09/clamor-en-barcelona-contra-la-ocupacion-de-israel-en-gaza-mucho-hablar-de-derechos-humanos-para-luego-no-respetarlos.html",
-        "date": "2025-08-09 16:32:09",
-        "sentiment_score": -0.4767869636416435
-    },
-    {
-        "title": "Morirse en España cada vez es más caro",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FRPJ73ZBNBEQZF636NX3BTKQBY.jpg?auth=76201261d6dcc3d40642ad8411997f887d57823d22e425cb1855b91b49a72934&width=1200",
-        "tags": [
-            "economía",
-            "envejecimiento población",
-            "mapfre",
-            "empresas",
-            "incineración cadáveres",
-            "aseguradoras",
-            "seguros decesos",
-            "servicios funerarios"
-        ],
-        "link": "https://elpais.com/economia/negocios/2025-08-09/morirse-en-espana-es-cada-vez-mas-caro.html",
-        "date": "2025-08-09 15:40:00",
-        "sentiment_score": -0.5500332154333591
-    },
-    {
-        "title": "Un experto en vivienda vaticina un negro panorama para el mercado del alquiler: “Está en estado de emergencia”",
-        "image_url": "https://s1.elespanol.com/2025/07/10/actualidad/1003743842003_257174288_1706x960.jpg?contentId=1003743842003",
-        "tags": [
-            "idealista",
-            "sociedad",
-            "alquiler de viviendas",
-            "vivienda"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20250809/experto-vivienda-vaticina-negro-panorama-mercado-alquiler-emergencia/1003743875177_0.html",
-        "date": "2025-08-09 16:34:06",
-        "sentiment_score": -0.1296747326850891
-    },
-    {
-        "title": "La nueva lista de River Plate para los octavos de final de la Copa Libertadores: los 5 cambios, quién usará la 10 y las salidas de peso",
-        "image_url": "https://www.infobae.com/resizer/v2/5OSV6I7MIVEKXG3JJ76GKPQYYA.JPG?auth=7c36dc16ea4474ffe64791775b8b39669bf1a6bb2acbd6124de69eefb21511e5&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "river plate",
-            "marcelo gallardo",
-            "copa libertadores",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/08/09/la-nueva-lista-de-river-plate-para-los-octavos-de-final-de-la-copa-libertadores-los-5-cambios-quien-usara-la-10-y-las-salidas-de-peso/",
-        "date": "2025-08-09 16:19:43",
-        "sentiment_score": 0.29256099462509155
-    },
-    {
-        "title": "Toledo, en alerta por altas temperaturas este domingo",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/e519b8b5-8498-4fcc-bd2fc3ffa2cc8f0f.jpg",
-        "tags": [
-            "cuenca",
-            "la palma",
-            "baleares",
-            "lanzarote",
-            "canarias",
-            "navarra",
-            "españa",
-            "depresión",
-            "toledo",
-            "cáceres",
-            "lleida",
-            "galicia",
-            "barcelona",
-            "la rioja",
-            "aemet",
-            "ciudad real",
-            "meteorología",
-            "tenerife",
-            "gran canaria"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z7a19712a-e9e4-4324-9885a5ebf7c020a4/202508/toledo-en-alerta-por-altas-temperaturas-este-domingo",
-        "date": "2025-08-09 16:04:30",
-        "sentiment_score": -0.21103693544864655
-    },
-    {
-        "title": "Iker Casillas responde a otra chica que asegura haber hablado \"íntimamente\" con él: \"Me buscó ella\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/08/09/6897645428d5a.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.20minutos.es/television/iker-casillas-responde-chica-asegura-haber-hablado-intimamente-me-busco_6235430_0.html",
-        "date": "2025-08-09 15:44:02",
-        "sentiment_score": -0.777507814578712
-    },
-    {
-        "title": "La agresividad se dispara en las redes sociales: un 25% de las respuestas a la cuenta de X de Pedro Sánchez son descalificaciones",
-        "image_url": "https://static.grupojoly.com/clip/d885f9fe-ae9c-4d4e-aad9-88d26a2a0c51_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dispara",
-            "sociales",
-            "agresividad",
-            "25",
-            "redes"
-        ],
-        "link": "https://www.diariodejerez.es/espana/agresividad-dispara-redes-sociales-25_0_2004544753.html",
-        "date": "2025-08-09 15:28:49",
-        "sentiment_score": -0.90521898586303
-    },
-    {
-        "title": "Toledo y Ciudad Real entre las 44 provincias en alerta este domingo por altas temperaturas",
-        "image_url": "http://st1.lacerca.com/imagenes/view/86adec3236a7f44f47e41dc86f29ceaa.jpg",
-        "tags": [
-            "noticias",
-            "castilla-la mancha"
-        ],
-        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/toledo-ciudad-real-44-provincias-domingo-altas-temperaturas-777721-1.html",
-        "date": "2025-08-09 15:26:00",
-        "sentiment_score": -0.027389034628868103
-    },
-    {
-        "title": "Morata, el arte de ser un nómada",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/08/09/morata-seleccion-kh4G-U2302602499756PZH-1200x840@RC.JPG",
-        "tags": [
-            "arte",
-            "nomada",
-            "morata"
-        ],
-        "link": "https://www.ideal.es/deportes/futbol/morata-arte-nomada-20250809163118-ntrc.html",
-        "date": "2025-08-09 14:31:20",
-        "sentiment_score": 0.18735014647245407
-    },
-    {
-        "title": "Manolo Vital 'vuelve' a Valencia de Alcántara: este es el bonito homenaje que le hace su pueblo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1e2a34ba-c8d0-4292-bc23-eaaaf56fc182_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "valencia",
-            "provincia de cáceres",
-            "extremadura",
-            "ayuntamiento"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres/2025/08/09/valencia-alcantara-manolo-vital-estacion-autobuses-120492954.html",
-        "date": "2025-08-09 17:11:33",
-        "sentiment_score": 0.30449262261390686
-    },
-    {
-        "title": "Un vídeo viral lleva a la Guardia Civil a rescatar a un perro maltratado por su dueño en Barcelona",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/08/09/2025080919023880747.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/espana/video-viral-lleva-guardia-civil-rescatar-perro-maltratado-dueno-barcelona/202508091905081403446.html",
-        "date": "2025-08-09 17:05:08",
-        "sentiment_score": -0.7514824699610472
-    },
-    {
-        "title": "Emprendedoras venezolanas empoderan a las mujeres a través de la IA",
-        "image_url": "https://ciudadmcy.info.ve/wp-content/uploads/2025/08/Emprendedoras-venezolanas-empoderan-a-las-mujeres-a-traves-de-la-IA.jpg",
-        "tags": [
-            "especial"
-        ],
-        "link": "https://ciudadmcy.info.ve/emprendedoras-venezolanas-empoderan-a-las-mujeres-a-traves-de-la-ia",
-        "date": "2025-08-09 17:02:03",
-        "sentiment_score": -0.04241088032722473
-    },
-    {
-        "title": "El Como de Iván Azón aspira a llevarse el Gamper de Barcelona",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/08/07/ivan-azon-durante-el-partido-del-como-ante-el-betis.r_d.1617-924-3299.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.heraldo.es/noticias/deportes/futbol/2025/08/09/el-como-de-ivan-azon-aspira-a-llevarse-el-gamper-de-barcelona-1845844.html",
-        "date": "2025-08-09 16:53:05",
-        "sentiment_score": 0.37927069514989853
-    },
-    {
-        "title": "Calor, avería y siete horas para llegar de Barcelona a Pamplona: \"Tenemos pocos trenes y van así\"",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2025/03/16/67d72deb20a17.jpeg",
-        "tags": [
-            "navarra"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/navarra/2025/08/09/calor-averia-siete-horas-calor-llegar-barcelona-pamplona-pocos-trenes-asi-656778-300.html",
-        "date": "2025-08-09 16:51:21",
-        "sentiment_score": -0.7732903528958559
-    },
-    {
-        "title": "El Reino Unido acoge una cumbre preparatoria de la reunión de Trump y Putin en Alaska",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5DPWHV676BO7RE454YYPFV4ACA.jpg?auth=447511e60325f16332b9e5963a911b8fb5c189b46e221f6eefb0938fb781bfa3&width=1200",
-        "tags": [
-            "ucrania",
-            "reino unido",
-            "donald trump",
-            "estados unidos",
-            "vladimir putin",
-            "keir starmer",
-            "volodimir zelenski",
-            "guerra de rusia en ucrania"
-        ],
-        "link": "https://elpais.com/internacional/2025-08-09/el-reino-unido-acoge-una-cumbre-preparatoria-de-la-reunion-de-trump-y-putin-en-alaska.html",
-        "date": "2025-08-09 16:51:00",
-        "sentiment_score": -0.24136022478342056
-    },
-    {
-        "title": "Valencia de Alcántara rinde homenaje a Manolo Vital y pone su nombre a la estación de autobuses de la localidad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b6dcee2-bce0-4128-87a2-bc666501ce61_media-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20250809/valencia-alcantara-rinde-homenaje-manolo-120492656",
-        "date": "2025-08-09 16:34:37",
-        "sentiment_score": -0.14319907128810883
-    },
-    {
-        "title": "¿Quieres proteger tus chats? WhatsApp lanza nueva actualización de privacidad avanzada: guía para activarla",
-        "image_url": "https://pxcdn.2001online.com/2001/082025/1754757929418.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "nueva herramienta",
-            "\"privacidad avanzada en chats\"",
-            "whatsapp"
-        ],
-        "link": "https://2001online.com/curiosidades/quieres-proteger-tus-chats-whatsapp-lanza-nueva-actualizacion-de-privacidad-avanzada-guia-para-activarla-2025891330",
-        "date": "2025-08-09 17:03:00",
-        "sentiment_score": 0.2768933270126581
-    },
-    {
-        "title": "Gobierno incauta más de 1.100 cajas de explosivos: responsabiliza a María Corina Machado y a Estados Unidos",
-        "image_url": "https://pxcdn.2001online.com/2001/082025/1754757791462.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "delitos",
-            "nacionales",
-            "diosdado cabello",
-            "explosivos"
-        ],
-        "link": "https://2001online.com/nacionales/gobierno-incauta-mas-de-1-100-cajas-de-explosivos-responsabiliza-a-maria-corina-machado-y-a-estados-unidos-20258912520",
-        "date": "2025-08-09 16:52:00",
-        "sentiment_score": -0.27534614875912666
-    },
-    {
-        "title": "¡Oportunidad de empleo! Realizan jornada de captación este 12 de agosto: solo tres requisitos",
-        "image_url": "https://pxcdn.2001online.com/2001/082025/1754757026287/empleo.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "captación",
-            "empleo",
-            "epa",
-            "jornada"
-        ],
-        "link": "https://2001online.com/servicios/oportunidad-de-empleo-realizan-jornada-de-captacion-este-12-de-agosto-solo-tres-requisitos-20258912320",
-        "date": "2025-08-09 16:32:00",
-        "sentiment_score": 0.07656262814998627
-    },
-    {
-        "title": "Feria Estatal de Illinois 2025: estas son las actividades para disfrutar hasta el 17 de agosto",
-        "image_url": "https://pxcdn.2001online.com/2001/082025/1754753924278.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "estados unidos",
-            "eeuu",
-            "diario 2001",
-            "espectáculos gratuitos feria estatal de illinois",
-            "feria estatal de illinois",
-            "usa",
-            "conciertos gratuitos feria estatal de illinois",
-            "temática diaria feria estatal de illinois",
-            "actividades feria estatal de illinois"
-        ],
-        "link": "https://2001online.com/usa/servicios/feria-estatal-de-illinois-2025-estas-son-las-actividades-para-disfrutar-hasta-el-17-de-agosto-20258912150",
-        "date": "2025-08-09 16:15:00",
-        "sentiment_score": 0.3116000294685364
-    },
-    {
-        "title": "¡Lamentable! Explosión de tubería de gas directo deja varios lesionados: aquí los detalles",
-        "image_url": "https://pxcdn.2001online.com/2001/082025/1754753550145.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "anzoátegui",
-            "accidente",
-            "tragedia",
-            "explosion",
-            "sucesos"
-        ],
-        "link": "https://2001online.com/sucesos/lamentable-explosion-de-tuberia-de-gas-directo-deja-varios-lesionados-aqui-los-detalles-20258911460",
-        "date": "2025-08-09 15:46:00",
-        "sentiment_score": -0.4248560778796673
-    },
-    {
-        "title": "¡La familia crece! Rafael Nadal y Mery Perelló dan la bienvenida a su segundo hijo",
-        "image_url": "https://pxcdn.2001online.com/2001/082025/1754751046967.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "tenis",
-            "nuevo hijo",
-            "rafael nadal"
-        ],
-        "link": "https://2001online.com/deportes/la-familia-crece-rafael-nadal-y-mery-perello-dan-la-bienvenida-a-su-segundo-hijo--2025891180",
-        "date": "2025-08-09 15:08:00",
-        "sentiment_score": 0.09415303170681
-    },
-    {
-        "title": "Oferta de empleo en Miami: buscan baristas y les pagan hasta $21 por hora",
-        "image_url": "https://pxcdn.2001online.com/2001/082025/1754750835340.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "estados unidos",
-            "trabajos en illinois",
-            "eeuu",
-            "empleos en illinois",
-            "vacante de trabajo chicago",
-            "diario 2001",
-            "oferta de empleo en chicago",
-            "usa",
-            "empleo barista chicago",
-            "buscan barista en chicago"
-        ],
-        "link": "https://2001online.com/usa/servicios/oferta-de-empleo-en-miami-buscan-baristas-y-les-pagan-hasta-21-por-hora-20258910500",
-        "date": "2025-08-09 14:50:00",
-        "sentiment_score": 0.10354024916887283
-    },
-    {
-        "title": "Oferta de empleo en Chicago: buscan baristas y les pagan hasta $21 por hora",
-        "image_url": "https://pxcdn.2001online.com/2001/082025/1754750835340.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "empleos en illinois",
-            "oferta de empleo en chicago",
-            "buscan barista en chicago",
-            "diario 2001",
-            "eeuu",
-            "usa",
-            "vacante de trabajo chicago",
-            "empleo barista chicago",
-            "trabajos en illinois",
-            "estados unidos"
-        ],
-        "link": "https://2001online.com/usa/servicios/oferta-de-empleo-en-chicago-buscan-baristas-y-les-pagan-hasta-21-por-hora-20258910500",
-        "date": "2025-08-09 14:50:00",
-        "sentiment_score": 0.10354024916887283
-    },
-    {
-        "title": "Saime: conoce los requisitos clave para tramitar el pasaporte a un menor de edad con uno de los padres",
-        "image_url": "https://pxcdn.2001online.com/2001/082025/1754747599371.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "requisitos",
-            "menor de edad",
-            "saime",
-            "pasaporte"
-        ],
-        "link": "https://2001online.com/servicios/saime-conoce-los-requisitos-clave-para-tramitar-el-pasaporte-a-un-menor-de-edad-con-uno-de-los-padres-20258910410",
-        "date": "2025-08-09 14:41:00",
-        "sentiment_score": -0.3272406943142414
-    },
-    {
-        "title": "Crimen violento en Washington DC: Donald Trump anunciará medidas para el 11 de agosto",
-        "image_url": "https://pxcdn.2001online.com/2001/082025/1754750383509.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "eeuu",
-            "delitos",
-            "donald trump",
-            "estados unidos"
-        ],
-        "link": "https://2001online.com/usa/internacionales/crimen-violento-en-washington-dc-donald-trump-anunciara-medidas-para-el-11-de-agosto-20258910410",
-        "date": "2025-08-09 14:41:00",
-        "sentiment_score": 0.18147014826536179
-    },
-    {
         "title": "Resultados ganadores de la lotería 6/49 de este 9 de agosto",
         "image_url": "https://www.infobae.com/resizer/v2/MKIVKEXZ7FAA3GSZXEOUYC24ZY.jpg?auth=0d3a09096e3675ae539775754e0d00e772eb057ee536ddf36c42697fc44f9654&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -637,107 +89,6 @@ export default [
         "link": "https://www.infobae.com/espana/2025/08/09/las-perseidas-2025-la-lluvia-de-estrellas-mas-intensa-de-los-ultimos-anos-las-bolas-de-fuego-seguiran-viendose-incluso-con-luz-lunar/",
         "date": "2025-08-09 19:23:57",
         "sentiment_score": 0.16911763697862625
-    },
-    {
-        "title": "Una madre deberá devolver a sus tres hijos 7.600 euros tras ocultar parte de la herencia de su difunto marido",
-        "image_url": "https://www.infobae.com/resizer/v2/V5XSMYENC5BFJK75ZUU452P4ZY.jpg?auth=6b088f4bd27a4f3b36be122d6fead81cb5dcf22133201840b673bb2ce3ae71d6&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "herencia",
-            "españa-economía",
-            "dinero",
-            "españa-noticias",
-            "juicio",
-            "herencias españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/una-madre-debera-devolver-a-sus-tres-hijos-7600-euros-tras-ocultar-parte-de-la-herencia-de-su-difunto-marido/",
-        "date": "2025-08-09 17:51:20",
-        "sentiment_score": -0.49789797328412533
-    },
-    {
-        "title": "Un mecánico explica cómo coger los badenes sin poner el coche en riesgo: “Ve desacelerando poquito a poco”",
-        "image_url": "https://www.infobae.com/resizer/v2/2A7YD3J5RJFRLFPMVEGRLANRTQ.jpg?auth=54711b16b1775cfc7790a35804d8113613707d82f8cfb2621a4b842a12f2eafb&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "conducir",
-            "carreteras",
-            "tiktok",
-            "vehículos",
-            "dgt",
-            "españa-noticias",
-            "viajes",
-            "transporte",
-            "españa-sociedad",
-            "coches"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/un-mecanico-explica-como-coger-los-badenes-sin-poner-el-coche-en-riesgo-ve-desacelerando-poquito-a-poco/",
-        "date": "2025-08-09 17:42:03",
-        "sentiment_score": -0.7006057295948267
-    },
-    {
-        "title": "Un camión impide el paso a una ambulancia que trasladaba de urgencia vital a dos gemelas prematuras y los padres denuncian a la empresa: “Podrían haber muerto”",
-        "image_url": "https://www.infobae.com/resizer/v2/YXMQTLHCAVGPHJI4ZBMRRGJRI4.jpg?auth=144baf1eef0ddba7302d6454abb23f69c6be429a09eba5e7d0f67db92ddca745&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "ambulancia",
-            "francia",
-            "españa-noticias",
-            "bebes",
-            "españa-sociedad",
-            "urgencia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/un-camion-impide-el-paso-a-una-ambulancia-que-trasladaba-de-urgencia-vital-a-dos-gemelas-prematuras-y-los-padres-denuncian-a-la-empresa-podrian-haber-muerto/",
-        "date": "2025-08-09 17:39:23",
-        "sentiment_score": -0.8004929106682539
-    },
-    {
-        "title": "Un analista inmobiliario ve imposible alquilar una vivienda en España después del verano: “Vienen tiempos complicados”",
-        "image_url": "https://www.infobae.com/resizer/v2/2OYQYITAGBHJ3P45ZBN7T6C5WE.png?auth=8276b65e23ff46f8a1d9e32580442fa441a50c88f92b1a43f46f262fb4d18011&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "compra de vivienda",
-            "alquileres españa",
-            "españa-noticias",
-            "alquileres",
-            "españa-economia",
-            "vivienda",
-            "11-s"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/09/un-analista-inmobiliario-ve-imposible-alquilar-una-vivienda-en-espana-despues-del-verano-vienen-tiempos-complicados/",
-        "date": "2025-08-09 17:21:47",
-        "sentiment_score": 0.08132469654083252
-    },
-    {
-        "title": "¿Una negociación sin el país agredido?",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/08/10/1499603101-U37350261055BxV-1200x630@diario_abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/editorial-negociacion-pais-agredido-20250810200551-nt.html",
-        "date": "2025-08-09 18:05:55",
-        "sentiment_score": -0.7650528214871883
-    },
-    {
-        "title": "Gente útil",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/08/05/nivea-lata-azul-kucB--170x119@Ideal.jpg",
-        "tags": [
-            "el pais",
-            "murcia",
-            "paz",
-            "atapuerca",
-            "jeffrey epstein",
-            "benjamín netanyahu",
-            "jennifer aniston"
-        ],
-        "link": "https://www.abc.es/opinion/rosa-belmonte-gente-util-20250810200052-nt.html",
-        "date": "2025-08-09 18:00:59",
-        "sentiment_score": -0.049063920974731445
-    },
-    {
-        "title": "Manosear a la víctima",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/08/10/Captura-U87787215461TrA-1200x630@diario_abc.PNG",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.abc.es/opinion/rebeca-argudo-manosear-victima-20250810183250-nt.html",
-        "date": "2025-08-09 17:20:07",
-        "sentiment_score": -0.1876843124628067
     },
     {
         "title": "El Real Zaragoza vence a la S.D. Huesca desde los once metros en el último partido de pretemporada",
@@ -8762,5 +8113,566 @@ export default [
         "link": "https://2001online.com/servicios/venezolanos-en-el-exterior-asi-pueden-tramitar-la-partida-de-nacimiento-en-linea-a-traves-del-saren-20258122100",
         "date": "2025-08-13 01:00:00",
         "sentiment_score": 0.3243731539696455
+    },
+    {
+        "title": "Los 5 snacks “anti-cortisol” que te ayudan a controlar el estrés y mejorar el estado de ánimo",
+        "image_url": "https://www.infobae.com/resizer/v2/ZEWFNYU2CJA4JBJLJ6OAKYV6JM.jpeg?auth=99ebc72de30a0c23c6f2594410389690e592217867299359b130247a40771341&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "estado de ánimo",
+            "nutrición españa",
+            "nutrición",
+            "cortisol",
+            "alimentación saludable",
+            "estrés",
+            "españa-noticias",
+            "españa-salud"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/los-5-snacks-anti-cortisol-que-te-ayudan-a-controlar-el-estres-y-mejorar-el-estado-de-animo/",
+        "date": "2025-08-13 06:37:14",
+        "sentiment_score": -0.7244596518576145
+    },
+    {
+        "title": "Un asesor financiero desvela algunos trucos para reducir hasta siete años de la hipoteca",
+        "image_url": "https://www.infobae.com/resizer/v2/PPR2FROKRZCXJIKCOF6DAV2QLU.png?auth=987d8c258011d1a396839ec50cc17fe70065d42a3573b89bfa30d516912ad541&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "hipotecas españa",
+            "españa-economia",
+            "vivienda",
+            "tiktok españa",
+            "españa-noticias",
+            "hipotecas",
+            "vivienda españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/un-asesor-financiero-desvela-algunos-trucos-para-reducir-hasta-siete-anos-de-la-hipoteca/",
+        "date": "2025-08-13 06:36:17",
+        "sentiment_score": -0.23024021834135056
+    },
+    {
+        "title": "Jesús Calleja, muy preocupado, emite un comunicado desde Canadá: “Los incendios en mi tierra están siendo muy tristes... Hay mucha destrucción”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "jesús calleja",
+            "telecinco",
+            "españa-entretenimiento",
+            "españa-noticias",
+            "mediaset españa",
+            "televisión españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/jesus-calleja-muy-preocupado-emite-un-comunicado-desde-canada-los-incendios-en-mi-tierra-estan-siendo-muy-tristes-hay-mucha-destruccion/",
+        "date": "2025-08-13 06:32:18",
+        "sentiment_score": -0.24869344383478165
+    },
+    {
+        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades este 13 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-economia",
+            "gasolina",
+            "noticias",
+            "precio gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-este-13-de-agosto/",
+        "date": "2025-08-13 06:31:03",
+        "sentiment_score": 0.07679241895675659
+    },
+    {
+        "title": "El método 50 - 30 - 20 que te ayuda a ahorrar cada mes",
+        "image_url": "https://www.infobae.com/resizer/v2/QOT55Q5CHFA6XEQRAK25EIHB34.jpg?auth=1e1b3fc250b731d8bb47304f873e66da9f3563b0cc6fde27a43337e1ccd5ee9d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "ingresos",
+            "calculadora financiera",
+            "aplicaciones financieras",
+            "españa-economia",
+            "finanzas personales",
+            "españa-noticias",
+            "ahorro",
+            "gastos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/el-metodo-50-30-20-que-te-ayuda-a-ahorrar-cada-mes/",
+        "date": "2025-08-13 06:29:29",
+        "sentiment_score": 0.5612436532974243
+    },
+    {
+        "title": "Improcedente el despido de un visitador médico de ISDIN al que un detective atribuía solo 5 de las 51 visitas que declaró",
+        "image_url": "https://www.infobae.com/resizer/v2/QUD2TH57J5G4DOKEXHH2NBKMEA.jpg?auth=02f9462e0edcadc5386406ee3bea134789f02c8690fa1cd38b8d02adc4061d11&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-nacional",
+            "tribunales españa",
+            "juicios",
+            "justicia",
+            "empleo en españa",
+            "despido improcedente",
+            "galicia",
+            "despido disciplinario",
+            "sentencias",
+            "despido"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/improcedente-el-despido-de-un-visitador-medico-de-isdin-al-que-un-detective-atribuia-solo-5-de-las-51-visitas-que-declaro/",
+        "date": "2025-08-13 05:54:56",
+        "sentiment_score": -0.30500734597444534
+    },
+    {
+        "title": "La DGT instala dos nuevos radares en Galicia: cómo son y en qué carreteras se encuentran",
+        "image_url": "https://www.infobae.com/resizer/v2/2XF4VZB3FZEJRC7MWJGG3X4NXQ.jpg?auth=fa827d5bf240fb402c36c71fcb1c04b85fe5921bedcb9576c8741843bae20949&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-nacional",
+            "dgt",
+            "radares de tramo",
+            "españa-noticias",
+            "galicia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/la-dgt-instala-dos-nuevos-radares-de-tramo-en-galicia-estos-son-los-puntos-controlados/",
+        "date": "2025-08-13 05:50:57",
+        "sentiment_score": 0.42683248966932297
+    },
+    {
+        "title": "Los tres alimentos prohibidos si tienes hígado graso, la enfermedad que sufren 10 millones de personas en España",
+        "image_url": "https://www.infobae.com/resizer/v2/G2B4NTCEMNCR7MNYLUZGPOOWYY.jpg?auth=4bad622177755f5c4db37a3c785eeb7af019dd0079198e89edbe54fa9df3c491&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-salud",
+            "nutrición españa",
+            "hígado graso",
+            "españa-noticias",
+            "alimentación saludable",
+            "nutrición"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/los-tres-alimentos-prohibidos-si-tienes-higado-graso-la-enfermedad-que-sufren-10-millones-de-personas-en-espana/",
+        "date": "2025-08-13 05:47:07",
+        "sentiment_score": -0.6806904245167971
+    },
+    {
+        "title": "Tipo de cambio: precio del euro frente al dólar hoy 13 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/ESK62KO465BPPJHALZ2MW52HZI.jpg?auth=07bf53b2db812406e917e930f5264d5cd0382e62de46b4cd3b6e6a47e5917685&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/tipo-de-cambio-precio-del-euro-frente-al-dolar-hoy-13-de-agosto/",
+        "date": "2025-08-13 05:15:32",
+        "sentiment_score": -0.23126408830285072
+    },
+    {
+        "title": "Previsión del clima en Zaragoza para antes de salir de casa este 13 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/CHHYZEY3LRE2RFPJKYZPR4TI3M.jpg?auth=9667eb34e2a46c2693e42c8b72acb8c36e243e8e79fa3bb67233809f1c8f039a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "zaragoza",
+            "españa sociedad",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/prevision-del-clima-en-zaragoza-para-antes-de-salir-de-casa-este-13-de-agosto/",
+        "date": "2025-08-13 03:45:46",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Es una realidad: la ropa y las zapatillas deportivas influyen en el rendimiento físico de los deportistas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/08/07/Ropadeportiva-RoGy0eLRi6nqYJBfng1Z8eO-758x531@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/realidad-ropa-zapatillas-deportivas-influyen-rendimiento-fisico-20250807182735-nt.html",
+        "date": "2025-08-13 06:21:17",
+        "sentiment_score": -0.07814320921897888
+    },
+    {
+        "title": "Piedras vivas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/08/13/El-emperador-Adriano2(1)-Rjkpya7bysiRcoDiRbR7NhK-758x531@diario_abc.jpg",
+        "tags": [
+            "technology",
+            "lifestyle"
+        ],
+        "link": "https://www.abc.es/sevilla/ciudad/piedras-vivas-20250813065234-nts.html",
+        "date": "2025-08-13 04:52:35",
+        "sentiment_score": 0.1776570975780487
+    },
+    {
+        "title": "Mircea, el empresario rumano que murió en Tres Cantos al salvar al dueño de una hípica e intentarlo con todos sus caballos",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/5b/media_thumb-link-4086539.webp?1755036246=",
+        "tags": [
+            "actualidad",
+            "caballos",
+            "hípica",
+            "mircea",
+            "fuego incendio",
+            "tres cantos"
+        ],
+        "link": "https://www.meneame.net/story/mircea-empresario-rumano-murio-tres-cantos-salvar-dueno-hipica",
+        "date": "2025-08-13 04:30:03",
+        "sentiment_score": -0.48791930079460144
+    },
+    {
+        "title": "Puente o la degradación de la figura de ministro",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/08/13/puente-U56164162427tPq-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-puente-degradacion-figura-ministro-20250813184919-nt.html",
+        "date": "2025-08-13 02:42:05",
+        "sentiment_score": -0.8274407088756561
+    },
+    {
+        "title": "El turismo que viene",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/08/13/Captura_20250812161515-RjseciwkOgqb4OHMDVYQG3O-1200x840@diario_abc.PNG",
+        "tags": [
+            "economia",
+            "turismo",
+            "europa",
+            "bruselas",
+            "inglés",
+            "españa",
+            "ocio"
+        ],
+        "link": "https://www.abc.es/opinion/rafael-garcia-garrido-turismo-viene-20250813160320-nt.html",
+        "date": "2025-08-13 02:40:50",
+        "sentiment_score": 0.11279527842998505
+    },
+    {
+        "title": "Última hora de los incendios en España, en directo | Los incendios obligan a más de 5.000 personas a pasar la noche fuera de sus casas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5IMZUXVLTRNTJKPGHOP6BCRRCM.jpg?auth=4034d88ad18b53d192e67d078f50d2d4f8e0fe1699db41c5f61a0798a4d15942&width=1200",
+        "tags": [
+            "andalucía",
+            "extremadura",
+            "españa",
+            "bomberos",
+            "incendios",
+            "castilla y león",
+            "incendios forestales",
+            "incendios forestales intencionados",
+            "emergencias",
+            "galicia"
+        ],
+        "link": "https://elpais.com/espana/2025-08-13/ultima-hora-de-los-incendios-en-espana-en-directo.html",
+        "date": "2025-08-13 05:53:55",
+        "sentiment_score": -0.8959038788452744
+    },
+    {
+        "title": "Peridis: España se quema",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/W62HYPKS5RADRP7VO2ZPZZFTUY.jpg?auth=f81f65ea9d93d39df9ca1da86d3adaf701920758f7e300b18ab139707b9fd3c4&width=1200",
+        "tags": [
+            "viñetas",
+            "humor gráfico",
+            "pedro sánchez",
+            "opinión",
+            "miguel tellado",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://elpais.com/opinion/2025-08-13/peridis-espana-se-quema.html",
+        "date": "2025-08-13 03:45:00",
+        "sentiment_score": -0.011660192161798477
+    },
+    {
+        "title": "Dos incendios en una semana ponen en jaque a Tarifa en plena temporada alta : “No se podía casi respirar”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4QQIOMRHFJJ4BGLTLHRQA4A3BU.jpg?auth=d6609b223b1fe816fea22621d8b790f910cb2b7819cc83260e22b3ed5c045350&width=1200",
+        "tags": [
+            "tarifa",
+            "andalucía",
+            "junta andalucía",
+            "españa",
+            "barbate",
+            "provincia cádiz",
+            "turismo",
+            "incendios forestales"
+        ],
+        "link": "https://elpais.com/espana/2025-08-13/dos-incendios-en-una-semana-ponen-en-jaque-a-tarifa-en-plena-temporada-alta-no-se-podia-casi-respirar.html",
+        "date": "2025-08-13 03:40:00",
+        "sentiment_score": -0.39011725783348083
+    },
+    {
+        "title": "Alerta en toda la provincia de Ourense por una oleada de incendios simultáneos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/S4IBNSFL5VB6LPUKNKJVNAGI2U.jpg?auth=ce9b5732d6156e628e230af03cdc6fc8635e2d41ab0a37ca5a524a08547dbbb5&width=1200",
+        "tags": [
+            "ourense",
+            "españa",
+            "incendios forestales intencionados",
+            "galicia",
+            "fragas do eume",
+            "chandrexa de queixa",
+            "incendios forestales",
+            "xunta galicia"
+        ],
+        "link": "https://elpais.com/espana/2025-08-13/alerta-en-toda-la-provincia-de-ourense-por-una-oleada-de-incendios-simultaneos.html",
+        "date": "2025-08-13 03:40:00",
+        "sentiment_score": -0.7116533890366554
+    },
+    {
+        "title": "El fuego vuelve a la sierra de la Culebra, el epicentro de los incendios en 2022: “¿Alguien sabe rezar? Que rece lo que sepa”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2KLAQRCU2RH3FJERMQACXDEATA.jpg?auth=556319a15a05274ee4d0cdf7d12bfecadb91c83bfc8d147e75e7768120d40f1c&width=1200",
+        "tags": [
+            "castilla y león",
+            "españa",
+            "zamora",
+            "león",
+            "incendios",
+            "calor",
+            "incendios forestales",
+            "catástrofes",
+            "comunidades autónomas"
+        ],
+        "link": "https://elpais.com/espana/2025-08-13/el-fuego-vuelve-a-la-sierra-de-la-culebra-el-epicentro-de-los-incendios-en-2022-alguien-sabe-rezar-que-rece-lo-que-sepa.html",
+        "date": "2025-08-13 03:40:00",
+        "sentiment_score": -0.8355350159108639
+    },
+    {
+        "title": "Baleares recibe más de 280 migrantes llegados en patera en apenas 48 horas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UY6JA6TOZRGQJBHKHVJHLHFVPM.jpg?auth=eafd3f8066aea85cf76393c80bf6b9610ebfc8ef43e7c148fa9ad8fd8e5a2b28&width=1200",
+        "tags": [
+            "españa",
+            "inmigración irregular",
+            "baleares",
+            "inmigración irregular españa",
+            "mallorca",
+            "isla formentera",
+            "isla ibiza",
+            "pateras"
+        ],
+        "link": "https://elpais.com/espana/2025-08-13/baleares-recibe-mas-de-280-migrantes-llegados-en-patera-en-apenas-48-horas.html",
+        "date": "2025-08-13 03:40:00",
+        "sentiment_score": -0.020596496760845184
+    },
+    {
+        "title": "El ultraderechista Alvise Pérez exhibe la bandera española en los islotes de Alhucemas en un desafío a Marruecos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3FXQ23C2DNBJFDX7JGNP7WNWOM.jpg?auth=8444ef0a573d2f11285572d385b87568ec9ceb065c615d7644592c1a36e4eb77&width=1200",
+        "tags": [
+            "marruecos",
+            "ultraderecha",
+            "españa",
+            "alvise pérez",
+            "vox",
+            "alhucemas",
+            "migración",
+            "melilla"
+        ],
+        "link": "https://elpais.com/espana/2025-08-13/el-ultraderechista-alvise-perez-exhibe-la-bandera-espanola-en-los-islotes-de-alhucemas-en-un-desafio-a-marruecos.html",
+        "date": "2025-08-13 03:40:00",
+        "sentiment_score": -0.5549614951014519
+    },
+    {
+        "title": "El ruido tiene un precio: llega a devaluar un 3,4% los pisos en venta del Eixample de Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GUDLDE47HRBEDPXNWBSCJ65UMA.jpg?auth=e6a3392a8745f48e1f689ab29b12ccc93faea1b8c82055e6bd6c4045db70c6d2&width=1200",
+        "tags": [
+            "calidad vida",
+            "barrios",
+            "cataluña",
+            "barcelona",
+            "viviendas alquiler",
+            "vivienda",
+            "sonido",
+            "ventas",
+            "casas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-13/el-ruido-tiene-un-precio-llega-a-devaluar-un-34-los-pisos-en-venta-del-eixample-de-barcelona.html",
+        "date": "2025-08-13 03:30:00",
+        "sentiment_score": 0.023227065801620483
+    },
+    {
+        "title": "El verano de la catalanofobia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/I6PD3L4PLBBQPHSBLBA3E7WULM.jpg?auth=93a95c2e7786d981c7bfecb38526c06128ba943a995392cc201ab61ac2412316&width=1200",
+        "tags": [
+            "british museum",
+            "pintura mural",
+            "partenón",
+            "catalán",
+            "barcelona",
+            "cataluña",
+            "aragón",
+            "monasterio sijena",
+            "patrimonio histórico",
+            "mnac"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-13/el-verano-de-la-catalanofobia.html",
+        "date": "2025-08-13 03:15:00",
+        "sentiment_score": -0.8520008390769362
+    },
+    {
+        "title": "¿Teñirse o no teñirse?: “El 80% de mujeres se han visto obligadas a hacerlo para no recibir malos comentarios”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VWUWF57QYRAXBPMSG26ZJFBB7M.jpg?auth=06ef03b69c2b7dfac89cc90af135ef8bee1c0011f7791b7ff76014561058d5ad&width=1200",
+        "tags": [
+            "peluquería",
+            "cataluña",
+            "estética corporal",
+            "barcelona",
+            "mujeres",
+            "imagen",
+            "cabello",
+            "tratamientos belleza"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-13/tenirse-o-no-tenirse-el-80-de-mujeres-se-han-visto-obligadas-a-hacerlo-para-no-recibir-malos-comentarios.html",
+        "date": "2025-08-13 03:15:00",
+        "sentiment_score": -0.473687969148159
+    },
+    {
+        "title": "Guía de LaLiga: Todo lo que debes saber de la competición",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c4061e84-c07e-4158-8d98-5a1f55a63fc5_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "laliga ea sports",
+            "laliga",
+            "la liga",
+            "primera división",
+            "fútbol"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/2025/08/13/guia-laliga-ea-sports-2025-26-120580942.html",
+        "date": "2025-08-13 06:00:37",
+        "sentiment_score": 0.8017348032444715
+    },
+    {
+        "title": "Moret: una estatua en continuo movimiento",
+        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/08/12/moret1-RVNd3TMbLZkjzrEacfOvc6O-758x531@abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.lavozdigital.es/provincia/cadiz/moret-estatua-continuo-movimiento-20250812130350-ntv.html",
+        "date": "2025-08-13 05:32:25",
+        "sentiment_score": -0.0257146954536438
+    },
+    {
+        "title": "El Athletic tendrá mucha competencia por Europa",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8763ff26-5d24-46f6-9c0a-6fea0566a0f7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tendra",
+            "athletic",
+            "europa",
+            "competencia"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/08/13/athletic-tendra-competencia-europa-9974989.html",
+        "date": "2025-08-13 05:30:17",
+        "sentiment_score": 0.07242932915687561
+    },
+    {
+        "title": "Última hora de los incendios en España, en directo | Al menos seis grandes fuegos siguen sin estar bajo control dejando ya dos muertos y decenas de heridos",
+        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743884671_257955083_1706x960.jpg?contentId=1003743884671",
+        "tags": [
+            "españa",
+            "sociedad",
+            "incendios"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20250813/ultima-hora-incendios-espana-directo-grandes-fuegos-siguen-sin-control-dejando-muertos-decenas-heridos/1003743884669_10.html",
+        "date": "2025-08-13 05:21:38",
+        "sentiment_score": -0.7828254383057356
+    },
+    {
+        "title": "El palo de Sonia Bermúdez a Jorge Vilda por dejarle fuera de la Selección: \"Fui pichichi, eché de menos una llamada\"",
+        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743884707_257955582_1706x960.jpg?contentId=1003743884707",
+        "tags": [
+            "selección española de fútbol femenino",
+            "fútbol femenino",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250813/palo-sonia-bermudez-jorge-vilda-dejarle-seleccion-pichichi-eche-llamada/1003743884694_0.html",
+        "date": "2025-08-13 06:37:22",
+        "sentiment_score": -0.8661525417119265
+    },
+    {
+        "title": "Aviso del Meteocat: Barcelona, preparada para lo que queda de semana",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/08/13/689c29ae1c32e.r_d.3067-1880-1015.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20250813/1002513995/aviso-meteocat-barcelona-preparada-queda-semana-dct.html",
+        "date": "2025-08-13 06:12:29",
+        "sentiment_score": -0.22643929719924927
+    },
+    {
+        "title": "Exámenes gratis: Operación Caracas Sonríe incorpora laboratorio móvil para todas las parroquias",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755047537480.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "exámenes gratis",
+            "caracas",
+            "operacion caracas sonrie"
+        ],
+        "link": "https://2001online.com/comunidad/examenes-gratis-operacion-caracas-sonrie-incorpora-laboratorio-movil-para-todas-las-parroquias-202581223550",
+        "date": "2025-08-13 03:55:00",
+        "sentiment_score": 0.11063816770911217
+    },
+    {
+        "title": "Cantante brasileño desata indignación: convierte a fan con acondroplasia en “atracción” de su concierto",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755057651942.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "polémica",
+            "conciertos 2025"
+        ],
+        "link": "https://2001online.com/farandula/cantante-brasileno-desata-indignacion-convierte-a-fan-con-acondroplasia-en-atraccion-de-su-concierto-202581223420",
+        "date": "2025-08-13 03:42:00",
+        "sentiment_score": -0.8050990803167224
+    },
+    {
+        "title": "MLB: Ezequiel Tovar recupera su mejor estado físico con los Rockies",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755055798276.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "rockies de colorado"
+        ],
+        "link": "https://2001online.com/deportes/mlb-ezequiel-tovar-recupera-su-mejor-estado-fisico-con-los-rockies-202581223280",
+        "date": "2025-08-13 03:28:00",
+        "sentiment_score": 0.2594829350709915
+    },
+    {
+        "title": "Nueva tendencia en China: jóvenes pagan a empresas para fingir que trabajan en oficinas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755049097899.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "jovenes en china",
+            "china",
+            "nueva tendencia",
+            "jóvenes pagan a empresas para fingir que trabajan en oficinas"
+        ],
+        "link": "https://2001online.com/internacionales/nueva-tendencia-en-china-jovenes-pagan-a-empresas-para-fingir-que-trabajan-en-oficinas-202581221290",
+        "date": "2025-08-13 03:02:00",
+        "sentiment_score": 0.18413810431957245
+    },
+    {
+        "title": "Maduro califica de “balurda” la recompensa de Pam Bondi: Es la putrefacción moral del imperialismo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755045750967.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "eeuu",
+            "venezuela",
+            "justicia",
+            "diario 2001",
+            "política"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-califica-de-balurda-la-recompensa-de-pam-bondi-es-la-putrefaccion-moral-del-imperialismo-20258122300",
+        "date": "2025-08-13 03:00:00",
+        "sentiment_score": -0.3291904628276825
+    },
+    {
+        "title": "¡Paraíso inolvidable! Esta ciudad de California está entre las mejores 5 del mundo: un destino imperdible para este 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755048496888.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "california",
+            "destino",
+            "ciudad"
+        ],
+        "link": "https://2001online.com/usa/servicios/paraiso-inolvidable-esta-ciudad-de-california-esta-entre-las-mejores-5-del-mundo-un-destino-imperdible-para-este-2025-20258122300",
+        "date": "2025-08-13 03:00:00",
+        "sentiment_score": 0.6676984885707498
+    },
+    {
+        "title": "La enfermedad de Selena Gómez que le provoca lesiones en la piel: sigue estas recomendaciones de la Clínica Mayo para prevenirla",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754942668835.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/la-enfermedad-de-selena-gomez-que-le-provoca-lesiones-en-la-piel-sigue-estas-recomendaciones-de-la-clinica-mayo-para-prevenirla-20258122300",
+        "date": "2025-08-13 03:00:00",
+        "sentiment_score": -0.005729705095291138
+    },
+    {
+        "title": "Ahorra mucho dinero en fertilizantes o abonos químicos en casa: solo agrega vinagre a las cáscaras de esta popular fruta y crecerán tus plantas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755052248197.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/ahorra-mucho-dinero-en-fertilizantes-o-abonos-quimicos-en-casa-solo-agrega-vinagre-a-las-cascaras-de-esta-popular-fruta-y-creceran-tus-plantas-202581222350",
+        "date": "2025-08-13 02:35:00",
+        "sentiment_score": -0.838290773332119
+    },
+    {
+        "title": "¿Cate Blanchett se une al Juego del Calamar?: esto dijo la actriz sobre un posible spin-off",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755051764643.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "'el juego del calamar 3'",
+            "cate blanchett",
+            "el juego del calamar"
+        ],
+        "link": "https://2001online.com/farandula/cate-blanchett-se-une-al-juego-del-calamar-esto-dijo-la-actriz-sobre-un-posible-spin-off-202581222190",
+        "date": "2025-08-13 02:19:00",
+        "sentiment_score": 0.14274663105607033
     }
 ];
