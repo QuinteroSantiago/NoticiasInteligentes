@@ -196,25 +196,6 @@ export default [
         "sentiment_score": -0.7484727781265974
     },
     {
-        "title": "Abascal ataca a los obispos por Jumilla: “No sé si su posición es por los ingresos públicos que reciben o por los casos de pederastia”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PX3BGQ62BBEKZGFJYPXNWOEMJY.jpg?auth=16d52d46a3fdbdd1c7fdd0a1378792085ae5040ce2759cbe704646e74b654ef1&width=1200",
-        "tags": [
-            "xenofobia",
-            "religión",
-            "islam",
-            "islamofobia",
-            "jumilla",
-            "ultraderecha",
-            "vox",
-            "pp",
-            "extrema derecha",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-10/abascal-ataca-a-los-obispos-por-jumilla-no-se-si-su-posicion-es-por-los-ingresos-publicos-que-reciben-o-por-los-casos-de-pederastia.html",
-        "date": "2025-08-10 13:29:35",
-        "sentiment_score": -0.5621944665908813
-    },
-    {
         "title": "Berdún (Huesca) acoge este lunes un recital de órgano y trompeta dentro del Festival Camino de Santiago",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250810190548_120.jpg",
         "tags": [
@@ -8293,5 +8274,365 @@ export default [
         "link": "https://2001online.com/servicios/nuevo-listado-de-jubilados-del-ministerio-de-educacion-tambien-abonan-pago-de-sus-prestaciones-202581317110",
         "date": "2025-08-13 21:11:00",
         "sentiment_score": 0.0975959561765194
+    },
+    {
+        "title": "Reporte meteorológico: las temperaturas que se esperan en Málaga este 14 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/A6PD5C4CIFF27E2URW3I46WVJE.png?auth=3610483284f1994b08b8384f5c8535e42f6ac5e59e2bbc59906446cea6720aa3&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa noticias",
+            "málaga",
+            "tiempo en españa",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/14/reporte-meteorologico-las-temperaturas-que-se-esperan-en-malaga-este-14-de-agosto/",
+        "date": "2025-08-14 02:02:04",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Reporte meteorológico: las temperaturas que se esperan en Madrid este 14 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "madrid",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/14/reporte-meteorologico-las-temperaturas-que-se-esperan-en-madrid-este-14-de-agosto/",
+        "date": "2025-08-14 01:31:18",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Barcelona: el pronóstico del tiempo para este 14 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "noticias",
+            "españa noticias",
+            "tiempo en españa",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/14/barcelona-el-pronostico-del-tiempo-para-este-14-de-agosto/",
+        "date": "2025-08-14 01:17:56",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Desde Europa al altiplano: Binacional sorprende con fichaje de delantero peruano que jugó más de 10 años en España",
+        "image_url": "https://www.infobae.com/resizer/v2/TXSN62BZ4RHFVFS2LW7C6CMEIY.png?auth=7ab9a458492cad125351508b70f33c6bd9802976f8475f36818869a2ae68e820&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "jeisson martínez",
+            "liga 1",
+            "binacional",
+            "peru-deportes"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/08/13/desde-europa-al-altiplano-binacional-sorprende-con-fichaje-de-delantero-peruano-que-jugo-mas-de-10-anos-en-espana/",
+        "date": "2025-08-13 22:38:20",
+        "sentiment_score": 0.2957681640982628
+    },
+    {
+        "title": "Adiós a Fernando Rubio, expresidente de la sociedad Constructora Asturiana",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/77311950-acc5-4bbb-a0ec-c10b1e87abac_16-9-aspect-ratio_default_0_x794y489.jpg",
+        "tags": [
+            "construcción",
+            "club",
+            "salud",
+            "suárez"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/08/14/adios-fernando-rubio-expresidente-sociedad-120611236.html",
+        "date": "2025-08-14 02:08:00",
+        "sentiment_score": -0.6725778989493847
+    },
+    {
+        "title": "Escándalo en España: aumentan los precios de abonados a pocos días de comenzar LaLiga",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755136422492.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "liga española",
+            "laliga"
+        ],
+        "link": "https://2001online.com/deportes/escandalo-en-espana-aumentan-los-precios-de-abonados-a-pocos-dias-de-comenzar-laliga-202581321500",
+        "date": "2025-08-14 01:50:00",
+        "sentiment_score": -0.2652743384242058
+    },
+    {
+        "title": "Lula anuncia más de 4.700 millones en créditos para empresas afectadas por los aranceles de Trump",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250814033641_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-lula-anuncia-mas-4700-millones-creditos-empresas-afectadas-aranceles-trump-20250814033641.html",
+        "date": "2025-08-14 01:36:41",
+        "sentiment_score": 0.06944113224744797
+    },
+    {
+        "title": "¿Aramburu y Yangel Herrera tienen altas posibilidades de clasificar a la Champions League?",
+        "image_url": "https://pxcdn.meridiano.net/082025/1755134062162.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/aramburu-y-yangel-herrera-tienen-altas-posibilidades-de-clasificar-a-la-champions-league--202581321160",
+        "date": "2025-08-14 01:16:00",
+        "sentiment_score": -0.1215779036283493
+    },
+    {
+        "title": "Maravilla",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "maravilla"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/maravilla_0_2004563124.html",
+        "date": "2025-08-14 01:07:34",
+        "sentiment_score": 0.0032500028610229492
+    },
+    {
+        "title": "España no sufre los incendios a solas: al menos 24 muertos, 72 heridos y miles de evacuados en Francia, Portugal y los Balcanes",
+        "image_url": "https://s1.elespanol.com/2025/08/13/mundo/1003743885509_257969477_1706x960.jpg?contentId=1003743885509",
+        "tags": [
+            "verano",
+            "incendios forestales",
+            "europa",
+            "turquía",
+            "unión europea (ue)",
+            "francia"
+        ],
+        "link": "https://www.elespanol.com/mundo/europa/20250814/espana-no-sufre-incendios-solas-muertos-heridos-miles-evacuados-francia-portugal-balcanes/1003743885431_0.html",
+        "date": "2025-08-14 00:50:20",
+        "sentiment_score": -0.7069988660514355
+    },
+    {
+        "title": "Los bomberos estallan contra la gestión de los incendios: \"Faltan medios, hay mucho personal sin experiencia en la extinción\"",
+        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743885931_257976520_1706x960.jpg?contentId=1003743885931",
+        "tags": [
+            "zamora (municipio)",
+            "extremadura",
+            "reportajes",
+            "bomberos",
+            "castilla y león",
+            "incendios forestales",
+            "galicia"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250814/bomberos-estallan-gestion-incendios-faltan-medios-personal-sin-experiencia-extincion/1003743885742_0.html",
+        "date": "2025-08-14 00:48:51",
+        "sentiment_score": -0.8153000380843878
+    },
+    {
+        "title": "Real Madrid acelera para fichar a mediocampista de la Premier League",
+        "image_url": "https://pxcdn.meridiano.net/082025/1755132116710.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/real-madrid-acelera-para-fichar-a-mediocampista-de-la-premier-league-202581320340",
+        "date": "2025-08-14 00:34:00",
+        "sentiment_score": -0.27729885280132294
+    },
+    {
+        "title": "Grado viaja por la memoria a través de su Museo Etnográfico: una visita guiada descubre a vecinos y visitantes la riqueza del concejo asentada en sus tradiciones",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/85a87c16-7083-4ccc-b868-da3c3ea5d5e6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "historia",
+            "espacio",
+            "memoria",
+            "vecinos"
+        ],
+        "link": "https://www.lne.es/grado/2025/08/14/grado-viaja-memoria-traves-museo-120596670.html",
+        "date": "2025-08-14 02:04:04",
+        "sentiment_score": 0.24248574674129486
+    },
+    {
+        "title": "La OSPA y el Cuarteto Quiroga unen talentos en el Festival de Ribadeo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4244a73-f4ea-43b7-b30d-7061f903045e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ospa",
+            "ribadeo",
+            "música",
+            "música clásica"
+        ],
+        "link": "https://www.lne.es/occidente/2025/08/14/ospa-cuarteto-quiroga-unen-talentos-120610088.html",
+        "date": "2025-08-14 02:00:45",
+        "sentiment_score": 0.12570911645889282
+    },
+    {
+        "title": "Llamamiento urgente de la Policía Nacional: «Si reconoces a la 'mujer que no estaba sola', ayúdanos a identificarla»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3433165.jpg",
+        "tags": [
+            "interpol",
+            "consejos útiles",
+            "audiencias-um",
+            "colaboración ciudadana",
+            "noticias interesantes",
+            "ia-news",
+            "trucos para ahorrar",
+            "búsqueda",
+            "policía nacional",
+            "dudas y respuestas",
+            "curiosidades y trucos",
+            "aprender y más"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/08/14/2449175/llamamiento-urgente-policia-nacional-reconoces-mujer-estaba-sola-ayudanos-identificarla.html",
+        "date": "2025-08-14 02:00:01",
+        "sentiment_score": -0.4173533283174038
+    },
+    {
+        "title": "Robert Lewandowski y su lealtad al FC Barcelona",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/15/2025051523544527161.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/robert-lewandowski-lealtad-fc-barcelona/20250814031505353055.html",
+        "date": "2025-08-14 01:15:05",
+        "sentiment_score": 0.4953416623175144
+    },
+    {
+        "title": "El fiscal general de Bruselas llama a los políticos a actuar contra el aumento de tiroteos en la ciudad: más de 20 este verano",
+        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743885921_257976349_1706x1280.jpg?contentId=1003743885921",
+        "tags": [
+            "europa",
+            "bélgica"
+        ],
+        "link": "https://www.elespanol.com/mundo/europa/20250814/fiscal-general-bruselas-llama-politicos-actuar-aumento-tiroteos-ciudad-verano/1003743885876_0.html",
+        "date": "2025-08-14 00:50:07",
+        "sentiment_score": -0.38305607438087463
+    },
+    {
+        "title": "Siete millones de viajes previstos y el diésel y la gasolina casi un 1% más baratos: arranca la 'operación puente de agosto'",
+        "image_url": "https://s1.elespanol.com/2025/07/31/actualidad/1003743870654_257701413_1706x960.jpg?contentId=1003743870654",
+        "tags": [
+            "precios de la gasolina",
+            "cádiz (provincia)",
+            "dgt dirección general de tráfico",
+            "gasóleo",
+            "sevilla (provincia)",
+            "observatorio de la movilidad",
+            "jerez de la frontera",
+            "carburantes",
+            "diésel",
+            "dos hermanas (sevilla)"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20250814/millones-viajes-previstos-diesel-gasolina-un1masbaratos-arranca-operacion-puente-agosto/1003743885116_0.html",
+        "date": "2025-08-14 00:37:49",
+        "sentiment_score": -0.4628550037741661
+    },
+    {
+        "title": "Juvencio Maeztu, el gaditano que empezó dirigiendo el Ikea de Alcorcón y ahora liderará el 90% de su negocio mundial",
+        "image_url": "https://s1.elespanol.com/2025/03/21/actualidad/932917483_254094400_1706x960.jpg?contentId=932917483",
+        "tags": [
+            "ikea",
+            "nombramientos",
+            "distribución",
+            "muebles"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20250814/juvencio-maeztu-gaditano-empezo-dirigiendo-ikea-alcorcon-ahora-liderara-negocio-mundial/1003743885647_0.html",
+        "date": "2025-08-14 00:37:17",
+        "sentiment_score": 0.4217790365219116
+    },
+    {
+        "title": "El enigma de los Dallas Cowboys: ¿cómo un equipo sin Super Bowl se convirtió en la franquicia más valiosa del mundo?",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755134819905.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "nfl",
+            "equipo más valioso",
+            "equipo más caro",
+            "fichajes",
+            "fútbol americano",
+            "dallas cowboys"
+        ],
+        "link": "https://2001online.com/deportes/el-enigma-de-los-dallas-cowboys-como-un-equipo-sin-super-bowl-se-convirtio-en-la-franquicia-mas-valiosa-del-mundo--20258132300",
+        "date": "2025-08-14 02:04:09",
+        "sentiment_score": -0.3482118397951126
+    },
+    {
+        "title": "Las patas de gallo ya no te quitarán el sueño: así las puedes hacer desaparecer de forma rápida",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755024734763.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/las-patas-de-gallo-ya-no-te-quitaran-el-sueno-asi-las-puedes-hacer-desaparecer-de-forma-rapida-20258132200",
+        "date": "2025-08-14 02:00:00",
+        "sentiment_score": -0.21853218972682953
+    },
+    {
+        "title": "¡Operativos al máximo! Texas: arrestan a chofer de camión por tráfico de indocumentados",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755132960415.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "indocumentados",
+            "texas",
+            "chofer"
+        ],
+        "link": "https://2001online.com/usa/internacionales/operativos-al-maximo-texas-arrestan-a-chofer-de-camion-por-trafico-de-indocumentados-20258132200",
+        "date": "2025-08-14 02:00:00",
+        "sentiment_score": -0.28268934041261673
+    },
+    {
+        "title": "Jimmy Kimmel obtiene la ciudadanía italiana y declara: Lo que pasa en EEUU es peor de lo imaginado",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755138590863.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "jimmy kimmel",
+            "trump",
+            "the tonight show"
+        ],
+        "link": "https://2001online.com/usa/farandula/jimmy-kimmel-obtiene-la-ciudadania-italiana-y-declara-lo-que-pasa-en-eeuu-es-peor-de-lo-imaginado-202581321570",
+        "date": "2025-08-14 01:57:00",
+        "sentiment_score": -0.6590404864400625
+    },
+    {
+        "title": "¡El dato increíble para tu salud! Estas son las semillas que tienen más proteínas que la carne: revisa la lista y sal ya a comprarlas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755134871905.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/el-dato-increible-para-tu-salud-estas-son-las-semillas-que-tienen-mas-proteinas-que-la-carne-revisa-la-lista-y-sal-ya-a-comprarlas-202581321270",
+        "date": "2025-08-14 01:27:00",
+        "sentiment_score": 0.4070180933922529
+    },
+    {
+        "title": "Netflix expone el horror: revisa aquí cuáles son las series de delitos más populares",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755134824203.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "series",
+            "netflix",
+            "delitos"
+        ],
+        "link": "https://2001online.com/farandula/netflix-expone-el-horror-revisa-aqui-cuales-son-las-series-de-delitos-mas-populares-202581321140",
+        "date": "2025-08-14 01:14:00",
+        "sentiment_score": 0.592168316245079
+    },
+    {
+        "title": "¡No aguantes las ganas! Conoce la ciudad de EEUU con la mayor cantidad de baños públicos: la cifra te dejará \"livianito\"",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755132704291.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "new york",
+            "cantidades",
+            "baños públicos"
+        ],
+        "link": "https://2001online.com/usa/curiosidades/no-aguantes-las-ganas-conoce-la-ciudad-de-eeuu-con-la-mayor-cantidad-de-banos-publicos-la-cifra-te-dejara-livianito--20258132180",
+        "date": "2025-08-14 01:08:00",
+        "sentiment_score": 0.3634355887770653
+    },
+    {
+        "title": "Muere José Morales, ex presidente del Banco de Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755133599702.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "dr. josé morales",
+            "banco de venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/muere-jose-morales-ex-presidente-del-banco-de-venezuela-20258132180",
+        "date": "2025-08-14 01:08:00",
+        "sentiment_score": -0.044264718890190125
+    },
+    {
+        "title": "Ni Lionel Messi ni Cristiano Ronaldo: este es el futbolista más rico del mundo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755134394162.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "dinero futbolistas",
+            "fútbol",
+            "cristiano ronaldo",
+            "patrimonio de faiq bolkiah",
+            "faiq bolkiah",
+            "futbolistas millonarios",
+            "lionel messi"
+        ],
+        "link": "https://2001online.com/deportes/ni-lionel-messi-ni-cristiano-ronaldo-este-es-el-futbolista-mas-rico-del-mundo-202581321350",
+        "date": "2025-08-14 01:04:20",
+        "sentiment_score": 0.4363364726305008
     }
 ];
