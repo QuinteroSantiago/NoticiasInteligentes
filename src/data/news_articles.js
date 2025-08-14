@@ -1,185 +1,5 @@
 export default [
     {
-        "title": "Las Descalzas Reales ponen fin a su vida conventual en la ciudad",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/08/09/66884874-kTo-U2302603032738tbE-1200x840@El%20Norte.jpg",
-        "tags": [
-            "valladolid (ciudad)",
-            "iglesia católica"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/descalzas-reales-ponen-fin-vida-conventual-ciudad-20250810083546-nt.html",
-        "date": "2025-08-10 06:35:47",
-        "sentiment_score": 0.8211822230368853
-    },
-    {
-        "title": "Grego Casanova: \"Israel se siente con un grado de impunidad brutal. Estamos viviendo un genocidio televisado en Gaza\"",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_720/uploads/2025/08/06/el-periodista-escritor-y-youtuber-de-historia-grego-casanova-autor-de-lo-que-no-te-contaron-de-la-ii-guerra-mundial.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.huffingtonpost.es/life/cultura/grego-casanova-israel-siente-grado-impunidad-brutal-viviendo-genocidio-televisado-gaza.html",
-        "date": "2025-08-10 06:35:15",
-        "sentiment_score": -0.08303019404411316
-    },
-    {
-        "title": "Un total de 44 provincias estarán hoy en aviso por calor, con 22 de ellas en nivel naranja y Canarias en nivel rojo",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250810082219_120.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-total-44-provincias-estaran-hoy-aviso-calor-22-ellas-nivel-naranja-canarias-nivel-rojo-20250810082219.html",
-        "date": "2025-08-10 06:22:19",
-        "sentiment_score": 0.059699296951293945
-    },
-    {
-        "title": "El nuevo frente de batalla entre PP y PSOE: los 'currículos fake'",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dd9d8efa-191a-49f0-89d7-4094194bdb59_16-9-aspect-ratio_default_0_x1803y724.jpg",
-        "tags": [
-            "psoe",
-            "fake",
-            "nuevo",
-            "batalla",
-            "pp",
-            "frente",
-            "curriculos"
-        ],
-        "link": "https://www.deia.eus/politica/2025/08/10/nuevo-frente-batalla-pp-psoe-curriculos-fake-9966817.html",
-        "date": "2025-08-10 06:01:01",
-        "sentiment_score": -0.930268619209528
-    },
-    {
-        "title": "Fichajes y estrategia: la doble batalla del Espanyol justo a una semana de comenzar LaLiga ante el Atlético",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/08/mao-ye-fran-garagarza-manolo-gonzalez-espanyol-750x406.jpg",
-        "tags": [
-            "primer equipo y club"
-        ],
-        "link": "https://www.lagradaonline.com/rcd-espanyol/espanyol-atletico-debut-liga-mercado-fichajes/",
-        "date": "2025-08-10 06:00:44",
-        "sentiment_score": 0.4069492369890213
-    },
-    {
-        "title": "Las Perseidas, un fenómeno impresionante",
-        "image_url": "https://static.grupojoly.com/clip/d1e5ed11-16b8-4545-944d-c2aedcdba8fd_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/almeria/perseidas-fenomeno-impresionante_0_2004539674.html",
-        "date": "2025-08-10 06:00:30",
-        "sentiment_score": 0.7688540108501911
-    },
-    {
-        "title": "Los trenes en España cierran una primera semana de agosto con averías diarias, cortes de servicio y varios miles de evacuados",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/08/07/6894bc8cf3568.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/trenes-espana-cierran-primera-semana-agosto-averias-diarias-cortes-servicio-miles-evacuados_6235046_0.html",
-        "date": "2025-08-10 05:53:28",
-        "sentiment_score": -0.8011844325810671
-    },
-    {
-        "title": "Un mirador estelar para disfrutar de la lluvia de estrellas de las Perseidas sin salir de la M-40",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250810074451_120.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.europapress.es/madrid/noticia-mirador-estelar-disfrutar-lluvia-estrellas-perseidas-salir-40-20250810074451.html",
-        "date": "2025-08-10 05:44:51",
-        "sentiment_score": 0.37021036446094513
-    },
-    {
-        "title": "PSOE y PP tampoco desclasificarán los documentos sobre la entrega ilegal del Sáhara a Marruecos",
-        "image_url": "https://diario16plus.com/uploads/s1/21/07/04/sahara-sanchez.png",
-        "tags": [
-            "análisis"
-        ],
-        "link": "https://diario16plus.com/analisis/psoe-pp-tampoco-desclasificaran-documentos-sobre-entrega-ilegal-sahara-marruecos_510666_102.html",
-        "date": "2025-08-10 05:20:00",
-        "sentiment_score": -0.57358493283391
-    },
-    {
-        "title": "Las obras de la L8 obligan a cortar desde este domingo un tramo de la calle Muntaner de Barcelona durante más de un año",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/07/28/mapa-corte-muntaner-agosto.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/obras-l8-obligan-cortar-domingo-tramo-calle-muntaner-barcelona-ano_6233361_0.html",
-        "date": "2025-08-10 06:20:02",
-        "sentiment_score": -0.5889774970710278
-    },
-    {
-        "title": "Un paseo en el interior de las obras del Camp Nou",
-        "image_url": "https://static1.ara.cat/clip/e15bc815-a92e-4250-af31-ca6349cd1475_16-9-aspect-ratio_default_0_x3230y2813.jpg",
-        "tags": [
-            "camp",
-            "interior",
-            "obras",
-            "nou",
-            "paseo"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/paseo-interior-obras-camp-nou_130_5467735.html",
-        "date": "2025-08-10 06:00:25",
-        "sentiment_score": -0.04217258095741272
-    },
-    {
-        "title": "Victoria Lafora.- Buscando lastima",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "otr press",
-            "firmas"
-        ],
-        "link": "https://www.europapress.es/otr-press/firmas/victorialafora/noticia-victoria-lafora-buscando-lastima-20250810080009.html",
-        "date": "2025-08-10 06:00:09",
-        "sentiment_score": -0.45152539014816284
-    },
-    {
-        "title": "¿Cómo prefiere alojarse en Cantabria?",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/08/09/newspaint-1754742074948-1200x840-kxt-U2302602040499EmG-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "santillana del mar",
-            "santander",
-            "san vicente de la barquera",
-            "gijón",
-            "españa",
-            "turistas",
-            "cantabria (provincia)",
-            "barcelona (provincia)",
-            "madrid (ciudad)"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/prefiere-alojarse-cantabria-20250810075045-nt.html",
-        "date": "2025-08-10 05:50:45",
-        "sentiment_score": 0.11135463044047356
-    },
-    {
-        "title": "Juriaco",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/08/05/nivea-lata-azul-kucB--170x119@Ideal.jpg",
-        "tags": [
-            "rae real academia española"
-        ],
-        "link": "https://www.eldiariomontanes.es/opinion/juan-luis-fernandez-juriaco-20250810073414-nt.html",
-        "date": "2025-08-10 05:34:15",
-        "sentiment_score": -0.34155620634555817
-    },
-    {
-        "title": "Cientos de alumnos musulmanes no pueden tomar el menú halal porque no se aplica la ley",
-        "image_url": "https://diario16plus.com/uploads/s1/22/07/40/5/11.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://diario16plus.com/sociedad/cientos-alumnos-musulmanes-no-pueden-tomar-menu-halal-porque-no-se-aplica-ley_510660_102.html",
-        "date": "2025-08-10 05:15:00",
-        "sentiment_score": 0.2903226464986801
-    },
-    {
-        "title": "La reina del triple salto regresa: Yulimar Rojas anuncia su vuelta a la pista en España antes del Mundial de Tokio",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/la-reina-del-triple-salto-regresa-yulimar-rojas-anuncia-su-vuelta-a-la-pista-en-espana-antes-del-mundial-de-tokio-20258101310",
-        "date": "2025-08-10 05:31:00",
-        "sentiment_score": 0.11279110237956047
-    },
-    {
         "title": "Un abogado explica la ley que no puedes pasar por alto: “A uno de nuestros clientes le costó más de 40.000 euros”",
         "image_url": "https://www.infobae.com/resizer/v2/CL6GPMPM7NG3RNQ7KASDDIQN7A.jpg?auth=646929300844a48f12f5d3be581dc8855579333ad304c0b34c9a140d1f05fded&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -346,32 +166,6 @@ export default [
         "sentiment_score": 0.20871811360120773
     },
     {
-        "title": "El 96,7% de los 7.370 docentes que han logrado plaza en las oposiciones de 2025 son de Andalucía",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/08/10/oposiciones-secundaria-andalucia-RQ870AdbetB9jan8439oLtI-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "andalucía"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/967-7370-docentes-logrado-plaza-oposiciones-2025-20250810115949-nts.html",
-        "date": "2025-08-10 09:59:49",
-        "sentiment_score": -0.08389516174793243
-    },
-    {
-        "title": "Irán rechaza el «corredor de Trump» incluido en el acuerdo entre Armenia y Azerbaiyán",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/10/1472669396-kdFF-U701398286152hRG-1200x840@diario_abc.jpg",
-        "tags": [
-            "estados unidos",
-            "seguridad",
-            "donald trump",
-            "irán",
-            "armenia",
-            "la paz"
-        ],
-        "link": "https://www.abc.es/internacional/iran-rechaza-corredor-trump-incluido-acuerdo-armenia-20250810103022-nt.html",
-        "date": "2025-08-10 08:55:38",
-        "sentiment_score": -0.05881741642951965
-    },
-    {
         "title": "Los Mossos buscan a un conductor huido que atropelló a ocho personas",
         "image_url": "https://imagenes.elpais.com/resizer/v2/3QG3FGJ3R5CUNJVUOETBRYH6IE.jpg?auth=0b55b1369c6d6a4cc312234e6aa3f9e21ff9c8556da688753ac3d55e3c0185d4&width=1200",
         "tags": [
@@ -419,70 +213,6 @@ export default [
         "link": "https://elpais.com/espana/2025-08-10/abascal-ataca-a-los-obispos-por-jumilla-no-se-si-su-posicion-es-por-los-ingresos-publicos-que-reciben-o-por-los-casos-de-pederastia.html",
         "date": "2025-08-10 13:29:35",
         "sentiment_score": -0.5621944665908813
-    },
-    {
-        "title": "Detenido un hombre por explotar a trabajadores sin papeles con jornadas de hasta 90 horas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/K2WNAXQSJRH3FBRDBVEOEQCVA4.jpg?auth=539c7db04843548dafd93bdbdb509578e031679ed1af1d603f6bfea32e934193&width=1200",
-        "tags": [
-            "cataluña",
-            "inspecciones trabajo",
-            "malgrat de mar",
-            "empleo",
-            "trabajo esclavo",
-            "fraude seguridad social",
-            "mossos d'esquadra"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-10/detenido-un-hombre-por-explotar-a-trabajadores-sin-papeles-con-jornadas-de-hasta-90-horas.html",
-        "date": "2025-08-10 10:13:58",
-        "sentiment_score": -0.11331164091825485
-    },
-    {
-        "title": "Cinco incendios amenazan la provincia de León y uno se acerca a Las Médulas, Patrimonio de la Humanidad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/65P4YANQ3NP5FB4SFRJXDJ4BCI.jpg?auth=efb006e19c7bf7a272a77525356ca87365fff257b3b88cb58b72a962846d1b09&width=1200",
-        "tags": [
-            "las médulas",
-            "españa",
-            "incendios",
-            "león"
-        ],
-        "link": "https://elpais.com/espana/2025-08-10/cinco-incendios-amenazan-la-provincia-de-leon-y-uno-se-acerca-a-las-medulas-patrimonio-de-la-humanidad.html",
-        "date": "2025-08-10 09:13:52",
-        "sentiment_score": -0.7964752521365881
-    },
-    {
-        "title": "Un menor de 15 años muere ahogado en el río Congost, en La Garriga (Barcelona)",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TMLHUDRAMVEV3F2BPHG63K6FJU.jpg?auth=bc0723031ad78c2cb2e4d32c2110c2f29ef571bac618d8986143410224d68bf2&width=1200",
-        "tags": [
-            "sucesos",
-            "bomberos",
-            "barcelona",
-            "ríos",
-            "ahogamientos",
-            "emergencias",
-            "la garriga",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-10/un-menor-de-15-anos-muere-ahogado-en-el-rio-congost-en-la-garriga-barcelona.html",
-        "date": "2025-08-10 08:53:55",
-        "sentiment_score": -0.09450917318463326
-    },
-    {
-        "title": "El bum del Camino Portugués a Santiago desata la ‘guerra’ de las barcas-taxi en la frontera del Miño",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QD76GYUXI5ADBBXNQKXVUE3UHM.JPG?auth=ee556298f52ab0cba8de6fa98faf5b7756db605b7930164ac1f89b2e1566241d&width=1200",
-        "tags": [
-            "río miño",
-            "a guarda",
-            "xunta galicia",
-            "galicia",
-            "españa",
-            "camino de santiago",
-            "transporte marítimo",
-            "pontevedra",
-            "peregrinaciones"
-        ],
-        "link": "https://elpais.com/espana/galicia/2025-08-10/el-bum-del-camino-portugues-a-santiago-desata-la-guerra-de-las-barcas-taxi-en-la-frontera-del-mino.html",
-        "date": "2025-08-10 07:15:50",
-        "sentiment_score": -0.6869817152619362
     },
     {
         "title": "Berdún (Huesca) acoge este lunes un recital de órgano y trompeta dentro del Festival Camino de Santiago",
@@ -7911,5 +7641,657 @@ export default [
         "link": "https://2001online.com/farandula/se-quiebran-29-anos-de-relacion-caterina-valentino-anuncia-su-salida-de-fm-center-202581311350",
         "date": "2025-08-13 15:35:00",
         "sentiment_score": 0.7893276438117027
+    },
+    {
+        "title": "España solicita al Mecanismo Europeo de Protección Civil un módulo con dos aviones cisterna de gran capacidad",
+        "image_url": "https://www.infobae.com/resizer/v2/EM2FKJ34TVHT3JQ3YVWIJZGKSM.jpg?auth=c2f614a1056a322099559bfd5e586c282741cfb3ee0eaf9706847bd059a755db&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/13/espana-solicita-al-mecanismo-europeo-de-proteccion-civil-un-modulo-con-dos-aviones-cisterna-de-gran-capacidad/",
+        "date": "2025-08-13 20:52:52",
+        "sentiment_score": 0.24308843165636063
+    },
+    {
+        "title": "Estos son los números ganadores del sorteo de Bonoloto del 13 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2M3I6GTDRAKBDQBIJN7RTAJPE.png?auth=aa49b632d6506bc96a1ff7a3f2245bcfb6c28042071e793bc4355847be21fe47&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "bonoloto"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/estos-son-los-numeros-ganadores-del-sorteo-de-bonoloto-del-13-de-agosto/",
+        "date": "2025-08-13 20:15:36",
+        "sentiment_score": 0.09449587762355804
+    },
+    {
+        "title": "El actor Santi Rodríguez (‘7 vidas’) habla de la enfermedad que sufre y que descubrió por casualidad durante una conversación en un AVE: “Yo esa palabreja no la había oído en mi vida”",
+        "image_url": "https://www.infobae.com/resizer/v2/35Q2L5VLWVEIZJL3PUMERAJDNY.jpg?auth=463f1a5350f647eb72a733908f85d8fe3c493a3f6e2f71e93853d4397b3cfec5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "actores",
+            "gente españa",
+            "españa-entretenimiento",
+            "españa-noticias",
+            "famosos españa",
+            "enfermedades de famosos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/el-actor-y-comico-santi-rodriguez-7-vidas-habla-de-la-enfermedad-que-sufre-y-que-descubrio-por-casualidad-durante-una-conversacion-en-un-ave-yo-esa-palabreja-no-la-habia-oido-en-mi-vida/",
+        "date": "2025-08-13 19:48:05",
+        "sentiment_score": -0.5950466599315405
+    },
+    {
+        "title": "Cómo es la “estafa de la papelera”, el nuevo método para robar que se ha popularizado en Francia",
+        "image_url": "https://www.infobae.com/resizer/v2/DZIEYJSPFPW4QEKLS5NU46PYZU.jpg?auth=f9407090a2c724a2beaeea5b27c1a08b6d77313fdc27186591bd23389f0fed7b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "policía",
+            "españa-sociedad",
+            "estafas",
+            "robos",
+            "fraudes",
+            "españa-noticias",
+            "policía españa",
+            "francia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/como-es-la-estafa-de-la-papelera-el-nuevo-metodo-para-robar-que-se-ha-popularizado-en-francia/",
+        "date": "2025-08-13 19:46:29",
+        "sentiment_score": -0.5430984348058701
+    },
+    {
+        "title": "Íñigo Martínez deja el Barça para poner rumbo a Arabia y explica el motivo: “Cuando ves la oferta, no te lo crees”",
+        "image_url": "https://www.infobae.com/resizer/v2/A7WTZNUOQRBQRFFGIQAZUBST4Y.jpg?auth=86ea7ca5bf001354d64fff37ec8d7d6148b876a9ddbd8c3482eef9983f93d0aa&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "íñigo martínez",
+            "españa-deportes",
+            "fútbol",
+            "arabia saudí",
+            "fichajes",
+            "fútbol españa",
+            "al nassr",
+            "hansi flick",
+            "españa-noticias",
+            "fc barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/08/13/inigo-martinez-deja-el-barca-para-poner-rumbo-a-arabia-y-explica-el-motivo-cuando-ves-la-oferta-no-te-lo-crees/",
+        "date": "2025-08-13 19:45:57",
+        "sentiment_score": 0.3998993709683418
+    },
+    {
+        "title": "Robo de viviendas en verano: qué cubre realmente el seguro de hogar",
+        "image_url": "https://www.infobae.com/resizer/v2/JD4M5BBBVNDAXKO2S5C57GB2KU.jpg?auth=536d2cbdd667d76d0d24765ca0c0568b99607bba9a6cf6653b296630b97e31a5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "robos con violencia",
+            "verano",
+            "robos",
+            "españa-noticias",
+            "hurtos",
+            "vivienda españa",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/robo-de-viviendas-en-verano-que-cubre-realmente-el-seguro-de-hogar/",
+        "date": "2025-08-13 19:45:57",
+        "sentiment_score": -0.39814678579568863
+    },
+    {
+        "title": "Un ciclista casi muere tras quedar atrapado en mitad de una ruta: “Tenía miedo de que me cortaran la garganta”",
+        "image_url": "https://www.infobae.com/resizer/v2/ORMBSIUEBFAMPFZDD4TMRPKUWM.jpg?auth=9bb31519a7810d7db2a34539a4e7d3122e7d73c8125a460b680743b5aa09afd5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "intento de asesinato",
+            "ciclismo",
+            "sucesos",
+            "sucesos españa",
+            "españa-sociedad",
+            "trampas",
+            "españa-noticias",
+            "ciclistas",
+            "criminalidad y sucesos",
+            "francia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/un-ciclista-casi-muere-tras-quedar-atrapado-en-mitad-de-una-ruta-tenia-miedo-de-que-me-cortaran-la-garganta/",
+        "date": "2025-08-13 19:17:35",
+        "sentiment_score": -0.828898599371314
+    },
+    {
+        "title": "Cómo saber si están ligando contigo, según una psicóloga: “Una sonrisa no se puede fingir”",
+        "image_url": "https://www.infobae.com/resizer/v2/2QQZ2KYK3FE3FMWLQDHSXTKNSQ.jpeg?auth=6d12c3bfe6c6f223d703dd1a32bfd7b3d2d9ccb5719a239889f5f0285270adf6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cerebro",
+            "españa-noticias",
+            "españa-sociedad",
+            "psicología"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/como-saber-si-estan-ligando-contigo-segun-una-psicologa-una-sonrisa-no-se-puede-fingir/",
+        "date": "2025-08-13 19:10:57",
+        "sentiment_score": -0.0910436362028122
+    },
+    {
+        "title": "Atapuerca desvela el capítulo más violento de la prehistoria en la Península Ibérica: escenario de un “canibalismo de guerra”",
+        "image_url": "https://www.infobae.com/resizer/v2/HVUQRYBGVBGVHF2WLW4OGQ3G7U.png?auth=3eb8d5a22212542789eece99cc32a0cf192903f8801ca4db4b50917ece80e10b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "atapuerca",
+            "arqueología",
+            "sucesos",
+            "sucesos españa",
+            "descubrimientos arqueológicos",
+            "neolítico",
+            "españa sociedad",
+            "castilla y león",
+            "españa-noticias",
+            "burgos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/atapuerca-desvela-el-capitulo-mas-violento-de-la-prehistoria-en-la-peninsula-iberica-escenario-de-un-canibalismo-de-guerra/",
+        "date": "2025-08-13 19:08:28",
+        "sentiment_score": -0.8422615993767977
+    },
+    {
+        "title": "Llevan una tarta al restaurante y les dicen que no hay problema, pero luego les cobran 27 euros por “cortarla” en el local: “Se entiende la parte del restaurante, pero hay que informar al cliente”",
+        "image_url": "https://www.infobae.com/resizer/v2/S3UNFLO6RFHMNJLYZYSW5IQ4LI.jpg?auth=6d763ecf2bbc494892930b1ab139b240b6800caa2cb6012d14cbd7b4b2e20c0f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "x",
+            "españa-noticias",
+            "camareros",
+            "hostelería españa",
+            "españa-economía",
+            "twitter",
+            "restaurantes españa",
+            "redes sociales",
+            "restaurantes"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/13/llevan-una-tarta-al-restaurante-y-les-dicen-que-no-hay-problema-pero-luego-les-cobran-27-euros-por-cortarla-en-el-local-se-entiende-la-parte-del-restaurante-pero-hay-que-informar-al-cliente/",
+        "date": "2025-08-13 18:45:55",
+        "sentiment_score": -0.15805496275424957
+    },
+    {
+        "title": "Centenares de manifestantes se concentran en Barcelona contra el asesinato de periodistas en Gaza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/53HYKGPCFZOR5ON4I63DHLQSJ4.jpg?auth=8f3ca19239d535c14e898fc142ddd693eb17b705ed01f025d966b1bc14b1b796&width=1200",
+        "tags": [
+            "barcelona",
+            "ayuntamiento barcelona",
+            "cataluña",
+            "guerra",
+            "periodismo de guerra",
+            "plaza de cataluña",
+            "periodistas",
+            "conflicto árabe-israelí",
+            "israel",
+            "palestina",
+            "hamás"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-13/centenares-de-manifestantes-se-concentran-en-barcelona-contra-el-asesinato-de-periodistas-en-gaza.html",
+        "date": "2025-08-13 20:16:23",
+        "sentiment_score": -0.07668715715408325
+    },
+    {
+        "title": "En el pueblo desalojado y fantasma de Abejera: “Fue como si salieras de una zona de guerra”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/L5ZULSFBM5HRBCOMU4UJTCOUNE.JPG?auth=233f04a6a3f393ccbd8ce0e656c7a37e483174dc3850bb92cb28cd6c3f7dd529&width=1200",
+        "tags": [
+            "españa vacía",
+            "zamora",
+            "castilla y león",
+            "españa",
+            "ume",
+            "incendios",
+            "incendios forestales",
+            "guardia civil"
+        ],
+        "link": "https://elpais.com/espana/2025-08-13/en-el-pueblo-desalojado-y-fantasma-de-abejera-fue-como-si-salieras-de-una-zona-de-guerra.html",
+        "date": "2025-08-13 19:39:18",
+        "sentiment_score": -0.4481911100447178
+    },
+    {
+        "title": "Sin luz y rodeados de humo: la espera de los vecinos cercados por el fuego en un pueblo de Cáceres",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HGKMST4WU5OEFJO7Y2SAUT7PZU.jpg?auth=f4f71d1f312285865c79ee7d709dfdb5bc787ea29aeec3f6b06371a3fa57bb01&width=1200",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-08-13/sin-luz-y-rodeados-de-humo-la-espera-de-los-vecinos-cercados-por-el-fuego-en-un-pueblo-de-caceres.html",
+        "date": "2025-08-13 19:16:59",
+        "sentiment_score": -0.6148647740483284
+    },
+    {
+        "title": "El arzobispo de Oviedo llama “moritos” a los musulmanes y les recrimina no condenar asesinatos de cristianos “en sus territorios”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LJHLXPMRCREBHFMFRVT3LDKNSA.jpg?auth=894c6d3f011f7198fc3b7b587cb20524ac7d37df4822baffdb65b36ac3f3cc37&width=1200",
+        "tags": [
+            "religión",
+            "conferencia episcopal española",
+            "musulmanes",
+            "extrema derecha",
+            "conferencia episcopal",
+            "vox",
+            "cristianismo",
+            "islam",
+            "obispos",
+            "santiago abascal",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-08-13/el-arzobispo-de-oviedo-llama-moritos-a-los-musulmanes-espanoles-y-les-recrimina-no-condenar-los-asesinatos-de-cristianos-en-sus-territorios.html",
+        "date": "2025-08-13 19:04:28",
+        "sentiment_score": 0.006260305643081665
+    },
+    {
+        "title": "Las mejores casas de Soto de Viñuelas fueron las más afectadas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HSSVLEUV6RHEPO5G55OHLSFQ3U.JPG?auth=8cee499bdb280603885da6944447f99ecbd9583a8e97e3b4cab2894fb72ecf12&width=1200",
+        "tags": [
+            "madrid",
+            "sucesos",
+            "siniestro total",
+            "seguros",
+            "incendios",
+            "tres cantos",
+            "árboles",
+            "incendios forestales",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-08-13/las-mejores-casas-de-soto-de-vinuelas-fueron-las-mas-afectadas.html",
+        "date": "2025-08-13 18:01:13",
+        "sentiment_score": -0.7747555077075958
+    },
+    {
+        "title": "El cambio sociológico tranquilo en el pueblo olivarero de Jaén con más inmigración",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DNPQ3YTYGRGS5LXYTSYVJGOOII.jpg?auth=1d6e33307e7ae53a5f8bdba73a36c90cd5a81d0779d999aa01b4b3850ac71fcd&width=1200",
+        "tags": [
+            "andalucía",
+            "integración educativa",
+            "españa",
+            "temporeros",
+            "aceitunas",
+            "provincia jaén",
+            "migración",
+            "integración social",
+            "agricultura",
+            "diputación provincial jaén"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2025-08-13/el-cambio-sociologico-tranquilo-en-el-pueblo-olivarero-de-jaen-con-mas-inmigracion.html",
+        "date": "2025-08-13 17:33:16",
+        "sentiment_score": 0.44775618240237236
+    },
+    {
+        "title": "El fuego descontrolado amenaza la reserva del oso en la Montaña Palentina",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/43BZ5U2TJJCSFPEOOHPHKEE4W4.jpeg?auth=5a1407ce55fd40940a8154ddaeb3de4335acd1dbf6c020a5747c9da53dcef4a4&width=1200",
+        "tags": [
+            "castilla y león",
+            "palencia",
+            "españa",
+            "medio ambiente",
+            "incendios forestales"
+        ],
+        "link": "https://elpais.com/espana/2025-08-13/el-fuego-descontrolado-amenaza-la-reserva-del-oso-en-la-montana-palentina.html",
+        "date": "2025-08-13 17:22:28",
+        "sentiment_score": -0.7659419663250446
+    },
+    {
+        "title": "Cádiz en la mesa: 10 restaurantes para descubrir y, en algún caso, redescubrir",
+        "image_url": "https://phantom-elmundo.uecdn.es/223bd429b7804e795cd1da8ff6a65e9a/crop/145x254/1333x1046/f/webp/assets/multimedia/imagenes/2025/07/30/17538710911548.jpg",
+        "tags": [
+            "cádiz",
+            "comer",
+            "restaurantes",
+            "ocio",
+            "gastronomía",
+            "verano"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/08/14/6887af71e4d4d8ad228b4593.html",
+        "date": "2025-08-13 22:13:08",
+        "sentiment_score": 0.7737037129700184
+    },
+    {
+        "title": "La Liga de España arranca con un Barcelona que asusta a sus dos rivales de Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/la-liga-de-espana-arranca-con-un-barcelona-que-asusta-a-sus-dos-rivales-de-madrid/",
+        "date": "2025-08-13 21:47:15",
+        "sentiment_score": -0.18023015558719635
+    },
+    {
+        "title": "La portavoz de Más Madrid acusa a Ayuso de «externalizar los montes»... ¡por contratar a la pública Tragsa!",
+        "image_url": "https://okdiario.com/img/2025/08/13/manuela-bergerot-interior.jpg",
+        "tags": [
+            "españa",
+            "isabel díaz ayuso",
+            "más madrid"
+        ],
+        "link": "https://okdiario.com/espana/portavoz-mas-madrid-acusa-ayuso-externalizar-montes-contratar-publica-tragsa-15250146",
+        "date": "2025-08-13 21:34:46",
+        "sentiment_score": -0.5621502101421356
+    },
+    {
+        "title": "El tren Almería-Granada, un proyecto de mil millones para dejar el trayecto en «menos de hora y media»",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/08/13/puenteviaducto.jpg",
+        "tags": [
+            "granada",
+            "españa",
+            "transportes",
+            "almería",
+            "félix bolaños"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/tren-almeriagranada-proyecto-mil-millones-dejar-trayecto-20250814233025-nt.html",
+        "date": "2025-08-13 21:30:26",
+        "sentiment_score": -0.33457808941602707
+    },
+    {
+        "title": "Así fue el partido del Cuti Romero en la caída por penales de Tottenham ante el PSG: capitanía, un gol y participación en otro",
+        "image_url": "https://www.infobae.com/resizer/v2/AKI7FQ4SQVAHDHYNY6PHA6ZGYM.jpeg?auth=669b80edb10009a55cdec1e93d05894c5563fd4d8f370ad5cb5402de08b4d940&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cristian romero",
+            "parís saint-germain",
+            "deportesespn",
+            "supercopa de europa",
+            "tottenham hotspur",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/13/asi-fue-el-partido-del-cuti-romero-en-la-caida-por-penales-de-tottenham-ante-el-psg-capitania-un-gol-y-participacion-en-otro/",
+        "date": "2025-08-13 21:26:34",
+        "sentiment_score": 0.517168864607811
+    },
+    {
+        "title": "La tabla histórica de títulos internacionales tras la conquista del PSG ante Tottenham: qué lugar ocupan Boca e Independiente",
+        "image_url": "https://www.infobae.com/resizer/v2/7U7ZL43K5RHSDF2RCTVLOFFOHM.JPG?auth=d66167c2e8f237e5d6646bf574b3e53b1c1441b142baba8be7850cab4331742a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "boca juniors",
+            "real madrid",
+            "argentina-deportes",
+            "independiente",
+            "europa league",
+            "psg",
+            "supercopa de europa",
+            "champions league",
+            "inter de milán",
+            "tottenham",
+            "chelsea"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/13/la-tabla-historica-de-titulos-internacionales-tras-la-conquista-del-psg-ante-tottenham-que-lugar-ocupan-boca-e-independiente/",
+        "date": "2025-08-13 21:25:00",
+        "sentiment_score": -0.7037987317889929
+    },
+    {
+        "title": "El PSG conquista la Supercopa de Europa en los penaltis tras remontar 'in extremis' dos goles del Tottenham Hotspur",
+        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743886058_257978937_1706x960.jpg?contentId=1003743886058",
+        "tags": [
+            "fútbol",
+            "tottenham hotspur",
+            "psg (paris saint germain)"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250813/psg-conquista-supercopa-europa-penaltis-remontar-in-extremis-goles-tottenham-hotspur/1003743886052_0.html",
+        "date": "2025-08-13 21:10:31",
+        "sentiment_score": -0.7466353625059128
+    },
+    {
+        "title": "Dos habitantes censados en el pueblo más pequeño de España: \"En verano igual nos juntamos 15 y hay un cierto barullo\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/c1d595e6f37f02c55744d4285b555ae3/resize/1200/f/webp/assets/multimedia/imagenes/2025/08/13/17551000987145.jpg",
+        "tags": [
+            "mundo rural",
+            "josé luis martínez-almeida"
+        ],
+        "link": "https://www.elmundo.es/papel/historias/2025/08/13/689c6f06fdddff42538b4575.html",
+        "date": "2025-08-13 20:56:38",
+        "sentiment_score": -0.01953604817390442
+    },
+    {
+        "title": "El pequeño 'oasis' bajo los polémicos toldos de una Puerta del Sol con el granito a casi 50 grados: \"Afuera te mueres\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/8195674c40ad44c3e6856531bcf8fb15/crop/86x36/726x676/f/image/jpeg/assets/multimedia/imagenes/2022/03/21/16478803395824.jpg",
+        "tags": [
+            "artículos carlos guisasola",
+            "josé luis martínez-almeida"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/08/13/689cdc13e85ece9a7a8b45a9.html",
+        "date": "2025-08-13 20:56:25",
+        "sentiment_score": -0.24269741773605347
+    },
+    {
+        "title": "El partido del Lugo ante el Real Madrid Castilla será el día 29 a las siete y cuarto",
+        "image_url": "https://cflvdg.avoz.es/sc/S_hAq4LXtJxzxPKnT452A4Cj9is=/768x/2025/08/13/00121755115681300704827/Foto/LG14P34F2_22647.jpg",
+        "tags": [
+            "movistar",
+            "primera rfef",
+            "lugo",
+            "rfef",
+            "cd lugo"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/lugo/2025/08/14/partido-ante-real-madrid-castilla-sera-dia-29-siete-cuarto/0003_202508L14P34991.htm",
+        "date": "2025-08-13 20:30:00",
+        "sentiment_score": -0.015581689774990082
+    },
+    {
+        "title": "1a PARTE | 13 AGO 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/1a-parte-13-ago-2025-partidazo-cope-20250814_3199185.html",
+        "date": "2025-08-13 22:19:11",
+        "sentiment_score": 0.0671662762761116
+    },
+    {
+        "title": "¿Por qué desaparecen las VPO en plena crisis de vivienda? \"Lo que es público debería ser público siempre\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/5b78eb66f46aa0193960737884d149ba/crop/1019x163/2165x1309/f/image/jpeg/assets/multimedia/imagenes/2025/02/05/17387861273131.jpg",
+        "tags": [
+            "gobierno de españa",
+            "artículos paloma h. matellano",
+            "vivienda",
+            "alquiler",
+            "generalitat de cataluña"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/08/14/689ccb3dfdddff7b3f8b4573.html",
+        "date": "2025-08-13 22:12:25",
+        "sentiment_score": -0.8148335050791502
+    },
+    {
+        "title": "¿Por qué Joan Laporta tiene que pedir un aval para el FC Barcelona?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/03/2025040316543576845.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/que-joan-laporta-tiene-que-pedir-aval-fc-barcelona/20250814001010353038.html",
+        "date": "2025-08-13 22:10:10",
+        "sentiment_score": -0.01989656686782837
+    },
+    {
+        "title": "Mujeres que viajan solas: la tendencia que cada vez toma más fuerza en Colombia",
+        "image_url": "https://www.infobae.com/resizer/v2/KIANASVQT5EDRDRWUII6S5HM3I.jpg?auth=ce040c46a42882c2867f992891a5b025febb0c391c9fe9ba410eb3ad0bc82b84&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "destinos por conocer en colombia",
+            "viajeras",
+            "mujeres que viajan solas",
+            "colombia-viajes",
+            "turismo por colombia",
+            "colombia-noticias"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/08/13/mujeres-que-viajan-solas-la-tendencia-que-cada-vez-toma-mas-fuerza-en-colombia/",
+        "date": "2025-08-13 22:06:07",
+        "sentiment_score": -0.07081910967826843
+    },
+    {
+        "title": "“Israel no quiere testigos”",
+        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/36410b1e/IMG_20250813_190346.jpg?v=63922337850",
+        "tags": [
+            "palestina",
+            "global"
+        ],
+        "link": "https://www.elsaltodiario.com/genocidio/israel-no-quiere-testigos",
+        "date": "2025-08-13 22:00:00",
+        "sentiment_score": -0.7704586572945118
+    },
+    {
+        "title": "Una clínica estética pija sepultará la Sala Granados de Avenida Tibidabo",
+        "image_url": "https://a1.elespanol.com/cronicaglobal/2025/08/12/business/1003742681186_15007207_1706x960.jpg?contentId=1003742681186",
+        "tags": [
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250813/clinica-estetica-sepultara-sala-granados-avenida-tibidabo/1003742680800_0.html",
+        "date": "2025-08-13 22:00:00",
+        "sentiment_score": 0.1522003710269928
+    },
+    {
+        "title": "Jefe de la Liga Premier pide paciencia mientras se prolonga el caso legal del Man City",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://lacalle.com.ve/jefe-de-la-liga-premier-pide-paciencia-mientras-se-prolonga-el-caso-legal-del-man-city/",
+        "date": "2025-08-13 21:51:21",
+        "sentiment_score": -0.7528454642742872
+    },
+    {
+        "title": "El incivismo mantiene la Ciutadella en máxima alerta este verano: “El parque ha sido una selva”",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2023/04/03/el-pulso-de-la-ciudad/753434691_10874172_1706x960.jpg?contentId=753434691",
+        "tags": [
+            "parc de la ciutadella",
+            "el pulso de la ciudad",
+            "sintecho",
+            "civismo",
+            "guardia urbana"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20250813/incivismo-mantiene-ciutadella-maxima-alerta-verano-parque-selva/1003742680922_0.html",
+        "date": "2025-08-13 21:30:00",
+        "sentiment_score": -0.593236118555069
+    },
+    {
+        "title": "Los vecinos de la zona alta de Barcelona perderán aparcamiento: decenas de estacionamientos eliminados en Sarrià-Sant Gervasi",
+        "image_url": "https://a1.elespanol.com/metropoliabierta/2025/08/13/sarria-sant-gervasi/1003742681309_15009510_1706x960.jpg?contentId=1003742681309",
+        "tags": [
+            "motos",
+            "sant gervasi-la bonanova",
+            "ayuntamiento de barcelona",
+            "sarrià - sant gervasi",
+            "urbanismo",
+            "coches",
+            "aparcamiento"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sarria-sant-gervasi/20250813/vecinos-zona-alta-barcelona-perderan-aparcamiento-decenas-estacionamientos-eliminados-sarria-sant-gervasi/1003742681244_0.html",
+        "date": "2025-08-13 21:30:00",
+        "sentiment_score": -0.7409790586680174
+    },
+    {
+        "title": "El mundo del anime en luto: fallece Nobuo Yamada, el legendario cantante de Los Caballeros del Zodíaco",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755124266255.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "los caballeros del zodíaco",
+            "nobuo yamada"
+        ],
+        "link": "https://2001online.com/farandula/el-mundo-del-anime-en-luto-fallece-nobuo-yamada-el-legendario-cantante-de-los-caballeros-del-zodiaco-202581318170",
+        "date": "2025-08-13 22:17:00",
+        "sentiment_score": 0.5556783713400364
+    },
+    {
+        "title": "Crece el imperio de Rafa Nadal: esta es la millonaria inversión que hará en Argentina",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755124642367.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "república dominicana",
+            "argentina",
+            "hoteles en argentina",
+            "rafael nadal",
+            "hoteles meliá",
+            "españa",
+            "hoteles",
+            "tenis",
+            "javier milei",
+            "rafael nadal invierte en argentina"
+        ],
+        "link": "https://2001online.com/deportes/crece-el-imperio-de-rafa-nadal-esta-es-la-millonaria-inversion-que-hara-en-argentina-202581318500",
+        "date": "2025-08-13 22:03:36",
+        "sentiment_score": 0.5873044952750206
+    },
+    {
+        "title": "Cristiano Ronaldo entra al club de los milmillonarios: el astro portugués alcanza un hito histórico de riqueza",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755125377051.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cristiano ronaldo",
+            "lionel messi",
+            "fútbol",
+            "lionel messi y cristiano ronaldo",
+            "cristiano ronaldo y georgina",
+            "dinero de cristiano ronaldo",
+            "faiq bolkiah"
+        ],
+        "link": "https://2001online.com/deportes/cristiano-ronaldo-entra-al-club-de-los-milmillonarios-el-astro-portugues-alcanza-un-hito-historico-de-riqueza-20258131900",
+        "date": "2025-08-13 22:03:35",
+        "sentiment_score": 0.17108601331710815
+    },
+    {
+        "title": "¿Gratis y en el mismo día? Así es el nuevo servicio de entrega de alimentos de Amazon",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755121441795.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "entregas",
+            "amazon",
+            "gratis"
+        ],
+        "link": "https://2001online.com/usa/servicios/gratis-y-en-el-mismo-dia-asi-es-el-nuevo-servicio-de-entrega-de-alimentos-de-amazon-20258131800",
+        "date": "2025-08-13 22:00:00",
+        "sentiment_score": 0.7028167527168989
+    },
+    {
+        "title": "Cumbre Trump - Putin: diplomático explica los posibles resultados del encuentro",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755118907516.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "estados unidos",
+            "vladimir putin",
+            "usa",
+            "eeuu",
+            "ucrania",
+            "rusia",
+            "donald trumo"
+        ],
+        "link": "https://2001online.com/internacionales/cumbre-trump---putin-diplomatico-explica-los-posibles-resultados-del-encuentro--202581317430",
+        "date": "2025-08-13 21:43:00",
+        "sentiment_score": -0.40403978899121284
+    },
+    {
+        "title": "Reportan caída masiva de WhatsApp este 13 de agosto: ¿qué pasó?",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755119957714.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "caida de whatsapp",
+            "whatsapp",
+            "reportan caída masiva de whatsapp"
+        ],
+        "link": "https://2001online.com/internacionales/reportan-caida-masiva-de-whatsapp-este-13-de-agosto-que-paso--202581317160",
+        "date": "2025-08-13 21:23:00",
+        "sentiment_score": -0.7419158201664686
+    },
+    {
+        "title": "¡Yailín La Más Viral se declara bisexual! Se le suma a artistas como Lady Gaga y Demi Lovato",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755121631267.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "demi lovato",
+            "yailin la màs viral",
+            "lady gaga"
+        ],
+        "link": "https://2001online.com/farandula/yailin-la-mas-viral-se-declara-bisexual-se-le-suma-a-artistas-como-lady-gaga-y-demi-lovato-202581317210",
+        "date": "2025-08-13 21:21:00",
+        "sentiment_score": -0.005209676921367645
+    },
+    {
+        "title": "El Gran Hotel Meliá Caribe revive: se perfila como un motor de turismo y empleo para La Guaira",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755122211763.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "gran hotel meliá caribe",
+            "la guaira"
+        ],
+        "link": "https://2001online.com/nacionales/el-gran-hotel-melia-caribe-revive-se-perfila-como-un-motor-de-turismo-y-empleo-para-la-guaira-202581317170",
+        "date": "2025-08-13 21:17:00",
+        "sentiment_score": -0.7688988577574492
+    },
+    {
+        "title": "Precio del dólar y euro BCV para el 14 de agosto: así se cotizarán las divisas oficiales",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755119589837.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bcv",
+            "dinero"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-14-de-agosto-asi-se-cotizaran-las-divisas-oficiales-202581317150",
+        "date": "2025-08-13 21:15:00",
+        "sentiment_score": -0.011883635073900223
+    },
+    {
+        "title": "Nuevo listado de jubilados del ministerio de Educación: también abonan pago de sus prestaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755119421988.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ministerio de educación",
+            "jubilados de educación",
+            "maestros jubilados"
+        ],
+        "link": "https://2001online.com/servicios/nuevo-listado-de-jubilados-del-ministerio-de-educacion-tambien-abonan-pago-de-sus-prestaciones-202581317110",
+        "date": "2025-08-13 21:11:00",
+        "sentiment_score": 0.0975959561765194
     }
 ];
