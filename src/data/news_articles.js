@@ -151,102 +151,6 @@ export default [
         "sentiment_score": -0.7376398984342813
     },
     {
-        "title": "Anas Al Sharif, el periodista palestino, se depide en un mensaje póstumo: «Si este mensaje te ha llegado, han logrado silenciarme»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/11/alsharif-kHMB-U701401301031dCB-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/anas-shrif-periodista-palestino-depide-mensaje-postumo-20250811114054-nt.html",
-        "date": "2025-08-11 12:39:51",
-        "sentiment_score": -0.1901000589132309
-    },
-    {
-        "title": "Muere Miguel Uribe, el precandidato presidencial colombiano tiroteado en un mitin en junio",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/11/uribe.jpg",
-        "tags": [
-            "uh abc",
-            "colombia"
-        ],
-        "link": "https://www.abc.es/internacional/muere-miguel-uribe-candidato-presidencial-colombiano-tiroteado-20250811121414-nt.html",
-        "date": "2025-08-11 11:53:16",
-        "sentiment_score": -0.08463898301124573
-    },
-    {
-        "title": "Al menos ocho muertos por un posible ajuste de cuentas a la salida de una discoteca en Ecuador",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/11/policiaecuador-k9LE-U701401968376ijH-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/ocho-muertos-posible-ajuste-cuentas-salida-discoteca-20250811133814-nt.html",
-        "date": "2025-08-11 11:38:46",
-        "sentiment_score": -0.3112345039844513
-    },
-    {
-        "title": "¿Necesitas renovar tus auriculares inalámbricos? PcComponentes tiene unos perfectos para ti por sólo 15€",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/favorito/2025/08/11/auricularesinalambricosPcComEssentialTwins-RMGsa0Oocvh8NeQPOWTmZPP-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/favorito/necesitas-renovar-tus-auriculares-inalambricos-pccomponentes-perfectos-20250811123153-nt.html",
-        "date": "2025-08-11 11:19:40",
-        "sentiment_score": -0.05905082821846008
-    },
-    {
-        "title": "El precio del alquiler sube casi un 15% respecto al año pasado",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/08/11/1487915136-RYjfoZtm0Buo62KbdABZTxL-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "vivienda",
-            "pisos"
-        ],
-        "link": "https://www.abc.es/economia/precio-alquiler-sube-respecto-ano-pasado-20250811125911-nt.html",
-        "date": "2025-08-11 11:00:16",
-        "sentiment_score": -0.12832282483577728
-    },
-    {
-        "title": "Nvidia y AMD cederán al Gobierno de EEUU el 15% de sus ingresos por la venta de chips de IA a China",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/08/11/logo-nvidia-reuters-RrzE77fEtaYDtY9FSmNbC0M-1200x840@diario_abc.jpg",
-        "tags": [
-            "donald trump",
-            "china",
-            "estados unidos"
-        ],
-        "link": "https://www.abc.es/economia/nvidia-amd-cederan-gobierno-eeuu-ingresos-venta-20250811111618-nt.html",
-        "date": "2025-08-11 10:58:37",
-        "sentiment_score": -0.1670096516609192
-    },
-    {
-        "title": "Suecia fortalece su cooperación militar con Ucrania a través de un envío armamentístico",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/11/zelenski-k6vD-U701401494397FrB-1200x840@diario_abc.jpg",
-        "tags": [
-            "volodímir zelenski",
-            "ucrania",
-            "suecia",
-            "kiev"
-        ],
-        "link": "https://www.abc.es/internacional/suecia-fortalece-cooperacion-militar-ucrania-traves-envio-20250811124358-nt.html",
-        "date": "2025-08-11 10:44:25",
-        "sentiment_score": 0.05992370843887329
-    },
-    {
-        "title": "Un español que vive en Suiza explica cuánto dinero gana trabajando de lavaplatos en este país: «Como salario base...»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2025/08/11/lavaplatos-montaje-kShB-U701401253675IVD-1200x840@diario_abc.jpg",
-        "tags": [
-            "europa",
-            "salario",
-            "suiza",
-            "trabajadores",
-            "redes sociales",
-            "tiktok",
-            "españa",
-            "ad abc",
-            "dinero"
-        ],
-        "link": "https://www.abc.es/recreo/espanol-vive-suiza-explica-dinero-gana-trabajando-20250811122330-nt.html",
-        "date": "2025-08-11 10:30:30",
-        "sentiment_score": -0.10007426142692566
-    },
-    {
         "title": "Una riña familiar termina con dos atrincherados y tres heridos en el barrio Puerta del Ángel",
         "image_url": "https://imagenes.elpais.com/resizer/v2/CBQ3TL6RW5CM3JIZX2AITVPY7Q.jpeg?auth=35c11c7616320559d2c841347e35c33fa5e61ce47023dc17db8c2be5f976c297&width=1200",
         "tags": [
@@ -353,87 +257,6 @@ export default [
         "link": "https://elpais.com/espana/2025-08-11/el-incendio-forestal-de-yeres-que-ha-afectado-a-las-medulas-de-castilla-y-leon-en-imagenes.html",
         "date": "2025-08-11 14:29:50",
         "sentiment_score": -0.7707688100636005
-    },
-    {
-        "title": "El PP mantiene su aval al veto de Jumilla pese a decir que defiende la “libertad de culto”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LQUCESS4YVDENIOUNTSGC56ESM.jpg?auth=eb9b195b3ab8918e87dba3aba710bea4376cfdea333789d494d1426ef8c7ffdb&width=1200",
-        "tags": [
-            "juan bravo baena",
-            "región de murcia",
-            "santos cerdán",
-            "santiago abascal",
-            "conferencia episcopal",
-            "islamofobia",
-            "jumilla",
-            "españa",
-            "vox",
-            "alberto núñez feijóo",
-            "gobierno"
-        ],
-        "link": "https://elpais.com/espana/2025-08-11/el-pp-mantiene-su-aval-al-veto-de-jumilla-pese-a-decir-que-defiende-la-libertad-de-culto.html",
-        "date": "2025-08-11 13:40:25",
-        "sentiment_score": -0.7359523959457874
-    },
-    {
-        "title": "Nueve malienses y un senegalés, los diez primeros menores trasladados desde Canarias a la península",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VCALRYKFBVDY3CJ2VH4ACYLT2M.jpg?auth=18b4a813d439389666ad55430f1aedd43fac20260d480b55249ed135ebdf7e5a&width=1200",
-        "tags": [
-            "inmigrantes africanos",
-            "menores",
-            "inmigrantes",
-            "españa",
-            "inmigración irregular",
-            "menores migrantes",
-            "tribunal supremo",
-            "inmigración",
-            "inmigración irregular españa",
-            "gobierno canarias",
-            "fernando clavijo",
-            "canarias"
-        ],
-        "link": "https://elpais.com/espana/2025-08-11/nueve-malienses-y-un-senegales-los-diez-primeros-menores-trasladados-desde-canarias-a-la-peninsula.html",
-        "date": "2025-08-11 11:14:58",
-        "sentiment_score": -0.8810732569545507
-    },
-    {
-        "title": "Incendios forestales activos, en directo| El fuego se ceba con Castilla y León en plena ola de calor",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6XNPPP7ALNPLPJGSJOPJUYGC2Q.jpg?auth=a725d5ef9a69c2aaba233a9e266c3575720b309eedbdc88941b206087a01d2f8&width=1200",
-        "tags": [
-            "galicia",
-            "castilla y león",
-            "león",
-            "incendios",
-            "españa",
-            "ourense",
-            "zamora",
-            "las médulas",
-            "incendios forestales"
-        ],
-        "link": "https://elpais.com/espana/2025-08-11/incendios-forestales-en-directo.html",
-        "date": "2025-08-11 10:58:59",
-        "sentiment_score": -0.8017209395766258
-    },
-    {
-        "title": "Los socorristas de Barcelona, en huelga indefinida, apelan a la responsabilidad del Ayuntamiento en plena ola de calor",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O35P2J2ZPJBRHLS6KJLOMQGST4.jpg?auth=90dcaf246b31a40bb0fe4508ebb95d872f3b8eabf4b30006d9da876311588741&width=1200",
-        "tags": [
-            "barcelona",
-            "primeros auxilios",
-            "ayuntamiento barcelona",
-            "emergencias",
-            "cataluña",
-            "socorristas",
-            "servicios emergencia",
-            "playas",
-            "jordi valls",
-            "huelgas",
-            "laia bonet",
-            "jaume collboni",
-            "seguridad ciudadana"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-11/los-socorristas-de-barcelona-en-huelga-indefinida-apelan-a-la-responsabilidad-del-ayuntamiento-en-plena-ola-de-calor.html",
-        "date": "2025-08-11 10:44:09",
-        "sentiment_score": -0.8085773270577192
     },
     {
         "title": "El Real Zaragoza jugará su primer partido de liga en Anoeta",
@@ -8403,5 +8226,394 @@ export default [
         "link": "https://2001online.com/servicios/policia-migratoria-estas-son-las-funciones-y-tramites-que-puede-realizar-en-aeropuertos-y-fronteras-20258141740",
         "date": "2025-08-14 21:04:00",
         "sentiment_score": 0.03368551284074783
+    },
+    {
+        "title": "Clima en Málaga: cuál será la temperatura máxima y mínima este 15 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/4JLM2D7XO5CYFB22EHE7UZVHZA.png?auth=31432af2f18955afe456882c52b614f072d38886e4fdf91641a59f297c01726a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "málaga",
+            "españa sociedad",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/15/clima-en-malaga-cual-sera-la-temperatura-maxima-y-minima-este-15-de-agosto/",
+        "date": "2025-08-15 02:01:32",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Pronóstico del clima en Madrid este 15 de agosto: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/SHCTZRUOZVCJ3C2ZRHB3GXGZRA.png?auth=ccfd03e6d0570fe037ed9c51f84a1eba2b9ea17709785368392c6852d3f305ce&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "madrid",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/15/pronostico-del-clima-en-madrid-este-15-de-agosto-temperatura-lluvias-y-viento/",
+        "date": "2025-08-15 01:31:08",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Pronóstico del tiempo en Barcelona para este 15 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "barcelona",
+            "españa sociedad",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/15/pronostico-del-tiempo-en-barcelona-para-este-15-de-agosto/",
+        "date": "2025-08-15 01:16:58",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Falsa médica que firmó diagnósticos y actas de defunción en Colombia fue capturada en España: enfrentará cargos por estafa y falsedad",
+        "image_url": "https://www.infobae.com/resizer/v2/7ECRU2GQ6FACDHNO43Z244K66Y.jpeg?auth=15091dead06f8a03c23533803ef3fea2774c794f888b9d4a5136d360c0b645ce&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "colombia-noticias",
+            "falsa médica",
+            "mayra alejandra zapata",
+            "estafa",
+            "catherin román gonzález",
+            "policía de españa",
+            "interpol"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/08/14/falsa-medica-que-firmo-diagnosticos-y-actas-de-defuncion-en-colombia-fue-capturada-en-espana-enfrentara-cargos-por-estafa-y-falsedad/",
+        "date": "2025-08-14 23:20:07",
+        "sentiment_score": -0.8125813854858279
+    },
+    {
+        "title": "Crónica del España - Francia: 67-75",
+        "image_url": "https://www.infobae.com/resizer/v2/B2UCFUMZONDVPMFHEWN63PVKOQ.jpg?auth=05b2fc261ae03215deff86f0d74047529f6a0fb92f8ce0c04abf3c38055cc790&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/08/14/cronica-del-espana-francia-67-75/",
+        "date": "2025-08-14 22:19:15",
+        "sentiment_score": -0.0863264799118042
+    },
+    {
+        "title": "Cumpleaños de Franco Mastantuono: el festejo que contrasta con el de Lamine Yamal",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755225225988.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "madrid",
+            "real madrid",
+            "argentina",
+            "presentación de mastantuono",
+            "españa",
+            "xabi alonso",
+            "mastantuono",
+            "laliga",
+            "florentino pérez",
+            "franco mastantuono"
+        ],
+        "link": "https://2001online.com/deportes/cumpleanos-de-franco-mastantuono-el-festejo-que-contrasta-con-el-de-lamine-yamal-20258142300",
+        "date": "2025-08-15 02:03:22",
+        "sentiment_score": 0.8558494802564383
+    },
+    {
+        "title": "Jesús Gil, César Soto, Mateo Busquets... así suenan ahora los árbitros de Primera",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/08/arbitros-25-26.jpg",
+        "tags": [
+            "primer equipo y club"
+        ],
+        "link": "https://www.lagradaonline.com/rcd-espanyol/arbitros-primera-division-cambio-nombre/",
+        "date": "2025-08-15 01:00:06",
+        "sentiment_score": 0.42896778881549835
+    },
+    {
+        "title": "Un partido de LaLiga en EE.UU.: ¿por qué el duelo entre Barcelona y Villarreal genera tanta polémica?",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755218052111.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "laliga",
+            "villarreal",
+            "javier tebas",
+            "fc barcelona",
+            "laliga en estados unidos",
+            "ee.uu.",
+            "estados unidos",
+            "uefa",
+            "joan laporta",
+            "fifa"
+        ],
+        "link": "https://2001online.com/deportes/un-partido-de-laliga-en-ee-uu-por-que-el-duelo-entre-barcelona-y-villarreal-genera-tanta-polemica--20258142100",
+        "date": "2025-08-15 00:04:37",
+        "sentiment_score": 0.23903579264879227
+    },
+    {
+        "title": "Comienza LaLiga en España: partidos de la jornada 1, resultados y más",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/08/14/resultados-laliga-barcelona-real-madrid-jornada-1-orix/",
+        "date": "2025-08-15 00:03:38",
+        "sentiment_score": 0.1718549206852913
+    },
+    {
+        "title": "¿Cuándo debuta el Real Oviedo equipo de Grupo Pachuca en la Liga Española?",
+        "image_url": "https://www.infobae.com/resizer/v2/DAQZJD6P4ZFZBOK7MISIA25IVY.jpg?auth=73eccc7a91327b110b2363620f904b97377c8a319c5fc77caddc5a31f788105d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "club pachuca",
+            "real oviedo",
+            "mexico-deportes",
+            "futbol",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/08/14/cuando-debuta-el-real-oviedo-equipo-de-grupo-pachuca-en-la-liga-espanola/",
+        "date": "2025-08-14 23:55:00",
+        "sentiment_score": 0.440773643553257
+    },
+    {
+        "title": "Con la UME en la zona cero del incendio de Orense: \"Este fuego es traicionero. El viento cambia y en nada lo tienes a tu espalda\"",
+        "image_url": "https://s1.elespanol.com/2025/08/14/actualidad/1003743887431_258004766_1706x960.jpg?contentId=1003743887431",
+        "tags": [
+            "galicia",
+            "reportajes",
+            "ourense (provincia)",
+            "ume unidad militar de emergencias",
+            "incendios forestales",
+            "guardia civil"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250814/ume-zona-cero-incendio-orense-fuego-traicionero-viento-cambia-espalda/1003743886791_0.html",
+        "date": "2025-08-14 23:53:27",
+        "sentiment_score": -0.8414109228178859
+    },
+    {
+        "title": "Los incendios requieren más inversión y menos bronca política",
+        "image_url": "https://s1.elespanol.com/2025/08/14/actualidad/1003743887441_258004928_1024x576.jpg?contentId=1003743887441",
+        "tags": [
+            "partido popular (pp)",
+            "psoe (partido socialista obrero español)",
+            "incendios",
+            "editoriales",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20250814/incendios-requieren-inversion-bronca-politica/1003743887436_14.html",
+        "date": "2025-08-14 23:10:56",
+        "sentiment_score": -0.7573212236166
+    },
+    {
+        "title": "Unos cuantos libros",
+        "image_url": "https://gaceta.es/wp-content/uploads/2022/06/OPI-Javi-Torres-265.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://gaceta.es/opinion/unos-cuantos-libros-20250815-0110/",
+        "date": "2025-08-14 23:10:00",
+        "sentiment_score": 0.2439960390329361
+    },
+    {
+        "title": "2a PARTE | 14 AGO 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-14-ago-2025-partidazo-cope-20250815_3199732.html",
+        "date": "2025-08-14 23:04:34",
+        "sentiment_score": -0.07251541316509247
+    },
+    {
+        "title": "BASES DEL SORTEO MEET&GREET DE SEBASTIAN YATRA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "sebastián yatra",
+            "sorteo",
+            "concursos"
+        ],
+        "link": "https://www.lne.es/concursos/2025/08/15/bases-sorteo-meet-greet-sebastian-120626866.html",
+        "date": "2025-08-14 23:00:53",
+        "sentiment_score": 0.030602937564253807
+    },
+    {
+        "title": "La soledad ya no es cosa de ancianos: cada vez hay más personas solas jóvenes",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3435515.jpg",
+        "tags": [
+            "soledad",
+            "palma de mallorca",
+            "hogares de baleares",
+            "demografía en baleares",
+            "hogares",
+            "última hora",
+            "palma",
+            "ultimas noticias",
+            "local"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/15/2450447/soledad-cosa-ancianos-cada-vez-hay-mas-personas-solas-jovenes.html",
+        "date": "2025-08-15 02:00:01",
+        "sentiment_score": -0.29695458710193634
+    },
+    {
+        "title": "El Real Mallorca, otro año junto a los mejores",
+        "image_url": "https://uh.gsstatic.es/autor/editorial/32.png",
+        "tags": [
+            "medio de comunicación",
+            "última hora",
+            "editorial",
+            "prensa digital",
+            "grupo serra"
+        ],
+        "link": "https://www.ultimahora.es/opinion/editorial/2025/08/15/2450509/real-mallorca-otro-ano-junto-mejores.html",
+        "date": "2025-08-15 02:00:01",
+        "sentiment_score": 0.5505314245820045
+    },
+    {
+        "title": "Torre-Saura: los productos agrarios de ‘es comte vell’",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/08/15/2450269/torre-saura-productos-agrarios-comte-vell.html",
+        "date": "2025-08-15 02:00:01",
+        "sentiment_score": 0.2253110110759735
+    },
+    {
+        "title": "Un monstruo viene a ver al Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3435453.jpg",
+        "tags": [
+            "fútbol",
+            "fc barcelona",
+            "real mallorca",
+            "última hora",
+            "liga ea sports",
+            "primera división",
+            "laliga",
+            "ultimas noticias",
+            "rcd mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/08/15/2450393/monstruo-viene-ver-mallorca.html",
+        "date": "2025-08-15 02:00:01",
+        "sentiment_score": -0.847901001572609
+    },
+    {
+        "title": "Descubre cómo comprar tu pasaje de vacaciones con ayuda de la IA",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/08/Nuevo-website-scaled.png",
+        "tags": [
+            "zxgeneral"
+        ],
+        "link": "https://ultimasnoticias.com.ve/general/descubre-como-comprar-tu-pasaje-de-vacaciones-con-ayuda-de-la-ia/",
+        "date": "2025-08-15 01:57:09",
+        "sentiment_score": 0.00905650109052658
+    },
+    {
+        "title": "El nuevo mundo",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "nuevo",
+            "mundo"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/nuevo-mundo_0_2004567406.html",
+        "date": "2025-08-15 01:08:20",
+        "sentiment_score": -0.2808465361595154
+    },
+    {
+        "title": "¡Mundial 2026 a la vuelta de la esquina! Definen fecha para el sorteo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755224480293.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "mundial 2026"
+        ],
+        "link": "https://2001online.com/deportes/mundial-2026-a-la-vuelta-de-la-esquina-definen-fecha-para-el-sorteo-202581422120",
+        "date": "2025-08-15 02:12:00",
+        "sentiment_score": 0.07874853909015656
+    },
+    {
+        "title": "¡Alerta, usuarios de Zelle! El estado de Nueva York demanda a la empresa matriz por estas fallas de seguridad",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755222583287.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "estados unidos",
+            "estafas",
+            "zelle"
+        ],
+        "link": "https://2001online.com/usa/internacionales/alerta-usuarios-de-zelle-el-estado-de-nueva-york-demanda-a-la-empresa-matriz-por-estas-fallas-de-seguridad-20258142290",
+        "date": "2025-08-15 02:09:00",
+        "sentiment_score": 0.08714409172534943
+    },
+    {
+        "title": "¿No sabes qué hacer en vacaciones? Estos sitios en Caracas ofrecen actividades recreativas y artísticas gratuitas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755220597961.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "familias",
+            "venezuela",
+            "niños"
+        ],
+        "link": "https://2001online.com/comunidad/no-sabes-que-hacer-en-vacaciones-estos-sitios-en-caracas-ofrecen-actividades-recreativas-y-artisticas-gratuitas-20258142220",
+        "date": "2025-08-15 02:02:00",
+        "sentiment_score": -0.12306199967861176
+    },
+    {
+        "title": "Illinois desafía a Trump: gobernador firma estas leyes para proteger a los trabajadores",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755222223419.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "leyes",
+            "trabajo",
+            "illinois"
+        ],
+        "link": "https://2001online.com/usa/internacionales/illinois-desafia-a-trump-gobernador-firma-estas-leyes-para-proteger-a-los-trabajadores-20258142200",
+        "date": "2025-08-15 02:00:00",
+        "sentiment_score": -0.8556178323924541
+    },
+    {
+        "title": "“Camina, barre, baila, hace de todo\": la rutina diaria de una mujer brasileña para vivir a plenitud con sus 117 años de edad",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755115473485.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/camina-barre-baila-hace-de-todo-la-rutina-diaria-de-una-mujer-brasilena-para-vivir-a-plenitud-con-sus-117-anos-de-edad-20258142200",
+        "date": "2025-08-15 02:00:00",
+        "sentiment_score": 0.5530675314366817
+    },
+    {
+        "title": "Las guerreras K-pop hacen historia: rompe récord como la película más vista en Netflix",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755222899469.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "netflix",
+            "las guerreras kpop",
+            "pop demon hunters"
+        ],
+        "link": "https://2001online.com/farandula/las-guerreras-k-pop-hacen-historia-rompe-record-como-la-pelicula-mas-vista-en-netflix-202581421520",
+        "date": "2025-08-15 01:52:00",
+        "sentiment_score": 0.5586431622505188
+    },
+    {
+        "title": "Guerlain presenta su base Terracotta Le Teint Glow",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755223617329.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bases",
+            "guerlain"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/guerlain-presenta-su-base-terracotta-le-teint-glow-202581421500",
+        "date": "2025-08-15 01:50:00",
+        "sentiment_score": 0.48168500512838364
+    },
+    {
+        "title": "En vídeo: Mirla Castellanos y Rummy Olivo emocionan en Madrid con su emotiva versión de \"Venezuela\"",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755222267124.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "rummy olivo",
+            "mirla castellanos",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/farandula/en-video-mirla-castellanos-y-rummy-olivo-emocionan-en-madrid-con-su-emotiva-version-de-venezuela--202581421390",
+        "date": "2025-08-15 01:39:00",
+        "sentiment_score": -0.29430513083934784
+    },
+    {
+        "title": "Educación para niños con necesidades especiales: conoce la variedad de centros que atienden estos casos",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755214198761.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "centros de educación",
+            "escuelas",
+            "centros de atención",
+            "educación",
+            "comunidades",
+            "caraqueños"
+        ],
+        "link": "https://2001online.com/servicios/educacion-para-ninos-con-necesidades-especiales-conoce-la-variedad-de-centros-que-atienden-estos-casos--20258158150",
+        "date": "2025-08-15 01:33:22",
+        "sentiment_score": 0.3683946244418621
     }
 ];
