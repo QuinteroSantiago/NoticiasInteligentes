@@ -164,76 +164,6 @@ export default [
         "sentiment_score": -0.08863886445760727
     },
     {
-        "title": "Detenido un trabajador de extinción de incendios por causar un fuego que arrasó más de 2.000 hectáreas en Ávila",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/08/12/incendio-avila-ep-cuevas-RceZbFN3GfM9hIMzSpcPIiJ-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/espana/castilla-leon/detenido-trabajador-extincion-incendios-causar-fuego-arraso-20250812144656-nt.html",
-        "date": "2025-08-12 12:46:57",
-        "sentiment_score": -0.13053563237190247
-    },
-    {
-        "title": "Sandro, el nieto 'influencer' de Fidel Castro: «Tenemos muchas dificultades pero pronto va a ir mejorando»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/12/buenacastroinstagram-kWL-U7014064418077AE-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/sandro-nieto-influencer-fidel-castro-dificultades-pronto-20250812144233-nt.html",
-        "date": "2025-08-12 12:42:33",
-        "sentiment_score": -0.13400715589523315
-    },
-    {
-        "title": "Port Aventura cumple 30 años: atracciones imprescindibles, hoteles en el parque y algunas curiosidades",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/viajar/2025/06/26/PAP-CH_PANO_NONE_NOC_0722_002-R4ihjw5zEvlGKPvfdsX70gO-758x531@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/viajar/destinos/espana/port-aventura-cumple-anos-atracciones-imprescindibles-hoteles-20250812135822-nt.html",
-        "date": "2025-08-12 12:06:40",
-        "sentiment_score": 0.12411907315254211
-    },
-    {
-        "title": "Valencia avanza en la renovación del alumbrado público de Orriols y Benicalap con una inversión de 645.000 euros",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/08/12/operario-RZbhJU0zGWwPx7yLp5naMWI-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-avanza-renovacion-alumbrado-publico-orriols-benicalap-20250812135541-nt.html",
-        "date": "2025-08-12 11:55:42",
-        "sentiment_score": 0.029111266136169434
-    },
-    {
-        "title": "Elon Musk emprenderá acciones legales contra Apple por considerar que favorece a OpenAI en la App Store",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/08/12/edit-kaXH-U7014059222739SH-758x531@diario_abc.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/tecnologia/elon-musk-emprendera-acciones-legales-apple-considerar-20250812133749-nt.html",
-        "date": "2025-08-12 11:39:27",
-        "sentiment_score": -0.1258341670036316
-    },
-    {
-        "title": "Hungría boicotea la declaración unánime de la UE sobre Ucrania",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/12/viktoorbanreuters-kwFH-U701405770661htE-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/hungria-boicotea-declaracion-unanime-ue-sobre-ucrania-20250812132629-nt.html",
-        "date": "2025-08-12 11:26:29",
-        "sentiment_score": -0.01733967661857605
-    },
-    {
-        "title": "Récord histórico para los aeropuertos españoles: 32 millones de pasajeros en el mes de julio",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/08/12/1483882241-RFh6QfUUwssl5kz5gs0N9JN-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/aeropuertos-espanoles-movieron-millones-pasajeros-julio-batiendo-20250812124754-nt.html",
-        "date": "2025-08-12 11:02:56",
-        "sentiment_score": -0.03063616156578064
-    },
-    {
         "title": "Canarias eleva el tono contra el Gobierno por dilatar el traslado de menores solicitantes de asilo y exige un protocolo y un calendario",
         "image_url": "https://imagenes.elpais.com/resizer/v2/6YRPFSQ7VNHUDBS7OXDI36HWPE.jpg?auth=4f3db5890d5d3147507aff6bf81cba064271fd8e49fd783d6ba5c0973e6ce48f&width=1200",
         "tags": [
@@ -867,16 +797,6 @@ export default [
         "link": "https://www.abc.es/internacional/maduro-responde-eeuu-tras-aumento-20250812165449-nt.html",
         "date": "2025-08-12 15:17:24",
         "sentiment_score": -0.08798891305923462
-    },
-    {
-        "title": "Las reelecciones indefinidas acaban mal y El Salvador no será una excepción",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/12/nayibbukele-kTwC-U701406544541CID-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/reelecciones-indefinidas-acaban-mal-salvador-excepcion-20250812150959-nt.html",
-        "date": "2025-08-12 13:09:59",
-        "sentiment_score": -0.071312814950943
     },
     {
         "title": "El festival LGTB+ Circuit se reivindica en el Water Park Day: “Cuanto más quieran reprimir, más nos tienen que ver”",
@@ -8171,5 +8091,374 @@ export default [
         "link": "https://2001online.com/servicios/olvidaste-la-contrasena-para-ingresar-a-la-app-suve-asi-puedes-recuperarla-20258151700",
         "date": "2025-08-15 21:00:00",
         "sentiment_score": -0.007248647511005402
+    },
+    {
+        "title": "España: las predicciones del tiempo en Madrid este 16 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/SHCTZRUOZVCJ3C2ZRHB3GXGZRA.png?auth=ccfd03e6d0570fe037ed9c51f84a1eba2b9ea17709785368392c6852d3f305ce&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "madrid",
+            "noticias",
+            "españa noticias",
+            "tiempo en españa",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/16/espana-las-predicciones-del-tiempo-en-madrid-este-16-de-agosto/",
+        "date": "2025-08-16 01:30:58",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 16 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "noticias",
+            "españa noticias",
+            "tiempo en españa",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/16/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-16-de-agosto/",
+        "date": "2025-08-16 01:17:37",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "La película más popular en Prime Video España HOY",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "prime video",
+            "películas",
+            "streaming",
+            "noticias",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/08/15/la-pelicula-mas-popular-en-prime-video-espana-hoy/",
+        "date": "2025-08-15 23:30:44",
+        "sentiment_score": 0.15095959603786469
+    },
+    {
+        "title": "Reunión de Trump y Putin en Alaska por la guerra Rusia - Ucrania, en directo: declaraciones y última hora del posible acuerdo de paz hoy",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/15/1499788810-U701071054852xbG-U70141121288283E-1200x840@diario_abc.jpg",
+        "tags": [
+            "vladimir putin",
+            "ucrania",
+            "rusia",
+            "guerra en ucrania",
+            "volodímir zelenski",
+            "di-abc",
+            "alaska",
+            "donald trump"
+        ],
+        "link": "https://www.abc.es/internacional/reunion-trump-putin-alaska-guerra-rusia-ucrania-directo-declaraciones-ultima-hora-acuerdo-paz-hoy-20250815162757-di.html",
+        "date": "2025-08-15 22:39:57",
+        "sentiment_score": -0.15229180455207825
+    },
+    {
+        "title": "Castilla-La Mancha apuesta por la tecnología geoespacial para combatir los incendios forestales",
+        "image_url": "https://s1.elespanol.com/2025/08/11/actualidad/1003743881988_257908424_1706x960.jpg?contentId=1003743881988",
+        "tags": [
+            "tecnología",
+            "castilla la mancha",
+            "castilla-la mancha",
+            "innovación",
+            "incendios",
+            "incendios forestales"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/castilla-la-mancha/20250816/castilla-la-mancha-apuesta-tecnologia-geoespacial-combatir-incendios-forestales/1003743881966_0.html",
+        "date": "2025-08-16 01:40:26",
+        "sentiment_score": 0.42429111152887344
+    },
+    {
+        "title": "¿Corre peligro el Eurobasket 2025 para Dzanan Musa?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/16/2025081603201210926.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/corre-peligro-eurobasket-2025/20250816031711353264.html",
+        "date": "2025-08-16 01:17:11",
+        "sentiment_score": 0.810510266572237
+    },
+    {
+        "title": "Pesadilla para Gazzaniga y Girona en el inicio de La Liga española",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/custom/image/b9c888ca-59a2-11eb-a31f-0b4d74fa96dc.jpg?resize=200%2C200",
+        "tags": [
+            "gazzaniga girona rayo villarreal oviedo laliga",
+            "sports"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/pesadilla-para-gazzaniga-y-girona-en-el-inicio-de-la-liga-espa-ola/article_25fdcb40-56dd-51d4-bc23-e0c20c4af12a.html",
+        "date": "2025-08-15 23:03:51",
+        "sentiment_score": -0.42382698506116867
+    },
+    {
+        "title": "2a PARTE | 15 AGO 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-15-ago-2025-partidazo-cope-20250816_3199886.html",
+        "date": "2025-08-15 22:48:17",
+        "sentiment_score": 0.08306218683719635
+    },
+    {
+        "title": "El Burgos se postula como primer líder y el Valladolid también golea",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250816003501_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-burgos-postula-primer-lider-valladolid-tambien-golea-20250816003501.html",
+        "date": "2025-08-15 22:35:01",
+        "sentiment_score": 0.3954201266169548
+    },
+    {
+        "title": "Mágicas Montañas: Les Foces del Pendón, profundas y frondosas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0cf1179a-94ec-4367-95b7-37bdd9a32311_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "agua",
+            "asturias",
+            "josé manuel garcía"
+        ],
+        "link": "https://www.lne.es/asturias/2025/08/16/magicas-montanas-les-foces-pendon-120666862.html",
+        "date": "2025-08-16 02:01:00",
+        "sentiment_score": -0.12591014802455902
+    },
+    {
+        "title": "Real Mallorca-Fútbol Club Barcelona",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3436147.jpg",
+        "tags": [
+            "en directo",
+            "real mallorca",
+            "ultimas noticias",
+            "fc barcelona",
+            "primera división",
+            "jagoba arrasate",
+            "fútbol",
+            "última hora",
+            "minuto a minuto",
+            "laliga",
+            "rcd mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/08/16/2450803/real-mallorca-futbol-club-barcelona.html",
+        "date": "2025-08-16 02:00:01",
+        "sentiment_score": 0.7514440752565861
+    },
+    {
+        "title": "Júlia Truyol: «Sin proponérnoslo nos hemos convertido en una compañía de repertorio»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3434455.jpg",
+        "tags": [
+            "cultura",
+            "teatre principal d'inca",
+            "teatro en mallorca",
+            "la calòrica",
+            "teatre principal de palma",
+            "cultura en mallorca",
+            "júlia truyol"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/08/16/2449619/julia-truyol-proponernoslo-nos-hemos-convertido-compania-repertorio.html",
+        "date": "2025-08-16 02:00:01",
+        "sentiment_score": -0.1855846345424652
+    },
+    {
+        "title": "Las joyas de la náutica, a toda vela en la bahía de Palma",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3436219.jpg",
+        "tags": [
+            "sociedad",
+            "tendencias",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/08/16/2450853/joyas-nautica-toda-vela-bahia-palma.html",
+        "date": "2025-08-16 02:00:01",
+        "sentiment_score": 0.683253787457943
+    },
+    {
+        "title": "Los bancos concentran su financiación inmobiliaria en nuevas promociones 'prime' y agravan la crisis de vivienda",
+        "image_url": "https://s1.elespanol.com/2025/08/14/actualidad/1003743886722_257990792_1706x960.jpg?contentId=1003743886722",
+        "tags": [
+            "banca",
+            "vivienda",
+            "inmobiliario",
+            "fondos de inversión"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/inmobiliario/20250816/bancos-concentran-financiacion-inmobiliaria-nuevas-promociones-prime-agravan-crisis-vivienda/1003743886681_0.html",
+        "date": "2025-08-16 01:37:24",
+        "sentiment_score": 0.1168195903301239
+    },
+    {
+        "title": "Radiografía de las residencias de ancianos en España: el 70% son privadas y se concentran en Cataluña y Castilla y León",
+        "image_url": "https://s1.elespanol.com/2025/08/14/actualidad/1003743886685_257989969_1706x960.jpg?contentId=1003743886685",
+        "tags": [
+            "observatorio de la sanidad",
+            "residencias personas mayores"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20250816/radiografia-residencias-ancianos-espana-privadas-concentran-cataluna-castilla-leon/1003743885928_0.html",
+        "date": "2025-08-16 01:36:46",
+        "sentiment_score": 0.3661300614476204
+    },
+    {
+        "title": "Reconocido miembro de ‘El Chiringuito de Jugones’ visitó Colombia y habló maravillas del país: “Es el mejor viaje que he hecho”",
+        "image_url": "https://www.infobae.com/resizer/v2/F55L3XKQ35AUTENMXJHODVRXAA.png?auth=9413c9313028e6a9c7cc6d6a3eec2b88c9458d4313015f43dc1d5b9bba9cc1cf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "colombia",
+            "el chiringuito de jugone",
+            "turismo",
+            "colombia-noticia",
+            "colombia-entretenimiento",
+            "viaje",
+            "jota jordi"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/08/16/reconocido-miembro-de-el-chiringuito-de-jugones-visito-colombia-y-hablo-maravillas-del-pais-es-el-mejor-viaje-que-he-hecho/",
+        "date": "2025-08-16 01:10:14",
+        "sentiment_score": 0.5117249265313148
+    },
+    {
+        "title": "Alarma por la 'huida' de jóvenes en Melilla: 'Es una pena. Muchos que conozco están en Fráncfort, Düsseldorf, Dortmund...'",
+        "image_url": "https://s1.elespanol.com/2025/08/14/actualidad/1003743887009_257996173_1706x960.jpg?contentId=1003743887009",
+        "tags": [
+            "emigración",
+            "españa",
+            "desempleo"
+        ],
+        "link": "https://www.elespanol.com/espana/20250816/alarma-huida-jovenes-melilla-pena-conozco-francfort-dusseldorf-dortmund/1003743883069_0.html",
+        "date": "2025-08-16 01:06:20",
+        "sentiment_score": -0.8575893994420767
+    },
+    {
+        "title": "De Jumilla a Badalona: cuando García Albiol llegó a un acuerdo con los musulmanes para que no rezaran en la vía pública",
+        "image_url": "https://s1.elespanol.com/2025/08/14/actualidad/1003743886998_257996037_1706x960.jpg?contentId=1003743886998",
+        "tags": [
+            "inmigración",
+            "partido popular (pp)",
+            "badalona",
+            "política",
+            "xavier garcía albiol",
+            "musulmanes"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250816/jumilla-badalona-garcia-albiol-llego-acuerdo-musulmanes-no-rezaran-via-publica/1003743882819_0.html",
+        "date": "2025-08-16 01:06:04",
+        "sentiment_score": -0.09126558899879456
+    },
+    {
+        "title": "Críticas desde casa: leyenda mexicana de la F1 lanza un duro dardo contra Checo Pérez",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755305869673.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "checo perez",
+            "fórmula 1",
+            "max verstappen",
+            "sergio &quot;checo&quot; pérez",
+            "f1",
+            "red bull racing",
+            "joaquín ramírez",
+            "méxico"
+        ],
+        "link": "https://2001online.com/deportes/criticas-desde-casa-leyenda-mexicana-de-la-f1-lanza-un-duro-dardo-contra-checo-perez-20258152300",
+        "date": "2025-08-16 02:04:02",
+        "sentiment_score": -0.690073924139142
+    },
+    {
+        "title": "Seis ajustes que debes saber: la Green Card tiene nuevas reglas a partir de agosto",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755307438223.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cambios",
+            "uscis",
+            "green card"
+        ],
+        "link": "https://2001online.com/usa/servicios/seis-ajustes-que-debes-saber-la-green-card-tiene-nuevas-reglas-a-partir-de-agosto-20258152200",
+        "date": "2025-08-16 02:00:00",
+        "sentiment_score": 0.23059868067502975
+    },
+    {
+        "title": "¡Alerta de calvicie! Estos alimentos muy populares aceleran la caída del cabello: activan la producción de testosterona",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755200241358.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/alerta-de-calvicie-estos-alimentos-muy-populares-aceleran-la-caida-del-cabello-activan-la-produccion-de-testosterona-20258152200",
+        "date": "2025-08-16 02:00:00",
+        "sentiment_score": 0.2538200542330742
+    },
+    {
+        "title": "Elimina el sarro de los dientes con esta efectiva fórmula casera a base de bicarbonato de sodio: prepárala fácil y rápido en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755308896400.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/elimina-el-sarro-de-los-dientes-con-esta-efectiva-formula-casera-a-base-de-bicarbonato-de-sodio-preparala-facil-y-rapido-en-casa-202581521550",
+        "date": "2025-08-16 01:55:00",
+        "sentiment_score": -0.8728333655744791
+    },
+    {
+        "title": "Hallan sobres con misterioso polvo blanco en sede de ICE en Nueva York: esto dijo el FBI",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755309030080.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ice"
+        ],
+        "link": "https://2001online.com/usa/migracion/hallan-sobres-con-misterioso-polvo-blanco-en-sede-de-ice-en-nueva-york-esto-dijo-el-fbi-202581521500",
+        "date": "2025-08-16 01:50:00",
+        "sentiment_score": -0.48918958753347397
+    },
+    {
+        "title": "Luce una melena radiante: esta es la mascarilla capilar a base de aloe vera que hidrata desde la raíz hasta las puntas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755308182269.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/luce-una-melena-radiante-esta-es-la-mascarilla-capilar-a-base-de-aloe-vera-que-hidrata-desde-la-raiz-hasta-las-puntas-202581521450",
+        "date": "2025-08-16 01:45:00",
+        "sentiment_score": -0.8178540430963039
+    },
+    {
+        "title": "Ganadero enfrenta a delincuentes: presenta grave lesión en esta parte del cuerpo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755307232749.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "yaracuy",
+            "robo",
+            "delito"
+        ],
+        "link": "https://2001online.com/sucesos/ganadero-enfrenta-a-delincuentes-presenta-grave-lesion-en-esta-parte-del-cuerpo-202581518550",
+        "date": "2025-08-16 01:26:00",
+        "sentiment_score": -0.8013353664427996
+    },
+    {
+        "title": "Sigue la novela de Daddy Yankee: ¿qué información reveladora borró su exesposa de los equipos electrónicos?",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755310316158.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "daddy yankee",
+            "divorcio de daddy yankee",
+            "miredys gonzalez",
+            "daddy yankee y miredys gonzalez"
+        ],
+        "link": "https://2001online.com/farandula/sigue-la-novela-de-daddy-yankee-que-informacion-reveladora-borro-su-exesposa-de-los-equipos-electronicos--202581521260",
+        "date": "2025-08-16 01:26:00",
+        "sentiment_score": -0.8779960554093122
+    },
+    {
+        "title": "Ríos en Monagas aumentan su caudal: cifra de familias gravemente afectadas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755306556932.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "uertes lluvias",
+            "monagas",
+            "familias afectadas por lluvias",
+            "monagas lluvias",
+            "luvias"
+        ],
+        "link": "https://2001online.com/nacionales/rios-en-monagas-aumentan-su-caudal-cifra-de-familias-gravemente-afectadas-202581521150",
+        "date": "2025-08-16 01:15:00",
+        "sentiment_score": -0.18291696161031723
+    },
+    {
+        "title": "LIV Golf: los detalles del millonario contrato de Jon Rahm y el choque con Joaquín Niemann",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755305832433.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "golfista español",
+            "liv golf",
+            "españa",
+            "joaquín niemann",
+            "jon rahm",
+            "contrato de jon rahm",
+            "golf",
+            "golfista",
+            "premios de liv golf"
+        ],
+        "link": "https://2001online.com/deportes/liv-golf-los-detalles-del-millonario-contrato-de-jon-rahm-y-el-choque-con-joaquin-niemann-20258152200",
+        "date": "2025-08-16 01:03:38",
+        "sentiment_score": -0.7729173675179482
     }
 ];
