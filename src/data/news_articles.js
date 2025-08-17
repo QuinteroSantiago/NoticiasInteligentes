@@ -1,241 +1,5 @@
 export default [
     {
-        "title": "Los 5 snacks “anti-cortisol” que te ayudan a controlar el estrés y mejorar el estado de ánimo",
-        "image_url": "https://www.infobae.com/resizer/v2/ZEWFNYU2CJA4JBJLJ6OAKYV6JM.jpeg?auth=99ebc72de30a0c23c6f2594410389690e592217867299359b130247a40771341&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "estado de ánimo",
-            "nutrición españa",
-            "nutrición",
-            "cortisol",
-            "alimentación saludable",
-            "estrés",
-            "españa-noticias",
-            "españa-salud"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/13/los-5-snacks-anti-cortisol-que-te-ayudan-a-controlar-el-estres-y-mejorar-el-estado-de-animo/",
-        "date": "2025-08-13 06:37:14",
-        "sentiment_score": -0.7244596518576145
-    },
-    {
-        "title": "Un asesor financiero desvela algunos trucos para reducir hasta siete años de la hipoteca",
-        "image_url": "https://www.infobae.com/resizer/v2/PPR2FROKRZCXJIKCOF6DAV2QLU.png?auth=987d8c258011d1a396839ec50cc17fe70065d42a3573b89bfa30d516912ad541&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "hipotecas españa",
-            "españa-economia",
-            "vivienda",
-            "tiktok españa",
-            "españa-noticias",
-            "hipotecas",
-            "vivienda españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/13/un-asesor-financiero-desvela-algunos-trucos-para-reducir-hasta-siete-anos-de-la-hipoteca/",
-        "date": "2025-08-13 06:36:17",
-        "sentiment_score": -0.23024021834135056
-    },
-    {
-        "title": "Jesús Calleja, muy preocupado, emite un comunicado desde Canadá: “Los incendios en mi tierra están siendo muy tristes... Hay mucha destrucción”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "jesús calleja",
-            "telecinco",
-            "españa-entretenimiento",
-            "españa-noticias",
-            "mediaset españa",
-            "televisión españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/13/jesus-calleja-muy-preocupado-emite-un-comunicado-desde-canada-los-incendios-en-mi-tierra-estan-siendo-muy-tristes-hay-mucha-destruccion/",
-        "date": "2025-08-13 06:32:18",
-        "sentiment_score": -0.24869344383478165
-    },
-    {
-        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades este 13 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-economia",
-            "gasolina",
-            "noticias",
-            "precio gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/13/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-este-13-de-agosto/",
-        "date": "2025-08-13 06:31:03",
-        "sentiment_score": 0.07679241895675659
-    },
-    {
-        "title": "El método 50 - 30 - 20 que te ayuda a ahorrar cada mes",
-        "image_url": "https://www.infobae.com/resizer/v2/QOT55Q5CHFA6XEQRAK25EIHB34.jpg?auth=1e1b3fc250b731d8bb47304f873e66da9f3563b0cc6fde27a43337e1ccd5ee9d&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "ingresos",
-            "calculadora financiera",
-            "aplicaciones financieras",
-            "españa-economia",
-            "finanzas personales",
-            "españa-noticias",
-            "ahorro",
-            "gastos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/13/el-metodo-50-30-20-que-te-ayuda-a-ahorrar-cada-mes/",
-        "date": "2025-08-13 06:29:29",
-        "sentiment_score": 0.5612436532974243
-    },
-    {
-        "title": "Improcedente el despido de un visitador médico de ISDIN al que un detective atribuía solo 5 de las 51 visitas que declaró",
-        "image_url": "https://www.infobae.com/resizer/v2/QUD2TH57J5G4DOKEXHH2NBKMEA.jpg?auth=02f9462e0edcadc5386406ee3bea134789f02c8690fa1cd38b8d02adc4061d11&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-nacional",
-            "tribunales españa",
-            "juicios",
-            "justicia",
-            "empleo en españa",
-            "despido improcedente",
-            "galicia",
-            "despido disciplinario",
-            "sentencias",
-            "despido"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/13/improcedente-el-despido-de-un-visitador-medico-de-isdin-al-que-un-detective-atribuia-solo-5-de-las-51-visitas-que-declaro/",
-        "date": "2025-08-13 05:54:56",
-        "sentiment_score": -0.30500734597444534
-    },
-    {
-        "title": "La DGT instala dos nuevos radares en Galicia: cómo son y en qué carreteras se encuentran",
-        "image_url": "https://www.infobae.com/resizer/v2/2XF4VZB3FZEJRC7MWJGG3X4NXQ.jpg?auth=fa827d5bf240fb402c36c71fcb1c04b85fe5921bedcb9576c8741843bae20949&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-nacional",
-            "dgt",
-            "radares de tramo",
-            "españa-noticias",
-            "galicia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/13/la-dgt-instala-dos-nuevos-radares-de-tramo-en-galicia-estos-son-los-puntos-controlados/",
-        "date": "2025-08-13 05:50:57",
-        "sentiment_score": 0.42683248966932297
-    },
-    {
-        "title": "Los tres alimentos prohibidos si tienes hígado graso, la enfermedad que sufren 10 millones de personas en España",
-        "image_url": "https://www.infobae.com/resizer/v2/G2B4NTCEMNCR7MNYLUZGPOOWYY.jpg?auth=4bad622177755f5c4db37a3c785eeb7af019dd0079198e89edbe54fa9df3c491&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-salud",
-            "nutrición españa",
-            "hígado graso",
-            "españa-noticias",
-            "alimentación saludable",
-            "nutrición"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/13/los-tres-alimentos-prohibidos-si-tienes-higado-graso-la-enfermedad-que-sufren-10-millones-de-personas-en-espana/",
-        "date": "2025-08-13 05:47:07",
-        "sentiment_score": -0.6806904245167971
-    },
-    {
-        "title": "Tipo de cambio: precio del euro frente al dólar hoy 13 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/ESK62KO465BPPJHALZ2MW52HZI.jpg?auth=07bf53b2db812406e917e930f5264d5cd0382e62de46b4cd3b6e6a47e5917685&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/13/tipo-de-cambio-precio-del-euro-frente-al-dolar-hoy-13-de-agosto/",
-        "date": "2025-08-13 05:15:32",
-        "sentiment_score": -0.23126408830285072
-    },
-    {
-        "title": "Es una realidad: la ropa y las zapatillas deportivas influyen en el rendimiento físico de los deportistas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/08/07/Ropadeportiva-RoGy0eLRi6nqYJBfng1Z8eO-758x531@diario_abc.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.abc.es/salud/realidad-ropa-zapatillas-deportivas-influyen-rendimiento-fisico-20250807182735-nt.html",
-        "date": "2025-08-13 06:21:17",
-        "sentiment_score": -0.07814320921897888
-    },
-    {
-        "title": "Última hora de los incendios en España, en directo | Los incendios obligan a más de 5.000 personas a pasar la noche fuera de sus casas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5IMZUXVLTRNTJKPGHOP6BCRRCM.jpg?auth=4034d88ad18b53d192e67d078f50d2d4f8e0fe1699db41c5f61a0798a4d15942&width=1200",
-        "tags": [
-            "andalucía",
-            "extremadura",
-            "españa",
-            "bomberos",
-            "incendios",
-            "castilla y león",
-            "incendios forestales",
-            "incendios forestales intencionados",
-            "emergencias",
-            "galicia"
-        ],
-        "link": "https://elpais.com/espana/2025-08-13/ultima-hora-de-los-incendios-en-espana-en-directo.html",
-        "date": "2025-08-13 05:53:55",
-        "sentiment_score": -0.8959038788452744
-    },
-    {
-        "title": "Guía de LaLiga: Todo lo que debes saber de la competición",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c4061e84-c07e-4158-8d98-5a1f55a63fc5_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "laliga ea sports",
-            "laliga",
-            "la liga",
-            "primera división",
-            "fútbol"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/deportes/2025/08/13/guia-laliga-ea-sports-2025-26-120580942.html",
-        "date": "2025-08-13 06:00:37",
-        "sentiment_score": 0.8017348032444715
-    },
-    {
-        "title": "Moret: una estatua en continuo movimiento",
-        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/08/12/moret1-RVNd3TMbLZkjzrEacfOvc6O-758x531@abc.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.lavozdigital.es/provincia/cadiz/moret-estatua-continuo-movimiento-20250812130350-ntv.html",
-        "date": "2025-08-13 05:32:25",
-        "sentiment_score": -0.0257146954536438
-    },
-    {
-        "title": "El Athletic tendrá mucha competencia por Europa",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8763ff26-5d24-46f6-9c0a-6fea0566a0f7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tendra",
-            "athletic",
-            "europa",
-            "competencia"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/08/13/athletic-tendra-competencia-europa-9974989.html",
-        "date": "2025-08-13 05:30:17",
-        "sentiment_score": 0.07242932915687561
-    },
-    {
-        "title": "Última hora de los incendios en España, en directo | Al menos seis grandes fuegos siguen sin estar bajo control dejando ya dos muertos y decenas de heridos",
-        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743884671_257955083_1706x960.jpg?contentId=1003743884671",
-        "tags": [
-            "españa",
-            "sociedad",
-            "incendios"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20250813/ultima-hora-incendios-espana-directo-grandes-fuegos-siguen-sin-control-dejando-muertos-decenas-heridos/1003743884669_10.html",
-        "date": "2025-08-13 05:21:38",
-        "sentiment_score": -0.7828254383057356
-    },
-    {
-        "title": "El palo de Sonia Bermúdez a Jorge Vilda por dejarle fuera de la Selección: \"Fui pichichi, eché de menos una llamada\"",
-        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743884707_257955582_1706x960.jpg?contentId=1003743884707",
-        "tags": [
-            "selección española de fútbol femenino",
-            "fútbol femenino",
-            "fútbol"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20250813/palo-sonia-bermudez-jorge-vilda-dejarle-seleccion-pichichi-eche-llamada/1003743884694_0.html",
-        "date": "2025-08-13 06:37:22",
-        "sentiment_score": -0.8661525417119265
-    },
-    {
-        "title": "Aviso del Meteocat: Barcelona, preparada para lo que queda de semana",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/08/13/689c29ae1c32e.r_d.3067-1880-1015.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20250813/1002513995/aviso-meteocat-barcelona-preparada-queda-semana-dct.html",
-        "date": "2025-08-13 06:12:29",
-        "sentiment_score": -0.22643929719924927
-    },
-    {
         "title": "“Las personas no lo entienden”: la historia de una niña que vive con esta discapacidad invisible que tiene el 6% de la población",
         "image_url": "https://www.infobae.com/resizer/v2/U6MSIM3QMZAN3KI2IPODD42POU.jpg?auth=b8c5862e159c39bd14113d3b901390bee5ec17b0a6374bf5997272146d338342&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -7768,5 +7532,513 @@ export default [
         "link": "https://2001online.com/usa/internacionales/huracan-erin-se-fortalece-a-categoria-4-descubra-su-trayectoria-y-si-es-un-riesgo-para-la-costa-de-eeuu-202581611400",
         "date": "2025-08-16 15:40:00",
         "sentiment_score": 0.2736835330724716
+    },
+    {
+        "title": "Este país de Europa es el que más compra palta peruana en el mundo: España es el segundo con USD 154 millones",
+        "image_url": "https://www.infobae.com/resizer/v2/BSEBTVHK7VFLPBZBYH3G6ECCR4.jpg?auth=bffe6331e2615791d6270e050238c6023e0b1ea3c11b84f193727fa92f1fd256&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "países bajos",
+            "palta",
+            "españa",
+            "peru-economia",
+            "europa"
+        ],
+        "link": "https://www.infobae.com/peru/2025/08/16/este-pais-de-europa-es-el-que-mas-compra-palta-peruana-en-el-mundo-espana-es-el-segundo-con-usd-154-millones/",
+        "date": "2025-08-16 21:56:08",
+        "sentiment_score": 0.1552278846502304
+    },
+    {
+        "title": "Comprobar la 6/49: los ganadores del 16 del agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/VYQGUMAVIFERHHL4IYQENR4IBI.jpg?auth=4905bc9e6a7ba93cae26321234e50fe927a4057fc82ec4fc260706c296341abe&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "6/49",
+            "españa-loterías",
+            "noticias",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/16/comprobar-la-649-los-ganadores-del-16-del-agosto/",
+        "date": "2025-08-16 21:00:25",
+        "sentiment_score": 0.2693824637681246
+    },
+    {
+        "title": "Número ganador de la Primitiva de este 16 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/5IMBCEZCY5FGVAES2VAZQ2IRLE.jpg?auth=94c01f4e3faa8d28057b313471960bd66294ea91fe0a8aa16b187e4c3fe2c30a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "primitiva",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/16/numero-ganador-de-la-primitiva-de-este-16-de-agosto/",
+        "date": "2025-08-16 20:45:37",
+        "sentiment_score": 0.4468725733458996
+    },
+    {
+        "title": "Temas del día de EFE Economía del sábado, 16 de agosto de 2025",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/16/temas-del-dia-de-efe-economia-del-sabado-16-de-agosto-de-2025/",
+        "date": "2025-08-16 20:30:48",
+        "sentiment_score": -0.0003227517008781433
+    },
+    {
+        "title": "El Ibex 35 corona los 15.000 puntos con trece valores distintos a 2008 y cambio de líder",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/16/el-ibex-35-corona-los-15000-puntos-con-trece-valores-distintos-a-2008-y-cambio-de-lider/",
+        "date": "2025-08-16 20:30:32",
+        "sentiment_score": 0.13961854577064514
+    },
+    {
+        "title": "La flota pesquera refuerza sus ingresos con el negocio y las rutas del turismo marinero",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/16/la-flota-pesquera-refuerza-sus-ingresos-con-el-negocio-y-las-rutas-del-turismo-marinero/",
+        "date": "2025-08-16 20:24:15",
+        "sentiment_score": 0.5246540121734142
+    },
+    {
+        "title": "Trump dice que Rusia perdió a India como cliente petrolero y deja en duda nuevas sanciones",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/16/trump-dice-que-rusia-perdio-a-india-como-cliente-petrolero-y-deja-en-duda-nuevas-sanciones/",
+        "date": "2025-08-16 20:23:59",
+        "sentiment_score": -0.8706046044826508
+    },
+    {
+        "title": "Continúa cortada la línea de AV entre Madrid y Galicia a causa de los incendios",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/16/continua-cortada-la-linea-de-av-entre-madrid-y-galicia-a-causa-de-los-incendios/",
+        "date": "2025-08-16 20:23:43",
+        "sentiment_score": -0.6893974374979734
+    },
+    {
+        "title": "Comienza la huelga en Menzies y continúa la de Azul, de Ryanair, sin grandes incidentes",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/16/comienza-la-huelga-en-menzies-y-continua-la-de-azul-de-ryanair-sin-grandes-incidentes/",
+        "date": "2025-08-16 20:23:26",
+        "sentiment_score": -0.02547629177570343
+    },
+    {
+        "title": "Las huelgas de 'handling' que coinciden en Málaga inician este sábado con poca incidencia",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/16/las-huelgas-de-handling-que-coinciden-en-malaga-inician-este-sabado-con-poca-incidencia/",
+        "date": "2025-08-16 20:23:09",
+        "sentiment_score": -0.01782296597957611
+    },
+    {
+        "title": "Francia todavía es demasiado para España a 20 días del Eurobasket",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NFVHKLAWTNCBXLOKMGQBGLY34M.jpg?auth=c3dca9b36ce90e06776fc90c1a094240b1b07843f5f8e0026cf5e0cb0cb9caed&width=1200",
+        "tags": [
+            "selección española baloncesto",
+            "baloncesto",
+            "competiciones",
+            "jugadores baloncesto",
+            "selección francesa",
+            "sergio scariolo",
+            "eurobasket",
+            "deportes"
+        ],
+        "link": "https://elpais.com/deportes/baloncesto/2025-08-17/francia-todavia-es-demasiado-para-espana-a-20-dias-del-eurobasket.html",
+        "date": "2025-08-16 22:00:58",
+        "sentiment_score": -0.5771386697888374
+    },
+    {
+        "title": "Barcelona bate su récord de calor en un mes de agosto: 38,9 grados, según el Observatori Fabra",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NEE5QOUDAFB5HGJ3QI3NSOK42M.jpg?auth=5aea8c66576f2cd9b94b488d9751f2d753d4fe0a228d52afac90503ec87112f4&width=1200",
+        "tags": [
+            "cataluña",
+            "barcelona",
+            "temperaturas máximas",
+            "verano",
+            "temperaturas",
+            "calor"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-16/barcelona-bate-su-record-de-calor-en-un-mes-de-agosto-389-grados-segun-el-observatori-fabra.html",
+        "date": "2025-08-16 19:02:36",
+        "sentiment_score": 0.047619596123695374
+    },
+    {
+        "title": "La crispación en la grada del Granada enrarece el debut en casa",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/08/17/aficion-granada-depor-baldo%20(1)-k13G-U2302661914131VQB-1200x840@Ideal.jpg",
+        "tags": [
+            "granada",
+            "r.c. deportivo de la coruña",
+            "granada cf"
+        ],
+        "link": "https://www.ideal.es/granadacf/crispacion-grada-granada-enrarece-debut-casa-20250817001130-nt.html",
+        "date": "2025-08-16 22:11:30",
+        "sentiment_score": -0.9260301245376468
+    },
+    {
+        "title": "Valencia y Real Sociedad se reparten el debut y el Alavés supera al Levante",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250817001102_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-valencia-real-sociedad-reparten-debut-alaves-supera-levante-20250817001102.html",
+        "date": "2025-08-16 22:11:02",
+        "sentiment_score": 0.4450615607202053
+    },
+    {
+        "title": "El desconocido (y rural) museo del cine que no igualan en Europa",
+        "image_url": "https://phantom-elmundo.uecdn.es/975f4ecc939ba1ba194f60f90353c1d1/f/image/jpeg/assets/multimedia/imagenes/2024/01/22/17059319298710.jpg",
+        "tags": [
+            "artículos daniel izeddin"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/08/17/688b52afe9cf4ab3718b45c1.html",
+        "date": "2025-08-16 22:00:31",
+        "sentiment_score": 0.38877319544553757
+    },
+    {
+        "title": "Francia también se lleva 'Le Classique' en casa",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250816233756_120.jpg",
+        "tags": [
+            "baloncesto",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-francia-tambien-lleva-le-classique-casa-20250816233756.html",
+        "date": "2025-08-16 21:37:56",
+        "sentiment_score": -0.638495184481144
+    },
+    {
+        "title": "Valencia 1 - 1 Real Sociedad | Resumen, goles y resultado del partido de hoy",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250816233203_120.jpg",
+        "tags": [
+            "estadísticas deportivas",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/estadisticas-deportivas/noticia-valencia-real-sociedad-resumen-goles-resultado-partido-hoy-20250816233203.html",
+        "date": "2025-08-16 21:32:03",
+        "sentiment_score": 0.0665765255689621
+    },
+    {
+        "title": "Así va LaLiga EA Sports | Triunfo del Barça con bronca en Son Moix (0-3), el Alavés supera al Levante sobre la campana (2-1), y Valencia y Real Sociedad se reparten los puntos (1-1)",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/08/asi-va-laliga-ea-sports-25-26-jornada-1-sabado-750x422.jpg",
+        "tags": [
+            "primer equipo y club"
+        ],
+        "link": "https://www.lagradaonline.com/rcd-espanyol/espanyol-atletico-horarios-clasificacion-jornada-1-laliga-ea-sports-25-26-sabado/",
+        "date": "2025-08-16 21:30:45",
+        "sentiment_score": 0.8478119038045406
+    },
+    {
+        "title": "Ecologistas pide la supresión del final de etapa de La Vuelta en la Bola del Mundo",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/08/15/guarramillas-oscarcosta-kdYD-U2302651719443I5B-1200x840@El%20Norte.jpg",
+        "tags": [
+            "parque",
+            "guadarrama",
+            "plan",
+            "gestion",
+            "rector",
+            "usos"
+        ],
+        "link": "https://www.elnortedecastilla.es/segovia/ecologistas-pide-supresion-final-etapa-vuelta-bola-20250816230146-nt.html",
+        "date": "2025-08-16 21:01:47",
+        "sentiment_score": -0.49555915780365467
+    },
+    {
+        "title": "Cogobernanza: todos al mando, nadie al frente",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/18/2025021800320229718.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/cogobernanza-todos-mando-nadie-frente/20250816224808353330.html",
+        "date": "2025-08-16 20:48:08",
+        "sentiment_score": -0.34559428319334984
+    },
+    {
+        "title": "Raphinha y Yamal anotan por Barcelona, que inicia defensa del título de La Liga venciendo a Mallorca",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/08/ESPA209A-LIGA_62274.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/08/16/raphinha-y-yamal-anotan-por-barcelona-que-inicia-defensa-del-ttulo-de-la-liga-venciendo-a-mallorca/",
+        "date": "2025-08-16 20:43:11",
+        "sentiment_score": 0.6611599996685982
+    },
+    {
+        "title": "Barcelona inicia la defensa de su título con triunfo ante Mallorca con goles de Raphinha y Yamal",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/08/ESPA209A-LIGA_62274.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/08/16/barcelona-inicia-la-defensa-de-su-ttulo-con-triunfo-ante-mallorca-con-goles-de-raphinha-y-yamal/",
+        "date": "2025-08-16 20:43:11",
+        "sentiment_score": 0.6755180023610592
+    },
+    {
+        "title": "Adiós al pasado: Shakira y Piqué venden una de sus lujosas mansiones",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755382764565.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "barcelona",
+            "gerard piqué y shakira",
+            "piqué",
+            "gerard piquè",
+            "shakira",
+            "clara chia",
+            "gerard piqué y clara chía"
+        ],
+        "link": "https://2001online.com/deportes/adios-al-pasado-shakira-y-pique-venden-una-de-sus-lujosas-mansiones-202581618350",
+        "date": "2025-08-16 22:04:22",
+        "sentiment_score": 0.521597608923912
+    },
+    {
+        "title": "Lamine Yamal y la nueva moral pública",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/08/17/fotolead_opinion_yamalok_1200.jpg",
+        "tags": [
+            "yamal",
+            "nueva",
+            "moral",
+            "lamine",
+            "publica"
+        ],
+        "link": "https://www.elnortedecastilla.es/opinion/jose-montero-lamine-yamal-nueva-moral-publica-20250817000039-ntrc.html",
+        "date": "2025-08-16 22:00:40",
+        "sentiment_score": 0.14404409378767014
+    },
+    {
+        "title": "Fraudes, zulos, peticiones insólitas y locales mal acondicionados",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/08/16/alquileres-kuJG-U2302647178857ORF-1200x840@Ideal.jpg",
+        "tags": [
+            "granada",
+            "alquiler",
+            "vivienda"
+        ],
+        "link": "https://www.ideal.es/granada/fraudes-zulos-peticiones-insolitas-locales-mal-acondicionados-20250817203126-nt.html",
+        "date": "2025-08-16 21:41:39",
+        "sentiment_score": 0.1286216415464878
+    },
+    {
+        "title": "El casting imposible para alquilar piso en Granada",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/08/17/alquiler-pisos-kXII-U2302647091400WsF-1200x840@Ideal.JPG",
+        "tags": [
+            "granada",
+            "alquiler",
+            "vivienda"
+        ],
+        "link": "https://www.ideal.es/granada/casting-imposible-alquilar-piso-granada-20250817233630-nt.html",
+        "date": "2025-08-16 21:40:17",
+        "sentiment_score": -0.7876131683588028
+    },
+    {
+        "title": "¿Qué hacen los turistas en Granada cuando te echas la siesta?",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/08/12/Principal-U2301957664285jqF-U23026243530606cH-1200x840@Ideal.jpg",
+        "tags": [
+            "granada",
+            "españa",
+            "calor",
+            "andalucía",
+            "turistas",
+            "ideal",
+            "paseo de los tristes",
+            "sacromonte",
+            "buenos aires",
+            "la alhambra",
+            "plaza nueva",
+            "ola de calor"
+        ],
+        "link": "https://www.ideal.es/granada/turistas-granada-echas-siesta-20250817133815-nt.html",
+        "date": "2025-08-16 21:37:02",
+        "sentiment_score": -0.6929188352078199
+    },
+    {
+        "title": "Cuando la Fuente del Triunfo reunía a medio Granada al fresco",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/08/17/101330194-U23019576642853hF-U2302645862538zAB-1200x840@Ideal.jpg",
+        "tags": [
+            "granada"
+        ],
+        "link": "https://www.ideal.es/granada/fuente-triunfo-reunia-medio-granada-fresco-20250817233614-nt.html",
+        "date": "2025-08-16 21:36:15",
+        "sentiment_score": 0.3222000300884247
+    },
+    {
+        "title": "Antonio Alcaide Castillo: En recuerdo de uno de los últimos 'médicos de pueblo'",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/08/17/obituario-loja-k42C-U230265855524139F-1200x840@Ideal.jpg",
+        "tags": [
+            "loja",
+            "granada (provincia)"
+        ],
+        "link": "https://www.ideal.es/granada/soledad-alcaide-antonio-alcaide-castillo-recuerdo-ultimos-medicos-pueblo-20250817233539-nt.html",
+        "date": "2025-08-16 21:35:40",
+        "sentiment_score": -0.01768452674150467
+    },
+    {
+        "title": "Las fotos de las vacaciones de Franco Colapinto durante el parate de la Fórmula 1",
+        "image_url": "https://www.infobae.com/resizer/v2/CHLW5HMTMZHWDKI6YNRQBVKAPI.png?auth=288289d9f7db1105536efa6db639853f056bbbc0763ff8c822bfc0cb12a254c5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "f1 hoy",
+            "fórmula 1",
+            "f1",
+            "deportes-argentina",
+            "franco colapinto",
+            "alpine"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/16/las-fotos-de-las-vacaciones-de-franco-colapinto-durante-el-parate-de-la-formula-1/",
+        "date": "2025-08-16 21:31:16",
+        "sentiment_score": 0.1850351169705391
+    },
+    {
+        "title": "Real Mallorca: Las lágrimas de un joven aficionado que encogen el corazón de la afición",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3437471.jpg",
+        "tags": [
+            "fútbol",
+            "fc barcelona",
+            "real mallorca",
+            "última hora",
+            "primera división",
+            "laliga",
+            "ultimas noticias",
+            "rcd mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/08/16/2451427/real-mallorca-lagrimas-joven-aficionado-golpean-corazon-aficion.html",
+        "date": "2025-08-16 21:15:00",
+        "sentiment_score": -0.8931211717426777
+    },
+    {
+        "title": "Un adiós conmovedor: la Premier League se une en un emotivo homenaje a Diogo Jota",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755383139867.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diogo jota",
+            "accidente diogo jota",
+            "liga de inglaterra",
+            "inglaterra",
+            "liverpool",
+            "homenaje a diogo jota",
+            "wolverhampton",
+            "premier league",
+            "diogo y andré"
+        ],
+        "link": "https://2001online.com/deportes/un-adios-conmovedor-la-premier-league-se-une-en-un-emotivo-homenaje-a-diogo-jota-202581618450",
+        "date": "2025-08-16 22:04:22",
+        "sentiment_score": 0.29161033034324646
+    },
+    {
+        "title": "Tini Stoessel y Rodrigo De Paul cocinan algo grande: entérese aquí",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755383943448.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "romance",
+            "tini y de paul",
+            "tini stoessel",
+            "de paul",
+            "rodrigo de paul",
+            "boda de de paul y tini",
+            "argentina"
+        ],
+        "link": "https://2001online.com/deportes/tini-stoessel-y-rodrigo-de-paul-cocinan-algo-grande-enterese-aqui-20258161900",
+        "date": "2025-08-16 22:04:22",
+        "sentiment_score": 0.026473022997379303
+    },
+    {
+        "title": "Daniela Kosan celebra su nuevo logro en Estados Unidos: la exreina venezolana que conquista otro sueño",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755380319219.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ex reina  de venezuela",
+            "estados unidos"
+        ],
+        "link": "https://2001online.com/farandula/daniela-kosan-celebra-su-nuevo-logro-en-estados-unidos-la-exreina-venezolana-que-conquista-otro-sueno-202581617200",
+        "date": "2025-08-16 21:20:00",
+        "sentiment_score": 0.7485978230834007
+    },
+    {
+        "title": "¡Luto en Zulia! Fallece diputada indígena del Psuv: conozca los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755381094654.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "psuv",
+            "fallece diputada en zulia",
+            "zulia",
+            "luto"
+        ],
+        "link": "https://2001online.com/nacionales/luto-en-zulia-fallece-diputada-indigena-del-psuv-conozca-los-detalles-202581617150",
+        "date": "2025-08-16 21:15:00",
+        "sentiment_score": 0.018022432923316956
+    },
+    {
+        "title": "Detienen a extorsionador de comerciantes en Zulia: conoce cuál era su modus operandi",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755378322970.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "comerciantes",
+            "zulia",
+            "extorsión",
+            "modus operandi"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-extorsionador-de-comerciantes-en-zulia-conoce-cual-era-su-modus-operandi-20258161750",
+        "date": "2025-08-16 21:05:00",
+        "sentiment_score": -0.04884215444326401
+    },
+    {
+        "title": "Ofrecen alivio para la factura de la luz en Nueva Jersey: quiénes pueden recibir el beneficio del RUBC",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755373932197.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "estados unidos",
+            "crédito para pagar la electricidad de nueva jersey",
+            "servicio eléctrico en nueva jersey",
+            "usa",
+            "eeuu",
+            "nueva jersey",
+            "alivio para pagar la luz en nueva jersey",
+            "junta de servicios públicos de nueva jersey (bpu)",
+            "programa de crédito universal para facturas residenciales (rubc)"
+        ],
+        "link": "https://2001online.com/usa/servicios/ofrecen-alivio-para-la-factura-de-la-luz-en-nueva-jersey-quienes-pueden-recibir-el-beneficio-del-rubc-20258161750",
+        "date": "2025-08-16 21:05:00",
+        "sentiment_score": 0.07383173890411854
+    },
+    {
+        "title": "Reciba comida gratis en Indiana: horarios y ubicaciones de entregas que se realizan hasta el 23 de agosto",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755370054440.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "eeuu",
+            "estados unidos",
+            "comida gratis indiana",
+            "food banks of northern indiana",
+            "usa",
+            "comida gratis eeuu"
+        ],
+        "link": "https://2001online.com/usa/servicios/reciba-comida-gratis-en-indiana-horarios-y-ubicaciones-de-entregas-que-se-realizan-hasta-el-23-de-agosto-20258161650",
+        "date": "2025-08-16 20:05:00",
+        "sentiment_score": 0.1324618887156248
+    },
+    {
+        "title": "¡Error garrafal! Sepa por qué Walmart deberá pagar una multa millonaria en California: nadie lo puede creer",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1754968551796.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cobros",
+            "walmart",
+            "multa"
+        ],
+        "link": "https://2001online.com/usa/servicios/error-garrafal-sepa-por-que-walmart-debera-pagar-una-multa-millonaria-en-california-nadie-lo-puede-creer-20258161600",
+        "date": "2025-08-16 20:00:00",
+        "sentiment_score": -0.23994658514857292
+    },
+    {
+        "title": "¡Alerta! Erin aumenta de categoría: ¿Será el huracán más peligroso de la temporada?",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755372131599.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "alertas",
+            "categoría 5",
+            "huracán erin"
+        ],
+        "link": "https://2001online.com/internacionales/alerta-erin-aumenta-de-categoria-sera-el-huracan-mas-peligroso-de-la-temporada--202581615430",
+        "date": "2025-08-16 19:43:00",
+        "sentiment_score": 0.2689380943775177
     }
 ];
