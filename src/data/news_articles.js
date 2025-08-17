@@ -273,66 +273,6 @@ export default [
         "sentiment_score": 0.01674693450331688
     },
     {
-        "title": "Muere un trabajador de la empresa Ebro en la planta de la Zona Franca de Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UF5G6VTMKVVS5VNSC2ZMIGHTVM.jpg?auth=ea99fda97667f0ee792290b2d8128d1d823767ba0731566fad7ad570c1ada323&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-13/muere-un-trabajador-de-la-empresa-ebro-en-la-planta-de-la-zona-franca-de-barcelona.html",
-        "date": "2025-08-13 12:46:48",
-        "sentiment_score": -0.8524905275553465
-    },
-    {
-        "title": "El Govern activa el aviso preventivo de contaminación atmosférica en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TPAPZGB6UVCUNK52YJF6GC745I.jpg?auth=072f641585e571902b418481aad64329d8625c3aef26f823d80ccd3d564050ab&width=1200",
-        "tags": [
-            "aire acondicionado",
-            "cataluña",
-            "barcelona",
-            "generalitat cataluña",
-            "contaminación",
-            "contaminación atmosférica"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-13/la-generalitat-activa-el-aviso-preventivo-de-contaminacion-atmosferica-en-barcelona.html",
-        "date": "2025-08-13 12:33:40",
-        "sentiment_score": -0.3070458881556988
-    },
-    {
-        "title": "La Generalitat multa a un ‘correbou’ tras la caída de un toro atado en un canal de agua",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UUG5ZEYDFZN3XG6S3EZLFQ6QHY.jpg?auth=00ec156d9b511c33e0b019b6a2844dd2241d1336df81d1dece4fce29e0e260f4&width=1200",
-        "tags": [
-            "protección animales",
-            "generalitat cataluña",
-            "encierros taurinos",
-            "cataluña",
-            "delta del ebro",
-            "tarragona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-13/la-generalitat-multa-a-un-correbou-tras-la-caida-de-un-toro-atado-en-un-canal-de-agua.html",
-        "date": "2025-08-13 12:26:55",
-        "sentiment_score": -0.9380332194268703
-    },
-    {
-        "title": "El millonario negocio de robar coches para vender sus volantes y motores",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ULIC3ODII5AQVNREPQEYLAI3I4.jpeg?auth=9cd73fd69a6e76eb5f2d5a4938c61eab53d2d01ed2a80383441216b24b667910&width=1200",
-        "tags": [
-            "españa",
-            "udyco",
-            "robos",
-            "marruecos",
-            "guadalajara",
-            "ministerio del interior",
-            "coches",
-            "crimen organizado",
-            "detenciones",
-            "policía nacional",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/2025-08-13/el-millonario-negocio-de-robar-coches-para-vender-sus-volantes-y-motores.html",
-        "date": "2025-08-13 12:13:14",
-        "sentiment_score": -0.8460435066372156
-    },
-    {
         "title": "Feijóo enseña el camino a Sánchez y abandona sus vacaciones para apoyar a los afectados por los incendios",
         "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/08/13/689cc69a70533.jpeg",
         "tags": [
@@ -8040,5 +7980,486 @@ export default [
         "link": "https://2001online.com/internacionales/alerta-erin-aumenta-de-categoria-sera-el-huracan-mas-peligroso-de-la-temporada--202581615430",
         "date": "2025-08-16 19:43:00",
         "sentiment_score": 0.2689380943775177
+    },
+    {
+        "title": "Clima en Madrid: la predicción para este 17 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/5WNGZ3LBVBDMZOTA4JODFZB6HI.png?auth=bb2d66c14385e6d7eee2237eee93d2ced06e7974548fa46b963e43579b31c11c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "madrid",
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/17/clima-en-madrid-la-prediccion-para-este-17-de-agosto/",
+        "date": "2025-08-17 01:30:36",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Ranking de tendencias en YouTube España: los 10 videos más reproducidos",
+        "image_url": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-televisión",
+            "streaming",
+            "noticias",
+            "youtube"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/17/ranking-de-tendencias-en-youtube-espana-los-10-videos-mas-reproducidos/",
+        "date": "2025-08-17 01:16:37",
+        "sentiment_score": 0.12368035316467285
+    },
+    {
+        "title": "Previsión meteorológica: las temperaturas esperadas en Barcelona este 17 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa sociedad",
+            "barcelona",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/17/prevision-meteorologica-las-temperaturas-esperadas-en-barcelona-este-17-de-agosto/",
+        "date": "2025-08-17 01:16:16",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Nairo Quintana recibe dura noticia del Movistar para la Vuelta a España: vea de qué se trata",
+        "image_url": "https://www.infobae.com/resizer/v2/FLJVA2CFYBEO5GU5WSLXGXORBI.jpg?auth=4dc9971c2b942b0b03120fea7d5e991505b62490153f0bd12b14bdf6424ab04d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "nairo quintana",
+            "colombia-deportes",
+            "movistar team",
+            "vuelta a españa",
+            "nairo quintana vuelta a españa",
+            "fernando gaviria",
+            "nairo quintana movistar"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/08/16/nairo-quintana-recibe-dura-noticia-del-movistar-para-la-vuelta-a-espana-vea-de-que-se-trata/",
+        "date": "2025-08-16 23:59:23",
+        "sentiment_score": 0.8428408522158861
+    },
+    {
+        "title": "De exigir disculpas a España a vivir en Madrid: reportan mudanza de Beatriz Gutiérrez Müller en exclusivo barrio español",
+        "image_url": "https://www.infobae.com/resizer/v2/AUT4GH6HUZDE5FQFKOBM2O2KCE.jpg?auth=6b800dc2d9e823f8824284c894a80996930123957417c155776ed39aee6dbb02&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "mexico-noticias",
+            "méxico",
+            "madrid",
+            "academia",
+            "amlo",
+            "claudia sheinbaum",
+            "jesús ernesto lópez",
+            "corona española",
+            "españa",
+            "andrés manuel lópez obrador",
+            "beatriz gutiérrez müller"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/08/16/de-exigir-disculpas-a-espana-a-vivir-en-madrid-reportan-mudanza-de-beatriz-gutierrez-muller-en-exclusivo-barrio-espanol/",
+        "date": "2025-08-16 22:26:39",
+        "sentiment_score": -0.009527206420898438
+    },
+    {
+        "title": "Crónica del Francia - España: 78-73",
+        "image_url": "https://www.infobae.com/resizer/v2/LQKBWNOILJD5ZN5U2HMXR6B57Q.jpg?auth=29a33b8bc68bec0e62070b98ba85e7608cfee2e9847649b7e545db075ac9962f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/08/16/cronica-del-francia-espana-78-73/",
+        "date": "2025-08-16 22:19:41",
+        "sentiment_score": -0.08715343475341797
+    },
+    {
+        "title": "El Gobierno intensifica el uso del escudo antiopas y suma 338 intervenciones",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/08/17/cuerpo-sanchez-RFFQmYW6DVgHmc0UpAjBMcL-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-intensifica-uso-escudo-antiopas-suma-338-20250817190423-nt.html",
+        "date": "2025-08-17 01:19:25",
+        "sentiment_score": -0.06102702021598816
+    },
+    {
+        "title": "La presión de las energéticas para mantener las nucleares choca contra la indiferencia del Gobierno",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/08/17/CentralAlmarazGuillermoNavarro_20250814123046-RecvIdE5mRF4Vr8xLaJPVfI-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/presion-energeticas-mantener-nucleares-choca-indiferencia-gobierno-20250817123336-nt.html",
+        "date": "2025-08-17 01:17:22",
+        "sentiment_score": -0.08160489797592163
+    },
+    {
+        "title": "Una caja llena de cartas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/08/17/CONTRADOMINGO-RpwTj3c9FilFP2Jn3ahiu4O-758x531@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-caja-llena-cartas-20250817020611-nt.html",
+        "date": "2025-08-17 00:06:28",
+        "sentiment_score": -0.042929381132125854
+    },
+    {
+        "title": "El fondo de rescate para pymes del Gobierno sufre el impago de 14 empresas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/08/17/cofides52-RP5TCLq51ld5582ojfmFveJ-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/fondo-pymes-gobierno-sufre-impago-empresas-20250817180158-nt.html",
+        "date": "2025-08-17 00:04:40",
+        "sentiment_score": -0.07065966725349426
+    },
+    {
+        "title": "Un helicóptero turístico amara en la playa barcelonesa de la Barceloneta sin heridos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/08/16/Captura-RlycVjDg2PmYsu2z6ql2hOK-758x531@diario_abc.PNG",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/espana/cataluna/helicoptero-turistico-amara-playa-barcelonesa-barceloneta-heridos-20250816183257-nt.html",
+        "date": "2025-08-16 23:34:43",
+        "sentiment_score": -0.23675338923931122
+    },
+    {
+        "title": "El engaño de la comparación",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/08/12/instagram-RLWknWS8KKzZRCNbSNCFHlO-758x531@diario_abc.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/alvarez-de-mon-engano-comparacion-20250812130952-nt.html",
+        "date": "2025-08-16 23:23:59",
+        "sentiment_score": -0.11041496694087982
+    },
+    {
+        "title": "La baza del Supremo o un cambio de gobierno, las opciones de BBVA para poder fusionarse con el Sabadell",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/08/16/bbva-vela-R8mgHvXnHam7BrNpXXI7tmN-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/baza-supremo-cambio-gobierno-opciones-bbva-poder-20250816133119-nt.html",
+        "date": "2025-08-16 18:57:36",
+        "sentiment_score": -0.09935243427753448
+    },
+    {
+        "title": "Nardos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/08/03/encabezado-emilio-vara-1920-1080px_xoptimizadax_20250801215256-U41524735186jwc-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/emilio-vara-derretida-20250817215051-nts.html",
+        "date": "2025-08-16 17:39:56",
+        "sentiment_score": -0.04936641454696655
+    },
+    {
+        "title": "Perro en Bugaboo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/javier-macias-perro-bugaboo-20250817134847-nts.html",
+        "date": "2025-08-16 17:31:29",
+        "sentiment_score": -0.0765015184879303
+    },
+    {
+        "title": "María Santísima de los Aviones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/lucas-haurie-maria-santisima-aviones-20250817191248-nts.html",
+        "date": "2025-08-16 17:29:53",
+        "sentiment_score": 0.030218303203582764
+    },
+    {
+        "title": "Mañana, la libertad: a por la Moncloa",
+        "image_url": "https://s1.elespanol.com/2025/08/16/actualidad/1003743888675_258029916_1706x960.jpg?contentId=1003743888675",
+        "tags": [
+            "pedro sánchez",
+            "gobierno de españa",
+            "economía",
+            "carta del director",
+            "pedro j. ramírez",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/carta-del-director/20250817/manana-libertad-moncloa/1003743888604_20.html",
+        "date": "2025-08-17 01:37:54",
+        "sentiment_score": -0.4413401931524277
+    },
+    {
+        "title": "Ángel Gari, el último cazador de brujas del Pirineo, es ciego y tiene 81 años: \"Hacen brebaje de sapo pero no pactan con Satán\"",
+        "image_url": "https://s1.elespanol.com/2025/08/06/actualidad/1003743877714_257829528_1706x960.jpg?contentId=1003743877714",
+        "tags": [
+            "reportajes",
+            "inquisición",
+            "historia",
+            "brujería",
+            "huesca",
+            "porfolio"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250817/angel-gari-ultimo-cazador-brujas-pirineo-ciego-anos-hacen-brebaje-sapo-no-pactan-satan/1003743877706_0.html",
+        "date": "2025-08-17 01:06:51",
+        "sentiment_score": -0.48581573367118835
+    },
+    {
+        "title": "Matilde Asián: «Canarias se siente amenazada, falta cordura y solidaridad»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/34a6886d-8b83-4277-93e5-f5ef0c01a7e2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cataluña",
+            "canarias",
+            "presupuestos",
+            "financiación"
+        ],
+        "link": "https://www.eldia.es/canarias/2025/08/17/matilde-asian-canarias-siente-amenazada-120692690.html",
+        "date": "2025-08-17 00:39:17",
+        "sentiment_score": -0.03435322642326355
+    },
+    {
+        "title": "Pirómanos con sueldo público en un país disfuncional",
+        "image_url": "https://s1.elespanol.com/2025/08/08/actualidad/1003743879485_257862644_1706x960.jpg?contentId=1003743879485",
+        "tags": [
+            "españa",
+            "columnas",
+            "incendios forestales",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20250816/piromanos-sueldo-publico-pais-disfuncional/1003743888245_12.html",
+        "date": "2025-08-16 23:59:57",
+        "sentiment_score": -0.8886594092473388
+    },
+    {
+        "title": "Raphinha y Yamal anotan por Barcelona, que inicia defensa del título de La Liga venciendo a Mallorca",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/a023889/2147483647/strip/true/crop/5360x3576+0+0/resize/1200x801!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F84%2F18%2F5138117b443584df67948431c0aa%2F31a20cca784a4939ac689f55cea09107.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-08-16/raphinha-y-yamal-anotan-por-barcelona-que-inicia-defensa-del-titulo-de-la-liga-venciendo-a-mallorca",
+        "date": "2025-08-16 23:24:41",
+        "sentiment_score": 0.8085819873958826
+    },
+    {
+        "title": "16 AGO 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/16-ago-2025-tramo-final-juego-20250817_3200010.html",
+        "date": "2025-08-16 23:06:40",
+        "sentiment_score": 0.12305638194084167
+    },
+    {
+        "title": "Radiografía de la madrileñofobia: Galicia y Valencia, los que más rechazan al turista \"chulo\" de la capital",
+        "image_url": "https://s1.elespanol.com/2025/08/06/actualidad/1003743877521_257825553_1706x960.jpg?contentId=1003743877521",
+        "tags": [
+            "sociedad",
+            "turismo",
+            "vacaciones"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20250816/radiografia-madrilenofobia-galicia-valencia-rechazan-turista-chulo-capital/1003743876240_0.html",
+        "date": "2025-08-16 22:49:34",
+        "sentiment_score": -0.5330939963459969
+    },
+    {
+        "title": "Los últimos incendios destapan la fragilidad de Tarifa ante la falta de infraestructuras y el turismo masivo",
+        "image_url": "https://static.grupojoly.com/clip/f17712bf-4d32-497d-a076-92b04d532147_source-aspect-ratio_default_0_x1387y144.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/tarifa/ultimos-incendios-destapan-fragilidad-infraestructuras-turismo-masivo_0_2004571866.html",
+        "date": "2025-08-17 02:01:26",
+        "sentiment_score": -0.9079349497333169
+    },
+    {
+        "title": "El Archangelo aspira a la gloria",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/08/17/2451217/archangelo-aspira-gloria.html",
+        "date": "2025-08-17 02:00:01",
+        "sentiment_score": 0.02728751301765442
+    },
+    {
+        "title": "El robot bípedo asistencial ya está muy cerca de entrar (por fin) en nuestros hogares",
+        "image_url": "https://s1.elespanol.com/2025/07/28/actualidad/1003743865066_257602744_1706x960.jpg?contentId=1003743865066",
+        "tags": [
+            "tecnología",
+            "robótica",
+            "empresas",
+            "innovación",
+            "hogar inteligente",
+            "robots"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20250817/robot-bipedo-asistencial-cerca-entrar-fin-hogares/1003743865054_0.html",
+        "date": "2025-08-17 01:20:30",
+        "sentiment_score": 0.5488251820206642
+    },
+    {
+        "title": "Telefónica prevé completar en tres años el desmantelamiento de su red de cobre en España",
+        "image_url": "https://s1.elespanol.com/2025/05/23/actualidad/1003743772226_255852456_1706x960.jpg?contentId=1003743772226",
+        "tags": [
+            "telefonía",
+            "fibra óptica",
+            "tecnología",
+            "telecomunicaciones"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/tecnologia/20250817/telefonica-preve-completar-anos-desmantelamiento-red-cobre-espana/1003743874594_0.html",
+        "date": "2025-08-17 01:14:37",
+        "sentiment_score": 0.45259978622198105
+    },
+    {
+        "title": "Spencer Tunick, el fotógrafo que busca voluntarios para crear un gran desnudo en Granada: \"Voy a retratar el espíritu español\"",
+        "image_url": "https://s1.elespanol.com/2025/08/06/actualidad/1003743877912_258018759_1706x960.jpg?contentId=1003743877912",
+        "tags": [
+            "reportajes",
+            "entrevistas",
+            "fotografía",
+            "arte",
+            "fotógrafos"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250817/spencer-tunick-fotografo-busca-voluntarios-crear-gran-desnudo-granada-voy-retratar-espiritu-espanol/1003743877899_0.html",
+        "date": "2025-08-17 01:06:04",
+        "sentiment_score": -0.89725879766047
+    },
+    {
+        "title": "Alcaraz vs Sinner: historia en juego en la final 6",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/30/2025063019373281038.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/alcaraz-sinner-cincinnati-sera-escenario-sexta-final/20250817024651353344.html",
+        "date": "2025-08-17 00:46:51",
+        "sentiment_score": 0.5858656018972397
+    },
+    {
+        "title": "El Barça vence al Mallorca mientras teme por el futuro de Ferran Torres",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/03/2025040300522071273.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/barca-vence-mallorca-mientras-teme-futuro-ferran-torres/20250817022909353343.html",
+        "date": "2025-08-17 00:29:09",
+        "sentiment_score": 0.4322720691561699
+    },
+    {
+        "title": "Pone orden entre músicos y cantantes",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/08/16/107686931.jpg",
+        "tags": [
+            "oviedo",
+            "una vida en imágenes (oviedo)"
+        ],
+        "link": "https://www.elcomercio.es/oviedo/perfil-oviedo-director-teatro-maestranza-oviedo-javier-menendez-20250817224238-nt.html",
+        "date": "2025-08-17 00:00:00",
+        "sentiment_score": 0.2181292325258255
+    },
+    {
+        "title": "Paula Calvo, etóloga y antropóloga: \"Te sorprenderá lo que pueden decirse los perros y gatos sin usar palabras\"",
+        "image_url": "https://s1.elespanol.com/2025/08/12/actualidad/1003743884115_257944234_1706x960.jpg?contentId=1003743884115",
+        "tags": [
+            "mascotario",
+            "gatos",
+            "perros",
+            "educación"
+        ],
+        "link": "https://www.elespanol.com/mascotario/20250816/paula-calvo-etologa-antropologa-sorprendera-pueden-decirse-perros-gatos-sin-usar-palabras/1003743884100_0.html",
+        "date": "2025-08-16 23:53:14",
+        "sentiment_score": 0.4489744231104851
+    },
+    {
+        "title": "Corridas de toros: conoce el sueldo millonario de los toreros en España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/corridas-de-toros-conoce-el-sueldo-millonario-de-los-toreros-en-espana-20258162300",
+        "date": "2025-08-17 02:03:09",
+        "sentiment_score": 0.6193606927990913
+    },
+    {
+        "title": "¡La envidia de todos! Walmart les regala a sus empleados este extraordinario beneficio: es válido por todo un año",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/la-envidia-de-todos-walmart-les-regala-a-sus-empleados-este-extraordinario-beneficio-es-valido-por-todo-un-ano-20258162200",
+        "date": "2025-08-17 02:00:00",
+        "sentiment_score": 0.7245707735419273
+    },
+    {
+        "title": "Ahorra dinero y hasta un viaje al salón de belleza: prepara en casa estos removedores de esmalte con productos que siempre están en tu alacena",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755201420677/Captura%20de%20pantalla%202025-08-14%20a%20la(s)%203.56.46%20p.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/ahorra-dinero-y-hasta-un-viaje-al-salon-de-belleza-prepara-en-casa-estos-removedores-de-esmalte-con-productos-que-siempre-estan-en-tu-alacena-20258162200",
+        "date": "2025-08-17 02:00:00",
+        "sentiment_score": 0.8286391701549292
+    },
+    {
+        "title": "Paso del huracán Erin por el Atlántico: cierran playas en este país caribeño",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/paso-del-huracan-erin-por-el-atlantico-cierran-playas-en-este-pais-caribeno-202581621320",
+        "date": "2025-08-17 01:32:00",
+        "sentiment_score": -0.20820404589176178
+    },
+    {
+        "title": "No es la fecha: la única manera en la que EE.UU. te impide renovar el pasaporte",
+        "image_url": "https://media.istockphoto.com/id/172183798/es/foto/agotado-pasaporte.jpg?c=ncJtfoorrU0pmUrj5BV6LYvPuVoTfxGPZLcPrjqRE7E%3D&k=20&s=170667a&w=0",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/no-es-la-fecha-la-unica-manera-en-la-que-ee-uu-te-impide-renovar-el-pasaporte-202581621210",
+        "date": "2025-08-17 01:21:00",
+        "sentiment_score": -0.048126235604286194
+    },
+    {
+        "title": "En video: Nicky Jam cumple un reto con este dulce venezolano",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/en-video-nicky-jam-cumple-un-reto-con-este-dulce-venezolano-202581614360",
+        "date": "2025-08-17 01:16:00",
+        "sentiment_score": 0.5410910472273827
+    },
+    {
+        "title": "Explota una bombona en Gramoven este 16 de agosto: así afectó a la vivienda",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/explota-una-bombona-en-gramoven-este-16-de-agosto-asi-afecto-a-la-vivienda-202581621110",
+        "date": "2025-08-17 01:11:00",
+        "sentiment_score": -0.7581316418945789
+    },
+    {
+        "title": "Carlos Alcaraz: estos son los negocios y el patrimonio del tenista español",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/carlos-alcaraz-estos-son-los-negocios-y-el-patrimonio-del-tenista-espanol-20258162200",
+        "date": "2025-08-17 01:03:02",
+        "sentiment_score": 0.8034298121929169
+    },
+    {
+        "title": "Este alimento muy recomendado para los niños les puede provocar alergia: estos son los síntomas que deben alertarte de inmediato",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755200973786/Captura%20de%20pantalla%202025-08-14%20a%20la(s)%203.49.20%20p.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/este-alimento-muy-recomendado-para-los-ninos-les-puede-provocar-alergia-estos-son-los-sintomas-que-deben-alertarte-de-inmediato-20258162100",
+        "date": "2025-08-17 01:00:00",
+        "sentiment_score": -0.757099661976099
+    },
+    {
+        "title": "Pikachu, Labubu y un oso son detenidos: conozca la insólita razón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/pikachu-labubu-y-un-oso-son-detenidos-conozca-la-insolita-razon-202581620300",
+        "date": "2025-08-17 00:30:00",
+        "sentiment_score": -0.40378735959529877
     }
 ];
