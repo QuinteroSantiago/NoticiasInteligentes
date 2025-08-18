@@ -174,22 +174,6 @@ export default [
         "sentiment_score": -0.0945601761341095
     },
     {
-        "title": "La violencia anticristiana crece en Francia y supera a la antiislamista",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/13/seguridad-francia-violencia-kVMD-U701411324307KOG-1200x840@diario_abc.jpg",
-        "tags": [
-            "grupos terroristas",
-            "francia",
-            "extrema derecha",
-            "antisemitismo",
-            "seguridad",
-            "atentados",
-            "violencia"
-        ],
-        "link": "https://www.abc.es/internacional/violencia-anticristiana-crece-francia-supera-antislamista-20250813172044-nt.html",
-        "date": "2025-08-14 12:50:52",
-        "sentiment_score": -0.25482919812202454
-    },
-    {
         "title": "Dos municipios confinados y decenas de desalojados en Extremadura por el incendio de Jarilla",
         "image_url": "https://imagenes.elpais.com/resizer/v2/6VLXD6SAQ5HJ5K5F26C5DTSLOU.jpg?auth=e959801db9e7a6f1ea0eef3fffae4e9bd4346cab7e343865a53871f2a9b0a9b3&width=1200",
         "tags": [
@@ -255,115 +239,6 @@ export default [
         "link": "https://elpais.com/espana/2025-08-14/el-pueblo-que-mas-crece-y-el-que-mas-se-vacia-estan-en-guadalajara.html",
         "date": "2025-08-14 14:33:08",
         "sentiment_score": -0.28106967732310295
-    },
-    {
-        "title": "El Gobierno reactiva el traslado de menores solicitantes de asilo tras el enfrentamiento con Canarias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YHGN33TMO5HVLECL5WXDLYJXZI.jpg?auth=58826180bf6724bbd0e6bda80b214e99cc61a16ef6ada994f8e369446641e4bf&width=1200",
-        "tags": [
-            "españa",
-            "inmigración",
-            "gobierno canarias",
-            "menores migrantes",
-            "inmigrantes africanos",
-            "canarias",
-            "inmigrantes",
-            "0 day attack on earth",
-            "menores"
-        ],
-        "link": "https://elpais.com/espana/2025-08-14/el-gobierno-reactiva-traslado-de-menores-solicitantes-de-asilo-tras-el-enfrentamiento-con-canarias.html",
-        "date": "2025-08-14 13:07:15",
-        "sentiment_score": -0.5625643096864223
-    },
-    {
-        "title": "Una batalla campal en Amposta (Tarragona) deja seis heridos, cinco de ellos por arma blanca",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BNHQIJ2ROTXZQ7CJZIR2VNHNGA.jpg?auth=a2613647ea38fe3f8a17ad18136061ca7c08d8035acb82d48b3ba65cc0d33cec&width=1200",
-        "tags": [
-            "servicios emergencia",
-            "armas blancas",
-            "mossos d'esquadra",
-            "cataluña",
-            "heridos",
-            "ayuntamientos",
-            "tortosa",
-            "fiestas populares",
-            "peleas",
-            "amposta",
-            "tarragona",
-            "menores",
-            "hospitales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-14/una-batalla-campal-en-amposta-tarragona-deja-seis-heridos-cinco-de-ellos-por-arma-blanca.html",
-        "date": "2025-08-14 13:02:11",
-        "sentiment_score": -0.4630800038576126
-    },
-    {
-        "title": "El PP acusa al Gobierno de contratar menos medios antincendios por no tener Presupuestos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RYRZGXGXUBOOFOZMKEAVKA7SJY.jpg?auth=711ae4cf11d7fc71509325fac3bbb3a299c140755f13dfe9269936d60391b606&width=1200",
-        "tags": [
-            "sara aagesen",
-            "helicópteros",
-            "pp",
-            "españa",
-            "helicopteros militares",
-            "incendios",
-            "aviones",
-            "psoe",
-            "presupuestos generales estado",
-            "ume"
-        ],
-        "link": "https://elpais.com/espana/2025-08-14/el-pp-acusa-al-gobierno-de-contratar-menos-medios-antiincendios-por-no-tener-presupuestos.html",
-        "date": "2025-08-14 12:52:34",
-        "sentiment_score": 0.13578660786151886
-    },
-    {
-        "title": "Ata, amordaza y retiene a su exmujer durante dos días para obligarla a retomar la relación",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JN6KVC6FVJLOVCE76VVUWJIAUA.jpg?auth=f294b53352c636e231ca1efeabf6b1f9aec4b27b35f9d6b4ddcd637a734edbe5&width=1200",
-        "tags": [
-            "violencia género",
-            "delitos",
-            "valencia",
-            "violencia machista",
-            "policía nacional",
-            "malos tratos",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-08-14/ata-amordaza-y-retiene-a-su-exmujer-durante-dos-dias-para-obligarla-a-retomar-la-relacion.html",
-        "date": "2025-08-14 12:09:16",
-        "sentiment_score": -0.8413037396967411
-    },
-    {
-        "title": "Detenido en Valencia el conductor de un VTC por una posible agresión sexual a una menor",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2TWD3COG45PTXPSCLDSZJT75MM.jpg?auth=3e220c0d0c3704f54acbad1d23c64210cbfb35c8b338b491d472c8dc19624479&width=1200",
-        "tags": [
-            "valencia",
-            "abuso menores",
-            "agresiones sexuales",
-            "abusos sexuales",
-            "comunidad valenciana",
-            "turismo"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-08-14/detenido-en-valencia-el-conductor-de-un-vtc-por-una-posible-agresion-sexual-a-una-menor.html",
-        "date": "2025-08-14 11:31:37",
-        "sentiment_score": -0.37161483243107796
-    },
-    {
-        "title": "Los jueces y fiscales progresistas piden que España y la UE rompan relaciones comerciales y diplomáticas con Israel",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RDC2RML735NCPIIULTWT3KNFH4.jpg?auth=984aab258dbc10ed0ba3f9c1ab9781cef7205adbf0ba6e325d2f41ab2252b969&width=1200",
-        "tags": [
-            "josé manuel albares",
-            "ministerio de asuntos exteriores",
-            "jueces para la democracia",
-            "franja gaza",
-            "benjamin netanyahu",
-            "pedro sánchez",
-            "asociacion pro derechos humanos",
-            "israel",
-            "españa",
-            "gobierno"
-        ],
-        "link": "https://elpais.com/espana/2025-08-14/los-jueces-y-fiscales-progresistas-piden-que-espana-y-la-ue-rompan-relaciones-comerciales-y-diplomaticas-con-israel.html",
-        "date": "2025-08-14 11:21:43",
-        "sentiment_score": 0.12493632733821869
     },
     {
         "title": "Las altas temperaturas ponen en aviso este viernes a casi toda España, con Ciudad Real y Toledo en nivel naranja",
@@ -8107,5 +7982,529 @@ export default [
         "link": "https://2001online.com/sucesos/el-sorprendente-modus-operandi-con-el-que-una-pareja-estafaba-con-obras-de-carlos-cruz-diez-202581715420",
         "date": "2025-08-17 19:42:00",
         "sentiment_score": -0.028873778879642487
+    },
+    {
+        "title": "Boca corta una extensa racha sin victorias y River golea a Godoy Cruz",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "godoy cruz",
+            "barracas central",
+            "efe",
+            "independiente rivadavia",
+            "river plate",
+            "buenos aires",
+            "mendoza",
+            "torneo clausura",
+            "estudiantes",
+            "fútbol argentino",
+            "boca juniors"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/boca-corta-una-extensa-racha-sin-victorias-y-river-golea-a-godoy-cruz/",
+        "date": "2025-08-18 02:15:14",
+        "sentiment_score": 0.7978501301258802
+    },
+    {
+        "title": "Predicción del estado del tiempo en Madrid para este 18 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "madrid",
+            "españa noticias",
+            "noticias",
+            "españa sociedad",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/18/prediccion-del-estado-del-tiempo-en-madrid-para-este-18-de-agosto/",
+        "date": "2025-08-18 01:31:57",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Coquimbo Unido lidera y Colo Colo cierra la puerta al argentino Almirón",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/coquimbo-unido-lidera-y-colo-colo-cierra-la-puerta-al-argentino-almiron/",
+        "date": "2025-08-18 01:20:53",
+        "sentiment_score": 0.30008356273174286
+    },
+    {
+        "title": "Boston River y Liverpool se quedan momentáneamente con la cima del Torneo Clausura",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/boston-river-y-liverpool-se-quedan-momentaneamente-con-la-cima-del-torneo-clausura/",
+        "date": "2025-08-18 01:20:37",
+        "sentiment_score": 0.49705538153648376
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "españa noticias",
+            "noticias",
+            "españa sociedad",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/18/prediccion-del-clima-estas-son-las-temperaturas-en-barcelona/",
+        "date": "2025-08-18 01:17:22",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Bolsa de Tokio alcanza récord histórico intradía por más de 43.000 puntos a la apertura",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/bolsa-de-tokio-alcanza-record-historico-intradia-por-mas-de-43000-puntos-a-la-apertura/",
+        "date": "2025-08-18 01:15:33",
+        "sentiment_score": 0.4980896785855293
+    },
+    {
+        "title": "Muere un bombero al volcar una autobomba cuando regresaba tras combatir los incendios en Espinoso de Compludo (León)",
+        "image_url": "https://www.infobae.com/resizer/v2/I7FFDNT4DFC4NMOEAGB2TGC45E.jpg?auth=fd9d4912287e5beb433b211fcbc4fc1fd646d0f6e320fa286e0df97907721ae9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "castilla y león",
+            "incendio forestal",
+            "león",
+            "incendio",
+            "españa-nacional",
+            "bombero",
+            "accidente",
+            "policía nacional",
+            "incendios",
+            "españa-noticias",
+            "incendios forestales",
+            "guardia civil"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/18/muere-un-bombero-al-volcar-una-autobomba-cuando-regresaba-tras-combatir-los-incendios-en-espinoso-de-compludo-leon/",
+        "date": "2025-08-18 00:53:57",
+        "sentiment_score": -0.17618027701973915
+    },
+    {
+        "title": "La historia médica de Hitler sale a la luz y muestra que era hipocondriaco y drogadicto: “Tomaba pastillas en cantidades industriales”",
+        "image_url": "https://www.infobae.com/resizer/v2/XT4QLMMRHRGQHAUAGPVP56ALME.png?auth=ad34c4231c40f55d61a24191543289577c6ddc2f9edf359266307373c50794a0&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-cultura",
+            "partido nazi",
+            "adolf hitler",
+            "libros españa",
+            "alemania",
+            "drogas",
+            "salud",
+            "españa-noticias",
+            "nazis",
+            "libros"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/02/02/la-historia-medica-de-hitler-sale-a-la-luz-y-muestra-que-era-hipocondriaco-y-drogadicto-tomaba-pastillas-en-cantidades-industriales/",
+        "date": "2025-08-18 00:15:10",
+        "sentiment_score": 0.0019520968198776245
+    },
+    {
+        "title": "K-pop: top de las 10 canciones que no paran de sonar en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "k-pop",
+            "noticias",
+            "itunes",
+            "streaming",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/17/k-pop-top-de-las-10-canciones-que-no-paran-de-sonar-en-itunes-espana/",
+        "date": "2025-08-17 23:15:26",
+        "sentiment_score": 0.493184482678771
+    },
+    {
+        "title": "Un bombero muerto y otro herido al volcar una autobomba en las labores de extinción en León",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GIJRGH6U7RBTXGHB367G2VFJIQ.jpg?auth=1a4431d388f9f4a062eff4d59b1107381f61b037cbed420d6adbe9bc573e76ef&width=1200",
+        "tags": [
+            "españa",
+            "víctimas",
+            "bomberos",
+            "incendios",
+            "castilla y león",
+            "alfonso fernández mañueco",
+            "incendios forestales"
+        ],
+        "link": "https://elpais.com/espana/2025-08-18/un-bombero-muerto-y-otro-herido-al-volcar-una-autobomba-en-las-labores-de-extincion-en-leon.html",
+        "date": "2025-08-17 22:21:42",
+        "sentiment_score": -0.5013627335429192
+    },
+    {
+        "title": "El debut de Bautista Dadín, la promesa de los USD 100 millones de River: de la asistencia a Driussi a ser reemplazado por un ídolo",
+        "image_url": "https://www.infobae.com/resizer/v2/AHFZEZTWQJGKZINZH7TV6FWXHI.JPG?auth=b2f80c4ad73a2a3f64e09b5ec94e0e6f57e74595eec53f7c0550fe7d607cdfdb&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "river plate",
+            "torneo clausura",
+            "deportes-argentina",
+            "marcelo gallardo",
+            "bautista dadín"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/18/el-debut-de-bautista-dadin-la-promesa-de-los-usd-100-millones-de-river-de-la-asistencia-a-driussi-a-ser-reemplazado-por-un-idolo/",
+        "date": "2025-08-18 00:28:36",
+        "sentiment_score": 0.3134048916399479
+    },
+    {
+        "title": "Los marroquíes evitan Ceuta y Melilla en la 'Operación Paso del Estrecho' y rompen los pronósticos de Marlaska",
+        "image_url": "https://s1.elespanol.com/2022/07/29/enclave-ods/historias/691441349_226146751_1706x960.jpg?contentId=691441349",
+        "tags": [
+            "marruecos",
+            "españa",
+            "ministerio del interior",
+            "fernando grande-marlaska"
+        ],
+        "link": "https://www.elespanol.com/espana/20250818/marroquies-evitan-ceuta-melilla-operacion-paso-estrecho-rompen-pronosticos-marlaska/1003743887069_0.html",
+        "date": "2025-08-18 00:16:01",
+        "sentiment_score": -0.6748549118638039
+    },
+    {
+        "title": "Siete de cada diez municipios de Castilla-La Mancha han perdido población en lo que llevamos de siglo",
+        "image_url": "https://s1.elespanol.com/2025/08/16/actualidad/1003743888922_258034638_1706x960.jpg?contentId=1003743888922",
+        "tags": [
+            "región",
+            "población",
+            "castilla-la mancha"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20250818/municipios-castilla-la-mancha-perdido-poblacion-llevamos-siglo/1003743888503_0.html",
+        "date": "2025-08-18 00:00:00",
+        "sentiment_score": 0.20331169664859772
+    },
+    {
+        "title": "17 AGO 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/17-ago-2025-tertulion-domingos-20250818_3200140.html",
+        "date": "2025-08-17 23:45:00",
+        "sentiment_score": -0.5985867381095886
+    },
+    {
+        "title": "Cayetano Rivera, auge y caída del torero modélico que vive su peor etapa entre líos policiales y sin poder decir adiós al ruedo",
+        "image_url": "https://s1.elespanol.com/2025/08/06/actualidad/1003743876835_257813242_1706x960.jpg?contentId=1003743876835",
+        "tags": [
+            "famosos",
+            "fran rivera ordóñez",
+            "cayetano rivera ordóñez",
+            "policía nacional",
+            "relaciones de pareja",
+            "carmina ordóñez",
+            "toreros",
+            "hijos"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20250817/cayetano-rivera-auge-caida-torero-modelico-vive-peor-etapa-lios-policiales-sin-poder-decir-adios-ruedo/1003743876812_0.html",
+        "date": "2025-08-17 23:03:47",
+        "sentiment_score": -0.8990037711337209
+    },
+    {
+        "title": "Operación Sombra Negra: un 'notario' ahogado en un desembarco fallido de 2.648 kilos de coca",
+        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2025/06/06/telamon-3-kkEC--366x256@Canarias7.jpg",
+        "tags": [
+            "audiencia nacional",
+            "granadilla de abona",
+            "narcotráfico",
+            "gran canaria",
+            "cocaína",
+            "policía nacional",
+            "fuerteventura",
+            "guardia civil"
+        ],
+        "link": "https://www.canarias7.es/canarias/gran-canaria/las-palmas-de-gran-canaria/operacion-sombra-negra-notario-ahogado-desembarco-fallido-20250818230715-nt.html",
+        "date": "2025-08-17 22:38:48",
+        "sentiment_score": -0.01989293098449707
+    },
+    {
+        "title": "El balón ovalado de la integración",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/08/18/rugby1-klFC-U2302667622832qnE-1200x840@Ideal.jpg",
+        "tags": [
+            "rugby"
+        ],
+        "link": "https://www.ideal.es/deportes/provincial-granada/balon-ovalado-integracion-20250818003600-nt.html",
+        "date": "2025-08-17 22:36:00",
+        "sentiment_score": 0.34099021553993225
+    },
+    {
+        "title": "El Centro de Operaciones y Vigilancia Espacial del Ejército del Aire, clave en la puesta en marcha del satélite SpainSat NG",
+        "image_url": "https://s1.elespanol.com/2024/06/26/actualidad/865923754_247285911_1706x960.png?contentId=865923754",
+        "tags": [
+            "ministerio de defensa",
+            "observatorio de la defensa",
+            "exploración espacial",
+            "ejército del aire",
+            "satélites espaciales",
+            "indra"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20250817/centro-operaciones-vigilancia-espacial-ejercito-aire-clave-puesta-marcha-satelite-spainsat-ng/1003743885569_0.html",
+        "date": "2025-08-17 22:27:34",
+        "sentiment_score": 0.3898591473698616
+    },
+    {
+        "title": "El desconsuelo de Pinos Puente y Alcalá la Real por José Ramón y Paco",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/08/18/compas-k9rH-U2302666883710JaG-1200x840@Ideal.jpg",
+        "tags": [
+            "pinos puente",
+            "alcalá la real"
+        ],
+        "link": "https://www.ideal.es/granada/provincia-granada/desconsuelo-pinos-puente-alcala-real-jose-ramon-20250818002356-nt.html",
+        "date": "2025-08-17 22:24:35",
+        "sentiment_score": -0.8837976399809122
+    },
+    {
+        "title": "Barcelona pierde, Liga empata e Independiente queda con camino libre",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "liga de quito",
+            "guayaquil",
+            "efe",
+            "independiente del valle",
+            "emelec",
+            "liga pro ecuatoriana",
+            "copa libertadores",
+            "barcelona",
+            "orense",
+            "ecuador",
+            "macará"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/08/18/barcelona-pierde-liga-empata-e-independiente-queda-con-camino-libre/",
+        "date": "2025-08-18 02:15:27",
+        "sentiment_score": 0.8279155641794205
+    },
+    {
+        "title": "La peluquería de Palma que seduce a la élite política y mediática: de Joaquín Prat a Marga Prohens",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3434689.jpg",
+        "tags": [
+            "famosos en mallorca",
+            "peluquerías en palma",
+            "salud y belleza",
+            "marga prohens",
+            "belleza y bienestar",
+            "salud y bienestar",
+            "joaquín prat"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/salud-belleza/2025/08/18/2449935/peluqueria-palma-seduce-elite-politica-mediatica-joaquin-prat-marga-prohens-1.html",
+        "date": "2025-08-18 02:00:01",
+        "sentiment_score": 0.2646755129098892
+    },
+    {
+        "title": "Los libros ‘hechos en casa’ más esperados",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3434931.jpg",
+        "tags": [
+            "jaume c. pons alorda",
+            "literatura en mallorca",
+            "blai bonet",
+            "cultura",
+            "antònia vicens",
+            "alejandro amenabar",
+            "joan alcover"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/08/18/2450055/libros-hechos-casa-mas-esperados.html",
+        "date": "2025-08-18 02:00:01",
+        "sentiment_score": -0.07936015725135803
+    },
+    {
+        "title": "Alejandro Javaloyas: «La disposición hace que el espectador vea de forma diferente»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3436135.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/08/18/2450763/alejandro-javaloyas-disposicion-hace-espectador-vea-forma-diferente.html",
+        "date": "2025-08-18 02:00:01",
+        "sentiment_score": 0.05640687048435211
+    },
+    {
+        "title": "Thomas Müller sorprendió al incluir a un ex Boca en su formación ideal junto a Messi y Neuer",
+        "image_url": "https://www.infobae.com/resizer/v2/JRBD3C3JWVET5E3TCOXQZWWAMQ.JPG?auth=ca498b709d07feb6bdb0fe87ed2d983e787520a35d255001c9a3bc0ddb59d8b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-internacional",
+            "mls",
+            "deportes-argentina",
+            "thomas muller",
+            "andrés cubas",
+            "boca juniors"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/18/thomas-muller-sorprendio-al-incluir-a-un-ex-boca-en-su-formacion-ideal-junto-a-messi-y-neuer/",
+        "date": "2025-08-18 01:10:43",
+        "sentiment_score": -0.540157837793231
+    },
+    {
+        "title": "De un multiagente de gestión de tesorería a enviar dinero entre países o automatizar procesos con IA: la disrupción de Cofidis",
+        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743885112_257962390_1706x960.jpg?contentId=1003743885112",
+        "tags": [
+            "startups",
+            "tecnología",
+            "inteligencia artificial",
+            "seguros",
+            "innovación",
+            "emprendedores de éxito",
+            "startup"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250818/multiagente-gestion-tesoreria-enviar-dinero-paises-automatizar-procesos-ia-disrupcion-cofidis/1003743885106_0.html",
+        "date": "2025-08-18 01:04:03",
+        "sentiment_score": 0.7573380935937166
+    },
+    {
+        "title": "«Fue una mi**da, una vergüenza», dijo Neymar tras sufrir la derrota más humillante de su carrera",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/08/17/derrota-neymar-santos-vasco-brasil-orix/",
+        "date": "2025-08-18 01:03:44",
+        "sentiment_score": -0.8847511801868677
+    },
+    {
+        "title": "El PP esperará a ver cómo actúa Conde-Pumpido con el recurso de Puigdemont antes de entrar a hablar de la renovación del TC",
+        "image_url": "https://s1.elespanol.com/2025/08/08/actualidad/1003743880499_258045577_1706x960.jpg?contentId=1003743880499",
+        "tags": [
+            "política",
+            "tribunal constitucional",
+            "caso ere",
+            "carles puigdemont",
+            "tribunal de justicia de la unión europea (tjue)",
+            "cándido conde-pumpido"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250818/pp-esperara-ver-actua-conde-pumpido-recurso-puigdemont-entrar-hablar-renovacion-tc/1003743880478_0.html",
+        "date": "2025-08-18 00:54:33",
+        "sentiment_score": -0.8788696974515915
+    },
+    {
+        "title": "Natalia Shartova, investigadora en clima y salud: \"Tras una ola de calor tan larga, la mortalidad va a ser especialmente intensa\"",
+        "image_url": "https://s1.elespanol.com/2025/08/15/actualidad/1003743888304_258022394_1706x960.jpg?contentId=1003743888304",
+        "tags": [
+            "calor",
+            "ola de calor",
+            "salud"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20250818/natalia-shartova-investigadora-clima-salud-ola-calor-larga-mortalidad-va-especialmente-intensa/1003743887278_0.html",
+        "date": "2025-08-18 00:49:33",
+        "sentiment_score": -0.8681630482897162
+    },
+    {
+        "title": "Se estrena \"Becoming Madonna\": esto revela el documental de la reina del pop",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755483192079.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "becoming madonna",
+            "madonna"
+        ],
+        "link": "https://2001online.com/farandula/se-estrena-becoming-madonna-esto-revela-el-documental-de-la-reina-del-pop-202581722100",
+        "date": "2025-08-18 02:10:00",
+        "sentiment_score": 0.14126862585544586
+    },
+    {
+        "title": "Predicciones de la semana del 18 al 24 de agosto",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755283982272.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-18-al-24-de-agosto--20258172200",
+        "date": "2025-08-18 02:00:00",
+        "sentiment_score": -0.09472450613975525
+    },
+    {
+        "title": "Las galletas María dan para todo: prepara un exquisito postre con esta popular fruta rica en antioxidantes y potasio",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755260666401.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - gastronomía"
+        ],
+        "link": "https://2001online.com/zona3d/gastronomia/las-galletas-maria-dan-para-todo-prepara-un-exquisito-postre-con-esta-popular-fruta-rica-en-antioxidantes-y-potasio-20258172200",
+        "date": "2025-08-18 02:00:00",
+        "sentiment_score": 0.6829473190009594
+    },
+    {
+        "title": "¡Gustavo Dudamel hace historia! Así le rinde homenaje este museo de Nueva York",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755482115772.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "museo de nueva york",
+            "gustavo dudamel"
+        ],
+        "link": "https://2001online.com/usa/farandula/gustavo-dudamel-hace-historia-asi-le-rinde-homenaje-este-museo-de-nueva-york--202581721530",
+        "date": "2025-08-18 01:53:00",
+        "sentiment_score": 0.16375721246004105
+    },
+    {
+        "title": "Regresó a EE.UU. después de una deportación y lo encontraron: este es el insólito motivo por el que el ICE le deja quedarse en el país",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755480656262.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "el salvador",
+            "inmigrantes",
+            "migrantes ilegales",
+            "migración"
+        ],
+        "link": "https://2001online.com/usa/migracion/regreso-a-ee-uu-despues-de-una-deportacion-y-lo-encontraron-este-es-el-insolito-motivo-por-el-que-el-ice-le-deja-quedarse-en-el-pais-202581721350",
+        "date": "2025-08-18 01:35:00",
+        "sentiment_score": -0.700640020892024
+    },
+    {
+        "title": "En video: Gobierno venezolano propone una campaña para salvar a la humanidad",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755480414286.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "maduro",
+            "nicolás maduro",
+            "venezuela",
+            "pantallas",
+            "tecnologia"
+        ],
+        "link": "https://2001online.com/nacionales/en-video-gobierno-venezolano-propone-una-campana-para-salvar-a-la-humanidad-202581721300",
+        "date": "2025-08-18 01:30:00",
+        "sentiment_score": 0.43745337054133415
+    },
+    {
+        "title": "El ICE los busca desesperadamente: esta es la millonaria cifra que ofrecen por dos hermanos",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755480086697.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cártel de sinaloa",
+            "justicia",
+            "ice",
+            "los más buscados"
+        ],
+        "link": "https://2001online.com/usa/internacionales/el-ice-los-busca-desesperadamente-esta-es-la-millonaria-cifra-que-ofrecen-por-dos-hermanos-202581721230",
+        "date": "2025-08-18 01:24:00",
+        "sentiment_score": -0.5477124247699976
+    },
+    {
+        "title": "Elecciones presidenciales en Bolivia: inicia el cierre de centros de votación",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755475574987.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "elecciones en bolivia",
+            "centros de votación",
+            "luis arce",
+            "elecciones presidenciales en bolivia",
+            "bolivia"
+        ],
+        "link": "https://2001online.com/internacionales/elecciones-presidenciales-en-bolivia-inicia-el-cierre-de-centros-de-votacion-20258172070",
+        "date": "2025-08-18 00:07:00",
+        "sentiment_score": 0.1353343315422535
+    },
+    {
+        "title": "Carlos Alcaraz vs. Jannik Sinner: a qué hora y por dónde ver la final de Cincinnati",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755465359332.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cincinnati open",
+            "espn",
+            "atp",
+            "disney+",
+            "carlos alcaraz vs. jannik sinner",
+            "jannik sinner",
+            "alcaraz vs sinner",
+            "carlos alcaraz",
+            "tenis",
+            "masters 1.000"
+        ],
+        "link": "https://2001online.com/deportes/carlos-alcaraz-vs-jannik-sinner-a-que-hora-y-por-donde-ver-la-final-de-cincinnati-20258172100",
+        "date": "2025-08-18 00:04:12",
+        "sentiment_score": 0.09073441848158836
+    },
+    {
+        "title": "California en duelo: un icónico negocio de más de 20 años cierra sus puertas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755312931478.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "california",
+            "comida",
+            "cierre"
+        ],
+        "link": "https://2001online.com/usa/servicios/california-en-duelo-un-iconico-negocio-de-mas-de-20-anos-cierra-sus-puertas-20258172000",
+        "date": "2025-08-18 00:00:00",
+        "sentiment_score": -0.29115596413612366
     }
 ];
