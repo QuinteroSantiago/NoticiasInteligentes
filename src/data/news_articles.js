@@ -173,91 +173,6 @@ export default [
         "sentiment_score": 0.01468569040298462
     },
     {
-        "title": "La vida de Javier Lambán, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZQ4IMWP5PZC4ZPZWO4DD7F5NBQ.jpg?auth=597c78a62eebd5f3d476577d145c7a6252440e16f5fafb323770cb6b2fc65901",
-        "tags": [
-            "política",
-            "obituarios",
-            "javier lambán montañés",
-            "aragón",
-            "psoe",
-            "políticos",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-15/la-vida-de-javier-lamban-en-imagenes.html",
-        "date": "2025-08-15 13:44:03",
-        "sentiment_score": -0.6490134615451097
-    },
-    {
-        "title": "Muere Javier Lambán, expresidente de Aragón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FW3PIQ7CENFLRCWK4CVM5DP3KA.jpg?auth=62613feee0289172edcc7df9521521912ebdfbbcefb3eb2b64f1f800e7c2e63c",
-        "tags": [
-            "políticos",
-            "obituarios",
-            "españa",
-            "psoe",
-            "javier lambán montañés",
-            "aragón"
-        ],
-        "link": "https://elpais.com/espana/2025-08-15/muere-javier-lamban-expresidente-de-aragon.html",
-        "date": "2025-08-15 13:23:57",
-        "sentiment_score": -0.630534540861845
-    },
-    {
-        "title": "Feijóo descarga de presión a sus barones y reclama medidas “de Estado” y el despliegue del Ejército",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O223BJZUD5NCDNGJ3APH6GGCPY.jpg?auth=c6e455cee7401a4cdf92990ce897d0bbbc47841807f3beb4f8d50e6bdf191a47",
-        "tags": [
-            "vox",
-            "incendios forestales",
-            "pp",
-            "castilla y león",
-            "andalucía",
-            "españa",
-            "león",
-            "alberto núñez feijóo",
-            "incendios"
-        ],
-        "link": "https://elpais.com/espana/2025-08-15/feijoo-descarga-de-presion-a-sus-barones-y-reclama-medidas-de-estado-y-el-despliegue-del-ejercito.html",
-        "date": "2025-08-15 11:32:51",
-        "sentiment_score": -0.842259663157165
-    },
-    {
-        "title": "Ayuso se suma al discurso de Vox y afirma que la “agenda ideológica” dificulta los trabajos de prevención contra los incendios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BC37ICOIB5A3LN4IOJPWSWLIOE.jpg?auth=e9b7303b715766a3711a84580ac669a77b4432b659406d464db7a7fffc9abbdb",
-        "tags": [
-            "comunidad de madrid",
-            "tres cantos",
-            "pp madrid",
-            "isabel díaz ayuso",
-            "madrid",
-            "gobierno comunidad madrid",
-            "bomberos",
-            "incendios"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-08-15/ayuso-se-suma-al-discurso-de-vox-y-afirma-que-la-agenda-ideologica-dificulta-los-trabajos-de-prevencion-contra-los-incendios.html",
-        "date": "2025-08-15 10:58:25",
-        "sentiment_score": -0.8787450511008501
-    },
-    {
-        "title": "La Junta de Extremadura solicita una lista de los inmuebles afectados por el fuego para combatir “los bulos” y pide “no hacer caso a las redes”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HI3UOGML5BFWLCKY5MFYIEBZBU.jpg?auth=9e18fb2334b52c596f40f9bbc143638d90a3c012864d77653c3951a3fc600fa4",
-        "tags": [
-            "incendios forestales",
-            "plasencia",
-            "junta extremadura",
-            "bomberos",
-            "bulos internet",
-            "españa",
-            "incendios forestales intencionados",
-            "ume",
-            "redes sociales",
-            "extremadura"
-        ],
-        "link": "https://elpais.com/espana/2025-08-15/la-junta-de-extremadura-solicita-una-lista-de-los-inmuebles-afectados-por-el-fuego-para-combatir-los-bulos-y-pide-no-hacer-caso-a-las-redes.html",
-        "date": "2025-08-15 10:34:11",
-        "sentiment_score": -0.7481128219515085
-    },
-    {
         "title": "La RFEF informa sobre los criterios para la evaluación y clasificación de los árbitros profesionales",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250815191016_120.jpg",
         "tags": [
@@ -7758,5 +7673,498 @@ export default [
         "link": "https://2001online.com/usa/internacionales/trump-revela-acuerdos-de-la-reunion-con-zelenski-hay-condiciones-para-poner-fin-a-la-guerra--202581816520",
         "date": "2025-08-18 20:52:00",
         "sentiment_score": 0.41842519491910934
+    },
+    {
+        "title": "Clima en Madrid: temperaturas máximas y mínimas para el 19 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "madrid",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/19/clima-en-madrid-pronostico-de-lluvias-y-rafagas-de-viento/",
+        "date": "2025-08-19 01:53:38",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona para antes de salir de casa este 19 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "barcelona",
+            "españa sociedad",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/19/pronostico-del-clima-en-barcelona-para-antes-de-salir-de-casa-este-19-de-agosto/",
+        "date": "2025-08-19 01:17:18",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "La economía de Ecuador crece un 2,8% en junio de 2025, según el Banco Central",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "exportaciones",
+            "ecuador",
+            "economía de ecuador",
+            "fondo monetario internacional",
+            "efe",
+            "banco central de ecuador",
+            "daniel noboa",
+            "balanza comercial",
+            "crecimiento económico",
+            "quito",
+            "guillermo avellán"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/la-economia-de-ecuador-crece-un-28-en-junio-de-2025-segun-el-banco-central/",
+        "date": "2025-08-19 00:31:10",
+        "sentiment_score": 0.4450775980949402
+    },
+    {
+        "title": "Grupo canadiense prolongará la explotación de la única mina de cobre en Mauritania a 2029",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efecom",
+            "cobre",
+            "efe",
+            "first quantum",
+            "nuakchot",
+            "mauritanian cooper mine",
+            "mauritania",
+            "facebook",
+            "explotación minera",
+            "oro",
+            "mina de cobre"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/grupo-canadiense-prolongara-la-explotacion-de-la-unica-mina-de-cobre-en-mauritania-a-2029/",
+        "date": "2025-08-19 00:16:44",
+        "sentiment_score": 0.5238451100885868
+    },
+    {
+        "title": "Joe Flacco, de 40 años, será el 'quarterback' principal de los Cleveland Browns",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "cleveland browns",
+            "tom brady",
+            "efe",
+            "baltimore ravens",
+            "quarterbacks veteranos",
+            "estados unidos",
+            "super bowl",
+            "deshaun watson",
+            "joe flacco",
+            "nfl",
+            "indianapolis colts"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/joe-flacco-de-40-anos-sera-el-quarterback-principal-de-los-cleveland-browns/",
+        "date": "2025-08-19 00:15:31",
+        "sentiment_score": 0.13148869574069977
+    },
+    {
+        "title": "Bolsa mexicana se mueve lateral como su pares norteamericanos y sostiene los 58.320 puntos",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "bolsa mexicana de valores",
+            "efe",
+            "gabriela siller",
+            "actinver",
+            "enrique covarrubias",
+            "banorte",
+            "mercado bursátil",
+            "índice de precios y cotizaciones",
+            "banco base",
+            "méxico",
+            "ciudad de méxico"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/bolsa-mexicana-se-mueve-lateral-como-su-pares-norteamericanos-y-sostiene-los-58320-puntos/",
+        "date": "2025-08-19 00:02:12",
+        "sentiment_score": 0.5640719793736935
+    },
+    {
+        "title": "Dieciocho efectivos trabajan toda la madrugada en el incendio de Colmenar Viejo (Madrid)",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/dieciocho-efectivos-trabajan-toda-la-madrugada-en-el-incendio-de-colmenar-viejo-madrid/",
+        "date": "2025-08-18 23:46:47",
+        "sentiment_score": -0.5528816096484661
+    },
+    {
+        "title": "Davidovich: \"Algo tiene que cambiar\"",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/davidovich-algo-tiene-que-cambiar/",
+        "date": "2025-08-18 23:45:53",
+        "sentiment_score": -0.23682772740721703
+    },
+    {
+        "title": "El partido venezolano MAS dice que imposición del Estado \"imposibilita\" mejoras salariales",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/el-partido-venezolano-mas-dice-que-imposicion-del-estado-imposibilita-mejoras-salariales/",
+        "date": "2025-08-18 23:45:34",
+        "sentiment_score": -0.5875103399157524
+    },
+    {
+        "title": "Muerte masiva de peces agrava crisis en Laguna de Tres Palos, en el mexicano Acapulco",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/muerte-masiva-de-peces-agrava-crisis-en-laguna-de-tres-palos-en-el-mexicano-acapulco/",
+        "date": "2025-08-18 23:45:18",
+        "sentiment_score": -0.8623193427920341
+    },
+    {
+        "title": "Baleares señala al Gobierno por la caída en las ayudas al alquiler",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3439231.jpg",
+        "tags": [
+            "emergencia habitacional",
+            "govern balear",
+            "viviendas en baleares",
+            "alquiler",
+            "ministerio de vivienda",
+            "ultimas noticias",
+            "palma",
+            "ayudas al alquiler",
+            "local",
+            "palma de mallorca",
+            "precio de la vivienda",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/19/2452457/baleares-senala-gobierno-por-caida-ayudas-alquiler.html",
+        "date": "2025-08-19 02:00:02",
+        "sentiment_score": -0.020508229732513428
+    },
+    {
+        "title": "Peinado imputa un quinto delito a Begoña Gómez con la tesis de la Audiencia de desvío de dinero público a sus negocios",
+        "image_url": "https://s1.elespanol.com/2025/08/18/actualidad/1003743890968_258071644_1706x960.jpg?contentId=1003743890968",
+        "tags": [
+            "félix bolaños garcía",
+            "tribunal supremo",
+            "malversación de fondos",
+            "pedro sánchez",
+            "begoña gómez",
+            "tribunales"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20250819/peinado-imputa-quinto-delito-begona-gomez-tesis-audiencia-desvio-dinero-publico-negocios/1003743890802_0.html",
+        "date": "2025-08-19 00:42:09",
+        "sentiment_score": -0.8592983335256577
+    },
+    {
+        "title": "La era de la velocidad geopolítica: las empresas españolas deben aprender a leer",
+        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743885454_257968584_1706x960.jpg?contentId=1003743885454",
+        "tags": [
+            "donald trump",
+            "geopolítica",
+            "tribunas de opinión",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20250819/velocidad-geopolitica-empresas-espanolas-deben-aprender-leer/1003743885194_12.html",
+        "date": "2025-08-19 00:33:58",
+        "sentiment_score": -0.10021990537643433
+    },
+    {
+        "title": "El tierno regalo de Mastantuono al hijo de Federico Valverde que repercutió en el mundo River: “¿Lo querés?\"",
+        "image_url": "https://www.infobae.com/resizer/v2/4ZIP53DO6VGVFMZWFWD7ERFYSA.jpg?auth=d9c9490762fc70ae838775587e0687bd8224fb4a8dfc38b6a3f334f1dbf909d0&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "river plate",
+            "deportes-argentina",
+            "real madrid",
+            "federico valverde",
+            "franco mastantuono"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/19/el-tierno-regalo-de-mastantuono-al-hijo-de-federico-valverde-que-repercutio-en-el-mundo-river-lo-queres/",
+        "date": "2025-08-19 00:31:36",
+        "sentiment_score": 0.7844488881528378
+    },
+    {
+        "title": "Denuncia veterinaria ante el olvido animal en incendios forestales: \"Debería haber un cuerpo para las emergencias\"",
+        "image_url": "https://s1.elespanol.com/2025/08/18/actualidad/1003743889990_258053606_1706x960.jpg?contentId=1003743889990",
+        "tags": [
+            "gatos",
+            "incendios forestales",
+            "tres cantos",
+            "perros",
+            "historias"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20250819/denuncia-veterinaria-olvido-animal-incendios-forestales-deberia-cuerpo-emergencias/1003743889973_0.html",
+        "date": "2025-08-19 00:05:00",
+        "sentiment_score": -0.6796870939433575
+    },
+    {
+        "title": "Norchad Omier y Jared Ruiz lideran la lista de jugadores de Nicaragua para la AmeriCup",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3430",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/08/18/norchad-omier-y-jared-ruiz-lideran-la-lista-de-jugadores-de-nicaragua-para-la-americup/",
+        "date": "2025-08-18 23:31:18",
+        "sentiment_score": 0.2784806862473488
+    },
+    {
+        "title": "18 AGO 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/18-ago-2025-partidazo-cope-20250819_3200665.html",
+        "date": "2025-08-18 23:18:43",
+        "sentiment_score": 0.003413483500480652
+    },
+    {
+        "title": "La \"nueva\" China de los pandas, el hotpot y Legoland se abre como nunca a los turistas mientras que Estados Unidos se cierra",
+        "image_url": "https://phantom-elmundo.uecdn.es/e6b7b34b4a16dd622051972c296ece73/crop/0x104/596x699/f/image/jpeg/assets/multimedia/imagenes/2022/05/03/16515910186356.jpg",
+        "tags": [
+            "artículos lucas de la cal"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/08/19/68a30266fdddff2c3d8b4571.html",
+        "date": "2025-08-18 23:11:40",
+        "sentiment_score": 0.7197511158883572
+    },
+    {
+        "title": "Última hora de los incendios: Cuatro bomberos sufren quemaduras en Galicia",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/08/19/68a3aabec2186.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.cope.es/actualidad/sociedad/al-minuto/ultima-hora-incendios-espana-fuegos-directo-decenas-focos-activos-castilla-leon-galicia-extremadura-20250819_3200661.html",
+        "date": "2025-08-18 22:55:31",
+        "sentiment_score": -0.1293628215789795
+    },
+    {
+        "title": "Historia en el Grand Prix: San Sebastián de La Gomera se mete en la gran final",
+        "image_url": "https://cdn.diariodeavisos.com/wp-content/uploads/2025/08/La-Gomera-1024x684.jpeg",
+        "tags": [
+            "sociedad",
+            "portada",
+            "portada apertura 1"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/08/grand-prix-gomera-final/",
+        "date": "2025-08-18 22:54:54",
+        "sentiment_score": 0.8334313444793224
+    },
+    {
+        "title": "El dragón que puede cambiar de sexo por la temperatura y sorprende a la ciencia: revelan sus claves genéticas",
+        "image_url": "https://www.infobae.com/resizer/v2/JQFMDX7WWZAEXL47XBBN4AKPJ4.jpg?auth=3b3c0dcde32a573df7f917c1eacbdf4a1fd97b4b09711b3b538d8ba247df53b6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "dragones",
+            "dragón barbudo",
+            "australia",
+            "determinación sexual en reptiles",
+            "últimas noticias"
+        ],
+        "link": "https://www.infobae.com/america/ciencia-america/2025/08/19/el-dragon-barbudo-que-puede-cambiar-de-sexo-por-la-temperatura-y-sorprende-a-la-ciencia-sus-claves-geneticas/",
+        "date": "2025-08-19 02:12:23",
+        "sentiment_score": 0.03726733475923538
+    },
+    {
+        "title": "La naturaleza muerta de Llucmajor inspira a Joan Fontcuberta",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3435525.jpg",
+        "tags": [
+            "fotografía en mallorca",
+            "llucmajor",
+            "cultura",
+            "centro internacional de fotografía toni catany",
+            "taller de fotografía"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/08/19/2450373/naturaleza-muerta-llucmajor-inspira-joan-fontcuberta.html",
+        "date": "2025-08-19 02:00:02",
+        "sentiment_score": 0.05875508487224579
+    },
+    {
+        "title": "La sorpresa de un mallorquín al ser multado en el Puerto de Barcelona: «Sales del barco y no hay alternativa»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3431715.jpg",
+        "tags": [
+            "puerto de barcelona",
+            "ultimas noticias",
+            "palma",
+            "local",
+            "palma de mallorca",
+            "multas de tráfico",
+            "zona de bajas emisiones",
+            "zbe",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/19/2448445/sorpresa-mallorquin-ser-multado-puerto-barcelona-sales-del-barco-hay-alternativa.html",
+        "date": "2025-08-19 02:00:02",
+        "sentiment_score": -0.4139551371335983
+    },
+    {
+        "title": "La serpenteante tradición de Manlleu",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/08/18/68a305ae9cad0.r_d.1016-992-2338.jpeg",
+        "tags": [
+            "las fotos de los lectores"
+        ],
+        "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20250819/10983373/serpenteante-tradicion-manlleu.html",
+        "date": "2025-08-19 02:00:00",
+        "sentiment_score": 0.19976938515901566
+    },
+    {
+        "title": "Los habitantes urbanos tienen mayores probabilidades de asma",
+        "image_url": "https://www.infobae.com/resizer/v2/DEHOWXJ6SFHL7DR7UEQJAWNCFU.png?auth=6b46af686a695c4969ccb0abfea8fc43a58abbba7827badb8c81eed7c78480cf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "health day"
+        ],
+        "link": "https://www.infobae.com/salud/2025/08/19/los-habitantes-urbanos-tienen-mayores-probabilidades-de-asma/",
+        "date": "2025-08-19 01:45:52",
+        "sentiment_score": -0.08033834397792816
+    },
+    {
+        "title": "Neymar compartió el tierno mensaje que su hijo le escribió tras la peor derrota de su carrera",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/08/18/neymar-mensaje-hijo-derrota-santos-vasco-da-gama-orix/",
+        "date": "2025-08-18 23:03:51",
+        "sentiment_score": -0.8588636629283428
+    },
+    {
+        "title": "FC Barcelona aprueba un aval de 7 millones de euros : ¿Qué significa para el Fair Play Financiero?",
+        "image_url": "https://pxcdn.meridiano.net/082025/1755560213682.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/fc-barcelona-aprueba-un-aval-de-7-millones-de-euros-que-significa-para-el-fair-play-financiero--202581818570",
+        "date": "2025-08-18 22:57:00",
+        "sentiment_score": 0.19507597386837006
+    },
+    {
+        "title": "2a PARTE | 18 AGO 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-18-ago-2025-partidazo-cope-20250819_3200658.html",
+        "date": "2025-08-18 22:35:07",
+        "sentiment_score": -0.15444069355726242
+    },
+    {
+        "title": "MTV VMAs 2025: Ricky Martin se convierte en el primer artista en recibir el “Latin Icon Award”",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755569686917.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "mtv vma",
+            "ricky martin",
+            "latin icon award"
+        ],
+        "link": "https://2001online.com/farandula/mtv-vmas-2025-ricky-martin-se-convierte-en-el-primer-artista-en-recibir-el-latin-icon-award--202581822100",
+        "date": "2025-08-19 02:10:00",
+        "sentiment_score": 0.7851468343287706
+    },
+    {
+        "title": "Ricky Martin sacudirá los MTV VMAs 2025 con un reconocimiento que nadie había recibido antes",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755569543450.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "premios",
+            "celebridades"
+        ],
+        "link": "https://2001online.com/farandula/ricky-martin-sacudira-los-mtv-vmas-2025-con-un-reconocimiento-que-nadie-habia-recibido-antes-20258182290",
+        "date": "2025-08-19 02:09:00",
+        "sentiment_score": 0.6698445025831461
+    },
+    {
+        "title": "¿Llegaron los zombies? Un extraño virus siembra el pánico en varias ciudades de EE. UU.",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755566684675.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ee.uu.",
+            "animales",
+            "zombie"
+        ],
+        "link": "https://2001online.com/usa/internacionales/llegaron-los-zombies-un-extrano-virus-siembra-el-panico-en-varias-ciudades-de-ee-uu--20258182200",
+        "date": "2025-08-19 02:00:00",
+        "sentiment_score": -0.3323602080345154
+    },
+    {
+        "title": "Una proteína muy popular que puede llevarte a la demencia: la ciencia explica qué hacer con este vital alimento para los seres humanos",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755266125014.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/una-proteina-muy-popular-que-puede-llevarte-a-la-demencia-la-ciencia-explica-que-hacer-con-este-vital-alimento-para-los-seres-humanos-20258182200",
+        "date": "2025-08-19 02:00:00",
+        "sentiment_score": 0.41889362037181854
+    },
+    {
+        "title": "La actriz Helen Mirren defiende el James Bond masculino: No puede ser una mujer",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755567625642.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "james bond",
+            "helen mirren",
+            "pierce brosnan"
+        ],
+        "link": "https://2001online.com/farandula/la-actriz-helen-mirren-defiende-el-james-bond-masculino-no-puede-ser-una-mujer-202581821390",
+        "date": "2025-08-19 01:39:00",
+        "sentiment_score": -0.13970455527305603
+    },
+    {
+        "title": "Nueva vacuna en aerosol contra la gripe llegará a domicilio en EE. UU.: sepa cuándo y cómo funciona",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755569954505.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "vacuna de astrazeneca",
+            "astrazeneca"
+        ],
+        "link": "https://2001online.com/usa/servicios/nueva-vacuna-en-aerosol-contra-la-gripe-llegara-a-domicilio-en-ee-uu-sepa-cuando-y-como-funciona-202581821320",
+        "date": "2025-08-19 01:32:00",
+        "sentiment_score": 0.15469814464449883
+    },
+    {
+        "title": "Hito histórico en el Miss Universo: el certamen confirma a la primera representante palestina",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755566995352.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "palestina",
+            "nadeen ayoub",
+            "miss universo"
+        ],
+        "link": "https://2001online.com/farandula/hito-historico-en-el-miss-universo-el-certamen-confirma-a-la-primera-representante-palestina-202581821270",
+        "date": "2025-08-19 01:27:00",
+        "sentiment_score": 0.3165256083011627
+    },
+    {
+        "title": "Dos meses en un vehículo: la historia de una víctima de secuestro en el oriente venezolano",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755565163021.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "victima",
+            "pnb",
+            "mp",
+            "secuestro",
+            "delito",
+            "portuguesa"
+        ],
+        "link": "https://2001online.com/sucesos/dos-meses-en-un-vehiculo-la-historia-de-una-victima-de-secuestro-en-el-oriente-venezolano-202581821160",
+        "date": "2025-08-19 01:16:00",
+        "sentiment_score": -0.07172750681638718
+    },
+    {
+        "title": "¡Sin tregua! Otra ex de Christian Nodal que le lanza un dardo en medio del escándalo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755566616528.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "polémica",
+            "entrevista"
+        ],
+        "link": "https://2001online.com/farandula/sin-tregua-otra-ex-de-christian-nodal-que-le-lanza-un-dardo-en-medio-del-escandalo-202581821160",
+        "date": "2025-08-19 01:16:00",
+        "sentiment_score": -0.5285088904201984
+    },
+    {
+        "title": "Maduro anuncia nueva investigación: Fíjense ustedes en esos que tienen años diciendo que son chavistas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755564740328.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "diario 2001",
+            "venezuela",
+            "eeuu",
+            "alemania",
+            "ong"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-nueva-investigacion-fijense-ustedes-en-esos-que-tienen-anos-diciendo-que-son-chavistas-202581821130",
+        "date": "2025-08-19 01:13:00",
+        "sentiment_score": -0.8929171310737729
     }
 ];
