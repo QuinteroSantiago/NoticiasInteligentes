@@ -186,60 +186,6 @@ export default [
         "sentiment_score": -0.8033570665866137
     },
     {
-        "title": "Restringido el acceso al Cap de Creus y otros 10 espacios naturales por el alto riesgo de incendio en Cataluña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FXMRFTFYTROGRK3B6Q7N4HCOWI.jpg?auth=e32370aa4a21530603a2a994db7cd41669a95e3748ff40226ce506c924a354ed&width=1200",
-        "tags": [
-            "olas calor",
-            "temperaturas",
-            "cabo de creus",
-            "el tiempo",
-            "cataluña",
-            "calor",
-            "generalitat cataluña",
-            "parques naturales",
-            "parques nacionales",
-            "temperaturas máximas",
-            "protección civil"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-16/restringido-el-acceso-al-cap-de-creus-y-otros-10-espacios-naturales-por-el-alto-riesgo-de-incendio-en-cataluna.html",
-        "date": "2025-08-16 11:43:40",
-        "sentiment_score": -0.3613670691847801
-    },
-    {
-        "title": "El PSPV denuncia “un regalo” de Mazón de 61 millones anuales a los grandes patrimonios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MFEFM2WJR663YOHNRDAGYVANJI.jpg?auth=aeae0cdf078c02276ecb24629452a764f48ab4b941cf09980913210c8a7d6a89&width=1200",
-        "tags": [
-            "pspv-psoe",
-            "carlos mazón",
-            "hacienda pública",
-            "generalitat valenciana",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-08-16/el-pspv-denuncia-un-regalo-de-mazon-de-61-millones-anuales-a-los-grandes-patrimonios.html",
-        "date": "2025-08-16 11:41:37",
-        "sentiment_score": -0.4015548452734947
-    },
-    {
-        "title": "Consulte el mapa de los incendios activos en España y cómo van avanzando los fuegos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BNCXWYHI3ZEKJFWPLOUP7G6XIE.jpg?auth=c1275c7b7de3158bca6104d57e5eb11491320a8db32ca1e6cd3f97d94ce112dc&width=1200",
-        "tags": [
-            "galicia",
-            "castilla y león",
-            "sociedad",
-            "emergencias",
-            "incendios forestales intencionados",
-            "medio ambiente",
-            "extremadura",
-            "incendios",
-            "españa",
-            "bomberos",
-            "incendios forestales"
-        ],
-        "link": "https://elpais.com/clima-y-medio-ambiente/2025-08-16/consulte-el-mapa-de-los-fuegos-activos-en-espana-y-como-van-avanzando.html",
-        "date": "2025-08-16 10:28:52",
-        "sentiment_score": -0.24670633673667908
-    },
-    {
         "title": "El incendio de Tres Cantos revela la vulnerabilidad de Madrid ante el fuego",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/16/2025081619075022572.jpg",
         "tags": [
@@ -8091,5 +8037,449 @@ export default [
         "link": "https://2001online.com/sucesos/en-imagenes-reportan-voraz-incendio-en-fabrica-de-carabobo-202581917120",
         "date": "2025-08-19 21:12:00",
         "sentiment_score": -0.7396800983697176
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Madrid este 20 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/SHCTZRUOZVCJ3C2ZRHB3GXGZRA.png?auth=ccfd03e6d0570fe037ed9c51f84a1eba2b9ea17709785368392c6852d3f305ce&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa sociedad",
+            "madrid",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/20/clima-hoy-en-espana-temperaturas-para-madrid-este-20-de-agosto/",
+        "date": "2025-08-20 01:30:55",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "“Será el futuro del equipo” y “llegó para grandes tardes”: las repercusiones en España del debut de Mastantuono en Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/FB2CP5OYABCXFFILXTQBWL6M7Q.jpg?auth=d04b9e1a79ff251559e0c09e9a6926b63b1fe2bd06d26521df0963ac76020389&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-internacional",
+            "real madrid",
+            "deportesespn",
+            "la liga",
+            "franco mastantuono",
+            "osasuna",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/19/sera-el-futuro-del-equipo-y-llego-para-grandes-tardes-las-repercusiones-en-espana-del-debut-de-mastantuono-en-real-madrid/",
+        "date": "2025-08-19 23:22:42",
+        "sentiment_score": -0.37528321146965027
+    },
+    {
+        "title": "Infelix Hispania",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/08/20/TERCERAABC_InfelixHispania_HERCE-R77BO6hD3R3rdzrbymzGyaJ-350x624@diario_abc.jpg",
+        "tags": [
+            "zamora"
+        ],
+        "link": "https://www.abc.es/opinion/jose-a-herce-infelix-hispania-20250820174024-nt.html",
+        "date": "2025-08-19 22:49:39",
+        "sentiment_score": -0.1628393530845642
+    },
+    {
+        "title": "Incluir este nutriente en la dieta de tus hijos puede ayudar a prevenir la miopía en los niños",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/08/20/39130332-RlgEwe8zof3anksK3CLO8BJ-758x531@diario_abc.JPG",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/incluir-nutriente-dieta-tus-hijos-puede-ayudar-20250820003000-nt.html",
+        "date": "2025-08-19 22:30:00",
+        "sentiment_score": -0.1058056652545929
+    },
+    {
+        "title": "Diez años sin Mateu Castelló",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3440179.jpg",
+        "tags": [
+            "palma",
+            "ibanat",
+            "protección de especies",
+            "protección del territorio",
+            "palma de mallorca",
+            "mateu castelló",
+            "lucha contraincendios",
+            "bombers de mallorca",
+            "luís berbiela",
+            "joan mayol",
+            "local",
+            "ultimas noticias",
+            "última hora",
+            "tomeu seguí"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/20/2453033/diez-anos-mateu-castello.html",
+        "date": "2025-08-20 02:00:01",
+        "sentiment_score": 0.28290924429893494
+    },
+    {
+        "title": "Colapinto presenció el debut de Mastantuono en el Real Madrid: el video desde la tribuna y su mensaje",
+        "image_url": "https://www.infobae.com/resizer/v2/NP6G42CT4NBBPDSLWUKYEV4GKQ.jpg?auth=a2e3eaa7d70a747a37f81e48e70eb47254535d0cda957a2ebb53b9b5e93ab332&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "fórmula 1",
+            "alpine f1 team",
+            "franco colapinto",
+            "deportes-argentina",
+            "franco mastantuono",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/20/colapinto-presencio-el-debut-de-mastantuono-en-el-real-madrid-el-video-desde-la-tribuna-y-su-mensaje/",
+        "date": "2025-08-20 01:29:06",
+        "sentiment_score": 0.10547143220901489
+    },
+    {
+        "title": "El mapa de la movilidad bloqueada por los incendios en España: AVE cancelados y carreteras cortadas",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_800/uploads/2025/08/20/sigue-interrumpida-la-linea-de-alta-velocidad-madrid-galicia-por-los-incendios-de-ourense.jpeg",
+        "tags": [
+            "planeta"
+        ],
+        "link": "https://www.huffingtonpost.es/planeta/el-mapa-movilidad-bloqueada-incendios-espana-ave-cancelados-carreteras-cortadasbr.html",
+        "date": "2025-08-20 01:12:35",
+        "sentiment_score": -0.8752229306846857
+    },
+    {
+        "title": "Videojuegos del Real Madrid: un repaso por la saga completa dedicada al ‘club merengue’",
+        "image_url": "https://www.infobae.com/resizer/v2/ZGX5QAQXPZFQXDIWH4I6UNPDBY.png?auth=a294c1c53cc896e47580ca4b8396e657feccb4d8a869eb0db6181b58b8446761&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "real madrid",
+            "nintendo",
+            "play station",
+            "lo último en tecnología",
+            "tecnología",
+            "videojuegos"
+        ],
+        "link": "https://www.infobae.com/tecno/2025/08/20/videojuegos-del-real-madrid-un-repaso-por-la-saga-completa-dedicada-al-club-merengue/",
+        "date": "2025-08-20 00:40:53",
+        "sentiment_score": 0.23243528045713902
+    },
+    {
+        "title": "La Armada adquirirá un dron anfibio por 1,6 millones de euros: compatible con armas y funciones autónomas",
+        "image_url": "https://s1.elespanol.com/2025/08/19/actualidad/1003743891426_258079667_1706x960.jpg?contentId=1003743891426",
+        "tags": [
+            "ministerio de defensa",
+            "vehículos militares",
+            "observatorio de la defensa",
+            "armada española",
+            "fuerzas armadas"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20250820/armada-adquirira-dron-anfibio-millones-euros-compatible-armas-funciones-autonomas/1003743885002_0.html",
+        "date": "2025-08-20 00:30:00",
+        "sentiment_score": 0.31941626220941544
+    },
+    {
+        "title": "Anna Castells, la científica que busca la cura de la depresión en el intestino: \"La microbiota dice mucho de nuestro ánimo\"",
+        "image_url": "https://s1.elespanol.com/2025/08/18/actualidad/1003743890416_258061346_1706x960.jpg?contentId=1003743890416",
+        "tags": [
+            "l'oréal",
+            "salud mental",
+            "ciencia",
+            "protagonistas",
+            "depresión"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20250819/anna-castells-cientifica-busca-cura-depresion-intestino-microbiota-dice-animo/1003743890407_0.html",
+        "date": "2025-08-19 23:44:00",
+        "sentiment_score": 0.3997574970126152
+    },
+    {
+        "title": "Esta 'burbuja' digital de vigilancia convierte las piscinas en un entorno seguro y mejora el rendimiento de deportistas",
+        "image_url": "https://s1.elespanol.com/2025/08/18/actualidad/1003743890202_258057799_1706x960.jpg?contentId=1003743890202",
+        "tags": [
+            "innovación",
+            "piscinas",
+            "sensores",
+            "tecnología",
+            "natación",
+            "startup",
+            "emprendedores",
+            "startups"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20250819/burbuja-digital-vigilancia-convierte-piscinas-entorno-seguro-mejora-rendimiento-deportistas/1003743890194_0.html",
+        "date": "2025-08-19 23:40:00",
+        "sentiment_score": 0.4285844750702381
+    },
+    {
+        "title": "Inteligencia artificial para predecir y actuar ante las olas de calor",
+        "image_url": "https://s1.elespanol.com/2025/08/13/actualidad/1003743885170_257963470_1706x960.jpg?contentId=1003743885170",
+        "tags": [
+            "inteligencia artificial",
+            "centros de investigación",
+            "ola de calor",
+            "innovación",
+            "cambio climático",
+            "investigación científica",
+            "tecnología",
+            "csic",
+            "investigación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/investigacion/20250819/inteligencia-artificial-predecir-actuar-olas-calor/1003743885153_0.html",
+        "date": "2025-08-19 23:40:00",
+        "sentiment_score": 0.42311427742242813
+    },
+    {
+        "title": "Gol de penal de Mbappé le da al Real Madrid su primera victoria en La Liga, 1-0 ante Osasuna",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/0157bcb/2147483647/strip/true/crop/5264x3509+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1c%2F0d%2Fa2f0d37944b18b66fe9f8604e832%2F99f32e07b8334dc0bfbd24acffa50c68.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-08-19/gol-de-penal-de-mbappe-le-da-al-real-madrid-su-primera-victoria-en-la-liga-1-0-ante-osasuna",
+        "date": "2025-08-19 23:34:18",
+        "sentiment_score": 0.49539295583963394
+    },
+    {
+        "title": "Por qué Europa se rebela contra el turismo masivo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/08/19/europa-rebela-turismo-masivo-trax/",
+        "date": "2025-08-20 02:03:52",
+        "sentiment_score": -0.8238860443234444
+    },
+    {
+        "title": "Las inversiones millonarias en supercentros de datos, al alza en España, esquivan Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bb1a1170-b09e-40eb-b852-e8c37d94887c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "españa",
+            "barcelona",
+            "asturias",
+            "inversiones"
+        ],
+        "link": "https://www.lne.es/asturias/2025/08/20/inversiones-millonarias-supercentros-datos-alza-120772281.html",
+        "date": "2025-08-20 02:02:19",
+        "sentiment_score": 0.06826300919055939
+    },
+    {
+        "title": "Ciutadella y Maó son los dos ayuntamientos más transparentes de Menorca; Es Migjorn, el peor",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3440311.jpg",
+        "tags": [
+            "local",
+            "uab",
+            "ley de transparencia",
+            "transparencia"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/08/20/2453085/ciutadella-mao-ayuntamientos-mas-transparentes-menorca-migjorn-peor.html",
+        "date": "2025-08-20 02:00:01",
+        "sentiment_score": 0.37003928422927856
+    },
+    {
+        "title": "Los productos agrarios de ‘es Comte vell’",
+        "image_url": "https://uh.gsstatic.es/autor/josep-pons-fraga/48.png",
+        "tags": [
+            "medio de comunicación",
+            "tribuna",
+            "grupo serra",
+            "prensa digital",
+            "artículos de opinión"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/08/20/2453183/productos-agrarios-comte-vell.html",
+        "date": "2025-08-20 02:00:01",
+        "sentiment_score": -0.07799934595823288
+    },
+    {
+        "title": "El Estatuto de los Trabajadores lo confirma: si cobras menos que un compañero por hacer el mismo trabajo puedes recurrir al artículo 28",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3440079.jpg",
+        "tags": [
+            "noticias interesantes",
+            "ia-news",
+            "aprender y más",
+            "consejos útiles",
+            "audiencias-um",
+            "curiosidades y trucos",
+            "trucos para ahorrar",
+            "trabajo",
+            "dudas y respuestas",
+            "estatutos",
+            "empleo"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/08/20/2452937/estatuto-trabajadores-confirma-cobras-menos-companero-por-hacer-mismo-trabajo-puedes-recurrir-articulo-28.html",
+        "date": "2025-08-20 02:00:01",
+        "sentiment_score": 0.22260338068008423
+    },
+    {
+        "title": "Qué significa que una persona no conteste los mensajes de WhatsApp, según la psicología",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3439959.jpg",
+        "tags": [
+            "ia-news",
+            "última hora",
+            "whatsapp",
+            "audiencias-um",
+            "mensajería instantánea",
+            "psicología",
+            "sociedad",
+            "tendencias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/08/20/2452859/significa-una-persona-conteste-mensajes-whatsapp-segun-psicologia.html",
+        "date": "2025-08-20 02:00:01",
+        "sentiment_score": -0.14449407905340195
+    },
+    {
+        "title": "Izan Guevara: «Puedo y debo pelear por estar en el podio»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3435249.jpg",
+        "tags": [
+            "moto2",
+            "motociclismo",
+            "fórmula 1",
+            "joan mir",
+            "izan guevara",
+            "motor",
+            "moto gp"
+        ],
+        "link": "https://www.ultimahora.es/deportes/motor/2025/08/20/2450293/entrevista-izan-guevara-dodododdo.html",
+        "date": "2025-08-20 02:00:01",
+        "sentiment_score": 0.6169499158859253
+    },
+    {
+        "title": "La escultura de Anís del Mono al amanecer",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/08/18/68a313bf44f8d.r_d.1297-1071-1907.jpeg",
+        "tags": [
+            "las fotos de los lectores"
+        ],
+        "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20250820/10983650/escultura-anis-mono-amanecer.html",
+        "date": "2025-08-20 02:00:00",
+        "sentiment_score": 0.017185330390930176
+    },
+    {
+        "title": "El reto y el privilegio de fotografiar Gràcia",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/08/19/68a450dfe3508.r_d.1399-981-1764.jpeg",
+        "tags": [
+            "las fotos de los lectores"
+        ],
+        "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20250820/10986367/reto-privilegio-fotografiar-gracia.html",
+        "date": "2025-08-20 02:00:00",
+        "sentiment_score": -0.8818144220858812
+    },
+    {
+        "title": "¡Venezuela por la gloria! Conozca qué se llevará la selección que gane la Copa América de Beisbol",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755655914939.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "copa américa de beisbol",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/deportes/venezuela-por-la-gloria-conozca-que-se-llevara-la-seleccion-que-gane-la-copa-america-de-beisbol-202581922100",
+        "date": "2025-08-20 02:10:00",
+        "sentiment_score": 0.055778685957193375
+    },
+    {
+        "title": "¡Pánico en el aire! Avión aterriza de emergencia en Minneapolis y deja varios heridos: conozca los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755654829732.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "pánico",
+            "avion de delta airline",
+            "minneapolis",
+            "avion de delta airlines aterriza de emergencia"
+        ],
+        "link": "https://2001online.com/internacionales/panico-en-el-aire-avion-aterriza-de-emergencia-en-minneapolis-y-deja-varios-heridos-conozca-los-detalles-20258192270",
+        "date": "2025-08-20 02:07:00",
+        "sentiment_score": -0.03257721662521362
+    },
+    {
+        "title": "Gloria Estefan revela el secreto de sus 50 años de fama: un consejo lo cambió todo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755655865613.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cyndi lauper",
+            "shakira",
+            "gloria estefan"
+        ],
+        "link": "https://2001online.com/farandula/gloria-estefan-revela-el-secreto-de-sus-50-anos-de-fama-un-consejo-lo-cambio-todo-20258192250",
+        "date": "2025-08-20 02:05:00",
+        "sentiment_score": 0.4142225682735443
+    },
+    {
+        "title": "Revés legal para Icardi: su fortuna peligra",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755655250953.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "wanda nara",
+            "polémica",
+            "deudor alimentario",
+            "wanda nara y mauro icardi",
+            "mauro icardi y la china suárez",
+            "polémica de icardi",
+            "la china suárez",
+            "mauro icardi"
+        ],
+        "link": "https://2001online.com/deportes/reves-legal-para-icardi-su-fortuna-peligra-20258192300",
+        "date": "2025-08-20 02:03:46",
+        "sentiment_score": -0.869037258438766
+    },
+    {
+        "title": "Desde Chapellín hasta Atlanta: la inspiradora vida de Andrés Galarraga y su victoria contra el cáncer",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755655387044.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bravos de atlanta",
+            "andrés galarraga"
+        ],
+        "link": "https://2001online.com/deportes/desde-chapellin-hasta-atlanta-la-inspiradora-vida-de-andres-galarraga-y-su-victoria-contra-el-cancer-20258192220",
+        "date": "2025-08-20 02:02:00",
+        "sentiment_score": 0.8716838415712118
+    },
+    {
+        "title": "¡Niños en peligro en EE.UU.! Estas imitaciones de Labubus son mortalmente tóxicas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755653591368.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "imitación",
+            "peligro",
+            "labubus"
+        ],
+        "link": "https://2001online.com/usa/servicios/ninos-en-peligro-en-ee-uu-estas-imitaciones-de-labubus-son-mortalmente-toxicas-20258192200",
+        "date": "2025-08-20 02:00:00",
+        "sentiment_score": 0.30683816969394684
+    },
+    {
+        "title": "¿Perdiendo fuerza la dinastía Aguilar?: la polémica por el insólito precio de algunas entradas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755655800007.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "conciertos 2025",
+            "música"
+        ],
+        "link": "https://2001online.com/farandula/perdiendo-fuerza-la-dinastia-aguilar-la-polemica-por-el-insolito-precio-de-algunas-entradas-202581921560",
+        "date": "2025-08-20 01:56:00",
+        "sentiment_score": -0.7903847666457295
+    },
+    {
+        "title": "Donald Trump ordena cambiar el color del muro fronterizo: busca que se caliente aún más",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755659310437.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "donald trump",
+            "muro fronterizo eeuu",
+            "kristi noem"
+        ],
+        "link": "https://2001online.com/usa/migracion/donald-trump-ordena-cambiar-el-color-del-muro-fronterizo-busca-que-se-caliente-aun-mas-202581921560",
+        "date": "2025-08-20 01:56:00",
+        "sentiment_score": -0.02180083841085434
+    },
+    {
+        "title": "La pareja del momento: Lamine Yamal y Nicki Nicole protagonizan una escapada romántica",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755655356795.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "nicki nicole",
+            "fc barcelona",
+            "laliga",
+            "romance",
+            "barcelona",
+            "lamine yamal",
+            "mónaco",
+            "lamine yamal y nicki nicole"
+        ],
+        "link": "https://2001online.com/deportes/la-pareja-del-momento-lamine-yamal-y-nicki-nicole-protagonizan-una-escapada-romantica-202581922300",
+        "date": "2025-08-20 01:34:13",
+        "sentiment_score": 0.4794636182487011
+    },
+    {
+        "title": "\"Shakira siempre tuvo razón\": el dardo de Sonia López a Gerard Piqué",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755655076706.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "kings league",
+            "shakira y piqué",
+            "gerard piquè",
+            "queens league",
+            "shakira",
+            "españa",
+            "venezuela",
+            "polémica de piqué",
+            "sonia lópez",
+            "polémica"
+        ],
+        "link": "https://2001online.com/deportes/shakira-siempre-tuvo-razon-el-dardo-de-sonia-lopez-a-gerard-pique--202581922150",
+        "date": "2025-08-20 01:34:12",
+        "sentiment_score": -0.8265938330441713
     }
 ];
