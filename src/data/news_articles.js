@@ -1,148 +1,5 @@
 export default [
     {
-        "title": "Última hora de los incendios en España, en directo | El incendio en un municipio de Ourense ya es el más grande de la historia de Galicia tras quemar 16.000 hectáreas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YQUJLC34ONAVBCRY5D6OFQX7YA.jpg?auth=6b7036221d878ad5a3605f25998061b14244972a52e9230c8b77b24d675c039b&width=1200",
-        "tags": [
-            "andalucía",
-            "extremadura",
-            "españa",
-            "bomberos",
-            "incendios",
-            "castilla y león",
-            "incendios forestales",
-            "incendios forestales intencionados",
-            "emergencias",
-            "galicia"
-        ],
-        "link": "https://elpais.com/espana/2025-08-16/ultima-hora-de-los-incendios-en-espana-en-directo.html",
-        "date": "2025-08-16 06:20:22",
-        "sentiment_score": -0.8394925091415644
-    },
-    {
-        "title": "Última hora de los incendios, en directo: el fuego sigue sin control en Ourense, Extremadura y Castilla y León",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_800/uploads/2025/08/16/vecinos-y-bomberos-intentan-aplacar-el-fuego-que-afecta-este-viernes-a-la-aldea-de-lamas-cualedro-en-ourense.jpeg",
-        "tags": [
-            "planeta"
-        ],
-        "link": "https://www.huffingtonpost.es/planeta/ultima-hora-incendios-directo-sabado-16-agosto-2025.html",
-        "date": "2025-08-16 06:17:30",
-        "sentiment_score": -0.9046697216108441
-    },
-    {
-        "title": "Apretones de manos, sonrisas y hasta una alfombra roja en la cumbre de Trump y Putin: ¿gana Rusia y pierde Ucrania?",
-        "image_url": "https://img.huffingtonpost.es/files/image_1200_800/uploads/2025/08/16/vladimir-putin-y-donald-trump-en-anchorage-alaska-este-viernes.jpeg",
-        "tags": [
-            "global"
-        ],
-        "link": "https://www.huffingtonpost.es/global/apretones-mano-sonrisas-alfombra-roja-cumbre-trump-putin-gana-rusia-pierde-ucrania.html",
-        "date": "2025-08-16 05:53:15",
-        "sentiment_score": -0.35179372131824493
-    },
-    {
-        "title": "El perro azul de Sant Roc: el insólito guardián de las fiestas más antiguas de Barcelona",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/07/29/6888de40e4b5d.r_d.587-347.png",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/perro-azul-sant-roc-insolito-guardian-fiestas-antiguas-barcelona_6232563_0.html",
-        "date": "2025-08-16 06:34:00",
-        "sentiment_score": 0.34253878705203533
-    },
-    {
-        "title": "La Fiscalía pide 82 años de prisión para un grupo de narcos que extorsionaba y secuestraba a personas",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/08/11/1487729189-k2tC-U2302616924382RVE-1200x840@El%20Norte.jpg",
-        "tags": [
-            "extorsionaba",
-            "fiscalia",
-            "secuestraba",
-            "pide",
-            "personas",
-            "grupo",
-            "narcos",
-            "prision",
-            "anos"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/fiscalia-pide-anos-prision-grupo-narcos-extorsionaba-20250816082501-nt.html",
-        "date": "2025-08-16 06:25:02",
-        "sentiment_score": -0.45844222232699394
-    },
-    {
-        "title": "Todos quieren vivir en Canarias: Las Palmas de Gran Canaria y Santa Cruz de Tenerife lideran la demanda de vivienda en España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/af67d871-49c5-4e56-86b2-2a3757ff1468_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "santa cruz",
-            "canarias",
-            "vivienda",
-            "españa",
-            "las palmas de gran canaria",
-            "economía",
-            "tenerife"
-        ],
-        "link": "https://www.laprovincia.es/economia/2025/08/16/quieren-vivir-canarias-palmas-gran-120671878.html",
-        "date": "2025-08-16 06:21:53",
-        "sentiment_score": 0.3249848410487175
-    },
-    {
-        "title": "Gatón de Campos, pasar de 12 a 200 vecinos",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/08/08/gaton-RMYcmNUIKbP5vwe356to9jO-1200x840@El%20Norte.jpg",
-        "tags": [
-            "gatón de campos",
-            "vivienda"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/provincia/gaton-campos-pasar-200-vecinos-20250816081559-nt.html",
-        "date": "2025-08-16 06:15:59",
-        "sentiment_score": 0.7919964455068111
-    },
-    {
-        "title": "Valladolid tiene 116 pueblos donde más de la mitad de sus casas están vacías casi todo el año",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/08/08/1499525105-kCIH-U2302567765968XLI-1200x840@El%20Norte.jpg",
-        "tags": [
-            "gatón de campos",
-            "ine"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/provincia/valladolid-116-pueblos-mitad-casas-vacias-ano-20250816081427-nt.html",
-        "date": "2025-08-16 06:14:28",
-        "sentiment_score": -0.5921163447201252
-    },
-    {
-        "title": "Constipados de verano: así es como puedes evitarlos según los expertos",
-        "image_url": "https://static1.ara.cat/clip/84e49540-3b1c-4a38-b448-566285ff6a65_16-9-aspect-ratio_default_0_x1376y940.jpg",
-        "tags": [
-            "constipados",
-            "puedes",
-            "expertos",
-            "evitarlos",
-            "verano"
-        ],
-        "link": "https://es.ara.cat/sociedad/salud/constipados-verano-puedes-evitarlos-expertos_1_5471888.html",
-        "date": "2025-08-16 06:00:39",
-        "sentiment_score": -0.38157331943511963
-    },
-    {
-        "title": "“Mi ex me puso los cuernos, pero volvería a vivirlo todo”",
-        "image_url": "https://static1.ara.cat/clip/50ba7d46-82cf-43b2-983c-b1db183e03b2_16-9-aspect-ratio_default_0_x773y880.jpg",
-        "tags": [
-            "ex",
-            "vivirlo",
-            "cuernos",
-            "puso",
-            "volveria"
-        ],
-        "link": "https://es.ara.cat/verano/ex-puso-cuernos-volveria-vivirlo_1_5471884.html",
-        "date": "2025-08-16 06:00:37",
-        "sentiment_score": -0.03205984830856323
-    },
-    {
-        "title": "Una escapada a Barcelona",
-        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2025/08/15/rafa-kwOE-U23026537388485oB-758x531@Diario%20Vasco.jpg",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/gastronomia/restaurantes/escapada-barcelona-20250816073219-nt.html",
-        "date": "2025-08-16 05:32:19",
-        "sentiment_score": 0.7241888055577874
-    },
-    {
         "title": "Un hombre va al médico con un pequeño malestar y le diagnostican un tumor: “Nunca me hubiera imaginado que tenía cáncer”",
         "image_url": "https://www.infobae.com/resizer/v2/EVGCRISVUZDKLBDJPEOYKZZFUI.jpg?auth=cc82ff09e9c686f522c4028be5ded9e8652385f40212b5fd8a5017d5e6ee43b3&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -381,47 +238,6 @@ export default [
         "link": "https://elpais.com/clima-y-medio-ambiente/2025-08-16/consulte-el-mapa-de-los-fuegos-activos-en-espana-y-como-van-avanzando.html",
         "date": "2025-08-16 10:28:52",
         "sentiment_score": -0.24670633673667908
-    },
-    {
-        "title": "Sánchez acudirá este domingo a los incendios en Ourense y León",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/COLXBU6KSBMC5EN56TIII5FC44.jpg?auth=f0476bcf11e9fbf3991aa4dff50a11cd3bc1b2fcd8a862fbc63b070f84f779a5&width=1200",
-        "tags": [
-            "galicia",
-            "psoe",
-            "pp",
-            "incendios",
-            "españa",
-            "alberto núñez feijóo",
-            "gobierno"
-        ],
-        "link": "https://elpais.com/espana/2025-08-16/sanchez-acudira-este-domingo-a-los-incendios-en-ourense-y-leon.html",
-        "date": "2025-08-16 10:01:41",
-        "sentiment_score": -0.1820104941725731
-    },
-    {
-        "title": "La Fiestas de Gràcia vuelven a evidenciar el malestar del barrio con el turismo: “Están alterando un entorno al servicio del turista”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YXP4Z3F2EFBZVCO2AU7TDTVAME.jpg?auth=864b3986d386d7f39fee4b59080d868787907d714463c98babadf3508c10a859&width=1200",
-        "tags": [
-            "barcelona",
-            "ayuntamiento barcelona",
-            "cataluña",
-            "vecinos",
-            "turismo de barcelona",
-            "turismo cultural",
-            "mossos d'esquadra",
-            "turismo ciudad",
-            "turismo",
-            "cultura tradicional",
-            "vivienda",
-            "laia bonet",
-            "guardia urbana",
-            "jaume collboni",
-            "cultura",
-            "fiestas populares"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-16/la-fiestas-de-gracia-vuelven-a-evidenciar-el-malestar-del-barrio-con-el-turismo-estan-alterando-un-entorno-al-servicio-del-turista.html",
-        "date": "2025-08-16 07:47:30",
-        "sentiment_score": -0.009121730923652649
     },
     {
         "title": "El incendio de Tres Cantos revela la vulnerabilidad de Madrid ante el fuego",
@@ -7598,5 +7414,682 @@ export default [
         "link": "https://2001online.com/comunidad/huracan-erin-llega-indirectamente-a-costas-venezolanas-alertan-a-visitantes-de-este-estado-20258191210",
         "date": "2025-08-19 16:01:00",
         "sentiment_score": -0.5613358244299889
+    },
+    {
+        "title": "Última hora de los incendios en España, en directo | Más de 68.000 hectáreas arrasadas en Galicia",
+        "image_url": "https://www.infobae.com/resizer/v2/TIPQQ4UIB5GNNAZKXPQH62EBEM.jpg?auth=25416d5f5a531c891ad4fc471fba950afdee81dc9a7a803722e9fa49e4002f28&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bomberos",
+            "sucesos",
+            "ume",
+            "españa-sociedad",
+            "sucesos españa",
+            "guardia civil",
+            "incendios",
+            "incendios españa",
+            "brigadas",
+            "bomberos españa",
+            "españa-noticias",
+            "incendios forestales españa",
+            "incendios forestales"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/19/ultima-hora-de-los-incendios-en-espana-en-directomas-de-68000-hectareas-arrasadas-en-galicia/",
+        "date": "2025-08-19 22:17:47",
+        "sentiment_score": -0.8083871826529503
+    },
+    {
+        "title": "Eurojackpot: jugada ganadora y resultado del último sorteo",
+        "image_url": "https://www.infobae.com/resizer/v2/Q7FNQIJEBVFCBNCYSSGYYQFK6A.jpg?auth=d0a8f05dacad4e8a73566665ba986c216d1358565751f754ffaeb9d98bf2f3be&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "eurojackpot",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/19/eurojackpot-jugada-ganadora-y-resultado-del-ultimo-sorteo/",
+        "date": "2025-08-19 21:00:41",
+        "sentiment_score": 0.05954809859395027
+    },
+    {
+        "title": "Una versión de ‘Corazón partío’ en portugués se ha convertido en la más escuchada de Brasil: así es la versión ‘pagode’ de este himno de Alejandro Sanz",
+        "image_url": "https://www.infobae.com/resizer/v2/OIE4PE6FNBCF3MMSMN6CJSZHVU.jpg?auth=d8d3321d43f9c75aed417d626b1de0be6d77f4948dfaf9116acf2c1d67ea2f2b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "brasil",
+            "música",
+            "alejandro sanz",
+            "españa-nacional",
+            "música españa",
+            "españa-cultura"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/08/19/una-version-de-corazon-partio-en-portugues-se-ha-convertido-en-la-mas-escuchada-de-brasil-asi-es-la-version-pagode-de-este-himno-de-alejandro-sanz/",
+        "date": "2025-08-19 20:29:18",
+        "sentiment_score": 0.2352467179298401
+    },
+    {
+        "title": "Números ganadores de Bonoloto de este 19 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/WHQYEW2OEZCXDFD3IHM2AB2IXA.jpg?auth=4b217ddbdae9f3e886553b6289c0a94a0143b9358b93b35e99630507d07c07a2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "bonoloto"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/19/numeros-ganadores-de-bonoloto-de-este-19-de-agosto/",
+        "date": "2025-08-19 20:15:33",
+        "sentiment_score": 0.12853091210126877
+    },
+    {
+        "title": "Un surfista sobrevive al ataque de un tiburón blanco: “Un gran ejemplo de por qué me da tanto miedo nadar en mar abierto”",
+        "image_url": "https://www.infobae.com/resizer/v2/KPPAE5FQW5H6ZIHOFPMOI3V2GM.jpg?auth=7a42340041e9ace3e6a2f517e1235f5d42f184f11f3c3e7d9e9ff4dcd141ed1e&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiburones",
+            "españa-noticias",
+            "animales",
+            "pescado",
+            "españa-sociedad",
+            "australia",
+            "sucesos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/19/un-surfista-sobrevive-al-ataque-de-un-tiburon-blanco-un-gran-ejemplo-de-por-que-me-da-tanto-miedo-nadar-en-mar-abierto/",
+        "date": "2025-08-19 19:52:54",
+        "sentiment_score": -0.2806702330708504
+    },
+    {
+        "title": "Ángel Gaitán confirma sus peores augurios sobre los fabricantes europeos de coches: “Los chinos os han comido, estáis muertos”",
+        "image_url": "https://www.infobae.com/resizer/v2/OO4CP3VYBNHMRDRSDS2A5MC4U4.jpg?auth=62f285e6e3cc12281494fa62c180ce923ce487531b15a3dd39f5d2a93a875a4a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "españa-nacional",
+            "tráfico españa",
+            "coches",
+            "vehículos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/19/angel-gaitan-confirma-sus-peores-augurios-sobre-los-fabricantes-europeos-de-coches-los-chinos-os-han-comido-estais-muertos/",
+        "date": "2025-08-19 19:47:51",
+        "sentiment_score": 0.188721664249897
+    },
+    {
+        "title": "Resultados de Euromillones: ganadores y números premiados",
+        "image_url": "https://www.infobae.com/resizer/v2/DF22RSLR7JHWNAJDJLQSSD4WYM.jpg?auth=884d85f7a5a7170273df2b8663f2491f108df738651f05b4bc51277e075aa471&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "euromillones",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/19/resultados-de-euromillones-ganadores-y-numeros-premiados/",
+        "date": "2025-08-19 19:45:33",
+        "sentiment_score": 0.07844532281160355
+    },
+    {
+        "title": "Josefa von Hohenzollern, la princesa que quiere ser alcaldesa dos meses después de perder a su marido y un mes después de ser madre",
+        "image_url": "https://www.infobae.com/resizer/v2/R7O3VEG5FVCWZAPW6HCXGOLDFE.png?auth=2691f203ad22a48ae578f6626e72bcefbe42ce7135fea9fa0e68bd61408ff746&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "realeza",
+            "muertes",
+            "españa-entretenimiento",
+            "casas reales",
+            "corazón y estilo españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/19/josefa-von-hohenzollern-la-princesa-que-quiere-ser-alcaldesa-dos-meses-despues-de-perder-a-su-marido-y-un-mes-despues-de-ser-madre/",
+        "date": "2025-08-19 19:41:42",
+        "sentiment_score": -0.5005104131996632
+    },
+    {
+        "title": "La productora de la nueva película de ‘Los Juegos del Hambre’ ofrece sus bomberos para frenar el fuego en Asturias",
+        "image_url": "https://www.infobae.com/resizer/v2/4AJYLZE6U5E5PPHHPYIGQ3H2NI.jpg?auth=2fa479edab8390156be21a5670ec816964d3e6b3a497fd4178958146e866b936&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cine españa",
+            "españa noticias",
+            "españa-cultura",
+            "cine",
+            "los juegos del hambre",
+            "actores"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/08/19/la-productora-de-la-nueva-pelicula-de-los-juegos-del-hambre-ofrece-sus-bomberos-para-frenar-el-fuego-en-asturias/",
+        "date": "2025-08-19 19:37:25",
+        "sentiment_score": 0.030202798545360565
+    },
+    {
+        "title": "Resultados de la Triplex de la Once: sorteo 5 de las 21:15",
+        "image_url": "https://www.infobae.com/resizer/v2/4H3U3QIFVVD5LDKJMJSF6WWNDY.jpg?auth=e80d21489f735203cc5d97d149e49628ff38bc5039139c9f720fcacce4b90db3&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "super once",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/19/resultados-de-la-triplex-de-la-once-sorteo-5-de-las-2115/",
+        "date": "2025-08-19 19:30:25",
+        "sentiment_score": 0.1853434517979622
+    },
+    {
+        "title": "Turkish Airlines asume que puede tardar hasta un año en entrar como socio en Air Europa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/08/19/1499507257-RSLWyTGeX8WItzGuzBNnO0J-758x531@diario_abc.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/turkish-airlines-asume-puede-tardar-ano-entrar-20250819220457-nt.html",
+        "date": "2025-08-19 20:09:36",
+        "sentiment_score": -0.04312363266944885
+    },
+    {
+        "title": "Israel exige entregar a todos los rehenes para aceptar la última propuesta de tregua",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/19/lanzamienot-ayuda-RS9HKmnJLMKhEv0qADEJA7J-1200x840@diario_abc.jpg",
+        "tags": [
+            "benjamín netanyahu",
+            "hamás",
+            "estados unidos",
+            "egipto",
+            "israel",
+            "qatar"
+        ],
+        "link": "https://www.abc.es/internacional/israel-exige-entregar-rehenes-aceptar-ultima-propuesta-20250819185045-nt.html",
+        "date": "2025-08-19 19:24:58",
+        "sentiment_score": -0.12047967314720154
+    },
+    {
+        "title": "Maneras de perder una guerra",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/08/20/1499883608-U66104337174GqB-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/ignacio-camacho-maneras-perder-guerra-20250820180826-nt.html",
+        "date": "2025-08-19 19:21:56",
+        "sentiment_score": -0.10874554514884949
+    },
+    {
+        "title": "Un ministro y un asambleísta del correísmo, imputados en el magnicidio de Fernando Villavicencio",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/19/fernando-villavicencio-reuters-kHkG-U70143128538801E-1200x840@diario_abc.jpg",
+        "tags": [
+            "rafael correa",
+            "gustavo petro",
+            "investigación",
+            "ecuador",
+            "políticos",
+            "guayaquil",
+            "mafia",
+            "colombia"
+        ],
+        "link": "https://www.abc.es/internacional/ministro-asambleista-correismo-imputados-magnicidio-fernando-villavicencio-20250819202702-nt.html",
+        "date": "2025-08-19 19:07:08",
+        "sentiment_score": -0.15894095599651337
+    },
+    {
+        "title": "EE.UU. envía tres navíos de guerra cerca de Venezuela para hacer frente a los cárteles",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/19/uss-RLHufTOaKaTGqKYuwTkTNzL-1200x840@diario_abc.jpg",
+        "tags": [
+            "caribe",
+            "venezuela",
+            "cocaína",
+            "narcotráfico",
+            "nicolás maduro",
+            "donald trump",
+            "estados unidos",
+            "colombia",
+            "barcos"
+        ],
+        "link": "https://www.abc.es/internacional/eeuu-envia-tres-navios-guerra-cerca-venezuela-20250819195242-nt.html",
+        "date": "2025-08-19 18:59:38",
+        "sentiment_score": -0.15985773503780365
+    },
+    {
+        "title": "Un diputado finlandés se suicida en la sede del Parlamento",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/19/EemeliPeltonen-U701430810270yWD-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/muere-diputado-finlandes-sede-parlamento-20250819175335-nt.html",
+        "date": "2025-08-19 18:57:12",
+        "sentiment_score": -0.13545142114162445
+    },
+    {
+        "title": "Ellos se lo pierden",
+        "image_url": "https://s3.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/08/20/fuego-U35638447725APj-170x119@abc.jpg",
+        "tags": [
+            "policía nacional",
+            "ibiza",
+            "jóvenes"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/jesus-diaz-pierden-20250820190732-nts.html",
+        "date": "2025-08-19 18:22:16",
+        "sentiment_score": -0.10061421990394592
+    },
+    {
+        "title": "La Unión Europea mantiene la presión sobre Putin con un nuevo paquete de sanciones",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/19/Gytif5-WYAA5wxN-RWnkyqKSrnBy242uErIHbsL-1200x840@diario_abc.jpg",
+        "tags": [
+            "emmanuel macron",
+            "unión europea",
+            "estados unidos",
+            "comisión europea (ce)",
+            "europa",
+            "ucrania"
+        ],
+        "link": "https://www.abc.es/internacional/union-europea-prepara-nuevo-paquete-sanciones-rusia-20250819181214-nt.html",
+        "date": "2025-08-19 18:18:17",
+        "sentiment_score": 0.03779760003089905
+    },
+    {
+        "title": "Una opa al fuego",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/08/17/jubilados-kqQ--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "gaza",
+            "cuerpo",
+            "bbva",
+            "pueblo",
+            "españa"
+        ],
+        "link": "https://www.abc.es/opinion/agustin-pery-opa-fuego-20250820191050-nt.html",
+        "date": "2025-08-19 17:33:01",
+        "sentiment_score": -0.1252433955669403
+    },
+    {
+        "title": "La hora de la verdad europea",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/08/20/1499901607-U02104143337pQq-1200x630@diario_abc.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-hora-verdad-europea-20250820182236-nt.html",
+        "date": "2025-08-19 17:32:30",
+        "sentiment_score": -0.12804356217384338
+    },
+    {
+        "title": "La calle de Progrés gana el concurso de decoración de las fiestas de Gràcia de Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7L23SXU2VRHLFCEQOYAHRNAGUE.jpeg?auth=05bc3a24117eb60be9ed9998eecaa58e6676d456674d6e4660b44bd093c0064e&width=1200",
+        "tags": [
+            "vecinos",
+            "premios",
+            "barcelona",
+            "fiestas locales",
+            "gràcia",
+            "fiestas",
+            "fiesta",
+            "cataluña",
+            "barrios históricos",
+            "fiestas populares",
+            "barrios"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-19/la-calle-de-progres-gana-el-concurso-de-decoracion-de-las-fiestas-de-gracia-de-barcelona.html",
+        "date": "2025-08-19 18:27:41",
+        "sentiment_score": 0.4358556419610977
+    },
+    {
+        "title": "Puigdemont da aire a la negociación de la oficialidad del catalán en Europa: “Hay recorrido y lo lucharemos hasta el final”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/22ZEAQRP75OQ3HD7IXSSSURKUI.jpg?auth=cdd11084affd5f7d963616b12607be0770cde78d232e3dc329b94643c5512d93&width=1200",
+        "tags": [
+            "inmigración",
+            "cataluña",
+            "juntsxcat",
+            "carles puigdemont",
+            "catalán"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-19/puigdemont-da-aire-a-la-negociacion-de-la-oficialidad-del-catalan-en-europa-hay-recorrido-y-lo-lucharemos-hasta-el-final.html",
+        "date": "2025-08-19 18:22:49",
+        "sentiment_score": -0.8774483231827617
+    },
+    {
+        "title": "Xabi Alonso: \"Ha habido cosas buenas y otras a mejorar, el camino es largo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/CPLHIPQXVJGAJE5PBRZJFYBZII.jpg?auth=d231d2cdce9e424e8b09b11a5b66dfdfa5a333e93e67ffed62a302579739be5a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/08/19/xabi-alonso-ha-habido-cosas-buenas-y-otras-a-mejorar-el-camino-es-largo/",
+        "date": "2025-08-19 22:18:59",
+        "sentiment_score": 0.29232217371463776
+    },
+    {
+        "title": "Xabi Alonso: “Nos ha faltado un poco de frescura”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/OVZHPLMXAJF43MADMNS2K7TO3Q.jpg?auth=02af8bb4b7dc01f9449415d7451fb88bd864ccba27cbdb9e92c90d0467c7fd3c&width=1200",
+        "tags": [
+            "real madrid",
+            "deportes",
+            "futbolistas",
+            "fútbol",
+            "alessio lisci",
+            "primera división",
+            "laliga ea sports",
+            "entrenadores",
+            "xabi alonso",
+            "competiciones",
+            "osasuna"
+        ],
+        "link": "https://elpais.com/deportes/futbol/2025-08-19/xabi-alonso-nos-ha-faltado-un-poco-de-frescura.html",
+        "date": "2025-08-19 22:14:33",
+        "sentiment_score": -0.8463739585131407
+    },
+    {
+        "title": "1a PARTE | 19 AGO 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/1a-parte-19-ago-2025-partidazo-cope-20250820_3201160.html",
+        "date": "2025-08-19 22:09:07",
+        "sentiment_score": 0.17383649945259094
+    },
+    {
+        "title": "Así puedes conseguir que los viajes de negocios sean más sostenibles, éticos y responsables",
+        "image_url": "https://revistabyte.es/wp-content/uploads/2020/10/sap-concur-ahorros-del-30-en-las-gestiones-de-viajes.jpg",
+        "tags": [
+            "viajes sostenibles",
+            "responsables",
+            "éticos",
+            "actualidad ti"
+        ],
+        "link": "https://revistabyte.es/actualidad-it/viajes-negocios-sostenibles/",
+        "date": "2025-08-19 22:05:00",
+        "sentiment_score": 0.2758244723081589
+    },
+    {
+        "title": "Osasuna: tan cerca, tan lejos",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6ef13f9b-9e11-433c-a713-d75fe0c965d4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2025/08/20/osasuna-cerca-lejos-9996070.html",
+        "date": "2025-08-19 22:01:54",
+        "sentiment_score": -0.298685759305954
+    },
+    {
+        "title": "Lizbeth Ovalle y los 5 fichajes más caros en la historia del fútbol femenil",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-08/19/19/thumb/JqXeo0Aik.jpg?3%2C0=&crop=1245%3A830&resize=1250%3A830",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/lizbeth-ovalle-5-fichajes-mas-caros-historia-futbol-femenil",
+        "date": "2025-08-19 22:01:04",
+        "sentiment_score": 0.30202462524175644
+    },
+    {
+        "title": "Real Madrid se estrenó con triunfo ante el Osasuna",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/08/real-madrid12.jpg",
+        "tags": [
+            "19ago",
+            "deportes",
+            "la liga",
+            "real madrid"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/08/19/real-madrid-triunfo/",
+        "date": "2025-08-19 22:00:58",
+        "sentiment_score": 0.23848594725131989
+    },
+    {
+        "title": "Los elogios de Xabi Alonso al buen partido de Osasuna ante el Real Madrid en el Bernabéu",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/08/19/2025081923334918734.jpg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/osasuna/declaraciones-xabi-alonso-derrota-osasuna-real-madrid-bernabeu/20250820000007611988.html",
+        "date": "2025-08-19 22:00:07",
+        "sentiment_score": 0.8620965853333473
+    },
+    {
+        "title": "Xabi Alonso: \"Ha habido cosas buenas y otras a mejorar, el camino es largo\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250819235545_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-xabi-alonso-habido-cosas-buenas-otras-mejorar-camino-largo-20250819235545.html",
+        "date": "2025-08-19 21:55:45",
+        "sentiment_score": 0.7721180506050587
+    },
+    {
+        "title": "Rubén García: “Creo que hemos hecho un buen partido”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/95f41565-2fdf-4fd3-84c7-1fb3b4ae972c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2025/08/19/ruben-garcia-creo-hemos-hecho-9996061.html",
+        "date": "2025-08-19 21:54:15",
+        "sentiment_score": 0.10052523016929626
+    },
+    {
+        "title": "«Los ricos han desaparecido, yo no los veo»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/08/20/etv-verano-dueno-disco-kb0E-U2302671059910hJB-1200x840@RC.jpg",
+        "tags": [
+            "marbella",
+            "verano"
+        ],
+        "link": "https://www.elnortedecastilla.es/vivir/ricos-desaparecido-veo-20250820000213-ntrc.html",
+        "date": "2025-08-19 22:02:33",
+        "sentiment_score": 0.7116184271872044
+    },
+    {
+        "title": "La mitad de los barrios de Madrid carece de carga rápida para sus vehículos: \"Si todo sigue así, la electromovilidad será siempre un negocio de ricos\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/7e0d4d2e2d9fa9bf40a540a446dc8c4b/crop/4x13/161x170/f/image/jpeg/assets/multimedia/imagenes/2022/10/23/16665205641168.jpg",
+        "tags": [
+            "transporte y turismo",
+            "madrid",
+            "coches eléctricos",
+            "medioambiente",
+            "artículos juan c. sánchez",
+            "gráficos"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/08/20/68a48f5ae9cf4a736b8b4594.html",
+        "date": "2025-08-19 22:02:22",
+        "sentiment_score": -0.4924480803310871
+    },
+    {
+        "title": "El alma de South: así lidera Miguel Ángel Gimeno la transformación más humana del handling español",
+        "image_url": "https://phantom-elmundo.uecdn.es/749419014c7ff3b08128be5472e5b0fa/resize/1200/f/webp/assets/multimedia/imagenes/2025/08/13/17550815538680.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/08/20/6899cef1e85ece795d8b4589.html",
+        "date": "2025-08-19 22:01:11",
+        "sentiment_score": 0.6209801658987999
+    },
+    {
+        "title": "El glamour de Rosalía: cómo su estilo romántico e innovador transforma la moda global",
+        "image_url": "https://www.infobae.com/resizer/v2/SDMXMOYCNVDHHA4BJMBW2DKM74.jpg?auth=f7bc59b13757bba5664d9d398c9c3994f7bced0fe5001ea9f4b2b67e2c1ae274&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "últimas noticias",
+            "moda",
+            "estilo de celebridades",
+            "euphoria",
+            "rosalía",
+            "moda romántica"
+        ],
+        "link": "https://www.infobae.com/tendencias/2025/08/19/el-glamour-de-rosalia-como-su-estilo-romantico-e-innovador-transforma-la-moda-global/",
+        "date": "2025-08-19 21:47:27",
+        "sentiment_score": 0.8813726548105478
+    },
+    {
+        "title": "Gol de penal de Mbappé le da al Real Madrid su primera victoria en La Liga, 1-0 ante Osasuna",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/08/ESPA209A_LIGA_81737.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/08/19/gol-de-penal-de-mbapp-le-da-al-real-madrid-su-primera-victoria-en-la-liga-1-0-ante-osasuna/",
+        "date": "2025-08-19 21:27:22",
+        "sentiment_score": 0.5337604433298111
+    },
+    {
+        "title": "Crónica del Real Madrid - CA Osasuna: 1-0",
+        "image_url": "https://www.infobae.com/resizer/v2/5JBY4GTECBG35CGIN73WV2ETME.jpg?auth=8c287e035fd47b80089f384318efda7a960383130108313cada4f50b5e34cdb0&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/08/19/cronica-del-real-madrid-ca-osasuna-1-0/",
+        "date": "2025-08-19 21:18:58",
+        "sentiment_score": -0.04016423970460892
+    },
+    {
+        "title": "Bing Li, la 'china granadina' que abre su tienda de tés en el Zaidín",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/08/18/hola-tea-zaidin.jpeg",
+        "tags": [
+            "granada",
+            "barrio del zaidín"
+        ],
+        "link": "https://www.ideal.es/granada/bing-china-granadina-abre-tienda-tes-zaidin-20250820231117-nt.html",
+        "date": "2025-08-19 21:11:17",
+        "sentiment_score": 0.7319359220564365
+    },
+    {
+        "title": "Mbappé salva el estreno en Liga del Real Madrid",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/2a7ba282-ad1e-4ee8-8a6329aece9a8df0.jpg",
+        "tags": [
+            "santiago bernabéu",
+            "dani carvajal",
+            "kylian mbappé",
+            "juan cruz",
+            "laliga ea sports",
+            "xabi alonso",
+            "osasuna",
+            "thibaut courtois",
+            "budimir",
+            "rodrygo goes",
+            "fc barcelona",
+            "alessio lisci",
+            "sergio herrera",
+            "real madrid",
+            "vinícius júnior"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z370eb79e-1c41-4473-b0d5574450c0edd9/202508/mbappe-salva-el-estreno-en-liga-del-real-madrid",
+        "date": "2025-08-19 21:05:26",
+        "sentiment_score": -0.7115679383277893
+    },
+    {
+        "title": "Katy Perry y Justin Trudeau, una relación que se enfría: \"La novedad se ha disipado\"",
+        "image_url": "https://www.hola.com/horizon/landscape/767574ef2439-gettyimages-1395053144.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "katy perry",
+            "actualidad"
+        ],
+        "link": "https://www.hola.com/actualidad/20250819851046/katy-perry-justin-trudeau-relacion-se-enfria-la-novedad-se-ha-disipado/",
+        "date": "2025-08-19 21:03:05",
+        "sentiment_score": -0.8422736525535583
+    },
+    {
+        "title": "La reconciliación del año: Shakira es vista en una cena íntima con esta ex pareja",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755641481144.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "shakira",
+            "romance",
+            "antonio de la rúa"
+        ],
+        "link": "https://2001online.com/farandula/la-reconciliacion-del-ano-shakira-es-vista-en-una-cena-intima-con-esta-ex-pareja-20258191890",
+        "date": "2025-08-19 22:09:00",
+        "sentiment_score": -0.11479593813419342
+    },
+    {
+        "title": "Vacaciones de Alexia Putellas: su verano tras separarse de Olga Ríos",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755641794423.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "laliga",
+            "fc barcelona",
+            "vacaciones en españa",
+            "barcelona",
+            "olga ríos",
+            "fútbol femenino",
+            "alexia putellas",
+            "alexia putellas y olga ríos",
+            "españa",
+            "méxico"
+        ],
+        "link": "https://2001online.com/deportes/vacaciones-de-alexia-putellas-su-verano-tras-separarse-de-olga-rios-20258191900",
+        "date": "2025-08-19 22:03:37",
+        "sentiment_score": 0.7526216171681881
+    },
+    {
+        "title": "Deportan a Julio César Chávez desde Estados Unidos: entérese qué sigue en este caso",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755641655873.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "narcotráfico en méxico",
+            "detención de julio césar chávez jr.",
+            "julio césar chávez",
+            "ee.uu.",
+            "deportan a julio césar chávez jr.",
+            "julio césar chávez jr.",
+            "boxeo",
+            "narcotráfico",
+            "claudia sheinbaum",
+            "méxico"
+        ],
+        "link": "https://2001online.com/deportes/deportan-a-julio-cesar-chavez-desde-estados-unidos-enterese-que-sigue-en-este-caso-202581918400",
+        "date": "2025-08-19 22:03:37",
+        "sentiment_score": -0.7724861744791269
+    },
+    {
+        "title": "¿Conoces tus derechos? Las nuevas disposiciones para tramitar la visa EB-2: puedes obtener la Green Card",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755639921508.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "green card",
+            "visa",
+            "visa eb-2"
+        ],
+        "link": "https://2001online.com/usa/servicios/conoces-tus-derechos-las-nuevas-disposiciones-para-tramitar-la-visa-eb-2-puedes-obtener-la-green-card-20258191800",
+        "date": "2025-08-19 22:00:00",
+        "sentiment_score": 0.03693109750747681
+    },
+    {
+        "title": "Secreto milagroso: las 4 bebidas para las noches que más ayudan a bajar de peso",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755629992668.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/secreto-milagroso-las-4-bebidas-para-las-noches-que-mas-ayudan-a-bajar-de-peso-20258191800",
+        "date": "2025-08-19 22:00:00",
+        "sentiment_score": 0.3165251985192299
+    },
+    {
+        "title": "Consulado de España implementará nueva herramienta para solicitar la nacionalidad: conozca de qué trata",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755644528092.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "#españa",
+            "ley de memoria democrática"
+        ],
+        "link": "https://2001online.com/servicios/consulado-de-espana-implementara-nueva-herramienta-para-solicitar-la-nacionalidad-conozca-de-que-trata-202581917540",
+        "date": "2025-08-19 21:54:00",
+        "sentiment_score": 0.08129898272454739
+    },
+    {
+        "title": "¡Sorpresa médica!: hombre fue al hospital por una infección y descubrieron algo insólito en su cuerpo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755640418650.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "usa",
+            "cuchillo en cuerpo de un hombre",
+            "internacionales"
+        ],
+        "link": "https://2001online.com/internacionales/sorpresa-medica-hombre-fue-al-hospital-por-una-infeccion-y-descubrieron-algo-insolito-en-su-cuerpo--202581917500",
+        "date": "2025-08-19 21:50:00",
+        "sentiment_score": -0.1502922922372818
+    },
+    {
+        "title": "TSJ reactiva juicios por morosidad en condominios: así puede concluir el proceso",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755640403265.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "venezuela",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/nacionales/tsj-reactiva-juicios-por-morosidad-en-condominios-asi-puede-concluir-el-proceso-202581917270",
+        "date": "2025-08-19 21:27:00",
+        "sentiment_score": -0.11749723926186562
+    },
+    {
+        "title": "Precio del dólar y euro BCV para el 20 de agosto: así se cotizarán las divisas oficiales",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755638678990.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bcv",
+            "dólar bcv",
+            "euro bcv",
+            "dinero"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-20-de-agosto-asi-se-cotizaran-las-divisas-oficiales-202581916570",
+        "date": "2025-08-19 21:25:00",
+        "sentiment_score": -0.011653788387775421
+    },
+    {
+        "title": "En imágenes: reportan voraz incendio en fábrica de Carabobo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755637866197.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "empresa",
+            "incendio",
+            "diario 2001m",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/sucesos/en-imagenes-reportan-voraz-incendio-en-fabrica-de-carabobo-202581917120",
+        "date": "2025-08-19 21:12:00",
+        "sentiment_score": -0.7396800983697176
     }
 ];
