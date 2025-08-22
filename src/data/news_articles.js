@@ -155,74 +155,6 @@ export default [
         "sentiment_score": -0.12234064936637878
     },
     {
-        "title": "«Si quiere, puede acabar con la guerra de inmediato»: Trump calienta la visita de Zelenski y le advierte que no conseguirá Crimea ni la OTAN",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/18/esta-kFBB-U701424509690dUF-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/quiere-puede-acabar-guerra-inmediato-trump-calienta-20250818054423-nt.html",
-        "date": "2025-08-18 14:12:40",
-        "sentiment_score": -0.09035235643386841
-    },
-    {
-        "title": "Un avión realiza un aterrizaje de emergencia en Italia tras incendiarse un motor tras el despegue",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/18/Condor-ko3E-U701425680675b8-1200x840@diario_abc.jpg",
-        "tags": [
-            "aviación",
-            "alemania",
-            "dusseldorf",
-            "aviones",
-            "uh abc",
-            "italia",
-            "aviación comercial",
-            "accidentes",
-            "grecia"
-        ],
-        "link": "https://www.abc.es/internacional/avion-realiza-aterrizaje-emergencia-italia-tras-incendiarse-20250818145011-nt.html",
-        "date": "2025-08-18 12:50:11",
-        "sentiment_score": -0.5695547983050346
-    },
-    {
-        "title": "El presidente de Colombia asegura que el atentado contra el senador Miguel Uribe no tuvo motivaciones políticas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/18/1497502459-kDsF-U701426073330m4G-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/presidente-colombia-asegura-atentado-senador-miguel-uribe-20250818140436-nt.html",
-        "date": "2025-08-18 12:04:37",
-        "sentiment_score": -0.19977374374866486
-    },
-    {
-        "title": "Rusia recrudece los bombardeos sobre Ucrania y deja al menos diez muertos horas antes de la reunión entre Zelenski y Trump",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/18/1499863371_20250818131418-kZ3F--758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-ataca-ucrania-escasas-horas-cita-washington-20250818121439-nt.html",
-        "date": "2025-08-18 11:57:45",
-        "sentiment_score": -0.20040105283260345
-    },
-    {
-        "title": "La lista de leales",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/08/18/donald-trump-RbLnHsDOq3a3NmzqqnwbMKO-758x531@diario_abc.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.abc.es/economia/john-muller-lista-leales-20250818044208-nt.html",
-        "date": "2025-08-18 10:40:39",
-        "sentiment_score": -0.12258008122444153
-    },
-    {
-        "title": "Alemania niega desplegar tropas de paz a Ucrania en un hipotético alto el fuego",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/08/18/1499720914-kuPE-U7014255120320dH-758x531@diario_abc.jpg",
-        "tags": [
-            "world"
-        ],
-        "link": "https://www.abc.es/internacional/alemania-niega-desplegar-tropas-paz-ucrania-tras-20250818123755-nt.html",
-        "date": "2025-08-18 10:38:42",
-        "sentiment_score": -0.02229100465774536
-    },
-    {
         "title": "Dos horas de alerta en redes sociales desde el puesto de mando de Tres Cantos",
         "image_url": "https://imagenes.elpais.com/resizer/v2/OE2F3URYSJP6VKOCGCFDYTCK6Y.jpg?auth=0b6fcd96ccf0f4d3b1abbde813ab76a15932d8f7da9cb3fbf0fbafbabc046d24&width=1200",
         "tags": [
@@ -7686,5 +7618,449 @@ export default [
         "link": "https://2001online.com/nacionales/delcy-rodriguez-le-responde-al-director-de-la-dea-el-planeta-entero-sabe-que-el-verdadero-cartel-esta-en-el-norte-20258211700",
         "date": "2025-08-21 21:00:00",
         "sentiment_score": -0.9001770792528987
+    },
+    {
+        "title": "Clima en Madrid: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "noticias",
+            "españa noticias",
+            "madrid",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/22/clima-en-madrid-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2025-08-22 01:30:58",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Temperaturas en Barcelona: prepárate antes de salir de casa",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa sociedad",
+            "barcelona",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/22/temperaturas-en-barcelona-preparate-antes-de-salir-de-casa/",
+        "date": "2025-08-22 01:16:50",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Crónica del España - Alemania: 105-106",
+        "image_url": "https://www.infobae.com/resizer/v2/RZJ253NOSBEB5A5B3BNHZ6KNGI.jpg?auth=a344933abbffab0918af9a548ee0b30a6ee96b0604582cd1f2561e755e8f2677&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/08/21/cronica-del-espana-alemania-105-106/",
+        "date": "2025-08-21 22:49:14",
+        "sentiment_score": -0.13773592561483383
+    },
+    {
+        "title": "Luis Manuel Aguana: Yalta 2.0",
+        "image_url": "https://lapatilla.com/wp-content/uploads/2025/06/thumbnailLuisManuelAguana.png",
+        "tags": [
+            "luis manuel aguana:",
+            "opinión"
+        ],
+        "link": "https://lapatilla.com/2025/08/21/luis-manuel-aguana-yalta-2-0/",
+        "date": "2025-08-22 00:26:30",
+        "sentiment_score": -0.9071029666811228
+    },
+    {
+        "title": "Se reporta un tirador activo en la Universidad de Villanova, en Pennsylvania",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/08/Screenshot_33-2.jpg",
+        "tags": [
+            "usa",
+            "universidad de villanova",
+            "actualidad",
+            "pennsylvania",
+            "internacionales"
+        ],
+        "link": "https://lapatilla.com/2025/08/21/se-reporta-un-tirador-activo-en-la-universidad-de-villanova-en-pennsylvania/",
+        "date": "2025-08-21 22:33:10",
+        "sentiment_score": -0.39465251937508583
+    },
+    {
+        "title": "Policía atiende reporte de tiroteo en la Universidad de Villanova, en Pennsylvania: estudiantes reciben orden de resguardarse",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/08/Screenshot_33-2.jpg",
+        "tags": [
+            "actualidad",
+            "internacionales",
+            "pennsylvania",
+            "usa",
+            "universidad de villanova"
+        ],
+        "link": "https://lapatilla.com/2025/08/21/policia-atiende-reporte-de-tiroteo-en-la-universidad-de-villanova-en-pennsylvania-estudiantes-reciben-orden-de-resguardarse/",
+        "date": "2025-08-21 22:33:10",
+        "sentiment_score": -0.39465251937508583
+    },
+    {
+        "title": "La renuncia del ministro de Hacienda chileno sorprende a los mercados y golpea al Gobierno de Gabriel Boric",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/22/1499962423-kDgE-U70143861078410E-1200x840@diario_abc.jpg",
+        "tags": [
+            "gabriel boric",
+            "santiago de chile",
+            "chile",
+            "hacienda"
+        ],
+        "link": "https://www.abc.es/internacional/renuncia-ministro-hacienda-chileno-sorprende-mercados-golpea-20250822003217-nt.html",
+        "date": "2025-08-21 22:32:44",
+        "sentiment_score": -0.07481002807617188
+    },
+    {
+        "title": "Un motor turístico de Primera",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/14af7a0d-c90f-4a7a-af86-58b0bdad581f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "motor",
+            "fútbol",
+            "aficionados",
+            "real madrid"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/08/22/motor-turistico-primera-120835667.html",
+        "date": "2025-08-22 02:02:34",
+        "sentiment_score": -0.08179967105388641
+    },
+    {
+        "title": "Fibra, móvil, televisión y fútbol por solo 59€: Vodafone lanza su mejor oferta para amantes del deporte",
+        "image_url": "https://www.lne.es/ideas/Vodafone-mejor-asesor/images/redes/redes.jpg?20231114=",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.diariodeibiza.es/ideas/Vodafone-oferta-deporte/index.html",
+        "date": "2025-08-22 01:59:59",
+        "sentiment_score": 0.4832120258361101
+    },
+    {
+        "title": "Hernán Torres y su regreso a Millonarios: esta fue la mayor vergüenza que vivió el tolimense como entrenador Embajador",
+        "image_url": "https://www.infobae.com/resizer/v2/Z6AO64O5KJG7BL2G2EU5AMKOJY.png?auth=dc2cca3c980dd6a6f6cf1dba9f5eec23bc84112e8e1068adb63e409b23647168&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "millonarios",
+            "real madrid",
+            "estadio santiago bernabéu",
+            "hernán torres",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/08/22/hernan-torres-y-su-regreso-a-millonarios-esta-fue-la-mayor-verguenza-que-vivio-el-tolimense-como-entrenador-embajador/",
+        "date": "2025-08-22 01:22:22",
+        "sentiment_score": -0.14002205431461334
+    },
+    {
+        "title": "Colombiano fue captado por medios europeos vendiendo camisetas falsas del Real Madrid: “Delincuente el que roba”",
+        "image_url": "https://www.infobae.com/resizer/v2/KTXH22SHYBGKPH5DWUCLY3HOGQ.png?auth=3c083b109672e3f22f84dfe7a7c9f3d5e34a9b03f2667eff902d482a66d54a30&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "real madrid",
+            "colombia-deportes",
+            "colombiano",
+            "el chiringuito",
+            "camisetas",
+            "réplicas"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/08/22/colombiano-fue-captado-por-medios-europeos-vendiendo-camisetas-falsas-del-real-madrid-delincuente-el-que-roba/",
+        "date": "2025-08-22 01:19:16",
+        "sentiment_score": -0.3581090644001961
+    },
+    {
+        "title": "Miguel Poveda hace vibrar a Lorca en el Generalife",
+        "image_url": "https://static.grupojoly.com/clip/6c85fd52-f48a-4e32-8718-615b9c25869d_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "patronato de la alhambra y el generalife",
+            "flamenco granada",
+            "link en bio granada",
+            "conciertos granada"
+        ],
+        "link": "https://www.granadahoy.com/ocio/miguel-poveda-lorca-generalife-habia-mil-federicos_0_2004601929.html",
+        "date": "2025-08-22 01:15:20",
+        "sentiment_score": 0.006429195404052734
+    },
+    {
+        "title": "Las 10 grandes operaciones pendientes en los 10 últimos días del mercado: de Rodrygo a Isak y las urgencias del Barça",
+        "image_url": "https://s1.elespanol.com/2025/08/20/actualidad/1003743892436_258148251_1706x960.jpg?contentId=1003743892436",
+        "tags": [
+            "fc barcelona",
+            "fichajes",
+            "fútbol",
+            "liverpool fc",
+            "manchester city",
+            "premier league",
+            "real madrid cf",
+            "deportes",
+            "real betis",
+            "atlético de madrid"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250822/grandes-operaciones-pendientes-ultimos-dias-mercado-rodrygo-isak-urgencias-barca/1003743895105_0.html",
+        "date": "2025-08-22 00:32:55",
+        "sentiment_score": -0.3865247517824173
+    },
+    {
+        "title": "Trump alardea del despliegue de tropas y policía federal en Washington",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4XZZC6HT6JP23K6P7XFYFW6A7Y.jpg?auth=41b24a01549af9010627e9a087abac2f276dc5a77a71d777072eb0c0c21d2bb0&width=1200",
+        "tags": [
+            "donald trump",
+            "policía",
+            "casa blanca",
+            "delitos",
+            "estados unidos",
+            "norteamérica",
+            "washington d.c.",
+            "delincuencia"
+        ],
+        "link": "https://elpais.com/internacional/2025-08-21/trump-alardea-del-despliegue-de-tropas-y-policia-federal-en-washington.html",
+        "date": "2025-08-21 23:17:18",
+        "sentiment_score": -0.034337639808654785
+    },
+    {
+        "title": "Scariolo se queda con los 12 jugadores sanos para su lista definitiva del Eurobasket",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250822011531_120.jpg",
+        "tags": [
+            "baloncesto",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-scariolo-queda-12-jugadores-sanos-lista-definitiva-eurobasket-20250822011531.html",
+        "date": "2025-08-21 23:15:31",
+        "sentiment_score": -0.07821088284254074
+    },
+    {
+        "title": "Origen e historia de los espacios urbanos de Algeciras: El antiguo Calvario (IV)",
+        "image_url": "https://static.grupojoly.com/clip/2614ac71-7830-4c82-b09a-d00df1c942ed_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/origen-e-historia-espacios-urbanos_0_2004597197.html",
+        "date": "2025-08-22 02:00:47",
+        "sentiment_score": -0.28237371146678925
+    },
+    {
+        "title": "Qué dice la psicología sobre las personas que no saludan por la calle: rasgos de su personalidad",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3441907.jpg",
+        "tags": [
+            "trucos para ahorrar",
+            "curiosidades y trucos",
+            "noticias interesantes",
+            "consejos útiles",
+            "aprender y más",
+            "psicología positiva",
+            "ia-news",
+            "dudas y respuestas",
+            "salud mental",
+            "audiencias-um"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/08/22/2454099/dice-psicologia-sobre-personas-saludan-por-calle-rasgos-personalidad.html",
+        "date": "2025-08-22 02:00:01",
+        "sentiment_score": -0.33105945587158203
+    },
+    {
+        "title": "Los 27 ingenieros desaparecidos",
+        "image_url": "https://uh.gsstatic.es/autor/manuel-aguilera/10893.png",
+        "tags": [
+            "medio de comunicación",
+            "artículos de opinión",
+            "prensa digital",
+            "tribuna",
+            "grupo serra"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/08/22/2454509/ingenieros-desaparecidos.html",
+        "date": "2025-08-22 02:00:01",
+        "sentiment_score": -0.28511060774326324
+    },
+    {
+        "title": "España y Baleares: impacto del calor extremo en 2025",
+        "image_url": "https://uh.gsstatic.es/autor/joan-carles-march/10715.png",
+        "tags": [
+            "medio de comunicación",
+            "artículos de opinión",
+            "prensa digital",
+            "tribuna",
+            "grupo serra"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/08/22/2454521/espana-baleares-impacto-del-calor-extremo-2025.html",
+        "date": "2025-08-22 02:00:01",
+        "sentiment_score": 0.0013698339462280273
+    },
+    {
+        "title": "Saif Abukeshek: «Nunca imaginé que los valores que enseñamos a nuestros hijos fueran solo palabras y no hechos»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3442241.jpg",
+        "tags": [
+            "local",
+            "última hora",
+            "guerra israel-hamas",
+            "palma de mallorca",
+            "ultimas noticias",
+            "genocidio",
+            "crímenes contra la humanidad",
+            "palma",
+            "flotilla de la libertad",
+            "ofensiva en gaza"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/22/2454339/nunca-imagine-los-valores-ensenamos-nuestros-hijos-fueran-solo-palabras-hechos.html",
+        "date": "2025-08-22 02:00:01",
+        "sentiment_score": -0.6696712598204613
+    },
+    {
+        "title": "Antoni Vela: 125 años de un hito para el deporte balear en los Juegos de París",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3431953.jpg",
+        "tags": [
+            "menorca",
+            "tenis",
+            "remo",
+            "olimpismo",
+            "golf",
+            "vela",
+            "parís 2024",
+            "parís",
+            "otros deportes",
+            "ciclismo",
+            "deporte balear",
+            "voleibol",
+            "juegos olímpicos"
+        ],
+        "link": "https://www.ultimahora.es/deportes/otros-deportes/2025/08/22/2448595/antoni-vela-125-anos-hito-para-deporte-balear-juegos-paris.html",
+        "date": "2025-08-22 02:00:01",
+        "sentiment_score": 0.05509543418884277
+    },
+    {
+        "title": "Arde Bogotá, Salitre Fest y Oques Grasses, grandes protagonistas de los planes de ocio para este fin de semana en Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3442401.jpg",
+        "tags": [
+            "cultura",
+            "conciertos en mallorca",
+            "ocio en mallorca",
+            "festival de pollença",
+            "eventos en mallorca"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/08/22/2454419/arde-bogota-salitre-fest-oques-grasses-grandes-protagonistas-planes-ocio-para-este-fin-semana-mallorca.html",
+        "date": "2025-08-22 02:00:01",
+        "sentiment_score": -0.04502815008163452
+    },
+    {
+        "title": "De emprendedor a empresario: la nueva plataforma de Consecomercio que promete transformar negocios",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755814365535.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "venezuela",
+            "empresa",
+            "diario 2001",
+            "negocio",
+            "emprendimientos"
+        ],
+        "link": "https://2001online.com/nacionales/de-emprendedor-a-empresario-la-nueva-plataforma-de-consecomercio-que-promete-transformar-negocios-202582122130",
+        "date": "2025-08-22 02:13:00",
+        "sentiment_score": 0.16481930203735828
+    },
+    {
+        "title": "JJ Reyes conducirá la nueva etapa de Gaceta Hípica TV por Meridiano Televisión",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755828749216.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "nueva etapa",
+            "meridiano tv",
+            "gaceta hípica",
+            "jj reyes"
+        ],
+        "link": "https://2001online.com/deportes/jj-reyes-conducira-la-nueva-etapa-de-gaceta-hipica-tv-por-meridiano-television-202582122120",
+        "date": "2025-08-22 02:12:00",
+        "sentiment_score": 0.8235939536243677
+    },
+    {
+        "title": "¿Víctima de una pelea política? El repartidor de fresas atrapado entre Trump y el gobernador de California está en peligro de deportación",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755827459074.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "detención",
+            "política",
+            "victima",
+            "migración",
+            "trabajadores"
+        ],
+        "link": "https://2001online.com/usa/internacionales/victima-de-una-pelea-politica-el-repartidor-de-fresas-atrapado-entre-trump-y-el-gobernador-de-california-esta-en-peligro-de-deportacion-202582122100",
+        "date": "2025-08-22 02:11:00",
+        "sentiment_score": -0.6165628395974636
+    },
+    {
+        "title": "Icardi agrede a un guardia de seguridad: detalles del incidente",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755818337850.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "argentina",
+            "polémica",
+            "galatasaray",
+            "icardi",
+            "mauro icardi",
+            "turquía",
+            "mauro icardi y la china suárez",
+            "la china suárez",
+            "polémica de icardi"
+        ],
+        "link": "https://2001online.com/deportes/icardi-agrede-a-un-guardia-de-seguridad-detalles-del-incidente-20258212300",
+        "date": "2025-08-22 02:03:45",
+        "sentiment_score": -0.6602495647966862
+    },
+    {
+        "title": "Wander Franco sale airoso en juicio por porte ilegal de armas: esto dijo el juez",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755828500905.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "wander franco",
+            "tampa bay rays"
+        ],
+        "link": "https://2001online.com/deportes/wander-franco-sale-airoso-en-juicio-por-porte-ilegal-de-armas-esto-dijo-el-juez-20258212220",
+        "date": "2025-08-22 02:02:00",
+        "sentiment_score": -0.5789240077137947
+    },
+    {
+        "title": "Ricardo Montaner se pronuncia tras apagones en Dominicana: exige respuestas del presidente Luis Abinader",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755828482330.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "república dominicana",
+            "luis abinader",
+            "ricardo montaner",
+            "marlene rodríguez"
+        ],
+        "link": "https://2001online.com/farandula/ricardo-montaner-se-pronuncia-tras-apagones-en-dominicana-exige-respuestas-del-presidente-luis-abinader-20258212210",
+        "date": "2025-08-22 02:01:00",
+        "sentiment_score": -0.2030816450715065
+    },
+    {
+        "title": "Tú también puedes tener un cuerpo como el de Vin Diesel: esta es la rutina de ejercicios de la estrella de Fast & Furious a sus 58 años",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755707897883.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/tu-tambien-puedes-tener-un-cuerpo-como-el-de-vin-diesel-esta-es-la-rutina-de-ejercicios-de-la-estrella-de-fast-furious-a-sus-58-anos-20258212200",
+        "date": "2025-08-22 02:00:00",
+        "sentiment_score": 0.3663390725851059
+    },
+    {
+        "title": "Arrestan a empleada doméstica que hurtó dinero a sus empleadores: conozca detalles del caso",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755826046587.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "miranda",
+            "hurto de dinero",
+            "empelada doméstica",
+            "ministerio público"
+        ],
+        "link": "https://2001online.com/sucesos/arrestan-a-empleada-domestica-que-hurto-dinero-a-sus-empleadores-conozca-detalles-del-caso-20258212200",
+        "date": "2025-08-22 02:00:00",
+        "sentiment_score": -0.8484181873500347
+    },
+    {
+        "title": "¡Emocionante! Millie Bobby Brown sorprende a sus seguidores con este anuncio en redes",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755827339120.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "stranger things",
+            "millie bobby brown",
+            "jake bongiovi"
+        ],
+        "link": "https://2001online.com/farandula/emocionante-millie-bobby-brown-sorprende-a-sus-seguidores-con-este-anuncio-en-redes-202582121450",
+        "date": "2025-08-22 01:45:00",
+        "sentiment_score": 0.6269659623503685
+    },
+    {
+        "title": "¡Atención! Texas cambia el modelo de su licencia de conducir: sepa desde cuándo debe tenerla",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755824174272.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cambio",
+            "licencia",
+            "texas"
+        ],
+        "link": "https://2001online.com/usa/servicios/atencion-texas-cambia-el-modelo-de-su-licencia-de-conducir-sepa-desde-cuando-debe-tenerla-202582121300",
+        "date": "2025-08-22 01:30:00",
+        "sentiment_score": 0.531902726739645
     }
 ];
