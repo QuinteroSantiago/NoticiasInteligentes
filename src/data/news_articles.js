@@ -286,89 +286,6 @@ export default [
         "sentiment_score": -0.6174034252762794
     },
     {
-        "title": "La directora de Protección Civil acusa a los presidentes de Galicia, Castilla y León y Extremadura de pedir “imposibles”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IOMNQVPO3BIXZNKWLEGRFLTINE.jpg?auth=5b520609026e5c0d5abad4ece39b7fb07eac1cf3ef25bf7e5739450ac3732941&width=1200",
-        "tags": [
-            "ministerio del interior",
-            "castilla y león",
-            "ume",
-            "bomberos",
-            "incendios forestales",
-            "incendios",
-            "galicia",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-20/la-directora-de-proteccion-civil-acusa-a-los-presidentes-de-galicia-castilla-y-leon-y-extremadura-de-pedir-imposibles.html",
-        "date": "2025-08-20 13:52:06",
-        "sentiment_score": -0.107548788189888
-    },
-    {
-        "title": "Torrevieja no consigue que retiren las cerca de 700 gallinas que se han apoderado de sus calles",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YLZTEGZNUVE5DCOX6WXJMX4YDQ.jpg?auth=9cb8955e705f5ba2a64cf862b08d0f815cceb924f18f17cd9041ee0e564d808d&width=1200",
-        "tags": [
-            "aves",
-            "torrevieja",
-            "alicante",
-            "protección animales",
-            "ley protección animal",
-            "comunidad valenciana",
-            "granjas",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-20/torrevieja-no-consigue-que-retiren-las-cerca-de-700-gallinas-que-se-han-apoderado-de-sus-calles.html",
-        "date": "2025-08-20 13:11:12",
-        "sentiment_score": -0.765546690672636
-    },
-    {
-        "title": "Detenidos tres miembros de la ‘Ndrangheta’ que intentaban implantar una célula en el Levante español",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FOERDYEPJJDRHGWMVYT37TLZZI.jpg?auth=897d14561b9dbec7a84230fb2bbf10c9df047dd171b8652add1904aa14b6197e&width=1200",
-        "tags": [
-            "policía nacional",
-            "españa",
-            "cataluña",
-            "mafia",
-            "crimen organizado",
-            "baleares",
-            "italia",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/2025-08-20/detenidos-tres-miembros-de-la-ndrangheta-que-intentaban-implantar-una-celula-en-el-levante-espanol.html",
-        "date": "2025-08-20 12:17:48",
-        "sentiment_score": -0.759485486894846
-    },
-    {
-        "title": "Los bomberos andaluces reclaman mejores condiciones: “Si la cosa se desmadra, como en Extremadura o León, la situación se vería muy comprometida”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2VHFCSIDBBDXPAZFJYK7XRWUDQ.jpg?auth=34aefc478ba868c7fcb5ce4e13a1a628637ef6c3b1fad896725bbdb8b0e15513&width=1200",
-        "tags": [
-            "bomberos",
-            "junta andalucía",
-            "andalucía",
-            "españa",
-            "sindicatos",
-            "incendios forestales"
-        ],
-        "link": "https://elpais.com/espana/andalucia/2025-08-20/los-bomberos-andaluces-reclaman-mejores-condiciones-si-la-cosa-se-desmadra-como-en-extremadura-o-leon-la-situacion-se-veria-muy-comprometida.html",
-        "date": "2025-08-20 12:03:41",
-        "sentiment_score": -0.7798979077488184
-    },
-    {
-        "title": "El incendio de Artana, en la Sierra de Espadán, evoluciona de forma positiva tras movilizar a 13 medios aéreos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DFIMT4QIM5GZVCN5ZGW3YYJBIY.JPEG?auth=0b13f0d090bc233f8c1342f96970d619776f745f333866b44e0a8714bd0098ab&width=1200",
-        "tags": [
-            "generalitat valenciana",
-            "montañas",
-            "comunidad valenciana",
-            "bomberos",
-            "artana",
-            "bosques",
-            "castellón",
-            "incendios forestales"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-08-20/el-incendio-de-artana-en-la-sierra-de-espadan-evoluciona-de-forma-positiva-tras-movilizar-a-13-medios-aereos.html",
-        "date": "2025-08-20 11:24:27",
-        "sentiment_score": -0.7968739382922649
-    },
-    {
         "title": "Los propietarios de perros tendrán que desembolsar este dinero tras aprobarse la nueva ley del Gobierno: 1.400 euros",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d5df00d0-2bc5-4749-839f-3c807b54049b_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -8018,5 +7935,315 @@ export default [
         "link": "https://2001online.com/deportes/la-hazana-de-un-pais-dos-jovenes-venezolanos-escriben-su-nombre-en-la-historia-de-los-panamericanos-20258231700",
         "date": "2025-08-23 20:04:24",
         "sentiment_score": 0.4635373204946518
+    },
+    {
+        "title": "España: lista de los 10 videos musicales que son tendencia en YouTube este sábado",
+        "image_url": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "streaming",
+            "españa-televisión",
+            "youtube"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/24/espana-lista-de-los-10-videos-musicales-que-son-tendencia-en-youtube-este-sabado/",
+        "date": "2025-08-24 01:16:19",
+        "sentiment_score": 0.12368035316467285
+    },
+    {
+        "title": "Clima en Barcelona: el estado del tiempo para este 24 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/24/clima-en-barcelona-el-estado-del-tiempo-para-este-24-de-agosto/",
+        "date": "2025-08-24 01:15:58",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "19 fuegos siguen activos en Castilla y León: evacúan La Baña tras reactivación del incendio de Porto",
+        "image_url": "https://www.infobae.com/resizer/v2/HSA2VWAKBFFVPKSW2TNLUQV63Q.jpg?auth=95d5298466aa75306ed7756d3e28bf7ad66bb004787c798baa69e8e2d3ac7a51&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bomberos",
+            "león",
+            "castilla y león",
+            "incendios forestales",
+            "incendios",
+            "españa-noticias",
+            "españa-nacional",
+            "incendios forestales españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/24/19-fuegos-siguen-activos-en-castilla-y-leon-evacuan-la-bana-en-leon-tras-reactivacion-de-incendio-de-porto/",
+        "date": "2025-08-24 00:47:40",
+        "sentiment_score": -0.636006161570549
+    },
+    {
+        "title": "España logra el bronce en el Mundial de gimnasia rítmica",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BGRUJCDS7VLMJMX6NSTKUBH3DQ.jpg?auth=0893cb1961a78653aebed52b13ccd584fbc58cc2637f1906b550930c3fe940fc&width=1200",
+        "tags": [
+            "gimnasia rítmica",
+            "gimnasia",
+            "río de janeiro",
+            "deportes"
+        ],
+        "link": "https://elpais.com/deportes/2025-08-24/espana-logra-el-bronce-en-el-mundial-de-gimnasia-ritmica.html",
+        "date": "2025-08-24 00:25:34",
+        "sentiment_score": 0.6749405413866043
+    },
+    {
+        "title": "Madrid descarta prestar a Palma las reliquias míticas de Jaume I",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/08/24/2455121/madrid-descarta-prestar-palma-reliquias-miticas-jaume-i.html",
+        "date": "2025-08-24 02:00:01",
+        "sentiment_score": -0.06464990973472595
+    },
+    {
+        "title": "Barcelona remonta y vence a Levante mientras que Atlético de Madrid pierde más puntos",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/728f3e8/2147483647/strip/true/crop/3972x2648+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe0%2F21%2F357ff6c24d6d84bad1bc94352609%2F6f8b16d0360b448ea760a8b30db53c68.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-08-23/barcelona-remonta-y-vence-3-2-a-levante-mientras-que-atletico-de-madrid-pierde-mas-puntos",
+        "date": "2025-08-24 01:33:50",
+        "sentiment_score": 0.24393689632415771
+    },
+    {
+        "title": "Tomar el ADN en vano",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "adn",
+            "vano"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/adn-vano_0_2004616108.html",
+        "date": "2025-08-24 01:15:02",
+        "sentiment_score": 0.027175769209861755
+    },
+    {
+        "title": "La memoria del paisaje y el ideario de su gestión no coinciden",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081802425858440.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/memoria-paisaje-ideario-gestion-coinciden/20250824025234353917.html",
+        "date": "2025-08-24 00:52:34",
+        "sentiment_score": -0.68208958953619
+    },
+    {
+        "title": "El trágico vínculo entre el fuego y el tabaquismo: las hectáreas quemadas en incendios por colillas se cuadruplican este año",
+        "image_url": "https://s1.elespanol.com/2025/08/21/ciencia/1003743894891_258142326_1706x960.jpg?contentId=1003743894891",
+        "tags": [
+            "ciencia",
+            "tabaco",
+            "incendios",
+            "incendios forestales"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20250824/tragico-vinculo-fuego-tabaquismo-hectareas-quemadas-incendios-colillas-cuadruplican-ano/1003743894720_0.html",
+        "date": "2025-08-24 00:01:36",
+        "sentiment_score": -0.7288430109620094
+    },
+    {
+        "title": "Something Cool pone jazz mañana a la celebración del 93 aniversario de la UIMP",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/08/23/107876579-kvMG--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "música en cantabria",
+            "jazz",
+            "uimp"
+        ],
+        "link": "https://www.eldiariomontanes.es/culturas/something-cool-pone-jazz-manana-celebracion-aniversario-20250824084529-nt.html",
+        "date": "2025-08-24 00:00:00",
+        "sentiment_score": 0.5882221348583698
+    },
+    {
+        "title": "23 AGO 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/23-ago-2025-tramo-final-juego-20250824_3202824.html",
+        "date": "2025-08-23 23:20:47",
+        "sentiment_score": 0.6175753548741341
+    },
+    {
+        "title": "Puerto de Vega se rinde al rock and roll",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8db0fbbb-7518-47c1-8cda-09e017027360_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rock and roll",
+            "cultura",
+            "música",
+            "puerto de vega"
+        ],
+        "link": "https://www.lne.es/occidente/2025/08/24/puerto-vega-rinde-rock-and-120887061.html",
+        "date": "2025-08-24 02:09:00",
+        "sentiment_score": 0.2923736274242401
+    },
+    {
+        "title": "«Hemos decidido acercarnos para darles una bienvenida digna»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/24/2455675/hemos-decidido-acercarnos-para-darles-bienvenida-digna.html",
+        "date": "2025-08-24 02:00:01",
+        "sentiment_score": 0.004465579986572266
+    },
+    {
+        "title": "Corto",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "corto"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/corto_0_2004616102.html",
+        "date": "2025-08-24 01:14:56",
+        "sentiment_score": -0.07050630450248718
+    },
+    {
+        "title": "El automóvil español ya pierde 2.500M en exportaciones: radiografía de un sector en crisis ante la guerra comercial",
+        "image_url": "https://s1.elespanol.com/2020/05/23/invertia/empresas/industria_automovilistica-grupo_psa-renault_492211733_152437693_1706x960.jpg?contentId=492211733",
+        "tags": [
+            "coches",
+            "industria automovilística",
+            "coche eléctrico",
+            "balanzas comerciales",
+            "exportaciones",
+            "importaciones",
+            "coches suv",
+            "motor"
+        ],
+        "link": "https://www.elespanol.com/motor/20250824/automovil-espanol-pierde-exportaciones-radiografia-sector-crisis-guerra-comercial/1003743893171_0.html",
+        "date": "2025-08-24 00:39:12",
+        "sentiment_score": -0.4678717479109764
+    },
+    {
+        "title": "Retorno a Puerto Hurraco a los 35 años de la masacre, donde el estigma sigue: \"Nadie dice ser de aquí, es un pueblo maldito\"",
+        "image_url": "https://s1.elespanol.com/2025/08/22/actualidad/1003743896229_258167501_1706x960.jpg?contentId=1003743896229",
+        "tags": [
+            "sucesos",
+            "extremadura",
+            "guardia civil",
+            "asesinatos",
+            "reportajes",
+            "badajoz (municipio)",
+            "sucesos y acontecimientos"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250824/retorno-puerto-hurraco-anos-masacre-estigma-sigue-nadie-dice-pueblo-maldito/1003743893263_0.html",
+        "date": "2025-08-24 00:28:51",
+        "sentiment_score": -0.9299891451373696
+    },
+    {
+        "title": "Rompe récord de Lionel Messi: el nuevo fichaje de la MLS que superó al argentino",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/deportes/rompe-record-de-lionel-messi-el-nuevo-fichaje-de-la-mls-que-supero-al-argentino--20258232300",
+        "date": "2025-08-24 02:03:13",
+        "sentiment_score": 0.7928192354738712
+    },
+    {
+        "title": "¿Acné a los 30 años? Descubre cómo cuidar tu piel para frenar los efectos desagradables de los granos en la cara",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755880541657/Captura%20de%20pantalla%202025-08-20%20a%20la(s)%2011.36.40%20a.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/acne-a-los-30-anos-descubre-como-cuidar-tu-piel-para-frenar-los-efectos-desagradables-de-los-granos-en-la-cara-20258232200",
+        "date": "2025-08-24 02:00:00",
+        "sentiment_score": -0.7650755308568478
+    },
+    {
+        "title": "Petare inspiró su vestido: así ganó el Metropolitan Fashion Week una diseñadora venezolana",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/farandula/petare-inspiro-su-vestido-asi-gano-el-metropolitan-fashion-week-una-disenadora-venezolana-202582321560",
+        "date": "2025-08-24 01:56:00",
+        "sentiment_score": -0.07285981625318527
+    },
+    {
+        "title": "\"English only\" en el gobierno federal: lo que esconde la nueva política de vivienda para muchos en Estados Unidos",
+        "image_url": "https://www.thoughtco.com/thmb/0XphQtO4zjEXkxsfxoSt3OiMQnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Getty_english_only-180203203-574d26285f9b58516568897b.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/usa/servicios/english-only-en-el-gobierno-federal-lo-que-esconde-la-nueva-politica-de-vivienda-para-muchos-en-estados-unidos-202582321200",
+        "date": "2025-08-24 01:23:00",
+        "sentiment_score": -0.23734041303396225
+    },
+    {
+        "title": "Ataque a puñaladas deja sin vida a joven embarazada: envió un mensaje antes de morir",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/sucesos/ataque-a-punaladas-deja-sin-vida-a-joven-embarazada-envio-un-mensaje-antes-de-morir-202582321120",
+        "date": "2025-08-24 01:12:00",
+        "sentiment_score": -0.5429622083902359
+    },
+    {
+        "title": "Playa de Venezuela entre las 10 más bonitas del mundo: conoce la primera de la lista",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/curiosidades/playa-de-venezuela-entre-las-10-mas-bonitas-del-mundo-conoce-la-primera-de-la-lista-20258232150",
+        "date": "2025-08-24 01:05:00",
+        "sentiment_score": 0.8033175580203533
+    },
+    {
+        "title": "Cumpleaños de Kobe Bryant: así fue el homenaje de Vanessa para honrar su memoria",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755994167626/Imagen%20de%20WhatsApp%202025-08-23%20a%20las%2019.08.57_c3a421d1.jpg",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://2001online.com/deportes/cumpleanos-de-kobe-bryant-asi-fue-el-homenaje-de-vanessa-para-honrar-su-memoria-20258232200",
+        "date": "2025-08-24 01:02:44",
+        "sentiment_score": 0.07382109016180038
+    },
+    {
+        "title": "¿Buscas una mascota? Jornada de adopción gratuita llega a Irving: estas son las especies disponible",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/usa/servicios/buscas-una-mascota-jornada-de-adopcion-gratuita-llega-a-irving-estas-son-las-especies-disponible-20258232120",
+        "date": "2025-08-24 01:02:00",
+        "sentiment_score": 0.5671345293521881
+    },
+    {
+        "title": "Esta es una de las fórmulas milagrosas más efectivas y baratas para combatir las enfermedades mentales: ideal contra el estrés y la ansiedad",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755880921053/Captura%20de%20pantalla%202025-08-20%20a%20la(s)%2011.39.56%20a.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/esta-es-una-de-las-formulas-milagrosas-mas-efectivas-y-baratas-para-combatir-las-enfermedades-mentales-ideal-contra-el-estres-y-la-ansiedad-20258232100",
+        "date": "2025-08-24 01:00:00",
+        "sentiment_score": 0.0027637779712677
+    },
+    {
+        "title": "Bomberos sofocan incendio en Caracas este 23 de agosto: identifican las causas del siniestro",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/sucesos/bomberos-sofocan-incendio-en-caracas-este-23-de-agosto-identifican-las-causas-del-siniestro-202582320250",
+        "date": "2025-08-24 00:25:00",
+        "sentiment_score": -0.47024763002991676
     }
 ];
