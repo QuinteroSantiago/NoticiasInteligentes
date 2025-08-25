@@ -237,89 +237,6 @@ export default [
         "sentiment_score": 0.15972768887877464
     },
     {
-        "title": "Jéssica Rodríguez, expareja de Ábalos, cobró 43.978 euros en total de las empresas públicas Tragsatec e Ineco",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JY7PVM6GO5EAPBML4R7PLVKT2A.jpg?auth=ccedf68e3ed9d5b23d71aeba6144844875f43a9a9a211d5da1581ae0a52f465e&width=1200",
-        "tags": [
-            "tragsa",
-            "caso koldo",
-            "ismael moreno chamarro",
-            "audiencia nacional",
-            "españa",
-            "ineco",
-            "koldo garcía",
-            "josé luis ábalos"
-        ],
-        "link": "https://elpais.com/espana/2025-08-21/jessica-rodriguez-expareja-de-abalos-cobro-43978-euros-en-total-de-las-empresas-publicas-tragsatec-e-ineco.html",
-        "date": "2025-08-21 13:38:50",
-        "sentiment_score": -0.03717677295207977
-    },
-    {
-        "title": "Muere un joven con parálisis cerebral en una residencia clandestina para personas dependientes de Elche",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2KV4LCSV4VFH3PT34IN2GVBMJQ.jpg?auth=5bb7734ccdf56c9c3e0880f57f043bc6541c7842b284a4a0850df0b6bf0e0a89&width=1200",
-        "tags": [
-            "muerte súbita",
-            "españa",
-            "alicante",
-            "residencias ancianos",
-            "parálisis cerebral"
-        ],
-        "link": "https://elpais.com/espana/2025-08-21/muere-un-joven-con-paralisis-cerebral-en-una-residencia-clandestina-para-personas-dependientes-de-elche.html",
-        "date": "2025-08-21 13:32:51",
-        "sentiment_score": -0.8629709091037512
-    },
-    {
-        "title": "Mazón, abucheado en ausencia en la reapertura de un puente de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/25CEQ7AFEZBMVLY5UV2VK7VBUQ.jpg?auth=27ed11aa3585c9c9cdf0d4cab59d372196568554b0a761990b408e8f56c69e9a&width=1200",
-        "tags": [
-            "dana",
-            "comunidad valenciana",
-            "alaquàs",
-            "generalitat valenciana",
-            "gobierno",
-            "inundaciones dana octubre 2024",
-            "carlos mazón",
-            "torrent"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-08-21/mazon-abucheado-en-ausencia-en-la-reapertura-de-un-puente-de-la-dana.html",
-        "date": "2025-08-21 12:50:23",
-        "sentiment_score": -0.9368633711710572
-    },
-    {
-        "title": "Un supuesto ladrón intenta tragarse dos cadenas de oro tras ser detenido por la policía en La Jonquera",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5RFMZZFVEGYM4PKJYJGDXPF47E.jpg?auth=c36978b6e78412d72a7da89e0233bdbb838c1492951a5ca5856ec99776f2797d&width=1200",
-        "tags": [
-            "mossos d'esquadra",
-            "robos",
-            "la jonquera",
-            "cataluña",
-            "sucesos insólitos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-21/un-supuesto-ladron-intenta-tragarse-una-cadena-de-oro-tras-ser-detenido-por-la-policia-en-la-jonquera.html",
-        "date": "2025-08-21 12:28:08",
-        "sentiment_score": 0.14338777214288712
-    },
-    {
-        "title": "El PP eleva la tensión política al llamar “pirómana” a la directora general de Protección Civil: “¿Hasta dónde vamos a llegar?”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5HMP6WAUZFMCHKMLYNDNEZLDSY.jpg?auth=389169981800e5717e6d6fb0b8f95cc3066e131cd46773da07e1d2f4240d781f&width=1200",
-        "tags": [
-            "alfonso fernández mañueco",
-            "política",
-            "castilla y león",
-            "galicia",
-            "bomberos",
-            "extremadura",
-            "protección civil",
-            "incendios forestales",
-            "pp",
-            "españa",
-            "alfonso rueda",
-            "ume"
-        ],
-        "link": "https://elpais.com/espana/2025-08-21/el-pp-eleva-la-tension-politica-al-llamar-piromana-a-la-directora-general-de-proteccion-civil-hasta-donde-vamos-a-llegar.html",
-        "date": "2025-08-21 12:07:09",
-        "sentiment_score": -0.8252805359661579
-    },
-    {
         "title": "El Comité de Apelación mantiene los dos partidos de sanción a Bretones tras el segundo recurso de Osasuna",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/6fa6bda7-3fa8-457c-b012-3ffd909ff15e_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -8193,5 +8110,484 @@ export default [
         "link": "https://2001online.com/usa/servicios/beneficios-snap-en-texas-estas-son-las-personas-que-recibiran-su-pago-hasta-el-28-de-agosto-20258241650",
         "date": "2025-08-24 20:05:00",
         "sentiment_score": -0.0027397125959396362
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/SHCTZRUOZVCJ3C2ZRHB3GXGZRA.png?auth=ccfd03e6d0570fe037ed9c51f84a1eba2b9ea17709785368392c6852d3f305ce&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "madrid",
+            "noticias",
+            "españa sociedad",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/25/prediccion-del-clima-estas-son-las-temperaturas-en-madrid/",
+        "date": "2025-08-25 01:31:49",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 25 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "barcelona",
+            "tiempo en españa",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/25/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-25-de-agosto/",
+        "date": "2025-08-25 01:17:34",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Las mejores películas de Prime Video en España para ver hoy mismo",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "prime video",
+            "streaming",
+            "españa-televisión",
+            "películas",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/08/24/las-mejores-peliculas-de-prime-video-en-espana-para-ver-hoy-mismo/",
+        "date": "2025-08-24 23:30:54",
+        "sentiment_score": 0.23355581611394882
+    },
+    {
+        "title": "Estas son las películas que están de moda en Netflix España este día",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "streaming",
+            "españa-televisión",
+            "netflix",
+            "películas",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/24/estas-son-las-peliculas-que-estan-de-moda-en-netflix-espana-este-dia/",
+        "date": "2025-08-24 23:30:36",
+        "sentiment_score": 0.6263475976884365
+    },
+    {
+        "title": "K-pop: los 10 hits que no paran de sonar en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "itunes",
+            "noticias",
+            "streaming",
+            "k-pop",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/24/k-pop-los-10-hits-que-no-paran-de-sonar-en-itunes-espana/",
+        "date": "2025-08-24 23:15:32",
+        "sentiment_score": 0.575047679245472
+    },
+    {
+        "title": "Francia convoca al embajador de Estados Unidos por comentarios «inaceptables» sobre la respuesta gala al antisemitismo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/24/1500053260-kglH-U701447266335Hb-1200x840@diario_abc.jpg",
+        "tags": [
+            "estados unidos",
+            "francia",
+            "antisemitismo",
+            "uh abc"
+        ],
+        "link": "https://www.abc.es/internacional/francia-convoca-embajador-estados-unidos-comentarios-inaceptables-20250824234527-nt.html",
+        "date": "2025-08-24 21:57:53",
+        "sentiment_score": -0.22438868880271912
+    },
+    {
+        "title": "Villaviciosa maravilla con el desfile real de Carlos V por sus calles: \"Es como una película\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b366d577-b331-4ab2-bb71-a87472da9a0b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "carlos v"
+        ],
+        "link": "https://www.lne.es/villaviciosa/2025/08/25/villaviciosa-maravilla-desfile-real-carlos-120906364.html",
+        "date": "2025-08-25 02:01:48",
+        "sentiment_score": -0.0353374183177948
+    },
+    {
+        "title": "Ted Lechterman: “Democratizar la IA no es hacerla accesible, es compartir el poder”",
+        "image_url": "https://s1.elespanol.com/2025/08/22/actualidad/1003743895602_258155671_1706x960.jpg?contentId=1003743895602",
+        "tags": [
+            "política digital",
+            "inteligencia artificial",
+            "unesco"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/20250825/ted-lechterman-democratizar-ia-no-hacerla-accesible-compartir-poder/1003743895601_0.html",
+        "date": "2025-08-25 01:20:02",
+        "sentiment_score": 0.2972056418657303
+    },
+    {
+        "title": "Vinicius en modo crack: ¿real o momentáneo?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/25/2025082502260855213.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/muchos-preguntan-ha-vuelto-mejor-vinicius/20250825022653353982.html",
+        "date": "2025-08-25 00:26:53",
+        "sentiment_score": 0.12535034120082855
+    },
+    {
+        "title": "Venezuela cayó ante Puerto Rico por 97-70",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/08/mijares.jpg",
+        "tags": [
+            "baloncesto",
+            "fiba americup",
+            "fiba",
+            "deportes"
+        ],
+        "link": "https://elsiglo.com.ve/venezuela-cayo-ante-puerto-rico-por-97-70/",
+        "date": "2025-08-25 00:02:17",
+        "sentiment_score": 0.4680490791797638
+    },
+    {
+        "title": "24 AGO 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/24-ago-2025-tertulion-domingos-20250825_3202956.html",
+        "date": "2025-08-24 23:59:53",
+        "sentiment_score": -0.5949590876698494
+    },
+    {
+        "title": "Misión cumplida: María Luisa Cabañero, primera bombera de España, se jubila tras 38 años y pide 'escuchar al campo'",
+        "image_url": "https://s1.elespanol.com/2025/08/24/actualidad/1003743897712_258197051_1706x1280.jpg?contentId=1003743897712",
+        "tags": [
+            "bomberos",
+            "entrevistas",
+            "protagonistas",
+            "incendios"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20250824/mision-cumplida-maria-luisa-cabanero-primera-bombera-espana-jubila-anos-pide-escuchar-campo/1003743896484_0.html",
+        "date": "2025-08-24 23:55:39",
+        "sentiment_score": -0.8962167492136359
+    },
+    {
+        "title": "Los elogios de Xabi Alonso a Mastantuono tras su debut como titular en el Real Madrid: “Nos va a dar mucho”",
+        "image_url": "https://www.infobae.com/resizer/v2/UWTOY5DSENF3ZHONCPDQ3O6VFM.jpg?auth=5b26722775dbd0c88cfc4c29ff8f2578513491b479a2d37b7bacc54816e6ca11&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-argentina",
+            "franco mastantuono",
+            "real madrid",
+            "xabi alonso"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/24/los-elogios-de-xabi-alonso-a-mastantuono-tras-su-debut-como-titular-en-el-real-madrid-nos-va-a-dar-mucho/",
+        "date": "2025-08-24 23:47:36",
+        "sentiment_score": 0.7433472126722336
+    },
+    {
+        "title": "Mbappé guía al Real Madrid en el triunfo ante Oviedo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "kylian mbappé",
+            "oviedo",
+            "deportes",
+            "fútbol",
+            "real madrid"
+        ],
+        "link": "https://www.elnacional.com/2025/08/mbappe-guia-al-real-madrid-en-el-triunfo-ante-oviedo/",
+        "date": "2025-08-24 23:23:22",
+        "sentiment_score": 0.6785288490355015
+    },
+    {
+        "title": "Victorias del Real Madrid y del Barcelona, con polémica arbitral; en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/08/25/68ab9cf1de743.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/victorias-real-madrid-barcelona-polemica-arbitral-tertulion-20250825_3202944.html",
+        "date": "2025-08-24 23:18:29",
+        "sentiment_score": -0.061183661222457886
+    },
+    {
+        "title": "Mbappé anota dos goles y el Real Madrid gana 3-0 en Oviedo para mantener inicio perfecto en La Liga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top"
+        ],
+        "link": "https://apnews.com/article/mpappe-real-madrid-oviedo-vinicius-dbce5c060df8e9a748a82b9f4e7dd758",
+        "date": "2025-08-24 23:10:53",
+        "sentiment_score": 0.7385763898491859
+    },
+    {
+        "title": "Antonio, turista en los talayots de Son Fornés: «Quizás sea el mejor yacimiento arqueológico de Mallorca»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3442325.jpg",
+        "tags": [
+            "turistas en mallorca",
+            "poblado talayótico",
+            "ia-news",
+            "verano en mallorca",
+            "última hora",
+            "turismo en mallorca",
+            "sociedad",
+            "tendencias",
+            "ocio en mallorca",
+            "museo arqueológico de son fornés",
+            "vacaciones en mallorca",
+            "audiencias-um"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/08/25/2454381/antonio-turista-talayots-son-fornes-quizas-sea-mejor-yacimiento-arqueologico-mallorca.html",
+        "date": "2025-08-25 02:00:01",
+        "sentiment_score": 0.013746559619903564
+    },
+    {
+        "title": "Valores para emigrantes",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valores",
+            "emigrantes"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/valores-emigrantes_0_2004621378.html",
+        "date": "2025-08-25 01:10:45",
+        "sentiment_score": -0.1743062138557434
+    },
+    {
+        "title": "El PP lleva a cuatro ministros al Senado por los incendios y quiere que Sánchez comparezca por la imputación de su mujer",
+        "image_url": "https://s1.elespanol.com/2025/08/24/actualidad/1003743897792_258198776_1706x960.jpg?contentId=1003743897792",
+        "tags": [
+            "política",
+            "psoe (partido socialista obrero español)",
+            "diana morant",
+            "partido popular (pp)",
+            "senado",
+            "pedro sánchez",
+            "óscar puente santiago",
+            "begoña gómez",
+            "fernando grande-marlaska",
+            "josé luis ábalos"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250825/pp-lleva-ministros-senado-incendios-quiere-sanchez-comparezca-imputacion-mujer/1003743897721_0.html",
+        "date": "2025-08-25 01:02:33",
+        "sentiment_score": -0.9360771421343088
+    },
+    {
+        "title": "La intensidad récord de la ola de calor en España augura peores incendios y mayor mortalidad",
+        "image_url": "https://s1.elespanol.com/2025/08/19/ciencia/salud/1003743892225_258094188_1706x960.jpg?contentId=1003743892225",
+        "tags": [
+            "calor",
+            "verano",
+            "salud",
+            "muertes",
+            "ola de calor"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20250825/intensidad-record-ola-calor-espana-augura-peores-incendios-mayor-mortalidad/1003743891441_0.html",
+        "date": "2025-08-25 00:52:52",
+        "sentiment_score": -0.3824051320552826
+    },
+    {
+        "title": "Galería de fotos: Barcelona Femenil derrota al América y cierra con fiesta su gira en México",
+        "image_url": "https://www.infobae.com/resizer/v2/TGSCR5H6ERAIFC2QJDWQMRH6NU.JPG?auth=416d4e938eb4d1596ea82afecfaf206584cc79a173acce77267b17345c711402&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "club américa femenil",
+            "salma paralluelo",
+            "barcelona femenil",
+            "mexico-deportes",
+            "claudia pina",
+            "liga mx femenil"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/08/25/galeria-de-fotos-barcelona-femenil-derrota-al-america-y-cierra-con-fiesta-su-gira-en-mexico/",
+        "date": "2025-08-25 00:40:20",
+        "sentiment_score": 0.7888729367405176
+    },
+    {
+        "title": "Conmoción en Ecuador por la muerte del futbolista Marcos Olmedo en un accidente de tránsito: el video",
+        "image_url": "https://www.infobae.com/resizer/v2/U7YSKIPAU5AGVBKVOSHXWK5RTM.jpg?auth=09b8917cf8dcf0bdde11d070c6c41fb0fa624c9f52f477087d76674829091e1c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "marcos olmedo",
+            "mushuc runa",
+            "deportes-argentina",
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/25/conmocion-en-ecuador-por-la-muerte-del-futbolista-marcos-olmedo-en-un-accidente-de-transito-el-video/",
+        "date": "2025-08-25 00:33:22",
+        "sentiment_score": -0.8340505324304104
+    },
+    {
+        "title": "'La Protegida': Magas adelanta el primer capítulo del nuevo libro de Rafael Tarradas, a la venta el 27 de agosto",
+        "image_url": "https://s1.elespanol.com/2025/08/22/mujer/protagonistas/1003743896538_258175444_1706x960.jpg?contentId=1003743896538",
+        "tags": [
+            "protagonistas",
+            "cultura",
+            "escritores",
+            "libros"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20250824/protegida-magas-adelanta-primer-capitulo-nuevo-libro-rafael-tarradas-venta-agosto/1003743896418_0.html",
+        "date": "2025-08-24 23:56:52",
+        "sentiment_score": 0.0479397177696228
+    },
+    {
+        "title": "Bloqueos de LaLiga: miles de webs legítimas caen cada fin de semana",
+        "image_url": "https://www.elboletin.com/wp-content/uploads/2020/03/www.elboletin.com_fotos_1_126673_fotonoticia_20200317120030_1920.jpg",
+        "tags": [
+            "piratería audiovisual",
+            "defensor del pueblo",
+            "denuncias",
+            "juzgado de lo mercantil nº6 de barcelona",
+            "bloqueo dinámico de ip",
+            "bloqueos de laliga",
+            "cloudflare",
+            "españa",
+            "rootedcon",
+            "http 451",
+            "digi",
+            "cdns",
+            "comisión europea",
+            "masorange",
+            "ipv6",
+            "laliga",
+            "tecnología",
+            "libertad de expresion",
+            "sobrebloqueo",
+            "streaming ilegal",
+            "vodafone",
+            "libertad de información",
+            "internet",
+            "sentencias judiciales",
+            "verano",
+            "telcos",
+            "derechos de autor",
+            "operadoras de telecomunicaciones",
+            "movistar",
+            "tribunal constitucional"
+        ],
+        "link": "https://www.elboletin.com/bloqueos-de-laliga-miles-de-webs-legitimas-caen-cada-fin-de-semana/",
+        "date": "2025-08-24 23:51:06",
+        "sentiment_score": -0.7230744268745184
+    },
+    {
+        "title": "Escándalo fuera de la cancha: este futbolista brasileño es acusado de infidelidad",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756086914624.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "modelos",
+            "selección brasileña",
+            "infidelidad",
+            "neymar jr.",
+            "vinicius jr",
+            "pafos",
+            "brasileirão",
+            "brasil",
+            "raphinha",
+            "david luiz"
+        ],
+        "link": "https://2001online.com/deportes/escandalo-fuera-de-la-cancha-este-futbolista-brasileno-es-acusado-de-infidelidad-20258242300",
+        "date": "2025-08-25 02:03:29",
+        "sentiment_score": -0.7258521430194378
+    },
+    {
+        "title": "Predicciones de la semana del 25 al 31 de agosto",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755866053437.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-25-al-31-de-agosto--20258242200",
+        "date": "2025-08-25 02:00:00",
+        "sentiment_score": -0.050962597131729126
+    },
+    {
+        "title": "Cosmética natural en casa: este es el secreto para preparar la mejor crema contra pies secos y talones agrietados",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1755703881277.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/cosmetica-natural-en-casa-este-es-el-secreto-para-preparar-la-mejor-crema-contra-pies-secos-y-talones-agrietados-20258242200",
+        "date": "2025-08-25 02:00:00",
+        "sentiment_score": -0.31770171225070953
+    },
+    {
+        "title": "Fin de la polémica: conoce el veredicto sobre la denuncia de Beéle hacia su expareja",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756087778017.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "denuncia",
+            "camila rodríguez",
+            "beéle"
+        ],
+        "link": "https://2001online.com/farandula/fin-de-la-polemica-conoce-el-veredicto-sobre-la-denuncia-de-beele-hacia-su-expareja-202582421540",
+        "date": "2025-08-25 01:54:00",
+        "sentiment_score": -0.7851100265979767
+    },
+    {
+        "title": "Opiniones divididas: la boda de Amanda Dudamel genera debate en redes sociales",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756087011516.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "boda",
+            "amanda dudamel",
+            "boda de amanda dudamel y daniel roa",
+            "boda de amanda dudamel",
+            "matrimonio",
+            "venezuela",
+            "amanda dudamel y daniel roa"
+        ],
+        "link": "https://2001online.com/deportes/opiniones-divididas-la-boda-de-amanda-dudamel-genera-debate-en-redes-sociales-202582422300",
+        "date": "2025-08-25 01:33:43",
+        "sentiment_score": 0.17659247294068336
+    },
+    {
+        "title": "Envían a más de 200 estudiantes a México por su desempeño académico: así será su estadía",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756080408023.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cultura",
+            "excelencia académica",
+            "estudiantes",
+            "méxico"
+        ],
+        "link": "https://2001online.com/nacionales/envian-a-mas-de-200-estudiantes-a-mexico-por-su-desempeno-academico-asi-sera-su-estadia-20258242180",
+        "date": "2025-08-25 01:08:00",
+        "sentiment_score": 0.7200711313635111
+    },
+    {
+        "title": "Adiós a los Aristogatos: esta es la razón de Disney para cancelar el remake",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756084215296.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "disney",
+            "remake",
+            "aristogatos"
+        ],
+        "link": "https://2001online.com/farandula/adios-a-los-aristogatos-esta-es-la-razon-de-disney-para-cancelar-el-remake-20258242170",
+        "date": "2025-08-25 01:07:00",
+        "sentiment_score": 0.512278601527214
+    },
+    {
+        "title": "Nuevo plan fiscal en EE. UU. promete un cambio: lo que esconde el recorte de taxes en tres condados de la nación",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756082965194.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "pago de impuesto usa",
+            "taxes 2026",
+            "pago de impuesto ee.uu."
+        ],
+        "link": "https://2001online.com/usa/servicios/nuevo-plan-fiscal-en-ee-uu-promete-un-cambio-lo-que-esconde-el-recorte-de-taxes-en-tres-condados-de-la-nacion-20258242170",
+        "date": "2025-08-25 01:07:00",
+        "sentiment_score": -0.02644801139831543
+    },
+    {
+        "title": "Entérate: conoce la millonaria inversión de Miami para el Mundial 2026",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756075222175.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "copa mundial de la fifa",
+            "mundial en estados unidos",
+            "gianni infantino",
+            "donald trump",
+            "mundial 2026",
+            "miami",
+            "fútbol",
+            "fifa",
+            "ee.uu."
+        ],
+        "link": "https://2001online.com/deportes/enterate-conoce-la-millonaria-inversion-de-miami-para-el-mundial-2026-20258242200",
+        "date": "2025-08-25 01:03:41",
+        "sentiment_score": 0.6086460761725903
+    },
+    {
+        "title": "Mujer asesina a su esposo y sus dos hijos: los cuerpos fueron hallados en la casa de la familia",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756081177523.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "delito",
+            "eeuu",
+            "diario 2001",
+            "familia",
+            "enfermedad"
+        ],
+        "link": "https://2001online.com/sucesos/mujer-asesina-a-su-esposo-y-sus-dos-hijos-los-cuerpos-fueron-hallados-en-la-casa-de-la-familia-20258242130",
+        "date": "2025-08-25 01:03:00",
+        "sentiment_score": -0.689525131136179
     }
 ];
