@@ -1,226 +1,5 @@
 export default [
     {
-        "title": "Este es el precio de la gasolina este 25 de agosto en Madrid, Barcelona y otras ciudades",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "gasolina",
-            "precio gasolina",
-            "noticias",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/25/este-es-el-precio-de-la-gasolina-este-25-de-agosto-en-madrid-barcelona-y-otras-ciudades/",
-        "date": "2025-08-25 06:30:58",
-        "sentiment_score": -0.022574491798877716
-    },
-    {
-        "title": "Un abogado explica por qué la Seguridad Social le ha retirado la incapacidad a una mujer con cáncer de mama: “Vas a flipar”",
-        "image_url": "https://www.infobae.com/resizer/v2/I57PBVXOKVBF3HSOP6V2ST2R6U.jpg?auth=eb828feee1424e50408d4f4d4d55764c72e9194e4ed9e39ff21cb778a807816e&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "galicia",
-            "administración pública",
-            "pensiones",
-            "seguridad social",
-            "cáncer de mama",
-            "incapacidad permanente",
-            "españa",
-            "españa-noticias",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/25/un-abogado-explica-por-que-la-seguridad-social-le-ha-retirado-la-incapacidad-a-una-mujer-con-cancer-de-mama-vas-a-flipar/",
-        "date": "2025-08-25 06:13:14",
-        "sentiment_score": -0.6433186121284962
-    },
-    {
-        "title": "La Justicia avala el desahucio en una vivienda de protección oficial de una familia que no pudo afrontar el pago de 38 mensualidades",
-        "image_url": "https://www.infobae.com/resizer/v2/MZSVZVP4X5CTZD566A7GEY5IRE.jpg?auth=6f2085d701ab58fa01702065b9cd836b269dee7c13547ad9152e4573e5d815ce&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "alquileres",
-            "españa-nacional",
-            "castilla-la mancha",
-            "vivienda españa",
-            "vivienda",
-            "juicios",
-            "tribunales españa",
-            "alquileres españa",
-            "sentencias",
-            "españa-noticias",
-            "justicia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/25/la-justicia-avala-el-desahucio-en-una-vivienda-de-proteccion-oficial-de-una-familia-que-no-pudo-afrontar-el-pago-de-38-mensualidades/",
-        "date": "2025-08-25 06:02:24",
-        "sentiment_score": -0.7577106710523367
-    },
-    {
-        "title": "Cotización del euro frente al dólar hoy 25 de agosto",
-        "image_url": "https://www.infobae.com/resizer/v2/7NQ2VALWDVEYBPUCGC3LFFUW3E.jpg?auth=1ddd663cca1fb0ddc1f77c839ac455899f847a00183cabd975f8de77b179ef6b&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/25/cotizacion-del-euro-frente-al-dolar-hoy-25-de-agosto/",
-        "date": "2025-08-25 05:15:33",
-        "sentiment_score": 0.029736138880252838
-    },
-    {
-        "title": "Opiniones Loaney: lee la valoración honesta",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/05/23/68308d7347748.jpeg",
-        "tags": [
-            "finanzas"
-        ],
-        "link": "https://www.lavanguardia.com/comprar/finanzas/20250825/10998832/loaney-opiniones-valoracion-honesta-necesitas-leer-mkt-witm.html",
-        "date": "2025-08-25 06:28:47",
-        "sentiment_score": 0.08075184375047684
-    },
-    {
-        "title": "Gigante ante gigantes",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/1fd572be-a9d5-4452-98127f6ea8f64f4a.jpg",
-        "tags": [
-            "san sebastián",
-            "portugal",
-            "inglaterra",
-            "tottenham",
-            "real madrid",
-            "villarreal cf",
-            "thomas partey",
-            "psg",
-            "mikel arteta",
-            "liverpool fc",
-            "premier league",
-            "manchester city",
-            "real sociedad"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zae772b29-fdc0-413f-be7cf5b6d75ff233/202508/gigante-ante-gigantes",
-        "date": "2025-08-25 06:27:57",
-        "sentiment_score": -0.3735939711332321
-    },
-    {
-        "title": "Un tipo de grasa corporal favorece el envejecimiento, pero otro protege: descubre cuál es cuál",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250825081949_120.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-tipo-grasa-corporal-favorece-envejecimiento-otro-protege-descubre-cual-cual-20250825081949.html",
-        "date": "2025-08-25 06:19:49",
-        "sentiment_score": -0.22162019833922386
-    },
-    {
-        "title": "Todos los detalles de la nueva vida de la Princesa Leonor en la Academia General del Aire de San Javier, Murcia",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250825080951_120.jpg",
-        "tags": [
-            "realeza",
-            "chance"
-        ],
-        "link": "https://www.europapress.es/chance/realeza/noticia-todos-detalles-nueva-vida-princesa-leonor-academia-general-aire-san-javier-murcia-20250825080951.html",
-        "date": "2025-08-25 06:09:51",
-        "sentiment_score": 0.12431918829679489
-    },
-    {
-        "title": "El adiós al estadio más antiguo de España",
-        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2025/08/24/CAMPO-kWzH-U230272526963831D-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "espana",
-            "adios",
-            "estadio",
-            "antiguo"
-        ],
-        "link": "https://www.eldiariomontanes.es/deportes/racing/raul-gomez-samperio-adios-estadio-antiguo-espana-20250825080232-nt.html",
-        "date": "2025-08-25 06:02:32",
-        "sentiment_score": -0.02771485596895218
-    },
-    {
-        "title": "Un exfutbolista del Real Madrid no se corta y avisa: \"La suplencia de Vinicius demuestra que quien se descuida, al banquillo\"",
-        "image_url": "https://s1.elespanol.com/2025/08/25/actualidad/1003743897860_258200286_1706x960.jpg?contentId=1003743897860",
-        "tags": [
-            "deportes",
-            "el chiringuito",
-            "fútbol",
-            "la liga",
-            "real madrid cf",
-            "vinícius júnior"
-        ],
-        "link": "https://www.elespanol.com/deportes/20250825/exfutbolista-real-madrid-no-corta-avisa-suplencia-vinicius-demuestra-descuida-banquillo/1003743897859_0.html",
-        "date": "2025-08-25 05:29:27",
-        "sentiment_score": 0.24089325964450836
-    },
-    {
-        "title": "El físico vallisoletano de la NASA que mira la hora en los relojes de sol",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/07/21/787A8611%20copia.jpg",
-        "tags": [
-            "nasa",
-            "valladolid (ciudad)",
-            "sol",
-            "parquesol"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/fisico-vallisoletano-nasa-mira-hora-relojes-sol-20250825071545-nt.html",
-        "date": "2025-08-25 05:15:46",
-        "sentiment_score": 0.31868719682097435
-    },
-    {
-        "title": "Los trenes de Tarragona a Salou-Port Aventura (Tarragona) no circularán durante las primeras horas",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250825083105_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-trenes-tarragona-salou-port-aventura-tarragona-no-circularan-primeras-horas-20250825083105.html",
-        "date": "2025-08-25 06:31:05",
-        "sentiment_score": -0.42924333922564983
-    },
-    {
-        "title": "La confesión de Gonzalo Bernardos sobre las viviendas de protección oficial: \"El dato mata a relato\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d6f6be24-ca5e-4846-9c28-81d8d5921fe8_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "economía",
-            "viviendas"
-        ],
-        "link": "https://www.diariodeibiza.es/economia/2025/08/25/confesion-gonzalo-bernardos-viviendas-proteccion-dv-120908533.html",
-        "date": "2025-08-25 06:29:38",
-        "sentiment_score": -0.8999710343778133
-    },
-    {
-        "title": "Ferran ya pide paso como ‘9’",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/38e59db1-7757-4de6-9afc4e19869bae35.jpg",
-        "tags": [
-            "lamine yamal",
-            "laliga ea sports",
-            "ferran torres",
-            "levante ud",
-            "raphinha",
-            "hansi flick",
-            "valencia",
-            "unai elgezabal",
-            "rcd mallorca",
-            "fc barcelona",
-            "dani olmo",
-            "robert lewandowski"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z08a08d38-9f57-41df-8b1e9836f83543e4/202508/ferran-ya-pide-paso-como-9",
-        "date": "2025-08-25 06:25:01",
-        "sentiment_score": 0.8076596781611443
-    },
-    {
-        "title": "Una vieja y \"maldita\" canción de Serrat, el himno para recordar el verano en que ardió el oeste español",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c69caafe-4862-4798-b24b-73c654a76e00_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rural",
-            "verano",
-            "bomberos",
-            "fuego"
-        ],
-        "link": "https://www.lacronicabadajoz.com/sociedad/2025/08/25/vieja-maldita-cancion-serrat-himno-verano-incenidos-oeste-espana-120908620.html",
-        "date": "2025-08-25 06:21:56",
-        "sentiment_score": -0.6536297798156738
-    },
-    {
-        "title": "El Meteocat lo confirma: se esperan lluvias en Barcelona, a partir de esta hora",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/11/05/6729be6e92140.r_d.2334-1689.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20250825/1002519993/meteocat-confirma-esperan-lluvias-gran-parte-barcelona-catalunya-partir-hora-dct.html",
-        "date": "2025-08-25 06:05:22",
-        "sentiment_score": -0.7105177529156208
-    },
-    {
         "title": "Así es cómo puedes gastar menos combustible con el aire acondicionado del coche, según un mecánico",
         "image_url": "https://www.infobae.com/resizer/v2/3DAFIFPEQRDB7IKNJO55LMNWBY.jpg?auth=8faed7a8e941beb930383f9a2d075848b31a8156116ebf198074d111a3b3efb2&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -7694,5 +7473,490 @@ export default [
         "link": "https://2001online.com/farandula/un-gesto-dice-mas-que-mil-palabras-el-actor-puertorriqueno-es-tendencia-por-su-reaccion-cuando-le-preguntan-por-jennifer-lopez-202582811350",
         "date": "2025-08-28 15:35:00",
         "sentiment_score": 0.7846776861697435
+    },
+    {
+        "title": "¿Qué son los dragones azules y por qué están cerrando las playas en España?",
+        "image_url": "https://www.infobae.com/resizer/v2/WFYECSV66BHN3EEQBHVXNG5YQI.png?auth=4c5614643e176ddff8daeb0445185c663ef0e71a1bcb41a97812f51f8ea7af31&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "slugs",
+            "sea",
+            "new york times",
+            "stinging",
+            "spain"
+        ],
+        "link": "https://www.infobae.com/america/the-new-york-times/2025/08/28/que-son-los-dragones-azules-y-por-que-estan-cerrando-las-playas-en-espana/",
+        "date": "2025-08-28 21:30:15",
+        "sentiment_score": 0.014040134847164154
+    },
+    {
+        "title": "Ganadores de la Primitiva de este 28 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/5IMBCEZCY5FGVAES2VAZQ2IRLE.jpg?auth=94c01f4e3faa8d28057b313471960bd66294ea91fe0a8aa16b187e4c3fe2c30a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "primitiva"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/28/ganadores-de-la-primitiva-de-este-28-de-agosto/",
+        "date": "2025-08-28 20:51:55",
+        "sentiment_score": 0.27361590787768364
+    },
+    {
+        "title": "Ganadores de EuroDreams del 28 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/VYYEOIDRGZBUXAD2ZHGUCH6FIQ.jpg?auth=bc93399d032e4c1b30c0fd92b7a7e49ebd4d27a8f443c91cb4d8dc0e37cc9ef9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "eurodreams",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/28/ganadores-de-eurodreams-del-28-de-agosto/",
+        "date": "2025-08-28 20:31:22",
+        "sentiment_score": 0.27361590787768364
+    },
+    {
+        "title": "Bonoloto: estos son los ganadores del sorteo del 28 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2M3I6GTDRAKBDQBIJN7RTAJPE.png?auth=aa49b632d6506bc96a1ff7a3f2245bcfb6c28042071e793bc4355847be21fe47&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "bonoloto",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/28/bonoloto-estos-son-los-ganadores-del-sorteo-del-28-de-agosto/",
+        "date": "2025-08-28 20:15:35",
+        "sentiment_score": 0.6181680392473936
+    },
+    {
+        "title": "Comprobar la Lotería Nacional: el número ganador de este jueves 28 de agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/Y46ZO5TK2NHNBHBK3QMUSXJVDQ.jpg?auth=cfc0e8368961cf20bf608a7d47ca7bf635f7d5c0e605ed604b3c72d0e33c7434&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "lotería nacional",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/28/comprobar-la-loteria-nacional-el-numero-ganador-de-este-jueves-28-de-agosto/",
+        "date": "2025-08-28 20:01:02",
+        "sentiment_score": 0.09255632385611534
+    },
+    {
+        "title": "Resultados del Super Once del 28 agosto",
+        "image_url": "https://www.infobae.com/resizer/v2/UQP72UGEZNGAXFIAVPIT6APC4Y.jpg?auth=9b754bae32b55490a70f2a3a6f2cc8ba82ac0d75bbfcc673e64b49991c243d59&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "super once",
+            "noticias",
+            "españa-loterías",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/28/resultados-del-super-once-del-28-agosto/",
+        "date": "2025-08-28 19:45:27",
+        "sentiment_score": 0.5728364270180464
+    },
+    {
+        "title": "Victoria Federica sigue ‘coqueteando’ con la televisión: el programa de TVE en el que aparecerá",
+        "image_url": "https://www.infobae.com/resizer/v2/V5SBZLYRYNGXBEZF7TPAFQS4IM.jpeg?auth=e05fc002c90300497eeb10ad3a63608027e71f8a9c5c2479e5cc48183bcc5485&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-entretenimiento",
+            "rtve",
+            "victoria federica",
+            "españa-noticias",
+            "televisión españa",
+            "programas de televisión",
+            "tve"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/28/victoria-federica-sigue-coqueteando-con-la-television-el-programa-de-tve-en-el-que-aparecera/",
+        "date": "2025-08-28 19:43:11",
+        "sentiment_score": 0.3273756504058838
+    },
+    {
+        "title": "“Que no se te caiga el mundo encima”: lo que debes saber si el INSS te niega la incapacidad permanente",
+        "image_url": "https://www.infobae.com/resizer/v2/2K4O34L2CRFTXOVVJU7JKFFPSQ.png?auth=166bee16c3a99b3f94fcd23d3c471acbd08cfcc1d5a7d2b061016605cfcff631&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "trabajadores españa",
+            "españa-economia",
+            "indemnizaciones",
+            "derechos laborales",
+            "empleo",
+            "españa-noticias",
+            "trabajo",
+            "tiktok españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/28/que-no-se-te-caiga-el-mundo-encima-lo-que-debes-saber-si-el-inss-te-niega-la-incapacidad-permanente/",
+        "date": "2025-08-28 19:42:34",
+        "sentiment_score": 0.10925470665097237
+    },
+    {
+        "title": "Un selfie que sale mal: un elefante arrolla a un turista por invadir su espacio personal y lo manda al hospital",
+        "image_url": "https://www.infobae.com/resizer/v2/EUEWR2PPFND7LLTOBE7LZXTLN4.jpg?auth=84fca6d6bc9ad8de120d160b3c114b87b76a985fdbd1b6c33b059d2d6e66f758&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "elefantes",
+            "españa-noticias",
+            "comportamiento",
+            "animales",
+            "españa-sociedad",
+            "elefante"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/28/un-selfie-que-sale-mal-un-elefante-arrolla-a-un-turista-que-invade-su-espacio-personal-y-termina-en-el-hospital/",
+        "date": "2025-08-28 19:20:44",
+        "sentiment_score": -0.4744540601968765
+    },
+    {
+        "title": "Así puedes solicitar tus informes médicos para pedir la incapacidad permanente, según un abogado: ”Están obligados a dártelos”",
+        "image_url": "https://www.infobae.com/resizer/v2/ZUUYCTCCL5BZ3BXLOUMMUK4KPI.png?auth=650988750a35606bf1349fab588e44e568f9f8cfba87baa0ebaab64b0234bec8&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiktok españa",
+            "indemnizaciones",
+            "derechos laborales",
+            "españa-economia",
+            "trabajo",
+            "empleo",
+            "españa-noticias",
+            "trabajadores españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/28/asi-puedes-solicitar-tus-informes-medicos-para-pedir-la-incapacidad-permanente-segun-un-abogado-estan-obligados-a-dartelos/",
+        "date": "2025-08-28 18:56:36",
+        "sentiment_score": 0.3232246860861778
+    },
+    {
+        "title": "Un periodista de Diario Red denuncia una agresión por parte de tres ultras en la puerta de su casa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6TBT327QQFCRDLI2K2NPX22LVQ.jpg?auth=b9710841d7983c4312a18f80e4c75997252d0d8950a3a353190c9ad9f452a5ef&width=1200",
+        "tags": [
+            "podemos",
+            "españa",
+            "agresiones físicas",
+            "vox",
+            "twitter",
+            "pablo iglesias",
+            "ultraderecha",
+            "sucesos",
+            "periodistas"
+        ],
+        "link": "https://elpais.com/espana/2025-08-28/un-periodista-de-diario-red-denuncia-una-agresion-por-tres-ultras-en-la-puerta-de-su-casa.html",
+        "date": "2025-08-28 18:54:26",
+        "sentiment_score": -0.1478082612156868
+    },
+    {
+        "title": "Jaume Collboni y una decena de alcaldes de la red Eurocities apoyan al alcalde encarcelado de Estambul",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZEFBE34HGJFIHNEFZDTUEEOLSU.jpg?auth=b4a080f878d051095aed83a0360f612a3913918854bb80762b407586f280e6af&width=1200",
+        "tags": [
+            "cataluña",
+            "presos políticos",
+            "prisiones",
+            "ayuntamientos",
+            "turquía",
+            "estambul",
+            "ayuntamiento barcelona",
+            "recep tayyip erdogan",
+            "barcelona",
+            "democracia",
+            "jaume collboni"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-28/jaume-collboni-y-una-decena-de-alcaldes-de-la-red-eurocities-apoyan-al-alcalde-encarcelado-de-estambul.html",
+        "date": "2025-08-28 18:17:39",
+        "sentiment_score": 0.3289002701640129
+    },
+    {
+        "title": "Cataluña prevé empezar la vacunación contra la gripe el próximo 22 de septiembre",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RLTNAYAKBFHEVELHDHCGFBPCCQ.jpg?auth=abf0a64b285f86a0c9c1e886a8d1b0b5f651781c94875c8c62f371972defef02&width=1200",
+        "tags": [
+            "vacunas",
+            "gripe",
+            "coronavirus covid-19",
+            "salud",
+            "olga pané",
+            "enfermedades",
+            "vacunación",
+            "sanidad",
+            "cataluña",
+            "enfermedades infecciosas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-28/cataluna-preve-empezar-la-vacunacion-contra-la-gripe-el-proximo-22-de-septiembre.html",
+        "date": "2025-08-28 17:18:05",
+        "sentiment_score": 0.14820338785648346
+    },
+    {
+        "title": "Madrid activa un plan especial de movilidad el 1 de septiembre por las obras en la A-5, Castellana y Ventas: autobuses y bicis gratis con más policías para el tráfico",
+        "image_url": "https://phantom-elmundo.uecdn.es/bfc62fc31d86105e92fd646741f3f8b8/crop/0x0/1166x1166/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529624450788.jpg",
+        "tags": [
+            "artículos luis f. durán"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/08/29/68b0b14dfc6c83b8108b458d.html",
+        "date": "2025-08-28 22:17:36",
+        "sentiment_score": 0.37255120277404785
+    },
+    {
+        "title": "«No concibo la vida sin la danza»",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/08/29/bailarina-kAcE-U2302766101218bBF-1200x840@Ideal.jpg",
+        "tags": [
+            "danza",
+            "flamenco",
+            "granada"
+        ],
+        "link": "https://www.ideal.es/culturas/concibo-vida-danza-20250829235256-nt.html",
+        "date": "2025-08-28 21:52:57",
+        "sentiment_score": 0.14015845954418182
+    },
+    {
+        "title": "«Nuestras jugadoras trascienden el fútbol»",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/08/29/granada-irene-ferreras-pepe-marin-kiZG-U2302764735691WDI-1200x840@Ideal.jpg",
+        "tags": [
+            "levante ud",
+            "granada cf femenino",
+            "granada cf",
+            "granada"
+        ],
+        "link": "https://www.ideal.es/granadacf/entrevista-irene-ferreras-entrenadora-femenino-jugadoras-trascienden-futbol-20250829191701-nt.html",
+        "date": "2025-08-28 21:52:32",
+        "sentiment_score": 0.7734449654817581
+    },
+    {
+        "title": "Manuela Vos repite como campeona del mundo de contrarreloj y Sergio Garrote logra el subcampeonato en Ronse",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250828234609_120.jpg",
+        "tags": [
+            "ciclismo",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/ciclismo-00396/noticia-manuela-vos-repite-campeona-mundo-contrarreloj-sergio-garrote-logra-subcampeonato-ronse-20250828234609.html",
+        "date": "2025-08-28 21:46:09",
+        "sentiment_score": 0.46265627443790436
+    },
+    {
+        "title": "El increíble movimiento de Franco Mastantuono en la práctica del Real Madrid que sorprendió a los fanáticos",
+        "image_url": "https://www.infobae.com/resizer/v2/LXQG6QJIH5HK3FJBHF7IWZR33Y.jpg?auth=a20baad3cc4ae1aa613161a8072e79d0d2c1ccb15f8e8625d3e6cf09dc84bcd4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "franco mastantuono",
+            "la liga",
+            "fútbol europeo",
+            "real madrid",
+            "deportes-argentina",
+            "champions league"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/28/el-increible-movimiento-de-franco-mastantuono-en-la-practica-del-real-madrid-que-sorprendio-a-los-fanaticos/",
+        "date": "2025-08-28 21:40:54",
+        "sentiment_score": 0.6169080324470997
+    },
+    {
+        "title": "Nuevo millonario en España: un afortunado gana más de 62 millones de euros en la Primitiva",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2023/09/09/2023090918042168443.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/espana/nuevo-millonario-espana-afortunado-gana-mas-62-millones-euros-primitiva/202508282331161406135.html",
+        "date": "2025-08-28 21:31:16",
+        "sentiment_score": 0.11712051182985306
+    },
+    {
+        "title": "El Almería apuesta por Aridane Hernández para blindar su defensa",
+        "image_url": "https://static.grupojoly.com/clip/d898aa5d-703a-4a18-ae58-8cd5a863e4fd_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unión deportiva almería"
+        ],
+        "link": "https://www.diariodealmeria.es/ud-almeria/almeria-apuesta-aridane-hernandez-defensa_0_2004648876.html",
+        "date": "2025-08-28 21:13:57",
+        "sentiment_score": 0.6993792057037354
+    },
+    {
+        "title": "Zelenski recuerda que el lunes se cumple el plazo de dos semanas dado a Putin: \"Es momento de actuar\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250828230918_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-zelenski-recuerda-lunes-cumple-plazo-dos-semanas-dado-putin-momento-actuar-20250828230918.html",
+        "date": "2025-08-28 21:09:18",
+        "sentiment_score": 0.32938052713871
+    },
+    {
+        "title": "La Primitiva deja 62 millones en Burgos",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/af084d4d-cb3c-405b-921ee5b37ba151f6.jpg",
+        "tags": [
+            "barcelona",
+            "madrid",
+            "la primitiva",
+            "burgos",
+            "ciudad real"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z982a7996-f0c3-4af3-a4033c7560c1c46f/202508/la-primitiva-deja-62-millones-en-burgos",
+        "date": "2025-08-28 21:05:37",
+        "sentiment_score": -0.034831248223781586
+    },
+    {
+        "title": "“Durante diez años he seguido al caballero del dragón, Segurant”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/08/28/68b07932b4168.r_d.2104-1827-1190.jpeg",
+        "tags": [
+            "la contra"
+        ],
+        "link": "https://www.lavanguardia.com/lacontra/20250829/11009699/emanuele-arioli-diez-anos-he-seguido-caballero-dragon-segurant.html",
+        "date": "2025-08-28 22:05:00",
+        "sentiment_score": -0.32400450110435486
+    },
+    {
+        "title": "Trabajadores del hospital Razetti exigen el cumplimiento de medidas de seguridad",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "salud"
+        ],
+        "link": "https://eltiempove.com/trabajadores-del-hospital-razetti-exigen-el-cumplimiento-de-medidas-de-seguridad/",
+        "date": "2025-08-28 21:53:03",
+        "sentiment_score": -0.1845981404185295
+    },
+    {
+        "title": "El ciempiés de Charles Trenet",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20250828/11010465/ciempies-charles-trenet.html",
+        "date": "2025-08-28 21:11:38",
+        "sentiment_score": -0.17298944294452667
+    },
+    {
+        "title": "El abogado, tertuliano y político Pere Rahola",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/08/28/68b0c5f2b2076.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20250828/11010458/abogado-tertuliano-politico-pere-rahola.html",
+        "date": "2025-08-28 21:11:14",
+        "sentiment_score": -0.6833506803959608
+    },
+    {
+        "title": "Ademar acomete la Supercopa Ibérica",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/08/28/68b0c04dd23ed.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.diariodeleon.es/deportes/250828/2058107/ademar-acomete-supercopa-iberica.html",
+        "date": "2025-08-28 20:49:48",
+        "sentiment_score": 0.622740987688303
+    },
+    {
+        "title": "Una pareja multimillonaria: el impresionante patrimonio de Travis Kelce y Taylor Swift",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756417585082.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "nfl",
+            "travis kelce",
+            "romance",
+            "the eras tour",
+            "taylor swift y travis kelce",
+            "compromiso de taylor swift y travis kelce",
+            "boda de taylor swift",
+            "patrimonio de taylor swift",
+            "taylor swift",
+            "patrimonio de travis kelce"
+        ],
+        "link": "https://2001online.com/deportes/una-pareja-multimillonaria-el-impresionante-patrimonio-de-travis-kelce-y-taylor-swift-20258281900",
+        "date": "2025-08-28 22:04:09",
+        "sentiment_score": 0.8370006065815687
+    },
+    {
+        "title": "Dúo venezolano del momento conquista los Premios Juventud 2025: se presentarán durante la alfombra roja",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756418958714.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "premios juventud 2025",
+            "alleh y yorghaki",
+            "alfombra azul"
+        ],
+        "link": "https://2001online.com/farandula/duo-venezolano-del-momento-conquista-los-premios-juventud-2025-se-presentaran-durante-la-alfombra-roja-20258281840",
+        "date": "2025-08-28 22:04:00",
+        "sentiment_score": 0.8501101061701775
+    },
+    {
+        "title": "¿Listo para el viaje? El MIA revela algunos secretos para el fin de semana del Labor Day",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756417520521.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "recomendaciones",
+            "mia",
+            "viajes"
+        ],
+        "link": "https://2001online.com/usa/servicios/listo-para-el-viaje-el-mia-revela-algunos-secretos-para-el-fin-de-semana-del-labor-day-20258281800",
+        "date": "2025-08-28 22:00:00",
+        "sentiment_score": 0.10677573829889297
+    },
+    {
+        "title": "Es posible beber cerveza y no engordar: endocrino comparte un truco para lograrlo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756398131165.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/es-posible-beber-cerveza-y-no-engordar-endocrino-comparte-un-truco-para-lograrlo-20258281800",
+        "date": "2025-08-28 22:00:00",
+        "sentiment_score": 0.7058145422488451
+    },
+    {
+        "title": "La exnovia de Travis Kelce responde: su reacción al compromiso con Taylor Swift",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756417425507.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "compromiso de taylor swift y travis kelce",
+            "taylor swift y travis kelce",
+            "nfl",
+            "ex de travis kelce",
+            "kayla nicole",
+            "boda de taylor swift",
+            "polémica",
+            "taylor swift"
+        ],
+        "link": "https://2001online.com/deportes/la-exnovia-de-travis-kelce-responde-su-reaccion-al-compromiso-con-taylor-swift-202582818300",
+        "date": "2025-08-28 21:33:53",
+        "sentiment_score": -0.04691281169652939
+    },
+    {
+        "title": "La inesperada indirecta de Tom Brady: este fue el mensaje público a su primera pareja",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756417369849.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "gisele bundchen",
+            "ex de tom brady",
+            "hijos de tom brady",
+            "nfl",
+            "bridget moynahan",
+            "indirectas",
+            "tom brady"
+        ],
+        "link": "https://2001online.com/deportes/la-inesperada-indirecta-de-tom-brady-este-fue-el-mensaje-publico-a-su-primera-pareja-202582818100",
+        "date": "2025-08-28 21:33:52",
+        "sentiment_score": -0.8095938879996538
+    },
+    {
+        "title": "Alerta por salmonela: la FDA retira esta marca de huevos del mercado por contaminación",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756416176793.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "salmonella",
+            "alerta",
+            "fda"
+        ],
+        "link": "https://2001online.com/usa/internacionales/alerta-por-salmonela-la-fda-retira-esta-marca-de-huevos-del-mercado-por-contaminacion-202582817130",
+        "date": "2025-08-28 21:13:00",
+        "sentiment_score": -0.5943851470947266
+    },
+    {
+        "title": "Deportaciones récord: venezolanos conforman el 96% de los deportados sudamericanos de EE. UU.",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756415221864.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "migrantes",
+            "eeuu",
+            "deportaciones ice"
+        ],
+        "link": "https://2001online.com/usa/internacionales/deportaciones-record-venezolanos-conforman-el-96-de-los-deportados-sudamericanos-de-ee-uu--20258281760",
+        "date": "2025-08-28 21:06:00",
+        "sentiment_score": -0.13973256945610046
+    },
+    {
+        "title": "Precio del dólar y euro BCV para el 29 de agosto: así se cotizarán las divisas oficiales",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756414759024.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "bcv"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-29-de-agosto-asi-se-cotizaran-las-divisas-oficiales-20258281730",
+        "date": "2025-08-28 21:03:00",
+        "sentiment_score": -0.0002873837947845459
+    },
+    {
+        "title": "¡Impactante! ICE interrumpe diversión familiar en parque recreativo de Arkansas: revelan qué buscaban",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756414860055.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ice",
+            "arkansas",
+            "redada"
+        ],
+        "link": "https://2001online.com/usa/internacionales/impactante-ice-interrumpe-diversion-familiar-en-parque-recreativo-de-arkansas-revelan-que-buscaban-20258281700",
+        "date": "2025-08-28 21:00:00",
+        "sentiment_score": -0.7372598461806774
     }
 ];
