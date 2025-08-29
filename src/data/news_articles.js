@@ -266,17 +266,6 @@ export default [
         "sentiment_score": -0.0998172014951706
     },
     {
-        "title": "Honra y náuseas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/08/25/cartas-director-1024x512-U07161187134LTh-1200x630@diario_abc.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-honra-nauseas-20250825154802-nt.html",
-        "date": "2025-08-25 13:48:02",
-        "sentiment_score": -0.07174861431121826
-    },
-    {
         "title": "El Gobierno y ERC comienzan a negociar sobre la gestión aeroportuaria catalana",
         "image_url": "https://imagenes.elpais.com/resizer/v2/QPW2R2VTRBH35DIZHS2UDUEY2U.jpg?auth=ad5839b5a283e4ca0710145b46d571d440999e32400473a37cacfbe0aaafd0aa&width=1200",
         "tags": [
@@ -319,138 +308,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-08-25/nunez-aemet-no-dire-que-lo-hicimos-muy-bien-el-29-de-octubre-porque-hubo-228-muertos.html",
         "date": "2025-08-25 14:21:22",
         "sentiment_score": -0.44260265678167343
-    },
-    {
-        "title": "Los equipos de emergencia luchan contra 11 incendios activos, con previsiones favorables a partir del martes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VNIE6FRZ5NHC3I5Z5VMSAZASZA.jpg?auth=f4887ff6f11d35744e8332b7feca0043bcfd6b28704c4346e5a2b5cfbfd60fe2&width=1200",
-        "tags": [
-            "castilla y león",
-            "ume",
-            "gobierno de españa",
-            "bomberos",
-            "margarita robles",
-            "galicia",
-            "principado de asturias",
-            "españa",
-            "incendios forestales",
-            "incendios",
-            "incendios forestales intencionados"
-        ],
-        "link": "https://elpais.com/espana/2025-08-25/los-equipos-de-emergencia-luchan-contra-14-incendios-activos-con-previsiones-favorables-a-partir-de-manana.html",
-        "date": "2025-08-25 13:52:46",
-        "sentiment_score": -0.7467952966690063
-    },
-    {
-        "title": "Alterar notas y acceder al correo de profesores. Así actuaba el ‘hacker’ que ha puesto en jaque la plataforma educativa andaluza",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7VUWZAALXRFRHN25AHXKB7H22I.png?auth=c6cd7f335612b351af590a8b7cc688a91cb08fd975d33a0aa730eb44281b52ae&width=1200",
-        "tags": [
-            "hacker",
-            "ciberespionaje",
-            "educación",
-            "españa",
-            "educación secundaria",
-            "provincia jaén",
-            "junta andalucía",
-            "andalucía",
-            "delitos informáticos"
-        ],
-        "link": "https://elpais.com/espana/2025-08-25/alterar-notas-y-acceder-al-correo-de-profesores-asi-actuaba-el-hacker-que-ha-puesto-en-jaque-la-plataforma-educativa-andaluza.html",
-        "date": "2025-08-25 13:51:37",
-        "sentiment_score": -0.7045219466090202
-    },
-    {
-        "title": "Feijóo propone la creación de un registro nacional de pirómanos como medida estrella contra los incendios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2SPRVHBK5ZDYHCU2TCTJOGNXDE.jpg?auth=96968a08b7dea2b06f04024ccfcbdb97357f3ca6e2400d3f22f54a6904e9797a&width=1200",
-        "tags": [
-            "alfonso fernández mañueco",
-            "bomberos",
-            "galicia",
-            "gobierno",
-            "alberto núñez feijóo",
-            "castilla y león",
-            "incendios forestales",
-            "pp",
-            "xunta galicia",
-            "incendios",
-            "junta castilla y león",
-            "psoe",
-            "españa",
-            "alfonso rueda",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2025-08-25/feijoo-propone-la-creacion-de-un-registro-nacional-de-piromanos-como-medida-estrella-contra-los-incendios.html",
-        "date": "2025-08-25 13:26:13",
-        "sentiment_score": -0.5979790259152651
-    },
-    {
-        "title": "Vuelven las excavadoras a Montecarmelo y la lucha de los vecinos: “Contra el abuso, resistencia”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AH6E6H2JGRE2BJW5TMOJMMGRIY.jpg?auth=903df5cdbc39302661321373c5431eda92badce762a1a457d5d60de645619da0&width=1200",
-        "tags": [
-            "ayuntamiento madrid",
-            "obras públicas",
-            "justicia",
-            "vecinos",
-            "madrid",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-08-25/vuelven-las-excavadoras-a-montecarmelo-y-la-lucha-de-los-vecinos-contra-el-abuso-resistencia.html",
-        "date": "2025-08-25 13:17:36",
-        "sentiment_score": -0.2815651185810566
-    },
-    {
-        "title": "Un estudio ofrece la clave del urbanismo maya al permitir detectar edificios bajo la selva",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TLCRPX5NPZPBRCQE6IR3U3HRTQ.jpg?auth=c41497964f93864d3f6d80c4fd0bbed34966c7e9f5a751b14a95719b6982a3aa&width=1200",
-        "tags": [
-            "investigación científica",
-            "universidad",
-            "arqueología",
-            "guatemala",
-            "selvas",
-            "méxico",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-08-25/un-estudio-ofrece-la-clave-del-urbanismo-maya-al-permitir-detectar-edificios-bajo-la-selva.html",
-        "date": "2025-08-25 12:36:59",
-        "sentiment_score": 0.012108251452445984
-    },
-    {
-        "title": "Un incendio en un tren en la estación de Calafell (Tarragona) obliga a evacuar a los pasajeros",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PXZCHP7IXOTY7GPQMKC37L5UXQ.jpg?auth=ca82a0942061e2910cb470b1b79acff8990f7d153ef6a6d267e6789529721bb5&width=1200",
-        "tags": [
-            "transporte ferroviario",
-            "tarragona",
-            "transporte",
-            "renfe",
-            "cataluña",
-            "pasajeros",
-            "averías",
-            "trenes",
-            "cercanías",
-            "incendios",
-            "calafell"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-25/un-incendio-en-un-tren-en-la-estacion-de-calafell-tarragona-obliga-a-evacuar-a-los-pasajeros.html",
-        "date": "2025-08-25 11:56:24",
-        "sentiment_score": -0.6748315431177616
-    },
-    {
-        "title": "Un operativo con unos 250 policías contra el ‘top manta’ en Roses acaba con más de 7 toneladas de material intervenido",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/V5H3L6UFNZHOTE4MA2OW5D5L5U.jpg?auth=c15422fdea2376a39d5b329c9a16759aa556200cd965707954fd4f72ac95fe9d&width=1200",
-        "tags": [
-            "cataluña",
-            "alt empordà",
-            "costa brava",
-            "mossos d'esquadra",
-            "top manta",
-            "venta ambulante",
-            "policía nacional",
-            "provincia girona",
-            "roses",
-            "guardia civil"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-25/un-operativo-con-unos-250-policias-contra-el-top-manta-en-roses-acaba-con-mas-de-7-toneladas-de-material-intervenido.html",
-        "date": "2025-08-25 11:52:09",
-        "sentiment_score": -0.7212887201458216
     },
     {
         "title": "El Gobierno aprueba este martes un real decreto que detallará la capacidad de acogida de menores migrantes de las CCAA",
@@ -7958,5 +7815,531 @@ export default [
         "link": "https://2001online.com/usa/internacionales/impactante-ice-interrumpe-diversion-familiar-en-parque-recreativo-de-arkansas-revelan-que-buscaban-20258281700",
         "date": "2025-08-28 21:00:00",
         "sentiment_score": -0.7372598461806774
+    },
+    {
+        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "madrid",
+            "tiempo en españa",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/29/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-madrid/",
+        "date": "2025-08-29 01:30:58",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Pronóstico del clima en Barcelona este viernes: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa sociedad",
+            "barcelona",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/29/pronostico-del-clima-en-barcelona-este-viernes-temperatura-lluvias-y-viento/",
+        "date": "2025-08-29 01:17:12",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Egan Bernal no se rinde y sueña con pelear la camiseta roja en la Vuelta a España: “Todavía queda mucho por delante”",
+        "image_url": "https://www.infobae.com/resizer/v2/CPU7PRCOQNHX7IIJBMNPQ3UGO4.JPG?auth=0cce3929cca7ce525e292e855e8406ac39d774e5bd1076179d8d6b3fb98e37ff&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "la vuelta 2025",
+            "egan bernal",
+            "egan bernal vuelta a españa",
+            "vuelta a españa",
+            "jay vine",
+            "colombia-deportes",
+            "ineos grenadiers"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/08/29/egan-bernal-no-se-rinde-y-suena-con-pelear-la-camiseta-roja-en-la-vuelta-a-espana-todavia-queda-mucho-por-delante/",
+        "date": "2025-08-29 00:56:23",
+        "sentiment_score": 0.4709804356098175
+    },
+    {
+        "title": "De ser campeón con Millonarios a la segunda división de España: este sería el destino de delantero colombiano en Europa",
+        "image_url": "https://www.infobae.com/resizer/v2/DTRTAQ2GJFDEBNXFJZDMDSGGQI.png?auth=c79a75e9c41ae78900d93269f6e93701979cc7249de4cd7735c3ae292ea18d28&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "selección colombia sub 20",
+            "oscar cortés",
+            "sporting gijón",
+            "colombia-deportes",
+            "millonarios"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/08/29/de-ser-campeon-con-millonarios-a-la-segunda-division-de-espana-este-seria-el-destino-de-delantero-colombiano-en-europa/",
+        "date": "2025-08-29 00:17:52",
+        "sentiment_score": 0.7986352518200874
+    },
+    {
+        "title": "De gatos a humanos: nueva terapia en cáncer logra resultados prometedores",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/08/28/AblackcatsittingonarockinayardAI-generatedcontentmaybeincorrect_-U603400659511yPC-RoAR3OP6Y7M38YzIwhxZCzN-758x531@diario_abc.png",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/gatos-humanos-nueva-terapia-cancer-logra-resultados-20250828155046-nt.html",
+        "date": "2025-08-28 23:59:21",
+        "sentiment_score": -0.10960176587104797
+    },
+    {
+        "title": "Los 450 millones de euros que reclama la Seguridad Social a Glovo podrían deslindar su presencia en España",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/08/28/1499698007-RQYjTUyfpDAQ3tEuIqraaZL-758x531@diario_abc.JPG",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.abc.es/economia/450-millones-euros-reclama-seguridad-social-glovo-20250828190907-nt.html",
+        "date": "2025-08-28 23:58:45",
+        "sentiment_score": -0.05719134211540222
+    },
+    {
+        "title": "La UE propone eliminar los aranceles sobre EE.UU. para acelerar la reducción de las tasas a los automóviles",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/28/1499228017-kUXG-U701461910700SJG-1200x840@diario_abc.jpg",
+        "tags": [
+            "estados unidos",
+            "unión europea",
+            "uh abc",
+            "comisión europea (ce)"
+        ],
+        "link": "https://www.abc.es/internacional/ue-propone-eliminar-aranceles-sobre-eeuu-acelerar-20250828175004-nt.html",
+        "date": "2025-08-28 23:57:11",
+        "sentiment_score": -0.11804348230361938
+    },
+    {
+        "title": "Sanidad advierte de la falta de tranxilium inyectable en los hospitales hasta dentro de un año",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/08/28/tranquilizantes-R21hhWtMCxJq8RKF8RePB0O-1200x840@diario_abc.jpg",
+        "tags": [
+            "medicamentos",
+            "sanidad"
+        ],
+        "link": "https://www.abc.es/salud/sanidad-advierte-falta-tranxilium-inyectable-hospitales-dentro-20250828191041-nt.html",
+        "date": "2025-08-28 22:18:10",
+        "sentiment_score": -0.14845214784145355
+    },
+    {
+        "title": "Una IA predice si una mutación genética derivará en una enfermedad",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/08/28/Foto.png",
+        "tags": [
+            "enfermedades",
+            "inteligencia artificial",
+            "inteligencia",
+            "cáncer",
+            "médicos",
+            "genética"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/ia-predice-mutacion-genetica-derivara-enfermedad-20250828155410-nt.html",
+        "date": "2025-08-28 21:22:21",
+        "sentiment_score": -0.131129652261734
+    },
+    {
+        "title": "Sanidad ya ha detectado jóvenes con ideación suicida aconsejados por ChatGPT",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/08/28/padre-RJ5jppDsX55XqnnIzJ4NgmO-758x531@diario_abc.jpg",
+        "tags": [
+            "technology"
+        ],
+        "link": "https://www.abc.es/tecnologia/sanidad-detectado-jovenes-ideacion-suicida-aconsejados-chatgpt-20250828194712-nt.html",
+        "date": "2025-08-28 20:37:51",
+        "sentiment_score": -0.17640914022922516
+    },
+    {
+        "title": "El atacante del tiroteo a un colegio católico en Mineápolis: transexual, racista, anti-Trump y obsesionado con su matanza",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/08/28/1500152562-kwQF-U7014596058099y-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/atacante-tiroteo-colegio-catolico-mineapolis-transexual-racista-20250828072636-nt.html",
+        "date": "2025-08-28 20:37:21",
+        "sentiment_score": -0.2528868764638901
+    },
+    {
+        "title": "José Luis Caballero o Abel Sanz",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/santi-gigliotti-jose-luis-caballero-abel-sanz-20250829222757-nts.html",
+        "date": "2025-08-28 20:28:31",
+        "sentiment_score": -0.08754521608352661
+    },
+    {
+        "title": "La puerta equivocada",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/08/28/vecinosok-U14700246746ODK-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "sevilla",
+            "ayuntamientos",
+            "junta de andalucía"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-puerta-equivocada-20250829222703-nts.html",
+        "date": "2025-08-28 20:27:09",
+        "sentiment_score": -0.06523844599723816
+    },
+    {
+        "title": "Razonamiento puerco: arrojar españoles a los lobos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/fernando-iwasaki-razonamiento-puerco-arrojar-espanoles-lobos-20250829222702-nts.html",
+        "date": "2025-08-28 20:27:08",
+        "sentiment_score": -0.13762739300727844
+    },
+    {
+        "title": "El Govern autoriza este viernes a la Abogacía para presentar otro recurso contra el reparto de menores",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3451349.jpg",
+        "tags": [
+            "palma de mallorca",
+            "migrantes",
+            "última hora",
+            "marga prohens",
+            "tribunal supremo",
+            "tribunal constitucional",
+            "menores no acompañados",
+            "palma",
+            "ultimas noticias",
+            "baleares",
+            "recurso",
+            "local",
+            "govern"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/29/2459001/govern-autoriza-este-viernes-abogacia-para-presentar-otro-recurso-contra-reparto-menores.html",
+        "date": "2025-08-29 02:00:01",
+        "sentiment_score": -0.33288581669330597
+    },
+    {
+        "title": "Baleares será de las últimas comunidades en recibir traslados del reparto de menores migrantes",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3451395.jpg",
+        "tags": [
+            "migrantes",
+            "última hora",
+            "menores no acompañados",
+            "reparto",
+            "palma",
+            "baleares",
+            "local",
+            "palma de mallorca",
+            "ultimas noticias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/08/29/2459029/baleares-sera-ultimas-comunidades-recibir-traslados-del-reparto.html",
+        "date": "2025-08-29 02:00:01",
+        "sentiment_score": 0.11635713279247284
+    },
+    {
+        "title": "La poesía germina en el Cuarto Real de Santo Domingo",
+        "image_url": "https://static.grupojoly.com/clip/962e3808-4919-4127-b51e-6deb031464e9_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "qué hacer en granada",
+            "qué ver en granada"
+        ],
+        "link": "https://www.granadahoy.com/ocio/poesia-germina-cuarto-real-santo_0_2004644543.html",
+        "date": "2025-08-29 01:59:41",
+        "sentiment_score": 0.6863971427083015
+    },
+    {
+        "title": "La Champions reparte fortuna desigual en el fútbol español",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/30/2025053014032925418.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/champions-reparte-fortuna-desigual-futbol-espanol/20250829025817354471.html",
+        "date": "2025-08-29 00:58:17",
+        "sentiment_score": -0.0815807431936264
+    },
+    {
+        "title": "Juan Cavestany estrena 'Madrid Ext' : \"Madrid me pone malo, como a cualquiera que conserve sensibilidad\"",
+        "image_url": "https://s2.elespanol.com/2016/05/13/el-cultural/el_cultural_124500142_219124415_1706x960.jpg?contentId=1003743903245",
+        "tags": [
+            "estrenos de cine",
+            "madrid",
+            "cine",
+            "películas"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20250829/juan-cavestany-estrena-madrid-ext-pone-malo-conserve-sensibilidad/1003743903220_0.html",
+        "date": "2025-08-29 00:40:01",
+        "sentiment_score": -0.0617825984954834
+    },
+    {
+        "title": "Los incendios evidencian una vez más el sinsentido del Estado autonómico",
+        "image_url": "https://s2.elespanol.com/2025/08/26/actualidad/1003743899491_258228657_1706x960.jpg?contentId=1003743899491",
+        "tags": [
+            "comunidades autónomas",
+            "emergencias",
+            "incendios forestales",
+            "tribunas",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20250829/incendios-evidencian-vez-sinsentido-autonomico/1003743901982_12.html",
+        "date": "2025-08-29 00:01:37",
+        "sentiment_score": -0.9488088488578796
+    },
+    {
+        "title": "¿Champions en Asia? La enorme travesía del Real Madrid para enfrentar al Kairat en la fase de grupos",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756426744884.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "real madrid"
+        ],
+        "link": "https://2001online.com/deportes/champions-en-asia-la-enorme-travesia-del-real-madrid-para-enfrentar-al-kairat-en-la-fase-de-grupos-20258282000",
+        "date": "2025-08-29 00:00:00",
+        "sentiment_score": 0.3088199347257614
+    },
+    {
+        "title": "El Madrid irá a Kazajistán y cae en la trampa del Kairat Almaty: miles de kilómetros de viaje con la amenaza del frío y el horario",
+        "image_url": "https://s2.elespanol.com/2025/08/28/actualidad/1003743903770_258307861_1706x960.jpg?contentId=1003743903770",
+        "tags": [
+            "real madrid cf",
+            "deportes",
+            "kazajistán",
+            "fútbol",
+            "champions league"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250828/madrid-ira-kazajistan-cae-trampa-kairat-almaty-miles-kilometros-viaje-amenaza-frio-horario/1003743903737_0.html",
+        "date": "2025-08-28 23:47:47",
+        "sentiment_score": 0.1936378926038742
+    },
+    {
+        "title": "Cupón Diario de la Once: jugada ganadora y resultado 28 de agosto 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "cupon diario",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/08/28/cupon-diario-de-la-once-jugada-ganadora-y-resultado-del-ultimo-sorteo/",
+        "date": "2025-08-28 23:22:33",
+        "sentiment_score": 0.5590086951851845
+    },
+    {
+        "title": "La Federación Española de Rugby renueva sus becas con el programa Mujer y Deporte para la formación de entrenadoras",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250829004727_120.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/noticia-federacion-espanola-rugby-renueva-becas-programa-mujer-deporte-formacion-entrenadoras-20250829004727.html",
+        "date": "2025-08-28 22:47:27",
+        "sentiment_score": 0.4189624525606632
+    },
+    {
+        "title": "El verdugo orgulloso",
+        "image_url": "https://uh.gsstatic.es/autor/manuel-aguilera/10893.png",
+        "tags": [
+            "grupo serra",
+            "tribuna",
+            "artículos de opinión",
+            "prensa digital",
+            "medio de comunicación"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/08/29/2458945/verdugo-orgulloso.html",
+        "date": "2025-08-29 02:00:01",
+        "sentiment_score": -0.39768369495868683
+    },
+    {
+        "title": "El Mallorca se quita años de encima",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3451523.jpg",
+        "tags": [
+            "fútbol",
+            "última hora",
+            "liga ea sports",
+            "rcd mallorca",
+            "laliga",
+            "mercado de fichajes",
+            "ultimas noticias",
+            "real mallorca",
+            "primera división"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/08/29/2459087/mallorca-tine-canas.html",
+        "date": "2025-08-29 02:00:01",
+        "sentiment_score": -0.16028505563735962
+    },
+    {
+        "title": "Una biografía «rigurosa y humana» de Josep Maria Llompart",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3451303.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/08/29/2458987/biografia-rigurosa-humana-josep-maria-llompart.html",
+        "date": "2025-08-29 02:00:01",
+        "sentiment_score": -0.013916075229644775
+    },
+    {
+        "title": "Tras el Here we go por Garnacho, el Chelsea va con todo a por Fermín López",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/04/2025050401013987872.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/fichaje-garnacho-chelsea-mantiene-pulso-barca-fermin/20250829033439354476.html",
+        "date": "2025-08-29 01:34:39",
+        "sentiment_score": -0.760511726140976
+    },
+    {
+        "title": "FC Barcelona: esta sería la nueva fecha para regresar al Camp Nou",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756431606906.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "fc barcelona",
+            "uefa champions league",
+            "lamine yamal",
+            "laliga",
+            "sorteo de la uefa champions league",
+            "estadio spotify camp nou",
+            "barcelona",
+            "camp nou"
+        ],
+        "link": "https://2001online.com/deportes/fc-barcelona-esta-seria-la-nueva-fecha-para-regresar-al-camp-nou-202582822300",
+        "date": "2025-08-29 01:33:53",
+        "sentiment_score": -0.7427672650665045
+    },
+    {
+        "title": "Un pueblo de Barcelona quiere frenar la invasión de jabalíes en sus contenedores a base de olor a orina",
+        "image_url": "https://img.huffingtonpost.es/files/image_1200_800/uploads/2025/06/18/un-jabali-en-el-campo.jpeg",
+        "tags": [
+            "animales"
+        ],
+        "link": "https://www.huffingtonpost.es/life/animales/un-pueblo-barcelona-quiere-frenar-invasion-jabalies-contenedores-base-olor-orina.html",
+        "date": "2025-08-29 01:00:00",
+        "sentiment_score": 0.17890644073486328
+    },
+    {
+        "title": "Valencia desbanca a Barcelona por primera vez como gran mercado para alquilar entre los extranjeros",
+        "image_url": "https://phantom-elmundo.uecdn.es/d723bd6ba8b5cf2c99b810c30fa45cd8/resize/1200/f/webp/assets/multimedia/imagenes/2025/08/28/17563924217615.jpg",
+        "tags": [
+            "alquiler",
+            "vivienda"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/08/29/68b069f6fc6c831b128b458e.html",
+        "date": "2025-08-29 00:51:37",
+        "sentiment_score": -0.23018762469291687
+    },
+    {
+        "title": "Redadas del ICE: funcionarios exigen \"green card\" a inmigrantes en un parque de EE. UU.",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756433486399.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "visa de trabajo",
+            "arkansa",
+            "ice",
+            "permisos de trabajo",
+            "green card"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-del-ice-funcionarios-exigen-green-card-a-inmigrantes-en-un-parque-de-ee-uu--202582822160",
+        "date": "2025-08-29 02:16:00",
+        "sentiment_score": -0.13664337247610092
+    },
+    {
+        "title": "La fortuna de Rafael Nadal: esto gana el español fuera de las canchas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756431815682.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "tenista español",
+            "tenista",
+            "patrimonio de rafael nadal",
+            "rafael nadal",
+            "españa",
+            "rafa nadal",
+            "extenista",
+            "cuanto gana rafa nadal"
+        ],
+        "link": "https://2001online.com/deportes/la-fortuna-de-rafael-nadal-esto-gana-el-espanol-fuera-de-las-canchas-20258282270",
+        "date": "2025-08-29 02:07:00",
+        "sentiment_score": -0.03892430663108826
+    },
+    {
+        "title": "Alianza inesperada: el PSG y la WWE se unen en un acuerdo histórico",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756431673248.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "fútbol europeo",
+            "parís saint germain",
+            "psg",
+            "lucha libre",
+            "francia",
+            "wwe",
+            "ligue 1",
+            "paris"
+        ],
+        "link": "https://2001online.com/deportes/alianza-inesperada-el-psg-y-la-wwe-se-unen-en-un-acuerdo-historico-20258282300",
+        "date": "2025-08-29 02:03:45",
+        "sentiment_score": 0.6965103270485997
+    },
+    {
+        "title": "Conoce la Reign of Terror: una de las casas embrujadas más grandes de California",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756403907980.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "halloween",
+            "cada del terror",
+            "#estadosunidos",
+            "#diario2001",
+            "#california"
+        ],
+        "link": "https://2001online.com/usa/servicios/conoce-la-reign-of-terror-una-de-las-casas-embrujadas-mas-grandes-de-california-20258282200",
+        "date": "2025-08-29 02:00:00",
+        "sentiment_score": 0.260777547955513
+    },
+    {
+        "title": "Evita multas de hasta $50 en California: esta es la forma correcta de usar el celular mientras manejas",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756410323968.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "multa",
+            "internacionales",
+            "leyes",
+            "tránsito",
+            "celular",
+            "estados unidos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/evita-multas-de-hasta-50-en-california-esta-es-la-forma-correcta-de-usar-el-celular-mientras-manejas-20258282200",
+        "date": "2025-08-29 02:00:00",
+        "sentiment_score": -0.7210062257945538
+    },
+    {
+        "title": "Ana Karina Manco narra su dura experiencia al manejar en Costa Rica: El pura vida es falso",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756432514705.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ana karina manco",
+            "actriz venezolana"
+        ],
+        "link": "https://2001online.com/farandula/ana-karina-manco-narra-su-dura-experiencia-al-manejar-en-costa-rica-el-pura-vida-es-falso-202582821470",
+        "date": "2025-08-29 01:47:00",
+        "sentiment_score": 0.003236055374145508
+    },
+    {
+        "title": "Accidente de tránsito deja un muerto en El Junquito: el responsable se da a la fuga",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756431275021.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "miranda",
+            "conductor a la fuga",
+            "el junquito",
+            "accidente de tránsito"
+        ],
+        "link": "https://2001online.com/sucesos/accidente-de-transito-deja-un-muerto-en-el-junquito-el-responsable-se-da-a-la-fuga-202582821370",
+        "date": "2025-08-29 01:37:00",
+        "sentiment_score": -0.6519187688827515
+    },
+    {
+        "title": "Desafío en Estados Unidos: cómo renovar tu permiso de trabajo y qué pasa si se vence",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756431082441.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "fecha limite",
+            "estados unidos visa",
+            "tramites migratorio",
+            "visa de trabajo"
+        ],
+        "link": "https://2001online.com/usa/servicios/desafio-en-estados-unidos-como-renovar-tu-permiso-de-trabajo-y-que-pasa-si-se-vence-202582821350",
+        "date": "2025-08-29 01:35:00",
+        "sentiment_score": -0.07783643901348114
+    },
+    {
+        "title": "Netflix estrena nueva película futbolera: te contamos más",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756431360185.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "estreno en netflix",
+            "alemania",
+            "laliga fantasy",
+            "italia",
+            "laliga",
+            "netflix",
+            "fútbol",
+            "españa"
+        ],
+        "link": "https://2001online.com/deportes/netflix-estrena-nueva-pelicula-futbolera-te-contamos-mas-20258282250",
+        "date": "2025-08-29 01:33:54",
+        "sentiment_score": -0.18193595856428146
     }
 ];
