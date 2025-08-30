@@ -343,118 +343,6 @@ export default [
         "sentiment_score": 0.1232512928545475
     },
     {
-        "title": "El Congreso acogerá una jornada de Vox sobre “denuncias falsas” e “ideología de género”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7LECPA5P6NNFLMREEN6ZIVD52A.jpg?auth=5c6c56c803f5f7970cc936ed05a7f4353ce0b9b9c0476712e43df9f3783cc412&width=1200",
-        "tags": [
-            "vox",
-            "feminismo",
-            "ultraderecha",
-            "extrema derecha",
-            "congreso diputados",
-            "españa",
-            "denuncias falsas"
-        ],
-        "link": "https://elpais.com/espana/2025-08-26/el-congreso-acogera-una-jornada-de-vox-sobre-denuncias-falsas-e-ideologia-de-genero.html",
-        "date": "2025-08-26 13:39:09",
-        "sentiment_score": -0.671177588403225
-    },
-    {
-        "title": "Tellado acusa a la directora de Protección Civil de “hooligan en favor del PSOE”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6EQ5PGDKFRGUHK3NKHB4JC2ZHI.jpg?auth=1300941bf20a78d8bdaa7fe48797b5136f74b1684d6b3a3068135f80a8e9bb05&width=1200",
-        "tags": [
-            "incendios forestales intencionados",
-            "protección civil",
-            "pp",
-            "incendios forestales",
-            "psoe",
-            "congreso diputados",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-26/tellado-acusa-a-la-directora-de-proteccion-civil-de-hooligan-en-favor-del-psoe.html",
-        "date": "2025-08-26 13:32:20",
-        "sentiment_score": -0.10957720130681992
-    },
-    {
-        "title": "El Govern catalán comenzará la próxima semana la ronda de reuniones con los grupos para sondear los Presupuestos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M5TPJIUK25IGHPNHCFIL2AGSMM.jpg?auth=212e024f3781883d645a546f62cdb520fab2c10977bf96ba1e1f6b4e787766c4&width=1200",
-        "tags": [
-            "erc",
-            "presupuestos autonómicos",
-            "en comú podem",
-            "cataluña",
-            "govern cataluña",
-            "financiación autonómica"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-26/el-govern-catalan-comenzara-la-proxima-semana-la-ronda-de-reuniones-con-los-grupos-para-sondear-los-presupuestos.html",
-        "date": "2025-08-26 13:23:50",
-        "sentiment_score": -0.26106594502925873
-    },
-    {
-        "title": "Estas son las “zonas afectadas por emergencia” declaradas por el Gobierno en el Consejo de Ministros",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RRMGZCLZ4JAP3FLWZUBTDL3ZZ4.jpg?auth=83f246c93156b8235851a7f107fb6965d79b4da75becea81dd3f6c37d576e474&width=1200",
-        "tags": [
-            "navarra",
-            "galicia",
-            "extremadura",
-            "principado de asturias",
-            "gobierno de españa",
-            "castilla y león",
-            "cataluña",
-            "españa",
-            "ministerio del interior",
-            "cantabria",
-            "madrid",
-            "canarias",
-            "incendios forestales",
-            "baleares",
-            "incendios",
-            "bomberos",
-            "la rioja",
-            "castilla-la mancha",
-            "murcia"
-        ],
-        "link": "https://elpais.com/espana/2025-08-26/estas-son-las-zonas-afectadas-por-emergencia-declaradas-por-el-gobierno-en-el-consejo-de-ministros.html",
-        "date": "2025-08-26 13:23:00",
-        "sentiment_score": -0.4354538023471832
-    },
-    {
-        "title": "La curiosa huelga del Hospital La Paz no consigue que se cubran los servicios mínimos en todas las plantas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ONMTDBVYUNGLHA3SMFSRQZNMQY.JPG?auth=70c5dddea2f479dc2ccd0c8a675aa078e2fb5db17276919a71688d968a3aadcd&width=1200",
-        "tags": [
-            "pacientes",
-            "isabel díaz ayuso",
-            "personal sanitario",
-            "personal no sanitario",
-            "madrid",
-            "huelgas",
-            "protestas sociales",
-            "sanidad pública",
-            "sanidad",
-            "comunidad de madrid",
-            "hospital la paz"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-08-26/la-curiosa-huelga-del-hospital-la-paz-no-consigue-que-se-cubran-los-servicios-minimos-en-las-plantas.html",
-        "date": "2025-08-26 13:11:30",
-        "sentiment_score": -0.12940194457769394
-    },
-    {
-        "title": "Detenido un hombre por colocar artefactos explosivos caseros en la sede de la Agencia Tributaria catalana en la Seu d’Urgell",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EA5KFT55AJDB5OZFRTH5UKTRP4.jpg?auth=bbb57a7c951f2fd5d2aa82bc826f5f8b28b717ce5c8410a41106b812fb8d0834&width=1200",
-        "tags": [
-            "cataluña",
-            "la seu d'urgell",
-            "mossos d'esquadra",
-            "sucesos",
-            "explosivos",
-            "provincia lleida",
-            "artefactos caseros",
-            "detenciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-26/detenido-un-hombre-por-colocar-artefactos-explosivos-caseros-en-la-sede-de-la-agencia-tributaria-catalana-en-la-seu-durgell.html",
-        "date": "2025-08-26 12:53:01",
-        "sentiment_score": -0.2249683029949665
-    },
-    {
         "title": "El Gobierno declara zonas 'catastróficas' en siete municipios de la Comunidad de Madrid por los incendios de este verano",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250826190514_120.jpg",
         "tags": [
@@ -8538,5 +8426,368 @@ export default [
         "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-1-de-septiembre-asi-se-cotizan-las-divisas-20258291700",
         "date": "2025-08-29 21:00:00",
         "sentiment_score": 0.0032466240227222443
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 30 de agosto en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "tiempo en españa",
+            "españa sociedad",
+            "madrid",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/30/clima-las-temperaturas-que-predominaran-este-30-de-agosto-en-madrid/",
+        "date": "2025-08-30 01:31:00",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "La parodia armada de la revolución bolivariana",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/29/miliciasbolivarianas_20250829192837-kVO-R3A48VgPgezHemD2hTrqgRL-758x531@diario_abc.jpg",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.abc.es/internacional/parodia-armada-revolucion-bolivariana-20250829191001-nt.html",
+        "date": "2025-08-30 01:12:14",
+        "sentiment_score": -0.07860866189002991
+    },
+    {
+        "title": "No coloques escobas detrás de la puerta: según el Feng Shui, barren tu fortuna",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3450887.jpg",
+        "tags": [
+            "buena suerte",
+            "rituales",
+            "ejercicios espirituales",
+            "consejos útiles",
+            "curiosidades y trucos",
+            "noticias interesantes",
+            "aprender y más",
+            "trucos para ahorrar",
+            "dudas y respuestas"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/08/30/2458697/coloques-escobas-detras-puerta-segun-feng-shui-barren-fortuna.html",
+        "date": "2025-08-30 02:00:01",
+        "sentiment_score": -0.5215032324194908
+    },
+    {
+        "title": "Real Madrid-Real Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3452741.jpg",
+        "tags": [
+            "xabi alonso",
+            "fútbol",
+            "laliga",
+            "jagoba arrasate",
+            "real madrid",
+            "liga ea sports",
+            "liga de naciones",
+            "copa del rey",
+            "primera división",
+            "europa league",
+            "estadio santiago bernabéu",
+            "champions league",
+            "real mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/08/30/2459715/real-madrid-real-mallorca.html",
+        "date": "2025-08-30 02:00:01",
+        "sentiment_score": 0.654546745121479
+    },
+    {
+        "title": "Pulso a la lógica en el Bernabéu",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3452957.jpg",
+        "tags": [
+            "laliga",
+            "fútbol",
+            "ultimas noticias",
+            "última hora",
+            "real madrid",
+            "liga ea sports",
+            "primera división",
+            "rcd mallorca",
+            "real mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/08/30/2459835/pulso-logica-bernabeu.html",
+        "date": "2025-08-30 02:00:01",
+        "sentiment_score": -0.29103922843933105
+    },
+    {
+        "title": "El papel emergente de España en la aceleración de la IA",
+        "image_url": "https://s2.elespanol.com/2025/08/20/actualidad/1003743893415_258115224_1706x960.jpg?contentId=1003743893415",
+        "tags": [
+            "opinión",
+            "microchip technology",
+            "tecnología",
+            "electrónica",
+            "industria"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/opinion/20250830/papel-emergente-espana-aceleracion-ia/1003743893411_12.html",
+        "date": "2025-08-30 00:49:52",
+        "sentiment_score": 0.09830508381128311
+    },
+    {
+        "title": "Vox amenaza la estabilidad de seis Gobiernos del PP con la inmigración",
+        "image_url": "https://phantom-elmundo.uecdn.es/8e4769329d91ea7698870a527bff76b7/crop/911x94/2270x1453/f/image/jpeg/assets/multimedia/imagenes/2024/03/05/17096435233688.jpg",
+        "tags": [
+            "artículos ismael poveda",
+            "vox",
+            "inmigración",
+            "pp",
+            "españa"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/08/30/68b170da21efa0b5478b4581.html",
+        "date": "2025-08-30 00:41:04",
+        "sentiment_score": 0.004140779376029968
+    },
+    {
+        "title": "Los 23 palacios históricos de Madrid cerrados al público que sólo puedes ver gratis en estos días: cómo conseguir entradas",
+        "image_url": "https://s2.elespanol.com/2025/08/29/madrid/1003743904560_258322225_1706x960.jpg?contentId=1003743904560",
+        "tags": [
+            "palacios",
+            "ocio",
+            "gratis"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20250830/palacios-historicos-madrid-cerrados-publico-solo-puedes-ver-gratis-dias-conseguir-entradas/1003743904109_0.html",
+        "date": "2025-08-30 00:35:58",
+        "sentiment_score": 0.11927738785743713
+    },
+    {
+        "title": "De ter Stegen a Mbappé: los 10 jugadores de la Liga más mediáticos",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/08/image-89.png",
+        "tags": [
+            "negocios"
+        ],
+        "link": "https://ultimasnoticias.com.ve/negocios/de-ter-stegen-a-mbappe-los-10-jugadores-de-la-liga-mas-mediaticos/",
+        "date": "2025-08-30 00:07:48",
+        "sentiment_score": 0.023491859436035156
+    },
+    {
+        "title": "Respeto más a Sarah Santaolalla que a muchos \"liberales\" de mi cuerda",
+        "image_url": "https://s2.elespanol.com/2025/08/27/actualidad/1003743902115_258276512_1706x960.jpg?contentId=1003743902115",
+        "tags": [
+            "columnas de opinión",
+            "columnas",
+            "televisión",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20250830/respeto-sarah-santaolalla-liberales-cuerda/1003743904176_12.html",
+        "date": "2025-08-30 00:00:43",
+        "sentiment_score": 0.6134206131100655
+    },
+    {
+        "title": "A la tercera tiene que ser la vencida",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/08/29/108034547-kDnG--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/tercera-vencida-20250830222809-nt.html",
+        "date": "2025-08-30 00:00:00",
+        "sentiment_score": 0.5468974392861128
+    },
+    {
+        "title": "Nativel Preciado: \"Mi madre y mi marido murieron siendo muy jóvenes. Me costó muchísimo superar ese duelo\"",
+        "image_url": "https://s2.elespanol.com/2025/05/22/actualidad/1003743769129_255793307_1706x960.jpg?contentId=1003743769129",
+        "tags": [
+            "cultura",
+            "literatura",
+            "protagonistas",
+            "escritores"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20250829/nativel-preciado-madre-marido-murieron-jovenes-costo-muchisimo-superar-duelo/1003743768700_0.html",
+        "date": "2025-08-29 23:53:14",
+        "sentiment_score": -0.299379862844944
+    },
+    {
+        "title": "Pablo González, director musical de la ópera que se estrena en Oviedo: \"‘Hänsel y Gretel’ es un tesoro que va a fascinar al Campoamor\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/082f9e9b-b68f-4d46-ae62-08ab549e29d4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ópera",
+            "público",
+            "música",
+            "niños"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/08/30/pablo-gonzalez-director-musical-opera-121068440.html",
+        "date": "2025-08-30 02:09:00",
+        "sentiment_score": 0.10719779133796692
+    },
+    {
+        "title": "Asturias ya copa el 15% de los rescates del Estado a empresas: tres conocidas firmas en la lista",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/48ee9f0d-4e72-4612-9edf-b08b65c754fb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rescates",
+            "imasa",
+            "asturias",
+            "empresas"
+        ],
+        "link": "https://www.lne.es/asturias/2025/08/30/asturias-copa-15-rescates-empresas-121064208.html",
+        "date": "2025-08-30 02:02:21",
+        "sentiment_score": -0.030929982662200928
+    },
+    {
+        "title": "Vania Arana, líder de las 'kellys': \"Sánchez dice que hay empleo y es digno; nosotras hacemos 12 horas por 700 euros\"",
+        "image_url": "https://s2.elespanol.com/2025/08/28/actualidad/1003743903696_258306364_1706x960.jpg?contentId=1003743903696",
+        "tags": [
+            "españa",
+            "turismo",
+            "pedro sánchez",
+            "empleo"
+        ],
+        "link": "https://www.elespanol.com/espana/20250830/vania-arana-lider-kellys-sanchez-dice-empleo-digno-hacemos-horas-euros/1003743903523_0.html",
+        "date": "2025-08-30 00:40:17",
+        "sentiment_score": -0.868535965681076
+    },
+    {
+        "title": "Luisa Martín, icónica actriz de 'Médico de Familia': \"He tenido momentos muy duros, de no poder pagar casi el alquiler\"",
+        "image_url": "https://s2.elespanol.com/2025/08/29/actualidad/1003743905085_258332291_1706x960.jpg?contentId=1003743905085",
+        "tags": [
+            "actrices",
+            "actriz",
+            "teatro",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250830/luisa-martin-iconica-actriz-medico-familia-momentos-duros-no-poder-pagar-alquiler/1003743905069_0.html",
+        "date": "2025-08-30 00:37:07",
+        "sentiment_score": -0.596507590264082
+    },
+    {
+        "title": "Sortear la censura franquista y mentir a Kubrick. Así fue el estreno de ‘La naranja mecánica’ en España",
+        "image_url": "https://s2.elespanol.com/2025/08/29/actualidad/1003743905151_258333557_1706x960.jpg?contentId=1003743905151",
+        "tags": [
+            "stanley kubrick",
+            "cine"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20250830/sortear-censura-franquista-mentir-kubrick-estreno-naranja-mecanica-espana/1003743905133_0.html",
+        "date": "2025-08-30 00:29:06",
+        "sentiment_score": -0.5202595442533493
+    },
+    {
+        "title": "'Las guerreras k-pop' y el éxito de las divas virtuales, la película más vista en la historia de Netflix",
+        "image_url": "https://s2.elespanol.com/2025/08/28/actualidad/1003743903489_258302190_1706x960.jpg?contentId=1003743903489",
+        "tags": [
+            "cine",
+            "estrenos de cine",
+            "netflix"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20250830/guerreras-k-pop-exito-divas-virtuales-pelicula-vista-historia-netflix/1003743903265_0.html",
+        "date": "2025-08-30 00:28:16",
+        "sentiment_score": 0.28427280485630035
+    },
+    {
+        "title": "Inicia actividades la escuela muralista en San Agustín: conozca qué tipo de formación ofrecen",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756519761621.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "escuela muralista en san agustín",
+            "escuela muralista",
+            "san agustín"
+        ],
+        "link": "https://2001online.com/comunidad/inicia-actividades-la-escuela-muralista-en-san-agustin-conozca-que-tipo-de-formacion-ofrecen-20258292230",
+        "date": "2025-08-30 02:03:00",
+        "sentiment_score": 0.21826257929205894
+    },
+    {
+        "title": "Turismo y acceso sin restricciones en EE.UU.: conoce las tres razones claves para tramitar el REAL ID",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756518894490.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "real id",
+            "identificacion t",
+            "estados unidos tramites"
+        ],
+        "link": "https://2001online.com/servicios/turismo-y-acceso-sin-restricciones-en-ee-uu-conoce-las-tres-razones-claves-para-tramitar-el-real-id-20258292200",
+        "date": "2025-08-30 02:01:00",
+        "sentiment_score": 0.4430098608136177
+    },
+    {
+        "title": "California's Great América cierra sus puertas para siempre: sepa por qué",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756515923524.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "parque",
+            "cierre",
+            "california"
+        ],
+        "link": "https://2001online.com/usa/servicios/california-s-great-america-cierra-sus-puertas-para-siempre-sepa-por-que-20258292200",
+        "date": "2025-08-30 02:00:00",
+        "sentiment_score": -0.6400129161775112
+    },
+    {
+        "title": "¿Se pueden frenar las canas con la comida? Revelan los alimentos que causan efectos milagrosos en tu cabello para mantener su color",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756395832294.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/se-pueden-frenar-las-canas-con-la-comida-revelan-los-alimentos-que-causan-efectos-milagrosos-en-tu-cabello-para-mantener-su-color-20258292200",
+        "date": "2025-08-30 02:00:00",
+        "sentiment_score": 0.7645155247300863
+    },
+    {
+        "title": "Conoce CrediAgro: la herramienta digital que permite a productores agrícolas acceder a financiamiento",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756520412310.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "crediagro"
+        ],
+        "link": "https://2001online.com/nacionales/conoce-crediagro-la-herramienta-digital-que-permite-a-productores-agricolas-acceder-a-financiamiento-20258292200",
+        "date": "2025-08-30 02:00:00",
+        "sentiment_score": 0.46187478117644787
+    },
+    {
+        "title": "Robinson Canó: la joya dominicana arropada bajo la sombra de los esteroides",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756518310877.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "república dominicana",
+            "robinson canó"
+        ],
+        "link": "https://2001online.com/deportes/robinson-cano-la-joya-dominicana-arropada-bajo-la-sombra-de-los-esteroides-202582921400",
+        "date": "2025-08-30 01:40:00",
+        "sentiment_score": 0.30567666888237
+    },
+    {
+        "title": "Miami, epicentro global: Messi, Will Smith y líderes de la F1 se unirán en una cumbre histórica",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756513790447.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "gianni infantino",
+            "will smith",
+            "fifa",
+            "miami",
+            "america business forum",
+            "lionel messi",
+            "fórmula 1",
+            "messi y will smith"
+        ],
+        "link": "https://2001online.com/deportes/miami-epicentro-global-messi-will-smith-y-lideres-de-la-f1-se-uniran-en-una-cumbre-historica-202582922150",
+        "date": "2025-08-30 01:33:34",
+        "sentiment_score": 0.4199907425791025
+    },
+    {
+        "title": "El permiso que necesitas: así obtienes la autorización para conducir en EE.UU. con tu licencia internacional",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756515075222.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "migración",
+            "licencia de conducir",
+            "pasaporte",
+            "trámites ee.uu",
+            "turismo"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-permiso-que-necesitas-asi-obtienes-la-autorizacion-para-conducir-en-ee-uu-con-tu-licencia-internacional-202582921160",
+        "date": "2025-08-30 01:16:00",
+        "sentiment_score": -0.7924186866730452
+    },
+    {
+        "title": "Un paso clave para tu vida en EE. UU.: así puedes obtener tu número del Seguro Social por primera vez",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756516146349.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ssn usa",
+            "eeuu",
+            "administración del seguro social"
+        ],
+        "link": "https://2001online.com/usa/servicios/un-paso-clave-para-tu-vida-en-ee-uu-asi-puedes-obtener-tu-numero-del-seguro-social-por-primera-vez-20258292160",
+        "date": "2025-08-30 01:06:00",
+        "sentiment_score": 0.12266132980585098
+    },
+    {
+        "title": "Petro: Ni Colombia ni la oposición venezolana deben solicitar ni alegrarse con una invasión extranjera",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756515878806.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "gustavo petro"
+        ],
+        "link": "https://2001online.com/internacionales/petro-ni-colombia-ni-la-oposicion-venezolana-deben-solicitar-ni-alegrarse-con-una-invasion-extranjera-20258292140",
+        "date": "2025-08-30 01:04:00",
+        "sentiment_score": -0.36278191208839417
     }
 ];
