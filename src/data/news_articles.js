@@ -7927,5 +7927,428 @@ export default [
         "link": "https://2001online.com/nacionales/alerta-en-las-fronteras-padrino-lopez-anuncia-nuevo-despliegue-de-militares-202583115400",
         "date": "2025-08-31 19:40:00",
         "sentiment_score": 0.07130952924489975
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 1 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "barcelona",
+            "tiempo en españa",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/01/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-1-de-septiembre/",
+        "date": "2025-09-01 01:17:24",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Un vehículo incendiado en un aparcamiento obliga a cortar el tráfico en el centro de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/56K6DLBZAREQRC4KU7KGSUNJGE.png?auth=d9797530dbfee6b47d03f662f4fe92f5ccc63ba273d8fc8560b28dac49175f90&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "coche",
+            "bomberos",
+            "vehículo",
+            "españa-noticias",
+            "madrid",
+            "fuego",
+            "europa press",
+            "españa-nacional",
+            "agencias",
+            "comunidad de madrid",
+            "incendios"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/01/un-vehiculo-incendiado-en-un-aparcamiento-obliga-a-cortar-el-trafico-en-el-centro-de-madrid/",
+        "date": "2025-09-01 00:04:55",
+        "sentiment_score": -0.21122874319553375
+    },
+    {
+        "title": "K-pop en iTunes: las 10 canciones más adictivas en España",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "itunes",
+            "noticias",
+            "españa",
+            "streaming",
+            "k-pop"
+        ],
+        "link": "https://www.infobae.com/espana/2025/08/31/k-pop-en-itunes-las-10-canciones-mas-adictivas-en-espana/",
+        "date": "2025-08-31 23:15:25",
+        "sentiment_score": 0.38632819801568985
+    },
+    {
+        "title": "Muere Víctor Terradellas, uno de los cerebros de la internacionalización del ‘procés’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DK7UIK5WFGJFHHIYV3UWNRATQ4.JPG?auth=1e947194105b9a68ac3063ad1faf35065b31df7d85c6d90d920706e762b8f146&width=1200",
+        "tags": [
+            "cataluña",
+            "independentismo",
+            "procés independentista catalán",
+            "cdc",
+            "rusia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-08-31/muere-victor-terradellas-uno-de-los-cerebros-de-la-internacionalizacion-del-proces.html",
+        "date": "2025-08-31 22:43:06",
+        "sentiment_score": -0.20600128173828125
+    },
+    {
+        "title": "\"Asegurar que Cervantes era gay es una muestra de desconocimiento e incultura\": el libro que desmonta el mito",
+        "image_url": "https://s2.elespanol.com/2025/08/30/actualidad/1003743905562_258341429_1706x960.jpg?contentId=1003743905562",
+        "tags": [
+            "letras",
+            "don quijote",
+            "miguel de cervantes saavedra"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20250901/asegurar-cervantes-gay-muestra-desconocimiento-incultura-libro-desmonta-mito/1003743905167_0.html",
+        "date": "2025-09-01 01:25:37",
+        "sentiment_score": -0.04438447952270508
+    },
+    {
+        "title": "Hotel Telefónica",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "telefonica",
+            "hotel"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/hotel-telefonica_0_2004674174.html",
+        "date": "2025-09-01 01:08:49",
+        "sentiment_score": 0.014513880014419556
+    },
+    {
+        "title": "Ni rastro de la renovación en el arbitraje: sin uniformidad en el criterio, el Real Madrid sufre los cuatro primeros escándalos",
+        "image_url": "https://s2.elespanol.com/2025/08/31/actualidad/1003743906150_258352160_1706x960.jpg?contentId=1003743906150",
+        "tags": [
+            "real madrid cf",
+            "deportes",
+            "rfef (real federación española de fútbol)",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250901/rastro-renovacion-arbitraje-sin-uniformidad-criterio-real-madrid-sufre-primeros-escandalos/1003743906148_0.html",
+        "date": "2025-09-01 00:43:56",
+        "sentiment_score": -0.9070551060140133
+    },
+    {
+        "title": "El 'Tinder' de los alquileres en Madrid: el portal viral de dos jóvenes que ayuda a estudiantes a encontrar su piso ideal",
+        "image_url": "https://s2.elespanol.com/2025/08/29/madrid/1003743905244_258335526_1706x960.jpg?contentId=1003743905244",
+        "tags": [
+            "sociedad",
+            "plataformas digitales",
+            "alquiler de viviendas",
+            "estudiantes"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20250901/tinder-alquileres-madrid-portal-viral-jovenes-ayuda-estudiantes-encontrar-piso-ideal/1003743901440_0.html",
+        "date": "2025-09-01 00:41:32",
+        "sentiment_score": 0.012277275323867798
+    },
+    {
+        "title": "Aranceles a los medicamentos: a la industria le preocupa perder ventas pero, sobre todo, inversiones (y ya está pasando)",
+        "image_url": "https://s2.elespanol.com/2025/08/30/actualidad/1003743905660_258343877_1706x960.jpg?contentId=1003743905660",
+        "tags": [
+            "observatorio de la sanidad",
+            "medicamentos",
+            "industria farmacéutica",
+            "aranceles"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20250901/aranceles-medicamentos-industria-preocupa-perder-ventas-inversiones-pasando/1003743905649_0.html",
+        "date": "2025-09-01 00:09:51",
+        "sentiment_score": -0.6958761401474476
+    },
+    {
+        "title": "31 AGO 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/31-ago-2025-tertulion-domingos-20250901_3205848.html",
+        "date": "2025-08-31 23:57:24",
+        "sentiment_score": -0.11390608549118042
+    },
+    {
+        "title": "Interior blinda la cárcel para proteger a Santos Cerdán",
+        "image_url": "https://phantom-elmundo.uecdn.es/057f77cfc4892cc67158a1d1f6d8fd5d/crop/122x0/1362x1240/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468504313638.jpg",
+        "tags": [
+            "uco",
+            "guardia civil",
+            "psoe",
+            "santos cerdán",
+            "leire díez",
+            "josé luis ábalos",
+            "artículos gema peñalosa"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/09/01/68b46ac521efa00a5f8b4582.html",
+        "date": "2025-08-31 23:55:43",
+        "sentiment_score": 0.020302698016166687
+    },
+    {
+        "title": "Brilló en el Real Madrid y el Bayern Múnich, jugó tres Mundiales, ganó una Champions y a los 41 años debutó en el pádel profesional",
+        "image_url": "https://www.infobae.com/resizer/v2/X5EXNIN6KVDLVILBES5SQGIH6U.jpg?auth=f1f63d1258817f67d15548cbed6feea9cb17e803891532f7a98128d37c89914c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "real madrid",
+            "deportes-internacional",
+            "bayern múnich",
+            "arjen robben",
+            "pádel",
+            "selección de países bajos",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/08/31/brillo-en-el-real-madrid-y-el-bayern-munich-jugo-tres-mundiales-gano-una-champions-y-a-los-41-anos-debuto-en-el-padel-profesional/",
+        "date": "2025-08-31 23:44:37",
+        "sentiment_score": 0.7772728279232979
+    },
+    {
+        "title": "Los graves problemas en el VAR, protagonistas en El Tertulión de los domingos de Tiempo de Juego",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/09/01/68b4d47cea80d.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/graves-problemas-var-protagonistas-tertulion-domingos-juego-20250901_3205843.html",
+        "date": "2025-08-31 23:19:04",
+        "sentiment_score": -0.028576552867889404
+    },
+    {
+        "title": "El mayor enemigo del Barça es el propio Barça: la gran misión de Flick tras una temporada brillante",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/01/culemania/primer-equipo/1003742685246_15079636_1706x960.jpg?contentId=1003742685246",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20250831/enemigo-barca-propio-mision-flick-temporada-brillante/1003742685196_0.html",
+        "date": "2025-08-31 23:18:33",
+        "sentiment_score": -0.9274085126817226
+    },
+    {
+        "title": "Blanca Fernández, alcaldesa de barrio: \"Ya tocaba que la gran inversión se hiciera aquí, Ventanielles se ha revalorizado\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ef0e88d0-a768-4213-9271-8297e57c0860_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gente",
+            "halterofilia",
+            "palacio de los deportes",
+            "ventanielles"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/09/01/blanca-fernandez-alcaldesa-barrio-tocaba-121114747.html",
+        "date": "2025-09-01 02:08:00",
+        "sentiment_score": 0.49032315611839294
+    },
+    {
+        "title": "Paisajes Urbanos: El Faro de Avilés",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7c7b5a76-b63b-4537-bdc2-7445074575cc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "espacio",
+            "puerto",
+            "tierra",
+            "avilés"
+        ],
+        "link": "https://www.lne.es/aviles/2025/09/01/paisajes-urbanos-faro-aviles-121114147.html",
+        "date": "2025-09-01 02:02:53",
+        "sentiment_score": -0.2732074111700058
+    },
+    {
+        "title": "Comienza el juicio: cara a cara entre Iñaki Williams y un aficionado del Espanyol por gritos racistas; se juega dos años de cárcel",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2022/09/inaki_williams_espanyol_racismo-e1663318744808-750x410.jpg",
+        "tags": [
+            "primer equipo y club"
+        ],
+        "link": "https://www.lagradaonline.com/rcd-espanyol/juicio-aficionado-espanyol-gritos-racistas-inaki-williams/",
+        "date": "2025-09-01 02:00:50",
+        "sentiment_score": -0.37393591552972794
+    },
+    {
+        "title": "Una flotilla solidaria contra la carnicería en Gaza",
+        "image_url": "https://uh.gsstatic.es/autor/editorial/32.png",
+        "tags": [
+            "medio de comunicación",
+            "editorial",
+            "prensa digital",
+            "última hora",
+            "grupo serra"
+        ],
+        "link": "https://www.ultimahora.es/opinion/editorial/2025/09/01/2460647/flotilla-solidaria-contra-carniceria-gaza.html",
+        "date": "2025-09-01 02:00:02",
+        "sentiment_score": -0.27212247252464294
+    },
+    {
+        "title": "Un verano lleno de estrellas",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3455463.jpg",
+        "tags": [
+            "famosos en mallorca",
+            "sociedad",
+            "tendencias",
+            "última hora",
+            "verano en mallorca"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/09/01/2460759/verano-lleno-estrellas.html",
+        "date": "2025-09-01 02:00:02",
+        "sentiment_score": -0.15204115211963654
+    },
+    {
+        "title": "El error inadvertido que cometes al dormir y que podría estar saboteando tu descanso nocturno, según el Feng Shui",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3451891.jpg",
+        "tags": [
+            "trucos para ahorrar",
+            "espiritualidad",
+            "curiosidades y trucos",
+            "ia-discover",
+            "noticias interesantes",
+            "consejos útiles",
+            "aprender y más",
+            "buena suerte",
+            "dudas y respuestas",
+            "audiencias-um"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/09/01/2459191/error-inadvertido-cometes-dormir-podria-estar-saboteando-descanso-nocturno-segun-feng-shui.html",
+        "date": "2025-09-01 02:00:01",
+        "sentiment_score": -0.3512099087238312
+    },
+    {
+        "title": "Cataluña, a la estela de Extremadura, también tendrá un plan de captación de talento digital y tecnológico",
+        "image_url": "https://s2.elespanol.com/2025/08/28/actualidad/1003743903305_258298403_1706x960.jpg?contentId=1003743903305",
+        "tags": [
+            "talento",
+            "tecnología",
+            "cataluña",
+            "innovación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/cataluna/20250901/cataluna-estela-extremadura-plan-captacion-talento-digital-tecnologico/1003743903273_0.html",
+        "date": "2025-09-01 01:37:03",
+        "sentiment_score": -0.47867298871278763
+    },
+    {
+        "title": "Arranca la construcción del Campus de Ciencia, Tecnología e Innovación de Bogotá",
+        "image_url": "https://s2.elespanol.com/2025/08/24/actualidad/1003743897463_258191745_1706x960.jpg?contentId=1003743897463",
+        "tags": [
+            "tecnología",
+            "bogotá",
+            "ciencia",
+            "colombia"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/america-tech/colombia/20250901/arranca-construccion-campus-ciencia-tecnologia-innovacion-bogota/1003743897454_0.html",
+        "date": "2025-09-01 01:35:58",
+        "sentiment_score": 0.6761880200356245
+    },
+    {
+        "title": "Jugador del Barcelona explota contra el arbitraje español (+Declaraciones)",
+        "image_url": "https://pxcdn.meridiano.net/082025/1756687590432.jpg?ch=180&cw=320",
+        "tags": [
+            "business",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/jugador-del-barcelona-explota-contra-el-arbitraje-espanol-declaraciones--202583120420",
+        "date": "2025-09-01 00:57:00",
+        "sentiment_score": -0.7785403877496719
+    },
+    {
+        "title": "Hidratación, fortaleza y elasticidad: esta es la súper vitamina que tu cabello necesita para lucir como una top model",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756392325749.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/hidratacion-fortaleza-y-elasticidad-esta-es-la-super-vitamina-que-tu-cabello-necesita-para-lucir-como-una-top-model-20258312200",
+        "date": "2025-09-01 02:00:00",
+        "sentiment_score": 0.7589705986902118
+    },
+    {
+        "title": "Predicciones de la semana del 1 al 7 de septiembre",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756494733406.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-1-al-7-de-septiembre--20258312200",
+        "date": "2025-09-01 02:00:00",
+        "sentiment_score": -0.17589403688907623
+    },
+    {
+        "title": "Nuevo atentado en cuartel policial de Colombia: confirman la cifra de heridos",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756693151250.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cauca",
+            "#colombia"
+        ],
+        "link": "https://2001online.com/internacionales/nuevo-atentado-en-cuartel-policial-de-colombia-confirman-la-cifra-de-heridos-202583121510",
+        "date": "2025-09-01 01:51:00",
+        "sentiment_score": -0.5508305206894875
+    },
+    {
+        "title": "Accidente de tránsito en Mérida deja varios heridos: autobús impacta contra una vivienda",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756689294354.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "mérida",
+            "accidente de tránsito"
+        ],
+        "link": "https://2001online.com/sucesos/accidente-de-transito-en-merida-deja-varios-heridos-autobus-impacta-contra-una-vivienda-202583121170",
+        "date": "2025-09-01 01:17:00",
+        "sentiment_score": -0.8565010745078325
+    },
+    {
+        "title": "Cientos de duques, condes, barones y marqueses: en estos países está la mayor cantidad de nobles de todo el planeta",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756682585780.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "nobleza",
+            "la sangre azul",
+            "reino unido",
+            "españa",
+            "títulos nobiliarios"
+        ],
+        "link": "https://2001online.com/usa/internacionales/cientos-de-duques-condes-barones-y-marqueses-en-estos-paises-esta-la-mayor-cantidad-de-nobles-de-todo-el-planeta-20258312100",
+        "date": "2025-09-01 01:00:00",
+        "sentiment_score": -0.14563517272472382
+    },
+    {
+        "title": "Ataques de tiburones en EE.UU.: nueve playas de un mismo estado concentran la mayoría de los incidentes",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756687415723.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "florida",
+            "tiburones en florida",
+            "ataque de tiburones"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ataques-de-tiburones-en-ee-uu-nueve-playas-de-un-mismo-estado-concentran-la-mayoria-de-los-incidentes-202583120450",
+        "date": "2025-09-01 00:45:00",
+        "sentiment_score": -0.08629950881004333
+    },
+    {
+        "title": "Star Wars amplía su repertorio: estas dos estrellas de Hollywood se unen a la franquicia",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756687590256.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "matt smith",
+            "amy adams",
+            "star wars",
+            "ryan gosling"
+        ],
+        "link": "https://2001online.com/farandula/star-wars-amplia-su-repertorio-estas-dos-estrellas-de-hollywood-se-unen-a-la-franquicia-202583120390",
+        "date": "2025-09-01 00:39:00",
+        "sentiment_score": 0.16933848150074482
+    },
+    {
+        "title": "Nuevas normativas para conductores de autobuses escolares en Utah: conoce el trágico caso que impulsó el cambio",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756682848713.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "autobuses escolares",
+            "utah texas"
+        ],
+        "link": "https://2001online.com/usa/internacionales/nuevas-normativas-para-conductores-de-autobuses-escolares-en-utah-conoce-el-tragico-caso-que-impulso-el-cambio-202583120100",
+        "date": "2025-09-01 00:11:00",
+        "sentiment_score": 0.08944788202643394
+    },
+    {
+        "title": "Ciudadanía EE. UU.: sepa qué es el Buen Carácter Moral que evalúa USCIS y cómo te afecta en la entrevista",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756520627352.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ciudadanía",
+            "entrevista",
+            "ee.uu."
+        ],
+        "link": "https://2001online.com/usa/servicios/ciudadania-ee-uu-sepa-que-es-el-buen-caracter-moral-que-evalua-uscis-y-como-te-afecta-en-la-entrevista-20258312000",
+        "date": "2025-09-01 00:00:00",
+        "sentiment_score": 0.6124537102878094
+    },
+    {
+        "title": "Conmoción en Chile: muere hincha de Colo Colo minutos antes del clásico por este trágico motivo",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756685468679.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "#chile",
+            "colo colo",
+            "u. de chile"
+        ],
+        "link": "https://2001online.com/deportes/conmocion-en-chile-muere-hincha-de-colo-colo-minutos-antes-del-clasico-por-este-tragico-motivo-202583119530",
+        "date": "2025-08-31 23:53:00",
+        "sentiment_score": 0.4979380965232849
     }
 ];
