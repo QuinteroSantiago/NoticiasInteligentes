@@ -178,127 +178,6 @@ export default [
         "sentiment_score": -0.9105703188106418
     },
     {
-        "title": "La construcción de un parking en Madrid desvela un cementerio impulsado por Carlos IV",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/X3LJ4V7TPNAIRMC4QLWFOQVW7I.jpg?auth=6ddfe45fc026f7ca3c3dcc65d0de1163846809e422252e51295aac08842c0389&width=1200",
-        "tags": [
-            "huesos",
-            "restos arqueológicos",
-            "aparcamientos",
-            "madrid",
-            "siglo xix",
-            "comunidad de madrid",
-            "josé luis martínez almeida"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-08-29/la-construccion-de-un-parking-en-madrid-desvela-un-cementerio-impulsado-por-carlos-iv.html",
-        "date": "2025-08-29 13:54:07",
-        "sentiment_score": 0.01571796089410782
-    },
-    {
-        "title": "5 planes gratis del 29 de agosto al 5 de septiembre: un códice del siglo III y un campeonato de escalada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DR73SH5ETVFQ7P2HYFWHGSCTTA.jpg?auth=53e93fcfaa928ac25b9ffe668f8228aaa211ba48e5db57093a30305c9db33ec2&width=1200",
-        "tags": [
-            "madrid",
-            "arte",
-            "comunidad de madrid",
-            "exposiciones",
-            "patrimonio artístico",
-            "ocio",
-            "mercadillos",
-            "escalada",
-            "música",
-            "tiempo libre"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-08-29/5-planes-gratis-del-29-de-agosto-al-5-de-septiembre-un-codice-del-siglo-iii-y-un-campeonato-de-escalada.html",
-        "date": "2025-08-29 13:42:59",
-        "sentiment_score": 0.4753674864768982
-    },
-    {
-        "title": "Mañueco defiende la gestión de la Junta en los incendios entre críticas y peticiones de dimisión de la oposición y los bomberos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KBPMYUAAM5BZ3FUXY4A53C5H3Y.jpg?auth=8eda3f56a489f0d8cde01434daebacffc7e72d1b5d98aa64df9300584c47552d&width=1200",
-        "tags": [
-            "incendios forestales intencionados",
-            "españa",
-            "vox",
-            "psoe",
-            "alfonso fernández mañueco",
-            "incendiarios",
-            "castilla y león",
-            "pp",
-            "incendios forestales",
-            "ayudas públicas"
-        ],
-        "link": "https://elpais.com/espana/2025-08-29/manueco-defiende-la-gestion-de-la-junta-en-los-incendios-entre-criticas-y-peticiones-de-dimision-de-la-oposicion-y-los-bomberos.html",
-        "date": "2025-08-29 12:53:50",
-        "sentiment_score": -0.7959700860083103
-    },
-    {
-        "title": "Illa aspira a lograr una aplicación “efectiva y completa” de la ley de amnistía durante el nuevo curso político",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NRGOJVW6OZL3FHQ2CYA7MM7NPE.jpg?auth=e465b8ee9187005125d75fdd9b0d8796143807e0686b50b003d4ca79361ec310&width=1200",
-        "tags": [
-            "cataluña",
-            "salvador illa",
-            "competencias autonómicas",
-            "govern cataluña",
-            "bosques"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-29/illa-aspira-a-lograr-una-aplicacion-efectiva-y-completa-de-la-ley-de-amnistia-durante-el-nuevo-curso-politico.html",
-        "date": "2025-08-29 12:44:51",
-        "sentiment_score": 0.07880360633134842
-    },
-    {
-        "title": "Mauritania localiza al menos 70 cadáveres tras el naufragio de un cayuco que iba rumbo a Canarias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/B2IVJSOIFRH23SYS5TV4ZWGF2E.jpg?auth=b239089deeebcf3fff3a0528c409c434287d54f1f11df120daef42d599724cc9&width=1200",
-        "tags": [
-            "españa",
-            "migrantes",
-            "inmigración",
-            "naufragios",
-            "canarias",
-            "mauritania"
-        ],
-        "link": "https://elpais.com/espana/2025-08-29/mauritania-localiza-al-menos-70-cadaveres-tras-el-naufragio-de-un-cayuco-que-iba-rumbo-a-canarias.html",
-        "date": "2025-08-29 11:41:35",
-        "sentiment_score": -0.35773561149835587
-    },
-    {
-        "title": "La nueva temporada de congresos en Barcelona comienza con la promesa de llenar los hoteles",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/A7IPPVZ6KRBS3HI2JJGP6N2OF4.jpg?auth=6501da9091ee670449139a7d609d8b131b6e0c821e6efcc521cecdac24a73c0d&width=1200",
-        "tags": [
-            "hoteles",
-            "ayuntamiento barcelona",
-            "vivienda",
-            "mobile world capital",
-            "investigación médica",
-            "congresos",
-            "cataluña",
-            "comercio",
-            "investigación científica",
-            "ocupación hotelera",
-            "mwc",
-            "govern cataluña",
-            "barcelona",
-            "innovación",
-            "generalitat cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-08-29/la-nueva-temporada-de-congresos-en-barcelona-comienza-con-la-promesa-de-llenar-los-hoteles.html",
-        "date": "2025-08-29 11:01:42",
-        "sentiment_score": 0.06036499887704849
-    },
-    {
-        "title": "El Gobierno declara la contingencia migratoria en Canarias, Ceuta y Melilla",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NKSXCHN73FE5VDUJNXEBZ7YVLM.jpg?auth=6e45d7f80624d29f15573b47c1d846dfda44efd6f5983251d8006c40376ebe46&width=1200",
-        "tags": [
-            "menores migrantes",
-            "españa",
-            "inmigración irregular",
-            "inmigración",
-            "inmigración irregular españa"
-        ],
-        "link": "https://elpais.com/espana/2025-08-29/el-gobierno-declara-la-contingencia-migratoria-en-canarias-ceuta-y-melilla.html",
-        "date": "2025-08-29 10:44:24",
-        "sentiment_score": 0.12647899985313416
-    },
-    {
         "title": "El alquiler medio alcanza los 7,22€ por metro cuadrado en CLM",
         "image_url": "https://www.latribunadetoledo.es/media/img/2024/81760208-d5a8-05c4-599ea880373ad45e.jpg",
         "tags": [
@@ -8078,5 +7957,395 @@ export default [
         "link": "https://2001online.com/nacionales/oficial-esto-lleva-recaudado-el-seniat-en-lo-que-va-de-ano-20259115210",
         "date": "2025-09-01 19:21:00",
         "sentiment_score": 0.08740821480751038
+    },
+    {
+        "title": "¿Eres alérgico? Ten cuidado con este alimento con alérgeno no declarado",
+        "image_url": "https://www.infobae.com/resizer/v2/FIM3BDQVXJHHPJRZV7HPZTFGEU.jpg?auth=542fa3206ac7b85dbd66cacb07ae944fd1c47083fe4741192b741c805bdd283f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "aesan",
+            "alertas sanitarias",
+            "espana-noticias",
+            "alergías",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/02/peres-alergico-ten-cuidado-con-este-alimento-con-alergeno-no-declarado-p/",
+        "date": "2025-09-02 02:15:28",
+        "sentiment_score": -0.5616399049758911
+    },
+    {
+        "title": "Clima en Madrid: cuál será la temperatura máxima y mínima este 2 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "madrid",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/02/clima-en-madrid-cual-sera-la-temperatura-maxima-y-minima-este-2-de-septiembre/",
+        "date": "2025-09-02 01:30:57",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Reporte meteorológico: las temperaturas que se esperan en Barcelona este 2 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "barcelona",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/02/reporte-meteorologico-las-temperaturas-que-se-esperan-en-barcelona-este-2-de-septiembre/",
+        "date": "2025-09-02 01:16:56",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "La entrevista de Sánchez en 7 frases: “Soy incompatible con cualquier forma de corrupción”",
+        "image_url": "https://www.infobae.com/resizer/v2/SM2RAKR2QFCI3DZQB7H47BJ3IA.png?auth=2404a88f910e4053acdb2afeb8a0f6db7937bbaa299fd0246ad51028ece1b837&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "programas de televisión",
+            "santos cerdán",
+            "españa-noticias",
+            "política españa",
+            "españa-nacional",
+            "congreso de los diputados",
+            "presupuestos",
+            "begoña gómez",
+            "pedro sánchez",
+            "pepa bueno",
+            "gobierno de españa",
+            "rtve",
+            "josé luis ábalos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/01/la-entrevista-de-sanchez-en-7-frases-soy-incompatible-con-cualquier-forma-de-corrupcion/",
+        "date": "2025-09-01 22:48:22",
+        "sentiment_score": 0.2709149569272995
+    },
+    {
+        "title": "Bélgica anuncia el reconocimiento de Palestina en septiembre para \"preservar la solución de dos Estados\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250902035556_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-belgica-anuncia-reconocimiento-palestina-septiembre-preservar-solucion-dos-estados-20250902035556.html",
+        "date": "2025-09-02 01:55:56",
+        "sentiment_score": 0.039727017283439636
+    },
+    {
+        "title": "Todo es mentira",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mentira"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/mentira_0_2004678629.html",
+        "date": "2025-09-02 01:07:58",
+        "sentiment_score": -0.8366466294974089
+    },
+    {
+        "title": "La ex primera ministra de Castillo, ingresada de urgencia tras diez días de huelga de hambre",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250902023214_120.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-ex-primera-ministra-castillo-ingresada-urgencia-diez-dias-huelga-hambre-20250902023214.html",
+        "date": "2025-09-02 00:32:14",
+        "sentiment_score": -0.8484562207013369
+    },
+    {
+        "title": "El Real Valladolid 25-26 cierra el mercado falto de cabeza y sobrado de piernas",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/09/02/montoPucelabu-kS2F-U2302797442342TWD-1200x840@El%20Norte.jpg",
+        "tags": [
+            "getafe club de fútbol",
+            "valencia club de fútbol"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/real-valladolid-2526-cierra-mercado-falto-cabeza-20250902021514-nt.html",
+        "date": "2025-09-02 00:15:14",
+        "sentiment_score": -0.0058110058307647705
+    },
+    {
+        "title": "La condonación de la deuda autonómica es una amenaza para la economía",
+        "image_url": "https://s2.elespanol.com/2025/09/01/actualidad/1003743906632_258361001_1706x960.jpg?contentId=1003743906632",
+        "tags": [
+            "psoe (partido socialista obrero español)",
+            "opinión",
+            "invertia"
+        ],
+        "link": "https://www.elespanol.com/invertia/20250902/condonacion-deuda-autonomica-amenaza-economia/1003743906513_12.html",
+        "date": "2025-09-02 00:08:07",
+        "sentiment_score": -0.9175904896110296
+    },
+    {
+        "title": "Cabezón ya sueña con recibir a un rival de Primera",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/09/01/108116790-kRwF--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "primera",
+            "recibir",
+            "suena",
+            "rival",
+            "cabezon"
+        ],
+        "link": "https://www.eldiariomontanes.es/deportes/futbol/cabezon-suena-recibir-rival-primera-20250902072937-nt.html",
+        "date": "2025-09-02 00:00:00",
+        "sentiment_score": 0.3616078309714794
+    },
+    {
+        "title": "El centrocampista español Marco Asensio deja el PSG y ficha por el Fenerbahce",
+        "image_url": "https://www.infobae.com/resizer/v2/5VJP2Y5YLJEYNFLSG6ZBLPQRC4.jpg?auth=87afc01a7191dd565cc8819c7f18a133a79ad0e7428b2e5fbe2ee20cf84fe364&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/09/01/el-centrocampista-espanol-marco-asensio-deja-el-psg-y-ficha-por-el-fenerbahce/",
+        "date": "2025-09-01 23:45:20",
+        "sentiment_score": -0.03555139899253845
+    },
+    {
+        "title": "Lo mejor de lo que viene: las diez exposiciones imprescindibles de la temporada de otoño",
+        "image_url": "https://s2.elespanol.com/2025/09/01/actualidad/1003743907219_258371083_1706x960.jpg?contentId=1003743907219",
+        "tags": [
+            "arte",
+            "exposiciones"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20250901/mejor-viene-exposiciones-imprescindibles-temporada-otono/1003743906655_0.html",
+        "date": "2025-09-01 23:43:27",
+        "sentiment_score": 0.14515821635723114
+    },
+    {
+        "title": "El futbolista Sergio Ramos le canta a «Cibeles» y se ve ganando un Grammy",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/09/01/sergio-ramos-canta-a-cibeles-madrid-orix/",
+        "date": "2025-09-01 23:03:44",
+        "sentiment_score": 0.33525601029396057
+    },
+    {
+        "title": "Marco Asensio deja el PSG y ficha por el Fenerbahce",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250902010233_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-marco-asensio-deja-psg-ficha-fenerbahce-20250902010233.html",
+        "date": "2025-09-01 23:02:33",
+        "sentiment_score": 0.13256292045116425
+    },
+    {
+        "title": "El viaje en tren de Asturias a Madrid no volverá al entorno de las tres horas hasta finales de octubre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7555495f-58da-45df-bfd7-ac1be6ce29e1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "madrid",
+            "asturias",
+            "renfe"
+        ],
+        "link": "https://www.lne.es/asturias/2025/09/02/viaje-tren-asturias-madrid-volvera-121143821.html",
+        "date": "2025-09-02 02:07:00",
+        "sentiment_score": -0.5993038900196552
+    },
+    {
+        "title": "Pilar Arnau: «Hoy Llompart estaría a favor de que se organizaran campañas de autoestima lingüística»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3456653.jpg",
+        "tags": [
+            "josep maria llompart",
+            "pilar arnau",
+            "catalán en baleares",
+            "cultura en mallorca",
+            "cultura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/09/02/2461403/pilar-arnau-hoy-llompart-estaria-favor-organizaran-campanas-autoestima-linguistica.html",
+        "date": "2025-09-02 02:00:01",
+        "sentiment_score": -0.027512013912200928
+    },
+    {
+        "title": "Pep Cabrer, esos años de trenes y fútbol",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3457005.jpg",
+        "tags": [
+            "fútbol",
+            "primera división",
+            "real mallorca",
+            "europa league",
+            "champions league",
+            "liga de naciones",
+            "laliga",
+            "copa del rey"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/09/02/2461573/pep-cabrer-esos-anos-trenes-futbol.html",
+        "date": "2025-09-02 02:00:01",
+        "sentiment_score": 0.07401540875434875
+    },
+    {
+        "title": "La alerta silenciosa que podría estar saboteando tu progreso personal desde un rincón olvidado, según el Feng Shui",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3452141.jpg",
+        "tags": [
+            "ia-discover",
+            "audiencias-um",
+            "dudas y respuestas",
+            "curiosidades y trucos",
+            "noticias interesantes",
+            "consejos útiles",
+            "ejercicios espirituales",
+            "aprender y más",
+            "trucos para ahorrar"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/09/02/2459359/alerta-silenciosa-podria-estar-saboteando-progreso-personal-desde-rincon-olvidado-segun-feng-shui.html",
+        "date": "2025-09-02 02:00:01",
+        "sentiment_score": 0.4867078587412834
+    },
+    {
+        "title": "No es diálogo, es chantaje y sumisión",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "chantaje",
+            "no",
+            "sumision",
+            "dialogo"
+        ],
+        "link": "https://www.granadahoy.com/opinion/editorial/no-dialogo-chantaje-sumision_0_2004678649.html",
+        "date": "2025-09-02 01:08:23",
+        "sentiment_score": -0.08704683184623718
+    },
+    {
+        "title": "España y Europa deben aterrizar",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "deben",
+            "espana",
+            "europa",
+            "aterrizar"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/espana-europa-deben-aterrizar_0_2004678641.html",
+        "date": "2025-09-02 01:08:11",
+        "sentiment_score": 0.19702544808387756
+    },
+    {
+        "title": "Elogio de la complejidad",
+        "image_url": "https://static.grupojoly.com/clip/296bdf5e-971e-4ffa-b088-d14fdda0ed5b_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "complejidad",
+            "elogio"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/tribuna/elogio-complejidad_0_2004678623.html",
+        "date": "2025-09-02 01:07:55",
+        "sentiment_score": -0.33694519102573395
+    },
+    {
+        "title": "Esta es la mejor pieza musical para combatir las convulsiones de la epilepsia: la recomienda la Universidad de Harvard",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756493918084.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/esta-es-la-mejor-pieza-musical-para-combatir-las-convulsiones-de-la-epilepsia-la-recomienda-la-universidad-de-harvard-2025912200",
+        "date": "2025-09-02 02:00:00",
+        "sentiment_score": 0.8123914105817676
+    },
+    {
+        "title": "Atención emprendedores: así puede solicitar crédito y punto de venta en el Banco Digital de los Trabajadores",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756777597391.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "emprendimiento",
+            "financiamiento",
+            "venezuela",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/servicios/atencion-emprendedores-asi-puede-solicitar-credito-y-punto-de-venta-en-el-banco-digital-de-los-trabajadores-20259121520",
+        "date": "2025-09-02 01:52:00",
+        "sentiment_score": 0.038022205233573914
+    },
+    {
+        "title": "Guía de jubilación: ¿Quieres tus beneficios? Te decimos cómo solicitar el Seguro Social en EE. UU.",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756777163083.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "jubilación",
+            "beneficios del ssa",
+            "seguro social ee.uu."
+        ],
+        "link": "https://2001online.com/usa/servicios/guia-de-jubilacion-quieres-tus-beneficios-te-decimos-como-solicitar-el-seguro-social-en-ee-uu--20259121340",
+        "date": "2025-09-02 01:34:00",
+        "sentiment_score": 0.42803601548075676
+    },
+    {
+        "title": "Jennifer López es considerada la reina de los escenarios a sus 55 años: ¿cuál es el secreto?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756777048040.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "jennifer lópez",
+            "gira up all night"
+        ],
+        "link": "https://2001online.com/farandula/jennifer-lopez-es-considerada-la-reina-de-los-escenarios-a-sus-55-anos-cual-es-el-secreto--20259121270",
+        "date": "2025-09-02 01:27:00",
+        "sentiment_score": 0.7054398097097874
+    },
+    {
+        "title": "De jugar en campos improvidados a ser leyenda viva: la dura vida de Nelson Cruz antes de brillar en la MLB",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756776974054.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "nelson cruz",
+            "twins de minnesota"
+        ],
+        "link": "https://2001online.com/deportes/de-jugar-en-campos-improvidados-a-ser-leyenda-viva-la-dura-vida-de-nelson-cruz-antes-de-brillar-en-la-mlb-20259121240",
+        "date": "2025-09-02 01:24:00",
+        "sentiment_score": 0.5856094732880592
+    },
+    {
+        "title": "Travesía vinotinto ¿cuál es el presupuesto para viajar a Maturín en el crucial partido ante Colombia?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756775846246.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "la vinotinto",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/deportes/travesia-vinotinto-cual-es-el-presupuesto-para-viajar-a-maturin-en-el-crucial-partido-ante-colombia--2025912110",
+        "date": "2025-09-02 01:01:00",
+        "sentiment_score": 0.02867817133665085
+    },
+    {
+        "title": "Desde presentaciones de JLo hasta un vestido con cola de 25 metros: las bodas más caras y exóticas de las celebridades multimillonarias",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756389052633.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "las bodas mas caras",
+            "bodas",
+            "wedding planner"
+        ],
+        "link": "https://2001online.com/usa/internacionales/desde-presentaciones-de-jlo-hasta-un-vestido-con-cola-de-25-metros-las-bodas-mas-caras-y-exoticas-de-las-celebridades-multimillonarias-2025912100",
+        "date": "2025-09-02 01:00:00",
+        "sentiment_score": -0.02277320623397827
+    },
+    {
+        "title": "Carta astral de Ricardo Montaner: Entérate cuál es el compromiso que tiene con los venezolanos",
+        "image_url": "https://pxcdn.2001online.com/2001/082025/1756486104046.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/carta-astral-de-ricardo-montaner-enterate-cual-es-el-compromiso-que-tiene-con-los-venezolanos--2025912100",
+        "date": "2025-09-02 01:00:00",
+        "sentiment_score": 0.4346471056342125
+    },
+    {
+        "title": "Texas cambia algunas leyes desde septiembre: incluye normativa para escuelas y vías públicas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756774651671.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "leyes",
+            "septiembre",
+            "texas"
+        ],
+        "link": "https://2001online.com/usa/servicios/texas-cambia-algunas-leyes-desde-septiembre-incluye-normativa-para-escuelas-y-vias-publicas-2025912100",
+        "date": "2025-09-02 01:00:00",
+        "sentiment_score": -0.48913366720080376
+    },
+    {
+        "title": "Revelan posible fecha de inicio de las redadas ICE en Illinois: crece el temor en la comunidad inmigrante",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756742386736.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "deportación",
+            "migrantes",
+            "redadas ice",
+            "detención",
+            "chicago",
+            "illinois",
+            "estados unidos"
+        ],
+        "link": "https://2001online.com/usa/migracion/revelan-posible-fecha-de-inicio-de-las-redadas-ice-en-illinois-crece-el-temor-en-la-comunidad-inmigrante-20259120250",
+        "date": "2025-09-02 00:25:00",
+        "sentiment_score": -0.7867988254874945
     }
 ];
