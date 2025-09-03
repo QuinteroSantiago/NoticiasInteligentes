@@ -113,30 +113,6 @@ export default [
         "sentiment_score": -0.27818580344319344
     },
     {
-        "title": "Protección Civil señala una \"evolución muy favorable\" de la situación de los 7 incendios activos en España",
-        "image_url": "https://www.infobae.com/resizer/v2/PQ6FPNKFHFAJZN62H4YGJRI3HY.jpg?auth=8c69acb9caf36ce26d0fb679a8f838ed8b541e02bf88432788feea8f44315319&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/08/30/proteccion-civil-senala-una-evolucion-muy-favorable-de-la-situacion-de-los-7-incendios-activos-en-espana/",
-        "date": "2025-08-30 14:19:18",
-        "sentiment_score": 0.30868133902549744
-    },
-    {
-        "title": "Top 10 de los podcasts más escuchados hoy de Spotify España",
-        "image_url": "https://www.infobae.com/resizer/v2/6S7XXSIS4NDBJLGM3XL7TQEDB4.jpg?auth=2be31b3374b286343bf685f11cec47515394655728c2c825bb274120ee9bb929&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "spotify",
-            "noticias",
-            "streaming",
-            "españa-television",
-            "podcast"
-        ],
-        "link": "https://www.infobae.com/espana/2025/08/30/top-10-de-los-podcasts-mas-escuchados-hoy-de-spotify-espana/",
-        "date": "2025-08-30 14:15:33",
-        "sentiment_score": 0.6539430990815163
-    },
-    {
         "title": "Hallada muerta Matilde Muñoz, la mujer desaparecida desde hacía dos meses en Indonesia",
         "image_url": "https://imagenes.elpais.com/resizer/v2/YVQRT2BHYNHTDJAUFUQ4MASGRY.jpg?auth=029b0649177ab430716b65f05c43fe51ee80ff73a3dfbcd446bcd777753b1d75&width=1200",
         "tags": [
@@ -167,42 +143,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-08-30/una-mujer-de-59-anos-muere-ahogada-en-una-playa-de-calafell-tarragona.html",
         "date": "2025-08-30 14:54:12",
         "sentiment_score": -0.8833907721564174
-    },
-    {
-        "title": "Suspendida la circulación de AVE entre Madrid y Andalucía por un incendio en el vagón de un tren en Ciudad Real",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FNBR6KXRWVD2LAVYOCAUXHFUAU.jpg?auth=023050c882a7c16ea0e2ab87a58414ae101a2c1d7959dde6137dcf52e28ec922&width=1200",
-        "tags": [
-            "adif",
-            "sucesos",
-            "bomberos",
-            "renfe",
-            "guardia civil",
-            "trenes",
-            "españa",
-            "incendios"
-        ],
-        "link": "https://elpais.com/espana/2025-08-30/evacuados-210-pasajeros-por-un-incendio-en-el-vagon-de-un-tren-en-ciudad-real.html",
-        "date": "2025-08-30 13:26:39",
-        "sentiment_score": -0.33787135779857635
-    },
-    {
-        "title": "RTVE sale en defensa de la colaboradora Sarah Santaolalla tras los ataques del PP",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2IS4FCFPKNMXVGC4OPKEKSD72A.jpg?auth=0fe9a9b0c563c68214e785b862f282c652eab02da3cbcc722850c495b578e2f8&width=1200",
-        "tags": [
-            "pedro sánchez",
-            "televisión",
-            "tve",
-            "miguel tellado",
-            "pp",
-            "congreso diputados",
-            "españa",
-            "rtve",
-            "josé pablo lópez",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://elpais.com/espana/2025-08-30/rtve-sale-en-defensa-de-la-colaboradora-sarah-santaolalla-tras-los-ataques-del-pp.html",
-        "date": "2025-08-30 12:36:05",
-        "sentiment_score": -0.9060067804530263
     },
     {
         "title": "El Atlético sigue atascado",
@@ -8355,5 +8295,398 @@ export default [
         "link": "https://2001online.com/farandula/todo-listo-para-el-esperado-reencuentro-de-hilda-abrahamz-y-jean-carlo-simancas-se-juntaran-en-un-escenario-2025921620",
         "date": "2025-09-02 20:02:00",
         "sentiment_score": 0.10208704322576523
+    },
+    {
+        "title": "Málaga: el pronóstico del clima para este 3 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/HGCQQBREJFG3HOXFG7QBSMNCJQ.png?auth=61e42083d629851aa0c8752556cbd10c287b99213f35efecf1dbb0797359aec9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa sociedad",
+            "málaga",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/03/malaga-el-pronostico-del-clima-para-este-3-de-septiembre/",
+        "date": "2025-09-03 02:16:02",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Pronóstico del estado del tiempo en Barcelona para este 3 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa sociedad",
+            "españa noticias",
+            "barcelona",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/03/pronostico-del-estado-del-tiempo-en-barcelona-para-este-3-de-septiembre/",
+        "date": "2025-09-03 01:16:53",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "¿Leyendas de Real Madrid y Barcelona en el Estadio Monumental de Lima? Lo que se sabe del partido entre figuras mundiales",
+        "image_url": "https://www.infobae.com/resizer/v2/LJUMQQCBANATTAVHZRGYCPNG4A.jpg?auth=18519b82353122e129758e6fcbb48167fc48cd5db6b562013258b788dcd6ee49&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "peru-deportes",
+            "real madrid",
+            "fc barcelona"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/09/03/leyendas-de-real-madrid-y-barcelona-en-el-estadio-monumental-de-lima-lo-que-se-sabe-del-partido-entre-figuras-mundiales/",
+        "date": "2025-09-03 02:15:12",
+        "sentiment_score": -0.07117713987827301
+    },
+    {
+        "title": "¿Se hunde Milei?",
+        "image_url": "https://uh.gsstatic.es/autor/jose-antonio-perez-montiel/11327.png",
+        "tags": [
+            "medio de comunicación",
+            "artículos de opinión",
+            "grupo serra",
+            "tribuna",
+            "prensa digital"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/09/03/2462161/hunde-milei.html",
+        "date": "2025-09-03 02:00:01",
+        "sentiment_score": 0.13393431901931763
+    },
+    {
+        "title": "El sorpresivo dardo de Dani Carvajal a Carlo Ancelotti tras la salida del técnico",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/09/dd4c17e85af7eb53c55d685154bf4e4a6353502dw.jpg",
+        "tags": [
+            "titulares",
+            "real madrid",
+            "deportes",
+            "dani carvajal",
+            "xabi alonso",
+            "carlo ancelotti"
+        ],
+        "link": "https://lapatilla.com/2025/09/02/el-sorpresivo-dardo-de-dani-carvajal-a-carlo-ancelotti-tras-la-salida-del-tecnico/",
+        "date": "2025-09-03 01:17:35",
+        "sentiment_score": 0.5056770667433739
+    },
+    {
+        "title": "Edwin y Patricio fueron a por cerveza y acabaron enterrados en el sótano del okupa detenido: \"Habrá más detenciones\"",
+        "image_url": "https://s2.elespanol.com/2025/08/31/actualidad/1003743906169_258352532_1706x960.jpg?contentId=1003743906169",
+        "tags": [
+            "reportajes",
+            "personas desaparecidas",
+            "mazarrón"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250903/edwin-patricio-cerveza-acabaron-enterrados-sotano-okupa-detenido-detenciones/1003743908597_0.html",
+        "date": "2025-09-03 00:41:55",
+        "sentiment_score": -0.6960942968726158
+    },
+    {
+        "title": "La solución para evitar miles de infartos: un estetoscopio que detecta afecciones cardíacas en segundos gracias a la IA",
+        "image_url": "https://s2.elespanol.com/2025/09/01/omicrono/tecnologia/1003743907092_258368896_1706x960.jpg?contentId=1003743907092",
+        "tags": [
+            "ataque cardíaco",
+            "españa",
+            "tecnología sanitaria",
+            "tecnología"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20250903/solucion-evitar-miles-infartos-estetoscopio-detecta-afecciones-cardiacas-segundos-gracias-ia/1003743906640_0.html",
+        "date": "2025-09-03 00:41:50",
+        "sentiment_score": 0.5825588218867779
+    },
+    {
+        "title": "Los 100 días de Xabi Alonso en el banquillo del Real Madrid: un nuevo modelo que deja varios ganadores en la plantilla",
+        "image_url": "https://s2.elespanol.com/2025/09/02/actualidad/1003743909372_258409329_1706x960.jpg?contentId=1003743909372",
+        "tags": [
+            "xabi alonso",
+            "fútbol",
+            "real madrid cf",
+            "kylian mbappé"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250903/dias-xabi-alonso-banquillo-real-madrid-nuevo-modelo-deja-varios-ganadores-plantilla/1003743909364_0.html",
+        "date": "2025-09-03 00:41:29",
+        "sentiment_score": -0.10201579332351685
+    },
+    {
+        "title": "Sergio Ramos debuta como cantante con el sencillo “Cibeles”: un colombiano está detrás de la producción",
+        "image_url": "https://www.infobae.com/resizer/v2/HOQSGNJH7JAQHDFUMW6N52ATQE.png?auth=7e24755193caca14482f43cb116d1ec8f167ff2fc85bf05643f671a36a228f0d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "ovy on the drums",
+            "colombia-noticias",
+            "colombia-entretenimiento",
+            "cibeles",
+            "sergio ramos"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/09/03/sergio-ramos-debuta-como-cantante-con-el-sencillo-cibeles-un-colombiano-esta-detras-de-la-produccion/",
+        "date": "2025-09-03 00:34:46",
+        "sentiment_score": 0.7483116611838341
+    },
+    {
+        "title": "Cuando ya no creemos lo que vemos: la era de la sospecha visual",
+        "image_url": "https://s2.elespanol.com/2025/09/02/actualidad/1003743908697_258397005_1706x960.jpg?contentId=1003743908697",
+        "tags": [
+            "columnas de opinión",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20250903/no-creemos-vemos-sospecha-visual/1003743907977_13.html",
+        "date": "2025-09-03 00:21:08",
+        "sentiment_score": -0.4594147205352783
+    },
+    {
+        "title": "La Infantería de Marina exhibe sus capacidades en el 'Eagle Flight 25': fuego real con morteros de 81 mm en Rumanía",
+        "image_url": "https://s2.elespanol.com/2025/09/01/actualidad/1003743907167_258370364_1706x960.jpg?contentId=1003743907167",
+        "tags": [
+            "fuerzas armadas",
+            "otan",
+            "observatorio de la defensa"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20250903/infanteria-marina-exhibe-capacidades-eagle-flight-fuego-real-morteros-mm-rumania/1003743907016_0.html",
+        "date": "2025-09-03 00:21:07",
+        "sentiment_score": 0.5947533436119556
+    },
+    {
+        "title": "Las CCAA del PP rechazarán en bloque la quita de deuda alegando que sólo favorece la estrategia financiera catalana",
+        "image_url": "https://s2.elespanol.com/2025/09/02/actualidad/1003743909477_258411393_1706x960.jpg?contentId=1003743909477",
+        "tags": [
+            "financiación autonómica",
+            "comunidades autónomas",
+            "deuda pública",
+            "fla",
+            "partido popular (pp)",
+            "política",
+            "cataluña"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250903/ccaa-pp-rechazaran-bloque-quita-deuda-alegando-solo-favorece-estrategia-financiera-catalana/1003743908606_0.html",
+        "date": "2025-09-03 00:20:48",
+        "sentiment_score": -0.485773466527462
+    },
+    {
+        "title": "DuPont garantiza a la plantilla la continuidad de sus fábricas y del centro de servicios pese a la venta",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4962ac59-3973-44fd-8bd3-c4af37815e38_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "plantilla",
+            "españa",
+            "dupont",
+            "asturias"
+        ],
+        "link": "https://www.lne.es/asturias/2025/09/03/dupont-garantiza-plantilla-continuidad-fabricas-121179701.html",
+        "date": "2025-09-03 02:00:16",
+        "sentiment_score": -0.07999424636363983
+    },
+    {
+        "title": "Una feria con sabor a marisco",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3457947.jpg",
+        "tags": [
+            "tendencias",
+            "sociedad",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/09/03/2462063/feria-sabor-marisco.html",
+        "date": "2025-09-03 02:00:01",
+        "sentiment_score": 0.3248550519347191
+    },
+    {
+        "title": "Baleares, paraíso de moteros, cambia los ciclomotores por los microcoches",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3456465.jpg",
+        "tags": [
+            "palma",
+            "local",
+            "matriculación de vehículos",
+            "motos en mallorca",
+            "ultimas noticias",
+            "palma de mallorca",
+            "conducir en mallorca",
+            "coches en baleares",
+            "moteros",
+            "ciclomotor",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/09/03/2461259/baleares-paraiso-moteros-cambia-ciclomotores-por-microcoches.html",
+        "date": "2025-09-03 02:00:01",
+        "sentiment_score": 0.7144084684550762
+    },
+    {
+        "title": "De 'narcoyate' en Baleares a formar parte de la Flotilla rumbo a Gaza: el oscuro pasado del 'Alma'",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3458417.jpg",
+        "tags": [
+            "local",
+            "grupo terrorista",
+            "ada colau",
+            "gaza",
+            "narcotráfico",
+            "tráfico de drogas en mallorca",
+            "ultimas noticias",
+            "lucía muñoz",
+            "tráfico de drogas",
+            "palma de mallorca",
+            "hamás",
+            "israel",
+            "franja de gaza",
+            "palma",
+            "greta thunberg",
+            "conflicto israel-palestina",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/09/03/2462299/narcoyate-baleares-formar-parte-mision-humanitaria-oscuro-pasado-uno-barcos-flotilla.html",
+        "date": "2025-09-03 02:00:01",
+        "sentiment_score": -0.7882122360169888
+    },
+    {
+        "title": "Lucía Muñoz a bordo de la Flotilla: «Cada amenaza de Israel reafirma nuestra convicción de cumplir nuestra misión y llegar a Gaza»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3457595.jpg",
+        "tags": [
+            "local",
+            "grupo terrorista",
+            "genocidio",
+            "flotilla de la libertad",
+            "ejército israelí",
+            "ofensiva en gaza",
+            "ultimas noticias",
+            "palma de mallorca",
+            "hamás",
+            "ayuda humanitaria",
+            "franja de gaza",
+            "palma",
+            "conflicto israel-palestina",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/09/03/2461763/lucia-munoz-amenazas-del-estado-terrorista-van-amedrentarnos.html",
+        "date": "2025-09-03 02:00:01",
+        "sentiment_score": -0.9156302949413657
+    },
+    {
+        "title": "Pilar Cerdà mira a lo «más esencial» en ‘La saviesa de la incertesa’",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3458111.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/09/03/2462179/pilar-cerda-mira-mas-esencial-saviesa-incertesa.html",
+        "date": "2025-09-03 02:00:01",
+        "sentiment_score": 0.20774522423744202
+    },
+    {
+        "title": "Abogado invita a los \"creadores de contenido\" a tomar conciencia sobre la labor que ejercen",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "otras"
+        ],
+        "link": "https://eltiempove.com/abogado-invita-a-los-creadores-de-contenido-a-tomar-conciencia-sobre-la-labor-que-ejercen/",
+        "date": "2025-09-03 01:22:56",
+        "sentiment_score": -0.5667654015123844
+    },
+    {
+        "title": "Más allá de la polémica: ¿a qué se dedican Érika y Patricia Schwarzgruber?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756865754747.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "patricia schwarzgruber",
+            "erika schwarzgruber"
+        ],
+        "link": "https://2001online.com/farandula/mas-alla-de-la-polemica-a-que-se-dedican-erika-y-patricia-schwarzgruber--20259222130",
+        "date": "2025-09-03 02:13:00",
+        "sentiment_score": -0.6218523159623146
+    },
+    {
+        "title": "Sin experiencia en tribunales: El audaz cambio de jueces para inmigración que ordena Trump",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756865177826.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "tribunales",
+            "militares",
+            "trump"
+        ],
+        "link": "https://2001online.com/usa/internacionales/sin-experiencia-en-tribunales-el-audaz-cambio-de-jueces-para-inmigracion-que-ordena-trump-2025922260",
+        "date": "2025-09-03 02:06:00",
+        "sentiment_score": -0.8290112279355526
+    },
+    {
+        "title": "¡Alerta en parques y fiestas infantiles! El trampolín que usan tus niños no es tan inocente como parece: estos son los peligros para músculos y huesos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756753489696.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/alerta-en-parques-y-fiestas-infantiles-el-trampolin-que-usan-tus-ninos-no-es-tan-inocente-como-parece-estos-son-los-peligros-para-musculos-y-huesos-2025922200",
+        "date": "2025-09-03 02:00:00",
+        "sentiment_score": 0.4619412086904049
+    },
+    {
+        "title": "Tecnología ambiental: ¿Cómo funcionan las nuevas estaciones móviles de pruebas de emisiones en Chicago?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756864254968.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "plan piloto",
+            "chicago",
+            "emision de gases"
+        ],
+        "link": "https://2001online.com/usa/servicios/tecnologia-ambiental-como-funcionan-las-nuevas-estaciones-moviles-de-pruebas-de-emisiones-en-chicago--20259221460",
+        "date": "2025-09-03 01:46:00",
+        "sentiment_score": 0.6142825502902269
+    },
+    {
+        "title": "Bancamiga lidera el sistema financiero con los límites de transacción más altos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756863809138.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "límites",
+            "bancamiga",
+            "banca venezolana",
+            "transacciones",
+            "atención al cliente"
+        ],
+        "link": "https://2001online.com/servicios/bancamiga-lidera-el-sistema-financiero-con-los-limites-de-transaccion-mas-altos-20259221430",
+        "date": "2025-09-03 01:43:00",
+        "sentiment_score": 0.6762484852224588
+    },
+    {
+        "title": "¿Sabes cómo rastrear un reembolso del IRS? Te damos las claves para recibir tu dinero a tiempo",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756863218888.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "cheques de reembolso",
+            "buscar reembolso",
+            "irs"
+        ],
+        "link": "https://2001online.com/usa/servicios/sabes-como-rastrear-un-reembolso-del-irs-te-damos-las-claves-para-recibir-tu-dinero-a-tiempo-20259221290",
+        "date": "2025-09-03 01:29:00",
+        "sentiment_score": 0.47483684308826923
+    },
+    {
+        "title": "CrediMax revoluciona las compras tecnológicas en Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756861764673.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "electrodomésticos",
+            "multimax",
+            "credimax",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/servicios/credimax-revoluciona-las-compras-tecnologicas-en-venezuela-20259221110",
+        "date": "2025-09-03 01:11:00",
+        "sentiment_score": 0.5167634226381779
+    },
+    {
+        "title": "Cuando la resiliencia sube al montículo: la conmovedora historia de Carlos Carrasco y su victoria contra el cáncer",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756860729814.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "carlos carrasco"
+        ],
+        "link": "https://2001online.com/deportes/cuando-la-resiliencia-sube-al-monticulo-la-conmovedora-historia-de-carlos-carrasco-y-su-victoria-contra-el-cancer-20259220430",
+        "date": "2025-09-03 00:43:00",
+        "sentiment_score": 0.7491140961647034
+    },
+    {
+        "title": "Virginia decide su destino: ¿Quién liderará el estado en el Congreso y la gobernación en 2026?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756856474718.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "elecciones",
+            "claves",
+            "virginia"
+        ],
+        "link": "https://2001online.com/usa/internacionales/virginia-decide-su-destino-quien-liderara-el-estado-en-el-congreso-y-la-gobernacion-en-2026--2025922000",
+        "date": "2025-09-03 00:00:00",
+        "sentiment_score": 0.13045868650078773
+    },
+    {
+        "title": "Freddy Ñánez sobre video de EEUU: Es muy probable que sea creado con IA",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756858182026.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "donald trump",
+            "freddy ñáñez",
+            "marco rubio"
+        ],
+        "link": "https://2001online.com/nacionales/freddy-nanez-sobre-video-de-eeuu-es-muy-probable-que-sea-creado-con-ia-20259219490",
+        "date": "2025-09-02 23:49:00",
+        "sentiment_score": -0.4604337811470032
     }
 ];
