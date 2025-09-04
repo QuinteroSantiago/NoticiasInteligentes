@@ -208,23 +208,6 @@ export default [
         "sentiment_score": -0.8781418269500136
     },
     {
-        "title": "La directora de protección civil da por extinguida la crisis por los incendios: “Este trágico episodio de la historia de España ha finalizado”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XXPSOZ6LXRLHJBRODM4XQPJPGU.jpg?auth=9c5102099b849a72cb330ece20ef38796c135ef23cf6f6ff2046d1c574a78339&width=1200",
-        "tags": [
-            "castilla y león",
-            "ministerio del interior",
-            "galicia",
-            "incendiarios",
-            "protección civil",
-            "españa",
-            "incendios forestales",
-            "incendios"
-        ],
-        "link": "https://elpais.com/espana/2025-08-31/la-directora-de-proteccion-civil-da-por-extinguida-la-crisis-por-los-incendios-este-tragico-episodio-de-la-historia-de-espana-ha-finalizado.html",
-        "date": "2025-08-31 11:12:45",
-        "sentiment_score": 0.15025892853736877
-    },
-    {
         "title": "El Real Madrid, cruzado con el VAR, presume de alas",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -8725,5 +8708,483 @@ export default [
         "link": "https://2001online.com/deportes/estos-son-los-juegos-de-la-nfl-que-tendra-meridiano-esta-semana--20259316180",
         "date": "2025-09-03 20:18:00",
         "sentiment_score": 0.3926671911031008
+    },
+    {
+        "title": "Localizan a 53 migrantes llegados en cuatro pateras a Baleares",
+        "image_url": "https://www.infobae.com/resizer/v2/T3GSEHHWI5CIDM5OGT6PZ545DY.jpg?auth=3f8bec783bd81852a78a710cd23aa5b511b04874605df9d669401f2b7528f91f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "formentera",
+            "rescates en pateras",
+            "baleares",
+            "españa-noticias",
+            "guardia civil",
+            "pateras",
+            "migrantes",
+            "ibiza"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/04/localizan-a-53-migrantes-llegados-en-cuatro-pateras-a-baleares/",
+        "date": "2025-09-04 01:39:49",
+        "sentiment_score": -0.20329289883375168
+    },
+    {
+        "title": "Las últimas previsiones para Madrid: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "madrid",
+            "tiempo en españa",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/04/las-ultimas-previsiones-para-madrid-temperatura-lluvias-y-viento/",
+        "date": "2025-09-04 01:31:19",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Podemos e IU apoyan a los docentes encerrados en el Círculo de Bellas Artes para exigir el embargo de armas a Israel",
+        "image_url": "https://www.infobae.com/resizer/v2/RKMD2L47IRGWTOZIXAIM2VCNKQ.jpg?auth=152474550defcdc08cd8b16542738c28da147b6fae80bb207c4d9046db7fbbbc&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/04/podemos-e-iu-apoyan-a-los-docentes-encerrados-en-el-circulo-de-bellas-artes-para-exigir-el-embargo-de-armas-a-israel/",
+        "date": "2025-09-04 00:15:47",
+        "sentiment_score": -0.37642786651849747
+    },
+    {
+        "title": "Las 10 películas de Netflix en España para engancharse este día",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "netflix",
+            "streaming",
+            "españa-televisión",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/03/las-10-peliculas-de-netflix-en-espana-para-engancharse-este-dia/",
+        "date": "2025-09-03 23:30:56",
+        "sentiment_score": 0.525107815861702
+    },
+    {
+        "title": "Estas son las películas que están de moda en Prime Video España este día",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "prime video",
+            "streaming",
+            "españa-televisión",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/09/03/estas-son-las-peliculas-que-estan-de-moda-en-prime-video-espana-este-dia/",
+        "date": "2025-09-03 23:30:39",
+        "sentiment_score": 0.47161141596734524
+    },
+    {
+        "title": "Crímenes ahuyentan a la carmelinas: 10 monjas dejan Perú por ‘extrema inseguridad’ y reabren convento cerrado en España",
+        "image_url": "https://www.infobae.com/resizer/v2/ZLRMNYOPNVBF5DGWTXNHG3WMGI.png?auth=fc3f249c3befe951e6a1cfe66b2229457c5a28e0903f6597c232927d9aa3ca57&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "chancay",
+            "lima",
+            "inseguridad",
+            "monjas",
+            "españa",
+            "peru-noticias",
+            "iglesia"
+        ],
+        "link": "https://www.infobae.com/peru/2025/09/03/crimenes-ahuyentan-a-la-carmelinas-10-monjas-dejan-peru-por-extrema-inseguridad-y-reabren-convento-cerrado-en-espana/",
+        "date": "2025-09-03 23:19:42",
+        "sentiment_score": 0.4210691303014755
+    },
+    {
+        "title": "Cupón Diario de la Once: resultados del 3 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "cupón diario",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/03/cupon-diario-de-la-once-resultados-del-3-de-septiembre/",
+        "date": "2025-09-03 23:15:27",
+        "sentiment_score": 0.11362245678901672
+    },
+    {
+        "title": "Migraña, una enfermedad invisible que se sufre en familia",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/08/27/FamiliaPatriciaRipoll-RAIG9A9SZMrtGql4tonI3IP-1200x840@diario_abc.JPG",
+        "tags": [
+            "hijos",
+            "migraña",
+            "ciencia",
+            "familia"
+        ],
+        "link": "https://www.abc.es/salud/migrana-enfermedad-invisible-sufre-familia-20250827105651-nt.html",
+        "date": "2025-09-03 23:57:36",
+        "sentiment_score": -0.17827874422073364
+    },
+    {
+        "title": "La primera mujer en el gobierno de la Real Maestranza de Sevilla",
+        "image_url": "https://static.grupojoly.com/clip/3e9fc16f-4585-4ecf-8485-cab70237f74c_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gobierno",
+            "real",
+            "maestranza",
+            "primera",
+            "mujer"
+        ],
+        "link": "https://www.diariodesevilla.es/la-caja-negra/primera-mujer-gobierno-real-maestranza_0_2004688932.html",
+        "date": "2025-09-04 02:00:12",
+        "sentiment_score": -0.1279870569705963
+    },
+    {
+        "title": "El juez estrecha el cerco sobre Begoña Gómez al negar Deloitte haber accedido al 'software' por el que cobró 75.000€ de la UCM",
+        "image_url": "https://s2.elespanol.com/2025/09/04/actualidad/1003743910978_258438243_1706x1279.jpg?contentId=1003743910978",
+        "tags": [
+            "ucm (universidad complutense de madrid)",
+            "hazte oír",
+            "google",
+            "corrupción",
+            "begoña gómez",
+            "pedro sánchez",
+            "tribunales"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20250904/juez-estrecha-cerco-begona-gomez-negar-deloitte-accedido-software-cobro-ucm/1003743910799_0.html",
+        "date": "2025-09-04 01:17:49",
+        "sentiment_score": -0.6951126530766487
+    },
+    {
+        "title": "Anabel Mateos llevó la cuenta de Huawei en Acento mientras su marido era director adjunto del Gabinete de Sánchez",
+        "image_url": "https://s2.elespanol.com/2025/09/03/actualidad/1003743910918_258437031_1706x960.jpg?contentId=1003743910918",
+        "tags": [
+            "gobierno de españa",
+            "huawei",
+            "josé blanco lópez",
+            "periodismo de investigación",
+            "antonio hernando",
+            "política",
+            "psoe (partido socialista obrero español)"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250904/anabel-mateos-llevo-cuenta-huawei-acento-marido-director-adjunto-gabinete-sanchez/1003743910429_0.html",
+        "date": "2025-09-04 00:46:22",
+        "sentiment_score": -0.38432395458221436
+    },
+    {
+        "title": "Sanidad retrasa la subvención de 100 euros para gafas y lentillas a niños y adolescentes a finales de año",
+        "image_url": "https://s2.elespanol.com/2025/09/03/actualidad/1003743910722_258433512_1706x960.jpg?contentId=1003743910722",
+        "tags": [
+            "sanidad - actualidad sanitaria",
+            "ministerio de sanidad",
+            "gafas",
+            "subvenciones",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20250904/sanidad-retrasa-subvencion-euros-gafas-lentillas-ninos-adolescentes-finales-ano/1003743910165_0.html",
+        "date": "2025-09-04 00:46:20",
+        "sentiment_score": 0.08763826638460159
+    },
+    {
+        "title": "El invento para apagar los incendios de coches eléctricos de forma rápida y segura: ha sido diseñado por bomberos",
+        "image_url": "https://s2.elespanol.com/2025/09/03/omicrono/tecnologia/1003743909990_258426141_1706x960.jpg?contentId=1003743909990",
+        "tags": [
+            "incendios",
+            "vehículo eléctrico",
+            "tecnología",
+            "bomberos"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20250904/invento-apagar-incendios-coches-electricos-forma-rapida-segura-disenado-bomberos/1003743909764_0.html",
+        "date": "2025-09-04 00:46:18",
+        "sentiment_score": 0.5574512928724289
+    },
+    {
+        "title": "Feijóo informó a la Casa Real de que no iría al año judicial para no normalizar la humillación a un Poder del Estado",
+        "image_url": "https://s2.elespanol.com/2025/09/03/espana/politica/1003743910927_258437259_1706x960.jpg?contentId=1003743910927",
+        "tags": [
+            "álvaro garcía ortiz",
+            "cgpj",
+            "política",
+            "fiscalía general del estado",
+            "felipe vi",
+            "alberto núñez feijóo",
+            "poder judicial",
+            "psoe (partido socialista obrero español)",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250904/feijoo-informo-casa-real-no-iria-ano-judicial-normalizar-humillacion-poder/1003743910731_0.html",
+        "date": "2025-09-04 00:45:19",
+        "sentiment_score": -0.5949097014963627
+    },
+    {
+        "title": "La nueva era del deporte: entérate cuáles son los fichajes más caros en la historia del fútbol",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756947422782.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "mercado de fichajes",
+            "parís saint germain",
+            "psg",
+            "neymar jr.",
+            "fútbol",
+            "zidane",
+            "real madrid",
+            "fichajes",
+            "liverpool",
+            "florian wirtz"
+        ],
+        "link": "https://2001online.com/deportes/la-nueva-era-del-deporte-enterate-cuales-son-los-fichajes-mas-caros-en-la-historia-del-futbol-20259321350",
+        "date": "2025-09-04 00:36:07",
+        "sentiment_score": -0.8585090804845095
+    },
+    {
+        "title": "Una remontada y un pacto: así fueron las clasificaciones de Colombia para los mundiales de 2014 y 2018",
+        "image_url": "https://www.infobae.com/resizer/v2/UUQM2RNK25AIVGZNDXJWF3IBE4.png?auth=540430cba34c26f62a0d21daa659f78fa36be01f880573d5a928bd9d56db35ef&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "mundial",
+            "2026",
+            "colombia-deportes",
+            "selección colombia",
+            "clasificación",
+            "eliminatorias",
+            "conmebol"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/09/04/una-remontada-y-un-pacto-asi-fueron-las-clasificaciones-de-colombia-para-los-mundiales-de-2014-y-2018/",
+        "date": "2025-09-04 00:35:24",
+        "sentiment_score": 0.2077743597328663
+    },
+    {
+        "title": "Escalar, el reto europeo que España debe liderar",
+        "image_url": "https://s2.elespanol.com/2025/09/01/actualidad/1003743906819_258364176_1706x960.jpg?contentId=1003743906819",
+        "tags": [
+            "opinión",
+            "tribunas de opinión",
+            "emprendedores",
+            "emprendedores de éxito",
+            "tecnología",
+            "innovación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/opinion/20250904/escalar-reto-europeo-espana-debe-liderar/1003743906809_12.html",
+        "date": "2025-09-04 00:17:02",
+        "sentiment_score": 0.4023234397172928
+    },
+    {
+        "title": "Memoria y polémica en el Pazo de Meirás: la batalla entre el Gobierno, los Franco y el activismo gallego",
+        "image_url": "https://s2.elespanol.com/2025/09/03/actualidad/1003743910807_258435052_1706x960.jpg?contentId=1003743910807",
+        "tags": [
+            "historia",
+            "francisco franco",
+            "memoria histórica"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/historia/20250904/memoria-polemica-pazo-meiras-batalla-gobierno-franco-activismo-gallego/1003743910714_0.html",
+        "date": "2025-09-04 00:14:48",
+        "sentiment_score": -0.7245361283421516
+    },
+    {
+        "title": "Súper Segunda RFEF",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3459675.jpg",
+        "tags": [
+            "primera división",
+            "copa del rey",
+            "laliga",
+            "europa league",
+            "liga de naciones",
+            "champions league",
+            "fútbol"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/09/04/2462995/super-segunda-rfef.html",
+        "date": "2025-09-04 02:00:02",
+        "sentiment_score": 0.11083728447556496
+    },
+    {
+        "title": "Los escudos de los pueblos de Mallorca. Historia, patrimonio y heráldica parlante (X)",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3459455.jpg",
+        "tags": [
+            "historia de mallorca",
+            "historia de baleares",
+            "historia",
+            "curiosidades de palma"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/historia/2025/09/04/2462911/els-escuts-dels-pobles-mallorca-historia-patrimoni-heraldica-parlant-4.html",
+        "date": "2025-09-04 02:00:02",
+        "sentiment_score": 0.4148797318339348
+    },
+    {
+        "title": "Las Fiestas de la Encina se marcan un cartel musical \"histórico\"",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/69/10/8/leiva-entrevista.jpeg",
+        "tags": [
+            "el bierzo"
+        ],
+        "link": "https://www.lanuevacronica.com/el-bierzo/fiestas-encina-se-marcan-cartel-musical-historico_181647_102.html",
+        "date": "2025-09-04 02:00:00",
+        "sentiment_score": 0.4740932881832123
+    },
+    {
+        "title": "Así funciona Revolut: Lo que se esconde tras los ingresos récord de esta 'neobanca'",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/09/whatsapp-image-2025-09-02-at-222848_1600_1067.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://elcierredigital.com/economia/asi-funciona-revolut-que-esconden-ingresos-record-neobanca",
+        "date": "2025-09-04 02:00:00",
+        "sentiment_score": 0.414322379976511
+    },
+    {
+        "title": "Aston Villa publicó la decisión que tomó con Dibu Martínez tras la polémica por su negociación con el Manchester United",
+        "image_url": "https://www.infobae.com/resizer/v2/LJ3JRDHQZRDANAJDNIGUY64HLE.jpg?auth=74cfc6041d9bffae0f69ae935b5f4a1d2ec5074806fd383282f73cd09be09d32&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "dibu martínez",
+            "selección argentina",
+            "deportes-internacional",
+            "la scaloneta",
+            "deportes-argentina",
+            "aston villa"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/04/aston-villa-publico-la-decision-que-tomo-con-dibu-martinez-tras-la-polemica-por-su-negociacion-con-el-manchester-united/",
+        "date": "2025-09-04 01:56:23",
+        "sentiment_score": -0.1465982049703598
+    },
+    {
+        "title": "Una España de juzgado ‘The Guardian’: el último tren del sanchismo",
+        "image_url": "https://s2.elespanol.com/2025/09/03/actualidad/1003743910882_258436543_1706x960.jpg?contentId=1003743910882",
+        "tags": [
+            "gobierno de españa",
+            "salvador illa roca",
+            "política",
+            "cataluña",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250904/espana-juzgado-the-guardian-ultimo-tren-sanchismo/1003743909972_0.html",
+        "date": "2025-09-04 00:46:21",
+        "sentiment_score": -0.28377704322338104
+    },
+    {
+        "title": "Los recortes de Ryanair en España ponen en peligro el récord de los 100 millones de turistas internacionales",
+        "image_url": "https://s2.elespanol.com/2025/09/03/actualidad/1003743910363_258427429_1706x960.jpg?contentId=1003743910363",
+        "tags": [
+            "aena",
+            "turismo"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20250904/recortes-ryanair-espana-ponen-peligro-record-millones-turistas-internacionales/1003743910314_0.html",
+        "date": "2025-09-04 00:29:21",
+        "sentiment_score": 0.32361306995153427
+    },
+    {
+        "title": "Récord de muertes en centros de detención: inmigrante de este país se convierte en la nueva víctima fatal en EE. UU.",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756947294916.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "inmigrantes",
+            "detenidos",
+            "centros"
+        ],
+        "link": "https://2001online.com/usa/internacionales/record-de-muertes-en-centros-de-detencion-inmigrante-de-este-pais-se-convierte-en-la-nueva-victima-fatal-en-ee-uu--20259322100",
+        "date": "2025-09-04 02:10:00",
+        "sentiment_score": -0.13467207178473473
+    },
+    {
+        "title": "Los Medias Rojas de Boston: la historia de un equipo que se negó a perder",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756951231408.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "medias rojas de boston",
+            "david ortiz",
+            "boston",
+            "major league baseball",
+            "béisbol",
+            "fenway park",
+            "historia de los boston red sox",
+            "boston red sox",
+            "mlb"
+        ],
+        "link": "https://2001online.com/deportes/los-medias-rojas-de-boston-la-historia-de-un-equipo-que-se-nego-a-perder-20259322450",
+        "date": "2025-09-04 02:06:23",
+        "sentiment_score": 0.8206390291452408
+    },
+    {
+        "title": "EE. UU. anuncia fin del TPS para venezolanos: ¿qué opciones legales les quedan a los migrantes?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756947736696.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "migrantes",
+            "opciones",
+            "tps"
+        ],
+        "link": "https://2001online.com/usa/servicios/ee-uu-anuncia-fin-del-tps-para-venezolanos-que-opciones-legales-les-quedan-a-los-migrantes--2025932200",
+        "date": "2025-09-04 02:00:00",
+        "sentiment_score": 0.06731316074728966
+    },
+    {
+        "title": "Diosdado Cabello a EEUU: Tienen que demostrar que el ataque a la embarcación en el Caribe es real",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756949861083.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "venezuela",
+            "diario 2001",
+            "eeuu",
+            "narcotráfico"
+        ],
+        "link": "https://2001online.com/usa/nacionales/diosdado-cabello-a-eeuu-tienen-que-demostrar-que-el-ataque-a-la-embarcacion-en-el-caribe-es-real-20259321470",
+        "date": "2025-09-04 01:47:00",
+        "sentiment_score": -0.04850710928440094
+    },
+    {
+        "title": "Ayuda alimentaria en EE. UU.: así puede conseguir comida gratis en caso de emergencia",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756950165795.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "eeuu",
+            "ayuda alimentaria",
+            "comida gratis"
+        ],
+        "link": "https://2001online.com/usa/servicios/ayuda-alimentaria-en-ee-uu-asi-puede-conseguir-comida-gratis-en-caso-de-emergencia--20259321390",
+        "date": "2025-09-04 01:39:00",
+        "sentiment_score": 0.012183152139186859
+    },
+    {
+        "title": "¿Temporada de incendios en California? Así puedes mantenerte a salvo del fuego",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756949146505.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "incendios california",
+            "recomendaciones"
+        ],
+        "link": "https://2001online.com/usa/internacionales/temporada-de-incendios-en-california-asi-puedes-mantenerte-a-salvo-del-fuego-20259321190",
+        "date": "2025-09-04 01:19:00",
+        "sentiment_score": -0.8661967292428017
+    },
+    {
+        "title": "Movimiento MeToo: un vistazo por ocho años de acusaciones y controversias",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756948871587.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "metoo",
+            "harvey weinstein",
+            "alyssa milano"
+        ],
+        "link": "https://2001online.com/farandula/movimiento-metoo-un-vistazo-por-ocho-anos-de-acusaciones-y-controversias-20259321110",
+        "date": "2025-09-04 01:11:00",
+        "sentiment_score": -0.11987147107720375
+    },
+    {
+        "title": "Descubra la recompensa millonaria por denunciar proveedores de pastillas abortivas: está ley abre una nueva era en el sur de EE. UU.",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756948230127.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "recompensa",
+            "aborto",
+            "pastillas"
+        ],
+        "link": "https://2001online.com/usa/servicios/descubra-la-recompensa-millonaria-por-denunciar-proveedores-de-pastillas-abortivas-esta-ley-abre-una-nueva-era-en-el-sur-de-ee-uu--20259321100",
+        "date": "2025-09-04 01:10:00",
+        "sentiment_score": 0.09276028349995613
+    },
+    {
+        "title": "Powerball: con estos trucos que nadie usa puedes ganarte el premio mayor por 1 300 millones de dólares",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756945481152.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "premio",
+            "powerball",
+            "ganar"
+        ],
+        "link": "https://2001online.com/usa/servicios/powerball-con-estos-trucos-que-nadie-usa-puedes-ganarte-el-premio-mayor-por-1-300-millones-de-dolares-2025932100",
+        "date": "2025-09-04 01:00:00",
+        "sentiment_score": 0.6741054598242044
+    },
+    {
+        "title": "Filadelfia invertirá 100 millones de dolares en festividades: conozca cómo postular su evento comunitario o local a la celebración",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756946985810.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "eventos",
+            "filadelfia",
+            "dinero"
+        ],
+        "link": "https://2001online.com/usa/servicios/filadelfia-invertira-100-millones-de-dolares-en-festividades-conozca-como-postular-su-evento-comunitario-o-local-a-la-celebracion--20259320490",
+        "date": "2025-09-04 00:49:00",
+        "sentiment_score": 0.016930419951677322
     }
 ];
