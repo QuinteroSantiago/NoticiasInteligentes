@@ -181,65 +181,6 @@ export default [
         "sentiment_score": -0.14089417457580566
     },
     {
-        "title": "Mantén tu hogar fresco y con este ventilador de torre silencioso y eficiente de Cecotec por menos de 35€",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2025/09/01/Elmejorventiladortorrecondescuento-RgAxMmT7XzsmRO91NQFR9aJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "ventilador",
-            "fresco",
-            "cecotec",
-            "manten",
-            "eficiente",
-            "torre",
-            "hogar",
-            "35e",
-            "silencioso"
-        ],
-        "link": "https://www.abc.es/favorito/manten-hogar-fresco-ventilador-torre-silencioso-eficiente-20250901153708-nt.html",
-        "date": "2025-09-01 13:37:34",
-        "sentiment_score": 0.03887715935707092
-    },
-    {
-        "title": "La cadena de supermercados Covirán cerró en agosto ocho aperturas en toda España",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/09/01/Cubillos-RTbnPgYueI8V5zMh0STgjKM-1200x840@diario_abc.jpeg",
-        "tags": [
-            "supermercados",
-            "andalucía"
-        ],
-        "link": "https://www.abc.es/sevilla/economia/cadena-supermercados-coviran-cerro-agosto-ocho-aperturas-20250901141832-nts.html",
-        "date": "2025-09-01 12:18:47",
-        "sentiment_score": 0.08679363131523132
-    },
-    {
-        "title": "Israel avisa de que tratará como «terroristas» a los activistas de la flotilla",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/09/01/Ben-Gvir-kG7C-U701474691385BxG-1200x840@diario_abc.jpg",
-        "tags": [
-            "benjamín netanyahu",
-            "gaza",
-            "israel",
-            "hamás",
-            "uh abc",
-            "terrorismo"
-        ],
-        "link": "https://www.abc.es/internacional/israel-avisa-tratara-terroristas-activistas-flotilla-20250901132656-nt.html",
-        "date": "2025-09-01 11:51:19",
-        "sentiment_score": -0.11483997106552124
-    },
-    {
-        "title": "Yolanda Díaz convocará «de inmediato» al comité de expertos para llevar el SMI más allá de los 1.200 euros en 2026",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/09/01/diaz-RE8VKzNCQZQQogdR12R380J-1200x840@diario_abc.jpg",
-        "tags": [
-            "salario",
-            "hipotecas",
-            "salario mínimo interprofesional (smi)",
-            "sindicatos",
-            "trabajo",
-            "yolanda díaz"
-        ],
-        "link": "https://www.abc.es/economia/yolanda-diaz-convocara-inmediato-comite-expertos-llevar-20250901123052-nt.html",
-        "date": "2025-09-01 11:05:33",
-        "sentiment_score": -0.04810929298400879
-    },
-    {
         "title": "El Defensor del Pueblo recurrirá a petición de Compromís los cambios del Consell de Mazón a la ley ‘trans’",
         "image_url": "https://imagenes.elpais.com/resizer/v2/33SPTSGWMA4L5SOADJDOL73WGE.jpg?auth=f2cea5658e494feb23e326bcc7dfbaf2c6bed6cd573713a5368bb2d39e754959&width=1200",
         "tags": [
@@ -306,123 +247,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-09-01/el-govern-destina-17-millones-en-cuatro-nuevas-lineas-de-bus-interurbano-y-mejora-de-otras-ya-existentes.html",
         "date": "2025-09-01 14:16:21",
         "sentiment_score": 0.5038828253746033
-    },
-    {
-        "title": "Prisión para el detenido por apuñalar a su mujer y tirarla por la ventana en Manresa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5IF37UFQFZHJFBBIB5RHLCZUZM.jpg?auth=9a6e50fa36e97eee68aebdefac46b0deeab2bfad5b440b094cd9b0604908b9a2&width=1200",
-        "tags": [
-            "cataluña",
-            "agresiones físicas",
-            "manresa",
-            "violencia machista",
-            "mujeres",
-            "detenciones",
-            "violencia doméstica"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-01/prision-para-el-detenido-por-apunalar-a-su-mujer-y-tirarla-por-la-ventana-en-manresa.html",
-        "date": "2025-09-01 14:13:14",
-        "sentiment_score": -0.7088271416723728
-    },
-    {
-        "title": "Más de 200 incendios forestales en ocho meses, con 740 hectáreas quemadas y la reivindicación de más bomberos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7DBIJQV5AJO7VITUPKT4QQ2L4Q.jpg?auth=94976b082375955f48b668e021a990959e95c595b0c74fa4d5eda4ebe2ccb5f7&width=1200",
-        "tags": [
-            "bomberos",
-            "comunidad valenciana",
-            "emergencias 112 gva",
-            "generalitat valenciana",
-            "corts valencianes",
-            "juan carlos valderrama",
-            "incendios forestales",
-            "incendios",
-            "oposición política"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-01/mas-de-200-incendios-forestales-en-ocho-meses-con-740-hectareas-quemadas-y-demandas-pendientes-de-los-bomberos.html",
-        "date": "2025-09-01 13:49:58",
-        "sentiment_score": -0.8605421502143145
-    },
-    {
-        "title": "Feijóo pretende obligar por ley a ir a elecciones en caso de dos prórrogas presupuestarias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/G6HZCCDUVFGUNEBZQQDR73JD2I.jpg?auth=90263978766377d6c500226e12b85d9172130f254a5291d8c34de21704ea2d1a&width=1200",
-        "tags": [
-            "presupuestos generales estado",
-            "santiago abascal",
-            "congreso diputados",
-            "política",
-            "inmigración irregular",
-            "pactos políticos",
-            "cortes generales",
-            "alberto núñez feijóo",
-            "pp",
-            "vox",
-            "gobierno",
-            "emergencia climática",
-            "pedro sánchez",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-09-01/feijoo-pretende-obligar-por-ley-a-ir-a-elecciones-en-caso-de-dos-prorrogas-presupuestarias.html",
-        "date": "2025-09-01 13:37:36",
-        "sentiment_score": -0.8878421820700169
-    },
-    {
-        "title": "SER Catalunya estrena temporada con nuevas voces, más presencia femenina y una apuesta renovada por el Barça",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7W377TEW6JBD7OHK7VHQQSUFYI.jpg?auth=1050bd9bfb9c5fc27d0e0b3fd7517809890d76620c74a4cfe97423aba9075e8f&width=1200",
-        "tags": [
-            "cataluña",
-            "sique rodríguez",
-            "periodismo",
-            "cadena ser",
-            "ràdio barcelona",
-            "radio",
-            "medios comunicación",
-            "programación",
-            "marina fernández"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-01/ser-catalunya-estrena-temporada-con-nuevas-voces-mas-presencia-femenina-y-una-apuesta-renovada-por-el-barca.html",
-        "date": "2025-09-01 13:00:31",
-        "sentiment_score": 0.151521697640419
-    },
-    {
-        "title": "El Gobierno cree que la cita de Illa y Puigdemont facilita el acercamiento con Junts, pero no garantiza los Presupuestos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/N6EUVJTLMJEY3CZQWLZWDXACDM.jpg?auth=c6a14001fd811553a6f15df6a42cf63832b7dcf462a96af2e380a5dca53789aa&width=1200",
-        "tags": [
-            "procés independentista catalán",
-            "presupuestos generales estado",
-            "maría jesús montero",
-            "hacienda pública",
-            "amnistía",
-            "congreso diputados",
-            "govern cataluña",
-            "juntsxcat",
-            "erc",
-            "oriol junqueras",
-            "carles puigdemont",
-            "generalitat cataluña",
-            "gobierno",
-            "cataluña",
-            "pedro sánchez",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-09-01/el-gobierno-cree-que-la-cita-de-illa-y-puigdemont-facilita-el-acercamiento-con-junts-pero-no-garantiza-los-presupuestos.html",
-        "date": "2025-09-01 12:57:22",
-        "sentiment_score": -0.3727646954357624
-    },
-    {
-        "title": "La extraña muerte de 62 gansos en un parque de Sevilla pone el foco en el mantenimiento y el control de la fauna de sus espacios verdes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4VXD5YUDSRDBTIBHAK5WJBU5RQ.jpeg?auth=fb63965738363dc3f4cdedebf52474d89c21357f3ca8ae69fcf520ea8565bbd3&width=1200",
-        "tags": [
-            "ayuntamiento sevilla",
-            "aves",
-            "andalucía",
-            "sevilla",
-            "sociedad",
-            "pacma",
-            "medio ambiente",
-            "parques y jardines"
-        ],
-        "link": "https://elpais.com/espana/andalucia/2025-09-01/la-extrana-muerte-de-62-gansos-en-un-parque-de-sevilla-pone-el-foco-en-el-mantenimiento-y-el-control-de-la-fauna-de-sus-espacios-verdes.html",
-        "date": "2025-09-01 12:54:32",
-        "sentiment_score": -0.34835245087742805
     },
     {
         "title": "18:00H | 01 SEP 2025 | La Tarde",
@@ -8909,5 +8733,451 @@ export default [
         "link": "https://2001online.com/sucesos/tragico-hallazgo-en-el-lago-de-maracaibo-cuatro-pescadores-fallecidos-tras-fuerte-tormenta-2025941500",
         "date": "2025-09-04 19:00:00",
         "sentiment_score": -0.6269193887710571
+    },
+    {
+        "title": "España: las predicciones del tiempo para Madrid este 5 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "madrid",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/05/espana-las-predicciones-del-tiempo-para-madrid-este-5-de-septiembre/",
+        "date": "2025-09-05 01:31:02",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Periodista colombiana que sobrevivió a un misil en Ucrania ganó un importante premio en España por su trabajo como “reportera de guerra”",
+        "image_url": "https://www.infobae.com/resizer/v2/FIKOUOVCBZCZFNDSQE3EYMZH6U.jpg?auth=a304fee459a5f8b7fbb98e9f2f7cab59c8a91f9dfe7e343f1d77949b1af417b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "colombia-noticias",
+            "catalina gómez ángel",
+            "misil",
+            "periodista colombiana",
+            "españa",
+            "ucrania",
+            "premio internacional de periodismo david beriain",
+            "reportera de guerra"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/09/05/periodista-colombiana-que-sobrevivio-a-un-misil-en-ucrania-gano-un-importante-premio-en-espana-por-su-trabajo-como-reportera-de-guerra/",
+        "date": "2025-09-05 00:01:37",
+        "sentiment_score": 0.04768097400665283
+    },
+    {
+        "title": "Cupón Diario de la Once: resultados del 4 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/04/cupon-diario-de-la-once-resultados-del-4-de-septiembre/",
+        "date": "2025-09-04 23:15:30",
+        "sentiment_score": 0.11362245678901672
+    },
+    {
+        "title": "Una protesta medioambiental en Cayos Cochinos obliga a modificar en directo el estreno de ‘Supervivientes All Stars’: “La playa de juegos no se puede usar”",
+        "image_url": "https://www.infobae.com/resizer/v2/GSYYWDPXCJGHDAQTJ53TYVV3LE.jpg?auth=71b2acc94fb2e506fdc1e8601bc8b64b23fab05fe2a3af1a2c5eabab302757ae&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "entretenimiento españa",
+            "supervivientes all stars",
+            "television españa",
+            "españa-noticias",
+            "españa-televisión",
+            "cayos cochinos",
+            "jorge javier vázquez",
+            "reality",
+            "telecinco"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/04/una-protesta-medioambiental-en-cayos-cochinos-obliga-a-modificar-en-directo-el-estreno-de-supervivientes-all-stars-la-playa-de-juegos-no-se-puede-usar/",
+        "date": "2025-09-04 22:56:59",
+        "sentiment_score": -0.6255883350968361
+    },
+    {
+        "title": "ROSS: Preludiando al Mahler sinfónico",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/queplan/2025/09/05/ICO07292-R51nNO6fC9dRkATCKKRUuyO-1200x840@diario_abc.jpg",
+        "tags": [
+            "críticas de música",
+            "música clásica",
+            "música",
+            "teatro de la maestranza"
+        ],
+        "link": "https://www.abc.es/queplan/sevilla/conciertos/xxx-20250905183215-nts.html",
+        "date": "2025-09-04 22:52:54",
+        "sentiment_score": -0.021375060081481934
+    },
+    {
+        "title": "El arte de la colección BBVA sirve a la espiritualidad en el Niemeyer",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/965846d0-3d2f-441e-9965-79e66a7a2ce2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "las palmas",
+            "ayuntamiento",
+            "avilés",
+            "bilbao"
+        ],
+        "link": "https://www.lne.es/aviles/2025/09/05/arte-coleccion-bbva-sirve-espiritualidad-121252713.html",
+        "date": "2025-09-05 02:07:00",
+        "sentiment_score": 0.1697864532470703
+    },
+    {
+        "title": "Messi regala doblete a su afición ante Venezuela en su última función por eliminatorias",
+        "image_url": "https://dims.apnews.com/dims4/default/6b80d17/2147483647/strip/true/crop/7353x4136+0+383/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F20%2Fce%2F2dc9f3bea262b51fc0883d2238cd%2Fa6a62294f57849609894ac04f7ac4ae2",
+        "tags": [
+            "deportes",
+            "mundial eliminatorias argentina venezuela messi",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/mundial-eliminatorias-argentina-venezuela-messi-6736fd7e95b3adb29aaccd9eb8e11e27",
+        "date": "2025-09-05 01:44:10",
+        "sentiment_score": 0.4154333993792534
+    },
+    {
+        "title": "Los 100 años de Odón Alonso",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/09/04/68b9d675ab390.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250905/2058735/100-anos-odon-alonso.html",
+        "date": "2025-09-05 01:30:00",
+        "sentiment_score": 0.20450309664011002
+    },
+    {
+        "title": "James Rodríguez enlazará su tercer mundial con Colombia en su cuarta Eliminatoria: continúa el “romance” del ‘10′ en el máximo certamen futbolístico",
+        "image_url": "https://www.infobae.com/resizer/v2/J4EBJVWV4JFETH6VYXHWM45PZE.jpg?auth=985356da355e747bd4224987cfd8597dba460c311dc09d842b9aef9d481bcd0c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "eliminatorias al mundial",
+            "mundial 2026",
+            "colombia-noticias",
+            "james rodríguez",
+            "selección colombia",
+            "clasificación a la copa del mundo"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/09/05/james-rodriguez-enlazara-su-tercer-mundial-con-colombia-en-su-cuarta-eliminatoria-continua-el-romance-del-10-en-el-maximo-certamen-futbolistico/",
+        "date": "2025-09-05 01:20:42",
+        "sentiment_score": 0.07353653013706207
+    },
+    {
+        "title": "El final más cruel para el ciclo más exitoso en la historia del baloncesto español: Scariolo dice adiós con una debacle",
+        "image_url": "https://s2.elespanol.com/2025/09/05/actualidad/1003743912626_258469857_1706x960.jpg?contentId=1003743912626",
+        "tags": [
+            "selección española de baloncesto",
+            "baloncesto",
+            "eurobasket"
+        ],
+        "link": "https://www.elespanol.com/deportes/baloncesto/20250905/final-cruel-ciclo-exitoso-historia-baloncesto-espanol-scariolo-dice-adios-debacle/1003743912618_0.html",
+        "date": "2025-09-05 01:02:39",
+        "sentiment_score": -0.933156231418252
+    },
+    {
+        "title": "El PP Europeo plantea \"activar mecanismos contra España\" tras los tres avisos de Bruselas a Sánchez por atacar a los jueces",
+        "image_url": "https://s2.elespanol.com/2025/09/04/actualidad/1003743912214_258466737_1706x960.jpg?contentId=1003743912214",
+        "tags": [
+            "álvaro garcía ortiz",
+            "política",
+            "partido popular (pp)",
+            "dolors montserrat",
+            "tribunal supremo",
+            "ppe partido popular europeo",
+            "comisión europea (ce)",
+            "pedro sánchez",
+            "cgpj"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250905/pp-europeo-plantea-activar-mecanismos-espana-avisos-bruselas-sanchez-atacar-jueces/1003743911562_0.html",
+        "date": "2025-09-05 01:01:50",
+        "sentiment_score": -0.8553588781505823
+    },
+    {
+        "title": "El invento de cinco estudiantes españoles para bajar la factura de la luz usando el sol y sin necesidad de instalar placas",
+        "image_url": "https://s2.elespanol.com/2025/09/02/omicrono/tecnologia/1003743908639_258396099_1706x960.jpg?contentId=1003743908639",
+        "tags": [
+            "energías renovables",
+            "españa",
+            "tecnología",
+            "energía solar"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20250905/invento-estudiantes-espanoles-bajar-factura-luz-usando-sol-sin-necesidad-instalar-placas/1003743908375_0.html",
+        "date": "2025-09-05 01:01:47",
+        "sentiment_score": 0.536607850342989
+    },
+    {
+        "title": "Halit Sahitaj, el capo serbio con contactos en el Kremlin que lideraba una mafia en Marbella para chantajear a empresarios",
+        "image_url": "https://s2.elespanol.com/2025/09/04/actualidad/1003743912347_258464675_1706x960.jpg?contentId=1003743912347",
+        "tags": [
+            "policía nacional",
+            "reportajes",
+            "mafias",
+            "rusia",
+            "serbia"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250905/halit-sahitaj-capo-serbio-contactos-kremlin-lideraba-mafia-marbella-chantajear-empresarios/1003743896584_0.html",
+        "date": "2025-09-05 01:01:45",
+        "sentiment_score": -0.8733034478500485
+    },
+    {
+        "title": "VOX, un nuevo escollo para la derecha española",
+        "image_url": "https://s.libertaddigital.com/2024/08/20/1200/627/libertad-digital-redes-2.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-09-05/idoia-ribas-vox-un-nuevo-escollo-para-la-derecha-espanola-7291566/",
+        "date": "2025-09-05 00:58:28",
+        "sentiment_score": 0.14185577630996704
+    },
+    {
+        "title": "El Gobierno ante la encrucijada del espionaje chino: rectificar no es ya suficiente",
+        "image_url": "https://s2.elespanol.com/2025/09/04/actualidad/1003743912487_258467380_1024x576.jpg?contentId=1003743912487",
+        "tags": [
+            "españa",
+            "estados unidos",
+            "china",
+            "espionaje",
+            "opinión",
+            "editoriales"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20250905/gobierno-encrucijada-espionaje-chino-rectificar-no-suficiente/1003743912472_14.html",
+        "date": "2025-09-05 00:34:37",
+        "sentiment_score": -0.9289347203448415
+    },
+    {
+        "title": "Las crudas declaraciones de Messi tras su último partido oficial en Argentina: “Cuando estoy bien, disfruto, si no, la paso mal”",
+        "image_url": "https://www.infobae.com/resizer/v2/EFL5NJZMZ5ACPJTXJA2TM3NSTY.JPG?auth=8b1e77c644cd7529e20f36277695e8c7da61545d4f72526ef23c04f6306999bb&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-internacional",
+            "deportes-argentina",
+            "selección argentina",
+            "eliminatorias sudamericanas",
+            "selección de venezuela",
+            "lionel messi"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/05/las-crudas-declaraciones-de-messi-tras-su-ultimo-partido-oficial-en-argentina-cuando-estoy-bien-disfruto-si-no-la-paso-mal/",
+        "date": "2025-09-05 02:14:43",
+        "sentiment_score": -0.6526639834046364
+    },
+    {
+        "title": "La flotilla",
+        "image_url": "https://uh.gsstatic.es/autor/amaya-michelena/416.png",
+        "tags": [
+            "tribuna",
+            "grupo serra",
+            "artículos de opinión",
+            "prensa digital",
+            "medio de comunicación"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/09/05/2463465/flotilla.html",
+        "date": "2025-09-05 02:00:02",
+        "sentiment_score": -0.9295482840389013
+    },
+    {
+        "title": "Tras el triunfo ante Venezuela, la agenda de Messi y la selección argentina hasta el Mundial 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/MEX62OLIW5HSFGYKRUHKH5DP5U.jpg?auth=480c8261c108c99ef48986fc94a98ffc0dd38f7e3d4eccd874c8ab61ed00b8c7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "mundial 2026",
+            "selección argentina",
+            "deportes-argentina",
+            "lionel messi"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/05/tras-el-triunfo-ante-venezuela-la-agenda-de-messi-y-la-seleccion-argentina-hasta-el-mundial-2026/",
+        "date": "2025-09-05 01:43:32",
+        "sentiment_score": -0.3070729821920395
+    },
+    {
+        "title": "La flotilla amenazada",
+        "image_url": "https://imagenes.diariodeleon.eshttps//imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/250905/2058750/flotilla-amenazada.html",
+        "date": "2025-09-05 01:30:00",
+        "sentiment_score": -0.4147631339728832
+    },
+    {
+        "title": "Una voz reconocida podría volver a las filas de TUDN para el Mundial del 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/BX64G74YXRAJLFIOI6EMFSHR64.png?auth=98c228b5071950c8a950d9b0f1795d662a3dc8ab6a07c922006c45b92f0735d9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "transmisión de televisión",
+            "mundial 2026",
+            "vanessa huppenkothen",
+            "tudn",
+            "mexico-deportes"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/09/05/una-voz-reconocida-podria-volver-a-las-filas-de-tudn-para-el-mundial-del-2026/",
+        "date": "2025-09-05 01:06:13",
+        "sentiment_score": 0.3936730921268463
+    },
+    {
+        "title": "Lotería Nacional: la suerte vuelve a dejar miles de euros en el Poniente almeriense",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2024/11/11/67318892179c5.jpeg",
+        "tags": [
+            "el ejido"
+        ],
+        "link": "https://www.lavozdealmeria.com/provincia/el-ejido/317700/loteria-nacional-suerte-vuelve-dejar-miles-euros-poniente.html",
+        "date": "2025-09-05 01:04:01",
+        "sentiment_score": 0.3692113310098648
+    },
+    {
+        "title": "Prestigio perdido, fuga de cerebros y falta de presupuesto: los retos de Raúl Rabadán como nuevo director del CNIO",
+        "image_url": "https://s2.elespanol.com/2025/09/04/actualidad/1003743912378_258465356_1706x960.jpg?contentId=1003743912378",
+        "tags": [
+            "cnio",
+            "investigación científica",
+            "ciencia",
+            "oncología"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20250905/prestigio-perdido-fuga-cerebros-falta-presupuesto-retos-raul-rabadan-nuevo-director-cnio/1003743912307_0.html",
+        "date": "2025-09-05 01:02:17",
+        "sentiment_score": 0.0948650948703289
+    },
+    {
+        "title": "El Gobierno asume que el caos ferroviario durará tres años más aunque hasta 2030 no se renovarán todos los trenes",
+        "image_url": "https://s2.elespanol.com/2025/09/04/actualidad/1003743911640_258450713_1706x960.jpg?contentId=1003743911640",
+        "tags": [
+            "renfe",
+            "observatorio de la movilidad",
+            "adif",
+            "movilidad",
+            "trenes"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20250905/gobierno-asume-caos-ferroviario-durara-anos-no-renovaran-trenes/1003743911963_0.html",
+        "date": "2025-09-05 00:32:19",
+        "sentiment_score": 0.02018675208091736
+    },
+    {
+        "title": "Carla Simón: “La generación de mis padres exploró la libertad con todas las consecuencias”",
+        "image_url": "https://s2.elespanol.com/2025/09/01/actualidad/1003743907025_258367687_1706x960.jpg?contentId=1003743907025",
+        "tags": [
+            "cine",
+            "estrenos de cine",
+            "cine español"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20250905/carla-simon-generacion-padres-exploro-libertad-todas-consecuencias/1003743904489_0.html",
+        "date": "2025-09-05 00:16:34",
+        "sentiment_score": 0.18383783474564552
+    },
+    {
+        "title": "El auge del pádel: el crecimiento de un fenómeno global",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757026426446.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "jugadores de pádel",
+            "el pádel es un deporte",
+            "crecimiento del pádel",
+            "españa",
+            "premier pádel",
+            "arturo coello",
+            "ale galán",
+            "pádel",
+            "enrique corcuera",
+            "noa canovas"
+        ],
+        "link": "https://2001online.com/deportes/el-auge-del-padel-el-crecimiento-de-un-fenomeno-global-2025942300",
+        "date": "2025-09-05 02:06:28",
+        "sentiment_score": 0.7239708751440048
+    },
+    {
+        "title": "¿La artista más influyente del momento llega al Super Bowl LX?: entérate de todos los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757040742111.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "super bowl",
+            "taylor swift",
+            "show de medio tiempo"
+        ],
+        "link": "https://2001online.com/farandula/la-artista-mas-influyente-del-momento-llega-al-super-bowl-lx-enterate-de-todos-los-detalles-2025942250",
+        "date": "2025-09-05 02:05:00",
+        "sentiment_score": 0.09100724756717682
+    },
+    {
+        "title": "¿Inflamación, cansancio o mala digestión? Elimina todos esos males con la bebida recomendada por los expertos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756925078471.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/inflamacion-cansancio-o-mala-digestion-elimina-todos-esos-males-con-la-bebida-recomendada-por-los-expertos-2025942200",
+        "date": "2025-09-05 02:00:00",
+        "sentiment_score": 0.5554687175899744
+    },
+    {
+        "title": "El futuro de miles en el aire: este condado de California retrasa la ayuda para alquileres de viviendas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757036307018.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "alquiler de emergencia",
+            "florida",
+            "los angeles"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-futuro-de-miles-en-el-aire-este-condado-de-california-retrasa-la-ayuda-para-alquileres-de-viviendas-20259421570",
+        "date": "2025-09-05 01:57:00",
+        "sentiment_score": 0.10628679022192955
+    },
+    {
+        "title": "Este estado de EE.UU. ofrece asesoría empresarial a mujeres, minorías y veteranos: sepa cómo inscribirse",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757020395446/image.webp?ch=212&cw=377&extw=png",
+        "tags": [
+            "asesoría empresarial",
+            "asesoria legal gratis"
+        ],
+        "link": "https://2001online.com/usa/servicios/este-estado-de-ee-uu-ofrece-asesoria-empresarial-a-mujeres-minorias-y-veteranos-sepa-como-inscribirse-20259421150",
+        "date": "2025-09-05 01:15:00",
+        "sentiment_score": 0.1055857315659523
+    },
+    {
+        "title": "La rencilla caraqueña que casi cuesta una vida: historia de un brutal ataque",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757025061601.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "caracas",
+            "antimano",
+            "cicpc",
+            "delitos"
+        ],
+        "link": "https://2001online.com/sucesos/la-rencilla-caraquena-que-casi-cuesta-una-vida-historia-de-un-brutal-ataque-2025942110",
+        "date": "2025-09-05 01:01:00",
+        "sentiment_score": -0.025368481874465942
+    },
+    {
+        "title": "Trump planea eliminar el español de todas las plataformas oficiales: sepa dónde aprender inglés",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757031317285.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "inglés",
+            "idioma",
+            "ong"
+        ],
+        "link": "https://2001online.com/usa/servicios/trump-planea-eliminar-el-espanol-de-todas-las-plataformas-oficiales-sepa-donde-aprender-ingles--2025942100",
+        "date": "2025-09-05 01:00:00",
+        "sentiment_score": 0.43951595574617386
+    },
+    {
+        "title": "¡Rompen el molde!: estas son las misses que desafían los estándares de belleza",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757033717936.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "miss colombia",
+            "miss universo"
+        ],
+        "link": "https://2001online.com/farandula/rompen-el-molde-estas-son-las-misses-que-desafian-los-estandares-de-belleza-20259420520",
+        "date": "2025-09-05 00:52:00",
+        "sentiment_score": -0.8710752101615071
+    },
+    {
+        "title": "Atención médica al alcance: Descubre cómo funciona la telesalud del VA y los beneficios para los veteranos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757033423972.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "va",
+            "telesalud",
+            "veteranos"
+        ],
+        "link": "https://2001online.com/usa/servicios/atencion-medica-al-alcance-descubre-como-funciona-la-telesalud-del-va-y-los-beneficios-para-los-veteranos--20259420220",
+        "date": "2025-09-05 00:22:00",
+        "sentiment_score": 0.2725131008774042
+    },
+    {
+        "title": "La peor pesadilla para un padre: detalles sobre el accidente que terminó con la vida de una niña de dos años",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757041920306.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "accidente",
+            "lara",
+            "niña de dos añoses atropellada por su  padre",
+            "nina es atropellada"
+        ],
+        "link": "https://2001online.com/sucesos/la-peor-pesadilla-para-un-padre-detalles-sobre-el-accidente-que-termino-con-la-vida-de-una-nina-de-dos-anos-20259420140",
+        "date": "2025-09-05 00:14:00",
+        "sentiment_score": -0.7474513351917267
     }
 ];
