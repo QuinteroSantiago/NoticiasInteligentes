@@ -192,71 +192,6 @@ export default [
         "sentiment_score": -0.008074849843978882
     },
     {
-        "title": "Una cubana que vive en España, sorprendida con lo que no encuentra en un supermercado: «Está asociada a tiempos de escasez»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/noticias/2025/09/03/leches12-ksRG-U701487904706eoE-1200x840@diario_abc.jpg",
-        "tags": [
-            "supermercado",
-            "vive",
-            "asociada",
-            "escasez",
-            "cubana",
-            "espana",
-            "sorprendida",
-            "encuentra",
-            "tiempos"
-        ],
-        "link": "https://www.abc.es/recreo/cubana-vive-espana-sorprendida-encuentra-supermercado-asociada-20250904153000-nt.html",
-        "date": "2025-09-04 13:27:20",
-        "sentiment_score": -0.12685978412628174
-    },
-    {
-        "title": "El Ayuntamiento decreta el cierre preventivo de los Jardines del Alcázar y del Parque de Miraflores tras aparecer aves muertas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/09/04/patos-sevilla-foto-RXLv4t4tWcR8yz5LFRvh0xJ-1200x840@diario_abc.jpeg",
-        "tags": [
-            "jardines",
-            "real alcázar de sevilla",
-            "medio ambiente",
-            "ayuntamiento de sevilla",
-            "junta de andalucía",
-            "sevilla",
-            "aves",
-            "andalucía",
-            "animales",
-            "salud",
-            "gripe aviar",
-            "gripe"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/ayuntamiento-decreta-cierre-preventivo-jardines-alcazar-parque-20250904143014-nts.html",
-        "date": "2025-09-04 12:30:15",
-        "sentiment_score": -0.09561046957969666
-    },
-    {
-        "title": "En verano no se compra usado: las ventas de ocasión caen un 0,7%",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/motor/2025/09/04/1500206355-RpbWoIKYd5xSBPTBpLW8dzK-1200x840@diario_abc.jpg",
-        "tags": [
-            "segunda mano",
-            "matriculaciones",
-            "vendedores",
-            "modelos",
-            "parque móvil"
-        ],
-        "link": "https://www.abc.es/motor/economia/verano-compra-usado-ventas-ocasion-caen-20250904131000-nt.html",
-        "date": "2025-09-04 11:12:03",
-        "sentiment_score": -0.08724506199359894
-    },
-    {
-        "title": "El 30% de los menores españoles consumen pornografía en internet",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/09/04/nino-RzR99WUCAY31PhAUCmzOLhM-1200x840@diario_abc.jpg",
-        "tags": [
-            "niños",
-            "españa",
-            "pornografía"
-        ],
-        "link": "https://www.abc.es/tecnologia/menores-espanoles-consumen-pornografia-internet-20250904123424-nt.html",
-        "date": "2025-09-04 10:34:24",
-        "sentiment_score": -0.10345987975597382
-    },
-    {
         "title": "Ahogadas 368 personas en España hasta agosto, la cifra más alta de la última década",
         "image_url": "https://imagenes.elpais.com/resizer/v2/R5UX3XN5FNHA7O5GV2QWK7TASM.jpg?auth=b5c8f837def94cc32ade22065f7d69206ec7c8a8e8f6cf4f3c9b3f80c8d0907f&width=1200",
         "tags": [
@@ -368,61 +303,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-09-04/una-clinica-estetica-de-coslada-que-ofertaba-el-botox-y-el-acido-hialuronico-mas-baratos-tenia-viales-caducados.html",
         "date": "2025-09-04 14:30:29",
         "sentiment_score": -0.840591674670577
-    },
-    {
-        "title": "Bosnia gana a Georgia y obliga a España a vencer a Grecia para llegar a octavos del Eurobasket",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/L4VTO4LWNRJAVC43T35OUKPJ7A.jpg?auth=9e3e0801f365ac53ff1ed81bfc804d86272cc24b2babe5462fa47d9c2e682e4c&width=1200",
-        "tags": [
-            "selección baloncesto bosnia",
-            "shengelia",
-            "baloncesto",
-            "jugadores baloncesto",
-            "eurobasket",
-            "selección española baloncesto",
-            "selección baloncesto georgia",
-            "deportes",
-            "competiciones",
-            "giorgi shermadini",
-            "jusuf nurkic"
-        ],
-        "link": "https://elpais.com/deportes/baloncesto/2025-09-04/bosnia-gana-a-georgia-y-obliga-a-espana-a-vencer-a-grecia-para-llegar-a-octavos-del-eurobasket.html",
-        "date": "2025-09-04 14:00:40",
-        "sentiment_score": 0.5520300269126892
-    },
-    {
-        "title": "De sede del ‘Ministerio del Tiempo’ a hogar de familias vulnerables: Madrid rescata de la ruina el palacio de la Duquesa de Sueca",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AUALLUVJC5AE5NGSB3Q66BWZBQ.jpg?auth=8e2608129650495c34eda9779f069d8e77276eace1e0dbc45e942bcf20883cf7&width=1200",
-        "tags": [
-            "arquitectura",
-            "vecinos",
-            "palacios",
-            "patrimonio histórico",
-            "rehabilitación edificios",
-            "comunidad de madrid",
-            "edificios ruinosos",
-            "madrid",
-            "urbanismo",
-            "edificios historicos",
-            "patrimonio cultural"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-04/de-sede-del-ministerio-del-tiempo-a-hogar-de-familias-vulnerables-madrid-rescata-de-la-ruina-el-palacio-de-la-duquesa-de-sueca.html",
-        "date": "2025-09-04 13:36:49",
-        "sentiment_score": 0.6663116477429867
-    },
-    {
-        "title": "La jueza de la dana expulsa de la causa a una víctima que pidió encarcelarla y vinculó la riada con “poderes satánicos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NRNZFISGEBE2HLH4TPJAZZNZG4.jpg?auth=284941fb8aa1634f99bdbbff50777febdf4571cb80687c1acdbd02509915376c&width=1200",
-        "tags": [
-            "valencia",
-            "dana",
-            "comunidad valenciana",
-            "carlos mazón",
-            "tribunales",
-            "generalitat valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-04/la-jueza-de-la-dana-expulsa-a-una-victima-que-pidio-encarcelar-a-la-magistrada-y-vinculo-la-riada-con-poderes-satanicos.html",
-        "date": "2025-09-04 13:29:27",
-        "sentiment_score": -0.8387246355414391
     },
     {
         "title": "Martín Aguirregabiria: \"Estoy disponible cuando lo decida el míster\"",
@@ -8175,5 +8055,506 @@ export default [
         "link": "https://2001online.com/deportes/la-cumbre-del-futbol-actuaciones-individuales-que-cambiaron-la-historia-de-los-mundiales-20259716300",
         "date": "2025-09-07 19:36:20",
         "sentiment_score": 0.7753691971302032
+    },
+    {
+        "title": "Clima en Málaga: cuál será la temperatura máxima y mínima este 8 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/4JLM2D7XO5CYFB22EHE7UZVHZA.png?auth=31432af2f18955afe456882c52b614f072d38886e4fdf91641a59f297c01726a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa noticias",
+            "noticias",
+            "españa sociedad",
+            "málaga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/08/clima-en-malaga-cual-sera-la-temperatura-maxima-y-minima-este-8-de-septiembre/",
+        "date": "2025-09-08 02:16:54",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima en Madrid: la previsión meteorológica para este 8 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "madrid",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/08/clima-en-madrid-la-prevision-meteorologica-para-este-8-de-septiembre/",
+        "date": "2025-09-08 01:31:48",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "barcelona",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/08/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-barcelona/",
+        "date": "2025-09-08 01:17:39",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Exparticipante de ‘La casa de los famosos Colombia’ le propuso matrimonio a su novia desde España",
+        "image_url": "https://www.infobae.com/resizer/v2/DMSJJSNVTJCTJF3HQVF2FMJGOA.jpg?auth=a8a457d57e79e35773aaedf436fa7627e4e467dd68f280644211fd0c19795480&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "la casa de los famosos colombia",
+            "koral costa",
+            "colombia-entretenimiento",
+            "boda en españa",
+            "colombia-noticias",
+            "omar murillo",
+            "matrimonio"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/09/08/exparticipante-de-la-casa-de-los-famosos-colombia-le-propuso-matrimonio-a-su-novia-desde-espana/",
+        "date": "2025-09-08 00:54:42",
+        "sentiment_score": 0.7929919417947531
+    },
+    {
+        "title": "Frisby negó supuestas negociaciones con su homónima en España y anunció que reforzará la defensa de su marca",
+        "image_url": "https://www.infobae.com/resizer/v2/FCALZQ4VPBAPHM3A6H5G5CG67A.jpg?auth=42332a37cb2e24f68e486199064a92d28d233b80ed6b14a7c9452c8a190deacf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "unión europea",
+            "garrigues",
+            "propiedad intelectual",
+            "colombia-noticias",
+            "frisby españa",
+            "frisby",
+            "pollo frisby",
+            "marca registrada"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/09/08/frisby-nego-supuestas-negociaciones-con-su-homonima-en-espana-y-anuncio-que-reforzara-la-defensa-de-su-marca/",
+        "date": "2025-09-08 00:07:08",
+        "sentiment_score": -0.586213568225503
+    },
+    {
+        "title": "Películas, amigos y siestas: las claves de Alcaraz para mantenerse relajado y ganar su sexto Grand Slam",
+        "image_url": "https://www.infobae.com/resizer/v2/JDEN5SLTQJCQ5BY4NQI4MZULV4.JPG?auth=d52be581e42145240ba032752e1fe1f4df29f7b4f474cf0d56da583c5c7abfcf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "carlos alcaraz",
+            "jannik sinner",
+            "us open",
+            "tenis españa",
+            "tenis",
+            "españa-deportes",
+            "grand slam",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/09/07/peliculas-amigos-y-siestas-las-claves-de-alcaraz-para-mantenerse-relajado-y-ganar-su-sexto-grand-slam/",
+        "date": "2025-09-07 23:41:56",
+        "sentiment_score": 0.7048201356083155
+    },
+    {
+        "title": "Top de películas imprescindibles para ver HOY en Netflix España",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "streaming",
+            "netflix",
+            "películas",
+            "noticias",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/07/top-de-peliculas-imprescindibles-para-ver-hoy-en-netflix-espana/",
+        "date": "2025-09-07 23:30:59",
+        "sentiment_score": 0.21778477728366852
+    },
+    {
+        "title": "K-pop en España: las 10 canciones que dominan en iTunes",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "itunes",
+            "españa",
+            "streaming",
+            "k-pop",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/07/k-pop-en-espana-las-10-canciones-que-dominan-en-itunes/",
+        "date": "2025-09-07 23:15:29",
+        "sentiment_score": 0.575047679245472
+    },
+    {
+        "title": "Carlos Alcaraz conquista su segundo US Open de Nueva York frente a la resistencia de Sinner: su sexto trofeo de Grand Slam",
+        "image_url": "https://www.infobae.com/resizer/v2/JABMDW6WOZFOVIQZ2RV2DYXKTE.JPG?auth=0e43f57f45d29c3c7475345323699f18713d7a43372628dcb8228e9b9b751e27&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "carlos alcaraz",
+            "us open",
+            "estados unidos",
+            "tenis españa",
+            "españa-noticias",
+            "tenis",
+            "nueva york",
+            "janik sinner",
+            "españa-deportes",
+            "grand slam",
+            "donald trump"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/09/07/carlos-alcaraz-conquista-su-segundo-us-open-de-nueva-york-frente-a-la-resistencia-de-sinner-su-sexto-trofeo-de-grand-slam/",
+        "date": "2025-09-07 22:31:01",
+        "sentiment_score": -0.5393840670585632
+    },
+    {
+        "title": "Messi mira el reloj, con el Mundial de 2026 en el horizonte",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/09/07/messi-mundial-2026-seleccion-argentina-orix/",
+        "date": "2025-09-08 02:03:42",
+        "sentiment_score": 0.6036252081394196
+    },
+    {
+        "title": "Las Reales Fábricas de Artillería de Jimena y la guerra contra Inglaterra (1779-1783) (I)",
+        "image_url": "https://static.grupojoly.com/clip/adc4cbec-889e-4578-8537-cf7a038df0a0_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/campo-de-gibraltar/reales-fabricas-artilleria-jimena-guerra-inglaterra-i_0_2004688044.html",
+        "date": "2025-09-08 02:01:13",
+        "sentiment_score": 0.4712260812520981
+    },
+    {
+        "title": "De padre a hijo... el curioso recurso de Gelabert en el Sporting que popularizó Juanmi",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5383ae93-7b85-4d7d-99f3-6a1cf71d9410_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "verano",
+            "acciones",
+            "homenaje",
+            "sporting"
+        ],
+        "link": "https://www.lne.es/sporting/2025/09/08/padre-hijo-curioso-recurso-gelabert-121332058.html",
+        "date": "2025-09-08 02:00:17",
+        "sentiment_score": -0.002730727195739746
+    },
+    {
+        "title": "IRIS2: el despertar espacial de la soberanía europea con regusto español",
+        "image_url": "https://s2.elespanol.com/2025/09/05/actualidad/1003743913538_258487547_1706x960.jpg?contentId=1003743913538",
+        "tags": [
+            "tribunas",
+            "industria",
+            "drones"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20250908/iris-despertar-espacial-soberania-europea-regusto-espanol/1003743911245_12.html",
+        "date": "2025-09-08 00:58:46",
+        "sentiment_score": 0.6087850332260132
+    },
+    {
+        "title": "El Real Madrid, a examen hoy en Goazen Reala!",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2025/09/08/M1-1486171405--758x531.JPG",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/real-madrid-examen-hoy-goazen-reala-20250908072543-nt.html",
+        "date": "2025-09-08 00:00:00",
+        "sentiment_score": 0.15378475934267044
+    },
+    {
+        "title": "Fuga \"histórica\" de antidisturbios por el \"maltrato\" de Interior con un 25% de plazas por cubrir.",
+        "image_url": "https://phantom-elmundo.uecdn.es/057f77cfc4892cc67158a1d1f6d8fd5d/crop/122x0/1362x1240/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468504313638.jpg",
+        "tags": [
+            "artículos gema peñalosa",
+            "ministerio del interior"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/09/08/68bd864421efa06b2d8b45be.html",
+        "date": "2025-09-07 23:54:58",
+        "sentiment_score": -0.3113638199865818
+    },
+    {
+        "title": "La Champions League emociona de nuevo",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/09/og-matches-730x524.webp",
+        "tags": [
+            "internacionales",
+            "fútbol",
+            "deportes",
+            "inicio",
+            "liga",
+            "campeones",
+            "deporte",
+            "champios"
+        ],
+        "link": "https://primicia.com.ve/deportes/la-champions-league-emociona-de-nuevo/",
+        "date": "2025-09-07 23:45:13",
+        "sentiment_score": 0.46906414814293385
+    },
+    {
+        "title": "Así queda el ranking ATP: Alcaraz desbanca a Sinner del número uno 729 días después",
+        "image_url": "https://imagenes.eldebate.com/files/image_16_9_desktop/uploads/2025/09/08/68be07b72e01e.jpeg",
+        "tags": [
+            "tenis"
+        ],
+        "link": "https://www.eldebate.com/deportes/tenis/20250908/asi-queda-ranking-atp-alcaraz-desbanca-sinner-numero-729-dias-despues_332226.html",
+        "date": "2025-09-07 23:05:11",
+        "sentiment_score": -0.23575960844755173
+    },
+    {
+        "title": "La factura del gas se elevará en más de 6 euros al año por los nuevos contadores inteligentes",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/09/08/contadores-gas-k34B-U23028542163946RG-1200x840@RC.jpg",
+        "tags": [
+            "consumo",
+            "gas",
+            "cnmc (comisión nacional de mercados y competencia )",
+            "ministerio para la transición ecológica"
+        ],
+        "link": "https://www.ideal.es/economia/factura-gas-elevara-euros-ano-nuevos-contadores-20250908005202-ntrc.html",
+        "date": "2025-09-07 22:52:03",
+        "sentiment_score": 0.5094551742076874
+    },
+    {
+        "title": "Catalunya empieza este lunes el curso marcado por la mejora de la atención a necesidades educativas",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250908040450_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-catalunya-empieza-lunes-curso-marcado-mejora-atencion-necesidades-educativas-20250908040450.html",
+        "date": "2025-09-08 02:04:50",
+        "sentiment_score": 0.4928969405591488
+    },
+    {
+        "title": "La relación amor-odio entre Granada y Ryanair: nueve conexiones financiadas con dinero público que apenas duraron cinco años",
+        "image_url": "https://static.grupojoly.com/clip/c1211af6-a235-4f55-8680-24babe232cc3_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "link en bio granada",
+            "últimas noticias granada"
+        ],
+        "link": "https://www.granadahoy.com/granada/ryanair-granada-relacion-amor-odio-nueve-conexiones-financiadas-dinero-publico-cinco-anos_0_2004696607.html",
+        "date": "2025-09-08 02:00:06",
+        "sentiment_score": -0.7504959926009178
+    },
+    {
+        "title": "Zara rebaja el total look denim que va a arrasar este otoño: queda bien a todos los cuerpos y cuesta menos de 35 euros",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3459943.jpg",
+        "tags": [
+            "novedades",
+            "cuidados de la piel",
+            "zara",
+            "tendencias de moda",
+            "tendencias",
+            "inditex",
+            "productos de belleza",
+            "cambio de look"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/tendencias/2025/09/08/2463125/zara-rebaja-total-look-denim-arrasar-este-otono-queda-bien-todos-cuerpos-cuesta-menos-euros.html",
+        "date": "2025-09-08 02:00:02",
+        "sentiment_score": 0.7853488512337208
+    },
+    {
+        "title": "«Hace tiempo que la Ermita debería haber pasado a manos del pueblo»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3463619.jpg",
+        "tags": [
+            "manacor",
+            "religión",
+            "dominicos",
+            "municipios de mallorca",
+            "part forana",
+            "paraguay",
+            "última hora",
+            "ultimas noticias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/part-forana/2025/09/08/2464885/hace-tiempo-ermita-deberia-haber-pasado-manos-del-pueblo.html",
+        "date": "2025-09-08 02:00:02",
+        "sentiment_score": -0.12581606209278107
+    },
+    {
+        "title": "La fruta suave y silenciosa que equilibra la digestión, cuida el corazón y calma el apetito: el comodín saludable que conquista el otoño",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3451529.jpg",
+        "tags": [
+            "ia-news",
+            "frutas y verduras de temporada",
+            "salud y bienestar",
+            "noticias interesantes",
+            "recetas de cocina",
+            "audiencias-um",
+            "gastronomía",
+            "pera"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/gastronomia/2025/09/08/2459111/fruta-suave-silenciosa-equilibra-digestion-cuida-corazon-calma-apetito-comodin-saludable-conquista-otono.html",
+        "date": "2025-09-08 02:00:02",
+        "sentiment_score": 0.8182812985032797
+    },
+    {
+        "title": "La mirada curiosa y analógica de Pau Jaume en Ca n'Ángel",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3464301.jpg",
+        "tags": [
+            "cultura",
+            "es mercadal",
+            "ca n'ángel",
+            "arte en menorca"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2025/09/08/2465111/mirada-curiosa-analogica-pau-jaume-angel.html",
+        "date": "2025-09-08 02:00:02",
+        "sentiment_score": -0.10750271379947662
+    },
+    {
+        "title": "Marcos Vidal viste La Misericordia con su arte textil para la Nit de l’Art",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3461609.jpg",
+        "tags": [
+            "artistas",
+            "nit de l'art en palma",
+            "marcos vidal",
+            "industria textil",
+            "la misericòrdia",
+            "centre cultural la misericòrdia",
+            "arte",
+            "artistas de mallorca",
+            "arte en mallorca",
+            "téxtil",
+            "cultura",
+            "alfombras",
+            "artista",
+            "nit de l'art",
+            "artistas mallorquines"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/09/08/2464119/marcos-vidal-viste-misericordia-arte-textil-para-nit-art.html",
+        "date": "2025-09-08 02:00:02",
+        "sentiment_score": -0.1641644686460495
+    },
+    {
+        "title": "Llega el ascensor de la Quarentena, que conectará el Marítim con Gomila",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3461947.jpg",
+        "tags": [
+            "noticias palma hoy",
+            "última hora",
+            "palma",
+            "palma de mallorca",
+            "ultimas noticias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/09/08/2464281/llega-ascensor-quarentena-conectara-maritim-gomila.html",
+        "date": "2025-09-08 02:00:02",
+        "sentiment_score": 0.4609614834189415
+    },
+    {
+        "title": "Lamine Yamal presentó la prueba de que su romance con Nicki Nicole sigue firme: “Enamorado”",
+        "image_url": "https://www.infobae.com/resizer/v2/37H66G2APZEKREYAR5YKXU63RM.jpg?auth=c290d1e087579346d30b54824c3c27a513ae0bfa27fca289fa1d9d068d5ea899&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "nicki nicole",
+            "nico williams",
+            "lamine yamal"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/09/08/lamine-yamal-presento-la-prueba-de-que-su-romance-con-nicki-nicole-sigue-firme-enamorado/",
+        "date": "2025-09-08 01:32:51",
+        "sentiment_score": 0.1269008107483387
+    },
+    {
+        "title": "El negocio de la limpieza: conoce los pasos para obtener la licencia para operar legalmente en EE.UU.",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/undefined",
+        "date": "2025-09-08 02:06:07",
+        "sentiment_score": -0.10325762629508972
+    },
+    {
+        "title": "Alerta sanitaria en EE. UU.: esta es la razón del aumento de casos de rabia en animales salvajes",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/undefined",
+        "date": "2025-09-08 02:06:07",
+        "sentiment_score": -0.6938073076307774
+    },
+    {
+        "title": "El futuro de la salud en EE. UU.: seguros médicos enfrentan subidas de precios récord en la historia",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757283905952.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "seguros de vida",
+            "economía",
+            "seguros ee.uu."
+        ],
+        "link": "https://2001online.com/usa/internacionales/el-futuro-de-la-salud-en-ee-uu-seguros-medicos-enfrentan-subidas-de-precios-record-en-la-historia-2025972200",
+        "date": "2025-09-08 02:00:00",
+        "sentiment_score": 0.07586773112416267
+    },
+    {
+        "title": "Predicciones de la semana del 8 al 14 de septiembre 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757081195019.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-8-al-14-de-septiembre-2025-2025972200",
+        "date": "2025-09-08 02:00:00",
+        "sentiment_score": 0.0002778545022010803
+    },
+    {
+        "title": "Arjona explica su retiro temporal de los escenarios: Me vi muy mal",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757294867691.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "us open",
+            "ricardo arjona"
+        ],
+        "link": "https://2001online.com/farandula/arjona-explica-su-retiro-temporal-de-los-escenarios-me-vi-muy-mal--20259721230",
+        "date": "2025-09-08 01:23:00",
+        "sentiment_score": 0.350407212972641
+    },
+    {
+        "title": "¿Qué le está pasando a los ciervos en EE. UU?: científicos revelan la verdad de las fotos virales",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757291099439.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "tumores en los ciervos en usa",
+            "ciervos en usa",
+            "papilomavirus",
+            "usa",
+            "verrugas monstruosas"
+        ],
+        "link": "https://2001online.com/internacionales/que-le-esta-pasando-a-los-ciervos-en-ee-uu-cientificos-revelan-la-verdad-de-las-fotos-virales-20259721150",
+        "date": "2025-09-08 01:15:00",
+        "sentiment_score": -0.3057078570127487
+    },
+    {
+        "title": "¡Increíble tecnología! Así funciona el médico robot que puede curar coágulos sanguíneos: mide solo un milímetro",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757044582903.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "delivery con robots",
+            "microchic",
+            "salud",
+            "coagulos",
+            "robótica"
+        ],
+        "link": "https://2001online.com/usa/internacionales/increible-tecnologia-asi-funciona-el-medico-robot-que-puede-curar-coagulos-sanguineos-mide-solo-un-milimetro-2025972100",
+        "date": "2025-09-08 01:00:00",
+        "sentiment_score": 0.2978505715727806
+    },
+    {
+        "title": "Tarjeta Zinli: cómo solicitarla, recargarla y qué puedes pagar desde Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757127232505.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "venezuela",
+            "diario 2001",
+            "tarjeta",
+            "internacional"
+        ],
+        "link": "https://2001online.com/servicios/tarjeta-zinli-como-solicitarla-recargarla-y-que-puedes-pagar-desde-venezuela-2025972100",
+        "date": "2025-09-08 01:00:00",
+        "sentiment_score": 0.5317730084061623
+    },
+    {
+        "title": "Estos son los mejores ejercicios para aliviar dolores de artritis: la Clínica Mayo revela su guía de salud ósea",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1756910803591.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/estos-son-los-mejores-ejercicios-para-aliviar-dolores-de-artritis-la-clinica-mayo-revela-su-guia-de-salud-osea-2025972100",
+        "date": "2025-09-08 01:00:00",
+        "sentiment_score": 0.716855401173234
+    },
+    {
+        "title": "El horror que nadie esperaba: Cámara de seguridad captura el brutal asesinato de una joven",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757289094851.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "carolina del norte",
+            "joven es asesinada en un tren en carolina del norte",
+            "estados unidos",
+            "ucraniana es asesinada"
+        ],
+        "link": "https://2001online.com/sucesos/el-horror-que-nadie-esperaba-camara-de-seguridad-captura-el-brutal-asesinato-de-una-joven-2025972100",
+        "date": "2025-09-08 01:00:00",
+        "sentiment_score": -0.5888083390891552
     }
 ];
