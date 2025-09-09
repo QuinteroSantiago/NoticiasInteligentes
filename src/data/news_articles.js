@@ -157,27 +157,6 @@ export default [
         "sentiment_score": -0.11279943585395813
     },
     {
-        "title": "Alemania conecta el superordenador de IA más rápido de Europa",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/09/05/jupiter-RMVjfxuK1iVjK9BVKgLXkBM-1200x840@diario_abc.jpg",
-        "tags": [
-            "tecnología"
-        ],
-        "link": "https://www.abc.es/tecnologia/alemania-conecta-superordenador-ia-rapido-europa-20250905152132-nt.html",
-        "date": "2025-09-05 13:21:33",
-        "sentiment_score": -0.05413997173309326
-    },
-    {
-        "title": "Consum incrementa un 12% los descuentos a sus socios-clientes hasta julio",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/05/consum-descuentos-RlnIPAp2IUy4UlGiVKgz5xI-1200x840@diario_abc.jpg",
-        "tags": [
-            "valencia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/consum-incrementa-descuentos-sociosclientes-julio-20250905122950-nt.html",
-        "date": "2025-09-05 10:29:51",
-        "sentiment_score": -0.028406307101249695
-    },
-    {
         "title": "Gobierno y Generalitat preparan el funeral de Estado por la dana para el 29 de octubre",
         "image_url": "https://imagenes.elpais.com/resizer/v2/6RXA4AGQQNGUFAVNWPK4ZLT6YQ.jpg?auth=f60d089dea6dcec511a83c80f9f78807a0d261b92f024eca2a8a16c7d0cbe0af&width=1200",
         "tags": [
@@ -332,26 +311,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-09-05/el-ayuntamiento-de-almeida-solo-apunta-a-un-colegio-publico-al-programa-de-300-centros-de-la-region-que-abriran-sus-patios-por-las-tardes.html",
         "date": "2025-09-05 14:29:35",
         "sentiment_score": -0.09432429075241089
-    },
-    {
-        "title": "Feijóo se justifica tras el plantón al Rey: “No le hemos fallado al jefe del Estado y nunca le fallaremos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AWBAJI3PURLJ5GFNPXT2AKDAB4.jpg?auth=ca175898bb0416c20253716940c3facfeb7617bc7a74473ea316083da4a2808f&width=1200",
-        "tags": [
-            "isabel díaz ayuso",
-            "pp",
-            "españa",
-            "gobierno de españa",
-            "año judicial",
-            "felipe vi",
-            "alberto núñez feijóo",
-            "tribunal supremo",
-            "álvaro garcía ortiz",
-            "pedro sánchez",
-            "fiscalía general estado"
-        ],
-        "link": "https://elpais.com/espana/2025-09-05/feijoo-se-justifica-tras-el-planton-al-rey-no-le-hemos-fallado-al-jefe-del-estado-y-nunca-le-fallaremos.html",
-        "date": "2025-09-05 13:10:13",
-        "sentiment_score": 0.2461281269788742
     },
     {
         "title": "Los Hernangómez suspenden en un Eurobasket decepcionante: \"Es un fracaso, no he estado a la altura\"",
@@ -8282,5 +8241,574 @@ export default [
         "link": "https://2001online.com/usa/internacionales/el-seguro-social-de-estados-unidos-sorprende-a-los-jubilados-descubre-quienes-recibiran-5-108-en-septiembre-20259815270",
         "date": "2025-09-08 19:27:00",
         "sentiment_score": 0.023779310286045074
+    },
+    {
+        "title": "Un giro de 180 grados en el segundo programa de ‘MasterChef Celebrity 10′ marca una noche tensa y emotiva con una expulsión inesperada",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3466",
+        "tags": [
+            "televisión españa",
+            "españa-noticias",
+            "soraya arnelas",
+            "españa-entretenimiento",
+            "programas de televisión",
+            "gastronomía",
+            "masterchef celebrity",
+            "cocina",
+            "masterchef"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/un-giro-de-180-grados-en-el-segundo-programa-de-masterchef-celebrity-10-marca-una-noche-tensa-y-emotiva-con-una-expulsion-inesperada/",
+        "date": "2025-09-09 01:49:54",
+        "sentiment_score": -0.061898231506347656
+    },
+    {
+        "title": "¿Cómo estará el clima en Madrid?",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "tiempo en españa",
+            "españa noticias",
+            "españa sociedad",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/como-estara-el-clima-en-madrid/",
+        "date": "2025-09-09 01:30:57",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "España: el pronóstico del tiempo en Barcelona este 9 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/espana-el-pronostico-del-tiempo-en-barcelona-este-9-de-septiembre/",
+        "date": "2025-09-09 01:16:52",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "‘La Revuelta’ arranca su segunda temporada con la Brigada de Refuerzo de Incendios Forestales, que se enfrentó “cuerpo a cuerpo” contra el fuego para proteger a 150 niños",
+        "image_url": "https://www.infobae.com/resizer/v2/4EC7YHXAPVBKJKE5N4CH2FTPEA.png?auth=081c99478975497f8cc6787211e5768c2cbe16d33dc994f17267deb7e82e59e9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-televisión",
+            "incendios",
+            "galicia",
+            "orense",
+            "españa-noticias",
+            "david broncano",
+            "bomberos",
+            "españa-entretenimiento",
+            "televisión",
+            "televisión españa",
+            "la revuelta",
+            "incendio forestal"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/la-revuelta-arranca-su-segunda-temporada-con-la-brigada-de-refuerzo-de-incendios-forestales-que-se-enfrento-cuerpo-a-cuerpo-contra-el-fuego-para-proteger-a-150-ninos/",
+        "date": "2025-09-09 01:04:57",
+        "sentiment_score": -0.12629784643650055
+    },
+    {
+        "title": "Junts confirma a Trabajo su rechazo a la rebaja de la jornada y mantiene la enmienda a la totalidad",
+        "image_url": "https://www.infobae.com/resizer/v2/FWTYKIILHVDFBJO5RE7GWCONDY.jpg?auth=399462d897197c1214c8ee1579cd489cd1ee17139648406e96e380dc6d461651&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "carles puigdemont",
+            "españa-nacional",
+            "miriam nogueras",
+            "reforma laboral",
+            "junts",
+            "yolanda díaz",
+            "españa-noticas",
+            "sumar",
+            "reduccion de jornada laboral"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/08/junts-confirma-a-trabajo-su-rechazo-a-la-rebaja-de-la-jornada-y-mantiene-la-enmienda-a-la-totalidad/",
+        "date": "2025-09-08 23:57:48",
+        "sentiment_score": -0.9033354092389345
+    },
+    {
+        "title": "Cupón Diario de la Once: comprueba los resultados ganadores del 8 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/08/cupon-diario-de-la-once-comprueba-los-resultados-ganadores-del-8-de-septiembre/",
+        "date": "2025-09-08 23:15:27",
+        "sentiment_score": 0.38497707433998585
+    },
+    {
+        "title": "Madrid concentra 2 de cada 3 euros en inversión extranjera, y ésta ha subido un 43% respecto a 2023",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/08/inversion-RlLMKTxdMpSXHPOlmutVrwJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "economia",
+            "comunidad de madrid"
+        ],
+        "link": "https://www.abc.es/espana/madrid/madrid-concentra-euros-inversion-extranjera-subido-respecto-20250908183859-nt.html",
+        "date": "2025-09-09 00:26:53",
+        "sentiment_score": -0.035060733556747437
+    },
+    {
+        "title": "El cuarto revés a España de la Justicia de EE.UU. por los impagos de laudos de renovables eleva el riesgo de embargo a 360 millones",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/09/09/CIADI-kjhE-RqaEQgjSzgUP0ldwGCiBsyM-1200x840@diario_abc.jpg",
+        "tags": [
+            "estados unidos",
+            "bruselas",
+            "comisión europea (ce)",
+            "energías renovables",
+            "justicia"
+        ],
+        "link": "https://www.abc.es/economia/cuarto-reves-espana-justicia-eeuu-impagos-laudos-20250909194028-nt.html",
+        "date": "2025-09-09 00:26:14",
+        "sentiment_score": -0.11507672071456909
+    },
+    {
+        "title": "El peronismo lanza un aviso a Milei de cara a las legislativas de octubre",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/08/milei-kyrC-U701508230847s5E-1200x840@diario_abc.jpg",
+        "tags": [
+            "buenos aires",
+            "argentina",
+            "javier milei"
+        ],
+        "link": "https://www.abc.es/internacional/peronismo-gana-buenos-aires-castiga-milei-karinagate-20250908022415-nt.html",
+        "date": "2025-09-09 00:24:16",
+        "sentiment_score": 0.013468325138092041
+    },
+    {
+        "title": "La banda de falsos mecánicos que estafaba hasta 9.000 euros a ancianos por averías ficticias",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/08/piezas-mecanicos1-RPygKSOSDxJTigzmeed8AfO-1200x840@diario_abc.jpg",
+        "tags": [
+            "madrid",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/madrid/banda-falsos-mecanicos-estafaba-9000-euros-ancianos-20250908185344-nt.html",
+        "date": "2025-09-09 00:05:05",
+        "sentiment_score": -0.182379350066185
+    },
+    {
+        "title": "Un curso de la IA de Google, el último que ofrece la Comunidad de Madrid, que ya ha formado a 70.000 personas",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/08/curso-IA-RPgnhkpIQD5NmCSPS2ug92N-1200x840@diario_abc.jpg",
+        "tags": [
+            "google",
+            "inteligencia artificial",
+            "comunidad de madrid"
+        ],
+        "link": "https://www.abc.es/espana/madrid/curso-ia-google-ultimo-ofrece-comunidad-madrid-20250908012655-nt.html",
+        "date": "2025-09-08 23:26:55",
+        "sentiment_score": 0.01842239499092102
+    },
+    {
+        "title": "Carolina Perles, exesposa de Ábalos: “Koldo era un topo de Cerdán para controlar a mi exmarido”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CISU6SXLWZATRMRJCKPXXNPYJQ.jpg?auth=6c456b4cb0b2469908b3b2dfe6d9cdae2597de69e3c92d60836e923837aa5a4d&width=1200",
+        "tags": [
+            "política",
+            "españa",
+            "leire díez",
+            "santos cerdán",
+            "josé luis ábalos",
+            "psoe",
+            "caso koldo",
+            "corrupción"
+        ],
+        "link": "https://elpais.com/espana/2025-09-08/carolina-perles-exesposa-de-abalos-koldo-era-un-topo-de-cerdan-para-controlar-a-mi-exmarido.html",
+        "date": "2025-09-08 22:26:13",
+        "sentiment_score": -0.7248697690665722
+    },
+    {
+        "title": "¿Se hunde Milei?",
+        "image_url": "https://men.gsstatic.es/autor/jose-antonio-perez-montiel/11327.png",
+        "tags": [
+            "firmas del día"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/09/09/2465807/hunde-milei-1.html",
+        "date": "2025-09-09 02:00:02",
+        "sentiment_score": -0.056262195110321045
+    },
+    {
+        "title": "Los retos del sistema educativo en el nuevo curso según el 'sabio' Gregorio Luri: \"En los colegios falta atención y disciplina\"",
+        "image_url": "https://s2.elespanol.com/2025/09/08/actualidad/1003743916586_258544535_1706x960.jpg?contentId=1003743916586",
+        "tags": [
+            "profesorado",
+            "reportajes",
+            "ministerio de educación y formación profesional",
+            "educación",
+            "vuelta al cole",
+            "pedagogía",
+            "filosofía"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250909/retos-sistema-educativo-nuevo-curso-sabio-gregorio-luri-colegios-falta-atencion-disciplina/1003743916566_0.html",
+        "date": "2025-09-09 01:38:38",
+        "sentiment_score": -0.9021989172324538
+    },
+    {
+        "title": "Casi 65 de cada cien euros de Castilla y León van a políticas sociales",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2025/09/08/68bf5029312f5.r_d.600-378-0.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/250909/2059170/65-cien-euros-cyl-politicas-sociales.html",
+        "date": "2025-09-09 01:30:00",
+        "sentiment_score": -0.5950090792030096
+    },
+    {
+        "title": "Sánchez anuncia un paquete de sanciones y el embargo de armas por ley a Israel",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/09/08/68bef5b1dcbe0.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/250909/2059125/sanchez-anuncia-paquete-sanciones-embargo-armas-ley-israel-espana-retira-embajadora.html",
+        "date": "2025-09-09 01:30:00",
+        "sentiment_score": -0.9109501903876662
+    },
+    {
+        "title": "De Estados Unidos al Arsenal y la Premier League: quiénes son los Kroenke, la dinastía que conquistó el fútbol de élite",
+        "image_url": "https://www.infobae.com/resizer/v2/Q2TRJBC3VA4TMQDLQ47KA5QBLE.jpg?auth=ef439090bebee9c8d9062aeb3b8d33c8e801dcd1edb0ff87a40570736374c70c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "los angeles rams",
+            "stan kroenke",
+            "kroenke sports & entertainment",
+            "newsroom bue",
+            "arsenal fc",
+            "estados unidos",
+            "nfl",
+            "josh kroenke",
+            "denver nuggets"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/09/de-estados-unidos-al-arsenal-y-la-premier-league-quienes-son-los-kroenke-la-dinastia-que-conquisto-el-futbol-de-elite/",
+        "date": "2025-09-09 00:51:07",
+        "sentiment_score": 0.7060107439756393
+    },
+    {
+        "title": "Begoña Gómez recurre el análisis de sus correos: niega su imputación por malversación",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/07/2025040722423535807.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/begona-gomez-recurre-analisis-correos-niega-imputacion-malversacion/20250909024233355632.html",
+        "date": "2025-09-09 00:42:33",
+        "sentiment_score": -0.6466297693550587
+    },
+    {
+        "title": "Sánchez, atrapado en Gaza: cómo parar a Netanyahu sin favorecer a Hamás",
+        "image_url": "https://s2.elespanol.com/2025/09/08/actualidad/1003743916415_258541496_1024x576.jpg?contentId=1003743916415",
+        "tags": [
+            "conflicto palestino-israelí",
+            "pedro sánchez",
+            "editoriales",
+            "opinión",
+            "israel",
+            "hamás"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20250909/sanchez-atrapado-gaza-parar-netanyahu-sin-favorecer-hamas/1003743916407_14.html",
+        "date": "2025-09-09 00:23:47",
+        "sentiment_score": -0.7596310097724199
+    },
+    {
+        "title": "Nieves Álvarez presenta «una historia que son muchas historias», su libro más doloroso",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/09/08/108306485-k3KH--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "libro",
+            "alvarez",
+            "presenta",
+            "historias",
+            "historia",
+            "doloroso",
+            "nieves"
+        ],
+        "link": "https://www.eldiariomontanes.es/culturas/nieves-alvarez-presenta-historia-historias-libro-doloroso-20250909072256-nt.html",
+        "date": "2025-09-09 00:00:00",
+        "sentiment_score": -0.28606750816106796
+    },
+    {
+        "title": "Se desata la locura para acceder a la red eléctrica: se abre la veda para más baterías, data centers y nuevas industrias en España",
+        "image_url": "https://s2.elespanol.com/2025/09/08/actualidad/1003743916507_258543225_1706x960.jpg?contentId=1003743916507",
+        "tags": [
+            "comercializadora de luz y de gas",
+            "observatorio de la energía",
+            "almacenamiento energético",
+            "electricidad",
+            "distribuidoras de luz y gas",
+            "almacenamiento de datos"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20250908/desata-locura-acceder-red-electrica-abre-veda-baterias-data-centers-nuevas-industrias-espana/1003743916399_0.html",
+        "date": "2025-09-08 23:57:14",
+        "sentiment_score": 0.39191723242402077
+    },
+    {
+        "title": "Leica: de Leipzig 1925 a Madrid, cien años enfocando la historia",
+        "image_url": "https://s2.elespanol.com/2025/09/01/actualidad/1003743906858_258364887_1706x960.jpg?contentId=1003743906858",
+        "tags": [
+            "fotografía",
+            "exposiciones",
+            "arte"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20250908/leica-leipzig-madrid-cien-anos-enfocando-historia/1003743904397_0.html",
+        "date": "2025-09-08 23:47:57",
+        "sentiment_score": 0.698077842593193
+    },
+    {
+        "title": "Las compañías ofrecen más vuelos que nunca para volar a Menorca en el tramo final de temporada",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3466369.jpg",
+        "tags": [
+            "vuelos a menorca",
+            "viajar a menorca",
+            "local",
+            "temporada turística en menorca"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/09/09/2465919/companias-ofrecen-mas-vuelos-nunca-para-volar-menorca-tramo-final-temporada.html",
+        "date": "2025-09-09 02:00:02",
+        "sentiment_score": 0.06626535207033157
+    },
+    {
+        "title": "El tesoro naranja cargado de betacarotenos que mejora tu vista y protege tu salud desde el interior",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3452895.jpg",
+        "tags": [
+            "vista",
+            "audiencias-um",
+            "ia-news",
+            "gastronomía",
+            "recetas de cocina",
+            "conejos",
+            "salud y bienestar",
+            "noticias interesantes",
+            "frutas y verduras de temporada"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/gastronomia/2025/09/09/2459797/tesoro-naranja-cargado-betacarotenos-mejora-vista-protege-salud-desde-interior.html",
+        "date": "2025-09-09 02:00:02",
+        "sentiment_score": 0.6656939350068569
+    },
+    {
+        "title": "Adiós a la postergación de tareas en esta vuelta al cole: estrategias que transformarán tu rendimiento académico",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3452097.jpg",
+        "tags": [
+            "aprender y más",
+            "colegios en mallorca",
+            "vuelta al cole en mallorca",
+            "audiencias-um",
+            "consejos útiles",
+            "ia-discover",
+            "trucos para ahorrar",
+            "curiosidades y trucos",
+            "noticias interesantes",
+            "dudas y respuestas"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/dudas-respuestas/2025/09/09/2459331/adios-postergacion-tareas-esta-vuelta-cole-estrategias-transformaran-rendimiento-academico.html",
+        "date": "2025-09-09 02:00:02",
+        "sentiment_score": -0.5231428518891335
+    },
+    {
+        "title": "Llegadas con escala: una de cada cinco plazas entre Barcelona y Menorca la ocupan turistas extranjeros",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3466407.jpg",
+        "tags": [
+            "vuelos a menorca",
+            "viajar a menorca",
+            "local",
+            "temporada turística en menorca"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/09/09/2465937/llegadas-escala-usuarios-ruta-estival-barcelona-son-extranjeros.html",
+        "date": "2025-09-09 02:00:02",
+        "sentiment_score": -0.1715453490614891
+    },
+    {
+        "title": "Churchill en Mallorca, 1935",
+        "image_url": "https://uh.gsstatic.es/autor/jesus-garcia-marin/10330.png",
+        "tags": [
+            "medio de comunicación",
+            "grupo serra",
+            "artículos de opinión",
+            "tribuna",
+            "prensa digital"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/09/09/2465863/churchill-mallorca-1935.html",
+        "date": "2025-09-09 02:00:02",
+        "sentiment_score": -0.22632473707199097
+    },
+    {
+        "title": "Ryanair vuelve a dejar Menorca en invierno: Vueling tendrá el monopolio a Barcelona",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3466379.jpg",
+        "tags": [
+            "transporte aéreo en menorca",
+            "viajar a menorca",
+            "local"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/09/09/2465925/ryanair-vuelve-dejar-menorca-invierno.html",
+        "date": "2025-09-09 02:00:02",
+        "sentiment_score": -0.8565328102558851
+    },
+    {
+        "title": "Autofotografías contra la pérdida de memoria",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3466457.jpg",
+        "tags": [
+            "palma",
+            "última hora",
+            "ultimas noticias",
+            "palma de mallorca",
+            "local"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/09/09/2465967/autofotografias-contra-perdida-memoria.html",
+        "date": "2025-09-09 02:00:02",
+        "sentiment_score": 0.0844937264919281
+    },
+    {
+        "title": "Un dron ataca el barco de la flotilla con ayuda para Gaza en el que viaja Greta Thunberg y provoca un incendio en la cubierta",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/36NREBVNMRPZ3EUBSOQUWJ67OM.jpg?auth=d254d47b28ec6a68dd3789b7ed9757c1139aabcdf35c2d2797c14185a278b412&width=1200",
+        "tags": [
+            "greta thunberg",
+            "israel",
+            "túnez",
+            "franja gaza",
+            "flotilla de la libertad",
+            "conflicto árabe-israelí"
+        ],
+        "link": "https://elpais.com/internacional/2025-09-09/un-dron-ataca-el-barco-de-la-flotilla-con-ayuda-para-gaza-en-el-que-viaja-greta-thunberg-y-provoca-un-incendio-en-la-cubierta.html",
+        "date": "2025-09-09 01:50:54",
+        "sentiment_score": -0.7651671841740608
+    },
+    {
+        "title": "VIDEO: El impactante gol de tiro libre de Ronaldinho a los 45 años",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/09/ronaldinho-uruguay-futbol.jpg",
+        "tags": [
+            "titulares",
+            "futbol",
+            "deportes",
+            "ronaldinho",
+            "uruguay"
+        ],
+        "link": "https://lapatilla.com/2025/09/08/video-el-impactante-gol-de-tiro-libre-de-ronaldinho-a-los-45-anos/",
+        "date": "2025-09-09 01:44:18",
+        "sentiment_score": 0.816729137673974
+    },
+    {
+        "title": "El milagro de Sergio Cámara, de pesar 163 kilos a completar tres 'vueltas' a España: \"No ando 100 metros, pero sí pedaleo 100 km\"",
+        "image_url": "https://s2.elespanol.com/2025/09/08/actualidad/1003743916153_258536215_1706x960.jpg?contentId=1003743916153",
+        "tags": [
+            "andalucía",
+            "solidaridad",
+            "reportajes",
+            "sociedad",
+            "ciclismo",
+            "españa",
+            "enfermedades"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250909/milagro-sergio-camara-pesar-kilos-completar-vueltas-espana-no-ando-metros-pedaleo-km/1003743916137_0.html",
+        "date": "2025-09-09 01:38:28",
+        "sentiment_score": 0.7528977766633034
+    },
+    {
+        "title": "Repartidores venezolanos en la mira del ICE: el riesgo detrás de cada pedido en Washington D.C.",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757380987996.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "washington d. c.",
+            "repartidores",
+            "venezolanos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/repartidores-venezolanos-en-la-mira-del-ice-el-riesgo-detras-de-cada-pedido-en-washington-d-c--2025982200",
+        "date": "2025-09-09 02:00:00",
+        "sentiment_score": -0.7967775408178568
+    },
+    {
+        "title": "“Congelar” el cáncer: cómo una molécula clave puede frenar la expansión del glioblastoma",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757098931759.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/congelar-el-cancer-como-una-molecula-clave-puede-frenar-la-expansion-del-glioblastoma-2025982200",
+        "date": "2025-09-09 02:00:00",
+        "sentiment_score": -0.4263254702091217
+    },
+    {
+        "title": "Maduro sobre ataque de EEUU a embarcación en el Caribe: Dejó muy mal parados a quienes lo anunciaron",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757382188529.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "narcotráfico",
+            "defensa",
+            "venezuela",
+            "dairio 2001",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-sobre-ataque-de-eeuu-a-embarcacion-en-el-caribe-dejo-muy-mal-parados-a-quienes-lo-anunciaron-20259821480",
+        "date": "2025-09-09 01:48:00",
+        "sentiment_score": -0.9366502678021789
+    },
+    {
+        "title": "¿Cometiste un error? Así puedes corregir tu declaración de impuestos y recibir tu reembolso",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757381125226.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "irs",
+            "declaración de impuestos eeuu",
+            "declaración enmendada"
+        ],
+        "link": "https://2001online.com/usa/servicios/cometiste-un-error-asi-puedes-corregir-tu-declaracion-de-impuestos-y-recibir-tu-reembolso-20259821230",
+        "date": "2025-09-09 01:23:00",
+        "sentiment_score": 0.07928340137004852
+    },
+    {
+        "title": "La Vinotinto se juega la vida en Maturín: así está el historial entre Venezuela y Colombia",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757381917786.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "venezuela",
+            "la vinotinto"
+        ],
+        "link": "https://2001online.com/deportes/la-vinotinto-se-juega-la-vida-en-maturin-asi-esta-el-historial-entre-venezuela-y-colombia-20259821220",
+        "date": "2025-09-09 01:22:00",
+        "sentiment_score": 0.029896080493927002
+    },
+    {
+        "title": "Plaga de chipos se expande por 32 estados de EE. UU.: ¿qué hacer para evitar el mal de Chagas?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757374307257.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "enfermedad de chagas",
+            "plaga",
+            "ee.uu."
+        ],
+        "link": "https://2001online.com/usa/servicios/plaga-de-chipos-se-expande-por-32-estados-de-ee-uu-que-hacer-para-evitar-el-mal-de-chagas--2025982100",
+        "date": "2025-09-09 01:00:00",
+        "sentiment_score": -0.7633591517806053
+    },
+    {
+        "title": "Carta Astral de Karol G: ¿Se oirán campanas de boda antes de fin de año?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757083656796.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/carta-astral-de-karol-g-se-oiran-campanas-de-boda-antes-de-fin-de-ano--2025982100",
+        "date": "2025-09-09 01:00:00",
+        "sentiment_score": 0.4214553013443947
+    },
+    {
+        "title": "De crecer en la extrema pobreza a ser leyenda de la MLB: la inspiradora vida de Albert Pujols",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757379675263.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "mlb",
+            "albert pujols"
+        ],
+        "link": "https://2001online.com/deportes/de-crecer-en-la-extrema-pobreza-a-ser-leyenda-de-la-mlb-la-inspiradora-vida-de-albert-pujols-20259820560",
+        "date": "2025-09-09 00:56:00",
+        "sentiment_score": 0.6365912035107613
+    },
+    {
+        "title": "Rejuvenece tus manos: consejos esenciales de dermatólogos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757356789674.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/rejuvenece-tus-manos-consejos-esenciales-de-dermatologos-2025982000",
+        "date": "2025-09-09 00:00:00",
+        "sentiment_score": 0.33291009813547134
+    },
+    {
+        "title": "Maduro anuncia el inicio de la Navidad a partir del 1o de octubre",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757374685712.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "navidades",
+            "diaro 2001",
+            "fin de año",
+            "diciembre"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-el-inicio-de-la-navidad-a-partir-del-1-de-octubre-20259819390",
+        "date": "2025-09-08 23:39:00",
+        "sentiment_score": 0.8085135221481323
     }
 ];
