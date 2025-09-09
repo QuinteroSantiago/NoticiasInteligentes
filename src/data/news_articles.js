@@ -1,477 +1,5 @@
 export default [
     {
-        "title": "La periodista que comió con Mazón el día de la DANA habla por primera vez y afirma que fue “un horrible golpe de mala suerte”",
-        "image_url": "https://www.infobae.com/resizer/v2/4UQM7MVGRVBL3FDR4MHAEMYBWA.jpg?auth=c0efc7d3cbf3564bc90bc58e48ec016eec592db3964cb091785660710ce86a79&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "partido popular",
-            "valencia",
-            "dana",
-            "carlos mazón",
-            "españa-noticias",
-            "comunidad valenciana"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/05/la-periodista-que-comio-con-mazon-el-29-o-afirma-que-fue-un-horrible-golpe-de-mala-suerte/",
-        "date": "2025-09-05 17:06:32",
-        "sentiment_score": -0.7030757647007704
-    },
-    {
-        "title": "El silencio digital: lo que la psicología revela de quienes no publican en redes sociales ni responden en grupos de WhatsApp",
-        "image_url": "https://www.infobae.com/resizer/v2/RC6W3UFIH5AT7EJ6ZMZZWZ22MI.jpg?auth=4621d01d918fa5a7950cc5bece86a9e07456a3057f3246ae1dbc570f364d3a36&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "consumo digital",
-            "adicción a la tecnología",
-            "españa-sociedad",
-            "comunicación",
-            "nuevas tecnologías",
-            "psicología",
-            "españa-noticias",
-            "redes sociales"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/05/el-silencio-digital-lo-que-la-psicologia-revela-de-quienes-no-publican-en-redes-sociales-ni-responden-en-grupos-de-whatsapp/",
-        "date": "2025-09-05 16:47:36",
-        "sentiment_score": -0.05758277326822281
-    },
-    {
-        "title": "La ensalada picante que mejora la salud del corazón y es ideal para perder peso",
-        "image_url": "https://www.infobae.com/resizer/v2/SQAKUCCO3JEGZJANAHXRFZVQVE.jpg?auth=86362c98a6de7b5cb140dade4cedfabc4a194f362876080984788ca912063cb4&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "productos españa",
-            "recetas",
-            "dieta saludable",
-            "recetas españa",
-            "españa-gastronomía",
-            "españa-noticias",
-            "ensaladas"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/05/la-ensalada-picante-que-mejora-la-salud-del-corazon-y-es-ideal-para-perder-peso/",
-        "date": "2025-09-05 16:37:49",
-        "sentiment_score": 0.7182687669992447
-    },
-    {
-        "title": "El sector hotelero se mantiene optimista con la temporada de otoño tras las buenas cifras del verano",
-        "image_url": "https://www.infobae.com/resizer/v2/5OR4J37YRZHAROGUL6D4EF64A4.jpg?auth=bd4834ef44d36c5dc4eb035da072749f1aefa6167a2ac08d4005d865172f8f19&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "turismo españa",
-            "turistas",
-            "españa-noticias",
-            "hoteles",
-            "hoteles españa",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/05/el-sector-hotelero-se-mantiene-optimista-con-la-temporada-de-otono-tras-las-buenas-cifras-del-verano/",
-        "date": "2025-09-05 16:23:02",
-        "sentiment_score": 0.5732603333890438
-    },
-    {
-        "title": "Las ventas de Porcelanosa avanzan un 10% en España en lo que va de 2025",
-        "image_url": "https://www.infobae.com/resizer/v2/LMCFLOMHVZAGDB5SD2THMOK4CM.jpg?auth=fd8e5a69605995e46fc6df85830b2108a13f080aeacfe9c76e25cc2929365c78&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/09/05/las-ventas-de-porcelanosa-avanzan-un-10-en-espana-en-lo-que-va-de-2025/",
-        "date": "2025-09-05 16:18:03",
-        "sentiment_score": 0.6117652878165245
-    },
-    {
-        "title": "Prisión para los 17 detenidos que iban en un cayuco en el que murieron decenas de migrantes camino de Canarias",
-        "image_url": "https://www.infobae.com/resizer/v2/7ZWOCD7RW5B7PEZIC36Q4DSX6I.jpg?auth=c2c0f82c0f898a7de119baa62810b648478c0864c413eeccb5ae7952b2d753c4&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/09/05/prision-para-los-17-detenidos-que-iban-en-un-cayuco-en-el-que-murieron-decenas-de-migrantes-camino-de-canarias/",
-        "date": "2025-09-05 15:47:40",
-        "sentiment_score": -0.8293037675321102
-    },
-    {
-        "title": "Mucac La Coracha acoge la primera exposición monográfica en España de la artista Mona Kuhn",
-        "image_url": "https://www.infobae.com/resizer/v2/RG7XVWYFGZFTFHYB7WY7DGBPW4.jpg?auth=fdf8ff6c4bd29ddef8ffa5f6d8771eb6c38361f55c50a32e350e7386183fb3b3&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/09/05/mucac-la-coracha-acoge-la-primera-exposicion-monografica-en-espana-de-la-artista-mona-kuhn/",
-        "date": "2025-09-05 15:45:34",
-        "sentiment_score": 0.39937272667884827
-    },
-    {
-        "title": "El Banco Sabadell considera “pobre” la oferta de BBVA y dice es peor que la rechazada en 2024",
-        "image_url": "https://www.infobae.com/resizer/v2/MPNEXRK67ZDGLHRWT6E34LAKJY.jpg?auth=35b0ce0b01a61c062c038dc56673bca498777f472c9c0a6808ee7b831153b0a2&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "banco sabadell",
-            "bancos españa",
-            "bbva",
-            "españa-noticias",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/05/el-banco-sabadell-considera-pobre-la-oferta-de-bbva-y-dice-es-peor-que-la-rechazada-en-2024/",
-        "date": "2025-09-05 15:41:40",
-        "sentiment_score": 0.09840472415089607
-    },
-    {
-        "title": "Unos turistas denuncian un robo en un bar de Madrid y la respuesta del dueño del restaurante es de aplaudir: “Querían hacer un simpa”",
-        "image_url": "https://www.infobae.com/resizer/v2/66WF6MDAU3ZKZA3A3VD56EN3TY.jpg?auth=1acaffc17e7bd903eb5bbace4a4cdc453a992aa36e116123d9b5e3a35791622e&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "policía",
-            "sucesos españa",
-            "turismo",
-            "turismo españa",
-            "sucesos",
-            "españa-noticias",
-            "restaurantes españa",
-            "comunidad de madrid",
-            "restaurantes",
-            "redes sociales",
-            "robos",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/05/unos-turistas-denuncian-un-robo-en-un-bar-de-madrid-y-la-respuesta-del-dueno-del-restaurante-es-de-aplaudir-querian-hacer-un-simpa/",
-        "date": "2025-09-05 15:39:28",
-        "sentiment_score": 0.14513470232486725
-    },
-    {
-        "title": "La ‘casa okupa’ más deseada y con vistas al mar que todos quieren comprar en una subasta: “Vivimos aquí, trabajamos aquí y nos quedaremos aquí”",
-        "image_url": "https://www.infobae.com/resizer/v2/4BMNHTZYFBB4HGPMFR2EBOYQMM.webp?auth=8a87f267e7e0cc8a2962bff2f62c55cf03ac2816e79897bf68a8e63709c2c1e1&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "francia",
-            "mercado inmobiliario",
-            "alquileres españa",
-            "alquileres",
-            "vivienda",
-            "españa-noticias",
-            "españa-economia",
-            "compra de vivienda"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/05/la-casa-okupa-mas-deseada-y-con-vistas-al-mar-que-todos-quieren-comprar-en-una-subasta-vivimos-aqui-trabajamos-aqui-y-nos-quedaremos-aqui/",
-        "date": "2025-09-05 15:20:43",
-        "sentiment_score": -0.8033319190144539
-    },
-    {
-        "title": "Protección Civil de Níjar confirma el aumento de rescates en las playas y la costa y aumenta un 27,4% las asistencias",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/05/rescate-ROm1DvcmhrY9HRJ4tB9UTeO-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "andalucía",
-            "almería"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/almeria/proteccion-civil-nijar-confirma-aumento-rescates-playas-20250905171914-nts.html",
-        "date": "2025-09-05 15:19:15",
-        "sentiment_score": -0.11279943585395813
-    },
-    {
-        "title": "Gobierno y Generalitat preparan el funeral de Estado por la dana para el 29 de octubre",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6RXA4AGQQNGUFAVNWPK4ZLT6YQ.jpg?auth=f60d089dea6dcec511a83c80f9f78807a0d261b92f024eca2a8a16c7d0cbe0af&width=1200",
-        "tags": [
-            "funerales",
-            "víctimas",
-            "generalitat valenciana",
-            "inundaciones dana octubre 2024",
-            "asociaciones",
-            "gobierno de españa",
-            "comunidad valenciana",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-05/gobierno-y-generalitat-preparan-el-funeral-de-estado-por-la-dana-para-el-29-de-octubre.html",
-        "date": "2025-09-05 16:59:30",
-        "sentiment_score": 0.2586665377020836
-    },
-    {
-        "title": "Castilla-La Mancha ofrece gratuidad en la primera matrícula de 5.100 jóvenes en sus dos universidades públicas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GBKMABABEVEDJGJAH6LMSRZVLI.jpg?auth=5d0a8e19bd5b644be3a7a6361ef22dcc8c45d4f2aa8d262d00ab0770f3ac5e9e&width=1200",
-        "tags": [
-            "estudiantes",
-            "uclm",
-            "universidad alcalá de henares",
-            "universidad",
-            "estudios universitarios",
-            "castilla-la mancha",
-            "españa",
-            "educación",
-            "universidades públicas",
-            "estudiantes universitarios"
-        ],
-        "link": "https://elpais.com/espana/2025-09-05/castilla-la-mancha-ofrece-gratuidad-en-la-primera-matricula-de-5100-jovenes-en-sus-dos-universidades-publicas.html",
-        "date": "2025-09-05 16:42:04",
-        "sentiment_score": 0.7752065863460302
-    },
-    {
-        "title": "Un ciberataque en paneles turísticos de Castellón muestra mensajes contra Pedro Sánchez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BINVVQ4NSZBPXHJVRD2BT2IZ3E.jpeg?auth=4a6092c2943c513585ec21c09f8b3af49339ecf51e9ee4f8478ec18933ff6137&width=1200",
-        "tags": [
-            "ultraderecha",
-            "españa",
-            "pedro sánchez",
-            "hazte oír",
-            "castellón"
-        ],
-        "link": "https://elpais.com/espana/2025-09-05/un-ciberataque-en-paneles-turisticos-de-castellon-muestra-mensajes-contra-pedro-sanchez.html",
-        "date": "2025-09-05 16:40:40",
-        "sentiment_score": -0.42488869838416576
-    },
-    {
-        "title": "Maíllo se desmarca de los ministros de Sumar y va más allá en sus reclamaciones sobre Israel",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RIADUEAEJJI2TE52VYKYPF3Q6A.jpg?auth=4bccadbf2d8df0e90314ce3404d44b5e0b0784505eb12677d743709a76176a60&width=1200",
-        "tags": [
-            "elecciones castilla y león",
-            "izquierda unida",
-            "gobierno",
-            "españa",
-            "política",
-            "palestina",
-            "embargos",
-            "sumar",
-            "israel"
-        ],
-        "link": "https://elpais.com/espana/2025-09-05/maillo-se-desmarca-de-los-ministros-de-sumar-y-va-mas-alla-en-sus-reclamaciones-sobre-israel.html",
-        "date": "2025-09-05 16:13:28",
-        "sentiment_score": -0.6971908658742905
-    },
-    {
-        "title": "La periodista que comió con Mazón en la dana se siente víctima de una “campaña de falsedades”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AC2PUSCQ3JEO3C7TMFRYRFEBWU.jfif?auth=f49b84b0505f513abebda69918ae38c78d01a96d49b46e251fa738fef934e88c&width=1200",
-        "tags": [
-            "tribunales",
-            "temporales",
-            "generalitat valenciana",
-            "carlos mazón",
-            "dana",
-            "españa",
-            "comunidad valenciana",
-            "inundaciones dana octubre 2024"
-        ],
-        "link": "https://elpais.com/espana/2025-09-05/la-periodista-que-comio-con-mazon-en-la-dana-se-siente-victima-de-una-campana-de-falsedades.html",
-        "date": "2025-09-05 15:33:47",
-        "sentiment_score": -0.8975956058129668
-    },
-    {
-        "title": "Ayuso en la apertura del curso político en Madrid: “Estar tanto con los narcos deja a uno trastocado”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TYH6NO322NIUJDP2DRKNLIXI2Y.jpg?auth=204dc64a8aad5bedbba0576b9d814c15a8d9caa1b60baa0c6faa86f76fd484be&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "alberto núñez feijóo",
-            "pp",
-            "españa",
-            "isabel díaz ayuso",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/2025-09-05/ayuso-en-la-apertura-del-curso-politico-en-madrid-estar-tanto-con-los-narcos-deja-a-uno-trastocado.html",
-        "date": "2025-09-05 15:21:46",
-        "sentiment_score": -0.782021876424551
-    },
-    {
-        "title": "La quiebra de Educo sacude la actividad de los centros culturales de Madrid",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EXURVJI6VIUO6FQFK7LTHZ63UM.jpg?auth=1f4163975a5a80ae1b1ad4f942e38af71bb03c9305c628d78db4d0681b5029d8&width=1200",
-        "tags": [
-            "arganzuela",
-            "cultura",
-            "centros culturales",
-            "comunidad de madrid",
-            "trabajo",
-            "bibliotecas",
-            "madrid",
-            "ocio",
-            "quiebra empresas"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-05/la-quiebra-de-educo-sacude-la-actividad-de-los-centros-culturales-de-madrid.html",
-        "date": "2025-09-05 15:07:20",
-        "sentiment_score": -0.8508510533720255
-    },
-    {
-        "title": "El Consell de Mazón pedirá al Supremo suspender cautelarmente el decreto de reparto de menores migrantes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YGOWSO3O3NK45KKQ2RC7U25DEM.jpg?auth=b7d2433001023eaa0d01ce2d12ac1c9ee593bb47b9253b3682896fef14a3f12b&width=1200",
-        "tags": [
-            "generalitat valenciana",
-            "recursos judiciales",
-            "tribunal supremo",
-            "pedro sánchez",
-            "gobierno de españa",
-            "protección social",
-            "menores migrantes",
-            "comunidad valenciana",
-            "susana camarero",
-            "migración"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-05/el-consell-de-mazon-pedira-al-supremo-suspender-cautelarmente-el-decreto-de-reparto-de-menores-migrantes.html",
-        "date": "2025-09-05 14:29:58",
-        "sentiment_score": -0.7728591896593571
-    },
-    {
-        "title": "El Ayuntamiento de Almeida solo apunta a un colegio público al programa de 300 centros de la región que abrirán sus patios por las tardes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DJEX65EVG5BIHBIGGEC6MJP7GU.jpg?auth=1fcbd65c8884e226978166b15a5f69a6e39fa241cccf506a63810cc42ade74ac&width=1200",
-        "tags": [
-            "ayuntamiento madrid",
-            "colegios públicos",
-            "comunidad de madrid",
-            "conciliación laboral",
-            "educación primaria",
-            "colegios",
-            "más madrid",
-            "educación infantil",
-            "madrid",
-            "educación"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-05/el-ayuntamiento-de-almeida-solo-apunta-a-un-colegio-publico-al-programa-de-300-centros-de-la-region-que-abriran-sus-patios-por-las-tardes.html",
-        "date": "2025-09-05 14:29:35",
-        "sentiment_score": -0.09432429075241089
-    },
-    {
-        "title": "Los Hernangómez suspenden en un Eurobasket decepcionante: \"Es un fracaso, no he estado a la altura\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1daeb065-8f57-463f-879d-d68fd7c3ee02_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "eurobasket",
-            "willy hernangómez",
-            "juancho hernangómez",
-            "sergio scariolo",
-            "baloncesto"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2025/09/05/hernangomez-suspenden-eurobasket-decepcionante-fracaso-121284695.html",
-        "date": "2025-09-05 17:07:38",
-        "sentiment_score": -0.6914907768368721
-    },
-    {
-        "title": "Claves que explican el regusto agridulce de tus vacaciones (a ver si aprendemos)",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/09/05/vacaciones-kceF-U2302839337885A3C-1200x840@RC.jpg",
-        "tags": [
-            "redes sociales",
-            "instagram"
-        ],
-        "link": "https://www.elnortedecastilla.es/vivir/tendencias/claves-explican-regusto-agridulce-tus-vacaciones-ver-20250905190840-ntrc.html",
-        "date": "2025-09-05 17:08:42",
-        "sentiment_score": -0.8749837912619114
-    },
-    {
-        "title": "Crisis por obesidad infantil en Florida: un análisis de los condados más afectados",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757091742983.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "salud",
-            "diaro2001",
-            "obesidad infantil",
-            "#estadosunidos",
-            "florida"
-        ],
-        "link": "https://2001online.com/usa/internacionales/crisis-por-obesidad-infantil-en-florida-un-analisis-de-los-condados-mas-afectados-20259512550",
-        "date": "2025-09-05 16:55:00",
-        "sentiment_score": 0.3300785422325134
-    },
-    {
-        "title": "CONVOCATORIA PARQUE METROPOLITANO 5 SEP 25",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757091193654.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "publi servicios - legales"
-        ],
-        "link": "https://2001online.com/legales/convocatoria-parque-metropolitano-5-sep-25-20259512520",
-        "date": "2025-09-05 16:52:00",
-        "sentiment_score": 0.009912114590406418
-    },
-    {
-        "title": "¿Vives en California y necesitas seguro de salud? Aprende a solicitar tu plan de bajos ingresos a través de Covered",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757091000083.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "salud",
-            "#california",
-            "covered california",
-            "#diario2001",
-            "seguro médico",
-            "#estadosunidos"
-        ],
-        "link": "https://2001online.com/usa/servicios/vives-en-california-y-necesitas-seguro-de-salud-aprende-a-solicitar-tu-plan-de-bajos-ingresos-a-traves-de-covered-20259512420",
-        "date": "2025-09-05 16:42:00",
-        "sentiment_score": 0.08692365884780884
-    },
-    {
-        "title": "Guía DDS para tramitar la licencia de conducir en Georgia: documentación necesaria, tarifas actualizadas y situación migratoria",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757085525090.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "georgia",
-            "licencia de conducir en georgia",
-            "estados unidos",
-            "diario 2001 online",
-            "tramitar licencia de conducir en georgia",
-            "conductores en georgia",
-            "licencia de conducir para extranjeros en georgia",
-            "usa",
-            "eeuu",
-            "licencia clase c georgia"
-        ],
-        "link": "https://2001online.com/usa/servicios/guia-dds-para-tramitar-la-licencia-de-conducir-en-georgia-documentacion-necesaria-tarifas-actualizadas-y-situacion-migratoria-20259512420",
-        "date": "2025-09-05 16:42:00",
-        "sentiment_score": 0.002877369523048401
-    },
-    {
-        "title": "Nuevas revelaciones sobre el caso de Epstein: claves para entender sus polémicos documentos",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757081737730.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "revelación",
-            "red de explotación",
-            "epstein",
-            "investigación",
-            "victimas"
-        ],
-        "link": "https://2001online.com/internacionales/nuevas-revelaciones-en-el-caso-de-epstein-claves-para-entender-sus-polemicos-documentos-20259512390",
-        "date": "2025-09-05 16:39:00",
-        "sentiment_score": -0.7589538637548685
-    },
-    {
-        "title": "Requisitos para hacer envíos desde Venezuela al exterior a través de Zoom y DHL",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757086640636.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "top",
-            "crime"
-        ],
-        "link": "https://2001online.com/servicios/requisitos-para-hacer-envios-desde-venezuela-al-exterior-a-traves-de-zoom-y-dhl--20259512300",
-        "date": "2025-09-05 16:30:00",
-        "sentiment_score": 0.07300314493477345
-    },
-    {
-        "title": "¡Adiós a los estereotipos! Actrices que dijeron no a la maternidad y rompen esquemas en Hollywood y América Latina",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757095216764.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "celebridades",
-            "hollywood",
-            "américa latina"
-        ],
-        "link": "https://2001online.com/farandula/adios-a-los-estereotipos-actrices-que-dijeron-no-a-la-maternidad-y-rompen-esquemas-en-hollywood-y-america-latina-20259512280",
-        "date": "2025-09-05 16:28:00",
-        "sentiment_score": 0.5744972229003906
-    },
-    {
-        "title": "Canadá abre una ruta única: ¿Qué ofrece el EMPP a inmigrantes calificados?",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757092127568.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "estados unidos",
-            "empp",
-            "programa",
-            "internacionales",
-            "inmigrantes"
-        ],
-        "link": "https://2001online.com/usa/internacionales/canada-abre-una-ruta-unica-que-ofrece-el-empp-a-inmigrantes-calificados--20259512190",
-        "date": "2025-09-05 16:19:00",
-        "sentiment_score": 0.7848145477473736
-    },
-    {
-        "title": "“Hoy confirmamos lo que siempre se supo”: Jueces declaran inocente a Bryan Hooper tras casi 30 años en prisión",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757090643452.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "caso",
-            "polémica",
-            "estados unidos",
-            "internacionales",
-            "viral",
-            "minnesota"
-        ],
-        "link": "https://2001online.com/usa/internacionales/hoy-confirmamos-lo-que-siempre-se-supo-jueces-declaran-inocente-a-bryan-hooper-tras-casi-30-anos-en-prision-2025951260",
-        "date": "2025-09-05 16:06:00",
-        "sentiment_score": -0.587534699589014
-    },
-    {
-        "title": "Chepa Candela: A la Emma Rabbe le montaron el ojo",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757086908924.webp?ch=212&cw=377&extw=jpg",
-        "tags": [
-            "farándula  - chepa candela"
-        ],
-        "link": "https://2001online.com/farandula/chepa-candela/chepa-candela-a-la-emma-rabbe-le-montaron-el-ojo-20259511420",
-        "date": "2025-09-05 15:42:00",
-        "sentiment_score": 0.6481794565916061
-    },
-    {
         "title": "España vence bien a Chipre en su inicio clasificatorio para el Europeo sub-21",
         "image_url": "https://www.infobae.com/resizer/v2/DKTJ5BJNDNBDPMN6DXPN2ZX5VA.jpg?auth=0a2eb1df8dceacd5579cb86ddccef9a238296257b2f64daaaa47e71aee61ac30&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -517,63 +45,6 @@ export default [
         "link": "https://www.infobae.com/espana/2025/09/05/comprobar-super-once-los-ganadores-del-sorteo-5-de-este-5-septiembre/",
         "date": "2025-09-05 19:45:24",
         "sentiment_score": 0.023861072957515717
-    },
-    {
-        "title": "Sandra Barneda vuelve a la televisión tras su verano más duro: “Hay que ir acostumbrándose a vivir con una ausencia”",
-        "image_url": "https://www.infobae.com/resizer/v2/CJDJFCULCZCZXE3IRWYY66LVXM.jpg?auth=0a5670312fbf08cf59453198e9787681b43fcf70ddc571e2002e9179787902de&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "corazón y estilo españa",
-            "gente españa",
-            "famosos españa",
-            "españa-entretenimiento",
-            "sandra barneda",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/05/sandra-barneda-vuelve-a-la-television-tras-su-verano-mas-duro-hay-que-ir-acostumbrandose-a-vivir-con-una-ausencia/",
-        "date": "2025-09-05 18:20:34",
-        "sentiment_score": -0.032701194286346436
-    },
-    {
-        "title": "Frisby no se rinde: la reconocida empresa colombiana anunció nueva etapa en su conflicto legal para recuperar su marca en España",
-        "image_url": "https://www.infobae.com/resizer/v2/ID3CNRAORBDXZMS4ZLVUEBUJZY.png?auth=ea0eb5b4f7f678bfd0bfa8ae53d56db54d1ecf116fb02fa1a1a7dda60bdc8953&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "empresa colombiana",
-            "colombia-noticias",
-            "españa",
-            "proceso judicial",
-            "frisby"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/09/05/frisby-no-se-rinde-la-reconocida-empresa-colombiana-anuncio-nueva-etapa-en-su-conflicto-legal-para-recuperar-su-marca-en-espana/",
-        "date": "2025-09-05 17:51:49",
-        "sentiment_score": -0.27371038496494293
-    },
-    {
-        "title": "Ábalos advierte al juez de que la entrevista a su exmujer puede poner en riesgo la causa porque aporta informaciones “sensibles y reservadas”",
-        "image_url": "https://www.infobae.com/resizer/v2/YK6BP2FN5BB7TP27ZDEMEQ5JFY.png?auth=a5609f41e4ec1fd9f8c842753c0b81839d56ba82f4d5dd5321bacdb06a771685&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "psoe",
-            "josé luis ábalos",
-            "españa-noticias",
-            "españa-nacional",
-            "telecinco"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/05/abalos-advierte-al-juez-de-que-la-entrevista-a-su-exmujer-puede-poner-en-riesgo-la-causa/",
-        "date": "2025-09-05 17:31:36",
-        "sentiment_score": -0.5820780172944069
-    },
-    {
-        "title": "Las series más vistas en Netflix España para pasar horas frente a la pantalla",
-        "image_url": "https://www.infobae.com/resizer/v2/JVO6O7IIRVA7ZJ7MH6PD4TYGYM.jpg?auth=e6d55542887e4e4e3728a5fc375a4650b7908fec4f464b667baee97d4e69f57d&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "series",
-            "noticias",
-            "streaming",
-            "netflix",
-            "españa-televisión"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/05/las-series-mas-vistas-en-netflix-espana-para-pasar-horas-frente-a-la-pantalla/",
-        "date": "2025-09-05 17:30:43",
-        "sentiment_score": -0.5246887803077698
     },
     {
         "title": "EE.UU. «vende» un avión al presidente chino con micrófonos hasta en el baño [hemeroteca]",
@@ -631,28 +102,6 @@ export default [
         "sentiment_score": -0.0969022810459137
     },
     {
-        "title": "La tasa de desempleo en EE.UU. aumenta al 4,3% en agosto",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/09/05/1500210921-k0AD-U701498747041z7B-1200x840@diario_abc.jpg",
-        "tags": [
-            "inmigración ilegal",
-            "el economista",
-            "estados unidos",
-            "sistema de la reserva federal",
-            "trabajo",
-            "canadá",
-            "brasil",
-            "partido republicano de los estados unidos",
-            "reino unido",
-            "empleo",
-            "donald trump",
-            "siria",
-            "china"
-        ],
-        "link": "https://www.abc.es/economia/tasa-desempleo-eeuu-aumenta-agosto-20250905193625-nt.html",
-        "date": "2025-09-05 17:36:26",
-        "sentiment_score": -0.13955266773700714
-    },
-    {
         "title": "Camps insiste en su desafío a Mazón y reúne a centenares de simpatizantes en el feudo del presidente en Alicante",
         "image_url": "https://imagenes.elpais.com/resizer/v2/3UN6QBIMEZCD3GCQP7QAIZZOAA.JPG?auth=a87670a742a191106bf98fe6b821dfea0a728fca0ac168d460f1ead60a0246b0&width=1200",
         "tags": [
@@ -669,73 +118,6 @@ export default [
         "link": "https://elpais.com/espana/2025-09-05/camps-insiste-en-su-desafio-a-mazon-y-reune-a-centenares-de-simpatizantes-en-el-feudo-del-presidente-en-alicante.html",
         "date": "2025-09-05 19:29:56",
         "sentiment_score": 0.5059897005558014
-    },
-    {
-        "title": "España abre el futuro sin Scariolo, más que un seleccionador",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YYKUXSYS25BD5F43OIRVU3VIRA.jpg?auth=d1e58e6602fe848b0f18f40ed06fc478cb31333adf3caf4c1fd0f8b25ecfdb77&width=1200",
-        "tags": [
-            "sergio scariolo",
-            "competiciones",
-            "pablo laso",
-            "chus mateo",
-            "selección española baloncesto",
-            "baloncesto",
-            "deportes",
-            "jugadores baloncesto",
-            "feb"
-        ],
-        "link": "https://elpais.com/deportes/baloncesto/2025-09-05/espana-abre-el-futuro-sin-scariolo-mas-que-un-seleccionador.html",
-        "date": "2025-09-05 18:28:30",
-        "sentiment_score": 0.2921667993068695
-    },
-    {
-        "title": "España, tan cerca y a la vez tan lejos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TYJKQHFTR5MDDOE45BIBLRB6MY.jpg?auth=8092e67275897db742fb7f8875dceba1a2b80936707b16cb27e4cbdeca8d2f02&width=1200",
-        "tags": [
-            "baloncesto",
-            "jugadores baloncesto",
-            "eurobasket",
-            "selección española baloncesto",
-            "deportes",
-            "competiciones"
-        ],
-        "link": "https://elpais.com/deportes/baloncesto/2025-09-05/espana-tan-cerca-y-a-la-vez-tan-lejos.html",
-        "date": "2025-09-05 18:24:31",
-        "sentiment_score": -0.5633558332920074
-    },
-    {
-        "title": "La presencia del Rey salva la solemnidad en una apertura del año judicial marcada por la tensión",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/F2IGWPDAMNMLTPXQIRVFUXNWO4.jpg?auth=7dda3f7ad3f509305a48e2fb3cbc89b120416ffd744e2153cf204f32d76d9e98&width=1200",
-        "tags": [
-            "españa",
-            "justicia",
-            "isabel perelló",
-            "tribunal supremo",
-            "cgpj",
-            "álvaro garcía ortiz",
-            "fiscalía general estado"
-        ],
-        "link": "https://elpais.com/espana/2025-09-05/la-presencia-del-rey-salva-la-solemnidad-en-una-apertura-del-ano-judicial-marcada-por-la-tension.html",
-        "date": "2025-09-05 17:48:34",
-        "sentiment_score": -0.8938095504418015
-    },
-    {
-        "title": "La Vilarasau en el apocalipsis, Joel Joan como Vània y Homar como Adriano, en la nueva temporada de Focus",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/URDGHNITYRLVHJHIFJKT3ZCRHM.jpg?auth=2d261b28a6948ca0d18a4f6d96b04eb81e053b189d262d9e45bfd6d28f2c7331&width=1200",
-        "tags": [
-            "focus",
-            "actos públicos",
-            "teatro",
-            "daniel martínez",
-            "programación teatral",
-            "lluís homar",
-            "emma vilarasau",
-            "joel joan",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-05/la-vilarasau-en-el-apocalipsis-joel-joan-como-vania-y-homar-como-adriano-en-la-nueva-temporada-de-focus.html",
-        "date": "2025-09-05 17:18:15",
-        "sentiment_score": 0.6483569927513599
     },
     {
         "title": "Messi regala doblete a su afición ante Venezuela en su última función por eliminatorias",
@@ -8810,5 +8192,459 @@ export default [
         "link": "https://2001online.com/nacionales/maduro-anuncia-el-inicio-de-la-navidad-a-partir-del-1-de-octubre-20259819390",
         "date": "2025-09-08 23:39:00",
         "sentiment_score": 0.8085135221481323
+    },
+    {
+        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades este 9 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-economia",
+            "gasolina",
+            "noticias",
+            "precio gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-este-9-de-septiembre/",
+        "date": "2025-09-09 06:31:03",
+        "sentiment_score": 0.07033836841583252
+    },
+    {
+        "title": "Las carreras más minoritarias de España: cuando la elección te convierte en el único alumno matriculado",
+        "image_url": "https://www.infobae.com/resizer/v2/PJ7NIM3CRNHBJEARF654QFKVTU.jpg?auth=199e7b60216ebdac8df8cf3a6d6d9cec905106bbb462165203bbfc15656e7d4e&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "universidades españa",
+            "españa-sociedad",
+            "españa-noticias",
+            "universidades",
+            "estudiar en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/las-carreras-mas-minoritarias-de-espana-cuando-la-eleccion-te-convierte-en-el-unico-alumno-matriculado/",
+        "date": "2025-09-09 06:29:46",
+        "sentiment_score": -0.4735424891114235
+    },
+    {
+        "title": "Un mecánico explica si es mejor la tracción trasera o la delantera para tu coche: “Es más económica”",
+        "image_url": "https://www.infobae.com/resizer/v2/ZFXMQVCDNNFWXF3JQPSK3CUCTE.jpg?auth=58f38ec3f8d132dbe3e4eeea32573abce507850ae6d79e68bfba591d6382bca4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "mecanicos",
+            "coches espana",
+            "conduccion",
+            "españa-nacional"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/un-mecanico-explica-si-es-mejor-la-traccion-trasera-o-la-delantera-para-tu-coche-es-mas-economica/",
+        "date": "2025-09-09 06:12:23",
+        "sentiment_score": 0.27018678560853004
+    },
+    {
+        "title": "Ni en la sartén ni en una olla: tan solo necesitas esto para poder cocinar unos huevos",
+        "image_url": "https://www.infobae.com/resizer/v2/4ES4YZTOWNF5RLV6JP2Y2S5RXE.jpg?auth=93cbdd65159bae40f1c7ffece18deee5f41a901112fb71217e57ecd7b0cd6ec9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "huevo frito",
+            "huevos",
+            "productos",
+            "españa-gastronomía",
+            "alimentos",
+            "productos españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/ni-en-la-sarten-ni-en-una-olla-tan-solo-necesitas-esto-para-poder-cocinar-unos-huevos/",
+        "date": "2025-09-09 06:09:05",
+        "sentiment_score": 0.20444200932979584
+    },
+    {
+        "title": "Así es la nueva casa de dos plantas de Amazon: cuesta menos de 40.000 euros",
+        "image_url": "https://www.infobae.com/resizer/v2/3EIIVZ73ZVFJZIAPO6Q5GV6RDM.jpg?auth=5df97217fb4fa3480248fb7c25ddb54e54d2ce5bb3005c70df06e599b31b417a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "inflación",
+            "españa-noticias",
+            "eficiencia energética",
+            "compra de vivienda",
+            "vivienda españa",
+            "españa-economia",
+            "casas prefabricadas",
+            "instituto nacional de estadística",
+            "mercado inmobiliario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/asi-es-la-nueva-casa-de-dos-plantas-de-amazon-cuesta-menos-de-40000-euros/",
+        "date": "2025-09-09 06:06:11",
+        "sentiment_score": 0.4734882228076458
+    },
+    {
+        "title": "Un especialista advierte sobre los errores que más dinero cuesta a los conductores: “Estás vaciando tu cartera en el taller y ni te estás dando cuenta”",
+        "image_url": "https://www.infobae.com/resizer/v2/2QN6PZUV7BBQVBMVRVN4PXQ3F4.jpg?auth=3032f98333d8444b311235afe44501d2f2039376c915abb85640a12e07829f2e&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "mecánico",
+            "carreteras",
+            "motor",
+            "motor españa",
+            "españa-nacional",
+            "coches españa",
+            "coches"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/un-especialista-advierte-sobre-los-errores-que-mas-dinero-cuesta-a-los-conductores-estas-vaciando-tu-cartera-en-el-taller-y-ni-te-estas-dando-cuenta/",
+        "date": "2025-09-09 06:02:04",
+        "sentiment_score": -0.13902174681425095
+    },
+    {
+        "title": "¿Puede ser la persona pero no el momento? Un psicólogo explica si es una excusa para rechazarte o si tiene sentido esta afirmación",
+        "image_url": "https://www.infobae.com/resizer/v2/D6KDIV3KHJEBDH3FFGT2F26ZJM.jpeg?auth=c1543bf350707b1bfefeb2417b44798c98c86476c82a7e08d608ec8fcac7b0eb&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "psicología",
+            "españa salud",
+            "terapia de parejas",
+            "pareja",
+            "relaciones sentimentales",
+            "españa noticias",
+            "ruptura amorosa",
+            "sexología"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/puede-ser-la-persona-pero-no-el-momento-un-psicologo-explica-si-es-una-excusa-para-rechazarte-o-si-tiene-sentido-esta-afirmacion/",
+        "date": "2025-09-09 06:01:20",
+        "sentiment_score": -0.06701253354549408
+    },
+    {
+        "title": "Mantienen las protestas este martes en diferentes ciudades del país tras el anuncio del embargo de armas a Israel",
+        "image_url": "https://www.infobae.com/resizer/v2/LACB5UW2PVGLDMDKHPJ3W4K34Y.jpg?auth=f0c8ab3861b0197d122bef74274fbe19b859582fb6e105f960fefb65e751a20c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/09/mantienen-las-protestas-este-martes-en-diferentes-ciudades-del-pais-tras-el-anuncio-del-embargo-de-armas-a-israel/",
+        "date": "2025-09-09 05:45:33",
+        "sentiment_score": -0.6340463515371084
+    },
+    {
+        "title": "Dwayne Johnson revela que su cambio de peso se debe a otro papel que está preparando: “Tengo otra oportunidad para transformarme”",
+        "image_url": "https://www.infobae.com/resizer/v2/NIR3KDQJB5DAHFGCHK6CY4STNQ.jpg?auth=3f1b3cb3b8b162b00ee19faef0250786b3978b11d5c4e4da257cbfc0ed42deb7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cine españa",
+            "actores",
+            "dwayne johnson",
+            "festival de venecia",
+            "españa-noticias",
+            "cine",
+            "españa-cultura"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/09/09/dwayne-johnson-revela-que-su-cambio-de-peso-se-debe-a-otro-papel-que-esta-preparando-tengo-otra-oportunidad-para-transformarme/",
+        "date": "2025-09-09 05:42:27",
+        "sentiment_score": 0.7178966253995895
+    },
+    {
+        "title": "La razón que hay detrás de tus preferencias, según la neurociencia: “Tus gustos no son tan tuyos como crees”",
+        "image_url": "https://www.infobae.com/resizer/v2/3I5EUGP3CBGJRNDJQOAK2PVNBY.jpg?auth=794eb1afa850f4956b15e9eefb5c54f3a3996fc370db82499ffb3fbf3e3ef981&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cerebro",
+            "españa-sociedad",
+            "tiktok españa",
+            "tiktok",
+            "españa-noticias",
+            "redes sociales",
+            "psicología"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/la-razon-que-hay-detras-de-tus-preferencias-segun-la-neurociencia-tus-gustos-no-son-tan-tuyos-como-crees/",
+        "date": "2025-09-09 05:31:35",
+        "sentiment_score": 0.10386233404278755
+    },
+    {
+        "title": "El pueblo más barato de Navarra para comprar una casa en 2025: 79.000 euros y 105 metros cuadrados",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2024/04/26/corella-kzgC-U701506641214wzF-1200x840@diario_abc.jpg",
+        "tags": [
+            "navarra",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/navarra/pueblo-barato-navarra-comprar-casa-2025-79000-20250909073000-nt.html",
+        "date": "2025-09-09 05:30:00",
+        "sentiment_score": -0.1057921051979065
+    },
+    {
+        "title": "Los tres agujeros que tiene que cubrir la Policía Local de Sevilla",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/09/09/policia-local-sevilla-RRZ9IX9dy0mukalgcdcOltM-1200x840@diario_abc.JPG",
+        "tags": [
+            "sevilla",
+            "ciudad"
+        ],
+        "link": "https://www.abc.es/sevilla/ciudad/tres-agujeros-cubrir-policia-local-sevilla-20250909163157-nts.html",
+        "date": "2025-09-09 04:59:00",
+        "sentiment_score": -0.47866424918174744
+    },
+    {
+        "title": "R4 y R15, los agujeros negros de Rodalies y Regionales catalanes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VLMRD5G2QNGVVFEN3ALJBMEWEY.jpg?auth=f25403118ff899ecaa976c4e53bdc2b8b8d725b18a474c9b3703a95c4332e9a4&width=1200",
+        "tags": [
+            "renfe",
+            "adif",
+            "cataluña",
+            "averías",
+            "generalitat cataluña",
+            "trenes",
+            "cercanías"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-09-09/r4-y-r15-los-agujeros-negros-de-rodalies-y-regionales-catalanes.html",
+        "date": "2025-09-09 03:30:01",
+        "sentiment_score": -0.5891249999403954
+    },
+    {
+        "title": "De cuna noble a escuela para todos: el instituto español más antiguo late con diversidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/L3YAKUDDNRGCNGTJEO7OCANFRU.jpg?auth=ba5aebfcd39341d3520f1b5d8e21ea2e08ec55b50e816c27f99c76adf659643a&width=1200",
+        "tags": [
+            "profesorado",
+            "celebraciones",
+            "transexualidad",
+            "estudiantes",
+            "sexualidad",
+            "aniversarios",
+            "educación",
+            "aulas",
+            "comunidad de madrid",
+            "política educativa",
+            "educación sexual",
+            "centenarios",
+            "edificios historicos",
+            "madrid",
+            "historia",
+            "educación secundaria",
+            "igualdad oportunidades",
+            "institutos"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-09-09/de-cuna-noble-a-escuela-para-todos-el-instituto-espanol-mas-antiguo-late-con-diversidad.html",
+        "date": "2025-09-09 03:30:01",
+        "sentiment_score": 0.39332708716392517
+    },
+    {
+        "title": "El Gobierno pone a España a la cabeza de la presión a Israel por el “genocidio” de Gaza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ASTAMMMV2JNA7CXMU5PC272L5Y.jpg?auth=ca6dae97a740c6afbab1d700bbefe46932ffa63edad55722ae1360182f49d116&width=1200",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-09-09/el-gobierno-pone-a-espana-a-la-cabeza-de-la-presion-a-israel-por-el-genocidio-de-gaza.html",
+        "date": "2025-09-09 03:30:01",
+        "sentiment_score": -0.6162391044199467
+    },
+    {
+        "title": "España y yo somos así: el nuevo Alatriste tiene las virtudes y los defectos de toda la saga",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MJP3AEFKXNFP7JREKZ4EODGLRQ.jpg?auth=90c55e9dc79cccdd062fb47bf93e82b388293965b1a74f3ab6b47deff2e05d67&width=1200",
+        "tags": [
+            "escritura",
+            "cultura",
+            "libros",
+            "lectura",
+            "novela",
+            "escritores",
+            "literatura",
+            "arturo pérez-reverte",
+            "crítica literaria",
+            "narrativa"
+        ],
+        "link": "https://elpais.com/babelia/2025-09-09/espana-y-yo-somos-asi-el-nuevo-alatriste-tiene-las-virtudes-y-los-defectos-de-toda-la-saga.html",
+        "date": "2025-09-09 03:30:01",
+        "sentiment_score": 0.43655598163604736
+    },
+    {
+        "title": "El error policial que apuntó a otro Santiago: tres años para probar que solo compartía nombre y apellido con el verdadero denunciado",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3TBSRYNGJVAEPA6NVYTSZPT5VI.jpeg?auth=4d328adcf8035087929d2b3ecb1d39bdd757486cee793c70f96d5b05997652af&width=1200",
+        "tags": [
+            "denuncias",
+            "valencia",
+            "denuncias falsas",
+            "comunidad de madrid",
+            "madrid",
+            "tribunales",
+            "violencia machista"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-09-09/el-error-policial-que-apunto-a-otro-santiago-tres-anos-para-probar-que-compartia-nombre-y-apellido-con-el-verdadero-denunciado.html",
+        "date": "2025-09-09 03:30:01",
+        "sentiment_score": -0.6895903628319502
+    },
+    {
+        "title": "Contra la ‘gourmetización’: comer guay como forma de distinción",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/R6EG5ZREHJC2VFEVYL66BSOHXY.jpg?auth=f2a1d6b4d39e3088563383d4b59da6f9f023e2d0f156e68b43784168e9bdbc39&width=1200",
+        "tags": [
+            "comida típica",
+            "ciudades turísticas",
+            "opinión",
+            "comunidad de madrid",
+            "madrid",
+            "urbanismo",
+            "gastronomía",
+            "comida rápida"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-09-09/contra-la-gourmetizacion-comer-guay-como-forma-de-distincion.html",
+        "date": "2025-09-09 03:30:01",
+        "sentiment_score": -0.36585336923599243
+    },
+    {
+        "title": "Daniel Castellanos, campeón de España de descenso: “Mi padre es mi mecánico, mi cocinero, mi mánager... mi todo”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/W5FTZGICLFCTHNIPMR64SXDIPU.jpg?auth=c4d64fd412b19ed57210ee981dc55c6c334ab21f6dd083350c3dcad76f5a62a5&width=1200",
+        "tags": [
+            "pilotos deportivos",
+            "deportes",
+            "deportes motor",
+            "motociclismo",
+            "circuitos velocidad",
+            "moto gp"
+        ],
+        "link": "https://elpais.com/deportes/motociclismo/2025-09-09/daniel-castellanos-campeon-de-espana-de-descenso-mi-padre-es-mi-mecanico-mi-cocinero-mi-manager-mi-todo.html",
+        "date": "2025-09-09 03:15:00",
+        "sentiment_score": -0.6801194846630096
+    },
+    {
+        "title": "Este miércoles se presenta en Ciudad Real el libro 'Desde mi torre de adobe' de María Antonia García de León",
+        "image_url": "http://st1.lacerca.com/imagenes/view/fa2c68ddc7b031f083b2ec27a6d61cb0.jpg",
+        "tags": [
+            "ciudad real",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/ciudad_real/ciudad-real-torre-adobe-maria-antonia-garcia-leon-780501-1.html",
+        "date": "2025-09-09 06:29:00",
+        "sentiment_score": 0.09361771494150162
+    },
+    {
+        "title": "La Roja eleva el listón",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/ee048641-9ac8-45e1-9f19ddb62de54d40.jpg",
+        "tags": [
+            "atlético de madrid",
+            "real madrid",
+            "dani carvajal",
+            "athletic club",
+            "alemania",
+            "copa del mundo",
+            "real sociedad",
+            "bulgaria",
+            "pamplona",
+            "eurocopa",
+            "betis",
+            "rodri hernández",
+            "selección española de fútbol",
+            "oporto",
+            "psg",
+            "isco alarcón",
+            "turquía",
+            "arsenal fc",
+            "luis de la fuente"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z516dfc11-8d11-42eb-9bb0d4aa13f0be84/202509/la-roja-eleva-el-liston",
+        "date": "2025-09-09 06:28:57",
+        "sentiment_score": 0.8529427517205477
+    },
+    {
+        "title": "Victoria de Marichalar: la dignidad que la sitúa en la cúspide de la nobleza",
+        "image_url": "https://okdiario.com/look/img/2024/10/23/dl_u567472_008-1.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://okdiario.com/look/actualidad/victoria-marichalar-dignidad-situa-cuspide-nobleza-2374388",
+        "date": "2025-09-09 05:49:09",
+        "sentiment_score": -0.6730331610888243
+    },
+    {
+        "title": "Cambridge desarrolla un material que libera fármacos solo cuando detecta un brote de artritis",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250909073945_690.jpg",
+        "tags": [
+            "infosalus.com",
+            "investigación"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-cambridge-desarrolla-material-libera-farmacos-solo-cuando-detecta-brote-artritis-20250909073945.html",
+        "date": "2025-09-09 05:39:45",
+        "sentiment_score": -0.8343894742429256
+    },
+    {
+        "title": "Es preciso bañarse",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2025/09/08/aemet-espana-kSqB--170x119@diario_abc.jpg",
+        "tags": [
+            "mar cantábrico",
+            "agua"
+        ],
+        "link": "https://www.eldiariomontanes.es/opinion/antonio-martinez-cerezo-preciso-banarse-20250909071020-nt.html",
+        "date": "2025-09-09 05:10:20",
+        "sentiment_score": -0.7878185696899891
+    },
+    {
+        "title": "El PP, obligado a matizar las palabras de Feijóo tras la respuesta de la Casa Real",
+        "image_url": "https://www.elplural.com/uploads/s1/20/48/89/5/el-rey-felipe-vi-recibe-a-alberto-nunez-feijoo-en-zarzuela-en-agosto-de-2023-ep_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/pp-obligado-matizar-palabras-feijoo-respuesta-casa-real_359848102",
+        "date": "2025-09-09 05:06:37",
+        "sentiment_score": -0.13954976201057434
+    },
+    {
+        "title": "Gonzalo Bernardos explica por qué las inmobiliarias no publican sus pisos en alquiler y tiene la solución para bajar el precio de la vivienda en España",
+        "image_url": "https://cdn.businessinsider.es/sites/navi.axelspringer.es/public/media/image/2025/09/gonzalo-bernardos-habla-alquiler-4360889.jpg?tf=1200x",
+        "tags": [
+            "finanzas personales"
+        ],
+        "link": "https://www.businessinsider.es/finanzas-personales/gonzalo-bernardos-inmobiliarias-no-publican-pisos-alquiler-solucion-bajar-precio-vivienda-espana-1482551",
+        "date": "2025-09-09 05:00:12",
+        "sentiment_score": 0.21723991632461548
+    },
+    {
+        "title": "El único colegio de La Rioja entre los mejores de España: tiene un programa trilingüe en inglés y francés",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/18/alcaste-las-fuentes-centro-educativo-de-la-rioja.png",
+        "tags": [
+            "la rioja"
+        ],
+        "link": "https://www.20minutos.es/larioja/unico-colegio-rioja-mejores-espana-programa-trilinguee-ingles-frances_5692055_0.html",
+        "date": "2025-09-09 05:00:02",
+        "sentiment_score": 0.8450573645532131
+    },
+    {
+        "title": "El desembarco de Dani García en Valencia y otras aperturas 'gastro' que marcarán el otoño",
+        "image_url": "https://s2.elespanol.com/2025/09/08/cocinillas/restaurantes/1003743916398_258541233_1706x960.jpg?contentId=1003743916398",
+        "tags": [
+            "barcelona",
+            "restaurantes",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/cocinillas/restaurantes/20250909/desembarco-dani-garcia-valencia-aperturas-gastro-marcarannbspelnbspotono/1003743910565_0.html",
+        "date": "2025-09-09 05:00:00",
+        "sentiment_score": 0.4060407131910324
+    },
+    {
+        "title": "El drama con la vivienda para docentes en Ibiza: \"Llevo diez años viviendo como si estuviera de Erasmus\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd5b64c2-d8a9-4395-b502-bb66322fc673_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "telegram",
+            "docentes"
+        ],
+        "link": "https://www.lacronicabadajoz.com/sociedad/2025/09/09/drama-vivienda-docentes-ibiza-llevo-121377518.html",
+        "date": "2025-09-09 06:33:18",
+        "sentiment_score": 0.05324506759643555
+    },
+    {
+        "title": "Saime habilita Centro de Atención Telefónica al Usuario: conozca los trámites que puede realizar",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757385703572.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "pasaporte",
+            "saime",
+            "tramites en el saime",
+            "cédula",
+            "centro de atención telefónica",
+            "centro de atención telefónica al usuario saime"
+        ],
+        "link": "https://2001online.com/servicios/saime-habilita-centro-de-atencion-telefonica-al-usuario-conozca-los-tramites-que-puede-realizar-20259823300",
+        "date": "2025-09-09 03:30:00",
+        "sentiment_score": 0.26568327099084854
+    },
+    {
+        "title": "¿La nueva Britney Spears? Todo sobre la artista pop que despierta las comparaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757388463950.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "vmas 2025",
+            "britney spears",
+            "tate mcrae"
+        ],
+        "link": "https://2001online.com/farandula/la-nueva-britney-spears-todo-sobre-la-artista-pop-que-despierta-las-comparaciones-20259823250",
+        "date": "2025-09-09 03:25:00",
+        "sentiment_score": 0.7291364464908838
+    },
+    {
+        "title": "¿Existe el Lyme crónico?: especialista en enfermedades infecciosas da la respuesta a esta interrogante",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757100653834.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/existe-el-lyme-cronico-especialista-en-enfermedades-infecciosas-da-la-respuesta-a-esta-interrogante-2025982300",
+        "date": "2025-09-09 03:00:00",
+        "sentiment_score": -0.7203939221799374
     }
 ];
