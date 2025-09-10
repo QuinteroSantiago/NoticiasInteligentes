@@ -223,39 +223,6 @@ export default [
         "sentiment_score": -0.17461282014846802
     },
     {
-        "title": "Más de mil personas peregrinan a Roma para un Jubileo de católicos LGBTQ+",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sociedad/2025/09/06/lgbt-gesu-RlPVmkPJH0YB37ylJhflIVN-1200x840@diario_abc.jpg",
-        "tags": [
-            "papa león xiv",
-            "roma",
-            "misa",
-            "vaticano",
-            "homosexuales"
-        ],
-        "link": "https://www.abc.es/sociedad/mil-personas-peregrinan-roma-jubileo-catolicos-lgbtq-20250906160452-nt.html",
-        "date": "2025-09-06 14:04:52",
-        "sentiment_score": -0.03554496169090271
-    },
-    {
-        "title": "El 112 ha gestionado en verano en la provincia de Sevilla más de 57.000 emergencias, superando en un 8% la cifra de 2024",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/09/06/emergencias-sala3-dos-R1vrHdInUCbtHLpfGUcKTIK-1200x840@diario_abc.jpg",
-        "tags": [
-            "verano",
-            "provincia",
-            "gestionado",
-            "cifra",
-            "superando",
-            "2024",
-            "57000",
-            "emergencias",
-            "112",
-            "sevilla"
-        ],
-        "link": "https://www.abc.es/sevilla/provincia/112-gestionado-verano-provincia-sevilla-57000-emergencias-20250906145210-nts.html",
-        "date": "2025-09-06 12:52:10",
-        "sentiment_score": -0.14431197941303253
-    },
-    {
         "title": "Encuentran joyas robadas por valor de 600.000 euros en tiendas de compraventa de oro de Barcelona",
         "image_url": "https://imagenes.elpais.com/resizer/v2/2FPQOSSJQZO5XMKUMA373R2LYI.jpg?auth=0f59a4430484727b274d455ce48e8cd9a76c278ae76e5fe340a6b98ad4492b2f&width=1200",
         "tags": [
@@ -362,70 +329,6 @@ export default [
         "link": "https://elpais.com/espana/2025-09-06/el-gobierno-estudia-acelerar-el-embargo-de-armas-a-israel-en-el-proximo-consejo-de-ministros.html",
         "date": "2025-09-06 14:17:19",
         "sentiment_score": -0.7054564692080021
-    },
-    {
-        "title": "Pilar Bernabé reprocha la “despreocupación generalizada” del Consell en las “horas más críticas” de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NP5E7IEFABP3JE57ORH7PQL3YI.jpg?auth=fa46500e964866cb42f590fae8b03def4f83e23b5108f5da36f359324041155e&width=1200",
-        "tags": [
-            "susana camarero",
-            "política",
-            "carlos mazón",
-            "pilar bernabé",
-            "congreso diputados",
-            "pspv-psoe",
-            "consell valencia",
-            "podemos valencia",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-06/pilar-bernabe-reprocha-la-despreocupacion-generalizada-del-consell-en-las-horas-mas-criticas-durante-la-dana-del-29o.html",
-        "date": "2025-09-06 14:14:22",
-        "sentiment_score": -0.3368605300784111
-    },
-    {
-        "title": "Tellado anima a “empezar a cavar la fosa” del Gobierno y Sánchez acusa al PP de hacer una “apelación encubierta a la violencia”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/B3SODU6WYFPATPIXAXAJLQ36N4.jpg?auth=0820ce280ce57bea7855fb3a9cb710b2a1d1114c8d08629ec37d7d262b8a4622&width=1200",
-        "tags": [
-            "patxi lópez",
-            "psoe",
-            "política",
-            "miguel tellado",
-            "españa",
-            "juan espadas cejas",
-            "pp",
-            "gobierno de españa",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2025-09-06/tellado-anima-a-empezar-a-cavar-la-fosa-del-gobierno-y-sanchez-acusa-al-pp-de-hacer-una-apelacion-encubierta-a-la-violencia.html",
-        "date": "2025-09-06 13:15:52",
-        "sentiment_score": -0.5409364849328995
-    },
-    {
-        "title": "Unas 2.000 personas claman en León por la dimisión de Mañueco tras la crisis de los incendios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y7CVPMTJMZDKXGF7M7XTSPJWXU.jpg?auth=7cc0c1b6b28aca04b760b3b502fe58a47a9263e7eaeca461a55caf1f85fca032&width=1200",
-        "tags": [
-            "castilla y león",
-            "junta castilla y león",
-            "incendios forestales",
-            "psoe",
-            "españa",
-            "alfonso fernández mañueco",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/2025-09-06/unas-2000-personas-claman-en-leon-por-la-dimision-de-manueco-tras-la-crisis-de-los-incendios.html",
-        "date": "2025-09-06 12:57:32",
-        "sentiment_score": -0.7803472746163607
-    },
-    {
-        "title": "Carta de las amigas de Matilde Muñoz, asesinada en Indonesia: “Vivió como quiso: valiente, libre y feliz”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Y3FYKARU7VDR7MV62OUPAVVS6Q.jpg?auth=137e1b31326646458d27741eb0a510ccfc9e192b73dc6dda5cfb9c596c750358&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-06/carta-de-las-amigas-de-matilde-munoz-asesinada-en-indonesia-vivio-como-quiso-valiente-libre-y-feliz.html",
-        "date": "2025-09-06 12:25:38",
-        "sentiment_score": -0.7751322016119957
     },
     {
         "title": "Turquía eleva el grado de exigencia para España",
@@ -8753,5 +8656,535 @@ export default [
         "link": "https://2001online.com/sucesos/operativos-cicpc-la-banda-que-desvalijaba-viviendas-incluia-a-dos-adolescentes-en-su-grupo-criminal-20259915470",
         "date": "2025-09-09 19:47:00",
         "sentiment_score": -0.8140689022839069
+    },
+    {
+        "title": "Predicción del clima en Málaga para este 10 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/4JLM2D7XO5CYFB22EHE7UZVHZA.png?auth=31432af2f18955afe456882c52b614f072d38886e4fdf91641a59f297c01726a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "málaga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/10/prediccion-del-clima-en-malaga-para-este-10-de-septiembre/",
+        "date": "2025-09-10 02:01:49",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Madrid?",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa sociedad",
+            "españa noticias",
+            "tiempo en españa",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/10/cual-es-la-temperatura-promedio-en-madrid/",
+        "date": "2025-09-10 01:30:57",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Cancillería repatria restos de niño peruano con cáncer fallecido en España después de trasplante de médula",
+        "image_url": "https://www.infobae.com/resizer/v2/26JVC34PJVHN3OEP4JEBNEF4UA.jpg?auth=49dc6d14ef0f040c48dfd905b7e4efd99ee602eff8a321520d633dd148159131&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cáncer",
+            "cancillería",
+            "barcelona",
+            "leucemia",
+            "españa",
+            "peru-noticias",
+            "peruanos en el extranjero",
+            "piura"
+        ],
+        "link": "https://www.infobae.com/peru/2025/09/09/cancilleria-repatria-restos-de-nino-peruano-con-cancer-fallecido-en-espana-despues-de-trasplante-de-medula/",
+        "date": "2025-09-09 23:43:51",
+        "sentiment_score": -0.5384435951709747
+    },
+    {
+        "title": "Comprueba los ganadores del Cupón Diario de la Once del 9 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "cupón diario",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/comprueba-los-ganadores-del-cupon-diario-de-la-once-del-9-de-septiembre/",
+        "date": "2025-09-09 23:15:26",
+        "sentiment_score": 0.17068176344037056
+    },
+    {
+        "title": "Candela Peña enseña a entrenar antebrazo en ‘La Revuelta’ y Mariló Montero defiende la tauromaquia y a Ana Rosa Quintana: “Ha dicho que Pedro Sánchez te ha puesto una alfombra roja”",
+        "image_url": "https://www.infobae.com/resizer/v2/OM5RJ2TZ6FAGHAJ2DJOUOSK6YQ.png?auth=31e9f5e4f743284cb1d79d0597995c903e77ab31ac491f8e9d7d95eb3361f177&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "televisión española",
+            "candela peña",
+            "rtve",
+            "entretenimiento-españa",
+            "españa-televisión",
+            "la revuelta",
+            "david broncano",
+            "mariló montero",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/09/candela-pena-ensena-a-entrenar-antebrazo-en-la-revuelta-y-marilo-montero-defiende-la-tauromaquia-y-a-ana-rosa-quintana-ha-dicho-que-pedro-sanchez-te-ha-puesto-una-alfombra-roja/",
+        "date": "2025-09-09 22:26:20",
+        "sentiment_score": 0.03324207291007042
+    },
+    {
+        "title": "«Hemos ordenado evacuar la Ciudad de Gaza, pero Hamás bloquea la salida»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/09/evacuacion-RC4SvFGHzly5qk7iMHpYGKO-1200x840@diario_abc.jpg",
+        "tags": [
+            "gaza",
+            "israel",
+            "benjamín netanyahu"
+        ],
+        "link": "https://www.abc.es/internacional/ordenado-evacuar-ciudad-gaza-hamas-bloquea-salida-20250909215755-nt.html",
+        "date": "2025-09-10 01:30:34",
+        "sentiment_score": -0.09540089964866638
+    },
+    {
+        "title": "EE.UU. fue informado del bombardeo a los líderes de Hamás en Qatar",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/09/netrump-kXNF-U701516386947D2F-1200x840@diario_abc.jpg",
+        "tags": [
+            "qatar",
+            "hamás",
+            "gaza",
+            "donald trump",
+            "benjamín netanyahu"
+        ],
+        "link": "https://www.abc.es/internacional/eeuu-informado-bombardeo-lideres-hamas-qatar-20250909033005-nt.html",
+        "date": "2025-09-10 01:30:06",
+        "sentiment_score": -0.14896398782730103
+    },
+    {
+        "title": "Quién es Sébastien Lecornu, el nuevo primer ministro de Francia",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/09/09/lecornu-kHkE-U701516256168mKH-1200x840@diario_abc.jpg",
+        "tags": [
+            "emmanuel macron",
+            "nicolas sarkozy",
+            "marine le pen",
+            "francia"
+        ],
+        "link": "https://www.abc.es/internacional/sebastien-lecornu-nuevo-primer-ministro-francia-20250909214419-nt.html",
+        "date": "2025-09-10 01:28:58",
+        "sentiment_score": -0.1179812103509903
+    },
+    {
+        "title": "Robots en la 'zona de aniquilación' del frente ucraniano",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/09/Capturadepantalla2025-09-09183616-U701514495551rOB-1200x840@diario_abc.png",
+        "tags": [
+            "zona",
+            "frente",
+            "robots",
+            "aniquilacion",
+            "ucraniano"
+        ],
+        "link": "https://www.abc.es/internacional/robots-zona-aniquilacion-frente-ucraniano-20250909173616-nt.html",
+        "date": "2025-09-10 01:28:06",
+        "sentiment_score": -0.08882629871368408
+    },
+    {
+        "title": "El Sabadell trabaja contra reloj con sus asesores por el informe sobre la opa",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/09/10/ceo-presidente-sabadell-R5TCLYojshXhvvBk4yW2YJP-1200x840@diario_abc.jpg",
+        "tags": [
+            "bbva",
+            "banco sabadell",
+            "banca",
+            "bancos"
+        ],
+        "link": "https://www.abc.es/economia/sabadell-trabaja-contrarreloj-asesores-informe-sobre-opa-20250910175006-nt.html",
+        "date": "2025-09-10 00:57:32",
+        "sentiment_score": -0.10525877773761749
+    },
+    {
+        "title": "Maduro arremete contra la gobernadora de Puerto Rico: «Si va a invadir a Venezuela venga de primera»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/10/1500482757-kc7G-U701517050405WhB-1200x840@diario_abc.jpg",
+        "tags": [
+            "estados unidos",
+            "venezuela",
+            "donald trump",
+            "caribe",
+            "puerto rico",
+            "nicolás maduro"
+        ],
+        "link": "https://www.abc.es/internacional/maduro-arremete-gobernadora-puerto-rico-invadir-venezuela-20250910025203-nt.html",
+        "date": "2025-09-10 00:53:24",
+        "sentiment_score": -0.056679755449295044
+    },
+    {
+        "title": "Trump critica a Israel por el ataque en Catar y revela que no fue avisado",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/09/10/1500606430.jpg",
+        "tags": [
+            "revela",
+            "trump",
+            "catar",
+            "avisado",
+            "ataque",
+            "israel",
+            "critica"
+        ],
+        "link": "https://www.abc.es/internacional/trump-critica-israel-ataque-catar-revela-avisado-20250910022005-nt.html",
+        "date": "2025-09-10 00:21:54",
+        "sentiment_score": -0.13799414038658142
+    },
+    {
+        "title": "EEUU enviará armas a Israel a través de sus bases en España",
+        "image_url": "https://static.laregion.es/clip/7ddc3cac-0223-446f-90d6-e171564f5047_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "franja de gaza",
+            "armas"
+        ],
+        "link": "https://www.laregion.es/mundo/eeuu-enviara-armas-israel-traves_1_20250910-3974624.html",
+        "date": "2025-09-10 01:45:38",
+        "sentiment_score": -0.8597795953974128
+    },
+    {
+        "title": "Ayuso quiere que estudiantes de 21 años \"sin formación docente\" impartan Matemáticas a niños: tiene que aprobarlo Sánchez",
+        "image_url": "https://s2.elespanol.com/2025/09/09/actualidad/1003743917959_258569714_1706x960.jpg?contentId=1003743917959",
+        "tags": [
+            "comunidad de madrid",
+            "madrid comunidad"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20250910/ayuso-quiere-estudiantes-anos-sin-formacion-docente-impartan-matematicas-ninos-aprobarlo-sanchez/1003743917081_0.html",
+        "date": "2025-09-10 00:55:58",
+        "sentiment_score": -0.8671961668878794
+    },
+    {
+        "title": "Darwin Rodríguez, consejero en Canarias y a las puertas de UFC: \"En la jaula me juego mi ser; en la política, los impuestos de todos\"",
+        "image_url": "https://s2.elespanol.com/2025/09/09/actualidad/1003743916978_258555263_1706x960.jpg?contentId=1003743916978",
+        "tags": [
+            "mma: artes marciales mixtas",
+            "otros deportes"
+        ],
+        "link": "https://www.elespanol.com/deportes/otros-deportes/20250910/darwin-rodriguez-consejero-canarias-puertas-ufc-jaula-juego-politica-impuestos/1003743911284_0.html",
+        "date": "2025-09-10 00:55:54",
+        "sentiment_score": 0.4210539609193802
+    },
+    {
+        "title": "Dejemos de perpetuar el tabú: el suicidio no es un asunto privado",
+        "image_url": "https://s2.elespanol.com/2025/09/09/actualidad/1003743917912_258568839_1706x960.jpg?contentId=1003743917912",
+        "tags": [
+            "salud pública",
+            "columnas",
+            "sanidad",
+            "opinión",
+            "suicidio"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20250910/dejemos-perpetuar-tabu-suicidio-no-asunto-privado/1003743917865_12.html",
+        "date": "2025-09-10 00:44:47",
+        "sentiment_score": -0.3817710429430008
+    },
+    {
+        "title": "La misión histórica del Real Madrid en la Liga Negreira",
+        "image_url": "https://s2.elespanol.com/2025/09/02/actualidad/1003743909059_258403552_1706x960.jpg?contentId=1003743909059",
+        "tags": [
+            "florentino pérez",
+            "columnas de opinión",
+            "real madrid cf",
+            "superliga europea",
+            "columnas",
+            "opinión",
+            "fc barcelona",
+            "la liga"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20250910/mision-historica-real-madrid-liga-negreira/1003743909013_12.html",
+        "date": "2025-09-10 00:44:45",
+        "sentiment_score": -0.5554260686039925
+    },
+    {
+        "title": "El déficit de enfermeras por especialidades: en Familiar faltan hasta 24.000 y en Pediatría 20.000 profesionales",
+        "image_url": "https://s2.elespanol.com/2025/09/09/actualidad/1003743917970_258569955_1706x960.jpg?contentId=1003743917970",
+        "tags": [
+            "sanidad - profesiones",
+            "enfermería",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20250910/deficit-enfermeras-especialidades-familiar-faltan-pediatria-profesionales/1003743917641_0.html",
+        "date": "2025-09-10 00:41:24",
+        "sentiment_score": -0.21609078347682953
+    },
+    {
+        "title": "Mariana Enriquez, escritora: \"Los creadores me preocupan menos que los marginados, aunque muchos voten a Milei\"",
+        "image_url": "https://s2.elespanol.com/2025/09/04/actualidad/1003743912106_258459654_1706x960.jpg?contentId=1003743912106",
+        "tags": [
+            "argentina",
+            "escritores",
+            "novela",
+            "letras",
+            "entrevistas"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20250910/mariana-enriquez-escritora-creadores-preocupan-marginados-voten-milei/1003743911855_0.html",
+        "date": "2025-09-10 00:26:51",
+        "sentiment_score": 0.00037185847759246826
+    },
+    {
+        "title": "El índice de obesidad infantil supera por primera vez al de bajo peso a nivel mundial",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250910020350_120.jpg",
+        "tags": [
+            "actualidad",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/actualidad/noticia-indice-obesidad-infantil-supera-primera-vez-peso-nivel-mundial-20250910020350.html",
+        "date": "2025-09-10 00:03:50",
+        "sentiment_score": -0.5043321363627911
+    },
+    {
+        "title": "Marta Hazas, actriz de 'La Agencia': \"Cuando comienzas en esta profesión, es importante caer en buenas manos\"",
+        "image_url": "https://s2.elespanol.com/2025/09/04/actualidad/1003743911183_258441880_1706x960.jpg?contentId=1003743911183",
+        "tags": [
+            "series españolas",
+            "series",
+            "telecinco",
+            "entrevistas",
+            "series de televisión",
+            "marta hazas",
+            "televisión"
+        ],
+        "link": "https://www.elespanol.com/bluper/series/20250910/marta-hazas-actriz-agencia-comienzas-profesion-importante-caer-buenas-manos/1003743911152_0.html",
+        "date": "2025-09-10 00:02:31",
+        "sentiment_score": 0.12071171402931213
+    },
+    {
+        "title": "Los 7 récords de Cristiano Ronaldo que jamás podrán ser igualados",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-09/09/22/thumb/x0SfUGP4o.jpg?3%2C0=&crop=1245%3A830&resize=1250%3A830",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/records-de-cristiano-ronaldo-que-jamas-podran-ser-igualados",
+        "date": "2025-09-10 00:00:03",
+        "sentiment_score": 0.24417685717344284
+    },
+    {
+        "title": "\"Tumbas en la costa\", la historia de un \"hijo de la guerra y de la frontera\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f91c0d0b-c3da-48b3-aad4-d652409a4835_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "historia",
+            "guerra",
+            "francia",
+            "la frontera"
+        ],
+        "link": "https://www.lne.es/llanera/2025/09/10/tumbas-costa-historia-hijo-guerra-121410297.html",
+        "date": "2025-09-10 02:00:48",
+        "sentiment_score": -0.13128569722175598
+    },
+    {
+        "title": "Esta es la ciudad de Baleares con más competencia para alquilar una vivienda",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3467665.jpg",
+        "tags": [
+            "alquiler en baleares",
+            "viviendas en mallorca",
+            "ultimas noticias",
+            "última hora",
+            "part forana",
+            "municipios de mallorca"
+        ],
+        "link": "https://www.ultimahora.es/noticias/part-forana/2025/09/10/2466507/esta-ciudad-baleares-mas-competencia-para-alquilar-vivienda.html",
+        "date": "2025-09-10 02:00:02",
+        "sentiment_score": -0.026270918548107147
+    },
+    {
+        "title": "Un grupo de empresarios pone la peatonalización del Born en manos de abogados para que se revierta",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3467863.jpg",
+        "tags": [
+            "ciutadella",
+            "plaza de es born",
+            "local",
+            "es born",
+            "plaça des born"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/09/10/2466629/grupo-empresarios-pone-peatonalizacion-del-born-manos-abogados-para-revierta.html",
+        "date": "2025-09-10 02:00:01",
+        "sentiment_score": -0.7607445921748877
+    },
+    {
+        "title": "Bolivia hizo el trabajo en El Alto frente a Brasil para asegurar el repechaje",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/09/0cbd71d05c45982f285a26c9f4dd861b41e5e3acw.jpg",
+        "tags": [
+            "titulares",
+            "bolivia",
+            "brasil",
+            "deportes",
+            "repechaje mundialista",
+            "la vinotinto"
+        ],
+        "link": "https://lapatilla.com/2025/09/09/bolivia-hizo-el-trabajo-en-el-alto-frente-a-brasil-para-asegurar-el-repechaje/",
+        "date": "2025-09-10 01:41:51",
+        "sentiment_score": 0.35963931679725647
+    },
+    {
+        "title": "El abuso de las pantallas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/03/20/67dc48ade579e.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20250910/11032883/abuso-pantallas.html",
+        "date": "2025-09-10 01:00:00",
+        "sentiment_score": -0.09410969913005829
+    },
+    {
+        "title": "Colau, Thunberg, 'Barbie Gaza' o el vasco \"revolucionario\": quién es quién en la flotilla Sumud acusados de turistas y \"fiesteros\"",
+        "image_url": "https://s2.elespanol.com/2025/09/09/actualidad/1003743918222_258575059_1706x960.jpg?contentId=1003743918222",
+        "tags": [
+            "conflicto palestino-israelí",
+            "palestina",
+            "ada colau",
+            "reportajes",
+            "israel",
+            "gaza"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250910/colau-thunberg-barbie-gaza-vasco-revolucionario-flotilla-sumud-acusados-turistas-fiesteros/1003743917369_0.html",
+        "date": "2025-09-10 00:55:59",
+        "sentiment_score": -0.790483932942152
+    },
+    {
+        "title": "Merlin Properties lidera las peticiones de acceso a la red eléctrica para instalar centros de datos por toda España",
+        "image_url": "https://s2.elespanol.com/2025/09/09/actualidad/1003743918031_258571261_1706x960.jpg?contentId=1003743918031",
+        "tags": [
+            "industria",
+            "baterías",
+            "observatorio de la energía",
+            "almacenamiento energético",
+            "almacenamiento de datos",
+            "merlin properties"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20250910/merlin-properties-lidera-peticiones-acceso-red-electrica-instalar-centros-datos-toda-espana/1003743917957_0.html",
+        "date": "2025-09-10 00:41:42",
+        "sentiment_score": 0.021644264459609985
+    },
+    {
+        "title": "Intersport dice adiós a España: el plan de liquidación contempla la venta de 30 tiendas de la cadena deportiva",
+        "image_url": "https://s2.elespanol.com/2025/09/09/actualidad/1003743917748_258565629_1706x960.jpg?contentId=1003743917748",
+        "tags": [
+            "deportes",
+            "distribución"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20250910/intersport-dice-adios-espana-plan-liquidacion-contempla-venta-tiendas-cadena-deportiva/1003743916954_0.html",
+        "date": "2025-09-10 00:41:22",
+        "sentiment_score": 0.0010521560907363892
+    },
+    {
+        "title": "Golpe español al sobrepeso: una nueva terapia experimental activa la 'quema' de grasas y reduce la inflamación",
+        "image_url": "https://s2.elespanol.com/2025/09/08/actualidad/1003743916358_258540382_1706x960.jpg?contentId=1003743916358",
+        "tags": [
+            "obesidad",
+            "salud",
+            "grasas"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20250910/golpe-espanol-sobrepeso-nueva-terapia-experimental-activa-quema-grasas-reduce-inflamacion/1003743916350_0.html",
+        "date": "2025-09-10 00:23:55",
+        "sentiment_score": 0.06490236520767212
+    },
+    {
+        "title": "Cosmética botánica: experta revela los ingredientes efectivos para cuidar tu cuerpo",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757358647238.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/cosmetica-botanica-experta-revela-los-ingredientes-efectivos-para-cuidar-tu-cuerpo-2025992200",
+        "date": "2025-09-10 02:00:00",
+        "sentiment_score": 0.807701151818037
+    },
+    {
+        "title": "Más que calificaciones: una crisis de salud mental impacta la educación en EE. UU.",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757468719806.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ee.uu.",
+            "estudiantes",
+            "calificaciones"
+        ],
+        "link": "https://2001online.com/usa/servicios/mas-que-calificaciones-una-crisis-de-salud-mental-impacta-la-educacion-en-ee-uu--2025992200",
+        "date": "2025-09-10 02:00:00",
+        "sentiment_score": -0.8562162853777409
+    },
+    {
+        "title": "La boda del siglo: estos son los artistas que ofrecen sus servicios el matrimonio de Taylor Swift y Travis Kelce",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757469930673.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "taylor swift",
+            "compromiso",
+            "travis kelce"
+        ],
+        "link": "https://2001online.com/farandula/la-boda-del-siglo-estos-son-los-artistas-que-ofrecen-sus-servicios-el-matrimonio-de-taylor-swift-y-travis-kelce-20259921590",
+        "date": "2025-09-10 01:59:00",
+        "sentiment_score": 0.1217796839773655
+    },
+    {
+        "title": "En detalles: Esteban Trapiello exige la renuncia del Bocha Batista y los directivos de la FVF",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757471236098.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "la vinotinto"
+        ],
+        "link": "https://2001online.com/deportes/en-detalles-esteban-trapiello-exige-la-renuncia-del-bocha-batista-y-los-directivos-de-la-fvf-20259921580",
+        "date": "2025-09-10 01:58:00",
+        "sentiment_score": -0.6209055818617344
+    },
+    {
+        "title": "Tragedia en Maturín: Venezuela recibe escandalosa goleada y se queda sin repechaje",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757468112615.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "la vinotinto"
+        ],
+        "link": "https://2001online.com/deportes/tragedia-en-maturin-venezuela-recibe-escandalosa-goleada-y-se-queda-sin-repechaje-20259921330",
+        "date": "2025-09-10 01:33:00",
+        "sentiment_score": 0.4275882840156555
+    },
+    {
+        "title": "Seguro Social de EE.UU. lanza su primera proyección de aumento COLA para 2026: aquí fechas claves",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757467443910.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "ssa",
+            "seguro social",
+            "ajuste cola"
+        ],
+        "link": "https://2001online.com/usa/servicios/seguro-social-de-ee-uu-lanza-su-primera-proyeccion-de-aumento-cola-para-2026-aqui-fechas-claves--20259921220",
+        "date": "2025-09-10 01:22:00",
+        "sentiment_score": -0.021471992135047913
+    },
+    {
+        "title": "¡Arepas gratis en Nueva York! Famosa franquicia venezolana dará tremendo regalo este día",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757464847312.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "restaurante",
+            "arepa",
+            "nueva york"
+        ],
+        "link": "https://2001online.com/usa/internacionales/arepas-gratis-en-nueva-york-famosa-franquicia-venezolana-dara-tremendo-regalo-este-dia-2025992100",
+        "date": "2025-09-10 01:00:00",
+        "sentiment_score": 0.4722124859690666
+    },
+    {
+        "title": "Wil Smith y Jada Pinkett: un repaso por la pareja más polémica de Hollywood",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757465492987.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "jada pinkett",
+            "will smith"
+        ],
+        "link": "https://2001online.com/farandula/wil-smith-y-jada-pinkett-un-repaso-por-la-pareja-mas-polemica-de-hollywood--20259920470",
+        "date": "2025-09-10 00:47:00",
+        "sentiment_score": 0.11953270435333252
+    },
+    {
+        "title": "¡Trabaja en EE. UU. sin hablar inglés! Descubre los empleos para la comunidad hispana",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757462641177.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "vacantes para latinos",
+            "hispanos",
+            "empleos en eeuu"
+        ],
+        "link": "https://2001online.com/usa/servicios/trabaja-en-ee-uu-sin-hablar-ingles-descubre-los-empleos-para-la-comunidad-hispana-2025992030",
+        "date": "2025-09-10 00:03:00",
+        "sentiment_score": 0.651405418291688
+    },
+    {
+        "title": "En video: la Vinotinto se va arriba en la pizarra 2-1 ante Colombia",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757461222047.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "la vinotinto"
+        ],
+        "link": "https://2001online.com/deportes/eliminatorias-la-vinotinto-se-va-arriba-ante-colombia-con-este-golazo-de-telasco-segovia-20259919390",
+        "date": "2025-09-09 23:39:00",
+        "sentiment_score": 0.008016243577003479
     }
 ];
