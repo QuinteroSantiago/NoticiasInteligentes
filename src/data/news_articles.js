@@ -1,155 +1,5 @@
 export default [
     {
-        "title": "Una 'encerrona' turca para el partido más difícil de España rumbo al Mundial",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2afab467-37e4-45dc-bff7-e1453430e592_16-9-aspect-ratio_default_1400261.jpg",
-        "tags": [
-            "luis de la fuente",
-            "selección española de fútbol"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/09/07/encerrona-turca-partido-dificil-espana-mundial-2026-121316460.html",
-        "date": "2025-09-07 06:29:59",
-        "sentiment_score": -0.6178405433893204
-    },
-    {
-        "title": "Muere a los 100 años el artista Gustavo Torner, maestro de la abstracción",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O5PEPXFRJBOUJEE627GBP3AYQY.jpg?auth=37f11848e0e30fa0872b2ea64a36c6a4ef236c59e79c93c989c4b0295879d6dd&width=1200",
-        "tags": [
-            "gustavo torner",
-            "cultura",
-            "arte abstracto",
-            "arte",
-            "cuenca",
-            "castilla-la mancha",
-            "pintura"
-        ],
-        "link": "https://elpais.com/cultura/2025-09-07/muere-a-los-100-anos-el-artista-gustavo-torner-maestro-de-la-abstraccion.html",
-        "date": "2025-09-07 06:26:14",
-        "sentiment_score": 0.05247633159160614
-    },
-    {
-        "title": "Giro de 180o a la situación de la reina Sofía e Irene de Grecia: nadie lo esperaba",
-        "image_url": "https://edatv.news/filesedc/uploads/image/post/2025/07/montaje-fotos-primer-plano-irene-grecia-reina-sofia-emerita_1200_800.webp",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://edatv.news/corazon/giro-180-situacion-reina-sofia-e-irene-grecia-nadie-esperaba",
-        "date": "2025-09-07 06:11:00",
-        "sentiment_score": -0.3839613199234009
-    },
-    {
-        "title": "La perimenopausia no es un regalo, pero es una revelación",
-        "image_url": "https://static1.ara.cat/clip/58ce6f6a-4afa-430f-9550-337e1715bbd7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "revelacion",
-            "perimenopausia",
-            "regalo",
-            "no"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/perimenopausia-no-regalo-revelacion_129_5489240.html",
-        "date": "2025-09-07 06:30:30",
-        "sentiment_score": -0.13006113469600677
-    },
-    {
-        "title": "Los barcos desde Túnez para unirse a la flotilla a Gaza retrasan su salida al miércoles",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/cb96535b-d2ad-4888-ac58-ba8c49972d8a_16-9-aspect-ratio_default_0_x1386y910.jpg",
-        "tags": [
-            "barcos",
-            "retrasan",
-            "unirse",
-            "gaza",
-            "tunez",
-            "miercoles",
-            "salida",
-            "flotilla"
-        ],
-        "link": "https://www.deia.eus/mundo/2025/09/07/barcos-tunez-unirse-flotilla-gaza-retrasan-salida-miercoles-10054113.html",
-        "date": "2025-09-07 06:29:24",
-        "sentiment_score": -0.805245915427804
-    },
-    {
-        "title": "Lo que debes saber hoy, 7 de septiembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/09/21/vivir-en-barcelona/887671292_13478371_1706x960.png?contentId=887671292",
-        "tags": [
-            "clima",
-            "planes",
-            "transporte",
-            "vivir en barcelona",
-            "tráfico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250907/debes-saber-hoy-septiembre-barcelona/1003742686920_0.html",
-        "date": "2025-09-07 06:26:11",
-        "sentiment_score": 0.5463020354509354
-    },
-    {
-        "title": "Puente se lanza a la compra urgente de trenes tras el fracaso del AVLO Madrid-Barcelona que cancelará desde este lunes su ruta",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/08/12/689b10169e493.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/puente-lanza-compra-urgente-trenes-fracaso-avlo-madrid-barcelona-cancelara-lunes-ruta_6241909_0.html",
-        "date": "2025-09-07 06:25:19",
-        "sentiment_score": -0.8152805771678686
-    },
-    {
-        "title": "Expertos denuncian un «agosto negro» de ataques a templos católicos en España causados por trans, magrebíes y activistas climáticos",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/09/libertad-religiosa-1-1.jpg",
-        "tags": [
-            "inmigración magrebí",
-            "iglesia católica",
-            "religión",
-            "cristianismo",
-            "catolicismo",
-            "transgénero"
-        ],
-        "link": "https://gaceta.es/religion/expertos-denuncian-un-agosto-negro-de-ataques-a-templos-catolicos-en-espana-causados-por-trans-magrebies-y-activistas-climaticos-20250907-0814/",
-        "date": "2025-09-07 06:14:11",
-        "sentiment_score": -0.5417811200022697
-    },
-    {
-        "title": "Las consecuencias que tiene para el Barça evitar un trauma",
-        "image_url": "https://static1.ara.cat/clip/389cb2aa-cbab-4315-ac1b-4dccce8e41f8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "consecuencias",
-            "trauma",
-            "barca",
-            "evitar"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/consecuencias-barca-evitar-trauma_130_5489230.html",
-        "date": "2025-09-07 06:00:18",
-        "sentiment_score": -0.21759474277496338
-    },
-    {
-        "title": "El segundo objetivo de Netanyahu tampoco puede esperar",
-        "image_url": "https://static1.ara.cat/clip/370b3473-cedd-43e4-b1e9-72b1fe6c146e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "segundo",
-            "objetivo",
-            "netanyahu",
-            "esperar"
-        ],
-        "link": "https://es.ara.cat/internacional/oriente-proximo/segundo-objetivo-netanyahu-esperar_129_5489222.html",
-        "date": "2025-09-07 06:00:09",
-        "sentiment_score": -0.6016463376581669
-    },
-    {
-        "title": "El Ibex 35 roza máximos históricos pese a la incertidumbre de la economía",
-        "image_url": "https://static1.ara.cat/clip/f835dab1-2cad-485e-b6cb-7aa81b0d80e2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "35",
-            "pese",
-            "economia",
-            "incertidumbre",
-            "roza",
-            "maximos",
-            "historicos",
-            "ibex"
-        ],
-        "link": "https://es.ara.cat/economia/mercados/ibex-35-roza-maximos-historicos-pese-incertidumbre-economia_1_5489220.html",
-        "date": "2025-09-07 06:00:05",
-        "sentiment_score": -0.02496558427810669
-    },
-    {
         "title": "Detenido un hombre por el asesinato de una mujer en Sevilla: se investiga como posible caso de violencia machista",
         "image_url": "https://www.infobae.com/resizer/v2/WLNM5J3JFZEZBD7MNZ6RERTOFI.jpg?auth=df28e9ba34f1dbfcde2a29ae5c1634b3ff223fbbcf79e382b6dedad28b1c35fa&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -323,31 +173,6 @@ export default [
         "sentiment_score": 0.36738041788339615
     },
     {
-        "title": "Las aerolíneas piratas y la ley local del embudo",
-        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/09/02/jubilado-k0YB--170x119@Las%20Provincias.jpg",
-        "tags": [
-            "ryanair",
-            "aena",
-            "galicia"
-        ],
-        "link": "https://www.abc.es/espana/galicia/jose-luis-jimenez-aerolineas-piratas-ley-local-embudo-20250907104319-nt.html",
-        "date": "2025-09-07 08:49:40",
-        "sentiment_score": -0.09047195315361023
-    },
-    {
-        "title": "Karina Milei , 'el jefe' del presidente de Argentina",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/07/karina_milei-R2t4OZ2IZbtSFP0A4RApxRM-1200x840@diario_abc.jpg",
-        "tags": [
-            "buenos aires",
-            "argentina",
-            "javier milei",
-            "latinoamérica"
-        ],
-        "link": "https://www.abc.es/internacional/karina-milei-jefe-presidente-20250907174237-nt.html",
-        "date": "2025-09-07 07:23:48",
-        "sentiment_score": -0.12504908442497253
-    },
-    {
         "title": "Un autocar con 60 pasajeros vuelca en la C-32 en Barcelona y provoca dos heridos graves",
         "image_url": "https://imagenes.elpais.com/resizer/v2/KEVNFP44ZNA63MHO5DDVP4VVAY.jfif?auth=fd04f5d6602ec77a22b40efe330fe98399409cfebc8faf9a58f0ce82987658b5&width=1200",
         "tags": [
@@ -382,24 +207,6 @@ export default [
         "link": "https://elpais.com/educacion/2025-09-07/calendario-escolar-2025-2026-en-espana-cuando-es-el-inicio-de-curso-vacaciones-festivos-y-dias-no-lectivos-en-cada-comunidad-y-ciudad-autonoma.html",
         "date": "2025-09-07 10:34:10",
         "sentiment_score": 0.03604887053370476
-    },
-    {
-        "title": "El eco emocionado de Nino Bravo da la bienvenida al Roig Arena",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZDYAMOOBMRBL3JHH6PRSSQMQ5A.jpg?auth=bdea38376801f9c2435b680028b38d9067d70b21fb80f37df15ffdc4fd040884&width=1200",
-        "tags": [
-            "crítica musical",
-            "valencia",
-            "crítica",
-            "mercadona",
-            "música",
-            "canciones",
-            "comunidad valenciana",
-            "david bisbal",
-            "vanesa martín"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-07/el-eco-emocionado-de-nino-bravo-da-la-bienvenida-al-roig-arena.html",
-        "date": "2025-09-07 08:13:23",
-        "sentiment_score": 0.19666904211044312
     },
     {
         "title": "Navarro le gana la partida al Chacho: el fichaje estrella del Barça de basket humilla a un crack del Real Madrid en el Eurobasket",
@@ -8489,5 +8296,681 @@ export default [
         "link": "https://2001online.com/nota/venezuela-fuera-del-mundial-las-duras-criticas-del-entrenador-de-colombia-contra-la-vinotinto-20259101020",
         "date": "2025-09-10 14:02:00",
         "sentiment_score": -0.4979412481188774
+    },
+    {
+        "title": "Universidad de España lanza becas para impulsar carreras profesionales en el ámbito sanitario del Perú",
+        "image_url": "https://www.infobae.com/resizer/v2/AEIHJF6RZNEH3LXOA33LU2EM4Y.jpg?auth=6f04a3e57e3414c11f234424b7faa176b0e26165ec55e2b032809e88f5771ce1&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "salud",
+            "maestría",
+            "españa",
+            "peru-noticias",
+            "becas"
+        ],
+        "link": "https://www.infobae.com/peru/2025/09/10/universidad-de-espana-lanza-becas-para-impulsar-carreras-profesionales-en-el-ambito-sanitario-del-peru/",
+        "date": "2025-09-10 22:06:13",
+        "sentiment_score": 0.34786412864923477
+    },
+    {
+        "title": "El consejo de los coaches de ‘La Voz’ en ‘El Hormiguero’ para los artistas emergentes: “Cantar sin pensar en las consecuencias”",
+        "image_url": "https://www.infobae.com/resizer/v2/YC6IIYGAXFEDNAD6MFW7GYT23U.jpg?auth=53feda80047ee15d2170feb83fac1b72e035141106687140308b5546f5388916&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "sebastián yatra",
+            "pablo lópez",
+            "malú",
+            "mika",
+            "españa-noticias",
+            "música españa",
+            "la voz",
+            "la voz españa",
+            "música",
+            "programas de televisión",
+            "españa-entretenimiento",
+            "televisión españa",
+            "el hormiguero"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/10/el-consejo-de-los-coaches-de-la-voz-en-el-hormiguero-para-los-artistas-emergentes-cantar-sin-pensar-en-las-consecuencias/",
+        "date": "2025-09-10 21:53:24",
+        "sentiment_score": 0.022336967289447784
+    },
+    {
+        "title": "PP afea a Sánchez su ausencia al votar la reducción de jornada: \"En vez quedarse en el Congreso ha ido a una película\"",
+        "image_url": "https://www.infobae.com/resizer/v2/7677SOGJ2ZCOFPI623CHRVQCUU.jpg?auth=d458b21dbb2dc9f346863e6399a8d8f4a73ae21bedcaef947d4620946908021e&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/10/pp-afea-a-sanchez-su-ausencia-al-votar-la-reduccion-de-jornada-en-vez-quedarse-en-el-congreso-ha-ido-a-una-pelicula/",
+        "date": "2025-09-10 21:15:46",
+        "sentiment_score": -0.862352529540658
+    },
+    {
+        "title": "La Agencia Tributaria releva al director y subdirector de operaciones del Servicio de Vigilancia Aduanera",
+        "image_url": "https://www.infobae.com/resizer/v2/ZIKCKZP2Q5EDZM4M446JNNEXHU.jpg?auth=0f74a440a1d62a73fff2789c0164e9a0019c2d296c648e804304e301b10ebc35&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/10/la-agencia-tributaria-releva-al-director-y-subdirector-de-operaciones-del-servicio-de-vigilancia-aduanera/",
+        "date": "2025-09-10 21:15:34",
+        "sentiment_score": -0.10632161796092987
+    },
+    {
+        "title": "La reducción de la jornada laboral es la sexta iniciativa legislativa que el Gobierno pierde en el Congreso",
+        "image_url": "https://www.infobae.com/resizer/v2/SICOEFO3RBGW5NJSJJN4QUZVFA.jpg?auth=290d95d58adbbaabd476ff5cde78c35f5d1d5eec4482490d21e2df09b2e3fd3c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/10/la-reduccion-de-la-jornada-laboral-es-la-sexta-iniciativa-legislativa-que-el-gobierno-pierde-en-el-congreso/",
+        "date": "2025-09-10 20:16:39",
+        "sentiment_score": -0.8412846215069294
+    },
+    {
+        "title": "Sánchez asiste con Begoña Gómez a la 'premier' de la última película de Amenábar en los cines Callao (Madrid)",
+        "image_url": "https://www.infobae.com/resizer/v2/CIXX3XB4J5F3THKX2ZSOWRAKEE.jpg?auth=430aa71d94728e44762150d699e9fcbf7cdbd0496d7ba21e7c2d12c62db36793&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/10/sanchez-asiste-con-begona-gomez-a-la-premier-de-la-ultima-pelicula-de-amenabar-en-los-cines-callao-madrid/",
+        "date": "2025-09-10 20:16:27",
+        "sentiment_score": -0.42224937677383423
+    },
+    {
+        "title": "Resultados de Bonoloto del 10 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/WHQYEW2OEZCXDFD3IHM2AB2IXA.jpg?auth=4b217ddbdae9f3e886553b6289c0a94a0143b9358b93b35e99630507d07c07a2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "bonoloto"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/10/resultados-de-bonoloto-del-10-de-septiembre/",
+        "date": "2025-09-10 20:15:34",
+        "sentiment_score": 0.6181680392473936
+    },
+    {
+        "title": "España rechaza la protección temporal de un nigeriano afectado por la guerra en Ucrania: acudió a la cita para solicitarla, pero nunca llegó a formalizar la solicitud",
+        "image_url": "https://www.infobae.com/resizer/v2/THQOD4EFL5B3XECG2F64CI4P3I.jpg?auth=2c7b8de202c81c0a360f14864735918f564996debc35b22de96cbd6e92c20f22&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-nacional",
+            "ucrania",
+            "ministerio de inclusión seguridad social y migraciones",
+            "españa noticias",
+            "política españa",
+            "inmigración"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/10/espana-rechaza-la-proteccion-temporal-de-un-nigeriano-afectado-por-la-guerra-en-ucrania-acudio-a-la-cita-para-solicitarla-pero-nunca-llego-a-formalizar-la-solicitud/",
+        "date": "2025-09-10 19:54:04",
+        "sentiment_score": -0.7769338563084602
+    },
+    {
+        "title": "Un trabajador de la Seguridad Social da las claves para no tener problemas al solicitar la pensión por jubilación: “Ni un día antes ni un día después”",
+        "image_url": "https://www.infobae.com/resizer/v2/PQDFVYQZYNBRHCGTK6KWLKEOJU.jpg?auth=5f7ce41ef2318cbc0a28f98caa8af256952b46752be90cc7f8b6cf81203e1cfd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "trabajadores españa",
+            "pensiones españa",
+            "pensiones",
+            "jubilados españa",
+            "jubilación",
+            "jubilación españa",
+            "redes sociales",
+            "youtube",
+            "españa-noticias",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/10/un-trabajador-de-la-seguridad-social-da-las-claves-para-no-tener-problemas-al-solicitar-la-pension-por-jubilacion-ni-un-dia-antes-ni-un-dia-despues/",
+        "date": "2025-09-10 19:46:09",
+        "sentiment_score": 0.1434779167175293
+    },
+    {
+        "title": "Pedro Rollán califica de \"insólito\" que Sánchez \"sólo\" haya acudido una vez al Senado \"en más de dos años\"",
+        "image_url": "https://www.infobae.com/resizer/v2/C7WOT5BF4ZECXHNQTV2Q5UZ46Q.jpg?auth=bef69da9243a51a2fe42f623c5727cced7b089d6e3390dcb15bbc755e14224d2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/10/pedro-rollan-califica-de-insolito-que-sanchez-solo-haya-acudido-una-vez-al-senado-en-mas-de-dos-anos/",
+        "date": "2025-09-10 19:45:24",
+        "sentiment_score": -0.8763548899441957
+    },
+    {
+        "title": "Muere Charlie Kirk, activista político y aliado de Trump",
+        "image_url": "https://static.wixstatic.com/media/cf263a_795b0b1837c34933b8a9dcfc322667c1~mv2.jpg/v1/fit/w_720,h_533,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/muere-charlie-kirk-activista-pol%C3%ADtico-y-aliado-de-trump",
+        "date": "2025-09-10 21:39:35",
+        "sentiment_score": -0.8303447617217898
+    },
+    {
+        "title": "Disparan al aliado de Tump Charlie Kirk en un evento en Utah",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/7f/media_thumb-link-4095782.webp?1757531406=",
+        "tags": [
+            "trump",
+            "disparo",
+            "actualidad",
+            "armas"
+        ],
+        "link": "https://www.meneame.net/story/disparan-aliado-tump-charlie-kirk-evento-utah",
+        "date": "2025-09-10 19:25:03",
+        "sentiment_score": -0.6648463420569897
+    },
+    {
+        "title": "María Pombo tiene razón",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/09/09/conductora_1-U12506727401ejJ-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "maria",
+            "pombo",
+            "razon"
+        ],
+        "link": "https://www.abc.es/opinion/rebeca-argudo-maria-pombo-razon-20250911192011-nt.html",
+        "date": "2025-09-10 17:20:19",
+        "sentiment_score": -0.13753445446491241
+    },
+    {
+        "title": "Pedro Sánchez y Begoña Gómez asisten al preestreno de ‘El cautivo’, de Amenábar",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H2P3XNJVKRE4VAWDALVMGGZBJM.JPG?auth=395b7f0cad8c986dcf55f4943d43c7d28421f5529feed8e607787452c58b517b&width=1200",
+        "tags": [
+            "alejandro amenábar",
+            "españa",
+            "cine",
+            "pedro sánchez",
+            "premiere",
+            "begoña gómez fernández"
+        ],
+        "link": "https://elpais.com/espana/2025-09-10/pedro-sanchez-y-begona-gomez-asisten-al-preestreno-de-el-cautivo-de-amenabar.html",
+        "date": "2025-09-10 21:29:36",
+        "sentiment_score": -0.1434405855834484
+    },
+    {
+        "title": "Un hombre mata a otro y se atrinchera con la esposa de la víctima en Huétor Santillán (Granada)",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HZGK7OA2JZLUTFCZTEVX7HNXUA.jpg?auth=9d4b32b7512725222d6f8a5ad82788fb512ee590891eaa93ef747327db385148&width=1200",
+        "tags": [
+            "homicidios",
+            "españa",
+            "guardia civil",
+            "granada",
+            "asesinatos",
+            "andalucía",
+            "huétor de santillán"
+        ],
+        "link": "https://elpais.com/espana/2025-09-10/mata-a-un-hombre-y-se-atrinchera-con-la-esposa-de-la-victima-en-huetor-santillan-granada.html",
+        "date": "2025-09-10 20:09:05",
+        "sentiment_score": -0.8348500970751047
+    },
+    {
+        "title": "El primer menor migrante de Canarias enviado vía exprés a la Península: 17 años y superviviente de un atunero en llamas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ECSPOGKEMBKQPJ2SMATL2WR7OY.jpg?auth=35d8b307dbea8dd52f324ab926b9bc2f3552a694e3fcb5f75a6fa3232205d0f0&width=1200",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-09-10/el-primer-migrante-de-canarias-enviado-via-expres-a-la-peninsula-17-anos-y-superviviente-de-un-atunero-en-llamas.html",
+        "date": "2025-09-10 19:39:26",
+        "sentiment_score": -0.13160423189401627
+    },
+    {
+        "title": "La ley para la protección de los menores en entornos digitales salva el primer escollo en el Congreso",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/55IF7TK3GNF33FZGIMIGMFEKDI.jpg?auth=2aa007326f99f706d78a1f06faddf718cb1254ba4ed3745f80783ed94649dc37&width=1200",
+        "tags": [
+            "menores",
+            "vox",
+            "españa",
+            "infancia",
+            "pp",
+            "internet",
+            "congreso diputados",
+            "sira rego",
+            "redes sociales",
+            "ministerio de justicia",
+            "félix bolaños garcía",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2025-09-10/la-ley-para-la-proteccion-de-los-menores-en-entornos-digitales-salva-el-primer-escollo-en-el-congreso.html",
+        "date": "2025-09-10 19:21:38",
+        "sentiment_score": -0.46733174473047256
+    },
+    {
+        "title": "El Congreso tumba la reducción de la jornada laboral con los votos de PP, Vox y Junts",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TEFC33SBKFDJLLMMDFZANHOM4Y.jpg?auth=120c0780838fb5b0dfceacec7285e40f4ce92808707f1e43fae482f1ee79fe2a&width=1200",
+        "tags": [
+            "juntsxcat",
+            "españa",
+            "sumar",
+            "jornada laboral",
+            "gobierno",
+            "congreso diputados",
+            "ministerio de trabajo y economía social",
+            "yolanda díaz",
+            "sindicatos",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2025-09-10/el-congreso-tumba-la-reduccion-de-la-jornada-laboral-con-los-votos-de-pp-vox-y-junts.html",
+        "date": "2025-09-10 19:20:35",
+        "sentiment_score": -0.8977611837908626
+    },
+    {
+        "title": "El juez envía a prisión a los presuntos autores del doble homicidio de Carmona (Sevilla)",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VWI3UDIHPVIZTBA3N4ZIQVA7YI.jpg?auth=00b625946dae05c960071716962d1ba3ffe11637e06cda0684b7778b11797ed8&width=1200",
+        "tags": [
+            "españa",
+            "tribunales",
+            "provincia sevilla",
+            "sucesos",
+            "andalucía",
+            "tiroteos",
+            "guardia civil"
+        ],
+        "link": "https://elpais.com/espana/2025-09-10/el-juez-envia-a-prision-a-los-presuntos-autores-del-doble-homicidio-de-carmona-sevilla.html",
+        "date": "2025-09-10 19:13:06",
+        "sentiment_score": -0.5984196979552507
+    },
+    {
+        "title": "Fracasa el intento de Vox de prohibir las protestas por Palestina en Vallecas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WP3AG6L36NFADNY7QVGUDLHOUQ.jfif?auth=df8e32b6945912b929dd977d170f648266d9e249646c37b4f7e89828b6a0d0ed&width=1200",
+        "tags": [
+            "villa vallecas",
+            "vox",
+            "franja gaza",
+            "comunidad de madrid",
+            "palestina",
+            "puente vallecas",
+            "conflicto árabe-israelí",
+            "josé luis martínez almeida",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-09-10/fracasa-el-intento-de-vox-de-prohibir-las-protestas-por-palestina-en-vallecas.html",
+        "date": "2025-09-10 19:01:59",
+        "sentiment_score": -0.9006279110908508
+    },
+    {
+        "title": "Illa defiende una Cataluña “centrada” y plural en su discurso por la Diada",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7YJQA2QFSRDZPKJKFRTGX6LT4M.jpeg?auth=4f025c59e062312e0c09facce91fddb90169d44a4fb065e29e031c5b22647ead&width=1200",
+        "tags": [
+            "salvador illa",
+            "cataluña",
+            "govern cataluña",
+            "discursos",
+            "diada"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-09-10/illa-defiende-una-cataluna-centrada-y-plural-en-su-discurso-por-la-diada.html",
+        "date": "2025-09-10 19:00:00",
+        "sentiment_score": 0.3898462727665901
+    },
+    {
+        "title": "La previa de la Diada: Josep Rull (Junts) alza en el Parlament una ‘senyera’ de 50 metros y 93.000 euros",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XA7OCRPV6VLBHPZDCKYPZKHRE4.jpg?auth=77d969a1091b4e177f9e2d27fcbd56d48a7f1306436b59d57739672c36fba913&width=1200",
+        "tags": [
+            "juntsxcat",
+            "psc",
+            "independencia",
+            "carles puigdemont",
+            "generalitat cataluña",
+            "pactos políticos",
+            "salvador illa",
+            "cataluña",
+            "govern cataluña",
+            "diada"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-09-10/la-previa-de-la-diada-josep-rull-junts-alza-en-el-parlament-una-senyera-de-50-metros-y-93000-euros.html",
+        "date": "2025-09-10 18:24:12",
+        "sentiment_score": -0.5171962082386017
+    },
+    {
+        "title": "Las otras medidas 'imposibles' de Sumar después de la derrota de la reducción de jornada laboral",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/09/yolanda-sumar-congreso-1440x808.jpg",
+        "tags": [
+            "sumar",
+            "gobierno de españa",
+            "españa",
+            "yolanda díaz"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/09/11/las-otras-medidas-imposibles-de-sumar-despues-de-la-derrota-de-la-reduccion-de-jornada-laboral/",
+        "date": "2025-09-10 22:07:33",
+        "sentiment_score": -0.783382672816515
+    },
+    {
+        "title": "Los empresarios temen una revancha de Díaz con la aprobación exprés del registro horario",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/09/11/yolanda-diaz-kwCC-U2302888339371wBB-1200x840@RC.jpg",
+        "tags": [
+            "yolanda díaz",
+            "gobierno de pedro sánchez",
+            "ministerio de empleo y seguridad social",
+            "ceoe"
+        ],
+        "link": "https://www.ideal.es/economia/trabajo/empresarios-temen-revancha-diaz-aprobacion-expres-registro-20250911000704-ntrc.html",
+        "date": "2025-09-10 22:07:07",
+        "sentiment_score": 0.19159314781427383
+    },
+    {
+        "title": "Dos veces Barcelona en la portada de 'The Guardian'",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/08/13/primeras-planas/habla-el-extranjero/1003742681508_15012945_1706x960.jpg?contentId=1003742681508",
+        "tags": [
+            "cataluña",
+            "gaza",
+            "habla el extranjero",
+            "johan cruyff",
+            "barcelona",
+            "palestina",
+            "camp nou",
+            "israel",
+            "guerra"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/habla-el-extranjero/20250910/veces-barcelona-portada-the-guardian/1003742687846_0.html",
+        "date": "2025-09-10 22:00:00",
+        "sentiment_score": -0.047068044543266296
+    },
+    {
+        "title": "¿Narcotráfico, homicidio o extradición? Llama a SIMÓ Abogados",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/09/10/2025091023241412613.jpg",
+        "tags": [
+            "legal"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/legal/narcotrafico-homicidio-extradicion-llama-simo/20250910232430979347.html",
+        "date": "2025-09-10 21:24:30",
+        "sentiment_score": -0.6203421428799629
+    },
+    {
+        "title": "Toni Kroos explota contra la Selección Alemana: \"Estamos a años luz de ganar el Mundial\"",
+        "image_url": "https://pxcdn.meridiano.net/092025/1757538198273.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/toni-kroos-explota-contra-la-seleccion-alemana-estamos-a-anos-luz-de-ganar-el-mundial--202591017110",
+        "date": "2025-09-10 21:11:00",
+        "sentiment_score": -0.8041369011625648
+    },
+    {
+        "title": "España gana a Israel, lidera su grupo y asegura el top 6 para buscar medalla en el Europeo femenino de sófbol",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250910230906_690.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/noticia-espana-gana-israel-lidera-grupo-asegura-top-buscar-medalla-europeo-femenino-sofbol-20250910230906.html",
+        "date": "2025-09-10 21:09:06",
+        "sentiment_score": 0.5637541674077511
+    },
+    {
+        "title": "Raphinha molesto con Ancelotti en un partido intrascendente de Brasil para el Mundial",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/10/68c1d4539f778.r_d.1440-850-1622.jpeg",
+        "tags": [
+            "barça"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20250910/11048497/raphinha-molesto-ancelotti-partido-intrascendente-brasil-mundial.html",
+        "date": "2025-09-10 21:09:05",
+        "sentiment_score": -0.6552459299564362
+    },
+    {
+        "title": "La liga que nos merecemos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/94be38c6-d0c8-4b1b-b8ce-1a21da05517b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "aficionados,la liga,laliga,barcelona,madrid,mestalla,el valencia,valencia cf,partidos,javier tebas,joan laporta,ron gourlay,javier solís"
+        ],
+        "link": "https://www.superdeporte.es/opinion/2025/09/10/laliga-que-merecemos-121448423.html",
+        "date": "2025-09-10 20:58:44",
+        "sentiment_score": -0.5533489659428596
+    },
+    {
+        "title": "El suicidio es la segunda causa de muerte no natural en España",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/09/a1-1412118438-1.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/09/10/el-suicidio-es-la-segunda-causa-de-muerte-no-natural-en-espana/",
+        "date": "2025-09-10 20:57:48",
+        "sentiment_score": -0.5624974966049194
+    },
+    {
+        "title": "¿Por qué los colegios tienen peor nota en Matemáticas? La pobreza infantil, el móvil, unos maestros menos formados y las políticas lingüísticas lastran el aprendizaje",
+        "image_url": "https://phantom-elmundo.uecdn.es/91bb3bada9f31695a868b9a67342276c/crop/717x297/2171x1751/f/image/jpeg/assets/multimedia/imagenes/2025/05/19/17476804195945.jpg",
+        "tags": [
+            "pilar alegría",
+            "educación",
+            "artículos olga r. sanmartín"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/09/10/68c1d1cbfdddff6f498b4593.html",
+        "date": "2025-09-10 20:55:16",
+        "sentiment_score": 0.32670797407627106
+    },
+    {
+        "title": "¿Puede la empresa decidir cuándo debe cumplirse la suspensión de empleo y sueldo?",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/08/15/sentencia-khGH-U2302649741859w0G-758x531@El%20Correo.jpg",
+        "tags": [
+            "audiencias",
+            "empleo"
+        ],
+        "link": "https://www.elcorreo.com/economia/tu-economia/puede-empresa-decidir-debe-cumplirse-suspension-empleo-20250911001014-nt.html",
+        "date": "2025-09-10 22:10:14",
+        "sentiment_score": -0.6036047413945198
+    },
+    {
+        "title": "La pasarela de Madrid cumple 40 años y reinventa la moda española",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/f98fbab5c5b1538ae001011cd821fa90/f/webp/assets/multimedia/imagenes/2025/09/10/17575188835127.jpg",
+        "tags": [
+            "la pasarela de madrid cumple 40 años y reinventa la moda española"
+        ],
+        "link": "https://www.expansion.com/especiales/ifema/2025/09/11/68c19d83e5fdea02298b45ce.html",
+        "date": "2025-09-10 22:10:00",
+        "sentiment_score": 0.828860254958272
+    },
+    {
+        "title": "Ester Expósito y Paris Jackson se reencuentran: del saludo tenso a un cariñoso abrazo",
+        "image_url": "https://www.hola.com/horizon/landscape/1207fb51e7bc-dlu590623021.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "paris jackson",
+            "ester exposito",
+            "actualidad"
+        ],
+        "link": "https://www.hola.com/actualidad/20250910855114/ester-exposito-paris-jackson-reencuentro/",
+        "date": "2025-09-10 22:08:59",
+        "sentiment_score": -0.23137885704636574
+    },
+    {
+        "title": "Coches de más de 15 Años en España: cómo mantenerlos en buen estado con las reglas ZBE",
+        "image_url": "https://www.elboletin.com/wp-content/uploads/2025/09/Captura-de-pantalla-2025-09-10-a-las-23.48.37.png",
+        "tags": [
+            "recambios",
+            "sostenibilidad",
+            "hoy en la red",
+            "normativas",
+            "mantenimiento",
+            "digitalización",
+            "medio ambiente",
+            "automóviles",
+            "zonas de bajas emisiones",
+            "ciudades",
+            "costos"
+        ],
+        "link": "https://www.elboletin.com/coches-de-mas-de-15-anos-en-espana-como-mantenerlos-en-buen-estado-con-las-reglas-zbe/",
+        "date": "2025-09-10 22:08:18",
+        "sentiment_score": 0.37969617545604706
+    },
+    {
+        "title": "23:00H | 10 SEP 2025 | La Linterna",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/horas-completas/23-00h-10-sep-2025-linterna-20250911_3211721.html",
+        "date": "2025-09-10 22:08:00",
+        "sentiment_score": -0.10376320779323578
+    },
+    {
+        "title": "Esta empresa de Barcelona es el peor enemigo del 'green-washing'",
+        "image_url": "https://phantom-elmundo.uecdn.es/e9b9dde9aff58c1b084766561b9d2a88/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/05/17570881836893.jpg",
+        "tags": [
+            "startup",
+            "actualidad económica",
+            "innovación"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/09/11/68b9d7dbe85ece4d2c8b45a4.html",
+        "date": "2025-09-10 22:01:31",
+        "sentiment_score": 0.45592132583260536
+    },
+    {
+        "title": "Gaza engulle los restos del ‘procés’ y opaca la Diada independentista",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/10/politica/1003742687837_15128555_1706x960.jpg?contentId=1003742687837",
+        "tags": [
+            "cataluña",
+            "erc",
+            "junts per catalunya",
+            "diada",
+            "pilar rahola",
+            "cup",
+            "política"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/politica/20250910/gaza-engulle-restos-proces-opaca-diada-independentista/1003742687832_0.html",
+        "date": "2025-09-10 22:00:00",
+        "sentiment_score": -0.8702191226184368
+    },
+    {
+        "title": "Así se diluirá el peso de los accionistas del Sabadell en una futura fusión con el BBVA",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/04/08/business/1003742647567_15129404_1706x960.jpg?contentId=1003742647567",
+        "tags": [
+            "bbva",
+            "banca",
+            "business",
+            "fusiones",
+            "banco sabadell",
+            "opa",
+            "junta de accionistas"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250910/diluira-peso-accionistas-sabadell-futura-fusion-bbva/1003742687888_0.html",
+        "date": "2025-09-10 22:00:00",
+        "sentiment_score": -0.51209856569767
+    },
+    {
+        "title": "Los catalanes somos anormales",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/09/09/pensamiento/884671630_13426998_1706x960.jpg?contentId=884671630",
+        "tags": [
+            "procés",
+            "salvador illa",
+            "generalitat de cataluña",
+            "independentismo",
+            "cataluña",
+            "pensamiento",
+            "pedro sánchez",
+            "independencia",
+            "erc",
+            "sílvia orriols"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250910/catalanes-anormales/1003742687824_13.html",
+        "date": "2025-09-10 22:00:00",
+        "sentiment_score": -0.9389530019834638
+    },
+    {
+        "title": "¿Paz en la realeza? Todo sobre el reencuentro entre el rey Carlos III y Harry tras meses de disputa",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757542507576.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "rey carlos iii",
+            "príncipe harry"
+        ],
+        "link": "https://2001online.com/farandula/paz-en-la-realeza-todo-sobre-el-reencuentro-entre-el-rey-carlos-iii-y-harry-tras-meses-de-disputa-202591018130",
+        "date": "2025-09-10 22:13:00",
+        "sentiment_score": 0.007383383810520172
+    },
+    {
+        "title": "Redadas en EEUU detienen la construcción: ¿qué debe hacer la industria para conseguir obreros?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757540468665.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "sector",
+            "redadas",
+            "obreros"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-en-eeuu-detienen-la-construccion-que-debe-hacer-la-industria-para-conseguir-obreros--20259101800",
+        "date": "2025-09-10 22:00:00",
+        "sentiment_score": -0.7889402005821466
+    },
+    {
+        "title": "¡Viene con aumento! Sistema Patria inicia pago de bono a estudiantes este 10 de septiembre",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757539839395.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "dinero",
+            "sistema patria",
+            "bono",
+            "beca estudiantes latinos",
+            "plataforma patria comienza el pago"
+        ],
+        "link": "https://2001online.com/servicios/viene-con-aumento-sistema-patria-inicia-pago-de-bono-a-estudiantes-este-10-de-septiembre-202591017400",
+        "date": "2025-09-10 21:40:00",
+        "sentiment_score": 0.1537272371351719
+    },
+    {
+        "title": "Corpoelec denuncia ataque contra el SEN: afectó el servicio al oriente del país",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757539562613.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "venezuela",
+            "diario 2001",
+            "estados del oriente",
+            "luz"
+        ],
+        "link": "https://2001online.com/nacionales/corpoelec-denuncia-ataque-contra-el-sen-afecto-el-servicio-al-oriente-del-pais-202591017310",
+        "date": "2025-09-10 21:31:00",
+        "sentiment_score": 0.4521045293658972
+    },
+    {
+        "title": "Mira aquí el Denver Broncos vs Indianapolis Colts en vivo en Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757538217382.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "denver broncos",
+            "indianapolis colts"
+        ],
+        "link": "https://2001online.com/deportes/mira-aqui-el-denver-broncos-vs-indianapolis-colts-en-vivo-en-venezuela-20259101720",
+        "date": "2025-09-10 21:02:00",
+        "sentiment_score": 0.4522024840116501
+    },
+    {
+        "title": "Muere el activista republicano Charlie Kirk: Trump confirma la noticia",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757537628485.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/muere-el-activista-republicano-charlie-kirk-trump-confirma-la-noticia-202591016520",
+        "date": "2025-09-10 20:52:00",
+        "sentiment_score": -0.42632486671209335
+    },
+    {
+        "title": "Laura Pausini hará gira por 45 ciudades de América Latina: comienza desde esta fecha",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757537676134.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "conciertos 2025",
+            "celebridades"
+        ],
+        "link": "https://2001online.com/farandula/laura-pausini-hara-gira-por-45-ciudades-de-america-latina-comienza-desde-esta-fecha--202591016480",
+        "date": "2025-09-10 20:48:00",
+        "sentiment_score": 0.7296001054346561
+    },
+    {
+        "title": "Así comenzaron Jonathan Moly y Andrea Villarroel, mientras Michelle Bertollini aún estaba en escena",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757535976467.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "celebridades",
+            "escandalos"
+        ],
+        "link": "https://2001online.com/farandula/asi-comenzaron-jonathan-moly-y-andrea-villarroel-mientras-michelle-bertollini-aun-estaba-en-escena-202591016250",
+        "date": "2025-09-10 20:25:00",
+        "sentiment_score": 0.13086577504873276
+    },
+    {
+        "title": "Claves del fallo: la Corte de Apelaciones de Florida declara inconstitucional la prohibición de portar armas en público",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757539271032.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "florida",
+            "armas",
+            "gobernador ron desantis"
+        ],
+        "link": "https://2001online.com/usa/internacionales/claves-del-fallo-la-corte-de-apelaciones-de-florida-declara-inconstitucional-la-prohibicion-de-portar-armas-en-publico-202591016200",
+        "date": "2025-09-10 20:20:00",
+        "sentiment_score": -0.8262953497469425
+    },
+    {
+        "title": "Yulimar Rojas vuelve a la pista en el Mundial de Atletismo. Estas son las fechas y horario de Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757537236654.webp?ch=212&cw=377&extw=jpg",
+        "tags": [
+            "venezuela",
+            "atletismo",
+            "yulimarrojas"
+        ],
+        "link": "https://2001online.com/deportes/yulimar-rojas-vuelve-a-la-pista-en-el-mundial-de-atletismo-estas-son-las-fechas-y-horario-de-venezuela-202591016170",
+        "date": "2025-09-10 20:17:00",
+        "sentiment_score": 0.1716406922787428
     }
 ];
