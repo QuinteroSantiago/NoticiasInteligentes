@@ -1,394 +1,5 @@
 export default [
     {
-        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades este 8 de septiembre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-economia",
-            "noticias",
-            "precio gasolina",
-            "gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/08/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-este-8-de-septiembre/",
-        "date": "2025-09-08 06:31:21",
-        "sentiment_score": -0.046607084572315216
-    },
-    {
-        "title": "Una mujer es condenada a cadena perpetua por cocinar hongos venenosos para sus suegros: se inventó un cáncer para sentarlos a la mesa",
-        "image_url": "https://www.infobae.com/resizer/v2/A3PREIBLPVACDI65AFWST4HUWI.jpg?auth=411df902a963d81ca496f5aca26166c89dfde8c8b91ac778675fffc04455ad13&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "australia",
-            "sentencias españa",
-            "sucesos españa",
-            "tribunales españa",
-            "españa-noticias",
-            "asesinatos",
-            "sentencias",
-            "tribunales",
-            "sucesos",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/08/una-mujer-es-condenada-a-cadena-perpetua-por-cocinar-hongos-venenosos-para-sus-suegros-se-invento-un-cancer-para-sentarlos-a-la-mesa/",
-        "date": "2025-09-08 06:24:24",
-        "sentiment_score": -0.8054488506168127
-    },
-    {
-        "title": "El piloto del vuelo más corto del mundo se retira: “Era el azafato y el capitán”",
-        "image_url": "https://www.infobae.com/resizer/v2/3ASZZEBUVNFLTAAEJZVER4Z5ME.jpg?auth=622ad8b820e0afffb97c41962373b6637bb3e540254ba5e926379603fdd563fa&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "trabajadores",
-            "escocia",
-            "jubilación",
-            "aviones",
-            "transporte aéreo",
-            "españa-noticias",
-            "aviación",
-            "españa-economia",
-            "aeropuertos",
-            "piloto de avión"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/08/el-piloto-del-vuelo-mas-corto-del-mundo-se-retira-era-el-azafato-y-el-capitan/",
-        "date": "2025-09-08 06:14:36",
-        "sentiment_score": -0.7836233451962471
-    },
-    {
-        "title": "Las botellas de agua reutilizables son un caldo de cultivo para bacterias estreptocócicas y fecales, según un estudio",
-        "image_url": "https://www.infobae.com/resizer/v2/OJ6HNGGSHNBIDGHZ7PRIOQJAUM.png?auth=c8032eb5f906baa1f32c131fdb510007ed39d73be6edd92da41be2eb94445e7a&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "microplásticos",
-            "higiene",
-            "españa salud",
-            "bacterias",
-            "agua",
-            "españa noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/08/las-botellas-de-agua-reutilizables-son-un-caldo-de-cultivo-para-bacterias-estreptococicas-y-fecales-segun-un-estudio/",
-        "date": "2025-09-08 06:08:59",
-        "sentiment_score": -0.7404910530894995
-    },
-    {
-        "title": "Revocan la licencia a una médica en Reino Unido por no saber inglés: ”Habla con fluidez, pero no correctamente\"",
-        "image_url": "https://www.infobae.com/resizer/v2/E2XWAEGQGBFS3BAQND6KE4PDPY.jpg?auth=c8ed5feb2e609b223d170908428a90ce55d68d8841626b3a9eab4195daaab6ad&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "idiomas",
-            "españa-noticias",
-            "reino unido",
-            "médicos",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/08/revocan-la-licencia-a-una-medica-en-reino-unido-por-no-saber-ingles-habla-con-fluidez-pero-no-correctamente/",
-        "date": "2025-09-08 05:58:46",
-        "sentiment_score": -0.7651862874627113
-    },
-    {
-        "title": "El Senado interroga este lunes a la exmilitante del PSOE Leire Díez, investigada por los audios sobre la UCO",
-        "image_url": "https://www.infobae.com/resizer/v2/A7WRR6EFZBC5REEQWXJWHPOBW4.jpg?auth=b30e931b15c4edd618d5790f2ab6c82c0fe2476a542b02bb466a13c4d506bf7c&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/09/08/el-senado-interroga-este-lunes-a-la-exmilitante-del-psoe-leire-diez-investigada-por-los-audios-sobre-la-uco/",
-        "date": "2025-09-08 05:45:45",
-        "sentiment_score": -0.2928091026842594
-    },
-    {
-        "title": "El desembarco de Alhucemas, antecedente español del Día D de Normandía, cumple hoy su primer centenario",
-        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3463",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/09/08/el-desembarco-de-alhucemas-antecedente-espanol-del-dia-d-de-normandia-cumple-hoy-su-primer-centenario/",
-        "date": "2025-09-08 05:45:33",
-        "sentiment_score": -0.013861671090126038
-    },
-    {
-        "title": "Charles Chaplin, el genio detrás de Charlot y sus relaciones con chicas menores de edad: “Era verdad”",
-        "image_url": "https://www.infobae.com/resizer/v2/6JXHNPZ6UVH2HPWVKCNEQIID7M.webp?auth=852c1d2a0306bad47a096e3284969556130e08816166721a4711a4c7923ecd6d&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "robert downey jr.",
-            "españa-cultura",
-            "españa-noticias",
-            "cine españa",
-            "cine",
-            "charles chaplin"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/09/08/charles-chaplin-el-genio-detras-de-charlot-y-sus-relaciones-con-chicas-menores-de-edad-era-verdad/",
-        "date": "2025-09-08 05:44:52",
-        "sentiment_score": -0.8297630716115236
-    },
-    {
-        "title": "Cómo está el euro frente al dólar este 8 de septiembre",
-        "image_url": "https://www.infobae.com/resizer/v2/7NQ2VALWDVEYBPUCGC3LFFUW3E.jpg?auth=1ddd663cca1fb0ddc1f77c839ac455899f847a00183cabd975f8de77b179ef6b&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "tipo de cambio",
-            "mercados",
-            "españa-economía",
-            "noticias",
-            "dólar",
-            "bancos españa",
-            "euros",
-            "billetes",
-            "monedas"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/08/como-esta-el-euro-frente-al-dolar-este-8-de-septiembre/",
-        "date": "2025-09-08 05:15:27",
-        "sentiment_score": 0.26047976315021515
-    },
-    {
-        "title": "El Constitucional estudiará esta semana el recurso de Cerdán contra su entrada en prisión por el 'caso Koldo'",
-        "image_url": "https://www.infobae.com/resizer/v2/FWL7IBN36RGCXJSIDP37IRRCL4.jpg?auth=563d02e65a97f04f8c4f612d85fa0e7f7e5a872bc3e9048a812e25ca522100ef&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/09/08/el-constitucional-estudiara-esta-semana-el-recurso-de-cerdan-contra-su-entrada-en-prision-por-el-caso-koldo/",
-        "date": "2025-09-08 05:15:23",
-        "sentiment_score": -0.5473537798970938
-    },
-    {
-        "title": "La defensa de Cerdán pide al Supremo la excarcelación del exdirigente socialista que lleva 70 días preso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/V4YHPE7HXRC2XLHGIPHPN5PY64.jpg?auth=973e906da8b36580eecf2d5ddcfd950dab7e5652234c24a795c6a6852250209d&width=1200",
-        "tags": [
-            "santos cerdán",
-            "josé luis ábalos",
-            "caso koldo",
-            "acciona",
-            "españa",
-            "fiscalía anticorrupción"
-        ],
-        "link": "https://elpais.com/espana/2025-09-08/la-defensa-de-cerdan-pide-al-supremo-la-excarcelacion-del-exdirigente-socialista-que-lleva-70-dias-preso.html",
-        "date": "2025-09-08 06:05:00",
-        "sentiment_score": -0.394838135689497
-    },
-    {
-        "title": "\"Tengo en mi cabeza ganar el Balón de Oro\"",
-        "image_url": "https://www.eldiadevalladolid.com/media/img/2025/a1262f71-e7c9-447e-9c2f1113a4077ddd.jpg",
-        "tags": [
-            "balón de oro",
-            "real madrid",
-            "kylian mbappé",
-            "luka modric",
-            "dembélé",
-            "achraf hakimi",
-            "lamine yamal",
-            "fc barcelona",
-            "psg",
-            "xabi alonso"
-        ],
-        "link": "https://www.eldiadevalladolid.com/noticia/z5f490f4c-0d40-4403-bc13ba4f2679e586/202509/tengo-en-mi-cabeza-ganar-el-balon-de-oro",
-        "date": "2025-09-08 06:17:22",
-        "sentiment_score": 0.7115158811211586
-    },
-    {
-        "title": "Cerdán sospecha que la Guardia Civil oculta su colaboración con Koldo García y reclama el material que expurgó",
-        "image_url": "https://static.eldiario.es/clip/5e4a7871-8085-4537-823a-4769bef03b4d_16-9-discover-aspect-ratio_default_0_x1645y246.jpg",
-        "tags": [
-            "expurgo",
-            "cerdan",
-            "colaboracion",
-            "reclama",
-            "garcia",
-            "sospecha",
-            "oculta",
-            "material",
-            "guardia",
-            "civil",
-            "koldo"
-        ],
-        "link": "https://www.eldiario.es/politica/cerdan-sospecha-guardia-civil-oculta-colaboracion-koldo-garcia-reclama-material-expurgo_1_12582818.html",
-        "date": "2025-09-08 06:00:06",
-        "sentiment_score": -0.14476780593395233
-    },
-    {
-        "title": "Sener, la ingeniería del Hipogeo del Bernabéu, registra una nueva patente y podrá sortear la exclusividad del Real Madrid",
-        "image_url": "https://phantom-elmundo.uecdn.es/6527acf41681b9fef92faa161ef584c9/crop/485x95/1558x1101/f/image/jpeg/assets/multimedia/imagenes/2022/11/16/16686363463923.jpg",
-        "tags": [
-            "estadio santiago bernabéu",
-            "real madrid",
-            "artículos paula maría"
-        ],
-        "link": "https://www.elmundo.es/economia/empresas/2025/09/08/68b9845efdddffd92b8b45a3.html",
-        "date": "2025-09-08 05:59:25",
-        "sentiment_score": 0.5602305680513382
-    },
-    {
-        "title": "La Asturias del nuevo milenio cumple un cuarto de siglo: así hemos cambiado",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/09/07/dia-asturias-imagen-fondo-k0iC-U230285522500432F-1700x840@El%20Comercio.jpg",
-        "tags": [
-            "día de asturias",
-            "principado de asturias"
-        ],
-        "link": "https://www.elcomercio.es/asturias/dia-asturias-nuevo-milenio-cuarto-siglo-asi-hemos-cambiado-20250908074014-nt.html",
-        "date": "2025-09-08 05:40:56",
-        "sentiment_score": -0.37704144418239594
-    },
-    {
-        "title": "La IA que diseña nuevos antibióticos desde cero",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250908073948_120.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-ia-disena-nuevos-antibioticos-cero-20250908073948.html",
-        "date": "2025-09-08 05:39:48",
-        "sentiment_score": 0.2829471379518509
-    },
-    {
-        "title": "El principal obstáculo para que te concedan una hipoteca: \"Hace que miles se tengan que ir al alquiler\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2020/11/18/cartel-de-se-vende-en-el-balcon-de-un-piso-de-un-edificio-de-madrid-1.jpeg",
-        "tags": [
-            "consumo"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/consumo/principal-obstaculo-te-concedan-hipoteca-miles-tengan-alquiler_5731057_0.html",
-        "date": "2025-09-08 05:32:10",
-        "sentiment_score": -0.4994589854031801
-    },
-    {
-        "title": "Segovia pasa a ser un foco creciente de ciberdelitos, con más de 500 en sólo tres meses",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2025/09/04-1b.jpg",
-        "tags": [
-            "ciberseguridad",
-            "portada secundaria",
-            "segovia",
-            "delitos"
-        ],
-        "link": "https://eladelantado.com/segovia/segovia-pasa-a-ser-un-foco-creciente-de-ciberdelitos-con-mas-de-500-en-solo-tres-meses/",
-        "date": "2025-09-08 05:30:22",
-        "sentiment_score": -0.3384154140949249
-    },
-    {
-        "title": "Manolo Carrasco: «Cada vez que entro en Cádiz me emociono; todo me recuerda a mi padre»",
-        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/cultura/2025/09/08/manolo-carrasco-Rm6jlEZUvXvBdRqXcXGnvvO-758x531@abc.jpeg",
-        "tags": [
-            "cádiz",
-            "español"
-        ],
-        "link": "https://www.lavozdigital.es/cultura/musica/manolo-carrasco-vez-entro-cadiz-emociono-recuerda-20250908225526-ntv.html",
-        "date": "2025-09-08 05:26:44",
-        "sentiment_score": 0.03183990716934204
-    },
-    {
-        "title": "Un exjugador del Madrid, muy sincero después de la victoria de la Selección: \"Pudo meter 10 goles, pero faltó eficacia\"",
-        "image_url": "https://s2.elespanol.com/2025/09/08/actualidad/1003743915143_258518356_1706x960.jpg?contentId=1003743915143",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "selección española de fútbol"
-        ],
-        "link": "https://www.elespanol.com/deportes/20250908/exjugador-madrid-sincero-despues-victoria-seleccion-pudo-meter-goles-falto-eficacia/1003743915140_0.html",
-        "date": "2025-09-08 05:26:03",
-        "sentiment_score": 0.5241878479719162
-    },
-    {
-        "title": "Interrumpida la circulación en la R15 entre Marçà y Els Guiamets (Tarragona) por un tren parado",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250908083654_120.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-interrumpida-circulacion-r15-marca-els-guiamets-tarragona-tren-parado-20250908083654.html",
-        "date": "2025-09-08 06:36:54",
-        "sentiment_score": -0.7209674827754498
-    },
-    {
-        "title": "Aemet activa el aviso rojo en Tarragona por lluvias torrenciales que afectarán también a C. Valenciana y zonas de Aragón",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250908083319_120.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-tiempo-hoy-espana-septiembre-2025-20250908083319.html",
-        "date": "2025-09-08 06:33:19",
-        "sentiment_score": -0.6449679136276245
-    },
-    {
-        "title": "Sánchez anunciará hoy nuevas medidas \"contra el genocidio\" en Gaza",
-        "image_url": "https://static1.ara.cat/clip/54753929-6a44-4628-95c5-0b1514beeb04_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hoy",
-            "gaza",
-            "medidas",
-            "nuevas",
-            "anunciara",
-            "sanchez",
-            "genocidio"
-        ],
-        "link": "https://es.ara.cat/politica/sanchez-anunciara-hoy-nuevas-medidas-genocidio-gaza_1_5490067.html",
-        "date": "2025-09-08 06:30:33",
-        "sentiment_score": -0.1967947818338871
-    },
-    {
-        "title": "La inmobiliaria española Floorfy compra la italiana Realistico y apunta ahora a Francia",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2250511.jpg",
-        "tags": [
-            "inmobiliario"
-        ],
-        "link": "https://www.vozpopuli.com/economia/inmobiliario/la-inmobiliaria-espanola-floorfy-compra-la-italiana-realistico-y-acelera-su-expansion-hacia-francia.html",
-        "date": "2025-09-08 06:30:22",
-        "sentiment_score": 0.5749856159090996
-    },
-    {
-        "title": "Cinco canciones para disfrutar del concierto de María Becerra en Ponferrada",
-        "image_url": "https://s2.ppllstatics.com/elbierzonoticias/www/multimedia/2025/09/02/MariaBecerra-kCJD-U2302800590653mhD-1200x840@Leonoticias.jpg",
-        "tags": [
-            "ponferrada",
-            "fiestas patronales"
-        ],
-        "link": "https://www.elbierzonoticias.com/ponferrada/cinco-canciones-disfrutar-concierto-maria-becerra-ponferrada-20250908104426-nt.html",
-        "date": "2025-09-08 06:28:30",
-        "sentiment_score": 0.1914186179637909
-    },
-    {
-        "title": "Aitor Astiz: “Para mí, la música electrónica es transmitir sentimientos, pasión”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dd6859e2-251c-4912-8e7b-a24964f858ee_16-9-aspect-ratio_default_0_x864y1269.jpg",
-        "tags": [
-            "aitor",
-            "electronica",
-            "astiz",
-            "transmitir",
-            "musica"
-        ],
-        "link": "https://www.noticiasdenavarra.com/cultura/2025/09/08/aitor-astiz-musica-electronica-transmitir-10056655.html",
-        "date": "2025-09-08 06:27:35",
-        "sentiment_score": 0.6839868854731321
-    },
-    {
-        "title": "Menú del día: Mesón Solsona, reencuentros felices en el Eixample",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/19ff87b3-79ac-43eb-b058-21cf00ed3be7_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "restaurante",
-            "barcelona",
-            "dónde comer hoy",
-            "menú del día",
-            "gastronomía"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20250908/restaurante-meson-solsona-barcelona-menu-dia-121127738",
-        "date": "2025-09-08 06:26:12",
-        "sentiment_score": 0.24097555875778198
-    },
-    {
-        "title": "El Gordo de la Primitiva deja 6 millones de euros en Andalucía",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/09/08/primitiva-mijas-kuiD-U23028594767861yD-1200x840@Ideal.jpg",
-        "tags": [
-            "deja",
-            "millones",
-            "gordo",
-            "primitiva",
-            "euros",
-            "andalucia"
-        ],
-        "link": "https://www.ideal.es/andalucia/gordo-primitiva-deja-millones-euros-andalucia-20250908082351-nt.html",
-        "date": "2025-09-08 06:23:52",
-        "sentiment_score": -0.031087622046470642
-    },
-    {
-        "title": "Primer día de clase y el desastre de Rodalies",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/02/vida/1003742685798_15090272_1706x960.jpg?contentId=1003742685798",
-        "tags": [
-            "primeras planas",
-            "rodalies",
-            "cataluña"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20250908/primer-dia-clase-desastre-rodalies/1003742687050_0.html",
-        "date": "2025-09-08 06:18:30",
-        "sentiment_score": -0.8111822819337249
-    },
-    {
         "title": "Un abuelo tiene que recoger a su nieto en la puerta del colegio y se lleva a casa al niño equivocado: “Nadie conocía a los niños”",
         "image_url": "https://www.infobae.com/resizer/v2/KUX3FN7HXVG2BOLXOSKAARYQYY.jpg?auth=ab26df69eb860181786b23c222a48807ddb6d436a170d8567c084c6c518510e6&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -629,29 +240,6 @@ export default [
         "link": "https://www.abc.es/internacional/joven-espanol-anos-recien-casado-victimas-tireoteo-20250908125209-nt.html",
         "date": "2025-09-08 10:54:40",
         "sentiment_score": -0.5536523312330246
-    },
-    {
-        "title": "El jefe del Ejército ucraniano admite que Rusia triplica en número los efectivos en el frente",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/08/thumbs_b_c_86c157ea75946661337584e402f27ec3_20250908114832-RCclpCxLLSROH2GOxdWmiNO-1200x840@diario_abc.jpg",
-        "tags": [
-            "rusia",
-            "fuerzas armadas",
-            "facebook",
-            "ucrania"
-        ],
-        "link": "https://www.abc.es/internacional/jefe-ejercito-ucraniano-admite-rusia-triplica-numero-20250908115351-nt.html",
-        "date": "2025-09-08 09:55:46",
-        "sentiment_score": -0.12931481003761292
-    },
-    {
-        "title": "La espiral de subidas de cotizaciones dispara un 5,4% el coste por hora trabajada",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/09/08/1500372509-R1tRkZbVqZ0P2DpZJnORmqI-1200x840@diario_abc.JPG",
-        "tags": [
-            "ine"
-        ],
-        "link": "https://www.abc.es/economia/espiral-subidas-cotizaciones-dispara-coste-laboral-20250908101019-nt.html",
-        "date": "2025-09-08 08:35:29",
-        "sentiment_score": -0.04047352075576782
     },
     {
         "title": "Cataluña revisará el riesgo de inundabilidad de los campings y sus planes de protección “caso por caso”",
@@ -8824,5 +8412,582 @@ export default [
         "link": "https://2001online.com/usa/servicios/comprar-con-el-programa-wic-conoce-los-proveedores-autorizados-en-california-202591111110",
         "date": "2025-09-11 15:11:00",
         "sentiment_score": 0.5117178373038769
+    },
+    {
+        "title": "La Primitiva: comprueba los números ganadores del 11 de septiembre de 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/5IMBCEZCY5FGVAES2VAZQ2IRLE.jpg?auth=94c01f4e3faa8d28057b313471960bd66294ea91fe0a8aa16b187e4c3fe2c30a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "primitiva",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/11/la-primitiva-estos-son-los-ganadores-del-sorteo-de-este-11-de-septiembre/",
+        "date": "2025-09-11 20:51:58",
+        "sentiment_score": 0.10905404016375542
+    },
+    {
+        "title": "Comprobar EuroDreams: el número ganador de este 11 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/VYYEOIDRGZBUXAD2ZHGUCH6FIQ.jpg?auth=bc93399d032e4c1b30c0fd92b7a7e49ebd4d27a8f443c91cb4d8dc0e37cc9ef9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "eurodreams"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/11/comprobar-eurodreams-el-numero-ganador-de-este-11-de-septiembre/",
+        "date": "2025-09-11 20:46:00",
+        "sentiment_score": 0.27361590787768364
+    },
+    {
+        "title": "Comprobar la Lotería Nacional: los ganadores de este jueves 11 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/Y46ZO5TK2NHNBHBK3QMUSXJVDQ.jpg?auth=cfc0e8368961cf20bf608a7d47ca7bf635f7d5c0e605ed604b3c72d0e33c7434&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "lotería nacional"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/11/comprobar-la-loteria-nacional-los-ganadores-de-este-jueves-11-de-septiembre/",
+        "date": "2025-09-11 20:18:02",
+        "sentiment_score": 0.13586254231631756
+    },
+    {
+        "title": "Bonoloto: esta es la combinación ganadora del sorteo de este 11 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/WHQYEW2OEZCXDFD3IHM2AB2IXA.jpg?auth=4b217ddbdae9f3e886553b6289c0a94a0143b9358b93b35e99630507d07c07a2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bonoloto",
+            "españa-loterías",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/11/bonoloto-esta-es-la-combinacion-ganadora-del-sorteo-de-este-11-de-septiembre/",
+        "date": "2025-09-11 20:15:38",
+        "sentiment_score": 0.13030869513750076
+    },
+    {
+        "title": "Un detective pilla a un empleado “haciendo tiempo” en un bar durante horas de trabajo y le despiden: el trabajador recurre, pero la prueba es válida porque le vieron en lugares públicos",
+        "image_url": "https://www.infobae.com/resizer/v2/7TV3OMNQXNCL7GZFUA3E266TJQ.jpeg?auth=c81a48fbad0b93e22f264c392c1cbb7e4b19c3521f499086243f8c9cc0e93224&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "detectives",
+            "cataluña",
+            "sucesos españa",
+            "justicia españa",
+            "justicia",
+            "españa-nacional",
+            "españa-noticias",
+            "sucesos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/11/un-detective-pilla-a-un-empleado-haciendo-tiempo-en-un-bar-durante-horas-de-trabajo-y-le-despiden-el-trabajador-recurre-pero-la-prueba-es-valida-porque-le-vieron-en-lugares-publicos/",
+        "date": "2025-09-11 20:07:37",
+        "sentiment_score": -0.09831628948450089
+    },
+    {
+        "title": "Qué es el “falso realismo”, la técnica que usan los mentirosos para engañarte",
+        "image_url": "https://www.infobae.com/resizer/v2/BUXM2C6COBHY3NZK264JZV3SWU.jpg?auth=7b0d170793ef2a21aeb9e16e4d306868864b874fa09714fb1eff8cc586cdd644&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-sociedad",
+            "redes sociales",
+            "interacción",
+            "españa-noticias",
+            "tiktok"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/11/que-es-el-falso-realismo-la-tecnica-que-usan-los-mentirosos-para-enganarte/",
+        "date": "2025-09-11 19:53:10",
+        "sentiment_score": -0.06882201880216599
+    },
+    {
+        "title": "Estos son los ganadores del sorteo de Super Once del 11 septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/PPFHQD7ONZCW5DHK2KQEM5XRCY.jpg?auth=7563789ed01319b51c40432578d3fab16da6f51f84c84520b021889f1d38cf5f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-economía",
+            "españa-loterías",
+            "super once"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/11/estos-son-los-ganadores-del-sorteo-de-super-once-del-11-septiembre/",
+        "date": "2025-09-11 19:45:28",
+        "sentiment_score": 0.20369919389486313
+    },
+    {
+        "title": "Un banco en Brasil despide a más de mil empleados por permanecer con los ordenadores inactivos durante demasiado tiempo",
+        "image_url": "https://www.infobae.com/resizer/v2/D6R4HKZ7YJA5ZHCGKOOY45WYWY.jpeg?auth=c2d278c2c467254a27d1ca76129f9935a11c42b20308ea51fde373b4f84afd34&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "sucesos españa",
+            "trabajo",
+            "empresas",
+            "banco",
+            "españa-sociedad",
+            "empleo españa",
+            "teletrabajo",
+            "empleo",
+            "trabajo españa",
+            "españa-noticias",
+            "productividad",
+            "brasil",
+            "empresas españa",
+            "sucesos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/11/un-banco-en-brasil-despide-a-mas-de-mil-empleados-por-permanecer-con-los-ordenadores-inactivos-durante-demasiado-tiempo/",
+        "date": "2025-09-11 19:33:19",
+        "sentiment_score": -0.8558226581662893
+    },
+    {
+        "title": "El litro de aceite de oliva virgen extra sube y se acerca de nuevo a los 4 euros en origen",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3476",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/11/el-litro-de-aceite-de-oliva-virgen-extra-sube-y-se-acerca-de-nuevo-a-los-4-euros-en-origen/",
+        "date": "2025-09-11 19:24:11",
+        "sentiment_score": -0.12212041020393372
+    },
+    {
+        "title": "Reabre el aeropuerto ruso de Krasnodar, cerrado desde el inicio de la guerra de Ucrania",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3476",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/11/reabre-el-aeropuerto-ruso-de-krasnodar-cerrado-desde-el-inicio-de-la-guerra-de-ucrania/",
+        "date": "2025-09-11 19:23:55",
+        "sentiment_score": -0.8247785409912467
+    },
+    {
+        "title": "Búsqueda del asesino de Charlie Kirk: 100.000 dólares por información que facilite su detención",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/11/kirk2-ksxG-U701528230990qe-1200x840@diario_abc.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.abc.es/internacional/busqueda-asesino-charlie-kirk-100000-dolares-informacion-20250911213829-nt.html",
+        "date": "2025-09-11 19:38:29",
+        "sentiment_score": -0.3643632233142853
+    },
+    {
+        "title": "El Gobierno rechaza las acusaciones de antisemitismo de Netanyahu y defiende su postura con Gaza",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/11/1500593625-k2c-U701527750051Js-1200x840@diario_abc.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/gobierno-rechaza-acusaciones-antisemitismo-netanyahu-defiende-postura-20250911200244-nt.html",
+        "date": "2025-09-11 18:02:45",
+        "sentiment_score": -0.1332329660654068
+    },
+    {
+        "title": "Tezanos se supera",
+        "image_url": "https://s1.ppllstatics.com/diariosur/www/multimedia/2025/09/09/conductora_1-U12506727401ejJ-170x119@Diario%20Sur.jpg",
+        "tags": [
+            "supera",
+            "tezanos"
+        ],
+        "link": "https://www.abc.es/opinion/julian-quiros-tezanos-supera-20250911193007-nt.html",
+        "date": "2025-09-11 17:30:08",
+        "sentiment_score": -0.29959674179553986
+    },
+    {
+        "title": "España lanza a la mar una de las fragatas de combate más avanzadas del mundo, la F111 ‘Bonifaz’ de Navantia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VWJRGCGI6NMQDLXQZLMJU3Y334.jpg?auth=ea65524d93206be15bf0d029ae1aeb886d91157f14e3381826963ed36eba47bf&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "industria",
+            "navantia",
+            "defensa",
+            "empleo",
+            "industria armamentística",
+            "astilleros",
+            "empresas",
+            "galicia"
+        ],
+        "link": "https://elpais.com/economia/2025-09-11/espana-lanza-a-la-mar-una-de-las-fragatas-de-combate-mas-avanzadas-del-mundo-la-f111-bonifaz-de-navantia.html",
+        "date": "2025-09-11 18:17:23",
+        "sentiment_score": 0.500421516597271
+    },
+    {
+        "title": "La ultraderecha de Sílvia Orriols gana protagonismo en la Diada y acusa de “sectaria” a la ANC",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Y6S3RYJTDVGPHOBGVSWLU4CYB4.jpg?auth=a1e1a8a4c40f47a3f116cb0ae77125a63c1e73c4adee9f89b50d27cd4c98baa4&width=1200",
+        "tags": [
+            "juntsxcat",
+            "aliança catalana",
+            "òmnium cultural",
+            "manifestaciones",
+            "cataluña",
+            "independentismo",
+            "erc",
+            "diada",
+            "anc",
+            "sílvia orriols"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-09-11/la-ultraderecha-de-silvia-orriols-gana-protagonismo-en-la-diada-y-acusa-de-sectaria-a-la-anc.html",
+        "date": "2025-09-11 18:16:03",
+        "sentiment_score": 0.20031635463237762
+    },
+    {
+        "title": "El PP y Vox usan el asesinato de Kirk para cargar contra la izquierda y el Gobierno",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MUIM6FJCBJARNO3BU3327Q7FHY.jpg?auth=43da4639e38b0a05c120b13c8a59ed68c20dcaef69de2012ecd725b7eb48d607&width=1200",
+        "tags": [
+            "asesinatos",
+            "vox",
+            "donald trump",
+            "armas de fuego",
+            "españa",
+            "pp",
+            "extrema derecha"
+        ],
+        "link": "https://elpais.com/espana/2025-09-11/el-pp-y-vox-usan-el-asesinato-de-kirk-para-cargar-contra-la-izquierda-y-el-gobierno.html",
+        "date": "2025-09-11 17:20:00",
+        "sentiment_score": -0.8902779426425695
+    },
+    {
+        "title": "La alcaldesa María José Catalá, anuncia 55 iniciativas para aumentar la protección frente a emergencias en Valencia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Z4XSZ57X6BLZFK5ORDRSAY3RPQ.jpg?auth=22c2185b7d297dff8c55a02a1d3fcc5c202567177b63b35e4ec451743b6ebf5e&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "debates parlamentarios",
+            "emergencias",
+            "valencia",
+            "maría josé catalá",
+            "policía",
+            "ayuntamiento valencia"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-11/la-alcaldesa-maria-jose-catala-anuncia-55-iniciativas-para-aumentar-la-proteccion-frente-a-emergencias-en-valencia.html",
+        "date": "2025-09-11 17:15:56",
+        "sentiment_score": 0.06638424098491669
+    },
+    {
+        "title": "Barça, Real Madrid, Atlético, Athletic y Villarreal inician la 'cuesta de septiembre' con un duro calendario",
+        "image_url": "https://www.infobae.com/resizer/v2/NIUDESTBJBFTHC7EUE3G4FAJNI.jpg?auth=a05e69b14b8a3040c129280025122a92194da972250ab13a569d4f0ca46a18a8&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/09/11/barca-real-madrid-atletico-athletic-y-villarreal-inician-la-cuesta-de-septiembre-con-un-duro-calendario/",
+        "date": "2025-09-11 22:15:55",
+        "sentiment_score": 0.19891466945409775
+    },
+    {
+        "title": "2026, el año más tecnológico de Ayuso: un bus sin conductor, 'ciberblindaje', IA para reducir 'papeleo' y atropellos y un banco de voz para la ELA",
+        "image_url": "https://phantom-elmundo.uecdn.es/51ded3774df26a5e18ce81351c21152a/crop/0x0/3024x3024/f/image/jpeg/assets/multimedia/imagenes/2022/01/31/16436433363550.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "isabel díaz ayuso",
+            "artículos vicente coll",
+            "política",
+            "pp"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/09/12/68c30886e9cf4aed768b4588.html",
+        "date": "2025-09-11 22:06:40",
+        "sentiment_score": 0.40654695592820644
+    },
+    {
+        "title": "Bonos casino sin depósito y criptomonedas: una mirada al mercado online europeo",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/09/11175457/Imagen2.jpg",
+        "tags": [
+            "economía",
+            "mercado online europeo",
+            "criptomonedas",
+            "bonos casino"
+        ],
+        "link": "https://www.elnacional.com/2025/09/bonos-casino-sin-deposito-y-criptomonedas-una-mirada-al-mercado-online-europeo/",
+        "date": "2025-09-11 22:03:00",
+        "sentiment_score": 0.37288424372673035
+    },
+    {
+        "title": "Los máximos goleadores en la historia de la Champions League",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-09/10/18/thumb/A6KU7tDZS.jpg?3%2C0=&crop=1245%3A830&resize=1250%3A830",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/david_bohorquez09/los-maximos-goleadores-en-la-historia-de-la-champions-league",
+        "date": "2025-09-11 22:01:02",
+        "sentiment_score": 0.7655895091593266
+    },
+    {
+        "title": "La Comunidad de Madrid impulsa el emprendimiento aeroespacial con el lanzamiento del proyecto Redes de Emprendimiento Digital",
+        "image_url": "https://actualidadaeroespacial.com/wp-content/themes/jnews/assets/img/jeg-empty.png",
+        "tags": [
+            "retech",
+            "industria",
+            "madrid"
+        ],
+        "link": "https://actualidadaeroespacial.com/la-comunidad-de-madrid-impulsa-el-emprendimiento-aeroespacial-con-el-lanzamiento-del-proyecto-redes-de-emprendimiento-digital/",
+        "date": "2025-09-11 22:01:00",
+        "sentiment_score": 0.6177114248275757
+    },
+    {
+        "title": "(Previa) Barça y Atlético buscan seguir mandando en la Liga F y el Real Madrid aprovechar el soplo europeo",
+        "image_url": "https://www.infobae.com/resizer/v2/Q4KI3X47FJCA7FB5MKKAUQDV44.jpg?auth=cd57ff469a73c5b0f3df16a0e9061171645083f6424c2e1616bbe96e18fba0ac&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/09/11/previa-barca-y-atletico-buscan-seguir-mandando-en-la-liga-f-y-el-real-madrid-aprovechar-el-soplo-europeo/",
+        "date": "2025-09-11 21:45:33",
+        "sentiment_score": 0.008229970932006836
+    },
+    {
+        "title": "Granada vive un verano de caos ferroviario con averías, incendios y viajeros tirados en las vías",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/09/13/Especial%20foto%20100%20-%20desktop-k4cC-U2302887670335hvH-1200x672@Ideal.jpg",
+        "tags": [
+            "renfe",
+            "andalucía",
+            "ave",
+            "historias visuales"
+        ],
+        "link": "https://www.ideal.es/granada/granada-vive-verano-caos-ferroviario-averias-incendios-20250912233222-nt.html",
+        "date": "2025-09-11 21:32:22",
+        "sentiment_score": -0.2109595388174057
+    },
+    {
+        "title": "Barça, Real Madrid, Atlético, Athletic y Villarreal inician la 'cuesta de septiembre'",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250911232949_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-real-madrid-atletico-athletic-villarreal-inician-cuesta-septiembre-20250911232949.html",
+        "date": "2025-09-11 21:29:49",
+        "sentiment_score": 0.26433543860912323
+    },
+    {
+        "title": "Dónde han caído los premios de la ONCE, Primitiva, Bonoloto, EuroDreams y Lotería Nacional de hoy jueves 11 de septiembre de 2025",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2023/11/02/BB1B947C-4E08-43D6-9E95-A3A5CAD6CD08/administracion-loteria_98.jpg?crop=4040%2C2273%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "loterías",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-premios-once-primitiva-bonoloto-eurodreams-loteria-nacional-hoy-jueves-11-septiembre-2025_2025091168c33e6dca99f73feeec22fd.html",
+        "date": "2025-09-11 21:26:05",
+        "sentiment_score": 0.026706397533416748
+    },
+    {
+        "title": "Se confirmó la lesión que sufrió Thiago Almada en la Selección y se perderá el debut en la Champions con el Atlético de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/I5DUL3HOTNATNMJBQ74BIXCSPU.JPG?auth=08514e0aa9f0358be98cc62ded5841554426717b7a3f4ff861b12419ce74ce29&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-argentina",
+            "deportes-internacional",
+            "thiago almada",
+            "selección argentina",
+            "atlético de madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/11/se-confirmo-la-lesion-que-sufrio-thiago-almada-en-la-seleccion-y-se-perdera-el-debut-en-la-champions-con-el-atletico-de-madrid/",
+        "date": "2025-09-11 21:20:37",
+        "sentiment_score": -0.23259926214814186
+    },
+    {
+        "title": "María Pombo: \"Me desean que sufra un aborto\"",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/09/12/2025091200114962424.",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/gente/maria-pombo-desean-que-sufra-aborto/202509120012071408269.html",
+        "date": "2025-09-11 22:12:07",
+        "sentiment_score": -0.8221859950572252
+    },
+    {
+        "title": "Por la boca muere el pez",
+        "image_url": "https://s.libertaddigital.com/2022/11/07/pablo-iglesias-irenemontero-0711.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-09-12/antonio-robles-por-la-boca-muere-el-pez-7294473/",
+        "date": "2025-09-11 22:08:34",
+        "sentiment_score": -0.9525689268484712
+    },
+    {
+        "title": "Pacto de silencio ante el último fusilado del franquismo: \"Era inocente. En aquel atentado hubo un 'cuarto hombre' que disparó\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/dd2f234f1841a3037e0605d267b4f2be/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/06/17571564124642.jpg",
+        "tags": [
+            "francisco franco bahamonde",
+            "historia"
+        ],
+        "link": "https://www.elmundo.es/papel/historias/2025/09/12/68bc0aeee4d4d8e4068b4571.html",
+        "date": "2025-09-11 22:08:11",
+        "sentiment_score": -0.7214002907276154
+    },
+    {
+        "title": "Volver a volver",
+        "image_url": "https://phantom-elmundo.uecdn.es/dfe632b27427fa41f57547138b01a923/crop/1124x115/1997x988/f/image/jpeg/assets/multimedia/imagenes/2022/06/14/16552240620722.jpg",
+        "tags": [
+            "artículos zabala de la serna",
+            "toros",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/09/12/68c18b59e9cf4a435d8b45a2.html",
+        "date": "2025-09-11 22:06:49",
+        "sentiment_score": -0.8836194556206465
+    },
+    {
+        "title": "Sindicato de la Construcción en Anzoátegui afina detalles para sus elecciones gremiales",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "otras"
+        ],
+        "link": "https://eltiempove.com/sindicato-de-la-construccion-en-anzoategui-afina-detalles-para-sus-elecciones-gremiales/",
+        "date": "2025-09-11 22:03:36",
+        "sentiment_score": 0.2657458558678627
+    },
+    {
+        "title": "Bielorrusia libera a 52 prisioneros políticos y EEUU levanta sanciones a su aerolínea",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/09/AP25254422658144.webp",
+        "tags": [
+            "internacionales"
+        ],
+        "link": "https://lacalle.com.ve/bielorrusia-libera-a-52-prisioneros-politicos-y-eeuu-levanta-sanciones-a-su-aerolinea/",
+        "date": "2025-09-11 22:03:04",
+        "sentiment_score": -0.08377507328987122
+    },
+    {
+        "title": "El precio medio de los locales en las millas de oro rebasa ya los 20.000 euros mensuales: las tiendas de moda copan el 50% de las aperturas y la desocupación cae al 5,6%",
+        "image_url": "https://phantom-elmundo.uecdn.es/99b08c5dbd91dd179aec0cc61524bf47/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/11/17575989045874.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/09/12/68c2d3efe85ece3b698b458e.html",
+        "date": "2025-09-11 22:01:58",
+        "sentiment_score": -0.2479138821363449
+    },
+    {
+        "title": "Las causas comunes de socialistas y separatistas",
+        "image_url": "https://s.libertaddigital.com/autores/el-editorial.png",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-09-12/editorial-las-causas-comunes-de-socialistas-y-separatistas-7294552/",
+        "date": "2025-09-11 22:01:29",
+        "sentiment_score": -0.8851856710389256
+    },
+    {
+        "title": "Mi experiencia de la Diada",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/10/13/pensamiento/801679978_8979693_1706x960.jpg?contentId=801679978",
+        "tags": [
+            "cataluña",
+            "josep rull",
+            "diada",
+            "pensamiento"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250911/experiencia-diada/1003742688014_13.html",
+        "date": "2025-09-11 22:00:00",
+        "sentiment_score": -0.15109123289585114
+    },
+    {
+        "title": "Precio del dólar y euro BCV para el 12 de septiembre: así se cotizan las divisas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757629661647.jpg?ch=675&cw=1200",
+        "tags": [
+            "dólar latam"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-12-de-septiembre-asi-se-cotizan-las-divisas-202591118130",
+        "date": "2025-09-11 22:13:00",
+        "sentiment_score": -0.014813605695962906
+    },
+    {
+        "title": "Cristiano Ronaldo: el secreto detrás de la máquina de goles",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757630026880.jpg?ch=675&cw=1200",
+        "tags": [
+            "portugal",
+            "fútbol",
+            "cristiano ronaldo",
+            "rutina de cristiano ronaldo",
+            "dieta de cristiano ronaldo",
+            "mentalidad de cristiano ronaldo",
+            "al nassr",
+            "manchester united",
+            "real madrid"
+        ],
+        "link": "https://2001online.com/deportes/cristiano-ronaldo-el-secreto-detras-de-la-maquina-de-goles-20259111900",
+        "date": "2025-09-11 22:07:11",
+        "sentiment_score": 0.5176176875829697
+    },
+    {
+        "title": "Diosdado Cabello sobre ciudadanos en la lancha atacada por EEUU: Su familia afirma que no eran narcotraficantes",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757627555825.jpg?ch=675&cw=1200",
+        "tags": [
+            "marines",
+            "narcotráfico",
+            "lancha",
+            "eeuu",
+            "diario 2001",
+            "caribe",
+            "venezuela",
+            "nicolás maduro"
+        ],
+        "link": "https://2001online.com/nacionales/diosdado-cabello-sobre-ciudadanos-en-la-lancha-atacada-por-eeuu-su-familia-afirma-que-no-eran-narcotraficantes-202591117590",
+        "date": "2025-09-11 21:59:00",
+        "sentiment_score": -0.40966129302978516
+    },
+    {
+        "title": "¿Cómo vender un producto alimenticio en Estados Unidos?: pasos que no se pueden saltar",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757607089923.jpg?ch=675&cw=1200",
+        "tags": [
+            "leyes",
+            "alimentos",
+            "estados unidos"
+        ],
+        "link": "https://2001online.com/servicios/como-vender-un-producto-alimenticio-en-estados-unidos-pasos-que-no-se-pueden-saltar-202591117450",
+        "date": "2025-09-11 21:45:00",
+        "sentiment_score": 0.036958180367946625
+    },
+    {
+        "title": "Polémica desatada: esta es la nueva ciudad de Florida que bautizará una calle con el nombre de Donald Trump",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757627086798.jpg?ch=675&cw=1200",
+        "tags": [
+            "calle con nombre presidencial",
+            "florida",
+            "trump"
+        ],
+        "link": "https://2001online.com/usa/internacionales/polemica-desatada-esta-es-la-nueva-ciudad-de-florida-que-bautizara-una-calle-con-el-nombre-de-donald-trump-202591117410",
+        "date": "2025-09-11 21:41:00",
+        "sentiment_score": -0.8988946015015244
+    },
+    {
+        "title": "Estas son las ciudades de EEUU con precios de casas más bajos por el remate inmobiliario",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757626575210.jpg?ch=675&cw=1200",
+        "tags": [
+            "ciudades",
+            "vivienda",
+            "costos"
+        ],
+        "link": "https://2001online.com/usa/servicios/estas-son-las-ciudades-de-eeuu-con-precios-de-casas-mas-bajos-por-el-remate-inmobiliario-202591117350",
+        "date": "2025-09-11 21:35:00",
+        "sentiment_score": -0.7342362627387047
+    },
+    {
+        "title": "Arranca el pago del bono de Guerra para trabajadores públicos: este es el monto",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757626015180.jpg?ch=675&cw=1200",
+        "tags": [
+            "bono contra la guerra económica",
+            "sistema patria"
+        ],
+        "link": "https://2001online.com/nacionales/arranca-el-pago-del-bono-de-guerra-para-trabajadores-publicos-este-es-el-monto-202591117290",
+        "date": "2025-09-11 21:29:00",
+        "sentiment_score": 0.06615925580263138
+    },
+    {
+        "title": "Nueva tecnología llega a Las Vegas: así funcionan los robotaxis autónomos de Amazon",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757622731395.jpg?ch=675&cw=1200",
+        "tags": [
+            "las vegas",
+            "amazon",
+            "robotaxis"
+        ],
+        "link": "https://2001online.com/usa/servicios/nueva-tecnologia-llega-a-las-vegas-asi-funcionan-los-robotaxis-autonomos-de-amazon--202591116260",
+        "date": "2025-09-11 20:26:00",
+        "sentiment_score": 0.0861583985388279
+    },
+    {
+        "title": "Falso cubano: descubren a argentino que se hizo pasar por migrante para conseguir la ciudadanía de EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757621199411.jpg?ch=675&cw=1200",
+        "tags": [
+            "falso cubano",
+            "ciudadanía de eeuu"
+        ],
+        "link": "https://2001online.com/usa/migracion/falso-cubano-descubren-a-argentino-que-se-hizo-pasar-por-migrante-para-conseguir-la-ciudadania-de-eeuu-20259111680",
+        "date": "2025-09-11 20:08:00",
+        "sentiment_score": -0.09646667540073395
+    },
+    {
+        "title": "Las fotos más impactantes de Eduardo Serrano del Archivo del BLOQUE DEARMAS",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757621599001/5050994867559312856.jpg?ch=675&cw=1200",
+        "tags": [
+            "actuación",
+            "venezuela",
+            "eduardoserrano"
+        ],
+        "link": "https://2001online.com/farandula/las-fotos-mas-impactantes-de-eduardo-serrano-del-archivo-del-bloque-dearmas-202591115470",
+        "date": "2025-09-11 19:47:00",
+        "sentiment_score": 0.1673443615436554
     }
 ];
