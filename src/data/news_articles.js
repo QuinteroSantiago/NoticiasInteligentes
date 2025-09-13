@@ -229,80 +229,6 @@ export default [
         "sentiment_score": -0.02600058913230896
     },
     {
-        "title": "Rupert Murdoch resuelve el juego de tronos de su sucesión: manda su hijo Lachlan a cambio de 3.300 millones de dólares",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/gente/2025/09/09/lachlan-murdoch-guerra-RFt3IplULD2Qy6JJd6Z2wGJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "juego",
-            "rupert",
-            "sucesion",
-            "cambio",
-            "lachlan",
-            "resuelve",
-            "tronos",
-            "3300",
-            "hijo",
-            "millones",
-            "dolares",
-            "murdoch",
-            "manda"
-        ],
-        "link": "https://www.abc.es/gente/rupert-murdoch-resuelve-juego-tronos-sucesion-manda-20250909160000-nt.html",
-        "date": "2025-09-09 14:00:01",
-        "sentiment_score": -0.13581699132919312
-    },
-    {
-        "title": "¿Cuánto costarán los iPhone 17?: estos serán los precios, según las filtraciones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/09/09/iphone-2-RgZDpgGXFBxLnbYu1R7764M-1200x840@diario_abc.jpg",
-        "tags": [
-            "precios",
-            "iphone",
-            "costaran",
-            "segun",
-            "filtraciones"
-        ],
-        "link": "https://www.abc.es/tecnologia/costaran-iphone-precios-segun-filtraciones-20250909145531-nt.html",
-        "date": "2025-09-09 12:55:32",
-        "sentiment_score": -0.09435075521469116
-    },
-    {
-        "title": "Primark busca en Sevilla personal para trabajar como jefe con sueldos de más de 2.000 euros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/09/09/primark-empleo-R0vEdCSJd8K8J2N49dmuL0I-1200x840@diario_abc.jpeg",
-        "tags": [
-            "sevilla",
-            "ciudad"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/primark-busca-sevilla-personal-trabajar-jefe-sueldos-20250909134446-nts.html",
-        "date": "2025-09-09 12:05:25",
-        "sentiment_score": -0.004362702369689941
-    },
-    {
-        "title": "Los inversores, en alerta ante una crisis política profunda en Francia: «Es preocupante»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/09/09/bayrou-RYNm7vXz6mYHqNsErtYHPrI-1200x840@diario_abc.jpg",
-        "tags": [
-            "politica",
-            "preocupante",
-            "ante",
-            "inversores",
-            "francia",
-            "profunda",
-            "alerta",
-            "crisis"
-        ],
-        "link": "https://www.abc.es/economia/inversores-alerta-ante-crisis-politica-profunda-francia-20250909135403-nt.html",
-        "date": "2025-09-09 11:56:10",
-        "sentiment_score": -0.16973060369491577
-    },
-    {
-        "title": "El Supremo abre juicio oral contra García Ortiz y le impone una fianza de 150.000 euros bajo amenaza de embargo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/09/1500441642-kevG-U701513320025rvG-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/supremo-abre-juicio-oral-garcia-ortiz-rechaza-20250909131447-nt.html",
-        "date": "2025-09-09 11:14:47",
-        "sentiment_score": -0.45474718511104584
-    },
-    {
         "title": "El cálculo de la fianza impuesta al fiscal general incluye un criterio declarado inconstitucional",
         "image_url": "https://imagenes.elpais.com/resizer/v2/B5DLWOY6CNHXTCDEUQKRWZKNDM.jpg?auth=cbbfcab3d1b2dc975700165f4ae464f8156c31246fb451473f84726c3c317261&width=1200",
         "tags": [
@@ -419,61 +345,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-09/pradas-pide-a-la-jueza-de-la-dana-los-pliegos-del-sistema-que-mide-los-caudales-de-la-chj.html",
         "date": "2025-09-09 14:26:31",
         "sentiment_score": -0.8419686937704682
-    },
-    {
-        "title": "Murcia cede ante Vox y elimina el programa de lengua árabe en colegios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C3ESX6VPYJA5VLWVGRL4DR6I4E.JPG?auth=0ab175c0086c215adaf5c74c2219bf312bb720c61f9b56c85b9ca20349743a12&width=1200",
-        "tags": [
-            "racismo",
-            "educación",
-            "colegios",
-            "pp",
-            "españa",
-            "vox",
-            "fernando lópez miras",
-            "murcia",
-            "islamofobia",
-            "ultraderecha"
-        ],
-        "link": "https://elpais.com/espana/2025-09-09/murcia-cede-ante-vox-y-elimina-el-programa-de-lengua-arabe-en-colegios.html",
-        "date": "2025-09-09 14:07:14",
-        "sentiment_score": 0.22628376632928848
-    },
-    {
-        "title": "Las monjas excomulgadas de Belorado denuncian el envenenamiento de sus perros y que se sienten “perseguidas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/X4PDB7IYSJBJRDNC2B72ABCZ74.jpg?auth=1d10973adf3c42b6f1978eb3698fd88613d4795f6aa08bd662570f223b703d09&width=1200",
-        "tags": [
-            "desahucios",
-            "religión",
-            "papa",
-            "españa",
-            "iglesia católica española",
-            "monjas",
-            "burgos",
-            "guardia civil",
-            "belorado"
-        ],
-        "link": "https://elpais.com/espana/2025-09-09/las-monjas-excomulgadas-de-belorado-denuncian-el-envenenamiento-de-sus-perros-y-que-se-sienten-perseguidas.html",
-        "date": "2025-09-09 13:50:33",
-        "sentiment_score": -0.42813965305685997
-    },
-    {
-        "title": "Ayuso, en la apertura del curso escolar: “Con las pantallas no se aprende mejor”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/A6D5A676ORI45GGSYQTLAFU2TI.jpg?auth=f1a25a88cc92b26d7f3718927eb33f8ec48b12df2d676fcc10112a5f80be5cf9&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "pedro sánchez",
-            "gobierno comunidad madrid",
-            "pp madrid",
-            "madrid",
-            "curso académico",
-            "josé luis martínez almeida",
-            "colegios",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-09/ayuso-en-la-apertura-del-curso-escolar-con-las-pantallas-no-se-aprende-mejor.html",
-        "date": "2025-09-09 13:36:26",
-        "sentiment_score": 0.07193375751376152
     },
     {
         "title": "El Arcángel acoge la final del Mundial de Clubes juvenil: horario, equipos y precio de las entradas",
@@ -9084,5 +8955,436 @@ export default [
         "link": "https://2001online.com/sucesos/cae-operadora-de-una-red-de-estafa-que-tenia-arrestro-domiciliario-revelan-su-modus-operandi-202591215310",
         "date": "2025-09-12 19:31:00",
         "sentiment_score": -0.7031696252524853
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Madrid este 13 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/SHCTZRUOZVCJ3C2ZRHB3GXGZRA.png?auth=ccfd03e6d0570fe037ed9c51f84a1eba2b9ea17709785368392c6852d3f305ce&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "madrid",
+            "españa sociedad",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/13/clima-hoy-en-espana-temperaturas-para-madrid-este-13-de-septiembre/",
+        "date": "2025-09-13 01:32:13",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Tellado (PP) cree que Sánchez “está contra las cuerdas” por su “infierno judicial y político”",
+        "image_url": "https://www.infobae.com/resizer/v2/KRJAPMN4IBCHNADJPVIQPJDSTU.jpg?auth=704bd703e20943fdcc0a0ef46d819ca2bf46da8b67eba0b4e3b1ef6da911744c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "pedro sánchez",
+            "comunidad valenciana",
+            "españa-nacional",
+            "mazon",
+            "valencia",
+            "política españa",
+            "comunitat valenciana",
+            "partido popular"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/13/tellado-pp-cree-que-sanchez-esta-contra-las-cuerdas-por-su-infierno-judicial-y-politico/",
+        "date": "2025-09-13 01:30:08",
+        "sentiment_score": 0.061369046568870544
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 13 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "noticias",
+            "españa sociedad",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/13/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-13-de-septiembre/",
+        "date": "2025-09-13 01:18:18",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Estas son las mejores películas de Prime Video para ver hoy en España",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "prime video",
+            "españa-televisión",
+            "películas",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/09/12/estas-son-las-mejores-peliculas-de-prime-video-para-ver-hoy-en-espana/",
+        "date": "2025-09-12 23:30:40",
+        "sentiment_score": 0.47161141596734524
+    },
+    {
+        "title": "Dos incendios activos en Huelva movilizan a decenas de efectivos y obligan a cortar carreteras y vías ferroviarias",
+        "image_url": "https://www.infobae.com/resizer/v2/MFF3M36YU5HULM462CFFM42VLE.png?auth=17814b1e85e165a34abdd2c571ccc74b269cf9f3fd05bc706dc2e4b72b2e6f31&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "incendios forestales",
+            "andalucía",
+            "incendios",
+            "huelva",
+            "plan infoca",
+            "españa-noticias",
+            "españa-nacional"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/12/dos-incendios-activos-en-huelva-movilizan-a-decenas-de-efectivos-y-obligan-a-cortar-carreteras-y-vias-ferroviarias/",
+        "date": "2025-09-12 22:40:14",
+        "sentiment_score": -0.2349078692495823
+    },
+    {
+        "title": "Rutte pide un cambio en Europa: la OTAN se refuerza tras la incursión de drones rusos en Polonia",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/25/2025062502152017569.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.mundiario.com/articulo/internacional/rutte-pide-cambio-europa-otan-refuerza-incursion-drones-rusos-polonia/20250913035453356091.html",
+        "date": "2025-09-13 01:54:53",
+        "sentiment_score": -0.8923050919547677
+    },
+    {
+        "title": "Exdelantero del Manchester United Anthony Martial se une al Monterrey en México",
+        "image_url": "https://dims.apnews.com/dims4/default/52c4c49/2147483647/strip/true/crop/5627x3745+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F8e%2Ff2fff389d41051b9f73f47c56f34%2F24e3e78de1f64e75b1fa5b2d18424b2e",
+        "tags": [
+            "deportes",
+            "monterrey anthony martial manchester united",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/monterrey-anthony-martial-manchester-united-9cca24ec6a60b8130e935fe942980e78",
+        "date": "2025-09-13 01:40:07",
+        "sentiment_score": 0.07271375507116318
+    },
+    {
+        "title": "Juanma Moreno: «Cada decisión en La Moncloa perjudica a Andalucía»",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/09/12/B7CC4A22-0D5E-44D3-9B24-57A29B2C09AB/69.jpg?crop=5693%2C3202%2Cx0%2Cy301&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "andalucía"
+        ],
+        "link": "https://www.larazon.es/andalucia/juanma-moreno-cada-decision-moncloa-perjudica-andalucia_2025091368c4bf4a0e72636c5e7ff593.html",
+        "date": "2025-09-13 00:48:10",
+        "sentiment_score": -0.4811876565217972
+    },
+    {
+        "title": "Juan Guillermo Cuadrado le envió fuerte mensaje a Néstor Lorenzo: “Estoy trabajando duro para llegar al mundial”",
+        "image_url": "https://www.infobae.com/resizer/v2/H2DEJSWGVZGWNBLLEJ4KZPQNGY.jpeg?auth=4771a155836aaec64c418d0ea66c6ceda724d344f744654d23eae279df545003&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "mundial 2026",
+            "pisa",
+            "serie a",
+            "colombia-deportes",
+            "juan guillermo cuadrado colombia",
+            "juan guillermo cuadrado",
+            "selección colombia"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/09/13/juan-guillermo-cuadrado-le-envio-fuerte-mensaje-a-nestor-lorenzo-estoy-trabajando-duro-para-llegar-al-mundial/",
+        "date": "2025-09-13 00:45:57",
+        "sentiment_score": 0.7158819902688265
+    },
+    {
+        "title": "Alí 'El Canario', el joven español apresado como Cervantes por los piratas de Argel: se convirtió al Islam y llegó a Almirante",
+        "image_url": "https://s2.elespanol.com/2025/09/12/actualidad/1003743922513_258651915_1706x960.jpg?contentId=1003743922513",
+        "tags": [
+            "islas canarias",
+            "argelia",
+            "las palmas de gran canaria (municipio)",
+            "reportajes",
+            "océano atlántico",
+            "lisboa",
+            "argel",
+            "londres"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250913/ali-canario-joven-espanol-apresado-cervantes-piratas-argel-convirtio-islam-llego-almirante/1003743922432_0.html",
+        "date": "2025-09-13 00:23:51",
+        "sentiment_score": -0.4703255742788315
+    },
+    {
+        "title": "12 SEP 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/12-sep-2025-partidazo-cope-20250913_3213206.html",
+        "date": "2025-09-12 23:45:00",
+        "sentiment_score": -0.3627062737941742
+    },
+    {
+        "title": "#OasisDeLibertad (12-09-2025)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "oasisdelibertad"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/oasisdelibertad/audios/oasisdelibertad-12-20250913_3213204.html",
+        "date": "2025-09-12 23:35:00",
+        "sentiment_score": -0.04520188271999359
+    },
+    {
+        "title": "Las alternativas aliadas para sustituir al lanzacohetes SILAM y a los misiles Spike: del GMARS a los Akeron contracarro",
+        "image_url": "https://s2.elespanol.com/2025/08/13/actualidad/1003743884837_258658253_1706x960.jpg?contentId=1003743884837",
+        "tags": [
+            "israel",
+            "armas",
+            "ministerio de defensa",
+            "palestina",
+            "industria armamentística",
+            "observatorio de la defensa",
+            "armamento",
+            "vehículos militares",
+            "estados unidos"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20250912/alternativas-aliadas-sustituir-lanzacohetes-silam-misiles-spike-gmars-akeron-contracarro/1003743921845_0.html",
+        "date": "2025-09-12 23:29:33",
+        "sentiment_score": 0.20436957478523254
+    },
+    {
+        "title": "El primer autobús sin conductor de Madrid se estrena el próximo lunes con polémica en la Casa de Campo: \"El parque no puede ser un laboratorio urbano\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/bfc62fc31d86105e92fd646741f3f8b8/crop/0x0/1166x1166/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529624450788.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/09/13/68c4571afdddffbc1f8b45a6.html",
+        "date": "2025-09-12 23:17:20",
+        "sentiment_score": 0.15885842591524124
+    },
+    {
+        "title": "La NBA sufre su propio 'Caso Neymar' con una estrella mundial: pagos a terceros para eludir el límite salarial",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/12/culemania/palco/1003742688418_15138722_1706x960.jpg?contentId=1003742688418",
+        "tags": [
+            "neymar",
+            "sandro rosell",
+            "nba",
+            "neymar jr",
+            "palco",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250912/nba-caso-neymar-estrella-mundial-terceros-salarial/1003742688417_0.html",
+        "date": "2025-09-12 23:10:25",
+        "sentiment_score": -0.8502916526049376
+    },
+    {
+        "title": "Palma o Palma de Mallorca: ¿un nuevo disparate?",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3471957.jpg",
+        "tags": [
+            "última hora",
+            "ultimas noticias",
+            "palma",
+            "noticias palma hoy",
+            "palma de mallorca"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/09/13/2469045/palma-palma-mallorca-nuevo-disparate.html",
+        "date": "2025-09-13 02:00:01",
+        "sentiment_score": -0.0624416247010231
+    },
+    {
+        "title": "10 años de un hito que marcó un nuevo enfoque al universo y que llevó acento balear: el descubrimiento de las ondas gravitacionales",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3471793.jpg",
+        "tags": [
+            "noticias",
+            "albert einstein",
+            "nasa",
+            "agujero negro",
+            "hallazgo",
+            "ondas gravitacionales",
+            "mallorca",
+            "alicia sintes",
+            "ciencia",
+            "descubrimiento científico",
+            "descubrimiento",
+            "uib"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2025/09/13/2468825/anos-hito-marco-nuevo-enfoque-universo-llevo-acento-balear-descubrimiento-ondas-gravitacionales.html",
+        "date": "2025-09-13 02:00:01",
+        "sentiment_score": -0.08774310350418091
+    },
+    {
+        "title": "¿Quién ganará el Balón de Oro 2025?: análisis, estadísticas y máximos candidatos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757728794581.jpg?ch=675&cw=1200",
+        "tags": [
+            "france football",
+            "lamine yamal",
+            "fútbol",
+            "vitinha",
+            "balón de oro",
+            "uefa",
+            "fútbol europeo",
+            "quien ganará el balón de oro",
+            "balón de oro 2025",
+            "ousmane dembélé"
+        ],
+        "link": "https://2001online.com/deportes/quien-ganara-el-balon-de-oro-2025-analisis-estadisticas-y-maximos-candidatos-202591222200",
+        "date": "2025-09-13 01:36:40",
+        "sentiment_score": 0.11286626383662224
+    },
+    {
+        "title": "El mayor accionista particular del Sabadell presiona a BBVA por la opa",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/09/12/68c4603b8a9e8.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/250913/2059640/mayor-accionista-particular-sabadell-presiona-bbva-opa.html",
+        "date": "2025-09-13 01:30:00",
+        "sentiment_score": 0.13567984104156494
+    },
+    {
+        "title": "Israel escala la crisis con España amagando con boicotear el Mobile de Barcelona por el \"antisemitismo\" de Sánchez",
+        "image_url": "https://s2.elespanol.com/2025/09/12/espana/politica/1003743923512_258671894_1706x960.jpg?contentId=1003743923512",
+        "tags": [
+            "israel",
+            "antisemitismo",
+            "benjamin netanyahu",
+            "franja de gaza",
+            "política",
+            "conflicto palestino-israelí",
+            "mobile world congress",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250913/israel-escala-crisis-espana-amagando-boicotear-mobile-barcelona-antisemitismo-sanchez/1003743921412_0.html",
+        "date": "2025-09-13 00:47:59",
+        "sentiment_score": -0.8803761005401611
+    },
+    {
+        "title": "Rubén Pozo: \"Me alegra ver los éxitos de Leiva... Las diferencias artísticas podían arriesgar la amistad, así que Pereza terminó\"",
+        "image_url": "https://s2.elespanol.com/2025/09/12/reportajes/1003743923064_258662942_1706x960.jpg?contentId=1003743923064",
+        "tags": [
+            "reportajes",
+            "entrevistas",
+            "rock",
+            "porfolio"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250913/ruben-pozo-alegra-ver-exitos-leiva-diferencias-artisticas-podian-arriesgar-amistad-pereza-termino/1003743923003_0.html",
+        "date": "2025-09-13 00:23:38",
+        "sentiment_score": 0.02430041879415512
+    },
+    {
+        "title": "Vajilla de Versace y la vuelta al mundo como destino: así fue el paso del espectacular Oceania Allura por Barcelona",
+        "image_url": "https://s2.elespanol.com/2025/09/11/actualidad/1003743921274_258629735_1706x1280.jpg?contentId=1003743921274",
+        "tags": [
+            "lujo",
+            "lujos"
+        ],
+        "link": "https://www.elespanol.com/mujer/lujos/20250913/vajilla-versace-vuelta-mundo-destino-paso-espectacular-oceania-allura-barcelona/1003743920802_0.html",
+        "date": "2025-09-13 00:10:14",
+        "sentiment_score": 0.4085323065519333
+    },
+    {
+        "title": "Un agente inmobiliario alerta del error que cometes cuando vas a comprar un piso: “Los vendedores eligen al que puede firmar”",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/12/vida/1003742688368_15137759_1706x960.jpg?contentId=1003742688368",
+        "tags": [
+            "alquiler",
+            "cataluña",
+            "inmobiliario",
+            "vivienda",
+            "mercado financiero",
+            "barcelona",
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250913/agente-inmobiliario-alerta-error-cometes-comprar-piso-vendedores-eligen-firmar-trt/1003742688365_0.html",
+        "date": "2025-09-13 00:00:00",
+        "sentiment_score": -0.15563713014125824
+    },
+    {
+        "title": "Ola de calor con elegancia: los tips de belleza que recomiendan los expertos en medio de las altas temperaturas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757619203108.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/ola-de-calor-con-elegancia-los-tips-de-belleza-que-recomiendan-los-expertos-en-medio-de-las-altas-temperaturas-20259122200",
+        "date": "2025-09-13 02:00:00",
+        "sentiment_score": 0.7322717942297459
+    },
+    {
+        "title": "Maduro anuncia nueva convocatoria para los venezolanos y milicianos este 13 de septiembre",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757726352402.jpg?ch=675&cw=1200",
+        "tags": [
+            "defensa",
+            "eeuu",
+            "venezuela",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-nueva-convocatoria-para-los-venezolanos-y-milicianos-este-13-de-septiembre-202591221310",
+        "date": "2025-09-13 01:31:00",
+        "sentiment_score": 0.2849458418786526
+    },
+    {
+        "title": "Ayuda en Utah: un banco de alimentos y productos esenciales para personas vulnerables",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757726567435.jpg?ch=675&cw=1200",
+        "tags": [
+            "ladies of charity",
+            "despensa de a limentos en utah",
+            "#utah",
+            "tienda de segunda mano utah"
+        ],
+        "link": "https://2001online.com/usa/servicios/ayuda-en-utah-un-banco-de-alimentos-y-productos-esenciales-para-personas-vulnerables-202591221210",
+        "date": "2025-09-13 01:21:00",
+        "sentiment_score": -0.06902292370796204
+    },
+    {
+        "title": "Revelan ranking de los mejores pitchers latinos en las Grandes Ligas: ¿qué venezolanos destacan en la lista?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757727853119.jpg?ch=675&cw=1200",
+        "tags": [
+            "mlb",
+            "grandes ligas"
+        ],
+        "link": "https://2001online.com/deportes/revelan-ranking-de-los-mejores-pitchers-latinos-en-las-grandes-ligas-que-venezolanos-destacan-en-la-lista--202591220590",
+        "date": "2025-09-13 00:59:00",
+        "sentiment_score": 0.7801016308367252
+    },
+    {
+        "title": "Onda tropical 34 transita por el territorio nacional: reportan lluvias en varios estados",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757721784583.jpg?ch=675&cw=1200",
+        "tags": [
+            "diario 2001",
+            "precipitaciones",
+            "vaguada",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/onda-tropical-34-transita-por-el-territorio-nacional-reportan-lluvias-en-varios-estados-20259122070",
+        "date": "2025-09-13 00:07:00",
+        "sentiment_score": -0.08095196634531021
+    },
+    {
+        "title": "¡Impactante! Incendio de gran magnitud en aeropuerto de La Paragua: esto se sabe",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757721774477.jpg?ch=675&cw=1200",
+        "tags": [
+            "angostura del orinoco",
+            "bolívar",
+            "aeropuerto general tomás de heres",
+            "aeropuerto",
+            "incendio",
+            "la paragua"
+        ],
+        "link": "https://2001online.com/sucesos/impactante-incendio-de-gran-magnitud-en-aeropuerto-de-la-paragua-esto-se-sabe-20259122030",
+        "date": "2025-09-13 00:03:00",
+        "sentiment_score": -0.7622893955558538
+    },
+    {
+        "title": "El milagro del aloe vera: ponle fin a las puntas abiertas de tu cabello con esta sencilla mascarilla hecha en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757709524784.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/el-milagro-del-aloe-vera-ponle-fin-a-las-puntas-abiertas-de-tu-cabello-con-esta-sencilla-mascarilla-hecha-en-casa-20259122000",
+        "date": "2025-09-13 00:00:00",
+        "sentiment_score": -0.7401110380887985
+    },
+    {
+        "title": "Skin cycling: La tendencia que transforma tu rutina de cuidado facial",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757531939188.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/skin-cycling-la-tendencia-que-transforma-tu-rutina-de-cuidado-facial-20259122000",
+        "date": "2025-09-13 00:00:00",
+        "sentiment_score": -0.7417040169239044
+    },
+    {
+        "title": "Casos de dopaje en la LVBP: estas son las suspensiones más polémicas en los últimos años",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757721618185.jpg?ch=675&cw=1200",
+        "tags": [
+            "sustancias prohibidas"
+        ],
+        "link": "https://2001online.com/deportes/casos-de-dopaje-en-la-lvbp-estas-son-las-suspensiones-mas-polemicas-en-los-ultimos-anos-202591219580",
+        "date": "2025-09-12 23:58:00",
+        "sentiment_score": -0.9306661263108253
     }
 ];
