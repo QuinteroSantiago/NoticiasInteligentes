@@ -206,21 +206,6 @@ export default [
         "sentiment_score": -0.03173372149467468
     },
     {
-        "title": "¿Por qué atacar en Qatar es para Israel cruzar una línea roja?",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/10/1500596539-kWHD-U701520137377au-1200x840@diario_abc.jpg",
-        "tags": [
-            "roja",
-            "atacar",
-            "linea",
-            "cruzar",
-            "qatar",
-            "israel"
-        ],
-        "link": "https://www.abc.es/internacional/atacar-qatar-israel-cruzar-linea-roja-20250910142233-nt.html",
-        "date": "2025-09-10 12:22:34",
-        "sentiment_score": -0.21593932807445526
-    },
-    {
         "title": "Cataluña invertirá de 75 millones para proteger las urbanizaciones contra el fuego",
         "image_url": "https://imagenes.elpais.com/resizer/v2/5B7SRWO6IFDJPAFCRS7SGTPYZE.jpg?auth=26ade6f142131470422f458299a99f232c09f9a45b9807ed1ca3cfec05af73b6&width=1200",
         "tags": [
@@ -308,94 +293,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-10/la-jueza-de-la-dana-pide-informacion-sobre-el-audio-de-la-aemet-manipulado-que-divulgo-mazon.html",
         "date": "2025-09-10 14:26:39",
         "sentiment_score": -0.8525887094438076
-    },
-    {
-        "title": "Las Cortes de Castilla y León reprueban al consejero de Medio Ambiente tras la crisis de los incendios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YYYQWTOHXNLT3NIORLKOZNWUT4.jpg?auth=f106305cce320d6c64fbd11150baafd256294372e3cb9df500a01209e91a7275&width=1200",
-        "tags": [
-            "psoe",
-            "incendios forestales",
-            "alfonso fernández mañueco",
-            "francisco igea",
-            "vox",
-            "españa",
-            "castilla y león"
-        ],
-        "link": "https://elpais.com/espana/2025-09-10/las-cortes-de-castilla-y-leon-reprueban-al-consejero-de-medio-ambiente-tras-la-crisis-de-los-incendios.html",
-        "date": "2025-09-10 13:00:26",
-        "sentiment_score": -0.3253157287836075
-    },
-    {
-        "title": "El centenar de profesores recluido en el Círculo de Bellas Artes para reclamar el embargo de armas a Israel levanta su encierro",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/J5NA4XW4ENEB5NXHTJNWMO4NLE.jpg?auth=36ffd2efd923e47aa02016bec5a6578df86fd913702ce68e35371615a07c6476&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "palestina",
-            "institutos",
-            "protestas sociales",
-            "colegios",
-            "conflictos armados",
-            "profesores universitarios",
-            "estudiantes",
-            "comunidad educativa",
-            "israel",
-            "encierros",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-10/el-centenar-de-profesores-recluido-en-el-circulo-de-bellas-artes-para-reclamar-el-embargo-de-armas-a-israel-levanta-su-encierro.html",
-        "date": "2025-09-10 12:27:51",
-        "sentiment_score": -0.6317143067717552
-    },
-    {
-        "title": "La Generalitat construirá 80 viviendas prefabricadas en Torrent y Albal para afectados por la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7EF53FQPNFL35JD7ZHT5PV33WQ.jpg?auth=9420b59a59afb275d2b459dc1f77b39d257cf08fd8e73100656dc9a79c4b1b5b&width=1200",
-        "tags": [
-            "viviendas prefabricadas",
-            "inundaciones dana octubre 2024",
-            "dana",
-            "carlos mazón",
-            "generalitat valenciana",
-            "vivienda",
-            "comunidad valenciana",
-            "viviendas alquiler"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-10/la-generalitat-construira-80-viviendas-prefabricadas-en-torrent-y-albal-para-afectados-por-la-dana.html",
-        "date": "2025-09-10 12:22:42",
-        "sentiment_score": -0.6963198073208332
-    },
-    {
-        "title": "Muere una joven de 24 años tras volcarse un turismo en la A-3, el segundo accidente mortal en carreteras de Madrid en menos de 24 horas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2X7S3IKVURBJJHQGZFTJABWF7E.jfif?auth=6d7ce0b4b4af001b2bec711d1c94cb0ea0de8bf6f69c98eebd9ec1afae6f047d&width=1200",
-        "tags": [
-            "emergencias",
-            "comunidad de madrid",
-            "guardia civil",
-            "accidentes tráfico",
-            "estremera",
-            "summa 112",
-            "carreteras",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-10/muere-una-joven-de-24-anos-tras-volcarse-un-turismo-en-la-a-3-el-segundo-accidente-mortal-en-carreteras-de-madrid-en-menos-de-24-horas.html",
-        "date": "2025-09-10 12:11:21",
-        "sentiment_score": -0.7372934687882662
-    },
-    {
-        "title": "Vox pincha en su intento de convocar una concentración a las puertas de un centro de menores en Murcia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/W3A4XJKHFFN33HU6YH3BFSHP4I.jpg?auth=848ba2fb95ce70964f6eba359fed836952b96c367fa51eacff235394d407f273&width=1200",
-        "tags": [
-            "delitos",
-            "xenofobia",
-            "menores migrantes",
-            "vox",
-            "región de murcia",
-            "españa",
-            "política",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/2025-09-10/vox-pincha-en-su-intento-de-convocar-una-concentracion-a-las-puertas-de-un-centro-de-menores-en-murcia.html",
-        "date": "2025-09-10 11:31:05",
-        "sentiment_score": -0.6596938483417034
     },
     {
         "title": "Guardiola exige inversiones \"urgentes\" tras la incidencia técnica en el tren en Plasencia: \"No es un fallo puntual\"",
@@ -744,17 +641,6 @@ export default [
         "link": "https://2001online.com/nacionales/fiscales-y-jueces-en-la-mira-operativo-anticorrupcion-del-ministerio-publico-deja-esta-cifra-de-detenidos-202591010240",
         "date": "2025-09-10 14:24:00",
         "sentiment_score": 0.09877932071685791
-    },
-    {
-        "title": "Venezuela fuera del Mundial: las duras críticas del entrenador de Colombia contra la Vinotinto",
-        "image_url": "https://pxcdn.meridiano.net/092025/1757502553944.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://2001online.com/nota/venezuela-fuera-del-mundial-las-duras-criticas-del-entrenador-de-colombia-contra-la-vinotinto-20259101020",
-        "date": "2025-09-10 14:02:00",
-        "sentiment_score": -0.4979412481188774
     },
     {
         "title": "Universidad de España lanza becas para impulsar carreras profesionales en el ámbito sanitario del Perú",
@@ -8546,5 +8432,362 @@ export default [
         "link": "https://2001online.com/usa/servicios/comida-gratis-en-florida-del-15-al-20-de-septiembre-actualizacion-semanal-con-ubicacion-y-horarios-20259151550",
         "date": "2025-09-13 19:06:28",
         "sentiment_score": 0.5275729298591614
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Málaga este 14 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/A6PD5C4CIFF27E2URW3I46WVJE.png?auth=3610483284f1994b08b8384f5c8535e42f6ac5e59e2bbc59906446cea6720aa3&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "noticias",
+            "españa sociedad",
+            "tiempo en españa",
+            "málaga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/14/clima-hoy-en-espana-temperaturas-para-malaga-este-14-de-septiembre/",
+        "date": "2025-09-14 02:00:56",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Previsión del clima en Barcelona para antes de salir de casa este 14 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "noticias",
+            "españa sociedad",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/14/prevision-del-clima-en-barcelona-para-antes-de-salir-de-casa-este-14-de-septiembre/",
+        "date": "2025-09-14 01:15:52",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Galicia exporta talentos de la música clásica",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/db027348-bf89-4d24-8455-773cd78aaf38_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "orquestas",
+            "conservatorio superior de música de vigo",
+            "música",
+            "conservatorio superior de música",
+            "conciertos",
+            "conservatorio"
+        ],
+        "link": "https://www.farodevigo.es/estela/2025/09/14/galicia-exporta-talentos-musica-clasica-121537148.html",
+        "date": "2025-09-14 02:10:00",
+        "sentiment_score": 0.01822023093700409
+    },
+    {
+        "title": "Algeciras, el que sabe lo que ha sido y ve lo que es",
+        "image_url": "https://static.grupojoly.com/clip/7316672c-c249-4559-a3e2-61c8dc9aaa74_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/el-ha-sido-ve-lo-que-es_0_2004741220.html",
+        "date": "2025-09-14 02:01:30",
+        "sentiment_score": -0.1032344400882721
+    },
+    {
+        "title": "Joaquín Ramírez: \"Contra el fuego hay que apoyar a la gente de los pueblos, no agobiarles con normativas\"",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/82/92/7/joaquin-ramirez-contra-el-fuego-hay-que-apoyar-a-la-gente-de-los-pueblos-no-agobiarles-con-normativas.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/joaquin-ramirez-contra-fuego-hay-apoyar-gente-pueblos-no-agobiarles-con-normativas_182222_102.html",
+        "date": "2025-09-14 02:00:00",
+        "sentiment_score": 0.12230940908193588
+    },
+    {
+        "title": "Mirar desde ventanas reales",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/09/13/68c5d465d2ed8.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/250914/2059749/mirar-ventanas-reales.html",
+        "date": "2025-09-14 01:30:00",
+        "sentiment_score": -0.9187249643728137
+    },
+    {
+        "title": "Los jóvenes, los que más apoyan la minería en España: Asturias, las dos Castillas y Extremadura la consideran clave para el país",
+        "image_url": "https://s2.elespanol.com/2025/09/12/actualidad/1003743922879_258658903_1706x960.jpg?contentId=1003743922879",
+        "tags": [
+            "observatorio de la energía",
+            "minería",
+            "industria",
+            "sostenibilidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20250914/jovenes-apoyan-mineria-espana-asturias-castillas-extremadura-consideran-clave-pais/1003743922424_0.html",
+        "date": "2025-09-14 01:25:11",
+        "sentiment_score": 0.40823283791542053
+    },
+    {
+        "title": "Nick Clegg: \"Es muy difícil que Sánchez siga diciendo que es proeuropeo si no asume su papel en el gasto en Defensa\"",
+        "image_url": "https://s2.elespanol.com/2025/09/13/actualidad/1003743923649_258674720_1706x960.jpg?contentId=1003743923649",
+        "tags": [
+            "nick clegg",
+            "política"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250914/nick-clegg-dificil-sanchez-siga-diciendo-proeuropeo-no-asume-papel-gasto-defensa/1003743923641_0.html",
+        "date": "2025-09-14 01:20:55",
+        "sentiment_score": -0.8835791666060686
+    },
+    {
+        "title": "Asier Labarga, director de MBFWMadrid en el 40 aniversario: \"Situaremos como referente a la moda española\"",
+        "image_url": "https://s2.elespanol.com/2025/09/13/mujer/protagonistas/1003743923624_258674165_1706x960.jpg?contentId=1003743923624",
+        "tags": [
+            "madrid fashion week",
+            "moda",
+            "ifema",
+            "desfiles de moda"
+        ],
+        "link": "https://www.elespanol.com/mujer/moda/20250914/asier-labarga-director-mbfwmadrid-aniversario-situaremos-referente-moda-espanola/1003743923583_0.html",
+        "date": "2025-09-14 01:10:33",
+        "sentiment_score": 0.6085871905088425
+    },
+    {
+        "title": "El patinete de Cesareo",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "patinete",
+            "cesareo"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/patinete-cesareo_0_2004757219.html",
+        "date": "2025-09-14 01:06:36",
+        "sentiment_score": -0.5070429965853691
+    },
+    {
+        "title": "La caída de la reducción de la jornada laboral golpea el liderazgo de Yolanda Díaz: \"Nos dijo que Puigdemont la ayudaría. Vive en Disney, fuera de la realidad\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/8c9bca76c468047fe133362f36ceb6bb/f/image/jpeg/assets/multimedia/imagenes/2023/02/04/16754702779051.jpg",
+        "tags": [
+            "artículos lucía méndez"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/09/14/68c55c3efc6c83ba3e8b457f.html",
+        "date": "2025-09-14 01:05:23",
+        "sentiment_score": -0.36697521805763245
+    },
+    {
+        "title": "Lo que Homer ha enseñado a Sánchez: si las estadísticas no te gustan, cámbialas; así manipula el Gobierno a los españoles",
+        "image_url": "https://s2.elespanol.com/2025/09/13/actualidad/1003743923628_258674283_1706x960.jpg?contentId=1003743923628",
+        "tags": [
+            "reportajes",
+            "policía nacional",
+            "ministerio del interior",
+            "fernando grande-marlaska"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250914/homer-ensenado-sanchez-estadisticas-no-gustan-cambialas-manipula-gobierno-espanoles/1003743915581_0.html",
+        "date": "2025-09-14 00:57:18",
+        "sentiment_score": -0.54466562718153
+    },
+    {
+        "title": "Un partido para hablar claro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/489881be-f5ff-4389-b9d7-0431f15c485b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hugo duro",
+            "barcelona",
+            "diego lópez",
+            "el valencia"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2025/09/14/partido-hablar-claro-121545387.html",
+        "date": "2025-09-14 02:00:28",
+        "sentiment_score": -0.8090552240610123
+    },
+    {
+        "title": "Condenada a pagar tres euros diarios por herir a tres guardias civiles tras una discusión vecinal",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/08/23/68a976272a7a4.r_d.940-174.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250914/condenada-pagar-tres-euros-diarios-herir-tres-guardias-civiles-discusion-vecinal_334021.html",
+        "date": "2025-09-14 02:00:00",
+        "sentiment_score": -0.8842440964654088
+    },
+    {
+        "title": "VIDEO: El emotivo momento que compartió Lionel Messi con el hijo de Luis Chataing",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/09/luis-chataing-lionel-messi.jpg",
+        "tags": [
+            "luis chataing",
+            "miami",
+            "lionel messi",
+            "inter miami",
+            "futbol",
+            "deportes",
+            "titulares"
+        ],
+        "link": "https://lapatilla.com/2025/09/13/video-el-emotivo-momento-que-compartio-lionel-messi-con-el-hijo-de-luis-chataing/",
+        "date": "2025-09-14 01:55:34",
+        "sentiment_score": 0.8603738397359848
+    },
+    {
+        "title": "Aerolíneas de bajo coste se lanzan a absorber el hueco de Ryanair",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/09/13/68c59e8a695ea.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/250914/2059700/aerolineas-coste-lanzan-absorber-hueco-ryanair.html",
+        "date": "2025-09-14 01:30:00",
+        "sentiment_score": -0.6185148619115353
+    },
+    {
+        "title": "Perú gana el Mundial de Desayunos con pan con chicharrón, pero no es la primera vez que el país se impone en un torneo de Ibai",
+        "image_url": "https://www.infobae.com/resizer/v2/I3WFJEKVD5BM7FAY3TIBJ2UDJM.png?auth=2262f77cbe4c928062fa56eaeb14a2ef1ff52e7b8c5e190f4af5ecf95a0ee204&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "pan con chicharrón",
+            "francesco de la cruz",
+            "perú",
+            "mundial de desayunos",
+            "balloon world cup",
+            "peru-noticias",
+            "ibai llanos"
+        ],
+        "link": "https://www.infobae.com/peru/2025/09/14/peru-gana-el-mundial-de-desayunos-con-pan-con-chicharron-pero-no-es-la-primera-vez-que-el-pais-se-impone-en-un-torneo-de-ibai/",
+        "date": "2025-09-14 01:29:47",
+        "sentiment_score": 0.3109613433480263
+    },
+    {
+        "title": "La flotilla Global Sumud hacia Gaza vuelve a retrasar su salida desde Túnez",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "mundo",
+            "guerra"
+        ],
+        "link": "https://eltiempove.com/la-flotilla-global-sumud-hacia-gaza-vuelve-a-retrasar-su-salida-desde-tunez/",
+        "date": "2025-09-14 00:56:00",
+        "sentiment_score": -0.24713055044412613
+    },
+    {
+        "title": "Guardias civiles aprenden estudios árabes e islámicos ante el auge migratorio: \"Cada vez hay más población musulmana\"",
+        "image_url": "https://s2.elespanol.com/2025/04/10/actualidad/1003743708190_254645446_1706x960.jpg?contentId=1003743708190",
+        "tags": [
+            "islam",
+            "ministerio del interior",
+            "terrorismo islamista",
+            "inmigración",
+            "reportajes",
+            "terrorismo",
+            "yihadismo",
+            "guardia civil"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250914/guardias-civiles-aprenden-estudios-arabes-islamicos-auge-migratorio-vez-poblacion-musulmana/1003743914778_0.html",
+        "date": "2025-09-14 00:55:44",
+        "sentiment_score": -0.18557296693325043
+    },
+    {
+        "title": "El penal que falló Lionel Messi en la visita del Inter Miami a Charlotte por la MLS",
+        "image_url": "https://www.infobae.com/resizer/v2/CJ4JN7QP2NFVTJ4QI2YGGJOSPQ.jpg?auth=978bf8a4664fbeb2512a3c983fc157daed268aadf1359878c4b84e79f26efa8b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "charlotte fc",
+            "deportes-argentina",
+            "lionel messi",
+            "inter miami"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/14/el-penal-que-fallo-lionel-messi-en-la-visita-del-inter-miami-a-charlotte-por-la-mls/",
+        "date": "2025-09-14 00:54:43",
+        "sentiment_score": -0.7937499992549419
+    },
+    {
+        "title": "Omar Acedo brillará en Rusia: así fue su llegada al Festival InterVisión 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757815559933/03.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/omar-acedo-brillara-en-rusia-asi-fue-su-llegada-al-festival-intervision-2025-202591322110",
+        "date": "2025-09-14 02:11:00",
+        "sentiment_score": 0.19612983986735344
+    },
+    {
+        "title": "Hidrata la piel: así debes aplicar la mascarilla de aceite de oliva y miel durante el día",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757815290268/aceitunas-de-aspecto-sabroso-aceite-de-oliva-virgen-extra-y-hojas-de-olivo-sobre-fondo-de-madera-oscura%20(2).jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/hidrata-la-piel-asi-debes-aplicar-la-mascarilla-de-aceite-de-oliva-y-miel-durante-el-dia-202591322100",
+        "date": "2025-09-14 02:10:00",
+        "sentiment_score": -0.8602636940777302
+    },
+    {
+        "title": "¿Quedaste con el cabello verde luego de las vacaciones de verano? Esta es el método verdadero para devolverle su color natural",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757531908625/Captura%20de%20pantalla%202025-09-10%20a%20la(s)%203.18.16%20p.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/quedaste-con-el-cabello-verde-luego-de-las-vacaciones-de-verano-esta-es-el-metodo-verdadero-para-devolverle-su-color-natural-20259132200",
+        "date": "2025-09-14 02:00:00",
+        "sentiment_score": 0.1490345001220703
+    },
+    {
+        "title": "Las claves del éxito de 'CR7': la marca y los negocios de Cristiano Ronaldo",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757809681268/14444038408236.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/las-claves-del-exito-de-cr7-la-marca-y-los-negocios-de-cristiano-ronaldo-202591322150",
+        "date": "2025-09-14 01:35:02",
+        "sentiment_score": 0.7551852725446224
+    },
+    {
+        "title": "Delcy Rodríguez insta a EE.UU. al cese del \"bochornoso hostigamiento\": Venezuela jamás se rendirá",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/delcy-rodriguez-insta-a-ee-uu-al-cese-del-bochornoso-hostigamiento-venezuela-jamas-se-rendira-202591321330",
+        "date": "2025-09-14 01:33:00",
+        "sentiment_score": -0.8322523050010204
+    },
+    {
+        "title": "Insólito: joven recibe regalo de cumpleaños que la llevó a la muerte",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/insolito-joven-recibe-regalo-de-cumpleanos-que-la-llevo-a-la-muerte-20259132100",
+        "date": "2025-09-14 01:00:00",
+        "sentiment_score": -0.4415801018476486
+    },
+    {
+        "title": "Conoce la \"dieta colorida\" de la experta en nutrición Stephanie Lemieux; perfecta para recuperarte tras una cirugía",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757532901747/Captura%20de%20pantalla%202025-09-10%20a%20la(s)%203.32.52%20p.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/conoce-la-dieta-colorida-de-la-experta-en-nutricion-stephanie-lemieux-perfecta-para-recuperarte-tras-una-cirugia-20259132100",
+        "date": "2025-09-14 01:00:00",
+        "sentiment_score": 0.4577336423099041
+    },
+    {
+        "title": "¿Qué se necesita para jugar pádel?: más allá de la pala y las pelotas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757808369975/Premier-Padel-P1-Riyadh-2024-pista-central.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/que-se-necesita-para-jugar-padel-mas-alla-de-la-pala-y-las-pelotas-202591321150",
+        "date": "2025-09-14 00:34:55",
+        "sentiment_score": 0.4405425600707531
+    },
+    {
+        "title": "¡Atención venezolanos en Madrid! Nuevo lote de pasaportes llega al consulado: siga estos pasos para retirarlo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/atencion-venezolanos-en-madrid-nuevo-lote-de-pasaportes-llega-al-consulado-siga-estos-pasos-para-retirarlo-202591320330",
+        "date": "2025-09-14 00:33:00",
+        "sentiment_score": -0.07470835372805595
+    },
+    {
+        "title": "EE. UU. lanza programa de cuidado infantil universal y gratuito: un estado es pionero en la asistencia a todas las familias",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757814906894/el-programa-de-cuidado-infantil-universal-TWKT4P33DVHHBCNMCBFOLIM7D4.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/ee-uu-lanza-programa-de-cuidado-infantil-universal-y-gratuito-un-estado-es-pionero-en-la-asistencia-a-todas-las-familias--202591320150",
+        "date": "2025-09-14 00:15:00",
+        "sentiment_score": 0.20133628696203232
     }
 ];
