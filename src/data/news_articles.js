@@ -156,91 +156,6 @@ export default [
         "sentiment_score": -0.5400443151593208
     },
     {
-        "title": "José Manuel Campa dimite como presidente de la Autoridad Bancaria Europea",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/09/12/jose-manuel-campa-kJPH-U701531675341qdE-1200x840@diario_abc.jpg",
-        "tags": [
-            "presidente",
-            "europea",
-            "dimite",
-            "jose",
-            "campa",
-            "bancaria",
-            "autoridad",
-            "manuel"
-        ],
-        "link": "https://www.abc.es/economia/jose-manuel-campa-dimite-presidente-autoridad-bancaria-20250912152634-nt.html",
-        "date": "2025-09-12 13:30:18",
-        "sentiment_score": -0.04547857120633125
-    },
-    {
-        "title": "Borrell lamenta que UE haya esperado a tener 65.000 muertos en Palestina para tomar medidas: «Más vale tarde que nunca»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/12/borrell-RdndPPvFpzpLMvUouKD2WrK-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "castilla la mancha"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/borrell-lamenta-ue-esperado-tener-65000-muertos-20250912150456-nt.html",
-        "date": "2025-09-12 13:04:57",
-        "sentiment_score": -0.13202877342700958
-    },
-    {
-        "title": "La condena de Bolsonaro agita la política brasileña a un año de las presidenciales",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/12/1500674526(1)-kw5G-U701530873016YFB-1200x840@diario_abc.jpg",
-        "tags": [
-            "brasilena",
-            "ano",
-            "bolsonaro",
-            "politica",
-            "presidenciales",
-            "condena",
-            "agita"
-        ],
-        "link": "https://www.abc.es/internacional/condena-bolsonaro-agita-politica-brasilena-ano-presidenciales-20250912132311-nt.html",
-        "date": "2025-09-12 11:26:46",
-        "sentiment_score": -0.198300302028656
-    },
-    {
-        "title": "Mazón anuncia que la Generalitat se personará en los tribunales para defender el trasvase Júcar-Vinalopó",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/12/mazon-alicante-ReRlUg18WJWeAF1XBXDso2H-1200x840@diario_abc.JPG",
-        "tags": [
-            "valencia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/mazon-anuncia-generalitat-personara-tribunales-defender-trasvase-20250912124834-nt.html",
-        "date": "2025-09-12 10:48:35",
-        "sentiment_score": -0.0518573522567749
-    },
-    {
-        "title": "La comida basura también afecta a nuestra memoria y capacidad cerebral",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/09/12/junk-food-RRcAKK1CbOdLJNry4qq1RMN-1200x840@diario_abc.jpg",
-        "tags": [
-            "obesidad",
-            "enfermedades",
-            "cerebro",
-            "memoria",
-            "salud"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/comida-basura-afecta-memoria-capacidad-cerebral-20250912122452-nt.html",
-        "date": "2025-09-12 10:29:07",
-        "sentiment_score": -0.16676215827465057
-    },
-    {
-        "title": "Rusia admite una «pausa» en las negociaciones de un alto el fuego con Ucrania",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/09/12/ABC-ultima-hora.jpg",
-        "tags": [
-            "negociaciones",
-            "anuncia",
-            "pausa",
-            "rusia",
-            "ucrania",
-            "alto",
-            "fuego"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-anuncia-pausa-negociaciones-alto-fuego-ucrania-20250912122237-nt.html",
-        "date": "2025-09-12 10:24:10",
-        "sentiment_score": -0.03192207217216492
-    },
-    {
         "title": "Un ministro israelí llama a boicotear la próxima edición del Mobile World Congress de Barcelona",
         "image_url": "https://imagenes.elpais.com/resizer/v2/22B44OTAF5FA7CQO6Y77RIK344.jpg?auth=bd0370ed60714683473b3a68bd62252abe31dcb99797d1535e391b5f781a0eba&width=1200",
         "tags": [
@@ -326,95 +241,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-09-12/eurecat-busca-22-voluntarios-que-trabajen-de-noche-para-un-experimento.html",
         "date": "2025-09-12 14:21:06",
         "sentiment_score": 0.1252060867846012
-    },
-    {
-        "title": "Sevilla registra ya tres focos de gripe aviar en sus parques y dos más en el resto de la provincia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/45OBGKSGSJGM7KEGE2VIKUYJ3E.png?auth=e9d75217debc864ec11591a4eb04618f7be7cff37bb674593a1a52491b41caf7&width=1200",
-        "tags": [
-            "sevilla",
-            "ecologistas en acción",
-            "málaga",
-            "ayuntamiento sevilla",
-            "parque nacional doñana",
-            "andalucía",
-            "gripe aviar",
-            "parques y jardines",
-            "junta andalucía",
-            "medio ambiente",
-            "sociedad"
-        ],
-        "link": "https://elpais.com/espana/andalucia/2025-09-12/sevilla-registra-ya-tres-focos-de-gripe-aviar-en-sus-parques-y-dos-mas-en-el-resto-de-la-provincia.html",
-        "date": "2025-09-12 14:15:21",
-        "sentiment_score": -0.7083289343863726
-    },
-    {
-        "title": "La jueza de la dana eleva a 229 las vidas perdidas en la catástrofe al incluir al nonato de una embarazada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IJXFNDIDGVGL7ECCZ56WK6FU2A.JPG?auth=a49bcfacdaa2b8c2cd93ed1c7de2cc04493a99912dadda525383df4c19b15ac8&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "dana",
-            "homicidio imprudente",
-            "muertes",
-            "valencia",
-            "inundaciones dana octubre 2024",
-            "tribunales",
-            "homicidios"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-12/la-jueza-de-la-dana-eleva-a-229-las-vidas-perdidas-en-la-catastrofe-al-incluir-al-nonato-de-una-embarazada.html",
-        "date": "2025-09-12 14:07:34",
-        "sentiment_score": 0.18278275057673454
-    },
-    {
-        "title": "Izquierda Unida anuncia que llevará a debate su proposición de ley para crear una oficina contra la corrupción",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KCSRXD6BRNE3FDWEUAUQJCPNFY.jpg?auth=8ec5bce005bb5cf9b91ea3a4d8384d84e15fe48f5dc0d82929177add98a8fc63&width=1200",
-        "tags": [
-            "sumar",
-            "corrupción",
-            "pedro sánchez",
-            "franja gaza",
-            "pp",
-            "genocidio",
-            "españa",
-            "izquierda unida"
-        ],
-        "link": "https://elpais.com/espana/2025-09-12/izquierda-unida-anuncia-que-llevara-a-debate-su-proposicion-de-ley-para-crear-una-oficina-contra-la-corrupcion.html",
-        "date": "2025-09-12 13:36:51",
-        "sentiment_score": -0.1339363157749176
-    },
-    {
-        "title": "Encierro indefinido en la Nau de la UV contra el “genocidio” en Palestina",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BCK6DBA2MBE65L2AHFSFFF2G2Q.JPG?auth=b929a73a00f3e5d959c57b54a06ae19d826b938b8282c9dc3a7a2266f1d067b3&width=1200",
-        "tags": [
-            "conflicto árabe-israelí",
-            "comunidad valenciana",
-            "upv",
-            "protestas sociales",
-            "palestina",
-            "política exterior",
-            "universidades públicas",
-            "universidad valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-12/encierro-indefinido-en-la-nau-de-la-uv-contra-el-genocidio-en-palestina.html",
-        "date": "2025-09-12 13:14:20",
-        "sentiment_score": -0.7535585165023804
-    },
-    {
-        "title": "La fiebre de los Labubus crece en Barcelona: monstruos de hasta 1.200 euros y reventa disparada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/N4BRF7XP6RA2VLLEXMHNLNXIMY.jpg?auth=db049410d00cdd337446575b9ead989264c7a4aade99f6c51f17fe9488ab119d&width=1200",
-        "tags": [
-            "juguetes",
-            "cataluña",
-            "barcelona",
-            "comercio",
-            "corea",
-            "coleccionables",
-            "manga",
-            "anime",
-            "fans"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-12/la-fiebre-de-los-labubus-crece-en-barcelona-munecos-de-hasta-1200-euros-y-reventa-disparada.html",
-        "date": "2025-09-12 12:52:53",
-        "sentiment_score": 0.20188733004033566
     },
     {
         "title": "BBVA explica cómo saber si una empresa se encuentra en concurso de acreedores",
@@ -8308,5 +8134,400 @@ export default [
         "link": "https://2001online.com/usa/servicios/dinero-a-la-vista-el-seguro-social-de-eeuu-realiza-un-pago-de-jubilacion-este-miercoles-revisa-si-eres-beneficiario-202591515490",
         "date": "2025-09-15 19:49:00",
         "sentiment_score": 0.16493728943169117
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Málaga este 16 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/HGCQQBREJFG3HOXFG7QBSMNCJQ.png?auth=61e42083d629851aa0c8752556cbd10c287b99213f35efecf1dbb0797359aec9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "noticias",
+            "españa sociedad",
+            "tiempo en españa",
+            "málaga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/16/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-malaga-este-16-de-septiembre/",
+        "date": "2025-09-16 02:01:24",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Una triste eliminación en el último programa de ‘MasterChef Celebrity 10′: “Perder así es perder con honor”",
+        "image_url": "https://www.infobae.com/resizer/v2/HCBARUFKZZGGPNMDLPH5FWFZQQ.png?auth=8e435e871b9f4ad727753e79618edb86615cac97edf3ea380e0b0d41c0381d3c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "charo reina",
+            "programas de televisión",
+            "televisión españa",
+            "masterchef",
+            "gastronomia",
+            "masterchef celebrity",
+            "españa-entretenimiento",
+            "españa-noticias",
+            "cocina"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/16/una-triste-eliminacion-en-el-ultimo-programa-de-masterchef-celebrity-10-perder-asi-es-perder-con-honor/",
+        "date": "2025-09-16 01:34:35",
+        "sentiment_score": -0.8355027195066214
+    },
+    {
+        "title": "Clima en Madrid: cuál será la temperatura máxima y mínima este 16 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "madrid",
+            "españa noticias",
+            "españa sociedad",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/16/clima-en-madrid-cual-sera-la-temperatura-maxima-y-minima-este-16-de-septiembre/",
+        "date": "2025-09-16 01:30:58",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima en Barcelona: el pronóstico para este 16 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "noticias",
+            "españa sociedad",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/16/clima-en-barcelona-el-pronostico-para-este-16-de-septiembre/",
+        "date": "2025-09-16 01:17:10",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Cupón Diario de la Once: números ganadores del 15 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cupón diario",
+            "españa-loterías",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/15/cupon-diario-de-la-once-numeros-ganadores-del-15-de-septiembre/",
+        "date": "2025-09-15 23:15:27",
+        "sentiment_score": 0.11362245678901672
+    },
+    {
+        "title": "Una embarazada de cinco meses va a ‘First Dates’ para buscar el amor: “Creo que no se ha dado ni cuenta”",
+        "image_url": "https://www.infobae.com/resizer/v2/WQFXBIVSEVHTHCNHYXFXGLJWTU.png?auth=bd7801e07faddcec78dc9c8d5684e3bf1510c74fa126b735167c54002af3b901&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "mediaset",
+            "mediaset españa",
+            "programas de televisión",
+            "first dates",
+            "televisión españa",
+            "españa-entretenimiento",
+            "embarazo"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/15/una-embarazada-de-cinco-meses-va-a-first-dates-para-buscar-el-amor-creo-que-no-se-ha-dado-ni-cuenta/",
+        "date": "2025-09-15 23:11:49",
+        "sentiment_score": -0.8354464946314692
+    },
+    {
+        "title": "Estos son los 16 concursantes que han entrado en la academia de Operación Triunfo 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/4TGTTDE26BG33E6P4QPY5BWFDE.png?auth=35b2b89922ed0897c939176b1b98f2b8465e50215c6921c3eb69e89656d53a3d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-noticias",
+            "chenoa",
+            "amazon prime video",
+            "operación triunfo",
+            "españa-entretenimiento",
+            "televisión españa",
+            "prime video"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/15/estos-son-los-16-concursantes-que-han-entrado-en-la-academia-de-operacion-triunfo/",
+        "date": "2025-09-15 22:44:01",
+        "sentiment_score": -0.01673562079668045
+    },
+    {
+        "title": "Imanol Arias visita 'El Hormiguero': el reconocimiento que recibió en Mallorca y que muy pocos conocen",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3471547.jpg",
+        "tags": [
+            "imanol arias",
+            "el hormiguero",
+            "noticias interesantes",
+            "programa de televisión",
+            "ia-news",
+            "pablo motos",
+            "audiencias-um",
+            "televisión",
+            "antena 3"
+        ],
+        "link": "https://www.ultimahora.es/vips/television/2025/09/16/2468727/imanol-arias-visita-hormiguero-reconocimiento-recibio-mallorca-muy-pocos-conocen.html",
+        "date": "2025-09-16 02:00:01",
+        "sentiment_score": 0.038020193576812744
+    },
+    {
+        "title": "Nicole Traviesa, la padelista y 'protectora' del jugador de basket Willy Hernangómez",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/09/diseno-sin-titulo---2025-09-15t151455945_1600_1067.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://elcierredigital.com/pizarra-deportiva/nicole-traviesa-padelista-protectora-jugador-basket-willy-hernangomez",
+        "date": "2025-09-16 01:30:00",
+        "sentiment_score": -0.0030184388160705566
+    },
+    {
+        "title": "Balerdi encendió el cruce ante Real Madrid: la frase sobre Messi cuando le mencionaron a Mbappé y una advertencia a Mastantuono",
+        "image_url": "https://www.infobae.com/resizer/v2/MAU3S5YBTVGQXGNWCAAOD45I4A.jpg?auth=987507bd5dfbe96099fab4b1be552311dc2791d3bc9204d58c20dd4ac6b300b1&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "franco mastantuono",
+            "champions league",
+            "deportes-argentina",
+            "river plate",
+            "leonardo balerdi",
+            "kylian mbappé",
+            "lionel messi",
+            "real madrid",
+            "olympique de marsella"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/16/balerdi-encendio-el-cruce-ante-real-madrid-la-frase-sobre-messi-cuando-le-mencionaron-a-mbappe-y-una-advertencia-a-mastantuono/",
+        "date": "2025-09-16 01:26:04",
+        "sentiment_score": 0.27780118584632874
+    },
+    {
+        "title": "BDS, el grupo 'made in Palestina' que logró boicotear la Vuelta en Madrid: \"Le dijimos al Gobierno Español que no vamos a parar\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/8c987c9794d99119eb54e11c302bb549/f/image/jpeg/assets/multimedia/imagenes/2022/03/17/16475379480080.jpg",
+        "tags": [
+            "madrid",
+            "comunidad de madrid",
+            "artículos daniel j. ollero",
+            "sucesos",
+            "palestina"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/09/16/68c8585efc6c83f9548b4595.html",
+        "date": "2025-09-16 01:12:54",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "River es el mejor equipo argentino en el ranking mundial de clubes: el sorprendente lugar de Boca",
+        "image_url": "https://www.infobae.com/resizer/v2/65PVTNOEQRED5FPGT3ZTNSIPLY.jpg?auth=8568c7e554b9e19297807a3360568c5d104b1da307b99607ca818c7a88ca3542&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "boca juniors",
+            "deportes-argentina",
+            "river plate",
+            "liga profesional",
+            "primera"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/16/river-es-el-mejor-equipo-argentino-en-el-ranking-mundial-de-clubes-el-sorprendente-lugar-de-boca/",
+        "date": "2025-09-16 01:12:25",
+        "sentiment_score": 0.4997875988483429
+    },
+    {
+        "title": "El legado de las 15 ciudades Patrimonio de la Humanidad deslumbra a miles de visitantes",
+        "image_url": "https://eltiempolatino.com/content/images/2025/09/El-legado-de-las-15-ciudades-Patrimonio-de-la-Humanidad-deslumbra-a-miles-de-visitantes1-1.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://eltiempolatino.com/2025/09/16/cultura/el-legado-de-las-15-ciudades-patrimonio-de-la-humanidad-deslumbra-a-miles-de-visitantes/",
+        "date": "2025-09-16 01:09:25",
+        "sentiment_score": 0.6265989504754543
+    },
+    {
+        "title": "Así va el historial entre Real Madrid vs Olympique de Marsella",
+        "image_url": "https://pxcdn.meridiano.net/092025/1757981464489.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/liga-de-campeones/asi-va-el-historial-entre-real-madrid-vs-olympique-de-marsella-202591520430",
+        "date": "2025-09-16 00:43:00",
+        "sentiment_score": -0.02031252533197403
+    },
+    {
+        "title": "La Champions League inicia su segunda edición con nuevo formato",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/428ea34/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F59%2Fb1%2F472884de4e239da58efc3ce656a8%2F745839e63c6041ce8572ea12726b3d72.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-09-15/la-champions-league-inicia-su-segunda-edicion-con-nuevo-formato",
+        "date": "2025-09-16 00:40:12",
+        "sentiment_score": 0.9008324239403009
+    },
+    {
+        "title": "Mbappé, de vuelta al 2022 con tres kilos menos y gracias al 'toque' de Xabi: su metamorfosis llega a la Champions",
+        "image_url": "https://s2.elespanol.com/2025/09/15/actualidad/1003743926221_258721101_1706x960.jpg?contentId=1003743926221",
+        "tags": [
+            "champions league",
+            "xabi alonso",
+            "fútbol",
+            "real madrid cf"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250916/mbappe-vuelta-kilos-gracias-toque-xabi-metamorfosis-llega-champions/1003743925469_0.html",
+        "date": "2025-09-16 00:35:44",
+        "sentiment_score": -0.006977543234825134
+    },
+    {
+        "title": "El auge de Vox reproduce el de Podemos de hace una década, pero Abascal se queda en el 18% cuando Iglesias llegó al 29%",
+        "image_url": "https://s2.elespanol.com/2025/09/15/espana/politica/1003743926094_258719001_1706x960.jpg?contentId=1003743926094",
+        "tags": [
+            "santiago abascal",
+            "vox",
+            "partido popular (pp)",
+            "podemos",
+            "política",
+            "psoe (partido socialista obrero español)",
+            "pedro sánchez",
+            "pablo iglesias"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250916/auge-vox-reproduce-podemos-hace-decada-abascal-queda-iglesias-llego/1003743924203_0.html",
+        "date": "2025-09-16 00:35:41",
+        "sentiment_score": -0.08302327990531921
+    },
+    {
+        "title": "Ni suplementos ni pinchazos: así puedes atrasar la aparición de arrugas y flacidez con colágeno natural",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3412989.jpg",
+        "tags": [
+            "belleza y bienestar",
+            "audiencias-um",
+            "ia-news",
+            "consejos útiles",
+            "salud y bienestar",
+            "salud y belleza",
+            "colágeno",
+            "cuidado facial"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/salud-belleza/2025/09/16/2440795/suplementos-pinchazos-asi-puedes-atrasar-aparicion-arrugas-flacidez-colageno-natural.html",
+        "date": "2025-09-16 02:00:01",
+        "sentiment_score": 0.256754606962204
+    },
+    {
+        "title": "De 159 infectados y 20 muertos a poco más de 10 casos y un fallecido: por qué el virus de la fiebre del Nilo Occidental se ha contenido este año",
+        "image_url": "https://phantom-elmundo.uecdn.es/9edf3ea8fa727123052468b8b7de0c4f/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/13/17577614956757.jpg",
+        "tags": [
+            "cambio climático",
+            "salud",
+            "ciencia y salud"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2025/09/16/68c2ab60fc6c8358168b457a.html",
+        "date": "2025-09-16 01:12:56",
+        "sentiment_score": -0.7358596604317427
+    },
+    {
+        "title": "“Los psicópatas encubiertos están cada vez más normalizados”",
+        "image_url": "https://static.grupojoly.com/clip/eab5f505-6682-4014-b058-616a7c753958_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "psicopatas",
+            "encubiertos",
+            "normalizados",
+            "vez"
+        ],
+        "link": "https://www.malagahoy.es/entrevistas/psicopatas-encubiertos-vez-normalizados_0_2004783654.html",
+        "date": "2025-09-16 01:05:44",
+        "sentiment_score": -0.6973253842443228
+    },
+    {
+        "title": "Bad Bunny transmitirá gratis concierto sorpresa vía streaming: esta es la fecha y la plataforma para verlo",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757988735239.jpg?ch=675&cw=1200",
+        "tags": [
+            "debí tirar más fotos",
+            "concierto",
+            "bad bunny"
+        ],
+        "link": "https://2001online.com/farandula/bad-bunny-transmitira-gratis-concierto-sorpresa-via-streaming-esta-es-la-fecha-y-la-plataforma-para-verlo-20259152290",
+        "date": "2025-09-16 02:09:00",
+        "sentiment_score": -0.09159992635250092
+    },
+    {
+        "title": "Estas bebidas muy populares y de consumo común provocan hígado graso: la Clínica Mayo de EEUU lanza advertencia científica",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757695496965.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/estas-bebidas-muy-populares-y-de-consumo-comun-provocan-higado-graso-la-clinica-mayo-de-eeuu-lanza-advertencia-cientifica-20259152200",
+        "date": "2025-09-16 02:00:00",
+        "sentiment_score": -0.5887449271976948
+    },
+    {
+        "title": "ICE pierde registro de inmigrantes de Alligator Alcatraz y las familias no pueden localizarlos: ¿Qué ocurre con sus paraderos?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757983255372.jpg?ch=675&cw=1200",
+        "tags": [
+            "ice",
+            "inmigrantes",
+            "detenidos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ice-pierde-registro-de-inmigrantes-de-alligator-alcatraz-y-las-familias-no-pueden-localizarlos-que-ocurre-con-sus-paraderos--20259152200",
+        "date": "2025-09-16 02:00:00",
+        "sentiment_score": -0.7366256471723318
+    },
+    {
+        "title": "Cierre de un canal del puente que conecta a Pensilvania con Nueva Jersey: estos serán los horarios y las fechas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757985895135.jpg?ch=675&cw=1200",
+        "tags": [
+            "new hope /lambertville",
+            "nueva jersey",
+            "pensilvania"
+        ],
+        "link": "https://2001online.com/servicios/cierre-de-un-canal-del-puente-que-conecta-a-pensilvania-con-nueva-jersey-estos-seran-los-horarios-y-las-fechas-202591521430",
+        "date": "2025-09-16 01:43:00",
+        "sentiment_score": 0.24034465849399567
+    },
+    {
+        "title": "Anuncian a los nominados al Premio Roberto Clemente 2025: ¿qué venezolanos lo han ganado?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757986170181.jpg?ch=675&cw=1200",
+        "tags": [
+            "carlos carrasco"
+        ],
+        "link": "https://2001online.com/deportes/anuncian-a-los-nominados-al-premio-roberto-clemente-2025-que-venezolanos-lo-han-ganado--202591521250",
+        "date": "2025-09-16 01:25:00",
+        "sentiment_score": 0.5410492718219757
+    },
+    {
+        "title": "¿Amazon es la respuesta a la crisis de vivienda? Todo lo que debes saber de las nuevas casas prefabricadas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757982916993.jpg?ch=675&cw=1200",
+        "tags": [
+            "negocio",
+            "amazon",
+            "vivienda"
+        ],
+        "link": "https://2001online.com/usa/servicios/amazon-es-la-respuesta-a-la-crisis-de-vivienda-todo-lo-que-debes-saber-de-las-nuevas-casas-prefabricadas-20259152100",
+        "date": "2025-09-16 01:00:00",
+        "sentiment_score": -0.7538106068968773
+    },
+    {
+        "title": "Una carrera truncada de forma abrupta: la historia de Luis Valbuena y su trágico final",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757984945567.jpg?ch=675&cw=1200",
+        "tags": [
+            "roberto clemente"
+        ],
+        "link": "https://2001online.com/deportes/una-carrera-truncada-de-forma-abrupta-la-historia-de-luis-valbuena-y-su-tragico-final-202591520540",
+        "date": "2025-09-16 00:54:00",
+        "sentiment_score": -0.24292083084583282
+    },
+    {
+        "title": "¡Atención migrantes! Cónsul de México en Miami revela la realidad en los centros de detención",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757984027633.jpg?ch=675&cw=1200",
+        "tags": [
+            "centros de detención",
+            "consulado de méxico",
+            "miami"
+        ],
+        "link": "https://2001online.com/usa/internacionales/atencion-migrantes-consul-de-mexico-en-miami-revela-la-realidad-en-los-centros-de-detencion-202591520490",
+        "date": "2025-09-16 00:49:00",
+        "sentiment_score": 0.06849707663059235
+    },
+    {
+        "title": "Predicciones de la semana del 15 al 21 de septiembre",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757691005178.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-15-al-21-de-septiembre-20259152200",
+        "date": "2025-09-16 00:36:12",
+        "sentiment_score": 0.0002778545022010803
+    },
+    {
+        "title": "Belleza y estatura: ¿cuáles son las candidatas con más altas del Miss Venezuela?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757982102627.jpg?ch=675&cw=1200",
+        "tags": [
+            "candidatas oficiales",
+            "miss venezuela"
+        ],
+        "link": "https://2001online.com/farandula/belleza-y-estatura-cuales-son-las-candidatas-con-mas-altas-del-miss-venezuela--202591520140",
+        "date": "2025-09-16 00:14:00",
+        "sentiment_score": 0.09224024415016174
     }
 ];
