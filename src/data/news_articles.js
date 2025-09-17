@@ -1,124 +1,5 @@
 export default [
     {
-        "title": "La mujer de Charlie Kirk promete seguir con su legado tras su asesinato: «Llevará la corona de mártir»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/13/kirk-keN-U701534647771ng-1200x840@diario_abc.jpg",
-        "tags": [
-            "charlie",
-            "mujer",
-            "kirk"
-        ],
-        "link": "https://www.abc.es/internacional/mujer-charlie-kirk-promete-seguir-legado-tras-20250913082030-nt.html",
-        "date": "2025-09-13 06:22:53",
-        "sentiment_score": -0.060332536697387695
-    },
-    {
-        "title": "Oleada de despidos en EE.UU. por celebrar la muerte de Charlie Kirk",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/81/media_thumb-link-4096505.webp?1757713926=",
-        "tags": [
-            "celebración",
-            "asesinato",
-            "oleada",
-            "despidos",
-            "eeuu",
-            "actualidad",
-            "kirk"
-        ],
-        "link": "https://www.meneame.net/story/oleada-despidos-ee-uu-celebrar-muerte-charlie-kirk",
-        "date": "2025-09-13 06:10:05",
-        "sentiment_score": -0.7734659388661385
-    },
-    {
-        "title": "Jorge de Alba (Lideremos): «La Ley de Vivienda en Andalucía se ha hecho pensando en los jóvenes»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/13/lideremos-moreno-alba-RfuSFPoROJZ7wDkjWlcG4MP-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "andalucía"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/jorge-alba-lideremos-ley-vivienda-andalucia-pensando-20250913205049-nts.html",
-        "date": "2025-09-13 05:19:44",
-        "sentiment_score": 0.10246455669403076
-    },
-    {
-        "title": "El descrédito autonómico",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3ACVGAWPXFHF5FZFNVRBXEUE6I.JPG?auth=66bc8ee82d6f7ca13e673acc7ef637474c4e6f2384d8e6f30358f58c90993576&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "carlos mazón",
-            "vox",
-            "generalitat valenciana",
-            "política",
-            "ppcv"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-13/el-descredito-autonomico.html",
-        "date": "2025-09-13 05:19:55",
-        "sentiment_score": -0.7770626787096262
-    },
-    {
-        "title": "Sergio Ramos sueña con dar un concierto en el Bernabéu: “Ojalá pueda anunciarlo algún día”",
-        "image_url": "https://static.grupojoly.com/clip/a913d207-0c79-40b8-9f18-f2e42afc8560_facebook-aspect-ratio_default_0_x796y856.jpg",
-        "tags": [
-            "sergio",
-            "dar",
-            "concierto",
-            "suena",
-            "ramos"
-        ],
-        "link": "https://www.granadahoy.com/ocio/sergio-ramos-suena-dar-concierto_0_2004751940.html",
-        "date": "2025-09-13 06:28:15",
-        "sentiment_score": -0.10247689485549927
-    },
-    {
-        "title": "Hasta 40 millones, en la costa o en la ciudad: así son las 2.000 casas de marcas como Dolce & Gabbana o Four Seasons que hay en España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3037fcbf-7d9f-4cec-a8d1-c9b13bd1cae4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dolce & gabbana",
-            "karl lagerfeld",
-            "construcción",
-            "madrid",
-            "sector inmobiliario",
-            "málaga",
-            "mercado inmobiliario",
-            "marcas",
-            "vivienda"
-        ],
-        "link": "https://www.diariodemallorca.es/economia/2025/09/13/branded-residences-casas-marca-vivienda-121526488.html",
-        "date": "2025-09-13 06:27:59",
-        "sentiment_score": -0.0985000729560852
-    },
-    {
-        "title": "Hasta 40 millones: así son las casas de marcas como Dolce & Gabbana o Four Seasons de España (la mayoría en Marbella)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3037fcbf-7d9f-4cec-a8d1-c9b13bd1cae4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "marcas",
-            "construcción",
-            "madrid",
-            "karl lagerfeld",
-            "málaga",
-            "dolce & gabbana",
-            "vivienda",
-            "mercado inmobiliario",
-            "sector inmobiliario"
-        ],
-        "link": "https://www.laopiniondemalaga.es/economia/2025/09/13/branded-residences-casas-marca-vivienda-marbella-121526475.html",
-        "date": "2025-09-13 06:27:57",
-        "sentiment_score": -0.0985000729560852
-    },
-    {
-        "title": "La locura de los mercadillos en casas de lujo que ahora llegan a Barcelona: \"Prefiero un mueble bueno usado que uno de Ikea\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/58c85bf5-8c42-4213-8152-43ff4f32d342_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "muebles",
-            "mercadillos",
-            "vivienda",
-            "barcelona",
-            "viviendas"
-        ],
-        "link": "https://www.laopiniondemalaga.es/sociedad/2025/09/13/locura-mercadillos-casas-lujo-ahora-121526535.html",
-        "date": "2025-09-13 06:29:31",
-        "sentiment_score": -0.25480543076992035
-    },
-    {
         "title": "Alejandro Amenábar responde a Arturo Pérez-Reverte tras su crítica a la película ‘El Cautivo’, sobre Miguel de Cervantes",
         "image_url": "https://www.infobae.com/resizer/v2/KF43U4GO4NF3LHRVWTPW2ZMPOA.jpg?auth=1932c94c26d5592e24d5e69acdd9b652ee40f9acf92b5cabe9a4193f18983818&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -300,58 +181,6 @@ export default [
         "sentiment_score": -0.051719099283218384
     },
     {
-        "title": "Cuatro embarcaciones se enfrentan a 200.000 euros de multa por fondear ilegalmente en praderas de posidonia en Jávea",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/13/guardia-civil-javea-RzTJ0oehvpjtJp4mAJuN3gJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "valencia"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/cuatro-embarcaciones-enfrentan-200000-euros-multa-fondear-20250913121743-nt.html",
-        "date": "2025-09-13 10:17:44",
-        "sentiment_score": -0.12062807381153107
-    },
-    {
-        "title": "Fitch rebaja la confianza internacional en la economía de Francia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/09/13/macron-kkoC-U701535107441jmG-1200x840@diario_abc.jpg",
-        "tags": [
-            "fitch",
-            "internacional",
-            "francia",
-            "economia",
-            "rebaja",
-            "confianza"
-        ],
-        "link": "https://www.abc.es/economia/fitch-rebaja-confianza-internacional-economia-francia-20250913115317-nt.html",
-        "date": "2025-09-13 09:53:18",
-        "sentiment_score": -0.16892679035663605
-    },
-    {
-        "title": "EE.UU. destruye un gran stock de anticonceptivos almacenados por la anterior administración en Bélgica para ser distribuidos en países del Tercer Mundo",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/82/media_thumb-link-4096569.webp?1757749626=",
-        "tags": [
-            "actualidad",
-            "estáis unido",
-            "ayudas",
-            "tercer mundo",
-            "natalidad"
-        ],
-        "link": "https://www.meneame.net/story/ee-uu-destruye-gran-stock-anticonceptivos-almacenados-anterior",
-        "date": "2025-09-13 09:15:03",
-        "sentiment_score": -0.7496050782501698
-    },
-    {
-        "title": "Binter copa el 60 por ciento de los más de 14.000 pasajeros que lleva el aeropuerto de Córdoba este 2025",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/13/aeropuerto-binter-cordoba-kaaG-U701532896577IYC-1200x840@diario_abc.jpg",
-        "tags": [
-            "córdoba",
-            "andalucía",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/binter-copa-ciento-14000-pasajeros-lleva-aeropuerto-20250913090645-nts.html",
-        "date": "2025-09-13 07:06:45",
-        "sentiment_score": -0.03619074821472168
-    },
-    {
         "title": "La investigación de la dana estrecha el cerco sobre el ‘president’ Mazón",
         "image_url": "https://imagenes.elpais.com/resizer/v2/3ACVGAWPXFHF5FZFNVRBXEUE6I.JPG?auth=66bc8ee82d6f7ca13e673acc7ef637474c4e6f2384d8e6f30358f58c90993576&width=1200",
         "tags": [
@@ -452,32 +281,6 @@ export default [
         "link": "https://elpais.com/espana/2025-09-13/el-juez-peinado-demanda-a-politicos-y-periodistas.html",
         "date": "2025-09-13 11:08:10",
         "sentiment_score": -0.8150003645569086
-    },
-    {
-        "title": "Madrid se hace literatura: arranca ‘Back to the Book’ en Arganzuela con libros y fanzines",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/F7L3QPMNBBD2BNYUJ2X3DQYZ6A.jpg?auth=e39bf52fc219db9aa76c2e95dd55783a75af3c019b48775379916188c5f6d61a&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-13/madrid-se-hace-literatura-arranca-back-to-the-book-en-arganzuela-con-libros-y-fanzines.html",
-        "date": "2025-09-13 10:03:25",
-        "sentiment_score": 0.178168511018157
-    },
-    {
-        "title": "Post Malone trae el macro-club de carretera al Lluís Companys",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3DUQZKQH7ZMXNA677AIUCG4ASQ.jpg?auth=6e94cf953466e30a1fb683f3f1a5a79ba551954168790c55d29598b1761a6d57&width=1200",
-        "tags": [
-            "música",
-            "cataluña",
-            "rap",
-            "espectáculos",
-            "barcelona",
-            "conciertos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-13/post-malone-trae-el-macro-club-de-carretera-al-lluis-companys.html",
-        "date": "2025-09-13 07:31:06",
-        "sentiment_score": 0.19946268573403358
     },
     {
         "title": "1-2. El Real Madrid resiste y vence en Anoeta",
@@ -7884,5 +7687,603 @@ export default [
         "link": "https://2001online.com/farandula/robert-redford-el-sex-appeal-que-conquisto-peliculas-y-premios-de-hollywood-por-decadas-202591610350",
         "date": "2025-09-16 14:35:00",
         "sentiment_score": 0.8474760390818119
+    },
+    {
+        "title": "Junts pacta con el Gobierno que las grandes empresas deban atender en la lengua elegida por el cliente en comunidades con idioma cooficial",
+        "image_url": "https://www.infobae.com/resizer/v2/YLG66MKKD5HFJB3XH7EGB7KHZU.jpg?auth=6c2780848ff5ff3dde1bc3bb5c9f134f54d883d87ea98882f32bf6a0d52ce58b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "miriam nogueras",
+            "gallego",
+            "catalán",
+            "euskera",
+            "lenguas cooficiales de españa",
+            "congreso de los diputados",
+            "españa-nacional",
+            "junts",
+            "atencion al cliente",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/16/junts-pacta-con-el-gobierno-que-las-grandes-empresas-deban-atender-en-catalan-euskera-o-gallego-segun-la-lengua-elegida-por-el-cliente-en-comunidades-con-idioma-cooficial/",
+        "date": "2025-09-16 21:35:10",
+        "sentiment_score": -0.04307066649198532
+    },
+    {
+        "title": "Aagesen recrimina al PP que votara en contra del decreto de refuerzo sistema eléctrico",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3480",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/16/aagesen-recrimina-al-pp-que-votara-en-contra-del-decreto-de-refuerzo-sistema-electrico/",
+        "date": "2025-09-16 20:55:40",
+        "sentiment_score": -0.8606749409809709
+    },
+    {
+        "title": "El PSOE apoya la propuesta de Sumar de reformar la indemnización por despido improcedente",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3480",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/16/el-psoe-apoya-la-propuesta-de-sumar-de-reformar-la-indemnizacion-por-despido-improcedente/",
+        "date": "2025-09-16 20:55:22",
+        "sentiment_score": 0.1768825799226761
+    },
+    {
+        "title": "Junts anuncia un pacto para \"blindar\" el catalán en los servicios de atención al cliente",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3480",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/16/junts-anuncia-un-pacto-para-blindar-el-catalan-en-los-servicios-de-atencion-al-cliente/",
+        "date": "2025-09-16 20:54:58",
+        "sentiment_score": 0.16957499086856842
+    },
+    {
+        "title": "Colonial coloca una emisión de 800 millones en bonos verdes",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3480",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/16/colonial-coloca-una-emision-de-800-millones-en-bonos-verdes/",
+        "date": "2025-09-16 20:54:41",
+        "sentiment_score": 0.1215202808380127
+    },
+    {
+        "title": "PP exige revertir \"el caos ferroviario\" y pide reprobar a Puente por tercera vez en un año",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3480",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/16/pp-exige-revertir-el-caos-ferroviario-y-pide-reprobar-a-puente-por-tercera-vez-en-un-ano/",
+        "date": "2025-09-16 20:54:25",
+        "sentiment_score": -0.77164401486516
+    },
+    {
+        "title": "La producción industrial en EE.UU. aumentó un 0,1 % en agosto",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3480",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/16/la-produccion-industrial-en-eeuu-aumento-un-01-en-agosto/",
+        "date": "2025-09-16 20:54:08",
+        "sentiment_score": 0.2692323103547096
+    },
+    {
+        "title": "Temas del día de EFE Economía del miércoles 17 de septiembre de 2025",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3480",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/16/temas-del-dia-de-efe-economia-del-miercoles-17-de-septiembre-de-2025/",
+        "date": "2025-09-16 20:53:52",
+        "sentiment_score": 0.00902131199836731
+    },
+    {
+        "title": "El petróleo Brent sube un 1,53 %, hasta 68,47 dólares",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3480",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/16/el-petroleo-brent-sube-un-153-hasta-6847-dolares/",
+        "date": "2025-09-16 20:53:35",
+        "sentiment_score": 0.22249045222997665
+    },
+    {
+        "title": "Sumar anuncia que demandará a las aerolíneas por subir precios durante la ola de incendios",
+        "image_url": "https://www.infobae.com/pf/resources/images/fallback-promo-image-1200x630.png?d=3480",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/16/sumar-anuncia-que-demandara-a-las-aerolineas-por-subir-precios-durante-la-ola-de-incendios/",
+        "date": "2025-09-16 20:53:02",
+        "sentiment_score": -0.5468290150165558
+    },
+    {
+        "title": "«Fui yo, lo siento»: cómo se planificó la ejecución pública de Charlie Kirk",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/16/1500747926-kObB-U701565936560XoG-1200x840@diario_abc.jpg",
+        "tags": [
+            "charlie",
+            "publica",
+            "siento",
+            "ejecucion",
+            "kirk",
+            "planifico"
+        ],
+        "link": "https://www.abc.es/internacional/siento-planifico-ejecucion-publica-charlie-kirk-20250916230050-nt.html",
+        "date": "2025-09-16 21:00:50",
+        "sentiment_score": -0.14630182087421417
+    },
+    {
+        "title": "Las víctimas de abuso en la Iglesia reciben de 3.000 a 100.000 euros",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sociedad/2025/09/16/2024-reunion-comision-asesora-PRIVA-RDI6WoFMoCO95Iu559ed3oO-1200x840@diario_abc.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.abc.es/sociedad/victimas-abuso-iglesia-reciben-3000-100000-euros-20250916204150-nt.html",
+        "date": "2025-09-16 18:41:51",
+        "sentiment_score": -0.2012546956539154
+    },
+    {
+        "title": "La Fiscalía pide la pena de muerte para el asesino de Charlie Kirk",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/16/tyler-robinson-kaBG-U701561477909uhB-1200x840@diario_abc.jpg",
+        "tags": [
+            "pena de muerte",
+            "fbi",
+            "uh abc"
+        ],
+        "link": "https://www.abc.es/internacional/fiscalia-pide-pena-muerte-asesino-charlie-kirk-20250916202150-nt.html",
+        "date": "2025-09-16 18:21:51",
+        "sentiment_score": -0.78779037296772
+    },
+    {
+        "title": "Casi 400.000 euros para cofinanciar nueve proyectos solidarios",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/16/premios-cyl-solidaria-R25TB3Hl9rBr9NSZK9EriKJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "nueve",
+            "solidarios",
+            "400000",
+            "cofinanciar",
+            "euros",
+            "proyectos"
+        ],
+        "link": "https://www.abc.es/espana/castilla-leon/400000-euros-cofinanciar-nueve-proyectos-solidarios-20250916200029-nt.html",
+        "date": "2025-09-16 18:00:29",
+        "sentiment_score": 0.09577956795692444
+    },
+    {
+        "title": "La ley del taxi del Govern comportaría la desaparición de 600 VTC con licencia urbana en el Área Metropolitana e Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6PO3JBLPBRDWLIKQZGZEPR4PQE.jpg?auth=45bf2cd7ae2582d42502b81bc2b0e49b384232ca7ccd4cc179261b72817d61f0&width=1200",
+        "tags": [
+            "transporte pasajeros",
+            "catalán",
+            "transporte",
+            "taxis",
+            "barcelona",
+            "transporte público",
+            "leyes autonómicas",
+            "cataluña",
+            "transporte privado"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-09-16/la-ley-del-taxi-del-govern-comportaria-la-desaparicion-de-600-vtc-con-licencia-urbana-en-el-area-metropolitana-e-barcelona.html",
+        "date": "2025-09-16 19:11:59",
+        "sentiment_score": -0.025868646800518036
+    },
+    {
+        "title": "El PP vota con Vox en el Congreso a favor de “restringir la regularización de inmigrantes ilegales a través del arraigo”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YITWTWKNBRLELEFMZ643TJOUTE.jpg?auth=2eefe662ac87eede1aa4488e26dbde1bfdce6acd53c7e0c8828b9ba5f8ca052a&width=1200",
+        "tags": [
+            "congreso diputados",
+            "santiago abascal",
+            "alberto núñez feijóo",
+            "inmigración",
+            "vox",
+            "españa",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2025-09-16/el-pp-vota-con-vox-en-el-congreso-a-favor-de-restringir-la-regularizacion-de-inmigrantes-ilegales-a-traves-del-arraigo.html",
+        "date": "2025-09-16 19:11:26",
+        "sentiment_score": -0.796375785022974
+    },
+    {
+        "title": "Junts vuelve a unir sus votos a PP y Vox para tumbar en el Congreso la creación de una agencia anticorrupción",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MA3GBOVAOBJMXFDHEVXR7XZEEI.jpg?auth=80325214eaa524f6d55a1bddb6835ad0d6ba22e3fe2503910eae54e681d41c2c&width=1200",
+        "tags": [
+            "corrupción",
+            "congreso diputados",
+            "caso koldo",
+            "pedro sánchez",
+            "santos cerdán",
+            "españa",
+            "política",
+            "partidos políticos",
+            "sumar"
+        ],
+        "link": "https://elpais.com/espana/2025-09-16/junts-vuelve-a-unir-sus-votos-a-pp-y-vox-para-tumbar-en-el-congreso-la-creacion-de-una-agencia-anticorrupcion.html",
+        "date": "2025-09-16 19:10:10",
+        "sentiment_score": -0.20618057996034622
+    },
+    {
+        "title": "El Gobierno defiende que la policía actuó “con proporcionalidad” en el final de la Vuelta",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GDAN7POLZJLLDL2MLTJUK73Q5Q.jpg?auth=5ea6b8f81f37d223f92e9e0bec5f4ef68d6ee382a6cb0808e310a996367d2f4b&width=1200",
+        "tags": [
+            "psoe",
+            "palestina",
+            "gobierno de españa",
+            "fernando grande-marlaska",
+            "vuelta españa",
+            "israel",
+            "senado",
+            "españa",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2025-09-16/el-gobierno-defiende-que-la-policia-actuo-con-proporcionalidad-en-el-final-de-la-vuelta.html",
+        "date": "2025-09-16 18:52:52",
+        "sentiment_score": -0.8184934444725513
+    },
+    {
+        "title": "Muere el abad emérito de Monsterrat Sebastià Bardolet i Pujol a los 91 años",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KPCMTRX3MVJAZPOK3RQJR4BK34.jpg?auth=dd6b4058927b512274804e6b4ebc67918442adbb2d5bc8394216627bbaa38b80&width=1200",
+        "tags": [
+            "religión",
+            "obituarios",
+            "creencias religiosas",
+            "montserrat",
+            "cristianismo",
+            "monasterios",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-09-16/muere-el-abad-emerito-de-monsterrat-sebastia-bardolet-i-pujol-a-los-91-anos.html",
+        "date": "2025-09-16 18:30:55",
+        "sentiment_score": -0.00586390495300293
+    },
+    {
+        "title": "El mensaje directo de Xabi Alonso a Vinicius tras su suplencia: \"Nadie va a jugar todo\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/09/16/image-81a29bcf-3433-410e-900b-3d9365bf6d7d-85-2560-1440.jpeg",
+        "tags": [
+            "fútbol",
+            "o. marsella",
+            "real madrid",
+            "champions league"
+        ],
+        "link": "https://www.eurosport.es/futbol/champions-league/2025-2026/xabi-alonso-suplencia-vinicius-junior-rodrygo-mbappe_sto23222490/story.shtml",
+        "date": "2025-09-16 22:08:34",
+        "sentiment_score": 0.5700392201542854
+    },
+    {
+        "title": "Federico Trillo desmonta la \"política barata\" de Sánchez con Israel y cifra el coste del embargo de armas",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/09/16/68c9dc8528443.jpeg",
+        "tags": [
+            "el cascabel"
+        ],
+        "link": "https://www.cope.es/trecetv/programas/el-cascabel/noticias/federico-trillo-desmonta-politica-barata-sanchez-israel-cifra-coste-embargo-armas-20250917_3215027.html",
+        "date": "2025-09-16 22:05:16",
+        "sentiment_score": -0.21268382668495178
+    },
+    {
+        "title": "Madrid y Aragón maniobran para romper el cerco del Gobierno a los centros de datos y evitar que Amazon o Google deban entregar datos clave a Moncloa",
+        "image_url": "https://phantom-elmundo.uecdn.es/6527acf41681b9fef92faa161ef584c9/crop/485x95/1558x1101/f/image/jpeg/assets/multimedia/imagenes/2022/11/16/16686363463923.jpg",
+        "tags": [
+            "aragón",
+            "isabel díaz ayuso",
+            "comunidad de madrid",
+            "artículos paula maría"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/09/17/68c80b19e4d4d8b04f8b4590.html",
+        "date": "2025-09-16 22:02:00",
+        "sentiment_score": 0.21373026072978973
+    },
+    {
+        "title": "Xabi Alonso: \"Nadie tiene que sentirse ofendido por no jugar un partido\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250916235950_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-xabi-alonso-nadie-tiene-sentirse-ofendido-no-jugar-partido-20250916235950.html",
+        "date": "2025-09-16 21:59:50",
+        "sentiment_score": -0.5563864819705486
+    },
+    {
+        "title": "El cabezazo de Dani Carvajal al argentino Gerónimo Rulli por el que vio la roja en el triunfo del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/PFFOS22ALRBJ5FURVR2OEFHVEY.JPG?auth=c01b675d45f9c4c062c39759f9ad00ac7cb84e5c1f9f440c5c00a66724826097&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "olumpique de marsella",
+            "champions league",
+            "real madrid",
+            "deportes-internacional",
+            "dani carvajal",
+            "deportes-argentina",
+            "gerónimo rulli"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/16/el-cabezazo-de-dani-carvajal-al-argentino-geronimo-rulli-por-el-que-vio-la-roja-en-el-triunfo-del-real-madrid/",
+        "date": "2025-09-16 21:56:37",
+        "sentiment_score": -0.8636639909818769
+    },
+    {
+        "title": "Sebastián Yatra emociona a seis mil fans en una \"noche especial de San Mateo\": \"Tenéis una energía bacana\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a9ec6310-2c20-4412-93c3-49aba553bad7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "público",
+            "real oviedo",
+            "energía",
+            "san mateo"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/09/16/sebastian-yatra-emociona-seis-mil-121650537.html",
+        "date": "2025-09-16 21:56:30",
+        "sentiment_score": 0.047762736678123474
+    },
+    {
+        "title": "Resultados Jornada 1: Martes 16 de septiembre en Champions League",
+        "image_url": "https://pxcdn.meridiano.net/092025/1758059986592.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/liga-de-campeones/resultados-jornada-1-martes-16-de-septiembre-en-champions-league-202591617530",
+        "date": "2025-09-16 21:53:00",
+        "sentiment_score": 0.8919202350080013
+    },
+    {
+        "title": "Las mejores fotos del Real Madrid-Olympique",
+        "image_url": "https://static.grupojoly.com/clip/7eff8adf-d5a2-4dbf-abc9-b0212c323238_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "marsella",
+            "olympique",
+            "fotos",
+            "mejores",
+            "real",
+            "madrid"
+        ],
+        "link": "https://www.malagahoy.es/deportes/mejores-fotos-real-madrid-olympique-marsella_3_2004790501.html",
+        "date": "2025-09-16 21:50:57",
+        "sentiment_score": 0.4278687760233879
+    },
+    {
+        "title": "Nueva liga europea de baloncesto podría lanzarse en 2027 o 2028, asegura Silver",
+        "image_url": "https://dims.apnews.com/dims4/default/3d383d2/2147483647/strip/true/crop/8041x5352+0+4/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faf%2F0e%2F07ca25cf045727f0d81e308d6af6%2F45de693fda074b23af7da6430c35779e",
+        "tags": [
+            "sports",
+            "eurocopa 2024",
+            "deportes",
+            "nba fiba europa adam silver"
+        ],
+        "link": "https://apnews.com/article/nba-fiba-europa-adam-silver-0980b6b9bb1e73be88eb7e17229641cf",
+        "date": "2025-09-16 21:49:53",
+        "sentiment_score": -0.0005516111850738525
+    },
+    {
+        "title": "Zara se echa al monte",
+        "image_url": "https://www.elidealgallego.com/images/3946230",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.elidealgallego.com/articulo/opinion/zara-echa-monte-5429665",
+        "date": "2025-09-16 22:00:00",
+        "sentiment_score": 0.40004996955394745
+    },
+    {
+        "title": "La BCN geopolítica",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/29/pensamiento/1003742677990_14948339_1706x960.jpg?contentId=1003742677990",
+        "tags": [
+            "políticos",
+            "barcelona",
+            "cataluña",
+            "internet",
+            "pensamiento",
+            "mediterráneo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250916/bcn-geopolitica/1003742689221_13.html",
+        "date": "2025-09-16 22:00:00",
+        "sentiment_score": -0.20522716641426086
+    },
+    {
+        "title": "Barcelona está despierta",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/09/04/vida/791931068_8611032_1706x960.jpg?contentId=791931068",
+        "tags": [
+            "desperta bcn!",
+            "vivienda",
+            "barcelona",
+            "zona franca"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20250916/barcelona-despierta/1003742689265_13.html",
+        "date": "2025-09-16 22:00:00",
+        "sentiment_score": -0.26212675869464874
+    },
+    {
+        "title": "Ruben Wagensberg",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/16/politica/1003742689079_15150430_1706x960.jpg?contentId=1003742689079",
+        "tags": [
+            "examen a los protagonistas",
+            "parlament",
+            "erc",
+            "ruben wagensberg"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20250916/ruben-wagensberg/1003742689242_0.html",
+        "date": "2025-09-16 22:00:00",
+        "sentiment_score": -0.17023366689682007
+    },
+    {
+        "title": "Jaume Collboni",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/16/business/1003742689234_15153559_1706x960.jpg?contentId=1003742689234",
+        "tags": [
+            "alquiler",
+            "jaume collboni",
+            "examen a los protagonistas",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20250916/jaume-collboni/1003742689299_0.html",
+        "date": "2025-09-16 22:00:00",
+        "sentiment_score": -0.08362680673599243
+    },
+    {
+        "title": "Del discurso anticoche a la Casa Seat",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/09/04/vida/791931058_8610742_1706x960.jpg?contentId=791931058",
+        "tags": [
+            "barcelona",
+            "sant adrià de besòs",
+            "cataluña",
+            "ayuntamientos",
+            "ayuntamiento de barcelona",
+            "pensamiento",
+            "badalona",
+            "sabadell",
+            "castelldefels"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250916/discurso-anticoche-casa-seat/1003742689245_13.html",
+        "date": "2025-09-16 22:00:00",
+        "sentiment_score": -0.24760828167200089
+    },
+    {
+        "title": "Conjura política y empresarial para impulsar Cataluña en la primera jornada del 'BCN Desperta!'",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/16/business/1003742689234_15153559_1706x960.jpg?contentId=1003742689234",
+        "tags": [
+            "economía",
+            "business",
+            "políticos",
+            "seguridad",
+            "desperta bcn!",
+            "empresarios"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250916/conjura-politica-empresarial-impulsar-cataluna-bcn-desperta/1003742689158_0.html",
+        "date": "2025-09-16 22:00:00",
+        "sentiment_score": 0.38490360230207443
+    },
+    {
+        "title": "La japonesa AGC invierte más de 100 millones en una nueva planta en Malgrat de Mar",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/16/business/1003742689302_15154777_1706x960.jpg?contentId=1003742689302",
+        "tags": [
+            "business",
+            "medicina",
+            "empresas",
+            "empresarios",
+            "medicamentos"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250916/japonesa-agc-invierte-millones-planta-malgrat-mar/1003742689300_0.html",
+        "date": "2025-09-16 21:56:01",
+        "sentiment_score": 0.1052984893321991
+    },
+    {
+        "title": "Tensión en el sur de Florida: Reportan que un inmigrante atropella a un agente de ICE",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758068049349.jpg?ch=675&cw=1200",
+        "tags": [
+            "agente ice",
+            "inmigrantes indocumentados",
+            "florida"
+        ],
+        "link": "https://2001online.com/usa/internacionales/tension-en-el-sur-de-florida-reportan-que-un-inmigrante-atropella-a-un-agente-de-ice-202591618120",
+        "date": "2025-09-16 22:12:00",
+        "sentiment_score": -0.8115649670362473
+    },
+    {
+        "title": "En video: así es el emotivo adiós de Mirtha Pérez a Eduardo Serrano",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758062253778.jpg?ch=675&cw=1200",
+        "tags": [
+            "mirtha pérez",
+            "eduardo serrano"
+        ],
+        "link": "https://2001online.com/farandula/en-video-asi-es-el-emotivo-adios-de-mirtha-perez-a-eduardo-serrano-202591618120",
+        "date": "2025-09-16 22:12:00",
+        "sentiment_score": 0.7694983221590519
+    },
+    {
+        "title": "¡Alerta en la Capital! INAMEH emite aviso por lluvias y tormentas eléctricas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758059325245.jpg?ch=675&cw=1200",
+        "tags": [
+            "clima",
+            "lluivias",
+            "tormentas electrical",
+            "pronóstico inameh",
+            "inameh"
+        ],
+        "link": "https://2001online.com/nacionales/alerta-en-la-capital-inameh-emite-aviso-por-lluvias-y-tormentas-electricas-202591617500",
+        "date": "2025-09-16 21:50:00",
+        "sentiment_score": 0.12808730825781822
+    },
+    {
+        "title": "¿Qué está pasando en \"La Casa de los Famosos México 2025\"? todos los dramas y memes que dominan las redes",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758059952981.jpg?ch=675&cw=1200",
+        "tags": [
+            "la casa de los famosos méxico",
+            "reality show"
+        ],
+        "link": "https://2001online.com/farandula/que-esta-pasando-en-la-casa-de-los-famosos-mexico-2025-todos-los-dramas-y-memes-que-dominan-las-redes-202591617480",
+        "date": "2025-09-16 21:48:00",
+        "sentiment_score": -0.9159395722672343
+    },
+    {
+        "title": "El paso que todos olvidan al vender un auto en Texas y que podría costar miles de dólares",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758057047234.jpg?ch=675&cw=1200",
+        "tags": [
+            "texas",
+            "venta",
+            "vehículo"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-paso-que-todos-olvidan-al-vender-un-auto-en-texas-y-que-podria-costar-miles-de-dolares-202591617110",
+        "date": "2025-09-16 21:11:00",
+        "sentiment_score": 0.15122175216674805
+    },
+    {
+        "title": "Más dinero en tu bolsillo: las fechas clave del nuevo feriado fiscal en Florida",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758056670067.jpg?ch=675&cw=1200",
+        "tags": [
+            "florida",
+            "gobernador ron desantis",
+            "exención de impuestos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/mas-dinero-en-tu-bolsillo-las-fechas-clave-del-nuevo-feriado-fiscal-en-florida-20259161740",
+        "date": "2025-09-16 21:04:00",
+        "sentiment_score": 0.12732408940792084
+    },
+    {
+        "title": "Servicio puerta a puerta en Venezuela: conozca cuáles son las empresas disponibles en el país",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758056793187.jpg?ch=675&cw=1200",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/servicio-puerta-a-puerta-en-venezuela-conozca-cuales-son-las-empresas-disponibles-en-el-pais-20259161700",
+        "date": "2025-09-16 21:00:00",
+        "sentiment_score": 0.003129623830318451
+    },
+    {
+        "title": "Venezuela califica de “mentira bochornosa” el informe del Departamento de Estado de EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758058375266.jpg?ch=675&cw=1200",
+        "tags": [
+            "nacotráfico",
+            "eeuu",
+            "diario 2001",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-califica-de-mentira-bochornosa-el-informe-del-departamento-de-estado-de-eeuu-202591616120",
+        "date": "2025-09-16 20:12:00",
+        "sentiment_score": -0.8504664059728384
+    },
+    {
+        "title": "¿Cómo conseguir la matrícula oficial del Inter Miami en Florida? Aquí los pasos que pocos conocen",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758053995709.jpg?ch=675&cw=1200",
+        "tags": [
+            "estados unidos",
+            "matricula",
+            "internacionales",
+            "inter miami",
+            "florida",
+            "fans"
+        ],
+        "link": "https://2001online.com/usa/internacionales/como-conseguir-la-matricula-oficial-del-inter-miami-en-florida-aqui-los-pasos-que-pocos-conocen-202591615560",
+        "date": "2025-09-16 19:56:00",
+        "sentiment_score": 0.22872088849544525
+    },
+    {
+        "title": "La polémica subasta de Eduardo Yáñez: ¿Qué le vende a sus seguidores?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758051227577.jpg?ch=675&cw=1200",
+        "tags": [
+            "farándula",
+            "escándalo",
+            "famosos",
+            "eduardo yáñez"
+        ],
+        "link": "https://2001online.com/farandula/la-polemica-subasta-de-eduardo-yanez-que-le-vende-a-sus-seguidores--202591615560",
+        "date": "2025-09-16 19:56:00",
+        "sentiment_score": 0.27072280645370483
     }
 ];
