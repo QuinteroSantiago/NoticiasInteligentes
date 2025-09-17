@@ -142,45 +142,6 @@ export default [
         "sentiment_score": -0.1538301408290863
     },
     {
-        "title": "Un antiguo permiso de trabajo de Tom Cruise revela su auténtico nombre... y solo por 10.000 euros",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/gente/2025/09/13/1496645641-R1GTFfpcxD7yYScDKhHQULO-1200x840@diario_abc.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.abc.es/gente/antiguo-permiso-trabajo-tom-cruise-revela-autentico-20250913151810-nt.html",
-        "date": "2025-09-13 14:00:01",
-        "sentiment_score": -0.1152350902557373
-    },
-    {
-        "title": "Un español de viaje por Zimbabue, sin palabras tras visitar un supermercado de allí: «Hay que tirar de pan para desayunar»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/recreo/2025/09/13/zimb-RI8vl61o13puVpa5xbJrpnL-1200x840@diario_abc.jpg",
-        "tags": [
-            "visitar",
-            "zimbabue",
-            "supermercado",
-            "palabras",
-            "espanol",
-            "tras",
-            "pan",
-            "viaje",
-            "tirar"
-        ],
-        "link": "https://www.abc.es/recreo/espanol-viaje-zimbabue-palabras-tras-visitar-supermercado-20250913125632-nt.html",
-        "date": "2025-09-13 12:28:20",
-        "sentiment_score": -0.1324634850025177
-    },
-    {
-        "title": "Las unidades del dolor en Atención Primaria atienden a más de 6.000 pacientes desde su puesta en marcha",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/13/unidad-dolor-RqgGdcK98nJZXUu6QlGeFMI-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "castilla y león"
-        ],
-        "link": "https://www.abc.es/espana/castilla-leon/unidades-dolor-atencion-primaria-atienden-6000-pacientes-20250913133810-nt.html",
-        "date": "2025-09-13 11:38:10",
-        "sentiment_score": -0.051719099283218384
-    },
-    {
         "title": "La investigación de la dana estrecha el cerco sobre el ‘president’ Mazón",
         "image_url": "https://imagenes.elpais.com/resizer/v2/3ACVGAWPXFHF5FZFNVRBXEUE6I.JPG?auth=66bc8ee82d6f7ca13e673acc7ef637474c4e6f2384d8e6f30358f58c90993576&width=1200",
         "tags": [
@@ -209,78 +170,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-09-13/una-explosion-en-un-bar-de-madrid-causa-al-menos-14-heridos.html",
         "date": "2025-09-13 14:55:22",
         "sentiment_score": -0.7984098810702562
-    },
-    {
-        "title": "El abogado que le ganó un pulso legal a Almeida: Madrid no tendrá cantones en zonas verdes, ni ventajas para las sedes de los partidos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6PMUGSEJSFABFKCPYQSOISCDMY.jpg?auth=d93cb727cab893093455d91b53b84f5230182521bb28fcd31663eb5b9a4cbf06&width=1200",
-        "tags": [
-            "pgou",
-            "abogados",
-            "manuela carmena",
-            "ayuntamiento madrid",
-            "isabel díaz ayuso",
-            "josé luis martínez almeida",
-            "comunidad de madrid",
-            "madrid",
-            "marta higueras garrobo"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-13/el-abogado-que-le-gano-un-pulso-legal-a-almeida-madrid-no-tendra-cantones-en-zonas-verdes-ni-ventajas-para-las-sedes-de-los-partidos.html",
-        "date": "2025-09-13 12:34:36",
-        "sentiment_score": 0.2851671874523163
-    },
-    {
-        "title": "La CUP confirma a Xavier Pellicer como sustituto de Laia Estrada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CIDCEMPHIVAFRDQN4BZY2C3B3A.jpg?auth=490890dc3b9f9a0af43d83d95bc9f38ec1cc5c133d33186781a2ec9b1ec88f8b&width=1200",
-        "tags": [
-            "parlament cataluña",
-            "sabadell (barcelona)",
-            "barcelona",
-            "cataluña",
-            "independencia",
-            "catalán",
-            "política",
-            "cup"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-13/la-cup-confirma-a-xavier-pellicer-como-sustituto-de-laia-estrada.html",
-        "date": "2025-09-13 11:54:42",
-        "sentiment_score": 0.054406970739364624
-    },
-    {
-        "title": "Tres heridos en un tiroteo en Mollet del Vallès",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MA6D7VC3ARDDVL5B6KKADJS2GY.jpg?auth=cb09ce0fc82228a2c73da325e31c04cfa55822c6759dd044836bb4651c656a2d&width=1200",
-        "tags": [
-            "policía",
-            "cataluña",
-            "mossos d'esquadra",
-            "tiroteos",
-            "mollet del vallès",
-            "heridos",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-13/tres-heridos-en-un-tiroteo-en-mollet-del-valles.html",
-        "date": "2025-09-13 11:10:03",
-        "sentiment_score": -0.5205758213996887
-    },
-    {
-        "title": "El juez Peinado demanda a políticos y periodistas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WL2GV3Z2VZCRZA3J43EONDWBUA.jpg?auth=2ae594684014e89e87a4a25887c9b63d9f7ba43a6131db3d14db1f4601033691&width=1200",
-        "tags": [
-            "españa",
-            "delitos",
-            "gobierno",
-            "antón losada",
-            "justicia",
-            "óscar puente santiago",
-            "ernesto ekaizer",
-            "begoña gómez fernández",
-            "jueces",
-            "psoe",
-            "pedro sánchez",
-            "juan carlos peinado"
-        ],
-        "link": "https://elpais.com/espana/2025-09-13/el-juez-peinado-demanda-a-politicos-y-periodistas.html",
-        "date": "2025-09-13 11:08:10",
-        "sentiment_score": -0.8150003645569086
     },
     {
         "title": "1-2. El Real Madrid resiste y vence en Anoeta",
@@ -633,34 +522,6 @@ export default [
         "link": "https://2001online.com/farandula/el-show-de-karol-g-en-el-vaticano-esto-se-sabe-de-su-presentacion-202591310200",
         "date": "2025-09-13 14:20:00",
         "sentiment_score": 0.3975778594613075
-    },
-    {
-        "title": "¿Cuánto recibirás? El Sistema Patria pagará estos bonos y montos del 15 al 20 de septiembre",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757728506621.jpg?ch=675&cw=1200",
-        "tags": [
-            "sistema patria",
-            "cuánto recibirás"
-        ],
-        "link": "https://2001online.com/servicios/cuanto-recibiras-el-sistema-patria-pagara-estos-bonos-y-montos-del-15-al-20-de-septiembre-202591310150",
-        "date": "2025-09-13 14:15:00",
-        "sentiment_score": 0.07557790726423264
-    },
-    {
-        "title": "Slap Fighting: el viral y polémico \"deporte\" de las cachetadas",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757647747447.jpg?ch=675&cw=1200",
-        "tags": [
-            "slap fighting league",
-            "slap fighting",
-            "deportes de contacto",
-            "dana white",
-            "deporte de las cachetadas",
-            "cachetadas",
-            "deporte de alto riesgo",
-            "deportes extremos"
-        ],
-        "link": "https://2001online.com/deportes/slap-fighting-el-viral-y-polemico-deporte-de-las-cachetadas-20259131100",
-        "date": "2025-09-13 14:06:33",
-        "sentiment_score": -0.015352264046669006
     },
     {
         "title": "La selección Colombia es candidata a ganar el mundial de 2026, según un referente de España: “Tienes que estar muy ilusionado”",
@@ -8285,5 +8146,466 @@ export default [
         "link": "https://2001online.com/farandula/la-polemica-subasta-de-eduardo-yanez-que-le-vende-a-sus-seguidores--202591615560",
         "date": "2025-09-16 19:56:00",
         "sentiment_score": 0.27072280645370483
+    },
+    {
+        "title": "Predicción del clima en Madrid para antes de salir de casa este 17 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "madrid",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/17/prediccion-del-clima-en-madrid-para-antes-de-salir-de-casa-este-17-de-septiembre/",
+        "date": "2025-09-17 01:30:40",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "España: el pronóstico del tiempo en Barcelona este 17 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "noticias",
+            "barcelona",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/17/espana-el-pronostico-del-tiempo-en-barcelona-este-17-de-septiembre/",
+        "date": "2025-09-17 01:16:04",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Agatha Ruiz de la Prada asegura en ‘La Revuelta’ que fue expulsada “la primera injustamente” de ‘Bailando con las estrellas’: “Yo creo que estaba todo preparado, de verdad”",
+        "image_url": "https://www.infobae.com/resizer/v2/BSHT56XITFBFPHEGVAVUKFFXIE.png?auth=d4640bb0897c4a0750803e8dbd646d2fd87b3832968854ba3bcf211e8850f2fe&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bailando con las estrellas",
+            "televisión españa",
+            "rtve",
+            "david broncano",
+            "tve",
+            "españa-entretenimiento",
+            "celebridades españa",
+            "españa-noticias",
+            "agatha ruiz de la prada",
+            "la revuelta",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/17/agatha-ruiz-de-la-prada-asegura-en-la-revuelta-que-fue-expulsada-la-primera-injustamente-de-bailando-con-las-estrellas-yo-creo-que-estaba-todo-preparado-de-verdad/",
+        "date": "2025-09-17 00:18:04",
+        "sentiment_score": 0.21322733722627163
+    },
+    {
+        "title": "Un soltero de ‘First Dates’ se sincera sobre cómo fue la aceptación de su tumor cerebral: “No era capaz de mirarme la cara”",
+        "image_url": "https://www.infobae.com/resizer/v2/HFPJ7E33RFFATDTE5I53TTJLQI.png?auth=96e0e7c4ae8a85afb1c96dffa4be91204fd5190bcfe679596ef0abba63d95b30&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "mediaset españa",
+            "cuatro",
+            "first dates",
+            "televisión españa",
+            "programas de televisión",
+            "mediaset",
+            "carlos sobera",
+            "españa-entretenimiento",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/16/un-soltero-de-first-dates-se-sincera-sobre-como-fue-la-aceptacion-de-su-tumor-cerebral-no-era-capaz-de-mirarme-la-cara/",
+        "date": "2025-09-16 23:28:42",
+        "sentiment_score": -0.8375545553863049
+    },
+    {
+        "title": "Comprueba los ganadores del Cupón Diario de la Once del 16 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "cupón diario",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/16/comprueba-los-ganadores-del-cupon-diario-de-la-once-del-16-de-septiembre/",
+        "date": "2025-09-16 23:15:32",
+        "sentiment_score": 0.17068176344037056
+    },
+    {
+        "title": "María Barranco confiesa su flechazo juvenil en ‘El Hormiguero’: “Yo estaba enamoradísima de Imanol Arias, pero nunca me hizo caso”",
+        "image_url": "https://www.infobae.com/resizer/v2/5ROKA76NERCKJN7KDF6KF3JEVI.jpg?auth=389c1210679e7baa65e31def66c9883285305ba5aa796500fbde3f98618e6c18&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "programa de televisión",
+            "pablo motos",
+            "españa-noticias",
+            "televisión españa",
+            "antena 3",
+            "imanol arias",
+            "el hormiguero",
+            "españa-entretenimiento",
+            "maría barranco"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/16/maria-barranco-confiesa-su-flechazo-juvenil-en-el-hormiguero-yo-estaba-enamoradisima-de-imanol-arias-pero-nunca-me-hizo-caso/",
+        "date": "2025-09-16 22:21:37",
+        "sentiment_score": -0.10577959567308426
+    },
+    {
+        "title": "Cuatro detenidos por proyectar imágenes de Trump y Epstein en el Castillo de Windsor",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/09/17/trump-windsor-kqL-U7015736232379tE-1200x840@diario_abc.jpg",
+        "tags": [
+            "reino unido",
+            "estados unidos",
+            "policía",
+            "windsor",
+            "donald trump",
+            "jeffrey epstein"
+        ],
+        "link": "https://www.abc.es/internacional/cuatro-detenidos-proyectar-imagenes-trump-epstein-castillo-20250917022738-nt.html",
+        "date": "2025-09-17 00:27:39",
+        "sentiment_score": -0.12551318109035492
+    },
+    {
+        "title": "Radio Sevilla reivindica su compromiso social y el “orgullo de ser andaluz” en la fiesta de su centenario",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IFUPKA56PVDVJKBIHWTKLUMGRY.jpg?auth=cda5fb8b2f183aa6e4e8a5edd2d1bceb56233d0aa05e07ef88c8e0663dae6c3c&width=1200",
+        "tags": [
+            "juan manuel moreno",
+            "junta andalucía",
+            "medios comunicación",
+            "grupo prisa",
+            "ayuntamiento sevilla",
+            "periodismo",
+            "grupo multimedia",
+            "comunicación",
+            "cadena ser",
+            "radio",
+            "día de andalucía",
+            "diputación provincial sevilla",
+            "grupo comunicación",
+            "estatuto andalucía",
+            "sevilla",
+            "maría jesús montero",
+            "josé luis sanz ruiz (pp)",
+            "andalucía",
+            "iñaki gabilondo"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2025-09-17/radio-sevilla-reivindica-su-compromiso-social-y-el-orgullo-de-ser-andaluz-en-la-fiesta-de-su-centenario.html",
+        "date": "2025-09-17 00:50:54",
+        "sentiment_score": 0.5878974571824074
+    },
+    {
+        "title": "Los números que avalan a Gelabert en el Sporting: mucho más que un llegador",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2a0c8346-ad34-4340-af2b-ca7ad8ab5347_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "palencia",
+            "plantilla",
+            "estadística",
+            "goles"
+        ],
+        "link": "https://www.lne.es/sporting/2025/09/17/numeros-avalan-gelabert-sporting-llegador-121650730.html",
+        "date": "2025-09-17 02:15:00",
+        "sentiment_score": 0.4078284651041031
+    },
+    {
+        "title": "Un ‘Pirata’ entre las sombras",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3476527.jpg",
+        "tags": [
+            "primera división",
+            "vedat muriqi",
+            "real mallorca",
+            "rcd mallorca",
+            "última hora",
+            "fútbol",
+            "laliga",
+            "ultimas noticias"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/09/17/2471545/pirata-entre-sombras.html",
+        "date": "2025-09-17 02:00:01",
+        "sentiment_score": 0.0013058185577392578
+    },
+    {
+        "title": "Guerra en la izquierda valenciana: imputan a dos concejales de Compromís denunciados por uno del PSOE",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/04/29/6811073604780.r_d.784-428-8000.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250917/guerra-izquierda-valenciana-imputan-dos-concejales-compromis-denunciados-psoe_335035.html",
+        "date": "2025-09-17 02:00:00",
+        "sentiment_score": -0.7640928961336613
+    },
+    {
+        "title": "Leyenda española reveló la instancia a la que llegará Colombia en el mundial de 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/ARWLK6GOGFAKTBLOI4KOUNBXCM.png?auth=dbc9a0fafeebbeb7611d42d6f8a77ec5678218a78d5fec930dc65ae457bba5c6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "néstor lorenzo",
+            "josé maría gutiérrez hernández",
+            "guti",
+            "selección colombia",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/09/17/leyenda-espanola-revelo-la-instancia-a-la-que-llegara-colombia-en-el-mundial-de-2026/",
+        "date": "2025-09-17 01:44:56",
+        "sentiment_score": 0.8185973092913628
+    },
+    {
+        "title": "Mensaje sin tapujos de Xabi Alonso a Vinicius tras su suplencia: \"Nadie puede sentirse ofendido\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1462x524:1464x522)/origin-imgresizer.eurosport.com/2025/09/17/image-eb39aea1-e4e7-44d1-b711-e4fbb2a77b45-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.eurosport.es/futbol/champions-league/2025-2026/mensaje-sin-tapujos-xabi-alonso-a-vinicius-nadie-puede-sentirse-ofendido_vid60028894/video.shtml",
+        "date": "2025-09-17 01:17:04",
+        "sentiment_score": 0.2781563103199005
+    },
+    {
+        "title": "De Zerbi estalla tras perder en el Santiago Bernabéu: \"El segundo penalti es un poco vergonzoso\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1301x650:1303x648)/origin-imgresizer.eurosport.com/2025/09/16/image-44f94070-c9ed-45ff-9f22-e94beb6a5a97-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/roberto-de-zerbi-estalla-tras-perder-en-el-santiago-bernabeu-el-segundo-penalti-es-un-poco-vergonzoso_vid60028893/video.shtml",
+        "date": "2025-09-17 01:04:58",
+        "sentiment_score": -0.773611506447196
+    },
+    {
+        "title": "Dónde ver PSG vs Atalanta en Perú: canal TV online del partido por la fecha 1 de la Champions League",
+        "image_url": "https://www.infobae.com/resizer/v2/5GGBADVV4BCXHDRQYZVBPEFZFQ.jpg?auth=ca6eab9489138d4ec539296a1e7302e98120203cdddf5b499f3ec2cac6c98064&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "atalanta",
+            "champions league",
+            "peru-deportes",
+            "psg"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/09/17/donde-ver-psg-vs-atalanta-en-peru-canal-tv-online-del-partido-por-la-fecha-1-de-la-champions-league/",
+        "date": "2025-09-17 01:03:10",
+        "sentiment_score": 0.3257288970053196
+    },
+    {
+        "title": "Mbappé acepta la presión para dar lo mejor de sí al alcanzar 50 goles con el Real Madrid",
+        "image_url": "https://dims.apnews.com/dims4/default/8559ae7/2147483647/strip/true/crop/4719x3141+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F31%2F39%2F5fc03894b8e3248eb866560c979a%2Fc47842d119974308be3524f168d56e2e",
+        "tags": [
+            "sports",
+            "deportes",
+            "real madrid campeones kylian mbappe marsella"
+        ],
+        "link": "https://apnews.com/article/real-madrid-campeones-kylian-mbappe-marsella-ac6696f859a8b03921b7023ee209529f",
+        "date": "2025-09-17 00:55:28",
+        "sentiment_score": 0.3705838732421398
+    },
+    {
+        "title": "Dani Jarque tendrá su estrella en Castelldefels",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/09/dani-jarque-estrella-castelldefels-750x422.jpg",
+        "tags": [
+            "primer equipo y club"
+        ],
+        "link": "https://www.lagradaonline.com/dani-jarque-estrella-paseo-castelldefels-espanyol/",
+        "date": "2025-09-17 02:00:11",
+        "sentiment_score": 0.32463694363832474
+    },
+    {
+        "title": "Un Menorca Groove más electrónico con el DJ Toribio como cabeza de cartel",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3476265.jpg",
+        "tags": [
+            "cultura",
+            "menorca groove festival"
+        ],
+        "link": "https://www.menorca.info/menorca/cultura/2025/09/17/2471425/menorca-groove-mas-electronico-toribio-como-cabeza-cartel.html",
+        "date": "2025-09-17 02:00:01",
+        "sentiment_score": 0.4753183200955391
+    },
+    {
+        "title": "Carla Gracia: «Mi madre se opuso a que publicara un libro donde decía que odiaba a mi hijo»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3475293.jpg",
+        "tags": [
+            "literatura en mallorca",
+            "cultura en mallorca",
+            "cultura",
+            "setmana del llibre en català"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/09/17/2470739/carla-gracia-madre-opuso-publicara-libro-donde-decia-odiaba-hijo.html",
+        "date": "2025-09-17 02:00:01",
+        "sentiment_score": -0.3943900913000107
+    },
+    {
+        "title": "Pep Crespí, talento entre galácticos",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3474249.jpg",
+        "tags": [
+            "primera división",
+            "real mallorca",
+            "liga de naciones",
+            "fútbol",
+            "laliga",
+            "champions league",
+            "europa league",
+            "copa del rey"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/09/17/2470125/pep-crespi-talento-entre-galacticos.html",
+        "date": "2025-09-17 02:00:01",
+        "sentiment_score": -0.003838956356048584
+    },
+    {
+        "title": "Dónde ver River Plate vs Palmeiras en Perú: canal TV online del partido de ida por cuartos de final de Copa Libertadores 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/MZ6UAUIEPFA2FLGW2LQ5GPKSJI.jpg?auth=152d71e20c6346d7870b30547aae17653c18b844d37dec7529e1c0902771f599&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "peru-deportes",
+            "copa libertadores",
+            "river plate",
+            "palmeiras"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/09/17/donde-ver-river-plate-vs-palmeiras-en-peru-canal-tv-online-del-partido-por-la-ida-de-cuartos-de-final-de-la-copa-libertadores/",
+        "date": "2025-09-17 01:53:58",
+        "sentiment_score": 0.6236323937773705
+    },
+    {
+        "title": "El recital de Messi en la “revancha” del Inter Miami ante Seattle: gol de 9, asistencia y una jugada para cerrar el estadio",
+        "image_url": "https://www.infobae.com/resizer/v2/LZU7GX3V3BBYNL5RLTBRSSEVEI.jpg?auth=7cfaa4cd66de19f89baa168a3a181022090b395fdc11468dec7fb78adcf7ae91&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "lionel messi",
+            "mls",
+            "deportes-argentina",
+            "inter miami",
+            "deportes-internacional",
+            "seattle sounders"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/17/el-recital-de-messi-en-la-revancha-del-inter-miami-ante-seattle-gol-de-9-asistencia-y-una-jugada-para-cerrar-el-estadio/",
+        "date": "2025-09-17 01:38:27",
+        "sentiment_score": 0.868292173370719
+    },
+    {
+        "title": "El auge del ácido poliláctico, la moda de los VIP: Qué efectos tiene este tratamiento",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/09/fotonoticia-20230428135617-1200_1600_1067.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://elcierredigital.com/salud-y-bienestar/auge-acido-polilactico-moda-vip-efectos-tratamiento",
+        "date": "2025-09-17 01:30:00",
+        "sentiment_score": 0.6952482201159
+    },
+    {
+        "title": "La planta de biomasa",
+        "image_url": "https://imagenes.diariodeleon.eshttps//imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/250917/2060032/planta-biomasa.html",
+        "date": "2025-09-17 01:30:00",
+        "sentiment_score": -0.8234854619950056
+    },
+    {
+        "title": "Ley de Ajuste Venezolano en EEUU: ¿Cumples este requisito clave para conseguir la residencia? La mayoría lo ignora",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758068334988.jpg?ch=675&cw=1200",
+        "tags": [
+            "venezolanos",
+            "tps",
+            "ciudadanía"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ley-de-ajuste-venezolano-en-eeuu-cumples-este-requisito-clave-para-conseguir-la-residencia-la-mayoria-lo-ignora-20259162200",
+        "date": "2025-09-17 02:00:00",
+        "sentiment_score": 0.01632808893918991
+    },
+    {
+        "title": "Maduro reacciona al informe del Departamento de Estado de EE.UU.: Es una narrativa inmoral para atacarme",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758072660979.jpg?ch=675&cw=1200",
+        "tags": [
+            "diario 2001",
+            "venezuela",
+            "eeuu",
+            "informe",
+            "descertificado",
+            "narcotráfico",
+            "departamento de estado"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-reacciona-al-informe-del-departamento-de-estado-de-ee-uu-es-una-narrativa-inmoral-para-atacarme-202591621430",
+        "date": "2025-09-17 01:43:00",
+        "sentiment_score": -0.5906541831791401
+    },
+    {
+        "title": "¡Sorpresa mundial! El nuevo plan de YouTube para una era de creadores con IA",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758074185296.jpg?ch=675&cw=1200",
+        "tags": [
+            "youtube",
+            "ia",
+            "inteligencia artificial",
+            "youtubers"
+        ],
+        "link": "https://2001online.com/curiosidades/sorpresa-mundial-el-nuevo-plan-de-youtube-para-una-era-de-creadores-con-ia--202591621380",
+        "date": "2025-09-17 01:38:00",
+        "sentiment_score": 0.46968317590653896
+    },
+    {
+        "title": "Sistema Patria: inicia el pago de un megabono",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758071023017.jpg?ch=675&cw=1200",
+        "tags": [
+            "patria",
+            "megabonos",
+            "dinero",
+            "sistema patria"
+        ],
+        "link": "https://2001online.com/servicios/sistema-patria-inicia-el-pago-de-un-megabono-202591621300",
+        "date": "2025-09-17 01:30:00",
+        "sentiment_score": 0.18687604553997517
+    },
+    {
+        "title": "El miedo reina en el cine: todo sobre la película de terror que rompe récord en taquilla",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758072333805.jpg?ch=675&cw=1200",
+        "tags": [
+            "el conjuro 4",
+            "el conjunro",
+            "cine de terror"
+        ],
+        "link": "https://2001online.com/farandula/el-miedo-reina-en-el-cine-todo-sobre-la-pelicula-de-terror-que-rompe-record-en-taquilla-202591621250",
+        "date": "2025-09-17 01:25:00",
+        "sentiment_score": 0.8572608940303326
+    },
+    {
+        "title": "Kodak lanza una mini cámara de llavero con estilo vintage: conoce su precio y especificaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758039130301.jpg?ch=675&cw=1200",
+        "tags": [
+            "charmera",
+            "kodak",
+            "vintage",
+            "reto"
+        ],
+        "link": "https://2001online.com/usa/curiosidades/kodak-lanza-una-mini-camara-de-llavero-con-estilo-vintage-conoce-su-precio-y-especificaciones-202591620150",
+        "date": "2025-09-17 00:15:00",
+        "sentiment_score": 0.5235784091055393
+    },
+    {
+        "title": "Hidrata tus manos y ahorra dinero: así puedes preparar una crema casera rica en vitaminas a base de aloe vera",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758049740326.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/hidrata-tus-manos-y-ahorra-dinero-asi-puedes-preparar-una-crema-casera-rica-en-vitaminas-a-base-de-aloe-vera-20259162050",
+        "date": "2025-09-17 00:05:00",
+        "sentiment_score": -0.8384753689169884
+    },
+    {
+        "title": "Maquillaje minimalista: resalta tu belleza natural con menos productos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757952572523.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/maquillaje-minimalista-resalta-tu-belleza-natural-con-menos-productos-20259162000",
+        "date": "2025-09-17 00:00:00",
+        "sentiment_score": 0.5722570009529591
+    },
+    {
+        "title": "Alisa el cabello con esta efectiva mascarilla casera: usa aceite de oliva y dos ingredientes que siempre están en tu cocina",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758048551862.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/alisa-el-cabello-con-esta-efectiva-mascarilla-casera-usa-aceite-de-oliva-y-dos-ingredientes-que-siempre-estan-en-tu-cocina-20259162000",
+        "date": "2025-09-17 00:00:00",
+        "sentiment_score": -0.6618798635900021
+    },
+    {
+        "title": "Corpoelec denuncia un nuevo ataque terrorista contra el Sistema Eléctrico Nacional",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758067019050.jpg?ch=675&cw=1200",
+        "tags": [
+            "diario 2001",
+            "energía eléctrica",
+            "venezuela",
+            "luz"
+        ],
+        "link": "https://2001online.com/nacionales/corpoelec-denuncia-un-nuevo-ataque-terrorista-contra-el-sistema-electrico-nacional-20259162000",
+        "date": "2025-09-17 00:00:00",
+        "sentiment_score": -0.7933539506047964
     }
 ];
