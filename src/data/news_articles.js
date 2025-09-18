@@ -152,22 +152,6 @@ export default [
         "sentiment_score": -0.11919046938419342
     },
     {
-        "title": "Caos en los controles del aeropuerto de Barajas por la huelga del personal de seguridad",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/09/14/caos-barajas.jpg",
-        "tags": [
-            "seguridad",
-            "barajas",
-            "aeropuerto",
-            "personal",
-            "huelga",
-            "caos",
-            "controles"
-        ],
-        "link": "https://www.abc.es/economia/caos-controles-aeropuerto-barajas-huelga-personal-seguridad-20250914122030-nt.html",
-        "date": "2025-09-14 10:22:21",
-        "sentiment_score": -0.7465843018144369
-    },
-    {
         "title": "La ultraderecha ‘condena’ a la izquierda en Madrid por el asesinato del “mártir” Charlie Kirk",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JMT5DTZ7O5JXVCF2SR57UFFNFQ.jpg?auth=012cb2b063f028bbf7ecbaec06871128c007e71d6d7eb5caef931c0affc9fd31&width=1200",
         "tags": [
@@ -201,67 +185,6 @@ export default [
         "link": "https://elpais.com/espana/galicia/2025-09-14/galicia-clama-contra-la-politica-antiincendios-de-la-xunta-queremos-un-gobierno-que-nos-quiera.html",
         "date": "2025-09-14 16:02:48",
         "sentiment_score": -0.8861284237354994
-    },
-    {
-        "title": "Feijóo combate a Vox en el campo: “No aceptamos lecciones de quien abandona gobiernos y no soluciona problemas”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NGIJ342NUVJRRGQVSR2XAQEDMQ.jpg?auth=935469641148d24f69efb9f70a6c6704de8bdc1ac5acae1cc52e6091b9c78f15&width=1200",
-        "tags": [
-            "pedro sánchez",
-            "pp",
-            "vox",
-            "españa",
-            "psoe",
-            "alberto núñez feijóo",
-            "dana",
-            "incendios",
-            "santiago abascal"
-        ],
-        "link": "https://elpais.com/espana/2025-09-14/feijoo-combate-a-vox-en-el-campo-no-aceptamos-lecciones-de-quien-abandona-gobiernos-y-no-solucionan-problemas.html",
-        "date": "2025-09-14 13:04:54",
-        "sentiment_score": -0.8376758359372616
-    },
-    {
-        "title": "Sánchez muestra su “admiración” por las protestas en La Vuelta: “Un pueblo que se moviliza por causas justas como Palestina”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Z3TYGV5CJVIOBDSQZ3OBPQTRHY.jpg?auth=b3911f514c38be20359e535f25a59b6cc57c5c880391271d766b07e27d97f61d&width=1200",
-        "tags": [
-            "pedro sánchez",
-            "franja gaza",
-            "vuelta españa",
-            "psoe-a",
-            "genocidio",
-            "españa",
-            "conflicto árabe-israelí"
-        ],
-        "link": "https://elpais.com/espana/2025-09-14/sanchez-muestra-su-admiracion-por-las-protestas-en-la-vuelta-un-pueblo-que-se-moviliza-por-causas-justas-como-palestina.html",
-        "date": "2025-09-14 11:54:18",
-        "sentiment_score": 0.8430689703673124
-    },
-    {
-        "title": "El Gobierno insta a las plataformas digitales a que retiren 53.000 pisos turísticos que presentan irregularidades",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4BQFLZPLZVKFHL5WGCNXOPJAKU.jpg?auth=f4da8b65afd943edd02aa22ff6c6e86f0d25ac58322596074c47cdbd5735bf5d&width=1200",
-        "tags": [
-            "financiación",
-            "españa",
-            "psoe-a",
-            "junta andalucía",
-            "gobierno",
-            "vivienda",
-            "elecciones andaluzas",
-            "alberto núñez feijóo",
-            "pp-a",
-            "juan manuel moreno",
-            "sanidad",
-            "psoe",
-            "presupuestos generales estado",
-            "dependencia",
-            "pp",
-            "andalucía",
-            "pedro sánchez",
-            "maría jesús montero"
-        ],
-        "link": "https://elpais.com/espana/2025-09-14/el-gobierno-insta-a-las-plataformas-digitales-a-que-retiren-53000-pisos-turisticos-que-presentan-irregularidades.html",
-        "date": "2025-09-14 11:08:20",
-        "sentiment_score": -0.3675530478358269
     },
     {
         "title": "Las protestas en favor de Palestina obligan a suspender la etapa final de La Vuelta",
@@ -608,35 +531,6 @@ export default [
         "link": "https://2001online.com/sucesos/detenidos-en-el-hatillo-asi-extorsionaron-a-una-mujer-para-obtener-beneficios-202591410550",
         "date": "2025-09-14 14:55:00",
         "sentiment_score": 0.02518346905708313
-    },
-    {
-        "title": "Jornada para apertura de cuenta por primera vez del 16 al 19 de septiembre: aquí los requisitos",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757730539728.jpg?ch=675&cw=1200",
-        "tags": [
-            "requisitos",
-            "jornada para apertura de cuenta"
-        ],
-        "link": "https://2001online.com/servicios/jornada-para-apertura-de-cuenta-por-primera-vez-del-16-al-19-de-septiembre-aqui-los-requisitos-202591410100",
-        "date": "2025-09-14 14:10:00",
-        "sentiment_score": 0.10752465575933456
-    },
-    {
-        "title": "El negocio de los logos: estas son las marcas que visten a los héroes del deporte",
-        "image_url": "https://pxcdn.2001online.com/2001/092025/1757731698436.jpg?ch=675&cw=1200",
-        "tags": [
-            "stephen curry",
-            "lebron james",
-            "under armour",
-            "nike",
-            "lionel messi",
-            "usain bolt",
-            "michael jordan",
-            "adidas",
-            "marcas"
-        ],
-        "link": "https://2001online.com/deportes/el-negocio-de-los-logos-estas-son-las-marcas-que-visten-a-los-heroes-del-deporte-202591410450",
-        "date": "2025-09-14 14:07:30",
-        "sentiment_score": 0.4864848516881466
     },
     {
         "title": "Abascal acusa a Sánchez de querer \"la violencia en las calles\" para \"mantener el poder\" tras suspenderse la Vuelta",
@@ -8758,5 +8652,448 @@ export default [
         "link": "https://2001online.com/deportes/yulimar-rojas-va-por-el-oro-en-la-final-del-mundial-de-atletismo-202591717190",
         "date": "2025-09-17 21:19:00",
         "sentiment_score": 0.3014736995100975
+    },
+    {
+        "title": "Pronóstico del estado del tiempo: las temperaturas que se esperan en Madrid este 18 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "tiempo en españa",
+            "españa noticias",
+            "noticias",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/18/pronostico-del-estado-del-tiempo-las-temperaturas-que-se-esperan-en-madrid-este-18-de-septiembre/",
+        "date": "2025-09-18 01:30:57",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Silvia Alonso condena el “genocidio” en Gaza y llama a “alinearnos frente a la barbarie” en ‘La Revuelta’: “Es tan atroz que debería estar por encima de ser de derechas o de izquierdas”",
+        "image_url": "https://www.infobae.com/resizer/v2/P46LD5EELFC67GJ77UF4FCHL24.webp?auth=a253f88d4d9b16d4f8174912c848c3786495164713e68a92889f22233634e312&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "david broncano",
+            "silvia alonso",
+            "televisión españa",
+            "gaza",
+            "rtve",
+            "la revuelta",
+            "tve",
+            "españa-televisión",
+            "españa-entretenimiento",
+            "palestina",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/18/silvia-alonso-condena-el-genocidio-en-gaza-y-llama-a-alinearnos-frente-a-la-barbarie-en-la-revuelta-es-tan-atroz-que-deberia-estar-por-encima-de-ser-de-derechas-o-de-izquierdas/",
+        "date": "2025-09-18 00:23:46",
+        "sentiment_score": -0.5881636925041676
+    },
+    {
+        "title": "Las mejores películas en Prime Video en España hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "streaming",
+            "españa-televisión",
+            "noticias",
+            "prime video",
+            "películas"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/09/17/las-mejores-peliculas-en-prime-video-en-espana-hoy/",
+        "date": "2025-09-17 23:30:40",
+        "sentiment_score": 0.5203738547861576
+    },
+    {
+        "title": "Ganadores del Cupón Diario de la Once de este 17 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/17/ganadores-del-cupon-diario-de-la-once-de-este-17-de-septiembre/",
+        "date": "2025-09-17 23:15:54",
+        "sentiment_score": 0.24943749979138374
+    },
+    {
+        "title": "Abascal considera que Sánchez podría hacer una “trampa electoral” para “alterar” el resultado de las próximas elecciones: “Un psicópata que no tiene ningún límite moral”",
+        "image_url": "https://www.infobae.com/resizer/v2/G7RZLH2XXBFL7LDQW75K2OXHXQ.jpg?auth=218a2d899c337f90a3dde7316e2ddc070fe443b8dde8c0ca74d5e17d2952628b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "fraude electoral",
+            "telemadrid",
+            "vox",
+            "elecciones en españa",
+            "santiago abascal",
+            "españa-nacional",
+            "españa política",
+            "psoe",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/17/abascal-considera-que-sanchez-podria-hacer-una-trampa-electoral-para-alterar-el-resultado-de-las-proximas-elecciones-un-psicopata-que-no-tiene-ningun-limite-moral/",
+        "date": "2025-09-17 23:06:34",
+        "sentiment_score": -0.8807442327961326
+    },
+    {
+        "title": "El fiscal general pide al TS que le retire la fianza por el juicio sobre la presunta filtración contra el novio de Ayuso",
+        "image_url": "https://www.infobae.com/resizer/v2/ODODC7G4ZRGHFJISIDWTGRIUMQ.jpg?auth=815a91d4d11fd85c45ffa77cf13357bb4b0293d13cbeb94f55140adaaa142d1a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/17/el-fiscal-general-pide-al-ts-que-le-retire-la-fianza-por-el-juicio-sobre-la-presunta-filtracion-contra-el-novio-de-ayuso/",
+        "date": "2025-09-17 22:45:52",
+        "sentiment_score": -0.7266753148287535
+    },
+    {
+        "title": "Un hombre armado mata a tres policías y hiere a otros dos en Pensilvania, EE.UU.",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/09/18/ABC-ultima-hora-kmW-U701581133062gjC-1200x840@diario_abc.jpg",
+        "tags": [
+            "estados unidos"
+        ],
+        "link": "https://www.abc.es/internacional/hombre-armado-mata-tres-policias-hiere-dos-20250918012227-nt.html",
+        "date": "2025-09-17 23:22:28",
+        "sentiment_score": -0.7682227361947298
+    },
+    {
+        "title": "Mbappé se une a Oakley y Meta para lanzar un dispositivo que fusiona tecnología y elegancia",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/20/2025032001040758178.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/mbappe-se-une-a/20250918040015356524.html",
+        "date": "2025-09-18 02:00:15",
+        "sentiment_score": 0.6170357801020145
+    },
+    {
+        "title": "El PSOE admite su impotencia frente a la 'Ayuso' del PP en la Comunidad Valenciana",
+        "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2025/09/09/68c0038a1c1da.r_d.2194-971-0.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250918/psoe-admite-impotencia-frente-ayuso-pp-comunidad-valenciana_335377.html",
+        "date": "2025-09-18 02:00:00",
+        "sentiment_score": -0.928785135038197
+    },
+    {
+        "title": "Moncloa-San Telmo: otro año en punto muerto",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2024/09/20/AD2D0781-E44B-4D71-93E0-6FD80B64A34B/69.jpg?crop=6260%2C3521%2Cx0%2Cy247&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/moncloasan-telmo-otro-ano-punto-muerto_2025091868cb5dd4bc8f701b2f7418a0.html",
+        "date": "2025-09-18 01:18:12",
+        "sentiment_score": -0.9035858837887645
+    },
+    {
+        "title": "El pintor Joaquín Valverde",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valverde",
+            "pintor",
+            "joaquin"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/pintor-joaquin-valverde_0_2004807614.html",
+        "date": "2025-09-18 01:09:55",
+        "sentiment_score": 0.10255232453346252
+    },
+    {
+        "title": "Los ataques personales y el clima electoral impiden que Sánchez y Feijóo pacten una política contra Netanyahu",
+        "image_url": "https://s2.elespanol.com/2025/09/17/actualidad/1003743929929_258790983_1706x960.jpg?contentId=1003743929929",
+        "tags": [
+            "congreso de los diputados",
+            "israel",
+            "alberto núñez feijóo",
+            "política",
+            "pedro sánchez",
+            "partido popular (pp)",
+            "sáhara",
+            "psoe (partido socialista obrero español)"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250918/ataques-personales-clima-electoral-impiden-sanchez-feijoo-pacten-politica-netanyahu/1003743929716_0.html",
+        "date": "2025-09-18 00:25:12",
+        "sentiment_score": -0.8506316859275103
+    },
+    {
+        "title": "El campeón PSG arrasa y Liverpool se impone en la agonía en arranque de la Liga de Campeones",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/ccec32d/2147483647/strip/true/crop/4862x2553+0+344/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8d%2Fca%2Fce4a1ac94db5a77d6311b4fe61cb%2F2ae0f57156574107b9b8efae92d08eff.jpg",
+        "tags": [
+            "entertainment",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-09-17/el-campeon-psg-arrasa-y-liverpool-se-impone-en-la-agonia-en-arranque-de-la-liga-de-campeones",
+        "date": "2025-09-18 00:13:07",
+        "sentiment_score": 0.85367152094841
+    },
+    {
+        "title": "Un torrelaveguense de juego limpio que militó en primera división",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2025/09/17/obituario%20carlos%20garcia-kvgB--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "fútbol",
+            "melilla",
+            "segunda división",
+            "real madrid",
+            "obituarios cantabria",
+            "club atlético osasuna",
+            "real sociedad gimnástica de torrelavega"
+        ],
+        "link": "https://www.eldiariomontanes.es/obituarios/torrelaveguense-juego-limpio-milito-primera-division-20250918071933-nt.html",
+        "date": "2025-09-18 00:00:00",
+        "sentiment_score": -0.06782180070877075
+    },
+    {
+        "title": "El precio de la violencia política",
+        "image_url": "https://s2.elespanol.com/2025/09/11/actualidad/1003743921630_258636396_1706x960.jpg?contentId=1003743921630",
+        "tags": [
+            "opinión",
+            "columnas de opinión",
+            "política"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20250917/precio-violencia-politica/1003743929685_13.html",
+        "date": "2025-09-17 23:56:58",
+        "sentiment_score": -0.5231125801801682
+    },
+    {
+        "title": "La auténtica relación de la viuda de Manolo Zarzo con sus hijos mayores: comidas familiares y las \"medias verdades\" de Flavia",
+        "image_url": "https://s2.elespanol.com/2025/09/17/actualidad/1003743928721_258766071_1706x960.jpg?contentId=1003743928721",
+        "tags": [
+            "actores",
+            "famosos",
+            "muertes",
+            "familia"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20250917/autentica-relacion-viuda-manolo-zarzo-hijos-mayores-comidas-familiares-medias-verdades-flavia/1003743928712_0.html",
+        "date": "2025-09-17 23:33:00",
+        "sentiment_score": -0.5693702548742294
+    },
+    {
+        "title": "Un PSG arrollador, un Bayern imponiendo condiciones ante el Chelsea, así transcurrió la jornada de la Champions League",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/09/17/psg-atalanta-bayern-chelsea-jornada-champions-league-orix/",
+        "date": "2025-09-17 23:03:44",
+        "sentiment_score": 0.6988593935966492
+    },
+    {
+        "title": "Rosell y Bartomeu, citados este jueves a declarar como investigados en el 'caso Negreira'",
+        "image_url": "https://www.infobae.com/resizer/v2/IC7IVMSKIJGA3JFAULBJ4OVYIQ.jpg?auth=a2bb368d7a38c5b3ab566fdfca10aa5c2e76b721bc77da806dd36e6fc4c417cd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/09/18/rosell-y-bartomeu-citados-este-jueves-a-declarar-como-investigados-en-el-caso-negreira/",
+        "date": "2025-09-18 02:15:20",
+        "sentiment_score": -0.23914631828665733
+    },
+    {
+        "title": "Luto en la abogacía por Cristino Abel Díaz y Marta Felgueroso",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc7e7261-e45f-4242-9ef4-c36de037c5d6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "colegio",
+            "díaz",
+            "iglesia"
+        ],
+        "link": "https://www.lne.es/gijon/2025/09/18/luto-abogacia-cristino-abel-diaz-121689761.html",
+        "date": "2025-09-18 02:09:00",
+        "sentiment_score": -0.7790954448282719
+    },
+    {
+        "title": "Rosell y Bartomeu, citados este jueves a declarar como investigados en el 'caso Negreira'",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250918040048_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-rosell-bartomeu-citados-jueves-declarar-investigados-caso-negreira-20250918040048.html",
+        "date": "2025-09-18 02:00:48",
+        "sentiment_score": -0.2905487008392811
+    },
+    {
+        "title": "El expresident Pere Aragonès se reinventa: Su negocio hotelero y sus sombras fiscales",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/09/aragones_1600_1067.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://elcierredigital.com/investigacion/expresident-pere-aragones-se-reinventa-negocio-hotelero-sombras-fiscales",
+        "date": "2025-09-18 01:30:00",
+        "sentiment_score": 0.29462166130542755
+    },
+    {
+        "title": "Muescas olímpicas",
+        "image_url": "https://imagenes.diariodeleon.eshttps//imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/250918/2060143/muescas-olimpicas.html",
+        "date": "2025-09-18 01:30:00",
+        "sentiment_score": 0.36236006394028664
+    },
+    {
+        "title": "El cambio climático en Europa: Barcelona, la tercera ciudad con más muertes por calor en verano",
+        "image_url": "https://album.mediaset.es/eimg/2025/07/08/ola-de-calor_3e04.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20250918/barcelona-cambio-climatico-ciudad-muertes-calor-verano_18_016612605.html",
+        "date": "2025-09-18 01:00:53",
+        "sentiment_score": -0.7396655846387148
+    },
+    {
+        "title": "Cuánto tendrá que pagar Dani Alves a Pumas tras perder la demanda ante el TAS",
+        "image_url": "https://www.infobae.com/resizer/v2/42TDKGYA5VH5JP3RVATXC362G4.jpg?auth=eee9933f46b99c10a471778e028760954d74bd46a334c96dc35cfdd764d62b8d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "pumas",
+            "liga mx",
+            "dani alves",
+            "tas",
+            "mexico-deportes",
+            "fifa"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/09/18/cuanto-tendra-que-pagar-dani-alves-a-pumas-tras-perder-la-demanda-ante-el-tas/",
+        "date": "2025-09-18 00:41:23",
+        "sentiment_score": -0.8985458230599761
+    },
+    {
+        "title": "La nueva vida de Àlex Torío, el profesor que deja la educación con \"tristeza y enfado\": \"No creo en los métodos de evaluación\"",
+        "image_url": "https://s2.elespanol.com/2025/09/17/actualidad/1003743929699_258786780_1706x960.jpg?contentId=1003743929699",
+        "tags": [
+            "profesorado",
+            "vuelta al cole",
+            "educación",
+            "españa",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250918/nueva-vida-alex-torio-profesor-deja-educacion-tristeza-enfado-no-creo-metodos-evaluacion/1003743929672_0.html",
+        "date": "2025-09-18 00:25:10",
+        "sentiment_score": -0.8878928627818823
+    },
+    {
+        "title": "Mohammed huyó de Gaza tras pagar 6.000 € y llegó a Valencia por una española en Instagram: \"Mataron a mi prometida\"",
+        "image_url": "https://s2.elespanol.com/2025/09/17/reportajes/1003743929729_258787124_1706x960.jpg?contentId=1003743929729",
+        "tags": [
+            "palestina",
+            "reportajes",
+            "israel"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250918/mohammed-huyo-gaza-pagar-eur-llego-valencia-espanola-instagram-mataron-prometida/1003743929658_0.html",
+        "date": "2025-09-18 00:25:09",
+        "sentiment_score": -0.6428147628903389
+    },
+    {
+        "title": "De la pantalla a la polémica: Gaby Espino y sus respuestas sin filtro en redes",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758162011118.jpg?ch=675&cw=1200",
+        "tags": [
+            "instagram",
+            "gaby espino"
+        ],
+        "link": "https://2001online.com/farandula/de-la-pantalla-a-la-polemica-gaby-espino-y-sus-respuestas-sin-filtro-en-redes--202591722160",
+        "date": "2025-09-18 02:16:00",
+        "sentiment_score": -0.2529127672314644
+    },
+    {
+        "title": "Dile adiós a las manchas en las axilas con esta fórmula natural: mezcla dos ingredientes muy populares que siempre tienes en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758161263394.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/dile-adios-a-las-manchas-en-las-axilas-con-esta-formula-natural-mezcla-dos-ingredientes-muy-populares-que-siempre-tienes-en-casa-202591722100",
+        "date": "2025-09-18 02:10:00",
+        "sentiment_score": -0.8171360231935978
+    },
+    {
+        "title": "No pierdas tu dinero: La nueva fecha límite del IRS para reclamar un reembolso",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758156714941.jpg?ch=675&cw=1200",
+        "tags": [
+            "impuesto",
+            "reembolso",
+            "irs"
+        ],
+        "link": "https://2001online.com/usa/servicios/no-pierdas-tu-dinero-la-nueva-fecha-limite-del-irs-para-reclamar-un-reembolso-20259172200",
+        "date": "2025-09-18 02:00:00",
+        "sentiment_score": 0.18705200403928757
+    },
+    {
+        "title": "Skincare para tu tipo de piel: los pasos clave para una piel radiante según una experta",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1757949354228.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/skincare-para-tu-tipo-de-piel-los-pasos-clave-para-una-piel-radiante-segun-una-experta-20259172200",
+        "date": "2025-09-18 02:00:00",
+        "sentiment_score": 0.5427167899906635
+    },
+    {
+        "title": "Este condado de Illinois se enfrenta a ICE: presentan una resolución para denunciar sus prácticas engañosas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758157445933.jpg?ch=675&cw=1200",
+        "tags": [
+            "migración",
+            "denuncias al ice",
+            "ice",
+            "illinois"
+        ],
+        "link": "https://2001online.com/usa/servicios/este-condado-de-illinois-se-enfrenta-a-ice-presentan-una-resolucion-para-denunciar-sus-practicas-enganosas-202591721450",
+        "date": "2025-09-18 01:45:00",
+        "sentiment_score": 0.42987844347953796
+    },
+    {
+        "title": "El legado de Johan Santana en la MLB: así fue su inspiradora historia para conquistar dos premios Cy Young",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758160462225.jpg?ch=675&cw=1200",
+        "tags": [
+            "johan santana"
+        ],
+        "link": "https://2001online.com/deportes/el-legado-de-johan-santana-en-la-mlb-asi-fue-su-inspiradora-historia-para-conquistar-dos-premios-cy-young-202591721240",
+        "date": "2025-09-18 01:24:00",
+        "sentiment_score": 0.7612116821110249
+    },
+    {
+        "title": "El corredor que rompió los límites: los récords mundiales de Usain Bolt",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758153253757/Usain_Bolt_16082009_Berlin.jpeg?ch=675&cw=1200",
+        "tags": [
+            "jj.oo.",
+            "carreras olímpicas",
+            "récords de usain bolt",
+            "atletismo",
+            "usain bolt",
+            "medallas de usain bolt",
+            "jamaica",
+            "juegos olímpicos"
+        ],
+        "link": "https://2001online.com/deportes/el-corredor-que-rompio-los-limites-los-records-mundiales-de-usain-bolt-202591721450",
+        "date": "2025-09-18 01:07:21",
+        "sentiment_score": 0.6356355957686901
+    },
+    {
+        "title": "Diversos estados registran lluvias y descargas eléctricas: onda tropical 35 transita por el país",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758157131519.jpg?ch=675&cw=1200",
+        "tags": [
+            "estado del tiempo",
+            "venezuela",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/nacionales/diversos-estados-registran-lluvias-y-descargas-electricas-onda-tropical-35-transita-por-el-pais-20259172120",
+        "date": "2025-09-18 01:02:00",
+        "sentiment_score": -0.13066741079092026
+    },
+    {
+        "title": "Redadas antiinmigrantes en EEUU: ¿Es legal pagar a la policía para “cazar” indocumentados?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758156389227.jpg?ch=675&cw=1200",
+        "tags": [
+            "dinero",
+            "ice",
+            "incentivo"
+        ],
+        "link": "https://2001online.com/usa/internacionales/redadas-antiinmigrantes-en-eeuu-es-legal-pagar-a-la-policia-para-cazar-indocumentados--20259172100",
+        "date": "2025-09-18 01:00:00",
+        "sentiment_score": 0.5993349440395832
+    },
+    {
+        "title": "¡Buenas noticias! El Boletín de Visas anuncia avances para la residencia permanente",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758156527932.jpg?ch=675&cw=1200",
+        "tags": [
+            "residentes permanentes en eeuu",
+            "boletín de visas"
+        ],
+        "link": "https://2001online.com/usa/internacionales/buenas-noticias-el-boletin-de-visas-anuncia-avances-para-la-residencia-permanente--202591720480",
+        "date": "2025-09-18 00:48:00",
+        "sentiment_score": 0.6222916916012764
     }
 ];
