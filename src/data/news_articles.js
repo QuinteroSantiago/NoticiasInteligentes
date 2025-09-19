@@ -155,74 +155,6 @@ export default [
         "sentiment_score": -0.07127562165260315
     },
     {
-        "title": "Dormir en un molino en plena Sierra de Cazorla: así es la impresionante villa por más de 1.000 € la noche",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/viajar/2025/09/15/casamolino-RGNGBssvV4M8FDsUkucQZgP-1200x840@diario_abc.jpg",
-        "tags": [
-            "viajar andalucia",
-            "viajar"
-        ],
-        "link": "https://www.abc.es/viajar/andalucia/dormir-molino-plena-sierra-cazorla-impresionante-villa-20250915111922-nts.html",
-        "date": "2025-09-15 13:46:02",
-        "sentiment_score": -0.044536858797073364
-    },
-    {
-        "title": "La Comunidad de Madrid alerta de que el nuevo real decreto sobre centros de datos amenaza con reducir un 75% la inversión",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/15/1466761435-RWOCJexiZLi2V6JWtadOkNJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "madrid",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/madrid/comunidad-madrid-alerta-nuevo-real-decreto-sobre-20250915141314-nt.html",
-        "date": "2025-09-15 12:13:14",
-        "sentiment_score": -0.09357354044914246
-    },
-    {
-        "title": "Rusia prueba drones invisibles a los radares de la OTAN en sus maniobras cerca de Polonia y Ucrania",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/15/56224ce9bb38f4d47aa265b3acfd5eb5-kulF-U701542244838Tl-1200x840@diario_abc.jpg",
-        "tags": [
-            "inteligencia artificial",
-            "otan",
-            "ucrania",
-            "drones",
-            "polonia"
-        ],
-        "link": "https://www.abc.es/internacional/rusia-maniobras-militares-zapada-incorpora-drones-desaparecen-20250915125115-nt.html",
-        "date": "2025-09-15 11:16:38",
-        "sentiment_score": -0.08225315809249878
-    },
-    {
-        "title": "El nuevo obispo de Málaga pide «un talente misionero» a las parroquias y cofradías",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/15/obispo-malaga-abc-RJBv5YxRfeCSWQJNZClN4kI-1200x840@diario_abc.jpg",
-        "tags": [
-            "andalucía",
-            "españa",
-            "málaga"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/malaga/nuevo-obispo-malaga-pide-talente-misionero-parroquias-20250915123814-nts.html",
-        "date": "2025-09-15 10:38:15",
-        "sentiment_score": 0.029046356678009033
-    },
-    {
-        "title": "El Kremlin señala que la OTAN «de facto está luchando contra Rusia» y anuncia que perseguirá a los países que se apropien de sus activos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/15/1500741410-kuWD-U701542184144mHG-1200x840@diario_abc.jpg",
-        "tags": [
-            "paises",
-            "perseguira",
-            "kremlin",
-            "facto",
-            "otan",
-            "luchando",
-            "rusia",
-            "anuncia",
-            "senala",
-            "apropien",
-            "activos"
-        ],
-        "link": "https://www.abc.es/internacional/kremlin-senala-otan-facto-luchando-rusia-anuncia-20250915122228-nt.html",
-        "date": "2025-09-15 10:22:29",
-        "sentiment_score": -0.20586444437503815
-    },
-    {
         "title": "La Inspección de Trabajo exige a la Comunidad de Madrid medidas inmediatas para controlar el calor en los colegios",
         "image_url": "https://imagenes.elpais.com/resizer/v2/YZPCAKVUGBAHZNKVIELL4E3UXQ.jpg?auth=5c69770a9b11567e0933f025bef7cb494abcf3cc31a89b7f69d60f423cd5c66e&width=1200",
         "tags": [
@@ -367,37 +299,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-09-15/junts-avisa-al-psoe-o-acaba-el-doble-discurso-socialista-en-madrid-y-barcelona-o-se-acaba-la-relacion.html",
         "date": "2025-09-15 14:31:38",
         "sentiment_score": -0.6777181271463633
-    },
-    {
-        "title": "La jueza de la dana pone el foco en la alerta a los móviles",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/B3BPMAOB5BDYVC34O7WVV5JPQI.jpg?auth=43d6b14bb2eeafd8391932de9f379d82fdbfb65cb6a2bf993ca3dbbc2d524cb2&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "tribunales",
-            "dana",
-            "inundaciones dana octubre 2024",
-            "generalitat valenciana",
-            "carlos mazón"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-15/la-jueza-de-la-dana-pone-el-foco-en-la-alerta-a-los-moviles.html",
-        "date": "2025-09-15 13:51:53",
-        "sentiment_score": -0.12609338387846947
-    },
-    {
-        "title": "Grande-Marlaska sitúa como número tres de Interior al exjefe de la lucha antiterrorista de la Policía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VGK2ANHCSFOI3NRLRIOJAI2RG4.jpg?auth=6804bfeb243e1e07a44c786aa7cbc5f9e38059a9402745764f063c1b840a64f5&width=1200",
-        "tags": [
-            "policía nacional",
-            "ministerio del interior",
-            "política",
-            "españa",
-            "lucha antiterrorista",
-            "nombramientos",
-            "fernando grande-marlaska"
-        ],
-        "link": "https://elpais.com/espana/2025-09-15/grande-marlaska-situa-como-numero-tres-de-interior-al-exjefe-de-la-lucha-antiterrorista-de-la-policia.html",
-        "date": "2025-09-15 13:37:01",
-        "sentiment_score": 0.02086898684501648
     },
     {
         "title": "Amilivia defiende el informe sobre igualdad que Vox cuestiona por ser «ideológico»",
@@ -9040,5 +8941,535 @@ export default [
         "link": "https://2001online.com/farandula/camp-rock-3-demi-lovato-y-los-jonas-brother-regresan-a-disney--20259181520",
         "date": "2025-09-18 19:02:00",
         "sentiment_score": 0.7986685857176781
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Madrid este 19 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/5WNGZ3LBVBDMZOTA4JODFZB6HI.png?auth=bb2d66c14385e6d7eee2237eee93d2ced06e7974548fa46b963e43579b31c11c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "madrid",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/19/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-madrid-este-19-de-septiembre/",
+        "date": "2025-09-19 01:30:56",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "El canciller alemán elogia el aumento del gasto en Defensa de España pero advierte de que “hará falta todavía más”: “Todos estamos muy lejos del 5%”",
+        "image_url": "https://www.infobae.com/resizer/v2/7V5G4MWSWFAPRKLYSAKDDXTIBA.JPG?auth=aaa063247e97e38d50d4591bc7132dd6efd89e720e261be444fe4cd94499f2d0&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "friedrich merz",
+            "presupuesto defensa",
+            "otan",
+            "gobierno de españa",
+            "alemania",
+            "gasto militar",
+            "pedro sánchez",
+            "españa-nacional",
+            "la haya",
+            "españa-internacional",
+            "moncloa",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/19/el-canciller-aleman-elogia-el-aumento-del-gasto-en-defensa-de-espana-pero-advierte-de-que-hara-falta-todavia-mas-todos-estamos-muy-lejos-del-5/",
+        "date": "2025-09-19 01:17:51",
+        "sentiment_score": 0.5338117107748985
+    },
+    {
+        "title": "Clima en Barcelona: la predicción para este 19 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "tiempo en españa",
+            "noticias",
+            "españa sociedad",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/19/clima-en-barcelona-la-prediccion-para-este-19-de-septiembre/",
+        "date": "2025-09-19 01:00:42",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Luz Casal, marquesa de Luz y Paz, cuenta en ‘El Hormiguero’ cómo dijo su “primer yupi” cuando le comunicaron que iba a ser noble: “Es un honor”",
+        "image_url": "https://www.infobae.com/resizer/v2/S3GZWC5F7JF37NKFMCUPEG7EKQ.jpg?auth=ebe93c73ea50241010df5ce5da5b9fd33286d1f3e28dd57941393d6a30e57bf6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-entretenimiento",
+            "celebridades espana",
+            "españa-televisión",
+            "programas de televisión",
+            "españa-noticias",
+            "pablo motos",
+            "el hormiguero",
+            "luz casal",
+            "antena 3",
+            "famosos espana",
+            "felipe vi",
+            "televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/19/luz-casal-marquesa-de-luz-y-paz-cuenta-en-el-hormiguero-como-dijo-su-primer-yupi-cuando-le-comunicaron-que-iba-a-ser-noble-es-un-honor/",
+        "date": "2025-09-19 00:34:19",
+        "sentiment_score": 0.6836363896727562
+    },
+    {
+        "title": "Cupón Diario de la Once: comprueba los resultados ganadores del 18 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cupón diario",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/18/cupon-diario-de-la-once-comprueba-los-resultados-ganadores-del-18-de-septiembre/",
+        "date": "2025-09-18 23:15:27",
+        "sentiment_score": 0.5590086951851845
+    },
+    {
+        "title": "Ester Expósito acude a ‘La Revuelta’ con un mensaje: “No se habla de los cuerpos de los demás”",
+        "image_url": "https://www.infobae.com/resizer/v2/EB5MR6SQM5DKPHSF7TYIFGZKO4.png?auth=af2ee1dd36c22d5889ece4780b4641f47a9509ce1290b7674a8031d7aeb7e280&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "programas de televisión",
+            "david broncano",
+            "famosos españa",
+            "rtve",
+            "celebridades españa",
+            "españa-televisión",
+            "mirela balic",
+            "ester expósito",
+            "la revuelta",
+            "televisión españa",
+            "tve",
+            "españa-noticias",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/18/ester-exposito-acude-a-la-revuelta-con-un-contundente-mensaje-no-se-habla-de-los-cuerpos-de-los-demas/",
+        "date": "2025-09-18 23:03:42",
+        "sentiment_score": -0.7659087255597115
+    },
+    {
+        "title": "Inteligencia artificial para recuperar los recuerdos perdidos",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/tecnologia/2025/09/19/recuerdo-ROPYZMCGMkxdpcrmz8lGKfO-1200x840@diario_abc.jpg",
+        "tags": [
+            "recuerdos",
+            "recuperar",
+            "inteligencia",
+            "artificial",
+            "perdidos"
+        ],
+        "link": "https://www.abc.es/tecnologia/inteligencia-artificial-recuperar-recuerdos-perdidos-20250919175344-nt.html",
+        "date": "2025-09-19 00:52:17",
+        "sentiment_score": -0.11029660701751709
+    },
+    {
+        "title": "Sidra para todos: así celebrará Oviedo la distinción del Desarme como Fiesta de Interés Turístico Nacional",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2f337982-f625-484b-a135-05ebb8cf7285_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ayuntamiento",
+            "sidra",
+            "plaza",
+            "trascorrales"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/09/19/sidra-celebrara-oviedo-distincion-desarme-121729025.html",
+        "date": "2025-09-19 02:15:00",
+        "sentiment_score": 0.030121028423309326
+    },
+    {
+        "title": "Tierras Quemadas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lanuevacronica.com/opinion/tierras-quemadas_182532_102.html",
+        "date": "2025-09-19 02:10:00",
+        "sentiment_score": -0.848751051351428
+    },
+    {
+        "title": "Álvaro López sueña con un San Mateo de Champions",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7eba9564-1ef8-49aa-97af-09fb861c2601_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "álvaro lópez",
+            "san mateo",
+            "telecinco",
+            "fiestas"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2025/09/19/alvaro-lopez-suena-san-mateo-121729011.html",
+        "date": "2025-09-19 02:00:56",
+        "sentiment_score": 0.0992809385061264
+    },
+    {
+        "title": "Linda Caicedo protagonizó asistencia al estilo de Maradona con el Real Madrid en la Champions League femenina",
+        "image_url": "https://www.infobae.com/resizer/v2/ZIJB2VLWRZDPDD3M7AKSJN22SE.png?auth=472493a8fcab822cce4f7b8583e7eabf024ed30afc370886cf038c8f1a4597f8&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "real madrid",
+            "selección colombia femenina",
+            "champions league femenina",
+            "linda caicedo",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/09/19/linda-caicedo-protagonizo-asistencia-al-estilo-de-maradona-con-el-real-madrid-en-la-champions-league-femenina/",
+        "date": "2025-09-19 01:34:44",
+        "sentiment_score": 0.2847682721912861
+    },
+    {
+        "title": "Sin Mastantuono ni Echeverri, Argentina confirma plantel para Mundial Sub20 de Chile",
+        "image_url": "https://dims.apnews.com/dims4/default/dff701c/2147483647/strip/true/crop/3774x2512+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2Fa5%2F369c73d092c71433f3087fec0927%2F546f52b4220f444d9027a614c17a161f",
+        "tags": [
+            "sports",
+            "deportes",
+            "mundial sub20 argentina plantel chile"
+        ],
+        "link": "https://apnews.com/article/mundial-sub20-argentina-plantel-chile-d8f9ccbcd99975b779de8705240c1bfe",
+        "date": "2025-09-19 00:51:09",
+        "sentiment_score": -0.7474037520587444
+    },
+    {
+        "title": "Sin Mastantuono ni Echeverri, Argentina confirma plantel para Mundial Sub20 de Chile",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/09/SUB20-ARGENTINA-PLANTEL_76069.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/09/18/sin-mastantuono-ni-echeverri-argentina-confirma-plantel-para-mundial-sub20-de-chile/",
+        "date": "2025-09-19 00:51:09",
+        "sentiment_score": -0.809178102761507
+    },
+    {
+        "title": "11 sitios para comer de lujo al aire libre y exprimir lo que queda de verano",
+        "image_url": "https://phantom-elmundo.uecdn.es/58ee92d3195cd1f607b7ee3bcbacd324/crop/198x135/2415x1613/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/18/17581935852250.jpg",
+        "tags": [
+            "gastronomía",
+            "restaurantes",
+            "comer",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/09/19/68c95e4afc6c8311618b4599.html",
+        "date": "2025-09-19 00:45:22",
+        "sentiment_score": 0.8006284264847636
+    },
+    {
+        "title": "¿Por qué la derecha no sabe jugar al juego mediático de la izquierda?",
+        "image_url": "https://s2.elespanol.com/2025/08/27/actualidad/1003743902249_258279310_1706x960.jpg?contentId=1003743902249",
+        "tags": [
+            "federico jiménez losantos",
+            "opinión",
+            "redes sociales",
+            "televisión",
+            "tve (televisión española)",
+            "tribunas"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20250919/derecha-no-sabe-jugar-juego-mediatico-izquierda/1003743927509_12.html",
+        "date": "2025-09-19 00:08:28",
+        "sentiment_score": -0.8700136430561543
+    },
+    {
+        "title": "Los servicios de inteligencia avisan de que la desconexión con Israel causará \"problemas de cooperación\" con otros países",
+        "image_url": "https://s2.elespanol.com/2025/09/18/actualidad/1003743931187_258814642_1706x960.jpg?contentId=1003743931187",
+        "tags": [
+            "gobierno de españa",
+            "fuerzas armadas",
+            "industria armamentística",
+            "ministerio de defensa",
+            "industria",
+            "pedro sánchez",
+            "armamento",
+            "indra",
+            "observatorio de la defensa",
+            "margarita robles"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20250919/servicios-inteligencia-avisan-desconexion-israel-causara-problemas-cooperacion-paises/1003743930372_0.html",
+        "date": "2025-09-19 00:06:26",
+        "sentiment_score": -0.7506527677178383
+    },
+    {
+        "title": "El grupo Hotusa cierra la compra de los hoteles Coliseum y Río en Santander",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/09/18/hoteles%20(1)-k9mD--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "sevilla",
+            "valladolid (ciudad)",
+            "ciudad real",
+            "sociedad estatal de participaciones industriales (sepi)",
+            "santander",
+            "españa",
+            "donostia-san sebastián"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/grupo-hotusa-cierra-compra-hoteles-coliseum-rio-20250919071222-nt.html",
+        "date": "2025-09-19 00:00:00",
+        "sentiment_score": 0.41493775323033333
+    },
+    {
+        "title": "Potencia cultural",
+        "image_url": "https://uh.gsstatic.es/autor/sebastia-bennassar/10887.png",
+        "tags": [
+            "tribuna",
+            "grupo serra",
+            "medio de comunicación",
+            "prensa digital",
+            "artículos de opinión"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/09/19/2472971/potencia-cultural.html",
+        "date": "2025-09-19 02:00:01",
+        "sentiment_score": 0.43760693073272705
+    },
+    {
+        "title": "Ramis, la popular miliciana mallorquina",
+        "image_url": "https://uh.gsstatic.es/autor/manuel-aguilera/10893.png",
+        "tags": [
+            "tribuna",
+            "grupo serra",
+            "medio de comunicación",
+            "prensa digital",
+            "artículos de opinión"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/09/19/2472969/ramis-popular-miliciana-mallorquina.html",
+        "date": "2025-09-19 02:00:01",
+        "sentiment_score": -0.3526673913002014
+    },
+    {
+        "title": "No hay quinto malo",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3478991.jpg",
+        "tags": [
+            "rcd mallorca",
+            "ultimas noticias",
+            "primera división",
+            "fútbol",
+            "laliga",
+            "última hora",
+            "real mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/09/19/2473167/hay-quinto-malo-2.html",
+        "date": "2025-09-19 02:00:01",
+        "sentiment_score": -0.028118878602981567
+    },
+    {
+        "title": "El empresario estadounidense Drew Aaron compra la possessió de sa Talaia de Valldemossa",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3478515.jpg",
+        "tags": [
+            "sa talaia",
+            "comprar casas en mallorca",
+            "gallery red",
+            "part forana",
+            "viviendas en baleares",
+            "ultimas noticias",
+            "municipios de mallorca",
+            "arte en mallorca",
+            "última hora",
+            "valldemossa",
+            "inversores en mallorca",
+            "drew aaron"
+        ],
+        "link": "https://www.ultimahora.es/noticias/part-forana/2025/09/19/2472793/empresario-estadounidense-drew-aaron-compra-possessio-talaia-valldemossa.html",
+        "date": "2025-09-19 02:00:01",
+        "sentiment_score": 0.4405592195689678
+    },
+    {
+        "title": "El Gobierno desiste de la OSP para la ruta aérea Menorca-Barcelona",
+        "image_url": "https://men.gsstatic.es/autor/editorial/32.png",
+        "tags": [
+            "editorial"
+        ],
+        "link": "https://www.menorca.info/opinion/editorial/2025/09/19/2473127/gobierno-desiste-osp-para-ruta-aerea-menorca-barcelona.html",
+        "date": "2025-09-19 02:00:01",
+        "sentiment_score": -0.4174399822950363
+    },
+    {
+        "title": "El verano se despide con la Nit de l'Art como gran plan del 'finde'",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3478817.jpg",
+        "tags": [
+            "eventos en mallorca",
+            "conferencias en mallorca",
+            "exposición",
+            "conciertos en mallorca",
+            "eventos en palma",
+            "exposiciones en mallorca",
+            "ocio",
+            "conferencia",
+            "obra de teatro",
+            "nit de l'art",
+            "arte en mallorca",
+            "cultura",
+            "concierto",
+            "nit de l'art en palma",
+            "arte",
+            "cosas que hacer en mallorca",
+            "auditòrium de palma",
+            "conferencias en palma",
+            "exposición de pintura",
+            "música",
+            "exposiciones en palma",
+            "ocio en mallorca",
+            "teatro",
+            "música en mallorca",
+            "agenda de conciertos",
+            "música en directo",
+            "teatro en mallorca"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/09/19/2472977/verano-despide-nit-art-como-gran-plan-del-finde.html",
+        "date": "2025-09-19 02:00:01",
+        "sentiment_score": 0.41977493464946747
+    },
+    {
+        "title": "El aeropuerto de León cierra su mejor verano en 14 años",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/27/20/13/6/aeropuerto-leon-01-09-20-web-4-1000x563.gif",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/aeropuerto-leon-cierra-su-mejor-verano-en-14-anos_182525_102.html",
+        "date": "2025-09-19 02:00:00",
+        "sentiment_score": 0.17745275795459747
+    },
+    {
+        "title": "La Universidad de Alicante alberga un acto contra la enseñanza en español con una entidad subvencionada por Illa",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/09/18/68cc13f52899e.r_d.764-594-7500.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250919/universidad-alicante-alberga-acto-contra-ensenanza-espanol-entidad-subvencionadailla_335816.html",
+        "date": "2025-09-19 02:00:00",
+        "sentiment_score": -0.7093016654253006
+    },
+    {
+        "title": "Reasfaltar la pista, el plan de Aena para el aeropuerto hasta 2031",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/09/18/68cc3f156e96f.jpeg",
+        "tags": [
+            "león"
+        ],
+        "link": "https://www.diariodeleon.es/leon/250919/2060232/reasfaltar-pista-plan-aena-aeropuerto-2031.html",
+        "date": "2025-09-19 01:30:00",
+        "sentiment_score": 0.3082047179341316
+    },
+    {
+        "title": "Rashford con doblete lideró victoria del Barcelona en la Champions",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/09/marcus-rashford.jpg",
+        "tags": [
+            "deportes",
+            "18sep",
+            "barcelona",
+            "rashford"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/09/18/rashford-victoria-del-barcelona/",
+        "date": "2025-09-19 01:01:32",
+        "sentiment_score": 0.4965762794017792
+    },
+    {
+        "title": "Histerectomía sin cortes visibles: conoce el método menos invasivo que transforma la recuperación femenina",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758124027711.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/histerectomia-sin-cortes-visibles-conoce-el-metodo-menos-invasivo-que-transforma-la-recuperacion-femenina-20259182200",
+        "date": "2025-09-19 02:00:00",
+        "sentiment_score": -0.7827860321849585
+    },
+    {
+        "title": "¿Miami vende visas? así puedes obtener la residencia en EEUU por un millón de dólares",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758246700358.jpg?ch=675&cw=1200",
+        "tags": [
+            "latinos",
+            "miami",
+            "visas"
+        ],
+        "link": "https://2001online.com/usa/servicios/miami-vende-visas-asi-puedes-obtener-la-residencia-en-eeuu-por-un-millon-de-dolares-20259182200",
+        "date": "2025-09-19 02:00:00",
+        "sentiment_score": 0.31623638421297073
+    },
+    {
+        "title": "En detalles: la historia de una madre que encontró a sus hijas robadas después de 45 años",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758250376971.jpg?ch=675&cw=1200",
+        "tags": [
+            "obo de gemeleas",
+            "chile",
+            "historia de una madre chilena"
+        ],
+        "link": "https://2001online.com/internacionales/en-detalles-la-historia-de-una-madre-que-encontro-a-sus-hijas-robadas-despues-de-45-anos-202591821560",
+        "date": "2025-09-19 01:56:00",
+        "sentiment_score": -0.21539443731307983
+    },
+    {
+        "title": "La promesa cumplida: cómo Andry Murray rompió la sequía británica",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758248017230.jpg?ch=675&cw=1200",
+        "tags": [
+            "grand slam",
+            "tenis",
+            "wimbledon 2013",
+            "novak djokovic",
+            "tenis británico",
+            "wimbledon 2012",
+            "wimbledon",
+            "andy murray"
+        ],
+        "link": "https://2001online.com/deportes/la-promesa-cumplida-como-andry-murray-rompio-la-sequia-britanica--202591822200",
+        "date": "2025-09-19 01:36:35",
+        "sentiment_score": 0.6062241643667221
+    },
+    {
+        "title": "Condenan a tres hombres a prisión en Lara: estos son los delitos que cometieron",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758245662263.jpg?ch=675&cw=1200",
+        "tags": [
+            "lara",
+            "tráfico de drogas",
+            "ministerio público",
+            "condena",
+            "prisión"
+        ],
+        "link": "https://2001online.com/sucesos/condenan-a-tres-hombres-a-prision-en-lara-estos-son-los-delitos-que-cometieron-202591821350",
+        "date": "2025-09-19 01:35:00",
+        "sentiment_score": -0.37988538295030594
+    },
+    {
+        "title": "Diveana y Anthony Pérez se unen para reinventar un clásico del merengue",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758251860079.jpg?ch=675&cw=1200",
+        "tags": [
+            "tus ojos",
+            "diveana",
+            "anthony perez"
+        ],
+        "link": "https://2001online.com/farandula/diveana-y-anthony-perez-se-unen-para-reinventar-un-clasico-del-merengue-202591821280",
+        "date": "2025-09-19 01:28:00",
+        "sentiment_score": 0.15432141721248627
+    },
+    {
+        "title": "Alerta de arrestos de ICE en Chicago: activistas revelan los horarios y zonas de patrullaje",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758243998080.jpg?ch=675&cw=1200",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/usa/nota/alerta-de-arrestos-de-ice-en-chicago-activistas-revelan-los-horarios-y-zonas-de-patrullaje-20259182140",
+        "date": "2025-09-19 01:04:00",
+        "sentiment_score": -0.3012395054101944
+    },
+    {
+        "title": "Nueva York celebra a sus inmigrantes: conozca donde queda la catedral que los honra con un enorme mural",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758241836359.jpg?ch=675&cw=1200",
+        "tags": [
+            "new york",
+            "adam cvijanovic",
+            "catedral de san patricio"
+        ],
+        "link": "https://2001online.com/usa/internacionales/nueva-york-celebra-a-sus-inmigrantes-conozca-donde-queda-la-catedral-que-los-honra-con-un-enorme-mural-202591820450",
+        "date": "2025-09-19 00:45:00",
+        "sentiment_score": 0.5227477364242077
+    },
+    {
+        "title": "De las canchas a la pantalla grande: las diez películas deportivas más taquilleras de la historia del cine",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758242571577.jpg?ch=675&cw=1200",
+        "tags": [
+            "cine",
+            "fútbol americano",
+            "boxeo"
+        ],
+        "link": "https://2001online.com/deportes/de-las-canchas-a-la-pantalla-grande-las-diez-peliculas-deportivas-mas-taquilleras-de-la-historia-del-cine-202591820380",
+        "date": "2025-09-19 00:38:00",
+        "sentiment_score": 0.8787239771336317
+    },
+    {
+        "title": "Caracas se prepara para Nicky Jam: conoce todos los detalles sobre su paso por el Estadio Monumental",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758242278320.jpg?ch=675&cw=1200",
+        "tags": [
+            "nicky jam",
+            "estadio monumental"
+        ],
+        "link": "https://2001online.com/farandula/caracas-se-prepara-para-nicky-jam-conoce-todos-los-detalles-sobre-su-paso-por-el-estadio-monumental--202591820290",
+        "date": "2025-09-19 00:29:00",
+        "sentiment_score": 0.12558306008577347
     }
 ];
