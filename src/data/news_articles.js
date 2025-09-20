@@ -171,68 +171,6 @@ export default [
         "sentiment_score": -0.395280584692955
     },
     {
-        "title": "El despacho de Carlos III, abierto al público: «Los muebles recuperados no se reunían desde hace más de dos siglos»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/16/DespachoCarlosIII2-RKkopfNftMTgwo7mTKVh4TL-1200x840@diario_abc.jpg",
-        "tags": [
-            "palacio real",
-            "ayuntamiento de madrid",
-            "el publico",
-            "comunidad de madrid",
-            "madrid (ciudad)"
-        ],
-        "link": "https://www.abc.es/espana/madrid/despacho-carlos-iii-abierto-publico-muebles-recuperados-20250916133215-nt.html",
-        "date": "2025-09-16 11:41:58",
-        "sentiment_score": 0.04656663537025452
-    },
-    {
-        "title": "El Gobierno eleva una décima, hasta el 2,7%, su previsión de crecimiento económico para 2025",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/09/16/1500843891-kR7-U701555704454eXF-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/gobierno-eleva-decima-prevision-crecimiento-economico-2025-20250916130540-nt.html",
-        "date": "2025-09-16 11:05:41",
-        "sentiment_score": -0.03771373629570007
-    },
-    {
-        "title": "Esto es lo que la gente más le pregunta a ChatGPT",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/tecnologia/2025/09/16/1474318017-R3pDEcFg0HyT32bnE7Vrm0L-1200x840@diario_abc.JPG",
-        "tags": [
-            "chatgpt",
-            "openai",
-            "inteligencia artificial"
-        ],
-        "link": "https://www.abc.es/tecnologia/gente-pregunta-chatgpt-20250916125031-nt.html",
-        "date": "2025-09-16 10:52:26",
-        "sentiment_score": -0.06575848162174225
-    },
-    {
-        "title": "Siempre os quedará Benidorm",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/09/12/crimen-ribadesella%20(1)-U2201790120547QID--170x119@El%20Comercio.jpg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.abc.es/opinion/jesus-lillo-siempre-quedara-benidorm-20250917124109-nt.html",
-        "date": "2025-09-16 10:41:10",
-        "sentiment_score": -0.6256570518016815
-    },
-    {
-        "title": "EE.UU. salvó a Venezuela hace un siglo de una posible invasión europea",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/16/Sinconfirmar757927-Ri9kmNNLm9dVzO5gSLDNNJJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "venezuela",
-            "invasion",
-            "salvo",
-            "siglo",
-            "posible",
-            "eeuu",
-            "europea"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-salvo-venezuela-siglo-posible-invasion-europea-20250916122004-nt.html",
-        "date": "2025-09-16 10:20:05",
-        "sentiment_score": -0.07370474934577942
-    },
-    {
         "title": "El Rey critica la “insoportable” crisis humanitaria de Gaza en su viaje de Estado a Egipto",
         "image_url": "https://imagenes.elpais.com/resizer/v2/RA2ANOVORNKE5E2YFTVFTZG5WI.jpg?auth=be5a4015e56fe1b128ed8cb092ba03a9a82d0522e4cca7101b2afa1ad43c7779&width=1200",
         "tags": [
@@ -366,41 +304,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-16/dos-asociaciones-de-victimas-de-la-dana-piden-la-dimision-de-mazon-y-del-consell.html",
         "date": "2025-09-16 14:35:13",
         "sentiment_score": -0.8608065219596028
-    },
-    {
-        "title": "Barcelona invertirá seis millones en un plan de prevención del alzhéimer",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VPIZD43KZZGPJCVJCANBOAPYEE.jpg?auth=7186aa088e2b92ab5632f06ee575e9421641df3b7ab118a8fcf48ad03fd076a3&width=1200",
-        "tags": [
-            "barcelona",
-            "alzhéimer",
-            "jaume collboni",
-            "enfermedades",
-            "pasqual maragall",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-16/barcelona-invertira-seis-millones-en-un-plan-de-prevencion-del-alzheimer.html",
-        "date": "2025-09-16 13:37:28",
-        "sentiment_score": 0.2033616080880165
-    },
-    {
-        "title": "El Gobierno carga contra el PP por su posición sobre Gaza: “No es ignorancia, es mala fe. Les va a perseguir toda la vida”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FMKXYAHLS5LF5BH3YIUV7PXTC4.jpg?auth=f0eb8f0e76acc9e3c7af77bc13cf8fd6fd14f235eee7b697d8342bcc9d93cffa&width=1200",
-        "tags": [
-            "gobierno",
-            "pedro sánchez",
-            "alberto núñez feijóo",
-            "pilar alegría",
-            "consejo de ministros",
-            "benjamin netanyahu",
-            "conflicto árabe-israelí",
-            "israel",
-            "franja gaza",
-            "españa",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/2025-09-16/el-gobierno-carga-contra-el-pp-por-su-posicion-sobre-gaza-no-es-ignorancia-es-mala-fe-les-va-a-perseguir-toda-la-vida.html",
-        "date": "2025-09-16 13:33:17",
-        "sentiment_score": -0.797188064083457
     },
     {
         "title": "Aagesen defiende la planificación eléctrica a 2030 como \"un proyecto país\" que apuesta por la industria",
@@ -9061,5 +8964,444 @@ export default [
         "link": "https://2001online.com/nacionales/arrancan-en-tres-estados-jorge-rodriguez-anuncia-instalacion-de-consejos-para-la-soberania-y-paz-202591915450",
         "date": "2025-09-19 19:45:00",
         "sentiment_score": 0.3893475830554962
+    },
+    {
+        "title": "Francia y otros nueve países reconocerán al Estado palestino en la Asamblea General de la ONU que se celebrará en Nueva York la próxima semana",
+        "image_url": "https://www.infobae.com/resizer/v2/B3QNQELK4JA3XLH4ESBVQELHTM.JPG?auth=a26b412953a3289104e93c9d4a40bc1915b49c05f2e2fcff954dd589f6d5f044&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "organización de las naciones unidas",
+            "emmanuel macron",
+            "israel",
+            "asamblea general de la onu",
+            "españa-nacional",
+            "internacional",
+            "onu",
+            "españa-internacional",
+            "francia",
+            "benjamin netanyahu",
+            "naciones unidas",
+            "españa-noticias",
+            "palestina",
+            "reconocimiento de palestina"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/20/francia-y-otros-nueve-paises-reconoceran-al-estado-palestino-en-la-asamblea-general-de-la-onu-que-se-celebrara-en-nueva-york-la-proxima-semana/",
+        "date": "2025-09-20 01:25:37",
+        "sentiment_score": 0.1834774762392044
+    },
+    {
+        "title": "Conoce el clima de este día en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "tiempo en españa",
+            "noticias",
+            "españa sociedad",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/20/conoce-el-clima-de-este-dia-en-barcelona/",
+        "date": "2025-09-20 01:17:00",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Top de Prime Video en España: Estas son las películas más vistas en la plataforma",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "streaming",
+            "españa-televisión",
+            "prime video",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/09/19/top-de-prime-video-en-espana-estas-son-las-peliculas-mas-vistas-en-la-plataforma/",
+        "date": "2025-09-19 23:30:44",
+        "sentiment_score": 0.8811986930668354
+    },
+    {
+        "title": "Una “ballena” cripto que compró 1.000 bitcoin por 712.000 euros hace más de 12 años reactiva su cartera: hoy vale casi 100 millones",
+        "image_url": "https://www.infobae.com/resizer/v2/5P2IUVEF2BHUPP54PKRKQP7LSQ.JPG?auth=97532f1a8e608fff8fbdca03f5dadf5756177a6a8efda036ae8fbb2c25822442&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "billeteras cripto",
+            "precio",
+            "españa-economia",
+            "criptomonedas",
+            "transferencias",
+            "bitcoin",
+            "cripto",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/19/una-ballena-cripto-que-compro-1000-bitcoin-por-712000-euros-hace-mas-de-12-anos-reactiva-su-cartera-hoy-vale-casi-100-millones/",
+        "date": "2025-09-19 22:46:04",
+        "sentiment_score": -0.02014504373073578
+    },
+    {
+        "title": "Los Douglas, los Reuben, Branson y Drew Aaron: Estas son las grandes fortunas extranjeras que se reparten las fincas más emblemáticas de Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3480055.jpg",
+        "tags": [
+            "comprar casas en mallorca",
+            "obama",
+            "local",
+            "palma",
+            "palma de mallorca",
+            "ultimas noticias",
+            "última hora",
+            "richard branson",
+            "hermanos reuben",
+            "michael douglas",
+            "drew aaron",
+            "fincas en mallorca",
+            "vivir en baleares"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/09/20/2473747/douglas-reuben-branson-drew-aaron-estas-son-grandes-fortunas-extranjeras-reparten-fincas-mas-emblematicas-mallorca.html",
+        "date": "2025-09-20 02:00:01",
+        "sentiment_score": -0.9316151263192296
+    },
+    {
+        "title": "Real Mallorca-Atlético de Madrid: horario y dónde ver el partido",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3480471.jpg",
+        "tags": [
+            "horario y donde ver",
+            "rcd mallorca",
+            "fútbol",
+            "primera división",
+            "ultimas noticias",
+            "laliga",
+            "última hora",
+            "liga ea sports",
+            "real mallorca",
+            "atlético de madrid"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/09/20/2474021/real-mallorca-atletico-madrid-horario-donde-ver-partido.html",
+        "date": "2025-09-20 02:00:01",
+        "sentiment_score": -0.23073554039001465
+    },
+    {
+        "title": "Tontxu: \"Me han traicionado amigos a patadas. Para hablar de los desgraciados que me han dejado tirado harían falta horas\"",
+        "image_url": "https://s2.elespanol.com/2025/09/19/reportajes/1003743933005_258849086_1706x960.jpg?contentId=1003743933005",
+        "tags": [
+            "entrevistas",
+            "cantantes",
+            "operación triunfo",
+            "gaza",
+            "cantautores",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250920/tontxu-traicionado-amigos-patadas-hablar-desgraciados-dejado-tirado-harian-falta-horas/1003743932186_0.html",
+        "date": "2025-09-20 00:57:15",
+        "sentiment_score": -0.502308152616024
+    },
+    {
+        "title": "Gorillaz celebra 25 años en Madrid: un viaje entre la realidad y la animación",
+        "image_url": "https://s2.elespanol.com/2025/09/12/actualidad/1003743922874_258658858_1706x960.jpg?contentId=1003743922874",
+        "tags": [
+            "blur",
+            "madrid",
+            "gorillaz",
+            "rock",
+            "conciertos música",
+            "música"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20250919/gorillaz-celebra-anos-madrid-viaje-realidad-animacion/1003743920663_0.html",
+        "date": "2025-09-19 23:45:00",
+        "sentiment_score": 0.2152019739151001
+    },
+    {
+        "title": "19 SEP 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/19-sep-2025-partidazo-cope-20250920_3217474.html",
+        "date": "2025-09-19 23:40:57",
+        "sentiment_score": -0.139200821518898
+    },
+    {
+        "title": "El Real Madrid quiere defender el liderato ante Espanyol (Previa)",
+        "image_url": "https://pxcdn.meridiano.net/092025/1758323552872.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/el-real-madrid-quiere-defender-el-liderato-ante-espanyol-previa--202591919330",
+        "date": "2025-09-19 23:33:00",
+        "sentiment_score": 0.8182188514620066
+    },
+    {
+        "title": "El Real Madrid aplasta al Barcelona a nivel financiero y duplica el límite del costo de su plantilla (+Detalle)",
+        "image_url": "https://pxcdn.meridiano.net/092025/1758325588104.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/el-real-madrid-aplasta-al-barcelona-a-nivel-financiero-y-duplica-el-limite-del-costo-de-su-plantilla-detalle--202591919280",
+        "date": "2025-09-19 23:28:00",
+        "sentiment_score": -0.4081844687461853
+    },
+    {
+        "title": "Los avances tecnológicos del nuevo Camp Nou que superarán los errores y defectos del Bernabéu",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/01/05/culemania/palco/914168621_13941680_1706x960.jpg?contentId=914168621",
+        "tags": [
+            "estadio santiago bernabéu",
+            "fc barcelona",
+            "palco",
+            "real madrid",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250919/avances-tecnologicos-camp-nou-superan-defectos-bernabeu/1003742690319_0.html",
+        "date": "2025-09-19 23:06:55",
+        "sentiment_score": 0.510607160627842
+    },
+    {
+        "title": "Los extraños motivos que justifican el retroceso del Barça en el límite salarial de la Liga",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/20/culemania/palco/1003742690361_15175264_1706x960.jpg?contentId=1003742690361",
+        "tags": [
+            "barça",
+            "palco",
+            "fair play de la liga",
+            "camp nou",
+            "la liga"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250919/extranos-motivos-justifican-retroceso-barca-salarial-liga/1003742690352_0.html",
+        "date": "2025-09-19 23:06:53",
+        "sentiment_score": -0.8700734097510576
+    },
+    {
+        "title": "Joaquín Sabina a la Academia de la Lengua",
+        "image_url": "https://www.diariodeferrol.com/images/showid2/7564707?w=900",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.diariodeferrol.com/articulo/opinion/joaquin-sabina-academia-lengua-5439122",
+        "date": "2025-09-19 23:00:03",
+        "sentiment_score": 0.6074904054403305
+    },
+    {
+        "title": "La amenaza del sistema de control de emisiones en los puertos a dos principios fundamentales de la UE",
+        "image_url": "https://static.grupojoly.com/clip/c3875f63-b7d2-4818-83d4-9f8929529e07_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "puerto de algeciras"
+        ],
+        "link": "https://www.europasur.es/maritimas/sistema-control-emisiones-puertos-principios-fundamentales-ue_0_2004639958.html",
+        "date": "2025-09-20 02:01:33",
+        "sentiment_score": -0.8711177334189415
+    },
+    {
+        "title": "Que vecinos del barrio de Malbúger, en Maó, hartos de las gallinas silvestres...",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3480451.jpg",
+        "tags": [
+            "sorprende y no sorprende"
+        ],
+        "link": "https://www.menorca.info/opinion/sorprende-sorprende/2025/09/20/2474011/vecinos-del-barrio-malbuger-mao-hartos-gallinas-silvestres.html",
+        "date": "2025-09-20 02:00:01",
+        "sentiment_score": -0.9326253458857536
+    },
+    {
+        "title": "Potencia cultural",
+        "image_url": "https://men.gsstatic.es/autor/sebastia-bennassar/10887.png",
+        "tags": [
+            "firmas del día"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/09/20/2473777/potencia-cultural-1.html",
+        "date": "2025-09-20 02:00:01",
+        "sentiment_score": 0.4593585953116417
+    },
+    {
+        "title": "Los personajes del tío Ful: Celia, de Quintanilla de Babia",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/90/47/5/frame-20personaje.jpeg",
+        "tags": [
+            "actualidad",
+            "los personajes de ful"
+        ],
+        "link": "https://www.lanuevacronica.com/extras/los-personajes-de-ful/personajes-tio-ful-celia-quintanilla-babia_182614_102.html",
+        "date": "2025-09-20 02:00:00",
+        "sentiment_score": -0.16767364740371704
+    },
+    {
+        "title": "El Gobierno ya apostó en 2015 por transformar en un corredor verde el tramo urbano de Feve",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/90/16/1/jornada-plataforma-feve.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/gobierno-ya-aposto-en-2015-por-transformar-en-corredor-verde-tramo-urbano-feve_182596_102.html",
+        "date": "2025-09-20 02:00:00",
+        "sentiment_score": -0.826107925735414
+    },
+    {
+        "title": "Estas son las siete discotecas valencianas que aspiran a ser la mejor del mundo",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/09/19/68cd126025c8b.r_d.596-569-10178.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250920/estas-son-siete-discotecas-valencianas-aspiran-mejor-mundo_335986.html",
+        "date": "2025-09-20 02:00:00",
+        "sentiment_score": 0.5435834936797619
+    },
+    {
+        "title": "Shakira no habría descubierto a Piqué y Clara Chía por la mermelada: la nueva versión de la infidelidad (VIDEO)",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/09/Clara-Chia-Marti-Gerard-Pique.jpg",
+        "tags": [
+            "gerard pique",
+            "entretenimiento",
+            "titulares",
+            "shakira",
+            "clara chía martí"
+        ],
+        "link": "https://lapatilla.com/2025/09/19/shakira-no-habria-descubierto-a-pique-y-clara-chia-por-la-mermelada-la-nueva-version-de-la-infidelidad-video/",
+        "date": "2025-09-20 01:43:52",
+        "sentiment_score": -0.567739449441433
+    },
+    {
+        "title": "La aparición de Ozempic y de otras terapias contra la obesidad reduce hasta un 10% las cirugías bariátricas",
+        "image_url": "https://s2.elespanol.com/2025/09/19/actualidad/1003743933359_258856457_1706x960.jpg?contentId=1003743933359",
+        "tags": [
+            "obesidad",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20250920/aparicion-ozempic-terapias-obesidad-reduce-cirugias-bariatricas/1003743933155_0.html",
+        "date": "2025-09-20 00:57:22",
+        "sentiment_score": -0.7948460057377815
+    },
+    {
+        "title": "Shakira no habría descubierto a Piqué y Clara Chía por la mermelada: circula nueva versión de la infidelidad",
+        "image_url": "https://www.infobae.com/resizer/v2/PFBSNACZZ5FDXMPPRPYPNHXEGQ.jpg?auth=a89d245965cf06892022fab595893d0c801aa82d9cbb63502362a32ec2e00acc&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "shakira",
+            "gerard piqué",
+            "colombia-entretenimiento",
+            "colombia-noticias",
+            "clara chía"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/09/20/shakira-no-habria-descubierto-a-pique-y-clara-chia-por-la-mermelada-circula-nueva-version-de-la-infidelidad/",
+        "date": "2025-09-20 00:41:51",
+        "sentiment_score": -0.8080005552619696
+    },
+    {
+        "title": "¡Atroz hallazgo! Encuentran a seis niños encerrados en una bodega",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758333091768.jpg?ch=675&cw=1200",
+        "tags": [
+            "hallazgo",
+            "dos unidos",
+            "delitos",
+            "usa"
+        ],
+        "link": "https://2001online.com/sucesos/atroz-hallazgo-encuentran-a-seis-ninos-encerrados-en-una-bodega-202591922100",
+        "date": "2025-09-20 02:10:00",
+        "sentiment_score": -0.8878744160756469
+    },
+    {
+        "title": "Bronceador Vs. contorno: expertos los diferencian y aclaran dónde deberías usar cada uno de ellos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758221381526.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/bronceador-vs-contorno-expertos-los-diferencian-y-aclaran-donde-deberias-usar-cada-uno-de-ellos-20259192200",
+        "date": "2025-09-20 02:00:00",
+        "sentiment_score": 0.6636425107717514
+    },
+    {
+        "title": "¿Inmigrantes como mercancía? Video revela cuánto ganarían agentes del ICE por cada detención",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758326846484.jpg?ch=675&cw=1200",
+        "tags": [
+            "ganancias",
+            "ice",
+            "inmigrantes"
+        ],
+        "link": "https://2001online.com/usa/internacionales/inmigrantes-como-mercancia-video-revela-cuanto-ganarian-agentes-del-ice-por-cada-detencion-20259192200",
+        "date": "2025-09-20 02:00:00",
+        "sentiment_score": -0.5920900776982307
+    },
+    {
+        "title": "¡Oficial! Anuncian fecha de lanzamiento de 'Taylor Swift: The Official Release Party of a Showgirl'",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758333434929.jpg?ch=675&cw=1200",
+        "tags": [
+            "taylor swift",
+            "taylor swift en los cines"
+        ],
+        "link": "https://2001online.com/farandula/oficial-anuncian-fecha-de-lanzamiento-de-taylor-swift-the-official-release-party-of-a-showgirl--202591921580",
+        "date": "2025-09-20 01:58:00",
+        "sentiment_score": 0.055869800969958305
+    },
+    {
+        "title": "¿Quién liderará el rumbo de La Vinotinto?: la búsqueda crucial de un nuevo director técnico",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758332800447.jpg?ch=675&cw=1200",
+        "tags": [
+            "tite",
+            "fvf",
+            "richard páez",
+            "la vinotinto",
+            "oswaldo vizcarrondo",
+            "federación venezolana de fútbol",
+            "bocha batista",
+            "césar farías",
+            "vinotinto",
+            "dt de venezuela"
+        ],
+        "link": "https://2001online.com/deportes/quien-liderara-el-rumbo-de-la-vinotinto-la-busqueda-crucial-de-un-nuevo-director-tecnico-202591922200",
+        "date": "2025-09-20 01:36:59",
+        "sentiment_score": -0.5940394029021263
+    },
+    {
+        "title": "Conatel anuncia plan nacional de telecomunicaciones 2025-2031: ¿En qué consiste?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758329106121.jpg?ch=675&cw=1200",
+        "tags": [
+            "cobertura 4g",
+            "fibra óptica",
+            "conatel",
+            "ciudades inteligentes",
+            "comisión nacional de telecomunicaciones",
+            "cobertura 5g",
+            "ia"
+        ],
+        "link": "https://2001online.com/nacionales/conatel-anuncia-plan-nacional-de-telecomunicaciones-2025-2031-en-que-consiste--202591920460",
+        "date": "2025-09-20 00:46:00",
+        "sentiment_score": 0.1279899962246418
+    },
+    {
+        "title": "¿Por qué el béisbol no forma parte de los Juegos Olímpicos?: el dilema de un deporte de masas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758324475981.jpg?ch=675&cw=1200",
+        "tags": [
+            "jj.oo.",
+            "baseball",
+            "béisbol",
+            "mlb",
+            "por qué el béisbol no está en los juegos olímpicos",
+            "juegos olímpicos",
+            "major league baseball"
+        ],
+        "link": "https://2001online.com/deportes/por-que-el-beisbol-no-forma-parte-de-los-juegos-olimpicos-el-dilema-de-un-deporte-de-masas-202591921300",
+        "date": "2025-09-20 00:37:36",
+        "sentiment_score": 0.030619561672210693
+    },
+    {
+        "title": "¿Mercado laboral en riesgo? Los siete empleos en peligro de desaparecer a causa de la IA",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758328047171.jpg?ch=675&cw=1200",
+        "tags": [
+            "ia"
+        ],
+        "link": "https://2001online.com/curiosidades/mercado-laboral-en-riesgo-los-siete-empleos-en-peligro-de-desaparecer-a-causa-de-la-ia-202591920230",
+        "date": "2025-09-20 00:23:00",
+        "sentiment_score": 0.26765891164541245
+    },
+    {
+        "title": "Aceite de coco para tu cabello: solo lograrás los efectos maravillosos si sigues este paso a paso",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758324387929.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/aceite-de-coco-para-tu-cabello-solo-lograras-los-efectos-maravillosos-si-sigues-este-paso-a-paso--20259192050",
+        "date": "2025-09-20 00:05:00",
+        "sentiment_score": 0.272701695561409
+    },
+    {
+        "title": "Operativo en Florida: policía detuvo a más de 200 depredadores de menores",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758326513995.jpg?ch=675&cw=1200",
+        "tags": [
+            "detenidos",
+            "florida",
+            "menores"
+        ],
+        "link": "https://2001online.com/usa/internacionales/operativo-en-florida-policia-detuvo-a-mas-de-200-depredadores-de-menores--20259192010",
+        "date": "2025-09-20 00:01:00",
+        "sentiment_score": -0.33367838338017464
     }
 ];
