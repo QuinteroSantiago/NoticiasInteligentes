@@ -181,32 +181,6 @@ export default [
         "sentiment_score": -0.1124715507030487
     },
     {
-        "title": "Talavera refuerza su flota policial: adquiere dos vehículos patrulla y una furgoneta de atestados por 325.000 euros",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/17/barroso-RGXmGhytrAoG7ci8ahTTSVL-1200x840@diario_abc.jpg",
-        "tags": [
-            "castilla la mancha",
-            "toledo",
-            "talavera",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/talavera/talavera-refuerza-flota-policial-adquiere-dos-vehiculos-20250917144612-nt.html",
-        "date": "2025-09-17 12:46:12",
-        "sentiment_score": -0.0777483582496643
-    },
-    {
-        "title": "La Comisión Europea suspende parcialmente el acuerdo comercial con Israel",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/17/1472812597-Ref5g1oq6FRuQP4gOwt5IqL-1200x840@diario_abc.jpg",
-        "tags": [
-            "bruselas",
-            "unión europea",
-            "comisión europea (ce)",
-            "israel"
-        ],
-        "link": "https://www.abc.es/internacional/bruselas-pide-reactivar-aranceles-suspender-fondos-israel-20250917130205-nt.html",
-        "date": "2025-09-17 11:22:50",
-        "sentiment_score": -0.1350545436143875
-    },
-    {
         "title": "El Gobierno mantendrá su agenda pese al freno sistemático de Junts y Podemos",
         "image_url": "https://imagenes.elpais.com/resizer/5B1YtBCOa7krdB927ZH3nRcrdmI=/arc-anglerfish-eu-central-1-prod-prisa/public/BKTYN56LRJBDHIAMRJOLKMNN34.jpg",
         "tags": [
@@ -356,39 +330,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-09-17/barcelona-invita-a-la-ciudadania-a-participar-en-la-capitalidad-de-la-arquitectura-2026.html",
         "date": "2025-09-17 15:06:43",
         "sentiment_score": 0.20026315189898014
-    },
-    {
-        "title": "La televisión valenciana rechaza entregar voluntariamente a la jueza de la dana el vídeo que revela que un alto cargo de Mazón mintió en el juzgado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZEZXEOVY5ZGGXL4PO2B6OBHQB4.jpg?auth=da0391a17a54f75e290f73a7e0d6d5b08d8b9a3ce5ca843a41dd9820906042fe&width=1200",
-        "tags": [
-            "dana",
-            "à punt",
-            "tribunales",
-            "valencia",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-17/a-punt-rechaza-entregar-voluntariamente-a-la-jueza-de-la-dana-el-video-del-cecopi-que-revela-que-pradas-mintio-en-el-juzgado.html",
-        "date": "2025-09-17 14:04:52",
-        "sentiment_score": -0.6799661107361317
-    },
-    {
-        "title": "Illa defiende su reunión con Puigdemont como ejemplo para la convivencia en Cataluña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I73OVNCNKVKIVOS5H3V2TXRQ4A.jpg?auth=e4a3877433402defd9533a15f79279899e835e9a8edd2532fb0092f81e55a327&width=1200",
-        "tags": [
-            "psoe",
-            "iglesia católica española",
-            "luis argüello",
-            "conferencia episcopal española",
-            "psc",
-            "españa",
-            "política",
-            "salvador illa",
-            "inmigración irregular españa",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/2025-09-17/illa-defiende-su-reunion-con-puigdemont-como-ejemplo-para-la-convivencia-en-cataluna.html",
-        "date": "2025-09-17 13:22:37",
-        "sentiment_score": -0.3425304442644119
     },
     {
         "title": "Viajes fin de curso, a la caza del destino ideal; Valencia, Madrid, Cantabria y Barcelona",
@@ -8633,5 +8574,384 @@ export default [
         "link": "https://2001online.com/comunidad/cierre-de-via-este-domingo-21-de-septiembre-conozca-tres-rutas-alternas-20259201580",
         "date": "2025-09-20 19:08:00",
         "sentiment_score": -0.5104851480573416
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Madrid este 21 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/SHCTZRUOZVCJ3C2ZRHB3GXGZRA.png?auth=ccfd03e6d0570fe037ed9c51f84a1eba2b9ea17709785368392c6852d3f305ce&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "madrid",
+            "españa noticias",
+            "tiempo en españa",
+            "noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/21/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-madrid-este-21-de-septiembre/",
+        "date": "2025-09-21 01:30:37",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Top 10 videos más vistos en YouTube España hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-televisión",
+            "streaming",
+            "noticias",
+            "youtube"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/21/top-10-videos-mas-vistos-en-youtube-espana-hoy/",
+        "date": "2025-09-21 01:00:59",
+        "sentiment_score": 0.7510422933846712
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Barcelona este 21 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "españa noticias",
+            "noticias",
+            "tiempo en españa",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/21/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-barcelona-este-21-de-septiembre/",
+        "date": "2025-09-21 01:00:39",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Abogadas especializadas en violencia de género desmienten a Igualdad: «Sabían que las pulseras fallaron»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/09/21/1500857015-R92HsPwpwds42OYU0OrbDjK-1200x840@diario_abc.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.abc.es/sociedad/abogadas-especializadas-violencia-genero-desmienten-igualdad-20250921180523-nt.html",
+        "date": "2025-09-21 01:03:27",
+        "sentiment_score": -0.7518451176583767
+    },
+    {
+        "title": "Un ciberataque colapsa los aeropuertos de Londres y Bruselas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/21/1501004861-k9QE-U701620439716TEI-1200x840@diario_abc.jpg",
+        "tags": [
+            "bruselas",
+            "colapsa",
+            "ciberataque",
+            "aeropuertos",
+            "londres"
+        ],
+        "link": "https://www.abc.es/internacional/ciberataque-colapsa-aeropuertos-londres-bruselas-20250921022007-nt.html",
+        "date": "2025-09-21 00:20:08",
+        "sentiment_score": -0.12909454107284546
+    },
+    {
+        "title": "Esther Llamazares, portavoz municipal del PP: \"El gobierno de Avilés hará lo imposible, pactando con quien sea, por mantenerse \"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a7ddb32-6760-4739-9740-d2734ae4423a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asturias",
+            "psoe",
+            "gobierno",
+            "avilés"
+        ],
+        "link": "https://www.lne.es/aviles/2025/09/21/esther-llamazares-portavoz-municipal-pp-121792159.html",
+        "date": "2025-09-21 02:09:00",
+        "sentiment_score": -0.8345175944268703
+    },
+    {
+        "title": "Balón de Oro 2025: Una entrega con gran incertidumbre",
+        "image_url": "https://pxcdn.meridiano.net/092025/1758420449446.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/balon-de-oro-2025-una-entrega-con-gran-incertidumbre-20259202270",
+        "date": "2025-09-21 02:07:00",
+        "sentiment_score": 0.8543668743222952
+    },
+    {
+        "title": "Denuncia de abusos y escuadra rumbo a Algeciras",
+        "image_url": "https://static.grupojoly.com/clip/418b8225-d897-4a10-bc80-f43bf5c5d6ef_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/denuncia-abusos-escuadra-rumbo-algeciras_0_2004798982.html",
+        "date": "2025-09-21 02:01:32",
+        "sentiment_score": -0.8402740731835365
+    },
+    {
+        "title": "Real Mallorca - Atlético de Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/09/21/2474409/real-mallorca-atletico-madrid.html",
+        "date": "2025-09-21 02:00:02",
+        "sentiment_score": 0.4085775911808014
+    },
+    {
+        "title": "Dos golazos y tres puntos",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/09/real.jpg",
+        "tags": [
+            "historial"
+        ],
+        "link": "https://elsiglo.com.ve/dos-golazos-y-tres-puntos/",
+        "date": "2025-09-21 01:48:36",
+        "sentiment_score": 0.7087811976671219
+    },
+    {
+        "title": "La Fiscalía admite «dificultades» para materializar las expulsiones de los que inmigrantes que cometen delitos: «Muchas veces no son localizados»",
+        "image_url": "https://gaceta.es/wp-content/uploads/2024/10/ytjytjytytytr-1-1.jpg",
+        "tags": [
+            "inmigración ilegal",
+            "españa",
+            "fiscalía"
+        ],
+        "link": "https://gaceta.es/espana/la-fiscalia-admite-dificultades-para-materializar-las-expulsiones-de-los-que-inmigrantes-que-cometen-delitos-muchas-veces-no-son-localizados-20250921-0345/",
+        "date": "2025-09-21 01:45:00",
+        "sentiment_score": -0.8405101355165243
+    },
+    {
+        "title": "'Operación Cercanías': Moncloa impulsa una estrategia para mostrar el lado humano de Sánchez y ganar voto joven",
+        "image_url": "https://s2.elespanol.com/2025/09/20/actualidad/1003743933890_258865927_1706x1280.jpg?contentId=1003743933890",
+        "tags": [
+            "alejandro amenábar",
+            "política",
+            "pedro sánchez",
+            "emmanuel macron",
+            "begoña gómez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250921/operacion-cercanias-moncloa-impulsa-estrategia-mostrar-lado-humano-sanchez-ganar-voto-joven/1003743932743_0.html",
+        "date": "2025-09-21 00:58:13",
+        "sentiment_score": -0.46592968702316284
+    },
+    {
+        "title": "Los Charlie Kirk españoles tienen pódcast porque no pueden hablar en los campus: \"Te satanizan para no debatir\"",
+        "image_url": "https://s2.elespanol.com/2025/09/19/actualidad/1003743933024_258849502_1706x960.jpg?contentId=1003743933024",
+        "tags": [
+            "universidad",
+            "comunicación",
+            "política",
+            "estados unidos"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250921/charlie-kirk-espanoles-podcast-no-pueden-hablar-campus-satanizan-debatir/1003743932226_0.html",
+        "date": "2025-09-21 00:57:18",
+        "sentiment_score": -0.1416955441236496
+    },
+    {
+        "title": "Miguel López-Valverde: “Hemos superado el 98% del plan digital a mitad de legislatura, ahora toca afinarlo y escalarlo\"",
+        "image_url": "https://s2.elespanol.com/2023/08/30/actualidad/790681616_258832517_1706x960.jpg?contentId=790681616",
+        "tags": [
+            "entrevistas",
+            "tecnología",
+            "branded content",
+            "madrid",
+            "innovación",
+            "comunidad de madrid"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/madrid/20250921/miguel-lopez-valverde-superado-plan-digital-mitad-legislatura-ahora-toca-afinarlo-escalarlo/1003743931782_0.html",
+        "date": "2025-09-21 00:45:26",
+        "sentiment_score": 0.591416958719492
+    },
+    {
+        "title": "Ana Botín, Carlos Sainz, Iris Tió y la OEI, premios Leones de EL ESPAÑOL en la edición especial de nuestro X aniversario",
+        "image_url": "https://s2.elespanol.com/2025/09/20/actualidad/1003743934091_258869790_1706x1280.jpg?contentId=1003743934091",
+        "tags": [
+            "españa",
+            "periódico el español",
+            "fina federación internacional natación"
+        ],
+        "link": "https://www.elespanol.com/espana/20250921/ana-botin-carlos-sainz-iris-tio-oei-premios-leones-espanol-edicion-especial-aniversario/1003743933089_0.html",
+        "date": "2025-09-21 00:38:00",
+        "sentiment_score": 0.13836695812642574
+    },
+    {
+        "title": "Luis Díaz se destapó sobre su llegada al Bayern Múnich: reveló que hubo conversaciones con un club español",
+        "image_url": "https://www.infobae.com/resizer/v2/ZUI4EVXY2ZA2DHASDTMT54U4ZQ.jpg?auth=2056132f070106632637e3bfbab6487182466c1c8059a648d4c943195007dd06&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "colombia-espn",
+            "colombia-deportes",
+            "luis díaz",
+            "bayern múnich",
+            "barcelona",
+            "selección colombia",
+            "luis díaz bayern"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/09/21/luis-diaz-se-destapo-sobre-su-llegada-al-bayern-munich-revelo-que-hubo-conversaciones-con-un-club-espanol/",
+        "date": "2025-09-21 02:03:55",
+        "sentiment_score": 0.2016131579875946
+    },
+    {
+        "title": "Isabel Díaz Ayuso: \"Cualquiera en mi lugar, defendiendo mis valores, también recibiría bofetadas\"",
+        "image_url": "https://static.grupojoly.com/clip/ebdf31b5-cd2c-486e-b8a9-9c96bd254406_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "diaz",
+            "isabel",
+            "defendiendo",
+            "ayuso",
+            "lugar"
+        ],
+        "link": "https://www.diariodesevilla.es/el-zaguan/isabel-diaz-ayuso-lugar-defendiendo_0_2004827486.html",
+        "date": "2025-09-21 02:00:24",
+        "sentiment_score": -0.8959216475486755
+    },
+    {
+        "title": "Menos vuelos y plazas en las rutas con Menorca este invierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://www.menorca.info/opinion/editorial/2025/09/21/2474547/menos-vuelos-plazas-rutas-menorca-este-invierno.html",
+        "date": "2025-09-21 02:00:02",
+        "sentiment_score": -0.13171930611133575
+    },
+    {
+        "title": "El Aeropuerto de Menorca pierde este invierno 90.000 plazas y la ruta a París: estos son los seis vuelos directos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/09/21/2473757/seis-rutas-invierno-del-aeropuerto-menorca-90000-plazas-menos-vuelos-paris.html",
+        "date": "2025-09-21 02:00:02",
+        "sentiment_score": -0.619670569896698
+    },
+    {
+        "title": "Nacho Cotino: «Va de Bo está hecho en casa, por valencianos y para valencianos»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/09/18/68cbc078053dd.r_d.1741-1346-4098.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250921/nacho-cotino-bo-esta-hecho-casa-valencianos-valencianos_335564.html",
+        "date": "2025-09-21 02:00:00",
+        "sentiment_score": -0.04388118535280228
+    },
+    {
+        "title": "Brighton 64 se retira en León con el disco 'Se traspasa'",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/09/20/68ceec823e18e.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250921/2060445/brighton-64-retira-leon-disco-traspasa.html",
+        "date": "2025-09-21 01:30:00",
+        "sentiment_score": -0.14802871271967888
+    },
+    {
+        "title": "Zapatero en horas bajas",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "horas",
+            "bajas",
+            "zapatero"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/zapatero-horas-bajas_0_2004834313.html",
+        "date": "2025-09-21 01:12:07",
+        "sentiment_score": -0.7329291589558125
+    },
+    {
+        "title": "¡Más feliz que nunca! Chyno Miranda presume este tierno regalo de su esposa en sus redes",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/farandula/mas-feliz-que-nunca-chyno-miranda-presume-este-tierno-regalo-de-su-esposa-en-sus-redes-20259202250",
+        "date": "2025-09-21 02:05:00",
+        "sentiment_score": 0.8094884380698204
+    },
+    {
+        "title": "¿Eres policía o maestro? El Gobierno de EEUU te regala una casa con 50 % de descuento",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "business",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/usa/servicios/eres-policia-o-maestro-el-gobierno-de-eeuu-te-regala-una-casa-con-50-de-descuento-20259202200",
+        "date": "2025-09-21 02:00:00",
+        "sentiment_score": 0.06365342810750008
+    },
+    {
+        "title": "La reina del futbol: el legado de Marta Vieira da Silva",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758417561219/image-117-1024x683.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/deportes/la-reina-del-futbol-el-legado-de-marta-vieira-da-silva-202592022150",
+        "date": "2025-09-21 01:34:41",
+        "sentiment_score": 0.5641181394457817
+    },
+    {
+        "title": "Despídete para siempre de los ataques de ansiedad: esta es la planta que relaja el organismo en un “tris”",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758416098855/te-de-hierbas-con-hojas-en-un-vaso-de-vidrio-blanco-y-sucio.jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/despidete-para-siempre-de-los-ataques-de-ansiedad-esta-es-la-planta-que-relaja-el-organismo-en-un-tris--20259202100",
+        "date": "2025-09-21 01:00:00",
+        "sentiment_score": -0.7397041209042072
+    },
+    {
+        "title": "Cuando el mundo se estrecha: claves ocultas para entender y tratar la visión de túnel",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758126516009/Captura%20de%20pantalla%202025-09-17%20a%20la(s)%2012.20.35%20p.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/cuando-el-mundo-se-estrecha-claves-ocultas-para-entender-y-tratar-la-vision-de-tunel-20259202100",
+        "date": "2025-09-21 01:00:00",
+        "sentiment_score": 0.0927060917019844
+    },
+    {
+        "title": "La rivalidad más grande: historia de Yankees vs. Red Sox",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758408553143/la-historia-de-la-maldicion.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/deportes/la-rivalidad-mas-grande-historia-de-yankees-vs-red-sox-202592021300",
+        "date": "2025-09-21 00:34:57",
+        "sentiment_score": -0.831545552238822
+    },
+    {
+        "title": "Viajar es más fácil y seguro: este es el ticket integrado para usar el transporte público en Nashville",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/usa/servicios/viajar-es-mas-facil-y-seguro-este-es-el-ticket-integrado-para-usar-el-transporte-publico-en-nashville-202592020290",
+        "date": "2025-09-21 00:29:00",
+        "sentiment_score": 0.6545312516391277
+    },
+    {
+        "title": "Aparece el general Pedro Rafael Suárez en la toma militar de Caracas tras rumores de deserción: esto dijo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/nacionales/aparece-el-general-pedro-rafael-suarez-en-la-toma-militar-de-caracas-tras-rumores-de-desercion-esto-dijo-202592020270",
+        "date": "2025-09-21 00:27:00",
+        "sentiment_score": -0.7534567303955555
+    },
+    {
+        "title": "Un desalojo deja al descubierto el crimen que cometió una mujer contra tres bebés",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/sucesos/un-desalojo-deja-al-descubierto-el-crimen-que-cometio-una-mujer-contra-tres-bebes-20259202000",
+        "date": "2025-09-21 00:00:00",
+        "sentiment_score": -0.8873632196336985
+    },
+    {
+        "title": "¡No se exponga! Conozca el valor real de sus datos en la Dark Web",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/curiosidades/no-se-exponga-conozca-el-valor-real-de-sus-datos-en-la-dark-web-20259202000",
+        "date": "2025-09-21 00:00:00",
+        "sentiment_score": -0.09671851992607117
     }
 ];
