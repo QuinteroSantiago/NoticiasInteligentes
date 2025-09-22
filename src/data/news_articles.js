@@ -171,74 +171,6 @@ export default [
         "sentiment_score": -0.14985522627830505
     },
     {
-        "title": "Valencia anuncia la primera aceleradora de talento en semiconductores",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/18/0918Catal_ValnciaSiliconFrum(23)-RlC7BRpOVYR9DGMmIZOv6tJ-1200x840@diario_abc.JPG",
-        "tags": [
-            "primera",
-            "talento",
-            "valencia",
-            "aceleradora",
-            "anuncia",
-            "semiconductores"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/valencia-anuncia-primera-aceleradora-talento-semiconductores-20250918152441-nt.html",
-        "date": "2025-09-18 13:24:42",
-        "sentiment_score": 0.1644880175590515
-    },
-    {
-        "title": "Alberto Nadal arremete contra el Gobierno por la pérdida de poder adquisitivo que sufren los hogares",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/09/18/albertonadalppseptdiegopuerta-R5JpBvIweWYeNgG1SeKAbRK-1200x840@diario_abc.jpg",
-        "tags": [
-            "sufren",
-            "arremete",
-            "nadal",
-            "gobierno",
-            "poder",
-            "alberto",
-            "hogares",
-            "adquisitivo",
-            "perdida"
-        ],
-        "link": "https://www.abc.es/economia/alberto-nadal-arremete-gobierno-perdida-poder-adquisitivo-20250918152056-nt.html",
-        "date": "2025-09-18 13:22:48",
-        "sentiment_score": -0.05796965956687927
-    },
-    {
-        "title": "Andalucía repele cada año casi 12.000 ciberataques de los países del este",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/18/juanma-moreno-dinamarca-R80mHCNam8v4dHpDk7pN63O-1200x840@diario_abc.jpeg",
-        "tags": [
-            "españa",
-            "andalucía"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/andalucia-repele-ano-12000-ciberataques-paises-20250918133504-nts.html",
-        "date": "2025-09-18 12:33:23",
-        "sentiment_score": 0.013767838478088379
-    },
-    {
-        "title": "Uno de cada cuatro españoles sufre estrés o ansiedad en la búsqueda de vivienda",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/18/gad3-kAEI-U701583399220QAC-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/cuatro-espanoles-sufre-estres-ansiedad-busqueda-vivienda-20250918134515-nt.html",
-        "date": "2025-09-18 11:45:16",
-        "sentiment_score": -0.0864855945110321
-    },
-    {
-        "title": "«'¿Cuándo tiene tu hijo pensado ponerse bien?', me preguntó la mutua con mi hijo ingresado en la UCI»",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/88/media_thumb-link-4098297.webp?1758186606=",
-        "tags": [
-            "salud",
-            "sanidad",
-            "mutuas",
-            "seguro privado",
-            "actualidad"
-        ],
-        "link": "https://www.meneame.net/story/cuando-tiene-tu-hijo-pensado-ponerse-bien-pregunto-mutua-hijo",
-        "date": "2025-09-18 11:00:02",
-        "sentiment_score": -0.7199430242180824
-    },
-    {
         "title": "El Ayuntamiento de Madrid reinstala la placa de Largo Caballero que retiró a martillazos",
         "image_url": "https://imagenes.elpais.com/resizer/v2/SOI2WJXXM5BXZFQG5NFY7ZQD3Y.jpg?auth=da5ee45779d9690abb16b498716ad956477382b2606a12fb672587956d826a63&width=1200",
         "tags": [
@@ -329,96 +261,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-09-18/el-pp-y-vox-tumban-la-iniciativa-legislativa-popular-para-climatizar-y-aislar-los-colegios-de-madrid.html",
         "date": "2025-09-18 14:27:25",
         "sentiment_score": 0.4164082407951355
-    },
-    {
-        "title": "El PP de Cataluña se desmarca de Albiol en su defensa del catalán: “Rechazamos el Pacto Nacional por la Lengua”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HPD7PX2DSNCDTK44IYWXPHITMY.jpg?auth=bd479c3500686b9d042f519b12b03c399e14526b67b3fa4e43b09f9133f94583&width=1200",
-        "tags": [
-            "catalán",
-            "idiomas",
-            "xavier garcía albiol",
-            "política lingüística",
-            "pp",
-            "política",
-            "alejandro fernández álvarez (pp)",
-            "òmnium cultural",
-            "pp cataluña",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-18/el-pp-de-cataluna-se-desmarca-de-albiol-en-su-defensa-del-catalan-rechazamos-el-pacto-nacional-por-la-lengua.html",
-        "date": "2025-09-18 13:54:54",
-        "sentiment_score": 0.6431295312941074
-    },
-    {
-        "title": "La Policía Nacional detiene en Girona al líder del clan Orlando-Polverino-Nuvoletta de la Camorra italiana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LBO3ZOEZPNHT5HMX4IMW6GUBSE.jpg?auth=6e34dd2f33222762a7ddca2025ab0d20a121a9cbe7892e833ba7c1d0bf356bc7&width=1200",
-        "tags": [
-            "narcotráfico",
-            "cataluña",
-            "girona",
-            "nápoles",
-            "mossos d'esquadra",
-            "detenciones",
-            "mafia",
-            "fugitivos",
-            "camorra"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-18/la-policia-nacional-detiene-en-girona-al-lider-del-clan-orlando-polverino-nuvoletta-de-la-camorra-italiana.html",
-        "date": "2025-09-18 13:47:31",
-        "sentiment_score": -0.6492829583585262
-    },
-    {
-        "title": "Desbloqueado el conflicto del transporte escolar en Extremadura que ha tenido a miles de alumnos sin clase casi una semana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OT2AGXH7QFGKTNTGUSCBR6YXZQ.jpg?auth=5359dbb75eb6b038a3f1ead266f80fe3a2b6abab7f3b4ee9c938be9a0aa44a58&width=1200",
-        "tags": [
-            "transporte escolar",
-            "españa",
-            "estudiantes",
-            "niños",
-            "badajoz",
-            "extremadura",
-            "discriminación",
-            "colegios"
-        ],
-        "link": "https://elpais.com/espana/2025-09-18/desbloqueado-el-conflicto-del-transporte-escolar-en-extremadura-que-ha-tenido-a-miles-de-alumnos-sin-clase-casi-una-semana.html",
-        "date": "2025-09-18 13:24:57",
-        "sentiment_score": -0.3033648133277893
-    },
-    {
-        "title": "El Supremo mantiene en prisión a Cerdán al persistir el riesgo de destrucción de pruebas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DIQBT2BG55FL7DXBNU2GG7P2ZY.jpg?auth=ac8770598a968bf96b4ef9f3d05a236f3186171185d4d01dc72adb1c6b627d89&width=1200",
-        "tags": [
-            "santos cerdán",
-            "españa",
-            "tribunal supremo",
-            "psoe",
-            "ministerio de transportes",
-            "koldo garcía",
-            "josé luis ábalos"
-        ],
-        "link": "https://elpais.com/espana/2025-09-18/el-supremo-mantiene-en-prision-a-cerdan-al-persistir-el-riesgo-de-destruccion-de-pruebas.html",
-        "date": "2025-09-18 13:03:05",
-        "sentiment_score": -0.17350375652313232
-    },
-    {
-        "title": "La Mesa de la comisión de investigación de la dana solo concreta otra sesión y deja en el aire la declaración de las víctimas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WRHA52C2SNHSNLZ6QG7GCMD54U.jpg?auth=7b0eb059f6507ef4bb9981a79673d5139a23c44e9cc58869f54272a6353ae9a8&width=1200",
-        "tags": [
-            "pspv-psoe",
-            "política",
-            "corts valencianes",
-            "ppcv",
-            "dana",
-            "vox",
-            "parlamentos autonómicos",
-            "compromis-q",
-            "inundaciones dana octubre 2024",
-            "comisiones parlamentarias",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-18/la-mesa-de-la-comision-de-investigacion-de-la-dana-solo-concreta-otra-sesion-y-deja-en-el-aire-la-declaracion-de-las-victimas.html",
-        "date": "2025-09-18 13:00:06",
-        "sentiment_score": 0.12811924889683723
     },
     {
         "title": "Apelación confirma la sanción a Huijsen: el central del Madrid se pierde el duelo ante el Espanyol",
@@ -8002,5 +7844,419 @@ export default [
         "link": "https://2001online.com/nacionales/hector-rodriguez-muestra-los-uniformes-prendas-se-distribuiran-en-las-escuelas-del-pais-202592115380",
         "date": "2025-09-21 19:38:00",
         "sentiment_score": 0.030664756894111633
+    },
+    {
+        "title": "Clima en Madrid: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/5WNGZ3LBVBDMZOTA4JODFZB6HI.png?auth=bb2d66c14385e6d7eee2237eee93d2ced06e7974548fa46b963e43579b31c11c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa sociedad",
+            "madrid",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/22/clima-en-madrid-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2025-09-22 01:31:53",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Previsión meteorológica del estado del tiempo en Barcelona para este 22 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias",
+            "barcelona",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/22/prevision-meteorologica-del-estado-del-tiempo-en-barcelona-para-este-22-de-septiembre/",
+        "date": "2025-09-22 01:00:33",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Las películas más populares de Netflix España que no podrás dejar de ver",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "streaming",
+            "netflix",
+            "películas",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/21/las-peliculas-mas-populares-de-netflix-espana-que-no-podras-dejar-de-ver/",
+        "date": "2025-09-21 23:30:54",
+        "sentiment_score": 0.21778477728366852
+    },
+    {
+        "title": "Los mejores filmes de Prime Video España para ver en cualquier momento",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "prime video",
+            "noticias",
+            "streaming",
+            "películas",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/09/21/los-mejores-filmes-de-prime-video-espana-para-ver-en-cualquier-momento/",
+        "date": "2025-09-21 23:30:35",
+        "sentiment_score": 0.30193420499563217
+    },
+    {
+        "title": "Las más pegajosas: estas son las 10 canciones de K-pop más oídas en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "itunes",
+            "k-pop",
+            "noticias",
+            "españa",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/21/las-mas-pegajosas-estas-son-las-10-canciones-de-k-pop-mas-oidas-en-itunes-espana/",
+        "date": "2025-09-21 23:15:30",
+        "sentiment_score": 0.6754044815897942
+    },
+    {
+        "title": "Sánchez lamenta la muerte de una persona en Sant Pere de Riudebitlles (Barcelona) debido a las lluvias de este domingo",
+        "image_url": "https://www.infobae.com/resizer/v2/UQPF3RSYTNCNZE57DOA7MQ3CYI.jpg?auth=52806040d7e39f08242761ea2a95d4ff08675c3cdeb8a150d22f36f05819874b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/21/sanchez-lamenta-la-muerte-de-una-persona-en-sant-pere-de-riudebitlles-barcelona-debido-a-las-lluvias-de-este-domingo/",
+        "date": "2025-09-21 22:45:38",
+        "sentiment_score": -0.8819195404648781
+    },
+    {
+        "title": "Los funcionarios aumentan la presión contra el Gobierno por la precariedad laboral y los salarios",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/09/22/1500891005-Rc46y1zB3PzQ4ZdKkPsmNDN-1200x840@diario_abc.JPG",
+        "tags": [
+            "csif",
+            "mónica garcía gómez",
+            "bruselas",
+            "pedro sánchez",
+            "sanidad",
+            "maría jesús montero"
+        ],
+        "link": "https://www.abc.es/economia/funcionarios-aumentan-presion-gobierno-precariedad-laboral-salarios-20250922181045-nt.html",
+        "date": "2025-09-22 02:00:55",
+        "sentiment_score": -0.07241877913475037
+    },
+    {
+        "title": "El 'modo electoral' de Podemos desconcierta al resto de los socios del Gobierno",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/22/1500879986-Rxtr9GHSjCGQwRDddyEWloK-1200x840@diario_abc.jpg",
+        "tags": [
+            "modo",
+            "podemos",
+            "resto",
+            "electoral",
+            "parlamentarios",
+            "desconcierta",
+            "socios"
+        ],
+        "link": "https://www.abc.es/espana/modo-electoral-podemos-desconcierta-resto-socios-parlamentarios-20250922171146-nt.html",
+        "date": "2025-09-22 02:00:20",
+        "sentiment_score": -0.054658979177474976
+    },
+    {
+        "title": "Masa muscular",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.lanuevacronica.com/opinion/masa-muscular_182685_102.html",
+        "date": "2025-09-22 02:15:00",
+        "sentiment_score": 0.0026551634073257446
+    },
+    {
+        "title": "¿Quiénes son los jugadores que han ganado más veces el Balón de Oro en la historia?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/09/21/jugadores-mas-ganadores-balon-oro-orix/",
+        "date": "2025-09-22 02:03:43",
+        "sentiment_score": 0.36713120341300964
+    },
+    {
+        "title": "Estos son los equipos que más ganadores del Balón de Oro han tenido",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/09/21/balon-de-oro-equipos-mas-ganadores-orix/",
+        "date": "2025-09-22 02:03:43",
+        "sentiment_score": 0.8140551038086414
+    },
+    {
+        "title": "\"Algeciras me resulta muy interesante porque es un lugar de contrastes\"",
+        "image_url": "https://static.grupojoly.com/clip/2ec319e6-3e14-4adc-9da8-9c862d02d651_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/entrevista-ignacio-amaya-artista-algeciras-sitio-interesante-lugar-contrastes_0_2004801231.html",
+        "date": "2025-09-22 02:01:19",
+        "sentiment_score": -0.8187786787748337
+    },
+    {
+        "title": "El Govern se enfrenta a decenas de demandas ante los tribunales que suman 346 millones",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3473495.jpg",
+        "tags": [
+            "noticias",
+            "conselleria d'hisenda",
+            "sindicatura de comptes",
+            "indemnización",
+            "govern"
+        ],
+        "link": "https://www.menorca.info/balears/noticias/2025/09/22/2469891/govern-enfrenta-decenas-demandas-ante-tribunales-suman-346-millones.html",
+        "date": "2025-09-22 02:00:02",
+        "sentiment_score": -0.6648390386253595
+    },
+    {
+        "title": "Así es el gimnasio con sello mallorquín que Antonio Rüdiger del Real Madrid se ha instalado en casa",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3479201.jpg",
+        "tags": [
+            "audiencias-um",
+            "tendencias de moda",
+            "futbolistas",
+            "tendencias",
+            "noticias interesantes",
+            "ia-discover",
+            "cuidados de la piel",
+            "cambio de look",
+            "real madrid",
+            "gimnasios",
+            "productos de belleza"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/tendencias/2025/09/22/2473265/asi-gimnasio-sello-mallorquin-antonio-rudiger-del-real-madrid-instalado-casa.html",
+        "date": "2025-09-22 02:00:02",
+        "sentiment_score": 0.5231699123978615
+    },
+    {
+        "title": "La nueva vida de Esther Cañadas: de retirarse por una enfermedad autoinmune a regresar a las pasarelas y acudir a 'El Hormiguero'",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3479383.jpg",
+        "tags": [
+            "quiosco rosa",
+            "antena 3",
+            "audiencias-um",
+            "ia-news",
+            "esther cañadas",
+            "prensa rosa",
+            "el hormiguero",
+            "parejas de famosos"
+        ],
+        "link": "https://www.ultimahora.es/vips/quiosco-rosa/2025/09/22/2473363/nueva-vida-esther-canadas-retirarse-por-enfermedad-autoinmune-regresar-pasarelas-acudir-hormiguero.html",
+        "date": "2025-09-22 02:00:02",
+        "sentiment_score": -0.12259048223495483
+    },
+    {
+        "title": "¿Lamine Yamal ganará el Balón de Oro? La supuesta lista que \"revela\" al ganador",
+        "image_url": "https://pxcdn.meridiano.net/092025/1758506330474.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/lamine-yamal-ganara-el-balon-de-oro-la-supuesta-lista-que-revela-al-ganador-202592121580",
+        "date": "2025-09-22 01:58:00",
+        "sentiment_score": 0.9077517706900835
+    },
+    {
+        "title": "El \"Grammy\" que descubrió la gaita desde lo más alto de Ciudad Naranco",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2bba160e-f3d8-4512-956c-1b39668966ad_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asturias",
+            "gente",
+            "naranco",
+            "ciudad naranco"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/09/22/grammy-descubrio-gaita-alto-ciudad-121818906.html",
+        "date": "2025-09-22 02:08:00",
+        "sentiment_score": -0.1219237893819809
+    },
+    {
+        "title": "El primer campeonato de puzles de Menorca ya tiene ganadoras",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3482727.jpg",
+        "tags": [
+            "vivir en menorca"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2025/09/22/2474933/primer-campeonato-puzles-menorca-tiene-ganadoras.html",
+        "date": "2025-09-22 02:00:02",
+        "sentiment_score": 0.7107352167367935
+    },
+    {
+        "title": "El año en el que las sobredosis de heroína marcaron a una generación en Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3482337.jpg",
+        "tags": [
+            "última hora",
+            "noticias",
+            "sucesos en mallorca",
+            "accidente de tráfico",
+            "ultimas noticias",
+            "noticias sucesos hoy"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2025/09/22/2474739/ano-las-sobredosis-droga-marcaron-generacion-mallorca.html",
+        "date": "2025-09-22 02:00:02",
+        "sentiment_score": -0.9328024042770267
+    },
+    {
+        "title": "Los embalses valencianos se secan mientras los catalanes se llenan: la doble vara de medir de Sánchez con la política del agua",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/09/16/68c97685896e0.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250922/embalses-valencianos-secan-mientras-catalanes-llenan-doble-vara-medir-sanchez-politica-agua_335126.html",
+        "date": "2025-09-22 02:00:00",
+        "sentiment_score": -0.5001729987561703
+    },
+    {
+        "title": "El templo del almuerzo valenciano que sirve guarrilla y 300 bocadillos al día",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/09/18/68cc2b6e9df40.r_d.2476-1553-2344.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250922/templo-almuerzo-valenciano-sirve-guarrilla-300-bocadillos-dia_335551.html",
+        "date": "2025-09-22 02:00:00",
+        "sentiment_score": 0.027728751301765442
+    },
+    {
+        "title": "El poeta leonés que quiso ser clandestino",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2025/09/21/68d0401edfe64.r_d.213-395-14527.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250922/2060532/poeta-leones-quiso-clandestino.html",
+        "date": "2025-09-22 01:30:00",
+        "sentiment_score": -0.3925114572048187
+    },
+    {
+        "title": "Sánchez se lanza contra Feijóo por Gaza",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2025/09/21/68d037860ce05.r_d.600-400-0.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodeleon.es/nacional/250922/2060525/sanchez-lanza-feijoo-gaza.html",
+        "date": "2025-09-22 01:30:00",
+        "sentiment_score": -0.8246854543685913
+    },
+    {
+        "title": "Sublime sin interrupción",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sublime",
+            "interrupcion"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/sublime-interrupcion_0_2004835129.html",
+        "date": "2025-09-22 01:12:52",
+        "sentiment_score": 0.32819314301013947
+    },
+    {
+        "title": "Labios secos y agrietados: Academia Americana de Dermatología comparte los consejos para unos labios suaves",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758289336041.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/labios-secos-y-agrietados-academia-americana-de-dermatologia-comparte-los-consejos-para-unos-labios-suaves-20259212200",
+        "date": "2025-09-22 02:00:00",
+        "sentiment_score": 0.7995356675237417
+    },
+    {
+        "title": "Una iniciativa de EEUU para la educación: de esto trata el Plan 529 que te permite ahorrar para la universidad de tus hijos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758502941498.jpg?ch=675&cw=1200",
+        "tags": [
+            "servicos",
+            "educación universitaria",
+            "educación en eeuu",
+            "financiamiento del estado"
+        ],
+        "link": "https://2001online.com/usa/servicios/una-iniciativa-de-eeuu-para-la-educacion-de-esto-trata-el-plan-529-que-te-permite-ahorrar-para-la-universidad-de-tus-hijos-20259212200",
+        "date": "2025-09-22 02:00:00",
+        "sentiment_score": 0.1577757429331541
+    },
+    {
+        "title": "Predicciones de la semana del 22 al 28 septiembre",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758216794503.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-22-al-28-septiembre-20259212200",
+        "date": "2025-09-22 02:00:00",
+        "sentiment_score": -0.036967724561691284
+    },
+    {
+        "title": "¿La avena es el mejor aliado para combatir la acidez estomacal? Aquí te contamos cómo lograr mayor efectividad",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758505629461.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/la-avena-es-el-mejor-aliado-para-combatir-la-acidez-estomacal-aqui-te-contamos-como-lograr-mayor-efectividad-202592121550",
+        "date": "2025-09-22 01:55:00",
+        "sentiment_score": -0.6521892733871937
+    },
+    {
+        "title": "¡Historia pura! Venezuela conquista el Sudamericano Femenino de Voleibol U17 tras aplastar a Brasil",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758506393758.jpg?ch=675&cw=1200",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/deportes/historia-pura-venezuela-conquista-el-sudamericano-femenino-de-voleibol-u17-tras-aplastar-a-brasil-202592121530",
+        "date": "2025-09-22 01:53:00",
+        "sentiment_score": 0.7513326741755009
+    },
+    {
+        "title": "La reina de los escándalos: todo sobre las polémicas protagonizadas por Sydney Sweeney",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758505393995.jpg?ch=675&cw=1200",
+        "tags": [
+            "scooter braun",
+            "polémicas",
+            "sydney sweeney"
+        ],
+        "link": "https://2001online.com/farandula/la-reina-de-los-escandalos-todo-sobre-las-polemicas-protagonizadas-por-sydney-sweeney-202592121390",
+        "date": "2025-09-22 01:39:00",
+        "sentiment_score": -0.06811963766813278
+    },
+    {
+        "title": "¡En peligro! Tu computadora con Windows 10 no tendrá más protección: conozca los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758328558402.jpg?ch=675&cw=1200",
+        "tags": [
+            "tecnologia",
+            "peligro",
+            "windows 10"
+        ],
+        "link": "https://2001online.com/curiosidades/en-peligro-tu-computadora-con-windows-10-no-tendra-mas-proteccion-conozca-los-detalles-202592121300",
+        "date": "2025-09-22 01:30:00",
+        "sentiment_score": -0.31756265833973885
+    },
+    {
+        "title": "Té de manzanilla para los nervios: conoce la mejor hora para tomar esta infusión y lograr efectos milagrosos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758504363267.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/te-de-manzanilla-para-los-nervios-conoce-la-mejor-hora-para-tomar-esta-infusion-y-lograr-efectos-milagrosos-202592121300",
+        "date": "2025-09-22 01:30:00",
+        "sentiment_score": -0.6883791461586952
+    },
+    {
+        "title": "Hombre que traficaba armas en el Zulia tenía más de 100 municiones: estos son los delitos que le imputaron",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758492266250.jpg?ch=675&cw=1200",
+        "tags": [
+            "tráfico de armas",
+            "detenidos",
+            "ministerio público",
+            "tarek william saab",
+            "tráfico de municiones"
+        ],
+        "link": "https://2001online.com/sucesos/hombre-que-traficaba-armas-en-el-zulia-tenia-mas-de-100-municiones-estos-son-los-delitos-que-le-imputaron-202592121120",
+        "date": "2025-09-22 01:12:00",
+        "sentiment_score": -0.5277732461690903
+    },
+    {
+        "title": "Cabello líquido: conoce qué es y la fórmula de un efecto imposible dada por expertos estilistas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758287839758.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/cabello-liquido-conoce-que-es-y-la-formula-de-un-efecto-imposible-dada-por-expertos-estilistas-20259212100",
+        "date": "2025-09-22 01:00:00",
+        "sentiment_score": 0.04177689552307129
     }
 ];
