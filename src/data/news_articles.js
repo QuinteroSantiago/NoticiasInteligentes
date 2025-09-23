@@ -1,391 +1,5 @@
 export default [
     {
-        "title": "El método para terminar con las manchas de los recipientes de plástico sin frotar: “Uno de mis trucos favoritos y más útiles que he visto”",
-        "image_url": "https://www.infobae.com/resizer/v2/WG2UWI3DYVFWRJA46S2IR64BLA.jpeg?auth=d10cb3135d3c6539011659b82f7862251b6dd9b295d18b1f5f9689781ef71bd9&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-sociedad",
-            "limpieza",
-            "hogar",
-            "españa-noticias",
-            "trucos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/19/el-metodo-para-terminar-con-las-manchas-de-los-recipientes-de-plastico-sin-frotar-uno-de-mis-trucos-favoritos-y-mas-utiles-que-he-visto/",
-        "date": "2025-09-19 06:32:33",
-        "sentiment_score": 0.1685851514339447
-    },
-    {
-        "title": "El único superviviente del vuelo de Air India no ha regresado a casa tres meses después: la caótica gestión de la tragedia",
-        "image_url": "https://www.infobae.com/resizer/v2/3RGLRUGTCBEVTNCMS7TEGHT2KM.jpg?auth=4eb7c51d782ab6b8f9dc0e2d523cb082288cbe446aff9824a0e5e6caa15d8a30&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "sucesos",
-            "india",
-            "españa-sociedad",
-            "sucesos españa",
-            "españa-noticias",
-            "air india"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/19/el-unico-superviviente-del-vuelo-de-air-india-no-ha-regresado-a-casa-tres-meses-despues-la-caotica-gestion-de-la-tragedia/",
-        "date": "2025-09-19 06:15:24",
-        "sentiment_score": -0.8721681348979473
-    },
-    {
-        "title": "La reina Letizia deslumbra en el templo de Hatshepsut con un look inspirado en los faraones",
-        "image_url": "https://www.infobae.com/resizer/v2/YTHAWYUPNJDETAZOCR6FJKREQI.jpg?auth=72a7c43708fc1b07b58068dde24c96438070c822b7d0affbd119ae52f8ae5d19&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "felipe vi",
-            "casas reales",
-            "reina letizia",
-            "corazón y estilo españa",
-            "casa real españa",
-            "españa-noticias",
-            "españa-entretenimiento",
-            "egipto",
-            "realeza"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/19/la-reina-letizia-deslumbra-en-el-templo-de-hatshepsut-con-un-look-inspirado-en-los-faraones/",
-        "date": "2025-09-19 06:15:22",
-        "sentiment_score": 0.8740966152399778
-    },
-    {
-        "title": "Pierde su maleta, la aerolínea confirma su destrucción y se ve obligada a pagar 6.000 euros",
-        "image_url": "https://www.infobae.com/resizer/v2/75COVQC3DRELRAGGMK3EQM6UTY.jpg?auth=a2236f007702d30a639ff417b42a4fbc4ffc4e8af5ea1df80074a127ef42edb9&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-nacional",
-            "aeropuerto de paris charles de gaulle",
-            "aerolinea",
-            "equipaje",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/19/pierde-su-maleta-la-aerolinea-air-france-confirma-su-destruccion-y-se-ve-obligada-a-pagar-6000-euros/",
-        "date": "2025-09-19 06:10:32",
-        "sentiment_score": -0.18063536286354065
-    },
-    {
-        "title": "Julia Roberts confirma la secuela de una de sus películas más icónicas",
-        "image_url": "https://www.infobae.com/resizer/v2/SXTOXGTY3FE6FOUY6UIKZRKVPQ.jpg?auth=642607446d076398027b11e9f594365e6ac75c501fc2e1a57998f9676fd348cc&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-cultura",
-            "julia roberts",
-            "cine",
-            "actrices",
-            "cine españa",
-            "españa-noticias",
-            "luca guadagnino"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/09/19/julia-roberts-confirma-la-secuela-de-una-de-sus-peliculas-mas-iconicas/",
-        "date": "2025-09-19 06:00:59",
-        "sentiment_score": 0.5524662770330906
-    },
-    {
-        "title": "Las 5 señales que indican que nos están manipulando emocionalmente, según una terapeuta: “Dudas de la realidad de lo sucedido”",
-        "image_url": "https://www.infobae.com/resizer/v2/XQ5GEWTZCBDHXLIXLPDKLXXDIA.jpeg?auth=cdacf70e411b078406e8207167f6b32bd794ddd82e5863d7ecf6a017edbe93ce&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "autoestima",
-            "salud mental",
-            "maltrato psicológico",
-            "manipulación emocional",
-            "manipulación",
-            "salud mental españa",
-            "relaciones tóxicas",
-            "españa-salud",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/19/las-5-senales-que-indican-que-nos-estan-manipulando-emocionalmente-segun-una-terapeuta-dudas-de-la-realidad-de-lo-sucedido/",
-        "date": "2025-09-19 05:59:49",
-        "sentiment_score": -0.8489979635924101
-    },
-    {
-        "title": "Feijóo y Aznar clausuran este viernes el Campus FAES en plena ofensiva de Sánchez contra Israel por la situación en Gaza",
-        "image_url": "https://www.infobae.com/resizer/v2/5S2NYR426JFNZA4OPSTIJFLHZU.jpg?auth=3fbcc175561c1334f1a8e477f1c4310eab642df6c94bfaa4be753bb73a0cb4aa&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/09/19/feijoo-y-aznar-clausuran-este-viernes-el-campus-faes-en-plena-ofensiva-de-sanchez-contra-israel-por-la-situacion-en-gaza/",
-        "date": "2025-09-19 05:46:10",
-        "sentiment_score": -0.6987569555640221
-    },
-    {
-        "title": "Maíllo avisa a Podemos y Junts: los PGE sirven para descubrir quién se une a la \"estrategia de derribo\" al Gobierno",
-        "image_url": "https://www.infobae.com/resizer/v2/AMK55WDMKFDIFLXLTTW2KDK2FE.jpg?auth=2da29dfc54c47aee740c4fd6029792f37fe7fb4957a8e7089b2dbe4d463a3451&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/09/19/maillo-avisa-a-podemos-y-junts-los-pge-sirven-para-descubrir-quien-se-une-a-la-estrategia-de-derribo-al-gobierno/",
-        "date": "2025-09-19 05:45:52",
-        "sentiment_score": -0.1241895779967308
-    },
-    {
-        "title": "Una experta en neurociencia explica cómo “ahorrarte años de frustración”: “Tu cerebro no cree lo que es cierto”",
-        "image_url": "https://www.infobae.com/resizer/v2/EMLR4ALRMFEMJJKWDRJJ52XTMA.png?auth=a8bf3aa5102d443ffad104495656cdda855f81062984b11144ea248ac6fd9f5f&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "redes sociales",
-            "tiktok españa",
-            "salud mental españa",
-            "salud mental",
-            "españa-noticias",
-            "tiktok",
-            "españa-sociedad",
-            "psicología"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/19/una-experta-en-neurociencia-explica-como-ahorrarte-anos-de-frustracion-tu-cerebro-no-cree-lo-que-es-cierto/",
-        "date": "2025-09-19 05:31:30",
-        "sentiment_score": -0.6775539219379425
-    },
-    {
-        "title": "Actualización del tipo de cambio dólar-euro hoy 19 de septiembre",
-        "image_url": "https://www.infobae.com/resizer/v2/ESK62KO465BPPJHALZ2MW52HZI.jpg?auth=07bf53b2db812406e917e930f5264d5cd0382e62de46b4cd3b6e6a47e5917685&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "dólar",
-            "tipo de cambio",
-            "bancos españa",
-            "billetes",
-            "noticias",
-            "mercados",
-            "monedas",
-            "españa-economía",
-            "euros"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/19/actualizacion-del-tipo-de-cambio-dolar-euro-hoy-19-de-septiembre/",
-        "date": "2025-09-19 05:15:33",
-        "sentiment_score": -0.09826283156871796
-    },
-    {
-        "title": "La Generalitat liderará la atención de los casos más complejos entre los sin techo del aeropuerto de Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IV74MJ7LPBDFHKEA3DK6XPDT54.jpg?auth=1af680774355fe4de6c73aa0da3065f6e27c28c3bd8099179785642b118a5d94&width=1200",
-        "tags": [
-            "aena aeropuertos",
-            "generalitat cataluña",
-            "competencias autonómicas",
-            "ayuntamiento barcelona",
-            "servicios sociales",
-            "cataluña",
-            "el prat de llobregat",
-            "barcelona",
-            "aeropuerto el prat",
-            "pobreza",
-            "competencias municipales",
-            "personas sin hogar"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-19/la-generalitat-liderara-la-atencion-de-los-casos-mas-complejos-entre-los-sin-techo-del-aeropuerto-de-barcelona.html",
-        "date": "2025-09-19 06:15:00",
-        "sentiment_score": 0.47498996928334236
-    },
-    {
-        "title": "La España que madruga",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/623CGS4MUZAHJJYOJD4RGJSHTA.jpg?auth=915244418201791a9be9e1cd53df15e96e9f3e30a33168df1607bac05f939a00&width=1200",
-        "tags": [
-            "isaac rosa",
-            "comunidad valenciana",
-            "literatura",
-            "valencia",
-            "librerías"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-19/la-espana-que-madruga.html",
-        "date": "2025-09-19 05:17:06",
-        "sentiment_score": -0.5584098175168037
-    },
-    {
-        "title": "¿Cómo encontrar un coto de caza en venta que se ajuste a tu necesidad?",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/09/19/2025091906321065467.jpg",
-        "tags": [
-            "la buena vida"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/la-buena-vida/como-encontrar-coto-caza-venta-que-ajuste-necesidad/20250919063210980385.html",
-        "date": "2025-09-19 06:32:10",
-        "sentiment_score": -0.14310750365257263
-    },
-    {
-        "title": "El Bilbao Athletic, un rival aguerrido para el Pontevedra CF",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/09/18/2025091819255077413.jpg",
-        "tags": [
-            "deporte local pontevedra"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/deporte-local-pontevedra/bilbao-athletic-rival-aguerrido/202509190829501409256.html",
-        "date": "2025-09-19 06:29:50",
-        "sentiment_score": 0.8332629017531872
-    },
-    {
-        "title": "Marcos Fernández: \"Tenemos que hacer del 'Murube' nuestro fortín\"",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/09/castellon-ad-ceuta-domingo-14-septiembre-2025-016-750x500.jpg?v=1757871729",
-        "tags": [
-            "deportes",
-            "ad ceuta",
-            "noticias",
-            "futbol",
-            "estadio alfonso murube"
-        ],
-        "link": "https://elfarodeceuta.es/marcos-fernandez-ad-ceuta-tenemos-hacer-murube-fortin/",
-        "date": "2025-09-19 06:24:32",
-        "sentiment_score": 0.6215116754174232
-    },
-    {
-        "title": "La Lotería Nacional deja un primer premio en Guadalcacín",
-        "image_url": "https://static.grupojoly.com/clip/88da6797-313c-4bfc-9a2c-a9dc19431e90_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias jerez",
-            "jerez hoy"
-        ],
-        "link": "https://www.diariodejerez.es/jerez/loteria-nacional-deja-primer-premio-guadalcacin_0_2004820121.html",
-        "date": "2025-09-19 06:20:27",
-        "sentiment_score": 0.008361946791410446
-    },
-    {
-        "title": "Hard GZ sigue la estela de C. Tangana y le pone voz al himno del RC Celta de Vigo con un alegato a la emigración gallega",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250919080254_260.jpg",
-        "tags": [
-            "música",
-            "cultura"
-        ],
-        "link": "https://www.europapress.es/cultura/musica-00129/noticia-hard-gz-sigue-estela-tangana-le-pone-voz-himno-rc-celta-vigo-alegato-emigracion-gallega-20250919080254.html",
-        "date": "2025-09-19 06:02:54",
-        "sentiment_score": 0.30955302342772484
-    },
-    {
-        "title": "La preciosa villa medieval que bien merece una visita antes de que finalice el verano",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/09/17/33CD9190-FA96-4400-BFA7-86F6A872691E/vista-localidad-palentina-ampudia_69.jpg?crop=2000%2C1125%2Cx0%2Cy74&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "castilla y león",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/preciosa-villa-medieval-que-bien-merece-visita-antes-que-finalice-verano_2025091968ccf16f1b05386b62a487a4.html",
-        "date": "2025-09-19 06:00:15",
-        "sentiment_score": 0.7683700695633888
-    },
-    {
-        "title": "La llegada de Bellingham dejará ver al verdadero Madrid de Alonso: la pieza clave que hay que encajar y cambia el plan",
-        "image_url": "https://s2.elespanol.com/2025/09/18/actualidad/1003743930901_258809482_1706x960.jpg?contentId=1003743930901",
-        "tags": [
-            "fútbol",
-            "real madrid cf",
-            "xabi alonso"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20250919/llegada-bellingham-dejara-ver-verdadero-madrid-alonso-pieza-clave-encajar-cambia-plan/1003743930880_0.html",
-        "date": "2025-09-19 06:00:00",
-        "sentiment_score": -0.42909012734889984
-    },
-    {
-        "title": "Mucha carretera y poco tren: Andalucía incrementa su falta estructural de transporte público sostenible",
-        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/4ac9b8d7/Autovia%20Almanzora.jpg?v=63925437285",
-        "tags": [
-            "movilidad",
-            "actualidad",
-            "infraestructuras"
-        ],
-        "link": "https://www.elsaltodiario.com/andalucia/mucha-carretera-poco-tren-andalucia-incrementa-falta-estructural-transporte-publico-sostenible",
-        "date": "2025-09-19 06:00:00",
-        "sentiment_score": -0.1640769988298416
-    },
-    {
-        "title": "25 estaciones de Cercanías se adaptarán a personas con discapacidad auditiva con IA: \"Es un hito\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/09/19/68cceac5472ce.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/capaces/25-estaciones-cercanias-madrid-se-adaptaran-personas-con-discapacidad-auditiva-con-ia-es-un-hito_6369268_0.html",
-        "date": "2025-09-19 05:54:58",
-        "sentiment_score": 0.17951220273971558
-    },
-    {
-        "title": "La fosa común de San Lorenzo Tezonco, testigo silente de la tragedia de 1985",
-        "image_url": "https://www.infobae.com/resizer/v2/OAYWII7LSVEQNNG2RFQMN3TZRI.jpg?auth=1e87ce3283b836f6921d86d6728d0ceecb4f42f997a4b3f6c565bbe910b63398&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "cementerio",
-            "mexico-noticias",
-            "víctimas",
-            "sismo 1985",
-            "temblor en méxico",
-            "sismo"
-        ],
-        "link": "https://www.infobae.com/mexico/2025/09/19/la-fosa-comun-de-san-lorenzo-tezonco-testigo-silente-de-la-tragedia-de-1985/",
-        "date": "2025-09-19 05:50:01",
-        "sentiment_score": -0.7893392685800791
-    },
-    {
-        "title": "Parece Israel, pero es Barcelona: el barrio catalán que demuestra que la convivencia es posible",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/17/vida/1003742689422_15156766_1706x960.jpg?contentId=1003742689422",
-        "tags": [
-            "guerra",
-            "cataluña",
-            "viajes",
-            "barcelona",
-            "israel",
-            "barrios",
-            "palestina"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/viajes/20250919/parece-israel-barcelona-barrio-catalan-demuestra-convivencia-posible-trt/1003742689415_0.html",
-        "date": "2025-09-19 06:34:21",
-        "sentiment_score": 0.35435228794813156
-    },
-    {
-        "title": "S15 Group: especialistas en crear espacios con alma",
-        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3478027.jpg",
-        "tags": [
-            "el económico",
-            "sector inmobiliario",
-            "vivienda",
-            "arquitectura",
-            "eivissa"
-        ],
-        "link": "https://www.menorca.info/balears/economico/2025/09/19/2472631/s15-group-especialistas-crear-espacios-alma.html",
-        "date": "2025-09-19 06:32:09",
-        "sentiment_score": 0.7498616091907024
-    },
-    {
-        "title": "CC.OO de Catalunya ve \"justicia patriarcal\" en la rebaja a la 'manada de Castelldefels' (Barcelona)",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250919082846_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-ccoo-catalunya-ve-justicia-patriarcal-rebaja-manada-castelldefels-barcelona-20250919082846.html",
-        "date": "2025-09-19 06:28:46",
-        "sentiment_score": -0.851720442995429
-    },
-    {
-        "title": "Viscofan lanzará el lunes una recompra de acciones de hasta 40 millones en el marco de su dividendo flexible",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250919082812_260.jpg",
-        "tags": [
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/noticia-viscofan-lanzara-lunes-recompra-acciones-40-millones-marco-dividendo-flexible-20250919082812.html",
-        "date": "2025-09-19 06:28:12",
-        "sentiment_score": 0.3512251880019903
-    },
-    {
-        "title": "Barcelona modernizará 104 colegios públicos antes de final de 2025: inversión de 64 millones de euros",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/02/20/sant-marti/834176689_12480195_1706x960.jpg?contentId=834176689",
-        "tags": [
-            "obras",
-            "ayuntamiento de barcelona",
-            "colegios barcelona",
-            "información municipal"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20250919/barcelona-modernizara-colegios-publicos-final-inversion-millones-euros/1003742690023_0.html",
-        "date": "2025-09-19 06:27:55",
-        "sentiment_score": 0.5496449917554855
-    },
-    {
-        "title": "Carrefour exhibe su capacidad de adaptar el modelo comercial con la apertura de su primera tienda en un aeropuerto en España",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2025/09/19/2025091902144365915.jpg",
-        "tags": [
-            "ferretería y bricolaje"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/ferreteria-bricolaje/carrefour-prat-barcelona-tienda/20250919015923435805.html",
-        "date": "2025-09-19 06:17:37",
-        "sentiment_score": 0.364893551915884
-    },
-    {
-        "title": "Contar e informar sobre el Athletic",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4546a8cd-a12b-49b0-b739-5a63d95aded0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "informar",
-            "contar",
-            "athletic"
-        ],
-        "link": "https://www.deia.eus/opinion/rojo-sobre-blanco/2025/09/19/contar-informar-athletic-10102538.html",
-        "date": "2025-09-19 06:14:21",
-        "sentiment_score": 0.36139893531799316
-    },
-    {
         "title": "La AN envía a prisión a seis de los detenidos en la operación contra el presunto narco 'José, el del Buque'",
         "image_url": "https://www.infobae.com/resizer/v2/OUGWSEWNHJCXROFXYRMUT3OFWI.jpg?auth=386c4ef4a84179cd85e60f4e6f22236333003797c9b8fc299d2b7d0027c17bf4&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -552,19 +166,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/vacuna-covid-prevenir-enfermedades-cardiacas-20250919125640-nt.html",
         "date": "2025-09-19 10:58:06",
         "sentiment_score": -0.1867934763431549
-    },
-    {
-        "title": "Caos en la estación de Toledo: el Avant de las 7.25 no sale y el de las 7.55 queda bloqueado por exceso de viajeros",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/19/WhatsAppImage2025-09-19at08.30.41-R7MYycNibG0B7yLOXqIY5JL-1200x840@diario_abc.jpeg",
-        "tags": [
-            "ave",
-            "renfe",
-            "policía nacional",
-            "toledo"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/caos-estacion-toledo-avant-725-sale-755-20250919111158-nt.html",
-        "date": "2025-09-19 09:13:38",
-        "sentiment_score": -0.15334321558475494
     },
     {
         "title": "El Retiro y otros ocho parques de Madrid estarán cerrados por las fuertes rachas de viento",
@@ -7689,5 +7290,645 @@ export default [
         "link": "https://2001online.com/usa/servicios/como-presentar-un-reclamo-de-compensacion-para-trabajadores-en-nueva-york-descubre-el-paso-a-paso-20259221160",
         "date": "2025-09-22 15:06:00",
         "sentiment_score": 0.22276416793465614
+    },
+    {
+        "title": "Sánchez anuncia la primera estrategia de cooperación feminista en España: \"O avanzamos todos o no avanzamos ninguno\"",
+        "image_url": "https://www.infobae.com/resizer/v2/UC2LGCBRJRASNCS7WJPWMM65YE.jpg?auth=02abb5bc8808747936f319b45cfcfd9f8cfe9108ec0ee0ec843e64d9a2f2ce56&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/22/sanchez-anuncia-la-primera-estrategia-de-cooperacion-feminista-en-espana-o-avanzamos-todos-o-no-avanzamos-ninguno/",
+        "date": "2025-09-22 21:31:13",
+        "sentiment_score": 0.205392025411129
+    },
+    {
+        "title": "Aitana Bonmatí se corona en París y se convierte en la primera jugadora en ganar el Balón de Oro tres veces consecutivas",
+        "image_url": "https://www.infobae.com/resizer/v2/OIHMIJBTFBCNXCGQYQMI2CMZGI.jpg?auth=e77973f3c8ebe2eb03bb7cdffaabd3b276ebc01db40fd739984f16507e2db6ae&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "balon de oro",
+            "mariona caldentey",
+            "futbol españa",
+            "españa-deportes",
+            "españa-noticias",
+            "aitana bonmati",
+            "futbol club barcelona",
+            "seleccion española",
+            "futbol"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/22/aitana-bonmati-se-corona-en-paris-y-se-convierte-en-la-primera-jugadora-en-ganar-el-balon-dor-tres-veces-consecutivas/",
+        "date": "2025-09-22 21:20:26",
+        "sentiment_score": 0.7916978821158409
+    },
+    {
+        "title": "Miguel Torres: “Presumo mucho de Paula porque es un ejemplo de lo que tiene que ser una mujer”",
+        "image_url": "https://www.infobae.com/resizer/v2/3SF42TYTXND4HD6YPL6OTIRPSM.jpg?auth=56dce748bc9d5f7180a5ae9ba2c282c74f51beb3296ba24012c7041147d36c1a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "masterchef celebrity españa",
+            "tve",
+            "parejas de famosos",
+            "famosos españa",
+            "corazón y estilo españa",
+            "españa-entretenimiento",
+            "rtve",
+            "españa-noticias",
+            "paula echevarría",
+            "miguel torres"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/22/miguel-torres-presumo-mucho-de-paula-porque-es-un-ejemplo-de-lo-que-tiene-que-ser-una-mujer/",
+        "date": "2025-09-22 19:24:06",
+        "sentiment_score": 0.1887192651629448
+    },
+    {
+        "title": "Lamine Yamal vuelve a llevarse el trofeo Kopa a mejor jugador joven",
+        "image_url": "https://www.infobae.com/resizer/v2/UFRCNQ2H2RAIVCVB4JN5KBHKGM.JPG?auth=864e816042e5163769214308223a6ecc78991b51beeeedc1aeda235237e41880&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "fútbol españa",
+            "españa-deportes",
+            "fútbol",
+            "lamine yamal",
+            "france football",
+            "fc barcelona",
+            "balón de oro"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/09/22/lamine-yamal-vuelve-a-llevarse-el-trofeo-kopa-a-mejor-jugador-joven/",
+        "date": "2025-09-22 19:18:33",
+        "sentiment_score": 0.36211085319519043
+    },
+    {
+        "title": "Postura del camello: un ejercicio de yoga ideal para quienes pasan mucho tiempo sentados",
+        "image_url": "https://www.infobae.com/resizer/v2/LDW2FEHQHNDWFJT4JZHZ2UOD2I.jpg?auth=846912c2560b5c4f6ad25bc6f63c51dd0965bfd4de5b1366951b53fc35cc3e8f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-salud",
+            "espalda",
+            "salud",
+            "beneficios",
+            "posturas yoga",
+            "españa-noticias",
+            "yoga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/22/postura-del-camello-un-ejercicio-de-yoga-ideal-para-quienes-pasan-mucho-tiempo-sentados/",
+        "date": "2025-09-22 19:16:05",
+        "sentiment_score": 0.7163898684084415
+    },
+    {
+        "title": "Cinco señales para identificar las picaduras de chinches",
+        "image_url": "https://www.infobae.com/resizer/v2/7AOJKPPHRNG3FLSHMJC74O5FMI.png?auth=3ddaabe22b5a24ddae7d2216f7bfe5d812822d8436779111c6c8f58e31f3260a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "picor",
+            "españa-salud",
+            "chinches",
+            "remedios",
+            "insectos",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/22/cinco-senales-para-identificar-las-picaduras-de-chinches/",
+        "date": "2025-09-22 19:14:18",
+        "sentiment_score": -0.5120742544531822
+    },
+    {
+        "title": "El tórrido verano de 2024 dejó más de 62.700 muertes en Europa: España es el segundo país más afectado con 6.700",
+        "image_url": "https://www.infobae.com/resizer/v2/7Q74U56S35EHDKV4AR6XXJ2MGI.jpg?auth=8dc73c516790964ed7f8fe64307bfea2b7bade8a52ef095e8e6d3c09504f99ae&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "calor",
+            "clima",
+            "fallecimientos",
+            "cambio climático"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/22/el-torrido-verano-de-2024-dejo-mas-de-62700-muertes-en-europa-espana-es-el-segundo-pais-mas-afectado-con-6700/",
+        "date": "2025-09-22 18:55:25",
+        "sentiment_score": -0.16199025511741638
+    },
+    {
+        "title": "Una anciana ingresa en una residencia de forma temporal, fallece y su casero considera que ha abandonado la vivienda: la justicia desestima el argumento del propietario",
+        "image_url": "https://www.infobae.com/resizer/v2/SZYNHYHV3VCRDBD4DZWB7ATAHI.jpg?auth=79b3f9fdf472f951f0e0edb993758f35e5f76e59ebb4188e6f77342a569b2ad2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-sociedad",
+            "ancianos",
+            "vivienda",
+            "españa-noticias",
+            "alquileres",
+            "sentencias",
+            "tribunales españa",
+            "vivienda españa",
+            "personas mayores",
+            "juicios",
+            "alquileres españa",
+            "justicia",
+            "francia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/22/una-anciana-ingresa-en-una-residencia-de-forma-temporal-fallece-y-su-casero-considera-que-ha-abandonado-la-vivienda-la-justicia-desestima-el-argumento-del-propietario/",
+        "date": "2025-09-22 18:24:07",
+        "sentiment_score": -0.03320688754320145
+    },
+    {
+        "title": "Un bebé de 20 días enterrado vivo fue descubierto por un pastor: “Ha desarrollado una infección”",
+        "image_url": "https://www.infobae.com/resizer/v2/5KTDUGXZIFHM7ATNJP4YTVCAFY.jpeg?auth=af6807922dc4cb75f5341ca0f48c2d30065feb3e6e26126190e4c3f777410f57&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-sociedad",
+            "crímenes",
+            "pobreza",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/22/un-bebe-de-20-dias-enterrado-vivo-fue-descubierto-por-un-pastor-ha-desarrollado-una-infeccion/",
+        "date": "2025-09-22 18:22:50",
+        "sentiment_score": -0.9373592548072338
+    },
+    {
+        "title": "Pasta a la trapanese: una receta siciliana clásica, sencilla y llena de sabor para sorprender a tus invitados",
+        "image_url": "https://www.infobae.com/resizer/v2/FI2FUDTKVREX3EHJD3EX6X236E.jpg?auth=1de76a41481224e65c1337acbdd3d9639a3bf685c25a6cf7df835cb12e166630&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "recetas",
+            "españa-noticias",
+            "pasta",
+            "cocina italiana",
+            "almendras",
+            "españa-gastronomía",
+            "recetas españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/22/pasta-a-la-trapanese-una-receta-siciliana-clasica-sencilla-y-llena-de-sabor-para-sorprender-a-tus-invitados/",
+        "date": "2025-09-22 18:21:39",
+        "sentiment_score": 0.41880615428090096
+    },
+    {
+        "title": "El programa de Jimmy Kimmel regresa al aire el martes",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/8e/media_thumb-link-4099812.webp?1758571506=",
+        "tags": [
+            "abc",
+            "censura",
+            "actualidad",
+            "jimmy kimmel",
+            "disney"
+        ],
+        "link": "https://www.meneame.net/story/programa-jimmy-kimmel-regresa-aire-martes",
+        "date": "2025-09-22 20:25:03",
+        "sentiment_score": -0.3341829925775528
+    },
+    {
+        "title": "El programa de Jimmy Kimmel volverá a emitirse este martes tras ser cancelado hace una semana",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/22/1500901374-ko3C-U701629448653iKF-1200x840@diario_abc.jpg",
+        "tags": [
+            "jimmy kimmel",
+            "uh abc",
+            "premios",
+            "disney"
+        ],
+        "link": "https://www.abc.es/internacional/programa-jimmy-kimmel-volvera-emitirse-martes-20250922215052-nt.html",
+        "date": "2025-09-22 20:03:15",
+        "sentiment_score": -0.22321836650371552
+    },
+    {
+        "title": "Una jueza absuelve a El Tejar de vertidos de alpeorujo en el cauce del río Guadajoz por «defectos procesales»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/22/condena-eltejar-acusados-RfZQMX9Al6KwefBKuGH507J-1200x840@diario_abc.jpg",
+        "tags": [
+            "andalucía",
+            "córdoba",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/andalucia/cordoba/jueza-absuelve-tejar-vertidos-alpeorujo-cauce-rio-20250922203424-nts.html",
+        "date": "2025-09-22 18:34:25",
+        "sentiment_score": -0.7531341593712568
+    },
+    {
+        "title": "La oposición exige explicaciones a Ayuso por el caso de su pareja y su jefe de gabinete señala ahora a la jueza",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZUKHJYNBKFGELIR5I5JL4S2JY4.jpg?auth=8a5f5cd52c1924081f31f92a0ac3e9e285646f27e86a3095f6a5d06855a4cbda&width=1200",
+        "tags": [
+            "juicios",
+            "alberto gonzález amador",
+            "tribunales",
+            "isabel díaz ayuso",
+            "miguel ángel rodríguez",
+            "fiscalía",
+            "fraude fiscal",
+            "política",
+            "madrid",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-09-22/la-oposicion-exige-explicaciones-a-ayuso-por-el-caso-de-su-pareja-y-su-jefe-de-gabinete-senala-ahora-a-la-jueza.html",
+        "date": "2025-09-22 19:06:59",
+        "sentiment_score": -0.6866550222039223
+    },
+    {
+        "title": "El PSOE llevará al Constitucional el veto del PP a preguntar por los pagos de una entidad financiada por Madrid al despacho fundado por Montoro",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O2UDE6KSAVIQRPHKMS3KOSHLLY.jpg?auth=e1428033dbdfcf396f159cd4b44bcf91a14b63d3df7bb332a19f6dbccb764d68&width=1200",
+        "tags": [
+            "asamblea madrid",
+            "madrid",
+            "parlamentos autonómicos",
+            "gobierno comunidad madrid",
+            "comunidad de madrid",
+            "óscar lópez águeda",
+            "cristóbal montoro",
+            "esperanza aguirre"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-09-22/el-psoe-llevara-al-constitucional-el-veto-del-pp-a-preguntar-por-los-pagos-de-una-entidad-financiada-por-madrid-al-despacho-fundado-por-montoro.html",
+        "date": "2025-09-22 17:57:29",
+        "sentiment_score": -0.4082662910223007
+    },
+    {
+        "title": "Sánchez recibe el aplauso en Columbia con una visión del mundo antagónica a Trump",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LRD4FNT5OBMHLCQ63EMJL6X55Y.jpg?auth=feebd1689ea445ab2699c13658735d7743488ecb704a7660f366d6be94583ef0&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "psoe",
+            "benjamin netanyahu",
+            "onu",
+            "nueva york",
+            "israel",
+            "españa",
+            "donald trump"
+        ],
+        "link": "https://elpais.com/espana/2025-09-22/sanchez-recibe-el-aplauso-en-columbia-con-una-vision-del-mundo-antagonica-a-trump.html",
+        "date": "2025-09-22 17:47:21",
+        "sentiment_score": 0.05708479881286621
+    },
+    {
+        "title": "La Fiscalía pide 98 años de cárcel para ‘El Toba’, el frutero pederasta de Valdeavero",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7DPB5WLTJJFURJVF36LWUECE3U.jpg?auth=5d16312a047eea9e4b5b5cda788463c4e73ae33e4f431c7f813cb37a77a32511&width=1200",
+        "tags": [
+            "juicios",
+            "valdeavero",
+            "madrid",
+            "pederastia",
+            "menores",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-09-22/la-fiscalia-pide-98-anos-de-carcel-para-el-toba-el-frutero-pederasta-de-valdeavero.html",
+        "date": "2025-09-22 17:20:28",
+        "sentiment_score": -0.760450467467308
+    },
+    {
+        "title": "Los veterinarios reclaman a la Generalitat que acelere la vacunación obligatoria contra la rabia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NPET7KWQQ5HGLALADO7BHXAGI4.jpg?auth=2ddf853ab79ef5473ac853811f9e5d40c78f2fb5d137c60559f21f40a3f62fcd&width=1200",
+        "tags": [
+            "vacunación",
+            "vacunas",
+            "mascotas",
+            "veterinario mascotas",
+            "sociedad",
+            "enfermedades",
+            "epidemia",
+            "sanidad",
+            "enfermedades animales",
+            "sanidad pública",
+            "infecciones",
+            "salud pública",
+            "cataluña",
+            "veterinaria",
+            "generalitat cataluña",
+            "enfermedades endémicas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-09-22/los-veterinarios-reclaman-a-la-generalitat-que-acelere-la-vacunacion-obligatoria-contra-la-rabia.html",
+        "date": "2025-09-22 17:19:05",
+        "sentiment_score": -0.5322391502559185
+    },
+    {
+        "title": "El revolucionario método para adelgazar ideado por un madrileño",
+        "image_url": "https://phantom-elmundo.uecdn.es/3727684ed80deb70dba765782150f49b/crop/0x575/3072x3647/f/image/jpeg/assets/multimedia/imagenes/2024/08/03/17226433175716.jpg",
+        "tags": [
+            "artículos charo lagares",
+            "opinión",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/09/23/68d07d16e85eceff688b4581.html",
+        "date": "2025-09-22 22:06:22",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "El sur de Madrid abre la mayor electrolinera de la Península y Madrid se sitúa con casi 7.000 puntos de recarga",
+        "image_url": "https://phantom-elmundo.uecdn.es/279b10baeeee76998f07aaa972ad39f9/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/22/17585655685962.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "coches eléctricos",
+            "transporte y turismo"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/09/23/68d1824921efa096378b45a1.html",
+        "date": "2025-09-22 22:06:18",
+        "sentiment_score": 0.28548936545848846
+    },
+    {
+        "title": "Los Juegos Olímpicos, un sueño más que un plan real para Madrid: el COI ve con interés a la capital pero no se ha dado un paso oficial",
+        "image_url": "https://phantom-elmundo.uecdn.es/51ded3774df26a5e18ce81351c21152a/crop/0x0/3024x3024/f/image/jpeg/assets/multimedia/imagenes/2022/01/31/16436433363550.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "deportes",
+            "artículos vicente coll",
+            "política",
+            "madrid",
+            "juegos olímpicos",
+            "isabel díaz ayuso"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/09/23/68d15995fdddff82598b4585.html",
+        "date": "2025-09-22 22:06:17",
+        "sentiment_score": -0.38331662490963936
+    },
+    {
+        "title": "Sánchez pide detener el «genocidio» en un discurso de dos minutos y medio ante la ONU",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/09/22/68d1c55bf012a.r_d.1796-1314-3370.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20250923/sanchez-pide-detener-genocidio-discurso-dos-minutos-medio-ante-onu_337077.html",
+        "date": "2025-09-22 22:00:44",
+        "sentiment_score": -0.5333066061139107
+    },
+    {
+        "title": "Los mejores memes del Balón de Oro que Dembélé le ganó a Lamine Yamal: las “reacciones” de Nicki Nicole, Messi y Mbappé",
+        "image_url": "https://www.infobae.com/resizer/v2/HGSAMAKRHVGGRHHCE7KAXHYXVE.jpg?auth=62d3ef1636440dabdb47d4f6ae1be99b60f13905d208f49be3d46d7b69faacea&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "lionel messi",
+            "deportes-internacional",
+            "parís saint germain",
+            "deportes-argentina",
+            "balón de oro",
+            "fc barcelona",
+            "mbappé",
+            "psg",
+            "ousmane dembélé",
+            "memes",
+            "nicki nicole",
+            "lamine yamal"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/22/los-mejores-memes-del-balon-de-oro-que-dembele-le-gano-a-lamine-yamal-las-reacciones-de-nicki-nicole-messi-y-mbappe/",
+        "date": "2025-09-22 21:53:41",
+        "sentiment_score": 0.5360866561532021
+    },
+    {
+        "title": "Dembélé y Aitana se cubren de oro",
+        "image_url": "https://static.grupojoly.com/clip/4249b4e3-ea52-462e-8c5a-32596cc1bdd9_source-aspect-ratio_default_0.png",
+        "tags": [
+            "fútbol",
+            "fútbol femenino"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/dembele-aitana-cubren-oro_0_2004852647.html",
+        "date": "2025-09-22 21:52:37",
+        "sentiment_score": 0.8996904511004686
+    },
+    {
+        "title": "Los mejores memes de la gala del Balón de Oro",
+        "image_url": "https://okdiario.com/img/2025/09/22/los-memes-del-balon-de-oro-2025..jpg",
+        "tags": [
+            "lamine yamal",
+            "fc barcelona",
+            "ousmane dembelé",
+            "deportes",
+            "balón de oro",
+            "paris saint-germain (psg)"
+        ],
+        "link": "https://okdiario.com/deportes/mejores-memes-gala-del-balon-oro-15456964",
+        "date": "2025-09-22 21:50:36",
+        "sentiment_score": -0.07344549894332886
+    },
+    {
+        "title": "Balón de Oro 2025: ¿Por qué Gyokeres ganó el premio al mejor goleador si Mbappé fue Bota de Oro?",
+        "image_url": "https://pxcdn.meridiano.net/092025/1758576909106.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/balon-de-oro-2025-por-que-gyokeres-gano-el-premio-al-mejor-goleador-si-mbappe-fue-bota-de-oro--202592217460",
+        "date": "2025-09-22 21:46:00",
+        "sentiment_score": 0.1474534161388874
+    },
+    {
+        "title": "Lamine Yamal obtuvo por segundo año consecutivo el trofeo Kopa",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/09/Lamine-Yamal.jpg",
+        "tags": [
+            "22sep",
+            "kopa",
+            "deportes",
+            "lamine yamal"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/09/22/lamine-yamal-trofeo-kopa/",
+        "date": "2025-09-22 21:39:27",
+        "sentiment_score": 0.718511376529932
+    },
+    {
+        "title": "Balón de Oro 2025: Real Madrid sin ningún premio",
+        "image_url": "https://pxcdn.meridiano.net/092025/1758575273246.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/balon-de-oro-2025-real-madrid-sin-ningun-premio-202592217320",
+        "date": "2025-09-22 21:32:00",
+        "sentiment_score": -0.8673710348084569
+    },
+    {
+        "title": "Con fervor y alegría celebraron a San Mateo Apóstol en el municipio Libertad",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "tiempo libre",
+            "religión"
+        ],
+        "link": "https://eltiempove.com/con-fervor-y-alegria-celebraron-a-san-mateo-apostol-en-el-municipio-libertad/",
+        "date": "2025-09-22 22:15:46",
+        "sentiment_score": 0.10548734664916992
+    },
+    {
+        "title": "Aitana Bonmatí conquista su tercer Balón de Oro femenino",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250923000836_120.jpg",
+        "tags": [
+            "vídeos"
+        ],
+        "link": "https://www.europapress.es/videos/deportes/video-aitana-bonmati-conquista-tercer-balon-oro-femenino-20250923000836.html",
+        "date": "2025-09-22 22:08:36",
+        "sentiment_score": 0.8816060721874237
+    },
+    {
+        "title": "El sofá modular, una idea de un adolescente norteamericano que marcó el desarrollo del asiento del futuro",
+        "image_url": "https://phantom-elmundo.uecdn.es/23f58fb501aa500bf66e6de204b3cd32/crop/913x131/3019x1711/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/22/17585289188650.jpg",
+        "tags": [
+            "yodona",
+            "deco",
+            "lifestyle",
+            "decoración"
+        ],
+        "link": "https://www.elmundo.es/yodona/lifestyle/2025/09/23/68d10480e85ecefa7c8b4589.html",
+        "date": "2025-09-22 22:08:31",
+        "sentiment_score": 0.6616748571395874
+    },
+    {
+        "title": "Felanitx se ilusiona pero se queda con la miel en los labios",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3484087.jpg",
+        "tags": [
+            "champions league",
+            "europa league",
+            "liga de naciones",
+            "fútbol",
+            "mariona caldentey",
+            "primera división",
+            "laliga",
+            "copa del rey",
+            "ajuntament de felanitx"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/09/23/2475721/felanitx-ilusiona-pero-queda-miel-labios.html",
+        "date": "2025-09-22 22:08:00",
+        "sentiment_score": -0.142350971698761
+    },
+    {
+        "title": "Al menos 9 provincias registraron quejas de jueces y fiscales por el mal funcionamiento de las pulseras antimaltrato",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/09/actas-caso-pulseras.jpg",
+        "tags": [
+            "españa",
+            "fiscalía",
+            "tribunales",
+            "violencia machista"
+        ],
+        "link": "https://www.elindependiente.com/espana/tribunales/2025/09/23/al-menos-9-provincias-registraron-quejas-jueces-fiscales-mal-funcionamiento-pulseras-antimaltrato/",
+        "date": "2025-09-22 22:06:15",
+        "sentiment_score": -0.8399902991950512
+    },
+    {
+        "title": "Laporta, \"orgulloso\" de los premios del Barça en la gala del Balón de Oro: \"Nos motivan para seguir ganando\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250923000511_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-laporta-orgulloso-premios-barca-gala-balon-oro-nos-motivan-seguir-ganando-20250923000511.html",
+        "date": "2025-09-22 22:05:11",
+        "sentiment_score": 0.7346974536776543
+    },
+    {
+        "title": "Lamine Yamal hace su propio equipo de fútbol: sin Nicki Nicole pero con 12 familiares en la gala del Balón de Oro",
+        "image_url": "https://www.hola.com/horizon/landscape/4a8e01c9d717-gettyimages-2236293416.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "lamine yamal",
+            "deporte",
+            "actualidad",
+            "balon de oro"
+        ],
+        "link": "https://www.hola.com/actualidad/20250922857256/lamine-yamal-12-familiares-balon-oro-nicki-nicole/",
+        "date": "2025-09-22 22:03:55",
+        "sentiment_score": 0.8861995730549097
+    },
+    {
+        "title": "Así es la entidad con clientes más satisfechos en la banca española",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/af8764f2-5086-47e4-a767-5c6d16583abb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "entidad",
+            "satisfechos",
+            "espanola",
+            "clientes",
+            "banca"
+        ],
+        "link": "https://www.laprovincia.es/economia/2025/09/23/entidad-clientes-satisfechos-banca-espanola-121857540.html",
+        "date": "2025-09-22 22:01:37",
+        "sentiment_score": 0.7171445600688457
+    },
+    {
+        "title": "GMSP inaugura quirófanos inteligentes para redefinir la cirugía en Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758573839289.jpg?ch=675&cw=1200",
+        "tags": [
+            "gmsp",
+            "quirófano"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/gmsp-inaugura-quirofanos-inteligentes-para-redefinir-la-cirugia-en-venezuela-20259221800",
+        "date": "2025-09-22 22:00:00",
+        "sentiment_score": 0.24166350811719894
+    },
+    {
+        "title": "Beneficios federales electrónicos: ¿De qué va la nueva tarjeta del gobierno de EEUU?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758578356446.jpg?ch=675&cw=1200",
+        "tags": [
+            "federales",
+            "beneficios",
+            "tarjeta"
+        ],
+        "link": "https://2001online.com/usa/servicios/beneficios-federales-electronicos-de-que-va-la-nueva-tarjeta-del-gobierno-de-eeuu--202592217580",
+        "date": "2025-09-22 21:58:00",
+        "sentiment_score": 0.013264656066894531
+    },
+    {
+        "title": "Tesoro oculto: cómo identificar la moneda de 25 centavos de dólar que vale una fortuna",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758578220770.jpg?ch=675&cw=1200",
+        "tags": [
+            "monedas de 25 centavos",
+            "monedas valiosas en eeuu",
+            "san antonio missions"
+        ],
+        "link": "https://2001online.com/usa/servicios/tesoro-oculto-como-identificar-la-moneda-de-25-centavos-de-dolar-que-vale-una-fortuna-202592217550",
+        "date": "2025-09-22 21:55:00",
+        "sentiment_score": 0.06527261808514595
+    },
+    {
+        "title": "Así jugará Venezuela en el Campeonato Panamericano de Beisbol Femenino",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758578058866.jpg?ch=675&cw=1200",
+        "tags": [
+            "béisbol",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/deportes/asi-jugara-venezuela-en-el-campeonato-panamericano-de-beisbol-femenino--202592217510",
+        "date": "2025-09-22 21:51:00",
+        "sentiment_score": 0.04181378334760666
+    },
+    {
+        "title": "CONVELAS 2025: el primer congreso venezolano de láser médico que abre camino a la medicina del futuro",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758577496833.jpg?ch=675&cw=1200",
+        "tags": [
+            "agenda empresarial",
+            "convelas 2025",
+            "medicina"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/convelas-2025-el-primer-congreso-venezolano-de-laser-medico-que-abre-camino-a-la-medicina-del-futuro-202592217410",
+        "date": "2025-09-22 21:41:00",
+        "sentiment_score": 0.0789727196097374
+    },
+    {
+        "title": "McDonald's Invita a Recorrer sus Cocinas con el Programa \"Puertas Abiertas\"",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758573375818.jpg?ch=675&cw=1200",
+        "tags": [
+            "mcdonald's",
+            "puertas abiertas"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/mcdonald-s-invita-a-recorrer-sus-cocinas-con-el-programa-puertas-abiertas--202592217300",
+        "date": "2025-09-22 21:30:00",
+        "sentiment_score": 0.4940192922949791
+    },
+    {
+        "title": "Buzo entra a robar un restaurante y se escapa nadando: policía aun no atrapa al sospechoso",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758552491172.jpg?ch=675&cw=1200",
+        "tags": [
+            "buzo",
+            "disney springs",
+            "restaurante",
+            "robo"
+        ],
+        "link": "https://2001online.com/usa/sucesos/buzo-entra-a-robar-un-restaurante-y-se-escapa-nadando-policia-aun-no-atrapa-al-sospechoso--202592217150",
+        "date": "2025-09-22 21:15:00",
+        "sentiment_score": -0.13832204043865204
+    },
+    {
+        "title": "¡El mejor del año! Dembélé se consagra como el ganador del Balón de Oro 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758574961069.jpg?ch=675&cw=1200",
+        "tags": [
+            "balón de oro"
+        ],
+        "link": "https://2001online.com/deportes/el-mejor-del-ano-dembele-se-consagra-como-el-ganador-del-balon-de-oro-2025-20259221710",
+        "date": "2025-09-22 21:01:00",
+        "sentiment_score": 0.857331084087491
+    },
+    {
+        "title": "Tapuy Lodge: Un santuario en el corazón de Canaima",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758572970038.jpg?ch=675&cw=1200",
+        "tags": [
+            "canaima",
+            "tepuy lodge"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/tapuy-lodge-un-santuario-en-el-corazon-de-canaima-20259221700",
+        "date": "2025-09-22 21:00:00",
+        "sentiment_score": 0.6793674528598785
+    },
+    {
+        "title": "¡Protege tu vehículo! Este estado tiene el seguro para auto más costoso de EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758575286772.jpg?ch=675&cw=1200",
+        "tags": [
+            "estados más caros",
+            "eeuu",
+            "seguro para vehiculos"
+        ],
+        "link": "https://2001online.com/usa/servicios/protege-tu-vehiculo-este-estado-tiene-el-seguro-para-auto-mas-costoso-de-eeuu-202592216580",
+        "date": "2025-09-22 20:58:00",
+        "sentiment_score": -0.01911391317844391
     }
 ];
