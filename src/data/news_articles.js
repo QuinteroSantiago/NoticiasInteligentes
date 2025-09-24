@@ -269,51 +269,6 @@ export default [
         "sentiment_score": 0.33880843222141266
     },
     {
-        "title": "El ¿genocidio? de cristianos en África como excusa para negar el genocidio en Gaza...y sus culpables",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "siénteme",
-            "artículo"
-        ],
-        "link": "https://www.meneame.net/story/genocidio-cristianos-africa-como-excusa-negar-genocidio-gaza",
-        "date": "2025-09-20 11:25:02",
-        "sentiment_score": -0.2980662137269974
-    },
-    {
-        "title": "Turull carga contra Podemos por oponerse a la delegación de competencias en inmigración: “Es anticatalanismo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3BZ45HNRSBISTD7BVQ3KAEX5KM.jpg?auth=127489931cecbd25e7b141619d50f414a5036a9a90741dcaccc08dab40783053&width=1200",
-        "tags": [
-            "carles puigdemont",
-            "política",
-            "pedro sánchez",
-            "pactos políticos",
-            "juntsxcat",
-            "cataluña",
-            "jordi turull",
-            "psoe"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-20/turull-carga-contra-podemos-por-oponerse-a-la-delegacion-de-competencias-en-inmigracion-es-anticatalanismo.html",
-        "date": "2025-09-20 10:38:17",
-        "sentiment_score": 0.438914991915226
-    },
-    {
-        "title": "Un palacete-fortaleza convertido en plantación de marihuana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FF6LZGCOSJCPPAD5ZDL7GWNARA.jpeg?auth=a0d5b4d8ec827573bf93b77d45bd8e80448f6a2df1efef550855928d67bc4cf5&width=1200",
-        "tags": [
-            "ministerio del interior",
-            "udyco",
-            "valencia",
-            "balcanes",
-            "marihuana",
-            "españa",
-            "narcotráfico",
-            "policía nacional"
-        ],
-        "link": "https://elpais.com/espana/2025-09-20/un-palacete-fortaleza-convertido-en-plantacion-de-marihuana.html",
-        "date": "2025-09-20 10:26:02",
-        "sentiment_score": -0.3606318160891533
-    },
-    {
         "title": "La alineación probable del FC Barcelona ante el Getafe en la jornada 5 de La Liga",
         "image_url": "https://s2.elespanol.com/2025/09/20/actualidad/1003743933936_258866861_1706x960.jpg?contentId=1003743933936",
         "tags": [
@@ -8098,5 +8053,485 @@ export default [
         "link": "https://2001online.com/servicios/saime-activa-nuevo-operativo-de-verificacion-de-datos-quienes-deben-asistir-202592315300",
         "date": "2025-09-23 19:30:00",
         "sentiment_score": 0.03682450391352177
+    },
+    {
+        "title": "Sánchez considera “absolutamente inaceptables” las incursiones de Rusia al espacio aéreo europeo y condena “la escalada de la violencia” de Putin en Ucrania",
+        "image_url": "https://www.infobae.com/resizer/v2/RX5PGO2R4ZERZD2USD5DXZ633U.jpg?auth=0a745844788af02dbca7b28524879e9f766fe461be65be054051842a6ff835fb&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "internacional",
+            "pedro sánchez",
+            "rusia",
+            "guerra en ucrania",
+            "gobierno de españa",
+            "eeuu",
+            "españa-internacional",
+            "onu",
+            "españa-noticias",
+            "ucrania",
+            "consejo de seguridad de la onu",
+            "españa-nacional"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/24/sanchez-considera-absolutamente-inaceptables-las-incursiones-de-rusia-al-espacio-aereo-europeo-y-condena-la-escalada-de-la-violencia-de-putin-en-ucrania/",
+        "date": "2025-09-24 01:47:35",
+        "sentiment_score": -0.9175401506945491
+    },
+    {
+        "title": "Previsión del clima en Barcelona para antes de salir de casa este 24 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "barcelona",
+            "españa sociedad",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/24/prevision-del-clima-en-barcelona-para-antes-de-salir-de-casa-este-24-de-septiembre/",
+        "date": "2025-09-24 01:16:20",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Sánchez defiende que la igualdad de género no es \"un capricho progresista\" sino \"un derecho\" por el que \"alzar la voz\"",
+        "image_url": "https://www.infobae.com/resizer/v2/NNSW4AKZANHUHOEQ7XRT4TU7BU.jpg?auth=a30aa7dee01d72d1443a10f234f8043bd2bebf07e782bec9e8d0fedb9597efdd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/24/sanchez-defiende-que-la-igualdad-de-genero-no-es-un-capricho-progresista-sino-un-derecho-por-el-que-alzar-la-voz/",
+        "date": "2025-09-24 01:00:39",
+        "sentiment_score": -0.5774987563490868
+    },
+    {
+        "title": "Pedro J. Ramírez, director de ‘El Español’, sugiere en ‘El Hormiguero’ que el “mal llamado caso Koldo, Ábalos o Cerdán” se debería “bautizar como caso Sánchez”",
+        "image_url": "https://www.infobae.com/resizer/v2/2RATBLGMWNBFBEI2IX7PEPY5NQ.jpg?auth=ae5525f65db8c2450849b57e5a51058bdb53c199c0104f05be2a75ec1577677d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "celebridades",
+            "españa-televisión",
+            "televisión españa",
+            "programas de television",
+            "famosos españa",
+            "el hormiguero",
+            "pablo motos",
+            "españa-entretenimiento",
+            "españa-noticias",
+            "antena 3"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/24/pedro-j-ramirez-director-de-el-espanol-pide-en-el-hormiguero-que-el-mal-llamado-caso-koldo-abalos-o-cerdan-se-vuelva-a-bautizar-como-caso-sanchez/",
+        "date": "2025-09-24 00:16:34",
+        "sentiment_score": -0.2660951390862465
+    },
+    {
+        "title": "Sánchez ve \"inaceptables\" las violaciones de Rusia del espacio aéreo europeo y pide actuar \"con determinación y unidad\"",
+        "image_url": "https://www.infobae.com/resizer/v2/RX5PGO2R4ZERZD2USD5DXZ633U.jpg?auth=0a745844788af02dbca7b28524879e9f766fe461be65be054051842a6ff835fb&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/24/sanchez-ve-inaceptables-las-violaciones-de-rusia-del-espacio-aereo-europeo-y-pide-actuar-con-determinacion-y-unidad/",
+        "date": "2025-09-24 00:01:33",
+        "sentiment_score": -0.8635395839810371
+    },
+    {
+        "title": "Aagesen defiende el multilateralismo frente al discurso de Trump en la ONU: \"Son muchas las voces alineadas con España\"",
+        "image_url": "https://www.infobae.com/resizer/v2/NEJUBNKHHNC7TH4SAP75IMFV3A.jpg?auth=fc97d7b73bc45ac59955205197449b266ae0f5ce21bc70a10bce8e227779f4e1&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/09/23/aagesen-defiende-el-multilateralismo-frente-al-discurso-de-trump-en-la-onu-son-muchas-las-voces-alineadas-con-espana/",
+        "date": "2025-09-23 23:30:20",
+        "sentiment_score": -0.8026435431092978
+    },
+    {
+        "title": "Cupón Diario de la Once: números ganadores del 23 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/23/cupon-diario-de-la-once-numeros-ganadores-del-23-de-septiembre/",
+        "date": "2025-09-23 23:15:27",
+        "sentiment_score": 0.26607175171375275
+    },
+    {
+        "title": "Gallardo acusa a la jueza Biedma de hacer política con una instrucción \"muy irregular\" y el relato de la ultraderecha",
+        "image_url": "https://www.infobae.com/resizer/v2/H65XY7BTUVACJANFUXVPQZ7E6Q.jpg?auth=6f15701a111aa4c6b927ec52e33206218315f80c31ca9b92788c9ba1b98f90c7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/23/gallardo-acusa-a-la-jueza-biedma-de-hacer-politica-con-una-instruccion-muy-irregular-y-el-relato-de-la-ultraderecha/",
+        "date": "2025-09-23 23:15:17",
+        "sentiment_score": -0.864509753882885
+    },
+    {
+        "title": "Luis Merlo reflexiona sobre Mauri en ‘La Revuelta’: “Un personaje homosexual, que se llama Mauri, producido por José Luis Moreno... daba un poco de susto”",
+        "image_url": "https://www.infobae.com/resizer/v2/VUJ6WG5R4VC6NMNB5I34AGKS24.png?auth=c010b65575dea8bb6a95962ec8d63e2cb928a06ee9dc87d832c5f9e3655fbb5b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "celebridades españa",
+            "televisión españa",
+            "actores espana",
+            "david broncano",
+            "teatro",
+            "españa-te",
+            "españa-entretenimiento",
+            "la revuelta",
+            "españa-noticias",
+            "rtve",
+            "tve"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/23/luis-merlo-reflexiona-sobre-mauri-en-la-revuelta-un-personaje-homosexual-que-se-llama-mauri-producido-por-jose-luis-moreno-daba-un-poco-de-susto/",
+        "date": "2025-09-23 22:53:43",
+        "sentiment_score": -0.8666168730705976
+    },
+    {
+        "title": "Muere la actriz Claudia Cardinale, musa del cine italiano, a los 87 años",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/90/media_thumb-link-4100187.webp?1758661506=",
+        "tags": [
+            "actualidad",
+            "cardinale",
+            "claudia"
+        ],
+        "link": "https://www.meneame.net/story/muere-actriz-claudia-cardinale-musa-cine-italiano-87-anos",
+        "date": "2025-09-23 22:30:04",
+        "sentiment_score": -0.8110529948025942
+    },
+    {
+        "title": "Enrique Téllez: \"La II República no tuvo himno, el de Riego nunca lo fue\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/28a4f7ad-340c-4fd3-baea-b801026808b0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "república"
+        ],
+        "link": "https://www.lne.es/club/2025/09/24/enrique-tellez-ii-republica-tuvo-121896143.html",
+        "date": "2025-09-24 02:00:57",
+        "sentiment_score": -0.04685451090335846
+    },
+    {
+        "title": "El partido de las dudas y las necesidades",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3485239.jpg",
+        "tags": [
+            "liga ea sports",
+            "primera división",
+            "última hora",
+            "ultimas noticias",
+            "real mallorca",
+            "laliga",
+            "fútbol",
+            "real sociedad",
+            "rcd mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/09/24/2476559/partido-dudas-necesidades.html",
+        "date": "2025-09-24 02:00:02",
+        "sentiment_score": -0.520648866891861
+    },
+    {
+        "title": "El farmacéutico que llegó a alcalde de Valencia e inventó el TriNaranjus",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/09/22/68d1192b44a9e.r_d.791-349-7905.png",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250924/farmaceutico-llego-alcalde-valencia-e-invento-trinaranjus_336752.html",
+        "date": "2025-09-24 02:00:00",
+        "sentiment_score": -0.042443275451660156
+    },
+    {
+        "title": "Doblete de Mbappé y 1er gol de Mastantuono con Real Madrid, que golea a Levante",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/266a64a/2147483647/strip/true/crop/2495x1310+0+177/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F6f%2F21%2Ffdb48e8c418ebe35765cbf29fa09%2F103ee1642a01471a820640707044fb26.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-09-23/doblete-de-mbappe-y-1er-gol-de-mastantuono-con-real-madrid-que-golea-4-1-a-levante",
+        "date": "2025-09-24 00:35:31",
+        "sentiment_score": 0.7372983172535896
+    },
+    {
+        "title": "Kylian Mbappé supera a Cristiano Ronaldo y alcanza otra marca en el Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/092025/1758671409396.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/kylian-mbappe-supera-a-cristiano-ronaldo-y-alcanza-otra-marca-en-el-real-madrid-202592320120",
+        "date": "2025-09-24 00:12:00",
+        "sentiment_score": 0.875113109126687
+    },
+    {
+        "title": "Mastantuono convirtió su primer gol con el Real Madrid y se sumó a una selecta lista",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/09/23/mastantuono-primer-gol-real-madrid-orix/",
+        "date": "2025-09-24 00:03:46",
+        "sentiment_score": 0.2731342762708664
+    },
+    {
+        "title": "El caso Negreira: una relación inaceptable y sin excusas",
+        "image_url": "https://s2.elespanol.com/2025/05/16/actualidad/1003743760283_258907947_1706x960.jpg?contentId=1003743760283",
+        "tags": [
+            "opinión",
+            "corrupción",
+            "tribunas de opinión",
+            "tribunas",
+            "la liga",
+            "fc barcelona"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20250924/caso-negreira-relacion-inaceptable-sin-excusas/1003743936124_12.html",
+        "date": "2025-09-23 23:56:25",
+        "sentiment_score": -0.7784267868846655
+    },
+    {
+        "title": "23 SEP 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/23-sep-2025-partidazo-cope-20250924_3219359.html",
+        "date": "2025-09-23 23:52:03",
+        "sentiment_score": -0.2697096914052963
+    },
+    {
+        "title": "9 frases de Mastantuono tras marcar su primer gol en Real Madrid: la comparación con Lamine Yamal y su mención a la Selección",
+        "image_url": "https://www.infobae.com/resizer/v2/F2QYBGI43ZDP5KTWX3APS46DCE.JPG?auth=61b0a15df39366a055a7421fcd9571b805101fab5d1cb81aa7a2c45f388bdbeb&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "real madrid",
+            "deportes-argentina",
+            "selección argentina",
+            "kylian mbappé",
+            "franco mastantuono",
+            "vinicius júnior",
+            "levante",
+            "la liga de españa"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/23/9-frases-de-mastantuono-tras-marcar-su-primer-gol-en-real-madrid-la-comparacion-con-lamine-yamal-y-su-mencion-a-la-seleccion/",
+        "date": "2025-09-23 23:48:10",
+        "sentiment_score": 0.34245434775948524
+    },
+    {
+        "title": "Antes de Mastantuono, ¿Quién fue el último argentino en marcar con el Real Madrid?",
+        "image_url": "https://pxcdn.meridiano.net/092025/1758666482209.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/antes-de-mastantuono-quien-fue-el-ultimo-argentino-en-marcar-con-el-real-madrid--202592319430",
+        "date": "2025-09-23 23:43:00",
+        "sentiment_score": 0.7748114988207817
+    },
+    {
+        "title": "La lección de estilo de Mariona Caldentey en la gala del Balón de Oro: un conjunto que nunca falla y que puedes copiar por menos de 50 euros",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3484487.jpg",
+        "tags": [
+            "mariona caldentey",
+            "selección española",
+            "balón de oro",
+            "productos de belleza",
+            "cuidados de la piel",
+            "audiencias-um",
+            "tendencias de moda",
+            "ia-news",
+            "cambio de look",
+            "tendencias",
+            "moda"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/tendencias/2025/09/24/2475921/leccion-estilo-mariona-caldentey-gala-del-balon-oro-conjunto-nunca-falla-puedes-copiar-por-menos-euros.html",
+        "date": "2025-09-24 02:00:02",
+        "sentiment_score": 0.3789084255695343
+    },
+    {
+        "title": "Un equipo del consulado de Rumanía en Barcelona se desplazará a Baleares tres días para prestar asistencia a sus ciudadanos",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3484285.jpg",
+        "tags": [
+            "rumanos",
+            "palma",
+            "consulado",
+            "última hora",
+            "ultimas noticias",
+            "palma de mallorca",
+            "rumanía",
+            "extranjeros en baleares",
+            "local"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/09/24/2475865/equipo-del-consulado-rumania-barcelona-desplazara-baleares-tres-dias-para-prestar-asistencia-ciudadanos.html",
+        "date": "2025-09-24 02:00:02",
+        "sentiment_score": -0.0891362652182579
+    },
+    {
+        "title": "Los kioscos municipales de Palma cierran a final de mes por graves pérdidas económicas",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3485151.jpg",
+        "tags": [
+            "palma",
+            "última hora",
+            "ultimas noticias",
+            "palma de mallorca",
+            "noticias palma hoy"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/09/24/2476491/kioscos-municipales-cierran-final-mes-por-graves-perdidas-economicas.html",
+        "date": "2025-09-24 02:00:02",
+        "sentiment_score": -0.8584578633308411
+    },
+    {
+        "title": "Granada cuenta con más viviendas en venta que las que tenía al final de la crisis del ladrillo",
+        "image_url": "https://static.grupojoly.com/clip/e9840ca1-604d-411d-918f-6b669740a41a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias granada",
+            "vivienda granada"
+        ],
+        "link": "https://www.granadahoy.com/granada/granada-cuenta-viviendas-venta-tenia_0_2004853726.html",
+        "date": "2025-09-24 01:59:13",
+        "sentiment_score": 0.3784324377775192
+    },
+    {
+        "title": "Luis García Trapiello y su nueva poesía",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/09/23/68d2fe6037f55.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250924/2060766/luis-garcia-trapiello-nueva-poesia.html",
+        "date": "2025-09-24 01:30:00",
+        "sentiment_score": -0.1022224873304367
+    },
+    {
+        "title": "El padre Ballester, al banquillo por criticar al Islam radical: una fiscal con cargo en Igualdad le pide 3 años por \"delito de odio\"",
+        "image_url": "https://s2.elespanol.com/2025/09/23/actualidad/1003743937649_258936159_1706x960.jpg?contentId=1003743937649",
+        "tags": [
+            "iglesia católica",
+            "ministerio de igualdad",
+            "españa",
+            "delitos de odio",
+            "tribunales",
+            "reportajes",
+            "fiscalía"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250924/padre-ballester-banquillo-criticar-islam-radical-fiscal-cargo-igualdad-pide-anos-delito-odio/1003743937032_0.html",
+        "date": "2025-09-24 01:09:34",
+        "sentiment_score": -0.7917418498545885
+    },
+    {
+        "title": "La Flotilla denuncia un nuevo \"ataque\" a sus embarcaciones con drones y \"explosiones\" en la travesía hacia la Franja de Gaza",
+        "image_url": "https://s2.elespanol.com/2025/09/24/actualidad/1003743938232_258947715_1706x960.jpg?contentId=1003743938232",
+        "tags": [
+            "israel",
+            "conflicto palestino-israelí",
+            "palestina",
+            "mundo"
+        ],
+        "link": "https://www.elespanol.com/mundo/20250924/flotilla-denuncia-nuevo-ataque-embarcaciones-drones-explosiones-travesia-franja-gaza/1003743938231_0.html",
+        "date": "2025-09-24 01:05:55",
+        "sentiment_score": -0.8150851828977466
+    },
+    {
+        "title": "Juegos, horarios y dónde ver en vivo la Supercopa española de baloncesto",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758679949942.jpg?ch=675&cw=1200",
+        "tags": [
+            "liga de baloncesto español",
+            "sipercopa",
+            "liga endesa",
+            "meridiano tv"
+        ],
+        "link": "https://2001online.com/deportes/juegos-horarios-y-donde-ver-en-vivo-la-supercopa-espanola-de-baloncesto-20259232270",
+        "date": "2025-09-24 02:07:00",
+        "sentiment_score": 0.29971858859062195
+    },
+    {
+        "title": "Temporada de lagartijas en EEUU: ¿qué hacer para evitar que infesten tu casa?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "lagartijas"
+        ],
+        "link": "https://2001online.com/usa/servicios/temporada-de-lagartijas-en-eeuu-que-hacer-para-evitar-que-infesten-tu-casa--20259232200",
+        "date": "2025-09-24 02:00:00",
+        "sentiment_score": -0.22179695218801498
+    },
+    {
+        "title": "Homenaje a los grandes de la salsa: Xuxo estrena una nueva versión del clásico de Tito Rojas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758678445690/IMG_0616.jpeg?ch=675&cw=1200",
+        "tags": [
+            "salsa",
+            "tito rojas",
+            "xuxo"
+        ],
+        "link": "https://2001online.com/farandula/homenaje-a-los-grandes-de-la-salsa-xuxo-estrena-una-nueva-version-del-clasico-de-tito-rojas-202592321430",
+        "date": "2025-09-24 01:43:00",
+        "sentiment_score": 0.18125158920884132
+    },
+    {
+        "title": "Nueva normativa de Conatel para importar equipos tecnológicos: ¿qué artículos deben ser homologados?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://2001online.com/nota/nueva-normativa-de-conatel-para-importar-equipos-tecnologicos-que-articulos-deben-ser-homologados--202592321140",
+        "date": "2025-09-24 01:14:00",
+        "sentiment_score": 0.43833568319678307
+    },
+    {
+        "title": "Onda tropical 38: Inameh pronostica lluvias y descargas eléctricas en estos estados",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758673168689.jpg?ch=675&cw=1200",
+        "tags": [
+            "venezuela",
+            "ondas tropicales",
+            "estado del tiempo",
+            "lluvias",
+            "diario 2001",
+            "inameh"
+        ],
+        "link": "https://2001online.com/nacionales/onda-tropical-38-inameh-pronostica-lluvias-y-descargas-electricas-en-estos-estados-20259232110",
+        "date": "2025-09-24 01:01:00",
+        "sentiment_score": -0.13066741079092026
+    },
+    {
+        "title": "La primera edición del Gaita Fest llega a Caracas: conoce todos los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758677880266/IMG_0614.jpeg?ch=675&cw=1200",
+        "tags": [
+            "tambor urbano",
+            "concha acústica de bello monte",
+            "gaita fest 2025"
+        ],
+        "link": "https://2001online.com/farandula/la-primera-edicion-del-gaita-fest-llega-a-caracas-conoce-todos-los-detalles-20259232100",
+        "date": "2025-09-24 01:00:00",
+        "sentiment_score": 0.5724066272377968
+    },
+    {
+        "title": "¿Por qué el cierre de una residencia de ancianos en Alabama desata una controversia en EEUU? La respuesta te sorprenderá",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "ancianos",
+            "residencia",
+            "alabama"
+        ],
+        "link": "https://2001online.com/usa/internacionales/por-que-el-cierre-de-una-residencia-de-ancianos-en-alabama-desata-una-controversia-en-eeuu-la-respuesta-te-sorprendera-20259232100",
+        "date": "2025-09-24 01:00:00",
+        "sentiment_score": 0.4919478800147772
+    },
+    {
+        "title": "El mundo del cine en luto: fallece la actriz italiana Claudia Cardinale",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758675378103/IMG_0612.jpeg?ch=675&cw=1200",
+        "tags": [
+            "actriz",
+            "claudia cardinale"
+        ],
+        "link": "https://2001online.com/farandula/el-mundo-del-cine-en-luto-fallece-la-actriz-italiana-claudia-cardinale-202592320490",
+        "date": "2025-09-24 00:49:00",
+        "sentiment_score": -0.8679752219468355
+    },
+    {
+        "title": "Beisbol venezolano de luto: estos son los títulos logrados por Buddy Bailey en la LVBP",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "budddy bailey"
+        ],
+        "link": "https://2001online.com/deportes/beisbol-venezolano-de-luto-estos-son-los-titulos-logrados-por-buddy-bailey-en-la-lvbp-202592320440",
+        "date": "2025-09-24 00:44:00",
+        "sentiment_score": -0.8959354925900698
+    },
+    {
+        "title": "Localiza a un detenido: guía para ubicar a un familiar en el centro de ICE de Broadview",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758674335110.jpg?ch=675&cw=1200",
+        "tags": [
+            "inmigrantes",
+            "ice",
+            "centro de broadview"
+        ],
+        "link": "https://2001online.com/usa/internacionales/localiza-a-un-detenido-guia-para-ubicar-a-un-familiar-en-el-centro-de-ice-de-broadview-202592320380",
+        "date": "2025-09-24 00:38:00",
+        "sentiment_score": -0.059635091572999954
     }
 ];
