@@ -231,46 +231,6 @@ export default [
         "sentiment_score": 0.038672998547554016
     },
     {
-        "title": "Sánchez dice que ya toca renovar el sistema de financiación para fortalecer el Estado de Bienestar",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2KT42UK2VFA2JKK3AEQWPGTVHM.jpg?auth=bf049c0ad89ba442712f816f16cd0c95dd71870f1a6c19b35b4a894716ec67f0&width=1200",
-        "tags": [
-            "comunidades autónomas",
-            "pedro sánchez",
-            "financiación",
-            "psc",
-            "jaume collboni",
-            "govern cataluña",
-            "aliança catalana",
-            "cataluña",
-            "barcelona",
-            "israel",
-            "jordi hereu boher",
-            "gavà",
-            "salvador illa",
-            "psoe"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-21/sanchez-dice-que-ya-toca-renovar-el-sistema-de-financiacion-para-fortalecer-el-estado-de-bienestar.html",
-        "date": "2025-09-21 13:01:58",
-        "sentiment_score": -0.7696765493601561
-    },
-    {
-        "title": "El búho chico, la melena de Sargatal y el trino de la cantante pajarera de Tennessee",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/COWZRDUZGNCALHUT6VVVEIS3ZE.jpeg?auth=fd64d25c48c7f283181c0e0237f14f849c6f017a806cc9e6aea015f0808a97ba&width=1200",
-        "tags": [
-            "conferencias",
-            "delta del ebro",
-            "ciencias naturales",
-            "ferias",
-            "festivales",
-            "aves",
-            "cataluña",
-            "exposiciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-21/el-buho-chico-la-melena-de-sargatal-y-el-trino-de-la-cantante-pajarera-de-tennessee.html",
-        "date": "2025-09-21 10:21:07",
-        "sentiment_score": 0.8569665756076574
-    },
-    {
         "title": "La influencer Rocío Camacho, Hija Predilecta de Castilla-La Mancha, se casa entre invitados famosos y de la tierra",
         "image_url": "https://s2.elespanol.com/2025/09/21/actualidad/1003743934382_258874891_1706x960.jpg?contentId=1003743934382",
         "tags": [
@@ -8805,5 +8765,433 @@ export default [
         "link": "https://2001online.com/farandula/las-estrategias-de-beele-para-posicionarse-este-2025-sus-colaboraciones-mas-destacadas-del-ano-202592416250",
         "date": "2025-09-24 20:25:00",
         "sentiment_score": 0.7863115482032299
+    },
+    {
+        "title": "Carney se reunirá esta semana en Londres con los líderes de cinco países, incluidos Reino Unido y España",
+        "image_url": "https://www.infobae.com/resizer/v2/AHLSJJ22JRBVJKMXKACF2SC3P4.jpg?auth=82ffd507c91c6f8970a4df1557b133a0b99fe4beaa388ecfba97263753de29f8&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/09/25/carney-se-reunira-esta-semana-en-londres-con-los-lideres-de-cinco-paises-incluidos-reino-unido-y-espana/",
+        "date": "2025-09-25 01:45:15",
+        "sentiment_score": 0.0813601016998291
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "madrid",
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/25/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-madrid/",
+        "date": "2025-09-25 01:30:58",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "De “la Araña mata” a las sutiles críticas a Simeone: las reacciones de los medios en España por el hattrick de Julián Álvarez",
+        "image_url": "https://www.infobae.com/resizer/v2/YUZ4XKXJM5BQLF2HVNBWOINHKE.png?auth=40466499f22946b593a4e25598cd58b1414b56550eb8bf71fc0e2fedd6892cc6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/25/de-la-arana-mata-a-las-sutiles-criticas-a-simeone-las-reacciones-de-los-medios-en-espana-por-el-hattrick-de-julian-alvarez/",
+        "date": "2025-09-25 00:28:20",
+        "sentiment_score": 0.11971966177225113
+    },
+    {
+        "title": "Las películas de Netflix en España para engancharse este día",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "streaming",
+            "películas",
+            "españa-televisión",
+            "netflix"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/24/las-peliculas-de-netflix-en-espana-para-engancharse-este-dia/",
+        "date": "2025-09-24 23:30:54",
+        "sentiment_score": 0.7445468716323376
+    },
+    {
+        "title": "Cupón Diario de la Once: resultados del 24 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/24/cupon-diario-de-la-once-resultados-del-24-de-septiembre/",
+        "date": "2025-09-24 23:15:32",
+        "sentiment_score": 0.4704920407384634
+    },
+    {
+        "title": "La condesa y el jefe de la Gestapo: el escándalo sexual durante los juicios de Núremberg",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/90/media_thumb-link-4100300.webp?1758706266=",
+        "tags": [
+            "2ªgm",
+            "cultura",
+            "juicios núremberg",
+            "nazismo",
+            "gestapo",
+            "faber-castell"
+        ],
+        "link": "https://www.meneame.net/story/condesa-jefe-gestapo-escandalo-sexual-durante-juicios-nuremberg",
+        "date": "2025-09-25 00:35:02",
+        "sentiment_score": -0.3194730132818222
+    },
+    {
+        "title": "La obra de Ventas desata el 'boom' inmobiliario: «Los pisos han subido 100.000 euros»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/24/ventas-RQ5ARd3ctGfnW78eyIzFk3N-1200x840@diario_abc.jpg",
+        "tags": [
+            "madrid",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/madrid/obra-ventas-desata-boom-inmobiliario-pisos-subido-20250924174735-nt.html",
+        "date": "2025-09-25 00:13:19",
+        "sentiment_score": -0.25111526250839233
+    },
+    {
+        "title": "La doble moral de la izquierda con la Fiesta Nacional: un Ayuntamiento del PSOE paga cinco toros cerriles para su exhibición",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/04/16/661e82f9365d8.r_d.588-494.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250925/doble-moral-izquierda-fiesta-nacional-ayuntamiento-psoe-paga-cinco-toros-cerriles-exhibicion_337696.html",
+        "date": "2025-09-25 02:00:00",
+        "sentiment_score": -0.8342121429741383
+    },
+    {
+        "title": "Dos goles exquisitos y una asistencia de caño: las perlas de Messi en el triunfo del Inter Miami ante New York City",
+        "image_url": "https://www.infobae.com/resizer/v2/F4S67ND6TBHATFRIQENG4C37T4.jpg?auth=5e735fb0459993d3e52d9a50d981f3cc1791b95f38cd3772c61988bbeef0f93b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "new york city",
+            "mls",
+            "deportes-argentina",
+            "lionel messi",
+            "inter miami"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/25/dos-goles-exquisitos-y-una-asistencia-de-cano-las-perlas-de-messi-en-el-triunfo-del-inter-miami-ante-new-york-city/",
+        "date": "2025-09-25 01:54:11",
+        "sentiment_score": 0.8808140773326159
+    },
+    {
+        "title": "Tras su brillante actuación, Julián Álvarez reveló la verdad sobre lo que dijo en el banco luego del cambio del Cholo Simeone",
+        "image_url": "https://www.infobae.com/resizer/v2/6UR6EVR72NCLDNZAE33AH4RHLM.jpg?auth=f283d2252649c8954674f3611a72682ccb8d972f7dd621ace32157f8026f7ba9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "julián álvarez",
+            "fútbol europeo",
+            "argentina-deportes",
+            "la liga",
+            "atlético de madrid",
+            "deportes-internacional",
+            "diego simeone"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/25/tras-su-brillante-actuacion-julian-alvarez-revelo-la-verdad-sobre-lo-que-dijo-en-el-banco-luego-del-cambio-del-cholo-simeone/",
+        "date": "2025-09-25 01:21:00",
+        "sentiment_score": -0.010675787925720215
+    },
+    {
+        "title": "Hiyabis y niqabis, las nuevas 'influencers' que convierten el velo islámico en moda: lo que hay tras el fenómeno",
+        "image_url": "https://s2.elespanol.com/2025/09/24/actualidad/1003743939817_258974261_1706x960.jpg",
+        "tags": [
+            "redes sociales",
+            "musulmanes",
+            "moda",
+            "islam"
+        ],
+        "link": "https://www.elespanol.com/mujer/moda/20250925/hiyabis-niqabis-nuevas-influencers-convierten-velo-islamico-moda-fenomeno/1003743853463_0.html",
+        "date": "2025-09-25 01:01:05",
+        "sentiment_score": -0.3009960353374481
+    },
+    {
+        "title": "3a PARTE | 24 SEP 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-24-sep-2025-partidazo-cope-20250925_3220225.html",
+        "date": "2025-09-25 00:29:06",
+        "sentiment_score": 0.28969722986221313
+    },
+    {
+        "title": "¿Quién es el mejor futbolista de la historia?: el debate entre Cristiano Ronaldo y Lionel Messi",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758752869635.jpg?ch=675&cw=1200",
+        "tags": [
+            "el mejor futbolista de la historia",
+            "lionel messi",
+            "portugal",
+            "fútbol",
+            "carrera de lionel messi",
+            "argentina",
+            "messi",
+            "cristiano ronaldo",
+            "cr7",
+            "carrera de cristiano ronaldo"
+        ],
+        "link": "https://2001online.com/deportes/quien-es-el-mejor-futbolista-de-la-historia-el-debate-entre-cristiano-ronaldo-y-lionel-messi-202592420350",
+        "date": "2025-09-24 23:36:33",
+        "sentiment_score": 0.41696083545684814
+    },
+    {
+        "title": "DISRUPTORES Innovation Awards 2025: finalistas en mejor proyecto público de apoyo a la digitalización",
+        "image_url": "https://s2.elespanol.com/2025/09/24/actualidad/1003743938875_258960966_1706x960.jpg",
+        "tags": [
+            "empresas",
+            "industria tecnológica",
+            "eventos tecnologia e innovación",
+            "innovación",
+            "comunidades autónomas",
+            "premios",
+            "tecnología"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20250924/disruptores-innovation-awards-finalistas-mejor-proyecto-publico-apoyo-digitalizacion/1003743934889_0.html",
+        "date": "2025-09-24 23:34:00",
+        "sentiment_score": 0.4713868014514446
+    },
+    {
+        "title": "El Real Madrid se plantea una cesión de Endrick y el jugador no lo contempla",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/09/25/68d47c684beb4.r_d.1631-367-1870.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/real-madrid-plantea-cesion-endrick-jugador-contempla-20250925_3220222.html",
+        "date": "2025-09-24 23:21:54",
+        "sentiment_score": -0.01830899715423584
+    },
+    {
+        "title": "El alocado festejo de Simeone tras el hattrick de Julián Álvarez para el Atlético de Madrid: “Es extraordinario”",
+        "image_url": "https://www.infobae.com/resizer/v2/H5CWYWWJEREHJMIMRBMWNOJZ24.JPG?auth=0c31f3b0518648e3fdcf15d5e189d6ecdb7f9efac3c85b377096cd7fc9f70432&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "rayo vallecano",
+            "julián álvarez",
+            "deportes-argentina",
+            "la liga",
+            "fútbol europeo",
+            "diego simeone",
+            "atlético de madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/24/el-alocado-festejo-de-simeone-tras-el-hattrick-de-julian-alvarez-para-el-atletico-de-madrid-es-extraordinario/",
+        "date": "2025-09-24 23:21:23",
+        "sentiment_score": 0.725578710436821
+    },
+    {
+        "title": "Cistóbal Ruitiña presenta su novela en Ciaño",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/46c4fba5-d5ee-4ff7-bc6f-7f8f140ff9cc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "guerra civil española",
+            "literatura",
+            "nalón",
+            "guerra civil",
+            "galicia"
+        ],
+        "link": "https://www.lne.es/cuencas/2025/09/25/cistobal-ruitina-presenta-novela-ciano-121925488.html",
+        "date": "2025-09-25 02:08:00",
+        "sentiment_score": -0.3134816735982895
+    },
+    {
+        "title": "\"La realidad no es más que un pacto convenido entre mediocres\"",
+        "image_url": "https://static.grupojoly.com/clip/c5357f74-ce85-40e1-beb8-3f7c560b20d2_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/vivir-el-sur/entrevista-tito-munoz-realidad-pacto-convenido-mediocres_0_2004861928.html",
+        "date": "2025-09-25 02:02:21",
+        "sentiment_score": 0.2563798390328884
+    },
+    {
+        "title": "Lara Magrinyà: «Es saludable para la tradición llevarla a la contemporaneidad»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3485815.jpg",
+        "tags": [
+            "ocio en mallorca",
+            "cultura",
+            "cultura en mallorca",
+            "fundació mallorca literària"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/09/25/2476849/lara-magrinya-saludable-para-tradicion-llevarla-contemporaneidad.html",
+        "date": "2025-09-25 02:00:02",
+        "sentiment_score": 0.05121685564517975
+    },
+    {
+        "title": "Cervantes",
+        "image_url": "https://men.gsstatic.es/autor/manuel-canas/11681.png",
+        "tags": [
+            "firmas del día"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/09/25/2477085/cervantes.html",
+        "date": "2025-09-25 02:00:01",
+        "sentiment_score": 0.47619639337062836
+    },
+    {
+        "title": "Florecer, de Paca Florit",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3486079.jpg",
+        "tags": [
+            "arte en menorca",
+            "paca florit",
+            "blogs"
+        ],
+        "link": "https://www.menorca.info/opinion/blogs/2025/09/25/2477049/florecer-paca-florit.html",
+        "date": "2025-09-25 02:00:01",
+        "sentiment_score": 0.39470575004816055
+    },
+    {
+        "title": "Mantén los ojos abiertos: esta nueva señal de la DGT te salvará de pagar 200 euros y perder cuatro puntos del carnet",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3470141.jpg",
+        "tags": [
+            "conducir",
+            "ia-discover",
+            "señales de tráfico",
+            "dgt",
+            "trucos para ahorrar",
+            "dudas y respuestas",
+            "consejos útiles",
+            "seguridad vial",
+            "audiencias-um",
+            "aprender y más",
+            "curiosidades y trucos",
+            "noticias interesantes"
+        ],
+        "link": "https://www.menorca.info/actualidad/dudas-respuestas/2025/09/25/2468053/manten-ojos-abiertos-esta-nueva-senal-dgt-salvara-pagar-200-euros-perder-cuatro-puntos-del-carnet.html",
+        "date": "2025-09-25 02:00:01",
+        "sentiment_score": -0.284370020031929
+    },
+    {
+        "title": "Que la comunidad de Santa Clara de Ciutadella haya colocado...",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3486315.jpg",
+        "tags": [
+            "sorprende y no sorprende"
+        ],
+        "link": "https://www.menorca.info/opinion/sorprende-sorprende/2025/09/25/2477125/comunidad-santa-clara-ciutadella-haya-colocado.html",
+        "date": "2025-09-25 02:00:01",
+        "sentiment_score": -0.01645490527153015
+    },
+    {
+        "title": "Miguel Ricart y Antonio Anglés: qué fue de la vida de los condenados por el caso de las niñas de Alcàsser",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/09/24/68d3d7f68e5a6.png",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20250925/miguel-ricart-antonio-angles-vida-condenados-caso-ninas-alcasser_337547.html",
+        "date": "2025-09-25 02:00:00",
+        "sentiment_score": -0.37958384305238724
+    },
+    {
+        "title": "¡El Rapto!: qué pasó con la profecía viral del pastor evangélico para este 24 de septiembre",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758779771839.jpg?ch=675&cw=1200",
+        "tags": [
+            "profecías",
+            "apocalipsis"
+        ],
+        "link": "https://2001online.com/curiosidades/el-rapto-que-paso-con-la-profecia-viral-del-pastor-evangelico-para-este-24-de-septiembre-202592422100",
+        "date": "2025-09-25 02:10:00",
+        "sentiment_score": -0.13644983619451523
+    },
+    {
+        "title": "¿Qué pasó en la estación La Hoyada? El Metro de Caracas responde",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758763529104.jpg?ch=675&cw=1200",
+        "tags": [
+            "servicio del metro",
+            "estación la hoyada",
+            "metro de caracas"
+        ],
+        "link": "https://2001online.com/nacionales/que-paso-este-24-de-septiembre-en-la-estacion-la-hoyada-el-metro-de-caracas-responde-20259242250",
+        "date": "2025-09-25 02:05:00",
+        "sentiment_score": -0.749451881274581
+    },
+    {
+        "title": "¿Arrancar las canas? La Dra. Pascali explica las consecuencias de este procedimiento en tu cabello",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758652999257.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/arrancar-las-canas-la-dra-pascali-explica-las-consecuencias-de-este-procedimiento-en-tu-cabello-20259242200",
+        "date": "2025-09-25 02:00:00",
+        "sentiment_score": 0.2080886773765087
+    },
+    {
+        "title": "La icónica serie de “Guardianes de la Bahía” regresa a la televisión: esto se sabe",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758767123372/IMG_0624.jpeg?ch=675&cw=1200",
+        "tags": [
+            "remake",
+            "baywatch",
+            "guardianes de la bahía"
+        ],
+        "link": "https://2001online.com/farandula/la-iconica-serie-de-guardianes-de-la-bahia-regresa-a-la-television-esto-se-sabe-202592421540",
+        "date": "2025-09-25 01:54:00",
+        "sentiment_score": 0.7035445310175419
+    },
+    {
+        "title": "USCIS intensifica la revisión de visas: la agencia busca garantizar que las relaciones familiares \"sean genuinas\"",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758763071516.jpg?ch=675&cw=1200",
+        "tags": [
+            "migración usa",
+            "uscis",
+            "estados unidos migracion"
+        ],
+        "link": "https://2001online.com/usa/servicios/uscis-intensifica-la-revision-de-visas-la-agencia-busca-garantizar-que-las-relaciones-familiares-sean-genuinas--202592421420",
+        "date": "2025-09-25 01:42:00",
+        "sentiment_score": -0.05632391571998596
+    },
+    {
+        "title": "Huella imborrable: Tigres de Aragua anuncia que retirará el histórico número 26 de Buddy Bailey",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "buddy bailey"
+        ],
+        "link": "https://2001online.com/deportes/huella-imborrable-tigres-de-aragua-anuncia-que-retirara-el-historico-numero-26-de-buddy-bailey-202592421390",
+        "date": "2025-09-25 01:39:00",
+        "sentiment_score": 0.7042924724519253
+    },
+    {
+        "title": "La guía de un abogado: tus preguntas sobre la cancelación de TPS y otros temas son resueltas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758762708188.jpg?ch=675&cw=1200",
+        "tags": [
+            "carta recomendacion inmigracion usa",
+            "trámites legales",
+            "abogado migratorio",
+            "inmigración usa"
+        ],
+        "link": "https://2001online.com/usa/servicios/la-guia-de-un-abogado-tus-preguntas-sobre-la-cancelacion-de-tps-y-otros-temas-son-resueltas-202592421140",
+        "date": "2025-09-25 01:14:00",
+        "sentiment_score": -0.47836764343082905
+    },
+    {
+        "title": "Desde Chacao: Jorge Rodríguez instala el Consejo Nacional por la Soberanía y la Paz",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758759262024.jpg?ch=675&cw=1200",
+        "tags": [
+            "diario 2001",
+            "eeuu",
+            "soberanía",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/desde-chacao-jorge-rodriguez-instala-el-consejo-nacional-por-la-soberania-y-la-paz-202592421100",
+        "date": "2025-09-25 01:10:00",
+        "sentiment_score": 0.7212092615664005
+    },
+    {
+        "title": "¡Alerta, consumidores! Dollar General retira este café de sus estanterías por riesgo de perforación intestinal",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758759050750/1.jpg?ch=675&cw=1200",
+        "tags": [
+            "cafe",
+            "dollar general",
+            "retiro"
+        ],
+        "link": "https://2001online.com/usa/servicios/alerta-consumidores-dollar-general-retira-este-cafe-de-sus-estanterias-por-riesgo-de-perforacion-intestinal-20259242100",
+        "date": "2025-09-25 01:00:00",
+        "sentiment_score": -0.4086044579744339
+    },
+    {
+        "title": "En imágenes: así se sintió el sismo de este 24 de septiembre en el Zulia",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758761812300.jpg?ch=675&cw=1200",
+        "tags": [
+            "movimientos telúricos",
+            "temblor",
+            "terremoto",
+            "sismo"
+        ],
+        "link": "https://2001online.com/sucesos/en-imagenes-asi-se-sintio-el-sismo-de-este-24-de-septiembre-en-el-zulia-202592420570",
+        "date": "2025-09-25 00:57:00",
+        "sentiment_score": -0.6885918900370598
     }
 ];
