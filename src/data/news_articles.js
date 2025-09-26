@@ -180,75 +180,6 @@ export default [
         "sentiment_score": -0.2847321480512619
     },
     {
-        "title": "El PSOE justifica que Igualdad ha dado «las explicaciones oportunas» sobre las pulseras",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sociedad/2025/09/22/1501075427-kSbE-U701627172331suG-1200x840@diario_abc.jpg",
-        "tags": [
-            "justifica",
-            "psoe",
-            "oportunas",
-            "explicaciones",
-            "dado",
-            "igualdad",
-            "pulseras",
-            "sobre"
-        ],
-        "link": "https://www.abc.es/sociedad/psoe-justifica-igualdad-dado-explicaciones-oportunas-sobre-20250922155344-nt.html",
-        "date": "2025-09-22 13:53:45",
-        "sentiment_score": -0.07082226872444153
-    },
-    {
-        "title": "Pillan a un fugitivo por estafa de criptomonedas en Moldavia al ir a hospedarse en Alicante",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/22/detenido-guardia-civil-alicante-RpRWv5uRvaOwmLsc7R6nELL-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "valencia"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/pillan-fugitivo-estafa-criptomonedas-moldavia-hospedarse-alicante-20250922142018-nt.html",
-        "date": "2025-09-22 12:20:19",
-        "sentiment_score": -0.14674100279808044
-    },
-    {
-        "title": "El LeapMotor B10 llega a España: diseño, tecnología y precio imbatible desde 20.000 euros",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/motor/2025/09/22/leapmotorb10-1-RzFJ2o4B0Ulyymd1Nqt9yAM-1200x840@diario_abc.jpg",
-        "tags": [
-            "b10",
-            "llega",
-            "leapmotor",
-            "euros",
-            "diseno",
-            "tecnologia",
-            "precio",
-            "imbatible",
-            "espana",
-            "20000"
-        ],
-        "link": "https://www.abc.es/motor/novedades/leapmotor-b10-llega-espana-diseno-tecnologia-precio-20250922135400-nt.html",
-        "date": "2025-09-22 11:54:01",
-        "sentiment_score": 0.051066458225250244
-    },
-    {
-        "title": "Ibermúsica celebra su 55o aniversario: grandes orquestas, directores legendarios y una temporada de ensueño",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/22/ibermusica-55-aniversario-R8UcLk9aUU6WEhybiXJTWnJ-1200x840@diario_abc.png",
-        "tags": [
-            "agenda",
-            "madrid",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/madrid/agenda/ibermusica-55o-aniversario-20250922123941-nt.html",
-        "date": "2025-09-22 11:05:37",
-        "sentiment_score": 0.0054257214069366455
-    },
-    {
-        "title": "Las subidas del salario mínimo han frenado la creación de al menos 150.000 empleos en seis años",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/09/22/albaniles_construccion-Rt5QRtnseJGu5R31WCfPxfN-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/subidas-salario-minimo-frenado-creacion-150000-empleos-20250922124731-nt.html",
-        "date": "2025-09-22 11:01:51",
-        "sentiment_score": 0.03384414315223694
-    },
-    {
         "title": "El diputado en el Congreso Gerardo Pisarello se perfila como candidato de los comunes en Barcelona",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JBGFMUDUGDZ35EE3RQ7CUXA4OE.jpg?auth=319db94ab25342cb6849d1bfb20d151caf666ca888183b0785b9b9d6caaa5c4a&width=1200",
         "tags": [
@@ -383,45 +314,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-22/mas-de-30-detenidos-en-una-operacion-contra-el-narcotrafico-en-el-puerto-y-la-provincia-de-valencia.html",
         "date": "2025-09-22 14:50:55",
         "sentiment_score": -0.1325956955552101
-    },
-    {
-        "title": "La jueza envía al novio de Ayuso al banquillo por el caso del fraude fiscal",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/D67L7OD2TBAXFCIPS2OSZALS5M.jpg?auth=f4003e79f76b5d4cdad7fbf493d785e9316fe786887808f590c934322c2be16b&width=1200",
-        "tags": [
-            "pp",
-            "madrid",
-            "fraude fiscal",
-            "alberto gonzález amador",
-            "justicia",
-            "comunidad de madrid",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-22/la-jueza-envia-al-novio-de-ayuso-al-banquillo-por-el-caso-del-fraude-fiscal.html",
-        "date": "2025-09-22 14:10:33",
-        "sentiment_score": -0.7650096490979195
-    },
-    {
-        "title": "Camarero asegura que lo declarado por el presidente de la CHJ confirma lo que defiende la Generalitat desde hace meses",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EYY2SRJWBRK3HJO6EUKNGQWLBA.jpg?auth=093862bcdeed234163e38dc61cdad2f3d508388f235be5210659eea234030080&width=1200",
-        "tags": [
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-22/camarero-asegura-que-lo-declarado-por-el-presidente-de-la-chj-confirma-lo-que-defiende-la-generalitat-desde-hace-meses.html",
-        "date": "2025-09-22 13:52:00",
-        "sentiment_score": -0.5944699645042419
-    },
-    {
-        "title": "El PP respalda el reconocimiento de Palestina si se expulsa a Hamás del poder",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4T5FXMRKCNMNFEFLGTQTKYPARE.jpg?auth=0b5fcf593c98347a005b2373158d0ed3ceb4943034fb1daad01ad945a01881e1&width=1200",
-        "tags": [
-            "ana redondo garcía",
-            "pp",
-            "gobierno",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-09-22/el-pp-respalda-el-reconocimiento-de-palestina-si-se-expulsa-a-hamas-del-poder.html",
-        "date": "2025-09-22 13:17:37",
-        "sentiment_score": 0.3454868718981743
     },
     {
         "title": "'Torostostós las alperdices', el pregón del baloncesto de Puerto del Rosario",
@@ -9109,5 +9001,440 @@ export default [
         "link": "https://2001online.com/agenda-empresarial/ek-lanza-la-xpress-200s-edicion-especial-potencia-y-estilo-neorretro-202592516380",
         "date": "2025-09-25 20:38:00",
         "sentiment_score": 0.07820659503340721
+    },
+    {
+        "title": "El buque de Acción Marítima ‘Furor’ zarpa desde el puerto de Cartagena en una “misión de acompañamiento” a la Flotilla a Gaza",
+        "image_url": "https://www.infobae.com/resizer/v2/NRU3VWLSCBETLDM3V6SKKZXHDU.jpg?auth=035108a967f738d8bf1d8da2a44a9628d2e597b3ea1fe4a38149a59a37a1b6a3&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "internacional",
+            "italia",
+            "bloqueo a gaza",
+            "josé manuel albares",
+            "ayuda humanitaria",
+            "palestina",
+            "armada española",
+            "gaza",
+            "españa-noticias",
+            "españa-nacional",
+            "global sumud flotilla"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/26/el-buque-de-accion-maritima-furor-zarpa-desde-el-puerto-de-cartagena-en-una-mision-de-acompanamiento-a-la-flotilla-a-gaza/",
+        "date": "2025-09-26 01:30:45",
+        "sentiment_score": -0.2884444296360016
+    },
+    {
+        "title": "Comprueba los números ganadores del Cupón Diario de la Once del 25 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/25/comprueba-los-numeros-ganadores-del-cupon-diario-de-la-once-del-25-de-septiembre/",
+        "date": "2025-09-25 23:15:32",
+        "sentiment_score": 0.282878153026104
+    },
+    {
+        "title": "Procesan en Argentina al dueño del laboratorio que produjo el fentanilo mortal",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/09/26/fentanilo-kTFG-U701650937349z0F-1200x840@diario_abc.jpg",
+        "tags": [
+            "salud",
+            "buenos aires",
+            "hospitales",
+            "argentina",
+            "millones",
+            "contaminación"
+        ],
+        "link": "https://www.abc.es/internacional/procesan-argentina-dueno-laboratorio-produjo-fentanilo-mortal-20250926015645-nt.html",
+        "date": "2025-09-25 23:56:45",
+        "sentiment_score": -0.2951492965221405
+    },
+    {
+        "title": "Dos militares infiltraron a una civil en el tercer anillo de seguridad de Gustavo Petro",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/09/26/petro-anillo-kGmD-U7016509347178gE-1200x840@diario_abc.jpg",
+        "tags": [
+            "gustavo petro",
+            "investigación",
+            "reuniones",
+            "onu",
+            "donald trump",
+            "seguridad",
+            "colombia",
+            "farc fuerzas armadas revolucionarias de colombia"
+        ],
+        "link": "https://www.abc.es/internacional/dos-militares-infiltraron-civil-tercer-anillo-seguridad-20250926014457-nt.html",
+        "date": "2025-09-25 23:49:11",
+        "sentiment_score": -0.1390506774187088
+    },
+    {
+        "title": "James Comey, exdirector del FBI, imputado por falso testimonio y obstrucción",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/09/26/james-kd8H-U701650867204UUB-1200x840@diario_abc.jpg",
+        "tags": [
+            "fbi",
+            "políticos",
+            "investigación",
+            "hillary clinton",
+            "barack obama",
+            "redes sociales",
+            "nueva york",
+            "justicia",
+            "donald trump",
+            "muerte",
+            "israel"
+        ],
+        "link": "https://www.abc.es/internacional/james-comey-exdirector-fbi-imputado-falso-testimonio-20250926012530-nt.html",
+        "date": "2025-09-25 23:25:31",
+        "sentiment_score": -0.12830105423927307
+    },
+    {
+        "title": "Zarpa desde Cartagena el buque de guerra que asistirá a la flotilla de Gaza en caso de agresión",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CAHA2PCGRZNWZLMCKLPR35YHP4.jpg?auth=7408dc743a62075c0676066246f5b6018065806672724af5df0279f04f7a9f79&width=1200",
+        "tags": [
+            "franja gaza",
+            "pedro sánchez",
+            "israel",
+            "italia",
+            "españa",
+            "margarita robles",
+            "armada",
+            "fuerzas armadas",
+            "ayuda humanitaria",
+            "conflicto árabe-israelí",
+            "benjamin netanyahu"
+        ],
+        "link": "https://elpais.com/espana/2025-09-25/zarpa-desde-cartagena-el-buque-de-guerra-que-asistira-a-la-flotilla-de-gaza-en-caso-de-agresion.html",
+        "date": "2025-09-25 22:19:49",
+        "sentiment_score": -0.5934686809778214
+    },
+    {
+        "title": "Fuego amigo",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fuego",
+            "amigo"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/fuego-amigo_0_2004877437.html",
+        "date": "2025-09-26 01:08:21",
+        "sentiment_score": -0.39450736343860626
+    },
+    {
+        "title": "La obsesión por la Champions League: cómo el Real Madrid construyó su grandeza",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758844980825.jpg?ch=675&cw=1200",
+        "tags": [
+            "historia del real madrid",
+            "paolo maldini",
+            "real madrid",
+            "champions league",
+            "cristiano ronaldo",
+            "zinedine zidane",
+            "florentino pérez",
+            "máximo ganador de champions",
+            "españa"
+        ],
+        "link": "https://2001online.com/deportes/la-obsesion-por-la-champions-league-como-el-real-madrid-construyo-su-grandeza-202592521450",
+        "date": "2025-09-26 01:06:02",
+        "sentiment_score": 0.22550347447395325
+    },
+    {
+        "title": "La Guía completa de profesores del Máster de EL ESPAÑOL: los mejores periodistas para aprender bien la profesión",
+        "image_url": "https://s2.elespanol.com/2025/09/25/actualidad/1003743941732_258998666_1706x960.jpg",
+        "tags": [
+            "ucjc: universidad camilo josé cela",
+            "periódico el español",
+            "educación"
+        ],
+        "link": "https://www.elespanol.com/sociedad/educacion/20250926/guia-completa-profesores-master-espanol-mejores-periodistas-aprender-bien-profesion/1003743941556_0.html",
+        "date": "2025-09-26 00:48:33",
+        "sentiment_score": 0.23133309930562973
+    },
+    {
+        "title": "¿Es usted uno de los 2.846 madrileños de los que saldrá el jurado que pueda juzgar a Begoña Gómez? Consulte la lista",
+        "image_url": "https://s2.elespanol.com/2025/09/25/actualidad/1003743941798_258999529_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "homicidios",
+            "ucm (universidad complutense de madrid)",
+            "psoe (partido socialista obrero español)",
+            "begoña gómez",
+            "tribunales",
+            "malversación de fondos",
+            "jurado popular"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20250926/usted-madrilenos-saldra-jurado-pueda-juzgar-begona-gomez-consulte-lista/1003743941315_0.html",
+        "date": "2025-09-26 00:48:28",
+        "sentiment_score": -0.5944697689265013
+    },
+    {
+        "title": "Barcelona sufrió más de la cuenta para vencer al Oviedo",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/09/Diseno-sin-titulo-45.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://ultimasnoticias.com.ve/deportes/barcelona-sufrio-mas-de-la-cuenta-para-vencer-al-oviedo/",
+        "date": "2025-09-26 00:46:01",
+        "sentiment_score": -0.08427532017230988
+    },
+    {
+        "title": "Admara aterriza en Bilbao y suma 200 millones en compras",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/9eeea405519543148a24bd8987d35693/crop/0x5/960x645/f/webp/assets/multimedia/imagenes/2025/09/25/17588246259646.jpg",
+        "tags": [
+            "artículos rebeca arroyo>",
+            "inmobiliario y construcción>",
+            "mercado inmobiliario>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/09/26/68d589a5e5fdea9b0f8b457f.html",
+        "date": "2025-09-26 00:04:35",
+        "sentiment_score": 0.6337856948375702
+    },
+    {
+        "title": "25 SEP 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/25-sep-2025-partidazo-cope-20250926_3221030.html",
+        "date": "2025-09-25 23:41:22",
+        "sentiment_score": 0.2853260487318039
+    },
+    {
+        "title": "“Turco” Mohamed predice cómo iba a cobrar el penal Sergio Ramos y celebra la falla del defensa español",
+        "image_url": "https://www.infobae.com/resizer/v2/6U4WBYM2KRBI5L552MAELEM36E.jpg?auth=0d8b3c69ea597a8ee4934aad05cc65789861c28fd3cd849860754adf0c0b6e0c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "antonio mohamed",
+            "sergio ramos",
+            "turco mohamed",
+            "toluca fc",
+            "monterrey fc",
+            "apertura 2025",
+            "penal",
+            "mexico-deportes",
+            "liga mx"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/09/25/turco-mohamed-predice-como-iba-a-cobrar-el-penal-sergio-ramos-y-celebra-la-falla-del-defensa-espanol/",
+        "date": "2025-09-25 23:35:00",
+        "sentiment_score": -0.24176613986492157
+    },
+    {
+        "title": "La contundente frase con la que Jorge Valdano se rindió a los pies de Mastantuono tras su debut goleador en el Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/5GKIRR4WCFAJ5MDUQTO2V6UIXQ.jpg?auth=ee08f0f9ca20094a4206984b858f9d74bc24abfb29a1986a14b5caa86ef74973&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "real madrid",
+            "deportes-internacional",
+            "franco mastantuono",
+            "deportes-argentina",
+            "river plate",
+            "jorge valdano"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/25/la-contundente-frase-con-la-que-jorge-valdano-se-rindio-a-los-pies-de-mastantuono-tras-su-debut-goleador-en-el-real-madrid/",
+        "date": "2025-09-25 23:30:31",
+        "sentiment_score": 0.8641108237206936
+    },
+    {
+        "title": "El viaje de Clara Campoamor de Fabero al Congreso",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/09/26/68d5bbf3a5291.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/250926/2060977/viaje-clara-campoamor-fabero-congreso.html",
+        "date": "2025-09-26 01:30:00",
+        "sentiment_score": 0.2863733470439911
+    },
+    {
+        "title": "Alsa llanza la marca BC Cruises Services pal tresporte de cruceristes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0b9eab95-0c5d-4715-81ca-c135c97d1a43_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cruceros",
+            "turismo",
+            "alsa"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2025/09/26/alsa-llanza-marca-bc-cruises-121928258.html",
+        "date": "2025-09-26 01:05:10",
+        "sentiment_score": 0.09781987965106964
+    },
+    {
+        "title": "Judith Prat, fotógrafa: “El racismo es estructural y reconocerlo es el primer paso para desmontarlo”",
+        "image_url": "https://static.eldiario.es/clip/5ed65f82-9d89-4d33-a945-37c40f4224de_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fernando garcía mongay",
+            "teruel",
+            "óscar f. civieta",
+            "celia soria",
+            "aragón",
+            "sociedad",
+            "huesca",
+            "elprismático",
+            "política",
+            "eldiario",
+            "marimar cabrera",
+            "actualidad",
+            "zaragoza"
+        ],
+        "link": "https://www.eldiario.es/aragon/cultura/judith-prat-fotografa-racismo-estructural-reconocerlo-primer-paso-desmontarlo_128_12631007.html",
+        "date": "2025-09-26 00:57:11",
+        "sentiment_score": -0.09655657410621643
+    },
+    {
+        "title": "Israel ve 'irresponsable' que España secunde con un buque de la Armada el intento de romper el bloqueo naval a Gaza",
+        "image_url": "https://s2.elespanol.com/2025/09/25/espana/politica/1003743941821_258999883_1706x960.jpg",
+        "tags": [
+            "gobierno de españa",
+            "palestina",
+            "política",
+            "israel",
+            "franja de gaza"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250926/israel-ve-irresponsable-espana-secunde-buque-armada-intento-romper-bloqueo-naval-gaza/1003743941647_0.html",
+        "date": "2025-09-26 00:48:37",
+        "sentiment_score": -0.34515365958213806
+    },
+    {
+        "title": "Grupo Pachuca en apuros: Real Oviedo pierde con Barcelona y se acerca al abismo",
+        "image_url": "https://www.infobae.com/resizer/v2/NLLCSUM4YRE27M5ZAO4F4VH7DQ.JPG?auth=90fb5d53893059bb2ec78949b6437988938c6e4c93bf0eab54710bb509acdc26&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "grupo pachuca",
+            "laliga",
+            "futbol",
+            "mexico-deportes",
+            "liga española",
+            "jesús martínez",
+            "real oviedo"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/09/26/grupo-pachuca-en-apuros-real-oviedo-pierde-con-barcelona-y-se-acerca-al-abismo/",
+        "date": "2025-09-26 00:45:00",
+        "sentiment_score": -0.7748349718749523
+    },
+    {
+        "title": "Hansi Flick asume la responsabilidad en el error de Joan García (+Declaraciones)",
+        "image_url": "https://pxcdn.meridiano.net/092025/1758843120933.jpg?ch=180&cw=320",
+        "tags": [
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/hansi-flick-asume-la-responsabilidad-en-el-error-de-joan-garcia-declaraciones--202592519520",
+        "date": "2025-09-25 23:52:00",
+        "sentiment_score": -0.18904442712664604
+    },
+    {
+        "title": "El buque Furor pone rumbo hacia la Flotilla de Gaza para protegerla del acoso de Israel",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/09/26/el-buque-de-accion-maritima-furor-ha-zarpado-esta-noche-del-puerto-de-cartagena.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/el-buque-furor-pone-rumbo-flotilla-gaza-protegerla-acoso-israelbr.html",
+        "date": "2025-09-25 23:42:09",
+        "sentiment_score": -0.21981637179851532
+    },
+    {
+        "title": "Detienen a jornaleros en Los Ángeles mientras llegaban al trabajo: critican a la policía por una decisión controversial",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "ice",
+            "jornaleros",
+            "detenidos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/detienen-a-jornaleros-en-los-angeles-mientras-llegaban-al-trabajo-critican-a-la-policia-por-una-decision-controversial-20259252200",
+        "date": "2025-09-26 02:00:00",
+        "sentiment_score": 0.3244871497154236
+    },
+    {
+        "title": "Taça de Portugal: Así se jugará la Tercera Ronda (mírala gratis aquí)",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758850412779.jpg?ch=675&cw=1200",
+        "tags": [
+            "meridiano tv",
+            "taca de portugal",
+            "transmisión",
+            "tercera ronda"
+        ],
+        "link": "https://2001online.com/deportes/taca-de-portugal-asi-se-jugara-la-tercera-ronda-mirala-gratis-aqui--202592521330",
+        "date": "2025-09-26 01:33:00",
+        "sentiment_score": 0.20586601831018925
+    },
+    {
+        "title": "¡Atención! Gatorade Caracas Rock regresa en octubre: tome nota de las vías que estarán cerradas y las rutas alternas sobre este tema",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758848063501.jpg?ch=675&cw=1200",
+        "tags": [
+            "gatorade caracas rock 10k",
+            "rutas",
+            "gatorade caracas rock",
+            "cierres y rutas alternas miami",
+            "vías cerradas",
+            "carrera",
+            "caracas"
+        ],
+        "link": "https://2001online.com/comunidad/atencion-gatorade-caracas-rock-regresa-en-octubre-tome-nota-de-las-vias-que-estaran-cerradas-y-las-rutas-alternas-sobre-este-tema-20259252120",
+        "date": "2025-09-26 01:02:00",
+        "sentiment_score": 0.4185917992144823
+    },
+    {
+        "title": "Maduro anuncia simulacro contra conflictos armados y catástrofes en todo el país: sepa cuándo",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "sismo",
+            "zulia",
+            "venezuela",
+            "diario 2001",
+            "occidente"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-simulacro-contra-conflictos-armados-y-catastrofes-en-todo-el-pais-sepa-cuando-20259252110",
+        "date": "2025-09-26 01:01:00",
+        "sentiment_score": -0.3390045091509819
+    },
+    {
+        "title": "Alguacil de Indiana advierte sobre llamadas fraudulentas por supuestas multas: así funciona el esquema",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758848284036.jpg?ch=675&cw=1200",
+        "tags": [
+            "estafas a conductores",
+            "indiana",
+            "condado lake"
+        ],
+        "link": "https://2001online.com/usa/internacionales/alguacil-de-indiana-advierte-sobre-llamadas-fraudulentas-por-supuestas-multas-asi-funciona-el-esquema--202592520550",
+        "date": "2025-09-26 00:55:00",
+        "sentiment_score": -0.8243570607155561
+    },
+    {
+        "title": "Talleres gratuitos para niños y adolescentes en la Galería de Arte Nacional: estos están disponibles",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758844421663.jpg?ch=675&cw=1200",
+        "tags": [
+            "talleres gratuitos",
+            "pintura",
+            "fotografía",
+            "gan",
+            "arte"
+        ],
+        "link": "https://2001online.com/comunidad/talleres-gratuitos-para-ninos-y-adolescentes-en-la-galeria-de-arte-nacional-estos-estan-disponibles-202592520500",
+        "date": "2025-09-26 00:50:00",
+        "sentiment_score": -0.11186406761407852
+    },
+    {
+        "title": "Evita la aparición de estrías con este maravilloso aceite natural rico en ácidos grasos: esta es la cantidad que debes aplicar en la piel",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758833826876.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/evita-la-aparicion-de-estrias-con-este-maravilloso-aceite-natural-rico-en-acidos-grasos-esta-es-la-cantidad-que-debes-aplicar-en-la-piel-20259252050",
+        "date": "2025-09-26 00:05:00",
+        "sentiment_score": -0.8244472835212946
+    },
+    {
+        "title": "Conoce cuál es la económica fruta rica en vitaminas que previene la caída del cabello: así debes aplicar la mascarilla",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758832992146.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/conoce-cual-es-la-economica-fruta-rica-en-vitaminas-que-previene-la-caida-del-cabello-asi-debes-aplicar-la-mascarilla-20259252000",
+        "date": "2025-09-26 00:00:00",
+        "sentiment_score": -0.8423849251121283
+    },
+    {
+        "title": "Polémica migratoria: acusan a ICE de usar a niña autista como \"cebo\"",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758844665208.jpg?ch=675&cw=1200",
+        "tags": [
+            "inmigrante indocumentados",
+            "niña con autismo",
+            "redadas ice"
+        ],
+        "link": "https://2001online.com/usa/internacionales/polemica-migratoria-acusan-a-ice-de-usar-a-nina-autista-como-cebo--202592519540",
+        "date": "2025-09-25 23:54:00",
+        "sentiment_score": -0.7784194108098745
     }
 ];
