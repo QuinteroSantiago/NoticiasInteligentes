@@ -162,109 +162,6 @@ export default [
         "sentiment_score": -0.0345420241355896
     },
     {
-        "title": "El supermercado más barato de España para hacer la compra está en Valencia: no es ni Mercadona ni Carrefour",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/24/super-carrito.jpg",
-        "tags": [
-            "espana",
-            "mercadona",
-            "barato",
-            "valencia",
-            "compra",
-            "carrefour",
-            "supermercado"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/supermercado-barato-espana-compra-valencia-mercadona-carrefour-20250924155451-nt.html",
-        "date": "2025-09-24 13:56:44",
-        "sentiment_score": -0.12210184335708618
-    },
-    {
-        "title": "The Terminal Hub supera los 10.000 visitantes en su primer año y alcanza una ocupación del 100% en oficinas privada",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/24/terminal-hub-valencia-Rv56QpnXHsxebUZQirJwY7M-1200x840@diario_abc.JPG",
-        "tags": [
-            "valencia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/the-terminal-hub-supera-10000-visitantes-primer-20250924135954-nt.html",
-        "date": "2025-09-24 11:59:55",
-        "sentiment_score": 0.1118251234292984
-    },
-    {
-        "title": "Una calle de Bangkok se derrumba por la fuga de una tubería y provoca un enorme socavón que obliga a desalojar un hospital y sus inmediaciones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/24/1501133537-ko6H-U701640878985mVH-1200x840@diario_abc.jpg",
-        "tags": [
-            "bangkok",
-            "uh abc",
-            "tailandia"
-        ],
-        "link": "https://www.abc.es/internacional/calle-bangkok-derrumba-fuga-tuberia-provoca-enorme-20250924133550-nt.html",
-        "date": "2025-09-24 11:36:32",
-        "sentiment_score": -0.16834382712841034
-    },
-    {
-        "title": "Estos son los 10 supermercados más baratos en España, según la OCU",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/09/24/super-baratos.jpg",
-        "tags": [
-            "espana",
-            "supermercados",
-            "segun",
-            "baratos",
-            "ocu"
-        ],
-        "link": "https://www.abc.es/economia/supermercados-baratos-espana-segun-ocu-20250924132513-nt.html",
-        "date": "2025-09-24 11:25:14",
-        "sentiment_score": -0.07198624312877655
-    },
-    {
-        "title": "Las mujeres y Pedro Sánchez",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/09/24/cartas-director-1200x630(1)-U84354877116Fef-1200x630@diario_abc.jpg",
-        "tags": [
-            "mujeres",
-            "cgpj consejo general del poder judicial",
-            "tribunal supremo (ts)",
-            "pedro sánchez"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-mujeres-pedro-sanchez-20250924132308-nt.html",
-        "date": "2025-09-24 11:25:01",
-        "sentiment_score": -0.11101913452148438
-    },
-    {
-        "title": "Así destruye la Guardia Civil las 1.500 armas incautadas en Canarias",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/12/nacional-U55613258442ZTr-170x170@diario_abc.png",
-        "tags": [
-            "canarias",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/canarias/destruye-guardia-civil-1500-armas-incautadas-canarias-20250924130545-nt.html",
-        "date": "2025-09-24 11:05:52",
-        "sentiment_score": -0.17272093892097473
-    },
-    {
-        "title": "Alemania invertirá 80.000 millones en armas en los próximos 15 mese",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/09/24/1501139666-RrerPJsX86jxkJYLqWBrDGM-1200x840@diario_abc.jpg",
-        "tags": [
-            "proximos",
-            "mese",
-            "invertira",
-            "millones",
-            "alemania",
-            "80000",
-            "armas"
-        ],
-        "link": "https://www.abc.es/internacional/alemania-invertira-80000-millones-armas-proximos-mese-20250924125902-nt.html",
-        "date": "2025-09-24 10:59:03",
-        "sentiment_score": -0.05424928665161133
-    },
-    {
-        "title": "Elegir supermercado permite ahorrar hasta 1.132 euros anuales; Alcampo repite como el más barato de España",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/09/24/1485409862-RSGZFKNPa9yK0CWKTJ7A7BJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/diferencias-supermercados-permiten-ahorrar-1132-euros-anuales-20250924121823-nt.html",
-        "date": "2025-09-24 10:18:24",
-        "sentiment_score": -0.11896796524524689
-    },
-    {
         "title": "La Boqueria aprueba que todas las tiendas ofrezcan un 40% de producto fresco para no perder a más vecinos",
         "image_url": "https://imagenes.elpais.com/resizer/v2/MSJU4IJW5RBZHN5EKTPXLKDOHU.jpg?auth=63fcbe7836ba6f1e1f6eee23d36be12a1158731a54f7f5e4b570149a63bdbeec&width=1200",
         "tags": [
@@ -316,130 +213,6 @@ export default [
         "link": "https://elpais.com/espana/2025-09-24/podemos-tacha-de-engano-el-decreto-del-gobierno-sobre-el-embargo-de-armas-a-israel.html",
         "date": "2025-09-24 14:45:40",
         "sentiment_score": -0.6862904373556376
-    },
-    {
-        "title": "Rueda se enreda en la palabra prohibida de Ayuso: un minuto de silencio contra el genocidio en Gaza pero negándolo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/45UFDA4CPNJUBCSVKYAESTEYNA.jpg?auth=b81b31fda0d2cf7dde6c740dac7007b4c269dad3ace25c4c3bba1a3385069517&width=1200",
-        "tags": [
-            "alfonso rueda",
-            "genocidio",
-            "bng",
-            "psdeg-psoe",
-            "conflicto árabe-israelí",
-            "galicia",
-            "parlamentos autonómicos",
-            "españa",
-            "ppdeg"
-        ],
-        "link": "https://elpais.com/espana/2025-09-24/rueda-se-enreda-en-la-palabra-prohibida-de-ayuso-un-minuto-de-silencio-contra-el-genocidio-en-gaza-pero-negandolo.html",
-        "date": "2025-09-24 13:24:39",
-        "sentiment_score": -0.8406033385545015
-    },
-    {
-        "title": "El Constitucional falla a favor de la Comunidad de Madrid en el conflicto sobre formación de familias para acoger menores",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MVOITZQVHVDIFDWFDOAGCSQ254.jpg?auth=f7df7e9aba601ad64f3b12a23fb97e7134755d301b19101d3cef2364a821a8d9&width=1200",
-        "tags": [
-            "tribunal constitucional",
-            "tribunales",
-            "migración",
-            "madrid",
-            "gobierno comunidad madrid",
-            "familia",
-            "menores migrantes",
-            "comunidad de madrid",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-24/el-constitucional-falla-a-favor-de-la-comunidad-de-madrid-en-el-conflicto-sobre-formacion-de-familias-para-acoger-menores.html",
-        "date": "2025-09-24 13:06:12",
-        "sentiment_score": -0.6783639881759882
-    },
-    {
-        "title": "Una semana entre Jerusalén, los Altos del Golán y las colonias ilegales de Cisjordania: así “impactó” Israel a Ayuso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ICVZVF6ZHZC2LML2QPOTCEU5IY.jpg?auth=b51b04e994ab8680404f434294cb2e2957e9ea1efb10c5505504159de5de2b2d&width=1200",
-        "tags": [
-            "siria",
-            "cristina cifuentes",
-            "israel",
-            "jerusalén",
-            "madrid",
-            "cisjordania",
-            "esperanza aguirre",
-            "palestina",
-            "pp madrid",
-            "isabel díaz ayuso",
-            "altos del golán",
-            "comunidad de madrid",
-            "gobierno comunidad madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-24/una-semana-entre-jerusalen-los-altos-del-golan-y-las-colonias-ilegales-de-cisjordania-asi-impacto-israel-a-ayuso.html",
-        "date": "2025-09-24 13:01:29",
-        "sentiment_score": 0.1798432692885399
-    },
-    {
-        "title": "Aemet defiende a José Ángel Núñez, su responsable de Climatología, al que Mazón llamó en las Cortes con mofa “el jefe de las lluvias”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7VZISEGEHZLZDDHCM6LS2RB5SM.jpg?auth=4d49ba8abdca38ce8d740661ce46e5ddea724b176586d2b5a152caffa2f18fa9&width=1200",
-        "tags": [
-            "debates parlamentarios autonómicos",
-            "inundaciones dana octubre 2024",
-            "carlos mazón",
-            "comunidad valenciana",
-            "aemet",
-            "lluvias torrenciales",
-            "dana",
-            "corts valencianes",
-            "inundaciones"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-24/aemet-defiende-a-jose-angel-nunez-su-responsable-de-climatologia-al-que-mazon-llamo-en-las-cortes-con-mofa-el-jefe-de-las-lluvias.html",
-        "date": "2025-09-24 12:52:59",
-        "sentiment_score": 0.33276937901973724
-    },
-    {
-        "title": "Varapalo de la Audiencia a los intentos de imputar a la delegada del Gobierno y al presidente de la CHJ",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BNM55S7YSVNKXJZBCOCWJJILLY.jpg?auth=a54d30440aa34397bcd2441843a614c69eccd0d0db5587dac9af4c2193311b37&width=1200",
-        "tags": [
-            "tribunales",
-            "justicia",
-            "dana",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana",
-            "carlos mazón",
-            "generalitat valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-24/varapalo-de-la-audiencia-a-los-intentos-de-imputar-a-la-delegada-del-gobierno-y-al-presidente-de-la-chj.html",
-        "date": "2025-09-24 12:42:10",
-        "sentiment_score": -0.4345819018781185
-    },
-    {
-        "title": "Un concejal de Vox en Benicàssim, condenado por un delito de violencia machista",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NWG75NZDDRDMJB7JANL5EJTKOQ.jpg?auth=3f49291300875977b714baa897eda4529467dc83814455ea55db644e0a26bcdc&width=1200",
-        "tags": [
-            "violencia machista",
-            "fiscalía",
-            "violencia género",
-            "vox",
-            "justicia",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-09-24/un-concejal-de-vox-en-benicassim-condenado-por-un-delito-de-violencia-machista.html",
-        "date": "2025-09-24 12:09:32",
-        "sentiment_score": -0.7797297108918428
-    },
-    {
-        "title": "Detenido un sicario de 17 de años por asesinar a un ciudadano neerlandés en Fuengirola",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/NXR65WEAXBEWXEQ6VIOEI2RQSU.jpg?auth=6d5e2e4d6e98313a8a760461a0a419c4088eb184cafd2596686978cceb51bd41&width=1200",
-        "tags": [
-            "euroorden",
-            "sucesos",
-            "unión europea",
-            "jóvenes",
-            "holanda",
-            "asesinatos",
-            "crimen organizado",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-09-24/detenido-un-sicario-de-17-de-anos-por-asesinar-a-un-ciudadano-neerlandes-en-fuengirola.html",
-        "date": "2025-09-24 12:04:36",
-        "sentiment_score": -0.6946239974349737
     },
     {
         "title": "Luis Yeray Gutiérrez propondrá al pleno el nombramiento de Carmelo Cabrera como Hijo Adoptivo de La Laguna",
@@ -998,43 +771,6 @@ export default [
         "sentiment_score": -0.21236552298069
     },
     {
-        "title": "The Terminal Hub supera los 10.000 visitantes en su primer año y alcanza una ocupación del 100% en oficinas privada",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/24/terminal-hub-valencia-Rv56QpnXHsxebUZQirJwY7M-1200x840@diario_abc.JPG",
-        "tags": [
-            "valencia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/the-terminal-hub-supera-10000-visitantes-primer-20250924135954-nt.html",
-        "date": "2025-09-24 11:59:55",
-        "sentiment_score": 0.11182522773742676
-    },
-    {
-        "title": "Una calle de Bangkok se derrumba por la fuga de una tubería y provoca un enorme socavón que obliga a desalojar un hospital y sus inmediaciones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/24/1501133537-ko6H-U701640878985mVH-1200x840@diario_abc.jpg",
-        "tags": [
-            "bangkok",
-            "uh abc",
-            "tailandia"
-        ],
-        "link": "https://www.abc.es/internacional/calle-bangkok-derrumba-fuga-tuberia-provoca-enorme-20250924133550-nt.html",
-        "date": "2025-09-24 11:36:32",
-        "sentiment_score": -0.16834381222724915
-    },
-    {
-        "title": "Estos son los 10 supermercados más baratos en España, según la OCU",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/09/24/super-baratos.jpg",
-        "tags": [
-            "espana",
-            "supermercados",
-            "segun",
-            "baratos",
-            "ocu"
-        ],
-        "link": "https://www.abc.es/economia/supermercados-baratos-espana-segun-ocu-20250924132513-nt.html",
-        "date": "2025-09-24 11:25:14",
-        "sentiment_score": -0.07198691368103027
-    },
-    {
         "title": "Casi la mitad de los juicios por abusos sexuales a menores en España se prolongan más de tres años",
         "image_url": "https://imagenes.elpais.com/resizer/v2/26CVHMNSENCATLSGT5UNX5TMI4.jpg?auth=93ebf5b47be407c0b2f2a507e9267e9dd9cff6ba52eca62b29c0e6968eae28d6&width=1200",
         "tags": [
@@ -1160,64 +896,6 @@ export default [
         "link": "https://elpais.com/espana/2025-09-24/podemos-tacha-de-engano-el-decreto-del-gobierno-sobre-el-embargo-de-armas-a-israel.html",
         "date": "2025-09-24 14:45:40",
         "sentiment_score": -0.686290679499507
-    },
-    {
-        "title": "Rueda se enreda en la palabra prohibida de Ayuso: un minuto de silencio contra el genocidio en Gaza pero negándolo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/45UFDA4CPNJUBCSVKYAESTEYNA.jpg?auth=b81b31fda0d2cf7dde6c740dac7007b4c269dad3ace25c4c3bba1a3385069517&width=1200",
-        "tags": [
-            "alfonso rueda",
-            "genocidio",
-            "bng",
-            "psdeg-psoe",
-            "conflicto árabe-israelí",
-            "galicia",
-            "parlamentos autonómicos",
-            "españa",
-            "ppdeg"
-        ],
-        "link": "https://elpais.com/espana/2025-09-24/rueda-se-enreda-en-la-palabra-prohibida-de-ayuso-un-minuto-de-silencio-contra-el-genocidio-en-gaza-pero-negandolo.html",
-        "date": "2025-09-24 13:24:39",
-        "sentiment_score": -0.8406034596264362
-    },
-    {
-        "title": "El Constitucional falla a favor de la Comunidad de Madrid en el conflicto sobre formación de familias para acoger menores",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MVOITZQVHVDIFDWFDOAGCSQ254.jpg?auth=f7df7e9aba601ad64f3b12a23fb97e7134755d301b19101d3cef2364a821a8d9&width=1200",
-        "tags": [
-            "tribunal constitucional",
-            "tribunales",
-            "migración",
-            "madrid",
-            "gobierno comunidad madrid",
-            "familia",
-            "menores migrantes",
-            "comunidad de madrid",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-24/el-constitucional-falla-a-favor-de-la-comunidad-de-madrid-en-el-conflicto-sobre-formacion-de-familias-para-acoger-menores.html",
-        "date": "2025-09-24 13:06:12",
-        "sentiment_score": -0.678364422172308
-    },
-    {
-        "title": "Una semana entre Jerusalén, los Altos del Golán y las colonias ilegales de Cisjordania: así “impactó” Israel a Ayuso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ICVZVF6ZHZC2LML2QPOTCEU5IY.jpg?auth=b51b04e994ab8680404f434294cb2e2957e9ea1efb10c5505504159de5de2b2d&width=1200",
-        "tags": [
-            "siria",
-            "cristina cifuentes",
-            "israel",
-            "jerusalén",
-            "madrid",
-            "cisjordania",
-            "esperanza aguirre",
-            "palestina",
-            "pp madrid",
-            "isabel díaz ayuso",
-            "altos del golán",
-            "comunidad de madrid",
-            "gobierno comunidad madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-24/una-semana-entre-jerusalen-los-altos-del-golan-y-las-colonias-ilegales-de-cisjordania-asi-impacto-israel-a-ayuso.html",
-        "date": "2025-09-24 13:01:29",
-        "sentiment_score": 0.1798425018787384
     },
     {
         "title": "Santi Cañizares anuncia boda con su nueva pareja y aclara si se plantea más hijos: \"Nos conocimos en mayo y nos casamos ya\"",
@@ -8126,5 +7804,430 @@ export default [
         "link": "https://2001online.com/usa/servicios/adios-a-las-filas-eeuu-actualiza-el-pago-online-de-este-requisito-para-la-visa-20259271600",
         "date": "2025-09-27 20:00:00",
         "sentiment_score": 0.04158448427915573
+    },
+    {
+        "title": "Málaga: la predicción del clima para este 28 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/4JLM2D7XO5CYFB22EHE7UZVHZA.png?auth=31432af2f18955afe456882c52b614f072d38886e4fdf91641a59f297c01726a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "españa noticias",
+            "tiempo en españa",
+            "málaga",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/malaga-la-prediccion-del-clima-para-este-28-de-septiembre/",
+        "date": "2025-09-28 02:01:00",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/SHCTZRUOZVCJ3C2ZRHB3GXGZRA.png?auth=ccfd03e6d0570fe037ed9c51f84a1eba2b9ea17709785368392c6852d3f305ce&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "madrid",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/prediccion-del-clima-estas-son-las-temperaturas-en-madrid/",
+        "date": "2025-09-28 01:30:34",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Ranking de YouTube en España: la lista de los 10 videos musicales más reproducidos hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "streaming",
+            "youtube",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/ranking-de-youtube-en-espana-la-lista-de-los-10-videos-musicales-mas-reproducidos-hoy/",
+        "date": "2025-09-28 01:16:17",
+        "sentiment_score": 0.694549236446619
+    },
+    {
+        "title": "Predicción del clima: estas son las temperaturas en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "españa noticias",
+            "tiempo en españa",
+            "noticias",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/prediccion-del-clima-estas-son-las-temperaturas-en-barcelona/",
+        "date": "2025-09-28 01:15:51",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El emprendimiento de puertas adentro perfecciona su fórmula",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/09/28/santalucia-RJjsYKGS5Oee7aUYcAohQeJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "puertas",
+            "emprendimiento",
+            "formula",
+            "adentro",
+            "perfecciona"
+        ],
+        "link": "https://www.abc.es/economia/emprendimiento-puertas-adentro-perfecciona-formula-20250928013035-nt.html",
+        "date": "2025-09-27 23:30:35",
+        "sentiment_score": -0.022665977478027344
+    },
+    {
+        "title": "La vivienda, el gran desafío de España, y de Europa",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/09/28/vivienda_20250926210928-RvfOWtx8M27bZcwjBcwOgkO-350x624@diario_abc.jpg",
+        "tags": [
+            "gran",
+            "europa",
+            "vivienda",
+            "desafio",
+            "espana"
+        ],
+        "link": "https://www.abc.es/economia/yolanda-gomez-rojo-vivienda-gran-desafio-espana-europa-20250928211100-nt.html",
+        "date": "2025-09-27 23:30:14",
+        "sentiment_score": -0.12254638969898224
+    },
+    {
+        "title": "El \"Alarcos\" reúne en Oviedo a las grandes voces de la poesía nacional",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/434e93ea-c1d2-4192-bb85-594526641170_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "poesía",
+            "luis garcía montero",
+            "zamora"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/09/28/alarcos-reune-oviedo-grandes-voces-122033314.html",
+        "date": "2025-09-28 02:00:33",
+        "sentiment_score": -0.02802973985671997
+    },
+    {
+        "title": "Ismael Jordi, tenor jerezano que junto a la soprano venezolana Génesis Moreno protagoniza \"Roméo et Juliette\" en el Capoamor: \"La carrera de un cantante se hace con el ‘no’\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13790d75-2d5b-4917-b2f9-954a64123e3f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "premios",
+            "ópera",
+            "bilbao",
+            "la frontera"
+        ],
+        "link": "https://www.lne.es/oviedo/2025/09/28/ismael-jordi-tenor-jerezano-soprano-122034389.html",
+        "date": "2025-09-28 02:00:32",
+        "sentiment_score": -0.09215152263641357
+    },
+    {
+        "title": "El fiscal y el abogado de Begoña Gómez niegan que 121 'mails' de la asesora con gestiones para la cátedra supongan malversación",
+        "image_url": "https://s2.elespanol.com/2024/06/07/espana/tribunales/861174781_259037449_1706x960.jpg",
+        "tags": [
+            "tribunales",
+            "begoña gómez",
+            "malversación de fondos",
+            "guardia civil",
+            "pedro sánchez",
+            "félix bolaños garcía",
+            "uco"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20250928/fiscal-abogado-begona-gomez-niegan-mails-asesora-gestiones-catedra-supongan-malversacion/1003743944467_0.html",
+        "date": "2025-09-28 01:50:32",
+        "sentiment_score": -0.4487282484769821
+    },
+    {
+        "title": "Pedro J.: \"Si buscara el poder, intentaría ser primer ministro o presidente de un gran club pero para eso ya está Florentino\"",
+        "image_url": "https://s2.elespanol.com/2025/09/27/actualidad/1003743944098_259031233_1706x1280.jpg",
+        "tags": [
+            "política",
+            "pedro j. ramírez",
+            "hablando sobre españa",
+            "entrevistas"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250928/pedro-buscara-poder-intentaria-primer-ministro-presidente-gran-club-florentino/1003743940815_0.html",
+        "date": "2025-09-28 01:49:13",
+        "sentiment_score": -0.59219890832901
+    },
+    {
+        "title": "La frágil salud de Mohamed VI obliga a España a estudiar escenarios de abdicación o sucesión en Marruecos",
+        "image_url": "https://s2.elespanol.com/2025/09/26/actualidad/1003743942851_259013572_1706x960.jpg",
+        "tags": [
+            "unión europea y cooperación",
+            "españa",
+            "marruecos",
+            "diplomacia",
+            "ministerio de asuntos exteriores"
+        ],
+        "link": "https://www.elespanol.com/espana/20250928/fragil-salud-mohamed-vi-obliga-espana-estudiar-escenarios-abdicacion-sucesion-marruecos/1003743939705_0.html",
+        "date": "2025-09-28 01:48:58",
+        "sentiment_score": -0.4693628326058388
+    },
+    {
+        "title": "Estos son los 5 temas de conversación a los que siempre recurren las personas con pocas de habilidades sociales",
+        "image_url": "https://s2.elespanol.com/2017/11/03/ciencia/salud/psicologia-ciencia-salud_259236644_52762461_1706x960.jpg",
+        "tags": [
+            "salud",
+            "psicología",
+            "estrés"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20250928/temas-conversacion-siempre-recurren-personas-pocas-habilidades-sociales/1003743943513_0.html",
+        "date": "2025-09-28 01:38:58",
+        "sentiment_score": -0.9205690613016486
+    },
+    {
+        "title": "El Festival Internacional Palabra inicia la semana que conduce a Leteo",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2025/09/27/68d7cf5476d24.r_d.609-284-16391.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/250928/2061127/festival-palabra-inicia-semana-rumbo-leteo.html",
+        "date": "2025-09-28 01:30:00",
+        "sentiment_score": -0.3030165806412697
+    },
+    {
+        "title": "Luis Eduardo Andrades: “La inmensa mayoría de los chilenos fueron leales al Rey”",
+        "image_url": "https://static.grupojoly.com/clip/dfc69458-adbb-426f-bb93-aa8198c04f92_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "luis",
+            "mayoria",
+            "inmensa",
+            "andrades",
+            "eduardo"
+        ],
+        "link": "https://www.diariodesevilla.es/rastrodelafama/luis-eduardo-andrades-inmensa-mayoria_0_2004885432.html",
+        "date": "2025-09-28 01:15:31",
+        "sentiment_score": -0.030894532799720764
+    },
+    {
+        "title": "La Moncloa trata de abrirle una brecha a Feijóo con la agenda internacional: \"El PP está dividido y lo han hecho público\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/2d26f27a1465f2fcc979f51abd99c7e7/crop/1x7/100x107/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16528898789864.jpg",
+        "tags": [
+            "psoe",
+            "nlpremium",
+            "pedro sánchez",
+            "artículos raúl piña"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/09/28/68d7ff5f21efa026368b4576.html",
+        "date": "2025-09-28 01:00:26",
+        "sentiment_score": -0.8728215228766203
+    },
+    {
+        "title": "Sundeep Waslekar, el hombre que sabe cómo evitar la guerra mundial: \"Este lustro es el más peligroso para la humanidad\"",
+        "image_url": "https://s2.elespanol.com/2025/09/24/actualidad/1003743939227_258965890_1706x960.jpg",
+        "tags": [
+            "india",
+            "guerra",
+            "inteligencia artificial",
+            "europa"
+        ],
+        "link": "https://www.elespanol.com/mundo/europa/20250928/sundeep-waslekar-hombre-sabe-evitar-guerra-mundial-lustro-peligroso-humanidad/1003743938937_0.html",
+        "date": "2025-09-28 00:37:25",
+        "sentiment_score": -0.37368031591176987
+    },
+    {
+        "title": "«Concibo el trabajo como un medio para poder vivir, no vivo para trabajar»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/09/28/2477561/concibo-trabajo-como-medio-para-poder-vivir-vivo-para-trabajar.html",
+        "date": "2025-09-28 02:00:01",
+        "sentiment_score": -0.20921580493450165
+    },
+    {
+        "title": "Barcelona al timón de la innovación en aviación: la historia de SITA eWAS",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b78a1230-a15e-4b86-8233-8944a13b608e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "historia",
+            "barcelona",
+            "aerolíneas",
+            "innovación",
+            "el mundo"
+        ],
+        "link": "https://www.elperiodico.com/es/tecnologia/20250928/barcelona-timon-innovacion-aviacion-historia-121918187",
+        "date": "2025-09-28 01:59:19",
+        "sentiment_score": 0.3852772042155266
+    },
+    {
+        "title": "La vida al límite de Javi por el gen IRF2BPL: \"En enero iba en bici y en febrero en sillas de ruedas. Es muy fuerte\"",
+        "image_url": "https://s2.elespanol.com/2025/09/26/ciencia/salud/1003743943566_259023245_1706x960.jpg",
+        "tags": [
+            "autismo",
+            "salud",
+            "enfermedades raras",
+            "genética"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20250928/vida-limite-javi-gen-irf2bpl-enero-iba-bici-febrero-sillas-ruedasesmuyfuerte/1003743942570_0.html",
+        "date": "2025-09-28 01:38:32",
+        "sentiment_score": -0.7256455700844526
+    },
+    {
+        "title": "Cola-Con",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cola"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/cola_0_2004892217.html",
+        "date": "2025-09-28 01:11:39",
+        "sentiment_score": -0.10151168704032898
+    },
+    {
+        "title": "Carlos Pascual, presidente de Integra: de una pequeña pedanía a liderar uno de los mayores grupos tecnológicos",
+        "image_url": "https://s2.elespanol.com/2025/09/27/actualidad/1003743943871_259027574_1706x960.jpg",
+        "tags": [
+            "actualidad",
+            "aragón"
+        ],
+        "link": "https://www.elespanol.com/aragon/actualidad/20250928/carlos-pascual-presidente-integra-pequena-pedania-liderar-mayores-grupos-tecnologicos/1003743942082_0.html",
+        "date": "2025-09-28 00:41:28",
+        "sentiment_score": 0.8158827908337116
+    },
+    {
+        "title": "El yihadismo infecta la Comunitat Valenciana con 12 terroristas capturados en 2025, sólo Cataluña la supera",
+        "image_url": "https://s2.elespanol.com/2025/01/03/alicante/913669428_252101766_1706x960.jpg",
+        "tags": [
+            "elda",
+            "ciberterrorismo",
+            "calpe (alicante)",
+            "yihadismo",
+            "terrorismo",
+            "dáesh",
+            "alicante",
+            "ministerio del interior"
+        ],
+        "link": "https://www.elespanol.com/alicante/20250928/yihadismo-infecta-comunitat-valenciana-terroristas-capturados-solo-cataluna-supera/1003743942864_0.html",
+        "date": "2025-09-28 00:39:40",
+        "sentiment_score": -0.6712696962058544
+    },
+    {
+        "title": "De la Vuelta a España a Eurovisión y la 'flotilla': por qué ninguna guerra divide tanto en Europa como la de Gaza",
+        "image_url": "https://s2.elespanol.com/2025/09/26/actualidad/1003743943573_259023332_1706x960.jpg",
+        "tags": [
+            "hamás",
+            "conflicto palestino-israelí",
+            "eurovisión",
+            "europa",
+            "israel"
+        ],
+        "link": "https://www.elespanol.com/mundo/europa/20250928/vuelta-espana-eurovision-flotilla-ninguna-guerra-divide-europa-gaza/1003743943537_0.html",
+        "date": "2025-09-28 00:36:35",
+        "sentiment_score": -0.06490418314933777
+    },
+    {
+        "title": "Luc Van den hove (CEO de imec): \"En el sector de los chips no hay que pensar en clave nacional, sino paneuropea\"",
+        "image_url": "https://s2.elespanol.com/2025/09/26/actualidad/1003743942075_259003427_1706x960.jpg",
+        "tags": [
+            "investigación",
+            "tecnología",
+            "innovación",
+            "grandes actores"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/20250928/luc-van-den-hove-ceo-imec-sector-chips-no-pensar-clave-nacional-paneuropea/1003743942068_0.html",
+        "date": "2025-09-28 00:06:04",
+        "sentiment_score": 0.6237197741866112
+    },
+    {
+        "title": "Con solo tres ingredientes: prepara tu propio perfume casero y ahorra dinero en marcas costosas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758895738588/Captura%20de%20pantalla%202025-09-26%20a%20la(s)%2010.08.45%20a.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/con-solo-tres-ingredientes-prepara-tu-propio-perfume-casero-y-ahorra-dinero-en-marcas-costosas-20259272200",
+        "date": "2025-09-28 02:00:00",
+        "sentiment_score": 0.29100433737039566
+    },
+    {
+        "title": "Victoria para personas sin hogar: esta ciudad de California deroga ley que prohibía albergues",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/be26266/2147483647/strip/true/crop/2047x1075+0+38/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb4%2F99%2F58f94d565b8976af02e6756944ed%2Fla-1560009475-iu0t8qlu85-snap-image",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/victoria-para-personas-sin-hogar-esta-ciudad-de-california-deroga-ley-que-prohibia-albergues--202592721310",
+        "date": "2025-09-28 01:31:00",
+        "sentiment_score": -0.6565276496112347
+    },
+    {
+        "title": "Este es el estado de salud de Roscoe: Lewis Hamilton pide oraciones por su bulldog",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759023327340/Hamilton-Roscoe.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/este-es-el-estado-de-salud-de-roscoe-lewis-hamilton-pide-oraciones-por-su-bulldog-20259272200",
+        "date": "2025-09-28 01:04:53",
+        "sentiment_score": -0.3922884240746498
+    },
+    {
+        "title": "La Maldición del Bambino: el supuesto maleficio de Babe Ruth a los Red Sox por casi 90 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/la-maldicion-del-bambino-el-supuesto-maleficio-de-babe-ruth-a-los-red-sox-por-casi-90-anos-20259272100",
+        "date": "2025-09-28 01:00:00",
+        "sentiment_score": 0.7409476898610592
+    },
+    {
+        "title": "Madre deja a su hija en casa por unos minutos: regresa y “el perro estaba cubierto de sangre”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/madre-deja-a-su-hija-en-casa-por-unos-minutos-regresa-y-el-perro-estaba-cubierto-de-sangre--20259272100",
+        "date": "2025-09-28 01:00:00",
+        "sentiment_score": -0.7209169697016478
+    },
+    {
+        "title": "¡Se dieron el Sí! Selena Gómez celebra sus nupcias junto a Benny Blanco: conoce los detalles",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/se-dieron-el-si-selena-gomez-celebra-sus-nupcias-junto-a-benny-blanco-conoce-los-detalles-202592720580",
+        "date": "2025-09-28 00:58:00",
+        "sentiment_score": 0.3003419507294893
+    },
+    {
+        "title": "Luego de asaltar pasajeros quiso ganar más con videos sensibles: cayó en esta jugada policial en la Av. Baralt",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/luego-de-asaltar-pasajeros-quiso-ganar-mas-con-videos-sensibles-cayo-en-esta-jugada-policial-en-la-av-baralt-202592720340",
+        "date": "2025-09-28 00:34:00",
+        "sentiment_score": -0.5154972113668919
+    },
+    {
+        "title": "La historia de Éric Abidal: cómo venció a una grave enfermedad y volvió al campo",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759015696915/skysports-lionel-messi-eric-abidal_4911587.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/la-historia-de-eric-abidal-como-vencio-a-una-grave-enfermedad-y-volvio-al-campo-20259272100",
+        "date": "2025-09-28 00:04:42",
+        "sentiment_score": 0.46564115583896637
+    },
+    {
+        "title": "Sigue la lucha contra el covid-19: Florida lanza acceso a bajo costo a la vacuna en estas famosas cadenas minoristas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/sigue-la-lucha-contra-el-covid-19-florida-lanza-acceso-a-bajo-costo-a-la-vacuna-en-estas-famosas-cadenas-minoristas-20259272200",
+        "date": "2025-09-28 00:04:42",
+        "sentiment_score": -0.7516079377382994
+    },
+    {
+        "title": "¿Te rechazaron en un vuelo dentro de EEUU? Puede que aparezcas en la No Fly List: entérate de qué se trata",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/te-rechazaron-en-un-vuelo-dentro-de-eeuu-puede-que-aparezcas-en-la-no-fly-list-enterate-de-que-se-trata-20259272000",
+        "date": "2025-09-28 00:00:00",
+        "sentiment_score": -0.004928082227706909
     }
 ];
