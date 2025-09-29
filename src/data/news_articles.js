@@ -316,91 +316,6 @@ export default [
         "sentiment_score": 0.05158279836177826
     },
     {
-        "title": "El Ayuntamiento de Arroyomolinos (PP) cancela a última hora una charla sobre las muertes en las residencias durante la pandemia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SQ5CHBZZBBEMLLYJKXNOA2JWIM.jpg?auth=f359fdaf8f28fbb6f1cd8f1b7f9a4b7fd0d59c9ca90e9e4417ab4677c18ede9c&width=1200",
-        "tags": [
-            "arroyomolinos",
-            "pp madrid",
-            "residencias ancianos",
-            "rtve",
-            "madrid",
-            "isabel díaz ayuso",
-            "más madrid",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-09-25/el-ayuntamiento-de-arroyomolinos-pp-cancela-a-ultima-hora-una-charla-sobre-las-muertes-en-las-residencias-durante-la-pandemia.html",
-        "date": "2025-09-25 14:02:57",
-        "sentiment_score": -0.5397938396781683
-    },
-    {
-        "title": "Moreno reconoce el genocidio en Gaza tras el discurso del Rey mientras Ayuso exhibe su cercanía a Israel",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/25KYMOGUCRFCZCVLODNXA6IYGM.jpg?auth=07b56c14adaf802ff046653c1cb8ae32bba2e883b23db782736a50c4520051d6&width=1200",
-        "tags": [
-            "conflicto árabe-israelí",
-            "palestina",
-            "juan manuel moreno",
-            "españa",
-            "alfonso rueda",
-            "israel",
-            "isabel díaz ayuso",
-            "franja gaza"
-        ],
-        "link": "https://elpais.com/espana/2025-09-25/moreno-reconoce-el-genocidio-en-gaza-tras-el-discurso-del-rey-mientras-ayuso-exhibe-su-cercania-a-israel.html",
-        "date": "2025-09-25 13:37:42",
-        "sentiment_score": -0.06299972534179688
-    },
-    {
-        "title": "Las Cortes de Castilla y León aprueban reconocer la categoría profesional de bombero forestal antes de 2026",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AI577XBOK5GJ5JVHJBIQ6JEA64.jpg?auth=a95de815891f9b3558228414089f0f6d88d49b5db0ce66b868c1d734bbe8d5c2&width=1200",
-        "tags": [
-            "pp",
-            "condiciones trabajo",
-            "psoe",
-            "debates parlamentarios autonómicos",
-            "incendios",
-            "castilla y león",
-            "bomberos",
-            "salarios",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-09-25/las-cortes-de-castilla-y-leon-aprueban-reconocer-la-categoria-profesional-de-bombero-forestal-antes-de-2026.html",
-        "date": "2025-09-25 13:22:38",
-        "sentiment_score": -0.6701887547969818
-    },
-    {
-        "title": "Las víctimas de la dana en la Eurocámara: “No se puede permitir que políticas negacionistas pongan vidas en peligro”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6DWUJHTSQRBZXNYARRMK23WBZ4.JPG?auth=ef8d77f2f119d52de6bf30c1663c5fe700ae82728892f336fd5e2ddd049a9209&width=1200",
-        "tags": [
-            "parlamento europeo",
-            "dana",
-            "unión europea",
-            "valencia",
-            "comunidad valenciana",
-            "desastres naturales",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-09-25/las-victimas-de-la-dana-en-la-eurocamara-no-se-puede-permitir-que-politicas-negacionistas-pongan-vidas-en-peligro.html",
-        "date": "2025-09-25 13:20:07",
-        "sentiment_score": 0.12472488172352314
-    },
-    {
-        "title": "Feijóo: “El modelo buenista de la integración ha fracasado”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BSH5B5O3SRLFTJJ2DGXMHBVDEQ.jpg?auth=368980de28b3682e1b5ecf66ed5cb387df48f8bde119f4e1b1ff658f2620747d&width=1200",
-        "tags": [
-            "pp",
-            "marga prohens",
-            "alberto núñez feijóo",
-            "baleares",
-            "inmigración",
-            "inmigración irregular",
-            "españa",
-            "santiago abascal"
-        ],
-        "link": "https://elpais.com/espana/2025-09-25/feijoo-el-modelo-buenista-de-la-integracion-ha-fracasado.html",
-        "date": "2025-09-25 13:06:24",
-        "sentiment_score": -0.0641857385635376
-    },
-    {
         "title": "Adiós a José Julio Sanz, el transportista que se desvivió hasta el último día por el campo vallisoletano",
         "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/09/25/josejuliosanz-kHZB-U2303179788486rgD-758x531@El%20Norte.jpg",
         "tags": [
@@ -7683,5 +7598,381 @@ export default [
         "link": "https://2001online.com/servicios/financiamiento-para-emprendedores-en-venezuela-dos-vias-de-credito-y-como-solicitarlas-202592815300",
         "date": "2025-09-28 19:30:00",
         "sentiment_score": 0.4190441779792309
+    },
+    {
+        "title": "Conoce el clima de este día en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/HGCQQBREJFG3HOXFG7QBSMNCJQ.png?auth=61e42083d629851aa0c8752556cbd10c287b99213f35efecf1dbb0797359aec9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "málaga",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/29/conoce-el-clima-de-este-dia-en-malaga/",
+        "date": "2025-09-29 02:16:58",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 29 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "españa noticias",
+            "tiempo en españa",
+            "noticias",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/29/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-29-de-septiembre/",
+        "date": "2025-09-29 01:17:08",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Top de películas más vistas en Netflix España",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-televisión",
+            "netflix",
+            "películas",
+            "streaming",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/top-de-peliculas-mas-vistas-en-netflix-espana/",
+        "date": "2025-09-28 23:30:52",
+        "sentiment_score": 0.8811986930668354
+    },
+    {
+        "title": "Cuál es la canción de K-pop más escuchada en iTunes España hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa",
+            "k-pop",
+            "streaming",
+            "itunes"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/cual-es-la-cancion-de-k-pop-mas-escuchada-en-itunes-espana-hoy/",
+        "date": "2025-09-28 23:15:32",
+        "sentiment_score": 0.4098609406501055
+    },
+    {
+        "title": "La Guardia Civil, los comisarios y los celadores (III)",
+        "image_url": "https://static.grupojoly.com/clip/947f6bb8-578a-4382-bf68-a0e7175c3fb9_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/guardia-civil-comisarios-celadores-iii_0_2004846432.html",
+        "date": "2025-09-29 02:01:07",
+        "sentiment_score": 0.07221920043230057
+    },
+    {
+        "title": "Las raíces mallorquinas de Carmen Maura: su vinculación con una famosa dinastía de la isla",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3488335.jpg",
+        "tags": [
+            "el hormiguero",
+            "antonio maura",
+            "ia-news",
+            "audiencias-um",
+            "tendencias",
+            "pablo motos",
+            "antena 3",
+            "sociedad",
+            "última hora",
+            "carmen maura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/09/29/2478253/raices-mallorquinas-carmen-maura-vinculacion-una-famosa-dinastia-isla.html",
+        "date": "2025-09-29 02:00:02",
+        "sentiment_score": -0.004524737596511841
+    },
+    {
+        "title": "Puntos analgésicos",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3491847.jpg",
+        "tags": [
+            "rcd mallorca",
+            "laliga",
+            "fútbol",
+            "ultimas noticias",
+            "liga ea sports",
+            "real mallorca",
+            "última hora",
+            "primera división"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/09/29/2479771/puntos-analgesicos.html",
+        "date": "2025-09-29 02:00:02",
+        "sentiment_score": -0.25958631932735443
+    },
+    {
+        "title": "Manos amigas con los demás",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "manos",
+            "amigas"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/manos-amigas_0_2004899986.html",
+        "date": "2025-09-29 01:10:48",
+        "sentiment_score": 0.5404444262385368
+    },
+    {
+        "title": "Hartos de cómo nos ven",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "ven",
+            "hartos"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/hartos-ven_0_2004899966.html",
+        "date": "2025-09-29 01:10:25",
+        "sentiment_score": -0.33007892966270447
+    },
+    {
+        "title": "El PSOE incumple su propia propuesta de que los partidos no sean acusación popular: se persona en 4 casos contra el PP",
+        "image_url": "https://s2.elespanol.com/2025/09/19/actualidad/1003743933368_258856680_1706x960.jpg",
+        "tags": [
+            "partido popular (pp)",
+            "hazte oír",
+            "tribunal supremo",
+            "carlos mazón",
+            "tribunales",
+            "operación kitchen",
+            "vox",
+            "manos limpias"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20250929/psoe-incumple-propia-propuesta-partidos-no-acusacion-popular-persona-casos-pp/1003743927642_0.html",
+        "date": "2025-09-29 01:01:33",
+        "sentiment_score": -0.513867300003767
+    },
+    {
+        "title": "Aragua recibe el Campeonato Nacional de Clubes U10",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/09/91-2.jpg",
+        "tags": [
+            "fvb",
+            "deportes",
+            "béisbol"
+        ],
+        "link": "https://elsiglo.com.ve/aragua-recibe-el-campeonato-nacional-de-clubes-u10/",
+        "date": "2025-09-29 00:56:49",
+        "sentiment_score": 0.31186623871326447
+    },
+    {
+        "title": "DISRUPTORES Innovation Awards 2025: estos son los finalistas a Mejor CIO del año",
+        "image_url": "https://s2.elespanol.com/2024/10/11/invertia/disruptores/892670864_249921221_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "gran empresa",
+            "innovación",
+            "eventos tecnologia e innovación",
+            "digitalización"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20250929/disruptores-innovation-awards-finalistas-mejor-cio-ano/1003743934539_0.html",
+        "date": "2025-09-29 00:56:24",
+        "sentiment_score": 0.2135826274752617
+    },
+    {
+        "title": "¡No es Real Madrid ni Atlético! Después de Barcelona este es el único invicto en LaLiga",
+        "image_url": "https://pxcdn.meridiano.net/092025/1759105695298.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "entertainment",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/no-es-real-madrid-ni-atletico-despues-de-barcelona-este-es-el-unico-invicto-en-laliga-202592820290",
+        "date": "2025-09-29 00:29:00",
+        "sentiment_score": 0.3983953110873699
+    },
+    {
+        "title": "Roberto Santiago, el autor que ha vendido 8 millones de libros: \"Es un error imponer la lectura en el cole. Puede desincentivar”",
+        "image_url": "https://s2.elespanol.com/2025/09/25/actualidad/1003743941758_258998986_1706x960.jpg",
+        "tags": [
+            "literatura",
+            "acoso escolar (bullying)",
+            "reportajes",
+            "literatura infantil",
+            "libros"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20250929/roberto-santiago-autor-vendido-millones-libros-error-imponer-lectura-cole-puede-desincentivar/1003743941577_0.html",
+        "date": "2025-09-29 00:23:55",
+        "sentiment_score": -0.7019621282815933
+    },
+    {
+        "title": "Arancha Martínez Riola, portavoz de Vox en el Ayuntamiento de Avilés: \"Nos estamos dando un tiro en el pie con políticas energéticas suicidas\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/380ddaed-4f99-4800-9161-d95338477a65_16-9-aspect-ratio_default_0_x1130y493.jpg",
+        "tags": [
+            "pp",
+            "avilés",
+            "gente",
+            "gobierno"
+        ],
+        "link": "https://www.lne.es/aviles/2025/09/29/arancha-martinez-riola-portavoz-vox-122050063.html",
+        "date": "2025-09-29 02:09:00",
+        "sentiment_score": -0.35471461713314056
+    },
+    {
+        "title": "Risas cósmicas en la Gran Vía: horóscopos gamberros para los signos de Madrid",
+        "image_url": "https://www.madridactual.es/images/stories/noticias/recursos/horoscopos/horoscopo-4.jpg",
+        "tags": [
+            "horóscopo guasón"
+        ],
+        "link": "https://www.madridactual.es/informacion-de-servicio/horoscopo-guason/risas-cosmicas-en-la-gran-via-horoscopos-gamberros-para-los-signos-de-madrid-1759118519-20250929-8057691.html",
+        "date": "2025-09-29 02:01:59",
+        "sentiment_score": 0.06091899052262306
+    },
+    {
+        "title": "Hacia la ciudad inhabitable",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8bfb8fb3-0744-4799-b52d-2e27c62c3d5e_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "verano",
+            "público",
+            "espacio",
+            "cimavilla"
+        ],
+        "link": "https://www.lne.es/gijon/opinion/2025/09/29/ciudad-inhabitable-122061289.html",
+        "date": "2025-09-29 02:00:22",
+        "sentiment_score": -0.8797252308577299
+    },
+    {
+        "title": "Sobre símbolos nacionales (con perdón)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "naciones",
+            "españa",
+            "europa",
+            "barcelona"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2025/09/29/simbolos-nacionales-perdon-122054475.html",
+        "date": "2025-09-29 02:00:12",
+        "sentiment_score": -0.36299894750118256
+    },
+    {
+        "title": "La última oferta de Vodafone: fibra y móvil con Samsung o Smart TV de regalo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6438ff04-4616-4764-8c2a-085a25b89289_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vodafone",
+            "ahorro",
+            "samsung"
+        ],
+        "link": "https://www.elperiodico.com/es/tecnologia/20250929/ultima-oferta-vodafone-fibra-movil-122061750",
+        "date": "2025-09-29 01:59:23",
+        "sentiment_score": 0.5594170242547989
+    },
+    {
+        "title": "La última oferta de Vodafone: fibra y móvil con Samsung o Smart TV de regalo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6438ff04-4616-4764-8c2a-085a25b89289_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "televisión",
+            "vodafone",
+            "tecnología",
+            "ahorro",
+            "samsung"
+        ],
+        "link": "https://www.lacronicabadajoz.com/estilo-de-vida/2025/09/29/ultima-oferta-vodafone-fibra-movil-122061745.html",
+        "date": "2025-09-29 01:59:22",
+        "sentiment_score": 0.5351283717900515
+    },
+    {
+        "title": "Patito Feo: el reencuentro de Brenda Asnicar y Gastón Soffritti que revivió la nostalgia de la novela",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "patito feo",
+            "brenda asnicar",
+            "gastón soffritti"
+        ],
+        "link": "https://2001online.com/farandula/patito-feo-el-reencuentro-de-brenda-asnicar-y-gaston-soffritti-que-revivio-la-nostalgia-de-la-novela-202592822120",
+        "date": "2025-09-29 02:12:00",
+        "sentiment_score": 0.8902386352419853
+    },
+    {
+        "title": "¿Dolor de tórax? La Clínica Mayo despeja dudas sobre los síntomas de la angina de pecho",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758898525504.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/dolor-de-torax-la-clinica-mayo-despeja-dudas-sobre-los-sintomas-de-la-angina-de-pecho-20259282200",
+        "date": "2025-09-29 02:00:00",
+        "sentiment_score": 0.6620401684194803
+    },
+    {
+        "title": "Predicciones de la semana del 29 septiembre al 5 de octubre",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758919547113.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-29-septiembre-al-5-de-octubre-20259282200",
+        "date": "2025-09-29 02:00:00",
+        "sentiment_score": -0.0051308199763298035
+    },
+    {
+        "title": "Desintoxica tu organismo con este jugo natural milagroso: es rico en propiedades vitamínicas y antioxidantes",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759109447947.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/desintoxica-tu-organismo-con-este-jugo-natural-milagroso-es-rico-en-propiedades-vitaminicas-y-antioxidantes-202592821450",
+        "date": "2025-09-29 01:45:00",
+        "sentiment_score": -0.7161851041018963
+    },
+    {
+        "title": "¿Un fiasco total? La controversial declaración de un ex participante de “La Casa de los Famosos México”",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759110207549/IMG_0634.jpeg?ch=675&cw=1200",
+        "tags": [
+            "adrián marcelo",
+            "la casa de los famos méxico"
+        ],
+        "link": "https://2001online.com/farandula/un-fiasco-total-la-controversial-declaracion-de-un-ex-participante-de-la-casa-de-los-famosos-mexico--202592821340",
+        "date": "2025-09-29 01:34:00",
+        "sentiment_score": -0.9360988661646843
+    },
+    {
+        "title": "Alisa el cabello sin plancha: aprende a preparar en casa esta mascarilla natural a base de aloe vera",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759107513140.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/alisa-el-cabello-sin-plancha-aprende-a-preparar-en-casa-esta-mascarilla-natural-a-base-de-aloe-vera-202592821250",
+        "date": "2025-09-29 01:25:00",
+        "sentiment_score": -0.719012551009655
+    },
+    {
+        "title": "Bloomberg: Conoce los países de Latam más afectados por el nuevo costo de la visa H-1B de EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759108166729.jpg?ch=675&cw=1200",
+        "tags": [
+            "visa de trabajo",
+            "visa h-1b",
+            "migración"
+        ],
+        "link": "https://2001online.com/usa/internacionales/bloomberg-conoce-los-paises-de-latam-mas-afectados-por-el-nuevo-costo-de-la-visa-h-1b-de-eeuu-202592821170",
+        "date": "2025-09-29 01:17:00",
+        "sentiment_score": 0.04236539453268051
+    },
+    {
+        "title": "Leonardo DiCaprio revela la terrible advertencia de un agente: Nunca te van a contratar",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759108841179/IMG_0633.jpeg?ch=675&cw=1200",
+        "tags": [
+            "benicio del toro",
+            "podcast",
+            "leonardo dicaprio"
+        ],
+        "link": "https://2001online.com/farandula/leonardo-dicaprio-revela-la-terrible-advertencia-de-un-agente-nunca-te-van-a-contratar-202592820580",
+        "date": "2025-09-29 00:58:00",
+        "sentiment_score": -0.8415621761232615
+    },
+    {
+        "title": "Ácido 'disuelve huesos': muerte impensada de una mujer tras pisar un líquido mortal",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759106877498.jpg?ch=675&cw=1200",
+        "tags": [
+            "ácido disuelve huesos",
+            "china"
+        ],
+        "link": "https://2001online.com/sucesos/acido-disuelve-huesos-muerte-impensada-de-una-mujer-tras-pisar-un-liquido-mortal-202592820480",
+        "date": "2025-09-29 00:48:00",
+        "sentiment_score": -0.889078164473176
+    },
+    {
+        "title": "Evita la irritación de la piel con esta crema hidratante casera: prepárala con tres ingredientes económicos y pocos pasos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759105814048.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/evita-la-irritacion-de-la-piel-con-esta-crema-hidratante-casera-preparala-con-tres-ingredientes-economicos-y-pocos-pasos-202592820350",
+        "date": "2025-09-29 00:35:00",
+        "sentiment_score": -0.8172966931015253
     }
 ];
