@@ -1,408 +1,5 @@
 export default [
     {
-        "title": "Síndrome de la vejiga hiperactiva: causas, síntomas y tratamiento",
-        "image_url": "https://www.infobae.com/resizer/v2/SU6ON2GBYFDNLC2A63Q2TGFHOQ.jpeg?auth=6ddab45cebf61d79867dd2671c876b06a59f50c0e716eeb29f8a9a1403cfd50f&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "enfermedades y medicamentos españa",
-            "vejiga",
-            "españa-noticias",
-            "enfermedades y medicamentos",
-            "españa-salud"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/25/sindrome-de-la-vejiga-hiperactiva-causas-sintomas-y-tratamiento/",
-        "date": "2025-09-25 06:27:55",
-        "sentiment_score": -0.5777546241879463
-    },
-    {
-        "title": "Tres plantas de interior para eliminar el moho del hogar",
-        "image_url": "https://www.infobae.com/resizer/v2/PIYU4624PVCTRFZC5I7GF6ZJLQ.jpg?auth=ab1bd3422589812765d2311512a82f9e98b10d1fd33ee5cd7f4ec742262aa912&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-noticias",
-            "humedad",
-            "españa-sociedad",
-            "plantas",
-            "hogar"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/25/tres-plantas-de-interior-para-eliminar-el-moho-del-hogar/",
-        "date": "2025-09-25 06:18:58",
-        "sentiment_score": 0.4734746888279915
-    },
-    {
-        "title": "Sebastián Ramírez, abogado: “Este es el motivo por el que muchas mujeres dejan de trabajar y se sienten al borde del colapso”",
-        "image_url": "https://www.infobae.com/resizer/v2/X3PQ5NJQBRHX5E7YZY465A5OL4.png?auth=a5270a0f58fa7d6fd183d6f0418f653163a31fd5f6afc606be3262d5b8c07461&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "familias",
-            "españa-economia",
-            "españa-noticias",
-            "tiktok españa",
-            "conciliación familiar",
-            "hogar",
-            "maternidad españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/25/sebastian-ramirez-abogado-este-es-el-motivo-por-el-que-muchas-mujeres-dejan-de-trabajar-y-se-sienten-al-borde-del-colapso/",
-        "date": "2025-09-25 06:16:01",
-        "sentiment_score": -0.9151169089600444
-    },
-    {
-        "title": "Un probador de coches explica las 10 claves para detectar un vehículo que sea “para toda la vida”",
-        "image_url": "https://www.infobae.com/resizer/v2/IE2E64CAOZBUNNA2UDMNJGBP4U.png?auth=714edf5fb4e0c8702167ca214032a4097dc2af3b4e67c242e2eb006858c583b4&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "motor españa",
-            "españa-nacional",
-            "españa-noticias",
-            "motor",
-            "coches"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/25/un-probador-de-coches-explica-las-10-claves-para-detectar-un-vehiculo-que-sea-para-toda-la-vida/",
-        "date": "2025-09-25 06:07:21",
-        "sentiment_score": 0.658203361555934
-    },
-    {
-        "title": "El gran director de Hollywood que ayudó en secreto con los guiones de ‘Los asesinos de la luna’ y ‘Napoleón’: “Fue un privilegio”",
-        "image_url": "https://www.infobae.com/resizer/v2/RLDCIW5N4ZEWLGMMHYDHYY7HCQ.jpg?auth=b1774575a7ea78e19fe70fcf5597a208edae86e89f49922673f9bd0c6491ae61&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "directores",
-            "españa-noticias",
-            "cine",
-            "españa-cultura",
-            "cine españa"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/09/25/el-gran-director-de-hollywood-que-ayudo-en-secreto-con-los-guiones-de-los-asesinos-de-la-luna-y-napoleon-fue-un-privilegio/",
-        "date": "2025-09-25 06:03:13",
-        "sentiment_score": 0.1977519690990448
-    },
-    {
-        "title": "Cómo reconocer un ictus, según un médico: “Si lo ves, pídele a la persona que enseñe los dientes”",
-        "image_url": "https://www.infobae.com/resizer/v2/ISJOF6REBRAIBFXVOWTNAIBUYI.jpg?auth=4dea12ec19e1a8c8611a1bdbe83000679a01b592a4ba5bf7e292700e8176d74e&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "ictus",
-            "tiktok",
-            "españa salud",
-            "enfermedades y medicamentos",
-            "enfermedades y medicamentos españa",
-            "españa noticias",
-            "tiktok españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/25/como-reconocer-un-ictus-segun-un-medico-si-lo-ves-pidele-a-la-persona-que-ensene-los-dientes/",
-        "date": "2025-09-25 05:56:41",
-        "sentiment_score": -0.7403696794062853
-    },
-    {
-        "title": "Un venezolano que residía en Miami consigue la nacionalidad española al acreditar su origen sefardí y su especial vinculación con España",
-        "image_url": "https://www.infobae.com/resizer/v2/FB7HKS4EQRDVNGJHXFQ4XF76JY.jpg?auth=25e4834d0235fe3fa58efc7e2f2f4cc02bce891beda3c3a33cc6c3b15a31fbbe&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "sentencias",
-            "nacionalidad",
-            "venezuela",
-            "españa-nacional",
-            "juicios",
-            "españa-noticias",
-            "madrid",
-            "tribunales españa",
-            "nacionalidad españa",
-            "justicia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/25/un-venezolano-que-residia-en-miami-consigue-la-nacionalidad-espanola-al-acreditar-su-origen-sefardi-y-su-especial-vinculacion-con-espana/",
-        "date": "2025-09-25 05:56:20",
-        "sentiment_score": -0.7195876855403185
-    },
-    {
-        "title": "Manuel Vidal, podólogo: “Tenemos un ejercicio secreto para curar la mayoría de los problemas en los pies”",
-        "image_url": "https://www.infobae.com/resizer/v2/JC632BSUKZCIVLZPJVFCNVWNBE.png?auth=8c22d68c298cfbc1820324d8dd471372160df5fc20cd52d2de95e5f2a0338eff&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-salud",
-            "tiktok",
-            "enfermedades y medicamentos",
-            "españa-noticias",
-            "fascitis plantar",
-            "podología",
-            "redes sociales",
-            "pies",
-            "tiktok españa",
-            "enfermedades y medicamentos españa",
-            "podólogo"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/25/manuel-vidal-podologo-tenemos-un-ejercicio-secreto-para-curar-la-mayoria-de-los-problemas-en-los-pies/",
-        "date": "2025-09-25 05:37:50",
-        "sentiment_score": -0.5442419797182083
-    },
-    {
-        "title": "Embalses de agua: la reserva bajó este 25 de septiembre",
-        "image_url": "https://www.infobae.com/resizer/v2/N424ELVQZJHAFO2XXOBALRUREM.png?auth=bd795d8f0ec1698de766c177c925f018338672f4352ac995cb6eb11bcddea811&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "sequía",
-            "noticias",
-            "embalses españa",
-            "españa-noticias",
-            "agua"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/25/embalses-de-agua-la-reserva-bajo-este-25-de-septiembre/",
-        "date": "2025-09-25 05:15:55",
-        "sentiment_score": 0.054894618690013885
-    },
-    {
-        "title": "Cambio de euro a dólar hoy 25 de septiembre: cómo está la cotización y previsiones",
-        "image_url": "https://www.infobae.com/resizer/v2/ESK62KO465BPPJHALZ2MW52HZI.jpg?auth=07bf53b2db812406e917e930f5264d5cd0382e62de46b4cd3b6e6a47e5917685&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "noticias",
-            "monedas",
-            "mercados",
-            "españa-economía",
-            "tipo de cambio",
-            "billetes",
-            "dólar",
-            "euros",
-            "bancos españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/25/cambio-de-euro-a-dolar-hoy-25-de-septiembre-como-esta-la-cotizacion-y-previsiones/",
-        "date": "2025-09-25 05:15:32",
-        "sentiment_score": -0.32036420702934265
-    },
-    {
-        "title": "Se estrena en Madrid 'Cabaret', la nueva versión del clásico musical",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/09/25/119479CA-BC51-4CAF-B1AC-CD584E96DC27/cabaret_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "sociedad",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/sociedad/estrena-madrid-cabaret-nueva-version-clasico-musical_2025092568d4e2f5752e1f3ede52fccf.html",
-        "date": "2025-09-25 06:36:37",
-        "sentiment_score": 0.4766981266438961
-    },
-    {
-        "title": "Neinor avanza en su opa sobre Aedas: Economía resuelve que no precisa autorización en inversiones extranjeras",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JN2VV7M3ABIBRG2ZYEBQROSAEU.jpg?auth=08d9076e32291a2f7b6a5b10069a3d99c7065ba0ec19617750fed2d8b15fe379&width=1200",
-        "tags": [
-            "empresas",
-            "neinor",
-            "opa",
-            "aedas homes",
-            "cnmv",
-            "mercado inmobiliario"
-        ],
-        "link": "https://cincodias.elpais.com/companias/2025-09-25/neinor-avanza-en-su-opa-sobre-aedas-economia-resuelve-que-no-precisa-autorizacion-en-inversiones-extranjeras.html",
-        "date": "2025-09-25 06:27:05",
-        "sentiment_score": 0.22009843960404396
-    },
-    {
-        "title": "La nueva influencia de Íñigo Onieva sobre Tamara Falcó que lo cambia todo, \"una vaga de libro\"",
-        "image_url": "https://static.grupojoly.com/clip/080f0bf0-1fd1-49c1-be39-89ad1f34bb7d_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "onieva",
-            "tamara",
-            "inigo",
-            "influencia",
-            "nueva"
-        ],
-        "link": "https://www.diariodejerez.es/gente/nueva-influencia-inigo-onieva-tamara_0_2004866919.html",
-        "date": "2025-09-25 06:25:19",
-        "sentiment_score": -0.3369359225034714
-    },
-    {
-        "title": "Neinor avanza en su OPA sobre Aedas: Economía resuelve que no precisa autorización en inversiones extranjeras",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250925082219_120.jpg",
-        "tags": [
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/noticia-neinor-avanza-opa-aedas-economia-resuelve-no-precisa-autorizacion-inversiones-extranjeras-20250925082219.html",
-        "date": "2025-09-25 06:22:19",
-        "sentiment_score": 0.09119133651256561
-    },
-    {
-        "title": "Neinor avanza en su OPA sobre Aedas: Economía resuelve que no precisa autorización en inversiones extranjeras",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/09/fotonoticia_20250925082219_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/802713/neinor-avanza-en-su-opa-sobre-aedas-economia-resuelve-que-no-precisa-autorizacion-en-inversiones-extranjeras/",
-        "date": "2025-09-25 06:22:19",
-        "sentiment_score": 0.1828732192516327
-    },
-    {
-        "title": "¿Por qué recordamos algunos momentos de la vida y otros no?",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250925081748_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-recordamos-algunos-momentos-vida-otros-no-20250925081748.html",
-        "date": "2025-09-25 06:17:48",
-        "sentiment_score": -0.3852692171931267
-    },
-    {
-        "title": "Las piezas únicas de Manuel Carrasco para ser un 'salvaje' que le vinculan con Lady Gaga: \"Partir realmente de la raíz\"",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/files/fp/uploads/2025/09/25/68d4db346a2f7.r_d.651-1033-0.jpeg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.cadena100.es/musica/noticias/piezas-unicas-manuel-carrasco-salvaje-le-vinculan-lady-gaga-partir-realmente-raiz-20250925_140178.html",
-        "date": "2025-09-25 06:06:53",
-        "sentiment_score": 0.06116512417793274
-    },
-    {
-        "title": "Julián su reto inmediato: «Lo daré todo para ganar al Real Madrid»",
-        "image_url": "https://okdiario.com/img/2025/09/25/julian-celebrando-su-tercer-gol..jpg",
-        "tags": [
-            "diego pablo 'cholo' simeone",
-            "real madrid",
-            "atlético de madrid",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/julian-reto-inmediato-lo-dare-todo-ganar-real-madrid-15470715",
-        "date": "2025-09-25 06:04:55",
-        "sentiment_score": 0.38126034289598465
-    },
-    {
-        "title": "Rafael Torres.- Lo que el NO-DO no vio",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "firmas",
-            "otr press"
-        ],
-        "link": "https://www.europapress.es/otr-press/firmas/rafaeltorres/noticia-rafael-torres-no-do-no-vio-20250925080148.html",
-        "date": "2025-09-25 06:01:48",
-        "sentiment_score": -0.6620451174676418
-    },
-    {
-        "title": "La OCU lo hace oficial: en éste barrio de Madrid sí te puedes comprar una casa",
-        "image_url": "https://okdiario.com/img/2025/09/24/la-ocu-lo-hace-oficial-en-este-barrio-de-madrid-si-te-puedes-comprar-una-casa.jpg",
-        "tags": [
-            "okd",
-            "madrid",
-            "compraventa de viviendas",
-            "vivienda",
-            "compraventa",
-            "españa"
-        ],
-        "link": "https://okdiario.com/madrid/ocu-lo-hace-oficial-este-barrio-madrid-si-te-puedes-comprar-casa-15467435",
-        "date": "2025-09-25 06:00:48",
-        "sentiment_score": -0.33583349734544754
-    },
-    {
-        "title": "El Girona en manos de Ounahi",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/09/23/68d2d5fb16e7d.jpeg",
-        "tags": [
-            "esports cope"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/girona-manos-ounahi-20250925_3220223.html",
-        "date": "2025-09-25 06:35:00",
-        "sentiment_score": 0.040138453245162964
-    },
-    {
-        "title": "Un choque entre dos autobuses causa una retención kilométrica en la B-23",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/25/68d4e1483cefb.r_d.459-498-4885.png",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20250925/11094788/choque-dos-autobuses-causa-retencion-kilometrica-b-23.html",
-        "date": "2025-09-25 06:32:41",
-        "sentiment_score": -0.3502410613000393
-    },
-    {
-        "title": "¿Qué hacen en Barcelona 150 ministros de Cultura de todo el mundo?",
-        "image_url": "https://static1.ara.cat/clip/d841f71e-4c40-49cd-8c9f-2563c7db730d_16-9-aspect-ratio_default_0_x1127y686.jpg",
-        "tags": [
-            "ministros",
-            "cultura",
-            "150",
-            "mundo",
-            "barcelona"
-        ],
-        "link": "https://es.ara.cat/cultura/barcelona-150-ministros-cultura-mundo_1_5508081.html",
-        "date": "2025-09-25 06:30:19",
-        "sentiment_score": 0.1805478148162365
-    },
-    {
-        "title": "La estabilidad dominará en la Península, salvo en Barcelona en riesgo por lluvia de 20 l/m2",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250925081724_690.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-tiempo-hoy-espana-25-septiembre-2025-20250925081724.html",
-        "date": "2025-09-25 06:17:24",
-        "sentiment_score": -0.14177893102169037
-    },
-    {
-        "title": "Barcelona, preparada para el chaparrón: el Meteocat lo confirma y prevé fuertes lluvias a partir de esta hora",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2024/10/31/672342c18ab05.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20250925/1002538506/barcelona-preparada-chaparron-meteocat-confirma-preve-fuertes-lluvias-partir-hora-dct.html",
-        "date": "2025-09-25 06:07:06",
-        "sentiment_score": 0.055504441261291504
-    },
-    {
-        "title": "La flotilla artillada y el secreto de la longevidad",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/25/primeras-planas/1003742691699_15200845_1706x960.jpg",
-        "tags": [
-            "pedro sánchez",
-            "boqueria",
-            "gaza",
-            "primeras planas",
-            "junts",
-            "italia",
-            "salud",
-            "psoe",
-            "israel"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20250925/flotilla-artillada-secreto-longevidad/1003742691698_0.html",
-        "date": "2025-09-25 06:04:34",
-        "sentiment_score": -0.5831100940704346
-    },
-    {
-        "title": "Israel reta a la Flotilla a que descargue la ayuda humanitaria en un país próximo",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/04/68b9d72a0d027.r_d.1406-1965-0.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20250925/11094733/israel-propone-flotilla-descargue-ayuda-humanitaria-pais-proximo.html",
-        "date": "2025-09-25 06:03:50",
-        "sentiment_score": -0.39603233337402344
-    },
-    {
-        "title": "'La historia' de Elsa Morante y el patetismo del revolucionario novato",
-        "image_url": "https://static1.ara.cat/clip/df3e1ff5-e942-48b4-8587-4ee45ca117c6_16-9-aspect-ratio_default_0_x463y114.png",
-        "tags": [
-            "novato",
-            "patetismo",
-            "morante",
-            "elsa",
-            "historia",
-            "revolucionario"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/historia-elsa-morante-patetismo-revolucionario-novato_129_5508063.html",
-        "date": "2025-09-25 06:01:26",
-        "sentiment_score": -0.09743067622184753
-    },
-    {
-        "title": "Caballitos de mar en Canarias: ¿Realmente viven dos especies diferentes?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d352b410-b403-4696-a7a5-df6cdeb57c09_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "canarias",
-            "género",
-            "mar",
-            "biología",
-            "archipiélago"
-        ],
-        "link": "https://www.laprovincia.es/sociedad/2025/09/25/caballitos-mar-canarias-realmente-viven-121930130.html",
-        "date": "2025-09-25 06:00:54",
-        "sentiment_score": -0.16956518590450287
-    },
-    {
-        "title": "Oviedo - Barcelona: Alineaciones posibles, horario y dónde ver el partido de LaLiga EA Sports",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/09/24/6B14DABA-FA35-41D3-97A5-595DD0BF5FDD/pedri-gonzalez-partido-barca_98.jpg?crop=4500%2C2532%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/oviedo-barcelona-alineaciones-horario-donde-ver-partido-laliga-sports_2025092568d4da6d8376074a8f950712.html",
-        "date": "2025-09-25 06:00:13",
-        "sentiment_score": 0.2676217705011368
-    },
-    {
         "title": "Una asesora del SEPE confirma que conceden el subsidio por desempleo a trabajadores de media jornada que cumplan este requisito",
         "image_url": "https://www.infobae.com/resizer/v2/6KVPJMVUKREZBAYTIC4ZC6VAMM.jpg?auth=2f27a52cfca7840d52f4aa91d0b275f622cd61013e700fb0c2d885fcb973cd8e&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -621,53 +218,6 @@ export default [
         "link": "https://www.abc.es/internacional/israel-responde-bombardeos-sobre-sana-yemen-ataque-20250925162046-nt.html",
         "date": "2025-09-25 14:26:44",
         "sentiment_score": -0.30793552100658417
-    },
-    {
-        "title": "Nolasco (Vox) condiciona las cuentas en Aragón al rechazo a la entrada de menas, pero deja la puerta entreabierta: «No sé si habrá presupuestos»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/25/1501182885-Rtx4H8zCYXAN3L8LugtcsJK-1200x840@diario_abc.jpg",
-        "tags": [
-            "aragón",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/aragon/nolasco-vox-condiciona-cuentas-aragon-rechazo-entrada-20250925120630-nt.html",
-        "date": "2025-09-25 10:06:31",
-        "sentiment_score": -0.12996020913124084
-    },
-    {
-        "title": "La compraventa de viviendas en C-LM volvió a crecer en julio un 21,1%, y suma tres meses de ascensos interanuales",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/25/sv-Ru5eSJldYzO4QH83lLhSIlM-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "castilla la mancha"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/compraventa-viviendas-clm-volvio-crecer-julio-211-20250925110810-nt.html",
-        "date": "2025-09-25 09:08:11",
-        "sentiment_score": -0.04382812976837158
-    },
-    {
-        "title": "La planta de Mercedes en Vitoria, lista para producir la nueva VLE",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/motor/2025/09/24/25C0234_001-RX0OJT2kIg6UqML8w2ddVaO-1200x840@diario_abc.jpg",
-        "tags": [
-            "industria automovilística",
-            "coches eléctricos",
-            "motor",
-            "mercedes benz"
-        ],
-        "link": "https://www.abc.es/motor/motoreco/planta-mercedes-vitoria-lista-producir-nueva-vle-20250924110000-nt.html",
-        "date": "2025-09-25 09:00:08",
-        "sentiment_score": 0.04116851091384888
-    },
-    {
-        "title": "Ayuso destaca que la F1 ha vendido 45.000 entradas y conseguido 25 millones de euros en ingresos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/25/f1-RJ0LU9eSD50p5d9O5pIeZXK-1200x840@diario_abc.jpg",
-        "tags": [
-            "fórmula 1",
-            "isabel díaz ayuso",
-            "madrid (ciudad)"
-        ],
-        "link": "https://www.abc.es/espana/madrid/ayuso-destaca-vendido-45000-entradas-conseguido-millones-20250925095158-nt.html",
-        "date": "2025-09-25 07:51:58",
-        "sentiment_score": 0.00920054316520691
     },
     {
         "title": "Juan Manuel Moreno anuncia su séptima rebaja fiscal con una desgravación al alquiler de vivienda",
@@ -7560,5 +7110,578 @@ export default [
         "link": "https://2001online.com/nacionales/nuevo-acuerdo-entre-gobernadores-de-frontera-colombia-y-venezuela-claves-del-compromiso-binacional-202592811510",
         "date": "2025-09-28 15:51:00",
         "sentiment_score": 0.27710188180208206
+    },
+    {
+        "title": "Resultados del Quinigol: comprobar números ganadores de este 28 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "quinigol",
+            "noticias",
+            "españa-loterias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/resultados-del-quinigol-de-este-28-de-septiembre/",
+        "date": "2025-09-28 21:22:09",
+        "sentiment_score": 0.1734202764928341
+    },
+    {
+        "title": "Comprobar Quíntuple Plus: números ganadores del 28 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZT3SFR67INBWZDTF2TMQOAS4WM.png?auth=819000da0f7c06412e0c854663e66d9a63bf00d14b526f119579b1cdd5a5a86b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "quíntuple plus",
+            "noticias",
+            "españa-loterias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/quintuple-plus-numeros-ganadores-del-28-de-septiembre/",
+        "date": "2025-09-28 21:19:11",
+        "sentiment_score": 0.24465952068567276
+    },
+    {
+        "title": "Aitana Bonmatí denuncia la falta de apoyo al fútbol femenino en España tras ganar su tercer Balón de Oro",
+        "image_url": "https://www.infobae.com/resizer/v2/7QPJKLNLDFBPJCJFJH52HATXH4.JPG?auth=55608bbf8c9d80a540ef136945e973c7a78de40c888587efbf975ddeb8f381a4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "champions league femenina",
+            "mundial femenino",
+            "selección española de fútbol femenino",
+            "balón de oro",
+            "newsroom bue",
+            "fc barcelona",
+            "magazines",
+            "fútbol femenino",
+            "aitana bonmatí"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/28/aitana-bonmati-denuncia-la-falta-de-apoyo-al-futbol-femenino-en-espana-tras-ganar-su-tercer-balon-de-oro/",
+        "date": "2025-09-28 20:40:27",
+        "sentiment_score": 0.3373391553759575
+    },
+    {
+        "title": "Estos son los resultados ganadores del sorteo de Bonoloto de este 28 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2M3I6GTDRAKBDQBIJN7RTAJPE.png?auth=aa49b632d6506bc96a1ff7a3f2245bcfb6c28042071e793bc4355847be21fe47&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bonoloto",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/estos-son-los-resultados-ganadores-del-sorteo-de-bonoloto-de-este-28-de-septiembre/",
+        "date": "2025-09-28 20:15:32",
+        "sentiment_score": 0.27361590787768364
+    },
+    {
+        "title": "Lototurf: resultados ganadores de este 28 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/XUZH4R6EORA4TL6AXQM5XXBG5M.png?auth=47b4aacadda7019d429d7df45865af6642b2403f048855b2a9853351367f3dc4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterias",
+            "noticias",
+            "lototurf"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/lototurf-resultados-ganadores-de-este-28-de-septiembre/",
+        "date": "2025-09-28 20:15:25",
+        "sentiment_score": 0.24465952068567276
+    },
+    {
+        "title": "El NHS advierte sobre el consumo omeprazol para combatir la acidez estomacal",
+        "image_url": "https://www.infobae.com/resizer/v2/ISOUIEGHBNEQFC4OJBQPCW5O34.jpg?auth=dd14bfd9593d2268935edea9e5ebc1cfc0b2f8998288bf82e61248697b73e18c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "úlcera gástrica",
+            "fármacos",
+            "medicamentos españa",
+            "salud",
+            "enfermedades españa",
+            "españa-salud",
+            "españa-noticias",
+            "enfermedades y medicamentos españa",
+            "enfermedades y medicamentos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/el-nhs-advierte-sobre-el-consumo-omeprazol-para-combatir-la-acidez-estomacal/",
+        "date": "2025-09-28 19:34:29",
+        "sentiment_score": -0.6918884143233299
+    },
+    {
+        "title": "Dos manifestaciones salen de Paiporta y Valencia para \"dejar claro y patente\" que exigen dimisión de Mazón tras dana",
+        "image_url": "https://www.infobae.com/resizer/v2/6JJ5EYXKXRGLNGVOXYJ7PKVGOM.jpg?auth=ed252862e44cfa66320b4e255af22155f181ea35b16e40c36bed177e9b3e4da7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/28/dos-manifestaciones-salen-de-paiporta-y-valencia-para-dejar-claro-y-patente-que-exigen-dimision-de-mazon-tras-dana/",
+        "date": "2025-09-28 19:30:18",
+        "sentiment_score": -0.5514278933405876
+    },
+    {
+        "title": "Las intensas lluvias llegan a Zaragoza: los bomberos rescatan a varias personas atrapadas en las carreteras",
+        "image_url": "https://www.infobae.com/resizer/v2/6FZWRRTASFFTJBO6V3SEH2PAZQ.jpg?auth=bb14d9f905e467c899edf51f3e58c486812e3b3d0dd0e78cf65518ecb3e815f5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-sociedad",
+            "españa-noticias",
+            "lluvias",
+            "tormentas",
+            "aemet",
+            "dana"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/las-intensas-lluvias-llegan-a-zaragoza-los-bomberos-rescatan-a-personas-atrapadas-en-las-carreteras/",
+        "date": "2025-09-28 18:59:08",
+        "sentiment_score": -0.4389362633228302
+    },
+    {
+        "title": "Unos ladrones roban el reloj de un turista alemán en la playa: vale 70.000 euros",
+        "image_url": "https://www.infobae.com/resizer/v2/6VT742NTRBD4VJH7FQRN22NL3I.jpeg?auth=6ce401795836f9ac55299dc9b390732854d6145bf96aea38a6f517a9d5b636fd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "robos",
+            "españa-nacional",
+            "sucesos",
+            "justicia",
+            "españa-sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/28/unos-ladrones-roban-el-reloj-de-un-turista-aleman-en-la-playa-vale-70000-euros/",
+        "date": "2025-09-28 18:56:45",
+        "sentiment_score": -0.8490781020373106
+    },
+    {
+        "title": "Bolaños acude este lunes en Albacete al acto conmemorativo del inicio del Año Judicial en el TSJCM",
+        "image_url": "https://www.infobae.com/resizer/v2/ZCUNYAUGLBETTPCO7BEWSWLCKI.jpg?auth=afe48a29477e9f55a7f0c870bd81358c17f5cfe472c2dae1f240c0f4a60219c9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/28/bolanos-acude-este-lunes-en-albacete-al-acto-conmemorativo-del-inicio-del-ano-judicial-en-el-tsjcm/",
+        "date": "2025-09-28 17:46:14",
+        "sentiment_score": 0.008520178496837616
+    },
+    {
+        "title": "EE.UU. deporta a La Habana a «La bestia», una juez cómplice de la represión cubana",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/28/melody-cuba_20250928192428-R6KZ9oNrRUAdr4Yml1rNYbK-1200x840@diario_abc.jpg",
+        "tags": [
+            "estados unidos",
+            "la habana",
+            "partido comunista (cuba)",
+            "cuba"
+        ],
+        "link": "https://www.abc.es/internacional/eeuu-deporta-habana-jueza-complice-represion-cubana-20250928192541-nt.html",
+        "date": "2025-09-28 17:31:31",
+        "sentiment_score": -0.163116917014122
+    },
+    {
+        "title": "Las odiseas de Javier Reverte",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/09/29/TERCERAABC_JavierReverte_JORDA(1)-RfXTWLMIXrO0QhBcyaU0QtI-350x624@diario_abc.jpg",
+        "tags": [
+            "reverte",
+            "javier",
+            "odiseas"
+        ],
+        "link": "https://www.abc.es/opinion/eduardo-jorda-odiseas-javier-reverte-20250929140706-nt.html",
+        "date": "2025-09-28 17:23:03",
+        "sentiment_score": -0.08077779412269592
+    },
+    {
+        "title": "Primero educación y después, financiera",
+        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/09/19/BOEgoteras-kDnC--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "despues",
+            "primero",
+            "financiera",
+            "educacion"
+        ],
+        "link": "https://www.abc.es/opinion/javier-ruperez-primero-educacion-despues-financiera-20250929145918-nt.html",
+        "date": "2025-09-28 17:21:07",
+        "sentiment_score": -0.09791478514671326
+    },
+    {
+        "title": "Abascal acusa a Feijóo de mentir y manipular con la política migratoria de Vox",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JNTXDE2W4ZAJTD4F2K7KAY53DY.jpg?auth=9881f32f05ebabe9e237c6858284e733e80f39cfc9f483a02ab78c1226352362&width=1200",
+        "tags": [
+            "murcia",
+            "españa",
+            "partidos políticos",
+            "alberto núñez feijóo",
+            "santiago abascal",
+            "inmigración",
+            "congreso diputados",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2025-09-28/abascal-acusa-de-feijoo-de-mentir-y-manipular-con-la-politica-migratoria-de-vox.html",
+        "date": "2025-09-28 20:25:51",
+        "sentiment_score": -0.8652262641116977
+    },
+    {
+        "title": "Dos manifestaciones protestan contra la gestión de Mazón “con el corazón en un puño” ante una nueva dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WRAM7DQ5RRPVPEXLLOXYUOJM2M.jpg?auth=f6796250155a37354f0486af86741874222668e0c16170f3b3f628d8e82009c8&width=1200",
+        "tags": [
+            "protestas sociales",
+            "inundaciones dana octubre 2024",
+            "valencia",
+            "comunidad valenciana",
+            "carlos mazón",
+            "paiporta",
+            "manifestaciones",
+            "dimisiones políticas",
+            "dana"
+        ],
+        "link": "https://elpais.com/espana/2025-09-28/dos-manifestaciones-salen-desde-la-zona-cero-de-la-dana-y-desde-valencia-para-exigir-la-dimision-de-mazon.html",
+        "date": "2025-09-28 17:49:34",
+        "sentiment_score": -0.10301734507083893
+    },
+    {
+        "title": "Hay nuevo líder en LaLiga: Lamine Yamal volvió a tiempo y el FC Barcelona desplaza al Real Madrid de la cima",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/09/28/barcelona-real-sociedad-yamal-liga-espana-orix/",
+        "date": "2025-09-28 22:03:42",
+        "sentiment_score": -0.02782665193080902
+    },
+    {
+        "title": "Caligrafía sin pantallas para \"aprender a pensar\": el 'revolucionario' modelo que vuelve a la escuela",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/26/vida/1003742692307_15208903_1706x960.jpg",
+        "tags": [
+            "vida",
+            "profesores",
+            "barcelona",
+            "colegios de élite",
+            "colegio",
+            "tecnología",
+            "educación",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20250928/caligrafia-pantallas-aprender-pensar-revolucionario-modelo-escuela/1003742692699_0.html",
+        "date": "2025-09-28 22:00:00",
+        "sentiment_score": 0.5252197906374931
+    },
+    {
+        "title": "¿Quién es Dro Fernández? La nueva joya de Barcelona que Flick puso titular en La Liga",
+        "image_url": "https://pxcdn.meridiano.net/092025/1759096649329.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/quien-es-dro-fernandez-la-nueva-joya-de-barcelona-que-flick-puso-titular-en-la-liga-202592817580",
+        "date": "2025-09-28 21:58:00",
+        "sentiment_score": 0.6707287952303886
+    },
+    {
+        "title": "El Cádiz falla por arriba y el Granada se estrena por abajo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250928232812_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-cadiz-falla-arriba-granada-estrena-abajo-20250928232812.html",
+        "date": "2025-09-28 21:28:12",
+        "sentiment_score": -0.23751601576805115
+    },
+    {
+        "title": "Indra estudia la compra de Tecnobit a Oesía para crecer en Defensa",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/d6eafa5bbc6a292649919356a0d2087f/crop/0x0/1200x800/f/webp/assets/multimedia/imagenes/2025/09/28/17590848148533.jpg",
+        "tags": [
+            "artículos carlos drake>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/empresas/2025/09/28/68d97f1ce5fdeaef028b4585.html",
+        "date": "2025-09-28 21:19:27",
+        "sentiment_score": 0.4185704253613949
+    },
+    {
+        "title": "Lamine Yamal regresó para darle el liderato al Barcelona",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/09/Lamine-Yamal-y-Lewandoski.jpg",
+        "tags": [
+            "laliga",
+            "28sep",
+            "deportes",
+            "lamine yamal",
+            "barcelona"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/09/28/lamine-yamal-liderato-barcelona/",
+        "date": "2025-09-28 21:16:15",
+        "sentiment_score": 0.3076232224702835
+    },
+    {
+        "title": "Qué tienen en común las teorías de la conspiración: del 11M al atentado de Barcelona",
+        "image_url": "https://images.theconversation.com/files/691397/original/file-20250917-56-vyo605.jpg?auto=format&fit=crop&h=668&ixlib=rb-4.1.0&q=45&rect=0%2C719%2C5700%2C2850&w=1356",
+        "tags": [
+            "terrorismo",
+            "teoría de la conspiración",
+            "conspiración"
+        ],
+        "link": "https://theconversation.com/que-tienen-en-comun-las-teorias-de-la-conspiracion-del-11m-al-atentado-de-barcelona-264546",
+        "date": "2025-09-28 21:15:32",
+        "sentiment_score": 0.07001234591007233
+    },
+    {
+        "title": "Feijóo y sus CCAA piden financiación directa para los menores migrantes y promover el retorno a sus países de origen",
+        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2025/09/28/feijoo-kQiE-U201120508926rED-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "alberto núñez feijóo",
+            "partido popular (pp)"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/nacional/feijoo-ccaa-piden-financiacion-directa-menores-migrantes-20250928231355-nt.html",
+        "date": "2025-09-28 21:14:27",
+        "sentiment_score": -0.14614856243133545
+    },
+    {
+        "title": "Al hilo del Alderdi Eguna",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9548604b-bef6-4c82-aa08-32afcb159570_16-9-aspect-ratio_default_0_x1503y594.jpg",
+        "tags": [
+            "eguna",
+            "alderdi",
+            "hilo"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2025/09/28/hilo-alderdi-eguna-10141396.html",
+        "date": "2025-09-28 21:06:37",
+        "sentiment_score": -0.1387137621641159
+    },
+    {
+        "title": "23:00 | 28 SEP 2025 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/23-00-28-sep-2025-juego-20250929_3222170.html",
+        "date": "2025-09-28 22:15:42",
+        "sentiment_score": 0.22888562828302383
+    },
+    {
+        "title": "El PP apoya las subvenciones de la Diputación de Barcelona a un «chiringuito lingüístico»",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/09/unnamed-1.jpg",
+        "tags": [
+            "pp",
+            "español",
+            "la viñeta de la iberosfera"
+        ],
+        "link": "https://gaceta.es/la-vineta-de-la-iberosfera/el-pp-apoya-las-subvenciones-al-chiringuito-linguistico-para-excluir-al-espanol-en-la-diputacion-de-barcelona-20250929-0014/",
+        "date": "2025-09-28 22:14:00",
+        "sentiment_score": -0.03977957367897034
+    },
+    {
+        "title": "Fallece el fundador de Química del Cinca",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/09/29/vicente-gracia-corniel-fundador-de-quimica-del-cinca.r_d.618-1213-8229.jpeg",
+        "tags": [
+            "comarcas"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/comarcas/2025/09/29/fallece-el-fundador-de-quimica-del-cinca-1857550-daa.html",
+        "date": "2025-09-28 22:13:01",
+        "sentiment_score": 0.09967329353094101
+    },
+    {
+        "title": "Así encontró la Guardia Civil un laboratorio de cocaína en Tenerife digno de 'Breaking Bad'",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/09/uco-op-silbo-1-1440x808.jpg",
+        "tags": [
+            "narcotráfico",
+            "españa",
+            "guardia civil",
+            "uco"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/09/29/asi-encontro-guardia-civil-laboratorio-cocaina-tenerife-digno-breaking-bad/",
+        "date": "2025-09-28 22:05:40",
+        "sentiment_score": -0.09896089881658554
+    },
+    {
+        "title": "Ana Escoda",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/26/vida/1003742692306_15214302_1706x960.jpg",
+        "tags": [
+            "profesores",
+            "barcelona",
+            "examen a los protagonistas",
+            "educación",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20250928/ana-escoda/1003742692736_0.html",
+        "date": "2025-09-28 22:00:00",
+        "sentiment_score": -0.15592879056930542
+    },
+    {
+        "title": "Dos muertos, una herencia y un préstamo impagado: el conflicto empresarial que sacude la Costa Brava",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/26/vida/1003742692407_15210178_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "préstamos",
+            "empresarios",
+            "costa brava",
+            "girona",
+            "business",
+            "negocios",
+            "herencias"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250928/herencia-prestamo-impagado-conflicto-empresarial-costa-brava/1003742692124_0.html",
+        "date": "2025-09-28 22:00:00",
+        "sentiment_score": -0.4110836759209633
+    },
+    {
+        "title": "El espejismo del fin de Sánchez",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/05/27/business/1003742661027_14640654_1706x960.jpg",
+        "tags": [
+            "españa",
+            "zona franca",
+            "pp",
+            "carles puigdemont",
+            "amnistía",
+            "pedro sánchez",
+            "psoe",
+            "salvador illa",
+            "junts per catalunya",
+            "gobierno"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20250928/espejismo-fin-sanchez/1003742692710_12.html",
+        "date": "2025-09-28 22:00:00",
+        "sentiment_score": -0.9335439568385482
+    },
+    {
+        "title": "Tatxo Benet",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/12/15/examen-protagonistas/908919172_13871911_1706x960.jpg",
+        "tags": [
+            "tatxo benet",
+            "ministerio de hacienda y función pública",
+            "hacienda",
+            "mediapro",
+            "examen a los protagonistas",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20250928/tatxo-benet/1003742692724_0.html",
+        "date": "2025-09-28 22:00:00",
+        "sentiment_score": -0.13485375046730042
+    },
+    {
+        "title": "Eric Adams abandona su campaña: ¿quién es el candidato más fuerte para ganar la alcaldía de Nueva York?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759094297311.jpg?ch=675&cw=1200",
+        "tags": [
+            "política",
+            "nueva york",
+            "elecciones de alcaldía new york"
+        ],
+        "link": "https://2001online.com/usa/internacionales/eric-adams-abandona-su-campana-quien-es-el-candidato-mas-fuerte-para-ganar-la-alcaldia-de-nueva-york--202592818190",
+        "date": "2025-09-28 22:20:00",
+        "sentiment_score": -0.7565677892416716
+    },
+    {
+        "title": "¿Cuáles formaciones técnicas prefieren los jóvenes y adultos en Venezuela?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "cocina",
+            "programas formativos",
+            "formación",
+            "venezuela",
+            "plataformas digtales",
+            "inces"
+        ],
+        "link": "https://2001online.com/servicios/cuales-formaciones-tecnicas-prefieren-los-jovenes-y-adultos-en-venezuela--20259281800",
+        "date": "2025-09-28 22:00:00",
+        "sentiment_score": 0.4795409105718136
+    },
+    {
+        "title": "Carlos Alcaraz: cómo el tenista murciano se convirtió en un imán de audiencia y una marca global",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759086583564.jpg?ch=675&cw=1200",
+        "tags": [
+            "rafael nadal",
+            "tenis",
+            "tenista español",
+            "carlos alcaraz",
+            "crecimiento de carlos alcaraz",
+            "alcaraz",
+            "atp"
+        ],
+        "link": "https://2001online.com/deportes/carlos-alcaraz-como-el-tenista-murciano-se-convirtio-en-un-iman-de-audiencia-y-una-marca-global-202592818300",
+        "date": "2025-09-28 21:36:51",
+        "sentiment_score": 0.49258585274219513
+    },
+    {
+        "title": "¿Necesitas cambiar tu correo electrónico en el Saime? Estas son las oficinas disponibles en Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "pasaporte",
+            "saime",
+            "cédula",
+            "portal web",
+            "correo electrónico"
+        ],
+        "link": "https://2001online.com/servicios/necesitas-cambiar-tu-correo-electronico-en-el-saime-estas-son-las-oficinas-disponibles-en-caracas-202592817360",
+        "date": "2025-09-28 21:36:00",
+        "sentiment_score": 0.01664786785840988
+    },
+    {
+        "title": "El secreto de Max Verstappen: filosofía de Red Bull y trabajo de ingeniería",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759087981616.jpg?ch=675&cw=1200",
+        "tags": [
+            "red bull racing",
+            "escudería red bull",
+            "adrian newey",
+            "verstappen",
+            "max verstappen",
+            "fórmula 1",
+            "piloto de fórmula1",
+            "red bull",
+            "f1",
+            "campeonato de max verstappen"
+        ],
+        "link": "https://2001online.com/deportes/el-secreto-de-max-verstappen-filosofia-de-red-bull-y-trabajo-de-ingenieria-202592817450",
+        "date": "2025-09-28 21:06:40",
+        "sentiment_score": 0.6300156936049461
+    },
+    {
+        "title": "Ingreso forzado a una vivienda en Caracas: hallan cadáver con varios días de data",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759092987398.jpg?ch=675&cw=1200",
+        "tags": [
+            "bomberos de caracas",
+            "caracas",
+            "cbc",
+            "puente llaguno",
+            "municipio libertador"
+        ],
+        "link": "https://2001online.com/sucesos/ingreso-forzado-a-una-vivienda-en-caracas-hallan-cadaver-con-varios-dias-de-data-20259281700",
+        "date": "2025-09-28 21:00:00",
+        "sentiment_score": 0.25832048058509827
+    },
+    {
+        "title": "Reto viral de TikTok: “Mesa de surf” deja un muerto y una mujer con lesiones cerebrales",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "retos virales",
+            "diario 2001",
+            "tiktok",
+            "eeuu",
+            "peligro"
+        ],
+        "link": "https://2001online.com/sucesos/reto-viral-de-tiktok-mesa-de-surf-deja-un-muerto-y-una-mujer-con-lesiones-cerebrales-20259281700",
+        "date": "2025-09-28 21:00:00",
+        "sentiment_score": -0.7986803241074085
+    },
+    {
+        "title": "FC Barcelona vs. Real Madrid: la rivalidad que trasciende el fútbol",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759085236456.jpg?ch=675&cw=1200",
+        "tags": [
+            "real madrid vs barcelona",
+            "fc barcelona",
+            "cristiano ronaldo",
+            "gerard piquè",
+            "el clásico",
+            "clásico española",
+            "vicente del bosque",
+            "laliga",
+            "barcelona vs. real madrid",
+            "real madrid"
+        ],
+        "link": "https://2001online.com/deportes/fc-barcelona-vs-real-madrid-la-rivalidad-que-trasciende-el-futbol-202592816400",
+        "date": "2025-09-28 20:06:10",
+        "sentiment_score": -0.3681538850069046
+    },
+    {
+        "title": "¿Rabia o defensa? Este pequeño animal provocó pánico en California al atacar y herir a varias personas",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "california",
+            "ardilla",
+            "ataque"
+        ],
+        "link": "https://2001online.com/usa/internacionales/rabia-o-defensa-este-pequeno-animal-provoco-panico-en-california-al-atacar-y-herir-a-varias-personas-20259281600",
+        "date": "2025-09-28 20:00:00",
+        "sentiment_score": -0.49749233201146126
+    },
+    {
+        "title": "Financiamiento para emprendedores en Venezuela: dos vías de crédito y cómo solicitarlas",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "soporte financiero",
+            "económica",
+            "emprendimientos",
+            "microcrédito"
+        ],
+        "link": "https://2001online.com/servicios/financiamiento-para-emprendedores-en-venezuela-dos-vias-de-credito-y-como-solicitarlas-202592815300",
+        "date": "2025-09-28 19:30:00",
+        "sentiment_score": 0.4190441779792309
     }
 ];
