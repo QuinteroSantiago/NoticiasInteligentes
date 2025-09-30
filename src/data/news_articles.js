@@ -1,311 +1,5 @@
 export default [
     {
-        "title": "Marta Marcè, nutricionista, aclara si es bueno tomar café durante la menopausia: “La cafeína disminuye la sensación de fatiga”",
-        "image_url": "https://www.infobae.com/resizer/v2/P2DUVQMQWNE2XPILCFBKM37NGE.jpeg?auth=27a1d94817e226cbf01bae1f0cbb77a2f2b740be7ab5e43569efd1fc5cc0e259&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "nutrición",
-            "nutrición españa",
-            "españa-noticias",
-            "alimentación saludable",
-            "menopausia",
-            "café",
-            "mujeres",
-            "españa-salud"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/26/marta-marce-nutricionista-aclara-si-es-bueno-tomar-cafe-durante-la-menopausia-la-cafeina-disminuye-la-sensacion-de-fatiga/",
-        "date": "2025-09-26 06:28:06",
-        "sentiment_score": 0.22993095964193344
-    },
-    {
-        "title": "Así puedes configurar el GPS para no perderte en el túnel de la M-30",
-        "image_url": "https://www.infobae.com/resizer/v2/CLBYZOSBZVFEPG52H3BTLRFDM4.jpg?auth=cd3e2cddbaf46ba0139b2d58a49c19583baf4413ea84470923ddce5092a0d6e2&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "madrid",
-            "coches",
-            "españa-noticias",
-            "españa-nacional",
-            "carreteras",
-            "m-30"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/26/asi-puedes-configurar-el-gps-para-no-perderte-en-el-tunel-de-la-m-30/",
-        "date": "2025-09-26 06:15:55",
-        "sentiment_score": 0.38813332468271255
-    },
-    {
-        "title": "La fiesta del PCE contará con Díaz y debatirá sobre alianzas en la izquierda, de nuevo con la ausencia de Podemos",
-        "image_url": "https://www.infobae.com/resizer/v2/AYF43RV6BJDEBEINZV6CYSDS7U.jpg?auth=8f27cc3ca4ff1178237f6050d796f78c45b21f5a88480f544aa22672d0b51cd8&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/09/26/la-fiesta-del-pce-contara-con-diaz-y-debatira-sobre-alianzas-en-la-izquierda-de-nuevo-con-la-ausencia-de-podemos/",
-        "date": "2025-09-26 06:15:34",
-        "sentiment_score": -0.37924715131521225
-    },
-    {
-        "title": "Un hombre de 48 años pensaba que pasaría su última Navidad por un cáncer de médula pero su hijo de 9 años le salvó la vida: “Me alegré de poder ayudarle”",
-        "image_url": "https://www.infobae.com/resizer/v2/553JMFK5BJFZNKOJYMYN45S6IA.jpg?auth=9f561823698176ecb9e58e50141a1e5245b6cd140cbe3992660df25aa68d70f8&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-sociedad",
-            "sucesos",
-            "cáncer",
-            "sucesos españa",
-            "padres",
-            "paternidad",
-            "españa-noticias",
-            "hijos",
-            "cáncer de médula"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/26/un-hombre-de-48-anos-pensaba-que-pasaria-su-ultima-navidad-por-un-cancer-de-medula-pero-su-hijo-de-9-anos-le-salvo-la-vida-me-alegre-de-poder-ayudarle/",
-        "date": "2025-09-26 06:08:25",
-        "sentiment_score": 0.19902442395687103
-    },
-    {
-        "title": "Sánchez ve necesario que países árabes también reconozcan a Israel como Estado \"para una coexistencia pacífica y segura\"",
-        "image_url": "https://www.infobae.com/resizer/v2/QF3UCLRAUJHR3K52OIJ7QQ7PUU.jpg?auth=b3760f32b05fa6a5ae13b8da752e553cf43d571294c8a8bd8b10bcfc76a1c53e&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/09/26/sanchez-ve-necesario-que-paises-arabes-tambien-reconozcan-a-israel-como-estado-para-una-coexistencia-pacifica-y-segura/",
-        "date": "2025-09-26 06:00:34",
-        "sentiment_score": 0.03042370080947876
-    },
-    {
-        "title": "El Gobierno concede más de 4.000 millones de euros en préstamos a Indra y Airbus para avances en el avión de combate europeo y nuevas aeronaves",
-        "image_url": "https://www.infobae.com/resizer/v2/CLBYZOSBZVFEPG52H3BTLRFDM4.jpg?auth=cd3e2cddbaf46ba0139b2d58a49c19583baf4413ea84470923ddce5092a0d6e2&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "m-30",
-            "españa-noticias",
-            "carreteras",
-            "madrid",
-            "españa-nacional",
-            "ayuntamiento de madrid"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/26/el-gobierno-concede-mas-de-4000-millones-de-euros-en-prestamos-a-indra-y-airbus-para-avances-en-el-avion-de-combate-europeo-y-nuevas-aeronaves/",
-        "date": "2025-09-26 05:56:41",
-        "sentiment_score": 0.38813332468271255
-    },
-    {
-        "title": "Primer vistazo a ‘Spaceballs 2′, la secuela de la icónica película del espacio que vuelve para reírse de ‘Star Wars’",
-        "image_url": "https://www.infobae.com/resizer/v2/PZWU7FGB6JE3HKKUKJ5R7EBYTM.jpg?auth=c4c6a1be614864381c4a338ffddb64875dd81e1e2721776f6596bbe820145653&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-cultura",
-            "parodia",
-            "españa-noticias",
-            "cine",
-            "cine españa",
-            "star wars"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/09/26/primer-vistazo-a-spaceballs-2-la-secuela-de-la-iconica-pelicula-del-espacio-que-vuelve-para-reirse-de-star-wars/",
-        "date": "2025-09-26 05:54:39",
-        "sentiment_score": 0.09502142667770386
-    },
-    {
-        "title": "Álex González desvela el motivo por el que necesitó pasar por el quirófano: “Fue una operación por salud”",
-        "image_url": "https://www.infobae.com/resizer/v2/VCWTJNMJPVHAZMGGEHKM7CMD7A.jpg?auth=24902be345226e5f870c55fdc16f7e93ea52e062712999d44393c399742b5b70&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "pablo motos",
-            "el hormiguero",
-            "españa-noticias",
-            "atresmedia",
-            "álex gonzález",
-            "antena 3",
-            "españa-entretenimiento",
-            "televisión españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/26/alex-gonzalez-desvela-el-motivo-por-el-que-necesito-pasar-por-el-quirofano-fue-una-operacion-por-salud/",
-        "date": "2025-09-26 05:49:16",
-        "sentiment_score": 0.08413448557257652
-    },
-    {
-        "title": "Una argentina que vive en España cuenta cuál es la diferencia en el lenguaje que más le ha sorprendido: “¡Ay, dios, me va a dar algo!”",
-        "image_url": "https://www.infobae.com/resizer/v2/C67F6XJOYNBN5ED37SJGOM7TEY.png?auth=4b9348f777c121774265e2f4b9bb8186da3880ddceca4c61826df11eb1b4979f&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-sociedad",
-            "españa-noticias",
-            "tiktok españa",
-            "idioma español",
-            "lengua española",
-            "tiktok",
-            "redes sociales"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/26/una-argentina-que-vive-en-espana-cuenta-cual-es-la-diferencia-en-el-lenguaje-que-mas-le-ha-sorprendido-ay-dios-me-va-a-dar-algo/",
-        "date": "2025-09-26 05:34:10",
-        "sentiment_score": -0.35675276815891266
-    },
-    {
-        "title": "Bosch se prepara para recortar 13.000 empleos en Alemania",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/motor/2025/09/25/1501189832-RPm1kbrBdVTxbEwwxaLdV8N-1200x840@diario_abc.jpg",
-        "tags": [
-            "motor",
-            "economía"
-        ],
-        "link": "https://www.abc.es/motor/economia/bosch-prepara-recortar-13000-empleos-alemania-20250925080000-nt.html",
-        "date": "2025-09-26 06:00:02",
-        "sentiment_score": -0.05405031144618988
-    },
-    {
-        "title": "PP y Vox rechazan instar a Mazón a declarar ante la jueza y discrepan en inmigración e igualdad en Les Corts",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UBS65G7HLFN7LE2M62O2BTWQSE.jpg?auth=f258e9cf2d24dec8b27e3aaa9f0bda9ca2491d255591d989f18e9f3e236717d6&width=1200",
-        "tags": [
-            "carlos mazón",
-            "ppcv",
-            "comunidad valenciana",
-            "vox",
-            "pspv-psoe",
-            "generalitat valenciana",
-            "corts valencianes"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-26/pp-y-vox-rechazan-instar-a-mazon-a-declarar-ante-la-jueza-en-les-corts-y-discrepan-en-inmigracion-e-igualdad.html",
-        "date": "2025-09-26 05:39:38",
-        "sentiment_score": -0.7770371381193399
-    },
-    {
-        "title": "La consejera de Cultura elogia la labor de Miguel Rodríguez-Acosta como impulsor del arte y la cultura",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/09/26/68d633622975b.jpeg",
-        "tags": [
-            "granada - sta. fe"
-        ],
-        "link": "https://www.cope.es/emisoras/andalucia/granada-provincia/granada/noticias/consejera-cultura-elogia-labor-miguel-rodriguez-acosta-impulsor-arte-cultura-20250926_3221115.html",
-        "date": "2025-09-26 06:32:28",
-        "sentiment_score": 0.13317888975143433
-    },
-    {
-        "title": "Nogueras reforzada, el \"Furor\" y camareros sin catalán",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/01/28/politica/919918123_14034393_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "míriam nogueras",
-            "primeras planas"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20250926/nogueras-reforzada-furor-camareros-sin-catalan/1003742692078_0.html",
-        "date": "2025-09-26 06:24:01",
-        "sentiment_score": -0.8842783328145742
-    },
-    {
-        "title": "Lotería Nacional: cae otro 'pellizco' de miles de euros en el corazón de El Ejido",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/09/26/68d5ca1c96cb4.jpeg",
-        "tags": [
-            "el ejido"
-        ],
-        "link": "https://www.lavozdealmeria.com/provincia/el-ejido/337111/loteria-nacional-deja-buen-pellizco-corazon-ejido.html",
-        "date": "2025-09-26 06:18:22",
-        "sentiment_score": 0.18315301463007927
-    },
-    {
-        "title": "Coalición, la esperanza del PSOE",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9bebd11b-41b8-4efb-953e-6e3eb230f795_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "política",
-            "psoe",
-            "apocalipsis",
-            "torres"
-        ],
-        "link": "https://www.laprovincia.es/opinion/2025/09/26/coalicion-esperanza-psoe-121967613.html",
-        "date": "2025-09-26 06:00:37",
-        "sentiment_score": 0.0018763840198516846
-    },
-    {
-        "title": "Escapada de fin de semana por los senderos y bosques donde se esconden las mejores setas",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2022/01/20/574B790F-D393-4015-A013-A3F91C905F93/69.jpg?crop=4640%2C2610%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "castilla y león"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/escapada-fin-semana-senderos-bosques-donde-esconden-mejores-setas_2025092668d510ce3ce0ad1de872d74f.html",
-        "date": "2025-09-26 06:00:14",
-        "sentiment_score": 0.4846438765525818
-    },
-    {
-        "title": "El FC Barcelona cumple con su parte y ahora observa desde la distancia el derbi del Metropolitano",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/09/26/2025092607503243779.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/barca-oviedo/20250926075104357362.html",
-        "date": "2025-09-26 05:51:04",
-        "sentiment_score": 0.598232738673687
-    },
-    {
-        "title": "El histórico campo que se transformó en un parque urbano",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/09/25/68d4e30e138d7.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/336030/historico-campo-transformo-parque.html",
-        "date": "2025-09-26 05:42:45",
-        "sentiment_score": -0.216752290725708
-    },
-    {
-        "title": "José de Pazos diseñó los I Premios de ENCLAVE ODS: \"La obra cuenta una historia de cambio y sostenibilidad\"",
-        "image_url": "https://s2.elespanol.com/2025/09/25/actualidad/1003743940438_258982605_1706x960.jpg",
-        "tags": [
-            "referentes",
-            "premios",
-            "arte",
-            "sostenibilidad"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/referentes/20250926/jose-pazos-diseno-premios-enclave-ods-obra-cuenta-historia-cambio-sostenibilidad/1003743940355_0.html",
-        "date": "2025-09-26 05:34:03",
-        "sentiment_score": 0.10602866485714912
-    },
-    {
-        "title": "Regresan los clásicos al Primavera Sound",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/87d773cf-aa79-4bd3-9a9e5c0df0736447.jpg",
-        "tags": [
-            "pop",
-            "barcelona",
-            "primavera sound",
-            "rock"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z94d326bb-20aa-4790-8412da6f1fc8f977/202509/regresan-los-clasicos-al-primavera-sound",
-        "date": "2025-09-26 06:24:51",
-        "sentiment_score": 0.41864198446273804
-    },
-    {
-        "title": "Llega otro chaparrón a Barcelona: el Meteocat lo confirma y apunta a este día como el más frío y lluvioso de la semana",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/04/11/6617c30a01c09.r_d.2762-2537.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20250926/1002539134/llegan-chaparron-barcelona-meteocat-confirma-apunta-dia-mas-frio-lluvioso-semana-dct.html",
-        "date": "2025-09-26 06:13:06",
-        "sentiment_score": 0.24854496121406555
-    },
-    {
-        "title": "El delantero del Atlético Baleares Florin Andone afronta la recta final de su recuperación",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/09/26/68d62ba773469.jpeg",
-        "tags": [
-            "deportes mallorca"
-        ],
-        "link": "https://www.cope.es/emisoras/illes-balears/baleares/mallorca/deportes-mallorca/noticias/delantero-atletico-baleares-florin-andone-afronta-recta-final-recuperacion-20250926_3221098.html",
-        "date": "2025-09-26 06:09:17",
-        "sentiment_score": -0.01645532250404358
-    },
-    {
-        "title": "Sergio Busquets anuncia que se retira",
-        "image_url": "https://static1.ara.cat/clip/05907702-8209-471b-93a5-5bde081675b9_16-9-aspect-ratio_default_0_x2587y616.jpg",
-        "tags": [
-            "sergio",
-            "busquets",
-            "retira",
-            "anuncia"
-        ],
-        "link": "https://es.ara.cat/deportes/futbol/sergio-busquets-anuncia-retira_1_5509208.html",
-        "date": "2025-09-26 06:08:14",
-        "sentiment_score": 0.6008624583482742
-    },
-    {
-        "title": "Sergio Busquets anuncia su retirada del fútbol a los 37 años",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2024/07/07/image-e41b2d83-8ded-4bf2-85d6-2d6a8162727b-85-2560-1440.jpeg",
-        "tags": [
-            "fútbol",
-            "mls"
-        ],
-        "link": "https://www.eurosport.es/futbol/mls/2025/sergio-busquets-anuncia-su-retirada-del-futbol-a-los-37-anos_sto23225451/story.shtml",
-        "date": "2025-09-26 06:05:45",
-        "sentiment_score": 0.23283427953720093
-    },
-    {
         "title": "Laura Vargas, colombiana viviendo en España, revela un gesto que le parece extraño de los españoles: “Se siente muy raro que nadie te diga absolutamente nada”",
         "image_url": "https://www.infobae.com/resizer/v2/7M5LDFWUQJFKPBKVDHTF2OFPLI.jpg?auth=46a1395545f639da3f21bf92b5e8fe19c7aa75f5c3d12c7716fda2294d2f43ce&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -558,43 +252,6 @@ export default [
         "link": "https://www.abc.es/gurme/cordoba/quince-anos-quince-minutos-envero-celebra-aniversario-20250926121944-nts.html",
         "date": "2025-09-26 11:18:17",
         "sentiment_score": 0.01967903971672058
-    },
-    {
-        "title": "Compromiso con la innovación, la tecnología y el diseño",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/09/26/FotoprincipalDiscesurnueva-RAk5ZvWnQSNhmTijQGhH2LL-1200x840@diario_abc.jpg",
-        "tags": [
-            "decoración",
-            "alcobendas",
-            "martín berasategui"
-        ],
-        "link": "https://www.abc.es/economia/inmobiliario/compromiso-innovacion-tecnologia-diseno-20250926120236-nt.html",
-        "date": "2025-09-26 10:02:36",
-        "sentiment_score": 0.07155373692512512
-    },
-    {
-        "title": "Una española en China vive un tifón en primera persona y explica cómo notó su impacto en casa: «Temblaban las ventanas...»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2025/09/26/espanola-tiktok-kKzE-U701651898202RrG-1200x840@diario_abc.jpg",
-        "tags": [
-            "china",
-            "tiktok",
-            "ad abc",
-            "redes sociales",
-            "clima",
-            "españa"
-        ],
-        "link": "https://www.abc.es/recreo/espanola-china-vive-tifon-primera-persona-explica-20250926111548-nt.html",
-        "date": "2025-09-26 09:15:49",
-        "sentiment_score": -0.10492947697639465
-    },
-    {
-        "title": "El PIB crece un 0,8% en el segundo trimestre y apuntala el optimismo de las estimaciones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/09/26/1483018665-RYzhbY1D9vfeQuajQPfnDwO-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/pib-crece-segundo-trimestre-apuntala-optimismo-estimaciones-20250926090031-nt.html",
-        "date": "2025-09-26 07:00:31",
-        "sentiment_score": -0.0907878577709198
     },
     {
         "title": "La Comunidad de Madrid gastará 121.000 euros para promocionar la F1 con un simulador en la Puerta del Sol",
@@ -7493,5 +7150,547 @@ export default [
         "link": "https://2001online.com/farandula/orgullo-latino-en-el-super-bowl-los-seis-artistas-que-han-brillado-en-el-show-de-medio-tiempo-202592911560",
         "date": "2025-09-29 15:56:00",
         "sentiment_score": 0.35330265760421753
+    },
+    {
+        "title": "Vox cree que las ideas de Feijóo en inmigración son \"una farsa\" en \"la misma línea\": \"El PP no está dando ningún giro\"",
+        "image_url": "https://www.infobae.com/resizer/v2/IWQMNKOL4VBAPDVNC3ZBDL6RJA.jpg?auth=a7482f2059fb9276a393f8d08166589828e2cb8406ee6dbd20dd15da1386dfc1&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/29/vox-cree-que-las-ideas-de-feijoo-en-inmigracion-son-una-farsa-en-la-misma-linea-el-pp-no-esta-dando-ningun-giro/",
+        "date": "2025-09-29 22:00:38",
+        "sentiment_score": -0.8336906777694821
+    },
+    {
+        "title": "El concierto más íntimo de Sebastián Yatra: todo los detalles de Los40 Básico Santander",
+        "image_url": "https://www.infobae.com/resizer/v2/EMLV2LTNINB5PLQLN5VGV5JQHM.jpg?auth=4ee5cf732f01a821a618872b6ef075bfeb93a6af8948e78c57c776009ec7805d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-cultura",
+            "pop",
+            "música españa",
+            "cantantes",
+            "música pop",
+            "españa-noticias",
+            "teatro"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/29/el-concierto-mas-intimo-de-sebastian-yatra-todo-los-detalles-de-los40-basico-santander/",
+        "date": "2025-09-29 21:33:36",
+        "sentiment_score": 0.6059740837663412
+    },
+    {
+        "title": "Comprobar la Primitiva: el número ganador para este 29 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/5IMBCEZCY5FGVAES2VAZQ2IRLE.jpg?auth=94c01f4e3faa8d28057b313471960bd66294ea91fe0a8aa16b187e4c3fe2c30a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "primitiva",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/29/comprobar-la-primitiva-el-numero-ganador-para-este-29-de-septiembre/",
+        "date": "2025-09-29 20:30:36",
+        "sentiment_score": 0.1016991138458252
+    },
+    {
+        "title": "Estos son los ganadores del sorteo de EuroDreams del 29 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/VYYEOIDRGZBUXAD2ZHGUCH6FIQ.jpg?auth=bc93399d032e4c1b30c0fd92b7a7e49ebd4d27a8f443c91cb4d8dc0e37cc9ef9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "eurodreams",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/29/estos-son-los-ganadores-del-sorteo-de-eurodreams-del-29-de-septiembre/",
+        "date": "2025-09-29 20:19:14",
+        "sentiment_score": 0.27361590787768364
+    },
+    {
+        "title": "Sánchez reivindica un periodismo riguroso ante el auge de \"noticias falsas que se viralizan\"",
+        "image_url": "https://www.infobae.com/resizer/v2/SBHEFVOPSRH33ABWUIDJZMFEVI.jpg?auth=239080d55825730318043ee39c55b96156831eabc21f05990b92a3c89270b3c5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/29/sanchez-reivindica-un-periodismo-riguroso-ante-el-auge-de-noticias-falsas-que-se-viralizan/",
+        "date": "2025-09-29 20:16:08",
+        "sentiment_score": -0.6364531889557838
+    },
+    {
+        "title": "Comprobar Bonoloto: los ganadores para este 29 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2D22TSFDBJCEHIECLWRJLWUQIU.jpg?auth=0f8d364022b340f9b936878cdcc9af4602a796ccca3443df81ec42d1022cdd45&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "bonoloto",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/29/comprobar-bonoloto-los-ganadores-para-este-29-de-septiembre/",
+        "date": "2025-09-29 20:15:33",
+        "sentiment_score": 0.27361590787768364
+    },
+    {
+        "title": "Sánchez llama a la \"serenidad\" ante el temporal de lluvias en la Comunidad Valenciana",
+        "image_url": "https://www.infobae.com/resizer/v2/AY2GOZ5MPRGFVHGUBWBTDNXY4Y.jpg?auth=4223fdb700a59ba7019166ea0e067083696aee49ee74421677d3df42e1bcdfd8&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/29/sanchez-llama-a-la-serenidad-ante-el-temporal-de-lluvias-en-la-comunidad-valenciana/",
+        "date": "2025-09-29 20:01:33",
+        "sentiment_score": -0.2891795486211777
+    },
+    {
+        "title": "Fiscalía sostiene que la \"ayuda\" que Álvarez pudo prestar \"ocasionalmente\" a Gómez no constituye malversación",
+        "image_url": "https://www.infobae.com/resizer/v2/J6PHPXG2CNDJFFRTPLQZR7ON7E.jpg?auth=c5fd8f82da0b978c071d44c8b7cecd89427dca434faa20b29b9a23707c4abe0e&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/29/fiscalia-sostiene-que-la-ayuda-que-alvarez-pudo-prestar-ocasionalmente-a-gomez-no-constituye-malversacion/",
+        "date": "2025-09-29 20:01:15",
+        "sentiment_score": -0.6314243748784065
+    },
+    {
+        "title": "El lujoso hotel en el que han pasado el fin de semana los reyes en Pamplona: cuatro estrellas, spa premium y más de 340 euros la noche",
+        "image_url": "https://www.infobae.com/resizer/v2/HW4RB6LG4NE6ZBUX7WY74OMD5M.jpg?auth=b00b3453ea22524b9fe13bffa6b8c6c8935340565831b6e85d415a654acd6c35&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "casas reales",
+            "princesa leonor",
+            "realeza",
+            "felipe vi",
+            "españa-entretenimiento",
+            "reina letizia",
+            "corazón y estilo españa",
+            "españa-noticias",
+            "casa real españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/29/el-lujoso-hotel-en-el-que-han-pasado-el-fin-de-semana-los-reyes-en-pamplona-cuatro-estrellas-spa-premium-y-mas-de-340-euros-la-noche/",
+        "date": "2025-09-29 19:50:22",
+        "sentiment_score": 0.43027890659868717
+    },
+    {
+        "title": "Ni ‘Outlander’ ni ‘Peaky Blinders’, esta miniserie de suspense ambientada en Escocia es considerada como “la mejor de la televisión”",
+        "image_url": "https://www.infobae.com/resizer/v2/MQC2Q3E5WJFNLHHDANX6YXKMKU.jpg?auth=81f524706f43c8a46a832a6ac3ef3c81de3b28ae88eadef855f8ab95390cceb9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "series",
+            "bbc",
+            "escocia",
+            "series españa",
+            "españa-noticias",
+            "españa-cultura"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/09/29/ni-outlander-ni-peaky-blinders-esta-miniserie-de-suspense-ambientada-en-escocia-es-considerada-como-la-mejor-de-la-television/",
+        "date": "2025-09-29 19:50:08",
+        "sentiment_score": 0.09050018340349197
+    },
+    {
+        "title": "Guardiola advierte que adelantará elecciones en Extremadura si no logra aprobar los Presupuestos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JVDTKQOLOFI2ND64P5F2MASE64.jpg?auth=83522f58423bc2f055ae321ef2144fb4ce24f3abe3291d0b1aa29f18cac2fcb7&width=1200",
+        "tags": [
+            "podemos",
+            "psoe",
+            "presupuestos autonómicos",
+            "financiación autonómica",
+            "españa",
+            "vox",
+            "iu-ia",
+            "maría guardiola martín",
+            "extremadura",
+            "pp",
+            "gobierno"
+        ],
+        "link": "https://elpais.com/espana/2025-09-29/guardiola-advierte-que-adelantara-elecciones-en-extremadura-si-no-logra-aprobar-los-presupuestos.html",
+        "date": "2025-09-29 20:47:30",
+        "sentiment_score": -0.6514572650194168
+    },
+    {
+        "title": "Richard Gere arropa a Open Arms en una cena en Barcelona y critica a Netanyahu: “Tiene que irse”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PARTD6KF4RLETFBD6CY5NGS6GM.jpg?auth=d01afa6db862f4d1d5cae7b33bf0da43162e1be57ade5daa424ba9a9a7303e99&width=1200",
+        "tags": [
+            "barcelona",
+            "cataluña",
+            "ong",
+            "conflicto árabe-israelí",
+            "benjamin netanyahu",
+            "richard gere"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-09-29/richard-gere-arropa-a-open-arms-en-una-cena-en-barcelona-y-critica-a-netanyahu-tiene-que-irse.html",
+        "date": "2025-09-29 20:33:01",
+        "sentiment_score": 0.0013338476419448853
+    },
+    {
+        "title": "Pedro Sánchez se compromete ante los empresarios catalanes a agilizar este año el nuevo modelo de financiación",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/AJ7RF54NUVIWHIP73ON6MSGT3Y.jpg?auth=973f1d734c85d07ac41cdc96b163a17501d4c309ddbe26bbee5019174e6dbf9b&width=1200",
+        "tags": [
+            "barcelona",
+            "antoni cañete martos",
+            "financiación",
+            "cataluña",
+            "pedro sánchez",
+            "pimec",
+            "pactos políticos",
+            "generalitat cataluña",
+            "empresarios"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-09-29/pedro-sanchez-se-compromete-ante-los-empresarios-catalanes-a-agilizar-este-ano-el-nuevo-modelo-de-financiacion.html",
+        "date": "2025-09-29 18:34:03",
+        "sentiment_score": 0.38393769413232803
+    },
+    {
+        "title": "La hija de Michael Schumacher celebra el primer aniversario de su boda mallorquina con una foto inédita y el mejor regalo",
+        "image_url": "https://www.hola.com/horizon/landscape/b3aa7bca0bec-gina.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "bodas",
+            "actualidad",
+            "michael schumacher"
+        ],
+        "link": "https://www.hola.com/actualidad/20250929858601/hija-michael-schumacher-foto-inedita-boda-mallorca-aniversario/",
+        "date": "2025-09-29 22:08:35",
+        "sentiment_score": -0.6757062412798405
+    },
+    {
+        "title": "Aitana protagoniza su selfie más natural junto al rey Felipe VI",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250930000830_690.jpg",
+        "tags": [
+            "chance",
+            "realeza"
+        ],
+        "link": "https://www.europapress.es/chance/realeza/noticia-aitana-protagoniza-selfie-mas-natural-junto-rey-felipe-vi-20250930000830.html",
+        "date": "2025-09-29 22:08:30",
+        "sentiment_score": 0.40655937790870667
+    },
+    {
+        "title": "Moncloa mantiene que \"no hay nada\" en el 'caso Begoña Gómez' tras los informes de Hacienda y la UCO",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/09/europapress-6379982-presidente-gobierno-pedro-sanchez-esposa-begona-gomez-vicepresidenta-1-1440x808.jpg",
+        "tags": [
+            "gobierno de españa",
+            "españa",
+            "ministerio de hacienda y función pública",
+            "begoña gómez",
+            "maría jesús montero",
+            "justicia",
+            "félix bolaños",
+            "guardia civil",
+            "pedro sánchez",
+            "partido socialista obrero español (psoe)",
+            "uco",
+            "partido popular (pp)"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/09/30/moncloa-mantiene-que-no-hay-nada-en-el-caso-begona-gomez-tras-los-informes-de-hacienda-y-la-uco/",
+        "date": "2025-09-29 22:06:46",
+        "sentiment_score": 0.16716448962688446
+    },
+    {
+        "title": "La asesora de Begoña Gómez firmó una adenda con el CEAPI un mes después de que Sánchez se reuniera con su presidenta",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/09/europapress-5579845-mujer-pedro-sanchez-begona-gomez-segunda-sesion-debate-investidura-pedro-1-1440x808.jpg",
+        "tags": [
+            "pedro sánchez",
+            "españa",
+            "begoña gómez"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/09/30/asesora-begona-gomez-firmo-adenda-ceapi-mes-despues-sanchez-reuniera-presidenta/",
+        "date": "2025-09-29 22:06:35",
+        "sentiment_score": 0.03086591139435768
+    },
+    {
+        "title": "Cómo ser feliz en 21 días, según el Dr. Javier Quintero: \"Buscar la felicidad solo a través del placer nunca funciona\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/c958760d33f3ffa91c3b3cdd3dbd865a/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/12/17576725511936.jpg",
+        "tags": [
+            "artículos cristina galafate",
+            "estilo de vida",
+            "bienestar",
+            "felicidad"
+        ],
+        "link": "https://www.elmundo.es/yodona/vida-saludable/2025/09/30/68c3deba21efa08f178b4593.html",
+        "date": "2025-09-29 22:00:47",
+        "sentiment_score": 0.16745512187480927
+    },
+    {
+        "title": "Almeida empieza a ver algo de luz entre tanto túnel: prevé abrir el tráfico subterráneo de la A-5 en noviembre de 2026",
+        "image_url": "https://phantom-elmundo.uecdn.es/8195674c40ad44c3e6856531bcf8fb15/crop/86x36/726x676/f/image/jpeg/assets/multimedia/imagenes/2022/03/21/16478803395824.jpg",
+        "tags": [
+            "josé luis martínez-almeida",
+            "artículos carlos guisasola"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/09/30/68dad126fdddff8e588b4597.html",
+        "date": "2025-09-29 22:00:22",
+        "sentiment_score": 0.43219105899333954
+    },
+    {
+        "title": "Fallece Mohamed Amar Ayad, expresidente del Goyu-Ryu",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/09/fallece-mohamed-amar-ayad-expresidente-goy-ryu-750x500.jpeg?v=1759182391",
+        "tags": [
+            "noticias",
+            "federación de asociaciones de madres y padres de alumnos de ceuta (fampa)",
+            "deportes",
+            "futbol",
+            "federación de fútbol"
+        ],
+        "link": "https://elfarodeceuta.es/fallece-mohamed-amar-ayad-expresidente-goy-ryu/",
+        "date": "2025-09-29 21:47:11",
+        "sentiment_score": 0.7628497928380966
+    },
+    {
+        "title": "Virtus Bolonia - Real Madrid, Euroliga: horario y dónde ver por TV y online el partido de baloncesto",
+        "image_url": "https://s2.elespanol.com/2025/09/29/actualidad/1003743946944_259068827_1706x960.jpg",
+        "tags": [
+            "baloncesto",
+            "euroliga de baloncesto",
+            "deportes",
+            "real madrid baloncesto",
+            "horarios deportivos"
+        ],
+        "link": "https://www.elespanol.com/deportes/baloncesto/20250929/virtus-bolonia-real-madrid-euroliga-horario-ver-tv-online-partido-baloncesto/1003743946941_0.html",
+        "date": "2025-09-29 21:40:29",
+        "sentiment_score": 0.11511486396193504
+    },
+    {
+        "title": "Kairat vs Real Madrid: La travesía más lejana del Rey de Europa en la Champions",
+        "image_url": "https://pxcdn.meridiano.net/092025/1759180171681.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/kairat-vs-real-madrid-la-travesia-mas-lejana-del-rey-de-europa-en-la-champions-202592917110",
+        "date": "2025-09-29 21:11:00",
+        "sentiment_score": 0.17184565961360931
+    },
+    {
+        "title": "El Valencia CF lleva a Netflix a los tribunales por el documental de Vinícius",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3f106569-dc88-4560-900f-4751a5ac5068_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia",
+            "tribunales",
+            "netflix",
+            "mestalla",
+            "valencia cf",
+            "vinicius"
+        ],
+        "link": "https://www.informacion.es/deportes/2025/09/29/valencia-cf-netflix-tribunales-documental-122096884.html",
+        "date": "2025-09-29 20:53:21",
+        "sentiment_score": -0.6776563599705696
+    },
+    {
+        "title": "San Bartolomé celebra sus 131 años como villa",
+        "image_url": "https://s3.ppllstatics.com/canarias7/www/multimedia/2025/09/29/Pedro-FRanco-kpgH-U2303223596256SiG-1200x840@Canarias7.jpg",
+        "tags": [
+            "aniversario",
+            "masdanza",
+            "san bartolomé de tirajana"
+        ],
+        "link": "https://www.canarias7.es/canarias/gran-canaria/san-bartolome-celebra-131-anos-villa-20250930231511-nt.html",
+        "date": "2025-09-29 22:15:12",
+        "sentiment_score": 0.11417428031563759
+    },
+    {
+        "title": "Nadie daba un duro por ver este selfi que ha subido Aitana a Instagram... pero es real",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/09/30/aitana-con-el-look-negro-que-deslumbro-en-la-gala-de-barcelona-posa-con-gesto-jugueton-antes-de-protagonizar-el-selfi-viral-con-felipe-vi.jpeg",
+        "tags": [
+            "influencers y celebrities"
+        ],
+        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/nadie-daba-duro-ver-selfi-subido-aitana-instagram-real.html",
+        "date": "2025-09-29 22:11:59",
+        "sentiment_score": -0.22390063107013702
+    },
+    {
+        "title": "Colonial, Merlin y Neinor emiten bonos por 2.100 millones para crecer",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/b1d7846d9da2488e3c13285f6cc75901/crop/3x2/658x439/f/webp/assets/multimedia/imagenes/2025/09/29/17591794852698.jpg",
+        "tags": [
+            "inmobiliario>",
+            "empresas>",
+            "artículos rebeca arroyo>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/09/30/68daf22b468aebcc0f8b457b.html",
+        "date": "2025-09-29 22:10:50",
+        "sentiment_score": 0.3502051457762718
+    },
+    {
+        "title": "Una puerta al Mediterráneo",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/09/29/imagenes-de-la-inauguracion-de-la-terminal-literatim-en-tamarite.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/opinion/2025/09/30/una-puerta-al-mediterraneo-1857817-daa.html",
+        "date": "2025-09-29 22:05:00",
+        "sentiment_score": -0.08115147054195404
+    },
+    {
+        "title": "Los despachos se suman a la fiebre por los centros de datos",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/7a334fb6d639cf8ddbc523daf17fa839/crop/0x0/2048x1365/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/29/17591624644920.jpg",
+        "tags": [
+            "actualidad y tendencias>",
+            "jurídico>",
+            "artículos jesús de las casas>"
+        ],
+        "link": "https://www.expansion.com/juridico/actualidad-tendencias/2025/09/29/68daaf61468aebec598b4574.html",
+        "date": "2025-09-29 22:01:33",
+        "sentiment_score": 0.6351834610104561
+    },
+    {
+        "title": "Broseta se refuerza con Rafael Fernández",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/cca5252a774edaec04caa47be7f7fde4/crop/80x0/2020x1293/resize/1200/f/webp/assets/multimedia/imagenes/2025/09/29/17591636899717.jpg",
+        "tags": [
+            "jurídico>",
+            "fichajes>"
+        ],
+        "link": "https://www.expansion.com/juridico/fichajes/2025/09/29/68dab53ce5fdeaff158b456e.html",
+        "date": "2025-09-29 22:01:29",
+        "sentiment_score": 0.016553018242120743
+    },
+    {
+        "title": "Los dueños del Hotel Arts impagan 10 millones al Estado por las trabas a su 'pelotazo'",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/29/business/1003742693037_15217948_1706x960.jpg",
+        "tags": [
+            "fondos de inversión",
+            "lujo",
+            "barcelona",
+            "ministerio de hacienda y función pública",
+            "cataluña",
+            "business",
+            "turismo",
+            "hoteles"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250929/duenos-hotel-arts-impagan-millones-trabas-pelotazo/1003742693021_0.html",
+        "date": "2025-09-29 22:00:00",
+        "sentiment_score": -0.9078056840226054
+    },
+    {
+        "title": "Contra la enseñanza obligada",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/05/27/vida/1003742660948_14639412_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "pensamiento",
+            "educación",
+            "formación profesional (fp)"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20250929/ensenanza-obligada/1003742692984_12.html",
+        "date": "2025-09-29 22:00:00",
+        "sentiment_score": -0.8139772769063711
+    },
+    {
+        "title": "Borges entra en el capital de su competidor Frutos Secos Medina y le aporta su nombre",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/09/05/examen-protagonistas/883671699_13413522_1706x960.jpg",
+        "tags": [
+            "inversiones",
+            "business",
+            "ampliación de capital",
+            "alimentación"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20250929/borges-capital-competidor-frutos-secos-medina-aporta/1003742692999_0.html",
+        "date": "2025-09-29 22:00:00",
+        "sentiment_score": -0.6794250756502151
+    },
+    {
+        "title": "¡Alquileres caen en Doral! Conozca el motivo del desplome de precios",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759184423902.jpg?ch=675&cw=1200",
+        "tags": [
+            "mercado inmobiliario",
+            "doral",
+            "inmigrantes venezolanos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/alquileres-caen-en-doral-conozca-el-motivo-del-desplome-de-precios-202592918120",
+        "date": "2025-09-29 22:12:00",
+        "sentiment_score": -0.28521067649126053
+    },
+    {
+        "title": "Bancamiga lanza Pago Móvil NFC: transacciones con solo acercar el celular",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759183076666.jpg?ch=675&cw=1200",
+        "tags": [
+            "bancamiga",
+            "tecnología bancaria",
+            "venezuela",
+            "nfc",
+            "pago móvil nfc"
+        ],
+        "link": "https://2001online.com/servicios/bancamiga-lanza-pago-movil-nfc-transacciones-con-solo-acercar-el-celular-20259291800",
+        "date": "2025-09-29 22:00:00",
+        "sentiment_score": 0.17756785079836845
+    },
+    {
+        "title": "Trump arremete con nuevos aranceles para muebles y medicinas: ¿Cuánto pagarás ahora?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "trump",
+            "aranceles",
+            "muebles"
+        ],
+        "link": "https://2001online.com/usa/internacionales/trump-arremete-con-nuevos-aranceles-para-muebles-y-medicinas-cuanto-pagaras-ahora--20259291800",
+        "date": "2025-09-29 22:00:00",
+        "sentiment_score": 0.06095137074589729
+    },
+    {
+        "title": "\"No pedía favores, pedía respeto\": las cláusulas de Taylor Swift a la NFL",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759182881264.jpg?ch=675&cw=1200",
+        "tags": [
+            "taylor swift",
+            "nfl",
+            "badbunny"
+        ],
+        "link": "https://2001online.com/farandula/no-pedia-favores-pedia-respeto-las-clausulas-de-taylor-swift-a-la-nfl--202592917570",
+        "date": "2025-09-29 21:57:00",
+        "sentiment_score": 0.27314048260450363
+    },
+    {
+        "title": "Atienden a más de 90 pacientes en El Hatillo: alcaldía realiza jornada especial para entrega de medicamentos",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759184150368.jpg?ch=675&cw=1200",
+        "tags": [
+            "#díamundialdelcorazón",
+            "hatillo",
+            "#pacientescardiológicos",
+            "corazon",
+            "#alcaldíadeelhatillo"
+        ],
+        "link": "https://2001online.com/comunidad/atienden-a-mas-de-90-pacientes-en-el-hatillo-alcaldia-realiza-jornada-especial-para-entrega-de-medicamentos--202592917570",
+        "date": "2025-09-29 21:57:00",
+        "sentiment_score": 0.13984762877225876
+    },
+    {
+        "title": "Precio del dólar y euro BCV para el 30 de septiembre: así se cotizan las divisas",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759180921028.jpg?ch=675&cw=1200",
+        "tags": [
+            "bcv dolar",
+            "dinero euro bcv"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-30-de-septiembre-asi-se-cotizan-las-divisas-202592917250",
+        "date": "2025-09-29 21:25:00",
+        "sentiment_score": -0.004299953579902649
+    },
+    {
+        "title": "Test para conductores que deseen tramitar la licencia comercial en California",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759155899161.jpg?ch=675&cw=1200",
+        "tags": [
+            "licencia de conducir",
+            "test",
+            "california"
+        ],
+        "link": "https://2001online.com/usa/servicios/test-para-conductores-que-deseen-tramitar-la-licencia-comercial-en-california-202592917200",
+        "date": "2025-09-29 21:20:00",
+        "sentiment_score": -0.0783931165933609
+    },
+    {
+        "title": "¡Alerta en Miami! Conductores pierden la licencia por estas razones",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759178629247.jpg?ch=675&cw=1200",
+        "tags": [
+            "licencia de conducir",
+            "miami",
+            "conductores"
+        ],
+        "link": "https://2001online.com/usa/servicios/alerta-en-miami-conductores-pierden-la-licencia-por-estas-razones-202592916410",
+        "date": "2025-09-29 20:41:00",
+        "sentiment_score": -0.8649429446086287
+    },
+    {
+        "title": "\"Netanyahu lo aceptó\", según Trump: ¿Qué propone el plan de EEUU para terminar con la guerra en Gaza?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "donald trump"
+        ],
+        "link": "https://2001online.com/usa/internacionales/netanyahu-lo-acepto-segun-trump-que-propone-el-plan-de-eeuu-para-terminar-con-la-guerra-en-gaza--202592916360",
+        "date": "2025-09-29 20:36:00",
+        "sentiment_score": -0.13252538442611694
+    },
+    {
+        "title": "KitchenAid® transforma el ritual del café con dos nuevas Cafeteras Espresso",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759178034894.jpg?ch=675&cw=1200",
+        "tags": [
+            "kitchenaid",
+            "cafe"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/kitchenaid-transforma-el-ritual-del-cafe-con-dos-nuevas-cafeteras-espresso-202592916350",
+        "date": "2025-09-29 20:35:00",
+        "sentiment_score": 0.6697118207812309
     }
 ];
