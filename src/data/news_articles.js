@@ -176,84 +176,6 @@ export default [
         "sentiment_score": 0.08949127793312073
     },
     {
-        "title": "Los vuelos turísticos en helicóptero llegan a Sevilla: estos son los horarios y los precios para descubrir la ciudad desde las alturas",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/09/25/helicoptero-sobrevolando-sevilla-RH5YbA7rCR8AlSWJU87mgNO-1200x840@diario_abc.png",
-        "tags": [
-            "sevilla",
-            "ciudad"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/vuelos-turisticos-helicoptero-llegan-sevilla-horarios-precios-20250925165151-nts.html",
-        "date": "2025-09-26 14:08:03",
-        "sentiment_score": -0.005892276763916016
-    },
-    {
-        "title": "Starmer impulsa un polémico sistema de identificación digital obligatoria en el Reino Unido para frenar la inmigración ilegal",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/09/26/starmer-kCLE-U701654279482grB-1200x840@diario_abc.jpg",
-        "tags": [
-            "inmigracion",
-            "reino",
-            "polemico",
-            "impulsa",
-            "digital",
-            "unido",
-            "ilegal",
-            "sistema",
-            "frenar",
-            "identificacion",
-            "starmer",
-            "obligatoria"
-        ],
-        "link": "https://www.abc.es/internacional/starmer-impulsa-polemico-sistema-identificacion-digital-obligatoria-20250926152639-nt.html",
-        "date": "2025-09-26 13:26:39",
-        "sentiment_score": -0.11098620295524597
-    },
-    {
-        "title": "Aumentan un 8,7% los casos judiciales en Castilla-La Mancha, donde faltan al menos 45 jueces",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/26/memoria-judicial-Rdf5PxvgHOLA2r2tIqK51RN-1200x840@diario_abc.jpg",
-        "tags": [
-            "jueces",
-            "casos",
-            "mancha",
-            "faltan",
-            "aumentan",
-            "judiciales",
-            "castillala"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/aumentan-casos-judiciales-castillala-mancha-faltan-jueces-20250926142924-nt.html",
-        "date": "2025-09-26 12:29:25",
-        "sentiment_score": -0.08571431040763855
-    },
-    {
-        "title": "La Junta se vuelca con la industria del videojuego: prepara 600.000 euros en ayudas al sector",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/26/WhatsAppImage2025-09-26at12.27.15-RISBa9PnaJKeW2W5Iah9DTI-1200x840@diario_abc.jpeg",
-        "tags": [
-            "antonio sanz",
-            "andalucía",
-            "juan manuel moreno bonilla",
-            "videojuegos",
-            "ayudas",
-            "málaga",
-            "jaén",
-            "sevilla",
-            "partido socialista obrero español (psoe)",
-            "junta de andalucía"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/malaga/junta-vuelca-industria-videojuego-prepara-600000e-ayudas-20250926130553-nts.html",
-        "date": "2025-09-26 11:42:54",
-        "sentiment_score": 0.04826876521110535
-    },
-    {
-        "title": "Quince años en quince minutos: El Envero celebra su aniversario con un documental que recorre su historia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/gurme/2025/09/26/ELENVERO-15A%C3%91OSEN15MINUTOS-R2BtPoDkdiW1yTNSH3Yr8iP-1200x840@diario_abc.jpg",
-        "tags": [
-            "cordoba",
-            "gurmé"
-        ],
-        "link": "https://www.abc.es/gurme/cordoba/quince-anos-quince-minutos-envero-celebra-aniversario-20250926121944-nts.html",
-        "date": "2025-09-26 11:18:17",
-        "sentiment_score": 0.01967903971672058
-    },
-    {
         "title": "La Comunidad de Madrid gastará 121.000 euros para promocionar la F1 con un simulador en la Puerta del Sol",
         "image_url": "https://imagenes.elpais.com/resizer/v2/2U73GFJ4KVA7VKBYGLRRVOWCFQ.jpg?auth=cac9df93a3e6cb57d4347a3e319bdea9a9a162aff6af1f6fd0ae68e330ac074e&width=1200",
         "tags": [
@@ -7692,5 +7614,512 @@ export default [
         "link": "https://2001online.com/agenda-empresarial/kitchenaid-transforma-el-ritual-del-cafe-con-dos-nuevas-cafeteras-espresso-202592916350",
         "date": "2025-09-29 20:35:00",
         "sentiment_score": 0.6697118207812309
+    },
+    {
+        "title": "Predicción del estado del tiempo en Málaga para este 30 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/A6PD5C4CIFF27E2URW3I46WVJE.png?auth=3610483284f1994b08b8384f5c8535e42f6ac5e59e2bbc59906446cea6720aa3&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa sociedad",
+            "españa noticias",
+            "tiempo en españa",
+            "málaga",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/30/prediccion-del-estado-del-tiempo-en-malaga-para-este-30-de-septiembre/",
+        "date": "2025-09-30 02:16:02",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Un soltero de 70 años sorprende a Carlos Sobera en ‘First Dates’: “¿Siete? ¿Perdona?”",
+        "image_url": "https://www.infobae.com/resizer/v2/LCBKEKLJVFH2RKD6KQBWWAM4BY.png?auth=83fc44ac4bed5f672c13c036072c32074a01acc02831763f3e04f5e77787506b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "mediaset",
+            "mediaset españa",
+            "españa-noticias",
+            "first dates",
+            "programas de televisión",
+            "televisión españa",
+            "españa-entretenimiento",
+            "carlos sobera",
+            "cuatro"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/30/un-soltero-de-70-anos-sorprende-a-carlos-sobera-en-first-dates-siete-perdona/",
+        "date": "2025-09-30 02:05:44",
+        "sentiment_score": -0.2975379079580307
+    },
+    {
+        "title": "Sánchez “da la bienvenida” al plan de Trump para la franja de Gaza",
+        "image_url": "https://www.infobae.com/resizer/v2/GNBMOQ5AC5BTDKSQQPCXMV63IM.jpg?auth=9abb294d2d801716038d232a77395656393c133401e4e972c7514f9a1aec25c5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "pedro sánchez",
+            "donald trump",
+            "españa-internacional",
+            "hamás",
+            "internacional",
+            "españa-nacional",
+            "españa-noticias",
+            "autoridad palestina",
+            "benjamin netanyahu",
+            "solución de dos estados"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/30/sanchez-da-la-bienvenida-al-plan-de-trump-para-la-franja-de-gaza/",
+        "date": "2025-09-30 01:37:21",
+        "sentiment_score": 0.22338110953569412
+    },
+    {
+        "title": "Clima en Madrid: temperatura y probabilidad de lluvia para este 30 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/5WNGZ3LBVBDMZOTA4JODFZB6HI.png?auth=bb2d66c14385e6d7eee2237eee93d2ced06e7974548fa46b963e43579b31c11c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "madrid",
+            "tiempo en españa",
+            "españa sociedad",
+            "noticias",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/30/clima-en-madrid-temperatura-y-probabilidad-de-lluvia-para-este-30-de-septiembre/",
+        "date": "2025-09-30 01:30:41",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Masi se despide de ‘MasterChef Celebrity 10’ con el cariño de sus compañeros después de una eliminación directa sorpresa: “Se va la alegría”",
+        "image_url": "https://www.infobae.com/resizer/v2/IRVUNIGERZBKBDFL5WHW4FW2KU.png?auth=a41b210de7b3917a4bf0eae342fee31e79229d12b7e540f55d4dd1f2baa655e4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cocina",
+            "programas de televisión",
+            "masterchef celebrity",
+            "españa-entretenimiento",
+            "televisión españa",
+            "gastronomia",
+            "españa-noticias",
+            "masterchef",
+            "masi rodriguez"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/30/masi-se-despide-de-masterchef-celebrity-10-con-el-carino-de-sus-companeros-despues-de-una-eliminacion-directa-sorpresa-se-va-la-alegria/",
+        "date": "2025-09-30 01:17:07",
+        "sentiment_score": 0.31558629125356674
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 30 de septiembre en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "tiempo en españa",
+            "españa sociedad",
+            "noticias",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/30/clima-las-temperaturas-que-predominaran-este-30-de-septiembre-en-barcelona/",
+        "date": "2025-09-30 01:16:18",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Ramo, fabricante de Chocoramo, le contestó a Frisby España por la malteada que lanzó con sabor al reconocido ponqué",
+        "image_url": "https://www.infobae.com/resizer/v2/M2TBIB4PXVEU5HQSV5C64YIFRU.jpg?auth=8ec644fff17aa1c7836f2ba923209b9a48b8ef78e58f566ce1d754fc2169d8ee&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "colombia-noticias",
+            "comunicado",
+            "plagio",
+            "malteada de chocoramo",
+            "frisby españa",
+            "ramo"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/09/29/ramo-fabricante-de-chocoramo-le-contesto-a-frisby-espana-por-la-malteada-que-lanzo-con-sabor-al-reconocido-ponque/",
+        "date": "2025-09-29 23:49:47",
+        "sentiment_score": -0.22111403942108154
+    },
+    {
+        "title": "Sánchez \"da la bienvenida\" al plan de paz para Gaza anunciado por Trump: \"Hay que poner punto final a tanto sufrimiento\"",
+        "image_url": "https://www.infobae.com/resizer/v2/GNBMOQ5AC5BTDKSQQPCXMV63IM.jpg?auth=9abb294d2d801716038d232a77395656393c133401e4e972c7514f9a1aec25c5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/09/29/sanchez-da-la-bienvenida-al-plan-de-paz-para-gaza-anunciado-por-trump-hay-que-poner-punto-final-a-tanto-sufrimiento/",
+        "date": "2025-09-29 23:15:56",
+        "sentiment_score": -0.06488129496574402
+    },
+    {
+        "title": "Números ganadores del Cupón Diario de la Once de este 29 de septiembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cupón diario",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/29/numeros-ganadores-del-cupon-diario-de-la-once-de-este-29-de-septiembre/",
+        "date": "2025-09-29 23:15:29",
+        "sentiment_score": 0.18396012857556343
+    },
+    {
+        "title": "La jefa en Tragsatec de Jessica Rodríguez, expareja de Ábalos, le llamó varias veces la atención por no “tener fichajes grabados”: “¿Algún problema?\"",
+        "image_url": "https://www.infobae.com/resizer/v2/S4QTYEZPNNEEJBMD6HOYOASCBE.jpg?auth=9afc856e125125a3b9a2ed5a10324a83fdb66a5842ec0ba7c08f6f8046d170f2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "tragsatec",
+            "jessica rodríguez",
+            "corrupción en españa",
+            "corrupcion",
+            "caso koldo",
+            "españa-nacional",
+            "españa-noticias",
+            "josé luis ábalos",
+            "ineco",
+            "caso koldo/abalos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/09/29/la-jefa-en-tragsatec-de-jessica-rodriguez-expareja-de-abalos-le-llamo-la-atencion-por-no-fichar-nunca-si-no-hay-fiches-guardados-no-hay-cheques/",
+        "date": "2025-09-29 22:56:39",
+        "sentiment_score": -0.7411300931125879
+    },
+    {
+        "title": "Espinosa de los Monteros: «Hay que evitar los insultos y las exageraciones; la gente se cansa»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3493797.jpg",
+        "tags": [
+            "palma de mallorca",
+            "palma",
+            "vox",
+            "local",
+            "última hora",
+            "iván espinosa de los monteros",
+            "vox baleares",
+            "josé ramón bauzá",
+            "ultimas noticias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/09/30/2480623/espinosa-monteros-hay-evitar-insultos-exageraciones-gente-cansa.html",
+        "date": "2025-09-30 02:00:01",
+        "sentiment_score": -0.1715707778930664
+    },
+    {
+        "title": "Kairat Almaty, el rival que pondrá a prueba al Real Madrid tras una odisea de 6.400 km",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/09/29/kairat-almaty-real-madrid-liga-campeones-orix/",
+        "date": "2025-09-30 01:03:43",
+        "sentiment_score": -0.5543388649821281
+    },
+    {
+        "title": "La sorprendente respuesta de Romario ante la pregunta más incómoda: “¿Vestirías la camiseta de Argentina o la del Real Madrid?\"",
+        "image_url": "https://www.infobae.com/resizer/v2/FKNIXBNG2BGLJIAXOTFMKSNARI.jpg?auth=86e7b53be9b280963c18c6343174445da1ae3d5e386837374f32309b19175e10&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "romario",
+            "deportes-internacional",
+            "selección de brasil",
+            "barcelona",
+            "deportes-argentina",
+            "real madrid",
+            "selección argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/09/30/la-sorprendente-respuesta-de-romario-ante-la-pregunta-mas-incomoda-vestirias-la-camiseta-de-argentina-o-la-del-real-madrid/",
+        "date": "2025-09-30 00:47:56",
+        "sentiment_score": -0.20347066223621368
+    },
+    {
+        "title": "Cristina Álvarez interactuó con hasta 16 empresas y entidades para que pagaran o ayudaran a la cátedra de Begoña Gómez",
+        "image_url": "https://s2.elespanol.com/2025/08/18/actualidad/1003743890951_259068898_1706x960.jpg",
+        "tags": [
+            "google",
+            "ucm (universidad complutense de madrid)",
+            "tribunales",
+            "psoe (partido socialista obrero español)",
+            "corrupción",
+            "pedro sánchez",
+            "palacio de la moncloa",
+            "indra"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20250930/cristina-alvarez-interactuo-empresas-entidades-pagaran-ayudaran-catedra-begona-gomez/1003743946711_0.html",
+        "date": "2025-09-30 00:31:57",
+        "sentiment_score": -0.6676984429359436
+    },
+    {
+        "title": "La UCO y el perito de la Fiscalía europea apuntalan los indicios de corrupción en las actividades de Begoña Gómez en Moncloa",
+        "image_url": "https://s2.elespanol.com/2025/09/29/actualidad/1003743946922_259068473_1706x960.jpg",
+        "tags": [
+            "periodismo de investigación",
+            "guardia civil",
+            "gobierno de españa",
+            "psoe (partido socialista obrero español)",
+            "uco",
+            "corrupción",
+            "pedro sánchez",
+            "política",
+            "begoña gómez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20250930/uco-perito-fiscalia-europea-apuntalan-indicios-corrupcion-actividades-begona-gomez-moncloa/1003743946691_0.html",
+        "date": "2025-09-30 00:31:56",
+        "sentiment_score": -0.7634564526379108
+    },
+    {
+        "title": "El viaje del Real Madrid hacia el fútbol soviético: Kairat Almaty, símbolo kazajo en la URSS y el principio de la independencia",
+        "image_url": "https://s2.elespanol.com/2025/09/29/actualidad/1003743946289_259060568_1706x960.jpg",
+        "tags": [
+            "champions league",
+            "real madrid cf",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20250930/viaje-real-madrid-futbol-sovietico-kairat-almaty-simbolo-kazajo-urss-principio-independencia/1003743946216_0.html",
+        "date": "2025-09-30 00:31:52",
+        "sentiment_score": -0.12657789885997772
+    },
+    {
+        "title": "De liderar KFC a gestionar la marca de dónuts Krispy Kreme en España: así es la nueva aventura de Manuel Zamudio",
+        "image_url": "https://s2.elespanol.com/2025/09/29/actualidad/1003743946077_259058209_1706x960.jpg",
+        "tags": [
+            "distribución"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20250929/liderar-kfc-gestionar-marca-donuts-krispy-kreme-espana-nueva-aventura-manuel-zamudio/1003743946069_0.html",
+        "date": "2025-09-29 23:57:14",
+        "sentiment_score": -0.19993124157190323
+    },
+    {
+        "title": "29 SEP 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/29-sep-2025-partidazo-cope-20250930_3222942.html",
+        "date": "2025-09-29 23:48:57",
+        "sentiment_score": -0.07300630211830139
+    },
+    {
+        "title": "Ocurrencias por encima de la ley",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2025/09/29/68dabd933957b.jpeg",
+        "tags": [
+            "en primera línea"
+        ],
+        "link": "https://www.eldebate.com/opinion/en-primera-linea/20250930/ocurrencias-encima-ley_339243.html",
+        "date": "2025-09-29 23:30:00",
+        "sentiment_score": -0.8383946102112532
+    },
+    {
+        "title": "Sin título, porque sobran los titulares",
+        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/96dbd314/entrada%2017.3.jpg?v=63926307201",
+        "tags": [
+            "filosofía",
+            "radical magazine"
+        ],
+        "link": "https://www.elsaltodiario.com/el-leon-dormido/titulo-sobran-titulares",
+        "date": "2025-09-29 23:02:00",
+        "sentiment_score": -0.9355089021846652
+    },
+    {
+        "title": "Éxito de autores de Dolmen Editoral en la San Diego Comic-Con de Málaga",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3493405.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/09/30/2480435/exito-autores-dolmen-editoral-san-diego-comic-malaga.html",
+        "date": "2025-09-30 02:00:01",
+        "sentiment_score": -0.5004299283027649
+    },
+    {
+        "title": "Joaquim Vilarnau: «Más que de derechas o izquierdas, ‘L’estaca’ es sobre los que están jodidos y el poder»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3493415.jpg",
+        "tags": [
+            "cultura",
+            "enderrock",
+            "música en catalán",
+            "lluís llach"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/09/30/2480397/mas-derechas-izquierdas-estaca-sobre-que-estan-jodidos-poder.html",
+        "date": "2025-09-30 02:00:01",
+        "sentiment_score": -0.0030874907970428467
+    },
+    {
+        "title": "Cómo usar el bicarbonato de sodio para quitar el dolor de garganta",
+        "image_url": "https://www.infobae.com/resizer/v2/JZHZ26ENJNAZNMC6ZULXGAFQGI.jpg?auth=0b8bfc048bcd9db4a86f903713c407ab8402c09c53f65489543f85fdddb40e0b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bicarbonato de sodio",
+            "bienestar",
+            "infecciones",
+            "salud",
+            "dolor de garganta",
+            "enfermedades",
+            "mexico-noticias"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/09/30/como-usar-el-bicarbonato-de-sodio-para-quitar-el-dolor-de-garganta/",
+        "date": "2025-09-30 01:52:29",
+        "sentiment_score": 0.09913736581802368
+    },
+    {
+        "title": "Leyenda del Barcelona entregó detalles del fallido fichaje de Luis Díaz por el cuadro catalán: “Fue difícil”",
+        "image_url": "https://www.infobae.com/resizer/v2/H2WP5TAE2BDDJCYYM636VTP2VY.png?auth=568c4af6a1a79b26aedd2da16be6d76567e11a9a8a45c6051387a4a52bd69f5c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "liverpool",
+            "barcelona",
+            "bayern munich",
+            "luis díaz",
+            "mercado de fichajes",
+            "marcus rashford",
+            "ansu fati",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/09/30/leyenda-del-barcelona-entrego-detalles-del-fallido-fichaje-de-luis-diaz-por-el-cuadro-catalan-fue-dificil/",
+        "date": "2025-09-30 01:46:33",
+        "sentiment_score": 0.75967101380229
+    },
+    {
+        "title": "Los purines: el residuo con potencial para descarbonizar el sector ganadero",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8c460251-f8a7-4595-bfe2-20f4c44f2b8f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.laprovincia.es/ideas/LaBuenaHuella/los-purines.html",
+        "date": "2025-09-30 00:59:43",
+        "sentiment_score": -0.10197688639163971
+    },
+    {
+        "title": "El Barça y el auditor formulan cuentas sin volver al Camp Nou pero con los PSL, a priori, contabilizados",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/26/culemania/palco/1003742692448_15210792_1706x960.jpg",
+        "tags": [
+            "palco",
+            "elecciones barça",
+            "barça",
+            "joan laporta",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250930/barca-auditor-formulan-camp-nou-psl-contabilizados/1003742692445_0.html",
+        "date": "2025-09-30 00:13:37",
+        "sentiment_score": -0.2988424599170685
+    },
+    {
+        "title": "El Camp Nou pasa del Bernabéu y se inspira en el Metropolitano: Limak se la juega con la instalación de la nueva cubierta",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/12/12/culemania/palco/908169239_13854362_1706x960.png",
+        "tags": [
+            "fc barcelona",
+            "camp nou",
+            "palco",
+            "limak construction"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20250930/camp-nou-bernabeu-metropolitano-limak-instalacion-cubierta/1003742693022_0.html",
+        "date": "2025-09-30 00:02:18",
+        "sentiment_score": -0.08513188362121582
+    },
+    {
+        "title": "Sadiq y Odriozola, de estar fuera a ser dos más",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2025/09/29/sadiq-odriozola--758x531.png",
+        "tags": [
+            "entertainment",
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/sadiq-odriozola-20250930062951-nt.html",
+        "date": "2025-09-30 00:00:00",
+        "sentiment_score": -0.061273619532585144
+    },
+    {
+        "title": "¿Cuándo recibiré mi cheque CalWORKs de octubre? El calendario oficial de pagos ya está disponible",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759198947880.jpg?ch=675&cw=1200",
+        "tags": [
+            "beneficiarios calworks",
+            "pagos de octubre",
+            "calworks"
+        ],
+        "link": "https://2001online.com/usa/servicios/cuando-recibire-mi-cheque-calworks-de-octubre-el-calendario-oficial-de-pagos-ya-esta-disponible-202592922170",
+        "date": "2025-09-30 02:17:00",
+        "sentiment_score": 0.00670107826590538
+    },
+    {
+        "title": "California está a punto de eliminar esta licencia de conducir para migrantes: ¿Qué debes hacer?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "migrantes",
+            "licencia",
+            "california"
+        ],
+        "link": "https://2001online.com/usa/servicios/california-esta-a-punto-de-eliminar-esta-licencia-de-conducir-para-migrantes-que-debes-hacer--20259292200",
+        "date": "2025-09-30 02:00:00",
+        "sentiment_score": -0.6081710271537304
+    },
+    {
+        "title": "Sonrisa siempre radiante con tres ingredientes muy populares: nunca faltan en tu despensa",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758903400995.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/sonrisa-siempre-radiante-con-tres-ingredientes-muy-populares-nunca-faltan-en-tu-despensa-20259292200",
+        "date": "2025-09-30 02:00:00",
+        "sentiment_score": 0.7264797696843743
+    },
+    {
+        "title": "MLB vs. Japón: ¿cómo nacieron los históricos partidos interligas entre ambas potencias?",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759204494819.jpg?ch=675&cw=1200",
+        "tags": [
+            "japón"
+        ],
+        "link": "https://2001online.com/deportes/mlb-vs-japon-como-nacieron-los-historicos-partidos-interligas-entre-ambas-potencias--202592921540",
+        "date": "2025-09-30 01:54:00",
+        "sentiment_score": 0.5792540311813354
+    },
+    {
+        "title": "Perfectos mentirosos: exitosa novela venezolana llega a streaming con el director de “La Casa de Papel”",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759197637639/IMG_0649.jpeg?ch=675&cw=1200",
+        "tags": [
+            "perfectos mentirosos",
+            "la casa de papel",
+            "alex mirez"
+        ],
+        "link": "https://2001online.com/farandula/perfectos-mentirosos-exitosa-novela-venezolana-llega-a-streaming-con-el-director-de-la-casa-de-papel--202592921510",
+        "date": "2025-09-30 01:51:00",
+        "sentiment_score": 0.251520074903965
+    },
+    {
+        "title": "¿El fin de los extravíos? Baruta lanza la \"cédula QR\" gratis para tu mascota: tres pasos para registrarla",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759191069393.jpg?ch=675&cw=1200",
+        "tags": [
+            "perro",
+            "diario 2001",
+            "gato",
+            "miranda",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/servicios/el-fin-de-los-extravios-baruta-lanza-la-cedula-qr-gratis-para-tu-mascota-tres-pasos-para-registrarla-202592921460",
+        "date": "2025-09-30 01:46:00",
+        "sentiment_score": 0.1366562694311142
+    },
+    {
+        "title": "Doble depósito de SSI en EEUU: conoce las fechas claves del calendario de octubre",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759195831806.jpg?ch=675&cw=1200",
+        "tags": [
+            "calendario octubre",
+            "ssi",
+            "beneficiarios del seguro social eeuu"
+        ],
+        "link": "https://2001online.com/usa/servicios/doble-deposito-de-ssi-en-eeuu-conoce-las-fechas-claves-del-calendario-de-octubre-202592921290",
+        "date": "2025-09-30 01:29:00",
+        "sentiment_score": -0.08842843025922775
+    },
+    {
+        "title": "Carta astral de Miley Cyrus: estará apartada un tiempo de los escenarios",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1758917605127.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/carta-astral-de-miley-cyrus-estara-apartada-un-tiempo-de-los-escenarios-20259292100",
+        "date": "2025-09-30 01:00:00",
+        "sentiment_score": -0.3689388409256935
+    },
+    {
+        "title": "Adiós visas baratas en EEUU: desde octubre estos beneficiarios deberán pagar $250 por tramitarla",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "visas",
+            "recargo",
+            "solicitud"
+        ],
+        "link": "https://2001online.com/usa/servicios/adios-visas-baratas-en-eeuu-desde-octubre-estos-beneficiarios-deberan-pagar-250-por-tramitarla-20259292100",
+        "date": "2025-09-30 01:00:00",
+        "sentiment_score": 0.3048795461654663
+    },
+    {
+        "title": "Zen Garden, la banda tributo a U2 llega a Caracas en esta fecha",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759194062691.jpg?ch=675&cw=1200",
+        "tags": [
+            "u2",
+            "concha acústica",
+            "zen garden",
+            "musica rock"
+        ],
+        "link": "https://2001online.com/farandula/zen-garden-la-banda-tributo-a-u2-llega-a-caracas-en-esta-fecha-202592920550",
+        "date": "2025-09-30 00:55:00",
+        "sentiment_score": 0.6410151980817318
     }
 ];
