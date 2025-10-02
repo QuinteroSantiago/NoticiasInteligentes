@@ -196,17 +196,6 @@ export default [
         "sentiment_score": 0.14778518676757812
     },
     {
-        "title": "Rocío Díaz anuncia que las pantallas del primer tramo de la línea 3 del metro de Sevilla superan ya el 60%",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/09/28/obras-metro-sevilla-RlgAnJzKiOp96Bjj4U8OteP-1200x840@diario_abc.jpg",
-        "tags": [
-            "ciudad",
-            "sevilla"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/rocio-diaz-anuncia-pantallas-primer-tramo-linea-20250928123326-nts.html",
-        "date": "2025-09-28 10:33:27",
-        "sentiment_score": -0.04121653735637665
-    },
-    {
         "title": "El incendio del Pico del Lobo se adentra en Castilla y León y alcanza las 3.000 hectáreas",
         "image_url": "https://imagenes.elpais.com/resizer/v2/2MRAVUYUSFHYFO7HWLB5NBB25A.jpg?auth=2469825de1c9dc06ffec17e2be520cb302019494094c0f5ddb0ebcd9778c173c&width=1200",
         "tags": [
@@ -238,43 +227,6 @@ export default [
         "link": "https://elpais.com/espana/2025-09-28/dos-detenidos-por-la-muerte-de-una-mujer-en-badajoz.html",
         "date": "2025-09-28 15:28:45",
         "sentiment_score": -0.7401972711086273
-    },
-    {
-        "title": "Yolanda Díaz carga contra el plan de Feijóo: “Un inmigrante aporta más que los 137 diputados del PP”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/INIA4LKMBVNTXCWQR2NIECORIQ.jpg?auth=6076bd88ed80c0833a11ecacf7a0b5a56e0d678bdc68597f1695e7ecffd476e9&width=1200",
-        "tags": [
-            "alberto núñez feijóo",
-            "inmigración",
-            "ultraderecha",
-            "ministerio de trabajo y economía social",
-            "sumar",
-            "pp",
-            "jornada laboral",
-            "yolanda díaz",
-            "españa",
-            "pce"
-        ],
-        "link": "https://elpais.com/espana/2025-09-28/yolanda-diaz-carga-contra-el-plan-de-feijoo-un-inmigrante-aporta-mas-que-los-137-diputados-del-pp.html",
-        "date": "2025-09-28 13:11:29",
-        "sentiment_score": 0.052488043904304504
-    },
-    {
-        "title": "Feijóo propone visados para inmigrantes condicionados a trabajos donde “fata mano de obra” y con una “cultura” próxima",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/N7UJIKGPOVB63LUTCH6SSLC4ZE.jpeg?auth=244f3034c5162ea343b713b75ea7ad1051c0cd6abf227d7710a188c4438d6673&width=1200",
-        "tags": [
-            "españa",
-            "isabel díaz ayuso",
-            "fernando lópez miras",
-            "pp",
-            "vox",
-            "alberto núñez feijóo",
-            "inmigración",
-            "juan manuel moreno",
-            "murcia"
-        ],
-        "link": "https://elpais.com/espana/2025-09-28/feijoo-propone-visados-para-inmigrantes-condicionados-a-trabajos-donde-fata-mano-de-obra-y-con-una-cultura-proxima.html",
-        "date": "2025-09-28 10:58:24",
-        "sentiment_score": -0.8938067061826587
     },
     {
         "title": "Partido entre el Tenerife Femenino y el Real Madrid, en imágenes",
@@ -8526,5 +8478,416 @@ export default [
         "link": "https://2001online.com/sucesos/la-estafa-de-los-dolares-por-whatsapp-asi-operaba-una-mujer-en-cumana-antes-de-ser-detenida-20251011720",
         "date": "2025-10-01 21:02:00",
         "sentiment_score": -0.022244170308113098
+    },
+    {
+        "title": "Las últimas previsiones para Málaga: temperatura, lluvias y viento",
+        "image_url": "https://www.infobae.com/resizer/v2/HGCQQBREJFG3HOXFG7QBSMNCJQ.png?auth=61e42083d629851aa0c8752556cbd10c287b99213f35efecf1dbb0797359aec9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "málaga",
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/02/las-ultimas-previsiones-para-malaga-temperatura-lluvias-y-viento/",
+        "date": "2025-10-02 02:15:41",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 2 de octubre en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/SHCTZRUOZVCJ3C2ZRHB3GXGZRA.png?auth=ccfd03e6d0570fe037ed9c51f84a1eba2b9ea17709785368392c6852d3f305ce&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "madrid",
+            "noticias",
+            "tiempo en españa",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/02/clima-las-temperaturas-que-predominaran-este-2-de-octubre-en-madrid/",
+        "date": "2025-10-02 01:32:30",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Esto dijo Gilberto Mora del doblete que le dio el empate a México ante España en el Mundial Sub-20",
+        "image_url": "https://www.infobae.com/resizer/v2/OKEV5IK3NRENNCL43SM32ZQU7M.jpg?auth=be2554da04ac07f45cec4175dedd5c1f6821d2c8a74760d47ffbd017bc3e85bc&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa",
+            "selección mexicana",
+            "gilberto mora",
+            "mundial sub-20",
+            "copa mundial sub-20",
+            "mexico-deportes"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/10/02/esto-dijo-gilberto-mora-del-doblete-que-le-dio-el-empate-a-mexico-ante-espana-en-el-mundial-sub-20/",
+        "date": "2025-10-02 01:11:12",
+        "sentiment_score": 0.7429579123854637
+    },
+    {
+        "title": "Los mejores filmes de Netflix España para ver en cualquier momento",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "noticias",
+            "netflix",
+            "streaming",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/02/los-mejores-filmes-de-netflix-espana-para-ver-en-cualquier-momento/",
+        "date": "2025-10-02 00:15:56",
+        "sentiment_score": 0.29326120018959045
+    },
+    {
+        "title": "Números ganadores del Cupón Diario de la Once de este 1 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cupón diario",
+            "españa-loterías",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/01/numeros-ganadores-del-cupon-diario-de-la-once-de-este-1-de-octubre/",
+        "date": "2025-10-01 23:15:26",
+        "sentiment_score": 0.24943749979138374
+    },
+    {
+        "title": "Los costes laborales de los pequeños negocios se han disparado un 25% en seis años",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/01/terraza_bar_camarero_jul_2022-RSxJucjrmPUPdnhMlaIs1IJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.abc.es/economia/costes-laborales-pequenos-negocios-disparado-seis-anos-20251001190302-nt.html",
+        "date": "2025-10-02 01:46:35",
+        "sentiment_score": -0.01613062620162964
+    },
+    {
+        "title": "PSG hunde al Barcelona con un gol agónico en la Liga de Campeones y Mónaco frena a Man City",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/d25566d/2147483647/strip/true/crop/6894x3619+0+488/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff4%2Fa7%2Fe87f409f4d7aa778ee2215b0cd5a%2Fc4b78c82ffe64bf7949920490e3d40c7.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-10-01/psg-hunde-al-barcelona-con-un-gol-agonico-en-la-liga-de-campeones-y-monaco-frena-a-man-city",
+        "date": "2025-10-02 02:10:15",
+        "sentiment_score": 0.33804282546043396
+    },
+    {
+        "title": "La ovetense Ana Lena Rivera presenta su última novela, inspirada en el hostal que los tíos de la escritora regentaban en Madrid: \"Para saber lo que es la resiliencia basta preguntar a los abuelos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/72562479-2b59-4653-ac3f-83ae94a4c8fc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "público",
+            "club"
+        ],
+        "link": "https://www.lne.es/club/2025/10/02/ovetense-ana-lena-rivera-presenta-122176516.html",
+        "date": "2025-10-02 02:00:21",
+        "sentiment_score": 0.1975255310535431
+    },
+    {
+        "title": "Berto Cayarga, del Avilés, baja por una lesión muscular",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/da3f2a5e-cb76-46d9-b509-e24c04f93fe3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "horario",
+            "domingo",
+            "avilés",
+            "berto cayarga"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2025/10/02/berto-cayarga-aviles-baja-lesion-122178065.html",
+        "date": "2025-10-02 02:00:20",
+        "sentiment_score": -0.3275025263428688
+    },
+    {
+        "title": "Más de 250 mallorquinistas arroparán al Real Mallorca en San Mamés",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3495609.jpg",
+        "tags": [
+            "rcd mallorca",
+            "ultimas noticias",
+            "athletic club",
+            "fútbol",
+            "real mallorca",
+            "última hora",
+            "san mamés",
+            "primera división",
+            "laliga"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/10/02/2481555/mas-300-mallorquinistas-arroparan-real-mallorca-san-mames.html",
+        "date": "2025-10-02 02:00:01",
+        "sentiment_score": 0.6930186524987221
+    },
+    {
+        "title": "Sobrino: \"Me apetecía volver a jugar arriba, no se lo dije al club pero me preocupaba\"",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/30/06/75/3/sobrino11025.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.lanuevacronica.com/deportes/sobrino-me-apetecia-volver-jugar-arriba-no-se-dije-club-pero-me-preocupaba_183331_102.html",
+        "date": "2025-10-02 02:00:00",
+        "sentiment_score": 0.20374181866645813
+    },
+    {
+        "title": "Brasil incluye a Vinicius Júnior para amistosos contra Japón y Corea del Sur",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/c6e8dc6/2147483647/strip/true/crop/7339x3853+0+520/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb1%2Ff7%2Fc94caa8148faaf29cdd0886f54a2%2Ffaa9b8c96aa5430881e13850841db922.jpg",
+        "tags": [
+            "crime",
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-10-01/brasil-incluye-a-vinicius-junior-para-amistosos-contra-japon-y-corea-del-sur",
+        "date": "2025-10-02 01:54:57",
+        "sentiment_score": 0.0411369726061821
+    },
+    {
+        "title": "\"Nunca sabremos cuánta gente queda en las cunetas»",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/10/01/68dd663180555.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/251002/2061529/nunca-sabremos-cuanta-gente-queda-cunetas.html",
+        "date": "2025-10-02 01:30:00",
+        "sentiment_score": 0.14794886484742165
+    },
+    {
+        "title": "El flanco oriental en jaque: los países nórdicos y del Este piden al Sur de Europa mayor implicación",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/02/2025100203172158024.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.mundiario.com/articulo/internacional/paises-nordicos-piden-espana-sur-europa-mayor-implicacion-defensa-oriental/20251002032328357939.html",
+        "date": "2025-10-02 01:23:28",
+        "sentiment_score": -0.7211320921778679
+    },
+    {
+        "title": "No hay novedad, señora baronesa",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "baronesa",
+            "senora",
+            "no",
+            "hay",
+            "novedad"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/no-hay-novedad-senora-baronesa_0_2004929302.html",
+        "date": "2025-10-02 01:11:41",
+        "sentiment_score": -0.2367946356534958
+    },
+    {
+        "title": "Barcelona vibra con WIMEN, el festival con un cartel 100% femenino: \"Tienen el espacio que merecen\"",
+        "image_url": "https://album.mediaset.es/eimg/2025/10/01/wimen-el-festival-con-un-cartel-100-femenino_f14a.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20251002/wimen-festival-musica-formado-integramente-mujeres-barcelona_18_016738289.html",
+        "date": "2025-10-02 02:00:06",
+        "sentiment_score": 0.32842476665973663
+    },
+    {
+        "title": "Denuncian las trabas de Cort para celebrar las jornadas literarias Cuir en la Plaza Quadrado",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3496635.jpg",
+        "tags": [
+            "palma",
+            "ultimas noticias",
+            "palma de mallorca",
+            "última hora",
+            "noticias palma hoy"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/10/02/2482103/denuncian-trabas-cort-para-celebrar-jornadas-literarias-cuir-plaza-quadrado.html",
+        "date": "2025-10-02 02:00:01",
+        "sentiment_score": -0.8572535552084446
+    },
+    {
+        "title": "Video: la batalla campal entre ultras del Napoli y el Sporting de Lisboa en la previa del partido por la Champions League",
+        "image_url": "https://www.infobae.com/resizer/v2/PCESO2T6RNHDRDXSDIQV3TEXVQ.png?auth=7e828b1c41f360350918eb4b289ffcd962c34ea27688b3f1d0295001f656a7c5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "champions league",
+            "fútbol europeo",
+            "deportes-argentina",
+            "deportes-internacional",
+            "violencia en el fútbol",
+            "sporting de lisboa",
+            "napoli"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/02/video-la-batalla-campal-entre-ultras-del-napoli-y-el-sporting-de-lisboa-en-la-previa-del-partido-por-la-champions-league/",
+        "date": "2025-10-02 01:33:19",
+        "sentiment_score": -0.7391614727675915
+    },
+    {
+        "title": "El asalto de Israel a la Flotilla por Gaza saca a los europeos a la calle: protestas masivas y huelgas",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/10/02/centenares-de-personas-se-concentran-ante-la-embajada-de-israel-en-barcelona-tras-el-asalto-a-la-flotilla.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/el-asalto-israel-flotilla-gaza-saca-europeos-calle-protestas-masivas-huelgas.html",
+        "date": "2025-10-02 01:24:55",
+        "sentiment_score": -0.4772880896925926
+    },
+    {
+        "title": "El Gobierno pide a Israel que \"respete la integridad\" de los españoles de la Flotilla mientras Bruselas evita pronunciarse",
+        "image_url": "https://s2.elespanol.com/2025/10/02/actualidad/1003743950611_259116357_1706x960.jpg",
+        "tags": [
+            "conflicto palestino-israelí",
+            "mundo",
+            "israel",
+            "italia",
+            "franja de gaza",
+            "unión europea (ue)",
+            "gobierno de españa",
+            "alemania",
+            "europa"
+        ],
+        "link": "https://www.elespanol.com/mundo/20251002/gobierno-pide-israel-respete-integridad-espanoles-flotilla-bruselas-evita-pronunciarse/1003743950606_0.html",
+        "date": "2025-10-02 01:21:37",
+        "sentiment_score": -0.22795400023460388
+    },
+    {
+        "title": "El tour de la Flotilla finaliza con el naufragio de la propaganda",
+        "image_url": "https://s2.elespanol.com/2025/10/01/actualidad/1003743950520_259114979_1024x576.jpg",
+        "tags": [
+            "israel",
+            "franja de gaza",
+            "ada colau",
+            "opinión",
+            "editoriales de opinión",
+            "editoriales",
+            "conflicto palestino-israelí"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20251002/tour-flotilla-finaliza-naufragio-propaganda/1003743950365_14.html",
+        "date": "2025-10-02 01:21:33",
+        "sentiment_score": -0.9439384881407022
+    },
+    {
+        "title": "¿Cuál sería el primer once de Vizcarrondo en el recambio de la Vinotinto?",
+        "image_url": "https://pxcdn.meridiano.net/102025/1759363776659.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/la-vinotinto/cual-seria-el-primer-once-de-vizcarrondo-en-el-recambio-de-la-vinotinto--202510121180",
+        "date": "2025-10-02 01:18:00",
+        "sentiment_score": -0.01803378015756607
+    },
+    {
+        "title": "Cierre de gobierno en EEUU: ¿Suspenderá la embajada de Colombia el trámite de visas?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759371593232.jpg?ch=675&cw=1200",
+        "tags": [
+            "cierre de gobierno eeuu",
+            "solicitudes de visas",
+            "embajada de eeuu en colombia"
+        ],
+        "link": "https://2001online.com/usa/internacionales/cierre-de-gobierno-en-eeuu-suspendera-la-embajada-de-colombia-el-tramite-de-visas--202510122190",
+        "date": "2025-10-02 02:19:00",
+        "sentiment_score": 0.17896050214767456
+    },
+    {
+        "title": "Esta agencia de transporte de Pennsylvania debe retirar la mitad de sus trenes: sepa por qué",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759369982596.jpg?ch=675&cw=1200",
+        "tags": [
+            "transporte de pennsylvania",
+            "vagones de trenes",
+            "incendio"
+        ],
+        "link": "https://2001online.com/usa/servicios/esta-agencia-de-transporte-de-pennsylvania-debe-retirar-la-mitad-de-sus-trenes-sepa-por-que-202510122100",
+        "date": "2025-10-02 02:10:00",
+        "sentiment_score": 0.32192234694957733
+    },
+    {
+        "title": "Tarek William Saab atenderá a la comunidad en Petare este 02 de octubre: lugar y hora",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759360968804.jpg?ch=675&cw=1200",
+        "tags": [
+            "petare",
+            "tarek william saab",
+            "ministerio público"
+        ],
+        "link": "https://2001online.com/comunidad/tarek-william-saab-atendera-a-la-comunidad-en-petare-este-02-de-octubre-lugar-y-hora-20251012270",
+        "date": "2025-10-02 02:07:00",
+        "sentiment_score": 0.018663428723812103
+    },
+    {
+        "title": "¿Preparado para un nuevo pago? Esta es la cantidad que deposita Alaska a los beneficiarios del Dividendo de Fondo Permanente",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "pago",
+            "dinero",
+            "alaska"
+        ],
+        "link": "https://2001online.com/usa/servicios/preparado-para-un-nuevo-pago-esta-es-la-cantidad-que-deposita-alaska-a-los-beneficiarios-del-dividendo-de-fondo-permanente-20251012200",
+        "date": "2025-10-02 02:00:00",
+        "sentiment_score": -0.08018574863672256
+    },
+    {
+        "title": "Llega otro vuelo con venezolanos repatriados desde EEUU: reportan niños entre los pasajeros",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759369755169.jpg?ch=675&cw=1200",
+        "tags": [
+            "estados unidos",
+            "plan vuelta a la patria",
+            "repatriados",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/nacionales/llega-otro-vuelo-con-venezolanos-repatriados-desde-eeuu-reportan-ninos-entre-los-pasajeros-202510121510",
+        "date": "2025-10-02 01:51:00",
+        "sentiment_score": 0.12734628096222878
+    },
+    {
+        "title": "En detalle: organismo de seguridad confirma participación durante show de Bad Bunny en el Super Bowl",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759369677823/IMG_0673.jpeg?ch=675&cw=1200",
+        "tags": [
+            "2025",
+            "bad bunny",
+            "super bowl"
+        ],
+        "link": "https://2001online.com/farandula/en-detalle-organismo-de-seguridad-confirma-participacion-durante-show-de-bad-bunny-en-el-super-bowl-202510121280",
+        "date": "2025-10-02 01:28:00",
+        "sentiment_score": -0.8083395715802908
+    },
+    {
+        "title": "Apoyo millonario para inmigrantes: esta ciudad de EEUU brinda asistencia legal y bienestar comunitario",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759365767605.jpg?ch=675&cw=1200",
+        "tags": [
+            "carta recomendacion inmigracion usa",
+            "usa",
+            "inmigrante",
+            "boston"
+        ],
+        "link": "https://2001online.com/usa/servicios/apoyo-millonario-para-inmigrantes-esta-ciudad-de-eeuu-brinda-asistencia-legal-y-bienestar-comunitario-202510121230",
+        "date": "2025-10-02 01:23:00",
+        "sentiment_score": 0.09802376478910446
+    },
+    {
+        "title": "¿Qué pasó con la Superliga de Florentino Pérez?: la necesidad económica detrás del futbol europeo",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759365934331.jpg?ch=675&cw=1200",
+        "tags": [
+            "superliga europea",
+            "superliga de fútbol",
+            "uefa",
+            "real madrid",
+            "europa",
+            "florentino pérez",
+            "superliga",
+            "uefa champions league",
+            "champions league",
+            "fc barcelona"
+        ],
+        "link": "https://2001online.com/deportes/que-paso-con-la-superliga-de-florentino-perez-la-necesidad-economica-detras-del-futbol-europeo-20251012200",
+        "date": "2025-10-02 01:06:09",
+        "sentiment_score": -0.8610576670616865
+    },
+    {
+        "title": "Estados Unidos agiliza visas para trabajadores agrícolas: ¿cómo postularse al nuevo programa?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "visas",
+            "trabajadores",
+            "producción agricola"
+        ],
+        "link": "https://2001online.com/usa/servicios/estados-unidos-agiliza-visas-para-trabajadores-agricolas-como-postularse-al-nuevo-programa--20251012100",
+        "date": "2025-10-02 01:00:00",
+        "sentiment_score": 0.486357893794775
+    },
+    {
+        "title": "Génesis Rodríguez: la vida de una actriz entre el lujo y la búsqueda de su lugar en Hollywood",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "hollywood",
+            "celebridades"
+        ],
+        "link": "https://2001online.com/farandula/genesis-rodriguez-la-vida-de-una-actriz-entre-el-lujo-y-la-busqueda-de-su-lugar-en-hollywoodgenesis-rodriguez-la-vida-de-una-actriz-entre-el-lujo-y-la-busqueda-de-su-lugar-en-hollywood-202510120580",
+        "date": "2025-10-02 00:58:00",
+        "sentiment_score": 0.24695756286382675
     }
 ];
