@@ -1,262 +1,5 @@
 export default [
     {
-        "title": "Nuñez Feijóo, acompañado de López Miras y Ballesta, clausura este domingo en el Teatro Circo de Murcia la cumbre del PP",
-        "image_url": "https://www.infobae.com/resizer/v2/5DV272IF6JEXVBWURZ5LYH7VTA.jpg?auth=392db26e08765f002999a7c55e355487b355111dd5778e2b7276ef3ceff953f8&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/09/28/nunez-feijoo-acompanado-de-lopez-miras-y-ballesta-clausura-este-domingo-en-el-teatro-circo-de-murcia-la-cumbre-del-pp/",
-        "date": "2025-09-28 06:30:20",
-        "sentiment_score": 0.1992197409272194
-    },
-    {
-        "title": "Embalses en España: así están las reservas de agua este 28 de septiembre",
-        "image_url": "https://www.infobae.com/resizer/v2/LYJIFA6DUBBG7C7UI6ZQ3U5AOY.png?auth=fff2706b54a7cfc5cc1c0db4596db96f4c91b843510b180fb97e47e2628b4826&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "agua",
-            "españa-noticias",
-            "embalses españa",
-            "sequía",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/09/28/embalses-en-espana-asi-estan-las-reservas-de-agua-este-28-de-septiembre/",
-        "date": "2025-09-28 05:15:25",
-        "sentiment_score": -0.33441647328436375
-    },
-    {
-        "title": "Barcelona - Real Sociedad: Horario, alineaciones y dónde ver el partido de LaLiga en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/09/27/2FBEFAA9-8D46-4268-831C-E69B1DA24855/raphinha-oyarzabal_98.jpg?crop=3264%2C1836%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/barcelona-real-sociedad-horario-alineaciones-donde-ver-partido-laliga-directo_2025092868d8d5f63ce0ad1de8844358.html",
-        "date": "2025-09-28 06:30:14",
-        "sentiment_score": 0.4314321279525757
-    },
-    {
-        "title": "¿Problemas de pareja? Amanda tiene la solución",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250928082952_690.jpg",
-        "tags": [
-            "asistencia",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/asistencia/noticia-problemas-pareja-amanda-tiene-solucion-20250928082952.html",
-        "date": "2025-09-28 06:29:52",
-        "sentiment_score": -0.6641363799571991
-    },
-    {
-        "title": "¿Quién es Juan Franco?, el alcalde más votado de España que mandó a un concejal socialista a comerse un bollo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba5edd8d-8703-4fee-9aeb-4b510e6cff07_16-9-aspect-ratio_default_0_x775y573.jpg",
-        "tags": [
-            "franco",
-            "política",
-            "psoe",
-            "españa",
-            "andalucía",
-            "gibraltar",
-            "oposición"
-        ],
-        "link": "https://www.laopiniondemalaga.es/andalucia/2025/09/28/juan-franco-alcalde-votado-espana-122031758.html",
-        "date": "2025-09-28 06:15:19",
-        "sentiment_score": -0.2624109983444214
-    },
-    {
-        "title": "Agenda Informativa de Europa Press para este domingo, 28 de septiembre",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/09/28/agenda-informativa-de-europa-press-para-este-domingo-28-de-septiembre/",
-        "date": "2025-09-28 06:15:14",
-        "sentiment_score": 0.04095541127026081
-    },
-    {
-        "title": "Horario y dónde ver en TV el Real Madrid - Valencia Basket, final de la Supercopa de Málaga",
-        "image_url": "https://static.grupojoly.com/clip/b1c4c7c4-fe8c-4e01-8334-b6dbbf37b515_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.malagahoy.es/unicaja/horario-donde-ver-tv-real-madrid-valencia-final-supercopa_0_2004892031.html",
-        "date": "2025-09-28 06:00:16",
-        "sentiment_score": 0.7446013987064362
-    },
-    {
-        "title": "Reabre la Laguna del Soto de las Cuevas, la maravilla natural de Aranjuez",
-        "image_url": "https://static.eldiario.es/clip/7e8836b0-80d0-45c5-b407-eeb0e37d3655_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "maravilla",
-            "cuevas",
-            "natural",
-            "pm",
-            "soto",
-            "laguna",
-            "aranjuez",
-            "reabre"
-        ],
-        "link": "https://www.eldiario.es/spin/reabre-laguna-soto-cuevas-maravilla-natural-aranjuez-pm_1_12637984.html",
-        "date": "2025-09-28 06:00:15",
-        "sentiment_score": 0.05060657858848572
-    },
-    {
-        "title": "La 'manita' del derbi pasa factura: señalados y las primeras sombras del nuevo Real Madrid de Xabi Alonso",
-        "image_url": "https://s2.elespanol.com/2025/09/27/actualidad/1003743944359_259034856_1706x960.jpg",
-        "tags": [
-            "xabi alonso",
-            "deportes",
-            "kylian mbappé",
-            "atlético de madrid",
-            "fútbol",
-            "derbi madrileño",
-            "real madrid cf"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20250928/manita-derbi-pasa-factura-senalados-primeras-sombras-nuevo-real-madrid-xabi-alonso/1003743944353_0.html",
-        "date": "2025-09-28 06:00:00",
-        "sentiment_score": -0.1671435385942459
-    },
-    {
-        "title": "Las ocho estrellas que la selección argentina no tendrá para soñar con el séptimo título en el Mundial Sub 20",
-        "image_url": "https://www.infobae.com/resizer/v2/TKCYJ5OVBFBR5GFDOKKPI4U5MU.jpg?auth=d80d105c4dfcb80c3f3405f20d64920db6dcd241531b58ef5c1ee5d7aeba1d3d&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "agustín ruberto",
-            "mundial sub 20",
-            "franco mastantuono",
-            "jeremías martinet",
-            "diego placente",
-            "valentín carboni",
-            "claudio diablito echeverri",
-            "aaron anselmino",
-            "seleccion argentina",
-            "claudio echeverri",
-            "seleccion argentina sub 20",
-            "santiago hidalgo"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/09/28/las-ocho-estrellas-que-la-seleccion-argentina-no-tendra-para-sonar-con-el-septimo-titulo-en-el-mundial-sub-20/",
-        "date": "2025-09-28 05:56:50",
-        "sentiment_score": -0.38962000608444214
-    },
-    {
-        "title": "Marc Márquez, campeón del mundo de MotoGP sin necesidad de ganar en Motegi",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/09/28/68d8c4113b150.r_d.1894-1288-1283.jpeg",
-        "tags": [
-            "motogp"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/motogp/20250928/1002540457/marc-marquez-campeon-mundo-motogp-necesidad-ganar-motegi.html",
-        "date": "2025-09-28 05:54:46",
-        "sentiment_score": 0.33717626333236694
-    },
-    {
-        "title": "El Ayuntamiento garantiza la seguridad de las colecciones del Museo de Historia pese al cercano incendio de contenedores",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250928073850_690.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.europapress.es/madrid/noticia-ayuntamiento-garantiza-seguridad-colecciones-museo-historia-pese-cercano-incendio-contenedores-20250928073850.html",
-        "date": "2025-09-28 05:38:50",
-        "sentiment_score": -0.6239979714155197
-    },
-    {
-        "title": "Mossos ve \"más tranquilas\" que otros años las fiestas de La Mercè de Barcelona, sin casi incidentes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20250928082849_690.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-mossos-ve-mas-tranquilas-otros-anos-fiestas-merce-barcelona-casi-incidentes-20250928082849.html",
-        "date": "2025-09-28 06:28:49",
-        "sentiment_score": -0.13129408657550812
-    },
-    {
-        "title": "Lo que debes saber hoy, 28 de septiembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2019/02/19/sants-montjuic/sants_-_montjuic_377472261_10487273_1706x960.jpg",
-        "tags": [
-            "vivir en barcelona",
-            "clima",
-            "planes",
-            "tráfico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20250928/debes-saber-hoy-septiembre-barcelona/1003742692619_0.html",
-        "date": "2025-09-28 06:20:00",
-        "sentiment_score": -0.7285343557596207
-    },
-    {
-        "title": "Marc Márquez consigue su séptimo título de MotoGP seis años después del anterior",
-        "image_url": "https://phantom-elmundo.uecdn.es/46e4b8b9466b0ae4de389f26cc47e44c/crop/60x0/1016x637/f/webp/assets/multimedia/imagenes/2025/09/28/17590404237884.jpg",
-        "tags": [
-            "motogp",
-            "marc márquez"
-        ],
-        "link": "https://www.elmundo.es/deportes/motociclismo/2025/09/28/68d8cbc8fdddff430c8b4574.html",
-        "date": "2025-09-28 06:18:41",
-        "sentiment_score": 0.7699352465569973
-    },
-    {
-        "title": "Última hora del tiempo en Catalunya, hoy en directo Los restos del huracán Gabrielle obligan a activar las alertas por intensidad de lluvia en Catalunya",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7bb8952a-253b-4b6e-a7f8-a03c947ff1bd_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "directo",
-            "ultima",
-            "lluvias aemet meteocat",
-            "espana",
-            "barcelona",
-            "tarragona",
-            "cataluna",
-            "hora"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20250928/cataluna-espana-tarragona-barcelona-lluvias-aemet-meteocat-ultima-hora-directo-121355325",
-        "date": "2025-09-28 06:17:00",
-        "sentiment_score": -0.4922593981027603
-    },
-    {
-        "title": "Aviones en la niebla",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/187e4b6e-a5a2-435c-a4f3-ee4f8f66e631_16-9-aspect-ratio_default_0_x678y466.jpg",
-        "tags": [
-            "aviones",
-            "pedro sánchez",
-            "badajoz",
-            "gobierno",
-            "público",
-            "vuelos",
-            "tecnología",
-            "aeropuerto"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/opinion/2025/09/28/aviones-niebla-122037018.html",
-        "date": "2025-09-28 06:16:23",
-        "sentiment_score": -0.6977483183145523
-    },
-    {
-        "title": "Todo sobre Liber Madrid 2025: cuándo es, horario, entradas, programa, cómo ir gratis y dónde es",
-        "image_url": "https://okdiario.com/img/2025/09/26/todo-sobre-liber-madrid-2025-cuando-es-horario-entradas-programa-como-ir-gratis-y-donde-es.jpg",
-        "tags": [
-            "ifema",
-            "españa",
-            "madrid",
-            "libros",
-            "okd"
-        ],
-        "link": "https://okdiario.com/madrid/todo-sobre-liber-madrid-2025-cuando-horario-entradas-programa-como-ir-gratis-donde-15481763",
-        "date": "2025-09-28 06:15:28",
-        "sentiment_score": 0.13893139362335205
-    },
-    {
-        "title": "«Queremos que los artistas pidan venir al Roig Arena»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8f6fc2d4-203d-4959-9226-1e5bf18a2fa9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "valencia",
-            "artistas",
-            "cartel",
-            "conciertos",
-            "venir",
-            "roig",
-            "música en directo",
-            "arena",
-            "música"
-        ],
-        "link": "https://www.elcorreogallego.es/sociedad/2025/09/28/artistas-venir-roig-arena-valencia-cartel-121956608.html",
-        "date": "2025-09-28 06:14:28",
-        "sentiment_score": 0.13675791770219803
-    },
-    {
         "title": "“Todo lo que necesitas saber para tener un ‘glow up’ este otoño”: un experto en moda da cinco claves para sacarte el mejor partido",
         "image_url": "https://www.infobae.com/resizer/v2/4FAYE5WLJ5FU3LVOQ5NLWF5BGI.jpg?auth=b655ad1fac1aa91348594a627b8b6bf82431ba4a395ec61f621d20a1586961f6&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -464,17 +207,6 @@ export default [
         "sentiment_score": -0.04121653735637665
     },
     {
-        "title": "La irrupción de los algoritmos acerca el escenario de una enseñanza a medida",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/09/28/ia-R0rCm2SlN5tAqA28qkfeqTK-1200x840@diario_abc.jpg",
-        "tags": [
-            "formación",
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/formacion/irrupcion-algoritmos-acerca-escenario-ensenanza-medida-20250928205850-nt.html",
-        "date": "2025-09-28 09:09:03",
-        "sentiment_score": -0.03578948974609375
-    },
-    {
         "title": "El incendio del Pico del Lobo se adentra en Castilla y León y alcanza las 3.000 hectáreas",
         "image_url": "https://imagenes.elpais.com/resizer/v2/2MRAVUYUSFHYFO7HWLB5NBB25A.jpg?auth=2469825de1c9dc06ffec17e2be520cb302019494094c0f5ddb0ebcd9778c173c&width=1200",
         "tags": [
@@ -543,29 +275,6 @@ export default [
         "link": "https://elpais.com/espana/2025-09-28/feijoo-propone-visados-para-inmigrantes-condicionados-a-trabajos-donde-fata-mano-de-obra-y-con-una-cultura-proxima.html",
         "date": "2025-09-28 10:58:24",
         "sentiment_score": -0.8938067061826587
-    },
-    {
-        "title": "Las pancartas del Ayuntamiento de Barcelona con Palestina: “Paremos al gobierno genocida de Israel” y “Solidaridad con la flotilla”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/42O6CBMXRVBVTBWSJRLNSWR7MU.jpeg?auth=5c2bd3fb3ca605023632e319f8c6cc3a8c297429ec7b6762180012769dc49df8&width=1200",
-        "tags": [
-            "cataluña",
-            "juntsxcat",
-            "israel",
-            "psc",
-            "barcelona",
-            "plenos municipales",
-            "barcelona en comú",
-            "erc",
-            "palestina",
-            "conflicto árabe-israelí",
-            "política",
-            "ayuntamiento barcelona",
-            "la mercè",
-            "protestas sociales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-28/las-pancartas-del-ayuntamiento-de-barcelona-con-palestina-paremos-al-gobierno-genocida-de-israel-y-solidaridad-con-la-flotilla.html",
-        "date": "2025-09-28 10:11:06",
-        "sentiment_score": -0.11445620656013489
     },
     {
         "title": "Partido entre el Tenerife Femenino y el Real Madrid, en imágenes",
@@ -8177,5 +7886,645 @@ export default [
         "link": "https://2001online.com/farandula/las-reinas-del-drama-el-historial-amoroso-y-polemico-del-clan-kardashian-jenner-202510111100",
         "date": "2025-10-01 15:10:00",
         "sentiment_score": -0.6152212768793106
+    },
+    {
+        "title": "Narbona lamenta que PP aún no ha hecho \"el menor movimiento razonable\" hacia el Pacto frente a la emergencia climática",
+        "image_url": "https://www.infobae.com/resizer/v2/QQXLPLZLNJHKFJAHKKXQBBBLVM.jpg?auth=5772ab5be23fca3f66149287836e39f750aef0cbdfdc0404505f9b55d7318c09&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/01/narbona-lamenta-que-pp-aun-no-ha-hecho-el-menor-movimiento-razonable-hacia-el-pacto-frente-a-la-emergencia-climatica/",
+        "date": "2025-10-01 21:31:45",
+        "sentiment_score": -0.7971634808927774
+    },
+    {
+        "title": "Cargas policiales en la protesta ante el consulado de Israel en Barcelona por la Flotilla",
+        "image_url": "https://www.infobae.com/resizer/v2/XE6EVINVKVGZLDO6T7KW5RR3Z4.jpg?auth=6f17b59fb1df3a55b422597a239a593a21958edf903b080edef2809c6fb1cf24&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/01/cargas-policiales-en-la-protesta-ante-el-consulado-de-israel-en-barcelona-por-la-flotilla/",
+        "date": "2025-10-01 21:31:27",
+        "sentiment_score": -0.7117287144064903
+    },
+    {
+        "title": "Compromís condena la \"detención arbitraria\" de su diputado Juan Bordera tras la intercepción israelí de la flotilla",
+        "image_url": "https://www.infobae.com/resizer/v2/KYPIPGYCDFD2BPHYBGZF372AUM.jpg?auth=3d0bfd057e67e6fb54a77916c783a7a3210a3edbddd1ba1a9db28016e2142183&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/01/compromis-condena-la-detencion-arbitraria-de-su-diputado-juan-bordera-tras-la-intercepcion-israeli-de-la-flotilla/",
+        "date": "2025-10-01 21:02:06",
+        "sentiment_score": -0.8619999317452312
+    },
+    {
+        "title": "Centenares de personas ante el consulado de Israel en Barcelona tras interceptarse la Flotilla",
+        "image_url": "https://www.infobae.com/resizer/v2/Y6KGBIG67BDOBIY2ZRPLTCNF3I.jpg?auth=0051bb8fec7b012d9efac0779315d35fd7ea43f65b0d1117816323bdc3a8069b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/01/centenares-de-personas-ante-el-consulado-de-israel-en-barcelona-tras-interceptarse-la-flotilla/",
+        "date": "2025-10-01 21:01:49",
+        "sentiment_score": -0.7315718941390514
+    },
+    {
+        "title": "Junqueras (ERC) expresa apoyo a la flotilla y exige respeto al derecho internacional y humanitario",
+        "image_url": "https://www.infobae.com/resizer/v2/4FTP4SWTKVFLNJB3N3WQZL3X4A.jpg?auth=b181ec28586ef3e72f98276fac4ae24a495f73b11db04a5e986a130ad4829832&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/01/junqueras-erc-expresa-apoyo-a-la-flotilla-y-exige-respeto-al-derecho-internacional-y-humanitario/",
+        "date": "2025-10-01 21:01:31",
+        "sentiment_score": 0.25703468918800354
+    },
+    {
+        "title": "Número ganador de la lotería 6/49 de este 1 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/MKIVKEXZ7FAA3GSZXEOUYC24ZY.jpg?auth=0d3a09096e3675ae539775754e0d00e772eb057ee536ddf36c42697fc44f9654&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "6/49",
+            "noticias",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/01/numero-ganador-de-la-loteria-649-de-este-1-de-octubre/",
+        "date": "2025-10-01 21:00:27",
+        "sentiment_score": 0.11660346761345863
+    },
+    {
+        "title": "Illa pide a Israel \"respetar el derecho internacional\" y el de los integrantes de la Flotilla",
+        "image_url": "https://www.infobae.com/resizer/v2/O2XPRXJ67REC3FWFOMUHWDEV5A.jpg?auth=a4c3f76526520500900e9b247473636229d94a424b8a96b19e4eec91bb214d6b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/01/illa-pide-a-israel-respetar-el-derecho-internacional-y-el-de-los-integrantes-de-la-flotilla/",
+        "date": "2025-10-01 20:31:11",
+        "sentiment_score": -0.46967359632253647
+    },
+    {
+        "title": "Centenares de personas ante la embajada de Israel en Barcelona tras interceptarse la Flotilla",
+        "image_url": "https://www.infobae.com/resizer/v2/Z3OPMVACTVFRRNUKK2WPUET7GQ.jpg?auth=1285407aa43baa0fbcd0484ceb6fcd387c4d768201fc960d205b46df1a7edc43&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/01/centenares-de-personas-ante-la-embajada-de-israel-en-barcelona-tras-interceptarse-la-flotilla/",
+        "date": "2025-10-01 20:30:53",
+        "sentiment_score": -0.7494626678526402
+    },
+    {
+        "title": "España vs México EN VIVO minuto a minuto: Segundo partido del Mundial Sub-20",
+        "image_url": "https://www.infobae.com/resizer/v2/IRUXTWFYHVB6TIIDTF6TPLOHVM.jpg?auth=56e9fdf5a99a7d368a3d5d44097fa6274fa295145b49615b2ad9136431a7285d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "selección mexicana",
+            "selección de españa",
+            "fifa",
+            "futbol",
+            "mundial sub 20",
+            "mexico-deportes"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/10/01/espana-vs-mexico-en-vivo-minuto-a-minuto-segundo-partido-del-mundial-sub-20/",
+        "date": "2025-10-01 20:25:03",
+        "sentiment_score": 0.07635890692472458
+    },
+    {
+        "title": "Sumar condena el \"ataque\" de Israel tras interceptar la flotilla y pide liberar a los miembros que \"sean detenidos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/BI4LC3NXLBDH3BFJWUOEJACQXQ.jpg?auth=75355fcf86eecc10b694c7ab67d89b98ab44a2d0fe843a49b4774fc5f5b174ed&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/01/sumar-condena-el-ataque-de-israel-tras-interceptar-la-flotilla-y-pide-liberar-a-los-miembros-que-sean-detenidos/",
+        "date": "2025-10-01 20:01:30",
+        "sentiment_score": -0.8510153871029615
+    },
+    {
+        "title": "Uno de cada cuatro castellanomanchegos mayores de 65 años vive solo y el 70% son mujeres",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/01/1474053392-RapnwBMyZUXYU6jHjTtBdnO-1200x840@diario_abc.jpg",
+        "tags": [
+            "españa",
+            "castilla la mancha"
+        ],
+        "link": "https://www.abc.es/espana/castilla-la-mancha/cuatro-castellanomanchegos-mayores-anos-vive-solo-mujeres-20251001232707-nt.html",
+        "date": "2025-10-01 21:27:08",
+        "sentiment_score": -0.11852414906024933
+    },
+    {
+        "title": "Detectado un foco de gripe aviar en una explotación de Valdemoro con 450.000 gallinas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/01/1500475803-klqD-U7016816540770NB-1200x840@diario_abc.jpg",
+        "tags": [
+            "gripe aviar",
+            "gripe",
+            "comunidad de madrid",
+            "uh abc",
+            "valdemoro",
+            "aves",
+            "virus",
+            "agricultura",
+            "ganaderías"
+        ],
+        "link": "https://www.abc.es/espana/madrid/detectado-foco-gripe-aviar-explotacion-valdemoro-450000-20251001192455-nt.html",
+        "date": "2025-10-01 17:24:56",
+        "sentiment_score": -0.10514551401138306
+    },
+    {
+        "title": "La flotilla con ayuda para Gaza llega a la «zona de alto riesgo» y espera ser interceptada por Israel en una hora",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/01/1501413721-kyzB-U701681668610YqH-1200x840@diario_abc.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.abc.es/internacional/flotilla-ayuda-gaza-llega-zona-alto-riesgo-20251001192450-nt.html",
+        "date": "2025-10-01 17:24:50",
+        "sentiment_score": -0.2164112776517868
+    },
+    {
+        "title": "La eliminación de los Avlo Madrid-Barcelona encarece un 40% los billetes",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PA4KE275MJFUPCJC4QED6A5HNQ.jpg?auth=8fb2f69029bc71b7b6b9104c1ce990b73ab00aaa592d633089c8fbf605232a81&width=1200",
+        "tags": [
+            "renfe",
+            "vías ferroviarias",
+            "ave",
+            "ouigo",
+            "iryo",
+            "adif",
+            "apps",
+            "cataluña",
+            "fgc",
+            "trenes"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-01/la-eliminacion-de-los-avlo-madrid-barcelona-encarece-un-40-los-billetes.html",
+        "date": "2025-10-01 19:25:12",
+        "sentiment_score": 0.10679548978805542
+    },
+    {
+        "title": "Así es el texto de Vox aprobado por el PP sobre el supuesto síndrome posaborto: “El aborto es un gran negocio para el feminismo”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/E4XYZNKFQ5D5TINW3WNHJ3XBRM.jpg?auth=ac80b0ab0a42fdc8e0ea581ecc62996f19f79cf2a313fa51daaf466130194f6b&width=1200",
+        "tags": [
+            "madrid",
+            "vox",
+            "comunidad de madrid",
+            "aborto",
+            "isabel díaz ayuso",
+            "ayuntamiento madrid",
+            "pp madrid",
+            "josé luis martínez almeida",
+            "santiago abascal"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-10-01/asi-es-el-texto-de-vox-aprobado-por-el-pp-sobre-el-supuesto-sindrome-posaborto-el-aborto-es-un-gran-negocio-para-el-feminismo.html",
+        "date": "2025-10-01 19:12:15",
+        "sentiment_score": -0.81199886277318
+    },
+    {
+        "title": "Unos 200 profesionales se concentran frente a TV3 y Catalunya Ràdio por los cambios de la CCMA",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/NJWIVL64GNJDNL3E65UQXZ6RKM.jpg?auth=9919c947614b61d52192412321d4acaf6010ce8739e1b5986029d3096c041327&width=1200",
+        "tags": [
+            "catalunya ràdio",
+            "cataluña",
+            "tv3",
+            "radio",
+            "televisión",
+            "ccma"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-01/unos-200-profesionales-se-concentran-frente-a-tv3-y-catalunya-radio-por-los-cambios-de-la-ccma.html",
+        "date": "2025-10-01 18:56:46",
+        "sentiment_score": -0.5619706735014915
+    },
+    {
+        "title": "Pimec alerta a Feijóo de que la actual financiación catalana pone en jaque la competitividad de las empresas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LHEEJTVYPNMRRNUWW72JLYAZV4.jpg?auth=5c8739fb82e1b1fade4551420e1dc4f8e7981997816df82df904f9f7f4f63ddc&width=1200",
+        "tags": [
+            "patronal",
+            "cataluña",
+            "opa hostil",
+            "josep oliu",
+            "pymes",
+            "pp",
+            "pedro sánchez",
+            "barcelona",
+            "psoe",
+            "pimec",
+            "empresas",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-01/pimec-alerta-a-feijoo-de-que-la-actual-financiacion-catalana-pone-en-jaque-la-competitividad-de-las-empresas.html",
+        "date": "2025-10-01 18:38:24",
+        "sentiment_score": -0.12096971273422241
+    },
+    {
+        "title": "Los Mossos detienen en Girona a tres hombres que intentaban atracar un banco con pistolas simuladas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TEZX4HWKABJZ7KNTIUW6CZNN4A.jpg?auth=23cbae8d727191c2dc83a3a4cc65a181e1792f9f74aeda1bfc47af3c037b4b1d&width=1200",
+        "tags": [
+            "robos",
+            "cataluña",
+            "bancos",
+            "mossos d'esquadra",
+            "girona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-01/los-mossos-detienen-en-girona-a-tres-hombres-que-intentaban-atracar-un-banco-con-pistolas-simuladas.html",
+        "date": "2025-10-01 18:33:28",
+        "sentiment_score": -0.8309101881459355
+    },
+    {
+        "title": "La comisaría de Les Borges Blanques (Lleida), convertida en almacén insalubre de marihuana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/U3UBASLJ6FG4NCVZSOOROXI7D4.jpeg?auth=6c19fe1833906d3cd1a466106d437862384ae17fc291f825aa553605dc4560cc&width=1200",
+        "tags": [
+            "lleida",
+            "marihuana",
+            "les borges blanques",
+            "mossos d'esquadra",
+            "cataluña",
+            "sindicatos policiales"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-01/la-comisaria-de-les-borges-blanques-lleida-convertida-en-almacen-insalubre-de-marihuana.html",
+        "date": "2025-10-01 17:59:29",
+        "sentiment_score": -0.3279530107975006
+    },
+    {
+        "title": "Mondiacult 2025 reclama los derechos culturales como motor de las políticas públicas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JOI3QKNGCRNHZEVLU7DBJOYUBM.jpg?auth=7443043383d9d1be889d0737afc2fcbcb20f3eb38a3fa5a29ad5484d3a8db6bc&width=1200",
+        "tags": [
+            "cultura",
+            "unesco",
+            "agenda 2030",
+            "onu",
+            "cataluña",
+            "patrimonio cultural inmaterial",
+            "derechos civiles",
+            "patrimonio cultural",
+            "conferencias",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-01/mondiacult-2025-reclama-los-derechos-culturales-como-motor-de-las-politicas-publicas.html",
+        "date": "2025-10-01 17:33:09",
+        "sentiment_score": 0.3488793559372425
+    },
+    {
+        "title": "México empata en el último minuto y deja a España al borde del abismo",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/02/68dda79b32ab0.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mexico-empata-ultimo-minuto-deja-espana-borde-abismo-20251002_3224610.html",
+        "date": "2025-10-01 22:14:16",
+        "sentiment_score": -0.004465878009796143
+    },
+    {
+        "title": "David Beckham cobra un dividendo de 31 millones de sus negocios",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/d3247738abe4d8ec53c86cbfd678497e/crop/0x22/2048x1387/resize/1200/f/webp/assets/multimedia/imagenes/2025/10/01/17593411886979.jpg",
+        "tags": [
+            "artículos artur zanón>",
+            "empresas>",
+            "david beckham>"
+        ],
+        "link": "https://www.expansion.com/empresas/2025/10/02/68dd683b468aeb137f8b458f.html",
+        "date": "2025-10-01 22:06:58",
+        "sentiment_score": 0.1294146031141281
+    },
+    {
+        "title": "La Justicia reconoce el derecho a sanidad de la viuda de un militar de las \"Fuerzas Indígenas\" de Franco",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/06/22/1D8CDCE5-AA74-49A3-A947-4FF810A7F149/69.jpg?crop=1037%2C583%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "andalucía"
+        ],
+        "link": "https://www.larazon.es/andalucia/justicia-reconoce-derecho-sanidad-viuda-militar-fuerzas-indigenas-franco_2025100268dda5996c793a7e69882ee9.html",
+        "date": "2025-10-01 22:05:13",
+        "sentiment_score": -0.3754815086722374
+    },
+    {
+        "title": "Las claves del éxito de Larrumba, el grupo de los restaurantes de moda para la gente cool: estrena nueva marca y una coctelería premium inspirada en los 80",
+        "image_url": "https://phantom-elmundo.uecdn.es/4ad79444640b09782a1f827dcc7a7d83/f/image/jpeg/assets/multimedia/imagenes/2022/03/28/16484797084044.jpg",
+        "tags": [
+            "artículos ana del barrio"
+        ],
+        "link": "https://www.elmundo.es/metropoli/2025/10/02/68dd496efc6c838a318b45bf.html",
+        "date": "2025-10-01 22:04:36",
+        "sentiment_score": 0.4866303987801075
+    },
+    {
+        "title": "La hija de la ilustre inquiokupa de Torrelodones también debe cuatro años de alquiler por un piso en Galapagar: su padre era el futbolista del Madrid Fleitas",
+        "image_url": "https://phantom-elmundo.uecdn.es/bfc62fc31d86105e92fd646741f3f8b8/crop/0x0/1166x1166/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529624450788.jpg",
+        "tags": [
+            "torrelodones",
+            "artículos luis f. durán",
+            "galapagar",
+            "okupas"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/10/02/68dd4402e4d4d889658b457b.html",
+        "date": "2025-10-01 22:04:32",
+        "sentiment_score": -0.9172806330025196
+    },
+    {
+        "title": "Vinícius y Rodrygo citados por Brasil para amistosos con Corea del Sur y Japón",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/10/01175925/AFP__20251001__77ET9NQ__v2__HighRes__FilesFblBraKorJpnFriendly-2560x1707.jpg",
+        "tags": [
+            "vinícius",
+            "fútbol",
+            "deportes",
+            "bracil",
+            "amistosos"
+        ],
+        "link": "https://www.elnacional.com/2025/10/vinicius-y-rodrygo-citados-por-brasil-para-amistosos-con-corea-del-sur-y-japon/",
+        "date": "2025-10-01 22:01:51",
+        "sentiment_score": 0.3636196702718735
+    },
+    {
+        "title": "‘De vuelta a la tierra’: el compostaje humano ofrece a las familias una opción ecológica para el descanso final de sus seres queridos",
+        "image_url": "https://whyy.org/wp-content/uploads/2025/10/human-composting-SM-082625-05-espanol.jpg",
+        "tags": [
+            "primer estado"
+        ],
+        "link": "https://whyy.org/articles/el-compostaje-humano-ecologica/",
+        "date": "2025-10-01 21:43:20",
+        "sentiment_score": 0.3979460597038269
+    },
+    {
+        "title": "Así está la clasificación de la Champions: solo dos equipos por detrás del Athlteic",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/01d67220-fc64-4abd-a97e-c53c78541560_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "equipos",
+            "clasificacion",
+            "champions",
+            "detras",
+            "athlteic"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/10/01/clasificacion-champions-equipos-detras-athlteic-10156857.html",
+        "date": "2025-10-01 21:34:07",
+        "sentiment_score": -0.8517965711653233
+    },
+    {
+        "title": "CLASIFICACIÓN | Un solo ESPAÑOL en el TOP-8 y una GRAN SORPRESA en los equipos con PLENO",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/09/01/image-b0cd02ba-f446-4aab-a5a9-4ae3197329c4-85-2560-1440.jpeg",
+        "tags": [
+            "champions league",
+            "athletic club",
+            "liverpool",
+            "fútbol",
+            "real madrid",
+            "villarreal",
+            "barcelona"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/clasificacion-fase-liga-diferencias-real-madrid-barcelona-atletico-madrid-athletic-bilbao-villarreal_sto23222399/story.shtml",
+        "date": "2025-10-01 21:33:46",
+        "sentiment_score": -0.004638172686100006
+    },
+    {
+        "title": "VÍDEO: Israel intercepta tres barcos de la Global Sumud Flotilla cerca de Gaza, entre ellos el de Colau",
+        "image_url": "https://www.infobae.com/resizer/v2/HWWLTU7FLJHNTHINV4X4ZOFXS4.jpg?auth=09bf95f3be9637122f578cb7bcdfedeeb0538f06e335a1415b06f51091108c6d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/01/video-israel-intercepta-tres-barcos-de-la-global-sumud-flotilla-cerca-de-gaza-entre-ellos-el-de-colau/",
+        "date": "2025-10-01 22:16:30",
+        "sentiment_score": -0.7090432997792959
+    },
+    {
+        "title": "Luis Enrique Martínez: \"El Barça y el PSG son claros candidatos a ganar la Champions\"",
+        "image_url": "https://www.infobae.com/resizer/v2/A5FDRGKIKNAD7L25DQPL2WOJAA.jpg?auth=69cc41bd222f207b9f0a5c7ea352d521b94d7f118e1e48b9a8a8d0c9695ab7a3&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/01/luis-enrique-martinez-el-barca-y-el-psg-son-claros-candidatos-a-ganar-la-champions/",
+        "date": "2025-10-01 22:15:54",
+        "sentiment_score": 0.5489021986722946
+    },
+    {
+        "title": "Hamás dice que la intercepción israelí de la flotilla constituye un acto \"de piratería y terrorismo marítimo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/6K6UFX55UVFRZETIJDZIJDVO74.jpg?auth=2bf4237736ad25ba021163a6afac3359f13d28eb30bab9b8e85047073ac4896f&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/01/hamas-dice-que-la-intercepcion-israeli-de-la-flotilla-constituye-un-acto-de-pirateria-y-terrorismo-maritimo/",
+        "date": "2025-10-01 22:15:37",
+        "sentiment_score": -0.8724256670102477
+    },
+    {
+        "title": "Presidencia se pronunció por detención de las colombianas que iban en la flotilla Sumud: “Exigimos a Israel su inmediata liberación”",
+        "image_url": "https://www.infobae.com/resizer/v2/SYXHGTUAHVCRBKBLAZRQDQWQYM.png?auth=bd1f3b365dc4e9bfd14739be6fa35f4b03a869c5b6478687140fad2b8e85dfe6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "flotilla sumud",
+            "colombianas en israel",
+            "flotilla global sumud",
+            "manuela bedoya",
+            "conflicto entre israel y palestina",
+            "colombia-noticias",
+            "luna barreto",
+            "presidencia de la república",
+            "palestina"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/10/01/presidencia-se-pronuncio-por-detencion-de-las-colombianas-que-iban-en-la-flotilla-sumud-exigimos-a-israel-su-inmediata-liberacion/",
+        "date": "2025-10-01 22:08:19",
+        "sentiment_score": -0.6959870904684067
+    },
+    {
+        "title": "Las diferencias de renta media entre municipios alcanzan los 74.000 euros",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/8545880c064473cf892b09494bc6fa42/crop/0x0/2048x1365/resize/1200/f/webp/assets/multimedia/imagenes/2025/10/01/17593467197755.jpg",
+        "tags": [
+            "economía>",
+            "artículos juande portillo>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/10/02/68dd8031468aebde4f8b459e.html",
+        "date": "2025-10-01 22:08:00",
+        "sentiment_score": 0.6951717101037502
+    },
+    {
+        "title": "Flick: «El PSG es un equipazo y ha merecido ganar»",
+        "image_url": "https://okdiario.com/img/2025/10/01/imagen_recortada-2-1.jpg",
+        "tags": [
+            "deportes",
+            "paris saint-germain (psg)",
+            "fc barcelona",
+            "hansi flick",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/flick-psg-equipazo-merecido-ganar-15511355",
+        "date": "2025-10-01 22:06:01",
+        "sentiment_score": 0.517069935798645
+    },
+    {
+        "title": "Antin contrata a Société Générale para vender Indaqua",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/532adceecf1e0e9a4cf1ae618779577b/crop/256x0/1812x1038/resize/1200/f/webp/assets/multimedia/imagenes/2025/10/01/17593501199303.jpg",
+        "tags": [
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/empresas/2025/10/02/68dd8d82468aebae428b45a2.html",
+        "date": "2025-10-01 22:05:49",
+        "sentiment_score": -0.45837049186229706
+    },
+    {
+        "title": "El 'no' de Podemos a la ley de movilidad sostenible pone en riesgo 10.000 millones de fondos europeos",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/10/82e80d2ce274155a37ebd47e974e4f0846068488-1440x808.jpg",
+        "tags": [
+            "españa",
+            "movilidad",
+            "congreso de los diputados",
+            "pedro sánchez",
+            "ione belarra",
+            "transportes",
+            "podemos",
+            "israel",
+            "guerra israel hamás",
+            "óscar puente",
+            "fondos europeos",
+            "partido popular (pp)",
+            "gobierno de españa",
+            "partido socialista obrero español (psoe)"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/10/02/el-no-de-podemos-a-la-ley-de-movilidad-sostenible-pone-en-riesgo-10-000-millones-de-fondos-europeos/",
+        "date": "2025-10-01 22:05:46",
+        "sentiment_score": -0.9261280978098512
+    },
+    {
+        "title": "Israel intercepta tres barcos de la Global Sumud Flotilla, entre ellos el de Colau",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/202510/01/media/cortadas/israel-intercepta-tres-barcos-global-sumud-flotilla-20251001215505-vi--224x126.jpg",
+        "tags": [
+            "intercepta",
+            "colau",
+            "ellos",
+            "flotilla",
+            "barcos",
+            "israel",
+            "sumud",
+            "tres",
+            "global",
+            "entre"
+        ],
+        "link": "https://www.elcomercio.es/internacional/israel-intercepta-tres-barcos-global-sumud-flotilla-20251001215505-vi.html",
+        "date": "2025-10-01 22:05:06",
+        "sentiment_score": -0.6345054619014263
+    },
+    {
+        "title": "¿Cómo quedarían los cruces de Champions League si la fase de liga terminara hoy?",
+        "image_url": "https://pxcdn.meridiano.net/102025/1759356058408.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/como-quedarian-los-cruces-de-champions-league-si-la-fase-de-liga-terminara-hoy--20251011840",
+        "date": "2025-10-01 22:04:00",
+        "sentiment_score": 0.1706269271671772
+    },
+    {
+        "title": "Solicitud de actas de nacimiento en Nueva York: precio y requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759329027054.jpg?ch=675&cw=1200",
+        "tags": [
+            "documentos",
+            "nueva york",
+            "acta de nacimiento",
+            "trámites"
+        ],
+        "link": "https://2001online.com/usa/servicios/solicitud-de-actas-de-nacimiento-en-nueva-york-precio-y-requisitos-20251011850",
+        "date": "2025-10-01 22:05:00",
+        "sentiment_score": -0.28880585357546806
+    },
+    {
+        "title": "Lucha contra el cáncer de mama en EEUU: estas ONG brindan apoyo económico y exámenes gratuitos",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "ong",
+            "eeuu",
+            "cáncer de mama"
+        ],
+        "link": "https://2001online.com/usa/servicios/lucha-contra-el-cancer-de-mama-en-eeuu-estas-ong-brindan-apoyo-economico-y-examenes-gratuitos-20251011800",
+        "date": "2025-10-01 22:00:00",
+        "sentiment_score": -0.6330264508724213
+    },
+    {
+        "title": "Conozca el sistema Gaagle usado en escuelas de Estados Unidos: detecta búsquedas extrañas en internet",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759327057589.jpg?ch=675&cw=1200",
+        "tags": [
+            "escuelas",
+            "ia",
+            "internet"
+        ],
+        "link": "https://2001online.com/usa/servicios/conozca-el-sistema-gaagle-usado-en-escuelas-de-estados-unidos-detecta-busquedas-extranas-en-internet-202510117450",
+        "date": "2025-10-01 21:45:00",
+        "sentiment_score": 0.18147148005664349
+    },
+    {
+        "title": "Operativo masivo de ICE en Nueva Jersey: ¿Qué negocios fueron el blanco de los 50 arrestos?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759354250615.jpg?ch=675&cw=1200",
+        "tags": [
+            "inmigrante herido",
+            "nueva jersey",
+            "redadas ice"
+        ],
+        "link": "https://2001online.com/usa/internacionales/operativo-masivo-de-ice-en-nueva-jersey-que-negocios-fueron-el-blanco-de-los-50-arrestos--202510117290",
+        "date": "2025-10-01 21:29:00",
+        "sentiment_score": -0.7766690161079168
+    },
+    {
+        "title": "Bancamiga impulsa el fútbol femenino venezolano rumbo a la Copa Libertadores 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759353926453.jpg?ch=675&cw=1200",
+        "tags": [
+            "fútbol femenino",
+            "venezuela",
+            "copa libertadores 2025",
+            "adiffem",
+            "bancamiga"
+        ],
+        "link": "https://2001online.com/servicios/bancamiga-impulsa-el-futbol-femenino-venezolano-rumbo-a-la-copa-libertadores-2025-202510117290",
+        "date": "2025-10-01 21:29:00",
+        "sentiment_score": 0.6287530492991209
+    },
+    {
+        "title": "UNICEF Venezuela y Fundación LASER Unen Esfuerzos por la Niñez Venezolana",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759353688175.jpg?ch=675&cw=1200",
+        "tags": [
+            "unicef",
+            "fundalaser"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/unicef-venezuela-y-fundacion-laser-unen-esfuerzos-por-la-ninez-venezolana-202510117230",
+        "date": "2025-10-01 21:23:00",
+        "sentiment_score": 0.24253201484680176
+    },
+    {
+        "title": "Fallece Jane Goodall, la mujer que nos enseñó a hablar con los chimpancés: legado y honores",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "etiologa",
+            "legado",
+            "primates",
+            "chimpancés",
+            "jane goodall"
+        ],
+        "link": "https://2001online.com/internacionales/fallece-jane-goodall-la-mujer-que-nos-enseno-a-hablar-con-los-chimpances-legado-y-honores--202510117150",
+        "date": "2025-10-01 21:15:00",
+        "sentiment_score": 0.43137944117188454
+    },
+    {
+        "title": "Petro expulsa la delegación diplomática de Israel: denuncia crimen internacional de Natanyahu",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759352816619.jpg?ch=675&cw=1200",
+        "tags": [
+            "colombia",
+            "israel",
+            "petro",
+            "gustavo petro"
+        ],
+        "link": "https://2001online.com/internacionales/petro-expulsa-la-delegacion-diplomatica-de-israel-denuncia-crimen-internacional-de-natanyahu-202510117110",
+        "date": "2025-10-01 21:11:00",
+        "sentiment_score": -0.8160722255706787
+    },
+    {
+        "title": "PepsiCo Venezuela lanza promoción 'El que busca ¡Gana!'",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759352948461.jpg?ch=675&cw=1200",
+        "tags": [
+            "pepsico"
+        ],
+        "link": "https://2001online.com/agenda-personal/pepsico-venezuela-lanza-promocion-el-que-busca-gana--202510117110",
+        "date": "2025-10-01 21:11:00",
+        "sentiment_score": -0.05501154810190201
+    },
+    {
+        "title": "La estafa de los dólares por WhatsApp: así operaba una mujer en Cumaná antes de ser detenida",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759351316593.jpg?ch=675&cw=1200",
+        "tags": [
+            "cumaná",
+            "estafa",
+            "sucre",
+            "divisas",
+            "dólares",
+            "estafa con divisas"
+        ],
+        "link": "https://2001online.com/sucesos/la-estafa-de-los-dolares-por-whatsapp-asi-operaba-una-mujer-en-cumana-antes-de-ser-detenida-20251011720",
+        "date": "2025-10-01 21:02:00",
+        "sentiment_score": -0.022244170308113098
     }
 ];
