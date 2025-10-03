@@ -163,47 +163,6 @@ export default [
         "sentiment_score": -0.0649140328168869
     },
     {
-        "title": "La Comunidad de Madrid detecta 40 casos de fallos en pulseras contra la violencia de género",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/09/29/1468571257-RwabcaRS6RSBaXQFTxkXBJJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "comunidad",
-            "genero",
-            "detecta",
-            "fallos",
-            "pulseras",
-            "casos",
-            "madrid",
-            "violencia"
-        ],
-        "link": "https://www.abc.es/espana/madrid/comunidad-madrid-detecta-casos-fallos-pulseras-violencia-20250929125322-nt.html",
-        "date": "2025-09-29 10:54:47",
-        "sentiment_score": -0.15278400480747223
-    },
-    {
-        "title": "Moreno sugiere que conocer el español sea requisito para residir en España y avisa del «efecto llamada» de los subsidios",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/29/andalucia-moreno-inmigracion-RB82kM0WptXCzFZ9eRJMwPK-1200x840@diario_abc.JPG",
-        "tags": [
-            "andalucía",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/moreno-sugiere-conocer-espanol-requisito-residir-espana-20250929122259-nts.html",
-        "date": "2025-09-29 10:27:23",
-        "sentiment_score": -0.19079527258872986
-    },
-    {
-        "title": "Necesitamos una nueva ONU",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/09/29/cartas-director-1200x630(1)-U20243401420iME-1200x630@diario_abc.jpg",
-        "tags": [
-            "escritores",
-            "pedro sánchez",
-            "estados unidos",
-            "onu"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-necesitamos-nueva-onu-20250929122556-nt.html",
-        "date": "2025-09-29 10:25:56",
-        "sentiment_score": -0.0672832727432251
-    },
-    {
         "title": "Interior rescinde oficialmente el contrato a la empresa israelí que iba a suministrar balas a la Guardia Civil",
         "image_url": "https://imagenes.elpais.com/resizer/v2/YHT5RMBQSBHMZBUFSYGPGTIPMY.jpg?auth=8799d25c3b5cab68f6d4ada0c895e5ba26f5b02bf973586c4fcd96ae3c0bf8da&width=1200",
         "tags": [
@@ -273,109 +232,6 @@ export default [
         "link": "https://elpais.com/espana/2025-09-29/la-fiscalia-europea-pide-al-supremo-que-le-informe-sin-dilacion-sobre-los-contratos-de-obra-investigados-en-el-caso-cerdan.html",
         "date": "2025-09-29 14:48:30",
         "sentiment_score": -0.2142317295074463
-    },
-    {
-        "title": "El incendio de Guadalajara se estabiliza con 3.000 hectáreas quemadas y entre quejas por la falta de medios",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VAFMEAB63BE3PMRV2N6ADQ7Y5Q.jpg?auth=a37d25a96f557f50bfb22776e06db6c3a56994c49ef93701124ae874bd767eaf&width=1200",
-        "tags": [
-            "españa",
-            "castilla-la mancha",
-            "incendios forestales",
-            "segovia",
-            "guadalajara",
-            "incendios",
-            "desastres naturales",
-            "castilla y león",
-            "bomberos"
-        ],
-        "link": "https://elpais.com/espana/2025-09-29/el-incendio-de-guadalajara-se-estabiliza-con-3000-hectareas-quemadas-y-entre-quejas-por-la-falta-de-medios.html",
-        "date": "2025-09-29 13:58:43",
-        "sentiment_score": -0.8710621185600758
-    },
-    {
-        "title": "La exdirectora del CNI reitera que no puede declarar sobre el espionaje a ERC",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Z25UQTG2X5GJLGYWDMCC67OQRE.jpg?auth=3b456a90c57d5adf33f132463a26012c8542577a4cd59a1950fd12b4d5a307e9&width=1200",
-        "tags": [
-            "juicio oral",
-            "pegasus software",
-            "procés constituent (movimiento social)",
-            "caso pegasus",
-            "españa",
-            "barcelona",
-            "paz esteban",
-            "cni"
-        ],
-        "link": "https://elpais.com/espana/2025-09-29/la-exdirectora-del-cni-reitera-que-no-puede-declarar-sobre-el-espionaje-a-erc.html",
-        "date": "2025-09-29 13:46:17",
-        "sentiment_score": -0.6660895850509405
-    },
-    {
-        "title": "La línea 9 del Metro quedará conectada en 2031 tras 30 años de obras",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5HBCN5L54JL2BOXZU3YP3JQF6Q.jpg?auth=9b05ac22b00dae7c10021b8ac175dbd21400b8838231350a5e3fb96513ac41a4&width=1200",
-        "tags": [
-            "obras ampliación",
-            "barcelona",
-            "cataluña",
-            "metro",
-            "salvador illa",
-            "túneles ferrocarril",
-            "jaume collboni",
-            "infraestructuras del transporte"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-09-29/la-linea-9-del-metro-quedara-conectada-en-2031-tras-30-anos-de-obras.html",
-        "date": "2025-09-29 12:51:15",
-        "sentiment_score": 0.15587389469146729
-    },
-    {
-        "title": "Radiografía de los CIE: 1.863 personas fueron internadas en 2024, la mayoría sin condenas previas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FSDWJAIXCNED3CSXULDUKL7ZDI.jpg?auth=46edc766a0ab973b673b6ae7e0283c53e8958d4fee0734594f86800bf5dc36eb&width=1200",
-        "tags": [
-            "inmigración",
-            "inmigrantes",
-            "cie",
-            "colombia",
-            "ministerio del interior",
-            "expulsión inmigrantes",
-            "marruecos",
-            "justicia",
-            "españa",
-            "inmigración irregular"
-        ],
-        "link": "https://elpais.com/espana/2025-09-29/radiografia-de-los-cie-1863-personas-fueron-internadas-en-2024-la-mayoria-sin-condenas-previas.html",
-        "date": "2025-09-29 12:27:22",
-        "sentiment_score": -0.7230225205421448
-    },
-    {
-        "title": "“Somos peregrinos”: la coartada inverosímil de los tripulantes de un narcosubmarino tras descargar en A Coruña 3,6 toneladas de coca",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CY2UPJAZVRKFZMZ3UAKXE3JZVM.jpg?auth=9f9b1412e55b0bd9470c54dbef876a22b493140ae23c45ef54789019b4b0b7e6&width=1200",
-        "tags": [
-            "a coruña",
-            "narcotráfico",
-            "detenciones",
-            "narcotraficantes",
-            "galicia",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/galicia/2025-09-29/somos-peregrinos-la-coartada-inverosimil-de-los-tripulantes-de-un-narcosubmarino-tras-descargar-en-a-coruna-36-toneladas-de-coca.html",
-        "date": "2025-09-29 12:00:30",
-        "sentiment_score": -0.44784777984023094
-    },
-    {
-        "title": "La exconsejera de Mazón investigada en la dana pide dejar de estar imputada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IG253EINOBGZTLGZALCO3TNKSY.jpg?auth=ca72418b7fd95135afe823370721866a6f15c3ee3cacfab8fe3211a093542d26&width=1200",
-        "tags": [
-            "dana",
-            "catástrofes",
-            "carlos mazón",
-            "inundaciones",
-            "comunidad valenciana",
-            "valencia",
-            "tribunales",
-            "salomé pradas"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-09-29/la-exconsejera-de-mazon-investigada-en-la-dana-pide-dejar-de-estar-imputada.html",
-        "date": "2025-09-29 11:38:38",
-        "sentiment_score": -0.3496071696281433
     },
     {
         "title": "La Justicia reconoce el derecho a la sanidad a la viuda de un Regular",
@@ -8560,5 +8416,454 @@ export default [
         "link": "https://2001online.com/usa/servicios/nueva-tarifa-anual-de-asilo-en-eeuu-cuando-deben-comenzar-los-migrantes-a-pagar-la-obligacion--202510216550",
         "date": "2025-10-02 20:55:00",
         "sentiment_score": 0.07747496291995049
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Madrid este viernes",
+        "image_url": "https://www.infobae.com/resizer/v2/SHCTZRUOZVCJ3C2ZRHB3GXGZRA.png?auth=ccfd03e6d0570fe037ed9c51f84a1eba2b9ea17709785368392c6852d3f305ce&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "madrid",
+            "noticias",
+            "tiempo en españa",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/03/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-madrid-este-viernes/",
+        "date": "2025-10-03 01:30:38",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "España: las predicciones del tiempo en Barcelona este 3 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "noticias",
+            "españa sociedad",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/03/espana-las-predicciones-del-tiempo-en-barcelona-este-3-de-octubre/",
+        "date": "2025-10-03 01:16:18",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "La Flotilla no ha conseguido llegar a Gaza, pero tampoco ha fracasado: la intercepción de los activistas desata protestas multitudinarias en todo el mundo",
+        "image_url": "https://www.infobae.com/resizer/v2/6CEFDMR2JFDJPL4PEYCRYRGUNY.JPG?auth=c07922c4911752d75a2aae96497a69b26a51adf763594c24ce6d57afe4d155ed&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "podemos",
+            "ada colau",
+            "españa-nacional",
+            "global sumud flotilla",
+            "palestina",
+            "israel",
+            "españa-internacional",
+            "gaza",
+            "fuerzas de defensa de israel",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/02/la-flotilla-no-ha-conseguido-llegar-a-gaza-pero-tampoco-ha-fracasado-la-intercepcion-de-los-activistas-desata-protestas-multitudinarias-en-todo-el-mundo/",
+        "date": "2025-10-02 23:55:14",
+        "sentiment_score": -0.5613644570112228
+    },
+    {
+        "title": "Gobierno defendió a funcionaria que protagonizó incidente en España con el presidente de Analdex: “En pleno ejercicio de sus funciones”",
+        "image_url": "https://www.infobae.com/resizer/v2/TLM4NCKQURCRPBZHYZVNFHJ3HI.jpg?auth=67406e13b5f377ac66360a856497582275c08a3a282dc5325316b609325d1ed9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "colombia-economía",
+            "procolombia",
+            "colombia-noticias",
+            "feria de las frutas de madrid",
+            "gustavo petro",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/10/02/gobierno-defendio-a-funcionaria-que-protagonizo-incidente-en-espana-con-el-presidente-de-analdex-en-pleno-ejercicio-de-sus-funciones/",
+        "date": "2025-10-02 23:23:52",
+        "sentiment_score": 0.06446883827447891
+    },
+    {
+        "title": "Cupón Diario de la Once: comprueba los ganadores del 2 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cupón diario",
+            "españa-loterías",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/02/cupon-diario-de-la-once-comprueba-los-ganadores-del-2-de-octubre/",
+        "date": "2025-10-02 23:15:30",
+        "sentiment_score": 0.244596179574728
+    },
+    {
+        "title": "Al Haddad, jefe militar de Hamás e ideólogo de los ataques del 7 de octubre, principal obstáculo al acuerdo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/02/hamas_20251002190836-RxM1lDZmrwr3mNdhkV9LfEJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "hamás",
+            "israel",
+            "benjamín netanyahu",
+            "gaza",
+            "tel aviv",
+            "donald trump"
+        ],
+        "link": "https://www.abc.es/internacional/haddad-jefe-militar-hamas-ideologo-ataques-octubre-20251002201210-nt.html",
+        "date": "2025-10-03 01:13:40",
+        "sentiment_score": -0.12444758415222168
+    },
+    {
+        "title": "El Real Madrid aplasta al Olympiacos en el último cuarto y ya gana en la Euroliga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/10/03/68df2e7acf6a0.r_d.3512-1185-2034.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20251003/real-madrid-aplasta-olympiacos-ultimo-cuarto-gana-euroliga_340604.html",
+        "date": "2025-10-03 02:01:46",
+        "sentiment_score": 0.21277932822704315
+    },
+    {
+        "title": "Defensa compró a Israel material militar después de que el Gobierno aprobase el decreto del embargo de armas",
+        "image_url": "https://s2.elespanol.com/2025/10/02/actualidad/1003743952391_259139663_1706x960.jpg",
+        "tags": [
+            "conflicto palestino-israelí",
+            "fuerzas armadas",
+            "ministerio de defensa",
+            "pedro sánchez",
+            "israel",
+            "margarita robles",
+            "palestina",
+            "industria armamentística",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/espana/20251003/defensa-compro-israel-material-militar-despues-gobierno-aprobase-decreto-embargo-armas/1003743952070_0.html",
+        "date": "2025-10-03 01:38:48",
+        "sentiment_score": -0.403069369494915
+    },
+    {
+        "title": "La historia de Lamine Yamal, el chico del FC Barcelona que desde la cima nunca se olvida del barrio que lo vio nacer",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/10/02/lamine-yamal-historia-barcelona-masia-orix/",
+        "date": "2025-10-03 01:03:42",
+        "sentiment_score": 0.024764686822891235
+    },
+    {
+        "title": "La derecha española no siempre se ha llevado tan bien con Israel",
+        "image_url": "https://s2.elespanol.com/2025/09/30/actualidad/1003743948325_259086739_1706x960.jpg",
+        "tags": [
+            "felipe gonzález",
+            "tribunas",
+            "israel",
+            "derecha (ideología)",
+            "tribunas de opinión",
+            "adolfo suárez",
+            "opinión",
+            "partido popular (pp)",
+            "conflicto palestino-israelí"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20251002/derecha-espanola-no-siempre-llevado-bien-israel/1003743948263_12.html",
+        "date": "2025-10-02 23:58:43",
+        "sentiment_score": -0.6056896615773439
+    },
+    {
+        "title": "El Real Madrid marca el camino al Barça de Laporta con la expansión internacional: hamburguesas por el mundo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/03/culemania/palco/1003742694266_15234828_1706x960.jpg",
+        "tags": [
+            "real madrid",
+            "palco",
+            "restauración",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251002/real-madrid-barca-laporta-expansion-internacional-hamburguesas/1003742694133_0.html",
+        "date": "2025-10-02 23:42:35",
+        "sentiment_score": 0.5683652050793171
+    },
+    {
+        "title": "La última vía de negocio de Laporta en el nuevo Camp Nou: experiencia para turistas en la Grada d'Animació",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/23/culemania/1003742691358_15194988_1706x960.jpg",
+        "tags": [
+            "palco",
+            "joan laporta",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251002/laporta-camp-nou-experiencia-turistas-grada-danimacio/1003742692956_0.html",
+        "date": "2025-10-02 23:42:09",
+        "sentiment_score": 0.52164126932621
+    },
+    {
+        "title": "Flora González, tres meses después de ser madre: \"La depresión posparto es real y se debería hablar con naturalidad\"",
+        "image_url": "https://s2.elespanol.com/2025/04/21/actualidad/1003743722643_254933082_1706x960.jpg",
+        "tags": [
+            "famosos",
+            "maternidad",
+            "mediaset",
+            "entrevistas"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251002/flora-gonzalez-meses-despues-madre-depresion-posparto-real-deberia-hablar-naturalidad/1003743949660_0.html",
+        "date": "2025-10-02 23:33:00",
+        "sentiment_score": 0.0903201773762703
+    },
+    {
+        "title": "Juanma castaño pide seguir convocando a Cucurella y Grimaldo por delante de Carreras: \"Están a un nivel altísimo\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/03/68df0a7ac0e55.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-pide-seguir-convocando-cucurella-grimaldo-delante-carreras-nivel-altisimo-20251003_3225444.html",
+        "date": "2025-10-02 23:28:16",
+        "sentiment_score": -0.05899348855018616
+    },
+    {
+        "title": "Olala! amplía a 250 millones de euros su inversión para crecer en los próximos dos años",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2025/10/Ittai-Savran-1024x774.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/olala-amplia-a-250-millones-de-euros-su-inversion-para-crecer-en-los-proximos-dos-anos/",
+        "date": "2025-10-02 23:23:56",
+        "sentiment_score": 0.22838616371154785
+    },
+    {
+        "title": "​​España peligrosamente cerca de Pekín, según los números",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2025/10/xi-sanchez-bn-1-700x394.jpg",
+        "tags": [
+            "españa",
+            "portada",
+            "pekin"
+        ],
+        "link": "https://www.alertadigital.com/2025/10/03/espana-peligrosamente-cerca-de-pekin-segun-los-numeros/",
+        "date": "2025-10-02 23:07:44",
+        "sentiment_score": -0.12963059544563293
+    },
+    {
+        "title": "El secreto de la riqueza de Aigües: el pequeño pueblo en el 'top 10' con más renta de España",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/10/02/68de9d51da16b.r_d.893-647-6250.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20251003/secreto-riqueza-aigues-pequeno-pueblo-top-10-renta-espana_340398.html",
+        "date": "2025-10-03 02:00:00",
+        "sentiment_score": 0.48368389904499054
+    },
+    {
+        "title": "Seis minutos que emocionan: el videoclip que homenajea a todos los que viven fuera y echan de menos Córdoba",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/09/30/68db0c43aa96a.r_d.890-503-7495.png",
+        "tags": [
+            "córdoba - sociedad"
+        ],
+        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/sociedad/20251003/seis-minutos-emocionan-videoclip-homenajea-todos-viven-fuera-echan-menos-cordoba_339389.html",
+        "date": "2025-10-03 02:00:00",
+        "sentiment_score": 0.5675931498408318
+    },
+    {
+        "title": "Colau, dos etarras, el mantero de Podemos o la influencer Ana Alcalde: los 40 españoles de la Flotilla detenidos por Israel",
+        "image_url": "https://s2.elespanol.com/2025/10/02/actualidad/1003743952341_259138831_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "conflicto palestino-israelí",
+            "ejército",
+            "franja de gaza",
+            "israel",
+            "armada española"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251003/colau-etarras-mantero-podemos-influencer-ana-alcalde-espanoles-flotilla-detenidos-israel/1003743951663_0.html",
+        "date": "2025-10-03 01:38:42",
+        "sentiment_score": -0.7905025603249669
+    },
+    {
+        "title": "ERC celebra la imputación de 3 directivos israelíes de Pegasus: \"Acredita que nos espiaron y el concurso necesario del Estado\"",
+        "image_url": "https://s2.elespanol.com/2021/06/14/espana/politica/588951918_189938115_1706x960.jpg",
+        "tags": [
+            "erc esquerra republicana de cataluña",
+            "cni",
+            "oriol junqueras",
+            "política",
+            "espionaje",
+            "israel",
+            "erc",
+            "república catalana",
+            "pere aragonès"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251003/erc-celebra-imputacion-directivos-israelies-pegasus-acredita-espiaron-concurso-necesario/1003743951235_0.html",
+        "date": "2025-10-03 01:38:36",
+        "sentiment_score": -0.8352721463888884
+    },
+    {
+        "title": "Inmigración: el PP enseña sus cartas",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cartas",
+            "ensena",
+            "pp",
+            "inmigracion"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/editorial/inmigracion-pp-ensena-cartas_0_2004936133.html",
+        "date": "2025-10-03 01:07:01",
+        "sentiment_score": -0.10339920222759247
+    },
+    {
+        "title": "Charles Pickel, convocado con la RD Congo para los próximos compromisos internacionales",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/09/pickel-espanyol-valencia-750x422.jpg",
+        "tags": [
+            "charles pickel",
+            "rd del congo",
+            "primer equipo y club",
+            "espanyol",
+            "rinternacional"
+        ],
+        "link": "https://www.lagradaonline.com/charles-pickel-convocado-rd-congo-octubre-2025/",
+        "date": "2025-10-03 01:00:37",
+        "sentiment_score": 0.23758260160684586
+    },
+    {
+        "title": "Multitudinarias manifestaciones en el Estado español en defensa de la flotilla y contra el genocidio",
+        "image_url": "https://www.laizquierdadiario.com/IMG/logo/colage_2-2.jpg?1759455226=",
+        "tags": [
+            "world"
+        ],
+        "link": "https://www.laizquierdadiario.com/Multitudinarias-manifestaciones-en-el-Estado-espanol-en-defensa-de-la-flotilla-y-contra-el",
+        "date": "2025-10-03 00:50:03",
+        "sentiment_score": -0.8445659801363945
+    },
+    {
+        "title": "Protestas en Europa por la interceptación israelí de la Flotilla Sumud con ayuda para Gaza",
+        "image_url": "https://www.infobae.com/resizer/v2/6XIKGABAQZFHTFBYU52HTOSJGA.JPG?auth=dd8b15d484e1372f846d19403f246af7fca738e3fd83980bfa5e9b98882d8b03&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "italia",
+            "flotilla sumud",
+            "protesta",
+            "últimas noticias américa",
+            "gaza",
+            "hamas",
+            "israel",
+            "grecia",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2025/10/03/protestas-en-europa-por-la-interceptacion-israeli-de-la-flotilla-sumud-con-ayuda-para-gaza/",
+        "date": "2025-10-03 00:41:45",
+        "sentiment_score": -0.5899888575077057
+    },
+    {
+        "title": "Sujeto arrolla un motorizado en la Panamericana y se da a la fuga: así decidió actuar la Fiscalía",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "moto",
+            "venezuela",
+            "diario 2001",
+            "miranda"
+        ],
+        "link": "https://2001online.com/sucesos/sujeto-arrolla-un-motorizado-en-la-panamericana-y-se-da-a-la-fuga-asi-decidio-actuar-la-fiscalia-20251022220",
+        "date": "2025-10-03 02:02:00",
+        "sentiment_score": -0.18609197065234184
+    },
+    {
+        "title": "Búsqueda de detenidos por el ICE en EEUU: conoce la.nueva herramienta de ayuda de esta ONG",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "illinois",
+            "ice",
+            "detenidos"
+        ],
+        "link": "https://2001online.com/usa/servicios/busqueda-de-detenidos-por-el-ice-en-eeuu-conoce-la-nueva-herramienta-de-ayuda-de-esta-ong-20251022200",
+        "date": "2025-10-03 02:00:00",
+        "sentiment_score": 0.5477556865662336
+    },
+    {
+        "title": "La rutina de maquillaje de Ariana Grande que puedes copiar: simples pasos para lucir hermosa",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759337290823.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/la-rutina-de-maquillaje-de-ariana-grande-que-puedes-copiar-simples-pasos-para-lucir-hermosa-20251022200",
+        "date": "2025-10-03 02:00:00",
+        "sentiment_score": 0.5585574246942997
+    },
+    {
+        "title": "El emotivo mensaje del Señor Barriga a La Chilindrina: ¿qué dijo Edgar Vivar sobre la salud de su excompañera?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759460365593/IMG_0690.jpeg?ch=675&cw=1200",
+        "tags": [
+            "el chavo del 8",
+            "maría antonieta de las nieves",
+            "edgar vivar"
+        ],
+        "link": "https://2001online.com/farandula/el-emotivo-mensaje-del-senor-barriga-a-la-chilindrina-que-dijo-edgar-vivar-sobre-la-salud-de-su-excompanera--202510221450",
+        "date": "2025-10-03 01:45:00",
+        "sentiment_score": 0.4932963103055954
+    },
+    {
+        "title": "Papa León XIV elogia a José Gregorio Hernández: estas fueron sus palabras en el Vaticano",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "canonization carlo acutis",
+            "josé gregorio hernández",
+            "papa león xiv"
+        ],
+        "link": "https://2001online.com/internacionales/papa-leon-xiv-elogia-a-jose-gregorio-hernandez-estas-fueron-sus-palabras-en-el-vaticano-202510221300",
+        "date": "2025-10-03 01:30:00",
+        "sentiment_score": 0.5558164268732071
+    },
+    {
+        "title": "Mamografías gratis en Chicago: ¿Quién es elegible para la prueba que ofrece Silver Lining?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759454797314.jpg?ch=675&cw=1200",
+        "tags": [
+            "chicago",
+            "jornadas de mamografía"
+        ],
+        "link": "https://2001online.com/usa/servicios/mamografias-gratis-en-chicago-quien-es-elegible-para-la-prueba-que-ofrece-silver-lining--202510221260",
+        "date": "2025-10-03 01:26:00",
+        "sentiment_score": -0.05287257581949234
+    },
+    {
+        "title": "Saime responde: ¿Cómo tramitar los datos filiatorios por la página web?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "web del saime",
+            "servicio administrativo de identificación, migración y extranjería",
+            "saime",
+            "datos filiatorios"
+        ],
+        "link": "https://2001online.com/servicios/saime-responde-como-tramitar-los-datos-filiatorios-por-la-pagina-web--20251022190",
+        "date": "2025-10-03 01:09:00",
+        "sentiment_score": 0.1341167353093624
+    },
+    {
+        "title": "El equipo de la capital: historia y dinastía de los Leones del Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759453819808.jpg?ch=675&cw=1200",
+        "tags": [
+            "navegantes del magallanes",
+            "cervecería caracas",
+            "leones del caracas",
+            "capital venezolana",
+            "magallanes",
+            "lvbp",
+            "caracas"
+        ],
+        "link": "https://2001online.com/deportes/el-equipo-de-la-capital-historia-y-dinastia-de-los-leones-del-caracas-20251022200",
+        "date": "2025-10-03 01:06:45",
+        "sentiment_score": 0.8547709211707115
+    },
+    {
+        "title": "ICE list: la controversial página que expone a agentes migratorios y responsables de deportaciones en EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "ice",
+            "controversia",
+            "lista"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ice-list-la-controversial-pagina-que-expone-a-agentes-migratorios-y-responsables-de-deportaciones-en-eeuu-20251022100",
+        "date": "2025-10-03 01:00:00",
+        "sentiment_score": 0.03270993381738663
+    },
+    {
+        "title": "Maduro anuncia \"ejercicio especial de carácter organizativo\" en el país: conozca cuándo y de qué trata",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "fanb",
+            "diario 2001",
+            "milicia bolivariana",
+            "venezuela",
+            "eeuu",
+            "militares"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-ejercicio-especial-de-caracter-organizativo-en-el-pais-conozca-cuando-y-de-que-trata-202510220340",
+        "date": "2025-10-03 00:34:00",
+        "sentiment_score": -0.6051856987178326
     }
 ];
