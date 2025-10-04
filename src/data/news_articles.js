@@ -176,70 +176,6 @@ export default [
         "sentiment_score": -0.05737464129924774
     },
     {
-        "title": "El PP exigirá en los ayuntamientos «la dimisión inmediata» de Ana Redondo por los fallos en las pulseras antimaltrato",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/09/30/pp-igualdad-Rezh5igs15JWcrs9soJNwKN-1200x840@diario_abc.jpg",
-        "tags": [
-            "castilla y león",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/castilla-leon/pp-exigira-ayuntamientos-dimision-inmediata-ana-redondo-20250930141354-nt.html",
-        "date": "2025-09-30 12:13:54",
-        "sentiment_score": -0.1053544133901596
-    },
-    {
-        "title": "Ayuso exhibe la fuerza de Madrid, que representa ya el 19,8% de la economía nacional",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/09/30/1501181933-Rve4KPfinxhO3EOj9CphiUL-1200x840@diario_abc.jpg",
-        "tags": [
-            "madrid",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/madrid/ayuso-exhibe-fuerza-madrid-representa-198-ciento-20250930140750-nt.html",
-        "date": "2025-09-30 12:08:53",
-        "sentiment_score": 0.45968373119831085
-    },
-    {
-        "title": "Eslovaquia reforma la constitución para subordinar el derecho comunitario a las leyes nacionales",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/09/30/robertfico-kYhF-U701673316419IlE-1200x840@diario_abc.jpg",
-        "tags": [
-            "eslovaquia",
-            "pone",
-            "coto",
-            "derecho",
-            "comunitario"
-        ],
-        "link": "https://www.abc.es/internacional/eslovaquia-reforma-constitucion-subordinar-derecho-comunitario-leyes-20250930135645-nt.html",
-        "date": "2025-09-30 11:56:45",
-        "sentiment_score": -0.10535323619842529
-    },
-    {
-        "title": "Andalucía creció un 3,4% en 2024, una décima por debajo de la media nacional, según el INE",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/09/30/fotonoticia_20250930124747_1920-RxGOlzu8xdk84iL264b9IZP-1200x840@diario_abc.jpg",
-        "tags": [
-            "segun",
-            "2024",
-            "nacional",
-            "andalucia",
-            "debajo",
-            "crecio",
-            "ine",
-            "decima",
-            "media"
-        ],
-        "link": "https://www.abc.es/sevilla/economia/andalucia-crecio-2024-decima-debajo-media-nacional-20250930134240-nts.html",
-        "date": "2025-09-30 11:43:08",
-        "sentiment_score": -0.1405971497297287
-    },
-    {
-        "title": "El euríbor sube por segundo mes consecutivo al 2,17% ante el frenazo del BCE a las bajadas de tipos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/09/30/edificio-construccion-RXCE0GzZJNygVEuBvMvATuN-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/euribor-sube-segundo-mes-consecutivo-217-ante-20250930115906-nt.html",
-        "date": "2025-09-30 10:24:45",
-        "sentiment_score": 0.10952945053577423
-    },
-    {
         "title": "Sánchez y Feijóo coinciden por primera vez en la acogida al plan de paz pero mantienen sus diferencias sobre Gaza",
         "image_url": "https://imagenes.elpais.com/resizer/v2/I2WOOXVZ7NNJ3NAPJBJRAOKL2U.jpg?auth=603ad6118a9911221b1122a5639c645593533aad200deb74140f53397efe2643&width=1200",
         "tags": [
@@ -8438,5 +8374,422 @@ export default [
         "link": "https://2001online.com/usa/internacionales/hamas-acepta-parte-del-plan-de-paz-de-trump-aunque-pide-negociar-algunos-detalles-20251031740",
         "date": "2025-10-03 21:04:00",
         "sentiment_score": -0.12619651854038239
+    },
+    {
+        "title": "Barcelona: la predicción del clima para este 4 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "noticias",
+            "tiempo en españa",
+            "españa sociedad",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/04/barcelona-la-prediccion-del-clima-para-este-4-de-octubre/",
+        "date": "2025-10-04 01:18:04",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Top de filmes imprescindibles para ver HOY en Netflix España",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "noticias",
+            "netflix",
+            "streaming",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/03/top-de-filmes-imprescindibles-para-ver-hoy-en-netflix-espana/",
+        "date": "2025-10-03 23:30:56",
+        "sentiment_score": 0.6659732554107904
+    },
+    {
+        "title": "La película más vista en Prime Video España HOY",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "películas",
+            "prime video",
+            "noticias",
+            "streaming",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/10/03/la-pelicula-mas-vista-en-prime-video-espana-hoy/",
+        "date": "2025-10-03 23:30:35",
+        "sentiment_score": 0.4771893825381994
+    },
+    {
+        "title": "Centenares de manifestantes marchan en Madrid por el barrio de Lavapiés en apoyo a Gaza: “Ayuso sionista, estás en nuestra lista”",
+        "image_url": "https://www.infobae.com/resizer/v2/I54BVLHMIJGLBEYHSZ4MWIM35E.jpg?auth=caaca372e7b3569927c4d41358f65323fd6328800f37df1481f312654c9ddd8b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-sociedad",
+            "comunidad de madrid",
+            "madrid",
+            "lavapies",
+            "manifestacion",
+            "global sumud flotilla",
+            "palestina",
+            "gaza",
+            "españa-noticias",
+            "manifestaciones"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/03/centenares-de-manifestantes-marchan-en-madrid-por-el-barrio-de-lavapies-en-apoyo-a-gaza-ayuso-sionista-estas-en-nuestra-lista/",
+        "date": "2025-10-03 23:02:52",
+        "sentiment_score": -0.7212615683674812
+    },
+    {
+        "title": "Las incógnitas del apagón no se despejan y dejan en el aire las indemnizaciones",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/10/04/1495769214-RdWRrzJyWkINZqulY8fDk5K-1200x840@diario_abc.JPG",
+        "tags": [
+            "energía",
+            "españa",
+            "red eléctrica"
+        ],
+        "link": "https://www.abc.es/economia/incognitas-apagon-despejan-dejan-aire-indemnizaciones-20251004040028-nt.html",
+        "date": "2025-10-04 02:00:29",
+        "sentiment_score": -0.10665552318096161
+    },
+    {
+        "title": "El Mallorca quiere seguir con pulso",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3499645.jpg",
+        "tags": [
+            "real mallorca",
+            "primera división",
+            "athletic club",
+            "fútbol",
+            "laliga",
+            "liga ea sports",
+            "ultimas noticias",
+            "rcd mallorca",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/10/04/2483739/mallorca-quiere-seguir-pulso.html",
+        "date": "2025-10-04 02:00:01",
+        "sentiment_score": -0.0875931978225708
+    },
+    {
+        "title": "Venta exprés de pisos en León: uno de cada cuatro compradores cierra la operación en menos de un mes",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/29/36/56/4/ventaexprespisosleon.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/venta-expres-pisos-en-leon-cada-cuatro-compradores-cierra-operacion-en-menos-mes_180298_102.html",
+        "date": "2025-10-04 02:00:00",
+        "sentiment_score": 0.6265078857541084
+    },
+    {
+        "title": "Los taxis autónomos están cerca de llegar a Europa: he montado en uno y así es la experiencia de viajar sin tener un conductor",
+        "image_url": "https://s2.elespanol.com/2025/10/02/omicrono/tecnologia/1003743951351_259125530_1706x960.jpg",
+        "tags": [
+            "españa",
+            "tecnología",
+            "coche autónomo"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20251004/taxis-autonomos-cerca-llegar-europa-montado-experiencia-viajar-sin-tener-conductor/1003743947038_0.html",
+        "date": "2025-10-04 01:16:48",
+        "sentiment_score": 0.04188418388366699
+    },
+    {
+        "title": "Burbujas inmobiliarias 2025",
+        "image_url": "https://s2.elespanol.com/2025/10/03/actualidad/1003743952819_259144816_1706x960.jpg",
+        "tags": [
+            "columnas de opinión",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20251004/burbujas-inmobiliarias/1003743952781_13.html",
+        "date": "2025-10-04 00:41:18",
+        "sentiment_score": 0.006645388901233673
+    },
+    {
+        "title": "Detrás de la caída de We are Knitters, la 'reina de las lanas': el plan que nunca funcionó y el golpe mortal tras la Covid",
+        "image_url": "https://s2.elespanol.com/2025/06/16/actualidad/1003743806717_256506442_1706x960.jpg",
+        "tags": [
+            "distribución",
+            "lana"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20251004/detras-caida-we-are-knitters-reina-lanas-plan-nunca-funciono-golpe-mortal-covid/1003743951365_0.html",
+        "date": "2025-10-04 00:41:16",
+        "sentiment_score": 0.5524948537349701
+    },
+    {
+        "title": "Atleti-La Cruz Villanovense y Dioce-Real Madrid protagonizan la jornada",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2025/10/04/205666943.jpg",
+        "tags": [
+            "madrid",
+            "cruz",
+            "diocereal",
+            "jornada",
+            "villanovense",
+            "protagonizan",
+            "atletila"
+        ],
+        "link": "https://www.hoy.es/deportes/mas-deportes/atletila-cruz-villanovense-diocereal-madrid-protagonizan-jornada-20251004003725-nt.html",
+        "date": "2025-10-04 00:00:00",
+        "sentiment_score": -0.6100832223892212
+    },
+    {
+        "title": "Hablando de España con el bisnieto del apache Gerónimo",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/10/03/109047329.jpg",
+        "tags": [
+            "pamplona/iruña",
+            "chihuahua",
+            "españa",
+            "estados unidos",
+            "ciudad de mexico",
+            "oviedo",
+            "abc",
+            "el paso",
+            "madrid (ciudad)",
+            "santander",
+            "santa fe",
+            "texas",
+            "el diario montañes",
+            "salamanca",
+            "historia de españa",
+            "historia"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/hablando-espana-bisnieto-apache-geronimo-20251004074238-nt.html",
+        "date": "2025-10-04 00:00:00",
+        "sentiment_score": 0.08319953829050064
+    },
+    {
+        "title": "03 OCT 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/03-oct-2025-partidazo-cope-20251004_3226254.html",
+        "date": "2025-10-03 23:45:00",
+        "sentiment_score": 0.38173607736825943
+    },
+    {
+        "title": "Félix Jordán, vecino de Barrabés y guía de Sánchez y Begoña en la nieve: Irene Lozano, biógrafa del presidente, lo colocó en el CSD",
+        "image_url": "https://s2.elespanol.com/2025/10/03/actualidad/1003743954318_259166325_1706x960.jpg",
+        "tags": [
+            "porfolio",
+            "benasque",
+            "reportajes",
+            "pedro sánchez",
+            "begoña gómez",
+            "psoe (partido socialista obrero español)",
+            "aragón"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251003/felix-jordan-vecino-barrabes-guia-sanchez-begona-nieve-irene-lozano-biografa-presidente-coloco-csd/1003743950226_0.html",
+        "date": "2025-10-03 23:40:00",
+        "sentiment_score": -0.42139216512441635
+    },
+    {
+        "title": "3a PARTE | 03 OCT 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-03-oct-2025-partidazo-cope-20251004_3226253.html",
+        "date": "2025-10-03 23:30:00",
+        "sentiment_score": 0.010857388377189636
+    },
+    {
+        "title": "Joan Rosselló de Son Fortesa, en Caragol y unas sopas payesas",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3499701.jpg",
+        "tags": [
+            "gastronomía",
+            "recetas de cocina"
+        ],
+        "link": "https://www.ultimahora.es/xaloc/gastronomia/2025/10/04/2483791/joan-rossello-son-fortesa-caragol-unas-sopas-payesas.html",
+        "date": "2025-10-04 02:00:01",
+        "sentiment_score": -0.1012805700302124
+    },
+    {
+        "title": "Vixca, vixca, vixca",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20251004/vixca-vixca-vixca_340422.html",
+        "date": "2025-10-04 02:00:00",
+        "sentiment_score": 0.13214173913002014
+    },
+    {
+        "title": "El odio a los judíos campa en España sin respuesta",
+        "image_url": "https://s1.staticld.com/autores/el-editorial.png",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-10-04/editorial-el-odio-a-los-judios-campa-en-espana-sin-respuesta-7303774/",
+        "date": "2025-10-04 01:26:29",
+        "sentiment_score": -0.8937408067286015
+    },
+    {
+        "title": "Fuenllana y Villahermosa, epicentro del mototurismo este otoño",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/10/031025-campo-de-montiel-eventos-mototuristicos-motos10r.jpg",
+        "tags": [
+            "rutas",
+            "villahermosa",
+            "campo de montiel",
+            "provincia de ciudad real",
+            "fuenllana",
+            "moto"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/fuenllana-y-villahermosa-epicentro-del-mototurismo-este-otono/",
+        "date": "2025-10-04 01:10:22",
+        "sentiment_score": 0.09124556183815002
+    },
+    {
+        "title": "Diego Armando Maradona: entre el genio divino y la autodestrucción",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759538514586.jpg?ch=675&cw=1200",
+        "tags": [
+            "maradona",
+            "argentina",
+            "lionel messi",
+            "fútbol",
+            "diego armando maradona",
+            "fútbol argentino",
+            "diego maradona",
+            "mundial",
+            "napoli"
+        ],
+        "link": "https://2001online.com/deportes/diego-armando-maradona-entre-el-genio-divino-y-la-autodestruccion-202510321300",
+        "date": "2025-10-04 00:36:25",
+        "sentiment_score": 0.308805875480175
+    },
+    {
+        "title": "La selección española decide echar para atrás la convocatoria de Lamine Yamal por esta razón (+detalles)",
+        "image_url": "https://pxcdn.meridiano.net/102025/1759532868663.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/la-seleccion-espanola-decide-echar-para-atras-la-convocatoria-de-lamine-yamal-por-esta-razon-detalles--202510319470",
+        "date": "2025-10-03 23:47:00",
+        "sentiment_score": -0.14577682316303253
+    },
+    {
+        "title": "Habitaciones a 90.000 € antes que comprarse un piso: el nuevo negocio de Oriol y Anna que \"facturará 3 millones en 2025\"",
+        "image_url": "https://s2.elespanol.com/2025/10/03/actualidad/1003743953261_259151216_1706x960.jpg",
+        "tags": [
+            "negocios",
+            "reportajes",
+            "consumo",
+            "emprendedores",
+            "emprendedores de éxito",
+            "porfolio",
+            "startup",
+            "vivienda"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251003/habitaciones-eur-comprarse-piso-nuevo-negocio-oriol-anna-facturara-millones/1003743953141_0.html",
+        "date": "2025-10-03 23:40:00",
+        "sentiment_score": 0.34550099074840546
+    },
+    {
+        "title": "Guillermo de Luxemburgo, el nuevo Gran Duque con raíces españolas: los tres desafíos que afronta como jefe del Estado",
+        "image_url": "https://s2.elespanol.com/2025/10/03/corazon/casas-reales/1003743953923_259160795_1706x960.jpg",
+        "tags": [
+            "casas reales",
+            "enrique de luxemburgo"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20251003/guillermo-luxemburgo-nuevo-gran-duque-raices-espanolas-desafios-afronta-jefe/1003743953358_0.html",
+        "date": "2025-10-03 23:33:00",
+        "sentiment_score": 0.07394960522651672
+    },
+    {
+        "title": "Moneda de $1 de Trump genera polémica: ¿Qué detalle del boceto causa tanta controversia en EEUU?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759544153805.jpg?ch=675&cw=1200",
+        "tags": [
+            "monedas en eeuu",
+            "moneda de trump",
+            "monedas de $1"
+        ],
+        "link": "https://2001online.com/usa/servicios/moneda-de-1-de-trump-genera-polemica-que-detalle-del-boceto-causa-tanta-controversia-en-eeuu--202510322130",
+        "date": "2025-10-04 02:13:00",
+        "sentiment_score": 0.06021471321582794
+    },
+    {
+        "title": "Filtran video íntimo de fiscal de Lara destituida e imputada: también le achacan corrupción (imágenes sensibles)",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759543591391.jpg?ch=675&cw=1200",
+        "tags": [
+            "exfiscal",
+            "lara",
+            "ministerio público"
+        ],
+        "link": "https://2001online.com/sucesos/filtran-video-candente-de-fiscal-de-lara-destituida-e-imputada-tambien-le-achacan-corrupcion-imagenes-sensibles--20251032270",
+        "date": "2025-10-04 02:07:00",
+        "sentiment_score": -0.7400197796523571
+    },
+    {
+        "title": "¿Sabes qué tipo de piel tienes? Expertos en cosmética te lo aclara y te dan los mejores consejos para su cuidado",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759431886355.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/sabes-que-tipo-de-piel-tienes-expertos-en-cosmetica-te-lo-aclara-y-te-dan-los-mejores-consejos-para-su-cuidado-20251032200",
+        "date": "2025-10-04 02:00:00",
+        "sentiment_score": 0.047118641436100006
+    },
+    {
+        "title": "Se acabó la polémica: El Salvador impone el idioma tradicional en todos sus centros educativos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759541655633.jpg?ch=675&cw=1200",
+        "tags": [
+            "educación",
+            "lenguaje inclusivo",
+            "el salvador"
+        ],
+        "link": "https://2001online.com/internacionales/se-acabo-la-polemica-el-salvador-impone-el-idioma-tradicional-en-todos-sus-centros-educativos-202510321300",
+        "date": "2025-10-04 01:30:00",
+        "sentiment_score": -0.07648706436157227
+    },
+    {
+        "title": "¡Clima sin piedad! No hagas muchos planes en Florida: prepárate bien para evitar un susto",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "pronóstico",
+            "florida",
+            "clima"
+        ],
+        "link": "https://2001online.com/usa/servicios/clima-sin-piedad-no-hagas-muchos-planes-en-florida-preparate-bien-para-evitar-un-susto-20251032100",
+        "date": "2025-10-04 01:00:00",
+        "sentiment_score": 0.08594172075390816
+    },
+    {
+        "title": "Luce una melena sana y fuerte con este aceite natural que contiene vitaminas que nutren la raíz capilar",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759536463294.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/luce-una-melena-sana-y-fuerte-con-este-aceite-natural-que-contiene-vitaminas-que-nutren-la-raiz-capilar-202510320400",
+        "date": "2025-10-04 00:40:00",
+        "sentiment_score": -0.07521475106477737
+    },
+    {
+        "title": "¡En imágenes! Lluvias causan estragos y anegaciones en Caracas: árboles caídos afectan servicios",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "el cementerio",
+            "lluvias",
+            "caracas"
+        ],
+        "link": "https://2001online.com/nacionales/en-imagenes-lluvias-causan-estragos-y-anegaciones-en-caracas-arboles-caidos-afectan-servicios-202510320200",
+        "date": "2025-10-04 00:20:00",
+        "sentiment_score": -0.8414223063737154
+    },
+    {
+        "title": "Migrantes detenidos por el ICE no pueden salir bajo fianza: sepa cuáles ONG pueden ayudarte",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "migrantes",
+            "ong",
+            "fianza"
+        ],
+        "link": "https://2001online.com/usa/servicios/migrantes-detenidos-por-el-ice-no-pueden-salir-bajo-fianza-sepa-cuales-ong-pueden-ayudarte-20251032000",
+        "date": "2025-10-04 00:00:00",
+        "sentiment_score": 0.4544264078140259
+    },
+    {
+        "title": "¿Te duelen las piernas? Esta es la infusión natural más efectiva para desinflamar el organismo fácil y rápido",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759534193056.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/te-duelen-las-piernas-esta-es-la-infusion-natural-mas-efectiva-para-desinflamar-el-organismo-facil-y-rapido-202510319450",
+        "date": "2025-10-03 23:45:00",
+        "sentiment_score": -0.8388871140778065
     }
 ];
