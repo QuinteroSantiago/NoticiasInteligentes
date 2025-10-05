@@ -180,32 +180,6 @@ export default [
         "sentiment_score": -0.08606620132923126
     },
     {
-        "title": "Ven por vez primera las proteínas que dan origen a la enfermedad de Parkinson",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/10/01/48251594686_1cc28acb65_o.jpg",
-        "tags": [
-            "investigación",
-            "enfermedades",
-            "parkinson",
-            "reino unido",
-            "cerebro",
-            "canadá"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/parkinso-20251001115950-nt.html",
-        "date": "2025-10-01 11:59:29",
-        "sentiment_score": -0.08634765446186066
-    },
-    {
-        "title": "¿Qué son los probióticos, para qué se usan y cuáles son los 5 mejores del mercado?",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/favorito/2025/10/01/daily-nouri-D37STEwmyqY-unsplash-R7sIwyLzTXJdrcMtTSW7r7J-1200x840@diario_abc.jpg",
-        "tags": [
-            "favorito",
-            "cuidado-personal"
-        ],
-        "link": "https://www.abc.es/favorito/cuidado-personal/probioticos-usan-mejores-mercado-20251001131111-nt.html",
-        "date": "2025-10-01 11:11:11",
-        "sentiment_score": -0.0026439428329467773
-    },
-    {
         "title": "El CGPJ abre expediente al juez que acusó a Pedro Sánchez de “golpismo”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/5K6JC2F75ZDQDPDXBI62B66NDE.jpg?auth=f28182c8ecd0b2e485837bace20a1b1a8de6784871c335c6db76822596e2baa2&width=1200",
         "tags": [
@@ -255,126 +229,6 @@ export default [
         "link": "https://elpais.com/espana/2025-10-01/pp-y-vox-votan-en-contra-de-calificar-de-genocidio-la-masacre-en-gaza-en-el-senado-a-sanchez-le-importa-un-comino.html",
         "date": "2025-10-01 14:30:13",
         "sentiment_score": -0.6920032054185867
-    },
-    {
-        "title": "El síndrome de la caspa nacional",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/H5AEOAM5OVJENIPKB3BA3UEF4I.jpg?auth=e6c8fd7375949d5addec846a3cb10321eb916731f64a4ae7d21284e32bc34df0&width=1200",
-        "tags": [
-            "pp",
-            "aborto",
-            "ayuntamiento madrid",
-            "españa",
-            "josé luis martínez almeida",
-            "ultraderecha",
-            "vox"
-        ],
-        "link": "https://elpais.com/espana/2025-10-01/el-sindrome-de-la-caspa-nacional.html",
-        "date": "2025-10-01 13:55:42",
-        "sentiment_score": -0.761060930788517
-    },
-    {
-        "title": "Los vecinos del distrito madrileño de Vicálvaro denuncian el desmantelamiento del Espacio de Igualdad Gloria Fuertes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/632IIUBNGJCNRM7VJADTV2BKMI.jpg?auth=776f48ba41850fd0f3871680119b369a5550725bd6852902a40795ec43a44a49&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "gloria fuertes",
-            "josé luis martínez almeida",
-            "mujeres",
-            "igualdad oportunidades",
-            "madrid",
-            "ayuntamiento madrid",
-            "violencia machista",
-            "protestas sociales",
-            "política"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-10-01/los-vecinos-del-distrito-madrileno-de-vicalvaro-denuncian-el-desmantelamiento-del-espacio-de-igualdad-gloria-fuertes.html",
-        "date": "2025-10-01 13:30:28",
-        "sentiment_score": 0.3233884125947952
-    },
-    {
-        "title": "La 080 se despide del Sant Pau en una edición que tiene por primera vez la colaboración del Ayuntamiento",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KJIUQFGJRWQ62QWJN4C4PRTBVI.jpg?auth=194f9bb44c789eab40945a544957f5da91e787ec574f914294fe689fc74c65f9&width=1200",
-        "tags": [
-            "diseñadores moda",
-            "cultura",
-            "moda",
-            "080 barcelona fashion",
-            "diseñadores",
-            "desfiles modelos",
-            "cataluña",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-01/la-080-se-despide-del-sant-pau-con-la-colaboracion-del-ayuntamiento-por-primera-vez.html",
-        "date": "2025-10-01 13:08:34",
-        "sentiment_score": 0.14337061531841755
-    },
-    {
-        "title": "Begoña Gómez recurre la decisión del juez Peinado de llevar su caso por malversación ante un jurado si llega a juicio",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6XS4AVHNJBHTZJTHNBRXPBIODI.JPG?auth=e7d60bae2f28a2c720be3a2d34e66fa2780963fb06b140ae80b5b7def9654b2a&width=1200",
-        "tags": [
-            "españa",
-            "begoña gómez fernández",
-            "pedro sánchez",
-            "psoe",
-            "malversación fondos"
-        ],
-        "link": "https://elpais.com/espana/2025-10-01/begona-gomez-recurre-la-decision-del-juez-peinado-de-llevar-su-caso-por-malversacion-ante-un-jurado-si-llega-a-juicio.html",
-        "date": "2025-10-01 12:55:25",
-        "sentiment_score": -0.4947342537343502
-    },
-    {
-        "title": "Protesta contra el edadismo en Barcelona: “Nos hablan como si fuésemos bebés”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4LZOBHO2KRA7VD4GVSSPPBSROA.jpg?auth=7900a21647f2f6766258fb22baf3ceeae984199ff944b07571bfc12fb71946ad&width=1200",
-        "tags": [
-            "ayuntamiento barcelona",
-            "cataluña",
-            "jubilación",
-            "barcelona",
-            "pensiones",
-            "ancianos",
-            "jubilación anticipada",
-            "jaume collboni"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-01/protesta-contra-el-edadismo-en-barcelona-nos-hablan-como-si-fuesemos-bebes.html",
-        "date": "2025-10-01 12:35:08",
-        "sentiment_score": -0.5906608998775482
-    },
-    {
-        "title": "Génova avala la decisión del PP de Madrid de informar a las mujeres de un supuesto síndrome post aborto",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2JITH5WH4ZESJL3B4GG5IQFQAU.jpg?auth=7619fc627b911349907f16b14d05902004569c1f9efec17b538153e93388495c&width=1200",
-        "tags": [
-            "españa",
-            "josé luis martínez almeida",
-            "ayuntamiento madrid",
-            "pp",
-            "aborto",
-            "vox",
-            "mujeres",
-            "ciencia",
-            "pp madrid",
-            "ideologías",
-            "medicina"
-        ],
-        "link": "https://elpais.com/espana/2025-10-01/genova-avala-la-decision-del-pp-de-madrid-de-informar-a-las-mujeres-de-un-supuesto-sindrome-post-aborto.html",
-        "date": "2025-10-01 12:33:55",
-        "sentiment_score": -0.8331583421677351
-    },
-    {
-        "title": "El Consell emplea “vixca”, en un valenciano no normativo, en su campaña institucional del 9 d’Octubre",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/M3D2YDAS2VOHDC2VVADTEZBGOE.jpg?auth=975bd7d04c5e89f2aa6c56d26e6ed6cf0a03128084bbe8ceb5752023ce8aa9af&width=1200",
-        "tags": [
-            "campañas institucionales",
-            "avl",
-            "valenciano",
-            "día comunidad valenciana",
-            "generalitat valenciana",
-            "carlos mazón",
-            "comunidad valenciana",
-            "celebraciones"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-01/el-consell-emplea-vixca-en-un-valenciano-no-normativo-en-su-campana-institucional-del-9-doctubre.html",
-        "date": "2025-10-01 12:14:42",
-        "sentiment_score": 0.06478135287761688
     },
     {
         "title": "La adicción a las compras ha aumentado desde la pandemia y requiere atención",
@@ -8102,5 +7956,427 @@ export default [
         "link": "https://2001online.com/sucesos/viaje-clandestino-encuentran-el-cuerpo-de-un-hombre-en-el-tren-de-aterrizaje-de-un-avion-20251041700",
         "date": "2025-10-04 21:00:00",
         "sentiment_score": -0.7659224309027195
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 5 de octubre en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "madrid",
+            "españa sociedad",
+            "noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/05/clima-las-temperaturas-que-predominaran-este-5-de-octubre-en-madrid/",
+        "date": "2025-10-05 01:45:35",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "YouTube en España: los 10 videos que son tendencia hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-televisión",
+            "streaming",
+            "youtube",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/05/youtube-en-espana-los-10-videos-que-son-tendencia-hoy/",
+        "date": "2025-10-05 01:16:19",
+        "sentiment_score": 0.7510422933846712
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 5 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "tiempo en españa",
+            "noticias",
+            "barcelona",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/05/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-5-de-octubre/",
+        "date": "2025-10-05 01:15:57",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El Gobierno muestra su disposición a Israel de repatriar en avión a los españoles de la flotilla",
+        "image_url": "https://www.infobae.com/resizer/v2/YONHGJKXVZDXXJIGA2ZXUESXMM.jpg?auth=68da006a4f6a332d6314c4d1db2b1e4fa2f3db05d6e36af1ca0ffc04f654f65d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "global sumud flotilla",
+            "gaza",
+            "israel",
+            "josé manuel albares",
+            "flotilla",
+            "agencias",
+            "palestina",
+            "españa-nacional",
+            "españa-noticias",
+            "gobierno de españa",
+            "europa press"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/04/el-gobierno-muestra-su-disposicion-a-israel-de-repatriar-en-avion-a-los-espanoles-de-la-flotilla/",
+        "date": "2025-10-04 22:55:15",
+        "sentiment_score": -0.208324259147048
+    },
+    {
+        "title": "La 'ordinary people' monclovita se zampa el Ibex entre «soles, lechugas y chistorras»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/10/05/Imagen220925-Sanchez-Viaje-EEUU-Primera-Jornada1-Rvngrse4q5I7KJnXZEjEB9K-1200x840@diario_abc.jpg",
+        "tags": [
+            "bruselas",
+            "indra",
+            "aena",
+            "ibex 35",
+            "bbva",
+            "caixabank",
+            "pedro sánchez",
+            "donald trump",
+            "endesa",
+            "sociedad estatal de participaciones industriales (sepi)",
+            "palacio de la moncloa",
+            "repsol",
+            "josé luis rodríguez zapatero",
+            "fondo de reestructuración ordenada bancaria (frob)",
+            "venezuela"
+        ],
+        "link": "https://www.abc.es/economia/maria-jesus-perez-ordinary-people-monclovita-zampa-ibex-soles-lechugas-20251005195636-nt.html",
+        "date": "2025-10-05 02:00:10",
+        "sentiment_score": -0.11414186656475067
+    },
+    {
+        "title": "Andrej Babis , el 'tercer hombre' de Putin en la UE",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/04/andrejbabis-RTJztTHGuXfdqlErFHDjZrO-1200x840@diario_abc.jpg",
+        "tags": [
+            "unión europea",
+            "populismo",
+            "vladimir putin",
+            "republica checa"
+        ],
+        "link": "https://www.abc.es/internacional/andrej-babis-tercer-hombre-putin-ue-20251004202644-nt.html",
+        "date": "2025-10-05 01:21:19",
+        "sentiment_score": -0.1446077525615692
+    },
+    {
+        "title": "La generación de anónimos que pone contra las cuerdas al régimen marroquí",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/10/05/marruecos1-Rqw5AhigKxNPbvZQlBFjW5J-1200x840@diario_abc.jpg",
+        "tags": [
+            "marruecos",
+            "redes sociales",
+            "buscadores de internet",
+            "internet",
+            "mohamed vi de marruecos"
+        ],
+        "link": "https://www.abc.es/internacional/generacion-anonimos-pone-cuerdas-regimen-marroqui-20251005190408-nt.html",
+        "date": "2025-10-05 01:20:54",
+        "sentiment_score": -0.12318778038024902
+    },
+    {
+        "title": "Israel espera la liberación de los rehenes «en los próximos días»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/04/gaza-RKNE5AH7oycM1zlNqX1qRhO-1200x840@diario_abc.jpg",
+        "tags": [
+            "egipto",
+            "donald trump",
+            "benjamín netanyahu",
+            "israel",
+            "palestina",
+            "negociaciones",
+            "hamás"
+        ],
+        "link": "https://www.abc.es/internacional/israel-espera-liberacion-rehenes-proximos-dias-20251004215205-nt.html",
+        "date": "2025-10-05 01:20:35",
+        "sentiment_score": -0.10305607318878174
+    },
+    {
+        "title": "Una rehén de Hamás liberada: «El cadáver de mi marido sigue en Gaza»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/04/Karina-RBpTJaEuF9yu2FF7bNrPglO-1200x840@diario_abc.jpg",
+        "tags": [
+            "sigue",
+            "hamas",
+            "rehen",
+            "marido",
+            "cadaver",
+            "gaza",
+            "liberada"
+        ],
+        "link": "https://www.abc.es/internacional/rehen-hamas-liberada-cadaver-marido-sigue-gaza-20251004185841-nt.html",
+        "date": "2025-10-05 01:15:08",
+        "sentiment_score": -0.23760919272899628
+    },
+    {
+        "title": "Manuel Campa: \"Avilés tiene suelo para 900 viviendas sin tocar el Plan Urbano\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6533d599-09e9-4944-9d62-72dc6937e533_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real avilés",
+            "oposición",
+            "pgou",
+            "industria"
+        ],
+        "link": "https://www.lne.es/aviles/2025/10/05/manuel-campa-aviles-suelo-900-122282401.html",
+        "date": "2025-10-05 02:02:20",
+        "sentiment_score": 0.282124862074852
+    },
+    {
+        "title": "Topografía médica",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eb7364c0-6abb-40c3-8dcc-9cd6214305cb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asturias",
+            "teatro"
+        ],
+        "link": "https://www.lne.es/gijon/2025/10/05/topografia-medica-122283316.html",
+        "date": "2025-10-05 02:00:29",
+        "sentiment_score": -0.14712806046009064
+    },
+    {
+        "title": "Miriam González: \"Sorprende la naturalidad con la que Begoña Gómez admite que le ayudaba una funcionaria en sus negocios privados. ¡No es normal!\"",
+        "image_url": "https://s2.elespanol.com/2025/10/03/actualidad/1003743952542_259141475_1706x960.jpg",
+        "tags": [
+            "hablando sobre españa",
+            "política",
+            "entrevistas",
+            "liberalismo",
+            "gobierno de españa"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251005/miriam-gonzalez-sorprende-naturalidad-begona-gomez-admite-ayudaba-funcionaria-negocios-privados-no-normal/1003743951658_0.html",
+        "date": "2025-10-05 01:46:31",
+        "sentiment_score": -0.5422839522361755
+    },
+    {
+        "title": "Los top semanales del Índice de la Digitalización: un robot autónomo contra las malas hierbas del campo",
+        "image_url": "https://s2.elespanol.com/2025/10/01/actualidad/1003743949615_259103827_1706x960.jpg",
+        "tags": [
+            "digitalización",
+            "empresas",
+            "innovación",
+            "tecnología",
+            "empresas tecnológicas",
+            "grandes actores"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/20251005/top-semanales-indice-digitalizacion-robot-autonomo-malas-hierbas-campo/1003743949602_0.html",
+        "date": "2025-10-05 01:39:55",
+        "sentiment_score": 0.43185905367136
+    },
+    {
+        "title": "España alza la voz por Palestina: más de 200.000 personas reclaman el fin de las relaciones con Israel",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/05/2025100503382689205.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.mundiario.com/articulo/internacional/espana-alza-voz-palestina-mas-200000-personas-reclaman-fin-relaciones-israel/20251005033908358242.html",
+        "date": "2025-10-05 01:39:08",
+        "sentiment_score": -0.8515700623393059
+    },
+    {
+        "title": "Últimas horas para la paz en Gaza",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/10/04/68e15eb033fec.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.diariodeleon.es/internacional/251005/2061826/ultimas-horas-paz-gazauna-multitud-apoya-calle-espana-e-italia-palestinos.html",
+        "date": "2025-10-05 01:30:00",
+        "sentiment_score": -0.5950828939676285
+    },
+    {
+        "title": "La mística europea del Liverpool: finales disputadas e historia continental",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759626073546/ddb3d950-d8bb-11ef-89b6-372b2b3acad8.jpg",
+        "tags": [
+            "entertainment",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/la-mistica-europea-del-liverpool-finales-disputadas-e-historia-continental-20251042200",
+        "date": "2025-10-05 01:04:49",
+        "sentiment_score": 0.6951461806893349
+    },
+    {
+        "title": "El verano a la fuga del jubilado Negreira en el piso de un amigo árbitro en Alicante: \"Vino aquí a ocultarse cuando estalló todo\"",
+        "image_url": "https://s2.elespanol.com/2025/10/03/actualidad/1003743954164_259164028_1706x960.jpg",
+        "tags": [
+            "real madrid cf",
+            "negreira",
+            "caso negreira",
+            "reportajes",
+            "árbitros",
+            "josé maría enríquez negreira",
+            "porfolio",
+            "fc barcelona"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251005/verano-fuga-jubilado-negreira-piso-amigo-arbitro-alicante-vino-ocultarse-estallo/1003743952853_0.html",
+        "date": "2025-10-05 01:04:19",
+        "sentiment_score": -0.38815295696258545
+    },
+    {
+        "title": "Lucas Vázquez encuentra vida fuera del Madrid: Su primera y decisiva asistencia con el Leverkusen",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1374x305:1376x303)/origin-imgresizer.eurosport.com/2025/10/05/image-0a1bd333-6d09-4226-b4c6-5a2206de222f-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.eurosport.es/futbol/bundesliga/2025-2026/lucas-vazquez-primera-asistencia-de-gol-fuera-del-real-madrid-bayer-leverkusen_vid60031896/video.shtml",
+        "date": "2025-10-05 00:51:41",
+        "sentiment_score": 0.6123035252094269
+    },
+    {
+        "title": "Patrimonio y paisaje, la voz docta de Jaume Llabrés",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "sports",
+            "top"
+        ],
+        "link": "https://www.ultimahora.es/vips/zona-vip/2025/10/05/2483637/patrimonio-paisaje-voz-docta-jaume-llabres.html",
+        "date": "2025-10-05 02:00:01",
+        "sentiment_score": -0.028070151805877686
+    },
+    {
+        "title": "Las tres asistencias de Lionel Messi en la goleada del Inter Miami ante New England por la MLS",
+        "image_url": "https://www.infobae.com/resizer/v2/E6JFU46B2VCZJHZXPCZ76OF3BA.JPG?auth=af0ad0ab909dee06b2336d49e848b9db41cb619b8b9176cd4c6c47eabbda01f6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "deportes-argentina",
+            "new england revolution",
+            "inter miami",
+            "mls",
+            "lionel messi"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/05/las-tres-asistencias-de-lionel-messi-en-la-goleada-del-inter-miami-ante-new-england-por-la-mls/",
+        "date": "2025-10-05 01:52:01",
+        "sentiment_score": 0.45513228327035904
+    },
+    {
+        "title": "Europa frente al espejo: cómo responder a las denuncias de tortura en Israel",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/09/23/2025092315020238403.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/europa-frente-espejo-como-responder-denuncias-tortura-israel/20251005031128358240.html",
+        "date": "2025-10-05 01:11:28",
+        "sentiment_score": -0.889788412488997
+    },
+    {
+        "title": "Cientos de miles marchan en Roma, Barcelona y Madrid contra campaña militar de Israel en Gaza",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/c2cf6e0/2147483647/strip/true/crop/4000x2100+0+283/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbb%2F51%2F1e4ba1094688b110448b7d6f97d3%2F1a5ad6ba6728404e825329eb1f649a03.jpg",
+        "tags": [
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/internacional/articulo/2025-10-04/cientos-de-miles-marchan-en-roma-barcelona-y-madrid-contra-campana-militar-de-israel-en-gaza",
+        "date": "2025-10-05 00:32:23",
+        "sentiment_score": -0.8324970584362745
+    },
+    {
+        "title": "Miles de españoles protestan contra Israel pese al avance del plan de paz: piden un boicot y romper relaciones con Tel Aviv",
+        "image_url": "https://s2.elespanol.com/2025/10/04/actualidad/1003743955419_259183751_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "donald trump",
+            "palestina",
+            "hamás",
+            "franja de gaza",
+            "benjamin netanyahu",
+            "podemos",
+            "política",
+            "israel"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251005/miles-espanoles-protestan-israel-pese-avance-plan-paz-piden-boicot-romper-relaciones-tel-aviv/1003743955290_0.html",
+        "date": "2025-10-05 00:06:40",
+        "sentiment_score": -0.5439050570130348
+    },
+    {
+        "title": "¿Qué ocultan realmente las cremas diurnas y nocturnas? Empresa cosmética nos revela sus diferencias y usos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759329856921/Captura%20de%20pantalla%202025-10-01%20a%20la(s)%2010.43.48%20a.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/que-ocultan-realmente-las-cremas-diurnas-y-nocturnas-empresa-cosmetica-nos-revela-sus-diferencias-y-usos-20251042200",
+        "date": "2025-10-05 02:00:00",
+        "sentiment_score": 0.0670270137488842
+    },
+    {
+        "title": "Alarma en el vecindario: más de 20 personas envenenadas por la negligencia de un vecino",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/alarma-en-el-vecindario-mas-de-20-personas-envenenadas-por-la-negligencia-de-un-vecino-202510421300",
+        "date": "2025-10-05 01:30:00",
+        "sentiment_score": -0.7432416416704655
+    },
+    {
+        "title": "Cicpc desmantela una red de venta de drogas en La Guaira: esto incautaron las autoridades",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/cicpc-desmantela-una-red-de-venta-de-drogas-en-la-guaira-esto-incautaron-las-autoridades-202510420120",
+        "date": "2025-10-05 00:12:00",
+        "sentiment_score": 0.013147570192813873
+    },
+    {
+        "title": "El \"ADN Champions\": el secreto de la gloria europea del Real Madrid",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759624775622/descargar%20(15).jpeg",
+        "tags": [
+            "lifestyle",
+            "top",
+            "health"
+        ],
+        "link": "https://2001online.com/deportes/el-adn-champions-el-secreto-de-la-gloria-europea-del-real-madrid-20251042100",
+        "date": "2025-10-05 00:04:49",
+        "sentiment_score": 0.8166019804775715
+    },
+    {
+        "title": "En Venezuela habita la oruga letal Lonomia: su veneno puede generar complicaciones graves de salud",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/en-venezuela-habita-la-oruga-letal-lonomia-su-veneno-puede-generar-complicaciones-graves-de-salud-20251042000",
+        "date": "2025-10-05 00:00:00",
+        "sentiment_score": 0.3383563160896301
+    },
+    {
+        "title": "¿Despidos y cierres a la vista? Starbucks anuncia drástica reestructuración en EEUU",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/despidos-y-cierres-a-la-vista-starbucks-anuncia-drastica-reestructuracion-en-eeuu-20251042000",
+        "date": "2025-10-05 00:00:00",
+        "sentiment_score": 0.15407273173332214
+    },
+    {
+        "title": "Miles de empleados de aeropuertos trabajan sin salario en EEUU: esta es la razón que sorprende a todos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759617615094.jpg?ch=675&cw=1200",
+        "tags": [
+            "shutdown usa",
+            "aereopuertos",
+            "cierre fiscal",
+            "estados unidos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/miles-de-empleados-de-aeropuertos-trabajan-sin-salario-en-eeuu-esta-es-la-razon-que-sorprende-a-todos-202510419210",
+        "date": "2025-10-04 23:21:00",
+        "sentiment_score": 0.4069530628621578
+    },
+    {
+        "title": "Warner Bros toma la historia de un inmigrante venezolano y lo convierte en comic: sobrevivió al Darién",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759371162140.jpg?ch=675&cw=1200",
+        "tags": [
+            "sueño americano",
+            "venezuela",
+            "diario 2001",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/curiosidades/warner-bros-toma-la-historia-de-un-inmigrante-venezolano-y-lo-convierte-en-comic-sobrevivio-al-darien-20251041900",
+        "date": "2025-10-04 23:00:00",
+        "sentiment_score": 0.7123288363218307
+    },
+    {
+        "title": "¿Es la comida quemada peligrosa? La ciencia explica el riesgo de ciertas sustancias",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759330105533.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/es-la-comida-quemada-peligrosa-la-ciencia-explica-el-riesgo-de-ciertas-sustancias-20251041900",
+        "date": "2025-10-04 23:00:00",
+        "sentiment_score": -0.609399326145649
     }
 ];
