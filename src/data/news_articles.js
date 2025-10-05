@@ -1,410 +1,5 @@
 export default [
     {
-        "title": "Gonzalo Bernardos, economista, lanza una advertencia sobre la crisis inmobiliaria: “No sé dónde vamos a poner a la gente”",
-        "image_url": "https://www.infobae.com/resizer/v2/6IS4IMMDSBFCHNH7IPLRRXPALA.png?auth=85045347e515688d0ce087c099c78b581773a87b320cf173394eb91f690d98b0&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-economia",
-            "alquileres",
-            "vivienda",
-            "mercado inmobiliario",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/01/gonzalo-bernardos-economista-lanza-una-advertencia-sobre-la-crisis-inmobiliaria-no-se-donde-vamos-a-poner-a-la-gente/",
-        "date": "2025-10-01 06:35:18",
-        "sentiment_score": -0.7038945816457272
-    },
-    {
-        "title": "Ada Colau, desde la Flotilla rumbo a Gaza: \"Las próximas horas serán realmente críticas\"",
-        "image_url": "https://www.infobae.com/resizer/v2/ORPXFDG76JFATEXCW3KXJNTPYI.jpg?auth=f27951577b78850dfe7698ddd26b5aa97938bac203216d75d54d457257e0b755&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/10/01/ada-colau-desde-la-flotilla-rumbo-a-gaza-las-proximas-horas-seran-realmente-criticas/",
-        "date": "2025-10-01 06:32:28",
-        "sentiment_score": -0.8055875394493341
-    },
-    {
-        "title": "El Gobierno recomienda a la flotilla de Gaza no entrar en la zona de exclusión, el buque de salvamento no podrá acceder",
-        "image_url": "https://www.infobae.com/resizer/v2/D6NGVSXBU5ALTNHMWIZCQIPV54.jpg?auth=ff6046328b6f1083bffd16d36f47eddb5f3bf1f188868f59e23a6e99555eb2d5&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/10/01/el-gobierno-recomienda-a-la-flotilla-de-gaza-no-entrar-en-la-zona-de-exclusion-el-buque-de-salvamento-no-podra-acceder/",
-        "date": "2025-10-01 06:32:10",
-        "sentiment_score": -0.7934833932667971
-    },
-    {
-        "title": "Podemos acusa al Gobierno de \"hacer el trabajo sucio a Israel\" y le exige proteger a la flotilla a Gaza con el 'Furor'",
-        "image_url": "https://www.infobae.com/resizer/v2/YHA25TPYBZDDDDVGSGHKCIMPQY.jpg?auth=cc5434c9fdccb4dcb6d01d2c531995723427f78a8cd129cdc2b8fe214e740ceb&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/10/01/podemos-acusa-al-gobierno-de-hacer-el-trabajo-sucio-a-israel-y-le-exige-proteger-a-la-flotilla-a-gaza-con-el-furor/",
-        "date": "2025-10-01 06:31:53",
-        "sentiment_score": -0.9273978797718883
-    },
-    {
-        "title": "Amazon lanza Haul en España, su tienda 'low cost' para competir con Shein, Temu y AliExpress",
-        "image_url": "https://www.infobae.com/resizer/v2/2C5XMMQOPBCG3MXFJPC2SRFACQ.jpg?auth=210ce7508300af004019be3c23821cd8197afcbac5d034f65654d6e54d56d99c&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/10/01/amazon-lanza-haul-en-espana-su-tienda-low-cost-para-competir-con-shein-temu-y-aliexpress/",
-        "date": "2025-10-01 06:30:58",
-        "sentiment_score": 0.32751816883683205
-    },
-    {
-        "title": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades este 1 de octubre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "noticias",
-            "precio gasolina",
-            "españa-economia",
-            "gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/01/el-precio-mas-alto-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-este-1-de-octubre/",
-        "date": "2025-10-01 06:30:42",
-        "sentiment_score": -0.006115235388278961
-    },
-    {
-        "title": "Así funciona la vacuna que hace que dejes de ser alérgico a gatos y perros: cuánto cuesta y cómo conseguirla",
-        "image_url": "https://www.infobae.com/resizer/v2/GJHPCNPELBDLJHTFPMKDGK2JTU.jpg?auth=cb923076028ec06e9468e6570c1d7795e4bd3c4c4d551d663a9c16b099c93c71&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa noticias",
-            "alergia",
-            "vacuna",
-            "españa salud",
-            "mascotas",
-            "españa enfermedades y medicamentos",
-            "sistema inmunitario",
-            "enfermedades y medicamentos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/01/asi-funciona-la-vacuna-que-hace-que-dejes-de-ser-alergico-a-gatos-y-perros-cuanto-cuesta-y-como-conseguirla/",
-        "date": "2025-10-01 06:28:12",
-        "sentiment_score": 0.244720458984375
-    },
-    {
-        "title": "Ni ‘Misión Imposible’ ni ‘Fast and Furious’: la icónica saga de acción que llega entera a Amazon Prime",
-        "image_url": "https://www.infobae.com/resizer/v2/ZA66IQXFC5FYZKEDIDZSQ5WENQ.jpg?auth=c3d254613c3e2db97fab41d3e5049bd07946419ac5399b495736b16f163d8cf0&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "cine españa",
-            "amazon prime",
-            "cine",
-            "españa-noticias",
-            "españa-cultura",
-            "james bond",
-            "espías",
-            "007"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/10/01/ni-mision-imposible-ni-fast-and-furious-la-iconica-saga-de-accion-que-llega-entera-a-amazon-prime/",
-        "date": "2025-10-01 06:25:54",
-        "sentiment_score": 0.48174057248979807
-    },
-    {
-        "title": "​​España peligrosamente cerca de Pekín, según los números",
-        "image_url": "https://www.infobae.com/resizer/v2/WZF23RKTXNFQNK6KX6I5XTKVIY.jpg?auth=01b07dc6823da724ebc0690b5d628810a99f99501759165647ab4fc8327ee4e7&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "china",
-            "pedro sánchez",
-            "huawei",
-            "españa-internacional",
-            "españa-noticias",
-            "xi jinping",
-            "gobierno de españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/01/espana-peligrosamente-cerca-de-pekin-segun-los-numeros/",
-        "date": "2025-10-01 06:17:48",
-        "sentiment_score": -0.6813853830099106
-    },
-    {
-        "title": "Isabel Viña, médica, aclara por qué el magnesio ayuda a dormir bien: “Se necesita para producir serotonina y melatonina”",
-        "image_url": "https://www.infobae.com/resizer/v2/6DNSE6CB3ZHL5G3BK5THQA67JE.jpeg?auth=c1bb8659d2cf3305af07958d2cc55a2b5c4b6d49fb5ece74a1419514ab400227&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "españa-salud",
-            "magnesio",
-            "insomnio",
-            "suplementos alimenticios",
-            "nutrición",
-            "sueño",
-            "nutrición españa",
-            "españa-noticias",
-            "suplementos",
-            "dormir"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/01/isabel-vina-medica-aclara-para-que-sirve-el-magnesio-se-necesita-para-producir-serotonina-y-melatonina-el-neurotransmisor-de-la-relajacion/",
-        "date": "2025-10-01 06:08:25",
-        "sentiment_score": 0.2146260067820549
-    },
-    {
-        "title": "El derrumbe de un colegio en Indonesia deja más de 90 desaparecidos",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/09/22/trabajar-disneyland-paris-empleo-khDB--170x119@El%20Comercio.jpg",
-        "tags": [
-            "colegio",
-            "derrumbe",
-            "deja",
-            "indonesia",
-            "desaparecidos"
-        ],
-        "link": "https://www.abc.es/internacional/derrumbe-colegio-indonesia-deja-desaparecidos-20251001072300-nt.html",
-        "date": "2025-10-01 05:23:00",
-        "sentiment_score": -0.1603318601846695
-    },
-    {
-        "title": "El papa León XIV recibe en audiencia a Salvador Illa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WBZ564QD5BEOFOOHDUA63UN2GA.jpg?auth=7270e153b77b3fafb439ce72a72667481223b6909bee262fadc378c9a06abcdd&width=1200",
-        "tags": [
-            "salvador illa",
-            "papa",
-            "govern cataluña",
-            "cataluña",
-            "papa león xiv"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-01/el-papa-leon-xiv-recibe-en-audiencia-a-salvador-illa.html",
-        "date": "2025-10-01 06:00:00",
-        "sentiment_score": -0.07465662807226181
-    },
-    {
-        "title": "Los Mossos investigan la muerte de un joven apuñalado en Barcelona",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HCO4BHWED5BWPIV3SX2JMYADMA.jpg?auth=0c1a1edf4b308d252e31ad0c7804d6ff84baa44a5e3e8a22a1f0c7903631047a&width=1200",
-        "tags": [
-            "homicidios",
-            "barcelona",
-            "investigación judicial",
-            "mossos d'esquadra",
-            "cataluña",
-            "investigación policial"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-01/los-mossos-investigan-la-muerte-de-un-joven-apunalado-en-barcelona.html",
-        "date": "2025-10-01 05:57:16",
-        "sentiment_score": -0.5397831164300442
-    },
-    {
-        "title": "Libertad educativa, PAU y censura literaria: la cruzada del PP contra el valenciano",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EMXOQO6C2ZHRJDHW4TV4YHX5SI.JPG?auth=f7b6783e0b8fdea3ef8a0c2973594298949091e0a962a2f830b08429702b9768&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "josé antonio rovira",
-            "carlos mazón",
-            "educación",
-            "generalitat valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-01/libertad-educativa-pau-y-censura-literaria-la-cruzada-del-pp-contra-el-valenciano.html",
-        "date": "2025-10-01 05:15:17",
-        "sentiment_score": -0.8865673020482063
-    },
-    {
-        "title": "Ayuso usará un informe de la Real Academia de Historia para evitar que la Casa de Correos se relacione con la dictadura",
-        "image_url": "https://s2.elespanol.com/2024/12/19/madrid/comunidad/909919589_251824930_1706x960.jpg",
-        "tags": [
-            "madrid comunidad",
-            "memoria histórica",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://www.elespanol.com/madrid/comunidad/20251001/ayuso-usa-informe-real-academia-historia-evitar-casa-correos-relacione-dictadura/1003743948873_0.html",
-        "date": "2025-10-01 06:21:24",
-        "sentiment_score": 0.08059228956699371
-    },
-    {
-        "title": "Ni leer ni pasear, este es el secreto para mantener el cerebro joven",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251001082048_690.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-leer-pasear-secreto-mantener-cerebro-joven-20251001082048.html",
-        "date": "2025-10-01 06:20:48",
-        "sentiment_score": -0.5617995280772448
-    },
-    {
-        "title": "Los restaurantes en el barrio de los Austrias en Madrid que no te puedes perder",
-        "image_url": "https://okdiario.com/img/2025/09/30/los-restaurantes-en-el-barrio-de-los-austrias-en-madrid-que-no-te-puedes-perder.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "españa",
-            "okd",
-            "madrid",
-            "restaurantes",
-            "turismo"
-        ],
-        "link": "https://okdiario.com/madrid/restaurantes-barrio-austrias-madrid-que-no-te-puedes-perder-15499360",
-        "date": "2025-10-01 06:15:05",
-        "sentiment_score": 0.11410212516784668
-    },
-    {
-        "title": "Un dron transporta material médico entre dos hospitales de Madrid en un vuelo de prueba pionero en espacio aéreo urbano",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2025/10/01/2025100101171685230.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/madrid/dron-transporta-material-medico-dos-hospitales-madrid-vuelo-prueba-pionero-espacio-aereo-urbano/20251001080305436195.html",
-        "date": "2025-10-01 06:03:05",
-        "sentiment_score": 0.5045443139970303
-    },
-    {
-        "title": "Ni Madrid ni Cataluña: las comunidades que cambian el festivo del 12 de octubre tendrán puente según el BOE",
-        "image_url": "https://okdiario.com/img/2025/10/30/ni-madrid-ni-cataluna-las-comunidades-que-cambian-el-festivo-del-12-de-octubre-tendran-puente-segun-el-boe.jpg",
-        "tags": [
-            "economía",
-            "fiesta nacional",
-            "festivos nacionales",
-            "día de la hispanidad",
-            "okd",
-            "fiestas",
-            "boe"
-        ],
-        "link": "https://okdiario.com/economia/ni-madrid-ni-cataluna-comunidades-que-cambian-festivo-del-12-octubre-tendran-puente-segun-boe-15501245",
-        "date": "2025-10-01 06:00:53",
-        "sentiment_score": -0.08670055866241455
-    },
-    {
-        "title": "Almaty activa el ‘caso Valverde’",
-        "image_url": "https://okdiario.com/diariomadridista/img/2025/10/01/almaty-activa-el-caso-valverde-interior.jpg",
-        "tags": [
-            "real madrid"
-        ],
-        "link": "https://okdiario.com/diariomadridista/real-madrid/almaty-activa-caso-valverde-568673",
-        "date": "2025-10-01 06:00:15",
-        "sentiment_score": -0.001705564558506012
-    },
-    {
-        "title": "Han confirmado la fecha y es oficial: el sitio de postres que arrasa en Estados Unidos llega a Madrid a partir de este día",
-        "image_url": "https://okdiario.com/img/2025/09/30/han-confirmado-la-fecha-y-es-oficial-el-sitio-de-postres-que-arrasa-en-estados-unidos-llega-a-madrid-a-partir-de-este-dia.jpg",
-        "tags": [
-            "dulce",
-            "okd",
-            "españa",
-            "madrid",
-            "comunidad de madrid",
-            "virales"
-        ],
-        "link": "https://okdiario.com/madrid/han-confirmado-fecha-oficial-sitio-postres-que-arrasa-estados-unidos-llega-madrid-partir-este-dia-15501084",
-        "date": "2025-10-01 06:00:01",
-        "sentiment_score": 0.2035946398973465
-    },
-    {
-        "title": "La vida de novela de Antonio Muñoz Molina: un divorcio, tres hijos y un gran amor junto a Elvira",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/09/antonio-munoz-molina-vida.jpeg",
-        "tags": [
-            "celebrities",
-            "relaciones de pareja",
-            "gente",
-            "antonio muñoz molina",
-            "elvira lindo"
-        ],
-        "link": "https://theobjective.com/gente/2025-10-01/antonio-munoz-molina-escritor-elvira-lindo/",
-        "date": "2025-10-01 06:00:00",
-        "sentiment_score": -0.15554285049438477
-    },
-    {
-        "title": "El zapato de cristal de Cenicienta y el casco de Iron Man se verán en una exposición de Disney",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/09/30/68dbd70c50518.r_d.600-600-0.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.lavanguardia.com/local/madrid/20251001/11114255/zapato-cristal-cenicienta-casco-iron-man-llegan-madrid-exposicion-centenario-disney-ep-agenciaslv20251001.html",
-        "date": "2025-10-01 05:59:46",
-        "sentiment_score": 0.09106890112161636
-    },
-    {
-        "title": "Sergio Fernández, el león que rugió en el Almería",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/10/01/68dcbecf516d3.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/341834/sergio-fernandez-leon-rugio-almeria.html",
-        "date": "2025-10-01 05:58:58",
-        "sentiment_score": 0.3728833347558975
-    },
-    {
-        "title": "Ernest Maragall: \"Si Junqueras se presenta, no voy a votarle\"",
-        "image_url": "https://static1.ara.cat/clip/c93187a1-3fa4-4c24-93ce-f649fb4eb530_16-9-aspect-ratio_default_0_x949y124.jpg",
-        "tags": [
-            "junqueras",
-            "ernest",
-            "maragall",
-            "votarle",
-            "presenta",
-            "no"
-        ],
-        "link": "https://es.ara.cat/politica/ernest-maragall-junqueras-presenta-no-votarle_1_5514195.html",
-        "date": "2025-10-01 06:36:04",
-        "sentiment_score": -0.3942487761378288
-    },
-    {
-        "title": "Investigan la muerte violenta de un hombre en el distrito de Sant Andreu de Barcelona",
-        "image_url": "https://static1.ara.cat/clip/2ccbf4a3-1350-4b1d-84e9-9a5531ff3d34_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "muerte",
-            "investigan",
-            "hombre",
-            "violenta",
-            "andreu",
-            "distrito",
-            "sant",
-            "barcelona"
-        ],
-        "link": "https://es.ara.cat/sociedad/sucesos/investigan-muerte-violenta-hombre-distrito-sant-andreu-barcelona_1_5514192.html",
-        "date": "2025-10-01 06:34:17",
-        "sentiment_score": -0.6839754395186901
-    },
-    {
-        "title": "Colau, desde la Flotilla: \"Las próximas horas serán realmente críticas\"",
-        "image_url": "https://www.infobae.com/resizer/v2/FNB2MCTRLNDPNATPU5ANEJ543U.jpg?auth=cb79d2a0d5db598564aa3065160ed4ad4d97deea8586ccd8d836f999bcb5bcb0&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/10/01/colau-desde-la-flotilla-las-proximas-horas-seran-realmente-criticas/",
-        "date": "2025-10-01 06:31:16",
-        "sentiment_score": -0.8533954871818423
-    },
-    {
-        "title": "Gisela Pulido lidera a España en el Mundial de Fórmula Kite",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/09/3bfb8f60-a0c9-b98f-b02e-b026d455db7c.jpg",
-        "tags": [
-            "actualidad",
-            "nautik magazine",
-            "gisela pulido",
-            "formula kite"
-        ],
-        "link": "https://forbes.es/nautik/805502/gisela-pulido-lidera-a-espana-en-el-mundial-de-formula-kite/",
-        "date": "2025-10-01 06:31:14",
-        "sentiment_score": 0.4096468538045883
-    },
-    {
-        "title": "Colau, desde la Flotilla: \"Las próximas horas serán realmente críticas\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/01/68dcc9d7bb639.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.20minutos.es/internacional/colau-desde-flotilla-las-proximas-horas-seran-realmente-criticas_6508980_0.html",
-        "date": "2025-10-01 06:30:45",
-        "sentiment_score": -0.429682444781065
-    },
-    {
-        "title": "Los Mossos d'Esquadra investigan la muerte violenta de un hombre en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1a8aa359-b701-4eb7-aa24-59dc2af933db_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "homicidio",
-            "mossos d'esquadra"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20251001/mossos-desquadra-investigan-muerte-violenta-hombre-barcelona-122142800",
-        "date": "2025-10-01 06:28:52",
-        "sentiment_score": -0.7420663647353649
-    },
-    {
-        "title": "Un hombre aparece muerto con signos de violencia en un edificio de Sant Andreu en Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/05/30/gran-barcelona/1003742661693_14652418_1706x960.jpg",
-        "tags": [
-            "el bon pastor",
-            "sucesos",
-            "en català",
-            "mossos d'esquadra"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sucesos/20251001/hombre-aparece-muerto-signos-violencia-edificio-sant-andreu-barcelona/1003742693360_0.html",
-        "date": "2025-10-01 06:22:04",
-        "sentiment_score": -0.7374423164874315
-    },
-    {
         "title": "Del reencuentro de Ana Rosa Quintana y Gema López al ‘selfie’ de Adela González y Ana Terradillos: así fue el 25o aniversario de verTele",
         "image_url": "https://www.infobae.com/resizer/v2/JN7PMJ5L2VFT7BYIPFA3QXHPAA.jpg?auth=7f56ef0349041b2e4674ce0a288fa962bd50ae4d256b29fd04b398b11c240c11&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -609,72 +204,6 @@ export default [
         "link": "https://www.abc.es/favorito/cuidado-personal/probioticos-usan-mejores-mercado-20251001131111-nt.html",
         "date": "2025-10-01 11:11:11",
         "sentiment_score": -0.0026439428329467773
-    },
-    {
-        "title": "Este banco subasta un piso en Córdoba por 64.000 euros: tiene tres habitaciones y 115 metros cuadrados",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/01/pisosubastacordoba-kpGE-U701678899901OK-1200x840@diario_abc.png",
-        "tags": [
-            "españa",
-            "andalucía",
-            "córdoba"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/banco-subasta-piso-cordoba-64000-euros-tres-20251001114903-nts.html",
-        "date": "2025-10-01 09:49:04",
-        "sentiment_score": -0.09726184606552124
-    },
-    {
-        "title": "Sheinbaum cumple un año con un amplio apoyo, pero con desafíos que amenazan su estabilidad",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/01/1482001211-R6RynksAPCs5z8rCU2XyxhL-1200x840@diario_abc.jpg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.abc.es/internacional/sheinbaum-cumple-ano-amplio-apoyo-desafios-amenazan-20251001103643-nt.html",
-        "date": "2025-10-01 08:36:43",
-        "sentiment_score": 0.12315545976161957
-    },
-    {
-        "title": "Cosital organiza en octubre unas jornadas clave sobre Ordenación del Territorio y Vivienda Pública",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/01/cosital-RQZybLEjyenEU5xPJZFvQ5N-1200x840@diario_abc.JPG",
-        "tags": [
-            "jornadas",
-            "sobre",
-            "publica",
-            "cosital",
-            "octubre",
-            "territorio",
-            "organiza",
-            "clave",
-            "ordenacion",
-            "vivienda"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/cosital-organiza-octubre-jornadas-clave-sobre-ordenacion-20251001101420-nt.html",
-        "date": "2025-10-01 08:14:21",
-        "sentiment_score": 0.01680883765220642
-    },
-    {
-        "title": "Los incendios condicionan el turismo rural de agosto en Castilla y León: caen un 10% los viajeros y un 9,4% las pernoctaciones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/10/01/turismo-rural-RhkhPReZlnD364PFL4x0PiJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "castilla y león"
-        ],
-        "link": "https://www.abc.es/espana/castilla-leon/incendios-condicionan-turismo-rural-agosto-castilla-leon-20251001101119-nt.html",
-        "date": "2025-10-01 08:11:20",
-        "sentiment_score": -0.12627187371253967
-    },
-    {
-        "title": "Hallan muerto al embajador de Sudáfrica en Francia frente a un hotel en París",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/99/media_thumb-link-4102442.webp?1759293126=",
-        "tags": [
-            "suicidio",
-            "politica",
-            "francia",
-            "sudáfrica",
-            "embajador"
-        ],
-        "link": "https://www.meneame.net/story/hallan-muerto-embajador-sudafrica-francia-frente-hotel-paris",
-        "date": "2025-10-01 07:50:03",
-        "sentiment_score": -0.8347150217741728
     },
     {
         "title": "El CGPJ abre expediente al juez que acusó a Pedro Sánchez de “golpismo”",
@@ -8167,5 +7696,411 @@ export default [
         "link": "https://2001online.com/farandula/cuando-la-fama-no-basta-el-oscuro-episodio-de-madonna-que-pocos-conocian-20251041100",
         "date": "2025-10-04 15:00:00",
         "sentiment_score": -0.8279467420652509
+    },
+    {
+        "title": "Exteriores recuerda los teléfonos habilitados para atender a los familiares de los integrantes de la flotilla",
+        "image_url": "https://www.infobae.com/resizer/v2/YONHGJKXVZDXXJIGA2ZXUESXMM.jpg?auth=68da006a4f6a332d6314c4d1db2b1e4fa2f3db05d6e36af1ca0ffc04f654f65d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/04/exteriores-recuerda-los-telefonos-habilitados-para-atender-a-los-familiares-de-los-integrantes-de-la-flotilla/",
+        "date": "2025-10-04 22:15:39",
+        "sentiment_score": 0.07010024785995483
+    },
+    {
+        "title": "Impacto en el Mundial Sub 20: España le ganó a Brasil y lo eliminó por primera vez en la historia de la fase de grupos",
+        "image_url": "https://www.infobae.com/resizer/v2/KSTBIU2QXNF3DP3DCFNO3EBPFU.jpg?auth=36f8681ccdf4671df394e24af1a77fc39f571daf0037f0c6d59fdd5bc01dc507&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "selección de españa",
+            "mundial sub 20",
+            "fútbol",
+            "copa del mundo sub 20",
+            "deportes-argentina",
+            "selección de brasil"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/04/impacto-en-el-mundial-sub-20-espana-le-gano-a-brasil-y-lo-elimino-por-primera-vez-en-la-historia-de-la-fase-de-grupos/",
+        "date": "2025-10-04 22:10:05",
+        "sentiment_score": 0.6948645487427711
+    },
+    {
+        "title": "Loterías de Catalunya: resultados ganadores de la 6/49 este 4 del octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/MKIVKEXZ7FAA3GSZXEOUYC24ZY.jpg?auth=0d3a09096e3675ae539775754e0d00e772eb057ee536ddf36c42697fc44f9654&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "6/49",
+            "españa-loterías",
+            "noticias",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/04/loterias-de-catalunya-resultados-ganadores-de-la-649-este-4-del-octubre/",
+        "date": "2025-10-04 21:00:28",
+        "sentiment_score": 0.4682384356856346
+    },
+    {
+        "title": "Una manifestación en Valencia exige embargo integral de armas y fin de relaciones con Israel: \"Es obligación legal\"",
+        "image_url": "https://www.infobae.com/resizer/v2/JLTJWGQ7OBDVHJLSBQEY6GA26A.jpg?auth=f616451f50e17c3ae006f32e72933e2e2cee183dff9d92ae8ec98d91dec4ad10&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/04/una-manifestacion-en-valencia-exige-embargo-integral-de-armas-y-fin-de-relaciones-con-israel-es-obligacion-legal/",
+        "date": "2025-10-04 20:30:38",
+        "sentiment_score": -0.37659646198153496
+    },
+    {
+        "title": "La Primitiva: este es el número ganador del sorteo del 4 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/5IMBCEZCY5FGVAES2VAZQ2IRLE.jpg?auth=94c01f4e3faa8d28057b313471960bd66294ea91fe0a8aa16b187e4c3fe2c30a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "primitiva",
+            "españa-loterías",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/04/la-primitiva-este-es-el-numero-ganador-del-sorteo-del-4-de-octubre/",
+        "date": "2025-10-04 20:30:33",
+        "sentiment_score": 0.4468725733458996
+    },
+    {
+        "title": "100.000 personas marchan en Madrid para pedir \"alto al genocidio\" y el fin de las relaciones con Israel",
+        "image_url": "https://www.infobae.com/resizer/v2/I23Y4V7SSJE4BAIAIQNSJQGVQI.jpg?auth=9212752b26f3e9463b8ef8e1f163ee9c01af2282cdb352001aca182901283efd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/04/100000-personas-marchan-en-madrid-para-pedir-alto-al-genocidio-y-el-fin-de-las-relaciones-con-israel/",
+        "date": "2025-10-04 20:15:38",
+        "sentiment_score": -0.8592132180929184
+    },
+    {
+        "title": "Resultados de Bonoloto: ganadores y números premiados",
+        "image_url": "https://www.infobae.com/resizer/v2/2D22TSFDBJCEHIECLWRJLWUQIU.jpg?auth=0f8d364022b340f9b936878cdcc9af4602a796ccca3443df81ec42d1022cdd45&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "bonoloto",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/04/resultados-de-bonoloto-ganadores-y-numeros-premiados/",
+        "date": "2025-10-04 20:15:36",
+        "sentiment_score": 0.09238051995635033
+    },
+    {
+        "title": "Treinta años de silencio roto: un cura acusa al obispo de Córdoba por acoso laboral y reabre un caso de pederastia en Astorga",
+        "image_url": "https://www.infobae.com/resizer/v2/ITKCCKMMGNBAZBY6KBFOP2OMCU.png?auth=8f8646771c8d7f036bebd0e1a810b8f0d47a516ad293969d853aa2a30e34978d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "justicia",
+            "león",
+            "menores",
+            "religión católica",
+            "menores españa",
+            "abusos sexuales",
+            "abusos a menores",
+            "españa-noticias",
+            "religión",
+            "españa-sociedad",
+            "sucesos",
+            "iglesia católica",
+            "sucesos españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/04/treinta-anos-de-silencio-un-cura-acusa-al-obispo-de-cordoba-por-acoso-laboral-y-reabre-un-caso-de-pederastia-en-astorga/",
+        "date": "2025-10-04 20:05:08",
+        "sentiment_score": -0.921997781842947
+    },
+    {
+        "title": "España quinto mercado europeo en inversión en IA: ¿qué oportunidades trae para tu país?",
+        "image_url": "https://www.infobae.com/resizer/v2/FZTEOUR5WFCNHGF2NFLLTSFDIE.png?auth=15c17fd8628d3fd6fb25116fb7117823259c0731fc8cdd54a2225358b9aba9e7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "inteligencia artificial",
+            "lo último en tecnología",
+            "españa",
+            "trabajo",
+            "inversión",
+            "europa",
+            "tecnología",
+            "euros"
+        ],
+        "link": "https://www.infobae.com/tecno/2025/10/04/espana-quinto-mercado-europeo-en-inversion-en-ia-que-oportunidades-trae-para-tu-pais/",
+        "date": "2025-10-04 19:50:38",
+        "sentiment_score": 0.7993762101978064
+    },
+    {
+        "title": "Estos son los resultados ganadores del Sorteo 5 de Super Once",
+        "image_url": "https://www.infobae.com/resizer/v2/JHBUAUX5SBC7XDHYK3AJIAK4MA.jpg?auth=6321c084e0c20542cac18ad56f2b3e07889bb0e280070f0dfa9895eb3802317a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "españa-economía",
+            "super once"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/04/estos-son-los-resultados-ganadores-del-sorteo-5-de-super-once/",
+        "date": "2025-10-04 19:45:25",
+        "sentiment_score": 0.12880055978894234
+    },
+    {
+        "title": "Una nueva protesta contra la ilegalización de Palestine Action se salda con 442 detenidos en Londres",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/04/1501534026-kUAH-U701698060260yHF-1200x840@diario_abc.jpg",
+        "tags": [
+            "palestina",
+            "londres",
+            "uh abc",
+            "policía"
+        ],
+        "link": "https://www.abc.es/internacional/nueva-protesta-ilegalizacion-palestine-action-salda-442-20251004220246-nt.html",
+        "date": "2025-10-04 20:03:50",
+        "sentiment_score": -0.21946899592876434
+    },
+    {
+        "title": "El PSOE desmiente el fallecimiento de Guillermo Fernández Vara, expresidente de Extremadura, aunque se encuentra \"muy frágil\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "psoe",
+            "guillermo fernández vara",
+            "extremadura",
+            "politica"
+        ],
+        "link": "https://www.meneame.net/story/psoe-desmiente-fallecimiento-guillermo-fernandez-vara-aunque-muy",
+        "date": "2025-10-04 19:25:02",
+        "sentiment_score": -0.6296766847372055
+    },
+    {
+        "title": "Las mayores protestas en España desde el inicio de la masacre en Gaza sacan a una multitud a las calles",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RJCK46MO5BAU7KIJOUDZNQK3GA.jpg?auth=004275ffacd521d1c3bf602a405598c2a47efea7ce256919cfbb5656a5a43af0&width=1200",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-10-04/las-mayores-protestas-en-espana-desde-el-inicio-de-la-masacre-en-gaza-sacan-a-una-multitud-a-las-calles.html",
+        "date": "2025-10-04 19:43:06",
+        "sentiment_score": 0.141536645591259
+    },
+    {
+        "title": "El horizonte de Begoña Gómez se nubla con cinco delitos, siete investigaciones y el jurado",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/10/05/WhatsApp%20Image%202025-10-04%20at%2010.41.41-RFMhb0dxJmeXMLJnxdDRHIM-1200x840@RC.jpeg",
+        "tags": [
+            "pedro sánchez"
+        ],
+        "link": "https://www.eldiariomontanes.es/nacional/horizonte-begona-gomez-nubla-cinco-delitos-siete-20251005001432-ntrc.html",
+        "date": "2025-10-04 22:15:10",
+        "sentiment_score": -0.7653430104255676
+    },
+    {
+        "title": "«Vacunarse de la gripe no solo evita muertes, también mantiene la calidad de vida»",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/10/03/angel-RlCEwL4vJni5FjDwkivHErK-1200x840@RC.jpg",
+        "tags": [
+            "oms"
+        ],
+        "link": "https://www.ideal.es/sociedad/vacunarse-gripe-solo-evita-muertes-mantiene-calidad-20251003154052-ntrc.html",
+        "date": "2025-10-04 22:14:00",
+        "sentiment_score": -0.7292165346443653
+    },
+    {
+        "title": "Anatomía de los correos: de directora de Moncloa a gestora de la cátedra de Begoña",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/10/05/fotolead-alvarez-840.jpg",
+        "tags": [
+            "pedro sánchez",
+            "unidad central operativa (uco)",
+            "historias visuales"
+        ],
+        "link": "https://www.hoy.es/nacional/anatomia-correos-directora-moncloa-gestora-catedra-begona-20251005001328-ntrc.html",
+        "date": "2025-10-04 22:13:30",
+        "sentiment_score": -0.21519555896520615
+    },
+    {
+        "title": "No habrá vídeos de Real Madrid TV contra el árbitro: Vínicius lidera y convence",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2399903.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/no-habra-videos-de-real-madrid-tv-contra-el-arbitro-vinicius-lidera-y-convence.html",
+        "date": "2025-10-04 22:13:29",
+        "sentiment_score": -0.18358826637268066
+    },
+    {
+        "title": "España gana pero debe esperar a ser una de las cuatro mejores terceras",
+        "image_url": "https://static.grupojoly.com/clip/cc53bb22-79bc-4844-8b69-a94311259fd6_source-aspect-ratio_default_0_x1381y216.jpg",
+        "tags": [
+            "esperar",
+            "gana",
+            "espana",
+            "debe",
+            "cuatro"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/espana-gana-debe-esperar-cuatro_0_2004946190.html",
+        "date": "2025-10-04 22:13:15",
+        "sentiment_score": -0.8131998647004366
+    },
+    {
+        "title": "«El cuento es un tirano implacable»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/10/04/Fernandez-Cubas-RTzjUbau3916leUDMwaqoYL-758x531@RC.jpg",
+        "tags": [
+            "barcelona (provincia)"
+        ],
+        "link": "https://www.elcorreo.com/culturas/cristina-fernandez-cubas-cuento-tirano-implacable-20251004001136-ntrc.html",
+        "date": "2025-10-04 22:12:48",
+        "sentiment_score": 0.2561724931001663
+    },
+    {
+        "title": "España cumple ante Brasil, pero tendrá que esperar",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/05/68e19b57abc43.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/espana-cumple-brasil-tendra-esperar-20251005_3226410.html",
+        "date": "2025-10-04 22:11:47",
+        "sentiment_score": -0.014198750257492065
+    },
+    {
+        "title": "Alimentación, estudios, ropa... Esto es lo que cuesta criar a un hijo hasta que se va de casa",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/10/05/gasto-hijos-khbD-U23032612922726jH-1200x840@RC.jpg",
+        "tags": [
+            "criar",
+            "ropa",
+            "estudios",
+            "hijo",
+            "alimentacion",
+            "cuesta",
+            "casa"
+        ],
+        "link": "https://www.elcomercio.es/vivir/padres-hijos/alimentacion-estudios-ropa-cuesta-criar-hijo-casa-20251005000853-ntrc.html",
+        "date": "2025-10-04 22:09:49",
+        "sentiment_score": -0.6431848518550396
+    },
+    {
+        "title": "El coche eléctrico se estanca y empuja a nuevos parones y despidos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/06/05/684169052faf9.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20251005/11128084/coche-electrico-estanca-empuja-nuevos-parones-despidos.html",
+        "date": "2025-10-04 22:05:00",
+        "sentiment_score": -0.5605983287096024
+    },
+    {
+        "title": "El museo de la sangre",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/03/68dfa623f097b.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20251005/11124082/museo-sangre.html",
+        "date": "2025-10-04 22:05:00",
+        "sentiment_score": 0.15436385571956635
+    },
+    {
+        "title": "Old Trafford se viste de luto: emotivo homenaje a las víctimas del ataque a la sinagoga",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759616748482.jpg?ch=675&cw=1200",
+        "tags": [
+            "atentado a sinagoga",
+            "luto",
+            "judíos",
+            "ataque a sinagoga",
+            "manchester",
+            "manchester united"
+        ],
+        "link": "https://2001online.com/deportes/old-trafford-se-viste-de-luto-emotivo-homenaje-a-las-victimas-del-ataque-a-la-sinagoga-20251041900",
+        "date": "2025-10-04 22:06:37",
+        "sentiment_score": -0.19183602929115295
+    },
+    {
+        "title": "¿Trump en una moneda de dólar? El polémico borrador para conmemorar el 250° aniversario de Estados Unidos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759614737677.jpg?ch=675&cw=1200",
+        "tags": [
+            "250° aniversario de estados unidos",
+            "monedas",
+            "retrato de donald trump",
+            "aniversario de independencia"
+        ],
+        "link": "https://2001online.com/usa/internacionales/trump-en-una-moneda-de-dolar-el-polemico-borrador-para-conmemorar-el-250-aniversario-de-estados-unidos-20251041820",
+        "date": "2025-10-04 22:02:00",
+        "sentiment_score": -0.12498751282691956
+    },
+    {
+        "title": "NOTIFICACIÓN AGROPECUARIA SAN ANTONIO 04 OCT 25",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759615035806.jpg?ch=675&cw=1200",
+        "tags": [
+            "publi servicios - legales"
+        ],
+        "link": "https://2001online.com/legales/notificacion-agropecuaria-san-antonio-04-oct-25-202510417540",
+        "date": "2025-10-04 21:54:00",
+        "sentiment_score": -0.017360735684633255
+    },
+    {
+        "title": "Canonización de José Gregorio Hernández: papa León XIV recibe a médicos venezolanos en El Vaticano",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759614718661.jpg?ch=675&cw=1200",
+        "tags": [
+            "servicio",
+            "papa león xiv",
+            "amor",
+            "vaticano",
+            "josé gregorio hernández",
+            "fe"
+        ],
+        "link": "https://2001online.com/internacionales/canonizacion-de-jose-gregorio-hernandez-papa-leon-xiv-recibe-a-medicos-venezolanos-en-el-vaticano-202510417520",
+        "date": "2025-10-04 21:52:00",
+        "sentiment_score": -0.05399387329816818
+    },
+    {
+        "title": "NOTIFICACIÓN AGROPECUARIA LA MANO DE DIOS C.A 04 OCT 25",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759614679231.jpg?ch=675&cw=1200",
+        "tags": [
+            "publi servicios - legales"
+        ],
+        "link": "https://2001online.com/legales/notificacion-agropecuaria-la-mano-de-dios-c-a-04-oct-25-202510417460",
+        "date": "2025-10-04 21:46:00",
+        "sentiment_score": 0.01663229614496231
+    },
+    {
+        "title": "NOTIFICACIÓN EL DELIRIO 04 OCT 25",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759614132521.jpg?ch=675&cw=1200",
+        "tags": [
+            "publi servicios - legales"
+        ],
+        "link": "https://2001online.com/legales/notificacion-el-delirio-04-oct-25-202510417360",
+        "date": "2025-10-04 21:36:00",
+        "sentiment_score": -0.055635109543800354
+    },
+    {
+        "title": "Reportan suceso dentro del centro comercial Sambil Chacao: esto se sabe",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759613227148.jpg?ch=675&cw=1200",
+        "tags": [
+            "sambil chacao",
+            "muerto"
+        ],
+        "link": "https://2001online.com/sucesos/reportan-suceso-dentro-del-centro-comercial-sambil-chacao-esto-se-sabe-202510417300",
+        "date": "2025-10-04 21:30:00",
+        "sentiment_score": -0.31717341020703316
+    },
+    {
+        "title": "Nueva función \"Pago Instantáneo\": ChatGPT también puede hacer tus compras",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759613739620.jpg?ch=675&cw=1200",
+        "tags": [
+            "compras",
+            "pago instantáneo\"",
+            "ia",
+            "openia",
+            "chatgpt"
+        ],
+        "link": "https://2001online.com/curiosidades/nueva-funcion-pago-instantaneo-chatgpt-tambien-puede-hacer-tus-compras-202510417300",
+        "date": "2025-10-04 21:30:00",
+        "sentiment_score": 0.5497787110507488
+    },
+    {
+        "title": "Pronóstico del Inameh advierte: lluvias con descargas eléctricas en estas regiones",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759611981837.jpg?ch=675&cw=1200",
+        "tags": [
+            "lluvias",
+            "instituto nacional de meteorología e hidrología (inameh)",
+            "chubascos",
+            "pronóstico"
+        ],
+        "link": "https://2001online.com/nacionales/pronostico-del-inameh-advierte-lluvias-con-descargas-electricas-en-estas-regiones-20251041780",
+        "date": "2025-10-04 21:08:00",
+        "sentiment_score": 0.025460023432970047
+    },
+    {
+        "title": "Viaje clandestino: encuentran el cuerpo de un hombre en el tren de aterrizaje de un avión",
+        "image_url": "https://pxcdn.2001online.com/2001/092025/1759200993026.jpg?ch=675&cw=1200",
+        "tags": [
+            "vuelo",
+            "europa",
+            "muerte",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/sucesos/viaje-clandestino-encuentran-el-cuerpo-de-un-hombre-en-el-tren-de-aterrizaje-de-un-avion-20251041700",
+        "date": "2025-10-04 21:00:00",
+        "sentiment_score": -0.7659224309027195
     }
 ];
