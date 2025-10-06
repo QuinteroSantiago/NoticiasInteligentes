@@ -197,79 +197,6 @@ export default [
         "sentiment_score": -0.04946225881576538
     },
     {
-        "title": "Los vehículos electrificados duplican sus ventas en septiembre",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/motor/2025/10/02/COCHE-ELECTRICO-ENCHUFADO-RcANDGgZKATVyXeREYDKd2J-1200x840@diario_abc.jpg",
-        "tags": [
-            "motor",
-            "motoreco"
-        ],
-        "link": "https://www.abc.es/motor/motoreco/vehiculos-electrificados-duplican-ventas-septiembre-20251002144301-nt.html",
-        "date": "2025-10-02 12:43:02",
-        "sentiment_score": 0.010593503713607788
-    },
-    {
-        "title": "El aforo oficial de aceite de oliva para la próxima campaña en Córdoba caerá un 7,5% hasta las 269.100 toneladas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/10/02/1475701997-R4MvCc7TCED8YrqsNFQGPbN-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "andalucía",
-            "córdoba"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/aforo-oficial-aceite-oliva-proxima-campana-cordoba-20251002142113-nts.html",
-        "date": "2025-10-02 12:21:14",
-        "sentiment_score": -0.062124103307724
-    },
-    {
-        "title": "Altavoz inteligente con Alexa con un 54% de descuento: mejor sonido y más conectividad",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2025/10/02/1-RRTMO35EzLNxs5ZKE1ACVjP-1200x840@diario_abc.png",
-        "tags": [
-            "electronica",
-            "favorito"
-        ],
-        "link": "https://www.abc.es/favorito/electronica/altavoz-inteligente-alexa-descuento-mejor-sonido-conectividad-20251002133103-nt.html",
-        "date": "2025-10-02 11:31:04",
-        "sentiment_score": 0.07502840459346771
-    },
-    {
-        "title": "Rashford regresa al Sánchez-Pizjuán tras el inolvidable 3-0 al Manchester United en la Europa League",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2025/10/02/1500939385-RN7qZE4lmKFKXEMnl749qjL-1200x840@diario_abc.jpg",
-        "tags": [
-            "deportes",
-            "orgullo de nervion",
-            "noticias del sevilla fc"
-        ],
-        "link": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/rashford-regresa-sanchezpizjuan-tras-inolvidable-manchester-united-20251002110636-nts.html",
-        "date": "2025-10-02 11:26:54",
-        "sentiment_score": -0.12854060530662537
-    },
-    {
-        "title": "Estos son los fármacos de primera elección para tratar la obesidad",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/salud/2025/10/02/53085577292_78c8ccb6db_k.jpg",
-        "tags": [
-            "medicamentos",
-            "nature",
-            "obesidad"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/farmacos-primera-eleccion-tratar-obesidad-20251002132339-nt.html",
-        "date": "2025-10-02 11:23:39",
-        "sentiment_score": -0.14493303000926971
-    },
-    {
-        "title": "Acompañamiento para abortar",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/10/02/cartas-director-1200x630(1)-U78433284126Bks-1200x630@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "embarazo",
-            "sanidad",
-            "ministerio de sanidad, servicios e igualdad",
-            "aborto",
-            "mónica garcía gómez"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-acompanamiento-abortar-20251002132018-nt.html",
-        "date": "2025-10-02 11:20:19",
-        "sentiment_score": -0.24194377660751343
-    },
-    {
         "title": "Los Bancos de Alimentos de Cataluña abren la inscripción de voluntarios para el ‘Gran Recapte’",
         "image_url": "https://imagenes.elpais.com/resizer/v2/46N3FQ4GRFBVVGBVI5L4WMY2ZY.jpg?auth=a226954fa7f4d08a4b4d9d527fae7ad5883f55833eaa1d8bf0e8496776ba9b54&width=1200",
         "tags": [
@@ -7937,5 +7864,557 @@ export default [
         "link": "https://2001online.com/sucesos/cuatro-detenidos-por-brutal-agresion-en-el-valle-esta-fue-la-imprudencia-que-costo-una-vida-202510515580",
         "date": "2025-10-05 19:58:00",
         "sentiment_score": -0.8144088201224804
+    },
+    {
+        "title": "Pronóstico del estado del tiempo: las temperaturas que se esperan en Málaga este 6 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/A6PD5C4CIFF27E2URW3I46WVJE.png?auth=3610483284f1994b08b8384f5c8535e42f6ac5e59e2bbc59906446cea6720aa3&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "málaga",
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/06/pronostico-del-estado-del-tiempo-las-temperaturas-que-se-esperan-en-malaga-este-6-de-octubre/",
+        "date": "2025-10-06 02:01:49",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima en Madrid: cuál será la temperatura máxima y mínima este 6 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "madrid",
+            "españa sociedad",
+            "noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/06/clima-en-madrid-cual-sera-la-temperatura-maxima-y-minima-este-6-de-octubre/",
+        "date": "2025-10-06 01:31:52",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Barcelona?",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "barcelona",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/06/cual-es-la-temperatura-promedio-en-barcelona/",
+        "date": "2025-10-06 01:17:45",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "La exalcaldesa de Barcelona afirma que han recibido \"maltrato\" de Israel",
+        "image_url": "https://www.infobae.com/resizer/v2/U2SNWXPCAJHOPG7M75W75BA6ZM.jpg?auth=4dc651cc0d1f671dacbcaa7ac1f32307809046326f12e8947a1f29357d003845&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/05/la-exalcaldesa-de-barcelona-afirma-que-han-recibido-maltrato-de-israel/",
+        "date": "2025-10-05 23:45:16",
+        "sentiment_score": -0.7216433845460415
+    },
+    {
+        "title": "Las películas más populares de Prime Video España que no podrás dejar de ver",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "streaming",
+            "películas",
+            "prime video",
+            "españa-televisión",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/10/05/las-peliculas-mas-populares-de-prime-video-espana-que-no-podras-dejar-de-ver/",
+        "date": "2025-10-05 23:31:13",
+        "sentiment_score": 0.5203738547861576
+    },
+    {
+        "title": "Ranking de Netflix en España: estas son las películas más vistas del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "streaming",
+            "películas",
+            "españa-televisión",
+            "noticias",
+            "netflix"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/05/ranking-de-netflix-en-espana-estas-son-las-peliculas-mas-vistas-del-momento/",
+        "date": "2025-10-05 23:30:52",
+        "sentiment_score": 0.537914726883173
+    },
+    {
+        "title": "K-pop: top de las 10 canciones que no paran de sonar en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "itunes",
+            "k-pop",
+            "noticias",
+            "streaming",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/05/k-pop-top-de-las-10-canciones-que-no-paran-de-sonar-en-itunes-espana/",
+        "date": "2025-10-05 23:15:31",
+        "sentiment_score": 0.2121034413576126
+    },
+    {
+        "title": "Moncloa tantea a grandes empresas españolas para entrar en su capital al 'estilo Telefónica'",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/10/06/1473278345-RvyvIAVGI3HZb9vVcWa0jhM-1200x840@diario_abc.jpg",
+        "tags": [
+            "indra",
+            "mercasa",
+            "iag",
+            "sociedad estatal de participaciones industriales (sepi)",
+            "ibex 35",
+            "airbus",
+            "navantia",
+            "pedro sánchez",
+            "josé maría álvarez-pallete",
+            "palacio de la moncloa",
+            "fondo de reestructuración ordenada bancaria (frob)",
+            "bolsa de madrid"
+        ],
+        "link": "https://www.abc.es/economia/moncloa-tantea-grandes-empresas-espanolas-entrar-capital-20251006195429-nt.html",
+        "date": "2025-10-06 01:57:36",
+        "sentiment_score": -0.12799234688282013
+    },
+    {
+        "title": "Intervenir el mercado, por decreto o con cheques",
+        "image_url": "https://s1.abcstatics.com/lavozdigital/www/multimedia/provincia/2025/10/03/hichouok_20251003124712-U86163828666dMO-170x119@abc.jpg",
+        "tags": [
+            "mercados",
+            "economia",
+            "pedro sánchez",
+            "ibex 35"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-intervenir-mercado-decreto-cheques-20251006191104-nt.html",
+        "date": "2025-10-06 01:56:53",
+        "sentiment_score": -0.22577574849128723
+    },
+    {
+        "title": "Sin gobierno en EE.UU.",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/10/05/capitolio-RsRJfUmdkoKFGlruE1ZKFML-758x531@diario_abc.jpg",
+        "tags": [
+            "gobierno",
+            "eeuu"
+        ],
+        "link": "https://www.abc.es/internacional/gobierno-eeuu-20251005203029-nt.html",
+        "date": "2025-10-06 01:51:20",
+        "sentiment_score": -0.09374350309371948
+    },
+    {
+        "title": "Así es 'Zohran Mamdani, el improbable': musulmán, socialista y a punto de ser alcalde de Nueva York",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/06/alcaldable-RTTQEWQCsZwhYOTiNfNvTsO-1200x840@diario_abc.jpg",
+        "tags": [
+            "socialismo",
+            "nueva york",
+            "estados unidos",
+            "atentados 11s",
+            "partido demócrata estados unidos"
+        ],
+        "link": "https://www.abc.es/internacional/zohran-mamdani-alcaldable-musulman-progresista-nueva-york-20251006201523-nt.html",
+        "date": "2025-10-06 01:21:48",
+        "sentiment_score": -0.09228122234344482
+    },
+    {
+        "title": "Noboa adelanta para noviembre el pago del bono navideño a funcionarios públicos",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/06/1492127761-kxQD-U701701796822X9H-1200x840@diario_abc.jpg",
+        "tags": [
+            "daniel noboa",
+            "cyber monday",
+            "ecuador",
+            "navidad",
+            "black friday",
+            "quito"
+        ],
+        "link": "https://www.abc.es/internacional/noboa-adelanta-noviembre-pago-bono-navideno-funcionarios-20251006022507-nt.html",
+        "date": "2025-10-06 00:25:31",
+        "sentiment_score": -0.06354328989982605
+    },
+    {
+        "title": "Colau, a su llegada a Barcelona: “Nos han maltratado, pero no es nada comparado con lo que sufre el pueblo palestino”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7QRF4N5D6NB7NCTGO5XCFWYIMA.jpg?auth=589484cd6c3eeb09bfa8f8d1b628defc5b66349d5575ff201d86cf7f28d651da&width=1200",
+        "tags": [
+            "guerra",
+            "ada colau",
+            "conflicto árabe-israelí",
+            "israel",
+            "detenciones ilegales",
+            "erc",
+            "conflictos",
+            "cataluña",
+            "en comú podem"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-05/colau-a-su-llegada-a-barcelona-nos-han-maltratado-pero-no-es-nada-comparado-con-lo-que-sufre-el-pueblo-palestino.html",
+        "date": "2025-10-05 22:58:40",
+        "sentiment_score": -0.2959977351129055
+    },
+    {
+        "title": "Muere Moncho Neira, fundador del restaurante Botafumeiro de Barcelona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JZ4R7CAXZ5DOXPOTAC42KJUQVE.jpg?auth=7aa17881486361d549a44d77ce15239394304efd658d8a626123cd882a179e30&width=1200",
+        "tags": [
+            "futbolistas",
+            "restaurantes",
+            "david beckham",
+            "marisco",
+            "barcelona",
+            "cataluña",
+            "bares",
+            "restauración",
+            "cafeterías"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-05/muere-moncho-neira-fundador-del-restaurante-botafumeiro-de-barcelona.html",
+        "date": "2025-10-05 22:39:43",
+        "sentiment_score": -0.7753689028322697
+    },
+    {
+        "title": "Risas astrales: el zodiaco se va de tapas por Madrid",
+        "image_url": "https://www.madridactual.es/images/stories/noticias/recursos/horoscopos/horoscopo-6.jpg",
+        "tags": [
+            "horóscopo guasón"
+        ],
+        "link": "https://www.madridactual.es/informacion-de-servicio/horoscopo-guason/risas-astrales-el-zodiaco-se-va-de-tapas-por-madrid-1759723332-20251006-8059155.html",
+        "date": "2025-10-06 02:02:12",
+        "sentiment_score": 0.06091899052262306
+    },
+    {
+        "title": "La Guardia Civil, los comisarios y los celadores (IV)",
+        "image_url": "https://static.grupojoly.com/clip/22f0c720-3c58-4e4f-a012-5a88ff4da866_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/guardia-civil-comisarios-celadores-iv_0_2004931054.html",
+        "date": "2025-10-06 02:01:11",
+        "sentiment_score": 0.5835997685790062
+    },
+    {
+        "title": "Luces de alarma: el peor Mallorca de los últimos veinte años",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3501995.jpg",
+        "tags": [
+            "laliga",
+            "liga ea sports",
+            "fútbol",
+            "ultimas noticias",
+            "última hora",
+            "primera división",
+            "rcd mallorca",
+            "real mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/10/06/2484779/luces-alarma-peor-mallorca-ultimos-veinte-anos.html",
+        "date": "2025-10-06 02:00:02",
+        "sentiment_score": -0.17619124054908752
+    },
+    {
+        "title": "El rincón de Madrid donde Dabiz Muñoz aún celebra con su familia un plato muy especial",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2024/06/21/2024062114522513101.jpg",
+        "tags": [
+            "gourmet"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/gourmet/rincon-madrid-donde-dabiz-munoz-aun-celebra-familia-plato-muy-especial/20251006031949982806.html",
+        "date": "2025-10-06 01:19:49",
+        "sentiment_score": 0.3887086510658264
+    },
+    {
+        "title": "El pintor Luis Sevil y el vino de Jerez",
+        "image_url": "https://static.grupojoly.com/clip/ae52b3b6-5273-456b-afdc-833e5c813acf_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "jerez-xérez-sherry",
+            "últimas noticias jerez"
+        ],
+        "link": "https://www.diariodejerez.es/jerez/pintor-luis-sevil-vino-jerez_0_2004934759.html",
+        "date": "2025-10-06 01:00:30",
+        "sentiment_score": -0.1402488686144352
+    },
+    {
+        "title": "Los móviles de Koldo contienen nuevas conversaciones con el ministro Torres sobre la compra de mascarillas y una refinería",
+        "image_url": "https://s2.elespanol.com/2025/10/05/actualidad/1003743955969_259191214_1706x1280.jpg",
+        "tags": [
+            "gobierno de canarias",
+            "koldo garcía izaguirre",
+            "ángel víctor torres",
+            "víctor de aldama",
+            "corrupción",
+            "política",
+            "gobierno de españa",
+            "psoe (partido socialista obrero español)",
+            "periodismo de investigación"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251006/moviles-koldo-contienen-nuevas-conversaciones-ministro-torres-compra-mascarillas-refineria/1003743955816_0.html",
+        "date": "2025-10-06 00:51:47",
+        "sentiment_score": -0.16896843910217285
+    },
+    {
+        "title": "Pedrerol, sin filtros tras la derrota del Barça ante el Sevilla: \"Estamos en octubre y ya es un equipo sin ideas ni ocasiones\"",
+        "image_url": "https://s2.elespanol.com/2025/10/06/actualidad/1003743956012_259191863_1706x960.jpg",
+        "tags": [
+            "deportes",
+            "la liga",
+            "fc barcelona",
+            "josep pedrerol",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/20251006/pedrerol-sin-filtros-derrota-barca-sevilla-octubre-equipo-ideas-ocasiones/1003743956011_0.html",
+        "date": "2025-10-06 00:11:31",
+        "sentiment_score": 0.6683662682771683
+    },
+    {
+        "title": "05 OCT 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/05-oct-2025-tertulion-domingos-20251006_3226594.html",
+        "date": "2025-10-06 00:00:03",
+        "sentiment_score": -0.3119531571865082
+    },
+    {
+        "title": "Ingresó en el entretiempo y fue reemplazado a los 30 minutos: el enojo de un futbolista del Atlético de Madrid con Simeone",
+        "image_url": "https://www.infobae.com/resizer/v2/P6I6U6L2WRBXFLJLR25BS7JPUE.jpg?auth=a04e0d0497ca98684599081afdddc97f02fbd09ddced3634db56f3575808ff68&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "atlético madrid",
+            "diego simeone",
+            "javi galán",
+            "la liga",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/05/ingreso-en-el-entretiempo-y-fue-reemplazado-a-los-30-minutos-el-enojo-de-un-futbolista-del-atletico-de-madrid-con-simeone/",
+        "date": "2025-10-05 23:27:25",
+        "sentiment_score": -0.7174086757004261
+    },
+    {
+        "title": "Vicente Vallés: \"España está deseosa de una mujer presidenta del Gobierno. Y yo también. Mejoraría el ambiente político\"",
+        "image_url": "https://s2.elespanol.com/2025/10/02/actualidad/1003743951791_259130905_1706x960.jpg",
+        "tags": [
+            "reina letizia",
+            "política",
+            "cni",
+            "pedro sánchez",
+            "cia",
+            "literatura",
+            "periodismo",
+            "familia",
+            "televisión",
+            "rusia"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20251005/vicente_valles-television-periodismo-literatura-politica-pedro_sanchez-caso_espias-rusia-cia-cni-kremlin-amor-familia-isabel_diaz_ayuso-maria_jesus_montero-protagonistas/1003743951612_0.html",
+        "date": "2025-10-05 23:21:34",
+        "sentiment_score": -0.013464778661727905
+    },
+    {
+        "title": "La prensa catalana explica las claves del naufragio del FC Barcelona en el Sánchez Pizjuán",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/06/2025100603582163951.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/prensa-catalana-explica-claves-naufragio-fc-barcelona-sanchez-pizjuan/20251006040125358329.html",
+        "date": "2025-10-06 02:01:25",
+        "sentiment_score": -0.8936550784856081
+    },
+    {
+        "title": "«La terapia CAR-T ha cambiado el paradigma de neoplasias hematológicas»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3499863.jpg",
+        "tags": [
+            "palma de mallorca",
+            "palma",
+            "ultimas noticias",
+            "local",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/10/06/2483857/terapia-car-cambiado-paradigma-neoplasias-hematologicas.html",
+        "date": "2025-10-06 02:00:02",
+        "sentiment_score": -0.038276538252830505
+    },
+    {
+        "title": "«Respeto las normas y procuro que la convivencia entre todos sea buena»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3501043.jpg",
+        "tags": [
+            "tendencias",
+            "última hora",
+            "sociedad"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/10/06/2484419/respeto-normas-procuro-convivencia-entre-todos-sea-buena.html",
+        "date": "2025-10-06 02:00:02",
+        "sentiment_score": 0.0021283328533172607
+    },
+    {
+        "title": "El helado más caro (y deseado) que está marcando tendencia en Barcelona",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/05/04/2025050407531846810.jpg",
+        "tags": [
+            "gourmet"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/gourmet/helado-mas-caro-deseado-que-marcando-tendencia-barcelona/20251006031034982804.html",
+        "date": "2025-10-06 01:10:34",
+        "sentiment_score": 0.5485045090317726
+    },
+    {
+        "title": "El chef Dani García revela qué cena prepara en solo 15 minutos sin ensuciar la cocina",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/06/09/2025060910055730760.jpg",
+        "tags": [
+            "gourmet"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/gourmet/chef-dani-garcia-revela-que-cena-prepara-solo-15-minutos-ensuciar-cocina/20251006030600982803.html",
+        "date": "2025-10-06 01:06:00",
+        "sentiment_score": 0.7382484376430511
+    },
+    {
+        "title": "BBVA cede tras una estafa bancaria y devuelve una cifra inesperada a una clienta",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/08/06/2025080612435237322.jpg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/dinero/bbva-cede-estafa-bancaria-devuelve-cifra-inesperada-clienta/20251006023358982799.html",
+        "date": "2025-10-06 00:33:58",
+        "sentiment_score": -0.31440459936857224
+    },
+    {
+        "title": "Cirugías oncológicas gratis hay en Barcelona",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/10/fachada-300x170.jpg",
+        "tags": [
+            "salud",
+            "anzoátegui"
+        ],
+        "link": "https://ultimasnoticias.com.ve/salud/cirugias-oncologicas-gratis-hay-en-barcelona/",
+        "date": "2025-10-06 00:21:34",
+        "sentiment_score": -0.011524230241775513
+    },
+    {
+        "title": "Por qué los Nobel se le resisten a España: \"Falta una cultura científica que premie el talento y el riesgo, y que apueste por los jóvenes\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/8c7c9b54f00109be21cc58fafdc2e3cf/f/image/jpeg/assets/multimedia/imagenes/2024/05/22/17163900462300.jpg",
+        "tags": [
+            "nlpremium",
+            "ciencia",
+            "ciencia y salud",
+            "artículos teresa guerrero"
+        ],
+        "link": "https://www.elmundo.es/papel/historias/2025/10/06/68e007a121efa0d8188b45a5.html",
+        "date": "2025-10-06 00:16:55",
+        "sentiment_score": 0.3728893846273422
+    },
+    {
+        "title": "Deja atrás la migraña: así debes consumir el jengibre para aprovechar sus propiedades antinflamatorias",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759716073913.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/deja-atras-la-migrana-asi-debes-consumir-el-jengibre-para-aprovechar-sus-propiedades-antinflamatorias-202510522150",
+        "date": "2025-10-06 02:15:00",
+        "sentiment_score": 0.33844470232725143
+    },
+    {
+        "title": "\"A Great Love\": la historia del músico argentino que conquista los rankings en Estados Unidos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759721232083/IMG_0720.jpeg?ch=675&cw=1200",
+        "tags": [
+            "a great love",
+            "gerardo \"tommy\" loidi",
+            "jonatan loidi"
+        ],
+        "link": "https://2001online.com/farandula/a-great-love-la-historia-del-musico-argentino-que-conquista-los-rankings-en-estados-unidos-20251052230",
+        "date": "2025-10-06 02:03:00",
+        "sentiment_score": 0.6855687722563744
+    },
+    {
+        "title": "Predicciones de la semana del 6 al 12 de octubre",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759435833927.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-6-al-12-de-octubre-20251052200",
+        "date": "2025-10-06 02:00:00",
+        "sentiment_score": -0.036967724561691284
+    },
+    {
+        "title": "Director del laboratorio Pierre Fabre explica la forma correcta de cuidar tus canas: haz que tu melena brille y tenga cuerpo",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759496829634.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/director-del-laboratorio-pierre-fabre-explica-la-forma-correcta-de-cuidar-tus-canas-haz-que-tu-melena-brille-y-tenga-cuerpo-20251052200",
+        "date": "2025-10-06 02:00:00",
+        "sentiment_score": 0.7912228405475616
+    },
+    {
+        "title": "Adulto mayor cae a las vías del Metro de Caracas: conoce los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759714870120.jpg?ch=675&cw=1200",
+        "tags": [
+            "rieles del metro",
+            "caracas",
+            "los dos caminos",
+            "metro de caracas"
+        ],
+        "link": "https://2001online.com/sucesos/adulto-mayor-cae-a-las-vias-del-metro-de-caracas-conoce-los-detalles-202510521440",
+        "date": "2025-10-06 01:44:00",
+        "sentiment_score": 0.09982217848300934
+    },
+    {
+        "title": "Atención emprendedores: estos son los documentos que deben tener para ejercer la Economía Popular en Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759542891873.jpg?ch=675&cw=1200",
+        "tags": [
+            "venezuela",
+            "caracas",
+            "vendedores",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/servicios/atencion-emprendedores-estos-son-los-documentos-que-deben-tener-para-ejercer-la-economia-popular-en-caracas-20251052100",
+        "date": "2025-10-06 01:00:00",
+        "sentiment_score": 0.08242018520832062
+    },
+    {
+        "title": "Instagram cambia las reglas: conoce el nuevo formato para tus videos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759710241771.jpg?ch=675&cw=1200",
+        "tags": [
+            "instagram",
+            "nuevo formato de instagram",
+            "influencer",
+            "videos",
+            "videos nuevo formato"
+        ],
+        "link": "https://2001online.com/curiosidades/instagram-cambia-las-reglas-conoce-el-nuevo-formato-para-tus-videos--202510520300",
+        "date": "2025-10-06 00:30:00",
+        "sentiment_score": 0.7255994789302349
+    },
+    {
+        "title": "Deslizamientos de tierras e intensas lluvias en países de Asia: reportan más de 70 fallecidos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759706378593.jpg?ch=675&cw=1200",
+        "tags": [
+            "deslizamientos de tierra",
+            "nepal",
+            "india y pakistán",
+            "paises asiaticos",
+            "lluvias"
+        ],
+        "link": "https://2001online.com/internacionales/deslizamientos-de-tierras-e-intensas-lluvias-en-paises-de-asia-reportan-mas-de-70-fallecidos-202510520100",
+        "date": "2025-10-06 00:10:00",
+        "sentiment_score": -0.8746615070849657
+    },
+    {
+        "title": "Novak Djokovic: historia, legado y títulos del tenista serbio",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759695914241.jpg?ch=675&cw=1200",
+        "tags": [
+            "tenis",
+            "atp",
+            "tenista serbio",
+            "novak djokovic",
+            "tenista",
+            "djokovic",
+            "serbia",
+            "grand slam"
+        ],
+        "link": "https://2001online.com/deportes/novak-djokovic-historia-legado-y-titulos-del-tenista-serbio-20251052100",
+        "date": "2025-10-06 00:08:09",
+        "sentiment_score": 0.37169261276721954
+    },
+    {
+        "title": "¡Es oficial! McDonald's trae de vueltas estas populares “cajitas” para Halloween",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "promoción",
+            "mcdonald's",
+            "halloween"
+        ],
+        "link": "https://2001online.com/usa/servicios/es-oficial-mcdonald-s-trae-de-vueltas-estas-populares-cajitas-para-halloween-20251052000",
+        "date": "2025-10-06 00:00:00",
+        "sentiment_score": -0.5266332551836967
     }
 ];
