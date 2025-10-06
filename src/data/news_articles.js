@@ -1,234 +1,5 @@
 export default [
     {
-        "title": "Paula Cruz, una española que vive en Estados Unidos: “Es un país para trabajar, pero no para vivir”",
-        "image_url": "https://www.infobae.com/resizer/v2/E5DWTZDTC5ACXJJSIJ7ROARWDY.png?auth=96a3a3ddc90fcce1341bd633e8096a82c2dc55b7e1bdec2080cfbf7ff61ad7bf&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "estados unidos",
-            "tiktok",
-            "tiktok españa",
-            "españa-noticias",
-            "españa-sociedad",
-            "redes sociales"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/02/paula-cruz-una-espanola-que-vive-en-estados-unidos-es-un-pais-para-trabajar-pero-no-para-vivir/",
-        "date": "2025-10-02 06:30:21",
-        "sentiment_score": 0.08766131103038788
-    },
-    {
-        "title": "El ‘techo de cristal’ persiste: las mujeres solo ocupan un 22% de los puestos directivos en España",
-        "image_url": "https://www.infobae.com/resizer/v2/MV56CUZ6CZAI7OOAO2HPIKQOFM.jpg?auth=9b9fb60a9b3c0f860b090ce77c8f2a7f7035ac60e2f9e2129da16ebdcf5df9a3&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "empresas españa",
-            "alta dirección",
-            "españa-economia",
-            "desigualdad",
-            "brecha de género",
-            "techo de cristal",
-            "españa-noticias",
-            "conciliación laboral",
-            "igualdad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/02/el-techo-de-cristal-persiste-las-mujeres-solo-ocupan-un-22-de-los-puestos-directivos-en-espana/",
-        "date": "2025-10-02 06:05:48",
-        "sentiment_score": -0.7427769061177969
-    },
-    {
-        "title": "Cómo detectar si tu jefe es un psicópata, según una experta en acoso laboral",
-        "image_url": "https://www.infobae.com/resizer/v2/LGMAGODDGZBSVJAPGMLXIMWRE4.png?auth=545cd424ede7ffba4aa98435d4555a9385796a6240fbb19ac4f905ba88ed4387&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "tiktok",
-            "tiktok españa",
-            "españa-noticias",
-            "españa-sociedad",
-            "redes sociales",
-            "acoso laboral"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/02/como-detectar-si-tu-jefe-es-un-psicopata-segun-una-experta-en-acoso-laboral/",
-        "date": "2025-10-02 06:01:40",
-        "sentiment_score": -0.5648886375129223
-    },
-    {
-        "title": "El presidente de Metroscopia comparece este jueves en el Senado para valorar la gestión de Tezanos al frente del CIS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/10/02/el-presidente-de-metroscopia-comparece-este-jueves-en-el-senado-para-valorar-la-gestion-de-tezanos-al-frente-del-cis/",
-        "date": "2025-10-02 06:01:09",
-        "sentiment_score": 0.18302421271800995
-    },
-    {
-        "title": "Más de 170.000 argentinos adquieren la nacionalidad española a través de la la ‘ley de nietos’ para descendientes de exiliados republicados",
-        "image_url": "https://www.infobae.com/resizer/v2/U526OCUH2ZCLLBP32XFNTACW5Q.jpg?auth=ea510600827c145f5e1322a060a9ae36e4a67896cf98f849955d44f3ece24e81&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "franquismo",
-            "memoria histórica",
-            "guerra civil española",
-            "españa-noticias",
-            "memoria democrática",
-            "españa-sociedad",
-            "ley de nietos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/02/mas-de-170000-argentinos-adquieren-la-nacionalidad-espanola-a-traves-de-la-la-ley-de-nietos-para-descendientes-de-exiliados-republicados/",
-        "date": "2025-10-02 05:51:40",
-        "sentiment_score": 0.17667340487241745
-    },
-    {
-        "title": "Una anciana vende la mitad de su vivienda a la empresa de una amiga y, aunque nunca se demostró que recibiera el dinero, no hubo estafa",
-        "image_url": "https://www.infobae.com/resizer/v2/H7LDINF3WVCPNBUQPBPFNNP3NU.jpg?auth=22cbe772e413e83ea8211e00a13a0b7db7fcfeda4f378495fd7466d36662b097&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "justicia",
-            "sentencias",
-            "españa-nacional",
-            "juicios",
-            "vivienda",
-            "tribunales españa",
-            "estafas",
-            "españa-noticias",
-            "vivienda españa",
-            "comunidad valenciana"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/02/una-anciana-vende-la-mitad-de-su-vivienda-a-la-empresa-de-una-amiga-y-aunque-nunca-se-demostro-que-recibiera-el-dinero-no-hubo-estafa/",
-        "date": "2025-10-02 05:49:23",
-        "sentiment_score": -0.809062484651804
-    },
-    {
-        "title": "Un director español compara su película con la de Paul Thomas Anderson y Leonardo DiCaprio y descubre grandes coincidencias: “Loco, ¿eh?\"",
-        "image_url": "https://www.infobae.com/resizer/v2/WR7QMYI265FGDBUD3NCZU4WBIQ.jpg?auth=214720606dcfc89e04c387d1cf1cda1385d56883aff028af3c2488636c164149&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "cine españa",
-            "cine",
-            "leonardo dicaprio",
-            "directores",
-            "cine español",
-            "paul thomas anderson",
-            "españa-noticias",
-            "españa-cultura"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/10/02/un-director-espanol-compara-su-pelicula-con-la-de-paul-thomas-anderson-y-leonardo-dicaprio-y-descubre-grandes-coincidencias-loco-eh/",
-        "date": "2025-10-02 05:40:43",
-        "sentiment_score": 0.8220062721520662
-    },
-    {
-        "title": "Juan Nattex, experto en sueño: “Las personas que duermen mal y se levantan cansadas cometen este error”",
-        "image_url": "https://www.infobae.com/resizer/v2/FWY7ICIU2ZBOFAKXFYF5BBHSO4.jpg?auth=19887cde0c5ed9d35d9901ba4e69a09b9260cbc71e96c33b85f4be50740cd304&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "dormir",
-            "españa-noticias",
-            "redes sociales",
-            "sueño",
-            "tiktok",
-            "españa-salud",
-            "tiktok españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/02/juan-nattex-experto-en-sueno-las-personas-que-duermen-mal-y-se-levantan-cansadas-cometen-este-error/",
-        "date": "2025-10-02 05:20:20",
-        "sentiment_score": 0.6686447281390429
-    },
-    {
-        "title": "Los embalses de agua se encuentran al 55,01 % de su capacidad este jueves 2 de octubre",
-        "image_url": "https://www.infobae.com/resizer/v2/ZCPV6775XRB5DPEFENUCEFG2EA.png?auth=205756b17da068a8ecca24602fa6cff95eba7e5175a2b73da71603adff4b7941&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "agua",
-            "españa-noticias",
-            "embalses españa",
-            "noticias",
-            "sequía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/02/los-embalses-de-agua-se-encuentran-al-5501-de-su-capacidad-este-jueves-2-de-octubre/",
-        "date": "2025-10-02 05:15:49",
-        "sentiment_score": 0.015364453196525574
-    },
-    {
-        "title": "Cambio de euro a dólar hoy 2 de octubre: cómo está la cotización y previsiones",
-        "image_url": "https://www.infobae.com/resizer/v2/7NQ2VALWDVEYBPUCGC3LFFUW3E.jpg?auth=1ddd663cca1fb0ddc1f77c839ac455899f847a00183cabd975f8de77b179ef6b&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "bancos españa",
-            "tipo de cambio",
-            "billetes",
-            "monedas",
-            "españa-economía",
-            "noticias",
-            "mercados",
-            "dólar",
-            "euros"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/02/cambio-de-euro-a-dolar-hoy-2-de-octubre-como-esta-la-cotizacion-y-previsiones/",
-        "date": "2025-10-02 05:15:30",
-        "sentiment_score": -0.15754206478595734
-    },
-    {
-        "title": "La Universidad de la Experiencia bate «récord» de alumnos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/02/_05MAX202510708121-R69vWWV5vYMdzu7mDtpKpKI-1200x840@diario_abc.jpg",
-        "tags": [
-            "castilla y león",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/castilla-leon/universidad-experiencia-bate-record-alumnos-20251002082416-nt.html",
-        "date": "2025-10-02 06:24:17",
-        "sentiment_score": 0.039099544286727905
-    },
-    {
-        "title": "Tamara Gorro pierde los papeles ante las declaraciones sobre Andy y Lucas de Mariano, su telonero: \"El dibujo que estás haciendo no es real\"",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/files/fp/uploads/2025/10/02/68de1b7ec8357.r_d.1357-479-0.jpeg",
-        "tags": [
-            "trending topic"
-        ],
-        "link": "https://www.cadena100.es/trending-topic/noticias/tamara-gorro-pierde-papeles-declaraciones-sobre-andy-lucas-mariano-telonero-dibujo-haciendo-real-20251002_140477.html",
-        "date": "2025-10-02 06:32:34",
-        "sentiment_score": -0.02920079231262207
-    },
-    {
-        "title": "Guiomar Alfaro, la modelo del momento, a los 55 años, presenta su primer libro: \"El verdadero lujo es tener menos miedo de ser tú misma\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2adc854-1689-4f1d-9150-a77e8b88712b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "modelos,menopausia,libros"
-        ],
-        "link": "https://www.laopiniondezamora.es/vida-y-estilo/moda-belleza/2025/10/02/guiomar-alfaro-modelo-pasarelas-menopausia-publica-primer-libro-lujo-ser-tu-misma-sororidad-mujeres-122182935.html",
-        "date": "2025-10-02 06:29:21",
-        "sentiment_score": 0.29424948990345
-    },
-    {
-        "title": "Alfonso Arús dice lo que nadie se espera de las palabras de Luis Enrique en rueda de prensa tras ganar al Barça",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/10/02/68de1ad1e990f.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20251002/1002543192/alfonso-arus-dice-nadie-espera-palabras-luis-enrique-rueda-prensa-ganar-barca-dct.html",
-        "date": "2025-10-02 06:38:54",
-        "sentiment_score": 0.1335366666316986
-    },
-    {
-        "title": "La Flotilla de Gaza continúa su rumbo tras interceptar Israel a 13 de sus barcos",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/10/01/2025100122212687825.jpg",
-        "tags": [
-            "mundo"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/mundo/directo-flotilla-gaza-continua-rumbo-interceptar-israel-13-barcos/202510020833581411007.html",
-        "date": "2025-10-02 06:33:58",
-        "sentiment_score": -0.15379834920167923
-    },
-    {
-        "title": "El Ejército israelí asalta 13 barcos de la Flotilla, pero los activistas dicen que otros 30 siguen rumbo a la Franja de Gaza",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/02/68de08e107496.png",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.20minutos.es/internacional/ultimas-noticias-flotilla-libertad-colau-guerra-gaza-israel-hamas-paz-trump-directo_6508975_6.html",
-        "date": "2025-10-02 06:31:54",
-        "sentiment_score": -0.22116785496473312
-    },
-    {
-        "title": "La lluvia activa hoy los avisos en Barcelona y Tarragona, mientras las temperaturas suben en el interior del país",
-        "image_url": "https://www.infobae.com/resizer/v2/WSGZ6MXZIFCIVFSV4JFDCDHHZU.jpg?auth=182f1f2d2e499b72c61bd6bd2ce84b96cf7938c25b02aebf1c60c3f79c4fdf06&height=675&quality=85&smart=true&width=1200",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/10/02/la-lluvia-activa-hoy-los-avisos-en-barcelona-y-tarragona-mientras-las-temperaturas-suben-en-el-interior-del-pais/",
-        "date": "2025-10-02 06:30:19",
-        "sentiment_score": 0.2488589733839035
-    },
-    {
         "title": "Gobierno y comunidades no llegan a un acuerdo sobre el nuevo Plan Estatal de Vivienda y aplazan la reunión a la semana que viene “para buscar el consenso”",
         "image_url": "https://www.infobae.com/resizer/v2/TF2ZZ7LMTFALZK6DSRGXSYXJJ4.jpg?auth=38fdfd88e70ab14cf50e15bb01d85578012bc985baafc6eda99a30c047d5348b&height=675&quality=85&smart=true&width=1200",
         "tags": [
@@ -7755,5 +7526,416 @@ export default [
         "link": "https://2001online.com/usa/internacionales/no-te-lo-contaron-descubre-los-hechos-mas-curiosos-que-moldearon-la-estrella-solitaria-de-texas-20251051100",
         "date": "2025-10-05 15:00:00",
         "sentiment_score": 0.772337943315506
+    },
+    {
+        "title": "ACT. (Previa) España inicia este lunes su concentración para los partidos ante Georgia y Bulgaria",
+        "image_url": "https://www.infobae.com/resizer/v2/EWHELHJO5VCDHOAI43CHALEONA.jpg?auth=550eaf2ad7e0fd2a791f7637b1c8e1acc3fa4b451f2cd8c162ab4843cbe4e995&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/05/act-previa-espana-inicia-este-lunes-su-concentracion-para-los-partidos-ante-georgia-y-bulgaria/",
+        "date": "2025-10-05 22:15:15",
+        "sentiment_score": 0.11598859168589115
+    },
+    {
+        "title": "Ada Colau (BComú) y Jordi Coronas (ERC) aterrizan en Barcelona tras ser deportados por Israel",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/05/ada-colau-bcomu-y-jordi-coronas-erc-aterrizan-en-barcelona-tras-ser-deportados-por-israel/",
+        "date": "2025-10-05 22:00:34",
+        "sentiment_score": -0.5545382797718048
+    },
+    {
+        "title": "Quinigol: comprueba los resultados del 5 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "quinigol",
+            "noticias",
+            "españa-loterias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/05/quinigol-comprueba-los-resultados-del-5-de-octubre/",
+        "date": "2025-10-05 21:24:39",
+        "sentiment_score": 0.043751731514930725
+    },
+    {
+        "title": "Resultados ganadores del Quíntuple Plus del 5 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZT3SFR67INBWZDTF2TMQOAS4WM.png?auth=819000da0f7c06412e0c854663e66d9a63bf00d14b526f119579b1cdd5a5a86b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterias",
+            "noticias",
+            "quíntuple plus"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/05/resultados-ganadores-del-quintuple-plus-del-5-de-octubre/",
+        "date": "2025-10-05 21:23:44",
+        "sentiment_score": 0.05568002164363861
+    },
+    {
+        "title": "(Previa) España inicia este lunes su concentración para los partidos ante Georgia y Bulgaria",
+        "image_url": "https://www.infobae.com/resizer/v2/NZAEU2BBXZAAXBVTL664EENC4Y.jpg?auth=7839db335ee810689ed6d5f655adae5a28dfdbb6b2176ba0267c5848773d57ac&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/05/previa-espana-inicia-este-lunes-su-concentracion-para-los-partidos-ante-georgia-y-bulgaria/",
+        "date": "2025-10-05 21:15:54",
+        "sentiment_score": 0.14064722321927547
+    },
+    {
+        "title": "Los españoles de la flotilla denuncian malos tratos de Israel: \"Una situación de intentar humillarnos y vejarnos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/K3DTCSPCZ5AY5MPBYIGFAPY26Y.jpg?auth=7906271fd097ab9db85d8484983715af823b332a256d560da9589fc04dc7d837&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/05/los-espanoles-de-la-flotilla-denuncian-malos-tratos-de-israel-una-situacion-de-intentar-humillarnos-y-vejarnos/",
+        "date": "2025-10-05 21:00:35",
+        "sentiment_score": -0.9290554756298661
+    },
+    {
+        "title": "Militantes y ciudadanos despiden en silencio a Vara, expresidente y uno de los \"padres\" de la familia socialista",
+        "image_url": "https://www.infobae.com/resizer/v2/GVJCC36R2JD2PKYZTLGIYPFCGI.jpg?auth=c40fe3962123983e3e2d3ba83134e073f28cca0ced018fa73d3b7dbf0082a50e&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/05/militantes-y-ciudadanos-despiden-en-silencio-a-vara-expresidente-y-uno-de-los-padres-de-la-familia-socialista/",
+        "date": "2025-10-05 20:45:35",
+        "sentiment_score": -0.7440653573721647
+    },
+    {
+        "title": "Comprueba los resultados del Lototurf de este 5 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/XUZH4R6EORA4TL6AXQM5XXBG5M.png?auth=47b4aacadda7019d429d7df45865af6642b2403f048855b2a9853351367f3dc4&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "lototurf",
+            "españa-loterias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/05/comprueba-los-resultados-del-lototurf-de-este-5-de-octubre/",
+        "date": "2025-10-05 20:24:58",
+        "sentiment_score": 0.01279192790389061
+    },
+    {
+        "title": "Belarra recibe en Barajas a los 21 españoles de la flotilla y defiende que \"representan lo mejor de nuestra sociedad\"",
+        "image_url": "https://www.infobae.com/resizer/v2/3DX7H277EBBB7HUTTGX7BJEL2E.jpg?auth=b76cf20eeb0354ce051526fd99a43299680604725a1b6b8f28d4b8c103c59e8c&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/05/belarra-recibe-en-barajas-a-los-21-espanoles-de-la-flotilla-y-defiende-que-representan-lo-mejor-de-nuestra-sociedad/",
+        "date": "2025-10-05 20:16:14",
+        "sentiment_score": -0.6057997196912766
+    },
+    {
+        "title": "Yolanda Díaz da la bienvenida a los 21 españoles de la flotilla: \"No vamos a parar hasta que liberen a los que faltan\"",
+        "image_url": "https://www.infobae.com/resizer/v2/PKCFFB2LLZFCBFXFOGNJ6GVJ3Y.jpg?auth=ee89cd2505b3ce5500873b0686ab1bd1d33ef3d3993c6da3d02176a20676cfdf&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/05/yolanda-diaz-da-la-bienvenida-a-los-21-espanoles-de-la-flotilla-no-vamos-a-parar-hasta-que-liberen-a-los-que-faltan/",
+        "date": "2025-10-05 20:15:56",
+        "sentiment_score": 0.28087957203388214
+    },
+    {
+        "title": "La ONU enviará a Haití una misión especial de 5.500 efectivos para frenar la expansión de las bandas criminales",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/05/ONUHAITI-RoGhFiqLbxEjqgWfXlt5heO-1200x840@diario_abc.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.abc.es/internacional/onu-enviara-haiti-mision-especial-5500-efectivos-20251005222540-nt.html",
+        "date": "2025-10-05 20:25:40",
+        "sentiment_score": -0.6752447262406349
+    },
+    {
+        "title": "CGTN, así es la voz en español de la propaganda china que ahora sirve Pablo Iglesias",
+        "image_url": "https://phantom-elmundo.uecdn.es/e6b7b34b4a16dd622051972c296ece73/crop/0x104/596x699/f/image/jpeg/assets/multimedia/imagenes/2022/05/03/16515910186356.jpg",
+        "tags": [
+            "irene montero",
+            "podemos",
+            "artículos lucas de la cal",
+            "pablo iglesias",
+            "ione belarra"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/10/06/68e2a0e5e85ecebd538b457e.html",
+        "date": "2025-10-05 22:08:23",
+        "sentiment_score": 0.4238906614482403
+    },
+    {
+        "title": "Los precios del tren caen un 33% tras la liberalización y atraen 3,7 millones de usuarios del vehículo particular",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/graficos/1759404482_990x0.jpg",
+        "tags": [
+            "renfe",
+            "actualidad económica"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/10/06/68dfd742e4d4d8fe258b4589.html",
+        "date": "2025-10-05 22:07:31",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "El Gobierno da otra patada al balón de los Presupuestos y alienta el recelo de sus socios",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/10/04/montero-sanchez-RpIdyb42EaLVocnEA9rShlJ-1200x840@RC.jpg",
+        "tags": [
+            "presupuestos generales del estado",
+            "pedro sánchez",
+            "maría jesús montero"
+        ],
+        "link": "https://www.ideal.es/nacional/gobierno-patada-balon-presupuestos-alienta-recelo-socios-20251006220601-ntrc.html",
+        "date": "2025-10-05 22:05:27",
+        "sentiment_score": -0.3462771102786064
+    },
+    {
+        "title": "Grabación de Emergencias del Cecopi desde las 17 a las 19 horas del 29 de octubre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47327d8f-8487-42f2-891c-ba03795ec57f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dana",
+            "comunitat valenciana"
+        ],
+        "link": "https://www.lacronicabadajoz.com/sociedad/2025/10/05/grabacion-emergencias-cecopi-17-19-122309467.html",
+        "date": "2025-10-05 21:50:49",
+        "sentiment_score": -0.03137947618961334
+    },
+    {
+        "title": "Sevilla destroza al Barça y el Atlético tropieza en Vigo",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2025/10/05/2025100523281281259.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/deportes/sevilla-barcelona-celta-empate-atletico/20251005233415436358.html",
+        "date": "2025-10-05 21:34:15",
+        "sentiment_score": 0.7451794147491455
+    },
+    {
+        "title": "Crónica del RC Celta - Atlético de Madrid, 1-1",
+        "image_url": "https://www.infobae.com/resizer/v2/2KNMWAAHJVD57FLLZGCFRJ57UQ.jpg?auth=51c840e0c545467782a45c85aa9faa18e03b6881e279acdf953ee983712389d7&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/05/cronica-del-rc-celta-atletico-de-madrid-1-1/",
+        "date": "2025-10-05 21:31:12",
+        "sentiment_score": -0.05034942924976349
+    },
+    {
+        "title": "La Copa del Rey sortea este lunes su primera eliminatoria con 16 equipos de LaLiga EA Sports",
+        "image_url": "https://www.infobae.com/resizer/v2/TPYV7P3CVNBLNNKOA6SAOLBWAQ.jpg?auth=b550758e4c8b69eedfe5e4e39b619e47432d1214a99f5c9a855b0c1ebd5947e6&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/05/la-copa-del-rey-sortea-este-lunes-su-primera-eliminatoria-con-16-equipos-de-laliga-ea-sports/",
+        "date": "2025-10-05 21:30:37",
+        "sentiment_score": 0.18290034867823124
+    },
+    {
+        "title": "Avanzan las negociaciones para la \"nueva\" Champions League",
+        "image_url": "https://pxcdn.meridiano.net/102025/1759699557863.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/avanzan-las-negociaciones-para-la-nueva-champions-league-202510517260",
+        "date": "2025-10-05 21:26:00",
+        "sentiment_score": 0.26546627283096313
+    },
+    {
+        "title": "Regreso flotilla | Directo: Los españoles de la flotilla denuncian malos tratos de Israel",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251006001744_120.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-colau-comuns-coronas-erc-afirman-recibido-maltrato-israel-20251006001744.html",
+        "date": "2025-10-05 22:17:44",
+        "sentiment_score": -0.8785935752093792
+    },
+    {
+        "title": "Colau encabeza el primer grupo de 21 activistas de la Flotilla que vuelve a España: \"Hemos recibido un trato denigrante\"",
+        "image_url": "https://s2.elespanol.com/2025/10/06/actualidad/1003743956002_259191686_1706x960.jpg",
+        "tags": [
+            "activismo",
+            "españa",
+            "israel"
+        ],
+        "link": "https://www.elespanol.com/espana/20251005/colau-encabeza-primer-grupo-activistas-flotilla-vuelve-espana-recibido-trato-denigrante/1003743955987_0.html",
+        "date": "2025-10-05 22:11:12",
+        "sentiment_score": -0.8850980419665575
+    },
+    {
+        "title": "El efecto nenúfar: desenfocar el mundo para ver más allá del caos",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/09/21/Monet-cultura-desenfocado-3-RAyLqz7kzaGjlRiGF7qI94L-758x531@RC.jpeg",
+        "tags": [
+            "el mundo"
+        ],
+        "link": "https://www.elcorreo.com/culturas/efecto-nenufar-desenfocar-mundo-ver-alla-caos-20250921182842-ntrc.html",
+        "date": "2025-10-05 22:10:35",
+        "sentiment_score": 0.649597555398941
+    },
+    {
+        "title": "Israel, un referente incómodo para Junts per Catalunya",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/10/06/puigdemont-israel-kQsH-U2303279645181MeB-1200x840@RC.jpg",
+        "tags": [
+            "israel"
+        ],
+        "link": "https://www.ideal.es/nacional/israel-referente-incomodo-junts-per-catalunya-20251006000713-ntrc.html",
+        "date": "2025-10-05 22:07:43",
+        "sentiment_score": 0.5566310063004494
+    },
+    {
+        "title": "Todo preparado para afrontar un corte sin precedentes en Rodalies",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/05/68e2cba130dc6.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20251006/11130180/preparado-afrontar-corte-precedentes-rodalies.html",
+        "date": "2025-10-05 22:05:00",
+        "sentiment_score": -0.020589329302310944
+    },
+    {
+        "title": "Alarma en Nueva York por la muerte de dos niñas al ‘surfear’ en el metro",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/05/68e2cb8f0c839.r_d.3125-2032-785.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20251006/11130179/alarma-nueva-york-muerte-dos-ninas-surfear-metro.html",
+        "date": "2025-10-05 22:05:00",
+        "sentiment_score": 0.11613601446151733
+    },
+    {
+        "title": "¡Crisis en bienes raíces! El cierre federal paraliza este seguro esencial en Florida: conozca cómo afecta su hipoteca",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759700786381.jpg?ch=675&cw=1200",
+        "tags": [
+            "tampa",
+            "miami",
+            "seguros eeuu",
+            "orlando",
+            "bienes raíces",
+            "florida",
+            "seguros por inundación"
+        ],
+        "link": "https://2001online.com/usa/internacionales/crisis-en-bienes-raices-el-cierre-federal-paraliza-este-seguro-esencial-en-florida-conozca-como-afecta-su-hipoteca-20251051840",
+        "date": "2025-10-05 22:04:00",
+        "sentiment_score": -0.18814095854759216
+    },
+    {
+        "title": "Atención padres: reto viral en TikTok inspirado en la película KPop Demon Hunters deja varios niños hospitalizados",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "niños",
+            "diario 2001",
+            "netflix",
+            "venezuela",
+            "eeuu",
+            "película"
+        ],
+        "link": "https://2001online.com/usa/sucesos/atencion-padres-reto-viral-en-tiktok-inspirado-en-la-pelicula-kpop-demon-hunters-deja-varios-ninos-hospitalizados-20251051800",
+        "date": "2025-10-05 22:00:00",
+        "sentiment_score": -0.6549608930945396
+    },
+    {
+        "title": "Artistas latinos que conquistaron el Super Bowl: el impacto que marcó una era",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759695817363.jpg?ch=675&cw=1200",
+        "tags": [
+            "maluma",
+            "nfl",
+            "jennifer lópez",
+            "shakira",
+            "gloria estefan",
+            "super bowl",
+            "bad bunny",
+            "super bowl 2026",
+            "j balvin",
+            "artistas latinos"
+        ],
+        "link": "https://2001online.com/deportes/artistas-latinos-que-conquistaron-el-super-bowl-el-impacto-que-marco-una-era-202510518300",
+        "date": "2025-10-05 21:36:31",
+        "sentiment_score": 0.3372097611427307
+    },
+    {
+        "title": "La ayuda de Apple al ICE: eliminan apps que alertaban a migrantes sobre las redadas federales",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759697995762.jpg?ch=675&cw=1200",
+        "tags": [
+            "redadas migratorias en usa",
+            "apple",
+            "ice"
+        ],
+        "link": "https://2001online.com/usa/internacionales/la-ayuda-de-apple-al-ice-eliminan-apps-que-alertaban-a-migrantes-sobre-las-redadas-federales-20251051730",
+        "date": "2025-10-05 21:03:00",
+        "sentiment_score": 0.11440030857920647
+    },
+    {
+        "title": "Extorsionador en Aragua recibe castigo: conoce la condena del Ministerio Público",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759697738986.jpg?ch=675&cw=1200",
+        "tags": [
+            "mp",
+            "ministerio público",
+            "delitos",
+            "extorsionador murió tras enfrentamiento con el cicpc",
+            "aragua"
+        ],
+        "link": "https://2001online.com/sucesos/extorsionador-en-aragua-recibe-castigo-conoce-la-condena-del-ministerio-publico-20251051700",
+        "date": "2025-10-05 21:00:00",
+        "sentiment_score": -0.27142074704170227
+    },
+    {
+        "title": "Goleadas y humillaciones históricas: las derrotas más dolorosas del FC Barcelona",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759694328256.jpg?ch=675&cw=1200",
+        "tags": [
+            "fc barcelona",
+            "liverpool",
+            "goleadas al barcelona",
+            "as roma",
+            "uefa champions league",
+            "club azulgrana",
+            "ac milan",
+            "bayern munich",
+            "real madrid",
+            "barcelona"
+        ],
+        "link": "https://2001online.com/deportes/goleadas-y-humillaciones-historicas-las-derrotas-mas-dolorosas-del-fc-barcelona-202510517350",
+        "date": "2025-10-05 20:37:48",
+        "sentiment_score": -0.8858404904603958
+    },
+    {
+        "title": "Uscis abre vacantes para trabajo remoto: no requiere título universitario",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759514258348.jpg?ch=675&cw=1200",
+        "tags": [
+            "trabajo remoto",
+            "vacantes",
+            "uscis"
+        ],
+        "link": "https://2001online.com/usa/servicios/uscis-abre-vacantes-para-trabajo-remoto-no-requiere-titulo-universitario-202510516200",
+        "date": "2025-10-05 20:20:00",
+        "sentiment_score": 0.13486121594905853
+    },
+    {
+        "title": "Russell se corona en Marina Bay: estos son los mejores momentos del GP de Singapur",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759693665066/descarga.jpeg?ch=675&cw=1200",
+        "tags": [
+            "george russell",
+            "fórmula 1",
+            "carreras"
+        ],
+        "link": "https://2001online.com/deportes/russell-se-corona-en-marina-bay-estos-son-los-mejores-momentos-del-gp-de-singapur-20251051630",
+        "date": "2025-10-05 20:03:00",
+        "sentiment_score": 0.013062000274658203
+    },
+    {
+        "title": "¿Casa por menos de $8 000? Amazon lanza la tiny home portable que causa furor en EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "precio",
+            "amazon",
+            "casa"
+        ],
+        "link": "https://2001online.com/usa/servicios/casa-por-menos-de-8-000-amazon-lanza-la-tiny-home-portable-que-causa-furor-en-eeuu-20251051600",
+        "date": "2025-10-05 20:00:00",
+        "sentiment_score": 0.5477074831724167
+    },
+    {
+        "title": "Cuatro detenidos por brutal agresión en el Valle: esta fue la imprudencia que costó una vida",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759691336894.jpg?ch=675&cw=1200",
+        "tags": [
+            "caracas",
+            "crimen",
+            "delito",
+            "sucesos"
+        ],
+        "link": "https://2001online.com/sucesos/cuatro-detenidos-por-brutal-agresion-en-el-valle-esta-fue-la-imprudencia-que-costo-una-vida-202510515580",
+        "date": "2025-10-05 19:58:00",
+        "sentiment_score": -0.8144088201224804
     }
 ];
