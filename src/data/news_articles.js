@@ -127,68 +127,6 @@ export default [
         "sentiment_score": 0.07256084680557251
     },
     {
-        "title": "El modelo de gasolineras low-cost españolas se abre paso en Latinoamérica",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/motor/2025/10/03/petroprix-chile-RV1wYGGZ8kMOqwbb8NfJLAM-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía",
-            "motor"
-        ],
-        "link": "https://www.abc.es/motor/economia/modelo-gasolineras-lowcost-espanolas-abre-paso-latinoamerica-20251003154500-nt.html",
-        "date": "2025-10-03 13:45:01",
-        "sentiment_score": 0.03552845120429993
-    },
-    {
-        "title": "Bruselas movilizará 1.600 millones en fondos europeos para financiar la reconstrucción por la DANA",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/10/03/1488357106-RJpcX5UhaEiRU4FQ9ogajyN-1200x840@diario_abc.jpg",
-        "tags": [
-            "fondos",
-            "movilizara",
-            "dana",
-            "1600",
-            "europeos",
-            "millones",
-            "bruselas",
-            "reconstruccion",
-            "financiar"
-        ],
-        "link": "https://www.abc.es/economia/bruselas-movilizara-1600-millones-fondos-europeos-financiar-20251003152012-nt.html",
-        "date": "2025-10-03 13:20:13",
-        "sentiment_score": -0.0314299613237381
-    },
-    {
-        "title": "Los sindicatos cifran en un 80% la incidencia de la huelga de médicos en la región, y el Sescam la rebaja al 43%",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/03/hospi1-R2Rfo9djDp5e4kh4OfiChSN-1200x840@diario_abc.jpg",
-        "tags": [
-            "castilla la mancha",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/sindicatos-cifran-incidencia-huelga-medicos-region-sescam-20251003141529-nt.html",
-        "date": "2025-10-03 12:17:34",
-        "sentiment_score": -0.03881916403770447
-    },
-    {
-        "title": "Anita Matamoros revela cómo afronta la familia la enfermedad de Marina Romero: «Ha sido un mes de engañar a la cabeza»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/gente/2025/10/03/anita-matamoros-mensaje-RDctz2atyInubXJMwDkZuNK-1200x840@diario_abc.jpg",
-        "tags": [
-            "instagram",
-            "familia",
-            "salud"
-        ],
-        "link": "https://www.abc.es/gente/anita-matamoros-revela-afronta-familia-enfermedad-marina-20251003135350-nt.html",
-        "date": "2025-10-03 11:53:50",
-        "sentiment_score": -0.03665497899055481
-    },
-    {
-        "title": "Un feriante revela cuánto dinero puede ganar en España por un día de trabajo: «La feria no son las luces»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2025/10/03/feriante.jpg",
-        "tags": [
-            "el recreo"
-        ],
-        "link": "https://www.abc.es/recreo/feriante-revela-dinero-puede-ganar-espana-dia-20251003130159-nt.html",
-        "date": "2025-10-03 11:02:00",
-        "sentiment_score": -0.07541421055793762
-    },
-    {
         "title": "Koldo a su pareja: “Tengo una alegría para el día de las elecciones. 2.000 chistorras”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JA4O5U5Y3JGL7E76VD77JNWMAU.jpg?auth=2557fa7149dd2ed36bb9fb29b496be54bd8ce8c2c582370866efa07489652788&width=1200",
         "tags": [
@@ -8044,5 +7982,519 @@ export default [
         "link": "https://2001online.com/usa/internacionales/el-secreto-de-salem-por-que-miles-viajan-cada-ano-para-vivir-el-verdadero-halloween-20251061600",
         "date": "2025-10-06 20:00:00",
         "sentiment_score": 0.7490396713837981
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/HGCQQBREJFG3HOXFG7QBSMNCJQ.png?auth=61e42083d629851aa0c8752556cbd10c287b99213f35efecf1dbb0797359aec9&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "málaga",
+            "españa sociedad",
+            "españa noticias",
+            "noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/07/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-malaga/",
+        "date": "2025-10-07 02:16:22",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Una entrada por una salida: ‘MasterChef Celebrity 10’ trae de vuelta a Soraya en la repesca, pero se despide de uno de los concursantes más íntegros",
+        "image_url": "https://www.infobae.com/resizer/v2/Y7HSULSNCZG4VNF2FYNX6E6CWI.png?auth=fa7aa1aacb141443a55a3f36c65b144d97b1346b2b1de14a0912068512a6bcf8&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-entretenimiento",
+            "programas de televisión",
+            "masterchef celebrity",
+            "cocina",
+            "masterchef",
+            "gastronomia",
+            "televisión españa",
+            "españa-noticias",
+            "david amor"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/07/una-entrada-por-una-salida-masterchef-celebrity-10-trae-de-vuelta-a-soraya-en-la-repesca-pero-se-despide-de-uno-de-los-concursantes-mas-integros/",
+        "date": "2025-10-07 01:41:29",
+        "sentiment_score": -0.41696901619434357
+    },
+    {
+        "title": "Clima en España: el pronóstico del tiempo para Madrid este 7 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "madrid",
+            "tiempo en españa",
+            "españa sociedad",
+            "españa noticias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/07/clima-en-espana-el-pronostico-del-tiempo-para-madrid-este-7-de-octubre/",
+        "date": "2025-10-07 01:31:02",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 7 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "barcelona",
+            "españa sociedad",
+            "españa noticias",
+            "noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/07/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-7-de-octubre/",
+        "date": "2025-10-07 01:17:30",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Activistas de la Flotilla denuncian su “secuestro” en aguas internacionales y anuncian que emprenderán “acciones legales” contra “el Gobierno sionista de Israel”",
+        "image_url": "https://www.infobae.com/resizer/v2/DPJWXUR2YFBF7CVCW4YNVXHG2Q.jpg?auth=883aa881f3eee8f609fe8fbb8b2df1978936f1bd2e7993ea0ac7ebb9e137316a&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "sionismo",
+            "secuestro",
+            "gaza",
+            "israel",
+            "palestina",
+            "españa-nacional",
+            "españa-internacional",
+            "españa-noticias",
+            "global sumud flotilla",
+            "acciones legales"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/07/activistas-de-la-flotilla-denuncian-su-secuestro-en-aguas-internacionales-y-anuncian-que-emprenderan-acciones-legales-contra-el-gobierno-sionista-de-israel/",
+        "date": "2025-10-07 00:46:21",
+        "sentiment_score": -0.9107828596606851
+    },
+    {
+        "title": "Revelan imágenes de la captura de ‘Black Jack’, jefe financiero del Clan del Golfo, y su red de lavado tras operativo en España",
+        "image_url": "https://www.infobae.com/resizer/v2/KSMRG45SNBDDZE43QJ6FKT3MX4.png?auth=5d26262f6da2e6445f57dda5adb27aaa0ab6097ef044132662589908da0b1410&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "clan del golfo",
+            "colombia-noticias",
+            "españa",
+            "narcotráfico",
+            "alias black jack",
+            "lavado de dinero",
+            "gustavo petro"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/10/07/revelan-imagenes-de-la-captura-de-black-jack-jefe-financiero-del-clan-del-golfo-y-su-red-de-lavado-tras-operativo-en-espana/",
+        "date": "2025-10-07 00:07:36",
+        "sentiment_score": -0.7176523059606552
+    },
+    {
+        "title": "Castillejo (CUP): la Flotilla prevé acciones legales contra el \"secuestro\" en Israel",
+        "image_url": "https://www.infobae.com/resizer/v2/JXOAKKGVDNEUDJA3S3SFS6CD7M.jpg?auth=8c042fdf68ae9d1805557655b6c94ecab34d794e65652d6295ac74c67dc4418d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/06/castillejo-cup-la-flotilla-preve-acciones-legales-contra-el-secuestro-en-israel/",
+        "date": "2025-10-06 23:45:39",
+        "sentiment_score": 0.022769346833229065
+    },
+    {
+        "title": "De los 49 españoles de la flotilla a Gaza, 48 ya han regresado y solo Reyes Rigo sigue retenida, acusada de morder a una funcionaria de prisión: “No sabemos nada de ella”",
+        "image_url": "https://www.infobae.com/resizer/v2/EA5XLG5LWBANBAKOTL4BFPDIGQ.jpg?auth=3e48e4cdc5b64ef6430f3a0071bf7a435f1ebb10f755e90e7c87157a43dc9ff5&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "madrid",
+            "global sumud flotilla",
+            "gaza",
+            "españa-internacional",
+            "israel",
+            "madrid-barajas",
+            "palestina",
+            "españa-nacional",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/06/de-los-49-espanoles-de-la-flotilla-a-gaza-48-ya-han-regresado-y-solo-reyes-rigo-sigue-retenida-acusada-de-morder-a-una-funcionaria-de-prision-no-sabemos-nada-de-ella/",
+        "date": "2025-10-06 23:30:59",
+        "sentiment_score": -0.02142607420682907
+    },
+    {
+        "title": "Cupón Diario de la Once: comprueba los ganadores del 6 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "españa-loterías",
+            "cupón diario",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/06/cupon-diario-de-la-once-comprueba-los-ganadores-del-6-de-octubre/",
+        "date": "2025-10-06 23:15:32",
+        "sentiment_score": 0.5590086951851845
+    },
+    {
+        "title": "Los 27 integrantes de la flotilla a Gaza aterrizan en los aeropuertos de Madrid, Bilbao y Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/GKAHMTP6EFD2XNTQJ47QN3IEI4.jpg?auth=9a2c427d3e0ed83c9246eb34e3efe5a61bb3b30f5a5bd3c42c505f869be87934&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/06/los-27-integrantes-de-la-flotilla-a-gaza-aterrizan-en-los-aeropuertos-de-madrid-bilbao-y-barcelona/",
+        "date": "2025-10-06 23:00:17",
+        "sentiment_score": -0.05603154003620148
+    },
+    {
+        "title": "El segundo grupo de activistas de la flotilla a Gaza llega a Barcelona y denuncia malos tratos durante su detención en Israel",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UW4AILYTNJB5LDUFUV2ICBGHR4.jpg?auth=b98a9d2af11a439091949dcb07259729003aaa906e48460c0732529741be5a12&width=1200",
+        "tags": [
+            "guerra",
+            "detenciones ilegales",
+            "conflictos",
+            "flotillas ayuda gaza",
+            "cataluña",
+            "activismo",
+            "franja gaza",
+            "conflictos armados",
+            "israel"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-06/el-segundo-grupo-de-activistas-catalanes-de-la-flotilla-a-gaza-vuelve-a-denunciar-malos-tratos-durante-su-detencion-en-israel.html",
+        "date": "2025-10-06 23:52:27",
+        "sentiment_score": -0.8380359318107367
+    },
+    {
+        "title": "Adiós a Emilio Serrano, el empresario que transformó en licor los sabores de Asturias y llevó a la región a Fitur: \"Cuando hablan los silencios, escuchan los sentimientos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88aea9a0-c520-4b49-8448-4881e9e21955_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "libros",
+            "poesía",
+            "asturias"
+        ],
+        "link": "https://www.lne.es/oriente/2025/10/07/adios-emilio-serrano-empresario-transformo-122348485.html",
+        "date": "2025-10-07 02:01:13",
+        "sentiment_score": -0.8893120307475328
+    },
+    {
+        "title": "Real Madrid apuesta fuerte para llevarse a Rodri",
+        "image_url": "https://pxcdn.meridiano.net/102025/1759801881599.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/real-madrid-apuesta-fuerte-para-llevarse-a-rodri-202510621510",
+        "date": "2025-10-07 01:51:00",
+        "sentiment_score": 0.07064510881900787
+    },
+    {
+        "title": "Real Madrid y Barcelona pelean por este defensor de la Premier League",
+        "image_url": "https://pxcdn.meridiano.net/102025/1759800906238.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/real-madrid-y-barcelona-pelean-por-este-defensor-de-la-premier-league-202510621200",
+        "date": "2025-10-07 01:20:00",
+        "sentiment_score": 0.14085442572832108
+    },
+    {
+        "title": "Cazas Eurofighter, helicópteros Tigre, un A330 MRTT y una gran ausencia: los aviones que sobrevolarán Madrid este 12-O",
+        "image_url": "https://s2.elespanol.com/2025/04/07/actualidad/1003743703174_254554611_1706x960.png",
+        "tags": [
+            "observatorio de la defensa",
+            "desfiles militares",
+            "aviones",
+            "ejército del aire",
+            "ejército de tierra",
+            "aviones combate",
+            "día de la hispanidad",
+            "armada española",
+            "fuerzas armadas"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20251007/cazas-eurofighter-helicopteros-tigre-a330-mrtt-gran-ausencia-aviones-sobrevolaran-madrid/1003743956408_0.html",
+        "date": "2025-10-07 00:32:02",
+        "sentiment_score": 0.13139619678258896
+    },
+    {
+        "title": "Empack Madrid 2025; Capsa Packaging impulsa una logística más circular y eficiente",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7588063",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5456904/empack-madrid-2025-capsa-packaging-impulsa-logistica-circular-eficiente",
+        "date": "2025-10-06 23:52:41",
+        "sentiment_score": 0.6458647586405277
+    },
+    {
+        "title": "Memorias desplazadas: el legado colonial de la hispanidad en el siglo XXI",
+        "image_url": "https://www.elsaltodiario.com//uploads/fotos/h1500/a839d347/Explorador%20colonizador%20con%20pintadas.jpg?v=63916869193",
+        "tags": [
+            "nacionalismo",
+            "historia",
+            "radical magazine"
+        ],
+        "link": "https://www.elsaltodiario.com/el-leon-dormido/memorias-desplazadas-legado-colonial-hispanidad-siglo-xxi",
+        "date": "2025-10-06 23:50:00",
+        "sentiment_score": -0.1842343658208847
+    },
+    {
+        "title": "DISRUPTORES Innovation Awards 2025: estos son los cinco finalistas al mejor Centro o Parque Tecnológico",
+        "image_url": "https://s2.elespanol.com/2025/10/06/actualidad/1003743956088_259192392_1706x960.jpg",
+        "tags": [
+            "wake up spain",
+            "centros de investigación",
+            "tecnología",
+            "parques tecnológicos",
+            "premios",
+            "centros tecnológicos",
+            "industria tecnológica",
+            "innovación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/centros-tecnologicos/20251006/disruptores-innovation-awards-finalistas-mejor-centro-parque-tecnologico/1003743956045_0.html",
+        "date": "2025-10-06 23:34:00",
+        "sentiment_score": 0.6817355919629335
+    },
+    {
+        "title": "Escándalo con Mauro Icardi en Galatasaray: el enojo de los ultras por sus fotos subidas de tono y lapidaria frase de una leyenda",
+        "image_url": "https://www.infobae.com/resizer/v2/IKN45B6DDVDL5F5IRXG24EXLRE.jpg?auth=196057c8fa881b16c5fe65698c53121493de1e654cc2f7f196bff5aa78f71c5b&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "mauro icardi",
+            "galatasaray",
+            "turquía"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/06/escandalo-con-mauro-icardi-en-galatasaray-el-enojo-de-los-ultras-por-sus-fotos-subidas-de-tono-y-lapidaria-frase-de-una-leyenda/",
+        "date": "2025-10-06 23:09:04",
+        "sentiment_score": -0.8532951530069113
+    },
+    {
+        "title": "Pau Cubarsí, solo ante el peligro sin Iñigo Martínez ni Raphinha: falla la línea defensiva de Flick",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/06/culemania/primer-equipo/1003742695219_15246478_1706x960.jpg",
+        "tags": [
+            "iñigo martínez",
+            "primer equipo",
+            "pau cubarsí",
+            "hansi flick",
+            "barça",
+            "raphinha"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251006/pau-cubarsi-peligro-inigo-martinez-raphinha-defensivadeflick/1003742695218_0.html",
+        "date": "2025-10-06 22:58:47",
+        "sentiment_score": 0.05611519515514374
+    },
+    {
+        "title": "El macrocorte de 16 meses en la R3 de Rodalies empieza este martes con 43.000 plazas diarias de bus",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251007040448_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-macrocorte-16-meses-r3-rodalies-empieza-martes-43000-plazas-diarias-bus-20251007040448.html",
+        "date": "2025-10-07 02:04:48",
+        "sentiment_score": 0.009674623608589172
+    },
+    {
+        "title": "Pintora rumana en Mallorca, 1929",
+        "image_url": "https://uh.gsstatic.es/autor/jesus-garcia-marin/10330.png",
+        "tags": [
+            "prensa digital",
+            "artículos de opinión",
+            "tribuna",
+            "medio de comunicación",
+            "grupo serra"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/10/07/2485473/pintora-rumana-mallorca-1929.html",
+        "date": "2025-10-07 02:00:01",
+        "sentiment_score": 0.0113239586353302
+    },
+    {
+        "title": "'Secuestradas' en Israel: la odisea de las activistas mallorquinas de la Flotilla",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3503443.jpg",
+        "tags": [
+            "última hora",
+            "lucía muñoz",
+            "hamás",
+            "nacional",
+            "israel",
+            "podemos",
+            "grupo terrorista",
+            "franja de gaza",
+            "global sumud flotilla",
+            "españa",
+            "alejandra martínez",
+            "ultimas noticias",
+            "conflicto israel-palestina",
+            "noticias nacionales hoy"
+        ],
+        "link": "https://www.ultimahora.es/noticias/nacional/2025/10/07/2485151/cinco-dias-detenidas-israel-odisea-activistas-mallorquinas-flotilla.html",
+        "date": "2025-10-07 02:00:01",
+        "sentiment_score": -0.9283474972471595
+    },
+    {
+        "title": "Condenados 17 miembros del clan de 'Los Orta' a 33 años y medio de cárcel por traficar con drogas en la Part Forana",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3503237.jpg",
+        "tags": [
+            "sucesos en mallorca",
+            "noticias",
+            "accidente de tráfico",
+            "ultimas noticias",
+            "noticias sucesos hoy",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/sucesos/ultimas/2025/10/07/2485175/condenados-miembros-del-clan-orta-anos-medio-carcel-por-traficar-drogas-part-forana.html",
+        "date": "2025-10-07 02:00:01",
+        "sentiment_score": -0.7800998222082853
+    },
+    {
+        "title": "Arranca en Menorca la venta de viajes para mayores del Imserso con poco donde elegir",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/3503473.jpg",
+        "tags": [
+            "imserso en menorca",
+            "viajes del imserso",
+            "local"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/10/07/2485531/comienza-venta-viajes-para-mayores-del-imserso.html",
+        "date": "2025-10-07 01:59:02",
+        "sentiment_score": 0.25538652390241623
+    },
+    {
+        "title": "Madrid está cada vez más lejos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "madrid",
+            "vez",
+            "lejos"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/madrid-vez-lejos_0_2004962508.html",
+        "date": "2025-10-07 01:11:07",
+        "sentiment_score": -0.07100993394851685
+    },
+    {
+        "title": "Científicos logran revertir el Alzheimer en ratones con una terapia basada en nanopartículas",
+        "image_url": "https://www.infobae.com/resizer/v2/O72WSATSJFG3TICSLRWFTVHQKU.jpg?auth=5db7028dfeaa755039cfa230c6a747e0aa11be98f4cbd87039df71e1d35e6409&height=675&quality=85&smart=true&width=1200",
+        "tags": [
+            "cerebro",
+            "enfermedad de alzheimer",
+            "salud mental",
+            "nanopartículas",
+            "nanotecnología",
+            "últimas noticias"
+        ],
+        "link": "https://www.infobae.com/america/ciencia-america/2025/10/07/cientificos-logran-revertir-el-alzheimer-en-ratones-con-una-terapia-basada-en-nanoparticulas/",
+        "date": "2025-10-07 01:08:57",
+        "sentiment_score": 0.36383215337991714
+    },
+    {
+        "title": "Iván Ferreiro torna a Xixón cola so xira 'Hoy x Ayer': feches y detalles del eventu",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/de48829c-9760-469d-9bb3-99d3fc6bff57_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "música",
+            "aficionados",
+            "bilbao",
+            "indie"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2025/10/07/ivan-ferreiro-torna-xixon-cola-122217130.html",
+        "date": "2025-10-07 01:05:38",
+        "sentiment_score": 0.2872462421655655
+    },
+    {
+        "title": "Maduro informa sobre coordinaciones con EEUU para el resguardo de su sede diplomática: La reacción fue positiva",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "embajada en caracas",
+            "venezuela",
+            "diario 2001",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-informa-sobre-coordinaciones-con-eeuu-para-el-resguardo-de-su-sede-diplomatica-la-reaccion-fue-positiva-20251062210",
+        "date": "2025-10-07 02:01:00",
+        "sentiment_score": -0.8309126570820808
+    },
+    {
+        "title": "Afamado médico español indica por qué no debes sentarte frente al TV: sácale provecho a tus aptitudes neurológicas",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759506709641.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/afamado-medico-espanol-indica-por-que-no-debes-sentarte-frente-al-tv-sacale-provecho-a-tus-aptitudes-neurologicas-20251062200",
+        "date": "2025-10-07 02:00:00",
+        "sentiment_score": -0.8774213306605816
+    },
+    {
+        "title": "Hombre amenaza clientes en Miami: Vine \"a este mundo para asesinar a venezolanos\"",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "xenofobia",
+            "miami",
+            "amenaza en supermercado",
+            "arma de fuego"
+        ],
+        "link": "https://2001online.com/usa/servicios/hombre-amenaza-clientes-en-miami-vine-a-este-mundo-para-asesinar-a-venezolanos--20251062200",
+        "date": "2025-10-07 02:00:00",
+        "sentiment_score": 0.221445731818676
+    },
+    {
+        "title": "Rostros tapados y silencio inquietante: Así se vive el “terror migratorio” en el corazón de Nueva York",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759800068449.jpg?ch=675&cw=1200",
+        "tags": [
+            "federal plaza",
+            "cierre de gobierno eeuu",
+            "sistema migratorio"
+        ],
+        "link": "https://2001online.com/usa/internacionales/rostros-tapados-y-silencio-inquietante-asi-se-vive-el-terror-migratorio-en-el-corazon-de-nueva-york-202510621140",
+        "date": "2025-10-07 01:14:00",
+        "sentiment_score": -0.2410069853067398
+    },
+    {
+        "title": "¡Atención pasajeros! Aeropuerto Internacional de Miami comienza reparaciones: ¿Cuáles áreas se ven afectadas?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "florida",
+            "reparaciones",
+            "mia"
+        ],
+        "link": "https://2001online.com/usa/internacionales/atencion-pasajeros-aeropuerto-internacional-de-miami-comienza-reparaciones-cuales-areas-se-ven-afectadas--20251062100",
+        "date": "2025-10-07 01:00:00",
+        "sentiment_score": 0.6295551750808954
+    },
+    {
+        "title": "Instagram reconocerá a sus mejores creadores: todos los detalles sobre los Premios Rings",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759798903418.jpg?ch=675&cw=1200",
+        "tags": [
+            "premios ring",
+            "instagram"
+        ],
+        "link": "https://2001online.com/curiosidades/instagram-reconocera-a-sus-mejores-creadores-todos-los-detalles-sobre-los-premios-rings-20251062100",
+        "date": "2025-10-07 01:00:00",
+        "sentiment_score": 0.6579681932926178
+    },
+    {
+        "title": "Carta astral de Víctor Drija: su condición física y otros aspectos requieren atención",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759438049491.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/carta-astral-de-victor-drija-su-condicion-fisica-y-otros-aspectos-requieren-atencion-20251062100",
+        "date": "2025-10-07 01:00:00",
+        "sentiment_score": 0.10812105983495712
+    },
+    {
+        "title": "Aerolínea venezolana te permite viajar con tu mascota en cabina: precios y requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "conviasa",
+            "requisitos",
+            "viajes en bodega",
+            "mascotas"
+        ],
+        "link": "https://2001online.com/servicios/aerolinea-venezolana-te-permite-viajar-con-tu-mascota-en-cabina-precios-y-requisitos-202510620300",
+        "date": "2025-10-07 00:30:00",
+        "sentiment_score": -0.6130108740180731
+    },
+    {
+        "title": "Leyendas del vallenato llegan a Caracas para celebrar la Navidad: aquí los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759791083881.jpg?ch=675&cw=1200",
+        "tags": [
+            "venezuela",
+            "ucv",
+            "vallenato"
+        ],
+        "link": "https://2001online.com/farandula/leyendas-del-vallenato-llegan-a-caracas-para-celebrar-la-navidad-aqui-los-detalles--20251062000",
+        "date": "2025-10-07 00:00:00",
+        "sentiment_score": 0.7481560818850994
+    },
+    {
+        "title": "Cambio de horario en Florida: todo lo que debes saber para ajustar el reloj",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "ajuste",
+            "cambio de horario",
+            "florida"
+        ],
+        "link": "https://2001online.com/usa/servicios/cambio-de-horario-en-florida-todo-lo-que-debes-saber-para-ajustar-el-reloj-20251062000",
+        "date": "2025-10-07 00:00:00",
+        "sentiment_score": 0.08402203768491745
     }
 ];
