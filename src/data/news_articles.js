@@ -193,95 +193,6 @@ export default [
         "sentiment_score": -0.769609659910202
     },
     {
-        "title": "El PP exige al PSOE los resguardos que justifiquen los pagos a Ábalos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4BLKJUY5UVPQ7A6VD55WMGI6BE.jpg?auth=5910dc3fd2ebbee8982588bb3a1b63bb53965bc5bb39a214f4ac92d25a456c83&width=1200",
-        "tags": [
-            "españa",
-            "corrupción",
-            "uco",
-            "miguel tellado",
-            "santos cerdán",
-            "pp",
-            "investigación policial",
-            "josé luis ábalos",
-            "psoe",
-            "koldo garcía"
-        ],
-        "link": "https://elpais.com/espana/2025-10-04/el-pp-exige-al-psoe-los-resguardos-que-justifiquen-los-pagos-a-abalos.html",
-        "date": "2025-10-04 12:26:42",
-        "sentiment_score": -0.7789877792820334
-    },
-    {
-        "title": "Las manifestaciones en apoyo a Palestina y la flotilla de Gaza, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KYWN624PHNET5FFO4JVDR5OBKM.jpg?auth=e3063f9e403ed353c46523ccd473b4967c0ae982d4e819c11a15c69c3e68dd33&width=1200",
-        "tags": [
-            "hamás",
-            "manifestaciones",
-            "conflictos internacionales",
-            "israel",
-            "madrid",
-            "palestina",
-            "barcelona",
-            "protestas sociales",
-            "conflictos",
-            "oriente próximo",
-            "conflictos armados",
-            "conflicto árabe-israelí",
-            "españa",
-            "genocidio",
-            "guerra",
-            "flotillas ayuda gaza",
-            "franja gaza"
-        ],
-        "link": "https://elpais.com/espana/2025-10-04/las-manifestaciones-en-apoyo-a-palestina-y-la-flotilla-de-gaza-en-imagenes.html",
-        "date": "2025-10-04 12:04:29",
-        "sentiment_score": -0.028933659195899963
-    },
-    {
-        "title": "Ocho heridos tras una explosión de un barco en el puerto deportivo de Fuengirola",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/T634QPBMSRCTXLIDD65JOR7MQA.jpg?auth=4abc3136cf4cbd888ec7c31677e81642625637b08c9328a9ac10ec6a63d821ee&width=1200",
-        "tags": [
-            "accidentes",
-            "policía",
-            "fuengirola",
-            "sucesiones",
-            "heridos",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-10-04/ocho-heridos-tras-una-explosion-de-un-barco-en-el-puerto-deportivo-de-fuengirola.html",
-        "date": "2025-10-04 11:50:35",
-        "sentiment_score": -0.701714389026165
-    },
-    {
-        "title": "“La solución a la paz requiere liderazgos distintos en Israel y Palestina”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JMH3JEKIGFNTTP4F2HIPCEHUAE.jpg?auth=4feff6e4353346135380a22eead17e14db3d3e59c22fca6b55690a00cfd685f6&width=1200",
-        "tags": [
-            "israel",
-            "pp",
-            "palestina",
-            "genocidio",
-            "donald trump",
-            "gobierno",
-            "alberto núñez feijóo",
-            "ehud olmert",
-            "pedro sánchez",
-            "países árabes",
-            "extermination",
-            "activismo",
-            "españa",
-            "benjamin netanyahu",
-            "likud",
-            "franja gaza",
-            "estados unidos",
-            "conflicto árabe-israelí",
-            "guerra",
-            "judíos"
-        ],
-        "link": "https://elpais.com/espana/2025-10-04/la-solucion-a-la-paz-requiere-liderazgos-distintos-en-israel-y-palestina.html",
-        "date": "2025-10-04 11:36:55",
-        "sentiment_score": -0.28848355636000633
-    },
-    {
         "title": "Mónica García confía en que \"salga adelante\" el real decreto de embargo de armas a Israel",
         "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/202510/04/media/cortadas/monica-garcia-confia-salga-adelante-real-decreto-20251004165511-vi.jpg",
         "tags": [
@@ -8416,5 +8327,461 @@ export default [
         "link": "https://2001online.com/servicios/red-de-apoyo-para-adultos-mayores-en-caracas-donde-puede-recibir-cuidados-y-atencion-medica-gratuita-202510715300",
         "date": "2025-10-07 19:30:00",
         "sentiment_score": 0.5984646137803793
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Málaga este 8 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/HGCQQBREJFG3HOXFG7QBSMNCJQ.png?auth=61e42083d629851aa0c8752556cbd10c287b99213f35efecf1dbb0797359aec9&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "tiempo en españa",
+            "noticias",
+            "españa sociedad",
+            "málaga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/08/clima-hoy-en-espana-temperaturas-para-malaga-este-8-de-octubre/",
+        "date": "2025-10-08 02:01:41",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "España eliminó a Ucrania y México goleó a Chile: así está el cuadro de los octavos de final del Mundial Sub 20",
+        "image_url": "https://www.infobae.com/resizer/v2/TKG6YFRY4BHC5KZLBOIOFVEX6A.jpg?auth=b7d17254bcbe89d1567ef20cd1b1ce572e590b7cd76e75612d405e2c9a46e5e0&height=1080&smart=true&width=1920",
+        "tags": [
+            "selección de españa",
+            "deportes-argentina",
+            "selección de nigeria",
+            "selección de méxico",
+            "selección de sudáfrica",
+            "selección de estados unidos",
+            "mundial sub 20",
+            "selección de italia",
+            "selección de marruecos",
+            "selección de chile",
+            "selección de colombia",
+            "selección de ucrania",
+            "selección argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/08/espana-elimino-a-ucrania-y-mexico-goleo-a-chile-asi-esta-el-cuadro-de-los-octavos-de-final-del-mundial-sub-20/",
+        "date": "2025-10-08 01:40:20",
+        "sentiment_score": 0.24728082120418549
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Madrid este 8 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "madrid",
+            "noticias",
+            "tiempo en españa",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/08/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-madrid-este-8-de-octubre/",
+        "date": "2025-10-08 01:31:00",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Armada de Colombia incautó casi dos toneladas de cocaína en un buque con destino a España",
+        "image_url": "https://www.infobae.com/resizer/v2/XQ4IXGUZ5NFVZO6Q57ZYNT3XGU.jpg?auth=b4c9af548b48174bb6a8d10223dc42037a15f464b1dd403b4dd2f1ff89df8171&height=1080&smart=true&width=1920",
+        "tags": [
+            "narcotráfico",
+            "incautación de cocaína",
+            "armada de colombia",
+            "caribe colombiano",
+            "colombia-noticias"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/10/08/armada-de-colombia-incauto-casi-dos-toneladas-de-cocaina-en-un-buque-con-destino-a-espana/",
+        "date": "2025-10-08 01:25:27",
+        "sentiment_score": -0.8917459947988391
+    },
+    {
+        "title": "La mascota de una soltera de ‘First Dates’ de ja “a cuadros” a su cita: “Entiendo que pueda considerarlo su hijo”",
+        "image_url": "https://www.infobae.com/resizer/v2/S2KAAITXIBCPLD5KAELJJBAWKA.png?auth=9d114be63bce5ff46368593b4cc506b838c93aa8c36b920077cb448062f98683&height=1080&smart=true&width=1920",
+        "tags": [
+            "mediaset",
+            "first dates",
+            "mediaset españa",
+            "televisión españa",
+            "cuatro",
+            "programas de televisión",
+            "españa-noticias",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/07/la-mascota-de-una-soltera-de-first-dates-de-ja-a-cuadros-a-su-cita-entiendo-que-pueda-considerarlo-su-hijo/",
+        "date": "2025-10-07 23:24:00",
+        "sentiment_score": -0.3688717670738697
+    },
+    {
+        "title": "La atleta olímpica María Perez visita ‘La Revuelta’ tras colgarse dos oros en el Mundial de Japón: “Si tenemos el mejor jamón del mundo, ¿por qué no vamos a tener a la mejor marchadora?”",
+        "image_url": "https://www.infobae.com/resizer/v2/YH62JPURMJGLTKZET26S7TDVEY.png?auth=e13ba5899fa7440d8319cc5846d248a5aee059422a9d14190e13d58ef7d2d390&height=405&smart=true&width=720",
+        "tags": [
+            "televisión",
+            "la revuelta",
+            "maría pérez",
+            "david broncano",
+            "españa-noticias",
+            "españa-entretenimiento",
+            "atletismo",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/07/la-atleta-olimpica-maria-perez-visita-la-revuelta-tras-colgarse-dos-oros-en-el-mundial-de-japon-si-tenemos-el-mejor-jamon-del-mundo-por-que-no-vamos-a-tener-a-la-mejor-marchadora/",
+        "date": "2025-10-07 22:59:09",
+        "sentiment_score": 0.7314694933593273
+    },
+    {
+        "title": "El Modo IA de la búsqueda de Google llega a España",
+        "image_url": "https://www.infobae.com/resizer/v2/ARE7TG73SNF5PLGY7FXAMR2OKI.jpg?auth=c9e53fbd1d265b3fd7fd096f3a5dda17e245d69d4881baeca911e058c2298af9&height=1081&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/07/el-modo-ia-de-la-busqueda-de-google-llega-a-espana/",
+        "date": "2025-10-07 22:30:36",
+        "sentiment_score": -0.03395594656467438
+    },
+    {
+        "title": "El PSOE opta por la abstención y frustra el avance legislativo contra la tauromaquia en España: “Se han fumado un puro con las más de 700.000 firmas”",
+        "image_url": "https://www.infobae.com/resizer/v2/DPDSETLIHJAOVC6WS3YOCGG2PU.jpg?auth=83fe1e4ff4b3227f17d4a0206637e6eda86010909a38b8b534b895a92c74a466&height=1280&smart=true&width=1920",
+        "tags": [
+            "iniciativa legislativa popular",
+            "tauromaquia",
+            "españa-noticias",
+            "psoe",
+            "pp",
+            "congreso",
+            "toros",
+            "vox",
+            "españa-sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/07/el-psoe-opta-por-la-abstencion-y-frustra-el-avance-legislativo-contra-la-tauromaquia-en-espana-se-han-fumado-un-puro-con-las-mas-de-700000-firmas/",
+        "date": "2025-10-07 22:24:41",
+        "sentiment_score": -0.3207813650369644
+    },
+    {
+        "title": "Bruselas lo considera ilegal, hay un argayo descomunal, obras en los túneles... pero el peaje del Huerna tiene el coste más alto de su historia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8f0a5edf-8cb2-4109-9c61-6c58725ae859_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bruselas",
+            "ministerio",
+            "historia",
+            "tráfico",
+            "asturias",
+            "obras"
+        ],
+        "link": "https://www.lne.es/asturias/2025/10/08/bruselas-considera-ilegal-hay-argayo-122375632.html",
+        "date": "2025-10-08 02:15:00",
+        "sentiment_score": -0.8971234215423465
+    },
+    {
+        "title": "El video de Vinicius con una reconocida conductora de TV que alimenta los rumores de romance",
+        "image_url": "https://www.infobae.com/resizer/v2/GROEXWPPTNBSFHFNJLAM57V7ZQ.jpg?auth=ed2a4e87ca54e39ad8c222955739a128433fc41cffec3765cb236d5399a0439b&height=758&smart=true&width=1348",
+        "tags": [
+            "la liga",
+            "virginia fonseca",
+            "fútbol europeo",
+            "deportes-internacional",
+            "vinicius junior",
+            "real madrid",
+            "argentina-deportes"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/08/el-video-de-vinicius-con-una-reconocida-conductora-de-tv-que-alimenta-los-rumores-de-romance/",
+        "date": "2025-10-08 01:08:10",
+        "sentiment_score": 0.10013417154550552
+    },
+    {
+        "title": "Thomas Heurtel demanda al Barça y reclama 1,6 millones de euros",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/27/2025032718255276115.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/thomas-heurtel-demanda-barca-reclama-16-millones-euros/20251008025155358546.html",
+        "date": "2025-10-08 00:51:55",
+        "sentiment_score": -0.8767381273210049
+    },
+    {
+        "title": "Las sombras que aún rodean al cannabis medicinal: \"Hay que controlar al paciente de cerca, ya pasó con los opioides\"",
+        "image_url": "https://s2.elespanol.com/2025/10/07/actualidad/1003743959233_259231688_1706x960.jpg",
+        "tags": [
+            "cannabis",
+            "salud"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20251008/sombras-rodean-cannabis-medicinal-controlar-paciente-cerca-paso-opioides/1003743959091_0.html",
+        "date": "2025-10-08 00:28:16",
+        "sentiment_score": -0.2709030956029892
+    },
+    {
+        "title": "Los 'ministros candidatos' explotan sin disimulo el Consejo de Ministros para hacer campaña en sus comunidades",
+        "image_url": "https://s2.elespanol.com/2025/10/07/actualidad/1003743959266_259232018_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "maría jesús montero",
+            "mónica garcía gómez",
+            "isabel díaz ayuso",
+            "óscar lópez",
+            "política"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251008/ministros-candidatos-explotan-sin-disimulo-consejo-ministros-hacer-campana-comunidades/1003743958741_0.html",
+        "date": "2025-10-08 00:28:07",
+        "sentiment_score": -0.6943743117153645
+    },
+    {
+        "title": "Laporta alcanza el nivel de ingresos de Bartomeu con el Barça tras cinco años de mandato: ¿Recuperación económica?",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/30/culemania/palco/1003742693040_15218017_1706x960.jpg",
+        "tags": [
+            "palco",
+            "camp nou",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251008/laporta-alcanza-ingresos-bartomeu-barca-recuperacion-economica/1003742695389_0.html",
+        "date": "2025-10-08 00:19:39",
+        "sentiment_score": 0.8045339789241552
+    },
+    {
+        "title": "Arsenal quiere remodelar su estadio con parte de inspiración en el Santiago Bernabéu",
+        "image_url": "https://pxcdn.meridiano.net/102025/1759882368664.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/arsenal-quiere-remodelar-su-estadio-con-parte-de-inspiracion-en-el-santiago-bernabeu-202510720130",
+        "date": "2025-10-08 00:13:00",
+        "sentiment_score": 0.6303115878254175
+    },
+    {
+        "title": "Derrumbe en edificio de Madrid deja varios heridos y desaparecidos",
+        "image_url": "https://s.france24.com/media/display/7ff07e48-a3d8-11f0-83ba-005056a90284/w:1024/p:16x9/ES-20251007-150755-150909-CS.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.france24.com/es/video/20251008-derrumbe-en-edificio-de-madrid-deja-varios-heridos-y-desaparecidos",
+        "date": "2025-10-08 00:10:48",
+        "sentiment_score": -0.8231394113972783
+    },
+    {
+        "title": "Napoleonchu, Sánchez y el día de la infamia",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2025/10/07/68e54fc2335f3.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20251008/napoleonchu-sanchez-dia-infamia_342186.html",
+        "date": "2025-10-07 23:30:00",
+        "sentiment_score": -0.30463314056396484
+    },
+    {
+        "title": "Cristiano Ronaldo gana un nuevo premio y habla sobre la fecha de su retiro",
+        "image_url": "https://pxcdn.meridiano.net/102025/1759877039056.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/cristiano-ronaldo-gana-un-nuevo-premio-y-habla-sobre-la-fecha-de-su-retiro-202510718490",
+        "date": "2025-10-07 22:49:00",
+        "sentiment_score": 0.8736368361860514
+    },
+    {
+        "title": "Relanzamiento de la podología en León: \"Hoy en día se tiene mucha más conciencia de cuidar los pies\"",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/30/13/32/3/podologoleon.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/relanzamiento-podologia-en-leon-hoy-en-dia-se-tiene-mucha-mas-conciencia-cuidar-pies_183615_102.html",
+        "date": "2025-10-08 02:00:00",
+        "sentiment_score": 0.28444863855838776
+    },
+    {
+        "title": "Una entidad subvencionada por la Generalitat de Cataluña envía 'inspectores' lingüísticos a la Comunidad Valenciana",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/10/07/68e4f562363be.r_d.850-493-6250.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20251008/entidad-subvencionada-generalitat-cataluna-envia-inspectores-linguisticos-comunidad-valenciana_341700.html",
+        "date": "2025-10-08 02:00:00",
+        "sentiment_score": 0.08951279520988464
+    },
+    {
+        "title": "Cuando Ángel 24 te llevaba la pizza a tu casa | Hablando, todo tiene solución",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3504459.jpg",
+        "tags": [
+            "última hora",
+            "sociedad",
+            "tendencias"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/10/08/2486143/cuando-angel-llevaba-pizza-casa-hablando-todo-tiene-solucion.html",
+        "date": "2025-10-08 01:55:02",
+        "sentiment_score": 0.061437904834747314
+    },
+    {
+        "title": "Una leonesa halla un gen esencial en embriones humanos",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/10/07/68e54fc741c49.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/251008/2062093/leonesa-halla-gen-esencial-embriones-humanos.html",
+        "date": "2025-10-08 01:30:00",
+        "sentiment_score": 0.06180381774902344
+    },
+    {
+        "title": "La UCV moviliza a su comunidad estudiantil para los actos de canonización de José Gregorio Hernández y Carmen Rendiles",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/10/07194315/IMG-20251007-WA0108.jpg",
+        "tags": [
+            "educación",
+            "ucv",
+            "venezuela",
+            "fcu ucv",
+            "canonización de carmen elena rendiles",
+            "maría fátima garcés",
+            "canonización de josé gregorio hernández"
+        ],
+        "link": "https://www.elnacional.com/2025/10/la-ucv-moviliza-a-su-comunidad-estudiantil-para-los-actos-de-canonizacion-de-jose-gregorio-hernandez-y-carmen-rendiles/",
+        "date": "2025-10-08 00:41:28",
+        "sentiment_score": 0.05170223116874695
+    },
+    {
+        "title": "Una revelación sobre Messi, anécdota de Maradona y por qué Riquelme no triunfó: los secretos de Gaspart, ex presidente del Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/AVY46WA6LJG5BN4SXFBOXUXD34.jpg?auth=77a173a6f82d2d2ab3b8be1c8a182e0e85580df69020fc45587bc0d4ea73d1a5&height=1080&smart=true&width=1920",
+        "tags": [
+            "juan román riquelme",
+            "joan gaspart",
+            "lionel messi",
+            "alfredo di stéfano",
+            "diego armando maradona",
+            "deportes-internacional",
+            "fc barcelona"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/08/una-revelacion-sobre-messi-anecdota-de-maradona-y-por-que-riquelme-no-triunfo-los-secretos-de-gaspart-ex-presidente-del-barcelona/",
+        "date": "2025-10-08 00:21:27",
+        "sentiment_score": -0.36593979597091675
+    },
+    {
+        "title": "El Barça reconduce la masa salarial: baja al 54% de los ingresos pero supera en 180 millones el límite de salarios permitido por la Liga",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/07/culemania/primer-equipo/1003742695493_15249498_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "palco",
+            "fair play de la liga",
+            "la liga",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251008/barca-reconduce-salarial-ingresos-millones-permitido-liga/1003742695492_0.html",
+        "date": "2025-10-08 00:20:01",
+        "sentiment_score": 0.23371270298957825
+    },
+    {
+        "title": "Maduro revela detalles de la conversación entre Jorge Rodríguez y el Encargado de Negocios de EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "venezuela",
+            "sede diplomática",
+            "diario 2001",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-revela-detalles-de-la-conversacion-entre-jorge-rodriguez-y-el-encargado-de-negocios-de-eeuu-20251072260",
+        "date": "2025-10-08 02:06:00",
+        "sentiment_score": -0.6459433790296316
+    },
+    {
+        "title": "¿El último fin de semana largo en EEUU? Estos son los feriados federales que restan del 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "2025",
+            "#feriados",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/usa/servicios/el-ultimo-fin-de-semana-largo-en-eeuu-estos-son-los-feriados-federales-que-restan-del-2025-20251072200",
+        "date": "2025-10-08 02:00:00",
+        "sentiment_score": -0.6455431114882231
+    },
+    {
+        "title": "Gestos simples que transformarán tu expresión: experta en belleza da los secretos para aportar frescura al rostro",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759775772108.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/gestos-simples-que-transformaran-tu-expresion-experta-en-belleza-da-los-secretos-para-aportar-frescura-al-rostro-20251072200",
+        "date": "2025-10-08 02:00:00",
+        "sentiment_score": 0.6071338206529617
+    },
+    {
+        "title": "Atroz caso de abuso sexual en preescolar: Fiscalía ordena estas diligencias contra el responsable",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759874547749.jpg?ch=675&cw=1200",
+        "tags": [
+            "venezuela",
+            "preescolar en yaracuy",
+            "abuso a menores",
+            "justicia",
+            "abuso sexual"
+        ],
+        "link": "https://2001online.com/sucesos/atroz-caso-de-abuso-sexual-en-preescolar-fiscalia-ordena-estas-diligencias-contra-el-responsable-20251072100",
+        "date": "2025-10-08 01:00:00",
+        "sentiment_score": -0.18966108560562134
+    },
+    {
+        "title": "Anuncian formación de la tormenta Jerry: sepa a dónde se dirige y cuándo llegará a EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "jerry",
+            "tormenta",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/usa/internacionales/anuncian-formacion-de-la-tormenta-jerry-sepa-a-donde-se-dirige-y-cuando-llegara-a-eeuu-20251072100",
+        "date": "2025-10-08 01:00:00",
+        "sentiment_score": -0.5241229943931103
+    },
+    {
+        "title": "Alerta de remoción de EEUU: ¿Qué pasos clave te ayudan a defenderte de una deportación?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759884493469.jpg?ch=675&cw=1200",
+        "tags": [
+            "cómo defenderte",
+            "deportaciones"
+        ],
+        "link": "https://2001online.com/usa/internacionales/alerta-de-remocion-de-eeuu-que-pasos-clave-te-ayudan-a-defenderte-de-una-deportacion--202510720470",
+        "date": "2025-10-08 00:47:00",
+        "sentiment_score": -0.7038102298974991
+    },
+    {
+        "title": "¿Se viene la reconciliación? así fue el reencuentro entre Jennifer Lopez y Ben Affleck tras su divorcio",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "divorcio",
+            "ben affleck",
+            "jennifer lópez"
+        ],
+        "link": "https://2001online.com/farandula/se-viene-la-reconciliacion-asi-fue-el-reencuentro-entre-jennifer-lopez-y-ben-affleck-tras-su-divorcio-202510720440",
+        "date": "2025-10-08 00:44:00",
+        "sentiment_score": 0.04710538685321808
+    },
+    {
+        "title": "¿Cuándo sale el álbum de la LVBP + barajitas con Meridiano y 2001?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759882688982.jpg?ch=675&cw=1200",
+        "tags": [
+            "2001",
+            "meridiano tv",
+            "lvbp",
+            "barajitas"
+        ],
+        "link": "https://2001online.com/deportes/cuando-sale-el-album-de-la-lvbp-barajitas-con-meridiano-y-2001--202510720160",
+        "date": "2025-10-08 00:16:00",
+        "sentiment_score": 0.21548251993954182
+    },
+    {
+        "title": "Dinastía Trump: quiénes son los herederos del imperio y cómo manejan el apellido más mediático de EE.UU",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "celebridades",
+            "famosos"
+        ],
+        "link": "https://2001online.com/farandula/dinastia-trump-quienes-son-los-herederos-del-imperio-y-como-manejan-el-apellido-mas-mediatico-de-ee-uu-202510720110",
+        "date": "2025-10-08 00:11:00",
+        "sentiment_score": -0.037421755492687225
+    },
+    {
+        "title": "Nace el primer parque interactivo de avistamiento de aves en Venezuela: conozca todos los detalles aquí",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "avistamiento de aves",
+            "táchira",
+            "aves"
+        ],
+        "link": "https://2001online.com/nacionales/nace-el-primer-parque-interactivo-de-avistamiento-de-aves-en-venezuela-conozca-todos-los-detalles-aqui-20251072040",
+        "date": "2025-10-08 00:04:00",
+        "sentiment_score": 0.5991980209946632
     }
 ];
