@@ -315,32 +315,6 @@ export default [
         "sentiment_score": -0.20265644043684006
     },
     {
-        "title": "Exteriores afirma que 21 de los 49 españoles de la flotilla detenidos en Israel regresarán este domingo a España “si nada se tuerce”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TEVMGVUA7NMVTAH763CDGSTIY4.jpg?auth=52e920fda82a994c373cd06127cf1c790b9b1c8ee952eac9318793736d52b2ba&width=1200",
-        "tags": [
-            "conflictos internacionales",
-            "conflictos armados",
-            "ada colau",
-            "españa",
-            "conflictos",
-            "oriente próximo",
-            "ministerio de asuntos exteriores",
-            "hamás",
-            "israel",
-            "palestina",
-            "greta thunberg",
-            "flotillas ayuda gaza",
-            "conflicto árabe-israelí",
-            "guerra",
-            "política exterior",
-            "malos tratos",
-            "franja gaza"
-        ],
-        "link": "https://elpais.com/internacional/2025-10-05/exteriores-afirma-que-21-de-los-49-espanoles-de-la-flotilla-detenidos-en-israel-regresaran-este-domingo-a-espana-si-nada-se-tuerce.html",
-        "date": "2025-10-05 12:52:51",
-        "sentiment_score": -0.15688272565603256
-    },
-    {
         "title": "Dani Senabre señala a varios jugadores del Barcelona tras la derrota contra el Sevilla: \"Algunos no han aparecido\"",
         "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/10/04/68e108dbcdad2.jpeg",
         "tags": [
@@ -8797,5 +8771,527 @@ export default [
         "link": "https://2001online.com/usa/servicios/oruga-venenosa-en-florida-como-actuar-si-tocas-al-insecto-que-parece-un-peluche--202510816280",
         "date": "2025-10-08 20:28:00",
         "sentiment_score": -0.8968648873269558
+    },
+    {
+        "title": "Los sindicatos ven en la dimisión de Rocío Hernández, ya exconsejera de Salud de Andalucía, “una oportunidad de oro” para “recuperar el sistema” sanitario",
+        "image_url": "https://www.infobae.com/resizer/v2/LVIIUMKTQBGPBBSTLZYZ5APCCI.jpg?auth=abfcad756cf54d40ef3e7c94125186684edcc3dd6522b3c1bfe31c542babc314&height=1371&smart=true&width=1920",
+        "tags": [
+            "cáncer de mama",
+            "españa-sociedad",
+            "andalucía",
+            "cáncer",
+            "rocío hernández",
+            "sanidad españa",
+            "ministerio de sanidad españa",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/09/los-sindicatos-ven-en-la-dimision-de-rocio-hernandez-ya-exconsejera-de-salud-de-andalucia-una-oportunidad-de-oro-para-recuperar-el-sistema-sanitario/",
+        "date": "2025-10-09 01:34:04",
+        "sentiment_score": -0.6094175651669502
+    },
+    {
+        "title": "Convocatorias internacionales del Sena abren oportunidades laborales en Canadá y España con sueldos que superan los $10 millones",
+        "image_url": "https://www.infobae.com/resizer/v2/VGVKWOZ4VBBDJDZ2V6U6A2UGHQ.png?auth=0f59f67f80e5f87082833514982ff7b100551d12ad0a19e14286bdab5fd8b00d&height=600&smart=true&width=900",
+        "tags": [
+            "españa",
+            "colombia-noticias",
+            "construcción",
+            "hospitales españoles",
+            "mecánica industrial",
+            "empleo internacional",
+            "colombia-servicios",
+            "agencia de empleo del sena",
+            "salud",
+            "canadá"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/10/09/convocatorias-internacionales-del-sena-abren-oportunidades-laborales-en-canada-y-espana-con-sueldos-que-superan-los-10-millones/",
+        "date": "2025-10-09 01:32:05",
+        "sentiment_score": 0.4374291282147169
+    },
+    {
+        "title": "Clima en Madrid: temperatura y probabilidad de lluvia para este 9 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "madrid",
+            "noticias",
+            "tiempo en españa",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/09/clima-en-madrid-temperatura-y-probabilidad-de-lluvia-para-este-9-de-octubre/",
+        "date": "2025-10-09 01:31:17",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Estas 10 películas arrasan hoy en Netflix España: nadie se las quiere perder",
+        "image_url": "https://www.infobae.com/resizer/v2/FJYNRC2C4JFXXB6XQQMSTZ3DO4.jpg?auth=99cf1a63b801c88a1805e6d80076b8250266b9761e6536209a755e91b62ace84&height=675&smart=true&width=1200",
+        "tags": [
+            "noticias",
+            "streaming",
+            "españa-televisión",
+            "netflix",
+            "películas"
+        ],
+        "link": "https://www.infobae.com/espana/2025/06/15/netflix-asi-quedo-el-top-de-las-mejores-peliculas-de-la-plataforma-en-espana/",
+        "date": "2025-10-09 01:14:08",
+        "sentiment_score": 0.6659732554107904
+    },
+    {
+        "title": "La activista Reyes Rigo, aún bajo custodia israelí: “El abogado de turno no pudo hacer su trabajo porque había un señor ahí que me amenazó de muerte”",
+        "image_url": "https://www.infobae.com/resizer/v2/J74E4BJE45FFDOZ2AF5HMNCHX4.webp?auth=7141c5db27d6b6465eb04eae3bbf8125292cac5c3685ca9429484b083344f281&height=506&smart=true&width=900",
+        "tags": [
+            "global sumud flotilla",
+            "gaza",
+            "españa-internacional",
+            "israel",
+            "palestina",
+            "españa-nacional",
+            "amenaza de muerte",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/09/la-activista-reyes-rigo-aun-bajo-custodia-israeli-el-abogado-de-turno-no-pudo-hacer-su-trabajo-porque-habia-un-senor-ahi-que-me-amenazo-de-muerte/",
+        "date": "2025-10-09 00:27:39",
+        "sentiment_score": -0.8317509144544601
+    },
+    {
+        "title": "Colombia puede volver a la semifinal de un mundial después de 22 años; también enfrentó a España en esa ocasión",
+        "image_url": "https://www.infobae.com/resizer/v2/3XZI6NQRYNCCDIBRB3QNOW72IM.png?auth=c08026cd64f328e7775265ce0b3ed3a32f9254a30ea35bf4d2c049f992c1383b&height=770&smart=true&width=1200",
+        "tags": [
+            "copa del mundo",
+            "selección colombia",
+            "sub 20",
+            "cuartos de final",
+            "colombia-deportes",
+            "mundial",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/10/09/colombia-puede-volver-a-la-semifinal-de-un-mundial-despues-de-22-anos-tambien-enfrento-a-espana-en-esa-ocasion/",
+        "date": "2025-10-09 00:03:55",
+        "sentiment_score": 0.13056324422359467
+    },
+    {
+        "title": "Netflix: Así quedo el top de las mejores películas de la plataforma en España",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-televisión",
+            "streaming",
+            "noticias",
+            "películas",
+            "netflix"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/08/netflix-asi-quedo-el-top-de-las-mejores-peliculas-de-la-plataforma-en-espana/",
+        "date": "2025-10-08 23:30:41",
+        "sentiment_score": 0.6659732554107904
+    },
+    {
+        "title": "Comprueba los números ganadores del Cupón Diario de la Once del 8 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "cupón diario",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/08/comprueba-los-numeros-ganadores-del-cupon-diario-de-la-once-del-8-de-octubre/",
+        "date": "2025-10-08 23:15:27",
+        "sentiment_score": 0.257319375872612
+    },
+    {
+        "title": "Una soltera pone una única condición para comenzar una relación en ‘First Dates’ se tropieza con un muro de sinceridad inesperada: “Como dos gotas de agua”",
+        "image_url": "https://www.infobae.com/resizer/v2/HERZMSNV2BHTJB2FMBGUUFXTRI.png?auth=180586e07091a36a011fde17734513454e996698f1895c2081b2d5309ed4211f&height=1080&smart=true&width=1920",
+        "tags": [
+            "cuatro",
+            "mediaset",
+            "first dates",
+            "españa-noticias",
+            "programas de televisión",
+            "televisión españa",
+            "mediaset españa",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/08/una-soltera-pone-una-unica-condicion-para-comenzar-una-relacion-en-first-dates-se-tropieza-con-un-muro-de-sinceridad-inesperada-como-dos-gotas-de-agua/",
+        "date": "2025-10-08 23:12:21",
+        "sentiment_score": -0.761875580996275
+    },
+    {
+        "title": "El Principado quiere traer a Asturias las obras de arte de Cajastur que Unicaja tiene en otras regiones",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c595fc62-3890-44e9-81e5-c19853fee8cf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bic",
+            "principado",
+            "patrimonio",
+            "unicaja",
+            "asturias",
+            "consejería",
+            "obras"
+        ],
+        "link": "https://www.lne.es/asturias/2025/10/09/principado-quiere-traer-asturias-obras-122428332.html",
+        "date": "2025-10-09 02:10:00",
+        "sentiment_score": -0.16931746900081635
+    },
+    {
+        "title": "Cristiano Ronaldo se convirtió en el primer futbolista milmillonario",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/Cristiano-Ronaldo-Portugal-1.jpg",
+        "tags": [
+            "deportes",
+            "futbol",
+            "titulares",
+            "fortuna",
+            "cristiano ronaldo"
+        ],
+        "link": "https://lapatilla.com/2025/10/08/cristiano-ronaldo-se-convirtio-en-el-primer-futbolista-milmillonario/",
+        "date": "2025-10-09 01:42:27",
+        "sentiment_score": 0.902137964963913
+    },
+    {
+        "title": "Adidas gana caso contra negocio peruano por piratear camisetas de la selección argentina y del Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/Y6BQDCGOOBES5PHPPN6D43HMDQ.jpg?auth=bec901e9501def87ff066d8a40ebaeba4887b0d08e60f3ed19d5db9166fd36f5&height=1080&smart=true&width=1920",
+        "tags": [
+            "indecopi",
+            "adidas",
+            "peru-economia",
+            "real madrid",
+            "selección argentina"
+        ],
+        "link": "https://www.infobae.com/peru/2025/10/09/adidas-gana-caso-contra-negocio-peruano-por-piratear-camisetas-de-la-seleccion-argentina-y-del-real-madrid/",
+        "date": "2025-10-09 01:34:08",
+        "sentiment_score": -0.9037402393296361
+    },
+    {
+        "title": "EEUU retira los últimos AAV-7P anfibios mientras la renovación para la Infantería de Marina española sigue en punto muerto",
+        "image_url": "https://s2.elespanol.com/2025/10/08/actualidad/1003743960254_259245508_1706x960.jpg",
+        "tags": [
+            "ministerio de defensa",
+            "observatorio de la defensa",
+            "fuerzas armadas",
+            "estados unidos",
+            "armada española"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20251009/eeuu-retira-ultimos-aav-7p-anfibios-renovacion-infanteria-marina-espanola-sigue-punto-muerto/1003743959566_0.html",
+        "date": "2025-10-09 01:33:28",
+        "sentiment_score": -0.8391263280063868
+    },
+    {
+        "title": "Las carcajadas de Joker Sánchez",
+        "image_url": "https://s1.staticld.com/2025/10/08/pedro-sanchez-congreso081025-recorte.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-10-09/cristina-losada-las-carcajadas-de-joker-sanchez-7305856/",
+        "date": "2025-10-09 00:51:47",
+        "sentiment_score": -0.9213363062590361
+    },
+    {
+        "title": "Quién es quién en la familia de Victoria Beckham: de la historia de superación de sus padres a su sucesora, Harper Seven",
+        "image_url": "https://s2.elespanol.com/2024/12/23/corazon/estilo/910919351_251906547_1706x960.jpg",
+        "tags": [
+            "romeo beckham",
+            "brooklyn beckham",
+            "celebrities",
+            "victoria beckham",
+            "netflix"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20251008/familia-victoria-beckham-historia-superacion-padres-sucesora-harper-seven/1003743959905_0.html",
+        "date": "2025-10-08 23:33:00",
+        "sentiment_score": 0.09814457595348358
+    },
+    {
+        "title": "Gloria Estefan: \"El secreto de mis 48 años de matrimonio con Emilio es nunca cruzar la línea, no hay que perder el respeto\"",
+        "image_url": "https://s2.elespanol.com/2025/10/08/actualidad/1003743960238_259245269_1706x960.jpg",
+        "tags": [
+            "entrevistas",
+            "celebrities",
+            "cantantes",
+            "cuba"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20251008/gloria-estefan-secreto-anos-matrimonio-emilio-nunca-cruzar-linea-no-perder-respeto/1003743960078_0.html",
+        "date": "2025-10-08 23:33:00",
+        "sentiment_score": 0.7449144087731838
+    },
+    {
+        "title": "Laporta convierte el Camp Nou en un estadio más exclusivo: las 7 experiencias Vip del Espai Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/04/18/culemania/palco/1003742650284_14445715_1706x960.jpg",
+        "tags": [
+            "espai barça",
+            "camp nou",
+            "joan laporta",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251008/laporta-camp-nou-experiencias-vip-espai-barca/1003742695119_0.html",
+        "date": "2025-10-08 23:16:04",
+        "sentiment_score": 0.47792619094252586
+    },
+    {
+        "title": "Las revelaciones de Victoria Beckham en su docuserie: su trastorno alimentario, los problemas de su marca y la esperada ausencia de su primogénito, Brooklyn",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YD6QH7URDBHQ7DM66FROSXWCDQ.jpg?auth=58359b26937ac1488e36b00dc2b764171e428f9e2e9fc901ad96b867dd1db56f&width=1200",
+        "tags": [
+            "famosos",
+            "moda",
+            "brooklyn beckham",
+            "victoria beckham",
+            "david beckham",
+            "diseñadores moda",
+            "documental",
+            "gente",
+            "netflix"
+        ],
+        "link": "https://elpais.com/gente/2025-10-08/las-revelaciones-de-victoria-beckham-en-su-docuserie-su-trastorno-alimentario-los-problemas-de-su-marca-y-la-esperada-ausencia-de-su-primogenito-brooklyn.html",
+        "date": "2025-10-08 23:02:00",
+        "sentiment_score": -0.08644610643386841
+    },
+    {
+        "title": "Chelsea empata con Twente en la Liga de Campeones femenina; Real Madrid y Atlético marcan 6 goles",
+        "image_url": "https://dims.apnews.com/dims4/default/2bf9463/2147483647/strip/true/crop/3000x1997+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2F29%2F2efdaf3a28eafbfb5bd8d30dd43f%2F9e841783e083496f95c5b9fe67751c02",
+        "tags": [
+            "chelsea liga campeones femenina real madrid atletico",
+            "sports",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/chelsea-liga-campeones-femenina-real-madrid-atletico-28acc4ddf1bae45e5ea37f56477fff3e",
+        "date": "2025-10-08 23:01:48",
+        "sentiment_score": -0.5601055324077606
+    },
+    {
+        "title": "Quioscos",
+        "image_url": "https://uh.gsstatic.es/autor/torres-blasco/637.png",
+        "tags": [
+            "grupo serra",
+            "tribuna",
+            "medio de comunicación",
+            "prensa digital",
+            "artículos de opinión"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/10/09/2487089/quioscos-1.html",
+        "date": "2025-10-09 02:00:02",
+        "sentiment_score": -0.20076563954353333
+    },
+    {
+        "title": "Jaume Tovar: «Cuantos más goles meto, menos presión siento»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3505713.jpg",
+        "tags": [
+            "atlético baleares",
+            "laliga",
+            "champions league",
+            "copa del rey",
+            "europa league",
+            "segunda rfef",
+            "fútbol",
+            "primera división",
+            "liga de naciones"
+        ],
+        "link": "https://www.ultimahora.es/deportes/futbol/2025/10/09/2486881/jaume-tovar-cuantos-mas-goles-meto-menos-presion-siento.html",
+        "date": "2025-10-09 02:00:02",
+        "sentiment_score": 0.16711214184761047
+    },
+    {
+        "title": "El antiguo edificio okupado de Serralta se convertirá en un bloque de viviendas de lujo",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3505731.jpg",
+        "tags": [
+            "viviendas en palma",
+            "palma de mallorca",
+            "palma",
+            "viviendas de lujo",
+            "noticias palma hoy",
+            "ultimas noticias",
+            "camp de serralta",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/10/09/2486899/antiguo-edificio-okupado-serralta-convertira-bloque-viviendas-lujo.html",
+        "date": "2025-10-09 02:00:02",
+        "sentiment_score": -0.47429315745830536
+    },
+    {
+        "title": "Sánchez recupera a Podemos como muleta del Gobierno y salva 'in extremis' el embargo a Israel y la Ley de Movilidad",
+        "image_url": "https://s2.elespanol.com/2025/10/08/actualidad/1003743959870_259258747_1706x1280.jpg",
+        "tags": [
+            "podemos",
+            "salvador illa roca",
+            "política",
+            "movilidad",
+            "israel",
+            "ione belarra",
+            "pedro sánchez",
+            "gaza",
+            "el prat de llobregat",
+            "congreso de los diputados"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251009/sanchez-recupera-podemos-muleta-gobierno-salva-in-extremis-embargo-israel-ley-movilidad/1003743961280_0.html",
+        "date": "2025-10-09 01:33:47",
+        "sentiment_score": -0.8365956768393517
+    },
+    {
+        "title": "Una diputada trans de Más Madrid o un bombero expulsado: los 8 españoles de la otra Flotilla detenidos por Israel",
+        "image_url": "https://s2.elespanol.com/2025/10/08/actualidad/1003743960895_259253467_1706x960.jpg",
+        "tags": [
+            "israel",
+            "palestina",
+            "reportajes",
+            "conflicto palestino-israelí"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251009/diputada-trans-madrid-bombero-expulsado-espanoles-flotilla-detenidos-israel/1003743960806_0.html",
+        "date": "2025-10-09 01:33:39",
+        "sentiment_score": -0.1212477833032608
+    },
+    {
+        "title": "Aemet activa avisos por hasta 250 l/m2 de lluvia en España ante la llegada de la dana Alice: \"Hay riesgo de inundaciones\"",
+        "image_url": "https://s2.elespanol.com/2025/10/08/ciencia/meteorologia/1003743961076_259255631_1706x960.jpg",
+        "tags": [
+            "lluvia",
+            "dana",
+            "aemet",
+            "meteorología"
+        ],
+        "link": "https://www.elespanol.com/ciencia/meteorologia/20251009/aemet-activa-avisos-lm2-lluvia-espana-llegada-dana-alice-riesgo-inundaciones/1003743959947_0.html",
+        "date": "2025-10-09 01:33:30",
+        "sentiment_score": -0.17330670356750488
+    },
+    {
+        "title": "Condenan al Estado por el vuelco de un camión ante un socavón no reparado tras una dana en Almería",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/10/08/7AD251BC-3968-47AF-8EDB-2723A87F7B90/condenan-estado-vuelco-camion-socavon-reparado-dana-almeria_69.jpg?crop=1420%2C799%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "almería",
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/almeria/condenan-estado-vuelco-camion-socavon-reparado-dana-almeria_2025100968e70921e81f417969412f82.html",
+        "date": "2025-10-09 01:00:17",
+        "sentiment_score": -0.36879660934209824
+    },
+    {
+        "title": "Inmobiliaria Illa, pisos de boquilla",
+        "image_url": "https://s1.staticld.com/2025/10/08/salvador-illa081025.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-10-09/pablo-planas-inmobiliaria-illa-pisos-de-boquilla-7305788/",
+        "date": "2025-10-09 00:51:57",
+        "sentiment_score": -0.6290880590677261
+    },
+    {
+        "title": "La trampa de los recortes de Ryanair: quita 3 M de plazas en aeropuertos regionales y añade casi las mismas en los grandes",
+        "image_url": "https://s2.elespanol.com/2025/10/08/actualidad/1003743960778_259251951_1706x960.jpg",
+        "tags": [
+            "turismo",
+            "ryanair"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/turismo/20251009/trampa-recortes-ryanair-quita-plazas-aeropuertos-regionales-anade-mismas-grandes/1003743960717_0.html",
+        "date": "2025-10-09 00:27:57",
+        "sentiment_score": -0.41562968119978905
+    },
+    {
+        "title": "Actriz Gillian Anderson se confiesa: esta es su rutina nocturna que le permite tener un rostro envidiable",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759862561120.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/actriz-gillian-anderson-se-confiesa-esta-es-su-rutina-nocturna-que-le-permite-tener-un-rostro-envidiable-20251082200",
+        "date": "2025-10-09 02:00:00",
+        "sentiment_score": 0.5414172299206257
+    },
+    {
+        "title": "Publix anuncia polémica decisión sobre el porte de armas en sus tiendas: sepa de qué se trata",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "publix",
+            "armas",
+            "florida"
+        ],
+        "link": "https://2001online.com/usa/internacionales/publix-anuncia-polemica-decision-sobre-el-porte-de-armas-en-sus-tiendas-sepa-de-que-se-trata-20251082200",
+        "date": "2025-10-09 02:00:00",
+        "sentiment_score": 0.02942827343940735
+    },
+    {
+        "title": "Bloomberg: Shell se prepara para exportar gas venezolano con licencia de EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759975099088.jpg?ch=675&cw=1200",
+        "tags": [
+            "petroleo",
+            "chevron",
+            "trinidad y tobago",
+            "eeuu",
+            "shell"
+        ],
+        "link": "https://2001online.com/nacionales/bloomberg-shell-se-prepara-para-exportar-gas-venezolano-con-licencia-de-eeuu-202510821580",
+        "date": "2025-10-09 01:58:00",
+        "sentiment_score": 0.22836226224899292
+    },
+    {
+        "title": "¡Alivio para jubilados! Conoce la proyección del ajuste COLA 2026 en el Seguro Social",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759973399360.jpg?ch=675&cw=1200",
+        "tags": [
+            "administración del seguro social",
+            "cola 2026"
+        ],
+        "link": "https://2001online.com/usa/servicios/alivio-para-jubilados-conoce-la-proyeccion-del-ajuste-cola-2026-en-el-seguro-social-202510821260",
+        "date": "2025-10-09 01:26:00",
+        "sentiment_score": -0.29200151562690735
+    },
+    {
+        "title": "Maduro responde a EEUU: Lo que quieren es una guerra para imponer un gobierno títere",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "eeuu",
+            "venezuela",
+            "amenazas",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-responde-a-eeuu-lo-que-quieren-es-una-guerra-para-imponer-un-gobierno-titere-20251082100",
+        "date": "2025-10-09 01:00:00",
+        "sentiment_score": 0.1934589296579361
+    },
+    {
+        "title": "¿Cuánto cuesta la nueva mansión de The Weeknd? revelan la impresionante cifra",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759971091377/IMG_0740.jpeg?ch=675&cw=1200",
+        "tags": [
+            "cantante",
+            "the weeknd",
+            "mansión"
+        ],
+        "link": "https://2001online.com/usa/farandula/cuanto-cuesta-la-nueva-mansion-de-the-weeknd-revelan-la-impresionante-cifra-202510820410",
+        "date": "2025-10-09 00:41:00",
+        "sentiment_score": 0.04643571376800537
+    },
+    {
+        "title": "¡No más vallas peligrosas! INTT pone orden en la Panamericana: motivos y detalles de la medida",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "carretera panamericana",
+            "intt"
+        ],
+        "link": "https://2001online.com/comunidad/no-mas-vallas-peligrosas-intt-pone-orden-en-la-panamericana-motivos-y-detalles-de-la-medida-202510820240",
+        "date": "2025-10-09 00:24:00",
+        "sentiment_score": 0.13804259523749352
+    },
+    {
+        "title": "Miembro de Kiss Gene Simmons sufre accidente automovilístico: esto se sabe",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759970001670/IMG_0738.jpeg?ch=675&cw=1200",
+        "tags": [
+            "accidente",
+            "kiss",
+            "gene simmons"
+        ],
+        "link": "https://2001online.com/farandula/miembro-de-kiss-gene-simmons-sufre-accidente-automovilistico-esto-se-sabe-202510820180",
+        "date": "2025-10-09 00:18:00",
+        "sentiment_score": -0.4751875624060631
+    },
+    {
+        "title": "Plomero comparte truco para quitar el sarro de la ducha: basta con un ingrediente que siempre tienes en tu cocina",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759954583210.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/plomero-comparte-truco-para-quitar-el-sarro-de-la-ducha-basta-con-un-ingrediente-que-siempre-tienes-en-tu-cocina-20251082000",
+        "date": "2025-10-09 00:00:00",
+        "sentiment_score": 0.05473489686846733
+    },
+    {
+        "title": "España anuncia el fin de la Ley de Nietos: ¿Qué debes hacer ahora si eres español residente en EEUU?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "miami",
+            "ley",
+            "españa"
+        ],
+        "link": "https://2001online.com/usa/servicios/espana-anuncia-el-fin-de-la-ley-de-nietos-que-debes-hacer-ahora-si-eres-espanol-residente-en-eeuu--20251082000",
+        "date": "2025-10-09 00:00:00",
+        "sentiment_score": 0.4928934331983328
     }
 ];
