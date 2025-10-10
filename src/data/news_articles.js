@@ -190,89 +190,6 @@ export default [
         "sentiment_score": -0.043344706296920776
     },
     {
-        "title": "La Xunta presenta alegaciones contra la «mal llamada» condonación de la deuda autonómica",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/10/06/calvocdx-RRlqFceFEF6rV4Jzqhg0IWM-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "galicia"
-        ],
-        "link": "https://www.abc.es/espana/galicia/xunta-presenta-alegaciones-mal-llamada-condonacion-deuda-20251006143255-nt.html",
-        "date": "2025-10-06 12:33:55",
-        "sentiment_score": -0.09065122902393341
-    },
-    {
-        "title": "Paco Núñez nombra a Eusebio Cedena nuevo director de Comunicación del PP de Castilla-La Mancha",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/06/euse-RvhOffavQtEm06CYS2HdymJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "nombra",
-            "nuevo",
-            "pp",
-            "castillala",
-            "mancha",
-            "cedena",
-            "eusebio",
-            "comunicacion",
-            "paco",
-            "director",
-            "nunez"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/paco-nunez-nombra-eusebio-cedena-nuevo-director-20251006142729-nt.html",
-        "date": "2025-10-06 12:28:59",
-        "sentiment_score": 0.3228069394826889
-    },
-    {
-        "title": "Meliá gestionará los hoteles de lujo de Leo Messi",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/06/mailingassets_58d14d899e03741846195241142f7b5bbbb92248-RRNASegqartFmZXSX8r8DhI-1200x840@diario_abc.jpg",
-        "tags": [
-            "balón de oro",
-            "lujo",
-            "bienestar",
-            "sotogrande",
-            "sol melia",
-            "sitges",
-            "ibiza",
-            "marca",
-            "andorra (país)",
-            "hoteles",
-            "andorra",
-            "lionel andrés messi"
-        ],
-        "link": "https://www.abc.es/economia/melia-gestionara-cartera-hoteles-leo-messi-20251006134120-nt.html",
-        "date": "2025-10-06 11:54:54",
-        "sentiment_score": -0.020076990127563477
-    },
-    {
-        "title": "El SAS ya ha aplicado «cambios» al protocolo del cribado de cáncer",
-        "image_url": "https://www.abc.es/modulos/Zona-C/media/Clipboard-1410-kxFI-U84652628406eIT-298x168@diario_abc.jpg",
-        "tags": [
-            "cambios",
-            "protocolo",
-            "aplicado",
-            "sas",
-            "cancer",
-            "cribado"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/sas-aplicado-cambios-protocolo-cribado-cancer-20251006132607-nts.html",
-        "date": "2025-10-06 11:26:08",
-        "sentiment_score": -0.1163502186536789
-    },
-    {
-        "title": "Juanma Moreno sobre el cribado del cáncer de mama: «Es un problema grave y se trabaja a contrarreloj»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/10/06/moreno-inauguracion-centro-salud-almeria-R3pnqIJKgglvU7ZPvGlKrdL-1200x840@diario_abc.jpeg",
-        "tags": [
-            "mujeres",
-            "cáncer",
-            "servicio andaluz de salud (sas)",
-            "junta de andalucía",
-            "almería",
-            "juan manuel moreno bonilla",
-            "salud"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/almeria/juanma-moreno-sobre-cribado-cancer-mama-problema-20251006125516-nts.html",
-        "date": "2025-10-06 10:57:19",
-        "sentiment_score": -0.10153482854366302
-    },
-    {
         "title": "El pregón de las fiestas del Pilar acaba en batalla política: el PSOE plantea reprobar a la alcaldesa de Zaragoza",
         "image_url": "https://imagenes.elpais.com/resizer/v2/7LW6T73JWNDXVHOE5IIUBMCPGI.jpg?auth=2b5dc6e021dc36f8969ec2c146c12ad98b64ae62caa95602fa24531d2f654565&width=1200",
         "tags": [
@@ -287,162 +204,6 @@ export default [
         "link": "https://elpais.com/espana/2025-10-06/el-pregon-de-las-fiestas-del-pilar-acaba-en-batalla-politica-el-psoe-plantea-reprobar-a-la-alcaldesa-de-zaragoza.html",
         "date": "2025-10-06 15:50:07",
         "sentiment_score": -0.8685970343649387
-    },
-    {
-        "title": "El PP llama a los gerentes del PSOE al Senado por el último informe de la UCO, pero sigue sin convocar a Sánchez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/76CLEYFYXBLYPAF6YHPA3PDJA4.jpg?auth=5dc107ae37c83604426f3bf99a644185ccfc857be70c0f84104844ff2fde9dd7&width=1200",
-        "tags": [
-            "josé luis ábalos",
-            "pp",
-            "guardia civil",
-            "caso koldo",
-            "pedro sánchez",
-            "psoe",
-            "uco",
-            "senado",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-10-06/el-pp-llama-a-los-gerentes-del-psoe-al-senado-por-el-ultimo-informe-de-la-uco-pero-sigue-sin-convocar-a-sanchez.html",
-        "date": "2025-10-06 13:33:52",
-        "sentiment_score": -0.8251995723694563
-    },
-    {
-        "title": "La defensa de Begoña Gómez pide a Moncloa información sobre los asistentes de las esposas de los expresidentes del Gobierno",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/COY644PY5JHCREX3SRG3FC5UHY.jpg?auth=8c239a9e6fdff0b848e621060ccd124876f55734931fd8761274cadc37d32399&width=1200",
-        "tags": [
-            "madrid",
-            "universidad",
-            "juan carlos peinado",
-            "tribunales",
-            "pp",
-            "josé maría aznar",
-            "juicios",
-            "pedro sánchez",
-            "psoe",
-            "begoña gómez fernández",
-            "españa",
-            "josé luis rodríguez zapatero",
-            "plaza de castilla",
-            "gobierno",
-            "vox",
-            "juzgados"
-        ],
-        "link": "https://elpais.com/espana/2025-10-06/la-defensa-de-begona-gomez-pide-a-moncloa-informacion-sobre-los-asistentes-de-las-esposas-de-los-expresidentes-del-gobierno.html",
-        "date": "2025-10-06 13:30:34",
-        "sentiment_score": -0.16780541837215424
-    },
-    {
-        "title": "Bob Pop quiere presentarse a las municipales con los comunes: “¿Por qué no intentar ser alcalde de Barcelona?”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/THWEFH6B4ZGDNAVJIHZOF3S2OI.jpeg?auth=1282dedb085a35acde2d96a019c72c3a773240c1e408812da324838f4b65e7ab&width=1200",
-        "tags": [
-            "barcelona en comú",
-            "bob pop",
-            "barcelona",
-            "hoy por hoy",
-            "política",
-            "ayuntamiento barcelona",
-            "ada colau",
-            "cataluña",
-            "elecciones municipales",
-            "elecciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-06/bob-pop-quiere-presentarse-a-las-municipales-con-los-comunes-por-que-no-intentar-ser-alcalde-de-barcelona.html",
-        "date": "2025-10-06 13:21:26",
-        "sentiment_score": 0.05222930386662483
-    },
-    {
-        "title": "Un operario muere mientras limpiaba la chimenea de la incineradora de Tersa en Sant Adrià de Besòs",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JZU5QEZCEPDMUB47KOPZKJCWWY.jpg?auth=5fbf9530f7d889f9e72a378dea6d4e492f506674d684ea3b6283fc87d2c7ea94&width=1200",
-        "tags": [
-            "accidentes",
-            "trabajo",
-            "siniestralidad laboral",
-            "incineradoras basura",
-            "accidentes laborales",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-06/un-operario-muere-mientras-limpiaba-la-chimenea-de-la-incineradora-de-tersa-en-sant-adria-de-besos.html",
-        "date": "2025-10-06 13:01:57",
-        "sentiment_score": -0.8414352815598249
-    },
-    {
-        "title": "Juan Bordera, miembro de la flotilla: La sociedad civil “debe seguir movilizándose” para presionar a los gobiernos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/C2QL4XGB3BKMLGGG5GIDR23IVE.jpg?auth=772ad178735a9591656a3e1dbdb48f92dc84cc277e5a3ca0d850a11b23e78109&width=1200",
-        "tags": [
-            "conflictos",
-            "conflictos internacionales",
-            "comunidad valenciana",
-            "compromis-q",
-            "valencia",
-            "política",
-            "conflictos armados",
-            "conflicto árabe-israelí"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-06/juan-bordera-miembro-de-la-flotilla-la-sociedad-civil-debe-seguir-movilizandose-para-presionar-a-los-gobiernos.html",
-        "date": "2025-10-06 12:27:04",
-        "sentiment_score": -0.8706311071291566
-    },
-    {
-        "title": "El Tsjcv reconoce por primera vez el derecho al complemento por brecha de género en la pensión a una jubilada por el cuidado de su nieta",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GF2HPP5ZYFHVZBN7FP63NJOWPI.JPG?auth=270c864ede89a0a5c33e60a93ba57ca226482bdd8c76ae9d25f3f06e7558934a&width=1200",
-        "tags": [
-            "tribunales",
-            "comunidad valenciana",
-            "brecha salarial",
-            "valencia",
-            "servicios sociales"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-06/el-tsjcv-reconoce-por-primera-vez-el-derecho-al-complemento-por-brecha-de-genero-en-la-pension-a-una-jubilada-por-el-cuidado-de-su-nieta.html",
-        "date": "2025-10-06 12:22:34",
-        "sentiment_score": -0.737228149548173
-    },
-    {
-        "title": "Fallece un hombre de 65 años en el incendio de su piso en Collado Villalba",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SA2IQX2WWZGT5GJSSLBD7TJBCE.jpg?auth=4a5915233d1b334fed7af3a0ccaef218c3a300cf65e5610f6e0e4f0326508c0b&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "bomberos",
-            "incendios",
-            "collado villalba",
-            "guardia civil",
-            "sucesos",
-            "madrid",
-            "emergencias"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-10-06/fallece-un-hombre-de-65-anos-en-el-incendio-de-su-piso-en-collado-villalba.html",
-        "date": "2025-10-06 12:05:52",
-        "sentiment_score": -0.6422585062682629
-    },
-    {
-        "title": "Sánchez ensalza el compromiso de Fernández Vara con la democracia, lo social y Extremadura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/F3WP2CRIOFLRRNFUV36523JYFM.jpg?auth=10a1a3a3722fc6ca726f065f67eca305fcde998aa7a419a5f1561edb4312a986&width=1200",
-        "tags": [
-            "españa",
-            "obituarios",
-            "guillermo fernández vara",
-            "pedro sánchez",
-            "psoe",
-            "funerales",
-            "ideologías"
-        ],
-        "link": "https://elpais.com/espana/2025-10-06/sanchez-ensalza-el-compromiso-de-fernandez-vara-con-la-democracia-lo-social-y-extremadura.html",
-        "date": "2025-10-06 11:47:26",
-        "sentiment_score": -0.6793392077088356
-    },
-    {
-        "title": "Las principales asociaciones de víctimas de la dana declinan la invitación de Mazón para el Día de la Comunitat Valenciana “por respeto a la institución”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SJ64N2HI2NMLDLVGZNIHRTINBM.jpg?auth=0d64b3863cdfe20c6088038ee281efd426deb990449cd13d859675a89a8d283b&width=1200",
-        "tags": [
-            "dana",
-            "generalitat valenciana",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana",
-            "carlos mazón",
-            "jaime i"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-06/las-principales-asociaciones-de-victimas-de-la-dana-rechazan-la-invitacion-de-mazon-para-el-dia-de-la-comunitat-valenciana-por-respeto-a-la-institucion.html",
-        "date": "2025-10-06 11:43:40",
-        "sentiment_score": -0.850325770676136
     },
     {
         "title": "Vox presenta el martes en el Congreso su propuesta para derogar la ley trans",
@@ -9193,5 +8954,479 @@ export default [
         "link": "https://2001online.com/deportes/las-cifras-millonarias-del-villarreal-vs-barcelona-en-miami-cuanto-ganara-cada-equipo--202510917200",
         "date": "2025-10-09 20:36:28",
         "sentiment_score": 0.03945940360426903
+    },
+    {
+        "title": "España y Colombia abren la fase de cuartos de final este sábado",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/10/espana-y-colombia-abren-la-fase-de-cuartos-de-final-este-sabado/",
+        "date": "2025-10-10 01:45:18",
+        "sentiment_score": 0.19348343089222908
+    },
+    {
+        "title": "Prescott planea unirse a leyendas como Brady, Favre y Brees y jugar hasta los 40 años",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/10/prescott-planea-unirse-a-leyendas-como-brady-favre-y-brees-y-jugar-hasta-los-40-anos/",
+        "date": "2025-10-10 01:35:05",
+        "sentiment_score": 0.2570391185581684
+    },
+    {
+        "title": "Tras 70 años, La Madona de Portlligat regresa a España: cuál fue la travesía de la afamada pintura de Dalí",
+        "image_url": "https://www.infobae.com/resizer/v2/X2MDXSO6JVGORBA3KXGGRPNO7U.jpg?auth=97692cb8717db03ed7c37a9a063708dc7d2395162176f16ef684eab778a68192&height=1760&smart=true&width=2680",
+        "tags": [
+            "salvador dalí",
+            "teatre-museu de figueres",
+            "newsroom bue",
+            "fukuoka art museum",
+            "fundació gala-salvador dalí",
+            "la madona de portlligat"
+        ],
+        "link": "https://www.infobae.com/cultura/2025/10/10/tras-70-anos-la-madona-de-portlligat-regresa-a-espana-cual-fue-la-travesia-de-la-afamada-pintura-de-dali/",
+        "date": "2025-10-10 00:54:47",
+        "sentiment_score": 0.2168908417224884
+    },
+    {
+        "title": "Scaloni elogia \"la manera\" como el Real Madrid y Xabi Alonso están llevando a Mastantuono",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/09/scaloni-elogia-la-manera-como-el-real-madrid-y-xabi-alonso-estan-llevando-a-mastantuono/",
+        "date": "2025-10-09 23:54:08",
+        "sentiment_score": -0.23940002918243408
+    },
+    {
+        "title": "Díaz y Albanese creen que el plan de Trump para Gaza es “un alivio”, pero advierten de que “no es una solución de paz duradera” porque “ignora al pueblo palestino y el mandato de la ONU”",
+        "image_url": "https://www.infobae.com/resizer/v2/22HIU6V6S5ADLHU5RJYYAJKBHE.jpg?auth=3779d17fd2248264c6223a97ad66703bbf8ffc5f1147c133b9ffa759b250d6b2&height=1280&smart=true&width=1920",
+        "tags": [
+            "naciones unidas",
+            "internacional",
+            "israel",
+            "gaza",
+            "donald trump",
+            "palestina",
+            "onu",
+            "hamás",
+            "españa-nacional",
+            "yolanda díaz",
+            "españa-noticias",
+            "francesca albanese"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/09/yolanda-diaz-y-francesca-albanese-ven-un-alivio-en-el-plan-de-trump-para-gaza-pero-consideran-que-no-es-una-solucion-de-paz-duradera-ignora-al-pueblo-palestino-y-el-mandato-de-la-onu/",
+        "date": "2025-10-09 23:52:00",
+        "sentiment_score": 0.23168347030878067
+    },
+    {
+        "title": "España y Panamá negocian un nuevo tratado general de amistad para profundizar su relación",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "internacional",
+            "tratado",
+            "panama",
+            "amistad",
+            "relaciones",
+            "efe",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/09/espana-y-panama-negocian-un-nuevo-tratado-general-de-amistad-para-profundizar-su-relacion/",
+        "date": "2025-10-09 23:48:01",
+        "sentiment_score": 0.4206349328160286
+    },
+    {
+        "title": "Indra fimra un acuerdo con Sirt para aumentar capacidades de ciberdefensa y del espacio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/09/indra-fimra-un-acuerdo-con-sirt-para-aumentar-capacidades-de-ciberdefensa-y-del-espacio/",
+        "date": "2025-10-09 23:30:28",
+        "sentiment_score": 0.34725964814424515
+    },
+    {
+        "title": "El petróleo de Texas baja un 1,66 % tras aprobarse la primera fase del plan de paz en Gaza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/09/el-petroleo-de-texas-baja-un-166-tras-aprobarse-la-primera-fase-del-plan-de-paz-en-gaza/",
+        "date": "2025-10-09 23:29:43",
+        "sentiment_score": 0.1310712918639183
+    },
+    {
+        "title": "El Mercosur y Canadá retoman las negociaciones para un acuerdo de libre comercio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/09/el-mercosur-y-canada-retoman-las-negociaciones-para-un-acuerdo-de-libre-comercio/",
+        "date": "2025-10-09 23:29:26",
+        "sentiment_score": 0.3651825115084648
+    },
+    {
+        "title": "Los analistas buscan pistas sobre la economía de EEUU en medio del cierre del Gobierno",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/09/los-analistas-buscan-pistas-sobre-la-economia-de-eeuu-en-medio-del-cierre-del-gobierno/",
+        "date": "2025-10-09 23:29:14",
+        "sentiment_score": -0.18112355843186378
+    },
+    {
+        "title": "El renacer 'gastro' de Azca: 10 restaurantes que están revolucionando este distrito financiero de Madrid",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/10/09/17600228015660.jpg",
+        "tags": [
+            "comer",
+            "gastronomía",
+            "madrid",
+            "restaurantes"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/10/10/68e7d099fdddff11398b4590.html",
+        "date": "2025-10-10 00:56:40",
+        "sentiment_score": 0.46769221872091293
+    },
+    {
+        "title": "La Comisión de Venecia concluye que el sistema del Gobierno para elegir el CGPJ \"no cumple los estándares europeos\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/e4b82614f11963d1f015337db691d94e/f/image/jpeg/assets/multimedia/imagenes/2024/01/19/17056843364480.jpg",
+        "tags": [
+            "consejo general del poder judicial",
+            "artículos manuel marraco",
+            "artículos ángela martialay"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/10/10/68e81183e85ecef20f8b4574.html",
+        "date": "2025-10-10 00:56:37",
+        "sentiment_score": -0.15476172417402267
+    },
+    {
+        "title": "Ignacio, el sobrino de Almeida que robó una gasolinera, 'se dejó allí el cuchillo y el casco': ofrecía clases de matemáticas a 6 euros",
+        "image_url": "https://s2.elespanol.com/2025/10/09/actualidad/1003743962708_259276172_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "madrid",
+            "robos",
+            "josé luis martínez almeida"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251010/ignacio-sobrino-almeida-robo-gasolinera-dejo-cuchillo-casco-ofrecia-clases-matematicas-euros/1003743962153_0.html",
+        "date": "2025-10-10 00:49:00",
+        "sentiment_score": -0.3807264566421509
+    },
+    {
+        "title": "Los reyes invitan a los alcaldes de municipios afectados por la dana a la Fiesta Nacional",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/10/los-reyes-invitan-a-los-alcaldes-de-municipios-afectados-por-la-dana-a-la-fiesta-nacional/",
+        "date": "2025-10-10 00:32:47",
+        "sentiment_score": 0.06492409110069275
+    },
+    {
+        "title": "Yolanda Díaz no informó a los ministros del PSOE de su plan para ampliar permisos laborales antes de anunciarlo",
+        "image_url": "https://s2.elespanol.com/2025/10/09/actualidad/1003743963163_259282789_1706x960.jpg",
+        "tags": [
+            "psoe (partido socialista obrero español)",
+            "yolanda díaz",
+            "empleo hoy",
+            "ministerio de trabajo"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/empleo/20251010/yolanda-diaz-no-informo-ministros-psoe-plan-ampliar-permisos-laborales-anunciarlo/1003743962864_0.html",
+        "date": "2025-10-10 00:15:06",
+        "sentiment_score": -0.14999032393097878
+    },
+    {
+        "title": "El Gobierno excluye de su plan eléctrico hasta 2030 nuevas viviendas en Madrid, hidrógeno e interconexiones con Francia",
+        "image_url": "https://s2.elespanol.com/2025/10/09/actualidad/1003743962997_259280492_1706x960.jpg",
+        "tags": [
+            "vivienda",
+            "francia",
+            "madrid",
+            "gobierno de españa",
+            "electricidad",
+            "observatorio de la energía",
+            "ministerio transición ecológica y reto demográfico"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20251010/gobierno-excluye-plan-electrico-nuevas-viviendas-madrid-hidrogeno-interconexiones-francia/1003743962663_0.html",
+        "date": "2025-10-10 00:12:38",
+        "sentiment_score": -0.046828001737594604
+    },
+    {
+        "title": "2a PARTE | 09 OCT 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-09-oct-2025-partidazo-cope-20251010_3229627.html",
+        "date": "2025-10-09 22:58:17",
+        "sentiment_score": -0.0058424100279808044
+    },
+    {
+        "title": "El modelo híbrido en business travel; la combinación que las empresas demandan",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7592482",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5460719/modelo-hibrido-business-travel-combinacion-empresas-demandan",
+        "date": "2025-10-09 22:49:34",
+        "sentiment_score": 0.7350946944206953
+    },
+    {
+        "title": "Salvador Bachiller: de vender maletas a famosos a abrir restaurantes en sus tiendas",
+        "image_url": "https://phantom-expansion.uecdn.es/d569033425caa200627d3b1af4ba438f/crop/8x1/2048x1361/resize/2040/assets/multimedia/imagenes/2025/10/08/17599149954254.jpg",
+        "tags": [
+            "distribución>",
+            "historias de éxito>",
+            "empresas>",
+            "artículos mª luisa verbo>"
+        ],
+        "link": "https://www.expansion.com/empresas/distribucion/2025/10/10/68e62d5d468aeb07158b459e.html",
+        "date": "2025-10-09 22:20:55",
+        "sentiment_score": 0.5924083683639765
+    },
+    {
+        "title": "De Suiza a Biniparell: la cerámica de Werner Bernard por bandera en Ca n'Oliver",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3507141.jpg",
+        "tags": [
+            "exposición de cerámica",
+            "werner bernard",
+            "ca n'oliver",
+            "vivir en menorca"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2025/10/10/2487827/suiza-biniparell-ceramica-werner-bernard-por-bandera-oliver.html",
+        "date": "2025-10-10 01:59:01",
+        "sentiment_score": -0.01749590039253235
+    },
+    {
+        "title": "El Manchester United se inspira en los PSL del Camp Nou para construir su nuevo estadio: más de 4.500 euros por asiento",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/03/11/culemania/culemaniacos/930417032_14246827_1706x960.jpg",
+        "tags": [
+            "barça",
+            "palco",
+            "manchester united",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251010/manchester-united-inspira-psl-camp-nou-construir/1003742696136_0.html",
+        "date": "2025-10-10 01:23:49",
+        "sentiment_score": 0.331704281270504
+    },
+    {
+        "title": "El Barça pone los abonos más baratos que en el último año del Camp Nou: la gran subida, en 2027",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/06/08/culemania/palco/769933051_8065317_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "palco",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251010/barca-abonos-baratos-ultimo-camp-nou-subida/1003742696070_0.html",
+        "date": "2025-10-10 01:23:48",
+        "sentiment_score": 0.08997274562716484
+    },
+    {
+        "title": "BLM triplica los ingresos en siete años y apunta a nuevo récord: 200 millones de euros en 2026",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/09/culemania/palco/1003742696190_15257198_1706x960.jpg",
+        "tags": [
+            "junta directiva del barça",
+            "fc barcelona",
+            "nike",
+            "joan laporta",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251010/blm-triplica-ingresos-apunta-record-millones-deeurosen2026/1003742695969_0.html",
+        "date": "2025-10-10 01:23:47",
+        "sentiment_score": -0.45139168947935104
+    },
+    {
+        "title": "La UCO confirma que Ábalos estuvo en el parador de Teruel para \"encuentros privados\"",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/10/09/17600389232982.jpg",
+        "tags": [
+            "artículos quico alsedo",
+            "koldo garcía",
+            "artículos ángela martialay",
+            "artículos esteban urreiztieta",
+            "psoe",
+            "josé luis ábalos",
+            "artículos gema peñalosa",
+            "santos cerdán"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/10/10/68e80ea521efa0e51a8b45ad.html",
+        "date": "2025-10-10 00:56:36",
+        "sentiment_score": -0.3763321787118912
+    },
+    {
+        "title": "Joaquín Perales, letrado experto en tráfico tras 10.000 casos: 'Los seguros rechazan por sistema pagar los golpes por alcance'",
+        "image_url": "https://s2.elespanol.com/2025/10/09/actualidad/1003743962989_259280402_1706x960.jpg",
+        "tags": [
+            "derecho",
+            "indemnizaciones",
+            "abogados",
+            "reportajes",
+            "accidentes de tráfico"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251010/joaquin-perales-letrado-experto-trafico-casos-seguros-rechazan-sistema-pagar-golpes-alcance/1003743962627_0.html",
+        "date": "2025-10-10 00:49:03",
+        "sentiment_score": -0.42168663442134857
+    },
+    {
+        "title": "Álvaro Soler regresa con 'El Camino': una auténtica banda sonora para el viaje de la vida",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/09/vida/1003742696235_15257985_1706x960.jpg",
+        "tags": [
+            "cantantes",
+            "famosos",
+            "cultura",
+            "barcelona",
+            "creación",
+            "música"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20251010/alvaro-soler-regresa-camino-autentica-banda-sonora-trt/1003742696233_0.html",
+        "date": "2025-10-10 00:41:11",
+        "sentiment_score": 0.6125889047980309
+    },
+    {
+        "title": "Capturada en Anzoátegui una mujer requerida por trato cruel",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/10/Sin-titulo-1-10.jpg",
+        "tags": [
+            "noticias destacadas",
+            "trato cruel",
+            "capturada",
+            "sucesos"
+        ],
+        "link": "https://elsiglo.com.ve/capturada-en-anzoategui-una-mujer-requerida-por-trato-cruel/",
+        "date": "2025-10-10 00:29:34",
+        "sentiment_score": -0.6402380578219891
+    },
+    {
+        "title": "¡Candela en Macuto! Tiburones vence a los Leones del Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760063718541.jpg?ch=675&cw=1200",
+        "tags": [
+            "liga venezolana de beisbol profesional",
+            "lvbp",
+            "venezuela",
+            "caracas",
+            "beisbol venezolano",
+            "tiburones de la guaira",
+            "leones del caracas",
+            "la guaira"
+        ],
+        "link": "https://2001online.com/deportes/candela-en-macuto-tiburones-vence-a-los-leones-del-caracas-202510922400",
+        "date": "2025-10-10 02:05:45",
+        "sentiment_score": 0.10350041091442108
+    },
+    {
+        "title": "Conoce la tendencia en uñas que popularizó Jennifer Lopez: ideales para el otoño",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759933022862.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/conoce-la-tendencia-en-unas-que-popularizo-jennifer-lopez-ideales-para-el-otono-20251092200",
+        "date": "2025-10-10 02:00:00",
+        "sentiment_score": 0.3946143351495266
+    },
+    {
+        "title": "Tramitar la visa de EEUU en la frontera: sepa cuánto se tarda y qué posibilidades de aprobación tiene",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "visa",
+            "eeuu",
+            "frontera"
+        ],
+        "link": "https://2001online.com/usa/servicios/tramitar-la-visa-de-eeuu-en-la-frontera-sepa-cuanto-se-tarda-y-que-posibilidades-de-aprobacion-tiene-202510921580",
+        "date": "2025-10-10 01:58:00",
+        "sentiment_score": -0.09521627426147461
+    },
+    {
+        "title": "El aeropuerto de Valera se abre al mundo por José Gregorio Hernández: conozca el ambicioso plan",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "canonización",
+            "venezuela",
+            "diario 2001",
+            "vaticano",
+            "carmen rendiles",
+            "josé gregorio hernández"
+        ],
+        "link": "https://2001online.com/comunidad/el-aeropuerto-de-valera-se-abre-al-mundo-por-jose-gregorio-hernandez-conozca-el-ambicioso-plan-202510921570",
+        "date": "2025-10-10 01:57:00",
+        "sentiment_score": 0.7280824147164822
+    },
+    {
+        "title": "¡En video! Violento ataque de un chofer contra el colector: Fiscalía le imputará estos delitos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760052938107.jpg?ch=675&cw=1200",
+        "tags": [
+            "video viral",
+            "caracas",
+            "violencia",
+            "chofer",
+            "ministerio público",
+            "agresión"
+        ],
+        "link": "https://2001online.com/sucesos/en-video-violento-ataque-de-un-chofer-contra-el-colector-fiscalia-le-imputara-estos-delitos-202510921510",
+        "date": "2025-10-10 01:51:00",
+        "sentiment_score": -0.412625789642334
+    },
+    {
+        "title": "Green card EEUU: esto es lo que necesitas para patrocinar a un familiar",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "patrocinador",
+            "green card",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/usa/servicios/green-card-eeuu-esto-es-lo-que-necesitas-para-patrocinar-a-un-familiar-20251092110",
+        "date": "2025-10-10 01:01:00",
+        "sentiment_score": 0.10700958222150803
+    },
+    {
+        "title": "¡Escándalo en Alabama! Decoración de Halloween en casa de sheriff desata polémica",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760058207069.jpg?ch=675&cw=1200",
+        "tags": [
+            "alabama",
+            "decoración halloween",
+            "sheriff"
+        ],
+        "link": "https://2001online.com/usa/servicios/escandalo-en-alabama-decoracion-de-halloween-en-casa-de-sheriff-desata-polemica--202510920550",
+        "date": "2025-10-10 00:55:00",
+        "sentiment_score": -0.8831462925300002
+    },
+    {
+        "title": "Escalada de agresiones de EEUU: Venezuela solicita reunión urgente del Consejo de Seguridad de la ONU",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760056657824.jpg?ch=675&cw=1200",
+        "tags": [
+            "onu",
+            "canciller yván gil",
+            "consejo de seguridad de la onu",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/nacionales/escalada-de-agresiones-de-eeuu-venezuela-solicita-reunion-urgente-del-consejo-de-seguridad-de-la-onu-202510920370",
+        "date": "2025-10-10 00:37:00",
+        "sentiment_score": -0.8653453607112169
+    },
+    {
+        "title": "Revolución tecnológica: SIP y Google lanzan laboratorio de IA para transformar medios de Latam",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "periodismo",
+            "google",
+            "sip",
+            "gemini"
+        ],
+        "link": "https://2001online.com/internacionales/revolucion-tecnologica-sip-y-google-lanzan-laboratorio-de-ia-para-transformar-medios-de-latam-202510920300",
+        "date": "2025-10-10 00:30:00",
+        "sentiment_score": 0.30002375692129135
+    },
+    {
+        "title": "Ciudades en Estados Unidos cuyos habitantes gastan más en comida: ranking",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760038889389.jpg?ch=675&cw=1200",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ciudades-en-estados-unidos-cuyos-habitantes-gastan-mas-en-comida-ranking-202510920250",
+        "date": "2025-10-10 00:25:00",
+        "sentiment_score": 0.013487093150615692
     }
 ];
