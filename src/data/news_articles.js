@@ -176,92 +176,6 @@ export default [
         "sentiment_score": -0.12073767185211182
     },
     {
-        "title": "El Palma del Río reservará 2.500 entradas para los béticos si la RFEF aprueba que se juegue en su estadio",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/deportes/2025/10/07/estadio-palma-rio-RzqsBn8eZFkHM8KSNJNoAaO-1200x840@diario_abc.jpg",
-        "tags": [
-            "deportes",
-            "noticias betis",
-            "alfinaldelapalmera"
-        ],
-        "link": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/palma-rio-reservara-2500-entradas-beticos-rfef-20251007144146-nts.html",
-        "date": "2025-10-07 12:41:46",
-        "sentiment_score": -0.012235313653945923
-    },
-    {
-        "title": "Cuánto dinero gana un médico de cabecera en España en 2025: salario por comunidad autónoma y complementos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2024/10/23/medicos2-kdCC-U701709529579xcB-1200x840@diario_abc.jpg",
-        "tags": [
-            "ad abc",
-            "profesiones",
-            "medicina",
-            "dinero",
-            "salario",
-            "mónica garcía gómez",
-            "españa",
-            "médicos",
-            "sanidad"
-        ],
-        "link": "https://www.abc.es/economia/dinero-gana-medico-cabecera-espana-2025-salario-20251007135256-nt.html",
-        "date": "2025-10-07 11:57:54",
-        "sentiment_score": -0.13146404922008514
-    },
-    {
-        "title": "La Junta, condenada a indemnizar con 20.000 euros a un leonés por la demora en el inicio de su rehabilitación post-operación",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/07/tsj-RYJLk5DbThd2cTsv3oYpPDI-1200x840@diario_abc.jpg",
-        "tags": [
-            "junta de castilla y león",
-            "sanidad",
-            "castilla y león",
-            "león (capital)"
-        ],
-        "link": "https://www.abc.es/espana/castilla-leon/junta-condenada-indemnizar-20000-euros-leones-demora-20251007125931-nt.html",
-        "date": "2025-10-07 11:03:46",
-        "sentiment_score": -0.32784590125083923
-    },
-    {
-        "title": "Un fotoperiodista en Gaza: «Todos los días al ir a trabajar me despido de mis hijos porque no sé si volveré con vida»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/08/15/rizek-periodista-R51Z9PHwjU5Aqi3m7iJRp7N-1200x840@diario_abc.jpg",
-        "tags": [
-            "instagram",
-            "guerra del vietnam",
-            "madrid (ciudad)",
-            "israel",
-            "gaza"
-        ],
-        "link": "https://www.abc.es/internacional/fotoperiodista-gaza-dias-trabajar-despido-hijos-20250815165519-nt.html",
-        "date": "2025-10-07 10:55:12",
-        "sentiment_score": -0.12315517663955688
-    },
-    {
-        "title": "Las claves del decreto contra la universidad privada: 4.500 alumnos en 6 años, un 10% de alojamiento o aval bancario",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2025/10/07/1501631386-RwTrnP7Kju8qAx9xqb120vJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.abc.es/sociedad/claves-decreto-universidad-privada-4500-alumnos-anos-20251007124802-nt.html",
-        "date": "2025-10-07 10:48:02",
-        "sentiment_score": -0.09469738602638245
-    },
-    {
-        "title": "Ucrania ataca la parte de la región de Jersón controlada por Rusia y deja cuatro muertos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/10/07/37347261-kWZC-U7017088232361BB-1200x840@diario_abc.jpg",
-        "tags": [
-            "controlada",
-            "cuatro",
-            "jerson",
-            "parte",
-            "region",
-            "muertos",
-            "ucrania",
-            "deja",
-            "ataca",
-            "rusia"
-        ],
-        "link": "https://www.abc.es/internacional/ucrania-ataca-parte-region-jerson-controlada-rusia-20251007122516-nt.html",
-        "date": "2025-10-07 10:25:17",
-        "sentiment_score": -0.24703717231750488
-    },
-    {
         "title": "Un hombre es detenido en Pamplona tras escapar de un control de la Policía Foral mientras les hacía una peineta",
         "image_url": "https://imagenes.elpais.com/resizer/v2/TVTSXDGDUNDQJEG72QHPSZBTWI.jpg?auth=7c57ea2247ce06682864552a251359e88f9b31f94e4973b232fce8091c39c68d&width=1200",
         "tags": [
@@ -353,92 +267,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-10-07/la-reina-indiscutible-del-cruasan-la-pasteleria-mervier-canal-de-barcelona.html",
         "date": "2025-10-07 14:40:17",
         "sentiment_score": 0.38352426141500473
-    },
-    {
-        "title": "El PSOE informó al Supremo del pago a Cerdán de más de 30.000 euros en efectivo por liquidaciones de gastos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QL263CET2NH2JACLBPRJ2VPKFU.JPG?auth=d2d36c4e7cb688aa14898a0d0b313d30fafc1b48c7fe66f686e69c8ce8f9e097&width=1200",
-        "tags": [
-            "pago",
-            "josé luis ábalos",
-            "tribunal supremo",
-            "corrupción",
-            "psoe",
-            "koldo garcía",
-            "senado",
-            "españa",
-            "santos cerdán"
-        ],
-        "link": "https://elpais.com/espana/2025-10-07/el-psoe-informo-al-supremo-del-pago-a-cerdan-de-mas-de-30000-euros-en-efectivo-por-liquidaciones-de-gastos.html",
-        "date": "2025-10-07 14:12:30",
-        "sentiment_score": -0.011997200548648834
-    },
-    {
-        "title": "Un grupo de restauradores de Barcelona crea una entidad alternativa al gremio: “Merecemos un espacio específico”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FXABVD7TS5CSJGEACAKQ2F6CDY.jpg?auth=bd27600b473de9af9cbc314ad6fe00ae393950b5164b0dec163531242fea4644&width=1200",
-        "tags": [
-            "asociaciones",
-            "enric marco",
-            "bares",
-            "cafeterías",
-            "cataluña",
-            "gastronomía",
-            "restaurantes",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-07/un-grupo-de-restauradores-de-barcelona-crea-una-entidad-alternativa-al-gremio-merecemos-un-espacio-especifico.html",
-        "date": "2025-10-07 13:34:37",
-        "sentiment_score": -0.2565145082771778
-    },
-    {
-        "title": "Fitch cree que España incumplirá los objetivos de déficit pese al sólido crecimiento económico",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7MDVDKSB3BFR3IMC5PJIECVPZA.jpg?auth=21bb62656d1782747f657e5c987c2a9367562679a764a720cee16b5c4cfc8076&width=1200",
-        "tags": [
-            "crecimiento económico",
-            "bonos tesoro",
-            "previsiones económicas",
-            "economía",
-            "deuda pública",
-            "agencias calificación",
-            "consumo",
-            "déficit público",
-            "inversión",
-            "pib"
-        ],
-        "link": "https://elpais.com/economia/2025-10-07/fitch-cree-que-espana-incumplira-los-objetivos-de-deficit-pese-al-solido-crecimiento-economico.html",
-        "date": "2025-10-07 13:27:22",
-        "sentiment_score": 0.05770924687385559
-    },
-    {
-        "title": "Sánchez promete más transparencia en la contratación pública y las agendas para frenar la corrupción",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OLSFJDDO6VIODHTCWQ2TF73WKU.jpg?auth=e66fef4eb8f164c1c7ef00a0dbb0f4d3ed81254fd9b5720ba3feb265e1e5d11b&width=1200",
-        "tags": [
-            "país vasco",
-            "imanol pradales",
-            "sociedad civil",
-            "pedro sánchez",
-            "transparencia institucional",
-            "gobierno de españa",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-10-07/sanchez-anuncia-nuevas-medidas-contra-la-corrupcion-mas-transparencia-institucional-y-un-portal-de-contratacion-del-sector-publico.html",
-        "date": "2025-10-07 13:26:34",
-        "sentiment_score": 0.5779446177184582
-    },
-    {
-        "title": "La Generalitat premia a las comunidades autónomas por ayudar en la dana y excluye a las víctimas porque tienen el funeral de Estado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/S2FRPQCVIZP5NEJNIO36JI7OKA.jpg?auth=e8180cddaf97fca22e07651ef2d520587bd84a8221b4a99eb20bb8657a68f442&width=1200",
-        "tags": [
-            "gobierno autonómico",
-            "dana",
-            "inundaciones dana octubre 2024",
-            "justicia",
-            "susana camarero",
-            "comunidad valenciana",
-            "consell valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-07/la-generalitat-premia-a-las-comunidades-autonomas-por-ayudar-en-la-dana-y-excluye-a-las-victimas-porque-tienen-el-funeral-de-estado.html",
-        "date": "2025-10-07 12:43:51",
-        "sentiment_score": -0.3381402939558029
     },
     {
         "title": "Vicente Vallés habla de sus padres, de la rivalidad con su mujer Ángeles Blanco en el trabajo y el fútbol y de su hijo",
@@ -9100,5 +8928,454 @@ export default [
         "link": "https://2001online.com/nacionales/venezuela-recibe-dos-nuevas-distinciones-de-la-unesco-destacan-transformacion-y-avance-cientifico-2025101016260",
         "date": "2025-10-10 20:26:00",
         "sentiment_score": 0.02254869043827057
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Málaga este sábado 11 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/HGCQQBREJFG3HOXFG7QBSMNCJQ.png?auth=61e42083d629851aa0c8752556cbd10c287b99213f35efecf1dbb0797359aec9&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "tiempo en españa",
+            "málaga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/11/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-malaga-este-sabado-11-de-octubre/",
+        "date": "2025-10-11 02:02:26",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Madrid: la predicción del tiempo para este 11 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/5WNGZ3LBVBDMZOTA4JODFZB6HI.png?auth=bb2d66c14385e6d7eee2237eee93d2ced06e7974548fa46b963e43579b31c11c&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "noticias",
+            "españa sociedad",
+            "madrid",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/11/madrid-la-prediccion-del-tiempo-para-este-11-de-octubre/",
+        "date": "2025-10-11 01:45:40",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Prepárate antes de salir: conoce el pronóstico del clima en Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "noticias",
+            "españa sociedad",
+            "barcelona",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/11/preparate-antes-de-salir-conoce-el-pronostico-del-clima-en-barcelona/",
+        "date": "2025-10-11 01:17:55",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El “riesgo de desbordamiento del canal del trasvase y las ramblas” en Murcia obliga a activar el sistema Es-Alert y el nivel 1 del Plan Especial de Protección Civil ante Inundaciones",
+        "image_url": "https://www.infobae.com/resizer/v2/BDNCO7X74ZHYNIGVP6HCNCNJEM.jpg?auth=858193b011a5ab5b4e4be3366384e4e3e5e6f2527e10fa3d4fab744035a7bd83&height=3205&smart=true&width=5697",
+        "tags": [
+            "desbordamiento",
+            "murcia",
+            "españa-nacional",
+            "es alert",
+            "españa-noticias",
+            "emergencias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/10/el-riesgo-de-desbordamiento-del-canal-del-trasvase-y-las-ramblas-en-murcia-obliga-a-activar-el-sistema-es-alert-y-el-nivel-1-del-plan-especial-de-proteccion-civil-ante-inundaciones/",
+        "date": "2025-10-10 23:37:42",
+        "sentiment_score": -0.30182939767837524
+    },
+    {
+        "title": "Ranking Netflix: estas son las películas favoritas del público español",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=1080&smart=true&width=1920",
+        "tags": [
+            "streaming",
+            "españa-televisión",
+            "películas",
+            "noticias",
+            "netflix"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/10/ranking-netflix-estas-son-las-peliculas-favoritas-del-publico-espanol/",
+        "date": "2025-10-10 23:31:05",
+        "sentiment_score": 0.528931237757206
+    },
+    {
+        "title": "Top de las mejores películas de Prime Video en España",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=1080&smart=true&width=1920",
+        "tags": [
+            "streaming",
+            "españa-televisión",
+            "películas",
+            "prime video",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/10/10/top-de-las-mejores-peliculas-de-prime-video-en-espana/",
+        "date": "2025-10-10 23:30:45",
+        "sentiment_score": 0.3331269808113575
+    },
+    {
+        "title": "55 fotos: el embajador Joaquín de Arístegui encabezó la recepción con motivo de la Fiesta Nacional de España",
+        "image_url": "https://www.infobae.com/resizer/v2/UI2UHOXHHJHQTFOHNG2T6INT6A.jpg?auth=1f9cf6390d02070af9e0c456e90f8fb6a398ade4f475901353446f7044fe60e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "joaquín de arístegui",
+            "embajada de españa",
+            "fiesta nacional de españa"
+        ],
+        "link": "https://www.infobae.com/fotos/2025/10/10/55-fotos-el-embajador-joaquin-de-aristegui-encabezo-la-recepcion-con-motivo-de-la-fiesta-nacional-de-espana/",
+        "date": "2025-10-10 22:57:53",
+        "sentiment_score": 0.032403163611888885
+    },
+    {
+        "title": "Ciudadano colombiano fue arrestado en España por abusar sexualmente de una menor de 8 años",
+        "image_url": "https://www.infobae.com/resizer/v2/N3P7YCOYFND4RDZAXR62BPWK34.jpg?auth=bcefbf0ec40613f8eff764682dd630114591c9b3355877f8491802ed57137356&height=703&smart=true&width=1366",
+        "tags": [
+            "abuso sexual infantil",
+            "distrito de usera",
+            "violencia contra la mujer",
+            "violencia de género",
+            "madrid",
+            "policía de españa",
+            "colombiano detenido",
+            "colombia-noticias"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/10/10/ciudadano-colombiano-fue-arrestado-en-espana-por-abusar-sexualmente-de-una-menor-de-8-anos/",
+        "date": "2025-10-10 22:29:57",
+        "sentiment_score": -0.5483319126069546
+    },
+    {
+        "title": "Libros con sabor a historia, historias con olor a libro",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/30/16/65/5/frame-10libroantiguo.jpeg",
+        "tags": [
+            "lnc culturas"
+        ],
+        "link": "https://www.lanuevacronica.com/lnc-culturas/libros-con-sabor-historia-historias-con-olor-libro_183829_102.html",
+        "date": "2025-10-11 02:00:00",
+        "sentiment_score": 0.15841510519385338
+    },
+    {
+        "title": "Día de la Hispanidad 2025: este será el horario y recorrido del desfile militar de las Fuerzas Armadas",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3505621.jpg",
+        "tags": [
+            "desfile militar",
+            "nacional",
+            "ia-discover",
+            "audiencias-um",
+            "madrid",
+            "12 de octubre",
+            "día de la hispanidad"
+        ],
+        "link": "https://www.menorca.info/actualidad/nacional/2025/10/11/2486815/dia-hispanidad-2025-este-sera-horario-recorrido-del-desfile-militar-fuerzas-armadas.html",
+        "date": "2025-10-11 01:59:01",
+        "sentiment_score": 0.5755609199404716
+    },
+    {
+        "title": "El exclusivo rincón de Mallorca por el que pasean Victoria Beckham y su hija Harper: compras de lujo y relax",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3505399.jpg",
+        "tags": [
+            "victoria beckham",
+            "port d'andratx",
+            "ia-discover",
+            "famosos en mallorca",
+            "quiosco rosa",
+            "parejas de famosos",
+            "prensa rosa",
+            "audiencias-um"
+        ],
+        "link": "https://www.ultimahora.es/vips/quiosco-rosa/2025/10/11/2485855/exclusivo-rincon-mallorca-por-pasean-victoria-beckham-hija-harper-compras-lujo-relax.html",
+        "date": "2025-10-11 01:58:01",
+        "sentiment_score": 0.24901236593723297
+    },
+    {
+        "title": "FC Barcelona: Joan Garcia apunta a volver en un mes y se perdería el Clásico",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/11/2025101103185187910.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/fc-barcelona-joan-garcia-apunta-volver-mes-perderia-clasico/20251011032026358869.html",
+        "date": "2025-10-11 01:20:26",
+        "sentiment_score": 0.6270289458334446
+    },
+    {
+        "title": "La burbuja de la IA no es solo financiera: \"Su avance puede haberse topado con sus propios límites tecnológicos\"",
+        "image_url": "https://s2.elespanol.com/2025/10/10/actualidad/1003743964846_259305237_1706x960.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "tecnología",
+            "nvidia"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20251011/burbuja-ia-no-solo-financiera-avance-puede-haberse-topado-propios-limites-tecnologicos/1003743959582_0.html",
+        "date": "2025-10-11 00:31:39",
+        "sentiment_score": -0.9209139309823513
+    },
+    {
+        "title": "Deportes | El abonado del Hércules CF siempre sale perdiendo",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1668646.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-abonado-del-hercules-cf-siempre-sale-perdiendo",
+        "date": "2025-10-11 00:25:42",
+        "sentiment_score": -0.7161799781024456
+    },
+    {
+        "title": "Umbral y el arte de resucitar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "resucitar",
+            "arte",
+            "umbral"
+        ],
+        "link": "https://www.hoy.es/culturas/trazos/umbral-arte-resucitar-20251011105450-nt.html",
+        "date": "2025-10-11 00:00:00",
+        "sentiment_score": 0.12892141938209534
+    },
+    {
+        "title": "José Antonio López, nuevo académico de la Academia Europea de Doctores",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "academia",
+            "europea",
+            "jose",
+            "antonio",
+            "doctores",
+            "academico",
+            "nuevo",
+            "lopez"
+        ],
+        "link": "https://www.hoy.es/prov-badajoz/jose-antonio-lopez-nuevo-academico-academia-europea-20251011104510-nt.html",
+        "date": "2025-10-11 00:00:00",
+        "sentiment_score": 0.378475159406662
+    },
+    {
+        "title": "Canarias encabeza la privatización sanitaria: «El aumento de los últimos años ha sido terrible»",
+        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2025/10/10/abril-2024-archivo-kQWB--1200x840@Canarias7.jpg",
+        "tags": [
+            "hospitales",
+            "servicios públicos",
+            "consejería de sanidad",
+            "sanidad",
+            "servicio canario de salud",
+            "conciertos",
+            "las palmas de gran canaria",
+            "gasto público",
+            "hospital doctor negrín",
+            "salud",
+            "listas de espera",
+            "canarias",
+            "gran canaria"
+        ],
+        "link": "https://www.canarias7.es/sociedad/salud/canarias-encabeza-privatizacion-sanitaria-aumento-ultimos-anos-20251011010042-nt.html",
+        "date": "2025-10-11 00:00:00",
+        "sentiment_score": -0.7507666107267141
+    },
+    {
+        "title": "La Adoración Nocturna de Maó celebra sus 125 años",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3508743.jpg",
+        "tags": [
+            "vivir en menorca",
+            "iglesia de menorca"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2025/10/11/2488601/adoracion-nocturna-mao-celebra-125-anos.html",
+        "date": "2025-10-11 01:59:01",
+        "sentiment_score": 0.18707029521465302
+    },
+    {
+        "title": "¿Qué es una espirometría, cómo se sopla y por qué deberíamos hacerla con más frecuencia?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2f6ef00a-93b5-47a3-8bd3-f599b6693f76_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "espirometría",
+            "neumología"
+        ],
+        "link": "https://www.epe.es/es/salud/20251011/espirometria-como-soplar-deberiamos-hacerla-frecuencia-77260465",
+        "date": "2025-10-11 01:59:00",
+        "sentiment_score": 0.168592169880867
+    },
+    {
+        "title": "¿Qué es una espirometría, cómo se sopla y por qué deberíamos hacerla con más frecuencia?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2f6ef00a-93b5-47a3-8bd3-f599b6693f76_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "neumología",
+            "epoc",
+            "medicina general",
+            "responde el doctor",
+            "enfermedades respiratorias",
+            "medicina preventiva"
+        ],
+        "link": "https://www.laprovincia.es/salud/guia/2025/10/11/espirometria-como-soplar-deberiamos-hacerla-frecuencia-77260501.html",
+        "date": "2025-10-11 01:59:00",
+        "sentiment_score": 0.11846878379583359
+    },
+    {
+        "title": "Convendría respaldar a De la Fuente",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "convendria",
+            "respaldar",
+            "fuente"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/convendria-respaldar-fuente_0_2004987232.html",
+        "date": "2025-10-11 01:07:48",
+        "sentiment_score": 0.13777124881744385
+    },
+    {
+        "title": "Palestina, el rector temerario de la UAB y décadas de ideologización universitaria",
+        "image_url": "https://s1.staticld.com//2024/12/16/victor-hernandez-bru.png",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-10-11/victor-hernandez-bru-palestina-el-rector-temerario-de-la-uab-y-decadas-de-ideologizacion-universitaria-7306552/",
+        "date": "2025-10-11 00:59:24",
+        "sentiment_score": -0.8403947334736586
+    },
+    {
+        "title": "Canonizaciones serán festejadas en iglesias de Barcelona",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "religión",
+            "tiempo libre"
+        ],
+        "link": "https://eltiempove.com/canonizaciones-seran-festejadas-en-iglesias-de-barcelona/",
+        "date": "2025-10-11 00:50:37",
+        "sentiment_score": 0.5797572284936905
+    },
+    {
+        "title": "La 'vía Madina' es (casi) imposible, pero vale la pena: el PSOE de la alcachofa frente al de la chistorra",
+        "image_url": "https://s2.elespanol.com/2025/10/10/actualidad/1003743963636_259288853_1706x960.jpg",
+        "tags": [
+            "gobierno de españa",
+            "psoe (partido socialista obrero español)",
+            "pedro sánchez",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/20251011/via-madina-imposible-vale-pena-psoe-alcachofa-frente-chistorra/1003743963318_0.html",
+        "date": "2025-10-11 00:31:41",
+        "sentiment_score": 0.21563038229942322
+    },
+    {
+        "title": "Hambre en Florida: ¿Por qué se agotan los alimentos gratis en Miami en menos de una hora?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "comida gratis",
+            "inflación",
+            "florida"
+        ],
+        "link": "https://2001online.com/usa/servicios/hambre-en-florida-por-que-se-agotan-los-alimentos-gratis-en-miami-en-menos-de-una-hora--202510102200",
+        "date": "2025-10-11 02:00:00",
+        "sentiment_score": -0.7757076621055603
+    },
+    {
+        "title": "Logra el cuerpazo de Demi Moore a los 62 años: comer este cereal al día te ayudará a lograrlo",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1759939605572.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/logra-el-cuerpazo-de-demi-moore-a-los-62-anos-comer-este-cereal-al-dia-te-ayudara-a-lograrlo-202510102200",
+        "date": "2025-10-11 02:00:00",
+        "sentiment_score": 0.65450244769454
+    },
+    {
+        "title": "Parquímetros para estacionar seguro y económico en Caracas: ¿dónde están ubicados?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "alcaldía de caracas",
+            "intravialca"
+        ],
+        "link": "https://2001online.com/servicios/parquimetros-para-estacionar-seguro-y-economico-en-caracas-donde-estan-ubicados--202510102200",
+        "date": "2025-10-11 02:00:00",
+        "sentiment_score": 0.13465068861842155
+    },
+    {
+        "title": "Duelo Albiceleste-Vinotinto en Miami: sigue el minuto a minuto del Argentina vs. Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760148570567.jpg?ch=675&cw=1200",
+        "tags": [
+            "argentina",
+            "argentina vs venezuela",
+            "oswaldo vizcarrondo",
+            "amistoso",
+            "por donde ver argentina vs venezuela",
+            "la vinotinto",
+            "venezuela",
+            "miami"
+        ],
+        "link": "https://2001online.com/deportes/duelo-albiceleste-vinotinto-en-miami-sigue-el-minuto-a-minuto-del-argentina-vs-venezuela-2025101022180",
+        "date": "2025-10-11 01:35:56",
+        "sentiment_score": 0.1506654992699623
+    },
+    {
+        "title": "Capturado en video: fanático lanza a Billie Eilish contra la barricada en pleno show",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "show",
+            "billie eilish",
+            "iolencia",
+            "barricada"
+        ],
+        "link": "https://2001online.com/farandula/capturado-en-video-fanatico-lanza-a-billie-eilish-contra-la-barricada-en-pleno-show-2025101021170",
+        "date": "2025-10-11 01:17:00",
+        "sentiment_score": -0.7261147201061249
+    },
+    {
+        "title": "Otras dos ondas tropicales llegarán a Venezuela: tome nota de las fechas previstas por el Inameh",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760140856999.jpg?ch=675&cw=1200",
+        "tags": [
+            "venezuela",
+            "diario 2001",
+            "estado del tiempo",
+            "vaguadas"
+        ],
+        "link": "https://2001online.com/nacionales/otras-dos-ondas-tropicales-llegaran-a-venezuela-tome-nota-de-las-fechas-previstas-por-el-inameh-202510102110",
+        "date": "2025-10-11 01:01:00",
+        "sentiment_score": -0.13066741079092026
+    },
+    {
+        "title": "Visa de emergencia EEUU: sepa cómo solicitarla y bajo qué motivos",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "eeuu",
+            "emergencia",
+            "visa"
+        ],
+        "link": "https://2001online.com/usa/servicios/visa-de-emergencia-eeuu-sepa-como-solicitarla-y-bajo-que-motivos-202510102100",
+        "date": "2025-10-11 01:00:00",
+        "sentiment_score": 0.02993917465209961
+    },
+    {
+        "title": "¡Revisa tus bolsillo! Monedas de 25 centavos de EEUU valen hasta $8,500 si tienen este error",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760146072320.jpg?ch=675&cw=1200",
+        "tags": [
+            "monedas eeuu",
+            "monedas usa",
+            "numismática usa",
+            "centavos valiosos",
+            "monedas de alto valor"
+        ],
+        "link": "https://2001online.com/usa/servicios/revisa-tus-bolsillo-monedas-de-25-centavos-de-eeuu-valen-hasta-8-500-si-tienen-este-error-2025101020560",
+        "date": "2025-10-11 00:56:00",
+        "sentiment_score": 0.05289164185523987
+    },
+    {
+        "title": "Lanzan operativo migratorio en este aeropuerto de EEUU: conductores y pasajeros trataron de escapar",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760143065822.jpg?ch=675&cw=1200",
+        "tags": [
+            "chicago",
+            "aeropuerto o'hare",
+            "ice"
+        ],
+        "link": "https://2001online.com/usa/servicios/lanzan-operativo-migratorio-en-este-aeropuerto-de-eeuu-conductores-y-pasajeros-trataron-de-escapar-2025101020530",
+        "date": "2025-10-11 00:53:00",
+        "sentiment_score": -0.24437783285975456
+    },
+    {
+        "title": "Licencia de conducir en Miami: ¿Quién califica para tramitarla con la \"Operación Luz Verde\"?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760143381992.jpg?ch=675&cw=1200",
+        "tags": [
+            "licencia de conducir en miami",
+            "operación luz verde",
+            "miami"
+        ],
+        "link": "https://2001online.com/usa/servicios/licencia-de-conducir-en-miami-quien-califica-para-tramitarla-con-la-operacion-luz-verde--2025101020410",
+        "date": "2025-10-11 00:41:00",
+        "sentiment_score": 0.229574803262949
     }
 ];
