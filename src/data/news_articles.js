@@ -201,80 +201,6 @@ export default [
         "sentiment_score": 0.055397793650627136
     },
     {
-        "title": "El sector cárnico de Castilla-La Mancha agrupa 840 empresas y genera 10.000 empleos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/08/54840952870_621ded273e_o-RENGBCbXASfAMoaVqonqh1L-1200x840@diario_abc.jpg",
-        "tags": [
-            "emiliano garcía page",
-            "castilla-la mancha",
-            "investigación",
-            "ganaderías"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/sector-carnico-castillala-mancha-agrupa-840-empresas-20251008161030-nt.html",
-        "date": "2025-10-08 14:10:31",
-        "sentiment_score": -0.01685243844985962
-    },
-    {
-        "title": "Illa anuncia un acuerdo con el Ministerio de Vivienda para gestionar 13.000 viviendas y 300 solares de la Sareb",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/08/image_20251008140752-RGQaGeEyu3yxsdNPsbtPXTJ-1200x840@diario_abc.png",
-        "tags": [
-            "sareb",
-            "isabel rodríguez",
-            "generalitat de cataluña",
-            "salvador illa",
-            "parlamento de cataluña"
-        ],
-        "link": "https://www.abc.es/espana/cataluna/illa-anuncia-acuerdo-ministerio-vivienda-gestionar-13000-20251008143219-nt.html",
-        "date": "2025-10-08 12:32:20",
-        "sentiment_score": -0.07530055940151215
-    },
-    {
-        "title": "Los jóvenes marroquíes suspenden por dos días las manifestaciones para «reorganizarse»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/10/08/protetas-morocco-RQqpDPWtcbb2jb2CqWEy9VM-1200x840@diario_abc.jpg",
-        "tags": [
-            "marroquies",
-            "reorganizarse",
-            "manifestaciones",
-            "suspenden",
-            "dias",
-            "jovenes",
-            "dos"
-        ],
-        "link": "https://www.abc.es/internacional/jovenes-marroquies-suspenden-dos-dias-manifestaciones-reorganizarse-20251008141711-nt.html",
-        "date": "2025-10-08 12:17:12",
-        "sentiment_score": 0.07750558853149414
-    },
-    {
-        "title": "Bruselas expedienta a España por las multas impuestas a las aerolíneas que cobran por el equipaje de mano",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/08/1501150106-kzvH-U701715712911QAD-1200x840@diario_abc.jpg",
-        "tags": [
-            "equipaje",
-            "mano",
-            "impuestas",
-            "cobran",
-            "multas",
-            "espana",
-            "aerolineas",
-            "expedienta",
-            "bruselas"
-        ],
-        "link": "https://www.abc.es/economia/bruselas-expedienta-espana-multas-impuestas-aerolineas-cobran-20251008122435-nt.html",
-        "date": "2025-10-08 10:29:19",
-        "sentiment_score": -0.2296207845211029
-    },
-    {
-        "title": "En dejación de funciones",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/10/09/cartas-director-1200x630-U03146278777GIy-1200x630@diario_abc.jpg",
-        "tags": [
-            "gobiernos",
-            "constitución de 1978",
-            "gaza",
-            "congreso de los diputados"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-dejacion-funciones-20251009122152-nt.html",
-        "date": "2025-10-08 10:21:53",
-        "sentiment_score": -0.09362509846687317
-    },
-    {
         "title": "Entradas para los conciertos de Amaia en España: fechas, ciudades y cuándo se pueden comprar",
         "image_url": "https://imagenes.elpais.com/resizer/v2/HFUI6YTORRGHTCU5N7VWHYOXLM.jpg?auth=584804174338d9764e6c6618d68223c20974d34b4839871de5f9ade129e3af8e&width=1200",
         "tags": [
@@ -423,20 +349,6 @@ export default [
         "link": "https://elpais.com/espana/2025-10-08/el-constitucional-desestima-la-impugnacion-contra-la-amnistia-del-supremo.html",
         "date": "2025-10-08 14:38:03",
         "sentiment_score": -0.8104870393872261
-    },
-    {
-        "title": "Ayuso abre otro frente contra Sánchez: recurrirá al Supremo el nuevo decreto de universidades",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YBKZR4ZZ4VJO3JCMSBLCHZWPLA.jpg?auth=e0c39518328a4dfe3354c6b876824990f6d925b4d161b0999b59e32b9adbbe9a&width=1200",
-        "tags": [
-            "pp",
-            "asamblea madrid",
-            "isabel díaz ayuso",
-            "pedro sánchez",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-10-08/ayuso-abre-otro-frente-contra-sanchez-recurrira-al-supremo-el-nuevo-decreto-de-universidades.html",
-        "date": "2025-10-08 13:56:08",
-        "sentiment_score": -0.08880698680877686
     },
     {
         "title": "La mala suerte en el amor de la familia de Felipe VI: divorcios traumáticos o cordiales, pareja que no llega y un único matrimonio superviviente",
@@ -8786,5 +8698,378 @@ export default [
         "link": "https://2001online.com/sucesos/detienen-a-un-joven-por-intentar-matar-su-pareja-revelan-el-insolito-motivo--202510111610",
         "date": "2025-10-11 20:01:00",
         "sentiment_score": -0.007304780185222626
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 12 de octubre en Málaga",
+        "image_url": "https://www.infobae.com/resizer/v2/A6PD5C4CIFF27E2URW3I46WVJE.png?auth=3610483284f1994b08b8384f5c8535e42f6ac5e59e2bbc59906446cea6720aa3&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "málaga",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/12/clima-las-temperaturas-que-predominaran-este-12-de-octubre-en-malaga/",
+        "date": "2025-10-12 02:01:00",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Barcelona este domingo 12 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/CJA5SWB3RZC7ZHZFOEI4WJNHBQ.png?auth=670934b3cea0f245421d97a954c28eb7e1aff8edbe04aa3bff4ae70fc13ef1da&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "barcelona",
+            "españa sociedad",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/12/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-barcelona-este-domingo-12-de-octubre/",
+        "date": "2025-10-12 01:16:27",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "España sufre un cruel y polémico adiós al Mundial Sub-20",
+        "image_url": "https://www.infobae.com/resizer/v2/XP4ITSSIGNGCFIL6FRYINVJ3K4.jpg?auth=51327df2d9daf061315e068c16650987ecf19b1f4b6e06dee80b1b7a6bfa378b&height=1080&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/11/espana-sufre-un-cruel-y-polemico-adios-al-mundial-sub-20/",
+        "date": "2025-10-11 22:45:16",
+        "sentiment_score": -0.942787541076541
+    },
+    {
+        "title": "Armengol se solidariza con los afectados por los incidentes ocurridos en Ibiza por el paso de la dana",
+        "image_url": "https://www.infobae.com/resizer/v2/4I24URURGNAODCH7KUZOCUYPCI.jpg?auth=6ceddfb2cd9a5f97ff4947aa63d7d52f7d212f60ee1eaad48a12102f0ff21e0c&height=1386&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/11/armengol-se-solidariza-con-los-afectados-por-los-incidentes-ocurridos-en-ibiza-por-el-paso-de-la-dana/",
+        "date": "2025-10-11 22:30:53",
+        "sentiment_score": -0.3089860826730728
+    },
+    {
+        "title": "«Cuando se enteraron de que era judía me dejaron de hablar»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/11/pancarta-antisemitismo-ep.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.abc.es/internacional/enteraron-era-judia-dejaron-hablar-20251011032019-nt.html",
+        "date": "2025-10-12 01:20:20",
+        "sentiment_score": -0.7919328287243843
+    },
+    {
+        "title": "Radar Joven, el otoño emergente del circuito madrileño",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/11/1-arreci0-Rvmzokfpj76DbhlJA3GSDcJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "españa",
+            "madrid"
+        ],
+        "link": "https://www.abc.es/espana/madrid/radar-joven-otono-emergente-circuito-madrileno-20251011124040-nt.html",
+        "date": "2025-10-12 00:03:51",
+        "sentiment_score": 0.007268816232681274
+    },
+    {
+        "title": "Sergio Baragaño, arquitecto: \"Ahora hay una enorme necesidad de viviendas distinta a la de la gran crisis\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/16dab35e-33e6-4503-adfd-f9b6481a38db_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "turismo",
+            "hoteles",
+            "crisis",
+            "avilés"
+        ],
+        "link": "https://www.lne.es/aviles/2025/10/12/sergio-baragano-arquitecto-ahora-hay-122522700.html",
+        "date": "2025-10-12 02:09:00",
+        "sentiment_score": 0.16712846793234348
+    },
+    {
+        "title": "Fundos recibe el II Premio del Centro Gaudí Madrid",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/10/11/68eaa886b1d13.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/251012/2062576/fundos-recibe-ii-premio-centro-gaudi-madrid.html",
+        "date": "2025-10-12 01:30:00",
+        "sentiment_score": 0.37667757272720337
+    },
+    {
+        "title": "Natalia Chueca: \"Si Google hace otra inversión en España, tiene clarísimo que será en Zaragoza\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2181b227-8dd3-4bbb-99a5-784a93616f0c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ayuntamiento de zaragoza",
+            "natalia chueca",
+            "zaragoza"
+        ],
+        "link": "https://www.elperiodicodearagon.com/zaragoza/2025/10/12/natalia-chueca-google-inversion-espana-122524889.html",
+        "date": "2025-10-12 01:29:26",
+        "sentiment_score": 0.05225515365600586
+    },
+    {
+        "title": "Sánchez convierte Moncloa en un 'war room' para socavar los gobiernos del PP y debilitar el liderazgo de Feijóo",
+        "image_url": "https://s2.elespanol.com/2025/10/07/actualidad/1003743958252_259301922_1706x960.jpg",
+        "tags": [
+            "juan manuel moreno bonilla",
+            "política",
+            "pilar alegría",
+            "óscar lópez",
+            "diana morant",
+            "isabel díaz ayuso",
+            "alberto núñez feijóo",
+            "mónica garcía gómez",
+            "alfonso fernández mañueco",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251012/sanchez-convierte-moncloa-war-room-socavar-gobiernos-pp-debilitar-liderazgo-feijoo/1003743963710_0.html",
+        "date": "2025-10-12 01:16:49",
+        "sentiment_score": 0.06696489453315735
+    },
+    {
+        "title": "Sánchez deja en el aire el futuro de 15 nuevas universidades privadas: Madrid, Extremadura y Aragón, las más afectadas",
+        "image_url": "https://s2.elespanol.com/2025/10/11/actualidad/1003743965451_259312832_1706x960.jpg",
+        "tags": [
+            "ministerio de universidades",
+            "universidad",
+            "política"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251012/sanchez-deja-aire-futuro-nuevas-universidades-privadas-madrid-extremadura-aragon-afectadas/1003743960498_0.html",
+        "date": "2025-10-12 01:12:32",
+        "sentiment_score": 0.10533782839775085
+    },
+    {
+        "title": "Dimas Gimeno (Wow): “Ahora no somos caros, pero es verdad que al principio se eligieron marcas que lo eran”",
+        "image_url": "https://s2.elespanol.com/2025/10/09/actualidad/1003743962237_259269695_1706x960.jpg",
+        "tags": [
+            "distribución",
+            "dimas gimeno álvarez"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20251012/dimas-gimeno-wow-ahora-no-caros-verdad-principio-eligieron-marcas/1003743962049_0.html",
+        "date": "2025-10-12 01:08:41",
+        "sentiment_score": 0.6171786338090897
+    },
+    {
+        "title": "Un suicida y un represaliado en Algeciras",
+        "image_url": "https://static.grupojoly.com/clip/960f075c-439c-405b-b2c1-e32d0f858606_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/suicida-represaliado-algeciras_0_2004982518.html",
+        "date": "2025-10-12 00:45:54",
+        "sentiment_score": -0.4476052075624466
+    },
+    {
+        "title": "Florida Park, de capricho de Fernando VII a reino de la Faraona: la gran sala de fiestas madrileña y su pasado como gabinete oxigenoterápico",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/10/09/17600101976591.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/10/12/68e76de3e4d4d8fe718b45a2.html",
+        "date": "2025-10-12 00:42:36",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Un desfile para reivindicarse ante la OTAN tras el señalamiento de Trump y sin la presencia en la tribuna de Abascal ni de Mazón",
+        "image_url": "https://phantom-elmundo.uecdn.es/c500024e63fa29e7e658a1830f7efa3e/crop/0x259/2479x2738/f/image/jpeg/assets/multimedia/imagenes/2022/03/16/16474501372351.jpg",
+        "tags": [
+            "artículos marina pina"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/10/12/68ea9a0fe85eceeb598b45b1.html",
+        "date": "2025-10-12 00:42:33",
+        "sentiment_score": -0.007257550954818726
+    },
+    {
+        "title": "La oferta de hoteles a la venta en la provincia de León crece un 89 %",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/28/10/48/6/5881830.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/oferta-hoteles-venta-en-provincia-leon-crece-89_174345_102.html",
+        "date": "2025-10-12 02:00:00",
+        "sentiment_score": -0.0737825334072113
+    },
+    {
+        "title": "Juanma Moreno, tras la crisis del cribado del cáncer: \"Habrá más ceses; quiero escuchar a las mujeres afectadas\"",
+        "image_url": "https://s2.elespanol.com/2025/10/11/actualidad/1003743965537_259314014_1706x1280.jpg",
+        "tags": [
+            "sanidad",
+            "juan manuel moreno bonilla",
+            "política",
+            "andalucía",
+            "salud pública"
+        ],
+        "link": "https://www.elespanol.com/espana/andalucia/20251012/juanma-moreno-crisis-cribado-cancer-ceses-quiero-escuchar-mujeres-afectadas/1003743964557_0.html",
+        "date": "2025-10-12 01:24:41",
+        "sentiment_score": -0.07097655534744263
+    },
+    {
+        "title": "Golazo al ángulo y asistencia desde atrás de mitad de cancha: la brillante actuación de Lionel Messi para el Inter Miami en la MLS",
+        "image_url": "https://www.infobae.com/resizer/v2/6ZBEQKPXLNHODAWS33UFVJLP4U.JPG?auth=9aed93f23921667c8c1317e219952ca7ee55f32cd7d99107721740ef9ec101e0&height=2019&smart=true&width=3590",
+        "tags": [
+            "mls",
+            "seleccion argentina",
+            "lionel messi",
+            "atlanta united",
+            "inter miami"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/12/el-golazo-al-angulo-de-lionel-messi-para-el-inter-miami-en-la-mls/",
+        "date": "2025-10-12 00:55:49",
+        "sentiment_score": 0.1704619862139225
+    },
+    {
+        "title": "¿La MSN de vuelta? Inter Miami quiere romper el mercado de pases y va por Neymar",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/messi-neymar-suarez.jpg",
+        "tags": [
+            "neymar jr",
+            "inter miami",
+            "estados unidos",
+            "titulares",
+            "futbol",
+            "deportes"
+        ],
+        "link": "https://lapatilla.com/2025/10/11/la-msn-de-vuelta-inter-miami-quiere-romper-el-mercado-de-pases-y-va-por-neymar/",
+        "date": "2025-10-12 00:52:50",
+        "sentiment_score": 0.26564562134444714
+    },
+    {
+        "title": "El secreto para ser centenario: «Coma de todo y ríase mucho»",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/10/11/205927372.jpg",
+        "tags": [
+            "riase",
+            "centenario",
+            "secreto",
+            "coma"
+        ],
+        "link": "https://www.hoy.es/extremadura/secreto-centenario-coma-riase-20251012141141-nt.html",
+        "date": "2025-10-12 00:00:00",
+        "sentiment_score": -0.07380319759249687
+    },
+    {
+        "title": "Armengol, el caricaturista catalán que retrató a los líderes fascistas como niños tontos que jugaban a la guerra",
+        "image_url": "https://s2.elespanol.com/2025/10/10/actualidad/1003743964598_259301761_1706x960.jpg",
+        "tags": [
+            "cómic",
+            "arte",
+            "segunda guerra mundial"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20251012/armengol-caricaturista-catalan-retrato-lideres-fascistas-ninos-tontos-jugaban-guerra/1003743962633_0.html",
+        "date": "2025-10-12 00:00:00",
+        "sentiment_score": -0.6562718041241169
+    },
+    {
+        "title": "'Los días perfectos': Leonardo Sbaraglia frente al espacio vacío",
+        "image_url": "https://s2.elespanol.com/2025/10/10/actualidad/1003743964857_259305406_1706x960.jpg",
+        "tags": [
+            "stanislavblog",
+            "teatro"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/blogs/stanislavblog/20251012/dias-perfectos-leonardo-sbaraglia-frente-espacio-vacio/1003743964646_12.html",
+        "date": "2025-10-12 00:00:00",
+        "sentiment_score": 0.2582677900791168
+    },
+    {
+        "title": "Con este paso a paso obtendrás el mejor pollo agridulce: lleva el restaurante chino a tu casa",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760030109115/Captura%20de%20pantalla%202025-10-09%20a%20la(s)%201.14.35%20p.%20m..png",
+        "tags": [
+            "variedades - gastronomía"
+        ],
+        "link": "https://2001online.com/zona3d/gastronomia/con-este-paso-a-paso-obtendras-el-mejor-pollo-agridulce-lleva-el-restaurante-chino-a-tu-casa-202510112200",
+        "date": "2025-10-12 02:00:00",
+        "sentiment_score": 0.6486256793141365
+    },
+    {
+        "title": "IRS tiene una lista negra de deudores: así puedes evitarla y proteger tus cuentas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "sports",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/irs-tiene-una-lista-negra-de-deudores-asi-puedes-evitarla-y-proteger-tus-cuentas-202510112200",
+        "date": "2025-10-12 02:00:00",
+        "sentiment_score": -0.2547251284122467
+    },
+    {
+        "title": "Carrera por las 100 preguntas: postúlate antes de esta fecha y simplifica tu examen para la ciudadanía estadounidense",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760231412587/imagen_2025-10-11_211008202.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/carrera-por-las-100-preguntas-postulate-antes-de-esta-fecha-y-simplifica-tu-examen-para-la-ciudadania-estadounidense-2025101121200",
+        "date": "2025-10-12 01:20:00",
+        "sentiment_score": 0.6002408359199762
+    },
+    {
+        "title": "En Imágenes: nuevo monumento a San José Gregorio Hernández Ilumina La Candelaria en Caracas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/en-imagenes-nuevo-monumento-a-san-jose-gregorio-hernandez-ilumina-la-candelaria-en-caracas-2025101121190",
+        "date": "2025-10-12 01:19:00",
+        "sentiment_score": 0.39371544122695923
+    },
+    {
+        "title": "Banquete nupcial 'fast food': McDonald's ofrece un catering de bodas económico en este país",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/banquete-nupcial-fast-food-mcdonald-s-ofrece-un-catering-de-bodas-economico-en-este-pais-202510112100",
+        "date": "2025-10-12 01:00:00",
+        "sentiment_score": 0.5141859948635101
+    },
+    {
+        "title": "El Hospital Houston Methodist recomiendan los mejores ejercicios para el dolor de espalda: no es culpa solo de la mala postura",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760029350374/Captura%20de%20pantalla%202025-10-09%20a%20la(s)%201.02.16%20p.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/el-hospital-houston-methodist-recomiendan-los-mejores-ejercicios-para-el-dolor-de-espalda-no-es-culpa-solo-de-la-mala-postura-202510112100",
+        "date": "2025-10-12 01:00:00",
+        "sentiment_score": 0.6573076993227005
+    },
+    {
+        "title": "¿Tienes los pies resecos? Prepara una crema hidratante que nutre la piel a profundidad: el gel de aloe vera es la clave",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760230367549/crema-cosmetica-de-aloe-vera-sobre-superficie-blanca.jpg",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/tienes-los-pies-resecos-prepara-una-crema-hidratante-que-nutre-la-piel-a-profundidad-el-gel-de-aloe-vera-es-la-clave-2025101120550",
+        "date": "2025-10-12 00:55:00",
+        "sentiment_score": -0.8389985542744398
+    },
+    {
+        "title": "La pesadilla del regreso: tras 30 años en EEUU migrante no puede cobrar sus ahorros en México",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760225417911/imagen_2025-10-11_193011562.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/internacionales/la-pesadilla-del-regreso-tras-30-anos-en-eeuu-migrante-no-puede-cobrar-sus-ahorros-en-mexico--202510112070",
+        "date": "2025-10-12 00:07:00",
+        "sentiment_score": -0.22682568803429604
+    },
+    {
+        "title": "Atención turistas: estos cuatro lugares del mundo no los deberías visitar",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "sports"
+        ],
+        "link": "https://2001online.com/curiosidades/atencion-turistas-estos-cuatro-lugares-del-mundo-no-los-deberias-visitar-202510112000",
+        "date": "2025-10-12 00:00:00",
+        "sentiment_score": -0.7192245684564114
+    },
+    {
+        "title": "Familias de Nuevo México recibirán $33 000 en ayuda federal: sepa cómo obtenerla",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/familias-de-nuevo-mexico-recibiran-33-000-en-ayuda-federal-sepa-como-obtenerla-202510112000",
+        "date": "2025-10-12 00:00:00",
+        "sentiment_score": 0.26699062436819077
     }
 ];
