@@ -176,67 +176,6 @@ export default [
         "sentiment_score": -0.10769842565059662
     },
     {
-        "title": "Constituida la Mesa Técnica del Sector Lechero para potenciar la competitividad de la ganadería de la leche",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/10/09/leche-RW1RfgSmQ2gmnfvUUHw9feK-1200x840@diario_abc.jpg",
-        "tags": [
-            "castilla la mancha",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/constituida-mesa-tecnica-sector-lechero-potenciar-competitividad-20251009160124-nt.html",
-        "date": "2025-10-09 14:01:25",
-        "sentiment_score": 0.046290814876556396
-    },
-    {
-        "title": "Alegría y cierto escepticismo dentro de Gaza: «Gracias a Dios que la guerra está en sus últimos momentos»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/09/1501705556-RbpcCUReulgIj4puGiPcPlO-758x531@diario_abc.jpg",
-        "tags": [
-            "escepticismo",
-            "dios",
-            "dentro",
-            "gracias",
-            "gaza",
-            "ultimos",
-            "guerra",
-            "momentos",
-            "cierto",
-            "alegria"
-        ],
-        "link": "https://www.abc.es/internacional/alegria-cierto-escepticismo-dentro-gaza-gracias-dios-20251009133720-nt.html",
-        "date": "2025-10-09 12:48:20",
-        "sentiment_score": -0.03774446249008179
-    },
-    {
-        "title": "Von der Leyen supera dos mociones de censura con el apoyo de populares, socialistas, liberales y verdes",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/09/vonderleyen-kCmF-U701723520661xkD-1200x840@diario_abc.jpg",
-        "tags": [
-            "parlamento europeo",
-            "comisión europea (ce)",
-            "mercosur mercado común suramericano",
-            "ursula von der leyen"
-        ],
-        "link": "https://www.abc.es/internacional/von-der-leyen-supera-dos-mociones-censura-20251009122737-nt.html",
-        "date": "2025-10-09 10:29:02",
-        "sentiment_score": -0.13254263997077942
-    },
-    {
-        "title": "¿Por qué las pymes no se hacen grandes? Los empresarios culpan a la fiscalidad y la burocracia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/09/1497283883-R0UJFlsnMVnDhoYzhIQqYMJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "fusiones",
-            "banco de españa",
-            "españa",
-            "economistas",
-            "empresas",
-            "irlanda",
-            "empresarios",
-            "fiscales",
-            "economia"
-        ],
-        "link": "https://www.abc.es/economia/pymes-grandes-empresarios-culpan-fiscalidad-burocracia-20251009122259-nt.html",
-        "date": "2025-10-09 10:22:59",
-        "sentiment_score": -0.06849092245101929
-    },
-    {
         "title": "Dimite un procurador del PSOE de Castilla y León al ser procesado por presuntas irregularidades cuando era alcalde en Segovia",
         "image_url": "https://imagenes.elpais.com/resizer/v2/FMGONAESQBG75MTXQFLPY4R7XA.jpg?auth=0bb434df2fcb44d88c6f9a2dfb45fd00cf4243b209a7c60f1a85dfe25fe12c88&width=1200",
         "tags": [
@@ -8451,5 +8390,403 @@ export default [
         "link": "https://2001online.com/internacionales/vandalismo-en-madrid-activistas-de-futuro-vegetal-atacan-cuadro-de-colon-2025101215550",
         "date": "2025-10-12 19:55:00",
         "sentiment_score": -0.7063859924674034
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Málaga este 13 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/HGCQQBREJFG3HOXFG7QBSMNCJQ.png?auth=61e42083d629851aa0c8752556cbd10c287b99213f35efecf1dbb0797359aec9&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "málaga",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/13/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-malaga-este-13-de-octubre/",
+        "date": "2025-10-13 02:16:56",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 13 de octubre en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "madrid",
+            "noticias",
+            "españa sociedad",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/13/clima-las-temperaturas-que-predominaran-este-13-de-octubre-en-madrid/",
+        "date": "2025-10-13 01:31:52",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Barcelona este 13 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "barcelona",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/13/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-barcelona-este-13-de-octubre/",
+        "date": "2025-10-13 01:17:33",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Tarragona pasa la noche en alerta máxima por lluvias torrenciales: cientos de personas evacuadas y servicios de emergencia desbordados",
+        "image_url": "https://www.infobae.com/resizer/v2/PMLN7P3QIBGX5KDPEHS6PWFY24.jpg?auth=7f16535059825bb9c6bfaeb9d8cc1a70710500d852b93812b39a1a7a3afe42c6&height=720&smart=true&width=1280",
+        "tags": [
+            "españa-noticias",
+            "tormentas",
+            "españa-sociedad",
+            "tarragona",
+            "dana",
+            "bomberos",
+            "lluvias",
+            "clima españa",
+            "emergencia",
+            "aemet",
+            "cataluña"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/13/tarragona-pasa-la-noche-en-alerta-maxima-por-lluvias-torrenciales-cientos-de-personas-evacuadas-y-servicios-de-emergencia-desbordados/",
+        "date": "2025-10-13 00:54:55",
+        "sentiment_score": -0.5527763701975346
+    },
+    {
+        "title": "Las mejores películas de Prime Video en España para ver hoy mismo",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=1080&smart=true&width=1920",
+        "tags": [
+            "streaming",
+            "españa-televisión",
+            "prime video",
+            "películas",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/10/12/las-mejores-peliculas-de-prime-video-en-espana-para-ver-hoy-mismo/",
+        "date": "2025-10-12 23:30:54",
+        "sentiment_score": 0.47161141596734524
+    },
+    {
+        "title": "Películas para ver esta noche en Netflix España",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=1080&smart=true&width=1920",
+        "tags": [
+            "streaming",
+            "españa-televisión",
+            "netflix",
+            "películas",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/12/peliculas-para-ver-esta-noche-en-netflix-espana/",
+        "date": "2025-10-12 23:30:36",
+        "sentiment_score": 0.29326120018959045
+    },
+    {
+        "title": "K-pop en iTunes: las 10 mejores canciones en España",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=1080&smart=true&width=1920",
+        "tags": [
+            "k-pop",
+            "españa",
+            "streaming",
+            "itunes",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/12/k-pop-en-itunes-las-10-mejores-canciones-en-espana/",
+        "date": "2025-10-12 23:15:36",
+        "sentiment_score": 0.5689201653003693
+    },
+    {
+        "title": "La maquinaria innovadora de la biotecnología se lanza a cambiar la industria de raíz",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/10/13/bacterias-Rb77Q0ZuMHm1Zdj9RWjhp5J-1200x840@diario_abc.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.abc.es/economia/maquinaria-innovadora-biotecnologia-lanza-cambiar-industria-raiz-20251013185407-nt.html",
+        "date": "2025-10-12 23:00:53",
+        "sentiment_score": 0.2284085750579834
+    },
+    {
+        "title": "Risas astrales en la Gran Vía: el horóscopo más chulapo de Madrid",
+        "image_url": "https://www.madridactual.es/images/stories/noticias/recursos/horoscopos/horoscopo-6.jpg",
+        "tags": [
+            "horóscopo guasón"
+        ],
+        "link": "https://www.madridactual.es/informacion-de-servicio/horoscopo-guason/risas-astrales-en-la-gran-via-el-horoscopo-mas-chulapo-de-madrid-1760328112-20251013-8060631.html",
+        "date": "2025-10-13 02:01:52",
+        "sentiment_score": 0.06091899052262306
+    },
+    {
+        "title": "Otra vez en descenso lejos de Mestalla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4550916e-acb8-4f6f-97c0-ef0222370157_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "goles",
+            "laliga",
+            "el valencia",
+            "mestalla"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2025/10/13/vez-descenso-lejos-mestalla-122553530.html",
+        "date": "2025-10-13 02:00:28",
+        "sentiment_score": -0.8483885321766138
+    },
+    {
+        "title": "Baleares: entre la madurez y la oportunidad",
+        "image_url": "https://uh.gsstatic.es/autor/antonio-planells/12397.png",
+        "tags": [
+            "medio de comunicación",
+            "prensa digital",
+            "artículos de opinión",
+            "tribuna",
+            "grupo serra"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/10/13/2489503/baleares-entre-madurez-oportunidad.html",
+        "date": "2025-10-13 01:48:01",
+        "sentiment_score": 0.03845098614692688
+    },
+    {
+        "title": "Un refuerzo de otoño para Jagoba",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3511387.jpg",
+        "tags": [
+            "real mallorca",
+            "primera división",
+            "laliga",
+            "fútbol",
+            "ultimas noticias",
+            "rcd mallorca",
+            "última hora",
+            "liga ea sports"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/10/13/2489475/fichaje-otono-para-jagoba.html",
+        "date": "2025-10-13 01:48:01",
+        "sentiment_score": 0.3179561644792557
+    },
+    {
+        "title": "Adiós a las deudas: así lucha la IA contra la picaresca en la Ley de Segunda Oportunidad",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3507777.jpg",
+        "tags": [
+            "dudas y respuestas",
+            "noticias interesantes",
+            "aprender y más",
+            "curiosidades y trucos",
+            "inteligencia artificial",
+            "ia-news",
+            "consejos útiles",
+            "ley de segunda oportunidad",
+            "trucos para ahorrar",
+            "audiencias-um"
+        ],
+        "link": "https://www.menorca.info/actualidad/dudas-respuestas/2025/10/13/2485799/adios-deudas-asi-lucha-contra-picaresca-ley-segunda-oportunidad.html",
+        "date": "2025-10-13 01:48:01",
+        "sentiment_score": 0.5815568491816521
+    },
+    {
+        "title": "Nikolai, el último artista heráldico de Baleares: «Es un oficio en vías de extinción»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3508527.jpg",
+        "tags": [
+            "nobleza mallorquina",
+            "escudos",
+            "heráldica",
+            "nobleza",
+            "cultura",
+            "historia del arte"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/10/13/2488513/nikolai-ultimo-artista-heraldico-baleares-oficio-vias-extincion.html",
+        "date": "2025-10-13 01:48:01",
+        "sentiment_score": -0.10075035691261292
+    },
+    {
+        "title": "El 12-O más difícil de Sánchez: acude al desfile sin Begoña, recibe pitos, planta a la prensa y genera polémica con su vídeo",
+        "image_url": "https://s2.elespanol.com/2025/10/12/actualidad/1003743966344_259326433_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "política",
+            "felipe vi",
+            "reina letizia",
+            "santiago abascal"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251013/dificil-sanchez-acude-desfile-sin-begona-recibe-pitos-planta-prensa-genera-polemica-video/1003743966306_0.html",
+        "date": "2025-10-13 00:58:32",
+        "sentiment_score": -0.2700272500514984
+    },
+    {
+        "title": "Japón medirá el estado de forma de la Brasil de Ancelotti",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/06/2025060603341237023.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/japon-medira-estado-forma-brasil-carlo-ancelotti/20251013022926359055.html",
+        "date": "2025-10-13 00:29:26",
+        "sentiment_score": 0.7797375246882439
+    },
+    {
+        "title": "La división política marca el desfile del 12 de Octubre",
+        "image_url": "https://static.laregion.es/clip/afebc8bc-3eba-42b9-ac39-a5670b429b31_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "felipe vi",
+            "dia hispanidad",
+            "política"
+        ],
+        "link": "https://www.laregion.es/espana/division-politica-marca-desfile-12_1_20251013-4014402.html",
+        "date": "2025-10-13 00:25:05",
+        "sentiment_score": -0.8071868205443025
+    },
+    {
+        "title": "Vinculan a directivo del América de Cali en la violenta agresión a árbitros durante partido del equipo sub-17: esta es la denuncia de la comisión arbitral",
+        "image_url": "https://www.infobae.com/resizer/v2/IPX6CZUIMFFTHN5GYQ3N22RW4Y.jpg?auth=60e175fe14f96c0bfe59cb2f95f6540f11e663dea397954a8df3e13b685fc0de&height=1080&smart=true&width=1920",
+        "tags": [
+            "torneo américas",
+            "equipo-sub17",
+            "daniel pabón martán",
+            "directivo del américa de cali",
+            "john visman meneses",
+            "agresión a árbitros",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/10/13/vinculan-a-directivo-del-america-de-cali-en-la-violenta-agresion-a-arbitros-durante-partido-del-equipo-sub-17-esta-es-la-denuncia-de-la-comision-arbitral/",
+        "date": "2025-10-13 02:03:58",
+        "sentiment_score": -0.6483741104602814
+    },
+    {
+        "title": "Antoni Lliteres y Pablo López, dos mallorquines en un estreno histórico en el Teatro de la Zarzuela",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3508323.jpg",
+        "tags": [
+            "pablo lópez",
+            "antoni lliteres",
+            "ópera",
+            "cultura"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/10/13/2488445/antoni-lliteres-pablo-lopez-dos-mallorquines-estreno-historico-teatro-zarzuela.html",
+        "date": "2025-10-13 01:48:01",
+        "sentiment_score": 0.17539483308792114
+    },
+    {
+        "title": "Menuda semanita",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "menuda",
+            "semanita"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/menuda-semanita_0_2005000828.html",
+        "date": "2025-10-13 01:07:55",
+        "sentiment_score": -0.6082305312156677
+    },
+    {
+        "title": "¡No solo es el Tylenol! Trump lanza otra teoría sobre las causas del autismo y hace nuevas recomendaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760321291633.jpg?ch=675&cw=1200",
+        "tags": [
+            "donald trump",
+            "circuncisión",
+            "autismo"
+        ],
+        "link": "https://2001online.com/usa/internacionales/no-solo-es-el-tylenol-trump-lanza-otra-teoria-sobre-las-causas-del-autismo-y-hace-nuevas-recomendaciones-2025101222140",
+        "date": "2025-10-13 02:14:00",
+        "sentiment_score": -0.75165537558496
+    },
+    {
+        "title": "Olvídate de las puntas abiertas con esta mascarilla capilar rica en vitaminas: el gel de aloe vera es la clave",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760320552277.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/olvidate-de-las-puntas-abiertas-con-esta-mascarilla-capilar-rica-en-vitaminas-el-gel-de-aloe-vera-es-la-clave-202510122250",
+        "date": "2025-10-13 02:05:00",
+        "sentiment_score": -0.8130450416356325
+    },
+    {
+        "title": "Maqueta mortal: el experimento escolar que hiere a 17 personas y deja a una niña en estado crítico",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "esquirlas",
+            "heridos",
+            "negligencia",
+            "volcan explosivo",
+            "polvora"
+        ],
+        "link": "https://2001online.com/sucesos/maqueta-mortal-el-experimento-escolar-que-hiere-a-17-personas-y-deja-a-una-nina-en-estado-critico-202510122200",
+        "date": "2025-10-13 02:00:00",
+        "sentiment_score": -0.6629134528338909
+    },
+    {
+        "title": "¿No te gusta tu maquillaje? Expertos en belleza confiesan los errores más comunes al acicalar tu rostro",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760036412669.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/no-te-gusta-tu-maquillaje-expertos-en-belleza-confiesan-los-errores-mas-comunes-al-acicalar-tu-rostro-202510122200",
+        "date": "2025-10-13 02:00:00",
+        "sentiment_score": -0.482369139790535
+    },
+    {
+        "title": "Predicciones de la semana del 13 al 19 de octubre",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760098785518.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-13-al-19-de-octubre--202510122200",
+        "date": "2025-10-13 02:00:00",
+        "sentiment_score": -0.12012183666229248
+    },
+    {
+        "title": "Saime responde a usuarios de la tercera edad: cedulación, estado civil y más",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "tercera edad",
+            "servicio administrativo de identificación, migración y extranjería",
+            "documentos"
+        ],
+        "link": "https://2001online.com/servicios/saime-responde-a-usuarios-de-la-tercera-edad-cedulacion-estado-civil-y-mas-2025101221200",
+        "date": "2025-10-13 01:20:00",
+        "sentiment_score": 0.3834639713168144
+    },
+    {
+        "title": "Adiós a las sillas frías: esta ciudad de EEUU se suma a la tendencia de las 'cápsulas' de descanso en aeropuertos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760314591178.jpg?ch=675&cw=1200",
+        "tags": [
+            "aereopuertos",
+            "aereopuerto de miami",
+            "dormir",
+            "miami",
+            "viajes"
+        ],
+        "link": "https://2001online.com/usa/servicios/adios-a-las-sillas-frias-esta-ciudad-de-eeuu-se-suma-a-la-tendencia-de-las-capsulas-de-descanso-en-aeropuertos--2025101220560",
+        "date": "2025-10-13 00:58:00",
+        "sentiment_score": 0.43263913318514824
+    },
+    {
+        "title": "Nueva Jersey deposita alivio económico a inquilinos y propietarios: sepa de cuánto es el cheque",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "cheque",
+            "nueva jersey",
+            "pago"
+        ],
+        "link": "https://2001online.com/usa/servicios/nueva-jersey-deposita-alivio-economico-a-inquilinos-y-propietarios-sepa-de-cuanto-es-el-cheque-202510122000",
+        "date": "2025-10-13 00:00:00",
+        "sentiment_score": 0.07624377682805061
+    },
+    {
+        "title": "Cashea se mete en el bolsillo de los venezolanos: ¿cuántos usan la app para sus compras?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "cashea",
+            "app",
+            "crédito",
+            "fintech",
+            "sin interes"
+        ],
+        "link": "https://2001online.com/nacionales/cashea-se-mete-en-el-bolsillo-de-los-venezolanos-cuantos-usan-la-app-para-sus-compras--202510122000",
+        "date": "2025-10-13 00:00:00",
+        "sentiment_score": 0.0011924169957637787
+    },
+    {
+        "title": "¡Orgullo venezolano! Así fue el conmovedor encuentro entre Fabito Music y Elvis Crespo",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "elvis crespo",
+            "suavemente",
+            "fabito music"
+        ],
+        "link": "https://2001online.com/farandula/orgullo-venezolano-asi-fue-el-conmovedor-encuentro-entre-fabito-music-y-elvis-crespo-2025101219540",
+        "date": "2025-10-12 23:54:00",
+        "sentiment_score": 0.7302202731370926
     }
 ];
