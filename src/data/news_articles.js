@@ -200,46 +200,6 @@ export default [
         "sentiment_score": -0.1429077833890915
     },
     {
-        "title": "Un Nobel de la Paz revolucionario",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/10/10/1501744760-kYpB-U701731523707X7G-350x624@diario_abc.jpg",
-        "tags": [
-            "maría corina machado",
-            "venezuela",
-            "hugo chávez",
-            "españa"
-        ],
-        "link": "https://www.abc.es/internacional/carlos-granes-nobel-paz-revolucionario-20251010160057-nt.html",
-        "date": "2025-10-10 14:00:57",
-        "sentiment_score": -0.02003657817840576
-    },
-    {
-        "title": "Más de 8.000 trabajadores de Consum usan los servicios de salud y bienestar de la cooperativa en 2025",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/10/consum-bienestar-Ryd77ND2W4OajbHiM23RkaN-1200x840@diario_abc.jpg",
-        "tags": [
-            "valencia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/8000-trabajadores-consum-usan-servicios-salud-bienestar-20251010130612-nt.html",
-        "date": "2025-10-10 11:06:12",
-        "sentiment_score": -0.03670260310173035
-    },
-    {
-        "title": "María Corina Machado, la mujer que desafía al chavismo desde la clandestinidad",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/10/mcm-kIpF-U701731044401kAF-1200x840@diario_abc.jpg",
-        "tags": [
-            "clandestinidad",
-            "chavismo",
-            "desafia",
-            "corina",
-            "machado",
-            "mujer",
-            "maria"
-        ],
-        "link": "https://www.abc.es/internacional/maria-corina-machado-mujer-desafia-chavismo-clandestinidad-20251010125749-nt.html",
-        "date": "2025-10-10 10:57:49",
-        "sentiment_score": -0.03782665729522705
-    },
-    {
         "title": "Se hunde un pesquero de Sant Feliu de Guíxols (Girona) que embarrancó cerca del puerto",
         "image_url": "https://imagenes.elpais.com/resizer/v2/AUKY4AKFCJAONG5O6YG3MPJDQE.jpg?auth=59e912476580ad4544f795717393cb78c039113120975abd4ae2a4544e9f87d2&width=1200",
         "tags": [
@@ -8165,5 +8125,450 @@ export default [
         "link": "https://2001online.com/internacionales/atentado-contra-dos-venezolanos-en-bogota-defensoria-colombiana-se-pronuncia-202510131740",
         "date": "2025-10-13 21:04:00",
         "sentiment_score": 0.2829955592751503
+    },
+    {
+        "title": "Clima en Málaga: temperatura y probabilidad de lluvia para este 14 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/4JLM2D7XO5CYFB22EHE7UZVHZA.png?auth=31432af2f18955afe456882c52b614f072d38886e4fdf91641a59f297c01726a&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "tiempo en españa",
+            "málaga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/14/clima-en-malaga-temperatura-y-probabilidad-de-lluvia-para-este-14-de-octubre/",
+        "date": "2025-10-14 02:16:04",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Predicción del clima en Madrid para antes de salir de casa este 14 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/5WNGZ3LBVBDMZOTA4JODFZB6HI.png?auth=bb2d66c14385e6d7eee2237eee93d2ced06e7974548fa46b963e43579b31c11c&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "españa sociedad",
+            "noticias",
+            "madrid",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/14/prediccion-del-clima-en-madrid-para-antes-de-salir-de-casa-este-14-de-octubre/",
+        "date": "2025-10-14 01:31:14",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Colombiano fue detenido en España por participar en la violación de una niña de 8 años, autorizado por el padre de la menor",
+        "image_url": "https://www.infobae.com/resizer/v2/7Y7P6QGQ2ZBDJI6ULA4FL5DQRQ.jpg?auth=0718946e41f9d1c9375b11ea227d6143c3663275f46bc0940b8c5593148d45f2&height=1200&smart=true&width=1687",
+        "tags": [
+            "niña abusada",
+            "niña de 8 años",
+            "colombiano en madrid",
+            "abuso infantil",
+            "abuso sexual",
+            "colombia-noticias",
+            "padre violó a su hija"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/10/14/colombiano-fue-detenido-en-espana-por-participar-en-la-violacion-de-una-nina-de-8-anos-autorizado-por-el-padre-de-la-menor/",
+        "date": "2025-10-14 01:15:50",
+        "sentiment_score": -0.2916325703263283
+    },
+    {
+        "title": "Pronóstico del estado del tiempo: las temperaturas que se esperan en Barcelona este 14 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "barcelona",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/14/pronostico-del-estado-del-tiempo-las-temperaturas-que-se-esperan-en-barcelona-este-14-de-octubre/",
+        "date": "2025-10-14 01:15:43",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "De España al Reclusorio Sur: vinculan a proceso a Ricardo “R”, “El Perky”, miembro de la Unión Tepito",
+        "image_url": "https://www.infobae.com/resizer/v2/ZL6WFDN5BBGWTINZQLTO2MXB5E.jpg?auth=de48842d5c24af81a9c2e944f24626b08990c8037a14ef9b68265e9a4e060603&height=1080&smart=true&width=1920",
+        "tags": [
+            "unión tepito",
+            "reclusorio sur",
+            "mexico-noticias",
+            "fgr",
+            "narco en méxico"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/10/14/de-espana-al-reclusorio-sur-vinculan-a-proceso-a-ricardo-r-el-perky-miembro-de-la-union-tepito/",
+        "date": "2025-10-14 01:00:09",
+        "sentiment_score": -0.014840930700302124
+    },
+    {
+        "title": "Marruecos apuesta por los motores de avión para duplicar sus ingresos aeronáuticos",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/13/marruecos-apuesta-por-los-motores-de-avion-para-duplicar-sus-ingresos-aeronauticos/",
+        "date": "2025-10-13 23:39:06",
+        "sentiment_score": 0.6496431715786457
+    },
+    {
+        "title": "El Brent sube 0,94 % hasta 63,32 dólares después de que Trump rebajase el tono con China",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/13/el-brent-sube-094-hasta-6332-dolares-despues-de-que-trump-rebajase-el-tono-con-china/",
+        "date": "2025-10-13 23:38:50",
+        "sentiment_score": -0.13687244057655334
+    },
+    {
+        "title": "La CNMC abre nueva consulta para cambiar la metodología de retribución en la distribución",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/13/la-cnmc-abre-nueva-consulta-para-cambiar-la-metodologia-de-retribucion-en-la-distribucion/",
+        "date": "2025-10-13 23:38:33",
+        "sentiment_score": 0.21508722752332687
+    },
+    {
+        "title": "Trump y Milei sellarán su alianza en una visita del presidente argentino a la Casa Blanca",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/13/trump-y-milei-sellaran-su-alianza-en-una-visita-del-presidente-argentino-a-la-casa-blanca/",
+        "date": "2025-10-13 23:38:17",
+        "sentiment_score": 0.04058215022087097
+    },
+    {
+        "title": "Adif prolonga la interrupción de la circulación en varios tramos del Corredor Mediterráneo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/13/adif-prolonga-la-interrupcion-de-la-circulacion-en-varios-tramos-del-corredor-mediterraneo/",
+        "date": "2025-10-13 23:38:01",
+        "sentiment_score": -0.7732508797198534
+    },
+    {
+        "title": "La dura crítica de Ruggeri a los referentes de River y a Gallardo tras la caída ante Sarmiento",
+        "image_url": "https://www.infobae.com/resizer/v2/2E3MFK5IZBG67EWQMKSXA66YF4.jpg?auth=769dd415eb75800a8203ff07008574509b3dc94176033839bb3bef58448dc65f&height=1080&smart=true&width=1920",
+        "tags": [
+            "river plate",
+            "deportes-argentina",
+            "oscar ruggeri",
+            "marcelo gallardo"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/14/la-dura-critica-de-ruggeri-a-los-referentes-de-river-y-a-gallardo-tras-la-caida-ante-sarmiento/",
+        "date": "2025-10-14 02:01:10",
+        "sentiment_score": -0.3756958916783333
+    },
+    {
+        "title": "Estados Unidos interviene para bajar el dólar mientras la economía argentina entra en recesión",
+        "image_url": "https://www.laizquierdadiario.com/IMG/logo/milei_perro_de_trump.jpg?1760405077=",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.laizquierdadiario.com/Estados-Unidos-interviene-para-bajar-el-dolar-mientras-la-economia-argentina-entra-en-recesion",
+        "date": "2025-10-14 01:25:29",
+        "sentiment_score": -0.45285648852586746
+    },
+    {
+        "title": "La concluyente sentencia de Carlo Ancelotti sobre la posibilidad de volver a convocar a Neymar en Brasil",
+        "image_url": "https://www.infobae.com/resizer/v2/UWRNTXXB5NAMLDALXD3WJWOYRU.jpg?auth=5c1f14b6c758648bdbabd883eb75b54d2d806ac9bf88d4ae978de7b796e64d20&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-internacional",
+            "brasil",
+            "deportes-argentina",
+            "neymar",
+            "mundial 2026",
+            "carlo ancelotti"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/14/la-concluyente-sentencia-de-carlo-ancelotti-sobre-la-posibilidad-de-volver-a-convocar-a-neymar-en-brasil/",
+        "date": "2025-10-14 01:02:02",
+        "sentiment_score": -0.14118797332048416
+    },
+    {
+        "title": "La dana Alice reabre el debate en Cataluña sobre las expropiaciones de viviendas en zonas inundables",
+        "image_url": "https://phantom-elmundo.uecdn.es/c5ec876da0e694d95968b36a655485c8/crop/102x26/940x867/f/image/jpeg/assets/multimedia/imagenes/2023/04/17/16817425449512.jpg",
+        "tags": [
+            "cambio climático",
+            "generalitat de cataluña",
+            "lleida",
+            "parlament de cataluña",
+            "política",
+            "erc",
+            "psc",
+            "tarragona",
+            "junts per catalunya",
+            "salvador illa",
+            "carles puigdemont",
+            "barcelona",
+            "artículos gerard melgar",
+            "vivienda"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/10/14/68ed5f94e85ece96308b459c.html",
+        "date": "2025-10-14 00:43:22",
+        "sentiment_score": 0.33121198043227196
+    },
+    {
+        "title": "La turca Kentkart puja por el sistema de pago de transporte público de Madrid: “El modelo de tarjeta cerrada llega a su fin”",
+        "image_url": "https://s2.elespanol.com/2025/10/13/actualidad/1003743966583_259329455_1706x960.jpg",
+        "tags": [
+            "madrid",
+            "observatorio de la movilidad",
+            "movilidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20251014/turca-kentkart-puja-sistema-pago-transporte-publico-madrid-modelo-tarjeta-cerrada-llega-fin/1003743966427_0.html",
+        "date": "2025-10-14 00:00:48",
+        "sentiment_score": 0.3759127389639616
+    },
+    {
+        "title": "Arranca la 20.a edición de Suma Flamenca, el festival con más duende de la Comunidad de Madrid",
+        "image_url": "https://s2.elespanol.com/2025/10/10/actualidad/1003743964874_259305637_1706x960.jpg",
+        "tags": [
+            "flamenco"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/flamenco/20251013/arranca-edicion-suma-flamenca-festival-duende-comunidad-madrid/1003743964755_0.html",
+        "date": "2025-10-13 23:55:00",
+        "sentiment_score": 0.615630753338337
+    },
+    {
+        "title": "Trump ha escrito recto con renglones torcidos: una paz que parecía impensable",
+        "image_url": "https://s2.elespanol.com/2025/10/13/actualidad/1003743967855_259345230_1024x576.jpg",
+        "tags": [
+            "opinión",
+            "donald trump",
+            "benjamin netanyahu",
+            "editoriales",
+            "conflicto palestino-israelí",
+            "hamás"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20251013/trump-escrito-recto-renglones-torcidos-paz-parecia-impensable/1003743967763_14.html",
+        "date": "2025-10-13 23:54:08",
+        "sentiment_score": 0.023941785097122192
+    },
+    {
+        "title": "La solución a muchos de nuestros problemas sanitarios es la innovación",
+        "image_url": "https://s2.elespanol.com/2025/10/01/actualidad/1003743950224_259111411_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "andalucía",
+            "tribunas",
+            "sanidad",
+            "partido popular (pp)",
+            "cáncer de mama",
+            "juan manuel moreno bonilla",
+            "tribunas de opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20251013/solucion-problemas-sanitarios-innovacion/1003743967481_12.html",
+        "date": "2025-10-13 23:53:06",
+        "sentiment_score": -0.8793283887207508
+    },
+    {
+        "title": "Conoce al curioso intruso de las Eliminatorias Europeas rumbo al Mundial de 2026",
+        "image_url": "https://pxcdn.meridiano.net/102025/1760401289049.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/cotilleo-deportivo/cotilleo-deportivo/conoce-al-curioso-intruso-de-las-eliminatorias-europeas-rumbo-al-mundial-de-2026-2025101319230",
+        "date": "2025-10-13 23:23:00",
+        "sentiment_score": 0.7455653697252274
+    },
+    {
+        "title": "El Gobierno y la Generalitat de Cataluña colaboran en una campaña contra el uso del español en centros educativos valencianos",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/10/13/68ecd61c18575.r_d.676-269-9836.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20251014/gobierno-generalitat-cataluna-colaboran-campana-contra-espanol-centros-educativos-valencianos_343556.html",
+        "date": "2025-10-14 02:00:00",
+        "sentiment_score": -0.15335184335708618
+    },
+    {
+        "title": "Pataleta",
+        "image_url": "https://uh.gsstatic.es/autor/neus-canyelles/11313.png",
+        "tags": [
+            "artículos de opinión",
+            "grupo serra",
+            "tribuna",
+            "prensa digital",
+            "medio de comunicación"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/10/14/2490213/pataleta.html",
+        "date": "2025-10-14 01:48:01",
+        "sentiment_score": 0.439175259321928
+    },
+    {
+        "title": "Llega la hora de la verdad para el Real Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3513155.jpg",
+        "tags": [
+            "ultimas noticias",
+            "jagoba arrasate",
+            "primera división",
+            "liga ea sports",
+            "última hora",
+            "rcd mallorca",
+            "real mallorca",
+            "fútbol",
+            "laliga"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/10/14/2490027/llega-hora-verdad-para-real-mallorca.html",
+        "date": "2025-10-14 01:48:01",
+        "sentiment_score": -0.3422950953245163
+    },
+    {
+        "title": "Las correrías de Victoria y Luna, las activistas de Futuro Vegetal que dañaron el cuadro de Colón: ya atacaron la Sagrada Familia",
+        "image_url": "https://s2.elespanol.com/2025/10/13/actualidad/1003743967735_259343922_1706x960.jpg",
+        "tags": [
+            "pintura",
+            "vandalismo",
+            "cristóbal colón",
+            "museo naval",
+            "ecología",
+            "reportajes",
+            "sostenibilidad",
+            "terrorismo"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251014/correrias-victoria-luna-activistas-futuro-vegetal-danaron-cuadro-colon-atacaron-sagrada-familia/1003743967357_0.html",
+        "date": "2025-10-14 00:53:33",
+        "sentiment_score": -0.5771325789391994
+    },
+    {
+        "title": "Barcelona es tentado nuevamente por Lamine Yamal con esta millonaria cifra",
+        "image_url": "https://pxcdn.meridiano.net/102025/1760401585873.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-es-tentado-nuevamente-por-lamine-yamal-con-esta-millonaria-cifra-2025101320260",
+        "date": "2025-10-14 00:26:00",
+        "sentiment_score": 0.6402980890125036
+    },
+    {
+        "title": "Uber crece en la T4 de Barajas y ya llega a diez aeropuertos",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/d714f4dc58bcc906fc29d852e909b345/crop/814x229/1951x987/f/webp/assets/multimedia/imagenes/2025/10/13/17603826164026.jpg",
+        "tags": [
+            "transporte y turismo>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/empresas/transporte/2025/10/14/68ed4df2468aeb741f8b45d0.html",
+        "date": "2025-10-13 23:58:41",
+        "sentiment_score": 0.2707013376057148
+    },
+    {
+        "title": "Maduro anuncia segunda fase de estabilización económica: conozca de qué trata",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "medios de comunicación",
+            "producción",
+            "venezuela",
+            "economía",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-anuncia-segunda-fase-de-estabilizacion-economica-conozca-de-que-trata-202510132280",
+        "date": "2025-10-14 02:08:00",
+        "sentiment_score": 0.27796749770641327
+    },
+    {
+        "title": "California aprueba nueva ley de custodia de hijos de inmigrantes en caso de deportación: ¿A manos de quién pasarían?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "niños",
+            "california",
+            "migrantes"
+        ],
+        "link": "https://2001online.com/usa/internacionales/california-aprueba-nueva-ley-de-custodia-de-hijos-de-inmigrantes-en-caso-de-deportacion-a-manos-de-quien-pasarian--202510132200",
+        "date": "2025-10-14 02:00:00",
+        "sentiment_score": 0.58509860932827
+    },
+    {
+        "title": "¿Eres mayor de 55 años? Experta esteticista aclara el posible error que cometes antes de dormir",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760123763021.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/eres-mayor-de-55-anos-experta-esteticista-aclara-el-posible-error-que-cometes-antes-de-dormir-202510132200",
+        "date": "2025-10-14 02:00:00",
+        "sentiment_score": -0.8257942758500576
+    },
+    {
+        "title": "¿Cuáles son los beneficios del famoso jugo “tres en uno” para la salud? Esto dicen los expertos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760406645278.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/cuales-son-los-beneficios-del-famoso-jugo-tres-en-uno-para-la-salud-esto-dicen-los-expertos-202510132200",
+        "date": "2025-10-14 02:00:00",
+        "sentiment_score": 0.43287310004234314
+    },
+    {
+        "title": "Política conservadora 2025: ¿Qué cambios trae el Proyecto de Transición 2025 a las políticas migratorias en EEUU?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760404930272.jpg?ch=675&cw=1200",
+        "tags": [
+            "políticas migratorias usa",
+            "administración trump",
+            "proyecto de transición 2025"
+        ],
+        "link": "https://2001online.com/usa/servicios/politica-conservadora-2025-que-cambios-trae-el-proyecto-de-transicion-2025-a-las-politicas-migratorias-en-eeuu--2025101321200",
+        "date": "2025-10-14 01:20:00",
+        "sentiment_score": 0.290019690990448
+    },
+    {
+        "title": "Por pedir \"colaboraciones\" para surtir combustible detienen a cuatro personas: estas fueron las denuncias",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760404059869.jpg?ch=675&cw=1200",
+        "tags": [
+            "gasolina",
+            "contrabando",
+            "combustible",
+            "delito",
+            "sucre"
+        ],
+        "link": "https://2001online.com/sucesos/por-pedir-colaboraciones-para-surtir-combustible-detienen-a-cuatro-personas-estas-fueron-las-denuncias-202510132170",
+        "date": "2025-10-14 01:07:00",
+        "sentiment_score": 0.04303300380706787
+    },
+    {
+        "title": "La Iglesia los salva del ICE: así un sacerdote se convirtió en héroe de sus feligreses",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "chicago",
+            "ice",
+            "iglesia"
+        ],
+        "link": "https://2001online.com/usa/internacionales/la-iglesia-los-salva-del-ice-asi-un-sacerdote-se-convirtio-en-heroe-de-sus-feligreses-202510132100",
+        "date": "2025-10-14 01:00:00",
+        "sentiment_score": 0.15697653591632843
+    },
+    {
+        "title": "Carta astral de Aran One: La internacionalización llegará con esfuerzos y sacrificios",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760099570968.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/carta-astral-de-aran-one-la-internacionalizacion-llegara-con-esfuerzos-y-sacrificios-202510132100",
+        "date": "2025-10-14 01:00:00",
+        "sentiment_score": 0.08953864499926567
+    },
+    {
+        "title": "Producción petrolera venezolana sigue en ascenso: esta es la última cifra publicada por la OPEP",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "opep",
+            "petroleo",
+            "crudo"
+        ],
+        "link": "https://2001online.com/nacionales/produccion-petrolera-venezolana-sigue-en-ascenso-esta-es-la-ultima-cifra-publicada-por-la-opep-202510132000",
+        "date": "2025-10-14 00:00:00",
+        "sentiment_score": 0.11051273345947266
+    },
+    {
+        "title": "Prácticos y efectivos: descubre estos increíbles trucos para que las frutas no se oxiden y alarguen su vida útil",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760389138035.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/practicos-y-efectivos-descubre-estos-increibles-trucos-para-que-las-frutas-no-se-oxiden-y-alarguen-su-vida-util-202510132000",
+        "date": "2025-10-14 00:00:00",
+        "sentiment_score": -0.041362933814525604
     }
 ];
