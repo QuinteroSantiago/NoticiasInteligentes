@@ -209,76 +209,6 @@ export default [
         "sentiment_score": 0.5745821986347437
     },
     {
-        "title": "La dana Alice provoca lluvias torrenciales y cortes de carreteras en la Comunidad Valenciana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SRUK4LWMLBMRLFUO5K7SW6OKUA.jpg?auth=8e9d1ae4ceeba9248dc11ef8aad9cb590de3ec84d2bca619ecaa5dd03ab88ad4&width=1200",
-        "tags": [
-            "valencia",
-            "el tiempo",
-            "generalitat valenciana",
-            "alicante",
-            "comunidad valenciana",
-            "dana",
-            "infraestructuras del transporte",
-            "castellón"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-11/la-dana-alice-provoca-lluvias-torrenciales-y-cortes-de-carreteras-en-la-comunidad-valenciana.html",
-        "date": "2025-10-11 13:48:02",
-        "sentiment_score": -0.8243372682482004
-    },
-    {
-        "title": "El estudio sobre la longevidad de la anciana que murió a los 117 años dispara la demanda de yogures de La Fageda",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/523CNPYWHBLZVEE5BLIEX5HQH4.jpg?auth=e2bea362f356dc18a879b10f7a1b05ae5bd41aaca4688efab81bb564dc04490b&width=1200",
-        "tags": [
-            "proyectos sociales",
-            "lácteos",
-            "cooperativas",
-            "la fageda",
-            "salud",
-            "investigación científica",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-11/el-estudio-sobre-la-longevidad-de-la-anciana-que-murio-a-los-117-anos-dispara-la-demanda-de-yogures-de-la-fageda.html",
-        "date": "2025-10-11 13:22:45",
-        "sentiment_score": -0.03702939301729202
-    },
-    {
-        "title": "Sánchez asistirá el lunes en Egipto a la firma del plan de paz para Gaza",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/E53TT7EJNJGGHNPIDPKKGTIOZ4.jpg?auth=19031cd510003bf242061e1ef63727aa6226aeef940fd25dae86ff9faae1d03e&width=1200",
-        "tags": [
-            "españa",
-            "conflicto árabe-israelí",
-            "israel",
-            "franja gaza",
-            "pedro sánchez",
-            "donald trump",
-            "embargos",
-            "egipto",
-            "hamás",
-            "gobierno",
-            "genocidio"
-        ],
-        "link": "https://elpais.com/espana/2025-10-11/sanchez-asistira-el-lunes-en-egipto-a-la-firma-del-plan-de-paz-para-gaza.html",
-        "date": "2025-10-11 12:06:27",
-        "sentiment_score": 0.019006691873073578
-    },
-    {
-        "title": "Abascal planta al Rey y no acudirá a la recepción de la Fiesta Nacional",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XWAQDGJ7IJHZFJNEMD3AV6G4QQ.jpg?auth=f2411107de938c0b6a6ba16388339f5b9fec6e8072ff1d01a6a2dc9aa6f61508&width=1200",
-        "tags": [
-            "españa",
-            "vox",
-            "desfiles militares",
-            "política",
-            "día fiesta nacional",
-            "felipe vi",
-            "partidos políticos",
-            "santiago abascal"
-        ],
-        "link": "https://elpais.com/espana/2025-10-11/abascal-planta-al-rey-y-no-acudira-a-la-recepcion-de-la-fiesta-nacional.html",
-        "date": "2025-10-11 11:42:25",
-        "sentiment_score": -0.799241722561419
-    },
-    {
         "title": "Enrique Faes: \"Falange presionó para que el franquismo no perdonara a los evasores fiscales\"",
         "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/07/letraglobal/1003742695403_15248564_1706x960.jpg",
         "tags": [
@@ -8251,5 +8181,434 @@ export default [
         "link": "https://2001online.com/internacionales/inundaciones-en-mexico-bienestar-inicia-el-censo-para-viviendas-afectadas-conozca-los-apoyos-2025101416320",
         "date": "2025-10-14 20:32:00",
         "sentiment_score": 0.03611094877123833
+    },
+    {
+        "title": "Un soltero lleva su figurita de ‘Playmobil’ a ‘First Dates’ por si triunfa en la cena: “Para que nos casara en la mesa”",
+        "image_url": "https://www.infobae.com/resizer/v2/JL3K3RDCIJF3NIDDXQZHRDEYJM.png?auth=e82e1d9ddde379dadb8018371f6718553c93d3bd74407c3f9aaeee9c2ed76aa7&height=1080&smart=true&width=1920",
+        "tags": [
+            "televisión españa",
+            "programas de televisión",
+            "first dates",
+            "españa-noticias",
+            "cuatro",
+            "españa-entretenimiento",
+            "mediaset españa",
+            "mediaset"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/15/un-soltero-lleva-su-figurita-de-playmobil-a-first-dates-por-si-la-cena-acaba-siendo-un-triunfo-para-que-nos-casara-en-la-mesa/",
+        "date": "2025-10-15 02:10:41",
+        "sentiment_score": -0.5024527460336685
+    },
+    {
+        "title": "Clima en España: temperatura y probabilidad de lluvia para Málaga este 15 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/4JLM2D7XO5CYFB22EHE7UZVHZA.png?auth=31432af2f18955afe456882c52b614f072d38886e4fdf91641a59f297c01726a&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "málaga",
+            "noticias",
+            "españa sociedad",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/15/clima-en-espana-temperatura-y-probabilidad-de-lluvia-para-malaga-este-15-de-octubre/",
+        "date": "2025-10-15 02:01:34",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "¿Cuál es la temperatura promedio en Madrid?",
+        "image_url": "https://www.infobae.com/resizer/v2/SHCTZRUOZVCJ3C2ZRHB3GXGZRA.png?auth=ccfd03e6d0570fe037ed9c51f84a1eba2b9ea17709785368392c6852d3f305ce&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "noticias",
+            "españa sociedad",
+            "madrid",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/15/cual-es-la-temperatura-promedio-en-madrid/",
+        "date": "2025-10-15 01:30:55",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima en España: el pronóstico del tiempo para Barcelona este 15 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/B6IIPE4MN5EEVDO7Z2ZPJWTA7I.png?auth=2ea8e4bb362734e21be948f2970c283fc6410785658b01c5121ab6fe5e6e78b2&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa noticias",
+            "españa sociedad",
+            "noticias",
+            "barcelona",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/15/clima-en-espana-el-pronostico-del-tiempo-para-barcelona-este-15-de-octubre/",
+        "date": "2025-10-15 01:00:40",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Cupón Diario de la Once: comprueba los números ganadores del 14 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/14/cupon-diario-de-la-once-comprueba-los-numeros-ganadores-del-14-de-octubre/",
+        "date": "2025-10-14 23:15:27",
+        "sentiment_score": 0.5590086951851845
+    },
+    {
+        "title": "España arrasa a Bulgaria con un 4-0 y encadena una racha de 29 partidos sin perder",
+        "image_url": "https://www.infobae.com/resizer/v2/NJKYPA3ZZJBPHDJKGYV7ML4BZM.jpg?auth=a36dfe720b5a9432155db875831ad0a23d3fea71ee25a21e36a225191f0b6d89&height=1280&smart=true&width=1920",
+        "tags": [
+            "seleccion española",
+            "la roja",
+            "fútbol",
+            "españa-deportes",
+            "selección española de fútbol",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/14/espana-arrasa-a-bulgaria-con-un-4-0-y-encadena-una-racha-de-29-partidos-sin-perder/",
+        "date": "2025-10-14 23:14:45",
+        "sentiment_score": 0.8773309476673603
+    },
+    {
+        "title": "Calcula cuánto subiría exactamente tu cuota de autónomos con la propuesta del Gobierno: introduce tus ingresos para ver la cantidad",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/14/calculadora-ESTATICA.jpg",
+        "tags": [
+            "elma saiz",
+            "seguridad social",
+            "autónomos",
+            "trabajadores",
+            "ad abc"
+        ],
+        "link": "https://www.abc.es/economia/calcula-subiria-exactamente-cuota-autonomos-propuesta-gobierno-20251015040000-nt.html",
+        "date": "2025-10-15 02:00:02",
+        "sentiment_score": -0.07478010654449463
+    },
+    {
+        "title": "Aislada y rodeada de mentiras: así celebra Sarah Ferguson su 66 cumpleaños",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/gente/2025/10/14/DL_u588125_014-RDxa2Om9N5bHCeNnbHVaabN-1200x840@diario_abc.jpg",
+        "tags": [
+            "sarah ferguson",
+            "príncipe andrés",
+            "cáncer",
+            "isabel ii de inglaterra",
+            "jeffrey epstein",
+            "famosos"
+        ],
+        "link": "https://www.abc.es/gente/aislada-rodeada-mentiras-celebra-sarah-ferguson-cumpleanos-20251014163523-nt.html",
+        "date": "2025-10-14 23:50:15",
+        "sentiment_score": -0.12354022264480591
+    },
+    {
+        "title": "Polémica en Aznalcázar por el cese del vestidor de Nuestro Padre Jesús: 1.200 firmas contra la decisión del párroco",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/10/15/nuestro-padre-aznalcazar-R9yYasxifmNAcXdv9wS9UtI-1200x840@diario_abc.jpg",
+        "tags": [
+            "pasion en sevilla",
+            "sevilla",
+            "noticias semana santa en sevilla"
+        ],
+        "link": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/polemica-aznalcazar-cese-vestidor-padre-jesus-1200-20251015131847-nts.html",
+        "date": "2025-10-14 23:06:40",
+        "sentiment_score": -0.06446148455142975
+    },
+    {
+        "title": "Confirmado el aterrizaje definitivo de dos universidades privadas en Asturias: un \"modelo innovador y dinámico\" para Oviedo y Avilés está \"de enhorabuena\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a00bf9e2-6a51-456d-97de-3bcfdba853b9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asturias",
+            "avilés",
+            "enfermería",
+            "universidad"
+        ],
+        "link": "https://www.lne.es/asturias/2025/10/15/confirmado-aterrizaje-definitivo-universidades-privadas-122624861.html",
+        "date": "2025-10-15 02:10:00",
+        "sentiment_score": 0.501674473285675
+    },
+    {
+        "title": "Alejandro Klecker, director de la Real Fábrica de Tapices: \"En 2026 traeremos a Gijón una exposición con más de 100 piezas de primer nivel\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/24c5a8d4-ca84-4c2b-b235-feccd7e6ada5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "deuda",
+            "madrid",
+            "exposición",
+            "restauración"
+        ],
+        "link": "https://www.lne.es/gijon/2025/10/15/alejandro-klecker-director-real-fabrica-122626415.html",
+        "date": "2025-10-15 02:03:35",
+        "sentiment_score": 0.05397579073905945
+    },
+    {
+        "title": "Agenda: qué hacer hoy 15 de octubre en Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cca16ee2-d6f1-4ebf-9b70-a2f28b95a73a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "horario",
+            "exposición",
+            "festivos",
+            "libre"
+        ],
+        "link": "https://www.lne.es/sociedad/2025/10/15/agenda-hoy-15-octubre-asturias-122620401.html",
+        "date": "2025-10-15 02:00:45",
+        "sentiment_score": 0.03350755572319031
+    },
+    {
+        "title": "Boca Juniors tendría decidido el futuro de Frank Fabra: su contrato vence en diciembre de 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/MJEYEJRBI5BMBJYAN4QNFTMRWI.JPG?auth=4e6794a2fe927f910f7d09c42c090a8cc1862073949563e7ab744b5fc4cbead3&height=5504&smart=true&width=8256",
+        "tags": [
+            "frank fabra",
+            "fútbol colombiano",
+            "colombia-deportes",
+            "boca juniors",
+            "agente libre",
+            "mercado de fichajes sudamericano"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/10/15/boca-juniors-tendria-decidido-el-futuro-de-frank-fabra-su-contrato-vence-en-diciembre-de-2025/",
+        "date": "2025-10-15 01:55:13",
+        "sentiment_score": -0.7600235249847174
+    },
+    {
+        "title": "Pablo Ojeda, nutricionista: «Que tu pan sea marrón no significa que sea saludable»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3514609.jpg",
+        "tags": [
+            "noticias interesantes",
+            "ia-discover",
+            "audiencias-um",
+            "pan",
+            "tiktok",
+            "sociedad",
+            "salud y bienestar",
+            "nutricionistas"
+        ],
+        "link": "https://www.menorca.info/actualidad/sociedad/2025/10/15/2490613/pablo-ojeda-nutricionista-pan-sea-marron-significa-sea-saludable.html",
+        "date": "2025-10-15 01:48:01",
+        "sentiment_score": -0.8822157233953476
+    },
+    {
+        "title": "«Hoy vemos que se utiliza la inmigración con fines políticos»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3515283.jpg",
+        "tags": [
+            "última hora",
+            "tendencias",
+            "sociedad"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/10/15/2491023/hoy-vemos-utiliza-inmigracion-fines-politicos.html",
+        "date": "2025-10-15 01:48:01",
+        "sentiment_score": -0.07578675448894501
+    },
+    {
+        "title": "La interferencia del Gobierno empaña el Congreso del Español",
+        "image_url": "https://phantom-elmundo.uecdn.es/75a244c9739bafd040a26cff78e5f580/crop/286x9/832x555/f/image/jpeg/assets/multimedia/imagenes/2024/03/07/17098434492546.jpg",
+        "tags": [
+            "rae",
+            "lengua española",
+            "artículos luis alemany",
+            "cultura"
+        ],
+        "link": "https://www.elmundo.es/cultura/2025/10/15/68eea590fdddff81618b45a7.html",
+        "date": "2025-10-15 01:09:17",
+        "sentiment_score": -0.8957522679120302
+    },
+    {
+        "title": "¡Muy enamorados! Lamine Yamal y Nicki Nicole presumen su romance en redes durante las vacaciones del jugador",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760489782251/IMG_0811.jpeg?ch=675&cw=1200",
+        "tags": [
+            "romance",
+            "lamine yamal",
+            "nicki nicole"
+        ],
+        "link": "https://2001online.com/farandula/muy-enamorados-lamine-yamal-y-nicki-nicole-presumen-su-romance-en-redes-durante-las-vacaciones-del-jugador-2025101420450",
+        "date": "2025-10-15 00:45:00",
+        "sentiment_score": 0.22146714478731155
+    },
+    {
+        "title": "Barcelona con alarmas encendidas de cara al clásico con el Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/102025/1760488546421.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-con-alarmas-encendidas-de-cara-al-clasico-con-el-real-madrid-2025101420380",
+        "date": "2025-10-15 00:38:00",
+        "sentiment_score": 0.7471841964870691
+    },
+    {
+        "title": "El legado de Luis Adaro amplía la hemeroteca municipal",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4c5cc01b-410e-44e6-a3de-4db44bd6117f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "libros",
+            "familia",
+            "cámara",
+            "hemeroteca"
+        ],
+        "link": "https://www.lne.es/gijon/2025/10/15/legado-luis-adaro-amplia-hemeroteca-122626387.html",
+        "date": "2025-10-15 02:07:00",
+        "sentiment_score": 0.33324287831783295
+    },
+    {
+        "title": "El Premio Planeta 2025 se falla este miércoles en una cena literaria en el MNAC",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251015040449_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-premio-planeta-2025-falla-miercoles-cena-literaria-mnac-20251015040449.html",
+        "date": "2025-10-15 02:04:49",
+        "sentiment_score": 0.20111658424139023
+    },
+    {
+        "title": "Catalunya afronta este miércoles una jornada de huelga para \"poner fin al genocidio\" en Gaza",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251015040050_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-catalunya-afronta-miercoles-jornada-huelga-poner-fin-genocidio-gaza-20251015040050.html",
+        "date": "2025-10-15 02:00:50",
+        "sentiment_score": -0.8753996938467026
+    },
+    {
+        "title": "Emilio Llano Menéndez, arquitecto: \"Trabajar en Londres antes de iniciar la carrera me abrió una ventana al mundo\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ecbdcd8c-fa6d-44f0-a0a8-aead0ad243cc_16-9-aspect-ratio_default_0_x757y659.jpg",
+        "tags": [
+            "barcelona",
+            "arquitectura",
+            "familia",
+            "londres"
+        ],
+        "link": "https://www.lne.es/cangas-del-narcea/2025/10/15/emilio-llano-menendez-arquitecto-trabajar-122483961.html",
+        "date": "2025-10-15 02:00:47",
+        "sentiment_score": -0.017388969659805298
+    },
+    {
+        "title": "Alba Riesgo, ingresa en la Real Academia de Medicina: \"El trabajo en Urgencias es anónimo, pero sin él no funcionaría el sistema sanitario\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1f7791da-2059-49a8-a9bf-42e42d317a64_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mir",
+            "urgencias",
+            "pacientes",
+            "huca"
+        ],
+        "link": "https://www.lne.es/asturias/2025/10/15/alba-riesgo-ingresa-real-academia-122625218.html",
+        "date": "2025-10-15 02:00:45",
+        "sentiment_score": 0.011556766927242279
+    },
+    {
+        "title": "La Revuelta de las Mujeres en la Iglesia llega a León",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/10/14/68eebfcc32538.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/251015/2062876/revuelta-mujeres-iglesia-aterriza-leon.html",
+        "date": "2025-10-15 01:30:00",
+        "sentiment_score": 0.05309586226940155
+    },
+    {
+        "title": "Estrella de Barcelona reconoció haberse visto tentado a salir del club por esta oferta millonaria",
+        "image_url": "https://pxcdn.meridiano.net/102025/1760489581511.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/estrella-de-barcelona-reconocio-haberse-visto-tentado-a-salir-del-club-por-esta-oferta-millonaria-2025101420530",
+        "date": "2025-10-15 00:53:00",
+        "sentiment_score": 0.08276895433664322
+    },
+    {
+        "title": "Esta es la planta rica en propiedades relajantes que te ayudará a dormir como un bebé: aprende a preparar la infusión",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760492598101.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/esta-es-la-planta-rica-en-propiedades-relajantes-que-te-ayudara-a-dormir-como-un-bebe-aprende-a-preparar-la-infusion-2025101422150",
+        "date": "2025-10-15 02:15:00",
+        "sentiment_score": -0.7422325126826763
+    },
+    {
+        "title": "Las personas sanas no deben tomar esta vitamina: afamado nefrólogo alerta sobre los riesgos para la salud",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760382030329.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/las-personas-sanas-no-deben-tomar-esta-vitamina-afamado-nefrologo-alerta-sobre-los-riesgos-para-la-salud-202510142200",
+        "date": "2025-10-15 02:00:00",
+        "sentiment_score": -0.5570532381534576
+    },
+    {
+        "title": "Abuelos de Caracas reciben nuevo sitio de atención y esparcimiento en Fuerte Tiuna: así son las instalaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "venezuela",
+            "fuerte tiuna",
+            "adultos mayores",
+            "diario 2001",
+            "recreación"
+        ],
+        "link": "https://2001online.com/comunidad/abuelos-de-caracas-reciben-nuevo-sitio-de-atencion-y-esparcimiento-en-fuerte-tiuna-asi-son-las-instalaciones-2025101421330",
+        "date": "2025-10-15 01:33:00",
+        "sentiment_score": 0.6190746501088142
+    },
+    {
+        "title": "Valeria Valle opina sobre caso de Karlis Romero y así le responde la actriz",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760491896716/ec4f9937-d5c4-4074-8c1f-73ab8ffb8562.jpeg?ch=675&cw=1200",
+        "tags": [
+            "farándula",
+            "valeria valle",
+            "karlis romero"
+        ],
+        "link": "https://2001online.com/farandula/valeria-valle-opina-sobre-caso-de-karlis-romero-y-asi-le-responde-la-actriz-2025101420590",
+        "date": "2025-10-15 00:59:00",
+        "sentiment_score": -0.4470162186771631
+    },
+    {
+        "title": "Prueba de ciudadanía USCIS: ¿Qué preguntas serán eliminadas en el examen de educación cívica?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760488754051.jpg?ch=675&cw=1200",
+        "tags": [
+            "preparación para la prueba",
+            "naturalización",
+            "ciudadanía"
+        ],
+        "link": "https://2001online.com/usa/servicios/prueba-de-ciudadania-uscis-que-preguntas-seran-eliminadas-en-el-examen-de-educacion-civica--2025101420310",
+        "date": "2025-10-15 00:31:00",
+        "sentiment_score": 0.03334500640630722
+    },
+    {
+        "title": "Nutricionista revela cual es el mejor jugo natural para mantener los riñones en buenas condiciones: esta es la cantidad exacta que debes ingerir",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760486167749.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/nutricionista-revela-cual-es-el-mejor-jugo-natural-para-mantener-los-rinones-en-buenas-condiciones-esta-es-la-cantidad-exacta-que-debes-ingerir-2025101420300",
+        "date": "2025-10-15 00:30:00",
+        "sentiment_score": 0.17147907614707947
+    },
+    {
+        "title": "El reencuentro de Elliot Page y Christopher Nolan después de 15 años: Vuelvo más cómodo conmigo mismo",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "elliot page",
+            "christopher nolan",
+            "'la odisea'"
+        ],
+        "link": "https://2001online.com/farandula/el-reencuentro-de-elliot-page-y-christopher-nolan-despues-de-15-anos-vuelvo-mas-comodo-conmigo-mismo-2025101420290",
+        "date": "2025-10-15 00:29:00",
+        "sentiment_score": 0.16558131203055382
+    },
+    {
+        "title": "Precio del dólar y euro BCV para el 15 de octubre: así se cotizarán las monedas",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760487044006.jpg?ch=675&cw=1200",
+        "tags": [
+            "veenzuela c",
+            "euro bcv",
+            "precio bcv",
+            "dólar bcv"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-15-de-octubre-asi-se-cotizaran-las-monedas-2025101420100",
+        "date": "2025-10-15 00:10:00",
+        "sentiment_score": -0.009502816945314407
+    },
+    {
+        "title": "¿Piña para tu cabello? Expertos revelan secretos asombrosos de esta fruta tropical de la familia de las bromelias",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760457691008.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/pina-para-tu-cabello-expertos-revelan-secretos-asombrosos-de-esta-fruta-tropical-de-la-familia-de-las-bromelias-202510142000",
+        "date": "2025-10-15 00:00:00",
+        "sentiment_score": 0.3042210638523102
     }
 ];
