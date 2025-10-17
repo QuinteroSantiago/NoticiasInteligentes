@@ -197,32 +197,6 @@ export default [
         "sentiment_score": -0.1457619071006775
     },
     {
-        "title": "Toreo y leyenda",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/10/13/cartas-director-1200x630_20251013155347-U26255844346cFx-1200x630@diario_abc.jpg",
-        "tags": [
-            "español",
-            "morante de la puebla",
-            "estados unidos",
-            "segunda república 1931-1936",
-            "fiesta nacional",
-            "hispanidad"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/toreo-leyenda-20251013155426-nt.html",
-        "date": "2025-10-13 13:54:27",
-        "sentiment_score": 0.00677037239074707
-    },
-    {
-        "title": "El aeropuerto de Sevilla sigue a golpe de récord: más de 820.000 pasajeros en el mes de septiembre",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/10/13/aeropuerto-sevilla-pasajeros-RDseVUwl1fLUmfNt5rUyK8H-1200x840@diario_abc.jpg",
-        "tags": [
-            "aeropuerto de sevilla",
-            "sevilla"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/aeropuerto-sevilla-sigue-golpe-record-820000-pasajeros-20251013130351-nts.html",
-        "date": "2025-10-13 11:07:00",
-        "sentiment_score": -0.07697269320487976
-    },
-    {
         "title": "ERC reclama que se ponga en marcha la convención nacional por el conflicto político",
         "image_url": "https://imagenes.elpais.com/resizer/v2/5FCUHLUY3NN7VE5VXSWXLEGHME.jpg?auth=38075866a1bc7551ce5d0cace6b177ec8186a81215f34b46f83aa1d580720449&width=1200",
         "tags": [
@@ -329,55 +303,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-13/la-jueza-de-la-dana-califica-de-ficcion-o-autoficcion-las-afirmaciones-de-mazon-en-tres-recientes-entrevistas.html",
         "date": "2025-10-13 14:20:43",
         "sentiment_score": -0.7028498444706202
-    },
-    {
-        "title": "El Supremo informa a la Fiscalía Europea de que no consta que las obras por las que investiga a Ábalos hayan comprometido fondos europeos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/F6MYIXA5QJAIVG5F4RWT4YI3B4.jpg?auth=195583d26f52b6ec730cbed8ebb8852d3e03c767ba041c30b83271b6cb52a4fa&width=1200",
-        "tags": [
-            "josé luis ábalos",
-            "santos cerdán",
-            "tribunal supremo",
-            "españa",
-            "ministerio de transportes",
-            "caso koldo",
-            "koldo garcía"
-        ],
-        "link": "https://elpais.com/espana/2025-10-13/el-supremo-informa-a-la-fiscalia-europea-que-no-consta-que-las-obras-por-las-que-investiga-a-abalos-hayan-comprometido-fondos-europeos.html",
-        "date": "2025-10-13 12:59:08",
-        "sentiment_score": -0.2302107736468315
-    },
-    {
-        "title": "El PP, tras la declaración de Miguel Ángel Rodríguez ante el juez: “Mentir no es ilegal”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/R52QJD7DM5M5ZF6CH2YH7WQTU4.jpg?auth=f450a823126f3ba98132fd7f715626def7cb3848ed4f5c2a6294aa9c7465ee85&width=1200",
-        "tags": [
-            "pp",
-            "álvaro garcía ortiz",
-            "justicia",
-            "miguel ángel rodríguez",
-            "españa",
-            "alberto núñez feijóo",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/2025-10-13/el-pp-tras-la-declaracion-de-miguel-angel-rodriguez-ante-el-juez-mentir-no-es-ilegal.html",
-        "date": "2025-10-13 12:31:35",
-        "sentiment_score": -0.21574623882770538
-    },
-    {
-        "title": "Más del 21% de la población considera que los años de la dictadura fueron “buenos o muy buenos”, según el CIS",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KOMOME5AYBFVZNRKZ7GRJXYMY4.JPG?auth=b03bb438643bd0a28a0ecf8f6bebe48b75d254fa19646537a0b0a9028f915d0b&width=1200",
-        "tags": [
-            "pp",
-            "francisco franco",
-            "memoria histórica",
-            "vox",
-            "cis",
-            "españa",
-            "psoe",
-            "dictadura"
-        ],
-        "link": "https://elpais.com/espana/2025-10-13/mas-del-21-de-la-poblacion-considera-que-los-anos-de-la-dictadura-fueron-buenos-o-muy-buenos-segun-el-cis.html",
-        "date": "2025-10-13 12:29:51",
-        "sentiment_score": -0.844912949949503
     },
     {
         "title": "¿Le parece bien que se pite a Pedro Sánchez en actos como el 12 de octubre?",
@@ -8983,5 +8908,443 @@ export default [
         "link": "https://2001online.com/internacionales/niveles-de-prioridad-del-ice-para-capturar-inmigrantes-conozca-los-perfiles-mas-buscados-por-las-autoridades-2025101616350",
         "date": "2025-10-16 20:35:00",
         "sentiment_score": 0.06510090082883835
+    },
+    {
+        "title": "Predicción del clima en Málaga para este 17 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/4JLM2D7XO5CYFB22EHE7UZVHZA.png?auth=31432af2f18955afe456882c52b614f072d38886e4fdf91641a59f297c01726a&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "málaga",
+            "españa sociedad",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/17/prediccion-del-clima-en-malaga-para-este-17-de-octubre/",
+        "date": "2025-10-17 02:16:00",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Clima hoy en España: temperaturas para Barcelona este 17 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "barcelona",
+            "españa sociedad",
+            "tiempo en españa",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/17/clima-hoy-en-espana-temperaturas-para-barcelona-este-17-de-octubre/",
+        "date": "2025-10-17 02:02:05",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Gabriel Rufián y Ester Expósito, pillados bailando bachata: su vídeo viral en un after de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/IFQU7ZEN2RHZ5HU6VXJIWN7HCE.jpg?auth=cd95032e06fbda6f90f4c014655d907bd11e81032614d48ee0006e108ffbc69e&height=1080&smart=true&width=1920",
+        "tags": [
+            "virales",
+            "españa-noticias",
+            "españa-corazón-y-estilo",
+            "redes sociales",
+            "famosos españa",
+            "celebridades españa",
+            "ester expósito",
+            "gabriel rufian",
+            "madrid",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/16/gabriel-rufian-y-ester-exposito-pillados-bailando-bachata-su-video-viral-en-un-after-de-madrid/",
+        "date": "2025-10-16 23:36:38",
+        "sentiment_score": 0.09182987362146378
+    },
+    {
+        "title": "Pedro Sánchez sorprende en ‘La Revuelta’ con una carta a la profesora de la hija de Jorge Ponce: “Deja a las niñas hacer lo que quieran o si no te mandaré a Ponce y a Broncano como alumnos”",
+        "image_url": "https://www.infobae.com/resizer/v2/4Z4N22UQVFFV5K7D64JLOYVXVA.webp?auth=86f9a36fb9232b8a8335a34c99d79297047a2f831bc5a2923f445f41316f6542&height=675&smart=true&width=1200",
+        "tags": [
+            "moncloa",
+            "españa-televisión",
+            "pedro sánchez",
+            "españa-noticias",
+            "la 1",
+            "david broncano",
+            "rtve",
+            "televisión española",
+            "gobierno de españa",
+            "la revuelta",
+            "entretenimiento-españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/16/pedro-sanchez-sorprende-en-la-revuelta-con-una-carta-a-la-profesora-de-la-hija-de-jorge-ponce-deja-a-las-ninas-hacer-lo-que-quieran-o-si-no-te-mandare-a-ponce-y-a-broncano-como-alumnos/",
+        "date": "2025-10-16 23:34:36",
+        "sentiment_score": 0.07635173201560974
+    },
+    {
+        "title": "Cupón Diario de la Once: comprueba los ganadores del 16 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/16/cupon-diario-de-la-once-comprueba-los-ganadores-del-16-de-octubre/",
+        "date": "2025-10-16 23:15:32",
+        "sentiment_score": 0.11362245678901672
+    },
+    {
+        "title": "El blindado VAC avanza hacia Asturias: las claves del programa de defensa que se fabricará en la región",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d3233fe2-6e55-4c47-b9a7-5280a2093d53_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "santa bárbara",
+            "indra",
+            "defensa"
+        ],
+        "link": "https://www.lne.es/asturias/2025/10/17/blindado-vac-avanza-asturias-claves-122698401.html",
+        "date": "2025-10-17 02:00:43",
+        "sentiment_score": -0.02984967827796936
+    },
+    {
+        "title": "Agenda: qué hacer hoy 17 de octubre en Asturias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/236312f6-f601-4069-a440-11f38d897285_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "jesús",
+            "teatro",
+            "exposición",
+            "asturias"
+        ],
+        "link": "https://www.lne.es/sociedad/2025/10/17/agenda-hoy-17-octubre-asturias-122698114.html",
+        "date": "2025-10-17 02:00:43",
+        "sentiment_score": -0.7808679081499577
+    },
+    {
+        "title": "¿Hasta cuándo va a aguantar UPL?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el editorial"
+        ],
+        "link": "https://www.lanuevacronica.com/opinion/el-editorial/hasta-cuando-va-aguantar-upl_184235_102.html",
+        "date": "2025-10-17 02:00:00",
+        "sentiment_score": -0.8170579224824905
+    },
+    {
+        "title": "Fue subcampeón del mundo con Argentina, jugó con Messi y Cristiano Ronaldo, y hoy maneja un club de pádel",
+        "image_url": "https://www.infobae.com/resizer/v2/4P3DXCIFH5DTTGNWMWOVCXPFMY.jpg?auth=1f201100a37695b3880d0425a4defaf11f32508e56e88f9110ebe2845b6f8baf&height=1080&smart=true&width=1920",
+        "tags": [
+            "ezequiel garay",
+            "valencia",
+            "deportes-argentina",
+            "selección argentina",
+            "deportes-internacional",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/17/fue-subcampeon-del-mundo-con-argentina-jugo-con-messi-y-cristiano-ronaldo-y-hoy-maneja-un-club-de-padel/",
+        "date": "2025-10-17 01:53:36",
+        "sentiment_score": 0.32383574545383453
+    },
+    {
+        "title": "Del muro al abismo",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3518183.jpg",
+        "tags": [
+            "primera división",
+            "ultimas noticias",
+            "liga ea sports",
+            "última hora",
+            "laliga",
+            "rcd mallorca",
+            "fútbol",
+            "real mallorca"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/10/17/2492123/del-muro-abismo.html",
+        "date": "2025-10-17 01:48:01",
+        "sentiment_score": -0.03588703274726868
+    },
+    {
+        "title": "David y Victoria Beckham: cómo es su intensa rutina fitness de 6 días a la semana",
+        "image_url": "https://www.infobae.com/resizer/v2/D7EJOSJNVRB2BPDN7WDWNIVP7I.jpeg?auth=ef6f72f0a09820c0e37cbb8c78576340b9ccdf872a85829ec7570669611141fb&height=401&smart=true&width=711",
+        "tags": [
+            "david beckham",
+            "alimentación",
+            "david y victoria beckham",
+            "victoria beckham",
+            "bienestar",
+            "salud",
+            "calidad de vida",
+            "entrenamiento"
+        ],
+        "link": "https://www.infobae.com/tendencias/2025/10/17/david-y-victoria-beckham-como-es-su-intensa-rutina-de-entrenamiento-de-6-dias-a-la-semana/",
+        "date": "2025-10-17 00:43:35",
+        "sentiment_score": 0.2558741569519043
+    },
+    {
+        "title": "La estrategia del silencio de Ábalos y Koldo en el Supremo deja la puerta abierta a un pacto con la Fiscalía Anticorrupción",
+        "image_url": "https://s2.elespanol.com/2025/10/16/actualidad/1003743972998_259407522_1706x960.jpg",
+        "tags": [
+            "tribunal supremo",
+            "tribunales",
+            "periodismo de investigación",
+            "corrupción",
+            "josé luis ábalos",
+            "koldo garcía izaguirre"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20251017/estrategia-silencio-abalos-koldo-supremo-deja-puerta-abierta-pacto-fiscalia-anticorrupcion/1003743972908_0.html",
+        "date": "2025-10-17 00:39:53",
+        "sentiment_score": -0.1390153020620346
+    },
+    {
+        "title": "Cuánto vale una vida: 1.600 millones por 'salvar' hasta 5.500 cánceres de pulmón al año, según un informe español",
+        "image_url": "https://s2.elespanol.com/2025/10/16/actualidad/1003743972974_259407232_1706x960.jpg",
+        "tags": [
+            "cáncer de pulmón",
+            "neumología",
+            "salud",
+            "cáncer"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20251017/vale-vida-millones-salvar-canceres-pulmon-ano-informe-espanol/1003743972768_0.html",
+        "date": "2025-10-17 00:39:53",
+        "sentiment_score": -0.7773150112479925
+    },
+    {
+        "title": "El Constitucional, los indultos generales y la autoamnistía",
+        "image_url": "https://s2.elespanol.com/2025/10/08/actualidad/1003743961236_259257800_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "tribunas",
+            "tribunal constitucional",
+            "proceso soberanista",
+            "opinión",
+            "tribunas de opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20251017/constitucional-indultos-generales-autoamnistia/1003743970789_12.html",
+        "date": "2025-10-17 00:15:16",
+        "sentiment_score": -0.3342684954404831
+    },
+    {
+        "title": "El Ejército de Tierra recibe los 11 primeros 8x8 Dragón de zapadores para someterlos a las pruebas operativas",
+        "image_url": "https://s2.elespanol.com/2025/10/16/actualidad/1003743972797_259404921_1706x960.jpg",
+        "tags": [
+            "observatorio de la defensa",
+            "indra",
+            "ejército de tierra"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20251017/ejercito-tierra-recibe-primeros-dragon-zapadores-someterlos-pruebas-operativas/1003743972691_0.html",
+        "date": "2025-10-17 00:13:13",
+        "sentiment_score": -0.5582916662096977
+    },
+    {
+        "title": "«Unir sanidad y justicia siempre fue mi sueño»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3519451.jpg",
+        "tags": [
+            "sanidad",
+            "padilla",
+            "derecho",
+            "vivir en menorca"
+        ],
+        "link": "https://www.menorca.info/menorca/vivir-menorca/2025/10/17/2492821/unir-sanidad-justicia-siempre-fue-sueno.html",
+        "date": "2025-10-17 01:59:01",
+        "sentiment_score": 0.16056551039218903
+    },
+    {
+        "title": "“Peru Uncovered” genera más de US$ 5.9 millones en oportunidades de negocio y consolida la presencia del país en Europa",
+        "image_url": "https://www.infobae.com/resizer/v2/4ETDERWGBVB73GS5RXQWJMZ4AE.png?auth=52c9a42d77d2fa00089e4efa7115bca6c91b5029ce9ccf98ce219c94d4d53bb4&height=1080&smart=true&width=1920",
+        "tags": [
+            "europa",
+            "peru-economia",
+            "peru uncovered",
+            "promperú"
+        ],
+        "link": "https://www.infobae.com/peru/2025/10/17/peru-uncovered-genera-mas-de-us-59-millones-en-oportunidades-de-negocio-y-consolida-la-presencia-del-pais-en-europa/",
+        "date": "2025-10-17 01:52:50",
+        "sentiment_score": 0.17780280113220215
+    },
+    {
+        "title": "MegaPark, entre los mejores locales de ocio nocturno del mundo",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3518995.jpg",
+        "tags": [
+            "tendencias",
+            "sociedad",
+            "megapark",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/10/17/2492619/megapark-entre-mejores-locales-ocio-nocturno-del-mundo.html",
+        "date": "2025-10-17 01:48:01",
+        "sentiment_score": 0.7153127789497375
+    },
+    {
+        "title": "Cuando la infancia sonaba a Rósza",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "infancia",
+            "rosza",
+            "sonaba"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/infancia-sonaba-rosza_0_2005026543.html",
+        "date": "2025-10-17 01:09:04",
+        "sentiment_score": -0.1520446091890335
+    },
+    {
+        "title": "Los Mossos investigan como posible homicidio la muerte del fundador de Mango Isak Andic",
+        "image_url": "https://s2.elespanol.com/2024/12/14/invertia/empresas/908669386_251687924_1706x960.png",
+        "tags": [
+            "reportajes",
+            "mango (marca de moda)",
+            "sucesos",
+            "empresarios"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251017/mossos-investigan-posible-homicidio-muerte-fundador-mango-isak-andic/1003743973150_0.html",
+        "date": "2025-10-17 00:40:06",
+        "sentiment_score": -0.6006399411708117
+    },
+    {
+        "title": "Descubren un poema oculto en Montserrat que revela secretos inéditos sobre la figura de Colón",
+        "image_url": "https://www.infobae.com/resizer/v2/6GX43ZKPZBEAZNBQGWIB4JHNRA.jpg?auth=4d2b075aa3e4abba24d2a8cc793c44fa6ee538d2358fb4d18bb3fcc309fcff92&height=1013&smart=true&width=2048",
+        "tags": [
+            "francisco botelho de moraes e vasconcelos",
+            "cristóbal colón",
+            "literatura barroca española",
+            "manuscrito inédito",
+            "newsroom bue",
+            "biblioteca de la abadía de montserrat"
+        ],
+        "link": "https://www.infobae.com/cultura/2025/10/17/descubren-un-poema-oculto-en-montserrat-que-revela-secretos-ineditos-sobre-la-figura-de-colon/",
+        "date": "2025-10-17 00:21:06",
+        "sentiment_score": 0.10078538954257965
+    },
+    {
+        "title": "Morante de la Puebla, o el olvido del cuerpo",
+        "image_url": "https://s2.elespanol.com/2025/10/15/actualidad/1003743971092_259383897_1706x960.jpg",
+        "tags": [
+            "tribunas",
+            "tauromaquia",
+            "toros",
+            "morante de la puebla",
+            "opinión",
+            "tribunas de opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20251017/morante-puebla-olvido-cuerpo/1003743971078_12.html",
+        "date": "2025-10-17 00:14:54",
+        "sentiment_score": -0.8182583674788475
+    },
+    {
+        "title": "Bimedica, de la farmacia familiar a campeón oculto industrial",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/11/68eab47679dc1.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251017/11149584/bimedica-farmacia-familiar-campeon-oculto-industrial.html",
+        "date": "2025-10-17 00:00:00",
+        "sentiment_score": 0.5355573445558548
+    },
+    {
+        "title": "Chicago marca la pauta: la orden judicial que busca regular los abusos de autoridad del ICE",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760661003964.jpg?ch=675&cw=1200",
+        "tags": [
+            "chicago",
+            "sara ellis",
+            "ice"
+        ],
+        "link": "https://2001online.com/usa/servicios/chicago-marca-la-pauta-la-orden-judicial-que-busca-regular-los-abusos-de-autoridad-del-ice-2025101622150",
+        "date": "2025-10-17 02:15:00",
+        "sentiment_score": -0.7281623557209969
+    },
+    {
+        "title": "¿Ojeras? Experta maquilladora explica dónde debes aplicar el corrector",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760456389254.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/ojeras-experta-maquilladora-explica-donde-debes-aplicar-el-corrector-202510162200",
+        "date": "2025-10-17 02:00:00",
+        "sentiment_score": -0.7976306416094303
+    },
+    {
+        "title": "ICE al acecho: detienen a un indocumentado que era parte de la Policía de Chicago",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "ice",
+            "chicago",
+            "indocumentado"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ice-al-acecho-detienen-a-un-indocumentado-que-era-parte-de-la-policia-de-chicago-202510162200",
+        "date": "2025-10-17 02:00:00",
+        "sentiment_score": -0.8498914446681738
+    },
+    {
+        "title": "¡Es la segunda! Miss Persia se retira del Miss Universo 2025: esto se sabe",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "tailandia",
+            "miss persia",
+            "miss universo"
+        ],
+        "link": "https://2001online.com/farandula/es-la-segunda-miss-persia-se-retira-del-miss-universo-2025-esto-se-sabe-2025101621230",
+        "date": "2025-10-17 01:23:00",
+        "sentiment_score": -0.7572712926194072
+    },
+    {
+        "title": "José Gregorio Hernández, “el doctor santo”, en tierras colombianas",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760628052072.jpg?ch=675&cw=1200",
+        "tags": [
+            "joségregoriohernández",
+            "colombia",
+            "santo"
+        ],
+        "link": "https://2001online.com/comunidad/jose-gregorio-hernandez-el-doctor-santo-en-tierras-colombianas-202510162100",
+        "date": "2025-10-17 01:00:00",
+        "sentiment_score": 0.3044952228665352
+    },
+    {
+        "title": "Maduro responde a medios de EEUU: El alto mando político-militar de Venezuela está más unido y resteado",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "delcy rodríguez",
+            "diario 2001",
+            "eeuu",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-responde-a-medios-de-eeuu-el-alto-mando-politico-militar-de-venezuela-esta-mas-unido-y-resteado-2025101620220",
+        "date": "2025-10-17 00:22:00",
+        "sentiment_score": -0.825774671509862
+    },
+    {
+        "title": "Familia de la actriz Diane Keaton revela la causa de su muerte: conoce los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "luto",
+            "diane keaton",
+            "actriz"
+        ],
+        "link": "https://2001online.com/farandula/familia-de-la-actriz-diane-keaton-revela-la-causa-de-su-muerte-conoce-los-detalles-2025101620200",
+        "date": "2025-10-17 00:20:00",
+        "sentiment_score": 0.3750908225774765
+    },
+    {
+        "title": "Servicio postal de EEUU ajusta sus tarifas para la temporada navideña: enviar regalos será más costoso",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760636002775.jpg?ch=675&cw=1200",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/servicio-postal-de-eeuu-ajusta-sus-tarifas-para-la-temporada-navidena-enviar-regalos-sera-mas-costoso-2025101620150",
+        "date": "2025-10-17 00:15:00",
+        "sentiment_score": -0.4864692948758602
+    },
+    {
+        "title": "No lo consuma: ordenan retiro de este arroz por grave riesgo de contaminación con piedras y parásitos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760659101867.jpg?ch=675&cw=1200",
+        "tags": [
+            "fda",
+            "ben's original",
+            "arroz ben's original"
+        ],
+        "link": "https://2001online.com/usa/servicios/no-lo-consuma-ordenan-retiro-de-este-arroz-por-grave-riesgo-de-contaminacion-con-piedras-y-parasitos-2025101620130",
+        "date": "2025-10-17 00:13:00",
+        "sentiment_score": 0.0796319767832756
+    },
+    {
+        "title": "Y no es precisamente en la nevera: experto sorprende con truco milagroso para conservar por más tiempo los tomates",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760641769390.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/y-no-es-precisamente-en-la-nevera-experto-sorprende-con-truco-milagroso-para-conservar-por-mas-tiempo-los-tomates-202510162000",
+        "date": "2025-10-17 00:00:00",
+        "sentiment_score": -0.14663099497556686
     }
 ];
