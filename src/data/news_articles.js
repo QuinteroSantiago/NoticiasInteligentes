@@ -165,89 +165,6 @@ export default [
         "sentiment_score": 0.010756224393844604
     },
     {
-        "title": "Andry Nirina Rajoelina, el presidente a la fuga tras las protestas juveniles y el golpe 'suave' de los militares",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/14/Rajoelina.jpg",
-        "tags": [
-            "madagascar",
-            "política",
-            "jóvenes",
-            "mozambique",
-            "manifestaciones",
-            "africa"
-        ],
-        "link": "https://www.abc.es/internacional/andry-nirina-rajoelina-presidente-fuga-tras-protestas-20251014161131-nt.html",
-        "date": "2025-10-14 14:11:31",
-        "sentiment_score": -0.023694664239883423
-    },
-    {
-        "title": "El juez envía a juicio al hermano de Puig y le pide 150.000 euros de fianza",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/14/francis-puig-RMMif5TTAlFpF90QeN6p2ZK-1200x840@diario_abc.jpg",
-        "tags": [
-            "valencia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/juez-envia-juicio-hermano-puig-pide-150000-20251014154534-nt.html",
-        "date": "2025-10-14 13:45:34",
-        "sentiment_score": -0.13121110200881958
-    },
-    {
-        "title": "El Gobierno no responde a la oferta de Ryanair de elevar un 40% el tráfico de pasajeros si rebaja tasas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/10/14/ryanair-hoteleros-alicante-RctN6RTvtn4OZ5T0O5BNN1M-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "valencia"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/gobierno-responde-oferta-ryanair-elevar-trafico-pasajeros-20251014144318-nt.html",
-        "date": "2025-10-14 12:43:19",
-        "sentiment_score": 0.007365554571151733
-    },
-    {
-        "title": "El Sevilla alcanza los 56.000 socios",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2025/10/14/1501573592-RRa7hBTvpumcjT2G6YGrivM-1200x840@diario_abc.jpg",
-        "tags": [
-            "deportes",
-            "noticias del sevilla fc",
-            "orgullo de nervion"
-        ],
-        "link": "https://www.abc.es/deportes/orgullodenervion/noticias-sevilla-fc/sevilla-alcanza-56000-socios-20251014143146-nts.html",
-        "date": "2025-10-14 12:31:46",
-        "sentiment_score": -0.08583390712738037
-    },
-    {
-        "title": "Fabrican estructuras similares a embriones que producen células sanguíneas",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/10/14/2.Day4hematoids..jpg",
-        "tags": [
-            "leucemia",
-            "cambridge (eeuu)",
-            "medicina"
-        ],
-        "link": "https://www.abc.es/salud/enfermedades/fabrican-estructuras-similares-embriones-producen-celulas-sanguineas-20251014142858-nt.html",
-        "date": "2025-10-14 12:29:23",
-        "sentiment_score": -0.035058408975601196
-    },
-    {
-        "title": "El árbitro cesado por insultar a Klopp se declara culpable por una foto «indecente» a un menor",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2025/10/14/david-coote-arbitro-RW3ydxhQqZBUf4dYptVIkOM-1200x840@diario_abc.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.abc.es/deportes/futbol/arbitro-cesado-insultar-klopp-declara-culpable-foto-20251014133320-nt.html",
-        "date": "2025-10-14 11:33:21",
-        "sentiment_score": -0.16143013536930084
-    },
-    {
-        "title": "El Sescam llama a la vacunación de la gripe por su eficacia: reduce infecciones respiratorias e ingresos hospitalarios",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/14/vacuna-Rbq0EJ03RaXcx9ucbtjqLYP-1200x840@diario_abc.jpg",
-        "tags": [
-            "castilla la mancha",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/sescam-llama-vacunacion-gripe-eficacia-reduce-infecciones-20251014132822-nt.html",
-        "date": "2025-10-14 11:28:22",
-        "sentiment_score": -0.08676421642303467
-    },
-    {
         "title": "Ferran Torrent renuncia al Premi de les Lletres Valencianes por la deriva “cada vez menos respetuosa” con el valenciano de la Generalitat",
         "image_url": "https://imagenes.elpais.com/resizer/v2/M4B6W6TDGTJ55LDXJZNSET4FNA.jpg?auth=5f20e2ea9d6a436de272e1345635ae63c78df900cca01696ef6e8b4026eca864&width=1200",
         "tags": [
@@ -369,68 +286,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-14/un-juzgado-abre-juicio-oral-contra-un-hermano-del-expresidente-ximo-puig-por-el-cobro-de-ayudas-al-valenciano.html",
         "date": "2025-10-14 14:32:55",
         "sentiment_score": -0.8811646196991205
-    },
-    {
-        "title": "El Congreso rechaza la queja de un diputado del PP por interrumpir su luna de miel para votar",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UHJAMWPJ6HHDNQ7AH5PQSBXKM4.jpg?auth=ad3c931675e01650337e762ad0348b9fcc75c875c02b72c330ec8751aa5ad7cc&width=1200",
-        "tags": [
-            "pp",
-            "viajes",
-            "congreso diputados",
-            "partidos políticos",
-            "francina armengol",
-            "reglamento congreso",
-            "partidos conservadores",
-            "cortes generales",
-            "españa",
-            "votaciones",
-            "psoe",
-            "mesa congreso",
-            "votación parlamentaria",
-            "gobierno"
-        ],
-        "link": "https://elpais.com/espana/2025-10-14/el-congreso-rechaza-la-queja-de-un-diputado-del-pp-por-interrumpir-su-luna-de-miel-para-votar.html",
-        "date": "2025-10-14 13:49:32",
-        "sentiment_score": -0.7055572234094143
-    },
-    {
-        "title": "La Comunidad de Madrid lleva a los colegios un taller sobre el pasado y el presente de ETA: “Bildu ha cambiado las bombas por los trajes”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/N35B6KH5FREN7DNRKRMUWP227M.jpg?auth=427130dd29af3fe16c78c96606d68ac36d3506b485197e79056be9c501180297&width=1200",
-        "tags": [
-            "estudiantes",
-            "colegios públicos",
-            "madrid",
-            "víctimas terrorismo",
-            "educación",
-            "comunidad de madrid",
-            "historia",
-            "política educativa",
-            "eta",
-            "familia",
-            "bildu",
-            "asociaciones",
-            "adolescencia"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-10-14/la-comunidad-de-madrid-lleva-a-los-colegios-un-taller-sobre-el-pasado-y-el-presente-de-eta-bildu-ha-cambiado-los-trajes-por-las-bombas.html",
-        "date": "2025-10-14 13:33:56",
-        "sentiment_score": 0.5245542079210281
-    },
-    {
-        "title": "El Poder Judicial expedienta al juez Eloy Velasco por sus críticas a Irene Montero",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DRFVQDUKIFBVFP7BI67UAPL5JI.jpg?auth=72fdb55c5248abcfe2387cd4da16c3335bc770949a5f2c8e9ddbaea6d7dec355&width=1200",
-        "tags": [
-            "ministerio de igualdad",
-            "españa",
-            "audiencia nacional",
-            "irene montero",
-            "expediente sancionador",
-            "jueces",
-            "cgpj",
-            "eloy velasco"
-        ],
-        "link": "https://elpais.com/espana/2025-10-14/el-poder-judicial-expedienta-al-juez-eloy-velasco-por-sus-criticas-a-irene-montero.html",
-        "date": "2025-10-14 13:21:12",
-        "sentiment_score": -0.6222855783998966
     },
     {
         "title": "Essity impulsa una alianza para garantizar una higiene inclusiva en aseos públicos",
@@ -9195,5 +9050,457 @@ export default [
         "link": "https://2001online.com/sucesos/adolescente-es-lanzada-desde-un-tercer-piso-en-anzoategui-cicpc-aclara-los-motivos-y-el-movil-2025101716590",
         "date": "2025-10-17 20:59:00",
         "sentiment_score": -0.4652053155004978
+    },
+    {
+        "title": "Temperaturas en Barcelona: prepárate antes de salir de casa",
+        "image_url": "https://www.infobae.com/resizer/v2/AFNDJ3CO2RBVJOF6AAC7OLOTA4.png?auth=2346cbeea8e39aa6928757e5e7827fc3a012dac52fdaa7234769e4235366c0f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/18/temperaturas-en-barcelona-preparate-antes-de-salir-de-casa/",
+        "date": "2025-10-18 02:04:38",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Adiós a la incertidumbre, conoce las condiciones climáticas en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "madrid",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/18/adios-a-la-incertidumbre-conoce-las-condiciones-climaticas-en-madrid/",
+        "date": "2025-10-18 02:04:20",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Top de Netflix en España: Estas son las películas más vistas en la plataforma",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-televisión",
+            "noticias",
+            "películas",
+            "netflix",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/17/top-de-netflix-en-espana-estas-son-las-peliculas-mas-vistas-en-la-plataforma/",
+        "date": "2025-10-17 23:31:21",
+        "sentiment_score": -0.42544661462306976
+    },
+    {
+        "title": "Las películas de Prime Video en España para engancharse este día",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-televisión",
+            "noticias",
+            "películas",
+            "prime video",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/10/17/las-peliculas-de-prime-video-en-espana-para-engancharse-este-dia/",
+        "date": "2025-10-17 23:30:59",
+        "sentiment_score": 0.5203738547861576
+    },
+    {
+        "title": "‘El Pacto’, el libro que puso a Sigfrido Ranucci en el punto de mira: el caso de Luigi Ilardo, un capo infiltrado que reveló pactos entre la mafia y el Estado y fue asesinado días antes de declarar",
+        "image_url": "https://www.infobae.com/resizer/v2/42MCBZMLIVCPXONJOZFOR42D4Q.jpg?auth=3ec58968e42f12a504ce3b0690d43eac46864516663202a575c8f864194bbc62&height=1080&smart=true&width=1920",
+        "tags": [
+            "internacional",
+            "cosa nostra",
+            "españa-sociedad",
+            "mafia",
+            "coche bomba",
+            "italia",
+            "mafia italiana",
+            "sigfrido ranucci",
+            "explosivos",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/17/el-pacto-el-libro-que-puso-a-sigfrido-ranucci-en-el-punto-de-mira-el-caso-de-luigi-ilardo-un-capo-infiltrado-que-revelo-pactos-entre-la-mafia-y-el-estado-y-fue-asesinado-dias-antes-de-declarar/",
+        "date": "2025-10-17 23:16:08",
+        "sentiment_score": -0.904009030200541
+    },
+    {
+        "title": "El periodista italiano Sigfrido Ranucci, objetivo de un atentado con coche bomba tras años investigando a la mafia Cosa Nostra",
+        "image_url": "https://www.infobae.com/resizer/v2/27E2IXYA4ZCLZOTPCBH2L5MB5E.jpg?auth=c351c83d0d2fb0a077adfa3988de4b8d7a03f4a173675a109f021c21409cbe33&height=1918&smart=true&width=2877",
+        "tags": [
+            "explosivos",
+            "españa-noticias",
+            "italia",
+            "internacional",
+            "mafia italiana",
+            "mafia",
+            "cosa nostra",
+            "coche bomba",
+            "españa-sociedad",
+            "sigfrido ranucci"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/17/el-periodista-italiano-sigfrido-ranucci-objetivo-de-un-atentado-con-coche-bomba-tras-anos-investigando-a-la-mafia-cosa-nostra/",
+        "date": "2025-10-17 22:18:54",
+        "sentiment_score": -0.48936234042048454
+    },
+    {
+        "title": "Agenda: qué hacer en Asturias hoy sábado 18 de octubre",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ba02d137-8299-4975-9cc2-ce9b43d35b64_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "exposición",
+            "teatro",
+            "música",
+            "plaza"
+        ],
+        "link": "https://www.lne.es/sociedad/2025/10/18/agenda-asturias-hoy-sabado-18-122743578.html",
+        "date": "2025-10-18 02:09:00",
+        "sentiment_score": 0.012365877628326416
+    },
+    {
+        "title": "La fortuna de Michael Schumacher: al menos 600 millones de euros y propiedades, dos de ellas en Mallorca",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3519989.jpg",
+        "tags": [
+            "audiencias-um",
+            "michael schumacher",
+            "fórmula 1",
+            "parejas de famosos",
+            "famosos en mallorca",
+            "quiosco rosa",
+            "fórmula uno",
+            "prensa rosa",
+            "ia-news"
+        ],
+        "link": "https://www.ultimahora.es/vips/quiosco-rosa/2025/10/18/2492961/fortuna-michael-schumacher-menos-600-millones-euros-propiedades-dos-ellas-mallorca.html",
+        "date": "2025-10-18 01:48:01",
+        "sentiment_score": -0.2104792296886444
+    },
+    {
+        "title": "El Gobierno se vuelca en mantener atado a Podemos y no depender del voto de Ábalos en el Congreso",
+        "image_url": "https://phantom-elmundo.uecdn.es/2d26f27a1465f2fcc979f51abd99c7e7/crop/1x7/100x107/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16528898789864.jpg",
+        "tags": [
+            "irene montero",
+            "podemos",
+            "sumar",
+            "psoe",
+            "artículos raúl piña",
+            "ione belarra",
+            "nlpremium",
+            "pablo iglesias"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/10/18/68f2793821efa0065b8b45d2.html",
+        "date": "2025-10-18 01:03:38",
+        "sentiment_score": 0.04318957030773163
+    },
+    {
+        "title": "Ángels Barceló protege a su cercano Javier Aroca en su polémico cacareo en 'Hoy por Hoy'",
+        "image_url": "https://phantom-elmundo.uecdn.es/e484243f617f62623b1413fe213e9148/crop/951x132/2146x1187/f/image/jpeg/assets/multimedia/imagenes/2025/01/28/17380597799239.jpg",
+        "tags": [
+            "loc",
+            "medios",
+            "artículos marta corbal"
+        ],
+        "link": "https://www.elmundo.es/loc/famosos/2025/10/18/68f28caf21efa0e7298b456d.html",
+        "date": "2025-10-18 01:03:37",
+        "sentiment_score": -0.8386337775737047
+    },
+    {
+        "title": "Expertos en telecomunicaciones defienden políticas de regulación adaptadas a los tiempos",
+        "image_url": "https://eltiempolatino.com/content/images/2025/10/Expertos-en-telecomunicaciones-defienden-pol--ticas-de-regulaci--n-adaptadas-a-los-tiempos--1-.jpg",
+        "tags": [
+            "tecnología"
+        ],
+        "link": "https://eltiempolatino.com/2025/10/18/tecnologia/expertos-en-telecomunicaciones-defienden-politicas-de-regulacion-adaptadas-a-los-tiempos/",
+        "date": "2025-10-18 00:43:20",
+        "sentiment_score": 0.41916441917419434
+    },
+    {
+        "title": "Presidenta BCIE resalta “el mejor momento del banco” con resultados más sólidos y altos",
+        "image_url": "https://eltiempolatino.com/content/images/2025/10/PresidentaBCIE-Gisela-S--nchez-2.jpg",
+        "tags": [
+            "economía",
+            "internacional"
+        ],
+        "link": "https://eltiempolatino.com/2025/10/18/internacional/presidenta-bcie-resalta-el-mejor-momento-del-banco-con-resultados-mas-solidos-y-altos/",
+        "date": "2025-10-18 00:38:38",
+        "sentiment_score": 0.7882229164242744
+    },
+    {
+        "title": "Blindaje antiexplosivos, mástil telescópico y sin firma térmica: así será el nuevo vehículo de inteligencia del Ejército",
+        "image_url": "https://s2.elespanol.com/2025/10/17/actualidad/1003743973946_259418499_1706x960.jpg",
+        "tags": [
+            "ministerio de defensa",
+            "industria armamentística",
+            "observatorio de la defensa",
+            "vehículos militares",
+            "ejército de tierra"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20251018/blindaje-antiexplosivos-mastil-telescopico-sin-firma-termica-nuevo-vehiculo-inteligencia-ejercito/1003743973674_0.html",
+        "date": "2025-10-18 00:34:01",
+        "sentiment_score": 0.27181692980229855
+    },
+    {
+        "title": "Mapi León, la cabecilla de 'Las 15 rebeldes': Sonia Bermúdez frena la regeneración de España y recupera a la vieja guardia",
+        "image_url": "https://s2.elespanol.com/2025/10/17/actualidad/1003743974094_259420295_1706x960.jpg",
+        "tags": [
+            "selección española de fútbol femenino",
+            "fútbol",
+            "fútbol femenino"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251018/mapi-leon-cabecilla-rebeldes-sonia-bermudez-frena-regeneracion-espana-recupera-vieja-guardia/1003743973906_0.html",
+        "date": "2025-10-18 00:33:59",
+        "sentiment_score": 0.21001982688903809
+    },
+    {
+        "title": "Nicolás Olea, catedrático: \"Hay gente asustada de la microbiota cuando lo que tiene es el tubo digestivo tapizado de plásticos\"",
+        "image_url": "https://s2.elespanol.com/2025/10/16/actualidad/1003743972746_259404222_1706x960.jpg",
+        "tags": [
+            "cáncer de colon y recto",
+            "cáncer de mama",
+            "intoxicaciones alimenticias",
+            "química",
+            "ciencia"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20251018/nicolas-olea-catedratico-gente-asustada-microbiota-tubo-digestivo-tapizado-plasticos/1003743972531_0.html",
+        "date": "2025-10-18 00:33:55",
+        "sentiment_score": -0.4489326998591423
+    },
+    {
+        "title": "Kinga Gál: «El modelo de Bruselas castiga siempre a los mismos: agricultores, pequeños empresarios e industria»",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/10/1_Kinga-Gal-2.jpg",
+        "tags": [
+            "hungría",
+            "bruselas",
+            "partido popular",
+            "patriotas por europa",
+            "pacto verde",
+            "entrevistas"
+        ],
+        "link": "https://gaceta.es/entrevista/kinga-gal-el-modelo-de-bruselas-castiga-siempre-a-los-mismos-agricultores-pequenos-empresarios-e-industria-20251018-0157/",
+        "date": "2025-10-17 23:57:11",
+        "sentiment_score": -0.8621512353420258
+    },
+    {
+        "title": "Pasión y gratitud en la voz de José Bros",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "ópera",
+            "barcelona",
+            "público",
+            "asturianos"
+        ],
+        "link": "https://www.lne.es/oviedo/opinion/2025/10/18/pasion-gratitud-voz-jose-bros-122744009.html",
+        "date": "2025-10-18 02:00:39",
+        "sentiment_score": 0.12959572672843933
+    },
+    {
+        "title": "«El edadismo es la segunda discriminación más importante en España después de la de género»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3520893.jpg",
+        "tags": [
+            "última hora",
+            "palma",
+            "ultimas noticias",
+            "laura rosillo",
+            "discriminación",
+            "palma de mallorca",
+            "local",
+            "senior",
+            "personas mayores",
+            "edad"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/10/18/2493437/edadismo-segunda-discriminacion-mas-importante-espana-despues-genero.html",
+        "date": "2025-10-18 01:48:01",
+        "sentiment_score": -0.07628300786018372
+    },
+    {
+        "title": "Sabadell celebra la victoria y agradece el apoyo social",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/10/17/68f275554ae6f.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/251018/2063203/sabadell-celebra-victoria-agradece-apoyo-social-144-anos-historia.html",
+        "date": "2025-10-18 01:30:00",
+        "sentiment_score": -0.5616514012217522
+    },
+    {
+        "title": "Deportes | Plante de jugadores en el Elche CF-Athletic Club contra el FC Barcelona-Villarreal CF 'de' Miami",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1693824.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/plante-de-jugadores-en-el-elche-cf-athletic-club-contra-el-fc-barcelona-villarreal-cf-de-miami",
+        "date": "2025-10-18 01:00:57",
+        "sentiment_score": 0.006444431841373444
+    },
+    {
+        "title": "Deportes | Plante de jugadores en el Elche CF-Athletic Club contra el Villarreal CF-FC Barcelona 'de' Miami",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1693824.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/plante-de-jugadores-en-el-elche-cf-athletic-club-contra-el-villarreal-cf-fc-barcelona-de-miami",
+        "date": "2025-10-18 01:00:57",
+        "sentiment_score": 0.016669370234012604
+    },
+    {
+        "title": "El teatro alternativo explora la anarquía de ayer y la incertidumbre de hoy",
+        "image_url": "https://s2.elespanol.com/2025/10/16/actualidad/1003743971942_259393770_1706x960.jpg",
+        "tags": [
+            "teatro",
+            "cuarta pared",
+            "teatro del barrio"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/teatro/20251018/teatro-alternativo-explora-anarquia-ayer-incertidumbre-hoy/1003743971841_0.html",
+        "date": "2025-10-18 00:00:00",
+        "sentiment_score": 0.15107588469982147
+    },
+    {
+        "title": "La Oreja de Van Gogh incluye Santander en su gira",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/10/17/109502161-kb5F--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "incluye",
+            "van",
+            "oreja",
+            "gira",
+            "santander",
+            "gogh"
+        ],
+        "link": "https://www.eldiariomontanes.es/dmusica/oreja-van-gogh-incluye-santander-gira-20251018072916-nt.html",
+        "date": "2025-10-18 00:00:00",
+        "sentiment_score": 0.14377062767744064
+    },
+    {
+        "title": "Barcelona obligado a sorprender en el siguiente once titular en LaLiga",
+        "image_url": "https://pxcdn.meridiano.net/102025/1760744887793.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-obligado-a-sorprender-en-el-siguiente-once-titular-en-laliga-2025101719480",
+        "date": "2025-10-17 23:48:00",
+        "sentiment_score": 0.6065487489104271
+    },
+    {
+        "title": "Vigilia en Chacao: sigue la transmisión en vivo del Vaticano en estos dos puntos de encuentro",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760753044678.jpg?ch=675&cw=1200",
+        "tags": [
+            "santos venezolanos",
+            "vaticano",
+            "canonización de madre carmen rendiles",
+            "canonización de josé gregorio hernández"
+        ],
+        "link": "https://2001online.com/comunidad/vigilia-en-chacao-sigue-la-transmision-en-vivo-del-vaticano-en-estos-dos-puntos-de-encuentro-202510172250",
+        "date": "2025-10-18 02:05:00",
+        "sentiment_score": 0.22381022945046425
+    },
+    {
+        "title": "California entrega ayuda a familias con estos requisitos: tome nota del monto y cuánto puede recibir",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "familias",
+            "california",
+            "programa"
+        ],
+        "link": "https://2001online.com/usa/servicios/california-entrega-ayuda-a-familias-con-estos-requisitos-tome-nota-del-monto-y-cuanto-puede-recibir--202510172200",
+        "date": "2025-10-18 02:00:00",
+        "sentiment_score": -0.22459469735622406
+    },
+    {
+        "title": "Fractura por osteoporosis: la internista Andrea Odreman da las claves para prevenir y aliviar el dolor",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760640710094.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/fractura-por-osteoporosis-la-internista-andrea-odreman-da-las-claves-para-prevenir-y-aliviar-el-dolor-202510172200",
+        "date": "2025-10-18 02:00:00",
+        "sentiment_score": 0.4104156792163849
+    },
+    {
+        "title": "¿Qué ocurre en Bogotá? Indígenas hieren con flechas a policías durante manifestación",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "indígenas",
+            "congreso de los pueblos",
+            "embajada de eeuu",
+            "gustavo petro",
+            "flechas",
+            "protestas",
+            "bogotá"
+        ],
+        "link": "https://2001online.com/internacionales/que-ocurre-en-bogota-indigenas-hieren-con-flechas-a-policias-durante-manifestacion-2025101721180",
+        "date": "2025-10-18 01:18:00",
+        "sentiment_score": -0.6616448685526848
+    },
+    {
+        "title": "De migrante a socia de McDonald's: La historia de la venezolana que triunfa en Dallas",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760750098525.jpg?ch=675&cw=1200",
+        "tags": [
+            "mcdonald's",
+            "#venezolana"
+        ],
+        "link": "https://2001online.com/curiosidades/de-migrante-a-socia-de-mcdonald-s-la-historia-de-la-venezolana-que-triunfa-en-dallas-2025101721170",
+        "date": "2025-10-18 01:17:00",
+        "sentiment_score": 0.487336914986372
+    },
+    {
+        "title": "Declaración Sucesoral ante el Seniat: plazo y requisitos para formalizar la transmisión de bienes por fallecimiento",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "diario 2001",
+            "herederos",
+            "seniat",
+            "venezuela",
+            "fallecimiento",
+            "bienes"
+        ],
+        "link": "https://2001online.com/servicios/declaracion-sucesoral-ante-el-seniat-plazo-y-requisitos-para-formalizar-la-transmision-de-bienes-por-fallecimiento-2025101721130",
+        "date": "2025-10-18 01:13:00",
+        "sentiment_score": 0.050664983689785004
+    },
+    {
+        "title": "Cuando la devoción se convierte en arte: obras que celebran la santidad de José Gregorio Hernández",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760685589449/images%20(24).jpeg?ch=675&cw=1200",
+        "tags": [
+            "talento y devoción venezolana",
+            "jgh: obras de arte"
+        ],
+        "link": "https://2001online.com/jgh-obras-de-arte/cuando-la-devocion-se-convierte-en-arte-obras-que-celebran-la-santidad-de-jose-gregorio-hernandez-202510172100",
+        "date": "2025-10-18 01:00:00",
+        "sentiment_score": 0.5545395910739899
+    },
+    {
+        "title": "Despensa de alimentos gratis en Florida: este es el calendario para este fin de semana",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "comida",
+            "florida",
+            "despensa"
+        ],
+        "link": "https://2001online.com/usa/servicios/despensa-de-alimentos-gratis-en-florida-este-es-el-calendario-para-este-fin-de-semana-202510172100",
+        "date": "2025-10-18 01:00:00",
+        "sentiment_score": 0.19388988614082336
+    },
+    {
+        "title": "¿Tienes anemia? Este es el jugo natural que posee alto contenido de hierro y vitaminas para aumentar la producción de glóbulos rojos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760746389341.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/tienes-anemia-este-es-el-jugo-natural-que-posee-alto-contenido-de-hierro-y-vitaminas-para-aumentar-la-produccion-de-globulos-rojos-2025101720200",
+        "date": "2025-10-18 00:20:00",
+        "sentiment_score": -0.8347156010568142
+    },
+    {
+        "title": "Venezolanos con TPS: descubre el método exacto que te permite verificar el estatus de tu caso en USCIS",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760746902917.jpg?ch=675&cw=1200",
+        "tags": [
+            "tps",
+            "verificar caso",
+            "venezolanos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/venezolanos-con-tps-descubre-el-metodo-exacto-que-te-permite-verificar-el-estatus-de-tu-caso-en-uscis-2025101720170",
+        "date": "2025-10-18 00:17:00",
+        "sentiment_score": 0.07381918653845787
     }
 ];
