@@ -177,81 +177,6 @@ export default [
         "sentiment_score": 0.1013961136341095
     },
     {
-        "title": "El oro supera por primera vez los 4.200 dólares tan solo dos días después de perforar la barrera de los 4.100",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/10/15/1476056597-kLa-U701757265855JDI-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/oro-supera-primera-vez-4200-dolares-solo-20251015145815-nt.html",
-        "date": "2025-10-15 12:58:16",
-        "sentiment_score": -0.17285245656967163
-    },
-    {
-        "title": "La Autoridad Palestina condena las ejecuciones «extrajudiciales» llevadas a cabo por Hamás, que busca recuperar el control de Gaza",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/10/15/1501891123-kgRF-U701756903241UiG-1200x840@diario_abc.jpg",
-        "tags": [
-            "israel",
-            "hamás",
-            "gaza",
-            "uh abc",
-            "palestina"
-        ],
-        "link": "https://www.abc.es/internacional/autoridad-palestina-condena-ejecuciones-extrajudiciales-llevadas-cabo-20251015140317-nt.html",
-        "date": "2025-10-15 12:04:16",
-        "sentiment_score": -0.09568476676940918
-    },
-    {
-        "title": "Condenado a cuatro años de cárcel un juez en excedencia por estafar 850.000 euros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/15/DAMBin_20251015131142-RHdZdA6WLiGW7X28vFXpFzN-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "cataluña"
-        ],
-        "link": "https://www.abc.es/espana/cataluna/condenado-cuatro-anos-carcel-juez-excedencia-estafar-20251015131236-nt.html",
-        "date": "2025-10-15 11:12:37",
-        "sentiment_score": -0.2137986421585083
-    },
-    {
-        "title": "Multan con 96.000 euros al festival Brava por impedir el pago en efectivo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/15/brava-RslclI8U78emZgOmhUlEIWN-1200x840@diario_abc.PNG",
-        "tags": [
-            "madrid",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/madrid/multan-96000-euros-festival-brava-impedir-pago-20251015125711-nt.html",
-        "date": "2025-10-15 10:58:36",
-        "sentiment_score": -0.1880521923303604
-    },
-    {
-        "title": "Detenida por estafar 22.000 euros con tasas y multas a un cliente de un estudio de arquitectura",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/15/investigacion-torrent-R3GHakjZazUmGdAiZM3w7GI-1200x840@diario_abc.jpg",
-        "tags": [
-            "valencia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/detenida-estafar-22000-euros-tasas-multas-cliente-20251015123409-nt.html",
-        "date": "2025-10-15 10:34:10",
-        "sentiment_score": -0.20021647214889526
-    },
-    {
-        "title": "Sarah Santaolalla cobró 18.500 euros de TVE por sus intervenciones entre mayo y agosto",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/play/2025/10/15/srah-ROdxNw1z1F2zIu6bUwM4rPP-1200x840@diario_abc.jpg",
-        "tags": [
-            "mayo",
-            "cobro",
-            "18500",
-            "euros",
-            "agosto",
-            "santaolalla",
-            "intervenciones",
-            "sarah",
-            "tve"
-        ],
-        "link": "https://www.abc.es/play/television/noticias/sarah-santaolalla-cobro-18500-euros-tve-intervenciones-20251015120647-nt.html",
-        "date": "2025-10-15 10:22:51",
-        "sentiment_score": -0.1885664314031601
-    },
-    {
         "title": "Una estudiante a la que prohíben llevar velo islámico en un instituto de Logroño presenta 11.000 firmas de protesta",
         "image_url": "https://imagenes.elpais.com/resizer/v2/7S3S4ZXSWJGA5OIG44SC7J7LHU.jpg?auth=69db2d68f398fc5d12a5f4df9748c670f652e42f894f151d837fab23452256b4&width=1200",
         "tags": [
@@ -289,156 +214,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-15/la-universitat-politecnica-de-valencia-inaugura-en-china-el-primer-campus-espanol-con-docencia-oficial-en-el-extranjero.html",
         "date": "2025-10-15 14:52:37",
         "sentiment_score": 0.47634508088231087
-    },
-    {
-        "title": "Una nueva senda ciclopeatonal permitirá recorrer el último tramo del antiguo cauce del Túria de Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QI4ED5X3PZLZJPLT4QF2YAH2ME.jpg?auth=8a195fce10bef87d2e1f71a5913d41c036dc8da9c79732cadc315e299c10969e&width=1200",
-        "tags": [
-            "parques y jardines",
-            "comunidad valenciana",
-            "urbanismo",
-            "bicicletas",
-            "maría josé catalá",
-            "valencia",
-            "ayuntamiento valencia",
-            "peatones"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-15/una-nueva-senda-ciclopeatonal-permitira-recorrer-el-ultimo-tramo-del-antiguo-cauce-del-turia-de-valencia.html",
-        "date": "2025-10-15 14:02:54",
-        "sentiment_score": 0.25600412115454674
-    },
-    {
-        "title": "Adiós a los pasillos: Óscar Puente estrena un nuevo acceso directo a alta velocidad en Chamartín desde Cercanías y Metro",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SASC62PL5JK5JFXRJ7MZJLSR4Y.jpg?auth=e325cc1c47e69d0efa5766a9e56dc1bb522d6028a16f46de6cc9697868c2243c&width=1200",
-        "tags": [
-            "óscar puente santiago",
-            "estaciones ferrocarril",
-            "madrid",
-            "comunidad de madrid",
-            "movilidad",
-            "cercanías madrid",
-            "ministerio de transportes",
-            "transporte",
-            "metro",
-            "adif",
-            "trenes"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-10-15/adios-a-los-pasillos-oscar-puente-estrena-un-nuevo-acceso-directo-a-alta-velocidad-en-chamartin-desde-cercanias-y-metro.html",
-        "date": "2025-10-15 13:46:53",
-        "sentiment_score": 0.5286295171827078
-    },
-    {
-        "title": "La Aemet “no tiene constancia” de que la Generalitat le consultara sobre los avisos a 37 dependientes que murieron en la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2VGV344QXZNXPBXEUWFHJENDNQ.jpg?auth=d02411ef3f4f87fb1aa2eeaace5cc34480a93831879e5d1e8a45a3dcdfc8ee76&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "aemet",
-            "generalitat valenciana",
-            "asistencia sanitaria",
-            "dependencia",
-            "acpv",
-            "jueces",
-            "lluvias torrenciales",
-            "acusación popular",
-            "inundaciones dana octubre 2024",
-            "inundaciones"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-15/la-aemet-no-tiene-constancia-de-que-la-generalitat-valenciana-la-consultara-sobre-los-avisos-a-37-personas-dependientes-durante-la-dana.html",
-        "date": "2025-10-15 13:27:10",
-        "sentiment_score": -0.08620818704366684
-    },
-    {
-        "title": "PP y Vox evitan respaldar al Gobierno ante la amenazas de Trump de imponer aranceles a España",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SLG2BPY2KVO2XJF2YPGJWANN6Y.jpg?auth=c45c9c74b93e78dba06a473d63a45000c8fb86391edfa44259e3a05a04ea74b7&width=1200",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-10-15/pp-y-vox-evitan-respaldar-al-gobierno-ante-la-amenazas-de-trump-de-imponer-aranceles-a-espana.html",
-        "date": "2025-10-15 13:20:47",
-        "sentiment_score": -0.831373194232583
-    },
-    {
-        "title": "El Supremo mantiene en libertad a Ábalos aunque aprecia un “creciente” riesgo de fuga",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3G5RWLWF5JG2JMMMWJ6CWLGZT4.jpg?auth=755d0e2e73e9c46ba89fe8b5fce1f253f9ad857acd557f09c6190dff6e24f954&width=1200",
-        "tags": [
-            "psoe",
-            "congreso diputados",
-            "fiscalía anticorrupción",
-            "tribunal supremo",
-            "españa",
-            "corrupción",
-            "josé luis ábalos",
-            "koldo garcía",
-            "pp",
-            "ministerio de transportes",
-            "santos cerdán"
-        ],
-        "link": "https://elpais.com/espana/2025-10-15/el-supremo-mantiene-en-libertad-a-abalos-aunque-aprecia-un-creciente-riesgo-de-fuga.html",
-        "date": "2025-10-15 13:12:42",
-        "sentiment_score": -0.2663498669862747
-    },
-    {
-        "title": "Los socialistas denuncian que 90.217 mujeres no han sido llamadas por la Generalitat para el cribado del cáncer de mama",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SLOCUWNSU5SZ6KJY72HBO5MVZU.jpg?auth=fed0e37bee5b8d6bf3ca91a7cb2c0e52eae7293c3bd625e56dad512aa247a1d3&width=1200",
-        "tags": [
-            "cáncer mama",
-            "sanidad pública",
-            "pspv-psoe",
-            "prevención enfermedades",
-            "generalitat valenciana",
-            "medicina",
-            "comunidad valenciana",
-            "sociedad"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-15/los-socialistas-denuncian-que-90217-mujeres-no-han-sido-llamadas-por-la-generalitat-para-el-cribado-del-cancer-de-mama.html",
-        "date": "2025-10-15 13:02:59",
-        "sentiment_score": -0.22074227407574654
-    },
-    {
-        "title": "La comisión de la dana en el Congreso empezará con víctimas, Mazón, Feijóo y Villaplana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RDPJEMMMZBAIDF3JUI5PZ363OA.jpg?auth=322892940582c72da0ae5c1eeacd2ec86d283adf4890e769aa54e38d0838c47d&width=1200",
-        "tags": [
-            "carlos mazón",
-            "españa",
-            "salomé pradas",
-            "sumar",
-            "cambio climático",
-            "inundaciones dana octubre 2024",
-            "pedro sánchez",
-            "comisiones investigación",
-            "barrancos",
-            "congreso diputados",
-            "alberto núñez feijóo",
-            "inundaciones",
-            "comunidad valenciana",
-            "erc",
-            "víctimas",
-            "bildu",
-            "comisiones parlamentarias",
-            "alejandro soler",
-            "psoe",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/2025-10-15/la-comision-de-la-dana-en-el-congreso-empezara-con-victimas-mazon-feijoo-y-villaplana.html",
-        "date": "2025-10-15 12:37:57",
-        "sentiment_score": 0.2989828661084175
-    },
-    {
-        "title": "Un grupo nazi vende entradas para una velada de peleas en la plaza de toros del municipio madrileño de Algete",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZHHZSKUUHJGR3JBJPIJ5EFZC5Q.jpg?auth=3f9252c16fb75e72583a746e334e92d0ae9d4ee07b33aae9981a8c239e9ab76d&width=1200",
-        "tags": [
-            "neonazis",
-            "artes marciales",
-            "madrid",
-            "comunidad de madrid",
-            "ultraderecha",
-            "fascismo",
-            "boxeo",
-            "algete"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-10-15/un-grupo-nazi-vende-entradas-para-una-velada-de-peleas-en-la-plaza-de-toros-del-municipio-madrileno-de-algete.html",
-        "date": "2025-10-15 12:07:32",
-        "sentiment_score": -0.541369603946805
     },
     {
         "title": "Disruptiva 2025; enseña las tendencias que van a transforma la hostelería española",
@@ -9065,5 +8840,438 @@ export default [
         "link": "https://2001online.com/comunidad/en-imagenes-jose-gregorio-hernandez-protagoniza-colorido-mural-en-reconocido-centro-comercial-de-caracas-2025101815450",
         "date": "2025-10-18 19:45:00",
         "sentiment_score": 0.08972208201885223
+    },
+    {
+        "title": "Clima en Barcelona: temperatura y probabilidad de lluvia para este 19 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "españa sociedad",
+            "barcelona"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/19/clima-en-barcelona-temperatura-y-probabilidad-de-lluvia-para-este-19-de-octubre/",
+        "date": "2025-10-19 02:01:46",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "¿Cómo estará el clima en Madrid?",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "madrid",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/19/como-estara-el-clima-en-madrid/",
+        "date": "2025-10-19 02:01:26",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "Escanear el iris del ojo por dinero: una práctica que ya ha sido prohibida en España y otros países",
+        "image_url": "https://www.infobae.com/resizer/v2/5OJQG247F5FRTNLWYKEDNS7FAA.jpg?auth=bc03145a7626b1b1301ee5fe4372dc40e08bead866a2591f2a910ba72896e46b&height=3000&smart=true&width=4500",
+        "tags": [
+            "escaner",
+            "ojo",
+            "prohibición",
+            "iris",
+            "sic",
+            "españa",
+            "colombia-noticias",
+            "riesgo"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/10/19/escanear-el-iris-del-ojo-por-dinero-una-practica-que-ya-ha-sido-prohibida-en-espana-y-otros-paises/",
+        "date": "2025-10-19 00:28:28",
+        "sentiment_score": -0.8722925717011094
+    },
+    {
+        "title": "Norris: \"Ya he hecho buenas carreras aquí, asi que espero poder repetirlo\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/19/norris-ya-he-hecho-buenas-carreras-aqui-asi-que-espero-poder-repetirlo/",
+        "date": "2025-10-19 00:20:06",
+        "sentiment_score": 0.8443591399118304
+    },
+    {
+        "title": "SIP entrega los Premios a la Excelencia Periodística 2025 a trabajos de América y España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/19/sip-entrega-los-premios-a-la-excelencia-periodistica-2025-a-trabajos-de-america-y-espana/",
+        "date": "2025-10-19 00:19:49",
+        "sentiment_score": 0.3685276359319687
+    },
+    {
+        "title": "Un tiempo inestable",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/10/19/el-prado-RrezJABFMPTiCEgeOzLRoHJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "españa",
+            "otoño",
+            "emilio butragueño santos",
+            "calor",
+            "museo nacional del prado",
+            "frío",
+            "tiempo"
+        ],
+        "link": "https://www.abc.es/opinion/jose-f-pelaez-tiempo-inestable-20251019031855-nt.html",
+        "date": "2025-10-19 01:19:43",
+        "sentiment_score": -0.08365583419799805
+    },
+    {
+        "title": "Las claves para entender el caso del carbón desaparecido que ha sacudido al principal puerto asturiano: investigación en El Musel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a95a2c1d-96c1-4c24-8ac6-c4153faddb60_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ebhisa",
+            "estafa",
+            "puerto",
+            "el musel"
+        ],
+        "link": "https://www.lne.es/gijon/gijon-oeste/2025/10/19/claves-entender-caso-carbon-desaparecido-122768842.html",
+        "date": "2025-10-19 02:09:00",
+        "sentiment_score": -0.20005008578300476
+    },
+    {
+        "title": "Agenda: qué hacer en Asturias hoy domingo 19 de octubre de 2025",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4c62945c-48b0-414d-b57a-3b7c0f4b83ca_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "festivos",
+            "horario",
+            "espacio",
+            "exposición"
+        ],
+        "link": "https://www.lne.es/sociedad/2025/10/19/agenda-asturias-hoy-domingo-19-122767982.html",
+        "date": "2025-10-19 02:09:00",
+        "sentiment_score": -0.00508388876914978
+    },
+    {
+        "title": "El Valencia se enfrenta a su pesadilla a balón parado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5105a65b-b06a-49b7-b371-2bafbab871b2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "el valencia",
+            "cuatro",
+            "la liga"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2025/10/19/valencia-enfrenta-pesadilla-balon-parado-122765530.html",
+        "date": "2025-10-19 02:00:17",
+        "sentiment_score": -0.4677227735519409
+    },
+    {
+        "title": "Maruja Mallo vuelve a Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/300b6de5-2017-4434-b514-d6542b3427b8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "obras",
+            "arte",
+            "reina sofía",
+            "maruja mallo",
+            "museo reina sofía",
+            "pintura",
+            "exposición",
+            "madrid"
+        ],
+        "link": "https://www.farodevigo.es/estela/2025/10/19/maruja-mallo-vuelve-madrid-museo-reina-sofia-122650207.html",
+        "date": "2025-10-19 02:00:15",
+        "sentiment_score": 0.03311696648597717
+    },
+    {
+        "title": "La izquierda da oxígeno en forma de subvenciones a los defensores de los 'países catalanes' en la Comunidad Valenciana",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/10/14/68ee22e80854b.jpeg",
+        "tags": [
+            "c. valenciana"
+        ],
+        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20251019/izquierda-da-oxigeno-forma-subvenciones-defensores-paises-catalanes-comunidadvalenciana_344333.html",
+        "date": "2025-10-19 02:00:00",
+        "sentiment_score": -0.19789615273475647
+    },
+    {
+        "title": "Diario de Sevilla publica un fragmento del último libro de Eva Díaz Pérez",
+        "image_url": "https://static.grupojoly.com/clip/6a833913-e61d-4ec4-bf60-9b174a66500a_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/sevilla/diario-sevilla-publica-fragmento-ultimo_0_2005031385.html",
+        "date": "2025-10-19 01:00:22",
+        "sentiment_score": 0.09197477996349335
+    },
+    {
+        "title": "Del registro facial a las huellas dactilares: así funciona el nuevo control fronterizo biométrico del aeropuerto de Barajas",
+        "image_url": "https://s2.elespanol.com/2025/10/10/omicrono/tecnologia/1003743964079_259294926_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "españa",
+            "aeropuerto adolfo suárez (madrid-barajas)",
+            "madrid",
+            "aeropuertos",
+            "seguridad"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20251019/registro-facial-huellas-dactilares-funciona-nuevo-control-fronterizo-biometrico-aeropuerto-barajas/1003743963992_0.html",
+        "date": "2025-10-19 00:28:18",
+        "sentiment_score": -0.9011178789660335
+    },
+    {
+        "title": "Cisma en Arequipa: académicos de la RAE censuran el \"fervor político\" del \"pueblerino\" García Montero por atacar a su director",
+        "image_url": "https://s2.elespanol.com/2025/10/17/actualidad/1003743974571_259426506_1706x960.jpg",
+        "tags": [
+            "arturo pérez-reverte",
+            "reportajes",
+            "fernando savater",
+            "álvaro pombo",
+            "cultura",
+            "santiago muñoz machado",
+            "juan luis cebrián",
+            "rae",
+            "luis garcía montero",
+            "instituto cervantes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251019/cisma-arequipa-academicos-rae-censuran-fervor-politico-pueblerino-garcia-montero-atacar-director/1003743971102_0.html",
+        "date": "2025-10-19 00:11:39",
+        "sentiment_score": -0.8921265183016658
+    },
+    {
+        "title": "La Organización de Estados Iberoamericanos (OEI): acción, solidaridad y esperanza a través de la educación y la cultura",
+        "image_url": "https://s2.elespanol.com/2023/03/02/enclave-ods/referentes/745436099_259419246_1706x960.jpg",
+        "tags": [
+            "historias",
+            "latinoamérica",
+            "periódico el español",
+            "premios"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20251019/organizacion-iberoamericanos-oei-accion-solidaridad-esperanza-traves-educacion-cultura/1003743974005_0.html",
+        "date": "2025-10-19 00:02:41",
+        "sentiment_score": 0.5197137407958508
+    },
+    {
+        "title": "Carlos Sainz, el 'Matador incombustible': leyenda viva del motor y ejemplo de trabajo y superación sin pausa",
+        "image_url": "https://s2.elespanol.com/2025/10/18/actualidad/1003743974963_259432122_1706x960.jpg",
+        "tags": [
+            "ford",
+            "rally dakar",
+            "rally",
+            "deportes",
+            "carlos sainz"
+        ],
+        "link": "https://www.elespanol.com/deportes/20251018/carlos-sainz-matador-incombustible-leyenda-viva-motor-ejemplo-trabajo-superacion-sin-pausa/1003743974954_0.html",
+        "date": "2025-10-18 23:57:00",
+        "sentiment_score": 0.8104128018021584
+    },
+    {
+        "title": "César González-Bueno, de sacar petróleo en las cajas gallegas a resistir en la 'Galia' del Sabadell",
+        "image_url": "https://s2.elespanol.com/2025/10/17/actualidad/1003743974670_259427782_1706x960.jpg",
+        "tags": [
+            "banco sabadell",
+            "banca",
+            "bbva (banco bilbao vizcaya argentaria)",
+            "opa"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/banca/20251019/cesar-gonzalez-bueno-sacar-petroleo-cajas-gallegas-resistir-galia-sabadell/1003743974550_0.html",
+        "date": "2025-10-19 01:54:28",
+        "sentiment_score": 0.08970129489898682
+    },
+    {
+        "title": "Lionel Messi destrozó al Nashville con tres goles y se quedó con el Botín de Oro de la MLS",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/Lionel-Messi.jpg",
+        "tags": [
+            "lionel messi",
+            "botín de oro",
+            "mls",
+            "deportes",
+            "titulares"
+        ],
+        "link": "https://lapatilla.com/2025/10/18/lionel-messi-destrozo-al-nashville-con-tres-goles-y-se-quedo-con-el-botin-de-oro-de-la-mls/",
+        "date": "2025-10-19 01:48:14",
+        "sentiment_score": 0.615820087492466
+    },
+    {
+        "title": "El legado de Belita Gracia",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/10/18/68f3eb96002ac.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/251019/2063336/legado-belita-gracia.html",
+        "date": "2025-10-19 01:30:00",
+        "sentiment_score": 0.8037194516509771
+    },
+    {
+        "title": "El show de Messi en el triunfo de Inter Miami: sus tres goles para ganar la Bota de Oro y el récord que estuvo al borde de superar",
+        "image_url": "https://www.infobae.com/resizer/v2/NS6UUAW5CJGN7PQE32FFFQCFBA.jpg?auth=bb8b6d13e07d742243b94fe9d7931a12824147000e457c58ca8084ac554048e0&height=682&smart=true&width=1024",
+        "tags": [
+            "lionel messi",
+            "deportes-argentina",
+            "mls",
+            "inter miami",
+            "nashville"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/19/el-show-de-messi-en-el-triunfo-de-inter-miami-sus-tres-goles-para-ganar-la-bota-de-oro-y-el-record-que-estuvo-al-borde-de-superar/",
+        "date": "2025-10-19 01:25:58",
+        "sentiment_score": 0.6763878501951694
+    },
+    {
+        "title": "L'arriendu d'habitaciones dispárase n'Uviéu: esto ye lo que cuesta facese con una na ciudá",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b33f15dc-7a05-4f09-82fa-988a97b29beb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "oviedo",
+            "alquileres",
+            "vivienda"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2025/10/19/larriendu-dhabitaciones-disparase-nuvieu-ye-122622192.html",
+        "date": "2025-10-19 01:00:12",
+        "sentiment_score": -0.05141788721084595
+    },
+    {
+        "title": "El Colegio de España, liberado",
+        "image_url": "https://s2.elespanol.com/2025/10/17/actualidad/1003743973744_259416148_1706x960.jpg",
+        "tags": [
+            "fernando arrabal terán",
+            "opinión",
+            "columnas de opinión",
+            "columnas",
+            "literatura"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20251019/colegio-espana-liberado/1003743973704_12.html",
+        "date": "2025-10-19 00:57:15",
+        "sentiment_score": 0.8039145730435848
+    },
+    {
+        "title": "Lamine Yamal, directo al club de LeBron, Jordan y Woods: deja de rubricar autógrafos para vender su firma en exclusividad",
+        "image_url": "https://s2.elespanol.com/2025/10/18/actualidad/1003743975109_259433709_1706x960.jpg",
+        "tags": [
+            "michael jordan",
+            "tiger woods",
+            "deportes",
+            "lebron james",
+            "fc barcelona",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251019/lamine-yamal-directo-club-lebron-jordan-woods-deja-rubricar-autografos-vender-firma-exclusividad/1003743975067_0.html",
+        "date": "2025-10-19 00:37:59",
+        "sentiment_score": 0.10640499740839005
+    },
+    {
+        "title": "La imparable escalada del cáncer de mama en España: el número de casos aumenta un 35,8% en los últimos 10 años",
+        "image_url": "https://s2.elespanol.com/2025/10/17/ciencia/salud/1003743974566_259426421_1706x960.jpg",
+        "tags": [
+            "oncología",
+            "españa",
+            "cáncer",
+            "cáncer de mama",
+            "salud"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20251018/imparable-escalada-cancer-mama-espana-numero-casos-aumenta-ultimos-anos/1003743973472_0.html",
+        "date": "2025-10-18 23:58:45",
+        "sentiment_score": -0.27869901806116104
+    },
+    {
+        "title": "Asistencia para Cáncer de Mama en EEUU: conozca la guía de subsidios financieros para tratamientos y gastos básicos",
+        "image_url": "https://c.files.bbci.co.uk/0FF2/production/_103928040_cancermama.jpg",
+        "tags": [
+            "lifestyle",
+            "entertainment",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/asistencia-para-cancer-de-mama-en-eeuu-conozca-la-guia-de-subsidios-financieros-para-tratamientos-y-gastos-basicos-202510182200",
+        "date": "2025-10-19 02:00:00",
+        "sentiment_score": 0.13777534291148186
+    },
+    {
+        "title": "Con este alcalino podrá eliminar el pie de atleta: estas son las recomendaciones del Medical News Today",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760556896574/Captura%20de%20pantalla%202025-10-15%20a%20la(s)%203.33.37%20p.%20m..png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/con-este-alcalino-podra-eliminar-el-pie-de-atleta-estas-son-las-recomendaciones-del-medical-news-today-202510182200",
+        "date": "2025-10-19 02:00:00",
+        "sentiment_score": 0.7927935291081667
+    },
+    {
+        "title": "Halloween a lo grande en Washington D.C.: DMV anuncia actividades hasta el 31 de octubre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/halloween-a-lo-grande-en-washington-d-c-dmv-anuncia-actividades-hasta-el-31-de-octubre-202510182200",
+        "date": "2025-10-19 02:00:00",
+        "sentiment_score": 0.7344656400382519
+    },
+    {
+        "title": "Pecado en casa parroquial: encuentran a sacerdote con la prometida de un feligrés",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/pecado-en-casa-parroquial-encuentran-a-sacerdote-con-la-prometida-de-un-feligres--202510182200",
+        "date": "2025-10-19 02:00:00",
+        "sentiment_score": -0.045182690024375916
+    },
+    {
+        "title": "¿ChatGPT revela secretos? Entérate de cómo esta mujer ganó $100.000 en Powerball con IA",
+        "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15659607/shutterstock_254400031.0.0.1484924687.jpg?crop=0%2C0%2C100%2C100&quality=90&strip=all&w=2400",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/chatgpt-revela-secretos-enterate-de-como-esta-mujer-gano-100-000-en-powerball-con-ia-202510182100",
+        "date": "2025-10-19 01:00:00",
+        "sentiment_score": 0.034027814865112305
+    },
+    {
+        "title": "Diáspora venezolana celebra las canonizaciones de José Gregorio Hernández y madre Carmen Rendiles",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760638082442/WhatsApp%20Image%202025-10-16%20at%202.07.24%20PM.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/diaspora-venezolana-celebra-las-canonizaciones-de-jose-gregorio-hernandez-y-madre-carmen-rendiles-202510182100",
+        "date": "2025-10-19 01:00:00",
+        "sentiment_score": 0.17575131356716156
+    },
+    {
+        "title": "Homenaje en metálico: EEUU revela que lanzará un dólar con la imagen de este empresario",
+        "image_url": "https://www.infobae.com/resizer/v2/TGSYTLKPORG4JLLUU3NY5HDQ6M.jpg?auth=b3088e0286d967afc84edea68533dce4b0eec4613cfc85619280fc695763ea09&height=197&quality=85&smart=true&width=350",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/internacionales/homenaje-en-metalico-eeuu-revela-que-lanzara-un-dolar-con-la-imagen-de-este-empresario--2025101820140",
+        "date": "2025-10-19 00:14:00",
+        "sentiment_score": 0.1446541603654623
+    },
+    {
+        "title": "Condenan por extorsión a sujetos que sembraron terror en Guárico: ¿Cuántos años de cárcel recibieron?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/condenan-por-extorsion-a-sujetos-que-sembraron-terror-en-guarico-cuantos-anos-de-carcel-recibieron--202510182090",
+        "date": "2025-10-19 00:09:00",
+        "sentiment_score": -0.8029778357595205
+    },
+    {
+        "title": "Nuevos uniformes para la NBA 2025/2026: las mejores equipaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760832710846/ASUBNO3M7RBZNGLTOPWSH573YM.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/nuevos-uniformes-para-la-nba-2025-2026-las-mejores-equipaciones-2025101820350",
+        "date": "2025-10-19 00:05:43",
+        "sentiment_score": 0.820351954549551
+    },
+    {
+        "title": "Delito en el jardín: roban la flor más grande y apestosa del mundo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/curiosidades/delito-en-el-jardin-roban-la-flor-mas-grande-y-apestosa-del-mundo-202510182000",
+        "date": "2025-10-19 00:00:00",
+        "sentiment_score": 0.9114601649343967
     }
 ];
