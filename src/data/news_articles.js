@@ -253,56 +253,6 @@ export default [
         "sentiment_score": 0.1274721771478653
     },
     {
-        "title": "Castilla-La Mancha lidera la confianza empresarial en España tras subir un 0,4% en el cuarto trimestre de 2025",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/10/16/14645345-RWJeWG5mBf8uS9LLS3ezehO-1200x840@diario_abc.jpg",
-        "tags": [
-            "empresas",
-            "empresarios",
-            "castilla-la mancha"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/castillala-mancha-lidera-confianza-empresarial-espana-tras-20251016145446-nt.html",
-        "date": "2025-10-16 12:54:47",
-        "sentiment_score": -0.05877724289894104
-    },
-    {
-        "title": "La afiliación de extranjeros en Andalucía crece un 8,54% más que en 2024",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/10/16/maya-balanya-temporeras-R1mx6EPo5VsSy4wjlzZ8i0L-1200x840@diario_abc.jpg",
-        "tags": [
-            "andalucía",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/afiliacion-extranjeros-andalucia-crece-854-2024-20251016143009-nts.html",
-        "date": "2025-10-16 12:31:22",
-        "sentiment_score": -0.1314995139837265
-    },
-    {
-        "title": "Muro antidrones y escudos estratégicos: la nueva hoja de ruta militar europea",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/16/vonderleyen-RnsY8dEnoL2Ppx8XoipJm6H-1200x840@diario_abc.jpg",
-        "tags": [
-            "otan",
-            "austria",
-            "croacia",
-            "bruselas",
-            "drones",
-            "ucrania",
-            "comisión europea (ce)",
-            "unión europea",
-            "chipre",
-            "holanda",
-            "ursula von der leyen",
-            "defensa",
-            "europa",
-            "inglés",
-            "malta",
-            "parlamento europeo",
-            "irlanda",
-            "letonia"
-        ],
-        "link": "https://www.abc.es/internacional/muro-antidrones-escudos-estrategicos-nueva-hoja-ruta-20251016124923-nt.html",
-        "date": "2025-10-16 12:00:13",
-        "sentiment_score": 0.0031486451625823975
-    },
-    {
         "title": "De Vallecas a la playa: un instituto recibe donaciones para financiar su viaje de fin de curso después de más una década sin poder hacerlo",
         "image_url": "https://imagenes.elpais.com/resizer/v2/LPGAKPQJ6JBMRMZQVOGU5JOYJM.jfif?auth=0241382ddbec5c303d311cf777d28a893bf1f79181a5132b4bffe33c5963a603&width=1200",
         "tags": [
@@ -378,94 +328,6 @@ export default [
         "link": "https://elpais.com/espana/2025-10-16/tres-minutos-de-falso-carino-para-robar-a-personas-mayores.html",
         "date": "2025-10-16 14:36:17",
         "sentiment_score": -0.8482012040913105
-    },
-    {
-        "title": "La respuesta de un jefe de bomberos cuando Emergencias le pidió vigilar el Poyo en la dana: “¿Para qué?”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RFVUDXTKPZE4BMRJHOSBNZHTBU.jpeg?auth=27225ccec5e1189114e49e5215b75eb12bdd96685f9b108a487124252a537998&width=1200",
-        "tags": [
-            "dana",
-            "salomé pradas",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "carlos mazón",
-            "valencia"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-16/la-respuesta-de-un-jefe-de-bomberos-cuando-emergencias-le-pidio-vigilar-el-poyo-en-la-dana-para-que.html",
-        "date": "2025-10-16 14:06:00",
-        "sentiment_score": -0.8041651677340269
-    },
-    {
-        "title": "Un juez anula un concurso de operario de cementerio de Vic por exigir el nivel B2 de catalán",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YFHXR3QX6JNMJLVNFORPWBVSN4.jpg?auth=1e5ad01699167812a69fe2c1d9a413ef4b62a1e46f8c4f971f122dd53cada4e5&width=1200",
-        "tags": [
-            "cataluña",
-            "sentencias condenatorias",
-            "cementerios",
-            "juzgados",
-            "vic",
-            "justicia",
-            "sentencias",
-            "catalán"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-16/un-juez-anula-un-concurso-de-operario-de-cementerio-de-vic-por-exigir-el-nivel-b2-de-catalan.html",
-        "date": "2025-10-16 13:39:31",
-        "sentiment_score": -0.794808242470026
-    },
-    {
-        "title": "El Gobierno esgrime la separación de poderes tras las críticas vertidas por el juez del ‘caso Ábalos’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/D7Q42UNA65OP3PII5FPNHSIPI4.jpg?auth=2eb9f03d51c62bc66a3cd625b25dac37cefa0c5fb6729e39bd31b7f323ca6094&width=1200",
-        "tags": [
-            "maría jesús montero",
-            "españa",
-            "gobierno",
-            "corrupción",
-            "patxi lópez",
-            "congreso diputados",
-            "óscar puente santiago",
-            "tribunal supremo",
-            "caso koldo",
-            "josé luis ábalos"
-        ],
-        "link": "https://elpais.com/espana/2025-10-16/el-gobierno-defiende-la-separacion-de-poderes-en-su-respuesta-al-juez-del-caso-abalos.html",
-        "date": "2025-10-16 13:26:49",
-        "sentiment_score": -0.8797342889010906
-    },
-    {
-        "title": "Alcaldes de Junts se reúnen el lunes con Puigdemont para redirigir el rumbo en inmigración, seguridad y pactos políticos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/STKJRU6EDFBLXPMBWSBLE5QO4I.jpg?auth=b5c6d476c031e6a4ed253557d4244236c34fe2b9bbbbd8682ace435ea471874d&width=1200",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-16/alcaldes-de-junts-se-reunen-el-lunes-con-puigdemont-para-redirigir-el-rumbo-en-inmigracion-seguridad-y-pactos-politicos.html",
-        "date": "2025-10-16 13:19:23",
-        "sentiment_score": -0.5479153692722321
-    },
-    {
-        "title": "El Supremo mantiene a Koldo García en libertad tras negarse a declarar",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ATEAVVFB4JEIZNNEUGIDHU2YEM.jpg?auth=2e803b234dd768f6519ed8d960e32f127bc80660a5eb3d806ac2588d9a726a69&width=1200",
-        "tags": [
-            "koldo garcía",
-            "españa",
-            "corrupción",
-            "santos cerdán",
-            "psoe",
-            "tribunal supremo",
-            "josé luis ábalos"
-        ],
-        "link": "https://elpais.com/espana/2025-10-16/el-supremo-mantiene-a-koldo-garcia-en-libertad-tras-negarse-a-declarar.html",
-        "date": "2025-10-16 12:50:25",
-        "sentiment_score": -0.7664768490940332
-    },
-    {
-        "title": "Ayuso revive la Ciudad de la Justicia de Aguirre tras 20 años de espera, tres fiascos, condenas a cárcel y millones de euros públicos perdidos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UDOR43OL7BO43GDHTV2AZP4O4M.jpg?auth=7704736ab545b064b0dc3a2a56541f6a9ff9a40ff73325af0729936f2940bb4f&width=1200",
-        "tags": [
-            "comunidad de madrid",
-            "madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-10-16/ayuso-revive-la-ciudad-de-la-justicia-de-aguirre-tras-20-anos-de-espera-tres-fiascos-condenas-a-carcel-y-millones-de-euros-publicos-perdidos.html",
-        "date": "2025-10-16 12:42:49",
-        "sentiment_score": -0.4631836637854576
     },
     {
         "title": "San Silvestre Vallecana 2025: cómo conseguir una plaza para la carrera internacional y la popular y qué novedades habrá",
@@ -8698,5 +8560,428 @@ export default [
         "link": "https://2001online.com/usa/servicios/comida-gratis-en-florida-puntos-y-horarios-de-las-entregas-moviles-del-20-al-25-de-octubre-2025101915450",
         "date": "2025-10-19 19:45:00",
         "sentiment_score": 0.23265795409679413
+    },
+    {
+        "title": "Prepárase antes de salir: Este es el pronóstico del clima en Madrid este lunes 20 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/5NCDGA7HLZFI3NZU6QMFVWN5FQ.png?auth=e98031a6e8a7bfd07c6a4c6f022830ce7059131a46046460e0913e19c5a2ba39&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "madrid",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/20/preparase-antes-de-salir-este-es-el-pronostico-del-clima-en-madrid-este-lunes-20-de-octubre/",
+        "date": "2025-10-20 02:04:56",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Canciones de K-pop en iTunes España para escuchar hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=1080&smart=true&width=1920",
+        "tags": [
+            "k-pop",
+            "noticias",
+            "españa",
+            "itunes",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/19/canciones-de-k-pop-en-itunes-espana-para-escuchar-hoy/",
+        "date": "2025-10-19 23:15:33",
+        "sentiment_score": 0.6724048964679241
+    },
+    {
+        "title": "BBVA pierde, pero no solo",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/10/20/1499520603-R0yBR8n2CR8AlLlGjqYUQcM-1200x840@diario_abc.JPG",
+        "tags": [
+            "banco sabadell",
+            "bbva",
+            "catalán"
+        ],
+        "link": "https://www.abc.es/economia/jose-ramon-iturriaga-bbva-pierde-solo-20251020040027-nt.html",
+        "date": "2025-10-20 02:00:27",
+        "sentiment_score": -0.15340417623519897
+    },
+    {
+        "title": "El Gobierno deberá limitar su capacidad de veto en fusiones bancarias",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/20/cuerpo-eeuu-R4tPMI0ZT3b27TVKW213OnK-1200x840@diario_abc.jpg",
+        "tags": [
+            "banco sabadell",
+            "banco central europeo bce",
+            "fondo monetario internacional (fmi)",
+            "banca",
+            "banco de españa",
+            "tribunal supremo (ts)",
+            "cnmc (comisión nacional de mercados y competencia )",
+            "fusiones",
+            "bbva",
+            "ministerio de economía"
+        ],
+        "link": "https://www.abc.es/economia/gobierno-debera-limitar-capacidad-veto-fusiones-bancarias-20251020101341-nt.html",
+        "date": "2025-10-20 02:00:18",
+        "sentiment_score": -0.11474466323852539
+    },
+    {
+        "title": "Chiquitines",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9885099d-fc0a-4eea-91c7-955169b7265b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "podemos",
+            "votos",
+            "democracia",
+            "política"
+        ],
+        "link": "https://www.eldia.es/opinion/2025/10/20/chiquitines-122795471.html",
+        "date": "2025-10-20 02:09:03",
+        "sentiment_score": -0.7564937546849251
+    },
+    {
+        "title": "Esta semana los astros se van de tapas: horóscopos con chispa desde Madrid",
+        "image_url": "https://www.madridactual.es/images/stories/noticias/recursos/horoscopos/horoscopo-6.jpg",
+        "tags": [
+            "horóscopo guasón"
+        ],
+        "link": "https://www.madridactual.es/informacion-de-servicio/horoscopo-guason/esta-semana-los-astros-se-van-de-tapas-horoscopos-con-chispa-desde-madrid-1760932944-20251020-8062108.html",
+        "date": "2025-10-20 02:02:24",
+        "sentiment_score": 0.06091899052262306
+    },
+    {
+        "title": "Agenda: qué hacer en Asturias hoy lunes 20 de octubre de 2025",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a7d43933-7598-4422-acf6-89dcf44094ac_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "exposición",
+            "avilés",
+            "historia",
+            "casa de cultura"
+        ],
+        "link": "https://www.lne.es/sociedad/2025/10/20/agenda-asturias-hoy-lunes-20-122792375.html",
+        "date": "2025-10-20 02:00:17",
+        "sentiment_score": -0.10978715121746063
+    },
+    {
+        "title": "Dos malas noticias sacuden al Sevilla después de caer frente al Mallorca",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/30/2025053010135612371.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/dos-malas-noticias-sacuden-sevilla-fc-despues-caer-frente-mallorca/20251020035015359824.html",
+        "date": "2025-10-20 01:50:15",
+        "sentiment_score": -0.08837775886058807
+    },
+    {
+        "title": "El nuevo desafío de las selecciones juveniles tras el subcampeonato en Chile: sus rivales en el Mundial Sub 17 y el “recuerdo” de Qatar",
+        "image_url": "https://www.infobae.com/resizer/v2/4BFGJOYK7ZGGBFKHMJORDXJRDE.jpg?auth=2e177e5251245cd90ba54bfcc3f4a804da34bd87348e1a0bbbd7feb20a4b8e3d&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-argentina",
+            "selección argentina sub 17",
+            "selección de túnez",
+            "selección de fiyi",
+            "selección argentina",
+            "mundial sub 17",
+            "diego placente",
+            "selección de bélgica"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/20/el-nuevo-desafio-de-las-selecciones-juveniles-tras-el-subcampeonato-en-chile-sus-rivales-en-el-mundial-sub-17-y-el-recuerdo-de-qatar/",
+        "date": "2025-10-20 01:43:00",
+        "sentiment_score": 0.09219033271074295
+    },
+    {
+        "title": "Barricat (Adecco): \"El empleo que se está creando consume mucha mano de obra pero no es sostenible en el tiempo\"",
+        "image_url": "https://s2.elespanol.com/2025/10/17/actualidad/1003743974775_259429354_1706x960.jpg",
+        "tags": [
+            "adecco",
+            "empleo",
+            "mercado laboral",
+            "empleo hoy"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/empleo/20251020/barricat-adecco-empleo-creando-consume-mucha-mano-obra-no-sostenible-tiempo/1003743972876_0.html",
+        "date": "2025-10-20 00:29:44",
+        "sentiment_score": -0.7511783745139837
+    },
+    {
+        "title": "ERC y Junts exigen a Sánchez mantener la nuclear catalana mientras no haya \"garantías de suministro\" con las renovables",
+        "image_url": "https://s2.elespanol.com/2025/10/19/actualidad/1003743975899_259446728_1706x960.jpg",
+        "tags": [
+            "junts per catalunya",
+            "ministerio transición ecológica y reto demográfico",
+            "pedro sánchez",
+            "centrales nucleares",
+            "política",
+            "energía nuclear",
+            "erc esquerra republicana de cataluña",
+            "erc",
+            "carles puigdemont",
+            "oriol junqueras"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251020/erc-junts-exigen-sanchez-mantener-nuclear-catalana-no-garantias-suministro-renovables/1003743974956_0.html",
+        "date": "2025-10-20 00:16:56",
+        "sentiment_score": -0.0018530488014221191
+    },
+    {
+        "title": "Carmen Iglesias inaugura el ciclo 'La Libertad en el siglo XXI' de El Español y la Universidad Camilo José Cela",
+        "image_url": "https://s2.elespanol.com/2020/01/13/actualidad/actualidad_459465644_142344867_1706x960.jpg",
+        "tags": [
+            "periódico el español",
+            "pedro j. ramírez",
+            "carmen iglesias",
+            "medios",
+            "periodismo"
+        ],
+        "link": "https://www.elespanol.com/invertia/medios/20251020/carmen-iglesias-inaugura-ciclo-libertad-siglo-xxi-espanol-universidad-camilo-jose-cela/1003743976325_0.html",
+        "date": "2025-10-20 00:13:19",
+        "sentiment_score": 0.35228128731250763
+    },
+    {
+        "title": "Federico Trillo: \"Los jueces son la última defensa democrática, pero el CGPJ se elige de manera inconstitucional desde 1985\"",
+        "image_url": "https://s2.elespanol.com/2025/10/18/espana/politica/1003743974923_259431555_1706x960.jpg",
+        "tags": [
+            "federico trillo figueroa",
+            "política",
+            "alberto núñez feijóo",
+            "entrevistas",
+            "pedro sánchez",
+            "partido popular (pp)"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251020/federico_trillo_figueroa-partido_popular_-pp-alberto_nunez_feijoo-pedro_sanchez-politica/1003743966790_0.html",
+        "date": "2025-10-20 00:11:12",
+        "sentiment_score": -0.8854185901582241
+    },
+    {
+        "title": "Cataluña crea el Observatorio de la Inundabilidad para asesorar ante el riesgo de fenómenos naturales: \"No es posible el riesgo cero\"",
+        "image_url": "https://album.mediaset.es/eimg/2025/10/17/imagen-de-archivo-de-una-zona-afectada-por-la-lluvia-en-tarragona_f21b.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20251020/observatorio-inundabilidad-organo-asesorar-riesgo-inundaciones-dana_18_016890414.html",
+        "date": "2025-10-20 02:00:58",
+        "sentiment_score": -0.9123965529724956
+    },
+    {
+        "title": "Victoria del Sabadell e incógnita política",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "sánchez",
+            "política",
+            "sabadell",
+            "dividendos"
+        ],
+        "link": "https://www.lne.es/opinion/2025/10/20/victoria-sabadell-incognita-politica-122793391.html",
+        "date": "2025-10-20 02:00:19",
+        "sentiment_score": -0.06412656605243683
+    },
+    {
+        "title": "Lluís de Moner: «Pusimos el foco en Gaza y aligeramos el hambre, aunque solo fuera un día»",
+        "image_url": "https://men.gsstatic.es/sfAttachPlugin/social/3523713.jpg",
+        "tags": [
+            "ejército israelí",
+            "conflicto israel-palestina",
+            "global sumud flotilla",
+            "local"
+        ],
+        "link": "https://www.menorca.info/menorca/local/2025/10/20/2494363/lluis-moner-pusimos-foco-gaza-aligeramos-hambre-aunque-solo-fuera-dia.html",
+        "date": "2025-10-20 01:59:01",
+        "sentiment_score": -0.5851309299468994
+    },
+    {
+        "title": "El conmovedor mensaje de Messi para apoyar a la selección argentina Sub 20 tras la caída en la final del Mundial",
+        "image_url": "https://www.infobae.com/resizer/v2/SHEAQ6LTHBHUDHIOIHWMV5Y5O4.jpg?auth=b41597c4809d37ee0c05a3dae38efaf9826ea36d15ad87a268a2470e13aba051&height=1080&smart=true&width=1920",
+        "tags": [
+            "lionel messi",
+            "deportes-argentina",
+            "selección de marruecos",
+            "selección argentina",
+            "diego placente",
+            "mundial sub 20"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/20/el-conmovedor-mensaje-de-messi-para-apoyar-a-la-seleccion-argentina-sub-20-tras-la-caida-en-la-final-del-mundial/",
+        "date": "2025-10-20 01:50:45",
+        "sentiment_score": 0.12478971481323242
+    },
+    {
+        "title": "Aborto, polémica artificial",
+        "image_url": "https://uh.gsstatic.es/autor/maria-luz-garcia/10809.png",
+        "tags": [
+            "prensa digital",
+            "tribuna",
+            "grupo serra",
+            "artículos de opinión",
+            "medio de comunicación"
+        ],
+        "link": "https://www.ultimahora.es/opinion/tribuna/2025/10/20/2494283/aborto-polemica-artificial.html",
+        "date": "2025-10-20 01:48:01",
+        "sentiment_score": -0.3291251212358475
+    },
+    {
+        "title": "El cambio demográfico activa en León la comida del futuro",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/files/fp/uploads/2025/10/19/68f522096f5bc.r_d.337-600-18346.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.diariodeleon.es/sociedad/251020/2063433/cambio-demografico-activa-leon-comida-futuro.html",
+        "date": "2025-10-20 01:30:00",
+        "sentiment_score": 0.09877948462963104
+    },
+    {
+        "title": "Alfonso J. Ussía se abraza a Madrid, como personaje literario",
+        "image_url": "https://s2.elespanol.com/2025/03/14/el-cultural/opinion/primera_palabra_luis_maria_anson/931167125_259346552_1706x960.jpg",
+        "tags": [
+            "madrid",
+            "primera palabra",
+            "literatura"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/opinion/primera_palabra_luis_maria_anson/20251020/alfonso-ussia-abraza-madrid-personaje-literario/1003743967935_13.html",
+        "date": "2025-10-20 00:00:00",
+        "sentiment_score": 0.8355009518563747
+    },
+    {
+        "title": "La Oreja de Van Gogh anuncia gira en 2026 tras el regreso de Amaia Montero",
+        "image_url": "https://elluchador.info/wp-content/uploads/2025/10/ZBL3WNGJI5DINITC4VP4N7GJWY-1068x601.jpg",
+        "tags": [
+            "montero",
+            "entretenimiento",
+            "concierto"
+        ],
+        "link": "https://elluchador.info/?p=292735",
+        "date": "2025-10-19 23:55:53",
+        "sentiment_score": 0.17985158413648605
+    },
+    {
+        "title": "Juan del Val: \"Pocas novelas han vendido como 'El Quijote', y nadie dice que es mala. Yo reivindico lo popular\"",
+        "image_url": "https://s2.elespanol.com/2025/10/17/actualidad/1003743974629_259427276_1706x960.jpg",
+        "tags": [
+            "escritores",
+            "letras",
+            "premio planeta"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251019/juan-val-pocas-novelas-vendido-quijote-nadie-dice-mala-reivindico-popular/1003743974371_0.html",
+        "date": "2025-10-19 23:53:44",
+        "sentiment_score": 0.2522221729159355
+    },
+    {
+        "title": "Índice de referencia del alquiler: ¿un freno aún mayor para la oferta?",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/674a0e86e82c8e61f1b2d9f28d09a0a5/crop/198x161/1905x1299/resize/1200/f/webp/assets/multimedia/imagenes/2025/10/16/17606334767966.jpg",
+        "tags": [
+            "economía>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/10/20/68f123eae5fdea2d708b4590.html",
+        "date": "2025-10-19 23:42:17",
+        "sentiment_score": -0.8455927297472954
+    },
+    {
+        "title": "Conductor de autobús causa la muerte de una persona en Lara: conoce los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760925863848.jpg?ch=675&cw=1200",
+        "tags": [
+            "accidente de tránsito",
+            "lara",
+            "autobús",
+            "ministerio público"
+        ],
+        "link": "https://2001online.com/sucesos/conductor-de-autobus-causa-la-muerte-de-una-persona-en-lara-conoce-los-detalles-202510192240",
+        "date": "2025-10-20 02:04:00",
+        "sentiment_score": -0.7206230312585831
+    },
+    {
+        "title": "Tecnología al servicio del ICE: la agencia utiliza reconocimiento facial y monitoreo de redes para aumentar las detenciones",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760917994586.jpg?ch=675&cw=1200",
+        "tags": [
+            "seguridad nacional",
+            "redadas ice eeuu",
+            "tecnologia",
+            "ice"
+        ],
+        "link": "https://2001online.com/usa/internacionales/tecnologia-al-servicio-del-ice-la-agencia-utiliza-reconocimiento-facial-y-monitoreo-de-redes-para-aumentar-las-detenciones-202510192200",
+        "date": "2025-10-20 02:00:00",
+        "sentiment_score": 0.046005979180336
+    },
+    {
+        "title": "Lesiones rojas en la piel: guía de afamada marca cosmética sobre sus tratamientos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760643380611.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/lesiones-rojas-en-la-piel-guia-de-afamada-marca-cosmetica-sobre-sus-tratamientos-202510192200",
+        "date": "2025-10-20 02:00:00",
+        "sentiment_score": -0.6270919814705849
+    },
+    {
+        "title": "Predicciones de la semana del 20 al 26 de octubre",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760732134090.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-20-al-26-de-octubre-202510192200",
+        "date": "2025-10-20 02:00:00",
+        "sentiment_score": -0.050962597131729126
+    },
+    {
+        "title": "Denuncian a empresa de calzado deportivo en EEUU: generan un chirrido “vergonzoso” al caminar",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760751156033.jpg?ch=675&cw=1200",
+        "tags": [
+            "diario 2001",
+            "tenis",
+            "eeuu",
+            "clientes"
+        ],
+        "link": "https://2001online.com/usa/internacionales/denuncian-a-empresa-de-calzado-deportivo-en-eeuu-generan-un-chirrido-vergonzoso-al-caminar-202510192100",
+        "date": "2025-10-20 01:00:00",
+        "sentiment_score": -0.3553367182612419
+    },
+    {
+        "title": "Elecciones en Bolivia: esto dicen los resultados preliminares hasta el momento",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "elecciones presidenciales",
+            "diario 2001",
+            "bolivia"
+        ],
+        "link": "https://2001online.com/internacionales/elecciones-en-bolivia-esto-dicen-los-resultados-preliminares-hasta-el-momento-2025101920240",
+        "date": "2025-10-20 00:24:00",
+        "sentiment_score": -0.023020640015602112
+    },
+    {
+        "title": "Emotivas escenas del doctor José Gregorio Hernández resurgen en redes",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "jose gregorio hermandez",
+            "cosita rica",
+            "leonardo padrón"
+        ],
+        "link": "https://2001online.com/farandula/emotivas-escenas-del-doctor-jose-gregorio-hernandez-resurgen-en-redes--202510192020",
+        "date": "2025-10-20 00:02:00",
+        "sentiment_score": -0.02213996648788452
+    },
+    {
+        "title": "Adiós a la memoria llena: así consigues la papelera de WhatsApp para borrar fotos y videos viejos",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "papelera de whatsapp",
+            "papalera de whatsapp",
+            "whatsapp"
+        ],
+        "link": "https://2001online.com/curiosidades/adios-a-la-memoria-llena-asi-consigues-la-papelera-de-whatsapp-para-borrar-fotos-y-videos-viejos-202510192000",
+        "date": "2025-10-20 00:00:00",
+        "sentiment_score": -0.5965194851160049
+    },
+    {
+        "title": "DHS anuncia tarifa para inmigrantes: ¿Cuánto deberán pagar por su libertad condicional?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "migrantes",
+            "dhs",
+            "multa"
+        ],
+        "link": "https://2001online.com/usa/servicios/dhs-anuncia-tarifa-para-inmigrantes-cuanto-deberan-pagar-por-su-libertad-condicional--202510192000",
+        "date": "2025-10-20 00:00:00",
+        "sentiment_score": 0.020979948341846466
+    },
+    {
+        "title": "Hailey vs. Selena: la rivalidad que pasó de Justin Bieber a una guerra de marcas",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "selena gómez",
+            "justin bieber",
+            "hailey bieber"
+        ],
+        "link": "https://2001online.com/farandula/hailey-vs-selena-la-rivalidad-que-paso-de-justin-bieber-a-una-guerra-de-marcas--2025101919260",
+        "date": "2025-10-19 23:26:00",
+        "sentiment_score": -0.8058718182146549
     }
 ];
