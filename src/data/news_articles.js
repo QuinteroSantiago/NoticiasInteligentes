@@ -139,24 +139,6 @@ export default [
         "sentiment_score": 0.16716455668210983
     },
     {
-        "title": "Sin abandonar la rutina, los venezolanos toman medidas discretamente por temor a un ataque de EEUU por tierra",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/Screenshot_52.jpg",
-        "tags": [
-            "venezolanos",
-            "discretamente",
-            "destacados",
-            "nacionales",
-            "usa",
-            "medidas",
-            "tierra",
-            "internacionales",
-            "ataque de eeuu"
-        ],
-        "link": "https://lapatilla.com/2025/10/17/sin-abandonar-la-rutina-los-venezolanos-toman-medidas-discretamente-por-temor-a-un-ataque-de-eeuu-por-tierra/",
-        "date": "2025-10-17 13:27:48",
-        "sentiment_score": -0.08871285617351532
-    },
-    {
         "title": "La Junta contempla en su presupuesto de 2026 un crecimiento de la economía del 2,3 por ciento",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/17/Carolina-espa-consejera-RRRp7jp3oSPCIA0B6EwmS9O-1200x840@diario_abc.jpeg",
         "tags": [
@@ -166,48 +148,6 @@ export default [
         "link": "https://www.abc.es/espana/andalucia/junta-contempla-presupuesto-2026-crecimiento-economia-ciento-20251017143818-nts.html",
         "date": "2025-10-17 15:28:56",
         "sentiment_score": -0.0023363232612609863
-    },
-    {
-        "title": "Urbanismo pagará 395.000 euros por los suelos de ADIF para hacer la plaza de Olivos Borrachos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/10/17/1439525504-RQTxl427388CjruSAzpbUtN-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "andalucía",
-            "córdoba"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/urbanismo-pagara-395000-euros-suelos-adif-plaza-20251017151422-nts.html",
-        "date": "2025-10-17 13:14:23",
-        "sentiment_score": -0.0315740704536438
-    },
-    {
-        "title": "El I Festival de Ópera de Sevilla reunió a casi 11.000 espectadores en sus 25 funciones",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/10/17/balance-festival-opera-RF5y1veo5aCyGOKUmOCNX5K-1200x840@diario_abc.jpeg",
-        "tags": [
-            "sevilla",
-            "cultura"
-        ],
-        "link": "https://www.abc.es/sevilla/cultura/festival-opera-sevilla-reunio-11000-espectadores-funciones-20251017140246-nts.html",
-        "date": "2025-10-17 12:20:09",
-        "sentiment_score": -0.016519099473953247
-    },
-    {
-        "title": "Paris Jackson recibe 65 millones de dólares de la herencia de su padre y desafía a los administradores del patrimonio",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/gente/2025/10/17/paris-jackson-herencia-RXe4yZRUFxNl9Tm6movZIWP-1200x840@diario_abc.jpg",
-        "tags": [
-            "jackson",
-            "recibe",
-            "herencia",
-            "padre",
-            "administradores",
-            "millones",
-            "dolares",
-            "paris",
-            "desafia",
-            "patrimonio"
-        ],
-        "link": "https://www.abc.es/gente/paris-jackson-recibe-millones-dolares-herencia-padre-20251017122512-nt.html",
-        "date": "2025-10-17 10:25:13",
-        "sentiment_score": -0.15030349791049957
     },
     {
         "title": "Moncloa publica un manual para “desmontar la islamofobia”: los extranjeros aportan el 10% de ingresos de la Seguridad Social y son el 1% de los gastos",
@@ -331,60 +271,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-10-17/ada-colau-podra-volver-a-ser-candidata-de-los-comunes-gracias-a-un-cambio-en-el-codigo-etico.html",
         "date": "2025-10-17 14:20:07",
         "sentiment_score": 0.02757539600133896
-    },
-    {
-        "title": "Carmen Calvo aboga por proteger el aborto “de una manera certera” y “evitar vaivenes políticos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DDAG5A5JQBOMPNJKIBTKQYPPP4.jpg?auth=5a43e51e9a6b9a31a402f256ff05ff173c9757fd45a14a0482ea38402564434d&width=1200",
-        "tags": [
-            "reforma constitucional",
-            "aborto",
-            "psoe",
-            "gobierno",
-            "sumar",
-            "españa",
-            "carmen calvo",
-            "constitución",
-            "consejo de estado"
-        ],
-        "link": "https://elpais.com/espana/2025-10-17/carmen-calvo-aboga-por-proteger-el-aborto-de-una-manera-certera-y-evitar-vaivenes-politicos.html",
-        "date": "2025-10-17 14:10:13",
-        "sentiment_score": 0.049877285957336426
-    },
-    {
-        "title": "El número dos de Gürtel y ex alto cargo del PP también confiesa en el último juicio sobre la trama corrupta",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OHCQCASJPJABXMCTX5FTLPGQIE.jpg?auth=87983742ff5671d6c916c53cf7bba532969c9fe48b701a2c650d656d410be680&width=1200",
-        "tags": [
-            "pablo crespo",
-            "blanqueo capitales",
-            "audiencia nacional",
-            "blanqueo dinero",
-            "delitos",
-            "caso gürtel",
-            "pp",
-            "francisco correa",
-            "justicia",
-            "juicios",
-            "corrupción política",
-            "corrupción",
-            "españa",
-            "investigación judicial"
-        ],
-        "link": "https://elpais.com/espana/2025-10-17/el-numero-dos-de-gurtel-y-ex-alto-cargo-del-pp-tambien-confiesa-en-el-ultimo-juicio-sobre-la-trama-corrupta.html",
-        "date": "2025-10-17 13:48:13",
-        "sentiment_score": -0.051407814025878906
-    },
-    {
-        "title": "La Generalitat grabó más vídeos de la dana de los que entregó a la jueza",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FFMGLVKJ7NH5NEJGBOXXDMT3WA.jpg?auth=e57cc47d22efd0d7c6f766a3c698581fcf955e42f57162e54c2e04e0c3b221f4&width=1200",
-        "tags": [
-            "dana",
-            "carlos mazón",
-            "valencia",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-17/la-generalitat-grabo-mas-videos-de-la-dana-de-los-que-entrego-a-la-jueza.html",
-        "date": "2025-10-17 13:18:34",
-        "sentiment_score": -0.6336926594376564
     },
     {
         "title": "Rubén Domínguez: «Ojalá seamos en Pasarón cuatro mil, mejor que tres mil»",
@@ -8502,5 +8388,470 @@ export default [
         "link": "https://2001online.com/comunidad/chacao-obelisco-se-tine-de-rosa-en-una-tradicion-que-conmueve--2025102015470",
         "date": "2025-10-20 19:47:00",
         "sentiment_score": 0.04398655146360397
+    },
+    {
+        "title": "Clima en Barcelona: conoce el pronóstico y prepárate antes de salir",
+        "image_url": "https://www.infobae.com/resizer/v2/67SUEDJNVNF4PLGGXST3R3DMTE.png?auth=c8c8f8efe6dae673f99500d5d8e40085c219d261b9baaae208b6f3b35c8b39e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa sociedad",
+            "barcelona",
+            "noticias",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/21/clima-en-barcelona-conoce-el-pronostico-y-preparate-antes-de-salir/",
+        "date": "2025-10-21 02:03:13",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Conoce el clima de este día en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/5WNGZ3LBVBDMZOTA4JODFZB6HI.png?auth=bb2d66c14385e6d7eee2237eee93d2ced06e7974548fa46b963e43579b31c11c&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa sociedad",
+            "noticias",
+            "madrid",
+            "españa noticias",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/21/conoce-el-clima-de-este-dia-en-madrid/",
+        "date": "2025-10-21 02:02:50",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "Aldama afirma haber entregado 20.000 euros en efectivo a Ábalos y denuncia una red de comisiones millonarias y fondos ocultos: “Pedro Sánchez era consciente de todo porque quería enterarse de todo”",
+        "image_url": "https://www.infobae.com/resizer/v2/VIET55TQQNHATHXUDT6KVAWIEA.jpg?auth=87e1e7cef9a2fb3d0ce527c5988e39b5db34ee95979be50631a4202b8b264809&height=1268&smart=true&width=1920",
+        "tags": [
+            "caso koldo",
+            "víctor de aldama",
+            "tribunal supremo",
+            "españa-nacional",
+            "psoe",
+            "josé luis ábalos",
+            "koldo garcía",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/21/aldama-afirma-haber-entregado-20000-euros-en-efectivo-a-abalos-y-denuncia-una-red-de-comisiones-millonarias-y-fondos-ocultos-pedro-sanchez-era-consciente-de-todo-porque-queria-enterarse-de-todo/",
+        "date": "2025-10-21 01:11:04",
+        "sentiment_score": -0.08044635877013206
+    },
+    {
+        "title": "Gabriel Rufián explica su baile viral con Ester Expósito en ‘La Revuelta’ y cuenta una anécdota con Ábalos: “Mandaba mucho y negoció con nosotros como el mandamás”",
+        "image_url": "https://www.infobae.com/resizer/v2/ZTHGRNJQA5HWBMI5DUKXDRR4SM.png?auth=4b5b420c54edca2295c046e9afa736d3875b253e7213e3caa04019066f366fc7&height=542&smart=true&width=1128",
+        "tags": [
+            "españa-televisión",
+            "españa-noticias",
+            "la 1",
+            "david broncano",
+            "rtve",
+            "ester expósito",
+            "erc",
+            "televisión españa",
+            "gabriel rufian",
+            "la revuelta",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/21/gabriel-rufian-explica-su-baile-viral-con-ester-exposito-en-la-revuelta-y-cuenta-una-anecdota-con-abalos-mandaba-mucho-y-negocio-con-nosotros-como-el-mandamas/",
+        "date": "2025-10-21 00:50:57",
+        "sentiment_score": -0.8294515833258629
+    },
+    {
+        "title": "Resultados ganadores del Cupón Diario de la Once de este 20 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "cupón diario",
+            "españa-loterías",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/20/resultados-ganadores-del-cupon-diario-de-la-once-de-este-20-de-octubre/",
+        "date": "2025-10-20 23:15:26",
+        "sentiment_score": 0.11362245678901672
+    },
+    {
+        "title": "Aldama asegura que Ábalos pagó en dinero negro por un local situado debajo de su vivienda",
+        "image_url": "https://www.infobae.com/resizer/v2/VIET55TQQNHATHXUDT6KVAWIEA.jpg?auth=87e1e7cef9a2fb3d0ce527c5988e39b5db34ee95979be50631a4202b8b264809&height=1268&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/20/aldama-asegura-que-abalos-pago-en-dinero-negro-por-un-local-situado-debajo-de-su-vivienda/",
+        "date": "2025-10-20 22:30:51",
+        "sentiment_score": -0.06904356926679611
+    },
+    {
+        "title": "Agenda: qué hacer en Asturias hoy martes 21 de octubre de 2025",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3ccb179a-bc9d-48b6-a258-451d709e9ae2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "exposición",
+            "asturias",
+            "obras",
+            "horario"
+        ],
+        "link": "https://www.lne.es/sociedad/2025/10/21/agenda-asturias-hoy-martes-21-122831071.html",
+        "date": "2025-10-21 02:09:00",
+        "sentiment_score": 0.05081477016210556
+    },
+    {
+        "title": "Fernández-Pacheco destaca al sector andaluz en los Premios Nacionales de Gastronomía 2025",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/202510/21/media/cortadas/fernandez-pacheco-destaca-sector-andaluz-premios-nacionales-gastronomia-20251021015013-vi--224x126.jpg",
+        "tags": [
+            "andaluz",
+            "premios",
+            "2025",
+            "destaca",
+            "nacionales",
+            "gastronomia",
+            "sector",
+            "fernandez-pacheco"
+        ],
+        "link": "https://www.elcomercio.es/sociedad/sucesos/fernandez-pacheco-destaca-sector-andaluz-premios-nacionales-gastronomia-20251021015013-vi.html",
+        "date": "2025-10-21 02:05:15",
+        "sentiment_score": -0.0024542585015296936
+    },
+    {
+        "title": "A la AFE no le gusta el cartel de Miami",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a0b5e435-99bb-4006-87a7-668169e29e8e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid",
+            "fútbol",
+            "futbolistas",
+            "fifa"
+        ],
+        "link": "https://www.levante-emv.com/opinion/2025/10/21/afe-le-gusta-cartel-miami-122830333.html",
+        "date": "2025-10-21 02:00:40",
+        "sentiment_score": -0.2971533536911011
+    },
+    {
+        "title": "Artistas que buscaron un panteón para inspirarse",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/10/20/68f68ccc822ae.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.diariodeleon.es/cultura/251021/2063539/artistas-buscaron-panteon-inspirarse.html",
+        "date": "2025-10-21 01:30:00",
+        "sentiment_score": 0.6170693337917328
+    },
+    {
+        "title": "\"No somos amigos\": Lionel Messi habló sobre su rivalidad con Cristiano Ronaldo",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/lionel-messi-cristiano-ronaldo.jpg",
+        "tags": [
+            "deportes",
+            "cristiano ronaldo",
+            "titulares",
+            "lionel messi",
+            "futbol"
+        ],
+        "link": "https://lapatilla.com/2025/10/20/no-somos-amigos-lionel-messi-hablo-sobre-su-rivalidad-con-cristiano-ronaldo/",
+        "date": "2025-10-21 00:47:21",
+        "sentiment_score": -0.612813875079155
+    },
+    {
+        "title": "El Barcelona quiere encaminar su camino en la UEFA Champions League",
+        "image_url": "https://i.ytimg.com/vi/BuTGCByipcQ/mqdefault.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/el-barcelona-quiere-encaminar-su-camino-en-la-uefa-champions-league-2025102020420",
+        "date": "2025-10-21 00:42:00",
+        "sentiment_score": 0.6118522696197033
+    },
+    {
+        "title": "España se une a la élite espacial con los satélites Spainsat NG: comunicaciones encriptadas para el Ejército y la OTAN",
+        "image_url": "https://s2.elespanol.com/2025/01/26/omicrono/defensa-y-espacio/919418231_252615907_1706x960.jpg",
+        "tags": [
+            "observatorio de la defensa",
+            "ciencia",
+            "espacio",
+            "satélites espaciales",
+            "defensa - espacio",
+            "fuerzas armadas"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20251021/espana-une-elite-espacial-satelites-spainsat-ng-comunicaciones-encriptadas-ejercito-otan/1003743977056_0.html",
+        "date": "2025-10-21 00:31:03",
+        "sentiment_score": 0.340375155210495
+    },
+    {
+        "title": "Vitor Roque le enseña a Endrick el camino a seguir",
+        "image_url": "https://pxcdn.meridiano.net/102025/1761005468194.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/vitor-roque-le-ensena-a-endrick-el-camino-a-seguir-2025102020130",
+        "date": "2025-10-21 00:13:00",
+        "sentiment_score": -0.6639058068394661
+    },
+    {
+        "title": "El esfuerzo de la RAE por no reírse (demasiado) de Luis García Montero",
+        "image_url": "https://s2.elespanol.com/2025/07/04/actualidad/1003743834222_259478748_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "instituto cervantes",
+            "tribunas",
+            "rae"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20251021/esfuerzo-rae-no-reirse-demasiado-luis-garcia-montero/1003743978012_12.html",
+        "date": "2025-10-21 00:10:49",
+        "sentiment_score": 0.3274236172437668
+    },
+    {
+        "title": "¿Soberanía digital europea? Su trascendencia y sus incertidumbres",
+        "image_url": "https://s2.elespanol.com/2021/09/15/invertia/economia/612199803_208290998_1706x960.jpg",
+        "tags": [
+            "unión europea (ue)",
+            "plataformas digitales",
+            "tecnología",
+            "tribunas",
+            "opinión",
+            "software"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20251021/soberania-digital-europea-trascendencia-incertidumbres/1003743972780_12.html",
+        "date": "2025-10-21 00:10:48",
+        "sentiment_score": 0.006870582699775696
+    },
+    {
+        "title": "La Oreja de Van Gogh arrasa en la venta de entradas y añade nuevas fechas",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/202510/21/media/cortadas/oreja-gogh-arrasa-venta-entradas-anade-nuevas-20251021015009-vi.jpg",
+        "tags": [
+            "venta",
+            "fechas",
+            "nuevas",
+            "arrasa",
+            "gogh",
+            "anade",
+            "entradas",
+            "oreja"
+        ],
+        "link": "https://www.elcomercio.es/gente-estilo/oreja-gogh-arrasa-venta-entradas-anade-nuevas-20251021015009-vi.html",
+        "date": "2025-10-21 02:05:07",
+        "sentiment_score": -0.8517363891005516
+    },
+    {
+        "title": "¿Qué dilema comparten el entrenador del Avilés Dani Vidal y el del Barcelona Hansi Flick?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32d657fc-7b1b-4937-bdc3-c66062fa9f6e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "defensa",
+            "avilés",
+            "goles",
+            "bilbao athletic"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2025/10/21/dilema-comparten-entrenador-aviles-dani-122831321.html",
+        "date": "2025-10-21 02:00:42",
+        "sentiment_score": 0.06571885943412781
+    },
+    {
+        "title": "Un diablo llamado Jan Virgili",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3525057.jpg",
+        "tags": [
+            "rcd mallorca",
+            "real mallorca",
+            "ultimas noticias",
+            "primera división",
+            "fútbol",
+            "laliga",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/10/21/2494923/diablo-llamado-jan-virgili.html",
+        "date": "2025-10-21 01:48:01",
+        "sentiment_score": -0.08532488346099854
+    },
+    {
+        "title": "Lujo frente a las costas de Mallorca: así es el Explora II, uno de los cruceros más espectaculares del mundo",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3525417.jpg",
+        "tags": [
+            "noticias palma hoy",
+            "palma",
+            "ultimas noticias",
+            "palma de mallorca",
+            "msc cruceros",
+            "cruceros en palma",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/palma/2025/10/21/2495143/lujo-frente-costas-mallorca-asi-explora-uno-cruceros-mas-espectaculares-del-mundo.html",
+        "date": "2025-10-21 01:48:01",
+        "sentiment_score": 0.6095040589570999
+    },
+    {
+        "title": "Cristina del Puerto-Peix: «‘Dones sense homes’ no existiría si la protagonista fuera al psicólogo»",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3524913.jpg",
+        "tags": [
+            "llibreria lluna",
+            "cultura",
+            "cultura en mallorca",
+            "literatura en mallorca"
+        ],
+        "link": "https://www.ultimahora.es/noticias/cultura/2025/10/21/2494819/cristina-del-puerto-peux-dones-sense-homes-existiria-protagonista-decidiera-psicologo.html",
+        "date": "2025-10-21 01:48:01",
+        "sentiment_score": -0.11941918730735779
+    },
+    {
+        "title": "El partido de Miami",
+        "image_url": "https://imagenes.diariodeleon.eshttps//imagenes.diariodeleon.es/static/img/logo-dl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodeleon.es/opinion/251021/2063556/partido-miami.html",
+        "date": "2025-10-21 01:30:00",
+        "sentiment_score": -0.3864043727517128
+    },
+    {
+        "title": "Así se jugará la jornada de este martes 21/10 de la Champions League",
+        "image_url": "https://pxcdn.meridiano.net/102025/1761009761523.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/liga-de-campeones/asi-se-jugara-la-jornada-de-este-martes-21-10-de-la-champions-league-2025102021220",
+        "date": "2025-10-21 01:22:00",
+        "sentiment_score": 0.24810808151960373
+    },
+    {
+        "title": "La Inteligencia Artificial prevé que Granada registre la mayor subida del alquiler en Andalucía",
+        "image_url": "https://static.grupojoly.com/clip/ea19952a-ca37-4001-be7b-f32891aab2b2_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vivienda granada",
+            "últimas noticias granada"
+        ],
+        "link": "https://www.granadahoy.com/granada/inteligencia-artificial-preve-granada-registre_0_2005048364.html",
+        "date": "2025-10-21 01:17:41",
+        "sentiment_score": 0.20727963000535965
+    },
+    {
+        "title": "A propósito del rififí de París",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "proposito",
+            "paris",
+            "rififi"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/proposito-rififi-paris_0_2005051977.html",
+        "date": "2025-10-21 01:06:50",
+        "sentiment_score": -0.1462807059288025
+    },
+    {
+        "title": "Hasta de CANTV: así puedes recargar y pagar tus servicios de telefonía e internet con Cashea",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "cashea",
+            "digitel",
+            "movilnet",
+            "movistar",
+            "internet",
+            "telefonía",
+            "cantv"
+        ],
+        "link": "https://2001online.com/servicios/hasta-de-cantv-asi-puedes-recargar-y-pagar-tus-servicios-de-telefonia-e-internet-con-cashea-202510202210",
+        "date": "2025-10-21 02:01:00",
+        "sentiment_score": 0.1940765380859375
+    },
+    {
+        "title": "Maduro pide crear una 'app' con la FANB: la población podrá reportar todo lo que ve y oye",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "venezuela",
+            "consulta popular",
+            "elecciones",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-pide-crear-una-app-con-la-fanb-la-poblacion-podra-reportar-todo-lo-que-ve-y-oye-202510202200",
+        "date": "2025-10-21 02:00:00",
+        "sentiment_score": 0.11747995391488075
+    },
+    {
+        "title": "Este cambio en Florida a la hora de manejar tomado te puede llevar a la cárcel",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "leyes",
+            "tránsito",
+            "florida"
+        ],
+        "link": "https://2001online.com/usa/internacionales/este-cambio-en-florida-a-la-hora-de-manejar-tomado-te-puede-llevar-a-la-carcel-202510202200",
+        "date": "2025-10-21 02:00:00",
+        "sentiment_score": -0.7242698520421982
+    },
+    {
+        "title": "Afamado psiconeuroinmunólogo asegura que no se debe comer mucha verdura cruda: conoce el por qué de esta afirmación",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760721810553.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/afamado-psiconeuroinmunologo-asegura-que-no-se-debe-comer-mucha-verdura-cruda-conoce-el-por-que-de-esta-afirmacion-202510202200",
+        "date": "2025-10-21 02:00:00",
+        "sentiment_score": 0.556674387305975
+    },
+    {
+        "title": "En imágenes: hallan panes de comunión con la imagen de Cristo de hace 1.300 años",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761011463015/image.png?ch=675&cw=1200",
+        "tags": [
+            "hallan panes de comunión",
+            "cristo",
+            "hallazgo"
+        ],
+        "link": "https://2001online.com/curiosidades/en-imagenes-hallan-panes-de-comunion-con-la-imagen-de-cristo-de-hace-1-300-anos-202510202130",
+        "date": "2025-10-21 01:55:00",
+        "sentiment_score": 0.824055626988411
+    },
+    {
+        "title": "\"Disparar en el aeropuerto\": la confesión en vivo que evitó una tragedia en Atlanta",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "disparar en el aeropuerto",
+            "alerta familiar",
+            "confesion en vivo",
+            "aeropuerto de atlanta",
+            "billy joe cagle"
+        ],
+        "link": "https://2001online.com/usa/sucesos/disparar-en-el-aeropuerto-la-confesion-en-vivo-que-evito-una-tragedia-en-atlanta-202510202160",
+        "date": "2025-10-21 01:06:00",
+        "sentiment_score": 0.3761790879070759
+    },
+    {
+        "title": "Colapsa el puente \"La Fuente\" de Cumaná: autoridades ordenan estos trabajos para restituir el paso",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761008300048.jpg?ch=675&cw=1200",
+        "tags": [
+            "lluvias",
+            "sucre",
+            "colapsa puente en sucre",
+            "colapsa puente en baruta",
+            "cumaná"
+        ],
+        "link": "https://2001online.com/comunidad/colapsa-el-puente-la-fuente-de-cumana-autoridades-ordenan-estos-trabajos-para-restituir-el-paso-202510202100",
+        "date": "2025-10-21 01:00:00",
+        "sentiment_score": -0.7517428789287806
+    },
+    {
+        "title": "Carta astral de Salvador Pérez: Entérate si será elegido Salón de la Fama",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1760796034338.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/carta-astral-de-salvador-perez-enterate-si-sera-elegido-salon-de-la-fama-202510202100",
+        "date": "2025-10-21 01:00:00",
+        "sentiment_score": -0.05471689999103546
+    },
+    {
+        "title": "¡Atención indocumentados! ICE revela cómo funciona su dispositivo WRAP para rastrear migrantes",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761008105216.jpg?ch=675&cw=1200",
+        "tags": [
+            "rastreo de migrantes",
+            "dispositivo wrap",
+            "ice"
+        ],
+        "link": "https://2001online.com/usa/internacionales/atencion-indocumentados-ice-revela-como-funciona-su-dispositivo-wrap-para-rastrear-migrantes-2025102020450",
+        "date": "2025-10-21 00:45:00",
+        "sentiment_score": -0.7807444110512733
+    },
+    {
+        "title": "El botín \"invendible\": ¿cómo los ladrones podrían ganar dinero con las Joyas del Louvre?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "expertos",
+            "invendibles",
+            "mercado negro de reservas",
+            "joyas de louvre",
+            "joyas robadas"
+        ],
+        "link": "https://2001online.com/curiosidades/el-botin-invendible-como-los-ladrones-podrian-ganar-dinero-con-las-joyas-del-louvre--202510202000",
+        "date": "2025-10-21 00:00:00",
+        "sentiment_score": -0.8675835207104683
     }
 ];
