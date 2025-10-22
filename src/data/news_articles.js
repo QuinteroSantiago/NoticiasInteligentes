@@ -141,36 +141,6 @@ export default [
         "sentiment_score": -0.06689730286598206
     },
     {
-        "title": "El Reino Unido, entre el alivio institucional y el escepticismo ciudadano por la retirada del uso de títulos del príncipe Andrés",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/18/andres-R4jvPtiunqhuxPCIgCiWMHJ-1200x840@diario_abc.JPG",
-        "tags": [
-            "escepticismo",
-            "uso",
-            "andres",
-            "alivio",
-            "titulos",
-            "reino",
-            "retirada",
-            "principe",
-            "unido",
-            "division"
-        ],
-        "link": "https://www.abc.es/internacional/reino-unido-alivio-institucional-escepticismo-ciudadano-retirada-20251018144116-nt.html",
-        "date": "2025-10-18 12:51:32",
-        "sentiment_score": -0.10075569152832031
-    },
-    {
-        "title": "El PIB andaluz creció un 3,4% en el primer semestre del año, tres décimas por encima de España",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/18/fotonoticia_20251018104155_1920-RSSR3zohD7Ui3xhYUPmNzOM-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "andalucía"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/pib-andaluz-crecio-primer-semestre-ano-tres-20251018131049-nts.html",
-        "date": "2025-10-18 11:14:53",
-        "sentiment_score": -0.04766392707824707
-    },
-    {
         "title": "Muere Enric Canals, periodista y exdirector de TV3, a los 73 años",
         "image_url": "https://imagenes.elpais.com/resizer/v2/HVSMWNWINJEMNCUKVG4BDN7BAE.jpg?auth=1710cf1e001450ce9af6b4fbdd0d6ec4635d5ddc42aebba9cf74ea2bdbf9c5bf&width=1200",
         "tags": [
@@ -204,71 +174,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-10-18/alerta-por-la-distribucion-en-cataluna-de-queso-frances-con-escherichia-coli.html",
         "date": "2025-10-18 15:39:50",
         "sentiment_score": -0.8843012824654579
-    },
-    {
-        "title": "3.000 bomberos forestales de toda España protestan en Madrid para exigir mejoras salariales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CGTR2O54XVOH5PKXZ5XST3NGEQ.jpg?auth=ee61dbb9e50d0e514feafb1061962ea05c93da6d03efedf62332484183a8e708&width=1200",
-        "tags": [
-            "principado de asturias",
-            "españa vacía",
-            "comunidad de madrid",
-            "castilla y león",
-            "extremadura",
-            "galicia",
-            "bomberos",
-            "incendios forestales",
-            "madrid",
-            "incendios forestales intencionados",
-            "incendios"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-10-18/3000-bomberos-forestales-de-toda-espana-protestan-en-madrid-para-exigir-mejoras-salariales.html",
-        "date": "2025-10-18 14:16:44",
-        "sentiment_score": -0.0889110118150711
-    },
-    {
-        "title": "Aragonès critica el aval del Supremo a mantener el secreto del CNI sobre el espionaje con Pegasus",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4JIEOFK7MJCJ3EBGIRWUI7NL2M.jpg?auth=8cafac02d23678c8c1ce3844401c7572e83df2f476ea4d3c382c17da96fb777f&width=1200",
-        "tags": [
-            "secretos oficiales",
-            "caso pegasus",
-            "cataluña",
-            "pere aragonès",
-            "españa",
-            "generalitat cataluña",
-            "tribunal superior",
-            "cni",
-            "espionaje",
-            "tribunales",
-            "gobierno"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-18/aragones-critica-el-aval-del-supremo-a-mantener-el-secreto-del-cni-sobre-el-espionaje-con-pegasus.html",
-        "date": "2025-10-18 12:22:41",
-        "sentiment_score": -0.7528066616505384
-    },
-    {
-        "title": "Sónar, el festival de autor que se queda sin sus autores",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PUBCWZMDRTCBMQKHFFDKCFKROE.jpg?auth=d639685486bfea3eada24dd5e36566ec22802afb0ff242e110f00e2d009ab395&width=1200",
-        "tags": [
-            "jóvenes",
-            "música",
-            "israel",
-            "guerra",
-            "electrónica",
-            "barcelona",
-            "festivales",
-            "fiesta",
-            "música en vivo",
-            "cultura",
-            "sociedad",
-            "sónar",
-            "cataluña",
-            "música electrónica",
-            "arte",
-            "polémicas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-18/sonar-el-festival-de-autor-que-se-queda-sin-sus-autores.html",
-        "date": "2025-10-18 11:38:43",
-        "sentiment_score": 0.34382159635424614
     },
     {
         "title": "Hansi Flick no estará en el clásico contra el Real Madrid y se arriesga a una sanción mayor",
@@ -8515,5 +8420,422 @@ export default [
         "link": "https://2001online.com/deportes/proximos-juegos-de-la-lvbp-por-meridiano-television-en-vivo-y-gratis-2025102116530",
         "date": "2025-10-21 20:53:00",
         "sentiment_score": 0.10893324203789234
+    },
+    {
+        "title": "Madrid: la predicción del clima para este 22 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/VIPJJXCNMVGR3M55AVHAXKJVJM.png?auth=14419999022c0623f90875782a9e9cd6baee46a291cf5d2441750dd707e6feec&height=1080&smart=true&width=1920",
+        "tags": [
+            "tiempo en españa",
+            "noticias",
+            "españa noticias",
+            "madrid",
+            "españa sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/22/madrid-la-prediccion-del-clima-para-este-22-de-octubre/",
+        "date": "2025-10-22 02:01:40",
+        "sentiment_score": 0.17115057818591595
+    },
+    {
+        "title": "La única fantasía sexual que no ha podido satisfacer una soltera “pajillera” en ‘First Dates’: “En África por lo visto no comen el coño”",
+        "image_url": "https://www.infobae.com/resizer/v2/7ZJETMR23REGZPE7WXFR3JIEDM.png?auth=d9d39d45e91d1205816b84a89922f20d6038f657e355bbaee95585bcbe56f8b7&height=1080&smart=true&width=1920",
+        "tags": [
+            "mediaset",
+            "españa-noticias",
+            "mediaset españa",
+            "programas de televisión",
+            "first dates",
+            "cuatro españa",
+            "televisión españa",
+            "cuatro",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/21/la-unica-fantasia-sexual-que-no-ha-podido-satisfacer-una-soltera-pajillera-en-africa-por-lo-visto-no-comen-el-cono/",
+        "date": "2025-10-21 23:15:57",
+        "sentiment_score": 0.4513907190412283
+    },
+    {
+        "title": "Cupón Diario de la Once: comprueba los ganadores del 21 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "cupón diario",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/21/cupon-diario-de-la-once-comprueba-los-ganadores-del-21-de-octubre/",
+        "date": "2025-10-21 23:15:31",
+        "sentiment_score": 0.17068176344037056
+    },
+    {
+        "title": "El sospechoso mensaje que recibió un amigo de Mariana Lens, la argentina desaparecida en España",
+        "image_url": "https://www.infobae.com/resizer/v2/GB4HVSAWJFDRHJPHP4QG7QKEMA.jpg?auth=8a5587b13d1d2a693ba95979b9c90b834357797233b0fe2014d7aa86d6dbb591&height=694&smart=true&width=1260",
+        "tags": [
+            "desaparecidos",
+            "mariana lens",
+            "españa",
+            "palma de mallorca",
+            "últimas noticias"
+        ],
+        "link": "https://www.infobae.com/sociedad/policiales/2025/10/21/el-sospechoso-mensaje-que-recibio-un-amigo-de-mariana-lens-la-argentina-desaparecida-en-espana/",
+        "date": "2025-10-21 22:53:07",
+        "sentiment_score": -0.6928310394287109
+    },
+    {
+        "title": "El neuropsicólogo Álvaro Bilbao revela el secreto para que los niños desarrollen su memoria",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/familia/2025/10/22/bilbao-RuL1xL0XW19oMJbGiQ3zhEL-758x531@diario_abc.jpg",
+        "tags": [
+            "familia",
+            "padres e hijos"
+        ],
+        "link": "https://www.abc.es/familia/padres-hijos/alvaro-bilbao-cerebro-20251022145420-nt.html",
+        "date": "2025-10-22 00:01:49",
+        "sentiment_score": -0.04131004214286804
+    },
+    {
+        "title": "El parte de los encerrados del AVE",
+        "image_url": "https://static.grupojoly.com/clip/dff31bd3-137e-4d3d-82ba-1e06796f5720_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "encerrados",
+            "ave",
+            "parte"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/parte-encerrados-ave_0_2005056516.html",
+        "date": "2025-10-22 02:00:58",
+        "sentiment_score": -0.9473794372752309
+    },
+    {
+        "title": "El «nuevo y emocionante capítulo» de Meriton da miedo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/63cf6e69-9496-45d4-ab3e-074ba076eb0d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "meriton",
+            "vàlencia",
+            "el valencia",
+            "fútbol"
+        ],
+        "link": "https://www.levante-emv.com/valencia-cf/2025/10/22/nuevo-emocionante-capitulo-meriton-da-122868698.html",
+        "date": "2025-10-22 02:00:55",
+        "sentiment_score": -0.5659829080104828
+    },
+    {
+        "title": "El futuro CEU San Pablo de Palma priorizará a los alumnos de Baleares",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/3527415.jpg",
+        "tags": [
+            "palma de mallorca",
+            "palma",
+            "local",
+            "universidad",
+            "ultimas noticias",
+            "educación en baleares",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/10/22/2496089/futuro-ceu-san-pablo-palma-priorizara-alumnos-baleares.html",
+        "date": "2025-10-22 01:48:01",
+        "sentiment_score": 0.024142161011695862
+    },
+    {
+        "title": "Raíllo y Valjent, entre los jugadores que más balones despejan en LaLiga",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3526695.jpg",
+        "tags": [
+            "rcd mallorca",
+            "martin valjent",
+            "ultimas noticias",
+            "laliga",
+            "última hora",
+            "real mallorca",
+            "primera división",
+            "antonio raíllo",
+            "fútbol"
+        ],
+        "link": "https://www.ultimahora.es/deportes/real-mallorca/2025/10/22/2495677/raillo-valjent-top-jugadores-mas-despejan-laliga.html",
+        "date": "2025-10-22 01:48:01",
+        "sentiment_score": 0.079241544008255
+    },
+    {
+        "title": "Rosalía tiene claro cuál es su rincón favorito de Mallorca: en la costa y escenario de uno de sus videoclips",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3525153.jpg",
+        "tags": [
+            "famosos en mallorca",
+            "ia-news",
+            "rosalía",
+            "sociedad",
+            "audiencias-um",
+            "tendencias",
+            "portitxol",
+            "última hora"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/10/22/2494959/rosalia-tiene-claro-cual-rincon-favorito-mallorca-costa-escenario-uno-videoclips.html",
+        "date": "2025-10-22 01:48:01",
+        "sentiment_score": 0.04553985595703125
+    },
+    {
+        "title": "El 62% de las empresas subirán los precios en 2026 por los aranceles",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/10/19/68f53c6524a4f.png",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/251022/2063619/62-empresas-subiran-precios-2026-aranceles.html",
+        "date": "2025-10-22 01:30:00",
+        "sentiment_score": -0.7485577203333378
+    },
+    {
+        "title": "Nicolas Sarkozy: de ambicioso héroe de la derecha francesa a convicto",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2019/08/22/90681FE1-9279-423D-B5FB-BE69ED62E4BE/69.jpg?crop=604%2C340%2Cx0%2Cy164&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "internacional",
+            "europa"
+        ],
+        "link": "https://www.larazon.es/internacional/europa/nicolas-sarkozy-ambicioso-heroe-derecha-francesa-convicto_2025102268f82f3f85cbf43a9a16c10e.html",
+        "date": "2025-10-22 01:11:27",
+        "sentiment_score": -0.8557254336774349
+    },
+    {
+        "title": "El Constitucional, el Supremo y el CGPJ en la gala de El Español, con protagonismo del \"lobby riojano\" en los corrillos",
+        "image_url": "https://s2.elespanol.com/2025/10/22/espana/politica/1003743980381_259507384_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "premios los leones de el español",
+            "partido popular (pp)",
+            "alberto núñez feijóo",
+            "periódico el español",
+            "cuca gamarra",
+            "pedro j. ramírez"
+        ],
+        "link": "https://www.elespanol.com/eventos/2025/premios-los-leones/20251022/constitucional-supremo-cgpj-gala-espanol-protagonismo-lobby-riojano-corrillos/1003743980343_0.html",
+        "date": "2025-10-22 00:45:52",
+        "sentiment_score": -0.4948159530758858
+    },
+    {
+        "title": "Ana Botín da las claves de su liderazgo en los premios de El Español: \"Creatividad, convicción y responsabilidad\"",
+        "image_url": "https://s2.elespanol.com/2025/10/21/actualidad/1003743980275_259505385_1706x960.jpg",
+        "tags": [
+            "banco santander",
+            "banca",
+            "premios los leones de el español",
+            "openbank"
+        ],
+        "link": "https://www.elespanol.com/eventos/2025/premios-los-leones/20251022/ana-botin-da-claves-liderazgo-premios-espanol-creatividad-conviccion-responsabilidad/1003743980263_0.html",
+        "date": "2025-10-22 00:45:51",
+        "sentiment_score": 0.8162125684320927
+    },
+    {
+        "title": "Diez años rugiendo con libertad: la fiesta a la que vinieron hasta Goya y El Greco",
+        "image_url": "https://s2.elespanol.com/2025/10/21/actualidad/1003743980339_259506616_1706x960.jpg",
+        "tags": [
+            "premios los leones de el español",
+            "cruz sánchez de lara",
+            "pedro j. ramírez"
+        ],
+        "link": "https://www.elespanol.com/eventos/2025/premios-los-leones/20251022/anos-rugiendo-libertad-fiesta-vinieron-goya-greco/1003743980257_0.html",
+        "date": "2025-10-22 00:45:47",
+        "sentiment_score": 0.5777741447091103
+    },
+    {
+        "title": "El plan de Duro con sus filiales para evitar la quiebra: vender dos y liquidar otras tres",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/730b3e38-980c-4d20-b9be-e25c11298404_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "negocios",
+            "duro felguera",
+            "ingeniería",
+            "contratos"
+        ],
+        "link": "https://www.lne.es/asturias/2025/10/22/plan-duro-filiales-evitar-quiebra-122871269.html",
+        "date": "2025-10-22 02:15:00",
+        "sentiment_score": -0.018724530935287476
+    },
+    {
+        "title": "Protección Civil en el Carlos Tartiere",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "carlos tartiere",
+            "protección civil",
+            "voluntarios"
+        ],
+        "link": "https://www.lne.es/oviedo/opinion/2025/10/22/proteccion-civil-carlos-tartiere-122872081.html",
+        "date": "2025-10-22 02:00:59",
+        "sentiment_score": 0.013074472546577454
+    },
+    {
+        "title": "Priorio y la planta de asfalto",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "patrimonio",
+            "salud",
+            "el valle",
+            "asturias"
+        ],
+        "link": "https://www.lne.es/oviedo/opinion/2025/10/22/priorio-planta-asfalto-122872080.html",
+        "date": "2025-10-22 02:00:59",
+        "sentiment_score": -0.6792439185082912
+    },
+    {
+        "title": "Tu mascota es como una maleta",
+        "image_url": "https://men.gsstatic.es/autor/fela-saborit-soriano/39.png",
+        "tags": [
+            "firmas del día"
+        ],
+        "link": "https://www.menorca.info/opinion/firmas-del-dia/2025/10/22/2495887/mascota-como-maleta.html",
+        "date": "2025-10-22 01:59:01",
+        "sentiment_score": -0.8636725898832083
+    },
+    {
+        "title": "MegaPark obtiene la máxima distinción internacional de calidad en ocio nocturno",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3524427.jpg",
+        "tags": [
+            "tendencias",
+            "última hora",
+            "sociedad"
+        ],
+        "link": "https://www.ultimahora.es/noticias/sociedad/2025/10/22/2494569/megapark-obtiene-maxima-distincion-internacional-calidad-ocio-nocturno.html",
+        "date": "2025-10-22 01:48:01",
+        "sentiment_score": 0.5659193471074104
+    },
+    {
+        "title": "Nicki Nicole, fan de lujo: alentó a Lamine Yamal desde la tribuna del Barcelona",
+        "image_url": "https://www.infobae.com/resizer/v2/3Y227WMHBZGH3DTCBF2WRNFJII.jpg?auth=d6c9fd7c806552042b232318fdb31782cc8b5b4d9a182e601daf4d5c36f79e0a&height=1280&smart=true&width=1920",
+        "tags": [
+            "nicki nicole",
+            "lamine yamal"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/10/22/nicki-nicole-fan-de-lujo-alento-a-lamine-yamal-desde-la-tribuna-del-barcelona/",
+        "date": "2025-10-22 01:42:40",
+        "sentiment_score": 0.31888044625520706
+    },
+    {
+        "title": "Oliu descarta meter al Sabadell en una operación para ampliar el tamaño del banco",
+        "image_url": "https://imagenes.diariodeleon.es/files/og_thumbnail/uploads/2025/10/21/68f7bd4b22de0.jpeg",
+        "tags": [
+            "economía y empleo"
+        ],
+        "link": "https://www.diariodeleon.es/economia/251022/2063618/oliu-descarta-meter-sabadell-operacion-ampliar-tamano-banco.html",
+        "date": "2025-10-22 01:30:00",
+        "sentiment_score": -0.1809665933251381
+    },
+    {
+        "title": "Premios y literatura",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "premios",
+            "literatura"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/premios-literatura_0_2005066277.html",
+        "date": "2025-10-22 01:10:14",
+        "sentiment_score": -0.11169619858264923
+    },
+    {
+        "title": "Venezolanos con TPS del 2021: ¿Qué pasará desde el 7 de noviembre a las 11:59 p. m.?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "tps",
+            "eeuu",
+            "venezolanos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/venezolanos-con-tps-del-2021-que-pasara-desde-el-7-de-noviembre-a-las-11-59-p-m--202510212200",
+        "date": "2025-10-22 02:00:00",
+        "sentiment_score": -0.6254930403083563
+    },
+    {
+        "title": "Atención influencers y creadores de contenido: ¿pueden grabar en centros comerciales?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "creadores de contenido",
+            "diario 2001",
+            "venezuela",
+            "centro comerciales"
+        ],
+        "link": "https://2001online.com/nacionales/atencion-influencers-y-creadores-de-contenido-pueden-grabar-en-centros-comerciales--2025102121300",
+        "date": "2025-10-22 01:30:00",
+        "sentiment_score": -0.5398539751768112
+    },
+    {
+        "title": "USCIS exige \"Prueba de Pago\" en visas clave: ¿qué Implica el nuevo requisito de Trump para trabajadores?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761095543404.jpg?ch=675&cw=1200",
+        "tags": [
+            "uscis",
+            "prueba de pago en visas"
+        ],
+        "link": "https://2001online.com/usa/internacionales/uscis-exige-prueba-de-pago-en-visas-clave-que-implica-el-nuevo-requisito-de-trump-para-trabajadores--2025102121110",
+        "date": "2025-10-22 01:11:00",
+        "sentiment_score": 0.03351358324289322
+    },
+    {
+        "title": "¿Afecta el cierre de Gobierno de EEUU? Estos son los cambios que anuncia SNAP para noviembre",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "noviembre",
+            "beneficios",
+            "snap"
+        ],
+        "link": "https://2001online.com/usa/servicios/afecta-el-cierre-de-gobierno-de-eeuu-estos-son-los-cambios-que-anuncia-snap-para-noviembre-202510212100",
+        "date": "2025-10-22 01:00:00",
+        "sentiment_score": 0.41742807626724243
+    },
+    {
+        "title": "¡Adiós caspa! Esta es la mascarilla natural que elimina cualquier impureza del cabello: solo necesitas tres ingredientes",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761092981038.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/adios-caspa-esta-es-la-mascarilla-natural-que-elimina-cualquier-impureza-del-cabello-solo-necesitas-tres-ingredientes-2025102120350",
+        "date": "2025-10-22 00:35:00",
+        "sentiment_score": -0.7346683070063591
+    },
+    {
+        "title": "\"Está rodeada de mucho amor\": Hija de Tatiana Capote informa sobre el estado de salud de la actriz",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "venezuela",
+            "actriz",
+            "tatiana capote"
+        ],
+        "link": "https://2001online.com/farandula/esta-rodeada-de-mucho-amor-hija-de-tatiana-capote-informa-sobre-el-estado-de-salud-de-la-actriz-2025102120310",
+        "date": "2025-10-22 00:31:00",
+        "sentiment_score": 0.5725691989064217
+    },
+    {
+        "title": "En video: INTT atiende denuncia difundida en redes sociales por cobro excesivo de pasaje en Guarenas",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "intt",
+            "redes sociales",
+            "intt denuncias",
+            "denuncia"
+        ],
+        "link": "https://2001online.com/sucesos/en-video-intt-atiende-denuncia-difundida-en-redes-sociales-por-cobro-excesivo-de-pasaje-en-guarenas-2025102120300",
+        "date": "2025-10-22 00:30:00",
+        "sentiment_score": 0.27057313174009323
+    },
+    {
+        "title": "Evita el mal aliento con este remedio casero a base de limón y menta: aprende a prepararlo en simples pasos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761090974934.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/evita-el-mal-aliento-con-este-remedio-casero-a-base-de-limon-y-menta-aprende-a-prepararlo-en-simples-pasos-202510212000",
+        "date": "2025-10-22 00:00:00",
+        "sentiment_score": -0.8146813530474901
+    },
+    {
+        "title": "Venezuela entre los países más bellos, pero no en la posición que crees",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761089555899/Imagen%20de%20WhatsApp%202025-10-21%20a%20las%2019.32.10_ae2ce577.jpg?ch=675&cw=1200",
+        "tags": [
+            "venezuela",
+            "las mejores del mundo",
+            "paises",
+            "lista",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/curiosidades/venezuela-entre-los-paises-mas-bellos-pero-no-en-la-posicion-que-crees-2025102119420",
+        "date": "2025-10-21 23:42:00",
+        "sentiment_score": 0.6649049930274487
+    },
+    {
+        "title": "Depura el hígado naturalmente con este batido económico: solo necesitarás dos ingredientes que siempre tienes en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761087289901.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/depura-el-higado-naturalmente-con-este-batido-economico-solo-necesitaras-dos-ingredientes-que-siempre-tienes-en-casa-2025102119400",
+        "date": "2025-10-21 23:40:00",
+        "sentiment_score": -0.49450550973415375
     }
 ];
