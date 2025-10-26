@@ -1,307 +1,5 @@
 export default [
     {
-        "title": "El método para limpiar correctamente el radiador: tardarás menos de un minuto",
-        "image_url": "https://www.infobae.com/resizer/v2/PZTYKZQLMRAVBEL2BJM55TOTTA.jpeg?auth=de46e9618fe2c88ee8574d0d7125be4bd38408794bebe4d86e613ec4c88714c0&height=4887&smart=true&width=8688",
-        "tags": [
-            "españa-noticias",
-            "calefacción",
-            "radiador",
-            "españa-sociedad",
-            "trucos",
-            "hogar",
-            "limpieza",
-            "radiadores"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/22/el-metodo-para-limpiar-correctamente-el-radiador-tardaras-menos-de-un-minuto/",
-        "date": "2025-10-22 06:33:44",
-        "sentiment_score": -0.7262180261313915
-    },
-    {
-        "title": "Precio de la gasolina en España 2025: las tarifas más altas y más bajas 22 de octubre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "precio gasolina",
-            "gasolina",
-            "noticias",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/22/precio-de-la-gasolina-en-espana-2025-las-tarifas-mas-altas-y-mas-bajas-22-de-octubre/",
-        "date": "2025-10-22 06:30:42",
-        "sentiment_score": -0.09995312988758087
-    },
-    {
-        "title": "El pasatiempo que puede ayudarte a mejorar la memoria a medida que envejecemos",
-        "image_url": "https://www.infobae.com/resizer/v2/UWODHSAK35FMXMLZXTNDGS7CNA.jpg?auth=fe0576ebadfe3ba5727d5c5590d6eed4b585dc1a3275d888b84dfc05f8f97c4f&height=3648&smart=true&width=5472",
-        "tags": [
-            "españa-salud",
-            "envejecimiento cerebral",
-            "instrumentos musicales",
-            "música",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/22/el-pasatiempo-que-puede-ayudarte-a-mejorar-la-memoria-a-medida-que-envejecemos/",
-        "date": "2025-10-22 06:21:09",
-        "sentiment_score": 0.8508848855271935
-    },
-    {
-        "title": "Willy Bárcenas recuerda la bronca de David Summers, vocalista de Hombres G, en los inicios de Taburete: “Acabé muy pedo”",
-        "image_url": "https://www.infobae.com/resizer/v2/YVWF2MYBDZFG5PXSLHCTJ6LSTY.jpeg?auth=ef30d9577f45b8f3552cfed53b55d9aafa312401a5cdbc6eb7a9db514d73c34a&height=1365&smart=true&width=2048",
-        "tags": [
-            "españa-entretenimiento",
-            "antena 3",
-            "televisión españa",
-            "gente españa",
-            "el hormiguero",
-            "pablo motos",
-            "atresmedia",
-            "taburete",
-            "willy bárcenas",
-            "famosos españa",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/22/willy-barcenas-recuerda-la-bronca-de-david-summers-vocalista-de-hombres-g-en-los-inicios-de-taburete-acabe-muy-pedo/",
-        "date": "2025-10-22 06:12:44",
-        "sentiment_score": 0.3201593942940235
-    },
-    {
-        "title": "Así es el tramo de carretera más peligroso en España: el índice es 598 veces superior a la media nacional",
-        "image_url": "https://www.infobae.com/resizer/v2/KEGBSGH3UZBQPLBTFG5M3ELE7Y.jpg?auth=af5a6bb68f0df3fb06a3cec73f7bf34b8c3ad180a53ededb25698a08f1aecdf6&height=1280&smart=true&width=1920",
-        "tags": [
-            "carreteras espana",
-            "siniestros viales",
-            "españa-nacional",
-            "red de carreteras del estado",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/22/asi-es-el-tramo-de-carretera-mas-peligroso-en-espana-el-indice-es-598-veces-la-media-nacional/",
-        "date": "2025-10-22 06:11:47",
-        "sentiment_score": -0.26335591822862625
-    },
-    {
-        "title": "Gominolas de creatina: qué es, cómo funcionan y cuál es su efectividad",
-        "image_url": "https://www.infobae.com/resizer/v2/X6KS2A5XFVASFF2XWRUEXQA2AY.jpg?auth=b4791c86e97a706504eb61cc52a242179f4b3e6cca91d325db90615f16643ff0&height=4024&smart=true&width=6048",
-        "tags": [
-            "españa-salud",
-            "fitness y bienestar españa",
-            "masa muscular",
-            "creatina",
-            "gimnasio",
-            "españa-noticias",
-            "fitness y bienestasr"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/22/gominolas-de-creatina-que-es-como-funcionan-y-cual-es-su-efectividad/",
-        "date": "2025-10-22 06:05:07",
-        "sentiment_score": 0.8044673074036837
-    },
-    {
-        "title": "Nueva oleada de helicópteros para el Ejército: una treintena de NH90 y más aeronaves ligeras y de transporte",
-        "image_url": "https://www.infobae.com/resizer/v2/D474OVIG37UIP5VSLYE4ZEIO6I.jpg?auth=697eb44dae750d0b2fb1a5f877367c72372bd18508bfc774d39925271bba7b98&height=3335&smart=true&width=5000",
-        "tags": [
-            "españa-noticias",
-            "armada española",
-            "españa-nacional",
-            "ejército del aire",
-            "helicópteros",
-            "airbus"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/22/nueva-oleada-de-helicopteros-para-el-ejercito-una-treintena-de-nh90-y-mas-aeronaves-ligeras-y-de-transporte/",
-        "date": "2025-10-22 06:01:50",
-        "sentiment_score": 0.06330382823944092
-    },
-    {
-        "title": "Un padre no consigue reducir la pensión alimentaria de 900 euros que debe pagar a cada uno de sus tres hijos que todavía viven con su madre",
-        "image_url": "https://www.infobae.com/resizer/v2/IGCJTCGTHZHY7KOUPRBAKC4FGA.jpg?auth=77d2c0e690a7905dd1a05dc36ed01ee1df397052832b80f5d6616b0f5746ccea&height=667&smart=true&width=1000",
-        "tags": [
-            "divorcios",
-            "tribunales españa",
-            "justicia",
-            "juicios",
-            "sentencias",
-            "españa-nacional",
-            "madrid",
-            "pensiones",
-            "crianza",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/22/un-padre-no-consigue-reducir-la-pension-alimentaria-de-900-euros-que-debe-pagar-a-cada-uno-de-sus-tres-hijos-que-todavia-viven-con-su-madre/",
-        "date": "2025-10-22 05:57:28",
-        "sentiment_score": -0.7042954191565514
-    },
-    {
-        "title": "Hallado en el cauce del Turia un cuerpo que podría ser el del vecino de Pedralba desaparecido hace un año en la DANA de Valencia",
-        "image_url": "https://www.infobae.com/resizer/v2/AZDBQX4XCVASBA3ZMQQSIAL5ZI.jpg?auth=f79c46186d034469de044fd52447e3e2b89c2b527d961020ef107bf434c74137&height=3470&smart=true&width=5124",
-        "tags": [
-            "sucesos",
-            "comunidad valenciana",
-            "dana",
-            "españa-sociedad",
-            "sucesos españa",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/22/hallado-en-el-cauce-del-turia-un-cuerpo-que-podria-ser-el-del-vecino-de-pedralba-desaparecido-hace-un-ano-en-la-dana-de-valencia/",
-        "date": "2025-10-22 05:55:12",
-        "sentiment_score": -0.150447566062212
-    },
-    {
-        "title": "El PP activará hoy en el Senado el procedimiento para llevar al Gobierno al TC por no presentar los PGE de 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/FOKYGT735FDCJI26H7BQHKOQ3Y.jpg?auth=1388271beefa184a4cad6e969b017b9310666b64daa6f29f9207cd7f11672a24&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/10/22/el-pp-activara-hoy-en-el-senado-el-procedimiento-para-llevar-al-gobierno-al-tc-por-no-presentar-los-pge-de-2026/",
-        "date": "2025-10-22 05:46:46",
-        "sentiment_score": -0.45998119562864304
-    },
-    {
-        "title": "El Ejecutivo de Sánchez oficializa la declaración como lugar de memoria democrática de la sede del Gobierno madrileño",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Q4OX3TRFR5BKNOQFKOH3GBXNEY.jpg?auth=7c3f01b71fd21c274cec052399983ba00e909457c46af8ba766fdce5d0541038&width=1200",
-        "tags": [
-            "tribunal constitucional",
-            "isabel díaz ayuso",
-            "memoria de españa",
-            "comunidad de madrid",
-            "madrid",
-            "gobierno autonómico",
-            "gobierno comunidad madrid",
-            "memoria histórica",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-10-22/el-ejecutivo-de-sanchez-oficializa-la-declaracion-como-lugar-de-memoria-democratica-la-sede-del-gobierno-madrileno.html",
-        "date": "2025-10-22 06:35:05",
-        "sentiment_score": -0.6919157616794109
-    },
-    {
-        "title": "El Govern admite que no puede negociar los Presupuestos si no avanza en la financiación",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UG4I2MTQEZECXFQ2JRCQGKTZM4.jpg?auth=4b7b06707ae0d05012540a4d4b09981b7711b58a9b677cefef81e2f8c8463d4d&width=1200",
-        "tags": [
-            "presupuestos autonómicos",
-            "barcelona",
-            "govern cataluña",
-            "cataluña",
-            "bomberos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-22/el-govern-admite-que-no-puede-negociar-los-presupuestos-si-no-avanza-en-la-financiacion.html",
-        "date": "2025-10-22 06:12:32",
-        "sentiment_score": -0.6756797432899475
-    },
-    {
-        "title": "Hoy en Madrid es noticia: Exposiciones, regreso de Eric Clapton y polémicas políticas en la capital",
-        "image_url": "https://www.madridactual.es/images/stories/noticias/recursos/madrid/parque-de-enrique-tierno-galvan.jpg",
-        "tags": [
-            "comunidad de madrid | región"
-        ],
-        "link": "https://www.madridactual.es/noticias-regionales/hoy-en-madrid-es-noticia-exposiciones-regreso-de-eric-clapton-y-polemicas-politicas-en-la-capital-20251022-8062635.html",
-        "date": "2025-10-22 06:06:47",
-        "sentiment_score": 0.06091899052262306
-    },
-    {
-        "title": "El Gobierno declara Lugar de Memoria Democrática la madrileña Real Casa de Correos",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/10/22/imagen-de-archivo-de-la-real-casa-de-correos-de-madrid-sede-del-gobierno-autonomico-madrileno-en-la-puerta-de-sol.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/el-gobierno-declara-lugar-memoria-democratica-real-casa-correos-madridbr.html",
-        "date": "2025-10-22 06:39:00",
-        "sentiment_score": 0.03493477404117584
-    },
-    {
-        "title": "Real Madrid - Juventus de Turín: Alineaciones, horario y dónde ver el partido de Champions League en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/09/29/B159065C-F364-4BE9-A789-E57CAD4B6631/vinicius-real-madrid-marsella-champions-league_98.jpg?crop=4282%2C2409%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "antena 3 noticias",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-juventus-turin-alineaciones-horario-donde-ver-partido-champions-league-directo_2025102268f87bdc5ddd5447a1bea035.html",
-        "date": "2025-10-22 06:38:20",
-        "sentiment_score": 0.4967619590461254
-    },
-    {
-        "title": "El Gobierno declara la madrileña Real Casa de Correos Lugar de Memoria Democrática",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/10/gobierno-memoria-democratica-casa-correos.jpg",
-        "tags": [
-            "gobierno de españa",
-            "españa",
-            "madrid",
-            "ley de memoria democrática"
-        ],
-        "link": "https://theobjective.com/espana/2025-10-22/gobierno-casa-correos-memoria-democratica/",
-        "date": "2025-10-22 06:35:54",
-        "sentiment_score": 0.003098227083683014
-    },
-    {
-        "title": "El Gobierno declara la Real Casa de Correos, sede de la Presidencia de la Comunidad de Madrid, Lugar de Memoria Democrática",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/486a9356-1ecc-44ce-8706-769a6f16ee9a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "memoria democrática",
-            "franquismo",
-            "gobierno",
-            "madrid"
-        ],
-        "link": "https://www.laopiniondemalaga.es/nacional/2025/10/22/gobierno-casa-correos-madrid-lugar-memoria-democratica-122876496.html",
-        "date": "2025-10-22 06:31:51",
-        "sentiment_score": 0.021355852484703064
-    },
-    {
-        "title": "Juzgan a dos acusados de estafar más de 100.000 euros a una empresa hortofrutícola de Badajoz",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/38698d3e-c4d1-4d08-9eed-a2f5f1612af6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "estafas",
-            "badajoz",
-            "juicio"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/badajoz/2025/10/22/juzgan-acusados-estafar-100-000-122874754.html",
-        "date": "2025-10-22 06:37:48",
-        "sentiment_score": -0.7104295324534178
-    },
-    {
-        "title": "La vida de Felipe, hijo de Ana Botín: se casó con la heredera de la mayor perfumería de España",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/10/felipe-hijo-ana-botin.jpeg",
-        "tags": [
-            "bodas",
-            "gente",
-            "banco santander",
-            "celebrities",
-            "ana botín",
-            "relaciones de pareja"
-        ],
-        "link": "https://theobjective.com/gente/2025-10-22/felipe-hijo-ana-botin-heredera-perfumeria/",
-        "date": "2025-10-22 06:30:00",
-        "sentiment_score": 0.6285059154033661
-    },
-    {
-        "title": "Restaurante Soluna: esto es una marisquería 'top' a la japonesa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/248fdfac-db98-401b-871a-540e97333434_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "restaurantes de pau arenós",
-            "gastronomía",
-            "barcelona",
-            "dónde comer hoy"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251022/restaurante-soluna-barcelona-122818487",
-        "date": "2025-10-22 06:13:51",
-        "sentiment_score": 0.15047907829284668
-    },
-    {
-        "title": "La ordinalidad y los estragos de la IA",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/08/13/politica/877922329_13337200_1706x960.jpg",
-        "tags": [
-            "primeras planas",
-            "tranvia",
-            "parlament",
-            "aliança catalana",
-            "barcelona",
-            "fiscalía",
-            "ia",
-            "sílvia orriols",
-            "cataluña",
-            "políticos"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20251022/ordinalidad-estragos-ia/1003742699982_0.html",
-        "date": "2025-10-22 06:05:24",
-        "sentiment_score": -0.8971733273938298
-    },
-    {
         "title": "Eliminan la ayuda de 100 euros a una madre marroquí que vive en España y se indigna tras dos años recibiéndola: “Me embargan la nómina y encima me multan”",
         "image_url": "https://www.infobae.com/resizer/v2/UE5M66IOGZGJLNWYPLN6AKL6SY.jpg?auth=e558900cffc82c00512e0b11c0b9749531e4ee4695631364c6fe69d4697f4149&height=1080&smart=true&width=1920",
         "tags": [
@@ -8667,5 +8365,602 @@ export default [
         "link": "https://2001online.com/usa/servicios/dia-de-los-muertos-en-estados-unidos-enterate-como-celebrarlo-en-los-angeles-nuevo-mexico-y-nueva-york-202510251000",
         "date": "2025-10-25 14:00:00",
         "sentiment_score": 0.7564572747796774
+    },
+    {
+        "title": "Comprobar la 6/49: los números ganadores del 25 del octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/VYQGUMAVIFERHHL4IYQENR4IBI.jpg?auth=4905bc9e6a7ba93cae26321234e50fe927a4057fc82ec4fc260706c296341abe&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "españa-economía",
+            "españa-loterías",
+            "6/49"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/25/comprobar-la-649-los-numeros-ganadores-del-25-del-octubre/",
+        "date": "2025-10-25 21:00:30",
+        "sentiment_score": 0.4682384356856346
+    },
+    {
+        "title": "Bonoloto: este es el número ganador del sorteo del 25 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2D22TSFDBJCEHIECLWRJLWUQIU.jpg?auth=0f8d364022b340f9b936878cdcc9af4602a796ccca3443df81ec42d1022cdd45&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "bonoloto",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/25/bonoloto-este-es-el-numero-ganador-del-sorteo-del-25-de-octubre/",
+        "date": "2025-10-25 20:15:32",
+        "sentiment_score": 0.6181680392473936
+    },
+    {
+        "title": "Una nueva manifestación masiva pide dimisión de Mazón al año de la dana: \"Es momento de reivindicación y memoria\"",
+        "image_url": "https://www.infobae.com/resizer/v2/RKOAARSXRRBM3LHPMX5KR4NQOI.jpg?auth=8a225881c316127c2502d316cd4806c8ad49974e6194079e88bf450e37929067&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/25/una-nueva-manifestacion-masiva-pide-dimision-de-mazon-al-ano-de-la-dana-es-momento-de-reivindicacion-y-memoria/",
+        "date": "2025-10-25 20:15:28",
+        "sentiment_score": -0.5057736858725548
+    },
+    {
+        "title": "Patxi López: \"Se han cumplido 14 años de la desaparición de ETA y hay quien sigue paseando su fantasma para atacarnos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/4OHCQKC44VBERH4AXWTFQ7EABU.jpg?auth=1d58b6e43370662544ca84edb35955f9b485742764d845f4df47178007864745&height=1080&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/25/patxi-lopez-se-han-cumplido-14-anos-de-la-desaparicion-de-eta-y-hay-quien-sigue-paseando-su-fantasma-para-atacarnos/",
+        "date": "2025-10-25 19:15:11",
+        "sentiment_score": -0.8602231834083796
+    },
+    {
+        "title": "Imputan a la Fundación Siglo XXI y cinco personas por el presunto blanqueo de 2,5 M de euros de fondos europeos destinados a centros de menores en Canarias",
+        "image_url": "https://www.infobae.com/resizer/v2/VP2EXHZMC5HT5IQC2HY4X36CTE.jpg?auth=f9e6b75a605a6d482f0c1e9d52f98517ec110d5ceb6f590772bdb7f401b9052c&height=1281&smart=true&width=1920",
+        "tags": [
+            "policía nacional españa",
+            "policía españa",
+            "menores migrantes",
+            "canarias",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/25/imputan-a-la-fundacion-siglo-xxi-y-cinco-personas-y-por-el-presunto-blanqueo-de-25-m-de-euros-de-fondos-europeos-destinados-a-centros-de-menores-en-canarias/",
+        "date": "2025-10-25 17:56:19",
+        "sentiment_score": -0.34875912964344025
+    },
+    {
+        "title": "La discoteca dentro de un vagón de metro e inspirada en Nueva York que está de moda en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/FOMR7WVUONDEHH5Q6DKYDTOACI.jpg?auth=93f8c33311a3768b1ba9aa5046106ac897f078835aecd491d7f72fb654f25a06&height=1080&smart=true&width=1920",
+        "tags": [
+            "discoteca",
+            "españa-sociedad",
+            "vida nocturna",
+            "ocio nocturno",
+            "comunidad de madrid",
+            "madrid",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/25/la-discoteca-dentro-de-un-vagon-de-metro-e-inspirada-en-nueva-york-que-esta-de-moda-en-madrid/",
+        "date": "2025-10-25 17:47:48",
+        "sentiment_score": 0.6544993855059147
+    },
+    {
+        "title": "Vox rechaza negociar con Junts una hipotética moción de censura: \"Con nosotros los separatistas pinchan en hueso\"",
+        "image_url": "https://www.infobae.com/resizer/v2/B3AW3FT3KNFPPCMPLBT2XC4XYU.jpg?auth=aed5803c7aa75e3cb0ed6ab7982d99718022a99f540094560e894ec32e87456c&height=1282&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/25/vox-rechaza-negociar-con-junts-una-hipotetica-mocion-de-censura-con-nosotros-los-separatistas-pinchan-en-hueso/",
+        "date": "2025-10-25 17:46:13",
+        "sentiment_score": -0.8668601475656033
+    },
+    {
+        "title": "Una nueva manifestación pide la dimisión de Mazón al año de la dana: \"Es momento de reivindicación y memoria\"",
+        "image_url": "https://www.infobae.com/resizer/v2/DEPVYVL4PVFRTBM3P7GZMA2G2Y.jpg?auth=4e18cdccebc096f92bbd00c899aeae1f0dca8f2a18c8c7ce1bed9368d7fcf812&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/25/una-nueva-manifestacion-pide-la-dimision-de-mazon-al-ano-de-la-dana-es-momento-de-reivindicacion-y-memoria/",
+        "date": "2025-10-25 17:46:01",
+        "sentiment_score": -0.345117524266243
+    },
+    {
+        "title": "Un padre trata de reducir la pensión tras el divorcio y la Justicia lo rechaza: considera que intentó “ocultar su verdadera situación laboral y económica”",
+        "image_url": "https://www.infobae.com/resizer/v2/XRJFHWNMBVGV5NBADX2OUA2IQQ.jpg?auth=4b659b6f13df5a269d2b94bfc97976b557fc95e682643b0c27b4f0c39d0eb71e&height=1080&smart=true&width=1920",
+        "tags": [
+            "divorcio",
+            "sentencias españa",
+            "audiencia provincial",
+            "españa-nacional",
+            "pension alimenticia",
+            "tribunales",
+            "sentencias",
+            "madrid",
+            "juicios",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/25/un-padre-trata-de-reducir-la-pension-tras-el-divorcio-y-la-justicia-lo-rechaza-considera-que-intento-ocultar-su-verdadera-situacion-laboral-y-economica/",
+        "date": "2025-10-25 17:35:39",
+        "sentiment_score": -0.3383840136229992
+    },
+    {
+        "title": "Las producciones más populares de Disney+ en España para engancharse este día",
+        "image_url": "https://www.infobae.com/resizer/v2/EPARKIM5JVDJ7C5QZDPA63O7ZM.jpg?auth=69ba65d9cb3ecb4c32451e000e5a2a1a286fa2d7825529b64fae07034e7c5fa5&height=1080&smart=true&width=1920",
+        "tags": [
+            "disney",
+            "españa-televisión",
+            "noticias",
+            "peliculas",
+            "streaming",
+            "series"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/25/las-producciones-mas-populares-de-disney-en-espana-para-engancharse-este-dia/",
+        "date": "2025-10-25 17:30:39",
+        "sentiment_score": 0.4609876275062561
+    },
+    {
+        "title": "Hallado el cuerpo carbonizado de un hombre en la sierra de Cádiz",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TMXINXTOVFL53ATXIJL3OSN5MM.jpg?auth=a0491ad6b7aa3a3d0c82e9a8a259621e3ae4ef25204f2128cb486a59b101e0d2&width=1200",
+        "tags": [
+            "andalucía",
+            "cadáveres",
+            "cadáveres sin identificar",
+            "españa",
+            "cádiz",
+            "guardia civil",
+            "policía",
+            "emergencias",
+            "torre alháquime"
+        ],
+        "link": "https://elpais.com/espana/2025-10-25/hallado-el-cuerpo-carbonizado-de-un-hombre-en-la-sierra-de-cadiz.html",
+        "date": "2025-10-25 18:15:19",
+        "sentiment_score": -0.2693895176053047
+    },
+    {
+        "title": "Grave un hombre de 70 años atropellado en Las Rozas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PA5EZVXANFDRVGPPGLB4NSSOM4.JPG?auth=125cfa1135e6ab99d7a39068b25da8a27c89d068f5d604f9bb6ee15f2fd4bed7&width=1200",
+        "tags": [
+            "hospital puerta de hierro",
+            "emergencias",
+            "comunidad de madrid",
+            "accidentes tráfico",
+            "atropellos",
+            "las rozas de madrid",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-10-25/grave-un-hombre-de-70-anos-atropellado-en-las-rozas.html",
+        "date": "2025-10-25 17:15:09",
+        "sentiment_score": -0.8503688722848892
+    },
+    {
+        "title": "La Fiscalía hace equilibrios ante las causas que salpican al presidente y el juicio a García Ortiz",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/10/26/fiscalia-k40F-U23034973403967c-1200x840@RC.jpg",
+        "tags": [
+            "pedro sánchez",
+            "leire díez",
+            "begoña gómez",
+            "álvaro garcía ortiz",
+            "josé luis ábalos meco"
+        ],
+        "link": "https://www.eldiariomontanes.es/nacional/fiscalia-equilibrios-ante-causas-salpican-presidente-juicio-20251026000702-ntrc.html",
+        "date": "2025-10-25 22:07:04",
+        "sentiment_score": -0.7287121526896954
+    },
+    {
+        "title": "#AlijodeLibros Novela, Poesía, Gráfica... (27-31 octubre)",
+        "image_url": "https://mediterraneo.diario16plus.com/wp-content/uploads/2025/10/novedades-27-31-696x522.jpg",
+        "tags": [
+            "libros del asteroide",
+            "duomo",
+            "satori",
+            "libros del zorro rojo",
+            "galaxia gutenberg",
+            "xordica",
+            "anagrama",
+            "altamarea",
+            "quaterni",
+            "gráfica",
+            "palabra",
+            "periférica",
+            "rba",
+            "libros",
+            "literatura",
+            "renacimiento",
+            "el gallo de oro",
+            "nórdica",
+            "sexto piso",
+            "impedimenta",
+            "novela",
+            "pez de plata",
+            "fundación sgae",
+            "blatt & ríos",
+            "newton compton",
+            "la caja books",
+            "ocio y cultura",
+            "trotalibros",
+            "almadía",
+            "reino de cordelia",
+            "dosmanos",
+            "destacados",
+            "poesía",
+            "cabaret voltaire",
+            "muñeca infinita",
+            "el paseo",
+            "lengua de trapo/cba",
+            "letraversal",
+            "newcastle",
+            "visor",
+            "vaparaíso",
+            "minúscula",
+            "teatro"
+        ],
+        "link": "https://mediterraneo.diario16plus.com/alijodelibros-novela-poesia-grafica-27-31-octubre/",
+        "date": "2025-10-25 22:07:00",
+        "sentiment_score": 0.008325807750225067
+    },
+    {
+        "title": "Andrés Trapiello, escritor: “El 27 me parece un grupo de poetas sin demasiado recorrido”",
+        "image_url": "https://static.grupojoly.com/clip/166b9850-8520-46f7-b0f1-7a9f8dec8d8b_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "escritor",
+            "27",
+            "trapiello",
+            "parece",
+            "andres"
+        ],
+        "link": "https://www.diariodesevilla.es/rastrodelafama/andres-trapiello-escritor-27-parece_0_2005090705.html",
+        "date": "2025-10-25 22:01:58",
+        "sentiment_score": -0.24271506071090698
+    },
+    {
+        "title": "Villarreal gana en Valencia y se consolida en el tercer puesto en La Liga",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "sports",
+            "deportes",
+            "villarreal valencia espanyol liga espanola"
+        ],
+        "link": "https://apnews.com/article/villarreal-valencia-espanyol-liga-espanola-a199490049eb20227d852b00b3ca35d5",
+        "date": "2025-10-25 21:57:06",
+        "sentiment_score": 0.8539896197617054
+    },
+    {
+        "title": "(Crónica) Villarreal y Getafe toman Mestalla y San Mamés",
+        "image_url": "https://www.infobae.com/resizer/v2/EL3FM23X45BBFK2SBQ3RYRNZBM.jpg?auth=0510272c038b8c6acb30cc93326a3756834e49fe541d992d85f7af853a4d4b75&height=1282&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/25/cronica-villarreal-y-getafe-toman-mestalla-y-san-mames/",
+        "date": "2025-10-25 21:45:17",
+        "sentiment_score": -0.15879909321665764
+    },
+    {
+        "title": "Real Madrid y Barcelona se juegan el liderato en LaLiga (Previa)",
+        "image_url": "https://pxcdn.meridiano.net/102025/1761428559570.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/real-madrid-y-barcelona-se-juegan-el-liderato-en-laliga-previa--2025102517440",
+        "date": "2025-10-25 21:44:00",
+        "sentiment_score": 0.23665287345647812
+    },
+    {
+        "title": "«Granada se ha llenado otra vez de oro»",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/10/26/oro-uno-k8BH-U2303490480948dvC-1200x840@Ideal.jpg",
+        "tags": [
+            "granada"
+        ],
+        "link": "https://www.ideal.es/granada/granada-llenado-vez-oro-20251026233751-nt.html",
+        "date": "2025-10-25 21:37:51",
+        "sentiment_score": 0.6057849116623402
+    },
+    {
+        "title": "El abogado granadino, Cayetano Martínez de Irujo y el juez Peinado",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/10/26/Imagen%20cronica%20copia-kgIB-U2303496355628oIB-1200x840@Ideal.jpg",
+        "tags": [
+            "sanidad",
+            "partido popular (pp)",
+            "onofre miralles",
+            "torvizcón",
+            "pinos puente",
+            "juan manuel moreno bonilla",
+            "elecciones",
+            "macarena olona",
+            "granada",
+            "leire díez",
+            "partido socialista obrero español (psoe)",
+            "espinosa de los monteros",
+            "parlamento andaluz",
+            "sebastián pérez",
+            "pedro sánchez",
+            "vox",
+            "cayetano martínez de irujo"
+        ],
+        "link": "https://www.ideal.es/granada/quico-chirino-abogado-granadino-cayetano-martinez-irujo-juez-peinado-20251026233724-nt.html",
+        "date": "2025-10-25 21:37:24",
+        "sentiment_score": -0.09099166095256805
+    },
+    {
+        "title": "La foto que ha publicado Lamine Yamal en las horas previas al Clásico y que no gustará al madridismo",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/10/25/68fd3eaddc8cc.r_d.573-783-6014.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/foto-publicado-lamine-yamal-horas-previas-clasico-gustara-madridismo-20251025_3239089.html",
+        "date": "2025-10-25 21:36:53",
+        "sentiment_score": -0.01933234930038452
+    },
+    {
+        "title": "La memoria fotográfica de la Rambla",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/24/68fb3153e804e.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20251026/11192623/memoria-fotografica-rambla.html",
+        "date": "2025-10-25 22:05:00",
+        "sentiment_score": -0.5293759554624557
+    },
+    {
+        "title": "La ingeniería catalana Comsa resurge: de empresa endeudada a gigante saneado",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/25/pensamiento/zona-franca/1003742701349_15324647_1706x960.jpg",
+        "tags": [
+            "construcción",
+            "empresas",
+            "zona franca",
+            "empresa familiar",
+            "ave",
+            "barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20251025/ingenieria-catalana-comsa-resurge-empresa-endeudada-gigante/1003742701348_12.html",
+        "date": "2025-10-25 22:04:49",
+        "sentiment_score": 0.2534855008125305
+    },
+    {
+        "title": "#AlijodeLibros Ensayos, Historia y otras lecturas (27-31 octubre)",
+        "image_url": "https://mediterraneo.diario16plus.com/wp-content/uploads/2025/10/ensayos-27-31-696x522.jpg",
+        "tags": [
+            "historia",
+            "punto de vista",
+            "eterna cadencia",
+            "religión",
+            "palabra",
+            "música",
+            "bauplan",
+            "pepitas",
+            "libros",
+            "verbo divino",
+            "adriana hidalgo",
+            "siruela",
+            "ensayo",
+            "galacia gutenberg",
+            "ático de los libros",
+            "pasado & presente",
+            "capitán swing",
+            "ocio y cultura",
+            "errata naturae",
+            "almuzara",
+            "folioscopio",
+            "destacados",
+            "shackleton books",
+            "sílex",
+            "sígueme",
+            "filosofía",
+            "hermida editores",
+            "sekotia",
+            "ciudad nueva",
+            "política"
+        ],
+        "link": "https://mediterraneo.diario16plus.com/alijodelibros-ensayos-historia-y-otras-lecturas-27-31-octubre/",
+        "date": "2025-10-25 22:04:00",
+        "sentiment_score": 0.030706174671649933
+    },
+    {
+        "title": "La masificación llega a las noches de Montserrat: “Los veteranos venimos a ver ovnis, los jóvenes, a fumar porros”",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/13/vida/1003742697232_15322422_1706x960.jpg",
+        "tags": [
+            "extraterrestres",
+            "en català",
+            "vida",
+            "ovnis",
+            "montserrat",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20251025/masificacion-noches-montserrat-veteranos-venimos-jovenes-porros/1003742701072_0.html",
+        "date": "2025-10-25 22:00:00",
+        "sentiment_score": -0.47939202189445496
+    },
+    {
+        "title": "El nuevo dueño de Saba exige una indemnización a Barcelona por los efectos del covid-19",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/21/business/1003742699888_15304975_1706x960.jpg",
+        "tags": [
+            "business",
+            "saba",
+            "en català",
+            "barcelona",
+            "transportes",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20251025/nuevo-dueno-saba-indemnizacion-barcelona-efectos-covid-19/1003742699429_0.html",
+        "date": "2025-10-25 22:00:00",
+        "sentiment_score": -0.8093359190970659
+    },
+    {
+        "title": "Martina Miserachs, especialista en nutrición: “La alimentación saludable también tiene que ser disfrutable\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/25/creacion/1003742701319_15324372_1706x960.jpg",
+        "tags": [
+            "nutrición",
+            "creación",
+            "en català",
+            "mujeres",
+            "dieta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20251025/martina-miserachs-especialista-nutricion-alimentacion-saludable-disfrutable/1003742701306_0.html",
+        "date": "2025-10-25 22:00:00",
+        "sentiment_score": 0.5532355904579163
+    },
+    {
+        "title": "El Glop, la cocina catalana que conquista a los asiáticos: \"El turismo es una bendición\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/17/vida/1003742698912_15293440_1706x960.jpg",
+        "tags": [
+            "restaurante",
+            "business",
+            "restauración",
+            "bares y restaurantes",
+            "empresarios",
+            "gastronomía",
+            "barcelona",
+            "entrevistas",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20251025/glop-cocina-catalana-conquista-asiaticos-turismo-bendicion/1003742700994_0.html",
+        "date": "2025-10-25 22:00:00",
+        "sentiment_score": 0.2123199999332428
+    },
+    {
+        "title": "Una ciudad española detiene la adopción de gatos: este es el motivo",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "halloween",
+            "gatos",
+            "diario 2001",
+            "españa"
+        ],
+        "link": "https://2001online.com/curiosidades/una-ciudad-espanola-detiene-la-adopcion-de-gatos-este-es-el-motivo-202510251800",
+        "date": "2025-10-25 22:00:00",
+        "sentiment_score": 0.07288563251495361
+    },
+    {
+        "title": "Vallirana, el primer centro de producción de resina de Cataluña: un matrimonio recupera un oficio centenario",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/23/empresas/1003742700661_15315617_1706x960.jpg",
+        "tags": [
+            "incendio",
+            "naturaleza",
+            "vida",
+            "empleo",
+            "trabajo",
+            "vídeos",
+            "en català",
+            "entrevistas",
+            "montañas",
+            "cataluña"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20251025/vallirana-primer-produccion-cataluna-matrimonio-recupera-centenario/1003742700888_0.html",
+        "date": "2025-10-25 22:00:00",
+        "sentiment_score": -0.35186058282852173
+    },
+    {
+        "title": "¡De Cristo a convicto!: la historia de Vissarion, el Jesús de Siberia que practicaba la poligamia",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "jesucristo",
+            "vissarion",
+            "falso jesucristo",
+            "cristo de siberia",
+            "rusia"
+        ],
+        "link": "https://2001online.com/internacionales/de-cristo-a-convicto-la-historia-de-vissarion-el-jesus-de-siberia-que-practicaba-la-poligamia-202510251800",
+        "date": "2025-10-25 22:00:00",
+        "sentiment_score": -0.22191230952739716
+    },
+    {
+        "title": "Dulce o truco con hora límite: este estado de EEUU revela los horarios oficiales para pedir dulces en Halloween",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761424108622.jpg?ch=675&cw=1200",
+        "tags": [
+            "halloween",
+            "dulce o truco",
+            "festividades"
+        ],
+        "link": "https://2001online.com/usa/internacionales/dulce-o-truco-con-hora-limite-este-estado-de-eeuu-revela-los-horarios-oficiales-para-pedir-dulces-en-halloween-2025102517550",
+        "date": "2025-10-25 21:55:00",
+        "sentiment_score": 0.28167449682950974
+    },
+    {
+        "title": "Tormenta Melissa y su desplazamiento: esto pronostica el Inameh",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761428265422.jpg?ch=675&cw=1200",
+        "tags": [
+            "instituto nacional de meteorología e hidrología (inameh)",
+            "tormenta melissa"
+        ],
+        "link": "https://2001online.com/nacionales/tormenta-melissa-y-su-desplazamiento-esto-pronostica-el-inameh-2025102517400",
+        "date": "2025-10-25 21:40:00",
+        "sentiment_score": 0.3612644337117672
+    },
+    {
+        "title": "Blue Jays vs. Dodgers: hora y por dónde ver el Juego 2 de la Serie Mundial 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761430367817.jpg?ch=675&cw=1200",
+        "tags": [
+            "serie mundial",
+            "los ángeles dodgers",
+            "blue jays vs. dodgers",
+            "blue jays",
+            "serie mundial 2025",
+            "dodgers de los ángeles",
+            "toronto blue jays",
+            "mlb"
+        ],
+        "link": "https://2001online.com/deportes/blue-jays-vs-dodgers-hora-y-por-donde-ver-el-juego-2-de-la-serie-mundial-2025-2025102518350",
+        "date": "2025-10-25 21:36:11",
+        "sentiment_score": 0.7879853807389736
+    },
+    {
+        "title": "Iker Casillas es víctima de robo: todos los detalles del suceso",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761429281880.jpg?ch=675&cw=1200",
+        "tags": [
+            "robo a iker casillas",
+            "robo",
+            "relojes de lujo",
+            "iker casillas",
+            "españa"
+        ],
+        "link": "https://2001online.com/deportes/iker-casillas-es-victima-de-robo-todos-los-detalles-del-suceso-2025102517120",
+        "date": "2025-10-25 21:36:10",
+        "sentiment_score": -0.849169721826911
+    },
+    {
+        "title": "¡Júbilo mundial! Más de 70 ciudades celebran misas en honor a San José Gregorio Hernández y Santa Carmen Rendiles",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761436438390.jpg?ch=675&cw=1200",
+        "tags": [
+            "san josé gregorio hernández",
+            "santa carmen rendiles"
+        ],
+        "link": "https://2001online.com/comunidad/jubilo-mundial-mas-de-70-ciudades-celebran-misas-en-honor-a-san-jose-gregorio-hernandez-y-santa-carmen-rendiles-2025102517310",
+        "date": "2025-10-25 21:31:00",
+        "sentiment_score": -0.04404909908771515
+    },
+    {
+        "title": "Venezuela hace oficial propuesta del himno de la Guayana Esequiba: conozca los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "#venezuela",
+            "guyana",
+            "guayana esequiba",
+            "esequibo"
+        ],
+        "link": "https://2001online.com/nacionales/venezuela-hace-oficial-propuesta-del-himno-de-la-guayana-esequiba-conozca-los-detalles-2025102516490",
+        "date": "2025-10-25 20:49:00",
+        "sentiment_score": 0.06222622096538544
+    },
+    {
+        "title": "Amazon prepara compensación económica para estos clientes: sepa si está incluido",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "dinero",
+            "amazon",
+            "clientes"
+        ],
+        "link": "https://2001online.com/usa/servicios/amazon-prepara-compensacion-economica-para-estos-clientes-sepa-si-esta-incluido-202510251600",
+        "date": "2025-10-25 20:00:00",
+        "sentiment_score": 0.08910073712468147
+    },
+    {
+        "title": "¡Alerta! Tormenta Melissa amenaza con convertirse en huracán de mayor categoría: ¿Qué regiones están en riesgo de desastre?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "huracan",
+            "alertas",
+            "categoría mayor",
+            "tormenta melissa"
+        ],
+        "link": "https://2001online.com/internacionales/alerta-tormenta-melissa-amenaza-con-convertirse-en-huracan-de-mayor-categoria-que-regiones-estan-en-riesgo-de-desastre--2025102515530",
+        "date": "2025-10-25 19:53:00",
+        "sentiment_score": -0.19416027516126633
     }
 ];
