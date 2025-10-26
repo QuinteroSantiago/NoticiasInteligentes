@@ -239,65 +239,6 @@ export default [
         "sentiment_score": -0.05355405807495117
     },
     {
-        "title": "Las mancomunidades reivindican su papel de gestores eficientes de los servicios públicos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/22/esquivias-Rq1yf11fwSXvVwy8FL6QFgL-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "pueblos",
-            "castilla la mancha",
-            "toledo"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/mancomunidades-reivindican-papel-gestores-eficientes-servicios-publicos-20251022161121-nt.html",
-        "date": "2025-10-22 14:11:22",
-        "sentiment_score": 0.06755608320236206
-    },
-    {
-        "title": "Las denuncias por violencia machista crecen un 44,6% en Canarias",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/22/efe-RauhXes4VAgwXkxMTX5Bm3N-1200x840@diario_abc.png",
-        "tags": [
-            "españa",
-            "canarias"
-        ],
-        "link": "https://www.abc.es/espana/canarias/denuncias-violencia-machista-crecen-446-canarias-20251022152837-nt.html",
-        "date": "2025-10-22 13:28:37",
-        "sentiment_score": -0.2565688341856003
-    },
-    {
-        "title": "Juicio por el asalto a la finca Torilejos de Posadas: «Después de 20 años no sé dónde está la responsabilidad penal de mi defenfido»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/22/juicio-cordoba-posadas-Rw2uWMyNuwHcTcCdV9gYkwJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "córdoba",
-            "españa",
-            "andalucía"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/larolex-hublot-louis-vuitton-falsos-localizados-cordoba-20251022120612-nts.html",
-        "date": "2025-10-22 12:46:17",
-        "sentiment_score": -0.12766414880752563
-    },
-    {
-        "title": "Antonio Sanz: «No ha desaparecido nada; la historia clínica no se puede modificar»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/22/antonio-sanz-consejo-RGNR1pv8C6O13Ljgd0mttkN-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "andalucía"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/consejo-gobierno-20251022130316-nts.html",
-        "date": "2025-10-22 12:45:27",
-        "sentiment_score": -0.22979320585727692
-    },
-    {
-        "title": "Diputación y Universidad crean la primera residencia pública provincial de Granada",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/22/fotonoticia_20251022120351_1920-RkSbn6HQHVwlFVHvQ2qzTrK-1200x840@diario_abc.jpg",
-        "tags": [
-            "andalucía",
-            "españa",
-            "granada"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/granada/diputacion-universidad-crean-primera-residencia-publica-provincial-20251022130231-nts.html",
-        "date": "2025-10-22 12:09:12",
-        "sentiment_score": 0.13183659315109253
-    },
-    {
         "title": "Asturias aprueba el proyecto para prohibir las bebidas energéticas a menores de 16 años",
         "image_url": "https://imagenes.elpais.com/resizer/v2/5ALSQ5UFRBFITB2VYOJ2TLWB3Q.jpg?auth=1bc0707fb1bdda1d8c5dfdb83783c7a4979b3a35a9f48db5ba27781fd18a0b4e&width=1200",
         "tags": [
@@ -452,38 +393,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-22/sanidad-ha-asistido-tras-la-dana-a-mas-de-2000-pacientes-la-mayoria-por-estres-agudo-o-postraumatico.html",
         "date": "2025-10-22 14:20:20",
         "sentiment_score": 0.2753497026860714
-    },
-    {
-        "title": "Espaldarazo a la investigación de la jueza de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/MVJA3K3MHFGGDJTIHXCG24BJ3A.JPG?auth=4c005d3fe88637f6ac9568b1ec71cd8173fb4942b1b381cc0e43432ed8924387&width=1200",
-        "tags": [
-            "juzgados",
-            "valencia",
-            "comunidad valenciana",
-            "dana",
-            "catástrofes",
-            "generalitat valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-22/espaldarazo-a-la-investigacion-de-la-jueza-de-la-dana.html",
-        "date": "2025-10-22 13:59:04",
-        "sentiment_score": -0.832796435803175
-    },
-    {
-        "title": "Cataluña lidera las listas de espera para acceder a la dependencia: 38.000 personas y 275 días hasta recibir la prestación",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/R4ZHLIMVT5GQHIPDK2XZY56IHQ.jpg?auth=4916aaf9b56626e59c0a2ea1032ed44ac44ebfe8da3c8d280c7e8a8c4b4ae393&width=1200",
-        "tags": [
-            "servicios sociales",
-            "salud",
-            "trabajo",
-            "cataluña",
-            "ancianos",
-            "residencias ancianos",
-            "tercera edad",
-            "enfermeras"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-22/cataluna-lidera-las-listas-de-espera-para-acceder-a-la-dependencia-38000-personas-y-275-dias-hasta-recibir-la-prestacion.html",
-        "date": "2025-10-22 12:23:25",
-        "sentiment_score": 0.23090360313653946
     },
     {
         "title": "Cuando el arte también conciencia sobre el cáncer: \"La enfermedad es una cuestión política y social\"",
@@ -8962,5 +8871,363 @@ export default [
         "link": "https://2001online.com/internacionales/alerta-tormenta-melissa-amenaza-con-convertirse-en-huracan-de-mayor-categoria-que-regiones-estan-en-riesgo-de-desastre--2025102515530",
         "date": "2025-10-25 19:53:00",
         "sentiment_score": -0.19416027516126633
+    },
+    {
+        "title": "Youtube en España: la lista de los 10 videos en tendencia de este sábado",
+        "image_url": "https://www.infobae.com/resizer/v2/QGUFPUVMORHRFDITC7MXM3UOPM.jpg?auth=0dccea8ec3483559f7e54d843f038ea1502c84c0f980d8780d23af18f1e83096&height=1080&smart=true&width=1920",
+        "tags": [
+            "youtube",
+            "noticias",
+            "streaming",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/26/youtube-en-espana-la-lista-de-los-10-videos-en-tendencia-de-este-sabado/",
+        "date": "2025-10-26 02:03:00",
+        "sentiment_score": 0.7166457623243332
+    },
+    {
+        "title": "¿Dónde estuvo el Estado?",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/10/23/boda-starwars-kdMB--170x119@Hoy.jpg",
+        "tags": [
+            "carlos mazón",
+            "paiporta",
+            "comunidad valenciana",
+            "generalitat valenciana",
+            "pedro sánchez",
+            "dana"
+        ],
+        "link": "https://www.abc.es/opinion/editorial-estado-20251026193035-nt.html",
+        "date": "2025-10-25 22:56:17",
+        "sentiment_score": -0.21270126104354858
+    },
+    {
+        "title": "Gemelos digitales, los 'capataces de futuro' de la gestión eficiente del campo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/26/gedefec-Rvvxxpge1SHHw1iDegbeMUO-1200x840@diario_abc.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.abc.es/economia/gemelos-digitales-capataces-futuro-gestion-eficiente-campo-20251026183926-nt.html",
+        "date": "2025-10-25 22:19:07",
+        "sentiment_score": -0.015361592173576355
+    },
+    {
+        "title": "Ferran Torres apunta al once del Barça en el Clásico ante el Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/16/2025031623200059838.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/ferran-torres-apunta-once-barca-clasico-madrid/20251026025104360600.html",
+        "date": "2025-10-26 01:51:04",
+        "sentiment_score": 0.5181951224803925
+    },
+    {
+        "title": "Valencia 0-2 Villarreal: ¿se le acaba el crédito a Carlos Corberán?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/05/2025040519183211405.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/valencia-2-villarreal-acaba-credito-carlos-corberan/20251026023410360602.html",
+        "date": "2025-10-26 01:34:10",
+        "sentiment_score": -0.8930651620030403
+    },
+    {
+        "title": "El Liverpool se desploma sin frenos: Arne Slot no da con la fórmula",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/06/2025100601442170689.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/oficialmente-liverpool-va-picada-paracaidas/20251026020644360601.html",
+        "date": "2025-10-26 01:06:44",
+        "sentiment_score": 0.07939700782299042
+    },
+    {
+        "title": "El tiro de Sánchez por la culata: su treta sobre el falso apoyo de Alemania al catalán oficial en la UE irrita más a Junts",
+        "image_url": "https://s2.elespanol.com/2025/10/25/espana/politica/1003743986119_259580211_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "unión europea (ue)",
+            "alemania",
+            "catalán",
+            "josé manuel albares bueno",
+            "josé manuel albares",
+            "junts per catalunya",
+            "política",
+            "consejo europeo",
+            "carles puigdemont"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251026/tiro-sanchez-culata-treta-falso-apoyo-alemania-catalan-oficial-ue-irrita-junts/1003743986104_0.html",
+        "date": "2025-10-26 00:53:04",
+        "sentiment_score": -0.25100649893283844
+    },
+    {
+        "title": "Caos en el primer reparto de menas de Canarias: CCAA que reciben expedientes erróneos o chicos que cumplen 18 en días",
+        "image_url": "https://s2.elespanol.com/2025/10/24/espana/politica/1003743985003_259564458_1706x960.jpg",
+        "tags": [
+            "emigración",
+            "gobierno de canarias",
+            "migración",
+            "ceuta",
+            "gobierno de españa",
+            "política",
+            "islas canarias",
+            "inmigración",
+            "inmigración ilegal",
+            "menores"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251026/caos-primer-reparto-menas-canarias-ccaa-reciben-expedientes-erroneos-chicos-cumplen-dias/1003743984344_0.html",
+        "date": "2025-10-26 00:51:49",
+        "sentiment_score": -0.8887666566297412
+    },
+    {
+        "title": "El juvenil del Barça no se calla: nueva provocación de Lamine Yamal al Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/102025/1761443070243.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/el-juvenil-del-barca-no-se-calla-nueva-provocacion-de-lamine-yamal-al-real-madrid-2025102520510",
+        "date": "2025-10-26 00:51:00",
+        "sentiment_score": -0.5728985965251923
+    },
+    {
+        "title": "Video: Linda Caicedo y su bonito gesto con una de sus admiradoras luego del partido de la selección Colombia femenina",
+        "image_url": "https://www.infobae.com/resizer/v2/WS7PERTO4JCBDPVNS26QEKPK3U.jpg?auth=99b8c96896e2988834c87439466094ece827eade65ecbe1aa5f6e292ee4feac4&height=540&smart=true&width=960",
+        "tags": [
+            "linda caicedo",
+            "selección colombia femenina",
+            "colombia vs. perú",
+            "liga de naciones femenina",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/10/26/video-linda-caicedo-y-su-bonito-gesto-con-una-de-sus-admiradoras-luego-del-partido-de-la-seleccion-colombia-femenina/",
+        "date": "2025-10-26 00:19:27",
+        "sentiment_score": 0.3827784061431885
+    },
+    {
+        "title": "'Suma noche', de Blanca Morel: la poesía como inmersión en la oscuridad interior",
+        "image_url": "https://s2.elespanol.com/2025/10/23/actualidad/1003743983242_259541554_1706x960.jpg",
+        "tags": [
+            "poesía"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/poesia/20251025/suma-noche-blanca-morel-poesia-inmersion-oscuridad-interior/1003743983226_0.html",
+        "date": "2025-10-25 23:54:04",
+        "sentiment_score": 0.4319700673222542
+    },
+    {
+        "title": "Las 24 horas incendiarias de Lamine Yamal en la Kings League antes del Clásico: de \"el Madrid roba\" al apoyo de Piqué",
+        "image_url": "https://s2.elespanol.com/2025/10/25/actualidad/1003743985955_259578055_1706x960.jpg",
+        "tags": [
+            "real madrid cf",
+            "fc barcelona",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251025/horas-incendiarias-lamine-yamal-kings-league-clasico-madrid-roba-apoyo-pique/1003743985954_0.html",
+        "date": "2025-10-25 23:32:32",
+        "sentiment_score": 0.5399419479072094
+    },
+    {
+        "title": "La fortuna de Isabel Preysler, estimada en 25 millones de euros: casa en Puerta de Hierro y una sola empresa a su nombre",
+        "image_url": "https://s2.elespanol.com/2025/10/22/actualidad/1003743981372_259556452_1706x960.jpg",
+        "tags": [
+            "libros",
+            "isabel preysler",
+            "famosos"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251025/fortuna-isabel-preysler-estimada-millones-euros-casa-puerta-hierro-sola-empresa-nombre/1003743982847_0.html",
+        "date": "2025-10-25 23:01:13",
+        "sentiment_score": -0.0964428260922432
+    },
+    {
+        "title": "Eduardo Mendoza o la felicidad lectora",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "eduardo",
+            "mendoza",
+            "felicidad",
+            "lectora"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/eduardo-mendoza-felicidad-lectora_0_2005096509.html",
+        "date": "2025-10-26 02:11:33",
+        "sentiment_score": 0.36917687952518463
+    },
+    {
+        "title": "Libros y San Rafael",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rafael",
+            "san",
+            "libros"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/libros-san-rafael_0_2005096455.html",
+        "date": "2025-10-26 02:08:30",
+        "sentiment_score": 0.790043268352747
+    },
+    {
+        "title": "Mazón: \"El Gobierno no ha movido ni un solo papel en un año, si hoy vuelve a llover igual, volvería a pasar lo mismo\"",
+        "image_url": "https://s2.elespanol.com/2025/10/25/actualidad/1003743986073_259579590_1706x1280.jpg",
+        "tags": [
+            "comunidad valenciana",
+            "hablando sobre españa",
+            "valencia",
+            "teresa ribera rodríguez",
+            "dana",
+            "españa",
+            "generalitat valenciana"
+        ],
+        "link": "https://www.elespanol.com/espana/20251026/mazon-gobierno-no-movido-solo-papel-ano-hoy-vuelve-llover-igual-volveria-pasar-mismo/1003743982098_0.html",
+        "date": "2025-10-26 01:25:41",
+        "sentiment_score": -0.5550002455711365
+    },
+    {
+        "title": "Datos sintéticos para curar cuerpos de carne y hueso: así es la revolución de la IA en salud",
+        "image_url": "https://s2.elespanol.com/2025/10/21/actualidad/1003743979588_259496345_1706x960.jpg",
+        "tags": [
+            "salud",
+            "inteligencia artificial",
+            "innovación",
+            "sanidad",
+            "wake up - digitalización",
+            "investigación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/investigacion/20251026/datos-sinteticos-curar-cuerpos-carne-hueso-revolucion-ia-salud/1003743979547_0.html",
+        "date": "2025-10-26 01:19:22",
+        "sentiment_score": 0.6996575593948364
+    },
+    {
+        "title": "El final de la escapada del 'Hermano Wang': huyó de México por un agujero y será deportado a Estados Unidos",
+        "image_url": "https://s2.elespanol.com/2025/10/25/actualidad/1003743986114_259580183_1706x960.jpg",
+        "tags": [
+            "narcotráfico",
+            "cuba",
+            "méxico",
+            "américa",
+            "drogas"
+        ],
+        "link": "https://www.elespanol.com/mundo/america/20251026/final-escapada-hermano-wang-huyo-mexico-agujero-deportado-unidos/1003743986023_0.html",
+        "date": "2025-10-26 00:19:10",
+        "sentiment_score": -0.8654543310403824
+    },
+    {
+        "title": "El Consistorio de Vic, el primer Ayuntamiento de España en ser condenado por exigir un nivel alto de catalán para un trabajo",
+        "image_url": "https://s2.elespanol.com/2025/10/25/actualidad/1003743986016_259578806_1706x960.jpg",
+        "tags": [
+            "vic",
+            "reportajes",
+            "barcelona",
+            "cataluña",
+            "catalán"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251025/consistorio-vic-primer-ayuntamiento-espana-condenado-exigir-nivel-alto-catalan-trabajo/1003743985958_0.html",
+        "date": "2025-10-25 23:56:14",
+        "sentiment_score": -0.9014980215579271
+    },
+    {
+        "title": "¿Pasas los 50 años? Reconocida marca de cosmética francesa da sus consejos para cuidar la piel madura",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761310795257/Captura%20de%20pantalla%202025-10-24%20a%20la(s)%208.59.26%20a.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/pasas-los-50-anos-reconocida-marca-de-cosmetica-francesa-da-sus-consejos-para-cuidar-la-piel-madura-202510252200",
+        "date": "2025-10-26 02:00:00",
+        "sentiment_score": 0.43423648178577423
+    },
+    {
+        "title": "¡Fondo de Alivio en EEUU! Podrías recibir $1.000 por el alza de impuestos en este condado: verifica si calificas",
+        "image_url": "https://media.telemundochicago.com/2025/10/42918296682-1080pnbcstations.jpg?quality=85&resize=1200%2C675&strip=all",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/fondo-de-alivio-en-eeuu-podrias-recibir-1-000-por-el-alza-de-impuestos-en-este-condado-verifica-si-calificas-202510252200",
+        "date": "2025-10-26 02:00:00",
+        "sentiment_score": 0.06620745733380318
+    },
+    {
+        "title": "Miami ordena revisión de licencias de conducir para conductores que la tramitaron en estas fechas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/miami-ordena-revision-de-licencias-de-conducir-para-conductores-que-la-tramitaron-en-estas-fechas-202510252200",
+        "date": "2025-10-26 02:00:00",
+        "sentiment_score": 0.09807129204273224
+    },
+    {
+        "title": "¡Luto en Hollywood! Fallece a los 100 años la actriz de Lassie, June Lockhart",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/farandula/luto-en-hollywood-fallece-a-los-100-anos-la-actriz-de-lassie-june-lockhart-2025102521580",
+        "date": "2025-10-26 01:58:00",
+        "sentiment_score": 0.5742130279541016
+    },
+    {
+        "title": "Eugenio Suárez gana el Premio Luis Aparicio por segunda vez en su carrera: así fueron sus números",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/eugenio-suarez-gana-el-premio-luis-aparicio-por-segunda-vez-en-su-carrera-asi-fueron-sus-numeros-2025102521570",
+        "date": "2025-10-26 01:57:00",
+        "sentiment_score": 0.4728870391845703
+    },
+    {
+        "title": "Colapsa muro perimetral en El Hatillo: reportan un fallecido",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/sucesos/colapsa-muro-perimetral-en-el-hatillo-reportan-un-fallecido-2025102521360",
+        "date": "2025-10-26 01:36:00",
+        "sentiment_score": 0.3206266239285469
+    },
+    {
+        "title": "Sorpresa en la LVBP: conoce el nuevo álbum de barajitas coleccionables",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761445756670/foto-cortesia-37056.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/sorpresa-en-la-lvbp-conoce-el-nuevo-album-de-barajitas-coleccionables-2025102522310",
+        "date": "2025-10-26 01:35:14",
+        "sentiment_score": 0.4934964571148157
+    },
+    {
+        "title": "En video: sujeto golpea salvajemente a una anciana en el metro",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761183016967.jpg?ch=675&cw=1200",
+        "tags": [
+            "países bajos",
+            "agresión",
+            "diario 2001",
+            "adulto mayor"
+        ],
+        "link": "https://2001online.com/internacionales/en-video-sujeto-golpea-salvajemente-a-una-anciana-en-el-metro-202510252100",
+        "date": "2025-10-26 01:00:00",
+        "sentiment_score": -0.4910464622080326
+    },
+    {
+        "title": "Neuropsicóloga venezolana asegura que el déficit de atención puede controlarse: conoce síntomas y tratamiento",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761308509942.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/neuropsicologa-venezolana-asegura-que-el-deficit-de-atencion-puede-controlarse-conoce-sintomas-y-tratamiento-202510252100",
+        "date": "2025-10-26 01:00:00",
+        "sentiment_score": -0.7116415817290545
+    },
+    {
+        "title": "Muere la cantante y actriz Floria Márquez a los 75 años",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761438755431.jpg?ch=675&cw=1200",
+        "tags": [
+            "floria márquez"
+        ],
+        "link": "https://2001online.com/farandula/muere-la-cantante-y-actriz-floria-marquez-a-los-75-anos-2025102520170",
+        "date": "2025-10-26 00:17:00",
+        "sentiment_score": -0.8049485962837934
     }
 ];
