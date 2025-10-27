@@ -224,33 +224,6 @@ export default [
         "sentiment_score": -0.03750842809677124
     },
     {
-        "title": "Las compras de vivienda de los jóvenes se hunden del 22,5% del 'boom' inmobiliario al 9,5%",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/10/23/PresentacinPortaldelaVivienda4-RaOtcUuAqDcQWaOelfBrKMM-1200x840@diario_abc.jpg",
-        "tags": [
-            "notarios",
-            "vivienda",
-            "el publico",
-            "españa",
-            "madrid (ciudad)",
-            "jóvenes",
-            "crisis"
-        ],
-        "link": "https://www.abc.es/economia/compras-vivienda-jovenes-hunden-225-boom-inmobiliario-20251023142758-nt.html",
-        "date": "2025-10-23 12:27:58",
-        "sentiment_score": -0.10221892595291138
-    },
-    {
-        "title": "Madrid rebajará el tipo general del IBI hasta el 0,414% y supondrá pagar 30 millones de euros menos en 2026",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/23/ibi-RxgGbmwF7bARIT6fgL1DtkO-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "madrid"
-        ],
-        "link": "https://www.abc.es/espana/madrid/madrid-rebajara-tipo-general-ibi-0414-supondra-20251023123217-nt.html",
-        "date": "2025-10-23 10:32:18",
-        "sentiment_score": -0.13743019104003906
-    },
-    {
         "title": "Illa se compromete ante el Sindicato de Inquilinas a “estudiar todas las medidas” para abordar la crisis de vivienda",
         "image_url": "https://imagenes.elpais.com/resizer/v2/HCRHSPMYSFERFODLKZEA25UJVI.jpg?auth=ea4f03e95c32bbbf093c95965f2f2b717b213d4a02adb9139b14f49e3b334133&width=1200",
         "tags": [
@@ -320,106 +293,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-23/mazon-elude-responder-si-le-preocupa-la-declaracion-de-maribel-vilaplana-y-la-oposicion-confia-en-que-se-sepa-toda-la-verdad.html",
         "date": "2025-10-23 15:24:43",
         "sentiment_score": -0.8789104046300054
-    },
-    {
-        "title": "Por Andalucía muestra en el parlamento una supuesta mamografía manipulada: “Dirán los tribunales lo que ha pasado”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/N7KIEXUABZMXNKXN6KO5SDYPQQ.jpg?auth=5f9b18df3ee509b0ed856b2d5114c3006dc0a0073985bd70fff51fc73a5605a6&width=1200",
-        "tags": [
-            "psoe-a",
-            "junta andalucía",
-            "cáncer mama",
-            "pp-a",
-            "españa",
-            "parlamento andalucía",
-            "adelante andalucía",
-            "vox",
-            "juan manuel moreno",
-            "por andalucía",
-            "andalucía",
-            "fiscalía",
-            "inmaculada nieto"
-        ],
-        "link": "https://elpais.com/espana/2025-10-23/por-andalucia-muestra-en-el-parlamento-una-supuesta-mamografia-manipulada-diran-los-tribunales-lo-que-ha-pasado.html",
-        "date": "2025-10-23 13:47:47",
-        "sentiment_score": -0.7707794401794672
-    },
-    {
-        "title": "El Tribunal de Estrasburgo condena a España por no hacer una investigación “eficaz” en dos denuncias por violación por sumisión química",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VXUWXQLMLBBBDLKA24N4T54XZU.JPG?auth=9605ab65a109d169b3dd3f1c50d1368759e83c04819ff515fc56812df0716260&width=1200",
-        "tags": [
-            "denuncias",
-            "violaciones",
-            "sumisión química",
-            "violencia machista",
-            "sentencias condenatorias",
-            "sociedad",
-            "tribunales",
-            "tribunal estrasburgo",
-            "agresiones sexuales",
-            "policía"
-        ],
-        "link": "https://elpais.com/sociedad/2025-10-23/el-tribunal-de-estrasburgo-condena-a-espana-por-no-hacer-una-investigacion-eficaz-en-dos-denuncias-por-violacion-por-sumision-quimica.html",
-        "date": "2025-10-23 13:38:13",
-        "sentiment_score": -0.2398005798459053
-    },
-    {
-        "title": "El Supremo califica de “inadmisible” la actuación del Gobierno con los menores solicitantes de asilo en Canarias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CYQMLUJMM5NPNGVC2FJ2TMAX7M.jpg?auth=3c7ea057ed09c34e4a5936c309803665d237a8e71ab33a61f4edbe8c5ebda87a&width=1200",
-        "tags": [
-            "canarias",
-            "cayucos",
-            "españa",
-            "fernando clavijo",
-            "tribunal supremo",
-            "menores migrantes",
-            "gobierno"
-        ],
-        "link": "https://elpais.com/espana/2025-10-23/el-supremo-califica-de-inadmisible-la-actuacion-del-gobierno-con-los-menores-solicitantes-de-asilo-en-canarias.html",
-        "date": "2025-10-23 13:33:38",
-        "sentiment_score": -0.34828824549913406
-    },
-    {
-        "title": "El ADN confirma que el cadáver localizado en Manises pertenece a una víctima de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/Z66N35UG6FOXXMSGXB2VZ756IU.jpg?auth=449782d7a4942d71acae3aeb58575fe3194b47a7e1e87a190ef474e6fb74abdc&width=1200",
-        "tags": [
-            "carlos mazón",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-23/el-adn-confirma-que-el-cadaver-localizado-en-manises-pertenece-a-una-victima-de-la-dana.html",
-        "date": "2025-10-23 13:30:49",
-        "sentiment_score": -0.42222850024700165
-    },
-    {
-        "title": "Junqueras: “Si alguien nos quiere imponer un modelo de financiación, nos veremos en el trámite parlamentario”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CJL6QQXAZRLPREE7H4T7YFBGGQ.jpg?auth=598cfe1b4bdf7f1696e4b4f9f050dd5aa9f90696e39bca705a34593a680e77e1&width=1200",
-        "tags": [
-            "oriol junqueras",
-            "psoe",
-            "financiación autonómica",
-            "cataluña",
-            "psc",
-            "erc"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-23/junqueras-si-alguien-nos-quiere-imponer-un-modelo-de-financiacion-nos-veremos-en-el-tramite-parlamentario.html",
-        "date": "2025-10-23 12:41:39",
-        "sentiment_score": -0.6492329575121403
-    },
-    {
-        "title": "Perelló y un vocal propuesto por Sumar suman sus votos a los conservadores para relegar al grupo progresista en el Poder Judicial",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EL6SGQ2NYVEA5MFUMHRWE24S7Y.jpg?auth=ed9aa39d144d4d02b780ebf578d3d0f3bf93c27ad848cb6409235110f36c36c9&width=1200",
-        "tags": [
-            "isabel perelló",
-            "sumar",
-            "leyes ordinarias",
-            "psoe",
-            "españa",
-            "cgpj"
-        ],
-        "link": "https://elpais.com/espana/2025-10-23/perello-y-un-vocal-propuesto-por-sumar-suman-sus-votos-a-los-conservadores-para-relegar-al-grupo-progresista-en-el-poder-judicial.html",
-        "date": "2025-10-23 12:32:01",
-        "sentiment_score": 0.18315544724464417
     },
     {
         "title": "Tebas, desquiciado tras perder credibilidad ante los clubes y estar arrinconado por el TAD",
@@ -8532,5 +8405,378 @@ export default [
         "link": "https://2001online.com/farandula/de-empacador-a-millonario-el-camino-secreto-que-llevo-a-bad-bunny-a-ser-idolo-mundial-2025102614400",
         "date": "2025-10-26 18:40:00",
         "sentiment_score": 0.6985540501773357
+    },
+    {
+        "title": "Ranking Netflix: estas son las películas favoritas del público en España",
+        "image_url": "https://www.infobae.com/resizer/v2/2XXOAWR5YFH7PLZLHKAU25F7BE.jpeg?auth=d0c4ba5e2fced6904ce7e67d998b45bbe962fa8327e29a2bdfd82c002303826c&height=4000&smart=true&width=6000",
+        "tags": [
+            "películas",
+            "streaming",
+            "netflix",
+            "noticias",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/27/ranking-netflix-estas-son-las-peliculas-favoritas-del-publico-espanol/",
+        "date": "2025-10-27 00:42:43",
+        "sentiment_score": -0.12405925989151001
+    },
+    {
+        "title": "La película más popular en Prime Video España HOY",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=1080&smart=true&width=1920",
+        "tags": [
+            "películas",
+            "streaming",
+            "prime video",
+            "noticias",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/10/27/la-pelicula-mas-popular-en-prime-video-espana-hoy/",
+        "date": "2025-10-27 00:30:34",
+        "sentiment_score": 0.3203803524374962
+    },
+    {
+        "title": "K-pop: los 10 hits que no paran de sonar en iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=1080&smart=true&width=1920",
+        "tags": [
+            "k-pop",
+            "noticias",
+            "españa",
+            "itunes",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/26/k-pop-los-10-hits-que-no-paran-de-sonar-en-itunes-espana/",
+        "date": "2025-10-26 23:15:28",
+        "sentiment_score": 0.6701103672385216
+    },
+    {
+        "title": "José Juan Ruiz : «El poder ya no se mide por el PIB, sino por la capacidad de coerción»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/27/1501952430-RhOwJvLa40BJbhhKuGlxgjM-1200x840@diario_abc.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.abc.es/economia/jose-juan-ruiz-poder-mide-pib-capacidad-20251027191058-nt.html",
+        "date": "2025-10-27 01:56:11",
+        "sentiment_score": -0.08819907903671265
+    },
+    {
+        "title": "La lección de Milei: otra política es posible",
+        "image_url": "https://s1.staticld.com/2025/10/27/milei-261025.jpg",
+        "tags": [
+            "latinoamérica"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-10-27/agapito-maestre-la-leccion-de-milei-otra-politica-es-posible-7312743/",
+        "date": "2025-10-27 02:11:03",
+        "sentiment_score": 0.36012893356382847
+    },
+    {
+        "title": "El Arsenal de Mikel Arteta huele a campeón de invierno... y también de verano",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/14/2025041421502245535.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/arsenal-mikel-arteta-huele-campeon-invierno-tambien-verano/20251027025126360719.html",
+        "date": "2025-10-27 01:51:26",
+        "sentiment_score": 0.6079292148351669
+    },
+    {
+        "title": "Muere Diego Quiles, impulsor de Kelme y expresidente del Elche CF",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081818414071552.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/muere-diego-quiles-impulsor-kelme-expresidente-elche-cf/20251027023920360718.html",
+        "date": "2025-10-27 01:39:20",
+        "sentiment_score": 0.7475568354129791
+    },
+    {
+        "title": "Tigres y Caribes cerraron la semana por todo lo alto",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/10/Tigres1-1.jpg",
+        "tags": [
+            "lvbp",
+            "26oct",
+            "deportes",
+            "tigres",
+            "caribes"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/10/26/tigres-y-caribes/",
+        "date": "2025-10-27 01:33:39",
+        "sentiment_score": 0.7969019636511803
+    },
+    {
+        "title": "Así blindará Madrid sus servicios más críticos con un SOC capaz de detectar los ciberataques en segundos",
+        "image_url": "https://s2.elespanol.com/2025/10/22/actualidad/1003743980712_259511299_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "madrid",
+            "branded content",
+            "entrevistas",
+            "ciberseguridad"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/madrid/20251027/blindara-madrid-servicios-criticos-soc-capaz-detectar-ciberataques-segundos/1003743980706_0.html",
+        "date": "2025-10-27 01:30:17",
+        "sentiment_score": 0.5692763328552246
+    },
+    {
+        "title": "El padre de Lamine Yamal responde tras la derrota del Barça en el Clásico",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/15/2025101504350846174.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/padre-lamine-yamal-responde-derrota-barca-clasico/20251027020458360715.html",
+        "date": "2025-10-27 01:04:58",
+        "sentiment_score": -0.8446807619184256
+    },
+    {
+        "title": "Lamine Yamal se hace pequeño en El Clásico: incendiario fuera, intrascendente dentro y protagonista negativo del duelo",
+        "image_url": "https://s2.elespanol.com/2025/10/26/actualidad/1003743986533_259587146_1706x960.jpg",
+        "tags": [
+            "fútbol",
+            "el clásico",
+            "fc barcelona",
+            "real madrid cf",
+            "la liga"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251027/lamine-yamal-hace-pequeno-clasico-incendiario-intrascendente-dentro-protagonista-negativo-duelo/1003743986621_0.html",
+        "date": "2025-10-27 01:00:10",
+        "sentiment_score": -0.4297073408961296
+    },
+    {
+        "title": "Xabi Alonso encabeza la venganza del Real Madrid en los Clásicos y hace creer al madridismo en su método",
+        "image_url": "https://s2.elespanol.com/2025/10/26/actualidad/1003743986698_259588076_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "fútbol",
+            "real madrid cf"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251027/xabi-alonso-encabeza-venganza-real-madrid-clasicos-hace-creer-madridismo-metodo/1003743986620_0.html",
+        "date": "2025-10-27 00:59:42",
+        "sentiment_score": 0.6429724916815758
+    },
+    {
+        "title": "26 OCT 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/26-oct-2025-tertulion-domingos-20251027_3239259.html",
+        "date": "2025-10-27 00:54:17",
+        "sentiment_score": -0.8624861687421799
+    },
+    {
+        "title": "El inolvidable gesto de Julián Álvarez con un fanático del Atlético de Madrid que sufrió la muerte de su hija",
+        "image_url": "https://www.infobae.com/resizer/v2/DXSOTJM4MBEX7OXAARG6OW7HDI.jpg?auth=97f83c30dfa8ed1f77635ea4cc5bdbf7e0be2ae650ddd7455214841a06191e32&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-argentina",
+            "atlético de madrid",
+            "deportes-internacional",
+            "julián álvarez",
+            "selección argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/27/el-inolvidable-gesto-de-julian-alvarez-con-un-fanatico-del-atletico-de-madrid-que-sufrio-la-muerte-de-su-hija/",
+        "date": "2025-10-27 00:51:30",
+        "sentiment_score": -0.03515373170375824
+    },
+    {
+        "title": "Puigdemont siempre va de farol",
+        "image_url": "https://s1.staticld.com/2025/10/23/23102025-carles-puigdemont-jordi-turull-miriam-nogueras-reunion.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-10-27/jose-garcia-dominguez-puigdemont-siempre-va-de-farol-7312745/",
+        "date": "2025-10-27 02:10:26",
+        "sentiment_score": -0.809330902993679
+    },
+    {
+        "title": "Puigdemont en su trampa: qué hace un señor de derechas como tú en un sitio de izquierdas como este",
+        "image_url": "https://phantom-elmundo.uecdn.es/2d2aea672efc6ef80cffece682b88885/crop/557x95/2385x1923/f/image/jpeg/assets/multimedia/imagenes/2025/01/28/17380869392890.jpg",
+        "tags": [
+            "vivienda",
+            "junts per catalunya",
+            "carles puigdemont",
+            "artículos roberto benito",
+            "pedro sánchez",
+            "inmigración"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/10/27/68fb7136e4d4d8a0248b4593.html",
+        "date": "2025-10-27 01:43:25",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "VDS impulsa a Valencia con más de 3.000 startups y nuevo récord de participación internacional",
+        "image_url": "https://s2.elespanol.com/2025/10/24/actualidad/1003743985084_259565570_1706x960.jpg",
+        "tags": [
+            "startup",
+            "valencia",
+            "branded content",
+            "comunidad valenciana",
+            "startups",
+            "eventos tecnologia e innovación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20251027/vds-impulsa-valencia-startups-nuevo-record-participacion-internacional/1003743985078_0.html",
+        "date": "2025-10-27 01:30:32",
+        "sentiment_score": 0.2630664259195328
+    },
+    {
+        "title": "Hyundai Inster Cross: el pequeño SUV eléctrico destinado a ser un aliado en los recorridos urbanos",
+        "image_url": "https://s2.elespanol.com/2025/10/23/actualidad/1003743983547_259545428_1706x960.jpg",
+        "tags": [
+            "coche eléctrico",
+            "motor",
+            "hyundai",
+            "pruebas de coches",
+            "industria automovilística"
+        ],
+        "link": "https://www.elespanol.com/motor/20251027/hyundai-inster-cross-pequeno-suv-electrico-destinado-aliado-recorridos-urbanos/1003743983438_0.html",
+        "date": "2025-10-27 01:20:23",
+        "sentiment_score": 0.281446386128664
+    },
+    {
+        "title": "Los municipios con más paro de España",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/10/26/614D0840-791C-491B-AB24-0718ACAF7E95/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/municipios-mas-paro-espana_2025102768fec56ec7155f09f1aec213.html",
+        "date": "2025-10-27 01:05:50",
+        "sentiment_score": 0.019014067947864532
+    },
+    {
+        "title": "\"¡Me voy del equipo!\": La Explosión de Furia de Vinicius Jr. al ser Sustituido en el Clásico",
+        "image_url": "https://pxcdn.meridiano.net/102025/1761534104514.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/me-voy-del-equipo-la-explosion-de-furia-de-vinicius-jr-al-ser-sustituido-en-el-clasico-2025102620330",
+        "date": "2025-10-27 00:33:00",
+        "sentiment_score": -0.849498899653554
+    },
+    {
+        "title": "El Real Madrid gana el Clásico con polémicas de Vinicius y Lamine, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/27/68feaa05dfaaf.png",
+        "tags": [
+            "#tertuliontjcope"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/tertuliontjcope/noticias/tertulion-domingos-juego-26-20251027_3239251.html",
+        "date": "2025-10-27 00:19:36",
+        "sentiment_score": -0.05147382616996765
+    },
+    {
+        "title": "Así marcha la tabla de posiciones tras esta jornada dominical: Caribes extiende su racha ganadora",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761531548253.jpg?ch=675&cw=1200",
+        "tags": [
+            "lvbp"
+        ],
+        "link": "https://2001online.com/deportes/asi-marcha-la-tabla-de-posiciones-tras-esta-jornada-dominical-caribes-extiende-su-racha-ganadora-2025102622170",
+        "date": "2025-10-27 02:17:00",
+        "sentiment_score": 0.8016122579574585
+    },
+    {
+        "title": "Predicciones de la semana del 27 de octubre al 2 de noviembre",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761331933403.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-27-de-octubre-al-2-de-noviembre-202510262200",
+        "date": "2025-10-27 02:00:00",
+        "sentiment_score": -0.09705708175897598
+    },
+    {
+        "title": "Bon Jovi anuncia su regreso a los escenarios en 2026: conoce los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "bon jovi",
+            "2026",
+            "tour"
+        ],
+        "link": "https://2001online.com/farandula/bon-jovi-anuncia-su-regreso-a-los-escenarios-en-2026-conoce-los-detalles-2025102621280",
+        "date": "2025-10-27 01:28:00",
+        "sentiment_score": 0.3372005745768547
+    },
+    {
+        "title": "Otorrinolaringóloga Virginia Petoia: “El ruido extremo puede causar sordera”",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761311863122.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/otorrinolaringologa-virginia-petoia-el-ruido-extremo-puede-causar-sordera--202510262100",
+        "date": "2025-10-27 01:00:00",
+        "sentiment_score": -0.6118724197149277
+    },
+    {
+        "title": "¡Triunfo inesperado! Javier Milei gana las legislativas con el 40%",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761526542781.jpg?ch=675&cw=1200",
+        "tags": [
+            "javier milei",
+            "argentina",
+            "elecciones legislativas"
+        ],
+        "link": "https://2001online.com/internacionales/triunfo-inesperado-javier-milei-gana-las-legislativas-con-el-40--202510262100",
+        "date": "2025-10-27 01:00:00",
+        "sentiment_score": -0.4066978059709072
+    },
+    {
+        "title": "Herramienta de prevención en Florida: lanzan una encuesta gratuita para que las personas evalúen su riesgo de cáncer",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761524803658.jpg?ch=675&cw=1200",
+        "tags": [
+            "gratis",
+            "cáncer",
+            "salud",
+            "servicio gratuito"
+        ],
+        "link": "https://2001online.com/usa/servicios/herramienta-de-prevencion-en-florida-lanzan-una-encuesta-gratuita-para-que-las-personas-evaluen-su-riesgo-de-cancer-2025102620290",
+        "date": "2025-10-27 00:29:00",
+        "sentiment_score": 0.10317021235823631
+    },
+    {
+        "title": "Quita manchas, hidrata y reduce las arrugas: así debes usar el agua de arroz en casa y ahorrar mucho dinero",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761411735246.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/quita-manchas-hidrata-y-reduce-las-arrugas-asi-debes-usar-el-agua-de-arroz-en-casa-y-ahorrar-mucho-dinero-202510262000",
+        "date": "2025-10-27 00:00:00",
+        "sentiment_score": 0.49207282811403275
+    },
+    {
+        "title": "¿Quieres ahorrar sin pagar impuestos en EEUU? Con esta cuenta especial podrás hacerlo",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "ahorro",
+            "impuestos",
+            "cuentas"
+        ],
+        "link": "https://2001online.com/usa/servicios/quieres-ahorrar-sin-pagar-impuestos-en-eeuu-con-esta-cuenta-especial-podras-hacerlo-202510262000",
+        "date": "2025-10-27 00:00:00",
+        "sentiment_score": 0.055950507521629333
+    },
+    {
+        "title": "Delcy Rodríguez denuncia provocación militar de Trinidad y Tobago: Buscan instalar una guerra en el Caribe",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "vicepresidenta de venezuela",
+            "eeuu",
+            "trinidad y tobago",
+            "comunicado",
+            "caribe",
+            "delcy rodríguez",
+            "cia"
+        ],
+        "link": "https://2001online.com/nacionales/delcy-rodriguez-denuncia-provocacion-militar-de-trinidad-y-tobago-buscan-instalar-una-guerra-en-el-caribe-2025102619200",
+        "date": "2025-10-26 23:20:00",
+        "sentiment_score": -0.7729855142533779
+    },
+    {
+        "title": "“Pesadilla en Elm Street 3”: ¿quién será el nuevo Freddy Krueger?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "freddy krueger",
+            "cine",
+            "jim carrey"
+        ],
+        "link": "https://2001online.com/farandula/pesadilla-en-elm-street-3-quien-sera-el-nuevo-freddy-krueger--2025102619190",
+        "date": "2025-10-26 23:19:00",
+        "sentiment_score": 0.202835351228714
     }
 ];
