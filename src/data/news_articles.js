@@ -143,177 +143,6 @@ export default [
         "sentiment_score": -0.37070898711681366
     },
     {
-        "title": "Un hombre mata a una trabajadora de un hotel con un destornillador y baila mientras ella agoniza en el suelo",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/24/Clipboard-kmME-U7018129896309lF-1200x840@diario_abc.png",
-        "tags": [
-            "muerte",
-            "hotel",
-            "twitter",
-            "reino unido",
-            "seguridad"
-        ],
-        "link": "https://www.abc.es/internacional/hombre-mata-trabajadora-hotel-destornillador-baila-agoniza-20251024190831-nt.html",
-        "date": "2025-10-24 17:10:23",
-        "sentiment_score": -0.2682708203792572
-    },
-    {
-        "title": "EE.UU. desplegará el mayor portaviones del mundo para reforzar su campaña contra el narcotráfico en América Latina",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/24/portaviones-eeuu-ford.jpg",
-        "tags": [
-            "reforzar",
-            "america",
-            "portaviones",
-            "narcotrafico",
-            "campana",
-            "eeuu",
-            "latina",
-            "mundo",
-            "mayor",
-            "desplegara"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-desplegara-mayor-portaviones-mundo-reforzar-campana-20251024190000-nt.html",
-        "date": "2025-10-24 17:00:01",
-        "sentiment_score": -0.08586961030960083
-    },
-    {
-        "title": "El Ayuntamiento de Valencia nombra a Isabel Rubio León como nueva directora del Palacio de Congresos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/24/palacio-congresos-R0I0azWwrMOJzoDtIYAj59J-1200x840@diario_abc.JPG",
-        "tags": [
-            "congresos",
-            "ayuntamiento",
-            "rubio",
-            "valencia",
-            "isabel",
-            "directora",
-            "leon",
-            "nueva",
-            "palacio",
-            "nombra"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/ayuntamiento-valencia-nombra-isabel-rubio-leon-nueva-20251024175010-nt.html",
-        "date": "2025-10-24 15:50:39",
-        "sentiment_score": 0.012893646955490112
-    },
-    {
-        "title": "Mazón mantuvo su agenda el día de la dana pese a encargar ya por la mañana un informe sobre la gravedad de la riada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/P6NVKATGDVADPOVYVSJLRSWP54.jpg?auth=a07461eccace6cac3ad3f976640d40ec8619e51635850cab2856488208671ecc&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "carlos mazón",
-            "salomé pradas",
-            "catástrofes",
-            "dana",
-            "generalitat valenciana",
-            "inundaciones dana octubre 2024",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-24/mazon-mantuvo-su-agenda-el-dia-de-la-dana-pese-a-encargar-ya-por-la-manana-un-informe-sobre-la-gravedad-de-la-riada.html",
-        "date": "2025-10-24 18:36:58",
-        "sentiment_score": -0.4668259974569082
-    },
-    {
-        "title": "El Gobierno activa el Visor InfoDana para conocer pueblo a pueblo sus inversiones en la reconstrucción",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5IPS5APNBFJBLCHNSAWVSNBMMI.jpg?auth=a7733d809250efe7280ad17eb887742ce6bc2b1fdaf09e9f82ad0531bba19cbc&width=1200",
-        "tags": [
-            "pilar bernabé",
-            "dana",
-            "diana morant ripoll",
-            "pspv-psoe",
-            "inundaciones dana octubre 2024",
-            "gobierno",
-            "ángel víctor torres",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-24/el-gobierno-activa-el-visor-infodana-para-conocer-pueblo-a-pueblo-sus-inversiones-en-reconstruccion.html",
-        "date": "2025-10-24 18:04:30",
-        "sentiment_score": -0.1611519604921341
-    },
-    {
-        "title": "Anna Balletbó: curiosidad, coraje y tenacidad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VV6NRNDTBRJURJKAYEKJSGKNNU.jpg?auth=7e3ab170a7cc9eb5c8bc1eca14a291abdb3f5553496b2143657abcb26281d42e&width=1200",
-        "tags": [
-            "anna balletbo",
-            "psc",
-            "socialismo",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-24/anna-balletbo-curiosidad-coraje-y-tenacidad.html",
-        "date": "2025-10-24 17:52:17",
-        "sentiment_score": -0.9175828052684665
-    },
-    {
-        "title": "La Guardia Civil se incauta de 1.700 kilos de hachís tras una persecución a todo velocidad a una narcolancha en Cádiz",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7RKIOXZMRJNVTMIFBXAOB7DE5A.jpg?auth=3b31098c8631d93dce7b785c9c97decd9362f5256bfc45da00883cc57845e945&width=1200",
-        "tags": [
-            "chipiona",
-            "drogas",
-            "cádiz",
-            "andalucía",
-            "hachís",
-            "españa",
-            "narcotráfico",
-            "guardia civil",
-            "rota"
-        ],
-        "link": "https://elpais.com/espana/2025-10-24/la-guardia-civil-se-incauta-de-1700-kilos-de-hachis-tras-una-persecucion-a-todo-velocidad-a-una-narcolancha-en-cadiz.html",
-        "date": "2025-10-24 16:44:37",
-        "sentiment_score": -0.6178277619183064
-    },
-    {
-        "title": "Desestimada la demanda de Abogados Cristianos contra el cuadernillo de diversidad familiar de Ciudad Real",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JRPSNZOV5VCYBPHQW4LO6QU2P4.png?auth=61bc1ccf0aac7290f8132d68b4a1a4b47430c907739c0e7bbd7d8102d340749c&width=1200",
-        "tags": [
-            "derechos humanos",
-            "ciudad real",
-            "familia",
-            "familia cristiana",
-            "españa",
-            "abogados cristianos",
-            "familia homosexual",
-            "castilla-la mancha",
-            "escolares",
-            "educación",
-            "valores democráticos",
-            "educación primaria",
-            "familia monoparental"
-        ],
-        "link": "https://elpais.com/espana/2025-10-24/desestimada-la-demanda-de-abogados-cristianos-contra-el-cuadernillo-de-diversidad-familiar-de-ciudad-real.html",
-        "date": "2025-10-24 16:21:30",
-        "sentiment_score": 0.21748298406600952
-    },
-    {
-        "title": "La hora en la que Mazón desapareció: ¿Qué hizo después de salir de El Ventorro?",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CUYEDD4ISBPE5GZF2QJTPUXY6M.jpg?auth=e455fe3202bdaec82710768bedcb169c6fc0f94ca7f7ff7b37e256fd27d37ac2&width=1200",
-        "tags": [
-            "dana",
-            "carlos mazón",
-            "generalitat valenciana",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-24/la-hora-en-que-mazon-desaparecio-que-hizo-despues-de-salir-del-ventorro.html",
-        "date": "2025-10-24 15:44:07",
-        "sentiment_score": -0.14404352754354477
-    },
-    {
-        "title": "Urtasun anuncia la compra del archivo de Juan Marsé recordando a Pijoaparte",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BDDE2SQKQVMBXAIKCPU6SG4LZE.jpg?auth=6a368f7929a75b9005e32ec3d495082ef5b05f45593c8c6e2b04b09eba86b950&width=1200",
-        "tags": [
-            "bibliotecas",
-            "juan marsé",
-            "barcelona",
-            "ernest urtasun",
-            "libros",
-            "cultura",
-            "cataluña",
-            "novela",
-            "inauguraciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-24/urtasun-anuncia-la-compra-del-archivo-de-juan-marse-recordando-a-pijoaparte.html",
-        "date": "2025-10-24 15:20:11",
-        "sentiment_score": 0.12921041622757912
-    },
-    {
         "title": "Kylian Mbappé vs Lamine Yamal, el nuevo clásico de los Clásicos",
         "image_url": "https://www.infobae.com/resizer/v2/BLBPLL6KVFDQ3DBEOZNKC6F4GI.jpg?auth=f971931b103d1abb0f92704a7be02cf1f79cf5edaeb41269370a0c6e626b7a1c&height=1280&smart=true&width=1920",
         "tags": [
@@ -853,177 +682,6 @@ export default [
         "link": "https://www.abc.es/internacional/lituania-cierra-aeropuertos-vilna-kaunas-debido-globos-20251024212723-nt.html",
         "date": "2025-10-24 19:27:36",
         "sentiment_score": -0.3707086592912674
-    },
-    {
-        "title": "Un hombre mata a una trabajadora de un hotel con un destornillador y baila mientras ella agoniza en el suelo",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/24/Clipboard-kmME-U7018129896309lF-1200x840@diario_abc.png",
-        "tags": [
-            "muerte",
-            "hotel",
-            "twitter",
-            "reino unido",
-            "seguridad"
-        ],
-        "link": "https://www.abc.es/internacional/hombre-mata-trabajadora-hotel-destornillador-baila-agoniza-20251024190831-nt.html",
-        "date": "2025-10-24 17:10:23",
-        "sentiment_score": -0.26827092468738556
-    },
-    {
-        "title": "EE.UU. desplegará el mayor portaviones del mundo para reforzar su campaña contra el narcotráfico en América Latina",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/24/portaviones-eeuu-ford.jpg",
-        "tags": [
-            "reforzar",
-            "america",
-            "portaviones",
-            "narcotrafico",
-            "campana",
-            "eeuu",
-            "latina",
-            "mundo",
-            "mayor",
-            "desplegara"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-desplegara-mayor-portaviones-mundo-reforzar-campana-20251024190000-nt.html",
-        "date": "2025-10-24 17:00:01",
-        "sentiment_score": -0.08587026596069336
-    },
-    {
-        "title": "El Ayuntamiento de Valencia nombra a Isabel Rubio León como nueva directora del Palacio de Congresos",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/24/palacio-congresos-R0I0azWwrMOJzoDtIYAj59J-1200x840@diario_abc.JPG",
-        "tags": [
-            "congresos",
-            "ayuntamiento",
-            "rubio",
-            "valencia",
-            "isabel",
-            "directora",
-            "leon",
-            "nueva",
-            "palacio",
-            "nombra"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/ayuntamiento-valencia-nombra-isabel-rubio-leon-nueva-20251024175010-nt.html",
-        "date": "2025-10-24 15:50:39",
-        "sentiment_score": 0.012893438339233398
-    },
-    {
-        "title": "Mazón mantuvo su agenda el día de la dana pese a encargar ya por la mañana un informe sobre la gravedad de la riada",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/P6NVKATGDVADPOVYVSJLRSWP54.jpg?auth=a07461eccace6cac3ad3f976640d40ec8619e51635850cab2856488208671ecc&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "carlos mazón",
-            "salomé pradas",
-            "catástrofes",
-            "dana",
-            "generalitat valenciana",
-            "inundaciones dana octubre 2024",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-24/mazon-mantuvo-su-agenda-el-dia-de-la-dana-pese-a-encargar-ya-por-la-manana-un-informe-sobre-la-gravedad-de-la-riada.html",
-        "date": "2025-10-24 18:36:58",
-        "sentiment_score": -0.46682679653167725
-    },
-    {
-        "title": "El Gobierno activa el Visor InfoDana para conocer pueblo a pueblo sus inversiones en la reconstrucción",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5IPS5APNBFJBLCHNSAWVSNBMMI.jpg?auth=a7733d809250efe7280ad17eb887742ce6bc2b1fdaf09e9f82ad0531bba19cbc&width=1200",
-        "tags": [
-            "pilar bernabé",
-            "dana",
-            "diana morant ripoll",
-            "pspv-psoe",
-            "inundaciones dana octubre 2024",
-            "gobierno",
-            "ángel víctor torres",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-24/el-gobierno-activa-el-visor-infodana-para-conocer-pueblo-a-pueblo-sus-inversiones-en-reconstruccion.html",
-        "date": "2025-10-24 18:04:30",
-        "sentiment_score": -0.1611522026360035
-    },
-    {
-        "title": "Anna Balletbó: curiosidad, coraje y tenacidad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VV6NRNDTBRJURJKAYEKJSGKNNU.jpg?auth=7e3ab170a7cc9eb5c8bc1eca14a291abdb3f5553496b2143657abcb26281d42e&width=1200",
-        "tags": [
-            "anna balletbo",
-            "psc",
-            "socialismo",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-24/anna-balletbo-curiosidad-coraje-y-tenacidad.html",
-        "date": "2025-10-24 17:52:17",
-        "sentiment_score": -0.9175829980522394
-    },
-    {
-        "title": "La Guardia Civil se incauta de 1.700 kilos de hachís tras una persecución a todo velocidad a una narcolancha en Cádiz",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7RKIOXZMRJNVTMIFBXAOB7DE5A.jpg?auth=3b31098c8631d93dce7b785c9c97decd9362f5256bfc45da00883cc57845e945&width=1200",
-        "tags": [
-            "chipiona",
-            "drogas",
-            "cádiz",
-            "andalucía",
-            "hachís",
-            "españa",
-            "narcotráfico",
-            "guardia civil",
-            "rota"
-        ],
-        "link": "https://elpais.com/espana/2025-10-24/la-guardia-civil-se-incauta-de-1700-kilos-de-hachis-tras-una-persecucion-a-todo-velocidad-a-una-narcolancha-en-cadiz.html",
-        "date": "2025-10-24 16:44:37",
-        "sentiment_score": -0.6178281307220459
-    },
-    {
-        "title": "Desestimada la demanda de Abogados Cristianos contra el cuadernillo de diversidad familiar de Ciudad Real",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JRPSNZOV5VCYBPHQW4LO6QU2P4.png?auth=61bc1ccf0aac7290f8132d68b4a1a4b47430c907739c0e7bbd7d8102d340749c&width=1200",
-        "tags": [
-            "derechos humanos",
-            "ciudad real",
-            "familia",
-            "familia cristiana",
-            "españa",
-            "abogados cristianos",
-            "familia homosexual",
-            "castilla-la mancha",
-            "escolares",
-            "educación",
-            "valores democráticos",
-            "educación primaria",
-            "familia monoparental"
-        ],
-        "link": "https://elpais.com/espana/2025-10-24/desestimada-la-demanda-de-abogados-cristianos-contra-el-cuadernillo-de-diversidad-familiar-de-ciudad-real.html",
-        "date": "2025-10-24 16:21:30",
-        "sentiment_score": 0.21748220920562744
-    },
-    {
-        "title": "La hora en la que Mazón desapareció: ¿Qué hizo después de salir de El Ventorro?",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CUYEDD4ISBPE5GZF2QJTPUXY6M.jpg?auth=e455fe3202bdaec82710768bedcb169c6fc0f94ca7f7ff7b37e256fd27d37ac2&width=1200",
-        "tags": [
-            "dana",
-            "carlos mazón",
-            "generalitat valenciana",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-24/la-hora-en-que-mazon-desaparecio-que-hizo-despues-de-salir-del-ventorro.html",
-        "date": "2025-10-24 15:44:07",
-        "sentiment_score": -0.1440431848168373
-    },
-    {
-        "title": "Urtasun anuncia la compra del archivo de Juan Marsé recordando a Pijoaparte",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BDDE2SQKQVMBXAIKCPU6SG4LZE.jpg?auth=6a368f7929a75b9005e32ec3d495082ef5b05f45593c8c6e2b04b09eba86b950&width=1200",
-        "tags": [
-            "bibliotecas",
-            "juan marsé",
-            "barcelona",
-            "ernest urtasun",
-            "libros",
-            "cultura",
-            "cataluña",
-            "novela",
-            "inauguraciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-24/urtasun-anuncia-la-compra-del-archivo-de-juan-marse-recordando-a-pijoaparte.html",
-        "date": "2025-10-24 15:20:11",
-        "sentiment_score": 0.12921009957790375
     },
     {
         "title": "Estadísticas de Lamine Yamal contra el Real Madrid: la amenaza goleadora",
@@ -8605,5 +8263,509 @@ export default [
         "link": "https://2001online.com/usa/internacionales/huracan-melissa-florida-activa-estas-medidas-de-emergencia-ante-el-impacto-inminente-2025102719370",
         "date": "2025-10-27 23:37:00",
         "sentiment_score": -0.4702173322439194
+    },
+    {
+        "title": "Cuál es el precio de la gasolina este 28 de octubre en Madrid, Barcelona y otras ciudades",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "precio gasolina",
+            "noticias",
+            "gasolina",
+            "españa-economia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/28/cual-es-el-precio-de-la-gasolina-este-28-de-octubre-en-madrid-barcelona-y-otras-ciudades/",
+        "date": "2025-10-28 06:30:41",
+        "sentiment_score": -0.022574491798877716
+    },
+    {
+        "title": "Muere a los 55 años Esther Uria, actriz de series míticas como ‘Hospital central’ o ‘Cuéntame cómo pasó’",
+        "image_url": "https://www.infobae.com/resizer/v2/FGK2ZBCRFVDJFMXSGGXURSHXRM.jpg?auth=85dd94ebeb6346fb6098649c87c2439f57c52ea589a8a72688a59e48c02318aa&height=1370&smart=true&width=2048",
+        "tags": [
+            "series españa",
+            "cultura",
+            "cultura españa",
+            "españa-noticias",
+            "series",
+            "españa-cultura"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/10/28/muere-a-los-55-anos-esther-uria-actriz-de-series-miticas-como-hospital-central-o-cuentame-como-paso/",
+        "date": "2025-10-28 06:22:38",
+        "sentiment_score": 0.1251877173781395
+    },
+    {
+        "title": "Situación actual de los embalses en España HOY 28 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZCPV6775XRB5DPEFENUCEFG2EA.png?auth=205756b17da068a8ecca24602fa6cff95eba7e5175a2b73da71603adff4b7941&height=2343&smart=true&width=3514",
+        "tags": [
+            "sequía",
+            "noticias",
+            "españa-noticias",
+            "agua",
+            "embalses españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/28/situacion-actual-de-los-embalses-en-espana-hoy-28-de-octubre/",
+        "date": "2025-10-28 06:15:45",
+        "sentiment_score": 0.013330325484275818
+    },
+    {
+        "title": "Los máximos goleadores de LaLiga tras la Jornada 10: cómo va la carrera por el pichichi",
+        "image_url": "https://www.infobae.com/resizer/v2/TSOSPX2GYJH27AQP7FM3HSYXR4.jpg?auth=45a56cc038a0b688e5e0d5a91511eae92f188e317fb4cc4eff8204e695e1c629&height=1080&smart=true&width=1920",
+        "tags": [
+            "goleadores",
+            "noticias",
+            "laliga"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/28/los-maximos-goleadores-de-laliga-tras-la-jornada-10-como-va-la-carrera-por-el-pichichi/",
+        "date": "2025-10-28 06:15:38",
+        "sentiment_score": 0.32967471703886986
+    },
+    {
+        "title": "Cotización del euro frente al dólar hoy 28 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/ESK62KO465BPPJHALZ2MW52HZI.jpg?auth=07bf53b2db812406e917e930f5264d5cd0382e62de46b4cd3b6e6a47e5917685&height=538&smart=true&width=800",
+        "tags": [
+            "tipo de cambio",
+            "mercados",
+            "dólar",
+            "euros",
+            "billetes",
+            "españa-economía",
+            "noticias",
+            "bancos españa",
+            "monedas"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/28/cotizacion-del-euro-frente-al-dolar-hoy-28-de-octubre/",
+        "date": "2025-10-28 05:15:31",
+        "sentiment_score": 0.029736138880252838
+    },
+    {
+        "title": "Clima: las temperaturas que predominarán este 28 de octubre en Zaragoza",
+        "image_url": "https://www.infobae.com/resizer/v2/4AOQZXGPYZFFXNQNVT6N54HVAA.png?auth=f5d8baf126696a61a03cbc7dd347ac670e279ded34c8c8a104f4bf171f6c6c2b&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "españa sociedad",
+            "tiempo en españa",
+            "zaragoza",
+            "españa noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/28/clima-las-temperaturas-que-predominaran-este-28-de-octubre-en-zaragoza/",
+        "date": "2025-10-28 04:45:35",
+        "sentiment_score": -0.054130785167217255
+    },
+    {
+        "title": "El robo del siglo en el Louvre: qué conclusiones se sacan tras las primeras horas de detención de los principales sospechosos",
+        "image_url": "https://www.infobae.com/resizer/v2/MU4VIR4TPJBZHGN7GT53XDI4ME.jpg?auth=aaac35c91aec94ab4d32deb831546a9770d67f196ddc392910466d9873ca44f6&height=3375&smart=true&width=6000",
+        "tags": [
+            "louvre",
+            "españa-internacional",
+            "robo en el louvre",
+            "museo del louvre",
+            "francia",
+            "robo",
+            "parís",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/28/el-robo-del-siglo-en-el-louvre-que-conclusiones-se-sacan-tras-las-primeras-horas-de-detencion-de-los-principales-sospechosos/",
+        "date": "2025-10-28 04:00:00",
+        "sentiment_score": -0.7294366285204887
+    },
+    {
+        "title": "El PSOE resta importancia a la ruptura con Puigdemont, pero se le complica la legislatura: cómo afecta la pérdida de apoyos en el Congreso",
+        "image_url": "https://www.infobae.com/resizer/v2/MX3UJ3NEYBCXXDSNCUOY4H27RM.jpg?auth=1709c0fda9695e396191c98fdde302ed34c55137a20d7fb79ccbd86b7567472b&height=1080&smart=true&width=1920",
+        "tags": [
+            "junts",
+            "españa-nacional",
+            "psoe",
+            "gobierno de españa",
+            "política",
+            "catalunya",
+            "españa-noticias",
+            "cataluña"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/28/el-psoe-resta-importancia-a-la-ruptura-con-puigdemont-pero-se-le-complica-la-legislatura-como-afecta-la-perdida-de-apoyos-en-el-congreso/",
+        "date": "2025-10-28 04:00:00",
+        "sentiment_score": -0.760865630581975
+    },
+    {
+        "title": "Dos maratones españolas se cuelan entre las más impactantes del mundo: un estudio mide la impresión visual de los corredores",
+        "image_url": "https://www.infobae.com/resizer/v2/UMASSD4XFRC3XPZICRX2YCZOQM.jpg?auth=8346bf91796fe76cd97d288947855830817b871e036b282d4869b974d97ecb08&height=1080&smart=true&width=1920",
+        "tags": [
+            "correr",
+            "españa-noticias",
+            "ruta",
+            "recorrido",
+            "estudio",
+            "españa-deportes",
+            "maratón",
+            "carreras"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/28/dos-maratones-espanolas-se-cuelan-entre-las-mas-impactantes-del-mundo-un-estudio-mide-la-impresion-visual-de-los-corredores/",
+        "date": "2025-10-28 04:00:00",
+        "sentiment_score": 0.6173725388944149
+    },
+    {
+        "title": "Dónde puedes alquilar según tu sueldo: los empleados con el salario mínimo solo pueden optar a pisos de 25 m2 en el distrito más barato de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/YNWBHL4G4ZEDZEGIVNLKHTU52E.jpg?auth=f12ba23f6c112baf398c4f4b24e54d213dbfb7560a0f27002b8ec22a4aed91e6&height=1280&smart=true&width=1920",
+        "tags": [
+            "españa-noticias",
+            "vivienda españa",
+            "alquileres españa",
+            "precio alquiler",
+            "alquileres",
+            "mercado inmobiliario",
+            "españa-economia",
+            "vivienda"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/28/donde-puedes-alquilar-segun-tu-sueldo-los-empleados-con-el-salario-minimo-solo-pueden-optar-a-pisos-de-25-m-en-el-distrito-mas-barato-de-madrid/",
+        "date": "2025-10-28 04:00:00",
+        "sentiment_score": -0.7836200576275587
+    },
+    {
+        "title": "El alza de cuotas a los autónomos deja en vilo la pasarela al RETA de 100.000 mutualistas",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/10/28/manifestacionpasarelareta-R5KJf4Zw89qzLw9GVJ1jDeM-1200x840@diario_abc.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.abc.es/economia/alza-cuotas-autonomos-deja-vilo-pasarela-reta-20251028190343-nt.html",
+        "date": "2025-10-28 03:14:19",
+        "sentiment_score": -0.209732323884964
+    },
+    {
+        "title": "Girona busca recolocar 250 alumnos vulnerables, expulsados de las escuelas del Opus tras su privatización",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IS5TKDRTHNEU3LM2JNDVICFDWE.jpg?auth=782bfc73ce84c0ec12b87ff5f726f3d21a6953724891561cec171fb05baaa9b1&width=1200",
+        "tags": [
+            "cataluña",
+            "enseñanza privada",
+            "enseñanza pública",
+            "centros educativos",
+            "girona",
+            "segregación escolar",
+            "pobreza infantil",
+            "educación",
+            "enseñanza concertada",
+            "estudiantes",
+            "opus dei"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-28/girona-busca-recolocar-250-alumnos-vulnerables-expulsados-de-las-escuelas-del-opus-tras-su-privatizacion.html",
+        "date": "2025-10-28 04:30:01",
+        "sentiment_score": -0.8753904718905687
+    },
+    {
+        "title": "Amurallar los barrios",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/M4ILWQ55ADJLZ7QREGGKGEMEDE.jpg?auth=074139e2e7b47cdb7115c678d88db5e648632cc3060b753da072a150593ccfd3&width=1200",
+        "tags": [
+            "neoliberalismo",
+            "desahucios",
+            "comunidad de madrid",
+            "barrio alameda de osuna",
+            "barrios",
+            "gentrificación",
+            "turistificación",
+            "madrid",
+            "barrios históricos"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-10-28/amurallar-los-barrios.html",
+        "date": "2025-10-28 04:30:01",
+        "sentiment_score": -0.641997292637825
+    },
+    {
+        "title": "Puigdemont esquiva las elecciones anticipadas y la moción de censura: los efectos de la ruptura con el PSOE",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HMV737IRW5ARFFKSZEW5DNC3BI.jpg?auth=9e326da059c06f50e9980bfc1b317cc12ed8a69dac9688644dc31d1c75947556&width=1200",
+        "tags": [
+            "juntsxcat",
+            "presupuestos generales estado",
+            "carles puigdemont",
+            "pedro sánchez",
+            "cataluña",
+            "salvador illa",
+            "psoe",
+            "mociones censura",
+            "elecciones anticipadas"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-10-28/puigdemont-esquiva-las-elecciones-anticipadas-y-la-mocion-de-censura-los-efectos-de-la-ruptura-con-el-psoe.html",
+        "date": "2025-10-28 04:30:01",
+        "sentiment_score": -0.8745612651109695
+    },
+    {
+        "title": "Cuando la reforma de las viviendas amenaza la esencia de una colonia histórica en Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TPOZZPPILZCGFNKGCLOQUAXBDM.jpg?auth=3509a3fb6ccf7c2fd8c780f6caccb18ea74725632c8409844d5d0fc1b6a2b4e2&width=1200",
+        "tags": [
+            "obras rehabilitación",
+            "conservación vivienda",
+            "vivienda",
+            "patrimonio histórico",
+            "comunidad de madrid",
+            "colonias",
+            "madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-10-28/cuando-la-reforma-de-las-viviendas-amenaza-la-esencia-de-una-colonia-historica-en-madrid.html",
+        "date": "2025-10-28 04:30:01",
+        "sentiment_score": -0.886322271078825
+    },
+    {
+        "title": "Las Cortes de Castilla-La Mancha obligan a la dirección nacional de Vox a devolver 34.345 euros que se arrogó sin ser suyos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/U4GE4TR76NM5BOYA4ISG4Z6M3U.jpg?auth=8e1f349da9f1fd9ee1ce8f1ed901181a2f112caee911ab0ea96fe73967706272&width=1200",
+        "tags": [
+            "financiación partidos",
+            "ultraderecha",
+            "toledo",
+            "españa",
+            "castilla-la mancha",
+            "vox",
+            "cortes"
+        ],
+        "link": "https://elpais.com/espana/2025-10-28/las-cortes-de-castilla-la-mancha-obligan-a-la-direccion-nacional-de-vox-a-devolver-34345-euros-que-se-arrogo-sin-ser-suyos.html",
+        "date": "2025-10-28 04:30:01",
+        "sentiment_score": -0.8035592008382082
+    },
+    {
+        "title": "Santa Cruz de Tenerife recupera el único templo masón que sobrevivió a la dictadura",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ABAGGRSKBNAMHNOKJR3C55D7AI.jpg?auth=01a4a8e0e535ce3c374d689a211224e6a47771518848d4c7f5ee8e29db17712e&width=1200",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-10-28/santa-cruz-de-tenerife-recupera-el-unico-templo-mason-que-sobrevivio-a-la-dictadura.html",
+        "date": "2025-10-28 04:30:01",
+        "sentiment_score": -0.33952904492616653
+    },
+    {
+        "title": "La reconstrucción interior de las víctimas de la dana, una herida colectiva y abierta",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/INSDITH7DZG75FEQNYVHMMBCCI.jpg?auth=8c1e4aac26b318b2502f01f41f36dcba98aedde5dfa62cc0cd0ff0bb2bc2b9d8&width=1200",
+        "tags": [
+            "catástrofes",
+            "psicología",
+            "ume",
+            "salud mental",
+            "ministerio de sanidad",
+            "españa",
+            "generalitat valenciana",
+            "psiquiatría",
+            "fuerzas armadas",
+            "inundaciones dana octubre 2024",
+            "infancia"
+        ],
+        "link": "https://elpais.com/espana/2025-10-28/la-reconstruccion-interior-de-las-victimas-de-la-dana-una-herida-colectiva-y-abierta.html",
+        "date": "2025-10-28 04:30:01",
+        "sentiment_score": -0.7948366738855839
+    },
+    {
+        "title": "Más y con mayor poder adquisitivo: crece un 160% el número de estudiantes latinoamericanos que llega a Madrid",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XB34TLP2CZAWNPS5JRCXRMLRPQ.jpg?auth=3ac427a892fbd884f456c7f358382c078cb3d8c4ac1de5e02bffe63b4ffe4721&width=1200",
+        "tags": [
+            "almeida",
+            "ministerio de educación y deportes",
+            "estudiantes universitarios",
+            "inmigración irregular españa",
+            "extranjeros",
+            "universidad",
+            "comunidad de madrid",
+            "estudiantes",
+            "inmigración",
+            "madrid",
+            "ie business"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-10-28/mas-y-con-mayor-poder-adquisitivo-crece-un-160-el-numero-de-estudiantes-latinoamericanos-que-llega-a-madrid.html",
+        "date": "2025-10-28 04:30:01",
+        "sentiment_score": 0.020454391837120056
+    },
+    {
+        "title": "Fotos para no olvidar: regreso a la zona cero de la dana un año después",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IC7Q2WESKBD37DP2ATIXXYF3B4.gif?auth=1c554c0023f01012dcb12137a0bef6065d2fdefe82e9dd2bb781bd404203b664&width=1200",
+        "tags": [
+            "catástrofes",
+            "valencia",
+            "riadas",
+            "paiporta",
+            "españa",
+            "letur",
+            "chiva",
+            "generalitat valenciana",
+            "castilla-la mancha",
+            "catarroja",
+            "inundaciones dana octubre 2024",
+            "alfafar",
+            "muertes",
+            "comunidad valenciana"
+        ],
+        "link": "https://elpais.com/espana/2025-10-28/fotos-para-no-olvidar-regreso-a-la-zona-cero-de-la-dana-un-ano-despues.html",
+        "date": "2025-10-28 04:30:01",
+        "sentiment_score": -0.497673436999321
+    },
+    {
+        "title": "Tres muertos por ataque de velutinas en Galicia en menos de dos semanas: “Es la puntita del iceberg”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UGTQ5XEVYJGWBHTGL7KVIWNG5A.JPG?auth=da0095f6bc53fd2e805a245b45f256b89a63e446f495f49c413dd1a3c4a7b8fb&width=1200",
+        "tags": [
+            "xunta galicia",
+            "dozón",
+            "galicia",
+            "especies invasoras",
+            "españa",
+            "insectos",
+            "biodiversidad",
+            "irixoa",
+            "avispa asiática",
+            "alergias",
+            "plagas",
+            "cospeito"
+        ],
+        "link": "https://elpais.com/espana/galicia/2025-10-28/tres-muertos-por-ataque-de-velutinas-en-galicia-en-menos-de-dos-semanas-es-la-puntita-del-iceberg.html",
+        "date": "2025-10-28 04:30:01",
+        "sentiment_score": -0.577020563185215
+    },
+    {
+        "title": "Fallece el empresario Diego Quiles, expresidente del Elche y fundador de la marca Kelme",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3b6c0ea0-e8d3-4451-8c92-60f66b655c28_16-9-aspect-ratio_default_1411807.jpg",
+        "tags": [
+            "empresario",
+            "muerte",
+            "óbito",
+            "elche cf"
+        ],
+        "link": "https://www.eldia.es/economia/2025/10/28/fallece-empresario-diego-quiles-expresidente-123091579.html",
+        "date": "2025-10-28 06:34:13",
+        "sentiment_score": -0.873615175485611
+    },
+    {
+        "title": "Carmen Laforet: 'Nuevos titiriteros'",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/10/09/laforet-kKPB-U2303324018713JLI-758x531@El%20Norte.jpg",
+        "tags": [
+            "el norte de castilla"
+        ],
+        "link": "https://www.elnortedecastilla.es/valladolid/el-cronista/carmen-laforet-nuevos-titiriteros-20251028073300-nt.html",
+        "date": "2025-10-28 06:33:01",
+        "sentiment_score": 0.4230330102145672
+    },
+    {
+        "title": "Alfonso Arús habla claro sobre la nueva vida de Dani Alves como predicador en una iglesia de Girona",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/10/28/690060cae30b6.png",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20251028/1002558916/alfonso-arus-habla-claro-sobre-nueva-vida-dani-alves-predicador-iglesia-girona-dct.html",
+        "date": "2025-10-28 06:32:37",
+        "sentiment_score": -0.860561752691865
+    },
+    {
+        "title": "Lo que debes saber hoy, 28 de octubre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/05/09/informacion-municipal/1003742656344_14560088_1706x960.jpg",
+        "tags": [
+            "autobús",
+            "clima",
+            "tranvía",
+            "rodalies",
+            "metro barcelona",
+            "gran barcelona",
+            "coches",
+            "transporte",
+            "tráfico",
+            "transports metropolitans barcelona tmb"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251028/debes-saber-hoy-octubre-barcelona/1003742701841_0.html",
+        "date": "2025-10-28 06:29:24",
+        "sentiment_score": 0.7405509129166603
+    },
+    {
+        "title": "El PP ve confirmada su estrategia de no soliviantar a Junts tras la ruptura de Puigdemont con Sánchez",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a516545a-f8a0-4cb3-be92-258a68887064_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "partido popular,carles puigdemont,alberto núñez feijóo,miguel tellado"
+        ],
+        "link": "https://www.laopiniondezamora.es/nacional/2025/10/28/pp-ve-confirmada-estrategia-soliviantar-123091490.html",
+        "date": "2025-10-28 06:29:12",
+        "sentiment_score": -0.6291636563837528
+    },
+    {
+        "title": "En video: así se ve el ojo del huracán Melissa que azota el Caribe",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "tormenta",
+            "ojo del huracan melissa",
+            "huracán melissa",
+            "mar caribe"
+        ],
+        "link": "https://2001online.com/internacionales/en-video-asi-se-ve-el-ojo-del-huracan-melissa-que-azota-el-caribe-2025102723550",
+        "date": "2025-10-28 03:55:00",
+        "sentiment_score": 0.437944695353508
+    },
+    {
+        "title": "Deja atrás los tintes: este es el nuevo método natural para teñir las canas fácil y rápido",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761622791887.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/deja-atras-los-tintes-este-es-el-nuevo-metodo-natural-para-tenir-las-canas-facil-y-rapido-2025102723450",
+        "date": "2025-10-28 03:45:00",
+        "sentiment_score": -0.7059584148228168
+    },
+    {
+        "title": "¿Quieres tener Cashea en tu negocio? Pasos, requisitos y ventajas aquí",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "comercios",
+            "diario 2001",
+            "venezuela",
+            "cashea"
+        ],
+        "link": "https://2001online.com/servicios/quieres-tener-cashea-en-tu-negocio-pasos-requisitos-y-ventajas-aqui-2025102723280",
+        "date": "2025-10-28 03:28:00",
+        "sentiment_score": 0.7213382916525006
+    },
+    {
+        "title": "Sonríe como una estrella de cine: elimina el color amarillo de tus dientes amarillos con esta receta casera con bicarbonato de sodio",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761621221200.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/sonrie-como-una-estrella-de-cine-elimina-el-color-amarillo-de-tus-dientes-amarillos-con-esta-receta-casera-con-bicarbonato-de-sodio-2025102723250",
+        "date": "2025-10-28 03:25:00",
+        "sentiment_score": -0.8003254272043705
+    },
+    {
+        "title": "Prepara en casa esta crema hidratante natural para nutrir la piel: a bajo costo, sencilla y en muy pocos pasos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761619838357.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/prepara-en-casa-esta-crema-hidratante-natural-para-nutrir-la-piel-a-bajo-costo-sencilla-y-en-muy-pocos-pasos-202510272350",
+        "date": "2025-10-28 03:05:00",
+        "sentiment_score": -0.8433939199894667
+    },
+    {
+        "title": "El Nevado de Bolívar conquista el mundo: la raza Mucuchíes a un paso de ser reconocida internacionalmente",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "perro mucuchies",
+            "perro nevado",
+            "nevad",
+            "nevada",
+            "simón bolívar"
+        ],
+        "link": "https://2001online.com/nacionales/el-nevado-de-bolivar-conquista-el-mundo-la-raza-mucuchies-a-un-paso-de-ser-reconocida-internacionalmente-202510272300",
+        "date": "2025-10-28 03:00:00",
+        "sentiment_score": 0.19277438521385193
+    },
+    {
+        "title": "Asilo EEUU: jueces pueden deportar sin audiencias por orden de la Junta de Apelaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "eeuu",
+            "asilo",
+            "medidas"
+        ],
+        "link": "https://2001online.com/usa/internacionales/asilo-eeuu-jueces-pueden-deportar-sin-audiencias-por-orden-de-la-junta-de-apelaciones-202510272300",
+        "date": "2025-10-28 03:00:00",
+        "sentiment_score": -0.04110457003116608
+    },
+    {
+        "title": "Con \"pantallazos\" hacía pagos fraudulentos de iPhone: así era su modus operandi",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761613892496.jpg?ch=675&cw=1200",
+        "tags": [
+            "lara",
+            "estafador con iphone en lara",
+            "iphone",
+            "estafador",
+            "estafa con v en lara"
+        ],
+        "link": "https://2001online.com/sucesos/con-pantallazos-hacia-pagos-fraudulentos-de-iphone-asi-era-su-modus-operandi-2025102722350",
+        "date": "2025-10-28 02:35:00",
+        "sentiment_score": -0.05423320084810257
     }
 ];
