@@ -205,82 +205,6 @@ export default [
         "sentiment_score": 0.10598180443048477
     },
     {
-        "title": "Fundación Siglo XXI: cinco investigados por el desvío de 2,4 millones de fondos europeos para atender a menores migrantes en Canarias",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7RUQI7YUABBPLLV73RJ5DQ7S6A.jpeg?auth=b9aa964467e356fc81c4c12469df89329b2599e4d2473608dd4ae80496c16a80&width=1200",
-        "tags": [
-            "inmigrantes africanos",
-            "inmigrantes",
-            "justicia",
-            "canarias",
-            "fiscalía anticorrupción",
-            "corrupción",
-            "007: el mañana nunca muere",
-            "españa",
-            "inmigración irregular españa",
-            "inmigración irregular",
-            "inmigración"
-        ],
-        "link": "https://elpais.com/espana/2025-10-25/fundacion-siglo-xxi-cinco-investigados-por-el-desvio-de-24-millones-de-fondos-europeos-para-atender-a-menores-migrantes-en-canarias.html",
-        "date": "2025-10-25 14:07:19",
-        "sentiment_score": -0.7424586545675993
-    },
-    {
-        "title": "Turull llama a los cargos municipales de Junts a estar “preparados para momentos complicados”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AC5LW6JM2NDJBICWWORNY3YYCU.jpg?auth=11924c9a53f1a9766046166cef9417d88539caee269351bbd99b8460bc3f790b&width=1200",
-        "tags": [
-            "ultraderecha",
-            "pedro sánchez",
-            "cataluña",
-            "gobierno",
-            "investidura parlamentaria pedro sánchez 2023",
-            "partidos políticos",
-            "pactos políticos",
-            "psc",
-            "ada colau",
-            "juntsxcat",
-            "alemania",
-            "barcelona en comú",
-            "psoe",
-            "políticos",
-            "aliança catalana",
-            "lenguas oficiales",
-            "catalán",
-            "carles puigdemont",
-            "política"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-25/turull-llama-a-los-cargos-municipales-de-junts-a-estar-preparados-para-momentos-complicados.html",
-        "date": "2025-10-25 13:42:09",
-        "sentiment_score": -0.7839952111244202
-    },
-    {
-        "title": "Los familares recuerdan a sus muertos en la dana en un emocionante acto: “No solo era mi gran amor, era mi amigo”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PRMEKXHGHFKRFGLGU63QI3XVWI.jpg?auth=cec0e2232b6f2de136dc2d3c67805fbaf4d0a9c5fb01b68ecbd475eb29c6d8b7&width=1200",
-        "tags": [
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-25/los-familares-recuerdan-a-sus-muertos-en-la-dana-en-un-emocionante-acto-no-solo-eras-mi-gran-amor.html",
-        "date": "2025-10-25 13:32:38",
-        "sentiment_score": 0.051719099283218384
-    },
-    {
-        "title": "Feijóo calienta la comparecencia de Sánchez en el Senado: “Si miente, irá al juzgado, si dice la verdad, también”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3W5Y7YSHQNLVPF6AXWGZU23J3E.jpg?auth=7e680f089562d03cd951446649274c12dc90011d29657fd2c32038ffb591d28a&width=1200",
-        "tags": [
-            "alberto núñez feijóo",
-            "senado",
-            "psoe",
-            "pp",
-            "corrupción",
-            "josé luis ábalos",
-            "pedro sánchez",
-            "españa",
-            "caso koldo"
-        ],
-        "link": "https://elpais.com/espana/2025-10-25/feijoo-calienta-la-comparecencia-de-sanchez-en-el-senado-si-miente-ira-al-juzgado-si-no-tambien.html",
-        "date": "2025-10-25 12:34:27",
-        "sentiment_score": -0.08955226093530655
-    },
-    {
         "title": "Un clásico imprevisible para recalibrar la hegemonía",
         "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/10/25/vinicius-cubarsi-preclasico-ko0G-U2303497545342aXB-1200x840@RC.jpg",
         "tags": [
@@ -549,21 +473,6 @@ export default [
         "link": "https://2001online.com/usa/sucesos/permitio-crueles-torturas-contra-su-hija-revelan-detalles-sobre-asesinato-de-jacqueline-torres-202510251100",
         "date": "2025-10-25 15:00:00",
         "sentiment_score": -0.8970864424481988
-    },
-    {
-        "title": "Día de los Muertos en Estados Unidos: entérate cómo celebrarlo en Los Ángeles, Nuevo México y Nueva York",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "#diario2001",
-            "día de los muertos",
-            "méxico",
-            "cultura",
-            "#estadosunidos",
-            "tradición"
-        ],
-        "link": "https://2001online.com/usa/servicios/dia-de-los-muertos-en-estados-unidos-enterate-como-celebrarlo-en-los-angeles-nuevo-mexico-y-nueva-york-202510251000",
-        "date": "2025-10-25 14:00:00",
-        "sentiment_score": 0.7564572747796774
     },
     {
         "title": "Comprobar la 6/49: los números ganadores del 25 del octubre",
@@ -8427,5 +8336,434 @@ export default [
         "link": "https://2001online.com/agenda-empresarial/rio-supermarket-lanza-al-mercado-su-heladeria-de-yogurt-griego-santorini-2025102816290",
         "date": "2025-10-28 20:29:00",
         "sentiment_score": -0.012917816638946533
+    },
+    {
+        "title": "Los vocales progresistas reiteran que Perelló rompió de manera \"consciente\" el consenso y la pluralidad en el CGPJ",
+        "image_url": "https://www.infobae.com/resizer/v2/QSDLN5E6KFCM7OCBSYI7QRZAVU.jpg?auth=122d05f43fa9da474cdf00df2838d34a46f8e967b789753129fbdb9cb89d6b0b&height=1279&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/28/los-vocales-progresistas-reiteran-que-perello-rompio-de-manera-consciente-el-consenso-y-la-pluralidad-en-el-cgpj/",
+        "date": "2025-10-28 23:46:09",
+        "sentiment_score": -0.7307750210165977
+    },
+    {
+        "title": "El Rey emérito defiende que \"la democracia no cayó del cielo\" y echa de menos \"el espíritu de la Transición\"",
+        "image_url": "https://www.infobae.com/resizer/v2/UDASYVOFIVHN5B62UY63TQL6SQ.jpg?auth=2a4b478f351ada27dd5aa0efe70682491a76a7395b78ab4abced1553f487b3bc&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/28/el-rey-emerito-defiende-que-la-democracia-no-cayo-del-cielo-y-echa-de-menos-el-espiritu-de-la-transicion/",
+        "date": "2025-10-28 23:16:37",
+        "sentiment_score": -0.8554898854345083
+    },
+    {
+        "title": "Alemania aguanta a Francia y será el rival de España en la final de la Liga de Naciones Femenina",
+        "image_url": "https://www.infobae.com/resizer/v2/RU3CHVTPWNDWPB7M4TGURNHJP4.jpg?auth=48e5ae8a391c1d3855577e0282afb54d1fa992a14dbf427658f48d5e3d6287f4&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/28/alemania-aguanta-a-francia-y-sera-el-rival-de-espana-en-la-final-de-la-liga-de-naciones-femenina/",
+        "date": "2025-10-28 23:15:44",
+        "sentiment_score": 0.12498635798692703
+    },
+    {
+        "title": "Comprueba los ganadores del Cupón Diario de la Once del 28 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/28/comprueba-los-ganadores-del-cupon-diario-de-la-once-del-28-de-octubre/",
+        "date": "2025-10-28 23:15:35",
+        "sentiment_score": 0.17068176344037056
+    },
+    {
+        "title": "El Gobierno destina 3.120 millones en entrenamiento para caza y ataque dentro del Ejército del Aire y del Espacio",
+        "image_url": "https://www.infobae.com/resizer/v2/KZVOVYFH2RAPRE56JQUYZPQNKI.jpg?auth=4c308d093a29c98d6b66a595d1ea1de9c207e036deba09e6b62e70c1a85bf70f&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/28/el-gobierno-destina-3120-millones-en-entrenamiento-para-caza-y-ataque-dentro-del-ejercito-del-aire-y-del-espacio/",
+        "date": "2025-10-28 22:46:23",
+        "sentiment_score": 0.11210707575082779
+    },
+    {
+        "title": "Entrevista íntegra con el rey Juan Carlos: “Hubo tres golpes el 23F. Armada me traicionó”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BUTLTFUQHZDU5HJG7FHASHRXOY.jpg?auth=a17c937d87b2fb3229f3282809732bec18fe3341c59369db83730273e9c82c8b&width=1200",
+        "tags": [
+            "transición española",
+            "historia",
+            "abu dabi",
+            "españa",
+            "monarquía",
+            "juan carlos i",
+            "23-f",
+            "javier cercas",
+            "transición democrática",
+            "mario vargas llosa",
+            "felipe vi",
+            "nicolas sarkozy",
+            "golpes estado",
+            "santiago carrillo",
+            "francisco franco"
+        ],
+        "link": "https://elpais.com/espana/2025-10-28/el-rey-juan-carlos-para-ayudar-a-mi-hijo-busque-un-lugar-donde-los-periodistas-no-pudieran-encontrarme.html",
+        "date": "2025-10-28 22:27:55",
+        "sentiment_score": 0.034619495272636414
+    },
+    {
+        "title": "Un año después de la dana: la industria remonta, pero el campo y comercio siguen tocados",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/b79ec005b6002b5a38a963da38fa0ba5/crop/38x23/1966x1308/resize/1200/f/webp/assets/multimedia/imagenes/2025/10/29/17617016943645.jpg",
+        "tags": [
+            "economía>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/10/29/69016dc2468aeba7168b45c8.html",
+        "date": "2025-10-29 01:35:56",
+        "sentiment_score": -0.39722295105457306
+    },
+    {
+        "title": "El drama invisible en el fútbol un año después de la dana: \"Hay 'okupas' viviendo en los vestuarios con candado puesto\"",
+        "image_url": "https://s2.elespanol.com/2025/10/28/actualidad/1003743990166_259631539_1706x960.jpg",
+        "tags": [
+            "algemesí",
+            "fútbol",
+            "paiporta cf"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251029/drama-invisible-futbol-ano-despues-dana-okupas-viviendo-vestuarios-candado-puesto/1003743989587_0.html",
+        "date": "2025-10-29 01:31:55",
+        "sentiment_score": -0.8204246489331126
+    },
+    {
+        "title": "\"Necesitamos avisos más claros y precisos\": 29-0, el día en que la dana cuadruplicó las peores previsiones de la AEMET",
+        "image_url": "https://s2.elespanol.com/2025/10/28/actualidad/1003743990045_259630265_1706x960.jpg",
+        "tags": [
+            "meteorología",
+            "dana",
+            "lluvia",
+            "valencia",
+            "aemet"
+        ],
+        "link": "https://www.elespanol.com/ciencia/meteorologia/20251029/necesitamos-avisos-claros-precisos-dia-dana-cuadruplico-peores-previsiones-aemet/1003743988936_0.html",
+        "date": "2025-10-29 01:31:17",
+        "sentiment_score": 0.27901916205883026
+    },
+    {
+        "title": "Desde su propio campo y de espaldas: el triple imposible de Facundo Campazzo que no sumó para el Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/MCTRT3VDTJALBIOXYXD5VND67Y.png?auth=2fb2fd996e859c3913426cb73d884ea9bc8487d08c3cd31429388507ecdc4673&height=1080&smart=true&width=1920",
+        "tags": [
+            "real madrid",
+            "euroliga",
+            "facundo campazzo",
+            "bayern múnich",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/29/desde-su-propio-campo-y-de-espaldas-el-triple-imposible-de-facundo-campazzo-que-no-sumo-para-el-real-madrid/",
+        "date": "2025-10-29 01:30:32",
+        "sentiment_score": 0.3617354929447174
+    },
+    {
+        "title": "Rosalía lidera el retorno del arte hacia la religión: fe desobediente y mística sin Iglesia",
+        "image_url": "https://s2.elespanol.com/2025/10/27/actualidad/1003743987591_259600685_1706x960.jpg",
+        "tags": [
+            "libros",
+            "monjas",
+            "letras",
+            "religión"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251029/rosalia-lidera-retorno-arte-religion-fe-desobediente-mistica-sin-iglesia/1003743983415_0.html",
+        "date": "2025-10-29 00:55:00",
+        "sentiment_score": -0.25586916506290436
+    },
+    {
+        "title": "Azucena Vieites, pura dinamita, en la Real Academia de Bellas Artes de San Fernando",
+        "image_url": "https://s2.elespanol.com/2025/10/23/actualidad/1003743983465_259544205_1706x960.jpg",
+        "tags": [
+            "arte",
+            "premios nacionales de cultura",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20251029/azucena-vieites-pura-dinamita-real-academia-bellas-artes-san-fernando/1003743983418_0.html",
+        "date": "2025-10-29 00:55:00",
+        "sentiment_score": 0.09409013390541077
+    },
+    {
+        "title": "Fedez, ex de Chiara Ferragni, en sus memorias: \"Esa idea de que la enfermedad te hace mejor persona, conmigo no funcionó\"",
+        "image_url": "https://s2.elespanol.com/2025/10/28/actualidad/1003743989808_259627146_1706x960.jpg",
+        "tags": [
+            "chiara ferragni",
+            "libros",
+            "celebrities"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20251029/fedez-ex-chiara-ferragni-memorias-idea-enfermedad-hace-mejor-persona-conmigo-no-funciono/1003743989000_0.html",
+        "date": "2025-10-29 00:33:00",
+        "sentiment_score": -0.46890840120613575
+    },
+    {
+        "title": "La contaminación atmosférica se achaca a unas 22.000 muertes al año en España",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/950bd53347bc156009607ff90fc71fb3/crop/123x15/1836x1157/resize/1200/f/webp/assets/multimedia/imagenes/2020/09/19/16005365419345.jpg",
+        "tags": [
+            "artículos marga castillo>",
+            "nea>",
+            "salud y ciencia>"
+        ],
+        "link": "https://www.expansion.com/directivos/estilo-vida/salud/2025/10/29/6900bb8d468aeb21228b45a7.html",
+        "date": "2025-10-29 00:01:00",
+        "sentiment_score": -0.292437806725502
+    },
+    {
+        "title": "Las molestias en el pubis que persiguen a Lamine Yamal y le impiden mostrar su mejor versión sobre el campo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/28/culemania/primer-equipo/1003742702143_15333684_1706x960.jpg",
+        "tags": [
+            "en català",
+            "primer equipo",
+            "barça",
+            "lamine yamal"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251028/molestias-persiguen-lamine-yamal-impiden-mostrar-version/1003742702141_0.html",
+        "date": "2025-10-28 23:48:08",
+        "sentiment_score": 0.09655061364173889
+    },
+    {
+        "title": "El mundo reaccionó al berrinche de Vinicius y se abre la puerta de salida del Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/102025/1761694787991.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle",
+            "entertainment"
+        ],
+        "link": "https://meridiano.net/futbol/el-mundo-reacciono-al-berrinche-de-vinicius-y-se-abre-la-puerta-de-salida-del-real-madrid-2025102819400",
+        "date": "2025-10-28 23:40:00",
+        "sentiment_score": -0.265496164560318
+    },
+    {
+        "title": "Pere Viñolas: \"Colonial podrá elevar un 30% su beneficio y dividendo en cuatro años\"",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/faccce2d01e8c43357699d872968edab/crop/10x143/2028x1488/resize/1200/f/webp/assets/multimedia/imagenes/2025/10/28/17616783033497.jpg",
+        "tags": [
+            "mercado inmobiliario>",
+            "artículos rebeca arroyo>",
+            "cataluña>",
+            "empresas>",
+            "inmobiliario y construcción>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/10/29/69011497e5fdeac06f8b457e.html",
+        "date": "2025-10-29 02:14:52",
+        "sentiment_score": 0.6589432936161757
+    },
+    {
+        "title": "Perspectivas",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "perspectivas"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/perspectivas_0_2005118463.html",
+        "date": "2025-10-29 02:09:01",
+        "sentiment_score": -0.0838339626789093
+    },
+    {
+        "title": "Mediterrania lidera una inversión de 100 millones en el grupo africano Coris",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/0cb77534b767cb8fab2f8355f13131db/crop/58x0/586x352/f/webp/assets/multimedia/imagenes/2025/10/28/17616827738142.jpg",
+        "tags": [
+            "áfrica>",
+            "cataluña>",
+            "banca>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2025/10/29/69012623468aebcc018b45b1.html",
+        "date": "2025-10-29 01:46:15",
+        "sentiment_score": 0.8223430514335632
+    },
+    {
+        "title": "Francisco Doblas, experto en clima de la ONU: \"La misma dana hubiera producido un 20% menos de lluvias hace décadas\"",
+        "image_url": "https://s2.elespanol.com/2025/10/28/actualidad/1003743989845_259627599_1706x960.jpg",
+        "tags": [
+            "meteorología",
+            "desastres naturales",
+            "valencia"
+        ],
+        "link": "https://www.elespanol.com/ciencia/meteorologia/20251029/francisco-doblas-experto-clima-onu-misma-dana-producido-lluvias-hace-decadas/1003743989664_0.html",
+        "date": "2025-10-29 01:32:08",
+        "sentiment_score": -0.8837863272055984
+    },
+    {
+        "title": "El aviso de Luis Enrique a toda Europa",
+        "image_url": "https://pxcdn.meridiano.net/102025/1761700000663.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/el-aviso-de-luis-enrique-a-toda-europa-202510282190",
+        "date": "2025-10-29 01:09:00",
+        "sentiment_score": -0.008421927690505981
+    },
+    {
+        "title": "En memoria de Francisco Rico",
+        "image_url": "https://s2.elespanol.com/2025/10/23/actualidad/1003743983745_259548192_1706x960.jpg",
+        "tags": [
+            "homenajes",
+            "rae",
+            "mínima molestia",
+            "filología"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/opinion/minima_molestia_ignacio_echevarria/20251029/memoria-francisco-rico/1003743983719_13.html",
+        "date": "2025-10-29 00:55:00",
+        "sentiment_score": 0.7523865327239037
+    },
+    {
+        "title": "Así destaca recursos humanos como un departamento clave para innovación y negocio",
+        "image_url": "https://s2.elespanol.com/2025/06/02/actualidad/1003743785810_256111419_1706x960.jpg",
+        "tags": [
+            "branded content",
+            "regulación sector tecnológico",
+            "inteligencia artificial",
+            "recursos humanos",
+            "empresas"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/empresas/20251029/destaca-recursos-humanos-departamento-clave-innovacion-negocio/1003743988622_0.html",
+        "date": "2025-10-29 00:34:00",
+        "sentiment_score": 0.34320908784866333
+    },
+    {
+        "title": "George Kurian (Netapp): “Nuestra infraestructura está preparada para el contexto geopolítico actual”",
+        "image_url": "https://s2.elespanol.com/2025/10/27/actualidad/1003743987816_259603423_1706x960.jpg",
+        "tags": [
+            "legislación",
+            "almacenamiento de datos",
+            "inteligencia artificial",
+            "tecnológicas"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20251029/george-kurian-netapp-infraestructura-preparada-contexto-geopolitico-actual/1003743987812_0.html",
+        "date": "2025-10-29 00:34:00",
+        "sentiment_score": 0.07072240114212036
+    },
+    {
+        "title": "Los monstruos nunca mueren: Lady Gaga apabulla con su ópera gótica en Barcelona",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/10/29/lady-gaga-en-la-primera-de-sus-tres-actuaciones-de-barcelona.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.huffingtonpost.es/life/cultura/los-monstruos-nunca-mueren-lady-gaga-apabulla-opera-gotica-barcelona.html",
+        "date": "2025-10-29 00:27:40",
+        "sentiment_score": -0.11103340983390808
+    },
+    {
+        "title": "Así marcha la tabla de posiciones de la LVBP este 28 de octubre: Caracas y Magallanes listos para su primer choque",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761704768836.jpg?ch=675&cw=1200",
+        "tags": [
+            "navegantes del magallanes",
+            "caribes de anzoátegui",
+            "tigres de aragua"
+        ],
+        "link": "https://2001online.com/deportes/asi-marcha-la-tabla-de-posiciones-de-la-lvbp-este-28-de-octubre-caracas-y-magallanes-listos-para-su-primer-choque-2025102822120",
+        "date": "2025-10-29 02:12:00",
+        "sentiment_score": -0.7746927179396152
+    },
+    {
+        "title": "¿Piel madura? Con esta crema casera la llenarás de colágeno de forma sencilla",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761591401161.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/piel-madura-con-esta-crema-casera-la-llenaras-de-colageno-de-forma-sencilla-202510282200",
+        "date": "2025-10-29 02:00:00",
+        "sentiment_score": -0.29742302000522614
+    },
+    {
+        "title": "Estos estados de EEUU entregarán cheques de estímulo durante noviembre: ¿de cuánto?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "dinero",
+            "noviembre",
+            "cheques"
+        ],
+        "link": "https://2001online.com/usa/servicios/estos-estados-de-eeuu-entregaran-cheques-de-estimulo-durante-noviembre-de-cuanto--202510282200",
+        "date": "2025-10-29 02:00:00",
+        "sentiment_score": 0.7188446614891291
+    },
+    {
+        "title": "Mel Gibson anuncia \"La pasión de Cristo 2\": el nuevo elenco ya causa polémica",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "la pasión de cristo",
+            "cine",
+            "mel gibson"
+        ],
+        "link": "https://2001online.com/farandula/mel-gibson-anuncia-la-pasion-de-cristo-2-el-nuevo-elenco-ya-causa-polemica-2025102821480",
+        "date": "2025-10-29 01:48:00",
+        "sentiment_score": 0.28685498982667923
+    },
+    {
+        "title": "Violencia en Río de Janeiro: imágenes del mega operativo antinarcotráfico en las favelas",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761702570263.jpg?ch=675&cw=1200",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/internacionales/violencia-en-rio-de-janeiro-imagenes-del-mega-operativo-antinarcotrafico-en-las-favelas-2025102821410",
+        "date": "2025-10-29 01:41:00",
+        "sentiment_score": -0.053968578577041626
+    },
+    {
+        "title": "Arranca pago de nuevo bono por el Sistema Patria este 28 de octubre: monto y quiénes lo cobran",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761701716026.jpg?ch=675&cw=1200",
+        "tags": [
+            "sistema patria",
+            "patria",
+            "bono somos venezuela",
+            "somos venezuela",
+            "dinero"
+        ],
+        "link": "https://2001online.com/servicios/arranca-pago-de-nuevo-bono-por-el-sistema-patria-este-28-de-octubre-monto-y-quienes-lo-cobran-2025102821350",
+        "date": "2025-10-29 01:35:00",
+        "sentiment_score": 0.12418745085597038
+    },
+    {
+        "title": "La sorprendente revelación de la hija de Daddy Yankee: Me han llamado Judas",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "daddy yankee",
+            "mireddys gonzález",
+            "jesaaelys ayala gonzález"
+        ],
+        "link": "https://2001online.com/farandula/la-sorprendente-revelacion-de-la-hija-de-daddy-yankee-me-han-llamado-judas-2025102821340",
+        "date": "2025-10-29 01:34:00",
+        "sentiment_score": -0.5608967803418636
+    },
+    {
+        "title": "¡Épico triunfo en Asunción! La Vinotinto femenina derrota a Paraguay y sueña con el Mundial",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761700550357.jpg?ch=675&cw=1200",
+        "tags": [
+            "la vinotinto"
+        ],
+        "link": "https://2001online.com/deportes/epico-triunfo-en-asuncion-la-vinotinto-femenina-derrota-a-paraguay-y-suena-con-el-mundial-202510282190",
+        "date": "2025-10-29 01:09:00",
+        "sentiment_score": 0.4481095038354397
+    },
+    {
+        "title": "Texas demanda a Tylenol por fraude farmacéutico: la insólita teoría detrás del caso",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "tylenol",
+            "demanda",
+            "texas"
+        ],
+        "link": "https://2001online.com/usa/internacionales/texas-demanda-a-tylenol-por-fraude-farmaceutico-la-insolita-teoria-detras-del-caso-202510282100",
+        "date": "2025-10-29 01:00:00",
+        "sentiment_score": 0.2753758579492569
+    },
+    {
+        "title": "Conviasa alarga suspensión de vuelos a México, Cuba y Nicaragua: así será la reprogramación",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "conviasa",
+            "méxico",
+            "vuelos suspendidos",
+            "nicaragua",
+            "cuba",
+            "reprogramación"
+        ],
+        "link": "https://2001online.com/nacionales/conviasa-alarga-suspension-de-vuelos-a-mexico-cuba-y-nicaragua-asi-sera-la-reprogramacion-202510282100",
+        "date": "2025-10-29 01:00:00",
+        "sentiment_score": 0.27272046357393265
     }
 ];
