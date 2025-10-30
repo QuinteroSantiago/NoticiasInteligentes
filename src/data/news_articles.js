@@ -1,181 +1,5 @@
 export default [
     {
-        "title": "Estado de las reservas del agua en los embalses españoles hoy domingo 26 de octubre",
-        "image_url": "https://www.infobae.com/resizer/v2/ZCPV6775XRB5DPEFENUCEFG2EA.png?auth=205756b17da068a8ecca24602fa6cff95eba7e5175a2b73da71603adff4b7941&height=2343&smart=true&width=3514",
-        "tags": [
-            "agua",
-            "españa-noticias",
-            "noticias",
-            "embalses españa",
-            "sequía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/26/estado-de-las-reservas-del-agua-en-los-embalses-espanoles-hoy-domingo-26-de-octubre/",
-        "date": "2025-10-26 06:15:44",
-        "sentiment_score": -0.33441647328436375
-    },
-    {
-        "title": "Historias y desengaños",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "trump",
-            "fuego",
-            "energía",
-            "premios",
-            "españa",
-            "historia",
-            "horario"
-        ],
-        "link": "https://www.lne.es/villaviciosa/villaviciosa-opinion/2025/10/26/historias-desenganos-123030706.html",
-        "date": "2025-10-26 06:31:58",
-        "sentiment_score": -0.25979527831077576
-    },
-    {
-        "title": "'La mujer que no estaba sola' o 'la introvertida': las incógnitas detrás del hallazgo de más de cinco cadáveres en España",
-        "image_url": "https://album.mediaset.es/eimg/2025/10/23/el-proyecto-de-la-interpol-para-identificar-a-mas-de-cinco-cadaveres-sin-identificar-hallados-en-esp_6f7f.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.telecinco.es/noticias/sociedad/20251026/interpol-identificar-cadaveres-hallados-espana-mujeres_18_016826972.html",
-        "date": "2025-10-26 06:30:28",
-        "sentiment_score": -0.5409557521343231
-    },
-    {
-        "title": "Xavier Gisbert: “Si un programa bilingüe no tiene calidad, es mejor que no se oferte”",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/10/gisbert.jpg",
-        "tags": [
-            "provincia de ciudad real",
-            "ciudad real",
-            "congreso",
-            "alumnos",
-            "educación",
-            "alumnas",
-            "bilingüismo"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/xavier-gisbert-si-un-programa-bilingue-no-tiene-calidad-es-mejor-que-no-se-oferte/",
-        "date": "2025-10-26 06:27:00",
-        "sentiment_score": 0.031678229570388794
-    },
-    {
-        "title": "El portero Frankenstein de Sergio Herrera",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5c7bf043-f47b-4122-8677-ca9c45ac7d33_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "herrera",
-            "frankenstein",
-            "sergio",
-            "portero"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/10/26/portero-frankenstein-sergio-herrera-10265215.html",
-        "date": "2025-10-26 06:24:36",
-        "sentiment_score": -0.022215187549591064
-    },
-    {
-        "title": "Silvia Orriols se quita la cruz y desprecia la evangelización de América",
-        "image_url": "https://s1.staticld.com/2025/10/26/silvia-orriols-diada11092025.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2025-10-26/federico-jimenez-losantos-silvia-orriols-se-quita-la-cruz-y-desprecia-la-evangelizacion-de-america-7312600/",
-        "date": "2025-10-26 06:13:41",
-        "sentiment_score": -0.9108450589701533
-    },
-    {
-        "title": "Francisco Rodríguez de Ledesma, diputado, jurista y dramaturgo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/581ea330-2df9-4cbd-bf2a-5373d0515d5c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "la ley",
-            "iglesia",
-            "extremadura",
-            "salamanca",
-            "madrid",
-            "más extremadura"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/10/26/francisco-rodriguez-ledesma-diputado-jurista-122903931.html",
-        "date": "2025-10-26 06:09:00",
-        "sentiment_score": -0.14277927577495575
-    },
-    {
-        "title": "Un oftalmólogo habla claro sobre las gafas de cristales amarillos de Marcos Llorente",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/10/16/el-futbolista-marcos-llorente-5831.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/un-oftalmologo-habla-claro-sobre-dijo-marcos-llorente-gafas-sol.html",
-        "date": "2025-10-26 06:04:42",
-        "sentiment_score": -0.05905139446258545
-    },
-    {
-        "title": "¿Por qué un 20% de los jóvenes cree que la dictadura fue mejor que la democracia y qué puede hacer la política para cambiarlo?",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/10/23/una-senora-porta-un-cartel-franquista-durante-una-manifestacion-el-12-de-octubre-en-barcelona.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/por-que-20-jovenes-cree-dictadura-mejor-democracia-que-politica-cambiarlo.html",
-        "date": "2025-10-26 06:02:30",
-        "sentiment_score": -0.4869074299931526
-    },
-    {
-        "title": "«Ahora el reto es el cambio en España; y Málaga, yo no me he ido de Málaga»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b83e7b2-0942-4eb9-b79a-6e5fefacf417_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pp",
-            "nacional",
-            "sánchez",
-            "españa",
-            "política",
-            "andalucía",
-            "gobierno"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2025/10/26/malaga-entrevista-elias-bendodo-pp-123017479.html",
-        "date": "2025-10-26 06:00:58",
-        "sentiment_score": -0.2506694346666336
-    },
-    {
-        "title": "Miles de flores para la Virgen del Pilar: la historia de la Ofrenda de Flores",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc2b7d9a-0374-452a-a8a1-c15bec2fb16a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ofrenda de flores",
-            "especial día del pilar 2025"
-        ],
-        "link": "https://www.elperiodicodearagon.com/zaragoza/2025/10/26/miles-flores-virgen-pilar-historia-122575642.html",
-        "date": "2025-10-26 06:00:46",
-        "sentiment_score": -0.0158180333673954
-    },
-    {
-        "title": "Seve Ballesteros inicia hoy la temporada de invierno con más plazas y las rutas a Bucarest, Alicante, Mallorca y Granada",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251026072951_690.jpg",
-        "tags": [
-            "cantabria",
-            "cantabria infinita"
-        ],
-        "link": "https://www.europapress.es/cantabria/cantabria-infinita-00662/noticia-seve-ballesteros-inicia-hoy-temporada-invierno-mas-plazas-rutas-bucarest-alicante-mallorca-granada-20251026072951.html",
-        "date": "2025-10-26 06:29:51",
-        "sentiment_score": 0.19188915565609932
-    },
-    {
-        "title": "Primer álbum del guitarrista Abraham Lojo",
-        "image_url": "https://static.grupojoly.com/clip/65ec0cfe-2f45-4266-b1d4-97f5b116a589_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "guitarrista",
-            "lojo",
-            "primer",
-            "album",
-            "abraham"
-        ],
-        "link": "https://www.eldiadecordoba.es/ocio/primer-album-guitarrista-abraham-lojo_0_2005096735.html",
-        "date": "2025-10-26 06:08:29",
-        "sentiment_score": 0.051236532628536224
-    },
-    {
-        "title": "Una jubilada de EE.UU. se muda a la Costa del Sol y su pensión cambia para siempre",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/03/20/2025032011071778539.jpg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/dinero/jubilada-ee-uu-muda-costa-sol-pension-cambia-siempre/20251024123410985823.html",
-        "date": "2025-10-26 06:04:10",
-        "sentiment_score": 0.6539591401815414
-    },
-    {
         "title": "Procedente el despido de un trabajador de una granja, que por no reportar un error en la cadena, les hizo perder 10.000 huevos",
         "image_url": "https://www.infobae.com/resizer/v2/IMVVXPX4RFHGZI2BSO6LHVUDCY.jpg?auth=4a27a8e768af967e7ab069c0c9043501ef6caaa931319364dd881cf600eeb488&height=1275&smart=true&width=1920",
         "tags": [
@@ -384,67 +208,6 @@ export default [
         "link": "https://www.abc.es/internacional/eeuu-china-alcanzan-acuerdo-preliminar-sobre-amenaza-20251026115019-nt.html",
         "date": "2025-10-26 10:51:11",
         "sentiment_score": -0.20020520687103271
-    },
-    {
-        "title": "Desarticulan una red criminal que robó más de 120.000 euros en empresas de Valencia y Castellón",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/26/robos-castelon-valencia-RzZ58jgLETvVHT7W2JxnS6L-1200x672@diario_abc.jpg",
-        "tags": [
-            "castellon",
-            "euros",
-            "robo",
-            "valencia",
-            "empresas",
-            "criminal",
-            "120000",
-            "red",
-            "desarticulan"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/desarticulan-red-criminal-robo-120000-euros-empresas-20251026105051-vi.html",
-        "date": "2025-10-26 10:17:03",
-        "sentiment_score": -0.33954742550849915
-    },
-    {
-        "title": "Quevedo celebra ante 18.000 personas el cierre de su gira española en Roig Arena",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/26/Quevedo-RoigArena3-RRyzynQqjPgriaszT0mPJaN-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "valencia"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/quevedo-celebra-ante-18000-personas-cierre-gira-20251026102749-nt.html",
-        "date": "2025-10-26 09:28:29",
-        "sentiment_score": -0.021873682737350464
-    },
-    {
-        "title": "Detenidos dos sospechosos por el robo en el Louvre",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/cultura/2025/10/26/louvre-afp-k1eD-U7018196291225S-1200x840@diario_abc.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.abc.es/cultura/detenidos-dos-sospechosos-robo-louvre-20251026100445-nt.html",
-        "date": "2025-10-26 09:04:45",
-        "sentiment_score": -0.23852205276489258
-    },
-    {
-        "title": "FCC Construcción construye los principales metros del mundo",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/10/26/metroderiad-Ri7uOtvwCKVPmHiL6bmUpkJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "fcc fomento de construcciones y contratas",
-            "empresas",
-            "obras"
-        ],
-        "link": "https://www.abc.es/economia/fcc-construccion-construye-principales-metros-mundo-20251026204137-nt.html",
-        "date": "2025-10-26 06:49:32",
-        "sentiment_score": 0.002337157726287842
-    },
-    {
-        "title": "Un trabajo en equipo para que nadie se quede atrás en la acelerada transición digital",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/26/aceleradatransiciondigital-RSvHini11x1uqheI55zYdGN-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/trabajo-equipo-quede-atras-acelerada-transicion-digital-20251026195542-nt.html",
-        "date": "2025-10-26 06:48:39",
-        "sentiment_score": 0.09425236284732819
     },
     {
         "title": "Nueva versión sobre la hora oscura de Mazón en la dana: el ‘president’ acompañó a Maribel Vilaplana al aparcamiento tras la comida",
@@ -8371,5 +8134,655 @@ export default [
         "link": "https://2001online.com/usa/internacionales/rutas-aereas-mexico-eeuu-canceladas-la-razon-por-la-que-13-nuevas-rutas-no-seran-inauguradas-y-las-aerolineas-afectadas-2025102911300",
         "date": "2025-10-29 15:30:00",
         "sentiment_score": -0.346568301320076
+    },
+    {
+        "title": "Lilith Verstrynge habla por primera vez de su salida de Podemos: Creció la \"paranoia interna\"",
+        "image_url": "https://www.infobae.com/resizer/v2/7UDEZWG2XRFKLIARVO4NB32INI.jpg?auth=d312b1b79410278e221ddf268574a979f35a7b527e05a5cd8d7ee0c611dfec26&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/29/lilith-verstrynge-habla-por-primera-vez-de-su-salida-de-podemos-crecio-la-paranoia-interna/",
+        "date": "2025-10-29 21:15:35",
+        "sentiment_score": -0.7322893925011158
+    },
+    {
+        "title": "BBVA supera por primera vez los 100.000 millones en Bolsa pero Santander sigue siendo la entidad bancaria más valiosa de la eurozona",
+        "image_url": "https://www.infobae.com/resizer/v2/Y6RVFQYGO5BZ5BEDP3GUBZSSLA.jpg?auth=165503cdae358029c43a7357e951e010d4adfcdc619cf40f7c490673bcc9b3a9&height=1268&smart=true&width=1920",
+        "tags": [
+            "españa-economia",
+            "banca",
+            "opa",
+            "españa-noticias",
+            "banco santander",
+            "bbva"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/29/bbva-supera-por-primera-vez-los-100000-millones-en-bolsa-pero-santander-sigue-siendo-la-entidad-bancaria-mas-valiosa-de-la-eurozona/",
+        "date": "2025-10-29 21:02:41",
+        "sentiment_score": 0.15927109867334366
+    },
+    {
+        "title": "Lotería 6/49: la combinación ganadora del sorteo de este 29 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/MKIVKEXZ7FAA3GSZXEOUYC24ZY.jpg?auth=0d3a09096e3675ae539775754e0d00e772eb057ee536ddf36c42697fc44f9654&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-economía",
+            "noticias",
+            "6/49",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/29/loteria-649-la-combinacion-ganadora-del-sorteo-de-este-29-de-octubre/",
+        "date": "2025-10-29 21:00:32",
+        "sentiment_score": 0.4682384356856346
+    },
+    {
+        "title": "Sarah Ferguson sufre un nuevo batacazo profesional: los programas televisivos en los que colaboraba rescinden su contrato",
+        "image_url": "https://www.infobae.com/resizer/v2/TY5NBFEBLRHIZJJYVPTYHILIRQ.JPG?auth=f92ee7309c20a1ea08eaa0f530d3dc4bb277c508b8935b38b944b2fcffc95593&height=2812&smart=true&width=5000",
+        "tags": [
+            "realeza",
+            "casas reales",
+            "príncipe andrés",
+            "corazón y estilo españa",
+            "casa real británica",
+            "sarah ferguson",
+            "españa-noticias",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/29/sarah-ferguson-sufre-un-nuevo-batacazo-profesional-los-programas-televisivos-en-los-que-colaboraba-rescinden-su-contrato/",
+        "date": "2025-10-29 20:53:27",
+        "sentiment_score": -0.9004677981138229
+    },
+    {
+        "title": "La capital mundial del regaliz: está en Italia y tiene un museo",
+        "image_url": "https://www.infobae.com/resizer/v2/26DF3H4N7BEIROBAEQ3EDBTQMA.jpeg?auth=fda0ce5b91ba78ca0b3ba0d4149e2eb23722f80f82b7fd49a6ce40174313fd14&height=4480&smart=true&width=6720",
+        "tags": [
+            "postres",
+            "italia",
+            "españa-sociedad",
+            "comida",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/viajes/2025/10/29/la-capital-mundial-del-regaliz-esta-en-italia-y-tiene-un-museo/",
+        "date": "2025-10-29 20:52:30",
+        "sentiment_score": 0.3528805077075958
+    },
+    {
+        "title": "Daniel Sancho reaparece en Instagram desde la cárcel con un misterioso vídeo: el gesto público que ha sorprendido a su entorno",
+        "image_url": "https://www.infobae.com/resizer/v2/BLAS46EGDZA3DLTIA5W57SJWDA.jpg?auth=faf5586a7fc5f27c17234a1253b752ceb0175a62a6f74d05c0258f7dfb08f55c&height=960&smart=true&width=1706",
+        "tags": [
+            "instagram",
+            "asesinato de edwin arrieta",
+            "surat thani",
+            "corazón y estilo españa",
+            "rodolfo sancho",
+            "daniel sancho",
+            "españa-noticias",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/29/daniel-sancho-reaparece-en-instagram-desde-la-carcel-con-un-misterioso-video-el-gesto-publico-que-ha-sorprendido-a-su-entorno/",
+        "date": "2025-10-29 20:48:04",
+        "sentiment_score": -0.6335864700376987
+    },
+    {
+        "title": "Postura sirena o ‘mermaid’: el ejercicio de pilates que fortalece el tren superior y mejora la flexibilidad",
+        "image_url": "https://www.infobae.com/resizer/v2/JR2WDJVJ25BL3AM452HDLTUWPU.jpg?auth=261e0ef298ff51ea0eac94ac1ea51a0674be79e14182c61255e9b9de1c60aaca&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-salud",
+            "pilates",
+            "salud",
+            "ejercicio",
+            "posturas pilates",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/29/postura-sirena-o-mermaid-el-ejercicio-de-pilates-que-fortalece-el-tren-superior-y-mejora-la-elasticidad/",
+        "date": "2025-10-29 20:45:18",
+        "sentiment_score": 0.8330168034881353
+    },
+    {
+        "title": "Cómo conseguir una hipoteca al 100% en España: requisitos, bancos y avales públicos",
+        "image_url": "https://www.infobae.com/resizer/v2/4Y24CHM5OFG3JB72ZEUOJLHDGE.jpg?auth=c88f37eef63eabfb958a340401506c493bbc82d1cb229684464b9f5c3adbef3c&height=3656&smart=true&width=6500",
+        "tags": [
+            "hipotecas",
+            "vivienda",
+            "compra de vivienda",
+            "vivienda españa",
+            "hipotecas españa",
+            "españa-economía",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/29/como-conseguir-una-hipoteca-al-100-en-espana-requisitos-bancos-y-avales-publicos/",
+        "date": "2025-10-29 20:37:33",
+        "sentiment_score": 0.1446714773774147
+    },
+    {
+        "title": "El PP copia de una directiva europea la propuesta de eliminar el IVA a autónomos que incumple España desde enero",
+        "image_url": "https://www.infobae.com/resizer/v2/I3RZGVATZJABNP7S2EYPI4OA6Q.jpg?auth=fcd1ff7047dd6c7c63d92497fb2c2255c012616f18a98a02cad7944b1f47c716&height=1280&smart=true&width=1920",
+        "tags": [
+            "impuestos españa",
+            "autónomos",
+            "españa-economia",
+            "unión europea",
+            "partido popular",
+            "pymes",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/29/el-pp-copia-de-una-directiva-europea-la-propuesta-de-eliminar-el-iva-a-autonomos-que-incumple-espana-desde-enero/",
+        "date": "2025-10-29 20:33:28",
+        "sentiment_score": -0.14409688860177994
+    },
+    {
+        "title": "Alexandre Olmos, doctor, sobre la longevidad: “Estos son los únicos tres alimentos que necesitas si quieres vivir más y mejor”",
+        "image_url": "https://www.infobae.com/resizer/v2/FG4E5DNATVHBFOVTNX3RNUGSCY.png?auth=6aa6bcf2980720886faaad12b67aac58bf5ec8c248111b54d31936102eced596&height=191&quality=85&smart=true&width=350",
+        "tags": [
+            "vejez",
+            "ancianos",
+            "alimentación",
+            "españa-noticias",
+            "españa-sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/29/alexandre-olmos-doctor-sobre-la-longevidad-estos-son-los-unicos-tres-alimento-que-necesitas-si-quieres-vivir-mas-y-mejor/",
+        "date": "2025-10-29 20:26:16",
+        "sentiment_score": 0.037901200354099274
+    },
+    {
+        "title": "El gobernador de Río de Janeiro desata una guerra contra el narco en ausencia de Lula",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/29/brasil-RtZSR3Aui2TzAGxZPZzve1I-1200x840@diario_abc.jpg",
+        "tags": [
+            "brasil",
+            "onu",
+            "narcotráfico",
+            "rio de janeiro",
+            "derechos humanos",
+            "luiz inácio lula da silva"
+        ],
+        "link": "https://www.abc.es/internacional/gobernador-rio-janeiro-desata-guerra-narco-ausencia-20251029184911-nt.html",
+        "date": "2025-10-29 17:55:22",
+        "sentiment_score": -0.14671948552131653
+    },
+    {
+        "title": "Mazón se derrumba al enfrentarse por primera vez al dolor y la rabia de las víctimas de la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PFIE3FYEDBFZ5KNFLBKZZLIGHY.JPG?auth=ee68890e419269364cf7b9dc8097875e498549e435efb6cf4d72068acfa66249&width=1200",
+        "tags": [
+            "catarroja",
+            "castilla-la mancha",
+            "senado",
+            "congreso diputados",
+            "carlos mazón",
+            "españa",
+            "valencia",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/2025-10-29/mazon-se-derrumba-al-enfrentarse-por-primera-vez-al-dolor-y-la-rabia-de-las-victimas-de-la-dana.html",
+        "date": "2025-10-29 20:51:37",
+        "sentiment_score": -0.31304387748241425
+    },
+    {
+        "title": "¿Hasta cuándo, Mazón?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/C2UCVEWUBVOSRDXWC65V3NZ7XA.jpg?auth=635c2b57c3a40cd76e21b69f8f5f5faaa82ddee988d8e3b1187370ccf9145231&width=1200",
+        "tags": [
+            "dana",
+            "pedro sánchez",
+            "comunidad valenciana",
+            "funerales",
+            "víctimas",
+            "catástrofes",
+            "carlos mazón",
+            "españa",
+            "valencia",
+            "inundaciones dana octubre 2024"
+        ],
+        "link": "https://elpais.com/espana/2025-10-29/hasta-cuando-mazon.html",
+        "date": "2025-10-29 20:46:05",
+        "sentiment_score": -0.954582023434341
+    },
+    {
+        "title": "La denuncia de una víctima de Letur: “Quien omite su deber, comete el acto primigenio que deriva en sus muertes”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4SKFOHBAQZO2TCF6CTMQEHU2XE.jpg?auth=b7c8ef6e5b8830644fdd23db6cdbe801126c00415ee1573906f733da58419277&width=1200",
+        "tags": [
+            "carlos mazón",
+            "inundaciones dana octubre 2024",
+            "españa",
+            "valencia",
+            "generalitat valenciana"
+        ],
+        "link": "https://elpais.com/espana/2025-10-29/la-denuncia-de-una-victima-de-letur-quien-omite-su-deber-comete-el-acto-primigenio-que-deriva-en-sus-muertes.html",
+        "date": "2025-10-29 20:03:43",
+        "sentiment_score": -0.7626704405993223
+    },
+    {
+        "title": "Junts vota con el bloque de investidura para que avance la ley de atención al cliente en catalán",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6T3D7EDOGBDIFATBKYJLSWN36U.jpg?auth=9da19aecfb0bd040860e3d75c627fda7b38f3ae1cbbfc5071eac0e80cc45cff6&width=1200",
+        "tags": [
+            "bloque",
+            "comisiones parlamentarias",
+            "investidura parlamentaria pedro sánchez 2023",
+            "clientes",
+            "atención ciudadano",
+            "servicios públicos",
+            "investidura parlamentaria",
+            "congreso diputados",
+            "gobierno",
+            "juntsxcat",
+            "españa",
+            "leyes ordinarias",
+            "leyes orgánicas"
+        ],
+        "link": "https://elpais.com/espana/2025-10-29/junts-vota-con-el-bloque-de-investidura-para-que-avance-la-ley-de-atencion-al-cliente-en-catalan.html",
+        "date": "2025-10-29 19:13:31",
+        "sentiment_score": -0.06526397168636322
+    },
+    {
+        "title": "Claves | Así será la comparecencia de Sánchez en la comisión del ‘caso Koldo’: amplio despliegue en el Senado, 50 minutos por grupo y el PP, el último",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/T2X2XZHJNFDFBALAXK7EXSZAZ4.JPG?auth=2a505daaeaa26670426d86ceb0ee2174f0b998596a9e32e868f736ab1287b004&width=1200",
+        "tags": [
+            "caso koldo",
+            "josé luis ábalos",
+            "koldo garcía",
+            "comisiones investigación",
+            "senado",
+            "santos cerdán",
+            "alberto núñez feijóo",
+            "begoña gómez fernández",
+            "españa",
+            "psoe",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2025-10-29/claves-asi-sera-la-comparecencia-de-sanchez-en-la-comision-del-caso-koldo-amplio-despliegue-en-el-senado-50-minutos-por-grupo-y-el-pp-el-ultimo.html",
+        "date": "2025-10-29 18:59:58",
+        "sentiment_score": -0.5524118952453136
+    },
+    {
+        "title": "Lilith Verstrynge explica por primera vez su marcha de Podemos: “El debate era cada vez más escaso y crecía la paranoia interna”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GVFPH345BUJMZ36DMKTNWS5SNU.jpg?auth=ec0e18859bf8030e7a34e0d8c4fc1d6dd03a89ec5f5b5fc453a21e35a2ac4003&width=1200",
+        "tags": [
+            "sumar",
+            "podemos",
+            "partidos políticos",
+            "política",
+            "yolanda díaz",
+            "españa",
+            "ione belarra",
+            "gobierno"
+        ],
+        "link": "https://elpais.com/espana/2025-10-29/lilith-verstrynge-explica-por-primera-vez-su-marcha-de-podemos-el-debate-era-cada-vez-mas-escaso-y-crecia-la-paranoia-interna.html",
+        "date": "2025-10-29 17:29:51",
+        "sentiment_score": -0.8428011173382401
+    },
+    {
+        "title": "La Superliga reaparece y obtiene nueva victoria ante UEFA, LaLiga y RFEF",
+        "image_url": "https://pxcdn.meridiano.net/102025/1761775529255.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/la-superliga-reaparece-y-obtiene-nueva-victoria-ante-uefa-laliga-y-rfef-202510291860",
+        "date": "2025-10-29 22:06:00",
+        "sentiment_score": -0.8787300530821085
+    },
+    {
+        "title": "Jornada sin sorpresas en la Copa del Rey: los cinco equipos de Primera hacen los deberes y avanzan a la siguiente ronda",
+        "image_url": "https://s2.elespanol.com/2025/10/29/actualidad/1003743992004_259655076_1706x960.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "copa del rey de fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251029/jornada-sin-sorpresas-copa-rey-equipos-primera-hacen-deberes-avanzan-siguiente-ronda/1003743991973_0.html",
+        "date": "2025-10-29 21:52:30",
+        "sentiment_score": 0.40688659250736237
+    },
+    {
+        "title": "La prensa en León arremetió contra James Rodríguez en medio de la crisis deportiva del club: “Eres uno más”",
+        "image_url": "https://www.infobae.com/resizer/v2/EDP4RWJS2FCQFMCJEFVVSNAOFM.png?auth=2d32c8be404d4d4c63666aac715a418e73146d3fb1322e3bd3e7df9e9f0ef479&height=770&smart=true&width=1200",
+        "tags": [
+            "paco vela",
+            "león",
+            "críticas",
+            "liga mx",
+            "prensa",
+            "colombia-deportes",
+            "james rodríguez"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/10/29/la-prensa-en-leon-arremetio-contra-james-rodriguez-en-medio-de-la-crisis-deportiva-del-club-eres-uno-mas/",
+        "date": "2025-10-29 21:51:05",
+        "sentiment_score": -0.38874468207359314
+    },
+    {
+        "title": "España ganará este año 600.000 inmigrantes, un 50% más de lo esperado, lo que explica parte del alza del PIB",
+        "image_url": "https://phantom-elmundo.uecdn.es/6989ccb92a06969a4f1df62605fe2a60/crop/514x0/2562x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/20/17609823533524.jpg",
+        "tags": [
+            "economía",
+            "artículos alejandra olcese",
+            "nlpremium",
+            "inmigración"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/10/29/690246e6fc6c83381b8b4592.html",
+        "date": "2025-10-29 21:48:42",
+        "sentiment_score": 0.6848543733358383
+    },
+    {
+        "title": "El laberinto burocrático que discrimina a los niños extranjeros que quieren jugar al fútbol de barrio",
+        "image_url": "https://static.eldiario.es/clip/c0128c6d-b228-48e3-898f-bdc30c690bf7_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pontevedra",
+            "noticias",
+            "actualidad",
+            "análisis",
+            "lugo",
+            "galicia",
+            "la coruña",
+            "orense",
+            "opinión"
+        ],
+        "link": "https://www.eldiario.es/galicia/laberinto-burocratico-discrimina-ninos-extranjeros-quieren-jugar-futbol-barrio_1_12724966.html",
+        "date": "2025-10-29 21:39:33",
+        "sentiment_score": -0.15195859968662262
+    },
+    {
+        "title": "La falta de citas para el asilo castiga a las refugiadas: “En pandemia y con tres hijos me echaron por no renovar los papeles”",
+        "image_url": "https://static.eldiario.es/clip/daf5ddfa-1611-4fbf-bb7e-5a0064070538_16-9-discover-aspect-ratio_default_1129226.jpg",
+        "tags": [
+            "memoria",
+            "pobreza",
+            "eldiario.es",
+            "igualdad",
+            "derechos humanos",
+            "infancia",
+            "inmigración",
+            "conflicto",
+            "cooperación",
+            "libertad de expresión",
+            "minorías"
+        ],
+        "link": "https://www.eldiario.es/desalambre/falta-citas-asilo-castiga-refugiadas-pandemia-tres-hijos-echaron-no-renovar-papeles_1_12724742.html",
+        "date": "2025-10-29 21:39:30",
+        "sentiment_score": -0.225673109292984
+    },
+    {
+        "title": "Victoria Arnáu, presentadora de Antena 3 Noticias, se estrena como madre y nos revela cómo están siendo sus primeros días con Olivia: \"Una locura de emociones\"",
+        "image_url": "https://www.hola.com/horizon/landscape/ca64ed271243-empezando-el-lbum-ms-especial-de-nuestra-vida-felicsima-primera-semana-oliv.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad",
+            "antena 3",
+            "victoria arnau",
+            "television"
+        ],
+        "link": "https://www.hola.com/actualidad/20251029864547/victoria-arnau-presentadora-noticias-antena-3-se-convierte-en-madre/",
+        "date": "2025-10-29 21:26:17",
+        "sentiment_score": 0.6636991649866104
+    },
+    {
+        "title": "El C.D. Ebro logra la hazaña y apea a la SD Tarazona en los penaltis",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/10/29/2025102922121513098.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.aragondigital.es/articulo/deportes/cd-ebro-logra-hazana-apea-sd-tarazona-penaltis/20251029221837950105.html",
+        "date": "2025-10-29 21:18:37",
+        "sentiment_score": 0.5933109521865845
+    },
+    {
+        "title": "Vinicius Jr. y Virginia Fonseca: ¿quién es la 'influencer' que conquistó el corazón del brasileño?",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761774661067.jpg?ch=675&cw=1200",
+        "tags": [
+            "novia de vinicius jr.",
+            "virginia fonseca",
+            "romance",
+            "vinicius jr",
+            "brasil"
+        ],
+        "link": "https://2001online.com/deportes/vinicius-jr-y-virginia-fonseca-quien-es-la-influencer-que-conquisto-el-corazon-del-brasileno--202510291800",
+        "date": "2025-10-29 21:07:13",
+        "sentiment_score": 0.030990824103355408
+    },
+    {
+        "title": "“No sé, fuchibol”: furor por el “portuñol” de Sampaoli tras clasificar a la final de la Sudamericana con Atlético Mineiro",
+        "image_url": "https://www.infobae.com/resizer/v2/F3WN6F7DOZA7RJU4WRJVIVMSH4.JPG?auth=dafe09c6b8c724cd066bcdaf1458684db36d4fe381a319966b72234c9adfa2d6&height=3380&smart=true&width=4873",
+        "tags": [
+            "deportes-internacional",
+            "deportes-argentina",
+            "jorge sampaoli",
+            "atlético mineiro",
+            "copa sudamericana"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/29/no-se-fuchibol-furor-por-el-portunol-de-sampaoli-tras-clasificar-a-la-final-de-la-sudamericana-con-atletico-mineiro/",
+        "date": "2025-10-29 21:00:44",
+        "sentiment_score": 0.14130690693855286
+    },
+    {
+        "title": "Manolo García, cantante: \"Yo vivo en Barcelona, pero el mundo rural me interesa mucho. Conozco a gente que tiene pequeñas explotaciones y lo pasan fatal, casi no se pueden ganar la vida\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/10/29/690287bdade40.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/gente/20251029/1002560029/manolo-garcia-cantante-vivo-barcelona-mundo-rural-me-interesa-conozco-gente-pequenas-explotaciones-pasan-fatal-ganar-vida-dct.html",
+        "date": "2025-10-29 22:09:08",
+        "sentiment_score": 0.34629011899232864
+    },
+    {
+        "title": "Barcelona deja escapar la sede permanente del Cirque du Soleil",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/29/business/1003742702534_15339352_1706x960.jpg",
+        "tags": [
+            "ferias",
+            "circo",
+            "business",
+            "en català",
+            "las ramblas",
+            "cataluña",
+            "barcelona",
+            "hoteles"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20251029/barcelona-deja-escapar-sede-permanente-cirque-soleil/1003742702425_0.html",
+        "date": "2025-10-29 22:00:00",
+        "sentiment_score": -0.22738109156489372
+    },
+    {
+        "title": "Manolo García confiesa a Broncano su modo de vida: «Me he quitado de todo, estoy en un rollo zen»",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/10/29/manolo-01-k8YE--758x531@El%20Correo.JPG",
+        "tags": [
+            "confiesa",
+            "garcia",
+            "modo",
+            "rollo",
+            "zen",
+            "manolo",
+            "vida",
+            "quitado",
+            "broncano"
+        ],
+        "link": "https://www.elcorreo.com/gente-estilo/manolo-garcia-confiesa-broncano-modo-vida-quitado-20251029225132-nt.html",
+        "date": "2025-10-29 21:51:33",
+        "sentiment_score": -0.009268522262573242
+    },
+    {
+        "title": "Josep Maria Llompart, cien años del \"poeta insobornable\" que no calló ante Franco y mantuvo viva la lengua catalana",
+        "image_url": "https://static.eldiario.es/clip/548739b2-0e1f-4d7b-ac65-bf94c98f46e6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "franco",
+            "poeta",
+            "lengua",
+            "josep",
+            "catalana",
+            "mantuvo",
+            "cien",
+            "no",
+            "viva",
+            "anos",
+            "callo",
+            "maria",
+            "llompart",
+            "insobornable"
+        ],
+        "link": "https://www.eldiario.es/illes-balears/sociedad/josep-maria-llompart-cien-anos-poeta-insobornable-no-callo-franco-mantuvo-viva-lengua-catalana_1_12717358.html",
+        "date": "2025-10-29 21:39:35",
+        "sentiment_score": -0.07162079215049744
+    },
+    {
+        "title": "Adaia Teruel y sus crónicas de la Barcelona sexual: “Las discotecas pueden ser más sórdidas que una mazmorra de BDSM”",
+        "image_url": "https://static.eldiario.es/clip/17789277-a9b6-4f4c-b6e8-6ba9d9f4329f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "noticias",
+            "actualidad",
+            "economía",
+            "periodismo independiente",
+            "cataluña",
+            "barcelona",
+            "política",
+            "ignacio escolar"
+        ],
+        "link": "https://www.eldiario.es/catalunya/adaia-teruel-cronicas-barcelona-sexual-discotecas-sordidas-mazmorra-bdsm_128_12690529.html",
+        "date": "2025-10-29 21:39:30",
+        "sentiment_score": -0.10401812195777893
+    },
+    {
+        "title": "Huelga de cuatro días en sanidad: los técnicos superiores van al paro por sus condiciones y su formación",
+        "image_url": "https://static.eldiario.es/clip/2d72787d-b6d8-481a-8113-1da677c93004_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dias",
+            "condiciones",
+            "cuatro",
+            "huelga",
+            "tecnicos",
+            "superiores",
+            "paro",
+            "formacion",
+            "sanidad"
+        ],
+        "link": "https://www.eldiario.es/sociedad/huelga-cuatro-dias-sanidad-tecnicos-superiores-paro-condiciones-formacion_1_12726080.html",
+        "date": "2025-10-29 21:39:28",
+        "sentiment_score": -0.06515741348266602
+    },
+    {
+        "title": "Collboni realza el progreso \"con firmeza, inteligencia y compromiso\" de la Guardia Urbana de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/29/vivir-en-barcelona/1003742702602_15340071_1706x960.jpg",
+        "tags": [
+            "vivir en barcelona",
+            "policía",
+            "seguridad",
+            "guardia urbana",
+            "jaume collboni"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251029/collboni-realza-progreso-firmeza-inteligencia-compromiso-guardia-urbana-barcelona/1003742702600_0.html",
+        "date": "2025-10-29 21:37:28",
+        "sentiment_score": 0.006490990519523621
+    },
+    {
+        "title": "Dos muerto y cuatro heridos deja vuelco en La Vinotinto",
+        "image_url": "https://elperiodicodemonagas.com.ve/wp-content/uploads/2024/10/morgue-2-768x455.jpg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://elperiodicodemonagas.com.ve/sucesos/dos-muerto-y-cuatro-heridos-deja-vuelco-en-la-vinotinto/",
+        "date": "2025-10-29 21:29:37",
+        "sentiment_score": -0.8571735648438334
+    },
+    {
+        "title": "Bancamiga lanza con exito “Formar para Transformar”",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761776086053.jpg?ch=675&cw=1200",
+        "tags": [
+            "bancamiga"
+        ],
+        "link": "https://2001online.com/servicios/bancamiga-lanza-con-exito-formar-para-transformar--2025102918160",
+        "date": "2025-10-29 22:16:00",
+        "sentiment_score": 0.8848286606371403
+    },
+    {
+        "title": "¡Atención inmigrantes! EEUU pone fin a la extensión automática de permisos laborales para estos migrantes",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761775860555.jpg?ch=675&cw=1200",
+        "tags": [
+            "permiso de trabajo",
+            "inmigrantes en eeuu",
+            "renovación automática"
+        ],
+        "link": "https://2001online.com/usa/internacionales/atencion-inmigrantes-eeuu-pone-fin-a-la-extension-automatica-de-permisos-laborales-para-estos-migrantes-202510291890",
+        "date": "2025-10-29 22:09:00",
+        "sentiment_score": -0.072552889585495
+    },
+    {
+        "title": "EEUU anuncia que el SSI aumentará en 2026: ¿Cuánto recibirán los beneficiarios?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "aumento",
+            "2026",
+            "ssi"
+        ],
+        "link": "https://2001online.com/usa/servicios/eeuu-anuncia-que-el-ssi-aumentara-en-2026-cuanto-recibiran-los-beneficiarios--202510291800",
+        "date": "2025-10-29 22:00:00",
+        "sentiment_score": 0.10663475468754768
+    },
+    {
+        "title": "¡Atención! Cierre vial desde el El Rosal hasta Las Mercedes este 29 de octubre: horarios y vías afectadas",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761774281393.jpg?ch=675&cw=1200",
+        "tags": [
+            "las mercedes",
+            "el rosal",
+            "chacao",
+            "cierre de vías"
+        ],
+        "link": "https://2001online.com/servicios/atencion-cierre-vial-desde-el-el-rosal-hasta-las-mercedes-este-29-de-octubre-horarios-y-vias-afectadas-202510291800",
+        "date": "2025-10-29 22:00:00",
+        "sentiment_score": -0.5465664118528366
+    },
+    {
+        "title": "Maratón de Nueva York es este domingo: conozca el recorrido y las calles cerradas por Distrito",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761772361009.jpg?ch=675&cw=1200",
+        "tags": [
+            "maratón de new york"
+        ],
+        "link": "https://2001online.com/usa/servicios/maraton-de-nueva-york-es-este-domingo-conozca-el-recorrido-y-las-calles-cerradas-por-distrito-2025102917500",
+        "date": "2025-10-29 21:50:00",
+        "sentiment_score": -0.7375742215663195
+    },
+    {
+        "title": "Serie Mundial 2025: horario y dónde ver el Juegos 5 entre Dodgers y Blue Jays",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761775445461.jpg?ch=675&cw=1200",
+        "tags": [
+            "toronto blue jays",
+            "los ángeles dodgers",
+            "mlb",
+            "serie mundial 2025",
+            "dodgers de los ángeles"
+        ],
+        "link": "https://2001online.com/deportes/serie-mundial-2025-horario-y-donde-ver-el-juegos-5-entre-dodgers-y-blue-jays-2025102918300",
+        "date": "2025-10-29 21:36:30",
+        "sentiment_score": 0.6094916202127934
+    },
+    {
+        "title": "Opciones de empleo en Caracas: alcaldía de Baruta y Museos Bolivarianos buscan el siguiente personal",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "museos bolivarianos",
+            "carcass",
+            "baruta",
+            "empleos en caracas",
+            "caracas"
+        ],
+        "link": "https://2001online.com/servicios/opciones-de-empleo-en-caracas-alcaldia-de-baruta-y-museos-bolivarianos-buscan-el-siguiente-personal-202510291700",
+        "date": "2025-10-29 21:00:00",
+        "sentiment_score": 0.5763293094933033
+    },
+    {
+        "title": "Resultados y próximos juegos de la Copa del Rey",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761770136241.jpg?ch=675&cw=1200",
+        "tags": [
+            "meridianotv",
+            "juegos",
+            "copadelrey"
+        ],
+        "link": "https://2001online.com/deportes/resultados-y-proximos-juegos-de-la-copa-del-rey-2025102916320",
+        "date": "2025-10-29 20:32:00",
+        "sentiment_score": 0.385464770719409
+    },
+    {
+        "title": "USCIS elimina extensión automática de permisos de trabajo para migrantes",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761769600392.jpg?ch=675&cw=1200",
+        "tags": [
+            "permisos de trabajo",
+            "extensión automática",
+            "uscis",
+            "elimina",
+            "migrantes"
+        ],
+        "link": "https://2001online.com/usa/servicios/uscis-elimina-extension-automatica-de-permisos-de-trabajo-para-migrantes-2025102916150",
+        "date": "2025-10-29 20:15:00",
+        "sentiment_score": -0.216523926705122
     }
 ];
