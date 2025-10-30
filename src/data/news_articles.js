@@ -179,37 +179,6 @@ export default [
         "sentiment_score": -0.044766783714294434
     },
     {
-        "title": "El 40% de las filiales alemanas en España actúan ya como centros de excelencia globales",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/26/Camaraalemanaoctubre2025-R1LSwl2VoKYyJRIUtL1x9YJ-1200x840@diario_abc.JPG",
-        "tags": [
-            "europa",
-            "unión europea",
-            "españa",
-            "medio ambiente",
-            "alemania",
-            "comercio",
-            "acciona",
-            "empresas",
-            "trabajadores",
-            "cámara de comercio"
-        ],
-        "link": "https://www.abc.es/economia/filiales-alemanas-espana-actuan-centros-excelencia-globales-20251026122727-nt.html",
-        "date": "2025-10-26 11:27:27",
-        "sentiment_score": 0.03923645615577698
-    },
-    {
-        "title": "EE.UU. y China alcanzan un acuerdo «preliminar» sobre la amenaza arancelaria de Trump y las tierras raras",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/26/1502226730-RhA8iSneyaeD1tTQYbA2z5H-1200x840@diario_abc.jpg",
-        "tags": [
-            "china",
-            "estados unidos",
-            "donald trump"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-china-alcanzan-acuerdo-preliminar-sobre-amenaza-20251026115019-nt.html",
-        "date": "2025-10-26 10:51:11",
-        "sentiment_score": -0.20020520687103271
-    },
-    {
         "title": "Nueva versión sobre la hora oscura de Mazón en la dana: el ‘president’ acompañó a Maribel Vilaplana al aparcamiento tras la comida",
         "image_url": "https://imagenes.elpais.com/resizer/v2/CNSWPGVRERK23PZBJATT57P3EA.jpg?auth=328b008483dfa150a8c1712068e75229be3d094902d662f642d4ccadf8676e2c&width=1200",
         "tags": [
@@ -222,50 +191,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-26/nueva-version-sobre-la-hora-oscura-de-mazon-en-la-dana-el-president-acompano-a-maribel-vilaplana-al-aparcamiento-tras-la-comida.html",
         "date": "2025-10-26 15:54:12",
         "sentiment_score": -0.24593088775873184
-    },
-    {
-        "title": "El PP hurga en la amenaza de Junts: “Es la hora de plantarse de verdad”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/N4B7W7D25VNLBDCM5SE52V5C44.jpg?auth=195f81805b943daa16a52c5281c0f6c8dec934a854b95fc087238fedb22c4b17&width=1200",
-        "tags": [
-            "juntsxcat",
-            "koldo garcía",
-            "pedro sánchez",
-            "pp",
-            "carles puigdemont",
-            "caso koldo",
-            "santos cerdán",
-            "españa",
-            "josé luis ábalos",
-            "míriam nogueras",
-            "comisiones investigación",
-            "psoe",
-            "alberto núñez feijóo",
-            "elías bendodo",
-            "senado"
-        ],
-        "link": "https://elpais.com/espana/2025-10-26/el-pp-hurga-en-la-amenaza-de-junts-es-la-hora-de-plantarse-de-verdad.html",
-        "date": "2025-10-26 13:33:48",
-        "sentiment_score": -0.9288042141124606
-    },
-    {
-        "title": "Sánchez culpa a Feijóo y Abascal de la continuidad de Mazón: “Su apoyo es indecente”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FEDVUKKL65MDZEHAJT3ZKCDTXE.jpg?auth=fd7f940ffef3bdde8a526b297521ee62bffa1bd44f22795c45f36975bcb40c16&width=1200",
-        "tags": [
-            "carlos martínez",
-            "psoe",
-            "alfonso fernández mañueco",
-            "juntsxcat",
-            "pedro sánchez",
-            "carlos mazón",
-            "castilla y león",
-            "alberto núñez feijóo",
-            "españa",
-            "inundaciones dana octubre 2024",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/2025-10-26/sanchez-culpa-a-feijoo-y-abascal-de-la-continuidad-de-mazon-su-apoyo-es-indecente.html",
-        "date": "2025-10-26 12:05:02",
-        "sentiment_score": -0.9258242780342698
     },
     {
         "title": "¿Cuánto le queda a Vinícius en el Real Madrid?: nuevo desplante con Xabi Alonso en su cambio",
@@ -8784,5 +8709,411 @@ export default [
         "link": "https://2001online.com/usa/servicios/uscis-elimina-extension-automatica-de-permisos-de-trabajo-para-migrantes-2025102916150",
         "date": "2025-10-29 20:15:00",
         "sentiment_score": -0.216523926705122
+    },
+    {
+        "title": "Un terremoto de magnitud 4,2 sacude el norte del mar de Alborán después de un día complicado por lluvias en Andalucía",
+        "image_url": "https://www.infobae.com/resizer/v2/HKXR26O3KRAD3AHPQWSVENUMK4.png?auth=2df872e1adab19165fb79b346e2afdfeb9852547ac64820c25d56835af30ed0c&height=1080&smart=true&width=1920",
+        "tags": [
+            "andalucía",
+            "terremoto",
+            "españa-noticias",
+            "huelva",
+            "sevilla",
+            "almería",
+            "cádiz",
+            "granada",
+            "córdoba",
+            "lluvias",
+            "españa-nacional",
+            "inundaciones"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/30/un-terremoto-de-magnitud-42-sacude-el-norte-del-mar-de-alboran-despues-de-un-dia-complicado-por-lluvias-en-andalucia/",
+        "date": "2025-10-30 01:07:49",
+        "sentiment_score": 0.02436862140893936
+    },
+    {
+        "title": "Lidia Santos le confiesa su fantasía a dos solteros de ‘First Dates’ que tienen mucha tensión sexual: “En mis tres primeras relaciones tuve el mismo problema”",
+        "image_url": "https://www.infobae.com/resizer/v2/2PGKCAYPE5AO3NIIBMLDKD7LB4.png?auth=5a56427fb2d8a68b19bd6dd0fb85386cae28abd85fb9fbd66d34da958e4831ef&height=1080&smart=true&width=1920",
+        "tags": [
+            "televisión españa",
+            "first dates",
+            "mediaset",
+            "españa-entretenimiento",
+            "programas de televisión",
+            "corazón y estilo españa",
+            "cuatro",
+            "españa-noticias",
+            "mediaset españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/30/lidia-santos-le-confiesa-su-fantasia-a-dos-solteros-que-tienen-mucha-tension-sexual-me-gusta-usar-mi-boca-muchisimo/",
+        "date": "2025-10-30 00:33:54",
+        "sentiment_score": -0.4903308302164078
+    },
+    {
+        "title": "Estas son las películas que están de moda en Netflix España este día",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=1080&smart=true&width=1920",
+        "tags": [
+            "netflix",
+            "películas",
+            "españa-televisión",
+            "noticias",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/30/estas-son-las-peliculas-que-estan-de-moda-en-netflix-espana-este-dia/",
+        "date": "2025-10-30 00:30:41",
+        "sentiment_score": 0.537914726883173
+    },
+    {
+        "title": "Resultados ganadores del Cupón Diario de la Once de este 29 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/29/resultados-ganadores-del-cupon-diario-de-la-once-de-este-29-de-octubre/",
+        "date": "2025-10-29 23:15:28",
+        "sentiment_score": 0.3810170441865921
+    },
+    {
+        "title": "El Comité Regional del PSOE ratifica por unanimidad la candidatura de Gallardo para salir \"a ganar\" el 21 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/NJLZ3WHSUJD2RA7MQ25XE5VRS4.jpg?auth=71d9fb5a4a270cca918d17ed711f2db4010845ff55a8d655a0da12f3475ace20&height=1279&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/29/el-comite-regional-del-psoe-ratifica-por-unanimidad-la-candidatura-de-gallardo-para-salir-a-ganar-el-21-de-diciembre/",
+        "date": "2025-10-29 23:15:23",
+        "sentiment_score": 0.32068102061748505
+    },
+    {
+        "title": "Duki cierra un ciclo de tres conciertos en Madrid con un épico homenaje a sus fans: “Espero que todos sus sueños se cumplan también”",
+        "image_url": "https://www.infobae.com/resizer/v2/SHGD6KKBB5AKFL4M6NC7D2DQZI.jpg?auth=a51c7cf06d5bd05f7c060e9455cc35106fa1b70f41f5b108f016661d6b83f35c&height=1366&smart=true&width=2048",
+        "tags": [
+            "españa-noticias",
+            "madrid",
+            "duki",
+            "conciertos",
+            "conciertos españa",
+            "españa-cultura"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/10/29/duki-cierra-un-ciclo-de-tres-conciertos-en-madrid-con-un-epico-homenaje-a-sus-fans-espero-que-todos-sus-suenos-se-cumplan-tambien/",
+        "date": "2025-10-29 22:56:06",
+        "sentiment_score": 0.8693096563220024
+    },
+    {
+        "title": "AUGC se impone en las elecciones al Consejo de la Guardia Civil, que ha contado con una participación del 37%",
+        "image_url": "https://www.infobae.com/resizer/v2/NQD7S7EDBBCEJNCCBT4EJIFIPA.jpg?auth=1806df1b5ed47ffb37fb6fca25c708e9f9684e3d9b3ca1c5c051fe6c9c008d32&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/29/augc-se-impone-en-las-elecciones-al-consejo-de-la-guardia-civil-que-ha-contado-con-una-participacion-del-37/",
+        "date": "2025-10-29 22:31:11",
+        "sentiment_score": 0.22884440049529076
+    },
+    {
+        "title": "El Consejo de Europa pide que España garantice la atención médica a las personas trans y protección para los intersexuales",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PXEPRD6OTNCQ7M42LCBNCNXC6U.jpg?auth=dc989186c1765ace41ada2f12d299136c5da52fc53c77f332d065a3288e9f95c&width=1200",
+        "tags": [
+            "gitanos",
+            "migrantes",
+            "racismo",
+            "minorías raciales",
+            "comunidad lgtbiq+",
+            "sociedad",
+            "consejo de europa",
+            "minorías étnicas",
+            "menores migrantes"
+        ],
+        "link": "https://elpais.com/sociedad/2025-10-29/el-consejo-de-europa-pide-que-espana-garantice-la-atencion-medica-de-personas-trans-y-proteger-los-derechos-de-los-intersexuales.html",
+        "date": "2025-10-29 23:01:00",
+        "sentiment_score": 0.4544597938656807
+    },
+    {
+        "title": "¿Se hunde irremediablemente el proyecto del Liverpool de los 500 millones?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/30/2025103003014873180.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/hunde-irremediablemente-proyecto-liverpool/20251030030303361089.html",
+        "date": "2025-10-30 02:03:03",
+        "sentiment_score": 0.05954258143901825
+    },
+    {
+        "title": "Escándalo con Lamine Yamal: aseguran que estuvo de fiesta en Milán lejos de Nicki Nicole y pasó la noche con un viejo amor",
+        "image_url": "https://www.infobae.com/resizer/v2/ZCCZWBPHRFFKRLLUENKWPB2QBE.png?auth=70b1e177d8e94c7bce1a6913a739104c1d64e32598eb01439c5e6d2213008963&height=1080&smart=true&width=1920",
+        "tags": [
+            "lamine yamal",
+            "barcelona",
+            "anna gegnoso",
+            "deportes-argentina",
+            "nicki nicole"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/10/30/escandalo-con-lamine-yamal-aseguran-que-estuvo-de-fiesta-en-milan-lejos-de-nicki-nicole-y-paso-la-noche-con-un-viejo-amor/",
+        "date": "2025-10-30 01:52:04",
+        "sentiment_score": 0.12907756119966507
+    },
+    {
+        "title": "Deco tiene una misión: buscar un reemplazo para Iñigo Martínez",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/12/2025041205474594033.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/deco-tiene-mision-buscar-reemplazo-inigo-martinez/20251030024556361087.html",
+        "date": "2025-10-30 01:45:56",
+        "sentiment_score": -0.8381123803555965
+    },
+    {
+        "title": "Aroa Moreno Durán reconstruye desde la herida la historia de los tres últimos fusilados del franquismo",
+        "image_url": "https://s2.elespanol.com/2025/10/22/actualidad/1003743981467_259520200_1706x960.jpg",
+        "tags": [
+            "letras",
+            "novela"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251030/aroa-moreno-duran-reconstruye-herida-historia-ultimos-fusilados-franquismo/1003743981035_0.html",
+        "date": "2025-10-30 01:41:13",
+        "sentiment_score": -0.8639288963750005
+    },
+    {
+        "title": "Hansi Flick tiene trabajo por delante para enderezar el rumbo del Barça",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/01/2025030102372476755.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/hansi-flick-tiene-trabajo-delante-enderezar-rumbo-barca/20251030022102361084.html",
+        "date": "2025-10-30 01:21:02",
+        "sentiment_score": 0.7396599277853966
+    },
+    {
+        "title": "Un antiguo mensaje de Vinicius vuelve a escena por una burla de Gabriel Rufián",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/30/2025103001515695788.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/antiguo-mensaje-vinicius-vuelve-escena-burla-gabriel-rufian/20251030015229361079.html",
+        "date": "2025-10-30 00:52:29",
+        "sentiment_score": -0.8933330588042736
+    },
+    {
+        "title": "Los centros tecnológicos exhibirán su I+D+I más aplicada en MeetechSpain 2025",
+        "image_url": "https://s2.elespanol.com/2024/05/17/actualidad/855924992_242368420_1706x960.jpg",
+        "tags": [
+            "innovación",
+            "centros tecnológicos",
+            "branded content",
+            "parques tecnológicos"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/centros-tecnologicos/20251030/centros-tecnologicos-exhibiran-idi-aplicada-meetechspain/1003743988089_0.html",
+        "date": "2025-10-30 00:34:00",
+        "sentiment_score": 0.37867834605276585
+    },
+    {
+        "title": "Real Madrid ante un problema serio en la temporada",
+        "image_url": "https://pxcdn.meridiano.net/102025/1761783394280.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/real-madrid-ante-un-problema-serio-en-la-temporada-2025102920180",
+        "date": "2025-10-30 00:18:00",
+        "sentiment_score": -0.15844154357910156
+    },
+    {
+        "title": "Rafael Louzán y el partido en Miami: \"Yo encontraría el consenso de los clubes\"",
+        "image_url": "https://www.infobae.com/resizer/v2/KBDICR6BTZAJVDWOTEQ23YFLUU.jpg?auth=e410f2d970ae7d14b529281b6c921ae73e572d4420dfc6c3ab4842a90363cd82&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/30/rafael-louzan-y-el-partido-en-miami-yo-encontraria-el-consenso-de-los-clubes/",
+        "date": "2025-10-30 00:15:32",
+        "sentiment_score": -0.017703771591186523
+    },
+    {
+        "title": "La Superliga, el arma de doble filo que utiliza Laporta para construir y quebrar alianzas en el fútbol",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/11/11/culemania/palco/808929154_15340139_1706x960.jpg",
+        "tags": [
+            "en català",
+            "uefa",
+            "superliga",
+            "palco",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251030/superliga-utiliza-laporta-construir-quebrar-alianzas-futbol/1003742702608_0.html",
+        "date": "2025-10-30 00:12:24",
+        "sentiment_score": 0.46768543869256973
+    },
+    {
+        "title": "Victoria Szpunberg: \"El problema de la vivienda impide que mucha gente visualice su futuro de forma digna\"",
+        "image_url": "https://s2.elespanol.com/2025/10/29/actualidad/1003743990702_259638224_1706x960.jpg",
+        "tags": [
+            "vivienda",
+            "teatro",
+            "teatro de la abadía"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/teatro/20251030/victoria-szpunberg-problema-vivienda-impide-mucha-gente-visualice-futuro-forma-digna/1003743990471_0.html",
+        "date": "2025-10-30 01:41:14",
+        "sentiment_score": 0.5428571291267872
+    },
+    {
+        "title": "Rebeca Escribens celebra en Barcelona graduación de su hijo con tierno mensaje: “Se enfrentó a una madre que aún era menor de edad”",
+        "image_url": "https://www.infobae.com/resizer/v2/YICSHX6ZFNABLNG6E5EGGADDSQ.png?auth=d8c7750864f1dea018a45b89ae77bb8f86a90116f343ced5a48af5f89dc362f3&height=720&smart=true&width=1280",
+        "tags": [
+            "rebeca escribens",
+            "peru-entretenimiento",
+            "diego hernández escribens"
+        ],
+        "link": "https://www.infobae.com/peru/2025/10/30/rebeca-escribens-celebra-en-barcelona-graduacion-de-su-hijo-con-tierno-mensaje-se-enfrento-a-una-madre-que-aun-era-menor-de-edad/",
+        "date": "2025-10-30 00:25:52",
+        "sentiment_score": 0.6950103417038918
+    },
+    {
+        "title": "Pedri, el timón del Barça exprimido por Hansi Flick: nueva víctima del bíceps femoral",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/30/culemania/primer-equipo/1003742702614_15340211_1706x960.jpg",
+        "tags": [
+            "primer equipo",
+            "hansi flick",
+            "en català",
+            "barça",
+            "pedro gonzález pedri"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251030/pedri-barca-exprimido-hansi-flick-victima-delbicepsfemoral/1003742702611_0.html",
+        "date": "2025-10-30 00:13:05",
+        "sentiment_score": -0.31071333959698677
+    },
+    {
+        "title": "Las nuevas fuentes de ingresos de Laporta para disparar la facturación del Barça a los 1.075 millones",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/30/culemania/palco/1003742702615_15340232_1706x960.jpg",
+        "tags": [
+            "áfrica",
+            "en català",
+            "uber",
+            "palco",
+            "fc barcelona",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251030/fuentes-ingresos-laporta-disparar-facturacion-barca-millones/1003742702604_0.html",
+        "date": "2025-10-30 00:13:03",
+        "sentiment_score": 0.447195703163743
+    },
+    {
+        "title": "Venezolanos y cubanos en vilo en EEUU: pasos a seguir tras el fin de la extensión del permiso de trabajo",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761789244586.jpg?ch=675&cw=1200",
+        "tags": [
+            "inmigrantes",
+            "#inmigrantes",
+            "permiso de trabajo",
+            "trabajo de 180 día"
+        ],
+        "link": "https://2001online.com/usa/internacionales/venezolanos-y-cubanos-en-vilo-en-eeuu-pasos-a-seguir-tras-el-fin-de-la-extension-del-permiso-de-trabajo-202510292290",
+        "date": "2025-10-30 02:09:00",
+        "sentiment_score": -0.006368011236190796
+    },
+    {
+        "title": "Robo millonario en Nueva York: con este disfraz logran sustraer valiosas joyas en Queens",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "joyas",
+            "nueva york",
+            "robo"
+        ],
+        "link": "https://2001online.com/usa/internacionales/robo-millonario-en-nueva-york-con-este-disfraz-logran-sustraer-valiosas-joyas-en-queens-202510292200",
+        "date": "2025-10-30 02:00:00",
+        "sentiment_score": 0.06659893691539764
+    },
+    {
+        "title": "Piel de cristal: conoce esta tendencia coreana que te hará lucir un rostro sin imperfecciones",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761667962807.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/piel-de-cristal-conoce-esta-tendencia-coreana-que-te-hara-lucir-un-rostro-sin-imperfecciones-202510292200",
+        "date": "2025-10-30 02:00:00",
+        "sentiment_score": -0.847595689818263
+    },
+    {
+        "title": "¿Las tarjetas de pago sin contacto son seguras? Así funciona esta tecnología",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761789615037.jpg?ch=675&cw=1200",
+        "tags": [
+            "banco venezolano de crédito",
+            "pago \"sin contacto\"",
+            "contactless",
+            "tecnología nfc"
+        ],
+        "link": "https://2001online.com/servicios/las-tarjetas-de-pago-sin-contacto-son-seguras-asi-funciona-esta-tecnologia-202510292200",
+        "date": "2025-10-30 02:00:00",
+        "sentiment_score": 0.06117580458521843
+    },
+    {
+        "title": "Alarma mundial: Trump ordena iniciar pruebas nucleares de inmediato y esta es la razón",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761790246457.jpg?ch=675&cw=1200",
+        "tags": [
+            "armas nucleares",
+            "rusia",
+            "pruebas nucleares",
+            "donald trumo"
+        ],
+        "link": "https://2001online.com/internacionales/alarma-mundial-trump-ordena-iniciar-pruebas-nucleares-de-inmediato-y-esta-es-la-razon-2025102921580",
+        "date": "2025-10-30 01:58:00",
+        "sentiment_score": -0.10976184159517288
+    },
+    {
+        "title": "Gana $5.000 en Hollywood Forever: así puedes participar en el concurso el Día de Muertos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761789624449.jpg?ch=675&cw=1200",
+        "tags": [
+            "cementerio hollywood forever",
+            "agenda de actividades los ángeles",
+            "concurso día de muertos"
+        ],
+        "link": "https://2001online.com/usa/servicios/gana-5-000-en-hollywood-forever-asi-puedes-participar-en-el-concurso-el-dia-de-muertos-2025102921560",
+        "date": "2025-10-30 01:56:00",
+        "sentiment_score": 0.2632791604846716
+    },
+    {
+        "title": "Conviasa reprograma vuelos de la ruta Caracas - Cancún: tome nota del itinerario",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "entertainment",
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/conviasa-reprograma-vuelos-de-la-ruta-caracas---cancun-tome-nota-del-itinerario-2025102921450",
+        "date": "2025-10-30 01:45:00",
+        "sentiment_score": 0.06050581857562065
+    },
+    {
+        "title": "¡Crisis industrial! Hyundai forzó a Trump a frenar redada migratoria: la compañía necesita a sus obreros",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761787169883.jpg?ch=675&cw=1200",
+        "tags": [
+            "migrantes profesionales",
+            "hyundai",
+            "deportaciones masivas"
+        ],
+        "link": "https://2001online.com/usa/internacionales/crisis-industrial-hyundai-forzo-a-trump-a-frenar-redada-migratoria-la-compania-necesita-a-sus-obreros-2025102921180",
+        "date": "2025-10-30 01:18:00",
+        "sentiment_score": -0.3037153631448746
+    },
+    {
+        "title": "¡Imágenes impactantes!: huracán Melissa azota el oriente de Cuba y deja más de 700 mil evacuados",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "cuba inundaciones",
+            "cuba",
+            "impactor del huracán melissa",
+            "paso del huracán melissa por cuba"
+        ],
+        "link": "https://2001online.com/internacionales/imagenes-impactantes-huracan-melissa-azota-el-oriente-de-cuba-y-deja-mas-de-700-mil-evacuados-2025102920580",
+        "date": "2025-10-30 01:00:00",
+        "sentiment_score": -0.881833154708147
+    },
+    {
+        "title": "¿Purga en ICE?: los cambios que aplicará Trump por no cumplir la meta de 3 000 arrestos diarios",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "ice",
+            "trump",
+            "arrestos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/purga-en-ice-los-cambios-que-aplicara-trump-por-no-cumplir-la-meta-de-3-000-arrestos-diarios-202510292100",
+        "date": "2025-10-30 01:00:00",
+        "sentiment_score": -0.7096827775239944
     }
 ];
