@@ -154,20 +154,6 @@ export default [
         "sentiment_score": 0.45230406150221825
     },
     {
-        "title": "CNN: Trump está en Asia, pero está tocando tambores de guerra en América Latina",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/Depositphotos_423522468_L.jpg",
-        "tags": [
-            "actualidad",
-            "nacionales",
-            "internacionales",
-            "usa",
-            "donald trump"
-        ],
-        "link": "https://lapatilla.com/2025/10/27/cnn-trump-esta-en-asia-pero-esta-tocando-tambores-de-guerra-en-america-latina/",
-        "date": "2025-10-27 13:16:51",
-        "sentiment_score": -0.6750344261527061
-    },
-    {
         "title": "El Ibex 35 cierra en máximos históricos 18 años después por encima de los 16.000 puntos",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/27/bolsa-madrid-RW8L4uxmsCWOchdzeaP1kFN-1200x840@diario_abc.jpg",
         "tags": [
@@ -202,59 +188,6 @@ export default [
         "link": "https://www.abc.es/internacional/milei-aplaza-cambios-gobierno-tras-triunfo-electoral-20251027152407-nt.html",
         "date": "2025-10-27 14:30:28",
         "sentiment_score": 0.026812762022018433
-    },
-    {
-        "title": "Ayuso aumentará un 17,7% las ayudas a autónomos, y habrá también tarifa cero para emprendedores de más de 52 años",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/10/27/1497432699-RyvsgkVOd5rbeuKQ5AiR7qM-1200x840@diario_abc.jpg",
-        "tags": [
-            "emprendedores",
-            "177",
-            "ayuso",
-            "tarifa",
-            "autonomos",
-            "aumentara",
-            "cero",
-            "ayudas",
-            "anos"
-        ],
-        "link": "https://www.abc.es/espana/madrid/ayuso-aumentara-177-ayudas-autonomos-tarifa-cero-20251027142205-nt.html",
-        "date": "2025-10-27 13:22:41",
-        "sentiment_score": -0.0029192864894866943
-    },
-    {
-        "title": "Trump descarta presentarse a la Vicepresidencia de EE.UU. en 2028 para seguir en la Casa Blanca tras el fin de su mandato",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/27/1502354924-kDiE-U7018238037405BC-1200x840@diario_abc.jpg",
-        "tags": [
-            "casa",
-            "trump",
-            "descarta",
-            "tras",
-            "blanca",
-            "vicepresidencia",
-            "presentarse",
-            "seguir",
-            "mandato",
-            "2028",
-            "fin"
-        ],
-        "link": "https://www.abc.es/internacional/trump-descarta-presentarse-vicepresidencia-eeuu-2028-seguir-20251027122025-nt.html",
-        "date": "2025-10-27 11:20:26",
-        "sentiment_score": -0.14095494151115417
-    },
-    {
-        "title": "El Ibex roza su máximo histórico tras superar los 15.900 puntos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/10/27/1502101133-kFnC-U7018236321407aF-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "bolsa",
-            "ibex 35",
-            "uh abc",
-            "mercados",
-            "español"
-        ],
-        "link": "https://www.abc.es/economia/ibex-roza-maximo-historico-tras-superar-15900-20251027115135-nt.html",
-        "date": "2025-10-27 10:51:36",
-        "sentiment_score": -0.1509140580892563
     },
     {
         "title": "La omisión de la “y” de Castilla y León aleja a los leoneses y al PSOE local del candidato regional",
@@ -333,112 +266,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-27/valencia-instala-seis-camaras-y-un-radar-para-vigilar-el-caudal-del-nuevo-cauce-del-turia.html",
         "date": "2025-10-27 15:07:20",
         "sentiment_score": -0.04868517071008682
-    },
-    {
-        "title": "Todas las versiones de Mazón sobre lo que hizo en la tarde de la dana de Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4CG4SYORQJCNBMJUD7CBBF6XEU.JPG?auth=ca15690d3a2d64c57c0cab1664539f3128cda3d08d2a2e916e7b5f7b7b17973f&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "consell valencia",
-            "carlos mazón",
-            "pp",
-            "alberto núñez feijóo",
-            "españa",
-            "catástrofes"
-        ],
-        "link": "https://elpais.com/espana/2025-10-27/todas-las-versiones-de-mazon-sobre-lo-que-hizo-en-la-tarde-de-la-dana-de-valencia.html",
-        "date": "2025-10-27 13:49:26",
-        "sentiment_score": -0.6752763874828815
-    },
-    {
-        "title": "La federación vecinal de Valencia se queja por irregularidades en el 90% de las viviendas turísticas registradas en la Generalitat",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QDQQRCGZRFDPFJ5EPVZPCSVA64.JPG?auth=65c51ab3ca39e533a3205344a38efd19762aa2259ef950c442572d5ca702e26e&width=1200",
-        "tags": [
-            "asociaciones vecinos",
-            "ayuntamiento valencia",
-            "comunidad valenciana",
-            "viviendas alquiler temporada",
-            "valencia",
-            "vecinos",
-            "pgou",
-            "pisos turísticos",
-            "generalitat valenciana",
-            "registro propiedad"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-27/la-federacion-vecinal-de-valencia-se-queja-por-irregularidades-en-el-90-de-las-viviendas-turisticas-registradas-en-la-generalitat.html",
-        "date": "2025-10-27 13:28:17",
-        "sentiment_score": -0.18087658286094666
-    },
-    {
-        "title": "Junts avala la propuesta de Puigdemont de romper el pacto de investidura de Sánchez",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AC5LW6JM2NDJBICWWORNY3YYCU.jpg?auth=11924c9a53f1a9766046166cef9417d88539caee269351bbd99b8460bc3f790b&width=1200",
-        "tags": [
-            "juntsxcat",
-            "presupuestos generales estado",
-            "investidura parlamentaria",
-            "carles puigdemont",
-            "amnistía",
-            "francia",
-            "cataluña",
-            "pedro sánchez",
-            "psoe",
-            "perpiñán"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-27/junts-avala-la-propuesta-de-puigdemont-de-romper-el-pacto-de-investidura-de-sanchez.html",
-        "date": "2025-10-27 13:24:39",
-        "sentiment_score": 0.06581707298755646
-    },
-    {
-        "title": "Ayuso aprobará los presupuestos de 2026 y lanza un envite a Sánchez con los autónomos al subir un 17,7% las ayudas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/L7MY5PVYQVGPTLTUFXSDYKVQ7A.jpg?auth=1c319afe199f06e90b4ebc495322188560dd5aca222c510e01aed3fe0eb4ce17&width=1200",
-        "tags": [
-            "economía",
-            "pedro sánchez",
-            "comunidad de madrid",
-            "empleo",
-            "alberto núñez feijóo",
-            "isabel díaz ayuso",
-            "madrid",
-            "empleo autónomo"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-10-27/ayuso-aprobara-el-miercoles-los-presupuestos-de-2026-y-lanza-un-envite-a-sanchez-con-los-autonomos-al-subir-un-177-las-ayudas.html",
-        "date": "2025-10-27 13:20:16",
-        "sentiment_score": -0.3530367314815521
-    },
-    {
-        "title": "El Zoo de Barcelona anuncia su transformación con espacios inmersivos y experiencias interactivas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/H6NICIVAXBKKDJ3H46RPMBJR6U.jpg?auth=f08b74dedbfcb53604bf18d37788a8d2fe659f8c7443a67ffc36561dccd550f2&width=1200",
-        "tags": [
-            "barcelona",
-            "jaume collboni",
-            "cataluña",
-            "animales",
-            "reformas educacion",
-            "zoo",
-            "educación",
-            "cultura",
-            "zoo barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-27/el-zoo-de-barcelona-anuncia-su-transformacion-con-espacios-inmersivos-y-experiencias-interactivas.html",
-        "date": "2025-10-27 13:13:53",
-        "sentiment_score": 0.5335051938891411
-    },
-    {
-        "title": "Salvador Illa pide que la justicia considere si debe juzgar a Pujol con 95 años y problemas de salud",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RSBLGXAZ2RMC7KVQT7GVRU55R4.jpg?auth=fd7a8110dd2e071b1973d59c71f24cb90380a806c3eb57ecb7c97f429fb77602&width=1200",
-        "tags": [
-            "govern cataluña",
-            "jordi pujol",
-            "salvador illa",
-            "cataluña",
-            "generalitat cataluña",
-            "caso pujol",
-            "justicia",
-            "juicios"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-10-27/salvador-illa-pide-que-la-justicia-considere-si-debe-juzgar-a-pujol-con-95-anos-y-problemas-de-salud.html",
-        "date": "2025-10-27 13:10:44",
-        "sentiment_score": -0.024086594581604004
     },
     {
         "title": "El Hospital Universitario acogerá a algunos menores gazatíes",
@@ -960,20 +787,6 @@ export default [
         "link": "https://www.infobae.com/espana/2025/10/27/iker-casillas-se-indigna-ante-las-palabras-del-supuesto-ladron-de-sus-relojes-hay-que-ser-mongolo-pais-de-pandereta/",
         "date": "2025-10-27 20:40:28",
         "sentiment_score": -0.1411525383591652
-    },
-    {
-        "title": "CNN: Trump está en Asia, pero está tocando tambores de guerra en América Latina",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/Depositphotos_423522468_L.jpg",
-        "tags": [
-            "actualidad",
-            "nacionales",
-            "internacionales",
-            "usa",
-            "donald trump"
-        ],
-        "link": "https://lapatilla.com/2025/10/27/cnn-trump-esta-en-asia-pero-esta-tocando-tambores-de-guerra-en-america-latina/",
-        "date": "2025-10-27 13:16:51",
-        "sentiment_score": -0.6750351451337337
     },
     {
         "title": "Amazon planea despedir hasta 30.000 trabajadores corporativos",
@@ -9470,5 +9283,433 @@ export default [
         "link": "https://2001online.com/usa/internacionales/san-francisco-se-prepara-para-el-dia-de-los-muertos-el-evento-secreto-que-todos-quieren-vivir-este-noviembre-202510301600",
         "date": "2025-10-30 20:00:00",
         "sentiment_score": 0.769063894636929
+    },
+    {
+        "title": "Torres gana la segunda edición de ‘Supervivientes All Stars’ tras 55 días en Honduras: una última votación ajustada en “la edición más complicada de la historia” del programa",
+        "image_url": "https://www.infobae.com/resizer/v2/FC7WOYFTTBE57ILGRYKIIIU4HI.png?auth=c80ff78e106658c4fdc7a26773c2bb8bba481cf30b0424e67ead512d8ebfd92e&height=544&smart=true&width=970",
+        "tags": [
+            "televisión españa",
+            "jorge javier vázquez",
+            "telecinco",
+            "españa-televisión",
+            "supervivientes",
+            "supervivientes all stars",
+            "españa-noticias",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/31/torres-gana-la-segunda-edicion-de-supervivientes-all-stars-tras-55-dias-en-honduras-una-ultima-votacion-ajustada-en-la-edicion-mas-complicada-de-la-historia-del-programa/",
+        "date": "2025-10-31 01:49:34",
+        "sentiment_score": 0.5548252910375595
+    },
+    {
+        "title": "En España anuncian festejos por la Semana de la Catrina",
+        "image_url": "https://www.infobae.com/resizer/v2/CXA3KCLUAJGLTNDSKPVGCLWFAQ.JPG?auth=fde07736aaa0a2ef75ab6d6ed0ee5527b0df890a18fa60c16e1a50eb26fa295b&height=3478&smart=true&width=5217",
+        "tags": [
+            "españa",
+            "mexico-noticias",
+            "aeropuerto de madrid",
+            "día de muertos"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/10/31/en-espana-anuncian-festejos-por-la-semana-de-la-catrina/",
+        "date": "2025-10-31 00:40:00",
+        "sentiment_score": 0.27259279042482376
+    },
+    {
+        "title": "El PP carga contra Puente por mofarse de la \"apariencia\" de Feijóo y compara al ministro con \"un primate\"",
+        "image_url": "https://www.infobae.com/resizer/v2/S6VSF7UZTVBYPLGZMDSYXDNI2U.jpg?auth=38efb86e1a46f38c3f1014b8ba68aca26dd4f0fdccf46588705b3d867a8e607d&height=1279&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/30/el-pp-carga-contra-puente-por-mofarse-de-la-apariencia-de-feijoo-y-compara-al-ministro-con-un-primate/",
+        "date": "2025-10-30 23:30:36",
+        "sentiment_score": -0.8989735571667552
+    },
+    {
+        "title": "CAF participa del Congreso Futuro Iberoamericano y propone a América Latina como “región solución” a los desafíos globales",
+        "image_url": "https://www.infobae.com/resizer/v2/SUSVW7GHJRB5FLVWVBAERWCNC4.JPG?auth=4c8344c1e47f9a2b0210a1e6ba642336a23ab9f25f65ac84b60c644f73191930&height=2938&smart=true&width=5224",
+        "tags": [
+            "inteligencia artificial",
+            "america latina",
+            "madrid",
+            "internacional",
+            "casa de america",
+            "iberoamerica",
+            "españa-sociedad",
+            "españa-noticias",
+            "america latina y el caribe"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/30/caf-participa-del-congreso-futuro-iberoamericano-y-propone-a-america-latina-como-region-solucion-a-los-desafios-globales/",
+        "date": "2025-10-30 23:20:31",
+        "sentiment_score": 0.607356296852231
+    },
+    {
+        "title": "Comprueba los números ganadores del Cupón Diario de la Once del 30 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "cupón diario",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/30/comprueba-los-numeros-ganadores-del-cupon-diario-de-la-once-del-30-de-octubre/",
+        "date": "2025-10-30 23:15:34",
+        "sentiment_score": 0.45154281333088875
+    },
+    {
+        "title": "Alegría no contempla \"en absoluto\" que Mazón dimita y asegura que en caso de hacerlo \"también eso iría tarde\"",
+        "image_url": "https://www.infobae.com/resizer/v2/MLATRX3N4VGFPMKX7Y4JWMQL3A.jpg?auth=337b53709418eaac5bc992ab0f1916e6846026fd4906338db2e9d224df25137f&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/10/30/alegria-no-contempla-en-absoluto-que-mazon-dimita-y-asegura-que-en-caso-de-hacerlo-tambien-eso-iria-tarde/",
+        "date": "2025-10-30 23:00:19",
+        "sentiment_score": -0.7087794132530689
+    },
+    {
+        "title": "Española de Cubiertas, comprometidos con el trabajo bien hecho",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a545733d-b3d2-4957-a588-f51c0610f8ba_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "construcción",
+            "rehabilitación",
+            "seguridad",
+            "pintura"
+        ],
+        "link": "https://www.lne.es/asturias/2025/10/31/espanola-cubiertas-comprometidos-trabajo-hecho-123185949.html",
+        "date": "2025-10-31 02:00:06",
+        "sentiment_score": 0.4962642192840576
+    },
+    {
+        "title": "Real Madrid enfrenta a un Valencia en apuros en La Liga antes de su viaje a Liverpool",
+        "image_url": "https://i.headtopics.com/images/2025/10/30/latimes/real-madrid-buscar-compensaci-n-de-la-uefa-tras-fa-real-madrid-buscar-compensaci-n-de-la-uefa-tras-fa-989AA8E1E946B464099AFE83FA654BCC.webp?w=640",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/real-madrid-enfrenta-a-un-valencia-en-apuros-en-la-liga-75149234",
+        "date": "2025-10-31 01:32:12",
+        "sentiment_score": -0.4505122974514961
+    },
+    {
+        "title": "Un \"testaferro\" de José Luis Moreno se le vuelve en contra: \"Trabajé para él porque es una eminencia pero acabé detenido\"",
+        "image_url": "https://s2.elespanol.com/2024/06/28/corazon/famosos/866423632_259677168_1706x960.jpg",
+        "tags": [
+            "series de televisión",
+            "tribunales",
+            "audiencia nacional",
+            "josé luis moreno",
+            "aquí no hay quien viva"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20251031/testaferro-jose-luis-moreno-vuelve-trabaje-eminencia-acabe-detenido/1003743993643_0.html",
+        "date": "2025-10-31 01:29:41",
+        "sentiment_score": -0.7958351261913776
+    },
+    {
+        "title": "Awake, el robot español para que los pacientes de ictus puedan volver a andar sin supervisión médica",
+        "image_url": "https://s2.elespanol.com/2025/10/28/omicrono/tecnologia/1003743988911_259616337_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "robots",
+            "robótica",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20251031/awake-robot-espanol-pacientes-ictus-puedan-volver-andar-sin-supervision-medica/1003743987522_0.html",
+        "date": "2025-10-31 01:29:17",
+        "sentiment_score": 0.502316027879715
+    },
+    {
+        "title": "A Lamine Yamal le salió su doble venezolano y VIDEO se volvió viral",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/lamine-yamal-doble-venezolano.jpg",
+        "tags": [
+            "futbol",
+            "venezolano",
+            "deportes",
+            "lamine yamal",
+            "españa",
+            "titulares"
+        ],
+        "link": "https://lapatilla.com/2025/10/30/a-lamine-yamal-le-salio-su-doble-venezolano-y-video-se-volvio-viral/",
+        "date": "2025-10-31 01:13:02",
+        "sentiment_score": -0.017384469509124756
+    },
+    {
+        "title": "Leyenda del Bayern Múnich criticó a Luis Díaz por fallar gol cantado: “La desperdició de forma lamentable”",
+        "image_url": "https://www.infobae.com/resizer/v2/SOW2PE35CFDGNBJE4HVX63ESFE.jpg?auth=8ec1ad99b2d4caf31d61b58b9f4d439c0dd7cf6e4aa0868d5efbf48c6d2f1249&height=540&smart=true&width=960",
+        "tags": [
+            "bayern múnich",
+            "leyenda del bayern múnich",
+            "bayern vs.",
+            "luis díaz gol errado",
+            "colombia-deportes",
+            "bayern goleada",
+            "luis díaz"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/10/31/leyenda-del-bayern-munich-critico-a-luis-diaz-por-fallar-gol-cantado-la-desperdicio-de-forma-lamentable/",
+        "date": "2025-10-31 01:11:22",
+        "sentiment_score": 0.12512481212615967
+    },
+    {
+        "title": "Hans Clevers, el científico que crea órganos humanos desde cero: \"Podemos probar fármacos sin estudiarlos en ratones\"",
+        "image_url": "https://s2.elespanol.com/2025/10/30/actualidad/1003743993481_259674923_1706x960.jpg",
+        "tags": [
+            "investigación científica",
+            "salud",
+            "medicina"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20251031/hans-clevers-cientifico-crea-organos-humanos-cero-podemos-probar-farmacos-sin-estudiarlos-ratones/1003743993205_0.html",
+        "date": "2025-10-31 00:49:53",
+        "sentiment_score": -0.016747325658798218
+    },
+    {
+        "title": "30 OCT 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/30-oct-2025-partidazo-cope-20251031_3242606.html",
+        "date": "2025-10-31 00:38:32",
+        "sentiment_score": -0.6928502134978771
+    },
+    {
+        "title": "El PP haría el careo de Sánchez, Ábalos y Aldama en la comisión del caso PSOE: «Primero que responda si lo hace»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/11/27/674701dd2ba36.r_d.396-328-15000.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20251031/pp-haria-careo-sanchez-abalos-aldama-comision-caso-psoe-primero-responda-hace_350267.html",
+        "date": "2025-10-31 00:30:00",
+        "sentiment_score": -0.3828279785811901
+    },
+    {
+        "title": "El OIEA informa de daños críticos para la seguridad nuclear en Ucrania a causa de la actividad militar",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251031010533_690.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.europapress.es/internacional/noticia-oiea-informa-danos-criticos-seguridad-nuclear-ucrania-causa-actividad-militar-20251031010533.html",
+        "date": "2025-10-31 00:05:33",
+        "sentiment_score": -0.7828916776925325
+    },
+    {
+        "title": "La fotografía viral de Jorge Carrascal junto a una leyenda brasileña luego de clasificar a la final de la Copa Libertadores: “Bestia del fútbol”",
+        "image_url": "https://www.infobae.com/resizer/v2/QAQK66YGCFEC7CG2NE452IZJXA.JPG?auth=6d86ae82404a48fe9e82b4a72243d517b285ff70046f9c849ba4d31626d046fa&height=1569&smart=true&width=2072",
+        "tags": [
+            "jorge carrascal",
+            "flamengo",
+            "copa libertadores 2025",
+            "racing club",
+            "ronaldinho",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/10/31/la-fotografia-viral-de-jorge-carrascal-junto-a-una-leyenda-brasilena-luego-de-clasificar-a-la-final-de-la-copa-libertadores-bestia-del-futbol/",
+        "date": "2025-10-31 01:58:33",
+        "sentiment_score": 0.7130902372300625
+    },
+    {
+        "title": "Cómo el diseño del entorno urbano puede ser la clave ante la soledad en la vida moderna, según un estudio",
+        "image_url": "https://www.infobae.com/resizer/v2/DVHXGCXQ7BBMZEDXP7H54WOB64.png?auth=f599681daf28fca05a15553ae8161f0a6c6b0433ffacc076d27ccfdca4d6c5ee&height=768&smart=true&width=1408",
+        "tags": [
+            "espacios públicos",
+            "diseño urbano",
+            "national geographic",
+            "soledad",
+            "conexión social",
+            "newsroom bue",
+            "magazines",
+            "salud mental"
+        ],
+        "link": "https://www.infobae.com/tendencias/2025/10/31/como-el-diseno-del-entorno-urbano-puede-ser-la-clave-ante-la-soledad-en-la-vida-moderna-segun-un-estudio/",
+        "date": "2025-10-31 01:11:10",
+        "sentiment_score": 0.6154224965721369
+    },
+    {
+        "title": "Invasión migratoria: España tendrá a finales de este año 600.000 inmigrantes más: «La cifra supera lo esperado»",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/10/inmigracion-09.jpg",
+        "tags": [
+            "ine",
+            "airef",
+            "inmigración ilegal",
+            "españa",
+            "inmigración"
+        ],
+        "link": "https://gaceta.es/espana/invasion-migratoria-espana-tendra-a-finales-de-este-ano-600-000-inmigrantes-mas-la-cifra-supera-lo-esperado-20251031-0207/",
+        "date": "2025-10-31 01:07:00",
+        "sentiment_score": -0.8023930620402098
+    },
+    {
+        "title": "Los mejores libros infantiles de octubre: una Caperucita moderna y otros 15 títulos más allá del truco o trato",
+        "image_url": "https://s2.elespanol.com/2025/10/30/actualidad/1003743992783_259665315_1706x960.jpg",
+        "tags": [
+            "recomendaciones",
+            "literatura infantil",
+            "libros",
+            "lectura",
+            "infantil y juvenil"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/infantil_y_juvenil/20251031/mejores-libros-infantiles-octubre-caperucita-moderna-titulos-alla-truco-trato/1003743992010_0.html",
+        "date": "2025-10-31 00:55:00",
+        "sentiment_score": 0.4455674849450588
+    },
+    {
+        "title": "Rosalía adelanta temas de «Lux» en trece idiomas",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/10/Rosalia4.jpg",
+        "tags": [
+            "idiomas",
+            "lux",
+            "noticias destacadas",
+            "farándula",
+            "rosalía"
+        ],
+        "link": "https://elsiglo.com.ve/rosalia-adelanta-temas-de-lux-en-trece-idiomas/",
+        "date": "2025-10-31 00:35:05",
+        "sentiment_score": 0.1465458646416664
+    },
+    {
+        "title": "La Sagrada Familia de Barcelona se convierte en la iglesia más alta del mundo [ING]",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/c0/media_thumb-link-4112595.webp?1761860106=",
+        "tags": [
+            "familia",
+            "mundo",
+            "barcelona",
+            "alta",
+            "actualidad",
+            "sagrada",
+            "iglesia"
+        ],
+        "link": "https://www.meneame.net/story/sagrada-familia-barcelona-convierte-iglesia-mas-alta-mundo-ing",
+        "date": "2025-10-31 00:05:03",
+        "sentiment_score": 0.05993501842021942
+    },
+    {
+        "title": "Madrid tendrá su película dirigida por Woody Allen, que la rodará en la capital",
+        "image_url": "https://okdiario.com/img/2025/10/30/woody-allen-y-la-puerta-del-sol.-getty.jpg",
+        "tags": [
+            "madrid",
+            "españa"
+        ],
+        "link": "https://okdiario.com/madrid/madrid-tendra-pelicula-dirigida-woody-allen-que-rodara-capital-15680910",
+        "date": "2025-10-31 00:04:24",
+        "sentiment_score": 0.13588453829288483
+    },
+    {
+        "title": "Desmantelan red de extorsión en Aragua: así despojaron más de $50 mil a una víctima",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761879210131.jpg?ch=675&cw=1200",
+        "tags": [
+            "pnb",
+            "maracay",
+            "red de extorsion e",
+            "xtrosionadores",
+            "estafas",
+            "aragua"
+        ],
+        "link": "https://2001online.com/sucesos/desmantelan-red-de-extorsion-en-aragua-asi-despojaron-mas-de-50-mil-a-una-victima-202510302200",
+        "date": "2025-10-31 02:00:00",
+        "sentiment_score": -0.7144454214721918
+    },
+    {
+        "title": "Pasos para solicitar la pensión por discapacidad en el IVSS: conoce los requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761875594169.jpg?ch=675&cw=1200",
+        "tags": [
+            "pensión por discapacidad",
+            "pensión del ivss",
+            "instituto venezolano de los seguros sociales"
+        ],
+        "link": "https://2001online.com/servicios/pasos-para-solicitar-la-pension-por-discapacidad-en-el-ivss-conoce-los-requisitos-2025103021530",
+        "date": "2025-10-31 01:53:00",
+        "sentiment_score": 0.035933610051870346
+    },
+    {
+        "title": "Aterrizaje forzoso en Florida: vuelo de JetBlue reporta varios pasajeros heridos tras un problema de altitud",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761872056310.jpg?ch=675&cw=1200",
+        "tags": [
+            "accidente aereo",
+            "tampa"
+        ],
+        "link": "https://2001online.com/usa/internacionales/aterrizaje-forzoso-en-florida-vuelo-de-jetblue-reporta-varios-pasajeros-heridos-tras-un-problema-de-altitud-2025103021530",
+        "date": "2025-10-31 01:53:00",
+        "sentiment_score": 0.15692348778247833
+    },
+    {
+        "title": "Alerta SNAP: sepa dónde conseguir alimentos gratis en Texas antes de la suspensión del programa",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "alimentos",
+            "texas",
+            "gratis"
+        ],
+        "link": "https://2001online.com/usa/servicios/alerta-snap-sepa-donde-conseguir-alimentos-gratis-en-texas-antes-de-la-suspension-del-programa--202510302100",
+        "date": "2025-10-31 01:00:00",
+        "sentiment_score": -0.8682286823168397
+    },
+    {
+        "title": "¡Cambios en el Miss Universo! El certamen nombra a un nuevo CEO: conoce quien asumirá el rol",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "certamen",
+            "ceo",
+            "miss universo"
+        ],
+        "link": "https://2001online.com/farandula/cambios-en-el-miss-universo-el-certamen-nombra-a-un-nuevo-ceo-conoce-quien-asumira-el-rol--2025103020550",
+        "date": "2025-10-31 00:55:00",
+        "sentiment_score": 0.20302302204072475
+    },
+    {
+        "title": "¡San Diego se transforma! La ciudad celebra y se ilumina con las festividades del Día de Muertos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761871305897.jpg?ch=675&cw=1200",
+        "tags": [
+            "san diego",
+            "día de muertos",
+            "actividades programadas"
+        ],
+        "link": "https://2001online.com/usa/servicios/san-diego-se-transforma-la-ciudad-celebra-y-se-ilumina-con-las-festividades-del-dia-de-muertos-2025103020360",
+        "date": "2025-10-31 00:36:00",
+        "sentiment_score": 0.17887781374156475
+    },
+    {
+        "title": "Onda tropical 53 ingresará a Venezuela en las próximas horas: conozca el pronóstico de Inameh",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761861302521.jpg?ch=675&cw=1200",
+        "tags": [
+            "diario 2001",
+            "estado del tiempo",
+            "onda tropical",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/onda-tropical-53-ingresara-a-venezuela-en-las-proximas-horas-conozca-el-pronostico-de-inameh-2025103020340",
+        "date": "2025-10-31 00:34:00",
+        "sentiment_score": -0.13066692650318146
+    },
+    {
+        "title": "Sin cupones de alimentos: EEUU ya no dará asistencia a este grupo a partir de noviembre",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761870413615.jpg?ch=675&cw=1200",
+        "tags": [
+            "alimentacion",
+            "snap",
+            "refugiados",
+            "economía"
+        ],
+        "link": "https://2001online.com/usa/servicios/sin-cupones-de-alimentos-eeuu-ya-no-dara-asistencia-a-este-grupo-a-partir-de-noviembre-2025103020330",
+        "date": "2025-10-31 00:33:00",
+        "sentiment_score": -0.04423423111438751
+    },
+    {
+        "title": "Stranger Things 5: Netflix lanza el tráiler final y anuncia el épico adiós en tres actos",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "netflix",
+            "stranger things",
+            "5ta temporada"
+        ],
+        "link": "https://2001online.com/farandula/stranger-things-5-netflix-lanza-el-trailer-final-y-anuncia-el-epico-adios-en-tres-actos--202510302020",
+        "date": "2025-10-31 00:02:00",
+        "sentiment_score": 0.8485825769603252
+    },
+    {
+        "title": "Halloween en Washington D. C.: los mejores locales para disfrutar de la festividad",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "eventos",
+            "halloween",
+            "washington d. c."
+        ],
+        "link": "https://2001online.com/usa/internacionales/halloween-en-washington-d-c-los-mejores-locales-para-disfrutar-de-la-festividad-202510302000",
+        "date": "2025-10-31 00:00:00",
+        "sentiment_score": 0.5273334421217442
     }
 ];
