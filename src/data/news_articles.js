@@ -1,139 +1,5 @@
 export default [
     {
-        "title": "Cuál es el precio de la gasolina este 28 de octubre en Madrid, Barcelona y otras ciudades",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "precio gasolina",
-            "noticias",
-            "gasolina",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/28/cual-es-el-precio-de-la-gasolina-este-28-de-octubre-en-madrid-barcelona-y-otras-ciudades/",
-        "date": "2025-10-28 06:30:41",
-        "sentiment_score": -0.022574491798877716
-    },
-    {
-        "title": "Muere a los 55 años Esther Uria, actriz de series míticas como ‘Hospital central’ o ‘Cuéntame cómo pasó’",
-        "image_url": "https://www.infobae.com/resizer/v2/FGK2ZBCRFVDJFMXSGGXURSHXRM.jpg?auth=85dd94ebeb6346fb6098649c87c2439f57c52ea589a8a72688a59e48c02318aa&height=1370&smart=true&width=2048",
-        "tags": [
-            "series españa",
-            "cultura",
-            "cultura españa",
-            "españa-noticias",
-            "series",
-            "españa-cultura"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/10/28/muere-a-los-55-anos-esther-uria-actriz-de-series-miticas-como-hospital-central-o-cuentame-como-paso/",
-        "date": "2025-10-28 06:22:38",
-        "sentiment_score": 0.1251877173781395
-    },
-    {
-        "title": "Situación actual de los embalses en España HOY 28 de octubre",
-        "image_url": "https://www.infobae.com/resizer/v2/ZCPV6775XRB5DPEFENUCEFG2EA.png?auth=205756b17da068a8ecca24602fa6cff95eba7e5175a2b73da71603adff4b7941&height=2343&smart=true&width=3514",
-        "tags": [
-            "sequía",
-            "noticias",
-            "españa-noticias",
-            "agua",
-            "embalses españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/28/situacion-actual-de-los-embalses-en-espana-hoy-28-de-octubre/",
-        "date": "2025-10-28 06:15:45",
-        "sentiment_score": 0.013330325484275818
-    },
-    {
-        "title": "Los máximos goleadores de LaLiga tras la Jornada 10: cómo va la carrera por el pichichi",
-        "image_url": "https://www.infobae.com/resizer/v2/TSOSPX2GYJH27AQP7FM3HSYXR4.jpg?auth=45a56cc038a0b688e5e0d5a91511eae92f188e317fb4cc4eff8204e695e1c629&height=1080&smart=true&width=1920",
-        "tags": [
-            "goleadores",
-            "noticias",
-            "laliga"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/28/los-maximos-goleadores-de-laliga-tras-la-jornada-10-como-va-la-carrera-por-el-pichichi/",
-        "date": "2025-10-28 06:15:38",
-        "sentiment_score": 0.32967471703886986
-    },
-    {
-        "title": "Cotización del euro frente al dólar hoy 28 de octubre",
-        "image_url": "https://www.infobae.com/resizer/v2/ESK62KO465BPPJHALZ2MW52HZI.jpg?auth=07bf53b2db812406e917e930f5264d5cd0382e62de46b4cd3b6e6a47e5917685&height=538&smart=true&width=800",
-        "tags": [
-            "tipo de cambio",
-            "mercados",
-            "dólar",
-            "euros",
-            "billetes",
-            "españa-economía",
-            "noticias",
-            "bancos españa",
-            "monedas"
-        ],
-        "link": "https://www.infobae.com/espana/2025/10/28/cotizacion-del-euro-frente-al-dolar-hoy-28-de-octubre/",
-        "date": "2025-10-28 05:15:31",
-        "sentiment_score": 0.029736138880252838
-    },
-    {
-        "title": "Fallece el empresario Diego Quiles, expresidente del Elche y fundador de la marca Kelme",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3b6c0ea0-e8d3-4451-8c92-60f66b655c28_16-9-aspect-ratio_default_1411807.jpg",
-        "tags": [
-            "empresario",
-            "muerte",
-            "óbito",
-            "elche cf"
-        ],
-        "link": "https://www.eldia.es/economia/2025/10/28/fallece-empresario-diego-quiles-expresidente-123091579.html",
-        "date": "2025-10-28 06:34:13",
-        "sentiment_score": -0.873615175485611
-    },
-    {
-        "title": "Carmen Laforet: 'Nuevos titiriteros'",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/10/09/laforet-kKPB-U2303324018713JLI-758x531@El%20Norte.jpg",
-        "tags": [
-            "el norte de castilla"
-        ],
-        "link": "https://www.elnortedecastilla.es/valladolid/el-cronista/carmen-laforet-nuevos-titiriteros-20251028073300-nt.html",
-        "date": "2025-10-28 06:33:01",
-        "sentiment_score": 0.4230330102145672
-    },
-    {
-        "title": "Alfonso Arús habla claro sobre la nueva vida de Dani Alves como predicador en una iglesia de Girona",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/10/28/690060cae30b6.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20251028/1002558916/alfonso-arus-habla-claro-sobre-nueva-vida-dani-alves-predicador-iglesia-girona-dct.html",
-        "date": "2025-10-28 06:32:37",
-        "sentiment_score": -0.860561752691865
-    },
-    {
-        "title": "Lo que debes saber hoy, 28 de octubre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/05/09/informacion-municipal/1003742656344_14560088_1706x960.jpg",
-        "tags": [
-            "autobús",
-            "clima",
-            "tranvía",
-            "rodalies",
-            "metro barcelona",
-            "gran barcelona",
-            "coches",
-            "transporte",
-            "tráfico",
-            "transports metropolitans barcelona tmb"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251028/debes-saber-hoy-octubre-barcelona/1003742701841_0.html",
-        "date": "2025-10-28 06:29:24",
-        "sentiment_score": 0.7405509129166603
-    },
-    {
-        "title": "El PP ve confirmada su estrategia de no soliviantar a Junts tras la ruptura de Puigdemont con Sánchez",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a516545a-f8a0-4cb3-be92-258a68887064_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "partido popular,carles puigdemont,alberto núñez feijóo,miguel tellado"
-        ],
-        "link": "https://www.laopiniondezamora.es/nacional/2025/10/28/pp-ve-confirmada-estrategia-soliviantar-123091490.html",
-        "date": "2025-10-28 06:29:12",
-        "sentiment_score": -0.6291636563837528
-    },
-    {
         "title": "Sebastián Ramírez, abogado: “Puedes marcharte voluntariamente de tu trabajo y tener derecho a indemnización y a paro”",
         "image_url": "https://www.infobae.com/resizer/v2/IX7TNGDVV5BUDLNP5ZU2JHPKE4.jpg?auth=73c712b7be6669b3b31d00341cb267bb59908661ed1e325c62bf8703ae25d41c&height=1350&smart=true&width=2400",
         "tags": [
@@ -299,19 +165,6 @@ export default [
         "sentiment_score": 0.7155150026082993
     },
     {
-        "title": "Periodista mexicano que cubría cárteles de droga fue hallado muerto en una carretera con una nota junto al cuerpo",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/Screenshot_8-1.jpg",
-        "tags": [
-            "sucesos",
-            "internacionales",
-            "actualidad",
-            "miguel ángel beltrán"
-        ],
-        "link": "https://lapatilla.com/2025/10/28/periodista-mexicano-que-cubria-carteles-de-droga-fue-hallado-muerto-en-una-carretera-con-una-nota-junto-al-cuerpo/",
-        "date": "2025-10-28 10:12:31",
-        "sentiment_score": -0.717323200777173
-    },
-    {
         "title": "El Gobierno de Trump invertirá 80.000 millones en reactores nucleares para impulsar la inteligencia artificial",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/28/G4V4ZPDXQAA1yWH-kJd-U701838355422uYB-1200x840@diario_abc.jpg",
         "tags": [
@@ -437,21 +290,6 @@ export default [
         "link": "https://www.abc.es/cultura/espanol-crece-millones-hablantes-ano-20251028113254-nt.html",
         "date": "2025-10-28 10:32:55",
         "sentiment_score": -0.07056373357772827
-    },
-    {
-        "title": "Venezuela suspende el acuerdo energético con Trinidad y Tobago ante los ejercicios militares de EE.UU.",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/10/28/1502370590-kQfF-U701835609762AXF-1200x840@diario_abc.jpg",
-        "tags": [
-            "estados unidos",
-            "venezuela",
-            "cia",
-            "nicolás maduro",
-            "donald trump",
-            "trinidad y tobago"
-        ],
-        "link": "https://www.abc.es/internacional/venezuela-suspende-acuerdo-energetico-trinidad-tobago-ante-20251028094302-nt.html",
-        "date": "2025-10-28 08:44:43",
-        "sentiment_score": -0.1108430027961731
     },
     {
         "title": "Illa modula el concepto de “interés general” de los nuevos parque eólicos para lograr el apoyo de ERC",
@@ -8445,5 +8283,536 @@ export default [
         "link": "https://2001online.com/usa/internacionales/se-acaba-el-snap-y-llega-el-miedo-donde-encontrar-bancos-de-comida-en-nueva-york-y-nueva-jersey-2025103112300",
         "date": "2025-10-31 16:30:00",
         "sentiment_score": -0.0934625044465065
+    },
+    {
+        "title": "Número ganador de Eurojackpot del 31 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/Q7FNQIJEBVFCBNCYSSGYYQFK6A.jpg?auth=d0a8f05dacad4e8a73566665ba986c216d1358565751f754ffaeb9d98bf2f3be&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "eurojackpot"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/31/numero-ganador-de-eurojackpot-del-31-de-octubre/",
+        "date": "2025-10-31 21:01:02",
+        "sentiment_score": 0.09473380446434021
+    },
+    {
+        "title": "Estos son los resultados del sorteo de Bonoloto del 31 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/2D22TSFDBJCEHIECLWRJLWUQIU.jpg?auth=0f8d364022b340f9b936878cdcc9af4602a796ccca3443df81ec42d1022cdd45&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "bonoloto"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/31/estos-son-los-resultados-del-sorteo-de-bonoloto-del-31-de-octubre/",
+        "date": "2025-10-31 21:00:36",
+        "sentiment_score": 0.1923743635416031
+    },
+    {
+        "title": "Este es el número ganador del sorteo de Euromillones del 31 de octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/DF22RSLR7JHWNAJDJLQSSD4WYM.jpg?auth=884d85f7a5a7170273df2b8663f2491f108df738651f05b4bc51277e075aa471&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "euromillones"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/31/este-es-el-numero-ganador-del-sorteo-de-euromillones-del-31-de-octubre/",
+        "date": "2025-10-31 20:45:36",
+        "sentiment_score": 0.06882078945636749
+    },
+    {
+        "title": "Una colombiana viviendo en España revela los sabores que los españoles no soportan: “Dicen que eso es para los pollos”",
+        "image_url": "https://www.infobae.com/resizer/v2/N5BYYO5LAVAZPIUILVGUL5ATVQ.jpg?auth=2af9e6e82174ee2ae51ed7191533bc13a8800f1b40034405ec6e1bb13b2ba545&height=1080&smart=true&width=1920",
+        "tags": [
+            "maíz",
+            "colombia",
+            "diferencias culturales",
+            "jamón",
+            "españa",
+            "cilantro",
+            "españa-sociedad",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/31/una-colombiana-viviendo-en-espana-revela-los-sabores-que-los-espanoles-no-soportan-dicen-que-eso-es-para-los-pollos/",
+        "date": "2025-10-31 20:14:08",
+        "sentiment_score": -0.12874247878789902
+    },
+    {
+        "title": "Una mujer va a los tribunales tras ser desheredada por su madre en favor de su hermano: el juez le da la razón, no se demostró que la abandonara ni que le causara maltrato psicológico",
+        "image_url": "https://www.infobae.com/resizer/v2/EZCWWGUAGZAX5H2A4KNUVWNLO4.jpg?auth=75455ce6577181ca491884a865a5ab492e71149b12c56ea3e33ee58141c5fd07&height=853&smart=true&width=1280",
+        "tags": [
+            "españa-noticias",
+            "sentencias españa",
+            "herencias españa",
+            "españa-economia",
+            "tribunales",
+            "herencias",
+            "testamento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/31/una-mujer-va-a-los-tribunales-tras-ser-desheredada-por-su-madre-en-favor-de-su-hermano-el-juez-le-da-la-razon-no-se-demostro-que-la-abandonara-ni-que-le-causara-maltrato-psicologico/",
+        "date": "2025-10-31 19:55:34",
+        "sentiment_score": -0.590000793337822
+    },
+    {
+        "title": "Una española que vive en Londres intenta que su hija lleve el segundo apellido de cada progenitor, pero la Justicia en España se lo impide: tendrá un nombre distinto en Reino Unido",
+        "image_url": "https://www.infobae.com/resizer/v2/67YF2ZEGJJAW3GTDURNAJDIVK4.jpg?auth=def41114c2b74c69fb341ee1bc1ea49cb933ca196315c541199a8cd8f2de3d2d&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-noticias",
+            "sentencias españa",
+            "tribunales españa",
+            "justicia españa",
+            "nacionalidad española",
+            "comunidad valenciana",
+            "nacionalidad",
+            "reino unido",
+            "tribunales",
+            "españa",
+            "justicia",
+            "valencia",
+            "españa-nacional"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/31/una-espanola-que-vive-en-londres-intenta-que-su-hija-lleve-el-segundo-apellido-de-cada-progenitor-pero-la-justicia-en-espana-se-lo-impide-tendra-un-nombre-distinto-en-reino-unido/",
+        "date": "2025-10-31 19:54:56",
+        "sentiment_score": -0.08762659132480621
+    },
+    {
+        "title": "Carles Espinosa, podólogo, sobre el éxito de las ‘barefoot’: “No diría que es una revolución, pero es un cambio de concepto”",
+        "image_url": "https://www.infobae.com/resizer/v2/GJROGTWDGJFBFESFBT4ISXNLRY.jpg?auth=69e27dfd3b454dd50b0653b4967c44aedb808a8370d6f3761c549c8fe086ce12&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-noticias",
+            "vida cotidiana",
+            "españa-sociedad",
+            "comodidad",
+            "zapatos",
+            "estética",
+            "podólogo"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/31/carles-espinosa-podologo-sobre-el-exito-de-las-barefoot-no-diria-que-es-una-revolucion-pero-es-un-cambio-de-concepto/",
+        "date": "2025-10-31 19:32:35",
+        "sentiment_score": -0.1730469986796379
+    },
+    {
+        "title": "Triplex de la Once sorteo 4: Resultados de hoy 31 octubre",
+        "image_url": "https://www.infobae.com/resizer/v2/4H3U3QIFVVD5LDKJMJSF6WWNDY.jpg?auth=e80d21489f735203cc5d97d149e49628ff38bc5039139c9f720fcacce4b90db3&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-economía",
+            "españa-loterías",
+            "noticias",
+            "super once"
+        ],
+        "link": "https://www.infobae.com/espana/2025/10/31/triplex-de-la-once-sorteo-4-resultados-de-hoy-31-octubre/",
+        "date": "2025-10-31 19:30:29",
+        "sentiment_score": 0.05048452690243721
+    },
+    {
+        "title": "India Martínez revela que no podría vivir de su hit más famoso ’90 minutos’: “Es de Vanesa Martín”",
+        "image_url": "https://www.infobae.com/resizer/v2/EJITY42EEFFX5AF65LBHK5HDGM.png?auth=644ee8744ac40c5c9981a4dd9063e4f6fa664aa09cbc0e3f04f1eb4b8805cbbc&height=1080&smart=true&width=1920",
+        "tags": [
+            "india martínez",
+            "españa-noticias",
+            "cantantes",
+            "música españa",
+            "españa-cultura",
+            "música"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/10/31/india-martinez-revela-que-no-podria-vivir-de-su-hit-mas-famoso-90-minutos-es-de-vanesa-martin/",
+        "date": "2025-10-31 19:30:09",
+        "sentiment_score": -0.31347474828362465
+    },
+    {
+        "title": "Valladolid acogerá un fin de semana \"pletórico\" el 15 y 16 de noviembre con el España-Inglaterra y la Supercopa",
+        "image_url": "https://www.infobae.com/resizer/v2/FYVRGK6HKNB25EMTDTFJFGJXPE.jpg?auth=cb1131ec5ffd7a4a3b7ad6e8360ec7fe89ed6d11ddb62b426ae4f9e8f6afcd4c&height=1283&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/10/31/valladolid-acogera-un-fin-de-semana-pletorico-el-15-y-16-de-noviembre-con-el-espana-inglaterra-y-la-supercopa/",
+        "date": "2025-10-31 19:15:17",
+        "sentiment_score": 0.431855957955122
+    },
+    {
+        "title": "Feijóo carga contra el Gobierno por su gesto con México: “Yo no me avergüenzo de la historia de mi país”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/L3B6QHJSDRN6FLXT4OHG5DVBLI.jpg?auth=550e47940e3eced03b258b978cee0fb2a8b6462871ab758ef29c8fd622aa8239&width=1200",
+        "tags": [
+            "colonialismo",
+            "indígenas",
+            "américa",
+            "méxico",
+            "españa",
+            "gobierno",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2025-10-31/feijoo-carga-contra-el-gobierno-por-su-gesto-con-mexico-yo-no-me-averguenzo-de-la-historia-de-mi-pais.html",
+        "date": "2025-10-31 17:28:06",
+        "sentiment_score": -0.9124497110024095
+    },
+    {
+        "title": "Mbappé recibe la Bota de Oro en el Bernabéu",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/10/kylian-mbappe-50713.jpg",
+        "tags": [
+            "mbappé",
+            "31oct",
+            "deportes",
+            "bota de oro"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/10/31/mbappe-recibe-la-bota-de-oro/",
+        "date": "2025-10-31 22:15:19",
+        "sentiment_score": 0.06669014692306519
+    },
+    {
+        "title": "Dani Vidal, entrenador del Real Avilés: «La tristeza por caer en Copa del Rey duró una noche, esto no para y ya pensamos en el Arenteiro»",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/10/31/dani-vidal-kaPD-U24079270248jcB-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real avilés"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/dani-vidal-entrenador-real-aviles-tristeza-caer-20251031225011-nt.html",
+        "date": "2025-10-31 21:50:11",
+        "sentiment_score": 0.354559987783432
+    },
+    {
+        "title": "Tres voces, dos cruces, un epitafio: el misterio de Rafaely",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a15215a2-0285-43d2-8635-fb921b06cd92_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "arte",
+            "cementerio de san lázaro"
+        ],
+        "link": "https://www.laprovincia.es/las-palmas/2025/10/31/tres-voces-cruces-epitafio-misterio-123244597.html",
+        "date": "2025-10-31 21:46:11",
+        "sentiment_score": -0.18987174332141876
+    },
+    {
+        "title": "Una acción imposible de Will Clyburn obliga a reescribir crónicas",
+        "image_url": "https://static1.ara.cat/clip/837031c2-3eb3-4889-9c9f-08a2d1511b7f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "accion",
+            "reescribir",
+            "obliga",
+            "imposible",
+            "will",
+            "clyburn",
+            "cronicas"
+        ],
+        "link": "https://es.ara.cat/deportes/baloncesto/accion-imposible-will-clyburn-obliga-reescribir-cronicas_1_5547667.html",
+        "date": "2025-10-31 21:46:01",
+        "sentiment_score": 0.34854012727737427
+    },
+    {
+        "title": "La emoción del deporte se vive al máximo: Grandes Ligas, Liga MX y NBA en México este fin de semana",
+        "image_url": "https://www.infobae.com/resizer/v2/2BN43GJFS5FAZGMC6WZJEGHUVY.JPG?auth=da22b8a1890d50ae591bc33ef2ea778edd003b886c66336175ba08b520674da8&height=2758&smart=true&width=4137",
+        "tags": [
+            "noticias",
+            "futbol mexicano",
+            "laliga",
+            "mexico-deportes",
+            "los ángeles dodgers",
+            "liga mx",
+            "mlb",
+            "béisbol",
+            "nba"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/10/31/la-emocion-del-deporte-se-vive-al-maximo-grandes-ligas-liga-mx-y-nba-en-mexico-este-fin-de-semana/",
+        "date": "2025-10-31 21:21:00",
+        "sentiment_score": 0.4128311686217785
+    },
+    {
+        "title": "El documental de Vinicius en el punto de mira: la sorprendente reacción del Valencia CF",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/10/31/2025103122150531825.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/documental-vinicius-punto-mira-sorprendente-reaccion-valencia-cf/20251031221528987039.html",
+        "date": "2025-10-31 21:15:28",
+        "sentiment_score": -0.7069472335278988
+    },
+    {
+        "title": "El polémico rascacielos del Puerto de Málaga \"desaparece\" de la ciudad: de proyecto estrella a invisible",
+        "image_url": "https://static.eldiario.es/clip/0916a0a1-deaf-4aa9-bf0d-199b4be80b43_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "noticias",
+            "andalucía",
+            "sevilla",
+            "málaga",
+            "análisis",
+            "granada",
+            "información",
+            "córdoba",
+            "opinión",
+            "eldiario.es"
+        ],
+        "link": "https://www.eldiario.es/andalucia/malaga/polemico-rascacielos-puerto-malaga-desaparece-ciudad-proyecto-estrella-invisible_1_12732141.html",
+        "date": "2025-10-31 21:02:02",
+        "sentiment_score": -0.09867098927497864
+    },
+    {
+        "title": "Una guerra de atrocidades (y olvidada): qué está pasando en Sudán y por qué la última ofensiva rebelde es importante",
+        "image_url": "https://static.eldiario.es/clip/1c95b860-07fb-44c5-982a-c34836e2058c_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sudan",
+            "atrocidades",
+            "ultima",
+            "ofensiva",
+            "olvidada",
+            "importante",
+            "guerra",
+            "pasando",
+            "rebelde"
+        ],
+        "link": "https://www.eldiario.es/internacional/guerra-atrocidades-olvidada-pasando-sudan-ultima-ofensiva-rebelde-importante_1_12730881.html",
+        "date": "2025-10-31 21:01:58",
+        "sentiment_score": -0.2318885326385498
+    },
+    {
+        "title": "España reconoce injusticias cometidas contra pueblos originarios durante la Conquista",
+        "image_url": "https://ikona.telesurtv.net/content/uploads/2025/10/espanamexico-768x512.webp",
+        "tags": [
+            "méxico",
+            "américa latina y el caribe",
+            "reparación",
+            "memoria histórica",
+            "genocidio",
+            "pueblos originarios",
+            "españa"
+        ],
+        "link": "https://www.telesurtv.net/espana-reconoce-injusticias-cometidas-america/",
+        "date": "2025-10-31 21:00:38",
+        "sentiment_score": -0.32048484683036804
+    },
+    {
+        "title": "LaLiga EA Sports 25 – 26 | El Getafe hunde un poco más al Girona, y se sitúa provisionalmente sexto",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/laliga-ea-sports-25-26-jornada-11-sabado-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lagradaonline.com/laliga-jornada-11-resultados-clasificacion-partidos-alaves-espanyol-viernes/",
+        "date": "2025-10-31 21:00:07",
+        "sentiment_score": 0.863370705395937
+    },
+    {
+        "title": "La iglesia más alta del mundo está en Barcelona: la Sagrada Familia marcó un nuevo hito en la arquitectura religiosa",
+        "image_url": "https://www.infobae.com/resizer/v2/NDGRNPODUREAJNZACIQABEMR3A.jpg?auth=ae8f8012ed841f338a2df006408f9190057ae19096e5362e6e4824b8e9805c68&height=3251&smart=true&width=4877",
+        "tags": [
+            "barcelona",
+            "antoni gaudí",
+            "iglesia más alta del mundo",
+            "sagrada familia",
+            "arquitectura religiosa"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2025/10/31/la-iglesia-mas-alta-del-mundo-esta-en-barcelona-la-sagrada-familia-marco-un-nuevo-hito-en-la-arquitectura-religiosa/",
+        "date": "2025-10-31 22:08:54",
+        "sentiment_score": 0.6653649881482124
+    },
+    {
+        "title": "Un estelar Shengelia mantiene el 'idilio' del Barça en Belgrado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1acd13bc-fd5b-4e3a-87cd-c3d3a2e901ea_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "baloncesto",
+            "fc barcelona de baloncesto",
+            "euroliga"
+        ],
+        "link": "https://www.lne.es/deportes/2025/10/31/estelar-shengelia-mantiene-idilio-barca-123245236.html",
+        "date": "2025-10-31 22:04:40",
+        "sentiment_score": 0.7899537496268749
+    },
+    {
+        "title": "Los verdugos de Zaragoza: la investigación que saca a la luz la maquinaria de la violencia del 36",
+        "image_url": "https://static.eldiario.es/clip/24dbf8e4-0bb9-4fea-b2d0-78b2f5b52399_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "actualidad",
+            "celia soria",
+            "teruel",
+            "fernando garcía mongay",
+            "aragón",
+            "marimar cabrera",
+            "sociedad",
+            "zaragoza",
+            "óscar f. civieta",
+            "política",
+            "huesca",
+            "eldiario",
+            "elprismático"
+        ],
+        "link": "https://www.eldiario.es/aragon/cultura/verdugos-zaragoza-investigacion-saca-luz-maquinaria-violencia-36_1_12730632.html",
+        "date": "2025-10-31 22:00:17",
+        "sentiment_score": -0.12891297042369843
+    },
+    {
+        "title": "La electrificación de la movilidad, un futuro cada vez más cercano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7f2aa1e9-36c0-4540-8939-e85e6a08c160_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "uber",
+            "coches",
+            "movilidad",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251031/electrificacion-movilidad-futuro-vez-cercano-123218268",
+        "date": "2025-10-31 21:59:04",
+        "sentiment_score": 0.16294565796852112
+    },
+    {
+        "title": "El Gobierno presiona a Amazon por su ERE tras sus resultados récord: \"Es el modelo de la vergüenza\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/95acc8c53e6ace282f1e283955704ae3/crop/83x195/643x755/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16529079984891.jpg",
+        "tags": [
+            "artículos gabriela galarza",
+            "amazon",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/empresas/2025/10/31/6905001efc6c8319138b4589.html",
+        "date": "2025-10-31 21:46:41",
+        "sentiment_score": -0.10570020973682404
+    },
+    {
+        "title": "¿Infidelidad de Lamine Yamal?: acusan al jugador español de traicionar a Nicki Nicole",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761943163791.jpg?ch=675&cw=1200",
+        "tags": [
+            "lamine yamal y nicki nicole",
+            "fc barcelona",
+            "nicki nicole",
+            "lamine yamal",
+            "infidelidad",
+            "barcelona"
+        ],
+        "link": "https://2001online.com/deportes/infidelidad-de-lamine-yamal-acusan-al-jugador-espanol-de-traicionar-a-nicki-nicole-2025103118300",
+        "date": "2025-10-31 21:36:58",
+        "sentiment_score": -0.07357127964496613
+    },
+    {
+        "title": "Iván Méndez, asesor financiero: \"Si mi clienta se acoge al subsidio para mayores de 52 años, cuando se jubile, cobrará 400 euros más de pensión\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/31/69052b9a5c31f.png",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.cope.es/actualidad/economia/noticias/ivan-mendez-asesor-financiero-mi-clienta-acoge-subsidio-mayores-52-anos-jubile-cobrara-400-euros-pension-20251031_3243456.html",
+        "date": "2025-10-31 21:36:38",
+        "sentiment_score": -0.0679093599319458
+    },
+    {
+        "title": "Los vecinos de El Prat vuelven a manifestarse en contra de la tasa de residuos, la delincuencia y las ZBE",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/09/21/gran-barcelona/1003742690597_15179313_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "manifestaciones",
+            "en català",
+            "reciclaje",
+            "el prat de llobregat"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251031/vecinos-prat-vuelven-manifestarse-tasa-residuos-delincuencia-zbe/1003742703365_0.html",
+        "date": "2025-10-31 21:30:32",
+        "sentiment_score": 0.02137915790081024
+    },
+    {
+        "title": "¡Ahorro a la vista! Home Depot da descuentos de $900 en estos productos y por pocos días",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761948707784.jpg?ch=675&cw=1200",
+        "tags": [
+            "home depot",
+            "ofertas",
+            "#eeuu"
+        ],
+        "link": "https://2001online.com/usa/servicios/ahorro-a-la-vista-home-depot-da-descuentos-de-900-en-estos-productos-y-por-pocos-dias-202510311850",
+        "date": "2025-10-31 22:05:00",
+        "sentiment_score": 0.4729905705899
+    },
+    {
+        "title": "Costarricenses tienen nuevo requisito para entrar a EEUU: sepa de qué se trata",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "visa",
+            "requisito",
+            "costa rica"
+        ],
+        "link": "https://2001online.com/usa/servicios/costarricenses-tienen-nuevo-requisito-para-entrar-a-eeuu-sepa-de-que-se-trata--202510311800",
+        "date": "2025-10-31 22:00:00",
+        "sentiment_score": 0.45969273522496223
+    },
+    {
+        "title": "Dólar y Euro BCV para el 3 de noviembre: así cierran el mes las divisas oficiales",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761947697771.jpg?ch=675&cw=1200",
+        "tags": [
+            "dinero",
+            "bcv",
+            "economía",
+            "precious dolar bcv",
+            "euro"
+        ],
+        "link": "https://2001online.com/nacionales/dolar-y-euro-bcv-para-el-3-de-noviembre-asi-cierran-el-mes-las-divisas-oficiales-2025103117550",
+        "date": "2025-10-31 21:55:00",
+        "sentiment_score": -0.002373218536376953
+    },
+    {
+        "title": "¡Hasta $100,000 para tu casa! Conoce el programa que ayuda a neoyorquinos a cubrir la inicial para su vivienda",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761946719283.jpg?ch=675&cw=1200",
+        "tags": [
+            "homefirst",
+            "new york",
+            "financiamiento para compra de casa eeuu"
+        ],
+        "link": "https://2001online.com/usa/servicios/hasta-100-000-para-tu-casa-conoce-el-programa-que-ayuda-a-neoyorquinos-a-cubrir-la-inicial-para-su-vivienda-2025103117360",
+        "date": "2025-10-31 21:36:00",
+        "sentiment_score": 0.6227920856326818
+    },
+    {
+        "title": "Arranca el pago de otro bono a través del Sistema Patria este 31 de octubre: monto y quiénes lo cobran",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761945572105.jpg?ch=675&cw=1200",
+        "tags": [
+            "dinero",
+            "euro bcv",
+            "sistema patria",
+            "bonos",
+            "bonos sistema patria"
+        ],
+        "link": "https://2001online.com/servicios/arranca-el-pago-de-otro-bono-a-traves-del-sistema-patria-este-31-de-octubre-monto-y-quienes-lo-cobran-2025103117250",
+        "date": "2025-10-31 21:25:00",
+        "sentiment_score": 0.07557790726423264
+    },
+    {
+        "title": "¡Respiro migratorio! Suspenden la tarifa de $100 a solicitantes de asilo en EEUU: estos son los motivos",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761943344562.jpg?ch=675&cw=1200",
+        "tags": [
+            "asilo ee.uu.",
+            "pago de $100",
+            "trámite"
+        ],
+        "link": "https://2001online.com/usa/servicios/respiro-migratorio-suspenden-la-tarifa-de-100-a-solicitantes-de-asilo-en-eeuu-estos-son-los-motivos--2025103116400",
+        "date": "2025-10-31 20:40:00",
+        "sentiment_score": -0.8206189759075642
+    },
+    {
+        "title": "Serie Mundial 2025: a qué hora y por dónde ver el Juego 6 entre Dodgers y Blue Jays",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761945268913.jpg?ch=675&cw=1200",
+        "tags": [
+            "dodgers de los ángeles",
+            "toronto blue jays",
+            "azulejos de toronto",
+            "serie mundial",
+            "los ángeles dodgers",
+            "mlb",
+            "serie mundial 2025"
+        ],
+        "link": "https://2001online.com/deportes/serie-mundial-2025-a-que-hora-y-por-donde-ver-el-juego-6-entre-dodgers-y-blue-jays-2025103117250",
+        "date": "2025-10-31 20:36:04",
+        "sentiment_score": 0.14456153474748135
+    },
+    {
+        "title": "Reportan fluctuación eléctricas en la Gran Caracas y otras zonas del país: conozca los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761942298344.jpg?ch=675&cw=1200",
+        "tags": [
+            "corpoelec",
+            "venezuela",
+            "luz",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/nacionales/reportan-fluctuacion-electricas-en-la-gran-caracas-y-otras-zonas-del-pais-conozca-los-detalles-2025103116290",
+        "date": "2025-10-31 20:29:00",
+        "sentiment_score": -0.21315447241067886
+    },
+    {
+        "title": "El 'Shutdown' golpea el tráfico aéreo: aeropuerto de Nueva York detiene vuelos por esta razón",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761943883487.jpg?ch=675&cw=1200",
+        "tags": [
+            "shutdown usa",
+            "aereopuerto de nueva york",
+            "aeropuerto jfk"
+        ],
+        "link": "https://2001online.com/usa/internacionales/el-shutdown-golpea-el-trafico-aereo-aeropuerto-de-nueva-york-detiene-vuelos-por-esta-razon-2025103116270",
+        "date": "2025-10-31 20:27:00",
+        "sentiment_score": -0.6247724071145058
     }
 ];
