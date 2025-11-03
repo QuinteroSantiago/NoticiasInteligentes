@@ -148,16 +148,6 @@ export default [
         "sentiment_score": 0.08062782138586044
     },
     {
-        "title": "Trump y Xi se dan la mamo luego de histórico encuentro",
-        "image_url": "https://static.wixstatic.com/media/335561_636dcc2e90c14bbfaef9abf8e3d85070~mv2.png/v1/fit/w_879,h_384,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/trump-y-xi-se-dan-la-mamo-luego-de-hist%C3%B3rico-encuentro",
-        "date": "2025-10-30 11:53:41",
-        "sentiment_score": 0.4952240511775017
-    },
-    {
         "title": "Récord histórico del turismo rural en Castilla-La Mancha: 43.000 viajeros y un 32% más de pernoctaciones en septiembre",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/30/1432414696-RqfSDtSLtjRg8cvSMdssmoL-1200x840@diario_abc.jpg",
         "tags": [
@@ -183,85 +173,6 @@ export default [
         "link": "https://www.abc.es/tecnologia/whatsapp-habilita-copias-seguridad-cifradas-claves-acceso-20251030173210-nt.html",
         "date": "2025-10-30 16:32:11",
         "sentiment_score": -0.038985878229141235
-    },
-    {
-        "title": "Los presupuestos de la Junta recogen una inversión «histórica» en Sevilla: mil millones, un 15% más que en 2025",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/10/30/rueda-prensa-presupuestos-RZXSrAxWOzaztZbwJhk6JDJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "sevilla",
-            "ciudad"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/presupuestos-junta-recogen-inversion-historica-sevilla-mil-20251030142531-nts.html",
-        "date": "2025-10-30 13:32:57",
-        "sentiment_score": -0.08165839314460754
-    },
-    {
-        "title": "Las eléctricas piden al Gobierno de manera oficial mantener abierta la central de Almaraz",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/30/Almaraz-RLSrTdIhoiV88bDkWwnTMYM-1200x840@diario_abc.jpg",
-        "tags": [
-            "abierta",
-            "gobierno",
-            "manera",
-            "oficial",
-            "mantener",
-            "almaraz",
-            "central",
-            "electricas",
-            "piden"
-        ],
-        "link": "https://www.abc.es/economia/electricas-piden-gobierno-manera-oficial-mantener-abierta-20251030140400-nt.html",
-        "date": "2025-10-30 13:04:01",
-        "sentiment_score": -1.7821788787841797e-05
-    },
-    {
-        "title": "El Ayuntamiento de Sevilla moviliza 250.000 euros para los afectados por el temporal y agiliza nuevas infraestructuras",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/10/30/temporal-raul-doblado-REknjyUWRWKMyx9jNeyvTcK-1200x840@diario_abc.jpg",
-        "tags": [
-            "ciudad",
-            "sevilla"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/ayuntamiento-sevilla-moviliza-250000-euros-afectados-temporal-20251030133750-nts.html",
-        "date": "2025-10-30 12:39:18",
-        "sentiment_score": -0.07166531682014465
-    },
-    {
-        "title": "Los funcionarios salen a la calle en toda España por la subida salarial e inician la cuenta atrás para la huelga",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/30/G4gT-e7XkAERnx7-R04hR2woXInnGvrW6It6dwO-1200x840@diario_abc.jpg",
-        "tags": [
-            "bruselas",
-            "funcionarios",
-            "españa",
-            "huelga general",
-            "pedro sánchez",
-            "sindicatos",
-            "el publico"
-        ],
-        "link": "https://www.abc.es/economia/funcionarios-salen-calle-espana-subida-salarial-inician-20251030125537-nt.html",
-        "date": "2025-10-30 11:55:38",
-        "sentiment_score": -0.10263049602508545
-    },
-    {
-        "title": "Calles inundadas, casas anegadas, árboles que se caen, atascos, universidades cerradas... Así ha sido la lluvia en Sevilla",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/bf/media_thumb-link-4112185.webp?1761760626=",
-        "tags": [
-            "lluvia",
-            "sevilla",
-            "caos",
-            "actualidad"
-        ],
-        "link": "https://www.meneame.net/story/calles-inundadas-casas-anegadas-arboles-caen-atascos-cerradas-ha",
-        "date": "2025-10-30 11:25:03",
-        "sentiment_score": -0.8021625205874443
-    },
-    {
-        "title": "La Guardia Civil investiga a 15 personas por estafar casi 400.000 euros suplantando identidades virtuales",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/30/guardia-civil-k3qF-U701850992042DvH-1200x840@diario_abc.JPG",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/guardia-civil-investiga-personas-estafar-400000-euros-20251030113403-nt.html",
-        "date": "2025-10-30 10:34:04",
-        "sentiment_score": -0.18591952323913574
     },
     {
         "title": "La exconsejera de Mazón investigada en la dana: “Esperamos que Vilaplana cuente toda la verdad”",
@@ -858,16 +769,6 @@ export default [
         "sentiment_score": 0.1386529728770256
     },
     {
-        "title": "Trump y Xi se dan la mamo luego de histórico encuentro",
-        "image_url": "https://static.wixstatic.com/media/335561_636dcc2e90c14bbfaef9abf8e3d85070~mv2.png/v1/fit/w_879,h_384,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/trump-y-xi-se-dan-la-mamo-luego-de-hist%C3%B3rico-encuentro",
-        "date": "2025-10-30 11:53:41",
-        "sentiment_score": 0.49522486329078674
-    },
-    {
         "title": "Máxima alerta en Polonia tras detectar dos aviones espía rusos en dos días",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/10/30/avion-RaZST4bP6QW9H72VAWD2sgL-1200x840@diario_abc.jpg",
         "tags": [
@@ -928,85 +829,6 @@ export default [
         "link": "https://www.abc.es/tecnologia/whatsapp-habilita-copias-seguridad-cifradas-claves-acceso-20251030173210-nt.html",
         "date": "2025-10-30 16:32:11",
         "sentiment_score": -0.03898590803146362
-    },
-    {
-        "title": "Los presupuestos de la Junta recogen una inversión «histórica» en Sevilla: mil millones, un 15% más que en 2025",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/10/30/rueda-prensa-presupuestos-RZXSrAxWOzaztZbwJhk6JDJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "sevilla",
-            "ciudad"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/presupuestos-junta-recogen-inversion-historica-sevilla-mil-20251030142531-nts.html",
-        "date": "2025-10-30 13:32:57",
-        "sentiment_score": -0.08165833353996277
-    },
-    {
-        "title": "Las eléctricas piden al Gobierno de manera oficial mantener abierta la central de Almaraz",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/30/Almaraz-RLSrTdIhoiV88bDkWwnTMYM-1200x840@diario_abc.jpg",
-        "tags": [
-            "abierta",
-            "gobierno",
-            "manera",
-            "oficial",
-            "mantener",
-            "almaraz",
-            "central",
-            "electricas",
-            "piden"
-        ],
-        "link": "https://www.abc.es/economia/electricas-piden-gobierno-manera-oficial-mantener-abierta-20251030140400-nt.html",
-        "date": "2025-10-30 13:04:01",
-        "sentiment_score": -1.7702579498291016e-05
-    },
-    {
-        "title": "El Ayuntamiento de Sevilla moviliza 250.000 euros para los afectados por el temporal y agiliza nuevas infraestructuras",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/10/30/temporal-raul-doblado-REknjyUWRWKMyx9jNeyvTcK-1200x840@diario_abc.jpg",
-        "tags": [
-            "ciudad",
-            "sevilla"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/ayuntamiento-sevilla-moviliza-250000-euros-afectados-temporal-20251030133750-nts.html",
-        "date": "2025-10-30 12:39:18",
-        "sentiment_score": -0.07166516780853271
-    },
-    {
-        "title": "Los funcionarios salen a la calle en toda España por la subida salarial e inician la cuenta atrás para la huelga",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/30/G4gT-e7XkAERnx7-R04hR2woXInnGvrW6It6dwO-1200x840@diario_abc.jpg",
-        "tags": [
-            "bruselas",
-            "funcionarios",
-            "españa",
-            "huelga general",
-            "pedro sánchez",
-            "sindicatos",
-            "el publico"
-        ],
-        "link": "https://www.abc.es/economia/funcionarios-salen-calle-espana-subida-salarial-inician-20251030125537-nt.html",
-        "date": "2025-10-30 11:55:38",
-        "sentiment_score": -0.10263031721115112
-    },
-    {
-        "title": "Calles inundadas, casas anegadas, árboles que se caen, atascos, universidades cerradas... Así ha sido la lluvia en Sevilla",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/bf/media_thumb-link-4112185.webp?1761760626=",
-        "tags": [
-            "lluvia",
-            "sevilla",
-            "caos",
-            "actualidad"
-        ],
-        "link": "https://www.meneame.net/story/calles-inundadas-casas-anegadas-arboles-caen-atascos-cerradas-ha",
-        "date": "2025-10-30 11:25:03",
-        "sentiment_score": -0.8021631259471178
-    },
-    {
-        "title": "La Guardia Civil investiga a 15 personas por estafar casi 400.000 euros suplantando identidades virtuales",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/30/guardia-civil-k3qF-U701850992042DvH-1200x840@diario_abc.JPG",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/guardia-civil-investiga-personas-estafar-400000-euros-20251030113403-nt.html",
-        "date": "2025-10-30 10:34:04",
-        "sentiment_score": -0.185919389128685
     },
     {
         "title": "Aznar pide calma al PP ante el avance de Vox, pero exige a los ciudadanos movilizarse “ante el desgarro de España”",
@@ -8439,5 +8261,344 @@ export default [
         "link": "https://2001online.com/usa/servicios/la-opcion-para-enviar-dinero-desde-eeuu-a-mexico-sin-impuestos-no-es-una-tarjeta-prepagada-20251121700",
         "date": "2025-11-02 20:06:52",
         "sentiment_score": -0.6901939585804939
+    },
+    {
+        "title": "¿Qué ver en Prime Video? Estas son las películas top en España",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=1080&smart=true&width=1920",
+        "tags": [
+            "películas",
+            "noticias",
+            "prime video",
+            "españa-televisión",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/11/03/que-ver-en-prime-video-estas-son-las-peliculas-top-en-espana/",
+        "date": "2025-11-03 00:30:35",
+        "sentiment_score": 0.6659732554107904
+    },
+    {
+        "title": "Un hombre de 37 años muere ahoga en Lanzarote y los servicios de emergencia buscan a otro desaparecido",
+        "image_url": "https://www.infobae.com/resizer/v2/TJKXCAHTGNBGJLIBVEORFACRZI.jpg?auth=0b3c61aa2d3c9f956992d6b473a598b904b6d11d10eadcb90c3f67e0031542fc&height=1440&smart=true&width=1920",
+        "tags": [
+            "españa-sociedad",
+            "españa-noticias",
+            "sucesos",
+            "canarias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/02/un-hombre-de-37-anos-muere-ahoga-en-lanzarote-y-los-servicios-de-emergencia-buscan-a-otro-desaparecido/",
+        "date": "2025-11-02 23:21:26",
+        "sentiment_score": -0.825913593173027
+    },
+    {
+        "title": "Estos son los artistas más reproducidos hoy en el top de K-pop de iTunes España",
+        "image_url": "https://www.infobae.com/resizer/v2/WWJLWGJF4JFPHEK27MRNORP4K4.png?auth=628e471295937a3441e94311929ec53181623887129514e587b5caf43a057569&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "itunes",
+            "k-pop",
+            "streaming",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/02/estos-son-los-artistas-mas-reproducidos-hoy-en-el-top-de-k-pop-de-itunes-espana/",
+        "date": "2025-11-02 23:15:27",
+        "sentiment_score": 0.6661037318408489
+    },
+    {
+        "title": "Rafael de Paula, torero jerezano, muere a los 85 años tras 40 dedicados a la tauromaquia",
+        "image_url": "https://www.infobae.com/resizer/v2/4ORPEMBC3JBYHPH4OTCCX26YZ4.jpg?auth=be6f41686382d18ccc3edbca9eef204867bc04198975d9bcccce66288a7f6d34&height=2592&smart=true&width=3888",
+        "tags": [
+            "españa-noticias",
+            "jerez de la frontera",
+            "andalucía",
+            "españa-sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/02/rafael-de-paula-torero-jerezano-muere-a-los-85-anos-tras-40-dedicados-a-la-tauromaquia/",
+        "date": "2025-11-02 22:35:46",
+        "sentiment_score": 0.4044511169195175
+    },
+    {
+        "title": "El PP espera la salida de Mazón tras el pulso con Feijóo por su sucesión",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/2XPBVZCODBGCZGGGBBNEKB6P3A.jpg?auth=e867e650db0194093987956d428bfe8ab2b36ea7456177c92bf9ba5393c10f1e&width=1200",
+        "tags": [
+            "elecciones",
+            "alberto núñez feijóo",
+            "inundaciones",
+            "españa",
+            "dimisiones",
+            "carlos mazón",
+            "dimisiones políticas",
+            "inundaciones dana octubre 2024",
+            "pp",
+            "psoe"
+        ],
+        "link": "https://elpais.com/espana/2025-11-03/el-pp-aguarda-la-decision-de-mazon-sumido-en-el-desconcierto-como-hemos-llegado-hasta-aqui.html",
+        "date": "2025-11-02 23:52:30",
+        "sentiment_score": 0.16817151010036469
+    },
+    {
+        "title": "Florentino se lanza por una joya que también quiere el United y el Chelsea",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/28/2025052808072963892.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/florentino-perez-fija/20251103030459361655.html",
+        "date": "2025-11-03 02:04:59",
+        "sentiment_score": -0.19352589547634125
+    },
+    {
+        "title": "Hipoges presenta su nueva hoja de ruta para crecer en España más allá del servicing",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/72377b16-753e-43d5-8fbf-a27309032847_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "italia",
+            "economía",
+            "grecia",
+            "españa",
+            "mercados",
+            "préstamos",
+            "portugal"
+        ],
+        "link": "https://www.lne.es/economia/2025/11/03/hipoges-presenta-nueva-hoja-ruta-123291734.html",
+        "date": "2025-11-03 01:59:10",
+        "sentiment_score": 0.5480736754834652
+    },
+    {
+        "title": "Un millonario club de la Premier League se mete de lleno en la puja por Endrick",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/03/2025110302402612539.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/millonario-club-premier-league-mete-lleno-puja-endrick/20251103024130361652.html",
+        "date": "2025-11-03 01:41:30",
+        "sentiment_score": 0.09958377480506897
+    },
+    {
+        "title": "Los jóvenes españoles son más de derechas que nunca y estas son sus razones",
+        "image_url": "https://turimiquire.net/wp-content/uploads/2025/11/los-jovenes-espanoles-son-mas-de-derechas-que-nunca-y-estas-son-sus-razones.jpg",
+        "tags": [
+            "el pizarrón noticias"
+        ],
+        "link": "https://turimiquire.net/2025/11/02/los-jovenes-espanoles-son-mas-de-derechas-que-nunca-y-estas-son-sus-razones/",
+        "date": "2025-11-03 01:30:29",
+        "sentiment_score": -0.8599270721897483
+    },
+    {
+        "title": "Fermín Lopez comandó victoria del FC Barcelona",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/11/Fermin-Lopez.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://ultimasnoticias.com.ve/deportes/fermin-lopez-comando-victoria-del-fc-barcelona/",
+        "date": "2025-11-03 02:12:52",
+        "sentiment_score": -0.010174781084060669
+    },
+    {
+        "title": "02 NOV 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-nov-2025-tertulion-domingos-20251103_3243816.html",
+        "date": "2025-11-03 00:55:52",
+        "sentiment_score": -0.8416784852743149
+    },
+    {
+        "title": "Siete magistrados de distintas sensibilidades decidirán el futuro del fiscal general del Estado",
+        "image_url": "https://phantom-elmundo.uecdn.es/d9754f9e1c9ec2c05cc471eb1d5216d6/crop/519x0/2567x2048/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468205674169.jpg",
+        "tags": [
+            "artículos manuel marraco",
+            "tribunal supremo",
+            "álvaro garcía ortiz",
+            "artículos ángela martialay"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/03/6907593ce4d4d8885c8b457d.html",
+        "date": "2025-11-03 00:53:49",
+        "sentiment_score": -0.5604475513100624
+    },
+    {
+        "title": "El Barcelona recuperó la pegada y la sonrisa ante Elche",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/11/Barcelona.jpg",
+        "tags": [
+            "02nov",
+            "deportes",
+            "barcelona",
+            "elche",
+            "laliga"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/11/02/el-barcelona-recupero-la-pegada/",
+        "date": "2025-11-03 00:39:12",
+        "sentiment_score": 0.497528538107872
+    },
+    {
+        "title": "Argis compra 1.000 viviendas a Acciona por 324 millones",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/3ac09bcb130e28c14e02311da5f42cc7/crop/0x870/2048x2235/resize/1200/f/webp/assets/multimedia/imagenes/2025/10/31/17619388755772.jpg",
+        "tags": [
+            "artículos rebeca arroyo>",
+            "inmobiliario y construcción>",
+            "empresas>",
+            "mercado inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/11/03/69050defe5fdea17038b45ac.html",
+        "date": "2025-11-03 00:22:55",
+        "sentiment_score": 0.13611488789319992
+    },
+    {
+        "title": "Telefónica encarga a Rothschild la venta de su antigua sede de Gran Vía",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/c61ece170e408e537eeb62653e846722/crop/15x10/411x274/f/webp/assets/multimedia/imagenes/2025/10/31/17619444281067.jpg",
+        "tags": [
+            "inmobiliario y construcción>",
+            "mercado inmobiliario>",
+            "artículos rebeca arroyo>",
+            "empresas>",
+            "artículos ignacio del castillo>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/11/03/690521cbe5fdead2468b45a1.html",
+        "date": "2025-11-03 00:21:13",
+        "sentiment_score": 0.2839518301188946
+    },
+    {
+        "title": "El estado físico de Lamine y el perdón de Xabi Alonso a Vinicius, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/03/6907f33ca05f2.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-02-20251103_3243806.html",
+        "date": "2025-11-03 00:12:15",
+        "sentiment_score": -0.07481330633163452
+    },
+    {
+        "title": "Alberto G. Segura, productor musical, creador de Manzana: “Sería bueno buscar alternativas para recuperar el pasado”",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2025/11/836600prev_340114_16-1024x561.png",
+        "tags": [
+            "portada apertura 1",
+            "portada",
+            "sociedad"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/11/alberto-g-segura-productor-musical-creador-manzana/",
+        "date": "2025-11-03 00:00:00",
+        "sentiment_score": 0.8147417968139052
+    },
+    {
+        "title": "De chofer de colectivo a técnico revelación: la increíble travesía de Manolo González con el Espanyol",
+        "image_url": "https://www.infobae.com/resizer/v2/45RVDMJAOVALXJF52QCFNXWRCE.jpg?auth=c2e50463be18ca3f397b8c5e5d7de3b0d079860921145cc7a732332080a4b737&height=1280&smart=true&width=1920",
+        "tags": [
+            "fútbol profesional",
+            "barcelona",
+            "espanyol",
+            "laliga",
+            "manolo gonzález",
+            "newsroom bue"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/02/de-chofer-de-colectivo-a-tecnico-revelacion-la-increible-travesia-de-manolo-gonzalez-con-el-espanyol/",
+        "date": "2025-11-02 23:51:34",
+        "sentiment_score": 0.8835942409932613
+    },
+    {
+        "title": "Onda tropical No53: Inameh informa cómo se desplaza por el territorio nacional",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762135962454.jpg?ch=675&cw=1200",
+        "tags": [
+            "inameh",
+            "instituto nacional de meteorología e hidrología (inameh)"
+        ],
+        "link": "https://2001online.com/nacionales/onda-tropical-n-53-inameh-informa-como-se-desplaza-por-el-territorio-nacional-202511222130",
+        "date": "2025-11-03 02:13:00",
+        "sentiment_score": -0.3898252472281456
+    },
+    {
+        "title": "Alisa el cabello con tres ingredientes naturales que siempre tienes en casa: aprende a preparar la mascarilla y así debes aplicarla",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762134559690.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/alisa-el-cabello-con-tres-ingredientes-naturales-que-siempre-tienes-en-casa-aprende-a-preparar-la-mascarilla-y-asi-debes-aplicarla-20251122200",
+        "date": "2025-11-03 02:00:00",
+        "sentiment_score": -0.8556328918784857
+    },
+    {
+        "title": "Sobrepeso en niños y adolescentes: nutricionista explica cómo combatirlo",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761834865439.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/sobrepeso-en-ninos-y-adolescentes-nutricionista-explica-como-combatirlo-20251122200",
+        "date": "2025-11-03 02:00:00",
+        "sentiment_score": -0.048058927059173584
+    },
+    {
+        "title": "Predicciones de la semana del 3 al 9 de noviembre",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761935925265.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-3-al-9-de-noviembre-20251122200",
+        "date": "2025-11-03 02:00:00",
+        "sentiment_score": -0.7283130958676338
+    },
+    {
+        "title": "Cheques de ayuda en EEUU: Campaña comunitaria recauda miles de dólares para vendedores ambulantes afectados por las redadas",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762127780812.jpg?ch=675&cw=1200",
+        "tags": [
+            "eeuu chicago",
+            "inmigrantes en chicago",
+            "cheque estimulo eeuu"
+        ],
+        "link": "https://2001online.com/usa/internacionales/cheques-de-ayuda-en-eeuu-campana-comunitaria-recauda-miles-de-dolares-para-vendedores-ambulantes-afectados-por-las-redadas-202511221200",
+        "date": "2025-11-03 01:20:00",
+        "sentiment_score": -0.8429796099662781
+    },
+    {
+        "title": "Nacho aclara los rumores sobre su esposa: Ella ama su vida",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "nacho",
+            "melany mille",
+            "redes"
+        ],
+        "link": "https://2001online.com/farandula/nacho-aclara-los-rumores-sobre-su-esposa-ella-ama-su-vida-202511221200",
+        "date": "2025-11-03 01:20:00",
+        "sentiment_score": -0.6520049497485161
+    },
+    {
+        "title": "Hello Kitty conquista Hollywood: Warner Bros. anuncia su debut cinematográfico",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "hello kitty",
+            "cine",
+            "warnes bros"
+        ],
+        "link": "https://2001online.com/farandula/hello-kitty-conquista-hollywood-warner-bros-anuncia-su-debut-cinematografico-20251122180",
+        "date": "2025-11-03 01:08:00",
+        "sentiment_score": 0.7307357676327229
+    },
+    {
+        "title": "Niños con actividad física son más sanos e inteligentes: afamado entrenador personal recomienda esta rutina",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761834528113.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/ninos-con-actividad-fisica-son-mas-sanos-e-inteligentes-afamado-entrenador-personal-recomienda-esta-rutina-20251122100",
+        "date": "2025-11-03 01:00:00",
+        "sentiment_score": 0.24990666657686234
+    },
+    {
+        "title": "Entérate de cuál es la infusión natural que calma los nervios y combate los ataques de pánico: esta es la cantidad que debes ingerir al día",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762129820267.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/enterate-de-cual-es-la-infusion-natural-que-calma-los-nervios-y-combate-los-ataques-de-panico-esta-es-la-cantidad-que-debes-ingerir-al-dia-202511220550",
+        "date": "2025-11-03 00:55:00",
+        "sentiment_score": -0.8015699051320553
+    },
+    {
+        "title": "¿Se arrepintió? Justin Baldoni retira su demanda millonaria contra Blake Lively",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "blake lively",
+            "justin baldoni",
+            "romper el círculo"
+        ],
+        "link": "https://2001online.com/farandula/se-arrepintio-justin-baldoni-retira-su-demanda-millonaria-contra-blake-lively--202511220520",
+        "date": "2025-11-03 00:52:00",
+        "sentiment_score": -0.5625856854021549
     }
 ];
