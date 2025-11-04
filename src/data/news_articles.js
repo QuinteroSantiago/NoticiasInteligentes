@@ -144,66 +144,6 @@ export default [
         "sentiment_score": -0.00039017200469970703
     },
     {
-        "title": "El PSOE rechaza en Málaga un refuerzo eléctrico para que no «colapse» la construcción de vivienda",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/31/Capturadepantalla2025-10-31alas14.02.06-R95xrwe1LACePUlPNP9eMFN-1200x840@diario_abc.png",
-        "tags": [
-            "andalucía",
-            "vox",
-            "málaga",
-            "juan manuel moreno bonilla",
-            "junta de andalucía",
-            "partido socialista obrero español (psoe)",
-            "españa",
-            "partido popular (pp)",
-            "red eléctrica",
-            "industria"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/malaga/psoe-rechaza-refuerzo-electrico-llegada-proyectos-milmillonarios-20251031130939-nts.html",
-        "date": "2025-10-31 13:34:12",
-        "sentiment_score": 0.011196106672286987
-    },
-    {
-        "title": "El pederasta confeso cazado con un niño de 11 años en un parque de Carabanchel, en libertad: «El amor es amor»",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/c1/media_thumb-link-4112734.webp?1761910086=",
-        "tags": [
-            "carabanchel",
-            "madrid",
-            "actualidad",
-            "agresión sexual",
-            "menor"
-        ],
-        "link": "https://www.meneame.net/story/pederasta-confeso-cazado-nino-11-anos-parque-carabanchel-amor",
-        "date": "2025-10-31 12:35:03",
-        "sentiment_score": -0.6555726602673531
-    },
-    {
-        "title": "¡Ofertón en MediaMarkt! Ahorra 90€ en el calefactor Mellerware Comfy y disfruta de un invierno cálido al mejor precio",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/favorito/2025/10/31/ksenia-yakovleva-uFP505acp4g-unsplash_20251031122807-R5oxV1eZb1MqopTR8NoQolN-1200x840@diario_abc.jpg",
-        "tags": [
-            "favorito",
-            "hogar"
-        ],
-        "link": "https://www.abc.es/favorito/hogar/oferton-mediamarkt-ahorra-90e-calefactor-mellerware-comfy-20251031124221-nt.html",
-        "date": "2025-10-31 12:07:27",
-        "sentiment_score": 0.03372706472873688
-    },
-    {
-        "title": "Amazon plantea un ERE en España para 1.200 trabajadores de sus oficinas corporativas de Madrid y Barcelona",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/10/31/1502450224-kV8E-U701859398853zzG-1200x840@diario_abc.jpg",
-        "tags": [
-            "oficinas",
-            "españa",
-            "madrid (ciudad)",
-            "amazon",
-            "uh abc",
-            "barcelona (provincia)",
-            "trabajadores"
-        ],
-        "link": "https://www.abc.es/economia/amazon-plantea-ere-espana-1200-trabajadores-oficinas-20251031125452-nt.html",
-        "date": "2025-10-31 11:56:37",
-        "sentiment_score": -0.03237706422805786
-    },
-    {
         "title": "Miguel Ángel Rodríguez y el magistrado Hurtado",
         "image_url": "https://imagenes.elpais.com/resizer/v2/JATCFY74VFEBVGYZIHBOU6IAMM.jpg?auth=4ac1cb266ca1f17fb30f82a477ea2af029c434851d5e64e05908c4a60991fed1&width=1200",
         "tags": [
@@ -357,44 +297,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-10-31/un-pequeno-nicolas-en-un-cuartel-de-madrid.html",
         "date": "2025-10-31 14:19:48",
         "sentiment_score": -0.6370257809758186
-    },
-    {
-        "title": "El nuevo carril Bus-VAO de la A-2 comenzará a funcionar a principios de 2026",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EDWHGV7B4VN5XECIOQWF56DWHI.jpg?auth=c902cfb8ec6120cb1a2c5b0a4bca9a695a1f96e41cb1875c0af49260809d6398&width=1200",
-        "tags": [
-            "dgt",
-            "ministerio del interior",
-            "movilidad urbana",
-            "ayuntamientos",
-            "españa",
-            "restricciones circulación",
-            "comunidad de madrid",
-            "alcalá de henares",
-            "ayuntamiento madrid",
-            "bus-vao",
-            "madrid",
-            "ministerio de transportes",
-            "torrejón de ardoz"
-        ],
-        "link": "https://elpais.com/espana/2025-10-31/el-nuevo-carril-bus-vao-de-la-a-2-comenzara-a-funcionar-a-principios-de-2026.html",
-        "date": "2025-10-31 13:33:56",
-        "sentiment_score": 0.12109120190143585
-    },
-    {
-        "title": "Mazón “canceló” dos llamadas de Pradas cuando esta quería informarle sobre el aviso Es-Alert",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FFMGLVKJ7NH5NEJGBOXXDMT3WA.jpg?auth=e57cc47d22efd0d7c6f766a3c698581fcf955e42f57162e54c2e04e0c3b221f4&width=1200",
-        "tags": [
-            "generalitat valenciana",
-            "pp",
-            "carlos mazón",
-            "salomé pradas",
-            "inundaciones dana octubre 2024",
-            "dana",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-10-31/mazon-cancelo-dos-llamadas-de-pradas-cuando-esta-queria-informarle-sobre-el-aviso-es-alert.html",
-        "date": "2025-10-31 13:18:23",
-        "sentiment_score": -0.7034492008388042
     },
     {
         "title": "Calendario de baloncesto español para este fin de semana",
@@ -2500,39 +2402,6 @@ export default [
         "link": "https://www.abc.es/salud/enfermedades/primer-trasplante-cerdos-rinones-porcinos-modificados-organoides-20251031203258-nt.html",
         "date": "2025-10-31 16:00:01",
         "sentiment_score": -0.00038999319076538086
-    },
-    {
-        "title": "El PSOE rechaza en Málaga un refuerzo eléctrico para que no «colapse» la construcción de vivienda",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/10/31/Capturadepantalla2025-10-31alas14.02.06-R95xrwe1LACePUlPNP9eMFN-1200x840@diario_abc.png",
-        "tags": [
-            "andalucía",
-            "vox",
-            "málaga",
-            "juan manuel moreno bonilla",
-            "junta de andalucía",
-            "partido socialista obrero español (psoe)",
-            "españa",
-            "partido popular (pp)",
-            "red eléctrica",
-            "industria"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/malaga/psoe-rechaza-refuerzo-electrico-llegada-proyectos-milmillonarios-20251031130939-nts.html",
-        "date": "2025-10-31 13:34:12",
-        "sentiment_score": 0.011196255683898926
-    },
-    {
-        "title": "El pederasta confeso cazado con un niño de 11 años en un parque de Carabanchel, en libertad: «El amor es amor»",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/c1/media_thumb-link-4112734.webp?1761910086=",
-        "tags": [
-            "carabanchel",
-            "madrid",
-            "actualidad",
-            "agresión sexual",
-            "menor"
-        ],
-        "link": "https://www.meneame.net/story/pederasta-confeso-cazado-nino-11-anos-parque-carabanchel-amor",
-        "date": "2025-10-31 12:35:03",
-        "sentiment_score": -0.6555726081132889
     },
     {
         "title": "Detenido tras agredir, drogar y estafar 1.000 euros a un hombre con el que había quedado a través de una aplicación de citas",
@@ -8198,5 +8067,408 @@ export default [
         "link": "https://2001online.com/servicios/pago-de-aguinaldos-comienza-deposito-del-segundo-mes-este-3-de-noviembre-202511315580",
         "date": "2025-11-03 19:58:00",
         "sentiment_score": -0.06065238267183304
+    },
+    {
+        "title": "Javier Cámara se convierte en invitado ‘Infinity’ en ‘El Hormiguero’, se cae al suelo jugando al bádminton y Pablo Motos se mete con su calvicie: “Ahora me faltas al respeto. Es alucinante”",
+        "image_url": "https://www.infobae.com/resizer/v2/YK4TPRJNFNDFJJAFTI64HA6EBM.png?auth=0b7483b91739d1bbd78643de417030c3b1d8dd5ffe82d1fa98cc5428350de62e&height=562&smart=true&width=1000",
+        "tags": [
+            "españa-noticias",
+            "españa-entretenimiento",
+            "pablo motos",
+            "el hormiguero",
+            "ela",
+            "antena 3",
+            "televisión españa",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/04/javier-camara-se-convierte-en-invitado-infinity-en-el-hormiguero-se-cae-al-suelo-jugando-al-badminton-y-pablo-motos-se-mete-con-su-calvicie-ahora-me-faltas-al-respeto-es-alucinante/",
+        "date": "2025-11-04 01:12:20",
+        "sentiment_score": 0.08051089942455292
+    },
+    {
+        "title": "Laura Muñoz, sexta expulsada de ‘OT 2025’: Claudia rompe el empate entre Tinho y Cristina y protagoniza el momento más tenso de la gala",
+        "image_url": "https://www.infobae.com/resizer/v2/EWWNOJNW6FD2NN3UATCQJJTU74.png?auth=2eaab15097de6f4db790ca099ea8cbf2c3523bd8bceee3322d4005a77ea3663f&height=404&smart=true&width=720",
+        "tags": [
+            "televisión españa",
+            "ot 2025",
+            "operación triunfo 2025",
+            "españa-noticias",
+            "prime video",
+            "operación triunfo",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/04/laura-munoz-sexta-expulsada-de-ot-2025-claudia-rompe-el-empate-entre-tinho-y-cristina-y-protagoniza-el-momento-mas-tenso-de-la-gala/",
+        "date": "2025-11-04 00:20:08",
+        "sentiment_score": 0.4588954597711563
+    },
+    {
+        "title": "La mejor apertura del año está en Madrid, según los usuarios de TheFork: un exclusivo club de vinos con apariencia de biblioteca palaciega",
+        "image_url": "https://www.infobae.com/resizer/v2/O6FHVQEUANGX7LZY2ATWHL4PUA.jpg?auth=347c11280a611b7401f8a91d18039deb3838adb4a9063904f7ace27c2726b679&height=2000&smart=true&width=3000",
+        "tags": [
+            "restaurantes madrid",
+            "restaurantes",
+            "restaurantes españa",
+            "madrid",
+            "españa-gastronomía",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/04/la-mejor-apertura-del-ano-esta-en-madrid-segun-los-usuarios-de-thefork-un-exclusivo-club-de-vinos-con-apariencia-de-biblioteca-palaciega/",
+        "date": "2025-11-04 00:00:00",
+        "sentiment_score": 0.7384051792323589
+    },
+    {
+        "title": "Cupón Diario de la Once: números ganadores del 3 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "cupón diario",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/03/cupon-diario-de-la-once-numeros-ganadores-del-3-de-noviembre/",
+        "date": "2025-11-03 23:15:27",
+        "sentiment_score": 0.17068176344037056
+    },
+    {
+        "title": "Primer día del juicio al fiscal: Los 'post-it' de García Ortiz, su nueva abogada y el choque entre subordinadas",
+        "image_url": "https://www.infobae.com/resizer/v2/I7R55S6LTJEHBP7V2BLGX3V3YM.jpg?auth=d5cd21a17db31200bacabe17ffefb223b867a8fe6ad41e7a3862ce751c0b3b56&height=1422&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/03/primer-dia-del-juicio-al-fiscal-los-post-it-de-garcia-ortiz-su-nueva-abogada-y-el-choque-entre-subordinadas/",
+        "date": "2025-11-03 22:45:35",
+        "sentiment_score": -0.6169889904558659
+    },
+    {
+        "title": "Seis meses dando voz a los héroes invisibles: el balance de ABC Cuidamos Contigo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/10/20/pexels-matthiaszomer-339620-Ruj6nRqd1LmAtMNRHWMCLAJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "cuidadores"
+        ],
+        "link": "https://www.abc.es/salud/seis-meses-dando-voz-heroes-invisibles-balance-20251020193451-nt.html",
+        "date": "2025-11-04 01:24:46",
+        "sentiment_score": 0.024947822093963623
+    },
+    {
+        "title": "Moreno en la presentación de sus memorias: “Me sentí superado por la crisis de los cribados”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HVM2SX5WUBEU3HZFJW6HIEZ4H4.jpg?auth=3f3459b5327fdbbde4332f2eeb0e5554753fd69ba452c450a292d1a0f173654f&width=1200",
+        "tags": [
+            "junta andalucía",
+            "vox",
+            "andalucía",
+            "alberto núñez feijóo",
+            "españa",
+            "juan manuel moreno",
+            "memorias",
+            "crisis cribados",
+            "pedro sánchez",
+            "elecciones andaluzas",
+            "isabel díaz ayuso",
+            "libros"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2025-11-03/moreno-en-la-presentacion-de-sus-memorias-me-senti-superado-por-la-crisis-de-los-cribados.html",
+        "date": "2025-11-03 23:15:17",
+        "sentiment_score": -0.8954328000545502
+    },
+    {
+        "title": "El sentido homenaje del Real Madrid a Diogo Jota en la previa del duelo con Liverpool: el conmovedor gesto de Trent Alexander-Arnold",
+        "image_url": "https://www.infobae.com/resizer/v2/LZELICGC7JGBLNLZDKHDF5M4FQ.jpg?auth=3b151bcce17bce1b21e70322324daef6347cc73908bac65e624e5dd9d2d40287&height=1080&smart=true&width=1920",
+        "tags": [
+            "liverpool",
+            "trent alexander-arnold",
+            "diogo jota",
+            "real madrid",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/04/el-sentido-homenaje-del-real-madrid-a-diogo-jota-en-la-previa-del-duelo-con-liverpool-el-conmovedor-gesto-de-trent-alexander-arnold/",
+        "date": "2025-11-04 01:38:13",
+        "sentiment_score": -0.5574953481554985
+    },
+    {
+        "title": "Anfield como antídoto para un Liverpool en crisis que mide la firmeza del nuevo Real Madrid",
+        "image_url": "https://s2.elespanol.com/2025/11/03/actualidad/1003743997938_259730170_1706x960.jpg",
+        "tags": [
+            "real madrid cf",
+            "liverpool fc",
+            "champions league",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251104/anfield-antidoto-liverpool-crisis-mide-firmeza-nuevo-real-madrid/1003743997892_0.html",
+        "date": "2025-11-04 01:31:07",
+        "sentiment_score": 0.5018297433853149
+    },
+    {
+        "title": "Un récord histórico de CR7 podría caer en breve... ¿sabes cuál?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/20/2025022012153860774.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/record-cristiano-ronaldo-podria-caer-miercoles/20251104020203361772.html",
+        "date": "2025-11-04 01:02:03",
+        "sentiment_score": 0.4912146106362343
+    },
+    {
+        "title": "Gregorio Marañón Bertrán de Lis: \"Necesitamos que los dos grandes partidos se centren y pacten con sentido de Estado\"",
+        "image_url": "https://s2.elespanol.com/2025/11/03/actualidad/1003743997744_259727793_1706x960.jpg",
+        "tags": [
+            "letras",
+            "libros"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251104/gregorio-maranon-bertran-lis-necesitamos-grandes-partidos-centren-pacten-sentido/1003743997651_0.html",
+        "date": "2025-11-04 01:01:22",
+        "sentiment_score": -0.06792688369750977
+    },
+    {
+        "title": "03 NOV 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/03-nov-2025-partidazo-cope-20251104_3244636.html",
+        "date": "2025-11-04 00:50:00",
+        "sentiment_score": -0.03498823940753937
+    },
+    {
+        "title": "Camavinga y Güler serán tan importantes en Anfield como Mbappé",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/05/2025030513412571326.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/camavinga-guler-seran-tan-importantes-anfield-como-mbappe/20251104013459361770.html",
+        "date": "2025-11-04 00:34:59",
+        "sentiment_score": 0.2522539868950844
+    },
+    {
+        "title": "Real Madrid vs. Liverpool, por la Champions League: previa, posibles alineaciones, hora y cómo ver por TV e internet",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/11/03/real-madrid-liverpool-champions-league-previa-orix/",
+        "date": "2025-11-04 00:03:52",
+        "sentiment_score": 0.13280531764030457
+    },
+    {
+        "title": "Los crímenes contra niños en zonas de conflicto alcanzan niveles récord",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/11/04/menores-gaza-refugiados.jpg",
+        "tags": [
+            "refugiados",
+            "ong",
+            "áfrica",
+            "guerra en ucrania",
+            "onu",
+            "asesinatos",
+            "secuestros",
+            "segunda guerra mundial",
+            "gaza",
+            "guerra entre israel y hamás"
+        ],
+        "link": "https://www.ideal.es/sociedad/crimenes-ninos-zonas-conflicto-alcanzan-niveles-record-20251104005015-ntrc.html",
+        "date": "2025-11-03 23:57:49",
+        "sentiment_score": -0.7519180830568075
+    },
+    {
+        "title": "La IA refuerza los sesgos de género y edad en el trabajo: pinta a las mujeres como jóvenes inexpertas",
+        "image_url": "https://media.es.wired.com/photos/6909383750d442d787050083/master/pass/IA%20estereotipos%20g%C3%A9nero%201404749040.jpg",
+        "tags": [
+            "inteligencia artificial"
+        ],
+        "link": "https://es.wired.com/articulos/la-ia-refuerza-los-sesgos-de-genero-y-edad-en-el-trabajo-pinta-a-las-mujeres-como-jovenes-inexpertas",
+        "date": "2025-11-03 23:56:03",
+        "sentiment_score": 0.05100317299365997
+    },
+    {
+        "title": "Ministro Cabello:«Servicios de salud para la fuerza policial han sido expandidos a seis estados del país»",
+        "image_url": "https://ciudadmcy.info.ve/wp-content/uploads/2025/11/photo_4920731863844850601_y.jpg",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://ciudadmcy.info.ve/ministro-cabelloservicios-de-salud-para-la-fuerza-policial-han-sido-expandidos-a-seis-estados-del-pais",
+        "date": "2025-11-04 02:01:08",
+        "sentiment_score": 0.26556963473558426
+    },
+    {
+        "title": "Del taller familiar a la ‘champions’ de la defensa",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/01/690671197d526.r_d.2230-1555-1058.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251104/11221573/escribano-taller-familiar-champions-defensa.html",
+        "date": "2025-11-04 02:00:00",
+        "sentiment_score": 0.14689071476459503
+    },
+    {
+        "title": "La historia del Palacio de Pedralbes: de Eusebi Güell a las deficiencias estructurales y segunda sede institucional del Govern",
+        "image_url": "https://album.mediaset.es/eimg/2025/11/03/palacio-de-pedralbes_073a.png",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20251104/historia-palacio-pedralbes-segunda-sede-institucional-govern_18_017442865.html",
+        "date": "2025-11-04 01:00:36",
+        "sentiment_score": 0.6717755161225796
+    },
+    {
+        "title": "Pedro Cachín anunció su retiro del tenis profesional a los 30 años: “Fue un viaje inolvidable”",
+        "image_url": "https://www.infobae.com/resizer/v2/XSKY7GZW2I6PXSP7EAL6HFBPQ4.jpg?auth=9e78d1119e0d087883b6f45c13768e6fc2d6fde5d505b8477ce79ef9b3ea37f8&height=1349&smart=true&width=1908",
+        "tags": [
+            "deportes-argentina",
+            "gstaad",
+            "novak djokovic",
+            "atp tour",
+            "tenis argentino",
+            "rafael nadal",
+            "copa davis",
+            "pedro cachín"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/04/pedro-cachin-anuncio-su-retiro-del-tenis-profesional-a-los-30-anos-fue-un-viaje-inolvidable/",
+        "date": "2025-11-04 00:57:20",
+        "sentiment_score": 0.7548984624445438
+    },
+    {
+        "title": "Barcelona ya tiene fecha para regresar oficialmente al Camp Nou",
+        "image_url": "https://pxcdn.meridiano.net/112025/1762217179058.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-ya-tiene-fecha-para-regresar-oficialmente-al-camp-nou-202511320460",
+        "date": "2025-11-04 00:46:00",
+        "sentiment_score": 0.5593209527432919
+    },
+    {
+        "title": "Messi no se olvida de Barcelona y envía este guiño al club de su vida",
+        "image_url": "https://pxcdn.meridiano.net/112025/1762215655711.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/messi-no-se-olvida-de-barcelona-y-envia-este-guino-al-club-de-su-vida-202511320250",
+        "date": "2025-11-04 00:25:00",
+        "sentiment_score": 0.2632024362683296
+    },
+    {
+        "title": "Centenario de Ana María Matute: literatura, objetos y creatividad en una muestra que invita a la exploración",
+        "image_url": "https://www.infobae.com/resizer/v2/QMEJ35ETHBB5PG5R6PTOWSKCV4.jpg?auth=f290d9680b4c95960e689ff216921fd67c5dbb2662934b63079faf9d23096287&height=810&smart=true&width=1200",
+        "tags": [
+            "ana maría matute",
+            "newsroom bue",
+            "literatura española",
+            "centenario ana maría matute",
+            "biblioteca de la rioja",
+            "el sillón de ana maría matute"
+        ],
+        "link": "https://www.infobae.com/cultura/2025/11/04/centenario-de-ana-maria-matute-literatura-objetos-y-creatividad-en-una-muestra-que-invita-a-la-exploracion/",
+        "date": "2025-11-04 00:19:52",
+        "sentiment_score": 0.820568073540926
+    },
+    {
+        "title": "Desinflama tu cuerpo con esta infusión natural que tiene efecto diurético: la preparas en pocos pasos con esta planta que siempre tienes en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/desinflama-tu-cuerpo-con-esta-infusion-natural-que-tiene-efecto-diuretico-la-preparas-en-pocos-pasos-con-esta-planta-que-siempre-tienes-en-casa-202511322150",
+        "date": "2025-11-04 02:15:00",
+        "sentiment_score": -0.822714451700449
+    },
+    {
+        "title": "¡Atención, migrantes! Estos son los documentos que te evitarán una detención por parte del ICE",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "eeuu",
+            "visa",
+            "documentos"
+        ],
+        "link": "https://2001online.com/usa/servicios/atencion-migrantes-estos-son-los-documentos-que-te-evitaran-una-detencion-por-parte-del-ice--20251132200",
+        "date": "2025-11-04 02:00:00",
+        "sentiment_score": 0.4258902929723263
+    },
+    {
+        "title": "Carta astral de Florentino Primera: Podría tener una crisis por exceso de trabajo",
+        "image_url": "https://pxcdn.2001online.com/2001/102025/1761936496769.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/carta-astral-de-florentino-primera-podria-tener-una-crisis-por-exceso-de-trabajo-20251132100",
+        "date": "2025-11-04 01:00:00",
+        "sentiment_score": 0.1259331777691841
+    },
+    {
+        "title": "En video: Tini sorprende con Chris Martin y Juanes en el show de FUTTTURA",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "chris martin",
+            "juanes",
+            "tini"
+        ],
+        "link": "https://2001online.com/farandula/en-video-tini-sorprende-con-chris-martin-y-juanes-en-el-show-de-futttura-202511320590",
+        "date": "2025-11-04 00:59:00",
+        "sentiment_score": 0.36041281931102276
+    },
+    {
+        "title": "¿Hay rivalidad? la polémica declaración de Rosalía sobre Bad Bunny que enciende las redes",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "bad bunny",
+            "lux",
+            "rosalía"
+        ],
+        "link": "https://2001online.com/farandula/hay-rivalidad-la-polemica-declaracion-de-rosalia-sobre-bad-bunny-que-enciende-las-redes-202511320490",
+        "date": "2025-11-04 00:49:00",
+        "sentiment_score": -0.141605656594038
+    },
+    {
+        "title": "Experta en maquillaje comparte cuál es el mejor iluminador para las pieles maduras: hidrata y no acartona",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762196591753.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/experta-en-maquillaje-comparte-cual-es-el-mejor-iluminador-para-las-pieles-maduras-hidrata-y-no-acartona-202511320300",
+        "date": "2025-11-04 00:30:00",
+        "sentiment_score": -0.0026448071002960205
+    },
+    {
+        "title": "¿Quiénes han recibido el segundo mes de aguinaldos este 03 de octubre?",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762202577104.jpg?ch=675&cw=1200",
+        "tags": [
+            "diario 2001",
+            "fin de año",
+            "aguinaldos",
+            "trabajadores"
+        ],
+        "link": "https://2001online.com/nacionales/reportan-pago-del-segundo-mes-de-aguinaldo-en-cuentas-nomina-quienes-lo-han-recibido-este-03-de-noviembre-20251131730",
+        "date": "2025-11-04 00:01:00",
+        "sentiment_score": 0.13844488933682442
+    },
+    {
+        "title": "¡Alternativa al SNAP! Virginia lanza programa de cupones alimenticios: así puede optar a él",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "alimentos",
+            "virginia",
+            "snap"
+        ],
+        "link": "https://2001online.com/usa/servicios/alternativa-al-snap-virginia-lanza-programa-de-cupones-alimenticios-asi-puede-optar-a-el--20251132000",
+        "date": "2025-11-04 00:00:00",
+        "sentiment_score": 0.06999455392360687
+    },
+    {
+        "title": "Mascarilla para aclarar axilas, codos y rodillas: necesitas solo cuatro ingredientes",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762200389608.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/mascarilla-para-aclarar-axilas-codos-y-rodillas-necesitas-solo-cuatro-ingredientes-20251132000",
+        "date": "2025-11-04 00:00:00",
+        "sentiment_score": 0.4062869418412447
+    },
+    {
+        "title": "¡Frena la caída del cabello!: expertos revelan un milagroso producto que no deja residuos grasos",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762190015160.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/frena-la-caida-del-cabello-expertos-revelan-un-milagroso-producto-que-no-deja-residuos-grasos-202511319300",
+        "date": "2025-11-03 23:30:00",
+        "sentiment_score": 0.19718196988105774
     }
 ];
