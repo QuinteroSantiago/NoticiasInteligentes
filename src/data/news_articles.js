@@ -1,229 +1,5 @@
 export default [
     {
-        "title": "Embalses España: la reserva de agua bajó este 1 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/EEJVL2RJ6VDHXOSEO6OT35BM6A.png?auth=832f781395bddac244dde3a5886b789187bf62ffd5f8ca4324d9c929e0a51fb6&height=2362&smart=true&width=3543",
-        "tags": [
-            "agua",
-            "embalses españa",
-            "sequía",
-            "noticias",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/01/embalses-espana-la-reserva-de-agua-bajo-este-1-de-noviembre/",
-        "date": "2025-11-01 06:15:58",
-        "sentiment_score": -0.014010295271873474
-    },
-    {
-        "title": "El precio de la vivienda se dispara más de un 10% en un año en la mitad de las capitales andaluzas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/11/01/image(3)-RGpDNsgKJolg1FGDpc9ZO6L-1200x840@diario_abc.png",
-        "tags": [
-            "sevilla",
-            "economía"
-        ],
-        "link": "https://www.abc.es/sevilla/economia/precio-vivienda-dispara-ano-mitad-capitales-andaluzas-20251101182350-nts.html",
-        "date": "2025-11-01 06:16:35",
-        "sentiment_score": 0.05375257134437561
-    },
-    {
-        "title": "El Sevilla le aguanta el pulso a FC Barcelona, Real Madrid o Bayern de Múnich",
-        "image_url": "https://static.grupojoly.com/clip/9b27585a-5264-4325-83ce-9f16bcccd15c_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sevilla fc"
-        ],
-        "link": "https://www.diariodesevilla.es/sevillafc/sevilla-le-aguanta-pulso-fc-barcelona-real-madrid-bayern-munich_0_2005139606.html",
-        "date": "2025-11-01 06:30:16",
-        "sentiment_score": -0.9148407392203808
-    },
-    {
-        "title": "El invierno llega con ayudas: descubre quién puede recibir hasta 13.500 € para instalar calefacción",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2022/12/22/2022122210430539994.jpg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/dinero/invierno-llega-ayudas-descubre-quien-puede-recibir-13500-E-instalar-calefaccion/20251101073002987010.html",
-        "date": "2025-11-01 06:30:02",
-        "sentiment_score": 0.012250065803527832
-    },
-    {
-        "title": "El nuevo comienzo de Pablo Ibáñez, el ‘hombre de negro’: un programa propio y dos tiendas",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/10/pablo-ibanez-bailando-hormiguero.jpg",
-        "tags": [
-            "cómicos",
-            "influencers",
-            "gente",
-            "celebrities",
-            "el hormiguero",
-            "presentadores de televisión"
-        ],
-        "link": "https://theobjective.com/gente/2025-11-01/pablo-ibanez-hombre-negro-hormiguero-empresario/",
-        "date": "2025-11-01 06:30:00",
-        "sentiment_score": 0.37074680626392365
-    },
-    {
-        "title": "Château Siran (Margaux): el vino de Burdeos que enamoró a Hemingway y nació de los viñedos de Toulouse-Lautrec",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/10/IMG-20251031-WA0012_crop.jpg",
-        "tags": [
-            "vino",
-            "estilo de vida",
-            "burdeos"
-        ],
-        "link": "https://www.lanzadigital.com/estilo-de-vida/chateau-siran-margaux-vino-de-burdeos-que-enamoro-a-hemingway-y-nacio-de-los-vinedos-de-toulouse-lautrec/",
-        "date": "2025-11-01 06:24:35",
-        "sentiment_score": 0.017258554697036743
-    },
-    {
-        "title": "Nuevo escándalo para Memphis Depay en Brasil",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/01/2025110107153940259.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/nuevo-escandalo-memphis-depay-brasil/20251101071554361420.html",
-        "date": "2025-11-01 06:15:54",
-        "sentiment_score": -0.5742981042712927
-    },
-    {
-        "title": "Visita al campus de los horrores: así ha tomado la extrema izquierda las instalaciones de la Complutense",
-        "image_url": "https://s1.staticld.com/2025/10/31/lsi-ucm.jpg",
-        "tags": [
-            "libre mercado"
-        ],
-        "link": "https://www.libertaddigital.com/libremercado/2025-11-01/visita-al-campus-de-los-horrores-asi-ha-tomado-la-extrema-izquierda-las-instalaciones-de-la-complutense-7314893/",
-        "date": "2025-11-01 06:00:51",
-        "sentiment_score": 0.13006200268864632
-    },
-    {
-        "title": "El Espanyol se hace fuerte al final: ni encaja ni perdona en los últimos minutos",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/10/riedel-dmitrovic-oviedo-espanyol-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/espanyol-minutos-finales-goles-defensa/",
-        "date": "2025-11-01 06:00:46",
-        "sentiment_score": 0.6587914675474167
-    },
-    {
-        "title": "Real Madrid - Valencia: Horario, posibles onces y dónde ver el partido de LaLiga EA Sports, en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/04/05/83199099-5E92-443F-8ACE-D996C661F4D5/real-madrid-valencia_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-valencia-horario-posibles-onces-donde-ver-partido-laliga-sports-directo_202511016905a1ed04f67673493b1501.html",
-        "date": "2025-11-01 06:00:13",
-        "sentiment_score": 0.014713667333126068
-    },
-    {
-        "title": "Misterios y circunstancias excepcionales envuelve al Museo Elisa Cendrero de Ciudad Real",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/10/Museo-Elisa-Cendreros-Elena-Rosa-00370-1299x730.jpg",
-        "tags": [
-            "javier pérez",
-            "misterio",
-            "día de todos los santos",
-            "museo elisa cendrero",
-            "ciudad real"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/ciudad-real/misterios-y-circunstancias-excepcionales-envuelven-al-museo-elisa-cendrero-desde-antes-de-su-inauguracion/",
-        "date": "2025-11-01 06:00:00",
-        "sentiment_score": -0.11610613763332367
-    },
-    {
-        "title": "Un seguidor del Real Madrid falleció tras sufrir un paro cardíaco en la grada del Bernabéu",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/16/2025041623391828925.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/seguidor-real-madrid-fallecio-sufrir-paro-cardiaco-grada-bernabeu/20251101065838361416.html",
-        "date": "2025-11-01 05:58:38",
-        "sentiment_score": -0.8770493036136031
-    },
-    {
-        "title": "Los ochenta, una mirada a una década que no fue tan prodigiosa",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2023/03/07/1D2A2A69-A583-4FAF-980E-82580D8F4381/escritor-periodista-daniel-vazquez-salles_69.jpg?crop=3200%2C1800%2Cx0%2Cy170&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/ochenta-mirada-decada-que-fue-tan-prodigiosa_202511016905a8f504f67673493b18ec.html",
-        "date": "2025-11-01 06:30:13",
-        "sentiment_score": -0.26544979214668274
-    },
-    {
-        "title": "La factura de los ajustes en Amazon España: concentra casi uno de cada diez despidos cuando su plantilla representa menos del 2% mundial",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/10/31/6904ef92ec8ab.r_d.1399-387.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/factura-ajustes-amazon-espana-concentra-casi-uno-diez-despidos-plantilla-representa-menos-2-mundial_6663489_0.html",
-        "date": "2025-11-01 06:30:00",
-        "sentiment_score": -0.5349726229906082
-    },
-    {
-        "title": "Hueso de santo, el panellet que \"suma adeptos\" uniendo Halloween y Todos los Santos",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/202511/01/media/cortadas/hueso-santo-panellet-suma-adeptos-uniendo-halloween-20251101060526-vi.jpg",
-        "tags": [
-            "santo",
-            "santos",
-            "suma",
-            "adeptos",
-            "hueso",
-            "halloween",
-            "todos",
-            "panellet",
-            "uniendo"
-        ],
-        "link": "https://www.elcomercio.es/sociedad/hueso-santo-panellet-suma-adeptos-uniendo-halloween-20251101060526-vi.html",
-        "date": "2025-11-01 06:05:34",
-        "sentiment_score": -0.07572118937969208
-    },
-    {
-        "title": "El precio de la muerte: fallecer en Zaragoza sale más barato y tiene explicación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c8ed0735-6b1c-4cf6-a18d-1e8cd8db64f2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "muerte",
-            "zaragoza",
-            "aragón",
-            "funerarias",
-            "entierro"
-        ],
-        "link": "https://www.elperiodicodearagon.com/aragon/2025/11/01/precio-muerte-fallecer-zaragoza-sale-123226545.html",
-        "date": "2025-11-01 06:00:53",
-        "sentiment_score": -0.6309477649629116
-    },
-    {
-        "title": "Recuperar la democracia, recuperar la ciudad",
-        "image_url": "https://static.grupojoly.com/clip/965b4bd2-4a0e-4960-8a5f-e4975011b0e2_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/recuperar-democracia-ciudad_0_2005138188.html",
-        "date": "2025-11-01 06:00:38",
-        "sentiment_score": -0.8725188933312893
-    },
-    {
-        "title": "La Plata: el bar de Barcelona que cumple 80 años con solo 4 platos (a 2,5 y 3,5 euros!)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e82e3291-b4e5-4625-ac1a-b7acee2641d1_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dónde comer hoy",
-            "restaurantes barcelona",
-            "restaurantes de pau arenós",
-            "gastronomía"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251101/restaurante-la-plata-barcelona-80-anos-123098590",
-        "date": "2025-11-01 06:00:34",
-        "sentiment_score": -0.14052461087703705
-    },
-    {
-        "title": "Esparcir las cenizas de un difunto en el bosque o en el mar: cómo evitar multas de 60.000 euros",
-        "image_url": "https://s1.staticld.com/2025/10/28/urna-cementerio-bosque-cenizas-tumba-arbol.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/espana/2025-11-01/esparcir-las-cenizas-de-un-difunto-en-el-bosque-o-en-el-mar-como-evitar-multas-de-60-000-euros-7313306/",
-        "date": "2025-11-01 06:00:17",
-        "sentiment_score": -0.8660217234864831
-    },
-    {
         "title": "Los creadores de ‘Stranger Things’ aseguran que tenían claro el final de la serie desde el principio: “Ya sabíamos cuál sería la última escena”",
         "image_url": "https://www.infobae.com/resizer/v2/QJ3F5OUFRBDEBCU3P7E4I3YRZE.jpg?auth=4ab681d691bb0cd04bf1829c826e57819c0ce46da5781063f56fd1cb85e7b006&height=1080&smart=true&width=1920",
         "tags": [
@@ -357,51 +133,6 @@ export default [
         "sentiment_score": -0.8967105476185679
     },
     {
-        "title": "La Arcadia feliz (e insensible)",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/01/aburtobilbao-R6bIg3eWyz3fxVGRa6dXfDJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "semana grande de bilbao",
-            "ertzaintza"
-        ],
-        "link": "https://www.abc.es/economia/cecilio-madero-arcadia-feliz-insensible-20251101105756-nt.html",
-        "date": "2025-11-01 09:59:10",
-        "sentiment_score": -0.19436998665332794
-    },
-    {
-        "title": "La Virgen de los Dolores de Tomares sale este sábado por la concesión del patronazgo canónico",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/11/01/dolores-de-tomares-RwPiKJP3BgTReRlD1HIxDkJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "josé ángel saiz meneses",
-            "sevilla",
-            "tomares"
-        ],
-        "link": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/virgen-dolores-tomares-sale-sabado-concesion-patronazgo-20251101105233-nts.html",
-        "date": "2025-11-01 09:52:34",
-        "sentiment_score": 0.16317692399024963
-    },
-    {
-        "title": "Chirivía: la desconocida raíz repleta de nutrientes que triunfa en los mercados ecológicos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/bienestar/2025/10/31/chirivia.jpg",
-        "tags": [
-            "bienestar",
-            "alimentación"
-        ],
-        "link": "https://www.abc.es/bienestar/alimentacion/chirivia-desconocida-raiz-repleta-nutrientes-triunfa-mercados-20251101070600-nt.html",
-        "date": "2025-11-01 06:46:38",
-        "sentiment_score": -0.1026872992515564
-    },
-    {
-        "title": "El precio de la vivienda se dispara más de un 10% en un año en la mitad de las capitales andaluzas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/11/01/image(3)-RGpDNsgKJolg1FGDpc9ZO6L-1200x840@diario_abc.png",
-        "tags": [
-            "sevilla",
-            "economía"
-        ],
-        "link": "https://www.abc.es/sevilla/economia/precio-vivienda-dispara-ano-mitad-capitales-andaluzas-20251101182350-nts.html",
-        "date": "2025-11-01 06:16:35",
-        "sentiment_score": 0.05375327169895172
-    },
-    {
         "title": "Detenido tras agredir, drogar y estafar 1.000 euros a un hombre con el que había quedado a través de una aplicación de citas",
         "image_url": "https://imagenes.elpais.com/resizer/v2/HZV7DPTRPRLITJFNMJQUJYZR4A.jpg?auth=4ca3d7060bd8fcdeece0289bca32111e8dabb6d8e57082f6feb45326347e155f&width=1200",
         "tags": [
@@ -463,22 +194,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-11-01/un-hombre-muere-en-un-incendio-en-un-edificio-en-el-centro-de-lleida.html",
         "date": "2025-11-01 11:21:19",
         "sentiment_score": -0.24388061463832855
-    },
-    {
-        "title": "La Policía Nacional investiga un secuestro en Carabanchel",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FRKYAG7PYND3JLINHD4TPPVOPI.jpeg?auth=f7cbfe636cefeee5733fa49f284cae77758f6a2e5efbc33fef31cf000bf80f0a&width=1200",
-        "tags": [
-            "coches",
-            "tiroteos",
-            "madrid",
-            "policía nacional",
-            "secuestros",
-            "sucesos",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-01/la-policia-nacional-investiga-un-secuestro-en-carabanchel.html",
-        "date": "2025-11-01 08:36:06",
-        "sentiment_score": -0.6585742197930813
     },
     {
         "title": "Villarreal sube al segundo lugar en La Liga tras vencer 4-0 a Rayo Vallecano",
@@ -934,40 +649,6 @@ export default [
         "sentiment_score": -0.18949639797210693
     },
     {
-        "title": "La Arcadia feliz (e insensible)",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/01/aburtobilbao-R6bIg3eWyz3fxVGRa6dXfDJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "semana grande de bilbao",
-            "ertzaintza"
-        ],
-        "link": "https://www.abc.es/economia/cecilio-madero-arcadia-feliz-insensible-20251101105756-nt.html",
-        "date": "2025-11-01 09:59:10",
-        "sentiment_score": -0.1943701207637787
-    },
-    {
-        "title": "La Virgen de los Dolores de Tomares sale este sábado por la concesión del patronazgo canónico",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/11/01/dolores-de-tomares-RwPiKJP3BgTReRlD1HIxDkJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "josé ángel saiz meneses",
-            "sevilla",
-            "tomares"
-        ],
-        "link": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/virgen-dolores-tomares-sale-sabado-concesion-patronazgo-20251101105233-nts.html",
-        "date": "2025-11-01 09:52:34",
-        "sentiment_score": 0.16317635774612427
-    },
-    {
-        "title": "Chirivía: la desconocida raíz repleta de nutrientes que triunfa en los mercados ecológicos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/bienestar/2025/10/31/chirivia.jpg",
-        "tags": [
-            "bienestar",
-            "alimentación"
-        ],
-        "link": "https://www.abc.es/bienestar/alimentacion/chirivia-desconocida-raiz-repleta-nutrientes-triunfa-mercados-20251101070600-nt.html",
-        "date": "2025-11-01 06:46:38",
-        "sentiment_score": -0.10268723964691162
-    },
-    {
         "title": "Un año de cálculo político de Feijóo con Mazón: “Ya es tarde para todo”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/SDY5FUQW7RPVRBVVHMMN54SD2E.jpg?auth=99df7a344f778e99926d9a3c104a949599287a1007e25cd00ffa98e3d974fea0&width=1200",
         "tags": [
@@ -1057,22 +738,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-11-01/un-hombre-muere-en-un-incendio-en-un-edificio-en-el-centro-de-lleida.html",
         "date": "2025-11-01 11:21:19",
         "sentiment_score": -0.24387942254543304
-    },
-    {
-        "title": "La Policía Nacional investiga un secuestro en Carabanchel",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FRKYAG7PYND3JLINHD4TPPVOPI.jpeg?auth=f7cbfe636cefeee5733fa49f284cae77758f6a2e5efbc33fef31cf000bf80f0a&width=1200",
-        "tags": [
-            "coches",
-            "tiroteos",
-            "madrid",
-            "policía nacional",
-            "secuestros",
-            "sucesos",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-01/la-policia-nacional-investiga-un-secuestro-en-carabanchel.html",
-        "date": "2025-11-01 08:36:06",
-        "sentiment_score": -0.6585731320083141
     },
     {
         "title": "Dani Carvajal, emocionado durante el minuto de silencio en memoria de su abuela y de Ochotorena",
@@ -7683,5 +7348,661 @@ export default [
         "link": "https://2001online.com/servicios/conozca-como-solicitar-y-legalizar-una-ruta-de-transporte-publico-ante-el-intt-requisitos-completos-para-el-certificado--202511411200",
         "date": "2025-11-04 15:20:00",
         "sentiment_score": 0.34955941140651703
+    },
+    {
+        "title": "La polémica mano de Tchouameni que anuló el VAR en el partido de Champions entre el Liverpool y el Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/HHNQOGCWQJGULBXJ6X2Y6EMXTU.jpg?auth=5306843d2986f135fd9e364ddbb3d8f03ad2c4f862fa332a1a37111dd0618715&height=1080&smart=true&width=1920",
+        "tags": [
+            "liverpool",
+            "españa-deportes",
+            "fútbol españa",
+            "tchouameni",
+            "real madrid",
+            "españa-noticias",
+            "fútbol",
+            "champions"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/11/04/la-polemica-mano-de-tchouameni-que-anulo-el-var-en-el-partido-de-champions-entre-el-liverpool-y-el-real-madrid/",
+        "date": "2025-11-04 22:09:15",
+        "sentiment_score": -0.17847077548503876
+    },
+    {
+        "title": "El Liverpool arruina el regreso de Xabi Alonso y se impone al Real Madrid en Champions",
+        "image_url": "https://www.infobae.com/resizer/v2/PCA7TCWZ3RHMXJANJVM4ZAN72A.JPG?auth=dae403b85b37ef59d54c2be649407d0b4b77311895e55ceb96ea72c1bfe6bb90&height=1808&smart=true&width=3214",
+        "tags": [
+            "champions",
+            "fútbol",
+            "españa-deportes",
+            "liverpool",
+            "real madrid",
+            "fútbol españa",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/11/04/el-liverpool-arruina-el-regreso-de-xabi-alonso-y-se-impone-al-real-madrid-en-champions/",
+        "date": "2025-11-04 21:55:41",
+        "sentiment_score": 0.21326357126235962
+    },
+    {
+        "title": "Laura Gómez, profesora de matemáticas, sobre cómo se elige la letra del DNI: “Compruébalo, no vaya a ser que tengas uno falso”",
+        "image_url": "https://www.infobae.com/resizer/v2/THKQGGYFW5HQTKBNI6GQZ2UBTQ.jpg?auth=7399eb6a34e14295dee5836bac48978d5ab5d141ba65f74fd3c52e1c03d0149e&height=324&smart=true&width=555",
+        "tags": [
+            "españa sociedad",
+            "dni",
+            "documentación legal",
+            "españa noticias",
+            "redes sociales"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/04/laura-gomez-profesora-de-matematicas-sobre-como-se-elige-la-letra-del-dni-compruebalo-no-vaya-a-ser-que-tengas-uno-falso/",
+        "date": "2025-11-04 21:40:27",
+        "sentiment_score": -0.16024812310934067
+    },
+    {
+        "title": "Los nueve errores que todo cocinero ha cometido en su vida, según un chef",
+        "image_url": "https://www.infobae.com/resizer/v2/2FKXAR7LIBHGFC44GV2X5VXNXY.jpg?auth=298b5e54aa0dd754433553aa9ffcf301bf14cd0bc0331a881d3301c45776ddbd&height=3840&smart=true&width=5760",
+        "tags": [
+            "españa-noticias",
+            "trucos de cocina",
+            "españa gastronomía",
+            "redes sociales",
+            "chefs españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/04/los-nueve-errores-que-todo-cocinero-ha-cometido-en-su-vida-segun-un-chef/",
+        "date": "2025-11-04 21:15:19",
+        "sentiment_score": -0.7828596159815788
+    },
+    {
+        "title": "El rey Juan Carlos niega tener hijos fuera de su matrimonio y no reconoce a su supuesta hija Alejandra: “¡Me atribuyen incluso ilegítimos!\"",
+        "image_url": "https://www.infobae.com/resizer/v2/EFOBVMPHCZDA3KXF2IXMGJUFHA.jpg?auth=a5756110732648735688b2c87f8f2d78603411ec57d95d01bb32f5128ce85ace&height=1080&smart=true&width=1920",
+        "tags": [
+            "juan carlos i",
+            "corazón y estilo españa",
+            "españa-noticias",
+            "españa-entretenimiento",
+            "casas reales",
+            "rey juan carlos",
+            "realeza",
+            "casa real españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/04/el-rey-juan-carlos-niega-tener-hijos-fuera-de-su-matrimonio-y-no-reconoce-a-su-supuesta-hija-alejandra-me-atribuyen-incluso-ilegitimos/",
+        "date": "2025-11-04 21:05:22",
+        "sentiment_score": -0.09242984652519226
+    },
+    {
+        "title": "Abogado del novio de Ayuso dice que \"nunca\" le dijo a su cliente que el pacto se había frustrado por \"órdenes de arriba\"",
+        "image_url": "https://www.infobae.com/resizer/v2/2RLZKKVPHNAPPDMDVXEJKLFSXI.jpg?auth=69f46033fad2f5970162dc7bbf517083bce8f69bf7a2a2a24285a97a75b18885&height=1372&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/04/abogado-del-novio-de-ayuso-dice-que-nunca-le-dijo-a-su-cliente-que-el-pacto-se-habia-frustrado-por-ordenes-de-arriba/",
+        "date": "2025-11-04 21:01:22",
+        "sentiment_score": -0.6624671779572964
+    },
+    {
+        "title": "El novio de Ayuso marca una segunda jornada de juicio al fiscal aderezada con el primer choque entre defensa y tribunal",
+        "image_url": "https://www.infobae.com/resizer/v2/JRPWLGP5YJHDPGBPNKDS63WW6E.jpg?auth=d4764cbc84d038e056109c25842bd29162ce56f989e5562e8f123514c1660f8c&height=1465&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/04/el-novio-de-ayuso-marca-una-segunda-jornada-de-juicio-al-fiscal-aderezada-con-el-primer-choque-entre-defensa-y-tribunal/",
+        "date": "2025-11-04 21:01:04",
+        "sentiment_score": -0.28546733781695366
+    },
+    {
+        "title": "Natalio Valenzuela, abogado: “Hacienda te multará si no declaras el dinero de la comunidad de propietarios”",
+        "image_url": "https://www.infobae.com/resizer/v2/ZPQUJPS5NFEHRNQS6PNIXNVPRA.jpg?auth=6b99b4348f4cc611b54e0045152d58c031953ae86b14a5d5318c17724baf6e71&height=1350&smart=true&width=2400",
+        "tags": [
+            "tiktok españa",
+            "leyes españa",
+            "españa-economía",
+            "españa-noticias",
+            "comunidad de vecinos",
+            "hacienda españa",
+            "redes sociales"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/04/natalio-valenzuela-abogado-hacienda-te-multara-si-no-declaras-el-dinero-de-la-comunidad-de-propietarios/",
+        "date": "2025-11-04 20:48:28",
+        "sentiment_score": -0.06495306640863419
+    },
+    {
+        "title": "Resultados de Euromillones: ganadores y números premiados",
+        "image_url": "https://www.infobae.com/resizer/v2/DF22RSLR7JHWNAJDJLQSSD4WYM.jpg?auth=884d85f7a5a7170273df2b8663f2491f108df738651f05b4bc51277e075aa471&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "euromillones"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/04/resultados-de-euromillones-ganadores-y-numeros-premiados/",
+        "date": "2025-11-04 20:45:32",
+        "sentiment_score": 0.5332283265888691
+    },
+    {
+        "title": "Comprobar Super Once: los números ganadores del Sorteo 5 de este 4 noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/UQP72UGEZNGAXFIAVPIT6APC4Y.jpg?auth=9b754bae32b55490a70f2a3a6f2cc8ba82ac0d75bbfcc673e64b49991c243d59&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "super once",
+            "españa-loterías",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/04/comprobar-super-once-los-numeros-ganadores-del-sorteo-5-de-este-4-noviembre/",
+        "date": "2025-11-04 20:45:25",
+        "sentiment_score": 0.1880860161036253
+    },
+    {
+        "title": "El presupuesto para prevención de incendios crecerá un 50% en 2026",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/11/04/gomez-RnkH6EqZUwtuTjWUY5o9B6J-1200x840@diario_abc.jpg",
+        "tags": [
+            "galicia",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/galicia/presupuesto-prevencion-incendios-crecera-2026-20251104202629-nt.html",
+        "date": "2025-11-04 19:26:30",
+        "sentiment_score": -0.13796254992485046
+    },
+    {
+        "title": "La pareja de Ayuso se presenta como víctima del fiscal general: “Me voy de España o me suicido”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WOVTCGDCLZHBTFBUWBJZIJGBKQ.jpg?auth=8e63ae4bc81b930771e795d38a83ee431fd0d165497ba14e2b8670d4d0e003f4&width=1200",
+        "tags": [
+            "álvaro garcía ortiz",
+            "españa",
+            "tribunal supremo",
+            "alberto gonzález amador",
+            "fiscalía general estado"
+        ],
+        "link": "https://elpais.com/espana/2025-11-04/la-pareja-de-ayuso-se-presenta-como-victima-del-fiscal-general-me-voy-de-espana-o-me-suicido.html",
+        "date": "2025-11-04 20:06:42",
+        "sentiment_score": -0.37834177166223526
+    },
+    {
+        "title": "Alberto Quirón ya es don Alberto",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O7MIGJUWGRE4DPRBCL5WPTVGTQ.jpg?auth=59e5b223473201145f5ad802806d9bb6c72d25892bd56f9503b012725d7baa9f&width=1200",
+        "tags": [
+            "tribunal supremo",
+            "españa",
+            "fiscalía",
+            "justicia",
+            "tribunales",
+            "álvaro garcía ortiz",
+            "alberto gonzález amador",
+            "isabel díaz ayuso",
+            "miguel ángel rodríguez"
+        ],
+        "link": "https://elpais.com/espana/2025-11-04/alberto-quiron-ya-es-don-alberto.html",
+        "date": "2025-11-04 19:53:28",
+        "sentiment_score": -0.8480991683900356
+    },
+    {
+        "title": "Las memorias del rey emérito | Juan Carlos a su hijo cuando le retiró la asignación: “No olvides que heredas un sistema que yo he construido”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BUTLTFUQHZDU5HJG7FHASHRXOY.jpg?auth=a17c937d87b2fb3229f3282809732bec18fe3341c59369db83730273e9c82c8b&width=1200",
+        "tags": [
+            "abu dabi",
+            "reina sofía",
+            "monarquía",
+            "españa",
+            "juan carlos i",
+            "memorias",
+            "historia",
+            "felipe vi",
+            "realeza",
+            "biografías",
+            "francia"
+        ],
+        "link": "https://elpais.com/espana/2025-11-04/las-memorias-del-rey-emerito-juan-carlos-a-su-hijo-cuando-le-retiro-la-asignacion-no-olvides-que-heredas-un-sistema-que-yo-he-construido.html",
+        "date": "2025-11-04 19:23:05",
+        "sentiment_score": -0.4065996892750263
+    },
+    {
+        "title": "Miguel Ángel Rodríguez admite sus bulos ante el Supremo: “Soy periodista, no notario”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/N6PUVTRXJ5A2JHNCS5KFECQU7Q.png?auth=0af8bf3fe3a68fd81445d854116d3b7cde43e9c5c0d2444afe454c1946e38234&width=1200",
+        "tags": [
+            "abogacía general estado",
+            "álvaro garcía ortiz",
+            "juicios",
+            "españa",
+            "tribunal supremo",
+            "miguel ángel rodríguez",
+            "alberto gonzález amador",
+            "isabel díaz ayuso",
+            "fiscales",
+            "fiscalía general estado",
+            "filtración documentos",
+            "delitos fiscales"
+        ],
+        "link": "https://elpais.com/espana/2025-11-04/miguel-angel-rodriguez-admite-sus-bulos-ante-el-supremo-soy-periodista-no-notario.html",
+        "date": "2025-11-04 19:19:11",
+        "sentiment_score": -0.864895710721612
+    },
+    {
+        "title": "Miguel Ángel Rodríguez admite sus falsedades en el Supremo: “Soy periodista, no notario”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/N6PUVTRXJ5A2JHNCS5KFECQU7Q.png?auth=0af8bf3fe3a68fd81445d854116d3b7cde43e9c5c0d2444afe454c1946e38234&width=1200",
+        "tags": [
+            "tribunal supremo",
+            "españa",
+            "delitos fiscales",
+            "filtración documentos",
+            "fiscalía general estado",
+            "juicios",
+            "fiscales",
+            "álvaro garcía ortiz",
+            "alberto gonzález amador",
+            "isabel díaz ayuso",
+            "miguel ángel rodríguez",
+            "abogacía general estado"
+        ],
+        "link": "https://elpais.com/espana/2025-11-04/miguel-angel-rodriguez-se-contradice-en-el-supremo-y-alega-que-es-periodista-no-notario.html",
+        "date": "2025-11-04 19:19:11",
+        "sentiment_score": -0.1689027026295662
+    },
+    {
+        "title": "Javier Arenas, pillado vapeando en el Senado durante la intervención de la ministra de Sanidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4KCQMSQ2IZCZTMW4T6IOD7COTM.jpg?auth=49dc3b4863730082ec389fd63d681227b7edb5e5b98f1f2f03d22c168a758647&width=1200",
+        "tags": [
+            "mónica garcía gómez",
+            "javier arenas",
+            "senado",
+            "españa",
+            "más madrid",
+            "fumadores",
+            "pp"
+        ],
+        "link": "https://elpais.com/espana/2025-11-04/javier-arenas-pillado-vapeando-en-el-senado-durante-la-intervencion-de-la-ministra-de-sanidad.html",
+        "date": "2025-11-04 19:19:10",
+        "sentiment_score": -0.9329059347510338
+    },
+    {
+        "title": "La justicia ratifica la condena por prevaricación a Baltasar Santos, exalcalde popular de Navalcarnero",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/TWEC454GJWQHW6NQWA5OGUFPYQ.jpg?auth=5338507cec57f6674f6c95f992127d333ee62404bc640de75cda1a49b6b05583&width=1200",
+        "tags": [
+            "navalcarnero",
+            "pp",
+            "madrid",
+            "prevaricación",
+            "tsj madrid",
+            "ap madrid",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-11-04/la-justicia-ratifica-la-condena-por-prevaricacion-a-baltasar-santos-exalcalde-popular-de-navalcarnero.html",
+        "date": "2025-11-04 18:18:58",
+        "sentiment_score": -0.7451369799673557
+    },
+    {
+        "title": "Ayuso traslada su “máximo respeto” por el juicio al fiscal general del Estado por la presunta filtración de un correo del caso de su pareja",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KQCBAJNEPZDZ3DT57JLQAEABNM.jpg?auth=d247105b81c1e962951234fafb71944b862740d05b624b0a58751832f01a6ad4&width=1200",
+        "tags": [
+            "fiscalía general estado",
+            "corrupción",
+            "pp",
+            "carlos mazón",
+            "psoe",
+            "madrid",
+            "política",
+            "isabel díaz ayuso",
+            "pedro sánchez",
+            "políticos",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-11-04/ayuso-traslada-su-maximo-respeto-por-el-juicio-al-fiscal-general-del-estado-por-la-presunta-filtracion-de-un-email-del-caso-de-su-pareja.html",
+        "date": "2025-11-04 18:09:48",
+        "sentiment_score": 0.40768153592944145
+    },
+    {
+        "title": "Porno junto a niños y rituales nudistas con barro: así “normalizaba” el tío Toni el sexo “purificador” entre los menores de la secta de La Chaparra",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/P5JGVN7NIRHMPHJ7ENQZDG6A4Q.jpeg?auth=d86e05953098e6fefc89aea66078ff2bd36984a23be632eac3b643c4196e8e87&width=1200",
+        "tags": [
+            "españa",
+            "abusos sexuales",
+            "castellón",
+            "violencia sexual",
+            "nudismo",
+            "infancia",
+            "agresiones físicas",
+            "juicios",
+            "violencia física",
+            "comunidad valenciana",
+            "agresiones sexuales",
+            "pederastia",
+            "niños",
+            "sectas religiosas",
+            "pornografía",
+            "ap castellón",
+            "menores"
+        ],
+        "link": "https://elpais.com/espana/2025-11-04/porno-junto-a-ninos-y-rituales-nudistas-con-barro-asi-normalizaba-el-tio-toni-el-sexo-purificador-entre-los-menores-de-la-secta-de-la-chaparra.html",
+        "date": "2025-11-04 17:58:23",
+        "sentiment_score": -0.548687282949686
+    },
+    {
+        "title": "La Agencia de Salud Pública de Barcelona investiga un posible brote de tuberculosis entre trabajadores de las obras del Camp Nou",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/JNH2F6RBWVENRGHHLZRNFJSQTM.jpg?auth=efea2c95b0fa9771da45cecbe44dc1259ae6ef9c869ce020d119e5a4b5cd84c2&width=1200",
+        "tags": [
+            "camp nou",
+            "enfermedades",
+            "salud pública",
+            "cataluña",
+            "enfermedades infecciosas",
+            "barcelona",
+            "tuberculosis"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-04/la-agencia-de-salud-publica-de-barcelona-investiga-un-posible-brote-de-tuberculosis-entre-trabajadores-de-las-obras-del-camp-nou.html",
+        "date": "2025-11-04 17:45:00",
+        "sentiment_score": -0.22282100096344948
+    },
+    {
+        "title": "El Real Madrid resucita al Liverpool (1-0)",
+        "image_url": "https://static.grupojoly.com/clip/405681e3-4f10-46bc-ab09-0cf73c7302c6_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "resucita",
+            "madrid",
+            "real",
+            "1-0",
+            "liverpool"
+        ],
+        "link": "https://www.granadahoy.com/deportes/real-madrid-resucita-liverpool-1-0_0_2005168768.html",
+        "date": "2025-11-04 22:16:04",
+        "sentiment_score": 0.5771450847387314
+    },
+    {
+        "title": "El Real Madrid no puede con Anfield",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/815ce0d3-012e-467a-b9564c113e36587e.jpg",
+        "tags": [
+            "liverpool fc",
+            "eduardo camavinga",
+            "vinícius júnior",
+            "thibaut courtois",
+            "rodrygo goes",
+            "aurélien tchouaméni",
+            "kylian mbappé",
+            "champions league",
+            "jude bellingham",
+            "real madrid",
+            "xabi alonso"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zd4998be7-8c6a-4e87-ac62cc5fa37bdf81/202511/el-real-madrid-no-puede-con-anfield",
+        "date": "2025-11-04 22:15:36",
+        "sentiment_score": -0.03691446781158447
+    },
+    {
+        "title": "Crónica del Liverpool - Real Madrid: 1-0",
+        "image_url": "https://www.infobae.com/resizer/v2/CDMXZSIGGBHDLO6HLEWOS5NQQI.jpg?auth=f2976a97d92b8e7b37c4419b6570d80734b38f5c5ef063fbdaafbc0f03e6dba5&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/04/cronica-del-liverpool-real-madrid-1-0/",
+        "date": "2025-11-04 22:15:16",
+        "sentiment_score": -0.033186644315719604
+    },
+    {
+        "title": "Champions League: Así quedó la tabla de posiciones tras la derrota del Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/112025/1762294459218.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/champions-league-asi-quedo-la-tabla-de-posiciones-tras-la-derrota-del-real-madrid-202511418150",
+        "date": "2025-11-04 22:15:00",
+        "sentiment_score": 0.08105424046516418
+    },
+    {
+        "title": "El Liverpool baja a la tierra al Real Madrid (1-0)",
+        "image_url": "https://cflvdg.avoz.es/sc/2qCyE5PIgv7YepkHS5KvCinn2TE=/768x/2025/11/04/00121762292701561689681/Foto/reu_20251104_212540746.jpg",
+        "tags": [
+            "deportes",
+            "real madrid",
+            "champions league"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/11/04/liverpool-baja-tierra-real-madrid-1-0/00031762294240408106920.htm",
+        "date": "2025-11-04 22:13:00",
+        "sentiment_score": 0.022146105766296387
+    },
+    {
+        "title": "Anfield impone una vez más su ley: el Liverpool derriba al Real Madrid pese al 'show' de Courtois",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2523584.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/anfield-impone-una-vez-mas-su-ley-el-liverpool-derriba-al-real-madrid-pese-al-show-de-courtois.html",
+        "date": "2025-11-04 22:12:53",
+        "sentiment_score": -0.8845101511105895
+    },
+    {
+        "title": "El Liverpool baja a la tierra al Real Madrid",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/11/04/liverpool-realmadrid-macallister-courtois-kyXH-U240117791774oPF-1200x840@RC.jpg",
+        "tags": [
+            "thibaut courtois",
+            "xabi alonso",
+            "vinícius",
+            "mohamed salah",
+            "kylian mbappé",
+            "champions league",
+            "real madrid"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/cronica-liverpool-realmadrid-champions-jornada4-20251104172451-ntrc.html",
+        "date": "2025-11-04 22:08:51",
+        "sentiment_score": -0.11762240529060364
+    },
+    {
+        "title": "Villarejo declara a la justicia andorrana que Rajoy forzó la caída de BPA por el Proceso",
+        "image_url": "https://static1.ara.cat/clip/6401ef7b-1a73-46d2-8450-78f95aa43b18_16-9-aspect-ratio_default_0_x1178y11.jpg",
+        "tags": [
+            "villarejo",
+            "proceso",
+            "andorrana",
+            "forzo",
+            "bpa",
+            "rajoy",
+            "declara",
+            "caida",
+            "justicia"
+        ],
+        "link": "https://es.ara.cat/politica/villarejo-declara-justicia-andorrana-rajoy-forzo-caida-bpa-proceso_1_5551517.html",
+        "date": "2025-11-04 22:06:20",
+        "sentiment_score": -0.387379452586174
+    },
+    {
+        "title": "\"En el aula se pueden hacer cosas increíbles, pero hace falta tiempo para no poner siempre el examen tipo test\"",
+        "image_url": "https://static1.ara.cat/clip/beada992-6be3-446f-ab6e-0a6c9d0eeb5d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "increibles",
+            "test",
+            "tiempo",
+            "poner",
+            "aula",
+            "falta",
+            "no",
+            "tipo",
+            "examen",
+            "cosas"
+        ],
+        "link": "https://es.ara.cat/sociedad/educacion/aula-cosas-increibles-falta-tiempo-no-poner-examen-tipo-test_1_5551514.html",
+        "date": "2025-11-04 22:05:47",
+        "sentiment_score": -4.334747791290283e-05
+    },
+    {
+        "title": "La normalidad democrática de Salvador Illa",
+        "image_url": "https://okdiario.com/img/2025/11/04/rius-illa-interior.jpg",
+        "tags": [
+            "opinión",
+            "tribunas"
+        ],
+        "link": "https://okdiario.com/opinion/normalidad-democratica-salvador-illa-15705741",
+        "date": "2025-11-04 22:05:41",
+        "sentiment_score": 0.47031310200691223
+    },
+    {
+        "title": "Clasificación Fase Liga: Pleno de Bayern y Arsenal, el Madrid pierde el invicto y el Atleti asciende",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/09/01/image-b0cd02ba-f446-4aab-a5a9-4ae3197329c4-85-2560-1440.jpeg",
+        "tags": [
+            "champions league",
+            "liverpool",
+            "athletic club",
+            "real madrid",
+            "fútbol",
+            "barcelona",
+            "villarreal"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/clasificacion-fase-liga-diferencias-real-madrid-barcelona-atletico-madrid-athletic-bilbao-villarreal_sto23222399/story.shtml",
+        "date": "2025-11-04 22:04:43",
+        "sentiment_score": -0.004638172686100006
+    },
+    {
+        "title": "El Barça le devuelve el favor a Collboni con las obras del Camp Nou: el Catalunya-Palestina se jugará en Montjuïc",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2015/02/15/culemania/palco/palco_11259005_376671_1706x960.jpg",
+        "tags": [
+            "barça",
+            "palco",
+            "cataluña",
+            "jaume collboni",
+            "montjuïc",
+            "palestina"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251104/barca-devuelve-collboni-camp-nou-catalunya-palestina-montjuic/1003742704408_0.html",
+        "date": "2025-11-04 21:59:24",
+        "sentiment_score": -0.034953996539115906
+    },
+    {
+        "title": "La regasificadora de Gijón, lista para abastecer de biogás natural licuado a buques y cisternas",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/11/04/regasificadora-musel-RofkzaZopMiaTFevRPKVjZP-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "nieves roqueñí",
+            "regasificadora de el musel"
+        ],
+        "link": "https://www.elcomercio.es/economia/regasificadora-gijon-lista-abastecer-biogas-natural-licuado-20251104225149-nt.html",
+        "date": "2025-11-04 21:51:49",
+        "sentiment_score": 0.7995987981557846
+    },
+    {
+        "title": "Dónde han caído el bote de 97 millones de Euromillones, y los premios de la Bonoloto y la ONCE de hoy, martes 4 de noviembre de 2025",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2019/12/15/DD6F937B-CB78-45BE-A8BA-423DBC0AECA2/98.jpg?crop=594%2C334%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-millones-euromillones-premios-bonoloto-once-hoy-martes-4-noviembre-2025_20251104690a73dd96fd1d323b0f0408.html",
+        "date": "2025-11-04 21:45:01",
+        "sentiment_score": -0.07584378123283386
+    },
+    {
+        "title": "¿Más caro que otros años? Sepa cuánto cuesta el pavo en Washington D. C. para Acción de Gracias",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "acción de gracias",
+            "pavo",
+            "precios"
+        ],
+        "link": "https://2001online.com/usa/servicios/mas-caro-que-otros-anos-sepa-cuanto-cuesta-el-pavo-en-washington-d-c-para-accion-de-gracias-20251141800",
+        "date": "2025-11-04 22:00:00",
+        "sentiment_score": 0.7401290694251657
+    },
+    {
+        "title": "Papa León se pronuncia sobre las tensiones entre Venezuela y EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "vaticano",
+            "eeuu",
+            "gaza",
+            "papa leon",
+            "venezuela",
+            "tensiones"
+        ],
+        "link": "https://2001online.com/internacionales/papa-leon-se-pronuncia-sobre-las-tensiones-entre-venezuela-y-eeuu-202511417300",
+        "date": "2025-11-04 21:30:00",
+        "sentiment_score": 0.16242532432079315
+    },
+    {
+        "title": "Dólar y Euro BCV para el 5 de noviembre: así se cotizan las divisas oficiales",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762289384987.jpg?ch=675&cw=1200",
+        "tags": [
+            "venezuela",
+            "dinero euro bcv",
+            "dólar bcv venezuela",
+            "euro bcv     precio  bcv",
+            "bcv dolar"
+        ],
+        "link": "https://2001online.com/nacionales/dolar-y-euro-bcv-para-el-5-de-noviembre-asi-se-cotizan-las-divisas-oficiales-20251141700",
+        "date": "2025-11-04 21:00:00",
+        "sentiment_score": 0.0032800473272800446
+    },
+    {
+        "title": "Seguro Social EEUU: sepa quiénes no recibirán aumento en 2026 y por qué",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "seguro social",
+            "2026",
+            "aumento"
+        ],
+        "link": "https://2001online.com/usa/servicios/seguro-social-eeuu-sepa-quienes-no-recibiran-aumento-en-2026-y-por-que--20251141700",
+        "date": "2025-11-04 21:00:00",
+        "sentiment_score": 0.1043514832854271
+    },
+    {
+        "title": "¿Cuáles son los días claves en Black Friday?: Así puedes cazar las mejores ofertas de noviembre en EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762290533804.jpg?ch=675&cw=1200",
+        "tags": [
+            "black friday 2025",
+            "ofertas y descuentos"
+        ],
+        "link": "https://2001online.com/usa/servicios/cuales-son-los-dias-claves-en-black-friday-asi-puedes-cazar-las-mejores-ofertas-de-noviembre-en-eeuu-202511416560",
+        "date": "2025-11-04 20:56:00",
+        "sentiment_score": 0.12824247777462006
+    },
+    {
+        "title": "Osmel Sousa explica su salida del Miss Universo y hace importante anuncio sobre Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "miss venezuela",
+            "miss universo",
+            "osmel sousa"
+        ],
+        "link": "https://2001online.com/farandula/osmel-sousa-explica-su-salida-del-miss-universo-y-hace-importante-anuncio-sobre-venezuela-202511416500",
+        "date": "2025-11-04 20:50:00",
+        "sentiment_score": -0.03225553035736084
+    },
+    {
+        "title": "La CLX Night Run 2025 iluminará las calles de Valencia este sábado",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762286916519.jpg?ch=675&cw=1200",
+        "tags": [
+            "clx group"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/la-clx-night-run-2025-iluminara-las-calles-de-valencia-este-sabado-202511416110",
+        "date": "2025-11-04 20:07:26",
+        "sentiment_score": 0.0829851720482111
+    },
+    {
+        "title": "Famosa fábrica de pañales adquiere a Tylenol: conozca el monto de la operación comercial",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762287404003.jpg?ch=675&cw=1200",
+        "tags": [
+            "comercial",
+            "kenvue",
+            "fábrica",
+            "tylenol",
+            "kimberly-clark",
+            "operación comercial"
+        ],
+        "link": "https://2001online.com/usa/servicios/famosa-fabrica-de-panales-adquiere-a-tylenol-conozca-el-monto-de-la-operacion-comercial-20251141660",
+        "date": "2025-11-04 20:06:00",
+        "sentiment_score": 0.3162646684795618
+    },
+    {
+        "title": "¡No se congelan! ¿Cuándo le darán cita si paga la visa americana este noviembre?",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762285600372.jpg?ch=675&cw=1200",
+        "tags": [
+            "visa americana noviembre",
+            "eeuu",
+            "citas"
+        ],
+        "link": "https://2001online.com/usa/servicios/no-se-congelan-cuando-le-daran-cita-si-paga-la-visa-americana-este-noviembre--202511415480",
+        "date": "2025-11-04 19:48:00",
+        "sentiment_score": -0.04964633285999298
+    },
+    {
+        "title": "Cicpc captura a Fabiana Franco, líder de una estafa masiva con motos: así operaba su red",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762280938088.jpg?ch=675&cw=1200",
+        "tags": [
+            "estafa masiva con motos",
+            "cicpc captura a fabiana franco"
+        ],
+        "link": "https://2001online.com/sucesos/cicpc-captura-a-fabiana-franco-lider-de-una-estafa-masiva-con-motos-asi-operaba-su-red-202511415350",
+        "date": "2025-11-04 19:35:00",
+        "sentiment_score": -0.12835797667503357
     }
 ];
