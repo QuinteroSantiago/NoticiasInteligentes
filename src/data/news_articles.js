@@ -150,52 +150,6 @@ export default [
         "sentiment_score": -0.5738593228161335
     },
     {
-        "title": "El 1 de noviembre, día de Todos los Santos 2025 en España, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2Y3HPBLI6ZGTNG2DZLCJ3XVUUA.jpg?auth=1f53a573c8a4396d884025bad74a78758b11123bb1e81ae154468cea2e8566da&width=1200",
-        "tags": [
-            "fiestas nacionales",
-            "cementerios",
-            "españa",
-            "fiestas populares",
-            "celebraciones",
-            "servicios funerarios",
-            "fiestas",
-            "todos los santos"
-        ],
-        "link": "https://elpais.com/espana/2025-11-01/el-1-de-noviembre-dia-de-todos-los-santos-en-espana-en-imagenes.html",
-        "date": "2025-11-01 12:54:27",
-        "sentiment_score": 0.011028468608856201
-    },
-    {
-        "title": "Cataluña suma 121 víctimas mortales en accidentes de tráfico, seis más que en el mismo periodo del año pasado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7DWBMTDXB5C2NJQXG24REUXFIE.jpg?auth=e88934028d2a6919667b07bca0ca4d630ade8e53b1a74f41c43c009b3903a1ae&width=1200",
-        "tags": [
-            "accidentes",
-            "tráfico",
-            "barcelona",
-            "generalitat cataluña",
-            "govern cataluña",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-01/cataluna-suma-121-victimas-mortales-en-accidentes-de-trafico-seis-mas-que-en-el-mismo-periodo-del-ano-pasado.html",
-        "date": "2025-11-01 11:25:40",
-        "sentiment_score": -0.6953402683138847
-    },
-    {
-        "title": "Un joven de 23 años muere en un incendio en un edificio en el centro de Lleida",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QF7HOHJEHBKJHHH5OFPYPMVSCU.jpg?auth=9e5dec833fb5a4ac413331fb2ad721ef756e2d64491931a4ea3722125ded78b9&width=1200",
-        "tags": [
-            "incendios",
-            "bomberos",
-            "sucesos",
-            "lleida",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-01/un-hombre-muere-en-un-incendio-en-un-edificio-en-el-centro-de-lleida.html",
-        "date": "2025-11-01 11:21:19",
-        "sentiment_score": -0.24388061463832855
-    },
-    {
         "title": "Villarreal sube al segundo lugar en La Liga tras vencer 4-0 a Rayo Vallecano",
         "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
         "tags": [
@@ -692,52 +646,6 @@ export default [
         "link": "https://elpais.com/espana/2025-11-01/detenido-tras-agredir-drogar-y-estafar-1000-euros-a-un-hombre-con-el-que-habia-quedado-a-traves-de-una-aplicacion-de-citas.html",
         "date": "2025-11-01 15:56:30",
         "sentiment_score": -0.573859803378582
-    },
-    {
-        "title": "El 1 de noviembre, día de Todos los Santos 2025 en España, en imágenes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/2Y3HPBLI6ZGTNG2DZLCJ3XVUUA.jpg?auth=1f53a573c8a4396d884025bad74a78758b11123bb1e81ae154468cea2e8566da&width=1200",
-        "tags": [
-            "fiestas nacionales",
-            "cementerios",
-            "españa",
-            "fiestas populares",
-            "celebraciones",
-            "servicios funerarios",
-            "fiestas",
-            "todos los santos"
-        ],
-        "link": "https://elpais.com/espana/2025-11-01/el-1-de-noviembre-dia-de-todos-los-santos-en-espana-en-imagenes.html",
-        "date": "2025-11-01 12:54:27",
-        "sentiment_score": 0.011027470231056213
-    },
-    {
-        "title": "Cataluña suma 121 víctimas mortales en accidentes de tráfico, seis más que en el mismo periodo del año pasado",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7DWBMTDXB5C2NJQXG24REUXFIE.jpg?auth=e88934028d2a6919667b07bca0ca4d630ade8e53b1a74f41c43c009b3903a1ae&width=1200",
-        "tags": [
-            "accidentes",
-            "tráfico",
-            "barcelona",
-            "generalitat cataluña",
-            "govern cataluña",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-01/cataluna-suma-121-victimas-mortales-en-accidentes-de-trafico-seis-mas-que-en-el-mismo-periodo-del-ano-pasado.html",
-        "date": "2025-11-01 11:25:40",
-        "sentiment_score": -0.6953403763473034
-    },
-    {
-        "title": "Un joven de 23 años muere en un incendio en un edificio en el centro de Lleida",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QF7HOHJEHBKJHHH5OFPYPMVSCU.jpg?auth=9e5dec833fb5a4ac413331fb2ad721ef756e2d64491931a4ea3722125ded78b9&width=1200",
-        "tags": [
-            "incendios",
-            "bomberos",
-            "sucesos",
-            "lleida",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-01/un-hombre-muere-en-un-incendio-en-un-edificio-en-el-centro-de-lleida.html",
-        "date": "2025-11-01 11:21:19",
-        "sentiment_score": -0.24387942254543304
     },
     {
         "title": "Dani Carvajal, emocionado durante el minuto de silencio en memoria de su abuela y de Ochotorena",
@@ -8004,5 +7912,431 @@ export default [
         "link": "https://2001online.com/sucesos/cicpc-captura-a-fabiana-franco-lider-de-una-estafa-masiva-con-motos-asi-operaba-su-red-202511415350",
         "date": "2025-11-04 19:35:00",
         "sentiment_score": -0.12835797667503357
+    },
+    {
+        "title": "Radiohead asombra a Madrid con un espectáculo tan enigmático como vibrante para arrancar su gira siete años después",
+        "image_url": "https://www.infobae.com/resizer/v2/GAJMTILB6BDXNEI67AM4S7CRS4.jpg?auth=f4bc8652ed12a42cf71e3935461fad92f0da390d4e8c57d105552c90e3e4a1a5&height=833&smart=true&width=1250",
+        "tags": [
+            "madrid",
+            "españa-noticias",
+            "movistar arena",
+            "españa-cultura",
+            "radiohead",
+            "música españa",
+            "conciertos",
+            "música"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/11/04/radiohead-asombra-a-madrid-con-un-espectaculo-tan-enigmatico-como-vibrante-para-arrancar-su-gira-siete-anos-despues/",
+        "date": "2025-11-04 23:54:47",
+        "sentiment_score": 0.4091881513595581
+    },
+    {
+        "title": "El rey de Marruecos decreta el 31 de octubre como festivo nacional tras el apoyo de la ONU a la propuesta del Sáhara Occidental",
+        "image_url": "https://www.infobae.com/resizer/v2/QENLVMITZJAXBGRGEE42VFEXJA.jpg?auth=6c6669bdc67d9c6ecaddb44c16a399244a812692470467f6948b00b94786f13b&height=1280&smart=true&width=1920",
+        "tags": [
+            "mohamed vi",
+            "onu",
+            "sáhara occidental",
+            "marruecos",
+            "españa-sociedad",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/04/el-rey-de-marruecos-decreta-el-31-de-octubre-como-festivo-nacional-tras-el-apoyo-de-la-onu-a-la-propuesta-del-sahara-occidental/",
+        "date": "2025-11-04 22:37:06",
+        "sentiment_score": 0.13128238916397095
+    },
+    {
+        "title": "La imagen del segundo día de juicio: El fiscal general se lleva las manos a la cabeza ante el alegato del novio de Ayuso",
+        "image_url": "https://www.infobae.com/resizer/v2/BUNMZGL3VFBDPLPEWFQPYEH2RI.jpg?auth=391d2ab1134035cbc84c9e4ac37a3a0b53acd4bc51a9f43efda602260069208b&height=1320&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/04/la-imagen-del-segundo-dia-de-juicio-el-fiscal-general-se-lleva-las-manos-a-la-cabeza-ante-el-alegato-del-novio-de-ayuso/",
+        "date": "2025-11-04 22:30:17",
+        "sentiment_score": -0.3531232848763466
+    },
+    {
+        "title": "La extraña autocrítica de Xabi: «Ha sido un partido igualado, una derrota distinta a la del derbi»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2025/11/05/XabiOK-RvGRoK4lz80L9adknPnePLK-1200x840@diario_abc.jpg",
+        "tags": [
+            "xabi",
+            "distinta",
+            "derbi",
+            "derrota",
+            "extrana",
+            "partido",
+            "autocritica",
+            "igualado"
+        ],
+        "link": "https://www.abc.es/deportes/real-madrid/extrana-autocritica-xabi-partido-igualado-derrota-distinta-20251105001212-nt.html",
+        "date": "2025-11-05 01:58:01",
+        "sentiment_score": -0.035657644271850586
+    },
+    {
+        "title": "Un estudio confirma que la vacuna de Pfizer es más segura para el corazón que el covid-19",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/11/04/Vacuna_COVID-19.jpg",
+        "tags": [
+            "salud",
+            "enfermedades"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/estudio-confirma-vacuna-pfizer-segura-corazon-covid19-20251105003000-nt.html",
+        "date": "2025-11-04 23:30:05",
+        "sentiment_score": -0.19695612788200378
+    },
+    {
+        "title": "Rafael de Paula en la Diáspora",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rafael",
+            "paula",
+            "diaspora"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/analisis/rafael-paula-diaspora_0_2005175449.html",
+        "date": "2025-11-05 02:06:35",
+        "sentiment_score": 0.0926923155784607
+    },
+    {
+        "title": "Cuarenta años de teatro en Cádiz",
+        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "teatro",
+            "cuarenta",
+            "anos",
+            "cadiz"
+        ],
+        "link": "https://www.diariodecadiz.es/opinion/articulos/cuarenta-anos-teatro-cadiz_0_2005175436.html",
+        "date": "2025-11-05 02:05:05",
+        "sentiment_score": 0.05848574638366699
+    },
+    {
+        "title": "James Rodríguez recibió elogios de un excompañero suyo en el AS Monaco: “La mejor zurda con la que jugué”",
+        "image_url": "https://www.infobae.com/resizer/v2/FZFQTMS6H5H4JMG4QOWQ7EIEJM.jpg?auth=a06710f83a9779391b7ace4f3f2e27355da1b75411a4864c63f62e209070fd6f&height=540&smart=true&width=960",
+        "tags": [
+            "as monaco",
+            "dimitar berbatov",
+            "james rodríguez",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/11/05/james-rodriguez-recibio-elogios-de-un-excompanero-suyo-en-el-as-monaco-la-mejor-zurda-con-la-que-jugue/",
+        "date": "2025-11-05 01:54:10",
+        "sentiment_score": 0.4948175624012947
+    },
+    {
+        "title": "¿Señalamos con placas todas las viejas checas de Madrid?",
+        "image_url": "https://s2.elespanol.com/2025/10/30/actualidad/1003743992760_259664836_1706x960.jpg",
+        "tags": [
+            "columnas de opinión",
+            "psoe (partido socialista obrero español)",
+            "opinión",
+            "columnas",
+            "franquismo"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20251105/senalamos-placas-todas-viejas-checas-madrid/1003743992707_12.html",
+        "date": "2025-11-05 01:53:43",
+        "sentiment_score": -0.7140835039317608
+    },
+    {
+        "title": "Kylian Mbappé vuelve a sufrir en Anfield, donde Real Madrid cae",
+        "image_url": "https://dims.apnews.com/dims4/default/e9ffa67/2147483647/strip/true/crop/3500x2330+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F23%2Fd10d0d2375bf17ddfd53c844174b%2F9c583faa91a84b5a879c3a29cf6c5e68",
+        "tags": [
+            "campeones liverpool real madrid kylian mbappe",
+            "deportes",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/campeones-liverpool-real-madrid-kylian-mbappe-b9deb5c91c2cb5f4c9c2101965b75509",
+        "date": "2025-11-05 01:16:03",
+        "sentiment_score": -0.7039099037647247
+    },
+    {
+        "title": "Kylian Mbappé vuelve a sufrir en Anfield, donde Real Madrid cae",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/11/CAMPEONES_LIVERPOOL-MBAPP201_13012.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/11/04/kylian-mbapp-vuelve-a-sufrir-en-anfield-donde-real-madrid-cae/",
+        "date": "2025-11-05 01:16:03",
+        "sentiment_score": -0.5700544342398643
+    },
+    {
+        "title": "Resultados de la jornada de este martes 4 de noviembre en la Champions League",
+        "image_url": "https://pxcdn.meridiano.net/112025/1762303448826.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/liga-de-campeones/resultados-de-la-jornada-de-este-martes-4-de-noviembre-en-la-champions-league-202511420440",
+        "date": "2025-11-05 00:44:00",
+        "sentiment_score": -0.7846450693905354
+    },
+    {
+        "title": "04 NOV 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/04-nov-2025-partidazo-cope-20251105_3245529.html",
+        "date": "2025-11-05 00:39:32",
+        "sentiment_score": 0.01597227156162262
+    },
+    {
+        "title": "#MundoMaldini (04-11-2025)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "mundo maldini"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/mundo-maldini/audios/mundomaldini-04-20251105_3245527.html",
+        "date": "2025-11-05 00:37:30",
+        "sentiment_score": 0.0842914879322052
+    },
+    {
+        "title": "El ahorro necesario para comprar vivienda supera ya la barrera de los 120.000€ de media en Madrid y Barcelona",
+        "image_url": "https://s2.elespanol.com/2025/10/29/actualidad/1003743990950_259641209_1706x960.jpg",
+        "tags": [
+            "andalucía",
+            "vivienda",
+            "idealista",
+            "observatorio de la vivienda"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20251105/ahorro-necesario-comprar-vivienda-supera-barrera-media-madrid-barcelona/1003743999199_0.html",
+        "date": "2025-11-05 01:53:16",
+        "sentiment_score": -0.39860155433416367
+    },
+    {
+        "title": "Una pista de despegue para los controladores",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/01/69067146e564d.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251105/11221581/pista-despegue-controladores-skyway.html",
+        "date": "2025-11-05 01:00:00",
+        "sentiment_score": 0.3431587181985378
+    },
+    {
+        "title": "Emilio Saba con Infobae Perú: el orgullo de representar a Palestina, su mirada a Gaza y cómo la grandeza del Sport Boys lo ayudó a ser internacional",
+        "image_url": "https://www.infobae.com/resizer/v2/ULWIIXYDPZAMVBSOVDPSONASAI.png?auth=cc32a9e9ec308cf8be14ae87b10117bf72db1a4c29b331b32f3b06f3b66ca35e&height=1080&smart=true&width=1920",
+        "tags": [
+            "peru-deportes",
+            "selección de palestina",
+            "gaza",
+            "emilio saba",
+            "sport boys",
+            "liga 1"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/11/05/emilio-saba-con-infobae-peru-el-orgullo-de-representar-a-palestina-su-mirada-a-gaza-y-como-la-grandeza-del-sport-boys-lo-ayudo-a-ser-internacional/",
+        "date": "2025-11-05 00:59:52",
+        "sentiment_score": 0.26241977512836456
+    },
+    {
+        "title": "El escándalo entre un exjugador del Barcelona y una influencer brasileña, la embarazó y luego la ignoró",
+        "image_url": "https://caraotadigital.net/wp-content/uploads/2025/11/image-8.jpg",
+        "tags": [
+            "caraota show",
+            "influencer",
+            "embarazo",
+            "memphis depay",
+            "lary simoes",
+            "manchester united",
+            "fc barcelona"
+        ],
+        "link": "https://caraotadigital.net/caraota-show/el-escandalo-entre-un-exjugador-del-barcelona-y-una-influencer-brasilena-la-embarazo-y-luego-la-ignoro/",
+        "date": "2025-11-05 00:57:15",
+        "sentiment_score": -0.6452211700379848
+    },
+    {
+        "title": "Francisco Coll y Àlex Rigola, \"enemigos del pueblo\": reinventan el clásico de Ibsen en clave de ópera",
+        "image_url": "https://s2.elespanol.com/2025/11/03/actualidad/1003743997557_259725534_1706x960.jpg",
+        "tags": [
+            "ópera"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/opera/20251105/francisco-coll-alex-rigola-enemigos-pueblo-reinventan-clasico-ibsen-clave-opera/1003743997166_0.html",
+        "date": "2025-11-05 00:55:00",
+        "sentiment_score": 0.3685206100344658
+    },
+    {
+        "title": "'Resabiados y resentidos', de Manuel Cruz: cómo pensar la política en tiempos de desencanto y antipolítica",
+        "image_url": "https://s2.elespanol.com/2025/11/04/actualidad/1003743998740_259740124_1706x960.jpg",
+        "tags": [
+            "ensayo",
+            "literatura"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/ensayo/20251105/resabiados-resentidos-manuel-cruz-pensar-politica-tiempos-desencanto-antipolitica/1003743998724_0.html",
+        "date": "2025-11-05 00:55:00",
+        "sentiment_score": -0.15932615101337433
+    },
+    {
+        "title": "Javier Cámara: \"Mi carrera tiene más que ver con aquello que he rechazado que con lo que he aceptado\"",
+        "image_url": "https://s2.elespanol.com/2025/11/04/actualidad/1003743999656_259751299_1706x960.jpg",
+        "tags": [
+            "javier cámara",
+            "series",
+            "entrevistas"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/series/20251105/javier-camara-carrera-ver-rechazado-aceptado/1003743999574_0.html",
+        "date": "2025-11-05 00:55:00",
+        "sentiment_score": -0.21253855526447296
+    },
+    {
+        "title": "La startup en la que confían Factorial, Zilch o Sequra para aterrizar los beneficios de los empleados en la pyme",
+        "image_url": "https://s2.elespanol.com/2025/11/04/actualidad/1003743998388_259735478_1706x960.jpg",
+        "tags": [
+            "innovación",
+            "startups",
+            "recursos humanos",
+            "tecnología",
+            "pymes",
+            "trabajadores"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20251105/startup-confian-factorial-zilch-sequra-aterrizar-beneficios-empleados-pyme/1003743998379_0.html",
+        "date": "2025-11-05 00:34:00",
+        "sentiment_score": 0.5659939423203468
+    },
+    {
+        "title": "Laporta expande el imperio comercial del Barça hacia Estados Unidos: 12 patrocinadores en América",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/08/02/culemania/palco/874922622_13297857_1706x960.jpg",
+        "tags": [
+            "estados unidos",
+            "fc barcelona",
+            "junta directiva del barça",
+            "joan laporta",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251105/laporta-expande-comercial-barca-unidos-patrocinadores-america/1003742704417_0.html",
+        "date": "2025-11-05 00:33:01",
+        "sentiment_score": 0.35352928936481476
+    },
+    {
+        "title": "El día que planteó a sus hijos su boda con Corinna o su 'affaire' con Bárbara Rey: lo que el libro de Juan Carlos I no debe obviar",
+        "image_url": "https://s2.elespanol.com/2025/11/04/actualidad/1003743999622_259750828_1706x960.jpg",
+        "tags": [
+            "juan carlos i",
+            "libros de texto",
+            "felipe vi",
+            "casas reales"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20251105/dia-planteo-hijos-boda-corinna-affaire-barbara-rey-libro-juan-carlos-no-debe-obviar/1003743998803_0.html",
+        "date": "2025-11-05 00:33:00",
+        "sentiment_score": -0.3930702582001686
+    },
+    {
+        "title": "Cambio en el trámite de asilo en EEUU: Jueces exigen un nuevo requisito durante la audiencia en tribunales",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762308700723.jpg?ch=675&cw=1200",
+        "tags": [
+            "nuevo requisito",
+            "evidencias del caso",
+            "asilo"
+        ],
+        "link": "https://2001online.com/usa/internacionales/cambio-en-el-tramite-de-asilo-en-eeuu-jueces-exigen-un-nuevo-requisito-durante-la-audiencia-en-tribunales--202511422110",
+        "date": "2025-11-05 02:11:00",
+        "sentiment_score": -0.5955021902918816
+    },
+    {
+        "title": "Jeremías presenta concierto \"Todo es Perfecto\" en Caracas y anuncia nuevo material discográfico",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762313611936/Jeremias%20800x800.jpg?ch=675&cw=1200",
+        "tags": [
+            "concierto",
+            "todo es perfecto",
+            "jeremías"
+        ],
+        "link": "https://2001online.com/farandula/jeremias-presenta-concierto-todo-es-perfecto-en-caracas-y-anuncia-nuevo-material-discografico-20251142200",
+        "date": "2025-11-05 02:00:00",
+        "sentiment_score": 0.12059897929430008
+    },
+    {
+        "title": "GMSP: La detección oportuna del cáncer de próstata evita la agresividad de los tratamientos oncológicos",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762307226529.jpg?ch=675&cw=1200",
+        "tags": [
+            "grupo médico santa paula",
+            "venezuela",
+            "cáncer de próstata",
+            "salud",
+            "gmsp",
+            "caracas"
+        ],
+        "link": "https://2001online.com/servicios/gmsp-la-deteccion-oportuna-del-cancer-de-prostata-evita-la-agresividad-de-los-tratamientos-oncologicos-202511421490",
+        "date": "2025-11-05 01:49:00",
+        "sentiment_score": 0.15913625806570053
+    },
+    {
+        "title": "La venezolana Valeria Rosales, una mujer que inspira a transformar sueños en una empresa rentable",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762306294492.jpg?ch=675&cw=1200",
+        "tags": [
+            "emprendimientos",
+            "innovación",
+            "florida",
+            "nuevos mercados",
+            "empresas",
+            "valeria rosales",
+            "estados unidos"
+        ],
+        "link": "https://2001online.com/internacionales/la-venezolana-valeria-rosales-una-mujer-que-inspira-a-transformar-suenos-en-una-empresa-rentable-202511421300",
+        "date": "2025-11-05 01:30:00",
+        "sentiment_score": 0.629034174606204
+    },
+    {
+        "title": "Mau y Ricky ponen su música y su corazón, al servicio de jóvenes vulnerables",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762305042795.jpg?ch=675&cw=1200",
+        "tags": [
+            "jóvenes vulnerables",
+            "miami",
+            "mau y ricky",
+            "música"
+        ],
+        "link": "https://2001online.com/farandula/mau-y-ricky-ponen-su-musica-y-su-corazon-al-servicio-de-jovenes-vulnerables-20251142190",
+        "date": "2025-11-05 01:09:00",
+        "sentiment_score": 0.7674775049090385
+    },
+    {
+        "title": "Saime estrena plataforma web: conozca los nuevos beneficios para realizar los trámites",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "saime"
+        ],
+        "link": "https://2001online.com/servicios/saime-estrena-plataforma-web-conozca-los-nuevos-beneficios-para-realizar-los-tramites-202511618520",
+        "date": "2025-11-05 01:06:56",
+        "sentiment_score": -0.033241018652915955
+    },
+    {
+        "title": "¡Debut de ensueño! La Vinotinto sub 17 debuta en el Mundial con goleada ante Inglaterra",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "la vinotinto"
+        ],
+        "link": "https://2001online.com/deportes/debut-de-ensueno-la-vinotinto-sub-17-debuta-en-el-mundial-con-goleada-ante-inglaterra-20251142120",
+        "date": "2025-11-05 01:02:00",
+        "sentiment_score": -0.018380165100097656
+    },
+    {
+        "title": "Advertencia crítica: EEUU podría paralizar el tránsito aéreo por cierre de gobierno",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762302316438.jpg?ch=675&cw=1200",
+        "tags": [
+            "vuelos eeuu",
+            "amenaza aérea",
+            "cierre de gobierno"
+        ],
+        "link": "https://2001online.com/usa/internacionales/advertencia-critica-eeuu-podria-paralizar-el-transito-aereo-por-cierre-de-gobierno--202511420230",
+        "date": "2025-11-05 00:23:00",
+        "sentiment_score": -0.8163302484899759
+    },
+    {
+        "title": "Adiós arrugas y pliegues: mezcla estos dos ingredientes de uso cotidiano en casa y aplica en el rostro todos los días",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762275083842.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/adios-arrugas-y-pliegues-mezcla-estos-dos-ingredientes-de-uso-cotidiano-en-casa-y-aplica-en-el-rostro-todos-los-dias-20251142000",
+        "date": "2025-11-05 00:00:00",
+        "sentiment_score": 0.17468763887882233
+    },
+    {
+        "title": "Choque Ideológico: Gobernador de Texas lanza una amenaza a los que se muden desde Nueva York",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762300790775.jpg?ch=675&cw=1200",
+        "tags": [
+            "gobernador de texas",
+            "nueva york",
+            "amenaza"
+        ],
+        "link": "https://2001online.com/usa/internacionales/choque-ideologico-gobernador-de-texas-lanza-una-amenaza-a-los-que-se-muden-desde-nueva-york-202511419590",
+        "date": "2025-11-04 23:59:00",
+        "sentiment_score": -0.8849252909421921
     }
 ];
