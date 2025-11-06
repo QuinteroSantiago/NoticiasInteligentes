@@ -1,211 +1,5 @@
 export default [
     {
-        "title": "Juan Carlos Santiago (Petroprix): «En ningún escenario tenemos previsto vender la empresa»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/11/02/petroprix2-kuuD-RSYj4NOJ2XGXYT81C58BY9O-1200x840@diario_abc.jpg",
-        "tags": [
-            "sevilla",
-            "economía"
-        ],
-        "link": "https://www.abc.es/sevilla/economia/juan-carlos-santiago-petroprix-ningun-escenario-previsto-20251102010620-nts.html",
-        "date": "2025-11-02 06:14:21",
-        "sentiment_score": 0.24818086624145508
-    },
-    {
-        "title": "Juan Carlos Santiago (Petroprix): «La electrificación del coche se está imponiendo por decreto y no funciona»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/11/02/petroprix1-R8iXF7JTecHwNHelBczBaaO-1200x840@diario_abc.jpg",
-        "tags": [
-            "sevilla",
-            "economía"
-        ],
-        "link": "https://www.abc.es/sevilla/economia/juan-carlos-santiago-petroprix-20251102141046-nts.html",
-        "date": "2025-11-02 06:14:09",
-        "sentiment_score": 0.24818086624145508
-    },
-    {
-        "title": "Manolo Valdés instalará un monolito inédito para presidir su espacio artístico en Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/T4IVZRN5LVJUFF7DPXL2TEXNPU.jpg?auth=21e8481b3dede5179c160ea75c04e2415a74a3969350cd0353e2890563e0a724&width=1200",
-        "tags": [
-            "cultura",
-            "arte",
-            "manolo valdés",
-            "comunidad valenciana",
-            "maría josé catalá"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-02/manolo-valdes-instalara-un-monolito-inedito-para-presidir-su-espacio-artistico-en-valencia.html",
-        "date": "2025-11-02 05:21:30",
-        "sentiment_score": 0.2828478217124939
-    },
-    {
-        "title": "La industria metalúrgica en la ciudad de Almería",
-        "image_url": "https://static.grupojoly.com/clip/508a66f0-4f1d-4d63-baaf-c3bac113c24e_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/almeria/industria-metalurgica-ciudad-almeria_0_2005132424.html",
-        "date": "2025-11-02 06:32:05",
-        "sentiment_score": 0.1909201815724373
-    },
-    {
-        "title": "María Soledad Vivas y Jorge Carvajal, nuevos directores del Hospital Veterinario Nueva Andalucía",
-        "image_url": "https://static.grupojoly.com/clip/c0b0b7db-2724-4a54-b8ea-970459d7c45d_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/almeria/maria-soledad-vivas-jorge-carvajal_0_2005133176.html",
-        "date": "2025-11-02 06:32:05",
-        "sentiment_score": 0.35560283064842224
-    },
-    {
-        "title": "Lendoiro: \"Mi cariño hacia el Zaragoza es para toda la vida, me da mucha pena su situación\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/79a441aa-3882-4c2d-ab1f-799b1a1c3e08_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real zaragoza",
-            "fútbol"
-        ],
-        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2025/11/02/lendoiro-carino-zaragoza-vida-da-123249400.html",
-        "date": "2025-11-02 06:01:34",
-        "sentiment_score": 0.01608973741531372
-    },
-    {
-        "title": "Agustín Díaz Yanes: “No es lo mismo abordar una historia sobre ETA que hacer un thriller policíaco”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7c43a664-e66f-4a8c-9a6b-150246320305_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "agustín díaz yanes",
-            "director de cine",
-            "películas",
-            "'un fantasma en la batalla'",
-            "netflix"
-        ],
-        "link": "https://www.noticiasdenavarra.com/gente/2025/11/02/agustin-diaz-yanes-director-de-cine-peliculas-netflix-un-fantasma-en-la-batalla-10294511.html",
-        "date": "2025-11-02 06:00:49",
-        "sentiment_score": -0.21736137568950653
-    },
-    {
-        "title": "El mercado de noviembre",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d011593-3947-4055-8b71-92095b793aee_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "la liga",
-            "plantilla",
-            "lesión",
-            "unicaja"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2025/11/02/unicaja-baloncesto-pivot-mercado-noviembre-123265858.html",
-        "date": "2025-11-02 06:00:29",
-        "sentiment_score": -0.6786660104990005
-    },
-    {
-        "title": "Bermúdez de Castro: \"Vox antepone cuatro votos y su interés nacional a los aragoneses\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/73f9b004-d2cb-4b2c-a058-cb82014b7280_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gobierno de aragón",
-            "pp",
-            "bermúdez de castro"
-        ],
-        "link": "https://www.elperiodicodearagon.com/aragon/2025/11/02/bermudez-castro-vox-antepone-cuatro-123265721.html",
-        "date": "2025-11-02 06:00:28",
-        "sentiment_score": -0.2103694435209036
-    },
-    {
-        "title": "«El baloncesto ahora no es humano, estamos matando a los jugadores»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/99d739ba-738b-4bf0-b8d2-1d516662cd2e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "bozidar maljkovic",
-            "serbia",
-            "baloncesto",
-            "unicaja",
-            "europa"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2025/11/02/bozidar-maljkovic-baloncesto-matando-jugadores-123260224.html",
-        "date": "2025-11-02 06:00:20",
-        "sentiment_score": 0.10946813225746155
-    },
-    {
-        "title": "Deporte, series y cine: todo lo que llega este noviembre a Movistar Plus+ por menos de 10 euros",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/10/28/690089ae417f8.r_d.360-177-6236.jpeg",
-        "tags": [
-            "elrecomendador"
-        ],
-        "link": "https://www.mundodeportivo.com/elrecomendador/20251102/1002560396/deporte-series-cine-llega-noviembre-movistar-plus-10-euros.html",
-        "date": "2025-11-02 05:50:00",
-        "sentiment_score": 0.8583781728520989
-    },
-    {
-        "title": "Hallada la bandera del Somatén de Almería",
-        "image_url": "https://static.grupojoly.com/clip/9d11d643-e18a-4099-9ad1-9e585a7e62f3_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/almeria/hallada-bandera-somaten-almeria_0_2005132514.html",
-        "date": "2025-11-02 06:32:05",
-        "sentiment_score": 0.0013530850410461426
-    },
-    {
-        "title": "Jaime Palomera, experto en vivienda: “El pago del alquiler es una forma de servitud”",
-        "image_url": "https://static.eldiario.es/clip/e36f1a4d-ba4f-44b3-b57c-7b01b0cd4772_16-9-discover-aspect-ratio_default_1129473.jpg",
-        "tags": [
-            "alquiler",
-            "vivienda",
-            "servitud",
-            "palomera",
-            "forma",
-            "jaime",
-            "pago",
-            "experto"
-        ],
-        "link": "https://www.eldiario.es/canariasahora/economia/jaime-palomera-experto-vivienda-pago-alquiler-forma-servitud_1_12733741.html",
-        "date": "2025-11-02 06:30:21",
-        "sentiment_score": -0.1603560745716095
-    },
-    {
-        "title": "Cataluña ya supera el País Vasco y Madrid en innovación",
-        "image_url": "https://static1.ara.cat/clip/9a488dcf-e159-4cf7-bdb1-314d45a173f7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "pais",
-            "cataluna",
-            "innovacion",
-            "vasco",
-            "supera"
-        ],
-        "link": "https://es.ara.cat/economia/empresas/cataluna-supera-pais-vasco-madrid-innovacion_1_5548668.html",
-        "date": "2025-11-02 06:30:16",
-        "sentiment_score": 0.5078986138105392
-    },
-    {
-        "title": "Muere Prunella Scales, la protagonista de 'Hotel Fawlty', con su camarero español que censuró TVE",
-        "image_url": "https://static.grupojoly.com/clip/62d0369b-53bd-4bd7-9e8d-9d2cd6707238_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "protagonista",
-            "muere",
-            "hotel",
-            "prunella",
-            "scales"
-        ],
-        "link": "https://www.malagahoy.es/television/muere-prunella-scales-protagonista-hotel_0_2005149173.html",
-        "date": "2025-11-02 06:30:09",
-        "sentiment_score": -0.7543181963264942
-    },
-    {
-        "title": "La empresa que no fabrica misiles ni tanques, pero fabrica los cerebros que los controlan",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/07/10/tercera-guerra-mundial-1.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/empresa-no-fabrica-misiles-tanques-cerebros-controlan_6663715_0.html",
-        "date": "2025-11-02 06:30:00",
-        "sentiment_score": 0.47146960347890854
-    },
-    {
-        "title": "Fieles Difuntos en España: entre cirios, recuerdos, sellos y un tal Don Juan",
-        "image_url": "https://static.grupojoly.com/clip/ad6f6b40-8861-4323-b262-a083ee1f5795_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias jerez"
-        ],
-        "link": "https://www.diariodejerez.es/jerez/fieles-difuntos-espana-cirios-recuerdos_0_2005142824.html",
-        "date": "2025-11-02 06:18:51",
-        "sentiment_score": 0.3372458666563034
-    },
-    {
         "title": "Los impuestos a los ricos en Europa: Francia rechaza la tasa Zucman mientras España mantiene su gravamen de hasta el 3,5% a las grandes fortunas",
         "image_url": "https://www.infobae.com/resizer/v2/3VB4ZFBVYFFGTI3MFMRTXZ2Q5M.jpg?auth=0be633cab7c073fe639c5855bab04e0b60d3a995aeba622d855edc551f8fb55b&height=1350&smart=true&width=2400",
         "tags": [
@@ -427,16 +221,6 @@ export default [
         "sentiment_score": -0.055318087339401245
     },
     {
-        "title": "Karen Hao: «Las tecnológicas operan como los imperios coloniales»",
-        "image_url": "https://www.abc.es/xlsemanal/wp-content/uploads/sites/5/2025/10/WEB-Dentro-texto-Vertical-1.jpg",
-        "tags": [
-            "technology"
-        ],
-        "link": "https://www.abc.es/xlsemanal/personajes/karen-hao-abusos-ia-tecnologicas-trapos-sucios.html",
-        "date": "2025-11-02 07:54:51",
-        "sentiment_score": 0.27192385494709015
-    },
-    {
         "title": "Un bebé en estado crítico tras un accidente de coche en Tarragona",
         "image_url": "https://imagenes.elpais.com/resizer/v2/T35RGGHKRBADLOU6R2VBVSONCU.jpg?auth=6888a46c3644abbf9901da866c67b4e649a45a388a09fe666192fc873a766f31&width=1200",
         "tags": [
@@ -505,32 +289,6 @@ export default [
         "link": "https://elpais.com/espana/2025-11-02/el-pp-anuncia-que-feijoo-y-mazon-hablaran-este-domingo-al-multiplicarse-la-presion-sobre-la-continuidad-del-president.html",
         "date": "2025-11-02 11:24:43",
         "sentiment_score": 0.11269788816571236
-    },
-    {
-        "title": "El Govern invertirá 28 millones en rehabilitar de forma integral y por fases el Palau de Pedralbes",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7DKHFWXFFNOPKR7EUSWR75OYUU.jpg?auth=4367aaa56ca8cdda0a2af81843d0389ceda8b7b4c1f6a63aa945aab0c03b69e6&width=1200",
-        "tags": [
-            "generalitat cataluña",
-            "obras mantenimiento",
-            "barcelona",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-02/el-govern-invertira-28-millones-en-rehabilitar-de-forma-integral-y-por-fases-el-palau-de-pedralbes.html",
-        "date": "2025-11-02 10:13:35",
-        "sentiment_score": 0.4746043495833874
-    },
-    {
-        "title": "Los Mossos controlan el acceso a un ‘rave’ ilegal con centenares de personas en Santa Linya (Lleida)",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5P2RUEANWVB7LHMR5TWDYEDFNM.jpg?auth=25b62e89cd026f7b3239dfa286e5d3e43b5951912a8d675d7607275a94eb8383&width=1200",
-        "tags": [
-            "rave",
-            "mossos d'esquadra",
-            "lleida",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-02/los-mossos-controlan-el-acceso-a-un-rave-ilegal-con-centenares-de-personas-en-santa-linya-lleida.html",
-        "date": "2025-11-02 10:06:02",
-        "sentiment_score": -0.43147842958569527
     },
     {
         "title": "Jesús Ramírez: \"Hemos salido parados del vestuario y al final no teníamos batería\"",
@@ -7927,5 +7685,625 @@ export default [
         "link": "https://2001online.com/deportes/160-millones-el-agente-libre-venezolano-mejor-pagado-en-la-historia-de-la-mlb-202511511460",
         "date": "2025-11-05 15:46:00",
         "sentiment_score": 0.54266656935215
+    },
+    {
+        "title": "Trillo defiende que Feijóo pone \"por encima\" a los ciudadanos al llamar a Abascal tras la renuncia de Mazón",
+        "image_url": "https://www.infobae.com/resizer/v2/KD4NSGSJNZEJ3LAZ73MQ2E5OPE.jpg?auth=c63702ca0b8f052ab8ae4c4f40df400ca4da8ff826b7c04c799ef6b8009c64a8&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/05/trillo-defiende-que-feijoo-pone-por-encima-a-los-ciudadanos-al-llamar-a-abascal-tras-la-renuncia-de-mazon/",
+        "date": "2025-11-05 22:00:58",
+        "sentiment_score": -0.8310088254511356
+    },
+    {
+        "title": "Protección Civil lanza un EsAlert por las fuertes lluvias en el litoral y prelitoral de Cataluña",
+        "image_url": "https://www.infobae.com/resizer/v2/UOMVQ3N7KBHNVNPRILWKQEUYGI.jpg?auth=9783fabc55289e17f06b1607da71491ec5c8d57d671690dda54d064b1d4e52d3&height=3648&smart=true&width=5472",
+        "tags": [
+            "españa-noticias",
+            "españa-sociedad",
+            "cataluña",
+            "tiempo en españa",
+            "inundaciones",
+            "lluvias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/05/proteccion-civil-lanza-un-esalert-por-las-fuertes-lluvias-en-el-litoral-y-prelitoral-de-cataluna/",
+        "date": "2025-11-05 21:54:38",
+        "sentiment_score": -0.1204083114862442
+    },
+    {
+        "title": "Nos colamos en la nueva casa de ‘Gran Hermano 20′ y revelamos (casi) todos sus secretos: estética ‘The White Lotus’ y estancias a lo grande",
+        "image_url": "https://www.infobae.com/resizer/v2/MNZFE357VZFLVNFKHGDJ2LFBEY.jpg?auth=97f6fc18e6c9a87209e2b8a4812e8860b53e64710a0eddbf71deb8350765134b&height=2666&smart=true&width=4000",
+        "tags": [
+            "gran hermano españa",
+            "programas de televisión",
+            "televisión españa",
+            "gran hermano",
+            "españa-noticias",
+            "mediaset españa",
+            "telecinco",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/05/nos-colamos-en-la-nueva-casa-de-gran-hermano-20-y-revelamos-casi-todos-sus-secretos-estetica-the-white-lotus-y-estancias-a-lo-grande/",
+        "date": "2025-11-05 21:00:19",
+        "sentiment_score": 0.8334399424493313
+    },
+    {
+        "title": "José Elías, empresario: “Tengo empresas en 8 países y solo en España tengo que demostrar mi inocencia”",
+        "image_url": "https://www.infobae.com/resizer/v2/5IZA5FCN7JDUXILBJ2P7HLV5MY.jpg?auth=cbbeb475c8a4a086d54736a59323973b31ce6ca8780f0ce3a67775aefa599574&height=1080&smart=true&width=1920",
+        "tags": [
+            "trabajadores españa",
+            "hacienda",
+            "españa-economia",
+            "empresarios españa",
+            "agencia tributaria",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/05/jose-elias-empresario-tengo-empresas-en-8-paises-y-solo-en-espana-tengo-que-demostrar-mi-inocencia/",
+        "date": "2025-11-05 20:58:22",
+        "sentiment_score": -0.817408038303256
+    },
+    {
+        "title": "Dos jóvenes mueren en un accidente de tráfico tras estrellarse contra un plátano: el conductor no tenía carné y el coche había sido comprado el día anterior",
+        "image_url": "https://www.infobae.com/resizer/v2/EPIA3W5LF5C5JJMUPK4Y2TDY6E.jpg?auth=f11da7ba7444bcd2fcfcef44b38e4384c3cbbbf1b59fb3ab597888cb28587176&height=5504&smart=true&width=8256",
+        "tags": [
+            "motor",
+            "sucesos",
+            "carné de conducir",
+            "accidentes de tráfico",
+            "accidentes de tráfico españa",
+            "españa-sociedad",
+            "sucesos españa",
+            "españa-noticias",
+            "motor españa",
+            "francia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/05/dos-jovenes-mueren-en-un-accidente-de-trafico-tras-estrellarse-contra-un-platano-el-conductor-no-tenia-carne-y-el-coche-habia-sido-comprado-el-dia-anterior/",
+        "date": "2025-11-05 20:53:23",
+        "sentiment_score": -0.7928339820355177
+    },
+    {
+        "title": "Carlos III permite al príncipe Andrés conservar la medalla de las Malvinas pese a la pérdida de sus títulos reales",
+        "image_url": "https://www.infobae.com/resizer/v2/VQUYSVCQABA7NETWXHXIJBBYDE.jpg?auth=d64520c635d30225a726d6131f4966e9adfddfa657d2efe777aa3611349244f3&height=864&smart=true&width=1536",
+        "tags": [
+            "carlos iii",
+            "príncipe andrés",
+            "corazón y estilo españa",
+            "casa real británica",
+            "casas reales",
+            "españa-noticias",
+            "realeza",
+            "españa-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/05/carlos-iii-permite-al-principe-andres-conservar-la-medalla-de-las-malvinas-pese-a-la-perdida-de-sus-titulos-reales/",
+        "date": "2025-11-05 20:49:34",
+        "sentiment_score": 0.18139387667179108
+    },
+    {
+        "title": "Francesc Miralles, experto en desarrollo personal, sobre las personas que te ayudan cuando tienes baja autoestima: “Tenía muchos complejos y no conectaba con los demás”",
+        "image_url": "https://www.infobae.com/resizer/v2/6N7IIOT5CREUZM6DAL53DAUAYQ.png?auth=71bf608dd5e9e7e6bd24c77a0766b58972dbee30b42ef8d296526fd764752d4b&height=1080&smart=true&width=1920",
+        "tags": [
+            "youtube",
+            "desarrollo personal",
+            "autoestima",
+            "soledad",
+            "españa-sociedad",
+            "españa-noticias",
+            "podcast"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/05/francesc-miralles-experto-en-desarrollo-personal-sobre-las-personas-que-te-ayudan-cuando-tienes-baja-autoestima-tenia-muchos-complejos-y-no-conectaba-con-los-demas/",
+        "date": "2025-11-05 20:46:25",
+        "sentiment_score": 0.43941962718963623
+    },
+    {
+        "title": "El rey Juan Carlos acusa a Letizia de distanciar a Felipe VI de su familia y revela la invitación que la reina nunca aceptó",
+        "image_url": "https://www.infobae.com/resizer/v2/P4EHRB23SVBL3GKBD2CGX2ADK4.jpg?auth=a41aa0ef09cd5466e40f3d19606284799f1f0b50073c213b55ff688b516dc86b&height=536&smart=true&width=954",
+        "tags": [
+            "rey juan carlos",
+            "reina sofía",
+            "reina letizia",
+            "familia real española",
+            "corazón y estilo españa",
+            "felipe vi",
+            "casas reales",
+            "españa-noticias",
+            "casa real españa",
+            "españa-entretenimiento",
+            "realeza"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/05/el-rey-juan-carlos-acusa-a-letizia-de-distanciar-a-felipe-vi-de-su-familia-y-revela-la-invitacion-que-la-reina-nunca-acepto/",
+        "date": "2025-11-05 20:37:55",
+        "sentiment_score": -0.8233337011188269
+    },
+    {
+        "title": "Garriga (Vox) avisa al PP que si no \"pone los intereses de los valencianos en el centro\" responderá ante los electores",
+        "image_url": "https://www.infobae.com/resizer/v2/URCGC3Q575AA7N5F2AYEBI3TBM.jpg?auth=5c7c395c7759772425acdd5831c9a5b9cb89ddbc35e582f7fef7d0808ccf7334&height=1279&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/05/garriga-vox-avisa-al-pp-que-si-no-pone-los-intereses-de-los-valencianos-en-el-centro-respondera-ante-los-electores/",
+        "date": "2025-11-05 20:30:51",
+        "sentiment_score": -0.4786534756422043
+    },
+    {
+        "title": "La “epidemia del baile” que manutuvo a decenas de personas bailando hasta la muerte en 1518 y que hoy sigue siendo un misterio",
+        "image_url": "https://www.infobae.com/resizer/v2/EAEUXYJ2EBAQ5ITFIR2HWSJ5SU.jpg?auth=b74e55ba723bd697f9e047ab91395cf6b814e8d76ee74875d68bb8db4ee85410&height=1080&smart=true&width=1920",
+        "tags": [
+            "sucesos",
+            "hambruna",
+            "bailar",
+            "españa-sociedad",
+            "pobreza",
+            "españa-noticias",
+            "francia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/05/la-epidemia-del-baile-que-manutuvo-a-decenas-de-personas-bailando-hasta-la-muerte-en-1518-y-que-hoy-sigue-siendo-un-misterio/",
+        "date": "2025-11-05 20:03:55",
+        "sentiment_score": -0.7989125810563564
+    },
+    {
+        "title": "Serrano denuncia «el hermetismo y el escapismo» de Page ante «el escándalo» del cribado de cáncer de mama en Talavera y Toledo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/11/05/serrano2025-11-05-RTNodkSS65Yez7M9FmECnPI-1200x840@diario_abc.jpg",
+        "tags": [
+            "castilla la mancha",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/castilla-la-mancha/serrano-denuncia-hermetismo-escapismo-page-ante-escandalo-20251105210919-nt.html",
+        "date": "2025-11-05 20:09:20",
+        "sentiment_score": -0.1154623031616211
+    },
+    {
+        "title": "Investigan la denuncia de una madre por acoso escolar y agresión a su hija discapacitada en Alicante",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/11/05/escolares-alicante-RaMyiGtXWLfQ8iSwBdEzjkO-1200x840@diario_abc.jpg",
+        "tags": [
+            "valencia",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/comunidad-valenciana/investigan-denuncia-madre-acoso-escolar-agresion-hija-20251105191124-nt.html",
+        "date": "2025-11-05 18:11:25",
+        "sentiment_score": -0.117103710770607
+    },
+    {
+        "title": "El experto inmobiliario Sergio Nasarre, contundente al hablar sobre la crisis de la okupación: «La ley de vivienda protege a quien okupa»",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/play/2025/11/05/inmobiliario-RgaFAksZy3HTaUkAASgJbtI-1200x840@diario_abc.jpg",
+        "tags": [
+            "noticias",
+            "televisión",
+            "play"
+        ],
+        "link": "https://www.abc.es/play/television/noticias/experto-inmobiliario-sergio-nasarre-contundente-hablar-sobre-20251105183808-nt.html",
+        "date": "2025-11-05 17:38:09",
+        "sentiment_score": -0.15475746989250183
+    },
+    {
+        "title": "Diez años para construir una réplica exacta del mejor barco de la Monarquía hispánica del XVI",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/c7/media_thumb-link-4114191.webp?1762288386=",
+        "tags": [
+            "albaola",
+            "cultura",
+            "nao san juan"
+        ],
+        "link": "https://www.meneame.net/story/diez-anos-construir-replica-exacta-mejor-barco-monarquia-xvi",
+        "date": "2025-11-05 17:15:03",
+        "sentiment_score": -0.1576845496892929
+    },
+    {
+        "title": "Los sindicatos educativos lamentan el bloqueo de las mejoras del personal laboral por el relevo constante de cargos en el Departamento",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MDWZPWJ3NJFTXOAJ4BNQJELNOY.jpg?auth=aa609d0a42be8451eeba8000fba2a594a87fff364bef21ee4844bb6a287d019e&width=1200",
+        "tags": [
+            "sindicatos enseñanza",
+            "funcionarios interinos",
+            "educación",
+            "profesorado",
+            "protestas sociales",
+            "cataluña",
+            "salvador illa",
+            "enseñanza pública"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-05/los-sindicatos-educativos-lamentan-el-bloqueo-de-las-mejoras-del-personal-laboral-por-el-relevo-constante-de-cargos-en-el-departamento.html",
+        "date": "2025-11-05 20:38:30",
+        "sentiment_score": 0.004812702536582947
+    },
+    {
+        "title": "La Generalitat pide evitar desplazamientos innecesarios ante la previsión de lluvias torrenciales",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RXU3OY3G3NBH3AVZM7CUZZCXXA.jpg?auth=98ff0f68811d6587876b8645a3876d30ef9d0a96af3b3488c69fa3fa0ea6f6ad&width=1200",
+        "tags": [
+            "meteorología",
+            "alerta meteorológica",
+            "generalitat cataluña",
+            "lluvias torrenciales",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-05/la-generalitat-pide-evitar-desplazamientos-innecesarios-ante-la-prevision-de-lluvias-torrenciales.html",
+        "date": "2025-11-05 20:20:03",
+        "sentiment_score": -0.26965808495879173
+    },
+    {
+        "title": "Los periodistas tienen la palabra en el juicio al fiscal",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YPAANEEMWJFFDLZ5DZTA3FCS3A.jpeg?auth=6e33905a181c684bd118eea8536ba6fe1c984ecb794f303139d561fdc4723a5f&width=1200",
+        "tags": [
+            "álvaro garcía ortiz",
+            "juicios",
+            "tribunal supremo",
+            "españa",
+            "periodistas",
+            "fiscalía general estado",
+            "periodismo"
+        ],
+        "link": "https://elpais.com/espana/2025-11-05/los-periodistas-tienen-la-palabra-en-el-juicio-al-fiscal.html",
+        "date": "2025-11-05 19:34:30",
+        "sentiment_score": -0.14970136433839798
+    },
+    {
+        "title": "El precio del alquiler en Barcelona registra una ligera subida el último trimestre",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5UYMWXVHOVCWTL27JKMGKWXRDY.jpg?auth=88e5733b668cff37baff7afa20036a1339278fd1d1fee49dde1ed2318b1660ed&width=1200",
+        "tags": [
+            "mercado inmobiliario",
+            "sílvia paneque",
+            "precios",
+            "precio vivienda",
+            "cataluña",
+            "barcelona",
+            "viviendas alquiler",
+            "incasòl",
+            "legislación vivienda",
+            "generalitat cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-05/el-precio-del-alquiler-en-barcelona-registra-una-ligera-subida-el-ultimo-trimestre.html",
+        "date": "2025-11-05 19:24:08",
+        "sentiment_score": 0.07572402060031891
+    },
+    {
+        "title": "El libro de Juan Carlos I en diez titulares: de la muerte de su hermano a su relación con la reina Sofía",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6OR627XIUBCPXIF6MM7QO6RDWU.jpg?auth=f864c3c80fe2736c15e0103a09ff51d0eba34a9a95a03a4a5e36528200794986&width=1200",
+        "tags": [
+            "monarquía",
+            "memorias",
+            "casa real",
+            "francisco franco",
+            "historia contemporánea",
+            "libros",
+            "familia real",
+            "juan carlos i",
+            "007 racing",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-11-05/el-libro-de-juan-carlos-i-en-diez-titulares-de-la-muerte-de-su-hermano-a-su-relacion-con-la-reina-sofia.html",
+        "date": "2025-11-05 19:11:03",
+        "sentiment_score": -0.6108384393155575
+    },
+    {
+        "title": "Desconfianza en la ciencia, la medicina y la universidad: un tercio de los catalanes cree en alguna teoría de la conspiración",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6KRMYGPMPCGUIWWDLASWQ6UXOE.jpg?auth=8c32c77744fe4cca922fb5b9b79b02907f04a53e73973e9958ee86d3916cc92a&width=1200",
+        "tags": [
+            "vox",
+            "inmigración",
+            "sociología",
+            "populismo",
+            "encuestas",
+            "aliança catalana",
+            "psc",
+            "feminismo",
+            "juntsxcat",
+            "cataluña",
+            "informes y proyectos",
+            "posverdad",
+            "medios comunicación",
+            "erc"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-05/desconfianza-en-la-ciencia-la-medicina-y-la-universidad-un-tercio-de-los-catalanes-cree-en-alguna-teoria-de-la-conspiracion.html",
+        "date": "2025-11-05 18:11:24",
+        "sentiment_score": -0.40574876964092255
+    },
+    {
+        "title": "Los chats de Juan Lobato",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SFNNMAEEIFOQXNY3VSJ2ON5ILM.jpg?auth=c4c02788da964aed09c0f2e7f2f38059bc9ec2c91edb058e1af16e6e9a329a40&width=1200",
+        "tags": [
+            "psoe",
+            "alberto gonzález amador",
+            "juicios",
+            "tribunal supremo",
+            "españa",
+            "fiscalía general estado",
+            "juan lobato",
+            "federación socialista madrileña",
+            "álvaro garcía ortiz"
+        ],
+        "link": "https://elpais.com/espana/2025-11-05/los-chats-de-juan-lobato.html",
+        "date": "2025-11-05 18:00:05",
+        "sentiment_score": 0.6382132545113564
+    },
+    {
+        "title": "El exconcejal de Marbella Carlos Fernández pagará una multa para evitar la cárcel tras estar huido 19 años de la justicia",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XUZMFZABCZHB7AMJ5AWSUYEPGM.jpg?auth=a5a95ce314ff3f9cb94af23abb1cdba734e74e1e036decc42b4b72722f2d66ee&width=1200",
+        "tags": [
+            "marbella",
+            "indemnizaciones",
+            "málaga",
+            "ayuntamientos",
+            "multas",
+            "españa",
+            "andalucía",
+            "corrupción política",
+            "caso malaya"
+        ],
+        "link": "https://elpais.com/espana/2025-11-05/el-exconcejal-de-marbella-carlos-fernandez-pagara-una-multa-para-evitar-la-carcel-tras-estar-huido-19-anos-de-la-justicia.html",
+        "date": "2025-11-05 17:19:08",
+        "sentiment_score": -0.6516564842313528
+    },
+    {
+        "title": "Ernesto Navarro ganó el Premio Nacional de Narrativa Stefanía Mosca",
+        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2025/11/8aa823b4-f79a-4dd5-b180-c6ca9a55eef3.jpeg",
+        "tags": [
+            "al dia",
+            "zulia",
+            "ernesto navarro ganó el premio nacional de narrativa stefanía mosca"
+        ],
+        "link": "https://noticialdia.com/zulia/ernesto-navarro-gano-el-premio-nacional-de-narrativa-stefania-mosca/",
+        "date": "2025-11-05 22:15:43",
+        "sentiment_score": 0.2589445561170578
+    },
+    {
+        "title": "Raúl Pereira: «Gaizka Garitano te da mucha confianza. No mira el DNI para alinearte»",
+        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2025/11/05/rpereira2-Rt7vPELKMhsdbIWnaQJjMhL-758x531@abc.jpg",
+        "tags": [
+            "dni",
+            "mira",
+            "gaizka",
+            "pereira",
+            "garitano",
+            "raul",
+            "confianza",
+            "alinearte"
+        ],
+        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/raul-pereira-gaizka-garitano-confianza-mira-dni-20251105230007-ntv.html",
+        "date": "2025-11-05 22:07:31",
+        "sentiment_score": -0.014053374528884888
+    },
+    {
+        "title": "Carlota Suárez: \"Al principio no me gustaba nada jugar de delantera\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bd66e00e-f603-411a-9e61-bce1c52d0a62_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "primera división femenina",
+            "deportivo de la coruña",
+            "estadio heliodoro rodríguez lópez",
+            "cd tenerife femenino",
+            "liga f"
+        ],
+        "link": "https://www.eldia.es/deportes/ud-tenerife/2025/11/05/carlota-suarez-principio-gustaba-jugar-123404964.html",
+        "date": "2025-11-05 22:01:36",
+        "sentiment_score": 0.2008005827665329
+    },
+    {
+        "title": "García Ortiz intenta ahora salvarse en el Supremo gracias a la noticia de EL MUNDO que descalificó durante meses",
+        "image_url": "https://phantom-elmundo.uecdn.es/d9754f9e1c9ec2c05cc471eb1d5216d6/crop/519x0/2567x2048/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468205674169.jpg",
+        "tags": [
+            "álvaro garcía ortiz",
+            "tribunal supremo",
+            "artículos ángela martialay",
+            "nlpremium",
+            "artículos manuel marraco"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/05/690b9433e4d4d8f5158b4586.html",
+        "date": "2025-11-05 21:54:33",
+        "sentiment_score": -0.0446610301733017
+    },
+    {
+        "title": "Un dilema para el Real Oviedo llamado Hassan",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/11/05/110130349-k0vH--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/dilema-real-oviedo-llamado-hassan-20251105224602-nt.html",
+        "date": "2025-11-05 21:46:03",
+        "sentiment_score": 0.1398220732808113
+    },
+    {
+        "title": "El encuentro de Rosalía con sus fans en el Museo Nacional de Arte de Cataluña: así son las canciones de su álbum",
+        "image_url": "https://album.mediaset.es/eimg/2025/11/05/el-encuentro-de-rosalia-con-sus-fans-en-el-museo-nacional-de-arte-de-cataluna-asi-son-las-canciones_1cd7.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.telecinco.es/noticias/cultura/20251105/encuentro-rosalia-fans-museo-nacional-arte-cataluna-canciones-album_18_017475576.html",
+        "date": "2025-11-05 21:45:32",
+        "sentiment_score": 0.21567806601524353
+    },
+    {
+        "title": "¿Era penal? El VAR interviene para anular penal contra Barcelona",
+        "image_url": "https://pxcdn.meridiano.net/112025/1762378977737.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/era-penal-el-var-interviene-para-anular-penal-contra-barcelona-202511517430",
+        "date": "2025-11-05 21:43:00",
+        "sentiment_score": 0.22728930413722992
+    },
+    {
+        "title": "Ángel Expósito (61): \"Un piso de alquiler en Madrid de 80 metros cuadrados son 1.700 euros al mes, el salario medio son 1.200, o sea, 500 menos que un hogar\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/01/02/67765bb2a2d3b.jpeg",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/audios/angel-exposito-61-piso-alquiler-madrid-80-metros-cuadrados-son-1-700-euros-mes-salario-medio-son-1-200-sea-500-hogar-20251105_3246412.html",
+        "date": "2025-11-05 21:33:04",
+        "sentiment_score": -0.17973099648952484
+    },
+    {
+        "title": "La S.D. Huesca sufre una ducha de agua fría en Anoeta",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/11/05/2025110522124666880.jpg",
+        "tags": [
+            "s.d.huesca"
+        ],
+        "link": "https://www.aragondigital.es/articulo/sd-huesca/s-d-huesca-sufre-ducha-agua-fria-anoeta/20251105223228951218.html",
+        "date": "2025-11-05 21:32:28",
+        "sentiment_score": -0.8319247849285603
+    },
+    {
+        "title": "El Sport Extremadura cae con honores por dos golpes de suerte del Alhama",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/11/05/1502705113-RuTG2JBSe7Lrv3svc9f3m5N-1200x840@Hoy.jpg",
+        "tags": [
+            "suerte",
+            "golpes",
+            "alhama",
+            "dos",
+            "sport",
+            "extremadura",
+            "honores",
+            "cae"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol-femenino/sport-extremadura-cae-honores-dos-golpes-suerte-20251105222952-nt.html",
+        "date": "2025-11-05 21:29:52",
+        "sentiment_score": -0.9176553227007389
+    },
+    {
+        "title": "La fiesta de Rosalía en tres movimientos: el abogado de Sijena, el taxi de Belén Esteban y la alarma de Protección Civil",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/363433c1-7557-413b-8407-9e2a3821f9f1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "belén esteban",
+            "rosalía",
+            "canciones",
+            "música"
+        ],
+        "link": "https://www.farodevigo.es/cultura/2025/11/05/fiesta-rosalia-tres-movimientos-abogado-123406757.html",
+        "date": "2025-11-05 22:19:52",
+        "sentiment_score": -0.5043048486113548
+    },
+    {
+        "title": "22:00 | 05 NOV 2025 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-05-nov-2025-juego-20251105_3246420.html",
+        "date": "2025-11-05 22:19:50",
+        "sentiment_score": 0.048626068979501724
+    },
+    {
+        "title": "¡Cambia tu vida! Descubre los empleos menos estresantes en EEUU: estos son los salarios",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762381362204.jpg?ch=675&cw=1200",
+        "tags": [
+            "empleos",
+            "profesiones",
+            "menos estrés"
+        ],
+        "link": "https://2001online.com/usa/servicios/cambia-tu-vida-descubre-los-empleos-menos-estresantes-en-eeuu-estos-son-los-salarios-20251151860",
+        "date": "2025-11-05 22:06:00",
+        "sentiment_score": 0.6551311034709215
+    },
+    {
+        "title": "Dólar y Euro BCV para el 6 de noviembre: así se cotizan las divisas oficiales",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762379009249.jpg?ch=675&cw=1200",
+        "tags": [
+            "bcv",
+            "dólar bcv",
+            "dinero",
+            "euro bcv",
+            "precio bcv venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/dolar-y-euro-bcv-para-el-6-de-noviembre-asi-se-cotizan-las-divisas-oficiales-20251151800",
+        "date": "2025-11-05 22:00:00",
+        "sentiment_score": -0.0033692307770252228
+    },
+    {
+        "title": "Zohran Mamdani: el nuevo alcalde de Nueva York y su guerra contra la FIFA",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762379069427.jpg?ch=675&cw=1200",
+        "tags": [
+            "eeuu",
+            "alcalde de new york",
+            "new york",
+            "nueva york",
+            "zohran mamdani",
+            "fifa"
+        ],
+        "link": "https://2001online.com/deportes/zohran-mamdani-el-nuevo-alcalde-de-nueva-york-y-su-guerra-contra-la-fifa-202511518150",
+        "date": "2025-11-05 21:36:22",
+        "sentiment_score": 0.3146924339234829
+    },
+    {
+        "title": "\"Salsa bajo la Cúpula III\": El 6 de diciembre se enciende la rumba en el Poliedro de Caracas",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762380122182.jpg?ch=675&cw=1200",
+        "tags": [
+            "poliedro de caracas",
+            "evento",
+            "salsa",
+            "concierto"
+        ],
+        "link": "https://2001online.com/farandula/salsa-bajo-la-cupula-iii-el-6-de-diciembre-se-enciende-la-rumba-en-el-poliedro-de-caracas-202511517300",
+        "date": "2025-11-05 21:30:00",
+        "sentiment_score": 0.21246343106031418
+    },
+    {
+        "title": "¿Por qué un simple billete de $1 puede valer casi $6.000? Conoce los raros detalles que lo hacen único",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762376550377.jpg?ch=675&cw=1200",
+        "tags": [
+            "pearl harbor",
+            "numismática",
+            "dólares de colección"
+        ],
+        "link": "https://2001online.com/usa/servicios/por-que-un-simple-billete-de-1-puede-valer-casi-6-000-conoce-los-raros-detalles-que-lo-hacen-unico-202511517170",
+        "date": "2025-11-05 21:17:00",
+        "sentiment_score": 0.8094153609126806
+    },
+    {
+        "title": "Elecciones Texas 2025: ¿Cuáles son los cambios a la Constitución que se aprobaron este martes?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "elecciones",
+            "constitución",
+            "texas"
+        ],
+        "link": "https://2001online.com/usa/internacionales/elecciones-texas-2025-cuales-son-los-cambios-a-la-constitucion-que-se-aprobaron-este-martes--20251151710",
+        "date": "2025-11-05 21:01:00",
+        "sentiment_score": 0.22484902292490005
+    },
+    {
+        "title": "Nueva estructura organizativa del PSUV: cambia la figura del jefe de calle",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "jefe de calle",
+            "venezuela",
+            "psuv",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/nacionales/nueva-estructura-organizativa-del-psuv-cambia-la-figura-del-jefe-de-calle-20251151700",
+        "date": "2025-11-05 21:00:00",
+        "sentiment_score": 0.008603978902101517
+    },
+    {
+        "title": "¡Ranking vial! Washington D.C. entre las ciudades más riesgosas para conducir en EEUU: sepa por qué",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762376257758.jpg?ch=675&cw=1200",
+        "tags": [
+            "nuevo estudio",
+            "conducir en d.c."
+        ],
+        "link": "https://2001online.com/usa/servicios/ranking-vial-washington-d-c-entre-las-ciudades-mas-riesgosas-para-conducir-en-eeuu-sepa-por-que-202511516560",
+        "date": "2025-11-05 20:56:00",
+        "sentiment_score": -0.6968982815742493
+    },
+    {
+        "title": "Drama en el Miss Universo: Alicia Machado se pronuncia por polémica sobre Miss México",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762367800445.jpg?ch=675&cw=1200",
+        "tags": [
+            "miss universo 2025",
+            "farándula",
+            "polémica",
+            "chisme",
+            "alicia machado"
+        ],
+        "link": "https://2001online.com/farandula/drama-en-el-miss-universo-alicia-machado-se-pronuncia-por-polemica-sobre-miss-mexico-202511515450",
+        "date": "2025-11-05 19:45:00",
+        "sentiment_score": 0.29357556998729706
+    },
+    {
+        "title": "Movilnet mejora su señal de voz y datos: cinco estados son los beneficiados",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762370748521.jpg?ch=675&cw=1200",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/servicios/movilnet-mejora-su-senal-de-voz-y-datos-cinco-estados-son-los-beneficiados-202511515440",
+        "date": "2025-11-05 19:44:00",
+        "sentiment_score": 0.37865354865789413
     }
 ];
