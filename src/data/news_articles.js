@@ -163,22 +163,6 @@ export default [
         "sentiment_score": -0.04204753041267395
     },
     {
-        "title": "Cronología de los ataques de EEUU:16 botes destruidos, 64 muertos y una crisis que crece en el Caribe y el Pacífico",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Screenshot_91.jpg",
-        "tags": [
-            "eeuu",
-            "caribe y el pacífico",
-            "destacados",
-            "usa",
-            "ataques",
-            "nacionales",
-            "internacionales"
-        ],
-        "link": "https://lapatilla.com/2025/11/02/cronologia-de-los-ataques-de-eeuu16-botes-destruidos-64-muertos-y-una-crisis-que-crece-en-el-caribe-y-el-pacifico/",
-        "date": "2025-11-02 13:49:39",
-        "sentiment_score": -0.6413905955851078
-    },
-    {
         "title": "La burbuja del consumo",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/opinion/2025/11/02/cartas-director-1200x630(3)-U76703074331LvB-1200x630@diario_abc.jpg",
         "tags": [
@@ -190,35 +174,6 @@ export default [
         "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-burbuja-consumo-20251102162452-nt.html",
         "date": "2025-11-02 15:24:53",
         "sentiment_score": -0.13895177841186523
-    },
-    {
-        "title": "Detenidos dos policías en Francia tras ser acusados de violación por una joven en las instalaciones de un tribunal",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/02/1502473628-RXc7fc2PEfFlcM16iXrI9vI-1200x840@diario_abc.jpg",
-        "tags": [
-            "dos",
-            "tribunal",
-            "detenidos",
-            "policias",
-            "violacion",
-            "acusados",
-            "instalaciones",
-            "tras",
-            "francia",
-            "joven"
-        ],
-        "link": "https://www.abc.es/internacional/detenidos-dos-policias-francia-tras-acusados-violacion-20251102145309-nt.html",
-        "date": "2025-11-02 13:53:10",
-        "sentiment_score": -0.17408588528633118
-    },
-    {
-        "title": "La casa prefabricada de 180 metros cuadrados, dos plantas, cinco dormitorios y tres baños por menos de 63.000 euros",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/02/casa-prefabricada-RdXQCn1OoocbFvmP7uAPQkL-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/casa-prefabricada-180-metros-cuadrados-dos-plantas-20251102172216-nt.html",
-        "date": "2025-11-02 12:00:01",
-        "sentiment_score": -0.055318087339401245
     },
     {
         "title": "Un bebé en estado crítico tras un accidente de coche en Tarragona",
@@ -236,59 +191,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-11-02/un-bebe-en-estado-critico-tras-un-accidente-de-coche-en-tarragona.html",
         "date": "2025-11-02 15:43:15",
         "sentiment_score": -0.7633053567260504
-    },
-    {
-        "title": "Encontrado un bebé en una finca aislada tras ser robado en Extremadura",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EWGUSXE64NB6DNXHY3NHDRT3QI.jpg?auth=015cf396b2d140a237348341c25b547f3b9a4634d3ff148083fd695cb71f1da6&width=1200",
-        "tags": [
-            "delitos",
-            "guardia civil",
-            "menores",
-            "provincia cáceres",
-            "españa",
-            "extremadura",
-            "navalmoral de la mata"
-        ],
-        "link": "https://elpais.com/espana/2025-11-02/encontrado-un-bebe-robado-en-una-finca-aislada-de-la-comarca-del-campo-aranuelo.html",
-        "date": "2025-11-02 12:31:18",
-        "sentiment_score": -0.6073148436844349
-    },
-    {
-        "title": "Los secuestradores liberan al ‘Niño Juan’ 24 horas después de ser raptado a punta de pistola en Carabanchel",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WM22FUKRBVFNRIFCDBNQYUUQ4Y.jpg?auth=a70c318dda62d8f2c06e5363bc8246e327f48d4ee3248f28424b01cc20bd1cab&width=1200",
-        "tags": [
-            "madrid",
-            "crimen organizado",
-            "sucesos",
-            "secuestros",
-            "policía nacional",
-            "robo armas",
-            "comunidad de madrid"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-02/los-secuestradores-liberan-al-nino-juan-24-horas-despues-de-ser-raptado-a-punta-de-pistola-en-carabanchel.html",
-        "date": "2025-11-02 11:36:15",
-        "sentiment_score": -0.8687896747142076
-    },
-    {
-        "title": "El PP anuncia que Feijóo y Mazón hablarán este domingo al multiplicarse la presión sobre la continuidad del ‘president’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CGBQDZFXBXJ5LC2YFDVE3ZVCSE.jpg?auth=d32b203d395bd07e8680c32a1311cfeeaee8fedfae6d7857dc75bd6d34d19662&width=1200",
-        "tags": [
-            "generalitat valenciana",
-            "partidos políticos",
-            "ppcv",
-            "vicente mompó",
-            "elecciones",
-            "dana",
-            "comunidad valenciana",
-            "alberto núñez feijóo",
-            "carlos mazón",
-            "españa",
-            "pp",
-            "inundaciones dana octubre 2024"
-        ],
-        "link": "https://elpais.com/espana/2025-11-02/el-pp-anuncia-que-feijoo-y-mazon-hablaran-este-domingo-al-multiplicarse-la-presion-sobre-la-continuidad-del-president.html",
-        "date": "2025-11-02 11:24:43",
-        "sentiment_score": 0.11269788816571236
     },
     {
         "title": "Jesús Ramírez: \"Hemos salido parados del vestuario y al final no teníamos batería\"",
@@ -580,19 +482,6 @@ export default [
         "link": "https://2001online.com/sucesos/detenido-falso-empresario-usaba-redes-sociales-y-a-una-madre-para-explotacion-de-adolescente-202511210460",
         "date": "2025-11-02 14:46:00",
         "sentiment_score": -0.015382751822471619
-    },
-    {
-        "title": "¡Doble bendición! Natti Natasha y Raphy Pina presentan a su segunda hija: revelan detalles íntimos del nacimiento",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1762092057797/Screenshot_20251102_100022_Instagram.jpg?ch=675&cw=1200",
-        "tags": [
-            "nacimiento",
-            "segunda hija",
-            "raphy pina",
-            "natti natasha"
-        ],
-        "link": "https://2001online.com/farandula/doble-bendicion-natti-natasha-y-raphy-pina-presentan-a-su-segunda-hija-revelan-detalles-intimos-del-nacimiento-con-nueva-cancion--20251121060",
-        "date": "2025-11-02 14:06:00",
-        "sentiment_score": -0.4073827490210533
     },
     {
         "title": "Quinigol: comprueba los resultados del 2 de noviembre",
@@ -8305,5 +8194,522 @@ export default [
         "link": "https://2001online.com/servicios/movilnet-mejora-su-senal-de-voz-y-datos-cinco-estados-son-los-beneficiados-202511515440",
         "date": "2025-11-05 19:44:00",
         "sentiment_score": 0.37865354865789413
+    },
+    {
+        "title": "Expertos advierten sobre los efectos de una tormenta solar grave: “Podría deshabilitar sistemas vitales”",
+        "image_url": "https://www.infobae.com/resizer/v2/3NT2273T6FFPDKAOKBNXUW3BDI.jpg?auth=eb69172367684a94114dc9a1ceb1d7fef96f8ab6569f37d2e7715c692bf4d464&height=1153&smart=true&width=1920",
+        "tags": [
+            "tormenta solar",
+            "máxima actividad solar",
+            "sol",
+            "tormentas solares",
+            "ciencia",
+            "tormenta geomagnética",
+            "actividad solar",
+            "auroras",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/01/30/expertos-advierten-sobre-los-efectos-de-una-tormenta-solar-grave-podria-deshabilitar-sistemas-vitales/",
+        "date": "2025-11-06 02:15:36",
+        "sentiment_score": -0.7098071947693825
+    },
+    {
+        "title": "Las mejores películas de Prime Video España para ver en cualquier momento",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=1080&smart=true&width=1920",
+        "tags": [
+            "películas",
+            "noticias",
+            "prime video",
+            "españa-televisión",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/11/06/las-mejores-peliculas-de-prime-video-espana-para-ver-en-cualquier-momento/",
+        "date": "2025-11-06 00:30:59",
+        "sentiment_score": 0.30193420499563217
+    },
+    {
+        "title": "Las mejores películas en Netflix en España hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=1080&smart=true&width=1920",
+        "tags": [
+            "películas",
+            "noticias",
+            "españa-televisión",
+            "streaming",
+            "netflix"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/06/las-mejores-peliculas-en-netflix-en-espana-hoy/",
+        "date": "2025-11-06 00:30:39",
+        "sentiment_score": -0.42544661462306976
+    },
+    {
+        "title": "Detienen y procesan al rapero Yohan “N”, ligado con la Unión Tepito y buscado por Interpol: fue ubicado en España",
+        "image_url": "https://www.infobae.com/resizer/v2/CCUYFCCUHFANFFC3AFAD3FIEOE.jpg?auth=956a7170eb4751f61569163e8ba9e4d6d4a80a7bc9abffae55dbcca914f5bdb5&height=2251&smart=true&width=4001",
+        "tags": [
+            "narco en méxico",
+            "unión tepito",
+            "mexico-noticias",
+            "españa",
+            "cdmx",
+            "secuestro"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/11/06/detienen-y-procesan-al-rapero-yohan-n-ligado-con-la-union-tepito-y-buscado-por-interpol-fue-ubicado-en-espana/",
+        "date": "2025-11-06 00:05:00",
+        "sentiment_score": -0.3292805515229702
+    },
+    {
+        "title": "Capturan en España a ‘Negro Marín’, aliado de ‘El Jorobado’ y rival de ‘El Monstruo’, tras operativo internacional de la PNP",
+        "image_url": "https://www.infobae.com/resizer/v2/JNNFZO4AHJASXNHL6LG4PN2WHI.png?auth=e17960730784dfaa6c211329c947e88e9bed5c37afe9232343eb2428fb3f0484&height=1080&smart=true&width=1920",
+        "tags": [
+            "el jorobado",
+            "peru-noticias",
+            "españa",
+            "pnp",
+            "el monstruo",
+            "negro marín"
+        ],
+        "link": "https://www.infobae.com/peru/2025/11/05/capturan-en-espana-a-negro-marin-aliado-de-el-jorobado-y-rival-de-el-monstruo-tras-operativo-internacional-de-la-pnp/",
+        "date": "2025-11-05 23:23:06",
+        "sentiment_score": -0.15647552907466888
+    },
+    {
+        "title": "Cupón Diario de la Once: jugada ganadora y resultado del último sorteo",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "cupón diario"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/05/cupon-diario-de-la-once-jugada-ganadora-y-resultado-del-ultimo-sorteo/",
+        "date": "2025-11-05 23:15:35",
+        "sentiment_score": 0.22750157117843628
+    },
+    {
+        "title": "Almeida pone el foco en mayores y dependientes: sube un 50% la atención a domicilio en los presupuestos de 2026",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/11/05/1470971373(1)-RkzRKEmN9YINAp9zcGmgBeP-1200x840@diario_abc.JPG",
+        "tags": [
+            "madrid",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/madrid/almeida-pone-foco-mayores-dependientes-sube-atencion-20251105020000-nt.html",
+        "date": "2025-11-06 00:27:12",
+        "sentiment_score": -0.012950271368026733
+    },
+    {
+        "title": "EE.UU. cancelará cientos de vuelos a partir de este viernes por el cierre del Gobierno",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/11/05/1502676346-kFgE-U7018893888579dF-1200x840@diario_abc.jpg",
+        "tags": [
+            "eeuu",
+            "cancelara",
+            "cierre",
+            "viernes",
+            "vuelos",
+            "partir",
+            "cientos",
+            "gobierno"
+        ],
+        "link": "https://www.abc.es/internacional/eeuu-cancelara-cientos-vuelos-partir-viernes-cierre-20251105232638-nt.html",
+        "date": "2025-11-05 22:27:00",
+        "sentiment_score": -0.18120205402374268
+    },
+    {
+        "title": "Ayuso, sobre el juicio al fiscal general: “Apelo a que jueces, fiscales y periodistas defiendan el Estado de derecho”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/Q7PGIPPIYBCTPD32DZFSBRXQVU.jpg?auth=8fa2feb1df89ec7f9368cf1504ea85b424b2500a7cc5dddc33db059f307e4caa&width=1200",
+        "tags": [
+            "madrid",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-11-05/ayuso-sobre-el-juicio-al-fiscal-general-apelo-a-que-jueces-fiscales-y-periodistas-defiendan-el-estado-de-derecho.html",
+        "date": "2025-11-05 22:36:48",
+        "sentiment_score": -0.5757271908223629
+    },
+    {
+        "title": "Detenido un vecino de Fornells de la Selva (Girona) sospechoso de intentar matar a su mujer",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SXIZVORVQVC6FAYTYFT2FU6Q3E.jpg?auth=11660be88879ac4f3641cbb20fff10d46a901243c4e66aac497ba36de8799315&width=1200",
+        "tags": [
+            "fornells de la selva",
+            "cataluña",
+            "sucesos",
+            "violencia machista",
+            "girona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-05/detenido-un-vecino-de-fornells-de-la-selva-girona-sospechoso-de-intentar-matar-a-su-mujer.html",
+        "date": "2025-11-05 22:23:02",
+        "sentiment_score": -0.7881467938423157
+    },
+    {
+        "title": "Peinado alega que no cita a Sánchez \"al no haber colaborado con la Justicia\", pero ironiza: \"Puede cambiar de opinión\"",
+        "image_url": "https://s2.elespanol.com/2024/12/02/espana/tribunales/905670239_251370981_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "begoña gómez",
+            "tribunales",
+            "psoe (partido socialista obrero español)",
+            "malversación de fondos",
+            "carlos alsina"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20251106/peinado-alega-no-cita-sanchez-colaborado-justicia-ironiza-puede-cambiar-opinion/1003744001738_0.html",
+        "date": "2025-11-06 01:31:07",
+        "sentiment_score": -0.8046450447291136
+    },
+    {
+        "title": "Acera no recuerda quién le envió el correo del que hablaba toda España: el presidente contagia la amnesia a su equipo",
+        "image_url": "https://s2.elespanol.com/2025/11/05/actualidad/1003744001604_259776501_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "ábalos",
+            "koldo garcía izaguirre",
+            "política"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251106/acera-no-recuerda-envio-correo-hablaba-toda-espana-presidente-contagia-amnesia-equipo/1003744001690_0.html",
+        "date": "2025-11-06 01:31:05",
+        "sentiment_score": -0.6676104199141264
+    },
+    {
+        "title": "Judit González, la funcionaria que Óscar López aupó a 'número 3' de Presidencia y Peinado ha imputado en el 'caso Begoña'",
+        "image_url": "https://s2.elespanol.com/2025/11/05/actualidad/1003744001370_259776908_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "corrupción",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251106/judit-gonzalez-funcionaria-oscar-lopez-aupo-numero-presidencia-peinado-imputado-caso-begona/1003744000601_0.html",
+        "date": "2025-11-06 01:30:37",
+        "sentiment_score": -0.8766685221344233
+    },
+    {
+        "title": "Bilbao-Madrid-Lisboa: cruzar la península Ibérica en tren en 2034 supondrá menos de seis horas",
+        "image_url": "https://phantom-elmundo.uecdn.es/7276ad82efe99e2bc1ed2837a3899dda/crop/112x107/3011x3006/f/image/jpeg/assets/multimedia/imagenes/2022/05/13/16524580897869.jpg",
+        "tags": [
+            "artículos daniel viaña"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/11/06/690b8296e85ece30498b45a0.html",
+        "date": "2025-11-06 00:59:09",
+        "sentiment_score": 0.7571259029209614
+    },
+    {
+        "title": "Vuelve el Festival de Otoño: cinco propuestas escénicas imprescindibles",
+        "image_url": "https://s2.elespanol.com/2025/11/05/actualidad/1003744001334_259772856_1706x960.jpg",
+        "tags": [
+            "danza",
+            "teatros del canal",
+            "teatro",
+            "teatro de la abadía"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/teatro/20251106/vuelve-festival-otono-propuestas-escenicas-imprescindibles/1003744001192_0.html",
+        "date": "2025-11-06 00:55:00",
+        "sentiment_score": 0.3867350071668625
+    },
+    {
+        "title": "Dazia compra suelos en Ermita del Santo (Madrid) para vivienda y 'flex living'",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/fcf2447d30b1daee7c17c6469d6b357c/crop/97x27/1724x1112/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/05/17623694788763.jpg",
+        "tags": [
+            "artículos rebeca arroyo>",
+            "empresas>",
+            "mercado inmobiliario>",
+            "inmobiliario y construcción>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/11/06/690b9ff2e5fdeaee4b8b45ae.html",
+        "date": "2025-11-06 00:38:19",
+        "sentiment_score": 0.2692730538547039
+    },
+    {
+        "title": "Inbisa sube la puja por el barrio madrileño de lujo de Solana",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/b51fa3849c2a2d936d7616c58f3db3cd/crop/280x23/1919x1116/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/05/17623725545015.jpg",
+        "tags": [
+            "artículos rebeca arroyo>",
+            "empresas>",
+            "mercado inmobiliario>",
+            "inmobiliario y construcción>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/11/06/690baba0468aeb84418b45b1.html",
+        "date": "2025-11-06 00:38:11",
+        "sentiment_score": 0.6140115223824978
+    },
+    {
+        "title": "Cataluña disfrutará de la misma quita de deuda por habitante que las CCAA infrafinanciadas",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/e0602bf3595efd14440ae3d946cb9e42/crop/186x13/1974x1206/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/05/17623698771532.jpg",
+        "tags": [
+            "artículos juande portillo>",
+            "economía>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/11/06/690ba199e5fdea8c428b45ac.html",
+        "date": "2025-11-06 00:13:36",
+        "sentiment_score": -0.3332258500158787
+    },
+    {
+        "title": "Rafael Louzán: \"Veo a Lamine Yamal con la cabeza bien amueblada\"",
+        "image_url": "https://www.infobae.com/resizer/v2/FPGRFFQRUVEWTKWGPE5Z5JX5JA.jpg?auth=f5a5f18d6f9bc4ae8081eb649ae0d17e8adb285907f172956881fd08534ac097&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/06/rafael-louzan-veo-a-lamine-yamal-con-la-cabeza-bien-amueblada/",
+        "date": "2025-11-06 00:00:15",
+        "sentiment_score": 0.08724500238895416
+    },
+    {
+        "title": "Presentación exitosa en Madrid de ‘A hostias se emprende’, el debut literario de Alexis Amaya",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2025/11/Alexis-Amaya-1024x733.jpg",
+        "tags": [
+            "portada destacadas",
+            "portada",
+            "economía"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/11/a-hostias-se-emprende/",
+        "date": "2025-11-06 00:00:00",
+        "sentiment_score": 0.7246388848870993
+    },
+    {
+        "title": "No serás el último mono ni dimitirás",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ultimo",
+            "dimitiras",
+            "seras",
+            "no",
+            "mono"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/no-seras-ultimo-mono-dimitiras_0_2005182714.html",
+        "date": "2025-11-06 02:05:45",
+        "sentiment_score": -0.09374374151229858
+    },
+    {
+        "title": "Pasen y vean ‘El asombro de Moncloa’",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asombro",
+            "vean",
+            "moncloa",
+            "pasen"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/pasen-vean-asombro-moncloa_0_2005182715.html",
+        "date": "2025-11-06 02:05:45",
+        "sentiment_score": 0.20190903544425964
+    },
+    {
+        "title": "La izquierda de Moreno",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "izquierda",
+            "moreno"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/izquierda-moreno_0_2005182712.html",
+        "date": "2025-11-06 02:05:44",
+        "sentiment_score": -0.1837894320487976
+    },
+    {
+        "title": "Juanma Moreno en los tiempos de la Nocilla",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "juanma",
+            "moreno",
+            "tiempos",
+            "nocilla"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/juanma-moreno-tiempos-nocilla_0_2005182711.html",
+        "date": "2025-11-06 02:05:44",
+        "sentiment_score": -0.2315416783094406
+    },
+    {
+        "title": "Dimite, eres del PP",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dimite",
+            "pp"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/dimite-pp_0_2005182708.html",
+        "date": "2025-11-06 02:05:43",
+        "sentiment_score": -0.7172062657773495
+    },
+    {
+        "title": "Inter sigue perfecto en la Champions, Barcelona se complica en Brujas y Man City vence al Dortmund",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/b/ce/bceed1b5-15f7-5008-b3a4-5b0f8facfc9f/690bbd6d1c6bd.image.jpg?resize=300%2C200",
+        "tags": [
+            "sports",
+            "liga campeones chelsea barcelona borussia inter city"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/inter-sigue-perfecto-en-la-champions-barcelona-se-complica-en-brujas-y-man-city-vence/article_ecc86594-bd0a-5ddf-b8e7-d33df90518c5.html",
+        "date": "2025-11-06 01:18:46",
+        "sentiment_score": 0.3674790859222412
+    },
+    {
+        "title": "Lionel Messi recibió la llave de la ciudad de Miami durante el America Business Forum",
+        "image_url": "https://www.infobae.com/resizer/v2/LKQNCJATD5FTZF4Y346WMZZPXE.JPG?auth=b1df799757906027246066f2ff9b14f52dce78c5f068f771c6d047528e8a223f&height=4097&smart=true&width=6145",
+        "tags": [
+            "ciudad",
+            "estados-unidos-noticias",
+            "america business forum",
+            "lionel messi",
+            "miami",
+            "llaves"
+        ],
+        "link": "https://www.infobae.com/estados-unidos/2025/11/06/lionel-messi-recibio-la-llave-de-la-ciudad-de-miami-durante-el-america-business-forum/",
+        "date": "2025-11-06 01:15:04",
+        "sentiment_score": 0.7670709453523159
+    },
+    {
+        "title": "Luis Suárez recibió una nueva sanción disciplinaria y se perderá un partido clave con el Inter Miami de Messi: el motivo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "inter miami",
+            "deportes-argentina",
+            "lionel messi",
+            "mls",
+            "deportes-internacional",
+            "luis suárez"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/06/luis-suarez-recibio-una-nueva-sancion-disciplinaria-y-se-perdera-un-partido-clave-con-el-inter-miami-de-messi-el-motivo/",
+        "date": "2025-11-06 01:12:09",
+        "sentiment_score": -0.6226361002773046
+    },
+    {
+        "title": "Aurora Pujol, la genetista que ha descubierto 12 enfermedades raras: \"A las empresas no les interesa ocuparse de ellas\"",
+        "image_url": "https://s2.elespanol.com/2025/11/05/actualidad/1003744001572_259776007_1706x960.jpg",
+        "tags": [
+            "investigación científica",
+            "ciencia",
+            "salud",
+            "españa",
+            "enfermedades raras"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20251106/investigacion_cientifica-enfermedades_raras-espana-salud/1003744001552_0.html",
+        "date": "2025-11-06 01:06:22",
+        "sentiment_score": -0.6544375419616699
+    },
+    {
+        "title": "COMUNICADO: Más de 100 empresas biotecnológicas emergentes adoptan Veeva Basics",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251106020321_690.jpg",
+        "tags": [
+            "comunicados",
+            "comunicados internacional"
+        ],
+        "link": "https://www.europapress.es/comunicados/internacional-00907/noticia-comunicado-mas-100-empresas-biotecnologicas-emergentes-adoptan-veeva-basics-20251106020321.html",
+        "date": "2025-11-06 01:03:21",
+        "sentiment_score": 0.5153016354888678
+    },
+    {
+        "title": "Las palabras de Lionel Messi en el America Business Forum: cumbre de líderes en Miami",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762395707806.jpg?ch=675&cw=1200",
+        "tags": [
+            "lionel messi",
+            "donald trump",
+            "miami",
+            "javier milei",
+            "america business forum"
+        ],
+        "link": "https://2001online.com/deportes/las-palabras-de-lionel-messi-en-el-america-business-forum-cumbre-de-lideres-en-miami-202511522480",
+        "date": "2025-11-06 02:06:43",
+        "sentiment_score": 0.0955976527184248
+    },
+    {
+        "title": "¿Problemas para dormir? El Dr. José Felices asegura que se puede deber al consumo de estas frutas",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762269859467.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/problemas-para-dormir-el-dr-jose-felices-asegura-que-se-puede-deber-al-consumo-de-estas-frutas-20251152200",
+        "date": "2025-11-06 02:00:00",
+        "sentiment_score": 0.19038373976945877
+    },
+    {
+        "title": "¡Insólito! Graban vídeos inapropiados en el Santuario de la Virgen de Coromoto: así actuaron las autoridades",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "video viral",
+            "tiktok",
+            "videos en tiktok",
+            "videos inapropiados",
+            "guanare",
+            "portuguese",
+            "virgen de coromoto"
+        ],
+        "link": "https://2001online.com/sucesos/insolito-graban-videos-inapropiados-en-el-santuario-de-la-virgen-de-coromoto-asi-actuaron-las-autoridades-20251152200",
+        "date": "2025-11-06 02:00:00",
+        "sentiment_score": -0.8913458678871393
+    },
+    {
+        "title": "\"Todo lo que escuché fueron llantos\": agentes del ICE persiguen a maestra dentro de una guardería",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762390681081.jpg?ch=675&cw=1200",
+        "tags": [
+            "docentes",
+            "redadas ice",
+            "ice"
+        ],
+        "link": "https://2001online.com/usa/internacionales/todo-lo-que-escuche-fueron-llantos-agentes-del-ice-persiguen-a-maestra-dentro-de-una-guarderia-202511521450",
+        "date": "2025-11-06 01:45:00",
+        "sentiment_score": -0.2277165949344635
+    },
+    {
+        "title": "¡Comida gratis! Restaurantes de Chicago abren sus puertas a beneficiarios de SNAP: revisa el listado completo",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762393550882.jpg?ch=675&cw=1200",
+        "tags": [
+            "alimentos snap",
+            "#eeuu",
+            "restaurantes en chicago"
+        ],
+        "link": "https://2001online.com/usa/servicios/comida-gratis-restaurantes-de-chicago-abren-sus-puertas-a-beneficiarios-de-snap-revisa-el-listado-completo-202511521400",
+        "date": "2025-11-06 01:40:00",
+        "sentiment_score": 0.498927541077137
+    },
+    {
+        "title": "Saren: ¿Cómo pedir tu partida de nacimiento desde casa?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "partida de nacimiento",
+            "saren on line",
+            "saren",
+            "código qr",
+            "documentos en linea"
+        ],
+        "link": "https://2001online.com/servicios/saren-como-pedir-tu-partida-de-nacimiento-desde-casa--202511521140",
+        "date": "2025-11-06 01:14:00",
+        "sentiment_score": -0.2661651521921158
+    },
+    {
+        "title": "Arroz chino venezolano en Nueva York: joven aprendió a cocinar en Venezuela y ahora deleita las calles de Brooklyn",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762385875149.jpg?ch=675&cw=1200",
+        "tags": [
+            "chino-venezolanos en eeuu",
+            "brooklyn",
+            "emprendedores venezolanos en eeuu"
+        ],
+        "link": "https://2001online.com/usa/internacionales/en-video-yony-hung-aprendio-a-hacer-arroz-chino-venezolano-y-ahora-es-la-sensacion-en-brooklyn-202511520110",
+        "date": "2025-11-06 01:00:00",
+        "sentiment_score": 0.8926913104951382
+    },
+    {
+        "title": "¿Paro general? Trabajadores de Starbucks anuncian huelga en EEUU: sepa el motivo",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "salario",
+            "huelga",
+            "starnucks"
+        ],
+        "link": "https://2001online.com/usa/internacionales/paro-general-trabajadores-de-starbucks-anuncian-huelga-en-eeuu-sepa-el-motivo-202511520590",
+        "date": "2025-11-06 00:59:00",
+        "sentiment_score": -0.817522406578064
+    },
+    {
+        "title": "¿Qué pasa con el Miss Universo 2025? un resumen de todos los escándalos que rodean al certamen",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "miss universo 2025",
+            "polémicas"
+        ],
+        "link": "https://2001online.com/farandula/que-pasa-con-el-miss-universo-2025-un-resumen-de-todos-los-escandalos-que-rodean-al-certamen-202511520150",
+        "date": "2025-11-06 00:15:00",
+        "sentiment_score": -0.7218401720747352
+    },
+    {
+        "title": "Policía Migratoria inspecciona hoteles de Caracas y Miranda: detalles aquí",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "hoteles",
+            "diario 2001",
+            "policía migratoria",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/nacionales/policia-migratoria-inspecciona-hoteles-de-caracas-y-miranda-detalles-aqui-20251152040",
+        "date": "2025-11-06 00:04:00",
+        "sentiment_score": 0.03552335873246193
     }
 ];
