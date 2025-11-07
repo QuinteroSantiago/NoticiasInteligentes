@@ -154,18 +154,6 @@ export default [
         "sentiment_score": -0.006044715642929077
     },
     {
-        "title": "Mazón se mantendrá como presidente en funciones y coge una baja médica",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/c4/media_thumb-link-4113610.webp?1762163826=",
-        "tags": [
-            "actualidad",
-            "mazón",
-            "dana"
-        ],
-        "link": "https://www.meneame.net/story/mazon-mantendra-como-presidente-funciones-coge-baja-medica",
-        "date": "2025-11-03 10:35:03",
-        "sentiment_score": -0.38964658975601196
-    },
-    {
         "title": "El Tribunal de Cuentas condena al exdirector de la Oficina Antifraude Daniel de Alfonso a devolver 82.341 euros",
         "image_url": "https://imagenes.elpais.com/resizer/v2/VK3KXIECQRPRJNVQI3EB6JUQ5I.jpg?auth=5be46e7adff13c2cb63f24e0fdfacb8c3be84951034bedd53dc2a83ab6cdf309&width=1200",
         "tags": [
@@ -289,55 +277,6 @@ export default [
         "link": "https://elpais.com/espana/2025-11-03/la-abogacia-del-estado-denuncia-la-investigacion-inquisitiva-e-invasiva-contra-garcia-ortiz-el-primer-dia-del-juicio-al-fiscal-general.html",
         "date": "2025-11-03 14:57:26",
         "sentiment_score": -0.3970916271209717
-    },
-    {
-        "title": "La UCO señala que Aldama pudo influir en el gobierno canario de Torres a través de Koldo y Ábalos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/57TH4G2YBFJJ3FGVJ2KVIJB444.jpg?auth=0d8a32ec6f5d5c664d2d71567353708ddc2bfc3e47141ddf81bf04fe26c022c5&width=1200",
-        "tags": [
-            "justicia",
-            "guardia civil",
-            "audiencia nacional",
-            "españa",
-            "corrupción",
-            "ángel víctor torres",
-            "uco",
-            "mascarillas"
-        ],
-        "link": "https://elpais.com/espana/2025-11-03/la-uco-senala-que-aldama-pudo-influir-en-el-gobierno-canario-de-torres-a-traves-de-koldo-y-abalos.html",
-        "date": "2025-11-03 14:07:34",
-        "sentiment_score": 0.028017107397317886
-    },
-    {
-        "title": "Feijóo celebra la dimisión de Mazón y pide a Vox que facilite “cuanto antes” la elección del sustituto",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KJ4VAYKVOVCPZHJ3VK3OGZF7R4.jpg?auth=f78742e37ba8e5223495fa3a6ad23acd1efe07ea5bee8c192920bed10adf1b99&width=1200",
-        "tags": [
-            "alberto núñez feijóo",
-            "vox",
-            "partidos políticos",
-            "españa",
-            "ppcv",
-            "carlos mazón",
-            "dimisiones políticas",
-            "inundaciones dana octubre 2024",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/2025-11-03/feijoo-celebra-la-dimision-de-mazon-y-pide-a-vox-que-facilite-cuanto-antes-la-eleccion-del-sustituto.html",
-        "date": "2025-11-03 14:04:59",
-        "sentiment_score": -0.939746817573905
-    },
-    {
-        "title": "Abascal acusa a Feijóo de entregar a Sánchez “un chivo expiatorio” con la dimisión de Mazón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/J3RYLZFNVROKJP3OF72I4GZBR4.jpg?auth=34636c24e2059bd172a4e5405b5c571aa5affb5e8b363c482fc237ac18fbc084&width=1200",
-        "tags": [
-            "vox",
-            "españa",
-            "carlos mazón",
-            "santiago abascal",
-            "inundaciones dana octubre 2024"
-        ],
-        "link": "https://elpais.com/espana/2025-11-03/abascal-acusa-a-feijoo-de-entregar-a-sanchez-un-chivo-expiatorio-con-la-dimision-de-mazon.html",
-        "date": "2025-11-03 13:56:14",
-        "sentiment_score": -0.37236758694052696
     },
     {
         "title": "Dos goles en tres minutos: la secuencia que le permitió a Argentina dar vuelta el partido ante Bélgica en el Mundial Sub 17",
@@ -8683,5 +8622,411 @@ export default [
         "link": "https://2001online.com/usa/servicios/gestion-postal-en-tu-movil-la-nueva-aplicacion-para-que-puedas-controlar-tus-paquetes-de-correo-desde-cualquier-lugar-de-eeuu-202511616430",
         "date": "2025-11-06 20:43:00",
         "sentiment_score": 0.5934435203671455
+    },
+    {
+        "title": "Barcelona descartó jugar amistoso con Perú en 2025, pero desde España aseguran que la chance seguirá abierta en 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/5Y6M7YYW7VECXLJJDJHPJLYOSU.jpg?auth=7022b10f9371b4af5d4d533499b49840663e9d41ca88399694dd879fc02ae47a&height=1080&smart=true&width=1920",
+        "tags": [
+            "fc barcelona",
+            "selección peruana",
+            "peru-deportes"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/11/07/barcelona-descarto-jugar-amistoso-con-peru-en-2025-pero-desde-espana-aseguran-que-la-chance-seguira-abierta-en-2026/",
+        "date": "2025-11-07 00:48:59",
+        "sentiment_score": -0.7316651456058025
+    },
+    {
+        "title": "¿Dejará Hoy? Andrea Legarreta revela que recibió propuesta para trabajar en España",
+        "image_url": "https://www.infobae.com/resizer/v2/G7ZCQ3LTWNCWBMMF72SBDYM63Y.jpg?auth=a58545865433ea93b97e76b87e58b205f82483865fd9191fde4f32510434b8e7&height=1080&smart=true&width=1920",
+        "tags": [
+            "televisa",
+            "hoy",
+            "andrea legarreta",
+            "mexico-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/11/07/dejara-hoy-andrea-legarreta-revela-que-recibio-propuesta-para-trabajar-en-espana/",
+        "date": "2025-11-07 00:17:31",
+        "sentiment_score": -0.215027816593647
+    },
+    {
+        "title": "Comprueba los números ganadores del Cupón Diario de la Once del 6 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "cupón diario",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/06/comprueba-los-numeros-ganadores-del-cupon-diario-de-la-once-del-6-de-noviembre/",
+        "date": "2025-11-06 23:15:29",
+        "sentiment_score": 0.17068176344037056
+    },
+    {
+        "title": "Rafa Nadal, en el America Business Forum: “El mayor éxito en la vida de cada uno es sentirse bien con uno mismo, estar rodeado de personas que le sumen en su día a día y tener una vida plena”",
+        "image_url": "https://www.infobae.com/resizer/v2/BUKB3DF46VDJVG3QPBJGKU44FE.png?auth=4200e3fcab6668592012c35888b7617998bfd938531fb32cf736d2d6a6abd5f9&height=869&smart=true&width=1880",
+        "tags": [
+            "america business forum",
+            "eeuu",
+            "miami",
+            "ignacio gonzález castro",
+            "españa-noticias",
+            "rafa nadal",
+            "internacional"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/06/rafa-nadal-en-el-america-business-forum-el-mayor-exito-en-la-vida-de-cada-uno-es-sentirse-bien-con-uno-mismo-estar-rodeado-de-personas-que-le-sumen-en-su-dia-a-dia-y-tener-una-vida-plena/",
+        "date": "2025-11-06 23:13:06",
+        "sentiment_score": 0.41493347100913525
+    },
+    {
+        "title": "La candidata oficialista a la presidencia en Chile se afianza en el primer puesto debido a la dispersión de la oposición",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/07/1502622379-ke0F-U701895369170vK-1200x840@diario_abc.jpg",
+        "tags": [
+            "chile",
+            "senado",
+            "gabriel boric",
+            "democracia cristiana",
+            "prensa",
+            "encuestas",
+            "santiago de chile",
+            "seguridad"
+        ],
+        "link": "https://www.abc.es/internacional/candidata-oficialista-presidencia-chile-afianza-primer-puesto-20251107012751-nt.html",
+        "date": "2025-11-07 00:29:47",
+        "sentiment_score": -0.056084245443344116
+    },
+    {
+        "title": "Le Duc Tho, el hombre que dijo no al Nobel de la Paz",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/c9/media_thumb-link-4114738.webp?1762433286=",
+        "tags": [
+            "vietnam",
+            "cultura",
+            "paz",
+            "le duc tho",
+            "premio nobel"
+        ],
+        "link": "https://www.meneame.net/story/duc-tho-hombre-dijo-no-nobel-paz",
+        "date": "2025-11-07 00:25:04",
+        "sentiment_score": -0.739008218050003
+    },
+    {
+        "title": "Mbappé, Lamine Yamal y Pedri nominados al The Best de la FIFA",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/11/fifa.jpg",
+        "tags": [
+            "fifa",
+            "fifa 2025",
+            "deportes"
+        ],
+        "link": "https://elsiglo.com.ve/mbappe-lamine-yamal-y-pedri-nominados-al-the-best-de-la-fifa/",
+        "date": "2025-11-07 02:12:55",
+        "sentiment_score": 0.0973469614982605
+    },
+    {
+        "title": "Los técnicos de Hacienda irán a la huelga por primera vez en 17 años el 26 de noviembre para protestar por la falta de medios",
+        "image_url": "https://phantom-elmundo.uecdn.es/6989ccb92a06969a4f1df62605fe2a60/crop/514x0/2562x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/20/17609823533524.jpg",
+        "tags": [
+            "artículos alejandra olcese",
+            "huelgas",
+            "economía"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/11/07/690cd46dfc6c8323788b458f.html",
+        "date": "2025-11-07 01:51:03",
+        "sentiment_score": -0.9215283803641796
+    },
+    {
+        "title": "NFL: Así recibe Roberto Carlos a la leyenda Dan Marino en el Bernabéu",
+        "image_url": "https://pxcdn.meridiano.net/112025/1762481531247.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/usa/nfl-/nfl-asi-recibe-roberto-carlos-a-la-leyenda-dan-marino-en-el-bernabeu-202511621410",
+        "date": "2025-11-07 01:41:00",
+        "sentiment_score": -0.20042766630649567
+    },
+    {
+        "title": "El 'no' categórico de Junts a los Presupuestos de Sánchez convertirá su presentación en un mero acto electoral",
+        "image_url": "https://s2.elespanol.com/2025/11/06/espana/politica/1003744003370_259798803_1706x960.jpg",
+        "tags": [
+            "carles puigdemont",
+            "junts per catalunya",
+            "presupuestos generales del estado",
+            "gobierno de españa",
+            "política",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251107/no-categorico-junts-presupuestos-sanchez-convertira-presentacion-mero-acto-electoral/1003744003051_0.html",
+        "date": "2025-11-07 01:31:40",
+        "sentiment_score": -0.4643950089812279
+    },
+    {
+        "title": "Los metadatos del informe de la UCO revelan que Koldo facilitó a Aldama el móvil de al menos otros 11 ministros y altos cargos",
+        "image_url": "https://s2.elespanol.com/2025/11/06/actualidad/1003744003354_259798501_1706x960.jpg",
+        "tags": [
+            "psoe (partido socialista obrero español)",
+            "ministerio de transporte",
+            "koldo garcía izaguirre",
+            "gobierno de españa",
+            "periodismo de investigación",
+            "política",
+            "víctor de aldama",
+            "josé luis ábalos",
+            "movilidad y agenda urbana"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251107/metadatos-informe-uco-revelan-koldo-facilito-aldama-movil-ministros-altos-cargos/1003744002768_0.html",
+        "date": "2025-11-07 01:31:28",
+        "sentiment_score": -0.5827145576477051
+    },
+    {
+        "title": "El PP andaluz busca afianzar la mayoría social",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/11/06/DE9BC460-AB2E-44AE-8EC1-8978D220619B/69.jpg?crop=1600%2C900%2Cx0%2Cy60&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/andaluz-busca-afianzar-mayoria-social_20251107690d4a0c5d5dad37ab838bb5.html",
+        "date": "2025-11-07 01:23:24",
+        "sentiment_score": -0.6116591431200504
+    },
+    {
+        "title": "La feroz crítica de Nico González a la FIFA por la ausencia de Julián Álvarez entre los nominados a The Best",
+        "image_url": "https://www.infobae.com/resizer/v2/Y23L4UMXJFFH5JTV6F5E7ARB6M.jpg?auth=f4ed1dca7b5beb7505f2f5059b6b3c5fd7276cab26b92bfbfa4c74e2bc05ec94&height=360&smart=true&width=640",
+        "tags": [
+            "deportes-internacional",
+            "selección argentina",
+            "nicolás gonzález",
+            "julián álvarez",
+            "atlético de madrid",
+            "the best"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/07/la-feroz-critica-de-nico-gonzalez-a-la-fifa-por-la-ausencia-de-julian-alvarez-entre-los-nominados-a-the-best/",
+        "date": "2025-11-07 01:12:54",
+        "sentiment_score": 0.5967123135924339
+    },
+    {
+        "title": "Messi, Julián Álvarez y dos novedades en lista de Scaloni para amistoso ante Angola",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2024/10/13090302/scaloni.jpeg",
+        "tags": [
+            "lionel messi",
+            "deportes",
+            "argentina",
+            "scaloni",
+            "fútbol"
+        ],
+        "link": "https://www.elnacional.com/2025/11/messi-julian-alvarez-y-dos-novedades-en-lista-de-scaloni-para-amistoso-ante-angola/",
+        "date": "2025-11-07 01:02:32",
+        "sentiment_score": 0.083808284252882
+    },
+    {
+        "title": "Un nuevo estudio azuza la polémica del cribado de cáncer de próstata: \"Su impacto sobre la mortalidad es muy escaso\"",
+        "image_url": "https://s2.elespanol.com/2025/11/04/ciencia/salud/1003743999598_259750607_1706x960.jpg",
+        "tags": [
+            "cáncer",
+            "salud",
+            "oncología",
+            "próstata"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20251107/nuevo-estudio-azuza-polemica-cribado-cancer-prostata-impacto-mortalidad-escaso/1003743998961_0.html",
+        "date": "2025-11-07 00:54:08",
+        "sentiment_score": -0.582246869802475
+    },
+    {
+        "title": "Gobierno y ASINCA lanzan una campaña para impulsar los productos Elaborados en Canarias en la Península",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2025/11/El-viceconsejero-de-Economia-Gustavo-Gonznalez-y-el-presidente-de-Asinca-Virgilio-Correa.jpg-1024x683.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/gobierno-y-asinca-lanzan-una-campana-para-impulsar-los-productos-elaborados-en-canarias-en-la-peninsula/",
+        "date": "2025-11-07 00:48:50",
+        "sentiment_score": 0.47562478855252266
+    },
+    {
+        "title": "Jorge Javier anuncia una novedad nunca vista que marcará las primeras semanas de 'Gran Hermano 20': \"Esta edición rompe las normas\"",
+        "image_url": "https://album.mediaset.es/eimg/2025/11/07/captura-de-pantalla-2025-11-07-023319_4d12.png",
+        "tags": [
+            "realities"
+        ],
+        "link": "https://www.telecinco.es/reality/20251107/gran-hermano-20-jorge-javier-vazquez-revela-concursantes-novedad-nunca-vista-marca-primeras-semanas_18_017488147.html",
+        "date": "2025-11-07 02:08:44",
+        "sentiment_score": 0.30098170042037964
+    },
+    {
+        "title": "¡Orgullo venezolano! Yessica Velásquez recibió doble nominación en los premios The Best de la Fifa",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Yessica-Velasquez-1.jpg",
+        "tags": [
+            "actualidad",
+            "deportes",
+            "vinotinto femenina",
+            "yessica velásquez",
+            "premios the best",
+            "club independiente santa fe"
+        ],
+        "link": "https://lapatilla.com/2025/11/06/orgullo-venezolano-yessica-velasquez-recibio-doble-nominacion-en-los-premios-the-best-de-la-fifa/",
+        "date": "2025-11-07 02:01:01",
+        "sentiment_score": 0.1487601324915886
+    },
+    {
+        "title": "Cirsa negocia entrar en los cajeros 'cripto' BitBase con un 40%",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/6ab68fff6012e86469eeedb1a9ca5a0a/crop/50x144/2001x1445/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/06/17624579359821.jpg",
+        "tags": [
+            "empresas>",
+            "fusiones y adquisiciones>",
+            "artículos pepe bravo>"
+        ],
+        "link": "https://www.expansion.com/empresas/2025/11/07/690cf996468aebb4418b459d.html",
+        "date": "2025-11-07 01:56:06",
+        "sentiment_score": 0.21051063016057014
+    },
+    {
+        "title": "España pierde el 3% de su oferta de alquiler, con las mayores caídas en las zonas tensionadas",
+        "image_url": "https://phantom-elmundo.uecdn.es/95acc8c53e6ace282f1e283955704ae3/crop/83x195/643x755/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16529079984891.jpg",
+        "tags": [
+            "artículos gabriela galarza",
+            "alquiler",
+            "vivienda"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2025/11/07/690cf2dce4d4d8ae638b45cc.html",
+        "date": "2025-11-07 01:51:01",
+        "sentiment_score": -0.6831911187618971
+    },
+    {
+        "title": "Lo antiguo",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20251107/antiguo_352728.html",
+        "date": "2025-11-07 00:30:00",
+        "sentiment_score": -0.1550740897655487
+    },
+    {
+        "title": "Un viaje de película: Llega a todos los cines la comedia venezolana más esperada",
+        "image_url": "https://pxcdn.meridiano.net/112025/1762475124487.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/farandula/un-viaje-de-pelicula-llega-a-todos-los-cines-la-comedia-venezolana-mas-esperada-202511620290",
+        "date": "2025-11-07 00:29:00",
+        "sentiment_score": 0.12556910887360573
+    },
+    {
+        "title": "Tragedia en Florida: devastador incendio destruye la casa del entrenador de Miami Heat",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762482434293.jpg?ch=675&cw=1200",
+        "tags": [
+            "miami",
+            "incendio en eeuu",
+            "incendio",
+            "miami heat",
+            "incendio en miami",
+            "erik spoelstra",
+            "florida"
+        ],
+        "link": "https://2001online.com/deportes/tragedia-en-florida-devastador-incendio-destruye-la-casa-del-entrenador-de-miami-heat-202511622340",
+        "date": "2025-11-07 01:36:02",
+        "sentiment_score": -0.8810009015724063
+    },
+    {
+        "title": "¿Cuántos bonos pagó el Sistema Patria en septiembre y octubre?: estos fueron los montos",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762477421756.jpg?ch=675&cw=1200",
+        "tags": [
+            "plataforma patria",
+            "sistema patria",
+            "bonos patria"
+        ],
+        "link": "https://2001online.com/nacionales/cuantos-bonos-pago-el-sistema-patria-en-septiembre-y-octubre-estos-fueron-los-montos-20251162130",
+        "date": "2025-11-07 01:03:00",
+        "sentiment_score": -0.1071784645318985
+    },
+    {
+        "title": "¡Aumento confirmado! Así quedan los salarios en California: son los más altos del país",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "california",
+            "salario",
+            "aumento"
+        ],
+        "link": "https://2001online.com/usa/servicios/aumento-confirmado-asi-quedan-los-salarios-en-california-son-los-mas-altos-del-pais--20251162100",
+        "date": "2025-11-07 01:00:00",
+        "sentiment_score": 0.5674468837678432
+    },
+    {
+        "title": "¡Emergencia aérea! Conoce la lista de aeropuertos que reducirán el tráfico de vuelos en EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762476383536.jpg?ch=675&cw=1200",
+        "tags": [
+            "eeuu",
+            "reducción de vuelos",
+            "cierre de gobierno"
+        ],
+        "link": "https://2001online.com/usa/internacionales/emergencia-aerea-conoce-la-lista-de-aeropuertos-que-reduciran-el-trafico-de-vuelos-en-eeuu--202511620460",
+        "date": "2025-11-07 00:46:00",
+        "sentiment_score": -0.7087718155235052
+    },
+    {
+        "title": "Efectivo y rápido: limpia el microondas sin usar productos químicos",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762440743664.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/efectivo-y-rapido-limpia-el-microondas-sin-usar-productos-quimicos-202511620300",
+        "date": "2025-11-07 00:30:00",
+        "sentiment_score": 0.7187663000077009
+    },
+    {
+        "title": "¿Se vienen los tigritos? Gianpiero Fusco y su prometida prometen un gran anuncio en redes",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "el tigre",
+            "influencer",
+            "gianpiero fusco"
+        ],
+        "link": "https://2001online.com/farandula/se-vienen-los-tigritos-gianpiero-fusco-y-su-prometida-prometen-un-gran-anuncio-en-redes--202511620100",
+        "date": "2025-11-07 00:10:00",
+        "sentiment_score": 0.11567772924900055
+    },
+    {
+        "title": "Elecciones California 2025: así es la Proposición 50 que redistribuye los distritos",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "distritos",
+            "enmienda",
+            "california"
+        ],
+        "link": "https://2001online.com/usa/internacionales/elecciones-california-2025-asi-es-la-proposicion-50-que-redistribuye-los-distritos-20251162000",
+        "date": "2025-11-07 00:00:00",
+        "sentiment_score": 0.14989206194877625
+    },
+    {
+        "title": "¡Sello boricua en La Nave! Yadier Molina dirigirá nuevamente al Magallanes",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "yadier molina",
+            "navegantes de magallanes"
+        ],
+        "link": "https://2001online.com/deportes/sello-boricua-en-la-nave-yadier-molina-dirigira-nuevamente-al-magallanes-202511619520",
+        "date": "2025-11-06 23:52:00",
+        "sentiment_score": 0.07258491218090057
+    },
+    {
+        "title": "Gobierno de Trump confiesa ante el Congreso: no tienen justificación legal para atacar a Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762472646685.jpg?ch=675&cw=1200",
+        "tags": [
+            "eeuu",
+            "donald trump",
+            "caribe"
+        ],
+        "link": "https://2001online.com/internacionales/gobierno-de-trump-confiesa-ante-el-congreso-no-tienen-justificacion-legal-para-atacar-a-venezuela-202511619440",
+        "date": "2025-11-06 23:44:00",
+        "sentiment_score": -0.6087250486016273
+    },
+    {
+        "title": "¿Ilegal o legal? Conoce la verdad sobre conducir con una sola mano en EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762473396169.jpg?ch=675&cw=1200",
+        "tags": [
+            "administración nacional de seguridad del tráfico en las carreteras (nhtsa)",
+            "department of transportation (dot)",
+            "departamento de vehículos de motor (dmv)"
+        ],
+        "link": "https://2001online.com/usa/servicios/ilegal-o-legal-conoce-la-verdad-sobre-conducir-con-una-sola-mano-en-eeuu-202511619440",
+        "date": "2025-11-06 23:44:00",
+        "sentiment_score": -0.5994081720709801
     }
 ];
