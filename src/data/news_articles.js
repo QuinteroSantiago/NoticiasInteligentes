@@ -1,308 +1,5 @@
 export default [
     {
-        "title": "Capacidad de los embalses en España este martes 4 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/N424ELVQZJHAFO2XXOBALRUREM.png?auth=bd795d8f0ec1698de766c177c925f018338672f4352ac995cb6eb11bcddea811&height=2576&smart=true&width=3863",
-        "tags": [
-            "noticias",
-            "agua",
-            "españa-noticias",
-            "embalses españa",
-            "sequía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/04/capacidad-de-los-embalses-en-espana-este-martes-4-de-noviembre/",
-        "date": "2025-11-04 06:15:58",
-        "sentiment_score": 0.10317439585924149
-    },
-    {
-        "title": "La tabla de goleadores de LaLiga de España al cierre de la jornada 11",
-        "image_url": "https://www.infobae.com/resizer/v2/TSOSPX2GYJH27AQP7FM3HSYXR4.jpg?auth=45a56cc038a0b688e5e0d5a91511eae92f188e317fb4cc4eff8204e695e1c629&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "goleadores",
-            "laliga"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/04/la-tabla-de-goleadores-de-laliga-de-espana-al-cierre-de-la-jornada-11/",
-        "date": "2025-11-04 06:15:40",
-        "sentiment_score": 0.8786542136222124
-    },
-    {
-        "title": "Luna llena del castor 2025: la superluna de noviembre será la más brillante del año",
-        "image_url": "https://www.infobae.com/resizer/v2/DSIQSTWLTRGHHJLQXKZNQAJOFI.jpg?auth=4a60826c4523c807e594ac55d41326bd4fba1e0d911b2d096a5ec013ccf74a68&height=2002&smart=true&width=2999",
-        "tags": [
-            "luna llena",
-            "españa-noticias",
-            "españa-sociedad",
-            "astronomia",
-            "estrellas",
-            "calendario lunar"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/04/luna-llena-del-castor-2025-la-superluna-de-noviembre-sera-la-mas-brillante-del-ano/",
-        "date": "2025-11-04 06:00:20",
-        "sentiment_score": 0.23134183883666992
-    },
-    {
-        "title": "El caso Isaac Martínez, a contrarreloj: la familia del joven asesinado a tiros en Lleida en 2006 reclama reabrir la investigación a poco más de un año de que prescriba",
-        "image_url": "https://www.infobae.com/resizer/v2/ZCCKDTX2NBEUPPNT2I7UY7YIZI.jpg?auth=2ccdbee13f0d57fd00b66e48add25ca3346516f5ef5ccfc0ee61774dc17e68c1&height=1131&smart=true&width=1920",
-        "tags": [
-            "españa-noticias",
-            "asesinatos",
-            "españa-sociedad",
-            "lleida",
-            "disparos",
-            "investigacion policial",
-            "crimenes reales",
-            "homicidio"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/04/el-caso-isaac-martinez-a-contrarreloj-la-familia-del-joven-asesinado-a-tiros-en-lleida-en-2006-reclama-reabrir-la-investigacion-a-poco-mas-de-un-ano-de-que-prescriba/",
-        "date": "2025-11-04 06:00:17",
-        "sentiment_score": -0.764134094119072
-    },
-    {
-        "title": "La crítica de Ramón Gener: “Lo que ha hecho Rosalía con ‘Berghain’ es más viejo que agacharse para cagar”",
-        "image_url": "https://www.infobae.com/resizer/v2/YPXMMELQ55CNZBOSNBD45NQPHY.jpg?auth=bbe936d38bf2fa2540846d6c72b5b93fe0d9e22a67217af261e0435580227373&height=1080&smart=true&width=1920",
-        "tags": [
-            "música",
-            "música españa",
-            "españa-noticias",
-            "rosalía",
-            "españa-cultura"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/11/04/la-critica-de-ramon-gener-lo-que-ha-hecho-rosalia-con-berghain-es-mas-viejo-que-agacharse-para-cagar/",
-        "date": "2025-11-04 05:38:10",
-        "sentiment_score": -0.17528150975704193
-    },
-    {
-        "title": "‘La que se avecina’ se reinventa como western en el desierto de Almería para su capítulo 200 y podrá verse en cines: fechas y ciudades en las que se proyectará el episodio",
-        "image_url": "https://www.infobae.com/resizer/v2/MBQ5Y4SDSFA3FFPE4EDKMHCQHQ.png?auth=14d067d51a04810db0c45d32507678910537f63bd3c5f2a4e2a216e6bf86ccc8&height=254&smart=true&width=483",
-        "tags": [
-            "series y peliculas",
-            "españa-noticias",
-            "españa-entretenimiento",
-            "prime video",
-            "series españa",
-            "series",
-            "la que se avecina",
-            "españa-cultura",
-            "cine",
-            "cine españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/04/la-que-se-avecina-se-reinventa-como-western-en-el-desierto-de-almeria-para-su-capitulo-200-y-podra-verse-en-cines-fechas-y-ciudades-en-las-que-se-proyectara-el-episodio/",
-        "date": "2025-11-04 05:38:07",
-        "sentiment_score": 0.16956612654030323
-    },
-    {
-        "title": "Cuántos euros me dan por un dólar este 4 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/7NQ2VALWDVEYBPUCGC3LFFUW3E.jpg?auth=1ddd663cca1fb0ddc1f77c839ac455899f847a00183cabd975f8de77b179ef6b&height=1080&smart=true&width=1920",
-        "tags": [
-            "monedas",
-            "noticias",
-            "euros",
-            "dólar",
-            "bancos españa",
-            "españa-economía",
-            "tipo de cambio",
-            "mercados",
-            "billetes"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/04/cuantos-euros-me-dan-por-un-dolar-este-4-de-noviembre/",
-        "date": "2025-11-04 05:15:30",
-        "sentiment_score": -0.23126408830285072
-    },
-    {
-        "title": "Un portátil sencillo, rápido y «regalado»: el Teclast de 17,3« con 16GB de RAM lo tiene todo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2025/11/03/image_20251103114413-RMBYva7AfD3MoxmsMSkxcjL-1200x840@diario_abc.png",
-        "tags": [
-            "electronica",
-            "favorito",
-            "portatiles"
-        ],
-        "link": "https://www.abc.es/favorito/electronica/portatiles/portatil-sencillo-rapido-regalado-teclast-173-16gb-20251103114459-nt.html",
-        "date": "2025-11-04 06:00:06",
-        "sentiment_score": -0.034749239683151245
-    },
-    {
-        "title": "Carlos Novillo, presente y futuro de la tauromaquia en la Comunidad de Madrid",
-        "image_url": "https://imagenes.cope.es/files/webp_80_80/uploads/2025/10/28/6900684b83dd5.jpeg",
-        "tags": [
-            "toros"
-        ],
-        "link": "https://www.cope.es/actualidad/toros/audios/carlos-novillo-presente-futuro-tauromaquia-madrid-20251104_3244655.html",
-        "date": "2025-11-04 06:27:03",
-        "sentiment_score": 0.034478455781936646
-    },
-    {
-        "title": "Natalio, el abuelo del Avilés que debutó en Primera con el Almería",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/11/04/6909963caf8b9.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/374654/natalio-abuelo-aviles-debuto-primera-almeria.html",
-        "date": "2025-11-04 06:12:03",
-        "sentiment_score": -0.5610739141702652
-    },
-    {
-        "title": "El regreso del chotis a la Plaza de Oriente 175 años después de su primer baile",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2025/11/04/6909981a6014f.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.eldebate.com/espana/madrid/20251104/regreso-chotis-plaza-oriente-175-anos-despues-primer-baile_351470.html",
-        "date": "2025-11-04 06:08:35",
-        "sentiment_score": -0.017837949097156525
-    },
-    {
-        "title": "Sinsabores históricos del Almería en el Alfonso Murube en un fútbol de otra época",
-        "image_url": "https://static.grupojoly.com/clip/faec6828-5ed7-4cf2-af69-92c9f39c4aae_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unión deportiva almería"
-        ],
-        "link": "https://www.diariodealmeria.es/ud-almeria/sinsabores-historicos-almeria-alfonso-murube_0_2005159495.html",
-        "date": "2025-11-04 06:07:06",
-        "sentiment_score": -0.9049390302971005
-    },
-    {
-        "title": "Bibliotecas",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "wikipedia",
-            "libros",
-            "internet",
-            "pueblos",
-            "badajoz"
-        ],
-        "link": "https://www.lacronicabadajoz.com/opinion/2025/11/04/bibliotecas-123329530.html",
-        "date": "2025-11-04 06:00:50",
-        "sentiment_score": -0.2544790655374527
-    },
-    {
-        "title": "Tres charlas, tres ideas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/81c812b5-c581-4c05-9789-c393d18344ea_16-9-aspect-ratio_default_0_x643y514.jpg",
-        "tags": [
-            "trabajo",
-            "charlas",
-            "unicaja"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2025/11/04/tres-charlas-tres-ideas-123322400.html",
-        "date": "2025-11-04 06:00:41",
-        "sentiment_score": 0.06775200366973877
-    },
-    {
-        "title": "Del abismo al sexto puesto: la metamorfosis del Espanyol pese a la cual Manolo no se libra de un juico constante",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/manolo-gonzalez-alaves-espanyol-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/espanyol-sexto-clasificado-criticas-manolo-gonzalez/",
-        "date": "2025-11-04 06:00:24",
-        "sentiment_score": 0.027519166469573975
-    },
-    {
-        "title": "Una de las provincias donde menos sube el precio del alquiler está en Cataluña",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/11/03/552DF36C-F705-400E-81EE-23B61269725E/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/provincias-donde-menos-sube-precio-alquiler-esta-cataluna_2025110469099675513f437cb8f71363.html",
-        "date": "2025-11-04 06:00:21",
-        "sentiment_score": -0.05882955715060234
-    },
-    {
-        "title": "Juanma Castaño explica qué le falta al Liverpool - Real Madrid: \"No pasa nada si pierdes\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/04/6909389889d64.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-explica-le-falta-liverpool-real-madrid-pasa-pierdes-20251104_3244627.html",
-        "date": "2025-11-04 06:00:00",
-        "sentiment_score": -0.10298708081245422
-    },
-    {
-        "title": "Mariel Silva, directora médica de SHA España: \"Hay que vivir con propósito, curiosidad y deseo de sumar vida a los años\"",
-        "image_url": "https://s2.elespanol.com/2025/11/03/actualidad/1003743996881_259718101_1706x960.jpg",
-        "tags": [
-            "medicina",
-            "referentes",
-            "envejecimiento"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/referentes/20251104/mariel-silva-directora-medica-sha-espana-vivir-proposito-curiosidad-deseo-sumar-vida-anos/1003743996802_0.html",
-        "date": "2025-11-04 06:30:00",
-        "sentiment_score": 0.3351469822227955
-    },
-    {
-        "title": "Ale Gomes protagoniza su propio reportaje",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/def3e694-baf4-46b5-b556-26045040cc76_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "real zaragoza"
-        ],
-        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2025/11/04/ale-gomes-protagoniza-propio-reportaje-123329519.html",
-        "date": "2025-11-04 06:19:52",
-        "sentiment_score": -0.16448082029819489
-    },
-    {
-        "title": "Oscar Tito, el influencer viral de la publicidad: \"La comedia no es terapia, pero me ayudó mucho\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/03/69089df493e4f.jpeg",
-        "tags": [
-            "gonzoo"
-        ],
-        "link": "https://www.20minutos.es/gonzoo/oscar-tito-influencer-viral-publicidad-comedia-no-es-terapia-no-cura-pero-me-ayudo-mucho-ser-quien-soy_6664241_0.html",
-        "date": "2025-11-04 06:17:56",
-        "sentiment_score": 0.7127453237771988
-    },
-    {
-        "title": "Temario \"inabarcable\" y gramática antigua: crispación de docentes de catalán por las reuniones de Selectividad",
-        "image_url": "https://static1.ara.cat/clip/74b01f53-e148-4f74-a900-a978dbae4e3f_16-9-aspect-ratio_default_0_x3077y1300.jpg",
-        "tags": [
-            "crispacion",
-            "docentes",
-            "antigua",
-            "temario",
-            "inabarcable",
-            "selectividad",
-            "gramatica",
-            "reuniones",
-            "catalan"
-        ],
-        "link": "https://es.ara.cat/sociedad/educacion/temario-inabarcable-gramatica-antigua-crispacion-docentes-catalan-reuniones-selectividad_1_5550330.html",
-        "date": "2025-11-04 06:03:18",
-        "sentiment_score": -0.43475156277418137
-    },
-    {
-        "title": "El aeropuerto de Vitoria estrena vuelos directos a Madrid y Barcelona",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ee749681-7787-4eff-b7c5-6d8b97b9b9f7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "directos",
-            "vuelos",
-            "aeropuerto",
-            "vitoria",
-            "estrena"
-        ],
-        "link": "https://www.noticiasdealava.eus/viajes/2025/11/04/aeropuerto-vitoria-estrena-vuelos-directos-10301368.html",
-        "date": "2025-11-04 06:01:47",
-        "sentiment_score": 0.5872346945106983
-    },
-    {
-        "title": "Meritxell Budó, presidenta de la ACM: \"Nuestra central de compras democratiza el acceso a la tecnología y la sostenibilidad\"",
-        "image_url": "https://s10.s3c.es/imag/_v0/2500x1364/8/1/9/1200x655_Imagne_Associacio_Catalana-de-Municipis.jpg",
-        "tags": [
-            "branded-content"
-        ],
-        "link": "https://www.eleconomista.es/branded-content/noticias/13618890/10/25/meritxell-budo-presidenta-de-la-acm-nuestra-central-de-compras-democratiza-el-acceso-a-la-tecnologia-y-la-sostenibilidad.html",
-        "date": "2025-11-04 06:00:41",
-        "sentiment_score": 0.2990691289305687
-    },
-    {
-        "title": "De Cataluña a la Culebra",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5c735fda-1e6c-4b4c-aa8d-6d05892ab5de_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cataluña,sierra de la culebra,barcelona,emprendimiento"
-        ],
-        "link": "https://www.laopiniondezamora.es/comarcas/2025/11/04/cataluna-culebra-123321103.html",
-        "date": "2025-11-04 06:00:40",
-        "sentiment_score": 0.41884309984743595
-    },
-    {
         "title": "Silvia Severino, psicóloga: “Estas señales indican que creciste con padres emocionalmente inestables”",
         "image_url": "https://www.infobae.com/resizer/v2/MIZI7RJBQRF5VE66DLK3SH5NMI.jpg?auth=649f3f15625f93286a7172361e84f459f667f14c0f238cfcb2dc2d9d792f1b8e&height=3915&smart=true&width=5873",
         "tags": [
@@ -468,47 +165,6 @@ export default [
         "link": "https://www.abc.es/espana/andalucia/gobierno-queda-solo-tras-error-tecnico-deslinde-20251104124121-nts.html",
         "date": "2025-11-04 11:41:22",
         "sentiment_score": -0.19789691269397736
-    },
-    {
-        "title": "Ana Botín carga contra la regulación bancaria: «3.500 normas en EE.UU. por 13.000 de Europa»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/11/04/1492059339-R0DhtxYetXSH896SOPsRzvI-1200x840@diario_abc.JPG",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/ana-botin-carga-regulacion-bancaria-3500-normas-20251104103452-nt.html",
-        "date": "2025-11-04 09:34:59",
-        "sentiment_score": -0.049661219120025635
-    },
-    {
-        "title": "El paro crece en 2.535 personas en octubre en Andalucía",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/11/04/terraza1-RE2UoPIZVuWed4qL3hC5XcP-1200x840@diario_abc.jpeg",
-        "tags": [
-            "sevilla",
-            "economía"
-        ],
-        "link": "https://www.abc.es/sevilla/economia/paro-crece-2535-personas-octubre-andalucia-20251104001106-nts.html",
-        "date": "2025-11-04 08:03:26",
-        "sentiment_score": 0.018167689442634583
-    },
-    {
-        "title": "Telefónica recorta el dividendo de 2026 a la mitad y Murtra tomará «todas las decisiones necesarias» para impulsar el grupo",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/11/04/marc-murtra-RSOBir7YrEIr9D9kQlbxXdM-1200x840@diario_abc.jpg",
-        "tags": [
-            "tomara",
-            "telefonica",
-            "impulsar",
-            "mitad",
-            "murtra",
-            "grupo",
-            "dividendo",
-            "necesarias",
-            "decisiones",
-            "2026",
-            "recorta"
-        ],
-        "link": "https://www.abc.es/economia/telefonica-recorta-dividendo-2026-mitad-murtra-tomara-20251104075849-nt.html",
-        "date": "2025-11-04 06:58:49",
-        "sentiment_score": 0.24870465695858002
     },
     {
         "title": "La librería valenciana Ramón Llull, Premio Librería Cultural 2025",
@@ -8406,5 +8062,556 @@ export default [
         "link": "https://2001online.com/comunidad/baruta-activa-nuevo-modelo-de-seguridad-escolar-claves-del-programa-y-servicios-202511710530",
         "date": "2025-11-07 14:53:00",
         "sentiment_score": 0.07020218670368195
+    },
+    {
+        "title": "Comprobar Bonoloto: los resultados ganadores para este 7 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2M3I6GTDRAKBDQBIJN7RTAJPE.png?auth=aa49b632d6506bc96a1ff7a3f2245bcfb6c28042071e793bc4355847be21fe47&height=900&smart=true&width=1600",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "bonoloto"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/07/comprobar-bonoloto-los-resultados-ganadores-para-este-7-de-noviembre/",
+        "date": "2025-11-07 21:15:33",
+        "sentiment_score": 0.6181680392473936
+    },
+    {
+        "title": "Desde España aseguran que ya hay fecha para enfrentar a la selección argentina en la Finalíssima: cuándo y dónde se jugaría",
+        "image_url": "https://www.infobae.com/resizer/v2/UBE5NZ5YF5EMXPDGZECZKDBCLQ.jpg?auth=0d652fdeec8f65595118160569c9fa3ddc5e838a779376e27beeaf5769fece7b&height=1080&smart=true&width=1920",
+        "tags": [
+            "lionel messi",
+            "finalissima",
+            "selección argentina",
+            "lamine yamal",
+            "selección de españa",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/07/desde-espana-aseguran-que-ya-hay-fecha-para-enfrentar-a-la-seleccion-argentina-en-la-finalissima-cuando-y-donde-se-jugaria/",
+        "date": "2025-11-07 21:02:07",
+        "sentiment_score": -0.07295513153076172
+    },
+    {
+        "title": "Resultados de Euromillones del 7 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/DF22RSLR7JHWNAJDJLQSSD4WYM.jpg?auth=884d85f7a5a7170273df2b8663f2491f108df738651f05b4bc51277e075aa471&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "euromillones"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/07/resultados-de-euromillones-del-7-de-noviembre/",
+        "date": "2025-11-07 21:00:37",
+        "sentiment_score": 0.5332283265888691
+    },
+    {
+        "title": "Estos son los ganadores del sorteo de Super Once del 7 noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/PCDXDXWPZJB6LIOCSUNLBJDF34.jpg?auth=b6d7597b0a20e3e1190f0aecdc169a58914bf651fed56619049789ca0c36a79f&height=1080&smart=true&width=1920",
+        "tags": [
+            "super once",
+            "españa-economía",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/07/estos-son-los-ganadores-del-sorteo-de-super-once-del-7-noviembre/",
+        "date": "2025-11-07 20:45:30",
+        "sentiment_score": 0.5728364270180464
+    },
+    {
+        "title": "Una mujer se ofrece a llevar a un policía en su coche para perseguir a unos ladrones: “En ese momento solo pensaba: ‘¿Cómo puedo ayudar?’”",
+        "image_url": "https://www.infobae.com/resizer/v2/3LCOE3KI2BBCDBVUTGPKYDUOPU.jpg?auth=6943749d0056d2306f31f28b03a9a3b95ff9062951018fb036278d71b8b18d20&height=405&smart=true&width=720",
+        "tags": [
+            "españa-sociedad",
+            "sucesos",
+            "robo",
+            "españa-noticias",
+            "crímenes",
+            "justicia",
+            "estados unidos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/07/una-mujer-se-ofrece-a-llevar-a-un-policia-en-su-coche-para-perseguir-a-unos-ladrones-en-ese-momento-solo-pensaba-como-puedo-ayudar/",
+        "date": "2025-11-07 20:03:40",
+        "sentiment_score": -0.6247637420892715
+    },
+    {
+        "title": "Estos son los resultados del sorteo de Eurojackpot del 7 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/Q7FNQIJEBVFCBNCYSSGYYQFK6A.jpg?auth=d0a8f05dacad4e8a73566665ba986c216d1358565751f754ffaeb9d98bf2f3be&height=1080&smart=true&width=1920",
+        "tags": [
+            "eurojackpot",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/07/estos-son-los-resultados-del-sorteo-de-eurojackpot-del-7-de-noviembre/",
+        "date": "2025-11-07 20:00:41",
+        "sentiment_score": 0.05989930033683777
+    },
+    {
+        "title": "Una madre se ofrece a llevar a un policía en su coche para perseguir a unos ladrones: “No lo pensé mucho”",
+        "image_url": "https://www.infobae.com/resizer/v2/ZSNJ6HW4XBDMPFJLSTTGNBH47A.jpg?auth=596a164aa6317af930c625b363d37064500bfaa4c3cdc0a885d0d60d430dde4a&height=852&smart=true&width=1280",
+        "tags": [
+            "españa-sociedad",
+            "sucesos",
+            "españa-noticias",
+            "robos",
+            "estados unidos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/07/una-madre-se-ofrece-a-llevar-a-un-policia-en-su-coche-para-perseguir-a-unos-ladrones-no-lo-pense-mucho/",
+        "date": "2025-11-07 19:46:09",
+        "sentiment_score": 0.7986977398395538
+    },
+    {
+        "title": "Koldo entregó a Ábalos la autorización de Sanidad de la empresa de los socios de Aldama: \"El pollo está en el horno\"",
+        "image_url": "https://www.infobae.com/resizer/v2/UILHZCWAAZC35HIIOOHOS4X35E.jpg?auth=3f0a6359f3be8f6ebfb2867c3a0c2b26bffb55bf79f7cadffe926a339a3f78bf&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/07/koldo-entrego-a-abalos-la-autorizacion-de-sanidad-de-la-empresa-de-los-socios-de-aldama-el-pollo-esta-en-el-horno/",
+        "date": "2025-11-07 19:15:38",
+        "sentiment_score": -0.03493613004684448
+    },
+    {
+        "title": "Abascal replica a Sánchez tachándole de \"mafioso climático\" y le acusa de cancelar las obras que habrían evitado la dana",
+        "image_url": "https://www.infobae.com/resizer/v2/V2IJVVPORJEPFKBSLXR5FN7BGM.jpg?auth=7a2aafd76343d1025104e71ece1588f69c18b2e1c3c33902ad8aeda904c63cac&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/07/abascal-replica-a-sanchez-tachandole-de-mafioso-climatico-y-le-acusa-de-cancelar-las-obras-que-habrian-evitado-la-dana/",
+        "date": "2025-11-07 18:32:05",
+        "sentiment_score": -0.9025658061727881
+    },
+    {
+        "title": "Qué serie ver esta noche en Prime Video España",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=1080&smart=true&width=1920",
+        "tags": [
+            "series",
+            "noticias",
+            "prime video",
+            "españa-televisión",
+            "streaming"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/07/que-serie-ver-esta-noche-en-prime-video-espana/",
+        "date": "2025-11-07 18:30:57",
+        "sentiment_score": -0.12162177264690399
+    },
+    {
+        "title": "La gala del Arte Sacro",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/11/04/Fentanilo-U51311103253kqT-170x119@Hoy.jpg",
+        "tags": [
+            "iglesia católica",
+            "sumar",
+            "arte religioso"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/francisco-jose-lopez-de-paz-gala-arte-sacro-20251108220106-nts.html",
+        "date": "2025-11-07 21:01:06",
+        "sentiment_score": -0.056744903326034546
+    },
+    {
+        "title": "Populismo capillita",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/11/07/respuesta-viral-restaurante-granada-mala-critica-kKx--170x119@Ideal.jpg",
+        "tags": [
+            "semana santa de sevilla"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/mario-daza-populismo-capillita-20251108220029-nts.html",
+        "date": "2025-11-07 21:00:29",
+        "sentiment_score": -0.10025835037231445
+    },
+    {
+        "title": "Política de vivienda, retrato de un fracaso",
+        "image_url": "https://s1.ppllstatics.com/lasprovincias/www/multimedia/2025/11/06/hombre-Stieber%20Szabolcs-Fotolia-kUDF--170x119@Las%20Provincias.jpg",
+        "tags": [
+            "vivienda",
+            "política",
+            "barómetro del cis"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/luis-montoto-politica-vivienda-retrato-fracaso-20251108191040-nts.html",
+        "date": "2025-11-07 21:00:28",
+        "sentiment_score": -0.09903901815414429
+    },
+    {
+        "title": "Robles replica a Junts que el Gobierno tiene muchas tareas pendientes y no va a parar",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KHYIEHHA6NI7NK64HBH4HNHHNM.jpg?auth=53ce1e2b7105419caf3043ab000df95a85a9ccf6ec652857ad6d4e13b9663648&width=1200",
+        "tags": [
+            "defensa",
+            "ministerio de defensa",
+            "españa",
+            "margarita robles"
+        ],
+        "link": "https://elpais.com/espana/2025-11-07/robles-replica-a-junts-que-el-gobierno-tiene-muchas-tareas-pendientes-y-no-va-a-parar.html",
+        "date": "2025-11-07 19:05:30",
+        "sentiment_score": 0.012194007635116577
+    },
+    {
+        "title": "Una fragata española libera a un barco con 24 tripulantes secuestrado por piratas en el Índico",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/I7BPHAE3EFDFRK76D5W2RZACU4.jpg?auth=a2eb5300fd74172bd08c1dc06b8b17f3f1d7c39f556615efb24e0cc68072e7eb&width=1200",
+        "tags": [
+            "somalia",
+            "mogadiscio",
+            "piratería marítima",
+            "españa",
+            "fragatas",
+            "barcos",
+            "secuestros",
+            "armada"
+        ],
+        "link": "https://elpais.com/espana/2025-11-07/una-fragata-espanola-libera-a-un-barco-con-24-tripulantes-secuestrado-por-piratas-en-el-indico.html",
+        "date": "2025-11-07 18:29:41",
+        "sentiment_score": -0.6979163531213999
+    },
+    {
+        "title": "Prisión provisional para el hombre de 51 años que violó a su vecina de 91 en un pueblo de Girona",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HF74EXIQCZBBFMLAHGRLGEV67Y.jpg?auth=14961f0b6059abff7fb2c16129398fcfc375831fd38cc4803109eb5d0e707bd9&width=1200",
+        "tags": [
+            "cataluña",
+            "agresiones sexuales",
+            "girona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-07/prision-provisional-para-el-hombre-de-51-anos-que-violo-a-su-vecina-de-91-en-un-pueblo-de-girona.html",
+        "date": "2025-11-07 18:23:49",
+        "sentiment_score": -0.4107663780450821
+    },
+    {
+        "title": "Madrid participa en la elaboración de la tableta de turrón más grande del mundo y desvelan la receta",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LCOSOA5PNBHULPTUBDE2PGMRWQ.jpg?auth=124009dceabca40b2eec2ab725cb2b3efea7d7a370fbd952a0b60182ecddd019&width=1200",
+        "tags": [
+            "hostelería",
+            "turrón",
+            "recetas cocina",
+            "alimentación",
+            "tradiciones navidad",
+            "madrid",
+            "récord guinness",
+            "comunidad de madrid"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-11-07/madrid-participa-en-la-elaboracion-de-la-tableta-de-turron-mas-grande-del-mundo-y-desvelan-la-receta.html",
+        "date": "2025-11-07 18:11:42",
+        "sentiment_score": 0.08957943320274353
+    },
+    {
+        "title": "Los mensajes del empresario Luis del Rivero al fiscal Stampa tras la reunión con Leire Díez: “El 1 es quien decide”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SJBFF7XS2VEZZDU3Y5XNAZT4VY.jpg?auth=8048f99ec2fa613f11c78686b8aaef55f8ab548a62032e8abcfd446c3ff166ce&width=1200",
+        "tags": [
+            "leire díez",
+            "tribunales",
+            "cohecho",
+            "tráfico influencias",
+            "fiscalía",
+            "españa",
+            "psoe",
+            "santos cerdán",
+            "fiscales",
+            "ignacio stampa"
+        ],
+        "link": "https://elpais.com/espana/2025-11-07/los-mensajes-del-empresario-luis-del-rivero-al-fiscal-stampa-sobre-la-reunion-con-leire-diez-el-1-es-quien-decide.html",
+        "date": "2025-11-07 18:04:02",
+        "sentiment_score": -0.036171749234199524
+    },
+    {
+        "title": "Cataluña rinde homenaje a Ernest Lluch, asesinado por ETA hace 25 años",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/M6KN76ZIX5PTNGSU37AQ5MFF2A.jpg?auth=b95b73123256b22567f9815d0aa4c174c4815306b40a8b3fe5ea83f15526ec08&width=1200",
+        "tags": [
+            "cataluña",
+            "salvador illa",
+            "ernest lluch",
+            "psc",
+            "jaume collboni",
+            "felipe gonzález márquez",
+            "terrorismo",
+            "homenajes",
+            "eta",
+            "víctimas terrorismo",
+            "mónica garcía gómez",
+            "barcelona"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-07/cataluna-rinde-homenaje-a-ernest-lluch-asesinado-por-eta-hace-25-anos.html",
+        "date": "2025-11-07 17:36:46",
+        "sentiment_score": 0.39035405963659286
+    },
+    {
+        "title": "Estas son las series de moda en Netflix Colombia hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/DKDQQ3L2WNBGZLX4AGIYGIIEUU.jpg?auth=1ea2adb9377b41ea05390d2e8a3f5052db84897c8aad11c6331aaff453b234c7&height=1080&smart=true&width=1920",
+        "tags": [
+            "colombia-entretenimiento",
+            "streaming",
+            "series",
+            "netflix",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/11/07/estas-son-las-series-de-moda-en-netflix-colombia-hoy/",
+        "date": "2025-11-07 22:15:34",
+        "sentiment_score": 0.2986009456217289
+    },
+    {
+        "title": "Crónica del Barça - Real Madrid: 92-101",
+        "image_url": "https://www.infobae.com/resizer/v2/LHUVQ6U5RREUREXBMQFHVUYNWY.jpg?auth=4921b0e820bb6ca443640c3398e846a897dc5c66ef11aa8b15189124cdf4c9c8&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/07/cronica-del-barca-real-madrid-92-101/",
+        "date": "2025-11-07 22:15:16",
+        "sentiment_score": -0.08012834936380386
+    },
+    {
+        "title": "Real Madrid le gana de nuevo al Barcelona y los abucheos se hacen sentir",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/baloncesto/baloncesto-internacional/real-madrid-le-gana-de-nuevo-al-barcelona-y-los-abucheos-se-hacen-sentir-202511718150",
+        "date": "2025-11-07 22:15:00",
+        "sentiment_score": -0.2419378198683262
+    },
+    {
+        "title": "El Real Madrid se adueña del Palau y Zalgiris frena la buena racha del Valencia",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/07/690e6c505bb58.r_d.1096-310-2240.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/real-madrid-aduena-palau-zalgiris-frena-buena-racha-valencia-20251107_3248240.html",
+        "date": "2025-11-07 22:02:35",
+        "sentiment_score": 0.02782958745956421
+    },
+    {
+        "title": "El Real Madrid sigue paséandose en el Palau",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/4b092f2d-59a9-41fa-963ecb507061d08b.jpg",
+        "tags": [
+            "nico gonzález",
+            "joan peñarroya",
+            "euroliga",
+            "fc barcelona",
+            "real madrid",
+            "sergio scariolo"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z9f8842ba-17ae-46c0-874e939a1eea8235/202511/el-real-madrid-sigue-paseandose-en-el-palau",
+        "date": "2025-11-07 22:00:16",
+        "sentiment_score": -0.7121649086475372
+    },
+    {
+        "title": "El Madrid acompleja al Barça a golpe de triples",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4f9a711f-657a-4197-abde-848b62afeaf7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "baloncesto",
+            "real madrid de baloncesto",
+            "fc barcelona de baloncesto",
+            "euroliga"
+        ],
+        "link": "https://www.lne.es/deportes/2025/11/07/madrid-acompleja-barca-golpe-triples-123493768.html",
+        "date": "2025-11-07 21:47:56",
+        "sentiment_score": -0.860102467238903
+    },
+    {
+        "title": "La derrota del Barça de basket contra el Real Madrid sentencia a un directivo de Laporta: gritos de dimisión en el Palau",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/culemania/secciones/1003742705706_15381237_1706x960.jpg",
+        "tags": [
+            "secciones",
+            "palau blaugrana",
+            "baloncesto",
+            "joan peñarroya",
+            "fcb basket"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20251107/barca-real-madrid-sentencia-laporta-gritosdedimision-palau/1003742705705_0.html",
+        "date": "2025-11-07 21:40:09",
+        "sentiment_score": -0.9338159691542387
+    },
+    {
+        "title": "Nueva liga europea de la NBA podría lanzarse en octubre de 2027",
+        "image_url": "https://dims.apnews.com/dims4/default/69bc482/2147483647/strip/true/crop/4880x3248+0+4/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2Fd1%2F3d0a3fb8bd7e1a881153b3600d8c%2F163b8b537e954906a13729704177e071",
+        "tags": [
+            "deportes",
+            "nba europa liga",
+            "sports",
+            "eurocopa 2024"
+        ],
+        "link": "https://apnews.com/article/nba-europa-liga-71516d9f715734582554d830168cd5b7",
+        "date": "2025-11-07 21:38:08",
+        "sentiment_score": 0.38783672265708447
+    },
+    {
+        "title": "Nueva liga europea de la NBA podría lanzarse en octubre de 2027",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/11/BUCKS_RAPTORS_49619.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/11/07/nueva-liga-europea-de-la-nba-podra-lanzarse-en-octubre-de-2027/",
+        "date": "2025-11-07 21:38:07",
+        "sentiment_score": 0.11054245382547379
+    },
+    {
+        "title": "Agenda de deportes del 7 al 9 de noviembre: Liga MX, futbol europeo, NFL y NBA",
+        "image_url": "https://www.infobae.com/resizer/v2/S3VJL7PYPZCXTF7B3MKWZHBW5I.JPG?auth=726e01e1ab963027d5976a1adc7c211e20de963fca14ffd256d2efd24ed6e365&height=3094&smart=true&width=4640",
+        "tags": [
+            "nfl",
+            "liga mx",
+            "nba",
+            "futbol mexicano",
+            "mexico-deportes",
+            "futbol europeo"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/11/07/agenda-de-deportes-del-7-al-9-de-noviembre-liga-mx-futbol-europeo-nfl-y-nba/",
+        "date": "2025-11-07 21:30:00",
+        "sentiment_score": 0.3331855945289135
+    },
+    {
+        "title": "Las células del Tren de Arauca desarticuladas en España se preparaban ya para la guerra con otras bandas",
+        "image_url": "https://phantom-elmundo.uecdn.es/057f77cfc4892cc67158a1d1f6d8fd5d/crop/122x0/1362x1240/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468504313638.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos cristina rubio",
+            "artículos gema peñalosa",
+            "drogas"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/07/690e5b2c21efa0351b8b45c1.html",
+        "date": "2025-11-07 21:54:10",
+        "sentiment_score": -0.12602735310792923
+    },
+    {
+        "title": "Rutas panorámicas, confort nocturno y experiencias únicas: así es el nuevo tren directo que unirá a tres países europeos",
+        "image_url": "https://www.infobae.com/resizer/v2/FUMBWW266FD6LPCYCJMU2A6AHE.jpg?auth=156b46314e0f0a46aa44d539383f25b366b3e95f5d46775843ba2be842072164&height=1446&smart=true&width=1920",
+        "tags": [
+            "europa",
+            "copenhague",
+            "basilea",
+            "newsroom bue",
+            "tren",
+            "suiza",
+            "mundo"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2025/11/07/rutas-panoramicas-confort-nocturno-y-experiencias-unicas-asi-es-el-nuevo-tren-directo-que-unira-a-tres-paises-europeos/",
+        "date": "2025-11-07 21:53:52",
+        "sentiment_score": 0.4067391939461231
+    },
+    {
+        "title": "Dónde ha caído el bote de 108 millones de euros del Euromillones y los premios de la Bonoloto, Eurojackpot y ONCE de hoy viernes 7 de noviembre",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2023/11/02/BB1B947C-4E08-43D6-9E95-A3A5CAD6CD08/administracion-loteria_98.jpg?crop=4040%2C2273%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-caido-bote-108-millones-euros-euromillones-premios-bonoloto-eurojackpot-once-hoy-viernes-7-noviembre_20251107690e6a605442607f2ff02504.html",
+        "date": "2025-11-07 21:53:36",
+        "sentiment_score": 0.06399206072092056
+    },
+    {
+        "title": "¡Victoria para DeSantis! Corte permite prohibir que extranjeros de estos países compren tierras en Florida: entre ellos venezolanos",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762550654530.jpg?ch=675&cw=1200",
+        "tags": [
+            "ron desantis",
+            "florida",
+            "ley sb 264"
+        ],
+        "link": "https://2001online.com/usa/internacionales/victoria-para-desantis-corte-permite-prohibir-que-extranjeros-de-estos-paises-compren-tierras-en-florida-entre-ellos-venezolanos-202511718150",
+        "date": "2025-11-07 22:15:00",
+        "sentiment_score": -0.09107007831335068
+    },
+    {
+        "title": "¡Más estrictos! Departamento de Estado de EEUU se pronuncia sobre el visado para inmigrantes",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "visas",
+            "migrantes",
+            "dhs"
+        ],
+        "link": "https://2001online.com/usa/internacionales/mas-estrictos-departamento-de-estado-de-eeuu-se-pronuncia-sobre-el-visado-para-inmigrantes-20251171800",
+        "date": "2025-11-07 22:00:00",
+        "sentiment_score": -0.03433892875909805
+    },
+    {
+        "title": "United Airlines publica la lista de vuelos cancelados en aeropuertos de EEUU: aquí las rutas más afectadas",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762552492150.jpg?ch=675&cw=1200",
+        "tags": [
+            "eeuu",
+            "cierre de gobierno",
+            "vuelos cancelados"
+        ],
+        "link": "https://2001online.com/usa/servicios/united-airlines-publica-la-lista-de-vuelos-cancelados-en-aeropuertos-de-eeuu-aqui-las-rutas-mas-afectadas-202511717520",
+        "date": "2025-11-07 21:52:00",
+        "sentiment_score": -0.8135450277477503
+    },
+    {
+        "title": "La 21a Cumbre Líderes Empresariales de Caracas anuncia fondo de inversión",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762551627909.jpg?ch=675&cw=1200",
+        "tags": [
+            "cumbre líderes empresariales"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/la-21-cumbre-lideres-empresariales-de-caracas-anuncia-fondo-de-inversion-202511717450",
+        "date": "2025-11-07 21:45:00",
+        "sentiment_score": 0.4362697973847389
+    },
+    {
+        "title": "Venezuela Sub-17: la próxima gran cita de la selección vinotinto",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762553777286.jpg?ch=675&cw=1200",
+        "tags": [
+            "mundial qatar 2025",
+            "venezuela sub 17",
+            "venezuela vs. egipto",
+            "venezuela",
+            "mundial",
+            "vinotinto sub 17",
+            "venezuela vs haití"
+        ],
+        "link": "https://2001online.com/deportes/venezuela-sub-17-la-proxima-gran-cita-de-la-seleccion-vinotinto-202511718200",
+        "date": "2025-11-07 21:38:42",
+        "sentiment_score": 0.4925276190042496
+    },
+    {
+        "title": "Aumenta matrícula de inscripción militar en Venezuela: Padrino López revela la cifra",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "venezuela",
+            "seguridad",
+            "diario 2001",
+            "militares"
+        ],
+        "link": "https://2001online.com/nacionales/aumenta-matricula-de-inscripcion-militar-en-venezuela-padrino-lopez-revela-la-cifra-202511717300",
+        "date": "2025-11-07 21:30:00",
+        "sentiment_score": -0.737020680680871
+    },
+    {
+        "title": "Convocatoria Vinotinto: la lista de jugadores que enfrentarán a Canadá y Australia",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762551566031.jpg?ch=675&cw=1200",
+        "tags": [
+            "federación venezolana de fútbol",
+            "vinotinto",
+            "fvf",
+            "fernando aristeguieta",
+            "selección vinotinto",
+            "venezuela",
+            "convocatoria venezuela"
+        ],
+        "link": "https://2001online.com/deportes/convocatoria-vinotinto-la-lista-de-jugadores-que-enfrentaran-a-canada-y-australia--202511717480",
+        "date": "2025-11-07 21:09:16",
+        "sentiment_score": 0.10395106673240662
+    },
+    {
+        "title": "Cierre de gobierno en EEUU: estos son algunos bancos de alimentos gratuitos en Washington D. C.",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "d.c.",
+            "gratis",
+            "comida"
+        ],
+        "link": "https://2001online.com/usa/servicios/cierre-de-gobierno-en-eeuu-estos-son-algunos-bancos-de-alimentos-gratuitos-en-washington-d-c--20251171700",
+        "date": "2025-11-07 21:00:00",
+        "sentiment_score": -0.18048757314682007
+    },
+    {
+        "title": "¡Acción de Gracias con dinero extra! California confirma cheques de estímulo: ¿Quiénes recibirán pagos en noviembre?",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762548240243.jpg?ch=675&cw=1200",
+        "tags": [
+            "california",
+            "pagos noviembre",
+            "cheque de estímulo"
+        ],
+        "link": "https://2001online.com/usa/servicios/accion-de-gracias-con-dinero-extra-california-confirma-cheques-de-estimulo-quienes-recibiran-pagos-en-noviembre--202511716400",
+        "date": "2025-11-07 20:40:00",
+        "sentiment_score": 0.1263870820403099
+    },
+    {
+        "title": "Precio del dólar y euro BCV para el 10 de noviembre: así se cotizarán las divisas oficiales",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762547211360/Captura%20de%20pantalla%20(566).png?ch=675&cw=1200",
+        "tags": [
+            "dólar latam"
+        ],
+        "link": "https://2001online.com/nacionales/precio-del-dolar-y-euro-bcv-para-el-10-de-noviembre-asi-se-cotizaran-las-divisas-oficiales-202511716200",
+        "date": "2025-11-07 20:20:00",
+        "sentiment_score": 0.003144212067127228
     }
 ];
