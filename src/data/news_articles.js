@@ -178,61 +178,6 @@ export default [
         "sentiment_score": -0.09803543984889984
     },
     {
-        "title": "De espía a gobernadora: Abigail Spanberger conquista Virginia",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/05/1502669542-k0P-U701885184443g6E-1200x840@diario_abc.jpg",
-        "tags": [
-            "partido demócrata estados unidos",
-            "estados unidos",
-            "cia",
-            "terrorismo",
-            "política",
-            "narcotráfico"
-        ],
-        "link": "https://www.abc.es/internacional/espia-gobernadora-abigail-spanberger-conquista-virginia-20251105135659-nt.html",
-        "date": "2025-11-05 12:57:00",
-        "sentiment_score": -0.12531700730323792
-    },
-    {
-        "title": "Un demócrata gana en Virginia pese a mensajes en los que fantaseó con asesinar a un rival político",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/05/G49FKyJWUAAP1A5-kBQI-U701885487773ZVF-1200x840@diario_abc.jpg",
-        "tags": [
-            "asesinar",
-            "pese",
-            "democrata",
-            "fantaseo",
-            "virginia",
-            "rival",
-            "politico",
-            "gana",
-            "mensajes"
-        ],
-        "link": "https://www.abc.es/internacional/democrata-gana-virginia-pese-mensajes-fantaseo-asesinar-20251105135536-nt.html",
-        "date": "2025-11-05 12:55:36",
-        "sentiment_score": -0.13415491580963135
-    },
-    {
-        "title": "El secreto de las castañas asadas de Málaga: «Son más blancas que en otros lugares»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/gurme/2025/11/05/castanas-archivo-RwZkan7yDyNgOLHTX9GD7IM-1200x840@diario_abc.jpg",
-        "tags": [
-            "gurmé",
-            "málaga"
-        ],
-        "link": "https://www.abc.es/gurme/malaga/secreto-castanas-asadas-malaga-blancas-lugares-20251105131455-nts.html",
-        "date": "2025-11-05 12:14:57",
-        "sentiment_score": -0.03493115305900574
-    },
-    {
-        "title": "Cajamar gana 263 millones hasta septiembre, un 6,9% más",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/sevilla/2025/11/05/cajamar1-RUwEIC9xLXkUvf8RLPDNkxI-1200x840@diario_abc.jpg",
-        "tags": [
-            "sevilla",
-            "economía"
-        ],
-        "link": "https://www.abc.es/sevilla/economia/cajamar-gana-263-millones-septiembre-20251105114834-nts.html",
-        "date": "2025-11-05 10:48:34",
-        "sentiment_score": 0.06740055978298187
-    },
-    {
         "title": "El fiscal Stampa asegura que Leire Díez se presentó como emisaria del PSOE",
         "image_url": "https://imagenes.elpais.com/resizer/v2/5ENZN7O33JBS7ORQQ6GRM6M4JI.jpg?auth=51943edbf8923b331dafe321c77f45408ae94732c99c332b42587afe3b7839bd&width=1200",
         "tags": [
@@ -306,112 +251,6 @@ export default [
         "link": "https://elpais.com/espana/2025-11-05/las-fuertes-lluvias-inundan-los-alrededores-de-la-estacion-de-caceres.html",
         "date": "2025-11-05 15:01:37",
         "sentiment_score": -0.8613425586372614
-    },
-    {
-        "title": "Algunos héroes de la dana en el Congreso: “Al día siguiente vivimos soledad, silencio y oscuridad”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AX7FHGHV5JJSVEE74I5EVUHQYQ.jpg?auth=776c0f5a66531ab8836f33cb5745b7fbc2b4b3b775169d4f27f6e8074d416856&width=1200",
-        "tags": [
-            "emergencias",
-            "generalitat valenciana",
-            "españa",
-            "barrancos",
-            "emergencia climática",
-            "congreso diputados",
-            "emergencias 112 gva",
-            "valencia",
-            "carlos mazón",
-            "inundaciones dana octubre 2024",
-            "pp"
-        ],
-        "link": "https://elpais.com/espana/2025-11-05/algunos-heroes-de-la-dana-en-el-congreso-al-dia-siguiente-vivimos-soledad-silencio-y-oscuridad.html",
-        "date": "2025-11-05 14:05:48",
-        "sentiment_score": -0.6773176863789558
-    },
-    {
-        "title": "Dos cargos del PSOE de Madrid aseguran que no fue el fiscal general quien les envió el texto del correo de la pareja de Ayuso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QWEFIYXHUVBXNH4GNKIKXONFAY.jpg?auth=a287948a0cb8a8ca03325023abc51899f6bb8f9319f06515c1851b708956160b&width=1200",
-        "tags": [
-            "álvaro garcía ortiz",
-            "juan lobato",
-            "españa",
-            "tribunal supremo",
-            "alberto gonzález amador",
-            "fiscalía general estado",
-            "revelación secretos",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/2025-11-05/dos-cargos-del-psoe-de-madrid-aseguran-que-no-fue-el-fiscal-general-quien-les-envio-el-texto-del-correo-de-la-pareja-de-ayuso.html",
-        "date": "2025-11-05 13:58:46",
-        "sentiment_score": -0.2901325449347496
-    },
-    {
-        "title": "La jueza de la dana cita como testigos a seis altos cargos de Mazón y al dueño de El Ventorro",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4U72PLK44JCJNMA2XUWEIQHXFU.jpg?auth=4019ba8c9dd466852d1931ed28efc7b8aecfd7d485a178196b01d5fe5ea49c9c&width=1200",
-        "tags": [
-            "catarroja",
-            "generalitat valenciana",
-            "tribunales",
-            "carlos mazón",
-            "salomé pradas",
-            "valencia",
-            "inundaciones",
-            "inundaciones dana octubre 2024",
-            "dana",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-05/la-jueza-de-la-dana-cita-como-testigos-a-seis-altos-cargos-de-mazon-y-al-dueno-de-el-ventorro.html",
-        "date": "2025-11-05 13:47:46",
-        "sentiment_score": -0.5696656703948975
-    },
-    {
-        "title": "Un estudio de la UB asegura que los cruceristas dejan 3,4 millones al día en Cataluña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZV72HAWHRVDMTAFZZUONGCWQ5Y.jpg?auth=c9a46b1ecf9fa4aa41375460b0a720a0f17123c1393c2ab3430af7887ea8152e&width=1200",
-        "tags": [
-            "turismo",
-            "pib",
-            "jaume collboni",
-            "barcelona",
-            "universidad",
-            "puertos",
-            "cruceros",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-05/un-estudio-de-la-ub-asegura-que-los-cruceristas-dejan-34-millones-al-dia-en-cataluna.html",
-        "date": "2025-11-05 13:41:05",
-        "sentiment_score": -0.6107472106814384
-    },
-    {
-        "title": "El juez desestima el recurso de la Fiscalía contra el archivo de la causa contra el excomisionado del Gobierno de la dana",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HPIES6KXRFFI7M2BM7ONMRDIHY.jpg?auth=716a4e5a81f35172a318fd1f5083c647099692b70abb883a392a2502a975f117&width=1200",
-        "tags": [
-            "tribunales",
-            "gobierno",
-            "comunidad valenciana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-05/el-juez-desestima-el-recurso-de-la-fiscalia-contra-el-archivo-de-la-causa-contra-el-excomisionado-del-gobierno-de-la-dana.html",
-        "date": "2025-11-05 12:54:11",
-        "sentiment_score": -0.7036623451858759
-    },
-    {
-        "title": "Un afectado por la ‘trama Eólica’ apunta en el juicio al exviceconsejero de Economía de Castilla y León: “Repartía el bacalao”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/BCKCJUG7PBC3RPHXIO2XCI43EA.jpg?auth=0325e337b27c81de33a345df9989b189b211da3908d2d83ef416555fc1fb8cf0&width=1200",
-        "tags": [
-            "españa",
-            "energía",
-            "empresarios",
-            "fiscalía",
-            "juicios",
-            "valladolid",
-            "corrupción",
-            "licencias",
-            "castilla y león",
-            "parques eólicos",
-            "energía eólica",
-            "energías renovables"
-        ],
-        "link": "https://elpais.com/espana/2025-11-05/un-afectado-por-la-trama-eolica-apunta-en-el-juicio-al-exviceconsejero-de-economia-de-castilla-y-leon-repartia-el-bacalao.html",
-        "date": "2025-11-05 12:53:54",
-        "sentiment_score": -0.8672046344727278
     },
     {
         "title": "Guardiola rechaza el debate electoral de RTVE mientras Vox y Unidas confirman su participación: \"Tiene miedo de que se conozcan sus mentiras\"",
@@ -8555,5 +8394,315 @@ export default [
         "link": "https://2001online.com/usa/servicios/entrada-legal-a-eeuu-el-unico-documento-que-te-permite-viajar-sin-necesidad-de-visa-ni-pasaporte-20251181600",
         "date": "2025-11-08 20:00:00",
         "sentiment_score": -0.07338891178369522
+    },
+    {
+        "title": "El fiscal y la balanza",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/11/08/cartas-director-1024x512-U70317316211nIn-1200x630@diario_abc.jpg",
+        "tags": [
+            "derecho",
+            "javier milei",
+            "gerona (provincia)",
+            "justicia",
+            "carlos mazón",
+            "españa",
+            "beas de segura",
+            "argentina",
+            "política",
+            "tribunal supremo (ts)",
+            "gabriel rufián"
+        ],
+        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-fiscal-balanza-20251108111519-nt.html",
+        "date": "2025-11-09 01:19:55",
+        "sentiment_score": -0.11995898187160492
+    },
+    {
+        "title": "La Policía disuelve con cargas una marcha neonazi en el centro de Madrid y detiene a tres personas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/MWSXZ6PW3ZMVFNZAP5EXWQ6X6U.jpg?auth=ac59099cf1294033a138b73833a792efb7ec7352d59953dddbc226bd3654905b&width=1200",
+        "tags": [
+            "ultraderecha",
+            "madrid",
+            "extrema derecha",
+            "violencia callejera",
+            "policía nacional",
+            "comunidad de madrid",
+            "nazismo",
+            "congreso diputados"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-11-08/la-policia-disuelve-con-cargas-una-marcha-neonazi-en-el-centro-de-madrid-y-detiene-a-tres-personas.html",
+        "date": "2025-11-08 22:30:33",
+        "sentiment_score": -0.8512583933770657
+    },
+    {
+        "title": "Tantas vidas como la de un rey",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rey",
+            "vidas"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/vidas-rey_0_2005199082.html",
+        "date": "2025-11-09 02:11:43",
+        "sentiment_score": -0.2549450546503067
+    },
+    {
+        "title": "El triángulo del cáncer de testículo en España: por qué en Badajoz, Huelva y Sevilla hay un mayor riesgo de muerte",
+        "image_url": "https://s3.elespanol.com/2025/11/07/actualidad/1003744004723_259816732_1706x960.jpg",
+        "tags": [
+            "salud",
+            "españa",
+            "cáncer"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20251109/triangulo-cancer-testiculo-espana-badajoz-huelva-sevilla-mayor-riesgo-muerte/1003744003195_0.html",
+        "date": "2025-11-09 01:59:54",
+        "sentiment_score": -0.6272589489817619
+    },
+    {
+        "title": "Griezmann anota dos goles y lidera al Atlético en victoria sobre Levante",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/5e7f2e2/2147483647/strip/true/crop/5207x2734+0+369/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa3%2F1f%2F8d5087474e9383d10ba1aee0267e%2Ff7349bca1e674379b68902c755ac367e.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-11-08/griezmann-anota-dos-goles-y-lidera-al-atletico-en-victoria-3-1-sobre-levante",
+        "date": "2025-11-09 01:33:24",
+        "sentiment_score": 0.5057284906506538
+    },
+    {
+        "title": "Dembelé, 'Kun' Agüero y Thomas Heurtel mantienen sus demandas contra el Barça: reclaman 15 millones de euros",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/culemania/palco/1003742705175_15372649_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "fcb basket",
+            "deco",
+            "joan laporta",
+            "kun agüero",
+            "ousmane dembelé",
+            "palco",
+            "víctor font"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251109/dembele-kun-aguero-thomas-heurtel-barca-millonesdeeuros/1003742705154_0.html",
+        "date": "2025-11-09 01:32:55",
+        "sentiment_score": -0.7797144111245871
+    },
+    {
+        "title": "Laporta multiplica los patrocinios del Barça desde que llegó a la presidencia: 45 sponsors en la actualidad",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/15/culemania/palco/1003742688904_15147376_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "joan laporta",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251109/laporta-multiplica-patrocinios-barca-presidencia-sponsors-actualidad/1003742705797_0.html",
+        "date": "2025-11-09 01:32:53",
+        "sentiment_score": 0.1452285498380661
+    },
+    {
+        "title": "Los Reyes inician su primer viaje oficial a China en pleno acercamiento del Gobierno al régimen de Xi Jinping",
+        "image_url": "https://s3.elespanol.com/2025/11/08/actualidad/1003744005587_259828139_1706x960.jpg",
+        "tags": [
+            "xi jinping",
+            "felipe vi",
+            "donald trump",
+            "pedro sánchez",
+            "españa",
+            "china"
+        ],
+        "link": "https://www.elespanol.com/espana/20251109/reyes-comenzaran-lunes-visita-china-felipe-vi-reunira-xi-jinping/1003744005526_0.html",
+        "date": "2025-11-09 01:22:01",
+        "sentiment_score": 0.2993801459670067
+    },
+    {
+        "title": "De Villa Cisneros a Dajla, Marruecos levanta su 'Dubái del Sáhara' a 50 años de la Marcha Verde: \"España se fue, nosotros la hicimos próspera\"",
+        "image_url": "https://s3.elespanol.com/2025/11/07/actualidad/1003744004963_259820381_1706x960.jpg",
+        "tags": [
+            "francia",
+            "islas canarias",
+            "marruecos",
+            "marcha verde",
+            "frente polisario",
+            "sáhara occidental",
+            "villa cisneros (sáhara)",
+            "reportajes",
+            "onu"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251109/villa-cisneros-dajla-marruecos-levanta-dubai-sahara-anos-marcha-verde-espana-hicimos-prospera/1003744004956_0.html",
+        "date": "2025-11-09 01:09:14",
+        "sentiment_score": -0.17846176028251648
+    },
+    {
+        "title": "Desarticulan por primera vez una célula del ‘Tren de Aragua’ asentada en España",
+        "image_url": "https://meridadigital.com.ve/wp-content/uploads/2025/11/DESARTICULAN-TREN-DE-ARAGUA-EN-ESPANA.jpeg",
+        "tags": [
+            "destacadas",
+            "mundo"
+        ],
+        "link": "https://meridadigital.com.ve/desarticulan-por-primera-vez-una-celula-del-tren-de-aragua-asentada-en-espana",
+        "date": "2025-11-09 02:00:57",
+        "sentiment_score": -0.5500444658100605
+    },
+    {
+        "title": "El golazo de Lionel Messi que abrió el marcador para el Inter Miami ante Nashville",
+        "image_url": "https://www.infobae.com/resizer/v2/I2HOTOG5KJHOVDDEEB7PXM3LTU.jpg?auth=a395df35edb807716cea45da04e680ded1f8371a983f2fa87cf090cc4c53179d&height=2347&smart=true&width=3521",
+        "tags": [
+            "nashville",
+            "inter miami",
+            "lionel messi",
+            "mls",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/09/el-golazo-de-lionel-messi-que-abrio-el-marcador-para-el-inter-miami-ante-nashville/",
+        "date": "2025-11-09 01:54:50",
+        "sentiment_score": -0.08941569924354553
+    },
+    {
+        "title": "Los 73 jugadores de La Masía en las cinco grandes ligas europeas: la segunda cantera más valiosa del mundo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/05/culemania/secciones/1003742686493_15103524_1706x960.jpg",
+        "tags": [
+            "barça",
+            "la masía",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251109/jugadores-masia-grandes-europeas-segunda-cantera-valiosa/1003742705864_0.html",
+        "date": "2025-11-09 01:52:27",
+        "sentiment_score": 0.8359511643648148
+    },
+    {
+        "title": "Mónica, Jota y los 360 ahogados por deudas de 21 millones salvados por Los Morancos: \"Los llamamos y no se lo creen\"",
+        "image_url": "https://s3.elespanol.com/2025/11/06/actualidad/1003744003131_259795548_1706x960.jpg",
+        "tags": [
+            "andalucía",
+            "deudas",
+            "césar cadaval",
+            "morosidad",
+            "los morancos",
+            "jorge cadaval",
+            "españa",
+            "reportajes",
+            "directivas comunitarias"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251109/monica-jota-ahogados-deudas-millones-salvados-morancos-llamamos-no-creen/1003744003014_0.html",
+        "date": "2025-11-09 01:33:14",
+        "sentiment_score": -0.078820139169693
+    },
+    {
+        "title": "El faraónico proyecto de Abel Caballero para que el campo del Celta sea sede del Mundial de 2030: tras los pasos de Camp Nou",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/09/culemania/palco/1003742705875_15383275_1706x960.jpg",
+        "tags": [
+            "laliga",
+            "camp nou",
+            "culemaníacos"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251109/faraonico-abel-caballero-celta-mundial-camp-nou/1003742704991_0.html",
+        "date": "2025-11-09 01:32:52",
+        "sentiment_score": 0.48900230415165424
+    },
+    {
+        "title": "Reconocida marca de belleza da sus “consejos beauty”: tips infalibles para mujeres mayores de 50 años",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762370590724/Captura%20de%20pantalla%202025-11-05%20a%20la(s)%203.22.48%20p.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/reconocida-marca-de-belleza-da-sus-consejos-beauty-tips-infalibles-para-mujeres-mayores-de-50-anos-20251182200",
+        "date": "2025-11-09 02:00:00",
+        "sentiment_score": 0.6190727930516005
+    },
+    {
+        "title": "Washington D. C. extiende la edad para el toque de queda nocturno: sepa cuál es el nuevo límite",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/usa/internacionales/washington-d-c-extiende-la-edad-para-el-toque-de-queda-nocturno-sepa-cual-es-el-nuevo-limite--20251182200",
+        "date": "2025-11-09 02:00:00",
+        "sentiment_score": 0.371833935379982
+    },
+    {
+        "title": "Nueva ruta marítima entre China y Venezuela: ¿A cuántos días se reducen los tiempos de espera?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/nacionales/nueva-ruta-maritima-entre-china-y-venezuela-a-cuantos-dias-se-reducen-los-tiempos-de-espera--202511821590",
+        "date": "2025-11-09 01:59:00",
+        "sentiment_score": -0.1823771893978119
+    },
+    {
+        "title": "¡Pavoroso escándalo pasional! El alcalde de Fort Lauderdale vive toda una película de terror",
+        "image_url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Q4hqm.img?d=260&h=344&m=6&s=260&w=612&x=1486&y=222",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/usa/internacionales/pavoroso-escandalo-pasional-el-alcalde-de-fort-lauderdale-vive-toda-una-pelicula-de-terror-202511821520",
+        "date": "2025-11-09 01:52:00",
+        "sentiment_score": -0.4713016636669636
+    },
+    {
+        "title": "¡Caracas vence a Magallanes con autoridad! El pitcheo de Torres frena en seco a la Nave Turca",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "sports"
+        ],
+        "link": "https://2001online.com/deportes/caracas-vence-a-magallanes-con-autoridad-el-pitcheo-de-torres-frena-en-seco-a-la-nave-turca-20251182210",
+        "date": "2025-11-09 01:04:53",
+        "sentiment_score": 0.6544209979474545
+    },
+    {
+        "title": "Alarma en La Vinotinto: Jon Aramburu sufre un traumatismo craneoencefálico",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762649144500/Jon-Aramburu-Real-Sociedad.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/deportes/alarma-en-la-vinotinto-jon-aramburu-sufre-un-traumatismo-craneoencefalico-20251182100",
+        "date": "2025-11-09 00:05:10",
+        "sentiment_score": -0.7808107454329729
+    },
+    {
+        "title": "Top 10 de países que más ayudan a desconocidos: ¿Qué lugar ocupa Venezuela?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "crime"
+        ],
+        "link": "https://2001online.com/curiosidades/top-10-de-paises-que-mas-ayudan-a-desconocidos-que-lugar-ocupa-venezuela--20251182000",
+        "date": "2025-11-09 00:00:00",
+        "sentiment_score": 0.14269926398992538
+    },
+    {
+        "title": "Macy's anuncia los artistas que estarán en su tradicional desfile de Acción de Gracias: sepa cuándo será",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://2001online.com/usa/servicios/macy-s-anuncia-los-artistas-que-estaran-en-su-tradicional-desfile-de-accion-de-gracias-sepa-cuando-sera-20251182000",
+        "date": "2025-11-09 00:00:00",
+        "sentiment_score": 0.746583066880703
+    },
+    {
+        "title": "A 20 años luz de distancia: Científicos confirman el hallazgo de un exoplaneta",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://2001online.com/curiosidades/a-20-anos-luz-de-distancia-cientificos-confirman-el-hallazgo-de-un-exoplaneta-20251182000",
+        "date": "2025-11-09 00:00:00",
+        "sentiment_score": 0.6922040060162544
+    },
+    {
+        "title": "Chicago bajo tensión: reportan tiroteo y disturbios en medio de un operativo de la Patrulla Fronteriza",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762642868174.jpg?ch=675&cw=1200",
+        "tags": [
+            "chicago",
+            "border patrol",
+            "department of homeland security (dhs)"
+        ],
+        "link": "https://2001online.com/usa/sucesos/chicago-bajo-tension-reportan-tiroteo-y-disturbios-en-medio-de-un-operativo-de-la-patrulla-fronteriza-20251181910",
+        "date": "2025-11-08 23:20:00",
+        "sentiment_score": -0.7618049029260874
     }
 ];
