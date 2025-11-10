@@ -1,348 +1,5 @@
 export default [
     {
-        "title": "Qué pasa si comes mandarinas todos los días",
-        "image_url": "https://www.infobae.com/resizer/v2/JSHUCOHCGFD7JLPJDUR3KU2MUA.jpg?auth=46307099cbb5b7018705c5d180d35804fb8c9b4f722183b0cb07b17c442c6557&height=1080&smart=true&width=1920",
-        "tags": [
-            "nutrición españa",
-            "alimentación saludable",
-            "nutrición",
-            "españa-salud",
-            "mandarinas",
-            "frutas",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/06/que-pasa-si-comes-mandarinas-todos-los-dias/",
-        "date": "2025-11-06 06:35:22",
-        "sentiment_score": 0.7799973487854004
-    },
-    {
-        "title": "Embalses España: la reserva de agua bajó este 6 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/ZCPV6775XRB5DPEFENUCEFG2EA.png?auth=205756b17da068a8ecca24602fa6cff95eba7e5175a2b73da71603adff4b7941&height=2343&smart=true&width=3514",
-        "tags": [
-            "españa-noticias",
-            "noticias",
-            "embalses españa",
-            "agua",
-            "sequía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/06/embalses-espana-la-reserva-de-agua-bajo-este-6-de-noviembre/",
-        "date": "2025-11-06 06:15:52",
-        "sentiment_score": 0.054894618690013885
-    },
-    {
-        "title": "¿Dónde hace calor en diciembre? Los mejores destinos para disfrutar del buen tiempo en invierno",
-        "image_url": "https://www.infobae.com/resizer/v2/6HMQVL7OUFC55IMEC2I4JO6YJU.jpeg?auth=323551ce2687141a750f542b844c543ca7bf52aae665731ab4853209ebf2be68&height=1725&smart=true&width=3066",
-        "tags": [
-            "vacaciones",
-            "vacaciones españa",
-            "hemisferio sur",
-            "españa-noticias",
-            "españa-viajes",
-            "viajes y turismo",
-            "destinos turisticos",
-            "temperaturas"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/06/donde-hace-calor-en-diciembre-los-mejores-destinos-para-disfrutar-del-buen-tiempo-en-invierno/",
-        "date": "2025-11-06 05:39:47",
-        "sentiment_score": 0.5553571917116642
-    },
-    {
-        "title": "Intento de homicidio en Girona: la víctima sigue ingresada y su pareja y presunto agresor, en libertad provisional",
-        "image_url": "https://www.infobae.com/resizer/v2/R6FJ4D6VUNB2DERYMFHPFZKMGY.jpg?auth=7cd3ea248d63a4c83b9567005009989b6908a7d1fcde5a23a40c27518bc13d1a&height=1280&smart=true&width=1920",
-        "tags": [
-            "violencia machista",
-            "españa-noticias",
-            "españa-sociedad",
-            "girona",
-            "violencia de género",
-            "intento de homicidio",
-            "intento de asesinato"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/06/intento-de-homicidio-en-girona-la-victima-sigue-ingresada-y-su-pareja-y-presunto-agresor-en-libertad-provisional/",
-        "date": "2025-11-06 05:39:45",
-        "sentiment_score": -0.8079448696225882
-    },
-    {
-        "title": "¿Cuánta agua es suficiente para mantener unos riñones sanos? Claves para regular el ácido úrico",
-        "image_url": "https://www.infobae.com/resizer/v2/TAG24WRQWNFE5PK5SYKGHAS4R4.jpg?auth=40ca81397bfca212a5bd12f965d3aaf8715440001de8342923d2425778e4d6b1&height=864&smart=true&width=1536",
-        "tags": [
-            "hábitos saludables",
-            "españa-noticias",
-            "españa-salud",
-            "riñones",
-            "salud renal",
-            "ácido úrico",
-            "hidratación",
-            "agua"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/06/cuanta-agua-es-suficiente-para-mantener-unos-rinones-sanos-claves-para-regular-el-acido-urico/",
-        "date": "2025-11-06 05:39:42",
-        "sentiment_score": 0.2795298360288143
-    },
-    {
-        "title": "Arthur Brooks, profesor de Harvard: “Empezar bien el día es fundamental, ya que es la primera batalla para combatir el malestar y mejorar mi bienestar”",
-        "image_url": "https://www.infobae.com/resizer/v2/I6DKBBRZBBC2DPGSAKMRHUASRE.jpg?auth=a21338b19325ff548c7317ce1bb609a1d4d9d8ba700268b6346d3117685b9626&height=1080&smart=true&width=1920",
-        "tags": [
-            "ritmo circadiano",
-            "españa-noticias",
-            "habitos saludables",
-            "rutina",
-            "españa-salud",
-            "harvard",
-            "habitos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/06/arthur-brooks-profesor-de-harvard-empezar-bien-el-dia-es-fundamental-ya-que-es-la-primera-batalla-para-combatir-el-malestar-y-mejorar-mi-bienestar/",
-        "date": "2025-11-06 05:39:40",
-        "sentiment_score": 0.037903010845184326
-    },
-    {
-        "title": "Amnistía Internacional denuncia que persisten barreras para acceder al aborto en España pese a los avances legales",
-        "image_url": "https://www.infobae.com/resizer/v2/A34WD5YH4VD3BMMVYYLKCHXWCU.jpg?auth=af3b801648b0c81d67d7434170f5e964fe1b7bb8503d45c4e7b7300740e3c045&height=1280&smart=true&width=1920",
-        "tags": [
-            "interrupción del embarazo",
-            "españa-noticias",
-            "españa-sociedad",
-            "aborto",
-            "derecho al aborto",
-            "amnistía internacional"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/06/amnistia-internacional-denuncia-que-persisten-barreras-para-acceder-al-aborto-en-espana-pese-a-los-avances-legales/",
-        "date": "2025-11-06 05:39:38",
-        "sentiment_score": -0.39208899810910225
-    },
-    {
-        "title": "Silvia Severino, psicóloga, sobre el amor: “El tiempo no lo cura todo, solo lo adormece”",
-        "image_url": "https://www.infobae.com/resizer/v2/QK46YOC6ANE4TNBRHK2FM4THXY.jpg?auth=c16d8e65073307b8f70517148748db5c9139d9785b6499b8b3bdef4c3bb22fa8&height=1080&smart=true&width=1920",
-        "tags": [
-            "relaciones sexuales",
-            "psicología",
-            "españa-noticias",
-            "españa-sociedad",
-            "tiktok españa",
-            "tiktok"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/06/silvia-severino-psicologa-sobre-el-amor-el-tiempo-no-lo-cura-todo-solo-lo-adormece/",
-        "date": "2025-11-06 05:39:36",
-        "sentiment_score": 0.19197329878807068
-    },
-    {
-        "title": "“Tu perro tiene el mismo comportamiento que tiene un bebé con su madre”: un veterinario lo explica",
-        "image_url": "https://www.infobae.com/resizer/v2/S4UM55A4JRHCLDBZYCIPD62BHU.jpg?auth=20a1850ce2dab550fffeec915513d31e253c51a771a0489cb5ef02acce834265&height=1080&smart=true&width=1920",
-        "tags": [
-            "médico veterinario",
-            "españa-noticias",
-            "españa-sociedad",
-            "animales",
-            "tiktok españa",
-            "tiktok",
-            "mascotas",
-            "veterinario"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/06/tu-perro-tiene-el-mismo-comportamiento-que-tiene-un-bebe-con-su-madre-un-veterinario-lo-explica/",
-        "date": "2025-11-06 05:39:33",
-        "sentiment_score": -0.2919264957308769
-    },
-    {
-        "title": "El mejor momento del día para comer nueces y obtener todos sus beneficios",
-        "image_url": "https://www.infobae.com/resizer/v2/EHKMOI3WARCLVJW7T422YFXB4U.jpg?auth=53799ff53bb74ecf3ff824e9db9658739aefb304a50e0a2a49eaa649e0ada94d&height=408&smart=true&width=612",
-        "tags": [
-            "españa-salud",
-            "nueces",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/06/el-mejor-momento-del-dia-para-comer-nueces-y-obtener-todos-sus-beneficios/",
-        "date": "2025-11-06 05:39:23",
-        "sentiment_score": 0.7690466735512018
-    },
-    {
-        "title": "Escaso valor político e inmerecido hacia Ceuta y Melilla",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2022/09/paracaidas-bandera-ceuta-espana-750x500.jpg",
-        "tags": [
-            "opinión",
-            "colaboraciones"
-        ],
-        "link": "https://elfarodeceuta.es/escaso-valor-politico-inmerecido-ceuta-melilla/",
-        "date": "2025-11-06 06:31:36",
-        "sentiment_score": -0.03730207681655884
-    },
-    {
-        "title": "Amnistía Internacional alerta sobre los obstáculos para abortar en el Estado español",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5608cc5f-574f-4e27-b8fe-ff4e7d3e4b20_16-9-aspect-ratio_default_0_x2053y1372.jpg",
-        "tags": [
-            "internacional",
-            "amnistia",
-            "abortar",
-            "obstaculos",
-            "alerta"
-        ],
-        "link": "https://www.deia.eus/actualidad/sociedad/2025/11/06/amnistia-internacional-alerta-obstaculos-abortar-10310139.html",
-        "date": "2025-11-06 06:21:50",
-        "sentiment_score": -0.8792584659531713
-    },
-    {
-        "title": "50 años de la Marcha Verde: España tuvo un plan de guerra contra Marruecos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/453e972d-fb5d-49bd-8fa7-3511199fc5ff_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "marruecos",
-            "ejército del aire",
-            "franquismo",
-            "ejército de tierra",
-            "sáhara occidental",
-            "armada",
-            "transicion"
-        ],
-        "link": "https://www.lne.es/espana/2025/11/06/50-anos-marcha-verde-espana-plan-guerra-marruecos-123410802.html",
-        "date": "2025-11-06 06:16:25",
-        "sentiment_score": -0.2885187566280365
-    },
-    {
-        "title": "Los 6 asuntos que el rey Juan Carlos I 'olvida' en sus memorias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eb207523-eb94-4fca-8947-09c0a1a35497_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "juan carlos i",
-            "letizia",
-            "sáhara occidental",
-            "felipe vi"
-        ],
-        "link": "https://www.laopiniondemalaga.es/nacional/2025/11/06/asuntos-rey-juan-carlos-sobrevuela-libro-reconciliacion-123410664.html",
-        "date": "2025-11-06 06:15:02",
-        "sentiment_score": -0.8577787913382053
-    },
-    {
-        "title": "El 112 recibe 117 llamadas por el episodio de lluvias en Catalunya hasta las 6 horas",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251106073541_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-112-recibe-117-llamadas-episodio-lluvias-catalunya-horas-20251106073541.html",
-        "date": "2025-11-06 06:35:41",
-        "sentiment_score": -0.44452061131596565
-    },
-    {
-        "title": "Sr. Antúnez: la coctelería a la que iba Miguel Bosé es ahora un bistró mediterráneo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1cca7f86-a159-4a4d-8c43-fac37ed1d111_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "restaurantes barcelona",
-            "restaurante",
-            "cóctel y coctelerías",
-            "dónde comer hoy",
-            "gastronomía",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251106/restaurante-sr-antunez-barcelona-123229999",
-        "date": "2025-11-06 06:33:02",
-        "sentiment_score": -0.21477016806602478
-    },
-    {
-        "title": "Lamine Yamal y la bañera de Otranto",
-        "image_url": "https://static1.ara.cat/clip/8ea070cd-c127-4b51-aff3-f16771b050c7_16-9-aspect-ratio_default_0_x1275y840.jpg",
-        "tags": [
-            "yamal",
-            "banera",
-            "lamine",
-            "otranto"
-        ],
-        "link": "https://es.ara.cat/economia/empresas/lamine-yamal-banera-otranto_1_5552679.html",
-        "date": "2025-11-06 06:31:04",
-        "sentiment_score": -0.23769035935401917
-    },
-    {
-        "title": "¿Qué decide hoy Estrasburgo sobre las causas del proceso?",
-        "image_url": "https://static1.ara.cat/clip/5ab1490b-03f8-487f-b69e-dae8f0c02a5b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "proceso",
-            "hoy",
-            "causas",
-            "estrasburgo",
-            "decide"
-        ],
-        "link": "https://es.ara.cat/politica/decide-hoy-estrasburgo-causas-proceso_1_5552674.html",
-        "date": "2025-11-06 06:27:32",
-        "sentiment_score": -0.08788473159074783
-    },
-    {
-        "title": "Este es el círculo de confianza de Mazón que testificará ante la jueza",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d038200-95d0-4e16-a2a3-ac63e149917c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mazón",
-            "consell",
-            "palau",
-            "pp",
-            "cuenca",
-            "comunitat valenciana",
-            "prensa"
-        ],
-        "link": "https://www.informacion.es/comunidad-valenciana/2025/11/06/circulo-confianza-mazon-testificara-jueza-dana-123410824.html",
-        "date": "2025-11-06 06:22:22",
-        "sentiment_score": -0.24043215811252594
-    },
-    {
-        "title": "Lo que debes saber hoy, 6 de noviembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/10/21/vivir-en-barcelona/895170487_13608484_1706x960.jpg",
-        "tags": [
-            "clima",
-            "vivir en barcelona",
-            "transporte",
-            "metro barcelona",
-            "transports metropolitans barcelona tmb",
-            "tráfico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251106/debes-saber-hoy-noviembre-barcelona/1003742683890_0.html",
-        "date": "2025-11-06 06:20:44",
-        "sentiment_score": -0.8227663841098547
-    },
-    {
-        "title": "Santoral de hoy, ¿qué santos se celebran hoy jueves 6 de noviembre de 2025?",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/11/04/Barcelona_san_severo-kg9H-U2303489587953FcB-758x531@El%20Norte.jpg",
-        "tags": [
-            "santoral diario"
-        ],
-        "link": "https://www.elnortedecastilla.es/sociedad/santoral-hoy-santos-celebran-hoy-jueves-noviembre-20251106071749-nt.html",
-        "date": "2025-11-06 06:17:49",
-        "sentiment_score": 0.3108561187982559
-    },
-    {
-        "title": "Mercè Ibarz mira atrás para salir adelante",
-        "image_url": "https://static1.ara.cat/clip/9f1c52e4-9f5e-4b86-86c9-272bf75d6b84_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "merce",
-            "adelante",
-            "ibarz",
-            "salir",
-            "mira"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/merce-ibarz-mira-salir-adelante_1_5552671.html",
-        "date": "2025-11-06 06:15:50",
-        "sentiment_score": -0.015981465578079224
-    },
-    {
-        "title": "Ni nieve ni tormenta: Meteocat no da crédito con lo que llega este jueves a Cataluña",
-        "image_url": "https://okdiario.com/img/2025/11/06/meteoca.jpg",
-        "tags": [
-            "sociedad",
-            "previsión meteorológica",
-            "okd",
-            "agencia estatal de meteorología (aemet)",
-            "previsión del tiempo"
-        ],
-        "link": "https://okdiario.com/sociedad/ni-nieve-ni-tormenta-meteocat-no-da-credito-lo-que-llega-este-jueves-cataluna-15713703",
-        "date": "2025-11-06 06:15:37",
-        "sentiment_score": -0.7664249539375305
-    },
-    {
-        "title": "Soy economista y ésta es la gran diferencia entre las pensiones de España y las de Alemania: nadie se lo cree",
-        "image_url": "https://okdiario.com/img/2025/11/05/imagen_recortada-13.jpg",
-        "tags": [
-            "jubilación",
-            "okd",
-            "economía",
-            "pensiones"
-        ],
-        "link": "https://okdiario.com/economia/soy-economista-esta-gran-diferencia-pensiones-espana-alemania-nadie-lo-cree-15708269",
-        "date": "2025-11-06 06:15:24",
-        "sentiment_score": -0.14159199595451355
-    },
-    {
         "title": "Una jueza deja en libertad al detenido por una presunta violación en un 'narcolocal' de Leganés (Madrid)",
         "image_url": "https://www.infobae.com/resizer/v2/RJG7SIJ4HVCARGIN2IMQT2TWCE.jpg?auth=fa97f0434ce66fe8de855ee76f8461cb5fcbd1a457e057e60c04000fb244c047&height=1280&smart=true&width=1920",
         "tags": [
@@ -541,65 +198,6 @@ export default [
         "link": "https://www.abc.es/favorito/bebe/dodot-sensitive-panales-toallitas-maxima-proteccion-bebe-20251106121358-nt.html",
         "date": "2025-11-06 11:13:59",
         "sentiment_score": -0.08518138527870178
-    },
-    {
-        "title": "El beneficio de FCC cae un 63% por la escisión del negocio inmobiliario y de cemento",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/11/06/1482474274-RU4AbbqKaIAL1ts7kL54r8M-1200x840@diario_abc.jpg",
-        "tags": [
-            "fcc",
-            "cemento",
-            "escision",
-            "negocio",
-            "cae",
-            "beneficio",
-            "inmobiliario"
-        ],
-        "link": "https://www.abc.es/economia/beneficio-fcc-cae-escision-negocio-inmobiliario-cemento-20251106105313-nt.html",
-        "date": "2025-11-06 09:53:14",
-        "sentiment_score": -0.055389970541000366
-    },
-    {
-        "title": "Las reservas de Entrepeñas y Buendía caen 10,68 hectómetros y acumulan 1.334,38, el 53% de su capacidad",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/11/06/embalse-R2nSJmGkzbQ4jvZTa15ZT2K-1200x840@diario_abc.jpg",
-        "tags": [
-            "hectometros",
-            "entrepenas",
-            "reservas",
-            "buendia",
-            "acumulan",
-            "capacidad",
-            "133438",
-            "caen",
-            "1068"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/reservas-entrepenas-buendia-caen-1068-hectometros-acumulan-20251106102826-nt.html",
-        "date": "2025-11-06 09:29:36",
-        "sentiment_score": -0.12676328420639038
-    },
-    {
-        "title": "La producción industrial sube un 5,6% en septiembre en Castilla-La Mancha, 1,1 puntos más que la media nacional",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/11/06/industria-RnFEzIF1QgPpwWnmxTqfTbM-1200x840@diario_abc.jpg",
-        "tags": [
-            "toledo",
-            "castilla la mancha",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/produccion-industrial-sube-septiembre-castillala-mancha-puntos-20251106101533-nt.html",
-        "date": "2025-11-06 09:15:34",
-        "sentiment_score": -0.07258708775043488
-    },
-    {
-        "title": "Sanidad «anima» a vacunarse contra la gripe y los expertos creen que hay «mucho margen de mejora»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/11/06/vacuna-gripe-RP4FjdcsBTFXzUvsWchKPJI-1200x840@diario_abc.jpg",
-        "tags": [
-            "virus",
-            "covid-19",
-            "gripe",
-            "sanidad"
-        ],
-        "link": "https://www.abc.es/espana/castilla-leon/sanidad-anima-vacunarse-gripe-expertos-creen-margen-20251106095141-nt.html",
-        "date": "2025-11-06 08:51:42",
-        "sentiment_score": -0.13038913905620575
     },
     {
         "title": "La Fiscalía cierra “por primera vez” en España páginas que publicitaban la gestación subrogada",
@@ -7929,5 +7527,496 @@ export default [
         "link": "https://2001online.com/usa/servicios/comida-gratis-en-orlando-asi-puedes-conseguir-las-despensas-de-alimentos-en-la-ciudad-202511910300",
         "date": "2025-11-09 14:30:00",
         "sentiment_score": 0.6376946419477463
+    },
+    {
+        "title": "Comprueba los números ganadores del Quíntuple Plus del 9 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZT3SFR67INBWZDTF2TMQOAS4WM.png?auth=819000da0f7c06412e0c854663e66d9a63bf00d14b526f119579b1cdd5a5a86b&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterias",
+            "quíntuple plus",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/09/comprueba-los-numeros-ganadores-del-quintuple-plus-del-9-de-noviembre/",
+        "date": "2025-11-09 22:00:48",
+        "sentiment_score": 0.05568002164363861
+    },
+    {
+        "title": "Quinigol: comprueba los resultados del 9 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "quinigol",
+            "españa-loterias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/09/quinigol-comprueba-los-resultados-del-9-de-noviembre/",
+        "date": "2025-11-09 22:00:30",
+        "sentiment_score": 0.6680738590657711
+    },
+    {
+        "title": "Comprobar Bonoloto: los resultados para este 9 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/WHQYEW2OEZCXDFD3IHM2AB2IXA.jpg?auth=4b217ddbdae9f3e886553b6289c0a94a0143b9358b93b35e99630507d07c07a2&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "bonoloto"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/09/comprobar-bonoloto-los-resultados-para-este-9-de-noviembre/",
+        "date": "2025-11-09 21:15:31",
+        "sentiment_score": 0.6181680392473936
+    },
+    {
+        "title": "Resultados ganadores del Lototurf de este 9 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/XUZH4R6EORA4TL6AXQM5XXBG5M.png?auth=47b4aacadda7019d429d7df45865af6642b2403f048855b2a9853351367f3dc4&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "lototurf",
+            "españa-loterias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/09/resultados-ganadores-del-lototurf-de-este-9-de-noviembre/",
+        "date": "2025-11-09 21:15:27",
+        "sentiment_score": 0.05568002164363861
+    },
+    {
+        "title": "Albares felicita a su nuevo homólogo boliviano y declara el apoyo de España al Gobierno de Paz",
+        "image_url": "https://www.infobae.com/resizer/v2/MDN7RNY24NESZIEWUSTMHTGZRY.jpg?auth=c2843120450a2b08a2a753beaac0571dcaf8eec534e176737bca07eb2a078d77&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/09/albares-felicita-a-su-nuevo-homologo-boliviano-y-declara-el-apoyo-de-espana-al-gobierno-de-paz/",
+        "date": "2025-11-09 20:45:16",
+        "sentiment_score": 0.6791208609938622
+    },
+    {
+        "title": "La principal diferencia entre ‘Frankenstein’ de Guillermo del Toro y el libro, según una experta en Mary Shelley: “La película reduce lo más fuerte de la novela”",
+        "image_url": "https://www.infobae.com/resizer/v2/6QN4CJ6RBJCS3EMTQMCSI2UVWQ.jpg?auth=ddb0e2666af2923abe973f98b768f1583df43142dd6600c304614e13b20dd7d1&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-noticias",
+            "españa-cultura",
+            "guillermo del toro",
+            "cine",
+            "mary shelley",
+            "cine españa",
+            "frankenstein",
+            "netflix"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/11/09/la-principal-diferencia-entre-frankenstein-de-guillermo-del-toro-y-el-libro-segun-una-experta-en-mary-shelley-la-pelicula-reduce-lo-mas-fuerte-de-la-novela/",
+        "date": "2025-11-09 20:29:31",
+        "sentiment_score": 0.23570235818624496
+    },
+    {
+        "title": "Sánchez dice que España \"seguirá al lado de América Latina y el Caribe\" para dar \"estabilidad\" en \"un mundo incierto\"",
+        "image_url": "https://www.infobae.com/resizer/v2/33E6HUUGN5EN7DLXFGY3KBCZIM.jpg?auth=eb6bc8b81f1d75b0ac1dc0ade98c76baacec0c79da3c0b662b88fba4b384d02a&height=1276&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/09/sanchez-dice-que-espana-seguira-al-lado-de-america-latina-y-el-caribe-para-dar-estabilidad-en-un-mundo-incierto/",
+        "date": "2025-11-09 19:30:51",
+        "sentiment_score": 0.4452914372086525
+    },
+    {
+        "title": "Sánchez promete que España \"seguirá al lado de América Latina y el Caribe\" para proporcionar \"estabilidad\"",
+        "image_url": "https://www.infobae.com/resizer/v2/JWS4SJGDMVFF5NLDBRQN3YQ5MI.jpg?auth=6062858208bab09cb40ef018b7bca6e3f96e9ddd0c3edc0c0c75c05ac6cc7639&height=1276&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/09/sanchez-promete-que-espana-seguira-al-lado-de-america-latina-y-el-caribe-para-proporcionar-estabilidad/",
+        "date": "2025-11-09 19:30:33",
+        "sentiment_score": 0.4168442338705063
+    },
+    {
+        "title": "Sorteo 4 de la Triplex de la Once: comprueba los resultados de hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/M4IGPZPSXRGJDHCD6HBQ6NGUL4.jpg?auth=b3b89ae6d4fa300f3bea8a5e1d0e68038a5ee2172547da08bd47332f48408e1e&height=1080&smart=true&width=1920",
+        "tags": [
+            "super once",
+            "españa-loterías",
+            "noticias",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/09/sorteo-4-de-la-triplex-de-la-once-comprueba-los-resultados-de-hoy/",
+        "date": "2025-11-09 19:30:26",
+        "sentiment_score": 0.15321348421275616
+    },
+    {
+        "title": "Los pasos que llevaron a la caída del ‘Negro Marín’: cómo atraparon al extorsionador más buscado del Perú en España",
+        "image_url": "https://www.infobae.com/resizer/v2/6FCF4SSG3RFZ3KE2GVS45QTUJ4.jpg?auth=1b8d010815c8b7266ceb5e475e622091192e87e887a8ad80f28c1a2e086f599b&height=1080&smart=true&width=1920",
+        "tags": [
+            "peru-noticias",
+            "negro marín",
+            "miguel ángel marín",
+            "españa",
+            "organización criminal",
+            "extorsiones"
+        ],
+        "link": "https://www.infobae.com/peru/2025/11/09/los-pasos-que-llevaron-a-la-caida-del-negro-marin-como-atraparon-al-extorsionador-mas-buscado-del-peru-en-espana/",
+        "date": "2025-11-09 19:05:39",
+        "sentiment_score": -0.5170390978455544
+    },
+    {
+        "title": "Sánchez vende en Colombia un mundo alternativo al de Trump",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3YUPHITK4BKVNDULAJ6DRWVZBI.jpg?auth=e2dd117ca0f8025458c49a455e617bef8b40358d6baab3dc30f3f431268df16a&width=1200",
+        "tags": [
+            "lula da silva",
+            "colombia",
+            "unión europea",
+            "pedro sánchez",
+            "gobierno",
+            "donald trump",
+            "celac",
+            "relaciones internacionales",
+            "gustavo petro",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-11-09/sanchez-vende-en-colombia-un-mundo-alternativo-al-de-trump.html",
+        "date": "2025-11-09 18:15:47",
+        "sentiment_score": -0.03371413052082062
+    },
+    {
+        "title": "El Real Madrid puede con Ricky Rubio y el Barça toca fondo",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/b116c977-43dc-496b-a61ad819362221dc.jpg",
+        "tags": [
+            "fc barcelona",
+            "bàsquet girona",
+            "nico gonzález",
+            "willy hernangómez",
+            "liga acb",
+            "real madrid",
+            "ucam murcia",
+            "sergio scariolo",
+            "valencia basket",
+            "joventut",
+            "ricky rubio",
+            "joan peñarroya",
+            "baskonia",
+            "liga endesa",
+            "badalona",
+            "gerona",
+            "casademont zaragoza"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z7e7bae05-20ed-45cc-98b862d806357032/202511/el-real-madrid-puede-con-ricky-rubio-y-el-barca-toca-fondo",
+        "date": "2025-11-09 22:19:14",
+        "sentiment_score": 0.13995683193206787
+    },
+    {
+        "title": "El Barcelona se lleva un palo de Vigo: De Jong fue expulsado en el descuento",
+        "image_url": "https://okdiario.com/img/2025/11/09/imagen_recortada-4.jpg",
+        "tags": [
+            "deportes",
+            "frenkie de jong",
+            "fc barcelona",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/barcelona-lleva-palo-vigo-jong-fue-expulsado-descuento-15732178",
+        "date": "2025-11-09 22:18:30",
+        "sentiment_score": -0.5023547932505608
+    },
+    {
+        "title": "El Barça de Flick recupera la cordura en la locura de Balaídos y recorta distancias con el Real Madrid",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/09/culemania/primer-equipo/1003742706022_15385148_1706x960.jpg",
+        "tags": [
+            "barça",
+            "la liga",
+            "hansi flick",
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251109/barca-flick-recupera-balaidos-distancias-real-madrid/1003742706018_0.html",
+        "date": "2025-11-09 22:16:49",
+        "sentiment_score": -0.021658599376678467
+    },
+    {
+        "title": "El Barça sí supera su pesadilla en Balaídos tras un hat-trick de Lewandowski (2-4)",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/11/09/130013F7-EC25-4D2F-9E84-FC88E500FFFB/lewandowski-celebra-uno-sus-tres-goles-balaidos_98.jpg?crop=8993%2C5060%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "deportes",
+            "antena 3 noticias",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/barca-supera-pesadilla-balaidos-hattrick-lewandowski-24_20251109691110ee5442607f2ff4d0fb.html",
+        "date": "2025-11-09 22:08:46",
+        "sentiment_score": 0.5379494875669479
+    },
+    {
+        "title": "Celta de Vigo 2 - 4 Barcelona | Resumen, goles y resultado del partido de hoy",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251109230415_690.jpg",
+        "tags": [
+            "deportes",
+            "estadísticas deportivas"
+        ],
+        "link": "https://www.europapress.es/deportes/estadisticas-deportivas/noticia-celta-vigo-barcelona-resumen-goles-resultado-partido-hoy-20251109230415.html",
+        "date": "2025-11-09 22:04:15",
+        "sentiment_score": 0.12205634638667107
+    },
+    {
+        "title": "Muchas gracias por todo: los apuntes en caliente del Celta-Barça",
+        "image_url": "https://static1.ara.cat/clip/fb8a6bcb-af1a-48f5-9cbc-ce43b33927d7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gracias",
+            "barca",
+            "apuntes",
+            "caliente",
+            "celta"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/gracias-apuntes-caliente-celta-barca_1_5556453.html",
+        "date": "2025-11-09 22:03:28",
+        "sentiment_score": 0.6097028329968452
+    },
+    {
+        "title": "Así queda la clasificación de la Liga tras la victoria del Barcelona contra el Celta",
+        "image_url": "https://okdiario.com/img/2025/11/09/imagen_recortada-2025-11-09t225009.841.jpg",
+        "tags": [
+            "deportes",
+            "fc barcelona",
+            "la liga",
+            "real club celta de vigo",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/asi-queda-clasificacion-liga-victoria-del-barcelona-contra-celta-2-15731704",
+        "date": "2025-11-09 22:03:09",
+        "sentiment_score": 0.31831374764442444
+    },
+    {
+        "title": "Lewandowski aprieta la Liga",
+        "image_url": "https://okdiario.com/img/2025/11/09/cronica-barcelona-interior.jpg",
+        "tags": [
+            "deportes",
+            "barcelona",
+            "fc barcelona",
+            "real club celta de vigo"
+        ],
+        "link": "https://okdiario.com/deportes/lewandowski-aprieta-liga-15731755",
+        "date": "2025-11-09 22:02:56",
+        "sentiment_score": 0.6539301201701164
+    },
+    {
+        "title": "El Barça asalta Balaídos en un recital ofensivo de ambos equipos y aprieta aún más la lucha por el liderato de La Liga",
+        "image_url": "https://s3.elespanol.com/2025/11/09/actualidad/1003744006410_259841076_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "celta de vigo",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251109/barca-asalta-balaidos-recital-ofensivo-ambos-equipos-aprieta-lucha-liderato-liga/1003744006412_0.html",
+        "date": "2025-11-09 22:02:56",
+        "sentiment_score": -0.3757365196943283
+    },
+    {
+        "title": "Real Madrid se fue en blanco ante el Rayo Vallecano en La Liga de España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticia de carabobo",
+            "noticias de hoy valencia",
+            "noticias carabobo 24",
+            "noticias24 sucesos",
+            "noviembre 9",
+            "noticias24carabobo",
+            "sucesos (+destacados)",
+            "portada",
+            "fútbol de españa",
+            "noticias 24 actualidad",
+            "n24carabobo",
+            "noticias 24 carabobo",
+            "noticias24 carabobo",
+            "fútbol",
+            "bonos patria",
+            "deportes",
+            "9 de noviembre",
+            "noticias24",
+            "octubre 2025",
+            "noticias de hoy carabobo",
+            "noticias 24 venezuela",
+            "noticias 24 carabobo hoy",
+            "combo clap",
+            "noticias carabobo",
+            "salud (+destacados)",
+            "noticias 24 horas carabobo",
+            "noticias 24"
+        ],
+        "link": "https://noticias24carabobo.com/real-madrid-se-fue-en-blanco-ante-el-rayo-vallecano-en-la-liga-de-espana/",
+        "date": "2025-11-09 21:40:58",
+        "sentiment_score": -0.04925830662250519
+    },
+    {
+        "title": "Resumen Celta de Vigo-Barcelona: Lewandowski lidera la lluvia de goles (2-4)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/09/image-224930a8-9872-4a35-bf74-1b815c74f10d-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/video-resumen-celta-de-vigo-barcelona-goles-resultado-highlights-lewandowski-lamine-yamal-borja-iglesias_vid60036916/video.shtml",
+        "date": "2025-11-09 22:19:42",
+        "sentiment_score": 0.37737323343753815
+    },
+    {
+        "title": "Los memes del Superclásico tras la victoria de Boca ante River: del Changuito Zeballos en modo Neymar al recuerdo de Russo",
+        "image_url": "https://www.infobae.com/resizer/v2/3L7HQD3VN5DMPIPW5JSYA7ZIOA.jpg?auth=f4374d14956402a9eb0f39e724ab2f84c9eefd847deefbd61b97a0a4f5d65c31&height=1080&smart=true&width=1920",
+        "tags": [
+            "memes",
+            "boca juniors",
+            "gallardo",
+            "superclásico",
+            "river plate",
+            "changuito zeballos",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/09/los-memes-del-superclasico-tras-la-victoria-de-boca-ante-river-del-changuito-zeballos-en-modo-neymar-al-recuerdo-de-russo/",
+        "date": "2025-11-09 22:02:39",
+        "sentiment_score": -0.06046247482299805
+    },
+    {
+        "title": "Christopher Lloyd: \"Finalmente me pudo la curiosidad recogí el guion de la papelera y lo leí. El resto, como dicen, es historia\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2022/03/19/62362572e71d6.jpeg",
+        "tags": [
+            "cine y series"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/cine-series/20251109/1002566124/christopher-lloyd-finalmente-me-pudo-curiosidad-recogi-guion-papelera-lei-resto-dicen-historia-pxc.html",
+        "date": "2025-11-09 22:00:00",
+        "sentiment_score": 0.21292944252490997
+    },
+    {
+        "title": "Galán y Chingotto ponen al rojo vivo el No1 tras ganar el mundial por parejas de Kuwait",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/09/69110c84507ca.r_d.893-765-2688.jpeg",
+        "tags": [
+            "pádel"
+        ],
+        "link": "https://www.cope.es/deportes/padel/noticias/galan-chingotto-ponen-rojo-vivo-no1-ganar-mundial-parejas-kuwait-20251109_3248558.html",
+        "date": "2025-11-09 21:54:06",
+        "sentiment_score": -0.054616063833236694
+    },
+    {
+        "title": "¡Paliza en La Bombonera! Boca Juniors se lleva el Superclásico argentino",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762728369730.jpg?ch=675&cw=1200",
+        "tags": [
+            "liga argentina",
+            "superclásico argentino",
+            "boca juniors",
+            "boca vs river",
+            "merentiel",
+            "copa libertadores",
+            "river plate",
+            "superclasico",
+            "exequiel zeballos"
+        ],
+        "link": "https://2001online.com/deportes/paliza-en-la-bombonera-boca-juniors-se-lleva-el-superclasico-argentino-202511918540",
+        "date": "2025-11-09 22:07:03",
+        "sentiment_score": 0.5957764722406864
+    },
+    {
+        "title": "¡Extraño! Médicos descubren que una mujer suda leche por las axilas",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "suda leche",
+            "axilas",
+            "diario 2001",
+            "filipinas"
+        ],
+        "link": "https://2001online.com/curiosidades/extrano-medicos-descubren-que-una-mujer-suda-leche-por-las-axilas-20251191800",
+        "date": "2025-11-09 22:00:00",
+        "sentiment_score": 0.8333708122372627
+    },
+    {
+        "title": "Comunicado: Maduro insta a los países de la CELAC a rechazar cualquier militarización del Caribe",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762724594636.jpg?ch=675&cw=1200",
+        "tags": [
+            "celac",
+            "el caribe",
+            "agresion militar",
+            "maduro",
+            "santa marta"
+        ],
+        "link": "https://2001online.com/nacionales/comunicado-maduro-insta-a-los-paises-de-la-celac-a-rechazar-cualquier-militarizacion-del-caribe-20251191800",
+        "date": "2025-11-09 22:00:00",
+        "sentiment_score": 0.07935802638530731
+    },
+    {
+        "title": "¡Un sueño cumplido! Así fue el encuentro entre Camila Canabal y Sofía Vergara",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "camila canabal",
+            "sofía vergara",
+            "encuentro"
+        ],
+        "link": "https://2001online.com/farandula/un-sueno-cumplido-asi-fue-el-encuentro-entre-camila-canabal-y-sofia-vergara-202511917430",
+        "date": "2025-11-09 21:43:00",
+        "sentiment_score": 0.07785848900675774
+    },
+    {
+        "title": "¿Qué le falta a Lando Norris para ganar el Mundial de F1?: resultados del Gran Premio de Brasil",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762725467305.jpg?ch=675&cw=1200",
+        "tags": [
+            "oscar piastri",
+            "mclaren",
+            "fórmula 1",
+            "max verstappen",
+            "lando norris",
+            "f1",
+            "red bull racing"
+        ],
+        "link": "https://2001online.com/deportes/que-le-falta-a-lando-norris-para-ganar-el-mundial-de-f1-resultados-del-gran-premio-de-brasil-202511918150",
+        "date": "2025-11-09 21:36:24",
+        "sentiment_score": 0.874421140179038
+    },
+    {
+        "title": "Actor de “La Casa de Papel” visita Venezuela: todos los detalles de su paso por el país",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "la casa de papel",
+            "pedro alonso",
+            "netflix"
+        ],
+        "link": "https://2001online.com/farandula/actor-de-la-casa-de-papel-visita-venezuela-todos-los-detalles-de-su-paso-por-el-pais-202511917120",
+        "date": "2025-11-09 21:12:00",
+        "sentiment_score": 0.00841452181339264
+    },
+    {
+        "title": "Amaños destapados en la MLB: arresto e investigación por fraude en Cleveland",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762724704135.jpg?ch=675&cw=1200",
+        "tags": [
+            "luis ortiz",
+            "mlb",
+            "emmanuel clase",
+            "polémica en la mlb",
+            "amaños en la mlb"
+        ],
+        "link": "https://2001online.com/deportes/amanos-destapados-en-la-mlb-arresto-e-investigacion-por-fraude-en-cleveland-202511917540",
+        "date": "2025-11-09 21:07:18",
+        "sentiment_score": -0.8549048351123929
+    },
+    {
+        "title": "¡Atención! Inameh pronostica lluvias y descargas eléctricas en estos estados del país",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762722009570.jpg?ch=675&cw=1200",
+        "tags": [
+            "lluvias",
+            "inameh",
+            "instituto nacional de meteorología e hidrología (inameh)",
+            "descargas eléctricas",
+            "pronóstico del inameh",
+            "chubascos"
+        ],
+        "link": "https://2001online.com/nacionales/atencion-inameh-pronostica-lluvias-y-descargas-electricas-en-estos-estados-del-pais-20251191700",
+        "date": "2025-11-09 21:00:00",
+        "sentiment_score": -0.5490912348031998
+    },
+    {
+        "title": "De la fama al olvido: cantantes de reggaetón que desaparecieron del mapa",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "cantantes",
+            "old school"
+        ],
+        "link": "https://2001online.com/farandula/de-la-fama-al-olvido-cantantes-de-reggaeton-que-desaparecieron-del-mapa-20251191600",
+        "date": "2025-11-09 20:00:00",
+        "sentiment_score": -0.34609146416187286
+    },
+    {
+        "title": "Bank of America cerrará temporalmente sus sucursales en EEUU el próximo 11 de noviembre: sepa la razón",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "sucursales",
+            "bank of america",
+            "cierre"
+        ],
+        "link": "https://2001online.com/usa/servicios/bank-of-america-cerrara-temporalmente-sus-sucursales-en-eeuu-el-proximo-11-de-noviembre-sepa-la-razon-20251191600",
+        "date": "2025-11-09 20:00:00",
+        "sentiment_score": -0.2958351969718933
     }
 ];
