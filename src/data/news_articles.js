@@ -129,23 +129,6 @@ export default [
         "sentiment_score": 0.0049018412828445435
     },
     {
-        "title": "¿Qué aeropuertos perderán vuelos este #7Nov por cierre del Gobierno de EEUU y qué debes hacer si tienes un viaje planeado?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Screenshot_192.jpg",
-        "tags": [
-            "perderán",
-            "internacionales",
-            "vuelos",
-            "usa",
-            "gobierno de eeuu",
-            "actualidad",
-            "cierre",
-            "aeropuertos"
-        ],
-        "link": "https://lapatilla.com/2025/11/07/que-aeropuertos-perderan-vuelos-este-7nov-por-cierre-del-gobierno-de-eeuu-y-que-debes-hacer-si-tienes-un-viaje-planeado/",
-        "date": "2025-11-07 10:20:53",
-        "sentiment_score": -0.8532141391187906
-    },
-    {
         "title": "Vox-Aragón dice que «el perfil del agresor sexual no es el varón español» y destaca la subida de condenas a extranjeros",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/11/07/Rouco-ocupas-centro-RFXzRUsGFdzVpapa0Py8ZDI-1200x840@diario_abc.jpg",
         "tags": [
@@ -178,30 +161,6 @@ export default [
         "link": "https://www.abc.es/summum/living/casas/venta-216-millones-euros-antigua-casa-diane-20251107155025-nt.html",
         "date": "2025-11-07 14:50:26",
         "sentiment_score": -0.0319828987121582
-    },
-    {
-        "title": "El vídeo viral de un egiptólogo impulsa un concurso de ideas internacional para salvar el Templo de Debod",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/c9/media_thumb-link-4114837.webp?1762451766=",
-        "tags": [
-            "egiptólogo",
-            "madrid",
-            "temblo de debod",
-            "tito vivas",
-            "cultura"
-        ],
-        "link": "https://www.meneame.net/story/video-viral-egiptologo-impulsa-concurso-ideas-internacional",
-        "date": "2025-11-07 13:10:04",
-        "sentiment_score": -0.1618354618549347
-    },
-    {
-        "title": "Sidenor y el Gobierno vasco cierran la compra del 29,7% de Talgo tras subir la parte fija de su oferta a 4,25 euros por acción",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/11/07/1492228608-Rfn3tx92wN3FQjRh6vNOQtK-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/sidenor-gobierno-vasco-cierran-compra-297-talgo-20251107115747-nt.html",
-        "date": "2025-11-07 10:58:39",
-        "sentiment_score": -0.1359071433544159
     },
     {
         "title": "Vicente Barrera, la puesta de Vox en Valencia, no está “ofendido” por quedar al margen de la negociación con el PP para sustituir a Mazón",
@@ -347,40 +306,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-11-07/urbana-y-mossos-constatan-que-la-droga-sigue-siendo-el-principal-problema-de-ciutat-vella.html",
         "date": "2025-11-07 14:26:17",
         "sentiment_score": -0.3937738165259361
-    },
-    {
-        "title": "Cataluña se propone reducir la tasa de abandono escolar del 14 al 9% en 2030",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OFFCSJUMXZGZXBZKR2MMW7U4VY.JPG?auth=9f90d54d1d65184ab8b5745e4292fc8ba40195cf7e68aca4793e8137772892dd&width=1200",
-        "tags": [
-            "cataluña",
-            "segregación escolar",
-            "formación",
-            "formación profesional",
-            "educación",
-            "fracaso escolar",
-            "eso",
-            "integración educativa"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-07/cataluna-se-propone-reducir-la-tasa-de-abandono-escolar-del-14-al-9-en-2030.html",
-        "date": "2025-11-07 14:10:07",
-        "sentiment_score": 0.14621149748563766
-    },
-    {
-        "title": "La jueza de la dana cita a declarar a Pérez Llorca en pleno proceso de negociación para suceder a Mazón en la Generalitat",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QL7CE3MAEJC3FJGHCKCZ2UCPHY.jpg?auth=cd1821289621ce5c9ca229e5dee185d6be85071d426d069dc5f23725e4cdbcf8&width=1200",
-        "tags": [
-            "comunidad valenciana",
-            "carlos mazón",
-            "maribel vilaplana",
-            "juanfran pérez llorca",
-            "inundaciones dana octubre 2024",
-            "justicia",
-            "pp",
-            "tribunales"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-07/la-jueza-de-la-dana-cita-a-declarar-a-perez-llorca-en-pleno-proceso-de-negociacion-para-suceder-a-mazon-en-la-generalitat.html",
-        "date": "2025-11-07 13:41:39",
-        "sentiment_score": -0.1843310035765171
     },
     {
         "title": "Barcelona, Madrid y 14 ciudades más formarán parte de la próxima Liga Europea de la NBA",
@@ -8002,5 +7927,387 @@ export default [
         "link": "https://2001online.com/internacionales/impacto-para-venezolanos-nueva-york-activa-medidas-de-apoyo-conoce-el-plan-del-alcalde-para-beneficiarios-de-tps-2025111016250",
         "date": "2025-11-10 20:25:00",
         "sentiment_score": 0.17198799550533295
+    },
+    {
+        "title": "Andy inaugura su camino en solitario y desvela las tensiones con Lucas en su visita a “El Hormiguero”: “Cuando terminé la gira me sentí libre por primera vez en mucho tiempo”",
+        "image_url": "https://www.infobae.com/resizer/v2/Z4JEWIP4IFCHJAVQLQFHWZBSXA.jpg?auth=9d73f354c9879e8eb47e951184453dbf8c83e3c94cf422f805c296aa58781f99&height=4000&smart=true&width=6000",
+        "tags": [
+            "televisión españa",
+            "celebridades españa",
+            "famosos españa",
+            "pablo motos",
+            "andy y lucas",
+            "españa-entretenimiento",
+            "españa-noticias",
+            "españa-televisión",
+            "el hormiguero"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/10/andy-inaugura-su-camino-en-solitario-y-desvela-las-tensiones-con-lucas-en-su-visita-a-el-hormiguero-cuando-termine-la-gira-me-senti-libre-por-primera-vez-en-mucho-tiempo/",
+        "date": "2025-11-10 23:39:25",
+        "sentiment_score": 0.8103198241442442
+    },
+    {
+        "title": "El rey Juan Carlos se despide de España tras su visita más polémica",
+        "image_url": "https://www.infobae.com/resizer/v2/SXP3ITVZYFGOVJITEXHXSAE4RE.jpg?auth=02f5d97f349c948890b8b0ccd45a47fe1c535ded113d864b7dd39c7578f929ed&height=1440&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/10/el-rey-juan-carlos-se-despide-de-espana-tras-su-visita-mas-polemica/",
+        "date": "2025-11-10 23:34:23",
+        "sentiment_score": -0.84335823263973
+    },
+    {
+        "title": "Rosalía visita ‘La Revuelta’ con un bizcocho de 14 kilos, reflexiona sobre ‘LUX’ y canta ‘La Perla’ en directo: “No hay solo una perla. En general, en la vida, todos conocemos a más de uno”",
+        "image_url": "https://www.infobae.com/resizer/v2/MWCXDAQYI5HVDHJKZAIQK3J7VM.png?auth=fb782d18e016a96e6a5dacae6fe0bb3b61287e01508ef8b1549d3b4cd9210dc1&height=493&smart=true&width=867",
+        "tags": [
+            "rtve",
+            "españa-televisión",
+            "celebridades españa",
+            "la revuelta",
+            "lux",
+            "rosalía",
+            "españa-entretenimiento",
+            "famosos españa",
+            "david broncano",
+            "españa-noticias",
+            "tve"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/10/rosalia-visita-la-revuelta-con-un-bizcocho-de-14-kilos-reflexiona-sobre-lux-y-canta-la-perla-en-directo-no-hay-solo-una-perla-en-general-en-la-vida-todos-conocemos-a-mas-de-uno/",
+        "date": "2025-11-10 23:06:29",
+        "sentiment_score": 0.8967303447425365
+    },
+    {
+        "title": "Alcobendas da luz verde al mayor proyecto urbanístico del norte de Madrid: 8.600 viviendas para 26.000 vecinos",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/07/barrio-alcobendas-RG9WZOY8G7plXYnuvfsqg3K-1200x840@diario_abc.jpg",
+        "tags": [
+            "madrid",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/madrid/alcobendas-luz-verde-mayor-proyecto-urbanistico-norte-20251107164706-nt.html",
+        "date": "2025-11-11 00:00:10",
+        "sentiment_score": 0.039088547229766846
+    },
+    {
+        "title": "Miguel Ángel Gil seguirá en el Atlético de Madrid al menos hasta 2029",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/6a0886ad8a4473d0e70dfc33a1ac8b2e/crop/173x19/1795x1100/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/10/17628044053012.jpg",
+        "tags": [
+            "fondos de inversión>",
+            "artículos estela s. mazo>",
+            "empresas>",
+            "fusiones y adquisiciones>",
+            "artículos pepe bravo>"
+        ],
+        "link": "https://www.expansion.com/empresas/2025/11/11/691242df468aeb3b6d8b4580.html",
+        "date": "2025-11-11 01:40:29",
+        "sentiment_score": -0.2657173052430153
+    },
+    {
+        "title": "El Real Madrid 'estrena' un imponente Roig Arena que se vestirá de gala para testar el crecimiento de los de Scariolo",
+        "image_url": "https://s3.elespanol.com/2025/11/10/actualidad/1003744007505_259853876_1706x960.jpg",
+        "tags": [
+            "real madrid baloncesto",
+            "euroliga de baloncesto",
+            "baloncesto",
+            "valencia basket"
+        ],
+        "link": "https://www.elespanol.com/deportes/baloncesto/20251111/real-madrid-estrena-imponente-roig-arena-vestira-gala-testar-crecimiento-scariolo/1003744007503_0.html",
+        "date": "2025-11-11 01:37:04",
+        "sentiment_score": 0.30387501791119576
+    },
+    {
+        "title": "Deportes | Elche CF y CD Eldense esperan rival de segunda ronda de Copa del Rey",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1712240.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/elche-cf-y-cd-eldense-esperan-rival-de-segunda-ronda-de-copa-del-rey",
+        "date": "2025-11-11 01:21:43",
+        "sentiment_score": 0.022845759987831116
+    },
+    {
+        "title": "María Dueñas, la violinista prodigio: \"A veces siento que el violín aprende a hablar por mí\"",
+        "image_url": "https://s3.elespanol.com/2025/11/10/actualidad/1003744006521_259842474_1706x960.jpg",
+        "tags": [
+            "música",
+            "música clásica",
+            "entrevistas"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251111/maria-duenas-violinista-prodigio-veces-siento-violin-aprende-hablar/1003744006514_0.html",
+        "date": "2025-11-11 00:55:00",
+        "sentiment_score": 0.2916621118783951
+    },
+    {
+        "title": "Reconocer el \"dolor\" causado a México: el gesto de España que divide a los historiadores",
+        "image_url": "https://s3.elespanol.com/2025/11/10/actualidad/1003744006535_259842555_1706x960.jpg",
+        "tags": [
+            "méxico",
+            "historia",
+            "andrés manuel lópez obrador (amlo)",
+            "gobierno de españa",
+            "josé manuel albares",
+            "hernán cortés"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/historia/20251111/reconocer-dolor-causado-mexico-gesto-espana-divide-historiadores/1003744006529_0.html",
+        "date": "2025-11-11 00:55:00",
+        "sentiment_score": -0.8176004234701395
+    },
+    {
+        "title": "Vida sana, salud digital, sanidad sostenible y biotecnología azul, pilares de un clúster balear que cumple 15 años",
+        "image_url": "https://s3.elespanol.com/2025/11/10/actualidad/1003744006780_259845350_1706x960.jpg",
+        "tags": [
+            "innovación",
+            "baleares",
+            "digitalización",
+            "biotecnología",
+            "transformación digital"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/baleares/20251111/vida-sana-salud-digital-sanidad-sostenible-biotecnologia-azul-pilares-cluster-balear-cumple-anos/1003744006767_0.html",
+        "date": "2025-11-11 00:34:00",
+        "sentiment_score": 0.7274671159684658
+    },
+    {
+        "title": "Un periodista destapa los insultos racistas impunes de un aficionado en Mestalla",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/11/69127f6116a9c.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/periodista-destapa-insultos-racistas-impunes-aficionado-mestalla-20251111_3249354.html",
+        "date": "2025-11-11 00:27:13",
+        "sentiment_score": -0.18471576273441315
+    },
+    {
+        "title": "Santiago del Teide hornea un récord mundial: turrón kilométrico con sabor local",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2025/11/pag-30-principal-martes-1024x573.jpg",
+        "tags": [
+            "portada local",
+            "tenerife",
+            "sur",
+            "portada",
+            "santiago del teide",
+            "portada destacadas"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/11/santiago-del-teide-turron/",
+        "date": "2025-11-11 00:23:09",
+        "sentiment_score": 0.23341085016727448
+    },
+    {
+        "title": "Francisco Rivera respira aliviado tras el grave accidente de su hermano Cayetano: \"Gracias a Dios\"",
+        "image_url": "https://www.infobae.com/resizer/v2/CA7YJGMKHNASFKHL7NT3OOBXWY.jpg?auth=034dfcab7779681bae27dd468924a70544a8afac5cad6e87de8fb13f1ec92201&height=1440&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/10/francisco-rivera-respira-aliviado-tras-el-grave-accidente-de-su-hermano-cayetano-gracias-a-dios/",
+        "date": "2025-11-10 23:32:02",
+        "sentiment_score": 0.5125622153282166
+    },
+    {
+        "title": "¿Por qué invierten los fondos en fútbol?",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/48f6dfc6e85e433bb56bd18cd87cacdd/crop/94x71/1543x1036/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/10/17628063275765.jpg",
+        "tags": [
+            "editorial>",
+            "opinión>"
+        ],
+        "link": "https://www.expansion.com/opinion/2025/11/11/69124aa2468aeb90528b4595.html",
+        "date": "2025-11-10 23:28:35",
+        "sentiment_score": -0.019343242049217224
+    },
+    {
+        "title": "‘Glocalizados’",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "glocalizados"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/glocalizados_0_2005213526.html",
+        "date": "2025-11-11 02:08:31",
+        "sentiment_score": 0.4805389493703842
+    },
+    {
+        "title": "João Félix brilla con Cristiano en el Al Nassr: ¿Europa ya lo mira de reojo?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/07/30/2025073006291852371.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/joao-felix-resurge-nassr-junto-cristiano-tendra-nueva-oportunidad-europa/20251111030357362617.html",
+        "date": "2025-11-11 02:03:57",
+        "sentiment_score": -0.12248523533344269
+    },
+    {
+        "title": "Los nuevos desposeídos",
+        "image_url": "https://gaceta.es/wp-content/uploads/2023/04/265-x-265-Jose-Javier-Esparza.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://gaceta.es/opinion/los-nuevos-desposeidos-20251111-0251/",
+        "date": "2025-11-11 01:51:00",
+        "sentiment_score": -0.5782551020383835
+    },
+    {
+        "title": "Iniesta, un héroe en la picota: niega la estafa de 600.000 dólares por la que le investiga la Justicia peruana",
+        "image_url": "https://s3.elespanol.com/2025/11/10/actualidad/1003744007568_259854533_1706x960.jpg",
+        "tags": [
+            "andrés iniesta",
+            "fc barcelona",
+            "estafas",
+            "perú",
+            "deportes",
+            "selección española de fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/20251111/iniesta-heroe-picota-niega-estafa-dolares-investiga-justicia-peruana/1003744007504_0.html",
+        "date": "2025-11-11 01:37:45",
+        "sentiment_score": -0.6782650090754032
+    },
+    {
+        "title": "El juez exculpa al joven que fue a prisión por 'cripto-yihadismo' y recuerda las \"consecuencias graves que sufre un imputado\"",
+        "image_url": "https://s3.elespanol.com/2024/01/31/espana/tribunales/829177555_259787381_1706x960.jpg",
+        "tags": [
+            "terrorismo",
+            "yihadismo",
+            "tribunales",
+            "audiencia nacional",
+            "grupos terroristas"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20251111/juez-exculpa-joven-prision-cripto-yihadismo-recuerda-consecuencias-graves-sufre-imputado/1003744002384_0.html",
+        "date": "2025-11-11 01:32:13",
+        "sentiment_score": -0.7415821049362421
+    },
+    {
+        "title": "Sateliot presenta 'Tritó', la primera constelación europea de satélites 5G que se gesta en España",
+        "image_url": "https://s3.elespanol.com/2025/11/10/actualidad/1003744007387_259852413_1706x960.jpg",
+        "tags": [
+            "observatorio de la defensa",
+            "satélites espaciales"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20251111/sateliot-presenta-trito-primera-constelacion-europea-satelites-gesta-espana/1003744007246_0.html",
+        "date": "2025-11-11 01:14:14",
+        "sentiment_score": 0.5111506022512913
+    },
+    {
+        "title": "Qué tan posible es que Lionel Messi vuelva a jugar en Barcelona y cuándo podría suceder",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Lionel-Messi-FC-Barcelona.jpg",
+        "tags": [
+            "titulares",
+            "deportes",
+            "lionel messi",
+            "fc barcelona",
+            "futbol"
+        ],
+        "link": "https://lapatilla.com/2025/11/10/que-tan-posible-es-que-lionel-messi-vuelva-a-jugar-en-barcelona-y-cuando-podria-suceder/",
+        "date": "2025-11-11 01:07:47",
+        "sentiment_score": -0.6890626884996891
+    },
+    {
+        "title": "Día de los Veteranos: conoce los lugares que abrirán el 11 de noviembre en EEUU",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762827324376.jpg?ch=675&cw=1200",
+        "tags": [
+            "#eeuu",
+            "feriado federal",
+            "día del veterano"
+        ],
+        "link": "https://2001online.com/usa/internacionales/dia-de-los-veteranos-conoce-los-lugares-que-abriran-el-11-de-noviembre-en-eeuu-2025111022130",
+        "date": "2025-11-11 02:13:00",
+        "sentiment_score": -0.2382044643163681
+    },
+    {
+        "title": "Maduro advierte sobre una \"huelga general insurreccional\" en caso de un golpe en Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "nicolás maduro",
+            "eeuu",
+            "venezuela",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-advierte-sobre-una-huelga-general-insurreccional-en-caso-de-un-golpe-en-venezuela-2025111022120",
+        "date": "2025-11-11 02:12:00",
+        "sentiment_score": 0.18182209134101868
+    },
+    {
+        "title": "Terror en Carnival Horizon: FBI investiga causa de misteriosa muerte de estudiante de Florida",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "florida",
+            "joven",
+            "carnival horizon"
+        ],
+        "link": "https://2001online.com/usa/internacionales/terror-en-carnival-horizon-fbi-investiga-causa-de-misteriosa-muerte-de-estudiante-de-florida-202511102200",
+        "date": "2025-11-11 02:00:00",
+        "sentiment_score": 0.7036503925919533
+    },
+    {
+        "title": "¿Quieres una melena sana? Conoce la técnica japonesa que estimula su crecimiento",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762528348513.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/quieres-una-melena-sana-conoce-la-tecnica-japonesa-que-estimula-su-crecimiento-202511102200",
+        "date": "2025-11-11 02:00:00",
+        "sentiment_score": 0.8088403046131134
+    },
+    {
+        "title": "Comité Olímpico prohibirá a atletas transgénero participar en competencias femeninas: conozca los motivos",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "comité olímpico internacional",
+            "atletas transgénero"
+        ],
+        "link": "https://2001online.com/deportes/comite-olimpico-prohibira-a-atletas-transgenero-participar-en-competencias-femeninas-conozca-los-motivos-2025111021220",
+        "date": "2025-11-11 01:22:00",
+        "sentiment_score": 0.03670647740364075
+    },
+    {
+        "title": "Arranca pago de un nuevo bono a través del Sistema Patria este 10 de noviembre: conozca monto y quiénes lo cobran",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762820940521.jpg?ch=675&cw=1200",
+        "tags": [
+            "bonos patria",
+            "sistema patria"
+        ],
+        "link": "https://2001online.com/nacionales/arranca-pago-de-un-nuevo-bono-a-traves-del-sistema-patria-este-10-de-noviembre-conozca-monto-y-quienes-lo-cobran-202511102120",
+        "date": "2025-11-11 01:02:00",
+        "sentiment_score": -0.02380584180355072
+    },
+    {
+        "title": "Carta astral de Stephany Abasali: Conoce si tiene oportunidad de ser coronada como Miss Universo 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762779770403.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/carta-astral-de-stephany-abasali-conoce-si-tiene-oportunidad-de-ser-coronada-como-miss-universo-2025-202511102100",
+        "date": "2025-11-11 01:00:00",
+        "sentiment_score": -0.004705965518951416
+    },
+    {
+        "title": "¡Luto en Coral Springs! El Desastre golpea a misión humanitaria: avioneta con ayuda para Jamaica no deja sobrevivientes en Florida",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762822577185.jpg?ch=675&cw=1200",
+        "tags": [
+            "avioneta",
+            "#florida",
+            "misión humanitaria",
+            "coral springs"
+        ],
+        "link": "https://2001online.com/usa/internacionales/luto-en-coral-springs-el-desastre-golpea-a-mision-humanitaria-avioneta-con-ayuda-para-jamaica-no-deja-sobrevivientes-en-florida-2025111020520",
+        "date": "2025-11-11 00:52:00",
+        "sentiment_score": -0.3625653646886349
+    },
+    {
+        "title": "Las primeras declaraciones Angélica Vale sobre su divorcio: sorprende con esta revelación",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "otto padrón",
+            "angélica vale",
+            "divorcio"
+        ],
+        "link": "https://2001online.com/farandula/las-primeras-declaraciones-angelica-vale-sobre-su-divorcio-sorprende-con-esta-revelacion-2025111020440",
+        "date": "2025-11-11 00:44:00",
+        "sentiment_score": -0.05475723743438721
+    },
+    {
+        "title": "Muere exlanzador del Magallanes a los 25 años: reportan que fue asesinado durante un asalto",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "lvbp",
+            "wikelman ramírez"
+        ],
+        "link": "https://2001online.com/deportes/muere-exlanzador-del-magallanes-a-los-25-anos-reportan-que-fue-asesinado-tras-un-asalto-2025111020330",
+        "date": "2025-11-11 00:33:00",
+        "sentiment_score": 0.3986216261982918
     }
 ];
