@@ -160,29 +160,6 @@ export default [
         "sentiment_score": -0.5267879366874695
     },
     {
-        "title": "La Junta invierte 2,6 millones en bonificaciones para más de 5.000 estudiantes de la UCO",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/11/08/campus-rabanales-uco-RkCTOcy9PUs5pKAr340jLdJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "andalucía",
-            "córdoba"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/junta-invierte-millones-bonificaciones-5000-estudiantes-uco-20251108122844-nts.html",
-        "date": "2025-11-08 11:28:46",
-        "sentiment_score": 0.01869356632232666
-    },
-    {
-        "title": "Sorprendidos en directo: las cámaras de un chalé graban a tres encapuchados robando en Torrent",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/11/08/1-ROkNrDSRe3oHZ8mPEQ20UFN-1200x840@diario_abc.JPG",
-        "tags": [
-            "españa",
-            "valencia"
-        ],
-        "link": "https://www.abc.es/espana/comunidad-valenciana/sorprendidos-directo-camaras-chale-graban-tres-encapuchados-20251108112350-nt.html",
-        "date": "2025-11-08 10:23:50",
-        "sentiment_score": -0.24058251082897186
-    },
-    {
         "title": "Acompañando a pacientes en paliativos: “Más que miedo a morir, tienen miedo a los temas pendientes. A los rencores”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/ZQW5EJ5WNVDRHGF72ITFPIQ6VY.JPG?auth=79af4d3e8250bd08c18dbd79185c301c96081f7696648d8fa3085f8ee0240d32&width=1200",
         "tags": [
@@ -261,58 +238,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-11-08/fallece-el-rector-de-la-universidad-ramon-llull-josep-antoni-rom-a-los-61-anos.html",
         "date": "2025-11-08 14:40:20",
         "sentiment_score": -0.800866873934865
-    },
-    {
-        "title": "FGC agrupa las seis estaciones de esquí en la marca Pirineu365 para desestacionalizar la montaña y poderla disfrutar todo el año",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/JC6MFJNZLESQILQXIRIQAVLXZQ.jpg?auth=0ed3824bae3888ae55601a32993ad909434273ddf10fef7e7028babfcc875612&width=1200",
-        "tags": [
-            "estaciones esquí",
-            "vall de nuria",
-            "empresas públicas",
-            "boí taüll",
-            "generalitat cataluña",
-            "vallter 2000",
-            "fgc",
-            "pirineos",
-            "cataluña",
-            "la molina"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-08/fgc-agrupa-las-seis-estaciones-de-esqui-en-la-marca-pirineu365-para-desestacionalizar-la-montana-y-poderla-disfrutar-todo-el-ano.html",
-        "date": "2025-11-08 11:09:27",
-        "sentiment_score": 0.6387843023985624
-    },
-    {
-        "title": "Collboni anuncia una unidad municipal para combatir las ‘fake news’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OE2PB2DCGJPJDC272UPGEZJLJI.jpg?auth=36def56c26e66133409b04383575dedfa4021506b56c272deea4191b3e821900&width=1200",
-        "tags": [
-            "jaume collboni",
-            "ayuntamiento barcelona",
-            "donald trump",
-            "nueva york",
-            "cataluña",
-            "twitter",
-            "ultraderecha",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-08/collboni-anuncia-una-unidad-municipal-para-combatir-las-fake-news.html",
-        "date": "2025-11-08 10:55:27",
-        "sentiment_score": 0.563740648329258
-    },
-    {
-        "title": "Un policía en estado crítico tras recibir un disparo de un hombre atrincherado en Sevilla",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/E2NUK35NAJBDXNLOZW7RUAYBQM.jpg?auth=73b6c5ec2c241096c789dfd26f2aee22c6d742f63238ced0817ccc9bc8a6d6d9&width=1200",
-        "tags": [
-            "tiroteos",
-            "andalucía",
-            "heridos",
-            "provincia sevilla",
-            "españa",
-            "policía",
-            "sevilla"
-        ],
-        "link": "https://elpais.com/espana/2025-11-08/un-policia-en-estado-critico-tras-recibir-un-disparo-de-un-hombre-atrincherado-en-sevilla.html",
-        "date": "2025-11-08 10:34:38",
-        "sentiment_score": -0.1279701590538025
     },
     {
         "title": "Rosalía desvela los secretos de su nuevo álbum ‘Lux’ en una entrevista exclusiva con Apple Music",
@@ -8371,5 +8296,676 @@ export default [
         "link": "https://2001online.com/usa/internacionales/familia-mas-segura-california-aprueba-11-nuevas-leyes-para-proteger-a-los-inmigrantes-202511111700",
         "date": "2025-11-11 21:00:00",
         "sentiment_score": -0.6518887579441071
+    },
+    {
+        "title": "España recupera bienes culturales de México en el aeropuerto de Bilbao",
+        "image_url": "https://www.infobae.com/resizer/v2/ABXVI6ENFFGF3HARBIB5L2S4KQ.jpg?auth=a08d2825578035344d46b21e688b0cdf889a2efdb6cc78f05259d093e77fa5d1&height=924&smart=true&width=1640",
+        "tags": [
+            "ecuador",
+            "exico-noticias",
+            "ministerio de hacienda",
+            "bilbao",
+            "patrimonio histórico",
+            "españa",
+            "méxico",
+            "instituto nacional de antropología e historia"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2025/11/12/espana-recupera-bienes-culturales-de-mexico-en-el-aeropuerto-de-bilbao/",
+        "date": "2025-11-12 00:14:44",
+        "sentiment_score": 0.34865230321884155
+    },
+    {
+        "title": "Óscar López asegura que el fiscal general es \"inocente\" y que sólo es \"culpable\" de \"perseguir un delito\"",
+        "image_url": "https://www.infobae.com/resizer/v2/F5CFYQAYHZCRNPIPT2UWYYEXVA.jpg?auth=75f71910436d67e293f3ef16f2f9f57ecf22914776ec186cf82fb409c340e1ed&height=1440&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/11/oscar-lopez-asegura-que-el-fiscal-general-es-inocente-y-que-solo-es-culpable-de-perseguir-un-delito/",
+        "date": "2025-11-11 23:15:56",
+        "sentiment_score": -0.8298657368868589
+    },
+    {
+        "title": "Cupón Diario de la Once: resultados del 11 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "cupón diario",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/11/cupon-diario-de-la-once-resultados-del-11-de-noviembre/",
+        "date": "2025-11-11 23:15:28",
+        "sentiment_score": 0.17068158090114594
+    },
+    {
+        "title": "Cocaína en pulpa de fruta colombiana, así fue desmantelada la red de narcotráfico que operaba en España",
+        "image_url": "https://www.infobae.com/resizer/v2/BUQ5UXX2YBEKZM2UVOSD3HN5UE.png?auth=2e58b86ce90681d895f94d9d7b19cc326f88c98c8742e923150d7605527ab893&height=770&smart=true&width=1200",
+        "tags": [
+            "colombia-noticias",
+            "alicante",
+            "españa",
+            "narcotráfico",
+            "cocaína",
+            "pulpa de fruta"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/11/11/cocaina-en-pulpa-de-fruta-colombiana-asi-fue-desmantelada-la-red-de-narcotrafico-que-operaba-en-espana/",
+        "date": "2025-11-11 22:56:46",
+        "sentiment_score": 0.017563089728355408
+    },
+    {
+        "title": "Marc Márquez revive su última victoria en ‘El Hormiguero’: “Sentí una explosión de emociones que no había sentido nunca”",
+        "image_url": "https://www.infobae.com/resizer/v2/QSMXHYSVDNE77KK6L7Q7IUXJS4.jpg?auth=190c06893ed79218f16b85333d7dcb0540ae86535cbefd50fe0dc69159778129&height=4000&smart=true&width=6000",
+        "tags": [
+            "motogp",
+            "televisión",
+            "marc márquez",
+            "españa-noticias",
+            "celebridades españa",
+            "el hormiguero",
+            "pablo motos",
+            "moto gp",
+            "famosos españa",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/11/marc-marquez-revive-su-ultima-victoria-en-el-hormiguero-senti-una-explosion-de-emociones-que-no-habia-sentido-nunca/",
+        "date": "2025-11-11 22:44:01",
+        "sentiment_score": 0.6550721377134323
+    },
+    {
+        "title": "Resultados de Eurojackpot: ganadores y números premiados",
+        "image_url": "https://www.infobae.com/resizer/v2/Q7FNQIJEBVFCBNCYSSGYYQFK6A.jpg?auth=d0a8f05dacad4e8a73566665ba986c216d1358565751f754ffaeb9d98bf2f3be&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "eurojackpot"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/11/resultados-de-eurojackpot-ganadores-y-numeros-premiados/",
+        "date": "2025-11-11 22:16:02",
+        "sentiment_score": 0.09195789694786072
+    },
+    {
+        "title": "Hijo de Pablo Escobar comenzó gira en España: “La realidad todavía está vinculada al narcotráfico”",
+        "image_url": "https://www.infobae.com/resizer/v2/5KKI446QGVCO5DT2O3KLFI3X7U.png?auth=4e69bbb4636ff207937c74805ca324e6f70c3ead3cb71c3afd188148265b67b1&height=770&smart=true&width=1200",
+        "tags": [
+            "pablo escobar",
+            "españa",
+            "colombia-noticias",
+            "hijo de escobar",
+            "zaragoza",
+            "juan pablo escobar",
+            "narcotráfico"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/11/11/hijo-de-pablo-escobar-comenzo-gira-en-espana-la-realidad-todavia-esta-vinculada-al-narcotrafico/",
+        "date": "2025-11-11 22:06:44",
+        "sentiment_score": -0.16304709017276764
+    },
+    {
+        "title": "El pueblo de Madrid con restos paleolíticos, romanos y medievales: albergó a los primeros cristianos y conserva tumbas legendarias y arte en las rocas",
+        "image_url": "https://www.infobae.com/resizer/v2/JQA2MNA3N5CITIWBBHHY7PUMZU.png?auth=7464eb811a5fb309816141aa26cfe1c0d6c657d611d50495c1a691fc38e62ee2&height=718&smart=true&width=1070",
+        "tags": [
+            "españa-noticias",
+            "pueblos",
+            "españa viajes",
+            "destinos españa",
+            "comunidad de madrid",
+            "viajes",
+            "destinos",
+            "pueblos de españa",
+            "turismo",
+            "turismo españa",
+            "viajes y turismo"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/11/el-pueblo-de-madrid-con-restos-paleoliticos-romanos-y-medievales-albergo-a-los-primeros-cristianos-y-conserva-tumbas-legendarias-y-arte-en-las-rocas/",
+        "date": "2025-11-11 21:14:58",
+        "sentiment_score": 0.6507426183670759
+    },
+    {
+        "title": "Comprobar Euromillones resultados 11 de noviembre de 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/DF22RSLR7JHWNAJDJLQSSD4WYM.jpg?auth=884d85f7a5a7170273df2b8663f2491f108df738651f05b4bc51277e075aa471&height=1080&smart=true&width=1920",
+        "tags": [
+            "euromillones",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/11/comprobar-euromillones-los-ganadores-para-este-11-de-noviembre/",
+        "date": "2025-11-11 20:57:42",
+        "sentiment_score": 0.5332285091280937
+    },
+    {
+        "title": "Estas son las cuatro películas favoritas del Papa León XIV (y ninguna es ‘Cónclave’)",
+        "image_url": "https://www.infobae.com/resizer/v2/LELJV4FOBBCLPIXLXPXLTZTJBQ.jpg?auth=c70681f4c15ee60be656e4713d43d12928ad1a6acb4545b2450e873a09bf6319&height=1080&smart=true&width=1920",
+        "tags": [
+            "cine",
+            "león xiv",
+            "cine españa",
+            "robert prevost",
+            "papa",
+            "españa-cultura"
+        ],
+        "link": "https://www.infobae.com/espana/cultura/2025/11/11/estas-son-las-cuatro-peliculas-favoritas-del-papa-leon-xiv-y-ninguna-es-conclave/",
+        "date": "2025-11-11 20:54:14",
+        "sentiment_score": 0.09170212596654892
+    },
+    {
+        "title": "La Centuria Macarena rescata el emblemático tambor de Pepe Hidalgo para la nueva batería de la banda",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/11/12/tambor-centuria-nuevo-Rq5RXsO98GqlOc6WFOVrYqJ-1200x840@diario_abc.jpg",
+        "tags": [
+            "noticias semana santa en sevilla",
+            "pasion en sevilla",
+            "sevilla"
+        ],
+        "link": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/centuria-macarena-rescata-emblematico-tambor-pepe-hidalgo-20251112000905-nts.html",
+        "date": "2025-11-11 23:10:02",
+        "sentiment_score": 0.06493282318115234
+    },
+    {
+        "title": "Microsoft invertirá 8.650 millones en un gran centro de datos de IA en Portugal",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/11/1502902215-kF9C-U701920842183tfC-1200x840@diario_abc.jpg",
+        "tags": [
+            "microsoft",
+            "ia",
+            "invertira",
+            "datos",
+            "millones",
+            "portugal",
+            "8650",
+            "gran",
+            "centro"
+        ],
+        "link": "https://www.abc.es/economia/microsoft-invertira-8650-millones-gran-centro-datos-20251111213110-nt.html",
+        "date": "2025-11-11 20:31:10",
+        "sentiment_score": 0.0025245845317840576
+    },
+    {
+        "title": "Vivir en zapatillas",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/11/04/Fentanilo-U51311103253kqT-170x119@Hoy.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.abc.es/opinion/luis-herrero-vivir-zapatillas-20251112135256-nt.html",
+        "date": "2025-11-11 18:14:47",
+        "sentiment_score": -0.4265395998954773
+    },
+    {
+        "title": "Los herederos del Sultán de Joló pierden su demanda contra España de 15.500 millones",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/11/11/sultan-jolo-RFnJ6s2uEoa196tCC9QlAFP-1200x840@diario_abc.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.abc.es/economia/herederos-sultan-jolo-pierden-demanda-espana-15500-20251111183848-nt.html",
+        "date": "2025-11-11 17:38:49",
+        "sentiment_score": -0.5465622916817665
+    },
+    {
+        "title": "El fiscal general suma testimonios a favor a la espera de la UCO",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PWBK6SFHDZBTBBOFW4ENHM534I.jpg?auth=56642c77c899716266954e9d7b5bdc59400063c540268fd639123d5b2cdb30c4&width=1200",
+        "tags": [
+            "tribunal supremo",
+            "periodismo",
+            "españa",
+            "alberto gonzález amador",
+            "isabel díaz ayuso",
+            "juicios",
+            "fiscalía general estado",
+            "filtración documentos",
+            "el país",
+            "cadena ser",
+            "álvaro garcía ortiz"
+        ],
+        "link": "https://elpais.com/espana/2025-11-11/el-fiscal-general-suma-testimonios-a-favor-a-la-espera-de-la-uco.html",
+        "date": "2025-11-11 20:14:44",
+        "sentiment_score": -0.3962073437869549
+    },
+    {
+        "title": "España podrá reubicar migrantes en otros países de la UE",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RY43CJ7SYVEFBA6EH5TIYC2KTM.jpg?auth=8a94f9d927774a5162984bc7fa8fd979eecdf874d764a80092f1603c3ca2a374&width=1200",
+        "tags": [
+            "comisión europea",
+            "inmigración",
+            "migración",
+            "españa",
+            "unión europea",
+            "inmigración irregular",
+            "europa"
+        ],
+        "link": "https://elpais.com/internacional/2025-11-11/espana-podra-reubicar-migrantes-en-otros-paises-de-la-ue.html",
+        "date": "2025-11-11 19:42:26",
+        "sentiment_score": -0.08477921783924103
+    },
+    {
+        "title": "El Congreso vota el jueves posponer el cierre de Almaraz pendiente de Junts",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/5RMPXHMVOJBX3G5SO477RI7APE.jpg?auth=9d389dc5afd18d9abd786a62987faa22057c0d32808bef0b9ff540f912464609&width=1200",
+        "tags": [
+            "pp",
+            "senado",
+            "españa",
+            "almaraz",
+            "movilidad sostenible",
+            "energía nuclear",
+            "centrales nucleares",
+            "psoe",
+            "leyes orgánicas",
+            "sumar",
+            "congreso diputados"
+        ],
+        "link": "https://elpais.com/espana/2025-11-11/el-congreso-vota-el-jueves-posponer-el-cierre-de-almaraz-pendiente-de-junts.html",
+        "date": "2025-11-11 18:42:06",
+        "sentiment_score": -0.3530754894018173
+    },
+    {
+        "title": "Buscar la verdad con distintas reglas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QC7ZHKC4N5PE3IS6KG37JYJQJI.jpg?auth=7763be86b2c90e0a1d94fbc490c7c57bb0c59136a0f6aed12270d5135fd8fb91&width=1200",
+        "tags": [
+            "tribunal supremo",
+            "periodismo",
+            "españa",
+            "investigación judicial",
+            "fiscalía general estado",
+            "álvaro garcía ortiz"
+        ],
+        "link": "https://elpais.com/espana/2025-11-11/buscar-la-verdad-con-distintas-reglas.html",
+        "date": "2025-11-11 18:26:18",
+        "sentiment_score": -0.5598152130842209
+    },
+    {
+        "title": "Page auspicia el acuerdo entre PSOE y PP para reformar el Estatuto de Autonomía de Castilla-La Mancha",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/T4VDDGO3EVK4NOSI2D64IIZTLE.jpg?auth=e5390bed58f3c0c43d34ecdc148706983c5c990df6d824d8afdd6ba10f87bd5f&width=1200",
+        "tags": [
+            "pp",
+            "emiliano garcía-page",
+            "españa",
+            "vox",
+            "psoe",
+            "barones psoe",
+            "castilla-la mancha",
+            "comunidades autónomas"
+        ],
+        "link": "https://elpais.com/espana/2025-11-11/page-auspicia-el-acuerdo-entre-psoe-y-pp-para-reformar-el-estatuto-de-autonomia-de-castilla-la-mancha.html",
+        "date": "2025-11-11 18:07:59",
+        "sentiment_score": 0.4977671504020691
+    },
+    {
+        "title": "Ayuso defiende a Ryanair en su pulso con Sánchez por las tarifas de Aena: “Se ponen palos a los motores”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7BBYMRLV7BNHZP3NOV3W5O33LQ.jpg?auth=2b33870efa4d9c83f011e358426405afd81b142b8abca2b327b1808a8dbd6ef2&width=1200",
+        "tags": [
+            "aeropuertos",
+            "ryanair",
+            "tarifa",
+            "madrid",
+            "polémicas",
+            "aerolíneas",
+            "comunidad de madrid",
+            "aena aeropuertos",
+            "isabel díaz ayuso",
+            "michael o'leary",
+            "vuelo"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-11-11/ayuso-defiende-a-ryanair-en-su-pulso-con-sanchez-por-las-tarifas-de-aena-se-ponen-palos-a-los-motores.html",
+        "date": "2025-11-11 17:19:48",
+        "sentiment_score": -0.6794354896992445
+    },
+    {
+        "title": "El Gobierno catalán diseña su plan ferroviario con dos nuevas líneas en el horizonte",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/UZFTNVU4J5E35GPXDVKF7D4JEM.jpg?auth=88d9dc19d10d4bc25d4ce8d1a0f1b5f356b966e7eaa14a7a480b45e8c3beb905&width=1200",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-11/el-gobierno-catalan-disena-su-plan-ferroviario-con-dos-nuevas-lineas-en-el-horizonte.html",
+        "date": "2025-11-11 17:18:00",
+        "sentiment_score": 0.42657001689076424
+    },
+    {
+        "title": "Fútbol y negocio",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "negocio",
+            "futbol"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/futbol-negocio_0_2005219079.html",
+        "date": "2025-11-12 02:09:54",
+        "sentiment_score": 0.1258479654788971
+    },
+    {
+        "title": "El Atlético se une a UAX, GoFit y Playtomic en su Ciudad del Deporte",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/82626de1ad9e98b6c398b4ab1a4fe242/crop/15x13/652x438/f/webp/assets/multimedia/imagenes/2025/11/11/17628999540683.jpg",
+        "tags": [
+            "deportes>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/directivos/deporte-negocio/2025/11/12/6913b283468aeb7f7a8b4582.html",
+        "date": "2025-11-12 02:08:45",
+        "sentiment_score": 0.5962436981499195
+    },
+    {
+        "title": "¿Vuelve a dirigir? La sorpresiva respuesta de Zinedine Zidane sobre su regreso al banquillo",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Zinedine-Zidane-francia-futbol.jpg",
+        "tags": [
+            "titulares",
+            "zinedine zidane",
+            "francia",
+            "deportes",
+            "futbol"
+        ],
+        "link": "https://lapatilla.com/2025/11/11/vuelve-a-dirigir-la-sorpresiva-respuesta-de-zinedine-zidane-sobre-su-regreso-al-banquillo/",
+        "date": "2025-11-12 01:18:57",
+        "sentiment_score": 0.3262094706296921
+    },
+    {
+        "title": "La posible formación de Argentina para enfrentar a Angola: de la titularidad de Messi al reemplazante de Dibu Martínez",
+        "image_url": "https://www.infobae.com/resizer/v2/JIWBL2DHKZEEFPNUKG7IOXD2PY.jpg?auth=6be82cf3c0e05c86afc065e38ebaeca6738adf39df695bf4ef0d97fc295c4506&height=1080&smart=true&width=1920",
+        "tags": [
+            "lionel messi",
+            "selección argentina",
+            "deportes-argentina",
+            "lionel scaloni",
+            "selección de angola",
+            "fecha fifa"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/12/la-posible-formacion-de-argentina-para-enfrentar-a-angola-de-la-titularidad-de-messi-al-reemplazante-de-dibu-martinez/",
+        "date": "2025-11-12 01:18:08",
+        "sentiment_score": -0.638190433382988
+    },
+    {
+        "title": "Ben Busche, el alemán 'de Chamberí' que iluminará la calle Goya en Navidad: 25 arcos con más de 225.000 luces",
+        "image_url": "https://s3.elespanol.com/2025/11/11/actualidad/1003744009027_259874187_1706x960.jpg",
+        "tags": [
+            "madrid comunidad",
+            "navidad",
+            "madrid",
+            "comunidad de madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20251112/ben-busche-aleman-chamberi-iluminara-calle-goya-navidad-arcos-luces/1003744008182_0.html",
+        "date": "2025-11-12 01:00:00",
+        "sentiment_score": 0.10736126825213432
+    },
+    {
+        "title": "Dentro del autobús sin conductor de Almeida: es gratuito, alcanza los 30 km/h y entran más de 20 personas",
+        "image_url": "https://s3.elespanol.com/2025/11/11/madrid/1003744009298_259877785_1706x960.jpg",
+        "tags": [
+            "movilidad",
+            "autobuses",
+            "madrid capital"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20251112/dentro-autobus-sin-conductor-almeida-gratuito-alcanza-kmh-entran-personas/1003744008548_0.html",
+        "date": "2025-11-12 01:00:00",
+        "sentiment_score": 0.22213678434491158
+    },
+    {
+        "title": "El 'récord okupa' y la desaparición de la oferta de alquiler hacen de Girona la única ciudad española donde baja el precio de la vivienda",
+        "image_url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/graficos/1762870022_990x0.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/11/12/6913748ae85ecee1498b45a4.html",
+        "date": "2025-11-12 00:59:40",
+        "sentiment_score": 0.46293262392282486
+    },
+    {
+        "title": "Caos en las tasas de basura: aluvión de reclamaciones, brecha de hasta 230 euros entre ciudades y un agujero de 2.000 millones",
+        "image_url": "https://phantom-elmundo.uecdn.es/6989ccb92a06969a4f1df62605fe2a60/crop/514x0/2562x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/20/17609823533524.jpg",
+        "tags": [
+            "artículos alejandra olcese"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/11/12/69134ec2e85ece986c8b45b9.html",
+        "date": "2025-11-12 00:59:39",
+        "sentiment_score": -0.18852631747722626
+    },
+    {
+        "title": "Patti Smith en sus memorias más maduras: una dolorosa viudedad y la búsqueda de su padre biológico",
+        "image_url": "https://s3.elespanol.com/2025/11/07/actualidad/1003744004073_259807734_1706x960.jpg",
+        "tags": [
+            "letras",
+            "memorias"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251112/patti-smith-memorias-maduras-dolorosa-viudedad-busqueda-padre-biologico/1003744004030_0.html",
+        "date": "2025-11-12 00:55:00",
+        "sentiment_score": 0.4082448184490204
+    },
+    {
+        "title": "'Madre mujer muerta', otra grata sorpresa de Adolfo García Ortega: la galdosiana historia real de su bisabuela",
+        "image_url": "https://s3.elespanol.com/2025/11/11/actualidad/1003744009263_259877304_1706x960.jpg",
+        "tags": [
+            "novela"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/novela/20251112/madre-mujer-muerta-grata-sorpresa-adolfo-garcia-ortega-galdosiana-historia-real-bisabuela/1003744009095_0.html",
+        "date": "2025-11-12 00:55:00",
+        "sentiment_score": 0.6326513364911079
+    },
+    {
+        "title": "Construir vivienda sigue sin ser apetecible pese a la demanda: la rentabilidad española aún es 5 veces inferior a la de Francia",
+        "image_url": "https://s3.elespanol.com/2025/08/27/actualidad/1003743900819_258252470_1706x960.jpg",
+        "tags": [
+            "andalucía",
+            "construcción",
+            "observatorio de la vivienda",
+            "vivienda"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/vivienda/20251112/construir-vivienda-sigue-sin-apetecible-pese-demanda-rentabilidad-espanola-veces-inferior-francia/1003744008647_0.html",
+        "date": "2025-11-12 01:02:46",
+        "sentiment_score": -0.6496578026562929
+    },
+    {
+        "title": "Quiebra Sonder, cadena con hoteles en Madrid, Barcelona y Málaga dejando a los clientes en la calle",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/d0/media_thumb-link-4116499.webp?1762892046=",
+        "tags": [
+            "málaga",
+            "sonder",
+            "barcelona",
+            "madrid",
+            "hoteles",
+            "actualidad",
+            "quiebra"
+        ],
+        "link": "https://www.meneame.net/story/quiebra-sonder-cadena-hoteles-madrid-barcelona-malaga",
+        "date": "2025-11-12 00:55:02",
+        "sentiment_score": -0.13943883776664734
+    },
+    {
+        "title": "Tras los pasos de Simbad el marino: un viaje por las desconocidas arterias marítimas del mundo árabe",
+        "image_url": "https://s3.elespanol.com/2025/11/11/actualidad/1003744008100_259861266_1706x960.jpg",
+        "tags": [
+            "yemen",
+            "islam",
+            "historia",
+            "omán",
+            "libros"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/historia/20251112/pasos-simbad-marino-viaje-desconocidas-arterias-maritimas-mundo-arabe/1003744007969_0.html",
+        "date": "2025-11-12 00:55:00",
+        "sentiment_score": 0.012206494808197021
+    },
+    {
+        "title": "Grady Hendrix, el escritor de género que podría hacer temblar a Stephen King: \"El terror murió en los 90\"",
+        "image_url": "https://s3.elespanol.com/2025/11/11/actualidad/1003744009244_259877048_1706x960.jpg",
+        "tags": [
+            "terror",
+            "letras"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251112/grady-hendrix-escritor-genero-podria-hacer-temblar-stephen-king-terror-murio/1003744009193_0.html",
+        "date": "2025-11-12 00:55:00",
+        "sentiment_score": -0.5385428443551064
+    },
+    {
+        "title": "La curiosa cláusula que podría darle a Messi un último baile con el Barcelona",
+        "image_url": "https://pxcdn.meridiano.net/112025/1762909937088.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/la-curiosa-clausula-que-podria-darle-a-messi-un-ultimo-baile-con-el-barcelona-2025111120470",
+        "date": "2025-11-12 00:47:00",
+        "sentiment_score": 0.5478890612721443
+    },
+    {
+        "title": "Las claves de la guerra entre el Barça y Luis de la Fuente por Lamine Yamal: la Federación, atrapada",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/28/culemania/primer-equipo/1003742702143_15333664_1706x960.jpg",
+        "tags": [
+            "lamine yamal",
+            "barça",
+            "real federación española de fútbol (rfef)",
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251112/barca-luis-fuente-lamine-yamal-federacion-atrapada/1003742706540_0.html",
+        "date": "2025-11-12 00:39:41",
+        "sentiment_score": -0.43387605249881744
+    },
+    {
+        "title": "Los 49 canteranos de la Masía que juegan en la Liga: 16 jugadores más que el Real Madrid",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/28/culemania/primer-equipo/1003742702119_15333321_1706x960.jpg",
+        "tags": [
+            "barça",
+            "real madrid",
+            "palco",
+            "la masía"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251112/canteranos-masia-juegan-liga-jugadores-real-madrid/1003742706630_0.html",
+        "date": "2025-11-12 00:39:19",
+        "sentiment_score": -0.7599844634532928
+    },
+    {
+        "title": "Denuncian que tienen una semana sin gas directo en Las Aves Suites y residencias adyacentes en Barcelona",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "comunidad"
+        ],
+        "link": "https://eltiempove.com/denuncian-que-tienen-una-semana-sin-gas-directo-en-las-aves-suites-y-residencias-adyacentes-en-barcelona/",
+        "date": "2025-11-12 00:26:30",
+        "sentiment_score": -0.6577941756695509
+    },
+    {
+        "title": "Dos tercios de los niños en edad escolar presentan en algún momento un soplo funcional o inocente",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/98bfabb1-07d1-4127-b100-de135340a10e_16-9-aspect-ratio_default_1415096.jpg",
+        "tags": [
+            "niños",
+            "quirónsalud",
+            "corazón",
+            "españa",
+            "el niño",
+            "tenerife",
+            "salud"
+        ],
+        "link": "https://www.eldia.es/salud/2025/11/12/tercios-ninos-edad-escolar-presentan-123617230.html",
+        "date": "2025-11-12 00:00:54",
+        "sentiment_score": -0.35951346531510353
+    },
+    {
+        "title": "Italianos en EEUU \"al borde\": tradicional producto alimenticio en peligro por los aranceles de Trump",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "pasta",
+            "aranceles",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/usa/internacionales/italianos-en-eeuu-al-borde-tradicional-producto-alimenticio-en-peligro-por-los-aranceles-de-trump-202511112200",
+        "date": "2025-11-12 02:00:00",
+        "sentiment_score": 0.35037992894649506
+    },
+    {
+        "title": "Terapias del dolor: coordinadora del Servicio de Hemodinamia de reconocida clínica revela el secreto para mejorar tu calidad de vida",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762792365447.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/terapias-del-dolor-coordinadora-del-servicio-de-hemodinamia-de-reconocida-clinica-revela-el-secreto-para-mejorar-tu-calidad-de-vida-202511112200",
+        "date": "2025-11-12 02:00:00",
+        "sentiment_score": 0.7541315937414765
+    },
+    {
+        "title": "Maduro promulga ley para la defensa integral de la nación: puntos claves del texto legal",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "ley",
+            "diario 2001",
+            "militares",
+            "venezuela",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-promulga-ley-para-la-defensa-integral-de-la-nacion-puntos-claves-del-texto-legal-202511112100",
+        "date": "2025-11-12 01:00:00",
+        "sentiment_score": -0.04106710106134415
+    },
+    {
+        "title": "Olga Tañón revela que no asistirá a los Latin Grammy 2025: Es una decisión difícil y muy dolorosa",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "reconocimiento",
+            "latin grammy 2025",
+            "olga tañón"
+        ],
+        "link": "https://2001online.com/farandula/olga-tanon-revela-que-no-asistira-a-los-latin-grammy-2025-es-una-decision-dificil-y-muy-dolorosa-2025111120360",
+        "date": "2025-11-12 00:36:00",
+        "sentiment_score": -0.559326533228159
+    },
+    {
+        "title": "El secreto de los grandes hoteles internacionales: así logran mantener sus colchones limpios y con agradable aroma",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762880400444.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - hogar"
+        ],
+        "link": "https://2001online.com/zona3d/hogar/el-secreto-de-los-grandes-hoteles-internacionales-asi-logran-mantener-sus-colchones-limpios-y-con-agradable-aroma-2025111120300",
+        "date": "2025-11-12 00:30:00",
+        "sentiment_score": -0.7577545158565044
+    },
+    {
+        "title": "Actor de “El juego del calamar” es absuelto de una demanda por acoso: conoce los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762907591364/imagen_2025-11-11_203308766.png?ch=675&cw=1200",
+        "tags": [
+            "netflix",
+            "el juego del calamar",
+            "o yeong-su"
+        ],
+        "link": "https://2001online.com/farandula/actor-de-el-juego-del-calamar-es-absuelto-de-una-demanda-por-acoso-conoce-los-detalles-2025111120270",
+        "date": "2025-11-12 00:27:00",
+        "sentiment_score": -0.6115162931382656
+    },
+    {
+        "title": "Gobierno venezolano facilita el retorno de quienes perdieron el TPS: detalles aquí",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762904752083.jpg?ch=675&cw=1200",
+        "tags": [
+            "diario 2001",
+            "vuelta a la patria",
+            "venezuela",
+            "tps",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/nacionales/gobierno-venezolano-facilita-el-retorno-de-quienes-perdieron-el-tps-detalles-aqui-202511112010",
+        "date": "2025-11-12 00:01:00",
+        "sentiment_score": -0.9207584569230676
+    },
+    {
+        "title": "¿Pacto o batalla total? El arriesgado plan de Mamdani ante las amenazas de Trump a Nueva York",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "trump",
+            "nueva york",
+            "mamdani"
+        ],
+        "link": "https://2001online.com/usa/internacionales/pacto-o-batalla-total-el-arriesgado-plan-de-mamdani-ante-las-amenazas-de-trump-a-nueva-york-202511112000",
+        "date": "2025-11-12 00:00:00",
+        "sentiment_score": 0.2795456778258085
+    },
+    {
+        "title": "¿Cómo logró Lysto entrar al mercado y competir con Cashea? Así fueron las gestiones",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762907665147.jpg?ch=675&cw=1200",
+        "tags": [
+            "lysto",
+            "#cashea"
+        ],
+        "link": "https://2001online.com/servicios/como-logro-lysto-entrar-al-mercado-y-competir-con-cashea-asi-fueron-las-gestiones-2025111119400",
+        "date": "2025-11-11 23:40:00",
+        "sentiment_score": 0.6462095081806183
+    },
+    {
+        "title": "Con 18 Años, el panameño Miguel Ángel Daher traza su ruta a Europa desde Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762905017963.jpg?ch=675&cw=1200",
+        "tags": [
+            "venezuela",
+            "competencias",
+            "ciclismo",
+            "europa"
+        ],
+        "link": "https://2001online.com/deportes/con-18-anos-el-panameno-miguel-angel-daher-traza-su-ruta-a-europa-desde-venezuela-2025111119300",
+        "date": "2025-11-11 23:30:00",
+        "sentiment_score": 0.31069548428058624
     }
 ];
