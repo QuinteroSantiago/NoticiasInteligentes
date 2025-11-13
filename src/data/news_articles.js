@@ -1,168 +1,5 @@
 export default [
     {
-        "title": "Embalses de agua: la reserva bajó este 9 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/KQS6AV5DE5GBFADFLZ5AGX3GIA.png?auth=5e8024028308e1b9e05216da61c2a96eaf1d587ec99588b909fac547fb51a129&height=2355&smart=true&width=3532",
-        "tags": [
-            "españa-noticias",
-            "noticias",
-            "embalses españa",
-            "agua",
-            "sequía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/09/embalses-de-agua-la-reserva-bajo-este-9-de-noviembre/",
-        "date": "2025-11-09 06:15:43",
-        "sentiment_score": -0.33441647328436375
-    },
-    {
-        "title": "La petenera de Rosalía",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/11/04/Fentanilo-U51311103253kqT-170x119@Hoy.jpg",
-        "tags": [
-            "flamenco",
-            "rosalía"
-        ],
-        "link": "https://www.abc.es/opinion/sevilla/alberto-garcia-reyes-petenera-rosalia-20251109072724-nts.html",
-        "date": "2025-11-09 06:27:24",
-        "sentiment_score": -0.08349758386611938
-    },
-    {
-        "title": "Sebas, abogado laboralista: «Si cobras 1.381 euros en doce pagas no es legal»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/sebas-abogado-laboralista-si-ganas-1.131-euros-mes-12-pagas-es-ilegal.jpg",
-        "tags": [
-            "abogados",
-            "legal",
-            "salario mínimo interprofesional (smi)",
-            "laboral",
-            "sueldo",
-            "salarios",
-            "lom",
-            "viral",
-            "economía",
-            "tiktok",
-            "euros",
-            "españa"
-        ],
-        "link": "https://theobjective.com/economia/2025-11-09/abogado-laboralista-1381-euros-doce-pagas-no-legal/",
-        "date": "2025-11-09 06:30:00",
-        "sentiment_score": 0.005625471472740173
-    },
-    {
-        "title": "Cristiano Ronaldo, sobre sus metas: Sabía que sería multimillonario",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/09975d7f-7155-4d82-8bd4-04a5c15dec5a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cristiano ronaldo",
-            "famosos"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20251109/cristiano-ronaldo-metas-sabia-seria-multimillonario-dv-123393945",
-        "date": "2025-11-09 06:15:49",
-        "sentiment_score": 0.8205353431403637
-    },
-    {
-        "title": "El patio de la casa de Los Rueda",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2025/11/1-Perez-de-Castro-1875-.jpg",
-        "tags": [
-            "portada imagen vertical",
-            "segovia",
-            "la mirada"
-        ],
-        "link": "https://eladelantado.com/el-patio-de-la-casa-de-los-rueda/",
-        "date": "2025-11-09 06:15:20",
-        "sentiment_score": -0.036259204149246216
-    },
-    {
-        "title": "Mónica García: \"Hay una línea de puntos que une a Ayuso, Moreno Bonilla y Mañueco y tiene que ver con la negligencia. Hay personas que podían haberse salvado\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/07/la-ministra-de-sanidad-monica-garcia-despues-de-la-entrevista-con-el-huffpost.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/monica-garcia-hay-linea-puntos-une-ayuso-moreno-bonilla-manueco-ver-negligencia-hay-personas-podian-haberse-salvado.html",
-        "date": "2025-11-09 06:03:07",
-        "sentiment_score": -0.6628619059920311
-    },
-    {
-        "title": "Abren becas de hasta el 100% para colombianos que quieran estudiar maestrías y MBA en Europa",
-        "image_url": "https://www.infobae.com/resizer/v2/YR2OXVCIGJAU3MPTYNZ2ZXB5XQ.jpg?auth=402d163ef12ea0fa1cc83fffd39c1a2029c66dbdc00bc376052df13c5b70ca70&height=4480&smart=true&width=6720",
-        "tags": [
-            "colombia-noticias",
-            "educación superior",
-            "maestrías",
-            "escp business school",
-            "colfuturo",
-            "becas internacionales",
-            "becas para colombianos",
-            "estudiar en el exterior"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/11/09/abren-becas-de-hasta-el-100-para-colombianos-que-quieran-estudiar-maestrias-y-mba-en-europa/",
-        "date": "2025-11-09 06:02:40",
-        "sentiment_score": 0.15025996416807175
-    },
-    {
-        "title": "La Rioja: razones para celebrar un evento MICE en un destino único",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1c95bd2e-1f28-4e6e-82e3-ed3ee345cb1a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "turismo de congresos",
-            "turismo",
-            "la rioja"
-        ],
-        "link": "https://www.informacion.es/economia/2025/11/09/rioja-razones-celebrar-evento-mice-123520923.html",
-        "date": "2025-11-09 06:02:24",
-        "sentiment_score": 0.11749471724033356
-    },
-    {
-        "title": "El pueblo catalán que esconde la ‘longevidad’ de Jordi Hurtado: «Mantiene mi corazón vivo»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/pueblo-bcn-jordi-hurtado.jpeg",
-        "tags": [
-            "gente",
-            "barcelona",
-            "celebrities",
-            "presentadores de televisión"
-        ],
-        "link": "https://theobjective.com/gente/2025-11-09/pueblo-barcelona-longevidad-jordi-hurtado/",
-        "date": "2025-11-09 06:30:00",
-        "sentiment_score": 0.7796598114073277
-    },
-    {
-        "title": "Un detective en su mejor momento",
-        "image_url": "https://static.grupojoly.com/clip/7b7376a9-a065-4ac8-bad3-5e32983b451c_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "detective",
-            "momento",
-            "mejor"
-        ],
-        "link": "https://www.diariodesevilla.es/ocio/detective-mejor-momento_0_2005184517.html",
-        "date": "2025-11-09 06:00:47",
-        "sentiment_score": 0.7239269763231277
-    },
-    {
-        "title": "La longevidad, el nuevo privilegio: vivir mucho y bien no es para todos",
-        "image_url": "https://www.infobae.com/resizer/v2/WNIOMPEZWRBIDOXID4QRNLHX7U.png?auth=56854d941e95afc181afdcd89bf212dfa1c9088c83c23b0ee1aa982f590aebf4&height=816&smart=true&width=1456",
-        "tags": [
-            "hábitos",
-            "longevidad",
-            "envejecimiento",
-            "soledad",
-            "privilegio",
-            "barrios",
-            "ingresos",
-            "entorno",
-            "desigualdad"
-        ],
-        "link": "https://www.infobae.com/sociedad/2025/11/09/la-longevidad-el-nuevo-privilegio-vivir-mucho-y-bien-no-es-para-todos/",
-        "date": "2025-11-09 06:00:37",
-        "sentiment_score": -0.20806409418582916
-    },
-    {
-        "title": "Gemma Pinto, novia del motociclismo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a9a41e2a-15c7-4611-8c65-87af7f1b9174_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "influencers",
-            "marc márquez",
-            "entender más"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20251109/gemma-pinto-novia-motociclismo-123397622",
-        "date": "2025-11-09 06:00:13",
-        "sentiment_score": -0.13868802785873413
-    },
-    {
         "title": "La presencia del Tren de Aragua en España: un fenómeno de violencia y crimen organizado asentado en el país",
         "image_url": "https://www.infobae.com/resizer/v2/ZTR2KJ3O6BDSZMYSGRWKEJT3ZU.png?auth=672bc3da61b007d6899da8e46d0eb6050f4feb2f27aefe1e6d3eeb3e12c196c0&height=353&smart=true&width=630",
         "tags": [
@@ -484,49 +321,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-11-09/ayuso-abandona-en-ambulancia-la-misa-de-la-almudena.html",
         "date": "2025-11-09 11:05:43",
         "sentiment_score": -0.26975562795996666
-    },
-    {
-        "title": "Detenidos siete personas acusadas de introducir billetes falsos de 100 euros",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/K2WNAXQSJRH3FBRDBVEOEQCVA4.jpg?auth=539c7db04843548dafd93bdbdb509578e031679ed1af1d603f6bfea32e934193&width=1200",
-        "tags": [
-            "cataluña",
-            "detenciones",
-            "mossos d'esquadra",
-            "pago",
-            "falsificación moneda",
-            "policía",
-            "falsificaciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-09/detenidos-siete-personas-acusadas-de-introducir-billetes-falsos-de-100-euros.html",
-        "date": "2025-11-09 10:16:22",
-        "sentiment_score": -0.8375673182308674
-    },
-    {
-        "title": "Última hora de la actualidad política, en directo | Feijóo cierra el Congreso Regional del PP andaluz",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TVD3IR2XI5MVNHF2RMG26VYKEY.jpg?auth=ca07497264e5d250ce0bd814a30191bd84572c3b8c82a5da6c8143f1a52616df&width=1200",
-        "tags": [
-            "españa",
-            "psoe",
-            "legislaturas políticas",
-            "vox",
-            "política",
-            "pedro sánchez",
-            "congreso diputados",
-            "xv legislatura españa",
-            "políticos",
-            "senado",
-            "debates parlamentarios",
-            "sumar",
-            "alberto núñez feijóo",
-            "santiago abascal",
-            "pp-a",
-            "pp",
-            "yolanda díaz",
-            "partidos políticos"
-        ],
-        "link": "https://elpais.com/espana/2025-11-09/ultima-hora-de-la-actualidad-politica-en-directo.html",
-        "date": "2025-11-09 09:38:31",
-        "sentiment_score": 0.3824274241924286
     },
     {
         "title": "El Real Madrid se atasca ante el Rayo en Vallecas en un partido gris y no despeja las dudas antes del parón de selecciones",
@@ -8568,5 +8362,643 @@ export default [
         "link": "https://2001online.com/farandula/chepa-candela/chepa-candela-la-candidata-por-miranda-clara-vegas-sera-la-proxima-miss-venezuela-mundo--2025111211400",
         "date": "2025-11-12 15:40:00",
         "sentiment_score": 0.8190463464707136
+    },
+    {
+        "title": "Bustinduy se descarta como candidato de Sumar y ve a Díaz como \"la mejor ministra de Trabajo\" en la democracia española",
+        "image_url": "https://www.infobae.com/resizer/v2/YMYDI4ILYJATVKAJHZBSJYIAOU.jpg?auth=e74acfc82e3fcc1924761867f22348d72c98eb3db6a6df9b33915e4a76496e19&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/12/bustinduy-se-descarta-como-candidato-de-sumar-y-ve-a-diaz-como-la-mejor-ministra-de-trabajo-en-la-democracia-espanola/",
+        "date": "2025-11-12 22:00:52",
+        "sentiment_score": 0.3486284911632538
+    },
+    {
+        "title": "“La base y la cruz”: así será la renovación integral del antiguo Valle de los Caídos, en España",
+        "image_url": "https://www.infobae.com/resizer/v2/CYL6PFB5IJFUPPUZ3ZKX3WECUA.jpg?auth=f11c56c41e3aa125833aa025dc98ede3d38a1e3fafa0614075a872699ead9e79&height=1280&smart=true&width=1920",
+        "tags": [
+            "la base y la cruz",
+            "valle de cuelgamuros",
+            "franquismo",
+            "memoria histórica",
+            "guerra civil española",
+            "newsroom bue"
+        ],
+        "link": "https://www.infobae.com/cultura/2025/11/12/la-base-y-la-cruz-asi-sera-la-renovacion-integral-del-antiguo-valle-de-los-caidos-en-espana/",
+        "date": "2025-11-12 21:47:58",
+        "sentiment_score": 0.271907314658165
+    },
+    {
+        "title": "Leire Díez solicita apartar a Aldama y García Castellón como acusaciones al considerar que no fueron perjudicados",
+        "image_url": "https://www.infobae.com/resizer/v2/T4ZA2GLWD5FQJPYBT6PHFDBBOQ.jpg?auth=d898c5dbced21cbda77e15815e8355abeacc11daa69cbbe5d71647fceb7cd14f&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/12/leire-diez-solicita-apartar-a-aldama-y-garcia-castellon-como-acusaciones-al-considerar-que-no-fueron-perjudicados/",
+        "date": "2025-11-12 21:15:34",
+        "sentiment_score": -0.7875075247138739
+    },
+    {
+        "title": "Bonoloto: esta es la combinación ganadora del sorteo del 12 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/Z2M3I6GTDRAKBDQBIJN7RTAJPE.png?auth=aa49b632d6506bc96a1ff7a3f2245bcfb6c28042071e793bc4355847be21fe47&height=900&smart=true&width=1600",
+        "tags": [
+            "noticias",
+            "bonoloto",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/12/bonoloto-esta-es-la-combinacion-ganadora-del-sorteo-del-12-de-noviembre/",
+        "date": "2025-11-12 21:15:33",
+        "sentiment_score": 0.09457578882575035
+    },
+    {
+        "title": "La comisión del Congreso sobre la dana cita el 24 de noviembre a Camarero y al presidente de la Diputación de Valencia",
+        "image_url": "https://www.infobae.com/resizer/v2/XZQXLZFYMRA2LM2B2ZNPIZZK6M.jpg?auth=337cd336e1ee0d1696935feb27b27500d254c7704a3e8c88034013f0e82564f7&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/12/la-comision-del-congreso-sobre-la-dana-cita-el-24-de-noviembre-a-camarero-y-al-presidente-de-la-diputacion-de-valencia/",
+        "date": "2025-11-12 21:00:17",
+        "sentiment_score": 0.0018801689147949219
+    },
+    {
+        "title": "Un español pregunta a un patrón de barco la verdad sobre el monstruo del lago Ness y su respuesta sorprende: “Ahí es donde la gente empezó a verlo”",
+        "image_url": "https://www.infobae.com/resizer/v2/U5S2BH25FRBWHPY5ZLN77B5SNE.jpg?auth=3be755ae0f3e7e60bd2e61689a9c44d1fb56596b4e1417d64f093d53df0b8f0d&height=1080&smart=true&width=1920",
+        "tags": [
+            "virales españa",
+            "virales",
+            "redes sociales",
+            "sucesos",
+            "españa-sociedad",
+            "españa-noticias",
+            "escocia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/12/un-espanol-pregunta-a-un-patron-de-barco-la-verdad-sobre-el-monstruo-del-lago-ness-y-su-respuesta-sorprende-ahi-es-donde-la-gente-empezo-a-verlo/",
+        "date": "2025-11-12 20:57:39",
+        "sentiment_score": -0.6759268790483475
+    },
+    {
+        "title": "Toni Kroos habla sobre la estrella turca del Real Madrid: “Güler podrá marcar una época, pero no es mi sucesor”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "real madrid",
+            "fútbol",
+            "españa-noticias",
+            "fútbol españa",
+            "arda güler",
+            "españa-deportes",
+            "toni kroos"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/11/12/toni-kroos-habla-sobre-la-estrella-turca-del-real-madrid-guler-podra-marcar-una-epoca-pero-no-es-mi-sucesor/",
+        "date": "2025-11-12 20:53:42",
+        "sentiment_score": 0.11348110437393188
+    },
+    {
+        "title": "Más de un año después de la DANA todavía quedan por retirar 81.000 toneladas de residuos en Paiporta",
+        "image_url": "https://www.infobae.com/resizer/v2/G4KMF7YAOJF7JMMB4AJPLF4P2I.jpg?auth=b030d0172f6791f0a0c47e4da2b627fcccb9f96332e59a7d400dfd4975b85480&height=2800&smart=true&width=4200",
+        "tags": [
+            "españa-sociedad",
+            "españa-noticias",
+            "dana en espana",
+            "comunidad valenciana",
+            "residuos",
+            "paiporta",
+            "dana",
+            "valencia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/12/mas-de-un-ano-despues-de-la-dana-todavia-quedan-por-retirar-81000-toneladas-de-residuos-en-paiporta/",
+        "date": "2025-11-12 20:47:57",
+        "sentiment_score": -0.21498001366853714
+    },
+    {
+        "title": "¿Un vigilante de seguridad puede pedirte tu DNI para identificarte? Un abogado resuelve la duda",
+        "image_url": "https://www.infobae.com/resizer/v2/T35UGVIIEBBH7HDUGPDRQTWDTY.jpg?auth=7543405c039f7752ee5e8d1bdf9a7e2f595b3f8bf8c91e078cc9a3714a1820e9&height=4368&smart=true&width=6552",
+        "tags": [
+            "policía españa",
+            "redes sociales",
+            "dni",
+            "tiktok",
+            "españa-noticias",
+            "españa-nacional",
+            "abogado"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/12/un-vigilante-de-seguridad-puede-pedirte-tu-dni-para-identificarte-un-abogado-resuelve-la-duda/",
+        "date": "2025-11-12 20:43:49",
+        "sentiment_score": -0.17967616766691208
+    },
+    {
+        "title": "Pasta con salsa de calabaza: una receta italiana ligera e ideal para otoño",
+        "image_url": "https://www.infobae.com/resizer/v2/GBKGMC4TLRF45IIYH5PIBFVG5M.png?auth=2e2a4ccfead249e620bbae514cb1ac2c9567282b3fd0e74911ae093dfb601fb3&height=590&smart=true&width=934",
+        "tags": [
+            "calabaza",
+            "pasta",
+            "españa-gastronomía",
+            "españa-noticias",
+            "gastronomía italiana",
+            "recetas",
+            "recetas españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/12/pasta-con-salsa-de-calabaza-una-receta-italiana-ligera-e-ideal-para-otono/",
+        "date": "2025-11-12 20:08:45",
+        "sentiment_score": 0.7527683991938829
+    },
+    {
+        "title": "El primer rosco de Reyes, en tirantas",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/11/03/herencia-millonaria-oviedo-U2201793350535Qy--170x119@El%20Comercio.jpg",
+        "tags": [
+            "reyes magos",
+            "luces de navidad",
+            "navidad"
+        ],
+        "link": "https://www.abc.es/opinion/sevilla/silvia-tubio-primer-rosco-reyes-tirantas-20251113215221-nts.html",
+        "date": "2025-11-12 20:52:22",
+        "sentiment_score": -0.009076118469238281
+    },
+    {
+        "title": "El Betis ya conoce el horario del partido de Copa del Rey contra el Torrent",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2025/11/12/Horario-Torrent-Betis-Copa-del-Rey-RAEgSYJZdqHJv1iXYp83YSP-1200x840@diario_abc.jpg",
+        "tags": [
+            "noticias betis",
+            "alfinaldelapalmera",
+            "deportes"
+        ],
+        "link": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-conoce-horario-partido-copa-rey-torrent-20251112200643-nts.html",
+        "date": "2025-11-12 19:10:54",
+        "sentiment_score": -0.06574690341949463
+    },
+    {
+        "title": "El virus del beso es el responsable de la enfermedad de lupus",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/salud/2025/11/12/Girls_kissing.jpg",
+        "tags": [
+            "beso",
+            "responsable",
+            "enfermedad",
+            "lupus",
+            "virus"
+        ],
+        "link": "https://www.abc.es/salud/enfermedades/virus-beso-responsable-enfermedad-lupus-20251112182920-nt.html",
+        "date": "2025-11-12 19:00:06",
+        "sentiment_score": -0.22852997481822968
+    },
+    {
+        "title": "Toda la oposición coincide: “Con más dinero que nunca los servicios públicos están peor que nunca”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/54L6H77AMJGJPI4QBBTPCG4C4I.jpg?auth=490f8ce85429fe9a2887fd14c07d59bba4e32d3df9211c74aca19fb9e896da02&width=1200",
+        "tags": [
+            "por andalucía",
+            "vox",
+            "españa",
+            "junta andalucía",
+            "parlamento andalucía",
+            "adelante andalucía",
+            "sanidad",
+            "pp-a",
+            "juan manuel acosta",
+            "servicios públicos",
+            "psoe-a",
+            "elecciones andaluzas",
+            "andalucía",
+            "economía"
+        ],
+        "link": "https://elpais.com/espana/andalucia/2025-11-12/toda-la-oposicion-coincide-con-mas-dinero-que-nunca-los-servicios-publicos-estan-peor-que-nunca.html",
+        "date": "2025-11-12 21:31:50",
+        "sentiment_score": 0.4509008973836899
+    },
+    {
+        "title": "El Congreso reactiva la tramitación de dos leyes con guiños a derecha e izquierda",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IQIZSZKKA5KJ5DK4MMXYOWO6WY.jpg?auth=9a0cf2dbaf244835ba0e7127177cc95aabbe1f8a18cd96bd03cae6f1a48ee62c&width=1200",
+        "tags": [
+            "sumar",
+            "españa",
+            "código penal",
+            "gobierno",
+            "juntsxcat",
+            "delitos",
+            "congreso diputados",
+            "psoe",
+            "partidos políticos",
+            "política"
+        ],
+        "link": "https://elpais.com/espana/2025-11-12/el-congreso-reactiva-la-tramitacion-de-dos-leyes-con-guinos-a-derecha-e-izquierda.html",
+        "date": "2025-11-12 20:32:00",
+        "sentiment_score": 0.2655968815088272
+    },
+    {
+        "title": "El Congreso cita a Vicente Mompó y Susana Camarero el 24 de noviembre en la comisión que investiga la dana",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GL5JFCYJPVDYZAZHRTZPVUJTY4.jpg?auth=47de2b7769bb0507260f158de45142c31071c45b871160434a883c351ff74e9e&width=1200",
+        "tags": [
+            "pp",
+            "inundaciones dana octubre 2024",
+            "valencia",
+            "madrid",
+            "españa",
+            "generalitat valenciana",
+            "grupos parlamentarios",
+            "compromis-q",
+            "psoe",
+            "congreso diputados",
+            "comisiones investigación",
+            "carlos mazón"
+        ],
+        "link": "https://elpais.com/espana/2025-11-12/el-congreso-cita-a-vicente-mompo-y-susana-camarero-el-24-de-noviembre-en-la-comision-que-investiga-la-dana.html",
+        "date": "2025-11-12 20:26:11",
+        "sentiment_score": -0.21466582641005516
+    },
+    {
+        "title": "Te necesitamos a tope",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/BMRCLEA3Q5IWLNMBEZZFSZB5KI.jpg?auth=410b6f02fe3ee78006c74371f6cb77e9961cc12348309f97f95335230be562bb&width=1200",
+        "tags": [
+            "fiscalía general estado",
+            "tribunal superior",
+            "alberto gonzález amador",
+            "españa"
+        ],
+        "link": "https://elpais.com/espana/2025-11-12/te-necesitamos-a-tope.html",
+        "date": "2025-11-12 20:21:44",
+        "sentiment_score": -0.40694431215524673
+    },
+    {
+        "title": "El fiscal defiende su inocencia, la UCO “infiere” su culpa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CLR4B6YDSNGVVBP2SKADBK557Y.jpg?auth=cc91d506ed93b5ae308bcb7acdf32c9d6e15e5075fedb3532d20873b39fe23da&width=1200",
+        "tags": [
+            "españa",
+            "alberto gonzález amador",
+            "fiscalía general estado",
+            "tribunal superior",
+            "álvaro garcía ortiz"
+        ],
+        "link": "https://elpais.com/espana/2025-11-12/el-fiscal-defiende-su-inocencia-la-uco-infiere-su-culpa.html",
+        "date": "2025-11-12 20:06:25",
+        "sentiment_score": -0.3675154000520706
+    },
+    {
+        "title": "Elisenda Alamany: “Para construir un país grande no se puede dejar a ningún ciudadano al margen”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/D7KUVYFWIZINTKSEVXNRMHXKBE.jpg?auth=4d19b52bab45156957cdd0b6d9d9ae0931b4a36cc714c410c61f2c9ed5a1f770&width=1200",
+        "tags": [
+            "pobreza",
+            "fundaciones",
+            "cataluña",
+            "elisenda alamany",
+            "obra social",
+            "infancia"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-12/elisenda-alamany-para-construir-un-pais-grande-no-se-puede-dejar-a-ningun-ciudadano-al-margen.html",
+        "date": "2025-11-12 19:57:24",
+        "sentiment_score": -0.8709129747003317
+    },
+    {
+        "title": "El colapso de la AP-7 en Tarragona llega al límite",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/3JZT2FAYDBAQ7NU4REMRQQ6TJI.jfif?auth=9d8287405ddffe41f3318b2677794a8d1b27b050200aa39b0e40624e7912da7c&width=1200",
+        "tags": [
+            "ap-7",
+            "camiones",
+            "tráfico",
+            "accidentes tráfico",
+            "cataluña",
+            "carreteras"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-12/el-colapso-de-la-ap-7-en-tarragona-llega-al-limite.html",
+        "date": "2025-11-12 19:06:19",
+        "sentiment_score": -0.5317011252045631
+    },
+    {
+        "title": "La patronal catalana ofrece las capacidades de Cataluña para los planes europeos para la industria de la defensa",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZY3WSI4LCBDBZE472WNABA4J4M.jpg?auth=d054a36c9614539afae36982035a18fbcecf88dface3e3d33bb4d0378cb9c413&width=1200",
+        "tags": [
+            "cataluña",
+            "defensa",
+            "industria",
+            "comisión europea",
+            "empresas",
+            "patronal",
+            "fomento del trabajo nacional",
+            "industria armamentística"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-12/la-patronal-catalana-ofrece-las-capacidades-de-cataluna-para-los-planes-europeos-para-la-industria-de-la-defensa.html",
+        "date": "2025-11-12 18:48:27",
+        "sentiment_score": 0.5325941517949104
+    },
+    {
+        "title": "Polémica en Toledo por un puesto ambulante con ‘merchandising’ franquista: “No es ilegal”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WJNYBBRMCVEOJBGFW7IIAA7A2M.jpg?auth=a7e32896a9f58bbf27c91da327517bacf2ad4a3b54b2305fe6103487101c2bea&width=1200",
+        "tags": [
+            "francisco franco",
+            "pp",
+            "vox",
+            "dictadura",
+            "españa",
+            "venta ambulante",
+            "toledo",
+            "franquismo"
+        ],
+        "link": "https://elpais.com/espana/2025-11-12/polemica-en-toledo-por-un-puesto-ambulante-con-merchandising-franquista-no-es-ilegal.html",
+        "date": "2025-11-12 18:41:10",
+        "sentiment_score": -0.1369500756263733
+    },
+    {
+        "title": "Las angustiosas llamadas de los ancianos fallecidos en la dana: “Estoy subida al sofá, pero el agua sigue entrando”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SW3767G4TJAPBAXBP4544VH5B4.jpg?auth=88334b65a7f346f110b5c3517e3f747e29fcdec8b16f113f3aa1f6c9420e1ff5&width=1200",
+        "tags": [
+            "comunidad valenciana",
+            "dana",
+            "generalitat valenciana",
+            "catástrofes",
+            "inundaciones dana octubre 2024",
+            "carlos mazón"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-12/las-angustiosas-llamadas-de-los-ancianos-fallecidos-en-la-dana-estoy-subida-al-sofa-pero-el-agua-sigue-entrando.html",
+        "date": "2025-11-12 18:06:43",
+        "sentiment_score": -0.929720307700336
+    },
+    {
+        "title": "Marcus Mariota: \"Estar aquí en Madrid es un momento muy especial para todos nosotros\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251112231516_690.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/noticia-marcus-mariota-commanders-estar-aqui-madrid-momento-muy-especial-todos-nosotros-20251112231516.html",
+        "date": "2025-11-12 22:15:16",
+        "sentiment_score": 0.7671616673469543
+    },
+    {
+        "title": "Rapero francés Orelsan dice que un 'malentendido' causó su disputa con Mbappé",
+        "image_url": "https://i.headtopics.com/images/2025/11/12/latimes/rapero-frances-orelsan-dice-que-un-malentendido-ca-rapero-frances-orelsan-dice-que-un-malentendido-ca-D5C8D22753892A018D1D008EA95097E5.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/rapero-frances-orelsan-dice-que-un-malentendido-caus-su-75741180",
+        "date": "2025-11-12 22:10:33",
+        "sentiment_score": -0.622670641168952
+    },
+    {
+        "title": "Florentino Pérez y los 70 millones que revolucionan las arcas del club blanco",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/23/2025062318523481711.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/70-millones-euros-que-alegran-vida-florentino-perez/20251112230827362892.html",
+        "date": "2025-11-12 22:08:27",
+        "sentiment_score": 0.3810819536447525
+    },
+    {
+        "title": "Rapero francés Orelsan dice que un 'malentendido' causó su disputa con Mbappé",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/54ba976/2147483647/strip/true/crop/8019x4210+0+568/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F79%2F3c%2Fb29fc1074d8aad3fcb5e4713e832%2Fa28eee04581f4f13b1cff4ebbd2f715a.jpg",
+        "tags": [
+            "politics",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-11-12/rapero-frances-orelsan-dice-que-un-malentendido-causo-su-disputa-con-mbappe",
+        "date": "2025-11-12 21:46:05",
+        "sentiment_score": -0.6233699955046177
+    },
+    {
+        "title": "El Barça gana en Múnich y para el golpe",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/12/6914fbf49a518.r_d.2446-1615-986.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/baloncesto/20251112/11258076/bayern-barca-orellana-pascual-euroliga.html",
+        "date": "2025-11-12 21:31:24",
+        "sentiment_score": -0.33292356133461
+    },
+    {
+        "title": "Un vistazo al pasado más humilde en la 'Tarde de porteros' de la peña Fenómenos Oscenses",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/11/12/jose-maria-lopez-zarraga-jose-luis-delgado-y-vicente-jover.jpeg",
+        "tags": [
+            "sd huesca"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/deportes/futbol/sd-huesca/2025/11/12/un-vistazo-al-pasado-y-al-presente-en-la-tarde-de-porteros-de-la-pena-fenomenos-oscenses-1869934-daa.html",
+        "date": "2025-11-12 21:29:32",
+        "sentiment_score": 0.04598989337682724
+    },
+    {
+        "title": "La F1 se prepara para un anuncio que puede cambiar el rumbo de la categoría",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/14/2025101400485871948.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/f1-prepara-anuncio-que-puede-cambiar-rumbo-categoria/20251112222455362887.html",
+        "date": "2025-11-12 21:24:55",
+        "sentiment_score": 0.18682721257209778
+    },
+    {
+        "title": "Iker Casillas y René Higuita entran al Salón de la Fama 2025",
+        "image_url": "https://mundonow.com/wp-content/uploads/2025/11/higuita-casillas.png",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://mundonow.com/iker-casillas-y-rene-higuita-entran-al-salon-de-la-fama-2025/",
+        "date": "2025-11-12 21:20:17",
+        "sentiment_score": -0.06685556471347809
+    },
+    {
+        "title": "Con la NFL en Madrid un equipo español busca aprovechar el interés por el fútbol americano",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/11/BRAVOS_MADRID_09738.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/11/12/con-la-nfl-en-madrid-un-equipo-espaol-busca-aprovechar-el-inters-por-el-ftbol-americano/",
+        "date": "2025-11-12 21:12:30",
+        "sentiment_score": -0.42591847479343414
+    },
+    {
+        "title": "Con la NFL en Madrid un equipo español busca aprovechar el interés por el fútbol americano",
+        "image_url": "https://dims.apnews.com/dims4/default/9b5803c/2147483647/strip/true/crop/3846x2560+93+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F15%2F23%2F10bde55fd60dc468878722c103cf%2Fc432a6bbb0fe465ba37ceb8f21e86c5e",
+        "tags": [
+            "nfl madrid espana bravos",
+            "deportes",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/nfl-madrid-espana-bravos-59efa9b64f1e704e95429abebbd8a77b",
+        "date": "2025-11-12 21:12:30",
+        "sentiment_score": -0.2138090431690216
+    },
+    {
+        "title": "Eléctricos asequibles y SUV compactos marcan la pauta del Coche del Año 2026",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/12/fotofamilia-RiodqS188OgXbcAYVmWoZNL-758x531@diario_abc.jpg",
+        "tags": [
+            "suv",
+            "electricos",
+            "marcan",
+            "asequibles",
+            "coche",
+            "ano",
+            "2026",
+            "compactos",
+            "pauta"
+        ],
+        "link": "https://www.elnortedecastilla.es/motor/electricos-asequibles-suv-compactos-marcan-pauta-coche-20251112230910-ntrc.html",
+        "date": "2025-11-12 22:09:56",
+        "sentiment_score": 0.3275788947939873
+    },
+    {
+        "title": "Orellana conquista Munich",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/12/691500b97797c.jpeg",
+        "tags": [
+            "esports cope"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/orellana-conquista-munich-20251112_3251044.html",
+        "date": "2025-11-12 22:09:17",
+        "sentiment_score": -0.02987539768218994
+    },
+    {
+        "title": "5 veces que Lionel Messi rompió el internet y superó a Cristiano Ronaldo... como siempre",
+        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/12/17/thumb/cA39oj3yY.jpg?3%2C0=&crop=1245%3A830&resize=1250%3A830",
+        "tags": [
+            "sports"
+        ],
+        "link": "https://www.buzzfeed.com/mx/mikebarcena/5-veces-lionel-messi-rompio-internet-supero-cristiano",
+        "date": "2025-11-12 22:01:04",
+        "sentiment_score": 0.12509430944919586
+    },
+    {
+        "title": "«El diagnóstico de Inma nos ha llenado de esperanza»",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/11/12/InmaAviles-RFtbzTJcKkP4vVkHD8R75fN-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "aula de cultura de la voz de avilés",
+            "avilés"
+        ],
+        "link": "https://www.elcomercio.es/aviles/diagnostico-inma-llenado-esperanza-20251112205112-nt.html",
+        "date": "2025-11-12 21:51:14",
+        "sentiment_score": 0.12382633984088898
+    },
+    {
+        "title": "El Barça ataja la crisis con un agónico triunfo en Múnich",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/62141251-25e9-49d9-85a7-d73e5a07063b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fc barcelona de baloncesto",
+            "euroliga",
+            "barça lassa",
+            "bayern de múnich"
+        ],
+        "link": "https://www.lne.es/deportes/2025/11/12/barca-ataja-crisis-agonico-triunfo-123659955.html",
+        "date": "2025-11-12 21:50:33",
+        "sentiment_score": 0.2216089516878128
+    },
+    {
+        "title": "EEUU decide no acuñar esta moneda tras 230 años de uso: descubre cuáles valen miles de dólares",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "monedas",
+            "acuñación",
+            "centavos"
+        ],
+        "link": "https://2001online.com/usa/internacionales/eeuu-decide-no-acunar-esta-moneda-tras-230-anos-de-uso-descubre-cuales-valen-miles-de-dolares-2025111218110",
+        "date": "2025-11-12 22:11:00",
+        "sentiment_score": 0.07331254705786705
+    },
+    {
+        "title": "Partida nacimiento en línea: ¿es válida para realizar trámites dentro y fuera del país?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "saren",
+            "partida de nacimiento en linea"
+        ],
+        "link": "https://2001online.com/servicios/partida-nacimiento-en-linea-es-valida-para-realizar-tramites-dentro-y-fuera-del-pais--202511121880",
+        "date": "2025-11-12 22:08:00",
+        "sentiment_score": 0.4167521372437477
+    },
+    {
+        "title": "Cristiano Ronaldo y Georgina de fiesta: así fue el cumpleaños de su hija en Madrid",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762986045922/georgina1.PNG?ch=675&cw=1200",
+        "tags": [
+            "cristiano y georgina",
+            "cumpleaños de alana martina",
+            "cristiano ronaldo",
+            "cumpleaños",
+            "hija de cristiano ronaldo",
+            "alana martina",
+            "georgina rodríguez"
+        ],
+        "link": "https://2001online.com/deportes/cristiano-ronaldo-y-georgina-de-fiesta-asi-fue-el-cumpleanos-de-su-hija-en-madrid-202511121900",
+        "date": "2025-11-12 22:07:05",
+        "sentiment_score": 0.40673762559890747
+    },
+    {
+        "title": "Dólar y euro BCV para el 13 de noviembre: así se cotizarán las divisas oficiales",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762983711006.jpg?ch=675&cw=1200",
+        "tags": [
+            "euro bcv",
+            "dólar bcv",
+            "bcv",
+            "venezuela",
+            "economía"
+        ],
+        "link": "https://2001online.com/nacionales/dolar-y-euro-bcv-para-el-13-de-noviembre-asi-se-cotizaran-las-divisas-oficiales-2025111217450",
+        "date": "2025-11-12 21:45:00",
+        "sentiment_score": -0.005833223462104797
+    },
+    {
+        "title": "Fallo a favor de 615 inmigrantes en Chicago: juez ordena liberación por violación de sus derechos legales",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762981471010.jpg?ch=675&cw=1200",
+        "tags": [
+            "juez jorge castillo",
+            "ice",
+            "chigago"
+        ],
+        "link": "https://2001online.com/usa/internacionales/fallo-a-favor-de-615-inmigrantes-en-chicago-juez-ordena-liberacion-por-violacion-de-sus-derechos-legales-2025111217260",
+        "date": "2025-11-12 21:26:00",
+        "sentiment_score": -0.684832040220499
+    },
+    {
+        "title": "Bancamiga apoya el desarrollo empresarial en el estado Bolívar con el foro “Claves para transformar e impulsar tu negocio”",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762982083993.jpg?ch=675&cw=1200",
+        "tags": [
+            "josé simón elarba",
+            "estado bolívar",
+            "sector privado",
+            "bancamiga",
+            "empresarios"
+        ],
+        "link": "https://2001online.com/servicios/bancamiga-apoya-el-desarrollo-empresarial-en-el-estado-bolivar-con-el-foro-claves-para-transformar-e-impulsar-tu-negocio--2025111217260",
+        "date": "2025-11-12 21:26:00",
+        "sentiment_score": 0.8028778405860066
+    },
+    {
+        "title": "¡Gran apertura! Rio Supermarket inaugura su sucursal 23 en Guarenas",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762982104186.jpg?ch=675&cw=1200",
+        "tags": [
+            "rio supermarket"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/gran-apertura-rio-supermarket-inaugura-su-sucursal-23-en-guarenas-2025111217160",
+        "date": "2025-11-12 21:16:00",
+        "sentiment_score": 0.7136825546622276
+    },
+    {
+        "title": "Francia fija posición sobre la operación militar de EEUU en El Caribe",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762981544493.jpg?ch=675&cw=1200",
+        "tags": [
+            "diario 2001",
+            "eeuu",
+            "venezuela",
+            "despliegue militar",
+            "francia"
+        ],
+        "link": "https://2001online.com/internacionales/francia-fija-posicion-sobre-la-operacion-militar-de-eeuu-en-el-caribe-202511121760",
+        "date": "2025-11-12 21:06:00",
+        "sentiment_score": 0.37885620445013046
+    },
+    {
+        "title": "Así funciona la Ley del USCIS de los 60 días y visas de trabajo: todo lo que necesitas saber este 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762982659509.jpg?ch=675&cw=1200",
+        "tags": [
+            "ley de los 60 días",
+            "uscis",
+            "visas en eeuu"
+        ],
+        "link": "https://2001online.com/usa/servicios/asi-funciona-la-ley-del-uscis-de-los-60-dias-y-visas-de-trabajo-todo-lo-que-necesitas-saber-este-2025--202511121720",
+        "date": "2025-11-12 21:02:00",
+        "sentiment_score": -0.8600561749190092
+    },
+    {
+        "title": "¿Ya no llegará Santa? El Bosque Encantado de Miami desaparece para siempre",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "santa",
+            "parque",
+            "miami"
+        ],
+        "link": "https://2001online.com/usa/internacionales/ya-no-llegara-santa-el-bosque-encantado-de-miami-desaparece-para-siempre--202511121700",
+        "date": "2025-11-12 21:00:00",
+        "sentiment_score": 0.7562300600111485
     }
 ];
