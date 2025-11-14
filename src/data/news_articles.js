@@ -151,18 +151,6 @@ export default [
         "sentiment_score": -0.1013709008693695
     },
     {
-        "title": "El pueblo más navideño de Sevilla celebra un festival esta semana con degustaciones de mantecados",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/queplan/2025/11/10/1458960089.jpg",
-        "tags": [
-            "sevilla",
-            "qué hacer",
-            "que plan"
-        ],
-        "link": "https://www.abc.es/queplan/sevilla/que-hacer/pueblo-navideno-sevilla-celebra-festival-semana-degustaciones-20251110124409-nts.html",
-        "date": "2025-11-10 11:44:10",
-        "sentiment_score": -0.012016117572784424
-    },
-    {
         "title": "La oposición a Ayuso pide la dimisión de la consejera de Sanidad por el fallo en el cribado de cáncer de colon en Madrid",
         "image_url": "https://imagenes.elpais.com/resizer/v2/QQWJTYFMVJCSFCOGH5SVRELCMM.jpg?auth=0e17a774e7490bc78010da1b94ad0557341ff67e88a29fca0683911203c1bc48&width=1200",
         "tags": [
@@ -236,83 +224,6 @@ export default [
         "link": "https://elpais.com/espana/andalucia/2025-11-10/moreno-nombra-a-un-medico-de-la-privada-como-numero-dos-de-sanidad-para-reestructurar-el-servicio-publico-de-salud.html",
         "date": "2025-11-10 15:08:39",
         "sentiment_score": -0.3487706929445267
-    },
-    {
-        "title": "Feijóo pone a Melilla como ejemplo de “convivencia entre culturas” mientras Vox presiona contra la inmigración en Valencia",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KGTZCIVDWJAHDA3RPZXY2O6WPE.jpg?auth=17b189b2f11cc0b7b8d8ecc82e73037c15a8a24c48422d3d34b02770c20cca7f&width=1200",
-        "tags": [
-            "melilla",
-            "dana",
-            "pp",
-            "españa",
-            "inmigración irregular",
-            "comunidad valenciana",
-            "vox",
-            "alberto núñez feijóo",
-            "carlos mazón",
-            "santiago abascal",
-            "inmigración"
-        ],
-        "link": "https://elpais.com/espana/2025-11-10/feijoo-pone-a-melilla-como-ejemplo-de-convivencia-entre-culturas-mientras-vox-presiona-contra-la-inmigracion-en-valencia.html",
-        "date": "2025-11-10 14:14:10",
-        "sentiment_score": 0.312522042542696
-    },
-    {
-        "title": "Falsas promociones en Cataluña por el Black Friday: Consumo cuadriplica el número de productos vigilados",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IBJZUDEQIPLXQKMD2GLAXDWJSM.jpg?auth=6e7088bc52ac6035b53f31b186343ec70afedac8338592c9274dc1418229ee43&width=1200",
-        "tags": [
-            "cataluña",
-            "comercio",
-            "sanciones",
-            "barcelona",
-            "generalitat cataluña",
-            "ocu",
-            "comercio electrónico",
-            "black friday",
-            "estafas",
-            "sanciones económicas",
-            "consumidores",
-            "competencia",
-            "fraudes"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-10/falsas-promociones-en-cataluna-por-el-black-friday-consumo-cuadriplica-el-numero-de-productos-vigilados.html",
-        "date": "2025-11-10 13:24:13",
-        "sentiment_score": 0.4041723944246769
-    },
-    {
-        "title": "Barcelona repone el 80% de los 7.500 árboles afectados por la sequía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/AZGCD2CGMBG7VIBVXQJZJVDOHQ.jpg?auth=8b5df79445e2b712bc3c1c922d63f7f61557b81702db619e6d799c46d30903c9&width=1200",
-        "tags": [
-            "sequía",
-            "barcelona",
-            "agua",
-            "árboles",
-            "cataluña",
-            "ayuntamiento barcelona",
-            "plantas"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-10/barcelona-repone-el-80-de-los-7500-arboles-afectados-por-la-sequia.html",
-        "date": "2025-11-10 12:52:55",
-        "sentiment_score": -0.2652010917663574
-    },
-    {
-        "title": "Pérez Llorca (PP): “Nadie me ha comunicado que vaya a ser candidato” a la Generalitat",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/23GZZSZL2NDXVKRI6JQPISIW6A.jpg?auth=ce6b6b9a4896a6ae7e3d84e31bc3ba733efd8461d255cb3a49322080a97485da&width=1200",
-        "tags": [
-            "dana",
-            "dimisiones políticas",
-            "juanfran pérez llorca",
-            "pp",
-            "vox",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana",
-            "josé maría de llanos",
-            "investidura parlamentaria",
-            "carlos mazón"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-10/perez-llorca-pp-nadie-me-ha-comunicado-que-vaya-a-ser-candidato-a-la-generalitat.html",
-        "date": "2025-11-10 11:50:11",
-        "sentiment_score": -0.5230933669954538
     },
     {
         "title": "Azcón descubre en Virginia el “secreto” que está revolucionando el empleo en Aragón",
@@ -1911,18 +1822,6 @@ export default [
         "link": "https://www.abc.es/recreo/espanola-qatar-asombrada-vende-supermercado-parece-super-20251110145917-nt.html",
         "date": "2025-11-10 16:00:13",
         "sentiment_score": -0.10137087106704712
-    },
-    {
-        "title": "El pueblo más navideño de Sevilla celebra un festival esta semana con degustaciones de mantecados",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/queplan/2025/11/10/1458960089.jpg",
-        "tags": [
-            "sevilla",
-            "qué hacer",
-            "que plan"
-        ],
-        "link": "https://www.abc.es/queplan/sevilla/que-hacer/pueblo-navideno-sevilla-celebra-festival-semana-degustaciones-20251110124409-nts.html",
-        "date": "2025-11-10 11:44:10",
-        "sentiment_score": -0.0120161771774292
     },
     {
         "title": "El juicio al fiscal general entra en la fase decisiva con el choque entre la defensa y la UCO",
@@ -9259,5 +9158,393 @@ export default [
         "link": "https://2001online.com/farandula/noche-historica-en-los-latin-grammy-2025-ellos-son-los-9-venezolanos-nominados-que-prometen-llevarse-el-premio-a-casa-2025111315140",
         "date": "2025-11-13 19:14:00",
         "sentiment_score": 0.8471447881311178
+    },
+    {
+        "title": "Alejandro Sanz se lleva el Latin Grammy al Mejor Álbum Pop Contemporáneo por ‘¿Y ahora qué’",
+        "image_url": "https://www.infobae.com/resizer/v2/TDBWVK5BMFDI7MEB5I7GRILXIA.jpg?auth=67e483bafb75b3d4b2683fe61c20162a781e190f44704c0c5876aebacc7b34cc&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-cultura",
+            "latin grammy",
+            "españa-noticias",
+            "celebridades españa",
+            "latin grammy 2025",
+            "famosos españa",
+            "españa-entretenimiento",
+            "alejandro sanz"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/14/alejandro-sanz-se-lleva-el-latin-grammy-al-mejor-album-pop-contemporaneo-por-y-ahora-que/",
+        "date": "2025-11-14 00:16:51",
+        "sentiment_score": -0.03880727291107178
+    },
+    {
+        "title": "Sánchez pide \"mucha precaución\" tras el aviso rojo de la Aemet por fuertes lluvias en Cáceres, Sistema Central y Ávila",
+        "image_url": "https://www.infobae.com/resizer/v2/PZPDB6KCE5GYRD4J7TQI77UQ2E.jpg?auth=0aff43b1dac98b93d2082d518d6b29c41ac84fa917e2d120db0cbb3b194495e1&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/14/sanchez-pide-mucha-precaucion-tras-el-aviso-rojo-de-la-aemet-por-fuertes-lluvias-en-caceres-sistema-central-y-avila/",
+        "date": "2025-11-14 00:00:16",
+        "sentiment_score": -0.6645614691078663
+    },
+    {
+        "title": "Resultados ganadores del Cupón Diario de la Once de este 13 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "cupón diario",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/13/resultados-ganadores-del-cupon-diario-de-la-once-de-este-13-de-noviembre/",
+        "date": "2025-11-13 23:15:27",
+        "sentiment_score": 0.5590086951851845
+    },
+    {
+        "title": "Rajoy asegura que Mazón \"reconoció errores\" y pregunta a los que siguen protestando en la calle: \"¿Qué más quieren?\"",
+        "image_url": "https://www.infobae.com/resizer/v2/SC4M5U6DCVFDTN7MIL3GO2RT3U.jpg?auth=6221e0ba5e5540881257cc7166133fa45f1dccaf5c1cb326882401665cba90e8&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/13/rajoy-asegura-que-mazon-reconocio-errores-y-pregunta-a-los-que-siguen-protestando-en-la-calle-que-mas-quieren/",
+        "date": "2025-11-13 22:45:52",
+        "sentiment_score": -0.6349774040281773
+    },
+    {
+        "title": "España condena la escalada de violencia en Cisjordania y urge a Israel a frenar los ataques de colonos",
+        "image_url": "https://www.infobae.com/resizer/v2/MO6M2J2EIRGBBDZ45WS3M7DVNA.jpg?auth=149ee4f5da89cb088cd74244589dbd585fa073d51de5c211d8395b5e40afa847&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/13/espana-condena-la-escalada-de-violencia-en-cisjordania-y-urge-a-israel-a-frenar-los-ataques-de-colonos/",
+        "date": "2025-11-13 22:45:34",
+        "sentiment_score": -0.8658502586185932
+    },
+    {
+        "title": "Las mejores películas de Guillermo del Toro además de “Frankenstein”: aquí puedes verlas",
+        "image_url": "https://www.infobae.com/resizer/v2/6NB3Z32EYRBY5PBHRZTAYS2HWQ.jpg?auth=50e36c85165cc4f24e425d3314c0d84efc6567a0a843254396f796ea04d95c00&height=1080&smart=true&width=1920",
+        "tags": [
+            "guillermo del toro",
+            "netflix",
+            "mexico-entretenimiento",
+            "frankenstein"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/13/las-mejores-peliculas-de-guillermo-del-toro-ademas-de-frankenstein-aqui-puedes-verlas/",
+        "date": "2025-11-13 22:25:00",
+        "sentiment_score": 0.8360208850353956
+    },
+    {
+        "title": "Oda al almacén de bricolaje",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/11/14/bricolaje_20251113220329-RaQAFpJ94KDHYvjx2AvBBZI-350x624@diario_abc.jpg",
+        "tags": [
+            "oda",
+            "almacen",
+            "bricolaje"
+        ],
+        "link": "https://www.abc.es/opinion/chapu-apaolaza-oda-almacen-bricolaje-20251114005107-nt.html",
+        "date": "2025-11-13 23:51:07",
+        "sentiment_score": -0.066657155752182
+    },
+    {
+        "title": "Trump premia a sus nuevos aliados en América Latina con acuerdos comerciales",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/13/1502988838-kgvE-U701935638500afD-1200x840@diario_abc.jpg",
+        "tags": [
+            "nuevos",
+            "america",
+            "aliados",
+            "latina",
+            "acuerdos",
+            "comerciales",
+            "premia",
+            "trump"
+        ],
+        "link": "https://www.abc.es/internacional/trump-premia-nuevos-aliados-america-latina-acuerdos-20251113232520-nt.html",
+        "date": "2025-11-13 22:25:21",
+        "sentiment_score": -0.08168986439704895
+    },
+    {
+        "title": "¿De qué planeta viniste, Mariano Rajoy?",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VOIY4RVOKFAQPO4P2D6JQM6IJQ.jpg?auth=db75c9701a277b12464d7b7421d0b99309d8e12fdef4333e567075d23ea38aaa&width=1200",
+        "tags": [
+            "pp",
+            "libros",
+            "pablo motos",
+            "españa",
+            "humor",
+            "política",
+            "el hormiguero"
+        ],
+        "link": "https://elpais.com/espana/2025-11-13/de-que-planeta-viniste-mariano-rajoy.html",
+        "date": "2025-11-13 22:44:51",
+        "sentiment_score": -0.6363278031349182
+    },
+    {
+        "title": "Juan Carlos también falsea las relaciones con su padre",
+        "image_url": "https://static.laregion.es/clip/fe6e4862-ffc1-4728-95f8-db0f3b2f1ed1_source-aspect-ratio_default_0.png",
+        "tags": [
+            "juan carlos i"
+        ],
+        "link": "https://www.laregion.es/opinion/juan-carlos-falsea-relaciones-padre_1_20251114-4055666.html",
+        "date": "2025-11-14 02:10:36",
+        "sentiment_score": -0.27753297984600067
+    },
+    {
+        "title": "La ‘guerra’ tecnológica por tener el coche autónomo antes que nadie: así quieren Tesla o Google que dejes ya de conducir",
+        "image_url": "https://s3.elespanol.com/2025/11/13/omicrono/tecnologia/1003744011754_259924466_1706x960.jpg",
+        "tags": [
+            "conducción autónoma",
+            "coches sin conductor",
+            "tecnología"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20251114/guerra-tecnologica-tener-coche-autonomo-nadie-quieren-tesla-google-dejes-conducir/1003744010098_0.html",
+        "date": "2025-11-14 01:24:40",
+        "sentiment_score": 0.373728483915329
+    },
+    {
+        "title": "Cipri Guillén, el agricultor que ha conseguido que reabra una ermita en ruinas desde 1812: \"Hay restos arqueológicos\"",
+        "image_url": "https://s3.elespanol.com/2025/11/04/madrid/1003743999323_259915801_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "arganda del rey",
+            "arqueología",
+            "madrid comunidad"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20251114/cipri-guillen-agricultor-conseguido-reabra-ermita-ruinas-restos-arqueologicos/1003743997821_0.html",
+        "date": "2025-11-14 01:00:00",
+        "sentiment_score": -0.05167318135499954
+    },
+    {
+        "title": "13 NOV 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/13-nov-2025-partidazo-cope-20251114_3251931.html",
+        "date": "2025-11-14 00:43:32",
+        "sentiment_score": -0.08280020952224731
+    },
+    {
+        "title": "Nacho Peña critica el diferente trato que reciben Vinicius y Lamine Yamal: \"Está mucho más protegido dentro del campo\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/11/14/69166fde1b73c.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/nacho-pena-critica-diferente-trato-reciben-vinicius-lamine-yamal-protegido-campo-20251114_3251928.html",
+        "date": "2025-11-14 00:02:44",
+        "sentiment_score": -0.01117938756942749
+    },
+    {
+        "title": "Lamine Yamal y Mariona Caldentey, candidatos a los premios Puskas y Marta por el mejor gol",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/523b5261-632e-45e2-a0bf-d1dbf0c59bce_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lamine yamal",
+            "fútbol",
+            "fifa"
+        ],
+        "link": "https://www.eldia.es/deportes/2025/11/14/lamine-yamal-mariona-caldentey-candidatos-123702812.html",
+        "date": "2025-11-13 23:59:28",
+        "sentiment_score": 0.49492762237787247
+    },
+    {
+        "title": "Motocard: Disneyland para los moteros",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/08/690fa2aa6783d.r_d.3257-1641-941.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251114/11245209/motocard-tiendas-motos-complementos-crecimiento.html",
+        "date": "2025-11-14 02:00:00",
+        "sentiment_score": 0.5323503762483597
+    },
+    {
+        "title": "Premio Puskas y Marta: Conozca a los nominados al mejor gol del año",
+        "image_url": "https://pxcdn.meridiano.net/112025/1763083231169.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/premio-puskas-y-marta-conozca-a-los-nominados-al-mejor-gol-del-ano-202511131200",
+        "date": "2025-11-14 01:28:00",
+        "sentiment_score": 0.04027207940816879
+    },
+    {
+        "title": "Aitana deslumbra con un diseño negro con transparencias en los Latin Grammy",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/14/6916782454842.r_d.3410-1194-1872.jpeg",
+        "tags": [
+            "moda"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/moda/20251114/11262714/aitana-deslumbra-diseno-negro-transparencias-latin-grammy.html",
+        "date": "2025-11-14 01:14:29",
+        "sentiment_score": 0.7317336387932301
+    },
+    {
+        "title": "Innobus, un puente al mundo laboral",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/08/690fa323d5af5.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251114/11245230/innobus-puente-mundo-laboral.html",
+        "date": "2025-11-14 01:00:00",
+        "sentiment_score": 0.525421341881156
+    },
+    {
+        "title": "Nicki Nicole acude en solitario a los Latin GRAMMY tras celebrar su nominación junto a Lamine Yamal",
+        "image_url": "https://www.hola.com/horizon/landscape/3b1dc923e5c5-gettyimages-2246012056.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad",
+            "latin grammy"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20251114867460/latin-grammy-2025-nicki-nicole-nominacion-lamine-yamal-ruptura/",
+        "date": "2025-11-14 00:50:05",
+        "sentiment_score": -0.2750317305326462
+    },
+    {
+        "title": "Historiador todoterreno",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/11/13/691620ad22682.jpeg",
+        "tags": [
+            "obituarios"
+        ],
+        "link": "https://www.eldebate.com/obituarios/20251114/historiador-todoterreno_354950.html",
+        "date": "2025-11-14 00:30:00",
+        "sentiment_score": -0.2860134690999985
+    },
+    {
+        "title": "La alfombra roja de los Latin Grammy 2025",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/14/6916742f45d40.r_d.2852-2069-1060.jpeg",
+        "tags": [
+            "moda"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/moda/20251114/11261474/alfombra-roja-latin-grammy-2025.html",
+        "date": "2025-11-14 00:24:17",
+        "sentiment_score": 0.7705798298120499
+    },
+    {
+        "title": "Barcelona contempla un cambio de panorama tras el regreso del parón FIFA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-contempla-un-cambio-de-panorama-tras-el-regreso-del-paron-fifa-2025111320220",
+        "date": "2025-11-14 00:22:00",
+        "sentiment_score": -0.829599853605032
+    },
+    {
+        "title": "NBA: Stephen Curry está a un partido de igualar récord de Michael Jordan",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763087546917.jpg?ch=675&cw=1200",
+        "tags": [
+            "stephen curry",
+            "michael jordan",
+            "nba",
+            "récord de stephen curry",
+            "golden state warriors",
+            "récord de michael jordan"
+        ],
+        "link": "https://2001online.com/deportes/nba-stephen-curry-esta-a-un-partido-de-igualar-record-de-michael-jordan-2025111322450",
+        "date": "2025-11-14 02:06:16",
+        "sentiment_score": 0.7736234664916992
+    },
+    {
+        "title": "¡Alerta de licencias en California! 17 000 inmigrantes pierden su permiso comercial: ¿Estás en la lista?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "migrantes",
+            "california",
+            "licencias"
+        ],
+        "link": "https://2001online.com/usa/servicios/alerta-de-licencias-en-california-17-000-inmigrantes-pierden-su-permiso-comercial-estas-en-la-lista--202511132200",
+        "date": "2025-11-14 02:00:00",
+        "sentiment_score": -0.812969533726573
+    },
+    {
+        "title": "Fallo en el motor: Toyota hace un llamado urgente a los propietarios de este modelo de camioneta",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763084387621.jpg?ch=675&cw=1200",
+        "tags": [
+            "modelos toyota con fallas en el motor",
+            "tundra y lexus",
+            "toyota motor"
+        ],
+        "link": "https://2001online.com/usa/servicios/fallo-en-el-motor-toyota-hace-un-llamado-urgente-a-los-propietarios-de-este-modelo-de-camioneta-2025111321580",
+        "date": "2025-11-14 02:00:00",
+        "sentiment_score": 0.1436859928071499
+    },
+    {
+        "title": "Mindful walking: conoce qué es y cómo practicarlo beneficiará tu salud y fortalecerá el cerebro",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762891138988.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/mindful-walking-conoce-que-es-y-como-practicarlo-beneficiara-tu-salud-y-fortalecera-el-cerebro-202511132200",
+        "date": "2025-11-14 02:00:00",
+        "sentiment_score": 0.25867484509944916
+    },
+    {
+        "title": "¡No se guardó nada! La amante de Cristian Castro habla sobre su ruptura con Mariela Sánchez",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "separacion",
+            "cristian castro",
+            "mariela sánchez"
+        ],
+        "link": "https://2001online.com/farandula/no-se-guardo-nada-la-amante-de-cristian-castro-habla-sobre-su-ruptura-con-mariela-sanchez--2025111321390",
+        "date": "2025-11-14 01:39:00",
+        "sentiment_score": -0.23987861722707748
+    },
+    {
+        "title": "Seguro de desempleo en EEUU: aprende a manejar tu cobertura de salud para no quedarte sin protección médica",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763083347967/imagen_2025-11-13_212226744.png?ch=675&cw=1200",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/seguro-de-desempleo-en-eeuu-aprende-a-manejar-tu-cobertura-de-salud-para-no-quedarte-sin-proteccion-medica-2025111321150",
+        "date": "2025-11-14 01:15:00",
+        "sentiment_score": -0.3121252581477165
+    },
+    {
+        "title": "Decretan feriado no laborable en un estado: vigente para este 14 de noviembre",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763082787840.jpg?ch=675&cw=1200",
+        "tags": [
+            "prócer de la independencia",
+            "venezuela",
+            "diario 2001",
+            "anzoátegui"
+        ],
+        "link": "https://2001online.com/comunidad/decretan-feriado-no-laborable-en-un-estado-vigente-para-este-14-de-noviembre-2025111321130",
+        "date": "2025-11-14 01:13:00",
+        "sentiment_score": 0.03876953944563866
+    },
+    {
+        "title": "Old Orchard Mall estrena tiendas navideñas: conoce los nuevos locales que abren sus puertas",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "nuevas tiendas",
+            "old orchard mall",
+            "compras navideñas"
+        ],
+        "link": "https://2001online.com/usa/internacionales/old-orchard-mall-estrena-tiendas-navidenas-conoce-los-nuevos-locales-que-abren-sus-puertas-202511132150",
+        "date": "2025-11-14 01:05:00",
+        "sentiment_score": 0.21027886308729649
+    },
+    {
+        "title": "Papa León XIV pide una transformación educativa ante los riesgos de la IA en niños: esto dijo en el Vaticano",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "tecnologia",
+            "vaticano",
+            "el papa león xiv",
+            "ia",
+            "papa león xiv"
+        ],
+        "link": "https://2001online.com/internacionales/papa-leon-xiv-pide-una-transformacion-educativa-ante-los-riesgos-de-la-ia-en-ninos-esto-dijo-en-el-vaticano-202511132110",
+        "date": "2025-11-14 01:01:00",
+        "sentiment_score": -0.5726679861545563
+    },
+    {
+        "title": "Bomberos salvan a sexagenario de caer al vacío en El Valle: conozca los detalles",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763075063645.jpg?ch=675&cw=1200",
+        "tags": [
+            "el valle"
+        ],
+        "link": "https://2001online.com/sucesos/bomberos-salvan-a-sexagenario-de-caer-al-vacio-en-el-valle-conozca-los-detalles-202511132100",
+        "date": "2025-11-14 01:00:00",
+        "sentiment_score": -0.12838219106197357
     }
 ];
