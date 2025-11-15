@@ -148,23 +148,6 @@ export default [
         "sentiment_score": 0.8933314383029938
     },
     {
-        "title": "En medio de las tensiones con EEUU, la inflación vuelve a golpear a Venezuela",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/443b0a803e597edbca9247decd32484954451104w-1200x750-1.jpg",
-        "tags": [
-            "destacados",
-            "eeuu",
-            "economía",
-            "venezuela",
-            "usa",
-            "nacionales",
-            "inflación",
-            "internacionales"
-        ],
-        "link": "https://lapatilla.com/2025/11/11/en-medio-de-las-tensiones-con-eeuu-la-inflacion-vuelve-a-golpear-a-venezuela/",
-        "date": "2025-11-11 10:44:23",
-        "sentiment_score": -0.8001694045960903
-    },
-    {
         "title": "Google invertirá más de 5.500 millones en Alemania hasta 2029",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/11/11/1502908427-k87D-U7019194988837qB-1200x840@diario_abc.jpg",
         "tags": [
@@ -209,44 +192,6 @@ export default [
         "link": "https://www.abc.es/espana/comunidad-valenciana/alicante-acogera-primer-mundial-teamfight-tactics-mejores-20251111165401-nt.html",
         "date": "2025-11-11 15:58:28",
         "sentiment_score": -0.03241416811943054
-    },
-    {
-        "title": "SoftBank hace caja en pleno 'boom' de la IA: vende todas sus acciones en Nvidia y se embolsa 5.000 millones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/11/11/54072062-RL4LgjPeQokVHlNxBSxC9GO-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/softbank-caja-boom-ia-vende-acciones-nvidia-20251111114851-nt.html",
-        "date": "2025-11-11 10:48:51",
-        "sentiment_score": 0.1422976404428482
-    },
-    {
-        "title": "La Justicia europea anula los criterios obligatorios de la directiva para fijar salarios mínimos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/11/11/tjue-kopC-U701916975240lfB-1200x840@diario_abc.jpg",
-        "tags": [
-            "finlandia",
-            "uh abc",
-            "suecia",
-            "luxemburgo",
-            "dinamarca"
-        ],
-        "link": "https://www.abc.es/economia/tjue-anula-criterios-obligatorios-directiva-fijar-salarios-20251111113539-nt.html",
-        "date": "2025-11-11 10:37:30",
-        "sentiment_score": -0.09807869791984558
-    },
-    {
-        "title": "Irak comienza su jornada electoral con la economía y los servicios públicos en el centro del debate",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/11/Clipboard-kT5D-U701916737507QjB-1200x840@diario_abc.png",
-        "tags": [
-            "seguridad",
-            "economia",
-            "irak",
-            "colegios",
-            "fuerzas armadas"
-        ],
-        "link": "https://www.abc.es/internacional/irak-comienza-jornada-electoral-economia-servicios-publicos-20251111112921-nt.html",
-        "date": "2025-11-11 10:29:22",
-        "sentiment_score": -0.10429169237613678
     },
     {
         "title": "Reyes Maroto rectifica frente al juez sobre Ayuso: “No quise acusar a nadie de asesinato”",
@@ -385,43 +330,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-11-11/se-vende-fabrica-de-canelones-por-228306-euros-razon-generalitat-de-cataluna.html",
         "date": "2025-11-11 14:25:30",
         "sentiment_score": -0.8166265953332186
-    },
-    {
-        "title": "La Síndica de Greuges de Cataluña propone que los jóvenes puedan votar a los 16 años",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/PWGXESOAHRGBPCXFSWDKCQVZS4.jpg?auth=0af5d084ff69a1d89bc73b67b5944fdc1163e9e16cc9e70207ac780f6ebe58f2&width=1200",
-        "tags": [
-            "menores",
-            "edad penal",
-            "infancia",
-            "síndic de greuges cataluña",
-            "cataluña",
-            "fracaso escolar",
-            "adolescencia",
-            "votaciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-11/la-sindica-de-greuges-de-cataluna-propone-que-los-jovenes-puedan-votar-a-los-16-anos.html",
-        "date": "2025-11-11 14:10:57",
-        "sentiment_score": -0.35072435438632965
-    },
-    {
-        "title": "Varios socios del Gobierno plantarán a los Reyes en el acto sobre los 50 años de la monarquía en el Congreso",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/45B5OQ6TDZPWVPZJHCK3FIM5ZY.jpg?auth=3712d81110159516ca9fca643645c9e1207521e1fc1d51fa0e90a18bbaf979d5&width=1200",
-        "tags": [
-            "gobierno",
-            "dictadura",
-            "españa",
-            "congreso diputados",
-            "felipe vi",
-            "casa real",
-            "sumar",
-            "monarquía",
-            "juan carlos i",
-            "historia",
-            "franquismo"
-        ],
-        "link": "https://elpais.com/espana/2025-11-11/varios-socios-del-gobierno-plantaran-a-los-reyes-en-el-acto-sobre-los-50-anos-de-la-monarquia-en-el-congreso.html",
-        "date": "2025-11-11 13:58:12",
-        "sentiment_score": -0.7616459652781487
     },
     {
         "title": "Xabi López-Arostegui: \"Queremos arroparnos de la afición para jugar todos juntos ante el Madrid\"",
@@ -903,23 +811,6 @@ export default [
         "sentiment_score": -0.34416284039616585
     },
     {
-        "title": "En medio de las tensiones con EEUU, la inflación vuelve a golpear a Venezuela",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/10/443b0a803e597edbca9247decd32484954451104w-1200x750-1.jpg",
-        "tags": [
-            "destacados",
-            "eeuu",
-            "economía",
-            "venezuela",
-            "usa",
-            "nacionales",
-            "inflación",
-            "internacionales"
-        ],
-        "link": "https://lapatilla.com/2025/11/11/en-medio-de-las-tensiones-con-eeuu-la-inflacion-vuelve-a-golpear-a-venezuela/",
-        "date": "2025-11-11 10:44:23",
-        "sentiment_score": -0.8001691102981567
-    },
-    {
         "title": "Microsoft invertirá 8.650 millones en un gran centro de datos de IA en Portugal",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/11/1502902215-kF9C-U701920842183tfC-1200x840@diario_abc.jpg",
         "tags": [
@@ -1002,44 +893,6 @@ export default [
         "link": "https://www.abc.es/espana/comunidad-valenciana/alicante-acogera-primer-mundial-teamfight-tactics-mejores-20251111165401-nt.html",
         "date": "2025-11-11 15:58:28",
         "sentiment_score": -0.03241422772407532
-    },
-    {
-        "title": "SoftBank hace caja en pleno 'boom' de la IA: vende todas sus acciones en Nvidia y se embolsa 5.000 millones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/11/11/54072062-RL4LgjPeQokVHlNxBSxC9GO-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/softbank-caja-boom-ia-vende-acciones-nvidia-20251111114851-nt.html",
-        "date": "2025-11-11 10:48:51",
-        "sentiment_score": 0.1422969251871109
-    },
-    {
-        "title": "La Justicia europea anula los criterios obligatorios de la directiva para fijar salarios mínimos",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/11/11/tjue-kopC-U701916975240lfB-1200x840@diario_abc.jpg",
-        "tags": [
-            "finlandia",
-            "uh abc",
-            "suecia",
-            "luxemburgo",
-            "dinamarca"
-        ],
-        "link": "https://www.abc.es/economia/tjue-anula-criterios-obligatorios-directiva-fijar-salarios-20251111113539-nt.html",
-        "date": "2025-11-11 10:37:30",
-        "sentiment_score": -0.09807847440242767
-    },
-    {
-        "title": "Irak comienza su jornada electoral con la economía y los servicios públicos en el centro del debate",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/11/Clipboard-kT5D-U701916737507QjB-1200x840@diario_abc.png",
-        "tags": [
-            "seguridad",
-            "economia",
-            "irak",
-            "colegios",
-            "fuerzas armadas"
-        ],
-        "link": "https://www.abc.es/internacional/irak-comienza-jornada-electoral-economia-servicios-publicos-20251111112921-nt.html",
-        "date": "2025-11-11 10:29:22",
-        "sentiment_score": -0.1042919009923935
     },
     {
         "title": "El fiscal general suma testimonios a favor a la espera de la UCO",
@@ -9127,5 +8980,446 @@ export default [
         "link": "https://2001online.com/servicios/corpoelec-en-10-municipios-realizan-jornada-de-pago-y-tramites-este-sabado-15-de-noviembre-2025111415350",
         "date": "2025-11-14 19:35:00",
         "sentiment_score": 0.4925974886864424
+    },
+    {
+        "title": "Lo más visto esta semana de Netflix en España",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "españa-televisión",
+            "streaming",
+            "películas",
+            "netflix"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/15/lo-mas-visto-esta-semana-de-netflix-en-espana/",
+        "date": "2025-11-15 00:30:55",
+        "sentiment_score": 0.23453877121210098
+    },
+    {
+        "title": "Crónica del España - San Marino, 7-0",
+        "image_url": "https://www.infobae.com/resizer/v2/O2KABBNVINGVZKSWTA7LRHP4ZE.jpg?auth=573531246783844eecbbb85600c1d5eef6ef12782f90d4f2aa2c1f5cf57932ed&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/14/cronica-del-espana-san-marino-7-0/",
+        "date": "2025-11-14 22:30:21",
+        "sentiment_score": -0.03586174547672272
+    },
+    {
+        "title": "Estos son los ganadores del sorteo de Eurojackpot de este 14 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/Q7FNQIJEBVFCBNCYSSGYYQFK6A.jpg?auth=d0a8f05dacad4e8a73566665ba986c216d1358565751f754ffaeb9d98bf2f3be&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "eurojackpot"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/14/estos-son-los-ganadores-del-sorteo-de-eurojackpot-de-este-14-de-noviembre/",
+        "date": "2025-11-14 21:19:13",
+        "sentiment_score": 0.27361590787768364
+    },
+    {
+        "title": "La Policía Nacional investiga la muerte de Encarnita Polo, cantante de ‘Paco, Paco, Paco’: pudo ser agredida por un hombre en su residencia",
+        "image_url": "https://www.infobae.com/resizer/v2/D6AEG2LJ5NEGDH4YELUVGVVTYM.jpg?auth=db89309070701d2092d85d22c46b526afca5caaed7c4fc61380f761dd43621fd&height=576&smart=true&width=1024",
+        "tags": [
+            "música españa",
+            "policía nacional",
+            "música",
+            "famosos españa",
+            "españa-nacional",
+            "españa-noticias",
+            "sucesos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/14/la-policia-nacional-investiga-la-muerte-de-encarnita-polo-cantante-de-paco-paco-paco-pudo-ser-agredida-por-un-hombre-en-su-residencia/",
+        "date": "2025-11-14 20:55:22",
+        "sentiment_score": -0.18633943051099777
+    },
+    {
+        "title": "Estos son los ganadores del sorteo de Super Once del 14 noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/PPFHQD7ONZCW5DHK2KQEM5XRCY.jpg?auth=7563789ed01319b51c40432578d3fab16da6f51f84c84520b021889f1d38cf5f&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "españa-economía",
+            "super once"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/14/estos-son-los-ganadores-del-sorteo-de-super-once-del-14-noviembre/",
+        "date": "2025-11-14 20:45:24",
+        "sentiment_score": 0.13851305656135082
+    },
+    {
+        "title": "Acciona destaca su colaboración en los registros, que no presuponen ninguna irregularidad por la compañía",
+        "image_url": "https://www.infobae.com/resizer/v2/PRZBRZ47ZNFVNKEBMYZ6XBRRME.jpg?auth=70abe6672b78ba83a855a2cd79a64bc5b7749560188f35a396570e5053bdb7e3&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/14/acciona-destaca-su-colaboracion-en-los-registros-que-no-presuponen-ninguna-irregularidad-por-la-compania/",
+        "date": "2025-11-14 20:30:17",
+        "sentiment_score": 0.21176844835281372
+    },
+    {
+        "title": "Muere Encarnita Polo, la cantante que triunfó con ‘Paco, Paco, Paco’: así fueron sus últimos años alejada de los focos",
+        "image_url": "https://www.infobae.com/resizer/v2/BJQZFLP2IZANDINSPU4U2FSS7Y.png?auth=91773ca04c5532e0b2ed90a27a0e76247aad6abdfb2bfc5ca043df8d196a3f4d&height=1071&smart=true&width=1387",
+        "tags": [
+            "música españa",
+            "música",
+            "españa-nacional",
+            "famosos españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/14/muere-encarnita-polo-la-cantante-que-triunfo-con-paco-paco-paco-asi-fueron-sus-ultimos-anos-alejada-de-los-focos/",
+        "date": "2025-11-14 20:24:04",
+        "sentiment_score": -0.6068833842873573
+    },
+    {
+        "title": "España cae frente a Italia en su primer ensayo antes del Premundial",
+        "image_url": "https://www.infobae.com/resizer/v2/I5IFBDRKHZEMVJFRW6WNWJZE4M.jpg?auth=90548e44b61c34a03124659c4842b9e4009e6479bcd6c68dcacab0058c81d354&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/14/espana-cae-frente-a-italia-en-su-primer-ensayo-antes-del-premundial/",
+        "date": "2025-11-14 20:00:16",
+        "sentiment_score": -0.11150646209716797
+    },
+    {
+        "title": "Los Pipicaca, el sorprendente nuevo proyecto musical de Lucas González tras la ruptura de Andy y Lucas: “Lo hago como hobby”",
+        "image_url": "https://www.infobae.com/resizer/v2/ASFOYMAYKNEDJAJA3TSQD3FEOQ.jpg?auth=bf35aebeec13275b5f84771ec699e04b9827dfc1a40afc19e2019fb7af3a221e&height=960&smart=true&width=1706",
+        "tags": [
+            "música",
+            "cantantes españa",
+            "famosos españa",
+            "lucas gonzález",
+            "andy y lucas",
+            "españa-entretenimiento",
+            "españa-noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/14/los-pipicaca-el-sorprendente-nuevo-proyecto-musical-de-lucas-gonzalez-tras-la-ruptura-de-andy-y-lucas-lo-hago-como-hobby/",
+        "date": "2025-11-14 19:59:22",
+        "sentiment_score": -0.8719626301899552
+    },
+    {
+        "title": "Zelenski viaja a España la próxima semana y será recibido por Sánchez el martes",
+        "image_url": "https://www.infobae.com/resizer/v2/72K6LUGDD5EL5NA3TYM2XZRWVI.jpg?auth=09be20c01f437d13deda2de94d40a10cdf517d42f96a673a52f8445a3562df89&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/14/zelenski-viaja-a-espana-la-proxima-semana-y-sera-recibido-por-sanchez-el-martes/",
+        "date": "2025-11-14 19:30:16",
+        "sentiment_score": 0.014261282980442047
+    },
+    {
+        "title": "Zelenski visitará el Congreso este martes durante su viaje oficial a España",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/RAX6VB4QPJBUJNJBWSA6NKIHP4.jpg?auth=6093ce6f84d3419a6631b9bf0d0d2b9ec3777165a559d615a9a779b4050b63f1&width=1200",
+        "tags": [
+            "españa",
+            "pedro sánchez",
+            "ucrania",
+            "gobierno",
+            "gobierno de coalición",
+            "volodimir zelenski"
+        ],
+        "link": "https://elpais.com/espana/2025-11-14/zelenski-visitara-el-congreso-este-martes-durante-su-viaje-oficial-a-espana.html",
+        "date": "2025-11-14 18:47:00",
+        "sentiment_score": -0.13846355676651
+    },
+    {
+        "title": "El PSOE carga contra la apertura de una línea de investigación sobre los pagos en metálico a Ábalos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/B5EKMSWPB5GYHFRDPJOVYUFJR4.jpg?auth=248105180db48e0df72c3526744b4d6a18b89886878ebd85fc3c3ac571aa7745&width=1200",
+        "tags": [
+            "tribunal supremo",
+            "psoe",
+            "pp",
+            "españa",
+            "investigación judicial",
+            "delitos",
+            "justicia",
+            "caso koldo",
+            "josé luis ábalos",
+            "koldo garcía",
+            "audiencia nacional",
+            "partidos políticos"
+        ],
+        "link": "https://elpais.com/espana/2025-11-14/el-psoe-carga-contra-la-apertura-de-una-linea-de-investigacion-sobre-los-pagos-en-metalico-a-abalos.html",
+        "date": "2025-11-14 17:36:39",
+        "sentiment_score": -0.8201879318803549
+    },
+    {
+        "title": "El agónico final del discapacitado Antonio: “Tengo medio metro de agua en casa”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HCMTZRYW6ZAY3EDK6TB3D6KBZI.jpg?auth=b4599cc0ff95c6a78d22929aad81f4dd0841abf069d8d1de6c04d96a054e478f&width=1200",
+        "tags": [
+            "catástrofes",
+            "comunidad valenciana",
+            "generalitat valenciana",
+            "carlos mazón",
+            "catarroja",
+            "dana"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-14/el-agonico-final-del-discapacitado-antonio-tengo-medio-metro-de-agua-en-casa.html",
+        "date": "2025-11-14 17:17:00",
+        "sentiment_score": -0.8407195303589106
+    },
+    {
+        "title": "La impunidad de la mentira",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "impunidad",
+            "mentira"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/impunidad-mentira_0_2005239974.html",
+        "date": "2025-11-15 02:10:29",
+        "sentiment_score": -0.9203472547233105
+    },
+    {
+        "title": "La UCO investiga mordidas a Cerdán y su socio Antxon Alonso en la reforma del Puente del Centenario de Sevilla",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744015153_259956870_1706x960.jpg",
+        "tags": [
+            "guardia civil",
+            "acciona",
+            "santos cerdán",
+            "españa",
+            "sevilla (municipio)",
+            "psoe (partido socialista obrero español)",
+            "koldo garcía izaguirre",
+            "josé luis ábalos",
+            "uco"
+        ],
+        "link": "https://www.elespanol.com/espana/20251115/uco-investiga-mordidas-cerdan-socio-antxon-alonso-reforma-puente-centenario-sevilla/1003744015028_0.html",
+        "date": "2025-11-15 01:50:28",
+        "sentiment_score": -0.1267799735069275
+    },
+    {
+        "title": "Jorge Azcón: \"Sorprende la degradación moral del PSOE. Lo de Ábalos con las mujeres era para una dimisión en cadena\"",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744013728_259937186_1706x960.jpg",
+        "tags": [
+            "partido popular (pp)",
+            "aragón",
+            "actualidad"
+        ],
+        "link": "https://www.elespanol.com/aragon/actualidad/20251115/jorge-azcon-sorprende-degradacion-moral-psoe-abalos-mujeres-dimision-cadena/1003744013643_0.html",
+        "date": "2025-11-15 01:50:08",
+        "sentiment_score": -0.09621965885162354
+    },
+    {
+        "title": "McDaniel elogia progreso de Waddle y Achane con Dolphins antes de partido ante Commanders",
+        "image_url": "https://dims.apnews.com/dims4/default/5be8d60/2147483647/strip/true/crop/3876x2580+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2Ff5%2Fbedffdab36bd9d90af3ea4a819e1%2F2be447602768423b853300d0f41d0609",
+        "tags": [
+            "deportes",
+            "sports",
+            "achane waddle dolphins madrid commanders"
+        ],
+        "link": "https://apnews.com/article/achane-waddle-dolphins-madrid-commanders-6e24391b5cf0860717228f79c71e4c20",
+        "date": "2025-11-15 01:21:52",
+        "sentiment_score": 0.12623491883277893
+    },
+    {
+        "title": "McDaniel elogia progreso de Waddle y Achane con Dolphins antes de partido ante Commanders",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/DOLPHINS-MADRID_98687.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/11/14/mcdaniel-elogia-progreso-de-waddle-y-achane-con-dolphins-antes-de-partido-ante-commanders/",
+        "date": "2025-11-15 01:21:51",
+        "sentiment_score": 0.09938955307006836
+    },
+    {
+        "title": "Julia Navarro: \"Hace años, iba a los toros. Pero no me divierten y me horroriza pensar que me he divertido yendo\"",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744015060_259955717_1706x960.jpg",
+        "tags": [
+            "entrevistas",
+            "ocio",
+            "julia navarro",
+            "libros",
+            "cultura",
+            "literatura"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20251115/julia-navarro-hace-anos-iba-toros-no-divierten-horroriza-pensar-divertido-yendo/1003744014615_0.html",
+        "date": "2025-11-15 01:01:00",
+        "sentiment_score": -0.802822906523943
+    },
+    {
+        "title": "¿Cuánto pesa una Trienal de Arquitectura?",
+        "image_url": "https://s3.elespanol.com/2025/11/10/actualidad/1003744006451_259841493_1706x960.jpg",
+        "tags": [
+            "arquitectura",
+            "exposiciones"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/arquitectura/20251115/pesa-trienal-arquitectura/1003744006447_0.html",
+        "date": "2025-11-15 01:00:00",
+        "sentiment_score": -0.17068353295326233
+    },
+    {
+        "title": "El crecimiento del 97 % en la actividad de los influencers, entre 2022 y 2024, consolida a los creadores de contenido como una disciplina clave",
+        "image_url": "https://www.elperiodicodecanarias.es/wp-content/uploads/2025/11/22GRADOS_Debate-influencers-1024x683.jpeg",
+        "tags": [
+            "nuevas tecnologías"
+        ],
+        "link": "https://www.elperiodicodecanarias.es/el-crecimiento-del-97-en-la-actividad-de-los-influencers-entre-2022-y-2024-consolida-a-los-creadores-de-contenido-como-una-disciplina-clave/",
+        "date": "2025-11-15 00:57:28",
+        "sentiment_score": 0.5777804031968117
+    },
+    {
+        "title": "Hegemonía del PP",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pp",
+            "hegemonia"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/hegemonia-pp_0_2005239972.html",
+        "date": "2025-11-15 02:10:28",
+        "sentiment_score": -0.3918094336986542
+    },
+    {
+        "title": "Cada uno, su colacao",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "colacao"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/colacao_0_2005239950.html",
+        "date": "2025-11-15 02:08:58",
+        "sentiment_score": -0.1721806675195694
+    },
+    {
+        "title": "¿Quién es Rafael Guerra Álvarez?, presidente del TSJCDMX recién reelecto",
+        "image_url": "https://www.infobae.com/resizer/v2/A5JME5VXTZEW3KKJTE62DI6FRU.jpg?auth=ac0421e2e4d974a2cf4a650485681f18c91c3e57e9349fd32bd513806e63f4b3&height=1080&smart=true&width=1920",
+        "tags": [
+            "fes aragón",
+            "rafael guerra álvarez",
+            "españa",
+            "barcelona",
+            "mexico-noticias",
+            "cdmx",
+            "poder judicial",
+            "tsjcdmx",
+            "unam"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/11/15/quien-es-rafael-guerra-alvarez-presidente-del-tsjcdmx-recien-reelecto/",
+        "date": "2025-11-15 02:01:32",
+        "sentiment_score": -0.029835358262062073
+    },
+    {
+        "title": "Conexión entre la salud mental y prostática: experto devela por qué es una relación que no debe ignorarse",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762961339600.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/conexion-entre-la-salud-mental-y-prostatica-experto-devela-por-que-es-una-relacion-que-no-debe-ignorarse-202511142200",
+        "date": "2025-11-15 02:00:00",
+        "sentiment_score": 0.18155109137296677
+    },
+    {
+        "title": "Maduro al pueblo estadounidense: Paren la mano enloquecida",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "diario 2001",
+            "donald trump",
+            "venezuela",
+            "nicolás maduro",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-al-pueblo-estadounidense-paren-la-mano-enloquecida--202511142110",
+        "date": "2025-11-15 01:01:00",
+        "sentiment_score": 0.2272699698805809
+    },
+    {
+        "title": "Cierre masivo de supermercados Kroger en EEUU: 60 tiendas bajan la persiana. ¿Qué oculta la compañía?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "kroger",
+            "cierre",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/usa/internacionales/cierre-masivo-de-supermercados-kroger-en-eeuu-60-tiendas-bajan-la-persiana-que-oculta-la-compania--202511142100",
+        "date": "2025-11-15 01:00:00",
+        "sentiment_score": -0.3617094084620476
+    },
+    {
+        "title": "Patria asigna \"megabono\" por más de Bs. 26.000 este 14 de noviembre: ¿quiénes lo cobran?",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763167985577.jpg?ch=675&cw=1200",
+        "tags": [
+            "patria",
+            "sistema patria",
+            "dinero",
+            "megabono"
+        ],
+        "link": "https://2001online.com/servicios/patria-asigna-megabono-por-mas-de-bs-26-000-este-14-de-noviembre-quienes-lo-cobran--202511142100",
+        "date": "2025-11-15 01:00:00",
+        "sentiment_score": 0.16351194959133863
+    },
+    {
+        "title": "Texas activa la distribución de pagos SNAP: ¿Cuántas personas se beneficiarán con la restitución del programa?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "cupones snap",
+            "beneficiarios snap",
+            "texas"
+        ],
+        "link": "https://2001online.com/usa/servicios/texas-activa-la-distribucion-de-pagos-snap-cuantas-personas-se-beneficiaran-con-la-restitucion-del-programa--2025111420500",
+        "date": "2025-11-15 00:50:00",
+        "sentiment_score": 0.08663589507341385
+    },
+    {
+        "title": "¿Adiós al Real Madrid? Florentino Pérez dejaría la presidencia del club en 2026",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763165599057/descargar%20(6).jpg?ch=675&cw=1200",
+        "tags": [
+            "madrid",
+            "santiago bernabéu",
+            "real madrid",
+            "presidente real madrid",
+            "españa",
+            "florentino pérez"
+        ],
+        "link": "https://2001online.com/deportes/adios-al-real-madrid-florentino-perez-dejaria-la-presidencia-del-club-en-2026-2025111421150",
+        "date": "2025-11-15 00:36:26",
+        "sentiment_score": 0.8327493816614151
+    },
+    {
+        "title": "¡Imparable! Messi marca gol en amistoso con Argentina y se acerca a esta impresionante marca",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "#argentina",
+            "lionel messi"
+        ],
+        "link": "https://2001online.com/deportes/imparable-messi-marca-gol-en-amistoso-con-argentina-y-se-acerca-a-esta-impresionante-marca-2025111420230",
+        "date": "2025-11-15 00:23:00",
+        "sentiment_score": 0.179746113717556
+    },
+    {
+        "title": "La posición de Robert F. Kennedy sobre la moda de los péptidos entre artistas e influencers",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763165541952.jpg?ch=675&cw=1200",
+        "tags": [
+            "inyecciones de péptidos eeuu",
+            "robert f. kennedy",
+            "fda"
+        ],
+        "link": "https://2001online.com/usa/servicios/la-posicion-de-robert-f-kennedy-sobre-la-moda-de-los-peptidos-entre-artistas-e-influencers-202511142090",
+        "date": "2025-11-15 00:09:00",
+        "sentiment_score": 0.49982187524437904
+    },
+    {
+        "title": "Multimax Maturín se reinventa con nuevo concepto",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763164041712.jpg?ch=675&cw=1200",
+        "tags": [
+            "#2001online",
+            "venezuela",
+            "#agendaempresarial",
+            "maturín",
+            "multimax"
+        ],
+        "link": "https://2001online.com/agenda-empresarial/multimax-maturin-se-reinventa-con-nuevo-concepto-2025111419430",
+        "date": "2025-11-14 23:43:00",
+        "sentiment_score": 0.5810146238654852
+    },
+    {
+        "title": "Detienen a este animador venezolano por varios delitos: presentaba múltiples denuncias",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763163538916.jpg?ch=675&cw=1200",
+        "tags": [
+            "detienen a anthony texeira",
+            "extorsión",
+            "violencia",
+            "abuso",
+            "delitos",
+            "cicpc"
+        ],
+        "link": "https://2001online.com/farandula/detienen-a-este-animador-venezolano-por-varios-delitos-presentaba-multiples-denuncias--202511141850",
+        "date": "2025-11-14 23:40:00",
+        "sentiment_score": -0.894384971819818
     }
 ];
