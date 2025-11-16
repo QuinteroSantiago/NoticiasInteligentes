@@ -1,273 +1,5 @@
 export default [
     {
-        "title": "Sabrina Carpenter será la protagonista de la nueva ‘Alicia en el país de las maravillas’",
-        "image_url": "https://www.infobae.com/resizer/v2/EBSB2OQDJRDDZIAXTTJJ55YJQQ.jpg?auth=da0002ac1848833e310cbc22a9141223fcc87d656dc5ba26cc169d364ca56552&height=675&smart=true&width=900",
-        "tags": [
-            "cine",
-            "españa-cultura",
-            "alicia en el país de las maravillas",
-            "españa-noticias",
-            "sabrina carpenter",
-            "lewis carroll",
-            "cine españa"
-        ],
-        "link": "https://www.infobae.com/espana/cultura/2025/11/12/sabrina-carpenter-sera-la-protagonista-de-la-nueva-alicia-en-el-pais-de-las-maravillas/",
-        "date": "2025-11-12 06:35:36",
-        "sentiment_score": 0.4604910612106323
-    },
-    {
-        "title": "El precio más bajo de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 12 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-economia",
-            "precio gasolina",
-            "noticias",
-            "gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/12/el-precio-mas-bajo-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-12-de-noviembre/",
-        "date": "2025-11-12 06:30:56",
-        "sentiment_score": -0.06122169271111488
-    },
-    {
-        "title": "Estado de las reservas del agua en los embalses españoles hoy martes 11 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/55GWGNA3P5FU7HG3GDJQXQYQPY.png?auth=840a5ef91692078cdccc658a4cb14f69eb0e9c3ca28fe1d42e116ab4cec04148&height=3327&smart=true&width=5000",
-        "tags": [
-            "agua",
-            "embalses españa",
-            "españa-noticias",
-            "noticias",
-            "sequía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/12/estado-de-las-reservas-del-agua-en-los-embalses-espanoles-hoy-martes-11-de-noviembre/",
-        "date": "2025-11-12 06:16:08",
-        "sentiment_score": 0.04441499710083008
-    },
-    {
-        "title": "Embalses de agua se encuentran al 51,37 % de su capacidad este 12 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/LYJIFA6DUBBG7C7UI6ZQ3U5AOY.png?auth=fff2706b54a7cfc5cc1c0db4596db96f4c91b843510b180fb97e47e2628b4826&height=1080&smart=true&width=1620",
-        "tags": [
-            "agua",
-            "embalses españa",
-            "españa-noticias",
-            "noticias",
-            "sequía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/12/embalses-de-agua-se-encuentran-al-5137-de-su-capacidad-este-12-de-noviembre/",
-        "date": "2025-11-12 06:15:50",
-        "sentiment_score": -0.03423493355512619
-    },
-    {
-        "title": "Cómo está el euro frente al dólar este 12 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/7NQ2VALWDVEYBPUCGC3LFFUW3E.jpg?auth=1ddd663cca1fb0ddc1f77c839ac455899f847a00183cabd975f8de77b179ef6b&height=1080&smart=true&width=1920",
-        "tags": [
-            "bancos españa",
-            "billetes",
-            "mercados",
-            "tipo de cambio",
-            "monedas",
-            "euros",
-            "españa-economía",
-            "dólar",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/12/como-esta-el-euro-frente-al-dolar-este-12-de-noviembre/",
-        "date": "2025-11-12 05:15:31",
-        "sentiment_score": 0.26047976315021515
-    },
-    {
-        "title": "Maximino Soriano gana el certamen ‘El legado de Sancho Panza’ de la Sociedad Cervantina de Alcázar",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/07/concurso-relatos-scaled.jpg",
-        "tags": [
-            "alcázar de san juan",
-            "sancho",
-            "cultura",
-            "certamen"
-        ],
-        "link": "https://www.lanzadigital.com/cultura/maximino-soriano-gana-el-certamen-el-legado-de-sancho-panza-de-la-sociedad-cervantina-de-alcazar/",
-        "date": "2025-11-12 06:31:07",
-        "sentiment_score": 0.012126892805099487
-    },
-    {
-        "title": "El rey Felipe VI se reúne con Xi Jingping en su visita oficial a China",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2025/11/12/32EFEABA-467F-41D8-AD86-E3372F23852D/rey-felipe-reune-yingping-visita-oficial-china_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "mundo",
-            "noticias",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/mundo/rey-felipe-reune-yingping-visita-oficial-china_20251112691425dc4d14723b1ecbf111.html",
-        "date": "2025-11-12 06:14:52",
-        "sentiment_score": 0.29694321751594543
-    },
-    {
-        "title": "El Valencia Basket disfruta ante el Real Madrid (89-76)",
-        "image_url": "https://imagenes.esdiario.com/files/og_thumbnail/uploads/2025/11/12/69141f55eaf67.jpeg",
-        "tags": [
-            "valencia"
-        ],
-        "link": "https://www.esdiario.com/comunidad-valenciana/valencia/251112/172037/valencia-basket-real-madrid-89-76.html",
-        "date": "2025-11-12 06:13:51",
-        "sentiment_score": -0.3358391970396042
-    },
-    {
-        "title": "El Girona será el enemigo del Ourense CF en la Copa del Rey",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6eb7b8b2-3313-4dd7-a19d-11c81d5cd9a7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ourense,girona,copa del rey,ronda"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2025/11/12/girona-sera-enemigo-ourense-cf-123616318.html",
-        "date": "2025-11-12 06:00:13",
-        "sentiment_score": -0.09139236807823181
-    },
-    {
-        "title": "El Zamora quiere volver a mirar hacia arriba en la clasificación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2b087d73-a0c7-4f4e-bab0-5989456978ff_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ourense,clasificación,la liga,rfef"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2025/11/12/zamora-quiere-volver-mirar-clasificacion-123616322.html",
-        "date": "2025-11-12 06:00:12",
-        "sentiment_score": 0.28025195002555847
-    },
-    {
-        "title": "La profesora cacereña que fundó el coro de la UEx recibirá un homenaje",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6c9277ac-9fbd-44a0-b533-ac32bc4206dd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "homenajes"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2025/11/12/profesora-cacerena-fundo-coro-uex-123614498.html",
-        "date": "2025-11-12 06:00:07",
-        "sentiment_score": 0.006689399480819702
-    },
-    {
-        "title": "Madrid anuncia que el impuesto de circulación dependerá de la etiqueta de la DGT del vehículo en 2026",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/11/un-cartel-marca-la-el-inicio-de-una-zona-de-bajas-emisiones-zbe-a-20-de-noviembre-de-2024-en-madrid-espana.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/motor/actualidad/madrid-anuncia-impuesto-circulacion-dependera-directamente-etiqueta-dgt-vehiculo-2026_6663987_0.html",
-        "date": "2025-11-12 06:00:00",
-        "sentiment_score": -0.7469964642077684
-    },
-    {
-        "title": "Moreno Bonilla impulsa una ley que debilita las universidades públicas y favorece los \"chiringuitos\" privados",
-        "image_url": "https://www.elplural.com/uploads/s1/20/95/76/1/moreno-bonilla-impulsa-una-ley-que-debilita-las-universidades-publicas-ep_7_480x270.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.elplural.com/opinion/moreno-bonilla-impulsa-ley-debilita-universidades-publicas-favorece-chiringuitos-privados_364867102",
-        "date": "2025-11-12 05:59:18",
-        "sentiment_score": -0.020342111587524414
-    },
-    {
-        "title": "Verstappen elogia al Real Madrid y lanza un aviso a la Fórmula 1",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/14/2025041422463721018.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/verstappen-elogia-real-madrid-lanza-aviso-formula-1/20251112064744362771.html",
-        "date": "2025-11-12 05:47:44",
-        "sentiment_score": -0.4209097549319267
-    },
-    {
-        "title": "“Conectamos a más de 10.000 empresas en el mayor ecosistema digital del sector, incluyendo a más de la mitad de las compañías del Fortune 500”",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2025/11/Eulalia-Flo-Vicepresidenta-Regional-de-Equinix-y-Managing-Director-de-Equinix-Spain.webp",
-        "tags": [
-            "equinix",
-            "conectividad",
-            "tecnología",
-            "últimas noticias"
-        ],
-        "link": "https://www.merca2.es/2025/11/12/infraestructura-equinix-spain-2322165/",
-        "date": "2025-11-12 05:30:00",
-        "sentiment_score": 0.6683480888605118
-    },
-    {
-        "title": "La selección española se da un baño de masas en Madrid antes de viajar a Georgia... tras la polémica ausencia de Lamine Yamal",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/11/6913a2436fbad.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/seleccion-espanola-se-da-un-bano-masas-madrid-antes-viajar-georgia-tras-polemica-ausencia-lamine-yamal_6881232_0.html",
-        "date": "2025-11-12 06:27:55",
-        "sentiment_score": 0.1859553437680006
-    },
-    {
-        "title": "Melós: un restaurante que será importante en Barcelona (ojo a la raya y al rodaballo)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/08702afc-dc5e-4906-afdc-3d48ff696090_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dónde comer hoy",
-            "restaurantes de pau arenós",
-            "restaurantes barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251112/restaurante-melos-barcelona-123585545",
-        "date": "2025-11-12 06:05:47",
-        "sentiment_score": 0.135046124458313
-    },
-    {
-        "title": "¿Cuándo convocará Laporta las elecciones del Barça?",
-        "image_url": "https://static1.ara.cat/clip/c47a8477-2f2c-430e-ae89-35dac5f63549_16-9-aspect-ratio_default_0_x1270y528.jpg",
-        "tags": [
-            "barca",
-            "laporta",
-            "convocara",
-            "elecciones"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/convocara-laporta-elecciones-barca_130_5558831.html",
-        "date": "2025-11-12 06:00:57",
-        "sentiment_score": -0.04128411412239075
-    },
-    {
-        "title": "El restaurante que hace brillar una estrella durante 40 años pese a estar lejos de Barcelona",
-        "image_url": "https://static1.ara.cat/clip/2e8589bb-2882-4c13-8246-56ce73d4f04f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "estrella",
-            "40",
-            "lejos",
-            "anos",
-            "pese",
-            "restaurante",
-            "brillar",
-            "barcelona",
-            "durante"
-        ],
-        "link": "https://es.ara.cat/comer/restaurante-brillar-estrella-durante-40-anos-pese-lejos-barcelona_1_5558828.html",
-        "date": "2025-11-12 06:00:51",
-        "sentiment_score": 0.07590699195861816
-    },
-    {
-        "title": "Cataluña ofrecerá uno de los árboles de Navidad más altos de España: esta es la ubicación exacta",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2023/11/18/8D74DBBF-9CE0-446B-BED0-F3A73F835125/69.jpg?crop=2048%2C1152%2Cx0%2Cy192&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/cataluna-ofrecera-arboles-navidad-mas-altos-espana-ubicacion-exacta-p7m_2025111269132e339c30fb26651f04bc.html",
-        "date": "2025-11-12 06:00:15",
-        "sentiment_score": 0.13134130090475082
-    },
-    {
-        "title": "El CD Ebro, dispuesto a \"dar guerra\" contra Osasuna en la Copa del Rey: \"Nos lo vamos a tomar como un derbi\"",
-        "image_url": "https://s3.elespanol.com/2025/11/11/actualidad/1003744009309_259877980_1706x960.jpg",
-        "tags": [
-            "copa del rey de fútbol",
-            "deportes"
-        ],
-        "link": "https://www.elespanol.com/aragon/deportes/20251112/cd-ebro-dispuesto-dar-guerra-osasuna-copa-rey-vamos-tomar-derbi/1003744009290_0.html",
-        "date": "2025-11-12 06:00:00",
-        "sentiment_score": 0.18565674871206284
-    },
-    {
-        "title": "Juanma Castaño: \"La conclusión de cara al aficionado es que Lamine Yamal ha jugado tres partidos en una semana con el Barça, y que ahora no jugará con la selección española\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/12/6913c86cd765b.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-conclusion-cara-aficionado-lamine-yamal-jugado-tres-partidos-semana-barca-jugara-seleccion-espanola-20251112_3250193.html",
-        "date": "2025-11-12 06:00:00",
-        "sentiment_score": -0.018586009740829468
-    },
-    {
         "title": "Los padres de Sandra Peña piden a la Fiscalía de Menores una sanción \"contundente y ejemplarizante\" al colegio",
         "image_url": "https://www.infobae.com/resizer/v2/EIEKMNF5ERBZVNQASOWPXR766M.jpg?auth=73b4eaae0867c91dd797ae363943c9510cd8b4d098b71376bc4546731a34b21f&height=1280&smart=true&width=1920",
         "tags": [
@@ -465,52 +197,6 @@ export default [
         "link": "https://www.abc.es/internacional/peng-liyuan-elegante-canto-poder-primera-dama-20251112122753-nt.html",
         "date": "2025-11-12 11:27:54",
         "sentiment_score": -0.08212286233901978
-    },
-    {
-        "title": "Israel reabre un corredor de ayuda en Gaza mientras silencia su emisora militar",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/12/1501806530-keFD-U701923776267kBB-1200x840@diario_abc.jpg",
-        "tags": [
-            "israel",
-            "onu",
-            "gaza",
-            "ministerio de defensa"
-        ],
-        "link": "https://www.abc.es/internacional/israel-reabre-corredor-ayuda-gaza-silencia-emisora-20251112104319-nt.html",
-        "date": "2025-11-12 09:44:10",
-        "sentiment_score": -0.06871804594993591
-    },
-    {
-        "title": "Enfermedad Renal Crónica: detección precoz, clave de vida",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/salud/2025/11/04/Boehringerprincipal-RVYF91yg6xeC1cBJdHbBIWO-1200x840@diario_abc.jpg",
-        "tags": [
-            "medicina",
-            "medicina preventiva",
-            "nefrología",
-            "hipertensión",
-            "enfermedades",
-            "salud",
-            "diabetes"
-        ],
-        "link": "https://www.abc.es/salud/enfermedad-renal-cronica-deteccion-precoz-clave-vida-20251104180606-nt.html",
-        "date": "2025-11-12 08:52:30",
-        "sentiment_score": -0.1734195053577423
-    },
-    {
-        "title": "Sostenibilidad en sinergia: C&R, Genera y MaTELEc impulsan la transición energética",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sociedad/2025/11/11/Clima-Rt0hDQ5v8Kd8Qas6lxNXefP-1200x840@diario_abc.jpg",
-        "tags": [
-            "ifema",
-            "industria",
-            "economía sostenible",
-            "sostenibilidad",
-            "movilidad",
-            "energía",
-            "energías renovables",
-            "red eléctrica"
-        ],
-        "link": "https://www.abc.es/sociedad/sostenibilidad-sinergia-genera-matelec-impulsan-transicion-energetica-20251111181518-nt.html",
-        "date": "2025-11-12 07:30:35",
-        "sentiment_score": 0.07405035197734833
     },
     {
         "title": "Barcelona estrena villancico esta Navidad para homenajear a los coros de la ciudad",
@@ -8432,5 +8118,554 @@ export default [
         "link": "https://2001online.com/usa/servicios/comida-gratis-para-accion-de-gracias-en-eeuu-como-solicitarla-a-operation-turkey-antes-de-la-fecha-limite-2025111511300",
         "date": "2025-11-15 15:30:00",
         "sentiment_score": 0.1193101555109024
+    },
+    {
+        "title": "Sira Rego destaca el \"apoyo a Palestina\" de un San Mamés \"abarrotado\" durante el partido Euskadi-Palestina",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/15/sira-rego-destaca-el-apoyo-a-palestina-de-un-san-mames-abarrotado-durante-el-partido-euskadi-palestina/",
+        "date": "2025-11-15 22:00:16",
+        "sentiment_score": -0.03090760111808777
+    },
+    {
+        "title": "Esteban afirma que el PNV seguirá reclamando la oficialidad de la selección, \"una demanda mayoritaria\" de los vascos",
+        "image_url": "https://www.infobae.com/resizer/v2/V3AOZFMOUZB3DAOIGLCD34BZBY.jpg?auth=6a8d9d55d85c85d447146c79919667d7f08d66fc8c80d7d75399a5eb951a06d8&height=1440&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/15/esteban-afirma-que-el-pnv-seguira-reclamando-la-oficialidad-de-la-seleccion-una-demanda-mayoritaria-de-los-vascos/",
+        "date": "2025-11-15 20:45:38",
+        "sentiment_score": -0.6686636321246624
+    },
+    {
+        "title": "Los números que dieron fortuna a los nuevos ganadores de Super Once",
+        "image_url": "https://www.infobae.com/resizer/v2/PPFHQD7ONZCW5DHK2KQEM5XRCY.jpg?auth=7563789ed01319b51c40432578d3fab16da6f51f84c84520b021889f1d38cf5f&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "españa-loterías",
+            "españa-economía",
+            "super once"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/15/los-numeros-que-dieron-fortuna-a-los-nuevos-ganadores-de-super-once/",
+        "date": "2025-11-15 20:45:24",
+        "sentiment_score": 0.13851305656135082
+    },
+    {
+        "title": "Decenas de miles de personas recorren Bilbao para exigir \"el fin del genocido\" antes del encuentro Euskadi-Palestina",
+        "image_url": "https://www.infobae.com/resizer/v2/SQI5OY54CJEYHG36V2UXA56WPY.jpg?auth=5a23ae6b47e15208cda57dc630ea017e513bc5f8ba1dc8b67c885037f583b25f&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/15/decenas-de-miles-de-personas-recorren-bilbao-para-exigir-el-fin-del-genocido-antes-del-encuentro-euskadi-palestina/",
+        "date": "2025-11-15 20:30:38",
+        "sentiment_score": -0.6391851715743542
+    },
+    {
+        "title": "Crónica del Georgia - España, 0-4",
+        "image_url": "https://www.infobae.com/resizer/v2/N5I4ZMOYMVCL7OTYHDNGVEYWAQ.jpg?auth=02655215f03c5d71ebc04dfff6beb22908cd3f6f0662ce7e5c4d9f0406cf3273&height=1354&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/15/cronica-del-georgia-espana-0-4/",
+        "date": "2025-11-15 19:30:33",
+        "sentiment_score": -0.11912482976913452
+    },
+    {
+        "title": "España arrasa 0-4 a Georgia y prácticamente sella su pase para el Mundial de Estados Unidos 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/Q5ZPNSJCK5ANRBS6UAFPVESMUY.jpg?auth=d61f9e5d59300debab2bee33fe1bce760147af6d1aaf9166b72af6e4ad6ff452&height=1080&smart=true&width=1920",
+        "tags": [
+            "la roja",
+            "fútbol españa",
+            "mundial 2026",
+            "españa-deportes",
+            "fútbol",
+            "rfef",
+            "españa-noticias",
+            "selección española",
+            "selección espñola",
+            "real federación española de fútbol"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/15/espana-arrasa-con-georgia-y-practicamente-sella-su-pase-para-el-mundial-de-estados-unidos-2026/",
+        "date": "2025-11-15 19:23:42",
+        "sentiment_score": 0.7927017100155354
+    },
+    {
+        "title": "Joan, propietario de una granja avícola: “Los primeros tres años tuve que reinvertir todo y hoy la rentabilidad es del 25%”",
+        "image_url": "https://www.infobae.com/resizer/v2/ZXUG7IHIO5AQNDLPA2FQIYJ6OI.png?auth=a9bf7ed1a7e68eed5c478494483cc33572883498be0829c99c160b16fbf0df3d&height=1080&smart=true&width=1920",
+        "tags": [
+            "ganadería",
+            "españa-economia",
+            "trabajadores españa",
+            "españa-noticias",
+            "empleo españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/13/joan-propietario-de-una-granja-avicola-los-primeros-tres-anos-tuve-que-reinvertir-todo-y-hoy-la-rentabilidad-es-del-25/",
+        "date": "2025-11-15 19:00:15",
+        "sentiment_score": 0.8520268462598324
+    },
+    {
+        "title": "La Policía detiene a una menor tras apuñalar y matar a su cuñada en Asturias",
+        "image_url": "https://www.infobae.com/resizer/v2/7JVOI5Q4GJA2JFPXONEGMIW6HU.jpg?auth=3b72c5904db70b215242ca08d2a8c40f3dee7cdd7e5b769245237c59f108d7a2&height=1280&smart=true&width=1920",
+        "tags": [
+            "sucesos españa",
+            "guardia civil",
+            "españa-noticias",
+            "policía españa",
+            "asturias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/15/la-policia-detiene-a-una-menor-tras-apunalar-y-matar-a-su-cunada-en-asturias/",
+        "date": "2025-11-15 18:47:31",
+        "sentiment_score": -0.6263125725090504
+    },
+    {
+        "title": "EH Bildu: \"Es un día muy importante, porque Euskal Herria y Palestina se juntan para reivindicar el derecho a existir\"",
+        "image_url": "https://www.infobae.com/resizer/v2/G6ZKV6ZF7RHYDKAAFLQUNVGRYI.jpg?auth=8a8521c98761ba48891cbd8aa0bbf57b82c32f52c2c7c476cbac07e0cde20e81&height=1057&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/15/eh-bildu-es-un-dia-muy-importante-porque-euskal-herria-y-palestina-se-juntan-para-reivindicar-el-derecho-a-existir/",
+        "date": "2025-11-15 18:45:18",
+        "sentiment_score": 0.585175558924675
+    },
+    {
+        "title": "Feijóo quiere jóvenes ambiciosos y que \"no vivan del Estado\" y les alerta de partidos que \"discuten\" la democracia",
+        "image_url": "https://www.infobae.com/resizer/v2/PILWCP4QCRDGRPIH4VCBX7NBIA.jpg?auth=3990685a12e5ce453a2ba36139625302d3d74804dbfbecac3bf211853f868a6a&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/15/feijoo-quiere-jovenes-ambiciosos-y-que-no-vivan-del-estado-y-les-alerta-de-partidos-que-discuten-la-democracia/",
+        "date": "2025-11-15 18:15:33",
+        "sentiment_score": -0.16856127977371216
+    },
+    {
+        "title": "La protesta de la 'Generación Z' en Ciudad de México termina con disturbios en el Zócalo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/11/15/1503056408-kk2G-U7019460341032OI-1200x840@diario_abc.JPG",
+        "tags": [
+            "violencia",
+            "claudia sheinbaum",
+            "ciudad de mexico",
+            "disturbios",
+            "almería (provincia)",
+            "uh abc"
+        ],
+        "link": "https://www.abc.es/internacional/protesta-generacion-ciudad-mexico-termina-disturbios-zocalo-20251115221918-nt.html",
+        "date": "2025-11-15 21:19:18",
+        "sentiment_score": -0.1396336704492569
+    },
+    {
+        "title": "Ofensiva del Gobierno de México contra los casinos, señalados por lavado de dinero y vínculos con el narco",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/15/casinos-RX4zhdDaoFNhMg94qLyQSPL-1200x840@diario_abc.jpg",
+        "tags": [
+            "mexico",
+            "lavado",
+            "dinero",
+            "vinculos",
+            "narco",
+            "ofensiva",
+            "casinos",
+            "senalado",
+            "gobierno"
+        ],
+        "link": "https://www.abc.es/internacional/ofensiva-gobierno-mexico-casinos-senalados-lavado-dinero-20251115191839-nt.html",
+        "date": "2025-11-15 18:20:26",
+        "sentiment_score": -0.17520618438720703
+    },
+    {
+        "title": "El encuentro íntimo de dos universos en el Born",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FTWLBHOCSVDD3NTVIPBRZHRE2A.jpg?auth=0b7ae83c308fb4cd74127d57c3c6c9bacda7484169c97c59d6f4579b0a31582d&width=1200",
+        "tags": [
+            "arte",
+            "joan miró",
+            "arte contemporáneo",
+            "exposiciones",
+            "cultura",
+            "cuadros",
+            "cataluña",
+            "senegal",
+            "walter benjamin",
+            "perú",
+            "memoria",
+            "moma",
+            "pintura",
+            "catalunya cultura",
+            "barcelona",
+            "artistas",
+            "miró"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-15/el-encuentro-intimo-de-dos-universos-en-el-born.html",
+        "date": "2025-11-15 18:49:04",
+        "sentiment_score": 0.03726346790790558
+    },
+    {
+        "title": "El Barça de Basket gasta 20 millones de euros menos que el Real Madrid en salarios de jugadores: los recortes de Laporta pasan factura",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/culemania/palco/1003742705707_15381241_1706x960.jpg",
+        "tags": [
+            "fcb basket",
+            "joan laporta",
+            "palco",
+            "baloncesto"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251115/barca-basket-millones-real-madrid-jugadores-laporta/1003742707818_0.html",
+        "date": "2025-11-15 22:03:18",
+        "sentiment_score": 0.26887670159339905
+    },
+    {
+        "title": "Granada se convierte en un laboratorio para atraer coleccionistas de arte de toda España",
+        "image_url": "https://static.grupojoly.com/clip/774c8872-b543-464c-9702-eb5c46c8b71a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "qué hacer en granada",
+            "exposición granada"
+        ],
+        "link": "https://www.granadahoy.com/ocio/granada-programa-pionero-atraer-coleccionistas-arte-toda-espana_0_2005240659.html",
+        "date": "2025-11-15 22:00:28",
+        "sentiment_score": 0.7516237841919065
+    },
+    {
+        "title": "La primera mujer que arbitra en el Heliodoro Rodríguez López en un siglo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8d125c2e-0807-4f68-99d9-813e4ebf3e6a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "historia",
+            "público",
+            "tenerife",
+            "mujeres"
+        ],
+        "link": "https://www.eldia.es/deportes/cd-tenerife/2025/11/15/primera-mujer-arbitra-heliodoro-rodriguez-123771228.html",
+        "date": "2025-11-15 21:58:08",
+        "sentiment_score": -0.3562316298484802
+    },
+    {
+        "title": "El nuevo Palau Blaugrana, una obra pendiente mejor recibida por los vecinos de Les Corts que el Camp Nou",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/17/culemania/palco/1003742674673_14885237_1706x960.jpg",
+        "tags": [
+            "fcb basket",
+            "espai barça",
+            "joan laporta",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251115/palau-blaugrana-pendiente-recibida-corts-camp-nou/1003742707764_0.html",
+        "date": "2025-11-15 21:57:13",
+        "sentiment_score": 0.4584102686494589
+    },
+    {
+        "title": "Un ecuador de legislatura con demasiadas asignaturas pendientes: de la caída del poder adquisitivo a encabezar la pobreza infantil de la UE",
+        "image_url": "https://phantom-elmundo.uecdn.es/2f73aa05f381c7022d3640eed5b25a1a/f/image/jpeg/assets/multimedia/imagenes/2024/01/18/17055779645434.jpg",
+        "tags": [
+            "madrid",
+            "salarios",
+            "gobierno de españa",
+            "sumar",
+            "artículos maría alcántara",
+            "artículos elsa martín",
+            "pedro sánchez",
+            "vivienda",
+            "psoe",
+            "yolanda díaz",
+            "nlpremium",
+            "españa",
+            "artículos alberto hernández",
+            "congreso de los diputados"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/15/69170480e4d4d8d3018b45a4.html",
+        "date": "2025-11-15 21:51:40",
+        "sentiment_score": 0.03820426017045975
+    },
+    {
+        "title": "La primera divorciada fue Julita y la primera película X 'Garganta Profunda': lo que se pudo hacer cuando Franco murió",
+        "image_url": "https://phantom-elmundo.uecdn.es/bb7a140548345d6bddad71569884cb8a/f/image/jpeg/assets/multimedia/imagenes/2022/05/03/16515702585114.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos ana maría ortiz",
+            "historia",
+            "francisco franco bahamonde"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/15/6918a584e85ece703b8b4592.html",
+        "date": "2025-11-15 21:51:25",
+        "sentiment_score": -0.014256685972213745
+    },
+    {
+        "title": "La IA toma el mando del Black Friday: así se gestiona el mayor aluvión de paquetes del año",
+        "image_url": "https://phantom-elmundo.uecdn.es/95acc8c53e6ace282f1e283955704ae3/crop/83x195/643x755/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16529079984891.jpg",
+        "tags": [
+            "black friday",
+            "artículos gabriela galarza",
+            "nlpremium",
+            "amazon",
+            "navidad"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/11/15/691783e9e4d4d8cd778b45b7.html",
+        "date": "2025-11-15 21:51:00",
+        "sentiment_score": 0.6490547489374876
+    },
+    {
+        "title": "La vivienda se escapa del alcance de los salarios",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/fd43aa1c-f09b-4367-9402dcd7ba45a11b.jpg",
+        "tags": [
+            "cataluña",
+            "precios",
+            "españa",
+            "créditos",
+            "ine",
+            "andalucía",
+            "canarias",
+            "madrid",
+            "alquiler",
+            "cantabria",
+            "tipos de interés",
+            "país vasco",
+            "salarios",
+            "castilla-la mancha",
+            "baleares",
+            "bce",
+            "cis",
+            "extremadura",
+            "vivienda"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z673c4e64-6444-49c1-89b4bf3418790461/202511/la-vivienda-se-escapa-del-alcance-de-los-salarios",
+        "date": "2025-11-15 21:44:35",
+        "sentiment_score": -0.080781489610672
+    },
+    {
+        "title": "Canarias llega ‘sola’ al Consejo Fiscal con el aval de unas finanzas saneadas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0ecbf2bc-0998-4821-bcff-30e0b0cdc7da_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gobierno",
+            "pp",
+            "canarias",
+            "financiación",
+            "hacienda"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2025/11/15/canarias-llega-sola-consejo-fiscal-123771181.html",
+        "date": "2025-11-15 21:44:06",
+        "sentiment_score": -0.4174037501215935
+    },
+    {
+        "title": "La borrasca Claudia trae más lluvias a casi toda España en las próximas horas: las zonas que esperan más agua",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/15/6918ef8173f2b.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/borrasca-claudia-trae-mas-lluvias-casi-toda-espana-proximas-horas-estas-zonas-esperan-mas-agua_6898413_0.html",
+        "date": "2025-11-15 21:40:02",
+        "sentiment_score": -0.4382704198360443
+    },
+    {
+        "title": "Equipo palestino juega amistoso en España ante 50.000 espectadores",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/ESPA209A_PALESTINA_66006.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/11/15/equipo-palestino-juega-amistoso-en-espaa-ante-50-000-espectadores/",
+        "date": "2025-11-15 22:09:50",
+        "sentiment_score": -0.3494592569768429
+    },
+    {
+        "title": "Equipo palestino juega amistoso en España ante 50.000 espectadores",
+        "image_url": "https://dims.apnews.com/dims4/default/dbe5f2b/2147483647/strip/true/crop/3232x2151+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdb%2F72%2F34b18727a6b776a53e6ae5cafb9c%2F305a07f11d7f4489901b6cd1feffe807",
+        "tags": [
+            "palestina soccer espana",
+            "deportes",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/palestina-soccer-espana-122d79a44e7ca07e404759fbffc626e7",
+        "date": "2025-11-15 22:09:50",
+        "sentiment_score": -0.549444081261754
+    },
+    {
+        "title": "Sito Alonso, entrenador del UCAM Murcia: «El Pazo es una conexión envidiable y es de admirar porque tiene mucho mérito»",
+        "image_url": "https://cflvdg.avoz.es/sc/rilzZEm1JUAbMbvPd9vPfCtB87I=/768x/2025/11/15/00121763244361691474170/Foto/l_20251115_230256000.jpg",
+        "tags": [
+            "lugo"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/lugo/2025/11/15/sito-alonso-entrenador-ucam-murcia-pazo-conexion-envidiable-admirar-merito/00031763243848322542537.htm",
+        "date": "2025-11-15 22:07:00",
+        "sentiment_score": -0.024556975811719894
+    },
+    {
+        "title": "Winter Pride 2025 en Maspalomas: libertad, diversidad y más de 30.000 personas que caminan por la tolerancia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/82cae342-38f2-4911-b663-ec9490127ccb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lgtbi",
+            "maspalomas",
+            "maspalomas pride",
+            "colectivo",
+            "gran canaria",
+            "isla",
+            "san bartolomé de tirajana",
+            "amor"
+        ],
+        "link": "https://www.laprovincia.es/gran-canaria/2025/11/15/winter-pride-2025-maspalomas-libertad-123762460.html",
+        "date": "2025-11-15 21:48:25",
+        "sentiment_score": 0.705630250275135
+    },
+    {
+        "title": "Josep Pla",
+        "image_url": "https://www.eldiadevalladolid.com/media/img/2025/2073ef74-d00d-40b0-a4960728cde8fde7.jpg",
+        "tags": [
+            "españa",
+            "libros",
+            "generalitat de cataluña",
+            "novela",
+            "nueva york",
+            "rusia",
+            "segunda guerra mundial",
+            "barcelona",
+            "marruecos",
+            "madrid",
+            "cuba",
+            "nacionalismo",
+            "periodismo",
+            "cataluña",
+            "tel aviv",
+            "gerona",
+            "franquismo",
+            "dictadura",
+            "parís"
+        ],
+        "link": "https://www.eldiadevalladolid.com/noticia/zd4fe3266-9156-4052-82a5a9896e8016cd/202511/josep-pla",
+        "date": "2025-11-15 21:46:33",
+        "sentiment_score": 0.3509703427553177
+    },
+    {
+        "title": "Jack Della Maddalena vs. Islam Makhachev: horarios y dónde ver UFC 322",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763246680858.jpg?ch=675&cw=1200",
+        "tags": [
+            "jack della maddalena",
+            "mma",
+            "islam makhachev",
+            "ufc",
+            "islam makhachev vs jack della maddalena",
+            "ufc 322",
+            "peso welter"
+        ],
+        "link": "https://2001online.com/deportes/jack-della-maddalena-vs-islam-makhachev-horarios-y-donde-ver-ufc-322-202511151900",
+        "date": "2025-11-15 22:06:04",
+        "sentiment_score": 0.34469401463866234
+    },
+    {
+        "title": "Diosdado Cabello pide al pueblo \"estar listos\": Una acción contra el país no tiene hora",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "venezuela",
+            "diosdado cabello",
+            "diario 2001",
+            "cbbi"
+        ],
+        "link": "https://2001online.com/nacionales/diosdado-cabello-pide-al-pueblo-estar-listos-una-accion-contra-el-pais-no-tiene-hora-202511151820",
+        "date": "2025-11-15 22:02:00",
+        "sentiment_score": -0.7320784758776426
+    },
+    {
+        "title": "¡Aterrador! Hombre tardó 10 años en descubrir que su esposa lo envenenaba",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "justicia",
+            "estafa",
+            "diario 2001",
+            "gran bretaña"
+        ],
+        "link": "https://2001online.com/sucesos/aterrador-hombre-tardo-10-anos-en-descubrir-que-su-esposa-lo-envenenaba-202511151800",
+        "date": "2025-11-15 22:00:00",
+        "sentiment_score": -0.6257725954055786
+    },
+    {
+        "title": "Grietas en la Vinotinto: análisis táctico y mental de la eliminación en el Mundial Sub-17",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763243984888.jpg?ch=675&cw=1200",
+        "tags": [
+            "oswaldo vizcarrondo",
+            "mundial sub-17",
+            "qatar 2025",
+            "mundial",
+            "mundial qatar 2025",
+            "vinotinto sub 17",
+            "vinotinto",
+            "venezuela sub 17"
+        ],
+        "link": "https://2001online.com/deportes/grietas-en-la-vinotinto-analisis-tactico-y-mental-de-la-eliminacion-en-el-mundial-sub-17-2025111518150",
+        "date": "2025-11-15 21:36:44",
+        "sentiment_score": -0.09656943380832672
+    },
+    {
+        "title": "¡En imágenes! Alarma en Buenos Aires tras explosión en una planta de productos químicos: incendio se extiende a otras empresas",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763241648198/0d00291d1bc8b01a6978ce3b08798265c87cb823miniw.jpg?ch=675&cw=1200",
+        "tags": [
+            "gases tóxicos",
+            "argentina",
+            "incendio de gran magnitud",
+            "ezeiza",
+            "buenos aires",
+            "explosion"
+        ],
+        "link": "https://2001online.com/internacionales/en-imagenes-alarma-en-buenos-aires-tras-explosion-en-una-planta-de-productos-quimicos-incendio-se-extiende-a-otras-empresas-202511151700",
+        "date": "2025-11-15 21:00:00",
+        "sentiment_score": -0.7262922637164593
+    },
+    {
+        "title": "Apple lanza un nuevo accesorio en colaboración con Issey Miyake: conoce de qué se trata y su costo",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "apple",
+            "accesorio apple",
+            "issey miyake"
+        ],
+        "link": "https://2001online.com/curiosidades/apple-lanza-un-nuevo-accesorio-en-colaboracion-con-issey-miyake-conoce-de-que-se-trata-y-su-costo-202511151700",
+        "date": "2025-11-15 21:00:00",
+        "sentiment_score": 0.8074879311025143
+    },
+    {
+        "title": "Permiso de trabajo EEUU: estas son las consecuencias de trabajar con el documento vencido",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "permiso",
+            "eeuu",
+            "trabajo"
+        ],
+        "link": "https://2001online.com/usa/servicios/permiso-de-trabajo-eeuu-estas-son-las-consecuencias-de-trabajar-con-el-documento-vencido-202511151600",
+        "date": "2025-11-15 20:00:00",
+        "sentiment_score": 0.08641898259520531
+    },
+    {
+        "title": "Mujer elaboraba y vendía pornografía infantil de sus hijas por $10: un familiar alertó al Cicpc",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763236269765.jpg?ch=675&cw=1200",
+        "tags": [
+            "cicpc",
+            "mujer elaboraba y vendía pornografía infantil",
+            "detenida",
+            "10 %"
+        ],
+        "link": "https://2001online.com/sucesos/mujer-elaboraba-y-vendia-pornografia-infantil-de-sus-hijas-por-10-un-familiar-alerto-al-cicpc-2025111515540",
+        "date": "2025-11-15 19:54:00",
+        "sentiment_score": -0.08784141391515732
+    },
+    {
+        "title": "Guía para acceder a comida gratis en Florida del 17 al 22 de noviembre: los puntos de entrega más cercanos",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "feeding tampa bay",
+            "usa",
+            "despensas de alimentos gratis en florida",
+            "diario 2001 eeuu",
+            "despensas móviles semanales de alimentos gratuitos en florida",
+            "eeuu",
+            "comida gratis en florida",
+            "farm share florida",
+            "estados unidos",
+            "florida"
+        ],
+        "link": "https://2001online.com/usa/servicios/guia-para-acceder-a-comida-gratis-en-florida-del-17-al-22-de-noviembre-los-puntos-de-entrega-mas-cercanos-2025111515300",
+        "date": "2025-11-15 19:30:00",
+        "sentiment_score": 0.22685022838413715
+    },
+    {
+        "title": "Patria pagará estas bonificaciones especiales del 17 al 22 de noviembre: montos claves y quiénes las cobran",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763234664870.jpg?ch=675&cw=1200",
+        "tags": [
+            "patria pagará estas bonificaciones",
+            "montos claves"
+        ],
+        "link": "https://2001online.com/servicios/patria-pagara-estas-bonificaciones-especiales-del-17-al-22-de-noviembre-montos-claves-y-quienes-las-cobran--2025111515250",
+        "date": "2025-11-15 19:25:00",
+        "sentiment_score": 0.2738293521106243
     }
 ];
