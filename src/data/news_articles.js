@@ -113,21 +113,6 @@ export default [
         "sentiment_score": -0.4081509858369827
     },
     {
-        "title": "Las políticas de Hegseth están expulsando a mujeres calificadas de las fuerzas armadas",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/d0/media_thumb-link-4116587.webp?1762931346=",
-        "tags": [
-            "politica",
-            "políticas",
-            "hegseth",
-            "mujeres",
-            "expulsando",
-            "calificadas"
-        ],
-        "link": "https://www.meneame.net/story/politicas-hegseth-estan-expulsando-mujeres-calificadas-fuerzas",
-        "date": "2025-11-12 12:10:03",
-        "sentiment_score": -0.17929744720458984
-    },
-    {
         "title": "Detenido un supuesto miembro de Hamás acusado de planear ataques contra instituciones judías",
         "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/12/1475263040-k09B-U701926664100MS-1200x840@diario_abc.jpg",
         "tags": [
@@ -166,37 +151,6 @@ export default [
         "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ayuntamiento-toledo-adjudica-segunda-fase-proyecto-recuperacion-20251112151946-nt.html",
         "date": "2025-11-12 14:19:47",
         "sentiment_score": -0.0375538170337677
-    },
-    {
-        "title": "Al «alcance del tacógrafo»: BonÀrea se hace fuerte en Aragón para conquistar el noreste español",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/12/dos_20251112130946-RwjvjDk43AcZU7BxhLJL9yI-1200x840@diario_abc.JPG",
-        "tags": [
-            "alcance",
-            "conquistar",
-            "bonarea",
-            "tacografo",
-            "fuerte",
-            "aragon",
-            "espanol",
-            "noreste"
-        ],
-        "link": "https://www.abc.es/economia/alcance-tacografo-bonarea-fuerte-aragon-conquistar-noreste-20251112132028-nt.html",
-        "date": "2025-11-12 12:20:30",
-        "sentiment_score": -0.0324215292930603
-    },
-    {
-        "title": "Peng Liyuan: el elegante canto al poder de la primera dama china",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/12/PengLiyuan-RqdkTtltju8b13Rf3de6bMI-1200x840@diario_abc.jpg",
-        "tags": [
-            "casa real",
-            "xi jinping",
-            "españa",
-            "china",
-            "letizia ortiz rocasolano"
-        ],
-        "link": "https://www.abc.es/internacional/peng-liyuan-elegante-canto-poder-primera-dama-20251112122753-nt.html",
-        "date": "2025-11-12 11:27:54",
-        "sentiment_score": -0.08212286233901978
     },
     {
         "title": "Barcelona estrena villancico esta Navidad para homenajear a los coros de la ciudad",
@@ -1971,21 +1925,6 @@ export default [
         "sentiment_score": -0.12647277861833572
     },
     {
-        "title": "Las políticas de Hegseth están expulsando a mujeres calificadas de las fuerzas armadas",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/d0/media_thumb-link-4116587.webp?1762931346=",
-        "tags": [
-            "politica",
-            "políticas",
-            "hegseth",
-            "mujeres",
-            "expulsando",
-            "calificadas"
-        ],
-        "link": "https://www.meneame.net/story/politicas-hegseth-estan-expulsando-mujeres-calificadas-fuerzas",
-        "date": "2025-11-12 12:10:03",
-        "sentiment_score": -0.17929738759994507
-    },
-    {
         "title": "Nazareth Castellanos, neurocientífica: «El niño que come más comida procesada tiene más problemas sociales»",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2025/11/13/nazarrr_20251112142108-R4tSmZskHQCotcH893gDzOJ-1200x840@diario_abc.jpg",
         "tags": [
@@ -2094,23 +2033,6 @@ export default [
         "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/ayuntamiento-toledo-adjudica-segunda-fase-proyecto-recuperacion-20251112151946-nt.html",
         "date": "2025-11-12 14:19:47",
         "sentiment_score": -0.03755369782447815
-    },
-    {
-        "title": "Al «alcance del tacógrafo»: BonÀrea se hace fuerte en Aragón para conquistar el noreste español",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/12/dos_20251112130946-RwjvjDk43AcZU7BxhLJL9yI-1200x840@diario_abc.JPG",
-        "tags": [
-            "alcance",
-            "conquistar",
-            "bonarea",
-            "tacografo",
-            "fuerte",
-            "aragon",
-            "espanol",
-            "noreste"
-        ],
-        "link": "https://www.abc.es/economia/alcance-tacografo-bonarea-fuerte-aragon-conquistar-noreste-20251112132028-nt.html",
-        "date": "2025-11-12 12:20:30",
-        "sentiment_score": -0.03242143988609314
     },
     {
         "title": "Indicios, sospechas y coartadas en la jornada final del juicio contra el fiscal general",
@@ -8667,5 +8589,398 @@ export default [
         "link": "https://2001online.com/servicios/patria-pagara-estas-bonificaciones-especiales-del-17-al-22-de-noviembre-montos-claves-y-quienes-las-cobran--2025111515250",
         "date": "2025-11-15 19:25:00",
         "sentiment_score": 0.2738293521106243
+    },
+    {
+        "title": "Vigo celebra el encendido navideño “de todo el planeta” con 12 millones de luces LED",
+        "image_url": "https://www.infobae.com/resizer/v2/V2AEH5MKMNCARO6OLE3HKBIHD4.jpg?auth=7e5dc338aef46ddd666eb9898a8d4b566ac55808a410a429f41d364f03ee6a93&height=1280&smart=true&width=1920",
+        "tags": [
+            "hostelería",
+            "galicia",
+            "españa-sociedad",
+            "españa-noticias",
+            "abel caballero",
+            "vigo",
+            "árbol de navidad",
+            "navidad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/15/vigo-celebra-el-encendido-navideno-de-todo-el-planeta-con-12-millones-de-luces-led/",
+        "date": "2025-11-15 22:27:06",
+        "sentiment_score": 0.4525511637330055
+    },
+    {
+        "title": "Los hijos de Núremberg como Niklas Frank: «No me extrañaría que en los próximos años volvamos a tener un gobierno autoritario y criminal en Alemania»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/niklas-kdLB-RPeO5eSzu7TegKvApR7fV6N-1200x840@diario_abc.jpg",
+        "tags": [
+            "polonia",
+            "leonardo da vinci",
+            "jueces",
+            "hijos",
+            "muerte",
+            "pena de muerte",
+            "condenado",
+            "alemania",
+            "alternativa para alemania (afd)",
+            "holocausto",
+            "china",
+            "adolf hitler",
+            "rembrandt",
+            "juicios",
+            "varsovia",
+            "cracovia"
+        ],
+        "link": "https://www.abc.es/internacional/hijos-nuremberg-niklas-frank-extranaria-proximos-anos-20251116020338-nt.html",
+        "date": "2025-11-16 01:03:40",
+        "sentiment_score": -0.2246250957250595
+    },
+    {
+        "title": "El Pincho de Levante",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "levante",
+            "pincho"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/pincho-levante_0_2005243895.html",
+        "date": "2025-11-16 02:09:08",
+        "sentiment_score": -0.027325555682182312
+    },
+    {
+        "title": "\"Yo conocí a Franco\": recibió a Revilla como niño de la OJE, lloró ante el Padre Ángel y censuró al Dúo Dinámico",
+        "image_url": "https://s3.elespanol.com/2025/11/15/actualidad/1003744015677_259963340_1706x960.jpg",
+        "tags": [
+            "rtve (radiotelevisión española)",
+            "dolores ibárruri gómez",
+            "el pardo",
+            "miguel ángel revilla roiz",
+            "francisco franco",
+            "valle de los caídos",
+            "juan carlos i",
+            "política",
+            "guerra civil española"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251116/conoci-franco-recibio-revilla-nino-oje-lloro-padre-angel-censuro-duo-dinamico/1003744014676_0.html",
+        "date": "2025-11-16 02:07:10",
+        "sentiment_score": -0.1844547539949417
+    },
+    {
+        "title": "El Gobierno de lo público va a la privada: Sánchez y la mayoría de sus ministros recurren a la Educación y la Sanidad de pago",
+        "image_url": "https://s3.elespanol.com/2019/04/26/reportajes/393971263_259963781_1706x960.jpg",
+        "tags": [
+            "españa",
+            "gobierno de españa",
+            "psoe (partido socialista obrero español)",
+            "sanidad",
+            "políticos",
+            "educación",
+            "consejo de ministros"
+        ],
+        "link": "https://www.elespanol.com/espana/20251116/gobierno-publico-va-privada-sanchez-mayoria-ministros-recurren-educacion-sanidad-pago/1003744013969_0.html",
+        "date": "2025-11-16 02:07:06",
+        "sentiment_score": -0.8299268968403339
+    },
+    {
+        "title": "Ester Muñoz: \"Sánchez no puede explicar los sobres, lo del fiscal, lo de su mujer, dónde vivía su hermano... por eso ataca al PP\"",
+        "image_url": "https://s3.elespanol.com/2025/11/15/actualidad/1003744015608_259962524_1706x1280.jpg",
+        "tags": [
+            "pedro sánchez",
+            "partido popular (pp)",
+            "hablando sobre españa",
+            "fiscalía general del estado",
+            "alberto núñez feijóo",
+            "entrevistas",
+            "política",
+            "álvaro garcía ortiz"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251116/ester-munoz-sanchez-no-puede-explicar-sobres-fiscal-mujer-vivia-hermano-ataca-pp/1003744012750_0.html",
+        "date": "2025-11-16 02:07:06",
+        "sentiment_score": -0.8536718431860209
+    },
+    {
+        "title": "Jan Alessie (WFS): \"Un acuerdo global con Netflix o Apple ayudaría a parar la sangría de la piratería en el fútbol\"",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744014749_259951190_1706x960.jpg",
+        "tags": [
+            "plataformas digitales",
+            "tecnología",
+            "inteligencia artificial",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/tecnologia/20251116/jan-alessie-wfs-acuerdo-global-netflix-apple-ayudaria-parar-sangria-pirateria-futbol/1003743994499_0.html",
+        "date": "2025-11-16 01:28:40",
+        "sentiment_score": 0.6949902269989252
+    },
+    {
+        "title": "Luis de la Fuente vive un debate apasionante en su mediocampo, donde sobran talento y opciones",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/16/2025111601521927000.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/luis-fuente-vive-debate-apasionante-mediocampo-donde-sobran-talento-opciones/20251116015318363292.html",
+        "date": "2025-11-16 00:53:18",
+        "sentiment_score": -0.023437634110450745
+    },
+    {
+        "title": "Willy Bárcenas: \"Yo lo pasaba mal con lo que tenía en casa. La música conseguía que me olvidase y que lo supiese llevar\"",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744015070_259955917_1706x960.jpg",
+        "tags": [
+            "willy bárcenas",
+            "reportajes",
+            "entrevistas",
+            "grupos musicales",
+            "cantantes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251116/willy-barcenas-pasaba-mal-casa-musica-conseguia-olvidase-supiese-llevar/1003744013001_0.html",
+        "date": "2025-11-16 00:40:00",
+        "sentiment_score": -0.8229186255484819
+    },
+    {
+        "title": "El adulterio ya no es delito pero pegar a tu mujer, sí lo es: 50 cosas que han mejorado en España en 50 años sin Franco",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744014972_259954429_1706x960.jpg",
+        "tags": [
+            "sociología",
+            "matrimonio homosexual",
+            "francisco franco",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251116/adulterio-no-delito-pegar-mujer-cosas-mejorado-espana-anos-sin-franco/1003744011177_0.html",
+        "date": "2025-11-16 00:40:00",
+        "sentiment_score": -0.914015338756144
+    },
+    {
+        "title": "Ferran Torres iguala los goles de dos leyendas del Real Madrid con España",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/16/2025111601284556680.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/ferran-torres-iguala-registros-goleadores-espana-dos-leyendas-madrid/20251116013012363290.html",
+        "date": "2025-11-16 00:30:12",
+        "sentiment_score": 0.2711690664291382
+    },
+    {
+        "title": "La tolerancia en el Gobierno con la piratería mientras pide a la vez a los consumidores que la eviten en el 'Black Friday'",
+        "image_url": "https://phantom-elmundo.uecdn.es/80283fe1561e3ee4af600d95e3ffac69/crop/752x0/2795x2048/f/image/jpeg/assets/multimedia/imagenes/2023/11/25/17009128717476.jpg",
+        "tags": [
+            "la liga",
+            "yolanda díaz",
+            "actualidad económica opinión",
+            "artículos carlos segovia"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/11/16/6915d32be85ece6c318b45ae.html",
+        "date": "2025-11-16 00:11:31",
+        "sentiment_score": -0.48343317210674286
+    },
+    {
+        "title": "Así es vivir con TDAH, el trastorno que hace que Rosalía olvide sus letras: \"Es como si se desenchufara mi cabeza\"",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744014989_259954703_1706x960.jpg",
+        "tags": [
+            "ciencia",
+            "psiquiatría",
+            "psicología"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20251116/vivir-tdah-trastorno-hace-rosalia-olvide-letras-desenchufara-cabeza/1003744014904_0.html",
+        "date": "2025-11-16 02:07:10",
+        "sentiment_score": -0.8037219196557999
+    },
+    {
+        "title": "Un barrio de Vitoria lanza la 'frigoteka', una biblioteca portátil en el interior de una vieja nevera",
+        "image_url": "https://album.mediaset.es/eimg/2025/11/06/la-muralista-eva-mena-se-ha-encargado-de-transformar-en-ilustrar-con-un-atardecer-la-vieja-nevera_f8ab.jpg",
+        "tags": [
+            "euskadi"
+        ],
+        "link": "https://www.telecinco.es/noticias/euskadi/20251116/vitoria-frigoteka-biblioteca-portatil-barrio-goikolarra-lectura-libros-alava_18_017482254.html",
+        "date": "2025-11-16 02:00:24",
+        "sentiment_score": 0.10157791897654533
+    },
+    {
+        "title": "Dobber (AstraZeneca): \"Europa ha elevado su inversión en defensa y ahora debe también proteger su soberanía sanitaria\"",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744014582_259948841_1706x960.jpg",
+        "tags": [
+            "industria farmacéutica",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20251116/dobber-astrazeneca-europa-elevado-inversion-defensa-ahora-debe-proteger-soberania-sanitaria/1003744014566_0.html",
+        "date": "2025-11-16 01:28:46",
+        "sentiment_score": 0.11093808710575104
+    },
+    {
+        "title": "«Si en Madrid y Barcelona los perros van en metro, ¿por qué en Bilbao no?»",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/11/15/metroperro--758x531.jpg",
+        "tags": [
+            "mascotas",
+            "metro de bilbao"
+        ],
+        "link": "https://www.elcorreo.com/bizkaia/madrid-barcelona-perros-van-metro-bilbao-20251115015545-nt.html",
+        "date": "2025-11-16 01:27:32",
+        "sentiment_score": 0.46651649475097656
+    },
+    {
+        "title": "Corpoelec denunció que sabotaje provocó caída de tres torres de transmisión en Anzoátegui",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/11/Corpoelc.jpg",
+        "tags": [
+            "electricidad",
+            "sabotaje",
+            "15nov",
+            "anzoátegui",
+            "destacado",
+            "nacionales",
+            "corpoelec"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/11/15/corpoelec-sabotaje-anzoategui/",
+        "date": "2025-11-16 01:22:24",
+        "sentiment_score": -0.7995600998401642
+    },
+    {
+        "title": "Los 'curas rockeros' de Alcalá que escuchan 2 M de personas en Spotify con giras por todo el mundo: \"Nos tachan de herejes\"",
+        "image_url": "https://s3.elespanol.com/2025/11/14/madrid/1003744014502_259955062_1706x960.jpg",
+        "tags": [
+            "grupos musicales",
+            "alcalá de henares",
+            "ocio",
+            "iglesia católica"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20251116/curas-rockeros-alcala-escuchan-personas-spotify-giras-mundo-tachan-herejes/1003744014236_0.html",
+        "date": "2025-11-16 01:01:00",
+        "sentiment_score": -0.19801654666662216
+    },
+    {
+        "title": "Matisse 'and friends': una gran exposición muestra la influencia que tuvo el pintor en varias generaciones",
+        "image_url": "https://s3.elespanol.com/2025/11/07/actualidad/1003744005006_259821016_1706x960.jpg",
+        "tags": [
+            "fundación la caixa",
+            "caixaforum",
+            "pintura",
+            "arte",
+            "exposiciones"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20251116/matisse-and-friends-gran-exposicion-muestra-influencia-pintor-varias-generaciones/1003744004920_0.html",
+        "date": "2025-11-16 01:00:00",
+        "sentiment_score": 0.5301073864102364
+    },
+    {
+        "title": "Stefano Mancuso, neurobiólogo: \"Las plantas son más inteligentes que los animales, incluidos los humanos\"",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744014476_259947155_1706x960.jpg",
+        "tags": [
+            "ecovidrio",
+            "objetivo 3: salud y bienestar",
+            "referentes"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/referentes/20251116/stefano-mancuso-neurobiologo-plantas-inteligentes-animales-incluidos-humanos/1003744014437_0.html",
+        "date": "2025-11-16 00:45:00",
+        "sentiment_score": 0.5582931227982044
+    },
+    {
+        "title": "Rosa Lluch: «A mi padre le denegaron la escolta la víspera de que lo mataran»",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/11/14/viejo_bilbao_1200x1200_traz--562x562.jpg",
+        "tags": [
+            "eta",
+            "país vasco"
+        ],
+        "link": "https://www.elcorreo.com/politica/rosa-lluch-padre-denegaron-escolta-vispera-mataran-20251114012819-nt.html",
+        "date": "2025-11-16 00:28:20",
+        "sentiment_score": 0.3481762111186981
+    },
+    {
+        "title": "¡Adiós a un ícono! Fallece vocalista y fundador de la banda Los 007, Jorge Chapellín",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/comunidad/adios-a-un-icono-fallece-vocalista-y-fundador-de-la-banda-los-007-jorge-chapellin-202511152240",
+        "date": "2025-11-16 02:04:00",
+        "sentiment_score": -0.8131630085408688
+    },
+    {
+        "title": "Cuidados caseros para tus labios: dermatólogo Simon Scarano revela sus recomendaciones",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1762974325944/Captura%20de%20pantalla%202025-11-12%20a%20la(s)%203.04.57%20p.%20m..png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/cuidados-caseros-para-tus-labios-dermatologo-simon-scarano-revela-sus-recomendaciones-202511152200",
+        "date": "2025-11-16 02:00:00",
+        "sentiment_score": 0.26441528648138046
+    },
+    {
+        "title": "¿A crédito o al contado? Expertos dicen cuál es el mejor método para las compras navideñas en EEUU",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/a-credito-o-al-contado-expertos-dicen-cual-es-el-mejor-metodo-para-las-compras-navidenas-en-eeuu-202511152200",
+        "date": "2025-11-16 02:00:00",
+        "sentiment_score": 0.10995352268218994
+    },
+    {
+        "title": "Alisa el cabello sin productos químicos: esta mascarilla natural evita el encrespamiento desde la raíz hasta las puntas",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/alisa-el-cabello-sin-productos-quimicos-esta-mascarilla-natural-evita-el-encrespamiento-desde-la-raiz-hasta-las-puntas-2025111521550",
+        "date": "2025-11-16 01:55:00",
+        "sentiment_score": -0.8419826179742813
+    },
+    {
+        "title": "Hidrata la piel y olvídate de las arrugas para siempre con esta mascarilla natural a base de aloe vera: así debes aplicarla",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/hidrata-la-piel-y-olvidate-de-las-arrugas-para-siempre-con-esta-mascarilla-natural-a-base-de-aloe-vera-asi-debes-aplicarla-2025111521300",
+        "date": "2025-11-16 01:30:00",
+        "sentiment_score": -0.8139056004583836
+    },
+    {
+        "title": "¿Tienes gripe? La infusión de esta planta medicinal descongestiona todo el sistema respiratorio",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/tienes-gripe-la-infusion-de-esta-planta-medicinal-descongestiona-todo-el-sistema-respiratorio-2025111521150",
+        "date": "2025-11-16 01:15:00",
+        "sentiment_score": -0.780952038243413
+    },
+    {
+        "title": "Alcaraz vs. Sinner en la final de ATP Finals: historial de enfrentamientos",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763257286257/WELL-RIVALRIES1-articleLarge.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/deportes/alcaraz-vs-sinner-en-la-final-de-atp-finals-historial-de-enfrentamientos--202511152200",
+        "date": "2025-11-16 01:05:04",
+        "sentiment_score": -0.5063348896801472
+    },
+    {
+        "title": "Maduro: Trinidad y Tobago realiza ejercicios irresponsables frente a las costas de Sucre",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/nacionales/maduro-trinidad-y-tobago-realiza-ejercicios-irresponsables-frente-a-las-costas-de-sucre-202511152030",
+        "date": "2025-11-16 00:03:00",
+        "sentiment_score": 0.04718628525733948
+    },
+    {
+        "title": "¿Diversión para el Día de Acción de Gracias? El tradicional show en Chicago que convierte las \"sobras\" en oro",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/servicios/diversion-para-el-dia-de-accion-de-gracias-el-tradicional-show-en-chicago-que-convierte-las-sobras-en-oro-202511152000",
+        "date": "2025-11-16 00:00:00",
+        "sentiment_score": 0.7564269509166479
+    },
+    {
+        "title": "\"Soy capaz de matarte\": Video captura el asalto a mano armada de una mujer en un restaurante de Miami",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763249478080/imagen_2025-11-15_193056111.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://2001online.com/usa/robo/soy-capaz-de-matarte-video-captura-el-asalto-a-mano-armada-de-una-mujer-en-un-restaurante-de-miami-2025111519460",
+        "date": "2025-11-15 23:59:00",
+        "sentiment_score": -0.8815941652283072
     }
 ];
