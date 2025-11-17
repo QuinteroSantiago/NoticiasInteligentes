@@ -160,57 +160,6 @@ export default [
         "sentiment_score": -0.024013638496398926
     },
     {
-        "title": "Cuelgamuros",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/opinion/2025/11/13/cartas-director-1200x630(4)-U61647010523ZSj-1200x630@diario_abc.jpg",
-        "tags": [
-            "ayuntamiento de madrid",
-            "ley de memoria histórica",
-            "voluntad",
-            "gobiernos"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-cuelgamuros-20251113140101-nt.html",
-        "date": "2025-11-13 13:01:01",
-        "sentiment_score": -0.08676108717918396
-    },
-    {
-        "title": "El Gobierno de Alemania fija el mecanismo para pasar de una mili voluntaria a una obligatoria",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/d1/media_thumb-link-4116759.webp?1762963746=",
-        "tags": [
-            "mecanismo",
-            "alemania",
-            "tecnología",
-            "mili",
-            "gobierno"
-        ],
-        "link": "https://www.meneame.net/story/gobierno-alemania-fija-mecanismo-pasar-mili-voluntaria",
-        "date": "2025-11-13 13:00:03",
-        "sentiment_score": -0.1817971020936966
-    },
-    {
-        "title": "El presidente del Parlamento desaloja una manifestación en el pleno: «Es impresentable»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/11/13/desalojo-parla-andalucia-R3AyCfnouJFtDNSm9qKOION-1200x840@diario_abc.jpg",
-        "tags": [
-            "parlamento",
-            "partido socialista obrero español (psoe)",
-            "andalucía"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/presidente-parlamento-desaloja-manifestacion-pleno-impresentable-20251113125740-nts.html",
-        "date": "2025-11-13 11:57:52",
-        "sentiment_score": -0.1523280143737793
-    },
-    {
-        "title": "Moisés Santos «Nuestro objetivo es ampliar líneas de negocio para seguir mejorando la experiencia de nuestros clientes»",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/economia/2025/11/13/Moisesdiscesur-RbWyNBEAWgMfow7NtrtfOeP-1200x840@diario_abc.jpg",
-        "tags": [
-            "empresas",
-            "decoración",
-            "diseño"
-        ],
-        "link": "https://www.abc.es/economia/inmobiliario/moises-santos-objetivo-ampliar-lineas-negocio-seguir-20251113113743-nt.html",
-        "date": "2025-11-13 11:04:17",
-        "sentiment_score": -0.0177173912525177
-    },
-    {
         "title": "El PP rechaza la comisión de los cribados: “Siembran dudas por rentabilidad electoral”",
         "image_url": "https://imagenes.elpais.com/resizer/v2/4H23O6HRZJJMLBAAWXA5OX56NI.jpg?auth=ee111eabffbe77029b6ece935b5cf0040116eb8770dcaf1e94723f88091b6bb7&width=1200",
         "tags": [
@@ -304,101 +253,6 @@ export default [
         "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-13/diana-morant-el-gobierno-que-lleva-229-muertos-a-la-espalda-es-el-valenciano-dirigido-por-el-pp-y-sostenido-por-vox.html",
         "date": "2025-11-13 15:05:51",
         "sentiment_score": -0.8374982364475727
-    },
-    {
-        "title": "Medidas especiales de Tráfico por el gran premio de motociclismo de Cheste",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DYIGT2CYEBKKJNRE7T2YT77R7M.jpg?auth=efdeca141725c2c59e049613c5da83240058357183695d0011e259b4291b685a&width=1200",
-        "tags": [
-            "circuitos velocidad",
-            "accidentes tráfico",
-            "dgt",
-            "restricciones circulación",
-            "cheste",
-            "españa",
-            "motociclismo",
-            "controles alcoholemia",
-            "guardia civil"
-        ],
-        "link": "https://elpais.com/espana/2025-11-13/medidas-especiales-de-trafico-por-el-gran-premio-de-motociclismo-de-cheste.html",
-        "date": "2025-11-13 13:59:11",
-        "sentiment_score": 0.19804491102695465
-    },
-    {
-        "title": "La Audiencia de Madrid frustra el último intento del juez Peinado de pedir a la UCO que investigue el rescate de Air Europa",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FIWZJ2UEDFHNLLRYJDGJNFJ5MA.jpg?auth=b7c9a56b8fb8205100bc4ea3b32390cdcb548448b99806613a48d7a343ead7a1&width=1200",
-        "tags": [
-            "tribunales",
-            "air europa",
-            "begoña gómez fernández",
-            "españa",
-            "guardia civil",
-            "juan carlos peinado"
-        ],
-        "link": "https://elpais.com/espana/2025-11-13/la-audiencia-de-madrid-frustra-el-ultimo-intento-del-juez-peinado-de-pedir-a-la-uco-que-investigue-el-rescate-de-air-europa.html",
-        "date": "2025-11-13 13:49:37",
-        "sentiment_score": -0.808570921421051
-    },
-    {
-        "title": "Puigdemont, sobre el informe de la amnistía: “La última palabra la tienen unos jueces que se sintieron llamados a salvar la patria”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RAWNLZR6RFDVJJOCTAFXDX374I.jpg?auth=90cb1eb849af569e757627840d0909ae675434a460f0170281f7f1a8b4dec32c&width=1200",
-        "tags": [
-            "ley de amnistía",
-            "tribunal supremo",
-            "justicia",
-            "cataluña",
-            "oriol junqueras",
-            "procés independentista catalán",
-            "carles puigdemont",
-            "tribunal constitucional",
-            "tribunal justicia unión europea"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-13/puigdemont-sobre-el-informe-de-la-amnistia-la-ultima-palabra-la-tienen-unos-jueces-que-se-sintieron-llamados-a-salvar-la-patria.html",
-        "date": "2025-11-13 13:00:56",
-        "sentiment_score": -0.11390426754951477
-    },
-    {
-        "title": "El PP hurgará sobre la financiación de las primarias de Sánchez en el Senado y llama a declarar a su extesorero",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EN3CFTFWTNNVNOP6X2APUWXOWE.jpg?auth=f23472ed7ec3c984f94347859bfd8f60fe6f7860a6f124fdd8d6e671006cfa25&width=1200",
-        "tags": [
-            "begoña gómez fernández",
-            "gobierno de españa",
-            "pp",
-            "justicia",
-            "senado",
-            "pedro sánchez",
-            "comisiones investigación",
-            "josé luis ábalos",
-            "españa",
-            "caso koldo",
-            "corrupción",
-            "juan carlos peinado"
-        ],
-        "link": "https://elpais.com/espana/2025-11-13/el-pp-hurgara-sobre-la-financiacion-de-las-primarias-de-sanchez-en-el-senado-y-llama-a-declarar-a-su-extesorero.html",
-        "date": "2025-11-13 12:55:31",
-        "sentiment_score": 0.1689881831407547
-    },
-    {
-        "title": "Detenido el guarda de un coto de caza por abatir con un rifle a un águila imperial ibérica en Toledo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IEQQYNAHP5AEJG7OKLL3RJWG6Y.jpeg?auth=0f2f04b5e6529c4226dadc21789075ac20ee8f9d6be24f3e685cf1ee334b8517&width=1200",
-        "tags": [
-            "aves",
-            "sierra morena",
-            "aves rapaces",
-            "parques eólicos",
-            "red natura",
-            "seprona",
-            "castilla-la mancha",
-            "toledo",
-            "especies protegidas",
-            "fauna",
-            "españa",
-            "animales salvajes",
-            "caza furtiva",
-            "guardia civil"
-        ],
-        "link": "https://elpais.com/espana/2025-11-13/detenido-el-guarda-de-un-coto-de-caza-por-abatir-con-un-rifle-a-un-aguila-imperial-iberica-en-toledo.html",
-        "date": "2025-11-13 12:54:56",
-        "sentiment_score": -0.873551094904542
     },
     {
         "title": "Fundación Randstad y Fundación Gestamp se unen para formar a 25 personas con discapacidad en el sector industrial",
@@ -8289,5 +8143,794 @@ export default [
         "link": "https://2001online.com/deportes/jannik-sinner-vence-a-carlos-alcaraz-en-turin-como-quedo-el-ranking-atp-2025--2025111617450",
         "date": "2025-11-16 21:06:00",
         "sentiment_score": 0.7452524863183498
+    },
+    {
+        "title": "Ecuador abre una investigación contra el líder de la banda criminal Los Lobos, detenido el domingo en Málaga por fraude procesal",
+        "image_url": "https://www.infobae.com/resizer/v2/SF6QVYXFLVBGPMLXH2QTDXLFBM.jpg?auth=582e8fdb30a5d1db4955297633785c05f425fb841d5f7a13fce0b451f90ee2b2&height=516&smart=true&width=1152",
+        "tags": [
+            "españa-sociedad",
+            "los lobos",
+            "américa latina",
+            "andalucía",
+            "policía españa",
+            "narcotráfico",
+            "españa-noticias",
+            "ecuador"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/17/ecuador-abre-una-investigacion-contra-el-lider-de-la-banda-criminal-los-lobos-detenido-el-domingo-en-malaga-por-fraude-procesal/",
+        "date": "2025-11-17 02:06:56",
+        "sentiment_score": -0.9001255463808775
+    },
+    {
+        "title": "La Fiscalía de Ecuador abre investigación contra alias 'Pipo', detenido en España, por fraude procesal",
+        "image_url": "https://www.infobae.com/resizer/v2/3FCVUA35PNH3LIXQN4WJEOR5OY.jpg?auth=fcbfd915d0c5838082e6aa15e1264196daca7a32173c3b12902af6f85603a250&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/17/la-fiscalia-de-ecuador-abre-investigacion-contra-alias-pipo-detenido-en-espana-por-fraude-procesal/",
+        "date": "2025-11-17 01:15:16",
+        "sentiment_score": -0.7295932546257973
+    },
+    {
+        "title": "Salvamento Marítimo rescata 302 migrantes a la deriva en las costas canarias, entre los que se encuentran menores de edad",
+        "image_url": "https://www.infobae.com/resizer/v2/XWWOCEVBDFAQRIBNDD4KD5SDBE.jpg?auth=a12ba30f8dcb078f374ce99011344f844c09d6d23d721b146f28e2535049a9d0&height=1080&smart=true&width=1920",
+        "tags": [
+            "canarias",
+            "inmigración españa",
+            "migrantes",
+            "españa-noticias",
+            "españa-sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/17/salvamento-maritimo-rescata-302-migrantes-a-la-deriva-en-las-costas-canarias-entre-los-que-se-encuentran-menores-de-edad/",
+        "date": "2025-11-17 01:00:27",
+        "sentiment_score": -0.6952180024236441
+    },
+    {
+        "title": "Ranking de Netflix en España: estas son las películas preferidas del momento",
+        "image_url": "https://www.infobae.com/resizer/v2/CJHFG3WR6ZGTFHARMQACUWQ66I.png?auth=9e94a91e872655b237ce88c8a8727147f9591bbe63b5905a684f42748a140fcd&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "netflix",
+            "streaming",
+            "películas",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/17/ranking-de-netflix-en-espana-estas-son-las-peliculas-preferidas-del-momento/",
+        "date": "2025-11-17 00:31:49",
+        "sentiment_score": -0.12406209111213684
+    },
+    {
+        "title": "La película más vista en Prime Video España HOY",
+        "image_url": "https://www.infobae.com/resizer/v2/5EUVCCYZPBHFPLRKDQWBFDWQGM.png?auth=86002674a1c19dd658c084377d5c82973d1b54c3cbe647f123949fda6e3d4af5&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "streaming",
+            "prime video",
+            "películas",
+            "españa-televisión"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/11/17/la-pelicula-mas-vista-en-prime-video-espana-hoy/",
+        "date": "2025-11-17 00:31:30",
+        "sentiment_score": 0.8346549961715937
+    },
+    {
+        "title": "El precio de la luz en España para este lunes",
+        "image_url": "https://www.infobae.com/resizer/v2/RECYMYF3WZBW3LC36EM3D5343Y.jpg?auth=2b38f54b3da346aa2986dfb14d2fd7f94b38ee0d1636813dac8232c5f918383a&height=816&smart=true&width=1456",
+        "tags": [
+            "precio de la luz españa",
+            "factura luz españa",
+            "electricidad",
+            "españa-economía",
+            "noticias",
+            "españa-noticias",
+            "precio de la luz"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/17/el-precio-de-la-luz-en-espana-para-este-lunes/",
+        "date": "2025-11-17 00:18:06",
+        "sentiment_score": 0.22853732109069824
+    },
+    {
+        "title": "PNV cree que Pedro Sánchez \"pasa olímpicamente\" de los partidos que apoyaron la investidura y \"se aprovecha de Vox\"",
+        "image_url": "https://www.infobae.com/resizer/v2/GMI7JZKZIBCJ7NNS6QNJ7NCNMM.jpg?auth=a175cfbad4fcf28f989a20dc03901c83df4ee3112da55ee8f0908c2bccacf0a7&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/17/pnv-cree-que-pedro-sanchez-pasa-olimpicamente-de-los-partidos-que-apoyaron-la-investidura-y-se-aprovecha-de-vox/",
+        "date": "2025-11-17 00:15:16",
+        "sentiment_score": -0.650668554008007
+    },
+    {
+        "title": "Puigdemont pide al Tribunal Constitucional suspender las órdenes de detención tras el aval europeo",
+        "image_url": "https://www.infobae.com/resizer/v2/TO5P3EZQWFFTTDH3UW4NBSVJNI.JPG?auth=9f04791d26d0b827d4c46f6050b97bbf85ed1c7d74b6be8642478e661949bde1&height=2226&smart=true&width=3339",
+        "tags": [
+            "carles puigdemont",
+            "tribunal constituicional",
+            "derecho comunitario",
+            "españa-noticias",
+            "cataluña",
+            "procés",
+            "españa-nacional",
+            "españa",
+            "tribunal de justicia de la unión europea",
+            "ley de amnistía",
+            "dean spielman"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/16/puigdemont-pide-al-tribunal-constitucional-suspender-las-ordenes-de-detencion-tras-el-aval-europeo/",
+        "date": "2025-11-16 23:38:03",
+        "sentiment_score": 0.21638123691082
+    },
+    {
+        "title": "Capturaron en España a alias Pipo Chavarría, presunto líder de Los Lobos, tenía pasaporte colombiano",
+        "image_url": "https://www.infobae.com/resizer/v2/TT5Q5OW5BRBVDPGOUMT4TNWU3Q.png?auth=d49fb811445c6eeebf2ed6f47d00bd0f9d7b434a0bd23cca8ba0d21b78a0c0dd&height=720&smart=true&width=1280",
+        "tags": [
+            "narcotráfico",
+            "españa",
+            "wilmer chavarría barré",
+            "colombia-noticias",
+            "ecuador",
+            "alias pipo chavarría",
+            "los lobos"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/11/16/capturaron-en-espana-a-alias-pipo-chavarria-presunto-lider-de-los-lobos-tenia-pasaporte-colombiano/",
+        "date": "2025-11-16 22:06:00",
+        "sentiment_score": -0.8747799666598439
+    },
+    {
+        "title": "Comprueba los números ganadores del Quíntuple Plus del 16 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZT3SFR67INBWZDTF2TMQOAS4WM.png?auth=819000da0f7c06412e0c854663e66d9a63bf00d14b526f119579b1cdd5a5a86b&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterias",
+            "quíntuple plus",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/16/comprueba-los-numeros-ganadores-del-quintuple-plus-del-16-de-noviembre/",
+        "date": "2025-11-16 22:00:51",
+        "sentiment_score": 0.4253244660794735
+    },
+    {
+        "title": "Tres muertos en un ataque de EE.UU. contra una lancha de supuestos traficantes de droga en el Pacífico",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/1502850099-kezC-U7019701943574ZG-1200x840@diario_abc.jpg",
+        "tags": [
+            "tres",
+            "lancha",
+            "eeuu",
+            "supuestos",
+            "ataque",
+            "muertos",
+            "droga",
+            "traficantes",
+            "pacifico"
+        ],
+        "link": "https://www.abc.es/internacional/tres-muertos-ataque-eeuu-lancha-supuestos-traficantes-20251116225850-nt.html",
+        "date": "2025-11-16 21:58:51",
+        "sentiment_score": -0.2370634377002716
+    },
+    {
+        "title": "Un carro de combate israelí dispara contra 'cascos azules' de la FINUL en el sur de Líbano",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/1503088824-kH0B-U701967657698LzF-1200x840@diario_abc.jpg",
+        "tags": [
+            "finul",
+            "carro",
+            "azules",
+            "cascos",
+            "dispara",
+            "israeli",
+            "combate",
+            "libano",
+            "sur"
+        ],
+        "link": "https://www.abc.es/internacional/carro-combate-israeli-dispara-cascos-azules-finul-20251116215834-nt.html",
+        "date": "2025-11-16 20:58:35",
+        "sentiment_score": -0.12660589814186096
+    },
+    {
+        "title": "Rueda promete que en 2026 estarán en marcha 4.000 viviendas públicas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/16/251115_Pte_Retiro_DCS_08-RmLVf8dcypxVbfjoeUrde7O-1200x840@diario_abc.jpg",
+        "tags": [
+            "xunta de galicia",
+            "vivienda",
+            "alfonso rueda",
+            "viviendas sociales",
+            "política"
+        ],
+        "link": "https://www.abc.es/espana/galicia/rueda-promete-2026-marcha-4000-viviendas-publicas-20251116185151-nt.html",
+        "date": "2025-11-16 17:51:51",
+        "sentiment_score": 0.027377396821975708
+    },
+    {
+        "title": "Detienen en España al líder de Los Lobos, la mayor banda de narcotráfico de Ecuador",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/pipo-RfAwc1oC3Q65GMYtuwO78yH-1200x840@diario_abc.jpg",
+        "tags": [
+            "espana",
+            "mayor",
+            "narcotrafico",
+            "lider",
+            "banda",
+            "ecuador",
+            "lobos",
+            "detienen"
+        ],
+        "link": "https://www.abc.es/internacional/detienen-espana-lider-lobos-mayor-banda-narcotrafico-20251116182950-nt.html",
+        "date": "2025-11-16 17:29:51",
+        "sentiment_score": -0.12422621250152588
+    },
+    {
+        "title": "Las autonomías del PP acusan a Montero de falsear la votación del último consejo fiscal y piden que se rectifique el acta",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/16/1503011975-RXqE12iwXkzIWFQUUt8bvRP-1200x840@diario_abc.jpg",
+        "tags": [
+            "pp",
+            "ultimo",
+            "acusan",
+            "votacion",
+            "montero",
+            "fiscal",
+            "consejo",
+            "autonomias",
+            "piden",
+            "rectifique",
+            "falsear"
+        ],
+        "link": "https://www.abc.es/economia/autonomias-pp-acusan-montero-falsear-votacion-ultimo-20251116181345-nt.html",
+        "date": "2025-11-16 17:29:37",
+        "sentiment_score": -0.0874980092048645
+    },
+    {
+        "title": "La llave que abrió el flamenco",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/16/fosorito-concierto-cordoba-kAhF-U701945078951tKE-1200x840@diario_abc.jpg",
+        "tags": [
+            "córdoba",
+            "andalucía",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/andalucia/cordoba/francisco-poyato-llave-abrio-flamenco-20251116091147-nts.html",
+        "date": "2025-11-16 08:11:47",
+        "sentiment_score": 0.027053743600845337
+    },
+    {
+        "title": "«Trump no va a invadir Venezuela, pero desarmará al narco y a Maduro»",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/carrasquero-RsUb64vfhb7b9PUfYzHAtIN-1200x840@diario_abc.jpg",
+        "tags": [
+            "maría corina machado",
+            "caracas",
+            "donald trump",
+            "caribe",
+            "nicolás maduro",
+            "estados unidos",
+            "venezuela"
+        ],
+        "link": "https://www.abc.es/internacional/operacion-lanza-sur-invadir-venezuela-desarmara-narco-20251116173955-nt.html",
+        "date": "2025-11-16 03:21:17",
+        "sentiment_score": -0.1213560402393341
+    },
+    {
+        "title": "Chile elige presidente entre la derecha radical y el comunismo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/newspaint-1763241692843-1200x840-k7jF-U72747534760qLW-1200x840@diario_abc.jpg",
+        "tags": [
+            "santiago de chile",
+            "chile"
+        ],
+        "link": "https://www.abc.es/internacional/chile-elige-presidente-derecha-radical-comunismo-20251116041906-nt.html",
+        "date": "2025-11-16 03:20:12",
+        "sentiment_score": -0.08349999785423279
+    },
+    {
+        "title": "Los hijos de Núremberg como Niklas Frank: «No me extrañaría que en los próximos años volvamos a tener un gobierno autoritario y criminal en Alemania»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/niklas-kdLB-RPeO5eSzu7TegKvApR7fV6N-1200x840@diario_abc.jpg",
+        "tags": [
+            "polonia",
+            "leonardo da vinci",
+            "jueces",
+            "hijos",
+            "muerte",
+            "pena de muerte",
+            "condenado",
+            "alemania",
+            "alternativa para alemania (afd)",
+            "holocausto",
+            "china",
+            "adolf hitler",
+            "rembrandt",
+            "juicios",
+            "varsovia",
+            "cracovia"
+        ],
+        "link": "https://www.abc.es/internacional/hijos-nuremberg-niklas-frank-extranaria-proximos-anos-20251116020338-nt.html",
+        "date": "2025-11-16 01:03:40",
+        "sentiment_score": -0.22462472319602966
+    },
+    {
+        "title": "La protesta de la 'Generación Z' en Ciudad de México termina con disturbios en el Zócalo",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/11/15/1503056408-kk2G-U7019460341032OI-1200x840@diario_abc.JPG",
+        "tags": [
+            "violencia",
+            "claudia sheinbaum",
+            "ciudad de mexico",
+            "disturbios",
+            "almería (provincia)",
+            "uh abc"
+        ],
+        "link": "https://www.abc.es/internacional/protesta-generacion-ciudad-mexico-termina-disturbios-zocalo-20251115221918-nt.html",
+        "date": "2025-11-15 21:19:18",
+        "sentiment_score": -0.13963346183300018
+    },
+    {
+        "title": "El juez Peinado toma declaración a la alto cargo de La Moncloa imputada en el ‘caso Begoña Gómez’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/IFUCTGZD6JATBBEDEHWOFLKBFY.JPG?auth=7d350c2eaba0ec3d26c94136eac6778d987a1be91bdaa60695cf728b8340e1b3&width=1200",
+        "tags": [
+            "juzgados",
+            "ucm",
+            "españa",
+            "ie universidad",
+            "félix bolaños garcía",
+            "malversación fondos",
+            "google",
+            "justicia",
+            "juan carlos peinado",
+            "pedro sánchez",
+            "begoña gómez fernández"
+        ],
+        "link": "https://elpais.com/espana/2025-11-16/el-juez-peinado-toma-declaracion-a-la-alto-cargo-de-la-moncloa-imputada-en-el-caso-begona-gomez.html",
+        "date": "2025-11-16 17:04:57",
+        "sentiment_score": -0.19327647238969803
+    },
+    {
+        "title": "La música catalana llena el imponente auditorio de Hamburgo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/EGGMZ334NJBBHBOHXCE5LKRFJQ.jpg?auth=d9c854081e1939faf715aacd9435ff43c1e049f5593357643577fdea1c09da2c&width=1200",
+        "tags": [
+            "música clásica",
+            "obc",
+            "cataluña",
+            "palau música",
+            "música",
+            "orquestas",
+            "hamburgo"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-16/la-musica-catalana-llena-el-imponente-auditorio-de-hamburgo.html",
+        "date": "2025-11-16 15:20:35",
+        "sentiment_score": -0.8567695934325457
+    },
+    {
+        "title": "Ayuso insiste en su rebeldía frente a Sánchez y no creará el registro de objetores al aborto",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/XIZI3ASOPZMAJHRCYRA4EPE45U.jpg?auth=813c9608d1c628b4a48152e2b9cee9e5133b817b5cbfb958df8c883d0c4827a3&width=1200",
+        "tags": [
+            "aborto",
+            "hospitales",
+            "oposición política",
+            "demandas",
+            "objeción conciencia",
+            "madrid",
+            "comunidad de madrid",
+            "médicos",
+            "tribunales",
+            "pedro sánchez",
+            "isabel díaz ayuso"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-11-16/ayuso-insiste-en-su-rebeldia-frente-a-sanchez-y-no-creara-el-registro-de-objetores-al-aborto.html",
+        "date": "2025-11-16 13:51:00",
+        "sentiment_score": -0.7636191733181477
+    },
+    {
+        "title": "Feijóo apela a concentrar el voto en el PP en las elecciones extremeñas frente a la “pinza” de Vox y PSOE",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CCACMJO7OVOB5LLGXSX2JHTE5M.jpg?auth=788a4bbed8ef4b4ddd1cb0f177a09ebe7f9256ede971aec6a1e792c6fb6218b9&width=1200",
+        "tags": [
+            "extremadura",
+            "psoe",
+            "pp",
+            "españa",
+            "maría guardiola martín",
+            "elecciones extremeñas",
+            "miguel ángel gallardo",
+            "alberto núñez feijóo",
+            "elecciones autonómicas",
+            "pedro sánchez"
+        ],
+        "link": "https://elpais.com/espana/2025-11-16/feijoo-apela-a-concentrar-el-voto-en-el-pp-en-las-elecciones-extremenas-frente-a-la-pinza-de-vox-y-psoe.html",
+        "date": "2025-11-16 13:19:42",
+        "sentiment_score": 0.20965518057346344
+    },
+    {
+        "title": "Jordi Pujol, ingresado en un hospital de Barcelona por una neumonía",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/7I363OOWANESRF4JZ2YJE47IZ4.jpg?auth=280a1f4d6a88f012aa591b62c8e652ec19dc4aaf0c5396598e6fd2b840cbf204&width=1200",
+        "tags": [
+            "generalitat cataluña",
+            "barcelona",
+            "cataluña",
+            "jordi pujol"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-11-16/jordi-pujol-ingresado-en-un-hospital-de-barcelona-por-una-neumonia.html",
+        "date": "2025-11-16 09:28:22",
+        "sentiment_score": -0.5949901565909386
+    },
+    {
+        "title": "Dos fallecidos y tres heridos tras caer un coche por un barranco en Castellón",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ULKO2M3YFRCUXOSCCRPVTFI3OY.jpg?auth=8fbc2c9b587614d5aa3e34e8f5a2a2b48a40c1a93363a96b14bac63dcccf7968&width=1200",
+        "tags": [
+            "castellón",
+            "españa",
+            "accidentes tráfico",
+            "comunidad valenciana",
+            "sucesos"
+        ],
+        "link": "https://elpais.com/espana/2025-11-16/dos-fallecidos-y-tres-heridos-tras-caer-un-coche-por-un-barranco-en-castellon.html",
+        "date": "2025-11-16 09:01:15",
+        "sentiment_score": -0.6119551435112953
+    },
+    {
+        "title": "Adiós a Carlos ‘Fouché’ Mazón: una suerte de ‘ayusismo’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/WGHSEBTWBFD7POSA3H7JDOSYC4.JPG?auth=5e27d1016c4b01a317024175ee9f7863e99d4fd83b0e9579c2fc93fd381363f0&width=1200",
+        "tags": [
+            "dana",
+            "inundaciones dana octubre 2024",
+            "comunidad valenciana",
+            "generalitat valenciana",
+            "stefan zweig",
+            "carlos mazón"
+        ],
+        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-16/adios-a-carlos-fouche-mazon-una-suerte-de-ayusismo.html",
+        "date": "2025-11-16 05:41:35",
+        "sentiment_score": -0.4077935069799423
+    },
+    {
+        "title": "Los socios aprietan pero (aún) no ahogan",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/PLBXQGBR2VDLBCEOR3ISJE775E.jpg?auth=543fd7bd0d6ddc1cdac4c86a7e8badccf64669d9632ccee8c591ceb0036cfd01&width=1200",
+        "tags": [
+            "gobierno de españa",
+            "legislaturas políticas",
+            "pedro sánchez",
+            "psoe",
+            "españa",
+            "congreso diputados",
+            "juntsxcat"
+        ],
+        "link": "https://elpais.com/espana/2025-11-16/los-socios-aprietan-pero-aun-no-ahogan.html",
+        "date": "2025-11-16 04:30:01",
+        "sentiment_score": -0.040426403284072876
+    },
+    {
+        "title": "Caso fiscal general: anatomía de una deliberación",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZSKPODPK7VJEHGZ3YCWNA5UA6A.jpg?auth=b3747ed01c8ed6f7e7a92492da96e3c36fb02edba33f78514ea26d90bedbae02&width=1200",
+        "tags": [
+            "revelación secretos",
+            "álvaro garcía ortiz",
+            "juicios",
+            "uco",
+            "justicia",
+            "delitos",
+            "guardia civil",
+            "periodistas",
+            "fiscalía general estado",
+            "fiscalía",
+            "españa",
+            "fiscales",
+            "sentencias",
+            "periodismo",
+            "tribunal supremo"
+        ],
+        "link": "https://elpais.com/espana/2025-11-16/caso-fiscal-general-anatomia-de-una-deliberacion.html",
+        "date": "2025-11-16 04:30:01",
+        "sentiment_score": 0.6376189347356558
+    },
+    {
+        "title": "Los pasos que dimos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DJAODMT56FDETNOFURSEJDRLYQ.jpg?auth=f4438bfd503b11a118e3a21ad2da8589eb602a6a12dc8fa653e313c8e34cd60e&width=1200",
+        "tags": [
+            "el país",
+            "20-n",
+            "franquismo",
+            "transición española",
+            "1978",
+            "españa",
+            "francisco franco",
+            "constitución"
+        ],
+        "link": "https://elpais.com/espana/2025-11-16/los-pasos-que-dimos.html",
+        "date": "2025-11-16 04:30:01",
+        "sentiment_score": 0.004143863916397095
+    },
+    {
+        "title": "David Trueba: “El hombre siente que su pene es un tirano, alguien que les arrastra: estamos disociados totalmente”",
+        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744010508_259893772_1706x960.jpg",
+        "tags": [
+            "protagonistas",
+            "cine español",
+            "mujeres",
+            "amor",
+            "feminismo",
+            "cine",
+            "david trueba",
+            "machismo",
+            "sexo"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20251117/david-trueba-hombre-siente-pene-tirano-alguien-arrastra-disociados-totalmente/1003744010499_0.html",
+        "date": "2025-11-17 02:00:25",
+        "sentiment_score": -0.6129504963755608
+    },
+    {
+        "title": "En España aseguran que Zinadine Zidane regresa a los banquillos para dirigir a esta selección mundialista",
+        "image_url": "https://pxcdn.meridiano.net/112025/1763341049769.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/en-espana-aseguran-que-zinadine-zidane-regresa-a-los-banquillos-para-dirigir-a-este-grupo-2025111620570",
+        "date": "2025-11-17 00:57:00",
+        "sentiment_score": 0.32638803124427795
+    },
+    {
+        "title": "Henderson Park pone a la venta el hotel Aloft Gran Vía",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/de926f604d98bfb6cc95b89d2eecc6fa/crop/410x270/2002x1331/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/16/17633184382911.jpg",
+        "tags": [
+            "empresas>",
+            "inmobiliario y construcción>",
+            "artículos rebeca arroyo>",
+            "mercado inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/11/17/691a18efe5fdea113b8b45af.html",
+        "date": "2025-11-17 00:34:05",
+        "sentiment_score": 0.27487538382411003
+    },
+    {
+        "title": "Del 'pitch' al contrato: la vía rápida de L'Oréal, Iberia y BMW para escalar la innovación entre grandes compañías y startups",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744013858_259938823_1706x960.jpg",
+        "tags": [
+            "industria tecnológica",
+            "startup",
+            "tecnología",
+            "innovación",
+            "aceleradoras"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/aceleradoras/20251117/pitch-contrato-via-rapida-loreal-iberia-bmw-escalar-innovacion-grandes-companias-startups/1003744013599_0.html",
+        "date": "2025-11-17 00:34:00",
+        "sentiment_score": 0.3219030648469925
+    },
+    {
+        "title": "¿Cómo deberían presentarse las izquierdas a las elecciones generales?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/05/30/2024053016301540059.jpg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/como-deberian-presentarse-izquierdas-elecciones-generales/20251117010457363338.html",
+        "date": "2025-11-17 00:04:57",
+        "sentiment_score": -0.8911054134368896
+    },
+    {
+        "title": "Tuchel dice que Bellingham debe aceptar sus decisiones tras su reacción al ser sustituido",
+        "image_url": "https://dims.apnews.com/dims4/default/0c75d0d/2147483647/strip/true/crop/4821x3209+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Faa%2F4a%2Fd3f2e1ae11b6ff9ba99f9090c23f%2Fdb41593b734349888011d804ed1eefdb",
+        "tags": [
+            "tuchel inglaterra bellingham molestia",
+            "deportes",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/tuchel-inglaterra-bellingham-molestia-a66f66203dce02f24820f3579c6b72bd",
+        "date": "2025-11-16 23:55:40",
+        "sentiment_score": -0.47679634019732475
+    },
+    {
+        "title": "Tuchel dice que Bellingham debe aceptar sus decisiones tras su reacción al ser sustituido",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/TUCHEL_BELLINGHAM_37492.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/11/16/tuchel-dice-que-bellingham-debe-aceptar-sus-decisiones-tras-su-reaccin-al-ser-sustituido/",
+        "date": "2025-11-16 23:55:39",
+        "sentiment_score": -0.43011026829481125
+    },
+    {
+        "title": "Franco",
+        "image_url": "https://s1.ppllstatics.com/laverdad/www/multimedia/2025/11/10/coc%20(2)-kmc-U2401768513840qF-170x119@La%20Verdad.jpg",
+        "tags": [
+            "franco"
+        ],
+        "link": "https://www.elcomercio.es/opinion/juventino-montes-franco-20251117000532-nt.html",
+        "date": "2025-11-16 23:51:15",
+        "sentiment_score": -0.7311569452285767
+    },
+    {
+        "title": "El PP aprovecha su mayoría en el Senado para forzar un cambio en el Código Penal y que quien corte suministros a una casa okupa no incurra en un delito de coacciones",
+        "image_url": "https://phantom-elmundo.uecdn.es/4b0ab66c35091c52a9f988ef54ff6c02/crop/702x111/2640x2048/f/image/jpeg/assets/multimedia/imagenes/2024/12/15/17342882060591.jpg",
+        "tags": [
+            "artículos marcos iriarte"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/11/17/6916f49de9cf4ae43d8b4595.html",
+        "date": "2025-11-17 01:53:27",
+        "sentiment_score": -0.09825862944126129
+    },
+    {
+        "title": "El nuevo patrocinador polémico del Barça tras Congo y Uber: vinculado a un 'influencer' acusado de violación y tráfico de menores",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/17/culemania/palco/1003742707988_15409772_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "palco",
+            "paraíso fiscal",
+            "uber",
+            "áfrica"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251117/patrocinador-barca-congo-uber-vinculado-influencer-traficodemenores/1003742707978_0.html",
+        "date": "2025-11-17 01:33:00",
+        "sentiment_score": 0.32930412143468857
+    },
+    {
+        "title": "¿Existe hoy un franquismo sociológico?",
+        "image_url": "https://s1.staticld.com/2025/10/12/desfile-ejercito-120ctubre2025-57.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-11-17/jose-garcia-dominguez-existe-hoy-un-franquismo-sociologico-7320785/",
+        "date": "2025-11-17 01:01:06",
+        "sentiment_score": -0.7340279221534729
+    },
+    {
+        "title": "Paula Leyes, la madrileña que acabó en Harvard: \"Me dijeron que no tenía posibilidades; hice prácticas en Apple y me quedé\"",
+        "image_url": "https://s3.elespanol.com/2025/11/11/actualidad/1003744008418_259865538_1706x960.jpg",
+        "tags": [
+            "retiro (madrid)",
+            "universidad de harvard",
+            "tecnología",
+            "estados unidos",
+            "apple",
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251117/paula-leyes-madrilena-acabo-harvard-dijeron-no-posibilidades-hice-practicas-apple-quede/1003744008399_0.html",
+        "date": "2025-11-17 01:01:00",
+        "sentiment_score": -0.35003647953271866
+    },
+    {
+        "title": "2025, el año en que el anime conquistó el mundo",
+        "image_url": "https://s3.elespanol.com/2025/11/11/actualidad/1003744008596_259867782_1706x960.jpg",
+        "tags": [
+            "estrenos de cine",
+            "cine"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20251117/ano-anime-conquisto-mundo/1003744008297_0.html",
+        "date": "2025-11-17 01:00:00",
+        "sentiment_score": -0.4259629175066948
+    },
+    {
+        "title": "El triunfo de la 'trumfa': así fortalece la gastronomía local la singularidad en España",
+        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744011091_259901497_1706x960.jpg",
+        "tags": [
+            "gastronomía",
+            "chocolate",
+            "nutrición"
+        ],
+        "link": "https://www.elespanol.com/ciencia/nutricion/20251117/triunfo-trumfa-fortalece-gastronomia-local-singularidad-espana/1003744011089_0.html",
+        "date": "2025-11-17 00:39:00",
+        "sentiment_score": 0.7019888572394848
+    },
+    {
+        "title": "\"Reino Unido quiere una relación más abierta con la Unión Europea\"",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/e94a9b89b3533ef934c3e16b8520678b/crop/95x133/1886x1327/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/16/17633258889890.jpg",
+        "tags": [
+            "economía>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/11/17/691a34a0e5fdea0b548b45a5.html",
+        "date": "2025-11-17 00:34:07",
+        "sentiment_score": 0.4669092819094658
+    },
+    {
+        "title": "El convenio del Gobierno de Sánchez con Senegal reconoce la poligamia de manera expresa",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/11/senegal.jpg",
+        "tags": [
+            "españa",
+            "islamismo",
+            "pedro sánchez",
+            "senegal"
+        ],
+        "link": "https://gaceta.es/espana/el-convenio-del-gobierno-de-sanchez-con-senegal-reconoce-la-poligamia-de-manera-expresa-20251117-0100/",
+        "date": "2025-11-17 00:00:00",
+        "sentiment_score": -0.10746172070503235
+    },
+    {
+        "title": "El uso regular de esta fruta transformará tu melena: reconocida empresa cosmética lo recomienda",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763137065922.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/el-uso-regular-de-esta-fruta-transformara-tu-melena-reconocida-empresa-cosmetica-lo-recomienda-202511162200",
+        "date": "2025-11-17 02:00:00",
+        "sentiment_score": 0.4133434630930424
+    },
+    {
+        "title": "Predicciones de la semana del 17 al 23 de noviembre",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763125440924.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - astrología"
+        ],
+        "link": "https://2001online.com/zona3d/astrologia/predicciones-de-la-semana-del-17-al-23-de-noviembre-202511162200",
+        "date": "2025-11-17 02:00:00",
+        "sentiment_score": -0.05096251517534256
+    },
+    {
+        "title": "Luce el cabello radiante y sedoso con esta mascarilla hidratante a base de un aceite natural rico en vitaminas",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763342309468.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/luce-el-cabello-radiante-y-sedoso-con-esta-mascarilla-hidratante-a-base-de-un-aceite-natural-rico-en-vitaminas-2025111621550",
+        "date": "2025-11-17 01:55:00",
+        "sentiment_score": -0.8390898387879133
+    },
+    {
+        "title": "Cutis graso: sistema de salud vietnamita explica cómo cuidarlo con elementos tradicionales que tienes en casa",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763136460950.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - belleza"
+        ],
+        "link": "https://2001online.com/zona3d/belleza/cutis-graso-sistema-de-salud-vietnamita-explica-como-cuidarlo-con-elementos-tradicionales-que-tienes-en-casa-202511162100",
+        "date": "2025-11-17 01:00:00",
+        "sentiment_score": -0.30595339089632034
+    },
+    {
+        "title": "Trump revela que existe \"la posibilidad\" de conversar con el Gobierno de Maduro",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763340218540.jpg?ch=675&cw=1200",
+        "tags": [
+            "diálogo",
+            "eeuu",
+            "venezuela",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/internacionales/trump-revela-que-existe-la-posibilidad-de-conversas-con-el-gobierno-de-maduro--2025111620470",
+        "date": "2025-11-17 00:47:00",
+        "sentiment_score": -0.6173302736133337
+    },
+    {
+        "title": "Conoce cuál es el remedio casero más efectivo para combatir el dolor de muela en un “tris”: así debes aplicarlo",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763337826734.jpg?ch=675&cw=1200",
+        "tags": [
+            "variedades - salud"
+        ],
+        "link": "https://2001online.com/zona3d/salud/conoce-cual-es-el-remedio-casero-mas-efectivo-para-combatir-el-dolor-de-muela-en-un-tris-asi-debes-aplicarlo-202511162050",
+        "date": "2025-11-17 00:05:00",
+        "sentiment_score": -0.8515326920896769
+    },
+    {
+        "title": "¿Comprar vivienda en Washington D. C.? Sepa cuánto puede costarle según la zona",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "vivienda",
+            "washington",
+            "precios"
+        ],
+        "link": "https://2001online.com/usa/servicios/comprar-vivienda-en-washington-d-c-sepa-cuanto-puede-costarle-segun-la-zona--202511162000",
+        "date": "2025-11-17 00:00:00",
+        "sentiment_score": 0.20984844118356705
+    },
+    {
+        "title": "¡Agenda musical! Conoce la lista de conciertos de artistas latinos en Chicago para lo que queda de año",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763332560489.jpg?ch=675&cw=1200",
+        "tags": [
+            "conciertos",
+            "conciertos chicago",
+            "eeuu",
+            "usa"
+        ],
+        "link": "https://2001online.com/usa/servicios/agenda-musical-conoce-la-lista-de-conciertos-de-artistas-latinos-en-chicago-para-lo-que-queda-de-ano-2025111618470",
+        "date": "2025-11-16 22:47:00",
+        "sentiment_score": -0.02121710032224655
+    },
+    {
+        "title": "Elecciones presidenciales en Chile 2025: se van a segunda vuelta electoral en diciembre",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "elecciones presidenciales",
+            "chile",
+            "elecciones presidenciales en chile"
+        ],
+        "link": "https://2001online.com/internacionales/elecciones-presidenciales-en-chile-2025-se-van-a-segunda-vuelta-electoral-en-diciembre-2025111618200",
+        "date": "2025-11-16 22:20:00",
+        "sentiment_score": 0.014142770320177078
+    },
+    {
+        "title": "Validación migratoria ante el Saime: conoce los pasos y requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763331292572.jpg?ch=675&cw=1200",
+        "tags": [
+            "pasaporte",
+            "validación migratoria",
+            "servicio administrativo de identificación, migración y extranjería",
+            "sellar pasaporte"
+        ],
+        "link": "https://2001online.com/servicios/validacion-migratoria-ante-el-saime-conoce-los-pasos-y-requisitos-2025111618180",
+        "date": "2025-11-16 22:18:00",
+        "sentiment_score": -0.6791912224143744
     }
 ];
