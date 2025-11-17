@@ -1,219 +1,5 @@
 export default [
     {
-        "title": "Precio del aceite de oliva en España este 13 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/63NWIYJWXZCYJLRUA6O4UV4ISY.png?auth=e4262f76adb0b456dc540ba85d9e39cc8bafbc1f661de9f54fd7b2a5fb0cf48d&height=816&smart=true&width=1456",
-        "tags": [
-            "españa-noticias",
-            "noticias",
-            "aceite de oliva",
-            "españa-economía"
-        ],
-        "link": "https://www.infobae.com/noticias/2025/11/13/precio-del-aceite-de-oliva-en-espana-este-13-de-noviembre/",
-        "date": "2025-11-13 06:30:29",
-        "sentiment_score": 0.3419063687324524
-    },
-    {
-        "title": "Embalses España: la reserva de agua subió este jueves 13 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/LYJIFA6DUBBG7C7UI6ZQ3U5AOY.png?auth=fff2706b54a7cfc5cc1c0db4596db96f4c91b843510b180fb97e47e2628b4826&height=1080&smart=true&width=1620",
-        "tags": [
-            "sequía",
-            "embalses españa",
-            "españa-noticias",
-            "noticias",
-            "agua"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/13/embalses-espana-la-reserva-de-agua-subio-este-jueves-13-de-noviembre/",
-        "date": "2025-11-13 06:15:26",
-        "sentiment_score": -0.3344164118170738
-    },
-    {
-        "title": "Ni fritas ni asadas: así puedes cocinar las berenjenas para conseguir que queden de lo más sabrosas",
-        "image_url": "https://www.infobae.com/resizer/v2/5CLX6D5BZJATBNUB3ZIJRVGFT4.jpg?auth=b091137e4c1d0cf1590b6d9a339e12ef2a7f5dfb70d9b02aa23a17c98f6640b6&height=1080&smart=true&width=1920",
-        "tags": [
-            "erduras",
-            "españa-noticias",
-            "recetas freidora de aire",
-            "recetas vegetarianas",
-            "comida saludable",
-            "recetas saludables",
-            "españa-gastronomía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/13/ni-fritas-ni-asadas-asi-puedes-cocinar-las-berenjenas-para-conseguir-que-queden-de-lo-mas-sabrosas/",
-        "date": "2025-11-13 05:44:41",
-        "sentiment_score": 0.49470536783337593
-    },
-    {
-        "title": "Rosi Fernández, peluquera: “El error más habitual de muchas mujeres de 60 años es aplicar demasiado calor directamente sobre el cabello”",
-        "image_url": "https://www.infobae.com/resizer/v2/AZCXWFP665DG5NCSIT4HBSKBKY.jpg?auth=70bebd172774ef99ff7a7de5cc4e4eabff8ce07d6310a391a4b449b556ac95a0&height=1080&smart=true&width=1920",
-        "tags": [
-            "estilo",
-            "tratamientos de belleza",
-            "españa-noticias",
-            "españa-sociedad",
-            "tiktok españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/13/rosi-fernandez-peluquera-el-error-mas-habitual-de-muchas-mujeres-de-60-anos-es-aplicar-demasiado-calor-directamente-sobre-el-cabello/",
-        "date": "2025-11-13 05:44:39",
-        "sentiment_score": -0.5417134761810303
-    },
-    {
-        "title": "Un padre pide dejar de pagar la manutención a su hija mayor de edad y recuperar el uso de la vivienda: la Justicia mantiene la pensión y permite a la madre seguir en la casa hasta 2028",
-        "image_url": "https://www.infobae.com/resizer/v2/QG44WLOQIZERFHPXHSY7LVFBPM.webp?auth=0cb767147aaf5512036a82fb834422f889445859d23b71b53d4ad031eeb1c42a&height=628&smart=true&width=1080",
-        "tags": [
-            "audiencia provincial de barcelona",
-            "sentencias",
-            "divorcio",
-            "españa-noticias",
-            "justicia",
-            "pensión de alimentos",
-            "españa-nacional",
-            "tribunales",
-            "juicios"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/13/un-padre-pide-dejar-de-pagar-la-manutencion-a-su-hija-mayor-de-edad-y-recuperar-el-uso-de-la-vivienda-la-justicia-mantiene-la-pension-y-permite-a-la-madre-seguir-en-la-casa-hasta-2028/",
-        "date": "2025-11-13 05:44:36",
-        "sentiment_score": -0.5360731575638056
-    },
-    {
-        "title": "Tres trucos para dejar las ventanas impecables utilizando únicamente ingredientes caseros",
-        "image_url": "https://www.infobae.com/resizer/v2/NSG5WM536FGY5ATQ7CW4Z2PLFQ.png?auth=f9929b3869e95d96e0f45d5ca890c951c3109f4afe80667b5992fbdf7db8ba70&height=800&smart=true&width=1200",
-        "tags": [
-            "limpieza de casa",
-            "trucos de limpieza",
-            "truco de limpieza",
-            "españa-noticias",
-            "españa-sociedad",
-            "limpieza",
-            "limpieza hogar",
-            "limpieza de hogar"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/13/tres-trucos-para-dejar-las-ventanas-impecables-utilizando-unicamente-ingredientes-caseros/",
-        "date": "2025-11-13 05:44:34",
-        "sentiment_score": -0.22283335030078888
-    },
-    {
-        "title": "Cuántos euros me dan por un dólar este 13 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/7NQ2VALWDVEYBPUCGC3LFFUW3E.jpg?auth=1ddd663cca1fb0ddc1f77c839ac455899f847a00183cabd975f8de77b179ef6b&height=1080&smart=true&width=1920",
-        "tags": [
-            "bancos españa",
-            "billetes",
-            "mercados",
-            "tipo de cambio",
-            "monedas",
-            "euros",
-            "españa-economía",
-            "dólar",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/13/cuantos-euros-me-dan-por-un-dolar-este-13-de-noviembre/",
-        "date": "2025-11-13 05:15:40",
-        "sentiment_score": 0.029736392199993134
-    },
-    {
-        "title": "Nazareth Castellanos, neurocientífica: «El niño que come más comida procesada tiene más problemas sociales»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2025/11/13/nazarrr_20251112142108-R4tSmZskHQCotcH893gDzOJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "bienestar",
-            "alimentación"
-        ],
-        "link": "https://www.abc.es/bienestar/alimentacion/nazareth-castellanos-neurocientifica-correlacion-comida-gestion-emocional-20251113063000-nt.html",
-        "date": "2025-11-13 05:28:59",
-        "sentiment_score": -0.10216665267944336
-    },
-    {
-        "title": "Borja Iglesias: \"Rosalía lo hace todo bien. Escuché su disco con mi pareja tirados en la cama. Nos encantó\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/46153849-61a1-4fff-8d8c-cdfd08f008da_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rosalía",
-            "fútbol",
-            "borja iglesias",
-            "selección española de fútbol"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2025/11/13/borja-iglesias-rosalia-seleccion-espanola-de-futbol-futbol-musica-123664400.html",
-        "date": "2025-11-13 06:37:38",
-        "sentiment_score": -0.11360958218574524
-    },
-    {
-        "title": "Los vinos de La Mancha celebran una emotiva entrega de los Premios Solidarios 2025",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/Foto-de-familia-de-los-premiados.jpg",
-        "tags": [
-            "campo y agricultura",
-            "do la mancha"
-        ],
-        "link": "https://www.lanzadigital.com/economia/campo/los-vinos-de-la-mancha-celebran-una-emotiva-entrega-de-los-premios-solidarios-2025/",
-        "date": "2025-11-13 06:24:00",
-        "sentiment_score": 0.03801491856575012
-    },
-    {
-        "title": "El sérum español que creó largas colas vuelve renovado y con el descuento más grande del año",
-        "image_url": "https://okdiario.com/img/2025/11/12/foto-horizontal-.jpg",
-        "tags": [
-            "black friday",
-            "cosmética",
-            "sector cosmético",
-            "lifestyle",
-            "no-publi"
-        ],
-        "link": "https://okdiario.com/lifestyle/serum-espanol-que-creo-largas-colas-vuelve-renovado-descuento-mas-grande-del-ano-15746106",
-        "date": "2025-11-13 06:00:54",
-        "sentiment_score": 0.33063989877700806
-    },
-    {
-        "title": "Cinco planes con niños en Madrid para disfrutar al máximo este noviembre",
-        "image_url": "https://okdiario.com/img/2025/11/11/portada-ninos-1.png",
-        "tags": [
-            "madrid",
-            "cultura",
-            "okplanes",
-            "niños"
-        ],
-        "link": "https://okdiario.com/okplanes/cinco-planes-ninos-madrid-disfrutar-maximo-este-noviembre-15737273",
-        "date": "2025-11-13 06:00:34",
-        "sentiment_score": 0.6804640255868435
-    },
-    {
-        "title": "La Navidad llega a los parques temáticos",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/12/69147b467176b.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/viajes/actualidad/navidad-parques-tematicos-regalo_6896782_0.html",
-        "date": "2025-11-13 06:00:00",
-        "sentiment_score": 0.7143707387149334
-    },
-    {
-        "title": "El yihadismo diez años después de Bataclan: más digital, más joven y más africano",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f1f560b-9a6b-448d-8a45-a3c28b110b2e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "francia",
-            "policía nacional",
-            "yihadistas",
-            "yihadismo",
-            "siria",
-            "europa",
-            "guardia civil",
-            "terrorismo islamista",
-            "redes sociales"
-        ],
-        "link": "https://www.laopiniondemalaga.es/nacional/2025/11/13/yihadismo-diez-anos-despues-matanza-bataclan-123664331.html",
-        "date": "2025-11-13 06:35:17",
-        "sentiment_score": -0.8750109802931547
-    },
-    {
-        "title": "Libeen, el 'rey' del alquiler con opción a compra, sacará a bolsa una socimi para facilitar el acceso a una vivienda a 1.000 familias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/12b6a8c8-7b40-40e6-896d-8faf5d1b531b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "alquiler",
-            "mercado inmobiliario",
-            "vivienda",
-            "sector inmobiliario",
-            "bolsa"
-        ],
-        "link": "https://www.laprovincia.es/economia/2025/11/13/libeen-alquiler-opcion-socimi-bolsa-123664080.html",
-        "date": "2025-11-13 06:22:24",
-        "sentiment_score": 0.6180797070264816
-    },
-    {
         "title": "El presidente del CES avisa de que ante incertidumbres la población busca \"seguridad\" en regimenes \"totalitarios\"",
         "image_url": "https://www.infobae.com/resizer/v2/5ODMDAFD2VAZTPDC2V2VEALR4M.jpg?auth=6b594dd153c44649e153bd1ebee89699117059d384d05e061e42c62b213ad271&height=1080&smart=true&width=1920",
         "tags": [
@@ -423,47 +209,6 @@ export default [
         "link": "https://www.abc.es/economia/inmobiliario/moises-santos-objetivo-ampliar-lineas-negocio-seguir-20251113113743-nt.html",
         "date": "2025-11-13 11:04:17",
         "sentiment_score": -0.0177173912525177
-    },
-    {
-        "title": "El Amazfit con Alexa que se ríe en la cara de los relojes caros ahora que cuesta un 40% menos",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2025/11/13/image_20251113111735-RIQ8Jt7HDpsEmaemLnHgC3M-1200x840@diario_abc.png",
-        "tags": [
-            "wearables",
-            "electronica",
-            "favorito"
-        ],
-        "link": "https://www.abc.es/favorito/electronica/wearables/amazfit-alexa-rie-cara-relojes-caros-cuesta-20251113111752-nt.html",
-        "date": "2025-11-13 10:18:51",
-        "sentiment_score": -0.04462391138076782
-    },
-    {
-        "title": "EE.UU. ofrece una recompensa de 5 millones de dólares por el ataque a un helicóptero en Colombia que mató a 13 policías",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/13/colombia-kK5D-U701930772992DoF-1200x840@diario_abc.JPG",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-ofrece-recompensa-millones-dolares-ataque-helicoptero-20251113101038-nt.html",
-        "date": "2025-11-13 09:10:38",
-        "sentiment_score": -0.21674104034900665
-    },
-    {
-        "title": "Gonzalo Bernabéu, oftalmólogo: «No llevar una gafa adecuada puede ayudar a que salgan orzuelos»",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/bienestar/2025/11/13/oftalmologo-ktpH-U701930313275bFD-1200x840@diario_abc.jpg",
-        "tags": [
-            "llevar",
-            "salgan",
-            "bernabeu",
-            "puede",
-            "oftalmologo",
-            "gafa",
-            "adecuada",
-            "orzuelos",
-            "ayudar",
-            "gonzalo"
-        ],
-        "link": "https://www.abc.es/bienestar/gonzalo-bernabeu-oftalmologo-llevar-gafa-adecuada-puede-20251113092221-nt.html",
-        "date": "2025-11-13 08:22:21",
-        "sentiment_score": -0.1202610433101654
     },
     {
         "title": "El PP rechaza la comisión de los cribados: “Siembran dudas por rentabilidad electoral”",
@@ -8038,5 +7783,511 @@ export default [
         "link": "https://2001online.com/farandula/se-viene-el-live-action-de-alicia-en-el-pais-de-las-maravillas-y-su-actriz-principal-es-una-reconocida-cantante-de-quien-se-trata--2025111610300",
         "date": "2025-11-16 14:07:25",
         "sentiment_score": 0.1941484585404396
+    },
+    {
+        "title": "Capturaron en España a alias Pipo Chavarría, presunto líder de Los Lobos, tenía pasaporte colombiano",
+        "image_url": "https://www.infobae.com/resizer/v2/TT5Q5OW5BRBVDPGOUMT4TNWU3Q.png?auth=d49fb811445c6eeebf2ed6f47d00bd0f9d7b434a0bd23cca8ba0d21b78a0c0dd&height=720&smart=true&width=1280",
+        "tags": [
+            "narcotráfico",
+            "españa",
+            "wilmer chavarría barré",
+            "colombia-noticias",
+            "ecuador",
+            "alias pipo chavarría",
+            "los lobos"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/11/16/capturaron-en-espana-a-alias-pipo-chavarria-presunto-lider-de-los-lobos-tenia-pasaporte-colombiano/",
+        "date": "2025-11-16 22:06:00",
+        "sentiment_score": -0.87477997969836
+    },
+    {
+        "title": "Comprueba los números ganadores del Quíntuple Plus del 16 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZT3SFR67INBWZDTF2TMQOAS4WM.png?auth=819000da0f7c06412e0c854663e66d9a63bf00d14b526f119579b1cdd5a5a86b&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterias",
+            "quíntuple plus",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/16/comprueba-los-numeros-ganadores-del-quintuple-plus-del-16-de-noviembre/",
+        "date": "2025-11-16 22:00:51",
+        "sentiment_score": 0.42532434314489365
+    },
+    {
+        "title": "El defensa del Real Madrid Dean Huijsen, desconvocado por España para el partido contra Turquía",
+        "image_url": "https://www.infobae.com/resizer/v2/VHODYT57XFCPLCMP3S35XSUZN4.jpg?auth=694c26eeb027b8802ab7e62370f2129596286049f85e0a26fe398c6422c3fe8f&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/16/el-defensa-del-real-madrid-dean-huijsen-desconvocado-por-espana-para-el-partido-contra-turquia/",
+        "date": "2025-11-16 22:00:33",
+        "sentiment_score": -0.45868955925107
+    },
+    {
+        "title": "Resultados del Quinigol de este 16 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterias",
+            "quinigol",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/16/resultados-del-quinigol-de-este-16-de-noviembre/",
+        "date": "2025-11-16 22:00:31",
+        "sentiment_score": 0.6680738590657711
+    },
+    {
+        "title": "Luis de la Fuente construye una España con fondo de armario que tiene a mano el récord de Italia",
+        "image_url": "https://www.infobae.com/resizer/v2/MLKW65UPQRAHXCKRATIDEX6PBM.jpg?auth=b7a5e2b5e02046a3c791471e223b0ebca3bfcdc8b29e730c66350cdd281a2c0c&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/16/luis-de-la-fuente-construye-una-espana-con-fondo-de-armario-que-tiene-a-mano-el-record-de-italia/",
+        "date": "2025-11-16 21:30:15",
+        "sentiment_score": 0.17713923752307892
+    },
+    {
+        "title": "Números ganadores del Lototurf de este 16 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/XUZH4R6EORA4TL6AXQM5XXBG5M.png?auth=47b4aacadda7019d429d7df45865af6642b2403f048855b2a9853351367f3dc4&height=1080&smart=true&width=1920",
+        "tags": [
+            "lototurf",
+            "noticias",
+            "españa-loterias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/16/numeros-ganadores-del-lototurf-de-este-16-de-noviembre/",
+        "date": "2025-11-16 21:15:29",
+        "sentiment_score": 0.05568002164363861
+    },
+    {
+        "title": "La Audiencia Provincial de Cuenca retira la manutención paterna a una hija mayor de edad que no mantiene relación con su padre desde hace dos años",
+        "image_url": "https://www.infobae.com/resizer/v2/BTYMXKM52RCENFCGPVS6GR5QUI.jpg?auth=cd0aec867dc49f029471be89b8ec8356c690f3d7fda84b011019a2f50ca13786&height=1080&smart=true&width=1920",
+        "tags": [
+            "tribunal supremo",
+            "sentencias",
+            "españa-noticias",
+            "españa-sociedad",
+            "tribunales españa",
+            "cuenca españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/16/la-audiencia-provincial-de-cuenca-retira-la-manutencion-paterna-a-una-hija-mayor-de-edad-que-no-mantiene-relacion-con-su-padre-desde-hace-dos-anos/",
+        "date": "2025-11-16 21:02:49",
+        "sentiment_score": -0.32716844975948334
+    },
+    {
+        "title": "Una hija desheredada intenta anular el testamento de su madre alegando una incapacidad para tomar decisiones, pero la Justicia lo rechaza: estaba lúcida y no hubo reconciliación entre ambas",
+        "image_url": "https://www.infobae.com/resizer/v2/YPWI7DEPHVGKTCPDNEPJEXVYEA.jpg?auth=7a325bc15c1f234859dff217b87e71fca041e4abed3858f0e154b742212c58e0&height=1080&smart=true&width=1920",
+        "tags": [
+            "disputa familiar",
+            "sentencias",
+            "españa-noticias",
+            "justicia",
+            "españa-nacional",
+            "tribunales",
+            "testamento",
+            "juicios",
+            "desheredación"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/16/una-hija-desheredada-intenta-anular-el-testamento-de-su-madre-alegando-una-incapacidad-para-tomar-decisiones-pero-la-justicia-lo-rechaza-estaba-lucida-y-no-hubo-reconciliacion-entre-ambas/",
+        "date": "2025-11-16 21:02:44",
+        "sentiment_score": -0.5224064588546753
+    },
+    {
+        "title": "Super Once: estos son los resultados ganadores del Sorteo 5 de este 16 noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/PCDXDXWPZJB6LIOCSUNLBJDF34.jpg?auth=b6d7597b0a20e3e1190f0aecdc169a58914bf651fed56619049789ca0c36a79f&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterías",
+            "noticias",
+            "super once",
+            "españa-economía"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/16/super-once-estos-son-los-resultados-ganadores-del-sorteo-5-de-este-16-noviembre/",
+        "date": "2025-11-16 20:45:25",
+        "sentiment_score": 0.5728364270180464
+    },
+    {
+        "title": "Bizarrap hizo historia en el Bernabéu junto a Daddy Yankee: actuaron en el primer partido de la NFL en España",
+        "image_url": "https://www.infobae.com/resizer/v2/R77T2BU7QZHLXMUMEI2PQF5IME.JPG?auth=35b905be859499802100f60b58015b5f931ad59502c426a2e5d72941679cbbbd&height=5004&smart=true&width=7506",
+        "tags": [
+            "bizarrap",
+            "daddy yankee"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/11/16/bizarrap-hizo-historia-en-el-bernabeu-junto-a-daddy-yankee-actuaron-en-el-primer-partido-de-la-nfl-en-espana/",
+        "date": "2025-11-16 20:30:20",
+        "sentiment_score": 0.8536614812910557
+    },
+    {
+        "title": "Tres muertos en un ataque de EE.UU. contra una lancha de supuestos traficantes de droga en el Pacífico",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/1502850099-kezC-U7019701943574ZG-1200x840@diario_abc.jpg",
+        "tags": [
+            "tres",
+            "lancha",
+            "eeuu",
+            "supuestos",
+            "ataque",
+            "muertos",
+            "droga",
+            "traficantes",
+            "pacifico"
+        ],
+        "link": "https://www.abc.es/internacional/tres-muertos-ataque-eeuu-lancha-supuestos-traficantes-20251116225850-nt.html",
+        "date": "2025-11-16 21:58:51",
+        "sentiment_score": -0.23706378042697906
+    },
+    {
+        "title": "Un carro de combate israelí dispara contra 'cascos azules' de la FINUL en el sur de Líbano",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/1503088824-kH0B-U701967657698LzF-1200x840@diario_abc.jpg",
+        "tags": [
+            "finul",
+            "carro",
+            "azules",
+            "cascos",
+            "dispara",
+            "israeli",
+            "combate",
+            "libano",
+            "sur"
+        ],
+        "link": "https://www.abc.es/internacional/carro-combate-israeli-dispara-cascos-azules-finul-20251116215834-nt.html",
+        "date": "2025-11-16 20:58:35",
+        "sentiment_score": -0.12660616636276245
+    },
+    {
+        "title": "Rueda promete que en 2026 estarán en marcha 4.000 viviendas públicas",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/16/251115_Pte_Retiro_DCS_08-RmLVf8dcypxVbfjoeUrde7O-1200x840@diario_abc.jpg",
+        "tags": [
+            "xunta de galicia",
+            "vivienda",
+            "alfonso rueda",
+            "viviendas sociales",
+            "política"
+        ],
+        "link": "https://www.abc.es/espana/galicia/rueda-promete-2026-marcha-4000-viviendas-publicas-20251116185151-nt.html",
+        "date": "2025-11-16 17:51:51",
+        "sentiment_score": 0.02737736701965332
+    },
+    {
+        "title": "Detienen en España al líder de Los Lobos, la mayor banda de narcotráfico de Ecuador",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/pipo-RfAwc1oC3Q65GMYtuwO78yH-1200x840@diario_abc.jpg",
+        "tags": [
+            "espana",
+            "mayor",
+            "narcotrafico",
+            "lider",
+            "banda",
+            "ecuador",
+            "lobos",
+            "detienen"
+        ],
+        "link": "https://www.abc.es/internacional/detienen-espana-lider-lobos-mayor-banda-narcotrafico-20251116182950-nt.html",
+        "date": "2025-11-16 17:29:51",
+        "sentiment_score": -0.12422654032707214
+    },
+    {
+        "title": "Las autonomías del PP acusan a Montero de falsear la votación del último consejo fiscal y piden que se rectifique el acta",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/16/1503011975-RXqE12iwXkzIWFQUUt8bvRP-1200x840@diario_abc.jpg",
+        "tags": [
+            "pp",
+            "ultimo",
+            "acusan",
+            "votacion",
+            "montero",
+            "fiscal",
+            "consejo",
+            "autonomias",
+            "piden",
+            "rectifique",
+            "falsear"
+        ],
+        "link": "https://www.abc.es/economia/autonomias-pp-acusan-montero-falsear-votacion-ultimo-20251116181345-nt.html",
+        "date": "2025-11-16 17:29:37",
+        "sentiment_score": -0.08749805390834808
+    },
+    {
+        "title": "El fútbol cambia de dueño: los fondos de inversión toman el centro del campo",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/11/16/1200-maialen-3-kP3B--562x562@RC.jpg",
+        "tags": [
+            "centro",
+            "inversion",
+            "campo",
+            "fondos",
+            "toman",
+            "dueno",
+            "cambia",
+            "futbol"
+        ],
+        "link": "https://www.canarias7.es/economia/futbol-cambia-dueno-fondos-inversion-toman-centro-20251117000452-ntrc.html",
+        "date": "2025-11-16 22:04:53",
+        "sentiment_score": 0.12475333735346794
+    },
+    {
+        "title": "Huijsen abandona la concentración de la selección española y regresa a Madrid",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/06/10/dean-huijsen-presentation-as-new-player-of-real-madrid-2.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/futbol/2025/11/16/huijsen-abandona-la-concentracion-de-la-seleccion-espanola-y-regresa-a-madrid-1870926.html",
+        "date": "2025-11-16 22:00:04",
+        "sentiment_score": -0.8170386673882604
+    },
+    {
+        "title": "Huijsen, desconvocado con España y vuelve a Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6cfb036b-6d6f-40ca-8486-a5c19c64d115_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "selección española",
+            "rfef",
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://www.lne.es/deportes/2025/11/16/huijsen-desconvocado-espana-vuelve-madrid-123796801.html",
+        "date": "2025-11-16 21:58:44",
+        "sentiment_score": -0.7946024872362614
+    },
+    {
+        "title": "El 1x1 de las jugadoras de la Real ante el Athletic",
+        "image_url": "https://s2.ppllstatics.com/diariovasco/www/multimedia/2025/11/16/SEO-MARCELA%20(7)-k5NH-U24094995056RtD-758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "lifestyle",
+            "sports",
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/femenino/1x1-jugadoras-real-ante-barcelona-20251116211955-nt.html",
+        "date": "2025-11-16 22:04:29",
+        "sentiment_score": -0.0338677316904068
+    },
+    {
+        "title": "En agradecimiento y recuerdo de Claudi Alsina",
+        "image_url": "https://static1.ara.cat/clip/0d494f8c-f688-4643-b2b5-189c7d91a60e_16-9-aspect-ratio_default_0_x667y321.jpg",
+        "tags": [
+            "recuerdo",
+            "agradecimiento",
+            "alsina",
+            "claudi"
+        ],
+        "link": "https://es.ara.cat/sociedad/agradecimiento-recuerdo-claudi-alsina_129_5563835.html",
+        "date": "2025-11-16 22:01:20",
+        "sentiment_score": -0.9341699089854956
+    },
+    {
+        "title": "Atención ágil y personalizada en servicios integrales de salud",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/416436bf-ad99-4439-bfe8-5e9e6fb71fe2_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sanidad privada",
+            "seguros"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251116/atencion-agil-personalizada-servicios-integrales-123721238",
+        "date": "2025-11-16 21:59:43",
+        "sentiment_score": 0.4600018225610256
+    },
+    {
+        "title": "El nuevo informe de la UCO deja a Acciona al borde de la imputación como persona jurídica por los amaños de Cerdán",
+        "image_url": "https://phantom-elmundo.uecdn.es/d9754f9e1c9ec2c05cc471eb1d5216d6/crop/519x0/2567x2048/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468205674169.jpg",
+        "tags": [
+            "artículos ángela martialay",
+            "santos cerdán",
+            "nlpremium",
+            "koldo garcía",
+            "psoe",
+            "josé luis ábalos",
+            "uco"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/16/691a14a9e9cf4a71038b458f.html",
+        "date": "2025-11-16 21:56:17",
+        "sentiment_score": -0.8139749895781279
+    },
+    {
+        "title": "Los Tárraga, dos generaciones de médicos ante el cepo de la vivienda: \"Te obligan a vivir con tus padres\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos daniela saltos"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/11/16/6911d987e4d4d89c2e8b45a4.html",
+        "date": "2025-11-16 21:54:39",
+        "sentiment_score": -0.7733797058463097
+    },
+    {
+        "title": "Huijsen, desconvocado por España por molestias musculares",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/f5c77af5-9e9d-4d72-ae4e82a2c06ef2c2.jpg",
+        "tags": [
+            "salud",
+            "sevilla",
+            "turquía",
+            "selección española de fútbol",
+            "dean huijsen",
+            "lamine yamal",
+            "real federación española de fútbol",
+            "médicos",
+            "georgia",
+            "real madrid",
+            "fc barcelona",
+            "luis de la fuente"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zaf159132-7b14-422f-bbb90b42dbc19846/202511/huijsen-desconvocado-por-espana-por-molestias-musculares",
+        "date": "2025-11-16 21:46:25",
+        "sentiment_score": -0.7385850958526134
+    },
+    {
+        "title": "Avanzan al 70% los trabajos para restablecer el servicio eléctrico en la zona norte",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "servicios públicos",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/avanzan-al-70-los-trabajos-para-restablecer-el-servicio-electrico-en-la-zona-norte/",
+        "date": "2025-11-16 21:31:58",
+        "sentiment_score": 0.05637095868587494
+    },
+    {
+        "title": "Nueva medalla para Asturias en el Nacional de piscina corta: este es el resumen del campeonato",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c1631530-78fe-4bc1-a193-1cad5c06fe17_16-9-aspect-ratio_default_0_x629y857.jpg",
+        "tags": [
+            "oro",
+            "libre",
+            "invierno",
+            "santa olaya"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2025/11/16/nueva-medalla-asturias-nacional-piscina-123795971.html",
+        "date": "2025-11-16 21:29:29",
+        "sentiment_score": 0.1658344715833664
+    },
+    {
+        "title": "Elecciones presidenciales en Chile 2025: se van a segunda vuelta electoral en diciembre",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "elecciones presidenciales",
+            "chile",
+            "elecciones presidenciales en chile"
+        ],
+        "link": "https://2001online.com/internacionales/elecciones-presidenciales-en-chile-2025-se-van-a-segunda-vuelta-electoral-en-diciembre-2025111618200",
+        "date": "2025-11-16 22:20:00",
+        "sentiment_score": 0.01414276659488678
+    },
+    {
+        "title": "Validación migratoria ante el Saime: conoce los pasos y requisitos",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763331292572.jpg?ch=675&cw=1200",
+        "tags": [
+            "pasaporte",
+            "validación migratoria",
+            "servicio administrativo de identificación, migración y extranjería",
+            "sellar pasaporte"
+        ],
+        "link": "https://2001online.com/servicios/validacion-migratoria-ante-el-saime-conoce-los-pasos-y-requisitos-2025111618180",
+        "date": "2025-11-16 22:18:00",
+        "sentiment_score": -0.6791911600157619
+    },
+    {
+        "title": "De Hollywood al Vaticano: el papa León XIV reúne a estrellas del cine para su taller de esperanza",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "vaticano",
+            "el papa león xiv",
+            "hollywood"
+        ],
+        "link": "https://2001online.com/farandula/de-hollywood-al-vaticano-el-papa-leon-xiv-reune-a-estrellas-del-cine-para-su-taller-de-esperanza--2025111618160",
+        "date": "2025-11-16 22:16:00",
+        "sentiment_score": 0.06145445257425308
+    },
+    {
+        "title": "¡Valera está de fiesta! Trujillanos FC se consagra campeón del FUTVE 2 y regresa a primera división",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763333166986.jpg?ch=675&cw=1200",
+        "tags": [
+            "trujillanos fc vs. titanes fc",
+            "fútbol venezolano",
+            "futve",
+            "trujillanos fc",
+            "ascenso de trujillanos fc",
+            "fvf",
+            "liga futve 2",
+            "federación de fútbol venezolano",
+            "liga futve"
+        ],
+        "link": "https://2001online.com/deportes/valera-esta-de-fiesta-trujillanos-fc-se-consagra-campeon-del-futve-2-y-regresa-a-primera-division--2025111618500",
+        "date": "2025-11-16 22:07:16",
+        "sentiment_score": 0.3605173025280237
+    },
+    {
+        "title": "\"Provocan miedo innecesario\": Inician redadas de inmigración en la ciudad más grande de Carolina del Norte",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763329649446.jpg?ch=675&cw=1200",
+        "tags": [
+            "carolina del norte",
+            "charlotte",
+            "redadas migratorias en usa",
+            "eeuu"
+        ],
+        "link": "https://2001online.com/usa/internacionales/provocan-miedo-innecesario-inician-redadas-de-inmigracion-en-la-ciudad-mas-grande-de-carolina-del-norte-202511161820",
+        "date": "2025-11-16 22:02:00",
+        "sentiment_score": -0.01661907136440277
+    },
+    {
+        "title": "Tragedia: una panadera muere estrangulada con su propia bufanda",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "panadera",
+            "grecia",
+            "diario 2001"
+        ],
+        "link": "https://2001online.com/sucesos/tragedia-una-panadera-muere-estrangulada-con-su-propia-bufanda-202511161800",
+        "date": "2025-11-16 22:00:00",
+        "sentiment_score": -0.06244690716266632
+    },
+    {
+        "title": "Cierran mesas de votaciones en Chile: una jornada electoral marcada por largas filas",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "elecciones presidenciales",
+            "votaciones obligatorias",
+            "diario 2001",
+            "chile"
+        ],
+        "link": "https://2001online.com/internacionales/cierran-mesas-de-votaciones-en-chile-una-jornada-electoral-marcada-por-largas-filas-2025111617510",
+        "date": "2025-11-16 21:51:00",
+        "sentiment_score": 0.10664991661906242
+    },
+    {
+        "title": "Elecciones en Chile 2025: el mensaje de Arturo Vidal para el pueblo chileno",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763329260209.jpg?ch=675&cw=1200",
+        "tags": [
+            "arturo vidal",
+            "jeannette jara",
+            "fútbol chileno",
+            "evelyn matthei",
+            "elecciones chile",
+            "johannes kaiser",
+            "josé antonio kast",
+            "elecciones chile 2025",
+            "futbolista chileno",
+            "elecciones"
+        ],
+        "link": "https://2001online.com/deportes/elecciones-en-chile-2025-el-mensaje-de-arturo-vidal-para-el-pueblo-chileno--2025111618300",
+        "date": "2025-11-16 21:36:24",
+        "sentiment_score": 0.15309957042336464
+    },
+    {
+        "title": "El escándalo de \"Wicked\": esto se sabe sobre el fan que agredió a Ariana Grande en la alfombra roja",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "cynthia erivo",
+            "ariana grande",
+            "wicked for good",
+            "wicked"
+        ],
+        "link": "https://2001online.com/farandula/el-escandalo-de-wicked-esto-se-sabe-sobre-el-fan-que-agredio-a-ariana-grande-en-la-alfombra-roja-2025111617170",
+        "date": "2025-11-16 21:17:00",
+        "sentiment_score": -0.737895805388689
+    },
+    {
+        "title": "Jannik Sinner vence a Carlos Alcaraz en Turín: ¿cómo quedó el ranking ATP 2025?",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "tenis",
+            "jannik sinner",
+            "atp finals",
+            "novak djokovic",
+            "alcaraz vs sinner",
+            "ranking atp",
+            "carlos alcaraz",
+            "ranking atp 2025"
+        ],
+        "link": "https://2001online.com/deportes/jannik-sinner-vence-a-carlos-alcaraz-en-turin-como-quedo-el-ranking-atp-2025--2025111617450",
+        "date": "2025-11-16 21:06:00",
+        "sentiment_score": 0.7452524863183498
     }
 ];
