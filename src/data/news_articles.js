@@ -1,155 +1,5 @@
 export default [
     {
-        "title": "El estado de los embalses de España viernes 14 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/EEJVL2RJ6VDHXOSEO6OT35BM6A.png?auth=832f781395bddac244dde3a5886b789187bf62ffd5f8ca4324d9c929e0a51fb6&height=2362&smart=true&width=3543",
-        "tags": [
-            "agua",
-            "embalses españa",
-            "españa-noticias",
-            "noticias",
-            "sequía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/14/el-estado-de-los-embalses-de-espana-viernes-14-de-noviembre/",
-        "date": "2025-11-14 06:16:08",
-        "sentiment_score": -0.06324199587106705
-    },
-    {
-        "title": "Hacienda refuerza la vigilancia: obligará a los bancos a reportar sobre clientes que superen esta cantidad en gastos",
-        "image_url": "https://www.infobae.com/resizer/v2/EDJKCPG3D5CBDNPC24ISKMDMZM.jpg?auth=35db918d5870a4bd0c3a51825ba4763089ba9658e6cbe2e60c5acb2088b4ae45&height=1435&smart=true&width=1920",
-        "tags": [
-            "operación bancaria",
-            "hacienda",
-            "agencia tributaria",
-            "hacienda españa",
-            "españa-economía",
-            "españa-noticias",
-            "agencia tributaria españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/14/hacienda-refuerza-la-vigilancia-obligara-a-los-bancos-a-reportar-sobre-clientes-que-superen-esta-cantidad-en-gastos/",
-        "date": "2025-11-14 05:56:22",
-        "sentiment_score": 0.01832297444343567
-    },
-    {
-        "title": "Ángela Quintas, experta en dietética: “Si vamos a consumir alimentos como pan, arroz, verduras o frutas, siempre hay que juntarlos con una fuente de proteína”",
-        "image_url": "https://www.infobae.com/resizer/v2/X44FXGVR3VFSFMA3HA42B62XO4.png?auth=5f132771570a54eec1e488bbe1c0e41e2f401cc7247664234aeab70b761ee0fa&height=768&smart=true&width=1408",
-        "tags": [
-            "nutrición saludable",
-            "desayuno",
-            "españa-salud",
-            "dietética",
-            "españa-noticias",
-            "nutrición",
-            "alimentación saludable"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/14/angela-quintas-experta-en-dietetica-si-vamos-a-consumir-alimentos-como-pan-arroz-verduras-o-frutas-siempre-hay-que-juntarlos-con-una-fuente-de-proteina/",
-        "date": "2025-11-14 05:56:19",
-        "sentiment_score": 0.33420606702566147
-    },
-    {
-        "title": "Juan José Ebenezer, mecánico de coches, sobre los motores gripados: “Si ves que se te calienta, no lo fuerces”",
-        "image_url": "https://www.infobae.com/resizer/v2/VTXMXIAOJJDW5P6SDNKDFSWJCE.jpg?auth=3eaad96233891d81c9db6f724844e96c825a923cf42f804659d83b72d0448f56&height=1080&smart=true&width=1920",
-        "tags": [
-            "consejos",
-            "motor",
-            "coches",
-            "mecánica",
-            "españa-noticias",
-            "avería",
-            "tiktok",
-            "españa-sociedad",
-            "redes sociales"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/14/juan-jose-ebenezer-mecanico-de-coches-sobre-los-motores-gripados-si-ves-que-se-te-calienta-no-lo-fuerces/",
-        "date": "2025-11-14 05:56:17",
-        "sentiment_score": -0.4462667629122734
-    },
-    {
-        "title": "Cotización del euro frente al dólar hoy 14 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/7NQ2VALWDVEYBPUCGC3LFFUW3E.jpg?auth=1ddd663cca1fb0ddc1f77c839ac455899f847a00183cabd975f8de77b179ef6b&height=1080&smart=true&width=1920",
-        "tags": [
-            "euros",
-            "noticias",
-            "billetes",
-            "españa-economía",
-            "monedas",
-            "bancos españa",
-            "dólar",
-            "mercados",
-            "tipo de cambio"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/14/cotizacion-del-euro-frente-al-dolar-hoy-14-de-noviembre/",
-        "date": "2025-11-14 05:15:35",
-        "sentiment_score": 0.26047976315021515
-    },
-    {
-        "title": "Microrobots guiados por imanes logran administrar fármacos con precisión milimétrica",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251114073547_690.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-microrobots-guiados-imanes-logran-administrar-farmacos-precision-milimetrica-20251114073547.html",
-        "date": "2025-11-14 06:35:47",
-        "sentiment_score": 0.4207232668995857
-    },
-    {
-        "title": "La Aemet emite aviso rojo por fuertes lluvias en el norte de Cáceres y Ávila",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/05/EuropaPress_6554728_persona_protege_lluvia_paraguas_03_marzo_2025_sevilla_andalucia_espana-scaled.jpg",
-        "tags": [
-            "aemet",
-            "tiempo",
-            "sociedad"
-        ],
-        "link": "https://www.lanzadigital.com/sociedad/la-aemet-emite-aviso-rojo-por-fuertes-lluvias-en-el-norte-de-caceres-y-avila/",
-        "date": "2025-11-14 06:34:06",
-        "sentiment_score": -0.13013041019439697
-    },
-    {
-        "title": "Renfe pone hoy a la venta billetes Avlo a un precio de 7 euros para viajar entre Madrid, Sevilla y Málaga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6bb50456-b915-4623-9a80-6c537ff21469_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "avlo",
-            "renfe"
-        ],
-        "link": "https://www.elperiodico.com/es/trafico-y-transportes/20251114/renfe-pone-hoy-venta-billetes-123709698",
-        "date": "2025-11-14 06:25:08",
-        "sentiment_score": 0.1069154143333435
-    },
-    {
-        "title": "La España 'txapelduna' acaricia el Mundial armada sobre Oyarzabal, Merino y Zubimendi, la cuadrilla 'txuri-urdin'",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f119456-38df-46f2-bb70-170e47e0242a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "selección española de fútbol,real sociedad"
-        ],
-        "link": "https://www.elcorreoweb.es/deportes/2025/11/14/espana-txuri-urdin-mundial-zubimendi-merino-oyarzabal-123707642.html",
-        "date": "2025-11-14 06:17:12",
-        "sentiment_score": -0.3968823179602623
-    },
-    {
-        "title": "Un pase de cine solidario en Madrid o un congreso de ciencia ciudadana en Barcelona: los planes ODS de la semana",
-        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744010483_259893410_1706x960.jpg",
-        "tags": [
-            "barcelona",
-            "semanales",
-            "ods (objetivos de desarrollo sostenible)",
-            "madrid",
-            "planes"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/semanales/20251114/pase-cine-solidario-madrid-congreso-ciencia-ciudadana-barcelona-planes-ods-semana/1003744009941_0.html",
-        "date": "2025-11-14 06:30:00",
-        "sentiment_score": 0.34092408046126366
-    },
-    {
-        "title": "Los extranjeros adquieren una de cada cinco casas en Lanzarote, Fuerteventura y Gran Canaria",
-        "image_url": "https://www.lavozdelanzarote.com/uploads/s1/34/17/69/5/s8e3997_3_400x229.jpeg",
-        "tags": [
-            "vivienda"
-        ],
-        "link": "https://www.lavozdelanzarote.com/ekonomus/vivienda/extranjeros-adquieren-cada-cinco-casas-en-lanzarote-fuerteventura-gran-canaria_239241_102.html",
-        "date": "2025-11-14 06:22:52",
-        "sentiment_score": 0.02622523158788681
-    },
-    {
         "title": "De dónde proceden las 131.000 toneladas de naranjas que venderá Mercadona en los próximos 12 meses",
         "image_url": "https://www.infobae.com/resizer/v2/VJRK3UDBIJBYHPGMS57IJVCCVM.jpg?auth=959bfab5e41f902a14874b641e9ef704c02f43fac7a7ce4fd8ce58e8aeaa2245&height=1152&smart=true&width=1920",
         "tags": [
@@ -338,18 +188,6 @@ export default [
         "link": "https://www.abc.es/espana/andalucia/granada/aeropuerto-granada-buenas-noticias-104780-pasajeros-octubre-20251114120506-nts.html",
         "date": "2025-11-14 11:08:22",
         "sentiment_score": -0.08416011929512024
-    },
-    {
-        "title": "PP y Vox aprueban un presupuesto de más de siete millones para el Patronato Deportivo Municipal de Toledo en 2026, un 2,3% más",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/14/patronato-R8SYvZ8eCLyNORiwYON6wfP-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "castilla la mancha",
-            "toledo"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-vox-aprueban-presupuesto-siete-millones-patronato-20251114212737-nt.html",
-        "date": "2025-11-14 07:00:01",
-        "sentiment_score": -0.09948760271072388
     },
     {
         "title": "Un desprecio intolerable al periodismo",
@@ -1009,18 +847,6 @@ export default [
         "link": "https://www.abc.es/espana/andalucia/granada/aeropuerto-granada-buenas-noticias-104780-pasajeros-octubre-20251114120506-nts.html",
         "date": "2025-11-14 11:08:22",
         "sentiment_score": -0.08416016399860382
-    },
-    {
-        "title": "PP y Vox aprueban un presupuesto de más de siete millones para el Patronato Deportivo Municipal de Toledo en 2026, un 2,3% más",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/14/patronato-R8SYvZ8eCLyNORiwYON6wfP-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "castilla la mancha",
-            "toledo"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pp-vox-aprueban-presupuesto-siete-millones-patronato-20251114212737-nt.html",
-        "date": "2025-11-14 07:00:01",
-        "sentiment_score": -0.09948749840259552
     },
     {
         "title": "Zelenski visitará el Congreso este martes durante su viaje oficial a España",
@@ -8374,5 +8200,151 @@ export default [
         "link": "https://2001online.com/usa/internacionales/uscis-impone-nuevas-politicas-prioriza-intereses-estadounidenses-y-transforma-la-inmigracion-legal-2025111711100",
         "date": "2025-11-17 15:10:00",
         "sentiment_score": 0.4537621792405844
+    },
+    {
+        "title": "El Barça se despide de Montjuic: Más decepciones que alegrías y el Clásico como gran noche",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/17/image-89fac9c6-d32e-4345-9ca8-1ef86d257dad-85-2560-1440.jpeg",
+        "tags": [
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/estadio-lluis-companys-montjuic-barcelona-balance-partidos_sto23242072/story.shtml",
+        "date": "2025-11-17 22:16:18",
+        "sentiment_score": -0.6515187546610832
+    },
+    {
+        "title": "Lluís Reverter, un ‘senyor de Sarrià’",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/17/691b9c80c0343.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20251117/11274236/lluis-reverter-senyor-sarria.html",
+        "date": "2025-11-17 22:07:00",
+        "sentiment_score": -0.22308574616909027
+    },
+    {
+        "title": "El Ministerio de Diana Morant ignoró dos cartas del alto cargo denunciante del desfalco de 25 millones contra el cáncer en el CNIO",
+        "image_url": "https://phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos quico alsedo"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/17/691b785ee85ece51348b4584.html",
+        "date": "2025-11-17 21:57:25",
+        "sentiment_score": -0.6536957807838917
+    },
+    {
+        "title": "La IX edición de los Premios Woman Madame Figaro vuelve a celebrar el talento y la excelencia femenina",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2cb90f30-5b49-42fd-8ad2-05631ce5f29e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "moda,woman,mujeres,igualdad"
+        ],
+        "link": "https://www.superdeporte.es/fuera-de-juego/moda/2025/11/17/ix-edicion-premios-woman-madame-123836141.html",
+        "date": "2025-11-17 21:56:37",
+        "sentiment_score": 0.7302743718028069
+    },
+    {
+        "title": "Yisu «El Súper Nova» regresa a Venezuela para estrenar «Se Botó»",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-05-at-07.43.05-2-1.webp",
+        "tags": [
+            "entretenimiento"
+        ],
+        "link": "https://lacalle.com.ve/yisu-el-super-nova-regresa-a-venezuela-para-estrenar-se-boto/",
+        "date": "2025-11-17 22:10:12",
+        "sentiment_score": 0.51852847635746
+    },
+    {
+        "title": "‘L’herència’, ‘Ànima’ y ‘La quijá’, los mejores espectáculos de los premios Butaca",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/09/68c01e96c4c75.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20251117/11273110/herencia-anima-quija-premios-butaca.html",
+        "date": "2025-11-17 22:00:00",
+        "sentiment_score": 0.036515772342681885
+    },
+    {
+        "title": "Dónde han caído los premios de la Bonoloto, ONCE, Eurodreams y los premios de la ONCE de hoy, lunes 17 de noviembre",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/18/85D9BAA5-46C4-4471-AD9A-DA018FFCC4FF/imagen-archivo-administracion-loterias-apuestas-estado_98.jpg?crop=5000%2C2813%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "loterías",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-premios-bonoloto-once-eurodreams-premios-once-hoy-lunes-17-noviembre_20251117691b9a4aeba8bc0ece03ef4d.html",
+        "date": "2025-11-17 21:57:30",
+        "sentiment_score": 0.051173269748687744
+    },
+    {
+        "title": "Distintos genes, un mismo camino evolutivo: cuál es el patrón que le permitió a la vida conquistar la tierra",
+        "image_url": "https://www.infobae.com/resizer/v2/VYQ5G3UGFNHTDLPIVYHGHYATCY.png?auth=176b3fb0891acabeded9df0be50d38fa4d79729ca703439f06a709c297eeaf1e&height=1024&smart=true&width=1536",
+        "tags": [
+            "university of bristol",
+            "newsroom bue",
+            "convergencia evolutiva",
+            "evolución genómica",
+            "adaptación a la vida terrestre",
+            "universidad de barcelona"
+        ],
+        "link": "https://www.infobae.com/america/ciencia-america/2025/11/17/distintos-genes-un-mismo-camino-evolutivo-cual-es-el-patron-que-le-permitio-a-la-vida-conquistar-la-tierra/",
+        "date": "2025-11-17 21:49:40",
+        "sentiment_score": 0.11672219634056091
+    },
+    {
+        "title": "Dos agraciados en el sorteo de La Primitiva han sido premiados este lunes con más de 56.000 euros",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2025/11/17/loterias-apuestas-kTE-U230342704-kfiE-U240259104903gAE-1200x840@Hoy.jpg",
+        "tags": [
+            "agraciados",
+            "dos",
+            "euros",
+            "premiados",
+            "lunes",
+            "primitiva",
+            "sorteo"
+        ],
+        "link": "https://www.hoy.es/sociedad/dos-agraciados-sorteo-primitiva-premiados-lunes-56000-20251117223753-nt.html",
+        "date": "2025-11-17 21:37:54",
+        "sentiment_score": 0.10269614309072495
+    },
+    {
+        "title": "Alicante se afianza como referente internacional en la era de la innovación",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/501759a6-4f76-4740-b3ad-5c17211aa353_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "innovación",
+            "ayuntamiento",
+            "foro municipalismo",
+            "bc",
+            "comisión europea",
+            "público",
+            "ecosistema"
+        ],
+        "link": "https://www.informacion.es/alicante/2025/11/17/alicante-afianza-referente-internacional-innovacion-123806908.html",
+        "date": "2025-11-17 21:30:15",
+        "sentiment_score": 0.7218039855360985
+    },
+    {
+        "title": "La vivienda urgente es cosa de todos: Gobierno, Generalitat, Bancos y ayuntamientos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1a8d4054-ef4c-4a0a-a42d-03382933c83d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gobierno",
+            "bancos",
+            "suelo",
+            "foro municipalismo",
+            "bc",
+            "construcción",
+            "vivienda",
+            "ayudas"
+        ],
+        "link": "https://www.informacion.es/elda/2025/11/17/vivienda-urgente-cosa-gobierno-generalitat-123811438.html",
+        "date": "2025-11-17 21:30:14",
+        "sentiment_score": -0.6320065669715405
+    },
+    {
+        "title": "Semana Deportiva: Vinotinto sub-17 regresa a casa",
+        "image_url": "https://static.wixstatic.com/media/cf263a_08e149900cf6406c892598f84b5b23b6~mv2.png/v1/fit/w_934,h_496,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/semana-deportiva-la-vinotinto-regresa-a-casa",
+        "date": "2025-11-16 13:54:47",
+        "sentiment_score": -0.012520328164100647
     }
 ];
