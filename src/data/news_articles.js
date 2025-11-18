@@ -1,464 +1,5 @@
 export default [
     {
-        "title": "De dónde proceden las 131.000 toneladas de naranjas que venderá Mercadona en los próximos 12 meses",
-        "image_url": "https://www.infobae.com/resizer/v2/VJRK3UDBIJBYHPGMS57IJVCCVM.jpg?auth=959bfab5e41f902a14874b641e9ef704c02f43fac7a7ce4fd8ce58e8aeaa2245&height=1152&smart=true&width=1920",
-        "tags": [
-            "mercadona",
-            "frutas",
-            "españa-economia",
-            "españa-noticias",
-            "supermercados",
-            "agricultura"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/14/de-donde-proceden-las-131000-toneladas-de-naranjas-que-vendera-mercadona-en-los-proximos-12-meses/",
-        "date": "2025-11-14 17:09:12",
-        "sentiment_score": 0.2687149979174137
-    },
-    {
-        "title": "La jueza de la dana cita a declarar como testigos a dos periodistas de Emergencias y al jefe de Prensa de Diputación",
-        "image_url": "https://www.infobae.com/resizer/v2/K2T3Z66JVBEUZGELCP6WUZLN2A.jpg?auth=8d761a47e60dcfbe9a9d9709d1659e67361908256bb33a53b537d6d583719c13&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/14/la-jueza-de-la-dana-cita-a-declarar-como-testigos-a-dos-periodistas-de-emergencias-y-al-jefe-de-prensa-de-diputacion/",
-        "date": "2025-11-14 17:02:07",
-        "sentiment_score": -0.25774620473384857
-    },
-    {
-        "title": "Marlaska busca en Portugal más cooperación europea contra el narcotráfico: \"Es una preocupación máxima\"",
-        "image_url": "https://www.infobae.com/resizer/v2/I37QSCDJMNCP7IKOJXRQKZSEAA.jpg?auth=f6eb0e6d442d271596536d885876112f93fbc8da165aff7e38141041380df5cc&height=834&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/14/marlaska-busca-en-portugal-mas-cooperacion-europea-contra-el-narcotrafico-es-una-preocupacion-maxima/",
-        "date": "2025-11-14 17:01:50",
-        "sentiment_score": 0.035991325974464417
-    },
-    {
-        "title": "Bomberos traslada a la jueza que el día de la dana aplicó un refuerzo como si toda Valencia estuviera en nivel rojo",
-        "image_url": "https://www.infobae.com/resizer/v2/ZUM2MIWO6NEC7D4AXRI6BLLC7A.jpg?auth=14b59c12cd628175b4a95ffbfd2e7862a41d358f3bdb537cd02b6aeb15abee83&height=1268&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/14/bomberos-traslada-a-la-jueza-que-el-dia-de-la-dana-aplico-un-refuerzo-como-si-toda-valencia-estuviera-en-nivel-rojo/",
-        "date": "2025-11-14 17:01:32",
-        "sentiment_score": -0.5084366463124752
-    },
-    {
-        "title": "El dolor lumbar es la principal causa de incapacidad laboral en España",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/14/el-dolor-lumbar-es-la-principal-causa-de-incapacidad-laboral-en-espana/",
-        "date": "2025-11-14 17:00:56",
-        "sentiment_score": -0.8593537220731378
-    },
-    {
-        "title": "Cómo verá la astronauta española Sara García Alonso el eclipse de sol total de agosto de 2026: “Todos vamos a mirar al cielo al mismo tiempo. Ese día nos fascinaremos todos”",
-        "image_url": "https://www.infobae.com/resizer/v2/H65PGOZNRBAW5CPIK3T7CVZKYY.jpg?auth=6ab944b77bd80dc42033b522cc4222d340b621072e9e58f6572e8128604d080e&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-sociedad",
-            "ciencia españa",
-            "españa-noticias",
-            "eclipse",
-            "ciencia",
-            "eclipse solar"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/14/como-vera-la-astronauta-espanola-sara-garcia-alonso-el-eclipse-de-sol-total-de-agosto-de-2026-todos-vamos-a-mirar-al-cielo-al-mismo-tiempo-ese-dia-nos-fascinaremos-todos/",
-        "date": "2025-11-14 16:55:20",
-        "sentiment_score": 0.5480433292686939
-    },
-    {
-        "title": "Sumar quiere formular una interpelación de control a su ministra de Sanidad y deja al BNG fuera del Pleno del Congreso",
-        "image_url": "https://www.infobae.com/resizer/v2/PYRLJGUIXNHQVHXQHLWQI7ULHA.jpg?auth=d6d9002f5be401642b25f793276c31b145f0ad1d83e02378ac8cdfb34219a433&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/14/sumar-quiere-formular-una-interpelacion-de-control-a-su-ministra-de-sanidad-y-deja-al-bng-fuera-del-pleno-del-congreso/",
-        "date": "2025-11-14 16:46:28",
-        "sentiment_score": -0.7209135703742504
-    },
-    {
-        "title": "Libertad provisional para tres acusados de agredir a un joven cerca de una discoteca de Alicante tras un mes en prisión",
-        "image_url": "https://www.infobae.com/resizer/v2/7H4FPF37GVH6LENEJP57KRT7VE.jpg?auth=fac8dfff0b8fff9d31db4a04a0c4347d4bd15e1b43b6d4b9503e38122dde8883&height=1073&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/14/libertad-provisional-para-tres-acusados-de-agredir-a-un-joven-cerca-de-una-discoteca-de-alicante-tras-un-mes-en-prision/",
-        "date": "2025-11-14 16:46:10",
-        "sentiment_score": -0.7272470071911812
-    },
-    {
-        "title": "Números ganadores del Super Once del 14 noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/UQP72UGEZNGAXFIAVPIT6APC4Y.jpg?auth=9b754bae32b55490a70f2a3a6f2cc8ba82ac0d75bbfcc673e64b49991c243d59&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "super once",
-            "españa-economía",
-            "españa-loterías"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/14/numeros-ganadores-del-super-once-del-14-noviembre/",
-        "date": "2025-11-14 16:45:29",
-        "sentiment_score": 0.20871811360120773
-    },
-    {
-        "title": "Montero comparte este sábado junto a los líderes de UGT-A y CCOO-A un nuevo encuentro 'Con Acento' del PSOE-A",
-        "image_url": "https://www.infobae.com/resizer/v2/I2M4LF22TBBANMLHNISTBHDP3I.jpg?auth=ef47f871e3537350313aede0497a8148bd357bc626c49dbf719ef378551bd283&height=1358&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/14/montero-comparte-este-sabado-junto-a-los-lideres-de-ugt-a-y-ccoo-a-un-nuevo-encuentro-con-acento-del-psoe-a/",
-        "date": "2025-11-14 16:32:26",
-        "sentiment_score": 0.2642095349729061
-    },
-    {
-        "title": "Arte, cultura y hipertecnología",
-        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/11/07/image_20251107185256-RGUHo2XR2dASqvQCUPafcNJ-170x119@Las%20Provincias.png",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.abc.es/opinion/giuseppe-tringali-arte-cultura-hipertecnologia-20251114174230-nt.html",
-        "date": "2025-11-14 16:42:31",
-        "sentiment_score": 0.33550307154655457
-    },
-    {
-        "title": "Un desprecio intolerable al periodismo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EGQJYZKF2RFQDM55XNO6T2EEHA.jpeg?auth=f5726044875ad23f9bf09b1c0b5e97584f4f15017f1056b275792952b99e38f3&width=1200",
-        "tags": [
-            "libertad prensa",
-            "españa",
-            "jueces",
-            "periodistas",
-            "periodismo",
-            "tribunal supremo",
-            "fiscalía general estado",
-            "juicio oral"
-        ],
-        "link": "https://elpais.com/espana/2025-11-14/un-desprecio-intolerable-al-periodismo.html",
-        "date": "2025-11-14 16:56:00",
-        "sentiment_score": -0.8267997838556767
-    },
-    {
-        "title": "Vox pide en Les Corts prohibir el velo integral en espacios públicos en plena negociación con Pérez Llorca",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EB4FV2BJLRP37BGUFGFD7DDGNU.jpg?auth=29c2a7755c2b97b63022c71baeae84219ef0d769a2bd6f2c61ede4e9cb99f5c3&width=1200",
-        "tags": [
-            "islam",
-            "comunidad valenciana",
-            "ppcv",
-            "vox",
-            "corts valencianes",
-            "musulmanes"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-14/vox-pide-en-les-corts-prohibir-el-velo-integral-en-espacios-publicos-en-plena-negociacion-con-perez-llorca.html",
-        "date": "2025-11-14 16:45:40",
-        "sentiment_score": -0.09283969551324844
-    },
-    {
-        "title": "El Palacio de los Vargas renacerá como la Real Casa de Campo en 2027 tras una restauración integral",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RCJJZDC2TJG23GBGEBJJZ5Q7ZI.jpeg?auth=10e45691118438fc3ddb873f892db57f7e8d5f8cfdd2139c060883a871045654&width=1200",
-        "tags": [
-            "madrid",
-            "patrimonio artístico",
-            "rehabilitación edificios",
-            "ayuntamiento madrid",
-            "siglo xvii",
-            "comunidad de madrid",
-            "restauración patrimonio",
-            "edificios historicos",
-            "felipe ii",
-            "casa de campo",
-            "patrimonio cultural",
-            "parques y jardines",
-            "carlos iii",
-            "siglo xvi"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-14/el-palacio-de-los-vargas-renacera-como-la-real-casa-de-campo-en-2027-tras-una-restauracion-integral.html",
-        "date": "2025-11-14 16:38:14",
-        "sentiment_score": 0.28998298197984695
-    },
-    {
-        "title": "La policía desmantela una red de explotación sexual de mujeres en un bloque de viviendas en Arganzuela",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SE2FMIJ5BRAL7JK5HCMXRQ3TAU.jpg?auth=e1079aac428d28199bd20f1b37204f5aea65fd93347864855cd8aa9e02498351&width=1200",
-        "tags": [
-            "ley extranjería",
-            "explotación sexual",
-            "madrid",
-            "policía nacional",
-            "explotación laboral",
-            "comunidad de madrid",
-            "trata de mujeres",
-            "trata de seres humanos",
-            "arganzuela"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-14/la-policia-desmantela-una-red-de-explotacion-sexual-de-mujeres-en-un-bloque-de-viviendas-en-arganzuela.html",
-        "date": "2025-11-14 16:22:38",
-        "sentiment_score": 0.046941980719566345
-    },
-    {
-        "title": "Ayuso se ausenta por sorpresa del estreno de la NFL en Madrid",
-        "image_url": "https://images.ecestaticos.com/EkApIbVkNt0mG3c2svhChsnQOqo=/0x0:2272x1667/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fb3b%2Fc14%2Feb7%2Fb3bc14eb7fc7719bd7d3a7f95661161b.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.elconfidencial.com/espana/madrid/2025-11-14/ayuso-se-ausenta-por-sorpresa-del-estreno-de-la-nfl-en-madrid_4247846/",
-        "date": "2025-11-14 17:09:00",
-        "sentiment_score": -0.8732343968003988
-    },
-    {
-        "title": "Barcelona-Real Madrid: Alineaciones probables, estadísticas y cómo ver por TV y online (16:00)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/14/image-f24a5b04-b34b-4bc5-86f3-956260b2dc4d-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "liga f moeve 2025-2026 (w)"
-        ],
-        "link": "https://www.eurosport.es/futbol/liga-f-moeve/2025-2026/barcelona-real-madrid-alineaciones-probables-previa-estadisticas-horario-como-donde-ver-television-online-streaming-plan-hbo-max-dazn_sto23241128/story.shtml",
-        "date": "2025-11-14 17:04:19",
-        "sentiment_score": 0.030295707285404205
-    },
-    {
-        "title": "C. Tangana y Rocío Aguirre serán padres: así lo han anunciado en redes sociales",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/11/14/2025111417533136515.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/gente/c-tangana-rocio-aguirre-esperan-primer-hijo/202511141804101418188.html",
-        "date": "2025-11-14 17:04:10",
-        "sentiment_score": 0.17523502558469772
-    },
-    {
-        "title": "LedaMC reúne en Madrid a líderes tecnológicos para debatir sobre el papel \"real\" de la Inteligencia Artificial en la empresa",
-        "image_url": "https://s10.s3c.es/imag/_v0/4000x2250/a/6/8/1200x655_evento-leda.jpg",
-        "tags": [
-            "tecnologia"
-        ],
-        "link": "https://www.eleconomista.es/tecnologia/noticias/13644702/11/25/ledamc-reune-en-madrid-a-lideres-tecnologicos-para-debatir-sobre-el-papel-real-de-la-inteligencia-artificial-en-la-empresa.html",
-        "date": "2025-11-14 17:00:06",
-        "sentiment_score": -0.0024895966053009033
-    },
-    {
-        "title": "Julio Cobos diseña el plan para frenar al Real Madrid Castilla y sus 'perlas' de Primera",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/14/69175ecf1e192.jpeg",
-        "tags": [
-            "deportes cáceres"
-        ],
-        "link": "https://www.cope.es/emisoras/extremadura/caceres-provincia/caceres/deportes-caceres/noticias/julio-cobos-disena-plan-frenar-real-madrid-castilla-perlas-primera-20251114_3252711.html",
-        "date": "2025-11-14 16:57:12",
-        "sentiment_score": 0.025971055030822754
-    },
-    {
-        "title": "Unos 140 profesionales en una Jornada Bioética y Deontológica en Ciudad Real",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/11/14/2025111417554768259.jpg",
-        "tags": [
-            "ciudad real"
-        ],
-        "link": "https://www.clm24.es/articulo/ciudad-real/140-profesionales-jornada-bioetica-deontologica-ciudad-real/20251114175703464046.html",
-        "date": "2025-11-14 16:57:03",
-        "sentiment_score": 0.11677740886807442
-    },
-    {
-        "title": "CCOO exige un convenio propio y protocolo contra acoso para empleadas del hogar tras la evaluación de riesgos laborales",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251114175147_690.jpg",
-        "tags": [
-            "igualdad",
-            "ep social"
-        ],
-        "link": "https://www.europapress.es/epsocial/igualdad/noticia-ccoo-exige-convenio-propio-protocolo-contra-acoso-empleadas-hogar-evaluacion-riesgos-laborales-20251114175147.html",
-        "date": "2025-11-14 16:51:47",
-        "sentiment_score": -0.09162094444036484
-    },
-    {
-        "title": "La multinacional Marktel Global Services anuncia un ERE y su cierre en Albacete",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/11/14/2025111417421653324.avif",
-        "tags": [
-            "albacete"
-        ],
-        "link": "https://www.clm24.es/articulo/albacete/multinacional-marktel-global-services-anuncia-ere-cierre-albacete/20251114174257464042.html",
-        "date": "2025-11-14 16:42:57",
-        "sentiment_score": -0.9168872479349375
-    },
-    {
-        "title": "Los Mossos investigan un presunto crimen machista en Barcelona",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5917ce11-7ac2-462a-b0a2-377b9cd9cc30_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "machista",
-            "presunto",
-            "mossos",
-            "investigan",
-            "crimen"
-        ],
-        "link": "https://www.deia.eus/sucesos/2025/11/14/mossos-investigan-presunto-crimen-machista-10352910.html",
-        "date": "2025-11-14 17:04:29",
-        "sentiment_score": -0.7723894156515598
-    },
-    {
-        "title": "De la Fuente 'firma' la paz con el Barça aunque \"todo es mejorable por todas partes\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/14/691751f2106c1.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/fuente-firma-paz-barcelona-relaciones-clubes-maravillosas-todo-mejorable-todas-partes_6898121_0.html",
-        "date": "2025-11-14 17:03:50",
-        "sentiment_score": 0.009109549224376678
-    },
-    {
-        "title": "Sindicatos educativos catalanes llaman a la movilización para mejorar las condiciones laborales: \"Nos vemos obligados a pasar a la acción\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/14/69176021d21d2.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/sindicatos-educativos-catalanes-llaman-movilizacion-mejorar-condiciones-laborales-vemos-obligados-pasar-accion-20251114_3252716.html",
-        "date": "2025-11-14 17:03:44",
-        "sentiment_score": 0.009697943925857544
-    },
-    {
-        "title": "La confesión más íntima de Lady Gaga: rodó 'Ha nacido una estrella' medicada y a punto de colapsar",
-        "image_url": "https://www.hola.com/horizon/landscape/9fa6b5817c40-gettyimages-2205629929.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "lady gaga"
-        ],
-        "link": "https://www.hola.com/actualidad/20251114867599/confesion-mas-intima-lady-gaga-rodo-ha-nacido-una-estrella-medicada/",
-        "date": "2025-11-14 17:01:21",
-        "sentiment_score": 0.6984270215034485
-    },
-    {
-        "title": "\"La cultura, niña\": por qué se han cargado el magacín presentado por Tània Sarrias",
-        "image_url": "https://static1.ara.cat/clip/182637fd-dce9-4bdf-b192-fa0610b4ce72_16-9-aspect-ratio_default_0_x2175y827.jpg",
-        "tags": [
-            "magacin",
-            "cultura",
-            "sarrias",
-            "cargado",
-            "han",
-            "tania",
-            "nina",
-            "presentado"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/cultura-nina-han-cargado-magacin-presentado-tania-sarrias_129_5561940.html",
-        "date": "2025-11-14 16:59:55",
-        "sentiment_score": 0.010246574878692627
-    },
-    {
-        "title": "Cena de Navidad en peligro: los pescadores catalanes alertan de que faltan langostinos y gambas para estas fiestas",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/11/14/026EAB0B-DA8A-49BA-9ABD-64E6EB5061FC/cena-navidad-peligro-pescadores-catalanes-alertan-que-faltan-langostinos-gambas-estas-fiestas_70.jpg?crop=6000%2C3375%2Cx0%2Cy1&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena 3 noticias",
-            "economía"
-        ],
-        "link": "https://www.antena3.com/noticias/economia/cena-navidad-peligro-pescadores-catalanes-alertan-que-faltan-langostinos-gambas-estas-fiestas_2025111469175f0839b3f1652bee788d.html",
-        "date": "2025-11-14 16:59:19",
-        "sentiment_score": -0.37013769149780273
-    },
-    {
-        "title": "Inicia pago de bonificación para trabajadores públicos este 14 de noviembre: este el monto",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763138664049.jpg?ch=675&cw=1200",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/inicia-pago-de-bonificacion-para-trabajadores-publicos-este-14-de-noviembre-este-el-monto-2025111412490",
-        "date": "2025-11-14 16:57:00",
-        "sentiment_score": 0.17285124771296978
-    },
-    {
-        "title": "Comida gratis para Thanksgiving en EEUU: use esta herramienta de Feeding America para encontrar ayuda",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763135267789/Captura%20de%20pantalla%202025-11-14%20113349.png?ch=675&cw=1200",
-        "tags": [
-            "estados unidos",
-            "eeuu",
-            "comida gratis para thanksgiving day",
-            "cena de acción de gracias gratis eeuu",
-            "thanksgiving day alimentos gratis",
-            "diario 2001 eeuu",
-            "comida gratis en eeuu",
-            "usa",
-            "encontrar comida gratis thanksgiving day",
-            "feeding america"
-        ],
-        "link": "https://2001online.com/usa/servicios/comida-gratis-para-thanksgiving-en-eeuu-use-esta-herramienta-de-feeding-america-para-encontrar-ayuda-2025111412330",
-        "date": "2025-11-14 16:33:00",
-        "sentiment_score": 0.187041737139225
-    },
-    {
-        "title": "Refrigera con estilo: La nueva línea 'Sleek' de Condesa está disponible en MultiMax",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763137446565.jpg?ch=675&cw=1200",
-        "tags": [
-            "condesa",
-            "china",
-            "venezuela",
-            "sleek",
-            "multimax",
-            "caracas"
-        ],
-        "link": "https://2001online.com/agenda-empresarial/refrigera-con-estilo-la-nueva-linea-sleek-de-condesa-esta-disponible-en-multimax-2025111412290",
-        "date": "2025-11-14 16:29:00",
-        "sentiment_score": 0.41080362536013126
-    },
-    {
-        "title": "Confirman las fechas de asueto navideño 2025-2026 para el sector universitario",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763135815812.jpg?ch=675&cw=1200",
-        "tags": [
-            "personal docente, obrero y administrativo universitario",
-            "fechas",
-            "estudiantes universitarios",
-            "asueto navideño 2025-2026"
-        ],
-        "link": "https://2001online.com/nacionales/confirman-las-fechas-de-asueto-navideno-2025-2026-para-el-sector-universitario-2025111412150",
-        "date": "2025-11-14 16:15:00",
-        "sentiment_score": 0.05634699575603008
-    },
-    {
-        "title": "Chicago: organizaciones lanzan tácticas contra el ICE y resguardan a vendedores ambulantes",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "organizaciones",
-            "inmigrantes",
-            "redadas ice",
-            "chicago",
-            "ice",
-            "#diario2001",
-            "comunidad",
-            "#estadosunidos",
-            "vendedores ambulantes"
-        ],
-        "link": "https://2001online.com/usa/internacionales/chicago-organizaciones-lanzan-tacticas-contra-el-ice-y-resguardan-a-vendedores-ambulantes-2025111411150",
-        "date": "2025-11-14 15:15:00",
-        "sentiment_score": -0.8696917854249477
-    },
-    {
-        "title": "Conatel anuncia lanzamiento de la App Movi: pago digitalizado del transporte público",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763131434890.jpg?ch=675&cw=1200",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/conatel-anuncia-lanzamiento-de-la-app-movi-pago-digitalizado-del-transporte-publico-2025111410450",
-        "date": "2025-11-14 14:45:00",
-        "sentiment_score": 0.2054747436195612
-    },
-    {
-        "title": "Un reinado con estilo y propósito: Stephany Abasali marca presencia en los últimos eventos del Miss Universe 2025",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "miss universe venezuela 2025",
-            "miss universe 2025"
-        ],
-        "link": "https://2001online.com/farandula/un-reinado-con-estilo-y-proposito-stephany-abasali-marca-presencia-en-los-ultimos-eventos-del-miss-universe-2025-2025111410420",
-        "date": "2025-11-14 14:42:00",
-        "sentiment_score": 0.8739943597465754
-    },
-    {
-        "title": "Chepa Candela: Reservan a Clara Vegas, candidata de Miranda, para la corona del Miss Venezuela Universo",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763130586490.jpg?ch=675&cw=1200",
-        "tags": [
-            "farándula  - chepa candela"
-        ],
-        "link": "https://2001online.com/farandula/chepa-candela/chepa-candela-reservan-a-clara-vegas-candidata-de-miranda-para-la-corona-del-miss-venezuela-universo-2025111410310",
-        "date": "2025-11-14 14:31:00",
-        "sentiment_score": 0.8695318149402738
-    },
-    {
         "title": "Estos son los ganadores del sorteo de Eurojackpot de este 14 de noviembre",
         "image_url": "https://www.infobae.com/resizer/v2/Q7FNQIJEBVFCBNCYSSGYYQFK6A.jpg?auth=d0a8f05dacad4e8a73566665ba986c216d1358565751f754ffaeb9d98bf2f3be&height=1080&smart=true&width=1920",
         "tags": [
@@ -588,16 +129,6 @@ export default [
         "sentiment_score": -0.6344018168747425
     },
     {
-        "title": "Arte, cultura y hipertecnología",
-        "image_url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/2025/11/07/image_20251107185256-RGUHo2XR2dASqvQCUPafcNJ-170x119@Las%20Provincias.png",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.abc.es/opinion/giuseppe-tringali-arte-cultura-hipertecnologia-20251114174230-nt.html",
-        "date": "2025-11-14 16:42:31",
-        "sentiment_score": 0.33550290763378143
-    },
-    {
         "title": "Zelenski visitará el Congreso este martes durante su viaje oficial a España",
         "image_url": "https://imagenes.elpais.com/resizer/v2/RAX6VB4QPJBUJNJBWSA6NKIHP4.jpg?auth=6093ce6f84d3419a6631b9bf0d0d2b9ec3777165a559d615a9a779b4050b63f1&width=1200",
         "tags": [
@@ -611,115 +142,6 @@ export default [
         "link": "https://elpais.com/espana/2025-11-14/zelenski-visitara-el-congreso-este-martes-durante-su-viaje-oficial-a-espana.html",
         "date": "2025-11-14 18:47:00",
         "sentiment_score": -0.13846246898174286
-    },
-    {
-        "title": "El PSOE carga contra la apertura de una línea de investigación sobre los pagos en metálico a Ábalos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/B5EKMSWPB5GYHFRDPJOVYUFJR4.jpg?auth=248105180db48e0df72c3526744b4d6a18b89886878ebd85fc3c3ac571aa7745&width=1200",
-        "tags": [
-            "tribunal supremo",
-            "psoe",
-            "pp",
-            "españa",
-            "investigación judicial",
-            "delitos",
-            "justicia",
-            "caso koldo",
-            "josé luis ábalos",
-            "koldo garcía",
-            "audiencia nacional",
-            "partidos políticos"
-        ],
-        "link": "https://elpais.com/espana/2025-11-14/el-psoe-carga-contra-la-apertura-de-una-linea-de-investigacion-sobre-los-pagos-en-metalico-a-abalos.html",
-        "date": "2025-11-14 17:36:39",
-        "sentiment_score": -0.8201881274580956
-    },
-    {
-        "title": "El agónico final del discapacitado Antonio: “Tengo medio metro de agua en casa”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HCMTZRYW6ZAY3EDK6TB3D6KBZI.jpg?auth=b4599cc0ff95c6a78d22929aad81f4dd0841abf069d8d1de6c04d96a054e478f&width=1200",
-        "tags": [
-            "catástrofes",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "carlos mazón",
-            "catarroja",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-14/el-agonico-final-del-discapacitado-antonio-tengo-medio-metro-de-agua-en-casa.html",
-        "date": "2025-11-14 17:17:00",
-        "sentiment_score": -0.8407195368781686
-    },
-    {
-        "title": "Un desprecio intolerable al periodismo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EGQJYZKF2RFQDM55XNO6T2EEHA.jpeg?auth=f5726044875ad23f9bf09b1c0b5e97584f4f15017f1056b275792952b99e38f3&width=1200",
-        "tags": [
-            "libertad prensa",
-            "españa",
-            "jueces",
-            "periodistas",
-            "periodismo",
-            "tribunal supremo",
-            "fiscalía general estado",
-            "juicio oral"
-        ],
-        "link": "https://elpais.com/espana/2025-11-14/un-desprecio-intolerable-al-periodismo.html",
-        "date": "2025-11-14 16:56:00",
-        "sentiment_score": -0.8267999086529016
-    },
-    {
-        "title": "Vox pide en Les Corts prohibir el velo integral en espacios públicos en plena negociación con Pérez Llorca",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EB4FV2BJLRP37BGUFGFD7DDGNU.jpg?auth=29c2a7755c2b97b63022c71baeae84219ef0d769a2bd6f2c61ede4e9cb99f5c3&width=1200",
-        "tags": [
-            "islam",
-            "comunidad valenciana",
-            "ppcv",
-            "vox",
-            "corts valencianes",
-            "musulmanes"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-14/vox-pide-en-les-corts-prohibir-el-velo-integral-en-espacios-publicos-en-plena-negociacion-con-perez-llorca.html",
-        "date": "2025-11-14 16:45:40",
-        "sentiment_score": -0.09283938258886337
-    },
-    {
-        "title": "El Palacio de los Vargas renacerá como la Real Casa de Campo en 2027 tras una restauración integral",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/RCJJZDC2TJG23GBGEBJJZ5Q7ZI.jpeg?auth=10e45691118438fc3ddb873f892db57f7e8d5f8cfdd2139c060883a871045654&width=1200",
-        "tags": [
-            "madrid",
-            "patrimonio artístico",
-            "rehabilitación edificios",
-            "ayuntamiento madrid",
-            "siglo xvii",
-            "comunidad de madrid",
-            "restauración patrimonio",
-            "edificios historicos",
-            "felipe ii",
-            "casa de campo",
-            "patrimonio cultural",
-            "parques y jardines",
-            "carlos iii",
-            "siglo xvi"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-14/el-palacio-de-los-vargas-renacera-como-la-real-casa-de-campo-en-2027-tras-una-restauracion-integral.html",
-        "date": "2025-11-14 16:38:14",
-        "sentiment_score": 0.28998374938964844
-    },
-    {
-        "title": "La policía desmantela una red de explotación sexual de mujeres en un bloque de viviendas en Arganzuela",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SE2FMIJ5BRAL7JK5HCMXRQ3TAU.jpg?auth=e1079aac428d28199bd20f1b37204f5aea65fd93347864855cd8aa9e02498351&width=1200",
-        "tags": [
-            "ley extranjería",
-            "explotación sexual",
-            "madrid",
-            "policía nacional",
-            "explotación laboral",
-            "comunidad de madrid",
-            "trata de mujeres",
-            "trata de seres humanos",
-            "arganzuela"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-14/la-policia-desmantela-una-red-de-explotacion-sexual-de-mujeres-en-un-bloque-de-viviendas-en-arganzuela.html",
-        "date": "2025-11-14 16:22:38",
-        "sentiment_score": 0.04694201052188873
     },
     {
         "title": "Las mejores series de Netflix Colombia para ver hoy mismo",
@@ -1185,42 +607,6 @@ export default [
         "link": "https://elpais.com/espana/2025-11-14/zelenski-visitara-el-congreso-este-martes-durante-su-viaje-oficial-a-espana.html",
         "date": "2025-11-14 18:47:00",
         "sentiment_score": -0.13846355676651
-    },
-    {
-        "title": "El PSOE carga contra la apertura de una línea de investigación sobre los pagos en metálico a Ábalos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/B5EKMSWPB5GYHFRDPJOVYUFJR4.jpg?auth=248105180db48e0df72c3526744b4d6a18b89886878ebd85fc3c3ac571aa7745&width=1200",
-        "tags": [
-            "tribunal supremo",
-            "psoe",
-            "pp",
-            "españa",
-            "investigación judicial",
-            "delitos",
-            "justicia",
-            "caso koldo",
-            "josé luis ábalos",
-            "koldo garcía",
-            "audiencia nacional",
-            "partidos políticos"
-        ],
-        "link": "https://elpais.com/espana/2025-11-14/el-psoe-carga-contra-la-apertura-de-una-linea-de-investigacion-sobre-los-pagos-en-metalico-a-abalos.html",
-        "date": "2025-11-14 17:36:39",
-        "sentiment_score": -0.8201879318803549
-    },
-    {
-        "title": "El agónico final del discapacitado Antonio: “Tengo medio metro de agua en casa”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HCMTZRYW6ZAY3EDK6TB3D6KBZI.jpg?auth=b4599cc0ff95c6a78d22929aad81f4dd0841abf069d8d1de6c04d96a054e478f&width=1200",
-        "tags": [
-            "catástrofes",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "carlos mazón",
-            "catarroja",
-            "dana"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-14/el-agonico-final-del-discapacitado-antonio-tengo-medio-metro-de-agua-en-casa.html",
-        "date": "2025-11-14 17:17:00",
-        "sentiment_score": -0.8407195303589106
     },
     {
         "title": "La impunidad de la mentira",
@@ -8274,5 +7660,187 @@ export default [
         "link": "https://www.elcomercio.es/sporting/abuelo-juvenil-nico-riestra-tras-debut-sporting-20251117010545-nt.html",
         "date": "2025-11-18 00:05:46",
         "sentiment_score": 0.261147353798151
+    },
+    {
+        "title": "Habrá segunda vuelta para elección presidencial en Chile",
+        "image_url": "https://static.wixstatic.com/media/335561_1cec7c32a00742c796051a459d0094ca~mv2.png/v1/fit/w_517,h_284,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/habr%C3%A1-segunda-vuelta-para-elecci%C3%B3n-presidencial-en-chile",
+        "date": "2025-11-17 11:32:33",
+        "sentiment_score": -0.08902423083782196
+    },
+    {
+        "title": "La leyenda del hard-rock David Coverdale se retira de la música",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/d4/media_thumb-link-4117734.webp?1763222466=",
+        "tags": [
+            "david coverdale",
+            "música",
+            "whitesnake",
+            "cultura",
+            "deep purple",
+            "rock"
+        ],
+        "link": "https://www.meneame.net/story/leyenda-hard-rock-david-coverdale-retira-musica",
+        "date": "2025-11-17 06:35:03",
+        "sentiment_score": -0.42283932864665985
+    },
+    {
+        "title": "España busca sellar el billete al Mundial con la clasificación perfecta",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/afcf1833-c5bf-4dba-a73a-7d7f0b25b25a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "selección española de fútbol",
+            "luis de la fuente",
+            "mundial"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2025/11/18/espana-busca-sellar-billete-mundial-123840494.html",
+        "date": "2025-11-18 06:26:06",
+        "sentiment_score": -0.1919693797826767
+    },
+    {
+        "title": "El Gobierno de Almeida cierra un polideportivo municipal entre críticas de abandono y dejadez: \"Manual perfecto de privatización\"",
+        "image_url": "https://www.elplural.com/uploads/s1/21/00/34/8/el-gobierno-de-almeida-cierra-el-centro-deportivo-de-daoiz-y-velarde-ep_7_480x270.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/gobierno-almeida-cierra-polideportivo-municipal-entre-criticas-abandono-dejadez-manual-perfecto-privatizacion_365294102",
+        "date": "2025-11-18 06:11:02",
+        "sentiment_score": -0.1589823067188263
+    },
+    {
+        "title": "El taller de Renfe en Badajoz cumple cinco años como pieza clave del servicio ferroviario",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8fe80fef-9a0b-4679-a2a7-443623932a3c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tren",
+            "renfe",
+            "badajoz"
+        ],
+        "link": "https://www.lacronicabadajoz.com/badajoz/2025/11/18/taller-renfe-badajoz-cumple-cinco-123840215.html",
+        "date": "2025-11-18 06:04:58",
+        "sentiment_score": 0.24476870894432068
+    },
+    {
+        "title": "Lo que debes saber hoy, 18 de noviembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/12/20/vivir-en-barcelona/818678234_12115014_1706x960.jpg",
+        "tags": [
+            "renfe barcelona",
+            "clima",
+            "metro barcelona",
+            "aemet (agencia estatal de meteorología)",
+            "transporte",
+            "autobús",
+            "movilidad",
+            "transports metropolitans barcelona tmb",
+            "el tiempo",
+            "tráfico"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251118/debes-saber-hoy-noviembre-barcelona/1003742708280_0.html",
+        "date": "2025-11-18 06:30:37",
+        "sentiment_score": 0.5356874689459801
+    },
+    {
+        "title": "El vacío al que nos aboca la especulación y la depredación inmobiliaria",
+        "image_url": "https://static1.ara.cat/clip/205600c0-69ac-458a-92b3-f139f9050eda_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "especulacion",
+            "depredacion",
+            "aboca",
+            "vacio",
+            "inmobiliaria"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/vacio-aboca-especulacion-depredacion-inmobiliaria_1_5565086.html",
+        "date": "2025-11-18 06:15:43",
+        "sentiment_score": -0.17843984067440033
+    },
+    {
+        "title": "Cristina Len: voz de la ruralidad contemporánea",
+        "image_url": "https://www.elplural.com/uploads/s1/21/00/44/0/disen-o-sin-ti-tulo_7_480x270.jpeg",
+        "tags": [
+            "playtime"
+        ],
+        "link": "https://www.elplural.com/playtime/cristina-len-voz-ruralidad-contemporanea_365302102",
+        "date": "2025-11-18 06:10:49",
+        "sentiment_score": -0.058607518672943115
+    },
+    {
+        "title": "Joan Laporta ve cómo se esfuman millones por el flojo desempeño de Ansu Fati",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/09/30/2025093011285930367.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/rendimiento-ansu-fati-hace-perder-millones-joan-laporta/20251118070644363531.html",
+        "date": "2025-11-18 06:06:44",
+        "sentiment_score": -0.31719202548265457
+    },
+    {
+        "title": "La inesperada expulsión de 'OT 2025' y los dos nominados que nadie se esperaba en la Gala 9 en Prime Video",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/18/691c0bbc7b562.r_d.345-229-6507.png",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20251118/1002571183/inesperada-expulsion-ot-2025-dos-nominados-nadie-esperaba-gala-9-prime-video-dct.html",
+        "date": "2025-11-18 06:02:14",
+        "sentiment_score": 0.04910743236541748
+    },
+    {
+        "title": "San Bartolomé de Tirajana destapa el potencial \"brutal\" de su turismo para competir en calidad y gastronomía",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/18/691c0b24d5a4c.jpeg",
+        "tags": [
+            "gran canaria"
+        ],
+        "link": "https://www.cope.es/emisoras/canarias/las-palmas/gran-canaria/noticias/san-bartolome-tirajana-destapa-potencial-brutal-turismo-competir-calidad-gastronomia-20251118_3253971.html",
+        "date": "2025-11-18 06:02:09",
+        "sentiment_score": 0.02350476384162903
+    },
+    {
+        "title": "El Espanyol vuelve al trabajo con el Sevilla en pausa y hasta cuatro pericos en el Catalunya – Palestina",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/manolo-gonzalez-espanyol-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lagradaonline.com/espanyol-vuelve-al-trabajo-sevilla-paron-catalunya-palestina/",
+        "date": "2025-11-18 06:00:49",
+        "sentiment_score": 0.7262303382158279
+    },
+    {
+        "title": "El Centro Aragonés de Barcelona será una referencia turística, cultural y gastronómica de la comunidad en Cataluña",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49f37233-3b98-4ba0-831a-51b5699135c1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cataluña",
+            "cultura",
+            "gastronomía",
+            "aragón",
+            "patrimonio",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodicodearagon.com/aragon/2025/11/18/centro-aragon-barcelona-turismo-cultura-gastronomia-cataluna-123831427.html",
+        "date": "2025-11-18 06:00:32",
+        "sentiment_score": 0.4611484706401825
+    },
+    {
+        "title": "Un noviembre repleto de efemérides",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noviembre",
+            "efemerides",
+            "repleto"
+        ],
+        "link": "https://www.noticiasdealava.eus/opinion/2025/11/18/noviembre-repleto-efemerides-10363644.html",
+        "date": "2025-11-18 06:00:29",
+        "sentiment_score": -0.41602160036563873
+    },
+    {
+        "title": "Nuevos horizontes financieros",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-06-a-las-22.39.47-1200x675.png",
+        "tags": [
+            "brand voice",
+            "branded content",
+            "brandvoice",
+            "forbes funds"
+        ],
+        "link": "https://forbes.es/forbes-funds/824671/nuevos-horizontes-financieros/",
+        "date": "2025-11-18 06:00:00",
+        "sentiment_score": 0.5348104164004326
     }
 ];
