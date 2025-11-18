@@ -123,73 +123,6 @@ export default [
         "sentiment_score": 0.33550307154655457
     },
     {
-        "title": "Este supermercado de Sevilla tiene el turrón Suchard más barato",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/11/14/turron-supermercado-navidad-RSXikqXZgWeDR3H8aIQPsoO-1200x840@diario_abc.jpg",
-        "tags": [
-            "sevilla",
-            "ciudad"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/supermercado-sevilla-turron-suchard-barato-20251114125956-nts.html",
-        "date": "2025-11-14 11:59:57",
-        "sentiment_score": -0.10297699272632599
-    },
-    {
-        "title": "A la venta por 6,9 millones la casa de Brooklyn del actor de Stranger Things David Harbour",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/summum/2025/11/11/harbour-1-R1Gb6RO52uKbqgHPGaUYbxK-1200x840@diario_abc.jpg",
-        "tags": [
-            "david",
-            "harbour",
-            "actor",
-            "brooklyn",
-            "stranger",
-            "venta",
-            "things",
-            "casa",
-            "millones"
-        ],
-        "link": "https://www.abc.es/summum/living/casas/venta-millones-casa-brooklyn-actor-stranger-things-20251114122937-nt.html",
-        "date": "2025-11-14 11:29:38",
-        "sentiment_score": -0.058991938829422
-    },
-    {
-        "title": "Andalucía roza los 370.000 afiliados extranjeros, un 9,2% más que hace un año",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/11/14/1499459707-RfNZjUbmPDF2Vwe0s2zqn2N-1200x840@diario_abc.jpg",
-        "tags": [
-            "empleo",
-            "seguridad social",
-            "andalucía",
-            "inmigrantes"
-        ],
-        "link": "https://www.abc.es/sevilla/economia/andalucia-roza-370000-afiliados-extranjeros-ano-20251114122110-nts.html",
-        "date": "2025-11-14 11:23:28",
-        "sentiment_score": -0.12925609946250916
-    },
-    {
-        "title": "Otra Rosalía",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/11/14/cartas-director-1200x630(4)-U56654706577onU-1200x630@diario_abc.jpg",
-        "tags": [
-            "música",
-            "jóvenes",
-            "rosalía",
-            "discos"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-rosalia-20251114122316-nt.html",
-        "date": "2025-11-14 11:23:16",
-        "sentiment_score": -0.00851258635520935
-    },
-    {
-        "title": "El aeropuerto de Granada también da buenas noticias: 104.780 pasajeros en octubre, un 7% más que hace un año",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/11/14/aeropuerto2-Rzhy2zdcCtZmmN6vG0gcxTM-1200x840@diario_abc.jpeg",
-        "tags": [
-            "granada",
-            "andalucía",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/granada/aeropuerto-granada-buenas-noticias-104780-pasajeros-octubre-20251114120506-nts.html",
-        "date": "2025-11-14 11:08:22",
-        "sentiment_score": -0.08416011929512024
-    },
-    {
         "title": "Un desprecio intolerable al periodismo",
         "image_url": "https://imagenes.elpais.com/resizer/v2/EGQJYZKF2RFQDM55XNO6T2EEHA.jpeg?auth=f5726044875ad23f9bf09b1c0b5e97584f4f15017f1056b275792952b99e38f3&width=1200",
         "tags": [
@@ -261,104 +194,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-11-14/la-policia-desmantela-una-red-de-explotacion-sexual-de-mujeres-en-un-bloque-de-viviendas-en-arganzuela.html",
         "date": "2025-11-14 16:22:38",
         "sentiment_score": 0.046941980719566345
-    },
-    {
-        "title": "Tellado, tras las palabras de Ayuso sobre los inmigrantes: “Hay un millón de puestos que no se cubren, España necesita mano de obra”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TDVLBXTPDRCM7LLJFJ3C7BHELA.jpg?auth=bbd7a9e34ca001caed7f08e65907087979d7b872850a72cb5788557cc92bcfcb&width=1200",
-        "tags": [
-            "psoe",
-            "álvaro garcía ortiz",
-            "pp",
-            "españa",
-            "racismo",
-            "madrid",
-            "comunidad de madrid",
-            "vox",
-            "inmigración",
-            "fiscalía general estado",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/2025-11-14/tellado-tras-las-palabras-de-ayuso-sobre-los-inmigrantes-hay-un-millon-de-puestos-que-no-se-cubren-espana-necesita-mano-de-obra.html",
-        "date": "2025-11-14 13:49:30",
-        "sentiment_score": -0.8733711438253522
-    },
-    {
-        "title": "Ayuso asegura que no creará el registro de objetores del aborto y deja la decisión a los tribunales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OOKEEOXGPFL6BPXULCUH6TD37E.jpg?auth=3304e79e3fea3a48c5e97f09d9041fdb6237086aedb302bd59806819856eb38d&width=1200",
-        "tags": [
-            "derechos mujer",
-            "madrid",
-            "comunidad de madrid",
-            "aborto",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-14/ayuso-asegura-que-no-creara-el-registro-de-objetores-del-aborto-y-deja-la-decision-a-los-tribunales.html",
-        "date": "2025-11-14 12:19:06",
-        "sentiment_score": -0.28600453585386276
-    },
-    {
-        "title": "La compleja estafa inmobiliaria que ‘robó’ 1,2 millones a inversores privados con poderes notariales falsos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TFKETCAXFVCOBNHJ32QLAGU7WM.jpg?auth=e36098d87852b8b6cd444c0440bec28b4e5ca6648a4c69d32944af3d9ef43aad&width=1200",
-        "tags": [
-            "figueres",
-            "mercado inmobiliario",
-            "vivienda",
-            "mossos d'esquadra",
-            "notarios",
-            "cataluña",
-            "blanqueo capitales",
-            "inversión inmobiliaria",
-            "estafas",
-            "detenciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-14/la-compleja-estafa-inmobiliaria-que-robo-12-millones-a-inversores-privados-con-poderes-notariales-falsos.html",
-        "date": "2025-11-14 11:40:42",
-        "sentiment_score": -0.7781625222414732
-    },
-    {
-        "title": "Un hombre mata presuntamente a su padre en Barcelona e intenta suicidarse",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5U2EDTQNVFEBXFBVVX53DOS53I.jpg?auth=6ce3242ae01b521450cd880c5f4ed7a90e9f672a248dbc094505f89b2e432318&width=1200",
-        "tags": [
-            "investigación policial",
-            "homicidios",
-            "mossos d'esquadra",
-            "cataluña",
-            "metro",
-            "barcelona",
-            "parricidios",
-            "detenciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-14/un-hombre-mata-presuntamente-a-su-padre-en-barcelona-e-intenta-suicidarse.html",
-        "date": "2025-11-14 11:39:41",
-        "sentiment_score": -0.675580458715558
-    },
-    {
-        "title": "La UCO registra las sedes de Acciona en Madrid y Bilbao para recabar nueva documentación del ‘caso Ábalos’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WWNQL7245FFKZPT42VY6WLFQFA.jpg?auth=50b6fe361b7319fd7ca69d98303ca451d761247f2e5877d1c099adc239992bd8&width=1200",
-        "tags": [
-            "españa",
-            "investigación judicial",
-            "acciona",
-            "caso koldo",
-            "corrupción"
-        ],
-        "link": "https://elpais.com/espana/2025-11-14/la-uco-se-persona-en-las-sedes-de-acciona-en-madrid-y-bilbao-para-recabar-nueva-documentacion-del-caso-abalos.html",
-        "date": "2025-11-14 11:24:43",
-        "sentiment_score": 0.00354139506816864
-    },
-    {
-        "title": "El juez procesa a Íñigo Errejón por la presunta agresión sexual a la actriz Elisa Mouliaá",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/K4WSUULRVVBXXEM5Y3557U77YQ.jpg?auth=0681d8ca1668bcc935afbf99de9384803524179606e2aeeeb9fe3ad31b52c8dd&width=1200",
-        "tags": [
-            "juicios",
-            "españa",
-            "caso errejón",
-            "agresiones sexuales",
-            "íñigo errejón"
-        ],
-        "link": "https://elpais.com/espana/2025-11-14/el-juez-procesa-a-inigo-errejon-por-la-presunta-agresion-sexual-a-la-actriz-elisa-mouliaa.html",
-        "date": "2025-11-14 10:58:36",
-        "sentiment_score": -0.85169493034482
     },
     {
         "title": "Ayuso se ausenta por sorpresa del estreno de la NFL en Madrid",
@@ -624,36 +459,6 @@ export default [
         "sentiment_score": 0.8695318149402738
     },
     {
-        "title": "Nueva etapa para Tokischa: la cantante se lanzó una de las mayores aventuras que se hacen en Las Vegas",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "celebridades",
-            "tendencia"
-        ],
-        "link": "https://2001online.com/farandula/nueva-etapa-para-tokischa-la-cantante-se-lanzo-una-de-las-mayores-aventuras-que-se-hacen-en-las-vegas-202511149580",
-        "date": "2025-11-14 13:58:00",
-        "sentiment_score": 0.6946455836296082
-    },
-    {
-        "title": "Holiday Lighting gratis en Downtown Miami: descubra qué actividades ofrece la celebración navideña este 14 de noviembre",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "diario 2001 eeuu",
-            "estados unidos",
-            "usa",
-            "encendido del árbol de navidad en downtown miami",
-            "miami",
-            "eeuu",
-            "downtown miami",
-            "evento navideño gratis en downtown miami",
-            "holiday lighting",
-            "california"
-        ],
-        "link": "https://2001online.com/usa/internacionales/holiday-lighting-gratis-en-downtown-miami-descubra-que-actividades-ofrece-la-celebracion-navidena-este-14-de-noviembre-202511149500",
-        "date": "2025-11-14 13:50:00",
-        "sentiment_score": 0.5087130591273308
-    },
-    {
         "title": "Estos son los ganadores del sorteo de Eurojackpot de este 14 de noviembre",
         "image_url": "https://www.infobae.com/resizer/v2/Q7FNQIJEBVFCBNCYSSGYYQFK6A.jpg?auth=d0a8f05dacad4e8a73566665ba986c216d1358565751f754ffaeb9d98bf2f3be&height=1080&smart=true&width=1920",
         "tags": [
@@ -793,62 +598,6 @@ export default [
         "sentiment_score": 0.33550290763378143
     },
     {
-        "title": "A la venta por 6,9 millones la casa de Brooklyn del actor de Stranger Things David Harbour",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/summum/2025/11/11/harbour-1-R1Gb6RO52uKbqgHPGaUYbxK-1200x840@diario_abc.jpg",
-        "tags": [
-            "david",
-            "harbour",
-            "actor",
-            "brooklyn",
-            "stranger",
-            "venta",
-            "things",
-            "casa",
-            "millones"
-        ],
-        "link": "https://www.abc.es/summum/living/casas/venta-millones-casa-brooklyn-actor-stranger-things-20251114122937-nt.html",
-        "date": "2025-11-14 11:29:38",
-        "sentiment_score": -0.05899187922477722
-    },
-    {
-        "title": "Andalucía roza los 370.000 afiliados extranjeros, un 9,2% más que hace un año",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/11/14/1499459707-RfNZjUbmPDF2Vwe0s2zqn2N-1200x840@diario_abc.jpg",
-        "tags": [
-            "empleo",
-            "seguridad social",
-            "andalucía",
-            "inmigrantes"
-        ],
-        "link": "https://www.abc.es/sevilla/economia/andalucia-roza-370000-afiliados-extranjeros-ano-20251114122110-nts.html",
-        "date": "2025-11-14 11:23:28",
-        "sentiment_score": -0.12925602495670319
-    },
-    {
-        "title": "Otra Rosalía",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2025/11/14/cartas-director-1200x630(4)-U56654706577onU-1200x630@diario_abc.jpg",
-        "tags": [
-            "música",
-            "jóvenes",
-            "rosalía",
-            "discos"
-        ],
-        "link": "https://www.abc.es/opinion/cartas-al-director/cartas-al-director-rosalia-20251114122316-nt.html",
-        "date": "2025-11-14 11:23:16",
-        "sentiment_score": -0.008512556552886963
-    },
-    {
-        "title": "El aeropuerto de Granada también da buenas noticias: 104.780 pasajeros en octubre, un 7% más que hace un año",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/11/14/aeropuerto2-Rzhy2zdcCtZmmN6vG0gcxTM-1200x840@diario_abc.jpeg",
-        "tags": [
-            "granada",
-            "andalucía",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/granada/aeropuerto-granada-buenas-noticias-104780-pasajeros-octubre-20251114120506-nts.html",
-        "date": "2025-11-14 11:08:22",
-        "sentiment_score": -0.08416016399860382
-    },
-    {
         "title": "Zelenski visitará el Congreso este martes durante su viaje oficial a España",
         "image_url": "https://imagenes.elpais.com/resizer/v2/RAX6VB4QPJBUJNJBWSA6NKIHP4.jpg?auth=6093ce6f84d3419a6631b9bf0d0d2b9ec3777165a559d615a9a779b4050b63f1&width=1200",
         "tags": [
@@ -971,59 +720,6 @@ export default [
         "link": "https://elpais.com/espana/madrid/2025-11-14/la-policia-desmantela-una-red-de-explotacion-sexual-de-mujeres-en-un-bloque-de-viviendas-en-arganzuela.html",
         "date": "2025-11-14 16:22:38",
         "sentiment_score": 0.04694201052188873
-    },
-    {
-        "title": "Tellado, tras las palabras de Ayuso sobre los inmigrantes: “Hay un millón de puestos que no se cubren, España necesita mano de obra”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TDVLBXTPDRCM7LLJFJ3C7BHELA.jpg?auth=bbd7a9e34ca001caed7f08e65907087979d7b872850a72cb5788557cc92bcfcb&width=1200",
-        "tags": [
-            "psoe",
-            "álvaro garcía ortiz",
-            "pp",
-            "españa",
-            "racismo",
-            "madrid",
-            "comunidad de madrid",
-            "vox",
-            "inmigración",
-            "fiscalía general estado",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/2025-11-14/tellado-tras-las-palabras-de-ayuso-sobre-los-inmigrantes-hay-un-millon-de-puestos-que-no-se-cubren-espana-necesita-mano-de-obra.html",
-        "date": "2025-11-14 13:49:30",
-        "sentiment_score": -0.8733710134401917
-    },
-    {
-        "title": "Ayuso asegura que no creará el registro de objetores del aborto y deja la decisión a los tribunales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OOKEEOXGPFL6BPXULCUH6TD37E.jpg?auth=3304e79e3fea3a48c5e97f09d9041fdb6237086aedb302bd59806819856eb38d&width=1200",
-        "tags": [
-            "derechos mujer",
-            "madrid",
-            "comunidad de madrid",
-            "aborto",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-14/ayuso-asegura-que-no-creara-el-registro-de-objetores-del-aborto-y-deja-la-decision-a-los-tribunales.html",
-        "date": "2025-11-14 12:19:06",
-        "sentiment_score": -0.2860044725239277
-    },
-    {
-        "title": "La compleja estafa inmobiliaria que ‘robó’ 1,2 millones a inversores privados con poderes notariales falsos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TFKETCAXFVCOBNHJ32QLAGU7WM.jpg?auth=e36098d87852b8b6cd444c0440bec28b4e5ca6648a4c69d32944af3d9ef43aad&width=1200",
-        "tags": [
-            "figueres",
-            "mercado inmobiliario",
-            "vivienda",
-            "mossos d'esquadra",
-            "notarios",
-            "cataluña",
-            "blanqueo capitales",
-            "inversión inmobiliaria",
-            "estafas",
-            "detenciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-14/la-compleja-estafa-inmobiliaria-que-robo-12-millones-a-inversores-privados-con-poderes-notariales-falsos.html",
-        "date": "2025-11-14 11:40:42",
-        "sentiment_score": -0.7781626023352146
     },
     {
         "title": "Las mejores series de Netflix Colombia para ver hoy mismo",
@@ -8346,5 +8042,237 @@ export default [
         "link": "https://www.informe21.com/post/semana-deportiva-la-vinotinto-regresa-a-casa",
         "date": "2025-11-16 13:54:47",
         "sentiment_score": -0.012520328164100647
+    },
+    {
+        "title": "A qué hora juega Brasil vs Túnez: partido amistoso en París por fecha FIFA 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/NO2LXESS4NEH3KRRS3KZADMOHA.jpg?auth=6bce8f4e6f30e352de306babd162376de0fcdaf4966dd26898abb3c8f365e02d&height=1080&smart=true&width=1920",
+        "tags": [
+            "peru-deportes",
+            "selección de brasil",
+            "selección de túnez"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/11/18/a-que-hora-juega-brasil-vs-tunez-partido-amistoso-paris-fecha-fifa-2025-horario/",
+        "date": "2025-11-18 02:11:54",
+        "sentiment_score": -0.030732907354831696
+    },
+    {
+        "title": "Reflexiones en el día de la retirada de Michael Burry",
+        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744016214_259970141_1706x960.jpg",
+        "tags": [
+            "tribunas de opinión",
+            "opinión",
+            "mercados financieros",
+            "inversión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20251118/reflexiones-dia-retirada-michael-burry/1003744017745_12.html",
+        "date": "2025-11-18 01:33:08",
+        "sentiment_score": -0.2794329449534416
+    },
+    {
+        "title": "Montero ofrecerá a cada CCAA una financiación 'a la carta' en plena precampaña y castigará a las que bajen impuestos",
+        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017600_259987466_1706x960.jpg",
+        "tags": [
+            "financiación autonómica",
+            "economía",
+            "ministerio de hacienda y función pública",
+            "iva",
+            "irpf"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/20251118/montero-ofrecera-ccaa-financiacion-carta-plena-precampana-castigara-bajen-impuestos/1003744017591_0.html",
+        "date": "2025-11-18 01:33:05",
+        "sentiment_score": -0.8134327819570899
+    },
+    {
+        "title": "Alberto Nadal: \"La financiación autonómica no puede consistir en que unas regiones consigan ventajas que otras no logren\"",
+        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017581_259987211_1706x960.jpg",
+        "tags": [
+            "partido popular (pp)",
+            "región",
+            "alberto nadal",
+            "pensiones"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20251118/alberto-nadal-financiacion-autonomica-no-puede-consistir-regiones-consigan-ventajas-logren/1003744016860_0.html",
+        "date": "2025-11-18 01:32:56",
+        "sentiment_score": 0.03258585184812546
+    },
+    {
+        "title": "La política española ya no es cosa de dos: retos y oportunidades del Congreso más fragmentado",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/30/2025103021483280283.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/politica-espanola-es-cosa-dos-retos-oportunidades-congreso-mas-fragmentado/20251118021715363502.html",
+        "date": "2025-11-18 01:17:15",
+        "sentiment_score": -0.7033792249858379
+    },
+    {
+        "title": "El desconocido palacio oculto en la Casa de Campo que fascinó a los Austrias: su nueva vida tras casi 20 años cerrado",
+        "image_url": "https://s3.elespanol.com/2025/11/17/madrid/1003744017642_259987923_1706x960.jpg",
+        "tags": [
+            "casa de campo",
+            "madrid capital",
+            "felipe ii",
+            "ayuntamiento de madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20251118/desconocido-palacio-oculto-casa-campo-fascino-austrias-nueva-vida-anos-cerrado/1003744017296_0.html",
+        "date": "2025-11-18 01:00:00",
+        "sentiment_score": 0.22012252360582352
+    },
+    {
+        "title": "Felipe VI, ante una semana histórica: de la imposición del Toisón de Oro a su madre al reencuentro con sus dos hijas",
+        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744009505_259880760_1706x960.jpg",
+        "tags": [
+            "sofía de borbón ortiz",
+            "reina letizia",
+            "reina sofía",
+            "leonor de borbón ortiz",
+            "felipe vi",
+            "casas reales"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20251118/felipe-vi-semana-historica-imposicion-toison-oro-madre-reencuentro-hijas/1003744016624_0.html",
+        "date": "2025-11-18 00:33:00",
+        "sentiment_score": -0.055490732192993164
+    },
+    {
+        "title": "Alemao y Adrián López: dos exazules amenazan al Real Oviedo",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/11/17/110472117-khzC--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/alemao-adrian-lopez-dos-exazules-amenazan-real-20251117005939-nt.html",
+        "date": "2025-11-17 23:59:40",
+        "sentiment_score": -0.3150472268462181
+    },
+    {
+        "title": "Cupón Diario de la Once: jugada ganadora y resultado del último sorteo",
+        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
+        "tags": [
+            "cupón diario",
+            "noticias",
+            "españa-loterías"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/17/cupon-diario-de-la-once-jugada-ganadora-y-resultado-del-ultimo-sorteo/",
+        "date": "2025-11-17 23:15:29",
+        "sentiment_score": 0.35981351137161255
+    },
+    {
+        "title": "El éxito de la NFL afianza la capital de cara a la Fórmula 1 y el Mundial de fútbol: \"Madrid ha sacado músculo\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/8195674c40ad44c3e6856531bcf8fb15/crop/86x36/726x676/f/image/jpeg/assets/multimedia/imagenes/2022/03/21/16478803395824.jpg",
+        "tags": [
+            "nfl",
+            "estadio santiago bernabéu",
+            "artículos carlos guisasola",
+            "comunidad de madrid",
+            "deportes",
+            "artículos vicente coll",
+            "política",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/11/18/691b657bfdddff174b8b4571.html",
+        "date": "2025-11-17 23:06:39",
+        "sentiment_score": 0.8414645418524742
+    },
+    {
+        "title": "El retrato de Dorian Gray",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dorian",
+            "retrato",
+            "gray"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/retrato-dorian-gray_0_2005253580.html",
+        "date": "2025-11-18 02:07:15",
+        "sentiment_score": -0.070269376039505
+    },
+    {
+        "title": "Catherine Vautrin, ministra francesa de las Fuerzas Armadas: \"Para ser respetados, tenemos que ser temidos\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/cd88a681db4496134ff64fbbae9bdfde/crop/20x0/794x774/f/image/jpeg/assets/multimedia/imagenes/2022/03/10/16469128631664.jpg",
+        "tags": [
+            "artículos carlos fresneda",
+            "francia"
+        ],
+        "link": "https://www.elmundo.es/internacional/2025/11/18/691b4f1ce4d4d8fa428b459f.html",
+        "date": "2025-11-18 01:32:59",
+        "sentiment_score": 0.4057399556040764
+    },
+    {
+        "title": "Óscar Puente promete el AVE a 350 km/h, pero Renfe sólo tiene 26 trenes que pueden circular a esa velocidad",
+        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017007_259980289_1706x960.jpg",
+        "tags": [
+            "trenes",
+            "observatorio de la movilidad",
+            "renfe"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20251118/oscar-puente-promete-ave-kmh-renfe-solo-trenes-pueden-circular-velocidad/1003744016912_0.html",
+        "date": "2025-11-18 01:32:57",
+        "sentiment_score": -0.6246995441615582
+    },
+    {
+        "title": "El AVE aterriza en el cinturón rojo: nueva estación en Parla para el beneficio de seis millones de madrileños",
+        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017420_259985147_1706x960.jpg",
+        "tags": [
+            "trenes",
+            "comunidad de madrid",
+            "ave",
+            "política"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251118/ave-aterriza-cinturon-rojo-nueva-estacion-parla-beneficio-millones-madrilenos/1003744016779_0.html",
+        "date": "2025-11-18 01:00:00",
+        "sentiment_score": 0.3294778876006603
+    },
+    {
+        "title": "El misterio de la foto falsa de Robert Capa, la más famosa de la Guerra Civil Española",
+        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017653_259988126_1706x960.jpg",
+        "tags": [
+            "guerra",
+            "fotografía",
+            "arte"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20251118/misterio-foto-falsa-robert-capa-famosa-guerra-civil-espanola/1003744017152_0.html",
+        "date": "2025-11-18 00:55:00",
+        "sentiment_score": 0.18885718286037445
+    },
+    {
+        "title": "Cádiz y su provincia presumen de proyecto para relanzar a \"un Cádiz de Cádiz, pensando en Cádiz, que vuelva a Primera con bases sólidas\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/18/691bb9b2b5883.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/cadiz-provincia-presumen-proyecto-relanzar-cadiz-cadiz-pensando-cadiz-vuelva-primera-bases-solidas-20251118_3253950.html",
+        "date": "2025-11-18 00:53:16",
+        "sentiment_score": -0.012761592864990234
+    },
+    {
+        "title": "Puente reta a Talgo y CAF a vender trenes más rápidos",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/7ae3b1117560be2bf1f32cad7ef75e7b/crop/29x83/1770x1244/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/18/17634269943508.jpg",
+        "tags": [
+            "transporte y turismo>"
+        ],
+        "link": "https://www.expansion.com/empresas/transporte/2025/11/18/691bc0a6468aebb47e8b45c4.html",
+        "date": "2025-11-18 00:51:47",
+        "sentiment_score": 0.4804683029651642
+    },
+    {
+        "title": "Colonial negocia comprar la sede de Naturgy en Madrid",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/bf9d36892d87a825dee62b224506ca5c/crop/22x0/1000x652/f/webp/assets/multimedia/imagenes/2025/11/17/17634094789904.png",
+        "tags": [
+            "inmobiliario y construcción>",
+            "artículos rebeca arroyo>",
+            "empresas>",
+            "mercado inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/11/18/691b7de7e5fdea374e8b459e.html",
+        "date": "2025-11-18 00:32:10",
+        "sentiment_score": -0.03000829368829727
+    },
+    {
+        "title": "«No hay que lanzar las campanas al vuelo con Nico, aún no ha hecho nada»",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/11/17/110467707-kR8F--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "sporting de gijón"
+        ],
+        "link": "https://www.elcomercio.es/sporting/abuelo-juvenil-nico-riestra-tras-debut-sporting-20251117010545-nt.html",
+        "date": "2025-11-18 00:05:46",
+        "sentiment_score": 0.261147353798151
     }
 ];
