@@ -1,218 +1,5 @@
 export default [
     {
-        "title": "La ruta por la costa de Galicia ideal para visitar un santuario del siglo XII y pueblos pesqueros",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/15/ruta-galicia-k3fC-U701940421323pCB-1200x840@diario_abc.jpg",
-        "tags": [
-            "galicia",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/galicia/ruta-costa-galicia-ideal-visitar-santuario-siglo-20251115073000-nt.html",
-        "date": "2025-11-15 06:30:01",
-        "sentiment_score": -0.002807706594467163
-    },
-    {
-        "title": "Los enganches ilegales por cultivo de droga en Sevilla consumen la energía anual de 10.000 hogares",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/11/14/Guardiamarihuana-R5BiHeDTEvhiWWsAo8UsVoK-1200x840@diario_abc.jpg",
-        "tags": [
-            "sevilla",
-            "ciudad"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/enganches-ilegales-droga-crecen-ciento-ano-sevilla-20251115185712-nts.html",
-        "date": "2025-11-15 06:07:35",
-        "sentiment_score": -0.6769100949168205
-    },
-    {
-        "title": "La infancia de Alexander, hijo de Corina Larsen, en El Pardo: barbacoas y muy unido al Emérito",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/corinna-hijo.jpeg",
-        "tags": [
-            "gente",
-            "rey juan carlos",
-            "celebrities",
-            "zarzuela",
-            "corinna larsen"
-        ],
-        "link": "https://theobjective.com/gente/2025-11-15/infancia-alexander-hijo-corina-larsen-zarzuela/",
-        "date": "2025-11-15 06:30:00",
-        "sentiment_score": 0.3510761857032776
-    },
-    {
-        "title": "Entrevista a Daniel Onega: su récord que nadie pudo superar, los recuerdos de River y qué le falta al equipo de Gallardo",
-        "image_url": "https://www.infobae.com/resizer/v2/NH6D4GCNA5G4NISL2XPYJINA3Y.jpg?auth=346b77bc573bd7b142bc4402914ad8d50dacf9f57dae056fcc98e65ac2c907d1&height=1080&smart=true&width=1920",
-        "tags": [
-            "daniel onega",
-            "marcelo gallardo",
-            "argentina-deportes",
-            "river plate",
-            "entrevistas"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/15/entrevista-a-daniel-onega-su-record-que-nadie-pudo-superar-los-recuerdos-de-river-y-que-le-falta-al-equipo-de-gallardo/",
-        "date": "2025-11-15 06:06:24",
-        "sentiment_score": 0.7132684141397476
-    },
-    {
-        "title": "Parón de noviembre: al Espanyol le han sentado bien las fechas FIFA (a diferencia del Sevilla) pero el futuro sigue lleno de incógnitas",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/manolo-gonzalez-espanyol-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/paron-noviembre-espanyol-sevilla-futuro-garagarza-mercado-pace/",
-        "date": "2025-11-15 06:00:39",
-        "sentiment_score": -0.1108713150024414
-    },
-    {
-        "title": "El pulso creativo de València: un viaje por su arquitectura más actual",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/10/6911d9575cc3b.r_d.3166-2216-740.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/viajes/20251115/11248247/pulso-creativo-valencia-viaje-arquitectura-mas-actual.html",
-        "date": "2025-11-15 06:00:00",
-        "sentiment_score": 0.28393181413412094
-    },
-    {
-        "title": "Eduardo Sacheri presenta en Zaragoza su nueva novela: \"Uno de los grandes riesgos de la paz es olvidar lo frágil que es\"",
-        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744014828_259952450_1706x960.jpg",
-        "tags": [
-            "zaragoza",
-            "escritores",
-            "cultura",
-            "eduardo sacheri"
-        ],
-        "link": "https://www.elespanol.com/aragon/cultura/20251115/eduardo-sacheri-presenta-zaragoza-nueva-novela-grandes-riesgos-paz-olvidar-fragil/1003744014702_0.html",
-        "date": "2025-11-15 06:00:00",
-        "sentiment_score": -0.15437905490398407
-    },
-    {
-        "title": "Visitas gratuitas al Banco de España: abre sus puertas y así puedes conseguir entrada",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/04/01/2025040109471366433.jpg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/dinero/visitas-gratuitas-banco-espana-abre-puertas-asi-puedes-conseguir-entrada/20251115192933988619.html",
-        "date": "2025-11-15 05:45:02",
-        "sentiment_score": 0.25201012194156647
-    },
-    {
-        "title": "El sobrecoste de comer bien: la cesta de la compra saludable es hasta un 20% más cara",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/09/25/68d4ff3b92245.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/sobrecoste-comer-bien-cesta-compra-saludable-es-hasta-un-20-mas-cara_6897428_0.html",
-        "date": "2025-11-15 06:20:00",
-        "sentiment_score": 0.15223554521799088
-    },
-    {
-        "title": "El gaditano Juvencio Maeztu, el primero no sueco que pilotará Ikea",
-        "image_url": "https://static1.ara.cat/clip/2783bcb8-9ba5-48bf-96ce-909453f95828_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ikea",
-            "gaditano",
-            "sueco",
-            "maeztu",
-            "pilotara",
-            "juvencio",
-            "no"
-        ],
-        "link": "https://es.ara.cat/economia/gaditano-juvencio-maeztu-no-sueco-pilotara-ikea_1_5562458.html",
-        "date": "2025-11-15 06:02:53",
-        "sentiment_score": 0.04154980182647705
-    },
-    {
-        "title": "Cómo conseguir que los hijos ayuden a casa",
-        "image_url": "https://static1.ara.cat/clip/21f1ed5a-5d50-4a6c-9b23-cedfc216dcee_16-9-aspect-ratio_default_0_x2931y997.jpg",
-        "tags": [
-            "ayuden",
-            "casa",
-            "hijos"
-        ],
-        "link": "https://es.ara.cat/criaturas/hijos-ayuden-casa_1_5562450.html",
-        "date": "2025-11-15 06:00:51",
-        "sentiment_score": 0.031166717410087585
-    },
-    {
-        "title": "Claudi Camps, psiquiatra: \"Menos helicópteros y más hogueras\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5cc7a67c-ec8a-49a4-9536-c8cf2309f297_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "salud mental",
-            "familia",
-            "educación",
-            "psicología",
-            "psiquiatría"
-        ],
-        "link": "https://www.elperiodico.com/es/ser-feliz/20251115/claudi-camps-psiquiatra-helicopteros-hogueras-123631190",
-        "date": "2025-11-15 06:00:43",
-        "sentiment_score": 0.15259073674678802
-    },
-    {
-        "title": "Una mujer de 60 años reclama en los juzgados que es nieta del político sevillano Adolfo Rodríguez Jurado",
-        "image_url": "https://static.grupojoly.com/clip/ba3f8e97-b637-47f3-9600-2280372b82d5_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/mujer-reclama-juzgados-nieta-politico-sevillano_0_2005238469.html",
-        "date": "2025-11-15 06:00:41",
-        "sentiment_score": -0.7694627717137337
-    },
-    {
-        "title": "Pablo Berruezo, el joven español que está dando la vuelta al mundo a vela solo: \"En el tramo más duro tenía mínimo dos tormentas diarias\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/14/69170f88ef2de.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/viajes/actualidad/pablo-berruezo-joven-espanol-dando-vuelta-mundo-vela-solitario_6881134_0.html",
-        "date": "2025-11-15 06:00:00",
-        "sentiment_score": 0.21425102651119232
-    },
-    {
-        "title": "Los restaurantes favoritos de Rosalía en Barcelona para comer de 'lux'",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f1b2af89-fd81-4cf5-ab83-8492de46d3e4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dónde comer hoy",
-            "rosalía",
-            "gastronomía",
-            "restaurantes barcelona",
-            "restaurante",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251115/restaurantes-favoritos-rosalia-barcelona-11963041",
-        "date": "2025-11-15 06:00:00",
-        "sentiment_score": -0.0660119354724884
-    },
-    {
-        "title": "David Bisbal arranca su gira ‘Todo es posible en Navidad’ con un concierto en Almería",
-        "image_url": "https://static.grupojoly.com/clip/a4623d9f-aba7-4b93-bbbd-7909aad8e586_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/david-bisbal-arranca-gira-posible_0_2005238330.html",
-        "date": "2025-11-15 05:59:13",
-        "sentiment_score": -0.12380918487906456
-    },
-    {
-        "title": "Miguel Poveda llega a Roquetas de Mar con su nuevo disco ‘El árbol de la alegría’",
-        "image_url": "https://static.grupojoly.com/clip/b1a677d0-afe1-4f2c-b2a8-b074c8033535_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/miguel-poveda-llega-roquetas-mar_0_2005238441.html",
-        "date": "2025-11-15 05:53:09",
-        "sentiment_score": 0.777382081374526
-    },
-    {
-        "title": "La mafia de las habitaciones realquiladas crece en Barcelona: continúan apareciendo anuncios de subalquiler a estudiantes en portales inmobiliarios",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2df7c977-dcaf-4c72-b047-10df04360bc0_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "apartamentos turísticos",
-            "mafia",
-            "barcelona",
-            "vivienda"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20251115/mafia-subalquila-habitaciones-pierde-piso-barceloneta-capta-otro-casc-antic-123708181",
-        "date": "2025-11-15 05:45:00",
-        "sentiment_score": -0.8025605976581573
-    },
-    {
         "title": "Este es el ingrediente que recomiendan tres chefs para que la tortilla francesa quede más brillante y sabrosa",
         "image_url": "https://www.infobae.com/resizer/v2/47WMDTPHBJGWXMDGK67P4MP4HI.png?auth=5a3d3e4ea0ed82b94dad8f1710db5dec437356d3c9cf355bc0910ac690c2145c&height=1024&smart=true&width=1536",
         "tags": [
@@ -485,32 +272,6 @@ export default [
         "link": "https://elpais.com/espana/2025-11-15/el-octogenario-acusado-de-acabar-con-la-vida-de-encarnita-polo-bajo-custodia-policial.html",
         "date": "2025-11-15 11:14:23",
         "sentiment_score": -0.7172820828855038
-    },
-    {
-        "title": "Casas vacías o el antiguo piso del maestro: el Govern impulsa la rehabilitación de viviendas en la Cataluña rural",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LILXYGGPXRHBTJSBPAPGFECFRM.jpg?auth=76c896ee818f73292bc087c6c72bfa3158cfca09f627bef3ef635df429e31efd&width=1200",
-        "tags": [
-            "población",
-            "legislación autonómica",
-            "política municipal",
-            "servicios públicos",
-            "despoblación",
-            "salvador illa",
-            "sílvia paneque",
-            "vivienda",
-            "legislación",
-            "cataluña",
-            "viviendas alquiler",
-            "rehabilitación edificios",
-            "población rural",
-            "pueblos deshabitados",
-            "viviendas vacías",
-            "rehabilitación vivienda",
-            "generalitat cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-15/casas-vacias-o-el-antiguo-piso-del-maestro-el-govern-impulsa-la-rehabilitacion-de-viviendas-en-la-cataluna-rural.html",
-        "date": "2025-11-15 09:15:45",
-        "sentiment_score": 0.3146529495716095
     },
     {
         "title": "El Barcelona golea al Real Madrid y consolida su liderato en la Liga F",
@@ -6557,5 +6318,235 @@ export default [
         "link": "https://www.laopiniondezamora.es/cultura/2025/11/18/fallece-78-anos-julio-fernandez-123868484.html",
         "date": "2025-11-18 17:02:12",
         "sentiment_score": -0.02234385907649994
+    },
+    {
+        "title": "Resumen Brasil-Túnez: La 'Era Ancelotti' sigue dejando dudas (1-1)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/18/image-1057caeb-9a8c-4398-b4bb-577f5f2d98fc-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.eurosport.es/futbol/amistosos/2025/brasil-tunez-video-resumen-resultado-goles-goleadores-y-mejores-momentos-vinicius-estevao-lesion-militaohoy_vid60037889/video.shtml",
+        "date": "2025-11-18 22:13:42",
+        "sentiment_score": -0.8775185123085976
+    },
+    {
+        "title": "La Roja prolonga una racha mundialista que solo superan Brasil, Alemania y Argentina",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/11/18/fotolead-mundiales840-kj7F-U240270845003AFE-1200x840@RC.jpg",
+        "tags": [
+            "alemania",
+            "mundialista",
+            "solo",
+            "argentina",
+            "roja",
+            "superan",
+            "racha",
+            "brasil",
+            "prolonga"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/seleccion-espanola/roja-prolonga-racha-mundialista-20251118190833-ntrc.html",
+        "date": "2025-11-18 22:08:40",
+        "sentiment_score": 0.17158204317092896
+    },
+    {
+        "title": "Horario y dónde ver por TV y online el Arsenal-Real Madrid de la Champions Femenina",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/11/image-87f74e85-f2b4-46db-bea1-b01e1deee320-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "women's champions league 2025-2026 (w)"
+        ],
+        "link": "https://www.eurosport.es/futbol/champions-league-femenina/2025-2026/horario-donde-ver-tv-online-arsenal-real-madrid-champions-femenina_sto23242354/story.shtml",
+        "date": "2025-11-18 22:02:17",
+        "sentiment_score": 0.11977570131421089
+    },
+    {
+        "title": "El rey emérito agradece a los que le apoyaron hace 50 años y pide lo mismo para Felipe VI",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/11/05/el-rey-emerito-juan-carlos-i-en-o-grove-3.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2025/11/18/rey-emerito-agradece-apoyaron-hace-50-anos-pide-mismo-para-felipe-vi-1871583.html",
+        "date": "2025-11-18 21:55:39",
+        "sentiment_score": 0.4197476953268051
+    },
+    {
+        "title": "La Guardia Civil encuentra el dinero de Santos Cerdán y estaba delante de nuestras narices",
+        "image_url": "https://phantom-elmundo.uecdn.es/90a295bc5e89e3ec24bd97a6ac4339e5/crop/436x55/691x310/f/image/jpeg/assets/multimedia/imagenes/2022/01/31/16436535939003.jpg",
+        "tags": [
+            "artículos francisco pascual",
+            "josé luis ábalos",
+            "santos cerdán",
+            "psoe",
+            "koldo garcía",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/18/691c9a2121efa0467a8b4570.html",
+        "date": "2025-11-18 21:49:05",
+        "sentiment_score": -0.7258544564247131
+    },
+    {
+        "title": "Españoles y turcos olvidan pretéritas batallas y conviven en la Cartuja",
+        "image_url": "https://static.grupojoly.com/clip/0c9c9c84-d5fe-42d5-9920-c903f6e56428_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "selección española"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/espanoles-turcos-olvidan-preteritas-batallas_0_2005259360.html",
+        "date": "2025-11-18 21:46:10",
+        "sentiment_score": -0.6734045073390007
+    },
+    {
+        "title": "Militao abandona lesionado el Brasil - Túnez y saltan las alarmas en el Real Madrid",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/18/691ce0f8938db.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/militao-abandona-lesionado-brasil-tunez-saltan-las-alarmas-real-madrid_6899655_0.html",
+        "date": "2025-11-18 21:19:25",
+        "sentiment_score": -0.8837579032406211
+    },
+    {
+        "title": "La selección española convoca al cacereño Álex Reyes",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/11/18/Alex-R41NLZyDFpN2KsOYlQ4cVkO-1200x840@Hoy.jpg",
+        "tags": [
+            "espanola",
+            "reyes",
+            "cacereno",
+            "alex",
+            "convoca",
+            "seleccion"
+        ],
+        "link": "https://www.hoy.es/deportes/baloncesto/seleccion-espanola-convoca-cacereno-alex-reyes-20251118215707-nt.html",
+        "date": "2025-11-18 21:03:02",
+        "sentiment_score": 0.00025482475757598877
+    },
+    {
+        "title": "Meta gana su juicio antimonopolio... gracias a Tik Tok",
+        "image_url": "https://static.grupojoly.com/clip/a47cbaf0-3fc4-4872-97c8-6f8dd6051dbf_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "juicio",
+            "antimonopolio",
+            "meta",
+            "gracias",
+            "tiktok",
+            "gana"
+        ],
+        "link": "https://www.diariodejerez.es/tecnologia/meta-gana-juicio-antimonopolio-gracias-tiktok_0_2005260084.html",
+        "date": "2025-11-18 22:19:35",
+        "sentiment_score": -0.7954425327479839
+    },
+    {
+        "title": "Detenido tras asesinar a su propia madre al tirarla por el balcón de su piso",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/02/08/2025020818174985133.jpg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://www.clm24.es/articulo/sucesos/detenido-asesinar-madre-tirarla-balcon-vivienda/20251118231417464367.html",
+        "date": "2025-11-18 22:14:17",
+        "sentiment_score": -0.6858139894902706
+    },
+    {
+        "title": "Tras la clasificación de España al Mundial, cuándo y dónde se jugaría la Finalíssima contra Argentina",
+        "image_url": "https://www.infobae.com/resizer/v2/JAW3CNODNNH2RM6BYTUDG2D4DE.jpg?auth=31a72ce0b7412cbce3fc5ffc3feb0198fe9cf7d179a68ba7cb1b7e555659d451&height=1080&smart=true&width=1920",
+        "tags": [
+            "selección argentina",
+            "finalíssima",
+            "selección de españa",
+            "lamine yamal",
+            "deportes-argentina",
+            "lionel messi"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/18/tras-la-clasificacion-de-espana-al-mundial-cuando-y-donde-se-jugaria-la-finalissima-contra-argentina/",
+        "date": "2025-11-18 22:02:59",
+        "sentiment_score": 0.10671509802341461
+    },
+    {
+        "title": "Daniel Muñoz sería el fichaje bomba de un histórico equipo de Europa: aparecería en su carpeta de opciones",
+        "image_url": "https://www.infobae.com/resizer/v2/X5MTKS36HFGYHEELM7XXYVCZII.JPG?auth=e60b8910da4575659aab0eb731628fa59179bf0394ca4ad995ad0ad86be2d85e&height=1568&smart=true&width=2787",
+        "tags": [
+            "premier league",
+            "crystal palace",
+            "daniel muñoz barcelona",
+            "mercado de fichajes",
+            "selección colombia",
+            "fc barcelona",
+            "daniel muñoz",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/11/18/daniel-munoz-seria-el-fichaje-bomba-de-un-historico-equipo-de-europa-apareceria-en-su-carpeta-de-opciones/",
+        "date": "2025-11-18 21:59:02",
+        "sentiment_score": 0.49637772887945175
+    },
+    {
+        "title": "Tras filtrarse un vídeo: Un giro dio el caso del policía asesinado en Anzoátegui",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-3.59.49-PM.jpeg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://elsiglo.com.ve/un-giro-dio-el-caso-del-policia-asesinado-en-anzoategui/",
+        "date": "2025-11-18 21:47:04",
+        "sentiment_score": -0.6705841682851315
+    },
+    {
+        "title": "España se clasifica al Mundial 2026: solo un empate con Turquía empaña un camino inmaculado",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2549226.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/espana-se-clasifica-al-mundial-2026-solo-un-empate-con-turquia-empana-un-camino-inmaculado.html",
+        "date": "2025-11-18 21:44:24",
+        "sentiment_score": 0.2657151482999325
+    },
+    {
+        "title": "Luis de la Fuente enciende la estrella más apagada del Barça de Hansi Flick: líder de la selección española",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/18/culemania/primer-equipo/1003742708562_15416547_1706x960.jpg",
+        "tags": [
+            "selección española",
+            "barça",
+            "primer equipo",
+            "hansi flick",
+            "dani olmo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251118/luis-fuente-enciende-barca-hansi-flick-seleccion/1003742708560_0.html",
+        "date": "2025-11-18 21:41:23",
+        "sentiment_score": 0.8096423763781786
+    },
+    {
+        "title": "Mireia González, contundente sobre los 541 nuevos pisos: \"Queremos una Santa Coloma donde todos puedan vivir\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/09/16/gran-barcelona/886421388_13449424_1706x960.jpg",
+        "tags": [
+            "alquiler vivienda",
+            "gran barcelona",
+            "vivienda",
+            "santa coloma de gramenet"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251118/mireia-gonzalez-contundente-nuevos-pisos-santa-coloma-queremos-ciudad-puedan-vivir/1003742705930_0.html",
+        "date": "2025-11-18 21:38:58",
+        "sentiment_score": 0.7349268682301044
+    },
+    {
+        "title": "Amado Granell: el vecino de Orihuela y Alicante que liberó a París de los nazis",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d03e7027-b287-4ae2-9734-a028ce76d817_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "españa",
+            "guerra",
+            "ayuntamiento",
+            "ugt",
+            "madrid",
+            "parís",
+            "áfrica"
+        ],
+        "link": "https://www.informacion.es/alicante/2025/11/18/amado-granell-nueve-liberacion-nazis-paris-orihuela-alicante-dv-123876826.html",
+        "date": "2025-11-18 21:38:35",
+        "sentiment_score": -0.22468678653240204
+    },
+    {
+        "title": "El Rey recuerda que el buen periodismo “no busca 'likes', ni cuotas de pantalla”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/18/691ce5145c7e1.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.lavanguardia.com/gente/20251118/11278406/rey-recuerda-buen-periodismo-busca-likes-cuotas-pantalla.html",
+        "date": "2025-11-18 21:32:23",
+        "sentiment_score": 0.10411547124385834
     }
 ];
