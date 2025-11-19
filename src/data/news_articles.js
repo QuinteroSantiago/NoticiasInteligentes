@@ -163,17 +163,6 @@ export default [
         "sentiment_score": -0.13478927314281464
     },
     {
-        "title": "XR Motos vence en la carrera de resistencia de motos eléctricas con una Zero",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/motor/2025/11/14/XRMotosEMEC2-RIYdLaoptVVHDy9XBRFFPqL-1200x840@diario_abc.jpeg",
-        "tags": [
-            "motos",
-            "motor"
-        ],
-        "link": "https://www.abc.es/motor/motos/motos-vence-carrera-resistencia-motos-electricas-zero-20251114130000-nt.html",
-        "date": "2025-11-15 12:00:01",
-        "sentiment_score": 0.07890188694000244
-    },
-    {
         "title": "La Guardia Civil investiga la muerte de un hombre y una mujer con signos de violencia en un chalé de Alpedrete",
         "image_url": "https://imagenes.elpais.com/resizer/v2/UCKRDIM25ZCWVIUDMIS257ZPAI.jpg?auth=8df0f2152a9af02b62d510cb2630b23e6d1d02861a5d2bc29ebcdad873084fc3&width=1200",
         "tags": [
@@ -203,75 +192,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-11-15/the-jayhawks-reyes-del-festival-de-quienes-no-van-a-festivales.html",
         "date": "2025-11-15 14:46:45",
         "sentiment_score": -0.1817249059677124
-    },
-    {
-        "title": "Los accidentes en la AP-7 a su paso por Tarragona se han duplicado en seis años",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KIVCEOWIMJEJDBJCXWFSICAZMI.jpg?auth=1bdd4d258bbc40319997a9c37b7f49857d58d51c0fe69849feaab99901227f02&width=1200",
-        "tags": [
-            "autopistas",
-            "autopistas del mediterráneo",
-            "cataluña",
-            "tarragona",
-            "accidentes tráfico"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-15/los-accidentes-en-la-ap-7-a-su-paso-por-tarragona-se-han-duplicado-en-seis-anos.html",
-        "date": "2025-11-15 13:00:00",
-        "sentiment_score": -0.793800538405776
-    },
-    {
-        "title": "Miles de profesores se manifiestan en Barcelona para reclamar mejoras en las condiciones laborales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/I7P6DS6P5ZHGPGBAJF3ZDU45E4.jpg?auth=fb8cfffcf7ffd3031c031cbd2f46cec52855573353f7affab3ee8990d7c59574&width=1200",
-        "tags": [
-            "sindicatos",
-            "protestas sociales",
-            "educación",
-            "enseñanza pública",
-            "cataluña",
-            "enseñanza concertada",
-            "sindicatos enseñanza",
-            "profesorado",
-            "manifestaciones"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-15/miles-de-profesores-se-manifiestan-en-barcelona-para-reclamar-mejoras-en-las-condiciones-laborales.html",
-        "date": "2025-11-15 12:39:39",
-        "sentiment_score": 0.14388996362686157
-    },
-    {
-        "title": "La ministra de Sanidad llevará a los tribunales a Ayuso por saltarse la ley con el registro de objetores al aborto",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VRZWGL4B6FFQ7MO43CONPYXGWA.jpg?auth=66bbce83378a9b80a282c01eecd152884b911950c41701b1049daeafe46c9178&width=1200",
-        "tags": [
-            "aborto",
-            "insumisión",
-            "madrid",
-            "médicos",
-            "sanidad",
-            "isabel díaz ayuso",
-            "comunidad de madrid",
-            "mónica garcía gómez",
-            "objeción conciencia",
-            "sanidad pública"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-15/la-ministra-de-sanidad-llevara-a-los-tribunales-a-ayuso-por-saltarse-la-ley-con-el-registro-de-objetores-al-aborto.html",
-        "date": "2025-11-15 11:53:18",
-        "sentiment_score": -0.8282313551753759
-    },
-    {
-        "title": "El octogenario acusado de acabar con la vida de Encarnita Polo, bajo custodia policial en un hospital psiquiátrico",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IHKZLYNAB5FKDO7RDEGT5XRJNE.jpg?auth=8b584cdcb4b65189f472a05f9c0b1ca433ed32624436398afbdaf04fdfb8382e&width=1200",
-        "tags": [
-            "sevilla",
-            "españa",
-            "ávila",
-            "investigación judicial",
-            "cantantes",
-            "muertes",
-            "sucesos",
-            "copla",
-            "actrices"
-        ],
-        "link": "https://elpais.com/espana/2025-11-15/el-octogenario-acusado-de-acabar-con-la-vida-de-encarnita-polo-bajo-custodia-policial.html",
-        "date": "2025-11-15 11:14:23",
-        "sentiment_score": -0.7172820828855038
     },
     {
         "title": "El Barcelona golea al Real Madrid y consolida su liderato en la Liga F",
@@ -6548,5 +6468,260 @@ export default [
         "link": "https://www.lavanguardia.com/gente/20251118/11278406/rey-recuerda-buen-periodismo-busca-likes-cuotas-pantalla.html",
         "date": "2025-11-18 21:32:23",
         "sentiment_score": 0.10411547124385834
+    },
+    {
+        "title": "Una idea cojonuda para la alcaldesa",
+        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "idea",
+            "alcaldesa",
+            "cojonuda"
+        ],
+        "link": "https://www.granadahoy.com/opinion/articulos/idea-cojonuda-alcaldesa_0_2005260689.html",
+        "date": "2025-11-19 02:06:40",
+        "sentiment_score": -0.06634020805358887
+    },
+    {
+        "title": "Ayuso recurre el decreto de creación de universidades de Sánchez por atentar contra la libertad de empresas",
+        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019267_260008112_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "política",
+            "pedro sánchez",
+            "universidad",
+            "isabel díaz ayuso",
+            "educación"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251119/ayuso-recurre-decreto-creacion-universidades-sanchez-atentar-libertad-empresas/1003744019250_0.html",
+        "date": "2025-11-19 01:50:25",
+        "sentiment_score": 0.19553949311375618
+    },
+    {
+        "title": "El valor de los datos personales en la era de la IA: por qué no deberíamos 'regalarlos' y para qué los quieren las tecnológicas",
+        "image_url": "https://s3.elespanol.com/2025/11/18/omicrono/tecnologia/1003744018923_260003760_1706x960.jpg",
+        "tags": [
+            "almacenamiento de datos",
+            "protección de datos",
+            "tecnología",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20251119/valor-datos-personales-ia-no-deberiamos-regalarlos-quieren-tecnologicas/1003744012831_0.html",
+        "date": "2025-11-19 01:50:08",
+        "sentiment_score": -0.3321933448314667
+    },
+    {
+        "title": "Nuga Castellana, el nuevo 'macrocomplejo' de 66.000 m2 con restaurantes, tiendas, pisos y spa ya está abierto",
+        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019181_260007130_1706x960.jpg",
+        "tags": [
+            "tiendas",
+            "restaurantes",
+            "distrito castellana norte",
+            "ocio",
+            "vivienda"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20251119/nuga-castellana-nuevo-macrocomplejo-m2-restaurantes-tiendas-pisos-spa-abierto/1003744019153_0.html",
+        "date": "2025-11-19 01:00:00",
+        "sentiment_score": 0.2727205380797386
+    },
+    {
+        "title": "El tiempo aquel en el que se fue el Caimán",
+        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019255_260007980_1706x960.jpg",
+        "tags": [
+            "franquismo",
+            "a la intemperie",
+            "francisco franco"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/blogs/a_la_intemperie/20251119/tiempo-caiman/1003744019185_12.html",
+        "date": "2025-11-19 00:55:00",
+        "sentiment_score": 0.781139999628067
+    },
+    {
+        "title": "El turismo gallego se reivindica: “En materia laboral no podemos ser vistos como un problema, somos la solución”",
+        "image_url": "https://www.economiadigital.es/galicia/wp-content/uploads/sites/3/2025/11/futurismo-mesa-redonda-1000x665.jpg",
+        "tags": [
+            "empresas",
+            "turismo",
+            "informe 'futurismo'"
+        ],
+        "link": "https://www.economiadigital.es/galicia/empresas/el-turismo-gallego-se-reivindica-en-materia-laboral-no-podemos-ser-vistos-como-un-problema-somos-la-solucion.html",
+        "date": "2025-11-19 00:54:45",
+        "sentiment_score": 0.7303771525621414
+    },
+    {
+        "title": "Las 19 personas que ostentan el Toisón de Oro y por qué la reina Sofía es una excepción: del rey Juan Carlos a Nicolás Sarkozy",
+        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744018971_260004200_1706x960.jpg",
+        "tags": [
+            "reina sofía",
+            "casa real",
+            "casas reales",
+            "felipe vi"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20251119/personas-ostentan-toison-oro-reina-sofia-excepcion-rey-juan-carlos-nicolas-sarkozy/1003744018420_0.html",
+        "date": "2025-11-19 00:33:00",
+        "sentiment_score": 0.05637581646442413
+    },
+    {
+        "title": "Leguina gana, Cerdán chapotea",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2021/10/21/61713c4504b76.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20251119/leguina-gana-cerdan-chapotea_356530.html",
+        "date": "2025-11-19 00:30:00",
+        "sentiment_score": -0.4309297427535057
+    },
+    {
+        "title": "Vuelos demorados y cancelados en el AICM este 18 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/CMVDXZ7HBNDMZAW7GUGISD32D4.jpg?auth=fd780efd04da6bc6657766960a77be0fdc35bc06a966a2e995d067f0537c0450&height=1080&smart=true&width=1920",
+        "tags": [
+            "aicm",
+            "noticias",
+            "mexico-noticias",
+            "vuelos cancelados"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/11/19/vuelos-demorados-y-cancelados-en-el-aicm-este-18-de-noviembre/",
+        "date": "2025-11-19 00:15:41",
+        "sentiment_score": 0.047803085297346115
+    },
+    {
+        "title": "El Camp Nou que pudo ser y no será: las siete propuestas descartadas por el Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/18/culemania/palco/1003742708558_15416485_1706x960.jpg",
+        "tags": [
+            "camp nou",
+            "joan laporta",
+            "barça",
+            "limak construction",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251119/camp-nou-pudo-no-propuestas-descartadas-barca/1003742708550_0.html",
+        "date": "2025-11-19 00:01:42",
+        "sentiment_score": -0.10089793801307678
+    },
+    {
+        "title": "Las pruebas sobre la corrupción de sus lugartenientes cercan a Sánchez: Ábalos amañaba y Cerdán cobraba y repartía",
+        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744019600_260012855_1706x1280.jpg",
+        "tags": [
+            "pedro sánchez",
+            "josé luis ábalos",
+            "psoe (partido socialista obrero español)",
+            "periodismo de investigación",
+            "uco",
+            "gobierno de españa",
+            "santos cerdán",
+            "koldo garcía izaguirre",
+            "guardia civil",
+            "corrupción"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251119/pruebas-corrupcion-lugartenientes-cercan-sanchez-abalos-amanaba-cerdan-cobraba-repartia/1003744019452_0.html",
+        "date": "2025-11-19 01:50:31",
+        "sentiment_score": -0.4667886272072792
+    },
+    {
+        "title": "Los siete 'trofeos' de la trama de Cerdán: del \"¡Bingo!\" en Logroño a la \"expansión internacional\" en Marruecos y Gabón",
+        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019243_260007827_1706x960.jpg",
+        "tags": [
+            "tribunal supremo",
+            "fiscalía anticorrupción",
+            "josé luis ábalos",
+            "psoe (partido socialista obrero español)",
+            "uco",
+            "santos cerdán",
+            "koldo garcía izaguirre",
+            "guardia civil",
+            "acciona",
+            "corrupción"
+        ],
+        "link": "https://www.elespanol.com/espana/20251119/trofeos-trama-cerdan-bingo-logrono-expansion-internacional-marruecos-gabon/1003744019268_0.html",
+        "date": "2025-11-19 01:50:27",
+        "sentiment_score": -0.01623430848121643
+    },
+    {
+        "title": "Las pruebas de la UCO sobre el papel de Acciona en la trama de Santos Cerdán avivan las tensiones internas en el grupo",
+        "image_url": "https://s3.elespanol.com/2025/01/10/invertia/empresas/energia/915419456_252253714_1706x960.jpg",
+        "tags": [
+            "santos cerdán",
+            "construcción e infraestructuras",
+            "josé manuel entrecanales",
+            "acciona",
+            "caso koldo"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/construccion-infraestructuras/20251119/pruebas-uco-papel-acciona-trama-santos-cerdan-avivan-tensiones-internas-grupo/1003744019260_0.html",
+        "date": "2025-11-19 01:35:40",
+        "sentiment_score": -0.35157157480716705
+    },
+    {
+        "title": "Simon Rattle, director de orquesta: \"Mozart estaría horrorizado de que sigamos tocando su música\"",
+        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744014871_259953048_1706x960.jpg",
+        "tags": [
+            "música clásica",
+            "música",
+            "orquestas",
+            "directores de orquesta",
+            "entrevistas"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251119/simon-rattle-director-orquesta-mozart-horrorizado-sigamos-tocando-musica/1003744014816_0.html",
+        "date": "2025-11-19 00:55:00",
+        "sentiment_score": 0.08005841076374054
+    },
+    {
+        "title": "Juan Soto Ivars: \"El hombre denunciado en falso por violencia de género también es víctima de maltrato\"",
+        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744018986_260004418_1706x960.jpg",
+        "tags": [
+            "violencia de género",
+            "libros",
+            "juan soto ivars",
+            "letras"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251119/juan-soto-ivars-hombre-denunciado-falso-violencia-genero-victima-maltrato/1003744018979_0.html",
+        "date": "2025-11-19 00:55:00",
+        "sentiment_score": -0.7122237980365753
+    },
+    {
+        "title": "Perla",
+        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019319_260008813_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "mínima molestia",
+            "literatura"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/opinion/minima_molestia_ignacio_echevarria/20251119/perla/1003744019279_13.html",
+        "date": "2025-11-19 00:55:00",
+        "sentiment_score": 0.09369334578514099
+    },
+    {
+        "title": "Comisiones, entramado societario y el “enlace” con Acciona: ¿de qué acusa la UCO a Cerdán?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/12/2025061215295970700.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/uco-apunta-que-cerdan-actuo-enlace-acciona-cambio-2-mordidas/20251119014638363611.html",
+        "date": "2025-11-19 00:46:38",
+        "sentiment_score": -0.6393547095358372
+    },
+    {
+        "title": "Richard Gere y Alejandra Silva vuelven a España: la fecha y el proyecto que les hace regresar",
+        "image_url": "https://s3.elespanol.com/2025/10/29/corazon/famosos/1003743991421_260004106_1706x960.jpg",
+        "tags": [
+            "familia",
+            "celebrities",
+            "richard gere",
+            "relaciones de pareja",
+            "madrid",
+            "alejandra silva"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20251119/richard-gere-alejandra-silva-vuelven-espana-fecha-proyecto-hace-regresar/1003744018511_0.html",
+        "date": "2025-11-19 00:33:00",
+        "sentiment_score": 0.14467151649296284
+    },
+    {
+        "title": "España logra el objetivo: Así se metió al Mundial 2026",
+        "image_url": "https://pxcdn.meridiano.net/112025/1763511151800.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espana-logra-el-objetivo-asi-se-metio-al-mundial-2026-2025111820130",
+        "date": "2025-11-19 00:16:00",
+        "sentiment_score": 0.07086379081010818
     }
 ];
