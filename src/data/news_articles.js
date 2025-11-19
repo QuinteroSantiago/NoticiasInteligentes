@@ -1,545 +1,5 @@
 export default [
     {
-        "title": "Este es el ingrediente que recomiendan tres chefs para que la tortilla francesa quede más brillante y sabrosa",
-        "image_url": "https://www.infobae.com/resizer/v2/47WMDTPHBJGWXMDGK67P4MP4HI.png?auth=5a3d3e4ea0ed82b94dad8f1710db5dec437356d3c9cf355bc0910ac690c2145c&height=1024&smart=true&width=1536",
-        "tags": [
-            "españa-gastronomía",
-            "mantequilla",
-            "tortilla francesa",
-            "consejos de cocina",
-            "ingredientes de cocina",
-            "chefs",
-            "españa-noticias",
-            "tortilla"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/15/este-es-el-ingrediente-que-recomiendan-tres-chefs-para-que-la-tortilla-francesa-quede-mas-brillante-y-sabrosa/",
-        "date": "2025-11-15 17:06:54",
-        "sentiment_score": 0.4284219481050968
-    },
-    {
-        "title": "Los detalles del caso de Encarnita Polo: presuntamente estrangulada, un módulo de psiquiatría abierto y un caso de “obsesión”",
-        "image_url": "https://www.infobae.com/resizer/v2/D6AEG2LJ5NEGDH4YELUVGVVTYM.jpg?auth=db89309070701d2092d85d22c46b526afca5caaed7c4fc61380f761dd43621fd&height=576&smart=true&width=1024",
-        "tags": [
-            "música",
-            "policía nacional",
-            "españa-sociedad",
-            "famosos españa",
-            "sucesos españa",
-            "música españa",
-            "sucesos",
-            "españa-noticias",
-            "crímenes y sucesos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/15/los-detalles-del-caso-de-encarnita-polo-presuntamente-estrangulada-un-modulo-de-psiquiatria-abierto-y-un-caso-de-obsesion/",
-        "date": "2025-11-15 17:01:08",
-        "sentiment_score": -0.13152756169438362
-    },
-    {
-        "title": "Miles de personas desfilan hasta San Mamés para exigir \"el fin del genocido\" antes del encuentro Euskadi-Palestina",
-        "image_url": "https://www.infobae.com/resizer/v2/FZ7GNY2IMND4XP4LXOH6MHGWDA.jpg?auth=95398b02664141a0a30cbef3e52ac514b9e96aae78174e63e3a31ffc10da9edb&height=1080&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/15/miles-de-personas-desfilan-hasta-san-mames-para-exigir-el-fin-del-genocido-antes-del-encuentro-euskadi-palestina/",
-        "date": "2025-11-15 17:00:53",
-        "sentiment_score": -0.7385387774556875
-    },
-    {
-        "title": "Estos son los ganadores del Sorteo 4 de Super Once",
-        "image_url": "https://www.infobae.com/resizer/v2/UQP72UGEZNGAXFIAVPIT6APC4Y.jpg?auth=9b754bae32b55490a70f2a3a6f2cc8ba82ac0d75bbfcc673e64b49991c243d59&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "super once",
-            "españa-economía",
-            "españa-loterías"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/15/estos-son-los-ganadores-del-sorteo-4-de-super-once/",
-        "date": "2025-11-15 16:45:24",
-        "sentiment_score": 0.5728364270180464
-    },
-    {
-        "title": "Rodríguez pide a las CCAA sumarse \"sin excusas\" al Plan Estatal de Vivienda que llevará \"pronto\" al Consejo de Ministros",
-        "image_url": "https://www.infobae.com/resizer/v2/3OMBMDM5BJBTFLLDTLEWX6MX3U.jpg?auth=18d802915eca17fe4dfd8576dbaf38f4f94c9046806c7192992f7d72dafca054&height=1278&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/15/rodriguez-pide-a-las-ccaa-sumarse-sin-excusas-al-plan-estatal-de-vivienda-que-llevara-pronto-al-consejo-de-ministros/",
-        "date": "2025-11-15 16:31:09",
-        "sentiment_score": 0.04108251631259918
-    },
-    {
-        "title": "Georgia-España: sigue en directo la clasificación al Mundial",
-        "image_url": "https://www.infobae.com/resizer/v2/GOIYWUCPP5EBHPDL3IQFOLG6IE.jpg?auth=83fb739d04d0e118f54f77e6858d09c3f3e96182aeeb960ee98963e5f81990e6&height=1280&smart=true&width=1920",
-        "tags": [
-            "españa-deportes",
-            "españa-noticias",
-            "selección",
-            "fútbol españa",
-            "fútbol"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/15/georgia-espana-sigue-en-directo-la-clasificacion-al-mundial/",
-        "date": "2025-11-15 16:17:11",
-        "sentiment_score": 0.004630483686923981
-    },
-    {
-        "title": "Un ex trabajador del Lidl ha sido condenado por robar 104 packs de Coca-Cola valorados en 90.000 y venderlos ilegalmente: “Quería ganar algo extra para poder apostar”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "sucesos",
-            "lidl",
-            "coca-cola",
-            "sucesos españa",
-            "españa-noticias",
-            "supermercados",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/15/un-ex-trabajador-del-lidl-ha-sido-condenado-por-robar-104-packs-de-coca-cola-valorados-en-90000-y-venderlos-ilegalmente-queria-ganar-algo-extra-para-poder-apostar/",
-        "date": "2025-11-15 16:03:15",
-        "sentiment_score": -0.38262543082237244
-    },
-    {
-        "title": "La “impunidad del narco” ante la falta de medios de la Guardia Civil: sindicatos denuncian la presencia de las lanchas en los puertos por el temporal",
-        "image_url": "https://www.infobae.com/resizer/v2/X33UGC7BTNCSHANLOO6VADZNBU.jpg?auth=ed2766645629e5fca0ebc0eb5fadf9b94f74ba06009e7b042b54f46a5e607484&height=1440&smart=true&width=1920",
-        "tags": [
-            "narcotráfico",
-            "españa-noticias",
-            "guardia civil",
-            "españa-nacional",
-            "drogas"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/15/la-impunidad-del-narco-ante-la-falta-de-medios-de-la-guardia-civil-sindicatos-denuncian-la-presencia-de-las-lanchas-en-los-puertos-por-el-temporal/",
-        "date": "2025-11-15 15:59:32",
-        "sentiment_score": -0.26672908663749695
-    },
-    {
-        "title": "Madrid, en el top 5 de mejores ciudades del mundo entre obras, renaturalización y sin acceso a viviendas asequibles",
-        "image_url": "https://www.infobae.com/resizer/v2/YHDIEYNNGFDSXFECDRPP7BYBEY.JPG?auth=dc985262435e4e770fa9b92f8d0a827904a1467414673ab41bf5f82b02fd89d6&height=5760&smart=true&width=8640",
-        "tags": [
-            "medioambiente",
-            "españa-noticias",
-            "españa-sociedad",
-            "madrid",
-            "vivienda españa",
-            "comunidad de madrid",
-            "turismo",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/15/madrid-en-el-top-5-de-mejores-ciudades-del-mundo-entre-obras-renaturalizacion-y-sin-acceso-a-viviendas-asequibles/",
-        "date": "2025-11-15 15:59:04",
-        "sentiment_score": 0.7907298523932695
-    },
-    {
-        "title": "La prensa alemana revela el accesorio favorito de la reina Letizia en sus viajes de Estado: “Se niega a ir sin él”",
-        "image_url": "https://www.infobae.com/resizer/v2/44Y7CJLN4JD3TKMTSAS3YOHBLU.jpg?auth=181a406fa7f34fc86891a54250efad5acc63a108bd39308986c6fe718d1dcaf1&height=1280&smart=true&width=1920",
-        "tags": [
-            "casa real españa",
-            "realeza",
-            "españa-entretenimiento",
-            "felipe vi",
-            "reina letizia",
-            "españa-noticias",
-            "moda españa",
-            "corazón y estilo españa",
-            "casas reales"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/15/la-prensa-alemana-revela-el-accesorio-favorito-de-la-reina-letizia-en-sus-viajes-de-estado-se-niega-a-ir-sin-el/",
-        "date": "2025-11-15 15:47:04",
-        "sentiment_score": 0.08571863174438477
-    },
-    {
-        "title": "Un nuevo fallo del Supremo brasileño sitúa a Bolsonaro más cerca de la cárcel",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/15/bolsonaro-RbXjIJqAwNRcmEfvVlKWO5J-1200x840@diario_abc.jpg",
-        "tags": [
-            "acerca",
-            "fallo",
-            "bolsonaro",
-            "carcel",
-            "supremo",
-            "brasileno",
-            "nuevo"
-        ],
-        "link": "https://www.abc.es/internacional/nuevo-fallo-supremo-brasileno-situa-bolsonaro-cerca-20251115165029-nt.html",
-        "date": "2025-11-15 15:53:35",
-        "sentiment_score": -0.13478927314281464
-    },
-    {
-        "title": "La Guardia Civil investiga la muerte de un hombre y una mujer con signos de violencia en un chalé de Alpedrete",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UCKRDIM25ZCWVIUDMIS257ZPAI.jpg?auth=8df0f2152a9af02b62d510cb2630b23e6d1d02861a5d2bc29ebcdad873084fc3&width=1200",
-        "tags": [
-            "guardia civil",
-            "investigación policial",
-            "summa 112",
-            "madrid",
-            "emergencias",
-            "comunidad de madrid",
-            "sucesos",
-            "alpedrete",
-            "investigación judicial",
-            "violencia"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-15/la-guardia-civil-investiga-la-muerte-de-un-hombre-y-una-mujer-con-signos-de-violencia-en-un-chale-de-alpedrete.html",
-        "date": "2025-11-15 15:11:44",
-        "sentiment_score": 0.036309801042079926
-    },
-    {
-        "title": "The Jayhawks, reyes del festival de quienes no van a festivales",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YAQAXXVHKBBXLAURSLINEJSRJI.jpg?auth=345e0d7d72e955c9c1ec3d5558dd0a023880e430154d68fd6d93281fff0d3f66&width=1200",
-        "tags": [
-            "cataluña",
-            "festivales música",
-            "barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-15/the-jayhawks-reyes-del-festival-de-quienes-no-van-a-festivales.html",
-        "date": "2025-11-15 14:46:45",
-        "sentiment_score": -0.1817249059677124
-    },
-    {
-        "title": "El Barcelona golea al Real Madrid y consolida su liderato en la Liga F",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/15/6918af72330f5.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/cronica/barcelona-golea-real-madrid-consolida-liderato-liga-f-20251115_3252920.html",
-        "date": "2025-11-15 17:09:21",
-        "sentiment_score": 0.1321491003036499
-    },
-    {
-        "title": "El Barça Femenino destroza al Real Madrid con Ewa Pajor y Cata Coll como estrellas: brecha de siete puntos en la Liga F",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/15/culemania/secciones/1003742707802_15407572_1706x960.jpg",
-        "tags": [
-            "alexia putellas",
-            "aitana bonmatí",
-            "secciones",
-            "fcbfemeni"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20251115/barca-femenino-real-madrid-pajor-cata-coll/1003742707779_0.html",
-        "date": "2025-11-15 17:08:15",
-        "sentiment_score": 0.5618776232004166
-    },
-    {
-        "title": "El Barça femenino se toma la revancha del último clásico en Montjuic",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/15/barcelona-madrid-femenino-k0bD-U24024157596801F-1200x840@RC.JPG",
-        "tags": [
-            "barca",
-            "ultimo",
-            "femenino",
-            "montjuic",
-            "toma",
-            "clasico",
-            "revancha"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol-femenino/barca-femenino-toma-revancha-ultimo-clasico-montjuic-20251115180812-ntrc.html",
-        "date": "2025-11-15 17:08:14",
-        "sentiment_score": 0.47792910784482956
-    },
-    {
-        "title": "El acto ‘Volem votar’ reúne al PSOE para reclamar elecciones inmediatas en la Comunitat Valenciana",
-        "image_url": "https://castellondiario.com/wp-content/uploads/2025/11/el-pspv-psoe-alerta-del-pacto-de-la-infamia-si-perez-llorca-sustituye-a-mazon-y-pide-elecciones-inmediatas.jpg",
-        "tags": [
-            "comunitat",
-            "política"
-        ],
-        "link": "https://castellondiario.com/el-acto-volem-votar-reune-al-psoe-para-reclamar-elecciones-inmediatas-en-la-comunitat-valenciana/",
-        "date": "2025-11-15 17:07:44",
-        "sentiment_score": 0.15358787775039673
-    },
-    {
-        "title": "Daniel Muñoz reveló los gigantes del fútbol europeo en los que le gustaría jugar: “Para mí es un sueño”",
-        "image_url": "https://www.infobae.com/resizer/v2/LNDCZ2QGB5DCRGCZEIQYPSK2NA.JPG?auth=6cbc70b9933a460e3cb584d6870d8ab1e2827342c4b0a3171e8ed7dcb57633d0&height=2655&smart=true&width=3874",
-        "tags": [
-            "colombia vs. nueva zelanda",
-            "psg",
-            "colombia-deportes",
-            "daniel muñoz",
-            "barcelona fc",
-            "amistosos internacionales",
-            "real madrid",
-            "crystal palace",
-            "selección colombia",
-            "chelsea fc",
-            "parís saint germain",
-            "fecha fifa"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/11/15/daniel-munoz-revelo-los-gigantes-del-futbol-europeo-en-los-cuales-le-gustaria-jugar-para-mi-es-un-sueno/",
-        "date": "2025-11-15 17:06:50",
-        "sentiment_score": 0.6809140965342522
-    },
-    {
-        "title": "Técnico de Croacia aseguró que busca jugar contra Colombia y Brasil en la fecha FIFA de marzo",
-        "image_url": "https://www.infobae.com/resizer/v2/M2W4IHSF4BAENJFWVTHLYDTJWI.JPG?auth=bf31ee52a94dc8ac3e27a7f54cfd27340142d5fa6d08acf794063b650bb4c8d3&height=3312&smart=true&width=4800",
-        "tags": [
-            "colombia-deportes",
-            "selección croacia",
-            "colombia vs. croacia",
-            "amistosos internacionales",
-            "néstor lorenzo",
-            "selección colombia",
-            "zlatko dalić",
-            "fecha fifa",
-            "selección de croacia",
-            "croacia vs. colombia"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/11/15/tecnico-de-croacia-aseguro-que-busca-jugar-contra-colombia-y-brasil-en-la-fecha-fifa-de-marzo/",
-        "date": "2025-11-15 17:06:50",
-        "sentiment_score": 0.15508875995874405
-    },
-    {
-        "title": "El Barça le recuerda al Real Madrid que todavía tiene que comer más sopas",
-        "image_url": "https://static1.ara.cat/clip/cb37fe30-e660-45b5-95fb-15ad4a9d3a80_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "sopas",
-            "todavia",
-            "recuerda",
-            "real",
-            "comer",
-            "le",
-            "barca"
-        ],
-        "link": "https://es.ara.cat/deportes/barca-femenino/barca-le-recuerda-real-madrid-todavia-comer-sopas_1_5562886.html",
-        "date": "2025-11-15 17:05:43",
-        "sentiment_score": -0.18428292870521545
-    },
-    {
-        "title": "Pajor reconquista un clásico muy caliente",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/15/6918b2aac0299.jpeg",
-        "tags": [
-            "fútbol femenino"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/futbol-femenino/20251115/11267829/pajor-reconquista-clasico-caliente.html",
-        "date": "2025-11-15 17:05:41",
-        "sentiment_score": 0.6295206844806671
-    },
-    {
-        "title": "El Cacereño sigue cotizando a la baja",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a6e0714b-7ffd-4345-8d13-f5dc4432c6a2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "primera rfef",
-            "fútbol",
-            "cáceres",
-            "cp cacereño"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/deportes/2025/11/15/cacereno-sigue-cotizando-baja-real-madrid-castilla-derrota-valdebebas-123760002.html",
-        "date": "2025-11-15 17:05:22",
-        "sentiment_score": -0.7413467839360237
-    },
-    {
-        "title": "El PP pide la comparecencia de Niubó por la resolución del TSJC sobre el catalán en las aulas",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251115180544_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-pp-pide-comparecencia-niubo-resolucion-tsjc-catalan-aulas-20251115180544.html",
-        "date": "2025-11-15 17:05:44",
-        "sentiment_score": 0.22368422150611877
-    },
-    {
-        "title": "Georgia – España, en directo hoy | Dónde ver el partido por TV online y última hora en vivo gratis de la selección española para el Mundial 2026",
-        "image_url": "https://okdiario.com/img/2025/11/15/whatsapp-image-2025-11-15-at-16.56.46.jpeg",
-        "tags": [
-            "directo",
-            "selección de españa fútbol",
-            "clasificación mundial",
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/georgia-espana-directo-hoy-donde-ver-partido-tv-online-ultima-hora-vivo-gratis-seleccion-espanola-mundial-2026-15765569",
-        "date": "2025-11-15 17:04:58",
-        "sentiment_score": 0.17481102049350739
-    },
-    {
-        "title": "El príncipe Guillermo comparte cómo gestionaron el cáncer de Kate Middleton con sus hijos: \"Elegimos comunicarnos\"",
-        "image_url": "https://static1.ara.cat/clip/75c493e9-66c2-4b16-a551-c409dea66bf3_16-9-aspect-ratio_default_1045034.jpg",
-        "tags": [
-            "principe",
-            "hijos",
-            "comparte",
-            "gestionaron",
-            "cancer",
-            "kate",
-            "middleton",
-            "comunicarnos",
-            "guillermo",
-            "elegimos"
-        ],
-        "link": "https://es.ara.cat/gente/principe-guillermo-comparte-gestionaron-cancer-kate-middleton-hijos-elegimos-comunicarnos_1_5562864.html",
-        "date": "2025-11-15 17:00:50",
-        "sentiment_score": -0.9303897982463241
-    },
-    {
-        "title": "Correos se atasca en Barcelona: la falta de personal tensiona el Black Friday",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/11/correos-black-friday-1000x665.jpg",
-        "tags": [
-            "empresas",
-            "black friday",
-            "correos"
-        ],
-        "link": "https://www.economiadigital.es/empresas/correos-falta-personal-tensiona-black-friday.html",
-        "date": "2025-11-15 17:00:00",
-        "sentiment_score": -0.8931538965553045
-    },
-    {
-        "title": "Fallece un parapentista tras caer en una ladera de Alicante",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/15/6918b0b84f339.jpeg",
-        "tags": [
-            "comunidad valenciana"
-        ],
-        "link": "https://www.lavanguardia.com/local/valencia/20251115/11267824/fallece-parapentista-caer-ladera-alicante.html",
-        "date": "2025-11-15 16:58:05",
-        "sentiment_score": -0.8564036972820759
-    },
-    {
-        "title": "Los metros históricos de Barcelona conquistan la plaza de les Glòries",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/15/6918ad1e1d968.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20251115/11267805/metros-historicos-barcelona-exponen-plaza-les-glories.html",
-        "date": "2025-11-15 16:57:23",
-        "sentiment_score": 0.07251022011041641
-    },
-    {
-        "title": "¿Qué está haciendo Sergio Sendel para mantener su juventud a los 59 años? El secreto detrás de su aspecto",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "celebridades",
-            "apariencias"
-        ],
-        "link": "https://2001online.com/farandula/que-esta-haciendo-sergio-sendel-para-mantener-su-juventud-a-los-59-anos-el-secreto-detras-de-su-aspecto-202511151300",
-        "date": "2025-11-15 17:00:00",
-        "sentiment_score": 0.8195872269570827
-    },
-    {
-        "title": "Comida gratuita en San Diego: los puntos secretos donde las familias reciben alimentos frescos sin pagar un dólar",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "estados unidos",
-            "familias",
-            "comida gratis",
-            "san diego",
-            "internacionales"
-        ],
-        "link": "https://2001online.com/usa/internacionales/comida-gratuita-en-san-diego-los-puntos-secretos-donde-las-familias-reciben-alimentos-frescos-sin-pagar-un-dolar-202511151300",
-        "date": "2025-11-15 17:00:00",
-        "sentiment_score": -0.4979577288031578
-    },
-    {
-        "title": "Residentes en Hialeah: reportan fallas en importante servicio público y denuncian inacción de autoridades",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763225236211.jpg?ch=675&cw=1200",
-        "tags": [
-            "denuncia falla de luz en hialeah",
-            "estados unidos",
-            "eeuu",
-            "miami",
-            "diario 2001 eeuu",
-            "florida",
-            "hialeah",
-            "usa",
-            "servicios públicos en florida"
-        ],
-        "link": "https://2001online.com/servicios/residentes-en-hialeah-reportan-fallas-en-importante-servicio-publico-y-denuncian-inaccion-de-autoridades-202511151300",
-        "date": "2025-11-15 17:00:00",
-        "sentiment_score": -0.76622549071908
-    },
-    {
-        "title": "Motorizado cae a las riberas del río Guaire este 15 de noviembre: esto se sabe",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763224920139.jpg?ch=675&cw=1200",
-        "tags": [
-            "motorizado cae",
-            "riberas del río guaire este 15 de noviembre"
-        ],
-        "link": "https://2001online.com/sucesos/motorizado-cae-a-las-riberas-del-rio-guaire-este-15-de-noviembre-esto-se-sabe-2025111512470",
-        "date": "2025-11-15 16:47:00",
-        "sentiment_score": -0.42108980379998684
-    },
-    {
-        "title": "¡Destronada y en pijama! El giro de Diosa Canales en la Casa de Alofoke 2 que nadie se esperaba",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "diosa canales",
-            "escándalo",
-            "la casa de alofoke 2"
-        ],
-        "link": "https://2001online.com/farandula/destronada-y-en-pijama-el-giro-de-diosa-canales-en-la-casa-de-alofoke-2-que-nadie-se-esperaba-2025111512330",
-        "date": "2025-11-15 16:33:00",
-        "sentiment_score": -0.34473826363682747
-    },
-    {
-        "title": "De la pantalla grande a la universidad: actores de Hollywood que no se conformaron con la fama y buscaron un diploma",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1762793315750/Screenshot_2025-11-10-12-48-18-177_com.miui.gallery.jpg?ch=675&cw=1200",
-        "tags": [
-            "hollywood",
-            "celebridades"
-        ],
-        "link": "https://2001online.com/farandula/de-la-pantalla-grande-a-la-universidad-actores-de-hollywood-que-no-se-conformaron-con-la-fama-y-buscaron-un-diploma-202511151200",
-        "date": "2025-11-15 16:00:00",
-        "sentiment_score": 0.8430108018219471
-    },
-    {
-        "title": "¡Adiós a las filas! Renueva tu matrícula vehicular de Texas en línea de forma rápida y segura: así puedes hacerlo",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "vehículos",
-            "matricula vehicular",
-            "#estadosunidos",
-            "placas",
-            "trámites",
-            "#diario2001",
-            "texas",
-            "dmv"
-        ],
-        "link": "https://2001online.com/usa/servicios/adios-a-las-filas-renueva-tu-matricula-vehicular-de-texas-en-linea-de-forma-rapida-y-segura-asi-puedes-hacerlo-202511151200",
-        "date": "2025-11-15 16:00:00",
-        "sentiment_score": 0.12915845960378647
-    },
-    {
-        "title": "Revisión Legal de Vehículos: estos son los requisitos y precios para el trámite",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763050190765.jpg?ch=675&cw=1200",
-        "tags": [
-            "caracas",
-            "intt",
-            "precios",
-            "revisión legal de vehículos",
-            "#servicios",
-            "chacao",
-            "#2001online"
-        ],
-        "link": "https://2001online.com/servicios/revision-legal-de-vehiculos-estos-son-los-requisitos-y-precios-para-el-tramite-202511151200",
-        "date": "2025-11-15 16:00:00",
-        "sentiment_score": 0.01305408775806427
-    },
-    {
-        "title": "Informan sobre entrega de nueva bonificación por más de Bs 1.200: quiénes la cobran",
-        "image_url": "https://pxcdn.2001online.com/2001/092024/1726661546392/sistema-patria-dinero-jpeg..jpeg?ch=675&cw=1200",
-        "tags": [
-            "patria",
-            "nueva bonificación",
-            "dinero",
-            "pagos"
-        ],
-        "link": "https://2001online.com/servicios/informan-sobre-entrega-de-nueva-bonificacion-por-mas-de-bs-1-200-quienes-la-cobran-2025111511380",
-        "date": "2025-11-15 15:38:00",
-        "sentiment_score": 0.03064296767115593
-    },
-    {
-        "title": "Comida gratis para Acción de Gracias en EEUU: cómo solicitarla a Operation Turkey antes de la fecha límite",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "usa",
-            "comida gratis para thanksgiving day 2025",
-            "diario 2001 eeuu",
-            "operation turkey 2025 eeuu",
-            "eeuu",
-            "thanksgiving day 2025 eeuu",
-            "estados unidos",
-            "acción de gracias 2025 eeuu",
-            "comida gratis para acción de gracias en eeuu"
-        ],
-        "link": "https://2001online.com/usa/servicios/comida-gratis-para-accion-de-gracias-en-eeuu-como-solicitarla-a-operation-turkey-antes-de-la-fecha-limite-2025111511300",
-        "date": "2025-11-15 15:30:00",
-        "sentiment_score": 0.1193101555109024
-    },
-    {
         "title": "Sira Rego destaca el \"apoyo a Palestina\" de un San Mamés \"abarrotado\" durante el partido Euskadi-Palestina",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -650,16 +110,6 @@ export default [
         "sentiment_score": 0.585175558924675
     },
     {
-        "title": "Feijóo quiere jóvenes ambiciosos y que \"no vivan del Estado\" y les alerta de partidos que \"discuten\" la democracia",
-        "image_url": "https://www.infobae.com/resizer/v2/PILWCP4QCRDGRPIH4VCBX7NBIA.jpg?auth=3990685a12e5ce453a2ba36139625302d3d74804dbfbecac3bf211853f868a6a&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/15/feijoo-quiere-jovenes-ambiciosos-y-que-no-vivan-del-estado-y-les-alerta-de-partidos-que-discuten-la-democracia/",
-        "date": "2025-11-15 18:15:33",
-        "sentiment_score": -0.16856127977371216
-    },
-    {
         "title": "La protesta de la 'Generación Z' en Ciudad de México termina con disturbios en el Zócalo",
         "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/11/15/1503056408-kk2G-U7019460341032OI-1200x840@diario_abc.JPG",
         "tags": [
@@ -673,24 +123,6 @@ export default [
         "link": "https://www.abc.es/internacional/protesta-generacion-ciudad-mexico-termina-disturbios-zocalo-20251115221918-nt.html",
         "date": "2025-11-15 21:19:18",
         "sentiment_score": -0.1396336704492569
-    },
-    {
-        "title": "Ofensiva del Gobierno de México contra los casinos, señalados por lavado de dinero y vínculos con el narco",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/15/casinos-RX4zhdDaoFNhMg94qLyQSPL-1200x840@diario_abc.jpg",
-        "tags": [
-            "mexico",
-            "lavado",
-            "dinero",
-            "vinculos",
-            "narco",
-            "ofensiva",
-            "casinos",
-            "senalado",
-            "gobierno"
-        ],
-        "link": "https://www.abc.es/internacional/ofensiva-gobierno-mexico-casinos-senalados-lavado-dinero-20251115191839-nt.html",
-        "date": "2025-11-15 18:20:26",
-        "sentiment_score": -0.17520618438720703
     },
     {
         "title": "El encuentro íntimo de dos universos en el Born",
@@ -6723,5 +6155,290 @@ export default [
         "link": "https://meridiano.net/futbol/espana-logra-el-objetivo-asi-se-metio-al-mundial-2026-2025111820130",
         "date": "2025-11-19 00:16:00",
         "sentiment_score": 0.07086379081010818
+    },
+    {
+        "title": "El sorprendente motivo por el que Rosalía no hizo el 'show de la NFL en el Bernabéu: \"Sus exigencias...\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/19/691d644a978fb.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/gente/sorprendente-motivo-por-que-rosalia-no-hizo-show-nfl-bernabeu-pese-que-se-ofrecieron-sus-exigencias_6899689_0.html",
+        "date": "2025-11-19 06:39:18",
+        "sentiment_score": 0.229878768324852
+    },
+    {
+        "title": "Mensaje (leído) del emérito: \"Os pido el mismo apoyo para mi hijo en este difícil cometido\"",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/11/europapress-7089041-rey-emerito-juan-carlos-llegada-puerto-entrega-premios-segunda-jornada-1440x808.jpg",
+        "tags": [
+            "rey felipe vi",
+            "juan carlos i",
+            "españa"
+        ],
+        "link": "https://www.elindependiente.com/espana/2025/11/19/mensaje-emerito-apoyo-para-mi-hijo/",
+        "date": "2025-11-19 06:38:42",
+        "sentiment_score": -0.053955286741256714
+    },
+    {
+        "title": "El espíritu de Michael Jackson revive en Palacio Vistalegre con el espectáculo 'This is Michael'",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/17/691b561c33e66.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.20minutos.es/cultura/espiritu-michael-jackson-revive-palacio-vistalegre-con-espectaculo-this-is-michael_6898654_0.html",
+        "date": "2025-11-19 06:12:03",
+        "sentiment_score": 0.18441971018910408
+    },
+    {
+        "title": "Una visita que refresca la memoria",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "memoria",
+            "refresca",
+            "visita"
+        ],
+        "link": "https://www.noticiasdealava.eus/editorial/2025/11/19/visita-refresca-memoria-10369623.html",
+        "date": "2025-11-19 06:00:41",
+        "sentiment_score": -0.15214034914970398
+    },
+    {
+        "title": "Álava: hub logístico clave y con fuerza",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6234fd8d-7cda-4330-8377-07136686170d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "clave",
+            "mesa logística encuentros dna",
+            "hub",
+            "alava",
+            "fuerza",
+            "logistico"
+        ],
+        "link": "https://www.noticiasdealava.eus/actualidad/encuentros-dna/2025/11/19/alava-hub-logistico-clave-fuerza-mesa-logistica-encuentros-dna-10367985.html",
+        "date": "2025-11-19 06:00:40",
+        "sentiment_score": 0.1278645396232605
+    },
+    {
+        "title": "San Lorenzo de El Escorial, la joya natural e histórica en el corazón de la Sierra de Guadarrama",
+        "image_url": "https://okdiario.com/img/2025/11/15/bc-cam-interior.jpg",
+        "tags": [
+            "san lorenzo de el escorial",
+            "turismo",
+            "no-publi",
+            "madrid",
+            "españa",
+            "comunidad de madrid"
+        ],
+        "link": "https://okdiario.com/espana/san-lorenzo-escorial-joya-natural-historica-corazon-sierra-guadarrama-15710380",
+        "date": "2025-11-19 06:00:35",
+        "sentiment_score": 0.6996663771569729
+    },
+    {
+        "title": "\"La pregunta deja de ser solo quién soy para convertirse en ¿qué hago con mi vida”: Así es la crisis de los 25 años y cómo se puede prevenir",
+        "image_url": "https://static.grupojoly.com/clip/ac1733bd-2170-46d5-819d-e1937063e5fa_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "25",
+            "crisis",
+            "prevención"
+        ],
+        "link": "https://www.diariodesevilla.es/salud/crisis-25-prevencion_0_2005239841.html",
+        "date": "2025-11-19 06:00:17",
+        "sentiment_score": -0.6245056502521038
+    },
+    {
+        "title": "‘El Vaquilla’: 40 años del motín, secuestro y rescate de tres segundos en la cárcel de Ciudad Real",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/Montaje-1.jpg",
+        "tags": [
+            "cárcel",
+            "presos",
+            "fuga",
+            "archivo lanza"
+        ],
+        "link": "https://www.lanzadigital.com/archivo-lanza/el-vaquilla-motin-secuestro-y-rescate-de-tres-segundos-en-la-carcel-de-ciudad-real/",
+        "date": "2025-11-19 06:00:00",
+        "sentiment_score": -0.14548635482788086
+    },
+    {
+        "title": "Jornada 12 de la Euroliga: horarios, resultados y clasificación",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/YBK4JSGFPVIC5JIQMBRPHT5C3Q.jpg?auth=7305616ccc8329d6acea8819cc771e50afeaad26ca785c23aeabb3cf816d9049&width=1200",
+        "tags": [
+            "baskonia",
+            "jugadores baloncesto",
+            "deportes",
+            "bc zalgiris kaunas",
+            "estrella roja baloncesto",
+            "competiciones",
+            "valencia basket club",
+            "efes pilsen",
+            "fc barcelona baloncesto",
+            "euroliga",
+            "bayer",
+            "xavi pascual",
+            "real madrid baloncesto",
+            "baloncesto"
+        ],
+        "link": "https://elpais.com/deportes/baloncesto/2025-11-19/jornada-12-de-la-euroliga-horarios-resultados-y-clasificacion.html",
+        "date": "2025-11-19 06:00:00",
+        "sentiment_score": 0.07600243389606476
+    },
+    {
+        "title": "Théo Zidane cumple 50 partidos con el Córdoba CF antes de volver a Granada",
+        "image_url": "https://static.grupojoly.com/clip/8329bd7d-a7bd-4db7-bdbf-aa490e08048d_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "córdoba club de fútbol",
+            "últimas noticias",
+            "últimas noticias córdoba"
+        ],
+        "link": "https://www.eldiadecordoba.es/cordobacf/theo-zidane-cumple-50-partidos-cordoba-cf-volver-granada_0_2005257774.html",
+        "date": "2025-11-19 05:59:15",
+        "sentiment_score": 0.09208650887012482
+    },
+    {
+        "title": "Este es el precio de la gasolina en Madrid, Barcelona y otras ciudades este 19 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "gasolina",
+            "españa-economia",
+            "precio gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/19/este-es-el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-este-19-de-noviembre/",
+        "date": "2025-11-19 06:30:55",
+        "sentiment_score": -0.19362077489495277
+    },
+    {
+        "title": "OLA DE FRÍO POLAR Última hora de la bajada de temperaturas y las nevadas en Catalunya y el resto de España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6823ffdd-db39-488d-9bf2-08b129e47952_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "aemet - agencia estatal de meteorología",
+            "frío",
+            "temperaturas",
+            "previsión meteorológica",
+            "aemet",
+            "nieve",
+            "servei meteorològic de catalunya (meteocat)"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251119/ola-frio-polar-cataluna-espana-nevadas-temperatura-ultima-hora-123881202",
+        "date": "2025-11-19 06:23:58",
+        "sentiment_score": 0.062459081411361694
+    },
+    {
+        "title": "Lo que debes saber hoy, 19 de noviembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/06/25/vivir-en-barcelona/500459954_10121913_1706x960.jpg",
+        "tags": [
+            "autobús",
+            "movilidad",
+            "transports metropolitans barcelona tmb",
+            "el tiempo",
+            "clima",
+            "renfe barcelona",
+            "metro barcelona",
+            "tráfico",
+            "aemet (agencia estatal de meteorología)",
+            "transporte"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251119/debes-saber-hoy-noviembre-barcelona/1003742708607_0.html",
+        "date": "2025-11-19 06:22:00",
+        "sentiment_score": 0.6336900070309639
+    },
+    {
+        "title": "Tos y fatiga, síntomas achacables al tabaco o el inicio silencioso de la epoc",
+        "image_url": "https://efesalud.com/wp-content/uploads/2025/11/epoc-sintomas-tos-tabaco-fumadora.webp",
+        "tags": [
+            "noticias principales",
+            "contaminación",
+            "tabaco",
+            "enfermedades respiratorias",
+            "enfermedades"
+        ],
+        "link": "https://efesalud.com/epoc-sintomas-tabaco-tos-fatiga-inicio-enfermedad/",
+        "date": "2025-11-19 06:19:00",
+        "sentiment_score": -0.8567898478358984
+    },
+    {
+        "title": "\"Perdida en una cabaña frente al océano Atlántico tuve una revelación\"",
+        "image_url": "https://static1.ara.cat/clip/2973acc7-b270-490e-90a6-c14846b94750_16-9-aspect-ratio_default_0_x2269y614.jpg",
+        "tags": [
+            "perdida",
+            "revelacion",
+            "oceano",
+            "frente",
+            "tuve",
+            "atlantico",
+            "cabana"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/perdida-cabana-frente-oceano-atlantico-tuve-revelacion_1_5566248.html",
+        "date": "2025-11-19 06:15:35",
+        "sentiment_score": -0.0860118418931961
+    },
+    {
+        "title": "Simón se queda sin un nuevo récord con España",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e46b590c-c94b-4ed0-b07c-fd2709ffd0b4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "nuevo",
+            "españa",
+            "simon",
+            "espana",
+            "record",
+            "turquia",
+            "queda"
+        ],
+        "link": "https://www.deia.eus/futbol/2025/11/19/espana-turquia-simon-queda-nuevo-record-espana-10369927.html",
+        "date": "2025-11-19 06:09:14",
+        "sentiment_score": 0.07948021590709686
+    },
+    {
+        "title": "Doble incógnita en el Camp Nou",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/89d7c2db-fa1b-40fd-af95-08cbe02b323b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "williams",
+            "doble",
+            "camp",
+            "lamine yamal",
+            "incognita",
+            "nou",
+            "nico"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/11/19/nico-williams-lamine-yamal-doble-incognita-camp-nou-10369919.html",
+        "date": "2025-11-19 06:04:50",
+        "sentiment_score": 0.01670047640800476
+    },
+    {
+        "title": "Veolia refuerza su compromiso con el saneamiento del agua para contribuir a la seguridad ecológica y a la resiliencia de las comunidades",
+        "image_url": "https://okdiario.com/img/2025/11/12/tratamiento-avanzado-para-la-regeneracion-de-las-aguas-residuales_cropped.jpg",
+        "tags": [
+            "green - sostenibilidad",
+            "okgreen",
+            "no-publi",
+            "agua",
+            "medio ambiente",
+            "naturaleza"
+        ],
+        "link": "https://okdiario.com/okgreen/veolia-refuerza-compromiso-saneamiento-del-agua-contribuir-seguridad-ecologica-resiliencia-comunidades-15749155",
+        "date": "2025-11-19 06:00:54",
+        "sentiment_score": -0.8245344497263432
+    },
+    {
+        "title": "El HLA Alicante y el Horneo Eón, felices con la modernización de sus pabellones",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc426b9a-4d3d-4b11-b714-d5e980be225b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hla alicante",
+            "lucentum",
+            "historia",
+            "imagen",
+            "balonmano",
+            "pedro ferrándiz",
+            "deportes"
+        ],
+        "link": "https://www.informacion.es/deportes/2025/11/19/hla-alicante-horneo-eon-felices-123874999.html",
+        "date": "2025-11-19 06:00:44",
+        "sentiment_score": -0.048805058002471924
+    },
+    {
+        "title": "La final de Copa, en el punto de mira: la Policía Nacional analiza si es viable su coincidencia con la Feria de Sevilla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4235b949-e6d5-4cb1-83c4-183d9bc4e015_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "final copa,final de copa,estadio de la cartuja,subdelegación del gobierno,ayuntamiento de sevilla"
+        ],
+        "link": "https://www.elcorreoweb.es/sevilla/2025/11/19/policia-final-copa-rey-feria-sevilla-123865122.html",
+        "date": "2025-11-19 06:00:44",
+        "sentiment_score": 0.09082984924316406
     }
 ];
