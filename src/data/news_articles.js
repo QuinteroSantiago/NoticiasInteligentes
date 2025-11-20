@@ -204,45 +204,6 @@ export default [
         "sentiment_score": -0.8567694034427404
     },
     {
-        "title": "Ayuso insiste en su rebeldía frente a Sánchez y no creará el registro de objetores al aborto",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XIZI3ASOPZMAJHRCYRA4EPE45U.jpg?auth=813c9608d1c628b4a48152e2b9cee9e5133b817b5cbfb958df8c883d0c4827a3&width=1200",
-        "tags": [
-            "aborto",
-            "hospitales",
-            "oposición política",
-            "demandas",
-            "objeción conciencia",
-            "madrid",
-            "comunidad de madrid",
-            "médicos",
-            "tribunales",
-            "pedro sánchez",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-16/ayuso-insiste-en-su-rebeldia-frente-a-sanchez-y-no-creara-el-registro-de-objetores-al-aborto.html",
-        "date": "2025-11-16 13:51:00",
-        "sentiment_score": -0.7636190224438906
-    },
-    {
-        "title": "Feijóo apela a concentrar el voto en el PP en las elecciones extremeñas frente a la “pinza” de Vox y PSOE",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CCACMJO7OVOB5LLGXSX2JHTE5M.jpg?auth=788a4bbed8ef4b4ddd1cb0f177a09ebe7f9256ede971aec6a1e792c6fb6218b9&width=1200",
-        "tags": [
-            "extremadura",
-            "psoe",
-            "pp",
-            "españa",
-            "maría guardiola martín",
-            "elecciones extremeñas",
-            "miguel ángel gallardo",
-            "alberto núñez feijóo",
-            "elecciones autonómicas",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2025-11-16/feijoo-apela-a-concentrar-el-voto-en-el-pp-en-las-elecciones-extremenas-frente-a-la-pinza-de-vox-y-psoe.html",
-        "date": "2025-11-16 13:19:42",
-        "sentiment_score": 0.20965522527694702
-    },
-    {
         "title": "El Bernabéu se convierte en una enorme discoteca: así ha sido la actuación de Bizarrap y Daddy Yankee en el descanso del partido de la NFL",
         "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/16/daddy-yankee-y-bizarrap-este-domingo-en-el-descanso-del-partido-de-la-nfl-en-el-santiago-bernabeu.jpeg",
         "tags": [
@@ -568,17 +529,6 @@ export default [
         "link": "https://2001online.com/curiosidades/una-vida-secreta-en-hogeweyk-asi-es-el-pueblo-creado-para-ayudar-a-pacientes-con-alzheimer--2025111610340",
         "date": "2025-11-16 14:34:00",
         "sentiment_score": -0.5791391637176275
-    },
-    {
-        "title": "Se viene el live action de 'Alicia en el País de Las Maravillas' y su actriz principal es una reconocida cantante ¿De quién se trata?",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1762970104036/sddefault.jpg?ch=675&cw=1200",
-        "tags": [
-            "live action",
-            "hollywood"
-        ],
-        "link": "https://2001online.com/farandula/se-viene-el-live-action-de-alicia-en-el-pais-de-las-maravillas-y-su-actriz-principal-es-una-reconocida-cantante-de-quien-se-trata--2025111610300",
-        "date": "2025-11-16 14:07:25",
-        "sentiment_score": 0.1941484585404396
     },
     {
         "title": "Capturaron en España a alias Pipo Chavarría, presunto líder de Los Lobos, tenía pasaporte colombiano",
@@ -1351,45 +1301,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-11-16/la-musica-catalana-llena-el-imponente-auditorio-de-hamburgo.html",
         "date": "2025-11-16 15:20:35",
         "sentiment_score": -0.8567695934325457
-    },
-    {
-        "title": "Ayuso insiste en su rebeldía frente a Sánchez y no creará el registro de objetores al aborto",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/XIZI3ASOPZMAJHRCYRA4EPE45U.jpg?auth=813c9608d1c628b4a48152e2b9cee9e5133b817b5cbfb958df8c883d0c4827a3&width=1200",
-        "tags": [
-            "aborto",
-            "hospitales",
-            "oposición política",
-            "demandas",
-            "objeción conciencia",
-            "madrid",
-            "comunidad de madrid",
-            "médicos",
-            "tribunales",
-            "pedro sánchez",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-16/ayuso-insiste-en-su-rebeldia-frente-a-sanchez-y-no-creara-el-registro-de-objetores-al-aborto.html",
-        "date": "2025-11-16 13:51:00",
-        "sentiment_score": -0.7636191733181477
-    },
-    {
-        "title": "Feijóo apela a concentrar el voto en el PP en las elecciones extremeñas frente a la “pinza” de Vox y PSOE",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CCACMJO7OVOB5LLGXSX2JHTE5M.jpg?auth=788a4bbed8ef4b4ddd1cb0f177a09ebe7f9256ede971aec6a1e792c6fb6218b9&width=1200",
-        "tags": [
-            "extremadura",
-            "psoe",
-            "pp",
-            "españa",
-            "maría guardiola martín",
-            "elecciones extremeñas",
-            "miguel ángel gallardo",
-            "alberto núñez feijóo",
-            "elecciones autonómicas",
-            "pedro sánchez"
-        ],
-        "link": "https://elpais.com/espana/2025-11-16/feijoo-apela-a-concentrar-el-voto-en-el-pp-en-las-elecciones-extremenas-frente-a-la-pinza-de-vox-y-psoe.html",
-        "date": "2025-11-16 13:19:42",
-        "sentiment_score": 0.20965518057346344
     },
     {
         "title": "David Trueba: “El hombre siente que su pene es un tirano, alguien que les arrastra: estamos disociados totalmente”",
@@ -3290,16 +3201,6 @@ export default [
         "sentiment_score": -0.6320065669715405
     },
     {
-        "title": "Semana Deportiva: Vinotinto sub-17 regresa a casa",
-        "image_url": "https://static.wixstatic.com/media/cf263a_08e149900cf6406c892598f84b5b23b6~mv2.png/v1/fit/w_934,h_496,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/semana-deportiva-la-vinotinto-regresa-a-casa",
-        "date": "2025-11-16 13:54:47",
-        "sentiment_score": -0.012520328164100647
-    },
-    {
         "title": "A qué hora juega Brasil vs Túnez: partido amistoso en París por fecha FIFA 2025",
         "image_url": "https://www.infobae.com/resizer/v2/NO2LXESS4NEH3KRRS3KZADMOHA.jpg?auth=6bce8f4e6f30e352de306babd162376de0fcdaf4966dd26898abb3c8f365e02d&height=1080&smart=true&width=1920",
         "tags": [
@@ -5077,5 +4978,177 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251119/lhospitalet-condena-feminicidio-vecina-decreta-horas-luto/1003742708956_0.html",
         "date": "2025-11-19 21:04:36",
         "sentiment_score": -0.7024099100381136
+    },
+    {
+        "title": "El Gran Estadio de Sevilla",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sevilla",
+            "gran",
+            "estadio"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/gran-estadio-sevilla_0_2005269787.html",
+        "date": "2025-11-20 02:06:42",
+        "sentiment_score": -0.10297858715057373
+    },
+    {
+        "title": "A prisión una mujer que ocultó su boda en Madrid por la iglesia y cobró 311.641 euros de pensión de viudedad",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/09/10/imagen-de-archivo-de-una-boda-2139.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.huffingtonpost.es/economia/a-prision-mujer-oculto-boda-madrid-iglesia-cobro-311641-euros-pension-viudedad.html",
+        "date": "2025-11-20 02:00:00",
+        "sentiment_score": -0.29434916377067566
+    },
+    {
+        "title": "Mehmet Demiroglu, director general de TA: \"Nosotros estamos preparados para la firma del Hürjet con España\"",
+        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744020138_260019451_1706x960.jpg",
+        "tags": [
+            "aviación militar",
+            "aviones combate",
+            "airbus",
+            "ejército del aire",
+            "indra",
+            "turquía",
+            "observatorio de la defensa",
+            "defensa - industria"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20251120/mehmet-demiroglu-director-general-ta-preparados-firma-hurjet-espana/1003744018064_0.html",
+        "date": "2025-11-20 01:35:15",
+        "sentiment_score": 0.6502361670136452
+    },
+    {
+        "title": "El lago que se atrevió a volar",
+        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744021578_260039680_1706x960.jpg",
+        "tags": [
+            "ballet",
+            "danza",
+            "teatro real"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/danza/20251120/lago-atrevio-volar/1003744021577_12.html",
+        "date": "2025-11-20 00:55:00",
+        "sentiment_score": 0.04930877685546875
+    },
+    {
+        "title": "Charles Clifford, el mejor fotógrafo del siglo XIX, regalaba estampas de España a la reina Victoria",
+        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744020795_260027931_1706x960.jpg",
+        "tags": [
+            "museos",
+            "exposiciones",
+            "fotografía",
+            "ec-critica-arte",
+            "arte"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20251120/charles-clifford-mejor-fotografo-siglo-xix-regalaba-estampas-espana-reina-victoria/1003744020596_0.html",
+        "date": "2025-11-20 00:55:00",
+        "sentiment_score": -0.14243318140506744
+    },
+    {
+        "title": "La Comunidad de Madrid exige a Renfe un nuevo convenio para recibir avisos automáticos de incidencias en Cercanías",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2022/12/14/20221214121159481995.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/madrid/cercanias-madrid-problemas-renfe/20251120013746437942.html",
+        "date": "2025-11-20 00:37:46",
+        "sentiment_score": -0.06365932524204254
+    },
+    {
+        "title": "19 NOV 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/19-nov-2025-partidazo-cope-20251120_3255655.html",
+        "date": "2025-11-20 00:36:20",
+        "sentiment_score": 0.2513839602470398
+    },
+    {
+        "title": "¿Por qué el Supremo deja en libertad a Santos Cerdán pese a las revelaciones de la UCO?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/20/2025062022170411215.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.mundiario.com/articulo/politica/que-supremo-deja-libertad-santos-cerdan-pese-revelaciones-uco/20251120010549363777.html",
+        "date": "2025-11-20 00:05:49",
+        "sentiment_score": -0.8020652141422033
+    },
+    {
+        "title": "Thibaut Courtois: \"Para ser recordado como uno de los mejores hace falta ganar trofeos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/P55JZMMKZBETFFE7IRBS4K2ODE.jpg?auth=bc7f92122a6e499a408fd1b1097563f47312e2f5efe60851ffca378531dc04bc&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/20/thibaut-courtois-para-ser-recordado-como-uno-de-los-mejores-hace-falta-ganar-trofeos/",
+        "date": "2025-11-20 00:00:15",
+        "sentiment_score": 0.5405113287270069
+    },
+    {
+        "title": "La dolorosa razón por la que Daniel Muñoz abandonó la concentración de la selección Colombia en Estados Unidos",
+        "image_url": "https://www.infobae.com/resizer/v2/V2M4P47GTVE2BJXFXZKIHPXXNM.JPG?auth=d3ade81167a8cba838db7e754fe78fd064bef6ae666689d07b4a42751cfcf0da&height=2370&smart=true&width=4213",
+        "tags": [
+            "crystal palace",
+            "selección colombia",
+            "fc barcelona",
+            "daniel muñoz medellín",
+            "daniel muñoz sepelio",
+            "daniel muñoz",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/11/19/la-dolorosa-razon-por-la-que-daniel-munoz-abandono-la-concentracion-de-la-seleccion-colombia-en-estados-unidos/",
+        "date": "2025-11-19 23:57:59",
+        "sentiment_score": 0.2752527520060539
+    },
+    {
+        "title": "El franquismo duró un año más",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ano",
+            "duro",
+            "franquismo"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/franquismo-duro-ano_0_2005269860.html",
+        "date": "2025-11-20 02:07:20",
+        "sentiment_score": -0.5446659252047539
+    },
+    {
+        "title": "Neymar en la mira de la Premier League: el fichaje que nadie imaginaba",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/17/2025021706523459258.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/increible-que-parezca-neymar-ojo-premier-league/20251120030423363779.html",
+        "date": "2025-11-20 02:04:23",
+        "sentiment_score": 0.10398930311203003
+    },
+    {
+        "title": "Claudi Alsina, matemático, sobre las 3 claves de la fórmula de la felicidad según Einstein: \"Trabajar, buscar y callar\"",
+        "image_url": "https://s3.elespanol.com/2024/02/22/ciencia/investigacion/834677229_240178187_1706x960.jpg",
+        "tags": [
+            "albert einstein",
+            "ciencia",
+            "matemáticas",
+            "felicidad"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20251120/claudi-alsina-matematico-claves-formula-felicidad-einstein-trabajar-buscar-callar/1003744020578_0.html",
+        "date": "2025-11-20 00:39:00",
+        "sentiment_score": 0.03609009087085724
+    },
+    {
+        "title": "El universo aragonés en torno al hidrógeno: de una 'hidrolinera' a la producción de combustibles sintéticos renovables",
+        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744019743_260014599_1706x960.jpg",
+        "tags": [
+            "hidrógeno",
+            "tecnología",
+            "wake up - sostenibilidad",
+            "hidrógeno verde",
+            "innovación",
+            "aragón",
+            "energía"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/aragon/20251120/universo-aragones-torno-hidrogeno-hidrolinera-produccion-combustibles-sinteticos-renovables/1003744019729_0.html",
+        "date": "2025-11-20 00:34:00",
+        "sentiment_score": 0.7615725751966238
     }
 ];
