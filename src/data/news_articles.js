@@ -1,536 +1,5 @@
 export default [
     {
-        "title": "El tesoro desconocido de Cantabria: una ermita en lo alto de un acantilado que tiene las mejores vistas de la región",
-        "image_url": "https://www.infobae.com/resizer/v2/UD4JR47H2RDMJAFKCNKQZX35OE.jpeg?auth=625317660d4510703a8a1cbf00de8a988bcf87be0298dcf69c56e77cde6299e9&height=2268&smart=true&width=4032",
-        "tags": [
-            "españa-viajes",
-            "iglesias españa",
-            "españa-noticias",
-            "iglesia",
-            "destinos españa",
-            "viajes",
-            "destinos",
-            "cantabria",
-            "turismo",
-            "turismo españa",
-            "viajes y turismo"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2025/11/16/el-tesoro-desconocido-de-cantabria-una-ermita-en-lo-alto-de-un-acantilado-que-tiene-las-mejores-vistas-de-la-region/",
-        "date": "2025-11-16 17:00:00",
-        "sentiment_score": 0.8550458624958992
-    },
-    {
-        "title": "Un matrimonio de 60 años aparece muerto en su casa de Alpedrete, en la sierra de Madrid: la mujer presentaba 50 puñaladas y falleció antes que su marido",
-        "image_url": "https://www.infobae.com/resizer/v2/2MGA4ETGSZA2NB7F7FPKGIY5PQ.jpg?auth=7a4ba3e466143911d7dcac72a249d9677ae1d759d50c21aece9557dbd7445161&height=2880&smart=true&width=5120",
-        "tags": [
-            "sucesos",
-            "sucesos españa",
-            "violencia de género",
-            "españa-noticias",
-            "criminalidad y sucesos",
-            "madrid",
-            "guardia civil españa",
-            "crímenes",
-            "españa-nacional",
-            "asesinatos",
-            "violencia contra las mujeres",
-            "violencia de género en españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/16/un-matrimonio-de-60-anos-aparece-muerto-en-su-casa-de-alpedrete-en-la-sierra-de-madrid-la-mujer-presentaba-50-punaladas-y-fallecio-antes-que-su-marido/",
-        "date": "2025-11-16 16:54:06",
-        "sentiment_score": -0.6804821901023388
-    },
-    {
-        "title": "Así se ha vivido el partido de la NFL entre Dolphins y Commanders en el Bernabéu: el himno y la bandera de España protagonizan el encuentro",
-        "image_url": "https://www.infobae.com/resizer/v2/Z6NLI5W365HOZLNF2LF7KOCQ2Q.jpg?auth=bb71167e47949f5ede7c6dfaeb270f9283ca60bb1bb56ccf2073c144c09befca&height=4511&smart=true&width=8020",
-        "tags": [
-            "santiago bernabéu",
-            "nfl",
-            "españa-deportes",
-            "españa-noticias",
-            "fútbol americano",
-            "commanders",
-            "fútbol",
-            "dolphins"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/11/16/asi-se-ha-vivido-el-partido-de-la-nfl-entre-dolphins-commanders-en-el-bernabeu-el-himno-y-bandera-de-espana-y-publico-de-distintos-puntos-del-mundo/",
-        "date": "2025-11-16 16:53:52",
-        "sentiment_score": 0.2940066047012806
-    },
-    {
-        "title": "Un nuevo email a Epstein revela que el príncipe Andrés recibió un ‘masaje’ de una de las víctimas: “Tengo que decir que no estaba al tanto”",
-        "image_url": "https://www.infobae.com/resizer/v2/VKEKUXBE5RGZNMC4CWS4X2PGKQ.jpg?auth=775f592f4a0e6063396f827c59c64c8b9ee610fd9c97bdd8c41ac7fd21d9db4f&height=1080&smart=true&width=1920",
-        "tags": [
-            "jeffrey epstein",
-            "españa-noticias",
-            "príncipe andrés",
-            "casas reales",
-            "realeza",
-            "corazón y estilo españa",
-            "españa-entretenimiento",
-            "casa real británica"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/16/un-nuevo-email-a-epstein-revela-que-el-principe-andres-recibio-un-masaje-de-una-de-las-victimas-tengo-que-decir-que-no-estaba-al-tanto/",
-        "date": "2025-11-16 16:53:19",
-        "sentiment_score": -0.0748060792684555
-    },
-    {
-        "title": "Comprobar Super Once: los resultados ganadores del Sorteo 4 de este 16 noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/PPFHQD7ONZCW5DHK2KQEM5XRCY.jpg?auth=7563789ed01319b51c40432578d3fab16da6f51f84c84520b021889f1d38cf5f&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-loterías",
-            "noticias",
-            "super once",
-            "españa-economía"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/16/comprobar-super-once-los-resultados-ganadores-del-sorteo-4-de-este-16-noviembre/",
-        "date": "2025-11-16 16:45:25",
-        "sentiment_score": 0.18755202740430832
-    },
-    {
-        "title": "Alcaraz - Sinner, sigue en directo la final de las ATP Finals 2025: horario, dónde ver y última hora del tenis",
-        "image_url": "https://www.infobae.com/resizer/v2/PO2VHFTXFNHZHHRJ37VR4QKOGU.JPG?auth=a0ee8f1d04956deccf2c2aa11cec291aaf1715d92f7de7fc271d15340b9f2734&height=2034&smart=true&width=3616",
-        "tags": [
-            "carlos alcaraz",
-            "tenis españa",
-            "españa-deportes",
-            "españa-noticias",
-            "atp finals",
-            "jannik sinner",
-            "tenis",
-            "atp"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/11/16/alcaraz-sinner-sigue-en-directo-la-final-de-las-atp-finals-2025-horario-donde-ver-y-ultima-hora-del-tenis/",
-        "date": "2025-11-16 16:23:28",
-        "sentiment_score": 0.013528574258089066
-    },
-    {
-        "title": "Triplex de la Once sorteo 3: Resultados de hoy 16 noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/4H3U3QIFVVD5LDKJMJSF6WWNDY.jpg?auth=e80d21489f735203cc5d97d149e49628ff38bc5039139c9f720fcacce4b90db3&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "super once",
-            "españa-economía",
-            "españa-loterías"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/16/triplex-de-la-once-sorteo-3-resultados-de-hoy-16-noviembre/",
-        "date": "2025-11-16 15:30:29",
-        "sentiment_score": 0.2221860010176897
-    },
-    {
-        "title": "El dictador Francisco Franco tendrá una misa 50 años después de su muerte y del fin de la dictadura",
-        "image_url": "https://www.infobae.com/resizer/v2/CQMIGR344NBSDCRTYMSK6SWLZI.png?auth=5c5085f8de8055cd208eb52b2690e870c92c0c750ff62a8d000798b638722c44&height=537&smart=true&width=821",
-        "tags": [
-            "francisco franco",
-            "españa-sociedad",
-            "franco",
-            "españa-noticias",
-            "franquismo"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/16/el-dictador-francisco-franco-tendra-una-misa-50-anos-despues-de-su-muerte-y-del-fin-de-la-dictadura/",
-        "date": "2025-11-16 15:27:47",
-        "sentiment_score": 0.11772359907627106
-    },
-    {
-        "title": "España confirma la detención del líder de la banda criminal ecuatoriana Los Lobos: la Policía consigue localizar a ‘Pipo’ pese a sus múltiples cirugías estéticas",
-        "image_url": "https://www.infobae.com/resizer/v2/KOZQ4ARWBRGTVLZ2RO6BZ3EHXY.jpg?auth=06e1f171c2755f498e23a1b4f861ecd47689c0a5dd8ae10b2db481f182e6127a&height=1362&smart=true&width=1920",
-        "tags": [
-            "españa-nacional",
-            "sucesos españa",
-            "españa",
-            "españa-internacional",
-            "banda criminal",
-            "narcotráfico",
-            "sucesos",
-            "criminalidad y sucesos",
-            "los lobos ecuador",
-            "españa-noticias",
-            "policía nacional españa",
-            "ecuador"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/16/espana-confirma-la-detencion-del-lider-de-la-banda-criminal-ecuatoriana-los-lobos-la-policia-consigue-localizar-a-pipo-pese-a-sus-multiples-cirugias-esteticas/",
-        "date": "2025-11-16 15:25:20",
-        "sentiment_score": -0.7441389337182045
-    },
-    {
-        "title": "El patrimonio millonario de Carlos Alcaraz: seis Grand Slam, publicidad con marcas de éxito y sociedades de inversión",
-        "image_url": "https://www.infobae.com/resizer/v2/QEK33CEEJJBRBNMEBPLEKGXTEE.JPG?auth=2b83bd5db559a6967e8cc8ecc9c473850ab032ffc8c8e3c3c3fb1e13be20eaaa&height=3010&smart=true&width=5351",
-        "tags": [
-            "corazón y estilo españa",
-            "famosos españa",
-            "españa-entretenimiento",
-            "carlos alcaraz",
-            "españa-noticias",
-            "gente españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/16/el-patrimonio-millonario-de-carlos-alcaraz-seis-grand-slam-publicidad-con-marcas-de-exito-y-sociedades-de-inversion/",
-        "date": "2025-11-16 15:20:45",
-        "sentiment_score": 0.85965989343822
-    },
-    {
-        "title": "El juez Peinado toma declaración a la alto cargo de La Moncloa imputada en el ‘caso Begoña Gómez’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IFUCTGZD6JATBBEDEHWOFLKBFY.JPG?auth=7d350c2eaba0ec3d26c94136eac6778d987a1be91bdaa60695cf728b8340e1b3&width=1200",
-        "tags": [
-            "juzgados",
-            "ucm",
-            "españa",
-            "ie universidad",
-            "félix bolaños garcía",
-            "malversación fondos",
-            "google",
-            "justicia",
-            "juan carlos peinado",
-            "pedro sánchez",
-            "begoña gómez fernández"
-        ],
-        "link": "https://elpais.com/espana/2025-11-16/el-juez-peinado-toma-declaracion-a-la-alto-cargo-de-la-moncloa-imputada-en-el-caso-begona-gomez.html",
-        "date": "2025-11-16 17:04:57",
-        "sentiment_score": -0.19327698647975922
-    },
-    {
-        "title": "La música catalana llena el imponente auditorio de Hamburgo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EGGMZ334NJBBHBOHXCE5LKRFJQ.jpg?auth=d9c854081e1939faf715aacd9435ff43c1e049f5593357643577fdea1c09da2c&width=1200",
-        "tags": [
-            "música clásica",
-            "obc",
-            "cataluña",
-            "palau música",
-            "música",
-            "orquestas",
-            "hamburgo"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-16/la-musica-catalana-llena-el-imponente-auditorio-de-hamburgo.html",
-        "date": "2025-11-16 15:20:35",
-        "sentiment_score": -0.8567694034427404
-    },
-    {
-        "title": "El Bernabéu se convierte en una enorme discoteca: así ha sido la actuación de Bizarrap y Daddy Yankee en el descanso del partido de la NFL",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/16/daddy-yankee-y-bizarrap-este-domingo-en-el-descanso-del-partido-de-la-nfl-en-el-santiago-bernabeu.jpeg",
-        "tags": [
-            "life"
-        ],
-        "link": "https://www.huffingtonpost.es/life/el-bernabeu-convierte-enorme-discoteca-asi-sido-actuacion-bizarrap-daddy-yankee-descanso-partido-nfl.html",
-        "date": "2025-11-16 17:00:41",
-        "sentiment_score": 0.48131901025772095
-    },
-    {
-        "title": "¿Puede un eléctrico familiar como el Audi S6 Avant e-tron sustituir a un diésel para viajar?",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/10/11/68ea86331c3c7.r_d.1329-1135.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/motor/actualidad/puede-electrico-familiar-como-audi-a6-avant-tron-sustituir-un-diesel-para-viajar_6514562_0.html",
-        "date": "2025-11-16 17:00:00",
-        "sentiment_score": 0.8263649856671691
-    },
-    {
-        "title": "El pueblo de Toledo a menos de dos horas de Madrid para una escapada de otoño: rutas de senderismo, monumentos y un precioso castañar",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/06/690cc0ad8f0cf.jpeg",
-        "tags": [
-            "destinos"
-        ],
-        "link": "https://www.20minutos.es/viajes/destinos/pueblo-toledo-menos-dos-horas-madrid-real-san-vicente-escapada-otono-rutas-senderismo-monumentos-precioso-castanar_6734668_0.html",
-        "date": "2025-11-16 17:00:00",
-        "sentiment_score": 0.8128779157996178
-    },
-    {
-        "title": "Carlos Rodríguez: \"Que le aten las manos a los veterinarios es un grave problema para la salud global\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/11/16/120F1E56-0450-4476-8760-A64E0246A8BE/carlos-rodriguez-que-aten-manos-veterinarios-grave-problema-salud-global_96.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "noticias",
-            "sociedad",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/carlos-rodriguez-que-aten-manos-veterinarios-grave-problema-salud-global_202511166919ff1e39b3f1652bf2adc1.html",
-        "date": "2025-11-16 16:43:10",
-        "sentiment_score": 0.0850134827196598
-    },
-    {
-        "title": "La NFL aprovecha el partido en el Bernabéu para brindar un homenaje a la UME que creó Zapatero",
-        "image_url": "https://www.elplural.com/uploads/s1/20/99/40/6/el-bernabeu-acoge-el-partido-de-la-nfl-entre-los-miami-dolphins-y-los-washington-commanders-ep-1_7_480x270.jpeg",
-        "tags": [
-            "el regate"
-        ],
-        "link": "https://www.elplural.com/el-regate/nfl-aprovecha-partido-bernabeu-brindar-homenaje-ume-creo-zapatero_365210102",
-        "date": "2025-11-16 16:40:00",
-        "sentiment_score": 0.06274643540382385
-    },
-    {
-        "title": "La NFL aprovecha el partido de los Dolphins y los Commanders en el Bernabéu para rendir homenaje al trabajo de la UME",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "fútbol americano",
-            "ume",
-            "deportes",
-            "nfl"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/16/6919fde0e85ecec12b8b45af.html",
-        "date": "2025-11-16 16:39:34",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "Madrid rinde homenaje a las víctimas de los accidentes de tráfico y pide ser «inconformistas» con la reducción de siniestros",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/11/16/6919f924d3961.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.eldebate.com/espana/madrid/20251116/madrid-rinde-homenaje-victimas-accidentes-trafico-pide-inconformistas-reduccion-siniestros_355673.html",
-        "date": "2025-11-16 16:33:21",
-        "sentiment_score": -0.7600586637854576
-    },
-    {
-        "title": "Todo sobre la crisis de la gripe aviar: su impacto en la salud humana, en las granjas y la economía",
-        "image_url": "https://static.grupojoly.com/clip/35561c3e-b509-4b38-b1c2-ddc82055e2e0_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gripe",
-            "salud",
-            "impacto",
-            "aviar",
-            "crisis"
-        ],
-        "link": "https://www.diariodejerez.es/sociedad/crisis-gripe-aviar-impacto-salud_0_2005246164.html",
-        "date": "2025-11-16 16:31:56",
-        "sentiment_score": -0.8020016942173243
-    },
-    {
-        "title": "La impactante transformación del estadio del Real Madrid por un partido de la NFL: “El Bernabéu como nunca lo habías visto”",
-        "image_url": "https://www.infobae.com/resizer/v2/NG4F5A2ALJCRFDUWIA22SRUM54.jpg?auth=083b88a4135e95349a2a8523b659b0e554be9684b2b8c70f4ee199c43c290c6a&height=1080&smart=true&width=1920",
-        "tags": [
-            "nfl",
-            "estadio santiago bernabéu",
-            "miami dolphins",
-            "washington commanders",
-            "real madrid"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/16/la-impactante-transformacion-del-estadio-del-real-madrid-por-un-partido-de-la-nfl-el-bernabeu-como-nunca-lo-habias-visto/",
-        "date": "2025-11-16 16:26:45",
-        "sentiment_score": 0.6375580821186304
-    },
-    {
-        "title": "Jordi Pujol permanecerá 4 o 5 días en la clínica de Barcelona donde está ingresado",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/11/16/6919a0443df65.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20251116/1002570351/jordi-pujol-permanecera-4-5-dias-clinica-barcelona-esta-ingresado-dct.html",
-        "date": "2025-11-16 17:05:46",
-        "sentiment_score": -0.16340222209692
-    },
-    {
-        "title": "'Jerez Educa' invita a los centros a apostar por el conocimiento y la preservación del medio ambiente",
-        "image_url": "https://static.grupojoly.com/clip/4f0957da-f501-44cc-bc78-794fba21cb33_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias jerez"
-        ],
-        "link": "https://www.diariodejerez.es/jerez/jerez-educa-invita-centros-apostar-medio-ambiente_0_2005246206.html",
-        "date": "2025-11-16 17:03:10",
-        "sentiment_score": 0.30233507230877876
-    },
-    {
-        "title": "Cada día 200 personas mayores son víctimas de un delito",
-        "image_url": "https://static1.ara.cat/clip/7fecd633-03a7-4456-9f8a-7d169987524d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "200",
-            "delito",
-            "mayores",
-            "victimas",
-            "dia",
-            "personas",
-            "son"
-        ],
-        "link": "https://es.ara.cat/sociedad/sucesos/dia-200-personas-mayores-son-victimas-delito_1_5563588.html",
-        "date": "2025-11-16 17:00:46",
-        "sentiment_score": -0.8328347522765398
-    },
-    {
-        "title": "Jerez y Victoria (Malta) ya son ciudades hermanas",
-        "image_url": "https://static.grupojoly.com/clip/b5e259bb-e651-49f9-a949-f552225f2589_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias jerez"
-        ],
-        "link": "https://www.diariodejerez.es/jerez/jerez-victoria-malta-ciudades-hermanamiento_0_2005246181.html",
-        "date": "2025-11-16 16:47:54",
-        "sentiment_score": 0.5433214455842972
-    },
-    {
-        "title": "La votación en el referéndum en Ecuador arranca con una notable afluencia a las urnas",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/16/6919fd69739b7.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20251116/11269459/votacion-referendum-ecuador-arranca-notable-afluencia-urnas.html",
-        "date": "2025-11-16 16:40:59",
-        "sentiment_score": 0.16020331531763077
-    },
-    {
-        "title": "El único auditorio musical que es Patrimonio Mundial por la UNESCO está en Barcelona",
-        "image_url": "https://static.eldiario.es/clip/242eb1e7-90d2-4b53-a6d4-2d2c1b40917c_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "patrimonio",
-            "pm",
-            "unico",
-            "barcelona",
-            "mundial",
-            "musical",
-            "auditorio",
-            "unesco"
-        ],
-        "link": "https://www.eldiario.es/viajes/unico-auditorio-musical-patrimonio-mundial-unesco-barcelona-pm_1_12772252.html",
-        "date": "2025-11-16 16:39:04",
-        "sentiment_score": -0.052654147148132324
-    },
-    {
-        "title": "El encuentro de creadores de contenido en catalán L'Aferrada 2025 llena salas de diferentes espacios de Palma",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251116173715_690.jpg",
-        "tags": [
-            "islas baleares"
-        ],
-        "link": "https://www.europapress.es/illes-balears/noticia-encuentro-creadores-contenido-catalan-laferrada-2025-llena-salas-diferentes-espacios-palma-20251116173715.html",
-        "date": "2025-11-16 16:37:15",
-        "sentiment_score": 0.3678786102682352
-    },
-    {
-        "title": "Abre una cuenta a su hijo en una app de citas y al ver que funciona se crea un perfil para ella",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/de71f3a6-41ac-4d69-b095-35b01591e107_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ella",
-            "cuenta",
-            "hijo",
-            "abre",
-            "perfil",
-            "para",
-            "citas",
-            "app",
-            "crea"
-        ],
-        "link": "https://www.deia.eus/buzz-on/2025/11/16/abre-cuenta-hijo-app-citas-crea-perfil-para-ella-10358688.html",
-        "date": "2025-11-16 16:30:32",
-        "sentiment_score": -0.8827281873673201
-    },
-    {
-        "title": "Conoce a la patrona de los inmigrantes: estas son sus oraciones más famosas",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763152603828/francescacabrini.png?ch=675&cw=1200",
-        "tags": [
-            "estados unidos",
-            "inmigrantes",
-            "santa francisca cabrini",
-            "religión",
-            "internacionales"
-        ],
-        "link": "https://2001online.com/usa/internacionales/conoce-a-la-patrona-de-los-inmigrantes-estas-son-sus-oraciones-mas-famosas--202511161300",
-        "date": "2025-11-16 17:00:00",
-        "sentiment_score": 0.17195841670036316
-    },
-    {
-        "title": "FANB inutiliza aeronave 416 oculta con malla artificial: aquí los detalles",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "fanb inutiliza aeronave 416"
-        ],
-        "link": "https://2001online.com/nacionales/fanb-inutiliza-aeronave-416-oculta-con-malla-artificial-aqui-los-detalles--2025111612580",
-        "date": "2025-11-16 16:58:00",
-        "sentiment_score": 0.03225589171051979
-    },
-    {
-        "title": "Pasos claves para pagar el pasaje del transporte público con MOVI: conozca las ventajas y cómo recargar",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "conatel",
-            "venezuela",
-            "sistema de pagos",
-            "transporte",
-            "avances tecnológicos"
-        ],
-        "link": "https://2001online.com/servicios/pasos-claves-para-pagar-el-pasaje-del-transporte-publico-con-movi-conozca-las-ventajas-y-como-recargar-2025111612560",
-        "date": "2025-11-16 16:56:00",
-        "sentiment_score": -0.03436398506164551
-    },
-    {
-        "title": "Tráfico en Miami: lista de desvíos por construcción de la I-395/SR 836/I-95 que debe tomar esta semana",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "usa",
-            "conductores en miami",
-            "alertas de tráfico en miami",
-            "diario 2001 eeuu",
-            "eeuu",
-            "construcción de la i-395/sr 836/i-95, miami",
-            "miami",
-            "desvíos por construcción de la i-395/sr 836/i-95",
-            "estados unidos",
-            "florida"
-        ],
-        "link": "https://2001online.com/usa/servicios/trafico-en-miami-lista-de-desvios-por-construccion-de-la-i-395-sr-836-i-95-que-debe-tomar-esta-semana-202511161200",
-        "date": "2025-11-16 16:00:00",
-        "sentiment_score": -0.042328961193561554
-    },
-    {
-        "title": "\"Old School Reggaeton\" en Caracas: leyendas de la música urbana vibraron en el Monumental",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763308162938.jpg?ch=675&cw=1200",
-        "tags": [
-            "música",
-            "\"la old school reggaetón\"",
-            "farándula",
-            "conciertos en caracas"
-        ],
-        "link": "https://2001online.com/farandula/old-school-reggaeton-en-caracas-leyendas-de-la-musica-urbana-vibraron-en-el-monumental-2025111611480",
-        "date": "2025-11-16 15:48:00",
-        "sentiment_score": 0.4780680611729622
-    },
-    {
-        "title": "¡Hogares de Washington ahorran energía y dinero! Conoce los requisitos para aplicar a este programa",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "ahorro",
-            "washington",
-            "beneficios",
-            "ayuda",
-            "#diario2001",
-            "#estadosunidos",
-            "programa de asistencia energética para hogares de bajos ingresos"
-        ],
-        "link": "https://2001online.com/usa/servicios/hogares-de-washington-ahorran-energia-y-dinero-conoce-los-requisitos-para-aplicar-a-este-programa-2025111611300",
-        "date": "2025-11-16 15:30:00",
-        "sentiment_score": -0.01630070060491562
-    },
-    {
-        "title": "Ecuador vota en referéndum este domingo: las cuatro preguntas claves que podrían cambiar la Constitución",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "referéndum",
-            "elecciones",
-            "daniel noboa",
-            "ecuador"
-        ],
-        "link": "https://2001online.com/internacionales/ecuador-vota-en-referendum-este-domingo-las-cuatro-preguntas-claves-que-podrian-cambiar-la-constitucion--2025111611230",
-        "date": "2025-11-16 15:23:00",
-        "sentiment_score": -0.30671531707048416
-    },
-    {
-        "title": "¡Llegaron 135 mil vacunas! Refuerzan sistema de salud en Venezuela",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763305666762.jpg?ch=675&cw=1200",
-        "tags": [
-            "135 mil vacunas",
-            "sistema de salud en venezuela"
-        ],
-        "link": "https://2001online.com/nacionales/llegaron-135-mil-vacunas-refuerzan-sistema-de-salud-en-venezuela--202511161190",
-        "date": "2025-11-16 15:09:00",
-        "sentiment_score": -0.024230416864156723
-    },
-    {
-        "title": "Una vida secreta en Hogeweyk: así es el pueblo creado para ayudar a pacientes con Alzheimer",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763303635974/images%20(5).jpeg?ch=675&cw=1200",
-        "tags": [
-            "atención",
-            "ámsterdam",
-            "alzheimer",
-            "casas de apoyo"
-        ],
-        "link": "https://2001online.com/curiosidades/una-vida-secreta-en-hogeweyk-asi-es-el-pueblo-creado-para-ayudar-a-pacientes-con-alzheimer--2025111610340",
-        "date": "2025-11-16 14:34:00",
-        "sentiment_score": -0.5791391637176275
-    },
-    {
         "title": "Capturaron en España a alias Pipo Chavarría, presunto líder de Los Lobos, tenía pasaporte colombiano",
         "image_url": "https://www.infobae.com/resizer/v2/TT5Q5OW5BRBVDPGOUMT4TNWU3Q.png?auth=d49fb811445c6eeebf2ed6f47d00bd0f9d7b434a0bd23cca8ba0d21b78a0c0dd&height=720&smart=true&width=1280",
         "tags": [
@@ -694,57 +163,6 @@ export default [
         "link": "https://www.abc.es/internacional/carro-combate-israeli-dispara-cascos-azules-finul-20251116215834-nt.html",
         "date": "2025-11-16 20:58:35",
         "sentiment_score": -0.12660616636276245
-    },
-    {
-        "title": "Rueda promete que en 2026 estarán en marcha 4.000 viviendas públicas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/16/251115_Pte_Retiro_DCS_08-RmLVf8dcypxVbfjoeUrde7O-1200x840@diario_abc.jpg",
-        "tags": [
-            "xunta de galicia",
-            "vivienda",
-            "alfonso rueda",
-            "viviendas sociales",
-            "política"
-        ],
-        "link": "https://www.abc.es/espana/galicia/rueda-promete-2026-marcha-4000-viviendas-publicas-20251116185151-nt.html",
-        "date": "2025-11-16 17:51:51",
-        "sentiment_score": 0.02737736701965332
-    },
-    {
-        "title": "Detienen en España al líder de Los Lobos, la mayor banda de narcotráfico de Ecuador",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/pipo-RfAwc1oC3Q65GMYtuwO78yH-1200x840@diario_abc.jpg",
-        "tags": [
-            "espana",
-            "mayor",
-            "narcotrafico",
-            "lider",
-            "banda",
-            "ecuador",
-            "lobos",
-            "detienen"
-        ],
-        "link": "https://www.abc.es/internacional/detienen-espana-lider-lobos-mayor-banda-narcotrafico-20251116182950-nt.html",
-        "date": "2025-11-16 17:29:51",
-        "sentiment_score": -0.12422654032707214
-    },
-    {
-        "title": "Las autonomías del PP acusan a Montero de falsear la votación del último consejo fiscal y piden que se rectifique el acta",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/16/1503011975-RXqE12iwXkzIWFQUUt8bvRP-1200x840@diario_abc.jpg",
-        "tags": [
-            "pp",
-            "ultimo",
-            "acusan",
-            "votacion",
-            "montero",
-            "fiscal",
-            "consejo",
-            "autonomias",
-            "piden",
-            "rectifique",
-            "falsear"
-        ],
-        "link": "https://www.abc.es/economia/autonomias-pp-acusan-montero-falsear-votacion-ultimo-20251116181345-nt.html",
-        "date": "2025-11-16 17:29:37",
-        "sentiment_score": -0.08749805390834808
     },
     {
         "title": "El fútbol cambia de dueño: los fondos de inversión toman el centro del campo",
@@ -1214,93 +632,6 @@ export default [
         "link": "https://www.abc.es/internacional/carro-combate-israeli-dispara-cascos-azules-finul-20251116215834-nt.html",
         "date": "2025-11-16 20:58:35",
         "sentiment_score": -0.12660589814186096
-    },
-    {
-        "title": "Rueda promete que en 2026 estarán en marcha 4.000 viviendas públicas",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/16/251115_Pte_Retiro_DCS_08-RmLVf8dcypxVbfjoeUrde7O-1200x840@diario_abc.jpg",
-        "tags": [
-            "xunta de galicia",
-            "vivienda",
-            "alfonso rueda",
-            "viviendas sociales",
-            "política"
-        ],
-        "link": "https://www.abc.es/espana/galicia/rueda-promete-2026-marcha-4000-viviendas-publicas-20251116185151-nt.html",
-        "date": "2025-11-16 17:51:51",
-        "sentiment_score": 0.027377396821975708
-    },
-    {
-        "title": "Detienen en España al líder de Los Lobos, la mayor banda de narcotráfico de Ecuador",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/16/pipo-RfAwc1oC3Q65GMYtuwO78yH-1200x840@diario_abc.jpg",
-        "tags": [
-            "espana",
-            "mayor",
-            "narcotrafico",
-            "lider",
-            "banda",
-            "ecuador",
-            "lobos",
-            "detienen"
-        ],
-        "link": "https://www.abc.es/internacional/detienen-espana-lider-lobos-mayor-banda-narcotrafico-20251116182950-nt.html",
-        "date": "2025-11-16 17:29:51",
-        "sentiment_score": -0.12422621250152588
-    },
-    {
-        "title": "Las autonomías del PP acusan a Montero de falsear la votación del último consejo fiscal y piden que se rectifique el acta",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/16/1503011975-RXqE12iwXkzIWFQUUt8bvRP-1200x840@diario_abc.jpg",
-        "tags": [
-            "pp",
-            "ultimo",
-            "acusan",
-            "votacion",
-            "montero",
-            "fiscal",
-            "consejo",
-            "autonomias",
-            "piden",
-            "rectifique",
-            "falsear"
-        ],
-        "link": "https://www.abc.es/economia/autonomias-pp-acusan-montero-falsear-votacion-ultimo-20251116181345-nt.html",
-        "date": "2025-11-16 17:29:37",
-        "sentiment_score": -0.0874980092048645
-    },
-    {
-        "title": "El juez Peinado toma declaración a la alto cargo de La Moncloa imputada en el ‘caso Begoña Gómez’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/IFUCTGZD6JATBBEDEHWOFLKBFY.JPG?auth=7d350c2eaba0ec3d26c94136eac6778d987a1be91bdaa60695cf728b8340e1b3&width=1200",
-        "tags": [
-            "juzgados",
-            "ucm",
-            "españa",
-            "ie universidad",
-            "félix bolaños garcía",
-            "malversación fondos",
-            "google",
-            "justicia",
-            "juan carlos peinado",
-            "pedro sánchez",
-            "begoña gómez fernández"
-        ],
-        "link": "https://elpais.com/espana/2025-11-16/el-juez-peinado-toma-declaracion-a-la-alto-cargo-de-la-moncloa-imputada-en-el-caso-begona-gomez.html",
-        "date": "2025-11-16 17:04:57",
-        "sentiment_score": -0.19327647238969803
-    },
-    {
-        "title": "La música catalana llena el imponente auditorio de Hamburgo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/EGGMZ334NJBBHBOHXCE5LKRFJQ.jpg?auth=d9c854081e1939faf715aacd9435ff43c1e049f5593357643577fdea1c09da2c&width=1200",
-        "tags": [
-            "música clásica",
-            "obc",
-            "cataluña",
-            "palau música",
-            "música",
-            "orquestas",
-            "hamburgo"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-16/la-musica-catalana-llena-el-imponente-auditorio-de-hamburgo.html",
-        "date": "2025-11-16 15:20:35",
-        "sentiment_score": -0.8567695934325457
     },
     {
         "title": "David Trueba: “El hombre siente que su pene es un tirano, alguien que les arrastra: estamos disociados totalmente”",
@@ -5150,5 +4481,238 @@ export default [
         "link": "https://www.elespanol.com/invertia/disruptores/autonomias/aragon/20251120/universo-aragones-torno-hidrogeno-hidrolinera-produccion-combustibles-sinteticos-renovables/1003744019729_0.html",
         "date": "2025-11-20 00:34:00",
         "sentiment_score": 0.7615725751966238
+    },
+    {
+        "title": "Cata Coll: \"Soy muy culé, pero aún más antimadridista\"",
+        "image_url": "https://static1.ara.cat/clip/12c97313-1ba5-4482-a323-3ac76b96cb07_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "antimadridista",
+            "coll",
+            "cule",
+            "cata"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/cata-coll-cule-antimadridista_128_5567459.html",
+        "date": "2025-11-20 06:01:01",
+        "sentiment_score": -0.1775420904159546
+    },
+    {
+        "title": "Juanma Castaño, director de El Partidazo de COPE, sobre la petición del Barça a Lewandowski de no marcar más goles: \"Va en contra del deporte\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/19/691e499a3c48a.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-director-partidazo-cope-sobre-peticion-barca-lewandowski-marcar-goles-deporte-20251120_3255632.html",
+        "date": "2025-11-20 06:00:00",
+        "sentiment_score": -0.1314886212348938
+    },
+    {
+        "title": "La desconocida colección que Felipe VI exploró y que guarda secretos de siglos",
+        "image_url": "https://www.elconfidencialdigital.com/media/monarquiaconfidencial/images/2025/11/19/2025111921083441810.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elconfidencialdigital.com/monarquia/articulo/espana/desconocida-coleccion-que-felipe-vi-exploro-que-guarda-secretos-siglos/20251120070000146701.html",
+        "date": "2025-11-20 06:00:00",
+        "sentiment_score": 0.35112670809030533
+    },
+    {
+        "title": "'Expediente Vallecas': la manipulación detrás del caso paranormal",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/17/691b495e825e6.jpeg",
+        "tags": [
+            "series"
+        ],
+        "link": "https://www.20minutos.es/cinemania/series/expediente-vallecas-caso-paranormal-manipulacion-trauma-veronica_6898972_0.html",
+        "date": "2025-11-20 06:00:00",
+        "sentiment_score": 0.2758060619235039
+    },
+    {
+        "title": "Más presión para la torre de Chipperfield: envían a Puertos del Estado y Transportes un documento de 80 páginas con expertos en contra",
+        "image_url": "https://static.grupojoly.com/clip/15111bf3-ee8c-4a79-8f96-be070aa225ad_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga",
+            "puerto de málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/presion-torre-chipperfield-envian-puertos_0_2005267146.html",
+        "date": "2025-11-20 05:59:54",
+        "sentiment_score": -0.07835683226585388
+    },
+    {
+        "title": "Claudia Tecglen presenta su fundación con la misión de 'quitar poder a la discapacidad'",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/19/691de5f712db28-84487060.jpeg",
+        "tags": [
+            "capaces"
+        ],
+        "link": "https://www.20minutos.es/capaces/claudia-tecglen-presenta-su-fundacion-con-mision-quitar-poder-discapacidad_6900083_0.html",
+        "date": "2025-11-20 05:56:56",
+        "sentiment_score": 0.01593901962041855
+    },
+    {
+        "title": "¿Vives entre ladridos o maullidos?",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/19163904/Captura-de-pantalla-2025-11-19-163633.png",
+        "tags": [
+            "opinión",
+            "columnistas"
+        ],
+        "link": "https://www.elnacional.com/2025/11/vives-entre-ladridos-o-maullidos/",
+        "date": "2025-11-20 05:15:00",
+        "sentiment_score": 0.015390962362289429
+    },
+    {
+        "title": "Un Vigo que arraiga: la nueva temporada en 3x3",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d30eef12-7841-4d97-90fe-71a4c4dbfffa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "o marisquiño",
+            "baloncesto",
+            "vigo 3x3",
+            "luis guimeráns"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2025/11/20/equipo-femenino-vigo-3x3-inicia-segunda-temporada-liga-de-invierno-123913540.html",
+        "date": "2025-11-20 05:10:36",
+        "sentiment_score": 0.3913319408893585
+    },
+    {
+        "title": "«Google y Meta sí colaboran para frenar los fraudes en la red, pero con la plataforma X no lo conseguimos»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/15b2d79d-b1e1-4bbf-9e3a-8a38763a5ba7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cnmv",
+            "empresas",
+            "finanzas",
+            "galicia",
+            "mercados"
+        ],
+        "link": "https://www.farodevigo.es/economia/2025/11/20/carlos-san-basilio-presidente-cnmv-google-meta-colaboran-frenar-fraudes-internet-x-no-lo-conseguimos-123913062.html",
+        "date": "2025-11-20 05:08:29",
+        "sentiment_score": 0.004246413707733154
+    },
+    {
+        "title": "Del feminismo a las políticas trans: cómo ha cambiado España en los 50 años de la muerte de Franco",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/18/los-periodicos-anuncian-la-muerte-de-francisco-franco-en-noviembre-de-1075.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/del-feminismo-politicas-trans-como-cambiado-espana-50nos-muerte-franco.html",
+        "date": "2025-11-20 05:08:17",
+        "sentiment_score": -0.04086372256278992
+    },
+    {
+        "title": "El rastro de la exaltación de Franco en decenas de lugares, en 'Equipo de investigación'",
+        "image_url": "https://static.grupojoly.com/clip/0faf5f93-0fcd-447a-9f0c-a081acb940d8_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "exaltacion",
+            "lugares",
+            "franco",
+            "rastro",
+            "decenas"
+        ],
+        "link": "https://www.malagahoy.es/television/rastro-exaltacion-franco-decenas-lugares_0_2005270112.html",
+        "date": "2025-11-20 06:37:08",
+        "sentiment_score": 0.09643198549747467
+    },
+    {
+        "title": "La contundente respuesta de Rosanna Zanetti cuando le preguntan si participaría con David Bisbal en 'La isla de las tentaciones': \"Eso de poner a prueba el amor...\"",
+        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/files/fp/uploads/2025/11/20/691eb5b137d71.r_d.1174-529-0.jpeg",
+        "tags": [
+            "trending topic"
+        ],
+        "link": "https://www.cadena100.es/trending-topic/noticias/contundente-respuesta-rosanna-zanetti-le-preguntan-participaria-david-bisbal-isla-tentaciones-poner-prueba-amor-20251120_142411.html",
+        "date": "2025-11-20 06:36:16",
+        "sentiment_score": 0.058680444955825806
+    },
+    {
+        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades de España este 20 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "gasolina",
+            "noticias",
+            "precio gasolina",
+            "españa-economia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/20/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-de-espana-este-20-de-noviembre/",
+        "date": "2025-11-20 06:31:18",
+        "sentiment_score": -0.06122169271111488
+    },
+    {
+        "title": "Xavi, emprendedor en España: \"Abrir una cafetería cuesta unos 30.000 € y con sólo 20 sillas puedes ganar 15.000 € al mes\"",
+        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744020278_260021294_1706x960.jpg",
+        "tags": [
+            "cafeterías",
+            "actualidad gastronómica",
+            "empresas",
+            "café"
+        ],
+        "link": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20251120/xavi-emprendedor-espana-abrir-cafeteria-cuesta-eur-solo-sillas-puedes-ganar-mes/1003744020029_0.html",
+        "date": "2025-11-20 06:30:04",
+        "sentiment_score": 0.02362838387489319
+    },
+    {
+        "title": "Lo que debes saber hoy, 20 de noviembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/10/30/el-pols-de-la-ciutat/897420449_13653804_1706x960.jpg",
+        "tags": [
+            "aemet (agencia estatal de meteorología)",
+            "transports metropolitans barcelona tmb",
+            "tráfico",
+            "autobús",
+            "renfe barcelona",
+            "clima",
+            "metro barcelona",
+            "movilidad",
+            "el tiempo",
+            "transporte"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/viure-a-barcelona/20251120/debes-saber-hoy-noviembre-barcelona/1003742708976_0.html",
+        "date": "2025-11-20 06:29:49",
+        "sentiment_score": -0.9207967408001423
+    },
+    {
+        "title": "Plaga de cierres de restaurantes en Barcelona: ¿una burbuja culinaria que amenaza con estallar?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ef8500a2-5497-44be-b683-fac5f76282df_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "restaurantes barcelona",
+            "restaurante",
+            "barcelona",
+            "gastronomía"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251120/restaurantes-cerrados-barcelona-burbuja-culinaria-amenaza-estallar-123855807",
+        "date": "2025-11-20 06:20:02",
+        "sentiment_score": -0.16059739887714386
+    },
+    {
+        "title": "Finorri: cocina clásica contemporánea excelsa en el hotel que visitaron Dalí y García Lorca",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/45b6725b-efd3-4991-8c5f-cda3612902aa_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gastronomía",
+            "restaurantes barcelona",
+            "restaurante",
+            "barcelona",
+            "dónde comer hoy",
+            "hoteles"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251120/finorre-restaurante-barcelona-cocina-catalana-123827302",
+        "date": "2025-11-20 06:19:16",
+        "sentiment_score": -0.3797849118709564
+    },
+    {
+        "title": "¿Qué se come en los Abruzos? 12 restaurantes de Barcelona te descubren platos de esta región italiana",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0103c63-94e3-4c6d-92dc-44a685faec04_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gastronomía",
+            "restaurantes barcelona",
+            "restaurante",
+            "barcelona",
+            "dónde comer hoy"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251120/platos-region-abruzos-restaurantes-barcelona-123807206",
+        "date": "2025-11-20 06:18:26",
+        "sentiment_score": 0.5009175315499306
+    },
+    {
+        "title": "Lo más fácil",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0d40b2d1-d24f-4d03-bda1-36daaaa0970d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "facil"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2025/11/20/facil-10374987.html",
+        "date": "2025-11-20 06:16:33",
+        "sentiment_score": -0.3460644781589508
     }
 ];
