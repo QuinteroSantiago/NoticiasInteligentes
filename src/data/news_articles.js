@@ -1,265 +1,5 @@
 export default [
     {
-        "title": "Los embalses de agua se encuentran al 51,37 % de su capacidad este sábado 15 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/ZCPV6775XRB5DPEFENUCEFG2EA.png?auth=205756b17da068a8ecca24602fa6cff95eba7e5175a2b73da71603adff4b7941&height=2343&smart=true&width=3514",
-        "tags": [
-            "sequía",
-            "embalses españa",
-            "españa-noticias",
-            "noticias",
-            "agua"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/16/los-embalses-de-agua-se-encuentran-al-5137-de-su-capacidad-este-sabado-15-de-noviembre/",
-        "date": "2025-11-16 06:16:25",
-        "sentiment_score": 0.010273903608322144
-    },
-    {
-        "title": "Adiós a Carlos ‘Fouché’ Mazón: una suerte de ‘ayusismo’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WGHSEBTWBFD7POSA3H7JDOSYC4.JPG?auth=5e27d1016c4b01a317024175ee9f7863e99d4fd83b0e9579c2fc93fd381363f0&width=1200",
-        "tags": [
-            "dana",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "stefan zweig",
-            "carlos mazón"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-16/adios-a-carlos-fouche-mazon-una-suerte-de-ayusismo.html",
-        "date": "2025-11-16 05:41:35",
-        "sentiment_score": -0.4077945500612259
-    },
-    {
-        "title": "“La provincia que más depósitos tiene del Museo del Prado en toda Castilla y León es Segovia”",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2025/11/ALFONSO-PALACIO-5.jpg",
-        "tags": [
-            "segovia",
-            "conversaciones con..."
-        ],
-        "link": "https://eladelantado.com/la-provincia-que-mas-depositos-tiene-del-museo-del-prado-en-toda-castilla-y-leon-es-segovia/",
-        "date": "2025-11-16 06:15:35",
-        "sentiment_score": 0.1373874843120575
-    },
-    {
-        "title": "'Los días afuera', el plato principal del Festival de Otoño",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/14/las-protagonistas-de-los-dias-afuera-en-un-coche-en-momento-de-la-representacion.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/los-dias-afuera-plato-principal-festival-otono.html",
-        "date": "2025-11-16 06:07:25",
-        "sentiment_score": 0.6521806195378304
-    },
-    {
-        "title": "Cenicienta, el musical que sueña con un mundo más justo entre calabazas y tacones de cristal",
-        "image_url": "https://static.grupojoly.com/clip/e13458e9-3e3d-4b71-b004-e4aaccb0beb0_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "justo",
-            "suena",
-            "mundo",
-            "cenicienta",
-            "musical"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/cenicienta-musical-suena-mundo-justo_0_2005244152.html",
-        "date": "2025-11-16 06:01:35",
-        "sentiment_score": 0.6316794976592064
-    },
-    {
-        "title": "Kito Muñoz: “Rosalía ha sido súper generosa conmigo”",
-        "image_url": "https://static.grupojoly.com/clip/3c3b55ca-b381-4c6f-b0d4-dcca77243fd8_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "kito",
-            "rosalia",
-            "munoz",
-            "super",
-            "sido"
-        ],
-        "link": "https://www.diariodecadiz.es/chiclana/kito-munoz-rosalia-sido-super_0_2005233066.html",
-        "date": "2025-11-16 06:01:10",
-        "sentiment_score": 0.7405801434069872
-    },
-    {
-        "title": "Mónica, joven ganadera (29) que lamenta tanta burocracia: “Hoy el 50% del trabajo es campo y el otro 50% en oficina”",
-        "image_url": "https://s3.elespanol.com/2025/11/13/actualidad/1003744011452_259905928_1706x960.jpg",
-        "tags": [
-            "ganadería",
-            "salamanca",
-            "salamanca (provincia)"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/salamanca/20251116/monica-joven-ganadera-lamenta-burocracia-hoy-trabajo-campo-oficina/1003744010685_0.html",
-        "date": "2025-11-16 06:00:00",
-        "sentiment_score": 0.5035630390048027
-    },
-    {
-        "title": "Vicente Seguí, economista: \"En Málaga se nos ha llenado la boca de la palabra éxito, pero no hemos sabido gestionarlo\"",
-        "image_url": "https://s3.elespanol.com/2025/11/15/actualidad/1003744015468_259960695_1706x960.jpg",
-        "tags": [
-            "málaga",
-            "málaga (provincia)",
-            "urbanismo"
-        ],
-        "link": "https://www.elespanol.com/malaga/20251116/vicente-segui-economista-malaga-llenado-boca-palabra-exito-no-sabido-gestionarlo/1003744015461_0.html",
-        "date": "2025-11-16 05:50:00",
-        "sentiment_score": -0.6124221831560135
-    },
-    {
-        "title": "Neymar rompe en lágrimas en la victoria de Santos sobre el Palmeiras",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/17/2025021706523459258.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/santos-resurge-descuento-neymar-rompe-lagrimas/20251116064407363303.html",
-        "date": "2025-11-16 05:44:07",
-        "sentiment_score": 0.7294932939112186
-    },
-    {
-        "title": "Alejandro Speitzer: “El hombre tiene que reaprender y romper con patrones arraigados”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/12/691484b16afb3.r_d.2630-2561-839.jpeg",
-        "tags": [
-            "moda"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/moda/20251116/11255313/alejandro-speitzer-hombre-reaprender-romper-patrones-arraigados.html",
-        "date": "2025-11-16 05:40:00",
-        "sentiment_score": 0.5474334955215454
-    },
-    {
-        "title": "La armada Boluda",
-        "image_url": "https://static.grupojoly.com/clip/383ca3e1-92cf-42ef-90ce-b758f99b8c53_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "boluda",
-            "armada"
-        ],
-        "link": "https://www.elconciso.es/empresas/armada-boluda_0_2005238295.html",
-        "date": "2025-11-16 05:30:33",
-        "sentiment_score": -0.26178036630153656
-    },
-    {
-        "title": "Pablo Zabaleta recuerda su paso por el Espanyol: fichaje, adaptación, lo que le pidió el club con Messi y las noches épicas de Montjuïc",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/pablo-zabaleta-post-united.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/pablo-zabaleta-historia-espanyol-messi-entrevista-post-united/",
-        "date": "2025-11-16 05:30:23",
-        "sentiment_score": 0.5794230327010155
-    },
-    {
-        "title": "El vino de la semana: Vi de Palla 20 Anys de Ferrer-Bobet",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/29/69023e71bc9c3.r_d.2175-1630-1032.jpeg",
-        "tags": [
-            "comer"
-        ],
-        "link": "https://www.lavanguardia.com/comer/20251116/11211187/vino-semana-vi-palla-20-anys-ferrer-bobet-brl.html",
-        "date": "2025-11-16 06:30:00",
-        "sentiment_score": 0.6668527871370316
-    },
-    {
-        "title": "El fuego se abre paso bajo la lluvia en Barcelona: Els 'Diables' del Clot toman las calles en la fiesta popular del barrio",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/15/6918f2b762b6f.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/fuego-se-abre-paso-bajo-lluvia-barcelona-els-diables-clot-toman-las-calles-fiesta-popular-barrio_6898412_0.html",
-        "date": "2025-11-16 06:30:00",
-        "sentiment_score": -0.35675401240587234
-    },
-    {
-        "title": "Vuelve el derbi de filiales: el Espanyol B recibe al Barça Atlètic casi cinco años después",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/derbi-filiales-espanyol-b-barca-atletic-dani-jarque-2025/",
-        "date": "2025-11-16 06:17:24",
-        "sentiment_score": -0.6901220120489597
-    },
-    {
-        "title": "El economista Niño Becerra cuestiona la sostenibilidad de las pensiones: “Se pagan con deuda pública”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/afd96b66-9d0f-4ccc-90c0-7a30042ed216_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pensiones",
-            "deuda pública",
-            "españa",
-            "santiago",
-            "finanzas"
-        ],
-        "link": "https://www.informacion.es/finanzas-personales/2025/11/16/economista-nino-becerra-cuestiona-sostenibilidad-pensiones-dv-123771920.html",
-        "date": "2025-11-16 06:15:24",
-        "sentiment_score": -0.7157633565366268
-    },
-    {
-        "title": "Actores, insomnio y retranca",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/00e3e970-02a3-4841-b8ba-ae7670461f7a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "actores",
-            "serie",
-            "política",
-            "libro"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2025/11/16/actores-insomnio-retranca-123759371.html",
-        "date": "2025-11-16 06:02:00",
-        "sentiment_score": -0.16385424137115479
-    },
-    {
-        "title": "David Bisbal canta a la Navidad en una abarrotada plaza de toros de Almería",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/david-bisbal-canta-navidad-abarrotada_0_2005241580.html",
-        "date": "2025-11-16 06:01:29",
-        "sentiment_score": 0.6263519376516342
-    },
-    {
-        "title": "El CD AMDDA cumplirá una década con una 'goleada' de superación",
-        "image_url": "https://static.grupojoly.com/clip/009c6dd1-1363-483d-b4e8-6fa5a2c61771_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "málaga",
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/cd-amdda-unico-equipo-futbol-andaluz-paralisis-cerebral-origen-malagueno_0_2005191078.html",
-        "date": "2025-11-16 06:01:22",
-        "sentiment_score": 0.578923761844635
-    },
-    {
-        "title": "Francamente mal",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/23fdb405-4f46-44c4-8080-815ce69249ad_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tierra,gobierno,franquismo,barcelona"
-        ],
-        "link": "https://www.laopiniondezamora.es/opinion/2025/11/16/francamente-mal-123764882.html",
-        "date": "2025-11-16 06:00:50",
-        "sentiment_score": -0.46677327156066895
-    },
-    {
-        "title": "Cesare Pavese, el difícil oficio de vivir",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c48b0162-2f8d-4e2d-8a9f-e4866b4228ad_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "escritores",
-            "muerte",
-            "playa",
-            "el tiempo"
-        ],
-        "link": "https://www.laopiniondemalaga.es/libros/2025/11/16/cesare-pavese-dificil-oficio-vivir-123749349.html",
-        "date": "2025-11-16 06:00:43",
-        "sentiment_score": -0.793823603540659
-    },
-    {
-        "title": "La solución de Gonzalo Bernardos al problema de la vivienda en España: \"Estamos pensando siempre en Barcelona y Madrid pero...\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a37e352-cfa3-488b-a289-75123dd50203_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pensiones",
-            "barcelona",
-            "madrid",
-            "españa",
-            "problema de la vivienda",
-            "finanzas",
-            "vivienda"
-        ],
-        "link": "https://www.informacion.es/finanzas-personales/2025/11/16/gonzalo-bernardos-problema-vivienda-dv-123566983.html",
-        "date": "2025-11-16 06:00:38",
-        "sentiment_score": -0.02016882598400116
-    },
-    {
         "title": "El tesoro desconocido de Cantabria: una ermita en lo alto de un acantilado que tiene las mejores vistas de la región",
         "image_url": "https://www.infobae.com/resizer/v2/UD4JR47H2RDMJAFKCNKQZX35OE.jpeg?auth=625317660d4510703a8a1cbf00de8a988bcf87be0298dcf69c56e77cde6299e9&height=2268&smart=true&width=4032",
         "tags": [
@@ -428,18 +168,6 @@ export default [
         "sentiment_score": 0.85965989343822
     },
     {
-        "title": "La llave que abrió el flamenco",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/16/fosorito-concierto-cordoba-kAhF-U701945078951tKE-1200x840@diario_abc.jpg",
-        "tags": [
-            "córdoba",
-            "andalucía",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/francisco-poyato-llave-abrio-flamenco-20251116091147-nts.html",
-        "date": "2025-11-16 08:11:47",
-        "sentiment_score": 0.02705371379852295
-    },
-    {
         "title": "El juez Peinado toma declaración a la alto cargo de La Moncloa imputada en el ‘caso Begoña Gómez’",
         "image_url": "https://imagenes.elpais.com/resizer/v2/IFUCTGZD6JATBBEDEHWOFLKBFY.JPG?auth=7d350c2eaba0ec3d26c94136eac6778d987a1be91bdaa60695cf728b8340e1b3&width=1200",
         "tags": [
@@ -513,33 +241,6 @@ export default [
         "link": "https://elpais.com/espana/2025-11-16/feijoo-apela-a-concentrar-el-voto-en-el-pp-en-las-elecciones-extremenas-frente-a-la-pinza-de-vox-y-psoe.html",
         "date": "2025-11-16 13:19:42",
         "sentiment_score": 0.20965522527694702
-    },
-    {
-        "title": "Jordi Pujol, ingresado en un hospital de Barcelona por una neumonía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7I363OOWANESRF4JZ2YJE47IZ4.jpg?auth=280a1f4d6a88f012aa591b62c8e652ec19dc4aaf0c5396598e6fd2b840cbf204&width=1200",
-        "tags": [
-            "generalitat cataluña",
-            "barcelona",
-            "cataluña",
-            "jordi pujol"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-16/jordi-pujol-ingresado-en-un-hospital-de-barcelona-por-una-neumonia.html",
-        "date": "2025-11-16 09:28:22",
-        "sentiment_score": -0.594990799203515
-    },
-    {
-        "title": "Dos fallecidos y tres heridos tras caer un coche por un barranco en Castellón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ULKO2M3YFRCUXOSCCRPVTFI3OY.jpg?auth=8fbc2c9b587614d5aa3e34e8f5a2a2b48a40c1a93363a96b14bac63dcccf7968&width=1200",
-        "tags": [
-            "castellón",
-            "españa",
-            "accidentes tráfico",
-            "comunidad valenciana",
-            "sucesos"
-        ],
-        "link": "https://elpais.com/espana/2025-11-16/dos-fallecidos-y-tres-heridos-tras-caer-un-coche-por-un-barranco-en-castellon.html",
-        "date": "2025-11-16 09:01:15",
-        "sentiment_score": -0.6119554229080677
     },
     {
         "title": "El Bernabéu se convierte en una enorme discoteca: así ha sido la actuación de Bizarrap y Daddy Yankee en el descanso del partido de la NFL",
@@ -1616,18 +1317,6 @@ export default [
         "sentiment_score": -0.0874980092048645
     },
     {
-        "title": "La llave que abrió el flamenco",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/16/fosorito-concierto-cordoba-kAhF-U701945078951tKE-1200x840@diario_abc.jpg",
-        "tags": [
-            "córdoba",
-            "andalucía",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/francisco-poyato-llave-abrio-flamenco-20251116091147-nts.html",
-        "date": "2025-11-16 08:11:47",
-        "sentiment_score": 0.027053743600845337
-    },
-    {
         "title": "El juez Peinado toma declaración a la alto cargo de La Moncloa imputada en el ‘caso Begoña Gómez’",
         "image_url": "https://imagenes.elpais.com/resizer/v2/IFUCTGZD6JATBBEDEHWOFLKBFY.JPG?auth=7d350c2eaba0ec3d26c94136eac6778d987a1be91bdaa60695cf728b8340e1b3&width=1200",
         "tags": [
@@ -1701,48 +1390,6 @@ export default [
         "link": "https://elpais.com/espana/2025-11-16/feijoo-apela-a-concentrar-el-voto-en-el-pp-en-las-elecciones-extremenas-frente-a-la-pinza-de-vox-y-psoe.html",
         "date": "2025-11-16 13:19:42",
         "sentiment_score": 0.20965518057346344
-    },
-    {
-        "title": "Jordi Pujol, ingresado en un hospital de Barcelona por una neumonía",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/7I363OOWANESRF4JZ2YJE47IZ4.jpg?auth=280a1f4d6a88f012aa591b62c8e652ec19dc4aaf0c5396598e6fd2b840cbf204&width=1200",
-        "tags": [
-            "generalitat cataluña",
-            "barcelona",
-            "cataluña",
-            "jordi pujol"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-16/jordi-pujol-ingresado-en-un-hospital-de-barcelona-por-una-neumonia.html",
-        "date": "2025-11-16 09:28:22",
-        "sentiment_score": -0.5949901565909386
-    },
-    {
-        "title": "Dos fallecidos y tres heridos tras caer un coche por un barranco en Castellón",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ULKO2M3YFRCUXOSCCRPVTFI3OY.jpg?auth=8fbc2c9b587614d5aa3e34e8f5a2a2b48a40c1a93363a96b14bac63dcccf7968&width=1200",
-        "tags": [
-            "castellón",
-            "españa",
-            "accidentes tráfico",
-            "comunidad valenciana",
-            "sucesos"
-        ],
-        "link": "https://elpais.com/espana/2025-11-16/dos-fallecidos-y-tres-heridos-tras-caer-un-coche-por-un-barranco-en-castellon.html",
-        "date": "2025-11-16 09:01:15",
-        "sentiment_score": -0.6119551435112953
-    },
-    {
-        "title": "Adiós a Carlos ‘Fouché’ Mazón: una suerte de ‘ayusismo’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WGHSEBTWBFD7POSA3H7JDOSYC4.JPG?auth=5e27d1016c4b01a317024175ee9f7863e99d4fd83b0e9579c2fc93fd381363f0&width=1200",
-        "tags": [
-            "dana",
-            "inundaciones dana octubre 2024",
-            "comunidad valenciana",
-            "generalitat valenciana",
-            "stefan zweig",
-            "carlos mazón"
-        ],
-        "link": "https://elpais.com/espana/comunidad-valenciana/2025-11-16/adios-a-carlos-fouche-mazon-una-suerte-de-ayusismo.html",
-        "date": "2025-11-16 05:41:35",
-        "sentiment_score": -0.4077935069799423
     },
     {
         "title": "David Trueba: “El hombre siente que su pene es un tirano, alguien que les arrastra: estamos disociados totalmente”",
@@ -5234,5 +4881,201 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2025/11/19/previa-del-real-madrid-zalgiris-kaunas/",
         "date": "2025-11-19 17:01:10",
         "sentiment_score": -0.06070847064256668
+    },
+    {
+        "title": "Ronaldinho: \"Se cumplen 20 años de aquel partido tan especial, nunca imaginé que me ovacionarían dentro del Santiago Bernabéu\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/19/691e3ee0249dd.r_d.1673-665-1919.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/ronaldinho-cumplen-20-anos-partido-especial-nunca-imagine-me-ovacionarian-santiago-bernabeu-20251119_3255622.html",
+        "date": "2025-11-19 22:13:47",
+        "sentiment_score": 0.042378902435302734
+    },
+    {
+        "title": "Resumen Arsenal-Real Madrid: Alessia Russo es la nueva bestia negra madridista (2-1)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/19/image-2bd79b78-343e-4445-87b4-21e14618a146-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league-femenina/2025-2026/video-resumen-arsenal-real-madrid-goles-resultado-highlights-weir-alessia-russo_vid60037995/video.shtml",
+        "date": "2025-11-19 22:10:31",
+        "sentiment_score": 0.6136028170585632
+    },
+    {
+        "title": "Una sociedad que se fundó en casa del propio gerente le cobró 1,3 millones al CNIO: así se habría robado a la lucha contra el cáncer",
+        "image_url": "https://phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
+        "tags": [
+            "artículos quico alsedo",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/19/691c51c3e9cf4afc418b458c.html",
+        "date": "2025-11-19 21:40:21",
+        "sentiment_score": -0.6965844370424747
+    },
+    {
+        "title": "La petición del Barça a Lewandowski en su primera temporada: \"Queremos que dejes de marcar goles\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/11/19/691e1bafdb5264-76789926.r_d.1247-919.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/extrana-peticion-barcelona-lewandowski-robert-queremos-dejes-marcar-goles_6900219_0.html",
+        "date": "2025-11-19 21:39:40",
+        "sentiment_score": -0.0153779536485672
+    },
+    {
+        "title": "«La hostelería gijonesa es fiel reflejo del espíritu de la sociedad, de las modas y las coyunturas»",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/11/19/1503196290-R760E7EfQWltQfUBbs69wbN-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "club astur de regatas",
+            "gijón"
+        ],
+        "link": "https://www.elcomercio.es/gijon/hosteleria-gijonesa-fiel-reflejo-espiritu-sociedad-modas-20251119221246-nt.html",
+        "date": "2025-11-19 21:38:40",
+        "sentiment_score": 0.3860393986105919
+    },
+    {
+        "title": "Nicolás Sartorius: \"La historia que nos han contado de la Transición es una gran mentira\"",
+        "image_url": "https://static.eldiario.es/clip/cda2dac5-3d0f-4b98-82da-2ac77d0b7641_16-9-discover-aspect-ratio_default_0_x3629y1259.jpg",
+        "tags": [
+            "nicolas",
+            "sartorius",
+            "contado",
+            "historia",
+            "gran",
+            "transicion",
+            "mentira",
+            "han"
+        ],
+        "link": "https://www.eldiario.es/sociedad/nicolas-sartorius-historia-han-contado-transicion-gran-mentira_1_12769755.html",
+        "date": "2025-11-19 21:12:46",
+        "sentiment_score": -0.2095644325017929
+    },
+    {
+        "title": "España cumple medio siglo sin Franco en plena ofensiva ultra que lo reivindica",
+        "image_url": "https://static.eldiario.es/clip/7d32d02e-865a-4252-8f48-e5cd3de40889_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cumple",
+            "espana",
+            "ultra",
+            "medio",
+            "plena",
+            "reivindica",
+            "ofensiva",
+            "franco",
+            "siglo"
+        ],
+        "link": "https://www.eldiario.es/sociedad/espana-cumple-medio-siglo-franco-plena-ofensiva-ultra-reivindica_1_12774591.html",
+        "date": "2025-11-19 21:12:46",
+        "sentiment_score": -0.1787954419851303
+    },
+    {
+        "title": "Una experta en lenguaje no verbal analiza la comparecencia de Mazón y ve algo que explicaría su actuación en la DANA: \"Es increíble\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/11/19/17CB1F21-5958-4242-9AED-107F62FFDEBE/experta-lenguaje-verbal-analiza-comparecencia-mazon-algo-que-explicaria-actuacion-dana-increible_70.jpg?crop=1920%2C1080%2Cx0%2Cy101&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "noticias",
+            "sociedad",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/sociedad/experta-lenguaje-verbal-analiza-comparecencia-mazon-algo-que-explicaria-actuacion-dana-increible_20251119691e3282eba8bc0ece09fbfe.html",
+        "date": "2025-11-19 21:11:30",
+        "sentiment_score": -0.10982091352343559
+    },
+    {
+        "title": "Emirates celebró el aumento de frecuencias en Argentina: “La demanda realmente está creciendo”",
+        "image_url": "https://www.infobae.com/resizer/v2/5XXI7K5E4RAOPPPDRTZKYAOV2E.jpg?auth=03f5691ff064950fe22d0baac9a80099468ec387ca279c9f736aa30b51d15e2b&height=1080&smart=true&width=1920",
+        "tags": [
+            "dubai",
+            "stephane perard",
+            "vuelos desde buenos aires",
+            "visa",
+            "emirates"
+        ],
+        "link": "https://www.infobae.com/economia/2025/11/19/emirates-celebro-el-aumento-de-frecuencias-en-argentina-la-demanda-realmente-esta-creciendo/",
+        "date": "2025-11-19 21:11:17",
+        "sentiment_score": -0.022766828536987305
+    },
+    {
+        "title": "Ejercicio de resistencia del Barça en París",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/19/691e3b85763c0.jpeg",
+        "tags": [
+            "esports cope"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/ejercicio-resistencia-barca-paris-20251119_3255618.html",
+        "date": "2025-11-19 22:05:16",
+        "sentiment_score": -0.07302185893058777
+    },
+    {
+        "title": "Los Mossos interrogan a las hijas y al hermano del Isak Andic",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/18/68f40a78cb1bf.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20251119/11282715/mossos-interrogan-hijas-hermano-isak-andic.html",
+        "date": "2025-11-19 22:04:24",
+        "sentiment_score": -0.2566823549568653
+    },
+    {
+        "title": "“Deja de marcar goles”: las razones detrás del insólito pedido que el Barcelona le hizo a Lewandowski",
+        "image_url": "https://www.infobae.com/resizer/v2/BO7QJ3QLQVDYBILLYARO7QSPGE.JPG?auth=c99286abb546a8046d245fa5b91ca17768915f35221a91116180a98b4839c233&height=925&smart=true&width=1644",
+        "tags": [
+            "bayern múnich",
+            "fc barcelona",
+            "robert lewandowski",
+            "deportes-argentina",
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/19/deja-de-marcar-goles-las-razones-detras-del-insolito-pedido-que-el-barcelona-le-hizo-a-lewandowski/",
+        "date": "2025-11-19 21:50:13",
+        "sentiment_score": -0.08046108111739159
+    },
+    {
+        "title": "Ni Manchester United ni Ajax: el gigante europeo que se interesa por el fichaje de Xavi Hernández",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/02/16/culemania/primer-equipo/833176686_15421737_1706x960.jpg",
+        "tags": [
+            "manchester united",
+            "napoles",
+            "barça",
+            "xavi hernández",
+            "culemaníacos"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251119/manchester-united-ajax-gigante-interesa-xavi-hernandez/1003742708920_0.html",
+        "date": "2025-11-19 21:47:55",
+        "sentiment_score": -0.8311011679470539
+    },
+    {
+        "title": "Eros Ramazzotti sorprende con su nuevo disco y desvela con quién “daría lo que fuese” por colaborar",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/11/19/2025111922260921682.jpg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/musica/eros-ramazzotti-sorprende-nuevo-disco-desvela-quien-daria-que-fuese-colaborar/20251119222637575838.html",
+        "date": "2025-11-19 21:26:37",
+        "sentiment_score": 0.7934177126735449
+    },
+    {
+        "title": "Rusia y EE.UU. pactan un nuevo plan de paz para Ucrania",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/19/691e32f45a04e.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20251119/11282673/rusia-ee-uu-pactan-nuevo-plan-paz-ucrania.html",
+        "date": "2025-11-19 21:15:03",
+        "sentiment_score": -0.4491965286433697
+    },
+    {
+        "title": "L’Hospitalet condena el feminicidio de una vecina y decreta 24 horas de luto",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/19/gran-barcelona/1003742708960_15422209_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "l'hospitalet de llobregat",
+            "feminismo",
+            "sucesos",
+            "mossos d'esquadra"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251119/lhospitalet-condena-feminicidio-vecina-decreta-horas-luto/1003742708956_0.html",
+        "date": "2025-11-19 21:04:36",
+        "sentiment_score": -0.7024099100381136
     }
 ];
