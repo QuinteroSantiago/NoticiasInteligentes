@@ -1,617 +1,5 @@
 export default [
     {
-        "title": "La bombona de butano encadena su tercera bajada de precio: esto costará a partir del martes",
-        "image_url": "https://www.infobae.com/resizer/v2/R3B3IQCE3VE73HHS5YCSCPZH2A.png?auth=d012430627ada365d8880b248c87e0d7a44a58a985065c0c217dbc4a8b8c090e&height=568&smart=true&width=1015",
-        "tags": [
-            "españa-noticias",
-            "consumo españa",
-            "españa-economía",
-            "gas natural",
-            "bombona de butano"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/la-bombona-de-butano-encadena-su-tercera-bajada-de-precio-esto-costara-a-partir-del-martes/",
-        "date": "2025-11-17 17:10:05",
-        "sentiment_score": 0.04354263097047806
-    },
-    {
-        "title": "Un medicamento consigue acabar con los antojos de comida: solo dura seis meses",
-        "image_url": "https://www.infobae.com/resizer/v2/M3BI5AYPQJCIBIIEKCD2CQCLUA.jpg?auth=e90cf28e3c44eb685001206dd4db04a16b322cb2e6bb70f14883c635721c40c8&height=2916&smart=true&width=5184",
-        "tags": [
-            "obesidad",
-            "enfermedades y medicamentos españa",
-            "españa-noticias",
-            "pérdida de peso",
-            "fármacos",
-            "medicamentos españa",
-            "diabetes tipo 2",
-            "españa-salud",
-            "medicamentos",
-            "bajar de peso"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/un-medicamento-consigue-acabar-con-los-antojos-de-comida-solo-dura-seis-meses/",
-        "date": "2025-11-17 17:09:35",
-        "sentiment_score": -0.3117819055914879
-    },
-    {
-        "title": "El Congreso convoca dos comisiones de investigación sobre el apagón ante la falta de acuerdo para fusionarlas",
-        "image_url": "https://www.infobae.com/resizer/v2/5PFEO5LZ5BBJZBVDE52AEQUEPU.jpg?auth=eed8372f4baa7a1456974e63084874372e6195bc22882355cc5e0aaf007c6678&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/17/el-congreso-convoca-dos-comisiones-de-investigacion-sobre-el-apagon-ante-la-falta-de-acuerdo-para-fusionarlas/",
-        "date": "2025-11-17 17:01:33",
-        "sentiment_score": -0.43007416650652885
-    },
-    {
-        "title": "La jueza de la dana reitera que el control de los barrancos en emergencia por inundación corresponde a la Generalitat",
-        "image_url": "https://www.infobae.com/resizer/v2/DPAKFXZ5ZRAM3MC43JKJEC4VCA.jpg?auth=70805f59577b15a74b9063a991289278ea660d03d8dee327568514e3cb0d2a71&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/17/la-jueza-de-la-dana-reitera-que-el-control-de-los-barrancos-en-emergencia-por-inundacion-corresponde-a-la-generalitat/",
-        "date": "2025-11-17 17:01:15",
-        "sentiment_score": -0.4450736865401268
-    },
-    {
-        "title": "Sopa de pescado, una receta tradicional y sabrosa a base de merluza, gambas y moluscos",
-        "image_url": "https://www.infobae.com/resizer/v2/KAR5KWPYPNGKTHL3GK5HDW5X7Q.jpeg?auth=4efa6ef2cc5435adb6722e1b4610ddd1084ba7182401da92b87c074011e3d9f1&height=4912&smart=true&width=7360",
-        "tags": [
-            "platos de cuchara",
-            "pescado",
-            "españa-noticias",
-            "españa-gastronomía",
-            "recetas españa",
-            "recetas"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/sopa-de-pescado-una-receta-tradicional-y-sabrosa-a-base-de-merluza-gambas-y-moluscos/",
-        "date": "2025-11-17 17:00:00",
-        "sentiment_score": 0.7545857913792133
-    },
-    {
-        "title": "Rebajan a 12 años la pena para el acusado de asesinar a un hombre en Ugena (Toledo) por confesar y reparar el daño",
-        "image_url": "https://www.infobae.com/resizer/v2/FTWM5MC7EJCFXPJ6EHJISPWQGE.jpg?auth=14ecff086b4a345c3ff54c20af04ceb99a0919350bec34216c0f518fb173bafd&height=1521&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/17/rebajan-a-12-anos-la-pena-para-el-acusado-de-asesinar-a-un-hombre-en-ugena-toledo-por-confesar-y-reparar-el-dano/",
-        "date": "2025-11-17 16:46:10",
-        "sentiment_score": -0.8496768586337566
-    },
-    {
-        "title": "Previa del Rumanía - España",
-        "image_url": "https://www.infobae.com/resizer/v2/3T3ZP77GRZGQDFL777KGTONNE4.jpg?auth=e8a3be5cf96a4748eabb3491edec6790fe68712a64ccdf9d9d9b95f534936305&height=1080&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/17/previa-del-rumania-espana/",
-        "date": "2025-11-17 16:45:34",
-        "sentiment_score": -0.09089075773954391
-    },
-    {
-        "title": "La ruta por la Sierra de Huelva que es perfecta para el otoño: un sendero familiar y sencillo para conocer todos los secretos de las setas",
-        "image_url": "https://www.infobae.com/resizer/v2/EZT2P36FV5HFPLR5AJFHIKO234.png?auth=950cdc6ebaa53af3dfb06d0396f53666e3d624ede771ef730420fc37c80751d1&height=338&smart=true&width=600",
-        "tags": [
-            "rutas",
-            "viajes",
-            "rutas y senderismo españa",
-            "viajes otoño",
-            "viajes y turismo",
-            "turismo",
-            "huelva",
-            "turismo españa",
-            "andalucía",
-            "españa-viajes",
-            "otoño",
-            "rutas naturales",
-            "españa-noticias"
-        ],
-        "link": "https://www.infobae.com/espana/viajes/2025/11/17/la-ruta-por-la-sierra-de-huelva-que-es-perfecta-para-el-otono-un-sendero-familiar-y-sencillo-para-conocer-todos-los-secretos-de-las-setas/",
-        "date": "2025-11-17 16:30:00",
-        "sentiment_score": 0.498989824205637
-    },
-    {
-        "title": "España arrasa en Europa: la Comisión Europea anuncia que será la economía de la zona euro que más crecerá hasta 2027",
-        "image_url": "https://www.infobae.com/resizer/v2/XQ3IGTKYRJEM3ETYIZBGG2SNSA.jpg?auth=2cf5677e734e64a0c8e6c2e7df97a3dacd9d2c72119b2bc4f9f5e54d68eb6f56&height=1080&smart=true&width=1920",
-        "tags": [
-            "crecimiento españa",
-            "españa-economia",
-            "comisión europea",
-            "pib españa",
-            "españa-noticias",
-            "empresas españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/espana-arrasa-en-europa-la-comision-europea-anuncia-que-sera-la-economia-de-la-zona-euro-que-mas-crecera-hasta-2027/",
-        "date": "2025-11-17 16:28:23",
-        "sentiment_score": 0.5891233645379543
-    },
-    {
-        "title": "La jueza de la DANA cita a declarar a la directora general de la Secretaría del President por una llamada con Mazón a las 19:42h",
-        "image_url": "https://www.infobae.com/resizer/v2/MKKVSTWCQRGZLHCGYZG56OVFFM.jpg?auth=7fa1b33efcd29b0fb7677a1be3e7fc60a18e764453148591384b7ae0840a06c6&height=2319&smart=true&width=3305",
-        "tags": [
-            "tribunales españa",
-            "comunidad valenciana",
-            "política españa",
-            "dana de valencia",
-            "juicios",
-            "españa-nacional",
-            "valencia",
-            "dana",
-            "justicia",
-            "españa-noticias",
-            "carlos mazón"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/la-jueza-de-la-dana-llama-a-declarar-a-la-directora-general-de-la-secretaria-del-president-por-una-llamada-con-mazon-a-las-1942h/",
-        "date": "2025-11-17 16:23:39",
-        "sentiment_score": 0.04487277567386627
-    },
-    {
-        "title": "Una niña sorda de 12 años, herida de gravedad en Alemania tras recibir un disparo después de atacar con cuchillos a un grupo de policías",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/17/1486227637-k40B-U702003295827urE-1200x840@diario_abc.jpg",
-        "tags": [
-            "alemania",
-            "uh abc",
-            "policía",
-            "armas"
-        ],
-        "link": "https://www.abc.es/internacional/nina-sorda-anos-herida-gravedad-alemania-tras-20251117175852-nt.html",
-        "date": "2025-11-17 16:58:53",
-        "sentiment_score": -0.195218026638031
-    },
-    {
-        "title": "Tanto Israel como Hamás critican la propuesta de EE.UU. para Gaza que debate la ONU",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/internacional/2025/11/17/1502876156-R4gXNiuaqm4Txxx3BVebWqL-1200x840@diario_abc.jpg",
-        "tags": [
-            "israel",
-            "hamás",
-            "gaza"
-        ],
-        "link": "https://www.abc.es/internacional/israel-hamas-critican-propuesta-eeuu-sobre-gaza-20251117153118-nt.html",
-        "date": "2025-11-17 16:56:02",
-        "sentiment_score": -0.07688432931900024
-    },
-    {
-        "title": "Al menos 21 muertos y 40 heridos en un accidente de autobús en Ecuador",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/17/ambulancia-ecuador-afp-k50H-U702003050141Uw-1200x840@diario_abc.PNG",
-        "tags": [
-            "accidentes",
-            "uh abc",
-            "daniel noboa",
-            "ecuador"
-        ],
-        "link": "https://www.abc.es/internacional/ascienden-muertos-heridos-accidente-autobus-ecuador-20251117172120-nt.html",
-        "date": "2025-11-17 16:22:24",
-        "sentiment_score": -0.4157438203692436
-    },
-    {
-        "title": "Montero se da tres meses para plantear un modelo de financiación que reconocerá las singularidades de las CC.AA.",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/economia/2025/11/17/CPFFJaimeGarca-RnyksuFJ4xz8GojnbsFNv2N-1200x840@diario_abc.jpg",
-        "tags": [
-            "maría jesús montero",
-            "salvador illa",
-            "hacienda",
-            "financiación autonómica",
-            "cataluña",
-            "generalitat de cataluña"
-        ],
-        "link": "https://www.abc.es/economia/montero-tres-meses-plantear-modelo-financiacion-reconocera-20251117165952-nt.html",
-        "date": "2025-11-17 16:01:12",
-        "sentiment_score": 0.024619340896606445
-    },
-    {
-        "title": "OpenAI está probando los chats grupales en ChatGPT: así funcionan",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2025/11/17/1502904906-R7j5EvC7tcV3ecAO61LpKML-1200x840@diario_abc.JPG",
-        "tags": [
-            "openai",
-            "probando",
-            "chats",
-            "funcionan",
-            "grupales",
-            "chatgpt"
-        ],
-        "link": "https://www.abc.es/tecnologia/openai-probando-chats-grupales-chatgpt-funcionan-20251117163018-nt.html",
-        "date": "2025-11-17 15:30:19",
-        "sentiment_score": -0.041411593556404114
-    },
-    {
-        "title": "Renault 4 e-Tech: un icono 100% eléctrico y polivalente",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/motor/2025/11/17/RENAULT-4-ETECH(4)-RGyjPzEEeIP2qP5x0O1x2GL-758x531@diario_abc.jpg",
-        "tags": [
-            "motor"
-        ],
-        "link": "https://www.abc.es/motor/renault-etech-icono-100-electrico-polivalente-20251117161000-nt.html",
-        "date": "2025-11-17 15:10:01",
-        "sentiment_score": -0.02472740411758423
-    },
-    {
-        "title": "Leapmotor C10: carácter premium y con autonomía extendida",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/motor/2025/11/17/LEAPMOTOR-C10(7)-RmD6dUgZ7pod3yqqjCtTCFO-1200x840@diario_abc.jpg",
-        "tags": [
-            "motor"
-        ],
-        "link": "https://www.abc.es/motor/leapmotor-c10-caracter-premium-autonomia-extendida-20251117160700-nt.html",
-        "date": "2025-11-17 15:07:01",
-        "sentiment_score": 0.02802048623561859
-    },
-    {
-        "title": "Los Mossos d’Esquadra detienen a un cazador por matar accidentalmente a otro en Cervera",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/3QG3FGJ3R5CUNJVUOETBRYH6IE.jpg?auth=0b55b1369c6d6a4cc312234e6aa3f9e21ff9c8556da688753ac3d55e3c0185d4&width=1200",
-        "tags": [
-            "emergencias",
-            "mossos d'esquadra",
-            "cataluña",
-            "armas privadas",
-            "tarroja de segarra",
-            "armas de fuego",
-            "caza"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-17/los-mossos-desquadra-han-detenido-a-un-cazador-por-matar-accidentalmente-a-otro-en-cervera.html",
-        "date": "2025-11-17 16:46:40",
-        "sentiment_score": -0.5428789556026459
-    },
-    {
-        "title": "Muere Lluís Reverter a los 82 años, exdirigente del PSC y activista cultural",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/OFNP5CGYTVEUJEVHFQ2LSPUTRA.jpg?auth=bbf5a401fb4ce3ee1a0bef28183a860b3fec09ff356c5a373956b70daa993a6e&width=1200",
-        "tags": [
-            "cataluña",
-            "psc",
-            "generalitat cataluña",
-            "narcís serra",
-            "luis reverter",
-            "activismo",
-            "govern cataluña",
-            "salvador illa",
-            "ayuntamiento barcelona"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-17/muere-lluis-reverter-a-los-82-anos-exdirigente-del-psc-y-activista-cultural.html",
-        "date": "2025-11-17 14:50:48",
-        "sentiment_score": -0.06586864590644836
-    },
-    {
-        "title": "Génova se pliega ante Ayuso y ampara su rebeldía legal al negarse a cumplir con el registro de objetores",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HYEKTZPNJJE5LNT56APPJCK2UA.jpg?auth=3b9f8cc1ef60b188a05efbbc451d578e749a85d9b749bc45932de9ca6888e3c4&width=1200",
-        "tags": [
-            "españa",
-            "ley del aborto",
-            "alberto núñez feijóo",
-            "comunidad de madrid",
-            "pp",
-            "aborto",
-            "isabel díaz ayuso",
-            "juan bravo"
-        ],
-        "link": "https://elpais.com/espana/2025-11-17/genova-se-pliega-ante-ayuso-y-ampara-su-rebeldia-legal-al-negarse-a-cumplir-con-el-registro-de-objetores.html",
-        "date": "2025-11-17 14:49:04",
-        "sentiment_score": -0.5009857565164566
-    },
-    {
-        "title": "Hereu, Illa y Collboni abogan por regular el turismo para evitar sus impactos negativos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/X6NJEM452NNE3FU7DU5TAHAHXY.jpg?auth=562d1286e41fd2aced49b05f29b13785c0d33d6902afc2c04087c892c1fcb7e5&width=1200",
-        "tags": [
-            "turismo masivo",
-            "cataluña",
-            "legislación autonómica",
-            "generalitat cataluña",
-            "turismofobia",
-            "vivienda",
-            "ministerio de industria",
-            "turismo",
-            "jordi hereu boher",
-            "jaume collboni",
-            "salvador illa",
-            "tasa turística",
-            "hotusa",
-            "ayuntamiento barcelona",
-            "pisos turísticos"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-17/hereu-illa-y-collboni-abogan-por-regular-el-turismo-para-evitar-sus-impactos-negativos.html",
-        "date": "2025-11-17 14:22:29",
-        "sentiment_score": -0.3118976131081581
-    },
-    {
-        "title": "Robles denuncia el ataque de un tanque israelí contra cascos azules españoles en Líbano",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WAFSGRK4LZBAXIY6BSRJH6JYM4.jpg?auth=be1f0758ccbd134a457490f28ee639abd70ece55a920684b362b529bbbb16148&width=1200",
-        "tags": [
-            "oriente próximo",
-            "líbano",
-            "cascos azules",
-            "onu",
-            "israel",
-            "conflicto árabe-israelí",
-            "españa"
-        ],
-        "link": "https://elpais.com/espana/2025-11-17/robles-denuncia-el-ataque-de-un-tanque-israeli-contra-cascos-azules-espanoles-en-libano.html",
-        "date": "2025-11-17 14:17:19",
-        "sentiment_score": -0.88725496083498
-    },
-    {
-        "title": "Llega a Málaga el XXII Curso Internacional de Hipospadias con cirugías en directo: una cita clave para la pediatría",
-        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017535_259986594_1706x960.jpg",
-        "tags": [
-            "médicos",
-            "málaga (municipio)",
-            "salud"
-        ],
-        "link": "https://www.elespanol.com/malaga/vivir/salud/20251117/llega-malaga-xxii-curso-internacional-hipospadias-cirugias-directo-cita-clave-pediatria/1003744017503_0.html",
-        "date": "2025-11-17 17:10:11",
-        "sentiment_score": 0.526257261633873
-    },
-    {
-        "title": "Las escuelas municipales de Hostelería y Oficios logran empleo al 50% de alumnos y abrirán dos más",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/17/691b23b3543ea.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/madrid/las-escuelas-municipales-hosteleria-oficios-consiguen-empleo-50-alumnos-abriran-dos-mas-cuidados-digital_6898787_0.html",
-        "date": "2025-11-17 17:07:13",
-        "sentiment_score": 0.3368212357163429
-    },
-    {
-        "title": "La Cartuja volverá a ser la sede de la final de la Copa del Rey por séptima vez consecutiva",
-        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744014967_259954363_1706x960.jpg",
-        "tags": [
-            "rfef (real federación española de fútbol)",
-            "fútbol",
-            "deportes",
-            "sevilla (municipio)",
-            "copa del rey de fútbol"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251117/cartuja-volvera-sede-final-copa-rey-septima-vez-consecutiva/1003744017351_0.html",
-        "date": "2025-11-17 17:07:02",
-        "sentiment_score": 0.30120606534183025
-    },
-    {
-        "title": "El Gobierno balear carga contra Hacienda por las \"incoherencias\" en su propuesta de financiación autonómica",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6efb4109-2838-4c49-8662-a4d74fe777f4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hacienda",
-            "govern",
-            "comunidades",
-            "déficit",
-            "deuda",
-            "financiación autonómica",
-            "mallorca"
-        ],
-        "link": "https://www.lne.es/economia/2025/11/17/gobierno-balear-carga-hacienda-incoherencias-123827438.html",
-        "date": "2025-11-17 17:06:04",
-        "sentiment_score": -0.8758755158632994
-    },
-    {
-        "title": "Gertrude Bell, la arquitecta de fronteras que hizo suyo Oriente Medio",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/17/691b50a2a6fad.r_d.1285-1611-1777.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20251117/11273112/gertrude-bell-arquitecta-fronteras-oriente-medio-olivier-guez-mesopotamia.html",
-        "date": "2025-11-17 17:05:11",
-        "sentiment_score": -0.12078022956848145
-    },
-    {
-        "title": "COMUNICADO: La Dieta Mediterránea, un patrimonio cultural vivo que define nuestra identidad",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251117180428_690.jpg",
-        "tags": [
-            "comunicados",
-            "comunicados sociedad"
-        ],
-        "link": "https://www.europapress.es/comunicados/sociedad-00909/noticia-comunicado-dieta-mediterranea-patrimonio-cultural-vivo-define-identidad-20251117180428.html",
-        "date": "2025-11-17 17:04:28",
-        "sentiment_score": 0.28709013015031815
-    },
-    {
-        "title": "Ver el Barça - Athletic en el palco del Camp Nou junto a Laporta tiene precio: la entrada más VIP costará 1.500 €",
-        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017520_259986417_1706x960.jpg",
-        "tags": [
-            "estadios de fútbol",
-            "fútbol",
-            "athletic club de bilbao",
-            "fc barcelona"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251117/ver-barca-athletic-palco-camp-nou-junto-laporta-precio-entrada-vip-costara-eur/1003744017506_0.html",
-        "date": "2025-11-17 17:04:23",
-        "sentiment_score": 0.10914819687604904
-    },
-    {
-        "title": "La Cartuja acogerá la final de la Copa del Rey hasta 2028",
-        "image_url": "https://static.grupojoly.com/clip/d99fe6d5-0d40-4058-aa17-e46b0f34002d_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rey",
-            "acogera",
-            "copa",
-            "cartuja",
-            "final"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/cartuja-acogera-final-copa-rey_0_2005251964.html",
-        "date": "2025-11-17 17:01:45",
-        "sentiment_score": 0.46912776306271553
-    },
-    {
-        "title": "A más votantes, mayor victoria de la derecha en Chile",
-        "image_url": "https://okdiario.com/img/2025/11/17/imagen_final-2025-11-17t175651.303.jpg",
-        "tags": [
-            "opinión",
-            "derecha",
-            "chile",
-            "tribunas",
-            "izquierda"
-        ],
-        "link": "https://okdiario.com/opinion/mas-votantes-mayor-victoria-derecha-chile-15777210",
-        "date": "2025-11-17 17:01:25",
-        "sentiment_score": 0.49873268604278564
-    },
-    {
-        "title": "El alcalde de Alpedrete \"no ve violencia de género\" en el crimen del hombre que asestó 50 puñaladas a su mujer",
-        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017510_259986312_1706x960.jpg",
-        "tags": [
-            "asesinatos",
-            "sociedad",
-            "violencia de género"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251117/alcalde-alpedrete-no-ve-violencia-genero-crimen-hombre-asesto-punaladas-mujer/1003744017491_0.html",
-        "date": "2025-11-17 17:00:59",
-        "sentiment_score": -0.75618233717978
-    },
-    {
-        "title": "\"Debía elegir entre tocar la corneja o el tiro olímpico\"",
-        "image_url": "https://static1.ara.cat/clip/974b65cb-14b0-4677-9b0f-1191d6b49f29_16-9-aspect-ratio_default_0_x774y363.jpg",
-        "tags": [
-            "tiro",
-            "corneja",
-            "debia",
-            "olimpico",
-            "elegir",
-            "tocar"
-        ],
-        "link": "https://es.ara.cat/deportes/debia-elegir-tocar-corneja-tiro-olimpico_128_5564706.html",
-        "date": "2025-11-17 17:00:28",
-        "sentiment_score": 0.4444870799779892
-    },
-    {
-        "title": "LaLiga, La Champions League y la Premier League: Domina las apuestas deportivas con la herramienta de comparación de equipos de Sportytrader",
-        "image_url": "https://okdiario.com/img/2025/11/14/sportytrader-articulo-okdiario-1.png",
-        "tags": [
-            "deportes",
-            "apuestas deportivas",
-            "no-publi"
-        ],
-        "link": "https://okdiario.com/deportes/laliga-champions-league-premier-league-domina-apuestas-deportivas-herramienta-comparacion-equipos-sportytrader-15755068",
-        "date": "2025-11-17 17:00:10",
-        "sentiment_score": 0.6867320351302624
-    },
-    {
-        "title": "Alejandro Cachón, de volador de Cangas a emperador de Japón: \"Se nos abre la oportunidad en 2027\"",
-        "image_url": "https://hips.hearstapps.com/hmg-prod/images/cachonyrozadacontrofeos-691b46e9b64eb.jpg",
-        "tags": [
-            "contentid: 46332e11-2cd9-4d81-8145-96d0e8f5a2c0",
-            "displaytype: standard article",
-            "shorttitle: alejandro cachón, el volador de japón",
-            "content-type: news",
-            "locale: es"
-        ],
-        "link": "https://www.caranddriver.com/es/motorsport/a69457077/alejandro-cachon-volador-cangas-emperador-japon-oportunidad-2027/",
-        "date": "2025-11-17 17:00:00",
-        "sentiment_score": 0.42740756273269653
-    },
-    {
-        "title": "Testamento válido en Venezuela: conozca los elementos y modalidades esenciales para disponer de sus bienes",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "testamentos",
-            "venezuela",
-            "seniat",
-            "declaración sucesoral"
-        ],
-        "link": "https://2001online.com/servicios/testamento-valido-en-venezuela-conozca-los-elementos-y-modalidades-esenciales-para-disponer-de-sus-bienes--2025111713100",
-        "date": "2025-11-17 17:10:00",
-        "sentiment_score": -0.19864831119775772
-    },
-    {
-        "title": "Pagos y trámites: Corpoelec despliega jornada integral del 17 al 21 de noviembre",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763394235903.jpg?ch=675&cw=1200",
-        "tags": [
-            "pagos y trámites",
-            "corpoelec"
-        ],
-        "link": "https://2001online.com/servicios/pagos-y-tramites-corpoelec-despliega-jornada-integral-del-17-al-21-de-noviembre-2025111712150",
-        "date": "2025-11-17 16:15:00",
-        "sentiment_score": 0.17086241394281387
-    },
-    {
-        "title": "Tom Cruise sella su legado al recibir un Óscar honorífico",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763396026625.jpg?ch=675&cw=1200",
-        "tags": [
-            "tom cruise",
-            "oscar honorífico"
-        ],
-        "link": "https://2001online.com/farandula/tom-cruise-sella-su-legado-al-recibir-un-oscar-honorifico-2025111712150",
-        "date": "2025-11-17 16:15:00",
-        "sentiment_score": -0.43206722289323807
-    },
-    {
-        "title": "Tres presuntos suicidios de menores de edad en las últimas horas: casos conmocionan a las comunidades",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763388862034.jpg?ch=675&cw=1200",
-        "tags": [
-            "top"
-        ],
-        "link": "https://2001online.com/sucesos/tres-presuntos-suicidios-de-menores-de-edad-en-las-ultimas-horas-casos-conmocionan-a-las-comunidades-202511171200",
-        "date": "2025-11-17 16:00:00",
-        "sentiment_score": -0.09602610394358635
-    },
-    {
-        "title": "¡Video Viral! Rosalía da clases de canto a Jimmy Fallon: así sonó uno de los temas de la española en la voz del comediante",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763394855626.jpg?ch=675&cw=1200",
-        "tags": [
-            "música",
-            "farándula",
-            "jimmy fallon",
-            "chisme",
-            "rosalía"
-        ],
-        "link": "https://2001online.com/farandula/video-viral-rosalia-da-clases-de-canto-a-jimmy-fallon-asi-sono-uno-de-los-temas-de-la-espanola-en-la-voz-del-comediante-2025111711560",
-        "date": "2025-11-17 15:56:00",
-        "sentiment_score": 0.7041237838566303
-    },
-    {
-        "title": "Caída y mesa limpia en La Guaira: este es el sustituto de Gregorio Petit",
-        "image_url": "https://pxcdn.meridiano.net/112025/1763357092147.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://2001online.com/deportes/caida-y-mesa-limpia-en-la-guaira-este-es-el-sustituto-de-gregorio-petit-2025111711470",
-        "date": "2025-11-17 15:47:00",
-        "sentiment_score": -0.8328875061124563
-    },
-    {
-        "title": "SERVICIO PÚBLICO: solicitan donantes de sangre en el Centro Clínico Vista California",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763394348082.jpg?ch=675&cw=1200",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://2001online.com/servicios/servicio-publico-solicitan-donantes-de-sangre-en-el-centro-clinico-vista-california-2025111711450",
-        "date": "2025-11-17 15:45:00",
-        "sentiment_score": -0.01333414763212204
-    },
-    {
-        "title": "Jencarlos Canela da el “sí” romántico: su camino desde Gaby Espino hasta su compromiso este 2025",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763399021940/j1-3.jpg?ch=675&cw=1200",
-        "tags": [
-            "chisme de farándula",
-            "celebridades"
-        ],
-        "link": "https://2001online.com/farandula/jencarlos-canela-da-el-si-romantico-su-camino-desde-gaby-espino-hasta-su-compromiso-este-2025-2025111711350",
-        "date": "2025-11-17 15:35:00",
-        "sentiment_score": 0.5578314885497093
-    },
-    {
-        "title": "Joropo venezolano en la lista: estos países son finalistas para la inscripción de su patrimonio cultural en Unesco",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "#2001online",
-            "unesco",
-            "nacionales",
-            "patrimonio cultural",
-            "venezuela",
-            "joropo"
-        ],
-        "link": "https://2001online.com/nacionales/joropo-venezolano-en-la-lista-estos-paises-son-finalistas-para-la-inscripcion-de-su-patrimonio-cultural-en-unesco-2025111711340",
-        "date": "2025-11-17 15:34:00",
-        "sentiment_score": 0.3633092939853668
-    },
-    {
-        "title": "USCIS impone nuevas políticas: prioriza intereses estadounidenses y transforma la inmigración legal",
-        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-        "tags": [
-            "migración",
-            "inmigrantes",
-            "uscis",
-            "#diario2001",
-            "#estadosunidos"
-        ],
-        "link": "https://2001online.com/usa/internacionales/uscis-impone-nuevas-politicas-prioriza-intereses-estadounidenses-y-transforma-la-inmigracion-legal-2025111711100",
-        "date": "2025-11-17 15:10:00",
-        "sentiment_score": 0.4537621792405844
-    },
-    {
         "title": "El Barça se despide de Montjuic: Más decepciones que alegrías y el Clásico como gran noche",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/17/image-89fac9c6-d32e-4345-9ca8-1ef86d257dad-85-2560-1440.jpeg",
         "tags": [
@@ -3574,5 +2962,133 @@ export default [
         "link": "https://www.hoy.es/deportes/mas-deportes/cesar-castro-europeo-lublin-20251121080314-nt.html",
         "date": "2025-11-21 00:00:00",
         "sentiment_score": 0.0649176836013794
+    },
+    {
+        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"El Gobierno busca ya nuevo fiscal general del Estado de su cuerda\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "españa",
+            "ondacero",
+            "noticias"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-gobierno-busca-nuevo-fiscal-general-estado-cuerda_2025112169200499df41134465e333b0.html",
+        "date": "2025-11-21 06:20:09",
+        "sentiment_score": 0.14544391632080078
+    },
+    {
+        "title": "Los tres desafíos de Xabi en el Real Madrid: recuperar el vestuario, el juego y el apoyo de Florentino",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/502631e0-a705-4500-acdd-4b664076a293_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid",
+            "florentino pérez",
+            "xabi alonso",
+            "fútbol"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2025/11/21/desafios-xabi-alonso-real-madrid-continuidad-florentino-perez-futbol-123961086.html",
+        "date": "2025-11-21 06:13:54",
+        "sentiment_score": -0.8018197696655989
+    },
+    {
+        "title": "OPINIÓN | Mucho más que espina bífida, por Alfredo Quintana",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/11/27/alfredo-quintana-es-periodista-y-escritor.jpeg",
+        "tags": [
+            "capaces"
+        ],
+        "link": "https://www.20minutos.es/capaces/mucho-mas-que-espina-bifida_6880810_3.html",
+        "date": "2025-11-21 06:11:15",
+        "sentiment_score": -0.7724271975457668
+    },
+    {
+        "title": "Los 10 hitos de la Corona en 10 discursos claves",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47970f44-4ed5-409c-bd8f-b4d2e8748854_16-9-aspect-ratio_default_1416977.jpg",
+        "tags": [
+            "felipe vi,rey felipe vi,monarquía,democracia,referéndum 1 de octubre,golpe de estado"
+        ],
+        "link": "https://www.elcorreoweb.es/espana/2025/11/21/hitos-corona-10-discursos-claves-juan-carlos-felipe-123961020.html",
+        "date": "2025-11-21 06:08:37",
+        "sentiment_score": -0.5008750632405281
+    },
+    {
+        "title": "Lo que debes saber hoy, 21 de noviembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/08/13/informacion-municipal/1003742681413_15011381_1706x960.jpg",
+        "tags": [
+            "aemet (agencia estatal de meteorología)",
+            "transports metropolitans barcelona tmb",
+            "tráfico",
+            "autobús",
+            "renfe barcelona",
+            "clima",
+            "metro barcelona",
+            "movilidad",
+            "el tiempo",
+            "transporte"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251121/debes-saber-hoy-noviembre-barcelona/1003742709445_0.html",
+        "date": "2025-11-21 06:31:51",
+        "sentiment_score": 0.33068137615919113
+    },
+    {
+        "title": "\"A cada 'reel' que tiene éxito, alguien te dice «háblame en cristiano»\": hablan los 'influencers' del catalán",
+        "image_url": "https://static1.ara.cat/clip/1101dfcb-e6ea-4be0-9b8e-011e7e9f49cd_16-9-aspect-ratio_default_0_x1362y1255.jpg",
+        "tags": [
+            "catalan",
+            "reel",
+            "hablan",
+            "exito",
+            "alguien",
+            "influencers",
+            "cristiano",
+            "hablame",
+            "dice"
+        ],
+        "link": "https://es.ara.cat/lengua/reel-exito-alguien-dice-hablame-cristiano-hablan-influencers-catalan_130_5568692.html",
+        "date": "2025-11-21 06:30:41",
+        "sentiment_score": -0.21795079112052917
+    },
+    {
+        "title": "El elefante en el salón Arencibia: así fue la intervención de Carolina Darias en el Foro Prensa Ibérica en Canarias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/068919e6-1c11-438f-84e0-c291518ff3d3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "residuos",
+            "política",
+            "foro prensa ibérica",
+            "canarias",
+            "las palmas",
+            "inmaculada medina",
+            "carolina darias"
+        ],
+        "link": "https://www.laprovincia.es/las-palmas/2025/11/21/carolina-darias-foro-prensa-iberica-balance-mandato-123953648.html",
+        "date": "2025-11-21 06:30:28",
+        "sentiment_score": -0.28684002161026
+    },
+    {
+        "title": "El impulso del corredor mediterráneo en ocho años: 221 km más terminados y 494 en obras",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3518e8ed-aa60-405a-8af3-bfbb13ac0b7c_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tarragona",
+            "barcelona",
+            "corredor mediterráneo",
+            "ave",
+            "construcción"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20251121/impulso-corredor-mediterraneo-ocho-anos-123962328",
+        "date": "2025-11-21 06:24:26",
+        "sentiment_score": -0.09772872924804688
+    },
+    {
+        "title": "Núria Rodríguez-Planas: \"Reducir la brecha de género no solo mejora la situación de las mujeres, también la de los hombres\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4eb73705-0ffb-4a95-b697-505d6641dca2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "economía",
+            "padres",
+            "salarios",
+            "educación",
+            "trabajo",
+            "mujeres",
+            "género"
+        ],
+        "link": "https://www.laopiniondemurcia.es/economia/2025/11/21/nuria-rodriguez-planas-reducir-brecha-genero-educacion-123961197.html",
+        "date": "2025-11-21 06:20:22",
+        "sentiment_score": -0.05152690410614014
     }
 ];
