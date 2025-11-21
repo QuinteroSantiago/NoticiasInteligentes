@@ -145,16 +145,6 @@ export default [
         "sentiment_score": 0.04487277567386627
     },
     {
-        "title": "Habrá segunda vuelta para elección presidencial en Chile",
-        "image_url": "https://static.wixstatic.com/media/335561_1cec7c32a00742c796051a459d0094ca~mv2.png/v1/fit/w_517,h_284,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/habr%C3%A1-segunda-vuelta-para-elecci%C3%B3n-presidencial-en-chile",
-        "date": "2025-11-17 11:32:33",
-        "sentiment_score": -0.08902391046285629
-    },
-    {
         "title": "Una niña sorda de 12 años, herida de gravedad en Alemania tras recibir un disparo después de atacar con cuchillos a un grupo de policías",
         "image_url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2025/11/17/1486227637-k40B-U702003295827urE-1200x840@diario_abc.jpg",
         "tags": [
@@ -241,58 +231,6 @@ export default [
         "link": "https://www.abc.es/motor/leapmotor-c10-caracter-premium-autonomia-extendida-20251117160700-nt.html",
         "date": "2025-11-17 15:07:01",
         "sentiment_score": 0.02802048623561859
-    },
-    {
-        "title": "El turismo rural sigue registrando récord en la provincia de Toledo en 2025: 73.501 visitantes y 164.000 pernoctaciones",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/11/17/turismo-R74e9OLDsfILECUwdoMP9DJ-1200x840@diario_abc.jpg",
-        "tags": [
-            "españa",
-            "pueblos",
-            "castilla la mancha",
-            "toledo"
-        ],
-        "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/turismo-rural-sigue-registrando-record-provincia-toledo-20251117151215-nt.html",
-        "date": "2025-11-17 14:12:15",
-        "sentiment_score": 0.04743325710296631
-    },
-    {
-        "title": "Hackers prorrusos bloquean las webs de varios partidos políticos daneses solo un día antes de las elecciones regionales y locales",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/17/flag-667467_1280-kyDD-U702002100458ecH-1200x840@diario_abc.jpg",
-        "tags": [
-            "solo",
-            "elecciones",
-            "regionales",
-            "varios",
-            "bloquean",
-            "prorrusos",
-            "webs",
-            "partidos",
-            "politicos",
-            "daneses",
-            "hackers",
-            "locales",
-            "dia"
-        ],
-        "link": "https://www.abc.es/internacional/hackers-prorrusos-bloquean-webs-varios-partidos-politicos-20251117135615-nt.html",
-        "date": "2025-11-17 12:56:16",
-        "sentiment_score": -0.22804315388202667
-    },
-    {
-        "title": "EE.UU. declarará al Cártel de los Soles como organización terrorista extranjera",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/internacional/2025/11/17/1503094709-kGXF-U701995367555TUB-1200x840@diario_abc.jpg",
-        "tags": [
-            "venezuela",
-            "washington",
-            "estados unidos",
-            "marco rubio",
-            "nicolás maduro",
-            "donald trump",
-            "caribe",
-            "fuerzas armadas"
-        ],
-        "link": "https://www.abc.es/internacional/eeuu-declarara-cartel-soles-organizacion-terrorista-extranjera-20251117113501-nt.html",
-        "date": "2025-11-17 10:35:02",
-        "sentiment_score": -0.19955751299858093
     },
     {
         "title": "Los Mossos d’Esquadra detienen a un cazador por matar accidentalmente a otro en Cervera",
@@ -384,96 +322,6 @@ export default [
         "link": "https://elpais.com/espana/2025-11-17/robles-denuncia-el-ataque-de-un-tanque-israeli-contra-cascos-azules-espanoles-en-libano.html",
         "date": "2025-11-17 14:17:19",
         "sentiment_score": -0.88725496083498
-    },
-    {
-        "title": "La Audiencia Nacional permite a Jordi Pujol comparecer por videoconferencia el día del inicio del juicio",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/H6G7F4GZB5EM3DW3XGDACUHICI.jpg?auth=b84096de97d69103098fe0aeed407d3b28c7d9014dc6b9f28f75d7a26500e29f&width=1200",
-        "tags": [
-            "justicia",
-            "generalitat cataluña",
-            "juicios",
-            "oleguer pujol ferrusola",
-            "españa",
-            "audiencia nacional",
-            "jordi pujol",
-            "cataluña",
-            "jordi pujol ferrusola",
-            "delitos",
-            "caso pujol"
-        ],
-        "link": "https://elpais.com/espana/2025-11-17/la-audiencia-nacional-permite-a-jordi-pujol-comparecer-por-videoconferencia-antes-del-inicio-del-juicio.html",
-        "date": "2025-11-17 14:09:42",
-        "sentiment_score": -0.24111074209213257
-    },
-    {
-        "title": "Junts remodela su cúpula a la espera del retorno del Puigdemont",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/TZ6OUWXASEWKODLHUR7G7CX7TQ.jpg?auth=b01380be641a1733ff9b8d8e0e080193ed7129edd2534f4a5e958dad7ff16910&width=1200",
-        "tags": [
-            "carles puigdemont",
-            "independentismo",
-            "parlament cataluña",
-            "juntsxcat",
-            "cataluña",
-            "amnistía",
-            "independencia"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-17/junts-remodela-su-cupula-a-la-espera-del-retorno-del-puigdemont.html",
-        "date": "2025-11-17 13:59:41",
-        "sentiment_score": 0.18492135405540466
-    },
-    {
-        "title": "Un hombre rocía con gas pimienta a tres menores migrantes en los alrededores del centro de acogida de Hortaleza",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/UH454APFJZA7ZP3L6F2MDXKT7Y.jpg?auth=c87d033dc60630745b8da22a27948be601c09fa18711a2660737fcae972e7317&width=1200",
-        "tags": [
-            "menores migrantes",
-            "policía",
-            "comunidad de madrid",
-            "centros acogida",
-            "menores",
-            "madrid",
-            "agresiones físicas",
-            "centros menores",
-            "samur"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-17/un-hombre-rocia-con-gas-pimienta-a-tres-menores-migrantes-en-los-alrededores-del-centro-de-acogida-de-hortaleza.html",
-        "date": "2025-11-17 13:14:00",
-        "sentiment_score": -0.8037224747240543
-    },
-    {
-        "title": "Mazón niega su responsabilidad en la dana: “Nadie era consciente de la magnitud, nadie sabía que la gente se ahogaba”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/WPL7BPRADFFUTAIKEAGGL4P4PA.jpg?auth=6f401529e9163f63a6a66f8f1f75e9366307e2ebeee4ef186b5eea0aea19f537&width=1200",
-        "tags": [
-            "españa",
-            "pp",
-            "psoe",
-            "comunidad valenciana",
-            "carlos mazón",
-            "compromis-q",
-            "dana",
-            "maribel vilaplana"
-        ],
-        "link": "https://elpais.com/espana/2025-11-17/mazon-niega-su-responsabilidad-en-la-dana-nadie-era-consciente-de-la-magnitud-nadie-sabia-que-la-gente-se-ahogaba.html",
-        "date": "2025-11-17 13:05:30",
-        "sentiment_score": -0.790195107460022
-    },
-    {
-        "title": "Sánchez y Ayuso chocan por los abortos derivados a las clínicas privadas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/CVOCWTLNXFAPHDRGC3ZLYDNDFI.jpg?auth=1f4a8df3352ef8b0908e92f36b998a0864e8305112f979101b629535ff1e2955&width=1200",
-        "tags": [
-            "sanidad",
-            "madrid",
-            "isabel díaz ayuso",
-            "objeción conciencia",
-            "sanidad pública",
-            "aborto",
-            "comunidad de madrid",
-            "política",
-            "pedro sánchez",
-            "sanidad privada"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-17/sanchez-y-ayuso-chocan-por-los-abortos-derivados-a-las-clinicas-privadas.html",
-        "date": "2025-11-17 12:51:42",
-        "sentiment_score": 0.02317783236503601
     },
     {
         "title": "Llega a Málaga el XXII Curso Internacional de Hipospadias con cirugías en directo: una cita clave para la pediatría",
@@ -1130,16 +978,6 @@ export default [
         "link": "https://www.elcomercio.es/sporting/abuelo-juvenil-nico-riestra-tras-debut-sporting-20251117010545-nt.html",
         "date": "2025-11-18 00:05:46",
         "sentiment_score": 0.261147353798151
-    },
-    {
-        "title": "Habrá segunda vuelta para elección presidencial en Chile",
-        "image_url": "https://static.wixstatic.com/media/335561_1cec7c32a00742c796051a459d0094ca~mv2.png/v1/fit/w_517,h_284,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/habr%C3%A1-segunda-vuelta-para-elecci%C3%B3n-presidencial-en-chile",
-        "date": "2025-11-17 11:32:33",
-        "sentiment_score": -0.08902423083782196
     },
     {
         "title": "España busca sellar el billete al Mundial con la clasificación perfecta",
@@ -3523,5 +3361,218 @@ export default [
         "link": "https://es.ara.cat/cultura/cine/albert-serra-99-cine-estupido-cien-cien-caso-cine-espanol_1_5568622.html",
         "date": "2025-11-20 21:45:09",
         "sentiment_score": -0.12382455170154572
+    },
+    {
+        "title": "Deportes | 'Vuelve corazón franjiverde', si es que alguna vez te fuiste de la elite del fútbol español",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1721516.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/vuelve-corazon-franjiverde-si-es-que-alguna-vez-se-fue-de-la-elite-del-futbol-espanol",
+        "date": "2025-11-21 01:35:19",
+        "sentiment_score": -0.32245077937841415
+    },
+    {
+        "title": "James Rodríguez buscaría quedarse en la Liga MX tras salir de León: ¿Qué equipo está interesado en ficharlo?",
+        "image_url": "https://www.infobae.com/resizer/v2/6TRGXTHNAJHCLBBYTTLVK3V4EQ.JPG?auth=f30f2467df70d9156a7d3e48274514769e1e226a1003703ea190c2f31e2abafb&height=1936&smart=true&width=3442",
+        "tags": [
+            "mexico-deportes",
+            "james rodríguez",
+            "liga mx",
+            "cruz azul",
+            "pumas"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/11/21/james-rodriguez-buscaria-quedarse-en-la-liga-mx-tras-salir-de-leon-que-equipo-esta-interesado-en-ficharlo/",
+        "date": "2025-11-21 01:26:18",
+        "sentiment_score": -0.7427590619772673
+    },
+    {
+        "title": "La violencia contra la Transición: ETA mató a los cuatro días de morir Franco y los Grapo y los ultras sembraron el terror",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/11/18/17634891383281.jpg",
+        "tags": [
+            "espana/50-aniversario-de-la-muerte-de-franco"
+        ],
+        "link": "https://www.elmundo.es/espana/50-aniversario-de-la-muerte-de-franco/2025/11/21/691cb590e9cf4a0d498b45c6.html",
+        "date": "2025-11-21 01:18:10",
+        "sentiment_score": -0.8730078563094139
+    },
+    {
+        "title": "22-N, el día más importante de la historia de España: 21 minutos y 8 ovaciones para Don Juan Carlos, ausente hoy en el 50 aniversario",
+        "image_url": "https://phantom-elmundo.uecdn.es/c500024e63fa29e7e658a1830f7efa3e/crop/0x259/2479x2738/f/image/jpeg/assets/multimedia/imagenes/2022/03/16/16474501372351.jpg",
+        "tags": [
+            "juan carlos i",
+            "artículos marina pina"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/21/691f217ce4d4d8c5338b459e.html",
+        "date": "2025-11-21 01:18:08",
+        "sentiment_score": -0.10114838182926178
+    },
+    {
+        "title": "'Ciudad sin sueño': arraigos y desarraigos en la Cañada Real",
+        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744022907_260056284_1706x960.jpg",
+        "tags": [
+            "estrenos de cine",
+            "películas",
+            "cine",
+            "cañada real"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20251121/ciudad-sin-sueno-arraigos-desarraigos-canada-real/1003744022833_0.html",
+        "date": "2025-11-21 01:04:28",
+        "sentiment_score": 0.0930904746055603
+    },
+    {
+        "title": "De la celda de Soto al encierro en Milagro: Cerdán sólo sale para ver a su hermana y recoger tuppers en casa de sus padres",
+        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744023300_260061445_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "pedro sánchez",
+            "psoe (partido socialista obrero español)",
+            "milagro",
+            "santos cerdán",
+            "navarra",
+            "corrupción"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251121/celda-soto-encierro-milagro-cerdan-solo-sale-ver-hermana-recoger-tuppers-casa-padres/1003744023191_0.html",
+        "date": "2025-11-21 00:59:26",
+        "sentiment_score": -0.6269030272960663
+    },
+    {
+        "title": "Winston, 'el Makelele ghanés de Alcantarilla' de 13 años al que su club no le da la carta de libertad: \"No puedo jugar donde soy feliz\"",
+        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744022895_260056063_1706x960.jpg",
+        "tags": [
+            "eduardo camavinga",
+            "fútbol",
+            "fc barcelona",
+            "liverpool fc",
+            "alcantarilla",
+            "lfp liga de fútbol profesional",
+            "sergio busquets",
+            "niños",
+            "real madrid cf",
+            "pateras"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251121/winston-makelele-ghanes-alcantarilla-anos-club-no-da-carta-libertad-no-puedo-jugar-feliz/1003744022350_0.html",
+        "date": "2025-11-21 00:58:40",
+        "sentiment_score": -0.8418159792199731
+    },
+    {
+        "title": "El arma de Laporta para que el Camp Nou supere los ingresos del Santiago Bernabéu",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/21/culemania/palco/1003742709443_15429179_1706x960.jpg",
+        "tags": [
+            "camp nou",
+            "real madrid",
+            "junta directiva del barça",
+            "fc barcelona",
+            "estadio santiago bernabéu",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251121/arma-laporta-camp-nou-supere-ingresos-santiagobernabeu/1003742709438_0.html",
+        "date": "2025-11-21 00:55:48",
+        "sentiment_score": -0.0022098124027252197
+    },
+    {
+        "title": "Eroski cierra sus 17 años más oscuros: varios acuerdos con la banca, 2.500M menos de deuda y ganas de crecer fuera del norte",
+        "image_url": "https://s3.elespanol.com/2024/03/07/quincemil/economia/empresas/838177330_244397100_1706x960.jpg",
+        "tags": [
+            "distribución",
+            "eroski"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20251121/eroski-cierra-anos-oscuros-varios-acuerdos-banca-deuda-ganas-crecer-norte/1003744022466_0.html",
+        "date": "2025-11-21 00:54:02",
+        "sentiment_score": 0.3631710037589073
+    },
+    {
+        "title": "'Wicked Parte II', lo cursi no quita lo político: una inteligente fábula actual disfrazada de musical",
+        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019029_260004989_1706x960.jpg",
+        "tags": [
+            "estrenos de cine",
+            "películas",
+            "cine"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20251121/wicked-parte-ii-cursi-no-quita-politico-inteligente-fabula-actual-disfrazada-musical/1003744017549_0.html",
+        "date": "2025-11-21 00:47:37",
+        "sentiment_score": 0.6725327186286449
+    },
+    {
+        "title": "Chelsea y Barcelona empatan 1-1 en la Champions femenina; Bayern vence al colista PSG",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.houstonchronicle.com/sports/article/chelsea-y-barcelona-empatan-1-1-en-la-champions-21199789.php",
+        "date": "2025-11-21 00:54:14",
+        "sentiment_score": 0.3177243545651436
+    },
+    {
+        "title": "Chelsea y Barcelona empatan 1-1 en la Champions femenina; Bayern vence al colista PSG",
+        "image_url": "https://dims.apnews.com/dims4/default/1f49e3e/2147483647/strip/true/crop/6195x4124+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F97%2F31d88ec870fa15ef5286fd4cb68e%2Fef97f8084eaa411da59082b00383b1ec",
+        "tags": [
+            "chelsea barcelona liga campeones femenina",
+            "sports",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/chelsea-barcelona-liga-campeones-femenina-b0a6c0956a3e51d9302669d608970716",
+        "date": "2025-11-21 00:54:14",
+        "sentiment_score": 0.5990717895328999
+    },
+    {
+        "title": "Chelsea y Barcelona empatan 1-1 en la Champions femenina; Bayern vence al colista PSG",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/CAMPEONAS_23878.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/11/20/chelsea-y-barcelona-empatan-1-1-en-la-champions-femenina-bayern-vence-al-colista-psg/",
+        "date": "2025-11-21 00:54:13",
+        "sentiment_score": 0.39655745029449463
+    },
+    {
+        "title": "20 NOV 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/20-nov-2025-partidazo-cope-20251121_3256530.html",
+        "date": "2025-11-21 00:41:07",
+        "sentiment_score": -0.13940852880477905
+    },
+    {
+        "title": "Los tres sponsors fantasma que Laporta mantiene en la sombra: acababan contrato con el Barça en 2025",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/04/24/politica/1003742651793_15426656_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "palco",
+            "caixabank",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251121/sponsors-fantasma-laporta-mantiene-acababan-contrato-barca/1003742709269_0.html",
+        "date": "2025-11-21 00:10:11",
+        "sentiment_score": -0.6866882406175137
+    },
+    {
+        "title": "Las claves de la nueva Grada (Gol 1957): el Barça no tendrá animación en el Camp Nou hasta 2026",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/actualidad/1003742705362_15374946_1706x960.jpg",
+        "tags": [
+            "palco",
+            "barça",
+            "grada d’animació",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251121/grada-gol-barca-animacionen-camp-nou-hasta2026/1003742709275_0.html",
+        "date": "2025-11-21 00:08:14",
+        "sentiment_score": 0.08162151649594307
+    },
+    {
+        "title": "César Castro estará en el Europeo de Lublin",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "cesar",
+            "europeo",
+            "castro",
+            "lublin"
+        ],
+        "link": "https://www.hoy.es/deportes/mas-deportes/cesar-castro-europeo-lublin-20251121080314-nt.html",
+        "date": "2025-11-21 00:00:00",
+        "sentiment_score": 0.0649176836013794
     }
 ];
