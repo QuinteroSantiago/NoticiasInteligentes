@@ -1,204 +1,5 @@
 export default [
     {
-        "title": "La Justicia frena el desahucio de una mujer promovido por su suegra al considerar que el alquiler sigue vigente",
-        "image_url": "https://www.infobae.com/resizer/v2/4QAXX6VNHFF3RLQ4YNQGXAGVQM.jpg?auth=014d31aa8bc3c581a96e5b41d9aa71602e52803eeeb8bef0be75cd173ad05906&height=1280&smart=true&width=1920",
-        "tags": [
-            "justicia",
-            "desahucio",
-            "sentencias",
-            "juicios",
-            "tribunales españa",
-            "vivienda españa",
-            "españa-noticias",
-            "vivienda",
-            "españa-nacional"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/la-justicia-frena-el-desahucio-de-una-mujer-promovido-por-su-suegra-al-considerar-que-el-alquiler-sigue-vigente/",
-        "date": "2025-11-17 06:31:34",
-        "sentiment_score": -0.5214762687683105
-    },
-    {
-        "title": "Un español que vive en Australia descifra las claves para ganar más en el país del Pacífico: dos tipos de contratos y viviendas asequibles",
-        "image_url": "https://www.infobae.com/resizer/v2/XNTBXARXIZFH7PTXK3ZU76MWNQ.jpg?auth=9dc165af9eaceca0de502dea77ccf610ac478cc0ba7afea0acfa3802f5fc1294&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-noticias",
-            "australia",
-            "vivienda",
-            "salarios españa",
-            "tiktok",
-            "tiktok españa",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/un-espanol-que-vive-en-australia-descifra-las-claves-para-ganar-mas-en-el-pais-del-pacifico-dos-tipos-de-contratos-y-viviendas-asequibles/",
-        "date": "2025-11-17 05:31:40",
-        "sentiment_score": 0.06119270250201225
-    },
-    {
-        "title": "Suiza busca 85.000 trabajadores y ofrece salarios de 3.500 a 6.500 euros al mes: estos son los oficios que están contratando",
-        "image_url": "https://www.infobae.com/resizer/v2/AQDKU4DSNNA37BX6VUXELGTEM4.jpg?auth=fcd873471038fe80a59191c7474412f5e9f6c12e736058ded43be47eb2bdbeb7&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-noticias",
-            "hostelería españa",
-            "trabajadores sanitarios",
-            "mercados",
-            "viajes",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/suiza-busca-85000-trabajadores-y-ofrece-salarios-de-3500-a-6500-euros-al-mes-estos-son-los-oficios-que-estan-contratando/",
-        "date": "2025-11-17 05:31:38",
-        "sentiment_score": 0.2713511027395725
-    },
-    {
-        "title": "¿Participaron españoles en los ‘safaris humanos’ de Sarajevo? La investigación del escritor italiano Ezio Gavazzeni apunta a “españoles influyentes”",
-        "image_url": "https://www.infobae.com/resizer/v2/SG7R7X7SXBBINBBULPAFM2NGGM.jpg?auth=ed3ab7f771cdf3f0fcad9765265acfb3e76ba18df63b22d76857663b0a90ef1c&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-noticias",
-            "guerra rusa-ucrania",
-            "asesinatos",
-            "viajes",
-            "sumar",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/participaron-espanoles-en-los-safaris-humanos-de-sarajevo-la-investigacion-del-escritor-italiano-ezio-gavazzeni-apunta-a-espanoles-influyentes/",
-        "date": "2025-11-17 05:29:49",
-        "sentiment_score": -0.2568346858024597
-    },
-    {
-        "title": "Actualización del tipo de cambio dólar-euro hoy 17 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/ESK62KO465BPPJHALZ2MW52HZI.jpg?auth=07bf53b2db812406e917e930f5264d5cd0382e62de46b4cd3b6e6a47e5917685&height=538&smart=true&width=800",
-        "tags": [
-            "bancos españa",
-            "billetes",
-            "mercados",
-            "tipo de cambio",
-            "monedas",
-            "euros",
-            "españa-economía",
-            "dólar",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/actualizacion-del-tipo-de-cambio-dolar-euro-hoy-17-de-noviembre/",
-        "date": "2025-11-17 05:15:33",
-        "sentiment_score": -0.2213764786720276
-    },
-    {
-        "title": "La leyenda del hard-rock David Coverdale se retira de la música",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/d4/media_thumb-link-4117734.webp?1763222466=",
-        "tags": [
-            "david coverdale",
-            "música",
-            "whitesnake",
-            "cultura",
-            "deep purple",
-            "rock"
-        ],
-        "link": "https://www.meneame.net/story/leyenda-hard-rock-david-coverdale-retira-musica",
-        "date": "2025-11-17 06:35:03",
-        "sentiment_score": -0.4228408709168434
-    },
-    {
-        "title": "La IA para los nuevos cribados en Andalucía detecta un 54% más de cánceres de mama",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/11/17/Capturadepantalla2025-11-12alas19.54.07-RokGaigZGP4YPRXTiI0ug5I-1200x840@diario_abc.png",
-        "tags": [
-            "andalucía",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/ia-nuevos-cribados-sas-detecta-canceres-mama-20251117212724-nts.html",
-        "date": "2025-11-17 06:09:36",
-        "sentiment_score": 0.3501327633857727
-    },
-    {
-        "title": "Cada piso en alquiler tiene 21 interesados, 4 menos que en 2024",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/17/piso-alquiler-cordoba-kRnH-U701957368433xdB-1200x840@diario_abc.jpg",
-        "tags": [
-            "andalucía",
-            "córdoba",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/piso-alquiler-interesados-2024-20251117063505-nts.html",
-        "date": "2025-11-17 05:35:06",
-        "sentiment_score": -0.05106118321418762
-    },
-    {
-        "title": "Córdoba se anota su mejor mes de octubre en materia laboral: suma 149.355 trabajadores, un 2,9% más que hace un año",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/11/17/trabajadora-comercio-cordoba-kCRD-U701952433981c7B-1200x840@diario_abc.jpg",
-        "tags": [
-            "andalucía",
-            "córdoba",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-anota-mejor-mes-octubre-materia-laboral-20251117063304-nts.html",
-        "date": "2025-11-17 05:33:05",
-        "sentiment_score": -0.04491952061653137
-    },
-    {
-        "title": "Mazón se enfrenta a sus vacíos del día de la dana ante una izquierda al ataque y sin respaldo de Feijóo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0390888-f2c5-4b90-8a5f-07b877e42adf_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pp",
-            "comunitat valenciana",
-            "comisión de investigación",
-            "consell",
-            "congreso de los diputados",
-            "carlos mazón",
-            "feijoo"
-        ],
-        "link": "https://www.elcorreogallego.es/espana/2025/11/17/mazon-enfrenta-vacios-dia-dana-izquierda-ataque-sin-respaldo-feijoo-123800475.html",
-        "date": "2025-11-17 06:33:53",
-        "sentiment_score": -0.4342738837003708
-    },
-    {
-        "title": "¿Por qué Gaza sí y el Sáhara no?",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/11/13/WhatsApp%20Image%202025-11-12%20at%2020.43.08-U230138033498QmH--170x119@El%20Norte.jpeg",
-        "tags": [
-            "gaza",
-            "sahara"
-        ],
-        "link": "https://www.eldiariomontanes.es/opinion/tomas-de-vega-santos-gaza-sahara-20251117071101-nt.html",
-        "date": "2025-11-17 06:11:01",
-        "sentiment_score": -0.5952445063740015
-    },
-    {
-        "title": "\"El cine no tiene por qué ser algo lejano. Todos vivimos dentro de una película que merece la pena ser contada\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/fda3c22c-1285-4231-baf7-564427db4cc7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pelicula",
-            "merece",
-            "vivimos",
-            "cine",
-            "lejano"
-        ],
-        "link": "https://www.noticiasdenavarra.com/cultura/2025/11/17/cine-lejano-vivimos-pelicula-merece-10353846.html",
-        "date": "2025-11-17 06:10:58",
-        "sentiment_score": 0.054482683539390564
-    },
-    {
-        "title": "España es una de las economías de la UE que más crece pero sus salarios lo hacen por debajo de la media",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7310cf6e-23d9-4a85-b17c-82d9229ca2a5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "empresas",
-            "europa",
-            "salarios"
-        ],
-        "link": "https://www.informacion.es/economia/2025/11/17/salarios-espana-economias-ue-crece-perdida-poder-adquisitivo-123800525.html",
-        "date": "2025-11-17 06:37:08",
-        "sentiment_score": 0.178275465965271
-    },
-    {
-        "title": "Navarra se prepara para un brusco desplome térmico y posibles nevadas esta semana",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b6bc9807-cea9-414f-840a-adf3481988e0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "brusco",
-            "navarra",
-            "desplome",
-            "prepara",
-            "termico"
-        ],
-        "link": "https://www.noticiasdenavarra.com/sociedad/2025/11/17/navarra-prepara-brusco-desplome-termico-10354332.html",
-        "date": "2025-11-17 06:30:24",
-        "sentiment_score": -0.13422326743602753
-    },
-    {
         "title": "La bombona de butano encadena su tercera bajada de precio: esto costará a partir del martes",
         "image_url": "https://www.infobae.com/resizer/v2/R3B3IQCE3VE73HHS5YCSCPZH2A.png?auth=d012430627ada365d8880b248c87e0d7a44a58a985065c0c217dbc4a8b8c090e&height=568&smart=true&width=1015",
         "tags": [
@@ -1339,21 +1140,6 @@ export default [
         "link": "https://www.informe21.com/post/habr%C3%A1-segunda-vuelta-para-elecci%C3%B3n-presidencial-en-chile",
         "date": "2025-11-17 11:32:33",
         "sentiment_score": -0.08902423083782196
-    },
-    {
-        "title": "La leyenda del hard-rock David Coverdale se retira de la música",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/d4/media_thumb-link-4117734.webp?1763222466=",
-        "tags": [
-            "david coverdale",
-            "música",
-            "whitesnake",
-            "cultura",
-            "deep purple",
-            "rock"
-        ],
-        "link": "https://www.meneame.net/story/leyenda-hard-rock-david-coverdale-retira-musica",
-        "date": "2025-11-17 06:35:03",
-        "sentiment_score": -0.42283932864665985
     },
     {
         "title": "España busca sellar el billete al Mundial con la clasificación perfecta",
@@ -3495,5 +3281,247 @@ export default [
         "link": "https://www.eldebate.com/espana/20251120/feijoo-pide-dimision-sanchez-usar-garcia-ortiz-como-peon-contra-ayuso_357360.html",
         "date": "2025-11-20 17:01:57",
         "sentiment_score": -0.8835575161501765
+    },
+    {
+        "title": "El Real Madrid sobrevive a un partido loco y corta ante el Zalgiris Kaunas su mala racha en la Euroliga",
+        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744023331_260062019_1706x960.jpg",
+        "tags": [
+            "baloncesto",
+            "deportes",
+            "real madrid baloncesto",
+            "euroliga de baloncesto",
+            "zalgiris kaunas"
+        ],
+        "link": "https://www.elespanol.com/deportes/baloncesto/20251120/real-madrid-sobrevive-partido-loco-corta-zalgiris-kaunas-mala-racha-euroliga/1003744023325_0.html",
+        "date": "2025-11-20 22:01:45",
+        "sentiment_score": 0.8284282460808754
+    },
+    {
+        "title": "¿Qué relación tiene la salud de tus riñones con la diabetes o las enfermedades cardiovasculares?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/abf008a2-83ba-48bb-a215-0f5fb87dbebc_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "+salud",
+            "diabetes"
+        ],
+        "link": "https://www.elperiodico.com/es/salud/20251120/relacion-salud-rinones-diabetes-o-123941273",
+        "date": "2025-11-20 21:59:07",
+        "sentiment_score": -0.4740462005138397
+    },
+    {
+        "title": "Ailán Cova reaccionó a la tierna foto de Alexis Mac Allister junto a su hija: “Completamente enamorada”",
+        "image_url": "https://www.infobae.com/resizer/v2/BXMII7IS4JHWLEVEM6NDHE2S2U.jpg?auth=a55b3ba763e57f398706b4bf9cfe5cacc6e7ab22fa75d2bb5868164ba485d507&height=810&smart=true&width=1440",
+        "tags": [
+            "liverpool",
+            "alexis mac allister",
+            "ailén cova"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/11/20/ailan-cova-reacciono-a-la-tierna-foto-de-alexis-mac-allister-junto-a-su-hija-completamente-enamorada/",
+        "date": "2025-11-20 21:41:54",
+        "sentiment_score": 0.16458972543478012
+    },
+    {
+        "title": "Aramayo, el amigo de todos y una vida de película",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/11/20/1503235577-k85B-U240298537045JqC-758x531@El%20Norte.JPG",
+        "tags": [
+            "real valladolid club de fútbol"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/aramayo-amigo-vida-pelicula-20251120223135-nt.html",
+        "date": "2025-11-20 21:40:20",
+        "sentiment_score": 0.7983362749218941
+    },
+    {
+        "title": "Un concejal del PP en Manzanares el Real lanza insultos machistas a una edil de Más Madrid: “A callar, que estás más guapa”",
+        "image_url": "https://album.mediaset.es/eimg/2025/11/20/un-concejal-del-pp-en-manzanares-el-real-lanza-insultos-machistas-a-una-edil-de-mas-madrid-a-callar_fc57.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.cuatro.com/noticias/espana/20251120/concejal-pp-manzanares-real-insultos-machistas_18_017641473.html",
+        "date": "2025-11-20 21:26:31",
+        "sentiment_score": -0.8389926608651876
+    },
+    {
+        "title": "Marcelo Vieira se reinventa en Madrid: de ídolo del Real Madrid a referente del bienestar y la longevidad",
+        "image_url": "https://www.infobae.com/resizer/v2/442LD2B6ZNFJN3HX33754IZBMQ.jpg?auth=bd0a5870d185b1e84925f8167283c73389b27742129659ae5524058f4cd857ff&height=573&smart=true&width=800",
+        "tags": [
+            "vida saludable",
+            "marcelo vieira",
+            "men’s health",
+            "centro wellness madrid",
+            "kings league",
+            "real madrid",
+            "bienestar físico y mental",
+            "newsroom bue",
+            "espacio 12",
+            "magazines"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2025/11/20/marcelo-vieira-se-reinventa-en-madrid-de-idolo-del-real-madrid-a-referente-del-bienestar-y-la-longevidad/",
+        "date": "2025-11-20 21:22:33",
+        "sentiment_score": -0.008286520838737488
+    },
+    {
+        "title": "Lamine Yamal y el Real Madrid, los principales blancos del racismo en España",
+        "image_url": "https://pxcdn.meridiano.net/112025/1763676591219.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/usa/futbol/espanol/lamine-yamal-y-el-real-madrid-los-principales-blancos-del-racismo-en-espana-2025112017150",
+        "date": "2025-11-20 21:15:00",
+        "sentiment_score": -0.2793431729078293
+    },
+    {
+        "title": "Rosa Villavicencio, canciller de Colombia: \"El tráfico de drogas es la justificación de EEUU para controlar el petróleo\"",
+        "image_url": "https://static.eldiario.es/clip/f1504a9c-29b5-4716-bca7-f02acd8cb0e6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "petroleo",
+            "drogas",
+            "eeuu",
+            "controlar",
+            "canciller",
+            "justificacion",
+            "rosa",
+            "villavicencio",
+            "colombia",
+            "trafico"
+        ],
+        "link": "https://www.eldiario.es/internacional/rosa-villavicencio-canciller-colombia-trafico-drogas-justificacion-eeuu-controlar-petroleo_128_12784197.html",
+        "date": "2025-11-20 21:05:55",
+        "sentiment_score": -0.2004554718732834
+    },
+    {
+        "title": "La Fiscalía investiga a un aficionado expulsado de Mestalla por proferir gritos racistas: \"¡Negro de mierda, vete al Bioparc!\"",
+        "image_url": "https://static.eldiario.es/clip/7ff89d97-e5c0-4096-b184-ba3939453b50_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia",
+            "actualidad",
+            "comunidad valenciana",
+            "opinión",
+            "información",
+            "análisis",
+            "alicante",
+            "castellón",
+            "noticias"
+        ],
+        "link": "https://www.eldiario.es/comunitat-valenciana/valencia/fiscalia-investiga-aficionado-expulsado-mestalla-proferir-gritos-racistas-negro-mierda-vete-bioparc_1_12783935.html",
+        "date": "2025-11-20 21:05:54",
+        "sentiment_score": -0.13673020899295807
+    },
+    {
+        "title": "Análisis de los estadios candidatos a la final del Mundial 2030: Bernabéu, Camp Nou y Hassan II",
+        "image_url": "https://img.asmedia.epimg.net/resizer/v2/MXOMXGAU6JBTVEKM3ND2HQJKOM.JPG?auth=e25512ca6bd8f72c606eb25fda5ab039e4bc63093797a3d9ad18dac9da5a7d74&focal=1038%2C548&height=828&width=1472",
+        "tags": [
+            "fútbol",
+            "mundial 2030",
+            "estadio santiago bernabéu",
+            "spotify camp nou",
+            "fifa"
+        ],
+        "link": "https://as.com/futbol/mundial/analisis-de-los-estadios-candidatos-a-la-final-del-mundial-2030-bernabeu-camp-nou-y-hassan-ii-f202511-n/",
+        "date": "2025-11-20 22:16:06",
+        "sentiment_score": 0.8350602500140667
+    },
+    {
+        "title": "Rumbo al Mundial 2026: La FIFA define los cruces de repechaje para los últimos seis cupos",
+        "image_url": "https://laprensadelara.com/wp-content/uploads/2025/11/SLIDER-repechaje-1.webp",
+        "tags": [
+            "candidaturas para el mundial 2026",
+            "repechaje para el mundial 2026",
+            "futbol",
+            "mundial 2026",
+            "mundial 2026 repechaje",
+            "deportes",
+            "destacado | amp",
+            "eliminatorias al mundial 2026",
+            "destacado"
+        ],
+        "link": "https://laprensadelara.com/deportes/mundial-2026-fifa-define-repechaje/",
+        "date": "2025-11-20 22:07:11",
+        "sentiment_score": 0.017024032771587372
+    },
+    {
+        "title": "El Chelsea encuentra el antídoto para detener al Barça en Stamford Bridge",
+        "image_url": "https://static1.ara.cat/clip/b2865bd2-214b-4416-8ca6-d429c60ed8ca_16-9-aspect-ratio_default_0.png",
+        "tags": [
+            "encuentra",
+            "chelsea",
+            "barca",
+            "detener",
+            "antidoto",
+            "bridge",
+            "stamford"
+        ],
+        "link": "https://es.ara.cat/deportes/barca-femenino/chelsea-encuentra-antidoto-detener-barca-stamford-bridge_1_5568642.html",
+        "date": "2025-11-20 22:00:20",
+        "sentiment_score": -0.09423303604125977
+    },
+    {
+        "title": "La Lotería Nacional cae en Tenerife",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18fcf8a9-77a5-4bb3-831b-0a16e2103a86_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "loterías",
+            "loterías y apuestas del estado",
+            "lotería nacional"
+        ],
+        "link": "https://www.eldia.es/tenerife/2025/11/20/loteria-nacional-cae-tenerife-123955261.html",
+        "date": "2025-11-20 21:55:32",
+        "sentiment_score": 0.5373681932687759
+    },
+    {
+        "title": "BB Trickz, la estrella más controvertida del pop español: \"Simplemente quiero ser la mejor y la más chula todos los días. Del 1 al 10, soy un 11 de chula\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/98fb0ca64f7c077b3a96baa2d67a08f0/f/image/jpeg/assets/multimedia/imagenes/2022/05/05/16517506482443.jpg",
+        "tags": [
+            "pop",
+            "artículos pablo r. roces",
+            "nlpremium",
+            "cultura",
+            "música",
+            "artículos reda b.slafti",
+            "música electrónica"
+        ],
+        "link": "https://www.elmundo.es/la-lectura/2025/11/20/691ceb44e4d4d814468b45a2.html",
+        "date": "2025-11-20 21:54:01",
+        "sentiment_score": -0.1223183125257492
+    },
+    {
+        "title": "Entradas para Dani Fernández 2026: precio y en dónde comprarlas",
+        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2025/11/images.jpg",
+        "tags": [
+            "dani fernández",
+            "sociedad",
+            "actualidad",
+            "la insurrección tour"
+        ],
+        "link": "https://lavozdeibiza.com/actualidad/entradas-para-dani-fernandez-2026-precio-y-en-donde-comprarlas/",
+        "date": "2025-11-20 21:53:54",
+        "sentiment_score": 0.14699387550354004
+    },
+    {
+        "title": "Pdvsa investiga incendio en Petrocedeño: no hubo heridos en la última explosión",
+        "image_url": "https://talcualdigital.com/wp-content/uploads/2025/11/Incendio-Pedrocedeno-Pdvsa.jpg",
+        "tags": [
+            "pdvsa",
+            "noticias",
+            "petrocedeño"
+        ],
+        "link": "https://talcualdigital.com/pdvsa-investiga-incendio-en-petrocedeno-no-hubo-heridos-en-la-ultima-explosion/",
+        "date": "2025-11-20 21:52:02",
+        "sentiment_score": -0.8199905483052135
+    },
+    {
+        "title": "Albert Serra: \"El 99% del cine es estúpido, un cien por cien en el caso del cine español\"",
+        "image_url": "https://static1.ara.cat/clip/ec852895-f029-4c59-bba9-750526b30cf4_16-9-aspect-ratio_default_0_x2742y822.jpg",
+        "tags": [
+            "cine",
+            "serra",
+            "cien",
+            "estupido",
+            "albert",
+            "espanol",
+            "caso",
+            "99"
+        ],
+        "link": "https://es.ara.cat/cultura/cine/albert-serra-99-cine-estupido-cien-cien-caso-cine-espanol_1_5568622.html",
+        "date": "2025-11-20 21:45:09",
+        "sentiment_score": -0.12382455170154572
     }
 ];
