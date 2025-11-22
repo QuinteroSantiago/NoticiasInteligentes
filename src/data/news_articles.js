@@ -1,192 +1,5 @@
 export default [
     {
-        "title": "Cristiano Ronaldo se reunirá con Trump: lleva más de una década sin ir a Estados Unidos tras una acusación",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/18/691ca178079a8.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/cristiano-ronaldo-se-reunira-con-donald-trump-lleva-mas-una-decada-sin-ir-estados-unidos-tras-una-acusacion_6899535_0.html",
-        "date": "2025-11-18 17:09:52",
-        "sentiment_score": -0.6288667693734169
-    },
-    {
-        "title": "La Liga denuncia al Real Zaragoza por cánticos en el duelo aragonés ante la S.D. Huesca",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/11/18/2025111818035695596.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/liga-denuncia-real-zaragoza-canticos-duelo-aragones-s-d-huesca/20251118180849953203.html",
-        "date": "2025-11-18 17:08:49",
-        "sentiment_score": -0.8353452971205115
-    },
-    {
-        "title": "La Selección Española tendrá dos representantes de Casademont Zaragoza en la primera lista de Chus Mateo",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/11/03/2025110313334166446.jpg",
-        "tags": [
-            "basket zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/basket-zaragoza/seleccion-espanola-tendra-dos-representantes-casademont-zaragoza-primera-lista-chus-mateo/20251118180754953202.html",
-        "date": "2025-11-18 17:07:54",
-        "sentiment_score": 0.09331466257572174
-    },
-    {
-        "title": "La NFL se blindó contra los cibercriminales en Madrid como si se tratase de una Super Bowl",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251118180458_690.jpg",
-        "tags": [
-            "portaltic",
-            "empresas"
-        ],
-        "link": "https://www.europapress.es/portaltic/empresas/noticia-nfl-blindo-contra-cibercriminales-madrid-si-tratase-super-bowl-20251118180458.html",
-        "date": "2025-11-18 17:04:58",
-        "sentiment_score": -0.7688039653003216
-    },
-    {
-        "title": "Los Cármenes acogerá el Granada femenino-Real Madrid a falta de oficialidad",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/11/18/granada-femenino-real-madrid-ksG-U240268055175sS-1200x840@Ideal.jpg",
-        "tags": [
-            "granada cf femenino",
-            "real madrid",
-            "granada cf"
-        ],
-        "link": "https://www.ideal.es/granadacf/carmenes-acogera-granada-femeninoreal-madrid-falta-oficialidad-20251118180306-nt.html",
-        "date": "2025-11-18 17:03:06",
-        "sentiment_score": 0.034018807113170624
-    },
-    {
-        "title": "Fallece Álvaro Domecq Romero, figura clave del rejoneo y embajador del arte ecuestre andaluz",
-        "image_url": "https://digitalextremadura.com/wp-content/uploads/2025/11/domecq.jpeg",
-        "tags": [
-            "destacada",
-            "sucesos",
-            "españa"
-        ],
-        "link": "https://digitalextremadura.com/fallece-alvaro-domecq-romero-figura-clave-del-rejoneo-y-embajador-del-arte-ecuestre-andaluz/",
-        "date": "2025-11-18 17:01:22",
-        "sentiment_score": -0.23541048169136047
-    },
-    {
-        "title": "«No vamos a tener a Carlos Alcaraz, pero vuelvo a ver la luz y tengo fe»",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/11/18/davidferrer-kX7-U240270393881aSG-1200x840@RC.jpg",
-        "tags": [
-            "copa davis",
-            "david ferrer",
-            "carlos alcaraz",
-            "alejandro davidovich"
-        ],
-        "link": "https://www.leonoticias.com/deportes/tenis/copa-davis/david-ferrer-vamos-tener-carlos-alcaraz-vuelvo-ver-luz-20251118171439-ntrc.html",
-        "date": "2025-11-18 16:51:41",
-        "sentiment_score": -0.08024045825004578
-    },
-    {
-        "title": "Una ciudad de 170 kilómetros prometía un futuro sin coches ni calles. Hoy solo existen 2,4 kilómetros. Y el colapso de The Line expone los excesos del megaproyecto saudí",
-        "image_url": "https://es.gizmodo.com/app/uploads/2025/11/Diseno-sin-titulo-44-13-1024x683.jpg",
-        "tags": [
-            "tecnología"
-        ],
-        "link": "https://es.gizmodo.com/una-ciudad-de-170-kilometros-prometia-un-futuro-sin-coches-ni-calles-hoy-solo-existen-24-kilometros-y-el-colapso-de-the-line-expone-los-excesos-del-megaproyecto-saudi-2000205325",
-        "date": "2025-11-18 16:51:23",
-        "sentiment_score": -0.2934890389442444
-    },
-    {
-        "title": "La UCO señala a Santos Cerdán como intermediario clave entre Acciona y el Gobierno",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/ACCIONA_CERDAN_01.jpg",
-        "tags": [
-            "tramas",
-            "tribunales",
-            "acciona",
-            "ministerio de transportes, movilidad y agenda urbana",
-            "koldo garcía izaguirre",
-            "santos cerdán",
-            "servinabar",
-            "psoe",
-            "gobierno de españa",
-            "josé luis ábalos",
-            "corrupción"
-        ],
-        "link": "https://theobjective.com/espana/tribunales/2025-11-18/uco-cerdan-intermediario-clave-acciona-gobierno/",
-        "date": "2025-11-18 16:51:08",
-        "sentiment_score": 0.03698262572288513
-    },
-    {
-        "title": "La revolución obligada de Chus Mateo ya está en marcha",
-        "image_url": "https://cflvdg.avoz.es/sc/cwTTfqsHw0LLzzo6AbPS34FeFjk=/768x/2025/11/18/00121763484241869993262/Foto/efe_20251118_145048903.jpg",
-        "tags": [
-            "selección española de baloncesto",
-            "deportes",
-            "eurobasket"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/11/18/revolucion-obligada-chus-mateo-marcha/00031763484162989142627.htm",
-        "date": "2025-11-18 16:45:00",
-        "sentiment_score": -0.8571399301290512
-    },
-    {
-        "title": "Un ejecutivo 'top' en la aviación",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3563313.jpg",
-        "tags": [
-            "ultimas noticias",
-            "richard clark",
-            "air europa",
-            "local",
-            "palma de mallorca",
-            "palma",
-            "última hora",
-            "juan josé hidalgo"
-        ],
-        "link": "https://www.ultimahora.es/noticias/local/2025/11/18/2514617/richard-clark-ejecutivo-top-aviacion.html",
-        "date": "2025-11-18 17:10:00",
-        "sentiment_score": 0.5391230210661888
-    },
-    {
-        "title": "Valencia rehabilitará el monumento a las víctimas de las riadas e incluirá el nombre de los fallecidos en las distintas inundaciones sufridas",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/18/691ca6d9cf71a.r_d.798-457-7500.jpeg",
-        "tags": [
-            "c. valenciana"
-        ],
-        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20251118/valencia-rehabilitara-monumento-victimas-riadas-e-incluira-nombre-fallecidos-distintas-inundaciones-sufridas_356361.html",
-        "date": "2025-11-18 17:09:18",
-        "sentiment_score": -0.5570209249854088
-    },
-    {
-        "title": "Vicent Roig, entre el mapa de ruidos y los 40 precintos de este verano",
-        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2025/11/ocio2.jpeg",
-        "tags": [
-            "congreso internacional del ocio nocturno",
-            "sant josep",
-            "actualidad",
-            "actualidad 2",
-            "ibiza",
-            "actualidad 1",
-            "vicent roig"
-        ],
-        "link": "https://lavozdeibiza.com/actualidad/vicent-roig-entre-el-mapa-de-ruidos-y-los-40-precintos-de-este-verano/",
-        "date": "2025-11-18 17:07:17",
-        "sentiment_score": -0.14057041704654694
-    },
-    {
-        "title": "El principal problema de Messi cuando llegó a La Masía: \"No le gustaba estudiar y con el catalán se quedaba medio dormido\"",
-        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019080_260005552_1706x960.jpg",
-        "tags": [
-            "fc barcelona",
-            "fútbol",
-            "lionel messi",
-            "deportes",
-            "tendencias deportes"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251118/principal-problema-messi-llego-masia-no-gustaba-estudiar-catalan-quedaba-medio-dormido/1003744019040_0.html",
-        "date": "2025-11-18 17:05:05",
-        "sentiment_score": 0.051379576325416565
-    },
-    {
-        "title": "Fallece a los 78 años Julio Fernández, el hombre fuerte de Filmax",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e8b228b2-83a0-4d17-9bd6-bd0f815bc17c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "películas,cine,barcelona"
-        ],
-        "link": "https://www.laopiniondezamora.es/cultura/2025/11/18/fallece-78-anos-julio-fernandez-123868484.html",
-        "date": "2025-11-18 17:02:12",
-        "sentiment_score": -0.02234385907649994
-    },
-    {
         "title": "Resumen Brasil-Túnez: La 'Era Ancelotti' sigue dejando dudas (1-1)",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/18/image-1057caeb-9a8c-4398-b4bb-577f5f2d98fc-85-2560-1440.jpeg",
         "tags": [
@@ -3330,5 +3143,222 @@ export default [
         "link": "https://www.elespanol.com/deportes/futbol/20251122/barca-vuelve-camp-nou-historial-retrasos-promesas-falsas-denuncias-urgencia-economica/1003744024561_0.html",
         "date": "2025-11-22 00:54:19",
         "sentiment_score": -0.8404410481452942
+    },
+    {
+        "title": "«Esto es propio de una dictadura»: Ayuso acusa a Sánchez de dinamitar la separación de poderes",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/11/22/2025112207190946327.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/espanha/es-propio-dictadura-ayuso-acusa-sanchez-dinamitar-separacion-poderes/20251122073154575975.html",
+        "date": "2025-11-22 06:31:54",
+        "sentiment_score": -0.6350448280572891
+    },
+    {
+        "title": "Por qué Juan Carlos I sigue siendo un referente de democracia en buena parte del mundo",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/20/el-rey-juan-carlos-i-saluda-desde-la-escalerilla-de-un-helicoptero-al-llegar-a-una-visita-al-museo-mercedes-benz-en-stuttgart-alemania-en-1977.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/por-que-juan-carlos-i-sigue-siendo-un-referente-de-democracia-en-buena-parte-del-mundo.html",
+        "date": "2025-11-22 06:02:58",
+        "sentiment_score": -0.2891122102737427
+    },
+    {
+        "title": "El magistrado Enrique Arnaldo: «El Tribunal Constitucional es un VAR de la Justicia»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/22/692151bfa8e03.r_d.810-432-7407.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20251122/magistrado-enrique-arnaldo-tribunal-constitucional-var-justicia_357854.html",
+        "date": "2025-11-22 06:01:48",
+        "sentiment_score": -0.09772452712059021
+    },
+    {
+        "title": "Así es imposible",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "imposible"
+        ],
+        "link": "https://www.deia.eus/opinion/madrilgogortetik/2025/11/22/imposible-10383699.html",
+        "date": "2025-11-22 06:00:17",
+        "sentiment_score": -0.9198851436376572
+    },
+    {
+        "title": "LaLiga EA Sports 25 – 26 | Hugo Duro ilumina un derbi feísimo: el Valencia respira y el Levante se mete en problemas serios",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/laliga-ea-sports-25-26-jornada-13-viernes-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lagradaonline.com/laliga-jornada-13-previa-claves-resultados-clasificacion-partidos-espanyol-sevilla-viernes/",
+        "date": "2025-11-22 05:39:48",
+        "sentiment_score": 0.4460958391427994
+    },
+    {
+        "title": "La crítica de Boyero a la película sobre la Cañada Real: “Entro igual que salgo. Prefiero el cine a la vida real”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/P22PBFNOU5A7FO3T2AV6YR6P2E.jpg?auth=977cc4748876bb6f0445fb6c915f5e51e9ca14e85b8aef1001b3c8315f019acc&width=1200",
+        "tags": [
+            "películas",
+            "cañada real",
+            "estrenos cine",
+            "cultura",
+            "crítica cine",
+            "cine"
+        ],
+        "link": "https://elpais.com/cultura/cine/2025-11-22/la-critica-de-boyero-a-la-pelicula-sobre-la-canada-real-entro-igual-que-salgo-prefiero-el-cine-a-la-vida-real.html",
+        "date": "2025-11-22 05:25:37",
+        "sentiment_score": -0.3328132778406143
+    },
+    {
+        "title": "Galicia se convierte en la autonomía que menos recicla por culpa del ‘modelo Sogama’",
+        "image_url": "https://static.infolibre.es/clip/4004005f-a750-49e0-9048-6283477ac106_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "xunta galicia",
+            "reciclaje basura",
+            "galicia",
+            "medioambiente"
+        ],
+        "link": "https://www.infolibre.es/medioambiente/galicia-convierte-autonomia-recicla-culpa-modelo-sogama_1_2101788.html",
+        "date": "2025-11-22 05:01:44",
+        "sentiment_score": -0.09020635485649109
+    },
+    {
+        "title": "Veinte hitos que marcan el mayor avance económico de la historia de España",
+        "image_url": "https://s10.s3c.es/imag/_v0/1920x1048/4/d/b/1200x655_congreso.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.eleconomista.es/economia/noticias/13656612/11/25/veinte-hitos-que-marcan-el-mayor-avance-economico-de-la-historia-de-espana.html",
+        "date": "2025-11-22 05:00:29",
+        "sentiment_score": -0.3426056504249573
+    },
+    {
+        "title": "Celebramos los 50 años de la monarquía española con 10 imágenes icónicas que han marcado su historia",
+        "image_url": "https://okdiario.com/look/img/2025/11/18/aniv.jpg",
+        "tags": [
+            "casa real",
+            "familia real española"
+        ],
+        "link": "https://okdiario.com/look/casa-real/50-anos-monarquia-espanola-10-imagenes-iconicas-historia-2428405",
+        "date": "2025-11-22 05:00:14",
+        "sentiment_score": 0.30023933947086334
+    },
+    {
+        "title": "Felipe VI, el reinado de la cercanía y la transparencia: 50 años de Monarquía parlamentaria",
+        "image_url": "https://s10.s3c.es/imag/_v0/8000x4366/7/2/9/1200x655_felipe-VI-retrato.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13651739/11/25/felipe-vi-el-reinado-de-la-cercania-y-la-transparencia-50-anos-de-monarquia-parlamentaria.html",
+        "date": "2025-11-22 05:00:04",
+        "sentiment_score": -0.00826197862625122
+    },
+    {
+        "title": "La debilidad de Isabel Gemio por su hijo: «Dos palabras cambiaron mi vida; distrofia muscular»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/isabel-gemio-periodista.jpeg",
+        "tags": [
+            "gente",
+            "celebrities",
+            "hijos",
+            "periodistas",
+            "enfermedades"
+        ],
+        "link": "https://theobjective.com/gente/2025-11-22/isabel-gemio-periodista-debilidad-hijo/",
+        "date": "2025-11-22 06:30:00",
+        "sentiment_score": 0.6822853088378906
+    },
+    {
+        "title": "Caso Pujol: una estafa política y económica desde Banca Catalana hasta el 3%",
+        "image_url": "https://s1.staticld.com/2025/11/21/jordi-pujol10092025-recorte.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/espana/2025-11-22/caso-pujol-una-estafa-politica-y-economica-desde-banca-catalana-hasta-el-3-por-ciento-7322984/",
+        "date": "2025-11-22 06:26:50",
+        "sentiment_score": -0.7699612136930227
+    },
+    {
+        "title": "“Lux” de Rosalía cautiva a cardenal y obispos del Vaticano",
+        "image_url": "https://dims.apnews.com/dims4/default/847ae88/2147483647/strip/true/crop/3000x1688+0+656/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F37%2Fe45d15aa23fee934a38a04d742a5%2F2e637772801d4ec9a5f80e3672459945",
+        "tags": [
+            "espectaculos",
+            "arts and entertainment",
+            "rosalia lux vaticano religion",
+            "noticias",
+            "entertainment"
+        ],
+        "link": "https://apnews.com/article/rosalia-lux-vaticano-religion-dcb308a544e85df8b93b44c28d8b9982",
+        "date": "2025-11-22 06:21:33",
+        "sentiment_score": 0.7475396282970905
+    },
+    {
+        "title": "“Lux” de Rosalía cautiva a cardenal y obispos del Vaticano",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/11/ROSAL205A-LUX_91659.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2025/11/22/lux-de-rosala-cautiva-a-cardenal-y-obispos-del-vaticano/",
+        "date": "2025-11-22 06:21:32",
+        "sentiment_score": 0.5348782241344452
+    },
+    {
+        "title": "Encendido de las luces de Navidad en Barcelona, hoy en directo: hora, afectaciones al tráfico y espectáculo en Paseo de Gracia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/171bf453-4046-44f7-8003-1205c549dd0a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "tradiciones",
+            "fiestas",
+            "navidad"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20251122/luces-navidad-2025-barcelona-encendido-ultima-hora-directo-123999737",
+        "date": "2025-11-22 06:15:51",
+        "sentiment_score": 0.4259508177638054
+    },
+    {
+        "title": "Susana, jubilada y viuda de 79 años, pensión de 800 euros. \"No me llega, duermo en el sofá porque comparto piso con estudiantes\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/01/20/jubilada-sacando-dinero-pension-1200-675.webp",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/susana-jubilada-viuda-79nos-pension-800-euros-no-me-llega-duermo-sofa-comparto-piso-estudiantes.html",
+        "date": "2025-11-22 06:04:53",
+        "sentiment_score": -0.6839925535023212
+    },
+    {
+        "title": "La larga travesía del Barcelona para volver al Camp Nou: plazos incumplidos, polémica con la empresa y un equipo itinerante",
+        "image_url": "https://static.eldiario.es/clip/552d6f65-3574-4f2f-acd3-b1f5893980bd_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pm",
+            "larga",
+            "travesia",
+            "barcelona",
+            "polemica",
+            "camp",
+            "plazos",
+            "itinerante",
+            "equipo",
+            "volver",
+            "empresa",
+            "nou",
+            "incumplidos"
+        ],
+        "link": "https://www.eldiario.es/spin/deportes/larga-travesia-barcelona-volver-camp-nou-plazos-incumplidos-polemica-empresa-equipo-itinerante-pm_1_12786575.html",
+        "date": "2025-11-22 06:00:58",
+        "sentiment_score": 0.03308224678039551
+    },
+    {
+        "title": "Martín Rocca, director de '50 segundos': \"Es el miedo de todo padre, tu hijo sale de fiesta y no vuelve\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/63c77acf-65c8-406f-a81b-55bf5d7d994d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "agresiones físicas",
+            "jóvenes",
+            "argentina",
+            "discotecas",
+            "documentales",
+            "netflix"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251122/martin-rocca-director-50-segundos-netflix-paliza-mortal-adolescente-argentina-123985029",
+        "date": "2025-11-22 06:00:32",
+        "sentiment_score": -0.5034426227211952
     }
 ];
