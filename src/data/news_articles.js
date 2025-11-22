@@ -1,373 +1,5 @@
 export default [
     {
-        "title": "El Barça se despide de Montjuic: Más decepciones que alegrías y el Clásico como gran noche",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/17/image-89fac9c6-d32e-4345-9ca8-1ef86d257dad-85-2560-1440.jpeg",
-        "tags": [
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/estadio-lluis-companys-montjuic-barcelona-balance-partidos_sto23242072/story.shtml",
-        "date": "2025-11-17 22:16:18",
-        "sentiment_score": -0.6515187546610832
-    },
-    {
-        "title": "Lluís Reverter, un ‘senyor de Sarrià’",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/17/691b9c80c0343.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20251117/11274236/lluis-reverter-senyor-sarria.html",
-        "date": "2025-11-17 22:07:00",
-        "sentiment_score": -0.22308574616909027
-    },
-    {
-        "title": "El Ministerio de Diana Morant ignoró dos cartas del alto cargo denunciante del desfalco de 25 millones contra el cáncer en el CNIO",
-        "image_url": "https://phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
-        "tags": [
-            "nlpremium",
-            "artículos quico alsedo"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/17/691b785ee85ece51348b4584.html",
-        "date": "2025-11-17 21:57:25",
-        "sentiment_score": -0.6536957807838917
-    },
-    {
-        "title": "La IX edición de los Premios Woman Madame Figaro vuelve a celebrar el talento y la excelencia femenina",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2cb90f30-5b49-42fd-8ad2-05631ce5f29e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "moda,woman,mujeres,igualdad"
-        ],
-        "link": "https://www.superdeporte.es/fuera-de-juego/moda/2025/11/17/ix-edicion-premios-woman-madame-123836141.html",
-        "date": "2025-11-17 21:56:37",
-        "sentiment_score": 0.7302743718028069
-    },
-    {
-        "title": "Yisu «El Súper Nova» regresa a Venezuela para estrenar «Se Botó»",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-05-at-07.43.05-2-1.webp",
-        "tags": [
-            "entretenimiento"
-        ],
-        "link": "https://lacalle.com.ve/yisu-el-super-nova-regresa-a-venezuela-para-estrenar-se-boto/",
-        "date": "2025-11-17 22:10:12",
-        "sentiment_score": 0.51852847635746
-    },
-    {
-        "title": "‘L’herència’, ‘Ànima’ y ‘La quijá’, los mejores espectáculos de los premios Butaca",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/09/68c01e96c4c75.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20251117/11273110/herencia-anima-quija-premios-butaca.html",
-        "date": "2025-11-17 22:00:00",
-        "sentiment_score": 0.036515772342681885
-    },
-    {
-        "title": "Dónde han caído los premios de la Bonoloto, ONCE, Eurodreams y los premios de la ONCE de hoy, lunes 17 de noviembre",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/07/18/85D9BAA5-46C4-4471-AD9A-DA018FFCC4FF/imagen-archivo-administracion-loterias-apuestas-estado_98.jpg?crop=5000%2C2813%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "loterías",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-premios-bonoloto-once-eurodreams-premios-once-hoy-lunes-17-noviembre_20251117691b9a4aeba8bc0ece03ef4d.html",
-        "date": "2025-11-17 21:57:30",
-        "sentiment_score": 0.051173269748687744
-    },
-    {
-        "title": "Distintos genes, un mismo camino evolutivo: cuál es el patrón que le permitió a la vida conquistar la tierra",
-        "image_url": "https://www.infobae.com/resizer/v2/VYQ5G3UGFNHTDLPIVYHGHYATCY.png?auth=176b3fb0891acabeded9df0be50d38fa4d79729ca703439f06a709c297eeaf1e&height=1024&smart=true&width=1536",
-        "tags": [
-            "university of bristol",
-            "newsroom bue",
-            "convergencia evolutiva",
-            "evolución genómica",
-            "adaptación a la vida terrestre",
-            "universidad de barcelona"
-        ],
-        "link": "https://www.infobae.com/america/ciencia-america/2025/11/17/distintos-genes-un-mismo-camino-evolutivo-cual-es-el-patron-que-le-permitio-a-la-vida-conquistar-la-tierra/",
-        "date": "2025-11-17 21:49:40",
-        "sentiment_score": 0.11672219634056091
-    },
-    {
-        "title": "Dos agraciados en el sorteo de La Primitiva han sido premiados este lunes con más de 56.000 euros",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2025/11/17/loterias-apuestas-kTE-U230342704-kfiE-U240259104903gAE-1200x840@Hoy.jpg",
-        "tags": [
-            "agraciados",
-            "dos",
-            "euros",
-            "premiados",
-            "lunes",
-            "primitiva",
-            "sorteo"
-        ],
-        "link": "https://www.hoy.es/sociedad/dos-agraciados-sorteo-primitiva-premiados-lunes-56000-20251117223753-nt.html",
-        "date": "2025-11-17 21:37:54",
-        "sentiment_score": 0.10269614309072495
-    },
-    {
-        "title": "Alicante se afianza como referente internacional en la era de la innovación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/501759a6-4f76-4740-b3ad-5c17211aa353_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "innovación",
-            "ayuntamiento",
-            "foro municipalismo",
-            "bc",
-            "comisión europea",
-            "público",
-            "ecosistema"
-        ],
-        "link": "https://www.informacion.es/alicante/2025/11/17/alicante-afianza-referente-internacional-innovacion-123806908.html",
-        "date": "2025-11-17 21:30:15",
-        "sentiment_score": 0.7218039855360985
-    },
-    {
-        "title": "La vivienda urgente es cosa de todos: Gobierno, Generalitat, Bancos y ayuntamientos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1a8d4054-ef4c-4a0a-a42d-03382933c83d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gobierno",
-            "bancos",
-            "suelo",
-            "foro municipalismo",
-            "bc",
-            "construcción",
-            "vivienda",
-            "ayudas"
-        ],
-        "link": "https://www.informacion.es/elda/2025/11/17/vivienda-urgente-cosa-gobierno-generalitat-123811438.html",
-        "date": "2025-11-17 21:30:14",
-        "sentiment_score": -0.6320065669715405
-    },
-    {
-        "title": "A qué hora juega Brasil vs Túnez: partido amistoso en París por fecha FIFA 2025",
-        "image_url": "https://www.infobae.com/resizer/v2/NO2LXESS4NEH3KRRS3KZADMOHA.jpg?auth=6bce8f4e6f30e352de306babd162376de0fcdaf4966dd26898abb3c8f365e02d&height=1080&smart=true&width=1920",
-        "tags": [
-            "peru-deportes",
-            "selección de brasil",
-            "selección de túnez"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2025/11/18/a-que-hora-juega-brasil-vs-tunez-partido-amistoso-paris-fecha-fifa-2025-horario/",
-        "date": "2025-11-18 02:11:54",
-        "sentiment_score": -0.030732907354831696
-    },
-    {
-        "title": "Reflexiones en el día de la retirada de Michael Burry",
-        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744016214_259970141_1706x960.jpg",
-        "tags": [
-            "tribunas de opinión",
-            "opinión",
-            "mercados financieros",
-            "inversión"
-        ],
-        "link": "https://www.elespanol.com/invertia/opinion/20251118/reflexiones-dia-retirada-michael-burry/1003744017745_12.html",
-        "date": "2025-11-18 01:33:08",
-        "sentiment_score": -0.2794329449534416
-    },
-    {
-        "title": "Montero ofrecerá a cada CCAA una financiación 'a la carta' en plena precampaña y castigará a las que bajen impuestos",
-        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017600_259987466_1706x960.jpg",
-        "tags": [
-            "financiación autonómica",
-            "economía",
-            "ministerio de hacienda y función pública",
-            "iva",
-            "irpf"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/20251118/montero-ofrecera-ccaa-financiacion-carta-plena-precampana-castigara-bajen-impuestos/1003744017591_0.html",
-        "date": "2025-11-18 01:33:05",
-        "sentiment_score": -0.8134327819570899
-    },
-    {
-        "title": "Alberto Nadal: \"La financiación autonómica no puede consistir en que unas regiones consigan ventajas que otras no logren\"",
-        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017581_259987211_1706x960.jpg",
-        "tags": [
-            "partido popular (pp)",
-            "región",
-            "alberto nadal",
-            "pensiones"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20251118/alberto-nadal-financiacion-autonomica-no-puede-consistir-regiones-consigan-ventajas-logren/1003744016860_0.html",
-        "date": "2025-11-18 01:32:56",
-        "sentiment_score": 0.03258585184812546
-    },
-    {
-        "title": "La política española ya no es cosa de dos: retos y oportunidades del Congreso más fragmentado",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/30/2025103021483280283.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/politica-espanola-es-cosa-dos-retos-oportunidades-congreso-mas-fragmentado/20251118021715363502.html",
-        "date": "2025-11-18 01:17:15",
-        "sentiment_score": -0.7033792249858379
-    },
-    {
-        "title": "El desconocido palacio oculto en la Casa de Campo que fascinó a los Austrias: su nueva vida tras casi 20 años cerrado",
-        "image_url": "https://s3.elespanol.com/2025/11/17/madrid/1003744017642_259987923_1706x960.jpg",
-        "tags": [
-            "casa de campo",
-            "madrid capital",
-            "felipe ii",
-            "ayuntamiento de madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/capital/20251118/desconocido-palacio-oculto-casa-campo-fascino-austrias-nueva-vida-anos-cerrado/1003744017296_0.html",
-        "date": "2025-11-18 01:00:00",
-        "sentiment_score": 0.22012252360582352
-    },
-    {
-        "title": "Felipe VI, ante una semana histórica: de la imposición del Toisón de Oro a su madre al reencuentro con sus dos hijas",
-        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744009505_259880760_1706x960.jpg",
-        "tags": [
-            "sofía de borbón ortiz",
-            "reina letizia",
-            "reina sofía",
-            "leonor de borbón ortiz",
-            "felipe vi",
-            "casas reales"
-        ],
-        "link": "https://www.elespanol.com/corazon/casas-reales/20251118/felipe-vi-semana-historica-imposicion-toison-oro-madre-reencuentro-hijas/1003744016624_0.html",
-        "date": "2025-11-18 00:33:00",
-        "sentiment_score": -0.055490732192993164
-    },
-    {
-        "title": "Alemao y Adrián López: dos exazules amenazan al Real Oviedo",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/11/17/110472117-khzC--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/alemao-adrian-lopez-dos-exazules-amenazan-real-20251117005939-nt.html",
-        "date": "2025-11-17 23:59:40",
-        "sentiment_score": -0.3150472268462181
-    },
-    {
-        "title": "Cupón Diario de la Once: jugada ganadora y resultado del último sorteo",
-        "image_url": "https://www.infobae.com/resizer/v2/2HJ4HXQNI5FV7AE23L5Z44GFTQ.png?auth=6097dfc80447b79a943e44316ec96708db2b30bb8c410b3c1f782696c778203d&height=1080&smart=true&width=1920",
-        "tags": [
-            "cupón diario",
-            "noticias",
-            "españa-loterías"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/17/cupon-diario-de-la-once-jugada-ganadora-y-resultado-del-ultimo-sorteo/",
-        "date": "2025-11-17 23:15:29",
-        "sentiment_score": 0.35981351137161255
-    },
-    {
-        "title": "El éxito de la NFL afianza la capital de cara a la Fórmula 1 y el Mundial de fútbol: \"Madrid ha sacado músculo\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/8195674c40ad44c3e6856531bcf8fb15/crop/86x36/726x676/f/image/jpeg/assets/multimedia/imagenes/2022/03/21/16478803395824.jpg",
-        "tags": [
-            "nfl",
-            "estadio santiago bernabéu",
-            "artículos carlos guisasola",
-            "comunidad de madrid",
-            "deportes",
-            "artículos vicente coll",
-            "política",
-            "madrid"
-        ],
-        "link": "https://www.elmundo.es/madrid/2025/11/18/691b657bfdddff174b8b4571.html",
-        "date": "2025-11-17 23:06:39",
-        "sentiment_score": 0.8414645418524742
-    },
-    {
-        "title": "El retrato de Dorian Gray",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dorian",
-            "retrato",
-            "gray"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/retrato-dorian-gray_0_2005253580.html",
-        "date": "2025-11-18 02:07:15",
-        "sentiment_score": -0.070269376039505
-    },
-    {
-        "title": "Catherine Vautrin, ministra francesa de las Fuerzas Armadas: \"Para ser respetados, tenemos que ser temidos\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/cd88a681db4496134ff64fbbae9bdfde/crop/20x0/794x774/f/image/jpeg/assets/multimedia/imagenes/2022/03/10/16469128631664.jpg",
-        "tags": [
-            "artículos carlos fresneda",
-            "francia"
-        ],
-        "link": "https://www.elmundo.es/internacional/2025/11/18/691b4f1ce4d4d8fa428b459f.html",
-        "date": "2025-11-18 01:32:59",
-        "sentiment_score": 0.4057399556040764
-    },
-    {
-        "title": "Óscar Puente promete el AVE a 350 km/h, pero Renfe sólo tiene 26 trenes que pueden circular a esa velocidad",
-        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017007_259980289_1706x960.jpg",
-        "tags": [
-            "trenes",
-            "observatorio de la movilidad",
-            "renfe"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20251118/oscar-puente-promete-ave-kmh-renfe-solo-trenes-pueden-circular-velocidad/1003744016912_0.html",
-        "date": "2025-11-18 01:32:57",
-        "sentiment_score": -0.6246995441615582
-    },
-    {
-        "title": "El AVE aterriza en el cinturón rojo: nueva estación en Parla para el beneficio de seis millones de madrileños",
-        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017420_259985147_1706x960.jpg",
-        "tags": [
-            "trenes",
-            "comunidad de madrid",
-            "ave",
-            "política"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251118/ave-aterriza-cinturon-rojo-nueva-estacion-parla-beneficio-millones-madrilenos/1003744016779_0.html",
-        "date": "2025-11-18 01:00:00",
-        "sentiment_score": 0.3294778876006603
-    },
-    {
-        "title": "El misterio de la foto falsa de Robert Capa, la más famosa de la Guerra Civil Española",
-        "image_url": "https://s3.elespanol.com/2025/11/17/actualidad/1003744017653_259988126_1706x960.jpg",
-        "tags": [
-            "guerra",
-            "fotografía",
-            "arte"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20251118/misterio-foto-falsa-robert-capa-famosa-guerra-civil-espanola/1003744017152_0.html",
-        "date": "2025-11-18 00:55:00",
-        "sentiment_score": 0.18885718286037445
-    },
-    {
-        "title": "Cádiz y su provincia presumen de proyecto para relanzar a \"un Cádiz de Cádiz, pensando en Cádiz, que vuelva a Primera con bases sólidas\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/18/691bb9b2b5883.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/cadiz-provincia-presumen-proyecto-relanzar-cadiz-cadiz-pensando-cadiz-vuelva-primera-bases-solidas-20251118_3253950.html",
-        "date": "2025-11-18 00:53:16",
-        "sentiment_score": -0.012761592864990234
-    },
-    {
-        "title": "Puente reta a Talgo y CAF a vender trenes más rápidos",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/7ae3b1117560be2bf1f32cad7ef75e7b/crop/29x83/1770x1244/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/18/17634269943508.jpg",
-        "tags": [
-            "transporte y turismo>"
-        ],
-        "link": "https://www.expansion.com/empresas/transporte/2025/11/18/691bc0a6468aebb47e8b45c4.html",
-        "date": "2025-11-18 00:51:47",
-        "sentiment_score": 0.4804683029651642
-    },
-    {
-        "title": "Colonial negocia comprar la sede de Naturgy en Madrid",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/bf9d36892d87a825dee62b224506ca5c/crop/22x0/1000x652/f/webp/assets/multimedia/imagenes/2025/11/17/17634094789904.png",
-        "tags": [
-            "inmobiliario y construcción>",
-            "artículos rebeca arroyo>",
-            "empresas>",
-            "mercado inmobiliario>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/mercado/2025/11/18/691b7de7e5fdea374e8b459e.html",
-        "date": "2025-11-18 00:32:10",
-        "sentiment_score": -0.03000829368829727
-    },
-    {
-        "title": "«No hay que lanzar las campanas al vuelo con Nico, aún no ha hecho nada»",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/11/17/110467707-kR8F--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "sporting de gijón"
-        ],
-        "link": "https://www.elcomercio.es/sporting/abuelo-juvenil-nico-riestra-tras-debut-sporting-20251117010545-nt.html",
-        "date": "2025-11-18 00:05:46",
-        "sentiment_score": 0.261147353798151
-    },
-    {
         "title": "España busca sellar el billete al Mundial con la clasificación perfecta",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/afcf1833-c5bf-4dba-a73a-7d7f0b25b25a_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3090,5 +2722,247 @@ export default [
         "link": "https://www.laopiniondemurcia.es/economia/2025/11/21/nuria-rodriguez-planas-reducir-brecha-genero-educacion-123961197.html",
         "date": "2025-11-21 06:20:22",
         "sentiment_score": -0.05152690410614014
+    },
+    {
+        "title": "¿Por qué es tan difícil regularizar el estatus para los inmigrantes que llevan décadas viviendo en EEUU?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Screenshot_138-1.jpg",
+        "tags": [
+            "inmigrantes",
+            "internacionales",
+            "usa",
+            "regularizar",
+            "estatus",
+            "eeuu",
+            "actualidad"
+        ],
+        "link": "https://lapatilla.com/2025/11/21/por-que-es-tan-dificil-regularizar-el-estatus-para-los-inmigrantes-que-llevan-decadas-viviendo-en-eeuu/",
+        "date": "2025-11-21 10:00:13",
+        "sentiment_score": 0.16452598571777344
+    },
+    {
+        "title": "Ayuso teme que Sánchez prepare \"algo desquiciado\" tras la condena al fiscal y avisa",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/11/21/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-ha-celebrado-este-viernes-que-la-justicia-funciona-tras-la-condena-del-tribunal-supremo.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/11/21/ayuso-teme-que-sanchez-prepare-algo-desquiciado-tras-la-condena-al-fiscal-y-avisa-1872457-daa.html",
+        "date": "2025-11-21 17:04:02",
+        "sentiment_score": -0.11394920945167542
+    },
+    {
+        "title": "El Spotify Camp Nou se estrena con un morboso Barça-Athletic",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251121175240_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-spotify-camp-nou-estrena-morboso-barca-athletic-20251121175240.html",
+        "date": "2025-11-21 16:52:40",
+        "sentiment_score": 0.280130535364151
+    },
+    {
+        "title": "Mañueco defiende que la Corona impulsó una transición ejemplar: «Nos dio la etapa más próspera»",
+        "image_url": "https://okdiario.com/img/2025/11/21/alfonso-fernandez-manueco.-ep.jpg",
+        "tags": [
+            "felipe vi",
+            "castilla y león",
+            "españa",
+            "alfonso fernández mañueco"
+        ],
+        "link": "https://okdiario.com/castilla-leon/manueco-defiende-que-corona-impulso-transicion-ejemplar-nos-dio-etapa-mas-prospera-15806121",
+        "date": "2025-11-21 16:44:52",
+        "sentiment_score": 0.010072588920593262
+    },
+    {
+        "title": "Madrid presenta en el Consejo Local de Turismo los avances en movilidad, limpieza, ordenación de alojamiento y conectividad aérea",
+        "image_url": "http://st1.lacerca.com/imagenes/view/fa2c68ddc7b031f083b2ec27a6d61cb0.jpg",
+        "tags": [
+            "noticias",
+            "madrid"
+        ],
+        "link": "https://www.lacerca.com/noticias/madrid/madrid-consejo-local-turismo-avances-movilidad-limpieza-aerea-791565-1.html",
+        "date": "2025-11-21 16:40:00",
+        "sentiment_score": 0.44861772656440735
+    },
+    {
+        "title": "'Madrid, una postal navideña' llenará la ciudad de música, belenes, espectáculos y actividades para toda la familia",
+        "image_url": "http://st1.lacerca.com/imagenes/view/314a2742d8a3756556dcd32e6911f057.jpg",
+        "tags": [
+            "noticias",
+            "madrid"
+        ],
+        "link": "https://www.lacerca.com/noticias/madrid/madrid-postal-navidena-ciudad-musica-belenes-actividades-familia-791564-1.html",
+        "date": "2025-11-21 16:40:00",
+        "sentiment_score": 0.3911604471504688
+    },
+    {
+        "title": "Ángel Ballesteros, Sonia Hidalgo y José María Guerrero, en el top 5 del Circuito Nacional snipe de vela",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/21/692095b89b934.jpeg",
+        "tags": [
+            "deportes motril"
+        ],
+        "link": "https://www.cope.es/emisoras/andalucia/granada-provincia/motril/deportes-motril/noticias/angel-ballesteros-sonia-hidalgo-jose-maria-guerrero-top-5-circuito-nacional-snipe-vela-20251121_3257320.html",
+        "date": "2025-11-21 16:39:30",
+        "sentiment_score": -0.11070922017097473
+    },
+    {
+        "title": "El CD Tenerife baja al 'barro sintético' de Gobela para medirse al Arenas de Getxo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9af50704-5031-4c29-9740-dad73bff1fbf_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "álvaro cervera",
+            "primera federación",
+            "cd tenerife"
+        ],
+        "link": "https://www.eldia.es/deportes/cd-tenerife/2025/11/21/previa-arenas-de-getxo-cd-tenerife-123985612.html",
+        "date": "2025-11-21 16:38:15",
+        "sentiment_score": 0.5302654355764389
+    },
+    {
+        "title": "Eva Navarro, convocada para la final de la Nations League",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b0e4f80-b24b-472e-b1a6-86a79c71282d_16-9-aspect-ratio_default_0_x1188y45.jpg",
+        "tags": [
+            "castillo",
+            "lesión",
+            "eva navarro",
+            "león",
+            "real madrid",
+            "deportes",
+            "barcelona"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2025/11/21/eva-navarro-convocada-final-nations-123986138.html",
+        "date": "2025-11-21 16:37:58",
+        "sentiment_score": -0.09643000364303589
+    },
+    {
+        "title": "Anticorrupción no ve indicios de que Rubiales percibiera comisiones de Novanet",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251121173437_260.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-anticorrupcion-no-ve-indicios-rubiales-percibiera-comisiones-novanet-20251121173437.html",
+        "date": "2025-11-21 16:34:37",
+        "sentiment_score": -0.059601910412311554
+    },
+    {
+        "title": "Incógnita Rashford",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c7e7be72-b19e-4f2f-832d-12fa62755680_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "incognita",
+            "rashford"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/11/21/incognita-rashford-10382155.html",
+        "date": "2025-11-21 16:30:22",
+        "sentiment_score": -0.09347470104694366
+    },
+    {
+        "title": "Estas son todas las calles con luces de Navidad nuevas este 2025: fecha de encendido y detalles",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/10/24/vivir-en-barcelona/804429936_10916274_1706x960.jpg",
+        "tags": [
+            "recomendaciones",
+            "navidad barcelona",
+            "vivir en barcelona",
+            "planes"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251121/todas-calles-luces-navidad-nuevas-fecha-encendido-detalles/1003742709654_0.html",
+        "date": "2025-11-21 17:09:43",
+        "sentiment_score": 0.7089778706431389
+    },
+    {
+        "title": "17:00H | 21 NOV 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-21-nov-2025-tarde-20251121_3257334.html",
+        "date": "2025-11-21 17:09:00",
+        "sentiment_score": -0.22780396044254303
+    },
+    {
+        "title": "El Club Baloncesto Nigrán clama contra la violencia machista con su vídeo de cada 25-N",
+        "image_url": "https://www.lavozdegalicia.es/assets/themes/$%7Btheme%7D/images/og_default.jpg",
+        "tags": [
+            "vigo",
+            "baloncesto",
+            "día contra la violencia machista"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/vigo/2025/11/21/club-baloncesto-nigran-falta-cita-25-n/00031763742744851549281.htm",
+        "date": "2025-11-21 17:04:00",
+        "sentiment_score": -0.19807471334934235
+    },
+    {
+        "title": "Dj P.Dro, fiesta homenaje a un referente de Zona Límite",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c54acd13-a064-4549-8791-160b23c06e50_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fiesta",
+            "p",
+            "dj",
+            "dro",
+            "homenaje"
+        ],
+        "link": "https://www.noticiasdenavarra.com/pamplona/2025/11/21/dj-p-dro-fiesta-homenaje-10377774.html",
+        "date": "2025-11-21 17:02:32",
+        "sentiment_score": 0.07819817960262299
+    },
+    {
+        "title": "Inicio gélido y ventoso del fin de semana, pero el frío más intenso irá marchando",
+        "image_url": "https://static1.ara.cat/clip/5b708125-238b-4651-a35d-2bdc1bc3112b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "intenso",
+            "gelido",
+            "semana",
+            "ira",
+            "frio",
+            "marchando",
+            "ventoso",
+            "inicio"
+        ],
+        "link": "https://es.ara.cat/el-tiempo/inicio-gelido-ventoso-semana-frio-intenso-ira-marchando_1_5569509.html",
+        "date": "2025-11-21 17:01:12",
+        "sentiment_score": -0.053827494382858276
+    },
+    {
+        "title": "Anticorrupción descarta la relación entre los ingresos de Rubiales y las subvenciones gestionadas por Novanet",
+        "image_url": "https://www.infobae.com/resizer/v2/LZIUZ33O3JH6BO2BB3C4JLHARY.jpg?auth=3f784e935611443133062832530d65f99f71de0605793868bc09b25af108721c&height=2584&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/21/anticorrupcion-descarta-la-relacion-entre-los-ingresos-de-rubiales-y-las-subvenciones-gestionadas-por-novanet/",
+        "date": "2025-11-21 17:00:24",
+        "sentiment_score": -0.2714407667517662
+    },
+    {
+        "title": "La economía azul tiene potencial como motor de turismo sostenible y competitivo, según Foment",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251121175940_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-economia-azul-tiene-potencial-motor-turismo-sostenible-competitivo-foment-20251121175940.html",
+        "date": "2025-11-21 16:59:40",
+        "sentiment_score": 0.6606769785284996
+    },
+    {
+        "title": "Una andaluza viviendo en Barcelona dicta sentencia sobre esta típica expresión catalana: \"Es que me suena fatal\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/21/69209a2a6a571.r_d.1404-292.jpeg",
+        "tags": [
+            "tressesenta"
+        ],
+        "link": "https://www.mundodeportivo.com/tressesenta/20251121/1002573390/andaluza-viviendo-barcelona-dicta-sentencia-aprender-catalan-me-suena-fatal-dct.html",
+        "date": "2025-11-21 16:59:16",
+        "sentiment_score": 0.41848740726709366
+    },
+    {
+        "title": "Mousikê adelanta las vacaciones navideñas con concierto didáctico y masterclasses a cargo del bajista jerezano Ricardo Piñero",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3b84977-4a44-4fe4-a4d5-8d58564f54c3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "flamenco",
+            "vacaciones",
+            "cultura",
+            "música",
+            "tenerife"
+        ],
+        "link": "https://www.laprovincia.es/cultura/2025/11/21/mousike-adelanta-vacaciones-navidenas-concierto-123987159.html",
+        "date": "2025-11-21 16:54:32",
+        "sentiment_score": 0.7620763704180717
     }
 ];
