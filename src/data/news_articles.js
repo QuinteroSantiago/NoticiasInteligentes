@@ -1,162 +1,5 @@
 export default [
     {
-        "title": "España busca sellar el billete al Mundial con la clasificación perfecta",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/afcf1833-c5bf-4dba-a73a-7d7f0b25b25a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "selección española de fútbol",
-            "luis de la fuente",
-            "mundial"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/11/18/espana-busca-sellar-billete-mundial-123840494.html",
-        "date": "2025-11-18 06:26:06",
-        "sentiment_score": -0.1919693797826767
-    },
-    {
-        "title": "El Gobierno de Almeida cierra un polideportivo municipal entre críticas de abandono y dejadez: \"Manual perfecto de privatización\"",
-        "image_url": "https://www.elplural.com/uploads/s1/21/00/34/8/el-gobierno-de-almeida-cierra-el-centro-deportivo-de-daoiz-y-velarde-ep_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/gobierno-almeida-cierra-polideportivo-municipal-entre-criticas-abandono-dejadez-manual-perfecto-privatizacion_365294102",
-        "date": "2025-11-18 06:11:02",
-        "sentiment_score": -0.1589823067188263
-    },
-    {
-        "title": "El taller de Renfe en Badajoz cumple cinco años como pieza clave del servicio ferroviario",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8fe80fef-9a0b-4679-a2a7-443623932a3c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tren",
-            "renfe",
-            "badajoz"
-        ],
-        "link": "https://www.lacronicabadajoz.com/badajoz/2025/11/18/taller-renfe-badajoz-cumple-cinco-123840215.html",
-        "date": "2025-11-18 06:04:58",
-        "sentiment_score": 0.24476870894432068
-    },
-    {
-        "title": "Lo que debes saber hoy, 18 de noviembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/12/20/vivir-en-barcelona/818678234_12115014_1706x960.jpg",
-        "tags": [
-            "renfe barcelona",
-            "clima",
-            "metro barcelona",
-            "aemet (agencia estatal de meteorología)",
-            "transporte",
-            "autobús",
-            "movilidad",
-            "transports metropolitans barcelona tmb",
-            "el tiempo",
-            "tráfico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251118/debes-saber-hoy-noviembre-barcelona/1003742708280_0.html",
-        "date": "2025-11-18 06:30:37",
-        "sentiment_score": 0.5356874689459801
-    },
-    {
-        "title": "El vacío al que nos aboca la especulación y la depredación inmobiliaria",
-        "image_url": "https://static1.ara.cat/clip/205600c0-69ac-458a-92b3-f139f9050eda_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "especulacion",
-            "depredacion",
-            "aboca",
-            "vacio",
-            "inmobiliaria"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/vacio-aboca-especulacion-depredacion-inmobiliaria_1_5565086.html",
-        "date": "2025-11-18 06:15:43",
-        "sentiment_score": -0.17843984067440033
-    },
-    {
-        "title": "Cristina Len: voz de la ruralidad contemporánea",
-        "image_url": "https://www.elplural.com/uploads/s1/21/00/44/0/disen-o-sin-ti-tulo_7_480x270.jpeg",
-        "tags": [
-            "playtime"
-        ],
-        "link": "https://www.elplural.com/playtime/cristina-len-voz-ruralidad-contemporanea_365302102",
-        "date": "2025-11-18 06:10:49",
-        "sentiment_score": -0.058607518672943115
-    },
-    {
-        "title": "Joan Laporta ve cómo se esfuman millones por el flojo desempeño de Ansu Fati",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/09/30/2025093011285930367.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/rendimiento-ansu-fati-hace-perder-millones-joan-laporta/20251118070644363531.html",
-        "date": "2025-11-18 06:06:44",
-        "sentiment_score": -0.31719202548265457
-    },
-    {
-        "title": "La inesperada expulsión de 'OT 2025' y los dos nominados que nadie se esperaba en la Gala 9 en Prime Video",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/18/691c0bbc7b562.r_d.345-229-6507.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20251118/1002571183/inesperada-expulsion-ot-2025-dos-nominados-nadie-esperaba-gala-9-prime-video-dct.html",
-        "date": "2025-11-18 06:02:14",
-        "sentiment_score": 0.04910743236541748
-    },
-    {
-        "title": "San Bartolomé de Tirajana destapa el potencial \"brutal\" de su turismo para competir en calidad y gastronomía",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/18/691c0b24d5a4c.jpeg",
-        "tags": [
-            "gran canaria"
-        ],
-        "link": "https://www.cope.es/emisoras/canarias/las-palmas/gran-canaria/noticias/san-bartolome-tirajana-destapa-potencial-brutal-turismo-competir-calidad-gastronomia-20251118_3253971.html",
-        "date": "2025-11-18 06:02:09",
-        "sentiment_score": 0.02350476384162903
-    },
-    {
-        "title": "El Espanyol vuelve al trabajo con el Sevilla en pausa y hasta cuatro pericos en el Catalunya – Palestina",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/manolo-gonzalez-espanyol-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/espanyol-vuelve-al-trabajo-sevilla-paron-catalunya-palestina/",
-        "date": "2025-11-18 06:00:49",
-        "sentiment_score": 0.7262303382158279
-    },
-    {
-        "title": "El Centro Aragonés de Barcelona será una referencia turística, cultural y gastronómica de la comunidad en Cataluña",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49f37233-3b98-4ba0-831a-51b5699135c1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cataluña",
-            "cultura",
-            "gastronomía",
-            "aragón",
-            "patrimonio",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodicodearagon.com/aragon/2025/11/18/centro-aragon-barcelona-turismo-cultura-gastronomia-cataluna-123831427.html",
-        "date": "2025-11-18 06:00:32",
-        "sentiment_score": 0.4611484706401825
-    },
-    {
-        "title": "Un noviembre repleto de efemérides",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noviembre",
-            "efemerides",
-            "repleto"
-        ],
-        "link": "https://www.noticiasdealava.eus/opinion/2025/11/18/noviembre-repleto-efemerides-10363644.html",
-        "date": "2025-11-18 06:00:29",
-        "sentiment_score": -0.41602160036563873
-    },
-    {
-        "title": "Nuevos horizontes financieros",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-06-a-las-22.39.47-1200x675.png",
-        "tags": [
-            "brand voice",
-            "branded content",
-            "brandvoice",
-            "forbes funds"
-        ],
-        "link": "https://forbes.es/forbes-funds/824671/nuevos-horizontes-financieros/",
-        "date": "2025-11-18 06:00:00",
-        "sentiment_score": 0.5348104164004326
-    },
-    {
         "title": "Cristiano Ronaldo se reunirá con Trump: lleva más de una década sin ir a Estados Unidos tras una acusación",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/18/691ca178079a8.jpeg",
         "tags": [
@@ -2964,5 +2807,292 @@ export default [
         "link": "https://www.laprovincia.es/cultura/2025/11/21/mousike-adelanta-vacaciones-navidenas-concierto-123987159.html",
         "date": "2025-11-21 16:54:32",
         "sentiment_score": 0.7620763704180717
+    },
+    {
+        "title": "Así anunció Juan Carlos I la reforma política a las Cortes franquistas: nueve frases en clave para un discurso histórico",
+        "image_url": "https://phantom-elmundo.uecdn.es/2d2aea672efc6ef80cffece682b88885/crop/557x95/2385x1923/f/image/jpeg/assets/multimedia/imagenes/2025/01/28/17380869392890.jpg",
+        "tags": [
+            "artículos roberto benito",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/espana/50-aniversario-de-la-muerte-de-franco/2025/11/21/691cb0e7e85ece56798b45ae.html",
+        "date": "2025-11-21 21:57:59",
+        "sentiment_score": 0.5700665190815926
+    },
+    {
+        "title": "El Gobierno carga contra los jueces que han condenado al fiscal general del Estado: \"Es indecente\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/2d26f27a1465f2fcc979f51abd99c7e7/crop/1x7/100x107/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16528898789864.jpg",
+        "tags": [
+            "tribunal supremo",
+            "artículos marta belver",
+            "nlpremium",
+            "artículos raúl piña",
+            "álvaro garcía ortiz"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/21/6920a862fc6c83fd748b45b2.html",
+        "date": "2025-11-21 21:57:52",
+        "sentiment_score": -0.13366791605949402
+    },
+    {
+        "title": "Adrián Barbón, de camino a la la mina de Cangas del Narcea: \"Hay momentos en los que la Presidencia es una pesada carga\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3e6d4e04-be9a-4c58-aaad-e7cefa2bfddb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barbón",
+            "principado",
+            "mina",
+            "asturias",
+            "salamanca",
+            "presidencia",
+            "adrián barbón"
+        ],
+        "link": "https://www.lne.es/cangas-del-narcea/2025/11/21/adrian-barbon-camino-mina-cangas-123995708.html",
+        "date": "2025-11-21 21:47:16",
+        "sentiment_score": -0.847864918410778
+    },
+    {
+        "title": "Las series más vistas en Netflix México para pasar horas frente a la pantalla",
+        "image_url": "https://www.infobae.com/resizer/v2/3ILG6ARO65GSXKX3D2HXEQOXPU.jpg?auth=49262afaeec20a7ad29d37c6146b2a28628bfee4fd80ec8a4650c10fa5fb0f9e&height=1080&smart=true&width=1920",
+        "tags": [
+            "mexico-entretenimiento",
+            "series",
+            "streaming",
+            "noticias",
+            "netflix"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/11/21/las-series-mas-vistas-en-netflix-mexico-para-pasar-horas-frente-a-la-pantalla/",
+        "date": "2025-11-21 21:17:40",
+        "sentiment_score": 0.5189231522381306
+    },
+    {
+        "title": "Reabre la L7B de Metro, la ampliación 'maldita' de Aguirre que dejó sin casa a decenas de familias: “Mi madre se deprimió y perdió su empleo”",
+        "image_url": "https://static.eldiario.es/clip/8f6d1b8d-b68b-43d2-a4b0-8a389bfdb624_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "deprimio",
+            "dejo",
+            "perdio",
+            "casa",
+            "familias",
+            "madre",
+            "aguirre",
+            "metro",
+            "ampliacion",
+            "maldita",
+            "l7b",
+            "decenas",
+            "reabre",
+            "empleo"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/reabre-l7b-metro-ampliacion-maldita-aguirre-dejo-casa-decenas-familias-madre-deprimio-perdio-empleo_1_12786400.html",
+        "date": "2025-11-21 21:12:19",
+        "sentiment_score": -0.04329437017440796
+    },
+    {
+        "title": "Un alcalde monta su 'Gran Hermano' en Mallorca: más de 50 cámaras en un pueblo para controlar hasta los bares",
+        "image_url": "https://static.eldiario.es/clip/fbf43fd8-cbe9-47d8-9eba-307267509696_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hermano",
+            "bares",
+            "mallorca",
+            "monta",
+            "alcalde",
+            "50",
+            "gran",
+            "camaras",
+            "pueblo",
+            "controlar"
+        ],
+        "link": "https://www.eldiario.es/illes-balears/sociedad/alcalde-monta-gran-hermano-mallorca-50-camaras-pueblo-controlar-bares_1_12764105.html",
+        "date": "2025-11-21 21:12:18",
+        "sentiment_score": -0.08367966115474701
+    },
+    {
+        "title": "Ángel Víctor Torres: \"Resignificar Cuelgamuros debería ser una obligación para quien se opone a las dictaduras\"",
+        "image_url": "https://static.eldiario.es/clip/5f09891d-776c-4739-9996-01e334026afd_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dictaduras",
+            "deberia",
+            "cuelgamuros",
+            "victor",
+            "angel",
+            "opone",
+            "torres",
+            "obligacion",
+            "resignificar"
+        ],
+        "link": "https://www.eldiario.es/sociedad/angel-victor-torres-resignificar-cuelgamuros-deberia-obligacion-opone-dictaduras_128_12785094.html",
+        "date": "2025-11-21 21:12:15",
+        "sentiment_score": -0.06889978051185608
+    },
+    {
+        "title": "El Barça volverá este sábado al Spotify Camp Nou frente al Athletic",
+        "image_url": "https://laverdad.com/wp-content/uploads/2025/11/Spotify-Camp-Nou-1024x614.jpg",
+        "tags": [
+            "barcelona",
+            "spotify camp nou",
+            "deportes",
+            "athelic de bilbao"
+        ],
+        "link": "https://laverdad.com/el-barca-volvera-este-sabado-al-spotify-camp-nou-frente-al-athletic/",
+        "date": "2025-11-21 20:36:33",
+        "sentiment_score": 0.0008547455072402954
+    },
+    {
+        "title": "Las mejores series de Netflix Chile para ver hoy mismo",
+        "image_url": "https://www.infobae.com/resizer/v2/JFWHT536XVAKVCF4VKNRIFT7AQ.jpg?auth=a8e0a23886523d7cca6dd4136c2d4fdd1452edbd332af7b9602d92553935267d&height=1080&smart=true&width=1920",
+        "tags": [
+            "netflix",
+            "streaming",
+            "series",
+            "noticias",
+            "chile"
+        ],
+        "link": "https://www.infobae.com/noticias/2025/11/21/las-mejores-series-de-netflix-chile-para-ver-hoy-mismo/",
+        "date": "2025-11-21 20:30:41",
+        "sentiment_score": 0.5424750745296478
+    },
+    {
+        "title": "Lucas Langarita lidera un nuevo triunfo del Casademont Zaragoza sub-22",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/11/21/carlos-alias-se-dispone-a-lanzar-a-canasta.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/baloncesto/2025/11/21/lucas-langarita-lidera-un-nuevo-triunfo-del-casademont-zaragoza-sub-22-1872492.html",
+        "date": "2025-11-21 20:01:51",
+        "sentiment_score": 0.7634361684322357
+    },
+    {
+        "title": "El giro total del Sónar 2026 que deja a Barcelona fuera del mapa musical",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/11/21/2025112123082486744.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/giro-total-sonar-2026-que-deja-barcelona-fuera-mapa-musical/20251121230904990471.html",
+        "date": "2025-11-21 22:09:04",
+        "sentiment_score": 0.42238113284111023
+    },
+    {
+        "title": "¿Qué prefiere: carta o menú?",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/02e88a9b88001d0af1b09dc754ecb88c/crop/0x59/960x699/f/webp/assets/multimedia/imagenes/2020/11/27/16064980112740.jpg",
+        "tags": [
+            "¿qué prefiere: carta o menú?"
+        ],
+        "link": "https://www.expansion.com/directivos/2025/11/21/69208ee7e5fdeae37e8b45bc.html",
+        "date": "2025-11-21 22:00:14",
+        "sentiment_score": 0.5527300871908665
+    },
+    {
+        "title": "La joya de la generación 2007 que seguirá los pasos de Lamine Yamal, Pau Cubarsí y Marc Bernal: renovación inminente",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/05/culemania/secciones/1003742671440_14827251_1706x960.jpg",
+        "tags": [
+            "la masía",
+            "barça b",
+            "secciones",
+            "hansi flick"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20251121/generacion-lamine-yamal-pau-cubarsi-marc-bernal/1003742709696_0.html",
+        "date": "2025-11-21 21:53:14",
+        "sentiment_score": 0.5997666642069817
+    },
+    {
+        "title": "Identifican la célula que provoca el tumor pediátrico del Sarcoma de Ewing",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/estudio-sinc-1.jpg",
+        "tags": [
+            "investigación",
+            "ciencia",
+            "enfermedades"
+        ],
+        "link": "https://theobjective.com/sociedad/ciencia/2025-11-21/identifican-celula-tumor-pediatrico-sarcoma-ewing/",
+        "date": "2025-11-21 21:49:01",
+        "sentiment_score": -0.48066025599837303
+    },
+    {
+        "title": "Los Mossos d'Esquadra toman La Mina: más de 260 antecedentes y armas requisadas en un nuevo 'Pla Kanpai' en Sant Adrià",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/21/gran-barcelona/1003742709703_15432499_1706x960.jpg",
+        "tags": [
+            "mossos d'esquadra",
+            "policía",
+            "gran barcelona",
+            "delincuencia",
+            "guardia urbana",
+            "sant adrià de besòs",
+            "multirreincidencia"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251121/mossos-desquadra-toman-mina-antecedentes-armas-requisadas-nuevo-pla-kanpai-sant-adria/1003742709688_0.html",
+        "date": "2025-11-21 21:39:10",
+        "sentiment_score": -0.7501772176474333
+    },
+    {
+        "title": "Hallgrimsson desespera al Nava",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2025/11/G6TwYuzXoAAwsM8-819x1024.jpg",
+        "tags": [
+            "deportes",
+            "portada secundaria"
+        ],
+        "link": "https://eladelantado.com/hallgrimsson-desespera-al-nava/",
+        "date": "2025-11-21 21:38:38",
+        "sentiment_score": -0.6837960705161095
+    },
+    {
+        "title": "Grito de auxilio a la Generalitat de los científicos estrangulados por Trump: \"Estamos en una situación de máxima urgencia\"",
+        "image_url": "https://static1.ara.cat/clip/36e061f5-a4f3-4cd6-a8d9-4522b8f72b0f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "auxilio",
+            "urgencia",
+            "grito",
+            "situacion",
+            "maxima",
+            "trump",
+            "estrangulados",
+            "generalitat",
+            "cientificos"
+        ],
+        "link": "https://es.ara.cat/ciencia-tecnologia/grito-auxilio-generalitat-cientificos-estrangulados-trump-situacion-maxima-urgencia_1_5569818.html",
+        "date": "2025-11-21 21:30:28",
+        "sentiment_score": -0.552032396197319
+    },
+    {
+        "title": "El futuro exige una respuesta rápida y adaptación",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/11/21/5D136C3B-41B6-47BD-9EF2-9340DDA430F0/futuro-exige-respuesta-rapida-adaptacion_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "economía",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/economia/futuro-exige-respuesta-rapida-adaptacion_202511216920ce7d6c137a698777780a.html",
+        "date": "2025-11-21 21:22:24",
+        "sentiment_score": 0.21388382837176323
+    },
+    {
+        "title": "Franco Colapinto declaró quién es su favorito para ser campeón de la Fórmula 1 entre Verstappen, Norris y Piastri",
+        "image_url": "https://www.infobae.com/resizer/v2/R75CLL3RIVHZ3ILM62QFFQ3S7U.jpg?auth=15c6d933b333af6e8d525b62d639e5f9d21d30028fb134eb712ecf76e5158b52&height=1080&smart=true&width=1920",
+        "tags": [
+            "lando norris",
+            "fórmula 1",
+            "deportes-argentina",
+            "gp de las vegas",
+            "f1",
+            "max verstappen",
+            "oscar piastri",
+            "franco colapinto"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/21/franco-colapinto-declaro-quien-es-su-favorito-para-ser-campeon-de-la-formula-1-entre-verstappen-norris-y-piastri/",
+        "date": "2025-11-21 21:20:58",
+        "sentiment_score": -0.01790902391076088
+    },
+    {
+        "title": "Los coros catalanes que aparecen en 'Lux' demuestran que Rosalía es mucho más que una estrella del pop",
+        "image_url": "https://static.eldiario.es/clip/f7d563d6-ec3b-4f14-bfd3-ed50c6c99d53_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "periodismo independiente",
+            "ignacio escolar",
+            "economía",
+            "cataluña",
+            "barcelona",
+            "noticias",
+            "actualidad",
+            "política"
+        ],
+        "link": "https://www.eldiario.es/catalunya/coros-catalanes-aparecen-lux-demuestran-rosalia-estrella-pop_1_12780174.html",
+        "date": "2025-11-21 21:12:21",
+        "sentiment_score": -0.03184443712234497
     }
 ];
