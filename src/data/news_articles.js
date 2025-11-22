@@ -3094,5 +3094,241 @@ export default [
         "link": "https://www.eldiario.es/catalunya/coros-catalanes-aparecen-lux-demuestran-rosalia-estrella-pop_1_12780174.html",
         "date": "2025-11-21 21:12:21",
         "sentiment_score": -0.03184443712234497
+    },
+    {
+        "title": "Un Madrid-Barça frente a los okupas: Almeida y Collboni irán al Senado a comparar modelos en unas jornadas monográficas",
+        "image_url": "https://s3.elespanol.com/2025/11/21/espana/politica/1003744025289_260089831_1706x960.jpg",
+        "tags": [
+            "josé luis martínez almeida",
+            "francina armengol",
+            "senado",
+            "política",
+            "vivienda",
+            "okupas",
+            "jaume collboni cuadrado"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251122/madrid-barca-frente-okupas-almeida-collboni-iran-senado-comparar-modelos-jornadas-monograficas/1003744025033_0.html",
+        "date": "2025-11-22 02:10:19",
+        "sentiment_score": -0.7792435809969902
+    },
+    {
+        "title": "Así será el almuerzo con el que Felipe VI celebra hoy 50 años de Monarquía: reencuentro con su padre tras publicar sus polémicas memorias, con los ocho sobrinos y todos los Grecia",
+        "image_url": "https://phantom-elmundo.uecdn.es/c500024e63fa29e7e658a1830f7efa3e/crop/0x259/2479x2738/f/image/jpeg/assets/multimedia/imagenes/2022/03/16/16474501372351.jpg",
+        "tags": [
+            "reina letizia",
+            "reina sofía",
+            "felipe vi",
+            "juan carlos i",
+            "artículos marina pina"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/22/692071bbe85eced6568b459c.html",
+        "date": "2025-11-22 01:56:23",
+        "sentiment_score": 0.6509118285030127
+    },
+    {
+        "title": "Pablo, Jorge y los jóvenes que 'adoran' a Franco a los 50 años de su muerte: \"Los abuelos dicen que con él se vivía mejor\"",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744025281_260089692_1706x1280.jpg",
+        "tags": [
+            "jóvenes",
+            "reportajes",
+            "porfolio",
+            "dictadura",
+            "francisco franco",
+            "falange española",
+            "fascismo"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251122/pablo-jorge-jovenes-adoran-franco-anos-muerte-abuelos-dicen-vivia-mejor/1003744021243_0.html",
+        "date": "2025-11-22 01:35:20",
+        "sentiment_score": -0.03861941397190094
+    },
+    {
+        "title": "George Russell gobierna en los Libres 3 del neumático intermedio en el Gran Premio de Las Vegas de Fórmula 1",
+        "image_url": "https://hips.hearstapps.com/hmg-prod/images/george-russell-of-great-britain-driving-the-mercedes-amg-news-photo-1763775115.pjpeg",
+        "tags": [
+            "content-type: news",
+            "displaytype: standard article",
+            "shorttitle: aparición sorpresa del intermedio en las vegas",
+            "contentid: f882be25-fc59-4a60-9788-f35714bc6ae8",
+            "locale: es",
+            "hasproduct: true"
+        ],
+        "link": "https://www.caranddriver.com/es/formula-1/a69515546/george-russell-gobierna-libres-3-neumatico-intermedio-gp-las-vegas-f1/",
+        "date": "2025-11-22 01:35:00",
+        "sentiment_score": -0.25103119015693665
+    },
+    {
+        "title": "El primer 'cocinero' del Cártel de Jalisco en España: \"Escogimos Barcelona porque sólo vas dos años a la cárcel si te detienen\"",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744025297_260089969_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "porfolio",
+            "cataluña",
+            "cártel jalisco nueva generación (cjng)",
+            "narcotráfico",
+            "policía nacional",
+            "méxico",
+            "mozos de escuadra (mossos d'esquadra)"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251122/primer-cocinero-cartel-jalisco-espana-escogimos-barcelona-solo-vas-anos-carcel-detienen/1003744020213_0.html",
+        "date": "2025-11-22 01:34:16",
+        "sentiment_score": 0.06031031906604767
+    },
+    {
+        "title": "Deportes | Bigas y John sí llegan, Josan no",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1722560.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/bigas-y-john-si-llegan-josan-no",
+        "date": "2025-11-22 01:32:59",
+        "sentiment_score": -0.2239253856241703
+    },
+    {
+        "title": "\"Poco trabajo\", \"trajes a medida\" y \"odio a UPN\": el Milagro del matrimonio entre el \"chulo\" Cerdán y Paqui la \"altiva\"",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744025228_260088831_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "política",
+            "pedro sánchez",
+            "porfolio",
+            "santos cerdán",
+            "navarra",
+            "corrupción"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251122/trabajo-trajes-medida-odio-upn-milagro-matrimonio-chulo-cerdan-paqui-altiva/1003744023366_0.html",
+        "date": "2025-11-22 01:28:36",
+        "sentiment_score": -0.6442671455442905
+    },
+    {
+        "title": "Sonsoles Ónega habla de los '20 iconos de Madrid': \"Es imposible comprar un piso. Está muy difícil vivir aquí\"",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744024881_260083950_1706x960.jpg",
+        "tags": [
+            "sonsoles ónega",
+            "feria del libro",
+            "libros del año",
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251122/sonsoles-onega-habla-iconos-madrid-imposible-comprar-piso-dificil-vivir/1003744022242_0.html",
+        "date": "2025-11-22 01:26:11",
+        "sentiment_score": -0.9433996481820941
+    },
+    {
+        "title": "Argentina otorga título inesperado y polémico de 'Campeón de Liga' a Rosario Central",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/7563528/2147483647/strip/true/crop/7165x3762+0+508/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2F82%2F0a6fb3ef42339d14099e72f423f6%2Ff3c5686d19ea41cba4ecdd4ff1e7b152.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-11-21/argentina-otorga-titulo-inesperado-y-polemico-de-campeon-de-liga-rosario-central",
+        "date": "2025-11-22 01:14:36",
+        "sentiment_score": 0.6392334327101707
+    },
+    {
+        "title": "Javier Tebas juega con fuego en su cruzada contra Barça y Real Madrid: dos expedientes sancionadores y riesgo de inhabilitación",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/12/30/culemania/palco/912668845_13926207_1706x960.png",
+        "tags": [
+            "la liga",
+            "javier tebas",
+            "joan laporta",
+            "fc barcelona",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251122/javier-tebas-barca-real-madrid-sancionadores-inhabilitacion/1003742709750_0.html",
+        "date": "2025-11-22 01:05:44",
+        "sentiment_score": -0.2334643229842186
+    },
+    {
+        "title": "En las garras de la nube",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "nube",
+            "garras"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/garras-nube_0_2005282807.html",
+        "date": "2025-11-22 02:06:25",
+        "sentiment_score": -0.28740954399108887
+    },
+    {
+        "title": "El PP 'okupa' el Senado con una batería de comparecencias de policías, expertos y alcaldes afectados: \"Un hogar se defiende\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/4b0ab66c35091c52a9f988ef54ff6c02/crop/702x111/2640x2048/f/image/jpeg/assets/multimedia/imagenes/2024/12/15/17342882060591.jpg",
+        "tags": [
+            "artículos marcos iriarte"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2025/11/22/692068cee9cf4a687e8b4578.html",
+        "date": "2025-11-22 01:54:51",
+        "sentiment_score": -0.013187192380428314
+    },
+    {
+        "title": "Vuelos internacionales esquivan el FIR Maiquetía tras severa alerta de seguridad de EEUU",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/mar-caribe.jpg",
+        "tags": [
+            "fir maiquetía",
+            "actualidad",
+            "desvío de aviones",
+            "notam de eeuu",
+            "internacionales"
+        ],
+        "link": "https://lapatilla.com/2025/11/21/vuelos-internacionales-esquivan-el-fir-maiquetia-tras-severa-alerta-de-seguridad-de-eeuu/",
+        "date": "2025-11-22 01:36:04",
+        "sentiment_score": -0.1066744476556778
+    },
+    {
+        "title": "Guía del partido Barça - Athletic Club de hoy: horario, dónde verlo y alineaciones",
+        "image_url": "https://static1.ara.cat/clip/a106f85e-ed73-44b3-8cb3-70790218bbf3_16-9-aspect-ratio_default_1049954.jpg",
+        "tags": [
+            "partido",
+            "hoy",
+            "verlo",
+            "barca",
+            "guia",
+            "horario",
+            "club",
+            "alineaciones",
+            "athletic"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/guia-partido-barca-athletic-club-hoy-horario-verlo-alineaciones_1_5569874.html",
+        "date": "2025-11-22 01:05:36",
+        "sentiment_score": 0.47305619716644287
+    },
+    {
+        "title": "Izquierdistas lanzan una campaña contra Frontières para silenciar a quienes alertan de las consecuencias de la inmigración masiva en Francia",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/11/francia-09-1.jpg",
+        "tags": [
+            "soberanía",
+            "censura",
+            "europa",
+            "islamismo"
+        ],
+        "link": "https://gaceta.es/europa/izquierdistas-lanzan-una-campana-contra-frontieres-para-silenciar-a-quienes-alertan-de-las-consecuencias-de-la-inmigracion-masiva-en-francia-20251122-0200/",
+        "date": "2025-11-22 01:00:00",
+        "sentiment_score": -0.07458926737308502
+    },
+    {
+        "title": "Club de Lectura con Juan Gómez Bárcena y su 'Mapa de soledades'",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744024826_260083269_1706x960.jpg",
+        "tags": [
+            "ámbito cultural",
+            "lectura",
+            "letras",
+            "libros",
+            "soledad"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251122/club-lectura-juan-gomez-barcena-mapa-soledades/1003744024780_0.html",
+        "date": "2025-11-22 01:00:00",
+        "sentiment_score": 0.005458153784275055
+    },
+    {
+        "title": "El Barça vuelve al Camp Nou tras un historial de retrasos con promesas falsas, denuncias y ante la urgencia económica",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744024581_260080444_1706x960.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "fc barcelona",
+            "joan laporta i estruch",
+            "estadio camp nou"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251122/barca-vuelve-camp-nou-historial-retrasos-promesas-falsas-denuncias-urgencia-economica/1003744024561_0.html",
+        "date": "2025-11-22 00:54:19",
+        "sentiment_score": -0.8404410481452942
     }
 ];
