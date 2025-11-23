@@ -1,290 +1,5 @@
 export default [
     {
-        "title": "El sorprendente motivo por el que Rosalía no hizo el 'show de la NFL en el Bernabéu: \"Sus exigencias...\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/19/691d644a978fb.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/gente/sorprendente-motivo-por-que-rosalia-no-hizo-show-nfl-bernabeu-pese-que-se-ofrecieron-sus-exigencias_6899689_0.html",
-        "date": "2025-11-19 06:39:18",
-        "sentiment_score": 0.229878768324852
-    },
-    {
-        "title": "Mensaje (leído) del emérito: \"Os pido el mismo apoyo para mi hijo en este difícil cometido\"",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/11/europapress-7089041-rey-emerito-juan-carlos-llegada-puerto-entrega-premios-segunda-jornada-1440x808.jpg",
-        "tags": [
-            "rey felipe vi",
-            "juan carlos i",
-            "españa"
-        ],
-        "link": "https://www.elindependiente.com/espana/2025/11/19/mensaje-emerito-apoyo-para-mi-hijo/",
-        "date": "2025-11-19 06:38:42",
-        "sentiment_score": -0.053955286741256714
-    },
-    {
-        "title": "El espíritu de Michael Jackson revive en Palacio Vistalegre con el espectáculo 'This is Michael'",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/17/691b561c33e66.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.20minutos.es/cultura/espiritu-michael-jackson-revive-palacio-vistalegre-con-espectaculo-this-is-michael_6898654_0.html",
-        "date": "2025-11-19 06:12:03",
-        "sentiment_score": 0.18441971018910408
-    },
-    {
-        "title": "Una visita que refresca la memoria",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "memoria",
-            "refresca",
-            "visita"
-        ],
-        "link": "https://www.noticiasdealava.eus/editorial/2025/11/19/visita-refresca-memoria-10369623.html",
-        "date": "2025-11-19 06:00:41",
-        "sentiment_score": -0.15214034914970398
-    },
-    {
-        "title": "Álava: hub logístico clave y con fuerza",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6234fd8d-7cda-4330-8377-07136686170d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "clave",
-            "mesa logística encuentros dna",
-            "hub",
-            "alava",
-            "fuerza",
-            "logistico"
-        ],
-        "link": "https://www.noticiasdealava.eus/actualidad/encuentros-dna/2025/11/19/alava-hub-logistico-clave-fuerza-mesa-logistica-encuentros-dna-10367985.html",
-        "date": "2025-11-19 06:00:40",
-        "sentiment_score": 0.1278645396232605
-    },
-    {
-        "title": "San Lorenzo de El Escorial, la joya natural e histórica en el corazón de la Sierra de Guadarrama",
-        "image_url": "https://okdiario.com/img/2025/11/15/bc-cam-interior.jpg",
-        "tags": [
-            "san lorenzo de el escorial",
-            "turismo",
-            "no-publi",
-            "madrid",
-            "españa",
-            "comunidad de madrid"
-        ],
-        "link": "https://okdiario.com/espana/san-lorenzo-escorial-joya-natural-historica-corazon-sierra-guadarrama-15710380",
-        "date": "2025-11-19 06:00:35",
-        "sentiment_score": 0.6996663771569729
-    },
-    {
-        "title": "\"La pregunta deja de ser solo quién soy para convertirse en ¿qué hago con mi vida”: Así es la crisis de los 25 años y cómo se puede prevenir",
-        "image_url": "https://static.grupojoly.com/clip/ac1733bd-2170-46d5-819d-e1937063e5fa_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "25",
-            "crisis",
-            "prevención"
-        ],
-        "link": "https://www.diariodesevilla.es/salud/crisis-25-prevencion_0_2005239841.html",
-        "date": "2025-11-19 06:00:17",
-        "sentiment_score": -0.6245056502521038
-    },
-    {
-        "title": "‘El Vaquilla’: 40 años del motín, secuestro y rescate de tres segundos en la cárcel de Ciudad Real",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/Montaje-1.jpg",
-        "tags": [
-            "cárcel",
-            "presos",
-            "fuga",
-            "archivo lanza"
-        ],
-        "link": "https://www.lanzadigital.com/archivo-lanza/el-vaquilla-motin-secuestro-y-rescate-de-tres-segundos-en-la-carcel-de-ciudad-real/",
-        "date": "2025-11-19 06:00:00",
-        "sentiment_score": -0.14548635482788086
-    },
-    {
-        "title": "Jornada 12 de la Euroliga: horarios, resultados y clasificación",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/YBK4JSGFPVIC5JIQMBRPHT5C3Q.jpg?auth=7305616ccc8329d6acea8819cc771e50afeaad26ca785c23aeabb3cf816d9049&width=1200",
-        "tags": [
-            "baskonia",
-            "jugadores baloncesto",
-            "deportes",
-            "bc zalgiris kaunas",
-            "estrella roja baloncesto",
-            "competiciones",
-            "valencia basket club",
-            "efes pilsen",
-            "fc barcelona baloncesto",
-            "euroliga",
-            "bayer",
-            "xavi pascual",
-            "real madrid baloncesto",
-            "baloncesto"
-        ],
-        "link": "https://elpais.com/deportes/baloncesto/2025-11-19/jornada-12-de-la-euroliga-horarios-resultados-y-clasificacion.html",
-        "date": "2025-11-19 06:00:00",
-        "sentiment_score": 0.07600243389606476
-    },
-    {
-        "title": "Théo Zidane cumple 50 partidos con el Córdoba CF antes de volver a Granada",
-        "image_url": "https://static.grupojoly.com/clip/8329bd7d-a7bd-4db7-bdbf-aa490e08048d_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "córdoba club de fútbol",
-            "últimas noticias",
-            "últimas noticias córdoba"
-        ],
-        "link": "https://www.eldiadecordoba.es/cordobacf/theo-zidane-cumple-50-partidos-cordoba-cf-volver-granada_0_2005257774.html",
-        "date": "2025-11-19 05:59:15",
-        "sentiment_score": 0.09208650887012482
-    },
-    {
-        "title": "Este es el precio de la gasolina en Madrid, Barcelona y otras ciudades este 19 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "gasolina",
-            "españa-economia",
-            "precio gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/19/este-es-el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-este-19-de-noviembre/",
-        "date": "2025-11-19 06:30:55",
-        "sentiment_score": -0.19362077489495277
-    },
-    {
-        "title": "OLA DE FRÍO POLAR Última hora de la bajada de temperaturas y las nevadas en Catalunya y el resto de España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6823ffdd-db39-488d-9bf2-08b129e47952_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "aemet - agencia estatal de meteorología",
-            "frío",
-            "temperaturas",
-            "previsión meteorológica",
-            "aemet",
-            "nieve",
-            "servei meteorològic de catalunya (meteocat)"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251119/ola-frio-polar-cataluna-espana-nevadas-temperatura-ultima-hora-123881202",
-        "date": "2025-11-19 06:23:58",
-        "sentiment_score": 0.062459081411361694
-    },
-    {
-        "title": "Lo que debes saber hoy, 19 de noviembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/06/25/vivir-en-barcelona/500459954_10121913_1706x960.jpg",
-        "tags": [
-            "autobús",
-            "movilidad",
-            "transports metropolitans barcelona tmb",
-            "el tiempo",
-            "clima",
-            "renfe barcelona",
-            "metro barcelona",
-            "tráfico",
-            "aemet (agencia estatal de meteorología)",
-            "transporte"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251119/debes-saber-hoy-noviembre-barcelona/1003742708607_0.html",
-        "date": "2025-11-19 06:22:00",
-        "sentiment_score": 0.6336900070309639
-    },
-    {
-        "title": "Tos y fatiga, síntomas achacables al tabaco o el inicio silencioso de la epoc",
-        "image_url": "https://efesalud.com/wp-content/uploads/2025/11/epoc-sintomas-tos-tabaco-fumadora.webp",
-        "tags": [
-            "noticias principales",
-            "contaminación",
-            "tabaco",
-            "enfermedades respiratorias",
-            "enfermedades"
-        ],
-        "link": "https://efesalud.com/epoc-sintomas-tabaco-tos-fatiga-inicio-enfermedad/",
-        "date": "2025-11-19 06:19:00",
-        "sentiment_score": -0.8567898478358984
-    },
-    {
-        "title": "\"Perdida en una cabaña frente al océano Atlántico tuve una revelación\"",
-        "image_url": "https://static1.ara.cat/clip/2973acc7-b270-490e-90a6-c14846b94750_16-9-aspect-ratio_default_0_x2269y614.jpg",
-        "tags": [
-            "perdida",
-            "revelacion",
-            "oceano",
-            "frente",
-            "tuve",
-            "atlantico",
-            "cabana"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/perdida-cabana-frente-oceano-atlantico-tuve-revelacion_1_5566248.html",
-        "date": "2025-11-19 06:15:35",
-        "sentiment_score": -0.0860118418931961
-    },
-    {
-        "title": "Simón se queda sin un nuevo récord con España",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e46b590c-c94b-4ed0-b07c-fd2709ffd0b4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "nuevo",
-            "españa",
-            "simon",
-            "espana",
-            "record",
-            "turquia",
-            "queda"
-        ],
-        "link": "https://www.deia.eus/futbol/2025/11/19/espana-turquia-simon-queda-nuevo-record-espana-10369927.html",
-        "date": "2025-11-19 06:09:14",
-        "sentiment_score": 0.07948021590709686
-    },
-    {
-        "title": "Doble incógnita en el Camp Nou",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/89d7c2db-fa1b-40fd-af95-08cbe02b323b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "williams",
-            "doble",
-            "camp",
-            "lamine yamal",
-            "incognita",
-            "nou",
-            "nico"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/11/19/nico-williams-lamine-yamal-doble-incognita-camp-nou-10369919.html",
-        "date": "2025-11-19 06:04:50",
-        "sentiment_score": 0.01670047640800476
-    },
-    {
-        "title": "Veolia refuerza su compromiso con el saneamiento del agua para contribuir a la seguridad ecológica y a la resiliencia de las comunidades",
-        "image_url": "https://okdiario.com/img/2025/11/12/tratamiento-avanzado-para-la-regeneracion-de-las-aguas-residuales_cropped.jpg",
-        "tags": [
-            "green - sostenibilidad",
-            "okgreen",
-            "no-publi",
-            "agua",
-            "medio ambiente",
-            "naturaleza"
-        ],
-        "link": "https://okdiario.com/okgreen/veolia-refuerza-compromiso-saneamiento-del-agua-contribuir-seguridad-ecologica-resiliencia-comunidades-15749155",
-        "date": "2025-11-19 06:00:54",
-        "sentiment_score": -0.8245344497263432
-    },
-    {
-        "title": "El HLA Alicante y el Horneo Eón, felices con la modernización de sus pabellones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc426b9a-4d3d-4b11-b714-d5e980be225b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hla alicante",
-            "lucentum",
-            "historia",
-            "imagen",
-            "balonmano",
-            "pedro ferrándiz",
-            "deportes"
-        ],
-        "link": "https://www.informacion.es/deportes/2025/11/19/hla-alicante-horneo-eon-felices-123874999.html",
-        "date": "2025-11-19 06:00:44",
-        "sentiment_score": -0.048805058002471924
-    },
-    {
-        "title": "La final de Copa, en el punto de mira: la Policía Nacional analiza si es viable su coincidencia con la Feria de Sevilla",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4235b949-e6d5-4cb1-83c4-183d9bc4e015_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "final copa,final de copa,estadio de la cartuja,subdelegación del gobierno,ayuntamiento de sevilla"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2025/11/19/policia-final-copa-rey-feria-sevilla-123865122.html",
-        "date": "2025-11-19 06:00:44",
-        "sentiment_score": 0.09082984924316406
-    },
-    {
         "title": "Amazon renombrará el estadio de la S.D. Huesca",
         "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/07/30/2025073012264719088.jpg",
         "tags": [
@@ -3088,5 +2803,277 @@ export default [
         "link": "https://www.readingeagle.com/2025/11/22/barcelona-juega-su-primer-partido-en-el-camp-nou-en-ms-de-dos-aos-mientras-continan-las-obras/",
         "date": "2025-11-22 17:04:16",
         "sentiment_score": 0.4590875878930092
+    },
+    {
+        "title": "Muere a los 91 años Ornella Vanoni, diva de la música popular italiana",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/dc/media_thumb-link-4119806.webp?1763811666=",
+        "tags": [
+            "cultura",
+            "música",
+            "cantantes",
+            "italia",
+            "ornella vanoni"
+        ],
+        "link": "https://www.meneame.net/story/muere-91-anos-ornella-vanoni-diva-musica-popular-italiana",
+        "date": "2025-11-22 21:35:03",
+        "sentiment_score": -0.8838041368871927
+    },
+    {
+        "title": "Bailando contra Ayuso y el Supremo con todas las fuerzas",
+        "image_url": "https://phantom-elmundo.uecdn.es/8c9bca76c468047fe133362f36ceb6bb/f/image/jpeg/assets/multimedia/imagenes/2023/02/04/16754702779051.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos lucía méndez"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/22/69220a5321efa042318b4574.html",
+        "date": "2025-11-22 21:59:13",
+        "sentiment_score": -0.8029528707265854
+    },
+    {
+        "title": "Los partidos suben el tono tras la condena al fiscal general mientras Sánchez guarda silencio",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/09/691087dd263e2.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/partidos-suben-tono-tras-condena-fiscal-general-mientras-pedro-sanchez-guarda-silencio_6901452_0.html",
+        "date": "2025-11-22 21:54:07",
+        "sentiment_score": 0.11543437838554382
+    },
+    {
+        "title": "Y a las 20.19 horas, la Navidad iluminó Madrid: del \"estoy más tenso que en los campeonatos\" de Carlos Sainz al \"le contaré a mis nietos que estuve aquí\" de Pablo López",
+        "image_url": "https://phantom-elmundo.uecdn.es/3a13088bf30b7d06f3f776b0ae535fe9/crop/0x224/1536x1760/f/image/jpeg/assets/multimedia/imagenes/2022/05/02/16515202938144.jpg",
+        "tags": [
+            "navidad",
+            "artículos ruth díaz",
+            "madrid",
+            "josé luis martínez-almeida",
+            "árboles de navidad"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/11/22/69222e5ae4d4d8503e8b4587.html",
+        "date": "2025-11-22 21:45:03",
+        "sentiment_score": -0.7066040560603142
+    },
+    {
+        "title": "FC Barcelona: regreso al Camp Nou y homenaje a Lionel Messi",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1763848277467/5YGEDHIAEKEOWFVQV34NRRBZGM.jpg?ch=675&cw=1200",
+        "tags": [
+            "lionel messi",
+            "barcelona",
+            "camp nou",
+            "fc barcelona",
+            "laliga",
+            "lamine yamal",
+            "estadio spotify camp nou"
+        ],
+        "link": "https://2001online.com/deportes/fc-barcelona-regreso-al-camp-nou-y-homenaje-a-lionel-messi-2025112218150",
+        "date": "2025-11-22 21:36:04",
+        "sentiment_score": 0.6486563645303249
+    },
+    {
+        "title": "La historia oculta del superyate de lujo detenido en Barcelona propiedad del gran oligarca de la industria militar de Rusia",
+        "image_url": "https://static.eldiario.es/clip/04a0501a-3df5-4136-b732-0a239ce552bc_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gran",
+            "historia",
+            "oculta",
+            "barcelona",
+            "superyate",
+            "militar",
+            "detenido",
+            "lujo",
+            "industria",
+            "propiedad",
+            "rusia",
+            "oligarca"
+        ],
+        "link": "https://www.eldiario.es/internacional/historia-oculta-superyate-lujo-detenido-barcelona-propiedad-gran-oligarca-industria-militar-rusia_1_12759446.html",
+        "date": "2025-11-22 21:27:29",
+        "sentiment_score": -0.11975252628326416
+    },
+    {
+        "title": "Madrid da la bienvenida a la Navidad con un espectacular encendido de luces y conciertos de música",
+        "image_url": "https://okdiario.com/img/2025/11/22/plaza-de-cibeles-el-dia-del-encendido-de-las-luces-de-navidad-este-sabado-22-de-noviembre.-foto_-europa-press.jpg",
+        "tags": [
+            "plaza de cibeles",
+            "sociedad",
+            "luces de navidad",
+            "navidad"
+        ],
+        "link": "https://okdiario.com/sociedad/madrid-da-bienvenida-navidad-espectacular-encendido-luces-conciertos-musica-15811754",
+        "date": "2025-11-22 21:16:45",
+        "sentiment_score": 0.7729760557413101
+    },
+    {
+        "title": "Madrid enciende la Navidad con 13 millones de luces y un villancico de Bisbal: “Esta ciudad tiene los brazos abiertos”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/KJVA3M5JF5DKJBDMV7N6MSKDBI.jpg?auth=d4849a41c9da7aeae75d09ab210dc8b5dc1f0813db98e14eda1b6074785014b6&width=1200",
+        "tags": [
+            "villancicos",
+            "navidad",
+            "fiestas",
+            "david bisbal",
+            "carlos sainz",
+            "madrid",
+            "josé luis martínez almeida",
+            "comunidad de madrid",
+            "ayuntamiento madrid",
+            "alumbrado"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-11-22/madrid-enciende-la-navidad-con-13-millones-de-luces-y-un-villancico-de-bisbal-esta-ciudad-tiene-los-brazos-abiertos.html",
+        "date": "2025-11-22 20:45:46",
+        "sentiment_score": 0.32225004583597183
+    },
+    {
+        "title": "Así ha sido el encendido de las luces de Navidad en Madrid ante 150.000 personas",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/11/22/abeto-de-gran-via-y-alcala.r_d.1379-412-5156.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2025/11/22/madrid-encendido-luces-navidad-1872716.html",
+        "date": "2025-11-22 20:44:57",
+        "sentiment_score": 0.11906586214900017
+    },
+    {
+        "title": "Madrid ilumina la Navidad con un encendido multitudinario a cargo de Almeida y Carlos Sainz",
+        "image_url": "http://st1.lacerca.com/imagenes/view/fa2c68ddc7b031f083b2ec27a6d61cb0.jpg",
+        "tags": [
+            "noticias",
+            "madrid"
+        ],
+        "link": "https://www.lacerca.com/noticias/madrid/madrid-ilumina-navidad-encendido-multitudinario-almeida-carlos-sainz-791661-1.html",
+        "date": "2025-11-22 20:40:00",
+        "sentiment_score": 0.0187261700630188
+    },
+    {
+        "title": "La ovación de los hinchas del Barcelona a Lionel Messi en el primer partido en el Camp Nou tras las obras",
+        "image_url": "https://www.infobae.com/resizer/v2/REOWISMMTBAGPJNKAORMMZOXEI.png?auth=26a7aa8bd4d47b5892d2718e9eade5c7cabf0aacf9155bf68c1a2d702e88e50c&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "camp nou",
+            "la liga de españa",
+            "deportes-argentina",
+            "lionel messi"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/22/la-ovacion-de-los-hinchas-del-barcelona-a-lionel-messi-en-el-primer-partido-en-el-camp-nou-tras-las-obras/",
+        "date": "2025-11-22 20:35:41",
+        "sentiment_score": -0.16380149871110916
+    },
+    {
+        "title": "Juicio al clan Pujol: cómo lavaron su fortuna oculta, paso a paso",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/11/22/1200-blackfriday-kSc--562x562@RC.jpg",
+        "tags": [
+            "andorra (país)",
+            "audiencia nacional",
+            "generalitat de cataluña",
+            "cdc convergencia democratica de cataluña",
+            "jordi pujol",
+            "historias visuales",
+            "corrupción"
+        ],
+        "link": "https://www.canarias7.es/nacional/politica/juicio-clan-pujol-lavaron-fortuna-oculta-paso-20251123000825-ntrc.html",
+        "date": "2025-11-22 22:08:27",
+        "sentiment_score": -0.8882819982245564
+    },
+    {
+        "title": "¿Cuáles son las 10 ciudades que encabezan la escena «veggie» en España?",
+        "image_url": "https://www.elboletin.com/wp-content/uploads/2025/11/ciudades-veggie-espana.jpg",
+        "tags": [
+            "ciudades",
+            "turismo",
+            "cultura",
+            "hoy en la red",
+            "alimentos",
+            "restaurantes",
+            "eventos",
+            "vegetarianismo",
+            "gastronomía",
+            "ecología",
+            "veganismo"
+        ],
+        "link": "https://www.elboletin.com/cuales-son-las-10-ciudades-que-encabezan-la-escena-veggie-en-espana/",
+        "date": "2025-11-22 22:06:02",
+        "sentiment_score": -0.4471605345606804
+    },
+    {
+        "title": "Tarjeta roja: Nico Williams",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/tarjetas-jornada/1003742709940_15436121_1706x960.jpg",
+        "tags": [
+            "nico williams",
+            "el mvp y las tarjetas de la jornada",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/tarjetas-jornada/20251122/tarjeta-roja-nico-williams/1003742709928_0.html",
+        "date": "2025-11-22 22:05:49",
+        "sentiment_score": -0.8853026553988457
+    },
+    {
+        "title": "Álvaro Morte sorprende con unas palabras en catalán en TV3: \"Viví dos años en Barcelona y uno en Mataró\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/22/692230080e881.r_d.1360-467-3034.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20251122/1002574133/alvaro-morte-actor-vivi-dos-anos-barcelona-mataro-me-gustaria-entrevista-catalan-mi-nivel-esta-altura-dct.html",
+        "date": "2025-11-22 21:57:12",
+        "sentiment_score": 0.1165178194642067
+    },
+    {
+        "title": "Una de cada cinco personas que emprende en España es mujer, un 13% menos que hace un año: \"No quiero ponerle límites a mi trabajo\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
+        "tags": [
+            "economía",
+            "artículos daniela saltos",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/11/22/691b3725e4d4d86a2d8b459f.html",
+        "date": "2025-11-22 21:54:54",
+        "sentiment_score": -0.4755507633090019
+    },
+    {
+        "title": "Salman Rushdie: “Vivimos tiempos oscuros pero nada es inevitable. Habrá un futuro mejor”",
+        "image_url": "https://www.infobae.com/resizer/v2/S26YLCMRVBF4FDXOOZURZUCBVA.jpg?auth=f98bdbdc71b21aaa6b9eacece90404e55f5117bf979f6a97b9d02790705ffd4f&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona",
+            "salman rushdie",
+            "\"the eleventh hour\"",
+            "literatura"
+        ],
+        "link": "https://www.infobae.com/cultura/2025/11/22/salman-rushdie-vivimos-tiempos-oscuros-pero-nada-es-inevitable-habra-un-futuro-mejor-futuro/",
+        "date": "2025-11-22 21:52:12",
+        "sentiment_score": 0.6109997779130936
+    },
+    {
+        "title": "La Lotería Nacional deja miles de euros este sábado en Berja con un segundo premio",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2024/11/11/6732035a5bdb8.jpeg",
+        "tags": [
+            "provincia"
+        ],
+        "link": "https://www.lavozdealmeria.com/provincia/394093/loteria-nacional-deja-miles-euros-sabado-berja-segundo-premio.html",
+        "date": "2025-11-22 21:37:37",
+        "sentiment_score": 0.0337006151676178
+    },
+    {
+        "title": "Almeida comenta lo que nunca ha pasado con el encendido de la Navidad y el reportero sentencia: \"En Vigo un poco...\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/22/692223876518c8-57425047.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.20minutos.es/madrid/almeida-telemadrid-nunca-pasado-encendido-luces-navidad-vigo_6901450_0.html",
+        "date": "2025-11-22 21:33:29",
+        "sentiment_score": 0.17727184295654297
+    },
+    {
+        "title": "Torres de oficinas que no se necesitan: el ecoblanqueo de un megaproyecto urbano",
+        "image_url": "https://static.eldiario.es/clip/e49b0917-a784-49df-8236-4284d4b14a1e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "megaproyecto",
+            "torres",
+            "urbano",
+            "no",
+            "necesitan",
+            "oficinas",
+            "ecoblanqueo"
+        ],
+        "link": "https://www.eldiario.es/ballenablanca/economia/torres-oficinas-no-necesitan-ecoblanqueo-megaproyecto-urbano_1_12632318.html",
+        "date": "2025-11-22 21:27:31",
+        "sentiment_score": -0.026060283184051514
     }
 ];
