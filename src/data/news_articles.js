@@ -3075,5 +3075,239 @@ export default [
         "link": "https://www.eldiario.es/ballenablanca/economia/torres-oficinas-no-necesitan-ecoblanqueo-megaproyecto-urbano_1_12632318.html",
         "date": "2025-11-22 21:27:31",
         "sentiment_score": -0.026060283184051514
+    },
+    {
+        "title": "Homenaje coral al talento que proyecta la marca Andalucía",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/11/21/89BFE7FB-39FB-4F43-AE66-99A1A76088CB/homenaje-coral-talento-que-proyecta-marca-andalucia_69.jpg?crop=1435%2C807%2Cx2%2Cy0&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "andalucía"
+        ],
+        "link": "https://www.larazon.es/andalucia/homenaje-coral-talento-que-proyecta-marca-andalucia_2025112369209602df41134465e3f39a.html",
+        "date": "2025-11-23 01:39:03",
+        "sentiment_score": 0.3034314513206482
+    },
+    {
+        "title": "La UCO se defiende contra la operación política y mediática en el caso del fiscal: \"Se investigó a todo el mundo y el descarte, evidente, lo hizo el juez\".",
+        "image_url": "https://phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
+        "tags": [
+            "uco",
+            "álvaro garcía ortiz",
+            "artículos quico alsedo"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/23/69220e72fdddff94698b4591.html",
+        "date": "2025-11-23 01:11:39",
+        "sentiment_score": -0.8821676857769489
+    },
+    {
+        "title": "Xabi Alonso mueve las piezas: Fede Valverde cambia de rol y Alexander-Arnold vuelve al lateral",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/21/2025042118472113269.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/xabi-alonso-recupera-trent-alexander-arnold-buscar-tres-puntos-martinez-valero/20251123015243364186.html",
+        "date": "2025-11-23 00:52:43",
+        "sentiment_score": 0.07708583027124405
+    },
+    {
+        "title": "22 NOV 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-nov-2025-tramo-final-juego-20251123_3257574.html",
+        "date": "2025-11-23 00:15:00",
+        "sentiment_score": 0.006727263331413269
+    },
+    {
+        "title": "Héctor Izquierdo: “La gestión del volcán de La Palma ha sido mucho mejor que la de Lorca, el Prestige y otras catástrofes”",
+        "image_url": "https://cdn.diariodeavisos.com/wp-content/uploads/2025/11/hector-izquierdo-1024x683.jpg",
+        "tags": [
+            "islas",
+            "portada",
+            "la palma",
+            "portada apertura 4",
+            "portada la palma"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/11/hector-izquierdo-volcan-la-palma/",
+        "date": "2025-11-23 00:10:16",
+        "sentiment_score": -0.790804460644722
+    },
+    {
+        "title": "El mensaje de David Soria a los que critican el estilo de juego del Getafe: \"Preferimos que se quejen, porque eso significa que hemos ganado\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/mensaje-david-soria-critican-estilo-juego-getafe-preferimos-quejen-significa-hemos-ganado-20251123_3257570.html",
+        "date": "2025-11-22 23:32:14",
+        "sentiment_score": 0.030928730964660645
+    },
+    {
+        "title": "Desde antes de verano no hay contactos entre Vinicius y el Real Madrid",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/31/69050fcae3f0a.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/hay-contactos-vinicius-real-madrid-hablar-renovacion-brasileno-verano-20251123_3257568.html",
+        "date": "2025-11-22 23:17:45",
+        "sentiment_score": -0.07222786545753479
+    },
+    {
+        "title": "«Me partía con la ironía de Carrillo y Rufián era muy chabacano, pero se ha ido puliendo»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/23/1-1503121630-kPZE-U240310285100OjC-1200x840@RC.jpg",
+        "tags": [
+            "partia",
+            "risa",
+            "rufian",
+            "ido",
+            "puliendo",
+            "carrillo",
+            "era",
+            "chabacano"
+        ],
+        "link": "https://www.ideal.es/nacional/partia-ironia-carrillo-rufian-era-chabacano-ido-20251123173404-ntrc.html",
+        "date": "2025-11-22 23:14:28",
+        "sentiment_score": 0.08496110141277313
+    },
+    {
+        "title": "Javier Olivares: «Está llegando un momento en el que es muy difícil trabajar»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/21/olivares--758x531.jpg",
+        "tags": [
+            "televisión española (tve)"
+        ],
+        "link": "https://www.elnortedecastilla.es/pantallas/series/javier-olivares-llegando-momento-dificil-trabajar-20251121001016-ntrc.html",
+        "date": "2025-11-22 23:10:17",
+        "sentiment_score": 0.17004527896642685
+    },
+    {
+        "title": "Guerra, el agente del G2 cubano tras la tercera red de espionaje en España: \"Vigilan a disidentes y se infiltran entre empresarios\"",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744024984_260085582_1706x960.jpg",
+        "tags": [
+            "cuba",
+            "porfolio",
+            "reportajes",
+            "espionaje",
+            "servicios de inteligencia",
+            "cni",
+            "madrid",
+            "españa",
+            "la habana"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251123/guerra-agente-g2-cubano-tercera-red-espionaje-espana-vigilan-disidentes-infiltran-empresarios/1003744018691_0.html",
+        "date": "2025-11-23 01:48:11",
+        "sentiment_score": -0.8559968285262585
+    },
+    {
+        "title": "Natàlia Majó, investigadora de la gripe aviar: \"Estamos ante el virus más dañino conocido, es un peligro para las especies\"",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744025061_260086660_1706x960.jpg",
+        "tags": [
+            "medio ambiente",
+            "ciencia",
+            "gripe aviar"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20251123/natalia-majo-investigadora-gripe-aviar-virus-danino-conocido-peligro-especies/1003744025048_0.html",
+        "date": "2025-11-23 01:28:28",
+        "sentiment_score": -0.7848625183105469
+    },
+    {
+        "title": "La última batalla por Vía Laietana: ofensiva de los sindicatos policiales contra el Gobierno por el memorial y la amenaza creciente de cierre",
+        "image_url": "https://phantom-elmundo.uecdn.es/c8960417ed23b19cba2bd8b74e5ced05/crop/2x0/998x997/f/image/jpeg/assets/multimedia/imagenes/2023/12/28/17037819584998.jpg",
+        "tags": [
+            "artículos cristina rubio"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/11/23/6921dc00e85ece49458b45b8.html",
+        "date": "2025-11-23 01:11:40",
+        "sentiment_score": -0.810187216848135
+    },
+    {
+        "title": "Cerdán aceleró cinco pelotazos en el primer año de Sánchez y redobló las presiones en campaña electoral: \"Está obsesionado\"",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/11/22/17638423690362.jpg",
+        "tags": [
+            "uco",
+            "psoe",
+            "santos cerdán"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/23/69221a07e9cf4a770c8b4596.html",
+        "date": "2025-11-23 01:10:17",
+        "sentiment_score": -0.6554890498518944
+    },
+    {
+        "title": "Vuelve el maestro José Luis Gómez con '¡Viva la Escuela Moderna!'",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744025284_260089744_1706x960.jpg",
+        "tags": [
+            "stanislavblog",
+            "estrenos de teatro",
+            "teatro"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/blogs/stanislavblog/20251123/vuelve-maestro-jose-luis-gomez-viva-escuela-moderna/1003744025183_12.html",
+        "date": "2025-11-23 00:54:33",
+        "sentiment_score": -0.7893230281770229
+    },
+    {
+        "title": "Óscar Tusquets, arquitecto: \"Los tanatorios me parecen horribles, hay que saber morir con dignidad\"",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744024911_260084493_1706x960.jpg",
+        "tags": [
+            "documentales",
+            "arquitectura",
+            "cine"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/arquitectura/20251123/oscar-tusquets-arquitecto-tanatorios-parecen-horribles-saber-morir-dignidad/1003744024738_0.html",
+        "date": "2025-11-23 00:53:53",
+        "sentiment_score": 0.6636016741394997
+    },
+    {
+        "title": "La empresa multilatina familiar: cuando el corto plazo son 25 años",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744024339_260077279_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "columnas de opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20251123/empresa-multilatina-familiar-corto-plazo-anos/1003744024268_13.html",
+        "date": "2025-11-23 00:46:04",
+        "sentiment_score": 0.013014569878578186
+    },
+    {
+        "title": "Eduardo Domínguez Alfonso: la eminencia médica del sur de Tenerife que se convirtió en el primer presidente del Cabildo",
+        "image_url": "https://cdn.diariodeavisos.com/wp-content/uploads/2025/11/eduardo-dominguez-alfonso-1-1024x683.jpg",
+        "tags": [
+            "portada",
+            "sur",
+            "portada local",
+            "arona",
+            "portada apertura 3",
+            "tenerife"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/11/eduardo-dominguez-alfonso/",
+        "date": "2025-11-23 00:15:15",
+        "sentiment_score": -0.9000232499092817
+    },
+    {
+        "title": "Las obras pendientes de Limak para acabar la reforma del Camp Nou en su totalidad",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/23/culemania/palco/1003742709946_15436246_1706x960.jpg",
+        "tags": [
+            "camp nou",
+            "joan laporta",
+            "laliga",
+            "espai barça",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251123/pendientes-limak-acabar-reforma-camp-nou-totalidad/1003742709851_0.html",
+        "date": "2025-11-22 23:52:35",
+        "sentiment_score": 0.2575476039201021
+    },
+    {
+        "title": "Arroyo, donde la educación lo abarca todo",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/soydearroyo/multimedia/2025/11/22/arroyoeducaAyto-kBP-U240321503058bpE-758x531@El%20Norte.jpg",
+        "tags": [
+            "sarbelio fernández",
+            "danza",
+            "educación",
+            "música",
+            "día de la paz"
+        ],
+        "link": "https://soydearroyo.elnortedecastilla.es/arroyo-educacion-abarca-20251123002430-nt.html",
+        "date": "2025-11-22 23:24:31",
+        "sentiment_score": 0.8069015704095364
     }
 ];
