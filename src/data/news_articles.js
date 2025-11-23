@@ -1,217 +1,5 @@
 export default [
     {
-        "title": "Amazon renombrará el estadio de la S.D. Huesca",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/07/30/2025073012264719088.jpg",
-        "tags": [
-            "s.d.huesca"
-        ],
-        "link": "https://www.aragondigital.es/articulo/sd-huesca/amazon-renombra-estadio-s-d-huesca/20251119181046953409.html",
-        "date": "2025-11-19 17:10:46",
-        "sentiment_score": 0.11653830669820309
-    },
-    {
-        "title": "Bank of America firma a David Beckham como embajador deportivo con miras al Mundial de 2026",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/11/fotonoticia_20251119174345_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/831115/bank-of-america-firma-a-david-beckham-como-embajador-deportivo-con-miras-al-mundial-de-2026/",
-        "date": "2025-11-19 17:10:08",
-        "sentiment_score": 0.16615724563598633
-    },
-    {
-        "title": "TCL muestra la climatización manos libres y 100% sostenible en C&R 2025",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7734799",
-        "tags": [
-            "top"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5674797/tcl-muestra-climatizacion-manos-libres-100-sostenible-c-r-2025",
-        "date": "2025-11-19 17:09:59",
-        "sentiment_score": 0.7259640134871006
-    },
-    {
-        "title": "La OMS alerta de que el uso de la IA en la salud avanza en Europa sin protección legal para pacientes y profesionales",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251119180937_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "asistencia"
-        ],
-        "link": "https://www.infosalus.com/asistencia/noticia-oms-alerta-uso-ia-salud-avanza-europa-proteccion-legal-pacientes-profesionales-20251119180937.html",
-        "date": "2025-11-19 17:09:37",
-        "sentiment_score": 0.29322826862335205
-    },
-    {
-        "title": "Mbappé desata un polémico debate en Francia tras su viaje a Dubái",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/25/2025022511505815255.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/mbappe-desata-debate-francia-viaje-dubai/20251119180756363742.html",
-        "date": "2025-11-19 17:07:56",
-        "sentiment_score": -0.8488659225404263
-    },
-    {
-        "title": "Bank of America ficha a David Beckham como embajador deportivo con miras al Mundial de 2026",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/24b48dee08752210afcbdcef9ba66154/crop/314x113/1952x1205/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/19/17635719198003.jpg",
-        "tags": [
-            "empresas>",
-            "deportes>",
-            "banca>"
-        ],
-        "link": "https://www.expansion.com/empresas/banca/2025/11/19/691df754e5fdea52698b4577.html",
-        "date": "2025-11-19 17:07:40",
-        "sentiment_score": 0.35396813601255417
-    },
-    {
-        "title": "17:00H | 19 NOV 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-19-nov-2025-tarde-20251119_3255536.html",
-        "date": "2025-11-19 17:07:00",
-        "sentiment_score": -0.4064583480358124
-    },
-    {
-        "title": "Todo sobre la nueva baliza V-16: fecha obligatoria, precio y qué pasa con los triángulos",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2025/11/12/A55A5A52-65DD-4507-9CCC-3FC57C040C46/balizas-16_96.jpg?crop=1006%2C566%2Cx198%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "sociedad",
-            "noticias",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/todo-nueva-baliza-v16-fecha-obligatoria-precio-que-pasa-triangulos_20251119691df8fdeba8bc0ece098754.html",
-        "date": "2025-11-19 17:06:05",
-        "sentiment_score": -0.8288356941193342
-    },
-    {
-        "title": "Santiago (26), empresario que gestiona 24 pisos turísticos: \"Facturamos 180.000€ con un 20% de beneficio por vivienda\"",
-        "image_url": "https://s3.elespanol.com/2025/11/15/actualidad/1003744015519_259961386_1706x960.jpg",
-        "tags": [
-            "soft",
-            "empresarios",
-            "alquiler de viviendas",
-            "vivienda",
-            "sociedad"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251119/santiago-empresario-gestiona-pisos-turisticos-facturamos-beneficio-vivienda/1003744011172_0.html",
-        "date": "2025-11-19 17:05:43",
-        "sentiment_score": -0.41982705891132355
-    },
-    {
-        "title": "Igualdad advierte de que llevará a los tribunales a quienes difundan el \"bulo\" de que las pulseras antimaltrato son \"de AliExpress\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/49f7be05-00cc-4518-a4e4-2f18c2e592e8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "violencia de género",
-            "ministerio de igualdad",
-            "igualdad",
-            "machismo"
-        ],
-        "link": "https://www.laopiniondemalaga.es/sociedad/2025/11/19/igualdad-pulseras-auditoria-fallos-violencia-genero-123906231.html",
-        "date": "2025-11-19 17:03:02",
-        "sentiment_score": -0.7325238864868879
-    },
-    {
-        "title": "Un vuelo de Vueling entre Maó y Barcelona es desviado al aeropuerto de Palma",
-        "image_url": "https://men.gsstatic.es/autor/miguel-juan-urbano/53.png",
-        "tags": [
-            "local"
-        ],
-        "link": "https://www.menorca.info/menorca/local/2025/11/19/2515359/vuelo-vueling-entre-mao-barcelona-desviado-aeropuerto-palma.html",
-        "date": "2025-11-19 17:12:00",
-        "sentiment_score": -0.032767154276371
-    },
-    {
-        "title": "ASB Audiovisuals amplía su catálogo de alquiler micrófono inalámbrico con tecnología digital Sennheiser EW-D 945-S",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7734797",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5674796/asb-audiovisuals-amplia-catalogo-alquiler-microfono-inalambrico-tecnologia-digital-sennheiser-ew-d-945-s",
-        "date": "2025-11-19 17:11:06",
-        "sentiment_score": 0.2023816555738449
-    },
-    {
-        "title": "El Senado aprueba la propuesta del PP para despenalizar el corte de suministros a los 'okupas'",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/7496a8ffaa43568dc8a766cd2e8633b8/crop/10x6/2012x1341/resize/1200/f/webp/assets/multimedia/imagenes/2022/11/04/16675944159526.jpg",
-        "tags": [
-            "artículos diego s. adelantado>",
-            "economía>"
-        ],
-        "link": "https://www.expansion.com/economia/2025/11/19/691dfa10e5fdea87688b45a9.html",
-        "date": "2025-11-19 17:10:44",
-        "sentiment_score": 0.4354661852121353
-    },
-    {
-        "title": "La Generalitat presenta su estrategia de IA a la AI Office de la UE",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251119181029_260.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-generalitat-presenta-estrategia-ia-ai-office-ue-20251119181029.html",
-        "date": "2025-11-19 17:10:29",
-        "sentiment_score": 0.12703705951571465
-    },
-    {
-        "title": "Los comunes enfrían los presupuestos de Collboni a dos días de su votación",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/11/19/23D27354-BA77-479B-A523-289DF72D6751/portavoz-grupo-municipal-bcomu-janet-sanz-intervencion-pleno-ayuntamiento-barcelona_69.jpg?crop=4825%2C2714%2Cx0%2Cy314&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/comunes-enfrian-presupuestos-collboni-dos-dias-votacion_20251119691df9e5eba8bc0ece09885f.html",
-        "date": "2025-11-19 17:09:57",
-        "sentiment_score": -0.15983808785676956
-    },
-    {
-        "title": "La Generalitat reduce el tiempo de tramitación de las renovables a la mitad",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/19/691df3e55a77d.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20251119/11281921/generalitat-reducira-tramitacion-renovables-mitad.html",
-        "date": "2025-11-19 17:03:25",
-        "sentiment_score": 0.08848078548908234
-    },
-    {
-        "title": "Bernabé denuncia que Educación ha ejecutado cero euros desde que presupuestó el nuevo IES Campanar hace dos años",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9da2de7f-519e-4652-bf08-fcda74fbc8f8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "valencia",
-            "obras",
-            "comunitat valenciana",
-            "accesibilidad",
-            "ampa",
-            "agua",
-            "legionela"
-        ],
-        "link": "https://www.levante-emv.com/comunitat-valenciana/2025/11/19/bernabe-denuncia-educacion-ejecutado-cero-123901148.html",
-        "date": "2025-11-19 17:03:20",
-        "sentiment_score": -0.8922468852251768
-    },
-    {
-        "title": "Los tres barrios de Barcelona para comprar vivienda con mayor potencial de revalorización en 2026",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2021/03/25/imagen-area-de-la-rambla-del-raval-de-barcelona-en-el-distrito-de-ciutat-vella.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/los-tres-barrios-barcelona-para-comprar-vivienda-con-mayor-potencial-revalorizacion-2026_6898581_0.html",
-        "date": "2025-11-19 17:01:37",
-        "sentiment_score": 0.8217773605138063
-    },
-    {
-        "title": "Previa del Real Madrid - Zalgiris Kaunas",
-        "image_url": "https://www.infobae.com/resizer/v2/MOWORMCT7BH6HOWEHJHGBP3QYY.jpg?auth=18876f698d1f701f11c5fda160419094105d349adfe674266defd30c9aac63e1&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/19/previa-del-real-madrid-zalgiris-kaunas/",
-        "date": "2025-11-19 17:01:10",
-        "sentiment_score": -0.06070847064256668
-    },
-    {
         "title": "Ronaldinho: \"Se cumplen 20 años de aquel partido tan especial, nunca imaginé que me ovacionarían dentro del Santiago Bernabéu\"",
         "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/19/691e3ee0249dd.r_d.1673-665-1919.jpeg",
         "tags": [
@@ -3309,5 +3097,181 @@ export default [
         "link": "https://soydearroyo.elnortedecastilla.es/arroyo-educacion-abarca-20251123002430-nt.html",
         "date": "2025-11-22 23:24:31",
         "sentiment_score": 0.8069015704095364
+    },
+    {
+        "title": "Florentino Pérez expone a la asamblea de socios del Real Madrid su nuevo modelo de club",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/20/68f65f0a429a2.jpeg",
+        "tags": [
+            "real madrid"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/real-madrid/20251123/11292034/florentino-perez-expone-asamblea-socios-real-madrid-nuevo-modelo-club.html",
+        "date": "2025-11-23 06:35:57",
+        "sentiment_score": -0.06873622536659241
+    },
+    {
+        "title": "Sin necesidad de Bluetooth: Apple y Google logran conectar para dar un impulso a la Siri del futuro",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/20/foto-de-archivo-de-un-telefono-con-el-logo-de-google-y-por-detras-el-logo-de-apple.jpeg",
+        "tags": [
+            "tecnología"
+        ],
+        "link": "https://www.huffingtonpost.es/tecnologia/sin-necesidad-bluetooth-apple-google-logran-conectar-dar-impulso-siri-futuro.html",
+        "date": "2025-11-23 06:04:20",
+        "sentiment_score": -0.08904197812080383
+    },
+    {
+        "title": "El turista Tejero y el embajador alemán",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "aleman",
+            "tejero",
+            "turista",
+            "embajador"
+        ],
+        "link": "https://www.deia.eus/opinion/tribuna-abierta/2025/11/23/turista-tejero-embajador-aleman-10385746.html",
+        "date": "2025-11-23 06:01:54",
+        "sentiment_score": -0.7991356570273638
+    },
+    {
+        "title": "Las primeras decisiones del rey Juan Carlos I",
+        "image_url": "https://static.grupojoly.com/clip/69925aa0-a039-4345-83b8-5b18fbc21dd5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "decisiones",
+            "carlos",
+            "juan",
+            "primeras",
+            "rey"
+        ],
+        "link": "https://www.granadahoy.com/espana/primeras-decisiones-rey-juan-carlos_0_2005286530.html",
+        "date": "2025-11-23 06:01:28",
+        "sentiment_score": 0.3398169204592705
+    },
+    {
+        "title": "4.000 millones de euros más para Andalucía es una cifra posible",
+        "image_url": "https://static.grupojoly.com/clip/ec16596d-464d-4fe1-b0b0-7149a52d0271_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "andalucia",
+            "euros",
+            "4",
+            "millones",
+            "000"
+        ],
+        "link": "https://www.huelvainformacion.es/andalucia/4-000-millones-euros-andalucia_0_2005286521.html",
+        "date": "2025-11-23 06:00:10",
+        "sentiment_score": -0.30383096635341644
+    },
+    {
+        "title": "¿Quiénes son y qué hacen los más ricos de Cataluña?",
+        "image_url": "https://static1.ara.cat/clip/30f02728-d2f2-44f8-a65c-66cf472e55b9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "son",
+            "cataluna",
+            "ricos"
+        ],
+        "link": "https://es.ara.cat/economia/empresas/son-ricos-cataluna_1_5570702.html",
+        "date": "2025-11-23 06:30:46",
+        "sentiment_score": -0.0022662878036499023
+    },
+    {
+        "title": "Los Pujol Ferrusola: retrato de la gran familia catalana a las puertas de la Audiencia Nacional",
+        "image_url": "https://s1.staticld.com/2025/11/22/pujol-ferrusola-hijos-ok.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/espana/2025-11-23/los-pujol-ferrusola-retrato-de-la-gran-familia-catalana-a-las-puertas-de-la-audiencia-nacional-7323520/",
+        "date": "2025-11-23 06:23:03",
+        "sentiment_score": -0.9413594985380769
+    },
+    {
+        "title": "La cloaca trabajó para el Gobierno en 2023 tras la exigencia de ERC de crear una comisión sobre la \"Operación Cataluña\"",
+        "image_url": "https://s1.staticld.com/2025/11/21/europapress-7111839-exsecretario-organizacion-psoe-santos-cerdan-salida-prision-soto-real-19.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/espana/2025-11-23/la-cloaca-trabajo-para-el-gobierno-en-2023-tras-la-exigencia-de-erc-de-crear-una-comision-sobre-la-operacion-cataluna-7323128/",
+        "date": "2025-11-23 06:19:42",
+        "sentiment_score": -0.3172089643776417
+    },
+    {
+        "title": "Renato Alegría: Con la tinta de la vida",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/11/23/fotolead_pujol1200-kUWB--562x562@RC.jpg",
+        "tags": [
+            "renato",
+            "alegria",
+            "tinta",
+            "vida"
+        ],
+        "link": "https://www.canarias7.es/canarias/gran-canaria/las-palmas-de-gran-canaria/renato-alegria-tinta-vida-20251123074000-nt.html",
+        "date": "2025-11-23 06:09:02",
+        "sentiment_score": 0.2610497698187828
+    },
+    {
+        "title": "Castilla y León avanza para liderar el hidrógeno verde con el 25% de la producción nacional",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2025/11/22/6921fa8fd79a3.jpeg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/251123/103238/castilla-leon-avanza-liderar-hidrogeno-verde-25-produccion-nacional.html",
+        "date": "2025-11-23 06:05:00",
+        "sentiment_score": -0.14446400105953217
+    },
+    {
+        "title": "La brutal historia del jesuita asturiano que logró mediar entre la guerrilla de Guatemala: \"Me han asaltado varias veces con armas, pero es lo normal\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/86ea6d7c-8922-44c4-bcbd-56790dc7f869_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "el salvador",
+            "guatemala",
+            "méxico",
+            "migrantes",
+            "asturias",
+            "refugiados",
+            "honduras"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2025/11/23/brutal-historia-jesuita-asturiano-logro-123285709.html",
+        "date": "2025-11-23 06:01:19",
+        "sentiment_score": -0.10143697261810303
+    },
+    {
+        "title": "Tecnología global, talento local: así se construye el futuro digital desde el sur",
+        "image_url": "https://static.grupojoly.com/clip/f729270c-2672-4b1e-91b6-f6565190400b_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "local",
+            "tecnologia",
+            "sevilla",
+            "atos",
+            "global",
+            "ciberseguridad",
+            "talento",
+            "centro"
+        ],
+        "link": "https://www.elconciso.es/empresas/centro-ciberseguridad-atos-sevilla-tecnologia-global-talento-local_0_2005282529.html",
+        "date": "2025-11-23 05:30:30",
+        "sentiment_score": 0.5141941085457802
+    },
+    {
+        "title": "Un mar y tres continentes se desnudan en Alicante",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/11/22/73DC3550-EAB7-49BF-8C16-84446560FE2F/imagen-paneles-exposicion-mediterraneo-mar-patrimonios-casa-mediterraneo-alicante_69.jpg?crop=4542%2C2555%2Cx0%2Cy251&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "comunidad valenciana"
+        ],
+        "link": "https://www.larazon.es/comunidad-valenciana/mar-tres-continentes-desnudan-alicante_2025112369229be6df41134465e5b39a.html",
+        "date": "2025-11-23 05:30:14",
+        "sentiment_score": 0.3100006878376007
+    },
+    {
+        "title": "Max, dibujante de cómics, ilustrador: «Más que en mi oficio, el laberinto está en mi cabeza»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b35997eb-d2c5-4672-b011-7134111ee724_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cómics",
+            "autónomos",
+            "palma",
+            "barcelona",
+            "mallorca",
+            "cultura",
+            "fiestas"
+        ],
+        "link": "https://www.diariodemallorca.es/cultura/2025/11/23/max-dibujante-comics-ilustrador-oficio-124019548.html",
+        "date": "2025-11-23 05:01:50",
+        "sentiment_score": -0.13717865198850632
     }
 ];
