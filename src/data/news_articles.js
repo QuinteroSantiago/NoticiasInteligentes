@@ -1,490 +1,5 @@
 export default [
     {
-        "title": "Resumen Brasil-Túnez: La 'Era Ancelotti' sigue dejando dudas (1-1)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/18/image-1057caeb-9a8c-4398-b4bb-577f5f2d98fc-85-2560-1440.jpeg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.eurosport.es/futbol/amistosos/2025/brasil-tunez-video-resumen-resultado-goles-goleadores-y-mejores-momentos-vinicius-estevao-lesion-militaohoy_vid60037889/video.shtml",
-        "date": "2025-11-18 22:13:42",
-        "sentiment_score": -0.8775185123085976
-    },
-    {
-        "title": "La Roja prolonga una racha mundialista que solo superan Brasil, Alemania y Argentina",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/11/18/fotolead-mundiales840-kj7F-U240270845003AFE-1200x840@RC.jpg",
-        "tags": [
-            "alemania",
-            "mundialista",
-            "solo",
-            "argentina",
-            "roja",
-            "superan",
-            "racha",
-            "brasil",
-            "prolonga"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/seleccion-espanola/roja-prolonga-racha-mundialista-20251118190833-ntrc.html",
-        "date": "2025-11-18 22:08:40",
-        "sentiment_score": 0.17158204317092896
-    },
-    {
-        "title": "Horario y dónde ver por TV y online el Arsenal-Real Madrid de la Champions Femenina",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/11/image-87f74e85-f2b4-46db-bea1-b01e1deee320-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "women's champions league 2025-2026 (w)"
-        ],
-        "link": "https://www.eurosport.es/futbol/champions-league-femenina/2025-2026/horario-donde-ver-tv-online-arsenal-real-madrid-champions-femenina_sto23242354/story.shtml",
-        "date": "2025-11-18 22:02:17",
-        "sentiment_score": 0.11977570131421089
-    },
-    {
-        "title": "El rey emérito agradece a los que le apoyaron hace 50 años y pide lo mismo para Felipe VI",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/11/05/el-rey-emerito-juan-carlos-i-en-o-grove-3.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2025/11/18/rey-emerito-agradece-apoyaron-hace-50-anos-pide-mismo-para-felipe-vi-1871583.html",
-        "date": "2025-11-18 21:55:39",
-        "sentiment_score": 0.4197476953268051
-    },
-    {
-        "title": "La Guardia Civil encuentra el dinero de Santos Cerdán y estaba delante de nuestras narices",
-        "image_url": "https://phantom-elmundo.uecdn.es/90a295bc5e89e3ec24bd97a6ac4339e5/crop/436x55/691x310/f/image/jpeg/assets/multimedia/imagenes/2022/01/31/16436535939003.jpg",
-        "tags": [
-            "artículos francisco pascual",
-            "josé luis ábalos",
-            "santos cerdán",
-            "psoe",
-            "koldo garcía",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/18/691c9a2121efa0467a8b4570.html",
-        "date": "2025-11-18 21:49:05",
-        "sentiment_score": -0.7258544564247131
-    },
-    {
-        "title": "Españoles y turcos olvidan pretéritas batallas y conviven en la Cartuja",
-        "image_url": "https://static.grupojoly.com/clip/0c9c9c84-d5fe-42d5-9920-c903f6e56428_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "selección española"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/espanoles-turcos-olvidan-preteritas-batallas_0_2005259360.html",
-        "date": "2025-11-18 21:46:10",
-        "sentiment_score": -0.6734045073390007
-    },
-    {
-        "title": "Militao abandona lesionado el Brasil - Túnez y saltan las alarmas en el Real Madrid",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/18/691ce0f8938db.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/militao-abandona-lesionado-brasil-tunez-saltan-las-alarmas-real-madrid_6899655_0.html",
-        "date": "2025-11-18 21:19:25",
-        "sentiment_score": -0.8837579032406211
-    },
-    {
-        "title": "La selección española convoca al cacereño Álex Reyes",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/11/18/Alex-R41NLZyDFpN2KsOYlQ4cVkO-1200x840@Hoy.jpg",
-        "tags": [
-            "espanola",
-            "reyes",
-            "cacereno",
-            "alex",
-            "convoca",
-            "seleccion"
-        ],
-        "link": "https://www.hoy.es/deportes/baloncesto/seleccion-espanola-convoca-cacereno-alex-reyes-20251118215707-nt.html",
-        "date": "2025-11-18 21:03:02",
-        "sentiment_score": 0.00025482475757598877
-    },
-    {
-        "title": "Meta gana su juicio antimonopolio... gracias a Tik Tok",
-        "image_url": "https://static.grupojoly.com/clip/a47cbaf0-3fc4-4872-97c8-6f8dd6051dbf_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "juicio",
-            "antimonopolio",
-            "meta",
-            "gracias",
-            "tiktok",
-            "gana"
-        ],
-        "link": "https://www.diariodejerez.es/tecnologia/meta-gana-juicio-antimonopolio-gracias-tiktok_0_2005260084.html",
-        "date": "2025-11-18 22:19:35",
-        "sentiment_score": -0.7954425327479839
-    },
-    {
-        "title": "Detenido tras asesinar a su propia madre al tirarla por el balcón de su piso",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/02/08/2025020818174985133.jpg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://www.clm24.es/articulo/sucesos/detenido-asesinar-madre-tirarla-balcon-vivienda/20251118231417464367.html",
-        "date": "2025-11-18 22:14:17",
-        "sentiment_score": -0.6858139894902706
-    },
-    {
-        "title": "Tras la clasificación de España al Mundial, cuándo y dónde se jugaría la Finalíssima contra Argentina",
-        "image_url": "https://www.infobae.com/resizer/v2/JAW3CNODNNH2RM6BYTUDG2D4DE.jpg?auth=31a72ce0b7412cbce3fc5ffc3feb0198fe9cf7d179a68ba7cb1b7e555659d451&height=1080&smart=true&width=1920",
-        "tags": [
-            "selección argentina",
-            "finalíssima",
-            "selección de españa",
-            "lamine yamal",
-            "deportes-argentina",
-            "lionel messi"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/18/tras-la-clasificacion-de-espana-al-mundial-cuando-y-donde-se-jugaria-la-finalissima-contra-argentina/",
-        "date": "2025-11-18 22:02:59",
-        "sentiment_score": 0.10671509802341461
-    },
-    {
-        "title": "Daniel Muñoz sería el fichaje bomba de un histórico equipo de Europa: aparecería en su carpeta de opciones",
-        "image_url": "https://www.infobae.com/resizer/v2/X5MTKS36HFGYHEELM7XXYVCZII.JPG?auth=e60b8910da4575659aab0eb731628fa59179bf0394ca4ad995ad0ad86be2d85e&height=1568&smart=true&width=2787",
-        "tags": [
-            "premier league",
-            "crystal palace",
-            "daniel muñoz barcelona",
-            "mercado de fichajes",
-            "selección colombia",
-            "fc barcelona",
-            "daniel muñoz",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/11/18/daniel-munoz-seria-el-fichaje-bomba-de-un-historico-equipo-de-europa-apareceria-en-su-carpeta-de-opciones/",
-        "date": "2025-11-18 21:59:02",
-        "sentiment_score": 0.49637772887945175
-    },
-    {
-        "title": "Tras filtrarse un vídeo: Un giro dio el caso del policía asesinado en Anzoátegui",
-        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-3.59.49-PM.jpeg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://elsiglo.com.ve/un-giro-dio-el-caso-del-policia-asesinado-en-anzoategui/",
-        "date": "2025-11-18 21:47:04",
-        "sentiment_score": -0.6705841682851315
-    },
-    {
-        "title": "España se clasifica al Mundial 2026: solo un empate con Turquía empaña un camino inmaculado",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2549226.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/espana-se-clasifica-al-mundial-2026-solo-un-empate-con-turquia-empana-un-camino-inmaculado.html",
-        "date": "2025-11-18 21:44:24",
-        "sentiment_score": 0.2657151482999325
-    },
-    {
-        "title": "Luis de la Fuente enciende la estrella más apagada del Barça de Hansi Flick: líder de la selección española",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/18/culemania/primer-equipo/1003742708562_15416547_1706x960.jpg",
-        "tags": [
-            "selección española",
-            "barça",
-            "primer equipo",
-            "hansi flick",
-            "dani olmo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251118/luis-fuente-enciende-barca-hansi-flick-seleccion/1003742708560_0.html",
-        "date": "2025-11-18 21:41:23",
-        "sentiment_score": 0.8096423763781786
-    },
-    {
-        "title": "Mireia González, contundente sobre los 541 nuevos pisos: \"Queremos una Santa Coloma donde todos puedan vivir\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/09/16/gran-barcelona/886421388_13449424_1706x960.jpg",
-        "tags": [
-            "alquiler vivienda",
-            "gran barcelona",
-            "vivienda",
-            "santa coloma de gramenet"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251118/mireia-gonzalez-contundente-nuevos-pisos-santa-coloma-queremos-ciudad-puedan-vivir/1003742705930_0.html",
-        "date": "2025-11-18 21:38:58",
-        "sentiment_score": 0.7349268682301044
-    },
-    {
-        "title": "Amado Granell: el vecino de Orihuela y Alicante que liberó a París de los nazis",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d03e7027-b287-4ae2-9734-a028ce76d817_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "españa",
-            "guerra",
-            "ayuntamiento",
-            "ugt",
-            "madrid",
-            "parís",
-            "áfrica"
-        ],
-        "link": "https://www.informacion.es/alicante/2025/11/18/amado-granell-nueve-liberacion-nazis-paris-orihuela-alicante-dv-123876826.html",
-        "date": "2025-11-18 21:38:35",
-        "sentiment_score": -0.22468678653240204
-    },
-    {
-        "title": "El Rey recuerda que el buen periodismo “no busca 'likes', ni cuotas de pantalla”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/18/691ce5145c7e1.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.lavanguardia.com/gente/20251118/11278406/rey-recuerda-buen-periodismo-busca-likes-cuotas-pantalla.html",
-        "date": "2025-11-18 21:32:23",
-        "sentiment_score": 0.10411547124385834
-    },
-    {
-        "title": "Una idea cojonuda para la alcaldesa",
-        "image_url": "https://static.grupojoly.com/clip/d1243b0d-83b8-440a-89b5-09c2babf1ee1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "idea",
-            "alcaldesa",
-            "cojonuda"
-        ],
-        "link": "https://www.granadahoy.com/opinion/articulos/idea-cojonuda-alcaldesa_0_2005260689.html",
-        "date": "2025-11-19 02:06:40",
-        "sentiment_score": -0.06634020805358887
-    },
-    {
-        "title": "Ayuso recurre el decreto de creación de universidades de Sánchez por atentar contra la libertad de empresas",
-        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019267_260008112_1706x960.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "política",
-            "pedro sánchez",
-            "universidad",
-            "isabel díaz ayuso",
-            "educación"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251119/ayuso-recurre-decreto-creacion-universidades-sanchez-atentar-libertad-empresas/1003744019250_0.html",
-        "date": "2025-11-19 01:50:25",
-        "sentiment_score": 0.19553949311375618
-    },
-    {
-        "title": "El valor de los datos personales en la era de la IA: por qué no deberíamos 'regalarlos' y para qué los quieren las tecnológicas",
-        "image_url": "https://s3.elespanol.com/2025/11/18/omicrono/tecnologia/1003744018923_260003760_1706x960.jpg",
-        "tags": [
-            "almacenamiento de datos",
-            "protección de datos",
-            "tecnología",
-            "inteligencia artificial"
-        ],
-        "link": "https://www.elespanol.com/omicrono/tecnologia/20251119/valor-datos-personales-ia-no-deberiamos-regalarlos-quieren-tecnologicas/1003744012831_0.html",
-        "date": "2025-11-19 01:50:08",
-        "sentiment_score": -0.3321933448314667
-    },
-    {
-        "title": "Nuga Castellana, el nuevo 'macrocomplejo' de 66.000 m2 con restaurantes, tiendas, pisos y spa ya está abierto",
-        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019181_260007130_1706x960.jpg",
-        "tags": [
-            "tiendas",
-            "restaurantes",
-            "distrito castellana norte",
-            "ocio",
-            "vivienda"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20251119/nuga-castellana-nuevo-macrocomplejo-m2-restaurantes-tiendas-pisos-spa-abierto/1003744019153_0.html",
-        "date": "2025-11-19 01:00:00",
-        "sentiment_score": 0.2727205380797386
-    },
-    {
-        "title": "El tiempo aquel en el que se fue el Caimán",
-        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019255_260007980_1706x960.jpg",
-        "tags": [
-            "franquismo",
-            "a la intemperie",
-            "francisco franco"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/blogs/a_la_intemperie/20251119/tiempo-caiman/1003744019185_12.html",
-        "date": "2025-11-19 00:55:00",
-        "sentiment_score": 0.781139999628067
-    },
-    {
-        "title": "El turismo gallego se reivindica: “En materia laboral no podemos ser vistos como un problema, somos la solución”",
-        "image_url": "https://www.economiadigital.es/galicia/wp-content/uploads/sites/3/2025/11/futurismo-mesa-redonda-1000x665.jpg",
-        "tags": [
-            "empresas",
-            "turismo",
-            "informe 'futurismo'"
-        ],
-        "link": "https://www.economiadigital.es/galicia/empresas/el-turismo-gallego-se-reivindica-en-materia-laboral-no-podemos-ser-vistos-como-un-problema-somos-la-solucion.html",
-        "date": "2025-11-19 00:54:45",
-        "sentiment_score": 0.7303771525621414
-    },
-    {
-        "title": "Las 19 personas que ostentan el Toisón de Oro y por qué la reina Sofía es una excepción: del rey Juan Carlos a Nicolás Sarkozy",
-        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744018971_260004200_1706x960.jpg",
-        "tags": [
-            "reina sofía",
-            "casa real",
-            "casas reales",
-            "felipe vi"
-        ],
-        "link": "https://www.elespanol.com/corazon/casas-reales/20251119/personas-ostentan-toison-oro-reina-sofia-excepcion-rey-juan-carlos-nicolas-sarkozy/1003744018420_0.html",
-        "date": "2025-11-19 00:33:00",
-        "sentiment_score": 0.05637581646442413
-    },
-    {
-        "title": "Leguina gana, Cerdán chapotea",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2021/10/21/61713c4504b76.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20251119/leguina-gana-cerdan-chapotea_356530.html",
-        "date": "2025-11-19 00:30:00",
-        "sentiment_score": -0.4309297427535057
-    },
-    {
-        "title": "Vuelos demorados y cancelados en el AICM este 18 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/CMVDXZ7HBNDMZAW7GUGISD32D4.jpg?auth=fd780efd04da6bc6657766960a77be0fdc35bc06a966a2e995d067f0537c0450&height=1080&smart=true&width=1920",
-        "tags": [
-            "aicm",
-            "noticias",
-            "mexico-noticias",
-            "vuelos cancelados"
-        ],
-        "link": "https://www.infobae.com/mexico/2025/11/19/vuelos-demorados-y-cancelados-en-el-aicm-este-18-de-noviembre/",
-        "date": "2025-11-19 00:15:41",
-        "sentiment_score": 0.047803085297346115
-    },
-    {
-        "title": "El Camp Nou que pudo ser y no será: las siete propuestas descartadas por el Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/18/culemania/palco/1003742708558_15416485_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "joan laporta",
-            "barça",
-            "limak construction",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251119/camp-nou-pudo-no-propuestas-descartadas-barca/1003742708550_0.html",
-        "date": "2025-11-19 00:01:42",
-        "sentiment_score": -0.10089793801307678
-    },
-    {
-        "title": "Las pruebas sobre la corrupción de sus lugartenientes cercan a Sánchez: Ábalos amañaba y Cerdán cobraba y repartía",
-        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744019600_260012855_1706x1280.jpg",
-        "tags": [
-            "pedro sánchez",
-            "josé luis ábalos",
-            "psoe (partido socialista obrero español)",
-            "periodismo de investigación",
-            "uco",
-            "gobierno de españa",
-            "santos cerdán",
-            "koldo garcía izaguirre",
-            "guardia civil",
-            "corrupción"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251119/pruebas-corrupcion-lugartenientes-cercan-sanchez-abalos-amanaba-cerdan-cobraba-repartia/1003744019452_0.html",
-        "date": "2025-11-19 01:50:31",
-        "sentiment_score": -0.4667886272072792
-    },
-    {
-        "title": "Los siete 'trofeos' de la trama de Cerdán: del \"¡Bingo!\" en Logroño a la \"expansión internacional\" en Marruecos y Gabón",
-        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019243_260007827_1706x960.jpg",
-        "tags": [
-            "tribunal supremo",
-            "fiscalía anticorrupción",
-            "josé luis ábalos",
-            "psoe (partido socialista obrero español)",
-            "uco",
-            "santos cerdán",
-            "koldo garcía izaguirre",
-            "guardia civil",
-            "acciona",
-            "corrupción"
-        ],
-        "link": "https://www.elespanol.com/espana/20251119/trofeos-trama-cerdan-bingo-logrono-expansion-internacional-marruecos-gabon/1003744019268_0.html",
-        "date": "2025-11-19 01:50:27",
-        "sentiment_score": -0.01623430848121643
-    },
-    {
-        "title": "Las pruebas de la UCO sobre el papel de Acciona en la trama de Santos Cerdán avivan las tensiones internas en el grupo",
-        "image_url": "https://s3.elespanol.com/2025/01/10/invertia/empresas/energia/915419456_252253714_1706x960.jpg",
-        "tags": [
-            "santos cerdán",
-            "construcción e infraestructuras",
-            "josé manuel entrecanales",
-            "acciona",
-            "caso koldo"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/construccion-infraestructuras/20251119/pruebas-uco-papel-acciona-trama-santos-cerdan-avivan-tensiones-internas-grupo/1003744019260_0.html",
-        "date": "2025-11-19 01:35:40",
-        "sentiment_score": -0.35157157480716705
-    },
-    {
-        "title": "Simon Rattle, director de orquesta: \"Mozart estaría horrorizado de que sigamos tocando su música\"",
-        "image_url": "https://s3.elespanol.com/2025/11/14/actualidad/1003744014871_259953048_1706x960.jpg",
-        "tags": [
-            "música clásica",
-            "música",
-            "orquestas",
-            "directores de orquesta",
-            "entrevistas"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251119/simon-rattle-director-orquesta-mozart-horrorizado-sigamos-tocando-musica/1003744014816_0.html",
-        "date": "2025-11-19 00:55:00",
-        "sentiment_score": 0.08005841076374054
-    },
-    {
-        "title": "Juan Soto Ivars: \"El hombre denunciado en falso por violencia de género también es víctima de maltrato\"",
-        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744018986_260004418_1706x960.jpg",
-        "tags": [
-            "violencia de género",
-            "libros",
-            "juan soto ivars",
-            "letras"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20251119/juan-soto-ivars-hombre-denunciado-falso-violencia-genero-victima-maltrato/1003744018979_0.html",
-        "date": "2025-11-19 00:55:00",
-        "sentiment_score": -0.7122237980365753
-    },
-    {
-        "title": "Perla",
-        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019319_260008813_1706x960.jpg",
-        "tags": [
-            "opinión",
-            "mínima molestia",
-            "literatura"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/opinion/minima_molestia_ignacio_echevarria/20251119/perla/1003744019279_13.html",
-        "date": "2025-11-19 00:55:00",
-        "sentiment_score": 0.09369334578514099
-    },
-    {
-        "title": "Comisiones, entramado societario y el “enlace” con Acciona: ¿de qué acusa la UCO a Cerdán?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/12/2025061215295970700.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/uco-apunta-que-cerdan-actuo-enlace-acciona-cambio-2-mordidas/20251119014638363611.html",
-        "date": "2025-11-19 00:46:38",
-        "sentiment_score": -0.6393547095358372
-    },
-    {
-        "title": "Richard Gere y Alejandra Silva vuelven a España: la fecha y el proyecto que les hace regresar",
-        "image_url": "https://s3.elespanol.com/2025/10/29/corazon/famosos/1003743991421_260004106_1706x960.jpg",
-        "tags": [
-            "familia",
-            "celebrities",
-            "richard gere",
-            "relaciones de pareja",
-            "madrid",
-            "alejandra silva"
-        ],
-        "link": "https://www.elespanol.com/corazon/celebrities/20251119/richard-gere-alejandra-silva-vuelven-espana-fecha-proyecto-hace-regresar/1003744018511_0.html",
-        "date": "2025-11-19 00:33:00",
-        "sentiment_score": 0.14467151649296284
-    },
-    {
-        "title": "España logra el objetivo: Así se metió al Mundial 2026",
-        "image_url": "https://pxcdn.meridiano.net/112025/1763511151800.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/espana-logra-el-objetivo-asi-se-metio-al-mundial-2026-2025111820130",
-        "date": "2025-11-19 00:16:00",
-        "sentiment_score": 0.07086379081010818
-    },
-    {
         "title": "El sorprendente motivo por el que Rosalía no hizo el 'show de la NFL en el Bernabéu: \"Sus exigencias...\"",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/19/691d644a978fb.jpeg",
         "tags": [
@@ -3360,5 +2875,218 @@ export default [
         "link": "https://www.elperiodico.com/es/sociedad/20251122/martin-rocca-director-50-segundos-netflix-paliza-mortal-adolescente-argentina-123985029",
         "date": "2025-11-22 06:00:32",
         "sentiment_score": -0.5034426227211952
+    },
+    {
+        "title": "¿Por qué se la van a llevar así?\": una madre cuenta cómo ICE detuvo a su hijo y se llevó a su nieta |",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/dc/media_thumb-link-4119736.webp?1763798646=",
+        "tags": [
+            "nieta",
+            "madre",
+            "camisaparda",
+            "hijo",
+            "ice",
+            "detuvo",
+            "llevó"
+        ],
+        "link": "https://www.meneame.net/story/van-llevar-asi-madre-cuenta-como-ice-detuvo-hijo-llevo-nieta",
+        "date": "2025-11-22 16:05:03",
+        "sentiment_score": -0.3559974357485771
+    },
+    {
+        "title": "Don Juan Carlos abandona el almuerzo familiar a las cinco de la tarde",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251122180726_120.jpg",
+        "tags": [
+            "realeza",
+            "chance"
+        ],
+        "link": "https://www.europapress.es/chance/realeza/noticia-don-juan-carlos-abandona-almuerzo-familiar-cinco-tarde-20251122180726.html",
+        "date": "2025-11-22 17:07:26",
+        "sentiment_score": -0.1577463001012802
+    },
+    {
+        "title": "De Eulogio Martínez al primer goleador del nuevo Camp Nou: 68 años de goles antológicos",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/historias-del-barca/1003742709831_15434231_1706x960.jpg",
+        "tags": [
+            "historias del barça",
+            "robert lewandowski",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20251122/eulogio-martinez-primer-goleador-camp-nou-antologicos/1003742709827_0.html",
+        "date": "2025-11-22 17:04:52",
+        "sentiment_score": 0.7940657390281558
+    },
+    {
+        "title": "Barcelona marca su regreso al Camp Nou con una goleada 4-0 sobre el Athletic Bilbao",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/ESPA209A-LIGA_46121.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/11/22/barcelona-marca-su-regreso-al-camp-nou-con-una-goleada-4-0-sobre-el-athletic-bilbao/",
+        "date": "2025-11-22 17:04:16",
+        "sentiment_score": 0.40941596031188965
+    },
+    {
+        "title": "Tchouameni no llega al Martínez Valero y Rüdiger se reserva: el Madrid afronta otro examen en LaLiga",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/22/2025112218031242969.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/tchouameni-llega-martinez-valero-rudiger-reserva-madrid-afronta-examen-laliga/20251122180326364156.html",
+        "date": "2025-11-22 17:03:26",
+        "sentiment_score": 0.05553135275840759
+    },
+    {
+        "title": "Angélica Liddell canta a la muerte en memoria de Mishima con motivo del centenario del escritor",
+        "image_url": "https://phantom-elmundo.uecdn.es/de08ea017ee9483d6084b66c18a8fd28/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16528799959541.jpg",
+        "tags": [
+            "artículos darío prieto",
+            "teatro"
+        ],
+        "link": "https://www.elmundo.es/cultura/teatro/2025/11/22/6921eccbfc6c83be0c8b457d.html",
+        "date": "2025-11-22 17:03:23",
+        "sentiment_score": 0.3208172172307968
+    },
+    {
+        "title": "Isabel Pérez Moñino (VOX), en la manifestación contra la imposición de las ZBE: «Es terrorismo contra el pueblo en nombre de la dictadura climática»",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/11/ujtyhrgyh6u.jpg",
+        "tags": [
+            "coches eléctricos",
+            "españa",
+            "vox",
+            "cambio climático",
+            "coches",
+            "madrid"
+        ],
+        "link": "https://gaceta.es/espana/isabel-perez-monino-vox-en-la-manifestacion-contra-la-imposicion-de-las-zbe-es-terrorismo-contra-el-pueblo-en-nombre-de-la-dictadura-climatica-20251122-1802/",
+        "date": "2025-11-22 17:02:09",
+        "sentiment_score": -0.42040063440799713
+    },
+    {
+        "title": "El Martínez Valero reta a un Madrid en horas bajas",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/11/22/previa-elche-madrid-kKaH-U240319532113rgB-1200x840@RC.JPG",
+        "tags": [
+            "xabi alonso",
+            "real madrid",
+            "kylian mbappé",
+            "elche/elx"
+        ],
+        "link": "https://www.ideal.es/deportes/futbol/liga-primera/martinez-valero-reta-madrid-horas-bajas-20251122175422-ntrc.html",
+        "date": "2025-11-22 17:01:13",
+        "sentiment_score": -0.7466138377785683
+    },
+    {
+        "title": "La Familia Real celebra 50 años de Monarquía en un almuerzo privado en El Pardo con la presencia del rey emérito",
+        "image_url": "https://www.infobae.com/resizer/v2/LYPMLHMR3ZGNHD55SS6CP32U3E.jpg?auth=fe885d9e26324b18f5880283746d148f5b79493f0aa7cab52efddd72ee2078f9&height=1281&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/22/la-familia-real-celebra-50-anos-de-monarquia-en-un-almuerzo-privado-en-el-pardo-con-la-presencia-del-rey-emerito/",
+        "date": "2025-11-22 17:00:37",
+        "sentiment_score": 0.3654979392886162
+    },
+    {
+        "title": "La Familia Real celebra 50 años de Monarquía en un almuerzo privado en El Pardo con la presencia del rey emérito",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251122173642.jpg?fit=1920%2C1281&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/la-familia-real-celebra-50-aos-de-monarqua-en-un-almuerzo-privado-en-el-pardo-con-la-presencia-del-rey-emrito/",
+        "date": "2025-11-22 17:00:03",
+        "sentiment_score": 0.04503047466278076
+    },
+    {
+        "title": "Empresarios de la piedra natural reclaman «diálogo social» y respuestas a la «presión regulatoria» en las pymes",
+        "image_url": "https://s1.ppllstatics.com/ideal/almanzora/multimedia/2025/11/22/jesusposadas-k01F-U240319742026ekD-1200x840@Ideal.jpg",
+        "tags": [
+            "social",
+            "pymes",
+            "reclaman",
+            "natural",
+            "empresarios",
+            "dialogo",
+            "presion",
+            "piedra",
+            "regulatoria",
+            "respuestas"
+        ],
+        "link": "https://almanzora.ideal.es/actualidad/empresarios-piedra-natural-reclaman-dialogo-social-respuestas-20251122180825-nt.html",
+        "date": "2025-11-22 17:08:25",
+        "sentiment_score": -0.6289715282619
+    },
+    {
+        "title": "El Puerto de Santa María (Cádiz) celebra la XXV edición de los premios de la Peña Taurina José Luis Galloso",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251122180550_690.jpg",
+        "tags": [
+            "andalucía",
+            "cádiz"
+        ],
+        "link": "https://www.europapress.es/andalucia/cadiz-00351/noticia-puerto-santa-maria-cadiz-celebra-xxv-edicion-premios-pena-taurina-jose-luis-galloso-20251122180550.html",
+        "date": "2025-11-22 17:05:50",
+        "sentiment_score": 0.13773350417613983
+    },
+    {
+        "title": "El gasto en luces de Navidad en las ciudades españolas: ¿cuánto valen los paisajes más espectaculares este año?",
+        "image_url": "https://www.infobae.com/resizer/v2/ZVYYLHU6PRBIJAKTXDKQTMTHLU.jpg?auth=fa1e833a5fb5acd2e26f4b26a56f681b537e955eca1d68432c9a0414f3c2da23&height=1080&smart=true&width=1920",
+        "tags": [
+            "málaga",
+            "barcelona",
+            "navidad",
+            "luces",
+            "vigo",
+            "españa-economía",
+            "españa-noticias",
+            "precio",
+            "valencia",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/22/el-gasto-en-luces-de-navidad-en-las-ciudades-espanolas-cuanto-valen-los-paisajes-mas-espectaculares-este-ano/",
+        "date": "2025-11-22 17:05:06",
+        "sentiment_score": 0.8541965913027525
+    },
+    {
+        "title": "Puigdemont urge a crear un gran frente de alcaldes para hacer de Cataluña «un país libre e independiente»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "junts",
+            "españa",
+            "carles puigdemont",
+            "independentismo catalán"
+        ],
+        "link": "https://okdiario.com/espana/puigdemont-urge-crear-gran-frente-alcaldes-hacer-cataluna-pais-libre-independiente-15810559",
+        "date": "2025-11-22 17:04:32",
+        "sentiment_score": 0.18052437901496887
+    },
+    {
+        "title": "Barcelona juega su primer partido en el Camp Nou en más de dos años mientras continúan las obras",
+        "image_url": "https://dims.apnews.com/dims4/default/3eeece7/2147483647/strip/true/crop/7539x5018+0+5/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F10%2F90%2F131c7e9b4849230af89286b31322%2F3c1bc65b721443e98752ae0aae14b0ef",
+        "tags": [
+            "deportes",
+            "sports",
+            "espana liga barcelona camp nou"
+        ],
+        "link": "https://apnews.com/article/espana-liga-barcelona-camp-nou-249c6c85ac263c4e35851a41a2c5f896",
+        "date": "2025-11-22 17:04:17",
+        "sentiment_score": 0.7815517988055944
+    },
+    {
+        "title": "Barcelona juega su primer partido en el Camp Nou en más de dos años mientras continúan las obras",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.houstonchronicle.com/sports/article/barcelona-juega-su-primer-partido-en-el-camp-nou-21202534.php",
+        "date": "2025-11-22 17:04:17",
+        "sentiment_score": 0.3629968501627445
+    },
+    {
+        "title": "Barcelona juega su primer partido en el Camp Nou en más de dos años mientras continúan las obras",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/ESPA209A-LIGA_46121.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/11/22/barcelona-juega-su-primer-partido-en-el-camp-nou-en-ms-de-dos-aos-mientras-continan-las-obras/",
+        "date": "2025-11-22 17:04:16",
+        "sentiment_score": 0.4590875878930092
     }
 ];
