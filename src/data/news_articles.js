@@ -1,373 +1,5 @@
 export default [
     {
-        "title": "Ronaldinho: \"Se cumplen 20 años de aquel partido tan especial, nunca imaginé que me ovacionarían dentro del Santiago Bernabéu\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/19/691e3ee0249dd.r_d.1673-665-1919.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/ronaldinho-cumplen-20-anos-partido-especial-nunca-imagine-me-ovacionarian-santiago-bernabeu-20251119_3255622.html",
-        "date": "2025-11-19 22:13:47",
-        "sentiment_score": 0.042378902435302734
-    },
-    {
-        "title": "Resumen Arsenal-Real Madrid: Alessia Russo es la nueva bestia negra madridista (2-1)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/19/image-2bd79b78-343e-4445-87b4-21e14618a146-85-2560-1440.jpeg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/champions-league-femenina/2025-2026/video-resumen-arsenal-real-madrid-goles-resultado-highlights-weir-alessia-russo_vid60037995/video.shtml",
-        "date": "2025-11-19 22:10:31",
-        "sentiment_score": 0.6136028170585632
-    },
-    {
-        "title": "Una sociedad que se fundó en casa del propio gerente le cobró 1,3 millones al CNIO: así se habría robado a la lucha contra el cáncer",
-        "image_url": "https://phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
-        "tags": [
-            "artículos quico alsedo",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/19/691c51c3e9cf4afc418b458c.html",
-        "date": "2025-11-19 21:40:21",
-        "sentiment_score": -0.6965844370424747
-    },
-    {
-        "title": "La petición del Barça a Lewandowski en su primera temporada: \"Queremos que dejes de marcar goles\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/11/19/691e1bafdb5264-76789926.r_d.1247-919.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/extrana-peticion-barcelona-lewandowski-robert-queremos-dejes-marcar-goles_6900219_0.html",
-        "date": "2025-11-19 21:39:40",
-        "sentiment_score": -0.0153779536485672
-    },
-    {
-        "title": "«La hostelería gijonesa es fiel reflejo del espíritu de la sociedad, de las modas y las coyunturas»",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/11/19/1503196290-R760E7EfQWltQfUBbs69wbN-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "club astur de regatas",
-            "gijón"
-        ],
-        "link": "https://www.elcomercio.es/gijon/hosteleria-gijonesa-fiel-reflejo-espiritu-sociedad-modas-20251119221246-nt.html",
-        "date": "2025-11-19 21:38:40",
-        "sentiment_score": 0.3860393986105919
-    },
-    {
-        "title": "Nicolás Sartorius: \"La historia que nos han contado de la Transición es una gran mentira\"",
-        "image_url": "https://static.eldiario.es/clip/cda2dac5-3d0f-4b98-82da-2ac77d0b7641_16-9-discover-aspect-ratio_default_0_x3629y1259.jpg",
-        "tags": [
-            "nicolas",
-            "sartorius",
-            "contado",
-            "historia",
-            "gran",
-            "transicion",
-            "mentira",
-            "han"
-        ],
-        "link": "https://www.eldiario.es/sociedad/nicolas-sartorius-historia-han-contado-transicion-gran-mentira_1_12769755.html",
-        "date": "2025-11-19 21:12:46",
-        "sentiment_score": -0.2095644325017929
-    },
-    {
-        "title": "España cumple medio siglo sin Franco en plena ofensiva ultra que lo reivindica",
-        "image_url": "https://static.eldiario.es/clip/7d32d02e-865a-4252-8f48-e5cd3de40889_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cumple",
-            "espana",
-            "ultra",
-            "medio",
-            "plena",
-            "reivindica",
-            "ofensiva",
-            "franco",
-            "siglo"
-        ],
-        "link": "https://www.eldiario.es/sociedad/espana-cumple-medio-siglo-franco-plena-ofensiva-ultra-reivindica_1_12774591.html",
-        "date": "2025-11-19 21:12:46",
-        "sentiment_score": -0.1787954419851303
-    },
-    {
-        "title": "Una experta en lenguaje no verbal analiza la comparecencia de Mazón y ve algo que explicaría su actuación en la DANA: \"Es increíble\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/11/19/17CB1F21-5958-4242-9AED-107F62FFDEBE/experta-lenguaje-verbal-analiza-comparecencia-mazon-algo-que-explicaria-actuacion-dana-increible_70.jpg?crop=1920%2C1080%2Cx0%2Cy101&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "noticias",
-            "sociedad",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/experta-lenguaje-verbal-analiza-comparecencia-mazon-algo-que-explicaria-actuacion-dana-increible_20251119691e3282eba8bc0ece09fbfe.html",
-        "date": "2025-11-19 21:11:30",
-        "sentiment_score": -0.10982091352343559
-    },
-    {
-        "title": "Emirates celebró el aumento de frecuencias en Argentina: “La demanda realmente está creciendo”",
-        "image_url": "https://www.infobae.com/resizer/v2/5XXI7K5E4RAOPPPDRTZKYAOV2E.jpg?auth=03f5691ff064950fe22d0baac9a80099468ec387ca279c9f736aa30b51d15e2b&height=1080&smart=true&width=1920",
-        "tags": [
-            "dubai",
-            "stephane perard",
-            "vuelos desde buenos aires",
-            "visa",
-            "emirates"
-        ],
-        "link": "https://www.infobae.com/economia/2025/11/19/emirates-celebro-el-aumento-de-frecuencias-en-argentina-la-demanda-realmente-esta-creciendo/",
-        "date": "2025-11-19 21:11:17",
-        "sentiment_score": -0.022766828536987305
-    },
-    {
-        "title": "Ejercicio de resistencia del Barça en París",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/19/691e3b85763c0.jpeg",
-        "tags": [
-            "esports cope"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/ejercicio-resistencia-barca-paris-20251119_3255618.html",
-        "date": "2025-11-19 22:05:16",
-        "sentiment_score": -0.07302185893058777
-    },
-    {
-        "title": "Los Mossos interrogan a las hijas y al hermano del Isak Andic",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/18/68f40a78cb1bf.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20251119/11282715/mossos-interrogan-hijas-hermano-isak-andic.html",
-        "date": "2025-11-19 22:04:24",
-        "sentiment_score": -0.2566823549568653
-    },
-    {
-        "title": "“Deja de marcar goles”: las razones detrás del insólito pedido que el Barcelona le hizo a Lewandowski",
-        "image_url": "https://www.infobae.com/resizer/v2/BO7QJ3QLQVDYBILLYARO7QSPGE.JPG?auth=c99286abb546a8046d245fa5b91ca17768915f35221a91116180a98b4839c233&height=925&smart=true&width=1644",
-        "tags": [
-            "bayern múnich",
-            "fc barcelona",
-            "robert lewandowski",
-            "deportes-argentina",
-            "deportes-internacional"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/19/deja-de-marcar-goles-las-razones-detras-del-insolito-pedido-que-el-barcelona-le-hizo-a-lewandowski/",
-        "date": "2025-11-19 21:50:13",
-        "sentiment_score": -0.08046108111739159
-    },
-    {
-        "title": "Ni Manchester United ni Ajax: el gigante europeo que se interesa por el fichaje de Xavi Hernández",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/02/16/culemania/primer-equipo/833176686_15421737_1706x960.jpg",
-        "tags": [
-            "manchester united",
-            "napoles",
-            "barça",
-            "xavi hernández",
-            "culemaníacos"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251119/manchester-united-ajax-gigante-interesa-xavi-hernandez/1003742708920_0.html",
-        "date": "2025-11-19 21:47:55",
-        "sentiment_score": -0.8311011679470539
-    },
-    {
-        "title": "Eros Ramazzotti sorprende con su nuevo disco y desvela con quién “daría lo que fuese” por colaborar",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/11/19/2025111922260921682.jpg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/musica/eros-ramazzotti-sorprende-nuevo-disco-desvela-quien-daria-que-fuese-colaborar/20251119222637575838.html",
-        "date": "2025-11-19 21:26:37",
-        "sentiment_score": 0.7934177126735449
-    },
-    {
-        "title": "Rusia y EE.UU. pactan un nuevo plan de paz para Ucrania",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/19/691e32f45a04e.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20251119/11282673/rusia-ee-uu-pactan-nuevo-plan-paz-ucrania.html",
-        "date": "2025-11-19 21:15:03",
-        "sentiment_score": -0.4491965286433697
-    },
-    {
-        "title": "L’Hospitalet condena el feminicidio de una vecina y decreta 24 horas de luto",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/19/gran-barcelona/1003742708960_15422209_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "l'hospitalet de llobregat",
-            "feminismo",
-            "sucesos",
-            "mossos d'esquadra"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251119/lhospitalet-condena-feminicidio-vecina-decreta-horas-luto/1003742708956_0.html",
-        "date": "2025-11-19 21:04:36",
-        "sentiment_score": -0.7024099100381136
-    },
-    {
-        "title": "El Gran Estadio de Sevilla",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sevilla",
-            "gran",
-            "estadio"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/gran-estadio-sevilla_0_2005269787.html",
-        "date": "2025-11-20 02:06:42",
-        "sentiment_score": -0.10297858715057373
-    },
-    {
-        "title": "A prisión una mujer que ocultó su boda en Madrid por la iglesia y cobró 311.641 euros de pensión de viudedad",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/09/10/imagen-de-archivo-de-una-boda-2139.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.huffingtonpost.es/economia/a-prision-mujer-oculto-boda-madrid-iglesia-cobro-311641-euros-pension-viudedad.html",
-        "date": "2025-11-20 02:00:00",
-        "sentiment_score": -0.29434916377067566
-    },
-    {
-        "title": "Mehmet Demiroglu, director general de TA: \"Nosotros estamos preparados para la firma del Hürjet con España\"",
-        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744020138_260019451_1706x960.jpg",
-        "tags": [
-            "aviación militar",
-            "aviones combate",
-            "airbus",
-            "ejército del aire",
-            "indra",
-            "turquía",
-            "observatorio de la defensa",
-            "defensa - industria"
-        ],
-        "link": "https://www.elespanol.com/observatorio-defensa/20251120/mehmet-demiroglu-director-general-ta-preparados-firma-hurjet-espana/1003744018064_0.html",
-        "date": "2025-11-20 01:35:15",
-        "sentiment_score": 0.6502361670136452
-    },
-    {
-        "title": "El lago que se atrevió a volar",
-        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744021578_260039680_1706x960.jpg",
-        "tags": [
-            "ballet",
-            "danza",
-            "teatro real"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/danza/20251120/lago-atrevio-volar/1003744021577_12.html",
-        "date": "2025-11-20 00:55:00",
-        "sentiment_score": 0.04930877685546875
-    },
-    {
-        "title": "Charles Clifford, el mejor fotógrafo del siglo XIX, regalaba estampas de España a la reina Victoria",
-        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744020795_260027931_1706x960.jpg",
-        "tags": [
-            "museos",
-            "exposiciones",
-            "fotografía",
-            "ec-critica-arte",
-            "arte"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20251120/charles-clifford-mejor-fotografo-siglo-xix-regalaba-estampas-espana-reina-victoria/1003744020596_0.html",
-        "date": "2025-11-20 00:55:00",
-        "sentiment_score": -0.14243318140506744
-    },
-    {
-        "title": "La Comunidad de Madrid exige a Renfe un nuevo convenio para recibir avisos automáticos de incidencias en Cercanías",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2022/12/14/20221214121159481995.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/madrid/cercanias-madrid-problemas-renfe/20251120013746437942.html",
-        "date": "2025-11-20 00:37:46",
-        "sentiment_score": -0.06365932524204254
-    },
-    {
-        "title": "19 NOV 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/19-nov-2025-partidazo-cope-20251120_3255655.html",
-        "date": "2025-11-20 00:36:20",
-        "sentiment_score": 0.2513839602470398
-    },
-    {
-        "title": "¿Por qué el Supremo deja en libertad a Santos Cerdán pese a las revelaciones de la UCO?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/20/2025062022170411215.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.mundiario.com/articulo/politica/que-supremo-deja-libertad-santos-cerdan-pese-revelaciones-uco/20251120010549363777.html",
-        "date": "2025-11-20 00:05:49",
-        "sentiment_score": -0.8020652141422033
-    },
-    {
-        "title": "Thibaut Courtois: \"Para ser recordado como uno de los mejores hace falta ganar trofeos\"",
-        "image_url": "https://www.infobae.com/resizer/v2/P55JZMMKZBETFFE7IRBS4K2ODE.jpg?auth=bc7f92122a6e499a408fd1b1097563f47312e2f5efe60851ffca378531dc04bc&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/20/thibaut-courtois-para-ser-recordado-como-uno-de-los-mejores-hace-falta-ganar-trofeos/",
-        "date": "2025-11-20 00:00:15",
-        "sentiment_score": 0.5405113287270069
-    },
-    {
-        "title": "La dolorosa razón por la que Daniel Muñoz abandonó la concentración de la selección Colombia en Estados Unidos",
-        "image_url": "https://www.infobae.com/resizer/v2/V2M4P47GTVE2BJXFXZKIHPXXNM.JPG?auth=d3ade81167a8cba838db7e754fe78fd064bef6ae666689d07b4a42751cfcf0da&height=2370&smart=true&width=4213",
-        "tags": [
-            "crystal palace",
-            "selección colombia",
-            "fc barcelona",
-            "daniel muñoz medellín",
-            "daniel muñoz sepelio",
-            "daniel muñoz",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/11/19/la-dolorosa-razon-por-la-que-daniel-munoz-abandono-la-concentracion-de-la-seleccion-colombia-en-estados-unidos/",
-        "date": "2025-11-19 23:57:59",
-        "sentiment_score": 0.2752527520060539
-    },
-    {
-        "title": "El franquismo duró un año más",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ano",
-            "duro",
-            "franquismo"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/franquismo-duro-ano_0_2005269860.html",
-        "date": "2025-11-20 02:07:20",
-        "sentiment_score": -0.5446659252047539
-    },
-    {
-        "title": "Neymar en la mira de la Premier League: el fichaje que nadie imaginaba",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/17/2025021706523459258.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/increible-que-parezca-neymar-ojo-premier-league/20251120030423363779.html",
-        "date": "2025-11-20 02:04:23",
-        "sentiment_score": 0.10398930311203003
-    },
-    {
-        "title": "Claudi Alsina, matemático, sobre las 3 claves de la fórmula de la felicidad según Einstein: \"Trabajar, buscar y callar\"",
-        "image_url": "https://s3.elespanol.com/2024/02/22/ciencia/investigacion/834677229_240178187_1706x960.jpg",
-        "tags": [
-            "albert einstein",
-            "ciencia",
-            "matemáticas",
-            "felicidad"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20251120/claudi-alsina-matematico-claves-formula-felicidad-einstein-trabajar-buscar-callar/1003744020578_0.html",
-        "date": "2025-11-20 00:39:00",
-        "sentiment_score": 0.03609009087085724
-    },
-    {
-        "title": "El universo aragonés en torno al hidrógeno: de una 'hidrolinera' a la producción de combustibles sintéticos renovables",
-        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744019743_260014599_1706x960.jpg",
-        "tags": [
-            "hidrógeno",
-            "tecnología",
-            "wake up - sostenibilidad",
-            "hidrógeno verde",
-            "innovación",
-            "aragón",
-            "energía"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/aragon/20251120/universo-aragones-torno-hidrogeno-hidrolinera-produccion-combustibles-sinteticos-renovables/1003744019729_0.html",
-        "date": "2025-11-20 00:34:00",
-        "sentiment_score": 0.7615725751966238
-    },
-    {
         "title": "Cata Coll: \"Soy muy culé, pero aún más antimadridista\"",
         "image_url": "https://static1.ara.cat/clip/12c97313-1ba5-4482-a323-3ac76b96cb07_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -441,43 +73,6 @@ export default [
         "link": "https://www.elnacional.com/2025/11/vives-entre-ladridos-o-maullidos/",
         "date": "2025-11-20 05:15:00",
         "sentiment_score": 0.015390962362289429
-    },
-    {
-        "title": "Un Vigo que arraiga: la nueva temporada en 3x3",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d30eef12-7841-4d97-90fe-71a4c4dbfffa_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "o marisquiño",
-            "baloncesto",
-            "vigo 3x3",
-            "luis guimeráns"
-        ],
-        "link": "https://www.farodevigo.es/deportes/2025/11/20/equipo-femenino-vigo-3x3-inicia-segunda-temporada-liga-de-invierno-123913540.html",
-        "date": "2025-11-20 05:10:36",
-        "sentiment_score": 0.3913319408893585
-    },
-    {
-        "title": "«Google y Meta sí colaboran para frenar los fraudes en la red, pero con la plataforma X no lo conseguimos»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/15b2d79d-b1e1-4bbf-9e3a-8a38763a5ba7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cnmv",
-            "empresas",
-            "finanzas",
-            "galicia",
-            "mercados"
-        ],
-        "link": "https://www.farodevigo.es/economia/2025/11/20/carlos-san-basilio-presidente-cnmv-google-meta-colaboran-frenar-fraudes-internet-x-no-lo-conseguimos-123913062.html",
-        "date": "2025-11-20 05:08:29",
-        "sentiment_score": 0.004246413707733154
-    },
-    {
-        "title": "Del feminismo a las políticas trans: cómo ha cambiado España en los 50 años de la muerte de Franco",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/18/los-periodicos-anuncian-la-muerte-de-francisco-franco-en-noviembre-de-1075.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/del-feminismo-politicas-trans-como-cambiado-espana-50nos-muerte-franco.html",
-        "date": "2025-11-20 05:08:17",
-        "sentiment_score": -0.04086372256278992
     },
     {
         "title": "El rastro de la exaltación de Franco en decenas de lugares, en 'Equipo de investigación'",
@@ -3273,5 +2868,222 @@ export default [
         "link": "https://www.diariodemallorca.es/cultura/2025/11/23/max-dibujante-comics-ilustrador-oficio-124019548.html",
         "date": "2025-11-23 05:01:50",
         "sentiment_score": -0.13717865198850632
+    },
+    {
+        "title": "¿Por qué se la van a llevar así?\": una madre cuenta cómo ICE detuvo a su hijo y se llevó a su nieta |",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/dc/media_thumb-link-4119736.webp?1763798646=",
+        "tags": [
+            "nieta",
+            "madre",
+            "camisaparda",
+            "hijo",
+            "ice",
+            "detuvo",
+            "llevó"
+        ],
+        "link": "https://www.meneame.net/story/van-llevar-asi-madre-cuenta-como-ice-detuvo-hijo-llevo-nieta",
+        "date": "2025-11-22 16:05:03",
+        "sentiment_score": -0.3559970334172249
+    },
+    {
+        "title": "Muere a los 91 años Ornella Vanoni, diva de la música popular italiana",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/dc/media_thumb-link-4119806.webp?1763811666=",
+        "tags": [
+            "cultura",
+            "música",
+            "cantantes",
+            "italia",
+            "ornella vanoni"
+        ],
+        "link": "https://www.meneame.net/story/muere-91-anos-ornella-vanoni-diva-musica-popular-italiana",
+        "date": "2025-11-22 21:35:03",
+        "sentiment_score": -0.8838042011484504
+    },
+    {
+        "title": "Duarte disfraza los males del Atlético en Getafe",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9def0690-9258-43cf-a516-205be66cd3b6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "laliga ea sports",
+            "getafe",
+            "atlético de madrid",
+            "primera división"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2025/11/23/laliga-getafe-atletico-madrid-directo-124036068.html",
+        "date": "2025-11-23 17:00:13",
+        "sentiment_score": -0.8951202481985092
+    },
+    {
+        "title": "Un gol en propia puerta da la victoria al Atlético de Madrid en Getafe",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9def0690-9258-43cf-a516-205be66cd3b6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "atlético de madrid",
+            "primera división",
+            "getafe",
+            "laliga ea sports"
+        ],
+        "link": "https://www.eldia.es/deportes/2025/11/23/laliga-getafe-atletico-madrid-directo-124036056.html",
+        "date": "2025-11-23 17:00:11",
+        "sentiment_score": 0.6462307795882225
+    },
+    {
+        "title": "Juan Carlos Cervera revela todos los secretos de organizar uno de los eventos automotor más grandes de España",
+        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744021591_260039866_1706x960.jpg",
+        "tags": [
+            "camiones",
+            "circuito de madrid jarama",
+            "motor"
+        ],
+        "link": "https://www.elespanol.com/deportes/motor/20251123/juan-carlos-cervera-revela-secretos-organizar-eventos-automotor-grandes-espana/1003744021587_0.html",
+        "date": "2025-11-23 17:00:00",
+        "sentiment_score": 0.12304140627384186
+    },
+    {
+        "title": "El viaducto de carretera más alto de España: casi la misma altura que la Sagrada Familia",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/06/690ccb4b01477.webp",
+        "tags": [
+            "movilidad"
+        ],
+        "link": "https://www.20minutos.es/motor/movilidad/viaducto-montabliz-mas-alto-espana_6734701_0.html",
+        "date": "2025-11-23 17:00:00",
+        "sentiment_score": -0.08465542644262314
+    },
+    {
+        "title": "El Real Madrid confunde al André Silva del Elche con el hermano fallecido de Diogo Jota: \"Lamentamos...\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/11/23/9FFBE4A6-71E7-4365-9B95-D53ED3EAABEE/andre-silva-jugador-elche_98.jpg?crop=607%2C342%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "fútbol",
+            "antena 3 noticias",
+            "deportes"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-confunde-andre-silva-elche-hermano-fallecido-diogo-jota-lamentamos_2025112369233d77df41134465e644d9.html",
+        "date": "2025-11-23 16:59:35",
+        "sentiment_score": -0.8979955120012164
+    },
+    {
+        "title": "La Justicia confirma el desalojo de una madre y sus cuatro hijos, uno con discapacidad, de una vivienda en la que pagaron 600 euros a una persona que dijo ser el propietario",
+        "image_url": "https://www.infobae.com/resizer/v2/PLQXMHDX2RCFHGCLRLXF2SXIDA.jpg?auth=19daccc8a4977b824abc2b7454c39f140dc60bc119f1780d48ce9d45b4d74f9d&height=1080&smart=true&width=1920",
+        "tags": [
+            "desahucios",
+            "vivienda",
+            "vivienda españa",
+            "juicios",
+            "tribunales españa",
+            "españa-nacional",
+            "españa-noticias",
+            "justicia",
+            "sentencias",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/23/la-justicia-confirma-el-desalojo-de-una-madre-y-sus-cuatro-hijos-uno-con-discapacidad-de-una-vivienda-en-la-que-pagaron-600-euros-a-una-persona-que-dijo-ser-el-propietario/",
+        "date": "2025-11-23 16:58:49",
+        "sentiment_score": -0.7094727214425802
+    },
+    {
+        "title": "El Real Madrid se ve obligado a pedir perdón al Elche C.F. tras equivocarse en la foto de un obituario",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/23/logo-del-real-madrid.jpeg",
+        "tags": [
+            "deporte"
+        ],
+        "link": "https://www.huffingtonpost.es/deporte/el-real-madrid-ve-obligado-pedir-perdon-elche-cf-equivocarse-foto-obituario.html",
+        "date": "2025-11-23 16:58:23",
+        "sentiment_score": -0.669234711676836
+    },
+    {
+        "title": "Los retrasos sitúan la mejora del Ave gallego a Portugal más allá de 2035 y dejan en el aire el tramo de Cerdedo",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/11/23/2025112317483352714.jpg",
+        "tags": [
+            "pontevedra"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/pontevedra/retrasos-situan-mejora-ave-gallego-portugal-mas-alla-2035-dejan-aire-tramo-cerdedo/202511231750231419529.html",
+        "date": "2025-11-23 16:50:23",
+        "sentiment_score": -0.858345203101635
+    },
+    {
+        "title": "Los goles y su celebración",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/11/23/montoGol-koWF-U2403269973480pC-758x531@El%20Norte.jpg",
+        "tags": [
+            "pelé",
+            "fútbol",
+            "real valladolid club de fútbol"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/goles-celebracion-20251123174253-nt.html",
+        "date": "2025-11-23 16:49:05",
+        "sentiment_score": 0.6652541160583496
+    },
+    {
+        "title": "Conoce a Karen Saurí, la productora barcelonesa que ha trabajado con artistas como Rosalía o Dua Lipa",
+        "image_url": "https://www.hola.com/horizon/landscape/4bdab6aecd24-020720250033.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "dua lipa",
+            "musica",
+            "actualidad",
+            "rosalia"
+        ],
+        "link": "https://www.hola.com/actualidad/20251123867973/karen-sauri-la-productora-motomami-world-tour-rosalia/",
+        "date": "2025-11-23 17:03:44",
+        "sentiment_score": 0.752320921048522
+    },
+    {
+        "title": "Circula el primer tren por las nuevas vías de ancho internacional de Castellbisbal",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3f5b78e5-ee50-468e-babd-182411d0e085_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "renfe",
+            "adif",
+            "óscar puente santiago",
+            "corredor mediterráneo"
+        ],
+        "link": "https://www.elperiodico.com/es/trafico-y-transportes/20251123/circula-primer-tren-nuevas-vias-124037791",
+        "date": "2025-11-23 17:01:06",
+        "sentiment_score": 0.06524874269962311
+    },
+    {
+        "title": "Un inglés pregunta esto sobre España y la respuesta lo dice todo: «Se hizo el silencio»",
+        "image_url": "https://okdiario.com/img/2025/11/23/un-ingles-pregunta-esto-sobre-espana-y-la-respuesta-lo-dice-todo-se-hizo-el-silencio-.jpg",
+        "tags": [
+            "viral",
+            "españa",
+            "okd",
+            "curiosidades"
+        ],
+        "link": "https://okdiario.com/curiosidades/ingles-pregunta-esto-sobre-espana-respuesta-lo-dice-todo-hizo-silencio-15812910",
+        "date": "2025-11-23 17:00:02",
+        "sentiment_score": -0.3776926323771477
+    },
+    {
+        "title": "Unos 200 activistas se concentran ante la comisaría de la Via Laietana de Barcelona por su",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/23/el-pulso-de-la-ciudad/1003742710029_15437003_1706x960.jpg",
+        "tags": [
+            "ciutat vella",
+            "el pulso de la ciudad",
+            "manifestaciones",
+            "policía"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20251123/activistas-concentran-comisaria-via-laietana-barcelona/1003742710028_0.html",
+        "date": "2025-11-23 16:56:36",
+        "sentiment_score": -0.3800317049026489
+    },
+    {
+        "title": "Operación contra el top manta en Santa Coloma de Gramanet (Barcelona): intervenidos más de 1.300 euros en tabaco falsificado",
+        "image_url": "https://gaceta.es/wp-content/uploads/2024/08/mossos-0-1.jpg",
+        "tags": [
+            "españa",
+            "cataluña",
+            "tabaco"
+        ],
+        "link": "https://gaceta.es/espana/operacion-contra-el-top-manta-en-santa-coloma-de-gramanet-barcelona-intervenidos-mas-de-1-300-euros-en-tabaco-falsificado-20251123-1739/",
+        "date": "2025-11-23 16:39:23",
+        "sentiment_score": -0.11969121918082237
+    },
+    {
+        "title": "La Talentour de KPMG llega a Cataluña para captar el mejor talento universitario",
+        "image_url": "https://okdiario.com/img/2025/06/21/kpmg-afirma-que-la-regulacion-europea-interior.jpg",
+        "tags": [
+            "empresas",
+            "economía",
+            "kpmg"
+        ],
+        "link": "https://okdiario.com/economia/talentour-kpmg-llega-cataluna-captar-mejor-talento-universitario-15813709",
+        "date": "2025-11-23 16:37:08",
+        "sentiment_score": 0.4492153227329254
     }
 ];
