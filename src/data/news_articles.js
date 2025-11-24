@@ -1,219 +1,5 @@
 export default [
     {
-        "title": "Las estatuas del Maestro Mateo volverán a Santiago el 11 de diciembre tras décadas en el Pazo de Meirás en poder de la familia Franco",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/20/691f43838b520.r_d.961-478-2240.jpeg",
-        "tags": [
-            "santiago"
-        ],
-        "link": "https://www.cope.es/emisoras/galicia/a-coruna-provincia/santiago/noticias/estatuas-maestro-mateo-volveran-santiago-11-diciembre-decadas-pazo-meiras-familia-franco-20251120_3256388.html",
-        "date": "2025-11-20 17:11:00",
-        "sentiment_score": -0.1257251501083374
-    },
-    {
-        "title": "Sonae Sierra publica el libro 'Mi viento interior' en beneficio de la Fundación Aladina para apoyar a menores con cáncer",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251120180451_690.jpg",
-        "tags": [
-            "ep social",
-            "responsables"
-        ],
-        "link": "https://www.europapress.es/epsocial/responsables/noticia-sonae-sierra-publica-libro-viento-interior-beneficio-fundacion-aladina-apoyar-menores-cancer-20251120180451.html",
-        "date": "2025-11-20 17:04:51",
-        "sentiment_score": 0.6280480399727821
-    },
-    {
-        "title": "Eder Maestre reconoce que al Costa Adeje le pesa la \"losa emocional\" de no haber ganado en casa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f9f70f2-c2e2-43fe-b9e3-049b38258200_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "costa adeje tenerife",
-            "costa adeje tenerife egatesa",
-            "cd tenerife femenino",
-            "atlético de madrid",
-            "liga f",
-            "eder maestre",
-            "estadio heliodoro rodríguez lópez"
-        ],
-        "link": "https://www.eldia.es/deportes/ud-tenerife/2025/11/20/eder-maestre-losa-emocional-tenerife-femenino-123946303.html",
-        "date": "2025-11-20 17:01:44",
-        "sentiment_score": -0.2117203325033188
-    },
-    {
-        "title": "AMP-El Rey conmemorará los 50 años de monarquía sin la presencia del emérito y con boicot de Vox y los socios de Sánchez",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251120173438.jpg?fit=1920%2C1440&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/amp-el-rey-conmemorar-los-50-aos-de-monarqua-sin-la-presencia-del-emrito-y-con-boicot-de-vox-y-los-socios-de-snchez/",
-        "date": "2025-11-20 17:00:12",
-        "sentiment_score": -0.004568636417388916
-    },
-    {
-        "title": "Ayuso, tras la condena al fiscal general: «En ese banquillo, según Sánchez, se sentaba él mismo»",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251120174502.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/ayuso-tras-la-condena-al-fiscal-general-en-ese-banquillo-segn-snchez-se-sentaba-l-mismo/",
-        "date": "2025-11-20 17:00:05",
-        "sentiment_score": -0.338843010365963
-    },
-    {
-        "title": "Ganar en Eibar sería \"un paso adelante muy grande\" para Rubén Sellés",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/11/12/2025111213394185198.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/ganar-eibar-seria-paso-adelante-muy-grande-ruben-selles/20251120175946953592.html",
-        "date": "2025-11-20 16:59:46",
-        "sentiment_score": 0.6354641579091549
-    },
-    {
-        "title": "Aterriza en Zaragoza el espectáculo de luces que triunfa en Madrid: más de 50 figuras y entradas desde 15 euros",
-        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744022925_260056530_1706x960.jpg",
-        "tags": [
-            "ayuntamiento de zaragoza",
-            "luces de navidad",
-            "navidad",
-            "zaragoza"
-        ],
-        "link": "https://www.elespanol.com/aragon/actualidad/zaragoza/20251120/aterriza-zaragoza-espectaculo-luces-triunfa-madrid-figuras-entradas-euros/1003744022785_0.html",
-        "date": "2025-11-20 16:57:51",
-        "sentiment_score": 0.5368306450545788
-    },
-    {
-        "title": "El Instituto Ramón y Cajal de Investigación Sanitaria y SID impulsan la investigación biomédica",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251120175428_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-empresas-instituto-ramon-cajal-investigacion-sanitaria-sid-impulsan-investigacion-biomedica-20251120175428.html",
-        "date": "2025-11-20 16:54:28",
-        "sentiment_score": 0.47992606088519096
-    },
-    {
-        "title": "A pesar de calendario favorable en Liga Premier, peligra defensa del título del Liverpool",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-20-a-las-12.52.32-p.-m.webp",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://lacalle.com.ve/a-pesar-de-calendario-favorable-en-liga-premier-peligra-defensa-del-titulo-del-liverpool/",
-        "date": "2025-11-20 16:54:03",
-        "sentiment_score": 0.6555512771010399
-    },
-    {
-        "title": "El progreso en investigación del cáncer de páncreas permite que sea \"uno de los tumores mejor conocidos\" molecularmente",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251120175314_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "investigación"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-progreso-investigacion-cancer-pancreas-permite-sea-tumores-mejor-conocidos-molecularmente-20251120175314.html",
-        "date": "2025-11-20 16:53:14",
-        "sentiment_score": 0.06336018443107605
-    },
-    {
-        "title": "Compromís califica la condena a García Ortiz como la muestra de que «el franquismo vive» y llama a una «respuesta antifascista» sin precedentes",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/20/691f498c3dc67.r_d.1040-453-8009.jpeg",
-        "tags": [
-            "c. valenciana"
-        ],
-        "link": "https://www.eldebate.com/espana/comunidad-valenciana/20251120/compromis-asegura-condena-garcia-ortiz-muestra-franquismo-vive-llama-respuesta-antifascista-precedentes_357363.html",
-        "date": "2025-11-20 17:10:38",
-        "sentiment_score": -0.8630558904260397
-    },
-    {
-        "title": "EFPA España reivindica el asesoramiento financiero en su 25o aniversario ante «fragilidad» de las pensiones",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/11/fotonoticia_20251120173555_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/831904/efpa-espana-reivindica-el-asesoramiento-financiero-en-su-25o-aniversario-ante-fragilidad-de-las-pensiones/",
-        "date": "2025-11-20 17:10:30",
-        "sentiment_score": -0.1486673504114151
-    },
-    {
-        "title": "Collboni pone a prueba sus Presupuestos en el pleno de este viernes, con la mirada puesta en BComú",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251120180822_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-collboni-pone-prueba-presupuestos-pleno-viernes-mirada-puesta-bcomu-20251120180822.html",
-        "date": "2025-11-20 17:08:22",
-        "sentiment_score": 0.3797594867646694
-    },
-    {
-        "title": "El Tranvía Azul volverá a circular por Barcelona más de cinco años después",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/11/20/046706C4-4EB0-4DDC-B0C1-3B81227986AE/69.jpg?crop=5393%2C3034%2Cx0%2Cy283&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/tranvia-azul-volvera-circular-barcelona-mas-cinco-anos-despues_20251120691f4a96360d0840bced13f0.html",
-        "date": "2025-11-20 17:06:30",
-        "sentiment_score": 0.4408809058368206
-    },
-    {
-        "title": "Mayor Oreja y María San Gil homenajearán en Barcelona a las víctimas del terrorismo, «olvidadas» por Sánchez",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/09/20/66edb4472ca38.r_d.616-304-8922.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20251120/mayor-oreja-maria-san-gil-homenajearan-barcelona-victimas-terrorismo-olvidadas-sanchez_357190.html",
-        "date": "2025-11-20 17:05:51",
-        "sentiment_score": -0.39535805583000183
-    },
-    {
-        "title": "Claudia, empleada del hogar colombiana en España: \"Me pagan 8€ la hora y limpio una casa en 3 horas cada 15 días\"",
-        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744021407_260036960_1706x960.jpg",
-        "tags": [
-            "salarios",
-            "trabajadores",
-            "sociedad",
-            "servicios de limpieza",
-            "soft"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251120/claudia-empleada-hogar-colombiana-espana-pagan-hora-limpio-casa-horas-dias/1003744021138_0.html",
-        "date": "2025-11-20 17:03:35",
-        "sentiment_score": -0.6509135514497757
-    },
-    {
-        "title": "La Huesca de 1975: De los periódicos a 7 pesetas a las sesiones de cine en el Odeón",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/11/20/copia-de-gif-plantilla.gif",
-        "tags": [
-            "huesca"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/huesca/2025/11/20/la-huesca-de-1975-de-los-periodicos-a-7-pesetas-al-cine-en-el-odeon-1871881-daa.html",
-        "date": "2025-11-20 17:03:24",
-        "sentiment_score": -0.13524824380874634
-    },
-    {
-        "title": "La baronesa Thyssen visita su futuro museo en el antiguo cine Comèdia de Barcelona: “Siempre venía aquí de pequeña”",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/20/actualidad/1003742709300_15427587_1706x960.jpg",
-        "tags": [
-            "paseo de gràcia",
-            "museos",
-            "eixample",
-            "cines barcelona",
-            "famosos barcelona",
-            "cine",
-            "arte barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/eixample/20251120/baronesa-thyssen-visita-futuro-museo-antiguo-cine-comedia-barcelona-siempre-venia-pequena/1003742709160_0.html",
-        "date": "2025-11-20 17:02:53",
-        "sentiment_score": 0.7141573764383793
-    },
-    {
-        "title": "Feijóo pide la dimisión de Sánchez por usar a García Ortiz como un «peón» contra Ayuso",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/06/12/684b11ce00bec.r_d.463-593.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20251120/feijoo-pide-dimision-sanchez-usar-garcia-ortiz-como-peon-contra-ayuso_357360.html",
-        "date": "2025-11-20 17:01:57",
-        "sentiment_score": -0.8835575161501765
-    },
-    {
         "title": "El Real Madrid sobrevive a un partido loco y corta ante el Zalgiris Kaunas su mala racha en la Euroliga",
         "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744023331_260062019_1706x960.jpg",
         "tags": [
@@ -3337,5 +3123,192 @@ export default [
         "link": "https://www.chicagotribune.com/2025/11/23/racha-de-real-madrid-sin-ganar-crece-con-empate-2-2-ante-elche-bellingham-los-salva-con-gol-tardo/",
         "date": "2025-11-23 23:25:54",
         "sentiment_score": 0.1632743775844574
+    },
+    {
+        "title": "Infartos silenciosos: la mitad de los pacientes en riesgo no son detectados",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251124073949_690.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-infartos-silenciosos-mitad-pacientes-riesgo-no-son-detectados-20251124073949.html",
+        "date": "2025-11-24 06:39:49",
+        "sentiment_score": -0.5807087328284979
+    },
+    {
+        "title": "La Cartuja de Sevilla pasa de estadio \"al borde de la ruina\" a consolidarse como escenario principal de grandes eventos",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744024513_260079456_1706x960.jpg",
+        "tags": [
+            "economía",
+            "audiencias television",
+            "sevilla (municipio)",
+            "sevilla",
+            "copa del rey de fútbol",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/sevilla/20251124/cartuja-sevilla-pasa-estadio-borde-ruina-consolidarse-escenario-principal-grandes-eventos/1003744022782_0.html",
+        "date": "2025-11-24 06:20:57",
+        "sentiment_score": 0.16334765776991844
+    },
+    {
+        "title": "El caso Villar, el precedente que allana el camino a la inhabilitación de Tebas",
+        "image_url": "https://www.elplural.com/uploads/s1/21/04/92/2/diseno-sin-titulo-1_7_480x270.jpeg",
+        "tags": [
+            "el regate"
+        ],
+        "link": "https://www.elplural.com/el-regate/caso-villar-precedente-allana-camino-inhabilitacion-tebas_365778102",
+        "date": "2025-11-24 06:17:06",
+        "sentiment_score": -0.246765598654747
+    },
+    {
+        "title": "La revolución inmersiva sin gafas VR se abre paso en museos, galerías y espacios expositivos audiovisuales en Europa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fdc71fe6-e90f-42d9-a4ea-7e53d024eeb6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "exposiciones",
+            "+ digital",
+            "tendencias",
+            "patrimonio"
+        ],
+        "link": "https://www.elperiodico.com/es/tendencias-21/20251124/revolucion-inmersiva-gafas-vr-abre-124048089",
+        "date": "2025-11-24 06:07:09",
+        "sentiment_score": -0.11208271980285645
+    },
+    {
+        "title": "La única derrota liguera a domicilio del Real Valladolid ante el filial de la Real Sociedad data de 1970",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/11/23/Plata-RealSociedadB-k29H--758x531@El%20Norte.jpg",
+        "tags": [
+            "ante",
+            "unica",
+            "sociedad",
+            "1970",
+            "real",
+            "liguera",
+            "filial",
+            "valladolid",
+            "data",
+            "derrota",
+            "domicilio"
+        ],
+        "link": "https://www.elnortedecastilla.es/realvalladolid/unica-derrota-liguera-domicilio-real-valladolid-ante-20251124070027-nt.html",
+        "date": "2025-11-24 06:00:28",
+        "sentiment_score": -0.36565934121608734
+    },
+    {
+        "title": "Todos al fútbol",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/de94669b-0e2e-40fe-ade8-5006a1918911_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "sevilla",
+            "primera división"
+        ],
+        "link": "https://www.laopiniondemalaga.es/marbella/2025/11/24/historia-torneo-futbol-marbella-124035864.html",
+        "date": "2025-11-24 06:00:05",
+        "sentiment_score": -0.11347156763076782
+    },
+    {
+        "title": "La maquilladora vallisoletana que triunfa en la serie de los Javis: “A Madrid llegué con una mano delante y otra detrás”",
+        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744019878_260016430_1706x960.jpg",
+        "tags": [
+            "valladolid",
+            "series",
+            "maquillaje",
+            "valladolid (provincia)",
+            "televisión",
+            "olmedo",
+            "sociedad castilla y león"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20251124/maquilladora-vallisoletana-triunfa-serie-javis-madrid-llegue-mano-delante-detras/1003744019850_0.html",
+        "date": "2025-11-24 06:00:00",
+        "sentiment_score": 0.5649929940700531
+    },
+    {
+        "title": "La pregunta que se hace Juanma Castaño tras escuchar el duro discurso de Florentino Pérez: \"¿No convendría...?\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/24/6923a11a16bf2.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/pregunta-juanma-castano-escuchar-duro-discurso-florentino-perez-convendria-20251124_3257735.html",
+        "date": "2025-11-24 05:47:15",
+        "sentiment_score": -0.1299940049648285
+    },
+    {
+        "title": "Cuando Sevilla fue capital de España",
+        "image_url": "https://static.grupojoly.com/clip/52a9fd72-69e3-422b-8841-0091fee5a806_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/sevilla/sevilla-capital-espana_0_2005292003.html",
+        "date": "2025-11-24 05:20:06",
+        "sentiment_score": -0.11658737063407898
+    },
+    {
+        "title": "Las nuevas cuentas del Real Madrid: ingresos récord, pero también una deuda financiera sin precedentes",
+        "image_url": "https://images.theconversation.com/files/703426/original/file-20251119-76-b0tfbf.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&w=754",
+        "tags": [
+            "estrategia empresarial",
+            "real madrid",
+            "cuenta de resultados",
+            "estadios",
+            "fútbol",
+            "endeudamiento",
+            "contabilidad",
+            "indicadores de gestión",
+            "club fútbol"
+        ],
+        "link": "https://theconversation.com/las-nuevas-cuentas-del-real-madrid-ingresos-record-pero-tambien-una-deuda-financiera-sin-precedentes-270045",
+        "date": "2025-11-24 05:05:16",
+        "sentiment_score": 0.13449209928512573
+    },
+    {
+        "title": "Lo que debes saber hoy, 24 de noviembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/02/12/recomendados/923667654_14104913_1706x960.jpg",
+        "tags": [
+            "metro barcelona",
+            "transports metropolitans barcelona tmb",
+            "renfe barcelona",
+            "tráfico",
+            "autobús",
+            "movilidad",
+            "clima",
+            "aemet (agencia estatal de meteorología)",
+            "el tiempo",
+            "transporte"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251124/debes-saber-hoy-noviembre-barcelona/1003742710080_0.html",
+        "date": "2025-11-24 06:37:02",
+        "sentiment_score": 0.2789826914668083
+    },
+    {
+        "title": "Comienza el juicio contra los Pujol: Herrera te cuenta todos los detalles",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2024/07/15/6694ebeb006f0.jpeg",
+        "tags": [
+            "herrera en cope"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/noticias/comienza-juicio-pujol-carlos-herrera-te-cuenta-todos-detalles-acusaciones-expresidente-catalan-familia-20251124_3257755.html",
+        "date": "2025-11-24 06:30:54",
+        "sentiment_score": -0.15850511193275452
+    },
+    {
+        "title": "El juicio al clan Pujol por corrupción fiscaliza una era en Cataluña",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/11/24/1489327417-k1WC-U240328472298moG-1200x840@RC.jpg",
+        "tags": [
+            "jordi pujol",
+            "generalitat de cataluña"
+        ],
+        "link": "https://www.eldiariomontanes.es/nacional/juicio-clan-pujol-corrupcion-fiscaliza-era-cataluna-20251124072931-ntrc.html",
+        "date": "2025-11-24 06:29:32",
+        "sentiment_score": -0.47924476116895676
+    },
+    {
+        "title": "El consumo de platos preparados sigue disparado en 2025 y suma otro aumento del 5,8%",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/928d3c5c-d160-46ee-8c1c-9e4dc65e1164_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "consumo",
+            "dietas",
+            "alimentación"
+        ],
+        "link": "https://www.laprovincia.es/economia/2025/11/24/consumo-platos-preparados-disparado-espana-dieta-mediterranea-124047553.html",
+        "date": "2025-11-24 06:21:24",
+        "sentiment_score": 0.06074151396751404
     }
 ];
