@@ -1,201 +1,5 @@
 export default [
     {
-        "title": "Cata Coll: \"Soy muy culé, pero aún más antimadridista\"",
-        "image_url": "https://static1.ara.cat/clip/12c97313-1ba5-4482-a323-3ac76b96cb07_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "antimadridista",
-            "coll",
-            "cule",
-            "cata"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/cata-coll-cule-antimadridista_128_5567459.html",
-        "date": "2025-11-20 06:01:01",
-        "sentiment_score": -0.1775420904159546
-    },
-    {
-        "title": "Juanma Castaño, director de El Partidazo de COPE, sobre la petición del Barça a Lewandowski de no marcar más goles: \"Va en contra del deporte\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/19/691e499a3c48a.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-director-partidazo-cope-sobre-peticion-barca-lewandowski-marcar-goles-deporte-20251120_3255632.html",
-        "date": "2025-11-20 06:00:00",
-        "sentiment_score": -0.1314886212348938
-    },
-    {
-        "title": "La desconocida colección que Felipe VI exploró y que guarda secretos de siglos",
-        "image_url": "https://www.elconfidencialdigital.com/media/monarquiaconfidencial/images/2025/11/19/2025111921083441810.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elconfidencialdigital.com/monarquia/articulo/espana/desconocida-coleccion-que-felipe-vi-exploro-que-guarda-secretos-siglos/20251120070000146701.html",
-        "date": "2025-11-20 06:00:00",
-        "sentiment_score": 0.35112670809030533
-    },
-    {
-        "title": "'Expediente Vallecas': la manipulación detrás del caso paranormal",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/17/691b495e825e6.jpeg",
-        "tags": [
-            "series"
-        ],
-        "link": "https://www.20minutos.es/cinemania/series/expediente-vallecas-caso-paranormal-manipulacion-trauma-veronica_6898972_0.html",
-        "date": "2025-11-20 06:00:00",
-        "sentiment_score": 0.2758060619235039
-    },
-    {
-        "title": "Más presión para la torre de Chipperfield: envían a Puertos del Estado y Transportes un documento de 80 páginas con expertos en contra",
-        "image_url": "https://static.grupojoly.com/clip/15111bf3-ee8c-4a79-8f96-be070aa225ad_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga",
-            "puerto de málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/presion-torre-chipperfield-envian-puertos_0_2005267146.html",
-        "date": "2025-11-20 05:59:54",
-        "sentiment_score": -0.07835683226585388
-    },
-    {
-        "title": "Claudia Tecglen presenta su fundación con la misión de 'quitar poder a la discapacidad'",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/19/691de5f712db28-84487060.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/capaces/claudia-tecglen-presenta-su-fundacion-con-mision-quitar-poder-discapacidad_6900083_0.html",
-        "date": "2025-11-20 05:56:56",
-        "sentiment_score": 0.01593901962041855
-    },
-    {
-        "title": "¿Vives entre ladridos o maullidos?",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/19163904/Captura-de-pantalla-2025-11-19-163633.png",
-        "tags": [
-            "opinión",
-            "columnistas"
-        ],
-        "link": "https://www.elnacional.com/2025/11/vives-entre-ladridos-o-maullidos/",
-        "date": "2025-11-20 05:15:00",
-        "sentiment_score": 0.015390962362289429
-    },
-    {
-        "title": "El rastro de la exaltación de Franco en decenas de lugares, en 'Equipo de investigación'",
-        "image_url": "https://static.grupojoly.com/clip/0faf5f93-0fcd-447a-9f0c-a081acb940d8_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "exaltacion",
-            "lugares",
-            "franco",
-            "rastro",
-            "decenas"
-        ],
-        "link": "https://www.malagahoy.es/television/rastro-exaltacion-franco-decenas-lugares_0_2005270112.html",
-        "date": "2025-11-20 06:37:08",
-        "sentiment_score": 0.09643198549747467
-    },
-    {
-        "title": "La contundente respuesta de Rosanna Zanetti cuando le preguntan si participaría con David Bisbal en 'La isla de las tentaciones': \"Eso de poner a prueba el amor...\"",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/files/fp/uploads/2025/11/20/691eb5b137d71.r_d.1174-529-0.jpeg",
-        "tags": [
-            "trending topic"
-        ],
-        "link": "https://www.cadena100.es/trending-topic/noticias/contundente-respuesta-rosanna-zanetti-le-preguntan-participaria-david-bisbal-isla-tentaciones-poner-prueba-amor-20251120_142411.html",
-        "date": "2025-11-20 06:36:16",
-        "sentiment_score": 0.058680444955825806
-    },
-    {
-        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades de España este 20 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "gasolina",
-            "noticias",
-            "precio gasolina",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/20/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-de-espana-este-20-de-noviembre/",
-        "date": "2025-11-20 06:31:18",
-        "sentiment_score": -0.06122169271111488
-    },
-    {
-        "title": "Xavi, emprendedor en España: \"Abrir una cafetería cuesta unos 30.000 € y con sólo 20 sillas puedes ganar 15.000 € al mes\"",
-        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744020278_260021294_1706x960.jpg",
-        "tags": [
-            "cafeterías",
-            "actualidad gastronómica",
-            "empresas",
-            "café"
-        ],
-        "link": "https://www.elespanol.com/cocinillas/actualidad-gastronomica/20251120/xavi-emprendedor-espana-abrir-cafeteria-cuesta-eur-solo-sillas-puedes-ganar-mes/1003744020029_0.html",
-        "date": "2025-11-20 06:30:04",
-        "sentiment_score": 0.02362838387489319
-    },
-    {
-        "title": "Lo que debes saber hoy, 20 de noviembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/10/30/el-pols-de-la-ciutat/897420449_13653804_1706x960.jpg",
-        "tags": [
-            "aemet (agencia estatal de meteorología)",
-            "transports metropolitans barcelona tmb",
-            "tráfico",
-            "autobús",
-            "renfe barcelona",
-            "clima",
-            "metro barcelona",
-            "movilidad",
-            "el tiempo",
-            "transporte"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/viure-a-barcelona/20251120/debes-saber-hoy-noviembre-barcelona/1003742708976_0.html",
-        "date": "2025-11-20 06:29:49",
-        "sentiment_score": -0.9207967408001423
-    },
-    {
-        "title": "Plaga de cierres de restaurantes en Barcelona: ¿una burbuja culinaria que amenaza con estallar?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ef8500a2-5497-44be-b683-fac5f76282df_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "restaurantes barcelona",
-            "restaurante",
-            "barcelona",
-            "gastronomía"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251120/restaurantes-cerrados-barcelona-burbuja-culinaria-amenaza-estallar-123855807",
-        "date": "2025-11-20 06:20:02",
-        "sentiment_score": -0.16059739887714386
-    },
-    {
-        "title": "Finorri: cocina clásica contemporánea excelsa en el hotel que visitaron Dalí y García Lorca",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/45b6725b-efd3-4991-8c5f-cda3612902aa_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gastronomía",
-            "restaurantes barcelona",
-            "restaurante",
-            "barcelona",
-            "dónde comer hoy",
-            "hoteles"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251120/finorre-restaurante-barcelona-cocina-catalana-123827302",
-        "date": "2025-11-20 06:19:16",
-        "sentiment_score": -0.3797849118709564
-    },
-    {
-        "title": "¿Qué se come en los Abruzos? 12 restaurantes de Barcelona te descubren platos de esta región italiana",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0103c63-94e3-4c6d-92dc-44a685faec04_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gastronomía",
-            "restaurantes barcelona",
-            "restaurante",
-            "barcelona",
-            "dónde comer hoy"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251120/platos-region-abruzos-restaurantes-barcelona-123807206",
-        "date": "2025-11-20 06:18:26",
-        "sentiment_score": 0.5009175315499306
-    },
-    {
-        "title": "Lo más fácil",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0d40b2d1-d24f-4d03-bda1-36daaaa0970d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "facil"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/opinion/2025/11/20/facil-10374987.html",
-        "date": "2025-11-20 06:16:33",
-        "sentiment_score": -0.3460644781589508
-    },
-    {
         "title": "Las estatuas del Maestro Mateo volverán a Santiago el 11 de diciembre tras décadas en el Pazo de Meirás en poder de la familia Franco",
         "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/20/691f43838b520.r_d.961-478-2240.jpeg",
         "tags": [
@@ -3085,5 +2889,232 @@ export default [
         "link": "https://okdiario.com/economia/talentour-kpmg-llega-cataluna-captar-mejor-talento-universitario-15813709",
         "date": "2025-11-23 16:37:08",
         "sentiment_score": 0.4492153227329254
+    },
+    {
+        "title": "Real Madrid sufrió para rescatar un empate ante el Elche y se apretó la pelea por la cima en LaLiga",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Real-Madrid-vs-Elche.jpg",
+        "tags": [
+            "futbol",
+            "laliga",
+            "titulares",
+            "deportes",
+            "españa",
+            "lucy welcher",
+            "real madrid cf"
+        ],
+        "link": "https://lapatilla.com/2025/11/23/real-madrid-sufrio-para-rescatar-un-empate-ante-el-elche-y-se-apreto-la-pelea-por-la-cima-en-laliga/",
+        "date": "2025-11-23 22:18:01",
+        "sentiment_score": -0.9478905899450183
+    },
+    {
+        "title": "Comprueba los resultados del Quinigol del 23 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterias",
+            "quinigol",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/23/comprueba-los-resultados-del-quinigol-del-23-de-noviembre/",
+        "date": "2025-11-23 22:17:02",
+        "sentiment_score": 0.17342039942741394
+    },
+    {
+        "title": "El Elche arranca un empate ante un Madrid a remolque",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/0fa5ac2a-fa77-48da-87eb138cddc0f7fc.jpg",
+        "tags": [
+            "real madrid",
+            "vinícius júnior",
+            "kylian mbappé",
+            "eduardo camavinga",
+            "xabi alonso",
+            "rafa mir",
+            "jude bellingham",
+            "álvaro rodríguez",
+            "elche cf",
+            "rodrygo goes",
+            "thibaut courtois"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z71d5cabe-8759-4995-83aee4593b2f86af/202511/el-elche-arranca-un-empate-ante-un-madrid-a-remolque",
+        "date": "2025-11-23 22:16:27",
+        "sentiment_score": -0.5605289340019226
+    },
+    {
+        "title": "La selección española femenina se concentra este lunes para la final de la Liga de Naciones",
+        "image_url": "https://www.infobae.com/resizer/v2/EY6IAYVPGNFJ5JCA2NMEUGP5PA.jpg?auth=6d48138c9b14744077d6f62f02d529773091083b3592d8908835382f6c16902a&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/23/la-seleccion-espanola-femenina-se-concentra-este-lunes-para-la-final-de-la-liga-de-naciones/",
+        "date": "2025-11-23 22:15:16",
+        "sentiment_score": 0.16855495050549507
+    },
+    {
+        "title": "El Madrid agudiza sus problemas en Elche",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/11/23/Clipboard-0146-kvFB-U240328751638axB-1200x840@RC.jpg",
+        "tags": [
+            "real madrid",
+            "vinícius",
+            "xabi alonso",
+            "kylian mbappé"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/madrid-agudiza-problemas-elche-20251123231014-ntrc.html",
+        "date": "2025-11-23 22:11:36",
+        "sentiment_score": 0.4884217828512192
+    },
+    {
+        "title": "Cómo la reforma del Real Madrid refuerza el poder de Florentino Pérez",
+        "image_url": "https://www.elboletin.com/wp-content/uploads/2021/04/EuropaPress_3287541_25_august_2020_switzerland_nyon_real_madrid_president_florentino_perez.jpg",
+        "tags": [
+            "reforma estatutaria",
+            "florentino perez",
+            "asamblea",
+            "socios",
+            "modelo institucional",
+            "real madrid",
+            "capital privado",
+            "gobernanza",
+            "contraportada"
+        ],
+        "link": "https://www.elboletin.com/como-la-reforma-del-real-madrid-refuerza-el-poder-de-florentino-perez/",
+        "date": "2025-11-23 22:10:54",
+        "sentiment_score": 0.204064279794693
+    },
+    {
+        "title": "El Barça suma la primera con Pascual en Gran Canaria",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/9d8e0c49-ca4b-4f09-abd3c1d2a8fb2a1e.jpg",
+        "tags": [
+            "fc barcelona",
+            "andorra",
+            "ricky rubio",
+            "euroliga",
+            "xavi pascual",
+            "copa del rey",
+            "morabanc andorra",
+            "casademont zaragoza",
+            "anadolu efes",
+            "baskonia",
+            "liga endesa",
+            "bàsquet girona",
+            "real madrid",
+            "liga acb",
+            "gran canaria",
+            "valencia basket",
+            "joventut"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z6c41ad68-2ead-4686-8f65006992316e37/202511/el-barca-suma-la-primera-con-pascual-en-gran-canaria",
+        "date": "2025-11-23 22:08:08",
+        "sentiment_score": 0.14364974200725555
+    },
+    {
+        "title": "El Elche retrata la vulgaridad del Real Madrid de Xabi",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f14fbaf8-bc70-4a4a-ae82-1110d27b7837_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "laliga",
+            "elche",
+            "real madrid"
+        ],
+        "link": "https://www.laprovincia.es/deportes/2025/11/23/elche-real-madrid-resumen-resultado-laliga-futbol-124043613.html",
+        "date": "2025-11-23 22:06:50",
+        "sentiment_score": -0.41852840781211853
+    },
+    {
+        "title": "LaLiga EA Sports 25 – 26 | El Espanyol, que duerme sexto, igualará a puntos al 5o, el Betis, si gana este lunes al Sevilla",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/laliga-ea-sports-25-26-jornada-13-domingo-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lagradaonline.com/laliga-jornada-13-previa-claves-resultados-clasificacion-partidos-espanyol-sevilla-domingo/",
+        "date": "2025-11-23 22:05:03",
+        "sentiment_score": 0.2544392794370651
+    },
+    {
+        "title": "Londres intercepta una corbeta y un petrolero rusos y denuncia un repunte de la actividad naval",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/23/69237ebea58c8.r_d.644-475-3486.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20251123/11294179/londres-intercepta-corbeta-petrolero-rusos-denuncia-repunte-actividad-naval.html",
+        "date": "2025-11-23 21:59:27",
+        "sentiment_score": -0.8682307563722134
+    },
+    {
+        "title": "Hallan sin vida el cuerpo de un montañero madrileño desaparecido en Villanúa (Huesca)",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/montana_guardia_civil.jpg",
+        "tags": [
+            "montañas",
+            "guardia civil",
+            "fallecidos",
+            "equipos de rescate",
+            "muertes",
+            "pirineos",
+            "evacuación",
+            "sucesos"
+        ],
+        "link": "https://theobjective.com/sociedad/suceso/2025-11-23/hallan-cuerpo-montanero-desaparecido-huesca/",
+        "date": "2025-11-23 21:55:38",
+        "sentiment_score": -0.2679345905780792
+    },
+    {
+        "title": "Vivir en autocaravana: una opción cada vez más asequible y extendida",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2021/08/20/245533A4-4CD3-4DFD-A0C1-B54D05F213C3/70.jpg?crop=1920%2C1080%2Cx0%2Cy202&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "economía",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/economia/vivir-autocaravana-opcion-cada-vez-mas-asequible-extendida_2025112369237ee7df41134465e6824c.html",
+        "date": "2025-11-23 21:38:47",
+        "sentiment_score": 0.30781808495521545
+    },
+    {
+        "title": "El gijonés Mario Junquera, tercero en la Copa España de ciclocross de Vic (atentos a lo que le pasó a Benjamín Noval)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c4614899-9135-4c56-baf8-9958cbd7f007_16-9-aspect-ratio_default_0_x911y350.jpg",
+        "tags": [
+            "unicaja",
+            "asturiano",
+            "vic",
+            "españa"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2025/11/23/gijones-mario-junquera-tercero-copa-124043090.html",
+        "date": "2025-11-23 21:24:24",
+        "sentiment_score": 0.5478483214974403
+    },
+    {
+        "title": "Barcelona, capital de la cooperación europea y mediterránea, 30 años después",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/11/vivir-en-barcelona/1003742706368_15389774_1706x960.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "información municipal",
+            "política"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20251123/barcelona-capital-cooperacion-europea-mediterranea-anos-despues/1003742710048_0.html",
+        "date": "2025-11-23 21:19:26",
+        "sentiment_score": 0.40786775201559067
+    },
+    {
+        "title": "El nuevo Barça de Xavi Pascual revive en la Liga Endesa",
+        "image_url": "https://imagenes.eldebate.com/files/image_16_9_desktop/files/fp/uploads/2025/11/23/69237708997bd.r_d.1310-437-3229.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20251123/nuevo-barca-xavi-pascual-revive-liga-endesa_358147.html",
+        "date": "2025-11-23 21:11:50",
+        "sentiment_score": 0.1714765429496765
+    },
+    {
+        "title": "Santa Cecilia premia en Segovia a la mejor cantera de pianistas",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/11/23/premio-santa-cecilia-tanarro-46-kUy-U240327084093s8B-758x531@El%20Norte.jpg",
+        "tags": [
+            "cecilia",
+            "mejor",
+            "cantera",
+            "premia",
+            "santa",
+            "segovia",
+            "pianistas"
+        ],
+        "link": "https://www.elnortedecastilla.es/segovia/santa-cecilia-premia-segovia-mejor-cantera-pianistas-20251123221011-nt.html",
+        "date": "2025-11-23 21:10:11",
+        "sentiment_score": 0.26225745677948
     }
 ];
