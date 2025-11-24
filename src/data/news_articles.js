@@ -3116,5 +3116,226 @@ export default [
         "link": "https://www.elnortedecastilla.es/segovia/santa-cecilia-premia-segovia-mejor-cantera-pianistas-20251123221011-nt.html",
         "date": "2025-11-23 21:10:11",
         "sentiment_score": 0.26225745677948
+    },
+    {
+        "title": "Bochorno mundial del Real Madrid: quiso homenajear a los hermanos Jota pero se confundió de futbolista (VIDEO)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "andré silva",
+            "diogo jota",
+            "titulares",
+            "deportes",
+            "real madrid cf",
+            "españa",
+            "futbol"
+        ],
+        "link": "https://lapatilla.com/2025/11/23/bochorno-mundial-del-real-madrid-quiso-homenajear-a-los-hermanos-jota-pero-se-confundio-de-futbolista-video/",
+        "date": "2025-11-24 02:00:43",
+        "sentiment_score": -0.29212039709091187
+    },
+    {
+        "title": "Elche 2-2 Real Madrid: ¿Xabi Alonso perdió la brújula y ya no sabe qué hacer?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/24/2025112402421961398.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/elche-2-2-real-madrid-xabi-perdio-brujula-sabe-que-hacer/20251124024336364275.html",
+        "date": "2025-11-24 01:43:36",
+        "sentiment_score": -0.8281597755849361
+    },
+    {
+        "title": "Montero avala subir el sueldo a los funcionarios por encima del IPC \"con creces\" tras ocultarlo a las CCAA en el Consejo Fiscal",
+        "image_url": "https://phantom-elmundo.uecdn.es/80283fe1561e3ee4af600d95e3ffac69/crop/752x0/2795x2048/f/image/jpeg/assets/multimedia/imagenes/2023/11/25/17009128717476.jpg",
+        "tags": [
+            "artículos carlos segovia",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/11/24/6923500821efa0e8188b459b.html",
+        "date": "2025-11-24 01:40:47",
+        "sentiment_score": -0.8242887649685144
+    },
+    {
+        "title": "Dos años del renacer de la hipoteca inversa en España: \"Con 89 años y los ahorros acabándose, era el momento\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/63aa2b13d58eb487f19599424c7a8eb8/crop/307x307/2765x2765/f/image/jpeg/assets/multimedia/imagenes/2023/10/11/16970261849784.jpg",
+        "tags": [
+            "hipotecas",
+            "artículos laura de la quintana",
+            "vivienda",
+            "banca"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2025/11/24/69205ee9fdddff52338b45d0.html",
+        "date": "2025-11-24 01:40:45",
+        "sentiment_score": -0.9308247743174434
+    },
+    {
+        "title": "El colapso de Sánchez exige una ruptura",
+        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744010847_259898333_1706x960.jpg",
+        "tags": [
+            "columnas",
+            "pedro sánchez",
+            "opinión",
+            "columnas de opinión",
+            "educación",
+            "sanidad"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20251124/colapso-sanchez-exige-ruptura/1003744022997_12.html",
+        "date": "2025-11-24 01:21:57",
+        "sentiment_score": -0.21938221156597137
+    },
+    {
+        "title": "23 NOV 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/23-nov-2025-tertulion-domingos-20251124_3257738.html",
+        "date": "2025-11-24 01:04:08",
+        "sentiment_score": 0.31544356048107147
+    },
+    {
+        "title": "Un nuevo desastre de Xabi Alonso con el Real Madrid tras el parón y el duro discurso de Florentino Pérez ante sus socios, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/24/6923a831e8d7f.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/nuevo-desastre-xabi-alonso-real-madrid-paron-duro-discurso-florentino-perez-socios-tertulion-20251124_3257731.html",
+        "date": "2025-11-24 01:03:57",
+        "sentiment_score": -0.08068826794624329
+    },
+    {
+        "title": "Es campeón mundial junto a Lionel Messi y jugó en Real Madrid, pero nadie da crédito al torneo que ganó en una oficina",
+        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744026417_260105305_1706x960.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "ángel di maría"
+        ],
+        "link": "https://www.elespanol.com/deportes/20251124/campeon-mundial-junto-lionel-messi-jugo-real-madrid-nadie-da-credito-torneo-gano-oficina/1003744026410_0.html",
+        "date": "2025-11-24 00:47:11",
+        "sentiment_score": 0.46617892384529114
+    },
+    {
+        "title": "Real Madrid se disculpa por mostrar al jugador equivocado en homenaje a Diogo Jota y André Silva",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top",
+            "sports"
+        ],
+        "link": "https://www.houstonchronicle.com/sports/article/real-madrid-se-disculpa-por-mostrar-al-jugador-21204277.php",
+        "date": "2025-11-24 00:21:25",
+        "sentiment_score": -0.8701826771721244
+    },
+    {
+        "title": "Real Madrid se disculpa por mostrar al jugador equivocado en homenaje a Diogo Jota y André Silva",
+        "image_url": "https://dims.apnews.com/dims4/default/f3ed050/2147483647/strip/true/crop/7899x5258+0+6/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F7f%2F85613b985fe751d32b857a8239dc%2F8a43007a5c344e73a83a4f96433dad19",
+        "tags": [
+            "sports",
+            "deportes",
+            "real madrid jota silva disculpa"
+        ],
+        "link": "https://apnews.com/article/real-madrid-jota-silva-disculpa-a2af035801d9d7d7e4b06bff81ed4809",
+        "date": "2025-11-24 00:21:25",
+        "sentiment_score": -0.8681609192863107
+    },
+    {
+        "title": "Una web recoge las cartas a la familia de Miguel Ángel Blanco",
+        "image_url": "https://static.laregion.es/clip/2e680d9b-eb58-4a8b-979c-85ad8eaa1d94_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "miguel ángel blanco",
+            "eta"
+        ],
+        "link": "https://www.laregion.es/espana/web-recoge-cartas-familia-miguel_1_20251124-4067506.html",
+        "date": "2025-11-24 00:50:27",
+        "sentiment_score": -0.00045343488454818726
+    },
+    {
+        "title": "Un grito de cabeza y tres grandes asistencias: el recital de Messi en la goleada del Inter Miami ante Cincinnati",
+        "image_url": "https://www.infobae.com/resizer/v2/2IM7CVHGPBDPDN4KHG2IECYH4E.jpg?auth=440c2e67369eb2232a89430d877b57e877ea752d60aa32c98a6e7c5879fca831&height=4469&smart=true&width=6703",
+        "tags": [
+            "lionel messi",
+            "cincinnati",
+            "mls",
+            "deportes-argentina",
+            "inter miami"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/24/un-grito-de-cabeza-y-tres-grandes-asistencias-el-recital-de-messi-en-la-goleada-del-inter-miami-ante-cincinnati/",
+        "date": "2025-11-24 00:25:34",
+        "sentiment_score": 0.4424484521150589
+    },
+    {
+        "title": "Las bazas de Iñaki Peralta al frente de Santander Seguros",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/e159bf0d246205fbc4d9d18779763e8d/crop/372x126/1828x1097/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/23/17639297237820.jpg",
+        "tags": [
+            "empresas>",
+            "banco santander>",
+            "sanitas>",
+            "seguros>"
+        ],
+        "link": "https://www.expansion.com/empresas/seguros/2025/11/24/69236eac468aebb9138b4599.html",
+        "date": "2025-11-24 00:13:52",
+        "sentiment_score": 0.07341020554304123
+    },
+    {
+        "title": "VW, Stellantis e InoBat: el coche eléctrico moviliza 25.000 millones en España",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/c074d8fb282ac24f8843a5632eebf2df/f/webp/assets/multimedia/imagenes/2025/11/21/17637569961285.jpg",
+        "tags": [
+            "empresas>",
+            "motor>",
+            "sostenibilidad>",
+            "artículos carlos drake>"
+        ],
+        "link": "https://www.expansion.com/empresas/motor/2025/11/24/6920cb71468aeb7b638b45a4.html",
+        "date": "2025-11-24 00:13:47",
+        "sentiment_score": 0.4376010447740555
+    },
+    {
+        "title": "Rushdie: “Trump es como un niño gordo, muy gordo y muy viejo”",
+        "image_url": "https://static.laregion.es/clip/f67e83d5-c273-42e4-b215-ac610e3a34ba_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "donald trump",
+            "escritores",
+            "censura",
+            "eeuu"
+        ],
+        "link": "https://www.laregion.es/sociedad/rushdie-trump-nino-gordo_1_20251124-4067653.html",
+        "date": "2025-11-24 00:05:57",
+        "sentiment_score": -0.8628668636083603
+    },
+    {
+        "title": "Real Madrid empata 2-2 en Elche con un gol salvador de Bellingham",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png",
+        "tags": [
+            "laliga española",
+            "fútbol",
+            "real madrid fc",
+            "elche",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/2025/11/real-madrid-empata-2-2-en-elche-con-un-gol-salvador-de-bellingham/",
+        "date": "2025-11-23 23:37:45",
+        "sentiment_score": -0.16314014792442322
+    },
+    {
+        "title": "Racha de Real Madrid sin ganar crece con empate 2-2 ante Elche; Bellingham los salva con gol tardío",
+        "image_url": "https://dims.apnews.com/dims4/default/901115a/2147483647/strip/true/crop/3594x2392+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2Fb6%2F7e89f8efe19874dd6a7c39426eb1%2F3865ed7e6f8447238576ae783fc25afd",
+        "tags": [
+            "real madrid elche bellingham empate",
+            "sports",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/real-madrid-elche-bellingham-empate-a7db5e754b4b17d334d08c009d20dec4",
+        "date": "2025-11-23 23:25:55",
+        "sentiment_score": 0.5694870986044407
+    },
+    {
+        "title": "Racha de Real Madrid sin ganar crece con empate 2-2 ante Elche; Bellingham los salva con gol tardío",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/11/ESPA209A-LIGA_74377.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/11/23/racha-de-real-madrid-sin-ganar-crece-con-empate-2-2-ante-elche-bellingham-los-salva-con-gol-tardo/",
+        "date": "2025-11-23 23:25:54",
+        "sentiment_score": 0.1632743775844574
     }
 ];
