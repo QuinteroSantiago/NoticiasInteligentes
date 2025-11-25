@@ -1,460 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid sobrevive a un partido loco y corta ante el Zalgiris Kaunas su mala racha en la Euroliga",
-        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744023331_260062019_1706x960.jpg",
-        "tags": [
-            "baloncesto",
-            "deportes",
-            "real madrid baloncesto",
-            "euroliga de baloncesto",
-            "zalgiris kaunas"
-        ],
-        "link": "https://www.elespanol.com/deportes/baloncesto/20251120/real-madrid-sobrevive-partido-loco-corta-zalgiris-kaunas-mala-racha-euroliga/1003744023325_0.html",
-        "date": "2025-11-20 22:01:45",
-        "sentiment_score": 0.8284282460808754
-    },
-    {
-        "title": "¿Qué relación tiene la salud de tus riñones con la diabetes o las enfermedades cardiovasculares?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/abf008a2-83ba-48bb-a215-0f5fb87dbebc_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "+salud",
-            "diabetes"
-        ],
-        "link": "https://www.elperiodico.com/es/salud/20251120/relacion-salud-rinones-diabetes-o-123941273",
-        "date": "2025-11-20 21:59:07",
-        "sentiment_score": -0.4740462005138397
-    },
-    {
-        "title": "Ailán Cova reaccionó a la tierna foto de Alexis Mac Allister junto a su hija: “Completamente enamorada”",
-        "image_url": "https://www.infobae.com/resizer/v2/BXMII7IS4JHWLEVEM6NDHE2S2U.jpg?auth=a55b3ba763e57f398706b4bf9cfe5cacc6e7ab22fa75d2bb5868164ba485d507&height=810&smart=true&width=1440",
-        "tags": [
-            "liverpool",
-            "alexis mac allister",
-            "ailén cova"
-        ],
-        "link": "https://www.infobae.com/teleshow/2025/11/20/ailan-cova-reacciono-a-la-tierna-foto-de-alexis-mac-allister-junto-a-su-hija-completamente-enamorada/",
-        "date": "2025-11-20 21:41:54",
-        "sentiment_score": 0.16458972543478012
-    },
-    {
-        "title": "Aramayo, el amigo de todos y una vida de película",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/11/20/1503235577-k85B-U240298537045JqC-758x531@El%20Norte.JPG",
-        "tags": [
-            "real valladolid club de fútbol"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/aramayo-amigo-vida-pelicula-20251120223135-nt.html",
-        "date": "2025-11-20 21:40:20",
-        "sentiment_score": 0.7983362749218941
-    },
-    {
-        "title": "Un concejal del PP en Manzanares el Real lanza insultos machistas a una edil de Más Madrid: “A callar, que estás más guapa”",
-        "image_url": "https://album.mediaset.es/eimg/2025/11/20/un-concejal-del-pp-en-manzanares-el-real-lanza-insultos-machistas-a-una-edil-de-mas-madrid-a-callar_fc57.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.cuatro.com/noticias/espana/20251120/concejal-pp-manzanares-real-insultos-machistas_18_017641473.html",
-        "date": "2025-11-20 21:26:31",
-        "sentiment_score": -0.8389926608651876
-    },
-    {
-        "title": "Marcelo Vieira se reinventa en Madrid: de ídolo del Real Madrid a referente del bienestar y la longevidad",
-        "image_url": "https://www.infobae.com/resizer/v2/442LD2B6ZNFJN3HX33754IZBMQ.jpg?auth=bd0a5870d185b1e84925f8167283c73389b27742129659ae5524058f4cd857ff&height=573&smart=true&width=800",
-        "tags": [
-            "vida saludable",
-            "marcelo vieira",
-            "men’s health",
-            "centro wellness madrid",
-            "kings league",
-            "real madrid",
-            "bienestar físico y mental",
-            "newsroom bue",
-            "espacio 12",
-            "magazines"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2025/11/20/marcelo-vieira-se-reinventa-en-madrid-de-idolo-del-real-madrid-a-referente-del-bienestar-y-la-longevidad/",
-        "date": "2025-11-20 21:22:33",
-        "sentiment_score": -0.008286520838737488
-    },
-    {
-        "title": "Lamine Yamal y el Real Madrid, los principales blancos del racismo en España",
-        "image_url": "https://pxcdn.meridiano.net/112025/1763676591219.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/usa/futbol/espanol/lamine-yamal-y-el-real-madrid-los-principales-blancos-del-racismo-en-espana-2025112017150",
-        "date": "2025-11-20 21:15:00",
-        "sentiment_score": -0.2793431729078293
-    },
-    {
-        "title": "Rosa Villavicencio, canciller de Colombia: \"El tráfico de drogas es la justificación de EEUU para controlar el petróleo\"",
-        "image_url": "https://static.eldiario.es/clip/f1504a9c-29b5-4716-bca7-f02acd8cb0e6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "petroleo",
-            "drogas",
-            "eeuu",
-            "controlar",
-            "canciller",
-            "justificacion",
-            "rosa",
-            "villavicencio",
-            "colombia",
-            "trafico"
-        ],
-        "link": "https://www.eldiario.es/internacional/rosa-villavicencio-canciller-colombia-trafico-drogas-justificacion-eeuu-controlar-petroleo_128_12784197.html",
-        "date": "2025-11-20 21:05:55",
-        "sentiment_score": -0.2004554718732834
-    },
-    {
-        "title": "La Fiscalía investiga a un aficionado expulsado de Mestalla por proferir gritos racistas: \"¡Negro de mierda, vete al Bioparc!\"",
-        "image_url": "https://static.eldiario.es/clip/7ff89d97-e5c0-4096-b184-ba3939453b50_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "valencia",
-            "actualidad",
-            "comunidad valenciana",
-            "opinión",
-            "información",
-            "análisis",
-            "alicante",
-            "castellón",
-            "noticias"
-        ],
-        "link": "https://www.eldiario.es/comunitat-valenciana/valencia/fiscalia-investiga-aficionado-expulsado-mestalla-proferir-gritos-racistas-negro-mierda-vete-bioparc_1_12783935.html",
-        "date": "2025-11-20 21:05:54",
-        "sentiment_score": -0.13673020899295807
-    },
-    {
-        "title": "Análisis de los estadios candidatos a la final del Mundial 2030: Bernabéu, Camp Nou y Hassan II",
-        "image_url": "https://img.asmedia.epimg.net/resizer/v2/MXOMXGAU6JBTVEKM3ND2HQJKOM.JPG?auth=e25512ca6bd8f72c606eb25fda5ab039e4bc63093797a3d9ad18dac9da5a7d74&focal=1038%2C548&height=828&width=1472",
-        "tags": [
-            "fútbol",
-            "mundial 2030",
-            "estadio santiago bernabéu",
-            "spotify camp nou",
-            "fifa"
-        ],
-        "link": "https://as.com/futbol/mundial/analisis-de-los-estadios-candidatos-a-la-final-del-mundial-2030-bernabeu-camp-nou-y-hassan-ii-f202511-n/",
-        "date": "2025-11-20 22:16:06",
-        "sentiment_score": 0.8350602500140667
-    },
-    {
-        "title": "Rumbo al Mundial 2026: La FIFA define los cruces de repechaje para los últimos seis cupos",
-        "image_url": "https://laprensadelara.com/wp-content/uploads/2025/11/SLIDER-repechaje-1.webp",
-        "tags": [
-            "candidaturas para el mundial 2026",
-            "repechaje para el mundial 2026",
-            "futbol",
-            "mundial 2026",
-            "mundial 2026 repechaje",
-            "deportes",
-            "destacado | amp",
-            "eliminatorias al mundial 2026",
-            "destacado"
-        ],
-        "link": "https://laprensadelara.com/deportes/mundial-2026-fifa-define-repechaje/",
-        "date": "2025-11-20 22:07:11",
-        "sentiment_score": 0.017024032771587372
-    },
-    {
-        "title": "El Chelsea encuentra el antídoto para detener al Barça en Stamford Bridge",
-        "image_url": "https://static1.ara.cat/clip/b2865bd2-214b-4416-8ca6-d429c60ed8ca_16-9-aspect-ratio_default_0.png",
-        "tags": [
-            "encuentra",
-            "chelsea",
-            "barca",
-            "detener",
-            "antidoto",
-            "bridge",
-            "stamford"
-        ],
-        "link": "https://es.ara.cat/deportes/barca-femenino/chelsea-encuentra-antidoto-detener-barca-stamford-bridge_1_5568642.html",
-        "date": "2025-11-20 22:00:20",
-        "sentiment_score": -0.09423303604125977
-    },
-    {
-        "title": "La Lotería Nacional cae en Tenerife",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/18fcf8a9-77a5-4bb3-831b-0a16e2103a86_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "loterías",
-            "loterías y apuestas del estado",
-            "lotería nacional"
-        ],
-        "link": "https://www.eldia.es/tenerife/2025/11/20/loteria-nacional-cae-tenerife-123955261.html",
-        "date": "2025-11-20 21:55:32",
-        "sentiment_score": 0.5373681932687759
-    },
-    {
-        "title": "BB Trickz, la estrella más controvertida del pop español: \"Simplemente quiero ser la mejor y la más chula todos los días. Del 1 al 10, soy un 11 de chula\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/98fb0ca64f7c077b3a96baa2d67a08f0/f/image/jpeg/assets/multimedia/imagenes/2022/05/05/16517506482443.jpg",
-        "tags": [
-            "pop",
-            "artículos pablo r. roces",
-            "nlpremium",
-            "cultura",
-            "música",
-            "artículos reda b.slafti",
-            "música electrónica"
-        ],
-        "link": "https://www.elmundo.es/la-lectura/2025/11/20/691ceb44e4d4d814468b45a2.html",
-        "date": "2025-11-20 21:54:01",
-        "sentiment_score": -0.1223183125257492
-    },
-    {
-        "title": "Entradas para Dani Fernández 2026: precio y en dónde comprarlas",
-        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2025/11/images.jpg",
-        "tags": [
-            "dani fernández",
-            "sociedad",
-            "actualidad",
-            "la insurrección tour"
-        ],
-        "link": "https://lavozdeibiza.com/actualidad/entradas-para-dani-fernandez-2026-precio-y-en-donde-comprarlas/",
-        "date": "2025-11-20 21:53:54",
-        "sentiment_score": 0.14699387550354004
-    },
-    {
-        "title": "Pdvsa investiga incendio en Petrocedeño: no hubo heridos en la última explosión",
-        "image_url": "https://talcualdigital.com/wp-content/uploads/2025/11/Incendio-Pedrocedeno-Pdvsa.jpg",
-        "tags": [
-            "pdvsa",
-            "noticias",
-            "petrocedeño"
-        ],
-        "link": "https://talcualdigital.com/pdvsa-investiga-incendio-en-petrocedeno-no-hubo-heridos-en-la-ultima-explosion/",
-        "date": "2025-11-20 21:52:02",
-        "sentiment_score": -0.8199905483052135
-    },
-    {
-        "title": "Albert Serra: \"El 99% del cine es estúpido, un cien por cien en el caso del cine español\"",
-        "image_url": "https://static1.ara.cat/clip/ec852895-f029-4c59-bba9-750526b30cf4_16-9-aspect-ratio_default_0_x2742y822.jpg",
-        "tags": [
-            "cine",
-            "serra",
-            "cien",
-            "estupido",
-            "albert",
-            "espanol",
-            "caso",
-            "99"
-        ],
-        "link": "https://es.ara.cat/cultura/cine/albert-serra-99-cine-estupido-cien-cien-caso-cine-espanol_1_5568622.html",
-        "date": "2025-11-20 21:45:09",
-        "sentiment_score": -0.12382455170154572
-    },
-    {
-        "title": "Deportes | 'Vuelve corazón franjiverde', si es que alguna vez te fuiste de la elite del fútbol español",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1721516.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/vuelve-corazon-franjiverde-si-es-que-alguna-vez-se-fue-de-la-elite-del-futbol-espanol",
-        "date": "2025-11-21 01:35:19",
-        "sentiment_score": -0.32245077937841415
-    },
-    {
-        "title": "James Rodríguez buscaría quedarse en la Liga MX tras salir de León: ¿Qué equipo está interesado en ficharlo?",
-        "image_url": "https://www.infobae.com/resizer/v2/6TRGXTHNAJHCLBBYTTLVK3V4EQ.JPG?auth=f30f2467df70d9156a7d3e48274514769e1e226a1003703ea190c2f31e2abafb&height=1936&smart=true&width=3442",
-        "tags": [
-            "mexico-deportes",
-            "james rodríguez",
-            "liga mx",
-            "cruz azul",
-            "pumas"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2025/11/21/james-rodriguez-buscaria-quedarse-en-la-liga-mx-tras-salir-de-leon-que-equipo-esta-interesado-en-ficharlo/",
-        "date": "2025-11-21 01:26:18",
-        "sentiment_score": -0.7427590619772673
-    },
-    {
-        "title": "La violencia contra la Transición: ETA mató a los cuatro días de morir Franco y los Grapo y los ultras sembraron el terror",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/11/18/17634891383281.jpg",
-        "tags": [
-            "espana/50-aniversario-de-la-muerte-de-franco"
-        ],
-        "link": "https://www.elmundo.es/espana/50-aniversario-de-la-muerte-de-franco/2025/11/21/691cb590e9cf4a0d498b45c6.html",
-        "date": "2025-11-21 01:18:10",
-        "sentiment_score": -0.8730078563094139
-    },
-    {
-        "title": "22-N, el día más importante de la historia de España: 21 minutos y 8 ovaciones para Don Juan Carlos, ausente hoy en el 50 aniversario",
-        "image_url": "https://phantom-elmundo.uecdn.es/c500024e63fa29e7e658a1830f7efa3e/crop/0x259/2479x2738/f/image/jpeg/assets/multimedia/imagenes/2022/03/16/16474501372351.jpg",
-        "tags": [
-            "juan carlos i",
-            "artículos marina pina"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/21/691f217ce4d4d8c5338b459e.html",
-        "date": "2025-11-21 01:18:08",
-        "sentiment_score": -0.10114838182926178
-    },
-    {
-        "title": "'Ciudad sin sueño': arraigos y desarraigos en la Cañada Real",
-        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744022907_260056284_1706x960.jpg",
-        "tags": [
-            "estrenos de cine",
-            "películas",
-            "cine",
-            "cañada real"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/cine/20251121/ciudad-sin-sueno-arraigos-desarraigos-canada-real/1003744022833_0.html",
-        "date": "2025-11-21 01:04:28",
-        "sentiment_score": 0.0930904746055603
-    },
-    {
-        "title": "De la celda de Soto al encierro en Milagro: Cerdán sólo sale para ver a su hermana y recoger tuppers en casa de sus padres",
-        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744023300_260061445_1706x960.jpg",
-        "tags": [
-            "reportajes",
-            "pedro sánchez",
-            "psoe (partido socialista obrero español)",
-            "milagro",
-            "santos cerdán",
-            "navarra",
-            "corrupción"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251121/celda-soto-encierro-milagro-cerdan-solo-sale-ver-hermana-recoger-tuppers-casa-padres/1003744023191_0.html",
-        "date": "2025-11-21 00:59:26",
-        "sentiment_score": -0.6269030272960663
-    },
-    {
-        "title": "Winston, 'el Makelele ghanés de Alcantarilla' de 13 años al que su club no le da la carta de libertad: \"No puedo jugar donde soy feliz\"",
-        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744022895_260056063_1706x960.jpg",
-        "tags": [
-            "eduardo camavinga",
-            "fútbol",
-            "fc barcelona",
-            "liverpool fc",
-            "alcantarilla",
-            "lfp liga de fútbol profesional",
-            "sergio busquets",
-            "niños",
-            "real madrid cf",
-            "pateras"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251121/winston-makelele-ghanes-alcantarilla-anos-club-no-da-carta-libertad-no-puedo-jugar-feliz/1003744022350_0.html",
-        "date": "2025-11-21 00:58:40",
-        "sentiment_score": -0.8418159792199731
-    },
-    {
-        "title": "El arma de Laporta para que el Camp Nou supere los ingresos del Santiago Bernabéu",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/21/culemania/palco/1003742709443_15429179_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "real madrid",
-            "junta directiva del barça",
-            "fc barcelona",
-            "estadio santiago bernabéu",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251121/arma-laporta-camp-nou-supere-ingresos-santiagobernabeu/1003742709438_0.html",
-        "date": "2025-11-21 00:55:48",
-        "sentiment_score": -0.0022098124027252197
-    },
-    {
-        "title": "Eroski cierra sus 17 años más oscuros: varios acuerdos con la banca, 2.500M menos de deuda y ganas de crecer fuera del norte",
-        "image_url": "https://s3.elespanol.com/2024/03/07/quincemil/economia/empresas/838177330_244397100_1706x960.jpg",
-        "tags": [
-            "distribución",
-            "eroski"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20251121/eroski-cierra-anos-oscuros-varios-acuerdos-banca-deuda-ganas-crecer-norte/1003744022466_0.html",
-        "date": "2025-11-21 00:54:02",
-        "sentiment_score": 0.3631710037589073
-    },
-    {
-        "title": "'Wicked Parte II', lo cursi no quita lo político: una inteligente fábula actual disfrazada de musical",
-        "image_url": "https://s3.elespanol.com/2025/11/18/actualidad/1003744019029_260004989_1706x960.jpg",
-        "tags": [
-            "estrenos de cine",
-            "películas",
-            "cine"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/cine/20251121/wicked-parte-ii-cursi-no-quita-politico-inteligente-fabula-actual-disfrazada-musical/1003744017549_0.html",
-        "date": "2025-11-21 00:47:37",
-        "sentiment_score": 0.6725327186286449
-    },
-    {
-        "title": "Chelsea y Barcelona empatan 1-1 en la Champions femenina; Bayern vence al colista PSG",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.houstonchronicle.com/sports/article/chelsea-y-barcelona-empatan-1-1-en-la-champions-21199789.php",
-        "date": "2025-11-21 00:54:14",
-        "sentiment_score": 0.3177243545651436
-    },
-    {
-        "title": "Chelsea y Barcelona empatan 1-1 en la Champions femenina; Bayern vence al colista PSG",
-        "image_url": "https://dims.apnews.com/dims4/default/1f49e3e/2147483647/strip/true/crop/6195x4124+0+3/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F97%2F31d88ec870fa15ef5286fd4cb68e%2Fef97f8084eaa411da59082b00383b1ec",
-        "tags": [
-            "chelsea barcelona liga campeones femenina",
-            "sports",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/chelsea-barcelona-liga-campeones-femenina-b0a6c0956a3e51d9302669d608970716",
-        "date": "2025-11-21 00:54:14",
-        "sentiment_score": 0.5990717895328999
-    },
-    {
-        "title": "Chelsea y Barcelona empatan 1-1 en la Champions femenina; Bayern vence al colista PSG",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/CAMPEONAS_23878.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2025/11/20/chelsea-y-barcelona-empatan-1-1-en-la-champions-femenina-bayern-vence-al-colista-psg/",
-        "date": "2025-11-21 00:54:13",
-        "sentiment_score": 0.39655745029449463
-    },
-    {
-        "title": "20 NOV 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/20-nov-2025-partidazo-cope-20251121_3256530.html",
-        "date": "2025-11-21 00:41:07",
-        "sentiment_score": -0.13940852880477905
-    },
-    {
-        "title": "Los tres sponsors fantasma que Laporta mantiene en la sombra: acababan contrato con el Barça en 2025",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/04/24/politica/1003742651793_15426656_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "palco",
-            "caixabank",
-            "barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251121/sponsors-fantasma-laporta-mantiene-acababan-contrato-barca/1003742709269_0.html",
-        "date": "2025-11-21 00:10:11",
-        "sentiment_score": -0.6866882406175137
-    },
-    {
-        "title": "Las claves de la nueva Grada (Gol 1957): el Barça no tendrá animación en el Camp Nou hasta 2026",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/actualidad/1003742705362_15374946_1706x960.jpg",
-        "tags": [
-            "palco",
-            "barça",
-            "grada d’animació",
-            "camp nou"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251121/grada-gol-barca-animacionen-camp-nou-hasta2026/1003742709275_0.html",
-        "date": "2025-11-21 00:08:14",
-        "sentiment_score": 0.08162151649594307
-    },
-    {
-        "title": "César Castro estará en el Europeo de Lublin",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "cesar",
-            "europeo",
-            "castro",
-            "lublin"
-        ],
-        "link": "https://www.hoy.es/deportes/mas-deportes/cesar-castro-europeo-lublin-20251121080314-nt.html",
-        "date": "2025-11-21 00:00:00",
-        "sentiment_score": 0.0649176836013794
-    },
-    {
         "title": "Las tres noticias de Carlos Alsina para empezar el día: \"El Gobierno busca ya nuevo fiscal general del Estado de su cuerda\"",
         "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
         "tags": [
@@ -3310,5 +2855,143 @@ export default [
         "link": "https://www.laprovincia.es/economia/2025/11/24/consumo-platos-preparados-disparado-espana-dieta-mediterranea-124047553.html",
         "date": "2025-11-24 06:21:24",
         "sentiment_score": 0.06074151396751404
+    },
+    {
+        "title": "Xabi Alonso huele a chamusquina tras el tercer tropiezo seguido del Real Madrid",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/24/69248d546b881.r_d.1953-1381-0.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/20251124/11297246/futbol-real-madrid-xabi-alonso-cuestionado-huele-chamusquina-florentino-perez-tres-tropiezos.html",
+        "date": "2025-11-24 17:09:36",
+        "sentiment_score": -0.8765263045206666
+    },
+    {
+        "title": "Mearse en la democracia",
+        "image_url": "https://www.nuevatribuna.es/media/nuevatribuna/images/2025/11/24/2025112418035084411.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.nuevatribuna.es/articulo/actualidad/separacion-poderes-miguel-tellado-mearse-democracia/20251124180913244579.html",
+        "date": "2025-11-24 17:09:13",
+        "sentiment_score": -0.885530655272305
+    },
+    {
+        "title": "17:00H | 24 NOV 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-24-nov-2025-tarde-20251124_3258446.html",
+        "date": "2025-11-24 17:09:00",
+        "sentiment_score": -0.242823526263237
+    },
+    {
+        "title": "Mengs, el genio antipático que se inventó el Neoclasicismo pero al que olvidó la historia del arte",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/73cc9106-0e71-4cec-90f1-02321beeb338_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "historia",
+            "museo del prado",
+            "pintura",
+            "exposición",
+            "arte"
+        ],
+        "link": "https://www.diariodeibiza.es/cultura/2025/11/24/mengs-genio-antipatico-invento-neoclasicismo-124072775.html",
+        "date": "2025-11-24 17:06:12",
+        "sentiment_score": -0.20729422569274902
+    },
+    {
+        "title": "El 73% de los jóvenes catalanes de 18 a 24 años considera que \"hay demasiada inmigración\", según el CEO",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/24/69248c5820fc3.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/noticias/73-jovenes-catalanes-18-24-anos-considera-hay-demasiada-inmigracion-ceo-20251124_3258447.html",
+        "date": "2025-11-24 17:10:18",
+        "sentiment_score": -0.19041143357753754
+    },
+    {
+        "title": "GBSB Global participa en la Europe Conference 2025 de GMAC, evento sobre la innovación en los procesos de admisión en escuelas de negocio",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/11/A1-1412182481-1-1000x665.jpeg",
+        "tags": [
+            "hemeroteca"
+        ],
+        "link": "https://www.economiadigital.es/hemeroteca/gbsb-global-participa-en-la-europe-conference-2025-de-gmac-evento-sobre-la-innovacion-en-los-procesos-de-admision-en-escuelas-de-negocio.html",
+        "date": "2025-11-24 17:07:56",
+        "sentiment_score": 0.5655830446630716
+    },
+    {
+        "title": "El gobierno de Trump califica a Maduro como miembro de una organización terrorista",
+        "image_url": "https://static1.ara.cat/clip/73455c1c-75ea-4f1a-b90a-bcd5a4d102dc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "terrorista",
+            "califica",
+            "gobierno",
+            "trump",
+            "organizacion",
+            "maduro",
+            "miembro"
+        ],
+        "link": "https://es.ara.cat/internacional/estados-unidos/gobierno-trump-califica-maduro-miembro-organizacion-terrorista_1_5571952.html",
+        "date": "2025-11-24 17:06:54",
+        "sentiment_score": -0.636277612298727
+    },
+    {
+        "title": "CaixaBank inicia este martes su séptimo programa de recompra de acciones",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251124180610_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-caixabank-inicia-martes-septimo-programa-recompra-acciones-20251124180610.html",
+        "date": "2025-11-24 17:06:10",
+        "sentiment_score": 0.34511014726012945
+    },
+    {
+        "title": "ERC carga contra quienes se rebelaron en Barcelona: \"Intentaban hacer política contra la dirección nacional\"",
+        "image_url": "https://static1.ara.cat/clip/06539a23-cf4a-4b33-a247-c5b5f8960ba2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rebelaron",
+            "direccion",
+            "barcelona",
+            "erc",
+            "politica",
+            "nacional",
+            "intentaban",
+            "carga"
+        ],
+        "link": "https://es.ara.cat/politica/erc-carga-rebelaron-barcelona-intentaban-politica-direccion-nacional_1_5571947.html",
+        "date": "2025-11-24 17:05:01",
+        "sentiment_score": -0.1764538735151291
+    },
+    {
+        "title": "Urdangarin dará su primera entrevista tras dejar la cárcel en el programa 'Pla Seqüència' de La 2Cat",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/02/21/inaki-urdangarin.r_d.312-241.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.20minutos.es/television/inaki-urdangarin-dara-su-primera-entrevista-tras-dejar-carcel-programa-pla-sequeencia-2-con-jordi-baste_6902069_0.html",
+        "date": "2025-11-24 17:04:34",
+        "sentiment_score": -0.7852214276790619
+    },
+    {
+        "title": "El Ayuntamiento de Ciudad Real adquiere 45 ha en las inmediaciones de Alarcos",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/11/24/2025112417581472459.jpg",
+        "tags": [
+            "ciudad real"
+        ],
+        "link": "https://www.clm24.es/articulo/ciudad-real/ayuntamiento-ciudad-real-adquiere-45-ha-inmediaciones-alarcos/20251124180347464729.html",
+        "date": "2025-11-24 17:03:47",
+        "sentiment_score": 0.4314575865864754
+    },
+    {
+        "title": "El Villarreal necesita asaltar el 'Muro Amarillo'",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251124180318_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-villarreal-necesita-asaltar-muro-amarillo-20251124180318.html",
+        "date": "2025-11-24 17:03:18",
+        "sentiment_score": 0.19864323735237122
     }
 ];
