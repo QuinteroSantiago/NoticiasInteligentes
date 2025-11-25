@@ -1,231 +1,5 @@
 export default [
     {
-        "title": "Ayuso teme que Sánchez prepare \"algo desquiciado\" tras la condena al fiscal y avisa",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/11/21/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-ha-celebrado-este-viernes-que-la-justicia-funciona-tras-la-condena-del-tribunal-supremo.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/11/21/ayuso-teme-que-sanchez-prepare-algo-desquiciado-tras-la-condena-al-fiscal-y-avisa-1872457-daa.html",
-        "date": "2025-11-21 17:04:02",
-        "sentiment_score": -0.11394920945167542
-    },
-    {
-        "title": "El Spotify Camp Nou se estrena con un morboso Barça-Athletic",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251121175240_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-spotify-camp-nou-estrena-morboso-barca-athletic-20251121175240.html",
-        "date": "2025-11-21 16:52:40",
-        "sentiment_score": 0.280130535364151
-    },
-    {
-        "title": "Mañueco defiende que la Corona impulsó una transición ejemplar: «Nos dio la etapa más próspera»",
-        "image_url": "https://okdiario.com/img/2025/11/21/alfonso-fernandez-manueco.-ep.jpg",
-        "tags": [
-            "felipe vi",
-            "castilla y león",
-            "españa",
-            "alfonso fernández mañueco"
-        ],
-        "link": "https://okdiario.com/castilla-leon/manueco-defiende-que-corona-impulso-transicion-ejemplar-nos-dio-etapa-mas-prospera-15806121",
-        "date": "2025-11-21 16:44:52",
-        "sentiment_score": 0.010072588920593262
-    },
-    {
-        "title": "Madrid presenta en el Consejo Local de Turismo los avances en movilidad, limpieza, ordenación de alojamiento y conectividad aérea",
-        "image_url": "http://st1.lacerca.com/imagenes/view/fa2c68ddc7b031f083b2ec27a6d61cb0.jpg",
-        "tags": [
-            "noticias",
-            "madrid"
-        ],
-        "link": "https://www.lacerca.com/noticias/madrid/madrid-consejo-local-turismo-avances-movilidad-limpieza-aerea-791565-1.html",
-        "date": "2025-11-21 16:40:00",
-        "sentiment_score": 0.44861772656440735
-    },
-    {
-        "title": "'Madrid, una postal navideña' llenará la ciudad de música, belenes, espectáculos y actividades para toda la familia",
-        "image_url": "http://st1.lacerca.com/imagenes/view/314a2742d8a3756556dcd32e6911f057.jpg",
-        "tags": [
-            "noticias",
-            "madrid"
-        ],
-        "link": "https://www.lacerca.com/noticias/madrid/madrid-postal-navidena-ciudad-musica-belenes-actividades-familia-791564-1.html",
-        "date": "2025-11-21 16:40:00",
-        "sentiment_score": 0.3911604471504688
-    },
-    {
-        "title": "Ángel Ballesteros, Sonia Hidalgo y José María Guerrero, en el top 5 del Circuito Nacional snipe de vela",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/21/692095b89b934.jpeg",
-        "tags": [
-            "deportes motril"
-        ],
-        "link": "https://www.cope.es/emisoras/andalucia/granada-provincia/motril/deportes-motril/noticias/angel-ballesteros-sonia-hidalgo-jose-maria-guerrero-top-5-circuito-nacional-snipe-vela-20251121_3257320.html",
-        "date": "2025-11-21 16:39:30",
-        "sentiment_score": -0.11070922017097473
-    },
-    {
-        "title": "El CD Tenerife baja al 'barro sintético' de Gobela para medirse al Arenas de Getxo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9af50704-5031-4c29-9740-dad73bff1fbf_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "álvaro cervera",
-            "primera federación",
-            "cd tenerife"
-        ],
-        "link": "https://www.eldia.es/deportes/cd-tenerife/2025/11/21/previa-arenas-de-getxo-cd-tenerife-123985612.html",
-        "date": "2025-11-21 16:38:15",
-        "sentiment_score": 0.5302654355764389
-    },
-    {
-        "title": "Eva Navarro, convocada para la final de la Nations League",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6b0e4f80-b24b-472e-b1a6-86a79c71282d_16-9-aspect-ratio_default_0_x1188y45.jpg",
-        "tags": [
-            "castillo",
-            "lesión",
-            "eva navarro",
-            "león",
-            "real madrid",
-            "deportes",
-            "barcelona"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2025/11/21/eva-navarro-convocada-final-nations-123986138.html",
-        "date": "2025-11-21 16:37:58",
-        "sentiment_score": -0.09643000364303589
-    },
-    {
-        "title": "Anticorrupción no ve indicios de que Rubiales percibiera comisiones de Novanet",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251121173437_260.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-anticorrupcion-no-ve-indicios-rubiales-percibiera-comisiones-novanet-20251121173437.html",
-        "date": "2025-11-21 16:34:37",
-        "sentiment_score": -0.059601910412311554
-    },
-    {
-        "title": "Incógnita Rashford",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c7e7be72-b19e-4f2f-832d-12fa62755680_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "incognita",
-            "rashford"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/11/21/incognita-rashford-10382155.html",
-        "date": "2025-11-21 16:30:22",
-        "sentiment_score": -0.09347470104694366
-    },
-    {
-        "title": "Estas son todas las calles con luces de Navidad nuevas este 2025: fecha de encendido y detalles",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/10/24/vivir-en-barcelona/804429936_10916274_1706x960.jpg",
-        "tags": [
-            "recomendaciones",
-            "navidad barcelona",
-            "vivir en barcelona",
-            "planes"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251121/todas-calles-luces-navidad-nuevas-fecha-encendido-detalles/1003742709654_0.html",
-        "date": "2025-11-21 17:09:43",
-        "sentiment_score": 0.7089778706431389
-    },
-    {
-        "title": "17:00H | 21 NOV 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-21-nov-2025-tarde-20251121_3257334.html",
-        "date": "2025-11-21 17:09:00",
-        "sentiment_score": -0.22780396044254303
-    },
-    {
-        "title": "El Club Baloncesto Nigrán clama contra la violencia machista con su vídeo de cada 25-N",
-        "image_url": "https://www.lavozdegalicia.es/assets/themes/$%7Btheme%7D/images/og_default.jpg",
-        "tags": [
-            "vigo",
-            "baloncesto",
-            "día contra la violencia machista"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/vigo/2025/11/21/club-baloncesto-nigran-falta-cita-25-n/00031763742744851549281.htm",
-        "date": "2025-11-21 17:04:00",
-        "sentiment_score": -0.19807471334934235
-    },
-    {
-        "title": "Dj P.Dro, fiesta homenaje a un referente de Zona Límite",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c54acd13-a064-4549-8791-160b23c06e50_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fiesta",
-            "p",
-            "dj",
-            "dro",
-            "homenaje"
-        ],
-        "link": "https://www.noticiasdenavarra.com/pamplona/2025/11/21/dj-p-dro-fiesta-homenaje-10377774.html",
-        "date": "2025-11-21 17:02:32",
-        "sentiment_score": 0.07819817960262299
-    },
-    {
-        "title": "Inicio gélido y ventoso del fin de semana, pero el frío más intenso irá marchando",
-        "image_url": "https://static1.ara.cat/clip/5b708125-238b-4651-a35d-2bdc1bc3112b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "intenso",
-            "gelido",
-            "semana",
-            "ira",
-            "frio",
-            "marchando",
-            "ventoso",
-            "inicio"
-        ],
-        "link": "https://es.ara.cat/el-tiempo/inicio-gelido-ventoso-semana-frio-intenso-ira-marchando_1_5569509.html",
-        "date": "2025-11-21 17:01:12",
-        "sentiment_score": -0.053827494382858276
-    },
-    {
-        "title": "Anticorrupción descarta la relación entre los ingresos de Rubiales y las subvenciones gestionadas por Novanet",
-        "image_url": "https://www.infobae.com/resizer/v2/LZIUZ33O3JH6BO2BB3C4JLHARY.jpg?auth=3f784e935611443133062832530d65f99f71de0605793868bc09b25af108721c&height=2584&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/21/anticorrupcion-descarta-la-relacion-entre-los-ingresos-de-rubiales-y-las-subvenciones-gestionadas-por-novanet/",
-        "date": "2025-11-21 17:00:24",
-        "sentiment_score": -0.2714407667517662
-    },
-    {
-        "title": "La economía azul tiene potencial como motor de turismo sostenible y competitivo, según Foment",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251121175940_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-economia-azul-tiene-potencial-motor-turismo-sostenible-competitivo-foment-20251121175940.html",
-        "date": "2025-11-21 16:59:40",
-        "sentiment_score": 0.6606769785284996
-    },
-    {
-        "title": "Una andaluza viviendo en Barcelona dicta sentencia sobre esta típica expresión catalana: \"Es que me suena fatal\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/21/69209a2a6a571.r_d.1404-292.jpeg",
-        "tags": [
-            "tressesenta"
-        ],
-        "link": "https://www.mundodeportivo.com/tressesenta/20251121/1002573390/andaluza-viviendo-barcelona-dicta-sentencia-aprender-catalan-me-suena-fatal-dct.html",
-        "date": "2025-11-21 16:59:16",
-        "sentiment_score": 0.41848740726709366
-    },
-    {
-        "title": "Mousikê adelanta las vacaciones navideñas con concierto didáctico y masterclasses a cargo del bajista jerezano Ricardo Piñero",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3b84977-4a44-4fe4-a4d5-8d58564f54c3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "flamenco",
-            "vacaciones",
-            "cultura",
-            "música",
-            "tenerife"
-        ],
-        "link": "https://www.laprovincia.es/cultura/2025/11/21/mousike-adelanta-vacaciones-navidenas-concierto-123987159.html",
-        "date": "2025-11-21 16:54:32",
-        "sentiment_score": 0.7620763704180717
-    },
-    {
         "title": "Así anunció Juan Carlos I la reforma política a las Cortes franquistas: nueve frases en clave para un discurso histórico",
         "image_url": "https://phantom-elmundo.uecdn.es/2d2aea672efc6ef80cffece682b88885/crop/557x95/2385x1923/f/image/jpeg/assets/multimedia/imagenes/2025/01/28/17380869392890.jpg",
         "tags": [
@@ -3306,5 +3080,199 @@ export default [
         "link": "https://www.leonoticias.com/culturas/tv/edicion-aprendido-sabemos-amor-pareja-20251125002828-ntrc.html",
         "date": "2025-11-24 23:28:29",
         "sentiment_score": 0.4336414821445942
+    },
+    {
+        "title": "La nueva fiscal general del estado será Teresa Peramato",
+        "image_url": "https://www.galiciapress.es/images/showid/7742656",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.galiciapress.es/articulo/portada/2025-11-25/5680874-nueva-fiscal-general-estado-sera-teresa-peramato",
+        "date": "2025-11-25 06:39:58",
+        "sentiment_score": 0.00818750262260437
+    },
+    {
+        "title": "Un Osasuna de dos caras",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c61f82f0-a8d2-4874-b2f8-ab63bd75fcb2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "caras",
+            "osasuna"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2025/11/25/osasuna-caras-10393050.html",
+        "date": "2025-11-25 06:11:24",
+        "sentiment_score": 0.1355074942111969
+    },
+    {
+        "title": "Madrid enfrenta la \"infrafinanciación\" del Gobierno de Ayuso a pie de calle: cuenta atrás para la doble huelga universitaria",
+        "image_url": "https://www.elplural.com/uploads/s1/20/57/35/7/protestas-contra-isabel-diaz-ayuso-en-la-universidad-alcala-de-henares-uah-ep_7_480x270.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/madrid-enfrenta-infrafinanciacion-gobierno-ayuso-pie-calle-cuenta-atras-doble-huelga-universitaria_365869102",
+        "date": "2025-11-25 06:10:16",
+        "sentiment_score": -0.04441669583320618
+    },
+    {
+        "title": "Videojuegos con apuestas ocultas aumentan el riesgo de que los adolescentes jueguen con dinero real",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251125070246_120.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-videojuegos-apuestas-ocultas-aumentan-riesgo-adolescentes-jueguen-dinero-real-20251125070246.html",
+        "date": "2025-11-25 06:02:46",
+        "sentiment_score": 0.12879009544849396
+    },
+    {
+        "title": "El ancla de Santa Marina está mal colocada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9057f13e-f268-4a5f-a4e0-2e924faba418_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "badajoz",
+            "arenas",
+            "valverde",
+            "madrid",
+            "tierra",
+            "iglesia"
+        ],
+        "link": "https://www.lacronicabadajoz.com/opinion/2025/11/25/ancla-santa-marina-mal-colocada-124085453.html",
+        "date": "2025-11-25 06:02:03",
+        "sentiment_score": -0.07993173599243164
+    },
+    {
+        "title": "Chelsea - Barcelona: Horario, posibles alineaciones y dónde ver el partido de la Champions League, en directo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/11/24/5A2DF52A-310A-489B-A167-D14AFA9DD64C/lamine-yamal-partido-brujas_98.jpg?crop=2109%2C1187%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "fútbol",
+            "antena 3 noticias",
+            "deportes"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/chelsea-barcelona-horario-posibles-alineaciones-donde-ver-partido-champions-league-directo_20251125692545f08080bd5ad6236372.html",
+        "date": "2025-11-25 06:00:16",
+        "sentiment_score": 0.03302266448736191
+    },
+    {
+        "title": "El Alavés, en positivo pese al bache",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8fd6f131-6d69-4c8f-bd99-0194a624a438_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "positivo",
+            "alaves",
+            "primera división",
+            "pese",
+            "bache"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2025/11/25/alaves-positivo-pese-bache-primera-division-10391983.html",
+        "date": "2025-11-25 06:00:06",
+        "sentiment_score": -0.8484288863837719
+    },
+    {
+        "title": "El plan ideal para disfrutar de obras de Picasso, Goya o Velázquez durante el puente de diciembre y no es en el Prado",
+        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744025002_260085819_1706x960.jpg",
+        "tags": [
+            "diego velázquez",
+            "zamora (provincia)",
+            "vivir castilla y león",
+            "pablo ruiz picasso",
+            "zamora",
+            "francisco de goya",
+            "arte"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20251125/plan-ideal-disfrutar-obras-picasso-goya-velazquez-puente-diciembre-no-prado/1003744022100_0.html",
+        "date": "2025-11-25 06:00:00",
+        "sentiment_score": 0.5027722492814064
+    },
+    {
+        "title": "Los nombres del vestuario del Real Madrid descontentos con Xabi Alonso: \"Espero que no esté escuchando la radio\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/11/25/6924edfc25e8e.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/nombres-vestuario-real-madrid-descontentos-xabi-alonso-espero-escuchando-radio-20251125_3258554.html",
+        "date": "2025-11-25 06:00:00",
+        "sentiment_score": -0.10105264186859131
+    },
+    {
+        "title": "El mercadillo navideño que se convierte en un 'pueblo' de casitas de madera en Suiza",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/17/691af60242e75.jpeg",
+        "tags": [
+            "destinos"
+        ],
+        "link": "https://www.20minutos.es/viajes/destinos/mercadillo-navideno-lucerna-se-convierte-pueblo-casitas-madera-ciudad-mas-bonita-suiza_6898708_0.html",
+        "date": "2025-11-25 06:00:00",
+        "sentiment_score": 0.6270647346973419
+    },
+    {
+        "title": "La Real Sociedad presume de extremos",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7f463d31-4cc5-4aec-9361-34dd1990df9a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real",
+            "extremos",
+            "sociedad",
+            "presume"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/11/25/real-sociedad-presume-extremos-10392465.html",
+        "date": "2025-11-25 06:32:49",
+        "sentiment_score": -0.15380540490150452
+    },
+    {
+        "title": "El Gobierno propone a Teresa Peramato, cercana a Dolores Delgado y García Ortiz, nueva fiscal general",
+        "image_url": "https://s3.elespanol.com/2025/11/25/actualidad/1003744028005_260124687_1706x960.jpg",
+        "tags": [
+            "fiscalía general del estado",
+            "félix bolaños garcía",
+            "tribunal supremo",
+            "revelación de secretos",
+            "tribunales",
+            "álvaro garcía ortiz"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20251125/gobierno-propone-teresa-peramato-cercana-dolores-delgado-garcia-ortiz-nueva-fiscal-general/1003744027934_0.html",
+        "date": "2025-11-25 06:32:03",
+        "sentiment_score": -0.4900532513856888
+    },
+    {
+        "title": "El precio más bajo de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 25 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "gasolina",
+            "noticias",
+            "precio gasolina",
+            "españa-economia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/25/el-precio-mas-bajo-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-25-de-noviembre/",
+        "date": "2025-11-25 06:30:43",
+        "sentiment_score": -0.000505790114402771
+    },
+    {
+        "title": "Euskadiko Orkestra visita Barcelona en un intercambio con la Simfònica catalana",
+        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2025/11/25/orkiestra-kTTB-U240343282213o5C-758x531@Diario%20Vasco.JPG",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/culturas/musica/euskadiko-orkestra-visita-barcelona-intercambio-simfonica-catalana-20251125071829-nt.html",
+        "date": "2025-11-25 06:18:29",
+        "sentiment_score": 0.16651315614581108
+    },
+    {
+        "title": "Bernard Torelló (Kai47): \"Cuando un producto se hace simplemente por el objetivo empresarial de sacar más beneficio, no espero nada bueno\"",
+        "image_url": "https://www.elplural.com/uploads/s1/21/05/97/5/bernard-torello-kai47_7_480x270.jpeg",
+        "tags": [
+            "el telescopio"
+        ],
+        "link": "https://www.elplural.com/el-telescopio/bernard-torello-kai47-cuando-producto-hace-simplemente-objetivo-empresarial-sacar-mas-beneficio-no-espero-nada-bueno_365842102",
+        "date": "2025-11-25 06:11:51",
+        "sentiment_score": -0.046660006046295166
+    },
+    {
+        "title": "Vox apuesta por la no confrontación con Aliança mientras no adopte un perfil excesivamente independentista",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32b614e0-3b7d-41f5-a51f-ceb14c769eac_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "santiago abascal",
+            "aliança catalana",
+            "vox"
+        ],
+        "link": "https://www.laopiniondemurcia.es/nacional/2025/11/25/vox-apuesta-confrontacion-alianca-adopte-124085573.html",
+        "date": "2025-11-25 06:11:02",
+        "sentiment_score": -0.19159336388111115
     }
 ];
