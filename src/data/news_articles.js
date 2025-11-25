@@ -3053,5 +3053,258 @@ export default [
         "link": "https://www.elperiodicoextremadura.com/ocio/tv/2025/11/24/inaki-urdangarin-vuelve-television-concede-entrevista-124081644.html",
         "date": "2025-11-24 21:43:53",
         "sentiment_score": -0.19278235733509064
+    },
+    {
+        "title": "Los Mossos siguen los pasos de la Ertzaintza y detallarán el origen de los detenidos",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/df/media_thumb-link-4120351.webp?1763996826=",
+        "tags": [
+            "mossos",
+            "actualidad",
+            "ertzaintza"
+        ],
+        "link": "https://www.meneame.net/story/mossos-siguen-pasos-ertzaintza-detallaran-origen-detenidos",
+        "date": "2025-11-24 17:30:04",
+        "sentiment_score": 0.00015241652727127075
+    },
+    {
+        "title": "Linda Caicedo renovó con el Real Madrid hasta 2031, antes de unirse a la selección Colombia femenina",
+        "image_url": "https://www.infobae.com/resizer/v2/EBQZKPFWXREQFKMCF4RC3QNIDU.jpg?auth=d5e2ed036d1bde957a49431080860135a9b40fb46f26d8113c9498f2efd1c06f&height=858&smart=true&width=1620",
+        "tags": [
+            "real madrid",
+            "selección colombia",
+            "mundial de australia y nueva zelanda 2023",
+            "linda caicedo",
+            "premio golden girl",
+            "fútbol femenino internacional",
+            "champions league femenina",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/11/25/linda-caicedo-renovo-con-el-real-madrid-hasta-2031-antes-de-unirse-a-la-seleccion-colombia-femenina/",
+        "date": "2025-11-25 02:00:01",
+        "sentiment_score": 0.47695095650851727
+    },
+    {
+        "title": "La infancia toma la palabra en el Congreso para defender sus derechos en la era digital",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/23caca99-02a5-4512-b404-0bee8111461b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "infancia,digital,aldeas infantiles,niños,diputados"
+        ],
+        "link": "https://www.elperiodicomediterraneo.com/ideas/aldeas-infantiles/infancia-derechos-era-digital.html",
+        "date": "2025-11-25 01:59:34",
+        "sentiment_score": 0.4364261329174042
+    },
+    {
+        "title": "El Gobierno asegura que acata la sentencia, pero ataca al Supremo",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/8e36b70c8f55569520d5270cd71b4ca2/crop/3x0/2045x1361/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/24/17640201643447.jpg",
+        "tags": [
+            "álvaro garcía ortiz>",
+            "política>",
+            "tribunal supremo>",
+            "opinión>"
+        ],
+        "link": "https://www.expansion.com/economia/politica/2025/11/25/6924d1aa468aeb135c8b4587.html",
+        "date": "2025-11-25 01:02:56",
+        "sentiment_score": -0.9270772160962224
+    },
+    {
+        "title": "¿Quién está detrás de Krispy Kreme España?",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/639d0cf2937f5991a40a350b0818759d/crop/0x575/2048x1941/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/24/17640064756265.jpg",
+        "tags": [
+            "artículos isabel vilches>"
+        ],
+        "link": "https://www.expansion.com/directivos/2025/11/25/6924999ee5fdeaff138b4575.html",
+        "date": "2025-11-25 01:02:22",
+        "sentiment_score": 0.16692419350147247
+    },
+    {
+        "title": "La Comunidad de Madrid frena 9.000 licencias de VTC por una disputa con Cabify",
+        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/24/1428303161-R6vFcwjBsSXS7mOY1DAejDM-1200x840@diario_abc.JPG",
+        "tags": [
+            "españa",
+            "madrid"
+        ],
+        "link": "https://www.abc.es/espana/madrid/comunidad-madrid-frena-9000-licencias-vtc-disputa-20251124184554-nt.html",
+        "date": "2025-11-25 00:57:05",
+        "sentiment_score": -0.22835902869701385
+    },
+    {
+        "title": "24 NOV 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/24-nov-2025-partidazo-cope-20251125_3258566.html",
+        "date": "2025-11-25 00:46:38",
+        "sentiment_score": -0.01853346824645996
+    },
+    {
+        "title": "La ahijada del rey Juan Carlos y la nieta de Carolina Herrera: las dos debutantes de Le Bal de las que todo el mundo habla",
+        "image_url": "https://s3.elespanol.com/2025/11/24/corazon/famosos/1003744027450_260117067_1706x960.jpg",
+        "tags": [
+            "juan carlos i",
+            "carolina herrera",
+            "parís",
+            "celebrities"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20251125/ahijada-rey-juan-carlos-nieta-carolina-herrera-debutantes-bal-mundo-habla/1003744027317_0.html",
+        "date": "2025-11-25 00:33:00",
+        "sentiment_score": 0.06695590540766716
+    },
+    {
+        "title": "PSG vs. Tottenham: hora y dónde ver al campeón de la Uefa Champions League en Colombia",
+        "image_url": "https://www.infobae.com/resizer/v2/YF2GMDHD6NABRKXBV4BNEYGGVI.JPG?auth=c6b388593fb0008cecb3f1c023592bf2d30fd78a2133fd33b96d2e112b0ada4a&height=1506&smart=true&width=2153",
+        "tags": [
+            "parc des princes",
+            "psg",
+            "parís",
+            "fase de grupos champions league",
+            "champions league",
+            "tottenham",
+            "colombia-deportes"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/11/25/psg-vs-tottenham-hora-y-donde-ver-al-campeon-de-la-uefa-champions-league-en-colombia/",
+        "date": "2025-11-25 00:30:00",
+        "sentiment_score": 0.40258998423814774
+    },
+    {
+        "title": "El debut costumbrista de un joven escritor bilbaíno que nace del amor a su amama",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/11/24/1503364282-kZSE-U2403386550051BC-758x531@El%20Correo.jpg",
+        "tags": [
+            "bilbao",
+            "novela"
+        ],
+        "link": "https://www.elcorreo.com/culturas/libros/debut-costumbrista-joven-escritor-bilbaino-nace-amor-20251124010502-nt.html",
+        "date": "2025-11-25 00:05:02",
+        "sentiment_score": -0.2279660627245903
+    },
+    {
+        "title": "\"Inhumanidad\" y \"persecución\": el separatismo ve una \"venganza del Estado\" la decisión de que se mantenga a Pujol en el juicio",
+        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027577_260118681_1706x960.jpg",
+        "tags": [
+            "tribunales",
+            "audiencia nacional",
+            "política",
+            "junts per catalunya",
+            "fiscalía anticorrupción",
+            "jordi pujol i soley",
+            "generalitat de catalunya",
+            "cataluña",
+            "corrupción"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251125/inhumanidad-persecucion-separatismo-ve-venganza-decision-mantenga-pujol-juicio/1003744027537_0.html",
+        "date": "2025-11-25 01:56:35",
+        "sentiment_score": -0.9245592895895243
+    },
+    {
+        "title": "El último golpe a Puigdemont: Silvia Orriols alienta el fichaje de decenas de alcaldes de Junts, con empate ya en las encuestas",
+        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027701_260120482_1706x960.jpg",
+        "tags": [
+            "junts",
+            "psoe (partido socialista obrero español)",
+            "vox",
+            "política",
+            "cataluña",
+            "psc"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251125/ultimo-golpe-puigdemont-silvia-orriols-alienta-fichaje-decenas-alcaldes-junts-empate-encuestas/1003744027491_0.html",
+        "date": "2025-11-25 01:56:32",
+        "sentiment_score": 0.5023692846298218
+    },
+    {
+        "title": "Barça y Chelsea, los dos grandes damnificados por el Fair Play de la UEFA: la venta de patrimonio sale cara",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/25/culemania/palco/1003742710526_15443605_1706x960.jpg",
+        "tags": [
+            "junta directiva del barça",
+            "joan laporta",
+            "fc barcelona",
+            "champions league",
+            "palco",
+            "uefa"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251125/barca-chelsea-damnificados-fair-play-uefa-patrimoniosalecara/1003742710525_0.html",
+        "date": "2025-11-25 01:29:26",
+        "sentiment_score": -0.8954899925738573
+    },
+    {
+        "title": "El menú del día sube a una media de 14,2 euros",
+        "image_url": "https://static.laregion.es/clip/af86bb19-cb29-490f-8053-4bc3c68f98c2_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "comida",
+            "índice de precios al consumo",
+            "hosteleria"
+        ],
+        "link": "https://www.laregion.es/economia/menu-dia-sube-media-14_1_20251125-4068898.html",
+        "date": "2025-11-25 01:10:37",
+        "sentiment_score": 0.2964068576693535
+    },
+    {
+        "title": "Cecilia Bartoli, mezzosoprano: \"La ópera debe abrir sus puertas. La pasión del público es su mayor esperanza\"",
+        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744022757_260054296_1706x960.jpg",
+        "tags": [
+            "música clásica",
+            "entrevistas",
+            "música"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251125/cecilia-bartoli-mezzosoprano-opera-debe-abrir-puertas-pasion-publico-mayor-esperanza/1003744022604_0.html",
+        "date": "2025-11-25 00:55:00",
+        "sentiment_score": 0.030460119247436523
+    },
+    {
+        "title": "El nuevo logo del Ayuntamiento de Madrid desconcierta a expertos creativos: \"La ciudad merece más cariño y trabajo\"",
+        "image_url": "https://static.eldiario.es/clip/0ddc1151-57b7-4b08-9f37-226904465234_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ayuntamiento",
+            "trabajo",
+            "creativos",
+            "carino",
+            "expertos",
+            "logo",
+            "madrid",
+            "desconcierta",
+            "ciudad",
+            "merece",
+            "nuevo"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/nuevo-logo-ayuntamiento-madrid-desconcierta-expertos-creativos-ciudad-merece-carino-trabajo_1_12792111.html",
+        "date": "2025-11-25 00:00:23",
+        "sentiment_score": -0.04191067814826965
+    },
+    {
+        "title": "Isabel del Alentejo",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2025/11/24/207596657.jpg",
+        "tags": [
+            "isabel",
+            "alentejo"
+        ],
+        "link": "https://www.hoy.es/extremadura/isabel-alentejo-20251125074735-nt.html",
+        "date": "2025-11-25 00:00:00",
+        "sentiment_score": 0.5887931361794472
+    },
+    {
+        "title": "La Vida Bohème se presentará en el Caracas Music Hall el 22 de diciembre",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/24191930/LVB-2-2560x1707.jpg",
+        "tags": [
+            "música",
+            "la vida bohème",
+            "la vida bohème se presentará en el caracas music hall antes de navidad",
+            "entretenimiento"
+        ],
+        "link": "https://www.elnacional.com/2025/11/la-vida-boheme-se-presentara-en-el-caracas-music-hall-el-22-de-diciembre/",
+        "date": "2025-11-24 23:31:03",
+        "sentiment_score": 0.06143384426832199
+    },
+    {
+        "title": "«Con esta edición he aprendido que no sabemos nada del amor ni de nuestra pareja»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/25/sandra-barneda-kS7B-U240338225471GHF-1200x840@RC.jpg",
+        "tags": [
+            "pablo motos",
+            "sandra barneda",
+            "la isla de las tentaciones",
+            "televisión",
+            "telecinco"
+        ],
+        "link": "https://www.leonoticias.com/culturas/tv/edicion-aprendido-sabemos-amor-pareja-20251125002828-ntrc.html",
+        "date": "2025-11-24 23:28:29",
+        "sentiment_score": 0.4336414821445942
     }
 ];
