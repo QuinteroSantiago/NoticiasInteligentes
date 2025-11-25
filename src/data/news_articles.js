@@ -1,149 +1,5 @@
 export default [
     {
-        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"El Gobierno busca ya nuevo fiscal general del Estado de su cuerda\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "españa",
-            "ondacero",
-            "noticias"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-gobierno-busca-nuevo-fiscal-general-estado-cuerda_2025112169200499df41134465e333b0.html",
-        "date": "2025-11-21 06:20:09",
-        "sentiment_score": 0.14544391632080078
-    },
-    {
-        "title": "Los tres desafíos de Xabi en el Real Madrid: recuperar el vestuario, el juego y el apoyo de Florentino",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/502631e0-a705-4500-acdd-4b664076a293_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid",
-            "florentino pérez",
-            "xabi alonso",
-            "fútbol"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2025/11/21/desafios-xabi-alonso-real-madrid-continuidad-florentino-perez-futbol-123961086.html",
-        "date": "2025-11-21 06:13:54",
-        "sentiment_score": -0.8018197696655989
-    },
-    {
-        "title": "OPINIÓN | Mucho más que espina bífida, por Alfredo Quintana",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/11/27/alfredo-quintana-es-periodista-y-escritor.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/capaces/mucho-mas-que-espina-bifida_6880810_3.html",
-        "date": "2025-11-21 06:11:15",
-        "sentiment_score": -0.7724271975457668
-    },
-    {
-        "title": "Los 10 hitos de la Corona en 10 discursos claves",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47970f44-4ed5-409c-bd8f-b4d2e8748854_16-9-aspect-ratio_default_1416977.jpg",
-        "tags": [
-            "felipe vi,rey felipe vi,monarquía,democracia,referéndum 1 de octubre,golpe de estado"
-        ],
-        "link": "https://www.elcorreoweb.es/espana/2025/11/21/hitos-corona-10-discursos-claves-juan-carlos-felipe-123961020.html",
-        "date": "2025-11-21 06:08:37",
-        "sentiment_score": -0.5008750632405281
-    },
-    {
-        "title": "Lo que debes saber hoy, 21 de noviembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/08/13/informacion-municipal/1003742681413_15011381_1706x960.jpg",
-        "tags": [
-            "aemet (agencia estatal de meteorología)",
-            "transports metropolitans barcelona tmb",
-            "tráfico",
-            "autobús",
-            "renfe barcelona",
-            "clima",
-            "metro barcelona",
-            "movilidad",
-            "el tiempo",
-            "transporte"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251121/debes-saber-hoy-noviembre-barcelona/1003742709445_0.html",
-        "date": "2025-11-21 06:31:51",
-        "sentiment_score": 0.33068137615919113
-    },
-    {
-        "title": "\"A cada 'reel' que tiene éxito, alguien te dice «háblame en cristiano»\": hablan los 'influencers' del catalán",
-        "image_url": "https://static1.ara.cat/clip/1101dfcb-e6ea-4be0-9b8e-011e7e9f49cd_16-9-aspect-ratio_default_0_x1362y1255.jpg",
-        "tags": [
-            "catalan",
-            "reel",
-            "hablan",
-            "exito",
-            "alguien",
-            "influencers",
-            "cristiano",
-            "hablame",
-            "dice"
-        ],
-        "link": "https://es.ara.cat/lengua/reel-exito-alguien-dice-hablame-cristiano-hablan-influencers-catalan_130_5568692.html",
-        "date": "2025-11-21 06:30:41",
-        "sentiment_score": -0.21795079112052917
-    },
-    {
-        "title": "El elefante en el salón Arencibia: así fue la intervención de Carolina Darias en el Foro Prensa Ibérica en Canarias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/068919e6-1c11-438f-84e0-c291518ff3d3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "residuos",
-            "política",
-            "foro prensa ibérica",
-            "canarias",
-            "las palmas",
-            "inmaculada medina",
-            "carolina darias"
-        ],
-        "link": "https://www.laprovincia.es/las-palmas/2025/11/21/carolina-darias-foro-prensa-iberica-balance-mandato-123953648.html",
-        "date": "2025-11-21 06:30:28",
-        "sentiment_score": -0.28684002161026
-    },
-    {
-        "title": "El impulso del corredor mediterráneo en ocho años: 221 km más terminados y 494 en obras",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3518e8ed-aa60-405a-8af3-bfbb13ac0b7c_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tarragona",
-            "barcelona",
-            "corredor mediterráneo",
-            "ave",
-            "construcción"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20251121/impulso-corredor-mediterraneo-ocho-anos-123962328",
-        "date": "2025-11-21 06:24:26",
-        "sentiment_score": -0.09772872924804688
-    },
-    {
-        "title": "Núria Rodríguez-Planas: \"Reducir la brecha de género no solo mejora la situación de las mujeres, también la de los hombres\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4eb73705-0ffb-4a95-b697-505d6641dca2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "economía",
-            "padres",
-            "salarios",
-            "educación",
-            "trabajo",
-            "mujeres",
-            "género"
-        ],
-        "link": "https://www.laopiniondemurcia.es/economia/2025/11/21/nuria-rodriguez-planas-reducir-brecha-genero-educacion-123961197.html",
-        "date": "2025-11-21 06:20:22",
-        "sentiment_score": -0.05152690410614014
-    },
-    {
-        "title": "¿Por qué es tan difícil regularizar el estatus para los inmigrantes que llevan décadas viviendo en EEUU?",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Screenshot_138-1.jpg",
-        "tags": [
-            "inmigrantes",
-            "internacionales",
-            "usa",
-            "regularizar",
-            "estatus",
-            "eeuu",
-            "actualidad"
-        ],
-        "link": "https://lapatilla.com/2025/11/21/por-que-es-tan-dificil-regularizar-el-estatus-para-los-inmigrantes-que-llevan-decadas-viviendo-en-eeuu/",
-        "date": "2025-11-21 10:00:13",
-        "sentiment_score": 0.16452598571777344
-    },
-    {
         "title": "Ayuso teme que Sánchez prepare \"algo desquiciado\" tras la condena al fiscal y avisa",
         "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/11/21/la-presidenta-de-la-comunidad-de-madrid-isabel-diaz-ayuso-ha-celebrado-este-viernes-que-la-justicia-funciona-tras-la-condena-del-tribunal-supremo.jpeg",
         "tags": [
@@ -2993,5 +2849,209 @@ export default [
         "link": "https://www.europapress.es/deportes/futbol-00162/noticia-villarreal-necesita-asaltar-muro-amarillo-20251124180318.html",
         "date": "2025-11-24 17:03:18",
         "sentiment_score": 0.19864323735237122
+    },
+    {
+        "title": "Los Mossos siguen los pasos de la Ertzaintza y detallarán el origen de los detenidos",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/df/media_thumb-link-4120351.webp?1763996826=",
+        "tags": [
+            "mossos",
+            "actualidad",
+            "ertzaintza"
+        ],
+        "link": "https://www.meneame.net/story/mossos-siguen-pasos-ertzaintza-detallaran-origen-detenidos",
+        "date": "2025-11-24 17:30:04",
+        "sentiment_score": 0.0001523047685623169
+    },
+    {
+        "title": "Castilla-La Mancha lanzará el programa Aurea para detectar talento deportivo",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/11/24/2025112423175110787.jpg",
+        "tags": [
+            "cuenca"
+        ],
+        "link": "https://www.clm24.es/articulo/cuenca/castilla-mancha-lanzara-2026-programa-aurea-detectar-talento-deportivo/20251124231857464766.html",
+        "date": "2025-11-24 22:18:57",
+        "sentiment_score": 0.5868806317448616
+    },
+    {
+        "title": "Bayern Múnich y Arsenal se enfrentan en Londres buscando mantener el inicio perfecto",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/b290f60/2147483647/strip/true/crop/2549x1338+0+181/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2F95%2F256c84d249029e32ad5d6d657965%2F8dec587646124a4fa4add37402e53f06.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-11-24/bayern-munich-y-arsenal-se-enfrentan-en-londres-buscando-mantener-el-inicio-perfecto",
+        "date": "2025-11-24 22:12:51",
+        "sentiment_score": 0.3802132047712803
+    },
+    {
+        "title": "El Espanyol recupera su solidez en casa a costa del Sevilla",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251124230346_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-espanyol-recupera-solidez-casa-costa-sevilla-20251124230346.html",
+        "date": "2025-11-24 22:03:46",
+        "sentiment_score": -0.33503589034080505
+    },
+    {
+        "title": "El Real Betis instala biorecicladora SDDR ® en La Cartuja para continuar fomentando el reciclaje responsable entre sus aficionados",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7742383",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5680685/real-betis-instala-biorecicladora-sddr-cartuja-continuar-fomentando-reciclaje-responsable-entre-aficionados",
+        "date": "2025-11-24 21:34:48",
+        "sentiment_score": 0.5239031184464693
+    },
+    {
+        "title": "Fernando Arnáiz da vida al naturalista Pedro Franco Dávila en su nueva novela histórica, ́El naturalista ́.",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7742385",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5680686/fernando-arnaiz-da-vida-naturalista-pedro-franco-davila-nueva-novela-historica-naturalista",
+        "date": "2025-11-24 21:33:09",
+        "sentiment_score": 0.04171094298362732
+    },
+    {
+        "title": "LaLiga EA Sports 25 – 26 | El Espanyol se consolida en la sexta plaza con 21 puntos",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/laliga-ea-sports-25-26-jornada-13-lunes-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lagradaonline.com/laliga-jornada-13-resultados-clasificacion-partidos-espanyol-sevilla-lunes/",
+        "date": "2025-11-24 21:25:18",
+        "sentiment_score": 0.39308081567287445
+    },
+    {
+        "title": "La cultura de quedar para ponerse al día con amigos: por qué ya no compartimos la vida, nos la resumimos",
+        "image_url": "https://static.eldiario.es/clip/8e8ed4fa-aa13-40f0-ab38-acb39a36dcce_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ponerse",
+            "vida",
+            "cultura",
+            "amigos",
+            "compartimos",
+            "quedar",
+            "no",
+            "resumimos",
+            "dia"
+        ],
+        "link": "https://www.eldiario.es/era/cultura-quedar-ponerse-dia-amigos-no-compartimos-vida-resumimos_1_12791667.html",
+        "date": "2025-11-24 21:04:01",
+        "sentiment_score": -0.08282722532749176
+    },
+    {
+        "title": "Los funcionarios cobrarán casi 3.200 euros al mes en 14 pagas tras la subida del 11%",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/11/24/funcionarios-kb0E-U240337460661pME-1200x840@RC.JPG",
+        "tags": [
+            "isabel díaz ayuso",
+            "encuesta población activa (epa)"
+        ],
+        "link": "https://www.elcomercio.es/economia/trabajo/funcionarios-cobraran-3200-euros-mes-pagas-tras-20251124215915-ntrc.html",
+        "date": "2025-11-24 20:59:17",
+        "sentiment_score": 0.09376664459705353
+    },
+    {
+        "title": "Urbanismo clausura un crematorio de animales sin licencia en Alicante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/359b1fda-4eaa-4b2d-8e5a-e0c8c5a9e00d_16-9-aspect-ratio_default_0_x891y201.jpg",
+        "tags": [
+            "mascotas",
+            "urbanismo",
+            "a-31",
+            "animales",
+            "ocio"
+        ],
+        "link": "https://www.informacion.es/alicante/2025/11/24/urbanismo-clausura-crematorio-animales-licencia-alicante-124081454.html",
+        "date": "2025-11-24 22:07:18",
+        "sentiment_score": -0.8707162877544761
+    },
+    {
+        "title": "Crean la primera IA capaz de diagnosticar enfermedades ultra raras sin datos familiares",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/Crean-la-primera-IA-capaz-de-diagnosticar-enfermedades-ultra-raras-sin-datos-familiares.jpg",
+        "tags": [
+            "enfermedades",
+            "salud",
+            "familias",
+            "sociedad",
+            "inteligencia artificial"
+        ],
+        "link": "https://theobjective.com/sociedad/2025-11-24/crean-primera-ia-enfermedades-ultra-raras/",
+        "date": "2025-11-24 22:06:26",
+        "sentiment_score": 0.2608877830207348
+    },
+    {
+        "title": "Reportan que caída de guaya dejó sin electricidad a varias familias del sector 19 de Abril de Naricual",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "comunidad",
+            "locales",
+            "servicios públicos"
+        ],
+        "link": "https://eltiempove.com/reportan-que-caida-de-guaya-dejo-sin-electricidad-a-varias-familias-del-sector-19-de-abril-de-naricual/",
+        "date": "2025-11-24 22:03:08",
+        "sentiment_score": -0.6774698905646801
+    },
+    {
+        "title": "Resultados del sorteo de 'La Bonoloto' del lunes 24 de noviembre",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.europapress.es/sociedad/noticia-resultados-sorteo-bonoloto-lunes-24-noviembre-20251124230203.html",
+        "date": "2025-11-24 22:02:03",
+        "sentiment_score": 0.07748430967330933
+    },
+    {
+        "title": "El Espanyol comprueba que había vida después de Joan Garcia",
+        "image_url": "https://static1.ara.cat/clip/7b051ccf-5bb7-4569-808d-0bea4d0f9b17_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "espanyol",
+            "habia",
+            "comprueba",
+            "despues",
+            "joan",
+            "vida",
+            "garcia"
+        ],
+        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-comprueba-habia-vida-despues-joan-garcia_1_5572345.html",
+        "date": "2025-11-24 21:59:54",
+        "sentiment_score": 0.6087380200624466
+    },
+    {
+        "title": "Las pruebas que tumbaron a la 'sagrada familia' desde EL MUNDO: de las cuentas en Suiza a un Porsche con la 'senyera'",
+        "image_url": "https://phantom-elmundo.uecdn.es/0b97729c36c45af6df21589868b134ca/crop/1335x0/2194x859/f/image/jpeg/assets/multimedia/imagenes/2022/04/07/16493333774499.jpg",
+        "tags": [
+            "audiencia nacional",
+            "oleguer pujol",
+            "jordi pujol",
+            "jordi pujol ferrusola",
+            "artículos esteban urreiztieta"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/24/6924a407e4d4d8657d8b45a0.html",
+        "date": "2025-11-24 21:58:37",
+        "sentiment_score": -0.04597373306751251
+    },
+    {
+        "title": "La Junta del Espanyol que puede cambiar una época: una cita que cierra la etapa Rastar y abre la de Pace y Velocity",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/mao-ye-alan-pace-antonio-davila-espanyol-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lagradaonline.com/junta-accionistas-espanyol-velocity-sports-rastar-pace/",
+        "date": "2025-11-24 21:53:45",
+        "sentiment_score": 0.5553251802921295
+    },
+    {
+        "title": "Iñaki Urdangarin vuelve a la televisión y concede su entrevista más esperada: todos los detalles",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a43bd4f-5267-483e-891f-1993968d1611_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "la 2",
+            "iñaki urdangarin"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/ocio/tv/2025/11/24/inaki-urdangarin-vuelve-television-concede-entrevista-124081644.html",
+        "date": "2025-11-24 21:43:53",
+        "sentiment_score": -0.19278235733509064
     }
 ];
