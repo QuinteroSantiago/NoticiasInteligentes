@@ -1,178 +1,5 @@
 export default [
     {
-        "title": "«Esto es propio de una dictadura»: Ayuso acusa a Sánchez de dinamitar la separación de poderes",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/11/22/2025112207190946327.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/espanha/es-propio-dictadura-ayuso-acusa-sanchez-dinamitar-separacion-poderes/20251122073154575975.html",
-        "date": "2025-11-22 06:31:54",
-        "sentiment_score": -0.6350448280572891
-    },
-    {
-        "title": "Por qué Juan Carlos I sigue siendo un referente de democracia en buena parte del mundo",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/20/el-rey-juan-carlos-i-saluda-desde-la-escalerilla-de-un-helicoptero-al-llegar-a-una-visita-al-museo-mercedes-benz-en-stuttgart-alemania-en-1977.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/por-que-juan-carlos-i-sigue-siendo-un-referente-de-democracia-en-buena-parte-del-mundo.html",
-        "date": "2025-11-22 06:02:58",
-        "sentiment_score": -0.2891122102737427
-    },
-    {
-        "title": "El magistrado Enrique Arnaldo: «El Tribunal Constitucional es un VAR de la Justicia»",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/22/692151bfa8e03.r_d.810-432-7407.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20251122/magistrado-enrique-arnaldo-tribunal-constitucional-var-justicia_357854.html",
-        "date": "2025-11-22 06:01:48",
-        "sentiment_score": -0.09772452712059021
-    },
-    {
-        "title": "Así es imposible",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "imposible"
-        ],
-        "link": "https://www.deia.eus/opinion/madrilgogortetik/2025/11/22/imposible-10383699.html",
-        "date": "2025-11-22 06:00:17",
-        "sentiment_score": -0.9198851436376572
-    },
-    {
-        "title": "LaLiga EA Sports 25 – 26 | Hugo Duro ilumina un derbi feísimo: el Valencia respira y el Levante se mete en problemas serios",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/laliga-ea-sports-25-26-jornada-13-viernes-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/laliga-jornada-13-previa-claves-resultados-clasificacion-partidos-espanyol-sevilla-viernes/",
-        "date": "2025-11-22 05:39:48",
-        "sentiment_score": 0.4460958391427994
-    },
-    {
-        "title": "La crítica de Boyero a la película sobre la Cañada Real: “Entro igual que salgo. Prefiero el cine a la vida real”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/P22PBFNOU5A7FO3T2AV6YR6P2E.jpg?auth=977cc4748876bb6f0445fb6c915f5e51e9ca14e85b8aef1001b3c8315f019acc&width=1200",
-        "tags": [
-            "películas",
-            "cañada real",
-            "estrenos cine",
-            "cultura",
-            "crítica cine",
-            "cine"
-        ],
-        "link": "https://elpais.com/cultura/cine/2025-11-22/la-critica-de-boyero-a-la-pelicula-sobre-la-canada-real-entro-igual-que-salgo-prefiero-el-cine-a-la-vida-real.html",
-        "date": "2025-11-22 05:25:37",
-        "sentiment_score": -0.3328132778406143
-    },
-    {
-        "title": "La debilidad de Isabel Gemio por su hijo: «Dos palabras cambiaron mi vida; distrofia muscular»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/isabel-gemio-periodista.jpeg",
-        "tags": [
-            "gente",
-            "celebrities",
-            "hijos",
-            "periodistas",
-            "enfermedades"
-        ],
-        "link": "https://theobjective.com/gente/2025-11-22/isabel-gemio-periodista-debilidad-hijo/",
-        "date": "2025-11-22 06:30:00",
-        "sentiment_score": 0.6822853088378906
-    },
-    {
-        "title": "Caso Pujol: una estafa política y económica desde Banca Catalana hasta el 3%",
-        "image_url": "https://s1.staticld.com/2025/11/21/jordi-pujol10092025-recorte.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/espana/2025-11-22/caso-pujol-una-estafa-politica-y-economica-desde-banca-catalana-hasta-el-3-por-ciento-7322984/",
-        "date": "2025-11-22 06:26:50",
-        "sentiment_score": -0.7699612136930227
-    },
-    {
-        "title": "“Lux” de Rosalía cautiva a cardenal y obispos del Vaticano",
-        "image_url": "https://dims.apnews.com/dims4/default/847ae88/2147483647/strip/true/crop/3000x1688+0+656/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F01%2F37%2Fe45d15aa23fee934a38a04d742a5%2F2e637772801d4ec9a5f80e3672459945",
-        "tags": [
-            "espectaculos",
-            "arts and entertainment",
-            "rosalia lux vaticano religion",
-            "noticias",
-            "entertainment"
-        ],
-        "link": "https://apnews.com/article/rosalia-lux-vaticano-religion-dcb308a544e85df8b93b44c28d8b9982",
-        "date": "2025-11-22 06:21:33",
-        "sentiment_score": 0.7475396282970905
-    },
-    {
-        "title": "“Lux” de Rosalía cautiva a cardenal y obispos del Vaticano",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/11/ROSAL205A-LUX_91659.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2025/11/22/lux-de-rosala-cautiva-a-cardenal-y-obispos-del-vaticano/",
-        "date": "2025-11-22 06:21:32",
-        "sentiment_score": 0.5348782241344452
-    },
-    {
-        "title": "Encendido de las luces de Navidad en Barcelona, hoy en directo: hora, afectaciones al tráfico y espectáculo en Paseo de Gracia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/171bf453-4046-44f7-8003-1205c549dd0a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "tradiciones",
-            "fiestas",
-            "navidad"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20251122/luces-navidad-2025-barcelona-encendido-ultima-hora-directo-123999737",
-        "date": "2025-11-22 06:15:51",
-        "sentiment_score": 0.4259508177638054
-    },
-    {
-        "title": "Susana, jubilada y viuda de 79 años, pensión de 800 euros. \"No me llega, duermo en el sofá porque comparto piso con estudiantes\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/01/20/jubilada-sacando-dinero-pension-1200-675.webp",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/susana-jubilada-viuda-79nos-pension-800-euros-no-me-llega-duermo-sofa-comparto-piso-estudiantes.html",
-        "date": "2025-11-22 06:04:53",
-        "sentiment_score": -0.6839925535023212
-    },
-    {
-        "title": "La larga travesía del Barcelona para volver al Camp Nou: plazos incumplidos, polémica con la empresa y un equipo itinerante",
-        "image_url": "https://static.eldiario.es/clip/552d6f65-3574-4f2f-acd3-b1f5893980bd_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pm",
-            "larga",
-            "travesia",
-            "barcelona",
-            "polemica",
-            "camp",
-            "plazos",
-            "itinerante",
-            "equipo",
-            "volver",
-            "empresa",
-            "nou",
-            "incumplidos"
-        ],
-        "link": "https://www.eldiario.es/spin/deportes/larga-travesia-barcelona-volver-camp-nou-plazos-incumplidos-polemica-empresa-equipo-itinerante-pm_1_12786575.html",
-        "date": "2025-11-22 06:00:58",
-        "sentiment_score": 0.03308224678039551
-    },
-    {
-        "title": "Martín Rocca, director de '50 segundos': \"Es el miedo de todo padre, tu hijo sale de fiesta y no vuelve\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/63c77acf-65c8-406f-a81b-55bf5d7d994d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "agresiones físicas",
-            "jóvenes",
-            "argentina",
-            "discotecas",
-            "documentales",
-            "netflix"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251122/martin-rocca-director-50-segundos-netflix-paliza-mortal-adolescente-argentina-123985029",
-        "date": "2025-11-22 06:00:32",
-        "sentiment_score": -0.5034426227211952
-    },
-    {
         "title": "¿Por qué se la van a llevar así?\": una madre cuenta cómo ICE detuvo a su hijo y se llevó a su nieta |",
         "image_url": "https://cdn.mnmstatic.net/cache/3e/dc/media_thumb-link-4119736.webp?1763798646=",
         "tags": [
@@ -2942,5 +2769,229 @@ export default [
         "link": "https://es.ara.cat/media/derecha-ultraderecha-ponen-hijos-periodistas-diana_1_5573208.html",
         "date": "2025-11-25 17:02:27",
         "sentiment_score": -0.31431812047958374
+    },
+    {
+        "title": "El Real Madrid se blinda y tumba al líder Hapoel",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/aaad2006-47d8-40b7-b1805587272599d3.jpg",
+        "tags": [
+            "euroliga",
+            "real madrid",
+            "sergio scariolo",
+            "eurocup"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zc4ef3614-f7c9-4781-8123a7300d56e77c/202511/el-real-madrid-se-blinda-y-tumba-al-lider-hapoel",
+        "date": "2025-11-25 22:08:14",
+        "sentiment_score": 0.5837173461914062
+    },
+    {
+        "title": "Así queda la clasificación de la Champions League tras la derrota del Barcelona ante el Chelsea",
+        "image_url": "https://okdiario.com/img/2025/11/25/imagen_recortada-2025-11-25t230036.589.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "villarreal club de fútbol",
+            "fc barcelona",
+            "athletic club de bilbao"
+        ],
+        "link": "https://okdiario.com/deportes/asi-queda-clasificacion-champions-league-derrota-del-barcelona-chelsea-15828410",
+        "date": "2025-11-25 22:01:47",
+        "sentiment_score": -0.9137520790100098
+    },
+    {
+        "title": "Así se destapó la identidad de Martiño en Cuba: un descuido, un rostro familiar entre la multitud y una despedida telefónica",
+        "image_url": "https://phantom-elmundo.uecdn.es/1664d66a64e0a740532b323a8612f8a3/crop/1062x130/2148x1217/f/image/jpeg/assets/multimedia/imagenes/2025/10/02/17594246983601.jpg",
+        "tags": [
+            "sucesos",
+            "artículos juan b. cañellas",
+            "nlpremium",
+            "agresiones sexuales"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/25/692607c6fc6c83cc408b45d3.html",
+        "date": "2025-11-25 21:34:25",
+        "sentiment_score": -0.6622629389166832
+    },
+    {
+        "title": "Hostelería clama contra el recorte horario de las terrazas de Santander en su gala anual",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2025/11/25/foto-familia-hosteleria-U240352951838etG-1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "asociación de hostelería de cantabria",
+            "santander",
+            "hostelería",
+            "cantabria (provincia)"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/hosteleria-clama-recorte-horario-terrazas-santander-gala-20251125223059-nt.html",
+        "date": "2025-11-25 21:30:59",
+        "sentiment_score": -0.1528804451227188
+    },
+    {
+        "title": "\"El talento es el motor económico más valioso\"",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/0f3e479a1b2a99c3e83de7962d9d7eae/crop/0x207/2048x1572/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/25/17641044460370.jpg",
+        "tags": [
+            "nea>",
+            "empleo>",
+            "desarrollo de carrera>"
+        ],
+        "link": "https://www.expansion.com/expansion-empleo/2025/11/25/69261562e5fdea73798b45c3.html",
+        "date": "2025-11-25 21:16:14",
+        "sentiment_score": 0.7224410176277161
+    },
+    {
+        "title": "Castilla-La Mancha se queda en blanco y no suma ninguna nueva estrella Michelin a su firmamento",
+        "image_url": "https://s3.elespanol.com/2025/11/25/actualidad/1003744029607_260144837_1706x960.jpg",
+        "tags": [
+            "gastronomía",
+            "estrellas michelin",
+            "castilla-la mancha"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/vivir/gastro/20251125/castilla-la-mancha-queda-blanco-no-suma-ninguna-estrella-michelin-firmamento/1003744029613_0.html",
+        "date": "2025-11-25 21:14:52",
+        "sentiment_score": 0.6139634028077126
+    },
+    {
+        "title": "España cierra el Europeo Paralímpico de tenis de mesa con dos nuevas platas en dobles",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251125221347_690.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/noticia-espana-cierra-europeo-paralimpico-tenis-mesa-dos-nuevas-platas-dobles-20251125221347.html",
+        "date": "2025-11-25 21:13:47",
+        "sentiment_score": 0.3080604039132595
+    },
+    {
+        "title": "El mapa con todas las Estrellas de la Guía Michelin 2026",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/11/25/69259ac718fd90-50512939.r_d.590-312.jpeg",
+        "tags": [
+            "restaurantes"
+        ],
+        "link": "https://www.20minutos.es/gastronomia/restaurantes/mapa-todos-restaurantes-guia-michelin-espana-2026_5656084_0.html",
+        "date": "2025-11-25 21:07:48",
+        "sentiment_score": -0.01228669285774231
+    },
+    {
+        "title": "El gobierno local de Langreo exige al Principado una solución para la escultura \"Marea roja\" tras su deterioro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/005405ff-e216-4b03-8164-d5e16a576dce_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "escultura",
+            "arte",
+            "restauración"
+        ],
+        "link": "https://www.lne.es/cuencas/2025/11/25/gobierno-local-langreo-exige-principado-124113897.html",
+        "date": "2025-11-25 21:01:13",
+        "sentiment_score": -0.44380878657102585
+    },
+    {
+        "title": "El difícil retorno de los exiliados",
+        "image_url": "https://static.eldiario.es/clip/31c022c8-d4ca-4eac-a90c-a7b77deaa472_16-9-discover-aspect-ratio_default_0_x1666y448.jpg",
+        "tags": [
+            "dificil",
+            "retorno",
+            "exiliados"
+        ],
+        "link": "https://www.eldiario.es/sociedad/dificil-retorno-exiliados_1_12769589.html",
+        "date": "2025-11-25 20:55:32",
+        "sentiment_score": -0.10883587598800659
+    },
+    {
+        "title": "Noche negra para el Barça en Stamford Bridge: los de Flick tocan fondo en Europa",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/25/culemania/primer-equipo/1003742710885_15448239_1706x960.jpg",
+        "tags": [
+            "josep maria bartomeu",
+            "primer equipo",
+            "joan laporta",
+            "champions league",
+            "hansi flick"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251125/noche-negra-barca-stamford-bridge-flick-europa/1003742710880_0.html",
+        "date": "2025-11-25 22:18:41",
+        "sentiment_score": 0.2728240489959717
+    },
+    {
+        "title": "El Barça naufraga en Stamford Bridge",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/25/Clipboard-0259-k2aD-U240350624846fbG-1200x840@RC.jpg",
+        "tags": [
+            "f.c. barcelona",
+            "champions league"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/cronica-chelsea-barcelona-champions-jornada5-20251125182329-ntrc.html",
+        "date": "2025-11-25 22:15:39",
+        "sentiment_score": -0.8593151178210974
+    },
+    {
+        "title": "Así fueron los goles de la goleada del Chelsea al Barcelona",
+        "image_url": "https://okdiario.com/img/2025/11/25/imagen_recortada-6.jpg",
+        "tags": [
+            "barcelona",
+            "fc barcelona",
+            "chelsea",
+            "deportes",
+            "champions league"
+        ],
+        "link": "https://okdiario.com/deportes/asi-fueron-goles-goleada-del-chelsea-barcelona-15829285",
+        "date": "2025-11-25 22:12:44",
+        "sentiment_score": 0.10228955745697021
+    },
+    {
+        "title": "Araujo complica la vida al Barça en Londres",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/b553ce93-6380-45d9-83a9b0fda3652883.jpg",
+        "tags": [
+            "fc barcelona",
+            "andrés iniesta",
+            "hansi flick",
+            "chelsea fc",
+            "inter de milán",
+            "roma",
+            "milán",
+            "psg",
+            "lamine yamal",
+            "champions league",
+            "frenkie de jong",
+            "ronald araujo",
+            "londres",
+            "ferran torres"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z46288282-4522-49f8-8970403093f660a3/202511/araujo-complica-la-vida-al-barca-en-londres",
+        "date": "2025-11-25 22:12:31",
+        "sentiment_score": -0.9143006075173616
+    },
+    {
+        "title": "El Athletic suma un punto insuficiente en Praga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c75279fa-093f-44ad-9a7b-a3224374b12a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "champions league",
+            "athletic club",
+            "fútbol"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2025/11/25/athletic-suma-punto-insuficiente-praga-124125548.html",
+        "date": "2025-11-25 22:12:26",
+        "sentiment_score": -0.45300158858299255
+    },
+    {
+        "title": "El Athletic suma un punto insuficiente en Praga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c75279fa-093f-44ad-9a7b-a3224374b12a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "champions league",
+            "fútbol",
+            "athletic club"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2025/11/25/athletic-suma-punto-insuficiente-praga-124125531.html",
+        "date": "2025-11-25 22:12:20",
+        "sentiment_score": -0.7287909053266048
+    },
+    {
+        "title": "Recuento final: ¿cómo han quedado este año las estrellas Michelin en Cataluña?",
+        "image_url": "https://static1.ara.cat/clip/36d9c733-ddaa-43cd-8172-bd7fc0634189_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cataluna",
+            "recuento",
+            "michelin",
+            "final",
+            "estrellas",
+            "quedado",
+            "han",
+            "ano"
+        ],
+        "link": "https://es.ara.cat/comer/recuento-final-han-quedado-ano-estrellas-michelin-cataluna_1_5573565.html",
+        "date": "2025-11-25 22:11:48",
+        "sentiment_score": 0.0582098662853241
     }
 ];
