@@ -2993,5 +2993,245 @@ export default [
         "link": "https://es.ara.cat/comer/recuento-final-han-quedado-ano-estrellas-michelin-cataluna_1_5573565.html",
         "date": "2025-11-25 22:11:48",
         "sentiment_score": 0.0582098662853241
+    },
+    {
+        "title": "La medida del Pentágono contra el héroe de guerra Kelly demuestra que la sed de venganza de Trump no tiene fin",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/df/media_thumb-link-4120522.webp?1764056166=",
+        "tags": [
+            "kelly",
+            "trump",
+            "guerra",
+            "héroe",
+            "politica",
+            "venganza",
+            "medida",
+            "pentágono"
+        ],
+        "link": "https://www.meneame.net/story/medida-pentagono-contra-heroe-guerra-kelly-demuestra-sed-trump",
+        "date": "2025-11-26 02:05:02",
+        "sentiment_score": -0.7661733254790306
+    },
+    {
+        "title": "Los jóvenes españoles en Países Bajos denuncian el abuso de las agencias de empleo",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/e0/media_thumb-link-4120666.webp?1764083646=",
+        "tags": [
+            "españa",
+            "actualidad",
+            "inmigrantes",
+            "países bajos",
+            "inmigración",
+            "jóvenes"
+        ],
+        "link": "https://www.meneame.net/story/jovenes-espanoles-paises-bajos-denuncian-abuso-agencias-empleo",
+        "date": "2025-11-25 23:00:04",
+        "sentiment_score": -0.745180232450366
+    },
+    {
+        "title": "El Barcelona es aplastado por el Chelsea en Champions",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/11/a-1-1.jpg",
+        "tags": [
+            "25nov",
+            "fútbol",
+            "fc barcelona",
+            "champions",
+            "deportes"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/11/25/barcelona-12/",
+        "date": "2025-11-26 01:36:39",
+        "sentiment_score": -0.7837933860719204
+    },
+    {
+        "title": "Los protagonistas de un sistema en efervescencia",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/dcf9d232d43691172af7e8ada445b9f9/f/webp/assets/multimedia/imagenes/2025/11/21/17637150495224.jpg",
+        "tags": [
+            "los protagonistas de un sistema en efervescencia"
+        ],
+        "link": "https://www.expansion.com/especiales/2025/11/26/69202810e5fdea437d8b4593.html",
+        "date": "2025-11-26 01:30:17",
+        "sentiment_score": 0.7790653631091118
+    },
+    {
+        "title": "Guitarra en mano y con una icónica canción de rock: el sentido homenaje de Mastantuono a Maradona en el aniversario de su muerte",
+        "image_url": "https://www.infobae.com/resizer/v2/JTDX7Y2VZJFI7GFGUE42J5QCEA.jpg?auth=3c712aec1e06e8e168421233de51e12d7e6c0912bb113dc5419547491470040d&height=1080&smart=true&width=1920",
+        "tags": [
+            "real madrid",
+            "diego maradona",
+            "selección argentina",
+            "river plate",
+            "franco mastantuono",
+            "boca juniors"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/26/guitarra-en-mano-y-con-una-iconica-cancion-de-rock-el-sentido-homenaje-de-mastantuono-a-maradona-en-el-aniversario-de-su-muerte/",
+        "date": "2025-11-26 00:44:41",
+        "sentiment_score": 0.3372006118297577
+    },
+    {
+        "title": "La inesperada declaración del Cholo Simeone sobre su futuro antes del duelo por Champions entre el Atlético de Madrid y el Inter",
+        "image_url": "https://www.infobae.com/resizer/v2/LDWGUB6FUVCYHICU2S27C67MEA.JPG?auth=73eb5107ea5c4007a16e0dd6b3677db41e718a54310ad26cb4abc461c3541237&height=2245&smart=true&width=3302",
+        "tags": [
+            "atlético de madrid",
+            "diego simeone",
+            "deportes-argentina",
+            "deportes-internacional",
+            "inter de milán"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/26/la-inesperada-declaracion-del-cholo-simeone-sobre-su-futuro-antes-del-duelo-por-champions-entre-el-atletico-de-madrid-y-el-inter/",
+        "date": "2025-11-26 00:16:04",
+        "sentiment_score": 0.17231718264520168
+    },
+    {
+        "title": "El sorprendente optimismo de Hansi Flick tras complicarse el Top8 de la Champions: palo a Araujo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/26/culemania/primer-equipo/1003742710916_15448723_1706x960.jpg",
+        "tags": [
+            "primer equipo",
+            "champions league",
+            "hansi flick"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251126/sorprendente-hansi-flick-complicarse-top8-champions-araujo/1003742710907_0.html",
+        "date": "2025-11-25 23:59:29",
+        "sentiment_score": -0.05115121603012085
+    },
+    {
+        "title": "Makro cuenta con cuatro nuevos camiones 100% eléctricos en sus rutas de distribución de última milla en las islas Canarias",
+        "image_url": "https://cdn.diariodeavisos.com/wp-content/uploads/2025/11/Makro-1024x682.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/11/makro-camiones-islas-canarias/",
+        "date": "2025-11-25 23:48:54",
+        "sentiment_score": 0.4347939267754555
+    },
+    {
+        "title": "Cambio en alineación de Guardiola ‘fue demasiado’, y City cae ante Leverkusen en la Champions",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/CAMPEONES_MAN_CITY-GUARDIOLA_28939.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/11/25/cambio-en-alineacin-de-guardiola-fue-demasiado-y-city-cae-ante-leverkusen-en-la-champions/",
+        "date": "2025-11-25 23:25:46",
+        "sentiment_score": -0.4210520461201668
+    },
+    {
+        "title": "Da pelea en el Torneo Clausura y está cerca de jugar con Messi: el argentino que negocia para sumarse al Inter Miami",
+        "image_url": "https://www.infobae.com/resizer/v2/RZ7V6RDRPBCBHGBXJZPTO4TOFI.jpg?auth=58b7eae4c8247db36d4c1d89fffb2aec9bfd9f4a5696606050173aa9ce130674&height=3020&smart=true&width=4529",
+        "tags": [
+            "facundo mura",
+            "deportes-argentina",
+            "racing",
+            "lionel messi",
+            "inter miami"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/25/da-pelea-en-el-torneo-clausura-y-esta-cerca-de-jugar-con-messi-el-argentino-que-negocia-para-sumarse-al-inter-miami/",
+        "date": "2025-11-25 23:23:47",
+        "sentiment_score": 0.07223136723041534
+    },
+    {
+        "title": "Marcelino deja atónitos a todos tras perder 4-0 en Dortmund: «Sus ocasiones no existieron»",
+        "image_url": "https://okdiario.com/img/2025/11/25/imagen_recortada-2025-11-26t001139.584.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "villarreal club de fútbol",
+            "marcelino garcía toral",
+            "champions league"
+        ],
+        "link": "https://okdiario.com/deportes/marcelino-deja-atonitos-todos-perder-4-0-dortmund-sus-ocasiones-no-existieron-15829561",
+        "date": "2025-11-25 23:12:49",
+        "sentiment_score": -0.6189949586987495
+    },
+    {
+        "title": "La IA no es pasajera pero tardará en crear valor",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/25/6925bff35aec6.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251126/11292514/ia-pasajera-tecnologias-informacion.html",
+        "date": "2025-11-26 02:00:00",
+        "sentiment_score": 0.4112864211201668
+    },
+    {
+        "title": "Critican a mamá de Blessd por aparición en su concierto en Bogotá: “Solo ahora que él es famoso”",
+        "image_url": "https://www.infobae.com/resizer/v2/FK24BMBVERF2DF3ESIPH65FLCY.jpg?auth=776fc4bf41f7d2c60877e8b112deb0a808cb611522c40f7d0a5f43802c2b7607&height=1080&smart=true&width=1920",
+        "tags": [
+            "mamá de blessd",
+            "el bendito",
+            "polémica familiar",
+            "blessd",
+            "colombia-noticias",
+            "reguetón",
+            "colombia-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/11/26/critican-a-mama-de-blessd-por-aparicion-en-su-concierto-en-bogota-solo-ahora-que-el-es-famoso/",
+        "date": "2025-11-26 01:53:19",
+        "sentiment_score": 0.6650588773190975
+    },
+    {
+        "title": "Hacia un sistema energético más limpio, estable y competitivo",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/2a9b45cb5e3b5e2738ff8db602ed4421/f/webp/assets/multimedia/imagenes/2025/11/21/17637139287307.jpg",
+        "tags": [
+            "hacia un sistema energético más limpio, estable y competitivo"
+        ],
+        "link": "https://www.expansion.com/especiales/2025/11/26/692023af468aeb7a638b458d.html",
+        "date": "2025-11-26 01:31:00",
+        "sentiment_score": 0.6224676370620728
+    },
+    {
+        "title": "Los precios de la vivienda subirán un 7,8% en 2026 tras cerrar este año en un 13,7%",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/c4bcd5aa6ed8620a7f5b8e0132ce9ebc/crop/463x106/2032x1152/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/25/17640922480971.jpg",
+        "tags": [
+            "economía>",
+            "mercado inmobiliario>",
+            "artículos diego s. adelantado>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/11/26/6925ea07468aebc2508b4574.html",
+        "date": "2025-11-26 01:18:24",
+        "sentiment_score": -0.47360943257808685
+    },
+    {
+        "title": "El dúo de electrónica Delaporte denuncia en sus redes sociales “un acto de violencia sexual inaceptable” hacia la cantante durante el concierto en Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/4DT7GIGN4ZH5HIWK2LD56DSQGE.jpg?auth=f024dddab4cf62c397f8c256aeae8a2721c28d77ad564b17848053f68d01c847&height=2000&smart=true&width=3000",
+        "tags": [
+            "españa-noticias",
+            "violencia sexual",
+            "música",
+            "españa-sociedad",
+            "agresión sexual",
+            "madrid",
+            "agresiones sexuales",
+            "música electrónica"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/26/el-duo-de-electronica-delaporte-denuncia-en-sus-redes-sociales-un-acto-de-violencia-sexual-inaceptable-hacia-la-cantante-durante-el-concierto-en-madrid/",
+        "date": "2025-11-26 01:01:11",
+        "sentiment_score": -0.6541560459882021
+    },
+    {
+        "title": "El discreto líder catalán de los quesos en España",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/22/6922186b0decd.r_d.3014-2024-785.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251126/11292471/discreto-lider-catalan-quesos-espana.html",
+        "date": "2025-11-26 01:00:00",
+        "sentiment_score": 0.05918072164058685
+    },
+    {
+        "title": "El dilema de Orriols",
+        "image_url": "https://s1.staticld.com/2025/09/17/silviaorriols-170925.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-11-26/jose-garcia-dominguez-el-dilema-de-orriols-7324691/",
+        "date": "2025-11-26 00:41:56",
+        "sentiment_score": -0.8695879578590393
+    },
+    {
+        "title": "25 NOV 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/25-nov-2025-partidazo-cope-20251126_3259432.html",
+        "date": "2025-11-26 00:36:36",
+        "sentiment_score": -0.4190618768334389
     }
 ];
