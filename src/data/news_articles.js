@@ -1,218 +1,5 @@
 export default [
     {
-        "title": "¿Por qué se la van a llevar así?\": una madre cuenta cómo ICE detuvo a su hijo y se llevó a su nieta |",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/dc/media_thumb-link-4119736.webp?1763798646=",
-        "tags": [
-            "nieta",
-            "madre",
-            "camisaparda",
-            "hijo",
-            "ice",
-            "detuvo",
-            "llevó"
-        ],
-        "link": "https://www.meneame.net/story/van-llevar-asi-madre-cuenta-como-ice-detuvo-hijo-llevo-nieta",
-        "date": "2025-11-22 16:05:03",
-        "sentiment_score": -0.3559974357485771
-    },
-    {
-        "title": "Don Juan Carlos abandona el almuerzo familiar a las cinco de la tarde",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251122180726_120.jpg",
-        "tags": [
-            "realeza",
-            "chance"
-        ],
-        "link": "https://www.europapress.es/chance/realeza/noticia-don-juan-carlos-abandona-almuerzo-familiar-cinco-tarde-20251122180726.html",
-        "date": "2025-11-22 17:07:26",
-        "sentiment_score": -0.1577463001012802
-    },
-    {
-        "title": "De Eulogio Martínez al primer goleador del nuevo Camp Nou: 68 años de goles antológicos",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/historias-del-barca/1003742709831_15434231_1706x960.jpg",
-        "tags": [
-            "historias del barça",
-            "robert lewandowski",
-            "camp nou"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/historias-del-barca/20251122/eulogio-martinez-primer-goleador-camp-nou-antologicos/1003742709827_0.html",
-        "date": "2025-11-22 17:04:52",
-        "sentiment_score": 0.7940657390281558
-    },
-    {
-        "title": "Barcelona marca su regreso al Camp Nou con una goleada 4-0 sobre el Athletic Bilbao",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/ESPA209A-LIGA_46121.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2025/11/22/barcelona-marca-su-regreso-al-camp-nou-con-una-goleada-4-0-sobre-el-athletic-bilbao/",
-        "date": "2025-11-22 17:04:16",
-        "sentiment_score": 0.40941596031188965
-    },
-    {
-        "title": "Tchouameni no llega al Martínez Valero y Rüdiger se reserva: el Madrid afronta otro examen en LaLiga",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/22/2025112218031242969.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/tchouameni-llega-martinez-valero-rudiger-reserva-madrid-afronta-examen-laliga/20251122180326364156.html",
-        "date": "2025-11-22 17:03:26",
-        "sentiment_score": 0.05553135275840759
-    },
-    {
-        "title": "Angélica Liddell canta a la muerte en memoria de Mishima con motivo del centenario del escritor",
-        "image_url": "https://phantom-elmundo.uecdn.es/de08ea017ee9483d6084b66c18a8fd28/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16528799959541.jpg",
-        "tags": [
-            "artículos darío prieto",
-            "teatro"
-        ],
-        "link": "https://www.elmundo.es/cultura/teatro/2025/11/22/6921eccbfc6c83be0c8b457d.html",
-        "date": "2025-11-22 17:03:23",
-        "sentiment_score": 0.3208172172307968
-    },
-    {
-        "title": "Isabel Pérez Moñino (VOX), en la manifestación contra la imposición de las ZBE: «Es terrorismo contra el pueblo en nombre de la dictadura climática»",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/11/ujtyhrgyh6u.jpg",
-        "tags": [
-            "coches eléctricos",
-            "españa",
-            "vox",
-            "cambio climático",
-            "coches",
-            "madrid"
-        ],
-        "link": "https://gaceta.es/espana/isabel-perez-monino-vox-en-la-manifestacion-contra-la-imposicion-de-las-zbe-es-terrorismo-contra-el-pueblo-en-nombre-de-la-dictadura-climatica-20251122-1802/",
-        "date": "2025-11-22 17:02:09",
-        "sentiment_score": -0.42040063440799713
-    },
-    {
-        "title": "El Martínez Valero reta a un Madrid en horas bajas",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/11/22/previa-elche-madrid-kKaH-U240319532113rgB-1200x840@RC.JPG",
-        "tags": [
-            "xabi alonso",
-            "real madrid",
-            "kylian mbappé",
-            "elche/elx"
-        ],
-        "link": "https://www.ideal.es/deportes/futbol/liga-primera/martinez-valero-reta-madrid-horas-bajas-20251122175422-ntrc.html",
-        "date": "2025-11-22 17:01:13",
-        "sentiment_score": -0.7466138377785683
-    },
-    {
-        "title": "La Familia Real celebra 50 años de Monarquía en un almuerzo privado en El Pardo con la presencia del rey emérito",
-        "image_url": "https://www.infobae.com/resizer/v2/LYPMLHMR3ZGNHD55SS6CP32U3E.jpg?auth=fe885d9e26324b18f5880283746d148f5b79493f0aa7cab52efddd72ee2078f9&height=1281&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/22/la-familia-real-celebra-50-anos-de-monarquia-en-un-almuerzo-privado-en-el-pardo-con-la-presencia-del-rey-emerito/",
-        "date": "2025-11-22 17:00:37",
-        "sentiment_score": 0.3654979392886162
-    },
-    {
-        "title": "La Familia Real celebra 50 años de Monarquía en un almuerzo privado en El Pardo con la presencia del rey emérito",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251122173642.jpg?fit=1920%2C1281&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/la-familia-real-celebra-50-aos-de-monarqua-en-un-almuerzo-privado-en-el-pardo-con-la-presencia-del-rey-emrito/",
-        "date": "2025-11-22 17:00:03",
-        "sentiment_score": 0.04503047466278076
-    },
-    {
-        "title": "Empresarios de la piedra natural reclaman «diálogo social» y respuestas a la «presión regulatoria» en las pymes",
-        "image_url": "https://s1.ppllstatics.com/ideal/almanzora/multimedia/2025/11/22/jesusposadas-k01F-U240319742026ekD-1200x840@Ideal.jpg",
-        "tags": [
-            "social",
-            "pymes",
-            "reclaman",
-            "natural",
-            "empresarios",
-            "dialogo",
-            "presion",
-            "piedra",
-            "regulatoria",
-            "respuestas"
-        ],
-        "link": "https://almanzora.ideal.es/actualidad/empresarios-piedra-natural-reclaman-dialogo-social-respuestas-20251122180825-nt.html",
-        "date": "2025-11-22 17:08:25",
-        "sentiment_score": -0.6289715282619
-    },
-    {
-        "title": "El Puerto de Santa María (Cádiz) celebra la XXV edición de los premios de la Peña Taurina José Luis Galloso",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251122180550_690.jpg",
-        "tags": [
-            "andalucía",
-            "cádiz"
-        ],
-        "link": "https://www.europapress.es/andalucia/cadiz-00351/noticia-puerto-santa-maria-cadiz-celebra-xxv-edicion-premios-pena-taurina-jose-luis-galloso-20251122180550.html",
-        "date": "2025-11-22 17:05:50",
-        "sentiment_score": 0.13773350417613983
-    },
-    {
-        "title": "El gasto en luces de Navidad en las ciudades españolas: ¿cuánto valen los paisajes más espectaculares este año?",
-        "image_url": "https://www.infobae.com/resizer/v2/ZVYYLHU6PRBIJAKTXDKQTMTHLU.jpg?auth=fa1e833a5fb5acd2e26f4b26a56f681b537e955eca1d68432c9a0414f3c2da23&height=1080&smart=true&width=1920",
-        "tags": [
-            "málaga",
-            "barcelona",
-            "navidad",
-            "luces",
-            "vigo",
-            "españa-economía",
-            "españa-noticias",
-            "precio",
-            "valencia",
-            "madrid"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/22/el-gasto-en-luces-de-navidad-en-las-ciudades-espanolas-cuanto-valen-los-paisajes-mas-espectaculares-este-ano/",
-        "date": "2025-11-22 17:05:06",
-        "sentiment_score": 0.8541965913027525
-    },
-    {
-        "title": "Puigdemont urge a crear un gran frente de alcaldes para hacer de Cataluña «un país libre e independiente»",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "junts",
-            "españa",
-            "carles puigdemont",
-            "independentismo catalán"
-        ],
-        "link": "https://okdiario.com/espana/puigdemont-urge-crear-gran-frente-alcaldes-hacer-cataluna-pais-libre-independiente-15810559",
-        "date": "2025-11-22 17:04:32",
-        "sentiment_score": 0.18052437901496887
-    },
-    {
-        "title": "Barcelona juega su primer partido en el Camp Nou en más de dos años mientras continúan las obras",
-        "image_url": "https://dims.apnews.com/dims4/default/3eeece7/2147483647/strip/true/crop/7539x5018+0+5/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F10%2F90%2F131c7e9b4849230af89286b31322%2F3c1bc65b721443e98752ae0aae14b0ef",
-        "tags": [
-            "deportes",
-            "sports",
-            "espana liga barcelona camp nou"
-        ],
-        "link": "https://apnews.com/article/espana-liga-barcelona-camp-nou-249c6c85ac263c4e35851a41a2c5f896",
-        "date": "2025-11-22 17:04:17",
-        "sentiment_score": 0.7815517988055944
-    },
-    {
-        "title": "Barcelona juega su primer partido en el Camp Nou en más de dos años mientras continúan las obras",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.houstonchronicle.com/sports/article/barcelona-juega-su-primer-partido-en-el-camp-nou-21202534.php",
-        "date": "2025-11-22 17:04:17",
-        "sentiment_score": 0.3629968501627445
-    },
-    {
-        "title": "Barcelona juega su primer partido en el Camp Nou en más de dos años mientras continúan las obras",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/ESPA209A-LIGA_46121.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2025/11/22/barcelona-juega-su-primer-partido-en-el-camp-nou-en-ms-de-dos-aos-mientras-continan-las-obras/",
-        "date": "2025-11-22 17:04:16",
-        "sentiment_score": 0.4590875878930092
-    },
-    {
         "title": "Muere a los 91 años Ornella Vanoni, diva de la música popular italiana",
         "image_url": "https://cdn.mnmstatic.net/cache/3e/dc/media_thumb-link-4119806.webp?1763811666=",
         "tags": [
@@ -893,22 +680,6 @@ export default [
         "link": "https://www.diariodemallorca.es/cultura/2025/11/23/max-dibujante-comics-ilustrador-oficio-124019548.html",
         "date": "2025-11-23 05:01:50",
         "sentiment_score": -0.13717865198850632
-    },
-    {
-        "title": "¿Por qué se la van a llevar así?\": una madre cuenta cómo ICE detuvo a su hijo y se llevó a su nieta |",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/dc/media_thumb-link-4119736.webp?1763798646=",
-        "tags": [
-            "nieta",
-            "madre",
-            "camisaparda",
-            "hijo",
-            "ice",
-            "detuvo",
-            "llevó"
-        ],
-        "link": "https://www.meneame.net/story/van-llevar-asi-madre-cuenta-como-ice-detuvo-hijo-llevo-nieta",
-        "date": "2025-11-22 16:05:03",
-        "sentiment_score": -0.3559970334172249
     },
     {
         "title": "Muere a los 91 años Ornella Vanoni, diva de la música popular italiana",
@@ -3233,5 +3004,110 @@ export default [
         "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/25-nov-2025-partidazo-cope-20251126_3259432.html",
         "date": "2025-11-26 00:36:36",
         "sentiment_score": -0.4190618768334389
+    },
+    {
+        "title": "Las segundas partes son buenas para la Real Sociedad",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/95428edf-2b03-497c-9ce4-ce57e35bce8b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "buenas",
+            "son",
+            "segundas",
+            "partes",
+            "real"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/11/26/segundas-partes-son-buenas-real-10396912.html",
+        "date": "2025-11-26 06:32:51",
+        "sentiment_score": -0.009195297956466675
+    },
+    {
+        "title": "Loles León actualiza el estado de salud de Antonio Resines tras conocerse su ingreso en la UCI: “Está deseando irse a tomar cañas”",
+        "image_url": "https://www.infobae.com/resizer/v2/44MIAH4LAVDEXLYOE3GHNKGA4M.jpg?auth=d48004c27763c855c788ddb8444b0ca26a3294c481f01c803e33c823fa0a774d&height=1080&smart=true&width=1920",
+        "tags": [
+            "antonio resines",
+            "loles león",
+            "famosos españa",
+            "españa-noticias",
+            "españa-entretenimiento",
+            "enfermedades de famosos",
+            "gente españa",
+            "corazón y estilo españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/26/loles-leon-actualiza-el-estado-de-salud-de-antonio-resines-tras-conocerse-su-ingreso-en-la-uci-esta-deseando-irse-a-tomar-canas/",
+        "date": "2025-11-26 06:22:58",
+        "sentiment_score": -0.10152570903301239
+    },
+    {
+        "title": "Xabi aterriza en el Partenón sin margen de error ni nadie que le defienda",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/53b757d0-c8d7-413a-be39-a4357b8a8996_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "olympiacos",
+            "champions league",
+            "xabi alonso",
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://www.elperiodicodearagon.com/deportes/2025/11/26/xabi-aterriza-partenon-real-madrid-olympiacos-champions-league-124129544.html",
+        "date": "2025-11-26 06:18:17",
+        "sentiment_score": 0.2541874647140503
+    },
+    {
+        "title": "El Ministerio de Transportes rechaza la nueva petición de Asturias para anular el peaje de la autopista del Huerna: «Nadie lo ha declarado ilegal»",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/11/25/adrian-barbon-oscar-puente-RwT4jUvsUVAWj84YsDIuPyM-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "rechaza",
+            "peaje",
+            "transportes",
+            "declarado",
+            "asturias",
+            "ilegal",
+            "peticion",
+            "anular",
+            "nueva"
+        ],
+        "link": "https://www.elcomercio.es/asturias/ministerio-transportes-rechaza-anular-peaje-autopista-huerna-20251125194312-nt.html",
+        "date": "2025-11-26 06:12:28",
+        "sentiment_score": -0.6403794772922993
+    },
+    {
+        "title": "El club de una villa contra el de una isla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fbf2ec21-33ee-44ba-a65a-e594daeb9f96_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "goles",
+            "copa federación",
+            "isla",
+            "tenerife"
+        ],
+        "link": "https://www.eldia.es/deportes/cd-tenerife/2025/11/26/club-villa-isla-124126441.html",
+        "date": "2025-11-26 06:01:13",
+        "sentiment_score": -0.1544237732887268
+    },
+    {
+        "title": "La autopsia a la niña de 6 años fallecida en Valencia no detecta ninguna causa directa de la muerte",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1cdb2436-73ea-4c6f-bcc8-a7180b1b8c73_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia"
+        ],
+        "link": "https://www.superdeporte.es/sucesos/2025/11/26/autopsia-nina-6-anos-fallecida-124129743.html",
+        "date": "2025-11-26 06:34:33",
+        "sentiment_score": -0.786116149276495
+    },
+    {
+        "title": "Lo que debes saber hoy, 26 de noviembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/11/vivir-en-barcelona/1003742706368_15389774_1706x960.jpg",
+        "tags": [
+            "transports metropolitans barcelona tmb",
+            "transporte",
+            "tráfico",
+            "renfe barcelona",
+            "metro barcelona",
+            "clima",
+            "el tiempo",
+            "movilidad",
+            "aemet (agencia estatal de meteorología)",
+            "autobús"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251126/debes-saber-hoy-noviembre-barcelona/1003742710918_0.html",
+        "date": "2025-11-26 06:24:53",
+        "sentiment_score": 0.50482277572155
     }
 ];
