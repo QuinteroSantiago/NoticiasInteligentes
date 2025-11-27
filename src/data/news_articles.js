@@ -1,511 +1,5 @@
 export default [
     {
-        "title": "Muere a los 91 años Ornella Vanoni, diva de la música popular italiana",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/dc/media_thumb-link-4119806.webp?1763811666=",
-        "tags": [
-            "cultura",
-            "música",
-            "cantantes",
-            "italia",
-            "ornella vanoni"
-        ],
-        "link": "https://www.meneame.net/story/muere-91-anos-ornella-vanoni-diva-musica-popular-italiana",
-        "date": "2025-11-22 21:35:03",
-        "sentiment_score": -0.8838041368871927
-    },
-    {
-        "title": "Bailando contra Ayuso y el Supremo con todas las fuerzas",
-        "image_url": "https://phantom-elmundo.uecdn.es/8c9bca76c468047fe133362f36ceb6bb/f/image/jpeg/assets/multimedia/imagenes/2023/02/04/16754702779051.jpg",
-        "tags": [
-            "nlpremium",
-            "artículos lucía méndez"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/22/69220a5321efa042318b4574.html",
-        "date": "2025-11-22 21:59:13",
-        "sentiment_score": -0.8029528707265854
-    },
-    {
-        "title": "Los partidos suben el tono tras la condena al fiscal general mientras Sánchez guarda silencio",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/09/691087dd263e2.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/partidos-suben-tono-tras-condena-fiscal-general-mientras-pedro-sanchez-guarda-silencio_6901452_0.html",
-        "date": "2025-11-22 21:54:07",
-        "sentiment_score": 0.11543437838554382
-    },
-    {
-        "title": "Y a las 20.19 horas, la Navidad iluminó Madrid: del \"estoy más tenso que en los campeonatos\" de Carlos Sainz al \"le contaré a mis nietos que estuve aquí\" de Pablo López",
-        "image_url": "https://phantom-elmundo.uecdn.es/3a13088bf30b7d06f3f776b0ae535fe9/crop/0x224/1536x1760/f/image/jpeg/assets/multimedia/imagenes/2022/05/02/16515202938144.jpg",
-        "tags": [
-            "navidad",
-            "artículos ruth díaz",
-            "madrid",
-            "josé luis martínez-almeida",
-            "árboles de navidad"
-        ],
-        "link": "https://www.elmundo.es/madrid/2025/11/22/69222e5ae4d4d8503e8b4587.html",
-        "date": "2025-11-22 21:45:03",
-        "sentiment_score": -0.7066040560603142
-    },
-    {
-        "title": "FC Barcelona: regreso al Camp Nou y homenaje a Lionel Messi",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1763848277467/5YGEDHIAEKEOWFVQV34NRRBZGM.jpg?ch=675&cw=1200",
-        "tags": [
-            "lionel messi",
-            "barcelona",
-            "camp nou",
-            "fc barcelona",
-            "laliga",
-            "lamine yamal",
-            "estadio spotify camp nou"
-        ],
-        "link": "https://2001online.com/deportes/fc-barcelona-regreso-al-camp-nou-y-homenaje-a-lionel-messi-2025112218150",
-        "date": "2025-11-22 21:36:04",
-        "sentiment_score": 0.6486563645303249
-    },
-    {
-        "title": "La historia oculta del superyate de lujo detenido en Barcelona propiedad del gran oligarca de la industria militar de Rusia",
-        "image_url": "https://static.eldiario.es/clip/04a0501a-3df5-4136-b732-0a239ce552bc_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gran",
-            "historia",
-            "oculta",
-            "barcelona",
-            "superyate",
-            "militar",
-            "detenido",
-            "lujo",
-            "industria",
-            "propiedad",
-            "rusia",
-            "oligarca"
-        ],
-        "link": "https://www.eldiario.es/internacional/historia-oculta-superyate-lujo-detenido-barcelona-propiedad-gran-oligarca-industria-militar-rusia_1_12759446.html",
-        "date": "2025-11-22 21:27:29",
-        "sentiment_score": -0.11975252628326416
-    },
-    {
-        "title": "Madrid da la bienvenida a la Navidad con un espectacular encendido de luces y conciertos de música",
-        "image_url": "https://okdiario.com/img/2025/11/22/plaza-de-cibeles-el-dia-del-encendido-de-las-luces-de-navidad-este-sabado-22-de-noviembre.-foto_-europa-press.jpg",
-        "tags": [
-            "plaza de cibeles",
-            "sociedad",
-            "luces de navidad",
-            "navidad"
-        ],
-        "link": "https://okdiario.com/sociedad/madrid-da-bienvenida-navidad-espectacular-encendido-luces-conciertos-musica-15811754",
-        "date": "2025-11-22 21:16:45",
-        "sentiment_score": 0.7729760557413101
-    },
-    {
-        "title": "Madrid enciende la Navidad con 13 millones de luces y un villancico de Bisbal: “Esta ciudad tiene los brazos abiertos”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/KJVA3M5JF5DKJBDMV7N6MSKDBI.jpg?auth=d4849a41c9da7aeae75d09ab210dc8b5dc1f0813db98e14eda1b6074785014b6&width=1200",
-        "tags": [
-            "villancicos",
-            "navidad",
-            "fiestas",
-            "david bisbal",
-            "carlos sainz",
-            "madrid",
-            "josé luis martínez almeida",
-            "comunidad de madrid",
-            "ayuntamiento madrid",
-            "alumbrado"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-11-22/madrid-enciende-la-navidad-con-13-millones-de-luces-y-un-villancico-de-bisbal-esta-ciudad-tiene-los-brazos-abiertos.html",
-        "date": "2025-11-22 20:45:46",
-        "sentiment_score": 0.32225004583597183
-    },
-    {
-        "title": "Así ha sido el encendido de las luces de Navidad en Madrid ante 150.000 personas",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/11/22/abeto-de-gran-via-y-alcala.r_d.1379-412-5156.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2025/11/22/madrid-encendido-luces-navidad-1872716.html",
-        "date": "2025-11-22 20:44:57",
-        "sentiment_score": 0.11906586214900017
-    },
-    {
-        "title": "Madrid ilumina la Navidad con un encendido multitudinario a cargo de Almeida y Carlos Sainz",
-        "image_url": "http://st1.lacerca.com/imagenes/view/fa2c68ddc7b031f083b2ec27a6d61cb0.jpg",
-        "tags": [
-            "noticias",
-            "madrid"
-        ],
-        "link": "https://www.lacerca.com/noticias/madrid/madrid-ilumina-navidad-encendido-multitudinario-almeida-carlos-sainz-791661-1.html",
-        "date": "2025-11-22 20:40:00",
-        "sentiment_score": 0.0187261700630188
-    },
-    {
-        "title": "La ovación de los hinchas del Barcelona a Lionel Messi en el primer partido en el Camp Nou tras las obras",
-        "image_url": "https://www.infobae.com/resizer/v2/REOWISMMTBAGPJNKAORMMZOXEI.png?auth=26a7aa8bd4d47b5892d2718e9eade5c7cabf0aacf9155bf68c1a2d702e88e50c&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona",
-            "camp nou",
-            "la liga de españa",
-            "deportes-argentina",
-            "lionel messi"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/22/la-ovacion-de-los-hinchas-del-barcelona-a-lionel-messi-en-el-primer-partido-en-el-camp-nou-tras-las-obras/",
-        "date": "2025-11-22 20:35:41",
-        "sentiment_score": -0.16380149871110916
-    },
-    {
-        "title": "Juicio al clan Pujol: cómo lavaron su fortuna oculta, paso a paso",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/11/22/1200-blackfriday-kSc--562x562@RC.jpg",
-        "tags": [
-            "andorra (país)",
-            "audiencia nacional",
-            "generalitat de cataluña",
-            "cdc convergencia democratica de cataluña",
-            "jordi pujol",
-            "historias visuales",
-            "corrupción"
-        ],
-        "link": "https://www.canarias7.es/nacional/politica/juicio-clan-pujol-lavaron-fortuna-oculta-paso-20251123000825-ntrc.html",
-        "date": "2025-11-22 22:08:27",
-        "sentiment_score": -0.8882819982245564
-    },
-    {
-        "title": "¿Cuáles son las 10 ciudades que encabezan la escena «veggie» en España?",
-        "image_url": "https://www.elboletin.com/wp-content/uploads/2025/11/ciudades-veggie-espana.jpg",
-        "tags": [
-            "ciudades",
-            "turismo",
-            "cultura",
-            "hoy en la red",
-            "alimentos",
-            "restaurantes",
-            "eventos",
-            "vegetarianismo",
-            "gastronomía",
-            "ecología",
-            "veganismo"
-        ],
-        "link": "https://www.elboletin.com/cuales-son-las-10-ciudades-que-encabezan-la-escena-veggie-en-espana/",
-        "date": "2025-11-22 22:06:02",
-        "sentiment_score": -0.4471605345606804
-    },
-    {
-        "title": "Tarjeta roja: Nico Williams",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/22/culemania/tarjetas-jornada/1003742709940_15436121_1706x960.jpg",
-        "tags": [
-            "nico williams",
-            "el mvp y las tarjetas de la jornada",
-            "barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/tarjetas-jornada/20251122/tarjeta-roja-nico-williams/1003742709928_0.html",
-        "date": "2025-11-22 22:05:49",
-        "sentiment_score": -0.8853026553988457
-    },
-    {
-        "title": "Álvaro Morte sorprende con unas palabras en catalán en TV3: \"Viví dos años en Barcelona y uno en Mataró\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/22/692230080e881.r_d.1360-467-3034.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20251122/1002574133/alvaro-morte-actor-vivi-dos-anos-barcelona-mataro-me-gustaria-entrevista-catalan-mi-nivel-esta-altura-dct.html",
-        "date": "2025-11-22 21:57:12",
-        "sentiment_score": 0.1165178194642067
-    },
-    {
-        "title": "Una de cada cinco personas que emprende en España es mujer, un 13% menos que hace un año: \"No quiero ponerle límites a mi trabajo\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
-        "tags": [
-            "economía",
-            "artículos daniela saltos",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/economia/2025/11/22/691b3725e4d4d86a2d8b459f.html",
-        "date": "2025-11-22 21:54:54",
-        "sentiment_score": -0.4755507633090019
-    },
-    {
-        "title": "Salman Rushdie: “Vivimos tiempos oscuros pero nada es inevitable. Habrá un futuro mejor”",
-        "image_url": "https://www.infobae.com/resizer/v2/S26YLCMRVBF4FDXOOZURZUCBVA.jpg?auth=f98bdbdc71b21aaa6b9eacece90404e55f5117bf979f6a97b9d02790705ffd4f&height=1080&smart=true&width=1920",
-        "tags": [
-            "barcelona",
-            "salman rushdie",
-            "\"the eleventh hour\"",
-            "literatura"
-        ],
-        "link": "https://www.infobae.com/cultura/2025/11/22/salman-rushdie-vivimos-tiempos-oscuros-pero-nada-es-inevitable-habra-un-futuro-mejor-futuro/",
-        "date": "2025-11-22 21:52:12",
-        "sentiment_score": 0.6109997779130936
-    },
-    {
-        "title": "La Lotería Nacional deja miles de euros este sábado en Berja con un segundo premio",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2024/11/11/6732035a5bdb8.jpeg",
-        "tags": [
-            "provincia"
-        ],
-        "link": "https://www.lavozdealmeria.com/provincia/394093/loteria-nacional-deja-miles-euros-sabado-berja-segundo-premio.html",
-        "date": "2025-11-22 21:37:37",
-        "sentiment_score": 0.0337006151676178
-    },
-    {
-        "title": "Almeida comenta lo que nunca ha pasado con el encendido de la Navidad y el reportero sentencia: \"En Vigo un poco...\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/22/692223876518c8-57425047.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/madrid/almeida-telemadrid-nunca-pasado-encendido-luces-navidad-vigo_6901450_0.html",
-        "date": "2025-11-22 21:33:29",
-        "sentiment_score": 0.17727184295654297
-    },
-    {
-        "title": "Torres de oficinas que no se necesitan: el ecoblanqueo de un megaproyecto urbano",
-        "image_url": "https://static.eldiario.es/clip/e49b0917-a784-49df-8236-4284d4b14a1e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "megaproyecto",
-            "torres",
-            "urbano",
-            "no",
-            "necesitan",
-            "oficinas",
-            "ecoblanqueo"
-        ],
-        "link": "https://www.eldiario.es/ballenablanca/economia/torres-oficinas-no-necesitan-ecoblanqueo-megaproyecto-urbano_1_12632318.html",
-        "date": "2025-11-22 21:27:31",
-        "sentiment_score": -0.026060283184051514
-    },
-    {
-        "title": "Homenaje coral al talento que proyecta la marca Andalucía",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/11/21/89BFE7FB-39FB-4F43-AE66-99A1A76088CB/homenaje-coral-talento-que-proyecta-marca-andalucia_69.jpg?crop=1435%2C807%2Cx2%2Cy0&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "andalucía"
-        ],
-        "link": "https://www.larazon.es/andalucia/homenaje-coral-talento-que-proyecta-marca-andalucia_2025112369209602df41134465e3f39a.html",
-        "date": "2025-11-23 01:39:03",
-        "sentiment_score": 0.3034314513206482
-    },
-    {
-        "title": "La UCO se defiende contra la operación política y mediática en el caso del fiscal: \"Se investigó a todo el mundo y el descarte, evidente, lo hizo el juez\".",
-        "image_url": "https://phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
-        "tags": [
-            "uco",
-            "álvaro garcía ortiz",
-            "artículos quico alsedo"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/23/69220e72fdddff94698b4591.html",
-        "date": "2025-11-23 01:11:39",
-        "sentiment_score": -0.8821676857769489
-    },
-    {
-        "title": "Xabi Alonso mueve las piezas: Fede Valverde cambia de rol y Alexander-Arnold vuelve al lateral",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/21/2025042118472113269.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/xabi-alonso-recupera-trent-alexander-arnold-buscar-tres-puntos-martinez-valero/20251123015243364186.html",
-        "date": "2025-11-23 00:52:43",
-        "sentiment_score": 0.07708583027124405
-    },
-    {
-        "title": "22 NOV 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-nov-2025-tramo-final-juego-20251123_3257574.html",
-        "date": "2025-11-23 00:15:00",
-        "sentiment_score": 0.006727263331413269
-    },
-    {
-        "title": "Héctor Izquierdo: “La gestión del volcán de La Palma ha sido mucho mejor que la de Lorca, el Prestige y otras catástrofes”",
-        "image_url": "https://cdn.diariodeavisos.com/wp-content/uploads/2025/11/hector-izquierdo-1024x683.jpg",
-        "tags": [
-            "islas",
-            "portada",
-            "la palma",
-            "portada apertura 4",
-            "portada la palma"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2025/11/hector-izquierdo-volcan-la-palma/",
-        "date": "2025-11-23 00:10:16",
-        "sentiment_score": -0.790804460644722
-    },
-    {
-        "title": "El mensaje de David Soria a los que critican el estilo de juego del Getafe: \"Preferimos que se quejen, porque eso significa que hemos ganado\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/mensaje-david-soria-critican-estilo-juego-getafe-preferimos-quejen-significa-hemos-ganado-20251123_3257570.html",
-        "date": "2025-11-22 23:32:14",
-        "sentiment_score": 0.030928730964660645
-    },
-    {
-        "title": "Desde antes de verano no hay contactos entre Vinicius y el Real Madrid",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/31/69050fcae3f0a.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/hay-contactos-vinicius-real-madrid-hablar-renovacion-brasileno-verano-20251123_3257568.html",
-        "date": "2025-11-22 23:17:45",
-        "sentiment_score": -0.07222786545753479
-    },
-    {
-        "title": "«Me partía con la ironía de Carrillo y Rufián era muy chabacano, pero se ha ido puliendo»",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/23/1-1503121630-kPZE-U240310285100OjC-1200x840@RC.jpg",
-        "tags": [
-            "partia",
-            "risa",
-            "rufian",
-            "ido",
-            "puliendo",
-            "carrillo",
-            "era",
-            "chabacano"
-        ],
-        "link": "https://www.ideal.es/nacional/partia-ironia-carrillo-rufian-era-chabacano-ido-20251123173404-ntrc.html",
-        "date": "2025-11-22 23:14:28",
-        "sentiment_score": 0.08496110141277313
-    },
-    {
-        "title": "Javier Olivares: «Está llegando un momento en el que es muy difícil trabajar»",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/21/olivares--758x531.jpg",
-        "tags": [
-            "televisión española (tve)"
-        ],
-        "link": "https://www.elnortedecastilla.es/pantallas/series/javier-olivares-llegando-momento-dificil-trabajar-20251121001016-ntrc.html",
-        "date": "2025-11-22 23:10:17",
-        "sentiment_score": 0.17004527896642685
-    },
-    {
-        "title": "Guerra, el agente del G2 cubano tras la tercera red de espionaje en España: \"Vigilan a disidentes y se infiltran entre empresarios\"",
-        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744024984_260085582_1706x960.jpg",
-        "tags": [
-            "cuba",
-            "porfolio",
-            "reportajes",
-            "espionaje",
-            "servicios de inteligencia",
-            "cni",
-            "madrid",
-            "españa",
-            "la habana"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251123/guerra-agente-g2-cubano-tercera-red-espionaje-espana-vigilan-disidentes-infiltran-empresarios/1003744018691_0.html",
-        "date": "2025-11-23 01:48:11",
-        "sentiment_score": -0.8559968285262585
-    },
-    {
-        "title": "Natàlia Majó, investigadora de la gripe aviar: \"Estamos ante el virus más dañino conocido, es un peligro para las especies\"",
-        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744025061_260086660_1706x960.jpg",
-        "tags": [
-            "medio ambiente",
-            "ciencia",
-            "gripe aviar"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20251123/natalia-majo-investigadora-gripe-aviar-virus-danino-conocido-peligro-especies/1003744025048_0.html",
-        "date": "2025-11-23 01:28:28",
-        "sentiment_score": -0.7848625183105469
-    },
-    {
-        "title": "La última batalla por Vía Laietana: ofensiva de los sindicatos policiales contra el Gobierno por el memorial y la amenaza creciente de cierre",
-        "image_url": "https://phantom-elmundo.uecdn.es/c8960417ed23b19cba2bd8b74e5ced05/crop/2x0/998x997/f/image/jpeg/assets/multimedia/imagenes/2023/12/28/17037819584998.jpg",
-        "tags": [
-            "artículos cristina rubio"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2025/11/23/6921dc00e85ece49458b45b8.html",
-        "date": "2025-11-23 01:11:40",
-        "sentiment_score": -0.810187216848135
-    },
-    {
-        "title": "Cerdán aceleró cinco pelotazos en el primer año de Sánchez y redobló las presiones en campaña electoral: \"Está obsesionado\"",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/11/22/17638423690362.jpg",
-        "tags": [
-            "uco",
-            "psoe",
-            "santos cerdán"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/23/69221a07e9cf4a770c8b4596.html",
-        "date": "2025-11-23 01:10:17",
-        "sentiment_score": -0.6554890498518944
-    },
-    {
-        "title": "Vuelve el maestro José Luis Gómez con '¡Viva la Escuela Moderna!'",
-        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744025284_260089744_1706x960.jpg",
-        "tags": [
-            "stanislavblog",
-            "estrenos de teatro",
-            "teatro"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/blogs/stanislavblog/20251123/vuelve-maestro-jose-luis-gomez-viva-escuela-moderna/1003744025183_12.html",
-        "date": "2025-11-23 00:54:33",
-        "sentiment_score": -0.7893230281770229
-    },
-    {
-        "title": "Óscar Tusquets, arquitecto: \"Los tanatorios me parecen horribles, hay que saber morir con dignidad\"",
-        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744024911_260084493_1706x960.jpg",
-        "tags": [
-            "documentales",
-            "arquitectura",
-            "cine"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/arquitectura/20251123/oscar-tusquets-arquitecto-tanatorios-parecen-horribles-saber-morir-dignidad/1003744024738_0.html",
-        "date": "2025-11-23 00:53:53",
-        "sentiment_score": 0.6636016741394997
-    },
-    {
-        "title": "La empresa multilatina familiar: cuando el corto plazo son 25 años",
-        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744024339_260077279_1706x960.jpg",
-        "tags": [
-            "opinión",
-            "columnas de opinión"
-        ],
-        "link": "https://www.elespanol.com/invertia/opinion/20251123/empresa-multilatina-familiar-corto-plazo-anos/1003744024268_13.html",
-        "date": "2025-11-23 00:46:04",
-        "sentiment_score": 0.013014569878578186
-    },
-    {
-        "title": "Eduardo Domínguez Alfonso: la eminencia médica del sur de Tenerife que se convirtió en el primer presidente del Cabildo",
-        "image_url": "https://cdn.diariodeavisos.com/wp-content/uploads/2025/11/eduardo-dominguez-alfonso-1-1024x683.jpg",
-        "tags": [
-            "portada",
-            "sur",
-            "portada local",
-            "arona",
-            "portada apertura 3",
-            "tenerife"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2025/11/eduardo-dominguez-alfonso/",
-        "date": "2025-11-23 00:15:15",
-        "sentiment_score": -0.9000232499092817
-    },
-    {
-        "title": "Las obras pendientes de Limak para acabar la reforma del Camp Nou en su totalidad",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/23/culemania/palco/1003742709946_15436246_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "joan laporta",
-            "laliga",
-            "espai barça",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251123/pendientes-limak-acabar-reforma-camp-nou-totalidad/1003742709851_0.html",
-        "date": "2025-11-22 23:52:35",
-        "sentiment_score": 0.2575476039201021
-    },
-    {
-        "title": "Arroyo, donde la educación lo abarca todo",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/soydearroyo/multimedia/2025/11/22/arroyoeducaAyto-kBP-U240321503058bpE-758x531@El%20Norte.jpg",
-        "tags": [
-            "sarbelio fernández",
-            "danza",
-            "educación",
-            "música",
-            "día de la paz"
-        ],
-        "link": "https://soydearroyo.elnortedecastilla.es/arroyo-educacion-abarca-20251123002430-nt.html",
-        "date": "2025-11-22 23:24:31",
-        "sentiment_score": 0.8069015704095364
-    },
-    {
         "title": "Florentino Pérez expone a la asamblea de socios del Real Madrid su nuevo modelo de club",
         "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/20/68f65f0a429a2.jpeg",
         "tags": [
@@ -664,36 +158,6 @@ export default [
         "link": "https://www.larazon.es/comunidad-valenciana/mar-tres-continentes-desnudan-alicante_2025112369229be6df41134465e5b39a.html",
         "date": "2025-11-23 05:30:14",
         "sentiment_score": 0.3100006878376007
-    },
-    {
-        "title": "Max, dibujante de cómics, ilustrador: «Más que en mi oficio, el laberinto está en mi cabeza»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b35997eb-d2c5-4672-b011-7134111ee724_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cómics",
-            "autónomos",
-            "palma",
-            "barcelona",
-            "mallorca",
-            "cultura",
-            "fiestas"
-        ],
-        "link": "https://www.diariodemallorca.es/cultura/2025/11/23/max-dibujante-comics-ilustrador-oficio-124019548.html",
-        "date": "2025-11-23 05:01:50",
-        "sentiment_score": -0.13717865198850632
-    },
-    {
-        "title": "Muere a los 91 años Ornella Vanoni, diva de la música popular italiana",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/dc/media_thumb-link-4119806.webp?1763811666=",
-        "tags": [
-            "cultura",
-            "música",
-            "cantantes",
-            "italia",
-            "ornella vanoni"
-        ],
-        "link": "https://www.meneame.net/story/muere-91-anos-ornella-vanoni-diva-musica-popular-italiana",
-        "date": "2025-11-22 21:35:03",
-        "sentiment_score": -0.8838042011484504
     },
     {
         "title": "Duarte disfraza los males del Atlético en Getafe",
@@ -3109,5 +2573,236 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251126/debes-saber-hoy-noviembre-barcelona/1003742710918_0.html",
         "date": "2025-11-26 06:24:53",
         "sentiment_score": 0.50482277572155
+    },
+    {
+        "title": "El hub de ArcelorMittal, Iberia y Repsol crea 10 soluciones tecnológicas para descarbonizar la industria",
+        "image_url": "https://okdiario.com/img/2025/11/26/imagen_recortada-94.jpg",
+        "tags": [
+            "empresas",
+            "arcelor mittal",
+            "arcelormittal",
+            "industria",
+            "repsol",
+            "economía",
+            "iberia"
+        ],
+        "link": "https://okdiario.com/economia/hub-arcelormittal-iberia-repsol-crea-10-soluciones-tecnologicas-descarbonizar-industria-15834149",
+        "date": "2025-11-26 17:11:23",
+        "sentiment_score": 0.5865406952798367
+    },
+    {
+        "title": "La nueva estrategia de Joan Soteras para mantenerse al frente de la Federación Catalana de Fútbol",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/07/23/6880ed9e0cf84.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20251126/nueva-estrategia-joan-soteras-mantenerse-frente-federacion-catalana-futbol_359389.html",
+        "date": "2025-11-26 17:11:16",
+        "sentiment_score": 0.25606488436460495
+    },
+    {
+        "title": "Castilla-La Mancha conserva sus 13 Estrellas Michelin: Conoce los mejores restaurantes de la región",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/EuropaPress_7126209_momento_gala_presentacion_guia_michelin_2026-1095x730.jpg",
+        "tags": [
+            "restaurantes",
+            "gastronomía",
+            "estilo de vida",
+            "estrellas michelín"
+        ],
+        "link": "https://www.lanzadigital.com/estilo-de-vida/castilla-la-mancha-conserva-sus-13-estrellas-michelin-conoce-los-mejores-restaurantes-de-la-region/",
+        "date": "2025-11-26 17:08:17",
+        "sentiment_score": -0.006954878568649292
+    },
+    {
+        "title": "‘Castellón es Navidad’: Más de 250 actos, 4 ángeles de 11 metros de altura y 1.721.606 lámparas de LED",
+        "image_url": "https://castellondiario.com/wp-content/uploads/2025/11/castellon-es-navidad-mas-de-250-actos-4-angeles-de-11-metros-de-altura-y-1-721-606-lamparas-de-led.jpg.webp",
+        "tags": [
+            "navidad",
+            "castellón"
+        ],
+        "link": "https://castellondiario.com/castellon-es-navidad-mas-de-250-actos-4-angeles-de-11-metros-de-altura-y-1-721-606-lamparas-de-led/",
+        "date": "2025-11-26 17:02:20",
+        "sentiment_score": 0.4965703450143337
+    },
+    {
+        "title": "La Academia de Ciencias pone en valor el uso de la IA para prevenir el cáncer o el desarrollo de la computación cuántica",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251126180006_120.jpg",
+        "tags": [
+            "laboratorio",
+            "ciencia"
+        ],
+        "link": "https://www.europapress.es/ciencia/noticia-academia-ciencias-pone-valor-uso-ia-prevenir-cancer-desarrollo-computacion-cuantica-20251126175954.html",
+        "date": "2025-11-26 17:00:06",
+        "sentiment_score": 0.36976930126547813
+    },
+    {
+        "title": "Santander y BBVA informaron en Madrid que frenaron el crédito en la Argentina ante la suba del riesgo",
+        "image_url": "https://www.infobae.com/resizer/v2/SAVCRDX6RREK7DGMUAGMEHXV3Y.jpg?auth=4979f4a871134c79760e1db5872ec16e65dced97be21f742ecaccf19a7b33ded&height=1080&smart=true&width=1920",
+        "tags": [
+            "santander",
+            "bbva",
+            "crédito al sector privado",
+            "últimas noticias",
+            "expansión"
+        ],
+        "link": "https://www.infobae.com/economia/2025/11/26/santander-y-bbva-informaron-en-madrid-que-frenaron-el-credito-en-la-argentina-ante-la-suba-del-riesgo/",
+        "date": "2025-11-26 16:58:44",
+        "sentiment_score": 0.04529869556427002
+    },
+    {
+        "title": "La Premier League le gana la partida a los equipos españoles en Europa",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/26/692727815e9af.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/futbol/20251126/11305184/premier-league-le-gana-partida-equipos-espanoles-europa-champions.html",
+        "date": "2025-11-26 16:57:01",
+        "sentiment_score": 0.11337986588478088
+    },
+    {
+        "title": "La Premier abusa de la Liga en la Champions",
+        "image_url": "https://cflvdg.avoz.es/sc/KsHrPbYUAfBfp6T2QLoSasxDfS0=/768x/2025/11/26/00121764176101493371718/Foto/efe_20251125_222930779.jpg",
+        "tags": [
+            "premier league",
+            "champions league",
+            "fc barcelona",
+            "deportes",
+            "chelsea"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/11/26/premier-abusa-liga-champions/00031764175992041598103.htm",
+        "date": "2025-11-26 16:57:00",
+        "sentiment_score": -0.2668650448322296
+    },
+    {
+        "title": "España ultima detalles para la final de la Nations League con Edna Imade e Irene Paredes",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/26/6926cefa8be9c.png",
+        "tags": [
+            "deportes gipuzkoa"
+        ],
+        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/espana-ultima-detalles-final-nations-league-edna-imade-e-irene-paredes-20251126_3259668.html",
+        "date": "2025-11-26 16:53:00",
+        "sentiment_score": 0.06589913368225098
+    },
+    {
+        "title": "Dimitris Bountolos (Ferrovial), Coca-Cola Europacific Partners y Lantik, los protagonistas de los CIO 100 Awards en España en 2025",
+        "image_url": "https://www.cio.com/wp-content/uploads/2025/11/4096596-0-37867500-1764177078-premiados-cio-100-2025-editada.jpg?quality=50&strip=all&w=1024",
+        "tags": [
+            "digital transformation, it leadership"
+        ],
+        "link": "https://www.cio.com/article/4096596/dimitris-bountolos-ferrovial-coca-cola-europacific-partners-y-lantik-los-protagonistas-de-los-cio-100-awards-en-espana-en-2025.html",
+        "date": "2025-11-26 16:52:44",
+        "sentiment_score": 0.02455902099609375
+    },
+    {
+        "title": "El Barça se desmarca del token lanzado por su patrocinador ZKP",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251126180959_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-desmarca-token-lanzado-patrocinador-zkp-20251126180959.html",
+        "date": "2025-11-26 17:09:59",
+        "sentiment_score": -0.015382640063762665
+    },
+    {
+        "title": "La CNMV autoriza la OPA de Neinor sobre el 100% de Aedas Homes",
+        "image_url": "https://okdiario.com/img/2021/12/02/neinor-homes.jpeg",
+        "tags": [
+            "aedas homes",
+            "opa",
+            "empresas",
+            "economía",
+            "inmobiliarias",
+            "neinor homes"
+        ],
+        "link": "https://okdiario.com/economia/cnmv-autoriza-opa-neinor-sobre-100-aedas-homes-15795209",
+        "date": "2025-11-26 17:09:24",
+        "sentiment_score": 0.20816827565431595
+    },
+    {
+        "title": "Ivan Rakitić cuestiona al Barça por Lamine Yamal: “Necesitamos ayudarlo a aprender a manejar la presión”",
+        "image_url": "https://s3.elespanol.com/2025/11/25/actualidad/1003744029690_260146452_1706x960.jpg",
+        "tags": [
+            "lamine yamal",
+            "fútbol",
+            "ivan rakitic"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251126/ivan-rakitic-cuestiona-barca-lamine-yamal-necesitamos-ayudarlo-aprender-manejar-presion/1003744031153_0.html",
+        "date": "2025-11-26 17:03:54",
+        "sentiment_score": -0.17903003841638565
+    },
+    {
+        "title": "Las sombras del patrocinador del Barça promocionado por el misógino de extrema derecha Andrew Tate",
+        "image_url": "https://static1.ara.cat/clip/b6768de5-b173-475e-bca0-306984ef95e4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "promocionado",
+            "derecha",
+            "andrew",
+            "tate",
+            "extrema",
+            "misogino",
+            "patrocinador",
+            "barca",
+            "sombras"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/sombras-patrocinador-barca-promocionado-misogino-extrema-derecha-andrew-tate_130_5574340.html",
+        "date": "2025-11-26 17:03:52",
+        "sentiment_score": 0.6424666382372379
+    },
+    {
+        "title": "La alfombra roja de los Premios Ondas, en directo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/FPXC4N3QORCHLBJN4UKJKLAVSA.png?auth=d3e4bfae3b92e2dc3353a820b0a734bbdccae1b2f14d8ca8dce99bced3b60add&width=1200",
+        "tags": [
+            "comunicación",
+            "televisión pública",
+            "radio",
+            "cadena ser",
+            "premios ondas",
+            "cataluña",
+            "premios"
+        ],
+        "link": "https://elpais.com/videos/2025-11-26/la-gala-de-los-premios-ondas-en-directo.html",
+        "date": "2025-11-26 17:01:58",
+        "sentiment_score": 0.3002355694770813
+    },
+    {
+        "title": "La dermatitis atópica va acompañada de síntomas y emociones como el picor, el dolor, el cansancio o la ansiedad",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251126171321.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "sanidad"
+        ],
+        "link": "https://cronicadecantabria.com/cr/la-dermatitis-atpica-va-acompaada-de-sntomas-y-emociones-como-el-picor-el-dolor-el-cansancio-o-la-ansiedad/",
+        "date": "2025-11-26 17:00:05",
+        "sentiment_score": -0.8291586712002754
+    },
+    {
+        "title": "Cementos Molins distribuirá un dividendo de 0,55 euros brutos el 18 de diciembre",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251126180004_120.jpg",
+        "tags": [
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/noticia-cementos-molins-distribuira-dividendo-055-euros-brutos-18-diciembre-20251126180004.html",
+        "date": "2025-11-26 17:00:04",
+        "sentiment_score": 0.25069853104650974
+    },
+    {
+        "title": "Cementos Molins distribuirá un dividendo de 0,55 euros brutos el 18 de diciembre",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251126180003.jpg?fit=1099%2C583&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/cementos-molins-distribuir-un-dividendo-de-055-euros-brutos-el-18-de-diciembre/",
+        "date": "2025-11-26 17:00:04",
+        "sentiment_score": 0.03472646325826645
+    },
+    {
+        "title": "Brico Depôt Iberia acelera su crecimiento: las ventas suben casi un 10% en el tercer trimestre",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/11/crecimiento-brico-depot-espana-1000x665.jpg",
+        "tags": [
+            "empresas"
+        ],
+        "link": "https://www.economiadigital.es/empresas/brico-depot-iberia-crecimiento-tercer-trimestre-2025.html",
+        "date": "2025-11-26 17:00:00",
+        "sentiment_score": 0.03160783275961876
     }
 ];
