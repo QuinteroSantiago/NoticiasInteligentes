@@ -1,192 +1,5 @@
 export default [
     {
-        "title": "Duarte disfraza los males del Atlético en Getafe",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9def0690-9258-43cf-a516-205be66cd3b6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "laliga ea sports",
-            "getafe",
-            "atlético de madrid",
-            "primera división"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/11/23/laliga-getafe-atletico-madrid-directo-124036068.html",
-        "date": "2025-11-23 17:00:13",
-        "sentiment_score": -0.8951202481985092
-    },
-    {
-        "title": "Un gol en propia puerta da la victoria al Atlético de Madrid en Getafe",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9def0690-9258-43cf-a516-205be66cd3b6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "atlético de madrid",
-            "primera división",
-            "getafe",
-            "laliga ea sports"
-        ],
-        "link": "https://www.eldia.es/deportes/2025/11/23/laliga-getafe-atletico-madrid-directo-124036056.html",
-        "date": "2025-11-23 17:00:11",
-        "sentiment_score": 0.6462307795882225
-    },
-    {
-        "title": "Juan Carlos Cervera revela todos los secretos de organizar uno de los eventos automotor más grandes de España",
-        "image_url": "https://s3.elespanol.com/2025/11/19/actualidad/1003744021591_260039866_1706x960.jpg",
-        "tags": [
-            "camiones",
-            "circuito de madrid jarama",
-            "motor"
-        ],
-        "link": "https://www.elespanol.com/deportes/motor/20251123/juan-carlos-cervera-revela-secretos-organizar-eventos-automotor-grandes-espana/1003744021587_0.html",
-        "date": "2025-11-23 17:00:00",
-        "sentiment_score": 0.12304140627384186
-    },
-    {
-        "title": "El viaducto de carretera más alto de España: casi la misma altura que la Sagrada Familia",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/06/690ccb4b01477.webp",
-        "tags": [
-            "movilidad"
-        ],
-        "link": "https://www.20minutos.es/motor/movilidad/viaducto-montabliz-mas-alto-espana_6734701_0.html",
-        "date": "2025-11-23 17:00:00",
-        "sentiment_score": -0.08465542644262314
-    },
-    {
-        "title": "El Real Madrid confunde al André Silva del Elche con el hermano fallecido de Diogo Jota: \"Lamentamos...\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/11/23/9FFBE4A6-71E7-4365-9B95-D53ED3EAABEE/andre-silva-jugador-elche_98.jpg?crop=607%2C342%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "fútbol",
-            "antena 3 noticias",
-            "deportes"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/real-madrid-confunde-andre-silva-elche-hermano-fallecido-diogo-jota-lamentamos_2025112369233d77df41134465e644d9.html",
-        "date": "2025-11-23 16:59:35",
-        "sentiment_score": -0.8979955120012164
-    },
-    {
-        "title": "La Justicia confirma el desalojo de una madre y sus cuatro hijos, uno con discapacidad, de una vivienda en la que pagaron 600 euros a una persona que dijo ser el propietario",
-        "image_url": "https://www.infobae.com/resizer/v2/PLQXMHDX2RCFHGCLRLXF2SXIDA.jpg?auth=19daccc8a4977b824abc2b7454c39f140dc60bc119f1780d48ce9d45b4d74f9d&height=1080&smart=true&width=1920",
-        "tags": [
-            "desahucios",
-            "vivienda",
-            "vivienda españa",
-            "juicios",
-            "tribunales españa",
-            "españa-nacional",
-            "españa-noticias",
-            "justicia",
-            "sentencias",
-            "madrid"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/23/la-justicia-confirma-el-desalojo-de-una-madre-y-sus-cuatro-hijos-uno-con-discapacidad-de-una-vivienda-en-la-que-pagaron-600-euros-a-una-persona-que-dijo-ser-el-propietario/",
-        "date": "2025-11-23 16:58:49",
-        "sentiment_score": -0.7094727214425802
-    },
-    {
-        "title": "El Real Madrid se ve obligado a pedir perdón al Elche C.F. tras equivocarse en la foto de un obituario",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/23/logo-del-real-madrid.jpeg",
-        "tags": [
-            "deporte"
-        ],
-        "link": "https://www.huffingtonpost.es/deporte/el-real-madrid-ve-obligado-pedir-perdon-elche-cf-equivocarse-foto-obituario.html",
-        "date": "2025-11-23 16:58:23",
-        "sentiment_score": -0.669234711676836
-    },
-    {
-        "title": "Los retrasos sitúan la mejora del Ave gallego a Portugal más allá de 2035 y dejan en el aire el tramo de Cerdedo",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/11/23/2025112317483352714.jpg",
-        "tags": [
-            "pontevedra"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/pontevedra/retrasos-situan-mejora-ave-gallego-portugal-mas-alla-2035-dejan-aire-tramo-cerdedo/202511231750231419529.html",
-        "date": "2025-11-23 16:50:23",
-        "sentiment_score": -0.858345203101635
-    },
-    {
-        "title": "Los goles y su celebración",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/11/23/montoGol-koWF-U2403269973480pC-758x531@El%20Norte.jpg",
-        "tags": [
-            "pelé",
-            "fútbol",
-            "real valladolid club de fútbol"
-        ],
-        "link": "https://www.elnortedecastilla.es/realvalladolid/goles-celebracion-20251123174253-nt.html",
-        "date": "2025-11-23 16:49:05",
-        "sentiment_score": 0.6652541160583496
-    },
-    {
-        "title": "Conoce a Karen Saurí, la productora barcelonesa que ha trabajado con artistas como Rosalía o Dua Lipa",
-        "image_url": "https://www.hola.com/horizon/landscape/4bdab6aecd24-020720250033.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "dua lipa",
-            "musica",
-            "actualidad",
-            "rosalia"
-        ],
-        "link": "https://www.hola.com/actualidad/20251123867973/karen-sauri-la-productora-motomami-world-tour-rosalia/",
-        "date": "2025-11-23 17:03:44",
-        "sentiment_score": 0.752320921048522
-    },
-    {
-        "title": "Circula el primer tren por las nuevas vías de ancho internacional de Castellbisbal",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3f5b78e5-ee50-468e-babd-182411d0e085_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "renfe",
-            "adif",
-            "óscar puente santiago",
-            "corredor mediterráneo"
-        ],
-        "link": "https://www.elperiodico.com/es/trafico-y-transportes/20251123/circula-primer-tren-nuevas-vias-124037791",
-        "date": "2025-11-23 17:01:06",
-        "sentiment_score": 0.06524874269962311
-    },
-    {
-        "title": "Un inglés pregunta esto sobre España y la respuesta lo dice todo: «Se hizo el silencio»",
-        "image_url": "https://okdiario.com/img/2025/11/23/un-ingles-pregunta-esto-sobre-espana-y-la-respuesta-lo-dice-todo-se-hizo-el-silencio-.jpg",
-        "tags": [
-            "viral",
-            "españa",
-            "okd",
-            "curiosidades"
-        ],
-        "link": "https://okdiario.com/curiosidades/ingles-pregunta-esto-sobre-espana-respuesta-lo-dice-todo-hizo-silencio-15812910",
-        "date": "2025-11-23 17:00:02",
-        "sentiment_score": -0.3776926323771477
-    },
-    {
-        "title": "Unos 200 activistas se concentran ante la comisaría de la Via Laietana de Barcelona por su",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/23/el-pulso-de-la-ciudad/1003742710029_15437003_1706x960.jpg",
-        "tags": [
-            "ciutat vella",
-            "el pulso de la ciudad",
-            "manifestaciones",
-            "policía"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20251123/activistas-concentran-comisaria-via-laietana-barcelona/1003742710028_0.html",
-        "date": "2025-11-23 16:56:36",
-        "sentiment_score": -0.3800317049026489
-    },
-    {
-        "title": "Operación contra el top manta en Santa Coloma de Gramanet (Barcelona): intervenidos más de 1.300 euros en tabaco falsificado",
-        "image_url": "https://gaceta.es/wp-content/uploads/2024/08/mossos-0-1.jpg",
-        "tags": [
-            "españa",
-            "cataluña",
-            "tabaco"
-        ],
-        "link": "https://gaceta.es/espana/operacion-contra-el-top-manta-en-santa-coloma-de-gramanet-barcelona-intervenidos-mas-de-1-300-euros-en-tabaco-falsificado-20251123-1739/",
-        "date": "2025-11-23 16:39:23",
-        "sentiment_score": -0.11969121918082237
-    },
-    {
-        "title": "La Talentour de KPMG llega a Cataluña para captar el mejor talento universitario",
-        "image_url": "https://okdiario.com/img/2025/06/21/kpmg-afirma-que-la-regulacion-europea-interior.jpg",
-        "tags": [
-            "empresas",
-            "economía",
-            "kpmg"
-        ],
-        "link": "https://okdiario.com/economia/talentour-kpmg-llega-cataluna-captar-mejor-talento-universitario-15813709",
-        "date": "2025-11-23 16:37:08",
-        "sentiment_score": 0.4492153227329254
-    },
-    {
         "title": "Real Madrid sufrió para rescatar un empate ante el Elche y se apretó la pelea por la cima en LaLiga",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Real-Madrid-vs-Elche.jpg",
         "tags": [
@@ -3026,5 +2839,261 @@ export default [
         "link": "https://www.infobae.com/mexico/deportes/2025/11/27/despues-de-su-salida-de-pumas-dani-alves-es-captado-en-su-nueva-faceta-como-predicador/",
         "date": "2025-11-27 01:30:00",
         "sentiment_score": -0.8677824065089226
+    },
+    {
+        "title": "Álvaro Fernández, portero del Real Avilés: «En el Celta viví cosas que me hicieron crecer y les guardo mucho cariño»",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/11/26/alvaro-rai-kXbB-U2403649546258I-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real avilés"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/real-aviles-celta-fortuna-alvaro-fernandez-portero-20251126070500-nt.html",
+        "date": "2025-11-27 06:05:52",
+        "sentiment_score": -0.1592058315873146
+    },
+    {
+        "title": "La crisis de la vivienda destruye el paradigma del ahorro y lleva a los españoles a 'ponerse en lo peor' de forma permanente",
+        "image_url": "https://s10.s3c.es/imag/_v0/1200x675/f/2/3/1200x655_moneda-ahorro-gruas-istock.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.eleconomista.es/economia/noticias/13663068/11/25/la-crisis-de-la-vivienda-destruye-el-paradigma-del-ahorro-y-lleva-a-los-espanoles-a-ponerse-en-lo-peor-de-forma-permanente.html",
+        "date": "2025-11-27 06:00:41",
+        "sentiment_score": -0.3807157278060913
+    },
+    {
+        "title": "Diang se apunta a la carrera por ser el \"10\" del Elche",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88df4ce6-9cc8-4327-bb67-c2cc70bd072a_16-9-aspect-ratio_default_1418184.jpg",
+        "tags": [
+            "real madrid",
+            "elche cf",
+            "rafa mir",
+            "once",
+            "congo"
+        ],
+        "link": "https://www.informacion.es/elche-cf/2025/11/27/diang-apunta-carrera-10-elche-124159686.html",
+        "date": "2025-11-27 06:00:25",
+        "sentiment_score": 0.7505853250622749
+    },
+    {
+        "title": "Pillado a 35 km/h con un patinete en Huesca: primera multa gracias al nuevo radar para VMP",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/11/26/2025112623301480129.jpg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://www.aragondigital.es/articulo/sucesos/mula-35-km-h-patinete-huesca-primera-multa-gracias-nuevo-radar-vmp/20251127070000954452.html",
+        "date": "2025-11-27 06:00:00",
+        "sentiment_score": 0.11619609594345093
+    },
+    {
+        "title": "La torre del puerto de Málaga: cronología de un proyecto que se tambalea",
+        "image_url": "https://static.grupojoly.com/clip/921aafc2-32a8-4d6c-a6d0-22690777ef6f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga",
+            "puerto de málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/torre-puerto-malaga-cronologia-proyecto_0_2005315647.html",
+        "date": "2025-11-27 05:55:37",
+        "sentiment_score": -0.6994895227253437
+    },
+    {
+        "title": "Apoyar al Barça es más barato con el Black Friday: la tercera equipación, ahora con descuento",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/05/690bcaec7f561.r_d.3042-1167-1000.jpeg",
+        "tags": [
+            "elrecomendador"
+        ],
+        "link": "https://www.mundodeportivo.com/elrecomendador/20251127/1002575593/apoyar-barca-mas-barato-black-friday-tercera-equipacion-descuento.html",
+        "date": "2025-11-27 05:50:00",
+        "sentiment_score": 0.03600504994392395
+    },
+    {
+        "title": "La Torre del Puerto de Málaga, la \"patata caliente\" que nadie quiere tocar en Madrid",
+        "image_url": "https://s3.elespanol.com/2025/02/06/malaga/922168242_252898943_1706x960.png",
+        "tags": [
+            "málaga (municipio)",
+            "puerto de málaga",
+            "construyendo málaga",
+            "málaga ciudad"
+        ],
+        "link": "https://www.elespanol.com/malaga/malaga-ciudad/20251127/torre-puerto-malaga-patata-caliente-nadie-quiere-tocar-madrid/1003744031375_0.html",
+        "date": "2025-11-27 05:50:00",
+        "sentiment_score": 0.19811087846755981
+    },
+    {
+        "title": "El Roadshow de BMC Helix aterriza en Madrid para mostrar el impacto de la IA en la gestión TI",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2025/11/El-Roadshow-de-BMC-Helix-aterriza-en-Madrid-para-mostrar-el-impacto-de-la-IA-en-la-gestion-TI-2.webp",
+        "tags": [
+            "ti",
+            "bmc helix",
+            "tecnología",
+            "ia",
+            "últimas noticias"
+        ],
+        "link": "https://www.merca2.es/2025/11/27/roadshow-bmc-helix-madrid-2327901/",
+        "date": "2025-11-27 05:30:00",
+        "sentiment_score": 0.4681668132543564
+    },
+    {
+        "title": "El Celta, sin victorias en casa: una oportunidad para el Espanyol",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/celta-espanyol-24-25-celebracion.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lagradaonline.com/celta-espanyol-balaidos-victorias-local/",
+        "date": "2025-11-27 05:15:11",
+        "sentiment_score": -0.06521612405776978
+    },
+    {
+        "title": "Mbappé evita una tragicomedia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/067c59fb-0b2a-4fb2-a8d3-9896493646e9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "blanca",
+            "real madrid",
+            "goles",
+            "madrid"
+        ],
+        "link": "https://www.farodevigo.es/deportes/2025/11/27/mbappe-evita-tragicomedia-124169920.html",
+        "date": "2025-11-27 05:08:13",
+        "sentiment_score": -0.7039022818207741
+    },
+    {
+        "title": "Lion, taxista dominicano en España: \"Antes trabajaba 14 h, ahora hago 4 h y gano unos 60 € al día solo en propinas\"",
+        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027393_260116383_1706x960.jpg",
+        "tags": [
+            "soft",
+            "taxis",
+            "sociedad",
+            "inmigrantes",
+            "trabajadores"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251127/lion-taxista-dominicano-espana-trabajaba-ahora-hago-gano-eur-dia-solo-propinas/1003744026720_0.html",
+        "date": "2025-11-27 06:36:47",
+        "sentiment_score": 0.15200275182724
+    },
+    {
+        "title": "Más de la mitad de los españoles cambia sus rutas y el 30% renuncia a ver a familiares o amigos por falta de accesibilidad",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/27/6927f0c214dac7-30004975.jpeg",
+        "tags": [
+            "capaces"
+        ],
+        "link": "https://www.20minutos.es/capaces/mas-mitad-los-espanoles-cambia-sus-rutas-30-renuncia-ver-familiares-amigos-por-falta-accesibilidad_6903294_0.html",
+        "date": "2025-11-27 06:33:56",
+        "sentiment_score": 0.2965194247663021
+    },
+    {
+        "title": "Esta es la tecnológica catalana que prevé instalarse en Asturias (y estos son los empleos de alto perfil que creará)",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bfaf31e0-7e5c-4992-af7a-ebc28d64a389_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "empresas",
+            "asturias",
+            "+ digital"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20251127/tecnologica-catalana-preve-instalarse-asturias-124173596",
+        "date": "2025-11-27 06:31:01",
+        "sentiment_score": 0.36303891614079475
+    },
+    {
+        "title": "Este es el precio de la gasolina este 27 de noviembre en Madrid, Barcelona y otras ciudades",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-economia",
+            "gasolina",
+            "precio gasolina",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/27/este-es-el-precio-de-la-gasolina-este-27-de-noviembre-en-madrid-barcelona-y-otras-ciudades/",
+        "date": "2025-11-27 06:30:55",
+        "sentiment_score": -0.22724606469273567
+    },
+    {
+        "title": "Lo que debes saber hoy, 27 de noviembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/27/vivir-en-barcelona/1003742711189_15452134_1706x960.jpg",
+        "tags": [
+            "tráfico",
+            "aemet (agencia estatal de meteorología)",
+            "movilidad",
+            "metro barcelona",
+            "transports metropolitans barcelona tmb",
+            "clima",
+            "autobús",
+            "renfe barcelona",
+            "transporte",
+            "el tiempo"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251127/debes-saber-hoy-noviembre-barcelona/1003742711188_0.html",
+        "date": "2025-11-27 06:28:58",
+        "sentiment_score": 0.22098848223686218
+    },
+    {
+        "title": "Los Celtics de Hugo González rompen una impresionante racha de los Pistons",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/09/2025100907124188969.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/celtics-hugo-gonzalez-rozan-historia-quedan-paso/20251127070152364685.html",
+        "date": "2025-11-27 06:01:52",
+        "sentiment_score": -0.8778360951691866
+    },
+    {
+        "title": "El Supremo decide si envía a Ábalos y Koldo a la cárcel",
+        "image_url": "https://static1.ara.cat/clip/1124ba76-14f1-418b-9f4f-1d1ceea4f896_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "abalos",
+            "envia",
+            "supremo",
+            "koldo",
+            "carcel",
+            "decide"
+        ],
+        "link": "https://es.ara.cat/politica/supremo-decide-envia-abalos-koldo-carcel_1_5574849.html",
+        "date": "2025-11-27 06:01:22",
+        "sentiment_score": -0.5224608555436134
+    },
+    {
+        "title": "Los motivos tras la promesa de Hansi Flick en Stamford Bridge",
+        "image_url": "https://static1.ara.cat/clip/e56f3eb3-a83c-4286-ab91-f0cd32de31c0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "promesa",
+            "flick",
+            "bridge",
+            "stamford",
+            "hansi",
+            "motivos"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/motivos-promesa-hansi-flick-stamford-bridge_1_5574841.html",
+        "date": "2025-11-27 06:01:12",
+        "sentiment_score": -0.4264349341392517
+    },
+    {
+        "title": "Barcelona 2010-2025: las 10 grandes transformaciones",
+        "image_url": "https://static1.ara.cat/clip/5c371977-4d01-446e-99cd-c3696b1969ef_16-9-aspect-ratio_default_0_x2868y249.jpg",
+        "tags": [
+            "transformaciones",
+            "2025",
+            "2010",
+            "barcelona",
+            "grandes",
+            "10"
+        ],
+        "link": "https://es.ara.cat/sociedad/barcelona/barcelona-2010-2025-10-grandes-transformaciones_130_5574836.html",
+        "date": "2025-11-27 06:01:04",
+        "sentiment_score": -0.20324841141700745
+    },
+    {
+        "title": "El rey del ramen aterriza en Barcelona: del orgullo regional a la fama global",
+        "image_url": "https://static1.ara.cat/clip/9dd845fa-eca5-4c46-8ccc-ade4fd49b7a2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rey",
+            "regional",
+            "fama",
+            "orgullo",
+            "ramen",
+            "aterriza",
+            "barcelona",
+            "global"
+        ],
+        "link": "https://es.ara.cat/comer/rey-ramen-aterriza-barcelona-orgullo-regional-fama-global_1_5574835.html",
+        "date": "2025-11-27 06:00:58",
+        "sentiment_score": 0.2629641741514206
     }
 ];
