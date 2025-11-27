@@ -1,165 +1,5 @@
 export default [
     {
-        "title": "Florentino Pérez expone a la asamblea de socios del Real Madrid su nuevo modelo de club",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/10/20/68f65f0a429a2.jpeg",
-        "tags": [
-            "real madrid"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/real-madrid/20251123/11292034/florentino-perez-expone-asamblea-socios-real-madrid-nuevo-modelo-club.html",
-        "date": "2025-11-23 06:35:57",
-        "sentiment_score": -0.06873622536659241
-    },
-    {
-        "title": "Sin necesidad de Bluetooth: Apple y Google logran conectar para dar un impulso a la Siri del futuro",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/11/20/foto-de-archivo-de-un-telefono-con-el-logo-de-google-y-por-detras-el-logo-de-apple.jpeg",
-        "tags": [
-            "tecnología"
-        ],
-        "link": "https://www.huffingtonpost.es/tecnologia/sin-necesidad-bluetooth-apple-google-logran-conectar-dar-impulso-siri-futuro.html",
-        "date": "2025-11-23 06:04:20",
-        "sentiment_score": -0.08904197812080383
-    },
-    {
-        "title": "El turista Tejero y el embajador alemán",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "aleman",
-            "tejero",
-            "turista",
-            "embajador"
-        ],
-        "link": "https://www.deia.eus/opinion/tribuna-abierta/2025/11/23/turista-tejero-embajador-aleman-10385746.html",
-        "date": "2025-11-23 06:01:54",
-        "sentiment_score": -0.7991356570273638
-    },
-    {
-        "title": "Las primeras decisiones del rey Juan Carlos I",
-        "image_url": "https://static.grupojoly.com/clip/69925aa0-a039-4345-83b8-5b18fbc21dd5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "decisiones",
-            "carlos",
-            "juan",
-            "primeras",
-            "rey"
-        ],
-        "link": "https://www.granadahoy.com/espana/primeras-decisiones-rey-juan-carlos_0_2005286530.html",
-        "date": "2025-11-23 06:01:28",
-        "sentiment_score": 0.3398169204592705
-    },
-    {
-        "title": "4.000 millones de euros más para Andalucía es una cifra posible",
-        "image_url": "https://static.grupojoly.com/clip/ec16596d-464d-4fe1-b0b0-7149a52d0271_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "andalucia",
-            "euros",
-            "4",
-            "millones",
-            "000"
-        ],
-        "link": "https://www.huelvainformacion.es/andalucia/4-000-millones-euros-andalucia_0_2005286521.html",
-        "date": "2025-11-23 06:00:10",
-        "sentiment_score": -0.30383096635341644
-    },
-    {
-        "title": "¿Quiénes son y qué hacen los más ricos de Cataluña?",
-        "image_url": "https://static1.ara.cat/clip/30f02728-d2f2-44f8-a65c-66cf472e55b9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "son",
-            "cataluna",
-            "ricos"
-        ],
-        "link": "https://es.ara.cat/economia/empresas/son-ricos-cataluna_1_5570702.html",
-        "date": "2025-11-23 06:30:46",
-        "sentiment_score": -0.0022662878036499023
-    },
-    {
-        "title": "Los Pujol Ferrusola: retrato de la gran familia catalana a las puertas de la Audiencia Nacional",
-        "image_url": "https://s1.staticld.com/2025/11/22/pujol-ferrusola-hijos-ok.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/espana/2025-11-23/los-pujol-ferrusola-retrato-de-la-gran-familia-catalana-a-las-puertas-de-la-audiencia-nacional-7323520/",
-        "date": "2025-11-23 06:23:03",
-        "sentiment_score": -0.9413594985380769
-    },
-    {
-        "title": "La cloaca trabajó para el Gobierno en 2023 tras la exigencia de ERC de crear una comisión sobre la \"Operación Cataluña\"",
-        "image_url": "https://s1.staticld.com/2025/11/21/europapress-7111839-exsecretario-organizacion-psoe-santos-cerdan-salida-prision-soto-real-19.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/espana/2025-11-23/la-cloaca-trabajo-para-el-gobierno-en-2023-tras-la-exigencia-de-erc-de-crear-una-comision-sobre-la-operacion-cataluna-7323128/",
-        "date": "2025-11-23 06:19:42",
-        "sentiment_score": -0.3172089643776417
-    },
-    {
-        "title": "Renato Alegría: Con la tinta de la vida",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/11/23/fotolead_pujol1200-kUWB--562x562@RC.jpg",
-        "tags": [
-            "renato",
-            "alegria",
-            "tinta",
-            "vida"
-        ],
-        "link": "https://www.canarias7.es/canarias/gran-canaria/las-palmas-de-gran-canaria/renato-alegria-tinta-vida-20251123074000-nt.html",
-        "date": "2025-11-23 06:09:02",
-        "sentiment_score": 0.2610497698187828
-    },
-    {
-        "title": "Castilla y León avanza para liderar el hidrógeno verde con el 25% de la producción nacional",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2025/11/22/6921fa8fd79a3.jpeg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/251123/103238/castilla-leon-avanza-liderar-hidrogeno-verde-25-produccion-nacional.html",
-        "date": "2025-11-23 06:05:00",
-        "sentiment_score": -0.14446400105953217
-    },
-    {
-        "title": "La brutal historia del jesuita asturiano que logró mediar entre la guerrilla de Guatemala: \"Me han asaltado varias veces con armas, pero es lo normal\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/86ea6d7c-8922-44c4-bcbd-56790dc7f869_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "el salvador",
-            "guatemala",
-            "méxico",
-            "migrantes",
-            "asturias",
-            "refugiados",
-            "honduras"
-        ],
-        "link": "https://www.lne.es/asturias-exterior/2025/11/23/brutal-historia-jesuita-asturiano-logro-123285709.html",
-        "date": "2025-11-23 06:01:19",
-        "sentiment_score": -0.10143697261810303
-    },
-    {
-        "title": "Tecnología global, talento local: así se construye el futuro digital desde el sur",
-        "image_url": "https://static.grupojoly.com/clip/f729270c-2672-4b1e-91b6-f6565190400b_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "local",
-            "tecnologia",
-            "sevilla",
-            "atos",
-            "global",
-            "ciberseguridad",
-            "talento",
-            "centro"
-        ],
-        "link": "https://www.elconciso.es/empresas/centro-ciberseguridad-atos-sevilla-tecnologia-global-talento-local_0_2005282529.html",
-        "date": "2025-11-23 05:30:30",
-        "sentiment_score": 0.5141941085457802
-    },
-    {
-        "title": "Un mar y tres continentes se desnudan en Alicante",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/11/22/73DC3550-EAB7-49BF-8C16-84446560FE2F/imagen-paneles-exposicion-mediterraneo-mar-patrimonios-casa-mediterraneo-alicante_69.jpg?crop=4542%2C2555%2Cx0%2Cy251&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "comunidad valenciana"
-        ],
-        "link": "https://www.larazon.es/comunidad-valenciana/mar-tres-continentes-desnudan-alicante_2025112369229be6df41134465e5b39a.html",
-        "date": "2025-11-23 05:30:14",
-        "sentiment_score": 0.3100006878376007
-    },
-    {
         "title": "Duarte disfraza los males del Atlético en Getafe",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9def0690-9258-43cf-a516-205be66cd3b6_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2804,5 +2644,251 @@ export default [
         "link": "https://www.economiadigital.es/empresas/brico-depot-iberia-crecimiento-tercer-trimestre-2025.html",
         "date": "2025-11-26 17:00:00",
         "sentiment_score": 0.03160783275961876
+    },
+    {
+        "title": "La medida del Pentágono contra el héroe de guerra Kelly demuestra que la sed de venganza de Trump no tiene fin",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/df/media_thumb-link-4120522.webp?1764056166=",
+        "tags": [
+            "kelly",
+            "trump",
+            "guerra",
+            "héroe",
+            "politica",
+            "venganza",
+            "medida",
+            "pentágono"
+        ],
+        "link": "https://www.meneame.net/story/medida-pentagono-contra-heroe-guerra-kelly-demuestra-sed-trump",
+        "date": "2025-11-26 02:05:02",
+        "sentiment_score": -0.7661730796098709
+    },
+    {
+        "title": "Los jóvenes españoles en Países Bajos denuncian el abuso de las agencias de empleo",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/e0/media_thumb-link-4120666.webp?1764083646=",
+        "tags": [
+            "españa",
+            "actualidad",
+            "inmigrantes",
+            "países bajos",
+            "inmigración",
+            "jóvenes"
+        ],
+        "link": "https://www.meneame.net/story/jovenes-espanoles-paises-bajos-denuncian-abuso-agencias-empleo",
+        "date": "2025-11-25 23:00:04",
+        "sentiment_score": -0.7451791372150183
+    },
+    {
+        "title": "Mbappé: \"La gente habla mucho desde fuera, pero es normal cuando juegas en un club como el Madrid\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/26/6927648f5e8d8.r_d.534-460-3981.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mbappe-gente-habla-fuera-normal-juegas-club-madrid-20251126_3260288.html",
+        "date": "2025-11-26 22:16:32",
+        "sentiment_score": 0.11093267798423767
+    },
+    {
+        "title": "Giménez desata la apoteosis en el minuto 93",
+        "image_url": "https://cflvdg.avoz.es/sc/z2fR70TuVWV3b0sGGeHJeVi_2IU=/768x/2025/11/26/00121764195001644455173/Foto/reu_20251126_220736923.jpg",
+        "tags": [
+            "champions league",
+            "atlético de madrid",
+            "deportes"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/11/26/gimenez-desata-apoteosis-minuto-93/00031764195162306906276.htm",
+        "date": "2025-11-26 22:14:00",
+        "sentiment_score": -0.5299727469682693
+    },
+    {
+        "title": "Mbappé alivia al Real Madrid con un póker ante el Olympiacos en la Liga de Campeones",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/11/26/uefa-champions-league-olympiacos-piraeus-vs-real-madrid.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/futbol/2025/11/26/mbappe-alivia-al-real-madrid-con-un-poker-ante-el-olympiacos-en-la-liga-de-campeones-1873876.html",
+        "date": "2025-11-26 22:12:15",
+        "sentiment_score": -0.1905897557735443
+    },
+    {
+        "title": "La cabeza de Giménez lleva al Atlético al delirio en el descuento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3c7c5d2b-9478-4bf3-83ab-ea3b7747e18a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "inter de milán",
+            "champions league",
+            "champions",
+            "liga de campeones",
+            "atlético de madrid",
+            "fútbol",
+            "atlético"
+        ],
+        "link": "https://www.lne.es/deportes/2025/11/26/atletico-inter-milan-champions-resultado-goles-resumen-124168621.html",
+        "date": "2025-11-26 22:10:14",
+        "sentiment_score": -0.10023969411849976
+    },
+    {
+        "title": "Póker de Mbappé le dio sufrida victoria al Real Madrid frente al Olympiacos",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Real-Madrid-vs-Olympiacos.jpg",
+        "tags": [
+            "champions league",
+            "real madrid cf",
+            "futbol",
+            "olympiacos bc",
+            "deportes",
+            "titulares"
+        ],
+        "link": "https://lapatilla.com/2025/11/26/poker-de-mbappe-le-dio-sufrida-victoria-al-real-madrid-frente-al-olympiacos/",
+        "date": "2025-11-26 22:06:29",
+        "sentiment_score": -0.27323615550994873
+    },
+    {
+        "title": "El Real Madrid estropea el paseo de Mbappé en Grecia y gana pidiendo la hora",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2562742.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/el-real-madrid-estropea-el-paseo-de-mbappe-en-grecia-y-gana-pidiendo-la-hora.html",
+        "date": "2025-11-26 22:04:53",
+        "sentiment_score": 0.5678059756755829
+    },
+    {
+        "title": "Mbappé alivia al Real Madrid con un póker",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/d5438a96-888b-4b43-98420e1ab2ae94f0.jpg",
+        "tags": [
+            "real madrid",
+            "thibaut courtois",
+            "kylian mbappé",
+            "champions league",
+            "xabi alonso",
+            "alfredo di stéfano",
+            "eduardo camavinga",
+            "jude bellingham",
+            "vinícius júnior",
+            "cristiano ronaldo",
+            "póker"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zd274d63b-3549-44de-a152dd74230f01b1/202511/mbappe-alivia-al-real-madrid-con-un-poker",
+        "date": "2025-11-26 22:03:37",
+        "sentiment_score": 0.05723381042480469
+    },
+    {
+        "title": "El póker de Mbappé evita una tragicomedia del Real Madrid en Atenas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b25012d-bc55-448a-a919-dd12d8f4f3d1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid",
+            "olympiacos",
+            "champions league"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2025/11/26/olympiacos-real-madrid-resumen-resultado-champions-124168494.html",
+        "date": "2025-11-26 22:02:22",
+        "sentiment_score": -0.7039029523730278
+    },
+    {
+        "title": "El pueblo medieval donde nació Berto Romero está a 1 hora de Barcelona: castillo del siglo IX y una montaña hecha de sal",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/26/gran-barcelona/1003742711169_15451838_1706x960.jpg",
+        "tags": [
+            "cultura",
+            "historia",
+            "gran barcelona",
+            "curiosidades"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251126/pueblo-medieval-nacio-berto-romero-hora-barcelona-castillo-siglo-ix-montana-hecha-sal/1003742711156_0.html",
+        "date": "2025-11-26 22:09:42",
+        "sentiment_score": -0.30681009590625763
+    },
+    {
+        "title": "Xavi Pascual regresa al Palau para guiar al Barça a un triunfo ante el colista",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/6ZZ3N6IH4JOLJKFKCNMDUTUE54.jpg?auth=c0af86526496183c41cae05b6775edbbe787ff8de52ea48c59e6db7bcacbd49b&width=1200",
+        "tags": [
+            "competiciones",
+            "fc barcelona baloncesto",
+            "baloncesto",
+            "deportes",
+            "xavi pascual",
+            "euroliga",
+            "jugadores baloncesto"
+        ],
+        "link": "https://elpais.com/deportes/baloncesto/2025-11-26/xavi-pascual-regresa-al-palau-para-guiar-al-barca-a-un-triunfo-ante-el-colista.html",
+        "date": "2025-11-26 21:58:04",
+        "sentiment_score": 0.5093763172626495
+    },
+    {
+        "title": "Barcelona se atasca en la Champions, pero Flick es optimista sobre recuperación del equipo",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/f76b7d4/2147483647/strip/true/crop/2463x1293+0+174/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F05%2F57%2Fe065e5a8494184deff4005350169%2F1c86dfdd2ccc4e679a4180c2e03e78e5.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-11-26/barcelona-se-atasca-en-la-champions-pero-flick-es-optimista-sobre-recuperacion-del-equipo",
+        "date": "2025-11-26 21:51:12",
+        "sentiment_score": -0.7284086309373379
+    },
+    {
+        "title": "Celebraciones y grupos con ambiente tradicional en la Barceloneta, la propuesta de Pasa Tapas",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7746078",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5683753/celebraciones-grupos-ambiente-tradicional-barceloneta-propuesta-pasa-tapas",
+        "date": "2025-11-26 21:49:49",
+        "sentiment_score": 0.7864738926291466
+    },
+    {
+        "title": "David Bisbal habla en 'El Hormiguero' sobre su pasión por la naturaleza: \"Se muere un árbol y lo paso mal\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/26/69276fc1f04a78-14162266.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.20minutos.es/television/david-bisbal-habla-hormiguero-sobre-su-pasion-por-naturaleza-se-muere-un-arbol-paso-mal_6903261_0.html",
+        "date": "2025-11-26 21:48:56",
+        "sentiment_score": 0.17544448748230934
+    },
+    {
+        "title": "Xavi Pascual celebra su regreso con una trabajada victoria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0876b263-0517-48e9-94a3-6e33937e24ee_16-9-aspect-ratio_default_1418229.jpg",
+        "tags": [
+            "baloncesto",
+            "fc barcelona de baloncesto",
+            "euroliga"
+        ],
+        "link": "https://www.lne.es/deportes/2025/11/26/xavi-pascual-celebra-regreso-trabajada-124168047.html",
+        "date": "2025-11-26 21:43:03",
+        "sentiment_score": -0.6797187551856041
+    },
+    {
+        "title": "Acuerdo para subir un 11% los sueldos de los funcionarios hasta 2028",
+        "image_url": "https://static1.ara.cat/clip/3f6c92aa-4039-44b9-9f87-016d2100c504_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "acuerdo",
+            "11",
+            "subir",
+            "funcionarios",
+            "sueldos",
+            "2028"
+        ],
+        "link": "https://es.ara.cat/economia/mercado-laboral/acuerdo-subir-11-sueldos-funcionarios-2028_1_5574821.html",
+        "date": "2025-11-26 21:41:16",
+        "sentiment_score": 0.05757543444633484
+    },
+    {
+        "title": "Barcelona se atasca en la Champions, pero Flick es optimista sobre recuperación del equipo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "entertainment",
+            "top"
+        ],
+        "link": "https://www.houstonchronicle.com/sports/article/barcelona-se-atasca-en-la-champions-pero-flick-21210246.php",
+        "date": "2025-11-26 21:39:18",
+        "sentiment_score": 0.1476231813430786
+    },
+    {
+        "title": "Barcelona se atasca en la Champions, pero Flick es optimista sobre recuperación del equipo",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/11/LIGA_DE_CAMPEONES_30119.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2025/11/26/barcelona-se-atasca-en-la-champions-pero-flick-es-optimista-sobre-recuperacin-del-equipo/",
+        "date": "2025-11-26 21:39:18",
+        "sentiment_score": -0.21383655071258545
     }
 ];
