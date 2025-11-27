@@ -2890,5 +2890,141 @@ export default [
         "link": "https://www.bostonherald.com/2025/11/26/barcelona-se-atasca-en-la-champions-pero-flick-es-optimista-sobre-recuperacin-del-equipo/",
         "date": "2025-11-26 21:39:18",
         "sentiment_score": -0.21383655071258545
+    },
+    {
+        "title": "Atlético 2-1 Inter: Giménez, el uruguayo, irrumpió en el duelo argentino entre Julián y Lautaro",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/27/2025112703141051163.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/atletico-2-1-inter-gimenez-colo-duelo-fratricida-entre-julian-lautaro/20251127031550364660.html",
+        "date": "2025-11-27 02:15:50",
+        "sentiment_score": 0.7378292679786682
+    },
+    {
+        "title": "La rivalidad",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rivalidad"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/rivalidad_0_2005324138.html",
+        "date": "2025-11-27 02:08:06",
+        "sentiment_score": 0.36371611058712006
+    },
+    {
+        "title": "El Liverpool se derrumba en Anfield y Slot queda al borde del abismo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/06/2025100601442170689.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/liverpool-derrumba-anfield-slot-queda-borde-abismo/20251127025152364655.html",
+        "date": "2025-11-27 01:51:52",
+        "sentiment_score": 0.1986169070005417
+    },
+    {
+        "title": "Simeone muestra su pasión y Atleti frena racha ganadora del Inter en la Champions",
+        "image_url": "https://dims.apnews.com/dims4/default/aba27fa/2147483647/strip/true/crop/1679x1118+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcd%2F24%2Fef6aafcd41206f5dd1861fa6123d%2F5295d58776fc46b382cfbba794c492ed",
+        "tags": [
+            "atletico madrid simeone champions league inter",
+            "sports",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/atletico-madrid-simeone-champions-league-inter-0c037499207662193a7073612f56c09e",
+        "date": "2025-11-27 01:35:07",
+        "sentiment_score": -0.6930583640933037
+    },
+    {
+        "title": "Simeone muestra su pasión y Atleti frena racha ganadora del Inter en la Champions",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/11/CAMPEONES_ATL201TICO-SIMEONE_88408.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2025/11/26/simeone-muestra-su-pasin-y-atleti-frena-racha-ganadora-del-inter-en-la-champions/",
+        "date": "2025-11-27 01:35:06",
+        "sentiment_score": -0.15665000677108765
+    },
+    {
+        "title": "Fecha 5 de la Champions League: póker de Mbappé, el Atlético de Madrid vence en el 93’ y Arsenal gana una «final» anticipada",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/11/26/champions-league-mbappe-real-madrid-olympiacos-orix/",
+        "date": "2025-11-27 01:03:48",
+        "sentiment_score": 0.3704419434070587
+    },
+    {
+        "title": "26 NOV 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/26-nov-2025-partidazo-cope-20251127_3260314.html",
+        "date": "2025-11-27 00:44:02",
+        "sentiment_score": 0.47841687500476837
+    },
+    {
+        "title": "Pánico en el Gobierno ante este 'jueves negro' en los juzgados",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/e9cfb4212f39ea415b80e61f147a934c/crop/51x0/2017x1311/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/26/17641918528077.jpg",
+        "tags": [
+            "pedro sánchez>",
+            "koldo garcía>",
+            "política>",
+            "santos cerdán>"
+        ],
+        "link": "https://www.expansion.com/economia/politica/2025/11/27/69276e95468aebbb068b4571.html",
+        "date": "2025-11-27 00:41:15",
+        "sentiment_score": -0.8479231838136911
+    },
+    {
+        "title": "Jueves 27 de noviembre (02:00 GMT)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/27/jueves-27-de-noviembre-0200-gmt/",
+        "date": "2025-11-27 02:15:52",
+        "sentiment_score": 0.008975081145763397
+    },
+    {
+        "title": "Es la demografía, estúpido",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "estupido",
+            "demografia"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/demografia-estupido_0_2005324149.html",
+        "date": "2025-11-27 02:08:13",
+        "sentiment_score": -0.09117960929870605
+    },
+    {
+        "title": "Investigadores presentan un modelo de IA que mejora el diagnóstico de enfermedades raras",
+        "image_url": "https://www.infobae.com/resizer/v2/UFENV6SDCZFAXGYZRLQOHZ7FSM.webp?auth=916f7d779b4de4ce5b5e2381447f9a641fb5874943ec1fe283aeece517de9e09&height=1024&smart=true&width=1792",
+        "tags": [
+            "mutaciones genéticas",
+            "medicina",
+            "lo último en tecnología",
+            "biotecnología e innovación",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.infobae.com/tecno/2025/11/27/investigadores-presentan-un-modelo-de-ia-que-mejora-el-diagnostico-de-enfermedades-raras/",
+        "date": "2025-11-27 01:44:30",
+        "sentiment_score": 0.39754076302051544
+    },
+    {
+        "title": "Después de su salida de Pumas, Dani Alves es captado en su nueva faceta como predicador",
+        "image_url": "https://www.infobae.com/resizer/v2/42TDKGYA5VH5JP3RVATXC362G4.jpg?auth=eee9933f46b99c10a471778e028760954d74bd46a334c96dc35cfdd764d62b8d&height=1080&smart=true&width=1920",
+        "tags": [
+            "futbol",
+            "aaron ramsey",
+            "liga mx",
+            "pumas",
+            "mexico-deportes",
+            "dani alves",
+            "club universidad"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/11/27/despues-de-su-salida-de-pumas-dani-alves-es-captado-en-su-nueva-faceta-como-predicador/",
+        "date": "2025-11-27 01:30:00",
+        "sentiment_score": -0.8677824065089226
     }
 ];
