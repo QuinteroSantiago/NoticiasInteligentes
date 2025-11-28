@@ -2914,5 +2914,237 @@ export default [
         "link": "https://www.eldiario.es/catalunya/catalan-detras-ia-google-gemini-no-hacerme-entrevista-momento_128_12803010.html",
         "date": "2025-11-27 21:09:52",
         "sentiment_score": -0.06750327348709106
+    },
+    {
+        "title": "La IA se introduce 'peligrosamente' en la OTAN y en Defensa: Estos son los planes para España",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://elcierredigital.com/investigacion/ia-incursiona-peligrosamente-otan-defensa-estos-son-planes-espana",
+        "date": "2025-11-28 02:00:00",
+        "sentiment_score": -0.39949362725019455
+    },
+    {
+        "title": "La exmujer y la hijastra de Juan contrataron a un sicario para que lo asesinara y así cobrar un seguro de 300.000€: \"¡Mátalo!\"",
+        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744033073_260191012_1706x960.jpg",
+        "tags": [
+            "españa",
+            "albacete (municipio)",
+            "almansa",
+            "investigación policial",
+            "apuñalamientos",
+            "guardia civil",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251128/exmujer-hijastra-juan-contrataron-sicario-asesinara-cobrar-seguro-matalo/1003744032794_0.html",
+        "date": "2025-11-28 01:58:21",
+        "sentiment_score": -0.864947373047471
+    },
+    {
+        "title": "A ver si explicado así lo entienden de una vez los votantes del PSOE...",
+        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744022937_260056707_1706x960.jpg",
+        "tags": [
+            "columnas de opinión",
+            "opinión",
+            "corrupción",
+            "psoe (partido socialista obrero español)",
+            "alberto núñez feijóo",
+            "columnas"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20251128/ver-explicado-entienden-vez-votantes-psoe/1003744029864_12.html",
+        "date": "2025-11-28 01:32:24",
+        "sentiment_score": -0.8534018518403172
+    },
+    {
+        "title": "Instrucciones desde Soto del Real y MDMA en cajas de bombones: la caída de la banda que enviaba droga en paquetes",
+        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744032656_260185765_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "sociedad",
+            "madrid",
+            "drogas"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251128/instrucciones-soto-real-mdma-cajas-bombones-caida-banda-enviaba-droga-paquetes/1003744032459_0.html",
+        "date": "2025-11-28 01:00:00",
+        "sentiment_score": -0.47017762437462807
+    },
+    {
+        "title": "El arte de gobernar",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/376de1e9aab98d8f87b922a014a8f06d/crop/37x63/1561x1079/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/27/17642781810480.jpg",
+        "tags": [
+            "opinión>",
+            "política>"
+        ],
+        "link": "https://www.expansion.com/economia/politica/2025/11/28/6928bfcc468aeba5088b4578.html",
+        "date": "2025-11-28 00:47:51",
+        "sentiment_score": -0.9488803185522556
+    },
+    {
+        "title": "El embajador de Guaidó ya avisó de que Air Europa, Zapatero y Maduro estaban detrás de la trama corrupta del Gobierno de Sánchez",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/11/DAMBin41-RKaNL4EF92Ih9P03PSWwpJP-1200x840diario_abc-1.jpg",
+        "tags": [
+            "pedro sánchez",
+            "corrupción",
+            "nicolás maduro",
+            "josé luis rodríguez zapatero",
+            "españa",
+            "air europa"
+        ],
+        "link": "https://gaceta.es/espana/el-embajador-de-guaido-ya-aviso-de-que-air-europa-zapatero-y-maduro-estaban-detras-de-la-trama-corrupta-del-gobierno-de-sanchez-20251128-0146/",
+        "date": "2025-11-28 00:46:00",
+        "sentiment_score": -0.23291776329278946
+    },
+    {
+        "title": "Quién es quién en la discreta y noble familia de María Palacios: de su célebre padre Julio a su madre Pina y sus tres hermanos",
+        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744032054_260178106_1706x960.jpg",
+        "tags": [
+            "famosos",
+            "alessandro lequio",
+            "hijos",
+            "familia",
+            "malos tratos",
+            "denuncias",
+            "maría palacios"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251128/discreta-noble-familia-maria-palacios-celebre-padre-julio-madre-pina-hermanos/1003744032039_0.html",
+        "date": "2025-11-28 00:33:00",
+        "sentiment_score": -0.891808183863759
+    },
+    {
+        "title": "Cata Coll, sobre la final: \"¿Favoritas?... no; y Alemania, tampoco\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/28/6928ec191d6ee.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/cata-coll-cope-sobre-final-alemania-favoritas-alemania-tampoco-20251128_3261221.html",
+        "date": "2025-11-28 00:32:33",
+        "sentiment_score": 0.0045709311962127686
+    },
+    {
+        "title": "Cumbre de Feijóo con sus alcaldes: el PP destaca los avances en natalidad y su compromiso con las familias",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/27/69287c2cca856.r_d.920-466-6250.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20251128/cumbre-feijoo-alcaldes-pp-destaca-avances-natalidad-compromiso-familias_359773.html",
+        "date": "2025-11-28 00:30:00",
+        "sentiment_score": 0.7323447018861771
+    },
+    {
+        "title": "España en la mochila de Jose",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6624045da.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20251128/espana-mochila-jose_359807.html",
+        "date": "2025-11-28 00:30:00",
+        "sentiment_score": -0.3111577481031418
+    },
+    {
+        "title": "Workday se acerca a las pymes españolas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/22/692218c700ae3.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251128/11292503/workday-pymes-espana-silicon-valley.html",
+        "date": "2025-11-28 02:00:00",
+        "sentiment_score": 0.5150432847440243
+    },
+    {
+        "title": "El monstruo de La Rioja viajó desde Granada para someter a prácticas sádicas a una menor: \"Le hizo ver que era normal\"",
+        "image_url": "https://s3.elespanol.com/2025/11/27/reportajes/1003744033238_260193066_1706x960.jpg",
+        "tags": [
+            "delitos sexuales",
+            "menores",
+            "la rioja",
+            "agresiones sexuales",
+            "abusos sexuales",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251128/monstruo-rioja-viajo-granada-someter-practicas-sadicas-menor-hizo-ver-normal/1003744032293_0.html",
+        "date": "2025-11-28 01:58:17",
+        "sentiment_score": -0.7282323781400919
+    },
+    {
+        "title": "El arriesgado plan de Neymar para intentar salvar al Santos del descenso",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Neymar.jpg",
+        "tags": [
+            "titulares",
+            "santos fc",
+            "neymar jr",
+            "deportes",
+            "brasileirao"
+        ],
+        "link": "https://lapatilla.com/2025/11/27/el-arriesgado-plan-de-neymar-para-intentar-salvar-al-santos-del-descenso/",
+        "date": "2025-11-28 01:57:16",
+        "sentiment_score": -0.04476124048233032
+    },
+    {
+        "title": "Black Friday Gastronómico: Hoteles con estrella Michelin rebajan precios",
+        "image_url": "https://static.grupojoly.com/clip/1e20ded8-c66a-46d4-bd5d-0b39dfc6b655_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hoteles",
+            "friday",
+            "estrella",
+            "black",
+            "gastronomico"
+        ],
+        "link": "https://www.malagahoy.es/bc-malaga/black-friday-gastronomico-hoteles-estrella_0_2005324650.html",
+        "date": "2025-11-28 01:00:56",
+        "sentiment_score": 0.8295225016772747
+    },
+    {
+        "title": "Antonio Flores y el recuerdo de una vida trágica que dejó un valioso legado musical",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/gente/2025/11/17/antonio-flores-documental-RDywzAPO9qeOa9jodF0DVCI-1200x840@diario_abc.jpg",
+        "tags": [
+            "dejo",
+            "vida",
+            "musical",
+            "antonio",
+            "legado",
+            "tragica",
+            "valioso",
+            "recuerdo",
+            "flores"
+        ],
+        "link": "https://www.abc.es/gente/antonio-flores-recuerdo-vida-tragica-dejo-valioso-20251117141422-nt.html",
+        "date": "2025-11-28 00:55:16",
+        "sentiment_score": 0.08784008026123047
+    },
+    {
+        "title": "'Del fandom al troleo': Berta Prieto lleva a La Abadía su sátira del victimismo y la soberbia de la élite cultural",
+        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027683_260120176_1706x960.jpg",
+        "tags": [
+            "estrenos de teatro",
+            "teatro"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/teatro/20251128/fandom-troleo-berta-prieto-lleva-abadia-satira-victimismo-soberbia-elite-cultural/1003744027634_0.html",
+        "date": "2025-11-28 00:55:00",
+        "sentiment_score": 0.009054556488990784
+    },
+    {
+        "title": "Mutua y El Corte Inglés alcanzan 545 millones en su firma de valores",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/f23b4836166e96f0c0a26e1c8384af2e/crop/25x17/1295x864/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/27/17642799891272.jpg",
+        "tags": [
+            "empresas>",
+            "mutua madrileña>",
+            "seguros>",
+            "el corte inglés>"
+        ],
+        "link": "https://www.expansion.com/empresas/seguros/2025/11/28/6928a5ece5fdea3d798b4573.html",
+        "date": "2025-11-28 00:47:50",
+        "sentiment_score": 0.36555927619338036
+    },
+    {
+        "title": "3a PARTE | 27 NOV 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-27-nov-2025-partidazo-cope-20251128_3261223.html",
+        "date": "2025-11-28 00:41:24",
+        "sentiment_score": -0.6933168051764369
     }
 ];
