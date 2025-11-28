@@ -1,155 +1,5 @@
 export default [
     {
-        "title": "Xabi Alonso huele a chamusquina tras el tercer tropiezo seguido del Real Madrid",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/24/69248d546b881.r_d.1953-1381-0.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/20251124/11297246/futbol-real-madrid-xabi-alonso-cuestionado-huele-chamusquina-florentino-perez-tres-tropiezos.html",
-        "date": "2025-11-24 17:09:36",
-        "sentiment_score": -0.8765263045206666
-    },
-    {
-        "title": "Mearse en la democracia",
-        "image_url": "https://www.nuevatribuna.es/media/nuevatribuna/images/2025/11/24/2025112418035084411.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.nuevatribuna.es/articulo/actualidad/separacion-poderes-miguel-tellado-mearse-democracia/20251124180913244579.html",
-        "date": "2025-11-24 17:09:13",
-        "sentiment_score": -0.885530655272305
-    },
-    {
-        "title": "17:00H | 24 NOV 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-24-nov-2025-tarde-20251124_3258446.html",
-        "date": "2025-11-24 17:09:00",
-        "sentiment_score": -0.242823526263237
-    },
-    {
-        "title": "Mengs, el genio antipático que se inventó el Neoclasicismo pero al que olvidó la historia del arte",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/73cc9106-0e71-4cec-90f1-02321beeb338_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "historia",
-            "museo del prado",
-            "pintura",
-            "exposición",
-            "arte"
-        ],
-        "link": "https://www.diariodeibiza.es/cultura/2025/11/24/mengs-genio-antipatico-invento-neoclasicismo-124072775.html",
-        "date": "2025-11-24 17:06:12",
-        "sentiment_score": -0.20729422569274902
-    },
-    {
-        "title": "El 73% de los jóvenes catalanes de 18 a 24 años considera que \"hay demasiada inmigración\", según el CEO",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/24/69248c5820fc3.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/73-jovenes-catalanes-18-24-anos-considera-hay-demasiada-inmigracion-ceo-20251124_3258447.html",
-        "date": "2025-11-24 17:10:18",
-        "sentiment_score": -0.19041143357753754
-    },
-    {
-        "title": "GBSB Global participa en la Europe Conference 2025 de GMAC, evento sobre la innovación en los procesos de admisión en escuelas de negocio",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/11/A1-1412182481-1-1000x665.jpeg",
-        "tags": [
-            "hemeroteca"
-        ],
-        "link": "https://www.economiadigital.es/hemeroteca/gbsb-global-participa-en-la-europe-conference-2025-de-gmac-evento-sobre-la-innovacion-en-los-procesos-de-admision-en-escuelas-de-negocio.html",
-        "date": "2025-11-24 17:07:56",
-        "sentiment_score": 0.5655830446630716
-    },
-    {
-        "title": "El gobierno de Trump califica a Maduro como miembro de una organización terrorista",
-        "image_url": "https://static1.ara.cat/clip/73455c1c-75ea-4f1a-b90a-bcd5a4d102dc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "terrorista",
-            "califica",
-            "gobierno",
-            "trump",
-            "organizacion",
-            "maduro",
-            "miembro"
-        ],
-        "link": "https://es.ara.cat/internacional/estados-unidos/gobierno-trump-califica-maduro-miembro-organizacion-terrorista_1_5571952.html",
-        "date": "2025-11-24 17:06:54",
-        "sentiment_score": -0.636277612298727
-    },
-    {
-        "title": "CaixaBank inicia este martes su séptimo programa de recompra de acciones",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251124180610_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-caixabank-inicia-martes-septimo-programa-recompra-acciones-20251124180610.html",
-        "date": "2025-11-24 17:06:10",
-        "sentiment_score": 0.34511014726012945
-    },
-    {
-        "title": "ERC carga contra quienes se rebelaron en Barcelona: \"Intentaban hacer política contra la dirección nacional\"",
-        "image_url": "https://static1.ara.cat/clip/06539a23-cf4a-4b33-a247-c5b5f8960ba2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rebelaron",
-            "direccion",
-            "barcelona",
-            "erc",
-            "politica",
-            "nacional",
-            "intentaban",
-            "carga"
-        ],
-        "link": "https://es.ara.cat/politica/erc-carga-rebelaron-barcelona-intentaban-politica-direccion-nacional_1_5571947.html",
-        "date": "2025-11-24 17:05:01",
-        "sentiment_score": -0.1764538735151291
-    },
-    {
-        "title": "Urdangarin dará su primera entrevista tras dejar la cárcel en el programa 'Pla Seqüència' de La 2Cat",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/02/21/inaki-urdangarin.r_d.312-241.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.20minutos.es/television/inaki-urdangarin-dara-su-primera-entrevista-tras-dejar-carcel-programa-pla-sequeencia-2-con-jordi-baste_6902069_0.html",
-        "date": "2025-11-24 17:04:34",
-        "sentiment_score": -0.7852214276790619
-    },
-    {
-        "title": "El Ayuntamiento de Ciudad Real adquiere 45 ha en las inmediaciones de Alarcos",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/11/24/2025112417581472459.jpg",
-        "tags": [
-            "ciudad real"
-        ],
-        "link": "https://www.clm24.es/articulo/ciudad-real/ayuntamiento-ciudad-real-adquiere-45-ha-inmediaciones-alarcos/20251124180347464729.html",
-        "date": "2025-11-24 17:03:47",
-        "sentiment_score": 0.4314575865864754
-    },
-    {
-        "title": "El Villarreal necesita asaltar el 'Muro Amarillo'",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251124180318_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-villarreal-necesita-asaltar-muro-amarillo-20251124180318.html",
-        "date": "2025-11-24 17:03:18",
-        "sentiment_score": 0.19864323735237122
-    },
-    {
-        "title": "Los Mossos siguen los pasos de la Ertzaintza y detallarán el origen de los detenidos",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/df/media_thumb-link-4120351.webp?1763996826=",
-        "tags": [
-            "mossos",
-            "actualidad",
-            "ertzaintza"
-        ],
-        "link": "https://www.meneame.net/story/mossos-siguen-pasos-ertzaintza-detallaran-origen-detenidos",
-        "date": "2025-11-24 17:30:04",
-        "sentiment_score": 0.0001523047685623169
-    },
-    {
         "title": "Castilla-La Mancha lanzará el programa Aurea para detectar talento deportivo",
         "image_url": "https://www.clm24.es/media/clm24/images/2025/11/24/2025112423175110787.jpg",
         "tags": [
@@ -340,18 +190,6 @@ export default [
         "link": "https://www.elperiodicoextremadura.com/ocio/tv/2025/11/24/inaki-urdangarin-vuelve-television-concede-entrevista-124081644.html",
         "date": "2025-11-24 21:43:53",
         "sentiment_score": -0.19278235733509064
-    },
-    {
-        "title": "Los Mossos siguen los pasos de la Ertzaintza y detallarán el origen de los detenidos",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/df/media_thumb-link-4120351.webp?1763996826=",
-        "tags": [
-            "mossos",
-            "actualidad",
-            "ertzaintza"
-        ],
-        "link": "https://www.meneame.net/story/mossos-siguen-pasos-ertzaintza-detallaran-origen-detenidos",
-        "date": "2025-11-24 17:30:04",
-        "sentiment_score": 0.00015241652727127075
     },
     {
         "title": "Linda Caicedo renovó con el Real Madrid hasta 2031, antes de unirse a la selección Colombia femenina",
@@ -3146,5 +2984,50 @@ export default [
         "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-27-nov-2025-partidazo-cope-20251128_3261223.html",
         "date": "2025-11-28 00:41:24",
         "sentiment_score": -0.6933168051764369
+    },
+    {
+        "title": "La relevancia de la tiara de Cartier que ha lucido la reina Letizia y sus 8 históricas joyas de pasar",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2564501.jpg",
+        "tags": [
+            "dolcevita"
+        ],
+        "link": "https://www.vozpopuli.com/dolcevita/la-relevancia-de-la-tiara-de-cartier-que-ha-lucido-la-reina-letizia-y-sus-8-historicas-joyas-de-pasar.html",
+        "date": "2025-11-28 06:35:01",
+        "sentiment_score": 0.3252909183502197
+    },
+    {
+        "title": "El vestuario del Real Madrid pasa por el diván de Xabi tras la conversación con Florentino",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13c57e0c-70d1-482c-9274-a6c4d42391cd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "xabi alonso",
+            "real madrid",
+            "florentino pérez",
+            "fútbol"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2025/11/28/vestuario-real-madrid-divan-xabi-alonso-124218886.html",
+        "date": "2025-11-28 06:27:38",
+        "sentiment_score": -0.09912139177322388
+    },
+    {
+        "title": "Charlas internas, gestos simbólicos y comunicados: el Real Madrid trata de apagar el fuego de su guerra interna",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/27/6928b814e27456-88886291.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/charlas-internas-gestos-simbolicos-comunicados-real-madrid-trata-apagar-fuego-su-guerra-interna_6903779_0.html",
+        "date": "2025-11-28 06:26:56",
+        "sentiment_score": 0.6365384459495544
+    },
+    {
+        "title": "¿Qué es el Pacto por el Mediterráneo? 5 claves del intento de la UE de estrechar lazos con los vecinos del sur",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8cf1d4ee-0556-4246-b3e7-362dcff4c846_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ue",
+            "mediterráneo",
+            "unión europea"
+        ],
+        "link": "https://www.laopiniondemurcia.es/internacional/2025/11/28/pacto-mediterraneo-ue-claves-que-es-124218803.html",
+        "date": "2025-11-28 06:24:55",
+        "sentiment_score": 0.2023455649614334
     }
 ];
