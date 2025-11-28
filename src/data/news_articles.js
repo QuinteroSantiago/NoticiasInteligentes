@@ -1,453 +1,5 @@
 export default [
     {
-        "title": "Real Madrid sufrió para rescatar un empate ante el Elche y se apretó la pelea por la cima en LaLiga",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Real-Madrid-vs-Elche.jpg",
-        "tags": [
-            "futbol",
-            "laliga",
-            "titulares",
-            "deportes",
-            "españa",
-            "lucy welcher",
-            "real madrid cf"
-        ],
-        "link": "https://lapatilla.com/2025/11/23/real-madrid-sufrio-para-rescatar-un-empate-ante-el-elche-y-se-apreto-la-pelea-por-la-cima-en-laliga/",
-        "date": "2025-11-23 22:18:01",
-        "sentiment_score": -0.9478905899450183
-    },
-    {
-        "title": "Comprueba los resultados del Quinigol del 23 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-loterias",
-            "quinigol",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/23/comprueba-los-resultados-del-quinigol-del-23-de-noviembre/",
-        "date": "2025-11-23 22:17:02",
-        "sentiment_score": 0.17342039942741394
-    },
-    {
-        "title": "El Elche arranca un empate ante un Madrid a remolque",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/0fa5ac2a-fa77-48da-87eb138cddc0f7fc.jpg",
-        "tags": [
-            "real madrid",
-            "vinícius júnior",
-            "kylian mbappé",
-            "eduardo camavinga",
-            "xabi alonso",
-            "rafa mir",
-            "jude bellingham",
-            "álvaro rodríguez",
-            "elche cf",
-            "rodrygo goes",
-            "thibaut courtois"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z71d5cabe-8759-4995-83aee4593b2f86af/202511/el-elche-arranca-un-empate-ante-un-madrid-a-remolque",
-        "date": "2025-11-23 22:16:27",
-        "sentiment_score": -0.5605289340019226
-    },
-    {
-        "title": "La selección española femenina se concentra este lunes para la final de la Liga de Naciones",
-        "image_url": "https://www.infobae.com/resizer/v2/EY6IAYVPGNFJ5JCA2NMEUGP5PA.jpg?auth=6d48138c9b14744077d6f62f02d529773091083b3592d8908835382f6c16902a&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/23/la-seleccion-espanola-femenina-se-concentra-este-lunes-para-la-final-de-la-liga-de-naciones/",
-        "date": "2025-11-23 22:15:16",
-        "sentiment_score": 0.16855495050549507
-    },
-    {
-        "title": "El Madrid agudiza sus problemas en Elche",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/11/23/Clipboard-0146-kvFB-U240328751638axB-1200x840@RC.jpg",
-        "tags": [
-            "real madrid",
-            "vinícius",
-            "xabi alonso",
-            "kylian mbappé"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/madrid-agudiza-problemas-elche-20251123231014-ntrc.html",
-        "date": "2025-11-23 22:11:36",
-        "sentiment_score": 0.4884217828512192
-    },
-    {
-        "title": "Cómo la reforma del Real Madrid refuerza el poder de Florentino Pérez",
-        "image_url": "https://www.elboletin.com/wp-content/uploads/2021/04/EuropaPress_3287541_25_august_2020_switzerland_nyon_real_madrid_president_florentino_perez.jpg",
-        "tags": [
-            "reforma estatutaria",
-            "florentino perez",
-            "asamblea",
-            "socios",
-            "modelo institucional",
-            "real madrid",
-            "capital privado",
-            "gobernanza",
-            "contraportada"
-        ],
-        "link": "https://www.elboletin.com/como-la-reforma-del-real-madrid-refuerza-el-poder-de-florentino-perez/",
-        "date": "2025-11-23 22:10:54",
-        "sentiment_score": 0.204064279794693
-    },
-    {
-        "title": "El Barça suma la primera con Pascual en Gran Canaria",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/9d8e0c49-ca4b-4f09-abd3c1d2a8fb2a1e.jpg",
-        "tags": [
-            "fc barcelona",
-            "andorra",
-            "ricky rubio",
-            "euroliga",
-            "xavi pascual",
-            "copa del rey",
-            "morabanc andorra",
-            "casademont zaragoza",
-            "anadolu efes",
-            "baskonia",
-            "liga endesa",
-            "bàsquet girona",
-            "real madrid",
-            "liga acb",
-            "gran canaria",
-            "valencia basket",
-            "joventut"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z6c41ad68-2ead-4686-8f65006992316e37/202511/el-barca-suma-la-primera-con-pascual-en-gran-canaria",
-        "date": "2025-11-23 22:08:08",
-        "sentiment_score": 0.14364974200725555
-    },
-    {
-        "title": "El Elche retrata la vulgaridad del Real Madrid de Xabi",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f14fbaf8-bc70-4a4a-ae82-1110d27b7837_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "laliga",
-            "elche",
-            "real madrid"
-        ],
-        "link": "https://www.laprovincia.es/deportes/2025/11/23/elche-real-madrid-resumen-resultado-laliga-futbol-124043613.html",
-        "date": "2025-11-23 22:06:50",
-        "sentiment_score": -0.41852840781211853
-    },
-    {
-        "title": "LaLiga EA Sports 25 – 26 | El Espanyol, que duerme sexto, igualará a puntos al 5o, el Betis, si gana este lunes al Sevilla",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/laliga-ea-sports-25-26-jornada-13-domingo-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/laliga-jornada-13-previa-claves-resultados-clasificacion-partidos-espanyol-sevilla-domingo/",
-        "date": "2025-11-23 22:05:03",
-        "sentiment_score": 0.2544392794370651
-    },
-    {
-        "title": "Londres intercepta una corbeta y un petrolero rusos y denuncia un repunte de la actividad naval",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/23/69237ebea58c8.r_d.644-475-3486.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20251123/11294179/londres-intercepta-corbeta-petrolero-rusos-denuncia-repunte-actividad-naval.html",
-        "date": "2025-11-23 21:59:27",
-        "sentiment_score": -0.8682307563722134
-    },
-    {
-        "title": "Hallan sin vida el cuerpo de un montañero madrileño desaparecido en Villanúa (Huesca)",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/montana_guardia_civil.jpg",
-        "tags": [
-            "montañas",
-            "guardia civil",
-            "fallecidos",
-            "equipos de rescate",
-            "muertes",
-            "pirineos",
-            "evacuación",
-            "sucesos"
-        ],
-        "link": "https://theobjective.com/sociedad/suceso/2025-11-23/hallan-cuerpo-montanero-desaparecido-huesca/",
-        "date": "2025-11-23 21:55:38",
-        "sentiment_score": -0.2679345905780792
-    },
-    {
-        "title": "Vivir en autocaravana: una opción cada vez más asequible y extendida",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2021/08/20/245533A4-4CD3-4DFD-A0C1-B54D05F213C3/70.jpg?crop=1920%2C1080%2Cx0%2Cy202&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "economía",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/economia/vivir-autocaravana-opcion-cada-vez-mas-asequible-extendida_2025112369237ee7df41134465e6824c.html",
-        "date": "2025-11-23 21:38:47",
-        "sentiment_score": 0.30781808495521545
-    },
-    {
-        "title": "El gijonés Mario Junquera, tercero en la Copa España de ciclocross de Vic (atentos a lo que le pasó a Benjamín Noval)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c4614899-9135-4c56-baf8-9958cbd7f007_16-9-aspect-ratio_default_0_x911y350.jpg",
-        "tags": [
-            "unicaja",
-            "asturiano",
-            "vic",
-            "españa"
-        ],
-        "link": "https://www.lne.es/deportes/deporte-astur/2025/11/23/gijones-mario-junquera-tercero-copa-124043090.html",
-        "date": "2025-11-23 21:24:24",
-        "sentiment_score": 0.5478483214974403
-    },
-    {
-        "title": "Barcelona, capital de la cooperación europea y mediterránea, 30 años después",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/11/vivir-en-barcelona/1003742706368_15389774_1706x960.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "información municipal",
-            "política"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20251123/barcelona-capital-cooperacion-europea-mediterranea-anos-despues/1003742710048_0.html",
-        "date": "2025-11-23 21:19:26",
-        "sentiment_score": 0.40786775201559067
-    },
-    {
-        "title": "El nuevo Barça de Xavi Pascual revive en la Liga Endesa",
-        "image_url": "https://imagenes.eldebate.com/files/image_16_9_desktop/files/fp/uploads/2025/11/23/69237708997bd.r_d.1310-437-3229.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldebate.com/deportes/baloncesto/20251123/nuevo-barca-xavi-pascual-revive-liga-endesa_358147.html",
-        "date": "2025-11-23 21:11:50",
-        "sentiment_score": 0.1714765429496765
-    },
-    {
-        "title": "Santa Cecilia premia en Segovia a la mejor cantera de pianistas",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/11/23/premio-santa-cecilia-tanarro-46-kUy-U240327084093s8B-758x531@El%20Norte.jpg",
-        "tags": [
-            "cecilia",
-            "mejor",
-            "cantera",
-            "premia",
-            "santa",
-            "segovia",
-            "pianistas"
-        ],
-        "link": "https://www.elnortedecastilla.es/segovia/santa-cecilia-premia-segovia-mejor-cantera-pianistas-20251123221011-nt.html",
-        "date": "2025-11-23 21:10:11",
-        "sentiment_score": 0.26225745677948
-    },
-    {
-        "title": "Bochorno mundial del Real Madrid: quiso homenajear a los hermanos Jota pero se confundió de futbolista (VIDEO)",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "andré silva",
-            "diogo jota",
-            "titulares",
-            "deportes",
-            "real madrid cf",
-            "españa",
-            "futbol"
-        ],
-        "link": "https://lapatilla.com/2025/11/23/bochorno-mundial-del-real-madrid-quiso-homenajear-a-los-hermanos-jota-pero-se-confundio-de-futbolista-video/",
-        "date": "2025-11-24 02:00:43",
-        "sentiment_score": -0.29212039709091187
-    },
-    {
-        "title": "Elche 2-2 Real Madrid: ¿Xabi Alonso perdió la brújula y ya no sabe qué hacer?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/24/2025112402421961398.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/elche-2-2-real-madrid-xabi-perdio-brujula-sabe-que-hacer/20251124024336364275.html",
-        "date": "2025-11-24 01:43:36",
-        "sentiment_score": -0.8281597755849361
-    },
-    {
-        "title": "Montero avala subir el sueldo a los funcionarios por encima del IPC \"con creces\" tras ocultarlo a las CCAA en el Consejo Fiscal",
-        "image_url": "https://phantom-elmundo.uecdn.es/80283fe1561e3ee4af600d95e3ffac69/crop/752x0/2795x2048/f/image/jpeg/assets/multimedia/imagenes/2023/11/25/17009128717476.jpg",
-        "tags": [
-            "artículos carlos segovia",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/economia/macroeconomia/2025/11/24/6923500821efa0e8188b459b.html",
-        "date": "2025-11-24 01:40:47",
-        "sentiment_score": -0.8242887649685144
-    },
-    {
-        "title": "Dos años del renacer de la hipoteca inversa en España: \"Con 89 años y los ahorros acabándose, era el momento\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/63aa2b13d58eb487f19599424c7a8eb8/crop/307x307/2765x2765/f/image/jpeg/assets/multimedia/imagenes/2023/10/11/16970261849784.jpg",
-        "tags": [
-            "hipotecas",
-            "artículos laura de la quintana",
-            "vivienda",
-            "banca"
-        ],
-        "link": "https://www.elmundo.es/economia/vivienda/2025/11/24/69205ee9fdddff52338b45d0.html",
-        "date": "2025-11-24 01:40:45",
-        "sentiment_score": -0.9308247743174434
-    },
-    {
-        "title": "El colapso de Sánchez exige una ruptura",
-        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744010847_259898333_1706x960.jpg",
-        "tags": [
-            "columnas",
-            "pedro sánchez",
-            "opinión",
-            "columnas de opinión",
-            "educación",
-            "sanidad"
-        ],
-        "link": "https://www.elespanol.com/opinion/columnas/20251124/colapso-sanchez-exige-ruptura/1003744022997_12.html",
-        "date": "2025-11-24 01:21:57",
-        "sentiment_score": -0.21938221156597137
-    },
-    {
-        "title": "23 NOV 2025 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/23-nov-2025-tertulion-domingos-20251124_3257738.html",
-        "date": "2025-11-24 01:04:08",
-        "sentiment_score": 0.31544356048107147
-    },
-    {
-        "title": "Un nuevo desastre de Xabi Alonso con el Real Madrid tras el parón y el duro discurso de Florentino Pérez ante sus socios, en El Tertulión",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/24/6923a831e8d7f.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/nuevo-desastre-xabi-alonso-real-madrid-paron-duro-discurso-florentino-perez-socios-tertulion-20251124_3257731.html",
-        "date": "2025-11-24 01:03:57",
-        "sentiment_score": -0.08068826794624329
-    },
-    {
-        "title": "Es campeón mundial junto a Lionel Messi y jugó en Real Madrid, pero nadie da crédito al torneo que ganó en una oficina",
-        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744026417_260105305_1706x960.jpg",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "ángel di maría"
-        ],
-        "link": "https://www.elespanol.com/deportes/20251124/campeon-mundial-junto-lionel-messi-jugo-real-madrid-nadie-da-credito-torneo-gano-oficina/1003744026410_0.html",
-        "date": "2025-11-24 00:47:11",
-        "sentiment_score": 0.46617892384529114
-    },
-    {
-        "title": "Real Madrid se disculpa por mostrar al jugador equivocado en homenaje a Diogo Jota y André Silva",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "lifestyle",
-            "top",
-            "sports"
-        ],
-        "link": "https://www.houstonchronicle.com/sports/article/real-madrid-se-disculpa-por-mostrar-al-jugador-21204277.php",
-        "date": "2025-11-24 00:21:25",
-        "sentiment_score": -0.8701826771721244
-    },
-    {
-        "title": "Real Madrid se disculpa por mostrar al jugador equivocado en homenaje a Diogo Jota y André Silva",
-        "image_url": "https://dims.apnews.com/dims4/default/f3ed050/2147483647/strip/true/crop/7899x5258+0+6/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F7f%2F85613b985fe751d32b857a8239dc%2F8a43007a5c344e73a83a4f96433dad19",
-        "tags": [
-            "sports",
-            "deportes",
-            "real madrid jota silva disculpa"
-        ],
-        "link": "https://apnews.com/article/real-madrid-jota-silva-disculpa-a2af035801d9d7d7e4b06bff81ed4809",
-        "date": "2025-11-24 00:21:25",
-        "sentiment_score": -0.8681609192863107
-    },
-    {
-        "title": "Una web recoge las cartas a la familia de Miguel Ángel Blanco",
-        "image_url": "https://static.laregion.es/clip/2e680d9b-eb58-4a8b-979c-85ad8eaa1d94_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "miguel ángel blanco",
-            "eta"
-        ],
-        "link": "https://www.laregion.es/espana/web-recoge-cartas-familia-miguel_1_20251124-4067506.html",
-        "date": "2025-11-24 00:50:27",
-        "sentiment_score": -0.00045343488454818726
-    },
-    {
-        "title": "Un grito de cabeza y tres grandes asistencias: el recital de Messi en la goleada del Inter Miami ante Cincinnati",
-        "image_url": "https://www.infobae.com/resizer/v2/2IM7CVHGPBDPDN4KHG2IECYH4E.jpg?auth=440c2e67369eb2232a89430d877b57e877ea752d60aa32c98a6e7c5879fca831&height=4469&smart=true&width=6703",
-        "tags": [
-            "lionel messi",
-            "cincinnati",
-            "mls",
-            "deportes-argentina",
-            "inter miami"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/24/un-grito-de-cabeza-y-tres-grandes-asistencias-el-recital-de-messi-en-la-goleada-del-inter-miami-ante-cincinnati/",
-        "date": "2025-11-24 00:25:34",
-        "sentiment_score": 0.4424484521150589
-    },
-    {
-        "title": "Las bazas de Iñaki Peralta al frente de Santander Seguros",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/e159bf0d246205fbc4d9d18779763e8d/crop/372x126/1828x1097/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/23/17639297237820.jpg",
-        "tags": [
-            "empresas>",
-            "banco santander>",
-            "sanitas>",
-            "seguros>"
-        ],
-        "link": "https://www.expansion.com/empresas/seguros/2025/11/24/69236eac468aebb9138b4599.html",
-        "date": "2025-11-24 00:13:52",
-        "sentiment_score": 0.07341020554304123
-    },
-    {
-        "title": "VW, Stellantis e InoBat: el coche eléctrico moviliza 25.000 millones en España",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/c074d8fb282ac24f8843a5632eebf2df/f/webp/assets/multimedia/imagenes/2025/11/21/17637569961285.jpg",
-        "tags": [
-            "empresas>",
-            "motor>",
-            "sostenibilidad>",
-            "artículos carlos drake>"
-        ],
-        "link": "https://www.expansion.com/empresas/motor/2025/11/24/6920cb71468aeb7b638b45a4.html",
-        "date": "2025-11-24 00:13:47",
-        "sentiment_score": 0.4376010447740555
-    },
-    {
-        "title": "Rushdie: “Trump es como un niño gordo, muy gordo y muy viejo”",
-        "image_url": "https://static.laregion.es/clip/f67e83d5-c273-42e4-b215-ac610e3a34ba_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "donald trump",
-            "escritores",
-            "censura",
-            "eeuu"
-        ],
-        "link": "https://www.laregion.es/sociedad/rushdie-trump-nino-gordo_1_20251124-4067653.html",
-        "date": "2025-11-24 00:05:57",
-        "sentiment_score": -0.8628668636083603
-    },
-    {
-        "title": "Real Madrid empata 2-2 en Elche con un gol salvador de Bellingham",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/05/12084433/elnacional-site-image-1200x675-1-1.png",
-        "tags": [
-            "laliga española",
-            "fútbol",
-            "real madrid fc",
-            "elche",
-            "deportes"
-        ],
-        "link": "https://www.elnacional.com/2025/11/real-madrid-empata-2-2-en-elche-con-un-gol-salvador-de-bellingham/",
-        "date": "2025-11-23 23:37:45",
-        "sentiment_score": -0.16314014792442322
-    },
-    {
-        "title": "Racha de Real Madrid sin ganar crece con empate 2-2 ante Elche; Bellingham los salva con gol tardío",
-        "image_url": "https://dims.apnews.com/dims4/default/901115a/2147483647/strip/true/crop/3594x2392+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2Fb6%2F7e89f8efe19874dd6a7c39426eb1%2F3865ed7e6f8447238576ae783fc25afd",
-        "tags": [
-            "real madrid elche bellingham empate",
-            "sports",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/real-madrid-elche-bellingham-empate-a7db5e754b4b17d334d08c009d20dec4",
-        "date": "2025-11-23 23:25:55",
-        "sentiment_score": 0.5694870986044407
-    },
-    {
-        "title": "Racha de Real Madrid sin ganar crece con empate 2-2 ante Elche; Bellingham los salva con gol tardío",
-        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/11/ESPA209A-LIGA_74377.jpg?strip=all&w=1400px",
-        "tags": [
-            "en español"
-        ],
-        "link": "https://www.chicagotribune.com/2025/11/23/racha-de-real-madrid-sin-ganar-crece-con-empate-2-2-ante-elche-bellingham-los-salva-con-gol-tardo/",
-        "date": "2025-11-23 23:25:54",
-        "sentiment_score": 0.1632743775844574
-    },
-    {
         "title": "Infartos silenciosos: la mitad de los pacientes en riesgo no son detectados",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251124073949_690.jpg",
         "tags": [
@@ -563,24 +115,6 @@ export default [
         "link": "https://www.diariodesevilla.es/sevilla/sevilla-capital-espana_0_2005292003.html",
         "date": "2025-11-24 05:20:06",
         "sentiment_score": -0.11658737063407898
-    },
-    {
-        "title": "Las nuevas cuentas del Real Madrid: ingresos récord, pero también una deuda financiera sin precedentes",
-        "image_url": "https://images.theconversation.com/files/703426/original/file-20251119-76-b0tfbf.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&w=754",
-        "tags": [
-            "estrategia empresarial",
-            "real madrid",
-            "cuenta de resultados",
-            "estadios",
-            "fútbol",
-            "endeudamiento",
-            "contabilidad",
-            "indicadores de gestión",
-            "club fútbol"
-        ],
-        "link": "https://theconversation.com/las-nuevas-cuentas-del-real-madrid-ingresos-record-pero-tambien-una-deuda-financiera-sin-precedentes-270045",
-        "date": "2025-11-24 05:05:16",
-        "sentiment_score": 0.13449209928512573
     },
     {
         "title": "Lo que debes saber hoy, 24 de noviembre, de Barcelona",
@@ -3095,5 +2629,216 @@ export default [
         "link": "https://es.ara.cat/comer/rey-ramen-aterriza-barcelona-orgullo-regional-fama-global_1_5574835.html",
         "date": "2025-11-27 06:00:58",
         "sentiment_score": 0.2629641741514206
+    },
+    {
+        "title": "España tiene su propio Palacio de Versalles y nadie lo sabía: la joya oculta de nuestro país",
+        "image_url": "https://okdiario.com/img/2025/11/27/vista_del_palacio_de_la_granja-1.jpg",
+        "tags": [
+            "españa",
+            "sociedad",
+            "segovia"
+        ],
+        "link": "https://okdiario.com/sociedad/espana-tiene-propio-palacio-versalles-nadie-lo-sabia-joya-oculta-nuestro-pais-15840190",
+        "date": "2025-11-27 17:09:01",
+        "sentiment_score": 0.4034865200519562
+    },
+    {
+        "title": "AstraZeneca, Wayra y Kunsen lanzan una aceleradora para impulsar proyectos innovadores en salud",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/27/recomendados/1003742711407_15454355_1706x960.jpg",
+        "tags": [
+            "recomendados",
+            "medicina",
+            "startup",
+            "salud",
+            "madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/recomendados/20251127/astrazeneca-wayra-kunsen-aceleradora-impulsar-proyectos-innovadores/1003742711394_0.html",
+        "date": "2025-11-27 17:08:54",
+        "sentiment_score": 0.32494065165519714
+    },
+    {
+        "title": "La Copa del Rey sorteará el próximo martes 9 de diciembre los dieciseisavos con los equipos de la Supercopa",
+        "image_url": "https://www.infobae.com/resizer/v2/ADGVXPEFYNDETJ3EMK6T43Q4FM.jpg?auth=c51ea628ca0a86798ba0fdffd400ec9bc406fe904ab0f8ea347620ea9c72aad0&height=1080&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/27/la-copa-del-rey-sorteara-el-proximo-martes-9-de-diciembre-los-dieciseisavos-con-los-equipos-de-la-supercopa/",
+        "date": "2025-11-27 17:00:38",
+        "sentiment_score": 0.040980804711580276
+    },
+    {
+        "title": "El alumnado de la UCLM elige a sus delegados de campus para el curso 2025-2026",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/11/27/2025112717574629846.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.clm24.es/articulo/sociedad/alumnado-uclm-elige-nuevos-delegados-campus-curso-2025-2026/20251127175920464991.html",
+        "date": "2025-11-27 16:59:20",
+        "sentiment_score": -0.0918533056974411
+    },
+    {
+        "title": "Investigan a un profesor de clarinete del Conservatorio Superior de Música de Madrid por acoso a alumnas",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/27/6928823a03a500-80077090.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.20minutos.es/madrid/investigan-un-profesor-clarinete-conservatorio-superior-musica-madrid-por-acoso-alumnas_6903689_0.html",
+        "date": "2025-11-27 16:57:27",
+        "sentiment_score": -0.8241131268441677
+    },
+    {
+        "title": "Ábalos, tras Cerdán, ya es la segunda 'mano derecha' de Pedro Sánchez enviado a prisión",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/10/15/0714890E-FF4B-4F81-8AF8-C322C5EDFFEF/que-abalos-prision-provisional-santos-cerdan-dos-casos-diferentes_70.jpg?crop=2944%2C1656%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "españa",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/espana/abalos-cerdan-segunda-mano-derecha-pedro-sanchez-enviado-prision_202511276928820a55584d48fb5ff72c.html",
+        "date": "2025-11-27 16:53:30",
+        "sentiment_score": 0.22366422414779663
+    },
+    {
+        "title": "España es más 'madridista' que blaugrana y el Betis es el 'plan B' Los blancos ganan con",
+        "image_url": "https://www.infobae.com/resizer/v2/AXCE4XJV65BFXJREXRJZGGVQWY.jpg?auth=028e63597f53ff82c884a42a9d1169b476db58082efcc578401cb9af6ae29178&height=1279&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/27/espana-es-mas-madridista-que-blaugrana-y-el-betis-es-el-plan-b-los-blancos-ganan-con/",
+        "date": "2025-11-27 16:46:10",
+        "sentiment_score": -0.3623870089650154
+    },
+    {
+        "title": "Navafría (Segovia) estrena nueva señalización inteligente en puertos de montaña para reforzar la seguridad vial",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/11/27/2B12D035-7703-4353-93F1-406E9EB86536/navafria-segovia-estrena-nueva-senalizacion-inteligente-puertos-montana_69.jpg?crop=2856%2C1607%2Cx0%2Cy187&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "castilla y león"
+        ],
+        "link": "https://www.larazon.es/castilla-y-leon/navafria-segovia-estrena-nueva-senalizacion-inteligente-puertos-montana-reforzar-seguridad-vial_202511276928801955584d48fb5ff2a6.html",
+        "date": "2025-11-27 16:45:13",
+        "sentiment_score": 0.5014579566195607
+    },
+    {
+        "title": "Héctor Bellerín sorprende al nuevo alcalde de Nueva York con un emotivo mensaje que se vuelve viral",
+        "image_url": "https://okdiario.com/look/img/2025/11/27/u522511_169-1.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://okdiario.com/look/actualidad/hector-bellerin-sorprende-nuevo-alcalde-nueva-york-emotivo-mensaje-viral-2437036",
+        "date": "2025-11-27 16:45:06",
+        "sentiment_score": 0.5580122619867325
+    },
+    {
+        "title": "El Foro por la Memoria exige un nuevo convenio que garantice exhumaciones continuas en Córdoba y una Oficina de Víctimas eficaz",
+        "image_url": "https://static.grupojoly.com/clip/e040abf1-622d-4353-b2dd-f7dd09be7b08_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias",
+            "memoria histórica córdoba",
+            "últimas noticias córdoba"
+        ],
+        "link": "https://www.eldiadecordoba.es/cordoba/foro-memoria-convenio-exhumaciones-cordoba_0_2005328146.html",
+        "date": "2025-11-27 16:43:18",
+        "sentiment_score": -0.8453237488865852
+    },
+    {
+        "title": "Reumatólogos catalanes impulsan un proyecto de alpinismo para visibilizar enfermedades reumáticas",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251127181122_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-reumatologos-catalanes-impulsan-proyecto-alpinismo-visibilizar-enfermedades-reumaticas-20251127181122.html",
+        "date": "2025-11-27 17:11:22",
+        "sentiment_score": 0.2898314744234085
+    },
+    {
+        "title": "Joan Camprubí, tras los pasos de Vilajoana y Font: carga contra el \"maltrato\" de Laporta al socio del Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/17/culemania/palco/1003742698795_15454037_1706x960.jpg",
+        "tags": [
+            "elecciones barça",
+            "palco",
+            "joan camprubí"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251127/joan-camprubi-vilajoana-font-maltrato-laporta-barca/1003742711383_0.html",
+        "date": "2025-11-27 17:08:59",
+        "sentiment_score": -0.9048467539250851
+    },
+    {
+        "title": "La impactante confesión de Szczesny que le condiciona en el Barça: \"No puedo sostener una botella de agua por el dolor\"",
+        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744032996_260190253_1706x960.jpg",
+        "tags": [
+            "deportes",
+            "fc barcelona",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251127/impactante-confesion-szczesny-condiciona-barca-no-puedo-sostener-botella-agua-dolor/1003744032968_0.html",
+        "date": "2025-11-27 17:08:09",
+        "sentiment_score": -0.9294418850913644
+    },
+    {
+        "title": "Muere un motorista tras caer del vehículo en la calle Farigola del distrito de Gràcia de Barcelona",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2023/05/01/B61C3AEE-8246-4D2C-8382-95E084BAB396/ambulancia-sistema-demergencies-mediques_69.jpg?crop=1920%2C1080%2Cx0%2Cy101&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/muere-motorista-caer-vehiculo-calle-farigola-distrito-gracia-barcelona_202511276928848c6e5e5012dcd0c879.html",
+        "date": "2025-11-27 17:04:13",
+        "sentiment_score": -0.6411044038832188
+    },
+    {
+        "title": "David Martínez dimite como consejero del Banc Sabadell",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/01/68dcbb4f3c84f.r_d.604-151-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20251127/11309670/david-martinez-dimite-consejero-banc-sabadell.html",
+        "date": "2025-11-27 17:03:00",
+        "sentiment_score": 0.5350684821605682
+    },
+    {
+        "title": "Isaías Lafuente sorprende con su dedicatoria en los Ondas: \"La democracia los necesita\"",
+        "image_url": "https://www.elplural.com/uploads/s1/21/08/69/9/europapress-7128699-periodista-isaias-lafuente-photocall-previo-gala-premios-ondas-liceu-26-1_7_480x270.jpeg",
+        "tags": [
+            "extratele"
+        ],
+        "link": "https://www.elplural.com/extratele/isaias-lafuente-sorprende-dedicatoria-ondas-democracia-necesita_366188102",
+        "date": "2025-11-27 17:03:00",
+        "sentiment_score": 0.11426222324371338
+    },
+    {
+        "title": "Muere el empresario Fernando Escobillas, presidente de la Cámara de Miranda de Ebro",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2025/11/27/69288396e97b8.r_d.188-344-12418.jpeg",
+        "tags": [
+            "burgos"
+        ],
+        "link": "https://www.diariodecastillayleon.es/burgos/251127/103322/muere-el-empresario-fernando-escobillas-presidente-de-la-camara-de-miranda-de-ebro.html",
+        "date": "2025-11-27 17:02:24",
+        "sentiment_score": 0.628483522683382
+    },
+    {
+        "title": "\"Míchel es en el Girona lo que Cruyff fue en el Barça\"",
+        "image_url": "https://static1.ara.cat/clip/b329a9d9-8c36-4a03-80a8-57a103ef0fb8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barca",
+            "girona",
+            "cruyff",
+            "michel"
+        ],
+        "link": "https://es.ara.cat/deportes/girona-fc/michel-girona-cruyff-barca_130_5575521.html",
+        "date": "2025-11-27 17:00:52",
+        "sentiment_score": -0.017820388078689575
+    },
+    {
+        "title": "El catalán, bajo la bocina del 'Juego de cartas'",
+        "image_url": "https://static1.ara.cat/clip/34de0108-5557-4816-9225-634a3b5421ff_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "juego",
+            "bocina",
+            "cartas",
+            "catalan"
+        ],
+        "link": "https://es.ara.cat/media/catalan-bocina-juego-cartas_129_5575516.html",
+        "date": "2025-11-27 17:00:47",
+        "sentiment_score": -0.25942739844322205
     }
 ];
