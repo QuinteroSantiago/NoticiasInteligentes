@@ -1,199 +1,5 @@
 export default [
     {
-        "title": "La nueva fiscal general del estado será Teresa Peramato",
-        "image_url": "https://www.galiciapress.es/images/showid/7742656",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.galiciapress.es/articulo/portada/2025-11-25/5680874-nueva-fiscal-general-estado-sera-teresa-peramato",
-        "date": "2025-11-25 06:39:58",
-        "sentiment_score": 0.00818750262260437
-    },
-    {
-        "title": "Un Osasuna de dos caras",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/c61f82f0-a8d2-4874-b2f8-ab63bd75fcb2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "caras",
-            "osasuna"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/11/25/osasuna-caras-10393050.html",
-        "date": "2025-11-25 06:11:24",
-        "sentiment_score": 0.1355074942111969
-    },
-    {
-        "title": "Madrid enfrenta la \"infrafinanciación\" del Gobierno de Ayuso a pie de calle: cuenta atrás para la doble huelga universitaria",
-        "image_url": "https://www.elplural.com/uploads/s1/20/57/35/7/protestas-contra-isabel-diaz-ayuso-en-la-universidad-alcala-de-henares-uah-ep_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/madrid-enfrenta-infrafinanciacion-gobierno-ayuso-pie-calle-cuenta-atras-doble-huelga-universitaria_365869102",
-        "date": "2025-11-25 06:10:16",
-        "sentiment_score": -0.04441669583320618
-    },
-    {
-        "title": "Videojuegos con apuestas ocultas aumentan el riesgo de que los adolescentes jueguen con dinero real",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251125070246_120.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-videojuegos-apuestas-ocultas-aumentan-riesgo-adolescentes-jueguen-dinero-real-20251125070246.html",
-        "date": "2025-11-25 06:02:46",
-        "sentiment_score": 0.12879009544849396
-    },
-    {
-        "title": "El ancla de Santa Marina está mal colocada",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9057f13e-f268-4a5f-a4e0-2e924faba418_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "badajoz",
-            "arenas",
-            "valverde",
-            "madrid",
-            "tierra",
-            "iglesia"
-        ],
-        "link": "https://www.lacronicabadajoz.com/opinion/2025/11/25/ancla-santa-marina-mal-colocada-124085453.html",
-        "date": "2025-11-25 06:02:03",
-        "sentiment_score": -0.07993173599243164
-    },
-    {
-        "title": "Chelsea - Barcelona: Horario, posibles alineaciones y dónde ver el partido de la Champions League, en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/11/24/5A2DF52A-310A-489B-A167-D14AFA9DD64C/lamine-yamal-partido-brujas_98.jpg?crop=2109%2C1187%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "fútbol",
-            "antena 3 noticias",
-            "deportes"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/chelsea-barcelona-horario-posibles-alineaciones-donde-ver-partido-champions-league-directo_20251125692545f08080bd5ad6236372.html",
-        "date": "2025-11-25 06:00:16",
-        "sentiment_score": 0.03302266448736191
-    },
-    {
-        "title": "El Alavés, en positivo pese al bache",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8fd6f131-6d69-4c8f-bd99-0194a624a438_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "positivo",
-            "alaves",
-            "primera división",
-            "pese",
-            "bache"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2025/11/25/alaves-positivo-pese-bache-primera-division-10391983.html",
-        "date": "2025-11-25 06:00:06",
-        "sentiment_score": -0.8484288863837719
-    },
-    {
-        "title": "El plan ideal para disfrutar de obras de Picasso, Goya o Velázquez durante el puente de diciembre y no es en el Prado",
-        "image_url": "https://s3.elespanol.com/2025/11/21/actualidad/1003744025002_260085819_1706x960.jpg",
-        "tags": [
-            "diego velázquez",
-            "zamora (provincia)",
-            "vivir castilla y león",
-            "pablo ruiz picasso",
-            "zamora",
-            "francisco de goya",
-            "arte"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/zamora/20251125/plan-ideal-disfrutar-obras-picasso-goya-velazquez-puente-diciembre-no-prado/1003744022100_0.html",
-        "date": "2025-11-25 06:00:00",
-        "sentiment_score": 0.5027722492814064
-    },
-    {
-        "title": "Los nombres del vestuario del Real Madrid descontentos con Xabi Alonso: \"Espero que no esté escuchando la radio\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/11/25/6924edfc25e8e.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/nombres-vestuario-real-madrid-descontentos-xabi-alonso-espero-escuchando-radio-20251125_3258554.html",
-        "date": "2025-11-25 06:00:00",
-        "sentiment_score": -0.10105264186859131
-    },
-    {
-        "title": "El mercadillo navideño que se convierte en un 'pueblo' de casitas de madera en Suiza",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/17/691af60242e75.jpeg",
-        "tags": [
-            "destinos"
-        ],
-        "link": "https://www.20minutos.es/viajes/destinos/mercadillo-navideno-lucerna-se-convierte-pueblo-casitas-madera-ciudad-mas-bonita-suiza_6898708_0.html",
-        "date": "2025-11-25 06:00:00",
-        "sentiment_score": 0.6270647346973419
-    },
-    {
-        "title": "La Real Sociedad presume de extremos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7f463d31-4cc5-4aec-9361-34dd1990df9a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real",
-            "extremos",
-            "sociedad",
-            "presume"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/11/25/real-sociedad-presume-extremos-10392465.html",
-        "date": "2025-11-25 06:32:49",
-        "sentiment_score": -0.15380540490150452
-    },
-    {
-        "title": "El Gobierno propone a Teresa Peramato, cercana a Dolores Delgado y García Ortiz, nueva fiscal general",
-        "image_url": "https://s3.elespanol.com/2025/11/25/actualidad/1003744028005_260124687_1706x960.jpg",
-        "tags": [
-            "fiscalía general del estado",
-            "félix bolaños garcía",
-            "tribunal supremo",
-            "revelación de secretos",
-            "tribunales",
-            "álvaro garcía ortiz"
-        ],
-        "link": "https://www.elespanol.com/espana/tribunales/20251125/gobierno-propone-teresa-peramato-cercana-dolores-delgado-garcia-ortiz-nueva-fiscal-general/1003744027934_0.html",
-        "date": "2025-11-25 06:32:03",
-        "sentiment_score": -0.4900532513856888
-    },
-    {
-        "title": "El precio más bajo de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 25 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "gasolina",
-            "noticias",
-            "precio gasolina",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/25/el-precio-mas-bajo-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-25-de-noviembre/",
-        "date": "2025-11-25 06:30:43",
-        "sentiment_score": -0.000505790114402771
-    },
-    {
-        "title": "Euskadiko Orkestra visita Barcelona en un intercambio con la Simfònica catalana",
-        "image_url": "https://s1.ppllstatics.com/diariovasco/www/multimedia/2025/11/25/orkiestra-kTTB-U240343282213o5C-758x531@Diario%20Vasco.JPG",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/culturas/musica/euskadiko-orkestra-visita-barcelona-intercambio-simfonica-catalana-20251125071829-nt.html",
-        "date": "2025-11-25 06:18:29",
-        "sentiment_score": 0.16651315614581108
-    },
-    {
-        "title": "Bernard Torelló (Kai47): \"Cuando un producto se hace simplemente por el objetivo empresarial de sacar más beneficio, no espero nada bueno\"",
-        "image_url": "https://www.elplural.com/uploads/s1/21/05/97/5/bernard-torello-kai47_7_480x270.jpeg",
-        "tags": [
-            "el telescopio"
-        ],
-        "link": "https://www.elplural.com/el-telescopio/bernard-torello-kai47-cuando-producto-hace-simplemente-objetivo-empresarial-sacar-mas-beneficio-no-espero-nada-bueno_365842102",
-        "date": "2025-11-25 06:11:51",
-        "sentiment_score": -0.046660006046295166
-    },
-    {
-        "title": "Vox apuesta por la no confrontación con Aliança mientras no adopte un perfil excesivamente independentista",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/32b614e0-3b7d-41f5-a51f-ceb14c769eac_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "santiago abascal",
-            "aliança catalana",
-            "vox"
-        ],
-        "link": "https://www.laopiniondemurcia.es/nacional/2025/11/25/vox-apuesta-confrontacion-alianca-adopte-124085573.html",
-        "date": "2025-11-25 06:11:02",
-        "sentiment_score": -0.19159336388111115
-    },
-    {
         "title": "La IA puede ayudar a pacientes con diabetes tipo 1 a predecir la respuesta glucémica tras practicar ejercicio",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251125180324_690.jpg",
         "tags": [
@@ -2805,5 +2611,233 @@ export default [
         "link": "https://www.alertadigital.com/2025/11/28/con-solo-impedir-la-inmigracion-de-marruecos-los-delitos-en-espana-se-reducirian-mas-de-un-50-por-ciento/",
         "date": "2025-11-28 16:59:30",
         "sentiment_score": -0.9373303344473243
+    },
+    {
+        "title": "Joan Laporta ataca al Real Madrid: estas fueron las palabras del presidente blaugrana",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1764368435646/7a71a97e-440c-4ee8-b1d1-d8070faaaea3_alta-libre-aspect-ratio_default_0.jpg?ch=675&cw=1200",
+        "tags": [
+            "laliga",
+            "joan laporta",
+            "real madrid",
+            "españa",
+            "florentino pérez",
+            "barcelona",
+            "caso negreira",
+            "fc barcelona"
+        ],
+        "link": "https://2001online.com/deportes/joan-laporta-ataca-al-real-madrid-estas-fueron-las-palabras-del-presidente-blaugrana-202511281900",
+        "date": "2025-11-28 22:06:25",
+        "sentiment_score": -0.3258378803730011
+    },
+    {
+        "title": "22:00H | 28 NOV 2025 | La Linterna",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-28-nov-2025-linterna-20251128_3262122.html",
+        "date": "2025-11-28 22:06:00",
+        "sentiment_score": -0.25508663058280945
+    },
+    {
+        "title": "Las series de Netflix Colombia que roban la atención HOY",
+        "image_url": "https://www.infobae.com/resizer/v2/DKDQQ3L2WNBGZLX4AGIYGIIEUU.jpg?auth=1ea2adb9377b41ea05390d2e8a3f5052db84897c8aad11c6331aaff453b234c7&height=1080&smart=true&width=1920",
+        "tags": [
+            "netflix",
+            "colombia-entretenimiento",
+            "series",
+            "streaming",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/11/28/las-series-de-netflix-colombia-que-roban-la-atencion-hoy/",
+        "date": "2025-11-28 22:00:42",
+        "sentiment_score": 0.7270177267491817
+    },
+    {
+        "title": "Casa Maná: \"Pedir ayuda para acompañar a nuestros hijos con conducta suicida no es fallar, es cuidar\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/28/69298515cf6f3.jpeg",
+        "tags": [
+            "la linterna de la iglesia"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna-de-la-iglesia/noticias/casa-mana-pedir-ayuda-acompanar-hijos-conducta-suicida-fallar-cuidar-20251128_3261574.html",
+        "date": "2025-11-28 22:00:00",
+        "sentiment_score": -0.07229951024055481
+    },
+    {
+        "title": "El Real Oviedo busca la sorpresa ante el Atlético para remontar el vuelo",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/11/28/cazorla-oviedo-atletico-RGs1TbtQzDmKJoKzoD3lLKN-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "cazorla",
+            "atlético de madrid",
+            "real oviedo",
+            "luis carrión"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-busca-sorpresa-ante-atletico-remontar-20251128225932-nt.html",
+        "date": "2025-11-28 21:59:32",
+        "sentiment_score": 0.44252167269587517
+    },
+    {
+        "title": "Mayeli Díaz, Álvaro Rubio y Érika Portillo, unidos por las cirugías estéticas",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2565958.jpg",
+        "tags": [
+            "dolcevita"
+        ],
+        "link": "https://www.vozpopuli.com/dolcevita/mayeli-diaz-alvaro-rubio-y-erika-portillo-unidos-por-las-cirugias-esteticas.html",
+        "date": "2025-11-28 21:51:09",
+        "sentiment_score": 0.12881754338741302
+    },
+    {
+        "title": "Paula Sevilla, Francisco Javier Sánchez Lara, Elena Alfaro y Jesús Sánchez de la Nieta, mejores deportistas de la provincia en la XXIX Gala de la Diputación",
+        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
+        "tags": [
+            "noticias",
+            "ciudad real"
+        ],
+        "link": "https://www.lacerca.com/noticias/ciudad_real/sanchez-alfaro-jesus-nieta-deportistas-provincia-gala-diputacion-792631-1.html",
+        "date": "2025-11-28 21:38:00",
+        "sentiment_score": 0.056422099471092224
+    },
+    {
+        "title": "Ábalos y Koldo pasan sus primeras horas en la cárcel \"más tranquilos\" que Cerdán",
+        "image_url": "https://phantom-elmundo.uecdn.es/057f77cfc4892cc67158a1d1f6d8fd5d/crop/122x0/1362x1240/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468504313638.jpg",
+        "tags": [
+            "koldo garcía",
+            "santos cerdán",
+            "corrupción",
+            "psoe",
+            "josé luis ábalos",
+            "nlpremium",
+            "artículos gema peñalosa",
+            "víctor de  aldama"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/28/6929e95ffdddff12138b45b8.html",
+        "date": "2025-11-28 21:36:18",
+        "sentiment_score": -0.3842766471207142
+    },
+    {
+        "title": "1981-2025: la 'tribalización' del PNV",
+        "image_url": "https://phantom-elmundo.uecdn.es/5209c7aa48b4b49e6e4ee1cdb4ef2b52/f/image/jpeg/assets/multimedia/imagenes/2023/02/04/16755173994430.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos javier redondo",
+            "felipe vi"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/28/6929ebe0e9cf4a73098b45d8.html",
+        "date": "2025-11-28 21:36:07",
+        "sentiment_score": 0.6810233443975449
+    },
+    {
+        "title": "Lo que Ucrania esconde",
+        "image_url": "https://phantom-elmundo.uecdn.es/a54f37faae9509222a4fec866e80a094/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/28/17643389136691.jpg",
+        "tags": [
+            "ucrania",
+            "rusia",
+            "nlpremium",
+            "volodímir zelenski",
+            "donald trump"
+        ],
+        "link": "https://www.elmundo.es/internacional/2025/11/28/6929aa9dfc6c83987c8b45a0.html",
+        "date": "2025-11-28 21:34:07",
+        "sentiment_score": -0.8290563672780991
+    },
+    {
+        "title": "Barcelona arranca su programación en la FIL de Guadalajara (México) con las exposiciones",
+        "image_url": "https://www.infobae.com/resizer/v2/EOHB4H7XKVBEBJXF4F4L3CUFIA.jpg?auth=970fce6f44e7ee399eb04e17a98ca853b3e03dca3d7de537c51f32bfb786dd97&height=1276&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/28/barcelona-arranca-su-programacion-en-la-fil-de-guadalajara-mexico-con-las-exposiciones/",
+        "date": "2025-11-28 22:16:28",
+        "sentiment_score": 0.06250524520874023
+    },
+    {
+        "title": "Wayne Griffiths se pasa al negocio de la destilería y presenta su propia marca de ginebra",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d0fd8668-4ed7-4d34-98fe-ac792b94bb62_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cupra",
+            "seat",
+            "ginebra"
+        ],
+        "link": "https://www.elperiodico.com/es/motor/20251129/wayne-griffiths-pasa-negocio-destileria-ginebra-124253474",
+        "date": "2025-11-28 22:14:24",
+        "sentiment_score": -0.3096606582403183
+    },
+    {
+        "title": "El sueño olímpico ya no es una utopía para Iván Pérez",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bd5087ac-0bbd-4a4b-8a1a-5c35f9f6bcb0_16-9-discover-aspect-ratio_default_0_x1029y1066.jpg",
+        "tags": [
+            "juegos olímpicos",
+            "los ángeles",
+            "españa",
+            "barcelona"
+        ],
+        "link": "https://www.eldia.es/deportes-canarias/2025/11/28/sueno-olimpico-utopia-ivan-perez-124252949.html",
+        "date": "2025-11-28 22:11:33",
+        "sentiment_score": -0.1735847443342209
+    },
+    {
+        "title": "Alexia Putellas: \"Ahora sí que sí lo del martes es una final a un partido, necesitaremos a la afición\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/alexia-putellas-martes-final-partido-necesitaremos-aficion-20251128_3262118.html",
+        "date": "2025-11-28 22:11:31",
+        "sentiment_score": -0.07469165325164795
+    },
+    {
+        "title": "El Sporting salva un punto al final: empate (1-1) que agrava la crisis entre las protestas de El Molinón por la gestión",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a77fbb1c-ffde-4252-9c63-b29ab3f8f8f4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sporting de gijón",
+            "protestas",
+            "sporting",
+            "andorra",
+            "el molinón",
+            "crisis",
+            "fútbol"
+        ],
+        "link": "https://www.lne.es/sporting/2025/11/28/sporting-salva-punto-final-empate-124252579.html",
+        "date": "2025-11-28 21:54:07",
+        "sentiment_score": -0.13671338558197021
+    },
+    {
+        "title": "Irán de Toni Serra o la edición del legado inacabado de un pensador",
+        "image_url": "https://static1.ara.cat/clip/57c742c7-b234-4670-8184-63ce39928a9c_16-9-aspect-ratio_default_0_x425y171.png",
+        "tags": [
+            "iran",
+            "edicion",
+            "toni",
+            "inacabado",
+            "serra",
+            "legado",
+            "pensador"
+        ],
+        "link": "https://es.ara.cat/cultura/iran-toni-serra-edicion-legado-inacabado-pensador_1_5577265.html",
+        "date": "2025-11-28 21:44:49",
+        "sentiment_score": -0.13095924258232117
+    },
+    {
+        "title": "España sale viva de Alemania",
+        "image_url": "https://okdiario.com/img/2025/11/28/cronica-alemania-espana-interior-1.jpg",
+        "tags": [
+            "deportes",
+            "fútbol femenino",
+            "fútbol",
+            "selección española de fútbol femenino"
+        ],
+        "link": "https://okdiario.com/deportes/espana-sale-viva-alemania-15848783",
+        "date": "2025-11-28 21:30:47",
+        "sentiment_score": 0.596485547721386
+    },
+    {
+        "title": "Doraemon y Nobita celebran las uvas en Madrid: el episodio inédito",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/11/28/2025112822301799255.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/doraemon-nobita-celebran-uvas-madrid-episodio-inedito/20251128223039991833.html",
+        "date": "2025-11-28 21:30:39",
+        "sentiment_score": 0.06926886737346649
     }
 ];
