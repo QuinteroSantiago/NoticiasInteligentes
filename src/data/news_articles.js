@@ -1,438 +1,5 @@
 export default [
     {
-        "title": "Castilla-La Mancha lanzará el programa Aurea para detectar talento deportivo",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/11/24/2025112423175110787.jpg",
-        "tags": [
-            "cuenca"
-        ],
-        "link": "https://www.clm24.es/articulo/cuenca/castilla-mancha-lanzara-2026-programa-aurea-detectar-talento-deportivo/20251124231857464766.html",
-        "date": "2025-11-24 22:18:57",
-        "sentiment_score": 0.5868806317448616
-    },
-    {
-        "title": "Bayern Múnich y Arsenal se enfrentan en Londres buscando mantener el inicio perfecto",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/b290f60/2147483647/strip/true/crop/2549x1338+0+181/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2F95%2F256c84d249029e32ad5d6d657965%2F8dec587646124a4fa4add37402e53f06.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-11-24/bayern-munich-y-arsenal-se-enfrentan-en-londres-buscando-mantener-el-inicio-perfecto",
-        "date": "2025-11-24 22:12:51",
-        "sentiment_score": 0.3802132047712803
-    },
-    {
-        "title": "El Espanyol recupera su solidez en casa a costa del Sevilla",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251124230346_120.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-espanyol-recupera-solidez-casa-costa-sevilla-20251124230346.html",
-        "date": "2025-11-24 22:03:46",
-        "sentiment_score": -0.33503589034080505
-    },
-    {
-        "title": "El Real Betis instala biorecicladora SDDR ® en La Cartuja para continuar fomentando el reciclaje responsable entre sus aficionados",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7742383",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5680685/real-betis-instala-biorecicladora-sddr-cartuja-continuar-fomentando-reciclaje-responsable-entre-aficionados",
-        "date": "2025-11-24 21:34:48",
-        "sentiment_score": 0.5239031184464693
-    },
-    {
-        "title": "Fernando Arnáiz da vida al naturalista Pedro Franco Dávila en su nueva novela histórica, ́El naturalista ́.",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7742385",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5680686/fernando-arnaiz-da-vida-naturalista-pedro-franco-davila-nueva-novela-historica-naturalista",
-        "date": "2025-11-24 21:33:09",
-        "sentiment_score": 0.04171094298362732
-    },
-    {
-        "title": "LaLiga EA Sports 25 – 26 | El Espanyol se consolida en la sexta plaza con 21 puntos",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/laliga-ea-sports-25-26-jornada-13-lunes-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/laliga-jornada-13-resultados-clasificacion-partidos-espanyol-sevilla-lunes/",
-        "date": "2025-11-24 21:25:18",
-        "sentiment_score": 0.39308081567287445
-    },
-    {
-        "title": "La cultura de quedar para ponerse al día con amigos: por qué ya no compartimos la vida, nos la resumimos",
-        "image_url": "https://static.eldiario.es/clip/8e8ed4fa-aa13-40f0-ab38-acb39a36dcce_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ponerse",
-            "vida",
-            "cultura",
-            "amigos",
-            "compartimos",
-            "quedar",
-            "no",
-            "resumimos",
-            "dia"
-        ],
-        "link": "https://www.eldiario.es/era/cultura-quedar-ponerse-dia-amigos-no-compartimos-vida-resumimos_1_12791667.html",
-        "date": "2025-11-24 21:04:01",
-        "sentiment_score": -0.08282722532749176
-    },
-    {
-        "title": "Los funcionarios cobrarán casi 3.200 euros al mes en 14 pagas tras la subida del 11%",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/11/24/funcionarios-kb0E-U240337460661pME-1200x840@RC.JPG",
-        "tags": [
-            "isabel díaz ayuso",
-            "encuesta población activa (epa)"
-        ],
-        "link": "https://www.elcomercio.es/economia/trabajo/funcionarios-cobraran-3200-euros-mes-pagas-tras-20251124215915-ntrc.html",
-        "date": "2025-11-24 20:59:17",
-        "sentiment_score": 0.09376664459705353
-    },
-    {
-        "title": "Urbanismo clausura un crematorio de animales sin licencia en Alicante",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/359b1fda-4eaa-4b2d-8e5a-e0c8c5a9e00d_16-9-aspect-ratio_default_0_x891y201.jpg",
-        "tags": [
-            "mascotas",
-            "urbanismo",
-            "a-31",
-            "animales",
-            "ocio"
-        ],
-        "link": "https://www.informacion.es/alicante/2025/11/24/urbanismo-clausura-crematorio-animales-licencia-alicante-124081454.html",
-        "date": "2025-11-24 22:07:18",
-        "sentiment_score": -0.8707162877544761
-    },
-    {
-        "title": "Crean la primera IA capaz de diagnosticar enfermedades ultra raras sin datos familiares",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/Crean-la-primera-IA-capaz-de-diagnosticar-enfermedades-ultra-raras-sin-datos-familiares.jpg",
-        "tags": [
-            "enfermedades",
-            "salud",
-            "familias",
-            "sociedad",
-            "inteligencia artificial"
-        ],
-        "link": "https://theobjective.com/sociedad/2025-11-24/crean-primera-ia-enfermedades-ultra-raras/",
-        "date": "2025-11-24 22:06:26",
-        "sentiment_score": 0.2608877830207348
-    },
-    {
-        "title": "Reportan que caída de guaya dejó sin electricidad a varias familias del sector 19 de Abril de Naricual",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "comunidad",
-            "locales",
-            "servicios públicos"
-        ],
-        "link": "https://eltiempove.com/reportan-que-caida-de-guaya-dejo-sin-electricidad-a-varias-familias-del-sector-19-de-abril-de-naricual/",
-        "date": "2025-11-24 22:03:08",
-        "sentiment_score": -0.6774698905646801
-    },
-    {
-        "title": "Resultados del sorteo de 'La Bonoloto' del lunes 24 de noviembre",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-resultados-sorteo-bonoloto-lunes-24-noviembre-20251124230203.html",
-        "date": "2025-11-24 22:02:03",
-        "sentiment_score": 0.07748430967330933
-    },
-    {
-        "title": "El Espanyol comprueba que había vida después de Joan Garcia",
-        "image_url": "https://static1.ara.cat/clip/7b051ccf-5bb7-4569-808d-0bea4d0f9b17_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "espanyol",
-            "habia",
-            "comprueba",
-            "despues",
-            "joan",
-            "vida",
-            "garcia"
-        ],
-        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-comprueba-habia-vida-despues-joan-garcia_1_5572345.html",
-        "date": "2025-11-24 21:59:54",
-        "sentiment_score": 0.6087380200624466
-    },
-    {
-        "title": "Las pruebas que tumbaron a la 'sagrada familia' desde EL MUNDO: de las cuentas en Suiza a un Porsche con la 'senyera'",
-        "image_url": "https://phantom-elmundo.uecdn.es/0b97729c36c45af6df21589868b134ca/crop/1335x0/2194x859/f/image/jpeg/assets/multimedia/imagenes/2022/04/07/16493333774499.jpg",
-        "tags": [
-            "audiencia nacional",
-            "oleguer pujol",
-            "jordi pujol",
-            "jordi pujol ferrusola",
-            "artículos esteban urreiztieta"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/24/6924a407e4d4d8657d8b45a0.html",
-        "date": "2025-11-24 21:58:37",
-        "sentiment_score": -0.04597373306751251
-    },
-    {
-        "title": "La Junta del Espanyol que puede cambiar una época: una cita que cierra la etapa Rastar y abre la de Pace y Velocity",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/mao-ye-alan-pace-antonio-davila-espanyol-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/junta-accionistas-espanyol-velocity-sports-rastar-pace/",
-        "date": "2025-11-24 21:53:45",
-        "sentiment_score": 0.5553251802921295
-    },
-    {
-        "title": "Iñaki Urdangarin vuelve a la televisión y concede su entrevista más esperada: todos los detalles",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a43bd4f-5267-483e-891f-1993968d1611_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "la 2",
-            "iñaki urdangarin"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/ocio/tv/2025/11/24/inaki-urdangarin-vuelve-television-concede-entrevista-124081644.html",
-        "date": "2025-11-24 21:43:53",
-        "sentiment_score": -0.19278235733509064
-    },
-    {
-        "title": "Linda Caicedo renovó con el Real Madrid hasta 2031, antes de unirse a la selección Colombia femenina",
-        "image_url": "https://www.infobae.com/resizer/v2/EBQZKPFWXREQFKMCF4RC3QNIDU.jpg?auth=d5e2ed036d1bde957a49431080860135a9b40fb46f26d8113c9498f2efd1c06f&height=858&smart=true&width=1620",
-        "tags": [
-            "real madrid",
-            "selección colombia",
-            "mundial de australia y nueva zelanda 2023",
-            "linda caicedo",
-            "premio golden girl",
-            "fútbol femenino internacional",
-            "champions league femenina",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/11/25/linda-caicedo-renovo-con-el-real-madrid-hasta-2031-antes-de-unirse-a-la-seleccion-colombia-femenina/",
-        "date": "2025-11-25 02:00:01",
-        "sentiment_score": 0.47695095650851727
-    },
-    {
-        "title": "La infancia toma la palabra en el Congreso para defender sus derechos en la era digital",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/23caca99-02a5-4512-b404-0bee8111461b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "infancia,digital,aldeas infantiles,niños,diputados"
-        ],
-        "link": "https://www.elperiodicomediterraneo.com/ideas/aldeas-infantiles/infancia-derechos-era-digital.html",
-        "date": "2025-11-25 01:59:34",
-        "sentiment_score": 0.4364261329174042
-    },
-    {
-        "title": "El Gobierno asegura que acata la sentencia, pero ataca al Supremo",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/8e36b70c8f55569520d5270cd71b4ca2/crop/3x0/2045x1361/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/24/17640201643447.jpg",
-        "tags": [
-            "álvaro garcía ortiz>",
-            "política>",
-            "tribunal supremo>",
-            "opinión>"
-        ],
-        "link": "https://www.expansion.com/economia/politica/2025/11/25/6924d1aa468aeb135c8b4587.html",
-        "date": "2025-11-25 01:02:56",
-        "sentiment_score": -0.9270772160962224
-    },
-    {
-        "title": "¿Quién está detrás de Krispy Kreme España?",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/639d0cf2937f5991a40a350b0818759d/crop/0x575/2048x1941/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/24/17640064756265.jpg",
-        "tags": [
-            "artículos isabel vilches>"
-        ],
-        "link": "https://www.expansion.com/directivos/2025/11/25/6924999ee5fdeaff138b4575.html",
-        "date": "2025-11-25 01:02:22",
-        "sentiment_score": 0.16692419350147247
-    },
-    {
-        "title": "La Comunidad de Madrid frena 9.000 licencias de VTC por una disputa con Cabify",
-        "image_url": "https://s2.abcstatics.com/abc/www/multimedia/espana/2025/11/24/1428303161-R6vFcwjBsSXS7mOY1DAejDM-1200x840@diario_abc.JPG",
-        "tags": [
-            "españa",
-            "madrid"
-        ],
-        "link": "https://www.abc.es/espana/madrid/comunidad-madrid-frena-9000-licencias-vtc-disputa-20251124184554-nt.html",
-        "date": "2025-11-25 00:57:05",
-        "sentiment_score": -0.22835902869701385
-    },
-    {
-        "title": "24 NOV 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/24-nov-2025-partidazo-cope-20251125_3258566.html",
-        "date": "2025-11-25 00:46:38",
-        "sentiment_score": -0.01853346824645996
-    },
-    {
-        "title": "La ahijada del rey Juan Carlos y la nieta de Carolina Herrera: las dos debutantes de Le Bal de las que todo el mundo habla",
-        "image_url": "https://s3.elespanol.com/2025/11/24/corazon/famosos/1003744027450_260117067_1706x960.jpg",
-        "tags": [
-            "juan carlos i",
-            "carolina herrera",
-            "parís",
-            "celebrities"
-        ],
-        "link": "https://www.elespanol.com/corazon/celebrities/20251125/ahijada-rey-juan-carlos-nieta-carolina-herrera-debutantes-bal-mundo-habla/1003744027317_0.html",
-        "date": "2025-11-25 00:33:00",
-        "sentiment_score": 0.06695590540766716
-    },
-    {
-        "title": "PSG vs. Tottenham: hora y dónde ver al campeón de la Uefa Champions League en Colombia",
-        "image_url": "https://www.infobae.com/resizer/v2/YF2GMDHD6NABRKXBV4BNEYGGVI.JPG?auth=c6b388593fb0008cecb3f1c023592bf2d30fd78a2133fd33b96d2e112b0ada4a&height=1506&smart=true&width=2153",
-        "tags": [
-            "parc des princes",
-            "psg",
-            "parís",
-            "fase de grupos champions league",
-            "champions league",
-            "tottenham",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/11/25/psg-vs-tottenham-hora-y-donde-ver-al-campeon-de-la-uefa-champions-league-en-colombia/",
-        "date": "2025-11-25 00:30:00",
-        "sentiment_score": 0.40258998423814774
-    },
-    {
-        "title": "El debut costumbrista de un joven escritor bilbaíno que nace del amor a su amama",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/11/24/1503364282-kZSE-U2403386550051BC-758x531@El%20Correo.jpg",
-        "tags": [
-            "bilbao",
-            "novela"
-        ],
-        "link": "https://www.elcorreo.com/culturas/libros/debut-costumbrista-joven-escritor-bilbaino-nace-amor-20251124010502-nt.html",
-        "date": "2025-11-25 00:05:02",
-        "sentiment_score": -0.2279660627245903
-    },
-    {
-        "title": "\"Inhumanidad\" y \"persecución\": el separatismo ve una \"venganza del Estado\" la decisión de que se mantenga a Pujol en el juicio",
-        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027577_260118681_1706x960.jpg",
-        "tags": [
-            "tribunales",
-            "audiencia nacional",
-            "política",
-            "junts per catalunya",
-            "fiscalía anticorrupción",
-            "jordi pujol i soley",
-            "generalitat de catalunya",
-            "cataluña",
-            "corrupción"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251125/inhumanidad-persecucion-separatismo-ve-venganza-decision-mantenga-pujol-juicio/1003744027537_0.html",
-        "date": "2025-11-25 01:56:35",
-        "sentiment_score": -0.9245592895895243
-    },
-    {
-        "title": "El último golpe a Puigdemont: Silvia Orriols alienta el fichaje de decenas de alcaldes de Junts, con empate ya en las encuestas",
-        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027701_260120482_1706x960.jpg",
-        "tags": [
-            "junts",
-            "psoe (partido socialista obrero español)",
-            "vox",
-            "política",
-            "cataluña",
-            "psc"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251125/ultimo-golpe-puigdemont-silvia-orriols-alienta-fichaje-decenas-alcaldes-junts-empate-encuestas/1003744027491_0.html",
-        "date": "2025-11-25 01:56:32",
-        "sentiment_score": 0.5023692846298218
-    },
-    {
-        "title": "Barça y Chelsea, los dos grandes damnificados por el Fair Play de la UEFA: la venta de patrimonio sale cara",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/25/culemania/palco/1003742710526_15443605_1706x960.jpg",
-        "tags": [
-            "junta directiva del barça",
-            "joan laporta",
-            "fc barcelona",
-            "champions league",
-            "palco",
-            "uefa"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251125/barca-chelsea-damnificados-fair-play-uefa-patrimoniosalecara/1003742710525_0.html",
-        "date": "2025-11-25 01:29:26",
-        "sentiment_score": -0.8954899925738573
-    },
-    {
-        "title": "El menú del día sube a una media de 14,2 euros",
-        "image_url": "https://static.laregion.es/clip/af86bb19-cb29-490f-8053-4bc3c68f98c2_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "comida",
-            "índice de precios al consumo",
-            "hosteleria"
-        ],
-        "link": "https://www.laregion.es/economia/menu-dia-sube-media-14_1_20251125-4068898.html",
-        "date": "2025-11-25 01:10:37",
-        "sentiment_score": 0.2964068576693535
-    },
-    {
-        "title": "Cecilia Bartoli, mezzosoprano: \"La ópera debe abrir sus puertas. La pasión del público es su mayor esperanza\"",
-        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744022757_260054296_1706x960.jpg",
-        "tags": [
-            "música clásica",
-            "entrevistas",
-            "música"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251125/cecilia-bartoli-mezzosoprano-opera-debe-abrir-puertas-pasion-publico-mayor-esperanza/1003744022604_0.html",
-        "date": "2025-11-25 00:55:00",
-        "sentiment_score": 0.030460119247436523
-    },
-    {
-        "title": "El nuevo logo del Ayuntamiento de Madrid desconcierta a expertos creativos: \"La ciudad merece más cariño y trabajo\"",
-        "image_url": "https://static.eldiario.es/clip/0ddc1151-57b7-4b08-9f37-226904465234_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ayuntamiento",
-            "trabajo",
-            "creativos",
-            "carino",
-            "expertos",
-            "logo",
-            "madrid",
-            "desconcierta",
-            "ciudad",
-            "merece",
-            "nuevo"
-        ],
-        "link": "https://www.eldiario.es/madrid/somos/nuevo-logo-ayuntamiento-madrid-desconcierta-expertos-creativos-ciudad-merece-carino-trabajo_1_12792111.html",
-        "date": "2025-11-25 00:00:23",
-        "sentiment_score": -0.04191067814826965
-    },
-    {
-        "title": "Isabel del Alentejo",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2025/11/24/207596657.jpg",
-        "tags": [
-            "isabel",
-            "alentejo"
-        ],
-        "link": "https://www.hoy.es/extremadura/isabel-alentejo-20251125074735-nt.html",
-        "date": "2025-11-25 00:00:00",
-        "sentiment_score": 0.5887931361794472
-    },
-    {
-        "title": "La Vida Bohème se presentará en el Caracas Music Hall el 22 de diciembre",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/24191930/LVB-2-2560x1707.jpg",
-        "tags": [
-            "música",
-            "la vida bohème",
-            "la vida bohème se presentará en el caracas music hall antes de navidad",
-            "entretenimiento"
-        ],
-        "link": "https://www.elnacional.com/2025/11/la-vida-boheme-se-presentara-en-el-caracas-music-hall-el-22-de-diciembre/",
-        "date": "2025-11-24 23:31:03",
-        "sentiment_score": 0.06143384426832199
-    },
-    {
-        "title": "«Con esta edición he aprendido que no sabemos nada del amor ni de nuestra pareja»",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/25/sandra-barneda-kS7B-U240338225471GHF-1200x840@RC.jpg",
-        "tags": [
-            "pablo motos",
-            "sandra barneda",
-            "la isla de las tentaciones",
-            "televisión",
-            "telecinco"
-        ],
-        "link": "https://www.leonoticias.com/culturas/tv/edicion-aprendido-sabemos-amor-pareja-20251125002828-ntrc.html",
-        "date": "2025-11-24 23:28:29",
-        "sentiment_score": 0.4336414821445942
-    },
-    {
         "title": "La nueva fiscal general del estado será Teresa Peramato",
         "image_url": "https://www.galiciapress.es/images/showid/7742656",
         "tags": [
@@ -3029,5 +2596,214 @@ export default [
         "link": "https://www.laopiniondemurcia.es/internacional/2025/11/28/pacto-mediterraneo-ue-claves-que-es-124218803.html",
         "date": "2025-11-28 06:24:55",
         "sentiment_score": 0.2023455649614334
+    },
+    {
+        "title": "El Atlético quiere fortalecerse antes del Camp Nou",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251128181026_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-atletico-quiere-fortalecerse-antes-camp-nou-20251128181026.html",
+        "date": "2025-11-28 17:10:26",
+        "sentiment_score": 0.2128613144159317
+    },
+    {
+        "title": "17:00H | 28 NOV 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-28-nov-2025-tarde-20251128_3262044.html",
+        "date": "2025-11-28 17:08:00",
+        "sentiment_score": -0.4511503577232361
+    },
+    {
+        "title": "El partido entre Ebro y Osasuna de Copa del Rey es declarado de alto riesgo",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/10/18/2025101816405418861.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.aragondigital.es/articulo/deportes/partido-entre-ebro-osasuna-copa-rey-es-declarado-alto-riesgo/20251128180512954845.html",
+        "date": "2025-11-28 17:05:12",
+        "sentiment_score": -0.0546535961329937
+    },
+    {
+        "title": "La exmujer de Ábalos, Carolina Perles, habla en televisión tras el ingreso en prisión: \"Mis hijos están destrozados\"",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2565670.jpg",
+        "tags": [
+            "dolcevita"
+        ],
+        "link": "https://www.vozpopuli.com/dolcevita/la-ex-mujer-de-abalos-carolina-perles-habla-en-television-tras-el-ingreso-en-prision-mis-hijos-estan-destrozados.html",
+        "date": "2025-11-28 17:04:54",
+        "sentiment_score": -0.43234750255942345
+    },
+    {
+        "title": "Laporta acusa al Real Madrid de \"barcelonitis\" y de \"estirar como un chicle\" el 'caso Negreira'",
+        "image_url": "https://www.infobae.com/resizer/v2/SU7DMN7GGRCCNGAZR5H74ED2ZI.jpg?auth=e5bf00ed0772f71d5b0dee1c0744e32633b2229f83c00d65643afebe5844211c&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/28/laporta-acusa-al-real-madrid-de-barcelonitis-y-de-estirar-como-un-chicle-el-caso-negreira/",
+        "date": "2025-11-28 17:00:34",
+        "sentiment_score": -0.9113511899486184
+    },
+    {
+        "title": "Víctor Arpa, abogado, sobre la incapacidad permanente: \"La ineptitud no garantiza automáticamente una resolución favorable",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/08/12/689b8f42e5800.r_d.2070-657-1900.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.cope.es/actualidad/economia/noticias/victor-arpa-abogado-sobre-incapacidad-permanente-ineptitud-garantiza-automaticamente-resolucion-favorable-20251128_3261962.html",
+        "date": "2025-11-28 16:57:50",
+        "sentiment_score": -0.27751903235912323
+    },
+    {
+        "title": "Emma Lustres, primera productora Medalla de Oro de los Premios Forqué: \"El cine hace de España una potencia cultural\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251128175638_690.jpg",
+        "tags": [
+            "cultura",
+            "cine"
+        ],
+        "link": "https://www.europapress.es/cultura/cine-00128/noticia-emma-lustres-primera-productora-medalla-oro-premios-forque-cine-hace-espana-potencia-cultural-20251128175638.html",
+        "date": "2025-11-28 16:56:38",
+        "sentiment_score": 0.5763611681759357
+    },
+    {
+        "title": "Telefónica se queda con LaLiga: renueva los derechos para Movistar Plus+ hasta 2032",
+        "image_url": "https://www.elplural.com/uploads/s1/20/28/97/6/elplural-23_7_480x270.jpeg",
+        "tags": [
+            "extratele"
+        ],
+        "link": "https://www.elplural.com/extratele/telefonica-queda-laliga-renueva-derechos-movistar-plus-hasta-2032_366299102",
+        "date": "2025-11-28 16:55:38",
+        "sentiment_score": 0.08259788155555725
+    },
+    {
+        "title": "Un estudio del CIES sentencia la gestión de Deco en los fichajes del Barça: solo 26 millones de balance positivo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/11/22/culemania/palco/903169833_14962236_1706x960.jpg",
+        "tags": [
+            "barça",
+            "deco",
+            "culemaníacos",
+            "la masía",
+            "fichajes barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251128/cies-sentencia-deco-fichajes-barca-millones-positivo/1003742711802_0.html",
+        "date": "2025-11-28 16:54:45",
+        "sentiment_score": -0.592109065502882
+    },
+    {
+        "title": "Visita histórica del presidente alemán a Guernica, población vasca bombardeada por los nazis",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/28122258/AFP__20251128__86GM847__v1__HighRes__SpainGermanyDiplomacyHistory-2560x1705.jpg",
+        "tags": [
+            "mundo",
+            "guernica"
+        ],
+        "link": "https://www.elnacional.com/2025/11/visita-historica-del-presidente-aleman-a-guernica-poblacion-vasca-bombardeada-por-los-nazis/",
+        "date": "2025-11-28 16:51:31",
+        "sentiment_score": -0.7657175399363041
+    },
+    {
+        "title": "Unos 500 alcaldes reunidos en Montserrat por la ACM reivindican el municipalismo como \"pilar de país\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251128181021_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-500-alcaldes-reunidos-montserrat-acm-reivindican-municipalismo-pilar-pais-20251128181021.html",
+        "date": "2025-11-28 17:10:21",
+        "sentiment_score": 0.15207545459270477
+    },
+    {
+        "title": "El entrenador del Alavés Eduardo Coudet: \"Sin los errores del VAR seríamos quintos\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/28/6929d6a494360.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/entrenador-alaves-eduardo-coudet-errores-var-seriamos-quintos-20251128_3262043.html",
+        "date": "2025-11-28 17:09:11",
+        "sentiment_score": -0.14422771334648132
+    },
+    {
+        "title": "Prohibido acceder al bosque en 12 municipios de Catalunya tras confirmarse los primeros casos de peste porcina africana",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/68fcfedf-2e0f-4b95-b0d9-90852bcca5c9_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "jabalí"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20251128/peste-porcina-africana-barcelona-prohibo-paso-bosque-124245458",
+        "date": "2025-11-28 17:05:42",
+        "sentiment_score": -0.753306083381176
+    },
+    {
+        "title": "Barcelona acoge la puesta de largo del nuevo Pacto por el Mediterráneo y la adopción del marco estratégico de la UpM",
+        "image_url": "https://www.infobae.com/resizer/v2/ZYC42SI7UJGF3HD3LEK52DFWBQ.jpg?auth=e1ea5a15153d13a12de6de96c708c35c5a9e1ad06a6587ad2637d10f9909bb3f&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/11/28/barcelona-acoge-la-puesta-de-largo-del-nuevo-pacto-por-el-mediterraneo-y-la-adopcion-del-marco-estrategico-de-la-upm/",
+        "date": "2025-11-28 17:01:46",
+        "sentiment_score": 0.45861833542585373
+    },
+    {
+        "title": "Agentes de los Mossos y la Local del Prat unifican criterios para reforzar controles a VTC y taxis",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/28/movilidad/1003742711825_15460197_1706x960.jpg",
+        "tags": [
+            "el prat",
+            "mossos d'esquadra",
+            "guardia urbana",
+            "el prat de llobregat",
+            "vtc",
+            "aeropuerto barcelona",
+            "policía",
+            "movilidad",
+            "taxistas barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20251128/agentes-mossos-local-prat-unifican-criterios-reforzar-controles-vtc-taxis/1003742711821_0.html",
+        "date": "2025-11-28 17:01:44",
+        "sentiment_score": 0.11913415789604187
+    },
+    {
+        "title": "Toledo acogerá a más de 500 aspirantes a funcionarios",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/dda4f81f-e10e-4f5b-83c82a3314ca489b.jpg",
+        "tags": [
+            "empleo",
+            "comunidades autónomas",
+            "barcelona",
+            "cataluña",
+            "funcionarios",
+            "santa cruz de tenerife",
+            "tenerife",
+            "castilla-la mancha",
+            "toledo",
+            "canarias",
+            "madrid"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zed88d3f6-37ca-4359-9dd1530cd696cec1/202511/toledo-acogera-a-mas-de-500-aspirantes-a-funcionarios",
+        "date": "2025-11-28 17:00:28",
+        "sentiment_score": 0.04265829920768738
+    },
+    {
+        "title": "Barcelona acoge la puesta de largo del nuevo Pacto por el Mediterráneo y la adopción del marco estratégico de la UpM",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251128173913.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/barcelona-acoge-la-puesta-de-largo-del-nuevo-pacto-por-el-mediterrneo-y-la-adopcin-del-marco-estratgico-de-la-upm/",
+        "date": "2025-11-28 17:00:04",
+        "sentiment_score": 0.15461644530296326
+    },
+    {
+        "title": "Con sólo impedir la inmigración de Marruecos, los delitos en España se reducirían más de un 50 por ciento",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2017/12/marroquiesa.jpg",
+        "tags": [
+            "delitos",
+            "marruecos",
+            "españa",
+            "inmigracion"
+        ],
+        "link": "https://www.alertadigital.com/2025/11/28/con-solo-impedir-la-inmigracion-de-marruecos-los-delitos-en-espana-se-reducirian-mas-de-un-50-por-ciento/",
+        "date": "2025-11-28 16:59:30",
+        "sentiment_score": -0.9373303344473243
     }
 ];
