@@ -1,240 +1,5 @@
 export default [
     {
-        "title": "La IA puede ayudar a pacientes con diabetes tipo 1 a predecir la respuesta glucémica tras practicar ejercicio",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251125180324_690.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-ia-puede-ayudar-pacientes-diabetes-tipo-predecir-respuesta-glucemica-practicar-ejercicio-20251125180324.html",
-        "date": "2025-11-25 17:03:24",
-        "sentiment_score": 0.13245978951454163
-    },
-    {
-        "title": "¿Puedes reconocer al equipo solo por su uniforme retro de Champions?",
-        "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2025-11/24/17/thumb/hYct8noMa.jpg?6%2C0=&crop=2988%3A1992&resize=1250%3A830",
-        "tags": [
-            "sports"
-        ],
-        "link": "https://www.buzzfeed.com/mx/mikebarcena/puedes-reconocer-equipo-solo-por-uniforme-retro-champions",
-        "date": "2025-11-25 17:01:03",
-        "sentiment_score": 0.4769389480352402
-    },
-    {
-        "title": "La guardia civil María Pilar Villasante, Premio Mujer Cantabria 2025",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251125171347.jpg?fit=1600%2C1200&ssl=1",
-        "tags": [
-            "cantabria"
-        ],
-        "link": "https://cronicadecantabria.com/cr/la-guardia-civil-mara-pilar-villasante-premio-mujer-cantabria-2025/",
-        "date": "2025-11-25 17:00:05",
-        "sentiment_score": 0.5380373746156693
-    },
-    {
-        "title": "Ferrol acoge dos juicios pioneros para anular consejos de guerra: «Hijos y nietos tomamos el relevo de los represaliados»",
-        "image_url": "https://cflvdg.avoz.es/sc/k-MN4Ccfx6py7PkjF9zAdkzeGw0=/768x/2025/11/25/00121764089581312941644/Foto/f_20251125_143234000.jpg",
-        "tags": [
-            "derechos humanos",
-            "registro civil",
-            "ferrol ciudad",
-            "guardia civil",
-            "memoria histórica",
-            "pensiones",
-            "diputación de a coruña"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/ferrol/ferrol/2025/11/25/ferrol-acoge-dos-juicios-pioneros-anular-consejos-guerra-hijos-nietos-tomamos-relevo-represaliados/00031764088074100337408.htm",
-        "date": "2025-11-25 17:00:00",
-        "sentiment_score": -0.8438411261886358
-    },
-    {
-        "title": "Horario y dónde ver gratis el partido Dinamarca-España con Santi Yusta",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2025/11/25/santi-yusta-en-el-entrenamiento-de-la-seleccion-espanola.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.heraldo.es/noticias/deportes/baloncesto/2025/11/25/horario-donde-ver-gratis-partido-dinamarca-espana-santi-yusta-1873430.html",
-        "date": "2025-11-25 16:59:33",
-        "sentiment_score": 0.3790244050323963
-    },
-    {
-        "title": "Millonarios confirmó contactos con James Rodríguez: esto pasó en la negociación con el capitán de la selección Colombia",
-        "image_url": "https://www.infobae.com/resizer/v2/KPA6CJ74NVAUFJBGGDAZN6FNU4.jpg?auth=0d349045fe07fe0cb1d2d0d1a5f847809f5e97d4cc8a26711e0f35fd6df93aa2&height=1836&smart=true&width=3264",
-        "tags": [
-            "fichajes millonarios fc",
-            "fpc",
-            "millonarios fc",
-            "james rodríguez",
-            "enrique camacho",
-            "selección colombia",
-            "liga betplay",
-            "colombia-deportes"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/11/25/millonarios-confirmo-contactos-con-james-rodriguez-esto-paso-en-la-negociacion-con-el-capitan-de-la-seleccion-colombia/",
-        "date": "2025-11-25 16:58:24",
-        "sentiment_score": 0.23203114792704582
-    },
-    {
-        "title": "Atlético e Inter dirimen otra batalla colectiva repleta de duelos individuales",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/11/25/Clipboard-0213-k1YB-U240350315978dJB-1200x840@RC.jpg",
-        "tags": [
-            "dirimen",
-            "individuales",
-            "atletico",
-            "repleta",
-            "colectiva",
-            "batalla",
-            "duelos",
-            "inter"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/atletico-inter-dirimen-batalla-colectiva-repleta-duelos-20251125175643-ntrc.html",
-        "date": "2025-11-25 16:56:47",
-        "sentiment_score": -0.4973633512854576
-    },
-    {
-        "title": "La impagable reacción del cantante Anuel AA a los insultos a Pedro Sánchez durante su concierto",
-        "image_url": "https://okdiario.com/img/2025/11/25/anuel.jpg",
-        "tags": [
-            "happyfm",
-            "anuel aa",
-            "pedro sánchez"
-        ],
-        "link": "https://okdiario.com/happyfm/impagable-reaccion-del-cantante-anuel-aa-insultos-pedro-sanchez-durante-concierto-15826778",
-        "date": "2025-11-25 16:51:36",
-        "sentiment_score": -0.44525146484375
-    },
-    {
-        "title": "El número de la Lotería de Navidad que puede llevarse el Gordo está en La Bruixa d’Or, según la IA",
-        "image_url": "https://okdiario.com/img/2025/11/25/loteria.jpg",
-        "tags": [
-            "lotería de navidad",
-            "lotería"
-        ],
-        "link": "https://okdiario.com/loteria-navidad/numero-loteria-navidad-que-puede-llevarse-gordo-esta-bruixa-dor-segun-ia-15827315",
-        "date": "2025-11-25 16:48:37",
-        "sentiment_score": -0.3686297684907913
-    },
-    {
-        "title": "Los clubes de LALIGA se centran en potenciar el ‘hospitality’ y en diversificar sus ingresos",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/laliga_hospitalidad.jpg",
-        "tags": [
-            "servimedia",
-            "actualidad"
-        ],
-        "link": "https://theobjective.com/actualidad/2025-11-25/clubes-laliga-potenciar-hospitality-ingresos/",
-        "date": "2025-11-25 16:46:10",
-        "sentiment_score": 0.5597237180918455
-    },
-    {
-        "title": "Actos institucionales, charlas y manifestaciones contra la violencia machista en el 25N",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/25/6925df5910dea.r_d.2629-1521-1057.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20251125/1002575883/actos-institucionales-charlas-manifestaciones-violencia-machista-25n-dct.html",
-        "date": "2025-11-25 17:11:00",
-        "sentiment_score": -0.20879417657852173
-    },
-    {
-        "title": "Svetlana y Miquel, dos jóvenes de Barcelona sobre su cambio de vida en Suiza: \"Aquí con el salario mínimo se puede ahorrar muchísimo\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/25/vivir-en-barcelona/1003742710793_15446859_1706x960.jpg",
-        "tags": [
-            "vivir en barcelona",
-            "historia",
-            "barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251125/svetlana-miquel-jovenes-barcelona-cambio-vida-suiza-salario-minimo-puede-ahorrar-muchisimo/1003742710783_0.html",
-        "date": "2025-11-25 17:09:27",
-        "sentiment_score": -0.6409847661852837
-    },
-    {
-        "title": "Muere al caerle encima una carretilla elevadora: el segundo trabajador que fallece este martes",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/14/68ee7d87e041e.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/muere-un-hombre-caerle-encima-una-carretilla-elevadora-castellbisbal-segundo-trabajador-que-fallece-este-martes_6902628_0.html",
-        "date": "2025-11-25 17:09:16",
-        "sentiment_score": -0.8413360128179193
-    },
-    {
-        "title": "17:00H | 25 NOV 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-25-nov-2025-tarde-20251125_3259313.html",
-        "date": "2025-11-25 17:09:00",
-        "sentiment_score": -0.34268493950366974
-    },
-    {
-        "title": "La contraseña más usada por los usuarios en España ya no es ‘123456’",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/56ebdf95-954a-4a3c-8adc-831eb880083f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tecnología,contraseñas,ciberseguridad,españa"
-        ],
-        "link": "https://www.laopiniondezamora.es/vida-y-estilo/tecnologia/2025/11/25/contrasena-usada-usuarios-espana-123456-124115069.html",
-        "date": "2025-11-25 17:07:16",
-        "sentiment_score": 0.4427473284304142
-    },
-    {
-        "title": "Manuel Turizo, hospitalizado durante su gira en Berlín: \"El cuerpo a veces pasa factura\"",
-        "image_url": "https://www.hola.com/horizon/landscape/344d10fed2c3-doral-florida-manuel-turizo-at-despierta-america-morning-show-at-univision-studi.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.hola.com/actualidad/20251125869449/manuel-turizo-alerta-a-sus-seguidores-sobre-su-estado-de-salud-y-cancela-un-concierto-en-plena-gira-el-cuerpo-a-veces-pasa-factura/",
-        "date": "2025-11-25 17:07:12",
-        "sentiment_score": -0.5075434595346451
-    },
-    {
-        "title": "¿Cuánto cobra tu alcalde? Consulta el salario de los que lo hacen público",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/10/24/68fb5f7aa406b.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.eldebate.com/economia/20251125/consulta-cuanto-cobra-alcalde-hace-publico_358956.html",
-        "date": "2025-11-25 17:06:47",
-        "sentiment_score": -0.04396277293562889
-    },
-    {
-        "title": "La cantera de UDAT brilla en Atapuerca",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/4d806477-32d2-4c65-8c05237ec6386b69.jpg",
-        "tags": [
-            "fc barcelona",
-            "udat",
-            "atapuerca",
-            "atletismo"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z4fd85142-ef61-407f-b3ce4541e114825e/202511/la-cantera-de-udat-brilla-en-atapuerca",
-        "date": "2025-11-25 17:06:34",
-        "sentiment_score": 0.2742871940135956
-    },
-    {
-        "title": "Este es el radar que más multa de Barcelona",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/27/senal-aviso-radar-barcelona.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/este-es-radar-mas-multa-barcelona_6899025_0.html",
-        "date": "2025-11-25 17:03:45",
-        "sentiment_score": -0.25447066128253937
-    },
-    {
-        "title": "La derecha y la ultraderecha ponen a los hijos de periodistas en la diana",
-        "image_url": "https://static1.ara.cat/clip/ea112659-c3bc-4d20-8f34-4a0c1fc0436b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ponen",
-            "ultraderecha",
-            "hijos",
-            "derecha",
-            "periodistas",
-            "diana"
-        ],
-        "link": "https://es.ara.cat/media/derecha-ultraderecha-ponen-hijos-periodistas-diana_1_5573208.html",
-        "date": "2025-11-25 17:02:27",
-        "sentiment_score": -0.31431812047958374
-    },
-    {
         "title": "El Real Madrid se blinda y tumba al líder Hapoel",
         "image_url": "https://www.latribunadetoledo.es/media/img/2025/aaad2006-47d8-40b7-b1805587272599d3.jpg",
         "tags": [
@@ -3075,5 +2840,241 @@ export default [
         "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20251129/laboratorio-startup-creo-sonido-inmersivo-imposible-nacio-historia-dolby-atmos/1003744024085_0.html",
         "date": "2025-11-29 00:34:00",
         "sentiment_score": 0.5863927155733109
+    },
+    {
+        "title": "BBVA activa Social Pay en España con fecha clave y un dato que falta",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/02/28/2025022813171345632.jpg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/dinero/bbva-activa-social-pay-espana-fecha-clave-dato-que-falta/20251127193242991567.html",
+        "date": "2025-11-29 06:05:42",
+        "sentiment_score": 0.21573207527399063
+    },
+    {
+        "title": "Prueba de fuego para medir al muro albiazul",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/18ba20ca-f2c1-400f-abec-7f3c1749cbe5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "laliga",
+            "alavés",
+            "fuego",
+            "hansi flick",
+            "albiazul",
+            "barcelona",
+            "previa",
+            "coudet",
+            "medir",
+            "muro",
+            "camp nou",
+            "prueba"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2025/11/29/prueba-fuego-medir-muro-albiazul-alaves-laliga-previa-barcelona-coudet-hansi-flick-camp-nou-10411214.html",
+        "date": "2025-11-29 06:00:28",
+        "sentiment_score": 0.4188524931669235
+    },
+    {
+        "title": "Lamine y la lucha contra los dolores",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/bd11951e-803c-4796-bdb2-3912ab9e73e6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lucha",
+            "dolores",
+            "lamine yamal",
+            "barcelona",
+            "deportivo alavés",
+            "la liga",
+            "rivales",
+            "camp nou"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2025/11/29/lucha-dolores-lamine-yamal-deportivo-alaves-barcelona-la-liga-rivales-camp-nou-10410544.html",
+        "date": "2025-11-29 06:00:27",
+        "sentiment_score": -0.7998986877501011
+    },
+    {
+        "title": "La eterna despedida de Carlos Mazón, \"el mayor desastre mundial\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2468608a-f640-4c60-a701-cae3d8a640bf_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "juan carlos i",
+            "rosalía",
+            "entender más",
+            "carlos mazón",
+            "nueva york"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20251129/eterna-despedida-carlos-mazon-mayor-desastre-mundial-rosalia-124229641",
+        "date": "2025-11-29 06:00:20",
+        "sentiment_score": -0.20396963506937027
+    },
+    {
+        "title": "DIRECTO Gaza Última hora, seguimiento de la situación tras la tregua con Israel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/33a05812-1492-472e-81d2-f57356f5d422_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "palestina",
+            "conflicto israel - palestina",
+            "israel",
+            "franja de gaza",
+            "binyamin netanyahu",
+            "gaza",
+            "donald trump",
+            "hamás"
+        ],
+        "link": "https://www.elperiodico.com/es/internacional/20251129/israel-gaza-hamas-alto-fuego-plan-paz-ultima-hora-directo-fragil-tregua-124217667",
+        "date": "2025-11-29 05:31:00",
+        "sentiment_score": -0.2372370809316635
+    },
+    {
+        "title": "Media Europa, incluyendo Madrid, Atleti y el Barça, tiene en la mira a Marc Guéhi",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/29/2025112906151163050.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/media-europa-incluyendo-madrid-atleti-barca-tienen-mira-marc-guehi/20251129061727364978.html",
+        "date": "2025-11-29 05:17:27",
+        "sentiment_score": 0.5247778594493866
+    },
+    {
+        "title": "“Nuestro Haaland está en la Masia”: el mensaje de Vilajoana a los culés",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/05/2025110506330236442.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/nuestro-haaland-masia-mensaje-vilajoana-cules/20251129060317364976.html",
+        "date": "2025-11-29 05:03:17",
+        "sentiment_score": -0.3093401603400707
+    },
+    {
+        "title": "La inverosímil legislatura de Sánchez: la amnistía, sin presupuestos, un fiscal condenado y el primer diputado que acaba en prisión",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2025/11/28/E91355BE-D869-4A67-A539-B63055206F9F/inverosimil-legislatura-sanchez-amnistia-presupuestos-fiscal-condenado-primer-diputado-que-acaba-prision_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "españa",
+            "ondacero",
+            "noticias"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/inverosimil-legislatura-sanchez-amnistia-presupuestos-fiscal-condenado-primer-diputado-que-acaba-prision_20251129692a7df56e5e5012dcd32629.html",
+        "date": "2025-11-29 05:00:37",
+        "sentiment_score": -0.5697038918733597
+    },
+    {
+        "title": "Golpe a las IPTV: estos son los partidos que Movistar Plus+ ofrece durante un mes por 1€",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/27/692839db232146-09455461.jpeg",
+        "tags": [
+            "20decompras"
+        ],
+        "link": "https://www.20minutos.es/ofertas-descuentos/golpe-las-iptv-estos-son-los-partidos-que-movistar-plus-ofrece-durante-un-mes-por-1e_6903483_0.html",
+        "date": "2025-11-29 05:00:00",
+        "sentiment_score": 0.3282984811812639
+    },
+    {
+        "title": "Los jóvenes de estas zonas de Castilla-La Mancha podrán adquirir por solo 10 € al mes el abono transporte de Madrid",
+        "image_url": "https://s3.elespanol.com/2025/11/26/actualidad/1003744030607_260158959_1706x960.jpg",
+        "tags": [
+            "emiliano garcía-page",
+            "isabel díaz ayuso",
+            "castilla-la mancha",
+            "comunidad de madrid",
+            "región",
+            "transporte público",
+            "autobuses",
+            "abono transporte"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20251129/jovenes-zonas-castilla-la-mancha-podran-adquirir-solo-eur-mes-abono-transporte-madrid-trt/1003744030349_0.html",
+        "date": "2025-11-29 05:00:00",
+        "sentiment_score": 0.15074469707906246
+    },
+    {
+        "title": "IA, la hiperregulación que frena la innovación",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/11/robot-lupa.jpg",
+        "tags": [
+            "artículos",
+            "znoticia portada2",
+            "innovación",
+            "app",
+            "ia",
+            "europa",
+            "regulación",
+            "tecnología",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/ia-la-hiperregulacion-que-frena-la-innovacion/",
+        "date": "2025-11-29 06:30:36",
+        "sentiment_score": 0.020737916231155396
+    },
+    {
+        "title": "Dolors Liria, psicóloga, sobre trabajar por tu cuenta: \"Tienes que luchar cada día por mantener la estabilidad\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/46102792-5e3f-4c99-a0d3-3e547bb589a7_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "psicología",
+            "salud mental",
+            "trabajadores autónomos"
+        ],
+        "link": "https://www.elperiodico.com/es/ser-feliz/20251129/dolors-liria-psicologa-trabajar-cuenta-124187109",
+        "date": "2025-11-29 06:20:54",
+        "sentiment_score": -0.5257654264569283
+    },
+    {
+        "title": "Adiós al todo táctil: Europa impone el regreso de los botones en el salpicadero",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/05/23/2025052310530630849.jpg",
+        "tags": [
+            "motor"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/motor/adios-todo-tactil-europa-impone-regreso-botones-salpicadero/20251129071602990604.html",
+        "date": "2025-11-29 06:16:02",
+        "sentiment_score": -0.05454400181770325
+    },
+    {
+        "title": "Las claves del hotel de lujo de Vera Sevilla: 165 millones y un fondo con capital de Singapur y Países Bajos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fa7d07a4-db3c-43be-a5c5-b94b13efa21f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "altadis,vera sevilla,turismo,lujo,hotel,los remedios"
+        ],
+        "link": "https://www.elcorreoweb.es/sevilla/2025/11/29/hotel-lujo-vera-sevilla-los-remedios-altadis-124154284.html",
+        "date": "2025-11-29 06:02:05",
+        "sentiment_score": 0.4328196346759796
+    },
+    {
+        "title": "Más de 55.000 millones de euros de la economía española dependen del agua de los embalses",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9ff76f91-160e-4f6c-926f-5b35d7d3963b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "españa",
+            "infraestructuras",
+            "economía española",
+            "extremadura"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/11/29/55-000-millones-euros-economia-124256770.html",
+        "date": "2025-11-29 06:00:59",
+        "sentiment_score": -0.1672879084944725
+    },
+    {
+        "title": "Córdoba se corona como Capital Mediterránea de la Cultura y el Diálogo para 2027",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/28/6929abd93a7c8.jpeg",
+        "tags": [
+            "córdoba"
+        ],
+        "link": "https://www.cope.es/emisoras/andalucia/cordoba-provincia/cordoba/noticias/cordoba-corona-capital-mediterranea-cultura-dialogo-2027-20251128_3261911.html",
+        "date": "2025-11-29 06:00:00",
+        "sentiment_score": 0.02268359065055847
+    },
+    {
+        "title": "La pizzería de Almuñécar que repite hazaña: Gnomo vuelve a la Final del Campeonato de España de Pizzas",
+        "image_url": "https://static.grupojoly.com/clip/3d6b538d-0e75-4532-a682-983cbe27ea4b_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "qué hacer en granada",
+            "qué ver en granada"
+        ],
+        "link": "https://www.granadahoy.com/vivir/pizzeria-gnomo-almunecar-campeonato-espana-pizzas_0_2005337528.html",
+        "date": "2025-11-29 05:30:48",
+        "sentiment_score": 0.6938063278794289
+    },
+    {
+        "title": "Condenado un juez de paz por falsificar un documento",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "juez",
+            "documento",
+            "condenado",
+            "falsificar",
+            "paz"
+        ],
+        "link": "https://www.noticiasdenavarra.com/actualidad/2025/11/29/condenado-juez-paz-falsificar-documento-10411846.html",
+        "date": "2025-11-29 05:30:09",
+        "sentiment_score": -0.08935272693634033
     }
 ];
