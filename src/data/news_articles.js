@@ -2839,5 +2839,241 @@ export default [
         "link": "https://www.elconfidencialdigital.com/articulo/medios/doraemon-nobita-celebran-uvas-madrid-episodio-inedito/20251128223039991833.html",
         "date": "2025-11-28 21:30:39",
         "sentiment_score": 0.06926886737346649
+    },
+    {
+        "title": "Copa Libertadores: ¿por qué la alegría es solo brasileña?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/11/28/copa-libertadores-2025-final-flamengo-palmeiras-orix/",
+        "date": "2025-11-29 02:03:40",
+        "sentiment_score": -0.10493820905685425
+    },
+    {
+        "title": "Carlos Bonilla, presidente de la D.O. La Mancha: \"El primer vino que ofrece el camarero debería ser de nuestra tierra\"",
+        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744032689_260186242_1706x960.jpg",
+        "tags": [
+            "entrevistas",
+            "región",
+            "vino"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20251129/carlos-bonilla-presidente-do-mancha-primer-vino-ofrece-camarero-deberia-tierra/1003744032675_0.html",
+        "date": "2025-11-29 02:00:00",
+        "sentiment_score": -0.64023856818676
+    },
+    {
+        "title": "Los libros favoritos de Dua Lipa llegan a las bibliotecas públicas de Bogotá: podrá acceder gratis a las obras recomendadas por la artista",
+        "image_url": "https://www.infobae.com/resizer/v2/PVDFAS2VHFHNFIY5HHANFZIIEY.png?auth=c93ec9871ba75c8630cdedcd104d7f4f9c915d8797765e90c050b770a8c3dac5&height=505&smart=true&width=900",
+        "tags": [
+            "lecturas recomendadas",
+            "dua lipa en colombia",
+            "biblored",
+            "colombia-noticias",
+            "dua lipa",
+            "bibliotecas públicas de bogotá",
+            "service95",
+            "club de lectura",
+            "la amiga estupenda",
+            "la mala costumbre"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/11/29/los-libros-favoritos-de-dua-lipa-llegan-a-las-bibliotecas-publicas-de-bogota-podra-acceder-gratis-a-las-obras-recomendadas-por-la-artista/",
+        "date": "2025-11-29 01:38:34",
+        "sentiment_score": 0.7085526566952467
+    },
+    {
+        "title": "Deportes | Silva: \"Nos faltó una chispa más\"",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1728990.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/andre-silva-nos-falto-una-chispa-mas",
+        "date": "2025-11-29 01:20:57",
+        "sentiment_score": -0.15725910663604736
+    },
+    {
+        "title": "Puente de Vallecas pierde a sus jóvenes entre la delincuencia y la heroína: \"Vendiendo droga, ganan 2.000 € al mes\"",
+        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744034751_260213813_1706x960.jpg",
+        "tags": [
+            "vallecas",
+            "sociedad",
+            "madrid",
+            "drogas"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251129/puente-vallecas-pierde-jovenes-delincuencia-heroina-vendiendo-droga-ganan-eur-mes/1003744034750_0.html",
+        "date": "2025-11-29 01:05:00",
+        "sentiment_score": -0.8762383898720145
+    },
+    {
+        "title": "Sergio Ramos sacude el mercado: ¿MLS, Arabia Saudí o Europa?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/19/2025021904534570167.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/sergio-ramos-sacude-mercado-mls-arabia-saudi-europa/20251129020126364966.html",
+        "date": "2025-11-29 01:01:26",
+        "sentiment_score": -0.061096563935279846
+    },
+    {
+        "title": "El PP cree que las revelaciones de Ábalos son \"imposibles de remontar\" para Pedro Sánchez: \"Le ha dado en su punto más débil\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
+        "tags": [
+            "pp",
+            "koldo garcía",
+            "santos cerdán",
+            "corrupción",
+            "psoe",
+            "josé luis ábalos",
+            "pedro sánchez",
+            "alberto núñez feijóo",
+            "artículos juanma lamet",
+            "víctor de  aldama"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/29/6929ed67e85ece20188b4593.html",
+        "date": "2025-11-29 00:45:20",
+        "sentiment_score": -0.8922320203855634
+    },
+    {
+        "title": "28 NOV 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/28-nov-2025-partidazo-cope-20251129_3262142.html",
+        "date": "2025-11-29 00:35:00",
+        "sentiment_score": 0.0527501255273819
+    },
+    {
+        "title": "A García Montero se le ve el plumero",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/08/27/64eaf42f84ef1.png",
+        "tags": [
+            "tribuna"
+        ],
+        "link": "https://www.eldebate.com/opinion/tribuna/20251129/garcia-montero-le-ve-plumero_360205.html",
+        "date": "2025-11-29 00:30:00",
+        "sentiment_score": -0.26060977578163147
+    },
+    {
+        "title": "\"O Rei\" de Brasil: Palmeiras y Flamengo van por el tetracampeonato de la Libertadores",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/28201639/AFP__20251128__86J96RN__v1__HighRes__FblLibertadoresPalmeirasFlamengoTraining-2560x1707.jpg",
+        "tags": [
+            "flamengo",
+            "palmeiras",
+            "libertadores",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.elnacional.com/2025/11/o-rei-de-brasil-palmeiras-y-flamengo-van-por-el-tetracampeonato-de-la-libertadores/",
+        "date": "2025-11-29 00:18:34",
+        "sentiment_score": -0.13634203374385834
+    },
+    {
+        "title": "La vuelta de la peste porcina pone en riesgo casi 3.700 millones en exportaciones",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/29/4752948-RpCHcpzwuvbXl24sfayeI2M-1200x840@diario_abc.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.abc.es/economia/peste-porcina-vuelve-espana-pone-riesgo-3700-20251129195315-nt.html",
+        "date": "2025-11-29 02:12:59",
+        "sentiment_score": -0.6402246691286564
+    },
+    {
+        "title": "El edificio de madera español premiado como el mejor del mundo: usa pino carbonizado contra la humedad y el fuego",
+        "image_url": "https://s3.elespanol.com/2025/11/19/omicrono/tecnologia/1003744021173_260033578_1706x960.jpg",
+        "tags": [
+            "construcción",
+            "materiales",
+            "edificios",
+            "tecnología",
+            "arquitectura",
+            "diseño"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20251129/edificio-madera-espanol-premiado-mejor-mundo-usa-pino-carbonizado-humedad-fuego/1003744020777_0.html",
+        "date": "2025-11-29 01:49:49",
+        "sentiment_score": 0.5774150211364031
+    },
+    {
+        "title": "Detectados en España los dos primeros casos de peste porcina africana desde 1994",
+        "image_url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1764331336.jpg",
+        "tags": [
+            "health"
+        ],
+        "link": "https://www.cronicabalear.es/mallorca/2025-11-28/detectados-en-espana-los-dos-primeros-casos-de-peste-porcina-africana-desde-1994/",
+        "date": "2025-11-29 01:42:36",
+        "sentiment_score": 0.09317710250616074
+    },
+    {
+        "title": "Las peores personas que has conocido",
+        "image_url": "https://s1.staticld.com/2025/09/10/pablo-iglesias-irene-montero-beso-06112022.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-11-29/diego-gonzalez-las-peores-personas-que-has-conocido-7326615/",
+        "date": "2025-11-29 01:39:21",
+        "sentiment_score": -0.8423652881756425
+    },
+    {
+        "title": "Feijóo presiona a Sánchez Llibre para que convenza a Junts de que apoye una moción de censura para ir a las urnas",
+        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744035031_260217595_1706x1136.jpg",
+        "tags": [
+            "pedro sánchez",
+            "moción de censura",
+            "fomento del trabajo nacional",
+            "macroeconomía",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20251129/feijoo-presiona-sanchez-llibre-convenza-junts-apoye-mocion-censura-ir-urnas/1003744034833_0.html",
+        "date": "2025-11-29 01:37:28",
+        "sentiment_score": 0.3318789154291153
+    },
+    {
+        "title": "Llega el 'radar' de infecciones de transmisión sexual: la 'app' que rastrea de manera anónima posibles contagios",
+        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744034989_260216964_1706x960.jpg",
+        "tags": [
+            "sanidad - actualidad sanitaria",
+            "enfermedades de transmisión sexual",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20251129/llega-radar-infecciones-transmision-sexual-app-rastrea-manera-anonima-posibles-contagios/1003744033839_0.html",
+        "date": "2025-11-29 01:15:00",
+        "sentiment_score": -0.6217790320515633
+    },
+    {
+        "title": "El cantante Antonio Orozco se reinventa tras superar dos quiebras: Cambio radical en su vida",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://elcierredigital.com/cultura/cantante-antonio-orozco-reinventa-superar-quiebras-cambio-radical",
+        "date": "2025-11-29 01:00:00",
+        "sentiment_score": -0.7387065961956978
+    },
+    {
+        "title": "De 'Últimas tardes con Teresa' a 'El día del Watusi': las diez novelas que mejor retratan el alma de Barcelona",
+        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744033522_260196474_1706x960.jpg",
+        "tags": [
+            "barcelona",
+            "escritores",
+            "libros",
+            "letras"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251129/ultimas-tardes-teresa-dia-watusi-novelas-mejor-retratan-alma-barcelona/1003744028515_0.html",
+        "date": "2025-11-29 01:00:00",
+        "sentiment_score": 0.17856141924858093
+    },
+    {
+        "title": "En el laboratorio donde una startup creó el sonido inmersivo de 'Lo imposible' y nació la historia de Dolby Atmos",
+        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744035347_260222329_1706x960.jpg",
+        "tags": [
+            "imagen y sonido",
+            "industria tecnológica",
+            "gran empresa",
+            "innovación",
+            "sector audiovisual"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20251129/laboratorio-startup-creo-sonido-inmersivo-imposible-nacio-historia-dolby-atmos/1003744024085_0.html",
+        "date": "2025-11-29 00:34:00",
+        "sentiment_score": 0.5863927155733109
     }
 ];
