@@ -1,469 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid se blinda y tumba al líder Hapoel",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/aaad2006-47d8-40b7-b1805587272599d3.jpg",
-        "tags": [
-            "euroliga",
-            "real madrid",
-            "sergio scariolo",
-            "eurocup"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zc4ef3614-f7c9-4781-8123a7300d56e77c/202511/el-real-madrid-se-blinda-y-tumba-al-lider-hapoel",
-        "date": "2025-11-25 22:08:14",
-        "sentiment_score": 0.5837173461914062
-    },
-    {
-        "title": "Así queda la clasificación de la Champions League tras la derrota del Barcelona ante el Chelsea",
-        "image_url": "https://okdiario.com/img/2025/11/25/imagen_recortada-2025-11-25t230036.589.jpg",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "villarreal club de fútbol",
-            "fc barcelona",
-            "athletic club de bilbao"
-        ],
-        "link": "https://okdiario.com/deportes/asi-queda-clasificacion-champions-league-derrota-del-barcelona-chelsea-15828410",
-        "date": "2025-11-25 22:01:47",
-        "sentiment_score": -0.9137520790100098
-    },
-    {
-        "title": "Así se destapó la identidad de Martiño en Cuba: un descuido, un rostro familiar entre la multitud y una despedida telefónica",
-        "image_url": "https://phantom-elmundo.uecdn.es/1664d66a64e0a740532b323a8612f8a3/crop/1062x130/2148x1217/f/image/jpeg/assets/multimedia/imagenes/2025/10/02/17594246983601.jpg",
-        "tags": [
-            "sucesos",
-            "artículos juan b. cañellas",
-            "nlpremium",
-            "agresiones sexuales"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/25/692607c6fc6c83cc408b45d3.html",
-        "date": "2025-11-25 21:34:25",
-        "sentiment_score": -0.6622629389166832
-    },
-    {
-        "title": "Hostelería clama contra el recorte horario de las terrazas de Santander en su gala anual",
-        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2025/11/25/foto-familia-hosteleria-U240352951838etG-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "asociación de hostelería de cantabria",
-            "santander",
-            "hostelería",
-            "cantabria (provincia)"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/hosteleria-clama-recorte-horario-terrazas-santander-gala-20251125223059-nt.html",
-        "date": "2025-11-25 21:30:59",
-        "sentiment_score": -0.1528804451227188
-    },
-    {
-        "title": "\"El talento es el motor económico más valioso\"",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/0f3e479a1b2a99c3e83de7962d9d7eae/crop/0x207/2048x1572/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/25/17641044460370.jpg",
-        "tags": [
-            "nea>",
-            "empleo>",
-            "desarrollo de carrera>"
-        ],
-        "link": "https://www.expansion.com/expansion-empleo/2025/11/25/69261562e5fdea73798b45c3.html",
-        "date": "2025-11-25 21:16:14",
-        "sentiment_score": 0.7224410176277161
-    },
-    {
-        "title": "Castilla-La Mancha se queda en blanco y no suma ninguna nueva estrella Michelin a su firmamento",
-        "image_url": "https://s3.elespanol.com/2025/11/25/actualidad/1003744029607_260144837_1706x960.jpg",
-        "tags": [
-            "gastronomía",
-            "estrellas michelin",
-            "castilla-la mancha"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/vivir/gastro/20251125/castilla-la-mancha-queda-blanco-no-suma-ninguna-estrella-michelin-firmamento/1003744029613_0.html",
-        "date": "2025-11-25 21:14:52",
-        "sentiment_score": 0.6139634028077126
-    },
-    {
-        "title": "España cierra el Europeo Paralímpico de tenis de mesa con dos nuevas platas en dobles",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251125221347_690.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/noticia-espana-cierra-europeo-paralimpico-tenis-mesa-dos-nuevas-platas-dobles-20251125221347.html",
-        "date": "2025-11-25 21:13:47",
-        "sentiment_score": 0.3080604039132595
-    },
-    {
-        "title": "El mapa con todas las Estrellas de la Guía Michelin 2026",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/11/25/69259ac718fd90-50512939.r_d.590-312.jpeg",
-        "tags": [
-            "restaurantes"
-        ],
-        "link": "https://www.20minutos.es/gastronomia/restaurantes/mapa-todos-restaurantes-guia-michelin-espana-2026_5656084_0.html",
-        "date": "2025-11-25 21:07:48",
-        "sentiment_score": -0.01228669285774231
-    },
-    {
-        "title": "El gobierno local de Langreo exige al Principado una solución para la escultura \"Marea roja\" tras su deterioro",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/005405ff-e216-4b03-8164-d5e16a576dce_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "escultura",
-            "arte",
-            "restauración"
-        ],
-        "link": "https://www.lne.es/cuencas/2025/11/25/gobierno-local-langreo-exige-principado-124113897.html",
-        "date": "2025-11-25 21:01:13",
-        "sentiment_score": -0.44380878657102585
-    },
-    {
-        "title": "El difícil retorno de los exiliados",
-        "image_url": "https://static.eldiario.es/clip/31c022c8-d4ca-4eac-a90c-a7b77deaa472_16-9-discover-aspect-ratio_default_0_x1666y448.jpg",
-        "tags": [
-            "dificil",
-            "retorno",
-            "exiliados"
-        ],
-        "link": "https://www.eldiario.es/sociedad/dificil-retorno-exiliados_1_12769589.html",
-        "date": "2025-11-25 20:55:32",
-        "sentiment_score": -0.10883587598800659
-    },
-    {
-        "title": "Noche negra para el Barça en Stamford Bridge: los de Flick tocan fondo en Europa",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/25/culemania/primer-equipo/1003742710885_15448239_1706x960.jpg",
-        "tags": [
-            "josep maria bartomeu",
-            "primer equipo",
-            "joan laporta",
-            "champions league",
-            "hansi flick"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251125/noche-negra-barca-stamford-bridge-flick-europa/1003742710880_0.html",
-        "date": "2025-11-25 22:18:41",
-        "sentiment_score": 0.2728240489959717
-    },
-    {
-        "title": "El Barça naufraga en Stamford Bridge",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/25/Clipboard-0259-k2aD-U240350624846fbG-1200x840@RC.jpg",
-        "tags": [
-            "f.c. barcelona",
-            "champions league"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-campeones/cronica-chelsea-barcelona-champions-jornada5-20251125182329-ntrc.html",
-        "date": "2025-11-25 22:15:39",
-        "sentiment_score": -0.8593151178210974
-    },
-    {
-        "title": "Así fueron los goles de la goleada del Chelsea al Barcelona",
-        "image_url": "https://okdiario.com/img/2025/11/25/imagen_recortada-6.jpg",
-        "tags": [
-            "barcelona",
-            "fc barcelona",
-            "chelsea",
-            "deportes",
-            "champions league"
-        ],
-        "link": "https://okdiario.com/deportes/asi-fueron-goles-goleada-del-chelsea-barcelona-15829285",
-        "date": "2025-11-25 22:12:44",
-        "sentiment_score": 0.10228955745697021
-    },
-    {
-        "title": "Araujo complica la vida al Barça en Londres",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/b553ce93-6380-45d9-83a9b0fda3652883.jpg",
-        "tags": [
-            "fc barcelona",
-            "andrés iniesta",
-            "hansi flick",
-            "chelsea fc",
-            "inter de milán",
-            "roma",
-            "milán",
-            "psg",
-            "lamine yamal",
-            "champions league",
-            "frenkie de jong",
-            "ronald araujo",
-            "londres",
-            "ferran torres"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z46288282-4522-49f8-8970403093f660a3/202511/araujo-complica-la-vida-al-barca-en-londres",
-        "date": "2025-11-25 22:12:31",
-        "sentiment_score": -0.9143006075173616
-    },
-    {
-        "title": "El Athletic suma un punto insuficiente en Praga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c75279fa-093f-44ad-9a7b-a3224374b12a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "champions league",
-            "athletic club",
-            "fútbol"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2025/11/25/athletic-suma-punto-insuficiente-praga-124125548.html",
-        "date": "2025-11-25 22:12:26",
-        "sentiment_score": -0.45300158858299255
-    },
-    {
-        "title": "El Athletic suma un punto insuficiente en Praga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c75279fa-093f-44ad-9a7b-a3224374b12a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "champions league",
-            "fútbol",
-            "athletic club"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/11/25/athletic-suma-punto-insuficiente-praga-124125531.html",
-        "date": "2025-11-25 22:12:20",
-        "sentiment_score": -0.7287909053266048
-    },
-    {
-        "title": "Recuento final: ¿cómo han quedado este año las estrellas Michelin en Cataluña?",
-        "image_url": "https://static1.ara.cat/clip/36d9c733-ddaa-43cd-8172-bd7fc0634189_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cataluna",
-            "recuento",
-            "michelin",
-            "final",
-            "estrellas",
-            "quedado",
-            "han",
-            "ano"
-        ],
-        "link": "https://es.ara.cat/comer/recuento-final-han-quedado-ano-estrellas-michelin-cataluna_1_5573565.html",
-        "date": "2025-11-25 22:11:48",
-        "sentiment_score": 0.0582098662853241
-    },
-    {
-        "title": "La medida del Pentágono contra el héroe de guerra Kelly demuestra que la sed de venganza de Trump no tiene fin",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/df/media_thumb-link-4120522.webp?1764056166=",
-        "tags": [
-            "kelly",
-            "trump",
-            "guerra",
-            "héroe",
-            "politica",
-            "venganza",
-            "medida",
-            "pentágono"
-        ],
-        "link": "https://www.meneame.net/story/medida-pentagono-contra-heroe-guerra-kelly-demuestra-sed-trump",
-        "date": "2025-11-26 02:05:02",
-        "sentiment_score": -0.7661733254790306
-    },
-    {
-        "title": "Los jóvenes españoles en Países Bajos denuncian el abuso de las agencias de empleo",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/e0/media_thumb-link-4120666.webp?1764083646=",
-        "tags": [
-            "españa",
-            "actualidad",
-            "inmigrantes",
-            "países bajos",
-            "inmigración",
-            "jóvenes"
-        ],
-        "link": "https://www.meneame.net/story/jovenes-espanoles-paises-bajos-denuncian-abuso-agencias-empleo",
-        "date": "2025-11-25 23:00:04",
-        "sentiment_score": -0.745180232450366
-    },
-    {
-        "title": "El Barcelona es aplastado por el Chelsea en Champions",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/11/a-1-1.jpg",
-        "tags": [
-            "25nov",
-            "fútbol",
-            "fc barcelona",
-            "champions",
-            "deportes"
-        ],
-        "link": "https://laverdaddemonagas.com/2025/11/25/barcelona-12/",
-        "date": "2025-11-26 01:36:39",
-        "sentiment_score": -0.7837933860719204
-    },
-    {
-        "title": "Los protagonistas de un sistema en efervescencia",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/dcf9d232d43691172af7e8ada445b9f9/f/webp/assets/multimedia/imagenes/2025/11/21/17637150495224.jpg",
-        "tags": [
-            "los protagonistas de un sistema en efervescencia"
-        ],
-        "link": "https://www.expansion.com/especiales/2025/11/26/69202810e5fdea437d8b4593.html",
-        "date": "2025-11-26 01:30:17",
-        "sentiment_score": 0.7790653631091118
-    },
-    {
-        "title": "Guitarra en mano y con una icónica canción de rock: el sentido homenaje de Mastantuono a Maradona en el aniversario de su muerte",
-        "image_url": "https://www.infobae.com/resizer/v2/JTDX7Y2VZJFI7GFGUE42J5QCEA.jpg?auth=3c712aec1e06e8e168421233de51e12d7e6c0912bb113dc5419547491470040d&height=1080&smart=true&width=1920",
-        "tags": [
-            "real madrid",
-            "diego maradona",
-            "selección argentina",
-            "river plate",
-            "franco mastantuono",
-            "boca juniors"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/26/guitarra-en-mano-y-con-una-iconica-cancion-de-rock-el-sentido-homenaje-de-mastantuono-a-maradona-en-el-aniversario-de-su-muerte/",
-        "date": "2025-11-26 00:44:41",
-        "sentiment_score": 0.3372006118297577
-    },
-    {
-        "title": "La inesperada declaración del Cholo Simeone sobre su futuro antes del duelo por Champions entre el Atlético de Madrid y el Inter",
-        "image_url": "https://www.infobae.com/resizer/v2/LDWGUB6FUVCYHICU2S27C67MEA.JPG?auth=73eb5107ea5c4007a16e0dd6b3677db41e718a54310ad26cb4abc461c3541237&height=2245&smart=true&width=3302",
-        "tags": [
-            "atlético de madrid",
-            "diego simeone",
-            "deportes-argentina",
-            "deportes-internacional",
-            "inter de milán"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/26/la-inesperada-declaracion-del-cholo-simeone-sobre-su-futuro-antes-del-duelo-por-champions-entre-el-atletico-de-madrid-y-el-inter/",
-        "date": "2025-11-26 00:16:04",
-        "sentiment_score": 0.17231718264520168
-    },
-    {
-        "title": "El sorprendente optimismo de Hansi Flick tras complicarse el Top8 de la Champions: palo a Araujo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/26/culemania/primer-equipo/1003742710916_15448723_1706x960.jpg",
-        "tags": [
-            "primer equipo",
-            "champions league",
-            "hansi flick"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251126/sorprendente-hansi-flick-complicarse-top8-champions-araujo/1003742710907_0.html",
-        "date": "2025-11-25 23:59:29",
-        "sentiment_score": -0.05115121603012085
-    },
-    {
-        "title": "Makro cuenta con cuatro nuevos camiones 100% eléctricos en sus rutas de distribución de última milla en las islas Canarias",
-        "image_url": "https://cdn.diariodeavisos.com/wp-content/uploads/2025/11/Makro-1024x682.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2025/11/makro-camiones-islas-canarias/",
-        "date": "2025-11-25 23:48:54",
-        "sentiment_score": 0.4347939267754555
-    },
-    {
-        "title": "Cambio en alineación de Guardiola ‘fue demasiado’, y City cae ante Leverkusen en la Champions",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/11/CAMPEONES_MAN_CITY-GUARDIOLA_28939.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2025/11/25/cambio-en-alineacin-de-guardiola-fue-demasiado-y-city-cae-ante-leverkusen-en-la-champions/",
-        "date": "2025-11-25 23:25:46",
-        "sentiment_score": -0.4210520461201668
-    },
-    {
-        "title": "Da pelea en el Torneo Clausura y está cerca de jugar con Messi: el argentino que negocia para sumarse al Inter Miami",
-        "image_url": "https://www.infobae.com/resizer/v2/RZ7V6RDRPBCBHGBXJZPTO4TOFI.jpg?auth=58b7eae4c8247db36d4c1d89fffb2aec9bfd9f4a5696606050173aa9ce130674&height=3020&smart=true&width=4529",
-        "tags": [
-            "facundo mura",
-            "deportes-argentina",
-            "racing",
-            "lionel messi",
-            "inter miami"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/25/da-pelea-en-el-torneo-clausura-y-esta-cerca-de-jugar-con-messi-el-argentino-que-negocia-para-sumarse-al-inter-miami/",
-        "date": "2025-11-25 23:23:47",
-        "sentiment_score": 0.07223136723041534
-    },
-    {
-        "title": "Marcelino deja atónitos a todos tras perder 4-0 en Dortmund: «Sus ocasiones no existieron»",
-        "image_url": "https://okdiario.com/img/2025/11/25/imagen_recortada-2025-11-26t001139.584.jpg",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "villarreal club de fútbol",
-            "marcelino garcía toral",
-            "champions league"
-        ],
-        "link": "https://okdiario.com/deportes/marcelino-deja-atonitos-todos-perder-4-0-dortmund-sus-ocasiones-no-existieron-15829561",
-        "date": "2025-11-25 23:12:49",
-        "sentiment_score": -0.6189949586987495
-    },
-    {
-        "title": "La IA no es pasajera pero tardará en crear valor",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/25/6925bff35aec6.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20251126/11292514/ia-pasajera-tecnologias-informacion.html",
-        "date": "2025-11-26 02:00:00",
-        "sentiment_score": 0.4112864211201668
-    },
-    {
-        "title": "Critican a mamá de Blessd por aparición en su concierto en Bogotá: “Solo ahora que él es famoso”",
-        "image_url": "https://www.infobae.com/resizer/v2/FK24BMBVERF2DF3ESIPH65FLCY.jpg?auth=776fc4bf41f7d2c60877e8b112deb0a808cb611522c40f7d0a5f43802c2b7607&height=1080&smart=true&width=1920",
-        "tags": [
-            "mamá de blessd",
-            "el bendito",
-            "polémica familiar",
-            "blessd",
-            "colombia-noticias",
-            "reguetón",
-            "colombia-entretenimiento"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/11/26/critican-a-mama-de-blessd-por-aparicion-en-su-concierto-en-bogota-solo-ahora-que-el-es-famoso/",
-        "date": "2025-11-26 01:53:19",
-        "sentiment_score": 0.6650588773190975
-    },
-    {
-        "title": "Hacia un sistema energético más limpio, estable y competitivo",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/2a9b45cb5e3b5e2738ff8db602ed4421/f/webp/assets/multimedia/imagenes/2025/11/21/17637139287307.jpg",
-        "tags": [
-            "hacia un sistema energético más limpio, estable y competitivo"
-        ],
-        "link": "https://www.expansion.com/especiales/2025/11/26/692023af468aeb7a638b458d.html",
-        "date": "2025-11-26 01:31:00",
-        "sentiment_score": 0.6224676370620728
-    },
-    {
-        "title": "Los precios de la vivienda subirán un 7,8% en 2026 tras cerrar este año en un 13,7%",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/c4bcd5aa6ed8620a7f5b8e0132ce9ebc/crop/463x106/2032x1152/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/25/17640922480971.jpg",
-        "tags": [
-            "economía>",
-            "mercado inmobiliario>",
-            "artículos diego s. adelantado>"
-        ],
-        "link": "https://www.expansion.com/economia/2025/11/26/6925ea07468aebc2508b4574.html",
-        "date": "2025-11-26 01:18:24",
-        "sentiment_score": -0.47360943257808685
-    },
-    {
-        "title": "El dúo de electrónica Delaporte denuncia en sus redes sociales “un acto de violencia sexual inaceptable” hacia la cantante durante el concierto en Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/4DT7GIGN4ZH5HIWK2LD56DSQGE.jpg?auth=f024dddab4cf62c397f8c256aeae8a2721c28d77ad564b17848053f68d01c847&height=2000&smart=true&width=3000",
-        "tags": [
-            "españa-noticias",
-            "violencia sexual",
-            "música",
-            "españa-sociedad",
-            "agresión sexual",
-            "madrid",
-            "agresiones sexuales",
-            "música electrónica"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/26/el-duo-de-electronica-delaporte-denuncia-en-sus-redes-sociales-un-acto-de-violencia-sexual-inaceptable-hacia-la-cantante-durante-el-concierto-en-madrid/",
-        "date": "2025-11-26 01:01:11",
-        "sentiment_score": -0.6541560459882021
-    },
-    {
-        "title": "El discreto líder catalán de los quesos en España",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/22/6922186b0decd.r_d.3014-2024-785.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20251126/11292471/discreto-lider-catalan-quesos-espana.html",
-        "date": "2025-11-26 01:00:00",
-        "sentiment_score": 0.05918072164058685
-    },
-    {
-        "title": "El dilema de Orriols",
-        "image_url": "https://s1.staticld.com/2025/09/17/silviaorriols-170925.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2025-11-26/jose-garcia-dominguez-el-dilema-de-orriols-7324691/",
-        "date": "2025-11-26 00:41:56",
-        "sentiment_score": -0.8695879578590393
-    },
-    {
-        "title": "25 NOV 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/25-nov-2025-partidazo-cope-20251126_3259432.html",
-        "date": "2025-11-26 00:36:36",
-        "sentiment_score": -0.4190618768334389
-    },
-    {
         "title": "Las segundas partes son buenas para la Real Sociedad",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/95428edf-2b03-497c-9ce4-ce57e35bce8b_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -798,38 +334,6 @@ export default [
         "link": "https://www.economiadigital.es/empresas/brico-depot-iberia-crecimiento-tercer-trimestre-2025.html",
         "date": "2025-11-26 17:00:00",
         "sentiment_score": 0.03160783275961876
-    },
-    {
-        "title": "La medida del Pentágono contra el héroe de guerra Kelly demuestra que la sed de venganza de Trump no tiene fin",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/df/media_thumb-link-4120522.webp?1764056166=",
-        "tags": [
-            "kelly",
-            "trump",
-            "guerra",
-            "héroe",
-            "politica",
-            "venganza",
-            "medida",
-            "pentágono"
-        ],
-        "link": "https://www.meneame.net/story/medida-pentagono-contra-heroe-guerra-kelly-demuestra-sed-trump",
-        "date": "2025-11-26 02:05:02",
-        "sentiment_score": -0.7661730796098709
-    },
-    {
-        "title": "Los jóvenes españoles en Países Bajos denuncian el abuso de las agencias de empleo",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/e0/media_thumb-link-4120666.webp?1764083646=",
-        "tags": [
-            "españa",
-            "actualidad",
-            "inmigrantes",
-            "países bajos",
-            "inmigración",
-            "jóvenes"
-        ],
-        "link": "https://www.meneame.net/story/jovenes-espanoles-paises-bajos-denuncian-abuso-agencias-empleo",
-        "date": "2025-11-25 23:00:04",
-        "sentiment_score": -0.7451791372150183
     },
     {
         "title": "Mbappé: \"La gente habla mucho desde fuera, pero es normal cuando juegas en un club como el Madrid\"",
@@ -3076,5 +2580,214 @@ export default [
         "link": "https://www.noticiasdenavarra.com/actualidad/2025/11/29/condenado-juez-paz-falsificar-documento-10411846.html",
         "date": "2025-11-29 05:30:09",
         "sentiment_score": -0.08935272693634033
+    },
+    {
+        "title": "Rafa Nadal recibe una ovación histórica en Son Moix: el extenista ha sido distinguido con el primer Dimoni d'Honor",
+        "image_url": "https://www.hola.com/horizon/landscape/b84254c02fdb-saveclipapp516233261184951399240702564354205792868082542n.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "rafa nadal",
+            "actualidad"
+        ],
+        "link": "https://www.hola.com/actualidad/20251129870276/rafa-nadal-recibe-nuevo-premio-significado-muy-especial-dimoni-dhonor/",
+        "date": "2025-11-29 17:05:23",
+        "sentiment_score": -0.03063562512397766
+    },
+    {
+        "title": "Un Girona en zona roja pero al alza testa las dudas del Real Madrid",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/11/29/real-madrid-kGmH-U240397771910RiG-1200x840@RC.JPG",
+        "tags": [
+            "dudas",
+            "zona",
+            "roja",
+            "alza",
+            "real",
+            "testa",
+            "madrid",
+            "girona"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/girona-zona-roja-alza-testa-dudas-real-madrid-20251129180209-ntrc.html",
+        "date": "2025-11-29 17:03:31",
+        "sentiment_score": 0.08407291769981384
+    },
+    {
+        "title": "Un Girona en zona roja pero al alza testa las dudas del Real Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.diariosur.es/deportes/futbol/liga-primera/girona-zona-roja-alza-testa-dudas-real-madrid-20251129180209-ntrc.html",
+        "date": "2025-11-29 17:03:31",
+        "sentiment_score": -0.3510203957557678
+    },
+    {
+        "title": "Álex Martín, el soldado olvidado de Cervera",
+        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2025/11/29/alex-martin-cervera--758x531.jpeg",
+        "tags": [
+            "fútbol",
+            "córdoba",
+            "cádiz cf"
+        ],
+        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/alex-martin-soldado-olvidado-cervera-20251129174331-ntv.html",
+        "date": "2025-11-29 16:45:07",
+        "sentiment_score": 0.011829674243927002
+    },
+    {
+        "title": "Cómo va el Barcelona vs Alavés en directo: resultado y dónde ver gratis el partido de la Liga en el Camp Nou en vivo",
+        "image_url": "https://okdiario.com/img/2025/11/29/bar-1.jpg",
+        "tags": [
+            "deportivo alavés",
+            "barcelona",
+            "la liga",
+            "deportes",
+            "directo",
+            "fc barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/barcelona-vs-alaves-directo-resultado-donde-ver-gratis-partido-liga-camp-nou-vivo-15849913",
+        "date": "2025-11-29 16:31:10",
+        "sentiment_score": 0.3341219127178192
+    },
+    {
+        "title": "(Previa) Sevilla y Betis se enfrentan en un derbi de ausencias",
+        "image_url": "https://www.infobae.com/resizer/v2/5GK4RTMBNRETFO5ISLKO6MOF6A.jpg?auth=12e290727f6fd7fa11062f01f53e78eda25b3986eda173f7e3f1cc2fe707cc19&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/29/previa-sevilla-y-betis-se-enfrentan-en-un-derbi-de-ausencias/",
+        "date": "2025-11-29 16:15:33",
+        "sentiment_score": -0.1382223777472973
+    },
+    {
+        "title": "Feijóo rechaza llegar a la Moncloa mediante una moción de censura: \"Quiero que me elijan los españoles en las urnas\"",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/11/29/2025112917010635201.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/espana/feijoo-rechaza-llegar-moncloa-mocion-censura-quiero-que-elijan-espanoles-urnas/202511291708561420706.html",
+        "date": "2025-11-29 16:08:56",
+        "sentiment_score": -0.8932421682402492
+    },
+    {
+        "title": "Cuando la muralla de Lugo tenía casas adosadas y tráfico en dos direcciones",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/11/28/2025112818261726511.jpg",
+        "tags": [
+            "lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/lugo/muralla-casas-adosadas-trafico-dos-direcciones/202511281830491927757.html",
+        "date": "2025-11-29 16:00:00",
+        "sentiment_score": -0.0004784911870956421
+    },
+    {
+        "title": "María Teresa, 80 años, jubilada: \"Pago 1.300 euros de alquiler, cobro 840 de pensión, no llego y llevo unos siete años así\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2024/10/30/mujer-jubilada-mirando-ventana-1200-675.webp",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/maria-teresa-80nos-jubilada-pago-1300-euros-alquiler-cobro-840-pension-llego-llevo-sietenos-asi.html",
+        "date": "2025-11-29 17:06:01",
+        "sentiment_score": -0.9047874715179205
+    },
+    {
+        "title": "México suspende las importaciones de carne de cerdo de España por la peste porcina",
+        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2025/11/rss-efef832224891caa7db68e6345775845d33f6baa7adw.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "salud",
+            "enterate"
+        ],
+        "link": "https://holanews.com/mexico-suspende-las-importaciones-de-carne-de-cerdo-de-espana-por-la-peste-porcina/",
+        "date": "2025-11-29 17:04:48",
+        "sentiment_score": -0.763391550630331
+    },
+    {
+        "title": "Lamine Yamal hace historia en LaLiga y supera a Raúl González",
+        "image_url": "https://pxcdn.meridiano.net/112025/1764436234195.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/lamine-yamal-hace-historia-en-laliga-y-supera-a-raul-gonzalez-202511291340",
+        "date": "2025-11-29 17:04:00",
+        "sentiment_score": 0.7272395342588425
+    },
+    {
+        "title": "Robo frustrado en Ciutat Vella: la Guardia Urbana detiene a dos ladrones de perfumes",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/29/ciutat-vella/1003742712039_15462985_1706x960.jpg",
+        "tags": [
+            "robos",
+            "guardia urbana",
+            "delincuencia",
+            "ciutat vella",
+            "el raval"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/ciutat-vella/20251129/robo-frustrado-ciutat-vella-guardia-urbana-detiene-ladrones-perfumes/1003742712035_0.html",
+        "date": "2025-11-29 17:03:05",
+        "sentiment_score": -0.35461123287677765
+    },
+    {
+        "title": "Nacho Abad, criminólogo, sobre el asesinato de Helena Jubany : \"En la parte posterior del jersey se ha encontrado ADN de Santiago de la Iglesia\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/28/69299c32b61e0.webp",
+        "tags": [
+            "fin de semana"
+        ],
+        "link": "https://www.cope.es/programas/fin-de-semana/noticias/nacho-abad-criminologo-sobre-asesinato-helena-jubany-parte-posterior-jersey-encontrado-adn-santiago-iglesia-20251129_3262259.html",
+        "date": "2025-11-29 17:02:07",
+        "sentiment_score": -0.13667774200439453
+    },
+    {
+        "title": "El incidente de los aviones A320 causa un impacto limitado en el tráfico aéreo",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/29/692b259b02fee.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20251129/11315530/incidente-aviones-a320-causa-impacto-limitado-trafico-aereo.html",
+        "date": "2025-11-29 17:01:48",
+        "sentiment_score": 0.13065598905086517
+    },
+    {
+        "title": "¿Qué piensan los catalanes de la guerra?",
+        "image_url": "https://static1.ara.cat/clip/e944ab64-0b3a-462f-ab9c-0b3e223c6183_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "piensan",
+            "catalanes",
+            "guerra"
+        ],
+        "link": "https://es.ara.cat/politica/piensan-catalanes-guerra_129_5577841.html",
+        "date": "2025-11-29 17:00:37",
+        "sentiment_score": -0.3455338478088379
+    },
+    {
+        "title": "El Dakar se da un baño de masas en Santa Susanna y su director avisa de los mayores peligros de la carrera: \"No sé si les gustará esta etapa, pero seguro que la van a recordar\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/11/29/692b20d7a6e13.jpeg",
+        "tags": [
+            "dakar"
+        ],
+        "link": "https://www.mundodeportivo.com/motor/rally-dakar/20251129/1002578222/dakar-da-bano-masas-santa-susanna-director-avisa-mayores-peligros-carrera-se-les-gustara-etapa-seguro-recordar.html",
+        "date": "2025-11-29 17:00:14",
+        "sentiment_score": 0.6769661456346512
+    },
+    {
+        "title": "Jorge, empresario, revela un dato sorprendente sobre sus camioneros internacionales: “Solo por pisar un barco ya se llevan...”",
+        "image_url": "https://s3.elespanol.com/2025/11/29/actualidad/1003744035386_260222972_1706x960.jpg",
+        "tags": [
+            "salarios",
+            "motor",
+            "camioneros"
+        ],
+        "link": "https://www.elespanol.com/motor/20251129/jorge-empresario-revela-dato-sorprendente-camioneros-internacionales-solo-pisar-barco-llevan/1003744035384_0.html",
+        "date": "2025-11-29 17:00:00",
+        "sentiment_score": 0.5769315548241138
+    },
+    {
+        "title": "España se arriesga a perder 9.000 millones de € en exportaciones por la reaparición de la peste porcina",
+        "image_url": "https://okdiario.com/img/2025/11/29/granja.jpg",
+        "tags": [
+            "carne",
+            "economía",
+            "españa",
+            "exportaciones"
+        ],
+        "link": "https://okdiario.com/economia/gran-golpe-peste-porcina-espana-peligran-9-000-millones-exportaciones-nivel-mundial-15851193",
+        "date": "2025-11-29 16:58:15",
+        "sentiment_score": -0.8937117643654346
     }
 ];
