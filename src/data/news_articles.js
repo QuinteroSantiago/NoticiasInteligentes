@@ -1,110 +1,5 @@
 export default [
     {
-        "title": "Las segundas partes son buenas para la Real Sociedad",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/95428edf-2b03-497c-9ce4-ce57e35bce8b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "buenas",
-            "son",
-            "segundas",
-            "partes",
-            "real"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/11/26/segundas-partes-son-buenas-real-10396912.html",
-        "date": "2025-11-26 06:32:51",
-        "sentiment_score": -0.009195297956466675
-    },
-    {
-        "title": "Loles León actualiza el estado de salud de Antonio Resines tras conocerse su ingreso en la UCI: “Está deseando irse a tomar cañas”",
-        "image_url": "https://www.infobae.com/resizer/v2/44MIAH4LAVDEXLYOE3GHNKGA4M.jpg?auth=d48004c27763c855c788ddb8444b0ca26a3294c481f01c803e33c823fa0a774d&height=1080&smart=true&width=1920",
-        "tags": [
-            "antonio resines",
-            "loles león",
-            "famosos españa",
-            "españa-noticias",
-            "españa-entretenimiento",
-            "enfermedades de famosos",
-            "gente españa",
-            "corazón y estilo españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/26/loles-leon-actualiza-el-estado-de-salud-de-antonio-resines-tras-conocerse-su-ingreso-en-la-uci-esta-deseando-irse-a-tomar-canas/",
-        "date": "2025-11-26 06:22:58",
-        "sentiment_score": -0.10152570903301239
-    },
-    {
-        "title": "Xabi aterriza en el Partenón sin margen de error ni nadie que le defienda",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/53b757d0-c8d7-413a-be39-a4357b8a8996_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "olympiacos",
-            "champions league",
-            "xabi alonso",
-            "real madrid",
-            "fútbol"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/2025/11/26/xabi-aterriza-partenon-real-madrid-olympiacos-champions-league-124129544.html",
-        "date": "2025-11-26 06:18:17",
-        "sentiment_score": 0.2541874647140503
-    },
-    {
-        "title": "El Ministerio de Transportes rechaza la nueva petición de Asturias para anular el peaje de la autopista del Huerna: «Nadie lo ha declarado ilegal»",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/11/25/adrian-barbon-oscar-puente-RwT4jUvsUVAWj84YsDIuPyM-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "rechaza",
-            "peaje",
-            "transportes",
-            "declarado",
-            "asturias",
-            "ilegal",
-            "peticion",
-            "anular",
-            "nueva"
-        ],
-        "link": "https://www.elcomercio.es/asturias/ministerio-transportes-rechaza-anular-peaje-autopista-huerna-20251125194312-nt.html",
-        "date": "2025-11-26 06:12:28",
-        "sentiment_score": -0.6403794772922993
-    },
-    {
-        "title": "El club de una villa contra el de una isla",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fbf2ec21-33ee-44ba-a65a-e594daeb9f96_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "goles",
-            "copa federación",
-            "isla",
-            "tenerife"
-        ],
-        "link": "https://www.eldia.es/deportes/cd-tenerife/2025/11/26/club-villa-isla-124126441.html",
-        "date": "2025-11-26 06:01:13",
-        "sentiment_score": -0.1544237732887268
-    },
-    {
-        "title": "La autopsia a la niña de 6 años fallecida en Valencia no detecta ninguna causa directa de la muerte",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1cdb2436-73ea-4c6f-bcc8-a7180b1b8c73_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "valencia"
-        ],
-        "link": "https://www.superdeporte.es/sucesos/2025/11/26/autopsia-nina-6-anos-fallecida-124129743.html",
-        "date": "2025-11-26 06:34:33",
-        "sentiment_score": -0.786116149276495
-    },
-    {
-        "title": "Lo que debes saber hoy, 26 de noviembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/11/vivir-en-barcelona/1003742706368_15389774_1706x960.jpg",
-        "tags": [
-            "transports metropolitans barcelona tmb",
-            "transporte",
-            "tráfico",
-            "renfe barcelona",
-            "metro barcelona",
-            "clima",
-            "el tiempo",
-            "movilidad",
-            "aemet (agencia estatal de meteorología)",
-            "autobús"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251126/debes-saber-hoy-noviembre-barcelona/1003742710918_0.html",
-        "date": "2025-11-26 06:24:53",
-        "sentiment_score": 0.50482277572155
-    },
-    {
         "title": "El hub de ArcelorMittal, Iberia y Repsol crea 10 soluciones tecnológicas para descarbonizar la industria",
         "image_url": "https://okdiario.com/img/2025/11/26/imagen_recortada-94.jpg",
         "tags": [
@@ -2789,5 +2684,192 @@ export default [
         "link": "https://okdiario.com/economia/gran-golpe-peste-porcina-espana-peligran-9-000-millones-exportaciones-nivel-mundial-15851193",
         "date": "2025-11-29 16:58:15",
         "sentiment_score": -0.8937117643654346
+    },
+    {
+        "title": "El Atlético hace historia por la vía rápida",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/29/sorloth-oviedo-kciC-U2404000203175GC-1200x840@RC.JPG",
+        "tags": [
+            "jan oblak",
+            "koke",
+            "oviedo",
+            "liga de fútbol profesional",
+            "atlético de madrid"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/atletico-historia-traves-mejor-version-20251129225531-ntrc.html",
+        "date": "2025-11-29 22:05:07",
+        "sentiment_score": 0.8479872494935989
+    },
+    {
+        "title": "El Oviedo se entrega en menos de media hora: derrota en su visita al Atleti",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/708269d2-8075-4a9d-be95-b2e784368e65_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real oviedo"
+        ],
+        "link": "https://www.lne.es/real-oviedo/2025/11/29/oviedo-entrega-media-hora-derrota-124274350.html",
+        "date": "2025-11-29 22:04:04",
+        "sentiment_score": -0.7853625379502773
+    },
+    {
+        "title": "Sorloth resuelve por la vía rápida y prolonga la racha triunfal del Atlético",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/29/692b69a7a4232.r_d.921-541-6250.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251129/sorloth-resuelve-via-rapida-prolonga-racha-triunfal-atletico_360417.html",
+        "date": "2025-11-29 22:03:40",
+        "sentiment_score": 0.7356065660715103
+    },
+    {
+        "title": "Ábalos reitera, a través de sus redes sociales, que es inocente",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/11/29/captura-de-pantalla-2025-11-29-224401.r_d.543-426-8878.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/11/29/abalos-reitera-a-traves-de-sus-redes-sociales-que-es-inocente-1874760-daa.html",
+        "date": "2025-11-29 22:02:02",
+        "sentiment_score": -0.072807677090168
+    },
+    {
+        "title": "El Atlético hace historia a través de su mejor versión",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/29/sorloth-oviedo-kciC-U2404000203175GC-1200x840@RC.JPG",
+        "tags": [
+            "liga de fútbol profesional",
+            "jan oblak",
+            "atlético de madrid",
+            "oviedo",
+            "koke"
+        ],
+        "link": "https://www.ideal.es/deportes/futbol/liga-primera/atletico-historia-traves-mejor-version-20251129225531-ntrc.html",
+        "date": "2025-11-29 21:55:53",
+        "sentiment_score": 0.8771973829716444
+    },
+    {
+        "title": "Los (pocos) hombres que aparcan el trabajo para cuidar de sus hijos: \"Soy padre antes que trabajador\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos daniela saltos"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/11/29/692491dbe4d4d8a97d8b4582.html",
+        "date": "2025-11-29 21:33:19",
+        "sentiment_score": -0.07025890052318573
+    },
+    {
+        "title": "Navarro sufre un esguince de tobillo “muy fuerte”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f041b7d1-2126-410a-aac4-7bcfa95d269f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fuerte",
+            "esguince",
+            "lesion",
+            "navarro",
+            "robert",
+            "tobillo"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/11/29/lesion-robert-navarro-esguince-tobillo-fuerte-10415178.html",
+        "date": "2025-11-29 21:31:26",
+        "sentiment_score": -0.3761717826128006
+    },
+    {
+        "title": "El DT de Real Madrid confirmó cuándo reaparecerá Franco Mastantuono tras la lesión que lo marginó de las canchas",
+        "image_url": "https://www.infobae.com/resizer/v2/F4VEG2XT6FEW7AE64DYFSTITRQ.jpg?auth=3320b984e938a6d52d090020fcea5716f6e40b1e0fea8de7c2712927f9f8ac33&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-argentina",
+            "real madrid",
+            "franco mastantuono",
+            "la liga de españa",
+            "xabi alonso",
+            "girona"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/29/el-dt-de-real-madrid-confirmo-cuando-reaparecera-franco-mastantuono-tras-la-lesion-que-lo-margino-de-las-canchas/",
+        "date": "2025-11-29 21:30:38",
+        "sentiment_score": 0.3095775134861469
+    },
+    {
+        "title": "LaLiga: Atlético de Madrid - Real Oviedo, en imágenes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/236de83d-6657-4384-be36-037955dc3c80_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "laliga",
+            "atlético de madrid",
+            "oviedo",
+            "atletico",
+            "real oviedo",
+            "fútbol",
+            "madrid",
+            "real"
+        ],
+        "link": "https://www.lacronicabadajoz.com/fotos/deportes/2025/11/29/laliga-atletico-madrid-real-oviedo-124275632.html",
+        "date": "2025-11-29 21:15:09",
+        "sentiment_score": -0.0036407336592674255
+    },
+    {
+        "title": "El Barça no entusiasma ni en el campo ni en los despachos: Laporta pierde adeptos y Flick se desespera",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/29/culemania/palco/1003742712107_15463920_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "camp nou",
+            "palco",
+            "barça",
+            "la liga",
+            "hansi flick"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251129/barca-entusiasma-despachos-laporta-adeptos-flick-desespera/1003742712103_0.html",
+        "date": "2025-11-29 22:16:06",
+        "sentiment_score": -0.5559641644358635
+    },
+    {
+        "title": "El jugador que echa de menos Gonzalo Miró en la victoria del Atlético: \"No entiendo\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/11/29/692b32515a971.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/jugador-echa-gonzalo-miro-victoria-atletico-venia-practicamente-titular-entiendo-20251129_3262292.html",
+        "date": "2025-11-29 22:07:59",
+        "sentiment_score": -0.05719071626663208
+    },
+    {
+        "title": "La gran fiesta de la natación asturiana regresa muchos años después: \"Queremos recuperar al deportista joven\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd9bdcce-8007-452e-98c4-b21cbd236350_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "federación",
+            "asturias",
+            "natación",
+            "jueces"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2025/11/30/gran-fiesta-natacion-asturiana-regresa-124275831.html",
+        "date": "2025-11-29 22:03:08",
+        "sentiment_score": 0.6552920937538147
+    },
+    {
+        "title": "Barcelona abre su pabellón en la FIL de Guadalajara (México) inspirado en las plazas porticadas",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251129223300.jpg?fit=1920%2C1440&ssl=1",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://cronicadecantabria.com/cr/barcelona-abre-su-pabelln-en-la-fil-de-guadalajara-mxico-inspirado-en-las-plazas-porticadas/",
+        "date": "2025-11-29 22:00:02",
+        "sentiment_score": 0.18416982889175415
+    },
+    {
+        "title": "Sörloth alarga el pleno del Atlético con doblete ante el Oviedo y avisa al Barça",
+        "image_url": "https://okdiario.com/img/2025/11/29/cronica-atletico-interior-1.jpg",
+        "tags": [
+            "real oviedo",
+            "atlético de madrid",
+            "deportes",
+            "la liga"
+        ],
+        "link": "https://okdiario.com/deportes/sorloth-alarga-pleno-del-atletico-doblete-oviedo-avisa-barca-15852276",
+        "date": "2025-11-29 21:56:52",
+        "sentiment_score": 0.47124961018562317
+    },
+    {
+        "title": "Lo más viral de la semana: El Miss Universo sigue dando de qué hablar",
+        "image_url": "https://static.wixstatic.com/media/cf263a_220c313f02ac4ea38e8fbb68aed0ab8e~mv2.png/v1/fit/w_1000,h_479,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-el-miss-universo-sigue-dando-de-qu%C3%A9-hablar",
+        "date": "2025-11-29 18:00:14",
+        "sentiment_score": 0.048453859984874725
     }
 ];
