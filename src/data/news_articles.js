@@ -2871,5 +2871,190 @@ export default [
         "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-el-miss-universo-sigue-dando-de-qu%C3%A9-hablar",
         "date": "2025-11-29 18:00:14",
         "sentiment_score": 0.048453859984874725
+    },
+    {
+        "title": "Juan José Laborda: \"Claro que Sánchez debería dimitir... de los cuatro del Peugeot, tres ya han pasado por ‘la perrera’\"",
+        "image_url": "https://s3.elespanol.com/2025/11/29/actualidad/1003744035739_260227350_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "política",
+            "presupuestos generales del estado",
+            "psoe (partido socialista obrero español)",
+            "congreso de los diputados",
+            "senado"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251130/juan-jose-laborda-claro-sanchez-deberia-dimitir-peugeot-pasado-perrera/1003744035400_0.html",
+        "date": "2025-11-30 01:43:02",
+        "sentiment_score": -0.8644020427018404
+    },
+    {
+        "title": "Filipe Luis vence a Vitor Roque en la batalla por la Copa Libertadores",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/30/2025113002393556606.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/filipe-luis-gana-partida-vitor-roque-copa-libertadores/20251130024023365109.html",
+        "date": "2025-11-30 01:40:23",
+        "sentiment_score": -0.6378139443695545
+    },
+    {
+        "title": "Barcelona toma el liderato provisional tras vencer al Alavés",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "126 años",
+            "alavés",
+            "3-1",
+            "barcelona",
+            "deportes"
+        ],
+        "link": "https://noticialdia.com/deportes/barcelona-toma-el-liderato-provisional-tras-vencer-al-alaves/",
+        "date": "2025-11-30 01:22:00",
+        "sentiment_score": 0.4541831314563751
+    },
+    {
+        "title": "La genial asistencia de Messi en la consagración del Inter Miami ante el New York City en la final de la Conferencia Este de la MLS",
+        "image_url": "https://www.infobae.com/resizer/v2/6TGIDIMB4JBGZHPBZNX7XKCSTY.png?auth=382c3356b6cd24ea23e0ec2f47de6c88d878516675889ede353e2aaa610062c3&height=1080&smart=true&width=1920",
+        "tags": [
+            "lionel messi",
+            "mateo silvetti",
+            "inter miami",
+            "new york city",
+            "mls"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/11/30/la-genial-asistencia-de-messi-en-la-consagracion-del-inter-miami-ante-el-new-york-city-en-la-final-de-la-conferencia-este-de-la-mls/",
+        "date": "2025-11-30 01:19:37",
+        "sentiment_score": 0.6942619942128658
+    },
+    {
+        "title": "La gratitud de Conmebol y Flamengo tras una nueva final de Copa Libertadores en Perú: “Gracias causitas”",
+        "image_url": "https://www.infobae.com/resizer/v2/X6OH2SCOI5CVFA3KEHU6PEUD4E.jpg?auth=29f541a814c932cd6a52ac27a526f6e2e50bd1b301b68a8313ff3bee6c970b62&height=1080&smart=true&width=1920",
+        "tags": [
+            "peru-deportes",
+            "flamengo",
+            "copa libertadores",
+            "estadio monumental",
+            "conmebol"
+        ],
+        "link": "https://www.infobae.com/peru/deportes/2025/11/30/la-gratitud-de-conmebol-y-flamengo-tras-una-nueva-final-de-copa-libertadores-en-peru-gracias-causitas/",
+        "date": "2025-11-30 01:12:44",
+        "sentiment_score": 0.8371857758611441
+    },
+    {
+        "title": "La prisión de Ábalos cierra la semana negra del PSOE: del efectivo a la 'fontanera', avanzan las investigaciones que rodean a los socialistas",
+        "image_url": "https://phantom-elmundo.uecdn.es/e4b82614f11963d1f015337db691d94e/f/image/jpeg/assets/multimedia/imagenes/2024/01/19/17056843364480.jpg",
+        "tags": [
+            "artículos manuel marraco",
+            "koldo garcía",
+            "josé luis ábalos",
+            "leire díez",
+            "víctor de  aldama"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/11/30/692b2a38fdddff8c2c8b4579.html",
+        "date": "2025-11-30 01:10:50",
+        "sentiment_score": -0.47809609211981297
+    },
+    {
+        "title": "Raphinha regresa al once y regala el liderato al Barcelona, que superó al Alavés",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://eltiempove.com/raphinha-regresa-al-once-y-regala-el-liderato-al-barcelona-que-supero-al-alaves/",
+        "date": "2025-11-30 00:45:00",
+        "sentiment_score": 0.6569339446723461
+    },
+    {
+        "title": "\"Adicto al sexo y a los coches de lujo\", \"encantador de serpientes\" y \"bipolar\": los excesos de Jordi Jr., el líder del clan de los Pujol",
+        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744035043_260217768_1706x960.jpg",
+        "tags": [
+            "audiencia nacional",
+            "oleguer pujol ferrusola",
+            "oriol pujol ferrusola",
+            "corrupción",
+            "jordi pujol i soley",
+            "jordi pujol ferrusola",
+            "marta ferrusola",
+            "josep pujol ferrusola",
+            "fiscalía anticorrupción",
+            "pere pujol ferrusola"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251130/adicto-sexo-coches-lujo-encantador-serpientes-bipolar-excesos-jordi-jr-lider-clan-pujol/1003744033869_0.html",
+        "date": "2025-11-30 00:40:00",
+        "sentiment_score": -0.01780262589454651
+    },
+    {
+        "title": "Antonio Alcoba, el cámara que guarda el secreto de la primera foto del chotis: \"Otros iban a por Franco; yo me iba por Madrid\"",
+        "image_url": "https://s3.elespanol.com/2025/11/28/madrid/1003744035040_260217723_1706x960.jpg",
+        "tags": [
+            "madrileños extraordinarios",
+            "sociedad",
+            "fotografía",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251130/antonio-alcoba-camara-guarda-secreto-primera-foto-chotis-iban-franco-iba-madrid/1003744033752_0.html",
+        "date": "2025-11-30 00:40:00",
+        "sentiment_score": 0.5983446910977364
+    },
+    {
+        "title": "Roberto Lara (Vodafone): “La seguridad no resta agilidad, la multiplica” ante el auge de los ciberataques impulsados por IA",
+        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027293_260115050_1706x960.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "vodafone",
+            "tecnología",
+            "ciberseguridad",
+            "wake up spain",
+            "innovación",
+            "branded",
+            "gran empresa",
+            "ataques informáticos"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20251130/roberto-lara-vodafone-seguridad-no-resta-agilidad-multiplica-auge-ciberataques-impulsados-ia/1003744027261_0.html",
+        "date": "2025-11-30 00:34:00",
+        "sentiment_score": 0.654215270653367
+    },
+    {
+        "title": "Sin líneas rojas",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lineas",
+            "rojas"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/lineas-rojas_0_2005349471.html",
+        "date": "2025-11-30 02:10:40",
+        "sentiment_score": -0.5706185847520828
+    },
+    {
+        "title": "Messi y el Inter Miami avanzan a final de MLS con goleada de 5-1 ante NYCFC",
+        "image_url": "https://dims.apnews.com/dims4/default/aace90b/2147483647/strip/true/crop/3651x2430+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb2%2F23%2F99f00947463818c9bc5e74688608%2F7f7beb0aaaee40b3b9a03da3dc01c503",
+        "tags": [
+            "deportes",
+            "sports",
+            "inter miami messi final mls"
+        ],
+        "link": "https://apnews.com/article/inter-miami-messi-final-mls-050dab81bdf7a2065969639e9a75d3ef",
+        "date": "2025-11-30 01:56:46",
+        "sentiment_score": -0.5883086510002613
+    },
+    {
+        "title": "Messi y el Inter Miami avanzan a final de MLS con goleada de 5-1 ante NYCFC",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/11/MLS-RESUMEN_21243.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/11/29/messi-y-el-inter-miami-avanzan-a-final-de-mls-con-goleada-de-5-1-ante-nycfc/",
+        "date": "2025-11-30 01:56:45",
+        "sentiment_score": 0.14047206938266754
+    },
+    {
+        "title": "Messi y el Inter Miami se coronan en el Este y avanzan a final de MLS con goleada de 5-1 ante NYCFC",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/11/MLS-RESUMEN_21243.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2025/11/29/messi-y-el-inter-miami-se-coronan-en-el-este-y-avanzan-a-final-de-mls-con-goleada-de-5-1-ante-nycfc/",
+        "date": "2025-11-30 01:56:45",
+        "sentiment_score": 0.14047206938266754
     }
 ];
