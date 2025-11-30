@@ -1,236 +1,5 @@
 export default [
     {
-        "title": "El hub de ArcelorMittal, Iberia y Repsol crea 10 soluciones tecnológicas para descarbonizar la industria",
-        "image_url": "https://okdiario.com/img/2025/11/26/imagen_recortada-94.jpg",
-        "tags": [
-            "empresas",
-            "arcelor mittal",
-            "arcelormittal",
-            "industria",
-            "repsol",
-            "economía",
-            "iberia"
-        ],
-        "link": "https://okdiario.com/economia/hub-arcelormittal-iberia-repsol-crea-10-soluciones-tecnologicas-descarbonizar-industria-15834149",
-        "date": "2025-11-26 17:11:23",
-        "sentiment_score": 0.5865406952798367
-    },
-    {
-        "title": "La nueva estrategia de Joan Soteras para mantenerse al frente de la Federación Catalana de Fútbol",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/07/23/6880ed9e0cf84.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/20251126/nueva-estrategia-joan-soteras-mantenerse-frente-federacion-catalana-futbol_359389.html",
-        "date": "2025-11-26 17:11:16",
-        "sentiment_score": 0.25606488436460495
-    },
-    {
-        "title": "Castilla-La Mancha conserva sus 13 Estrellas Michelin: Conoce los mejores restaurantes de la región",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/EuropaPress_7126209_momento_gala_presentacion_guia_michelin_2026-1095x730.jpg",
-        "tags": [
-            "restaurantes",
-            "gastronomía",
-            "estilo de vida",
-            "estrellas michelín"
-        ],
-        "link": "https://www.lanzadigital.com/estilo-de-vida/castilla-la-mancha-conserva-sus-13-estrellas-michelin-conoce-los-mejores-restaurantes-de-la-region/",
-        "date": "2025-11-26 17:08:17",
-        "sentiment_score": -0.006954878568649292
-    },
-    {
-        "title": "‘Castellón es Navidad’: Más de 250 actos, 4 ángeles de 11 metros de altura y 1.721.606 lámparas de LED",
-        "image_url": "https://castellondiario.com/wp-content/uploads/2025/11/castellon-es-navidad-mas-de-250-actos-4-angeles-de-11-metros-de-altura-y-1-721-606-lamparas-de-led.jpg.webp",
-        "tags": [
-            "navidad",
-            "castellón"
-        ],
-        "link": "https://castellondiario.com/castellon-es-navidad-mas-de-250-actos-4-angeles-de-11-metros-de-altura-y-1-721-606-lamparas-de-led/",
-        "date": "2025-11-26 17:02:20",
-        "sentiment_score": 0.4965703450143337
-    },
-    {
-        "title": "La Academia de Ciencias pone en valor el uso de la IA para prevenir el cáncer o el desarrollo de la computación cuántica",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251126180006_120.jpg",
-        "tags": [
-            "laboratorio",
-            "ciencia"
-        ],
-        "link": "https://www.europapress.es/ciencia/noticia-academia-ciencias-pone-valor-uso-ia-prevenir-cancer-desarrollo-computacion-cuantica-20251126175954.html",
-        "date": "2025-11-26 17:00:06",
-        "sentiment_score": 0.36976930126547813
-    },
-    {
-        "title": "Santander y BBVA informaron en Madrid que frenaron el crédito en la Argentina ante la suba del riesgo",
-        "image_url": "https://www.infobae.com/resizer/v2/SAVCRDX6RREK7DGMUAGMEHXV3Y.jpg?auth=4979f4a871134c79760e1db5872ec16e65dced97be21f742ecaccf19a7b33ded&height=1080&smart=true&width=1920",
-        "tags": [
-            "santander",
-            "bbva",
-            "crédito al sector privado",
-            "últimas noticias",
-            "expansión"
-        ],
-        "link": "https://www.infobae.com/economia/2025/11/26/santander-y-bbva-informaron-en-madrid-que-frenaron-el-credito-en-la-argentina-ante-la-suba-del-riesgo/",
-        "date": "2025-11-26 16:58:44",
-        "sentiment_score": 0.04529869556427002
-    },
-    {
-        "title": "La Premier League le gana la partida a los equipos españoles en Europa",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/26/692727815e9af.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/futbol/20251126/11305184/premier-league-le-gana-partida-equipos-espanoles-europa-champions.html",
-        "date": "2025-11-26 16:57:01",
-        "sentiment_score": 0.11337986588478088
-    },
-    {
-        "title": "La Premier abusa de la Liga en la Champions",
-        "image_url": "https://cflvdg.avoz.es/sc/KsHrPbYUAfBfp6T2QLoSasxDfS0=/768x/2025/11/26/00121764176101493371718/Foto/efe_20251125_222930779.jpg",
-        "tags": [
-            "premier league",
-            "champions league",
-            "fc barcelona",
-            "deportes",
-            "chelsea"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/11/26/premier-abusa-liga-champions/00031764175992041598103.htm",
-        "date": "2025-11-26 16:57:00",
-        "sentiment_score": -0.2668650448322296
-    },
-    {
-        "title": "España ultima detalles para la final de la Nations League con Edna Imade e Irene Paredes",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/26/6926cefa8be9c.png",
-        "tags": [
-            "deportes gipuzkoa"
-        ],
-        "link": "https://www.cope.es/emisoras/pais-vasco/deportes-guipuzcoa/noticias/espana-ultima-detalles-final-nations-league-edna-imade-e-irene-paredes-20251126_3259668.html",
-        "date": "2025-11-26 16:53:00",
-        "sentiment_score": 0.06589913368225098
-    },
-    {
-        "title": "Dimitris Bountolos (Ferrovial), Coca-Cola Europacific Partners y Lantik, los protagonistas de los CIO 100 Awards en España en 2025",
-        "image_url": "https://www.cio.com/wp-content/uploads/2025/11/4096596-0-37867500-1764177078-premiados-cio-100-2025-editada.jpg?quality=50&strip=all&w=1024",
-        "tags": [
-            "digital transformation, it leadership"
-        ],
-        "link": "https://www.cio.com/article/4096596/dimitris-bountolos-ferrovial-coca-cola-europacific-partners-y-lantik-los-protagonistas-de-los-cio-100-awards-en-espana-en-2025.html",
-        "date": "2025-11-26 16:52:44",
-        "sentiment_score": 0.02455902099609375
-    },
-    {
-        "title": "El Barça se desmarca del token lanzado por su patrocinador ZKP",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251126180959_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-desmarca-token-lanzado-patrocinador-zkp-20251126180959.html",
-        "date": "2025-11-26 17:09:59",
-        "sentiment_score": -0.015382640063762665
-    },
-    {
-        "title": "La CNMV autoriza la OPA de Neinor sobre el 100% de Aedas Homes",
-        "image_url": "https://okdiario.com/img/2021/12/02/neinor-homes.jpeg",
-        "tags": [
-            "aedas homes",
-            "opa",
-            "empresas",
-            "economía",
-            "inmobiliarias",
-            "neinor homes"
-        ],
-        "link": "https://okdiario.com/economia/cnmv-autoriza-opa-neinor-sobre-100-aedas-homes-15795209",
-        "date": "2025-11-26 17:09:24",
-        "sentiment_score": 0.20816827565431595
-    },
-    {
-        "title": "Ivan Rakitić cuestiona al Barça por Lamine Yamal: “Necesitamos ayudarlo a aprender a manejar la presión”",
-        "image_url": "https://s3.elespanol.com/2025/11/25/actualidad/1003744029690_260146452_1706x960.jpg",
-        "tags": [
-            "lamine yamal",
-            "fútbol",
-            "ivan rakitic"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251126/ivan-rakitic-cuestiona-barca-lamine-yamal-necesitamos-ayudarlo-aprender-manejar-presion/1003744031153_0.html",
-        "date": "2025-11-26 17:03:54",
-        "sentiment_score": -0.17903003841638565
-    },
-    {
-        "title": "Las sombras del patrocinador del Barça promocionado por el misógino de extrema derecha Andrew Tate",
-        "image_url": "https://static1.ara.cat/clip/b6768de5-b173-475e-bca0-306984ef95e4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "promocionado",
-            "derecha",
-            "andrew",
-            "tate",
-            "extrema",
-            "misogino",
-            "patrocinador",
-            "barca",
-            "sombras"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/sombras-patrocinador-barca-promocionado-misogino-extrema-derecha-andrew-tate_130_5574340.html",
-        "date": "2025-11-26 17:03:52",
-        "sentiment_score": 0.6424666382372379
-    },
-    {
-        "title": "La alfombra roja de los Premios Ondas, en directo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/FPXC4N3QORCHLBJN4UKJKLAVSA.png?auth=d3e4bfae3b92e2dc3353a820b0a734bbdccae1b2f14d8ca8dce99bced3b60add&width=1200",
-        "tags": [
-            "comunicación",
-            "televisión pública",
-            "radio",
-            "cadena ser",
-            "premios ondas",
-            "cataluña",
-            "premios"
-        ],
-        "link": "https://elpais.com/videos/2025-11-26/la-gala-de-los-premios-ondas-en-directo.html",
-        "date": "2025-11-26 17:01:58",
-        "sentiment_score": 0.3002355694770813
-    },
-    {
-        "title": "La dermatitis atópica va acompañada de síntomas y emociones como el picor, el dolor, el cansancio o la ansiedad",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251126171321.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "sanidad"
-        ],
-        "link": "https://cronicadecantabria.com/cr/la-dermatitis-atpica-va-acompaada-de-sntomas-y-emociones-como-el-picor-el-dolor-el-cansancio-o-la-ansiedad/",
-        "date": "2025-11-26 17:00:05",
-        "sentiment_score": -0.8291586712002754
-    },
-    {
-        "title": "Cementos Molins distribuirá un dividendo de 0,55 euros brutos el 18 de diciembre",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251126180004_120.jpg",
-        "tags": [
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/noticia-cementos-molins-distribuira-dividendo-055-euros-brutos-18-diciembre-20251126180004.html",
-        "date": "2025-11-26 17:00:04",
-        "sentiment_score": 0.25069853104650974
-    },
-    {
-        "title": "Cementos Molins distribuirá un dividendo de 0,55 euros brutos el 18 de diciembre",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251126180003.jpg?fit=1099%2C583&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/cementos-molins-distribuir-un-dividendo-de-055-euros-brutos-el-18-de-diciembre/",
-        "date": "2025-11-26 17:00:04",
-        "sentiment_score": 0.03472646325826645
-    },
-    {
-        "title": "Brico Depôt Iberia acelera su crecimiento: las ventas suben casi un 10% en el tercer trimestre",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/11/crecimiento-brico-depot-espana-1000x665.jpg",
-        "tags": [
-            "empresas"
-        ],
-        "link": "https://www.economiadigital.es/empresas/brico-depot-iberia-crecimiento-tercer-trimestre-2025.html",
-        "date": "2025-11-26 17:00:00",
-        "sentiment_score": 0.03160783275961876
-    },
-    {
         "title": "Mbappé: \"La gente habla mucho desde fuera, pero es normal cuando juegas en un club como el Madrid\"",
         "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/26/6927648f5e8d8.r_d.534-460-3981.jpeg",
         "tags": [
@@ -3056,5 +2825,222 @@ export default [
         "link": "https://www.bostonherald.com/2025/11/29/messi-y-el-inter-miami-se-coronan-en-el-este-y-avanzan-a-final-de-mls-con-goleada-de-5-1-ante-nycfc/",
         "date": "2025-11-30 01:56:45",
         "sentiment_score": 0.14047206938266754
+    },
+    {
+        "title": "HAY DÍAS",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/11/12/funcionario-paga.extra-pensiones-kKB--170x119@Ideal.jpg",
+        "tags": [
+            "mujeres",
+            "opera",
+            "violencia de género"
+        ],
+        "link": "https://www.eldiariomontanes.es/opinion/rafael-manrique-dias-20251130072409-nt.html",
+        "date": "2025-11-30 06:24:09",
+        "sentiment_score": -0.8978454507887363
+    },
+    {
+        "title": "UGT pide un consejo de administración urgente en el Puerto de Málaga por la torre",
+        "image_url": "https://static.grupojoly.com/clip/e057daba-1016-4765-8089-fe8b721adf70_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga",
+            "puerto de málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/ugt-pide-consejo-administracion-urgente-puerto-malaga-torre_0_2005337872.html",
+        "date": "2025-11-30 06:15:46",
+        "sentiment_score": -0.24176989868283272
+    },
+    {
+        "title": "\"Bienvenido sea todo lo que contribuya a sacar a Chivite del Palacio de Navarra, hoy y siempre\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d5f17725-a8ca-4b7b-b5ee-a246711b9d7c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "contribuya",
+            "chivite",
+            "bienvenido",
+            "sea",
+            "sacar"
+        ],
+        "link": "https://www.noticiasdenavarra.com/politica/2025/11/30/bienvenido-sea-contribuya-sacar-chivite-10415042.html",
+        "date": "2025-11-30 06:08:14",
+        "sentiment_score": 0.05420359969139099
+    },
+    {
+        "title": "El tercero del dos de mayo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c9dd8016-0d27-4b91-9b51-bd152fbe7500_16-9-aspect-ratio_default_0_x505y0.jpg",
+        "tags": [
+            "más extremadura",
+            "extremadura",
+            "ejército",
+            "madrid",
+            "ceuta"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/11/30/tercero-mayo-124154456.html",
+        "date": "2025-11-30 06:05:49",
+        "sentiment_score": 0.0567934513092041
+    },
+    {
+        "title": "Sevilla-Betis: la memoria del pique y la guasa desde el respeto",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f7b57081-9542-40f0-ae76-50ab7ce007cd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "el gran derbi,gran derbi,sevilla fc,real betis"
+        ],
+        "link": "https://www.elcorreoweb.es/deportes/2025/11/30/sevilla-betis-memoria-pique-guasa-124243104.html",
+        "date": "2025-11-30 06:01:17",
+        "sentiment_score": 0.001370459794998169
+    },
+    {
+        "title": "Saunders y los nuevos escarabajos cibernéticos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b93a54d-ee99-4c26-954e-54a638ecdb70_16-9-aspect-ratio_default_0_x548y337.jpg",
+        "tags": [
+            "iglesia",
+            "libro",
+            "literatura",
+            "tiempo",
+            "relatos",
+            "libros"
+        ],
+        "link": "https://www.laopiniondemalaga.es/libros/2025/11/30/george-saunders-nuevos-escarabajos-ciberneticos-124272387.html",
+        "date": "2025-11-30 06:01:14",
+        "sentiment_score": -0.24782879650592804
+    },
+    {
+        "title": "El oeste aboga por el rescate del canon energético para financiar a Zamora",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bc701d30-ac35-44c8-853b-7e127c2e43fb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "población,financiación,asociación león propone,canon energético,diputaciones"
+        ],
+        "link": "https://www.laopiniondezamora.es/zamora/2025/11/30/oeste-aboga-rescate-canon-energetico-124270244.html",
+        "date": "2025-11-30 06:01:11",
+        "sentiment_score": 0.18613727390766144
+    },
+    {
+        "title": "¿Cuánto cobran los alcaldes de la provincia de Málaga?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/071ae437-1cf6-4d79-9d83-1a128995475e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "provincia de málaga",
+            "administración",
+            "pp",
+            "pueblos"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2025/11/30/cobran-alcaldes-provincia-malaga-124262322.html",
+        "date": "2025-11-30 06:01:07",
+        "sentiment_score": -0.3349153771996498
+    },
+    {
+        "title": "Juan de Contreras, marqués de Lozoya (I)",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2025/11/Foto-1-Lozoya.jpg",
+        "tags": [
+            "la pequeña memoria",
+            "segovia",
+            "portada secundaria"
+        ],
+        "link": "https://eladelantado.com/juan-de-contreras-marques-de-lozoya-i/",
+        "date": "2025-11-30 06:00:53",
+        "sentiment_score": -0.42803190276026726
+    },
+    {
+        "title": "Restinga, nueva referencia hispano-marroquí de la electrónica pop: \"La recomendación de Pedro Sánchez me pareció un meme\"",
+        "image_url": "https://static.grupojoly.com/clip/aa7d8769-2edc-4a8b-aac1-5737a47aaf1c_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "música",
+            "pedro sánchez",
+            "famosos",
+            "redes sociales"
+        ],
+        "link": "https://www.diariodesevilla.es/ocio/restinga-nueva-referencia-hispano-marroqui-pedro-sanchez-tik-tok_0_2005333821.html",
+        "date": "2025-11-30 06:00:11",
+        "sentiment_score": 0.6299461387097836
+    },
+    {
+        "title": "Templus triplicará la capacidad del centro de datos de Málaga, que ‘custodia’ el 75% del tráfico de internet",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/272da62b-bae5-4868-ac97-f5d55e13de49_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "internet",
+            "inversión",
+            "empresas",
+            "digitalización"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2025/11/30/templus-triplicara-capacidad-centro-datos-malaga-empresas-124246989.html",
+        "date": "2025-11-30 06:36:36",
+        "sentiment_score": 0.21033167839050293
+    },
+    {
+        "title": "La violencia institucional contra la inocencia de Alves",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/04/Dani-Alves-1.jpg",
+        "tags": [
+            "app",
+            "absolucion",
+            "agresión sexual",
+            "víctima",
+            "artículos",
+            "presunción de inocencia",
+            "znoticia portada2",
+            "derecho penal",
+            "dani alves"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/la-violencia-institucional-contra-la-inocencia-de-alves/",
+        "date": "2025-11-30 06:30:43",
+        "sentiment_score": -0.638510599732399
+    },
+    {
+        "title": "Peste porcina africana en España: Catalunya intensifica las capturas de jabalíes DIRECTO",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cc48b862-c741-4035-a049-25fb06626b49_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "animales"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20251130/peste-porcina-africana-espana-cataluna-ultima-hora-directo-124258800",
+        "date": "2025-11-30 06:23:00",
+        "sentiment_score": -0.9340293286368251
+    },
+    {
+        "title": "María González Durán, igual de influyente que Lamine Yamal, pero enseñando inglés",
+        "image_url": "https://static.grupojoly.com/clip/7c1cbbbb-7ff9-4e8d-b8f7-760fc413a6e5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/maria-gonzalez-duran-influyente-lamine-yamal-ensenando-ingles_0_2005337426.html",
+        "date": "2025-11-30 06:11:43",
+        "sentiment_score": 0.7870401293039322
+    },
+    {
+        "title": "La Zona de Bajas Emisiones de Málaga comienza a multar: estas son las restricciones tras su primer año",
+        "image_url": "https://static.grupojoly.com/clip/bb29b709-e2d7-47b7-9675-ec33ec8f026a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ayuntamiento de málaga",
+            "últimas noticias málaga",
+            "tráfico málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/zona-bajas-emisiones-malaga-multas-restricciones-primer-ano_0_2005326486.html",
+        "date": "2025-11-30 06:10:41",
+        "sentiment_score": -0.12348654121160507
+    },
+    {
+        "title": "Qué me pasa",
+        "image_url": "https://static.grupojoly.com/clip/ce80dc86-6924-4d73-b6df-88b7dbfd4118_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/pasa_0_2005346532.html",
+        "date": "2025-11-30 06:01:29",
+        "sentiment_score": -0.1435510814189911
+    },
+    {
+        "title": "Un científico alocado y un músico soñador: los artistas españoles que aterrizan en Sevilla con el Circo del Sol",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9e5e6d79-edab-4d3a-87a1-4ea56a5eda92_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "circo,circo de sol,artistas,arte,actor,música,sevilla,charco de la pava"
+        ],
+        "link": "https://www.elcorreoweb.es/sevilla/2025/11/30/cientifico-alocado-musico-sonador-artistas-124194004.html",
+        "date": "2025-11-30 06:01:27",
+        "sentiment_score": 0.0006079971790313721
+    },
+    {
+        "title": "La crisis de la peste porcina espolea las críticas al «descontrol» de la fauna salvaje en Zamora: \"Es un problema de Estado\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/97ada508-4ca8-47b8-be5f-d428a7f3c238_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fauna salvaje,jabalíes,crisis,coag,peste porcina africana,lorenzo rivera"
+        ],
+        "link": "https://www.laopiniondezamora.es/comarcas/2025/11/30/crisis-peste-porcina-espolea-criticas-124271032.html",
+        "date": "2025-11-30 06:01:12",
+        "sentiment_score": -0.8975128848105669
     }
 ];
