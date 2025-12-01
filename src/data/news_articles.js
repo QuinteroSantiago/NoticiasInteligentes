@@ -1,238 +1,5 @@
 export default [
     {
-        "title": "Álvaro Fernández, portero del Real Avilés: «En el Celta viví cosas que me hicieron crecer y les guardo mucho cariño»",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/11/26/alvaro-rai-kXbB-U2403649546258I-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real avilés"
-        ],
-        "link": "https://www.elcomercio.es/real-aviles/real-aviles-celta-fortuna-alvaro-fernandez-portero-20251126070500-nt.html",
-        "date": "2025-11-27 06:05:52",
-        "sentiment_score": -0.1592058315873146
-    },
-    {
-        "title": "La crisis de la vivienda destruye el paradigma del ahorro y lleva a los españoles a 'ponerse en lo peor' de forma permanente",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x675/f/2/3/1200x655_moneda-ahorro-gruas-istock.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13663068/11/25/la-crisis-de-la-vivienda-destruye-el-paradigma-del-ahorro-y-lleva-a-los-espanoles-a-ponerse-en-lo-peor-de-forma-permanente.html",
-        "date": "2025-11-27 06:00:41",
-        "sentiment_score": -0.3807157278060913
-    },
-    {
-        "title": "Diang se apunta a la carrera por ser el \"10\" del Elche",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88df4ce6-9cc8-4327-bb67-c2cc70bd072a_16-9-aspect-ratio_default_1418184.jpg",
-        "tags": [
-            "real madrid",
-            "elche cf",
-            "rafa mir",
-            "once",
-            "congo"
-        ],
-        "link": "https://www.informacion.es/elche-cf/2025/11/27/diang-apunta-carrera-10-elche-124159686.html",
-        "date": "2025-11-27 06:00:25",
-        "sentiment_score": 0.7505853250622749
-    },
-    {
-        "title": "Pillado a 35 km/h con un patinete en Huesca: primera multa gracias al nuevo radar para VMP",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/11/26/2025112623301480129.jpg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://www.aragondigital.es/articulo/sucesos/mula-35-km-h-patinete-huesca-primera-multa-gracias-nuevo-radar-vmp/20251127070000954452.html",
-        "date": "2025-11-27 06:00:00",
-        "sentiment_score": 0.11619609594345093
-    },
-    {
-        "title": "La torre del puerto de Málaga: cronología de un proyecto que se tambalea",
-        "image_url": "https://static.grupojoly.com/clip/921aafc2-32a8-4d6c-a6d0-22690777ef6f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga",
-            "puerto de málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/torre-puerto-malaga-cronologia-proyecto_0_2005315647.html",
-        "date": "2025-11-27 05:55:37",
-        "sentiment_score": -0.6994895227253437
-    },
-    {
-        "title": "Apoyar al Barça es más barato con el Black Friday: la tercera equipación, ahora con descuento",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/05/690bcaec7f561.r_d.3042-1167-1000.jpeg",
-        "tags": [
-            "elrecomendador"
-        ],
-        "link": "https://www.mundodeportivo.com/elrecomendador/20251127/1002575593/apoyar-barca-mas-barato-black-friday-tercera-equipacion-descuento.html",
-        "date": "2025-11-27 05:50:00",
-        "sentiment_score": 0.03600504994392395
-    },
-    {
-        "title": "La Torre del Puerto de Málaga, la \"patata caliente\" que nadie quiere tocar en Madrid",
-        "image_url": "https://s3.elespanol.com/2025/02/06/malaga/922168242_252898943_1706x960.png",
-        "tags": [
-            "málaga (municipio)",
-            "puerto de málaga",
-            "construyendo málaga",
-            "málaga ciudad"
-        ],
-        "link": "https://www.elespanol.com/malaga/malaga-ciudad/20251127/torre-puerto-malaga-patata-caliente-nadie-quiere-tocar-madrid/1003744031375_0.html",
-        "date": "2025-11-27 05:50:00",
-        "sentiment_score": 0.19811087846755981
-    },
-    {
-        "title": "El Roadshow de BMC Helix aterriza en Madrid para mostrar el impacto de la IA en la gestión TI",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2025/11/El-Roadshow-de-BMC-Helix-aterriza-en-Madrid-para-mostrar-el-impacto-de-la-IA-en-la-gestion-TI-2.webp",
-        "tags": [
-            "ti",
-            "bmc helix",
-            "tecnología",
-            "ia",
-            "últimas noticias"
-        ],
-        "link": "https://www.merca2.es/2025/11/27/roadshow-bmc-helix-madrid-2327901/",
-        "date": "2025-11-27 05:30:00",
-        "sentiment_score": 0.4681668132543564
-    },
-    {
-        "title": "Lion, taxista dominicano en España: \"Antes trabajaba 14 h, ahora hago 4 h y gano unos 60 € al día solo en propinas\"",
-        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027393_260116383_1706x960.jpg",
-        "tags": [
-            "soft",
-            "taxis",
-            "sociedad",
-            "inmigrantes",
-            "trabajadores"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251127/lion-taxista-dominicano-espana-trabajaba-ahora-hago-gano-eur-dia-solo-propinas/1003744026720_0.html",
-        "date": "2025-11-27 06:36:47",
-        "sentiment_score": 0.15200275182724
-    },
-    {
-        "title": "Más de la mitad de los españoles cambia sus rutas y el 30% renuncia a ver a familiares o amigos por falta de accesibilidad",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/27/6927f0c214dac7-30004975.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/capaces/mas-mitad-los-espanoles-cambia-sus-rutas-30-renuncia-ver-familiares-amigos-por-falta-accesibilidad_6903294_0.html",
-        "date": "2025-11-27 06:33:56",
-        "sentiment_score": 0.2965194247663021
-    },
-    {
-        "title": "Esta es la tecnológica catalana que prevé instalarse en Asturias (y estos son los empleos de alto perfil que creará)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bfaf31e0-7e5c-4992-af7a-ebc28d64a389_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "empresas",
-            "asturias",
-            "+ digital"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20251127/tecnologica-catalana-preve-instalarse-asturias-124173596",
-        "date": "2025-11-27 06:31:01",
-        "sentiment_score": 0.36303891614079475
-    },
-    {
-        "title": "Este es el precio de la gasolina este 27 de noviembre en Madrid, Barcelona y otras ciudades",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-economia",
-            "gasolina",
-            "precio gasolina",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/27/este-es-el-precio-de-la-gasolina-este-27-de-noviembre-en-madrid-barcelona-y-otras-ciudades/",
-        "date": "2025-11-27 06:30:55",
-        "sentiment_score": -0.22724606469273567
-    },
-    {
-        "title": "Lo que debes saber hoy, 27 de noviembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/27/vivir-en-barcelona/1003742711189_15452134_1706x960.jpg",
-        "tags": [
-            "tráfico",
-            "aemet (agencia estatal de meteorología)",
-            "movilidad",
-            "metro barcelona",
-            "transports metropolitans barcelona tmb",
-            "clima",
-            "autobús",
-            "renfe barcelona",
-            "transporte",
-            "el tiempo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251127/debes-saber-hoy-noviembre-barcelona/1003742711188_0.html",
-        "date": "2025-11-27 06:28:58",
-        "sentiment_score": 0.22098848223686218
-    },
-    {
-        "title": "Los Celtics de Hugo González rompen una impresionante racha de los Pistons",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/09/2025100907124188969.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/celtics-hugo-gonzalez-rozan-historia-quedan-paso/20251127070152364685.html",
-        "date": "2025-11-27 06:01:52",
-        "sentiment_score": -0.8778360951691866
-    },
-    {
-        "title": "El Supremo decide si envía a Ábalos y Koldo a la cárcel",
-        "image_url": "https://static1.ara.cat/clip/1124ba76-14f1-418b-9f4f-1d1ceea4f896_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "abalos",
-            "envia",
-            "supremo",
-            "koldo",
-            "carcel",
-            "decide"
-        ],
-        "link": "https://es.ara.cat/politica/supremo-decide-envia-abalos-koldo-carcel_1_5574849.html",
-        "date": "2025-11-27 06:01:22",
-        "sentiment_score": -0.5224608555436134
-    },
-    {
-        "title": "Los motivos tras la promesa de Hansi Flick en Stamford Bridge",
-        "image_url": "https://static1.ara.cat/clip/e56f3eb3-a83c-4286-ab91-f0cd32de31c0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "promesa",
-            "flick",
-            "bridge",
-            "stamford",
-            "hansi",
-            "motivos"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/motivos-promesa-hansi-flick-stamford-bridge_1_5574841.html",
-        "date": "2025-11-27 06:01:12",
-        "sentiment_score": -0.4264349341392517
-    },
-    {
-        "title": "Barcelona 2010-2025: las 10 grandes transformaciones",
-        "image_url": "https://static1.ara.cat/clip/5c371977-4d01-446e-99cd-c3696b1969ef_16-9-aspect-ratio_default_0_x2868y249.jpg",
-        "tags": [
-            "transformaciones",
-            "2025",
-            "2010",
-            "barcelona",
-            "grandes",
-            "10"
-        ],
-        "link": "https://es.ara.cat/sociedad/barcelona/barcelona-2010-2025-10-grandes-transformaciones_130_5574836.html",
-        "date": "2025-11-27 06:01:04",
-        "sentiment_score": -0.20324841141700745
-    },
-    {
-        "title": "El rey del ramen aterriza en Barcelona: del orgullo regional a la fama global",
-        "image_url": "https://static1.ara.cat/clip/9dd845fa-eca5-4c46-8ccc-ade4fd49b7a2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rey",
-            "regional",
-            "fama",
-            "orgullo",
-            "ramen",
-            "aterriza",
-            "barcelona",
-            "global"
-        ],
-        "link": "https://es.ara.cat/comer/rey-ramen-aterriza-barcelona-orgullo-regional-fama-global_1_5574835.html",
-        "date": "2025-11-27 06:00:58",
-        "sentiment_score": 0.2629641741514206
-    },
-    {
         "title": "España tiene su propio Palacio de Versalles y nadie lo sabía: la joya oculta de nuestro país",
         "image_url": "https://okdiario.com/img/2025/11/27/vista_del_palacio_de_la_granja-1.jpg",
         "tags": [
@@ -2901,5 +2668,190 @@ export default [
         "link": "https://www.informe21.com/post/semana-deportiva-venezuela-y-ecuador-igualan-0-0-en-la-liga-de-naciones",
         "date": "2025-11-30 14:00:23",
         "sentiment_score": 0.3158971518278122
+    },
+    {
+        "title": "El Real Madrid vuelve a griparse en Montilivi",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/30/mbappe-vini-kAFG-U240405793920ukD-758x531@RC.JPG",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.diariovasco.com/deportes/futbol/liga-primera/cronica-girona-real-madrid-jornada14-20251130175021-ntrc.html",
+        "date": "2025-11-30 22:20:15",
+        "sentiment_score": -0.9142797589302063
+    },
+    {
+        "title": "El Real Madrid vuelve a griparse ante el Girona en Montilivi (1-1)",
+        "image_url": "https://cflvdg.avoz.es/sc/MHMqP56obuBGs5JNm5SJLV2q85U=/768x/2025/11/30/00121764540121552851199/Foto/reu_20251130_215248482.jpg",
+        "tags": [
+            "girona fc",
+            "deportes",
+            "real madrid",
+            "primera división"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/11/30/real-madrid-vuelve-griparse-ante-girona-montilivi-1-1/00031764540984230485914.htm",
+        "date": "2025-11-30 22:19:00",
+        "sentiment_score": -0.9114248873665929
+    },
+    {
+        "title": "El Madrid cede el liderato de LaLiga al Barça tras un amargo empate",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/30/2025113023183998130.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/madrid-cede-liderato-laliga-barca-amargo-empate/20251130231857365210.html",
+        "date": "2025-11-30 22:18:57",
+        "sentiment_score": -0.9352056235074997
+    },
+    {
+        "title": "El Real Madrid frena en Montivili y el liderato vuela: tercer pinchazo blanco consecutivo en LaLiga",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2570350.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/el-real-madrid-frena-en-montivili-y-el-liderato-vuela-tercer-pinchazo-blanco-consecutivo-en-laliga.html",
+        "date": "2025-11-30 22:17:54",
+        "sentiment_score": -0.7253872603178024
+    },
+    {
+        "title": "Florentino inmoviliza a Laporta: la mano ganadora del Real Madrid para frenar el boicot del Barça a la Superliga",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/12/13/culemania/palco/816928523_15465462_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "real madrid",
+            "florentino pérez",
+            "palco",
+            "superliga",
+            "champions league"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251130/florentino-inmoviliza-laporta-real-madrid-barca-superliga/1003742712236_0.html",
+        "date": "2025-11-30 22:06:48",
+        "sentiment_score": -0.6717528998851776
+    },
+    {
+        "title": "Hansi Flick, víctima del entorno: el banquillo del Barça desgasta",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/29/culemania/primer-equipo/1003742712081_15463575_1706x960.jpg",
+        "tags": [
+            "primer equipo",
+            "árbitros",
+            "barça",
+            "hansi flick"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251130/hansi-flick-victima-entorno-banquillo-barcadesgasta/1003742712249_0.html",
+        "date": "2025-11-30 22:06:47",
+        "sentiment_score": -0.8385318983346224
+    },
+    {
+        "title": "El Girona se reconcilia con las hazañas y deja al Madrid sin el liderato",
+        "image_url": "https://static1.ara.cat/clip/2bb024f4-4059-4754-8100-ccc1e80420e2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hazanas",
+            "frena",
+            "reconcilia",
+            "todopoderoso",
+            "girona",
+            "madrid"
+        ],
+        "link": "https://es.ara.cat/deportes/girona-fc/girona-reconcilia-hazanas-frena-todopoderoso-madrid_1_5578981.html",
+        "date": "2025-11-30 22:02:29",
+        "sentiment_score": 0.23929426074028015
+    },
+    {
+        "title": "Xabi Alonso y Vinicius le regalan el liderato al Barça: los problemas se amontonan en el Real Madrid",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/30/culemania/real-madrid/1003742712258_15465658_1706x960.jpg",
+        "tags": [
+            "real madrid",
+            "xabi alonso",
+            "kylian mbappé",
+            "vinicius"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20251130/xabi-alonso-vinicius-barca-problemas-real-madrid/1003742712256_0.html",
+        "date": "2025-11-30 22:02:28",
+        "sentiment_score": 0.11096596717834473
+    },
+    {
+        "title": "El Madrid sobrevive a Girona: VAR, Penal y milagro",
+        "image_url": "https://mundonow.com/wp-content/uploads/2025/11/bf93431e09bece456838946fb72dcdd3252237a0-1200x800.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://mundonow.com/el-madrid-sobrevive-a-girona-var-penal-y-milagro/",
+        "date": "2025-11-30 22:01:59",
+        "sentiment_score": -0.02647492289543152
+    },
+    {
+        "title": "Comprueba los resultados del Quinigol del 30 de noviembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "quinigol",
+            "españa-loterias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/11/30/comprueba-los-resultados-del-quinigol-del-30-de-noviembre/",
+        "date": "2025-11-30 22:00:32",
+        "sentiment_score": 0.10715532302856445
+    },
+    {
+        "title": "Rosalía se viste de azul y oro: la 'motomami' elige equipo en Argentina",
+        "image_url": "https://pxcdn.2001online.com/2001/112025/1764540804681/rosalia-visita-la-bombonera-y-se-rinde-ante-la-pasion-de-boca-juniors.jpg?ch=675&cw=1200",
+        "tags": [
+            "álbum de rosalía",
+            "rosalía",
+            "boca juniors",
+            "trueno",
+            "la bombonera",
+            "afa",
+            "argentina",
+            "fútbol argentino"
+        ],
+        "link": "https://2001online.com/deportes/rosalia-se-viste-de-azul-y-oro-la-motomami-elige-equipo-en-argentina-202511301900",
+        "date": "2025-11-30 22:06:46",
+        "sentiment_score": 0.2158123254776001
+    },
+    {
+        "title": "El Real Madrid aumenta sus dudas en Gerona y cede el liderato de la Liga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/30/692cbe63a760d.r_d.686-580-6250.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251130/real-madrid-aumenta-dudas-gerona-cede-liderato-liga_360568.html",
+        "date": "2025-11-30 22:00:16",
+        "sentiment_score": -0.4333275705575943
+    },
+    {
+        "title": "Barnacopy, respuesta ágil y profesional ante cualquier urgencia de cerrajería 24 horas en Barcelona",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2025/12/img_73e2242af1540c51d469c098388e430d-1500x1000.jpg",
+        "tags": [
+            "portada"
+        ],
+        "link": "https://www.alertadigital.com/2025/11/30/barnacopy-respuesta-agil-y-profesional-ante-cualquier-urgencia-de-cerrajeria-24-horas-en-barcelona/",
+        "date": "2025-11-30 22:00:00",
+        "sentiment_score": -0.7932773251086473
+    },
+    {
+        "title": "Barnacopy, respuesta ágil y profesional ante cualquier urgencia de cerrajería 24 horas en Barcelona",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7751597",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5687996/barnacopy-respuesta-agil-profesional-ante-cualquier-urgencia-cerrajeria-24-horas-barcelona",
+        "date": "2025-11-30 22:00:00",
+        "sentiment_score": 0.22164640575647354
+    },
+    {
+        "title": "El insólito 'superpoder' de María: lleva 42 años manteniendo a raya el VIH sin ninguna medicación",
+        "image_url": "https://phantom-elmundo.uecdn.es/4acbd798910e0b8022cc176573af7c1a/crop/150x35/1563x1448/f/image/jpeg/assets/multimedia/imagenes/2022/03/14/16472672978795.jpg",
+        "tags": [
+            "nlpremium",
+            "sida y hepatitis",
+            "ciencia y salud",
+            "salud",
+            "artículos cristina g. lucio"
+        ],
+        "link": "https://www.elmundo.es/papel/historias/2025/11/30/6929c62ee85ece46268b4582.html",
+        "date": "2025-11-30 21:53:32",
+        "sentiment_score": 0.48841626197099686
     }
 ];
