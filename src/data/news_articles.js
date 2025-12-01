@@ -1,216 +1,5 @@
 export default [
     {
-        "title": "España tiene su propio Palacio de Versalles y nadie lo sabía: la joya oculta de nuestro país",
-        "image_url": "https://okdiario.com/img/2025/11/27/vista_del_palacio_de_la_granja-1.jpg",
-        "tags": [
-            "españa",
-            "sociedad",
-            "segovia"
-        ],
-        "link": "https://okdiario.com/sociedad/espana-tiene-propio-palacio-versalles-nadie-lo-sabia-joya-oculta-nuestro-pais-15840190",
-        "date": "2025-11-27 17:09:01",
-        "sentiment_score": 0.4034865200519562
-    },
-    {
-        "title": "AstraZeneca, Wayra y Kunsen lanzan una aceleradora para impulsar proyectos innovadores en salud",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/27/recomendados/1003742711407_15454355_1706x960.jpg",
-        "tags": [
-            "recomendados",
-            "medicina",
-            "startup",
-            "salud",
-            "madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/recomendados/20251127/astrazeneca-wayra-kunsen-aceleradora-impulsar-proyectos-innovadores/1003742711394_0.html",
-        "date": "2025-11-27 17:08:54",
-        "sentiment_score": 0.32494065165519714
-    },
-    {
-        "title": "La Copa del Rey sorteará el próximo martes 9 de diciembre los dieciseisavos con los equipos de la Supercopa",
-        "image_url": "https://www.infobae.com/resizer/v2/ADGVXPEFYNDETJ3EMK6T43Q4FM.jpg?auth=c51ea628ca0a86798ba0fdffd400ec9bc406fe904ab0f8ea347620ea9c72aad0&height=1080&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/27/la-copa-del-rey-sorteara-el-proximo-martes-9-de-diciembre-los-dieciseisavos-con-los-equipos-de-la-supercopa/",
-        "date": "2025-11-27 17:00:38",
-        "sentiment_score": 0.040980804711580276
-    },
-    {
-        "title": "El alumnado de la UCLM elige a sus delegados de campus para el curso 2025-2026",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/11/27/2025112717574629846.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.clm24.es/articulo/sociedad/alumnado-uclm-elige-nuevos-delegados-campus-curso-2025-2026/20251127175920464991.html",
-        "date": "2025-11-27 16:59:20",
-        "sentiment_score": -0.0918533056974411
-    },
-    {
-        "title": "Investigan a un profesor de clarinete del Conservatorio Superior de Música de Madrid por acoso a alumnas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/27/6928823a03a500-80077090.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/madrid/investigan-un-profesor-clarinete-conservatorio-superior-musica-madrid-por-acoso-alumnas_6903689_0.html",
-        "date": "2025-11-27 16:57:27",
-        "sentiment_score": -0.8241131268441677
-    },
-    {
-        "title": "Ábalos, tras Cerdán, ya es la segunda 'mano derecha' de Pedro Sánchez enviado a prisión",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/10/15/0714890E-FF4B-4F81-8AF8-C322C5EDFFEF/que-abalos-prision-provisional-santos-cerdan-dos-casos-diferentes_70.jpg?crop=2944%2C1656%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "españa",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/espana/abalos-cerdan-segunda-mano-derecha-pedro-sanchez-enviado-prision_202511276928820a55584d48fb5ff72c.html",
-        "date": "2025-11-27 16:53:30",
-        "sentiment_score": 0.22366422414779663
-    },
-    {
-        "title": "España es más 'madridista' que blaugrana y el Betis es el 'plan B' Los blancos ganan con",
-        "image_url": "https://www.infobae.com/resizer/v2/AXCE4XJV65BFXJREXRJZGGVQWY.jpg?auth=028e63597f53ff82c884a42a9d1169b476db58082efcc578401cb9af6ae29178&height=1279&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/27/espana-es-mas-madridista-que-blaugrana-y-el-betis-es-el-plan-b-los-blancos-ganan-con/",
-        "date": "2025-11-27 16:46:10",
-        "sentiment_score": -0.3623870089650154
-    },
-    {
-        "title": "Navafría (Segovia) estrena nueva señalización inteligente en puertos de montaña para reforzar la seguridad vial",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/11/27/2B12D035-7703-4353-93F1-406E9EB86536/navafria-segovia-estrena-nueva-senalizacion-inteligente-puertos-montana_69.jpg?crop=2856%2C1607%2Cx0%2Cy187&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "castilla y león"
-        ],
-        "link": "https://www.larazon.es/castilla-y-leon/navafria-segovia-estrena-nueva-senalizacion-inteligente-puertos-montana-reforzar-seguridad-vial_202511276928801955584d48fb5ff2a6.html",
-        "date": "2025-11-27 16:45:13",
-        "sentiment_score": 0.5014579566195607
-    },
-    {
-        "title": "Héctor Bellerín sorprende al nuevo alcalde de Nueva York con un emotivo mensaje que se vuelve viral",
-        "image_url": "https://okdiario.com/look/img/2025/11/27/u522511_169-1.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://okdiario.com/look/actualidad/hector-bellerin-sorprende-nuevo-alcalde-nueva-york-emotivo-mensaje-viral-2437036",
-        "date": "2025-11-27 16:45:06",
-        "sentiment_score": 0.5580122619867325
-    },
-    {
-        "title": "El Foro por la Memoria exige un nuevo convenio que garantice exhumaciones continuas en Córdoba y una Oficina de Víctimas eficaz",
-        "image_url": "https://static.grupojoly.com/clip/e040abf1-622d-4353-b2dd-f7dd09be7b08_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias",
-            "memoria histórica córdoba",
-            "últimas noticias córdoba"
-        ],
-        "link": "https://www.eldiadecordoba.es/cordoba/foro-memoria-convenio-exhumaciones-cordoba_0_2005328146.html",
-        "date": "2025-11-27 16:43:18",
-        "sentiment_score": -0.8453237488865852
-    },
-    {
-        "title": "Reumatólogos catalanes impulsan un proyecto de alpinismo para visibilizar enfermedades reumáticas",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251127181122_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-reumatologos-catalanes-impulsan-proyecto-alpinismo-visibilizar-enfermedades-reumaticas-20251127181122.html",
-        "date": "2025-11-27 17:11:22",
-        "sentiment_score": 0.2898314744234085
-    },
-    {
-        "title": "Joan Camprubí, tras los pasos de Vilajoana y Font: carga contra el \"maltrato\" de Laporta al socio del Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/17/culemania/palco/1003742698795_15454037_1706x960.jpg",
-        "tags": [
-            "elecciones barça",
-            "palco",
-            "joan camprubí"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251127/joan-camprubi-vilajoana-font-maltrato-laporta-barca/1003742711383_0.html",
-        "date": "2025-11-27 17:08:59",
-        "sentiment_score": -0.9048467539250851
-    },
-    {
-        "title": "La impactante confesión de Szczesny que le condiciona en el Barça: \"No puedo sostener una botella de agua por el dolor\"",
-        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744032996_260190253_1706x960.jpg",
-        "tags": [
-            "deportes",
-            "fc barcelona",
-            "fútbol"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251127/impactante-confesion-szczesny-condiciona-barca-no-puedo-sostener-botella-agua-dolor/1003744032968_0.html",
-        "date": "2025-11-27 17:08:09",
-        "sentiment_score": -0.9294418850913644
-    },
-    {
-        "title": "Muere un motorista tras caer del vehículo en la calle Farigola del distrito de Gràcia de Barcelona",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2023/05/01/B61C3AEE-8246-4D2C-8382-95E084BAB396/ambulancia-sistema-demergencies-mediques_69.jpg?crop=1920%2C1080%2Cx0%2Cy101&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/muere-motorista-caer-vehiculo-calle-farigola-distrito-gracia-barcelona_202511276928848c6e5e5012dcd0c879.html",
-        "date": "2025-11-27 17:04:13",
-        "sentiment_score": -0.6411044038832188
-    },
-    {
-        "title": "David Martínez dimite como consejero del Banc Sabadell",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/01/68dcbb4f3c84f.r_d.604-151-0.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20251127/11309670/david-martinez-dimite-consejero-banc-sabadell.html",
-        "date": "2025-11-27 17:03:00",
-        "sentiment_score": 0.5350684821605682
-    },
-    {
-        "title": "Isaías Lafuente sorprende con su dedicatoria en los Ondas: \"La democracia los necesita\"",
-        "image_url": "https://www.elplural.com/uploads/s1/21/08/69/9/europapress-7128699-periodista-isaias-lafuente-photocall-previo-gala-premios-ondas-liceu-26-1_7_480x270.jpeg",
-        "tags": [
-            "extratele"
-        ],
-        "link": "https://www.elplural.com/extratele/isaias-lafuente-sorprende-dedicatoria-ondas-democracia-necesita_366188102",
-        "date": "2025-11-27 17:03:00",
-        "sentiment_score": 0.11426222324371338
-    },
-    {
-        "title": "Muere el empresario Fernando Escobillas, presidente de la Cámara de Miranda de Ebro",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2025/11/27/69288396e97b8.r_d.188-344-12418.jpeg",
-        "tags": [
-            "burgos"
-        ],
-        "link": "https://www.diariodecastillayleon.es/burgos/251127/103322/muere-el-empresario-fernando-escobillas-presidente-de-la-camara-de-miranda-de-ebro.html",
-        "date": "2025-11-27 17:02:24",
-        "sentiment_score": 0.628483522683382
-    },
-    {
-        "title": "\"Míchel es en el Girona lo que Cruyff fue en el Barça\"",
-        "image_url": "https://static1.ara.cat/clip/b329a9d9-8c36-4a03-80a8-57a103ef0fb8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barca",
-            "girona",
-            "cruyff",
-            "michel"
-        ],
-        "link": "https://es.ara.cat/deportes/girona-fc/michel-girona-cruyff-barca_130_5575521.html",
-        "date": "2025-11-27 17:00:52",
-        "sentiment_score": -0.017820388078689575
-    },
-    {
-        "title": "El catalán, bajo la bocina del 'Juego de cartas'",
-        "image_url": "https://static1.ara.cat/clip/34de0108-5557-4816-9225-634a3b5421ff_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "juego",
-            "bocina",
-            "cartas",
-            "catalan"
-        ],
-        "link": "https://es.ara.cat/media/catalan-bocina-juego-cartas_129_5575516.html",
-        "date": "2025-11-27 17:00:47",
-        "sentiment_score": -0.25942739844322205
-    },
-    {
         "title": "Plannam lidera el nuevo estándar de eficiencia operativa según métricas inspiradas en McKinsey (2023–2025)",
         "image_url": "https://www.diariosigloxxi.com/images/showid/7748116",
         "tags": [
@@ -3142,5 +2931,158 @@ export default [
         "link": "https://www.elespanol.com/corazon/estilo/20251201/mar-saura-deslumbra-vestido-azul-electrico-ideal-sexy-cualquier-fiesta/1003744033037_0.html",
         "date": "2025-12-01 00:33:00",
         "sentiment_score": 0.5923024266958237
+    },
+    {
+        "title": "Los realojos de la Cañada Real priorizan los municipios cercanos y limitan las familias trasladadas por zona para evitar guetos",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/02/28/fotografo-jose-gonzalez-previsiones-20m-tema-canada-real-39.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.20minutos.es/madrid/los-realojos-canada-real-priorizan-los-municipios-cercanos-limitan-las-familias-trasladadas-por-zona-para-evitar-guetos_6513406_0.html",
+        "date": "2025-12-01 06:42:24",
+        "sentiment_score": -0.7238286770880222
+    },
+    {
+        "title": "Jota Jordi retrata a Tomás Roncero y Juanma Rodríguez sin abrir la boca tras el empate del Madrid en Montilivi",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/12/01/692d369a566bd.r_d.343-193-6545.jpeg",
+        "tags": [
+            "vaya mundo"
+        ],
+        "link": "https://www.mundodeportivo.com/vaya-mundo/20251201/1002578971/jota-jordi-retrata-tomas-roncero-juanma-rodriguez-abrir-boca-empate-madrid-montilivi-dct.html",
+        "date": "2025-12-01 06:36:15",
+        "sentiment_score": -0.9402780560776591
+    },
+    {
+        "title": "Ramón González Férriz desgrana el término 'protesta' tras la concentración contra Sánchez en Debod: \"Protestar airadamente y en público es necesario para seguir siendo libre\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/30/692c2325ab053.r_d.966-873-2240.jpeg",
+        "tags": [
+            "traficantes de palabras"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/traficantes-de-palabras/noticias/ramon-gonzalez-ferriz-desgrana-termino-protesta-concentracion-sanchez-debod-protestar-airadamente-publico-necesario-seguir-siendo-libre-20251201_3262491.html",
+        "date": "2025-12-01 06:34:18",
+        "sentiment_score": -0.1376996636390686
+    },
+    {
+        "title": "Ede: \"Lo difícil y lo revolucionario es poner el cuerpo\"",
+        "image_url": "https://www.elplural.com/uploads/s1/21/07/79/3/medidas-plural_7_480x270.jpeg",
+        "tags": [
+            "playtime"
+        ],
+        "link": "https://www.elplural.com/playtime/ede-dificil-revolucionario-poner-cuerpo_366098102",
+        "date": "2025-12-01 06:23:03",
+        "sentiment_score": -0.043829143047332764
+    },
+    {
+        "title": "El Real Madrid se atasca en Girona y cede el liderato tras su tercer tropiezo consecutivo en Liga",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/12/01/2025120107204483680.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/futbol/real-madrid-atasca-girona-cede-liderato-tercer-tropiezo-consecutivo-liga/20251201072243576491.html",
+        "date": "2025-12-01 06:22:43",
+        "sentiment_score": -0.8738417029380798
+    },
+    {
+        "title": "El Mallorca, punto de inflexión para el Real Oviedo",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/01/real-oviedo-atletico-madrid-kcqG--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-mallorca-punto-inflexion-20251201071510-nt.html",
+        "date": "2025-12-01 06:15:41",
+        "sentiment_score": 0.6963507384061813
+    },
+    {
+        "title": "\"La poesía nos obliga a mirar al mundo con una conciencia crítica\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a11ba21c-e668-4a5c-b4ee-f302c0b4482b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "poesía,antonio praena,de la poesía a la esperanza,diócesis de zamora"
+        ],
+        "link": "https://www.laopiniondezamora.es/zamora/2025/12/01/poesia-obliga-mirar-mundo-conciencia-124295328.html",
+        "date": "2025-12-01 06:00:51",
+        "sentiment_score": 0.0671771764755249
+    },
+    {
+        "title": "Un hogar posible",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d0be75e-79df-4e53-9f96-aeb4aef7e8a7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vivienda,hogar,precios,hipotecas"
+        ],
+        "link": "https://www.laopiniondezamora.es/opinion/2025/12/01/hogar-posible-124296377.html",
+        "date": "2025-12-01 06:00:51",
+        "sentiment_score": -0.05770266056060791
+    },
+    {
+        "title": "La Zaratán Cup, un torneo de fútbol solidario con 32 equipos punteros: \"Hay un ambiente sano y de compañerismo\"",
+        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744031826_260175244_1706x960.jpg",
+        "tags": [
+            "valladolid",
+            "valladolid (provincia)",
+            "zaratán",
+            "deportes castilla y león",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20251201/zaratan-cup-torneo-futbol-solidario-equipos-punteros-ambiente-sano-companerismo/1003744031823_0.html",
+        "date": "2025-12-01 06:00:00",
+        "sentiment_score": 0.3663928396999836
+    },
+    {
+        "title": "La dura crítica de Manolo Lama a los jugadores del Real Madrid: \"Me sorprende que no den la cara tras el tercer empate consecutivo\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/11/30/692cbffae6650.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/dura-critica-manolo-lama-jugadores-real-madrid-me-sorprende-den-cara-tercer-empate-consecutivo-20251201_3262475.html",
+        "date": "2025-12-01 05:34:57",
+        "sentiment_score": -0.014688998460769653
+    },
+    {
+        "title": "La ciudad dormitorio cerca de Barcelona con pisos desde 120.000 euros: la opción más barata para comprar casa",
+        "image_url": "https://images.ecestaticos.com/qXjoVZll271laMcJ-v-Wn9JQpnI=/0x0:1872x1253/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F39e%2Fcee%2Fd61%2F39eceed61a07357ee3ae4e9de58a6fa8.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elconfidencial.com/vivienda/2025-12-01/ciudad-barata-barcelona-comprar-casa-1tna-1qrt_4257679/",
+        "date": "2025-12-01 06:44:00",
+        "sentiment_score": 0.521457277238369
+    },
+    {
+        "title": "Los mejores restaurantes de Les Corts que deberías apuntar en la agenda",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b6a38d19-a8ba-4182-aaeb-5a1e2e17814a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "restaurante",
+            "dónde comer hoy",
+            "restaurantes barcelona",
+            "gastronomía"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251201/mejores-restaurantes-les-corts-barcelona-81048376",
+        "date": "2025-12-01 06:42:00",
+        "sentiment_score": -0.3492910861968994
+    },
+    {
+        "title": "UME y Generalitat activan un dispositivo de control para frenar la peste porcina africana en Barcelona",
+        "image_url": "https://www.elplural.com/uploads/s1/20/35/78/9/ume_7_480x270.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.elplural.com/autonomias/cataluna/ume-generalitat-activan-dispositivo-control-frenar-peste-porcina-africana-barcelona_366393102",
+        "date": "2025-12-01 06:37:51",
+        "sentiment_score": -0.17893517017364502
+    },
+    {
+        "title": "Los retrasos para reformar viviendas se agravan por la falta de mano de obra: \"Tenemos hueco ya pasado el verano\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/64ce97fc-ea1b-4435-a91c-4ce1ab552687_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "empleo",
+            "construcción",
+            "obras",
+            "empresas",
+            "urbanismo",
+            "pisos"
+        ],
+        "link": "https://www.lacronicabadajoz.com/sociedad/2025/12/01/obras-reforma-viviendas-retrasos-meses-falta-albaniles-construccion-124302750.html",
+        "date": "2025-12-01 06:37:41",
+        "sentiment_score": -0.8157647289335728
     }
 ];
