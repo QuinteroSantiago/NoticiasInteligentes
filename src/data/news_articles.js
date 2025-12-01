@@ -1,355 +1,5 @@
 export default [
     {
-        "title": "Mbappé: \"La gente habla mucho desde fuera, pero es normal cuando juegas en un club como el Madrid\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/26/6927648f5e8d8.r_d.534-460-3981.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mbappe-gente-habla-fuera-normal-juegas-club-madrid-20251126_3260288.html",
-        "date": "2025-11-26 22:16:32",
-        "sentiment_score": 0.11093267798423767
-    },
-    {
-        "title": "Giménez desata la apoteosis en el minuto 93",
-        "image_url": "https://cflvdg.avoz.es/sc/z2fR70TuVWV3b0sGGeHJeVi_2IU=/768x/2025/11/26/00121764195001644455173/Foto/reu_20251126_220736923.jpg",
-        "tags": [
-            "champions league",
-            "atlético de madrid",
-            "deportes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/11/26/gimenez-desata-apoteosis-minuto-93/00031764195162306906276.htm",
-        "date": "2025-11-26 22:14:00",
-        "sentiment_score": -0.5299727469682693
-    },
-    {
-        "title": "Mbappé alivia al Real Madrid con un póker ante el Olympiacos en la Liga de Campeones",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/11/26/uefa-champions-league-olympiacos-piraeus-vs-real-madrid.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.heraldo.es/noticias/deportes/futbol/2025/11/26/mbappe-alivia-al-real-madrid-con-un-poker-ante-el-olympiacos-en-la-liga-de-campeones-1873876.html",
-        "date": "2025-11-26 22:12:15",
-        "sentiment_score": -0.1905897557735443
-    },
-    {
-        "title": "La cabeza de Giménez lleva al Atlético al delirio en el descuento",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3c7c5d2b-9478-4bf3-83ab-ea3b7747e18a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "inter de milán",
-            "champions league",
-            "champions",
-            "liga de campeones",
-            "atlético de madrid",
-            "fútbol",
-            "atlético"
-        ],
-        "link": "https://www.lne.es/deportes/2025/11/26/atletico-inter-milan-champions-resultado-goles-resumen-124168621.html",
-        "date": "2025-11-26 22:10:14",
-        "sentiment_score": -0.10023969411849976
-    },
-    {
-        "title": "Póker de Mbappé le dio sufrida victoria al Real Madrid frente al Olympiacos",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Real-Madrid-vs-Olympiacos.jpg",
-        "tags": [
-            "champions league",
-            "real madrid cf",
-            "futbol",
-            "olympiacos bc",
-            "deportes",
-            "titulares"
-        ],
-        "link": "https://lapatilla.com/2025/11/26/poker-de-mbappe-le-dio-sufrida-victoria-al-real-madrid-frente-al-olympiacos/",
-        "date": "2025-11-26 22:06:29",
-        "sentiment_score": -0.27323615550994873
-    },
-    {
-        "title": "El Real Madrid estropea el paseo de Mbappé en Grecia y gana pidiendo la hora",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2562742.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/el-real-madrid-estropea-el-paseo-de-mbappe-en-grecia-y-gana-pidiendo-la-hora.html",
-        "date": "2025-11-26 22:04:53",
-        "sentiment_score": 0.5678059756755829
-    },
-    {
-        "title": "Mbappé alivia al Real Madrid con un póker",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/d5438a96-888b-4b43-98420e1ab2ae94f0.jpg",
-        "tags": [
-            "real madrid",
-            "thibaut courtois",
-            "kylian mbappé",
-            "champions league",
-            "xabi alonso",
-            "alfredo di stéfano",
-            "eduardo camavinga",
-            "jude bellingham",
-            "vinícius júnior",
-            "cristiano ronaldo",
-            "póker"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zd274d63b-3549-44de-a152dd74230f01b1/202511/mbappe-alivia-al-real-madrid-con-un-poker",
-        "date": "2025-11-26 22:03:37",
-        "sentiment_score": 0.05723381042480469
-    },
-    {
-        "title": "El póker de Mbappé evita una tragicomedia del Real Madrid en Atenas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9b25012d-bc55-448a-a919-dd12d8f4f3d1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "real madrid",
-            "olympiacos",
-            "champions league"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/11/26/olympiacos-real-madrid-resumen-resultado-champions-124168494.html",
-        "date": "2025-11-26 22:02:22",
-        "sentiment_score": -0.7039029523730278
-    },
-    {
-        "title": "El pueblo medieval donde nació Berto Romero está a 1 hora de Barcelona: castillo del siglo IX y una montaña hecha de sal",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/26/gran-barcelona/1003742711169_15451838_1706x960.jpg",
-        "tags": [
-            "cultura",
-            "historia",
-            "gran barcelona",
-            "curiosidades"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251126/pueblo-medieval-nacio-berto-romero-hora-barcelona-castillo-siglo-ix-montana-hecha-sal/1003742711156_0.html",
-        "date": "2025-11-26 22:09:42",
-        "sentiment_score": -0.30681009590625763
-    },
-    {
-        "title": "Xavi Pascual regresa al Palau para guiar al Barça a un triunfo ante el colista",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/6ZZ3N6IH4JOLJKFKCNMDUTUE54.jpg?auth=c0af86526496183c41cae05b6775edbbe787ff8de52ea48c59e6db7bcacbd49b&width=1200",
-        "tags": [
-            "competiciones",
-            "fc barcelona baloncesto",
-            "baloncesto",
-            "deportes",
-            "xavi pascual",
-            "euroliga",
-            "jugadores baloncesto"
-        ],
-        "link": "https://elpais.com/deportes/baloncesto/2025-11-26/xavi-pascual-regresa-al-palau-para-guiar-al-barca-a-un-triunfo-ante-el-colista.html",
-        "date": "2025-11-26 21:58:04",
-        "sentiment_score": 0.5093763172626495
-    },
-    {
-        "title": "Barcelona se atasca en la Champions, pero Flick es optimista sobre recuperación del equipo",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/f76b7d4/2147483647/strip/true/crop/2463x1293+0+174/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F05%2F57%2Fe065e5a8494184deff4005350169%2F1c86dfdd2ccc4e679a4180c2e03e78e5.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-11-26/barcelona-se-atasca-en-la-champions-pero-flick-es-optimista-sobre-recuperacion-del-equipo",
-        "date": "2025-11-26 21:51:12",
-        "sentiment_score": -0.7284086309373379
-    },
-    {
-        "title": "Celebraciones y grupos con ambiente tradicional en la Barceloneta, la propuesta de Pasa Tapas",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7746078",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5683753/celebraciones-grupos-ambiente-tradicional-barceloneta-propuesta-pasa-tapas",
-        "date": "2025-11-26 21:49:49",
-        "sentiment_score": 0.7864738926291466
-    },
-    {
-        "title": "David Bisbal habla en 'El Hormiguero' sobre su pasión por la naturaleza: \"Se muere un árbol y lo paso mal\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/26/69276fc1f04a78-14162266.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.20minutos.es/television/david-bisbal-habla-hormiguero-sobre-su-pasion-por-naturaleza-se-muere-un-arbol-paso-mal_6903261_0.html",
-        "date": "2025-11-26 21:48:56",
-        "sentiment_score": 0.17544448748230934
-    },
-    {
-        "title": "Xavi Pascual celebra su regreso con una trabajada victoria",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0876b263-0517-48e9-94a3-6e33937e24ee_16-9-aspect-ratio_default_1418229.jpg",
-        "tags": [
-            "baloncesto",
-            "fc barcelona de baloncesto",
-            "euroliga"
-        ],
-        "link": "https://www.lne.es/deportes/2025/11/26/xavi-pascual-celebra-regreso-trabajada-124168047.html",
-        "date": "2025-11-26 21:43:03",
-        "sentiment_score": -0.6797187551856041
-    },
-    {
-        "title": "Acuerdo para subir un 11% los sueldos de los funcionarios hasta 2028",
-        "image_url": "https://static1.ara.cat/clip/3f6c92aa-4039-44b9-9f87-016d2100c504_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "acuerdo",
-            "11",
-            "subir",
-            "funcionarios",
-            "sueldos",
-            "2028"
-        ],
-        "link": "https://es.ara.cat/economia/mercado-laboral/acuerdo-subir-11-sueldos-funcionarios-2028_1_5574821.html",
-        "date": "2025-11-26 21:41:16",
-        "sentiment_score": 0.05757543444633484
-    },
-    {
-        "title": "Barcelona se atasca en la Champions, pero Flick es optimista sobre recuperación del equipo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "entertainment",
-            "top"
-        ],
-        "link": "https://www.houstonchronicle.com/sports/article/barcelona-se-atasca-en-la-champions-pero-flick-21210246.php",
-        "date": "2025-11-26 21:39:18",
-        "sentiment_score": 0.1476231813430786
-    },
-    {
-        "title": "Barcelona se atasca en la Champions, pero Flick es optimista sobre recuperación del equipo",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/11/LIGA_DE_CAMPEONES_30119.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2025/11/26/barcelona-se-atasca-en-la-champions-pero-flick-es-optimista-sobre-recuperacin-del-equipo/",
-        "date": "2025-11-26 21:39:18",
-        "sentiment_score": -0.21383655071258545
-    },
-    {
-        "title": "Atlético 2-1 Inter: Giménez, el uruguayo, irrumpió en el duelo argentino entre Julián y Lautaro",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/27/2025112703141051163.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/atletico-2-1-inter-gimenez-colo-duelo-fratricida-entre-julian-lautaro/20251127031550364660.html",
-        "date": "2025-11-27 02:15:50",
-        "sentiment_score": 0.7378292679786682
-    },
-    {
-        "title": "La rivalidad",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rivalidad"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/rivalidad_0_2005324138.html",
-        "date": "2025-11-27 02:08:06",
-        "sentiment_score": 0.36371611058712006
-    },
-    {
-        "title": "El Liverpool se derrumba en Anfield y Slot queda al borde del abismo",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/06/2025100601442170689.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/liverpool-derrumba-anfield-slot-queda-borde-abismo/20251127025152364655.html",
-        "date": "2025-11-27 01:51:52",
-        "sentiment_score": 0.1986169070005417
-    },
-    {
-        "title": "Simeone muestra su pasión y Atleti frena racha ganadora del Inter en la Champions",
-        "image_url": "https://dims.apnews.com/dims4/default/aba27fa/2147483647/strip/true/crop/1679x1118+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcd%2F24%2Fef6aafcd41206f5dd1861fa6123d%2F5295d58776fc46b382cfbba794c492ed",
-        "tags": [
-            "atletico madrid simeone champions league inter",
-            "sports",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/atletico-madrid-simeone-champions-league-inter-0c037499207662193a7073612f56c09e",
-        "date": "2025-11-27 01:35:07",
-        "sentiment_score": -0.6930583640933037
-    },
-    {
-        "title": "Simeone muestra su pasión y Atleti frena racha ganadora del Inter en la Champions",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/11/CAMPEONES_ATL201TICO-SIMEONE_88408.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2025/11/26/simeone-muestra-su-pasin-y-atleti-frena-racha-ganadora-del-inter-en-la-champions/",
-        "date": "2025-11-27 01:35:06",
-        "sentiment_score": -0.15665000677108765
-    },
-    {
-        "title": "Fecha 5 de la Champions League: póker de Mbappé, el Atlético de Madrid vence en el 93’ y Arsenal gana una «final» anticipada",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2025/11/26/champions-league-mbappe-real-madrid-olympiacos-orix/",
-        "date": "2025-11-27 01:03:48",
-        "sentiment_score": 0.3704419434070587
-    },
-    {
-        "title": "26 NOV 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/26-nov-2025-partidazo-cope-20251127_3260314.html",
-        "date": "2025-11-27 00:44:02",
-        "sentiment_score": 0.47841687500476837
-    },
-    {
-        "title": "Pánico en el Gobierno ante este 'jueves negro' en los juzgados",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/e9cfb4212f39ea415b80e61f147a934c/crop/51x0/2017x1311/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/26/17641918528077.jpg",
-        "tags": [
-            "pedro sánchez>",
-            "koldo garcía>",
-            "política>",
-            "santos cerdán>"
-        ],
-        "link": "https://www.expansion.com/economia/politica/2025/11/27/69276e95468aebbb068b4571.html",
-        "date": "2025-11-27 00:41:15",
-        "sentiment_score": -0.8479231838136911
-    },
-    {
-        "title": "Jueves 27 de noviembre (02:00 GMT)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/27/jueves-27-de-noviembre-0200-gmt/",
-        "date": "2025-11-27 02:15:52",
-        "sentiment_score": 0.008975081145763397
-    },
-    {
-        "title": "Es la demografía, estúpido",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "estupido",
-            "demografia"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/demografia-estupido_0_2005324149.html",
-        "date": "2025-11-27 02:08:13",
-        "sentiment_score": -0.09117960929870605
-    },
-    {
-        "title": "Investigadores presentan un modelo de IA que mejora el diagnóstico de enfermedades raras",
-        "image_url": "https://www.infobae.com/resizer/v2/UFENV6SDCZFAXGYZRLQOHZ7FSM.webp?auth=916f7d779b4de4ce5b5e2381447f9a641fb5874943ec1fe283aeece517de9e09&height=1024&smart=true&width=1792",
-        "tags": [
-            "mutaciones genéticas",
-            "medicina",
-            "lo último en tecnología",
-            "biotecnología e innovación",
-            "inteligencia artificial"
-        ],
-        "link": "https://www.infobae.com/tecno/2025/11/27/investigadores-presentan-un-modelo-de-ia-que-mejora-el-diagnostico-de-enfermedades-raras/",
-        "date": "2025-11-27 01:44:30",
-        "sentiment_score": 0.39754076302051544
-    },
-    {
-        "title": "Después de su salida de Pumas, Dani Alves es captado en su nueva faceta como predicador",
-        "image_url": "https://www.infobae.com/resizer/v2/42TDKGYA5VH5JP3RVATXC362G4.jpg?auth=eee9933f46b99c10a471778e028760954d74bd46a334c96dc35cfdd764d62b8d&height=1080&smart=true&width=1920",
-        "tags": [
-            "futbol",
-            "aaron ramsey",
-            "liga mx",
-            "pumas",
-            "mexico-deportes",
-            "dani alves",
-            "club universidad"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2025/11/27/despues-de-su-salida-de-pumas-dani-alves-es-captado-en-su-nueva-faceta-como-predicador/",
-        "date": "2025-11-27 01:30:00",
-        "sentiment_score": -0.8677824065089226
-    },
-    {
         "title": "Álvaro Fernández, portero del Real Avilés: «En el Celta viví cosas que me hicieron crecer y les guardo mucho cariño»",
         "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/11/26/alvaro-rai-kXbB-U2403649546258I-1200x840@El%20Comercio.jpg",
         "tags": [
@@ -440,29 +90,6 @@ export default [
         "link": "https://www.merca2.es/2025/11/27/roadshow-bmc-helix-madrid-2327901/",
         "date": "2025-11-27 05:30:00",
         "sentiment_score": 0.4681668132543564
-    },
-    {
-        "title": "El Celta, sin victorias en casa: una oportunidad para el Espanyol",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/celta-espanyol-24-25-celebracion.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/celta-espanyol-balaidos-victorias-local/",
-        "date": "2025-11-27 05:15:11",
-        "sentiment_score": -0.06521612405776978
-    },
-    {
-        "title": "Mbappé evita una tragicomedia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/067c59fb-0b2a-4fb2-a8d3-9896493646e9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "blanca",
-            "real madrid",
-            "goles",
-            "madrid"
-        ],
-        "link": "https://www.farodevigo.es/deportes/2025/11/27/mbappe-evita-tragicomedia-124169920.html",
-        "date": "2025-11-27 05:08:13",
-        "sentiment_score": -0.7039022818207741
     },
     {
         "title": "Lion, taxista dominicano en España: \"Antes trabajaba 14 h, ahora hago 4 h y gano unos 60 € al día solo en propinas\"",
@@ -3042,5 +2669,237 @@ export default [
         "link": "https://www.laopiniondezamora.es/comarcas/2025/11/30/crisis-peste-porcina-espolea-criticas-124271032.html",
         "date": "2025-11-30 06:01:12",
         "sentiment_score": -0.8975128848105669
+    },
+    {
+        "title": "Los autónomos se manifiestan en Santander: «Estamos asfixiados»",
+        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2025/11/30/autonomos-uno-R8md4dkufwofDTWPQtKVNOJ-1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "tarragona (ciudad)",
+            "sevilla",
+            "ayuntamiento de santander",
+            "madrid (ciudad)",
+            "santiago de compostela",
+            "santander",
+            "salamanca",
+            "bilbao",
+            "oviedo",
+            "valencia (ciudad)",
+            "mallorca"
+        ],
+        "link": "https://www.eldiariomontanes.es/santander/autonomos-manifiestan-santander-asfixiados-20251130181319-nt.html",
+        "date": "2025-11-30 17:13:20",
+        "sentiment_score": -0.3003351464867592
+    },
+    {
+        "title": "Miles de autónomos claman por la \"dignidad\" de un colectivo que se dice \"pilar de España\"",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/11/30/una-plataforma-pedira-hoy-en-toda-espana-condiciones-dignas-para-los-autonomos.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.heraldo.es/noticias/economia/2025/11/30/miles-autonomos-claman-dignidad-colectivo-pilar-espana-1874880.html",
+        "date": "2025-11-30 17:12:03",
+        "sentiment_score": -0.49421122670173645
+    },
+    {
+        "title": "Franklin, el influencer venezolano que conquista Asturias con su moda a pie de calle: «Oviedo lo tiene todo. Y mucho glamour»",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/11/29/franklin-abreu-influencer-oviedo%20(2)-kfvE-U240399406234SxH-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "franklin",
+            "influencer",
+            "moda",
+            "venezolano",
+            "calle",
+            "asturias",
+            "pie",
+            "oviedo",
+            "glamour",
+            "conquista"
+        ],
+        "link": "https://www.elcomercio.es/oviedo/medicenklin-franklin-abreu-influencer-asturias-moda-oviedo-20251129180808-nt.html",
+        "date": "2025-11-30 17:09:29",
+        "sentiment_score": 0.08121603727340698
+    },
+    {
+        "title": "El Badajoz y La Cruz sacuden la liga",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/11/30/Imagen%20G7ARr4vWcAALX2g_papel_xoptimizadax-RjnxU7MnPXoOWtKWPThqyKK-1200x840@Hoy.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/badajoz-cruz-sacuden-liga-20251130180749-nt.html",
+        "date": "2025-11-30 17:07:49",
+        "sentiment_score": 0.16784608364105225
+    },
+    {
+        "title": "Aerolíneas y viajeros, pendientes de recomendaciones sobre Venezuela tras aviso de Trump",
+        "image_url": "https://www.el-carabobeno.com/wp-content/uploads/2022/01/air-europa-iberia-referencial.jpg",
+        "tags": [
+            "faceb2",
+            "tuit2",
+            "rec",
+            "internacional",
+            "rec1"
+        ],
+        "link": "https://www.el-carabobeno.com/aerolineas-y-viajeros-pendientes-de-recomendaciones-sobre-venezuela-tras-aviso-de-trump/",
+        "date": "2025-11-30 17:04:59",
+        "sentiment_score": -0.1144554615020752
+    },
+    {
+        "title": "Algeciras es reconocida como Ciudad Amiga de la Infancia 2025",
+        "image_url": "https://static.grupojoly.com/clip/3c0fa0ef-5267-48bb-b8b3-1bd17860b62d_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/ciudad-amiga-infancia-2025_0_2005352584.html",
+        "date": "2025-11-30 16:53:39",
+        "sentiment_score": 0.392160814255476
+    },
+    {
+        "title": "Girona y Real Madrid frente a frente: datos que anticipan un choque eléctrico",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/girona-real-madrid-frente-frente-datos-que-anticipan-choque-electrico/20251130174804365178.html",
+        "date": "2025-11-30 16:48:04",
+        "sentiment_score": -0.2919754385948181
+    },
+    {
+        "title": "Manifestantes, en la protesta contra Sánchez: \"Es vergonzoso lo que está pasando, él es cómplice\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/30/692c210ff2c1a9-59126276.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/manifestantes-protesta-sanchez-vergonzoso-pasando-complice_6904580_0.html",
+        "date": "2025-11-30 16:37:04",
+        "sentiment_score": -0.0791621282696724
+    },
+    {
+        "title": "El Levante destituye a Julián Calero e Iborra y Del Moral toman el mando de manera interina",
+        "image_url": "https://www.infobae.com/resizer/v2/6T2LBNQDZNDDNMICJJNTOH4L2E.jpg?auth=e74d291d2f858c581f579e3c20f778b3e924f5d063bd350cf07a440945b98c0b&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/11/30/el-levante-destituye-a-julian-calero-e-iborra-y-del-moral-toman-el-mando-de-manera-interina/",
+        "date": "2025-11-30 16:30:20",
+        "sentiment_score": -0.8200292810797691
+    },
+    {
+        "title": "El activo inmobiliario que seduce al ahorrador español este año",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2021/07/12/2021071210174675645.jpg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/dinero/activo-inmobiliario-que-seduce-ahorrador-espanol-ano/20251130172940991893.html",
+        "date": "2025-11-30 16:29:40",
+        "sentiment_score": -0.5502125471830368
+    },
+    {
+        "title": "Barcelona acogerá una residencia literaria con autores latinoamericanos para que escriban sobre la ciudad",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/29/informacion-municipal/1003742712057_15463292_1706x960.jpg",
+        "tags": [
+            "información municipal",
+            "jaume collboni",
+            "barcelona literaria",
+            "cultura",
+            "ayuntamiento de barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20251130/barcelona-acogera-residencia-literaria-autores-latinoamericanos-escriban-ciudad/1003742712052_0.html",
+        "date": "2025-11-30 17:18:48",
+        "sentiment_score": 0.5051934458315372
+    },
+    {
+        "title": "Cataluña pide el despliegue de la UME ante el brote de peste porcina africana: preocupación en Extremadura",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8ec9e7d9-81d0-48d9-87a8-b8679949c4cf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "radio",
+            "agricultura",
+            "impacto económico",
+            "extremadura"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/11/30/cataluna-despliegue-ume-peste-porcina-africana-124291606.html",
+        "date": "2025-11-30 17:16:16",
+        "sentiment_score": -0.04532572627067566
+    },
+    {
+        "title": "La cuarta edición del salón del videojuego en catalán bate récords en L'Hospitalet: 9.000 visitas",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/30/gran-barcelona/1003742712210_15465157_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "videojuegos y gamers",
+            "l'hospitalet de llobregat"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251130/cuarta-edicion-salon-videojuego-catalan-bate-records-lhospitalet-visitas/1003742712208_0.html",
+        "date": "2025-11-30 17:13:45",
+        "sentiment_score": 0.2505033649504185
+    },
+    {
+        "title": "Más de 250 agentes se movilizan en el dispositivo para contener el foco de peste porcina",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/11/30/mas-de-250-agentes-se-movilizan-en-el-dispositivo-para-contener-el-foco-de-peste-porcina.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/multimedia/videos/nacional/video-250-efectivos-frenar-foco-peste-porcina-collserola-barcelona/",
+        "date": "2025-11-30 17:07:14",
+        "sentiment_score": -0.3717239946126938
+    },
+    {
+        "title": "Este es el pueblo donde será más barato comprar una casa en Cataluña este 2026: a 1 hora de Tarragona y casas por 47.000 euros",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/08/17/empresas/787431423_8468322_1706x960.jpg",
+        "tags": [
+            "+economía",
+            "vivienda",
+            "barcelona",
+            "cataluña",
+            "pueblo",
+            "tarragona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/mas-economia/20251130/pueblo-barato-comprar-casa-cataluna-hora-tarragona-casas-euros-trt/1003742712011_0.html",
+        "date": "2025-11-30 17:00:00",
+        "sentiment_score": 0.481166273355484
+    },
+    {
+        "title": "Corberán: \"Queremos competir fuera de casa igual que en Mestalla\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/30/692c76e9dfc11.jpeg",
+        "tags": [
+            "deportes cope valencia"
+        ],
+        "link": "https://www.cope.es/emisoras/comunidad-valenciana/valencia-provincia/valencia/deportes-cope-valencia/noticias/corberan-queremos-competir-fuera-casa-igual-mestalla-20251130_3262409.html",
+        "date": "2025-11-30 16:59:45",
+        "sentiment_score": 0.04305705428123474
+    },
+    {
+        "title": "Badalona ultima su pista de hielo junto al gran árbol de Navidad",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/static/ESPEspanol/img/elespanol_amp-1706x960.png?hash=924e",
+        "tags": [
+            "gran barcelona",
+            "recomendaciones",
+            "badalona",
+            "planes",
+            "navidad barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251130/badalona-ultima-pista-hielo-junto-gran-arbol-navidad/1003742712190_0.html",
+        "date": "2025-11-30 16:56:14",
+        "sentiment_score": 0.2863490805029869
+    },
+    {
+        "title": "Asaja exige \"medidas\" firmes de control de la fauna silvestre",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/02/27/el-constante-crecimiento-de-la-poblacion-de-jabali-obliga-a-intensificar-su-caza.r_d.457-470.jpeg",
+        "tags": [
+            "comarcas"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/comarcas/2025/11/30/asaja-exige-medidas-firmes-de-control-de-la-fauna-silvestre-1874870-daa.html",
+        "date": "2025-11-30 16:33:42",
+        "sentiment_score": -0.7973216138780117
+    },
+    {
+        "title": "Semana Deportiva: Venezuela y Ecuador igualan 0-0 en la Liga de Naciones",
+        "image_url": "https://static.wixstatic.com/media/cf263a_0332741048ab43a0a43b47cc563fcd30~mv2.png/v1/fit/w_935,h_546,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/semana-deportiva-venezuela-y-ecuador-igualan-0-0-en-la-liga-de-naciones",
+        "date": "2025-11-30 14:00:23",
+        "sentiment_score": 0.3158971518278122
     }
 ];
