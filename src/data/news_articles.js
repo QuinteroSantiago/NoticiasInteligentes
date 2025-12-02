@@ -1,214 +1,5 @@
 export default [
     {
-        "title": "El Atlético quiere fortalecerse antes del Camp Nou",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251128181026_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-atletico-quiere-fortalecerse-antes-camp-nou-20251128181026.html",
-        "date": "2025-11-28 17:10:26",
-        "sentiment_score": 0.2128613144159317
-    },
-    {
-        "title": "17:00H | 28 NOV 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-28-nov-2025-tarde-20251128_3262044.html",
-        "date": "2025-11-28 17:08:00",
-        "sentiment_score": -0.4511503577232361
-    },
-    {
-        "title": "El partido entre Ebro y Osasuna de Copa del Rey es declarado de alto riesgo",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/10/18/2025101816405418861.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.aragondigital.es/articulo/deportes/partido-entre-ebro-osasuna-copa-rey-es-declarado-alto-riesgo/20251128180512954845.html",
-        "date": "2025-11-28 17:05:12",
-        "sentiment_score": -0.0546535961329937
-    },
-    {
-        "title": "La exmujer de Ábalos, Carolina Perles, habla en televisión tras el ingreso en prisión: \"Mis hijos están destrozados\"",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2565670.jpg",
-        "tags": [
-            "dolcevita"
-        ],
-        "link": "https://www.vozpopuli.com/dolcevita/la-ex-mujer-de-abalos-carolina-perles-habla-en-television-tras-el-ingreso-en-prision-mis-hijos-estan-destrozados.html",
-        "date": "2025-11-28 17:04:54",
-        "sentiment_score": -0.43234750255942345
-    },
-    {
-        "title": "Laporta acusa al Real Madrid de \"barcelonitis\" y de \"estirar como un chicle\" el 'caso Negreira'",
-        "image_url": "https://www.infobae.com/resizer/v2/SU7DMN7GGRCCNGAZR5H74ED2ZI.jpg?auth=e5bf00ed0772f71d5b0dee1c0744e32633b2229f83c00d65643afebe5844211c&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/28/laporta-acusa-al-real-madrid-de-barcelonitis-y-de-estirar-como-un-chicle-el-caso-negreira/",
-        "date": "2025-11-28 17:00:34",
-        "sentiment_score": -0.9113511899486184
-    },
-    {
-        "title": "Víctor Arpa, abogado, sobre la incapacidad permanente: \"La ineptitud no garantiza automáticamente una resolución favorable",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/08/12/689b8f42e5800.r_d.2070-657-1900.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.cope.es/actualidad/economia/noticias/victor-arpa-abogado-sobre-incapacidad-permanente-ineptitud-garantiza-automaticamente-resolucion-favorable-20251128_3261962.html",
-        "date": "2025-11-28 16:57:50",
-        "sentiment_score": -0.27751903235912323
-    },
-    {
-        "title": "Emma Lustres, primera productora Medalla de Oro de los Premios Forqué: \"El cine hace de España una potencia cultural\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251128175638_690.jpg",
-        "tags": [
-            "cultura",
-            "cine"
-        ],
-        "link": "https://www.europapress.es/cultura/cine-00128/noticia-emma-lustres-primera-productora-medalla-oro-premios-forque-cine-hace-espana-potencia-cultural-20251128175638.html",
-        "date": "2025-11-28 16:56:38",
-        "sentiment_score": 0.5763611681759357
-    },
-    {
-        "title": "Telefónica se queda con LaLiga: renueva los derechos para Movistar Plus+ hasta 2032",
-        "image_url": "https://www.elplural.com/uploads/s1/20/28/97/6/elplural-23_7_480x270.jpeg",
-        "tags": [
-            "extratele"
-        ],
-        "link": "https://www.elplural.com/extratele/telefonica-queda-laliga-renueva-derechos-movistar-plus-hasta-2032_366299102",
-        "date": "2025-11-28 16:55:38",
-        "sentiment_score": 0.08259788155555725
-    },
-    {
-        "title": "Un estudio del CIES sentencia la gestión de Deco en los fichajes del Barça: solo 26 millones de balance positivo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/11/22/culemania/palco/903169833_14962236_1706x960.jpg",
-        "tags": [
-            "barça",
-            "deco",
-            "culemaníacos",
-            "la masía",
-            "fichajes barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251128/cies-sentencia-deco-fichajes-barca-millones-positivo/1003742711802_0.html",
-        "date": "2025-11-28 16:54:45",
-        "sentiment_score": -0.592109065502882
-    },
-    {
-        "title": "Visita histórica del presidente alemán a Guernica, población vasca bombardeada por los nazis",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/28122258/AFP__20251128__86GM847__v1__HighRes__SpainGermanyDiplomacyHistory-2560x1705.jpg",
-        "tags": [
-            "mundo",
-            "guernica"
-        ],
-        "link": "https://www.elnacional.com/2025/11/visita-historica-del-presidente-aleman-a-guernica-poblacion-vasca-bombardeada-por-los-nazis/",
-        "date": "2025-11-28 16:51:31",
-        "sentiment_score": -0.7657175399363041
-    },
-    {
-        "title": "Unos 500 alcaldes reunidos en Montserrat por la ACM reivindican el municipalismo como \"pilar de país\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251128181021_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-500-alcaldes-reunidos-montserrat-acm-reivindican-municipalismo-pilar-pais-20251128181021.html",
-        "date": "2025-11-28 17:10:21",
-        "sentiment_score": 0.15207545459270477
-    },
-    {
-        "title": "El entrenador del Alavés Eduardo Coudet: \"Sin los errores del VAR seríamos quintos\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/28/6929d6a494360.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/entrenador-alaves-eduardo-coudet-errores-var-seriamos-quintos-20251128_3262043.html",
-        "date": "2025-11-28 17:09:11",
-        "sentiment_score": -0.14422771334648132
-    },
-    {
-        "title": "Prohibido acceder al bosque en 12 municipios de Catalunya tras confirmarse los primeros casos de peste porcina africana",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/68fcfedf-2e0f-4b95-b0d9-90852bcca5c9_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "jabalí"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20251128/peste-porcina-africana-barcelona-prohibo-paso-bosque-124245458",
-        "date": "2025-11-28 17:05:42",
-        "sentiment_score": -0.753306083381176
-    },
-    {
-        "title": "Barcelona acoge la puesta de largo del nuevo Pacto por el Mediterráneo y la adopción del marco estratégico de la UpM",
-        "image_url": "https://www.infobae.com/resizer/v2/ZYC42SI7UJGF3HD3LEK52DFWBQ.jpg?auth=e1ea5a15153d13a12de6de96c708c35c5a9e1ad06a6587ad2637d10f9909bb3f&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/11/28/barcelona-acoge-la-puesta-de-largo-del-nuevo-pacto-por-el-mediterraneo-y-la-adopcion-del-marco-estrategico-de-la-upm/",
-        "date": "2025-11-28 17:01:46",
-        "sentiment_score": 0.45861833542585373
-    },
-    {
-        "title": "Agentes de los Mossos y la Local del Prat unifican criterios para reforzar controles a VTC y taxis",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/28/movilidad/1003742711825_15460197_1706x960.jpg",
-        "tags": [
-            "el prat",
-            "mossos d'esquadra",
-            "guardia urbana",
-            "el prat de llobregat",
-            "vtc",
-            "aeropuerto barcelona",
-            "policía",
-            "movilidad",
-            "taxistas barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20251128/agentes-mossos-local-prat-unifican-criterios-reforzar-controles-vtc-taxis/1003742711821_0.html",
-        "date": "2025-11-28 17:01:44",
-        "sentiment_score": 0.11913415789604187
-    },
-    {
-        "title": "Toledo acogerá a más de 500 aspirantes a funcionarios",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/dda4f81f-e10e-4f5b-83c82a3314ca489b.jpg",
-        "tags": [
-            "empleo",
-            "comunidades autónomas",
-            "barcelona",
-            "cataluña",
-            "funcionarios",
-            "santa cruz de tenerife",
-            "tenerife",
-            "castilla-la mancha",
-            "toledo",
-            "canarias",
-            "madrid"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zed88d3f6-37ca-4359-9dd1530cd696cec1/202511/toledo-acogera-a-mas-de-500-aspirantes-a-funcionarios",
-        "date": "2025-11-28 17:00:28",
-        "sentiment_score": 0.04265829920768738
-    },
-    {
-        "title": "Barcelona acoge la puesta de largo del nuevo Pacto por el Mediterráneo y la adopción del marco estratégico de la UpM",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251128173913.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/barcelona-acoge-la-puesta-de-largo-del-nuevo-pacto-por-el-mediterrneo-y-la-adopcin-del-marco-estratgico-de-la-upm/",
-        "date": "2025-11-28 17:00:04",
-        "sentiment_score": 0.15461644530296326
-    },
-    {
-        "title": "Con sólo impedir la inmigración de Marruecos, los delitos en España se reducirían más de un 50 por ciento",
-        "image_url": "https://www.alertadigital.com/wp-content/uploads/2017/12/marroquiesa.jpg",
-        "tags": [
-            "delitos",
-            "marruecos",
-            "españa",
-            "inmigracion"
-        ],
-        "link": "https://www.alertadigital.com/2025/11/28/con-solo-impedir-la-inmigracion-de-marruecos-los-delitos-en-espana-se-reducirian-mas-de-un-50-por-ciento/",
-        "date": "2025-11-28 16:59:30",
-        "sentiment_score": -0.9373303344473243
-    },
-    {
         "title": "Joan Laporta ataca al Real Madrid: estas fueron las palabras del presidente blaugrana",
         "image_url": "https://pxcdn.2001online.com/2001/112025/1764368435646/7a71a97e-440c-4ee8-b1d1-d8070faaaea3_alta-libre-aspect-ratio_default_0.jpg?ch=675&cw=1200",
         "tags": [
@@ -3181,5 +2972,110 @@ export default [
         "link": "https://meridiano.net/futbol/barcelona-tendria-decidido-el-nombre-de-su-proximo-fichaje-en-defensa-202512120150",
         "date": "2025-12-02 00:15:00",
         "sentiment_score": -0.07423056662082672
+    },
+    {
+        "title": "Samuel Navalón inicia una nueva etapa de la mano de Manuel Amador",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/02/692e895e75258.r_d.512-317-4245.jpeg",
+        "tags": [
+            "toros"
+        ],
+        "link": "https://www.cope.es/actualidad/toros/noticias/samuel-navalon-inicia-nueva-etapa-mano-manuel-amador-20251202_3263322.html",
+        "date": "2025-12-02 06:40:33",
+        "sentiment_score": 0.13455140590667725
+    },
+    {
+        "title": "Joaquim Segalés, investigador de la peste porcina: \"La única opción factible es que hayan ingerido carne contaminada\"",
+        "image_url": "https://www.elplural.com/uploads/s1/21/11/50/4/joaquim-segales-irta-cresa_7_480x270.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.elplural.com/autonomias/cataluna/joaquim-segales-investigador-peste-porcina-unica-opcion-factible-hayan-ingerido-carne-contaminada_366490102",
+        "date": "2025-12-02 06:23:15",
+        "sentiment_score": -0.236919105052948
+    },
+    {
+        "title": "El Bilbao Athletic, en racha hacia el ‘play-off’",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5ec5f4a4-02bc-4fcb-bd2c-f0f13a12fa62_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "play",
+            "off",
+            "athletic",
+            "bilbao",
+            "racha"
+        ],
+        "link": "https://www.deia.eus/futbol/2025/12/02/bilbao-athletic-racha-play-off-10422677.html",
+        "date": "2025-12-02 06:13:02",
+        "sentiment_score": 0.4069996476173401
+    },
+    {
+        "title": "Génova recrudece la guerra con Vox superada la investidura de Pérez Llorca",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d58c2bd-a4b0-456e-8aa2-08dbfc50d553_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "santiago abascal",
+            "miguel tellado",
+            "partido popular",
+            "vox",
+            "alberto núñez feijóo"
+        ],
+        "link": "https://www.laopiniondemurcia.es/nacional/2025/12/02/genova-recrudece-guerra-vox-superada-124341167.html",
+        "date": "2025-12-02 06:11:06",
+        "sentiment_score": -0.7183816209435463
+    },
+    {
+        "title": "La caza del jabalí se intensificará contra la propagación de la peste porcina en Castilla y León",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2024/11/10/67308f41913c1.r_d.600-466-0.jpeg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/251202/103399/caza-jabali-intensificara-propagacion-peste-porcina-castilla-leon.html",
+        "date": "2025-12-02 06:30:00",
+        "sentiment_score": 0.1719379425048828
+    },
+    {
+        "title": "La peste porcina alerta a Extremadura pero la Junta recuerda que solo hay foco en una zona de Cataluña",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/01/jabalies-R9fM0IyZb7RKytxOjexMQGI-758x531@Hoy.jpg",
+        "tags": [
+            "extremadura",
+            "barcelona (provincia)",
+            "alerta",
+            "españa",
+            "cataluña"
+        ],
+        "link": "https://www.hoy.es/extremadura/peste-porcina-alerta-extremadura-junta-recuerda-solo-20251202072754-nt.html",
+        "date": "2025-12-02 06:27:54",
+        "sentiment_score": -0.05632631480693817
+    },
+    {
+        "title": "Macrooperativo con más de 300 agentes contra una red de asaltos violentos y tráfico drogas",
+        "image_url": "https://static1.ara.cat/clip/c68624ea-c360-4dbd-a896-48429b199337_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asaltos",
+            "policias",
+            "violentos",
+            "300",
+            "drogas",
+            "macrooperativo",
+            "red",
+            "trafico"
+        ],
+        "link": "https://es.ara.cat/sociedad/sucesos/300-policias-macrooperativo-red-asaltos-violentos-trafico-drogas_1_5580125.html",
+        "date": "2025-12-02 06:26:56",
+        "sentiment_score": -0.7177987694740295
+    },
+    {
+        "title": "Vivir en Can 70, la primera cooperativa sénior en Barcelona: \"No quiero ir a una residencia ni que me cuide mi hija\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e02cdc94-a748-4459-a1e4-b284105e5114_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "envejecimiento",
+            "vivienda",
+            "tercera edad",
+            "vivienda social",
+            "barcelona",
+            "longevidad",
+            "cataluña"
+        ],
+        "link": "https://www.laopiniondemalaga.es/sociedad/2025/12/02/vivienda-mayores-cooperativa-barcelona-can-70-sarria-envejecimiento-124341685.html",
+        "date": "2025-12-02 06:25:53",
+        "sentiment_score": -0.009569436311721802
     }
 ];
