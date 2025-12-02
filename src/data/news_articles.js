@@ -2954,5 +2954,232 @@ export default [
         "link": "https://www.elmundo.es/papel/2025/12/01/692dd634fc6c83310c8b4572.html",
         "date": "2025-12-01 21:50:05",
         "sentiment_score": -0.7902420870959759
+    },
+    {
+        "title": "Zarzuela repudia el vídeo en el que Juan Carlos I defiende su legado y a Felipe VI con el estilo de sus mensajes navideños",
+        "image_url": "https://s3.elespanol.com/2025/12/01/actualidad/1003744037966_260255182_1706x960.jpg",
+        "tags": [
+            "españa",
+            "felipe vi",
+            "juan carlos i",
+            "monarquía"
+        ],
+        "link": "https://www.elespanol.com/espana/20251202/zarzuela-repudia-video-juan-carlos-defiende-legado-felipe-vi-estilo-mensajes-navidenos/1003744037909_0.html",
+        "date": "2025-12-02 01:50:33",
+        "sentiment_score": -0.627048946917057
+    },
+    {
+        "title": "Del sol y la playa al nuevo refugio de inversión: así se consolida el lujo inmobiliario en España",
+        "image_url": "https://phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
+        "tags": [
+            "artículos daniela saltos"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/12/02/691f054221efa0f36c8b45cc.html",
+        "date": "2025-12-02 01:28:29",
+        "sentiment_score": 0.7934756390750408
+    },
+    {
+        "title": "El Atlético de Madrid recorta distancias con Barça y Real Madrid: nueva entrada de inversores contra el poder de Goldman Sachs y Sixth Street",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/02/culemania/palco/1003742712619_15470223_1706x960.jpg",
+        "tags": [
+            "fondos de inversión",
+            "palco",
+            "atlético de madrid",
+            "fc barcelona",
+            "goldman sachs",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251202/atletico-madrid-barca-goldman-sachs-sixth-street/1003742712609_0.html",
+        "date": "2025-12-02 01:05:48",
+        "sentiment_score": -0.7523990944027901
+    },
+    {
+        "title": "Rodrygo Goes, desaparecido: juega el 49% de los minutos, pero sólo firma 36 tiros en 30 partidos con 9 meses sin gol",
+        "image_url": "https://s3.elespanol.com/2025/12/01/actualidad/1003744037340_260247121_1706x960.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "real madrid cf",
+            "rodrygo goes"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251202/rodrygo-goes-desaparecido-juega-minutos-solo-firma-tiros-partidos-meses-sin-gol/1003744037215_0.html",
+        "date": "2025-12-02 01:00:00",
+        "sentiment_score": 0.5871008038520813
+    },
+    {
+        "title": "01 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/01-dic-2025-partidazo-cope-20251202_3263284.html",
+        "date": "2025-12-02 00:50:00",
+        "sentiment_score": -0.367522694170475
+    },
+    {
+        "title": "Mariano Alierta Izuel",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/01/692dde379f51c.r_d.403-58-12500.jpeg",
+        "tags": [
+            "obituarios"
+        ],
+        "link": "https://www.eldebate.com/obituarios/20251202/aragones-cortes-constituyentes_361010.html",
+        "date": "2025-12-02 00:30:00",
+        "sentiment_score": -0.14446808397769928
+    },
+    {
+        "title": "Rafa Nadal, tras recibir el Premio Leyenda, confiesa que le atrae la idea de presidir el Real Madrid, aunque la ve “muy lejana”",
+        "image_url": "https://www.infobae.com/resizer/v2/K3RH4XSAABCCXOZFWERBPLVB6A.JPG?auth=c830639e70c5d4448dfe0fdcce869f7a86993fe6ee7c3e0ddb412076f00bda3a&height=2780&smart=true&width=4099",
+        "tags": [
+            "novak djokovic",
+            "carlos alcaraz",
+            "roger federer",
+            "españa-deportes",
+            "tenis",
+            "españa-noticias",
+            "rafael nadal",
+            "premios"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/02/rafa-nadal-tras-recibir-el-premio-leyenda-confiesa-que-le-atrae-la-idea-de-presidir-el-real-madrid-aunque-la-ve-muy-lejana/",
+        "date": "2025-12-02 00:24:13",
+        "sentiment_score": 0.36308205872774124
+    },
+    {
+        "title": "Guía del partido Barça-Atlético de Madrid de hoy: horario, dónde verlo y alineaciones",
+        "image_url": "https://static1.ara.cat/clip/fe300701-0885-4448-a321-19a97f2dd04b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "verlo",
+            "alineaciones",
+            "partido",
+            "atletico",
+            "hoy",
+            "barca",
+            "guia",
+            "madrid",
+            "horario"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/guia-partido-barca-atletico-madrid-hoy-horario-verlo-alineaciones_1_5580080.html",
+        "date": "2025-12-02 00:05:04",
+        "sentiment_score": 0.22975580394268036
+    },
+    {
+        "title": "Lanzarote reafirma su liderazgo internacional en turismo sostenible tras una jornada histórica en Jameos del Agua",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/73689b3b-999b-476e-b131-c4d370b4b096_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "liderazgo",
+            "lanzarote",
+            "agua",
+            "turismo sostenible",
+            "sostenibilidad",
+            "turismo"
+        ],
+        "link": "https://www.laprovincia.es/lanzarote/2025/12/02/lanzarote-reafirma-liderazgo-internacional-turismo-124331972.html",
+        "date": "2025-12-01 23:59:00",
+        "sentiment_score": 0.7182324454188347
+    },
+    {
+        "title": "Un árbol de Navidad de 120.000 euros",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/01/arbol-chaumet-kXHE-U240416277282WtF-758x531@RC.jpg",
+        "tags": [
+            "consumo",
+            "navidad",
+            "loewe"
+        ],
+        "link": "https://www.elnortedecastilla.es/sociedad/arbol-navidad-120000-euros-20251201001800-ntrc.html",
+        "date": "2025-12-01 23:44:43",
+        "sentiment_score": 0.7948522455990314
+    },
+    {
+        "title": "¿Se ha olvidado el PNV de su apoyo al Alzamiento en Álava y Navarra?",
+        "image_url": "https://s3.elespanol.com/2025/12/01/actualidad/1003744036469_260237044_1706x960.jpg",
+        "tags": [
+            "tribunas",
+            "pnv",
+            "país vasco",
+            "opinión",
+            "guernica",
+            "tribunas de opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20251202/olvidado-pnv-apoyo-alzamiento-alava-navarra/1003744036465_12.html",
+        "date": "2025-12-02 01:32:57",
+        "sentiment_score": -0.6312823481857777
+    },
+    {
+        "title": "Feijóo trata de calmar al PP ante una moción de censura con Junts: \"Sus condiciones son inaceptables\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
+        "tags": [
+            "artículos víctor mondelo",
+            "pp",
+            "alberto núñez feijóo",
+            "carles puigdemont",
+            "pedro sánchez",
+            "junts per catalunya"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/12/02/692dde63e85ece95328b458a.html",
+        "date": "2025-12-02 01:28:31",
+        "sentiment_score": -0.8955136463046074
+    },
+    {
+        "title": "La peste porcina dispara el temor a que suba la carne 'refugio' del súper mientras 20 países cierran sus mercados",
+        "image_url": "https://s3.elespanol.com/2025/12/01/actualidad/1003744037540_260249477_1706x960.jpg",
+        "tags": [
+            "andalucía",
+            "cerdos",
+            "agricultura",
+            "economía",
+            "alimentación",
+            "inflación"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/20251202/peste-porcina-dispara-temor-suba-carne-refugio-super-paises-cierran-mercados/1003744037398_0.html",
+        "date": "2025-12-02 01:20:15",
+        "sentiment_score": -0.9121481077745557
+    },
+    {
+        "title": "Un café con Santiago",
+        "image_url": "https://s3.elespanol.com/2020/01/27/el-cultural/462967824_218788855_1706x960.jpg",
+        "tags": [
+            "un café con santiago",
+            "ciencia",
+            "cerebro",
+            "neurociencia",
+            "santiago ramón y cajal"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/opinion/un-cafe-con-santiago/20251202/cafe-santiago/1003744035881_13.html",
+        "date": "2025-12-02 00:55:00",
+        "sentiment_score": 0.7416304014623165
+    },
+    {
+        "title": "Elvira Dyangani Ose (MACBA): \"El museo es un derecho, un lugar en el que suceden experiencias\"",
+        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027309_260115224_1706x960.jpg",
+        "tags": [
+            "entrevistas",
+            "barcelona",
+            "arte",
+            "macba - museo de arte contemporáneo de barcelona",
+            "museos"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20251202/elvira-dyangani-ose-macba-museo-derecho-lugar-suceden-experiencias/1003744027247_0.html",
+        "date": "2025-12-02 00:55:00",
+        "sentiment_score": 0.8304712232202291
+    },
+    {
+        "title": "La estupidez tiene graves consecuencias",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2025/12/01/692dda70a5c4d.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20251202/estupidez-tiene-graves-consecuencias_360994.html",
+        "date": "2025-12-02 00:30:00",
+        "sentiment_score": -0.8688430041074753
+    },
+    {
+        "title": "Barcelona tendría decidido el nombre de su próximo fichaje en defensa",
+        "image_url": "https://pxcdn.meridiano.net/122025/1764634484150.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/barcelona-tendria-decidido-el-nombre-de-su-proximo-fichaje-en-defensa-202512120150",
+        "date": "2025-12-02 00:15:00",
+        "sentiment_score": -0.07423056662082672
     }
 ];
