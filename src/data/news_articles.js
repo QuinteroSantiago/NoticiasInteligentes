@@ -1,50 +1,5 @@
 export default [
     {
-        "title": "La relevancia de la tiara de Cartier que ha lucido la reina Letizia y sus 8 históricas joyas de pasar",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2564501.jpg",
-        "tags": [
-            "dolcevita"
-        ],
-        "link": "https://www.vozpopuli.com/dolcevita/la-relevancia-de-la-tiara-de-cartier-que-ha-lucido-la-reina-letizia-y-sus-8-historicas-joyas-de-pasar.html",
-        "date": "2025-11-28 06:35:01",
-        "sentiment_score": 0.3252909183502197
-    },
-    {
-        "title": "El vestuario del Real Madrid pasa por el diván de Xabi tras la conversación con Florentino",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/13c57e0c-70d1-482c-9274-a6c4d42391cd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "xabi alonso",
-            "real madrid",
-            "florentino pérez",
-            "fútbol"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/11/28/vestuario-real-madrid-divan-xabi-alonso-124218886.html",
-        "date": "2025-11-28 06:27:38",
-        "sentiment_score": -0.09912139177322388
-    },
-    {
-        "title": "Charlas internas, gestos simbólicos y comunicados: el Real Madrid trata de apagar el fuego de su guerra interna",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/27/6928b814e27456-88886291.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/charlas-internas-gestos-simbolicos-comunicados-real-madrid-trata-apagar-fuego-su-guerra-interna_6903779_0.html",
-        "date": "2025-11-28 06:26:56",
-        "sentiment_score": 0.6365384459495544
-    },
-    {
-        "title": "¿Qué es el Pacto por el Mediterráneo? 5 claves del intento de la UE de estrechar lazos con los vecinos del sur",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8cf1d4ee-0556-4246-b3e7-362dcff4c846_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ue",
-            "mediterráneo",
-            "unión europea"
-        ],
-        "link": "https://www.laopiniondemurcia.es/internacional/2025/11/28/pacto-mediterraneo-ue-claves-que-es-124218803.html",
-        "date": "2025-11-28 06:24:55",
-        "sentiment_score": 0.2023455649614334
-    },
-    {
         "title": "El Atlético quiere fortalecerse antes del Camp Nou",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251128181026_690.jpg",
         "tags": [
@@ -2766,5 +2721,238 @@ export default [
         "link": "https://okdiario.com/viajes/ni-madrid-ni-barcelona-aqui-estan-aguas-termales-gratuitas-perfectas-este-invierno-15859546",
         "date": "2025-12-01 17:08:36",
         "sentiment_score": -0.24502378702163696
+    },
+    {
+        "title": "Julián Álvarez y el récord de Simeone que amenaza al Barça de Hansi Flick en la Liga",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/27/culemania/real-madrid/1003742692555_15470080_1706x960.jpg",
+        "tags": [
+            "atlético de madrid",
+            "la liga",
+            "primer equipo",
+            "barça",
+            "hansi flick",
+            "cholo simeone"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251201/julian-alvarez-simeone-barca-hansi-flick-liga/1003742712583_0.html",
+        "date": "2025-12-01 22:17:25",
+        "sentiment_score": 0.48396652191877365
+    },
+    {
+        "title": "Víctor Ábalos: \"Sánchez le dio la orden directa a mi padre de ir a ver a Delcy a Barajas y desde entonces cayó en desgracia\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/0b97729c36c45af6df21589868b134ca/crop/1335x0/2194x859/f/image/jpeg/assets/multimedia/imagenes/2022/04/07/16493333774499.jpg",
+        "tags": [
+            "artículos esteban urreiztieta",
+            "psoe",
+            "koldo garcía",
+            "nlpremium",
+            "josé luis ábalos",
+            "artículos juanma lamet",
+            "víctor de  aldama",
+            "santos cerdán"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/12/01/692dde06e85ece7e748b4595.html",
+        "date": "2025-12-01 21:51:42",
+        "sentiment_score": -0.2997559383511543
+    },
+    {
+        "title": "Lo que le dice Almeida a Nadal en la alfombra roja de los Premios AS provoca su reacción inmediata",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/01/fotomontaje-de-rafa-nadal-y-almeida-en-los-premios-as-del-deporte-2025.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/lo-le-dice-almeida-nadal-alfombra-roja-premios-as-provoca-reaccion-inmediata.html",
+        "date": "2025-12-01 21:32:53",
+        "sentiment_score": 0.29343945533037186
+    },
+    {
+        "title": "La familia Franco devuelve las estatuas del Mestre Mateo, ya en Santiago",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/12/01/2025120122240125695.jpg",
+        "tags": [
+            "galicia"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/galicia/familia-franco-devuelve-estatuas-mestre-mateo-santiago/202512012225031421012.html",
+        "date": "2025-12-01 21:25:03",
+        "sentiment_score": 0.05798481032252312
+    },
+    {
+        "title": "¿Puede el Atlético ganar al Barça en el Camp Nou? Los motivos de Simeone para romper la maldición de 19 años",
+        "image_url": "https://s3.elespanol.com/2025/09/17/actualidad/1003743929963_258791636_1706x960.jpg",
+        "tags": [
+            "deportes",
+            "la liga",
+            "atlético de madrid",
+            "fc barcelona",
+            "fútbol"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251201/puede-atletico-ganar-barca-camp-nou-motivos-simeone-romper-maldicion-anos/1003744037938_0.html",
+        "date": "2025-12-01 20:53:59",
+        "sentiment_score": -0.4793536439538002
+    },
+    {
+        "title": "Cuál es el modo IA de Google y para qué sirve",
+        "image_url": "https://www.infobae.com/resizer/v2/27LMX3NRTZEMLPIN6CC2ZRHEC4.JPG?auth=d0f40079cf731c59dbad7b8c7d2fdd40ebd262549e5fbab9cd4e1152556b7d06&height=2000&smart=true&width=3000",
+        "tags": [
+            "buscador",
+            "inteligencia artificial",
+            "gemini",
+            "lo último en tecnología",
+            "tecnología",
+            "google"
+        ],
+        "link": "https://www.infobae.com/tecno/2025/12/01/cual-es-el-modo-ia-de-google-y-para-que-sirve/",
+        "date": "2025-12-01 20:45:37",
+        "sentiment_score": 0.4008509162813425
+    },
+    {
+        "title": "VÍDEO: Almeida: \"Ayer perdimos el liderato en esta ciudad y mañana esta ciudad recuperará el liderato en Barcelona\"",
+        "image_url": "https://www.infobae.com/resizer/v2/XNQAKC44VRF5LCMOON7PU5SVCA.jpg?auth=a1f99bff1081b9c39eba937218014eff39fc3fe8436e8e564f3ef2b155abb943&height=1440&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/01/video-almeida-ayer-perdimos-el-liderato-en-esta-ciudad-y-manana-esta-ciudad-recuperara-el-liderato-en-barcelona/",
+        "date": "2025-12-01 20:45:16",
+        "sentiment_score": -0.37692810595035553
+    },
+    {
+        "title": "¿Qué sería del Real Madrid sin Mbappé?",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/01/4BB63904-1186-42E2-9A2D-067B0E32F217/mbappe-partido-liga-girona-real-madrid_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "fútbol",
+            "antena 3 noticias",
+            "deportes"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/que-seria-real-madrid-mbappe_20251201692dfd5b55584d48fb65b839.html",
+        "date": "2025-12-01 20:40:59",
+        "sentiment_score": -0.9408299094066024
+    },
+    {
+        "title": "Almeida: \"Ayer perdimos el liderato en esta ciudad y mañana esta ciudad recuperará el liderato en Barcelona\"",
+        "image_url": "https://www.infobae.com/resizer/v2/EUJGWWZLDBD5VLJ5NPUT5RZUZ4.jpg?auth=98a9062ce80180252ac6ac84c166a7cd179f38bd6c1ea17c9ea0d69084bec6d3&height=1440&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/01/almeida-ayer-perdimos-el-liderato-en-esta-ciudad-y-manana-esta-ciudad-recuperara-el-liderato-en-barcelona/",
+        "date": "2025-12-01 20:30:52",
+        "sentiment_score": -0.4334263876080513
+    },
+    {
+        "title": "Collboni recibe las llaves de la ciudad de Guadalajara (México) durante la FIL",
+        "image_url": "https://www.infobae.com/resizer/v2/BMYAZP5XBJBNREMJIBWKGCGPBY.jpg?auth=eca3e03e867c234f6a5480478c4c75a0a0d9c2b07c297dc148dd2ffb1cf73252&height=1525&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/01/collboni-recibe-las-llaves-de-la-ciudad-de-guadalajara-mexico-durante-la-fil/",
+        "date": "2025-12-01 22:15:33",
+        "sentiment_score": 0.048986587673425674
+    },
+    {
+        "title": "Planas confirma que China aplicará los acuerdos de regionalización para salvar las exportaciones de porcino",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/12/01/luis-planas-se-reune-con-representantes-del-sector-porcino.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2025/12/01/exportaciones-porcino-china-regionalizacion-peste-porcina-barcelona-1875273.html",
+        "date": "2025-12-01 22:15:23",
+        "sentiment_score": 0.4505153149366379
+    },
+    {
+        "title": "Planas confirma que China aplicará los acuerdos de regionalización para salvar las exportaciones de porcino",
+        "image_url": "https://www.infobae.com/resizer/v2/USYICC2J3BHUFFVSFXMTCR4BFM.jpg?auth=26cd6bb07a3674829f4be97524c095c7592890ffb05c175bb37b93c780394dd1&height=2878&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/01/planas-confirma-que-china-aplicara-los-acuerdos-de-regionalizacion-para-salvar-las-exportaciones-de-porcino/",
+        "date": "2025-12-01 22:15:15",
+        "sentiment_score": 0.4842310771346092
+    },
+    {
+        "title": "Venezolanos marcharán en 24 países apoyando Nobel de Paz a Machado",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/01173656/maria-corina-machado-su-mensaje-del-5-julio-2025.webp",
+        "tags": [
+            "vente venezuela",
+            "maría corina machado",
+            "nobel de la paz",
+            "mundo"
+        ],
+        "link": "https://www.elnacional.com/2025/12/venezolanos-marcharan-en-24-paises-apoyando-nobel-de-paz-a-machado/",
+        "date": "2025-12-01 22:14:39",
+        "sentiment_score": 0.16420522332191467
+    },
+    {
+        "title": "Sánchez prevé anunciar un gesto a Cataluña y responder a Feijóo por pedir \"ayuda\" a la patronal catalana para una moción",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/10/30/comparecencia-de-pedro-sanchez-por-el-caso-koldo-en-el-senado-29.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2025/12/01/sanchez-preve-anunciar-gesto-cataluna-responder-feijoo-ayuda-patronal-catalana-para-una-mocion-1875270.html",
+        "date": "2025-12-01 22:07:06",
+        "sentiment_score": 0.14151743799448013
+    },
+    {
+        "title": "La segunda mejor pizza de España está en el barrio Húmedo de León",
+        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2025/12/01/img5533-kCwG-U240417479256dJE-758x531@Leonoticias.jpg",
+        "tags": [
+            "espana",
+            "segunda",
+            "barrio",
+            "corazon",
+            "humedo",
+            "pizza",
+            "mejor",
+            "leon"
+        ],
+        "link": "https://www.elnortedecastilla.es/leon/segunda-mejor-pizza-espana-barrio-humedo-leon-20251201230448-nt.html",
+        "date": "2025-12-01 22:04:48",
+        "sentiment_score": 0.32695984840393066
+    },
+    {
+        "title": "La agenda ultra se impone a Català: València se queda sin zona de bajas emisiones arriesgando 150 millones",
+        "image_url": "https://static.eldiario.es/clip/2d6bb482-c9de-4f71-8ef1-55d751d42821_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "análisis",
+            "alicante",
+            "información",
+            "valencia",
+            "opinión",
+            "noticias",
+            "actualidad",
+            "comunidad valenciana",
+            "castellón"
+        ],
+        "link": "https://www.eldiario.es/comunitat-valenciana/valencia/agenda-ultra-impone-catala-valencia-queda-zona-bajas-emisiones-arriesgando-150-millones_1_12809961.html",
+        "date": "2025-12-01 22:00:57",
+        "sentiment_score": -0.03633427619934082
+    },
+    {
+        "title": "Oques Grasses anuncia un último concierto en el Cabró Rock antes de su despedida",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cc1cf23129.r_d.2839-2915-0.jpeg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/musica/20251201/11321453/oques-grasses-anuncia-ultimo-concierto-cabro-rock-despedida.html",
+        "date": "2025-12-01 22:00:11",
+        "sentiment_score": 0.0536327064037323
+    },
+    {
+        "title": "El descontrol sobre la población de jabalíes que se alimentan de basura pone en jaque 8.800 millones",
+        "image_url": "https://phantom-elmundo.uecdn.es/a26740b42107f331db250e5118108f79/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/01/17646160130176.jpg",
+        "tags": [
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/12/01/692de03afc6c83605e8b4579.html",
+        "date": "2025-12-01 21:50:55",
+        "sentiment_score": -0.7416982799768448
+    },
+    {
+        "title": "La rebeldía de Cecilio G., el trapero que hablaba con demonios: \"Si esto es el infierno, voy a repetir. Estoy condenado\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/9f5074e8908bc663f9dd9b5c9b28d1e9/f/image/jpeg/assets/multimedia/imagenes/2023/07/19/16897720720848.jpg",
+        "tags": [
+            "música",
+            "nlpremium",
+            "artículos juan diego madueño"
+        ],
+        "link": "https://www.elmundo.es/papel/2025/12/01/692dd634fc6c83310c8b4572.html",
+        "date": "2025-12-01 21:50:05",
+        "sentiment_score": -0.7902420870959759
     }
 ];
