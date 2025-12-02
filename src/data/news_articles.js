@@ -1,480 +1,5 @@
 export default [
     {
-        "title": "Plannam lidera el nuevo estándar de eficiencia operativa según métricas inspiradas en McKinsey (2023–2025)",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7748116",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5685428/plannam-lidera-nuevo-estandar-eficiencia-operativa-segun-metricas-inspiradas-mckinsey-20232025",
-        "date": "2025-11-27 22:06:49",
-        "sentiment_score": 0.25650542601943016
-    },
-    {
-        "title": "Hereu defiende ante líderes empresariales de Iberoamérica que la democracia social requiere fortalecer las empresas",
-        "image_url": "https://www.infobae.com/resizer/v2/3I36U6XFQFDXZCLCAVYFTE5R7M.jpg?auth=ca57c9397c93dfbcf2e6487d3ce0d64617dcfdf95d8be2d8ea58c185ca0bfda7&height=1279&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/27/hereu-defiende-ante-lideres-empresariales-de-iberoamerica-que-la-democracia-social-requiere-fortalecer-las-empresas/",
-        "date": "2025-11-27 22:00:34",
-        "sentiment_score": 0.01017490029335022
-    },
-    {
-        "title": "Mariano Rajoy: «La política necesita gente que no necesite de la política»",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/11/27/6928c861c2049.jpeg",
-        "tags": [
-            "córdoba - actualidad"
-        ],
-        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/actualidad/20251127/mariano-rajoy-politica-necesita-gente-no-necesite-politica_359858.html",
-        "date": "2025-11-27 21:57:04",
-        "sentiment_score": -0.12706465274095535
-    },
-    {
-        "title": "Dónde ha caído el bote de 46 millones de euros de La Primitiva, y los premios de la ONCE, Eurodreams, Bonoloto y Lotería Nacional de este jueves 27 de noviembre de 2025",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2019/12/15/DD6F937B-CB78-45BE-A8BA-423DBC0AECA2/98.jpg?crop=594%2C334%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "loterías",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-caido-bote-46-millones-euros-primitiva-premios-once-eurodreams-bonoloto-loteria-nacional-este-jueves-27-noviembre-2025_202511276928c8076e5e5012dcd1594e.html",
-        "date": "2025-11-27 21:52:07",
-        "sentiment_score": 0.026262465864419937
-    },
-    {
-        "title": "Olga Carmona: \"Ya sabéis de la ambición de esta selección\"",
-        "image_url": "https://www.infobae.com/resizer/v2/DXX37WYQJRFZDPL5TJMN7XW5HY.jpg?auth=61982f95efd2c910c41d546c52fde7c19ae02d4b8064eb578409721c1677fab9&height=1301&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/27/olga-carmona-ya-sabeis-de-la-ambicion-de-esta-seleccion/",
-        "date": "2025-11-27 21:45:37",
-        "sentiment_score": 0.34624429047107697
-    },
-    {
-        "title": "Structurit y el Observatorio de Industria y Tecnología presentan el VIII Informe Smart Industry 4.0",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7748090",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5685410/structurit-observatorio-industria-tecnologia-presentan-viii-informe-smart-industry-40",
-        "date": "2025-11-27 21:44:58",
-        "sentiment_score": 0.6774447076022625
-    },
-    {
-        "title": "El Supremo resta valor a una colaboración tardía de Ábalos con la Justicia: \"En este momento es poco relevante lo que pudiera aportar\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/d9754f9e1c9ec2c05cc471eb1d5216d6/crop/519x0/2567x2048/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468205674169.jpg",
-        "tags": [
-            "koldo garcía",
-            "santos cerdán",
-            "psoe",
-            "josé luis ábalos",
-            "nlpremium",
-            "víctor de  aldama",
-            "artículos ángela martialay",
-            "artículos manuel marraco"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/27/692897ade9cf4af5278b4590.html",
-        "date": "2025-11-27 21:43:26",
-        "sentiment_score": -0.7871524263173342
-    },
-    {
-        "title": "La cárcel de Ábalos corona el jueves negro del Gobierno: \"Se nos colaron unas manzanas podridas y las hicimos número 2, es heavy\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/2d26f27a1465f2fcc979f51abd99c7e7/crop/1x7/100x107/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16528898789864.jpg",
-        "tags": [
-            "artículos raúl piña",
-            "psoe",
-            "josé luis ábalos",
-            "nlpremium",
-            "pedro sánchez"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/27/69289b1cfdddffe52c8b458a.html",
-        "date": "2025-11-27 21:43:15",
-        "sentiment_score": -0.9244061671197414
-    },
-    {
-        "title": "Ábalos y Koldo García ingresan en la cárcel de Soto del Real",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/78a12c24-8400-4909-b838529fbeda3536.jpg",
-        "tags": [
-            "pp",
-            "audiencia nacional",
-            "tribunal supremo",
-            "caso koldo",
-            "fiscalía anticorrupción",
-            "francina armengol",
-            "koldo garcía",
-            "justicia",
-            "víctor de aldama",
-            "josé luis ábalos",
-            "leopoldo lópez",
-            "congreso de los diputados",
-            "covid-19"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/ze1faa74b-b428-4166-aae59fb96cd1cfd8/202511/abalos-y-koldo-garcia-ingresan-en-la-carcel-de-soto-del-real",
-        "date": "2025-11-27 21:41:55",
-        "sentiment_score": -0.22287652641534805
-    },
-    {
-        "title": "La prédica más reveladora de Dani Alves como cristiano: \"Me llamaban mono y me tiraban plátanos\"",
-        "image_url": "https://pxcdn.meridiano.net/112025/1764281525212.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/la-predica-mas-reveladora-de-dani-alves-como-cristiano-me-llamaban-mono-y-me-tiraban-platanos--2025112718130",
-        "date": "2025-11-27 22:13:00",
-        "sentiment_score": 0.11011102795600891
-    },
-    {
-        "title": "¿Barcelona vendrá con Flores? Todo lo que tienes que saber de FIL Guadalajara",
-        "image_url": "https://www.infobae.com/resizer/v2/XWTKSEB4D5HU5NHRIZ6XMFPGOM.jpg?auth=de23482edf465c7d81054c2ef4421e80aa6d3b07c26ea492908d843d5d0d9333&height=1080&smart=true&width=1920",
-        "tags": [
-            "méxico",
-            "feria",
-            "feria del libro",
-            "fil guadalajara",
-            "literatura",
-            "fil guadalajara 2025",
-            "lectura",
-            "cultura",
-            "fil",
-            "expo guadalajara",
-            "libros",
-            "novela"
-        ],
-        "link": "https://www.infobae.com/america/inhouse/2025/11/27/barcelona-vendra-con-flores-todo-lo-que-tienes-que-saber-de-fil-guadalajara/",
-        "date": "2025-11-27 22:04:09",
-        "sentiment_score": 0.7507191253826022
-    },
-    {
-        "title": "La Diputación de Barcelona aprueba un presupuesto de 1.400 millones para 2026",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/01/13/informacion-municipal/550954909_10066744_1706x960.jpg",
-        "tags": [
-            "diputació de barcelona",
-            "vivir en barcelona",
-            "lluïsa moret"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251127/diputacion-barcelona-aprueba-presupuesto-millones/1003742711507_0.html",
-        "date": "2025-11-27 21:59:37",
-        "sentiment_score": 0.36111315712332726
-    },
-    {
-        "title": "El sorteo de La Primitiva deja 53.443,20 euros en Extremadura este jueves",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2025/10/30/loterias-primitiva-kXUE-U24062158901tTC-1200x840@Hoy.jpg",
-        "tags": [
-            "primitiva"
-        ],
-        "link": "https://www.hoy.es/sociedad/sorteo-primitiva-deja-5344320-extremadura-jueves-20251127224305-nt.html",
-        "date": "2025-11-27 21:43:26",
-        "sentiment_score": 0.07692867517471313
-    },
-    {
-        "title": "El emotivo homenaje de Sira Martínez, hija de Luis Enrique, a su hermana Xana en el día que habría cumplido 16 años",
-        "image_url": "https://www.hola.com/horizon/landscape/4b6d176fddb5-fae9ca86e125-fsfsfjpeg.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "sira martinez"
-        ],
-        "link": "https://www.hola.com/actualidad/20251127870033/sira-martinez-emocionante-recuerdo-cumpleanos-hermana-xana/",
-        "date": "2025-11-27 21:33:33",
-        "sentiment_score": -0.6521756201982498
-    },
-    {
-        "title": "Del ‘Autorretrato’ de Basquiat al ‘Fotomatón’ de Onofre Bachiller: El Macba celebra treinta años de arte contemporáneo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/5SPFIEZTYFCJDBGASCZGUNMRKY.jpg?auth=7cbd6c56a40b15e1fac5b34b766868979e0cd0f764e41690962e1db2facc484d&width=1200",
-        "tags": [
-            "arte",
-            "museos",
-            "barcelona",
-            "exposiciones",
-            "artistas",
-            "macba",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-11-27/del-autorretrato-de-basquiat-al-fotomaton-de-onofre-bachiller-el-macba-revisa-treinta-anos-de-arte-contemporaneo.html",
-        "date": "2025-11-27 21:21:14",
-        "sentiment_score": 0.4507325105369091
-    },
-    {
-        "title": "El laboratorio de ideas de la FP Gallega en Ourense ha recibido más de dos mil visitantes de distintos países del mundo",
-        "image_url": "https://cflvdg.avoz.es/sc/83XkckdwKxF7E-J2oiKree84O2g=/768x/2025/11/26/00121764162781438358413/Foto/o_20251126_135355000.jpg",
-        "tags": [
-            "eduardo barreiros",
-            "educación",
-            "ourense ciudad",
-            "fp"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/ourense/ourense/2025/11/26/laboratorio-ideas-fp-gallega-recibido-dos-mil-visitantes-distintos-paises-mundo/00031764162082040190619.htm",
-        "date": "2025-11-27 21:14:00",
-        "sentiment_score": 0.38134999573230743
-    },
-    {
-        "title": "Osama Alalo, activista por los derechos de la comunidad musulmana en Murcia: “Como minoría, nos están aplastando”",
-        "image_url": "https://static.eldiario.es/clip/02806a20-bfb3-425c-ac55-eee8524c69de_16-9-discover-aspect-ratio_default_1130934.jpg",
-        "tags": [
-            "osama",
-            "comunidad",
-            "activista",
-            "derechos",
-            "minoria",
-            "alalo",
-            "musulmana",
-            "murcia",
-            "aplastando"
-        ],
-        "link": "https://www.eldiario.es/murcia/sociedad/osama-alalo-activista-derechos-comunidad-musulmana-murcia-minoria-aplastando_1_12786367.html",
-        "date": "2025-11-27 21:09:57",
-        "sentiment_score": -0.08671176433563232
-    },
-    {
-        "title": "El catalán detrás de la IA de Google: “Gemini no podría hacerme esta entrevista, al menos de momento”",
-        "image_url": "https://static.eldiario.es/clip/08c0000a-3ccc-4e81-9186-f56873dc5e7e_16-9-discover-aspect-ratio_default_0_x2008y1311.jpg",
-        "tags": [
-            "actualidad",
-            "política",
-            "ignacio escolar",
-            "barcelona",
-            "economía",
-            "periodismo independiente",
-            "cataluña",
-            "noticias"
-        ],
-        "link": "https://www.eldiario.es/catalunya/catalan-detras-ia-google-gemini-no-hacerme-entrevista-momento_128_12803010.html",
-        "date": "2025-11-27 21:09:52",
-        "sentiment_score": -0.06750327348709106
-    },
-    {
-        "title": "La IA se introduce 'peligrosamente' en la OTAN y en Defensa: Estos son los planes para España",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://elcierredigital.com/investigacion/ia-incursiona-peligrosamente-otan-defensa-estos-son-planes-espana",
-        "date": "2025-11-28 02:00:00",
-        "sentiment_score": -0.39949362725019455
-    },
-    {
-        "title": "La exmujer y la hijastra de Juan contrataron a un sicario para que lo asesinara y así cobrar un seguro de 300.000€: \"¡Mátalo!\"",
-        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744033073_260191012_1706x960.jpg",
-        "tags": [
-            "españa",
-            "albacete (municipio)",
-            "almansa",
-            "investigación policial",
-            "apuñalamientos",
-            "guardia civil",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251128/exmujer-hijastra-juan-contrataron-sicario-asesinara-cobrar-seguro-matalo/1003744032794_0.html",
-        "date": "2025-11-28 01:58:21",
-        "sentiment_score": -0.864947373047471
-    },
-    {
-        "title": "A ver si explicado así lo entienden de una vez los votantes del PSOE...",
-        "image_url": "https://s3.elespanol.com/2025/11/20/actualidad/1003744022937_260056707_1706x960.jpg",
-        "tags": [
-            "columnas de opinión",
-            "opinión",
-            "corrupción",
-            "psoe (partido socialista obrero español)",
-            "alberto núñez feijóo",
-            "columnas"
-        ],
-        "link": "https://www.elespanol.com/opinion/columnas/20251128/ver-explicado-entienden-vez-votantes-psoe/1003744029864_12.html",
-        "date": "2025-11-28 01:32:24",
-        "sentiment_score": -0.8534018518403172
-    },
-    {
-        "title": "Instrucciones desde Soto del Real y MDMA en cajas de bombones: la caída de la banda que enviaba droga en paquetes",
-        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744032656_260185765_1706x960.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "sociedad",
-            "madrid",
-            "drogas"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251128/instrucciones-soto-real-mdma-cajas-bombones-caida-banda-enviaba-droga-paquetes/1003744032459_0.html",
-        "date": "2025-11-28 01:00:00",
-        "sentiment_score": -0.47017762437462807
-    },
-    {
-        "title": "El arte de gobernar",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/376de1e9aab98d8f87b922a014a8f06d/crop/37x63/1561x1079/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/27/17642781810480.jpg",
-        "tags": [
-            "opinión>",
-            "política>"
-        ],
-        "link": "https://www.expansion.com/economia/politica/2025/11/28/6928bfcc468aeba5088b4578.html",
-        "date": "2025-11-28 00:47:51",
-        "sentiment_score": -0.9488803185522556
-    },
-    {
-        "title": "El embajador de Guaidó ya avisó de que Air Europa, Zapatero y Maduro estaban detrás de la trama corrupta del Gobierno de Sánchez",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/11/DAMBin41-RKaNL4EF92Ih9P03PSWwpJP-1200x840diario_abc-1.jpg",
-        "tags": [
-            "pedro sánchez",
-            "corrupción",
-            "nicolás maduro",
-            "josé luis rodríguez zapatero",
-            "españa",
-            "air europa"
-        ],
-        "link": "https://gaceta.es/espana/el-embajador-de-guaido-ya-aviso-de-que-air-europa-zapatero-y-maduro-estaban-detras-de-la-trama-corrupta-del-gobierno-de-sanchez-20251128-0146/",
-        "date": "2025-11-28 00:46:00",
-        "sentiment_score": -0.23291776329278946
-    },
-    {
-        "title": "Quién es quién en la discreta y noble familia de María Palacios: de su célebre padre Julio a su madre Pina y sus tres hermanos",
-        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744032054_260178106_1706x960.jpg",
-        "tags": [
-            "famosos",
-            "alessandro lequio",
-            "hijos",
-            "familia",
-            "malos tratos",
-            "denuncias",
-            "maría palacios"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251128/discreta-noble-familia-maria-palacios-celebre-padre-julio-madre-pina-hermanos/1003744032039_0.html",
-        "date": "2025-11-28 00:33:00",
-        "sentiment_score": -0.891808183863759
-    },
-    {
-        "title": "Cata Coll, sobre la final: \"¿Favoritas?... no; y Alemania, tampoco\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/28/6928ec191d6ee.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/cata-coll-cope-sobre-final-alemania-favoritas-alemania-tampoco-20251128_3261221.html",
-        "date": "2025-11-28 00:32:33",
-        "sentiment_score": 0.0045709311962127686
-    },
-    {
-        "title": "Cumbre de Feijóo con sus alcaldes: el PP destaca los avances en natalidad y su compromiso con las familias",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/27/69287c2cca856.r_d.920-466-6250.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20251128/cumbre-feijoo-alcaldes-pp-destaca-avances-natalidad-compromiso-familias_359773.html",
-        "date": "2025-11-28 00:30:00",
-        "sentiment_score": 0.7323447018861771
-    },
-    {
-        "title": "España en la mochila de Jose",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6624045da.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20251128/espana-mochila-jose_359807.html",
-        "date": "2025-11-28 00:30:00",
-        "sentiment_score": -0.3111577481031418
-    },
-    {
-        "title": "Workday se acerca a las pymes españolas",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/22/692218c700ae3.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20251128/11292503/workday-pymes-espana-silicon-valley.html",
-        "date": "2025-11-28 02:00:00",
-        "sentiment_score": 0.5150432847440243
-    },
-    {
-        "title": "El monstruo de La Rioja viajó desde Granada para someter a prácticas sádicas a una menor: \"Le hizo ver que era normal\"",
-        "image_url": "https://s3.elespanol.com/2025/11/27/reportajes/1003744033238_260193066_1706x960.jpg",
-        "tags": [
-            "delitos sexuales",
-            "menores",
-            "la rioja",
-            "agresiones sexuales",
-            "abusos sexuales",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251128/monstruo-rioja-viajo-granada-someter-practicas-sadicas-menor-hizo-ver-normal/1003744032293_0.html",
-        "date": "2025-11-28 01:58:17",
-        "sentiment_score": -0.7282323781400919
-    },
-    {
-        "title": "El arriesgado plan de Neymar para intentar salvar al Santos del descenso",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Neymar.jpg",
-        "tags": [
-            "titulares",
-            "santos fc",
-            "neymar jr",
-            "deportes",
-            "brasileirao"
-        ],
-        "link": "https://lapatilla.com/2025/11/27/el-arriesgado-plan-de-neymar-para-intentar-salvar-al-santos-del-descenso/",
-        "date": "2025-11-28 01:57:16",
-        "sentiment_score": -0.04476124048233032
-    },
-    {
-        "title": "Black Friday Gastronómico: Hoteles con estrella Michelin rebajan precios",
-        "image_url": "https://static.grupojoly.com/clip/1e20ded8-c66a-46d4-bd5d-0b39dfc6b655_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hoteles",
-            "friday",
-            "estrella",
-            "black",
-            "gastronomico"
-        ],
-        "link": "https://www.malagahoy.es/bc-malaga/black-friday-gastronomico-hoteles-estrella_0_2005324650.html",
-        "date": "2025-11-28 01:00:56",
-        "sentiment_score": 0.8295225016772747
-    },
-    {
-        "title": "Antonio Flores y el recuerdo de una vida trágica que dejó un valioso legado musical",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/gente/2025/11/17/antonio-flores-documental-RDywzAPO9qeOa9jodF0DVCI-1200x840@diario_abc.jpg",
-        "tags": [
-            "dejo",
-            "vida",
-            "musical",
-            "antonio",
-            "legado",
-            "tragica",
-            "valioso",
-            "recuerdo",
-            "flores"
-        ],
-        "link": "https://www.abc.es/gente/antonio-flores-recuerdo-vida-tragica-dejo-valioso-20251117141422-nt.html",
-        "date": "2025-11-28 00:55:16",
-        "sentiment_score": 0.08784008026123047
-    },
-    {
-        "title": "'Del fandom al troleo': Berta Prieto lleva a La Abadía su sátira del victimismo y la soberbia de la élite cultural",
-        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027683_260120176_1706x960.jpg",
-        "tags": [
-            "estrenos de teatro",
-            "teatro"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/teatro/20251128/fandom-troleo-berta-prieto-lleva-abadia-satira-victimismo-soberbia-elite-cultural/1003744027634_0.html",
-        "date": "2025-11-28 00:55:00",
-        "sentiment_score": 0.009054556488990784
-    },
-    {
-        "title": "Mutua y El Corte Inglés alcanzan 545 millones en su firma de valores",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/f23b4836166e96f0c0a26e1c8384af2e/crop/25x17/1295x864/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/27/17642799891272.jpg",
-        "tags": [
-            "empresas>",
-            "mutua madrileña>",
-            "seguros>",
-            "el corte inglés>"
-        ],
-        "link": "https://www.expansion.com/empresas/seguros/2025/11/28/6928a5ece5fdea3d798b4573.html",
-        "date": "2025-11-28 00:47:50",
-        "sentiment_score": 0.36555927619338036
-    },
-    {
-        "title": "3a PARTE | 27 NOV 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-27-nov-2025-partidazo-cope-20251128_3261223.html",
-        "date": "2025-11-28 00:41:24",
-        "sentiment_score": -0.6933168051764369
-    },
-    {
         "title": "La relevancia de la tiara de Cartier que ha lucido la reina Letizia y sus 8 históricas joyas de pasar",
         "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2564501.jpg",
         "tags": [
@@ -3084,5 +2609,162 @@ export default [
         "link": "https://www.lacronicabadajoz.com/sociedad/2025/12/01/obras-reforma-viviendas-retrasos-meses-falta-albaniles-construccion-124302750.html",
         "date": "2025-12-01 06:37:41",
         "sentiment_score": -0.8157647289335728
+    },
+    {
+        "title": "Primer pulso por la Liga en el nuevo Camp Nou",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/01/Clipboard-0173.jpg",
+        "tags": [
+            "f.c. barcelona",
+            "atlético de madrid"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/primer-pulso-liga-nuevo-camp-nou-20251201181002-ntrc.html",
+        "date": "2025-12-01 17:11:14",
+        "sentiment_score": 0.12815487384796143
+    },
+    {
+        "title": "Horario y dónde ver el Quintanar del Rey-Elche de la segunda ronda de Copa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06504594-e578-488d-bf5b-9ebbeaccce67_16-9-aspect-ratio_default_1419100.jpg",
+        "tags": [
+            "elche cf",
+            "ronda",
+            "rfef",
+            "horario",
+            "copa del rey"
+        ],
+        "link": "https://www.informacion.es/elche-cf/2025/12/01/horario-ver-quintanar-rey-elche-124328095.html",
+        "date": "2025-12-01 17:10:28",
+        "sentiment_score": 0.09812022000551224
+    },
+    {
+        "title": "El vending de residencias y hospitales tendrá que incluir un 80% de alimentos saludables",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/12/01/vending-machine-8636496-1280.png",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/12/01/el-vending-de-residencias-y-hospitales-tendra-que-incluir-un-80-de-alimentos-saludables-1875188-daa.html",
+        "date": "2025-12-01 17:09:08",
+        "sentiment_score": 0.19721346348524094
+    },
+    {
+        "title": "Flick desvela el motivo de sus lágrimas en el banquillo del Camp Nou: «Es mi amigo...»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/12/01/692dc6d4ec70e.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251201/flick-desvela-motivo-lagrimas-banquillo-camp-nou-mi-amigo_360974.html",
+        "date": "2025-12-01 17:08:17",
+        "sentiment_score": -0.33867247402668
+    },
+    {
+        "title": "El Club Conecta reúne en CaixaForum Madrid a líderes institucionales para debatir el futuro de Castilla-La Mancha",
+        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/e/b/7/JornadaCLM.jpeg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.eleconomista.es/economia/noticias/13671112/12/25/el-club-conecta-reune-en-caixaforum-madrid-a-lideres-institucionales-para-debatir-el-futuro-de-castillala-mancha.html",
+        "date": "2025-12-01 17:05:04",
+        "sentiment_score": 0.4662473089993
+    },
+    {
+        "title": "Le Normand repite con el grupo y Llorente es la única baja del Atlético para visitar al Barcelona",
+        "image_url": "https://okdiario.com/img/2025/12/01/le-normand-entrenamiento.jpg",
+        "tags": [
+            "marcos llorente",
+            "fc barcelona",
+            "barcelona",
+            "deportes",
+            "atlético de madrid"
+        ],
+        "link": "https://okdiario.com/deportes/normand-repite-grupo-llorente-unica-baja-del-atletico-visitar-barcelona-15859918",
+        "date": "2025-12-01 17:03:00",
+        "sentiment_score": -0.5872256495058537
+    },
+    {
+        "title": "EL DÍA sortea 5 entradas dobles para cada uno de los partidazos del La Laguna Tenerife",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f276b47b-6037-4cfa-b558-bcd54520ca8d_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tenerife",
+            "baloncesto",
+            "cb canarias",
+            "entradas"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/01/entradas-gratis-la-laguna-vs-real-madrid-y-trapani-shark-124327028.html",
+        "date": "2025-12-01 16:57:00",
+        "sentiment_score": 0.05142884701490402
+    },
+    {
+        "title": "Pagaban todos los meses 1.200 euros de alquiler en Ibiza y han sido desahuciados igualmente: el Tribunal Supremo lo avala",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fdd9022d-f482-4c9f-a7e9-a72d140a7b9b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "consumo",
+            "ibi",
+            "ibiza",
+            "tribunal supremo",
+            "renta"
+        ],
+        "link": "https://www.lne.es/vida-y-estilo/consumo/2025/12/01/pagaban-meses-1-200-euros-124327850.html",
+        "date": "2025-12-01 17:11:51",
+        "sentiment_score": -0.2703058198094368
+    },
+    {
+        "title": "¿Qué países han prohibido ya la importación de carne de cerdo española tras los casos de peste porcina?",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2022/08/03/CBCFD6F5-E119-43D6-9B38-A0FED504E2BD/69.jpg?crop=3464%2C1949%2Cx0%2Cy180&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/que-paises-han-prohibido-importacion-carne-cerdo-espanola-casos-peste-porcina_20251201692dcc3c9261f37ec7383201.html",
+        "date": "2025-12-01 17:11:24",
+        "sentiment_score": -0.5272002890706062
+    },
+    {
+        "title": "Una concejal de Junts en Barcelona critica la «militarización» de la crisis porcina",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/Un-vehiculo-de-la-UME-donde-se-han-detectado-focos-de-peste-porcina-en-Barcelona.jpg",
+        "tags": [
+            "barcelona",
+            "gripe porcina",
+            "sanidad",
+            "junts per catalunya (jxcat)",
+            "independentismo catalán"
+        ],
+        "link": "https://theobjective.com/sanidad/2025-12-01/concejal-junts-barcelona-militarizacion/",
+        "date": "2025-12-01 17:11:23",
+        "sentiment_score": -0.7477003578096628
+    },
+    {
+        "title": "Pere Romeu dice adiós a la gran estrella del Barça Femenino: lesionada de gravedad y condenada a pasar por quirófano",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/01/culemania/secciones/1003742712525_15469064_1706x960.jpg",
+        "tags": [
+            "fcbfemeni",
+            "aitana bonmatí",
+            "secciones",
+            "futfem"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20251201/pere-romeu-barca-femenino-lesionada-condenada-quirofano/1003742712507_0.html",
+        "date": "2025-12-01 17:09:56",
+        "sentiment_score": -0.8676200211048126
+    },
+    {
+        "title": "Córdoba elige a Góngora como el \"gran eje conductor\" de la Capitalidad Mediterránea de la Cultura y del Diálogo 2027",
+        "image_url": "https://static.grupojoly.com/clip/aef7076b-60ba-482b-80f4-01f255adc94b_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ayuntamiento de córdoba",
+            "últimas noticias córdoba"
+        ],
+        "link": "https://www.eldiadecordoba.es/cordoba/cordoba-elige-gongora-gran-eje-capitalidad-mediterranea-cultura_0_2005363300.html",
+        "date": "2025-12-01 17:09:19",
+        "sentiment_score": 0.2800135463476181
+    },
+    {
+        "title": "Ni en Madrid ni en Barcelona: aquí están las aguas termales gratuitas perfectas para este invierno",
+        "image_url": "https://okdiario.com/img/2025/12/01/adobestock_47500665.jpg",
+        "tags": [
+            "la rioja",
+            "viajes",
+            "españa"
+        ],
+        "link": "https://okdiario.com/viajes/ni-madrid-ni-barcelona-aqui-estan-aguas-termales-gratuitas-perfectas-este-invierno-15859546",
+        "date": "2025-12-01 17:08:36",
+        "sentiment_score": -0.24502378702163696
     }
 ];
