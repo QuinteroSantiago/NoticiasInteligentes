@@ -2604,5 +2604,209 @@ export default [
         "link": "https://www.cope.es/programas/la-linterna/clases-de-economia/audios/paloma-hostelera-verifactu-teniamos-cambiar-tpvs-dineral-sanciones-llegan-10-000-euros-tienes-implementado-20251202_3264200.html",
         "date": "2025-12-02 22:12:24",
         "sentiment_score": -0.10631445050239563
+    },
+    {
+        "title": "Un exanalista del FBI en Rusia ordenó atentar al grupo neonazi cazado en Castellón: eran fans del Unabomber y tenían armas",
+        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039633_260276642_1706x960.jpg",
+        "tags": [
+            "policía nacional",
+            "terrorismo",
+            "nazismo",
+            "detenciones",
+            "racismo",
+            "sucesos",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251203/exanalista-fbi-rusia-ordeno-atentar-grupo-neonazi-cazado-castellon-fans-unabomber-armas/1003744039700_0.html",
+        "date": "2025-12-03 01:50:06",
+        "sentiment_score": -0.9206995582208037
+    },
+    {
+        "title": "Arrién, el 'súperabogado' de 41 años que defiende a Mouliaá, a ex Miss Asturias y a la becaria de Cano: \"Se enfrentan a titanes\"",
+        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039467_260274387_1706x960.jpg",
+        "tags": [
+            "españa",
+            "nacho cano",
+            "íñigo errejón",
+            "juicios",
+            "elisa mouliaá",
+            "abogados",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251203/arrien-superabogado-anos-defiende-mouliaa-ex-miss-asturias-becaria-cano-enfrentan-titanes/1003744039202_0.html",
+        "date": "2025-12-03 01:49:56",
+        "sentiment_score": -0.9009960731491446
+    },
+    {
+        "title": "EEUU jugará contra Bélgica, Portugal y Alemania en amistosos antes del Mundial",
+        "image_url": "https://dims.apnews.com/dims4/default/11305c1/2147483647/strip/true/crop/5176x3445+43+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fe1%2F22f077e3d57b516a4197a5c38dae%2Fcf3fa7eaed824143bb3f36ce4efd7205",
+        "tags": [
+            "estados unidos mundial belgica portugal alemania amistosos",
+            "sports",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/estados-unidos-mundial-belgica-portugal-alemania-amistosos-10cee1bfdfdac06e18773b3198e51f0d",
+        "date": "2025-12-03 01:43:07",
+        "sentiment_score": 0.04305068030953407
+    },
+    {
+        "title": "EEUU jugará contra Bélgica, Portugal y Alemania en amistosos antes del Mundial",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/12/EEUU-AMISTOSOS_65723.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/12/02/eeuu-jugar-contra-blgica-portugal-y-alemania-en-amistosos-antes-del-mundial/",
+        "date": "2025-12-03 01:43:06",
+        "sentiment_score": 0.05485145002603531
+    },
+    {
+        "title": "Pedri y Raphinha resucitan al Barça con autoridad",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/11/2025051118512394480.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/pedri-raphinha-resucitan-barca-autoridad/20251203023929365474.html",
+        "date": "2025-12-03 01:39:29",
+        "sentiment_score": 0.7678857669234276
+    },
+    {
+        "title": "Se agrava la crisis de vivienda: 300.000 familias quedan expuestas a la mayor subida de alquileres desde la pandemia",
+        "image_url": "https://gaceta.es/wp-content/uploads/2024/09/EuropaPress_5282644_cartel_alquila_19_junio_2023_madrid_espana_precio_alquiler_interanual-1.jpg",
+        "tags": [
+            "pedro sánchez",
+            "alquiler",
+            "socialismo",
+            "sánchez",
+            "sumar",
+            "vivienda",
+            "ley de vivienda",
+            "psoe",
+            "economía"
+        ],
+        "link": "https://gaceta.es/economia/se-agrava-la-crisis-de-vivienda-300-000-familias-quedan-expuestas-a-la-mayor-subida-de-alquileres-desde-la-pandemia-20251203-0149/",
+        "date": "2025-12-03 00:49:00",
+        "sentiment_score": -0.47286102175712585
+    },
+    {
+        "title": "Las empresas que comparten Álvaro Morata y Alice Campello: dos inmobiliarias y negocios relacionados con el espectáculo",
+        "image_url": "https://s3.elespanol.com/2025/12/02/corazon/famosos/1003744038913_260267288_1706x960.jpg",
+        "tags": [
+            "álvaro morata",
+            "influencers",
+            "negocios",
+            "relaciones de pareja",
+            "famosos"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251203/empresas-comparten-alvaro-morata-alice-campello-inmobiliarias-negocios-relacionados-espectaculo/1003744038382_0.html",
+        "date": "2025-12-03 00:33:00",
+        "sentiment_score": -0.5969676859676838
+    },
+    {
+        "title": "Raphinha cambia la mentalidad del Barça: vuelven las remontadas y Flick recupera la sonrisa",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/03/culemania/primer-equipo/1003742712940_15474015_1706x960.jpg",
+        "tags": [
+            "barça",
+            "hansi flick",
+            "primer equipo",
+            "raphinha",
+            "la liga",
+            "pedro gonzález pedri"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251203/raphinha-mentalidad-barca-vuelven-remontadas-flick-recupera/1003742712926_0.html",
+        "date": "2025-12-03 00:30:48",
+        "sentiment_score": 0.7138856835663319
+    },
+    {
+        "title": "Barcelona, una ciudad íntimamente ligada al mar",
+        "image_url": "https://images.theconversation.com/files/705576/original/file-20251201-66-8wotme.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&w=754",
+        "tags": [
+            "mediterráneo",
+            "historia",
+            "barcelona"
+        ],
+        "link": "https://theconversation.com/barcelona-una-ciudad-intimamente-ligada-al-mar-265632",
+        "date": "2025-12-02 23:40:51",
+        "sentiment_score": -0.012759387493133545
+    },
+    {
+        "title": "Dudamel aplaza conciertos en España por vuelos restringidos",
+        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/03/Gustavo-Dudamel-12-de-marzo-730x524.webp",
+        "tags": [
+            "españa",
+            "placeres",
+            "conciertos",
+            "gustavo dudamel",
+            "restricciones vuelos"
+        ],
+        "link": "https://primicia.com.ve/placeres/dudamel-aplaza-conciertos-en-espana-por-vuelos-restringidos/",
+        "date": "2025-12-03 02:00:45",
+        "sentiment_score": -0.8112699296325445
+    },
+    {
+        "title": "Polestar prevé elevar sus ventas un 15% en la península ibérica en 2026 gracias a nuevos modelos y a una red más grande",
+        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039261_260271700_1706x960.jpg",
+        "tags": [
+            "geely",
+            "polestar",
+            "industria automovilística",
+            "motor",
+            "coche eléctrico"
+        ],
+        "link": "https://www.elespanol.com/motor/20251203/polestar-preve-elevar-ventas-peninsula-iberica-gracias-nuevos-modelos-red-grande/1003744038504_0.html",
+        "date": "2025-12-03 01:35:58",
+        "sentiment_score": 0.2579207122325897
+    },
+    {
+        "title": "“Hemos recibido muchas ofertas y no buscamos nada”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/29/692b59be927e7.r_d.2889-1926-777.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251203/11315850/ermenegildo-zegna-sucesion.html",
+        "date": "2025-12-03 01:00:00",
+        "sentiment_score": 0.5197391733527184
+    },
+    {
+        "title": "'Una chica en la ciudad', de Mercè Ibarz: memoria sentimental de un descubrimiento",
+        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039328_260272605_1706x960.jpg",
+        "tags": [
+            "letras",
+            "memorias",
+            "libros",
+            "literatura"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251203/chica-ciudad-merce-ibarz-memoria-sentimental-descubrimiento/1003744039256_0.html",
+        "date": "2025-12-03 00:55:00",
+        "sentiment_score": 0.015753015875816345
+    },
+    {
+        "title": "02 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-dic-2025-partidazo-cope-20251203_3264237.html",
+        "date": "2025-12-03 00:39:39",
+        "sentiment_score": 0.5443534031510353
+    },
+    {
+        "title": "El brote de peste porcina desploma el precio del cerdo y desata una crisis histórica en España",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/03/2025120301350627868.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.mundiario.com/articulo/economia/brote-peste-porcina-desploma-precio-cerdo-desata-crisis-historica-espana/20251203013748365468.html",
+        "date": "2025-12-03 00:37:48",
+        "sentiment_score": -0.7630039751529694
+    },
+    {
+        "title": "Erradicar el miedo a pronunciarnos libremente sobre el islam",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/08/27/64eaf42f84ef1.png",
+        "tags": [
+            "tribuna"
+        ],
+        "link": "https://www.eldebate.com/opinion/tribuna/20251203/erradicar-miedo-pronunciarnos-libremente-sobre-islam_361402.html",
+        "date": "2025-12-03 00:30:00",
+        "sentiment_score": -0.6435448788106441
     }
 ];
