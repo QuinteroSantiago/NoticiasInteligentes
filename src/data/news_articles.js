@@ -1,192 +1,5 @@
 export default [
     {
-        "title": "BBVA activa Social Pay en España con fecha clave y un dato que falta",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/02/28/2025022813171345632.jpg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/dinero/bbva-activa-social-pay-espana-fecha-clave-dato-que-falta/20251127193242991567.html",
-        "date": "2025-11-29 06:05:42",
-        "sentiment_score": 0.21573207527399063
-    },
-    {
-        "title": "Prueba de fuego para medir al muro albiazul",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/18ba20ca-f2c1-400f-abec-7f3c1749cbe5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "laliga",
-            "alavés",
-            "fuego",
-            "hansi flick",
-            "albiazul",
-            "barcelona",
-            "previa",
-            "coudet",
-            "medir",
-            "muro",
-            "camp nou",
-            "prueba"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2025/11/29/prueba-fuego-medir-muro-albiazul-alaves-laliga-previa-barcelona-coudet-hansi-flick-camp-nou-10411214.html",
-        "date": "2025-11-29 06:00:28",
-        "sentiment_score": 0.4188524931669235
-    },
-    {
-        "title": "Lamine y la lucha contra los dolores",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/bd11951e-803c-4796-bdb2-3912ab9e73e6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lucha",
-            "dolores",
-            "lamine yamal",
-            "barcelona",
-            "deportivo alavés",
-            "la liga",
-            "rivales",
-            "camp nou"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2025/11/29/lucha-dolores-lamine-yamal-deportivo-alaves-barcelona-la-liga-rivales-camp-nou-10410544.html",
-        "date": "2025-11-29 06:00:27",
-        "sentiment_score": -0.7998986877501011
-    },
-    {
-        "title": "La eterna despedida de Carlos Mazón, \"el mayor desastre mundial\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2468608a-f640-4c60-a701-cae3d8a640bf_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "juan carlos i",
-            "rosalía",
-            "entender más",
-            "carlos mazón",
-            "nueva york"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20251129/eterna-despedida-carlos-mazon-mayor-desastre-mundial-rosalia-124229641",
-        "date": "2025-11-29 06:00:20",
-        "sentiment_score": -0.20396963506937027
-    },
-    {
-        "title": "DIRECTO Gaza Última hora, seguimiento de la situación tras la tregua con Israel",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/33a05812-1492-472e-81d2-f57356f5d422_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "palestina",
-            "conflicto israel - palestina",
-            "israel",
-            "franja de gaza",
-            "binyamin netanyahu",
-            "gaza",
-            "donald trump",
-            "hamás"
-        ],
-        "link": "https://www.elperiodico.com/es/internacional/20251129/israel-gaza-hamas-alto-fuego-plan-paz-ultima-hora-directo-fragil-tregua-124217667",
-        "date": "2025-11-29 05:31:00",
-        "sentiment_score": -0.2372370809316635
-    },
-    {
-        "title": "Media Europa, incluyendo Madrid, Atleti y el Barça, tiene en la mira a Marc Guéhi",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/29/2025112906151163050.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/media-europa-incluyendo-madrid-atleti-barca-tienen-mira-marc-guehi/20251129061727364978.html",
-        "date": "2025-11-29 05:17:27",
-        "sentiment_score": 0.5247778594493866
-    },
-    {
-        "title": "IA, la hiperregulación que frena la innovación",
-        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/11/robot-lupa.jpg",
-        "tags": [
-            "artículos",
-            "znoticia portada2",
-            "innovación",
-            "app",
-            "ia",
-            "europa",
-            "regulación",
-            "tecnología",
-            "inteligencia artificial"
-        ],
-        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/ia-la-hiperregulacion-que-frena-la-innovacion/",
-        "date": "2025-11-29 06:30:36",
-        "sentiment_score": 0.020737916231155396
-    },
-    {
-        "title": "Dolors Liria, psicóloga, sobre trabajar por tu cuenta: \"Tienes que luchar cada día por mantener la estabilidad\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/46102792-5e3f-4c99-a0d3-3e547bb589a7_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "psicología",
-            "salud mental",
-            "trabajadores autónomos"
-        ],
-        "link": "https://www.elperiodico.com/es/ser-feliz/20251129/dolors-liria-psicologa-trabajar-cuenta-124187109",
-        "date": "2025-11-29 06:20:54",
-        "sentiment_score": -0.5257654264569283
-    },
-    {
-        "title": "Adiós al todo táctil: Europa impone el regreso de los botones en el salpicadero",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/05/23/2025052310530630849.jpg",
-        "tags": [
-            "motor"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/motor/adios-todo-tactil-europa-impone-regreso-botones-salpicadero/20251129071602990604.html",
-        "date": "2025-11-29 06:16:02",
-        "sentiment_score": -0.05454400181770325
-    },
-    {
-        "title": "Las claves del hotel de lujo de Vera Sevilla: 165 millones y un fondo con capital de Singapur y Países Bajos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fa7d07a4-db3c-43be-a5c5-b94b13efa21f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "altadis,vera sevilla,turismo,lujo,hotel,los remedios"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2025/11/29/hotel-lujo-vera-sevilla-los-remedios-altadis-124154284.html",
-        "date": "2025-11-29 06:02:05",
-        "sentiment_score": 0.4328196346759796
-    },
-    {
-        "title": "Más de 55.000 millones de euros de la economía española dependen del agua de los embalses",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9ff76f91-160e-4f6c-926f-5b35d7d3963b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "españa",
-            "infraestructuras",
-            "economía española",
-            "extremadura"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/11/29/55-000-millones-euros-economia-124256770.html",
-        "date": "2025-11-29 06:00:59",
-        "sentiment_score": -0.1672879084944725
-    },
-    {
-        "title": "Córdoba se corona como Capital Mediterránea de la Cultura y el Diálogo para 2027",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/28/6929abd93a7c8.jpeg",
-        "tags": [
-            "córdoba"
-        ],
-        "link": "https://www.cope.es/emisoras/andalucia/cordoba-provincia/cordoba/noticias/cordoba-corona-capital-mediterranea-cultura-dialogo-2027-20251128_3261911.html",
-        "date": "2025-11-29 06:00:00",
-        "sentiment_score": 0.02268359065055847
-    },
-    {
-        "title": "La pizzería de Almuñécar que repite hazaña: Gnomo vuelve a la Final del Campeonato de España de Pizzas",
-        "image_url": "https://static.grupojoly.com/clip/3d6b538d-0e75-4532-a682-983cbe27ea4b_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "qué hacer en granada",
-            "qué ver en granada"
-        ],
-        "link": "https://www.granadahoy.com/vivir/pizzeria-gnomo-almunecar-campeonato-espana-pizzas_0_2005337528.html",
-        "date": "2025-11-29 05:30:48",
-        "sentiment_score": 0.6938063278794289
-    },
-    {
-        "title": "Condenado un juez de paz por falsificar un documento",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "juez",
-            "documento",
-            "condenado",
-            "falsificar",
-            "paz"
-        ],
-        "link": "https://www.noticiasdenavarra.com/actualidad/2025/11/29/condenado-juez-paz-falsificar-documento-10411846.html",
-        "date": "2025-11-29 05:30:09",
-        "sentiment_score": -0.08935272693634033
-    },
-    {
         "title": "Rafa Nadal recibe una ovación histórica en Son Moix: el extenista ha sido distinguido con el primer Dimoni d'Honor",
         "image_url": "https://www.hola.com/horizon/landscape/b84254c02fdb-saveclipapp516233261184951399240702564354205792868082542n.jpg?im=Resize%3D%281200%29",
         "tags": [
@@ -2643,5 +2456,153 @@ export default [
         "link": "https://www.elperiodico.com/es/gente/20251202/mercado-local-tacos-rap-ruta-124368256",
         "date": "2025-12-02 17:06:55",
         "sentiment_score": 0.13644419610500336
+    },
+    {
+        "title": "El Barça aprende a sufrir: remontada de mérito sobre el Atlético y más lejos del Real Madrid en la Liga",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/02/culemania/primer-equipo/1003742712913_15473580_1706x960.jpg",
+        "tags": [
+            "raphinha",
+            "lamine yamal",
+            "pedro gonzález pedri",
+            "atlético de madrid",
+            "barça",
+            "primer equipo",
+            "cholo simeone"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251202/barca-aprende-remontada-atletico-real-madrid-liga/1003742712904_0.html",
+        "date": "2025-12-02 22:11:04",
+        "sentiment_score": 0.8020931668579578
+    },
+    {
+        "title": "El Barça da un golpe en la mesa ante el Atlético",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/02/Clipboard-0318-kCbE-U240427948678iJG-1200x840@RC.jpg",
+        "tags": [
+            "f.c. barcelona",
+            "atlético de madrid"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/barca-golpe-mesa-ante-atletico-20251202231005-ntrc.html",
+        "date": "2025-12-02 22:10:07",
+        "sentiment_score": 0.6717219315469265
+    },
+    {
+        "title": "El Barça da un golpe en la mesa ante el Atlético",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/02/Clipboard-0318-kCbE-U240427948678iJG-1200x840@RC.jpg",
+        "tags": [
+            "cronica",
+            "atletico",
+            "barcelona"
+        ],
+        "link": "https://www.elcomercio.es/deportes/futbol/liga-primera/barca-golpe-mesa-ante-atletico-20251202231005-ntrc.html",
+        "date": "2025-12-02 22:10:07",
+        "sentiment_score": 0.6586116030812263
+    },
+    {
+        "title": "El Barça se hace fuerte en el Camp Nou y da un golpe sobre la mesa en la Liga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/02/692f609d18f3d.r_d.1677-994-4900.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251202/barca-hace-fuerte-camp-nou-da-golpe-encima-mesa-liga_361506.html",
+        "date": "2025-12-02 22:09:19",
+        "sentiment_score": 0.3184291124343872
+    },
+    {
+        "title": "Así queda la clasificación de la Liga tras la victoria del Barcelona ante el Atlético",
+        "image_url": "https://okdiario.com/img/2025/12/02/clasificacion-liga-4.jpg",
+        "tags": [
+            "fútbol",
+            "fc barcelona",
+            "atlético de madrid",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/asi-queda-clasificacion-liga-victoria-del-barcelona-atletico-15869784",
+        "date": "2025-12-02 22:07:56",
+        "sentiment_score": 0.3411460518836975
+    },
+    {
+        "title": "El Barça resurge: remonta al Atlético 3-1 y se aferra al liderato de La Liga",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2575011.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/barca-resurge-remonta-al-atletico-y-se-aferra-al-liderato-de-la-liga.html",
+        "date": "2025-12-02 22:03:47",
+        "sentiment_score": 0.6750292629003525
+    },
+    {
+        "title": "Ábalos critica a Armengol por aplazar su respuesta para evitar confrontar al Supremo",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/abalos_congreso_diputados.jpg",
+        "tags": [
+            "josé luis ábalos",
+            "tribunal supremo",
+            "tribunales",
+            "francina armengol",
+            "congreso de los diputados",
+            "soto del real"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2025-12-02/abalos-critica-a-armengol-por-aplazar-su-respuesta-para-evitar-confrontar-al-supremo/",
+        "date": "2025-12-02 21:43:42",
+        "sentiment_score": -0.5377205219119787
+    },
+    {
+        "title": "Río Babel 2026 destapa sus primeras estrellas: del punk-rock de The Offspring al pop de Amaia",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/12/02/2025120222162896459.jpg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/musica/rio-babel-2026-destapa-primeras-estrellas-punk-rock-the-offspring-pop-amaia/20251202221647576563.html",
+        "date": "2025-12-02 21:16:47",
+        "sentiment_score": 0.498342115432024
+    },
+    {
+        "title": "El mapa inmobiliario de Sonsoles Ónega, la íntima de doña Letizia a la que entrevista Pablo Motos",
+        "image_url": "https://okdiario.com/look/img/2025/12/02/u541688_002-1.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://okdiario.com/look/actualidad/mapa-inmobiliario-sonsoles-onega-intima-dona-letizia-que-entrevistara-pablo-motos-2440401",
+        "date": "2025-12-02 21:15:42",
+        "sentiment_score": 0.25161899626255035
+    },
+    {
+        "title": "22:00 | 02 DIC 2025 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-02-dic-2025-juego-20251202_3264203.html",
+        "date": "2025-12-02 22:16:48",
+        "sentiment_score": 0.03893943876028061
+    },
+    {
+        "title": "Dónde han caído el bote de 17 millones de Euromillones, y los premios de la Bonoloto y la ONCE de hoy, martes 2 de diciembre de 2025",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2021/11/10/8483B778-1333-4017-B3FA-9BBCE9762AEE/98.jpg?crop=4064%2C2287%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "loterías",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-17-millones-euromillones-premios-bonoloto-once-hoy-martes-2-diciembre-2025_20251202692f64c69261f37ec739e77f.html",
+        "date": "2025-12-02 22:14:30",
+        "sentiment_score": -0.07841241359710693
+    },
+    {
+        "title": "El liderato da alas al Barça",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2025/12/02/692f647ec98a7.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/2025/12/02/liderato-da-alas-barca-802273-31.html",
+        "date": "2025-12-02 22:13:22",
+        "sentiment_score": -0.006158590316772461
+    },
+    {
+        "title": "Paloma, hostelera: \"Con Verifactu teníamos que cambiar los TPVs, era un dineral y las sanciones llegan hasta 10.000 euros si no lo tienes implementado\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/12/01/692da49ac9c04.jpeg",
+        "tags": [
+            "clases de economía"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/clases-de-economia/audios/paloma-hostelera-verifactu-teniamos-cambiar-tpvs-dineral-sanciones-llegan-10-000-euros-tienes-implementado-20251202_3264200.html",
+        "date": "2025-12-02 22:12:24",
+        "sentiment_score": -0.10631445050239563
     }
 ];
