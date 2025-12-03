@@ -1,469 +1,5 @@
 export default [
     {
-        "title": "Joan Laporta ataca al Real Madrid: estas fueron las palabras del presidente blaugrana",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1764368435646/7a71a97e-440c-4ee8-b1d1-d8070faaaea3_alta-libre-aspect-ratio_default_0.jpg?ch=675&cw=1200",
-        "tags": [
-            "laliga",
-            "joan laporta",
-            "real madrid",
-            "españa",
-            "florentino pérez",
-            "barcelona",
-            "caso negreira",
-            "fc barcelona"
-        ],
-        "link": "https://2001online.com/deportes/joan-laporta-ataca-al-real-madrid-estas-fueron-las-palabras-del-presidente-blaugrana-202511281900",
-        "date": "2025-11-28 22:06:25",
-        "sentiment_score": -0.3258378803730011
-    },
-    {
-        "title": "22:00H | 28 NOV 2025 | La Linterna",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/horas-completas/22-00h-28-nov-2025-linterna-20251128_3262122.html",
-        "date": "2025-11-28 22:06:00",
-        "sentiment_score": -0.25508663058280945
-    },
-    {
-        "title": "Las series de Netflix Colombia que roban la atención HOY",
-        "image_url": "https://www.infobae.com/resizer/v2/DKDQQ3L2WNBGZLX4AGIYGIIEUU.jpg?auth=1ea2adb9377b41ea05390d2e8a3f5052db84897c8aad11c6331aaff453b234c7&height=1080&smart=true&width=1920",
-        "tags": [
-            "netflix",
-            "colombia-entretenimiento",
-            "series",
-            "streaming",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/11/28/las-series-de-netflix-colombia-que-roban-la-atencion-hoy/",
-        "date": "2025-11-28 22:00:42",
-        "sentiment_score": 0.7270177267491817
-    },
-    {
-        "title": "Casa Maná: \"Pedir ayuda para acompañar a nuestros hijos con conducta suicida no es fallar, es cuidar\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/28/69298515cf6f3.jpeg",
-        "tags": [
-            "la linterna de la iglesia"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna-de-la-iglesia/noticias/casa-mana-pedir-ayuda-acompanar-hijos-conducta-suicida-fallar-cuidar-20251128_3261574.html",
-        "date": "2025-11-28 22:00:00",
-        "sentiment_score": -0.07229951024055481
-    },
-    {
-        "title": "El Real Oviedo busca la sorpresa ante el Atlético para remontar el vuelo",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/11/28/cazorla-oviedo-atletico-RGs1TbtQzDmKJoKzoD3lLKN-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "cazorla",
-            "atlético de madrid",
-            "real oviedo",
-            "luis carrión"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-busca-sorpresa-ante-atletico-remontar-20251128225932-nt.html",
-        "date": "2025-11-28 21:59:32",
-        "sentiment_score": 0.44252167269587517
-    },
-    {
-        "title": "Mayeli Díaz, Álvaro Rubio y Érika Portillo, unidos por las cirugías estéticas",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2565958.jpg",
-        "tags": [
-            "dolcevita"
-        ],
-        "link": "https://www.vozpopuli.com/dolcevita/mayeli-diaz-alvaro-rubio-y-erika-portillo-unidos-por-las-cirugias-esteticas.html",
-        "date": "2025-11-28 21:51:09",
-        "sentiment_score": 0.12881754338741302
-    },
-    {
-        "title": "Paula Sevilla, Francisco Javier Sánchez Lara, Elena Alfaro y Jesús Sánchez de la Nieta, mejores deportistas de la provincia en la XXIX Gala de la Diputación",
-        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
-        "tags": [
-            "noticias",
-            "ciudad real"
-        ],
-        "link": "https://www.lacerca.com/noticias/ciudad_real/sanchez-alfaro-jesus-nieta-deportistas-provincia-gala-diputacion-792631-1.html",
-        "date": "2025-11-28 21:38:00",
-        "sentiment_score": 0.056422099471092224
-    },
-    {
-        "title": "Ábalos y Koldo pasan sus primeras horas en la cárcel \"más tranquilos\" que Cerdán",
-        "image_url": "https://phantom-elmundo.uecdn.es/057f77cfc4892cc67158a1d1f6d8fd5d/crop/122x0/1362x1240/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468504313638.jpg",
-        "tags": [
-            "koldo garcía",
-            "santos cerdán",
-            "corrupción",
-            "psoe",
-            "josé luis ábalos",
-            "nlpremium",
-            "artículos gema peñalosa",
-            "víctor de  aldama"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/28/6929e95ffdddff12138b45b8.html",
-        "date": "2025-11-28 21:36:18",
-        "sentiment_score": -0.3842766471207142
-    },
-    {
-        "title": "1981-2025: la 'tribalización' del PNV",
-        "image_url": "https://phantom-elmundo.uecdn.es/5209c7aa48b4b49e6e4ee1cdb4ef2b52/f/image/jpeg/assets/multimedia/imagenes/2023/02/04/16755173994430.jpg",
-        "tags": [
-            "nlpremium",
-            "artículos javier redondo",
-            "felipe vi"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/28/6929ebe0e9cf4a73098b45d8.html",
-        "date": "2025-11-28 21:36:07",
-        "sentiment_score": 0.6810233443975449
-    },
-    {
-        "title": "Lo que Ucrania esconde",
-        "image_url": "https://phantom-elmundo.uecdn.es/a54f37faae9509222a4fec866e80a094/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/28/17643389136691.jpg",
-        "tags": [
-            "ucrania",
-            "rusia",
-            "nlpremium",
-            "volodímir zelenski",
-            "donald trump"
-        ],
-        "link": "https://www.elmundo.es/internacional/2025/11/28/6929aa9dfc6c83987c8b45a0.html",
-        "date": "2025-11-28 21:34:07",
-        "sentiment_score": -0.8290563672780991
-    },
-    {
-        "title": "Barcelona arranca su programación en la FIL de Guadalajara (México) con las exposiciones",
-        "image_url": "https://www.infobae.com/resizer/v2/EOHB4H7XKVBEBJXF4F4L3CUFIA.jpg?auth=970fce6f44e7ee399eb04e17a98ca853b3e03dca3d7de537c51f32bfb786dd97&height=1276&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/28/barcelona-arranca-su-programacion-en-la-fil-de-guadalajara-mexico-con-las-exposiciones/",
-        "date": "2025-11-28 22:16:28",
-        "sentiment_score": 0.06250524520874023
-    },
-    {
-        "title": "Wayne Griffiths se pasa al negocio de la destilería y presenta su propia marca de ginebra",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d0fd8668-4ed7-4d34-98fe-ac792b94bb62_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cupra",
-            "seat",
-            "ginebra"
-        ],
-        "link": "https://www.elperiodico.com/es/motor/20251129/wayne-griffiths-pasa-negocio-destileria-ginebra-124253474",
-        "date": "2025-11-28 22:14:24",
-        "sentiment_score": -0.3096606582403183
-    },
-    {
-        "title": "El sueño olímpico ya no es una utopía para Iván Pérez",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bd5087ac-0bbd-4a4b-8a1a-5c35f9f6bcb0_16-9-discover-aspect-ratio_default_0_x1029y1066.jpg",
-        "tags": [
-            "juegos olímpicos",
-            "los ángeles",
-            "españa",
-            "barcelona"
-        ],
-        "link": "https://www.eldia.es/deportes-canarias/2025/11/28/sueno-olimpico-utopia-ivan-perez-124252949.html",
-        "date": "2025-11-28 22:11:33",
-        "sentiment_score": -0.1735847443342209
-    },
-    {
-        "title": "Alexia Putellas: \"Ahora sí que sí lo del martes es una final a un partido, necesitaremos a la afición\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/alexia-putellas-martes-final-partido-necesitaremos-aficion-20251128_3262118.html",
-        "date": "2025-11-28 22:11:31",
-        "sentiment_score": -0.07469165325164795
-    },
-    {
-        "title": "El Sporting salva un punto al final: empate (1-1) que agrava la crisis entre las protestas de El Molinón por la gestión",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a77fbb1c-ffde-4252-9c63-b29ab3f8f8f4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sporting de gijón",
-            "protestas",
-            "sporting",
-            "andorra",
-            "el molinón",
-            "crisis",
-            "fútbol"
-        ],
-        "link": "https://www.lne.es/sporting/2025/11/28/sporting-salva-punto-final-empate-124252579.html",
-        "date": "2025-11-28 21:54:07",
-        "sentiment_score": -0.13671338558197021
-    },
-    {
-        "title": "Irán de Toni Serra o la edición del legado inacabado de un pensador",
-        "image_url": "https://static1.ara.cat/clip/57c742c7-b234-4670-8184-63ce39928a9c_16-9-aspect-ratio_default_0_x425y171.png",
-        "tags": [
-            "iran",
-            "edicion",
-            "toni",
-            "inacabado",
-            "serra",
-            "legado",
-            "pensador"
-        ],
-        "link": "https://es.ara.cat/cultura/iran-toni-serra-edicion-legado-inacabado-pensador_1_5577265.html",
-        "date": "2025-11-28 21:44:49",
-        "sentiment_score": -0.13095924258232117
-    },
-    {
-        "title": "España sale viva de Alemania",
-        "image_url": "https://okdiario.com/img/2025/11/28/cronica-alemania-espana-interior-1.jpg",
-        "tags": [
-            "deportes",
-            "fútbol femenino",
-            "fútbol",
-            "selección española de fútbol femenino"
-        ],
-        "link": "https://okdiario.com/deportes/espana-sale-viva-alemania-15848783",
-        "date": "2025-11-28 21:30:47",
-        "sentiment_score": 0.596485547721386
-    },
-    {
-        "title": "Doraemon y Nobita celebran las uvas en Madrid: el episodio inédito",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/11/28/2025112822301799255.jpg",
-        "tags": [
-            "medios"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/medios/doraemon-nobita-celebran-uvas-madrid-episodio-inedito/20251128223039991833.html",
-        "date": "2025-11-28 21:30:39",
-        "sentiment_score": 0.06926886737346649
-    },
-    {
-        "title": "Copa Libertadores: ¿por qué la alegría es solo brasileña?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2025/11/28/copa-libertadores-2025-final-flamengo-palmeiras-orix/",
-        "date": "2025-11-29 02:03:40",
-        "sentiment_score": -0.10493820905685425
-    },
-    {
-        "title": "Carlos Bonilla, presidente de la D.O. La Mancha: \"El primer vino que ofrece el camarero debería ser de nuestra tierra\"",
-        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744032689_260186242_1706x960.jpg",
-        "tags": [
-            "entrevistas",
-            "región",
-            "vino"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20251129/carlos-bonilla-presidente-do-mancha-primer-vino-ofrece-camarero-deberia-tierra/1003744032675_0.html",
-        "date": "2025-11-29 02:00:00",
-        "sentiment_score": -0.64023856818676
-    },
-    {
-        "title": "Los libros favoritos de Dua Lipa llegan a las bibliotecas públicas de Bogotá: podrá acceder gratis a las obras recomendadas por la artista",
-        "image_url": "https://www.infobae.com/resizer/v2/PVDFAS2VHFHNFIY5HHANFZIIEY.png?auth=c93ec9871ba75c8630cdedcd104d7f4f9c915d8797765e90c050b770a8c3dac5&height=505&smart=true&width=900",
-        "tags": [
-            "lecturas recomendadas",
-            "dua lipa en colombia",
-            "biblored",
-            "colombia-noticias",
-            "dua lipa",
-            "bibliotecas públicas de bogotá",
-            "service95",
-            "club de lectura",
-            "la amiga estupenda",
-            "la mala costumbre"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/11/29/los-libros-favoritos-de-dua-lipa-llegan-a-las-bibliotecas-publicas-de-bogota-podra-acceder-gratis-a-las-obras-recomendadas-por-la-artista/",
-        "date": "2025-11-29 01:38:34",
-        "sentiment_score": 0.7085526566952467
-    },
-    {
-        "title": "Deportes | Silva: \"Nos faltó una chispa más\"",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1728990.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/andre-silva-nos-falto-una-chispa-mas",
-        "date": "2025-11-29 01:20:57",
-        "sentiment_score": -0.15725910663604736
-    },
-    {
-        "title": "Puente de Vallecas pierde a sus jóvenes entre la delincuencia y la heroína: \"Vendiendo droga, ganan 2.000 € al mes\"",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744034751_260213813_1706x960.jpg",
-        "tags": [
-            "vallecas",
-            "sociedad",
-            "madrid",
-            "drogas"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251129/puente-vallecas-pierde-jovenes-delincuencia-heroina-vendiendo-droga-ganan-eur-mes/1003744034750_0.html",
-        "date": "2025-11-29 01:05:00",
-        "sentiment_score": -0.8762383898720145
-    },
-    {
-        "title": "Sergio Ramos sacude el mercado: ¿MLS, Arabia Saudí o Europa?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/19/2025021904534570167.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/sergio-ramos-sacude-mercado-mls-arabia-saudi-europa/20251129020126364966.html",
-        "date": "2025-11-29 01:01:26",
-        "sentiment_score": -0.061096563935279846
-    },
-    {
-        "title": "El PP cree que las revelaciones de Ábalos son \"imposibles de remontar\" para Pedro Sánchez: \"Le ha dado en su punto más débil\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/fb6d7adbccce048b370208c8b955a7b8/crop/2x0/1024x1022/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053356313045.jpg",
-        "tags": [
-            "pp",
-            "koldo garcía",
-            "santos cerdán",
-            "corrupción",
-            "psoe",
-            "josé luis ábalos",
-            "pedro sánchez",
-            "alberto núñez feijóo",
-            "artículos juanma lamet",
-            "víctor de  aldama"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/29/6929ed67e85ece20188b4593.html",
-        "date": "2025-11-29 00:45:20",
-        "sentiment_score": -0.8922320203855634
-    },
-    {
-        "title": "28 NOV 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/28-nov-2025-partidazo-cope-20251129_3262142.html",
-        "date": "2025-11-29 00:35:00",
-        "sentiment_score": 0.0527501255273819
-    },
-    {
-        "title": "A García Montero se le ve el plumero",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/08/27/64eaf42f84ef1.png",
-        "tags": [
-            "tribuna"
-        ],
-        "link": "https://www.eldebate.com/opinion/tribuna/20251129/garcia-montero-le-ve-plumero_360205.html",
-        "date": "2025-11-29 00:30:00",
-        "sentiment_score": -0.26060977578163147
-    },
-    {
-        "title": "\"O Rei\" de Brasil: Palmeiras y Flamengo van por el tetracampeonato de la Libertadores",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/28201639/AFP__20251128__86J96RN__v1__HighRes__FblLibertadoresPalmeirasFlamengoTraining-2560x1707.jpg",
-        "tags": [
-            "flamengo",
-            "palmeiras",
-            "libertadores",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.elnacional.com/2025/11/o-rei-de-brasil-palmeiras-y-flamengo-van-por-el-tetracampeonato-de-la-libertadores/",
-        "date": "2025-11-29 00:18:34",
-        "sentiment_score": -0.13634203374385834
-    },
-    {
-        "title": "La vuelta de la peste porcina pone en riesgo casi 3.700 millones en exportaciones",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/economia/2025/11/29/4752948-RpCHcpzwuvbXl24sfayeI2M-1200x840@diario_abc.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.abc.es/economia/peste-porcina-vuelve-espana-pone-riesgo-3700-20251129195315-nt.html",
-        "date": "2025-11-29 02:12:59",
-        "sentiment_score": -0.6402246691286564
-    },
-    {
-        "title": "El edificio de madera español premiado como el mejor del mundo: usa pino carbonizado contra la humedad y el fuego",
-        "image_url": "https://s3.elespanol.com/2025/11/19/omicrono/tecnologia/1003744021173_260033578_1706x960.jpg",
-        "tags": [
-            "construcción",
-            "materiales",
-            "edificios",
-            "tecnología",
-            "arquitectura",
-            "diseño"
-        ],
-        "link": "https://www.elespanol.com/omicrono/tecnologia/20251129/edificio-madera-espanol-premiado-mejor-mundo-usa-pino-carbonizado-humedad-fuego/1003744020777_0.html",
-        "date": "2025-11-29 01:49:49",
-        "sentiment_score": 0.5774150211364031
-    },
-    {
-        "title": "Detectados en España los dos primeros casos de peste porcina africana desde 1994",
-        "image_url": "https://www.cronicabalear.es/access/public/img/noticias/upload/0_1764331336.jpg",
-        "tags": [
-            "health"
-        ],
-        "link": "https://www.cronicabalear.es/mallorca/2025-11-28/detectados-en-espana-los-dos-primeros-casos-de-peste-porcina-africana-desde-1994/",
-        "date": "2025-11-29 01:42:36",
-        "sentiment_score": 0.09317710250616074
-    },
-    {
-        "title": "Las peores personas que has conocido",
-        "image_url": "https://s1.staticld.com/2025/09/10/pablo-iglesias-irene-montero-beso-06112022.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2025-11-29/diego-gonzalez-las-peores-personas-que-has-conocido-7326615/",
-        "date": "2025-11-29 01:39:21",
-        "sentiment_score": -0.8423652881756425
-    },
-    {
-        "title": "Feijóo presiona a Sánchez Llibre para que convenza a Junts de que apoye una moción de censura para ir a las urnas",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744035031_260217595_1706x1136.jpg",
-        "tags": [
-            "pedro sánchez",
-            "moción de censura",
-            "fomento del trabajo nacional",
-            "macroeconomía",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20251129/feijoo-presiona-sanchez-llibre-convenza-junts-apoye-mocion-censura-ir-urnas/1003744034833_0.html",
-        "date": "2025-11-29 01:37:28",
-        "sentiment_score": 0.3318789154291153
-    },
-    {
-        "title": "Llega el 'radar' de infecciones de transmisión sexual: la 'app' que rastrea de manera anónima posibles contagios",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744034989_260216964_1706x960.jpg",
-        "tags": [
-            "sanidad - actualidad sanitaria",
-            "enfermedades de transmisión sexual",
-            "observatorio de la sanidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20251129/llega-radar-infecciones-transmision-sexual-app-rastrea-manera-anonima-posibles-contagios/1003744033839_0.html",
-        "date": "2025-11-29 01:15:00",
-        "sentiment_score": -0.6217790320515633
-    },
-    {
-        "title": "El cantante Antonio Orozco se reinventa tras superar dos quiebras: Cambio radical en su vida",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://elcierredigital.com/cultura/cantante-antonio-orozco-reinventa-superar-quiebras-cambio-radical",
-        "date": "2025-11-29 01:00:00",
-        "sentiment_score": -0.7387065961956978
-    },
-    {
-        "title": "De 'Últimas tardes con Teresa' a 'El día del Watusi': las diez novelas que mejor retratan el alma de Barcelona",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744033522_260196474_1706x960.jpg",
-        "tags": [
-            "barcelona",
-            "escritores",
-            "libros",
-            "letras"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20251129/ultimas-tardes-teresa-dia-watusi-novelas-mejor-retratan-alma-barcelona/1003744028515_0.html",
-        "date": "2025-11-29 01:00:00",
-        "sentiment_score": 0.17856141924858093
-    },
-    {
-        "title": "En el laboratorio donde una startup creó el sonido inmersivo de 'Lo imposible' y nació la historia de Dolby Atmos",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744035347_260222329_1706x960.jpg",
-        "tags": [
-            "imagen y sonido",
-            "industria tecnológica",
-            "gran empresa",
-            "innovación",
-            "sector audiovisual"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20251129/laboratorio-startup-creo-sonido-inmersivo-imposible-nacio-historia-dolby-atmos/1003744024085_0.html",
-        "date": "2025-11-29 00:34:00",
-        "sentiment_score": 0.5863927155733109
-    },
-    {
         "title": "BBVA activa Social Pay en España con fecha clave y un dato que falta",
         "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/02/28/2025022813171345632.jpg",
         "tags": [
@@ -551,55 +87,6 @@ export default [
         "link": "https://www.mundiario.com/articulo/deportes/media-europa-incluyendo-madrid-atleti-barca-tienen-mira-marc-guehi/20251129061727364978.html",
         "date": "2025-11-29 05:17:27",
         "sentiment_score": 0.5247778594493866
-    },
-    {
-        "title": "“Nuestro Haaland está en la Masia”: el mensaje de Vilajoana a los culés",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/05/2025110506330236442.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/nuestro-haaland-masia-mensaje-vilajoana-cules/20251129060317364976.html",
-        "date": "2025-11-29 05:03:17",
-        "sentiment_score": -0.3093401603400707
-    },
-    {
-        "title": "La inverosímil legislatura de Sánchez: la amnistía, sin presupuestos, un fiscal condenado y el primer diputado que acaba en prisión",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2025/11/28/E91355BE-D869-4A67-A539-B63055206F9F/inverosimil-legislatura-sanchez-amnistia-presupuestos-fiscal-condenado-primer-diputado-que-acaba-prision_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "españa",
-            "ondacero",
-            "noticias"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/inverosimil-legislatura-sanchez-amnistia-presupuestos-fiscal-condenado-primer-diputado-que-acaba-prision_20251129692a7df56e5e5012dcd32629.html",
-        "date": "2025-11-29 05:00:37",
-        "sentiment_score": -0.5697038918733597
-    },
-    {
-        "title": "Golpe a las IPTV: estos son los partidos que Movistar Plus+ ofrece durante un mes por 1€",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/27/692839db232146-09455461.jpeg",
-        "tags": [
-            "20decompras"
-        ],
-        "link": "https://www.20minutos.es/ofertas-descuentos/golpe-las-iptv-estos-son-los-partidos-que-movistar-plus-ofrece-durante-un-mes-por-1e_6903483_0.html",
-        "date": "2025-11-29 05:00:00",
-        "sentiment_score": 0.3282984811812639
-    },
-    {
-        "title": "Los jóvenes de estas zonas de Castilla-La Mancha podrán adquirir por solo 10 € al mes el abono transporte de Madrid",
-        "image_url": "https://s3.elespanol.com/2025/11/26/actualidad/1003744030607_260158959_1706x960.jpg",
-        "tags": [
-            "emiliano garcía-page",
-            "isabel díaz ayuso",
-            "castilla-la mancha",
-            "comunidad de madrid",
-            "región",
-            "transporte público",
-            "autobuses",
-            "abono transporte"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/20251129/jovenes-zonas-castilla-la-mancha-podran-adquirir-solo-eur-mes-abono-transporte-madrid-trt/1003744030349_0.html",
-        "date": "2025-11-29 05:00:00",
-        "sentiment_score": 0.15074469707906246
     },
     {
         "title": "IA, la hiperregulación que frena la innovación",
@@ -3077,5 +2564,84 @@ export default [
         "link": "https://www.laopiniondemalaga.es/sociedad/2025/12/02/vivienda-mayores-cooperativa-barcelona-can-70-sarria-envejecimiento-124341685.html",
         "date": "2025-12-02 06:25:53",
         "sentiment_score": -0.009569436311721802
+    },
+    {
+        "title": "66.000 m2 de pisos, tiendas y restaurantes: el macrocomplejo que acaba de abrir sus puertas en el centro de Madrid",
+        "image_url": "https://okdiario.com/img/2025/12/02/66.000-m2-de-pisos-tiendas-y-restaurantes-el-macrocomplejo-que-acaba-de-abrir-sus-puertas-en-el-centro-de-madrid.jpg",
+        "tags": [
+            "madrid",
+            "españa",
+            "okd",
+            "tiendas"
+        ],
+        "link": "https://okdiario.com/madrid/66-000-m2-pisos-tiendas-restaurantes-macrocomplejo-que-acaba-abrir-sus-puertas-centro-madrid-15867480",
+        "date": "2025-12-02 17:10:34",
+        "sentiment_score": 0.2398148775100708
+    },
+    {
+        "title": "Un estudio de UGT sitúa a los docentes de Castilla-La Mancha entre los mejor pagados de España: hasta 2.906 € al mes",
+        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039361_260273092_1706x960.jpg",
+        "tags": [
+            "ugt castilla la mancha",
+            "educación",
+            "educación y universidad"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/cultura/educacion-y-universidad/20251202/estudio-ugt-situa-docentes-castilla-la-mancha-mejor-pagados-espana-eur-mes/1003744039329_0.html",
+        "date": "2025-12-02 17:06:47",
+        "sentiment_score": -0.05292624235153198
+    },
+    {
+        "title": "Xabi Alonso comprende la decisión de parar de Araujo: \"No son máquinas\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f1ebab7e-af92-4b1f-8f61-7edf62009947_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "pi vídeos",
+            "ronald araújo",
+            "xabi alonso",
+            "real madrid"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/videos/deportes/2025/12/02/xabi-alonso-comprende-decision-parar-araujo-124368360.html",
+        "date": "2025-12-02 17:06:29",
+        "sentiment_score": -0.786918394267559
+    },
+    {
+        "title": "La UAGR-COAG apoya las medidas para controlar las poblaciones de jabalíes y evitar la expansión de la peste porcina",
+        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
+        "tags": [
+            "la rioja"
+        ],
+        "link": "https://www.europapress.es/la-rioja/noticia-uagr-coag-apoya-medidas-controlar-poblaciones-jabalies-evitar-expansion-peste-porcina-20251202181053.html",
+        "date": "2025-12-02 17:10:53",
+        "sentiment_score": -0.05218911170959473
+    },
+    {
+        "title": "El grupo musical del actor Keanu Reeves actuará en Barcelona el 7 de julio",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251202180756_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-grupo-musical-actor-keanu-reeves-actuara-barcelona-julio-20251202180756.html",
+        "date": "2025-12-02 17:07:56",
+        "sentiment_score": 0.14955359883606434
+    },
+    {
+        "title": "Sàmper inaugura la nueva fábrica de Tucai en Vietnam, que ocupará inicialmente a 50 personas",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251202180658_260.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-samper-inaugura-nueva-fabrica-tucai-vietnam-ocupara-inicialmente-50-personas-20251202180658.html",
+        "date": "2025-12-02 17:06:58",
+        "sentiment_score": 0.3912874273955822
+    },
+    {
+        "title": "Un mercado local, tacos y rap: la ruta de Collboni por Guadalajara (México) durante la FIL",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4a4557d9-d9e6-4874-b25f-91f039914a87_16-9-aspect-ratio_default_1419314.jpg",
+        "tags": [
+            "jaume collboni"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20251202/mercado-local-tacos-rap-ruta-124368256",
+        "date": "2025-12-02 17:06:55",
+        "sentiment_score": 0.13644419610500336
     }
 ];
