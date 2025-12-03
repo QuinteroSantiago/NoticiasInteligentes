@@ -1,214 +1,5 @@
 export default [
     {
-        "title": "Rafa Nadal recibe una ovación histórica en Son Moix: el extenista ha sido distinguido con el primer Dimoni d'Honor",
-        "image_url": "https://www.hola.com/horizon/landscape/b84254c02fdb-saveclipapp516233261184951399240702564354205792868082542n.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "rafa nadal",
-            "actualidad"
-        ],
-        "link": "https://www.hola.com/actualidad/20251129870276/rafa-nadal-recibe-nuevo-premio-significado-muy-especial-dimoni-dhonor/",
-        "date": "2025-11-29 17:05:23",
-        "sentiment_score": -0.03063562512397766
-    },
-    {
-        "title": "Un Girona en zona roja pero al alza testa las dudas del Real Madrid",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/11/29/real-madrid-kGmH-U240397771910RiG-1200x840@RC.JPG",
-        "tags": [
-            "dudas",
-            "zona",
-            "roja",
-            "alza",
-            "real",
-            "testa",
-            "madrid",
-            "girona"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/girona-zona-roja-alza-testa-dudas-real-madrid-20251129180209-ntrc.html",
-        "date": "2025-11-29 17:03:31",
-        "sentiment_score": 0.08407291769981384
-    },
-    {
-        "title": "Un Girona en zona roja pero al alza testa las dudas del Real Madrid",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.diariosur.es/deportes/futbol/liga-primera/girona-zona-roja-alza-testa-dudas-real-madrid-20251129180209-ntrc.html",
-        "date": "2025-11-29 17:03:31",
-        "sentiment_score": -0.3510203957557678
-    },
-    {
-        "title": "Álex Martín, el soldado olvidado de Cervera",
-        "image_url": "https://s2.abcstatics.com/lavozdigital/www/multimedia/canal-amarillo/2025/11/29/alex-martin-cervera--758x531.jpeg",
-        "tags": [
-            "fútbol",
-            "córdoba",
-            "cádiz cf"
-        ],
-        "link": "https://www.lavozdigital.es/canal-amarillo/noticias-cadiz-cf/alex-martin-soldado-olvidado-cervera-20251129174331-ntv.html",
-        "date": "2025-11-29 16:45:07",
-        "sentiment_score": 0.011829674243927002
-    },
-    {
-        "title": "Cómo va el Barcelona vs Alavés en directo: resultado y dónde ver gratis el partido de la Liga en el Camp Nou en vivo",
-        "image_url": "https://okdiario.com/img/2025/11/29/bar-1.jpg",
-        "tags": [
-            "deportivo alavés",
-            "barcelona",
-            "la liga",
-            "deportes",
-            "directo",
-            "fc barcelona"
-        ],
-        "link": "https://okdiario.com/deportes/barcelona-vs-alaves-directo-resultado-donde-ver-gratis-partido-liga-camp-nou-vivo-15849913",
-        "date": "2025-11-29 16:31:10",
-        "sentiment_score": 0.3341219127178192
-    },
-    {
-        "title": "(Previa) Sevilla y Betis se enfrentan en un derbi de ausencias",
-        "image_url": "https://www.infobae.com/resizer/v2/5GK4RTMBNRETFO5ISLKO6MOF6A.jpg?auth=12e290727f6fd7fa11062f01f53e78eda25b3986eda173f7e3f1cc2fe707cc19&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/29/previa-sevilla-y-betis-se-enfrentan-en-un-derbi-de-ausencias/",
-        "date": "2025-11-29 16:15:33",
-        "sentiment_score": -0.1382223777472973
-    },
-    {
-        "title": "Feijóo rechaza llegar a la Moncloa mediante una moción de censura: \"Quiero que me elijan los españoles en las urnas\"",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/11/29/2025112917010635201.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/espana/feijoo-rechaza-llegar-moncloa-mocion-censura-quiero-que-elijan-espanoles-urnas/202511291708561420706.html",
-        "date": "2025-11-29 16:08:56",
-        "sentiment_score": -0.8932421682402492
-    },
-    {
-        "title": "Cuando la muralla de Lugo tenía casas adosadas y tráfico en dos direcciones",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/11/28/2025112818261726511.jpg",
-        "tags": [
-            "lugo"
-        ],
-        "link": "https://www.elprogreso.es/articulo/lugo/muralla-casas-adosadas-trafico-dos-direcciones/202511281830491927757.html",
-        "date": "2025-11-29 16:00:00",
-        "sentiment_score": -0.0004784911870956421
-    },
-    {
-        "title": "María Teresa, 80 años, jubilada: \"Pago 1.300 euros de alquiler, cobro 840 de pensión, no llego y llevo unos siete años así\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2024/10/30/mujer-jubilada-mirando-ventana-1200-675.webp",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/maria-teresa-80nos-jubilada-pago-1300-euros-alquiler-cobro-840-pension-llego-llevo-sietenos-asi.html",
-        "date": "2025-11-29 17:06:01",
-        "sentiment_score": -0.9047874715179205
-    },
-    {
-        "title": "México suspende las importaciones de carne de cerdo de España por la peste porcina",
-        "image_url": "https://i0.wp.com/holanews.com/wp-content/uploads/2025/11/rss-efef832224891caa7db68e6345775845d33f6baa7adw.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "salud",
-            "enterate"
-        ],
-        "link": "https://holanews.com/mexico-suspende-las-importaciones-de-carne-de-cerdo-de-espana-por-la-peste-porcina/",
-        "date": "2025-11-29 17:04:48",
-        "sentiment_score": -0.763391550630331
-    },
-    {
-        "title": "Lamine Yamal hace historia en LaLiga y supera a Raúl González",
-        "image_url": "https://pxcdn.meridiano.net/112025/1764436234195.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/lamine-yamal-hace-historia-en-laliga-y-supera-a-raul-gonzalez-202511291340",
-        "date": "2025-11-29 17:04:00",
-        "sentiment_score": 0.7272395342588425
-    },
-    {
-        "title": "Robo frustrado en Ciutat Vella: la Guardia Urbana detiene a dos ladrones de perfumes",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/29/ciutat-vella/1003742712039_15462985_1706x960.jpg",
-        "tags": [
-            "robos",
-            "guardia urbana",
-            "delincuencia",
-            "ciutat vella",
-            "el raval"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/ciutat-vella/20251129/robo-frustrado-ciutat-vella-guardia-urbana-detiene-ladrones-perfumes/1003742712035_0.html",
-        "date": "2025-11-29 17:03:05",
-        "sentiment_score": -0.35461123287677765
-    },
-    {
-        "title": "Nacho Abad, criminólogo, sobre el asesinato de Helena Jubany : \"En la parte posterior del jersey se ha encontrado ADN de Santiago de la Iglesia\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/28/69299c32b61e0.webp",
-        "tags": [
-            "fin de semana"
-        ],
-        "link": "https://www.cope.es/programas/fin-de-semana/noticias/nacho-abad-criminologo-sobre-asesinato-helena-jubany-parte-posterior-jersey-encontrado-adn-santiago-iglesia-20251129_3262259.html",
-        "date": "2025-11-29 17:02:07",
-        "sentiment_score": -0.13667774200439453
-    },
-    {
-        "title": "El incidente de los aviones A320 causa un impacto limitado en el tráfico aéreo",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/11/29/692b259b02fee.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20251129/11315530/incidente-aviones-a320-causa-impacto-limitado-trafico-aereo.html",
-        "date": "2025-11-29 17:01:48",
-        "sentiment_score": 0.13065598905086517
-    },
-    {
-        "title": "¿Qué piensan los catalanes de la guerra?",
-        "image_url": "https://static1.ara.cat/clip/e944ab64-0b3a-462f-ab9c-0b3e223c6183_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "piensan",
-            "catalanes",
-            "guerra"
-        ],
-        "link": "https://es.ara.cat/politica/piensan-catalanes-guerra_129_5577841.html",
-        "date": "2025-11-29 17:00:37",
-        "sentiment_score": -0.3455338478088379
-    },
-    {
-        "title": "El Dakar se da un baño de masas en Santa Susanna y su director avisa de los mayores peligros de la carrera: \"No sé si les gustará esta etapa, pero seguro que la van a recordar\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/11/29/692b20d7a6e13.jpeg",
-        "tags": [
-            "dakar"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/rally-dakar/20251129/1002578222/dakar-da-bano-masas-santa-susanna-director-avisa-mayores-peligros-carrera-se-les-gustara-etapa-seguro-recordar.html",
-        "date": "2025-11-29 17:00:14",
-        "sentiment_score": 0.6769661456346512
-    },
-    {
-        "title": "Jorge, empresario, revela un dato sorprendente sobre sus camioneros internacionales: “Solo por pisar un barco ya se llevan...”",
-        "image_url": "https://s3.elespanol.com/2025/11/29/actualidad/1003744035386_260222972_1706x960.jpg",
-        "tags": [
-            "salarios",
-            "motor",
-            "camioneros"
-        ],
-        "link": "https://www.elespanol.com/motor/20251129/jorge-empresario-revela-dato-sorprendente-camioneros-internacionales-solo-pisar-barco-llevan/1003744035384_0.html",
-        "date": "2025-11-29 17:00:00",
-        "sentiment_score": 0.5769315548241138
-    },
-    {
-        "title": "España se arriesga a perder 9.000 millones de € en exportaciones por la reaparición de la peste porcina",
-        "image_url": "https://okdiario.com/img/2025/11/29/granja.jpg",
-        "tags": [
-            "carne",
-            "economía",
-            "españa",
-            "exportaciones"
-        ],
-        "link": "https://okdiario.com/economia/gran-golpe-peste-porcina-espana-peligran-9-000-millones-exportaciones-nivel-mundial-15851193",
-        "date": "2025-11-29 16:58:15",
-        "sentiment_score": -0.8937117643654346
-    },
-    {
         "title": "El Atlético hace historia por la vía rápida",
         "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/29/sorloth-oviedo-kciC-U2404000203175GC-1200x840@RC.JPG",
         "tags": [
@@ -384,16 +175,6 @@ export default [
         "link": "https://okdiario.com/deportes/sorloth-alarga-pleno-del-atletico-doblete-oviedo-avisa-barca-15852276",
         "date": "2025-11-29 21:56:52",
         "sentiment_score": 0.47124961018562317
-    },
-    {
-        "title": "Lo más viral de la semana: El Miss Universo sigue dando de qué hablar",
-        "image_url": "https://static.wixstatic.com/media/cf263a_220c313f02ac4ea38e8fbb68aed0ab8e~mv2.png/v1/fit/w_1000,h_479,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-el-miss-universo-sigue-dando-de-qu%C3%A9-hablar",
-        "date": "2025-11-29 18:00:14",
-        "sentiment_score": 0.048453859984874725
     },
     {
         "title": "Juan José Laborda: \"Claro que Sánchez debería dimitir... de los cuatro del Peugeot, tres ya han pasado por ‘la perrera’\"",
@@ -2808,5 +2589,67 @@ export default [
         "link": "https://www.eldebate.com/opinion/tribuna/20251203/erradicar-miedo-pronunciarnos-libremente-sobre-islam_361402.html",
         "date": "2025-12-03 00:30:00",
         "sentiment_score": -0.6435448788106441
+    },
+    {
+        "title": "España acoge una cumbre con un Marruecos envalentonado por los apoyos a su control del Sáhara",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/17588042-7cd8-491f-9723-a3ef84be8c68_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rey mohamed vi",
+            "marruecos",
+            "diplomacia",
+            "ministerio de exteriores"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/internacional/2025/12/03/espana-marruecos-cumbre-madrid-canarias-inmigracion-124384445.html",
+        "date": "2025-12-03 06:36:58",
+        "sentiment_score": -0.44513893127441406
+    },
+    {
+        "title": "Génova presume de haber forzado a Sánchez a reaccionar tras la oferta de Feijóo a Junts",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d51f2884-fc4a-4531-8536-ea7a326eb7e2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pedro sánchez",
+            "partido popular",
+            "alberto núñez feijóo",
+            "junts"
+        ],
+        "link": "https://www.laopiniondemalaga.es/nacional/2025/12/03/genova-presume-haber-forzado-sanchez-124384198.html",
+        "date": "2025-12-03 06:30:41",
+        "sentiment_score": -0.11293324083089828
+    },
+    {
+        "title": "\"Todo el mundo puede ser el mejor en algo\": de seis personas cosiendo patucos a una asociación que da empleo a mil personas con discapacidad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92b3d8fe-436c-4867-80f9-5d6478c12414_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "aerolíneas",
+            "iberia",
+            "personas con discapacidad",
+            "aeropuertos",
+            "madrid",
+            "trabajos"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251203/asociacion-envera-empleo-personas-discapacidad-124379119",
+        "date": "2025-12-03 06:38:51",
+        "sentiment_score": -0.045966342091560364
+    },
+    {
+        "title": "Esteban González Pons y Javi López, dos visiones políticas distintas que se encuentran en el europeísmo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/422f824e-c589-4354-8451-56ea71f0b595_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unión europea,eurocámara,politica,donald trump,vladimir putin,ucrania"
+        ],
+        "link": "https://www.elcorreoweb.es/internacional/2025/12/03/esteban-gonzalez-pons-javi-lopez-europeistas-european-bridges-124384293.html",
+        "date": "2025-12-03 06:35:28",
+        "sentiment_score": -0.10569232702255249
+    },
+    {
+        "title": "«Ningún vecino o visitante tendrán que cambiar su vehículo para circular por Oviedo con la Zona de Bajas Emisiones»",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/12/02/escandalera-RvfVq4lh31wEEdF6j9pkaDN-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "zonas de bajas emisiones (zbe)",
+            "oviedo"
+        ],
+        "link": "https://www.elcomercio.es/oviedo/zona-bajas-emisiones-oviedo-vehiculos-20251202073212-nt.html",
+        "date": "2025-12-03 06:32:45",
+        "sentiment_score": -0.5757731683552265
     }
 ];
