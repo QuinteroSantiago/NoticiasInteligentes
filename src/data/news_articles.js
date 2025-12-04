@@ -222,16 +222,6 @@ export default [
         "sentiment_score": -0.7973216138780117
     },
     {
-        "title": "Semana Deportiva: Venezuela y Ecuador igualan 0-0 en la Liga de Naciones",
-        "image_url": "https://static.wixstatic.com/media/cf263a_0332741048ab43a0a43b47cc563fcd30~mv2.png/v1/fit/w_935,h_546,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/semana-deportiva-venezuela-y-ecuador-igualan-0-0-en-la-liga-de-naciones",
-        "date": "2025-11-30 14:00:23",
-        "sentiment_score": 0.3158971518278122
-    },
-    {
         "title": "El Real Madrid vuelve a griparse en Montilivi",
         "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/30/mbappe-vini-kAFG-U240405793920ukD-758x531@RC.JPG",
         "tags": [
@@ -2505,5 +2495,176 @@ export default [
         "link": "https://www.20minutos.es/internacional/chile-suspende-las-importaciones-todo-producto-porcino-origen-espanol-tras-brote-peste-detectado-barcelona_6906366_0.html",
         "date": "2025-12-03 21:25:13",
         "sentiment_score": 0.2284318134188652
+    },
+    {
+        "title": "Santa Bárbara en un año negro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/431d7864-21c4-440b-b1d3-92d1424a3caf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "santa bárbara",
+            "gente",
+            "empleo",
+            "las cuencas"
+        ],
+        "link": "https://www.lne.es/asturias/2025/12/04/santa-barbara-ano-negro-124414396.html",
+        "date": "2025-12-04 02:00:27",
+        "sentiment_score": -0.9287377130240202
+    },
+    {
+        "title": "Ábalos encapsulado",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2577348.jpg",
+        "tags": [
+            "opinion"
+        ],
+        "link": "https://www.vozpopuli.com/opinion/abalos-encapsulado.html",
+        "date": "2025-12-04 00:44:38",
+        "sentiment_score": -0.8992889374494553
+    },
+    {
+        "title": "03 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/03-dic-2025-partidazo-cope-20251204_3265068.html",
+        "date": "2025-12-04 00:39:01",
+        "sentiment_score": 0.21745187044143677
+    },
+    {
+        "title": "El \"GPS clínico\" de Route2Spain: así es la puntera tecnología que automatiza y mejora la atención del asma grave",
+        "image_url": "https://s3.elespanol.com/2025/12/03/actualidad/1003744040966_260295135_1706x960.jpg",
+        "tags": [
+            "salud pública",
+            "salud",
+            "branded content",
+            "gran empresa",
+            "innovación",
+            "digitalización",
+            "tecnología",
+            "asma"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20251204/gps-clinico-route2spain-puntera-tecnologia-automatiza-mejora-atencion-asma-grave/1003744036982_0.html",
+        "date": "2025-12-04 00:34:00",
+        "sentiment_score": -0.07227899134159088
+    },
+    {
+        "title": "La decepción de Javier Tebas que supone un honor para Joan Gaspart: persona 'non grata' en el Bernabéu",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/10/09/business/800680027_8949099_1706x960.jpg",
+        "tags": [
+            "joan gaspart",
+            "florentino pérez",
+            "palco",
+            "javier tebas",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251204/decepcion-javier-tebas-joan-gaspart-persona-bernabeu/1003742710805_0.html",
+        "date": "2025-12-04 00:11:50",
+        "sentiment_score": -0.9059146409854293
+    },
+    {
+        "title": "La cruda confesión de un campeón del mundo que brilló en el Madrid: “Sufrí depresión, pensaba que la soledad era el precio para llegar al éxito”",
+        "image_url": "https://www.infobae.com/resizer/v2/DNYQ3FLEUBHSPLXDZ6SOQDS3LE.jpg?auth=0ba496f02fdca7f8ca843e8590c0aac7f7aec93942095ac25a3eeb8715624d5a&height=1080&smart=true&width=1920",
+        "tags": [
+            "real madrid",
+            "selección de francia",
+            "raphael varane",
+            "deportes-internacional",
+            "manchester united"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/04/la-cruda-confesion-de-un-campeon-del-mundo-que-brillo-en-el-madrid-sufri-depresion-pensaba-que-la-soledad-era-el-precio-para-llegar-al-exito/",
+        "date": "2025-12-04 00:04:05",
+        "sentiment_score": 0.45592236146330833
+    },
+    {
+        "title": "El regreso de Naela: un accidente, la maternidad y un reencuentro musical en Bogotá",
+        "image_url": "https://www.infobae.com/resizer/v2/3KWQPUFVBJHURIQ6JGV3EFEPJY.png?auth=0e98301d3d25b77d15cedcdb35308c04aafaef296050aa510f16e4c84669af77&height=585&smart=true&width=889",
+        "tags": [
+            "el reencuentro",
+            "pop colombiano",
+            "crónicas de un amor",
+            "bogotá",
+            "naela"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/12/03/el-regreso-de-naela-un-accidente-la-maternidad-y-un-reencuentro-musical-en-bogota/",
+        "date": "2025-12-03 23:53:10",
+        "sentiment_score": 0.7608951758593321
+    },
+    {
+        "title": "Santi Lesmes llevará a niño Pol Deportes a la Champions League para que narre el partido Real Madrid vs. Manchester City",
+        "image_url": "https://www.infobae.com/resizer/v2/ITODGBATAVBNDE7PC2XZQJ4RC4.jpg?auth=f55f6526e9ebda8a7706622cf12ddd3328fbd42d64cd69866be1920d2ab107f9&height=1080&smart=true&width=1920",
+        "tags": [
+            "real madrid vs. manchester city",
+            "champions league",
+            "peru-entretenimiento",
+            "pol deportes",
+            "arriba mi gente",
+            "santi lesmes"
+        ],
+        "link": "https://www.infobae.com/peru/2025/12/03/santi-lesmes-llevara-a-nino-pol-deportes-a-la-champions-league-para-que-narre-el-partido-real-madrid-vs-manchester-city/",
+        "date": "2025-12-03 23:52:53",
+        "sentiment_score": 0.4941944107413292
+    },
+    {
+        "title": "2a PARTE | 03 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-03-dic-2025-partidazo-cope-20251204_3265060.html",
+        "date": "2025-12-03 23:37:43",
+        "sentiment_score": 0.7695021964609623
+    },
+    {
+        "title": "Pasarón se quedó frío en la noche que buscaba revivir el pasado",
+        "image_url": "https://cflvdg.avoz.es/sc/AWGpXVp5pKKd7-mJgRjqm36w_Cw=/768x/2025/12/04/00121764804601665458113/Foto/i_20251203_215827000.jpg",
+        "tags": [
+            "pontevedra ciudad",
+            "levante ud",
+            "fc barcelona",
+            "pontevedra cf",
+            "real madrid",
+            "sd eibar",
+            "copa del rey"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/pontevedra/pontevedra/2025/12/04/noche-queria-revivir-pasado/0003_202512P4P43991.htm",
+        "date": "2025-12-03 23:37:00",
+        "sentiment_score": -0.1447659730911255
+    },
+    {
+        "title": "Sánchez y Puigdemont: entre pillos anda el juego",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "juego",
+            "anda",
+            "pillos",
+            "puigdemont",
+            "sanchez"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/sanchez-puigdemont-pillos-anda-juego_0_2005388265.html",
+        "date": "2025-12-04 02:08:14",
+        "sentiment_score": -0.2277746945619583
+    },
+    {
+        "title": "Miriam Nogueras sonríe, esto sigue",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sigue",
+            "nogueras",
+            "miriam",
+            "sonrie"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/miriam-nogueras-sonrie-sigue_0_2005388261.html",
+        "date": "2025-12-04 02:08:13",
+        "sentiment_score": -0.38033924996852875
+    },
+    {
+        "title": "La legislatura tiene gasolina",
+        "image_url": "https://static.grupojoly.com/clip/64bda378-bd45-42c9-89a8-4eaca9ab5b71_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gasolina",
+            "legislatura"
+        ],
+        "link": "https://www.huelvainformacion.es/opinion/articulos/legislatura-gasolina_0_2005388237.html",
+        "date": "2025-12-04 02:07:59",
+        "sentiment_score": 0.0018204748630523682
     }
 ];
