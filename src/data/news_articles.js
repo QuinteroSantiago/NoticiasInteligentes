@@ -1,222 +1,5 @@
 export default [
     {
-        "title": "HAY DÍAS",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/11/12/funcionario-paga.extra-pensiones-kKB--170x119@Ideal.jpg",
-        "tags": [
-            "mujeres",
-            "opera",
-            "violencia de género"
-        ],
-        "link": "https://www.eldiariomontanes.es/opinion/rafael-manrique-dias-20251130072409-nt.html",
-        "date": "2025-11-30 06:24:09",
-        "sentiment_score": -0.8978454507887363
-    },
-    {
-        "title": "UGT pide un consejo de administración urgente en el Puerto de Málaga por la torre",
-        "image_url": "https://static.grupojoly.com/clip/e057daba-1016-4765-8089-fe8b721adf70_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga",
-            "puerto de málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/ugt-pide-consejo-administracion-urgente-puerto-malaga-torre_0_2005337872.html",
-        "date": "2025-11-30 06:15:46",
-        "sentiment_score": -0.24176989868283272
-    },
-    {
-        "title": "\"Bienvenido sea todo lo que contribuya a sacar a Chivite del Palacio de Navarra, hoy y siempre\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d5f17725-a8ca-4b7b-b5ee-a246711b9d7c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "contribuya",
-            "chivite",
-            "bienvenido",
-            "sea",
-            "sacar"
-        ],
-        "link": "https://www.noticiasdenavarra.com/politica/2025/11/30/bienvenido-sea-contribuya-sacar-chivite-10415042.html",
-        "date": "2025-11-30 06:08:14",
-        "sentiment_score": 0.05420359969139099
-    },
-    {
-        "title": "El tercero del dos de mayo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c9dd8016-0d27-4b91-9b51-bd152fbe7500_16-9-aspect-ratio_default_0_x505y0.jpg",
-        "tags": [
-            "más extremadura",
-            "extremadura",
-            "ejército",
-            "madrid",
-            "ceuta"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/11/30/tercero-mayo-124154456.html",
-        "date": "2025-11-30 06:05:49",
-        "sentiment_score": 0.0567934513092041
-    },
-    {
-        "title": "Sevilla-Betis: la memoria del pique y la guasa desde el respeto",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f7b57081-9542-40f0-ae76-50ab7ce007cd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "el gran derbi,gran derbi,sevilla fc,real betis"
-        ],
-        "link": "https://www.elcorreoweb.es/deportes/2025/11/30/sevilla-betis-memoria-pique-guasa-124243104.html",
-        "date": "2025-11-30 06:01:17",
-        "sentiment_score": 0.001370459794998169
-    },
-    {
-        "title": "Saunders y los nuevos escarabajos cibernéticos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b93a54d-ee99-4c26-954e-54a638ecdb70_16-9-aspect-ratio_default_0_x548y337.jpg",
-        "tags": [
-            "iglesia",
-            "libro",
-            "literatura",
-            "tiempo",
-            "relatos",
-            "libros"
-        ],
-        "link": "https://www.laopiniondemalaga.es/libros/2025/11/30/george-saunders-nuevos-escarabajos-ciberneticos-124272387.html",
-        "date": "2025-11-30 06:01:14",
-        "sentiment_score": -0.24782879650592804
-    },
-    {
-        "title": "El oeste aboga por el rescate del canon energético para financiar a Zamora",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bc701d30-ac35-44c8-853b-7e127c2e43fb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "población,financiación,asociación león propone,canon energético,diputaciones"
-        ],
-        "link": "https://www.laopiniondezamora.es/zamora/2025/11/30/oeste-aboga-rescate-canon-energetico-124270244.html",
-        "date": "2025-11-30 06:01:11",
-        "sentiment_score": 0.18613727390766144
-    },
-    {
-        "title": "¿Cuánto cobran los alcaldes de la provincia de Málaga?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/071ae437-1cf6-4d79-9d83-1a128995475e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "provincia de málaga",
-            "administración",
-            "pp",
-            "pueblos"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2025/11/30/cobran-alcaldes-provincia-malaga-124262322.html",
-        "date": "2025-11-30 06:01:07",
-        "sentiment_score": -0.3349153771996498
-    },
-    {
-        "title": "Juan de Contreras, marqués de Lozoya (I)",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2025/11/Foto-1-Lozoya.jpg",
-        "tags": [
-            "la pequeña memoria",
-            "segovia",
-            "portada secundaria"
-        ],
-        "link": "https://eladelantado.com/juan-de-contreras-marques-de-lozoya-i/",
-        "date": "2025-11-30 06:00:53",
-        "sentiment_score": -0.42803190276026726
-    },
-    {
-        "title": "Restinga, nueva referencia hispano-marroquí de la electrónica pop: \"La recomendación de Pedro Sánchez me pareció un meme\"",
-        "image_url": "https://static.grupojoly.com/clip/aa7d8769-2edc-4a8b-aac1-5737a47aaf1c_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "música",
-            "pedro sánchez",
-            "famosos",
-            "redes sociales"
-        ],
-        "link": "https://www.diariodesevilla.es/ocio/restinga-nueva-referencia-hispano-marroqui-pedro-sanchez-tik-tok_0_2005333821.html",
-        "date": "2025-11-30 06:00:11",
-        "sentiment_score": 0.6299461387097836
-    },
-    {
-        "title": "Templus triplicará la capacidad del centro de datos de Málaga, que ‘custodia’ el 75% del tráfico de internet",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/272da62b-bae5-4868-ac97-f5d55e13de49_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "internet",
-            "inversión",
-            "empresas",
-            "digitalización"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2025/11/30/templus-triplicara-capacidad-centro-datos-malaga-empresas-124246989.html",
-        "date": "2025-11-30 06:36:36",
-        "sentiment_score": 0.21033167839050293
-    },
-    {
-        "title": "La violencia institucional contra la inocencia de Alves",
-        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/04/Dani-Alves-1.jpg",
-        "tags": [
-            "app",
-            "absolucion",
-            "agresión sexual",
-            "víctima",
-            "artículos",
-            "presunción de inocencia",
-            "znoticia portada2",
-            "derecho penal",
-            "dani alves"
-        ],
-        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/la-violencia-institucional-contra-la-inocencia-de-alves/",
-        "date": "2025-11-30 06:30:43",
-        "sentiment_score": -0.638510599732399
-    },
-    {
-        "title": "Peste porcina africana en España: Catalunya intensifica las capturas de jabalíes DIRECTO",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cc48b862-c741-4035-a049-25fb06626b49_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "animales"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20251130/peste-porcina-africana-espana-cataluna-ultima-hora-directo-124258800",
-        "date": "2025-11-30 06:23:00",
-        "sentiment_score": -0.9340293286368251
-    },
-    {
-        "title": "María González Durán, igual de influyente que Lamine Yamal, pero enseñando inglés",
-        "image_url": "https://static.grupojoly.com/clip/7c1cbbbb-7ff9-4e8d-b8f7-760fc413a6e5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/maria-gonzalez-duran-influyente-lamine-yamal-ensenando-ingles_0_2005337426.html",
-        "date": "2025-11-30 06:11:43",
-        "sentiment_score": 0.7870401293039322
-    },
-    {
-        "title": "La Zona de Bajas Emisiones de Málaga comienza a multar: estas son las restricciones tras su primer año",
-        "image_url": "https://static.grupojoly.com/clip/bb29b709-e2d7-47b7-9675-ec33ec8f026a_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ayuntamiento de málaga",
-            "últimas noticias málaga",
-            "tráfico málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/zona-bajas-emisiones-malaga-multas-restricciones-primer-ano_0_2005326486.html",
-        "date": "2025-11-30 06:10:41",
-        "sentiment_score": -0.12348654121160507
-    },
-    {
-        "title": "Qué me pasa",
-        "image_url": "https://static.grupojoly.com/clip/ce80dc86-6924-4d73-b6df-88b7dbfd4118_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/pasa_0_2005346532.html",
-        "date": "2025-11-30 06:01:29",
-        "sentiment_score": -0.1435510814189911
-    },
-    {
-        "title": "Un científico alocado y un músico soñador: los artistas españoles que aterrizan en Sevilla con el Circo del Sol",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9e5e6d79-edab-4d3a-87a1-4ea56a5eda92_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "circo,circo de sol,artistas,arte,actor,música,sevilla,charco de la pava"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2025/11/30/cientifico-alocado-musico-sonador-artistas-124194004.html",
-        "date": "2025-11-30 06:01:27",
-        "sentiment_score": 0.0006079971790313721
-    },
-    {
-        "title": "La crisis de la peste porcina espolea las críticas al «descontrol» de la fauna salvaje en Zamora: \"Es un problema de Estado\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/97ada508-4ca8-47b8-be5f-d428a7f3c238_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fauna salvaje,jabalíes,crisis,coag,peste porcina africana,lorenzo rivera"
-        ],
-        "link": "https://www.laopiniondezamora.es/comarcas/2025/11/30/crisis-peste-porcina-espolea-criticas-124271032.html",
-        "date": "2025-11-30 06:01:12",
-        "sentiment_score": -0.8975128848105669
-    },
-    {
         "title": "Los autónomos se manifiestan en Santander: «Estamos asfixiados»",
         "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2025/11/30/autonomos-uno-R8md4dkufwofDTWPQtKVNOJ-1200x840@Diario%20Montanes.jpg",
         "tags": [
@@ -2526,5 +2309,201 @@ export default [
         "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2025/12/03/estopa-protagoniza-nuevo-anuncio-navideno-aena-124415372.html",
         "date": "2025-12-03 17:09:25",
         "sentiment_score": -0.14359092712402344
+    },
+    {
+        "title": "El Ourense CF derriba al Girona (2-1) y ya espera a un grande en la Copa del Rey",
+        "image_url": "https://cflvdg.avoz.es/sc/2qHgzn966UY36B3_RyOrdmX1VBw=/768x/2025/12/03/00121764798782781639699/Foto/i_20251203_224717003.jpg",
+        "tags": [
+            "girona fc",
+            "ourense",
+            "ourense c.f.",
+            "copa del rey",
+            "estadio de o couto"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/ourense/2025/12/04/ourense-cf-espera-grande/0003_202512O4P42991.htm",
+        "date": "2025-12-03 22:19:00",
+        "sentiment_score": -0.0947648286819458
+    },
+    {
+        "title": "Xabi Alonso: \"Ha sido probablemente el partido más redondo de la temporada\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/03/9ACB5E61-5900-4876-864F-B09CC3A8DC0C/saludo-xabi-alonso-vinicius-san-mames_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "deportes",
+            "antena 3 noticias",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/xabi-alonso-sido-probablemente-partido-mas-redondo-temporada_202512036930b49f55584d48fb68a2bd.html",
+        "date": "2025-12-03 22:07:50",
+        "sentiment_score": 0.23106200993061066
+    },
+    {
+        "title": "Copa del Rey: Todos los resultados del miécoles 3 de diciembre en la segunda ronda",
+        "image_url": "https://pxcdn.meridiano.net/122025/1764798740634.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/copa-del-rey-todos-los-resultados-del-miecoles-3-de-diciembre-en-la-segunda-ronda-202512317560",
+        "date": "2025-12-03 21:56:00",
+        "sentiment_score": 0.06679162010550499
+    },
+    {
+        "title": "Broche con estrellas Michelín a Sabor Quijote 2025 en Sevilla, una edición con 8 millones de impactos",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Visita-a-la-Nao-Elena-Rosa-04036-1299x730.jpg",
+        "tags": [
+            "sabor quijote",
+            "provincia de ciudad real"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/broche-con-estrellas-michelin-a-sabor-quijote-2025-en-sevilla-una-edicion-con-8-millones-de-impactos/",
+        "date": "2025-12-03 21:52:51",
+        "sentiment_score": 0.029574215412139893
+    },
+    {
+        "title": "Valverde: “Ya nos hemos levantado en momentos de dificultad”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ccdb08c8-b90a-46b6-b322-892e0148a21b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "momentos",
+            "valverde",
+            "levantado",
+            "hemos",
+            "dificultad"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/12/03/valverde-hemos-levantado-momentos-dificultad-10431890.html",
+        "date": "2025-12-03 21:37:36",
+        "sentiment_score": -0.7122958824038506
+    },
+    {
+        "title": "El CF Talavera se 'venga' del Málaga",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/b604e1bf-d65d-4fc2-bac1bd11870f5dee.jpg",
+        "tags": [
+            "estadio el prado",
+            "fc barcelona",
+            "real madrid",
+            "barcelona",
+            "cuenca",
+            "segunda división",
+            "málaga cf",
+            "cf talavera",
+            "talavera de la reina",
+            "copa del rey"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z5ada2269-eff5-4d89-a76960bd677f481c/202512/el-cf-talavera-se-venga-del-malaga",
+        "date": "2025-12-03 21:37:06",
+        "sentiment_score": 0.3839573413133621
+    },
+    {
+        "title": "Mbappé se saca la espina",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/964fa6d1-bd9b-467a-bc98-0aa2c8583ba3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "saca",
+            "espina",
+            "mbappe"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/12/03/mbappe-saca-espina-10431845.html",
+        "date": "2025-12-03 21:31:57",
+        "sentiment_score": 0.418465256690979
+    },
+    {
+        "title": "La fotografía que confirma el apoyo incondicional de la Infanta Elena al emérito",
+        "image_url": "https://www.infobae.com/resizer/v2/XT4MJYQPANCPPN6IFJ36FUHO7A.jpg?auth=28cda852ce1756d39be05047347e34dceda64a1170e82d74f5dae8769a7805f1&height=1440&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/03/la-fotografia-que-confirma-el-apoyo-incondicional-de-la-infanta-elena-al-emerito/",
+        "date": "2025-12-03 21:30:15",
+        "sentiment_score": 0.6535219848155975
+    },
+    {
+        "title": "El Madrid se impone con gran comodidad",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/690ca2ab-4d7f-4ae8-8d4d-bf039d9e794d_16-9-aspect-ratio_default_1019880.jpg",
+        "tags": [
+            "gran",
+            "madrid",
+            "impone",
+            "comodidad"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/12/03/madrid-impone-gran-comodidad-10431819.html",
+        "date": "2025-12-03 21:21:45",
+        "sentiment_score": -0.19077320396900177
+    },
+    {
+        "title": "El rey Juan Carlos I habla del rifirrafe de la reina Letizia y Sofía en Palma, de sus fotos desnudo y alaba a su mujer",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2577193.jpg",
+        "tags": [
+            "dolcevita"
+        ],
+        "link": "https://www.vozpopuli.com/dolcevita/el-rey-juan-carlos-i-habla-del-rifirrafe-de-la-reina-letizia-y-sofia-en-palma-de-sus-fotos-desnudo-y-alaba-a-su-mujer.html",
+        "date": "2025-12-03 21:16:32",
+        "sentiment_score": -0.03440170735120773
+    },
+    {
+        "title": "Peste porcina, temor y control",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/03/op-porcina-ks2C--758x531@Hoy.jpg",
+        "tags": [
+            "opinión hoy"
+        ],
+        "link": "https://www.hoy.es/opinion/peste-porcina-temor-control-20251204224853-nt.html",
+        "date": "2025-12-03 22:13:50",
+        "sentiment_score": -0.651369258761406
+    },
+    {
+        "title": "La Junta destaca los controles en granjas y jabalíes salvajes ante la peste porcina",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/04/1503632659-kwpH-U240443129200PDF-1200x840@Ideal.jpg",
+        "tags": [
+            "ante",
+            "porcina",
+            "jabalies",
+            "destaca",
+            "junta",
+            "controles",
+            "peste",
+            "granjas",
+            "salvajes"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/junta-destaca-controles-granjas-jabalies-salvajes-ante-20251204230125-nt.html",
+        "date": "2025-12-03 22:01:26",
+        "sentiment_score": -0.242851123213768
+    },
+    {
+        "title": "Pedro Ruiz cuenta el día que le obligaron a dejar la televisión durante el franquismo: \"La única libertad que hay es el teatro\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/03/pedro-ruiz-en-la-revuelta.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/pedro-ruiz-cuenta-dia-le-obligaron-dejar-television-franquismo-la-unica-libertad-hay-teatro.html",
+        "date": "2025-12-03 21:59:33",
+        "sentiment_score": 0.4400065839290619
+    },
+    {
+        "title": "La relación entre Pedro Ruiz y David Broncano: «Me manda vídeos tirándose a la piscina»",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/12/03/ruiz-kiCG--758x531@El%20Correo.jpg",
+        "tags": [
+            "audiencias",
+            "televisión",
+            "la 1 (tve)"
+        ],
+        "link": "https://www.elcorreo.com/gente-estilo/relacion-pedro-ruiz-david-broncano-manda-videos-20251203224845-nt.html",
+        "date": "2025-12-03 21:48:45",
+        "sentiment_score": 0.1238701120018959
+    },
+    {
+        "title": "Uno de los personajes basados para «La Casa de Papel» es extraditado a Perú para un juicio por narcotráfico",
+        "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2022/10/07/63404908f2539.r_d.145-418-0.webp",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.eldebate.com/internacional/20251203/personajes-basados-casa-papel-extraditado-peru-juicio-narcotrafico_361948.html",
+        "date": "2025-12-03 21:40:17",
+        "sentiment_score": -0.738469086587429
+    },
+    {
+        "title": "Chile paraliza las importaciones de \"todo producto porcino de origen español\" tras el brote de peste detectado en Barcelona",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/02/692ea49a179062-17372150.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.20minutos.es/internacional/chile-suspende-las-importaciones-todo-producto-porcino-origen-espanol-tras-brote-peste-detectado-barcelona_6906366_0.html",
+        "date": "2025-12-03 21:25:13",
+        "sentiment_score": 0.2284318134188652
     }
 ];
