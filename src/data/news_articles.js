@@ -1,227 +1,5 @@
 export default [
     {
-        "title": "Los autónomos se manifiestan en Santander: «Estamos asfixiados»",
-        "image_url": "https://s3.ppllstatics.com/eldiariomontanes/www/multimedia/2025/11/30/autonomos-uno-R8md4dkufwofDTWPQtKVNOJ-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "tarragona (ciudad)",
-            "sevilla",
-            "ayuntamiento de santander",
-            "madrid (ciudad)",
-            "santiago de compostela",
-            "santander",
-            "salamanca",
-            "bilbao",
-            "oviedo",
-            "valencia (ciudad)",
-            "mallorca"
-        ],
-        "link": "https://www.eldiariomontanes.es/santander/autonomos-manifiestan-santander-asfixiados-20251130181319-nt.html",
-        "date": "2025-11-30 17:13:20",
-        "sentiment_score": -0.3003351464867592
-    },
-    {
-        "title": "Miles de autónomos claman por la \"dignidad\" de un colectivo que se dice \"pilar de España\"",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/11/30/una-plataforma-pedira-hoy-en-toda-espana-condiciones-dignas-para-los-autonomos.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.heraldo.es/noticias/economia/2025/11/30/miles-autonomos-claman-dignidad-colectivo-pilar-espana-1874880.html",
-        "date": "2025-11-30 17:12:03",
-        "sentiment_score": -0.49421122670173645
-    },
-    {
-        "title": "Franklin, el influencer venezolano que conquista Asturias con su moda a pie de calle: «Oviedo lo tiene todo. Y mucho glamour»",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/11/29/franklin-abreu-influencer-oviedo%20(2)-kfvE-U240399406234SxH-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "franklin",
-            "influencer",
-            "moda",
-            "venezolano",
-            "calle",
-            "asturias",
-            "pie",
-            "oviedo",
-            "glamour",
-            "conquista"
-        ],
-        "link": "https://www.elcomercio.es/oviedo/medicenklin-franklin-abreu-influencer-asturias-moda-oviedo-20251129180808-nt.html",
-        "date": "2025-11-30 17:09:29",
-        "sentiment_score": 0.08121603727340698
-    },
-    {
-        "title": "El Badajoz y La Cruz sacuden la liga",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/11/30/Imagen%20G7ARr4vWcAALX2g_papel_xoptimizadax-RjnxU7MnPXoOWtKWPThqyKK-1200x840@Hoy.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/badajoz-cruz-sacuden-liga-20251130180749-nt.html",
-        "date": "2025-11-30 17:07:49",
-        "sentiment_score": 0.16784608364105225
-    },
-    {
-        "title": "Aerolíneas y viajeros, pendientes de recomendaciones sobre Venezuela tras aviso de Trump",
-        "image_url": "https://www.el-carabobeno.com/wp-content/uploads/2022/01/air-europa-iberia-referencial.jpg",
-        "tags": [
-            "faceb2",
-            "tuit2",
-            "rec",
-            "internacional",
-            "rec1"
-        ],
-        "link": "https://www.el-carabobeno.com/aerolineas-y-viajeros-pendientes-de-recomendaciones-sobre-venezuela-tras-aviso-de-trump/",
-        "date": "2025-11-30 17:04:59",
-        "sentiment_score": -0.1144554615020752
-    },
-    {
-        "title": "Algeciras es reconocida como Ciudad Amiga de la Infancia 2025",
-        "image_url": "https://static.grupojoly.com/clip/3c0fa0ef-5267-48bb-b8b3-1bd17860b62d_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias campo de gibraltar"
-        ],
-        "link": "https://www.europasur.es/algeciras/ciudad-amiga-infancia-2025_0_2005352584.html",
-        "date": "2025-11-30 16:53:39",
-        "sentiment_score": 0.392160814255476
-    },
-    {
-        "title": "Girona y Real Madrid frente a frente: datos que anticipan un choque eléctrico",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/19/2025101923111111708.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/girona-real-madrid-frente-frente-datos-que-anticipan-choque-electrico/20251130174804365178.html",
-        "date": "2025-11-30 16:48:04",
-        "sentiment_score": -0.2919754385948181
-    },
-    {
-        "title": "Manifestantes, en la protesta contra Sánchez: \"Es vergonzoso lo que está pasando, él es cómplice\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/30/692c210ff2c1a9-59126276.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/manifestantes-protesta-sanchez-vergonzoso-pasando-complice_6904580_0.html",
-        "date": "2025-11-30 16:37:04",
-        "sentiment_score": -0.0791621282696724
-    },
-    {
-        "title": "El Levante destituye a Julián Calero e Iborra y Del Moral toman el mando de manera interina",
-        "image_url": "https://www.infobae.com/resizer/v2/6T2LBNQDZNDDNMICJJNTOH4L2E.jpg?auth=e74d291d2f858c581f579e3c20f778b3e924f5d063bd350cf07a440945b98c0b&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/11/30/el-levante-destituye-a-julian-calero-e-iborra-y-del-moral-toman-el-mando-de-manera-interina/",
-        "date": "2025-11-30 16:30:20",
-        "sentiment_score": -0.8200292810797691
-    },
-    {
-        "title": "El activo inmobiliario que seduce al ahorrador español este año",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2021/07/12/2021071210174675645.jpg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/dinero/activo-inmobiliario-que-seduce-ahorrador-espanol-ano/20251130172940991893.html",
-        "date": "2025-11-30 16:29:40",
-        "sentiment_score": -0.5502125471830368
-    },
-    {
-        "title": "Barcelona acogerá una residencia literaria con autores latinoamericanos para que escriban sobre la ciudad",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/29/informacion-municipal/1003742712057_15463292_1706x960.jpg",
-        "tags": [
-            "información municipal",
-            "jaume collboni",
-            "barcelona literaria",
-            "cultura",
-            "ayuntamiento de barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20251130/barcelona-acogera-residencia-literaria-autores-latinoamericanos-escriban-ciudad/1003742712052_0.html",
-        "date": "2025-11-30 17:18:48",
-        "sentiment_score": 0.5051934458315372
-    },
-    {
-        "title": "Cataluña pide el despliegue de la UME ante el brote de peste porcina africana: preocupación en Extremadura",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8ec9e7d9-81d0-48d9-87a8-b8679949c4cf_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "radio",
-            "agricultura",
-            "impacto económico",
-            "extremadura"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/11/30/cataluna-despliegue-ume-peste-porcina-africana-124291606.html",
-        "date": "2025-11-30 17:16:16",
-        "sentiment_score": -0.04532572627067566
-    },
-    {
-        "title": "La cuarta edición del salón del videojuego en catalán bate récords en L'Hospitalet: 9.000 visitas",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/30/gran-barcelona/1003742712210_15465157_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "videojuegos y gamers",
-            "l'hospitalet de llobregat"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251130/cuarta-edicion-salon-videojuego-catalan-bate-records-lhospitalet-visitas/1003742712208_0.html",
-        "date": "2025-11-30 17:13:45",
-        "sentiment_score": 0.2505033649504185
-    },
-    {
-        "title": "Más de 250 agentes se movilizan en el dispositivo para contener el foco de peste porcina",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/11/30/mas-de-250-agentes-se-movilizan-en-el-dispositivo-para-contener-el-foco-de-peste-porcina.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/multimedia/videos/nacional/video-250-efectivos-frenar-foco-peste-porcina-collserola-barcelona/",
-        "date": "2025-11-30 17:07:14",
-        "sentiment_score": -0.3717239946126938
-    },
-    {
-        "title": "Este es el pueblo donde será más barato comprar una casa en Cataluña este 2026: a 1 hora de Tarragona y casas por 47.000 euros",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/08/17/empresas/787431423_8468322_1706x960.jpg",
-        "tags": [
-            "+economía",
-            "vivienda",
-            "barcelona",
-            "cataluña",
-            "pueblo",
-            "tarragona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/mas-economia/20251130/pueblo-barato-comprar-casa-cataluna-hora-tarragona-casas-euros-trt/1003742712011_0.html",
-        "date": "2025-11-30 17:00:00",
-        "sentiment_score": 0.481166273355484
-    },
-    {
-        "title": "Corberán: \"Queremos competir fuera de casa igual que en Mestalla\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/30/692c76e9dfc11.jpeg",
-        "tags": [
-            "deportes cope valencia"
-        ],
-        "link": "https://www.cope.es/emisoras/comunidad-valenciana/valencia-provincia/valencia/deportes-cope-valencia/noticias/corberan-queremos-competir-fuera-casa-igual-mestalla-20251130_3262409.html",
-        "date": "2025-11-30 16:59:45",
-        "sentiment_score": 0.04305705428123474
-    },
-    {
-        "title": "Badalona ultima su pista de hielo junto al gran árbol de Navidad",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/static/ESPEspanol/img/elespanol_amp-1706x960.png?hash=924e",
-        "tags": [
-            "gran barcelona",
-            "recomendaciones",
-            "badalona",
-            "planes",
-            "navidad barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251130/badalona-ultima-pista-hielo-junto-gran-arbol-navidad/1003742712190_0.html",
-        "date": "2025-11-30 16:56:14",
-        "sentiment_score": 0.2863490805029869
-    },
-    {
-        "title": "Asaja exige \"medidas\" firmes de control de la fauna silvestre",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/02/27/el-constante-crecimiento-de-la-poblacion-de-jabali-obliga-a-intensificar-su-caza.r_d.457-470.jpeg",
-        "tags": [
-            "comarcas"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/comarcas/2025/11/30/asaja-exige-medidas-firmes-de-control-de-la-fauna-silvestre-1874870-daa.html",
-        "date": "2025-11-30 16:33:42",
-        "sentiment_score": -0.7973216138780117
-    },
-    {
         "title": "El Real Madrid vuelve a griparse en Montilivi",
         "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/30/mbappe-vini-kAFG-U240405793920ukD-758x531@RC.JPG",
         "tags": [
@@ -2666,5 +2444,153 @@ export default [
         "link": "https://www.huelvainformacion.es/opinion/articulos/legislatura-gasolina_0_2005388237.html",
         "date": "2025-12-04 02:07:59",
         "sentiment_score": 0.0018204748630523682
+    },
+    {
+        "title": "Niño Becerra, economista, sobre la Lotería de Navidad: “Antes con el Gordo podías comprarte 24 casas, ahora ni una”",
+        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039812_260279123_1706x960.jpg",
+        "tags": [
+            "gordo de navidad",
+            "economistas",
+            "sociedad",
+            "soft",
+            "lotería de navidad"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251204/nino-becerra-economista-loteria-navidad-gordo-podias-comprarte-casas-ahora/1003744039533_0.html",
+        "date": "2025-12-04 06:35:50",
+        "sentiment_score": 0.1741977035999298
+    },
+    {
+        "title": "Madri+D, chiringuito de Ayuso, articuló la concesión de universidad al ICAM",
+        "image_url": "https://www.elplural.com/uploads/s1/21/13/17/4/ayuso-9_7_480x270.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elplural.com/autonomias/madrid/madri-d-chiringuito-ayuso-articulo-concesion-universidad-icam_366644102",
+        "date": "2025-12-04 06:19:48",
+        "sentiment_score": -0.09231232106685638
+    },
+    {
+        "title": "La letra pequeña de la mamografía: ¿informar sobre mamas densas ayuda... o solo genera más miedo?",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251204071247_690.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-letra-pequena-mamografia-informar-mamas-densas-ayuda-solo-genera-mas-miedo-20251204071247.html",
+        "date": "2025-12-04 06:12:47",
+        "sentiment_score": -0.016186237335205078
+    },
+    {
+        "title": "La fábrica de las estrellas visita el Ruta de la Plata",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4a93b2d5-7853-417c-a5c6-57c6dc108aed_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "estrellas,ruta de la plata,fútbol,everton"
+        ],
+        "link": "https://www.laopiniondezamora.es/deportes/2025/12/04/fabrica-estrellas-visita-ruta-plata-124423009.html",
+        "date": "2025-12-04 06:00:51",
+        "sentiment_score": 0.38393284380435944
+    },
+    {
+        "title": "Combustibles 100% renovables para mantener tu motor en condiciones óptimas",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/12/03/693063858118c.r_d.3000-2000-748.jpeg",
+        "tags": [
+            "coches"
+        ],
+        "link": "https://www.mundodeportivo.com/motor/coches/20251204/1002580388/mejor-combustible-mantener-motor-condiciones-optimas-brl.html",
+        "date": "2025-12-04 06:00:00",
+        "sentiment_score": 0.7154930979013443
+    },
+    {
+        "title": "Juanma Castaño destaca la importancia de la victoria del Real Madrid contra el Athletic: \"Era una carta fundamental\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/04/6930cb3d921fe.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-destaca-importancia-victoria-real-madrid-athletic-carta-fundamental-20251204_3265059.html",
+        "date": "2025-12-04 06:00:00",
+        "sentiment_score": -0.048153579235076904
+    },
+    {
+        "title": "Vox propone nuevas deducciones fiscales en Madrid y exige auditar el coste de la inmigración",
+        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2025/09/madrid-ayuso-reune-grupos-parlamentarios-septiembre-marcado.jpg",
+        "tags": [
+            "política madrid"
+        ],
+        "link": "https://www.madridactual.es/noticias-regionales/politica-en-madrid/madrid-vox-presenta-bateria-deducciones-fiscales-seguros-20251204-8071621.html",
+        "date": "2025-12-04 05:52:02",
+        "sentiment_score": 0.06091899052262306
+    },
+    {
+        "title": "Chase Audige, Augustine Rubit y la reconstrucción del Unicaja",
+        "image_url": "https://static.grupojoly.com/clip/325a0594-54a7-4285-82ac-faede0654618_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja baloncesto"
+        ],
+        "link": "https://www.malagahoy.es/unicaja/chase-audige-augustine-rubit-reconstruccion_0_2005384704.html",
+        "date": "2025-12-04 05:42:00",
+        "sentiment_score": 0.4411635175347328
+    },
+    {
+        "title": "El Real Avilés regresa a los entrenamientos con Raúl Hernández, pero sin Adri Gómez",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/03/pelayo-suarez-real-aviles-RCr1B7PHFdqNouohF0TaGxI-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "raul",
+            "adri",
+            "gomez",
+            "real",
+            "entrenamientos",
+            "aviles",
+            "hernandez",
+            "regresa"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/real-aviles-entrenamientos-raul-hernandez-adri-gomez-20251203063851-nt.html",
+        "date": "2025-12-04 05:39:23",
+        "sentiment_score": -0.25812293589115143
+    },
+    {
+        "title": "Una marca sin precedentes en 39 campañas en Primera División",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/04/real-oviedo-kWmB--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-goles-primera-division-estadisticas-20251204063726-nt.html",
+        "date": "2025-12-04 05:38:02",
+        "sentiment_score": -0.9110117582604289
+    },
+    {
+        "title": "Herido grave un motorista en un accidente de tráfico en la A-2 de Zaragoza",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/12/04/imagen-del-kilometro-en-el-que-se-ha-producido-el-accidente.png",
+        "tags": [
+            "zaragoza"
+        ],
+        "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2025/12/04/grave-conductor-moto-accidente-trafico-a-2-zaragoza-1875940.html",
+        "date": "2025-12-04 06:38:30",
+        "sentiment_score": -0.45919032767415047
+    },
+    {
+        "title": "Robin Decaux, sobre el disparado precio de la vivienda: “Aumentó un 8,4%, el mayor repunte desde el año 2007”",
+        "image_url": "https://s3.elespanol.com/2025/05/23/actualidad/1003743771293_255834654_1706x960.jpg",
+        "tags": [
+            "sociedad",
+            "vivienda",
+            "soft",
+            "banco de españa"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251204/robin-decaux-disparado-precio-vivienda-aumento-mayor-repunte-ano/1003744030487_0.html",
+        "date": "2025-12-04 06:35:38",
+        "sentiment_score": -0.09337925165891647
+    },
+    {
+        "title": "Las pymes del sector porcino catalán alertan ante la caída de precios por la peste africana: \"tendremos que aguantar varios meses en pérdidas\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/80407708-97bf-4625-ab42-c4cba8c52d10_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "peste porcina",
+            "lleida",
+            "empresas",
+            "cataluña"
+        ],
+        "link": "https://www.informacion.es/economia/2025/12/04/pymes-sector-porcino-catalan-alertan-124430063.html",
+        "date": "2025-12-04 06:33:52",
+        "sentiment_score": -0.5117727369070053
     }
 ];
