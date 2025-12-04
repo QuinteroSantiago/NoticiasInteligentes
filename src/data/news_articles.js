@@ -1,367 +1,5 @@
 export default [
     {
-        "title": "El Atlético hace historia por la vía rápida",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/29/sorloth-oviedo-kciC-U2404000203175GC-1200x840@RC.JPG",
-        "tags": [
-            "jan oblak",
-            "koke",
-            "oviedo",
-            "liga de fútbol profesional",
-            "atlético de madrid"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/atletico-historia-traves-mejor-version-20251129225531-ntrc.html",
-        "date": "2025-11-29 22:05:07",
-        "sentiment_score": 0.8479872494935989
-    },
-    {
-        "title": "El Oviedo se entrega en menos de media hora: derrota en su visita al Atleti",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/708269d2-8075-4a9d-be95-b2e784368e65_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real oviedo"
-        ],
-        "link": "https://www.lne.es/real-oviedo/2025/11/29/oviedo-entrega-media-hora-derrota-124274350.html",
-        "date": "2025-11-29 22:04:04",
-        "sentiment_score": -0.7853625379502773
-    },
-    {
-        "title": "Sorloth resuelve por la vía rápida y prolonga la racha triunfal del Atlético",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/29/692b69a7a4232.r_d.921-541-6250.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251129/sorloth-resuelve-via-rapida-prolonga-racha-triunfal-atletico_360417.html",
-        "date": "2025-11-29 22:03:40",
-        "sentiment_score": 0.7356065660715103
-    },
-    {
-        "title": "Ábalos reitera, a través de sus redes sociales, que es inocente",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/11/29/captura-de-pantalla-2025-11-29-224401.r_d.543-426-8878.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/11/29/abalos-reitera-a-traves-de-sus-redes-sociales-que-es-inocente-1874760-daa.html",
-        "date": "2025-11-29 22:02:02",
-        "sentiment_score": -0.072807677090168
-    },
-    {
-        "title": "El Atlético hace historia a través de su mejor versión",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/29/sorloth-oviedo-kciC-U2404000203175GC-1200x840@RC.JPG",
-        "tags": [
-            "liga de fútbol profesional",
-            "jan oblak",
-            "atlético de madrid",
-            "oviedo",
-            "koke"
-        ],
-        "link": "https://www.ideal.es/deportes/futbol/liga-primera/atletico-historia-traves-mejor-version-20251129225531-ntrc.html",
-        "date": "2025-11-29 21:55:53",
-        "sentiment_score": 0.8771973829716444
-    },
-    {
-        "title": "Los (pocos) hombres que aparcan el trabajo para cuidar de sus hijos: \"Soy padre antes que trabajador\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
-        "tags": [
-            "nlpremium",
-            "artículos daniela saltos"
-        ],
-        "link": "https://www.elmundo.es/economia/2025/11/29/692491dbe4d4d8a97d8b4582.html",
-        "date": "2025-11-29 21:33:19",
-        "sentiment_score": -0.07025890052318573
-    },
-    {
-        "title": "Navarro sufre un esguince de tobillo “muy fuerte”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f041b7d1-2126-410a-aac4-7bcfa95d269f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fuerte",
-            "esguince",
-            "lesion",
-            "navarro",
-            "robert",
-            "tobillo"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/11/29/lesion-robert-navarro-esguince-tobillo-fuerte-10415178.html",
-        "date": "2025-11-29 21:31:26",
-        "sentiment_score": -0.3761717826128006
-    },
-    {
-        "title": "El DT de Real Madrid confirmó cuándo reaparecerá Franco Mastantuono tras la lesión que lo marginó de las canchas",
-        "image_url": "https://www.infobae.com/resizer/v2/F4VEG2XT6FEW7AE64DYFSTITRQ.jpg?auth=3320b984e938a6d52d090020fcea5716f6e40b1e0fea8de7c2712927f9f8ac33&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-argentina",
-            "real madrid",
-            "franco mastantuono",
-            "la liga de españa",
-            "xabi alonso",
-            "girona"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/29/el-dt-de-real-madrid-confirmo-cuando-reaparecera-franco-mastantuono-tras-la-lesion-que-lo-margino-de-las-canchas/",
-        "date": "2025-11-29 21:30:38",
-        "sentiment_score": 0.3095775134861469
-    },
-    {
-        "title": "LaLiga: Atlético de Madrid - Real Oviedo, en imágenes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/236de83d-6657-4384-be36-037955dc3c80_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "laliga",
-            "atlético de madrid",
-            "oviedo",
-            "atletico",
-            "real oviedo",
-            "fútbol",
-            "madrid",
-            "real"
-        ],
-        "link": "https://www.lacronicabadajoz.com/fotos/deportes/2025/11/29/laliga-atletico-madrid-real-oviedo-124275632.html",
-        "date": "2025-11-29 21:15:09",
-        "sentiment_score": -0.0036407336592674255
-    },
-    {
-        "title": "El Barça no entusiasma ni en el campo ni en los despachos: Laporta pierde adeptos y Flick se desespera",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/29/culemania/palco/1003742712107_15463920_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "camp nou",
-            "palco",
-            "barça",
-            "la liga",
-            "hansi flick"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251129/barca-entusiasma-despachos-laporta-adeptos-flick-desespera/1003742712103_0.html",
-        "date": "2025-11-29 22:16:06",
-        "sentiment_score": -0.5559641644358635
-    },
-    {
-        "title": "El jugador que echa de menos Gonzalo Miró en la victoria del Atlético: \"No entiendo\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/11/29/692b32515a971.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/jugador-echa-gonzalo-miro-victoria-atletico-venia-practicamente-titular-entiendo-20251129_3262292.html",
-        "date": "2025-11-29 22:07:59",
-        "sentiment_score": -0.05719071626663208
-    },
-    {
-        "title": "La gran fiesta de la natación asturiana regresa muchos años después: \"Queremos recuperar al deportista joven\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd9bdcce-8007-452e-98c4-b21cbd236350_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "federación",
-            "asturias",
-            "natación",
-            "jueces"
-        ],
-        "link": "https://www.lne.es/deportes/deporte-astur/2025/11/30/gran-fiesta-natacion-asturiana-regresa-124275831.html",
-        "date": "2025-11-29 22:03:08",
-        "sentiment_score": 0.6552920937538147
-    },
-    {
-        "title": "Barcelona abre su pabellón en la FIL de Guadalajara (México) inspirado en las plazas porticadas",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/11/20251129223300.jpg?fit=1920%2C1440&ssl=1",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://cronicadecantabria.com/cr/barcelona-abre-su-pabelln-en-la-fil-de-guadalajara-mxico-inspirado-en-las-plazas-porticadas/",
-        "date": "2025-11-29 22:00:02",
-        "sentiment_score": 0.18416982889175415
-    },
-    {
-        "title": "Sörloth alarga el pleno del Atlético con doblete ante el Oviedo y avisa al Barça",
-        "image_url": "https://okdiario.com/img/2025/11/29/cronica-atletico-interior-1.jpg",
-        "tags": [
-            "real oviedo",
-            "atlético de madrid",
-            "deportes",
-            "la liga"
-        ],
-        "link": "https://okdiario.com/deportes/sorloth-alarga-pleno-del-atletico-doblete-oviedo-avisa-barca-15852276",
-        "date": "2025-11-29 21:56:52",
-        "sentiment_score": 0.47124961018562317
-    },
-    {
-        "title": "Juan José Laborda: \"Claro que Sánchez debería dimitir... de los cuatro del Peugeot, tres ya han pasado por ‘la perrera’\"",
-        "image_url": "https://s3.elespanol.com/2025/11/29/actualidad/1003744035739_260227350_1706x960.jpg",
-        "tags": [
-            "pedro sánchez",
-            "política",
-            "presupuestos generales del estado",
-            "psoe (partido socialista obrero español)",
-            "congreso de los diputados",
-            "senado"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251130/juan-jose-laborda-claro-sanchez-deberia-dimitir-peugeot-pasado-perrera/1003744035400_0.html",
-        "date": "2025-11-30 01:43:02",
-        "sentiment_score": -0.8644020427018404
-    },
-    {
-        "title": "Filipe Luis vence a Vitor Roque en la batalla por la Copa Libertadores",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/30/2025113002393556606.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/filipe-luis-gana-partida-vitor-roque-copa-libertadores/20251130024023365109.html",
-        "date": "2025-11-30 01:40:23",
-        "sentiment_score": -0.6378139443695545
-    },
-    {
-        "title": "Barcelona toma el liderato provisional tras vencer al Alavés",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "126 años",
-            "alavés",
-            "3-1",
-            "barcelona",
-            "deportes"
-        ],
-        "link": "https://noticialdia.com/deportes/barcelona-toma-el-liderato-provisional-tras-vencer-al-alaves/",
-        "date": "2025-11-30 01:22:00",
-        "sentiment_score": 0.4541831314563751
-    },
-    {
-        "title": "La genial asistencia de Messi en la consagración del Inter Miami ante el New York City en la final de la Conferencia Este de la MLS",
-        "image_url": "https://www.infobae.com/resizer/v2/6TGIDIMB4JBGZHPBZNX7XKCSTY.png?auth=382c3356b6cd24ea23e0ec2f47de6c88d878516675889ede353e2aaa610062c3&height=1080&smart=true&width=1920",
-        "tags": [
-            "lionel messi",
-            "mateo silvetti",
-            "inter miami",
-            "new york city",
-            "mls"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/11/30/la-genial-asistencia-de-messi-en-la-consagracion-del-inter-miami-ante-el-new-york-city-en-la-final-de-la-conferencia-este-de-la-mls/",
-        "date": "2025-11-30 01:19:37",
-        "sentiment_score": 0.6942619942128658
-    },
-    {
-        "title": "La gratitud de Conmebol y Flamengo tras una nueva final de Copa Libertadores en Perú: “Gracias causitas”",
-        "image_url": "https://www.infobae.com/resizer/v2/X6OH2SCOI5CVFA3KEHU6PEUD4E.jpg?auth=29f541a814c932cd6a52ac27a526f6e2e50bd1b301b68a8313ff3bee6c970b62&height=1080&smart=true&width=1920",
-        "tags": [
-            "peru-deportes",
-            "flamengo",
-            "copa libertadores",
-            "estadio monumental",
-            "conmebol"
-        ],
-        "link": "https://www.infobae.com/peru/deportes/2025/11/30/la-gratitud-de-conmebol-y-flamengo-tras-una-nueva-final-de-copa-libertadores-en-peru-gracias-causitas/",
-        "date": "2025-11-30 01:12:44",
-        "sentiment_score": 0.8371857758611441
-    },
-    {
-        "title": "La prisión de Ábalos cierra la semana negra del PSOE: del efectivo a la 'fontanera', avanzan las investigaciones que rodean a los socialistas",
-        "image_url": "https://phantom-elmundo.uecdn.es/e4b82614f11963d1f015337db691d94e/f/image/jpeg/assets/multimedia/imagenes/2024/01/19/17056843364480.jpg",
-        "tags": [
-            "artículos manuel marraco",
-            "koldo garcía",
-            "josé luis ábalos",
-            "leire díez",
-            "víctor de  aldama"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/11/30/692b2a38fdddff8c2c8b4579.html",
-        "date": "2025-11-30 01:10:50",
-        "sentiment_score": -0.47809609211981297
-    },
-    {
-        "title": "Raphinha regresa al once y regala el liderato al Barcelona, que superó al Alavés",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://eltiempove.com/raphinha-regresa-al-once-y-regala-el-liderato-al-barcelona-que-supero-al-alaves/",
-        "date": "2025-11-30 00:45:00",
-        "sentiment_score": 0.6569339446723461
-    },
-    {
-        "title": "\"Adicto al sexo y a los coches de lujo\", \"encantador de serpientes\" y \"bipolar\": los excesos de Jordi Jr., el líder del clan de los Pujol",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744035043_260217768_1706x960.jpg",
-        "tags": [
-            "audiencia nacional",
-            "oleguer pujol ferrusola",
-            "oriol pujol ferrusola",
-            "corrupción",
-            "jordi pujol i soley",
-            "jordi pujol ferrusola",
-            "marta ferrusola",
-            "josep pujol ferrusola",
-            "fiscalía anticorrupción",
-            "pere pujol ferrusola"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251130/adicto-sexo-coches-lujo-encantador-serpientes-bipolar-excesos-jordi-jr-lider-clan-pujol/1003744033869_0.html",
-        "date": "2025-11-30 00:40:00",
-        "sentiment_score": -0.01780262589454651
-    },
-    {
-        "title": "Antonio Alcoba, el cámara que guarda el secreto de la primera foto del chotis: \"Otros iban a por Franco; yo me iba por Madrid\"",
-        "image_url": "https://s3.elespanol.com/2025/11/28/madrid/1003744035040_260217723_1706x960.jpg",
-        "tags": [
-            "madrileños extraordinarios",
-            "sociedad",
-            "fotografía",
-            "madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251130/antonio-alcoba-camara-guarda-secreto-primera-foto-chotis-iban-franco-iba-madrid/1003744033752_0.html",
-        "date": "2025-11-30 00:40:00",
-        "sentiment_score": 0.5983446910977364
-    },
-    {
-        "title": "Roberto Lara (Vodafone): “La seguridad no resta agilidad, la multiplica” ante el auge de los ciberataques impulsados por IA",
-        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027293_260115050_1706x960.jpg",
-        "tags": [
-            "inteligencia artificial",
-            "vodafone",
-            "tecnología",
-            "ciberseguridad",
-            "wake up spain",
-            "innovación",
-            "branded",
-            "gran empresa",
-            "ataques informáticos"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20251130/roberto-lara-vodafone-seguridad-no-resta-agilidad-multiplica-auge-ciberataques-impulsados-ia/1003744027261_0.html",
-        "date": "2025-11-30 00:34:00",
-        "sentiment_score": 0.654215270653367
-    },
-    {
-        "title": "Sin líneas rojas",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lineas",
-            "rojas"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/lineas-rojas_0_2005349471.html",
-        "date": "2025-11-30 02:10:40",
-        "sentiment_score": -0.5706185847520828
-    },
-    {
-        "title": "Messi y el Inter Miami avanzan a final de MLS con goleada de 5-1 ante NYCFC",
-        "image_url": "https://dims.apnews.com/dims4/default/aace90b/2147483647/strip/true/crop/3651x2430+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb2%2F23%2F99f00947463818c9bc5e74688608%2F7f7beb0aaaee40b3b9a03da3dc01c503",
-        "tags": [
-            "deportes",
-            "sports",
-            "inter miami messi final mls"
-        ],
-        "link": "https://apnews.com/article/inter-miami-messi-final-mls-050dab81bdf7a2065969639e9a75d3ef",
-        "date": "2025-11-30 01:56:46",
-        "sentiment_score": -0.5883086510002613
-    },
-    {
-        "title": "Messi y el Inter Miami avanzan a final de MLS con goleada de 5-1 ante NYCFC",
-        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/11/MLS-RESUMEN_21243.jpg?strip=all&w=1400px",
-        "tags": [
-            "en español"
-        ],
-        "link": "https://www.chicagotribune.com/2025/11/29/messi-y-el-inter-miami-avanzan-a-final-de-mls-con-goleada-de-5-1-ante-nycfc/",
-        "date": "2025-11-30 01:56:45",
-        "sentiment_score": 0.14047206938266754
-    },
-    {
-        "title": "Messi y el Inter Miami se coronan en el Este y avanzan a final de MLS con goleada de 5-1 ante NYCFC",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/11/MLS-RESUMEN_21243.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2025/11/29/messi-y-el-inter-miami-se-coronan-en-el-este-y-avanzan-a-final-de-mls-con-goleada-de-5-1-ante-nycfc/",
-        "date": "2025-11-30 01:56:45",
-        "sentiment_score": 0.14047206938266754
-    },
-    {
         "title": "HAY DÍAS",
         "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/11/12/funcionario-paga.extra-pensiones-kKB--170x119@Ideal.jpg",
         "tags": [
@@ -2651,5 +2289,242 @@ export default [
         "link": "https://www.elcomercio.es/oviedo/zona-bajas-emisiones-oviedo-vehiculos-20251202073212-nt.html",
         "date": "2025-12-03 06:32:45",
         "sentiment_score": -0.5757731683552265
+    },
+    {
+        "title": "La noche violenta del Frente Atlético en un karaoke de Ventas",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/e9/media_thumb-link-4122934.webp?1764723546=",
+        "tags": [
+            "actualidad",
+            "frente atlético",
+            "noche violenta",
+            "ventas",
+            "karaoke"
+        ],
+        "link": "https://www.meneame.net/story/noche-violenta-frente-atletico-karaoke-ventas",
+        "date": "2025-12-03 12:40:02",
+        "sentiment_score": -0.7382606025785208
+    },
+    {
+        "title": "Athletic Club - Real Madrid, en directo hoy: resultado y goles del partido de LaLiga EASports",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2576857.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/athletic-club-real-madrid-en-directo-hoy-ultima-hora-resultado-y-goles-del-partido-de-laliga.html",
+        "date": "2025-12-03 17:10:21",
+        "sentiment_score": -0.3561462163925171
+    },
+    {
+        "title": "17:00H | 03 DIC 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-03-dic-2025-tarde-20251203_3264940.html",
+        "date": "2025-12-03 17:08:00",
+        "sentiment_score": -0.19738715887069702
+    },
+    {
+        "title": "Odeleite: el pueblo navideño que recuerda a un auténtico pesebre en la sierra del Algarve",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251203180228_690.jpg",
+        "tags": [
+            "nacional",
+            "turismo"
+        ],
+        "link": "https://www.europapress.es/turismo/nacional/noticia-odeleite-pueblo-navideno-recuerda-autentico-pesebre-sierra-algarve-20251203180228.html",
+        "date": "2025-12-03 17:02:28",
+        "sentiment_score": 0.09666851162910461
+    },
+    {
+        "title": "Los dos únicos titulares del Athletic que le han marcado al Madrid",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f94d3159-6436-4563-8d75-9e4ff4b14efb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "le",
+            "titulares",
+            "athletic",
+            "han",
+            "unicos"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/12/03/unicos-titulares-athletic-le-han-10430867.html",
+        "date": "2025-12-03 17:01:58",
+        "sentiment_score": 0.0838216096162796
+    },
+    {
+        "title": "Publican NeuMap , el primer atlas que redefine el papel de los neutrófilos en la salud e infección",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251203171528.jpg?fit=919%2C735&ssl=1",
+        "tags": [
+            "sanidad"
+        ],
+        "link": "https://cronicadecantabria.com/cr/publican-neumap-el-primer-atlas-que-redefine-el-papel-de-los-neutrfilos-en-la-salud-e-infeccin/",
+        "date": "2025-12-03 17:00:09",
+        "sentiment_score": -0.2862296402454376
+    },
+    {
+        "title": "Espanyol, Celta, Valencia y Sevilla quieren ilusionarse con la Copa",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251203175812_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-espanyol-celta-valencia-sevilla-quieren-ilusionarse-copa-20251203175812.html",
+        "date": "2025-12-03 16:58:12",
+        "sentiment_score": 0.3634082078933716
+    },
+    {
+        "title": "Antonio Rudiger, embajador de la colección UA x Mansory que fusiona rendimiento deportivo y diseño",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251203175712_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-antonio-rudiger-embajador-coleccion-ua-mansory-fusiona-rendimiento-deportivo-diseno-20251203175712.html",
+        "date": "2025-12-03 16:57:12",
+        "sentiment_score": 0.6479784771800041
+    },
+    {
+        "title": "Athletic Club - Real Madrid, en directo: retransmisión en vivo de LaLiga EA Sports",
+        "image_url": "https://www.infobae.com/resizer/v2/LMR7QAPZ7JF5JJDWHEU26YLON4.JPG?auth=18303917e61ccca3a73f07b5af45668eb2032d04a2a81e63e498c068f14f96c4&height=1526&smart=true&width=2712",
+        "tags": [
+            "españa-noticias",
+            "fútbol españa",
+            "athletic club",
+            "fútbol",
+            "laliga",
+            "real madrid",
+            "españa-deportes"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/12/03/athletic-club-real-madrid-en-directo-retransmision-en-vivo-de-laliga-ea-sports/",
+        "date": "2025-12-03 16:56:48",
+        "sentiment_score": 0.017643537372350693
+    },
+    {
+        "title": "Sanidad y CCAA alcanzan un acuerdo para aplicar el mismo protocolo ante las infecciones respiratorias",
+        "image_url": "https://phantom-elmundo.uecdn.es/cc1691355ad62b50097366226973468f/f/image/jpeg/assets/multimedia/imagenes/2022/05/31/16540050040587.jpg",
+        "tags": [
+            "vacunas",
+            "salud",
+            "artículos cristina ruiz",
+            "gripe",
+            "mascarillas",
+            "sanidad",
+            "enfermedades infecciosas",
+            "ciencia y salud",
+            "enfermedades respiratorias"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2025/12/03/6930330fe4d4d88d288b456e.html",
+        "date": "2025-12-03 16:46:42",
+        "sentiment_score": -0.30011192336678505
+    },
+    {
+        "title": "UGT reclama políticas de empleo con perspectiva de género y adaptadas al territorio",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/12/03/2025120317330944570.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.clm24.es/articulo/economia/ugt-reclama-politicas-empleo-perspectiva-genero-adaptadas-cada-territorio/20251203173608465468.html",
+        "date": "2025-12-03 16:36:08",
+        "sentiment_score": -0.07230910658836365
+    },
+    {
+        "title": "El efecto Trump se desinfla en las presidenciales de Honduras",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/03/69306aeaa8864.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20251203/11329294/efecto-trump-desinfla-presidenciales-honduras.html",
+        "date": "2025-12-03 17:11:56",
+        "sentiment_score": -0.2424677014350891
+    },
+    {
+        "title": "Alerta farmacéutica para retirar un conocido antidepresivo por exceso de impurezas",
+        "image_url": "https://static.grupojoly.com/clip/d04f048a-f438-4cf1-ad1b-76ff69359c75_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "farmaceutica",
+            "retirar",
+            "conocido",
+            "alerta",
+            "antidepresivo"
+        ],
+        "link": "https://www.diariodejerez.es/sociedad/alerta-farmaceutica-retirar-conocido-antidepresivo_0_2005383693.html",
+        "date": "2025-12-03 17:11:50",
+        "sentiment_score": -0.14005183428525925
+    },
+    {
+        "title": "Cádiz celebra el aniversario de la Constitución con homenaje a gaditanos destacados",
+        "image_url": "https://static.grupojoly.com/clip/e424d689-2aab-4fb7-8999-4940c4c4589c_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cadiz",
+            "celebra",
+            "homenaje",
+            "constitucion",
+            "aniversario"
+        ],
+        "link": "https://www.diariodejerez.es/noticias-provincia-cadiz/cadiz-celebra-aniversario-constitucion-homenaje_0_2005383689.html",
+        "date": "2025-12-03 17:11:45",
+        "sentiment_score": 0.1537313163280487
+    },
+    {
+        "title": "Everwood integra Maresa y Altair para crear un grupo de logística de 160 millones",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/25561204a2910d0ea0208f7b08c074e2/crop/0x0/640x427/f/webp/assets/multimedia/imagenes/2025/12/03/17647817898419.jpg",
+        "tags": [
+            "fusiones y adquisiciones>",
+            "fondos de inversión>",
+            "empresas>",
+            "artículos pepe bravo>"
+        ],
+        "link": "https://www.expansion.com/empresas/2025/12/03/69306f35e5fdeaa2338b45cc.html",
+        "date": "2025-12-03 17:11:21",
+        "sentiment_score": 0.027552779763936996
+    },
+    {
+        "title": "Noemí López, 23 años, española trabajando en Suiza: \"He cobrado 5.360 euros trabajando un mes de niñera\"",
+        "image_url": "https://s3.elespanol.com/2025/12/03/actualidad/1003744041407_260300793_1706x960.jpg",
+        "tags": [
+            "suiza",
+            "trabajo",
+            "sociedad",
+            "jóvenes",
+            "soft",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251203/noemi-lopez-anos-espanola-trabajando-suiza-cobrado-euros-mes-ninera/1003744041030_0.html",
+        "date": "2025-12-03 17:11:20",
+        "sentiment_score": 0.14760243892669678
+    },
+    {
+        "title": "Los consejos de Christian Gortázar, experto en sanidad de animal: \"El brote de peste porcina será grave según su expansión\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2add1cb2-57a8-4f41-8877-e6497acf0dce_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "jabalíes",
+            "españa",
+            "sanidad"
+        ],
+        "link": "https://www.lne.es/asturias/2025/12/03/gortazar-brote-peste-porcina-sera-124415057.html",
+        "date": "2025-12-03 17:10:24",
+        "sentiment_score": -0.4225316271185875
+    },
+    {
+        "title": "Máster Montessori AMI Montessori AMI 6-12 multilingüe con sede en Barcelona",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7756388",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5692248/master-montessori-ami-montessori-ami-6-12-multilingue-sede-barcelona",
+        "date": "2025-12-03 17:10:23",
+        "sentiment_score": 0.5676019713282585
+    },
+    {
+        "title": "Estopa protagoniza el nuevo anuncio navideño de Aena rescatando un villancico ancestral de Zarza-Capilla, un \"himno de los Muñoz\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a3c1341d-e595-4d50-851a-ca8bfa98937c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "joan miró",
+            "david bisbal",
+            "el prat",
+            "aena",
+            "estopa"
+        ],
+        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2025/12/03/estopa-protagoniza-nuevo-anuncio-navideno-aena-124415372.html",
+        "date": "2025-12-03 17:09:25",
+        "sentiment_score": -0.14359092712402344
     }
 ];
