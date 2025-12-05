@@ -1,479 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid vuelve a griparse en Montilivi",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/11/30/mbappe-vini-kAFG-U240405793920ukD-758x531@RC.JPG",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.diariovasco.com/deportes/futbol/liga-primera/cronica-girona-real-madrid-jornada14-20251130175021-ntrc.html",
-        "date": "2025-11-30 22:20:15",
-        "sentiment_score": -0.9142797589302063
-    },
-    {
-        "title": "El Real Madrid vuelve a griparse ante el Girona en Montilivi (1-1)",
-        "image_url": "https://cflvdg.avoz.es/sc/MHMqP56obuBGs5JNm5SJLV2q85U=/768x/2025/11/30/00121764540121552851199/Foto/reu_20251130_215248482.jpg",
-        "tags": [
-            "girona fc",
-            "deportes",
-            "real madrid",
-            "primera división"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/11/30/real-madrid-vuelve-griparse-ante-girona-montilivi-1-1/00031764540984230485914.htm",
-        "date": "2025-11-30 22:19:00",
-        "sentiment_score": -0.9114248873665929
-    },
-    {
-        "title": "El Madrid cede el liderato de LaLiga al Barça tras un amargo empate",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/30/2025113023183998130.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/madrid-cede-liderato-laliga-barca-amargo-empate/20251130231857365210.html",
-        "date": "2025-11-30 22:18:57",
-        "sentiment_score": -0.9352056235074997
-    },
-    {
-        "title": "El Real Madrid frena en Montivili y el liderato vuela: tercer pinchazo blanco consecutivo en LaLiga",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2570350.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/el-real-madrid-frena-en-montivili-y-el-liderato-vuela-tercer-pinchazo-blanco-consecutivo-en-laliga.html",
-        "date": "2025-11-30 22:17:54",
-        "sentiment_score": -0.7253872603178024
-    },
-    {
-        "title": "Florentino inmoviliza a Laporta: la mano ganadora del Real Madrid para frenar el boicot del Barça a la Superliga",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/12/13/culemania/palco/816928523_15465462_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "real madrid",
-            "florentino pérez",
-            "palco",
-            "superliga",
-            "champions league"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251130/florentino-inmoviliza-laporta-real-madrid-barca-superliga/1003742712236_0.html",
-        "date": "2025-11-30 22:06:48",
-        "sentiment_score": -0.6717528998851776
-    },
-    {
-        "title": "Hansi Flick, víctima del entorno: el banquillo del Barça desgasta",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/29/culemania/primer-equipo/1003742712081_15463575_1706x960.jpg",
-        "tags": [
-            "primer equipo",
-            "árbitros",
-            "barça",
-            "hansi flick"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251130/hansi-flick-victima-entorno-banquillo-barcadesgasta/1003742712249_0.html",
-        "date": "2025-11-30 22:06:47",
-        "sentiment_score": -0.8385318983346224
-    },
-    {
-        "title": "El Girona se reconcilia con las hazañas y deja al Madrid sin el liderato",
-        "image_url": "https://static1.ara.cat/clip/2bb024f4-4059-4754-8100-ccc1e80420e2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hazanas",
-            "frena",
-            "reconcilia",
-            "todopoderoso",
-            "girona",
-            "madrid"
-        ],
-        "link": "https://es.ara.cat/deportes/girona-fc/girona-reconcilia-hazanas-frena-todopoderoso-madrid_1_5578981.html",
-        "date": "2025-11-30 22:02:29",
-        "sentiment_score": 0.23929426074028015
-    },
-    {
-        "title": "Xabi Alonso y Vinicius le regalan el liderato al Barça: los problemas se amontonan en el Real Madrid",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/30/culemania/real-madrid/1003742712258_15465658_1706x960.jpg",
-        "tags": [
-            "real madrid",
-            "xabi alonso",
-            "kylian mbappé",
-            "vinicius"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20251130/xabi-alonso-vinicius-barca-problemas-real-madrid/1003742712256_0.html",
-        "date": "2025-11-30 22:02:28",
-        "sentiment_score": 0.11096596717834473
-    },
-    {
-        "title": "El Madrid sobrevive a Girona: VAR, Penal y milagro",
-        "image_url": "https://mundonow.com/wp-content/uploads/2025/11/bf93431e09bece456838946fb72dcdd3252237a0-1200x800.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://mundonow.com/el-madrid-sobrevive-a-girona-var-penal-y-milagro/",
-        "date": "2025-11-30 22:01:59",
-        "sentiment_score": -0.02647492289543152
-    },
-    {
-        "title": "Comprueba los resultados del Quinigol del 30 de noviembre",
-        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
-        "tags": [
-            "quinigol",
-            "españa-loterias",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/11/30/comprueba-los-resultados-del-quinigol-del-30-de-noviembre/",
-        "date": "2025-11-30 22:00:32",
-        "sentiment_score": 0.10715532302856445
-    },
-    {
-        "title": "Rosalía se viste de azul y oro: la 'motomami' elige equipo en Argentina",
-        "image_url": "https://pxcdn.2001online.com/2001/112025/1764540804681/rosalia-visita-la-bombonera-y-se-rinde-ante-la-pasion-de-boca-juniors.jpg?ch=675&cw=1200",
-        "tags": [
-            "álbum de rosalía",
-            "rosalía",
-            "boca juniors",
-            "trueno",
-            "la bombonera",
-            "afa",
-            "argentina",
-            "fútbol argentino"
-        ],
-        "link": "https://2001online.com/deportes/rosalia-se-viste-de-azul-y-oro-la-motomami-elige-equipo-en-argentina-202511301900",
-        "date": "2025-11-30 22:06:46",
-        "sentiment_score": 0.2158123254776001
-    },
-    {
-        "title": "El Real Madrid aumenta sus dudas en Gerona y cede el liderato de la Liga",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/30/692cbe63a760d.r_d.686-580-6250.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251130/real-madrid-aumenta-dudas-gerona-cede-liderato-liga_360568.html",
-        "date": "2025-11-30 22:00:16",
-        "sentiment_score": -0.4333275705575943
-    },
-    {
-        "title": "Barnacopy, respuesta ágil y profesional ante cualquier urgencia de cerrajería 24 horas en Barcelona",
-        "image_url": "https://www.alertadigital.com/wp-content/uploads/2025/12/img_73e2242af1540c51d469c098388e430d-1500x1000.jpg",
-        "tags": [
-            "portada"
-        ],
-        "link": "https://www.alertadigital.com/2025/11/30/barnacopy-respuesta-agil-y-profesional-ante-cualquier-urgencia-de-cerrajeria-24-horas-en-barcelona/",
-        "date": "2025-11-30 22:00:00",
-        "sentiment_score": -0.7932773251086473
-    },
-    {
-        "title": "Barnacopy, respuesta ágil y profesional ante cualquier urgencia de cerrajería 24 horas en Barcelona",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7751597",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5687996/barnacopy-respuesta-agil-profesional-ante-cualquier-urgencia-cerrajeria-24-horas-barcelona",
-        "date": "2025-11-30 22:00:00",
-        "sentiment_score": 0.22164640575647354
-    },
-    {
-        "title": "El insólito 'superpoder' de María: lleva 42 años manteniendo a raya el VIH sin ninguna medicación",
-        "image_url": "https://phantom-elmundo.uecdn.es/4acbd798910e0b8022cc176573af7c1a/crop/150x35/1563x1448/f/image/jpeg/assets/multimedia/imagenes/2022/03/14/16472672978795.jpg",
-        "tags": [
-            "nlpremium",
-            "sida y hepatitis",
-            "ciencia y salud",
-            "salud",
-            "artículos cristina g. lucio"
-        ],
-        "link": "https://www.elmundo.es/papel/historias/2025/11/30/6929c62ee85ece46268b4582.html",
-        "date": "2025-11-30 21:53:32",
-        "sentiment_score": 0.48841626197099686
-    },
-    {
-        "title": "Menesterosidad y ciudadanía",
-        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ciudadania",
-            "menesterosidad"
-        ],
-        "link": "https://www.diariodejerez.es/opinion/articulos/menesterosidad-ciudadania_0_2005359547.html",
-        "date": "2025-12-01 02:07:41",
-        "sentiment_score": -0.1718023121356964
-    },
-    {
-        "title": "Los otros catalanes",
-        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "catalanes"
-        ],
-        "link": "https://www.diariodejerez.es/opinion/articulos/catalanes_0_2005359545.html",
-        "date": "2025-12-01 02:07:40",
-        "sentiment_score": -0.22513771057128906
-    },
-    {
-        "title": "El PP, satisfecho tras reunir en 48 horas a más de 50.000 manifestantes: \"La corrupción de Sánchez exige elecciones\"",
-        "image_url": "https://s3.elespanol.com/2025/11/30/espana/politica/1003744036390_260235824_1706x960.jpg",
-        "tags": [
-            "pedro sánchez",
-            "partido popular (pp)",
-            "alberto núñez feijóo",
-            "política"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251201/pp-satisfecho-reunir-horas-manifestantes-corrupcion-sanchez-exige-elecciones/1003744036351_0.html",
-        "date": "2025-12-01 01:50:23",
-        "sentiment_score": -0.490887887775898
-    },
-    {
-        "title": "Las grabaciones entre Koldo y Cerdán avalan que Sánchez reveló a Ábalos el secreto de la investigación de la UCO",
-        "image_url": "https://s3.elespanol.com/2025/11/30/actualidad/1003744036407_260236082_1706x960.jpg",
-        "tags": [
-            "periodismo de investigación",
-            "koldo garcía izaguirre",
-            "josé luis ábalos",
-            "política",
-            "pedro sánchez",
-            "uco",
-            "guardia civil",
-            "santos cerdán"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251201/periodismo_de_investigacion-jose_luis_Abalos-koldo_garcia_izaguirre-pedro_sanchez-santos_cerdan-guardia_civil-uco-politica/1003744036042_0.html",
-        "date": "2025-12-01 01:50:20",
-        "sentiment_score": -0.27751467376947403
-    },
-    {
-        "title": "Samidoun, el grupo \"terrorista\" y propalestino ilegalizado en Alemania y prohibido en EEUU y Canadá invitado a la UCM",
-        "image_url": "https://s3.elespanol.com/2025/11/29/actualidad/1003744035720_260227092_1706x960.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "alemania",
-            "ucm (universidad complutense de madrid)",
-            "reportajes",
-            "canadá",
-            "madrid",
-            "españa",
-            "palestina",
-            "estados unidos"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251201/samidoun-grupo-terrorista-propalestino-ilegalizado-alemania-prohibido-eeuu-canada-invitado-ucm/1003744035665_0.html",
-        "date": "2025-12-01 01:50:10",
-        "sentiment_score": -0.8431116994470358
-    },
-    {
-        "title": "Tomás-Ramón Fernández: \"Si Begoña puso a su nombre un software cedido a la UCM, es apropiación indebida de libro\"",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744035363_260222599_1706x960.jpg",
-        "tags": [
-            "álvaro garcía ortiz",
-            "justicia",
-            "josé luis ábalos",
-            "tribunal supremo",
-            "política",
-            "pedro sánchez",
-            "begoña gómez",
-            "tribunal constitucional",
-            "juan carlos i"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251201/tomas-ramon-fernandez-begona-puso-nombre-software-cedido-ucm-apropiacion-indebida-libro/1003744034398_0.html",
-        "date": "2025-12-01 01:50:03",
-        "sentiment_score": -0.9271388668566942
-    },
-    {
-        "title": "Lo que la serie 'Anatomía de un instante' no cuenta: el dictador Ceaucescu, el emisario del Rey y el Paracuellos de Carrillo",
-        "image_url": "https://s3.elespanol.com/2025/11/28/reportajes/1003744035086_260218372_1706x960.jpg",
-        "tags": [
-            "francisco franco",
-            "dictadura",
-            "democracia",
-            "monarquía",
-            "chatgpt",
-            "adolfo suárez",
-            "santiago carrillo",
-            "juan carlos i",
-            "23-f",
-            "partido comunista"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251201/serie-anatomia-instante-no-cuenta-dictador-ceaucescu-emisario-rey-paracuellos-carrillo/1003744035000_0.html",
-        "date": "2025-12-01 01:50:03",
-        "sentiment_score": -0.32700692117214203
-    },
-    {
-        "title": "Los pecados de Xabi en Montilivi le costaron más que dos puntos y el liderato al Madrid",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/01/2025120102435537669.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/equipo-xabi-alonso-pudo-uno-rivales-mas-debiles-ni-gol-mbappe-blancos/20251201024558365246.html",
-        "date": "2025-12-01 01:45:58",
-        "sentiment_score": -0.31530460715293884
-    },
-    {
-        "title": "China y mercados: oportunidades en un modelo en transición",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/6c8ba087216705e3c085500a94c4c8db/crop/111x11/1259x776/f/webp/assets/multimedia/imagenes/2025/11/30/17645325176703.jpg",
-        "tags": [
-            "china y mercados: oportunidades en un modelo en transición"
-        ],
-        "link": "https://www.expansion.com/economia/2025/12/01/692ca0cce5fdea2f538b459f.html",
-        "date": "2025-12-01 01:42:59",
-        "sentiment_score": 0.660822119563818
-    },
-    {
-        "title": "Extremadura, microcosmos del sanchismo",
-        "image_url": "https://phantom-elmundo.uecdn.es/2d2aea672efc6ef80cffece682b88885/crop/557x95/2385x1923/f/image/jpeg/assets/multimedia/imagenes/2025/01/28/17380869392890.jpg",
-        "tags": [
-            "pedro sánchez",
-            "miguel ángel gallardo",
-            "extremadura",
-            "vox",
-            "elecciones extremadura",
-            "guillermo fernández vara",
-            "david sánchez pérez-castejón",
-            "psoe",
-            "encuestas",
-            "santos cerdán",
-            "artículos roberto benito",
-            "pp",
-            "josé luis ábalos",
-            "maría guardiola"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/12/01/692c0c2bfdddffd8418b458f.html",
-        "date": "2025-12-01 01:12:24",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "\"Cómprate un cerdo y cómetelo\": Francisco José te lo cría y te lo manda a tu casa por piezas para consumir por 900 euros",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744035074_260218218_1706x960.jpg",
-        "tags": [
-            "ahorro",
-            "reportajes",
-            "sevilla (municipio)",
-            "córdoba (municipio)",
-            "jamón",
-            "provincia de sevilla",
-            "cerdos"
-        ],
-        "link": "https://www.elespanol.com/sevilla/provincia/20251201/comprate-cerdo-cometelo-francisco-jose-cria-manda-casa-piezas-consumirpor900euros-dl/1003744033524_0.html",
-        "date": "2025-12-01 01:49:56",
-        "sentiment_score": 0.6246649622917175
-    },
-    {
-        "title": "Vicente Garrido, el empresario ejemplar con 68 años cotizados: empezó vendiendo tubos y ahora le compra media Europa",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744033463_260195871_1706x960.jpg",
-        "tags": [
-            "economía castilla y león",
-            "lingotes especiales",
-            "valladolid (municipio)",
-            "región",
-            "empresarios"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/20251201/vicente-garrido-empresario-ejemplar-anos-cotizados-empezo-vendiendo-tubos-ahora-compra-media-europa-dl/1003744032860_0.html",
-        "date": "2025-12-01 01:49:53",
-        "sentiment_score": -0.23733070492744446
-    },
-    {
-        "title": "\"En Uruguay, el Estado, la política y los ciudadanos confían entre sí\"",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/eed954d044175279692f53ba87fd36d0/crop/129x72/1963x1294/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/30/17645342168094.jpg",
-        "tags": [
-            "latinoamérica>"
-        ],
-        "link": "https://www.expansion.com/latinoamerica/iberoamericana-empresarial/2025/12/01/692ca5ce468aebbb668b457e.html",
-        "date": "2025-12-01 01:43:00",
-        "sentiment_score": 0.6411307826638222
-    },
-    {
-        "title": "Luis Gimeno (Impulse) se une a Íñigo Churruca como asesores especiales de Interpath",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744034988_260216960_1706x960.jpg",
-        "tags": [
-            "fusiones de empresas",
-            "adquisiciones empresariales",
-            "banca",
-            "fondos de inversión"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/banca/20251201/luis-gimeno-impulse-une-inigo-churruca-asesores-especiales-interpath/1003744034970_0.html",
-        "date": "2025-12-01 01:35:14",
-        "sentiment_score": 0.3513800576329231
-    },
-    {
-        "title": "Las emisiones de CO2 en Europa: Nissan y BMW son los únicos que cumplen el umbral regulatorio de Bruselas",
-        "image_url": "https://s3.elespanol.com/2025/06/30/actualidad/1003743827266_256901514_1706x960.jpg",
-        "tags": [
-            "grupo volkswagen",
-            "polestar",
-            "emisiones de dióxido de carbono (co2)",
-            "bmw",
-            "volvo",
-            "motor",
-            "geely",
-            "byd",
-            "mercedes benz",
-            "nissan"
-        ],
-        "link": "https://www.elespanol.com/motor/20251201/emisiones-co2-europa-nissan-bmw-unicos-cumplen-umbral-regulatorio-bruselas/1003744033738_0.html",
-        "date": "2025-12-01 01:35:05",
-        "sentiment_score": 0.5258743017911911
-    },
-    {
-        "title": "Vox se abre hueco en la clase popular con un discurso que mira a los \"barrios\": roza el 19% del voto y dobla a Sumar",
-        "image_url": "https://phantom-elmundo.uecdn.es/5b78eb66f46aa0193960737884d149ba/crop/1019x163/2165x1309/f/image/jpeg/assets/multimedia/imagenes/2025/02/05/17387861273131.jpg",
-        "tags": [
-            "pedro sánchez",
-            "sumar",
-            "cis",
-            "artículos paloma h. matellano",
-            "vox",
-            "psoe",
-            "santiago abascal conde",
-            "pp",
-            "josé félix tezanos",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://www.elmundo.es/espana/encuestas/2025/12/01/692c91d9fdddff824a8b45b4.html",
-        "date": "2025-12-01 01:12:22",
-        "sentiment_score": 0.283437043428421
-    },
-    {
-        "title": "Mapa literario de Barcelona: extrañas familias de una ciudad mutante",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744033532_260196615_1706x960.jpg",
-        "tags": [
-            "barcelona",
-            "escritores",
-            "libros",
-            "letras"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20251201/mapa-literario-barcelona-extranas-familias-ciudad-mutante/1003744033529_0.html",
-        "date": "2025-12-01 00:55:00",
-        "sentiment_score": -0.39185575395822525
-    },
-    {
-        "title": "Ocio sostenible: cuando la diversión también impulsa el cambio",
-        "image_url": "https://s3.elespanol.com/2025/11/28/actualidad/1003744034780_260214141_1706x960.jpg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/opinion/20251201/ocio-sostenible-diversion-impulsa-cambio/1003744034772_13.html",
-        "date": "2025-12-01 00:45:00",
-        "sentiment_score": 0.7585195004940033
-    },
-    {
-        "title": "El gran cambio en los menús escolares de Cataluña: un 50% menos de impacto ambiental",
-        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744032707_260186476_1706x960.jpg",
-        "tags": [
-            "objetivo 3: salud y bienestar",
-            "objetivo 2: hambre cero",
-            "colegios",
-            "historias"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/historias/20251201/gran-cambio-menus-escolares-cataluna-impacto-ambiental/1003744032674_0.html",
-        "date": "2025-12-01 00:45:00",
-        "sentiment_score": 0.6281505972146988
-    },
-    {
-        "title": "Mar Saura deslumbra con un vestido azul eléctrico ideal para estar 'sexy' en cualquier fiesta",
-        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744033058_260190895_1706x960.jpg",
-        "tags": [
-            "tendencias de moda",
-            "famosos",
-            "vestidos",
-            "el estilo"
-        ],
-        "link": "https://www.elespanol.com/corazon/estilo/20251201/mar-saura-deslumbra-vestido-azul-electrico-ideal-sexy-cualquier-fiesta/1003744033037_0.html",
-        "date": "2025-12-01 00:33:00",
-        "sentiment_score": 0.5923024266958237
-    },
-    {
         "title": "Los realojos de la Cañada Real priorizan los municipios cercanos y limitan las familias trasladadas por zona para evitar guetos",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/02/28/fotografo-jose-gonzalez-previsiones-20m-tema-canada-real-39.jpeg",
         "tags": [
@@ -2592,5 +2118,179 @@ export default [
         "link": "https://www.informacion.es/economia/2025/12/04/pymes-sector-porcino-catalan-alertan-124430063.html",
         "date": "2025-12-04 06:33:52",
         "sentiment_score": -0.5117727369070053
+    },
+    {
+        "title": "Muere Steve Cropper, gigante de la guitarra, maestro del soul y leyenda con los Blues Brothers",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/ea/media_thumb-link-4123346.webp?1764841086=",
+        "tags": [
+            "soul",
+            "actualidad",
+            "steve cropper",
+            "eeuu",
+            "guitarrista",
+            "guitarra"
+        ],
+        "link": "https://www.meneame.net/story/muere-steve-cropper-gigante-guitarra-maestro-soul-leyenda-blues",
+        "date": "2025-12-04 14:25:04",
+        "sentiment_score": 0.056193262338638306
+    },
+    {
+        "title": "LaLiga denuncia cánticos de \"¡Asencio, violador!\" e insultos a Vinícius durante el Athletic - Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/352763da-7af9-4c79-a726-3afd76e6a452_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid",
+            "athletic club"
+        ],
+        "link": "https://www.informacion.es/deportes/2025/12/04/laliga-denuncia-canticos-asencio-violador-124458324.html",
+        "date": "2025-12-04 17:11:59",
+        "sentiment_score": -0.8541467562317848
+    },
+    {
+        "title": "Las empresas de Baleares solo reciben un 0,7 % de las licitaciones públicas del Estado, según denuncia la ASM",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3582649.jpg",
+        "tags": [
+            "assemblea sobiranista de mallorca",
+            "ultimas noticias",
+            "palma de mallorca",
+            "última hora",
+            "palma",
+            "local"
+        ],
+        "link": "https://www.ultimahora.es/noticias/local/2025/12/04/2525473/empresas-baleares-solo-reciben-licitaciones-publicas-del-estado-segun-denuncia-asm.html",
+        "date": "2025-12-04 17:10:52",
+        "sentiment_score": -0.11468502134084702
+    },
+    {
+        "title": "Baskonia vuelve a necesitar el calor del Buesa Arena",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251204180852_690.jpg",
+        "tags": [
+            "deportes",
+            "baloncesto"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-baskonia-vuelve-necesitar-calor-buesa-arena-20251204180852.html",
+        "date": "2025-12-04 17:08:52",
+        "sentiment_score": 0.2567877843976021
+    },
+    {
+        "title": "El precioso bar con tienda que parece estar en una gran ciudad, pero triunfa en un pueblo perdido de Asturias (a dos horas y media de Oviedo) en riesgo de despoblación",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a8db5851-3d2a-4756-ada1-26d0832f50c4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "duda",
+            "decoración",
+            "alojamiento",
+            "gente",
+            "occidente",
+            "asturias"
+        ],
+        "link": "https://www.lne.es/occidente/2025/12/04/precioso-bar-tienda-parece-gran-124455716.html",
+        "date": "2025-12-04 17:11:39",
+        "sentiment_score": -0.8823379687964916
+    },
+    {
+        "title": "MSC Cruceros iniciará en diciembre de 2026 las rutas por el Mediterráneo del MSC World Asia",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251204181053_260.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-msc-cruceros-iniciara-diciembre-2026-rutas-mediterraneo-msc-world-asia-20251204181053.html",
+        "date": "2025-12-04 17:10:53",
+        "sentiment_score": 0.05137482099235058
+    },
+    {
+        "title": "Alstom presenta la única oferta para fabricar 39 nuevos trenes de Metro de Barcelona por 321 millones",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/12/fotonoticia_20251204174113_1920-1200x675.jpg",
+        "tags": [
+            "última hora",
+            "economía"
+        ],
+        "link": "https://forbes.es/economia/840732/alstom-presenta-la-unica-oferta-para-fabricar-39-nuevos-trenes-de-metro-de-barcelona-por-321-millones/",
+        "date": "2025-12-04 17:10:33",
+        "sentiment_score": 0.3699956201016903
+    },
+    {
+        "title": "“La Administración puede reducir infecciones de VIH distribuyendo más pastillas preventivas”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "claves del día"
+        ],
+        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20251204/11333341/claves-dia-administracion-reducir-infecciones-vih-distribuyendo-mas-pastillas-preventivas.html",
+        "date": "2025-12-04 17:10:20",
+        "sentiment_score": 0.08177997916936874
+    },
+    {
+        "title": "InmoCaixa compra la sede de Novartis en Barcelona",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/12/fotonoticia_20251204175203_1920-1200x675.jpg",
+        "tags": [
+            "última hora",
+            "economía"
+        ],
+        "link": "https://forbes.es/economia/840720/inmocaixa-compra-la-sede-de-novartis-en-barcelona/",
+        "date": "2025-12-04 17:10:14",
+        "sentiment_score": 0.08301819860935211
+    },
+    {
+        "title": "El CGE avala la regulación del alquiler de temporada pero cuestiona la prórroga automática de VPO",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251204180827_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-cge-avala-regulacion-alquiler-temporada-cuestiona-prorroga-automatica-vpo-20251204180827.html",
+        "date": "2025-12-04 17:08:27",
+        "sentiment_score": -0.38078831136226654
+    },
+    {
+        "title": "Las víctimas de tráfico convierten en documental su deseo de una justicia “empática y restaurativa”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/04/6931ad9386900.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20251204/11332956/victimas-trafico-convierten-documental-deseo-justicia-empatica-restaurativa.html",
+        "date": "2025-12-04 17:08:09",
+        "sentiment_score": -0.6210740432143211
+    },
+    {
+        "title": "El Saló Ocasión vuelve este 2025 con un nuevo organizador",
+        "image_url": "https://static1.ara.cat/clip/45a50eff-7ed4-4da4-be30-97d9d1b900af_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "organizador",
+            "2025",
+            "salo",
+            "nuevo",
+            "ocasion",
+            "vuelve"
+        ],
+        "link": "https://es.ara.cat/economia/automocion/salo-ocasion-vuelve-2025-nuevo-organizador_1_5583033.html",
+        "date": "2025-12-04 17:07:17",
+        "sentiment_score": -0.25025662779808044
+    },
+    {
+        "title": "«Este partido es de los jugadores, del club y de la afición»",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/3ce59482-6c69-49f6-98a90191d57d6e06.jpg",
+        "tags": [
+            "estadio el prado",
+            "cd lugo",
+            "fc barcelona",
+            "real madrid",
+            "segunda división",
+            "málaga cf",
+            "cf talavera",
+            "talavera de la reina",
+            "atlético de madrid",
+            "copa del rey"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/ze5d27208-ae04-4022-a16f8760565a2c85/202512/este-partido-es-de-los-jugadores-del-club-y-de-la-aficion",
+        "date": "2025-12-04 17:05:53",
+        "sentiment_score": 0.6616007685661316
+    },
+    {
+        "title": "Los animalistas piden no \"criminalizar\" a los jabalíes por la peste porcina y culpan a las granjas",
+        "image_url": "https://s1.staticld.com/2025/12/04/jabali-fauna-salvaje-caza.jpg",
+        "tags": [
+            "ciencia"
+        ],
+        "link": "https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2025-12-04/ecologistas-en-accion-pide-no-criminalizar-a-los-jabalies-de-la-peste-porcina-africana-y-culpa-a-las-granjas-7329168/",
+        "date": "2025-12-04 17:02:50",
+        "sentiment_score": -0.21761785447597504
     }
 ];
