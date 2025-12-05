@@ -1,162 +1,5 @@
 export default [
     {
-        "title": "Primer pulso por la Liga en el nuevo Camp Nou",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/01/Clipboard-0173.jpg",
-        "tags": [
-            "f.c. barcelona",
-            "atlético de madrid"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/primer-pulso-liga-nuevo-camp-nou-20251201181002-ntrc.html",
-        "date": "2025-12-01 17:11:14",
-        "sentiment_score": 0.12815487384796143
-    },
-    {
-        "title": "Horario y dónde ver el Quintanar del Rey-Elche de la segunda ronda de Copa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06504594-e578-488d-bf5b-9ebbeaccce67_16-9-aspect-ratio_default_1419100.jpg",
-        "tags": [
-            "elche cf",
-            "ronda",
-            "rfef",
-            "horario",
-            "copa del rey"
-        ],
-        "link": "https://www.informacion.es/elche-cf/2025/12/01/horario-ver-quintanar-rey-elche-124328095.html",
-        "date": "2025-12-01 17:10:28",
-        "sentiment_score": 0.09812022000551224
-    },
-    {
-        "title": "El vending de residencias y hospitales tendrá que incluir un 80% de alimentos saludables",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/12/01/vending-machine-8636496-1280.png",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/12/01/el-vending-de-residencias-y-hospitales-tendra-que-incluir-un-80-de-alimentos-saludables-1875188-daa.html",
-        "date": "2025-12-01 17:09:08",
-        "sentiment_score": 0.19721346348524094
-    },
-    {
-        "title": "Flick desvela el motivo de sus lágrimas en el banquillo del Camp Nou: «Es mi amigo...»",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/12/01/692dc6d4ec70e.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251201/flick-desvela-motivo-lagrimas-banquillo-camp-nou-mi-amigo_360974.html",
-        "date": "2025-12-01 17:08:17",
-        "sentiment_score": -0.33867247402668
-    },
-    {
-        "title": "El Club Conecta reúne en CaixaForum Madrid a líderes institucionales para debatir el futuro de Castilla-La Mancha",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/e/b/7/JornadaCLM.jpeg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13671112/12/25/el-club-conecta-reune-en-caixaforum-madrid-a-lideres-institucionales-para-debatir-el-futuro-de-castillala-mancha.html",
-        "date": "2025-12-01 17:05:04",
-        "sentiment_score": 0.4662473089993
-    },
-    {
-        "title": "Le Normand repite con el grupo y Llorente es la única baja del Atlético para visitar al Barcelona",
-        "image_url": "https://okdiario.com/img/2025/12/01/le-normand-entrenamiento.jpg",
-        "tags": [
-            "marcos llorente",
-            "fc barcelona",
-            "barcelona",
-            "deportes",
-            "atlético de madrid"
-        ],
-        "link": "https://okdiario.com/deportes/normand-repite-grupo-llorente-unica-baja-del-atletico-visitar-barcelona-15859918",
-        "date": "2025-12-01 17:03:00",
-        "sentiment_score": -0.5872256495058537
-    },
-    {
-        "title": "EL DÍA sortea 5 entradas dobles para cada uno de los partidazos del La Laguna Tenerife",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f276b47b-6037-4cfa-b558-bcd54520ca8d_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tenerife",
-            "baloncesto",
-            "cb canarias",
-            "entradas"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/01/entradas-gratis-la-laguna-vs-real-madrid-y-trapani-shark-124327028.html",
-        "date": "2025-12-01 16:57:00",
-        "sentiment_score": 0.05142884701490402
-    },
-    {
-        "title": "Pagaban todos los meses 1.200 euros de alquiler en Ibiza y han sido desahuciados igualmente: el Tribunal Supremo lo avala",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fdd9022d-f482-4c9f-a7e9-a72d140a7b9b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "consumo",
-            "ibi",
-            "ibiza",
-            "tribunal supremo",
-            "renta"
-        ],
-        "link": "https://www.lne.es/vida-y-estilo/consumo/2025/12/01/pagaban-meses-1-200-euros-124327850.html",
-        "date": "2025-12-01 17:11:51",
-        "sentiment_score": -0.2703058198094368
-    },
-    {
-        "title": "¿Qué países han prohibido ya la importación de carne de cerdo española tras los casos de peste porcina?",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2022/08/03/CBCFD6F5-E119-43D6-9B38-A0FED504E2BD/69.jpg?crop=3464%2C1949%2Cx0%2Cy180&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/que-paises-han-prohibido-importacion-carne-cerdo-espanola-casos-peste-porcina_20251201692dcc3c9261f37ec7383201.html",
-        "date": "2025-12-01 17:11:24",
-        "sentiment_score": -0.5272002890706062
-    },
-    {
-        "title": "Una concejal de Junts en Barcelona critica la «militarización» de la crisis porcina",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/Un-vehiculo-de-la-UME-donde-se-han-detectado-focos-de-peste-porcina-en-Barcelona.jpg",
-        "tags": [
-            "barcelona",
-            "gripe porcina",
-            "sanidad",
-            "junts per catalunya (jxcat)",
-            "independentismo catalán"
-        ],
-        "link": "https://theobjective.com/sanidad/2025-12-01/concejal-junts-barcelona-militarizacion/",
-        "date": "2025-12-01 17:11:23",
-        "sentiment_score": -0.7477003578096628
-    },
-    {
-        "title": "Pere Romeu dice adiós a la gran estrella del Barça Femenino: lesionada de gravedad y condenada a pasar por quirófano",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/01/culemania/secciones/1003742712525_15469064_1706x960.jpg",
-        "tags": [
-            "fcbfemeni",
-            "aitana bonmatí",
-            "secciones",
-            "futfem"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20251201/pere-romeu-barca-femenino-lesionada-condenada-quirofano/1003742712507_0.html",
-        "date": "2025-12-01 17:09:56",
-        "sentiment_score": -0.8676200211048126
-    },
-    {
-        "title": "Córdoba elige a Góngora como el \"gran eje conductor\" de la Capitalidad Mediterránea de la Cultura y del Diálogo 2027",
-        "image_url": "https://static.grupojoly.com/clip/aef7076b-60ba-482b-80f4-01f255adc94b_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ayuntamiento de córdoba",
-            "últimas noticias córdoba"
-        ],
-        "link": "https://www.eldiadecordoba.es/cordoba/cordoba-elige-gongora-gran-eje-capitalidad-mediterranea-cultura_0_2005363300.html",
-        "date": "2025-12-01 17:09:19",
-        "sentiment_score": 0.2800135463476181
-    },
-    {
-        "title": "Ni en Madrid ni en Barcelona: aquí están las aguas termales gratuitas perfectas para este invierno",
-        "image_url": "https://okdiario.com/img/2025/12/01/adobestock_47500665.jpg",
-        "tags": [
-            "la rioja",
-            "viajes",
-            "españa"
-        ],
-        "link": "https://okdiario.com/viajes/ni-madrid-ni-barcelona-aqui-estan-aguas-termales-gratuitas-perfectas-este-invierno-15859546",
-        "date": "2025-12-01 17:08:36",
-        "sentiment_score": -0.24502378702163696
-    },
-    {
         "title": "Julián Álvarez y el récord de Simeone que amenaza al Barça de Hansi Flick en la Liga",
         "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/27/culemania/real-madrid/1003742692555_15470080_1706x960.jpg",
         "tags": [
@@ -2617,5 +2460,268 @@ export default [
         "link": "https://eltiempove.com/realizan-foro-sindical-en-barcelona-para-reiterar-la-solicitud-de-un-bono-navideno-de-400/",
         "date": "2025-12-04 23:59:27",
         "sentiment_score": 0.3031225651502609
+    },
+    {
+        "title": "Muere Steve Cropper, gigante de la guitarra, maestro del soul y leyenda con los Blues Brothers",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/ea/media_thumb-link-4123346.webp?1764841086=",
+        "tags": [
+            "soul",
+            "actualidad",
+            "steve cropper",
+            "eeuu",
+            "guitarrista",
+            "guitarra"
+        ],
+        "link": "https://www.meneame.net/story/muere-steve-cropper-gigante-guitarra-maestro-soul-leyenda-blues",
+        "date": "2025-12-04 14:25:04",
+        "sentiment_score": 0.056193381547927856
+    },
+    {
+        "title": "Entrevista a Juan Carlos I con preguntas falsas y repuestas reales: \"Los comunistas no eran la encarnación del diablo\"",
+        "image_url": "https://www.elplural.com/uploads/s1/21/14/92/6/juan-carlos-y-sofi-a-el-di-a-de-su-proclamacio-n-como-rey_7_480x270.jpeg",
+        "tags": [
+            "libros"
+        ],
+        "link": "https://www.elplural.com/playtime/libros/entrevista-juan-carlos-preguntas-falsas-repuestas-reales-comunistas-no-eran-encarnacion-diablo_366760102",
+        "date": "2025-12-05 06:24:16",
+        "sentiment_score": -0.10015872120857239
+    },
+    {
+        "title": "Marta Llorente triunfa con sus cerdos tras ser despedida por estar embarazada: \"Nosotros sí somos sostenibles\"",
+        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744041935_260307448_1706x960.jpg",
+        "tags": [
+            "objetivo 11: ciudades y comunidades sostenibles",
+            "referentes",
+            "objetivo 10: reducción de las desigualdades"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/referentes/20251205/marta-llorente-triunfa-cerdos-despedida-embarazada-sostenibles/1003744041930_0.html",
+        "date": "2025-12-05 06:20:00",
+        "sentiment_score": 0.43927210569381714
+    },
+    {
+        "title": "Ayuso da la bienvenida a 'El Canal de la Navidad' en pleno corazón de Madrid",
+        "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2025/12/05/6932766c81775.r_d.1833-918-0.jpeg",
+        "tags": [
+            "comunidad de madrid"
+        ],
+        "link": "https://www.eldebate.com/espana/madrid/comunidad/20251205/ayuso-da-bienvenida-canal-navidad-pleno-corazon-madrid_362422.html",
+        "date": "2025-12-05 06:07:21",
+        "sentiment_score": 0.6165365539491177
+    },
+    {
+        "title": "Ribera Salud ordenó reutilizar material sanitario de un solo uso en Torrejón: \"Esta acción no es legal\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/05/vista-de-la-entrada-del-hospital-de-torrejon-de-ardoz-gestionado-por-el-grupo-sanitario-ribera-el-4-de-diciembre-de-2025.jpeg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.huffingtonpost.es/politica/empleados-hospital-torrejon-recibieron-orden-reutilizar-material-sanitario-no-legal.html",
+        "date": "2025-12-05 06:04:33",
+        "sentiment_score": -0.6485098414123058
+    },
+    {
+        "title": "El Castilla gana antes de viajar a Zamora",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b0061d0a-1e83-4e89-952c-551499449308_16-9-aspect-ratio_default_1419855.jpg",
+        "tags": [
+            "everton,viajar,ruta de la plata,manuel"
+        ],
+        "link": "https://www.laopiniondezamora.es/deportes/2025/12/05/castilla-gana-viajar-zamora-124464556.html",
+        "date": "2025-12-05 06:00:39",
+        "sentiment_score": 0.09337912499904633
+    },
+    {
+        "title": "Primer obstáculo tras el parón",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ea605775-21ea-46d4-bd38-6bde7b88d47f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "euroliga",
+            "previa",
+            "liga acb",
+            "baskonia",
+            "galbiati",
+            "armani"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2025/12/05/baskonia-previa-armani-euroliga-galbiati-liga-acb-10434845.html",
+        "date": "2025-12-05 06:00:24",
+        "sentiment_score": 0.6568760685622692
+    },
+    {
+        "title": "Toca levantarse",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "toca",
+            "levantarse"
+        ],
+        "link": "https://www.deia.eus/opinion/minuto-y-resultado/2025/12/05/toca-levantarse-10436102.html",
+        "date": "2025-12-05 06:00:24",
+        "sentiment_score": 0.6125898733735085
+    },
+    {
+        "title": "Restaurantes con menú de Navidad para tu cena o comida con amigos en Madrid: precios, buen ambiente y platos que nunca fallan",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/30/692c584fe01a12-55779361.jpeg",
+        "tags": [
+            "restaurantes"
+        ],
+        "link": "https://www.20minutos.es/gastronomia/restaurantes/mejores-restaurantes-menu-navidad-cena-comida-amigos-madrid-precios-buen-ambiente-platos-nunca-fallan_6904564_0.html",
+        "date": "2025-12-05 06:00:08",
+        "sentiment_score": 0.22563794627785683
+    },
+    {
+        "title": "Verlo y sentirlo",
+        "image_url": "https://s1.ppllstatics.com/lagacetadesalamanca/www/multimedia/2025/12/02/VHdez-RPCu2A3PddYFPG9Dpeqid0H-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "plaza de toros de la glorieta",
+            "madrid (ciudad)",
+            "real madrid"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/toros/javier-lorenzo-verlo-sentirlo-20251202070000-nt.html",
+        "date": "2025-12-05 06:00:06",
+        "sentiment_score": -0.010136693716049194
+    },
+    {
+        "title": "Juanma Castaño reacciona a las duras palabras de Joan Laporta contra el Real Madrid: \"Es bastante heavy\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/05/693215d5d6108.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-reacciona-duras-palabras-joan-laporta-real-madrid-heavy-20251205_3265868.html",
+        "date": "2025-12-05 06:00:00",
+        "sentiment_score": -0.219680517911911
+    },
+    {
+        "title": "El precio más bajo de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 5 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-economia",
+            "noticias",
+            "gasolina",
+            "precio gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/05/el-precio-mas-bajo-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-5-de-diciembre/",
+        "date": "2025-12-05 06:30:42",
+        "sentiment_score": -0.06122158095240593
+    },
+    {
+        "title": "Alba Segarra: “Sin mis padres no puedo comprarme un piso en Barcelona”",
+        "image_url": "https://static1.ara.cat/clip/7ccebb90-932b-4ddc-b18c-5182b3187b7e_16-9-aspect-ratio_default_0_x408y243.jpg",
+        "tags": [
+            "no",
+            "piso",
+            "segarra",
+            "barcelona",
+            "alba",
+            "comprarme",
+            "padres"
+        ],
+        "link": "https://es.ara.cat/economia/empresas/alba-segarra-padres-no-comprarme-piso-barcelona_1_5583351.html",
+        "date": "2025-12-05 06:30:23",
+        "sentiment_score": -0.45035921037197113
+    },
+    {
+        "title": "Siete detenidos, 70 kilos de droga sintética y 1.200 plantas de marihuana: cae una banda de narcos en Barcelona, Badalona y Rubí",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/35773f84-46e6-4190-8e8e-d142911e0f72_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rubí",
+            "sucesos",
+            "barcelona",
+            "drogas",
+            "marihuana",
+            "mossos d'esquadra",
+            "narcotráfico"
+        ],
+        "link": "https://www.elperiodico.com/es/sucesos/20251205/siete-detenidos-70-kilos-droga-badalona-barcelona-narcos-124473698",
+        "date": "2025-12-05 06:17:00",
+        "sentiment_score": -0.6462908647954464
+    },
+    {
+        "title": "El telediario nos explica qué tiempo hace en Alguer",
+        "image_url": "https://static1.ara.cat/clip/493ece6f-0170-446c-a3e8-9846bfcc9541_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "alguer",
+            "explica",
+            "telediario",
+            "tiempo"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/telediario-explica-tiempo-alguer_129_5583344.html",
+        "date": "2025-12-05 06:15:12",
+        "sentiment_score": -0.14055868983268738
+    },
+    {
+        "title": "\"Debería haberme operado antes; cuando el médico me abrió, flipó\"",
+        "image_url": "https://static1.ara.cat/clip/6cac9eb7-7e3c-4df5-8e34-c608e17373df_16-9-aspect-ratio_default_1054820.jpg",
+        "tags": [
+            "haberme",
+            "operado",
+            "medico",
+            "deberia",
+            "flipo",
+            "abrio"
+        ],
+        "link": "https://es.ara.cat/deportes/futbol/deberia-haberme-operado-medico-abrio-flipo_128_5583331.html",
+        "date": "2025-12-05 06:01:06",
+        "sentiment_score": -0.46646593511104584
+    },
+    {
+        "title": "Miquel Ferreres: \"Si la viñeta debe ser una fotocopia dibujada de lo que explica la editorial, no vayamos bien\"",
+        "image_url": "https://static1.ara.cat/clip/f0753f22-b927-4619-bc9e-ba5bb8294615_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "no",
+            "vayamos",
+            "ferreres",
+            "explica",
+            "miquel",
+            "debe",
+            "vineta",
+            "dibujada",
+            "fotocopia",
+            "editorial"
+        ],
+        "link": "https://es.ara.cat/comer/miquel-ferreres-vineta-debe-fotocopia-dibujada-explica-editorial-no-vayamos_1_5583329.html",
+        "date": "2025-12-05 06:01:04",
+        "sentiment_score": -0.11389169096946716
+    },
+    {
+        "title": "Inteligencia artificial al servicio de la salud",
+        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/8/6/7/1200x655_Cobiomic.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13677003/12/25/inteligencia-artificial-al-servicio-de-la-salud.html",
+        "date": "2025-12-05 06:00:58",
+        "sentiment_score": 0.6267625484615564
+    },
+    {
+        "title": "Felisa Panadero se jubila después de 40 años al servicio de Sevilla y la Justicia",
+        "image_url": "https://static.grupojoly.com/clip/3793ca65-d871-4f84-9f5d-21f7d34119ca_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "subdelegación del gobierno",
+            "pp",
+            "últimas noticias sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/felisa-panadero-jubila-servicio-sevilla-justicia_0_2005392945.html",
+        "date": "2025-12-05 06:00:55",
+        "sentiment_score": -0.16686181724071503
+    },
+    {
+        "title": "¿Cuáles son las normas de viaje que han cambiado en Europa en 2025 y qué esperar para 2026?",
+        "image_url": "https://images.euronews.com/articles/stories/09/57/16/35/1200x675_cmsv2_caefb834-0df4-599e-a36a-6d0b48eb4701-9571635.jpg",
+        "tags": [
+            "consejos de viaje",
+            "visado",
+            "turismo",
+            "viaje"
+        ],
+        "link": "http://es.euronews.com/viajes/2025/12/05/europa-2025-nuevas-normas-de-viaje-control-fronterizo-tasas-turisticas-y-mano-dura-al-inci",
+        "date": "2025-12-05 06:00:46",
+        "sentiment_score": -0.018761321902275085
+    },
+    {
+        "title": "“Estamos cruzando los dedos para que la peste porcina no se propague a otras zonas de España”",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/30c55ede-c78b-4665-80cf-40e99643ee5e_16-9-aspect-ratio_default_1419555.jpg",
+        "tags": [
+            "extremadura",
+            "cerdo ibérico"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/05/cruzando-dedos-peste-porcina-propague-124472861.html",
+        "date": "2025-12-05 06:00:44",
+        "sentiment_score": -0.4818791002035141
     }
 ];
