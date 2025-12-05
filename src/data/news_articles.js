@@ -2390,5 +2390,232 @@ export default [
         "link": "https://www.mundodeportivo.com/waterpolo/20251204/1002581291/10-19-cnb-golea-dinamo-bucarest-jugara-liderato-eurocup-szolnoki.html",
         "date": "2025-12-04 21:16:59",
         "sentiment_score": 0.8470868282020092
+    },
+    {
+        "title": "Seis CCAA crecen más que España desde la Covid-19 con Madrid a la cabeza",
+        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043162_260322927_1706x960.jpg",
+        "tags": [
+            "madrid",
+            "covid-19",
+            "macroeconomía"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20251205/ccaa-crecen-espana-covid-19-madrid-cabeza/1003744043154_0.html",
+        "date": "2025-12-05 01:20:41",
+        "sentiment_score": 0.07742875814437866
+    },
+    {
+        "title": "Lamine Yamal superó a Kylian Mbappé como el jugador más valioso del mundo, según Transfermarkt",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Lamine-Yamal-Kylian-Mbappe.jpg",
+        "tags": [
+            "lamine yamal",
+            "titulares",
+            "futbol",
+            "deportes",
+            "kylian mbappé",
+            "transfermarkt"
+        ],
+        "link": "https://lapatilla.com/2025/12/04/lamine-yamal-supero-a-kylian-mbappe-como-el-jugador-mas-valioso-del-mundo-segun-transfermarkt/",
+        "date": "2025-12-05 01:18:55",
+        "sentiment_score": 0.21292049251496792
+    },
+    {
+        "title": "“Una semana sin videojuegos”: la embarazosa revelación en vivo del hijo de uno de los campeones de la Libertadores con Flamengo",
+        "image_url": "https://www.infobae.com/resizer/v2/4SJKTCPQXJGGTKRGG427KPKC2A.jpg?auth=5d202c35a29d5d02b91d0abd1d32910b418763e10494095dff6aeedc62d865dc&height=1080&smart=true&width=1920",
+        "tags": [
+            "danilo",
+            "deportes-internacional",
+            "fluminense",
+            "deportes-argentina",
+            "brasileirao",
+            "copa libertadores",
+            "flamengo"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/05/una-semana-sin-videojuegos-la-embarazosa-revelacion-en-vivo-del-hijo-de-uno-de-los-campeones-de-la-libertadores-con-flamengo/",
+        "date": "2025-12-05 01:04:13",
+        "sentiment_score": 0.06310306489467621
+    },
+    {
+        "title": "Es cero turístico, pero los hermanos Casanova han abierto su cadena de hamburguesas en un pueblo de 580 personas",
+        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744042990_260323490_1706x960.jpg",
+        "tags": [
+            "hamburguesa",
+            "hamburguesas",
+            "ocio",
+            "restaurantes"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20251205/cero-turistico-hermanos-casanova-abierto-cadena-hamburguesas-pueblo-personas/1003744042809_0.html",
+        "date": "2025-12-05 01:00:00",
+        "sentiment_score": 0.2200358361005783
+    },
+    {
+        "title": "Claudio Giráldez: «Hemos sufrido más de lo esperado»",
+        "image_url": "https://cflvdg.avoz.es/sc/TomeXsDE7EzaTjV4P67epXcHDNg=/768x/2025/12/04/00121764885301675378633/Foto/v_20251204_225149002.jpg",
+        "tags": [
+            "claudio giráldez",
+            "grada de río",
+            "celta"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/gradario/2025/12/05/claudio-giraldez-hemos-sufrido-esperado/00031764896287106498556.htm",
+        "date": "2025-12-05 00:59:00",
+        "sentiment_score": 0.17908143997192383
+    },
+    {
+        "title": "04 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/04-dic-2025-partidazo-cope-20251205_3265882.html",
+        "date": "2025-12-05 00:41:02",
+        "sentiment_score": -0.2694171369075775
+    },
+    {
+        "title": "El Real Zaragoza se vuelve a quedar fuera de los dieciseisavos de final de la Copa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/589e6336-09d3-4e1c-9424-4a972d49f5ef_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "real zaragoza"
+        ],
+        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2025/12/05/real-zaragoza-vuelve-quedar-fuera-124469297.html",
+        "date": "2025-12-05 00:19:23",
+        "sentiment_score": -0.06607964634895325
+    },
+    {
+        "title": "Doble salida para el Fundación en solo 24 horas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/018b4f7c-7b80-48b8-9faa-127f9c712372_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "santiago",
+            "manresa",
+            "verano",
+            "fundación"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/05/doble-salida-fundacion-24-horas-124468338.html",
+        "date": "2025-12-05 00:00:38",
+        "sentiment_score": 0.06004491448402405
+    },
+    {
+        "title": "Óscar Casas, protagonista de 'Me has robado el corazón': \"No tengo ni twitter, ni instagram ni tiktok en el móvil\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/39a622ef-1956-456f-b57c-be913e625853_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cine,películas,mario casas,estrenos de cine"
+        ],
+        "link": "https://www.laopiniondezamora.es/ocio/cine/2025/12/05/oscar-casas-protagonista-has-robado-124468473.html",
+        "date": "2025-12-04 23:42:27",
+        "sentiment_score": -0.1274089217185974
+    },
+    {
+        "title": "Otro cambio de opinión",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cambio",
+            "opinion"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/cambio-opinion_0_2005394052.html",
+        "date": "2025-12-05 02:06:18",
+        "sentiment_score": -0.20957106351852417
+    },
+    {
+        "title": "El Inter Miami de Messi buscará en Colombia un fichaje clave para 2026, ya hay oferta formal",
+        "image_url": "https://www.infobae.com/resizer/v2/WH53WSD6L5CGDBAXRV26AKTY4M.png?auth=c0590e1f9a509360c76383b14d7575a86e606007d3c3d8918cb39c4634f2ab86&height=770&smart=true&width=1200",
+        "tags": [
+            "fútbol colombiano",
+            "mls",
+            "inter de miami",
+            "lionel messi",
+            "colombia-deportes",
+            "kevin cataño"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/12/05/el-inter-miami-de-messi-buscara-en-colombia-un-fichaje-clave-para-2026-ya-hay-oferta-formal/",
+        "date": "2025-12-05 01:52:55",
+        "sentiment_score": -0.01656385511159897
+    },
+    {
+        "title": "Vuelve la censura: habrá que viajar a Perpiñán para ver Eurovisión",
+        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043549_260327955_1024x576.jpg",
+        "tags": [
+            "editoriales de opinión",
+            "eurovisión",
+            "israel",
+            "opinión",
+            "conflicto palestino-israelí",
+            "rtve (radiotelevisión española)",
+            "editoriales"
+        ],
+        "link": "https://www.elespanol.com/opinion/editoriales/20251205/vuelve-censura-viajar-perpinan-ver-eurovision/1003744043504_14.html",
+        "date": "2025-12-05 01:22:01",
+        "sentiment_score": -0.9083792064338923
+    },
+    {
+        "title": "María Corina Machado convoca marcha mundial por la paz y libertad en Venezuela",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/31144941/Maria-Corina-Machado-2.jpg",
+        "tags": [
+            "maría corina machado",
+            "marcha mundial",
+            "nobel de la paz",
+            "vente venezuela",
+            "política",
+            "venezuela"
+        ],
+        "link": "https://www.elnacional.com/2025/12/maria-corina-machado-convoca-marcha-mundial-por-la-paz-y-libertad-en-venezuela/",
+        "date": "2025-12-05 01:05:50",
+        "sentiment_score": 0.19538351893424988
+    },
+    {
+        "title": "La hazaña de Marta Arnabat: presentó su TFM premiado en Las Vegas y la contrataron antes de terminar Aeronáutica",
+        "image_url": "https://s3.elespanol.com/2025/12/04/madrid/1003744043129_260322537_1706x960.jpg",
+        "tags": [
+            "ingenieros",
+            "sociedad",
+            "sector aeronáutico",
+            "premios"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251205/hazana-marta-arnabat-presento-tfm-premiado-vegas-contrataron-terminar-aeronautica/1003744042197_0.html",
+        "date": "2025-12-05 01:00:00",
+        "sentiment_score": 0.5584334656596184
+    },
+    {
+        "title": "Nibo: una startup a los pies de los sanitarios",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/29/692b5a414aff2.r_d.1771-1179-1267.jpeg",
+        "tags": [
+            "emprendedores"
+        ],
+        "link": "https://www.lavanguardia.com/economia/emprendedores/20251205/11315854/startup-pies-sanitarios-nibo.html",
+        "date": "2025-12-05 01:00:00",
+        "sentiment_score": 0.5430364143103361
+    },
+    {
+        "title": "MCM invita a LOS venezolanos en el mundo marchar el sábado por «la paz y libertad»",
+        "image_url": "https://elperiodiquito.com/wp-content/uploads/2025/12/images-2.jpg",
+        "tags": [
+            "venezuela"
+        ],
+        "link": "https://elperiodiquito.com/venezuela/59530/mcm-invita-a-los-venezolanos-en-el-mundo-marchar-el-sabado-por-la-paz-y-libertad/",
+        "date": "2025-12-05 00:50:20",
+        "sentiment_score": 0.4688452258706093
+    },
+    {
+        "title": "Aitana actualiza su patrimonio empresarial: las dos entidades en las que estrena cargo de sus cinco millonarias sociedades",
+        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744042401_260313062_1706x960.jpg",
+        "tags": [
+            "famosos",
+            "negocios",
+            "patrimonio personal",
+            "aitana ocaña",
+            "empresas"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251205/aitana-actualiza-patrimonio-empresarial-entidades-estrena-cargo-millonarias-sociedades/1003744042326_0.html",
+        "date": "2025-12-05 00:33:00",
+        "sentiment_score": 0.6846530400216579
+    },
+    {
+        "title": "Realizan foro sindical en Barcelona para reiterar la solicitud de un bono navideño de $400",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "otras"
+        ],
+        "link": "https://eltiempove.com/realizan-foro-sindical-en-barcelona-para-reiterar-la-solicitud-de-un-bono-navideno-de-400/",
+        "date": "2025-12-04 23:59:27",
+        "sentiment_score": 0.3031225651502609
     }
 ];
