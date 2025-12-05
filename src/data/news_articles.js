@@ -1,158 +1,5 @@
 export default [
     {
-        "title": "Los realojos de la Cañada Real priorizan los municipios cercanos y limitan las familias trasladadas por zona para evitar guetos",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/02/28/fotografo-jose-gonzalez-previsiones-20m-tema-canada-real-39.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/madrid/los-realojos-canada-real-priorizan-los-municipios-cercanos-limitan-las-familias-trasladadas-por-zona-para-evitar-guetos_6513406_0.html",
-        "date": "2025-12-01 06:42:24",
-        "sentiment_score": -0.7238286770880222
-    },
-    {
-        "title": "Jota Jordi retrata a Tomás Roncero y Juanma Rodríguez sin abrir la boca tras el empate del Madrid en Montilivi",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/12/01/692d369a566bd.r_d.343-193-6545.jpeg",
-        "tags": [
-            "vaya mundo"
-        ],
-        "link": "https://www.mundodeportivo.com/vaya-mundo/20251201/1002578971/jota-jordi-retrata-tomas-roncero-juanma-rodriguez-abrir-boca-empate-madrid-montilivi-dct.html",
-        "date": "2025-12-01 06:36:15",
-        "sentiment_score": -0.9402780560776591
-    },
-    {
-        "title": "Ramón González Férriz desgrana el término 'protesta' tras la concentración contra Sánchez en Debod: \"Protestar airadamente y en público es necesario para seguir siendo libre\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/11/30/692c2325ab053.r_d.966-873-2240.jpeg",
-        "tags": [
-            "traficantes de palabras"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/traficantes-de-palabras/noticias/ramon-gonzalez-ferriz-desgrana-termino-protesta-concentracion-sanchez-debod-protestar-airadamente-publico-necesario-seguir-siendo-libre-20251201_3262491.html",
-        "date": "2025-12-01 06:34:18",
-        "sentiment_score": -0.1376996636390686
-    },
-    {
-        "title": "Ede: \"Lo difícil y lo revolucionario es poner el cuerpo\"",
-        "image_url": "https://www.elplural.com/uploads/s1/21/07/79/3/medidas-plural_7_480x270.jpeg",
-        "tags": [
-            "playtime"
-        ],
-        "link": "https://www.elplural.com/playtime/ede-dificil-revolucionario-poner-cuerpo_366098102",
-        "date": "2025-12-01 06:23:03",
-        "sentiment_score": -0.043829143047332764
-    },
-    {
-        "title": "El Real Madrid se atasca en Girona y cede el liderato tras su tercer tropiezo consecutivo en Liga",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/12/01/2025120107204483680.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/futbol/real-madrid-atasca-girona-cede-liderato-tercer-tropiezo-consecutivo-liga/20251201072243576491.html",
-        "date": "2025-12-01 06:22:43",
-        "sentiment_score": -0.8738417029380798
-    },
-    {
-        "title": "El Mallorca, punto de inflexión para el Real Oviedo",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/01/real-oviedo-atletico-madrid-kcqG--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-mallorca-punto-inflexion-20251201071510-nt.html",
-        "date": "2025-12-01 06:15:41",
-        "sentiment_score": 0.6963507384061813
-    },
-    {
-        "title": "\"La poesía nos obliga a mirar al mundo con una conciencia crítica\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a11ba21c-e668-4a5c-b4ee-f302c0b4482b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "poesía,antonio praena,de la poesía a la esperanza,diócesis de zamora"
-        ],
-        "link": "https://www.laopiniondezamora.es/zamora/2025/12/01/poesia-obliga-mirar-mundo-conciencia-124295328.html",
-        "date": "2025-12-01 06:00:51",
-        "sentiment_score": 0.0671771764755249
-    },
-    {
-        "title": "Un hogar posible",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d0be75e-79df-4e53-9f96-aeb4aef7e8a7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vivienda,hogar,precios,hipotecas"
-        ],
-        "link": "https://www.laopiniondezamora.es/opinion/2025/12/01/hogar-posible-124296377.html",
-        "date": "2025-12-01 06:00:51",
-        "sentiment_score": -0.05770266056060791
-    },
-    {
-        "title": "La Zaratán Cup, un torneo de fútbol solidario con 32 equipos punteros: \"Hay un ambiente sano y de compañerismo\"",
-        "image_url": "https://s3.elespanol.com/2025/11/27/actualidad/1003744031826_260175244_1706x960.jpg",
-        "tags": [
-            "valladolid",
-            "valladolid (provincia)",
-            "zaratán",
-            "deportes castilla y león",
-            "fútbol"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20251201/zaratan-cup-torneo-futbol-solidario-equipos-punteros-ambiente-sano-companerismo/1003744031823_0.html",
-        "date": "2025-12-01 06:00:00",
-        "sentiment_score": 0.3663928396999836
-    },
-    {
-        "title": "La dura crítica de Manolo Lama a los jugadores del Real Madrid: \"Me sorprende que no den la cara tras el tercer empate consecutivo\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/11/30/692cbffae6650.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/audios/dura-critica-manolo-lama-jugadores-real-madrid-me-sorprende-den-cara-tercer-empate-consecutivo-20251201_3262475.html",
-        "date": "2025-12-01 05:34:57",
-        "sentiment_score": -0.014688998460769653
-    },
-    {
-        "title": "La ciudad dormitorio cerca de Barcelona con pisos desde 120.000 euros: la opción más barata para comprar casa",
-        "image_url": "https://images.ecestaticos.com/qXjoVZll271laMcJ-v-Wn9JQpnI=/0x0:1872x1253/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F39e%2Fcee%2Fd61%2F39eceed61a07357ee3ae4e9de58a6fa8.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elconfidencial.com/vivienda/2025-12-01/ciudad-barata-barcelona-comprar-casa-1tna-1qrt_4257679/",
-        "date": "2025-12-01 06:44:00",
-        "sentiment_score": 0.521457277238369
-    },
-    {
-        "title": "Los mejores restaurantes de Les Corts que deberías apuntar en la agenda",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b6a38d19-a8ba-4182-aaeb-5a1e2e17814a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "restaurante",
-            "dónde comer hoy",
-            "restaurantes barcelona",
-            "gastronomía"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251201/mejores-restaurantes-les-corts-barcelona-81048376",
-        "date": "2025-12-01 06:42:00",
-        "sentiment_score": -0.3492910861968994
-    },
-    {
-        "title": "UME y Generalitat activan un dispositivo de control para frenar la peste porcina africana en Barcelona",
-        "image_url": "https://www.elplural.com/uploads/s1/20/35/78/9/ume_7_480x270.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.elplural.com/autonomias/cataluna/ume-generalitat-activan-dispositivo-control-frenar-peste-porcina-africana-barcelona_366393102",
-        "date": "2025-12-01 06:37:51",
-        "sentiment_score": -0.17893517017364502
-    },
-    {
-        "title": "Los retrasos para reformar viviendas se agravan por la falta de mano de obra: \"Tenemos hueco ya pasado el verano\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/64ce97fc-ea1b-4435-a91c-4ce1ab552687_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "empleo",
-            "construcción",
-            "obras",
-            "empresas",
-            "urbanismo",
-            "pisos"
-        ],
-        "link": "https://www.lacronicabadajoz.com/sociedad/2025/12/01/obras-reforma-viviendas-retrasos-meses-falta-albaniles-construccion-124302750.html",
-        "date": "2025-12-01 06:37:41",
-        "sentiment_score": -0.8157647289335728
-    },
-    {
         "title": "Primer pulso por la Liga en el nuevo Camp Nou",
         "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/01/Clipboard-0173.jpg",
         "tags": [
@@ -2292,5 +2139,256 @@ export default [
         "link": "https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2025-12-04/ecologistas-en-accion-pide-no-criminalizar-a-los-jabalies-de-la-peste-porcina-africana-y-culpa-a-las-granjas-7329168/",
         "date": "2025-12-04 17:02:50",
         "sentiment_score": -0.21761785447597504
+    },
+    {
+        "title": "Caso Negreira: el Real Madrid finaliza un informe con videos que recibirá Infantino",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1764876440502/16827744.jpeg?ch=675&cw=1200",
+        "tags": [
+            "corrupción en laliga",
+            "caso negreira",
+            "uefa",
+            "gianni infantino",
+            "laliga",
+            "fc barcelona",
+            "fifa",
+            "real madrid"
+        ],
+        "link": "https://2001online.com/deportes/caso-negreira-el-real-madrid-finaliza-un-informe-con-videos-que-recibira-infantino-20251241900",
+        "date": "2025-12-04 22:07:00",
+        "sentiment_score": -0.027650251984596252
+    },
+    {
+        "title": "El Real Madrid sube de estatus en Estambul",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/4c826bf9-51a2-49cf-b7969f7728171ac1.jpeg",
+        "tags": [
+            "selección española de baloncesto",
+            "estambul",
+            "euroliga",
+            "anadolu efes",
+            "usman garuba",
+            "sergio scariolo",
+            "real madrid",
+            "cabo verde"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zf0780412-cbee-46e8-a9a3ce8edac1d8d6/202512/el-real-madrid-sube-de-estatus-en-estambul",
+        "date": "2025-12-04 21:50:56",
+        "sentiment_score": 0.3978227823972702
+    },
+    {
+        "title": "Voluntarios con discapacidad acompañan a los mayores de una residencia de Ávila",
+        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/04/avila-kirC-U240451092588rc-758x531@El%20Norte.jpg",
+        "tags": [
+            "día de la discapacidad",
+            "ávila (provincia)",
+            "junta de castilla y león",
+            "fundación la caixa"
+        ],
+        "link": "https://www.elnortedecastilla.es/promocionales/voluntarios-discapacidad-acompanan-mayores-residencia-avila-20251205224656-nt.html",
+        "date": "2025-12-04 21:46:56",
+        "sentiment_score": 0.7994479890912771
+    },
+    {
+        "title": "Agenda gráfica para el día 5 de diciembre de 2025",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/04/agenda-grafica-para-el-dia-5-de-diciembre-de-2025/",
+        "date": "2025-12-04 21:30:32",
+        "sentiment_score": 0.05165150761604309
+    },
+    {
+        "title": "Arrestado en Valladolid el jefe antidroga de la Policía Nacional durante un operativo contra el narcotráfico",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-1817501.jpg",
+        "tags": [
+            "espana"
+        ],
+        "link": "https://www.vozpopuli.com/espana/arrestado-en-valladolid-el-jefe-antidroga-de-la-policia-nacional-durante-un-operativo-contra-el-narcotrafico.html",
+        "date": "2025-12-04 21:26:36",
+        "sentiment_score": -0.07684550434350967
+    },
+    {
+        "title": "Un histórico del fútbol europeo eligió a sus cuatro favoritos a ganar el Mundial 2026: por qué excluyó a la Argentina de Messi",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "deportes-argentina",
+            "selección argentina",
+            "lionel messi",
+            "wesley sneijder",
+            "kylian mbappé",
+            "selección de países bajos",
+            "mundial 2026"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/04/un-historico-del-futbol-europeo-eligio-a-sus-cuatro-favoritos-a-ganar-el-mundial-2026-por-que-excluyo-a-la-argentina-de-messi/",
+        "date": "2025-12-04 21:24:46",
+        "sentiment_score": 0.26469582319259644
+    },
+    {
+        "title": "La \"invasión\" publicitaria de 'Stranger Things' en calles y edificios de Madrid solo deja 1.528 euros en las arcas municipales",
+        "image_url": "https://static.eldiario.es/clip/02b8683b-085f-44c9-ba49-437e44330f71_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "edificios",
+            "528",
+            "municipales",
+            "stranger",
+            "1",
+            "things",
+            "deja",
+            "invasion",
+            "publicitaria",
+            "calles",
+            "madrid",
+            "arcas",
+            "euros"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/invasion-publicitaria-stranger-things-calles-edificios-madrid-deja-1-528-euros-arcas-municipales_1_12813226.html",
+        "date": "2025-12-04 21:20:59",
+        "sentiment_score": -0.08971802890300751
+    },
+    {
+        "title": "Joan Laporta: \"El Real Madrid representa el poder y el Barça, la libertad\"",
+        "image_url": "https://www.infobae.com/resizer/v2/X3WKJNJIUFGEPNF5X2GRZOT7WA.jpg?auth=0f2d242ff17b756924de0dfd717d44c8bf78f2844df45d5603663c908e53a8dd&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/04/joan-laporta-el-real-madrid-representa-el-poder-y-el-barca-la-libertad/",
+        "date": "2025-12-04 21:00:34",
+        "sentiment_score": 0.19113098084926605
+    },
+    {
+        "title": "Laporta: \"El Madrid representa el poder y el Barça la libertad\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/04/F5D14BE6-7D5D-4432-BBA1-9DE950520001/laporta-madrid-representa-poder-barca-libertad_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/laporta-madrid-representa-poder-barca-libertad_202512046931f3e655584d48fb69fb2a.html",
+        "date": "2025-12-04 20:50:05",
+        "sentiment_score": 0.20902636088430882
+    },
+    {
+        "title": "Matagigantes blanquiazul",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3583015.jpg",
+        "tags": [
+            "fútbol",
+            "rcd espanyol",
+            "atlético baleares",
+            "copa del rey"
+        ],
+        "link": "https://www.ultimahora.es/deportes/atletico-baleares/2025/12/04/2525661/matagigantes-blanquiazul.html",
+        "date": "2025-12-04 20:48:00",
+        "sentiment_score": -0.8824377749115229
+    },
+    {
+        "title": "André Rieu, con más de 40 millones de discos vendidos, llega al Palacio de Deportes Martín Carpena de Málaga",
+        "image_url": "https://static.grupojoly.com/clip/4bb2557f-1aaf-459b-b67b-c7f20571ab30_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "qué hacer en málaga",
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/andre-rieu-palacio-deportes-martin-carpena-malaga_0_2005393714.html",
+        "date": "2025-12-04 22:14:04",
+        "sentiment_score": 0.17148467898368835
+    },
+    {
+        "title": "Bill Gates advirtió que la mortalidad infantil volvió a aumentar por los recortes de ayuda internacional",
+        "image_url": "https://www.infobae.com/resizer/v2/TKIWC5BWJRCZ7M2TYWIKZI5ZHY.JPG?auth=a785735964dd4dfbeb5a50d46c9922948ce79c05ec8a7f5c5a334f02b39ab8e3&height=2737&smart=true&width=4106",
+        "tags": [
+            "estados unidos",
+            "mortalidad infantil",
+            "ultimas noticias america",
+            "bill gates"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2025/12/04/bill-gates-advirtio-que-la-mortalidad-infantil-volvio-a-aumentar-por-los-recortes-de-ayuda-internacional/",
+        "date": "2025-12-04 22:03:35",
+        "sentiment_score": -0.799385316669941
+    },
+    {
+        "title": "El ojeador de fútbol pederasta Kenneth V.V. afronta hasta 86 años de cárcel",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bfd39ecc-c880-492c-907b-dbef04d64bd1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol base",
+            "víctimas",
+            "fútbol",
+            "pederasta",
+            "menores",
+            "gran canaria",
+            "guardia civil"
+        ],
+        "link": "https://www.eldia.es/sucesos/sucesos-en-canarias/2025/12/04/ojeador-futbol-pederasta-kenneth-v-carcel-124466551.html",
+        "date": "2025-12-04 21:34:38",
+        "sentiment_score": -0.7866268027573824
+    },
+    {
+        "title": "Almendro Origen recauda más de 80.000 euros por el cáncer infantil en su IV Cena Solidaria de Navidad",
+        "image_url": "https://static1.ara.cat/clip/7b8acda8-9b2b-48df-82b7-809134b2f495_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "navidad",
+            "infantil",
+            "almendro",
+            "recauda",
+            "cancer",
+            "solidaria",
+            "origen",
+            "euros",
+            "cena",
+            "000",
+            "iv",
+            "80"
+        ],
+        "link": "https://es.ara.cat/gente/almendro-origen-recauda-80-000-euros-cancer-infantil-iv-cena-solidaria-navidad_1_5583304.html",
+        "date": "2025-12-04 21:27:36",
+        "sentiment_score": -0.01684930920600891
+    },
+    {
+        "title": "“Vidas restauradas”, el documental que expone encuentros entre víctimas de accidentes de tráfico y sus infractores",
+        "image_url": "https://static.eldiario.es/clip/351599ab-4113-45b3-9fbb-fddca3d3daeb_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "periodismo independiente",
+            "noticias",
+            "actualidad",
+            "política",
+            "barcelona",
+            "economía",
+            "ignacio escolar",
+            "cataluña"
+        ],
+        "link": "https://www.eldiario.es/catalunya/vidas-restauradas-documental-expone-encuentros-victimas-accidentes-trafico-infractores_1_12817545.html",
+        "date": "2025-12-04 21:20:58",
+        "sentiment_score": -0.24660806357860565
+    },
+    {
+        "title": "Ratifican la condena por abuso sexual al ex céltico Hugo Mallo",
+        "image_url": "https://static.laregion.es/clip/9028bb3e-cf87-40f4-a7cc-dc00508344a1_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "abuso sexual"
+        ],
+        "link": "https://www.atlantico.net/celtismo/ratifican-condena-abuso-sexual-ex_1_20251204-4082874.html",
+        "date": "2025-12-04 21:19:30",
+        "sentiment_score": -0.5788055583834648
+    },
+    {
+        "title": "Que la vida siga igual en Miribilla",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/12/04/1-151145380-kur--758x531@El%20Correo.jpg",
+        "tags": [
+            "siga",
+            "miribilla",
+            "vida",
+            "igual"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/vida-siga-igual-miribilla-20251204221729-nt.html",
+        "date": "2025-12-04 21:17:30",
+        "sentiment_score": -0.09137873351573944
+    },
+    {
+        "title": "10-19. El CNB golea al Dinamo Bucarest y se jugará el liderato en la Eurocup con el Szolnoki",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/13/6916605cca475.r_d.810-540.jpeg",
+        "tags": [
+            "waterpolo"
+        ],
+        "link": "https://www.mundodeportivo.com/waterpolo/20251204/1002581291/10-19-cnb-golea-dinamo-bucarest-jugara-liderato-eurocup-szolnoki.html",
+        "date": "2025-12-04 21:16:59",
+        "sentiment_score": 0.8470868282020092
     }
 ];
