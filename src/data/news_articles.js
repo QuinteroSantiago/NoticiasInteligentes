@@ -1,110 +1,5 @@
 export default [
     {
-        "title": "Samuel Navalón inicia una nueva etapa de la mano de Manuel Amador",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/02/692e895e75258.r_d.512-317-4245.jpeg",
-        "tags": [
-            "toros"
-        ],
-        "link": "https://www.cope.es/actualidad/toros/noticias/samuel-navalon-inicia-nueva-etapa-mano-manuel-amador-20251202_3263322.html",
-        "date": "2025-12-02 06:40:33",
-        "sentiment_score": 0.13455140590667725
-    },
-    {
-        "title": "Joaquim Segalés, investigador de la peste porcina: \"La única opción factible es que hayan ingerido carne contaminada\"",
-        "image_url": "https://www.elplural.com/uploads/s1/21/11/50/4/joaquim-segales-irta-cresa_7_480x270.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.elplural.com/autonomias/cataluna/joaquim-segales-investigador-peste-porcina-unica-opcion-factible-hayan-ingerido-carne-contaminada_366490102",
-        "date": "2025-12-02 06:23:15",
-        "sentiment_score": -0.236919105052948
-    },
-    {
-        "title": "El Bilbao Athletic, en racha hacia el ‘play-off’",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5ec5f4a4-02bc-4fcb-bd2c-f0f13a12fa62_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "play",
-            "off",
-            "athletic",
-            "bilbao",
-            "racha"
-        ],
-        "link": "https://www.deia.eus/futbol/2025/12/02/bilbao-athletic-racha-play-off-10422677.html",
-        "date": "2025-12-02 06:13:02",
-        "sentiment_score": 0.4069996476173401
-    },
-    {
-        "title": "Génova recrudece la guerra con Vox superada la investidura de Pérez Llorca",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d58c2bd-a4b0-456e-8aa2-08dbfc50d553_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "santiago abascal",
-            "miguel tellado",
-            "partido popular",
-            "vox",
-            "alberto núñez feijóo"
-        ],
-        "link": "https://www.laopiniondemurcia.es/nacional/2025/12/02/genova-recrudece-guerra-vox-superada-124341167.html",
-        "date": "2025-12-02 06:11:06",
-        "sentiment_score": -0.7183816209435463
-    },
-    {
-        "title": "La caza del jabalí se intensificará contra la propagación de la peste porcina en Castilla y León",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2024/11/10/67308f41913c1.r_d.600-466-0.jpeg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/251202/103399/caza-jabali-intensificara-propagacion-peste-porcina-castilla-leon.html",
-        "date": "2025-12-02 06:30:00",
-        "sentiment_score": 0.1719379425048828
-    },
-    {
-        "title": "La peste porcina alerta a Extremadura pero la Junta recuerda que solo hay foco en una zona de Cataluña",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/01/jabalies-R9fM0IyZb7RKytxOjexMQGI-758x531@Hoy.jpg",
-        "tags": [
-            "extremadura",
-            "barcelona (provincia)",
-            "alerta",
-            "españa",
-            "cataluña"
-        ],
-        "link": "https://www.hoy.es/extremadura/peste-porcina-alerta-extremadura-junta-recuerda-solo-20251202072754-nt.html",
-        "date": "2025-12-02 06:27:54",
-        "sentiment_score": -0.05632631480693817
-    },
-    {
-        "title": "Macrooperativo con más de 300 agentes contra una red de asaltos violentos y tráfico drogas",
-        "image_url": "https://static1.ara.cat/clip/c68624ea-c360-4dbd-a896-48429b199337_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "asaltos",
-            "policias",
-            "violentos",
-            "300",
-            "drogas",
-            "macrooperativo",
-            "red",
-            "trafico"
-        ],
-        "link": "https://es.ara.cat/sociedad/sucesos/300-policias-macrooperativo-red-asaltos-violentos-trafico-drogas_1_5580125.html",
-        "date": "2025-12-02 06:26:56",
-        "sentiment_score": -0.7177987694740295
-    },
-    {
-        "title": "Vivir en Can 70, la primera cooperativa sénior en Barcelona: \"No quiero ir a una residencia ni que me cuide mi hija\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e02cdc94-a748-4459-a1e4-b284105e5114_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "envejecimiento",
-            "vivienda",
-            "tercera edad",
-            "vivienda social",
-            "barcelona",
-            "longevidad",
-            "cataluña"
-        ],
-        "link": "https://www.laopiniondemalaga.es/sociedad/2025/12/02/vivienda-mayores-cooperativa-barcelona-can-70-sarria-envejecimiento-124341685.html",
-        "date": "2025-12-02 06:25:53",
-        "sentiment_score": -0.009569436311721802
-    },
-    {
         "title": "66.000 m2 de pisos, tiendas y restaurantes: el macrocomplejo que acaba de abrir sus puertas en el centro de Madrid",
         "image_url": "https://okdiario.com/img/2025/12/02/66.000-m2-de-pisos-tiendas-y-restaurantes-el-macrocomplejo-que-acaba-de-abrir-sus-puertas-en-el-centro-de-madrid.jpg",
         "tags": [
@@ -2480,5 +2375,157 @@ export default [
         "link": "https://www.europapress.es/catalunya/noticia-pp-pide-comparecer-director-irta-posible-brote-ppa-laboratorio-20251205175621.html",
         "date": "2025-12-05 16:56:21",
         "sentiment_score": -0.292040579020977
+    },
+    {
+        "title": "El Real Madrid muestra su \"satisfacción\" por la resolución del TS respecto a los derechos audiovisuales",
+        "image_url": "https://www.infobae.com/resizer/v2/ZZAQWIQCKBEGZENGQUU7EJ6RTQ.jpg?auth=72beac4d58760c33f0fcc7979966e7ffb213ec56030315b735eebac6e7a95894&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/05/el-real-madrid-muestra-su-satisfaccion-por-la-resolucion-del-ts-respecto-a-los-derechos-audiovisuales/",
+        "date": "2025-12-05 22:15:17",
+        "sentiment_score": 0.3789766654372215
+    },
+    {
+        "title": "Argentina bendecida con grupo 'ganable' en el sorteo del Mundial, pero inquieta lo que sigue",
+        "image_url": "https://dims.apnews.com/dims4/default/963b1a2/2147483647/strip/true/crop/3976x2237+0+207/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Fe9%2Fa3f1fffbe3c704d02d8bcb85a8bd%2F7e4f38e715d34d2c8e95b6f16dec803d",
+        "tags": [
+            "deportes",
+            "sports",
+            "mundial sorteo argentina rivales scaloni"
+        ],
+        "link": "https://apnews.com/article/mundial-sorteo-argentina-rivales-scaloni-5f499c69e7de43b1fa15b13861240980",
+        "date": "2025-12-05 21:41:56",
+        "sentiment_score": 0.37003079056739807
+    },
+    {
+        "title": "Argentina bendecida con grupo ‘ganable’ en el sorteo del Mundial, pero inquieta lo que sigue",
+        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/12/MUNDIAL_SORTEO-SCALONI_46594.jpg?strip=all&w=1400px",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/12/05/argentina-bendecida-con-grupo-ganable-en-el-sorteo-del-mundial-pero-inquieta-lo-que-sigue/",
+        "date": "2025-12-05 21:41:55",
+        "sentiment_score": 0.18959465622901917
+    },
+    {
+        "title": "Los pequeños traen de cabeza a Txus Vidorreta en el CB Canarias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/689b3efb-b818-4bff-9889-a663b8196479_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "santiago",
+            "real madrid",
+            "cb canarias",
+            "tenerife",
+            "txus vidorreta",
+            "españa"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/05/pequenos-traen-cabeza-txus-vidorreta-124506128.html",
+        "date": "2025-12-05 21:20:04",
+        "sentiment_score": -0.36115463078022003
+    },
+    {
+        "title": "Estas son las series de moda en Netflix México hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/3ILG6ARO65GSXKX3D2HXEQOXPU.jpg?auth=49262afaeec20a7ad29d37c6146b2a28628bfee4fd80ec8a4650c10fa5fb0f9e&height=1080&smart=true&width=1920",
+        "tags": [
+            "series",
+            "netflix",
+            "noticias",
+            "streaming",
+            "mexico-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/12/05/estas-son-las-series-de-moda-en-netflix-mexico-hoy/",
+        "date": "2025-12-05 21:17:41",
+        "sentiment_score": 0.18770477175712585
+    },
+    {
+        "title": "James Rodríguez se volverá a ver con Cristiano Ronaldo en el Mundial de 2026: así fue su amistad en Real Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/QJ4DIFQWMRFL3AUY3DZTQAPK4U.jpg?auth=5c7427d2d9539a21279e9ca03ed3eb9df6d4c3cccabfa5dda9fab6b5a3bcea76&height=1886&smart=true&width=3264",
+        "tags": [
+            "real madrid",
+            "colombia portugal mundial 2026",
+            "sorteo mundial 2026",
+            "selección colombia",
+            "james rodríguez",
+            "cristiano ronaldo",
+            "colombia-deportes",
+            "mundial 2026"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/12/05/james-rodriguez-se-volvera-a-ver-con-cristiano-ronaldo-en-el-mundial-de-2026-asi-fue-su-amistad-en-real-madrid/",
+        "date": "2025-12-05 21:13:53",
+        "sentiment_score": 0.2516847252845764
+    },
+    {
+        "title": "Barcelona y Real Madrid quieren la cima de la Liga Española",
+        "image_url": "https://i.ytimg.com/vi/0GYMaqhHXuU/mqdefault.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/barcelona-y-real-madrid-quieren-la-cima-de-la-liga-espanola-20251251750",
+        "date": "2025-12-05 21:05:00",
+        "sentiment_score": -0.666585773229599
+    },
+    {
+        "title": "Ruta por la gentrificación cultural de Carabanchel y los barrios que no quieren estigmas ni ser el \"Brookyln madrileño\"",
+        "image_url": "https://static.eldiario.es/clip/826f64a0-7633-48d2-8124-f0e66904c516_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gentrificacion",
+            "madrileno",
+            "ruta",
+            "quieren",
+            "estigmas",
+            "brookyln",
+            "barrios",
+            "carabanchel",
+            "cultural",
+            "no"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/ruta-gentrificacion-cultural-carabanchel-barrios-no-quieren-estigmas-brookyln-madrileno_1_12799153.html",
+        "date": "2025-12-05 21:04:56",
+        "sentiment_score": -0.12455356121063232
+    },
+    {
+        "title": "La Constitución española de 1978, una historia de éxito",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e8e0b022-cbbb-473c-8273-140d64bffb80_alta-libre-aspect-ratio_320w_0.webp",
+        "tags": [
+            "rey",
+            "historia",
+            "españa",
+            "duda"
+        ],
+        "link": "https://www.lne.es/opinion/2025/12/06/constitucion-espanola-1978-historia-exito-124505035.html",
+        "date": "2025-12-05 21:03:24",
+        "sentiment_score": 0.23338912427425385
+    },
+    {
+        "title": "Representantes de Urepanz escogieron a los integrantes de la comisión electoral para iniciar el proceso de elecciones",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "otras",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/representantes-de-urepanz-escogieron-a-los-integrantes-de-la-comision-electoral-para-iniciar-el-proceso-de-elecciones/",
+        "date": "2025-12-05 22:17:13",
+        "sentiment_score": 0.10122153908014297
+    },
+    {
+        "title": "El puente arranca sin fallecidos y con tráfico complicado por varios accidentes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc5517f9-13cf-4534-adfd-18749ac264fe_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "carreteras"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251206/puente-arranca-fallecidos-trafico-complicado-varios-accidentes-124507549",
+        "date": "2025-12-05 22:15:57",
+        "sentiment_score": -0.9031064240261912
+    },
+    {
+        "title": "El Govern catalán acuerda con el sector porcino sacrificar a 30.000 cerdos sanos cerca del foco de la peste porcina",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f26c2d42-fe99-407d-9e02-95b67eb97caa_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.laopiniondemalaga.es/economia/2025/12/05/govern-catalan-acuerda-sector-porcino-124508047.html",
+        "date": "2025-12-05 22:05:28",
+        "sentiment_score": -0.40951230376958847
     }
 ];
