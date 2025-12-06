@@ -2527,5 +2527,181 @@ export default [
         "link": "https://www.laopiniondemalaga.es/economia/2025/12/05/govern-catalan-acuerda-sector-porcino-124508047.html",
         "date": "2025-12-05 22:05:28",
         "sentiment_score": -0.40951230376958847
+    },
+    {
+        "title": "Población",
+        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "poblacion"
+        ],
+        "link": "https://www.diariodecadiz.es/opinion/articulos/poblacion_0_2005400184.html",
+        "date": "2025-12-06 02:05:54",
+        "sentiment_score": -0.09824812412261963
+    },
+    {
+        "title": "Presidente José Jerí se reúne con “Pol Deportes” y ofrece apoyo para impulsar su carrera como narrador deportivo",
+        "image_url": "https://www.infobae.com/resizer/v2/WSYOPUZKFVDY7PLIS7YBYLZEAA.png?auth=e2b58b69fef1e6f968f2a2e3978d99f2cc1af1427e99bbb6c371025e89fe9a4d&height=1080&smart=true&width=1920",
+        "tags": [
+            "josé jerí",
+            "peru-noticias",
+            "pol deportes"
+        ],
+        "link": "https://www.infobae.com/peru/2025/12/06/presidente-jose-jeri-se-reune-con-pol-deportes-y-ofrece-apoyo-para-impulsar-su-carrera-como-narrador-deportivo/",
+        "date": "2025-12-06 01:35:54",
+        "sentiment_score": 0.2193183060735464
+    },
+    {
+        "title": "Faltan 13.000 profesionales como Sara Herrero y Cristina Moreno: en Madrid pueden ganar entre 2.000 y 2.100 euros",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045305_260351828_1706x960.jpg",
+        "tags": [
+            "sanidad",
+            "madrid total",
+            "madrid",
+            "españa",
+            "sanidad - enfermería"
+        ],
+        "link": "https://www.elespanol.com/madrid/20251206/faltan-profesionales-sara-herrero-cristina-moreno-madrid-pueden-ganar/1003744044876_0.html",
+        "date": "2025-12-06 01:00:00",
+        "sentiment_score": -0.8672301154583693
+    },
+    {
+        "title": "Teo Planell, el cantautor de 21 años que busca resignificar a su generación: \"El algoritmo es un arma fascista\"",
+        "image_url": "https://s3.elespanol.com/2025/12/01/actualidad/1003744037833_260253708_1706x960.jpg",
+        "tags": [
+            "entrevistas",
+            "música"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251206/teo-planell-cantautor-anos-busca-resignificar-generacion-algoritmo-arma-fascista/1003744037827_0.html",
+        "date": "2025-12-06 00:55:00",
+        "sentiment_score": 0.4966942071914673
+    },
+    {
+        "title": "La mayor (y olvidada) victoria naval de España sobre Gran Bretaña: el audaz golpe que decidió una guerra",
+        "image_url": "https://s3.elespanol.com/2024/06/07/porfolio/861174163_243829477_1706x960.jpg",
+        "tags": [
+            "historia",
+            "carlos iii de españa",
+            "guerra",
+            "inglaterra",
+            "gran bretaña",
+            "armada española",
+            "libros"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/historia/20251206/mayor-olvidada-victoria-naval-espana-gran-bretana-audaz-golpe-decidio-guerra/1003744043743_0.html",
+        "date": "2025-12-06 00:55:00",
+        "sentiment_score": 0.5425315797328949
+    },
+    {
+        "title": "El sensor de papel español que acabará con 62 millones de toneladas de basura de móviles y aparatos electrónicos",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744043727_260330109_1706x960.jpg",
+        "tags": [
+            "innovación e infraestructura",
+            "objetivo 12: producción y consumo responsables",
+            "objetivo 9: industria",
+            "historias",
+            "csic"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20251206/sensor-papel-espanol-acabara-millones-toneladas-basura-moviles-aparatos-electronicos/1003744043725_0.html",
+        "date": "2025-12-06 00:45:00",
+        "sentiment_score": 0.2471781000494957
+    },
+    {
+        "title": "Yerlina, Moha, Liu y el millón de nuevos españoles de Sánchez: \"Juramos la Constitución y no nos avergüenza nuestro origen\"",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045279_260351369_1706x960.jpg",
+        "tags": [
+            "inmigrantes",
+            "porfolio",
+            "reportajes",
+            "nacionalidad",
+            "inmigración",
+            "trabajadores",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251206/yerlina-moha-liu-millon-nuevos-espanoles-sanchez-juramos-constitucion-no-averguenza-origen/1003744044155_0.html",
+        "date": "2025-12-06 00:40:00",
+        "sentiment_score": 0.326558418571949
+    },
+    {
+        "title": "\"Pechos grandes, cara inocente\": el macabro auge de los prompts de IA que diseñan niñas a la carta para sexo virtual",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045064_260347925_1706x960.jpg",
+        "tags": [
+            "porfolio",
+            "porno",
+            "reportajes",
+            "tecnología",
+            "pornografía infantil",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251206/pechos-grandes-cara-inocente-macabro-auge-prompts-ia-disenan-ninas-carta-sexo-virtual/1003744041389_0.html",
+        "date": "2025-12-06 00:40:00",
+        "sentiment_score": -0.4768800437450409
+    },
+    {
+        "title": "Viaje a los orígenes de Salazar, el \"talibán de Montellano\", donde no puede volver: \"Era un fullero, estaba siempre en los bares\"",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045301_260351776_1706x960.jpg",
+        "tags": [
+            "pedro sánchez",
+            "porfolio",
+            "reportajes",
+            "política",
+            "psoe (partido socialista obrero español)",
+            "maría jesús montero",
+            "psoe andalucía",
+            "dos hermanas (sevilla)",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251206/viaje-origenes-salazar-taliban-montellano-no-puede-volver-fullero-siempre-bares/1003744043834_0.html",
+        "date": "2025-12-06 00:40:00",
+        "sentiment_score": -0.9302879143506289
+    },
+    {
+        "title": "Ancelotti destaca a Marruecos como un rival sólido y organizado tras el sorteo mundialista",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/05/ancelotti-destaca-a-marruecos-como-un-rival-solido-y-organizado-tras-el-sorteo-mundialista/",
+        "date": "2025-12-05 23:30:54",
+        "sentiment_score": 0.7789040766656399
+    },
+    {
+        "title": "Shakira y Piqué sorprenden: retoman el contacto directo tras años de silencio",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/14/2025031416340293556.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/shakira-pique-sorprenden-retoman-contacto-directo-anos-silencio/20251206031425365984.html",
+        "date": "2025-12-06 02:14:25",
+        "sentiment_score": 0.3156408220529556
+    },
+    {
+        "title": "Pues es mentira",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mentira"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/mentira_0_2005400303.html",
+        "date": "2025-12-06 02:08:26",
+        "sentiment_score": -0.3881446570158005
+    },
+    {
+        "title": "Serrat recibe un doctorado honoris causa que fortalece su “cadena de amor” por México",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "cultura y espectáculos",
+            "serrat",
+            "doctorado",
+            "honoris",
+            "causa",
+            "internacional",
+            "música",
+            "arte",
+            "mexico",
+            "efe",
+            "premios"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/06/serrat-recibe-un-doctorado-honoris-causa-que-fortalece-su-cadena-de-amor-por-mexico/",
+        "date": "2025-12-06 02:00:27",
+        "sentiment_score": 0.7861582338809967
     }
 ];
