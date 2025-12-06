@@ -1,465 +1,5 @@
 export default [
     {
-        "title": "Julián Álvarez y el récord de Simeone que amenaza al Barça de Hansi Flick en la Liga",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/09/27/culemania/real-madrid/1003742692555_15470080_1706x960.jpg",
-        "tags": [
-            "atlético de madrid",
-            "la liga",
-            "primer equipo",
-            "barça",
-            "hansi flick",
-            "cholo simeone"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251201/julian-alvarez-simeone-barca-hansi-flick-liga/1003742712583_0.html",
-        "date": "2025-12-01 22:17:25",
-        "sentiment_score": 0.48396652191877365
-    },
-    {
-        "title": "Víctor Ábalos: \"Sánchez le dio la orden directa a mi padre de ir a ver a Delcy a Barajas y desde entonces cayó en desgracia\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/0b97729c36c45af6df21589868b134ca/crop/1335x0/2194x859/f/image/jpeg/assets/multimedia/imagenes/2022/04/07/16493333774499.jpg",
-        "tags": [
-            "artículos esteban urreiztieta",
-            "psoe",
-            "koldo garcía",
-            "nlpremium",
-            "josé luis ábalos",
-            "artículos juanma lamet",
-            "víctor de  aldama",
-            "santos cerdán"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/12/01/692dde06e85ece7e748b4595.html",
-        "date": "2025-12-01 21:51:42",
-        "sentiment_score": -0.2997559383511543
-    },
-    {
-        "title": "Lo que le dice Almeida a Nadal en la alfombra roja de los Premios AS provoca su reacción inmediata",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/01/fotomontaje-de-rafa-nadal-y-almeida-en-los-premios-as-del-deporte-2025.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/lo-le-dice-almeida-nadal-alfombra-roja-premios-as-provoca-reaccion-inmediata.html",
-        "date": "2025-12-01 21:32:53",
-        "sentiment_score": 0.29343945533037186
-    },
-    {
-        "title": "La familia Franco devuelve las estatuas del Mestre Mateo, ya en Santiago",
-        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2025/12/01/2025120122240125695.jpg",
-        "tags": [
-            "galicia"
-        ],
-        "link": "https://www.diariodepontevedra.es/articulo/galicia/familia-franco-devuelve-estatuas-mestre-mateo-santiago/202512012225031421012.html",
-        "date": "2025-12-01 21:25:03",
-        "sentiment_score": 0.05798481032252312
-    },
-    {
-        "title": "¿Puede el Atlético ganar al Barça en el Camp Nou? Los motivos de Simeone para romper la maldición de 19 años",
-        "image_url": "https://s3.elespanol.com/2025/09/17/actualidad/1003743929963_258791636_1706x960.jpg",
-        "tags": [
-            "deportes",
-            "la liga",
-            "atlético de madrid",
-            "fc barcelona",
-            "fútbol"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251201/puede-atletico-ganar-barca-camp-nou-motivos-simeone-romper-maldicion-anos/1003744037938_0.html",
-        "date": "2025-12-01 20:53:59",
-        "sentiment_score": -0.4793536439538002
-    },
-    {
-        "title": "Cuál es el modo IA de Google y para qué sirve",
-        "image_url": "https://www.infobae.com/resizer/v2/27LMX3NRTZEMLPIN6CC2ZRHEC4.JPG?auth=d0f40079cf731c59dbad7b8c7d2fdd40ebd262549e5fbab9cd4e1152556b7d06&height=2000&smart=true&width=3000",
-        "tags": [
-            "buscador",
-            "inteligencia artificial",
-            "gemini",
-            "lo último en tecnología",
-            "tecnología",
-            "google"
-        ],
-        "link": "https://www.infobae.com/tecno/2025/12/01/cual-es-el-modo-ia-de-google-y-para-que-sirve/",
-        "date": "2025-12-01 20:45:37",
-        "sentiment_score": 0.4008509162813425
-    },
-    {
-        "title": "VÍDEO: Almeida: \"Ayer perdimos el liderato en esta ciudad y mañana esta ciudad recuperará el liderato en Barcelona\"",
-        "image_url": "https://www.infobae.com/resizer/v2/XNQAKC44VRF5LCMOON7PU5SVCA.jpg?auth=a1f99bff1081b9c39eba937218014eff39fc3fe8436e8e564f3ef2b155abb943&height=1440&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/01/video-almeida-ayer-perdimos-el-liderato-en-esta-ciudad-y-manana-esta-ciudad-recuperara-el-liderato-en-barcelona/",
-        "date": "2025-12-01 20:45:16",
-        "sentiment_score": -0.37692810595035553
-    },
-    {
-        "title": "¿Qué sería del Real Madrid sin Mbappé?",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/01/4BB63904-1186-42E2-9A2D-067B0E32F217/mbappe-partido-liga-girona-real-madrid_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "fútbol",
-            "antena 3 noticias",
-            "deportes"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/que-seria-real-madrid-mbappe_20251201692dfd5b55584d48fb65b839.html",
-        "date": "2025-12-01 20:40:59",
-        "sentiment_score": -0.9408299094066024
-    },
-    {
-        "title": "Almeida: \"Ayer perdimos el liderato en esta ciudad y mañana esta ciudad recuperará el liderato en Barcelona\"",
-        "image_url": "https://www.infobae.com/resizer/v2/EUJGWWZLDBD5VLJ5NPUT5RZUZ4.jpg?auth=98a9062ce80180252ac6ac84c166a7cd179f38bd6c1ea17c9ea0d69084bec6d3&height=1440&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/01/almeida-ayer-perdimos-el-liderato-en-esta-ciudad-y-manana-esta-ciudad-recuperara-el-liderato-en-barcelona/",
-        "date": "2025-12-01 20:30:52",
-        "sentiment_score": -0.4334263876080513
-    },
-    {
-        "title": "Collboni recibe las llaves de la ciudad de Guadalajara (México) durante la FIL",
-        "image_url": "https://www.infobae.com/resizer/v2/BMYAZP5XBJBNREMJIBWKGCGPBY.jpg?auth=eca3e03e867c234f6a5480478c4c75a0a0d9c2b07c297dc148dd2ffb1cf73252&height=1525&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/01/collboni-recibe-las-llaves-de-la-ciudad-de-guadalajara-mexico-durante-la-fil/",
-        "date": "2025-12-01 22:15:33",
-        "sentiment_score": 0.048986587673425674
-    },
-    {
-        "title": "Planas confirma que China aplicará los acuerdos de regionalización para salvar las exportaciones de porcino",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/12/01/luis-planas-se-reune-con-representantes-del-sector-porcino.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2025/12/01/exportaciones-porcino-china-regionalizacion-peste-porcina-barcelona-1875273.html",
-        "date": "2025-12-01 22:15:23",
-        "sentiment_score": 0.4505153149366379
-    },
-    {
-        "title": "Planas confirma que China aplicará los acuerdos de regionalización para salvar las exportaciones de porcino",
-        "image_url": "https://www.infobae.com/resizer/v2/USYICC2J3BHUFFVSFXMTCR4BFM.jpg?auth=26cd6bb07a3674829f4be97524c095c7592890ffb05c175bb37b93c780394dd1&height=2878&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/01/planas-confirma-que-china-aplicara-los-acuerdos-de-regionalizacion-para-salvar-las-exportaciones-de-porcino/",
-        "date": "2025-12-01 22:15:15",
-        "sentiment_score": 0.4842310771346092
-    },
-    {
-        "title": "Venezolanos marcharán en 24 países apoyando Nobel de Paz a Machado",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/01173656/maria-corina-machado-su-mensaje-del-5-julio-2025.webp",
-        "tags": [
-            "vente venezuela",
-            "maría corina machado",
-            "nobel de la paz",
-            "mundo"
-        ],
-        "link": "https://www.elnacional.com/2025/12/venezolanos-marcharan-en-24-paises-apoyando-nobel-de-paz-a-machado/",
-        "date": "2025-12-01 22:14:39",
-        "sentiment_score": 0.16420522332191467
-    },
-    {
-        "title": "Sánchez prevé anunciar un gesto a Cataluña y responder a Feijóo por pedir \"ayuda\" a la patronal catalana para una moción",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/10/30/comparecencia-de-pedro-sanchez-por-el-caso-koldo-en-el-senado-29.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2025/12/01/sanchez-preve-anunciar-gesto-cataluna-responder-feijoo-ayuda-patronal-catalana-para-una-mocion-1875270.html",
-        "date": "2025-12-01 22:07:06",
-        "sentiment_score": 0.14151743799448013
-    },
-    {
-        "title": "La segunda mejor pizza de España está en el barrio Húmedo de León",
-        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2025/12/01/img5533-kCwG-U240417479256dJE-758x531@Leonoticias.jpg",
-        "tags": [
-            "espana",
-            "segunda",
-            "barrio",
-            "corazon",
-            "humedo",
-            "pizza",
-            "mejor",
-            "leon"
-        ],
-        "link": "https://www.elnortedecastilla.es/leon/segunda-mejor-pizza-espana-barrio-humedo-leon-20251201230448-nt.html",
-        "date": "2025-12-01 22:04:48",
-        "sentiment_score": 0.32695984840393066
-    },
-    {
-        "title": "La agenda ultra se impone a Català: València se queda sin zona de bajas emisiones arriesgando 150 millones",
-        "image_url": "https://static.eldiario.es/clip/2d6bb482-c9de-4f71-8ef1-55d751d42821_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "análisis",
-            "alicante",
-            "información",
-            "valencia",
-            "opinión",
-            "noticias",
-            "actualidad",
-            "comunidad valenciana",
-            "castellón"
-        ],
-        "link": "https://www.eldiario.es/comunitat-valenciana/valencia/agenda-ultra-impone-catala-valencia-queda-zona-bajas-emisiones-arriesgando-150-millones_1_12809961.html",
-        "date": "2025-12-01 22:00:57",
-        "sentiment_score": -0.03633427619934082
-    },
-    {
-        "title": "Oques Grasses anuncia un último concierto en el Cabró Rock antes de su despedida",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/18/691cc1cf23129.r_d.2839-2915-0.jpeg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/musica/20251201/11321453/oques-grasses-anuncia-ultimo-concierto-cabro-rock-despedida.html",
-        "date": "2025-12-01 22:00:11",
-        "sentiment_score": 0.0536327064037323
-    },
-    {
-        "title": "El descontrol sobre la población de jabalíes que se alimentan de basura pone en jaque 8.800 millones",
-        "image_url": "https://phantom-elmundo.uecdn.es/a26740b42107f331db250e5118108f79/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/01/17646160130176.jpg",
-        "tags": [
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/economia/2025/12/01/692de03afc6c83605e8b4579.html",
-        "date": "2025-12-01 21:50:55",
-        "sentiment_score": -0.7416982799768448
-    },
-    {
-        "title": "La rebeldía de Cecilio G., el trapero que hablaba con demonios: \"Si esto es el infierno, voy a repetir. Estoy condenado\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/9f5074e8908bc663f9dd9b5c9b28d1e9/f/image/jpeg/assets/multimedia/imagenes/2023/07/19/16897720720848.jpg",
-        "tags": [
-            "música",
-            "nlpremium",
-            "artículos juan diego madueño"
-        ],
-        "link": "https://www.elmundo.es/papel/2025/12/01/692dd634fc6c83310c8b4572.html",
-        "date": "2025-12-01 21:50:05",
-        "sentiment_score": -0.7902420870959759
-    },
-    {
-        "title": "Zarzuela repudia el vídeo en el que Juan Carlos I defiende su legado y a Felipe VI con el estilo de sus mensajes navideños",
-        "image_url": "https://s3.elespanol.com/2025/12/01/actualidad/1003744037966_260255182_1706x960.jpg",
-        "tags": [
-            "españa",
-            "felipe vi",
-            "juan carlos i",
-            "monarquía"
-        ],
-        "link": "https://www.elespanol.com/espana/20251202/zarzuela-repudia-video-juan-carlos-defiende-legado-felipe-vi-estilo-mensajes-navidenos/1003744037909_0.html",
-        "date": "2025-12-02 01:50:33",
-        "sentiment_score": -0.627048946917057
-    },
-    {
-        "title": "Del sol y la playa al nuevo refugio de inversión: así se consolida el lujo inmobiliario en España",
-        "image_url": "https://phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
-        "tags": [
-            "artículos daniela saltos"
-        ],
-        "link": "https://www.elmundo.es/economia/2025/12/02/691f054221efa0f36c8b45cc.html",
-        "date": "2025-12-02 01:28:29",
-        "sentiment_score": 0.7934756390750408
-    },
-    {
-        "title": "El Atlético de Madrid recorta distancias con Barça y Real Madrid: nueva entrada de inversores contra el poder de Goldman Sachs y Sixth Street",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/02/culemania/palco/1003742712619_15470223_1706x960.jpg",
-        "tags": [
-            "fondos de inversión",
-            "palco",
-            "atlético de madrid",
-            "fc barcelona",
-            "goldman sachs",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251202/atletico-madrid-barca-goldman-sachs-sixth-street/1003742712609_0.html",
-        "date": "2025-12-02 01:05:48",
-        "sentiment_score": -0.7523990944027901
-    },
-    {
-        "title": "Rodrygo Goes, desaparecido: juega el 49% de los minutos, pero sólo firma 36 tiros en 30 partidos con 9 meses sin gol",
-        "image_url": "https://s3.elespanol.com/2025/12/01/actualidad/1003744037340_260247121_1706x960.jpg",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "real madrid cf",
-            "rodrygo goes"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251202/rodrygo-goes-desaparecido-juega-minutos-solo-firma-tiros-partidos-meses-sin-gol/1003744037215_0.html",
-        "date": "2025-12-02 01:00:00",
-        "sentiment_score": 0.5871008038520813
-    },
-    {
-        "title": "01 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/01-dic-2025-partidazo-cope-20251202_3263284.html",
-        "date": "2025-12-02 00:50:00",
-        "sentiment_score": -0.367522694170475
-    },
-    {
-        "title": "Mariano Alierta Izuel",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/01/692dde379f51c.r_d.403-58-12500.jpeg",
-        "tags": [
-            "obituarios"
-        ],
-        "link": "https://www.eldebate.com/obituarios/20251202/aragones-cortes-constituyentes_361010.html",
-        "date": "2025-12-02 00:30:00",
-        "sentiment_score": -0.14446808397769928
-    },
-    {
-        "title": "Rafa Nadal, tras recibir el Premio Leyenda, confiesa que le atrae la idea de presidir el Real Madrid, aunque la ve “muy lejana”",
-        "image_url": "https://www.infobae.com/resizer/v2/K3RH4XSAABCCXOZFWERBPLVB6A.JPG?auth=c830639e70c5d4448dfe0fdcce869f7a86993fe6ee7c3e0ddb412076f00bda3a&height=2780&smart=true&width=4099",
-        "tags": [
-            "novak djokovic",
-            "carlos alcaraz",
-            "roger federer",
-            "españa-deportes",
-            "tenis",
-            "españa-noticias",
-            "rafael nadal",
-            "premios"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/02/rafa-nadal-tras-recibir-el-premio-leyenda-confiesa-que-le-atrae-la-idea-de-presidir-el-real-madrid-aunque-la-ve-muy-lejana/",
-        "date": "2025-12-02 00:24:13",
-        "sentiment_score": 0.36308205872774124
-    },
-    {
-        "title": "Guía del partido Barça-Atlético de Madrid de hoy: horario, dónde verlo y alineaciones",
-        "image_url": "https://static1.ara.cat/clip/fe300701-0885-4448-a321-19a97f2dd04b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "verlo",
-            "alineaciones",
-            "partido",
-            "atletico",
-            "hoy",
-            "barca",
-            "guia",
-            "madrid",
-            "horario"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/guia-partido-barca-atletico-madrid-hoy-horario-verlo-alineaciones_1_5580080.html",
-        "date": "2025-12-02 00:05:04",
-        "sentiment_score": 0.22975580394268036
-    },
-    {
-        "title": "Lanzarote reafirma su liderazgo internacional en turismo sostenible tras una jornada histórica en Jameos del Agua",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/73689b3b-999b-476e-b131-c4d370b4b096_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "liderazgo",
-            "lanzarote",
-            "agua",
-            "turismo sostenible",
-            "sostenibilidad",
-            "turismo"
-        ],
-        "link": "https://www.laprovincia.es/lanzarote/2025/12/02/lanzarote-reafirma-liderazgo-internacional-turismo-124331972.html",
-        "date": "2025-12-01 23:59:00",
-        "sentiment_score": 0.7182324454188347
-    },
-    {
-        "title": "Un árbol de Navidad de 120.000 euros",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/01/arbol-chaumet-kXHE-U240416277282WtF-758x531@RC.jpg",
-        "tags": [
-            "consumo",
-            "navidad",
-            "loewe"
-        ],
-        "link": "https://www.elnortedecastilla.es/sociedad/arbol-navidad-120000-euros-20251201001800-ntrc.html",
-        "date": "2025-12-01 23:44:43",
-        "sentiment_score": 0.7948522455990314
-    },
-    {
-        "title": "¿Se ha olvidado el PNV de su apoyo al Alzamiento en Álava y Navarra?",
-        "image_url": "https://s3.elespanol.com/2025/12/01/actualidad/1003744036469_260237044_1706x960.jpg",
-        "tags": [
-            "tribunas",
-            "pnv",
-            "país vasco",
-            "opinión",
-            "guernica",
-            "tribunas de opinión"
-        ],
-        "link": "https://www.elespanol.com/opinion/tribunas/20251202/olvidado-pnv-apoyo-alzamiento-alava-navarra/1003744036465_12.html",
-        "date": "2025-12-02 01:32:57",
-        "sentiment_score": -0.6312823481857777
-    },
-    {
-        "title": "Feijóo trata de calmar al PP ante una moción de censura con Junts: \"Sus condiciones son inaceptables\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
-        "tags": [
-            "artículos víctor mondelo",
-            "pp",
-            "alberto núñez feijóo",
-            "carles puigdemont",
-            "pedro sánchez",
-            "junts per catalunya"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2025/12/02/692dde63e85ece95328b458a.html",
-        "date": "2025-12-02 01:28:31",
-        "sentiment_score": -0.8955136463046074
-    },
-    {
-        "title": "La peste porcina dispara el temor a que suba la carne 'refugio' del súper mientras 20 países cierran sus mercados",
-        "image_url": "https://s3.elespanol.com/2025/12/01/actualidad/1003744037540_260249477_1706x960.jpg",
-        "tags": [
-            "andalucía",
-            "cerdos",
-            "agricultura",
-            "economía",
-            "alimentación",
-            "inflación"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/20251202/peste-porcina-dispara-temor-suba-carne-refugio-super-paises-cierran-mercados/1003744037398_0.html",
-        "date": "2025-12-02 01:20:15",
-        "sentiment_score": -0.9121481077745557
-    },
-    {
-        "title": "Un café con Santiago",
-        "image_url": "https://s3.elespanol.com/2020/01/27/el-cultural/462967824_218788855_1706x960.jpg",
-        "tags": [
-            "un café con santiago",
-            "ciencia",
-            "cerebro",
-            "neurociencia",
-            "santiago ramón y cajal"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/opinion/un-cafe-con-santiago/20251202/cafe-santiago/1003744035881_13.html",
-        "date": "2025-12-02 00:55:00",
-        "sentiment_score": 0.7416304014623165
-    },
-    {
-        "title": "Elvira Dyangani Ose (MACBA): \"El museo es un derecho, un lugar en el que suceden experiencias\"",
-        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027309_260115224_1706x960.jpg",
-        "tags": [
-            "entrevistas",
-            "barcelona",
-            "arte",
-            "macba - museo de arte contemporáneo de barcelona",
-            "museos"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20251202/elvira-dyangani-ose-macba-museo-derecho-lugar-suceden-experiencias/1003744027247_0.html",
-        "date": "2025-12-02 00:55:00",
-        "sentiment_score": 0.8304712232202291
-    },
-    {
-        "title": "La estupidez tiene graves consecuencias",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2025/12/01/692dda70a5c4d.png",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20251202/estupidez-tiene-graves-consecuencias_360994.html",
-        "date": "2025-12-02 00:30:00",
-        "sentiment_score": -0.8688430041074753
-    },
-    {
-        "title": "Barcelona tendría decidido el nombre de su próximo fichaje en defensa",
-        "image_url": "https://pxcdn.meridiano.net/122025/1764634484150.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/barcelona-tendria-decidido-el-nombre-de-su-proximo-fichaje-en-defensa-202512120150",
-        "date": "2025-12-02 00:15:00",
-        "sentiment_score": -0.07423056662082672
-    },
-    {
         "title": "Samuel Navalón inicia una nueva etapa de la mano de Manuel Amador",
         "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/02/692e895e75258.r_d.512-317-4245.jpeg",
         "tags": [
@@ -2723,5 +2263,222 @@ export default [
         "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/05/cruzando-dedos-peste-porcina-propague-124472861.html",
         "date": "2025-12-05 06:00:44",
         "sentiment_score": -0.4818791002035141
+    },
+    {
+        "title": "Continúa la incertidumbre en las elecciones de Honduras",
+        "image_url": "https://static.wixstatic.com/media/335561_c9a7479ee4b84339b69542022e4937ee~mv2.png/v1/fit/w_341,h_382,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/contin%C3%BAa-la-incertidumbre-en-las-elecciones-de-honduras",
+        "date": "2025-12-05 12:35:07",
+        "sentiment_score": -0.08074232935905457
+    },
+    {
+        "title": "Muere Alfonso Ussía",
+        "image_url": "https://cdn.mnmstatic.net/cache/3e/ec/media_thumb-link-4123745.webp?1764932946=",
+        "tags": [
+            "obituario",
+            "columnista",
+            "actualidad",
+            "ussía"
+        ],
+        "link": "https://www.meneame.net/story/muere-alfonso-ussia",
+        "date": "2025-12-05 14:25:04",
+        "sentiment_score": -0.2043183296918869
+    },
+    {
+        "title": "Cañizares urge a Renfe a mejorar el servicio ferroviario entre Ciudad Real y Madrid",
+        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
+        "tags": [
+            "ciudad real",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/ciudad_real/canizares-renfe-mejorar-servicio-ferroviario-ciudad-real-madrid-793706-1.html",
+        "date": "2025-12-05 17:10:00",
+        "sentiment_score": 0.15312886610627174
+    },
+    {
+        "title": "Guardiola vuelve a sacar su lado más antiespañolista: «Me gustaría que el Mundial lo ganara Inglaterra»",
+        "image_url": "https://okdiario.com/img/2025/12/05/pep-guardiola.-getty.jpg",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "selección de inglaterra fútbol",
+            "selección de españa fútbol",
+            "pep guardiola"
+        ],
+        "link": "https://okdiario.com/deportes/guardiola-vuelve-sacar-lado-mas-antiespanolista-gustaria-que-mundial-lo-ganara-inglaterra-15889206",
+        "date": "2025-12-05 17:07:38",
+        "sentiment_score": 0.10572728514671326
+    },
+    {
+        "title": "El Supremo da la razón al Real Madrid frente a LaLiga sobre el reparto de derechos audiovisuales para la temporada 15/16",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/05/69330bd958cd02-60326258.r_d.1273-871.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/supremo-da-razon-real-madrid-frente-laliga-sobre-reparto-derechos-audiovisuales-para-temporada-15-16_6907359_0.html",
+        "date": "2025-12-05 17:05:35",
+        "sentiment_score": -0.7882988136261702
+    },
+    {
+        "title": "Presentada la San Silvestre Vallecana 2025, la carrera \"más bonita del mundo\"",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2025/12/05/6933106db5af8.jpeg",
+        "tags": [
+            "dn_running"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/deportes/dn-running/2025/12/05/presentada-san-silvestre-vallecana-2025-carrera-bonita-mundo-802557-51.html",
+        "date": "2025-12-05 17:05:23",
+        "sentiment_score": 0.8179874941706657
+    },
+    {
+        "title": "Valverde: “Tenemos ganas de resarcirnos”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/93f2d2bf-09cb-4b65-90b1-b43d647ab5cb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valverde",
+            "madrid",
+            "atletico",
+            "ganas",
+            "resarcirnos",
+            "athletic"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/12/05/valverde-ganas-resarcirnos-athletic-atletico-madrid-10439621.html",
+        "date": "2025-12-05 17:04:10",
+        "sentiment_score": 0.1814224272966385
+    },
+    {
+        "title": "Valverde: \"Veo muy bien al Atlético, tiene una mentalidad súper competitiva desde hace años\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251205175616_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-valverde-veo-muy-bien-atletico-tiene-mentalidad-super-competitiva-hace-anos-20251205175616.html",
+        "date": "2025-12-05 16:56:16",
+        "sentiment_score": 0.3436722904443741
+    },
+    {
+        "title": "Supercopa de España 2026 EN VIVO y GRATIS para Venezuela: fechas y horarios de las semifinales y la gran final",
+        "image_url": "https://pxcdn.meridiano.net/122025/1764953593756.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/supercopa-de-espana-2026-en-vivo-y-gratis-para-venezuela-fechas-y-horarios-de-las-semifinales-y-la-gran-final-202512512540",
+        "date": "2025-12-05 16:54:00",
+        "sentiment_score": 0.3548505771905184
+    },
+    {
+        "title": "Noboa defendió sus viajes al exterior: “Cada uno mejora la vida de los ecuatorianos”",
+        "image_url": "https://www.infobae.com/resizer/v2/L4ICNXGXKVDWJLUR77IKX7QD3E.jpg?auth=69a14f2e00315ccfead5f628ef30dd171a3d8ab1b94c52930fcee467c533c3ef&height=4150&smart=true&width=6225",
+        "tags": [
+            "ecuador",
+            "daniel noboa",
+            "viajes noboa",
+            "españa"
+        ],
+        "link": "https://www.infobae.com/america/america-latina/2025/12/05/noboa-defendio-sus-viajes-al-exterior-cada-uno-mejora-la-vida-de-los-ecuatorianos/",
+        "date": "2025-12-05 16:51:54",
+        "sentiment_score": 0.15835782885551453
+    },
+    {
+        "title": "Azkuna Zentroa Bilbao acoge hasta el 14 de diciembre 'Fórmulas de cinética doméstica', de la artista Beatriz Sánchez",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251205174402_260.jpg",
+        "tags": [
+            "país vasco"
+        ],
+        "link": "https://www.europapress.es/euskadi/noticia-azkuna-zentroa-bilbao-acoge-14-diciembre-formulas-cinetica-domestica-artista-beatriz-sanchez-20251205174402.html",
+        "date": "2025-12-05 16:44:02",
+        "sentiment_score": 0.21331021562218666
+    },
+    {
+        "title": "Ayuso alerta sobre el 'procés' socialista español y sitúa a la prensa libre como protagonista del Día de la Constitución",
+        "image_url": "https://s1.staticld.com/2025/12/05/isabel-diaz-ayuso-2-051225.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.libertaddigital.com/madrid/2025-12-05/ayuso-alerta-sobre-el-proces-socialista-espanol-y-situa-a-la-prensa-libre-como-protagonista-del-dia-de-la-constitucion-7329750/",
+        "date": "2025-12-05 16:40:01",
+        "sentiment_score": 0.1912814863026142
+    },
+    {
+        "title": "El Barça, con miedo a una nueva invasión de aficionados del Eintracht: detecta 100 casos en la reventa de entradas",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744044959_260346566_1706x960.jpg",
+        "tags": [
+            "fútbol",
+            "fc barcelona",
+            "deportes",
+            "joan laporta i estruch"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251205/barca-miedo-nueva-invasion-aficionados-eintracht-detecta-casos-reventa-entradas/1003744044883_0.html",
+        "date": "2025-12-05 17:03:09",
+        "sentiment_score": -0.13538624346256256
+    },
+    {
+        "title": "El Gobierno investiga si el brote de peste porcina se ha generado en un laboratorio",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251205180200_120.jpg",
+        "tags": [
+            "vídeos"
+        ],
+        "link": "https://www.europapress.es/videos/video-gobierno-investiga-si-brote-peste-porcina-generado-laboratorio-20251205180200.html",
+        "date": "2025-12-05 17:02:00",
+        "sentiment_score": -0.3587379939854145
+    },
+    {
+        "title": "Fallece con 88 años el hostelero salmantino Silvestre Sánchez",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/6e3b4003-35d6-46c8-bb0a4915665b239b.jpg",
+        "tags": [
+            "barcelona",
+            "enfermedades",
+            "cataluña"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z4e99a7f4-d9c6-4454-9023d166ebe1463e/202512/fallece-con-88-anos-el-hostelero-salmantino-silvestre-sanchez",
+        "date": "2025-12-05 17:01:38",
+        "sentiment_score": -0.08268862962722778
+    },
+    {
+        "title": "Lewandowski, Julián Álvarez y el fichaje sorpresa de Laporta que amenaza a los dos para ser el ‘9’ del Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/05/culemania/primer-equipo/1003742713931_15486400_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "barça",
+            "primer equipo",
+            "fichajes barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251205/lewandowski-julian-alvarez-fichaje-sorpresa-laporta-barca/1003742713916_0.html",
+        "date": "2025-12-05 17:01:14",
+        "sentiment_score": -0.32252177596092224
+    },
+    {
+        "title": "Illa defiende el seguimiento que ha hecho de la peste porcina desde México y ensalza la actuación del Govern",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251205175052.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/illa-defiende-el-seguimiento-que-ha-hecho-de-la-peste-porcina-desde-mxico-y-ensalza-la-actuacin-del-govern/",
+        "date": "2025-12-05 17:00:05",
+        "sentiment_score": -0.5200438275933266
+    },
+    {
+        "title": "NN Working presenta Travessera de les Corts, más de 1.300 m2 de oficinas diáfanas reformadas en Barcelona",
+        "image_url": "https://edatv.news/filesedc/uploads/image/post/2025/12/nn-working-creation-1b_1200_800.webp",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://edatv.news/actualidad/nn-working-presenta-travessera-corts-mas-1300-m-oficinas-diafanas-reformadas-barcelona",
+        "date": "2025-12-05 17:00:00",
+        "sentiment_score": 0.3074312321841717
+    },
+    {
+        "title": "El PP pide comparecer al director del IRTA por el posible brote de PPA de un laboratorio",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251205175621_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-pp-pide-comparecer-director-irta-posible-brote-ppa-laboratorio-20251205175621.html",
+        "date": "2025-12-05 16:56:21",
+        "sentiment_score": -0.292040579020977
     }
 ];
