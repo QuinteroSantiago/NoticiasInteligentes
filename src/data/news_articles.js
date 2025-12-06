@@ -1,84 +1,5 @@
 export default [
     {
-        "title": "66.000 m2 de pisos, tiendas y restaurantes: el macrocomplejo que acaba de abrir sus puertas en el centro de Madrid",
-        "image_url": "https://okdiario.com/img/2025/12/02/66.000-m2-de-pisos-tiendas-y-restaurantes-el-macrocomplejo-que-acaba-de-abrir-sus-puertas-en-el-centro-de-madrid.jpg",
-        "tags": [
-            "madrid",
-            "españa",
-            "okd",
-            "tiendas"
-        ],
-        "link": "https://okdiario.com/madrid/66-000-m2-pisos-tiendas-restaurantes-macrocomplejo-que-acaba-abrir-sus-puertas-centro-madrid-15867480",
-        "date": "2025-12-02 17:10:34",
-        "sentiment_score": 0.2398148775100708
-    },
-    {
-        "title": "Un estudio de UGT sitúa a los docentes de Castilla-La Mancha entre los mejor pagados de España: hasta 2.906 € al mes",
-        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039361_260273092_1706x960.jpg",
-        "tags": [
-            "ugt castilla la mancha",
-            "educación",
-            "educación y universidad"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/cultura/educacion-y-universidad/20251202/estudio-ugt-situa-docentes-castilla-la-mancha-mejor-pagados-espana-eur-mes/1003744039329_0.html",
-        "date": "2025-12-02 17:06:47",
-        "sentiment_score": -0.05292624235153198
-    },
-    {
-        "title": "Xabi Alonso comprende la decisión de parar de Araujo: \"No son máquinas\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f1ebab7e-af92-4b1f-8f61-7edf62009947_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "pi vídeos",
-            "ronald araújo",
-            "xabi alonso",
-            "real madrid"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/videos/deportes/2025/12/02/xabi-alonso-comprende-decision-parar-araujo-124368360.html",
-        "date": "2025-12-02 17:06:29",
-        "sentiment_score": -0.786918394267559
-    },
-    {
-        "title": "La UAGR-COAG apoya las medidas para controlar las poblaciones de jabalíes y evitar la expansión de la peste porcina",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "la rioja"
-        ],
-        "link": "https://www.europapress.es/la-rioja/noticia-uagr-coag-apoya-medidas-controlar-poblaciones-jabalies-evitar-expansion-peste-porcina-20251202181053.html",
-        "date": "2025-12-02 17:10:53",
-        "sentiment_score": -0.05218911170959473
-    },
-    {
-        "title": "El grupo musical del actor Keanu Reeves actuará en Barcelona el 7 de julio",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251202180756_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-grupo-musical-actor-keanu-reeves-actuara-barcelona-julio-20251202180756.html",
-        "date": "2025-12-02 17:07:56",
-        "sentiment_score": 0.14955359883606434
-    },
-    {
-        "title": "Sàmper inaugura la nueva fábrica de Tucai en Vietnam, que ocupará inicialmente a 50 personas",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251202180658_260.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-samper-inaugura-nueva-fabrica-tucai-vietnam-ocupara-inicialmente-50-personas-20251202180658.html",
-        "date": "2025-12-02 17:06:58",
-        "sentiment_score": 0.3912874273955822
-    },
-    {
-        "title": "Un mercado local, tacos y rap: la ruta de Collboni por Guadalajara (México) durante la FIL",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4a4557d9-d9e6-4874-b25f-91f039914a87_16-9-aspect-ratio_default_1419314.jpg",
-        "tags": [
-            "jaume collboni"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20251202/mercado-local-tacos-rap-ruta-124368256",
-        "date": "2025-12-02 17:06:55",
-        "sentiment_score": 0.13644419610500336
-    },
-    {
         "title": "El Barça aprende a sufrir: remontada de mérito sobre el Atlético y más lejos del Real Madrid en la Liga",
         "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/02/culemania/primer-equipo/1003742712913_15473580_1706x960.jpg",
         "tags": [
@@ -2703,5 +2624,170 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2025/12/06/serrat-recibe-un-doctorado-honoris-causa-que-fortalece-su-cadena-de-amor-por-mexico/",
         "date": "2025-12-06 02:00:27",
         "sentiment_score": 0.7861582338809967
+    },
+    {
+        "title": "Simoneta, la prima más discreta y solidaria del rey que vive entre lujo y artesanía en Madrid",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/simoneta-gomez-acebo-vida.jpeg",
+        "tags": [
+            "celebrities",
+            "rey felipe vi",
+            "familia real española",
+            "gente"
+        ],
+        "link": "https://theobjective.com/gente/2025-12-06/simoneta-prima-discreta-solidaria-rey-madrid/",
+        "date": "2025-12-06 06:30:00",
+        "sentiment_score": -0.37129591405391693
+    },
+    {
+        "title": "Segovia cambia su fisonomía en su cuarenta aniversario como Ciudad Patrimonio",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/04-1w.jpg",
+        "tags": [
+            "patrimonio",
+            "segovia",
+            "portada principal"
+        ],
+        "link": "https://eladelantado.com/segovia-cambia-su-fisonomia-en-su-cuarenta-aniversario-como-ciudad-patrimonio/",
+        "date": "2025-12-06 06:08:02",
+        "sentiment_score": 0.2577167972922325
+    },
+    {
+        "title": "“El problema en Cádiz no es el turismo, es la falta de vivienda disponible y accesible”",
+        "image_url": "https://static.grupojoly.com/clip/df49698b-21ef-4467-b403-e1143ab412c3_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias cádiz"
+        ],
+        "link": "https://www.diariodecadiz.es/noticias-provincia-cadiz/problema-cadiz-no-turismo-falta-vivienda-disponible-accesible_0_2005391987.html",
+        "date": "2025-12-06 06:00:32",
+        "sentiment_score": -0.9040005262941122
+    },
+    {
+        "title": "El Alavés, ante la opción de dar un salto clasificatorio en el derbi",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/30cb3587-ed17-454c-b19c-2640d6aefe05_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "clasificatorio",
+            "derbi",
+            "dar",
+            "alavés",
+            "opcion",
+            "previa",
+            "salto",
+            "coudet",
+            "real sociedad"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2025/12/06/opcion-dar-salto-clasificatorio-derbi-alaves-real-sociedad-previa-coudet-derbi-10439947.html",
+        "date": "2025-12-06 06:00:23",
+        "sentiment_score": 0.04307425022125244
+    },
+    {
+        "title": "Betis - Barcelona: Horario, alineaciones y dónde ver el partido de LaLiga EA Sports, en directo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/05/51CD88D6-5B0D-454E-BCC4-95FF3F772DB9/raphinha-celebra-gol-barcelona_98.jpg?crop=3166%2C1781%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "deportes",
+            "antena 3 noticias",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/betis-barcelona-horario-alineaciones-donde-ver-partido-laliga-sports-directo_202512066933c6776e5e5012dcdc84c5.html",
+        "date": "2025-12-06 06:00:23",
+        "sentiment_score": 0.019840752705931664
+    },
+    {
+        "title": "El Espanyol – Rayo será un duelo de nervios tras el batacazo copero",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/12/entrenamiento-espanyol-rcde-stadium-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lagradaonline.com/espanyol-rayo-eliminacion-copa-atletico-baleares/",
+        "date": "2025-12-06 06:00:16",
+        "sentiment_score": -0.8098300136625767
+    },
+    {
+        "title": "Empieza el mes de la Navidad: los mejores planes para celebrar las época más bonita del año sola, con amigas o en pareja",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/03/693054c7a267a3-64688764.jpeg",
+        "tags": [
+            "estar bien"
+        ],
+        "link": "https://www.20minutos.es/mujer/estar-bien/empieza-mes-navidad-mejores-planes-celebrar-epoca-bonita-ano-sola-amigas-pareja_6907109_0.html",
+        "date": "2025-12-06 06:00:00",
+        "sentiment_score": 0.796212449669838
+    },
+    {
+        "title": "El árbitro del Espanyol – Rayo: Sánchez Martínez, un auténtico “gafe” para los vallecanos, pitará el Espanyol – Rayo con Melero López en la sala VOR",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/arbitro-partido-logo-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lagradaonline.com/arbitro-espanyol-rayo-sanchez-martinez-liga-25-26-jornada-15/",
+        "date": "2025-12-06 05:57:37",
+        "sentiment_score": 0.4046759605407715
+    },
+    {
+        "title": "Sonia Moreno: \"Marruecos lo sabe todo de nosotros, siempre los hemos subestimado\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/04/la-periodista-asturiana-sonia-moreno-autora-de-marruecos-el-vecino-incomodo-en-una-imagen-promocional.jpeg",
+        "tags": [
+            "global"
+        ],
+        "link": "https://www.huffingtonpost.es/global/sonia-moreno-marruecos-lo-sabe-todo-de-nosotros-siempre-los-hemos-subestimado.html",
+        "date": "2025-12-06 05:51:27",
+        "sentiment_score": -0.3449540138244629
+    },
+    {
+        "title": "Resultados y clasificación de la Jornada 15 de LaLiga EA Sports 25-26 | Oviedo y Mallorca firman un 0-0 con sabor a frustración: dominio carbayón, Aarón decisivo y final loco con rojas a Viñas y Cazorla.",
+        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/12/laliga-ea-sports-25-26-jornada-15-lunes-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://www.lagradaonline.com/laliga-jornada-15-resultados-clasificacion-partidos-espanyol-rayo-viernes/",
+        "date": "2025-12-06 05:49:51",
+        "sentiment_score": -0.3231518566608429
+    },
+    {
+        "title": "Sergio Gutiérrez, asesor inmobiliario, se pronuncia sobre el retraso de Verifactu: \"No me la vuelven a colar\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/959d68b6-2d11-4f85-8fd8-5112cac52e37_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "hacienda",
+            "pymes",
+            "trabajadores autónomos"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20251206/sergio-gutierrez-asesor-inmobiliario-retraso-verifactu-dv-124480012",
+        "date": "2025-12-06 06:20:26",
+        "sentiment_score": -0.3547810763120651
+    },
+    {
+        "title": "Peste porcina africana en Catalunya, en directo Última hora de los casos, jabalís muertos y localidades afectadas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6bdc966d-77d7-4319-a2d9-38f5c5211624_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "peste porcina",
+            "animales"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20251206/peste-porcina-cataluna-ultima-hora-directo-124511658",
+        "date": "2025-12-06 06:02:00",
+        "sentiment_score": -0.9340293286368251
+    },
+    {
+        "title": "Extremadura pone coto a la peste porcina: síntomas, transmisión y mortalidad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c3a62c5b-059c-4ac6-b06b-a6869d58430a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cerdos",
+            "jabalíes",
+            "sanidad animal",
+            "peste porcina"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/06/extremadura-porcina-peste-sanidad-animal-jabali-cerdos-124511513.html",
+        "date": "2025-12-06 06:00:51",
+        "sentiment_score": -0.7637721877545118
+    },
+    {
+        "title": "Casa Mas y La Marató comparten mesa, sabor y compromiso",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/599f6435-eaa5-41d0-8425-9ddb6bfca8a4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "investigación",
+            "cáncer",
+            "solidaridad",
+            "recetas",
+            "innovación"
+        ],
+        "link": "https://www.lacronicabadajoz.com/economia/activos/2025/12/06/casa-marato-comparten-mesa-sabor-124511483.html",
+        "date": "2025-12-06 06:00:46",
+        "sentiment_score": 0.584743058308959
     }
 ];
