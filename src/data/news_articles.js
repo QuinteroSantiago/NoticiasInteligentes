@@ -1,19 +1,5 @@
 export default [
     {
-        "title": "La noche violenta del Frente Atlético en un karaoke de Ventas",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/e9/media_thumb-link-4122934.webp?1764723546=",
-        "tags": [
-            "actualidad",
-            "frente atlético",
-            "noche violenta",
-            "ventas",
-            "karaoke"
-        ],
-        "link": "https://www.meneame.net/story/noche-violenta-frente-atletico-karaoke-ventas",
-        "date": "2025-12-03 12:40:02",
-        "sentiment_score": -0.7382606025785208
-    },
-    {
         "title": "Athletic Club - Real Madrid, en directo hoy: resultado y goles del partido de LaLiga EASports",
         "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2576857.jpg",
         "tags": [
@@ -2812,5 +2798,228 @@ export default [
         "link": "https://okdiario.com/deportes/zarpazo-del-athletic-aleja-atletico-liga-15895029",
         "date": "2025-12-06 21:59:35",
         "sentiment_score": -0.45337817072868347
+    },
+    {
+        "title": "Aiko quiere ser emperatriz",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "emperatriz",
+            "aiko",
+            "quiere"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/aiko-quiere-emperatriz_0_2005404331.html",
+        "date": "2025-12-07 02:08:54",
+        "sentiment_score": -0.20108169317245483
+    },
+    {
+        "title": "Centros de datos que esperan \"enchufarse\" a la red: 12 GW de potencia y 240.000 millones de euros que podrían invertirse",
+        "image_url": "https://s3.elespanol.com/2025/10/04/actualidad/1003743954977_259177288_1706x960.jpg",
+        "tags": [
+            "energía - consumo",
+            "centros de datos",
+            "observatorio de la energía",
+            "electricidad",
+            "almacenamiento energético"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/energia/20251207/centros-datos-esperan-enchufarse-red-gw-potencia-millones-euros-podrian-invertirse/1003744044684_0.html",
+        "date": "2025-12-07 01:30:14",
+        "sentiment_score": 0.34685781598091125
+    },
+    {
+        "title": "Al CB Canarias solo le vale un encuentro redondo para ganarle al Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f25640af-8771-4cb9-95f5-b1e11f059322_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid",
+            "txus vidorreta",
+            "canarias",
+            "tenerife",
+            "cb canarias"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/07/cb-canarias-le-vale-encuentro-124533404.html",
+        "date": "2025-12-07 01:16:45",
+        "sentiment_score": -0.24150358140468597
+    },
+    {
+        "title": "Mbappé y Vinicius para enfrentar al Celta en el Bernabéu ante medirse al City",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/26/2025102618542915372.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/madrid-afila-mbappe-vinicius-seguir-vivo-antes-city/20251207020408366113.html",
+        "date": "2025-12-07 01:04:08",
+        "sentiment_score": -0.6578100882470608
+    },
+    {
+        "title": "Mbappé y Vinicius listos para el Celta en el Bernabéu antes del duelo con el City",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/26/2025102618542915372.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/madrid-afila-mbappe-vinicius-seguir-vivo-antes-city/20251207020216366113.html",
+        "date": "2025-12-07 01:02:16",
+        "sentiment_score": -0.6578100882470608
+    },
+    {
+        "title": "Álex Seco te asegura entre un 12 y un 15% del beneficio al invertir con él en vivienda: \"En un año ganas 1.500€ si pones 10.000€\"",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744044843_260345061_1706x960.jpg",
+        "tags": [
+            "sector inmobiliario",
+            "sociedad",
+            "madrid",
+            "comunidad de madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251207/alex-seco-asegura-beneficio-invertir-vivienda-ano-ganas-pones/1003744038425_0.html",
+        "date": "2025-12-07 01:00:00",
+        "sentiment_score": 0.6312936898320913
+    },
+    {
+        "title": "Eduardo Casanova: \"Soy más amigo de Satán, la Iglesia ha hecho muchísimo daño a la hora de silenciar el VIH\"",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045102_260348532_1706x960.jpg",
+        "tags": [
+            "porfolio",
+            "entrevistas",
+            "eduardo casanova",
+            "reportajes",
+            "actores"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251207/eduardo-casanova-amigo-satan-iglesia-hecho-muchisimo-dano-hora-silenciar-vih/1003744044965_0.html",
+        "date": "2025-12-07 00:40:00",
+        "sentiment_score": -0.5187882483005524
+    },
+    {
+        "title": "Sánchez, del macromachismo al micromachismo: de las saunas de Sabiniano a las escorts de Ábalos y la bragueta de Salazar",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045127_260348923_1706x960.jpg",
+        "tags": [
+            "acoso sexual",
+            "josé luis ábalos",
+            "machismo",
+            "porfolio",
+            "pedro sánchez",
+            "víctor ábalos",
+            "reportajes",
+            "begoña gómez"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251207/sanchez-macromachismo-micromachismo-saunas-sabiniano-escorts-abalos-bragueta-salazar/1003744039239_0.html",
+        "date": "2025-12-07 00:40:00",
+        "sentiment_score": -0.8119309023022652
+    },
+    {
+        "title": "Los puentes de Laporta funcionan: la Superliga, dispuesta a negociar con la UEFA (con condiciones)",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/06/culemania/palco/1003742695161_15300500_1706x960.jpg",
+        "tags": [
+            "nasser al-khelaifi",
+            "florentino pérez",
+            "joan laporta",
+            "barça",
+            "superliga",
+            "uefa",
+            "palco",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251207/laporta-funcionan-superliga-dispuesta-negociar-uefa-condiciones/1003742714166_0.html",
+        "date": "2025-12-07 00:06:33",
+        "sentiment_score": 0.26314011216163635
+    },
+    {
+        "title": "2a PARTE | 06 DIC 2025 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/2a-parte-06-dic-2025-juego-20251207_3266944.html",
+        "date": "2025-12-07 00:01:27",
+        "sentiment_score": -0.026996612548828125
+    },
+    {
+        "title": "Paco",
+        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "paco"
+        ],
+        "link": "https://www.diariodejerez.es/opinion/articulos/paco_0_2005404338.html",
+        "date": "2025-12-07 02:08:57",
+        "sentiment_score": -0.2162807285785675
+    },
+    {
+        "title": "Shakira y Piqué sorprenden con una posible tregua: se rumora una reconciliación tras retomar el diálogo sin intermediarios",
+        "image_url": "https://www.infobae.com/resizer/v2/PFBSNACZZ5FDXMPPRPYPNHXEGQ.jpg?auth=a89d245965cf06892022fab595893d0c801aa82d9cbb63502362a32ec2e00acc&height=540&smart=true&width=960",
+        "tags": [
+            "shakira",
+            "colombia-entretenimiento",
+            "hijos de shakira",
+            "tour shakira",
+            "reconciliación shakira",
+            "shakira y piqué",
+            "gerard piqué",
+            "colombia-noticias"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/12/07/shakira-y-pique-sorprenden-con-una-posible-tregua-se-rumora-una-reconciliacion-tras-retomar-el-dialogo-sin-intermediarios/",
+        "date": "2025-12-07 01:02:01",
+        "sentiment_score": -0.13514091074466705
+    },
+    {
+        "title": "El imperio de Julita, con 9 tiendas 'rosas' de tartas de queso, llega a Alcalá: \"Facturo 4.000 euros al día en cada una\"",
+        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043186_260323355_1706x960.jpg",
+        "tags": [
+            "tienda",
+            "ocio",
+            "tiendas",
+            "tarta",
+            "queso",
+            "alcalá de henares"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20251207/imperio-julita-tiendas-rosas-tartas-queso-llega-alcala-facturo-euros-dia/1003744043061_0.html",
+        "date": "2025-12-07 01:00:00",
+        "sentiment_score": -0.12361681461334229
+    },
+    {
+        "title": "Marwa Arsanios: mapas de desposesión y resistencia en el Artium de Vitoria",
+        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027704_260120524_1706x960.jpg",
+        "tags": [
+            "vitoria (municipio)",
+            "arte",
+            "ec-critica-arte",
+            "exposiciones"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20251207/marwa-arsanios-mapas-desposesion-resistencia-artium-vitoria/1003744027662_0.html",
+        "date": "2025-12-07 00:55:00",
+        "sentiment_score": 0.3419988378882408
+    },
+    {
+        "title": "El Athletic manda al Atlético a 9 puntos del lidertato del Barça",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/07/2025120701463953434.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/alex-berenguer-manda-atletico-9-pu/20251207014702366112.html",
+        "date": "2025-12-07 00:47:02",
+        "sentiment_score": -0.4873180687427521
+    },
+    {
+        "title": "Leipzig-Eintracht Frankfurt: Set en blanco en contra antes del Camp Nou (6-0)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/06/image-b5024126-480c-495b-8d33-d37ed7f9e21a-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/futbol/bundesliga/2025-2026/leipzig-eintracht-frankfurt-resumen-resultado-goles-jornada-13-highlights-hoy_vid60040711/video.shtml",
+        "date": "2025-12-07 00:30:59",
+        "sentiment_score": 0.201725572347641
+    },
+    {
+        "title": "Jorge Mendes se reinventa y gana más poder en el Barça: Laporta reconstruye las secciones bajo la bandera de Gestifute",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/05/culemania/primer-equipo/1003742713945_15486619_1706x960.jpg",
+        "tags": [
+            "lamine yamal",
+            "fcbfemeni",
+            "barça de balonmano",
+            "alejandro balde",
+            "palco",
+            "jorge mendes",
+            "barça femenino"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251207/jorge-mendes-reinventa-barca-laporta-reconstruye-gestifute/1003742713784_0.html",
+        "date": "2025-12-07 00:06:53",
+        "sentiment_score": -0.0018222033977508545
     }
 ];
