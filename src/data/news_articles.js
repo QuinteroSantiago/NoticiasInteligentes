@@ -1,228 +1,5 @@
 export default [
     {
-        "title": "Athletic Club - Real Madrid, en directo hoy: resultado y goles del partido de LaLiga EASports",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2576857.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/athletic-club-real-madrid-en-directo-hoy-ultima-hora-resultado-y-goles-del-partido-de-laliga.html",
-        "date": "2025-12-03 17:10:21",
-        "sentiment_score": -0.3561462163925171
-    },
-    {
-        "title": "17:00H | 03 DIC 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-03-dic-2025-tarde-20251203_3264940.html",
-        "date": "2025-12-03 17:08:00",
-        "sentiment_score": -0.19738715887069702
-    },
-    {
-        "title": "Odeleite: el pueblo navideño que recuerda a un auténtico pesebre en la sierra del Algarve",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251203180228_690.jpg",
-        "tags": [
-            "nacional",
-            "turismo"
-        ],
-        "link": "https://www.europapress.es/turismo/nacional/noticia-odeleite-pueblo-navideno-recuerda-autentico-pesebre-sierra-algarve-20251203180228.html",
-        "date": "2025-12-03 17:02:28",
-        "sentiment_score": 0.09666851162910461
-    },
-    {
-        "title": "Los dos únicos titulares del Athletic que le han marcado al Madrid",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f94d3159-6436-4563-8d75-9e4ff4b14efb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "le",
-            "titulares",
-            "athletic",
-            "han",
-            "unicos"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/12/03/unicos-titulares-athletic-le-han-10430867.html",
-        "date": "2025-12-03 17:01:58",
-        "sentiment_score": 0.0838216096162796
-    },
-    {
-        "title": "Publican NeuMap , el primer atlas que redefine el papel de los neutrófilos en la salud e infección",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251203171528.jpg?fit=919%2C735&ssl=1",
-        "tags": [
-            "sanidad"
-        ],
-        "link": "https://cronicadecantabria.com/cr/publican-neumap-el-primer-atlas-que-redefine-el-papel-de-los-neutrfilos-en-la-salud-e-infeccin/",
-        "date": "2025-12-03 17:00:09",
-        "sentiment_score": -0.2862296402454376
-    },
-    {
-        "title": "Espanyol, Celta, Valencia y Sevilla quieren ilusionarse con la Copa",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251203175812_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-espanyol-celta-valencia-sevilla-quieren-ilusionarse-copa-20251203175812.html",
-        "date": "2025-12-03 16:58:12",
-        "sentiment_score": 0.3634082078933716
-    },
-    {
-        "title": "Antonio Rudiger, embajador de la colección UA x Mansory que fusiona rendimiento deportivo y diseño",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251203175712_120.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-antonio-rudiger-embajador-coleccion-ua-mansory-fusiona-rendimiento-deportivo-diseno-20251203175712.html",
-        "date": "2025-12-03 16:57:12",
-        "sentiment_score": 0.6479784771800041
-    },
-    {
-        "title": "Athletic Club - Real Madrid, en directo: retransmisión en vivo de LaLiga EA Sports",
-        "image_url": "https://www.infobae.com/resizer/v2/LMR7QAPZ7JF5JJDWHEU26YLON4.JPG?auth=18303917e61ccca3a73f07b5af45668eb2032d04a2a81e63e498c068f14f96c4&height=1526&smart=true&width=2712",
-        "tags": [
-            "españa-noticias",
-            "fútbol españa",
-            "athletic club",
-            "fútbol",
-            "laliga",
-            "real madrid",
-            "españa-deportes"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/12/03/athletic-club-real-madrid-en-directo-retransmision-en-vivo-de-laliga-ea-sports/",
-        "date": "2025-12-03 16:56:48",
-        "sentiment_score": 0.017643537372350693
-    },
-    {
-        "title": "Sanidad y CCAA alcanzan un acuerdo para aplicar el mismo protocolo ante las infecciones respiratorias",
-        "image_url": "https://phantom-elmundo.uecdn.es/cc1691355ad62b50097366226973468f/f/image/jpeg/assets/multimedia/imagenes/2022/05/31/16540050040587.jpg",
-        "tags": [
-            "vacunas",
-            "salud",
-            "artículos cristina ruiz",
-            "gripe",
-            "mascarillas",
-            "sanidad",
-            "enfermedades infecciosas",
-            "ciencia y salud",
-            "enfermedades respiratorias"
-        ],
-        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2025/12/03/6930330fe4d4d88d288b456e.html",
-        "date": "2025-12-03 16:46:42",
-        "sentiment_score": -0.30011192336678505
-    },
-    {
-        "title": "UGT reclama políticas de empleo con perspectiva de género y adaptadas al territorio",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/12/03/2025120317330944570.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.clm24.es/articulo/economia/ugt-reclama-politicas-empleo-perspectiva-genero-adaptadas-cada-territorio/20251203173608465468.html",
-        "date": "2025-12-03 16:36:08",
-        "sentiment_score": -0.07230910658836365
-    },
-    {
-        "title": "El efecto Trump se desinfla en las presidenciales de Honduras",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/03/69306aeaa8864.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20251203/11329294/efecto-trump-desinfla-presidenciales-honduras.html",
-        "date": "2025-12-03 17:11:56",
-        "sentiment_score": -0.2424677014350891
-    },
-    {
-        "title": "Alerta farmacéutica para retirar un conocido antidepresivo por exceso de impurezas",
-        "image_url": "https://static.grupojoly.com/clip/d04f048a-f438-4cf1-ad1b-76ff69359c75_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "farmaceutica",
-            "retirar",
-            "conocido",
-            "alerta",
-            "antidepresivo"
-        ],
-        "link": "https://www.diariodejerez.es/sociedad/alerta-farmaceutica-retirar-conocido-antidepresivo_0_2005383693.html",
-        "date": "2025-12-03 17:11:50",
-        "sentiment_score": -0.14005183428525925
-    },
-    {
-        "title": "Cádiz celebra el aniversario de la Constitución con homenaje a gaditanos destacados",
-        "image_url": "https://static.grupojoly.com/clip/e424d689-2aab-4fb7-8999-4940c4c4589c_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cadiz",
-            "celebra",
-            "homenaje",
-            "constitucion",
-            "aniversario"
-        ],
-        "link": "https://www.diariodejerez.es/noticias-provincia-cadiz/cadiz-celebra-aniversario-constitucion-homenaje_0_2005383689.html",
-        "date": "2025-12-03 17:11:45",
-        "sentiment_score": 0.1537313163280487
-    },
-    {
-        "title": "Everwood integra Maresa y Altair para crear un grupo de logística de 160 millones",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/25561204a2910d0ea0208f7b08c074e2/crop/0x0/640x427/f/webp/assets/multimedia/imagenes/2025/12/03/17647817898419.jpg",
-        "tags": [
-            "fusiones y adquisiciones>",
-            "fondos de inversión>",
-            "empresas>",
-            "artículos pepe bravo>"
-        ],
-        "link": "https://www.expansion.com/empresas/2025/12/03/69306f35e5fdeaa2338b45cc.html",
-        "date": "2025-12-03 17:11:21",
-        "sentiment_score": 0.027552779763936996
-    },
-    {
-        "title": "Noemí López, 23 años, española trabajando en Suiza: \"He cobrado 5.360 euros trabajando un mes de niñera\"",
-        "image_url": "https://s3.elespanol.com/2025/12/03/actualidad/1003744041407_260300793_1706x960.jpg",
-        "tags": [
-            "suiza",
-            "trabajo",
-            "sociedad",
-            "jóvenes",
-            "soft",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251203/noemi-lopez-anos-espanola-trabajando-suiza-cobrado-euros-mes-ninera/1003744041030_0.html",
-        "date": "2025-12-03 17:11:20",
-        "sentiment_score": 0.14760243892669678
-    },
-    {
-        "title": "Los consejos de Christian Gortázar, experto en sanidad de animal: \"El brote de peste porcina será grave según su expansión\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2add1cb2-57a8-4f41-8877-e6497acf0dce_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "jabalíes",
-            "españa",
-            "sanidad"
-        ],
-        "link": "https://www.lne.es/asturias/2025/12/03/gortazar-brote-peste-porcina-sera-124415057.html",
-        "date": "2025-12-03 17:10:24",
-        "sentiment_score": -0.4225316271185875
-    },
-    {
-        "title": "Máster Montessori AMI Montessori AMI 6-12 multilingüe con sede en Barcelona",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7756388",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5692248/master-montessori-ami-montessori-ami-6-12-multilingue-sede-barcelona",
-        "date": "2025-12-03 17:10:23",
-        "sentiment_score": 0.5676019713282585
-    },
-    {
-        "title": "Estopa protagoniza el nuevo anuncio navideño de Aena rescatando un villancico ancestral de Zarza-Capilla, un \"himno de los Muñoz\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a3c1341d-e595-4d50-851a-ca8bfa98937c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "joan miró",
-            "david bisbal",
-            "el prat",
-            "aena",
-            "estopa"
-        ],
-        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2025/12/03/estopa-protagoniza-nuevo-anuncio-navideno-aena-124415372.html",
-        "date": "2025-12-03 17:09:25",
-        "sentiment_score": -0.14359092712402344
-    },
-    {
         "title": "El Ourense CF derriba al Girona (2-1) y ya espera a un grande en la Copa del Rey",
         "image_url": "https://cflvdg.avoz.es/sc/2qHgzn966UY36B3_RyOrdmX1VBw=/768x/2025/12/03/00121764798782781639699/Foto/i_20251203_224717003.jpg",
         "tags": [
@@ -3021,5 +2798,197 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251207/jorge-mendes-reinventa-barca-laporta-reconstruye-gestifute/1003742713784_0.html",
         "date": "2025-12-07 00:06:53",
         "sentiment_score": -0.0018222033977508545
+    },
+    {
+        "title": "El patrimonio de Sabina tras su jubilación, más allá de su icónico y lujoso piso en Lavapiés",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/sabina-patrimonio.jpeg",
+        "tags": [
+            "patrimonio",
+            "gente",
+            "joaquín sabina",
+            "celebrities"
+        ],
+        "link": "https://theobjective.com/gente/2025-12-07/patrimonio-sabina-jubilacion-iconico-piso-lavapies/",
+        "date": "2025-12-07 06:30:00",
+        "sentiment_score": 0.7812878414988518
+    },
+    {
+        "title": "Otra prueba de estrés en Miribilla",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/12/06/RS808191_J26%20SBB-GCA%20Firmar%20acb%20Photo%20-%20Aitor%20Arrizabalaga-knEE--758x531@El%20Correo.jpg",
+        "tags": [
+            "prueba",
+            "miribilla",
+            "estres"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/prueba-estres-miribilla-20251206072222-nt.html",
+        "date": "2025-12-07 06:22:22",
+        "sentiment_score": 0.6533927470445633
+    },
+    {
+        "title": "Sergio Ramos se marcha de Monterrey y ya busca destino junto a Pilar Rubio",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/19/2025021904534570167.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/sergio-ramos-marcha-monterrey-busca-destino-junto-pilar-rubio/20251207071558366131.html",
+        "date": "2025-12-07 06:15:58",
+        "sentiment_score": 0.09765191376209259
+    },
+    {
+        "title": "Yerai Cortés en los cafés parisinos",
+        "image_url": "https://static.grupojoly.com/clip/71262d01-60ce-4302-90cc-14932c37bac3_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cortes",
+            "parisinos",
+            "cafes",
+            "yerai"
+        ],
+        "link": "https://www.diariodealmeria.es/ocio/yerai-cortes-cafes-parisinos_0_2005404579.html",
+        "date": "2025-12-07 06:08:01",
+        "sentiment_score": 0.44747114181518555
+    },
+    {
+        "title": "Autopoiesis del clímax tóxico: un sistema que se protege para no transformarse",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5809a95d-ff41-440d-a08a-be7ce212b32c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "más extremadura",
+            "empleo público",
+            "universidad de extremadura",
+            "extremadura",
+            "región",
+            "talento"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/07/autopoiesis-climax-toxico-sistema-protege-124410745.html",
+        "date": "2025-12-07 06:05:06",
+        "sentiment_score": 0.08707721531391144
+    },
+    {
+        "title": "Victoria Eugenia, la reina ‘maldita’ regresa indultada a Madrid: «Nadie ocultó la hemofilia a Alfonso XIII»",
+        "image_url": "https://okdiario.com/img/2025/12/04/bc-puntos-de-fuga-victoria-eugenia-interior.jpg",
+        "tags": [
+            "cultura",
+            "exposiciones en madrid",
+            "casa real",
+            "patrimonio nacional",
+            "puntos de fuga",
+            "inglaterra"
+        ],
+        "link": "https://okdiario.com/cultura/victoria-eugenia-exposicion-madrid-alfonso-xiii-hemofilia-15857060",
+        "date": "2025-12-07 06:00:47",
+        "sentiment_score": -0.09655025601387024
+    },
+    {
+        "title": "La nuclear, como arma electoral",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e7833b25-6ab6-4fc8-85a7-2cfcba5a16b3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cierre de almaraz",
+            "energía"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/07/nuclear-arma-electoral-124535666.html",
+        "date": "2025-12-07 06:00:45",
+        "sentiment_score": -0.11070312559604645
+    },
+    {
+        "title": "PREVIA | Zamora CF - Real Madrid Castilla: Prueba de nivel para los rojiblancos en el Ruta de la Plata",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b648f233-7d57-472a-8ee1-dbfd3941a398_16-9-aspect-ratio_default_0_x1586y750.jpg",
+        "tags": [
+            "zamora cf,real madrid,fútbol,ruta de la plata,primera rfef,óscar cano"
+        ],
+        "link": "https://www.laopiniondezamora.es/deportes/2025/12/07/zamora-cf-real-madrid-castilla-ruta-de-la-plata-prueba-nivel-previa-124524347.html",
+        "date": "2025-12-07 06:00:34",
+        "sentiment_score": 0.7926931530237198
+    },
+    {
+        "title": "«Abrazos fuertes, largos y anchos de Maruja Mallo»",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/12/06/4CFF9B52-61F8-4112-BF92-2C3056CDD37B/carta-maruja-mallo-gabriela-mistral_69.jpg?crop=981%2C552%2Cx0%2Cy68&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/abrazos-fuertes-largos-anchos-maruja-mallo_2025120769351a4555584d48fb6d0f8b.html",
+        "date": "2025-12-07 06:10:13",
+        "sentiment_score": 0.49532146751880646
+    },
+    {
+        "title": "Benito Gómez, cocina de éxito y un libro salvador",
+        "image_url": "https://static.grupojoly.com/clip/3adc8f91-d657-4984-a392-de0f802e65fd_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/benito-gomez-cocina-exito-libro_0_2005398491.html",
+        "date": "2025-12-07 06:00:40",
+        "sentiment_score": 0.787406213581562
+    },
+    {
+        "title": "¿Adiós a los bares de toda la vida? Los motivos que propiciaron el cambio del modelo de negocio en la hostelería",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d9dd0164-9e3c-4e9b-8bcc-f5dd931d357a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "negocios",
+            "cafés y bares",
+            "hostelería"
+        ],
+        "link": "https://www.elperiodicodearagon.com/zaragoza/2025/12/07/adios-bares-vida-zaragoza-hosteleria-124529816.html",
+        "date": "2025-12-07 06:00:39",
+        "sentiment_score": -0.17097613215446472
+    },
+    {
+        "title": "Germán Aparicio: el \"procrastinador disciplinado\" en el top del streaming",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ee269b6d-3b04-40e0-a755-c509c3e5a831_16-9-aspect-ratio_default_1420229.jpg",
+        "tags": [
+            "madrid",
+            "streaming",
+            "gluten",
+            "trabajo"
+        ],
+        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2025/12/07/guionista-series-german-aparicio-procrastinador-disciplinado-top-124520261.html",
+        "date": "2025-12-07 06:00:33",
+        "sentiment_score": -0.10801038146018982
+    },
+    {
+        "title": "Ya puedes registrarte como pareja de hecho por videoconferencia",
+        "image_url": "https://static1.ara.cat/clip/97b18710-aaea-4a51-9c7f-b4f062d74c3e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "puedes",
+            "hecho",
+            "registrarte",
+            "videoconferencia",
+            "pareja"
+        ],
+        "link": "https://es.ara.cat/politica/puedes-registrarte-pareja-hecho-videoconferencia_1_5585434.html",
+        "date": "2025-12-07 06:00:32",
+        "sentiment_score": 0.2090926468372345
+    },
+    {
+        "title": "Un público cada vez más harto y desconfiado: los retos de la fotografía y el periodismo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/271a543c-2e4c-4eb5-bbac-b9df3d39e113_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "entender más",
+            "noticias falsas",
+            "fotografía",
+            "prensa"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251207/publico-vez-harto-desconfiado-retos-124445404",
+        "date": "2025-12-07 06:00:30",
+        "sentiment_score": 0.31678125262260437
+    },
+    {
+        "title": "La \"mierdificación\" de Internet: por qué las plataformas son cada vez peores",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47ec44f4-c020-4a7e-8fa7-f71d0d5145fc_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "amazon",
+            "tiktok",
+            "apple",
+            "entender más",
+            "internet",
+            "redes sociales",
+            "competencia",
+            "facebook",
+            "instagram",
+            "google",
+            "microsoft"
+        ],
+        "link": "https://www.elperiodico.com/es/tecnologia/20251207/mierdificacion-internet-plataformas-redes-sociales-cory-doctorow-enshittification-peor-mierda-experiencia-122972628",
+        "date": "2025-12-07 06:00:30",
+        "sentiment_score": -0.9054250931367278
     }
 ];
