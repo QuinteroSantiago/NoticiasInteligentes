@@ -1,357 +1,5 @@
 export default [
     {
-        "title": "El Barça aprende a sufrir: remontada de mérito sobre el Atlético y más lejos del Real Madrid en la Liga",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/02/culemania/primer-equipo/1003742712913_15473580_1706x960.jpg",
-        "tags": [
-            "raphinha",
-            "lamine yamal",
-            "pedro gonzález pedri",
-            "atlético de madrid",
-            "barça",
-            "primer equipo",
-            "cholo simeone"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251202/barca-aprende-remontada-atletico-real-madrid-liga/1003742712904_0.html",
-        "date": "2025-12-02 22:11:04",
-        "sentiment_score": 0.8020931668579578
-    },
-    {
-        "title": "El Barça da un golpe en la mesa ante el Atlético",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/02/Clipboard-0318-kCbE-U240427948678iJG-1200x840@RC.jpg",
-        "tags": [
-            "f.c. barcelona",
-            "atlético de madrid"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/barca-golpe-mesa-ante-atletico-20251202231005-ntrc.html",
-        "date": "2025-12-02 22:10:07",
-        "sentiment_score": 0.6717219315469265
-    },
-    {
-        "title": "El Barça da un golpe en la mesa ante el Atlético",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/02/Clipboard-0318-kCbE-U240427948678iJG-1200x840@RC.jpg",
-        "tags": [
-            "cronica",
-            "atletico",
-            "barcelona"
-        ],
-        "link": "https://www.elcomercio.es/deportes/futbol/liga-primera/barca-golpe-mesa-ante-atletico-20251202231005-ntrc.html",
-        "date": "2025-12-02 22:10:07",
-        "sentiment_score": 0.6586116030812263
-    },
-    {
-        "title": "El Barça se hace fuerte en el Camp Nou y da un golpe sobre la mesa en la Liga",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/02/692f609d18f3d.r_d.1677-994-4900.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251202/barca-hace-fuerte-camp-nou-da-golpe-encima-mesa-liga_361506.html",
-        "date": "2025-12-02 22:09:19",
-        "sentiment_score": 0.3184291124343872
-    },
-    {
-        "title": "Así queda la clasificación de la Liga tras la victoria del Barcelona ante el Atlético",
-        "image_url": "https://okdiario.com/img/2025/12/02/clasificacion-liga-4.jpg",
-        "tags": [
-            "fútbol",
-            "fc barcelona",
-            "atlético de madrid",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/asi-queda-clasificacion-liga-victoria-del-barcelona-atletico-15869784",
-        "date": "2025-12-02 22:07:56",
-        "sentiment_score": 0.3411460518836975
-    },
-    {
-        "title": "El Barça resurge: remonta al Atlético 3-1 y se aferra al liderato de La Liga",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2575011.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/barca-resurge-remonta-al-atletico-y-se-aferra-al-liderato-de-la-liga.html",
-        "date": "2025-12-02 22:03:47",
-        "sentiment_score": 0.6750292629003525
-    },
-    {
-        "title": "Ábalos critica a Armengol por aplazar su respuesta para evitar confrontar al Supremo",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/abalos_congreso_diputados.jpg",
-        "tags": [
-            "josé luis ábalos",
-            "tribunal supremo",
-            "tribunales",
-            "francina armengol",
-            "congreso de los diputados",
-            "soto del real"
-        ],
-        "link": "https://theobjective.com/espana/tribunales/2025-12-02/abalos-critica-a-armengol-por-aplazar-su-respuesta-para-evitar-confrontar-al-supremo/",
-        "date": "2025-12-02 21:43:42",
-        "sentiment_score": -0.5377205219119787
-    },
-    {
-        "title": "Río Babel 2026 destapa sus primeras estrellas: del punk-rock de The Offspring al pop de Amaia",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/12/02/2025120222162896459.jpg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/musica/rio-babel-2026-destapa-primeras-estrellas-punk-rock-the-offspring-pop-amaia/20251202221647576563.html",
-        "date": "2025-12-02 21:16:47",
-        "sentiment_score": 0.498342115432024
-    },
-    {
-        "title": "El mapa inmobiliario de Sonsoles Ónega, la íntima de doña Letizia a la que entrevista Pablo Motos",
-        "image_url": "https://okdiario.com/look/img/2025/12/02/u541688_002-1.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://okdiario.com/look/actualidad/mapa-inmobiliario-sonsoles-onega-intima-dona-letizia-que-entrevistara-pablo-motos-2440401",
-        "date": "2025-12-02 21:15:42",
-        "sentiment_score": 0.25161899626255035
-    },
-    {
-        "title": "22:00 | 02 DIC 2025 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-02-dic-2025-juego-20251202_3264203.html",
-        "date": "2025-12-02 22:16:48",
-        "sentiment_score": 0.03893943876028061
-    },
-    {
-        "title": "Dónde han caído el bote de 17 millones de Euromillones, y los premios de la Bonoloto y la ONCE de hoy, martes 2 de diciembre de 2025",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2021/11/10/8483B778-1333-4017-B3FA-9BBCE9762AEE/98.jpg?crop=4064%2C2287%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "loterías",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-17-millones-euromillones-premios-bonoloto-once-hoy-martes-2-diciembre-2025_20251202692f64c69261f37ec739e77f.html",
-        "date": "2025-12-02 22:14:30",
-        "sentiment_score": -0.07841241359710693
-    },
-    {
-        "title": "El liderato da alas al Barça",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2025/12/02/692f647ec98a7.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/2025/12/02/liderato-da-alas-barca-802273-31.html",
-        "date": "2025-12-02 22:13:22",
-        "sentiment_score": -0.006158590316772461
-    },
-    {
-        "title": "Paloma, hostelera: \"Con Verifactu teníamos que cambiar los TPVs, era un dineral y las sanciones llegan hasta 10.000 euros si no lo tienes implementado\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/12/01/692da49ac9c04.jpeg",
-        "tags": [
-            "clases de economía"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/clases-de-economia/audios/paloma-hostelera-verifactu-teniamos-cambiar-tpvs-dineral-sanciones-llegan-10-000-euros-tienes-implementado-20251202_3264200.html",
-        "date": "2025-12-02 22:12:24",
-        "sentiment_score": -0.10631445050239563
-    },
-    {
-        "title": "Un exanalista del FBI en Rusia ordenó atentar al grupo neonazi cazado en Castellón: eran fans del Unabomber y tenían armas",
-        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039633_260276642_1706x960.jpg",
-        "tags": [
-            "policía nacional",
-            "terrorismo",
-            "nazismo",
-            "detenciones",
-            "racismo",
-            "sucesos",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251203/exanalista-fbi-rusia-ordeno-atentar-grupo-neonazi-cazado-castellon-fans-unabomber-armas/1003744039700_0.html",
-        "date": "2025-12-03 01:50:06",
-        "sentiment_score": -0.9206995582208037
-    },
-    {
-        "title": "Arrién, el 'súperabogado' de 41 años que defiende a Mouliaá, a ex Miss Asturias y a la becaria de Cano: \"Se enfrentan a titanes\"",
-        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039467_260274387_1706x960.jpg",
-        "tags": [
-            "españa",
-            "nacho cano",
-            "íñigo errejón",
-            "juicios",
-            "elisa mouliaá",
-            "abogados",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251203/arrien-superabogado-anos-defiende-mouliaa-ex-miss-asturias-becaria-cano-enfrentan-titanes/1003744039202_0.html",
-        "date": "2025-12-03 01:49:56",
-        "sentiment_score": -0.9009960731491446
-    },
-    {
-        "title": "EEUU jugará contra Bélgica, Portugal y Alemania en amistosos antes del Mundial",
-        "image_url": "https://dims.apnews.com/dims4/default/11305c1/2147483647/strip/true/crop/5176x3445+43+0/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffa%2Fe1%2F22f077e3d57b516a4197a5c38dae%2Fcf3fa7eaed824143bb3f36ce4efd7205",
-        "tags": [
-            "estados unidos mundial belgica portugal alemania amistosos",
-            "sports",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/estados-unidos-mundial-belgica-portugal-alemania-amistosos-10cee1bfdfdac06e18773b3198e51f0d",
-        "date": "2025-12-03 01:43:07",
-        "sentiment_score": 0.04305068030953407
-    },
-    {
-        "title": "EEUU jugará contra Bélgica, Portugal y Alemania en amistosos antes del Mundial",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/12/EEUU-AMISTOSOS_65723.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2025/12/02/eeuu-jugar-contra-blgica-portugal-y-alemania-en-amistosos-antes-del-mundial/",
-        "date": "2025-12-03 01:43:06",
-        "sentiment_score": 0.05485145002603531
-    },
-    {
-        "title": "Pedri y Raphinha resucitan al Barça con autoridad",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/11/2025051118512394480.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/pedri-raphinha-resucitan-barca-autoridad/20251203023929365474.html",
-        "date": "2025-12-03 01:39:29",
-        "sentiment_score": 0.7678857669234276
-    },
-    {
-        "title": "Se agrava la crisis de vivienda: 300.000 familias quedan expuestas a la mayor subida de alquileres desde la pandemia",
-        "image_url": "https://gaceta.es/wp-content/uploads/2024/09/EuropaPress_5282644_cartel_alquila_19_junio_2023_madrid_espana_precio_alquiler_interanual-1.jpg",
-        "tags": [
-            "pedro sánchez",
-            "alquiler",
-            "socialismo",
-            "sánchez",
-            "sumar",
-            "vivienda",
-            "ley de vivienda",
-            "psoe",
-            "economía"
-        ],
-        "link": "https://gaceta.es/economia/se-agrava-la-crisis-de-vivienda-300-000-familias-quedan-expuestas-a-la-mayor-subida-de-alquileres-desde-la-pandemia-20251203-0149/",
-        "date": "2025-12-03 00:49:00",
-        "sentiment_score": -0.47286102175712585
-    },
-    {
-        "title": "Las empresas que comparten Álvaro Morata y Alice Campello: dos inmobiliarias y negocios relacionados con el espectáculo",
-        "image_url": "https://s3.elespanol.com/2025/12/02/corazon/famosos/1003744038913_260267288_1706x960.jpg",
-        "tags": [
-            "álvaro morata",
-            "influencers",
-            "negocios",
-            "relaciones de pareja",
-            "famosos"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251203/empresas-comparten-alvaro-morata-alice-campello-inmobiliarias-negocios-relacionados-espectaculo/1003744038382_0.html",
-        "date": "2025-12-03 00:33:00",
-        "sentiment_score": -0.5969676859676838
-    },
-    {
-        "title": "Raphinha cambia la mentalidad del Barça: vuelven las remontadas y Flick recupera la sonrisa",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/03/culemania/primer-equipo/1003742712940_15474015_1706x960.jpg",
-        "tags": [
-            "barça",
-            "hansi flick",
-            "primer equipo",
-            "raphinha",
-            "la liga",
-            "pedro gonzález pedri"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251203/raphinha-mentalidad-barca-vuelven-remontadas-flick-recupera/1003742712926_0.html",
-        "date": "2025-12-03 00:30:48",
-        "sentiment_score": 0.7138856835663319
-    },
-    {
-        "title": "Barcelona, una ciudad íntimamente ligada al mar",
-        "image_url": "https://images.theconversation.com/files/705576/original/file-20251201-66-8wotme.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&w=754",
-        "tags": [
-            "mediterráneo",
-            "historia",
-            "barcelona"
-        ],
-        "link": "https://theconversation.com/barcelona-una-ciudad-intimamente-ligada-al-mar-265632",
-        "date": "2025-12-02 23:40:51",
-        "sentiment_score": -0.012759387493133545
-    },
-    {
-        "title": "Dudamel aplaza conciertos en España por vuelos restringidos",
-        "image_url": "https://primicia.com.ve/wp-content/uploads/2025/03/Gustavo-Dudamel-12-de-marzo-730x524.webp",
-        "tags": [
-            "españa",
-            "placeres",
-            "conciertos",
-            "gustavo dudamel",
-            "restricciones vuelos"
-        ],
-        "link": "https://primicia.com.ve/placeres/dudamel-aplaza-conciertos-en-espana-por-vuelos-restringidos/",
-        "date": "2025-12-03 02:00:45",
-        "sentiment_score": -0.8112699296325445
-    },
-    {
-        "title": "Polestar prevé elevar sus ventas un 15% en la península ibérica en 2026 gracias a nuevos modelos y a una red más grande",
-        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039261_260271700_1706x960.jpg",
-        "tags": [
-            "geely",
-            "polestar",
-            "industria automovilística",
-            "motor",
-            "coche eléctrico"
-        ],
-        "link": "https://www.elespanol.com/motor/20251203/polestar-preve-elevar-ventas-peninsula-iberica-gracias-nuevos-modelos-red-grande/1003744038504_0.html",
-        "date": "2025-12-03 01:35:58",
-        "sentiment_score": 0.2579207122325897
-    },
-    {
-        "title": "“Hemos recibido muchas ofertas y no buscamos nada”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/29/692b59be927e7.r_d.2889-1926-777.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20251203/11315850/ermenegildo-zegna-sucesion.html",
-        "date": "2025-12-03 01:00:00",
-        "sentiment_score": 0.5197391733527184
-    },
-    {
-        "title": "'Una chica en la ciudad', de Mercè Ibarz: memoria sentimental de un descubrimiento",
-        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039328_260272605_1706x960.jpg",
-        "tags": [
-            "letras",
-            "memorias",
-            "libros",
-            "literatura"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20251203/chica-ciudad-merce-ibarz-memoria-sentimental-descubrimiento/1003744039256_0.html",
-        "date": "2025-12-03 00:55:00",
-        "sentiment_score": 0.015753015875816345
-    },
-    {
-        "title": "02 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-dic-2025-partidazo-cope-20251203_3264237.html",
-        "date": "2025-12-03 00:39:39",
-        "sentiment_score": 0.5443534031510353
-    },
-    {
-        "title": "El brote de peste porcina desploma el precio del cerdo y desata una crisis histórica en España",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/03/2025120301350627868.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.mundiario.com/articulo/economia/brote-peste-porcina-desploma-precio-cerdo-desata-crisis-historica-espana/20251203013748365468.html",
-        "date": "2025-12-03 00:37:48",
-        "sentiment_score": -0.7630039751529694
-    },
-    {
-        "title": "Erradicar el miedo a pronunciarnos libremente sobre el islam",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/08/27/64eaf42f84ef1.png",
-        "tags": [
-            "tribuna"
-        ],
-        "link": "https://www.eldebate.com/opinion/tribuna/20251203/erradicar-miedo-pronunciarnos-libremente-sobre-islam_361402.html",
-        "date": "2025-12-03 00:30:00",
-        "sentiment_score": -0.6435448788106441
-    },
-    {
         "title": "España acoge una cumbre con un Marruecos envalentonado por los apoyos a su control del Sáhara",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/17588042-7cd8-491f-9723-a3ef84be8c68_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2789,5 +2437,247 @@ export default [
         "link": "https://www.lacronicabadajoz.com/economia/activos/2025/12/06/casa-marato-comparten-mesa-sabor-124511483.html",
         "date": "2025-12-06 06:00:46",
         "sentiment_score": 0.584743058308959
+    },
+    {
+        "title": "La actividad física emerge como una herramienta \"clave\" en prevención, tratamiento y abordaje de enfermedades",
+        "image_url": "https://www.infobae.com/resizer/v2/SUAXVW2SVJBZJBXQCNQP5FYFG4.jpg?auth=6198332b2b72bed63cca7261354ed9ee14f59a197d0db5fb1ce67288c2118092&height=1231&smart=true&width=1920",
+        "tags": [
+            "alejandro lucía",
+            "resistencias antimicrobianas",
+            "fundación instituto roche",
+            "hospital 12 de octubre",
+            "europapress",
+            "medicina personalizada de precisión",
+            "maría teresa coque gonzález",
+            "celso arango",
+            "enfermedades",
+            "madrid",
+            "actividad física"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/04/la-actividad-fisica-emerge-como-una-herramienta-clave-en-prevencion-tratamiento-y-abordaje-de-enfermedades/",
+        "date": "2025-12-06 17:01:55",
+        "sentiment_score": 0.25409893691539764
+    },
+    {
+        "title": "El singular debate sobre la cantidad de títulos de Messi que se abrió tras ganar la Conferencia Este con el Inter Miami",
+        "image_url": "https://www.infobae.com/resizer/v2/4D456ZLVAZAXTFMPE63CLB7GJ4.jpg?auth=b409fd07a41fdd53ed1e430cbeedba5f502a43f048b1834e6f00c6b95afc1c30&height=2466&smart=true&width=3699",
+        "tags": [
+            "mls",
+            "mls cup",
+            "lionel messi",
+            "inter miami"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/06/el-singular-debate-sobre-la-cantidad-de-titulos-de-messi-que-se-abrio-tras-ganar-la-conferencia-este-con-el-inter-miami/",
+        "date": "2025-12-06 16:52:33",
+        "sentiment_score": 0.44441143423318863
+    },
+    {
+        "title": "CEO de Ribera Salud dice que los audios están \"editados\" y \"fuera de contexto\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/06/ceo-de-ribera-salud-dice-que-los-audios-estan-editados-y-fuera-de-contexto/",
+        "date": "2025-12-06 16:50:16",
+        "sentiment_score": -0.7291547544300556
+    },
+    {
+        "title": "El Barcelona se juega el liderato en Sevilla contra el Betis",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/29/692b0c6e5fee9.r_d.1107-488.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251206/betis-barcelona-directo-liga-vivo_362941.html",
+        "date": "2025-12-06 16:45:00",
+        "sentiment_score": 0.20999692380428314
+    },
+    {
+        "title": "La economía que más crece... pese a todo. En qué ha cambiado el modelo español en 17 años",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DDXU3PO3EJAR5PX2W53AHCMR5M.jpg?auth=774a4ce0b034ecfd746bd7764859177dd11802ae6b4e10c2230b6f86d3af3159&width=1200",
+        "tags": [
+            "crecimiento económico",
+            "demografía",
+            "españa",
+            "economía",
+            "empleo",
+            "construcción",
+            "crecimiento demográfico",
+            "crisis financiera",
+            "turismo",
+            "dinero"
+        ],
+        "link": "https://elpais.com/economia/negocios/2025-12-06/vendra-otra-crisis-y-nos-encontrara-mas-fuertes-en-que-ha-mejorado-el-modelo-economico-espanol.html",
+        "date": "2025-12-06 16:45:00",
+        "sentiment_score": 0.2192450612783432
+    },
+    {
+        "title": "Jesús de Miguel, Enric Gallego y Nacho Gil, el demoledor tridente del Tenerife que amenaza al Lugo",
+        "image_url": "https://cflvdg.avoz.es/sc/KudAwP25AO-qoN4HWIFXazpUn7E=/768x/2025/12/06/00121765039022001375163/Foto/f_20251101_204144000.jpg",
+        "tags": [
+            "cdlugo",
+            "cd lugo",
+            "primera rfef"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/cdlugo/2025/12/06/jesus-miguel-enric-gallego-nacho-gil-demoledor-tridente-tenerife-amenaza-lugo/00031765038976379886614.htm",
+        "date": "2025-12-06 16:43:00",
+        "sentiment_score": 0.2865031883120537
+    },
+    {
+        "title": "La IA transformará uno de cada cinco empleos en la Comunitat Valenciana, según la UPV",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bbd2c169-b7ad-4a59-bb20-52b095e3e885_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "empleo",
+            "comunitat valenciana",
+            "alicante",
+            "valencia",
+            "ia",
+            "castellón"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2025/12/06/ia-transformara-20-empleos-valencianos-124522928.html",
+        "date": "2025-12-06 16:40:16",
+        "sentiment_score": 0.023460552096366882
+    },
+    {
+        "title": "El CEO de Ribera Salud asegura que el audio está «editado, recortado» y «fuera de contexto»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/Hospital-de-Torrejon-de-Ardoz.jpg",
+        "tags": [
+            "torrejón de ardoz",
+            "sanidad",
+            "comunidad de madrid",
+            "sanidad pública",
+            "hospitales"
+        ],
+        "link": "https://theobjective.com/sanidad/2025-12-06/ceo-ribera-salud-audio-editado/",
+        "date": "2025-12-06 16:33:25",
+        "sentiment_score": -0.008785948157310486
+    },
+    {
+        "title": "Betis - Barcelona: Partido hoy de LaLiga EA Sports, en directo",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/06/B2406E83-A53C-4EAC-9364-D49AE59B500A/pellegrini-indicaciones-antony-partido_98.jpg?crop=1283%2C722%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/betis-barcelona-partido-hoy-laliga-sports-directo_202512066934543955584d48fb6c5039.html",
+        "date": "2025-12-06 16:32:36",
+        "sentiment_score": 0.03882836550474167
+    },
+    {
+        "title": "Xabi Alonso: «Mbappé está en camino de hacer historia, como Cristiano»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/06/xabialonso-previa-realmadrid-celta-kOxE-U240475019135Uh-1200x840@RC.jpg",
+        "tags": [
+            "real club celta de vigo",
+            "cristiano ronaldo",
+            "kylian mbappé",
+            "real madrid",
+            "xabi alonso"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/xabialonso-mbappe-cristiano-20251206172155-ntrc.html",
+        "date": "2025-12-06 16:31:00",
+        "sentiment_score": 0.890960119664669
+    },
+    {
+        "title": "Katy Perry y Justin Trudeau ya no se esconden: la cantante comparte sus primeras imágenes como la pareja del momento",
+        "image_url": "https://www.hola.com/horizon/landscape/b667fc9edfbd-snapinstato591169734185749388980280897318016885259379572n-1.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "musica",
+            "actualidad",
+            "katy perry"
+        ],
+        "link": "https://www.hola.com/actualidad/20251206871524/katy-perry-y-justin-trudeau-ya-no-se-esconden-la-cantante-comparte-sus-primeras-imagenes/",
+        "date": "2025-12-06 17:09:57",
+        "sentiment_score": 0.13465004041790962
+    },
+    {
+        "title": "Gran corte en el metro de Barcelona: unas obras dejan 12 estaciones sin servicio durante el puente",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/08/04/movilidad/1003742679509_14977541_1706x960.jpg",
+        "tags": [
+            "metro barcelona",
+            "transports metropolitans barcelona tmb",
+            "movilidad"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/movilidad/20251206/gran-corte-metro-barcelona-obras-dejan-estaciones-sin-servicio-puente/1003742714104_0.html",
+        "date": "2025-12-06 17:07:26",
+        "sentiment_score": -0.8444239497184753
+    },
+    {
+        "title": "DIRECTO | El Betis, con moral tras el derbi, examina al FC Barcelona en La Cartuja",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b971e84a-6343-4d72-a14b-4d47e5f7c4b4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "betis,fc barcelona,la liga,directo"
+        ],
+        "link": "https://www.elcorreoweb.es/deportes/futbol/primera-division/2025-2026/real-betis-barcelona-232025_01_15_2025185_2025178.html",
+        "date": "2025-12-06 17:07:04",
+        "sentiment_score": -0.05254682898521423
+    },
+    {
+        "title": "La UAB y la peste porcina: un virus que transforma la vida universitaria",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/05/2025120515230081858.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/uab-peste-porcina-virus-que-transforma-vida-universitaria/20251206180233366075.html",
+        "date": "2025-12-06 17:02:33",
+        "sentiment_score": -0.8772796634584665
+    },
+    {
+        "title": "El 'demonio' Puigdemont que codician PP y PSOE",
+        "image_url": "https://static1.ara.cat/clip/59087b5c-efbb-4f8e-a3ef-e89b5fce730d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pp",
+            "demonio",
+            "codician",
+            "psoe",
+            "puigdemont"
+        ],
+        "link": "https://es.ara.cat/politica/demonio-puigdemont-codician-pp-psoe_129_5584933.html",
+        "date": "2025-12-06 17:00:49",
+        "sentiment_score": -0.18350590765476227
+    },
+    {
+        "title": "LaLiga: Real Betis - FC Barcelona, en directo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/75874c60-d1f5-44b3-bdde-fd6d022e0786_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real betis barcelona en directo",
+            "futbol gratis",
+            "partidos futbol online",
+            "fútbol",
+            "primera división - laliga ea sports",
+            "futbol",
+            "partidos futbol",
+            "futbol online",
+            "futbol directo",
+            "partido real betis barcelona",
+            "partidos de futbol",
+            "futbol en directo",
+            "directo primera división - laliga ea sports"
+        ],
+        "link": "https://www.elperiodicodearagon.com/deportes/futbol/primera-division/2025-2026/real-betis-barcelona-232025_01_15_2025185_2025178.html",
+        "date": "2025-12-06 17:00:13",
+        "sentiment_score": 0.05728615075349808
+    },
+    {
+        "title": "El Barça en el que nadie creía se lleva por delante al Betis",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b8f46a4a-5a37-45cd-b0ef-941ec5e0dfb2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fc barcelona",
+            "fútbol",
+            "laliga ea sports",
+            "real betis"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2025/12/06/laliga-real-betis-fc-barcelona-124524824.html",
+        "date": "2025-12-06 17:00:11",
+        "sentiment_score": -0.27515849471092224
+    },
+    {
+        "title": "Emily Galaviz revela sus retoques estéticos y confiesa sobre sus luchas personales",
+        "image_url": "https://static.wixstatic.com/media/cf263a_7411a01a05654d459646fb308c530075~mv2.png/v1/fit/w_905,h_539,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/emily-galaviz-revela-sus-retoques-est%C3%A9ticos-y-confiesa-sobre-sus-luchas-personales",
+        "date": "2025-12-06 14:00:20",
+        "sentiment_score": -0.3515612781047821
     }
 ];
