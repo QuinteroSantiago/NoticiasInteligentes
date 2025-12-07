@@ -1,67 +1,5 @@
 export default [
     {
-        "title": "España acoge una cumbre con un Marruecos envalentonado por los apoyos a su control del Sáhara",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/17588042-7cd8-491f-9723-a3ef84be8c68_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rey mohamed vi",
-            "marruecos",
-            "diplomacia",
-            "ministerio de exteriores"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/internacional/2025/12/03/espana-marruecos-cumbre-madrid-canarias-inmigracion-124384445.html",
-        "date": "2025-12-03 06:36:58",
-        "sentiment_score": -0.44513893127441406
-    },
-    {
-        "title": "Génova presume de haber forzado a Sánchez a reaccionar tras la oferta de Feijóo a Junts",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d51f2884-fc4a-4531-8536-ea7a326eb7e2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pedro sánchez",
-            "partido popular",
-            "alberto núñez feijóo",
-            "junts"
-        ],
-        "link": "https://www.laopiniondemalaga.es/nacional/2025/12/03/genova-presume-haber-forzado-sanchez-124384198.html",
-        "date": "2025-12-03 06:30:41",
-        "sentiment_score": -0.11293324083089828
-    },
-    {
-        "title": "\"Todo el mundo puede ser el mejor en algo\": de seis personas cosiendo patucos a una asociación que da empleo a mil personas con discapacidad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92b3d8fe-436c-4867-80f9-5d6478c12414_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "aerolíneas",
-            "iberia",
-            "personas con discapacidad",
-            "aeropuertos",
-            "madrid",
-            "trabajos"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251203/asociacion-envera-empleo-personas-discapacidad-124379119",
-        "date": "2025-12-03 06:38:51",
-        "sentiment_score": -0.045966342091560364
-    },
-    {
-        "title": "Esteban González Pons y Javi López, dos visiones políticas distintas que se encuentran en el europeísmo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/422f824e-c589-4354-8451-56ea71f0b595_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unión europea,eurocámara,politica,donald trump,vladimir putin,ucrania"
-        ],
-        "link": "https://www.elcorreoweb.es/internacional/2025/12/03/esteban-gonzalez-pons-javi-lopez-europeistas-european-bridges-124384293.html",
-        "date": "2025-12-03 06:35:28",
-        "sentiment_score": -0.10569232702255249
-    },
-    {
-        "title": "«Ningún vecino o visitante tendrán que cambiar su vehículo para circular por Oviedo con la Zona de Bajas Emisiones»",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/12/02/escandalera-RvfVq4lh31wEEdF6j9pkaDN-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "zonas de bajas emisiones (zbe)",
-            "oviedo"
-        ],
-        "link": "https://www.elcomercio.es/oviedo/zona-bajas-emisiones-oviedo-vehiculos-20251202073212-nt.html",
-        "date": "2025-12-03 06:32:45",
-        "sentiment_score": -0.5757731683552265
-    },
-    {
         "title": "La noche violenta del Frente Atlético en un karaoke de Ventas",
         "image_url": "https://cdn.mnmstatic.net/cache/3e/e9/media_thumb-link-4122934.webp?1764723546=",
         "tags": [
@@ -2679,5 +2617,200 @@ export default [
         "link": "https://www.informe21.com/post/emily-galaviz-revela-sus-retoques-est%C3%A9ticos-y-confiesa-sobre-sus-luchas-personales",
         "date": "2025-12-06 14:00:20",
         "sentiment_score": -0.3515612781047821
+    },
+    {
+        "title": "Un misil de Berenguer descuelga al Atlético",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/0f5da37d-6024-4d2f-84e62b02a4f12711.jpg",
+        "tags": [
+            "aymeric laporte",
+            "real madrid",
+            "nico williams",
+            "fc barcelona",
+            "ernesto valverde",
+            "san mamés",
+            "psg",
+            "nico gonzález",
+            "bilbao",
+            "antoine griezmann",
+            "athletic club",
+            "laliga ea sports",
+            "atlético de madrid"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z1896f121-d51a-4db7-9f3b028946d7cca4/202512/un-misil-de-berenguer-descuelga-al-atletico",
+        "date": "2025-12-06 22:15:48",
+        "sentiment_score": -0.8225658144801855
+    },
+    {
+        "title": "Berenguer tumba al Atlético en San Mamés",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/06/cronica-athletic-atletico-kz0H-U240475268949ORB-1200x840@RC.jpg",
+        "tags": [
+            "antoine griezmann",
+            "athletic de bilbao",
+            "atlético de madrid",
+            "liga de fútbol profesional"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/cronica-athletic-atletico-20251206223726-ntrc.html",
+        "date": "2025-12-06 22:14:21",
+        "sentiment_score": -0.9075388722121716
+    },
+    {
+        "title": "Las notas de Pako Ruiz: Nico Williams resurge y decide",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/25482ffc-3d02-4bdf-b047-17c30f8575b3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "notas",
+            "williams",
+            "ruiz",
+            "nico",
+            "decide",
+            "pako",
+            "resurge"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/12/06/notas-pako-ruiz-nico-williams-resurge-decide-10442937.html",
+        "date": "2025-12-06 22:11:34",
+        "sentiment_score": 0.8725771643221378
+    },
+    {
+        "title": "El Atlético se hace pequeño en San Mamés y cede terreno en su lucha por la Liga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/06/6934a76305e10.r_d.2667-825-3066.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251206/atletico-hace-pequeno-san-mames-cede-terreno-lucha-liga_362970.html",
+        "date": "2025-12-06 22:08:05",
+        "sentiment_score": 0.16290003061294556
+    },
+    {
+        "title": "El negocio de 'encender' la Navidad: 100 millones y carreras por iluminar más",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/06/fotolead-pradonegro1200-kXCC--562x562@RC.jpg",
+        "tags": [
+            "navidad",
+            "españa",
+            "historias visuales",
+            "abel caballero álvarez",
+            "vigo"
+        ],
+        "link": "https://www.canarias7.es/economia/negocio-encender-navidad-100-millones-carreras-iluminar-20251207000705-ntrc.html",
+        "date": "2025-12-06 22:07:08",
+        "sentiment_score": 0.7381919175386429
+    },
+    {
+        "title": "Las imágenes del Real Madrid-Real",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3712c5c6-123a-403a-a217-084210237654_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "real",
+            "imagenes"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/fotos/2025/12/06/imagenes-real-madrid-real-10443379.html",
+        "date": "2025-12-06 21:56:41",
+        "sentiment_score": -0.7913955822587013
+    },
+    {
+        "title": "La comunidad venezolana en Madrid respalda a María Corina Machado a pocos días de recibir el Nobel de la Paz",
+        "image_url": "https://www.infobae.com/resizer/v2/PPLJNSJFBFDKDG522LY3PO4WTQ.jpg?auth=1046d670f53c4598e2383f066518347837bda6586279b6f066255fb604d6c6eb&height=3461&smart=true&width=5191",
+        "tags": [
+            "españa-noticias",
+            "españa-sociedad",
+            "premio nobel de la paz",
+            "nicolás maduro",
+            "edmundo gonzález urrutia",
+            "maria corina machado",
+            "donald trump",
+            "antonio ledezma",
+            "madrid"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/06/la-comunidad-venezolana-en-madrid-respalda-a-maria-corina-machado-a-pocos-dias-de-recibir-el-nobel-de-la-paz/",
+        "date": "2025-12-06 21:56:10",
+        "sentiment_score": 0.03351348266005516
+    },
+    {
+        "title": "El show de Messi para darle el título de la MLS al Inter Miami: asistencia clave para De Paul y un pase genial que enloqueció a Mascherano",
+        "image_url": "https://www.infobae.com/resizer/v2/JFUTWGZFBZC2TMREHPUP653JBY.JPG?auth=0beca941b75ee033ab1fdf86093253bfe923b1ca5ccf7561e1114b354601f5c0&height=2287&smart=true&width=4065",
+        "tags": [
+            "deportes-argentina",
+            "mls",
+            "inter miami",
+            "lionel messi",
+            "vancouver whitecaps",
+            "thomas müller",
+            "rodrigo de paul"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/06/el-show-de-messi-para-darle-el-titulo-de-la-mls-al-inter-miami-asistencia-clave-para-de-paul-y-un-pase-genial-que-enloquecio-a-mascherano/",
+        "date": "2025-12-06 21:52:18",
+        "sentiment_score": 0.6661940887570381
+    },
+    {
+        "title": "La fuerte patada de Cubas a Messi en la final de la MLS entre Inter Miami y Vancouver Whitecaps: el antecedente",
+        "image_url": "https://www.infobae.com/resizer/v2/SF6Z2Q76UNE6TDOP5FCASPJ3TQ.JPG?auth=48a1638fb4572d64ed0479483764f8e05ab033a8d3ddaae59c38ed6d5ce4ae3c&height=2235&smart=true&width=3973",
+        "tags": [
+            "lionel messi",
+            "mls",
+            "deportes-argentina",
+            "vancouver whitecaps",
+            "inter miami",
+            "andrés cubas"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/06/la-fuerte-patada-de-cubas-a-messi-en-la-final-de-la-mls-entre-inter-miami-y-vancouver-whitecaps-el-antecedente-previo/",
+        "date": "2025-12-06 22:08:59",
+        "sentiment_score": -0.9178457725793123
+    },
+    {
+        "title": "Busquets y Jordi Alba cuelgan las botas ganando la MLS con el Inter Miami",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/06/6934a532bdf58.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/busquets-jordi-alba-cuelgan-botas-ganando-mls-inter-miami-20251206_3266934.html",
+        "date": "2025-12-06 22:06:03",
+        "sentiment_score": 0.005622148513793945
+    },
+    {
+        "title": "\"Las líneas eléctricas se están convirtiendo en el motor clave para el impulso de la industria en Cataluña\"",
+        "image_url": "https://static1.ara.cat/clip/078a8044-6c32-4c0c-bce3-0ef998ea6169_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lineas",
+            "motor",
+            "industria",
+            "impulso",
+            "clave",
+            "cataluna",
+            "electricas",
+            "convirtiendo"
+        ],
+        "link": "https://es.ara.cat/misc/lineas-electricas-convirtiendo-motor-clave-impulso-industria-cataluna_128_5585400.html",
+        "date": "2025-12-06 22:01:17",
+        "sentiment_score": 0.30784180760383606
+    },
+    {
+        "title": "Factorenergía: 25 años impulsando un modelo energético más limpio, cercano y participativo",
+        "image_url": "https://static1.ara.cat/clip/edce8273-dc98-46cf-80a5-488f57e4fd9c_16-9-aspect-ratio_default_0.png",
+        "tags": [
+            "participativo",
+            "anos",
+            "energetico",
+            "modelo",
+            "limpio",
+            "25",
+            "impulsando",
+            "cercano",
+            "factorenergia"
+        ],
+        "link": "https://es.ara.cat/misc/factorenergia-25-anos-impulsando-modelo-energetico-limpio-cercano-participativo_1_5585384.html",
+        "date": "2025-12-06 22:01:10",
+        "sentiment_score": 0.6951348930597305
+    },
+    {
+        "title": "Un zarpazo del Athletic aleja al Atlético de la Liga",
+        "image_url": "https://okdiario.com/img/2025/12/06/cronica-atletico-interior.jpg",
+        "tags": [
+            "athletic club de bilbao",
+            "fútbol",
+            "la liga",
+            "deportes",
+            "atlético de madrid"
+        ],
+        "link": "https://okdiario.com/deportes/zarpazo-del-athletic-aleja-atletico-liga-15895029",
+        "date": "2025-12-06 21:59:35",
+        "sentiment_score": -0.45337817072868347
     }
 ];
