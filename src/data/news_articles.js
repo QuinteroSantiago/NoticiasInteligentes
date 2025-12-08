@@ -1,372 +1,5 @@
 export default [
     {
-        "title": "El Ourense CF derriba al Girona (2-1) y ya espera a un grande en la Copa del Rey",
-        "image_url": "https://cflvdg.avoz.es/sc/2qHgzn966UY36B3_RyOrdmX1VBw=/768x/2025/12/03/00121764798782781639699/Foto/i_20251203_224717003.jpg",
-        "tags": [
-            "girona fc",
-            "ourense",
-            "ourense c.f.",
-            "copa del rey",
-            "estadio de o couto"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/ourense/2025/12/04/ourense-cf-espera-grande/0003_202512O4P42991.htm",
-        "date": "2025-12-03 22:19:00",
-        "sentiment_score": -0.0947648286819458
-    },
-    {
-        "title": "Xabi Alonso: \"Ha sido probablemente el partido más redondo de la temporada\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/03/9ACB5E61-5900-4876-864F-B09CC3A8DC0C/saludo-xabi-alonso-vinicius-san-mames_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "antena 3 noticias",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/xabi-alonso-sido-probablemente-partido-mas-redondo-temporada_202512036930b49f55584d48fb68a2bd.html",
-        "date": "2025-12-03 22:07:50",
-        "sentiment_score": 0.23106200993061066
-    },
-    {
-        "title": "Copa del Rey: Todos los resultados del miécoles 3 de diciembre en la segunda ronda",
-        "image_url": "https://pxcdn.meridiano.net/122025/1764798740634.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/copa-del-rey-todos-los-resultados-del-miecoles-3-de-diciembre-en-la-segunda-ronda-202512317560",
-        "date": "2025-12-03 21:56:00",
-        "sentiment_score": 0.06679162010550499
-    },
-    {
-        "title": "Broche con estrellas Michelín a Sabor Quijote 2025 en Sevilla, una edición con 8 millones de impactos",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Visita-a-la-Nao-Elena-Rosa-04036-1299x730.jpg",
-        "tags": [
-            "sabor quijote",
-            "provincia de ciudad real"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/broche-con-estrellas-michelin-a-sabor-quijote-2025-en-sevilla-una-edicion-con-8-millones-de-impactos/",
-        "date": "2025-12-03 21:52:51",
-        "sentiment_score": 0.029574215412139893
-    },
-    {
-        "title": "Valverde: “Ya nos hemos levantado en momentos de dificultad”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ccdb08c8-b90a-46b6-b322-892e0148a21b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "momentos",
-            "valverde",
-            "levantado",
-            "hemos",
-            "dificultad"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/12/03/valverde-hemos-levantado-momentos-dificultad-10431890.html",
-        "date": "2025-12-03 21:37:36",
-        "sentiment_score": -0.7122958824038506
-    },
-    {
-        "title": "El CF Talavera se 'venga' del Málaga",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/b604e1bf-d65d-4fc2-bac1bd11870f5dee.jpg",
-        "tags": [
-            "estadio el prado",
-            "fc barcelona",
-            "real madrid",
-            "barcelona",
-            "cuenca",
-            "segunda división",
-            "málaga cf",
-            "cf talavera",
-            "talavera de la reina",
-            "copa del rey"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z5ada2269-eff5-4d89-a76960bd677f481c/202512/el-cf-talavera-se-venga-del-malaga",
-        "date": "2025-12-03 21:37:06",
-        "sentiment_score": 0.3839573413133621
-    },
-    {
-        "title": "Mbappé se saca la espina",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/964fa6d1-bd9b-467a-bc98-0aa2c8583ba3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "saca",
-            "espina",
-            "mbappe"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/12/03/mbappe-saca-espina-10431845.html",
-        "date": "2025-12-03 21:31:57",
-        "sentiment_score": 0.418465256690979
-    },
-    {
-        "title": "La fotografía que confirma el apoyo incondicional de la Infanta Elena al emérito",
-        "image_url": "https://www.infobae.com/resizer/v2/XT4MJYQPANCPPN6IFJ36FUHO7A.jpg?auth=28cda852ce1756d39be05047347e34dceda64a1170e82d74f5dae8769a7805f1&height=1440&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/03/la-fotografia-que-confirma-el-apoyo-incondicional-de-la-infanta-elena-al-emerito/",
-        "date": "2025-12-03 21:30:15",
-        "sentiment_score": 0.6535219848155975
-    },
-    {
-        "title": "El Madrid se impone con gran comodidad",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/690ca2ab-4d7f-4ae8-8d4d-bf039d9e794d_16-9-aspect-ratio_default_1019880.jpg",
-        "tags": [
-            "gran",
-            "madrid",
-            "impone",
-            "comodidad"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/12/03/madrid-impone-gran-comodidad-10431819.html",
-        "date": "2025-12-03 21:21:45",
-        "sentiment_score": -0.19077320396900177
-    },
-    {
-        "title": "El rey Juan Carlos I habla del rifirrafe de la reina Letizia y Sofía en Palma, de sus fotos desnudo y alaba a su mujer",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2577193.jpg",
-        "tags": [
-            "dolcevita"
-        ],
-        "link": "https://www.vozpopuli.com/dolcevita/el-rey-juan-carlos-i-habla-del-rifirrafe-de-la-reina-letizia-y-sofia-en-palma-de-sus-fotos-desnudo-y-alaba-a-su-mujer.html",
-        "date": "2025-12-03 21:16:32",
-        "sentiment_score": -0.03440170735120773
-    },
-    {
-        "title": "Peste porcina, temor y control",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/03/op-porcina-ks2C--758x531@Hoy.jpg",
-        "tags": [
-            "opinión hoy"
-        ],
-        "link": "https://www.hoy.es/opinion/peste-porcina-temor-control-20251204224853-nt.html",
-        "date": "2025-12-03 22:13:50",
-        "sentiment_score": -0.651369258761406
-    },
-    {
-        "title": "La Junta destaca los controles en granjas y jabalíes salvajes ante la peste porcina",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/04/1503632659-kwpH-U240443129200PDF-1200x840@Ideal.jpg",
-        "tags": [
-            "ante",
-            "porcina",
-            "jabalies",
-            "destaca",
-            "junta",
-            "controles",
-            "peste",
-            "granjas",
-            "salvajes"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/junta-destaca-controles-granjas-jabalies-salvajes-ante-20251204230125-nt.html",
-        "date": "2025-12-03 22:01:26",
-        "sentiment_score": -0.242851123213768
-    },
-    {
-        "title": "Pedro Ruiz cuenta el día que le obligaron a dejar la televisión durante el franquismo: \"La única libertad que hay es el teatro\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/03/pedro-ruiz-en-la-revuelta.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/pedro-ruiz-cuenta-dia-le-obligaron-dejar-television-franquismo-la-unica-libertad-hay-teatro.html",
-        "date": "2025-12-03 21:59:33",
-        "sentiment_score": 0.4400065839290619
-    },
-    {
-        "title": "La relación entre Pedro Ruiz y David Broncano: «Me manda vídeos tirándose a la piscina»",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/12/03/ruiz-kiCG--758x531@El%20Correo.jpg",
-        "tags": [
-            "audiencias",
-            "televisión",
-            "la 1 (tve)"
-        ],
-        "link": "https://www.elcorreo.com/gente-estilo/relacion-pedro-ruiz-david-broncano-manda-videos-20251203224845-nt.html",
-        "date": "2025-12-03 21:48:45",
-        "sentiment_score": 0.1238701120018959
-    },
-    {
-        "title": "Uno de los personajes basados para «La Casa de Papel» es extraditado a Perú para un juicio por narcotráfico",
-        "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2022/10/07/63404908f2539.r_d.145-418-0.webp",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.eldebate.com/internacional/20251203/personajes-basados-casa-papel-extraditado-peru-juicio-narcotrafico_361948.html",
-        "date": "2025-12-03 21:40:17",
-        "sentiment_score": -0.738469086587429
-    },
-    {
-        "title": "Chile paraliza las importaciones de \"todo producto porcino de origen español\" tras el brote de peste detectado en Barcelona",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/02/692ea49a179062-17372150.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.20minutos.es/internacional/chile-suspende-las-importaciones-todo-producto-porcino-origen-espanol-tras-brote-peste-detectado-barcelona_6906366_0.html",
-        "date": "2025-12-03 21:25:13",
-        "sentiment_score": 0.2284318134188652
-    },
-    {
-        "title": "Santa Bárbara en un año negro",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/431d7864-21c4-440b-b1d3-92d1424a3caf_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "santa bárbara",
-            "gente",
-            "empleo",
-            "las cuencas"
-        ],
-        "link": "https://www.lne.es/asturias/2025/12/04/santa-barbara-ano-negro-124414396.html",
-        "date": "2025-12-04 02:00:27",
-        "sentiment_score": -0.9287377130240202
-    },
-    {
-        "title": "Ábalos encapsulado",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2577348.jpg",
-        "tags": [
-            "opinion"
-        ],
-        "link": "https://www.vozpopuli.com/opinion/abalos-encapsulado.html",
-        "date": "2025-12-04 00:44:38",
-        "sentiment_score": -0.8992889374494553
-    },
-    {
-        "title": "03 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/03-dic-2025-partidazo-cope-20251204_3265068.html",
-        "date": "2025-12-04 00:39:01",
-        "sentiment_score": 0.21745187044143677
-    },
-    {
-        "title": "El \"GPS clínico\" de Route2Spain: así es la puntera tecnología que automatiza y mejora la atención del asma grave",
-        "image_url": "https://s3.elespanol.com/2025/12/03/actualidad/1003744040966_260295135_1706x960.jpg",
-        "tags": [
-            "salud pública",
-            "salud",
-            "branded content",
-            "gran empresa",
-            "innovación",
-            "digitalización",
-            "tecnología",
-            "asma"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20251204/gps-clinico-route2spain-puntera-tecnologia-automatiza-mejora-atencion-asma-grave/1003744036982_0.html",
-        "date": "2025-12-04 00:34:00",
-        "sentiment_score": -0.07227899134159088
-    },
-    {
-        "title": "La decepción de Javier Tebas que supone un honor para Joan Gaspart: persona 'non grata' en el Bernabéu",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/10/09/business/800680027_8949099_1706x960.jpg",
-        "tags": [
-            "joan gaspart",
-            "florentino pérez",
-            "palco",
-            "javier tebas",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251204/decepcion-javier-tebas-joan-gaspart-persona-bernabeu/1003742710805_0.html",
-        "date": "2025-12-04 00:11:50",
-        "sentiment_score": -0.9059146409854293
-    },
-    {
-        "title": "La cruda confesión de un campeón del mundo que brilló en el Madrid: “Sufrí depresión, pensaba que la soledad era el precio para llegar al éxito”",
-        "image_url": "https://www.infobae.com/resizer/v2/DNYQ3FLEUBHSPLXDZ6SOQDS3LE.jpg?auth=0ba496f02fdca7f8ca843e8590c0aac7f7aec93942095ac25a3eeb8715624d5a&height=1080&smart=true&width=1920",
-        "tags": [
-            "real madrid",
-            "selección de francia",
-            "raphael varane",
-            "deportes-internacional",
-            "manchester united"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/04/la-cruda-confesion-de-un-campeon-del-mundo-que-brillo-en-el-madrid-sufri-depresion-pensaba-que-la-soledad-era-el-precio-para-llegar-al-exito/",
-        "date": "2025-12-04 00:04:05",
-        "sentiment_score": 0.45592236146330833
-    },
-    {
-        "title": "El regreso de Naela: un accidente, la maternidad y un reencuentro musical en Bogotá",
-        "image_url": "https://www.infobae.com/resizer/v2/3KWQPUFVBJHURIQ6JGV3EFEPJY.png?auth=0e98301d3d25b77d15cedcdb35308c04aafaef296050aa510f16e4c84669af77&height=585&smart=true&width=889",
-        "tags": [
-            "el reencuentro",
-            "pop colombiano",
-            "crónicas de un amor",
-            "bogotá",
-            "naela"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/12/03/el-regreso-de-naela-un-accidente-la-maternidad-y-un-reencuentro-musical-en-bogota/",
-        "date": "2025-12-03 23:53:10",
-        "sentiment_score": 0.7608951758593321
-    },
-    {
-        "title": "Santi Lesmes llevará a niño Pol Deportes a la Champions League para que narre el partido Real Madrid vs. Manchester City",
-        "image_url": "https://www.infobae.com/resizer/v2/ITODGBATAVBNDE7PC2XZQJ4RC4.jpg?auth=f55f6526e9ebda8a7706622cf12ddd3328fbd42d64cd69866be1920d2ab107f9&height=1080&smart=true&width=1920",
-        "tags": [
-            "real madrid vs. manchester city",
-            "champions league",
-            "peru-entretenimiento",
-            "pol deportes",
-            "arriba mi gente",
-            "santi lesmes"
-        ],
-        "link": "https://www.infobae.com/peru/2025/12/03/santi-lesmes-llevara-a-nino-pol-deportes-a-la-champions-league-para-que-narre-el-partido-real-madrid-vs-manchester-city/",
-        "date": "2025-12-03 23:52:53",
-        "sentiment_score": 0.4941944107413292
-    },
-    {
-        "title": "2a PARTE | 03 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-03-dic-2025-partidazo-cope-20251204_3265060.html",
-        "date": "2025-12-03 23:37:43",
-        "sentiment_score": 0.7695021964609623
-    },
-    {
-        "title": "Pasarón se quedó frío en la noche que buscaba revivir el pasado",
-        "image_url": "https://cflvdg.avoz.es/sc/AWGpXVp5pKKd7-mJgRjqm36w_Cw=/768x/2025/12/04/00121764804601665458113/Foto/i_20251203_215827000.jpg",
-        "tags": [
-            "pontevedra ciudad",
-            "levante ud",
-            "fc barcelona",
-            "pontevedra cf",
-            "real madrid",
-            "sd eibar",
-            "copa del rey"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/pontevedra/pontevedra/2025/12/04/noche-queria-revivir-pasado/0003_202512P4P43991.htm",
-        "date": "2025-12-03 23:37:00",
-        "sentiment_score": -0.1447659730911255
-    },
-    {
-        "title": "Sánchez y Puigdemont: entre pillos anda el juego",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "juego",
-            "anda",
-            "pillos",
-            "puigdemont",
-            "sanchez"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/sanchez-puigdemont-pillos-anda-juego_0_2005388265.html",
-        "date": "2025-12-04 02:08:14",
-        "sentiment_score": -0.2277746945619583
-    },
-    {
-        "title": "Miriam Nogueras sonríe, esto sigue",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sigue",
-            "nogueras",
-            "miriam",
-            "sonrie"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/miriam-nogueras-sonrie-sigue_0_2005388261.html",
-        "date": "2025-12-04 02:08:13",
-        "sentiment_score": -0.38033924996852875
-    },
-    {
-        "title": "La legislatura tiene gasolina",
-        "image_url": "https://static.grupojoly.com/clip/64bda378-bd45-42c9-89a8-4eaca9ab5b71_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gasolina",
-            "legislatura"
-        ],
-        "link": "https://www.huelvainformacion.es/opinion/articulos/legislatura-gasolina_0_2005388237.html",
-        "date": "2025-12-04 02:07:59",
-        "sentiment_score": 0.0018204748630523682
-    },
-    {
         "title": "Niño Becerra, economista, sobre la Lotería de Navidad: “Antes con el Gordo podías comprarte 24 casas, ahora ni una”",
         "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039812_260279123_1706x960.jpg",
         "tags": [
@@ -2990,5 +2623,221 @@ export default [
         "link": "https://www.elperiodico.com/es/tecnologia/20251207/mierdificacion-internet-plataformas-redes-sociales-cory-doctorow-enshittification-peor-mierda-experiencia-122972628",
         "date": "2025-12-07 06:00:30",
         "sentiment_score": -0.9054250931367278
+    },
+    {
+        "title": "Regreso al pasado",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2d2c34ec-3801-496d-bf39-d41ddae9b02c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pasado",
+            "regreso"
+        ],
+        "link": "https://www.noticiasdenavarra.com/navarra/2025/12/07/regreso-pasado-10444433.html",
+        "date": "2025-12-07 17:00:40",
+        "sentiment_score": 0.12972913682460785
+    },
+    {
+        "title": "El presidente de Melilla denuncia que las promesas de una reapertura de aduanas con Marruecos son una “tomadura de pelo” y asegura que no pasa “ni un yogur”",
+        "image_url": "https://www.infobae.com/resizer/v2/57UXTDJZBZD7TFMIIYVZOR3JCU.jpg?auth=0a94ba2681539ce9e9cc4d4da7775dcd351769540c1e4d7645d808987e381814&height=1280&smart=true&width=1920",
+        "tags": [
+            "gobierno de españa",
+            "partido popular",
+            "psoe",
+            "aduanas",
+            "españa-nacional",
+            "españa-noticias",
+            "política españa",
+            "pp",
+            "melilla",
+            "marruecos"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/07/el-presidente-de-melilla-denuncia-que-las-promesas-de-una-reapertura-de-aduanas-con-marruecos-son-una-tomadura-de-pelo-y-asegura-que-no-pasa-ni-un-yogur/",
+        "date": "2025-12-07 16:37:13",
+        "sentiment_score": -0.837897252291441
+    },
+    {
+        "title": "GALERÍA | Partido del Zamora CF vs Real Madrid Castilla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a2a0159-c28e-42cf-8b99-c56c647096f1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "deportes,real madrid,zamora cf"
+        ],
+        "link": "https://www.laopiniondezamora.es/fotos/deportes/2025/12/07/galeria-partido-zamora-cf-vs-124550665.html",
+        "date": "2025-12-07 16:24:07",
+        "sentiment_score": -0.0007473230361938477
+    },
+    {
+        "title": "El Hospital Universitario Infanta Elena celebra su III Jornada de Humanización Sanitaria",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2586464.jpg",
+        "tags": [
+            "sanitatem"
+        ],
+        "link": "https://www.vozpopuli.com/sanitatem/el-hospital-universitario-infanta-elena-celebra-su-iii-jornada-de-humanizacion-sanitaria.html",
+        "date": "2025-12-07 16:19:32",
+        "sentiment_score": 0.0044671520590782166
+    },
+    {
+        "title": "Llull le da el triunfo al Real Madrid en la última jugada ante el Tenerife",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/07/6935a6e870f61.r_d.615-270-9577.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20251207/llull-le-da-triunfo-real-madrid-ultima-jugada-ante-tenerife_363074.html",
+        "date": "2025-12-07 16:14:24",
+        "sentiment_score": 0.636086817830801
+    },
+    {
+        "title": "Aumentan los jóvenes que se sienten solos y sin nadie real con quien hablar",
+        "image_url": "https://static.grupojoly.com/clip/6c72c0d1-c4f6-4f22-8916-81a45b78534e_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "jovenes",
+            "sienten",
+            "aumentan",
+            "nadie",
+            "solos"
+        ],
+        "link": "https://www.granadahoy.com/sociedad/aumentan-jovenes-sienten-solos-nadie_0_2005406078.html",
+        "date": "2025-12-07 16:12:12",
+        "sentiment_score": -0.6805602665990591
+    },
+    {
+        "title": "El PP reivindica la “revolución industrial” de Juanma Moreno con ejemplos tangibles en Jaén",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251207164349_690.jpg",
+        "tags": [
+            "andalucía"
+        ],
+        "link": "https://www.europapress.es/andalucia/noticia-pp-reivindica-revolucion-industrial-juanma-moreno-ejemplos-tangibles-jaen-20251207164349.html",
+        "date": "2025-12-07 15:43:49",
+        "sentiment_score": 0.41590458154678345
+    },
+    {
+        "title": "Llull firma su enésimo truco de magia para darle la victoria al Real Madrid ante el Tenerife y dejar líderes a los blancos",
+        "image_url": "https://s3.elespanol.com/2025/12/07/actualidad/1003744046262_260363815_1706x960.jpg",
+        "tags": [
+            "deportes",
+            "baloncesto",
+            "real madrid baloncesto"
+        ],
+        "link": "https://www.elespanol.com/deportes/baloncesto/20251207/llull-firma-enesimo-truco-magia-darle-victoria-real-madrid-tenerife-dejar-lideres-blancos/1003744046256_0.html",
+        "date": "2025-12-07 15:34:06",
+        "sentiment_score": 0.3021309971809387
+    },
+    {
+        "title": "Prisión provisional para un vecino de Cornellà detenido por una agresión sexual a una menor",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/02/28/el-pulso-de-la-ciudad/836176501_12526185_1706x960.jpg",
+        "tags": [
+            "cornellà de llobregat",
+            "agresiones sexuales barcelona",
+            "sucesos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sucesos/20251207/prision-provisional-vecino-cornella-detenido-agresion-sexual-menor/1003742714236_0.html",
+        "date": "2025-12-07 17:11:25",
+        "sentiment_score": -0.6959225907921791
+    },
+    {
+        "title": "Manifestantes ondean banderas ucranianas mientras La Scala ofrece una ópera rusa",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/1/f5/1f509f18-2c1a-5900-9350-3daf826b2d9a/69357fa60f3f9.image.jpg?resize=300%2C200",
+        "tags": [
+            "italia la scala opera",
+            "entertainment"
+        ],
+        "link": "https://santamariatimes.com/ap/entertainment/manifestantes-ondean-banderas-ucranianas-mientras-la-scala-ofrece-una-pera-rusa/article_fd85f558-a323-5085-8b2e-c8631dd8fb51.html",
+        "date": "2025-12-07 17:03:29",
+        "sentiment_score": 0.19991091638803482
+    },
+    {
+        "title": "Las renovables retroceden en Cataluña a pesar del fin de la sequía",
+        "image_url": "https://static1.ara.cat/clip/8b90c8a5-a267-424b-b131-b4c3e64a759b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sequia",
+            "cataluna",
+            "retroceden",
+            "pesar",
+            "renovables"
+        ],
+        "link": "https://es.ara.cat/economia/energia/renovables-retroceden-cataluna-pesar-sequia_1_5585766.html",
+        "date": "2025-12-07 17:01:58",
+        "sentiment_score": 0.004830420017242432
+    },
+    {
+        "title": "Jordi Morera: \"El pan bueno no es el demonio de la alimentación ni engorda ni tiene hidratos malos\"",
+        "image_url": "https://static1.ara.cat/clip/5af7bc9f-7528-444c-8cc6-791ff6ccbb5e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "demonio",
+            "jordi",
+            "no",
+            "pan",
+            "alimentacion",
+            "malos",
+            "morera",
+            "engorda",
+            "bueno",
+            "hidratos"
+        ],
+        "link": "https://es.ara.cat/comer/jordi-morera-pan-bueno-no-demonio-alimentacion-engorda-hidratos-malos_1_5585751.html",
+        "date": "2025-12-07 17:00:43",
+        "sentiment_score": -0.8783715106546879
+    },
+    {
+        "title": "La gran cúpula del nuevo pabellón de Fira de Barcelona toma forma",
+        "image_url": "https://static1.ara.cat/clip/3e51f571-fa99-4870-ab35-6284edf228e2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "toma",
+            "barcelona",
+            "forma",
+            "gran",
+            "nuevo",
+            "fira",
+            "cupula",
+            "pabellon"
+        ],
+        "link": "https://es.ara.cat/economia/industria/gran-cupula-nuevo-pabellon-fira-barcelona-toma-forma_1_5585752.html",
+        "date": "2025-12-07 17:00:43",
+        "sentiment_score": 0.44867897778749466
+    },
+    {
+        "title": "Manel Esteller, doctor experto en longevidad: \"Si hacemos las cosas bien, en 100 años veremos personas de 110, 120 o 130 años\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2020/10/06/el-director-del-institut-de-recerca-contra-la-leucemia-josep-carreras-investigador-icrea-y-catedratico-de-la-universitat-de-barcelona-ub-manel-esteller.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/salud/actualidad/longevidad-salud-vivir-mas-100-anos-manel-esteller-experto_6902365_0.html",
+        "date": "2025-12-07 17:00:00",
+        "sentiment_score": 0.5493769943714142
+    },
+    {
+        "title": "Bikini con pimientos de piquillo caramelizados, una receta fácil y deliciosa para triunfar en otoño y reinventar la clásica receta",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/24/69243c1211b143-62062693.jpeg",
+        "tags": [
+            "recetas"
+        ],
+        "link": "https://www.20minutos.es/gastronomia/recetas/bikini-pimientos-piquillo-caramelizados-receta-facil-deliciosa-triunfar-otono-reinventar-clasica-receta_6899760_0.html",
+        "date": "2025-12-07 17:00:00",
+        "sentiment_score": 0.7144318334758282
+    },
+    {
+        "title": "El mercadillo navideño a 2 horas de Barcelona donde luce un Papa Noel de 18 metros de altura",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/02/noria-del-mercadillo-navideno-de-le-barcares-en-2021-al-sur-de-francia.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/el-mercadillo-navideno-2-horas-barcelona-luce-papa-noel-18-metros-altura.html",
+        "date": "2025-12-07 16:58:34",
+        "sentiment_score": 0.09946461021900177
+    },
+    {
+        "title": "¿De verdad puede ‘escaparse’ de un laboratorio un virus como el de la peste porcina? La hipótesis gana peso",
+        "image_url": "https://www.infobae.com/resizer/v2/ROJTZNZBBJCPHPGCOAKXL242RU.jpg?auth=5542dc8a6d5fb1683b83227568ef9b76fe2b84cc0efc9cd496f51c6faa959b65&height=1280&smart=true&width=1920",
+        "tags": [
+            "enfermedades y medicamentos españa",
+            "españa-noticias",
+            "sanidad españa",
+            "cerdos",
+            "cataluña",
+            "españa-sociedad",
+            "enfermedades y medicamentos",
+            "animales"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/07/de-verdad-puede-escaparse-de-un-laboratorio-un-virus-como-el-de-la-peste-porcina-la-hipotesis-gana-peso/",
+        "date": "2025-12-07 16:57:54",
+        "sentiment_score": -0.19159530848264694
     }
 ];
