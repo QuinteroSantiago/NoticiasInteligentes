@@ -1,179 +1,5 @@
 export default [
     {
-        "title": "Muere Steve Cropper, gigante de la guitarra, maestro del soul y leyenda con los Blues Brothers",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/ea/media_thumb-link-4123346.webp?1764841086=",
-        "tags": [
-            "soul",
-            "actualidad",
-            "steve cropper",
-            "eeuu",
-            "guitarrista",
-            "guitarra"
-        ],
-        "link": "https://www.meneame.net/story/muere-steve-cropper-gigante-guitarra-maestro-soul-leyenda-blues",
-        "date": "2025-12-04 14:25:04",
-        "sentiment_score": 0.056193262338638306
-    },
-    {
-        "title": "LaLiga denuncia cánticos de \"¡Asencio, violador!\" e insultos a Vinícius durante el Athletic - Real Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/352763da-7af9-4c79-a726-3afd76e6a452_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "real madrid",
-            "athletic club"
-        ],
-        "link": "https://www.informacion.es/deportes/2025/12/04/laliga-denuncia-canticos-asencio-violador-124458324.html",
-        "date": "2025-12-04 17:11:59",
-        "sentiment_score": -0.8541467562317848
-    },
-    {
-        "title": "Las empresas de Baleares solo reciben un 0,7 % de las licitaciones públicas del Estado, según denuncia la ASM",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3582649.jpg",
-        "tags": [
-            "assemblea sobiranista de mallorca",
-            "ultimas noticias",
-            "palma de mallorca",
-            "última hora",
-            "palma",
-            "local"
-        ],
-        "link": "https://www.ultimahora.es/noticias/local/2025/12/04/2525473/empresas-baleares-solo-reciben-licitaciones-publicas-del-estado-segun-denuncia-asm.html",
-        "date": "2025-12-04 17:10:52",
-        "sentiment_score": -0.11468502134084702
-    },
-    {
-        "title": "Baskonia vuelve a necesitar el calor del Buesa Arena",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251204180852_690.jpg",
-        "tags": [
-            "deportes",
-            "baloncesto"
-        ],
-        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-baskonia-vuelve-necesitar-calor-buesa-arena-20251204180852.html",
-        "date": "2025-12-04 17:08:52",
-        "sentiment_score": 0.2567877843976021
-    },
-    {
-        "title": "El precioso bar con tienda que parece estar en una gran ciudad, pero triunfa en un pueblo perdido de Asturias (a dos horas y media de Oviedo) en riesgo de despoblación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a8db5851-3d2a-4756-ada1-26d0832f50c4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "duda",
-            "decoración",
-            "alojamiento",
-            "gente",
-            "occidente",
-            "asturias"
-        ],
-        "link": "https://www.lne.es/occidente/2025/12/04/precioso-bar-tienda-parece-gran-124455716.html",
-        "date": "2025-12-04 17:11:39",
-        "sentiment_score": -0.8823379687964916
-    },
-    {
-        "title": "MSC Cruceros iniciará en diciembre de 2026 las rutas por el Mediterráneo del MSC World Asia",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251204181053_260.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-msc-cruceros-iniciara-diciembre-2026-rutas-mediterraneo-msc-world-asia-20251204181053.html",
-        "date": "2025-12-04 17:10:53",
-        "sentiment_score": 0.05137482099235058
-    },
-    {
-        "title": "Alstom presenta la única oferta para fabricar 39 nuevos trenes de Metro de Barcelona por 321 millones",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/12/fotonoticia_20251204174113_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/840732/alstom-presenta-la-unica-oferta-para-fabricar-39-nuevos-trenes-de-metro-de-barcelona-por-321-millones/",
-        "date": "2025-12-04 17:10:33",
-        "sentiment_score": 0.3699956201016903
-    },
-    {
-        "title": "“La Administración puede reducir infecciones de VIH distribuyendo más pastillas preventivas”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "tags": [
-            "claves del día"
-        ],
-        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20251204/11333341/claves-dia-administracion-reducir-infecciones-vih-distribuyendo-mas-pastillas-preventivas.html",
-        "date": "2025-12-04 17:10:20",
-        "sentiment_score": 0.08177997916936874
-    },
-    {
-        "title": "InmoCaixa compra la sede de Novartis en Barcelona",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/12/fotonoticia_20251204175203_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/840720/inmocaixa-compra-la-sede-de-novartis-en-barcelona/",
-        "date": "2025-12-04 17:10:14",
-        "sentiment_score": 0.08301819860935211
-    },
-    {
-        "title": "El CGE avala la regulación del alquiler de temporada pero cuestiona la prórroga automática de VPO",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251204180827_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-cge-avala-regulacion-alquiler-temporada-cuestiona-prorroga-automatica-vpo-20251204180827.html",
-        "date": "2025-12-04 17:08:27",
-        "sentiment_score": -0.38078831136226654
-    },
-    {
-        "title": "Las víctimas de tráfico convierten en documental su deseo de una justicia “empática y restaurativa”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/04/6931ad9386900.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20251204/11332956/victimas-trafico-convierten-documental-deseo-justicia-empatica-restaurativa.html",
-        "date": "2025-12-04 17:08:09",
-        "sentiment_score": -0.6210740432143211
-    },
-    {
-        "title": "El Saló Ocasión vuelve este 2025 con un nuevo organizador",
-        "image_url": "https://static1.ara.cat/clip/45a50eff-7ed4-4da4-be30-97d9d1b900af_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "organizador",
-            "2025",
-            "salo",
-            "nuevo",
-            "ocasion",
-            "vuelve"
-        ],
-        "link": "https://es.ara.cat/economia/automocion/salo-ocasion-vuelve-2025-nuevo-organizador_1_5583033.html",
-        "date": "2025-12-04 17:07:17",
-        "sentiment_score": -0.25025662779808044
-    },
-    {
-        "title": "«Este partido es de los jugadores, del club y de la afición»",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/3ce59482-6c69-49f6-98a90191d57d6e06.jpg",
-        "tags": [
-            "estadio el prado",
-            "cd lugo",
-            "fc barcelona",
-            "real madrid",
-            "segunda división",
-            "málaga cf",
-            "cf talavera",
-            "talavera de la reina",
-            "atlético de madrid",
-            "copa del rey"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/ze5d27208-ae04-4022-a16f8760565a2c85/202512/este-partido-es-de-los-jugadores-del-club-y-de-la-aficion",
-        "date": "2025-12-04 17:05:53",
-        "sentiment_score": 0.6616007685661316
-    },
-    {
-        "title": "Los animalistas piden no \"criminalizar\" a los jabalíes por la peste porcina y culpan a las granjas",
-        "image_url": "https://s1.staticld.com/2025/12/04/jabali-fauna-salvaje-caza.jpg",
-        "tags": [
-            "ciencia"
-        ],
-        "link": "https://www.libertaddigital.com/ciencia-tecnologia/ciencia/2025-12-04/ecologistas-en-accion-pide-no-criminalizar-a-los-jabalies-de-la-peste-porcina-africana-y-culpa-a-las-granjas-7329168/",
-        "date": "2025-12-04 17:02:50",
-        "sentiment_score": -0.21761785447597504
-    },
-    {
         "title": "Caso Negreira: el Real Madrid finaliza un informe con videos que recibirá Infantino",
         "image_url": "https://pxcdn.2001online.com/2001/122025/1764876440502/16827744.jpeg?ch=675&cw=1200",
         "tags": [
@@ -650,21 +476,6 @@ export default [
         "link": "https://eltiempove.com/realizan-foro-sindical-en-barcelona-para-reiterar-la-solicitud-de-un-bono-navideno-de-400/",
         "date": "2025-12-04 23:59:27",
         "sentiment_score": 0.3031225651502609
-    },
-    {
-        "title": "Muere Steve Cropper, gigante de la guitarra, maestro del soul y leyenda con los Blues Brothers",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/ea/media_thumb-link-4123346.webp?1764841086=",
-        "tags": [
-            "soul",
-            "actualidad",
-            "steve cropper",
-            "eeuu",
-            "guitarrista",
-            "guitarra"
-        ],
-        "link": "https://www.meneame.net/story/muere-steve-cropper-gigante-guitarra-maestro-soul-leyenda-blues",
-        "date": "2025-12-04 14:25:04",
-        "sentiment_score": 0.056193381547927856
     },
     {
         "title": "Entrevista a Juan Carlos I con preguntas falsas y repuestas reales: \"Los comunistas no eran la encarnación del diablo\"",
@@ -3013,5 +2824,270 @@ export default [
         "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20251208/secreto-danone-no-solo-yogur-usa-cio-ia-cloud-convertir-datos-ventas/1003744037396_0.html",
         "date": "2025-12-08 00:40:41",
         "sentiment_score": -0.08195845782756805
+    },
+    {
+        "title": "\"El PSOE presume de feminista con depredadores en Ferraz y el PP se hace fotos con toros de lidia\": el ataque de Buxadé al bipartidismo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/09286b9f-1a4d-4ce0-a68a-9b502ad95f19_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "toros",
+            "pp",
+            "bipartidismo",
+            "extremadura",
+            "21d elecciones en extremadura",
+            "elecciones",
+            "nuclear",
+            "psoe"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/08/psoe-presume-feminista-depredadores-ferraz-124561181.html",
+        "date": "2025-12-08 06:01:00",
+        "sentiment_score": -0.2516031675040722
+    },
+    {
+        "title": "\"Si en Madrid el ticket medio del mediodía en los restaurantes de nuestros hoteles es de 220 euros, en Barcelona es de 45\"",
+        "image_url": "https://static1.ara.cat/clip/0863377b-c146-4f69-bb6d-619e752325b9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mediodia",
+            "ticket",
+            "220",
+            "barcelona",
+            "hoteles",
+            "madrid",
+            "restaurantes",
+            "medio",
+            "45",
+            "euros"
+        ],
+        "link": "https://es.ara.cat/comer/madrid-ticket-medio-mediodia-restaurantes-hoteles-220-euros-barcelona-45_128_5585990.html",
+        "date": "2025-12-08 06:00:50",
+        "sentiment_score": -0.10701282322406769
+    },
+    {
+        "title": "El Alavés mejora su primera vuelta de la 2024-25",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d6303b54-7da9-44e2-8b83-7d185d2f5e07_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mejora",
+            "primera",
+            "alaves",
+            "vuelta",
+            "2024",
+            "balace de puntos y resultados la liga fútbol"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2025/12/08/alaves-mejora-primera-vuelta-2024-balace-de-puntos-y-resultados-la-liga-futbol-10444490.html",
+        "date": "2025-12-08 06:00:31",
+        "sentiment_score": 0.00709688663482666
+    },
+    {
+        "title": "Jornada 6 de la Champions League: partidos, horarios y cuándo juega el Real Madrid contra Manchester City",
+        "image_url": "https://static.eldiario.es/clip/6b5f45d1-4a96-4f52-b7f5-80e4d09d1279_16-9-discover-aspect-ratio_default_1131987.jpg",
+        "tags": [
+            "horarios",
+            "manchester",
+            "league",
+            "pm",
+            "jornada",
+            "juega",
+            "city",
+            "champions",
+            "real",
+            "partidos",
+            "6",
+            "madrid"
+        ],
+        "link": "https://www.eldiario.es/spin/deportes/jornada-6-champions-league-partidos-horarios-juega-real-madrid-manchester-city-pm_1_12823846.html",
+        "date": "2025-12-08 06:00:21",
+        "sentiment_score": -0.06223410367965698
+    },
+    {
+        "title": "Denia Bravo, jugadora del Kiele: «Lo que más me ha impactado de La Mancha es el calor de su gente»",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Captura-de-pantalla-2025-12-08-a-las-13.25.42.png",
+        "tags": [
+            "superliga iberdrola",
+            "cv kiele socuéllamos",
+            "voleibol",
+            "socuéllamos",
+            "deportes",
+            "ciudad real",
+            "superliga femenina iberdrola"
+        ],
+        "link": "https://www.lanzadigital.com/deportes/voleibol/superliga-femenina-iberdrola/denia-bravo-lo-que-mas-me-ha-impactado-de-la-mancha-es-el-calor-de-su-gente/",
+        "date": "2025-12-08 06:00:00",
+        "sentiment_score": 0.06906968355178833
+    },
+    {
+        "title": "Denia Bravo: «Lo que más me ha impactado de La Mancha es el calor de su gente»",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/DENIA-PERFIL.jpg",
+        "tags": [
+            "ciudad real",
+            "cv kiele socuéllamos"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/ciudad-real/denia-bravo-lo-que-mas-me-ha-impactado-de-la-mancha-es-el-calor-de-su-gente/",
+        "date": "2025-12-08 06:00:00",
+        "sentiment_score": 0.07808986306190491
+    },
+    {
+        "title": "Así es la ley sobre la colaboración público-privada en hospitales que plantea Sanidad y que derogaría la del 97",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/12/07/4EE7E3F9-D541-416F-9012-799E99F88844/imagen-archivo-ministra-sanidad-monica-garcia_70.jpg?crop=1077%2C606%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "noticias",
+            "españa",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/asi-ley-colaboracion-publicoprivada-hospitales-que-plantea-sanidad-que-derogaria-97_20251208693662669261f37ec740c19e.html",
+        "date": "2025-12-08 05:30:14",
+        "sentiment_score": -0.8368245251476765
+    },
+    {
+        "title": "Juanma Castaño: \"¿Cómo puede cambiar tanto un equipo del miércoles en Bilbao al partido en casa contra el Celta?\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/08/693611777d5e6.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/juanma-castano-cambiar-tanto-equipo-miercoles-bilbao-partido-casa-celta-20251208_3267085.html",
+        "date": "2025-12-08 05:15:22",
+        "sentiment_score": -0.109825998544693
+    },
+    {
+        "title": "Apenas el 20% de las empresas españolas cuentan con un Chief Artificial Intelligence Officer o CAIO",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2025/12/Apenas-el-20-de-las-empresas-espanolas-cuentan-con-un-Chief-Artificial-Intelligence-Officer-o-CAIO.webp",
+        "tags": [
+            "inteligencia artificial",
+            "ia",
+            "caio",
+            "últimas noticias",
+            "tecnología",
+            "negocios"
+        ],
+        "link": "https://www.merca2.es/2025/12/08/empresas-caio-2331228/",
+        "date": "2025-12-08 05:10:00",
+        "sentiment_score": 0.07845067977905273
+    },
+    {
+        "title": "El Ejército del Aire planea dotar de almacén de munición a la base militar de Lavacolla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aab8f3ba-7c95-4b29-ab01-3cb41234a313_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "defensa",
+            "lavacolla"
+        ],
+        "link": "https://www.elcorreogallego.es/santiago/2025/12/08/arsenal-militar-aerodromo-lavacolla-124557669.html",
+        "date": "2025-12-08 05:01:16",
+        "sentiment_score": -0.2613469511270523
+    },
+    {
+        "title": "Aitana diversifica sus inversiones: cinco sociedades y cuatro millones en inmuebles",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/aitana-exnovio-vicente.jpg",
+        "tags": [
+            "aitana ocaña",
+            "celebrities",
+            "gente"
+        ],
+        "link": "https://theobjective.com/gente/2025-12-08/aitana-exito-empresarial-sociedades/",
+        "date": "2025-12-08 06:30:00",
+        "sentiment_score": 0.8588900249451399
+    },
+    {
+        "title": "¿Qué supermercados están abiertos hoy 8 de diciembre en Barcelona y resto de Catalunya? Horario de Lidl, Mercadona y resto de tiendas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2a5e0bea-6c5d-4cb4-b759-3bc2bd8c4535_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "carrefour",
+            "lidl",
+            "supermercados",
+            "barcelona",
+            "consum (supermercados)",
+            "todos los santos",
+            "mercadona"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20251208/supermercados-abiertos-hoy-8-diciembre-barcelona-cataluna-lidl-mercadona-dv-124326700",
+        "date": "2025-12-08 06:28:00",
+        "sentiment_score": 0.3209484610706568
+    },
+    {
+        "title": "Parte de la entrevista a Jorge Buxadé, jefe de la delegación de Vox en el Parlamento Europeo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/09286b9f-1a4d-4ce0-a68a-9b502ad95f19_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "entrevista"
+        ],
+        "link": "https://www.lacronicabadajoz.com/videos/2025/12/08/parte-entrevista-jorge-buxade-jefe-124561177.html",
+        "date": "2025-12-08 06:00:58",
+        "sentiment_score": 0.01227518916130066
+    },
+    {
+        "title": "Fábio Silva, en el radar del Betis para la delantera",
+        "image_url": "https://static.grupojoly.com/clip/f52858b6-cb8d-4ee0-a91b-ba1408ad50b1_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fichajes betis",
+            "betis"
+        ],
+        "link": "https://www.diariodesevilla.es/realbetis/fabio-silva-radar-betis-delantera_0_2005407952.html",
+        "date": "2025-12-08 06:00:55",
+        "sentiment_score": -0.009604066610336304
+    },
+    {
+        "title": "Los taxistas llaman a ocupar la Gran Via este martes con el sector dividido",
+        "image_url": "https://static1.ara.cat/clip/0837ebfa-ea5e-41d0-8865-0c3ff7f6bdf4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "llaman",
+            "martes",
+            "gran",
+            "dividido",
+            "via",
+            "taxistas",
+            "ocupar",
+            "sector"
+        ],
+        "link": "https://es.ara.cat/economia/tecnologia/taxistas-llaman-ocupar-gran-via-martes-sector-dividido_1_5585999.html",
+        "date": "2025-12-08 06:00:53",
+        "sentiment_score": -0.03256627917289734
+    },
+    {
+        "title": "La serie sobre el robo del siglo con uno de los aspirantes a nueve James Bond",
+        "image_url": "https://static1.ara.cat/clip/ce220137-dc1c-4608-a1ad-70798a2547c4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "siglo",
+            "james",
+            "serie",
+            "aspirantes",
+            "bond",
+            "nueve",
+            "robo"
+        ],
+        "link": "https://es.ara.cat/media/series/serie-robo-siglo-aspirantes-nueve-james-bond_1_5585994.html",
+        "date": "2025-12-08 06:00:50",
+        "sentiment_score": -0.23815582692623138
+    },
+    {
+        "title": "Málaga y Puente Genil: las dos ciudades de Andalucía con las mejor iluminación de Navidad",
+        "image_url": "https://okdiario.com/img/2025/12/05/malaga-y-puente-genil-las-dos-ciudades-de-andalucia-con-las-mejor-iluminacion-de-navidad.jpg",
+        "tags": [
+            "españa",
+            "málaga",
+            "okd",
+            "luces de navidad",
+            "navidad",
+            "andalucía"
+        ],
+        "link": "https://okdiario.com/andalucia/malaga-puente-genil-dos-ciudades-andalucia-mejor-iluminacion-navidad-15890821",
+        "date": "2025-12-08 06:00:43",
+        "sentiment_score": 0.7773705422878265
+    },
+    {
+        "title": "Alonso y Morote apuestan por el crecimiento de Andersen en Barcelona",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/12/Rafael-Vallet-andersen.jpg",
+        "tags": [
+            "despacho",
+            "app",
+            "barcelona",
+            "abogado",
+            "andersen",
+            "noticias jurídicas",
+            "rafael vallet",
+            "znoticia portada2",
+            "josé vicente morote",
+            "despachos y abogados",
+            "juan ignacio alonso",
+            "abogacia"
+        ],
+        "link": "https://www.economistjurist.es/actualidad-juridica/actualidad-de-los-despachos/alonso-y-morote-apuestan-por-el-crecimiento-de-andersen-en-barcelona/",
+        "date": "2025-12-08 06:00:17",
+        "sentiment_score": 0.5768054090440273
     }
 ];
