@@ -1,153 +1,5 @@
 export default [
     {
-        "title": "Niño Becerra, economista, sobre la Lotería de Navidad: “Antes con el Gordo podías comprarte 24 casas, ahora ni una”",
-        "image_url": "https://s3.elespanol.com/2025/12/02/actualidad/1003744039812_260279123_1706x960.jpg",
-        "tags": [
-            "gordo de navidad",
-            "economistas",
-            "sociedad",
-            "soft",
-            "lotería de navidad"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251204/nino-becerra-economista-loteria-navidad-gordo-podias-comprarte-casas-ahora/1003744039533_0.html",
-        "date": "2025-12-04 06:35:50",
-        "sentiment_score": 0.1741977035999298
-    },
-    {
-        "title": "Madri+D, chiringuito de Ayuso, articuló la concesión de universidad al ICAM",
-        "image_url": "https://www.elplural.com/uploads/s1/21/13/17/4/ayuso-9_7_480x270.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elplural.com/autonomias/madrid/madri-d-chiringuito-ayuso-articulo-concesion-universidad-icam_366644102",
-        "date": "2025-12-04 06:19:48",
-        "sentiment_score": -0.09231232106685638
-    },
-    {
-        "title": "La letra pequeña de la mamografía: ¿informar sobre mamas densas ayuda... o solo genera más miedo?",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251204071247_690.jpg",
-        "tags": [
-            "investigación",
-            "infosalus.com"
-        ],
-        "link": "https://www.infosalus.com/salud-investigacion/noticia-letra-pequena-mamografia-informar-mamas-densas-ayuda-solo-genera-mas-miedo-20251204071247.html",
-        "date": "2025-12-04 06:12:47",
-        "sentiment_score": -0.016186237335205078
-    },
-    {
-        "title": "La fábrica de las estrellas visita el Ruta de la Plata",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4a93b2d5-7853-417c-a5c6-57c6dc108aed_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "estrellas,ruta de la plata,fútbol,everton"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2025/12/04/fabrica-estrellas-visita-ruta-plata-124423009.html",
-        "date": "2025-12-04 06:00:51",
-        "sentiment_score": 0.38393284380435944
-    },
-    {
-        "title": "Combustibles 100% renovables para mantener tu motor en condiciones óptimas",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/12/03/693063858118c.r_d.3000-2000-748.jpeg",
-        "tags": [
-            "coches"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/coches/20251204/1002580388/mejor-combustible-mantener-motor-condiciones-optimas-brl.html",
-        "date": "2025-12-04 06:00:00",
-        "sentiment_score": 0.7154930979013443
-    },
-    {
-        "title": "Juanma Castaño destaca la importancia de la victoria del Real Madrid contra el Athletic: \"Era una carta fundamental\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/04/6930cb3d921fe.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-destaca-importancia-victoria-real-madrid-athletic-carta-fundamental-20251204_3265059.html",
-        "date": "2025-12-04 06:00:00",
-        "sentiment_score": -0.048153579235076904
-    },
-    {
-        "title": "Vox propone nuevas deducciones fiscales en Madrid y exige auditar el coste de la inmigración",
-        "image_url": "https://www.madridactual.es/images/stories/noticias/agencias/ep/2025/09/madrid-ayuso-reune-grupos-parlamentarios-septiembre-marcado.jpg",
-        "tags": [
-            "política madrid"
-        ],
-        "link": "https://www.madridactual.es/noticias-regionales/politica-en-madrid/madrid-vox-presenta-bateria-deducciones-fiscales-seguros-20251204-8071621.html",
-        "date": "2025-12-04 05:52:02",
-        "sentiment_score": 0.06091899052262306
-    },
-    {
-        "title": "Chase Audige, Augustine Rubit y la reconstrucción del Unicaja",
-        "image_url": "https://static.grupojoly.com/clip/325a0594-54a7-4285-82ac-faede0654618_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.malagahoy.es/unicaja/chase-audige-augustine-rubit-reconstruccion_0_2005384704.html",
-        "date": "2025-12-04 05:42:00",
-        "sentiment_score": 0.4411635175347328
-    },
-    {
-        "title": "El Real Avilés regresa a los entrenamientos con Raúl Hernández, pero sin Adri Gómez",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/03/pelayo-suarez-real-aviles-RCr1B7PHFdqNouohF0TaGxI-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "raul",
-            "adri",
-            "gomez",
-            "real",
-            "entrenamientos",
-            "aviles",
-            "hernandez",
-            "regresa"
-        ],
-        "link": "https://www.elcomercio.es/real-aviles/real-aviles-entrenamientos-raul-hernandez-adri-gomez-20251203063851-nt.html",
-        "date": "2025-12-04 05:39:23",
-        "sentiment_score": -0.25812293589115143
-    },
-    {
-        "title": "Una marca sin precedentes en 39 campañas en Primera División",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/04/real-oviedo-kWmB--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-goles-primera-division-estadisticas-20251204063726-nt.html",
-        "date": "2025-12-04 05:38:02",
-        "sentiment_score": -0.9110117582604289
-    },
-    {
-        "title": "Herido grave un motorista en un accidente de tráfico en la A-2 de Zaragoza",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/12/04/imagen-del-kilometro-en-el-que-se-ha-producido-el-accidente.png",
-        "tags": [
-            "zaragoza"
-        ],
-        "link": "https://www.heraldo.es/noticias/aragon/zaragoza/2025/12/04/grave-conductor-moto-accidente-trafico-a-2-zaragoza-1875940.html",
-        "date": "2025-12-04 06:38:30",
-        "sentiment_score": -0.45919032767415047
-    },
-    {
-        "title": "Robin Decaux, sobre el disparado precio de la vivienda: “Aumentó un 8,4%, el mayor repunte desde el año 2007”",
-        "image_url": "https://s3.elespanol.com/2025/05/23/actualidad/1003743771293_255834654_1706x960.jpg",
-        "tags": [
-            "sociedad",
-            "vivienda",
-            "soft",
-            "banco de españa"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251204/robin-decaux-disparado-precio-vivienda-aumento-mayor-repunte-ano/1003744030487_0.html",
-        "date": "2025-12-04 06:35:38",
-        "sentiment_score": -0.09337925165891647
-    },
-    {
-        "title": "Las pymes del sector porcino catalán alertan ante la caída de precios por la peste africana: \"tendremos que aguantar varios meses en pérdidas\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/80407708-97bf-4625-ab42-c4cba8c52d10_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "peste porcina",
-            "lleida",
-            "empresas",
-            "cataluña"
-        ],
-        "link": "https://www.informacion.es/economia/2025/12/04/pymes-sector-porcino-catalan-alertan-124430063.html",
-        "date": "2025-12-04 06:33:52",
-        "sentiment_score": -0.5117727369070053
-    },
-    {
         "title": "Muere Steve Cropper, gigante de la guitarra, maestro del soul y leyenda con los Blues Brothers",
         "image_url": "https://cdn.mnmstatic.net/cache/3e/ea/media_thumb-link-4123346.webp?1764841086=",
         "tags": [
@@ -2839,5 +2691,85 @@ export default [
         "link": "https://www.infobae.com/espana/2025/12/07/de-verdad-puede-escaparse-de-un-laboratorio-un-virus-como-el-de-la-peste-porcina-la-hipotesis-gana-peso/",
         "date": "2025-12-07 16:57:54",
         "sentiment_score": -0.19159530848264694
+    },
+    {
+        "title": "Resumen Real Madrid-Celta de Vigo: Williot ahonda la crisis blanca (0-2)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/07/image-514e1bbf-9102-4504-a2dd-4d66d60afd9b-85-2560-1440.jpeg",
+        "tags": [
+            "entertainment",
+            "top"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/video-resumen-real-madrid-celta-de-vigo-goles-resultado-highlights-williot-carreras-fran-garcia-mbappe_vid60040990/video.shtml",
+        "date": "2025-12-07 22:19:18",
+        "sentiment_score": 0.5898917019367218
+    },
+    {
+        "title": "Borja Iglesias, sobre el triunfo del Celta en el Bernabéu: «Ha sido tremendo»",
+        "image_url": "https://cflvdg.avoz.es/sc/liJiRnwKOxtfPiDyj1g_s4EVPFo=/768x/2025/12/07/00121765145462042998396/Foto/eup_20251207_215651786.jpg",
+        "tags": [
+            "borja iglesias",
+            "celta",
+            "grada de río"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/gradario/2025/12/07/borja-iglesias-sobre-triunfo-celta-bernabeu-tremendo/00031765145446475269363.htm",
+        "date": "2025-12-07 22:12:00",
+        "sentiment_score": 0.6917963474988937
+    },
+    {
+        "title": "El Celta ridiculiza al Real Madrid en el Bernabéu",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e468312a-7884-462d-9a85-c802683c77c2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2025/12/07/real-madrid-celta-laliga-resumen-resultado-futbol-124557719.html",
+        "date": "2025-12-07 22:06:43",
+        "sentiment_score": -0.1927720010280609
+    },
+    {
+        "title": "Comprobar Quinigol: resultados del 7 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "quinigol",
+            "españa-loterias",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/07/quinigol-resultados-del-7-de-diciembre/",
+        "date": "2025-12-07 22:05:14",
+        "sentiment_score": 0.1734202764928341
+    },
+    {
+        "title": "Cuando el modernismo se quiebra en Barcelona",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/78e49461-a111-4e78-a5d33f50b9119e3e.png",
+        "tags": [
+            "desigualdad",
+            "corrupción",
+            "eixample",
+            "thriller",
+            "crímenes",
+            "barcelona",
+            "novela",
+            "violencia",
+            "sagrada familia",
+            "antoni gaudí"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/z58815727-6ad6-436e-a7b48829ee6425a3/202512/cuando-el-modernismo-se-quiebra-en-barcelona",
+        "date": "2025-12-07 22:18:12",
+        "sentiment_score": 0.5318169146776199
+    },
+    {
+        "title": "El aguilando sale a la calle para anunciar la Navidad en Vilches",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/07/Los%20Campanilleros%20llevando%20sus%20aguilandos%20por%20todas%20las%20calles%20de%20Vilches%20(12)-kaKG-U240483964999GKH-1200x840@Ideal.jpg",
+        "tags": [
+            "linares",
+            "navidad",
+            "guarromán",
+            "sevilla",
+            "jaén",
+            "vigo"
+        ],
+        "link": "https://www.ideal.es/jaen/provincia-jaen/aguilando-sale-calle-anunciar-navidad-vilches-20251208230741-nt.html",
+        "date": "2025-12-07 22:07:41",
+        "sentiment_score": -0.22599492967128754
     }
 ];
