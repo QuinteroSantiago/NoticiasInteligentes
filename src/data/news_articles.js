@@ -2771,5 +2771,247 @@ export default [
         "link": "https://www.ideal.es/jaen/provincia-jaen/aguilando-sale-calle-anunciar-navidad-vilches-20251208230741-nt.html",
         "date": "2025-12-07 22:07:41",
         "sentiment_score": -0.22599492967128754
+    },
+    {
+        "title": "Carmen Utrera, la madrileña que lleva 24 años enseñando a bailar a los Seises: la tradición sevillana con cinco siglos",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744044297_260350723_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "tradiciones",
+            "sevilla (municipio)",
+            "sevilla",
+            "religión",
+            "danza"
+        ],
+        "link": "https://www.elespanol.com/sevilla/20251208/carmen-utrera-madrilena-lleva-anos-ensenando-bailar-seises-tradicion-sevillana-siglos-dl/1003744043017_0.html",
+        "date": "2025-12-08 02:04:24",
+        "sentiment_score": -0.19995807111263275
+    },
+    {
+        "title": "Williot Swedberg: «Siempre hablamos con Claudio de los espacios, les doy las gracias a él y a los compañeros»",
+        "image_url": "https://cflvdg.avoz.es/sc/JfbSS7JHerCY_pAubOOW10mEMwQ=/768x/2025/12/08/00121765157882191446794/Foto/eup_20251207_223738450.jpg",
+        "tags": [
+            "celta",
+            "williot swedberg",
+            "grada de río"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/gradario/2025/12/08/williot-swedberg-siempre-hablamos-claudio-espacios-doy-gracias-companeros/00031765158134130529398.htm",
+        "date": "2025-12-08 01:43:00",
+        "sentiment_score": 0.8588595855981112
+    },
+    {
+        "title": "Yanira y Jorge estudian para guardia civil en Madrid, donde faltan 2.000 agentes y es difícil atraerles: \"Es una oportunidad\"",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045294_260351612_1706x960.jpg",
+        "tags": [
+            "guardia civil",
+            "sociedad",
+            "oposiciones",
+            "comunidad de madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251208/yanira-jorge-estudian-guardia-civil-madrid-faltan-agentes-dificil-atraerles-oportunidad/1003744044420_0.html",
+        "date": "2025-12-08 01:03:24",
+        "sentiment_score": -0.8968630554154515
+    },
+    {
+        "title": "El Prado salda su deuda con Antonio Raphael Mengs, pintor de cámara de Carlos III y retratista de la nobleza",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045236_260350636_1706x960.jpg",
+        "tags": [
+            "pintura",
+            "museo del prado",
+            "exposiciones",
+            "arte",
+            "ec-critica-arte"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20251208/prado-salda-deuda-antonio-raphael-mengs-pintor-camara-carlos-iii-retratista-nobleza/1003744034411_0.html",
+        "date": "2025-12-08 00:57:58",
+        "sentiment_score": 0.12679669633507729
+    },
+    {
+        "title": "07 DIC 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/07-dic-2025-tertulion-domingos-20251208_3267095.html",
+        "date": "2025-12-08 00:55:05",
+        "sentiment_score": 0.2961702048778534
+    },
+    {
+        "title": "Dos años sin Itziar Castro: sus amigas no le han organizado ningún homenaje y su familia \"la recuerda todos los días\"",
+        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043044_260321540_1706x960.jpg",
+        "tags": [
+            "famosos",
+            "actrices",
+            "lloret de mar",
+            "homenajes",
+            "muertes"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251208/anos-sin-itziar-castro-amigas-no-organizado-ningun-homenaje-familia-recuerda-dias/1003744042998_0.html",
+        "date": "2025-12-08 00:46:35",
+        "sentiment_score": 0.7169596180319786
+    },
+    {
+        "title": "El Real Madrid sigue perdiendo puntos y el Barça es más líder, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/08/6936177e6c334.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-07-20251208_3267088.html",
+        "date": "2025-12-08 00:14:51",
+        "sentiment_score": 0.02035146951675415
+    },
+    {
+        "title": "Batacazo del Madrid ante el Celta en el Bernabéu",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0945f7ae-e30e-40a3-882d-d474c9e9bd09_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "bernabeu",
+            "batacazo",
+            "celta"
+        ],
+        "link": "https://www.noticiasdenavarra.com/futbol/2025/12/08/batacazo-madrid-celta-bernabeu-10445677.html",
+        "date": "2025-12-08 00:00:00",
+        "sentiment_score": -0.22247564792633057
+    },
+    {
+        "title": "Los detalles del “trencito” en los festejos por el título del Inter Miami: la cumbia de Beckham y la actitud de Messi",
+        "image_url": "https://www.infobae.com/resizer/v2/E26MD6QIHFBQVO6IJROUY7OCYM.jpg?auth=f524753b774fd2a9630b2169803b484916451812f3014ea3858abe8ffa70766b&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-argentina",
+            "mls",
+            "david beckham",
+            "inter miami",
+            "lionel messi",
+            "deportes-internacional",
+            "vancouver whitecaps"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/07/los-detalles-del-trencito-en-los-festejos-por-el-titulo-del-inter-miami-la-cumbia-de-beckham-y-la-actitud-de-messi/",
+        "date": "2025-12-07 23:58:52",
+        "sentiment_score": 0.10435069352388382
+    },
+    {
+        "title": "El Real Madrid se desploma ante el Celta y el Barcelona se aleja",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/07195333/Real-Madrid-Celta.jpg",
+        "tags": [
+            "celta",
+            "laliga",
+            "real madrid",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/2025/12/el-real-madrid-se-desploma-ante-el-celta-y-el-barcelona-se-aleja/",
+        "date": "2025-12-07 23:54:44",
+        "sentiment_score": 0.15519945323467255
+    },
+    {
+        "title": "Nuestras referentes",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "referentes"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/referentes_0_2005411827.html",
+        "date": "2025-12-08 02:08:11",
+        "sentiment_score": 0.7989991083741188
+    },
+    {
+        "title": "Saúl Martínez-Horta, neuropsicólogo: \"La felicidad es saber que todo está ordenado y no tener miedo a lo que suceda\"",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045251_260350877_1706x960.jpg",
+        "tags": [
+            "párkinson",
+            "alzheimer",
+            "enfermedades",
+            "salud",
+            "cerebro"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20251208/saul-martinez-horta-neuropsicologo-felicidad-saber-ordenado-no-tener-miedo-suceda/1003744045131_0.html",
+        "date": "2025-12-08 02:04:33",
+        "sentiment_score": -0.8331950418651104
+    },
+    {
+        "title": "La impactante revelación de Beckham que augura el regreso de Messi a España",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/lionel-messi-david-beckham.jpg",
+        "tags": [
+            "futbol",
+            "lionel messi",
+            "david beckham",
+            "deportes",
+            "inter miami",
+            "titulares",
+            "estados unidos"
+        ],
+        "link": "https://lapatilla.com/2025/12/07/la-impactante-revelacion-de-beckham-que-augura-el-regreso-de-messi-a-espana/",
+        "date": "2025-12-08 01:46:32",
+        "sentiment_score": 0.6788696125149727
+    },
+    {
+        "title": "Rebelión de universitarios de otras CCAA obligados a examinarse en catalán: \"Parece que no estás en España. Somos extranjeros en nuestro país. No me quedaré\"",
+        "image_url": "https://phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
+        "tags": [
+            "artículos víctor mondelo",
+            "universidades"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/12/08/691377dbe9cf4ae93c8b4587.html",
+        "date": "2025-12-08 01:28:51",
+        "sentiment_score": 0.07181322574615479
+    },
+    {
+        "title": "El Govern busca mostrar \"transparencia\" y rapidez en la gestión de la peste porcina africana para recuperar mercados clave como Japón o Filipinas",
+        "image_url": "https://phantom-elmundo.uecdn.es/c5ec876da0e694d95968b36a655485c8/crop/102x26/940x867/f/image/jpeg/assets/multimedia/imagenes/2023/04/17/16817425449512.jpg",
+        "tags": [
+            "biociencia",
+            "gobierno de españa",
+            "generalitat de cataluña",
+            "alimentación",
+            "empleo",
+            "salvador illa",
+            "sanidad",
+            "política",
+            "comisión europea",
+            "barcelona",
+            "artículos gerard melgar",
+            "agricultura",
+            "ganadería"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/12/08/6935c6fe21efa0b80f8b4580.html",
+        "date": "2025-12-08 01:28:51",
+        "sentiment_score": -0.6708985157310963
+    },
+    {
+        "title": "Los partidos se lanzan a por el voto rural en Extremadura sin el impulso de los alcaldes y con la peste porcina africana al acecho",
+        "image_url": "https://phantom-elmundo.uecdn.es/2ab434141f03587d2f6108be196f67b2/f/webp/assets/multimedia/imagenes/2025/12/07/17651311468938.jpg",
+        "tags": [
+            "extremadura",
+            "elecciones extremadura"
+        ],
+        "link": "https://www.elmundo.es/espana/extremadura/2025/12/08/6935a0d6e85ece3d738b4573.html",
+        "date": "2025-12-08 01:28:38",
+        "sentiment_score": -0.6215640604496002
+    },
+    {
+        "title": "'Deshacerse del padre' con Freud: un ensayo sobre el declive paterno y la crisis de la autoridad",
+        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043488_260327137_1706x960.jpg",
+        "tags": [
+            "ensayo",
+            "literatura"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/ensayo/20251208/deshacerse-padre-freud-ensayo-declive-paterno-crisis-autoridad/1003744043416_0.html",
+        "date": "2025-12-08 00:58:01",
+        "sentiment_score": -0.37817639112472534
+    },
+    {
+        "title": "El secreto de Danone no está solo en el yogur: así usa su CIO la IA y el cloud para convertir los datos en ventas",
+        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043003_260321071_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "cios disruptores",
+            "danone",
+            "alimentación",
+            "industria tecnológica",
+            "innovación",
+            "gran empresa"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20251208/secreto-danone-no-solo-yogur-usa-cio-ia-cloud-convertir-datos-ventas/1003744037396_0.html",
+        "date": "2025-12-08 00:40:41",
+        "sentiment_score": -0.08195845782756805
     }
 ];
