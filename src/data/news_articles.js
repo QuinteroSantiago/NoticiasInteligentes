@@ -1,15 +1,5 @@
 export default [
     {
-        "title": "Continúa la incertidumbre en las elecciones de Honduras",
-        "image_url": "https://static.wixstatic.com/media/335561_c9a7479ee4b84339b69542022e4937ee~mv2.png/v1/fit/w_341,h_382,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/contin%C3%BAa-la-incertidumbre-en-las-elecciones-de-honduras",
-        "date": "2025-12-05 12:35:07",
-        "sentiment_score": -0.08074232935905457
-    },
-    {
         "title": "Muere Alfonso Ussía",
         "image_url": "https://cdn.mnmstatic.net/cache/3e/ec/media_thumb-link-4123745.webp?1764932946=",
         "tags": [
@@ -2787,5 +2777,167 @@ export default [
         "link": "https://okdiario.com/deportes/alineacion-del-barcelona-contra-eintracht-vuelve-raphinha-15898901",
         "date": "2025-12-08 21:00:08",
         "sentiment_score": 0.04039902985095978
+    },
+    {
+        "title": "Nicolás Maduro, el político improbable que desafió todos los pronósticos pero gobierna un país con millones en el exilio",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/04e5c96a550ed2ace41e537dd93edee6b7d3b898w.jpg",
+        "tags": [
+            "nacionales",
+            "actualidad",
+            "nicolás maduro"
+        ],
+        "link": "https://lapatilla.com/2025/12/08/nicolas-maduro-el-politico-improbable-que-desafio-todos-los-pronosticos-pero-gobierna-un-pais-con-millones-en-el-exilio/",
+        "date": "2025-12-08 17:13:41",
+        "sentiment_score": -0.7582131586968899
+    },
+    {
+        "title": "El Real Madrid, del cielo al infierno en 40 días: ¿le encontrará la vuelta un Xabi Alonso en la cornisa?",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/12/08/real-madrid-crisis-xabi-alonso-orix/",
+        "date": "2025-12-09 02:03:52",
+        "sentiment_score": -0.7443257533013821
+    },
+    {
+        "title": "Reunión de madrugada en el Santiago Bernabéu: el futuro de Xabi Alonso en el Real Madrid pende de un hilo",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Xabi-Alonso-Real-Madrid.jpg",
+        "tags": [
+            "xabi alonso",
+            "real madrid cf",
+            "titulares",
+            "deportes",
+            "futbol"
+        ],
+        "link": "https://lapatilla.com/2025/12/08/reunion-de-madrugada-en-el-santiago-bernabeu-el-futuro-de-xabi-alonso-en-el-real-madrid-pende-de-un-hilo/",
+        "date": "2025-12-09 01:57:47",
+        "sentiment_score": -0.6082302443683147
+    },
+    {
+        "title": "Mil conciertos en una navidad: de Bach a Haendel",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045195_260349967_1706x960.jpg",
+        "tags": [
+            "conciertos",
+            "música",
+            "navidad"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251209/mil-conciertos-navidad-bach-haendel/1003744045177_0.html",
+        "date": "2025-12-09 01:08:32",
+        "sentiment_score": 0.16085927188396454
+    },
+    {
+        "title": "08 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/08-dic-2025-partidazo-cope-20251209_3267269.html",
+        "date": "2025-12-09 00:50:00",
+        "sentiment_score": -0.5552520453929901
+    },
+    {
+        "title": "Benedek Vasy (Triodos): \"La regulación de las finanzas éticas que propone Yolanda Díaz debería incluir a los bancos\"",
+        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744044988_260346789_1706x960.jpg",
+        "tags": [
+            "banca",
+            "criterios asg",
+            "mercados financieros",
+            "yolanda díaz"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/banca/20251209/benedek-vasy-triodos-regulacion-finanzas-eticas-propone-yolanda-diaz-deberia-incluir-bancos/1003744044979_0.html",
+        "date": "2025-12-09 00:06:29",
+        "sentiment_score": 0.658482052385807
+    },
+    {
+        "title": "El ultimátum para Xabi Alonso: reconducir la situación y ganarse al vestuario o meterse en un callejón sin salida",
+        "image_url": "https://s3.elespanol.com/2025/12/08/actualidad/1003744047012_260373452_1706x960.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "champions league",
+            "xabi alonso",
+            "real madrid cf"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251209/ultimatum-xabi-alonso-reconducir-situacion-ganarse-vestuario-meterse-callejon-sin-salida/1003744046971_0.html",
+        "date": "2025-12-09 00:01:08",
+        "sentiment_score": -0.8950084745883942
+    },
+    {
+        "title": "Deportes | El Elche CF y el CD Eldense conocen este martes su nuevo rival de Copa del Rey",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1736932.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-y-el-cd-eldense-conocen-este-martes-su-nuevo-rival-de-copa-del-rey",
+        "date": "2025-12-09 00:00:44",
+        "sentiment_score": 0.1298261471092701
+    },
+    {
+        "title": "2a PARTE | 08 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-08-dic-2025-partidazo-cope-20251209_3267264.html",
+        "date": "2025-12-08 23:45:25",
+        "sentiment_score": -0.4087192639708519
+    },
+    {
+        "title": "El Surne es el tercer equipo invicto en casa junto a los líderes Valencia y Madrid",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/12/08/Imagen%20149473559-k7AI--758x531@El%20Correo.jpg",
+        "tags": [
+            "equipo",
+            "madrid",
+            "casa",
+            "surne",
+            "invicto",
+            "lideres",
+            "junto",
+            "valencia",
+            "tercer"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/surne-tercer-equipo-invicto-casa-junto-lideres-20251208003558-nt.html",
+        "date": "2025-12-08 23:35:59",
+        "sentiment_score": 0.6006687879562378
+    },
+    {
+        "title": "El Año en Búsquedas 2025: De la hegemonía del futbol a la normalización de la IA en la vida diaria",
+        "image_url": "https://media.es.wired.com/photos/69375e48e6a16ea0d82acfe8/master/pass/2249090837",
+        "tags": [
+            "cultura digital",
+            "textaboveleftsmall",
+            "web"
+        ],
+        "link": "https://es.wired.com/articulos/el-ano-en-busquedas-2025-de-la-hegemonia-del-futbol-a-la-normalizacion-de-la-ia-en-la-vida-diaria",
+        "date": "2025-12-08 23:25:32",
+        "sentiment_score": 0.05822712182998657
+    },
+    {
+        "title": "Blindaje contra la peste porcina",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "blindaje",
+            "peste",
+            "porcina"
+        ],
+        "link": "https://www.malagahoy.es/opinion/editorial/blindaje-peste-porcina_0_2005416347.html",
+        "date": "2025-12-09 02:06:59",
+        "sentiment_score": -0.20559439063072205
+    },
+    {
+        "title": "Del Gran Maestro senador a Antonio Hernández, 'el masón de la Moncloa': los 10 cargos de las logias españolas en el PSOE",
+        "image_url": "https://s3.elespanol.com/2025/12/08/actualidad/1003744046972_260373002_1706x960.jpg",
+        "tags": [
+            "psoe (partido socialista obrero español)",
+            "cargos públicos",
+            "masonería",
+            "reportajes",
+            "senado",
+            "palacio de la moncloa"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251209/gran-maestro-senador-antonio-hernandez-mason-moncloa-cargos-logias-espanolas-psoe/1003744046968_0.html",
+        "date": "2025-12-09 01:14:27",
+        "sentiment_score": -0.411006823182106
     }
 ];
