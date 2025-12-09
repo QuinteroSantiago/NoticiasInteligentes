@@ -1,253 +1,5 @@
 export default [
     {
-        "title": "Entrevista a Juan Carlos I con preguntas falsas y repuestas reales: \"Los comunistas no eran la encarnación del diablo\"",
-        "image_url": "https://www.elplural.com/uploads/s1/21/14/92/6/juan-carlos-y-sofi-a-el-di-a-de-su-proclamacio-n-como-rey_7_480x270.jpeg",
-        "tags": [
-            "libros"
-        ],
-        "link": "https://www.elplural.com/playtime/libros/entrevista-juan-carlos-preguntas-falsas-repuestas-reales-comunistas-no-eran-encarnacion-diablo_366760102",
-        "date": "2025-12-05 06:24:16",
-        "sentiment_score": -0.10015872120857239
-    },
-    {
-        "title": "Marta Llorente triunfa con sus cerdos tras ser despedida por estar embarazada: \"Nosotros sí somos sostenibles\"",
-        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744041935_260307448_1706x960.jpg",
-        "tags": [
-            "objetivo 11: ciudades y comunidades sostenibles",
-            "referentes",
-            "objetivo 10: reducción de las desigualdades"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/referentes/20251205/marta-llorente-triunfa-cerdos-despedida-embarazada-sostenibles/1003744041930_0.html",
-        "date": "2025-12-05 06:20:00",
-        "sentiment_score": 0.43927210569381714
-    },
-    {
-        "title": "Ayuso da la bienvenida a 'El Canal de la Navidad' en pleno corazón de Madrid",
-        "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2025/12/05/6932766c81775.r_d.1833-918-0.jpeg",
-        "tags": [
-            "comunidad de madrid"
-        ],
-        "link": "https://www.eldebate.com/espana/madrid/comunidad/20251205/ayuso-da-bienvenida-canal-navidad-pleno-corazon-madrid_362422.html",
-        "date": "2025-12-05 06:07:21",
-        "sentiment_score": 0.6165365539491177
-    },
-    {
-        "title": "Ribera Salud ordenó reutilizar material sanitario de un solo uso en Torrejón: \"Esta acción no es legal\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/05/vista-de-la-entrada-del-hospital-de-torrejon-de-ardoz-gestionado-por-el-grupo-sanitario-ribera-el-4-de-diciembre-de-2025.jpeg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.huffingtonpost.es/politica/empleados-hospital-torrejon-recibieron-orden-reutilizar-material-sanitario-no-legal.html",
-        "date": "2025-12-05 06:04:33",
-        "sentiment_score": -0.6485098414123058
-    },
-    {
-        "title": "El Castilla gana antes de viajar a Zamora",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b0061d0a-1e83-4e89-952c-551499449308_16-9-aspect-ratio_default_1419855.jpg",
-        "tags": [
-            "everton,viajar,ruta de la plata,manuel"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2025/12/05/castilla-gana-viajar-zamora-124464556.html",
-        "date": "2025-12-05 06:00:39",
-        "sentiment_score": 0.09337912499904633
-    },
-    {
-        "title": "Primer obstáculo tras el parón",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ea605775-21ea-46d4-bd38-6bde7b88d47f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "euroliga",
-            "previa",
-            "liga acb",
-            "baskonia",
-            "galbiati",
-            "armani"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2025/12/05/baskonia-previa-armani-euroliga-galbiati-liga-acb-10434845.html",
-        "date": "2025-12-05 06:00:24",
-        "sentiment_score": 0.6568760685622692
-    },
-    {
-        "title": "Toca levantarse",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "toca",
-            "levantarse"
-        ],
-        "link": "https://www.deia.eus/opinion/minuto-y-resultado/2025/12/05/toca-levantarse-10436102.html",
-        "date": "2025-12-05 06:00:24",
-        "sentiment_score": 0.6125898733735085
-    },
-    {
-        "title": "Restaurantes con menú de Navidad para tu cena o comida con amigos en Madrid: precios, buen ambiente y platos que nunca fallan",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/30/692c584fe01a12-55779361.jpeg",
-        "tags": [
-            "restaurantes"
-        ],
-        "link": "https://www.20minutos.es/gastronomia/restaurantes/mejores-restaurantes-menu-navidad-cena-comida-amigos-madrid-precios-buen-ambiente-platos-nunca-fallan_6904564_0.html",
-        "date": "2025-12-05 06:00:08",
-        "sentiment_score": 0.22563794627785683
-    },
-    {
-        "title": "Verlo y sentirlo",
-        "image_url": "https://s1.ppllstatics.com/lagacetadesalamanca/www/multimedia/2025/12/02/VHdez-RPCu2A3PddYFPG9Dpeqid0H-758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "plaza de toros de la glorieta",
-            "madrid (ciudad)",
-            "real madrid"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/toros/javier-lorenzo-verlo-sentirlo-20251202070000-nt.html",
-        "date": "2025-12-05 06:00:06",
-        "sentiment_score": -0.010136693716049194
-    },
-    {
-        "title": "Juanma Castaño reacciona a las duras palabras de Joan Laporta contra el Real Madrid: \"Es bastante heavy\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/05/693215d5d6108.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-reacciona-duras-palabras-joan-laporta-real-madrid-heavy-20251205_3265868.html",
-        "date": "2025-12-05 06:00:00",
-        "sentiment_score": -0.219680517911911
-    },
-    {
-        "title": "El precio más bajo de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 5 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-economia",
-            "noticias",
-            "gasolina",
-            "precio gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/05/el-precio-mas-bajo-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-5-de-diciembre/",
-        "date": "2025-12-05 06:30:42",
-        "sentiment_score": -0.06122158095240593
-    },
-    {
-        "title": "Alba Segarra: “Sin mis padres no puedo comprarme un piso en Barcelona”",
-        "image_url": "https://static1.ara.cat/clip/7ccebb90-932b-4ddc-b18c-5182b3187b7e_16-9-aspect-ratio_default_0_x408y243.jpg",
-        "tags": [
-            "no",
-            "piso",
-            "segarra",
-            "barcelona",
-            "alba",
-            "comprarme",
-            "padres"
-        ],
-        "link": "https://es.ara.cat/economia/empresas/alba-segarra-padres-no-comprarme-piso-barcelona_1_5583351.html",
-        "date": "2025-12-05 06:30:23",
-        "sentiment_score": -0.45035921037197113
-    },
-    {
-        "title": "Siete detenidos, 70 kilos de droga sintética y 1.200 plantas de marihuana: cae una banda de narcos en Barcelona, Badalona y Rubí",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/35773f84-46e6-4190-8e8e-d142911e0f72_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rubí",
-            "sucesos",
-            "barcelona",
-            "drogas",
-            "marihuana",
-            "mossos d'esquadra",
-            "narcotráfico"
-        ],
-        "link": "https://www.elperiodico.com/es/sucesos/20251205/siete-detenidos-70-kilos-droga-badalona-barcelona-narcos-124473698",
-        "date": "2025-12-05 06:17:00",
-        "sentiment_score": -0.6462908647954464
-    },
-    {
-        "title": "El telediario nos explica qué tiempo hace en Alguer",
-        "image_url": "https://static1.ara.cat/clip/493ece6f-0170-446c-a3e8-9846bfcc9541_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "alguer",
-            "explica",
-            "telediario",
-            "tiempo"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/telediario-explica-tiempo-alguer_129_5583344.html",
-        "date": "2025-12-05 06:15:12",
-        "sentiment_score": -0.14055868983268738
-    },
-    {
-        "title": "\"Debería haberme operado antes; cuando el médico me abrió, flipó\"",
-        "image_url": "https://static1.ara.cat/clip/6cac9eb7-7e3c-4df5-8e34-c608e17373df_16-9-aspect-ratio_default_1054820.jpg",
-        "tags": [
-            "haberme",
-            "operado",
-            "medico",
-            "deberia",
-            "flipo",
-            "abrio"
-        ],
-        "link": "https://es.ara.cat/deportes/futbol/deberia-haberme-operado-medico-abrio-flipo_128_5583331.html",
-        "date": "2025-12-05 06:01:06",
-        "sentiment_score": -0.46646593511104584
-    },
-    {
-        "title": "Miquel Ferreres: \"Si la viñeta debe ser una fotocopia dibujada de lo que explica la editorial, no vayamos bien\"",
-        "image_url": "https://static1.ara.cat/clip/f0753f22-b927-4619-bc9e-ba5bb8294615_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "no",
-            "vayamos",
-            "ferreres",
-            "explica",
-            "miquel",
-            "debe",
-            "vineta",
-            "dibujada",
-            "fotocopia",
-            "editorial"
-        ],
-        "link": "https://es.ara.cat/comer/miquel-ferreres-vineta-debe-fotocopia-dibujada-explica-editorial-no-vayamos_1_5583329.html",
-        "date": "2025-12-05 06:01:04",
-        "sentiment_score": -0.11389169096946716
-    },
-    {
-        "title": "Inteligencia artificial al servicio de la salud",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/8/6/7/1200x655_Cobiomic.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13677003/12/25/inteligencia-artificial-al-servicio-de-la-salud.html",
-        "date": "2025-12-05 06:00:58",
-        "sentiment_score": 0.6267625484615564
-    },
-    {
-        "title": "Felisa Panadero se jubila después de 40 años al servicio de Sevilla y la Justicia",
-        "image_url": "https://static.grupojoly.com/clip/3793ca65-d871-4f84-9f5d-21f7d34119ca_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "subdelegación del gobierno",
-            "pp",
-            "últimas noticias sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/juzgado_de_guardia/actualidad/felisa-panadero-jubila-servicio-sevilla-justicia_0_2005392945.html",
-        "date": "2025-12-05 06:00:55",
-        "sentiment_score": -0.16686181724071503
-    },
-    {
-        "title": "¿Cuáles son las normas de viaje que han cambiado en Europa en 2025 y qué esperar para 2026?",
-        "image_url": "https://images.euronews.com/articles/stories/09/57/16/35/1200x675_cmsv2_caefb834-0df4-599e-a36a-6d0b48eb4701-9571635.jpg",
-        "tags": [
-            "consejos de viaje",
-            "visado",
-            "turismo",
-            "viaje"
-        ],
-        "link": "http://es.euronews.com/viajes/2025/12/05/europa-2025-nuevas-normas-de-viaje-control-fronterizo-tasas-turisticas-y-mano-dura-al-inci",
-        "date": "2025-12-05 06:00:46",
-        "sentiment_score": -0.018761321902275085
-    },
-    {
-        "title": "“Estamos cruzando los dedos para que la peste porcina no se propague a otras zonas de España”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/30c55ede-c78b-4665-80cf-40e99643ee5e_16-9-aspect-ratio_default_1419555.jpg",
-        "tags": [
-            "extremadura",
-            "cerdo ibérico"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/05/cruzando-dedos-peste-porcina-propague-124472861.html",
-        "date": "2025-12-05 06:00:44",
-        "sentiment_score": -0.4818791002035141
-    },
-    {
         "title": "Continúa la incertidumbre en las elecciones de Honduras",
         "image_url": "https://static.wixstatic.com/media/335561_c9a7479ee4b84339b69542022e4937ee~mv2.png/v1/fit/w_341,h_382,al_c,q_80/file.png",
         "tags": [
@@ -2769,5 +2521,271 @@ export default [
         "link": "https://www.lavanguardia.com/internacional/20251208/11342529/israel-asalta-sede-agencia-onu-refugiados-palestinos-jerusalen.html",
         "date": "2025-12-08 16:49:23",
         "sentiment_score": -0.8266942035406828
+    },
+    {
+        "title": "Nicolás Maduro, el político improbable que desafió todos los pronósticos pero gobierna un país con millones en el exilio",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/04e5c96a550ed2ace41e537dd93edee6b7d3b898w.jpg",
+        "tags": [
+            "nacionales",
+            "actualidad",
+            "nicolás maduro"
+        ],
+        "link": "https://lapatilla.com/2025/12/08/nicolas-maduro-el-politico-improbable-que-desafio-todos-los-pronosticos-pero-gobierna-un-pais-con-millones-en-el-exilio/",
+        "date": "2025-12-08 17:13:41",
+        "sentiment_score": -0.758212273940444
+    },
+    {
+        "title": "Reunir aliados y expandir presencia, la nueva estrategia de seguridad de Donald Trump para América Latina",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Screenshot_7.jpg",
+        "tags": [
+            "donald trump",
+            "estrategia de seguridad",
+            "destacados",
+            "usa",
+            "nacionales",
+            "internacionales"
+        ],
+        "link": "https://lapatilla.com/2025/12/08/reunir-aliados-y-expandir-presencia-la-nueva-estrategia-de-seguridad-de-donald-trump-para-america-latina/",
+        "date": "2025-12-08 10:59:42",
+        "sentiment_score": -0.03160849213600159
+    },
+    {
+        "title": "Osasuna-Levante (2-0): Víctor Muñoz se reencuentra con el gol",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5da6f956-01f9-4b81-90da-8c4d8563557b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "osasuna",
+            "0",
+            "victor",
+            "2",
+            "levante"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/08/osasuna-levante-2-0-victor-10447522.html",
+        "date": "2025-12-08 22:14:41",
+        "sentiment_score": 0.2741923928260803
+    },
+    {
+        "title": "Sergio Ramos no continuará con Monterrey y busca nuevo equipo",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Sergio-Ramos-Monterrey.jpg",
+        "tags": [
+            "cf monterrey",
+            "méxico",
+            "titulares",
+            "deportes",
+            "futbol",
+            "sergio ramos"
+        ],
+        "link": "https://lapatilla.com/2025/12/08/sergio-ramos-no-continuara-con-monterrey-y-busca-nuevo-equipo/",
+        "date": "2025-12-08 22:06:12",
+        "sentiment_score": -0.13051368296146393
+    },
+    {
+        "title": "David Faitelson protagoniza pelea con La Volpe por Sergio Ramos: “Yo me voy”",
+        "image_url": "https://www.infobae.com/resizer/v2/TPZ5P56L5JFCRD6EMO5A5POIMY.jpg?auth=cf57de457e71d5e0b643968b17bb6f11b61904a7e3592fccc2fa7d28eac29539&height=1080&smart=true&width=1920",
+        "tags": [
+            "mexico-deportes",
+            "sergio ramos",
+            "liga mx",
+            "david faitelson",
+            "ricardo la volpe"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/12/08/david-faitelson-protagoniza-pelea-con-la-volpe-por-sergio-ramos-yo-me-voy/",
+        "date": "2025-12-08 21:47:03",
+        "sentiment_score": -0.10754063725471497
+    },
+    {
+        "title": "Rodrygo apela a uno de sus mejores momentos para vencer al City en plena crisis: \"Inolvidable\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/13/image-ce65d842-e70f-4d4f-bc15-3b46f9dd81e1-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "champions league 2025-2026"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/rodrygo-apela-mejores-momentos-vencer-al-city-plena-crisis-inolvidable_sto23248773/story.shtml",
+        "date": "2025-12-08 20:44:09",
+        "sentiment_score": 0.0679178237915039
+    },
+    {
+        "title": "Llega a Ceuta Coolligan, la tienda de fútbol retro para vestir",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/12/llega-ceuta-coolligan-tienda-futbol-retro-vestir-1-750x563.jpeg",
+        "tags": [
+            "sociedad",
+            "empresas",
+            "noticias",
+            "comercios"
+        ],
+        "link": "https://elfarodeceuta.es/llega-ceuta-coolligan-tienda-futbol-retro-vestir/",
+        "date": "2025-12-08 20:44:00",
+        "sentiment_score": 0.5037320032715797
+    },
+    {
+        "title": "Carlos Lopes, exnegociador de la Unión Africana: “Cuando África logra posiciones comunes, Europa las rompe\"",
+        "image_url": "https://static.eldiario.es/clip/3c978d70-ff73-4ad7-89c5-702026c94ae4_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "logra",
+            "carlos",
+            "rompe",
+            "europa",
+            "africa",
+            "posiciones",
+            "comunes",
+            "union",
+            "exnegociador",
+            "africana",
+            "lopes"
+        ],
+        "link": "https://www.eldiario.es/internacional/carlos-lopes-exnegociador-union-africana-africa-logra-posiciones-comunes-europa-rompe_128_12824229.html",
+        "date": "2025-12-08 20:35:46",
+        "sentiment_score": -0.17424561083316803
+    },
+    {
+        "title": "España retrasa la maternidad: así se desploma la natalidad mientras la congelación de óvulos bate récords",
+        "image_url": "https://static.eldiario.es/clip/ccc7d0cb-856e-4f79-aa4f-aae56e6ee121_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bate",
+            "records",
+            "maternidad",
+            "desploma",
+            "ovulos",
+            "congelacion",
+            "natalidad",
+            "espana",
+            "retrasa"
+        ],
+        "link": "https://www.eldiario.es/sociedad/espana-retrasa-maternidad-desploma-natalidad-congelacion-ovulos-bate-records_1_12821925.html",
+        "date": "2025-12-08 20:35:40",
+        "sentiment_score": -0.08620283007621765
+    },
+    {
+        "title": "La venta del campo del Racing de Santander legalizó un pelotazo urbanístico en primera línea de playa hace 40 años",
+        "image_url": "https://static.eldiario.es/clip/ac90e226-6cda-4553-9ff5-a0e0952f4407_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "santander",
+            "cantabria",
+            "actualidad",
+            "política",
+            "sociedad"
+        ],
+        "link": "https://www.eldiario.es/cantabria/ultimas-noticias/venta-campo-racing-santander-legalizo-pelotazo-urbanistico-primera-linea-playa-40-anos_1_12755114.html",
+        "date": "2025-12-08 20:30:49",
+        "sentiment_score": -0.047716766595840454
+    },
+    {
+        "title": "Sorteo de la tercera ronda de Copa del Rey 25/26: Madrid, Barça, Atleti y Athletic entran en escena",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/10/06/image-47444c43-1d8c-49d6-b89a-a978535d2e9d-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "copa del rey 2025-2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/copa-del-rey/2025-2026/sorteo-tercera-ronda-copa-del-rey-atleti-madrid-barca-horario-donde-ver-online-tv_sto23248770/story.shtml",
+        "date": "2025-12-08 20:22:24",
+        "sentiment_score": 0.04377825930714607
+    },
+    {
+        "title": "Claves para entender lo que pasa con la peste porcina africana en España",
+        "image_url": "https://media.es.wired.com/photos/69374399ba55d5c8aacfcd4f/master/pass/peste%20porcina%20africana%20Espa%C3%B1a%202249545146.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://es.wired.com/articulos/claves-para-entender-lo-que-pasa-con-la-peste-porcina-africana-en-espana",
+        "date": "2025-12-08 22:11:22",
+        "sentiment_score": -0.6965285800397396
+    },
+    {
+        "title": "FC Barcelona vs. Eintracht, por la Champions League 2025/2026: previa, alineaciones, hora y cómo ver por TV e internet",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/12/08/champions-league-barcelona-eintracht-frankfurt-orix/",
+        "date": "2025-12-08 22:03:50",
+        "sentiment_score": -0.033585041761398315
+    },
+    {
+        "title": "Una alegría en El Sadar: Osasuna se deshace del penúltimo y alivia su delicada situación",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/12/08/2025120821531654907.jpg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/osasuna/cronica-partido-futbol-osasuna-levante-estadio-sadar-pamplona/20251208225228625531.html",
+        "date": "2025-12-08 21:52:28",
+        "sentiment_score": 0.6286613084375858
+    },
+    {
+        "title": "Anatomía del 'plan obrero' de Vox: así ha logrado arrebatar 300.000 votos al PSOE en tan solo dos meses",
+        "image_url": "https://phantom-elmundo.uecdn.es/df6bd93fc11af6e5b6224a1c69217e11/f/image/jpeg/assets/multimedia/imagenes/2022/05/31/16540080180026.jpg",
+        "tags": [
+            "vox",
+            "nlpremium",
+            "artículos rodrigo terrasa",
+            "santiago abascal conde"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/12/08/69372fb8e9cf4a70038b4580.html",
+        "date": "2025-12-08 21:51:38",
+        "sentiment_score": -0.46388494223356247
+    },
+    {
+        "title": "Entrevista a la manager de Colapinto: cómo se cerró la butaca para 2026 con Alpine y la frase que ilusiona de cara al futuro",
+        "image_url": "https://www.infobae.com/resizer/v2/XVXKMDN6NBGZ7J4GQSIUDQE2RY.png?auth=db9ec63302b927c870650f3686824e0e1ffaa803b13e2754d20a9cb417e3f217&height=1080&smart=true&width=1920",
+        "tags": [
+            "alpine f1 team",
+            "franco colapinto",
+            "fórmula 1",
+            "maría catarineu",
+            "deportes-internacional",
+            "deportes-argentina",
+            "williams racing"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/08/entrevista-a-la-manager-de-colapinto-como-se-cerro-la-butaca-para-2026-con-alpine-y-la-frase-que-ilusiona-de-cara-al-futuro/",
+        "date": "2025-12-08 21:39:15",
+        "sentiment_score": 0.5854080989956856
+    },
+    {
+        "title": "Píriteños celebraron a su patrona y más de 4 siglos de historia",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/12/Piritu-300x156.jpg",
+        "tags": [
+            "cultura",
+            "anzoátegui"
+        ],
+        "link": "https://ultimasnoticias.com.ve/anzoateggui/piritenos-celebraron-a-su-patrona-y-mas-de-4-siglos-de-historia/",
+        "date": "2025-12-08 21:37:58",
+        "sentiment_score": -0.07449524104595184
+    },
+    {
+        "title": "Comerciantes de Barcelona están a la expectativa de que se eleven las ventas decembrinas (+Fotos)",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "economía",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/comerciantes-de-barcelona-estan-a-la-expectativa-de-que-se-eleven-las-ventas-decembrinas-fotos/",
+        "date": "2025-12-08 21:31:00",
+        "sentiment_score": 0.37519414722919464
+    },
+    {
+        "title": "El Salón Ocasión de Barcelona cierra con 1.100 vehículos vendidos y 15.000 visitantes",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/11/02/economia/624197592_9821033_1706x960.jpg",
+        "tags": [
+            "eventos",
+            "economía",
+            "vivir en barcelona",
+            "fira de barcelona",
+            "coches"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251208/salon-ocasion-barcelona-cierra-vehiculos-vendidos-visitantes/1003742714406_0.html",
+        "date": "2025-12-08 21:22:43",
+        "sentiment_score": 0.6831782292574644
+    },
+    {
+        "title": "Alineación del Barcelona contra el Eintracht: vuelve Raphinha",
+        "image_url": "https://okdiario.com/img/2025/11/29/imagen_recortada-9.jpg",
+        "tags": [
+            "deportes",
+            "champions league",
+            "barcelona",
+            "fc barcelona",
+            "eintracht frankfurt"
+        ],
+        "link": "https://okdiario.com/deportes/alineacion-del-barcelona-contra-eintracht-vuelve-raphinha-15898901",
+        "date": "2025-12-08 21:00:08",
+        "sentiment_score": 0.04039902985095978
     }
 ];
