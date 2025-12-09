@@ -1,212 +1,5 @@
 export default [
     {
-        "title": "Muere Alfonso Ussía",
-        "image_url": "https://cdn.mnmstatic.net/cache/3e/ec/media_thumb-link-4123745.webp?1764932946=",
-        "tags": [
-            "obituario",
-            "columnista",
-            "actualidad",
-            "ussía"
-        ],
-        "link": "https://www.meneame.net/story/muere-alfonso-ussia",
-        "date": "2025-12-05 14:25:04",
-        "sentiment_score": -0.2043183296918869
-    },
-    {
-        "title": "Cañizares urge a Renfe a mejorar el servicio ferroviario entre Ciudad Real y Madrid",
-        "image_url": "http://st1.lacerca.com/imagenes/view/1f66596424acb0caa6f20122b2614c32.jpg",
-        "tags": [
-            "ciudad real",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/ciudad_real/canizares-renfe-mejorar-servicio-ferroviario-ciudad-real-madrid-793706-1.html",
-        "date": "2025-12-05 17:10:00",
-        "sentiment_score": 0.15312886610627174
-    },
-    {
-        "title": "Guardiola vuelve a sacar su lado más antiespañolista: «Me gustaría que el Mundial lo ganara Inglaterra»",
-        "image_url": "https://okdiario.com/img/2025/12/05/pep-guardiola.-getty.jpg",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "selección de inglaterra fútbol",
-            "selección de españa fútbol",
-            "pep guardiola"
-        ],
-        "link": "https://okdiario.com/deportes/guardiola-vuelve-sacar-lado-mas-antiespanolista-gustaria-que-mundial-lo-ganara-inglaterra-15889206",
-        "date": "2025-12-05 17:07:38",
-        "sentiment_score": 0.10572728514671326
-    },
-    {
-        "title": "El Supremo da la razón al Real Madrid frente a LaLiga sobre el reparto de derechos audiovisuales para la temporada 15/16",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/05/69330bd958cd02-60326258.r_d.1273-871.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/supremo-da-razon-real-madrid-frente-laliga-sobre-reparto-derechos-audiovisuales-para-temporada-15-16_6907359_0.html",
-        "date": "2025-12-05 17:05:35",
-        "sentiment_score": -0.7882988136261702
-    },
-    {
-        "title": "Presentada la San Silvestre Vallecana 2025, la carrera \"más bonita del mundo\"",
-        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2025/12/05/6933106db5af8.jpeg",
-        "tags": [
-            "dn_running"
-        ],
-        "link": "https://www.diariodenavarra.es/noticias/deportes/dn-running/2025/12/05/presentada-san-silvestre-vallecana-2025-carrera-bonita-mundo-802557-51.html",
-        "date": "2025-12-05 17:05:23",
-        "sentiment_score": 0.8179874941706657
-    },
-    {
-        "title": "Valverde: “Tenemos ganas de resarcirnos”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/93f2d2bf-09cb-4b65-90b1-b43d647ab5cb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "valverde",
-            "madrid",
-            "atletico",
-            "ganas",
-            "resarcirnos",
-            "athletic"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/12/05/valverde-ganas-resarcirnos-athletic-atletico-madrid-10439621.html",
-        "date": "2025-12-05 17:04:10",
-        "sentiment_score": 0.1814224272966385
-    },
-    {
-        "title": "Valverde: \"Veo muy bien al Atlético, tiene una mentalidad súper competitiva desde hace años\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251205175616_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-valverde-veo-muy-bien-atletico-tiene-mentalidad-super-competitiva-hace-anos-20251205175616.html",
-        "date": "2025-12-05 16:56:16",
-        "sentiment_score": 0.3436722904443741
-    },
-    {
-        "title": "Supercopa de España 2026 EN VIVO y GRATIS para Venezuela: fechas y horarios de las semifinales y la gran final",
-        "image_url": "https://pxcdn.meridiano.net/122025/1764953593756.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/supercopa-de-espana-2026-en-vivo-y-gratis-para-venezuela-fechas-y-horarios-de-las-semifinales-y-la-gran-final-202512512540",
-        "date": "2025-12-05 16:54:00",
-        "sentiment_score": 0.3548505771905184
-    },
-    {
-        "title": "Noboa defendió sus viajes al exterior: “Cada uno mejora la vida de los ecuatorianos”",
-        "image_url": "https://www.infobae.com/resizer/v2/L4ICNXGXKVDWJLUR77IKX7QD3E.jpg?auth=69a14f2e00315ccfead5f628ef30dd171a3d8ab1b94c52930fcee467c533c3ef&height=4150&smart=true&width=6225",
-        "tags": [
-            "ecuador",
-            "daniel noboa",
-            "viajes noboa",
-            "españa"
-        ],
-        "link": "https://www.infobae.com/america/america-latina/2025/12/05/noboa-defendio-sus-viajes-al-exterior-cada-uno-mejora-la-vida-de-los-ecuatorianos/",
-        "date": "2025-12-05 16:51:54",
-        "sentiment_score": 0.15835782885551453
-    },
-    {
-        "title": "Azkuna Zentroa Bilbao acoge hasta el 14 de diciembre 'Fórmulas de cinética doméstica', de la artista Beatriz Sánchez",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251205174402_260.jpg",
-        "tags": [
-            "país vasco"
-        ],
-        "link": "https://www.europapress.es/euskadi/noticia-azkuna-zentroa-bilbao-acoge-14-diciembre-formulas-cinetica-domestica-artista-beatriz-sanchez-20251205174402.html",
-        "date": "2025-12-05 16:44:02",
-        "sentiment_score": 0.21331021562218666
-    },
-    {
-        "title": "Ayuso alerta sobre el 'procés' socialista español y sitúa a la prensa libre como protagonista del Día de la Constitución",
-        "image_url": "https://s1.staticld.com/2025/12/05/isabel-diaz-ayuso-2-051225.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.libertaddigital.com/madrid/2025-12-05/ayuso-alerta-sobre-el-proces-socialista-espanol-y-situa-a-la-prensa-libre-como-protagonista-del-dia-de-la-constitucion-7329750/",
-        "date": "2025-12-05 16:40:01",
-        "sentiment_score": 0.1912814863026142
-    },
-    {
-        "title": "El Barça, con miedo a una nueva invasión de aficionados del Eintracht: detecta 100 casos en la reventa de entradas",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744044959_260346566_1706x960.jpg",
-        "tags": [
-            "fútbol",
-            "fc barcelona",
-            "deportes",
-            "joan laporta i estruch"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251205/barca-miedo-nueva-invasion-aficionados-eintracht-detecta-casos-reventa-entradas/1003744044883_0.html",
-        "date": "2025-12-05 17:03:09",
-        "sentiment_score": -0.13538624346256256
-    },
-    {
-        "title": "El Gobierno investiga si el brote de peste porcina se ha generado en un laboratorio",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251205180200_120.jpg",
-        "tags": [
-            "vídeos"
-        ],
-        "link": "https://www.europapress.es/videos/video-gobierno-investiga-si-brote-peste-porcina-generado-laboratorio-20251205180200.html",
-        "date": "2025-12-05 17:02:00",
-        "sentiment_score": -0.3587379939854145
-    },
-    {
-        "title": "Fallece con 88 años el hostelero salmantino Silvestre Sánchez",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/6e3b4003-35d6-46c8-bb0a4915665b239b.jpg",
-        "tags": [
-            "barcelona",
-            "enfermedades",
-            "cataluña"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z4e99a7f4-d9c6-4454-9023d166ebe1463e/202512/fallece-con-88-anos-el-hostelero-salmantino-silvestre-sanchez",
-        "date": "2025-12-05 17:01:38",
-        "sentiment_score": -0.08268862962722778
-    },
-    {
-        "title": "Lewandowski, Julián Álvarez y el fichaje sorpresa de Laporta que amenaza a los dos para ser el ‘9’ del Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/05/culemania/primer-equipo/1003742713931_15486400_1706x960.jpg",
-        "tags": [
-            "joan laporta",
-            "barça",
-            "primer equipo",
-            "fichajes barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251205/lewandowski-julian-alvarez-fichaje-sorpresa-laporta-barca/1003742713916_0.html",
-        "date": "2025-12-05 17:01:14",
-        "sentiment_score": -0.32252177596092224
-    },
-    {
-        "title": "Illa defiende el seguimiento que ha hecho de la peste porcina desde México y ensalza la actuación del Govern",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251205175052.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/illa-defiende-el-seguimiento-que-ha-hecho-de-la-peste-porcina-desde-mxico-y-ensalza-la-actuacin-del-govern/",
-        "date": "2025-12-05 17:00:05",
-        "sentiment_score": -0.5200438275933266
-    },
-    {
-        "title": "NN Working presenta Travessera de les Corts, más de 1.300 m2 de oficinas diáfanas reformadas en Barcelona",
-        "image_url": "https://edatv.news/filesedc/uploads/image/post/2025/12/nn-working-creation-1b_1200_800.webp",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://edatv.news/actualidad/nn-working-presenta-travessera-corts-mas-1300-m-oficinas-diafanas-reformadas-barcelona",
-        "date": "2025-12-05 17:00:00",
-        "sentiment_score": 0.3074312321841717
-    },
-    {
-        "title": "El PP pide comparecer al director del IRTA por el posible brote de PPA de un laboratorio",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251205175621_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-pp-pide-comparecer-director-irta-posible-brote-ppa-laboratorio-20251205175621.html",
-        "date": "2025-12-05 16:56:21",
-        "sentiment_score": -0.292040579020977
-    },
-    {
         "title": "El Real Madrid muestra su \"satisfacción\" por la resolución del TS respecto a los derechos audiovisuales",
         "image_url": "https://www.infobae.com/resizer/v2/ZZAQWIQCKBEGZENGQUU7EJ6RTQ.jpg?auth=72beac4d58760c33f0fcc7979966e7ffb213ec56030315b735eebac6e7a95894&height=1280&smart=true&width=1920",
         "tags": [
@@ -2939,5 +2732,123 @@ export default [
         "link": "https://www.elespanol.com/reportajes/20251209/gran-maestro-senador-antonio-hernandez-mason-moncloa-cargos-logias-espanolas-psoe/1003744046968_0.html",
         "date": "2025-12-09 01:14:27",
         "sentiment_score": -0.411006823182106
+    },
+    {
+        "title": "El Gobierno aprobará este martes la transformación del Sepes en la nueva Casa 47",
+        "image_url": "https://www.elplural.com/uploads/s1/21/16/77/8/la-ministra-de-vivienda-y-agenda-urbana-isabel-rodriguez-ep_7_480x270.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elplural.com/politica/espana/gobierno-aprobara-martes-transformacion-sepes-nueva-casa-47_366961102",
+        "date": "2025-12-09 06:27:08",
+        "sentiment_score": -0.03710883855819702
+    },
+    {
+        "title": "La atención hospitalaria domiciliaria demuestra éxito en las comunidades rurales",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251209071348_690.jpg",
+        "tags": [
+            "investigación",
+            "infosalus.com"
+        ],
+        "link": "https://www.infosalus.com/salud-investigacion/noticia-atencion-hospitalaria-domiciliaria-demuestra-exito-comunidades-rurales-20251209071348.html",
+        "date": "2025-12-09 06:13:48",
+        "sentiment_score": -0.30717843025922775
+    },
+    {
+        "title": "Ceuta y Melilla, el agujero negro de la gestión sanitaria de Mónica García",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2024/05/ministra_monica_garcia.webp",
+        "tags": [
+            "actualidad",
+            "últimas noticias",
+            "lo más leído",
+            "salud"
+        ],
+        "link": "https://www.merca2.es/2025/12/09/ceuta-y-melilla-el-agujero-negro-de-la-gestion-sanitaria-de-monica-garcia-2331859/",
+        "date": "2025-12-09 06:10:00",
+        "sentiment_score": -0.09221711754798889
+    },
+    {
+        "title": "Las etiquetas medioambientales, factor clave para la elección del nuevo coche",
+        "image_url": "https://static.grupojoly.com/clip/750d29c7-7c31-44af-b501-f243e38cb02c_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "etiquetas",
+            "medioambientales",
+            "clave",
+            "eleccion",
+            "factor"
+        ],
+        "link": "https://www.eldiadecordoba.es/motor/etiquetas-medioambientales-factor-clave-eleccion_0_2005416470.html",
+        "date": "2025-12-09 06:00:37",
+        "sentiment_score": 0.6067736446857452
+    },
+    {
+        "title": "Arrepentidos los quiere Dios",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eca76139-aae1-435b-8900-d8e04a46f1e1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dios,víctor de aldama,real madrid,zamora cf"
+        ],
+        "link": "https://www.laopiniondezamora.es/opinion/2025/12/09/arrepentidos-quiere-dios-124583334.html",
+        "date": "2025-12-09 06:00:17",
+        "sentiment_score": -0.207272469997406
+    },
+    {
+        "title": "Nogueras en las quinielas y camioneros ofendidos",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/09/primeras-planas/1003742714421_15491937_1706x960.jpg",
+        "tags": [
+            "primeras planas",
+            "míriam nogueras",
+            "cataluña",
+            "junts per catalunya"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/primeras-planas/20251209/nogueras-quinielas-camioneros-ofendidos/1003742714420_0.html",
+        "date": "2025-12-09 06:36:11",
+        "sentiment_score": -0.622593455016613
+    },
+    {
+        "title": "Cuál es el precio de la gasolina este 9 de diciembre en Madrid, Barcelona y otras ciudades",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-economia",
+            "gasolina",
+            "precio gasolina",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/09/cual-es-el-precio-de-la-gasolina-este-9-de-diciembre-en-madrid-barcelona-y-otras-ciudades/",
+        "date": "2025-12-09 06:30:42",
+        "sentiment_score": -0.33635714650154114
+    },
+    {
+        "title": "Médicos de toda España inician este martes cuatro días de su tercera huelga del año contra el estatuto de Sanidad",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2023/06/12/16865898055845.jpg",
+        "tags": [
+            "huelgas",
+            "salud",
+            "sanidad",
+            "salud y ciencia",
+            "médicos"
+        ],
+        "link": "https://www.elmundo.es/ciencia-y-salud/salud/2025/12/09/6937c07b21efa089608b4572.html",
+        "date": "2025-12-09 06:26:15",
+        "sentiment_score": 0.014743126928806305
+    },
+    {
+        "title": "Los puntos verdes ofrecen la reutilización y el reciclaje de teléfonos móviles",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/09/6937c011dc56c.jpeg",
+        "tags": [
+            "barcelona+"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/barcelona-plus/20251209/11343177/puntos-verdes-ofrecen-reutilizacion-reciclaje-telefonos-moviles.html",
+        "date": "2025-12-09 06:23:33",
+        "sentiment_score": 0.38697341084480286
+    },
+    {
+        "title": "Un centenar de adolescentes ciberdelincuentes españoles amenazan a la seguridad del Estado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6ffd9083-24c9-4c1e-84f7-2cf7ec02770f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ciberdelincuencia,cni,mossos d'esquadra,policía nacional,guardia civil,ciberataque,ciberseguridad"
+        ],
+        "link": "https://www.laopiniondezamora.es/nacional/2025/12/09/centenar-adolescentes-ciberdelincuentes-espanoles-amenazan-seguridad-estado-124585964.html",
+        "date": "2025-12-09 06:22:10",
+        "sentiment_score": -0.41314681246876717
     }
 ];
