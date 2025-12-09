@@ -1,483 +1,5 @@
 export default [
     {
-        "title": "Caso Negreira: el Real Madrid finaliza un informe con videos que recibirá Infantino",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1764876440502/16827744.jpeg?ch=675&cw=1200",
-        "tags": [
-            "corrupción en laliga",
-            "caso negreira",
-            "uefa",
-            "gianni infantino",
-            "laliga",
-            "fc barcelona",
-            "fifa",
-            "real madrid"
-        ],
-        "link": "https://2001online.com/deportes/caso-negreira-el-real-madrid-finaliza-un-informe-con-videos-que-recibira-infantino-20251241900",
-        "date": "2025-12-04 22:07:00",
-        "sentiment_score": -0.027650251984596252
-    },
-    {
-        "title": "El Real Madrid sube de estatus en Estambul",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/4c826bf9-51a2-49cf-b7969f7728171ac1.jpeg",
-        "tags": [
-            "selección española de baloncesto",
-            "estambul",
-            "euroliga",
-            "anadolu efes",
-            "usman garuba",
-            "sergio scariolo",
-            "real madrid",
-            "cabo verde"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zf0780412-cbee-46e8-a9a3ce8edac1d8d6/202512/el-real-madrid-sube-de-estatus-en-estambul",
-        "date": "2025-12-04 21:50:56",
-        "sentiment_score": 0.3978227823972702
-    },
-    {
-        "title": "Voluntarios con discapacidad acompañan a los mayores de una residencia de Ávila",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/04/avila-kirC-U240451092588rc-758x531@El%20Norte.jpg",
-        "tags": [
-            "día de la discapacidad",
-            "ávila (provincia)",
-            "junta de castilla y león",
-            "fundación la caixa"
-        ],
-        "link": "https://www.elnortedecastilla.es/promocionales/voluntarios-discapacidad-acompanan-mayores-residencia-avila-20251205224656-nt.html",
-        "date": "2025-12-04 21:46:56",
-        "sentiment_score": 0.7994479890912771
-    },
-    {
-        "title": "Agenda gráfica para el día 5 de diciembre de 2025",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/04/agenda-grafica-para-el-dia-5-de-diciembre-de-2025/",
-        "date": "2025-12-04 21:30:32",
-        "sentiment_score": 0.05165150761604309
-    },
-    {
-        "title": "Arrestado en Valladolid el jefe antidroga de la Policía Nacional durante un operativo contra el narcotráfico",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-1817501.jpg",
-        "tags": [
-            "espana"
-        ],
-        "link": "https://www.vozpopuli.com/espana/arrestado-en-valladolid-el-jefe-antidroga-de-la-policia-nacional-durante-un-operativo-contra-el-narcotrafico.html",
-        "date": "2025-12-04 21:26:36",
-        "sentiment_score": -0.07684550434350967
-    },
-    {
-        "title": "Un histórico del fútbol europeo eligió a sus cuatro favoritos a ganar el Mundial 2026: por qué excluyó a la Argentina de Messi",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "deportes-argentina",
-            "selección argentina",
-            "lionel messi",
-            "wesley sneijder",
-            "kylian mbappé",
-            "selección de países bajos",
-            "mundial 2026"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/04/un-historico-del-futbol-europeo-eligio-a-sus-cuatro-favoritos-a-ganar-el-mundial-2026-por-que-excluyo-a-la-argentina-de-messi/",
-        "date": "2025-12-04 21:24:46",
-        "sentiment_score": 0.26469582319259644
-    },
-    {
-        "title": "La \"invasión\" publicitaria de 'Stranger Things' en calles y edificios de Madrid solo deja 1.528 euros en las arcas municipales",
-        "image_url": "https://static.eldiario.es/clip/02b8683b-085f-44c9-ba49-437e44330f71_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "edificios",
-            "528",
-            "municipales",
-            "stranger",
-            "1",
-            "things",
-            "deja",
-            "invasion",
-            "publicitaria",
-            "calles",
-            "madrid",
-            "arcas",
-            "euros"
-        ],
-        "link": "https://www.eldiario.es/madrid/somos/invasion-publicitaria-stranger-things-calles-edificios-madrid-deja-1-528-euros-arcas-municipales_1_12813226.html",
-        "date": "2025-12-04 21:20:59",
-        "sentiment_score": -0.08971802890300751
-    },
-    {
-        "title": "Joan Laporta: \"El Real Madrid representa el poder y el Barça, la libertad\"",
-        "image_url": "https://www.infobae.com/resizer/v2/X3WKJNJIUFGEPNF5X2GRZOT7WA.jpg?auth=0f2d242ff17b756924de0dfd717d44c8bf78f2844df45d5603663c908e53a8dd&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/04/joan-laporta-el-real-madrid-representa-el-poder-y-el-barca-la-libertad/",
-        "date": "2025-12-04 21:00:34",
-        "sentiment_score": 0.19113098084926605
-    },
-    {
-        "title": "Laporta: \"El Madrid representa el poder y el Barça la libertad\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/04/F5D14BE6-7D5D-4432-BBA1-9DE950520001/laporta-madrid-representa-poder-barca-libertad_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/laporta-madrid-representa-poder-barca-libertad_202512046931f3e655584d48fb69fb2a.html",
-        "date": "2025-12-04 20:50:05",
-        "sentiment_score": 0.20902636088430882
-    },
-    {
-        "title": "Matagigantes blanquiazul",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3583015.jpg",
-        "tags": [
-            "fútbol",
-            "rcd espanyol",
-            "atlético baleares",
-            "copa del rey"
-        ],
-        "link": "https://www.ultimahora.es/deportes/atletico-baleares/2025/12/04/2525661/matagigantes-blanquiazul.html",
-        "date": "2025-12-04 20:48:00",
-        "sentiment_score": -0.8824377749115229
-    },
-    {
-        "title": "André Rieu, con más de 40 millones de discos vendidos, llega al Palacio de Deportes Martín Carpena de Málaga",
-        "image_url": "https://static.grupojoly.com/clip/4bb2557f-1aaf-459b-b67b-c7f20571ab30_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "qué hacer en málaga",
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/andre-rieu-palacio-deportes-martin-carpena-malaga_0_2005393714.html",
-        "date": "2025-12-04 22:14:04",
-        "sentiment_score": 0.17148467898368835
-    },
-    {
-        "title": "Bill Gates advirtió que la mortalidad infantil volvió a aumentar por los recortes de ayuda internacional",
-        "image_url": "https://www.infobae.com/resizer/v2/TKIWC5BWJRCZ7M2TYWIKZI5ZHY.JPG?auth=a785735964dd4dfbeb5a50d46c9922948ce79c05ec8a7f5c5a334f02b39ab8e3&height=2737&smart=true&width=4106",
-        "tags": [
-            "estados unidos",
-            "mortalidad infantil",
-            "ultimas noticias america",
-            "bill gates"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2025/12/04/bill-gates-advirtio-que-la-mortalidad-infantil-volvio-a-aumentar-por-los-recortes-de-ayuda-internacional/",
-        "date": "2025-12-04 22:03:35",
-        "sentiment_score": -0.799385316669941
-    },
-    {
-        "title": "El ojeador de fútbol pederasta Kenneth V.V. afronta hasta 86 años de cárcel",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bfd39ecc-c880-492c-907b-dbef04d64bd1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol base",
-            "víctimas",
-            "fútbol",
-            "pederasta",
-            "menores",
-            "gran canaria",
-            "guardia civil"
-        ],
-        "link": "https://www.eldia.es/sucesos/sucesos-en-canarias/2025/12/04/ojeador-futbol-pederasta-kenneth-v-carcel-124466551.html",
-        "date": "2025-12-04 21:34:38",
-        "sentiment_score": -0.7866268027573824
-    },
-    {
-        "title": "Almendro Origen recauda más de 80.000 euros por el cáncer infantil en su IV Cena Solidaria de Navidad",
-        "image_url": "https://static1.ara.cat/clip/7b8acda8-9b2b-48df-82b7-809134b2f495_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navidad",
-            "infantil",
-            "almendro",
-            "recauda",
-            "cancer",
-            "solidaria",
-            "origen",
-            "euros",
-            "cena",
-            "000",
-            "iv",
-            "80"
-        ],
-        "link": "https://es.ara.cat/gente/almendro-origen-recauda-80-000-euros-cancer-infantil-iv-cena-solidaria-navidad_1_5583304.html",
-        "date": "2025-12-04 21:27:36",
-        "sentiment_score": -0.01684930920600891
-    },
-    {
-        "title": "“Vidas restauradas”, el documental que expone encuentros entre víctimas de accidentes de tráfico y sus infractores",
-        "image_url": "https://static.eldiario.es/clip/351599ab-4113-45b3-9fbb-fddca3d3daeb_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "periodismo independiente",
-            "noticias",
-            "actualidad",
-            "política",
-            "barcelona",
-            "economía",
-            "ignacio escolar",
-            "cataluña"
-        ],
-        "link": "https://www.eldiario.es/catalunya/vidas-restauradas-documental-expone-encuentros-victimas-accidentes-trafico-infractores_1_12817545.html",
-        "date": "2025-12-04 21:20:58",
-        "sentiment_score": -0.24660806357860565
-    },
-    {
-        "title": "Ratifican la condena por abuso sexual al ex céltico Hugo Mallo",
-        "image_url": "https://static.laregion.es/clip/9028bb3e-cf87-40f4-a7cc-dc00508344a1_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "abuso sexual"
-        ],
-        "link": "https://www.atlantico.net/celtismo/ratifican-condena-abuso-sexual-ex_1_20251204-4082874.html",
-        "date": "2025-12-04 21:19:30",
-        "sentiment_score": -0.5788055583834648
-    },
-    {
-        "title": "Que la vida siga igual en Miribilla",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/12/04/1-151145380-kur--758x531@El%20Correo.jpg",
-        "tags": [
-            "siga",
-            "miribilla",
-            "vida",
-            "igual"
-        ],
-        "link": "https://www.elcorreo.com/bilbaobasket/vida-siga-igual-miribilla-20251204221729-nt.html",
-        "date": "2025-12-04 21:17:30",
-        "sentiment_score": -0.09137873351573944
-    },
-    {
-        "title": "10-19. El CNB golea al Dinamo Bucarest y se jugará el liderato en la Eurocup con el Szolnoki",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/11/13/6916605cca475.r_d.810-540.jpeg",
-        "tags": [
-            "waterpolo"
-        ],
-        "link": "https://www.mundodeportivo.com/waterpolo/20251204/1002581291/10-19-cnb-golea-dinamo-bucarest-jugara-liderato-eurocup-szolnoki.html",
-        "date": "2025-12-04 21:16:59",
-        "sentiment_score": 0.8470868282020092
-    },
-    {
-        "title": "Seis CCAA crecen más que España desde la Covid-19 con Madrid a la cabeza",
-        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043162_260322927_1706x960.jpg",
-        "tags": [
-            "madrid",
-            "covid-19",
-            "macroeconomía"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20251205/ccaa-crecen-espana-covid-19-madrid-cabeza/1003744043154_0.html",
-        "date": "2025-12-05 01:20:41",
-        "sentiment_score": 0.07742875814437866
-    },
-    {
-        "title": "Lamine Yamal superó a Kylian Mbappé como el jugador más valioso del mundo, según Transfermarkt",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Lamine-Yamal-Kylian-Mbappe.jpg",
-        "tags": [
-            "lamine yamal",
-            "titulares",
-            "futbol",
-            "deportes",
-            "kylian mbappé",
-            "transfermarkt"
-        ],
-        "link": "https://lapatilla.com/2025/12/04/lamine-yamal-supero-a-kylian-mbappe-como-el-jugador-mas-valioso-del-mundo-segun-transfermarkt/",
-        "date": "2025-12-05 01:18:55",
-        "sentiment_score": 0.21292049251496792
-    },
-    {
-        "title": "“Una semana sin videojuegos”: la embarazosa revelación en vivo del hijo de uno de los campeones de la Libertadores con Flamengo",
-        "image_url": "https://www.infobae.com/resizer/v2/4SJKTCPQXJGGTKRGG427KPKC2A.jpg?auth=5d202c35a29d5d02b91d0abd1d32910b418763e10494095dff6aeedc62d865dc&height=1080&smart=true&width=1920",
-        "tags": [
-            "danilo",
-            "deportes-internacional",
-            "fluminense",
-            "deportes-argentina",
-            "brasileirao",
-            "copa libertadores",
-            "flamengo"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/05/una-semana-sin-videojuegos-la-embarazosa-revelacion-en-vivo-del-hijo-de-uno-de-los-campeones-de-la-libertadores-con-flamengo/",
-        "date": "2025-12-05 01:04:13",
-        "sentiment_score": 0.06310306489467621
-    },
-    {
-        "title": "Es cero turístico, pero los hermanos Casanova han abierto su cadena de hamburguesas en un pueblo de 580 personas",
-        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744042990_260323490_1706x960.jpg",
-        "tags": [
-            "hamburguesa",
-            "hamburguesas",
-            "ocio",
-            "restaurantes"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20251205/cero-turistico-hermanos-casanova-abierto-cadena-hamburguesas-pueblo-personas/1003744042809_0.html",
-        "date": "2025-12-05 01:00:00",
-        "sentiment_score": 0.2200358361005783
-    },
-    {
-        "title": "Claudio Giráldez: «Hemos sufrido más de lo esperado»",
-        "image_url": "https://cflvdg.avoz.es/sc/TomeXsDE7EzaTjV4P67epXcHDNg=/768x/2025/12/04/00121764885301675378633/Foto/v_20251204_225149002.jpg",
-        "tags": [
-            "claudio giráldez",
-            "grada de río",
-            "celta"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/gradario/2025/12/05/claudio-giraldez-hemos-sufrido-esperado/00031764896287106498556.htm",
-        "date": "2025-12-05 00:59:00",
-        "sentiment_score": 0.17908143997192383
-    },
-    {
-        "title": "04 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/04-dic-2025-partidazo-cope-20251205_3265882.html",
-        "date": "2025-12-05 00:41:02",
-        "sentiment_score": -0.2694171369075775
-    },
-    {
-        "title": "El Real Zaragoza se vuelve a quedar fuera de los dieciseisavos de final de la Copa",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/589e6336-09d3-4e1c-9424-4a972d49f5ef_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "real zaragoza"
-        ],
-        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2025/12/05/real-zaragoza-vuelve-quedar-fuera-124469297.html",
-        "date": "2025-12-05 00:19:23",
-        "sentiment_score": -0.06607964634895325
-    },
-    {
-        "title": "Doble salida para el Fundación en solo 24 horas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/018b4f7c-7b80-48b8-9faa-127f9c712372_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "santiago",
-            "manresa",
-            "verano",
-            "fundación"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/05/doble-salida-fundacion-24-horas-124468338.html",
-        "date": "2025-12-05 00:00:38",
-        "sentiment_score": 0.06004491448402405
-    },
-    {
-        "title": "Óscar Casas, protagonista de 'Me has robado el corazón': \"No tengo ni twitter, ni instagram ni tiktok en el móvil\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/39a622ef-1956-456f-b57c-be913e625853_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cine,películas,mario casas,estrenos de cine"
-        ],
-        "link": "https://www.laopiniondezamora.es/ocio/cine/2025/12/05/oscar-casas-protagonista-has-robado-124468473.html",
-        "date": "2025-12-04 23:42:27",
-        "sentiment_score": -0.1274089217185974
-    },
-    {
-        "title": "Otro cambio de opinión",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cambio",
-            "opinion"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/cambio-opinion_0_2005394052.html",
-        "date": "2025-12-05 02:06:18",
-        "sentiment_score": -0.20957106351852417
-    },
-    {
-        "title": "El Inter Miami de Messi buscará en Colombia un fichaje clave para 2026, ya hay oferta formal",
-        "image_url": "https://www.infobae.com/resizer/v2/WH53WSD6L5CGDBAXRV26AKTY4M.png?auth=c0590e1f9a509360c76383b14d7575a86e606007d3c3d8918cb39c4634f2ab86&height=770&smart=true&width=1200",
-        "tags": [
-            "fútbol colombiano",
-            "mls",
-            "inter de miami",
-            "lionel messi",
-            "colombia-deportes",
-            "kevin cataño"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/12/05/el-inter-miami-de-messi-buscara-en-colombia-un-fichaje-clave-para-2026-ya-hay-oferta-formal/",
-        "date": "2025-12-05 01:52:55",
-        "sentiment_score": -0.01656385511159897
-    },
-    {
-        "title": "Vuelve la censura: habrá que viajar a Perpiñán para ver Eurovisión",
-        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043549_260327955_1024x576.jpg",
-        "tags": [
-            "editoriales de opinión",
-            "eurovisión",
-            "israel",
-            "opinión",
-            "conflicto palestino-israelí",
-            "rtve (radiotelevisión española)",
-            "editoriales"
-        ],
-        "link": "https://www.elespanol.com/opinion/editoriales/20251205/vuelve-censura-viajar-perpinan-ver-eurovision/1003744043504_14.html",
-        "date": "2025-12-05 01:22:01",
-        "sentiment_score": -0.9083792064338923
-    },
-    {
-        "title": "María Corina Machado convoca marcha mundial por la paz y libertad en Venezuela",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/11/31144941/Maria-Corina-Machado-2.jpg",
-        "tags": [
-            "maría corina machado",
-            "marcha mundial",
-            "nobel de la paz",
-            "vente venezuela",
-            "política",
-            "venezuela"
-        ],
-        "link": "https://www.elnacional.com/2025/12/maria-corina-machado-convoca-marcha-mundial-por-la-paz-y-libertad-en-venezuela/",
-        "date": "2025-12-05 01:05:50",
-        "sentiment_score": 0.19538351893424988
-    },
-    {
-        "title": "La hazaña de Marta Arnabat: presentó su TFM premiado en Las Vegas y la contrataron antes de terminar Aeronáutica",
-        "image_url": "https://s3.elespanol.com/2025/12/04/madrid/1003744043129_260322537_1706x960.jpg",
-        "tags": [
-            "ingenieros",
-            "sociedad",
-            "sector aeronáutico",
-            "premios"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251205/hazana-marta-arnabat-presento-tfm-premiado-vegas-contrataron-terminar-aeronautica/1003744042197_0.html",
-        "date": "2025-12-05 01:00:00",
-        "sentiment_score": 0.5584334656596184
-    },
-    {
-        "title": "Nibo: una startup a los pies de los sanitarios",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/29/692b5a414aff2.r_d.1771-1179-1267.jpeg",
-        "tags": [
-            "emprendedores"
-        ],
-        "link": "https://www.lavanguardia.com/economia/emprendedores/20251205/11315854/startup-pies-sanitarios-nibo.html",
-        "date": "2025-12-05 01:00:00",
-        "sentiment_score": 0.5430364143103361
-    },
-    {
-        "title": "MCM invita a LOS venezolanos en el mundo marchar el sábado por «la paz y libertad»",
-        "image_url": "https://elperiodiquito.com/wp-content/uploads/2025/12/images-2.jpg",
-        "tags": [
-            "venezuela"
-        ],
-        "link": "https://elperiodiquito.com/venezuela/59530/mcm-invita-a-los-venezolanos-en-el-mundo-marchar-el-sabado-por-la-paz-y-libertad/",
-        "date": "2025-12-05 00:50:20",
-        "sentiment_score": 0.4688452258706093
-    },
-    {
-        "title": "Aitana actualiza su patrimonio empresarial: las dos entidades en las que estrena cargo de sus cinco millonarias sociedades",
-        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744042401_260313062_1706x960.jpg",
-        "tags": [
-            "famosos",
-            "negocios",
-            "patrimonio personal",
-            "aitana ocaña",
-            "empresas"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251205/aitana-actualiza-patrimonio-empresarial-entidades-estrena-cargo-millonarias-sociedades/1003744042326_0.html",
-        "date": "2025-12-05 00:33:00",
-        "sentiment_score": 0.6846530400216579
-    },
-    {
-        "title": "Realizan foro sindical en Barcelona para reiterar la solicitud de un bono navideño de $400",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "locales",
-            "otras"
-        ],
-        "link": "https://eltiempove.com/realizan-foro-sindical-en-barcelona-para-reiterar-la-solicitud-de-un-bono-navideno-de-400/",
-        "date": "2025-12-04 23:59:27",
-        "sentiment_score": 0.3031225651502609
-    },
-    {
         "title": "Entrevista a Juan Carlos I con preguntas falsas y repuestas reales: \"Los comunistas no eran la encarnación del diablo\"",
         "image_url": "https://www.elplural.com/uploads/s1/21/14/92/6/juan-carlos-y-sofi-a-el-di-a-de-su-proclamacio-n-como-rey_7_480x270.jpeg",
         "tags": [
@@ -3089,5 +2611,163 @@ export default [
         "link": "https://www.economistjurist.es/actualidad-juridica/actualidad-de-los-despachos/alonso-y-morote-apuestan-por-el-crecimiento-de-andersen-en-barcelona/",
         "date": "2025-12-08 06:00:17",
         "sentiment_score": 0.5768054090440273
+    },
+    {
+        "title": "Reunir aliados y expandir presencia, la nueva estrategia de seguridad de Donald Trump para América Latina",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Screenshot_7.jpg",
+        "tags": [
+            "donald trump",
+            "estrategia de seguridad",
+            "destacados",
+            "usa",
+            "nacionales",
+            "internacionales"
+        ],
+        "link": "https://lapatilla.com/2025/12/08/reunir-aliados-y-expandir-presencia-la-nueva-estrategia-de-seguridad-de-donald-trump-para-america-latina/",
+        "date": "2025-12-08 10:59:42",
+        "sentiment_score": -0.03160858154296875
+    },
+    {
+        "title": "17:00H | 08 DIC 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-08-dic-2025-tarde-20251208_3267199.html",
+        "date": "2025-12-08 17:09:00",
+        "sentiment_score": -0.10565349459648132
+    },
+    {
+        "title": "Una fiesta entre las ruinas de Siria",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/08/siria-1-kKvE-U240490592234iUC-1200x840@RC.jpg",
+        "tags": [
+            "fiesta",
+            "siria",
+            "ruinas"
+        ],
+        "link": "https://www.eldiariomontanes.es/internacional/oriente-proximo/fiesta-ruinas-siria-primer-aniversario-sin-assad-20251208175643-ntrc.html",
+        "date": "2025-12-08 17:00:19",
+        "sentiment_score": -0.28990888595581055
+    },
+    {
+        "title": "Los niños de San Ildefonso, felices por participar en el sorteo: «Mola mucho, cantar es bonito”",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/EuropaPress_7143147_ninas_ninos_san_ildefonso_preparan_sorteo_extraordinario_navidad_2025-1095x730.jpg",
+        "tags": [
+            "lotería",
+            "sorteo extraordinario de lotería de navidad",
+            "estilo de vida"
+        ],
+        "link": "https://www.lanzadigital.com/estilo-de-vida/los-ninos-de-san-ildefonso-felices-por-participar-en-el-sorteo-mola-mucho-cantar-es-bonito/",
+        "date": "2025-12-08 16:55:39",
+        "sentiment_score": -0.005654186010360718
+    },
+    {
+        "title": "El mensaje del Sant Andreu tras la última derrota del Real Madrid: \"Competir contra el Celta no está al alcance de todos\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/08/6936ff16cbd37.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mensaje-sant-andreu-ultima-derrota-real-madrid-competir-celta-alcance-todos-20251208_3267192.html",
+        "date": "2025-12-08 16:48:22",
+        "sentiment_score": -0.03433004021644592
+    },
+    {
+        "title": "Alerta roja en el Madrid antes del City: cuatro meses para Militao, sin Camavinga y Huijsen, y Mbappé tocado",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/08/6936f422cac0e7-15146023.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/alerta-roja-madrid-antes-city-cuatro-meses-para-militao-sin-camavinga-huijsen-con-mbappe-tocado_6907910_0.html",
+        "date": "2025-12-08 16:46:01",
+        "sentiment_score": -0.865144670009613
+    },
+    {
+        "title": "Barça, Real Madrid, Atlético y Athletic empiezan su andadura en Copa en el sorteo de dieciseisavos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251208174420_120.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-real-madrid-atletico-athletic-empiezan-andadura-copa-sorteo-dieciseisavos-20251208174420.html",
+        "date": "2025-12-08 16:44:20",
+        "sentiment_score": 0.055232297629117966
+    },
+    {
+        "title": "¡Segundo llamado! España convoca a este prospecto venezolano",
+        "image_url": "https://pxcdn.meridiano.net/122025/1765211059368/Captura%20de%20pantalla%202025-12-08%20122352.png?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/segundo-llamado-espana-convoca-a-este-prospecto-venezolano-202512812340",
+        "date": "2025-12-08 16:34:00",
+        "sentiment_score": -0.42529696226119995
+    },
+    {
+        "title": "El FC Barcelona busca trasladar a Europa su mejoría liguera",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9ad708ba-15c8-4ee4-9586-3245fe2f0a04_16-9-aspect-ratio_default_0_x1727y1039.jpg",
+        "tags": [
+            "busca",
+            "europa",
+            "barca",
+            "trasladar",
+            "mejoria"
+        ],
+        "link": "https://www.noticiasdenavarra.com/futbol/2025/12/08/barca-busca-trasladar-europa-mejoria-10446807.html",
+        "date": "2025-12-08 16:33:46",
+        "sentiment_score": 0.7061183415353298
+    },
+    {
+        "title": "Ribas de Sil homenajeó a Javier Rodríguez Sotuela, el sacerdote que plantó cara al franquismo en El Bierzo",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/12/08/2025120818035262871.jpg",
+        "tags": [
+            "ribeira sacra"
+        ],
+        "link": "https://www.elprogreso.es/articulo/ribeira-sacra/ribas-sil-homenajea-javier-rodriguez-situela-sacerdote-que-planto-cara-franquismo-cuenca-minera-berciana/202512081810001930072.html",
+        "date": "2025-12-08 17:10:00",
+        "sentiment_score": -0.46953627839684486
+    },
+    {
+        "title": "Escapada gastro a Zamora en diciembre: sabores, vinos y paseos con mucho encanto",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/08/2025120818042810184.jpg",
+        "tags": [
+            "comerybeber"
+        ],
+        "link": "https://www.mundiario.com/articulo/comerybeber/escapada-gastro-zamora-diciembre-sabores-vinos-paseos-mucho-encanto/20251208180543366254.html",
+        "date": "2025-12-08 17:05:43",
+        "sentiment_score": 0.6374027896672487
+    },
+    {
+        "title": "12 Km de retención en la C-16 en La Nou de Berguedà por la operación retorno del puente de la Puríssima",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/08/6936d54d92624.r_d.384-228-5719.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.lavanguardia.com/local/catalunya/20251208/11342579/12-km-retencion-c-16-nou-bergueda-operacion-retorno-puente-purissima.html",
+        "date": "2025-12-08 16:59:14",
+        "sentiment_score": -0.7031236067414284
+    },
+    {
+        "title": "El Barça se planta con una joya de la Masía: no habrá 'caso Éric García' 2.0",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/06/culemania/primer-equipo/1003742704824_15368468_1706x960.jpg",
+        "tags": [
+            "barça",
+            "marc bernal",
+            "primer equipo",
+            "la masía"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251208/barca-planta-joya-masia-caso-eric-garcia/1003742714350_0.html",
+        "date": "2025-12-08 16:55:47",
+        "sentiment_score": -0.005438610911369324
+    },
+    {
+        "title": "Israel asalta la sede de la agencia de la ONU para los refugiados palestinos en Jerusalén Este",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/08/6936f8d861d31.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20251208/11342529/israel-asalta-sede-agencia-onu-refugiados-palestinos-jerusalen.html",
+        "date": "2025-12-08 16:49:23",
+        "sentiment_score": -0.8266942035406828
     }
 ];
