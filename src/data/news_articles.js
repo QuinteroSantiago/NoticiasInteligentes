@@ -1,170 +1,5 @@
 export default [
     {
-        "title": "Simoneta, la prima más discreta y solidaria del rey que vive entre lujo y artesanía en Madrid",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/simoneta-gomez-acebo-vida.jpeg",
-        "tags": [
-            "celebrities",
-            "rey felipe vi",
-            "familia real española",
-            "gente"
-        ],
-        "link": "https://theobjective.com/gente/2025-12-06/simoneta-prima-discreta-solidaria-rey-madrid/",
-        "date": "2025-12-06 06:30:00",
-        "sentiment_score": -0.37129591405391693
-    },
-    {
-        "title": "Segovia cambia su fisonomía en su cuarenta aniversario como Ciudad Patrimonio",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/04-1w.jpg",
-        "tags": [
-            "patrimonio",
-            "segovia",
-            "portada principal"
-        ],
-        "link": "https://eladelantado.com/segovia-cambia-su-fisonomia-en-su-cuarenta-aniversario-como-ciudad-patrimonio/",
-        "date": "2025-12-06 06:08:02",
-        "sentiment_score": 0.2577167972922325
-    },
-    {
-        "title": "“El problema en Cádiz no es el turismo, es la falta de vivienda disponible y accesible”",
-        "image_url": "https://static.grupojoly.com/clip/df49698b-21ef-4467-b403-e1143ab412c3_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias cádiz"
-        ],
-        "link": "https://www.diariodecadiz.es/noticias-provincia-cadiz/problema-cadiz-no-turismo-falta-vivienda-disponible-accesible_0_2005391987.html",
-        "date": "2025-12-06 06:00:32",
-        "sentiment_score": -0.9040005262941122
-    },
-    {
-        "title": "El Alavés, ante la opción de dar un salto clasificatorio en el derbi",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/30cb3587-ed17-454c-b19c-2640d6aefe05_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "clasificatorio",
-            "derbi",
-            "dar",
-            "alavés",
-            "opcion",
-            "previa",
-            "salto",
-            "coudet",
-            "real sociedad"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2025/12/06/opcion-dar-salto-clasificatorio-derbi-alaves-real-sociedad-previa-coudet-derbi-10439947.html",
-        "date": "2025-12-06 06:00:23",
-        "sentiment_score": 0.04307425022125244
-    },
-    {
-        "title": "Betis - Barcelona: Horario, alineaciones y dónde ver el partido de LaLiga EA Sports, en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/05/51CD88D6-5B0D-454E-BCC4-95FF3F772DB9/raphinha-celebra-gol-barcelona_98.jpg?crop=3166%2C1781%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "deportes",
-            "antena 3 noticias",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/betis-barcelona-horario-alineaciones-donde-ver-partido-laliga-sports-directo_202512066933c6776e5e5012dcdc84c5.html",
-        "date": "2025-12-06 06:00:23",
-        "sentiment_score": 0.019840752705931664
-    },
-    {
-        "title": "El Espanyol – Rayo será un duelo de nervios tras el batacazo copero",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/12/entrenamiento-espanyol-rcde-stadium-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/espanyol-rayo-eliminacion-copa-atletico-baleares/",
-        "date": "2025-12-06 06:00:16",
-        "sentiment_score": -0.8098300136625767
-    },
-    {
-        "title": "Empieza el mes de la Navidad: los mejores planes para celebrar las época más bonita del año sola, con amigas o en pareja",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/03/693054c7a267a3-64688764.jpeg",
-        "tags": [
-            "estar bien"
-        ],
-        "link": "https://www.20minutos.es/mujer/estar-bien/empieza-mes-navidad-mejores-planes-celebrar-epoca-bonita-ano-sola-amigas-pareja_6907109_0.html",
-        "date": "2025-12-06 06:00:00",
-        "sentiment_score": 0.796212449669838
-    },
-    {
-        "title": "El árbitro del Espanyol – Rayo: Sánchez Martínez, un auténtico “gafe” para los vallecanos, pitará el Espanyol – Rayo con Melero López en la sala VOR",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/11/arbitro-partido-logo-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/arbitro-espanyol-rayo-sanchez-martinez-liga-25-26-jornada-15/",
-        "date": "2025-12-06 05:57:37",
-        "sentiment_score": 0.4046759605407715
-    },
-    {
-        "title": "Sonia Moreno: \"Marruecos lo sabe todo de nosotros, siempre los hemos subestimado\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/04/la-periodista-asturiana-sonia-moreno-autora-de-marruecos-el-vecino-incomodo-en-una-imagen-promocional.jpeg",
-        "tags": [
-            "global"
-        ],
-        "link": "https://www.huffingtonpost.es/global/sonia-moreno-marruecos-lo-sabe-todo-de-nosotros-siempre-los-hemos-subestimado.html",
-        "date": "2025-12-06 05:51:27",
-        "sentiment_score": -0.3449540138244629
-    },
-    {
-        "title": "Resultados y clasificación de la Jornada 15 de LaLiga EA Sports 25-26 | Oviedo y Mallorca firman un 0-0 con sabor a frustración: dominio carbayón, Aarón decisivo y final loco con rojas a Viñas y Cazorla.",
-        "image_url": "https://www.lagradaonline.com/wp-content/uploads/2025/12/laliga-ea-sports-25-26-jornada-15-lunes-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://www.lagradaonline.com/laliga-jornada-15-resultados-clasificacion-partidos-espanyol-rayo-viernes/",
-        "date": "2025-12-06 05:49:51",
-        "sentiment_score": -0.3231518566608429
-    },
-    {
-        "title": "Sergio Gutiérrez, asesor inmobiliario, se pronuncia sobre el retraso de Verifactu: \"No me la vuelven a colar\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/959d68b6-2d11-4f85-8fd8-5112cac52e37_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "hacienda",
-            "pymes",
-            "trabajadores autónomos"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20251206/sergio-gutierrez-asesor-inmobiliario-retraso-verifactu-dv-124480012",
-        "date": "2025-12-06 06:20:26",
-        "sentiment_score": -0.3547810763120651
-    },
-    {
-        "title": "Peste porcina africana en Catalunya, en directo Última hora de los casos, jabalís muertos y localidades afectadas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6bdc966d-77d7-4319-a2d9-38f5c5211624_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "peste porcina",
-            "animales"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20251206/peste-porcina-cataluna-ultima-hora-directo-124511658",
-        "date": "2025-12-06 06:02:00",
-        "sentiment_score": -0.9340293286368251
-    },
-    {
-        "title": "Extremadura pone coto a la peste porcina: síntomas, transmisión y mortalidad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c3a62c5b-059c-4ac6-b06b-a6869d58430a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cerdos",
-            "jabalíes",
-            "sanidad animal",
-            "peste porcina"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/06/extremadura-porcina-peste-sanidad-animal-jabali-cerdos-124511513.html",
-        "date": "2025-12-06 06:00:51",
-        "sentiment_score": -0.7637721877545118
-    },
-    {
-        "title": "Casa Mas y La Marató comparten mesa, sabor y compromiso",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/599f6435-eaa5-41d0-8425-9ddb6bfca8a4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "investigación",
-            "cáncer",
-            "solidaridad",
-            "recetas",
-            "innovación"
-        ],
-        "link": "https://www.lacronicabadajoz.com/economia/activos/2025/12/06/casa-marato-comparten-mesa-sabor-124511483.html",
-        "date": "2025-12-06 06:00:46",
-        "sentiment_score": 0.584743058308959
-    },
-    {
         "title": "La actividad física emerge como una herramienta \"clave\" en prevención, tratamiento y abordaje de enfermedades",
         "image_url": "https://www.infobae.com/resizer/v2/SUAXVW2SVJBZJBXQCNQP5FYFG4.jpg?auth=6198332b2b72bed63cca7261354ed9ee14f59a197d0db5fb1ce67288c2118092&height=1231&smart=true&width=1920",
         "tags": [
@@ -2687,5 +2522,231 @@ export default [
         "link": "https://www.elplural.com/autonomias/cataluna/govern-cataluna-aprueba-estrategia-captar-6000-millones-euros-inversion-extranjera-proximos-cinco-anos_367050102",
         "date": "2025-12-09 17:05:28",
         "sentiment_score": -0.01620122790336609
+    },
+    {
+        "title": "Así queda la clasificación de la Champions League tras los partidos de Barcelona y Atlético",
+        "image_url": "https://okdiario.com/img/2025/12/09/befunky-collage-.jpg",
+        "tags": [
+            "fc barcelona",
+            "atlético de madrid",
+            "champions league",
+            "deportes",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/asi-queda-clasificacion-champions-league-partidos-barcelona-atletico-15907149",
+        "date": "2025-12-09 22:19:14",
+        "sentiment_score": 0.30515138804912567
+    },
+    {
+        "title": "Vicente Boluda Fos recibe el premio ‘Marino del Año 2025’ de Nautik Magazine",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/12/AperturaNautikMarino-del-ano-1200x675.jpg",
+        "tags": [
+            "actualidad",
+            "óscar puente",
+            "vicente boluda",
+            "nautik magazine",
+            "forbes house"
+        ],
+        "link": "https://forbes.es/nautik/842390/vicente-boluda-fos-recibe-el-premio-marino-del-ano-2025-de-nautik-magazine/",
+        "date": "2025-12-09 22:12:58",
+        "sentiment_score": -0.13270890712738037
+    },
+    {
+        "title": "El Atlético vence en Eindhoven y aspira a acabar en el 'top 8'",
+        "image_url": "https://static.grupojoly.com/clip/986b6c78-2bf0-468c-a1a7-7bf8f5acc047_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "atletico",
+            "vence",
+            "eindhoven",
+            "acabar",
+            "aspira"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/atletico-vence-eindhoven-aspira-acabar_0_2005420711.html",
+        "date": "2025-12-09 22:06:09",
+        "sentiment_score": -0.2536148875951767
+    },
+    {
+        "title": "Clasificación: El Atleti se cuela en el TOP-8 y el Barça mantiene vivas sus esperanzas",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1250x321:1252x319)/origin-imgresizer.eurosport.com/2025/12/09/image-148a791b-2df8-4ae5-b3d0-e5f767f84946-85-2560-1440.jpeg",
+        "tags": [
+            "champions league 2025-2026",
+            "football"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/clasificacion-fase-liga-diferencias-real-madrid-barcelona-atletico-madrid-athletic-bilbao-villarreal_sto23222399/story.shtml",
+        "date": "2025-12-09 22:04:23",
+        "sentiment_score": -0.004638172686100006
+    },
+    {
+        "title": "El Barça de las remontadas somete, por fin, al engorroso Eintracht de Frankfurt: goleador inesperado",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/09/culemania/primer-equipo/1003742714755_15496154_1706x960.jpg",
+        "tags": [
+            "hansi flick",
+            "champions league",
+            "barça",
+            "jules koundé",
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251209/barca-remontadas-engorroso-eintracht-frankfurt-goleador-inesperado/1003742714752_0.html",
+        "date": "2025-12-09 22:00:20",
+        "sentiment_score": 0.6278953552246094
+    },
+    {
+        "title": "Qué esperar de los próximos derbis y clásicos que definirán la tabla de La Liga",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/12/09/2025120914254759967.jpg",
+        "tags": [
+            "comunicados"
+        ],
+        "link": "https://www.clm24.es/articulo/comunicados/que-esperar-proximos-derbis-clasicos-que-definiran-tabla-liga/20251209225405465893.html",
+        "date": "2025-12-09 21:54:05",
+        "sentiment_score": 0.8998807333409786
+    },
+    {
+        "title": "Este es el mensaje que envío Sergio Ramos a la afición de Rayados tras su salida del club",
+        "image_url": "https://www.infobae.com/resizer/v2/QSYL6HQBGJGSBEB6W7HR3Y4ERQ.JPG?auth=a44a3b53b0e5dab0f22772517d2a4ccda485231968ac3cabb3ea9b1e18676b5d&height=3440&smart=true&width=4806",
+        "tags": [
+            "rayados de monterrey",
+            "mexico-deportes",
+            "liga mx",
+            "rayados",
+            "sergio ramos",
+            "semifinales",
+            "toluca",
+            "monterrey",
+            "futbol"
+        ],
+        "link": "https://www.infobae.com/mexico/deportes/2025/12/09/este-es-el-mensaje-que-envio-sergio-ramos-a-la-aficion-de-rayados-tras-su-salida-del-club/",
+        "date": "2025-12-09 21:50:00",
+        "sentiment_score": 0.8582842480391264
+    },
+    {
+        "title": "Sergio Ramos se despide del Monterrey de México tras una etapa de un año",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "sergio ramos monterrey liga mx",
+            "deportes",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/sergio-ramos-monterrey-liga-mx-70c0ba0711572045b3dab6eebfd7bbb2",
+        "date": "2025-12-09 21:23:49",
+        "sentiment_score": -0.5274638533592224
+    },
+    {
+        "title": "Sergio Ramos se despide del Monterrey de México tras una etapa de un año",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2025/12/09/sergio-ramos-se-despide-del-monterrey-de-mxico-tras-una-etapa-de-un-ao/",
+        "date": "2025-12-09 21:23:48",
+        "sentiment_score": 0.12761224806308746
+    },
+    {
+        "title": "Comenzó la Messi Cup, el torneo que reúne a jóvenes talentos en Miami: la euforia de los chicos de River y Newell’s al verlo a Lionel",
+        "image_url": "https://www.infobae.com/resizer/v2/HW5BDUR4ZVHRTBZDNPRBQVDKLY.gif?auth=0d6e1f07f0be9e956baaf8cfcb7cfd230854b827c6f5a4c3c103d7d21adb09d1&height=1079&smart=true&width=1920",
+        "tags": [
+            "inter de milán",
+            "messi cup",
+            "lionel messi",
+            "newell's",
+            "river plate",
+            "inter miami",
+            "atlético de madrid",
+            "fc barcelona"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/09/comenzo-la-messi-cup-el-torneo-que-reune-a-jovenes-talentos-en-miami-la-euforia-de-los-chicos-de-river-y-newells-al-verlo-a-lionel/",
+        "date": "2025-12-09 22:20:33",
+        "sentiment_score": 0.16709090769290924
+    },
+    {
+        "title": "Atlético de Madrid logró victoria clave contra PSV Eindhoven para acercarse al top 8 de Champions",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/a9f3b35f90a057ed272decd8745fc12ceee68a62w.jpg",
+        "tags": [
+            "remontada",
+            "champions league",
+            "atletico de madrid",
+            "victoria",
+            "titulares",
+            "deportes"
+        ],
+        "link": "https://lapatilla.com/2025/12/09/atletico-de-madrid-logro-victoria-clave-contra-psv-eindhoven-para-acercarse-al-top-8-de-champions/",
+        "date": "2025-12-09 22:18:39",
+        "sentiment_score": 0.6265570372343063
+    },
+    {
+        "title": "Las fotos del Barcelona-Eintracht Frankfurt",
+        "image_url": "https://static.grupojoly.com/clip/73e398d1-a321-4e80-9b73-d1a4f7dfc900_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "eintracht",
+            "barcelona",
+            "fotos",
+            "frankfurt"
+        ],
+        "link": "https://www.diariodealmeria.es/deportes/fotos-barcelona-eintracht-frankfurt_3_2005421447.html",
+        "date": "2025-12-09 22:13:20",
+        "sentiment_score": 0.2704242989420891
+    },
+    {
+        "title": "Las claves de un referéndum que puede convertir a Recep Tayyip Erdogan en el nuevo sultán de Turquía",
+        "image_url": "https://www.infobae.com/resizer/v2/https:%2F%2Fs3.amazonaws.com%2Farc-wordpress-client-uploads%2Finfobae-wp%2Fwp-content%2Fuploads%2F2017%2F04%2F14190935%2FTurkey-Referendum-erdogan-1920.jpg?auth=d6818f281422d6294b5ed335b36fe3d44706bb0ebf25547d25bd97eb57d8a692&height=1079&smart=true&width=1920",
+        "tags": [
+            "recep tayyip erdogan"
+        ],
+        "link": "https://www.infobae.com/america/mundo/2017/04/16/las-claves-de-un-referendum-que-puede-convertir-a-recep-tayyip-erdogan-en-el-nuevo-sultan-de-turquia/",
+        "date": "2025-12-09 22:13:14",
+        "sentiment_score": 0.048498257994651794
+    },
+    {
+        "title": "Koundé desatasca al Barça",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/09/jules-kounde-kv9E-U240502296677z8B-1200x840@RC.JPG",
+        "tags": [
+            "champions league",
+            "f.c. barcelona"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/kounde-desatasca-barca-20251209231241-ntrc.html",
+        "date": "2025-12-09 22:12:43",
+        "sentiment_score": -0.2764609456062317
+    },
+    {
+        "title": "Malas noticias para el Barça: Lamine Yamal se pierde por sanción el importante duelo en Praga en enero",
+        "image_url": "https://okdiario.com/img/2025/12/09/imagen_recortada-4-2.jpg",
+        "tags": [
+            "barcelona",
+            "fc barcelona",
+            "deportes",
+            "lamine yamal"
+        ],
+        "link": "https://okdiario.com/deportes/malas-noticias-barca-lamine-yamal-pierde-sancion-importante-duelo-praga-enero-15907334",
+        "date": "2025-12-09 22:09:59",
+        "sentiment_score": -0.9149322295561433
+    },
+    {
+        "title": "El Barcelona rescató una victoria en Champions ante el Eintracht con la persona menos esperada",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/fc-barcelona-vs-eitracht-francfort.jpg",
+        "tags": [
+            "titulares",
+            "deportes",
+            "futbol",
+            "eintracht fráncfort",
+            "fc barcelona",
+            "champions league"
+        ],
+        "link": "https://lapatilla.com/2025/12/09/el-barcelona-rescato-una-victoria-en-champions-ante-el-eintracht-con-la-persona-menos-esperada/",
+        "date": "2025-12-09 22:09:09",
+        "sentiment_score": 0.515195332467556
+    },
+    {
+        "title": "La élite nacional del aperitivo se da cita este miércoles en Avilés",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/12/09/campeonato-mejor-aperitivo-nacional-aviles-RgXKpL4qMUF8ABtY3xSUcNP-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "cita",
+            "elite",
+            "aperitivo",
+            "miercoles",
+            "aviles",
+            "nacional"
+        ],
+        "link": "https://www.elcomercio.es/planes/elite-nacional-aperitivo-cita-miercoles-aviles-20251209191200-nt.html",
+        "date": "2025-12-09 22:07:15",
+        "sentiment_score": 0.10174739360809326
     }
 ];
