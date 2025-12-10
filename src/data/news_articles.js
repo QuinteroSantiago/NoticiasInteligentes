@@ -232,16 +232,6 @@ export default [
         "sentiment_score": -0.27515849471092224
     },
     {
-        "title": "Emily Galaviz revela sus retoques estéticos y confiesa sobre sus luchas personales",
-        "image_url": "https://static.wixstatic.com/media/cf263a_7411a01a05654d459646fb308c530075~mv2.png/v1/fit/w_905,h_539,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/emily-galaviz-revela-sus-retoques-est%C3%A9ticos-y-confiesa-sobre-sus-luchas-personales",
-        "date": "2025-12-06 14:00:20",
-        "sentiment_score": -0.3515612781047821
-    },
-    {
         "title": "Un misil de Berenguer descuelga al Atlético",
         "image_url": "https://www.latribunadetoledo.es/media/img/2025/0f5da37d-6024-4d2f-84e62b02a4f12711.jpg",
         "tags": [
@@ -2748,5 +2738,158 @@ export default [
         "link": "https://www.elcomercio.es/planes/elite-nacional-aperitivo-cita-miercoles-aviles-20251209191200-nt.html",
         "date": "2025-12-09 22:07:15",
         "sentiment_score": 0.10174739360809326
+    },
+    {
+        "title": "La ciudad menos franquista",
+        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "franquista",
+            "ciudad"
+        ],
+        "link": "https://www.diariodecadiz.es/opinion/articulos/ciudad-franquista_0_2005424228.html",
+        "date": "2025-12-10 02:04:43",
+        "sentiment_score": -0.4497866854071617
+    },
+    {
+        "title": "El 'match-ball' de Xabi ante uno de sus maestros: el banquillo del Real Madrid se decide en la batalla táctica contra Guardiola",
+        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744048733_260395599_1706x960.jpg",
+        "tags": [
+            "xabi alonso",
+            "real madrid cf",
+            "fútbol",
+            "manchester city",
+            "champions league"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251210/match-ball-xabi-maestros-banquillo-real-madrid-decide-batalla-tactica-guardiola/1003744047963_0.html",
+        "date": "2025-12-10 01:50:50",
+        "sentiment_score": 0.28907153010368347
+    },
+    {
+        "title": "El doctor murciano Damián García, quiso “curar con las manos” y acabó cambiando la forma de tratar el cáncer",
+        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744047345_260377094_1706x960.jpg",
+        "tags": [
+            "premios",
+            "universidad",
+            "adn",
+            "cáncer",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251210/doctor-murciano-damian-garcia-quiso-curar-manos-acabo-cambiando-forma-tratar-cancer/1003744047262_0.html",
+        "date": "2025-12-10 01:50:10",
+        "sentiment_score": 0.7679173238575459
+    },
+    {
+        "title": "Del enorme elogio a Julián Álvarez al tenso cruce con un periodista: 7 frases del Cholo Simeone tras el triunfo del Atlético de Madrid",
+        "image_url": "https://www.infobae.com/resizer/v2/F5CWONPLZVHFZKPNWP7KUBEWOY.JPG?auth=f3e948c15edc6151663baee742aac592324061f23d0c8a6cfaced8076c64cd5d&height=1013&smart=true&width=1533",
+        "tags": [
+            "atlético de madrid",
+            "diego simeone",
+            "champions league",
+            "deportes-internacional",
+            "julián álvarez",
+            "psv",
+            "fútbol europeo"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/10/del-enorme-elogio-a-julian-alvarez-al-tenso-cruce-con-un-periodista-7-frases-del-cholo-simeone-tras-el-triunfo-del-atletico-de-madrid/",
+        "date": "2025-12-10 01:47:28",
+        "sentiment_score": 0.7130391113460064
+    },
+    {
+        "title": "Caicedo ayuda al Madrid a vencer al Wolfsburgo en la Champions femenina, y Arsenal y Juventus ganan",
+        "image_url": "https://dims.apnews.com/dims4/default/4b46c21/2147483647/strip/true/crop/3500x2330+0+47/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F57%2Ffd40f5822d937386f4f4b180036a%2Fe44205d6d9bc482d9b4106a7cf6d3938",
+        "tags": [
+            "sports",
+            "liga campeones champjons femenina real madrid arsenal juventus",
+            "deportes"
+        ],
+        "link": "https://apnews.com/article/liga-campeones-champjons-femenina-real-madrid-arsenal-juventus-5edd79429df420aeed486c158fc95977",
+        "date": "2025-12-10 00:48:13",
+        "sentiment_score": 0.47485949844121933
+    },
+    {
+        "title": "Caicedo ayuda al Madrid a vencer al Wolfsburgo en la Champions femenina, y Arsenal y Juventus ganan",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/12/CAMPEONES-MUJERES_69544.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2025/12/09/caicedo-ayuda-al-madrid-a-vencer-al-wolfsburgo-en-la-champions-femenina-y-arsenal-y-juventus-ganan/",
+        "date": "2025-12-10 00:48:13",
+        "sentiment_score": 0.3759406805038452
+    },
+    {
+        "title": "09 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/09-dic-2025-partidazo-cope-20251210_3268099.html",
+        "date": "2025-12-10 00:37:08",
+        "sentiment_score": 0.214377261698246
+    },
+    {
+        "title": "3a PARTE | 09 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-09-dic-2025-partidazo-cope-20251210_3268096.html",
+        "date": "2025-12-10 00:35:29",
+        "sentiment_score": -0.006626538932323456
+    },
+    {
+        "title": "La reconquista de lo amable",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "reconquista",
+            "amable"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/reconquista-amable_0_2005424330.html",
+        "date": "2025-12-10 02:08:25",
+        "sentiment_score": -0.29502350091934204
+    },
+    {
+        "title": "Quero 'el Carmeno' y Moñino, la 'Isabel de Vox', los artífices del giro obrerista que roba votos al PSOE: \"Conocen los barrios\"",
+        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744048300_260389723_1706x960.jpg",
+        "tags": [
+            "jorge buxadé villalba",
+            "santiago abascal",
+            "vox",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251210/quero-carmeno-monino-isabel-vox-artifices-giro-obrerista-roba-votos-psoe-conocen-barrios/1003744047726_0.html",
+        "date": "2025-12-10 01:50:45",
+        "sentiment_score": -0.9078032169491053
+    },
+    {
+        "title": "Bebés más altos, más sanos y más inteligentes: Herasight, la compañía que promete niños a la carta por 42.000 euros",
+        "image_url": "https://s3.elespanol.com/2025/01/24/ciencia/918919008_252595107_1706x960.png",
+        "tags": [
+            "españa",
+            "nacimientos",
+            "reino unido",
+            "salud",
+            "fecundación in vitro"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20251210/bebes-altos-sanos-inteligentes-herasight-compania-promete-ninos-carta-euros/1003744047540_0.html",
+        "date": "2025-12-10 01:50:43",
+        "sentiment_score": -0.029857173562049866
+    },
+    {
+        "title": "Entramos en el cuartel secreto de la guerra de la UE contra el narcotráfico marítimo: \"España es la puerta de entrada\"",
+        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744048544_260392806_1706x960.jpg",
+        "tags": [
+            "cocaína",
+            "tráfico de drogas",
+            "policía nacional",
+            "unión europea (ue)",
+            "portugal",
+            "narcotráfico",
+            "lisboa",
+            "reportajes",
+            "latinoamérica"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251210/entramos-cuartel-secreto-guerra-ue-narcotrafico-maritimo-espana-puerta-entrada/1003744036430_0.html",
+        "date": "2025-12-10 01:49:07",
+        "sentiment_score": -0.6788098141551018
     }
 ];
