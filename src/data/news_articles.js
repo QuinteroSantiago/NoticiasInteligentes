@@ -1,237 +1,5 @@
 export default [
     {
-        "title": "La actividad física emerge como una herramienta \"clave\" en prevención, tratamiento y abordaje de enfermedades",
-        "image_url": "https://www.infobae.com/resizer/v2/SUAXVW2SVJBZJBXQCNQP5FYFG4.jpg?auth=6198332b2b72bed63cca7261354ed9ee14f59a197d0db5fb1ce67288c2118092&height=1231&smart=true&width=1920",
-        "tags": [
-            "alejandro lucía",
-            "resistencias antimicrobianas",
-            "fundación instituto roche",
-            "hospital 12 de octubre",
-            "europapress",
-            "medicina personalizada de precisión",
-            "maría teresa coque gonzález",
-            "celso arango",
-            "enfermedades",
-            "madrid",
-            "actividad física"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/04/la-actividad-fisica-emerge-como-una-herramienta-clave-en-prevencion-tratamiento-y-abordaje-de-enfermedades/",
-        "date": "2025-12-06 17:01:55",
-        "sentiment_score": 0.25409893691539764
-    },
-    {
-        "title": "El singular debate sobre la cantidad de títulos de Messi que se abrió tras ganar la Conferencia Este con el Inter Miami",
-        "image_url": "https://www.infobae.com/resizer/v2/4D456ZLVAZAXTFMPE63CLB7GJ4.jpg?auth=b409fd07a41fdd53ed1e430cbeedba5f502a43f048b1834e6f00c6b95afc1c30&height=2466&smart=true&width=3699",
-        "tags": [
-            "mls",
-            "mls cup",
-            "lionel messi",
-            "inter miami"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/06/el-singular-debate-sobre-la-cantidad-de-titulos-de-messi-que-se-abrio-tras-ganar-la-conferencia-este-con-el-inter-miami/",
-        "date": "2025-12-06 16:52:33",
-        "sentiment_score": 0.44441143423318863
-    },
-    {
-        "title": "CEO de Ribera Salud dice que los audios están \"editados\" y \"fuera de contexto\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/06/ceo-de-ribera-salud-dice-que-los-audios-estan-editados-y-fuera-de-contexto/",
-        "date": "2025-12-06 16:50:16",
-        "sentiment_score": -0.7291547544300556
-    },
-    {
-        "title": "El Barcelona se juega el liderato en Sevilla contra el Betis",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/29/692b0c6e5fee9.r_d.1107-488.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251206/betis-barcelona-directo-liga-vivo_362941.html",
-        "date": "2025-12-06 16:45:00",
-        "sentiment_score": 0.20999692380428314
-    },
-    {
-        "title": "La economía que más crece... pese a todo. En qué ha cambiado el modelo español en 17 años",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DDXU3PO3EJAR5PX2W53AHCMR5M.jpg?auth=774a4ce0b034ecfd746bd7764859177dd11802ae6b4e10c2230b6f86d3af3159&width=1200",
-        "tags": [
-            "crecimiento económico",
-            "demografía",
-            "españa",
-            "economía",
-            "empleo",
-            "construcción",
-            "crecimiento demográfico",
-            "crisis financiera",
-            "turismo",
-            "dinero"
-        ],
-        "link": "https://elpais.com/economia/negocios/2025-12-06/vendra-otra-crisis-y-nos-encontrara-mas-fuertes-en-que-ha-mejorado-el-modelo-economico-espanol.html",
-        "date": "2025-12-06 16:45:00",
-        "sentiment_score": 0.2192450612783432
-    },
-    {
-        "title": "Jesús de Miguel, Enric Gallego y Nacho Gil, el demoledor tridente del Tenerife que amenaza al Lugo",
-        "image_url": "https://cflvdg.avoz.es/sc/KudAwP25AO-qoN4HWIFXazpUn7E=/768x/2025/12/06/00121765039022001375163/Foto/f_20251101_204144000.jpg",
-        "tags": [
-            "cdlugo",
-            "cd lugo",
-            "primera rfef"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/cdlugo/2025/12/06/jesus-miguel-enric-gallego-nacho-gil-demoledor-tridente-tenerife-amenaza-lugo/00031765038976379886614.htm",
-        "date": "2025-12-06 16:43:00",
-        "sentiment_score": 0.2865031883120537
-    },
-    {
-        "title": "La IA transformará uno de cada cinco empleos en la Comunitat Valenciana, según la UPV",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bbd2c169-b7ad-4a59-bb20-52b095e3e885_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "empleo",
-            "comunitat valenciana",
-            "alicante",
-            "valencia",
-            "ia",
-            "castellón"
-        ],
-        "link": "https://www.levante-emv.com/comunitat-valenciana/2025/12/06/ia-transformara-20-empleos-valencianos-124522928.html",
-        "date": "2025-12-06 16:40:16",
-        "sentiment_score": 0.023460552096366882
-    },
-    {
-        "title": "El CEO de Ribera Salud asegura que el audio está «editado, recortado» y «fuera de contexto»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/Hospital-de-Torrejon-de-Ardoz.jpg",
-        "tags": [
-            "torrejón de ardoz",
-            "sanidad",
-            "comunidad de madrid",
-            "sanidad pública",
-            "hospitales"
-        ],
-        "link": "https://theobjective.com/sanidad/2025-12-06/ceo-ribera-salud-audio-editado/",
-        "date": "2025-12-06 16:33:25",
-        "sentiment_score": -0.008785948157310486
-    },
-    {
-        "title": "Betis - Barcelona: Partido hoy de LaLiga EA Sports, en directo",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/06/B2406E83-A53C-4EAC-9364-D49AE59B500A/pellegrini-indicaciones-antony-partido_98.jpg?crop=1283%2C722%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/betis-barcelona-partido-hoy-laliga-sports-directo_202512066934543955584d48fb6c5039.html",
-        "date": "2025-12-06 16:32:36",
-        "sentiment_score": 0.03882836550474167
-    },
-    {
-        "title": "Xabi Alonso: «Mbappé está en camino de hacer historia, como Cristiano»",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/06/xabialonso-previa-realmadrid-celta-kOxE-U240475019135Uh-1200x840@RC.jpg",
-        "tags": [
-            "real club celta de vigo",
-            "cristiano ronaldo",
-            "kylian mbappé",
-            "real madrid",
-            "xabi alonso"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-primera/xabialonso-mbappe-cristiano-20251206172155-ntrc.html",
-        "date": "2025-12-06 16:31:00",
-        "sentiment_score": 0.890960119664669
-    },
-    {
-        "title": "Katy Perry y Justin Trudeau ya no se esconden: la cantante comparte sus primeras imágenes como la pareja del momento",
-        "image_url": "https://www.hola.com/horizon/landscape/b667fc9edfbd-snapinstato591169734185749388980280897318016885259379572n-1.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "musica",
-            "actualidad",
-            "katy perry"
-        ],
-        "link": "https://www.hola.com/actualidad/20251206871524/katy-perry-y-justin-trudeau-ya-no-se-esconden-la-cantante-comparte-sus-primeras-imagenes/",
-        "date": "2025-12-06 17:09:57",
-        "sentiment_score": 0.13465004041790962
-    },
-    {
-        "title": "Gran corte en el metro de Barcelona: unas obras dejan 12 estaciones sin servicio durante el puente",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/08/04/movilidad/1003742679509_14977541_1706x960.jpg",
-        "tags": [
-            "metro barcelona",
-            "transports metropolitans barcelona tmb",
-            "movilidad"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/movilidad/20251206/gran-corte-metro-barcelona-obras-dejan-estaciones-sin-servicio-puente/1003742714104_0.html",
-        "date": "2025-12-06 17:07:26",
-        "sentiment_score": -0.8444239497184753
-    },
-    {
-        "title": "DIRECTO | El Betis, con moral tras el derbi, examina al FC Barcelona en La Cartuja",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b971e84a-6343-4d72-a14b-4d47e5f7c4b4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "betis,fc barcelona,la liga,directo"
-        ],
-        "link": "https://www.elcorreoweb.es/deportes/futbol/primera-division/2025-2026/real-betis-barcelona-232025_01_15_2025185_2025178.html",
-        "date": "2025-12-06 17:07:04",
-        "sentiment_score": -0.05254682898521423
-    },
-    {
-        "title": "La UAB y la peste porcina: un virus que transforma la vida universitaria",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/05/2025120515230081858.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.mundiario.com/articulo/sociedad/uab-peste-porcina-virus-que-transforma-vida-universitaria/20251206180233366075.html",
-        "date": "2025-12-06 17:02:33",
-        "sentiment_score": -0.8772796634584665
-    },
-    {
-        "title": "El 'demonio' Puigdemont que codician PP y PSOE",
-        "image_url": "https://static1.ara.cat/clip/59087b5c-efbb-4f8e-a3ef-e89b5fce730d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pp",
-            "demonio",
-            "codician",
-            "psoe",
-            "puigdemont"
-        ],
-        "link": "https://es.ara.cat/politica/demonio-puigdemont-codician-pp-psoe_129_5584933.html",
-        "date": "2025-12-06 17:00:49",
-        "sentiment_score": -0.18350590765476227
-    },
-    {
-        "title": "LaLiga: Real Betis - FC Barcelona, en directo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/75874c60-d1f5-44b3-bdde-fd6d022e0786_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real betis barcelona en directo",
-            "futbol gratis",
-            "partidos futbol online",
-            "fútbol",
-            "primera división - laliga ea sports",
-            "futbol",
-            "partidos futbol",
-            "futbol online",
-            "futbol directo",
-            "partido real betis barcelona",
-            "partidos de futbol",
-            "futbol en directo",
-            "directo primera división - laliga ea sports"
-        ],
-        "link": "https://www.elperiodicodearagon.com/deportes/futbol/primera-division/2025-2026/real-betis-barcelona-232025_01_15_2025185_2025178.html",
-        "date": "2025-12-06 17:00:13",
-        "sentiment_score": 0.05728615075349808
-    },
-    {
-        "title": "El Barça en el que nadie creía se lleva por delante al Betis",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b8f46a4a-5a37-45cd-b0ef-941ec5e0dfb2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fc barcelona",
-            "fútbol",
-            "laliga ea sports",
-            "real betis"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2025/12/06/laliga-real-betis-fc-barcelona-124524824.html",
-        "date": "2025-12-06 17:00:11",
-        "sentiment_score": -0.27515849471092224
-    },
-    {
         "title": "Un misil de Berenguer descuelga al Atlético",
         "image_url": "https://www.latribunadetoledo.es/media/img/2025/0f5da37d-6024-4d2f-84e62b02a4f12711.jpg",
         "tags": [
@@ -2891,5 +2659,254 @@ export default [
         "link": "https://www.elespanol.com/reportajes/20251210/entramos-cuartel-secreto-guerra-ue-narcotrafico-maritimo-espana-puerta-entrada/1003744036430_0.html",
         "date": "2025-12-10 01:49:07",
         "sentiment_score": -0.6788098141551018
+    },
+    {
+        "title": "El campeón de Europa",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ffda81bd-e861-4913-8e9c-98537c8a5096_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "europa",
+            "monje",
+            "champions",
+            "campeon",
+            "psg"
+        ],
+        "link": "https://www.deia.eus/opinion/minuto-y-resultado/2025/12/10/campeon-europa-champions-monje-psg-10452078.html",
+        "date": "2025-12-10 06:30:28",
+        "sentiment_score": 0.4255000501871109
+    },
+    {
+        "title": "Lío con los horarios de la Copa del Rey: el Atlético jugará un jueves a las 21 horas... y en Liga el domingo a las 14h",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/03/68dfa2ddae0aa.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/lio-con-los-horarios-copa-rey-atletico-jugara-un-jueves-las-21-horas-liga-domingo-las-14h_6908490_0.html",
+        "date": "2025-12-10 06:22:30",
+        "sentiment_score": -0.3678089492022991
+    },
+    {
+        "title": "Una 'final' para un Xabi Alonso contra las cuerdas... con Guardiola amenazando: el Real Madrid se mide al Manchester City",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/09/6937c7ce95e753-47739676.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.20minutos.es/deportes/una-final-para-un-xabi-alonso-contra-las-cuerdas-con-guardiola-amenazando-real-madrid-se-mide-manchester-city_6908485_0.html",
+        "date": "2025-12-10 06:22:13",
+        "sentiment_score": -0.8521092459559441
+    },
+    {
+        "title": "Cuando un partido cumbre parece imposible de coronar",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ac05c947-9f1d-4345-b074-4d69786ff4ca_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "champions",
+            "bilbao",
+            "previa",
+            "san mames",
+            "psg"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/12/10/psg-san-mames-bilbao-previa-champions-10452065.html",
+        "date": "2025-12-10 06:15:47",
+        "sentiment_score": 0.5626818388700485
+    },
+    {
+        "title": "«Nuestro objetivo es que el talento encuentre en Castilla y León un ecosistema atractivo para desarrollarse»",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/09/consejeraEducacion-kXKE-U240501263141uP-758x531@El%20Norte.jpg",
+        "tags": [
+            "junta de castilla y león",
+            "castilla y león",
+            "rocío lucas navas",
+            "educación",
+            "innovación",
+            "universidades"
+        ],
+        "link": "https://www.elnortedecastilla.es/castillayleon/objetivo-talento-encuentre-castilla-leon-ecosistema-atractivo-20251210065839-nt.html",
+        "date": "2025-12-10 05:58:39",
+        "sentiment_score": -0.03935988247394562
+    },
+    {
+        "title": "Pedro Benito, el capitán precoz que lidera al Real Murcia",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/10/693908f815e2c.jpeg",
+        "tags": [
+            "ud almería"
+        ],
+        "link": "https://www.lavozdealmeria.com/ud-almeria/409438/pedro-benito-capitan-precoz-lidera-real-murcia.html",
+        "date": "2025-12-10 05:56:16",
+        "sentiment_score": 0.09261927008628845
+    },
+    {
+        "title": "Ana Boyer y Fernando Verdasco nos anuncian que esperan su cuarto hijo: \"Es un bebé totalmente buscado\"",
+        "image_url": "https://www.hola.com/horizon/landscape/11fa1ec25c60-dsc04623cut.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad",
+            "contenido sensible",
+            "ana boyer",
+            "fernando verdasco",
+            "¡hola! +"
+        ],
+        "link": "https://www.hola.com/actualidad/20251210871801/ana-boyer-fernando-verdasco-anuncian-esperan-cuarto-hijo-bebe-totalmente-buscado/",
+        "date": "2025-12-10 05:06:00",
+        "sentiment_score": 0.015072807669639587
+    },
+    {
+        "title": "Pellegrini: «¿El Real Murcia anda bien?»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f2e46585-c773-4cf2-b780-80c7128e5722_16-9-aspect-ratio_default_0_x834y773.jpg",
+        "tags": [
+            "real murcia",
+            "betis",
+            "nueva condomina",
+            "deportes",
+            "futbolistas"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/10/pellegrini-real-murcia-anda-124615843.html",
+        "date": "2025-12-10 05:01:29",
+        "sentiment_score": -0.16192619502544403
+    },
+    {
+        "title": "El UCAM Murcia inicia en el Top 16 de la FIBA Europe Cup veinte días sin tregua",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/edd985a9-60d0-4abf-97c3-e41cf93ad4c0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ronda",
+            "ucam",
+            "real madrid",
+            "ucam murcia cb",
+            "joventut"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/10/ucam-murcia-inicia-top-16-124615358.html",
+        "date": "2025-12-10 05:01:23",
+        "sentiment_score": 0.21637046337127686
+    },
+    {
+        "title": "Un deporte de héroes y villanos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fdc9f9dd-a91f-4f8e-84ae-42549fc4f1bd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "real madrid",
+            "crisis"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/opinion/2025/12/10/deporte-heroes-villanos-124614767.html",
+        "date": "2025-12-10 05:01:20",
+        "sentiment_score": -0.705074205994606
+    },
+    {
+        "title": "Ca l'Estevet: el restaurante que demuestra que la cocina catalana está estupendamente",
+        "image_url": "https://static1.ara.cat/clip/72aa8d56-017a-4548-9473-e486ac2795a7_16-9-aspect-ratio_default_0_x1728y510.jpg",
+        "tags": [
+            "cocina",
+            "estevet",
+            "ca",
+            "restaurante",
+            "estupendamente",
+            "demuestra",
+            "catalana",
+            "l"
+        ],
+        "link": "https://es.ara.cat/comer/ca-l-estevet-restaurante-demuestra-cocina-catalana-estupendamente_1_5587701.html",
+        "date": "2025-12-10 06:40:21",
+        "sentiment_score": -0.20357392728328705
+    },
+    {
+        "title": "Cataluña encara un día de ambiente estable y alguna nevada débil en el Pirineo occidental",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/10/vida/1003742714785_15496590_1706x960.jpg",
+        "tags": [
+            "el tiempo",
+            "meteorología",
+            "meteocat",
+            "los pirineos",
+            "tiempo",
+            "cataluña",
+            "nieve"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/el-tiempo/20251210/cataluna-encara-ambiente-estable-alguna-pirineo-occidental/1003742714783_0.html",
+        "date": "2025-12-10 06:33:57",
+        "sentiment_score": -0.7979859188199043
+    },
+    {
+        "title": "Lo que debes saber hoy, 10 de diciembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/04/18/vivir-en-barcelona/757184282_9128786_1706x960.jpg",
+        "tags": [
+            "transports metropolitans barcelona tmb",
+            "tráfico",
+            "vivir en barcelona",
+            "clima",
+            "transporte",
+            "tiempo",
+            "coches"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251210/debes-saber-hoy-diciembre-barcelona/1003742714784_0.html",
+        "date": "2025-12-10 06:32:11",
+        "sentiment_score": 0.027752280235290527
+    },
+    {
+        "title": "Los motivos por los que Rosalía no hace estadios con su 'LUX Tour', una gira mundial con entradas agotadas en minutos",
+        "image_url": "https://album.mediaset.es/eimg/2025/12/09/rosalia_76a8.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.telecinco.es/noticias/cultura/20251210/motivos-rosalia-no-hace-estadios-lux-tour-entradas-agotadas_18_017801989.html",
+        "date": "2025-12-10 06:15:55",
+        "sentiment_score": 0.06084220111370087
+    },
+    {
+        "title": "\"Mi padre me enseñó dos cosas fundamentales: a cazar ya no ser obediente\"",
+        "image_url": "https://static1.ara.cat/clip/ab8498aa-f935-4894-a447-783a6c4ac49b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "no",
+            "cosas",
+            "padre",
+            "cazar",
+            "fundamentales",
+            "obediente",
+            "enseno"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/padre-enseno-cosas-fundamentales-cazar-no-obediente_128_5587693.html",
+        "date": "2025-12-10 06:15:10",
+        "sentiment_score": -0.13137187063694
+    },
+    {
+        "title": "Muere el músico Robe Iniesta, líder de Extremoduro, a los 63 años",
+        "image_url": "https://static1.ara.cat/clip/e025f28d-779f-4d6a-9aa3-48ca939bee3e_16-9-aspect-ratio_default_0_x1511y0.jpg",
+        "tags": [
+            "musico",
+            "iniesta",
+            "muere",
+            "63",
+            "anos",
+            "robe"
+        ],
+        "link": "https://es.ara.cat/cultura/musica/muere-musico-robe-iniesta-63-anos_1_5587674.html",
+        "date": "2025-12-10 06:00:58",
+        "sentiment_score": -0.1320675164461136
+    },
+    {
+        "title": "Una empresa aragonesa de venta de carne de jabalí: \"Llevamos años pagando la psicosis de la peste porcina; me recuerda a las vacas locas\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/352d2bdb-53c7-417c-93db-b1be98b95c72_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "aragón",
+            "peste porcina",
+            "dga"
+        ],
+        "link": "https://www.elperiodicodearagon.com/aragon/2025/12/10/empresa-aragonesa-venta-carne-jabali-124606001.html",
+        "date": "2025-12-10 06:00:29",
+        "sentiment_score": -0.6539629325270653
+    },
+    {
+        "title": "El Gran Wyoming: \"La Justicia me ha citado dos veces solo para que me hicieran la foto\"",
+        "image_url": "https://www.elplural.com/uploads/s1/21/07/98/4/el-gran-wyoming-en-los-premios-ondas-cadena-ser-x_7_480x270.jpeg",
+        "tags": [
+            "extratele"
+        ],
+        "link": "https://www.elplural.com/extratele/gran-wyoming-justicia-me-ha-citado-dos-veces-solo-me-hicieran-foto_367025102",
+        "date": "2025-12-10 06:00:11",
+        "sentiment_score": -0.17718030512332916
+    },
+    {
+        "title": "Ruta literaria en Barcelona: recorrer la ciudad tras los pasos de Ruiz Zafón",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/09/6937fdbf27239.r_d.3028-2693-748.jpeg",
+        "tags": [
+            "viajes"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/viajes/20251210/11328468/ruta-literaria-barcelona-la-sombra-del-viento-ruiz-zafon.html",
+        "date": "2025-12-10 06:00:00",
+        "sentiment_score": 0.438973693177104
     }
 ];
