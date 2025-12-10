@@ -1,333 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid muestra su \"satisfacción\" por la resolución del TS respecto a los derechos audiovisuales",
-        "image_url": "https://www.infobae.com/resizer/v2/ZZAQWIQCKBEGZENGQUU7EJ6RTQ.jpg?auth=72beac4d58760c33f0fcc7979966e7ffb213ec56030315b735eebac6e7a95894&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/05/el-real-madrid-muestra-su-satisfaccion-por-la-resolucion-del-ts-respecto-a-los-derechos-audiovisuales/",
-        "date": "2025-12-05 22:15:17",
-        "sentiment_score": 0.3789766654372215
-    },
-    {
-        "title": "Argentina bendecida con grupo 'ganable' en el sorteo del Mundial, pero inquieta lo que sigue",
-        "image_url": "https://dims.apnews.com/dims4/default/963b1a2/2147483647/strip/true/crop/3976x2237+0+207/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2Fe9%2Fa3f1fffbe3c704d02d8bcb85a8bd%2F7e4f38e715d34d2c8e95b6f16dec803d",
-        "tags": [
-            "deportes",
-            "sports",
-            "mundial sorteo argentina rivales scaloni"
-        ],
-        "link": "https://apnews.com/article/mundial-sorteo-argentina-rivales-scaloni-5f499c69e7de43b1fa15b13861240980",
-        "date": "2025-12-05 21:41:56",
-        "sentiment_score": 0.37003079056739807
-    },
-    {
-        "title": "Argentina bendecida con grupo ‘ganable’ en el sorteo del Mundial, pero inquieta lo que sigue",
-        "image_url": "https://www.chicagotribune.com/wp-content/uploads/2025/12/MUNDIAL_SORTEO-SCALONI_46594.jpg?strip=all&w=1400px",
-        "tags": [
-            "en español"
-        ],
-        "link": "https://www.chicagotribune.com/2025/12/05/argentina-bendecida-con-grupo-ganable-en-el-sorteo-del-mundial-pero-inquieta-lo-que-sigue/",
-        "date": "2025-12-05 21:41:55",
-        "sentiment_score": 0.18959465622901917
-    },
-    {
-        "title": "Los pequeños traen de cabeza a Txus Vidorreta en el CB Canarias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/689b3efb-b818-4bff-9889-a663b8196479_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "santiago",
-            "real madrid",
-            "cb canarias",
-            "tenerife",
-            "txus vidorreta",
-            "españa"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/05/pequenos-traen-cabeza-txus-vidorreta-124506128.html",
-        "date": "2025-12-05 21:20:04",
-        "sentiment_score": -0.36115463078022003
-    },
-    {
-        "title": "Estas son las series de moda en Netflix México hoy",
-        "image_url": "https://www.infobae.com/resizer/v2/3ILG6ARO65GSXKX3D2HXEQOXPU.jpg?auth=49262afaeec20a7ad29d37c6146b2a28628bfee4fd80ec8a4650c10fa5fb0f9e&height=1080&smart=true&width=1920",
-        "tags": [
-            "series",
-            "netflix",
-            "noticias",
-            "streaming",
-            "mexico-entretenimiento"
-        ],
-        "link": "https://www.infobae.com/mexico/2025/12/05/estas-son-las-series-de-moda-en-netflix-mexico-hoy/",
-        "date": "2025-12-05 21:17:41",
-        "sentiment_score": 0.18770477175712585
-    },
-    {
-        "title": "James Rodríguez se volverá a ver con Cristiano Ronaldo en el Mundial de 2026: así fue su amistad en Real Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/QJ4DIFQWMRFL3AUY3DZTQAPK4U.jpg?auth=5c7427d2d9539a21279e9ca03ed3eb9df6d4c3cccabfa5dda9fab6b5a3bcea76&height=1886&smart=true&width=3264",
-        "tags": [
-            "real madrid",
-            "colombia portugal mundial 2026",
-            "sorteo mundial 2026",
-            "selección colombia",
-            "james rodríguez",
-            "cristiano ronaldo",
-            "colombia-deportes",
-            "mundial 2026"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/12/05/james-rodriguez-se-volvera-a-ver-con-cristiano-ronaldo-en-el-mundial-de-2026-asi-fue-su-amistad-en-real-madrid/",
-        "date": "2025-12-05 21:13:53",
-        "sentiment_score": 0.2516847252845764
-    },
-    {
-        "title": "Barcelona y Real Madrid quieren la cima de la Liga Española",
-        "image_url": "https://i.ytimg.com/vi/0GYMaqhHXuU/mqdefault.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/barcelona-y-real-madrid-quieren-la-cima-de-la-liga-espanola-20251251750",
-        "date": "2025-12-05 21:05:00",
-        "sentiment_score": -0.666585773229599
-    },
-    {
-        "title": "Ruta por la gentrificación cultural de Carabanchel y los barrios que no quieren estigmas ni ser el \"Brookyln madrileño\"",
-        "image_url": "https://static.eldiario.es/clip/826f64a0-7633-48d2-8124-f0e66904c516_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gentrificacion",
-            "madrileno",
-            "ruta",
-            "quieren",
-            "estigmas",
-            "brookyln",
-            "barrios",
-            "carabanchel",
-            "cultural",
-            "no"
-        ],
-        "link": "https://www.eldiario.es/madrid/somos/ruta-gentrificacion-cultural-carabanchel-barrios-no-quieren-estigmas-brookyln-madrileno_1_12799153.html",
-        "date": "2025-12-05 21:04:56",
-        "sentiment_score": -0.12455356121063232
-    },
-    {
-        "title": "La Constitución española de 1978, una historia de éxito",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e8e0b022-cbbb-473c-8273-140d64bffb80_alta-libre-aspect-ratio_320w_0.webp",
-        "tags": [
-            "rey",
-            "historia",
-            "españa",
-            "duda"
-        ],
-        "link": "https://www.lne.es/opinion/2025/12/06/constitucion-espanola-1978-historia-exito-124505035.html",
-        "date": "2025-12-05 21:03:24",
-        "sentiment_score": 0.23338912427425385
-    },
-    {
-        "title": "Representantes de Urepanz escogieron a los integrantes de la comisión electoral para iniciar el proceso de elecciones",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "otras",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/representantes-de-urepanz-escogieron-a-los-integrantes-de-la-comision-electoral-para-iniciar-el-proceso-de-elecciones/",
-        "date": "2025-12-05 22:17:13",
-        "sentiment_score": 0.10122153908014297
-    },
-    {
-        "title": "El puente arranca sin fallecidos y con tráfico complicado por varios accidentes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc5517f9-13cf-4534-adfd-18749ac264fe_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "carreteras"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251206/puente-arranca-fallecidos-trafico-complicado-varios-accidentes-124507549",
-        "date": "2025-12-05 22:15:57",
-        "sentiment_score": -0.9031064240261912
-    },
-    {
-        "title": "El Govern catalán acuerda con el sector porcino sacrificar a 30.000 cerdos sanos cerca del foco de la peste porcina",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f26c2d42-fe99-407d-9e02-95b67eb97caa_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.laopiniondemalaga.es/economia/2025/12/05/govern-catalan-acuerda-sector-porcino-124508047.html",
-        "date": "2025-12-05 22:05:28",
-        "sentiment_score": -0.40951230376958847
-    },
-    {
-        "title": "Población",
-        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "poblacion"
-        ],
-        "link": "https://www.diariodecadiz.es/opinion/articulos/poblacion_0_2005400184.html",
-        "date": "2025-12-06 02:05:54",
-        "sentiment_score": -0.09824812412261963
-    },
-    {
-        "title": "Presidente José Jerí se reúne con “Pol Deportes” y ofrece apoyo para impulsar su carrera como narrador deportivo",
-        "image_url": "https://www.infobae.com/resizer/v2/WSYOPUZKFVDY7PLIS7YBYLZEAA.png?auth=e2b58b69fef1e6f968f2a2e3978d99f2cc1af1427e99bbb6c371025e89fe9a4d&height=1080&smart=true&width=1920",
-        "tags": [
-            "josé jerí",
-            "peru-noticias",
-            "pol deportes"
-        ],
-        "link": "https://www.infobae.com/peru/2025/12/06/presidente-jose-jeri-se-reune-con-pol-deportes-y-ofrece-apoyo-para-impulsar-su-carrera-como-narrador-deportivo/",
-        "date": "2025-12-06 01:35:54",
-        "sentiment_score": 0.2193183060735464
-    },
-    {
-        "title": "Faltan 13.000 profesionales como Sara Herrero y Cristina Moreno: en Madrid pueden ganar entre 2.000 y 2.100 euros",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045305_260351828_1706x960.jpg",
-        "tags": [
-            "sanidad",
-            "madrid total",
-            "madrid",
-            "españa",
-            "sanidad - enfermería"
-        ],
-        "link": "https://www.elespanol.com/madrid/20251206/faltan-profesionales-sara-herrero-cristina-moreno-madrid-pueden-ganar/1003744044876_0.html",
-        "date": "2025-12-06 01:00:00",
-        "sentiment_score": -0.8672301154583693
-    },
-    {
-        "title": "Teo Planell, el cantautor de 21 años que busca resignificar a su generación: \"El algoritmo es un arma fascista\"",
-        "image_url": "https://s3.elespanol.com/2025/12/01/actualidad/1003744037833_260253708_1706x960.jpg",
-        "tags": [
-            "entrevistas",
-            "música"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251206/teo-planell-cantautor-anos-busca-resignificar-generacion-algoritmo-arma-fascista/1003744037827_0.html",
-        "date": "2025-12-06 00:55:00",
-        "sentiment_score": 0.4966942071914673
-    },
-    {
-        "title": "La mayor (y olvidada) victoria naval de España sobre Gran Bretaña: el audaz golpe que decidió una guerra",
-        "image_url": "https://s3.elespanol.com/2024/06/07/porfolio/861174163_243829477_1706x960.jpg",
-        "tags": [
-            "historia",
-            "carlos iii de españa",
-            "guerra",
-            "inglaterra",
-            "gran bretaña",
-            "armada española",
-            "libros"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/historia/20251206/mayor-olvidada-victoria-naval-espana-gran-bretana-audaz-golpe-decidio-guerra/1003744043743_0.html",
-        "date": "2025-12-06 00:55:00",
-        "sentiment_score": 0.5425315797328949
-    },
-    {
-        "title": "El sensor de papel español que acabará con 62 millones de toneladas de basura de móviles y aparatos electrónicos",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744043727_260330109_1706x960.jpg",
-        "tags": [
-            "innovación e infraestructura",
-            "objetivo 12: producción y consumo responsables",
-            "objetivo 9: industria",
-            "historias",
-            "csic"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/historias/20251206/sensor-papel-espanol-acabara-millones-toneladas-basura-moviles-aparatos-electronicos/1003744043725_0.html",
-        "date": "2025-12-06 00:45:00",
-        "sentiment_score": 0.2471781000494957
-    },
-    {
-        "title": "Yerlina, Moha, Liu y el millón de nuevos españoles de Sánchez: \"Juramos la Constitución y no nos avergüenza nuestro origen\"",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045279_260351369_1706x960.jpg",
-        "tags": [
-            "inmigrantes",
-            "porfolio",
-            "reportajes",
-            "nacionalidad",
-            "inmigración",
-            "trabajadores",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251206/yerlina-moha-liu-millon-nuevos-espanoles-sanchez-juramos-constitucion-no-averguenza-origen/1003744044155_0.html",
-        "date": "2025-12-06 00:40:00",
-        "sentiment_score": 0.326558418571949
-    },
-    {
-        "title": "\"Pechos grandes, cara inocente\": el macabro auge de los prompts de IA que diseñan niñas a la carta para sexo virtual",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045064_260347925_1706x960.jpg",
-        "tags": [
-            "porfolio",
-            "porno",
-            "reportajes",
-            "tecnología",
-            "pornografía infantil",
-            "inteligencia artificial"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251206/pechos-grandes-cara-inocente-macabro-auge-prompts-ia-disenan-ninas-carta-sexo-virtual/1003744041389_0.html",
-        "date": "2025-12-06 00:40:00",
-        "sentiment_score": -0.4768800437450409
-    },
-    {
-        "title": "Viaje a los orígenes de Salazar, el \"talibán de Montellano\", donde no puede volver: \"Era un fullero, estaba siempre en los bares\"",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045301_260351776_1706x960.jpg",
-        "tags": [
-            "pedro sánchez",
-            "porfolio",
-            "reportajes",
-            "política",
-            "psoe (partido socialista obrero español)",
-            "maría jesús montero",
-            "psoe andalucía",
-            "dos hermanas (sevilla)",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251206/viaje-origenes-salazar-taliban-montellano-no-puede-volver-fullero-siempre-bares/1003744043834_0.html",
-        "date": "2025-12-06 00:40:00",
-        "sentiment_score": -0.9302879143506289
-    },
-    {
-        "title": "Ancelotti destaca a Marruecos como un rival sólido y organizado tras el sorteo mundialista",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/05/ancelotti-destaca-a-marruecos-como-un-rival-solido-y-organizado-tras-el-sorteo-mundialista/",
-        "date": "2025-12-05 23:30:54",
-        "sentiment_score": 0.7789040766656399
-    },
-    {
-        "title": "Shakira y Piqué sorprenden: retoman el contacto directo tras años de silencio",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/14/2025031416340293556.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/shakira-pique-sorprenden-retoman-contacto-directo-anos-silencio/20251206031425365984.html",
-        "date": "2025-12-06 02:14:25",
-        "sentiment_score": 0.3156408220529556
-    },
-    {
-        "title": "Pues es mentira",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mentira"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/mentira_0_2005400303.html",
-        "date": "2025-12-06 02:08:26",
-        "sentiment_score": -0.3881446570158005
-    },
-    {
-        "title": "Serrat recibe un doctorado honoris causa que fortalece su “cadena de amor” por México",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "cultura y espectáculos",
-            "serrat",
-            "doctorado",
-            "honoris",
-            "causa",
-            "internacional",
-            "música",
-            "arte",
-            "mexico",
-            "efe",
-            "premios"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/06/serrat-recibe-un-doctorado-honoris-causa-que-fortalece-su-cadena-de-amor-por-mexico/",
-        "date": "2025-12-06 02:00:27",
-        "sentiment_score": 0.7861582338809967
-    },
-    {
         "title": "Simoneta, la prima más discreta y solidaria del rey que vive entre lujo y artesanía en Madrid",
         "image_url": "https://theobjective.com/wp-content/uploads/2025/12/simoneta-gomez-acebo-vida.jpeg",
         "tags": [
@@ -2850,5 +2522,170 @@ export default [
         "link": "https://www.laopiniondezamora.es/nacional/2025/12/09/centenar-adolescentes-ciberdelincuentes-espanoles-amenazan-seguridad-estado-124585964.html",
         "date": "2025-12-09 06:22:10",
         "sentiment_score": -0.41314681246876717
+    },
+    {
+        "title": "17:00H | 09 DIC 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-09-dic-2025-tarde-20251209_3267955.html",
+        "date": "2025-12-09 17:07:00",
+        "sentiment_score": -0.265930712223053
+    },
+    {
+        "title": "Las entradas para el UCAM Murcia-Real Madrid, a la venta: precios y localidades que quedan",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/598ae089-c7c2-4380-aa62-1d4ae901fa71_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ucam murcia",
+            "deportes",
+            "joventut",
+            "precios",
+            "real madrid",
+            "ucam"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/09/entradas-ucam-murcia-real-madrid-124611529.html",
+        "date": "2025-12-09 17:06:58",
+        "sentiment_score": 0.16508892178535461
+    },
+    {
+        "title": "Shock por la muerte de Jorge Martínez, líder de Ilegales y \"un gran corazón que jugaba a ser macarra\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e0e477df-37a6-4deb-9806-1609f87fddf3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "música",
+            "rock"
+        ],
+        "link": "https://www.informacion.es/cultura/2025/12/09/shock-muerte-jorge-martinez-lider-124611819.html",
+        "date": "2025-12-09 17:05:02",
+        "sentiment_score": -0.8685974441468716
+    },
+    {
+        "title": "Hugo González es la última sensación en la NBA",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/09/D1602615-F939-4E41-B678-B3BF20C66DBF/hugo-gonzalez-ultima-sensacion-nba_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "antena 3 noticias",
+            "deportes",
+            "baloncesto"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/baloncesto/hugo-gonzalez-ultima-sensacion-nba_20251209693856ab55584d48fb701de9.html",
+        "date": "2025-12-09 17:04:43",
+        "sentiment_score": 0.8485059291124344
+    },
+    {
+        "title": "El Real Madrid, una noche clave y un enemigo íntimo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251209180403_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-madrid-noche-clave-enemigo-intimo-20251209180403.html",
+        "date": "2025-12-09 17:04:03",
+        "sentiment_score": -0.2609911262989044
+    },
+    {
+        "title": "El curioso destino escogido por Ronald Araujo para su viaje espiritual: en busca de la paz",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/09/culemania/primer-equipo/1003742714681_15495150_1706x960.jpg",
+        "tags": [
+            "primer equipo",
+            "barça",
+            "ronald araujo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251209/curioso-destino-escogido-ronald-araujo-viaje-espiritual/1003742714675_0.html",
+        "date": "2025-12-09 17:13:07",
+        "sentiment_score": -0.8035711161792278
+    },
+    {
+        "title": "Andrés Iniesta sitúa Barcelona en el epicentro del ciclismo mundial: “Me ha acompañado siempre en mi vida, más allá del fútbol”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GNN6X323OZH7RAXCAAY7KOZQVY.jpg?auth=84604f44331d697258b37af96e9f93f827d7e8b764c1d05736f5fbe60ded3f8c&width=1200",
+        "tags": [
+            "barcelona",
+            "ciclismo",
+            "jaume collboni",
+            "nsn cycling team",
+            "andrés iniesta",
+            "ayuntamiento barcelona",
+            "cataluña",
+            "ciclistas"
+        ],
+        "link": "https://elpais.com/deportes/ciclismo/2025-12-09/andres-iniesta-situa-barcelona-en-el-epicentro-del-ciclismo-mundial-me-ha-acompanado-siempre-en-mi-vida-mas-alla-del-futbol.html",
+        "date": "2025-12-09 17:12:52",
+        "sentiment_score": 0.11362113803625107
+    },
+    {
+        "title": "Araujo busca su paz mental en Israel",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/09/Clipboard-0190-k0VD-U240500999166tLH-1200x840@RC.jpg",
+        "tags": [
+            "salud mental",
+            "f.c. barcelona"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/araujo-busca-paz-mental-israel-20251209181202-ntrc.html",
+        "date": "2025-12-09 17:12:04",
+        "sentiment_score": 0.08506396412849426
+    },
+    {
+        "title": "El viento impide aterrizar en Santander el segundo vuelo entre Granada y la capital cántabra",
+        "image_url": "https://static.grupojoly.com/clip/cbecc1e7-c6d8-4fb5-a6cb-a56f9ac0f686_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sucesos granada",
+            "aeropuerto de granada",
+            "últimas noticias granada"
+        ],
+        "link": "https://www.granadahoy.com/granada/viento-impide-aterrizar-santander-segundo-vuelo-granada_0_2005419429.html",
+        "date": "2025-12-09 17:10:00",
+        "sentiment_score": 0.6097338944673538
+    },
+    {
+        "title": "Trump advierte a Maduro de que tiene «los días contados» en Venezuela",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/trump-ucrania-acuerdo-guerra-rusia.jpg",
+        "tags": [
+            "donald trump",
+            "narcotráfico",
+            "nicolás maduro",
+            "venezuela",
+            "internacional"
+        ],
+        "link": "https://theobjective.com/internacional/2025-12-09/trump-maduro-dias-venezuela/",
+        "date": "2025-12-09 17:07:35",
+        "sentiment_score": 0.026369646191596985
+    },
+    {
+        "title": "Miquel y Costas confirma un dividendo de 0,1171 euros brutos por acción el 17 de diciembre",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251209180708_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-miquel-costas-confirma-dividendo-01171-euros-brutos-accion-17-diciembre-20251209180708.html",
+        "date": "2025-12-09 17:07:08",
+        "sentiment_score": 0.0388222374022007
+    },
+    {
+        "title": "Maxi López revela cómo eligió a Ronaldinho en vez de a su pareja durante su etapa en el Barcelona: \"Le compré un pasaje\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/09/6938553385e3f.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/maxi-lopez-revela-eligio-ronaldinho-vez-pareja-etapa-barcelona-le-compre-pasaje-20251209_3267954.html",
+        "date": "2025-12-09 17:07:01",
+        "sentiment_score": -0.19572830200195312
+    },
+    {
+        "title": "Salud cifra en un 5,9% el seguimiento de la huelga de médicos en Catalunya este martes por la tarde",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251209180542_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-salud-cifra-59-seguimiento-huelga-medicos-catalunya-martes-tarde-20251209180542.html",
+        "date": "2025-12-09 17:05:42",
+        "sentiment_score": 0.06124665588140488
+    },
+    {
+        "title": "El Govern de Cataluña aprueba una estrategia para captar 6.000 millones de euros en inversión extranjera en los próximos cinco años",
+        "image_url": "https://www.elplural.com/uploads/s1/21/07/56/4/illa-oportunitats-per-liderar_7_480x270.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.elplural.com/autonomias/cataluna/govern-cataluna-aprueba-estrategia-captar-6000-millones-euros-inversion-extranjera-proximos-cinco-anos_367050102",
+        "date": "2025-12-09 17:05:28",
+        "sentiment_score": -0.01620122790336609
     }
 ];
