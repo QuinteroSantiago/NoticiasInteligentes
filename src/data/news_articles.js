@@ -1,197 +1,5 @@
 export default [
     {
-        "title": "El patrimonio de Sabina tras su jubilación, más allá de su icónico y lujoso piso en Lavapiés",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/sabina-patrimonio.jpeg",
-        "tags": [
-            "patrimonio",
-            "gente",
-            "joaquín sabina",
-            "celebrities"
-        ],
-        "link": "https://theobjective.com/gente/2025-12-07/patrimonio-sabina-jubilacion-iconico-piso-lavapies/",
-        "date": "2025-12-07 06:30:00",
-        "sentiment_score": 0.7812878414988518
-    },
-    {
-        "title": "Otra prueba de estrés en Miribilla",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/12/06/RS808191_J26%20SBB-GCA%20Firmar%20acb%20Photo%20-%20Aitor%20Arrizabalaga-knEE--758x531@El%20Correo.jpg",
-        "tags": [
-            "prueba",
-            "miribilla",
-            "estres"
-        ],
-        "link": "https://www.elcorreo.com/bilbaobasket/prueba-estres-miribilla-20251206072222-nt.html",
-        "date": "2025-12-07 06:22:22",
-        "sentiment_score": 0.6533927470445633
-    },
-    {
-        "title": "Sergio Ramos se marcha de Monterrey y ya busca destino junto a Pilar Rubio",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/19/2025021904534570167.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/sergio-ramos-marcha-monterrey-busca-destino-junto-pilar-rubio/20251207071558366131.html",
-        "date": "2025-12-07 06:15:58",
-        "sentiment_score": 0.09765191376209259
-    },
-    {
-        "title": "Yerai Cortés en los cafés parisinos",
-        "image_url": "https://static.grupojoly.com/clip/71262d01-60ce-4302-90cc-14932c37bac3_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cortes",
-            "parisinos",
-            "cafes",
-            "yerai"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/yerai-cortes-cafes-parisinos_0_2005404579.html",
-        "date": "2025-12-07 06:08:01",
-        "sentiment_score": 0.44747114181518555
-    },
-    {
-        "title": "Autopoiesis del clímax tóxico: un sistema que se protege para no transformarse",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5809a95d-ff41-440d-a08a-be7ce212b32c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "más extremadura",
-            "empleo público",
-            "universidad de extremadura",
-            "extremadura",
-            "región",
-            "talento"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/07/autopoiesis-climax-toxico-sistema-protege-124410745.html",
-        "date": "2025-12-07 06:05:06",
-        "sentiment_score": 0.08707721531391144
-    },
-    {
-        "title": "Victoria Eugenia, la reina ‘maldita’ regresa indultada a Madrid: «Nadie ocultó la hemofilia a Alfonso XIII»",
-        "image_url": "https://okdiario.com/img/2025/12/04/bc-puntos-de-fuga-victoria-eugenia-interior.jpg",
-        "tags": [
-            "cultura",
-            "exposiciones en madrid",
-            "casa real",
-            "patrimonio nacional",
-            "puntos de fuga",
-            "inglaterra"
-        ],
-        "link": "https://okdiario.com/cultura/victoria-eugenia-exposicion-madrid-alfonso-xiii-hemofilia-15857060",
-        "date": "2025-12-07 06:00:47",
-        "sentiment_score": -0.09655025601387024
-    },
-    {
-        "title": "La nuclear, como arma electoral",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e7833b25-6ab6-4fc8-85a7-2cfcba5a16b3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cierre de almaraz",
-            "energía"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/07/nuclear-arma-electoral-124535666.html",
-        "date": "2025-12-07 06:00:45",
-        "sentiment_score": -0.11070312559604645
-    },
-    {
-        "title": "PREVIA | Zamora CF - Real Madrid Castilla: Prueba de nivel para los rojiblancos en el Ruta de la Plata",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b648f233-7d57-472a-8ee1-dbfd3941a398_16-9-aspect-ratio_default_0_x1586y750.jpg",
-        "tags": [
-            "zamora cf,real madrid,fútbol,ruta de la plata,primera rfef,óscar cano"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2025/12/07/zamora-cf-real-madrid-castilla-ruta-de-la-plata-prueba-nivel-previa-124524347.html",
-        "date": "2025-12-07 06:00:34",
-        "sentiment_score": 0.7926931530237198
-    },
-    {
-        "title": "«Abrazos fuertes, largos y anchos de Maruja Mallo»",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/12/06/4CFF9B52-61F8-4112-BF92-2C3056CDD37B/carta-maruja-mallo-gabriela-mistral_69.jpg?crop=981%2C552%2Cx0%2Cy68&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/abrazos-fuertes-largos-anchos-maruja-mallo_2025120769351a4555584d48fb6d0f8b.html",
-        "date": "2025-12-07 06:10:13",
-        "sentiment_score": 0.49532146751880646
-    },
-    {
-        "title": "Benito Gómez, cocina de éxito y un libro salvador",
-        "image_url": "https://static.grupojoly.com/clip/3adc8f91-d657-4984-a392-de0f802e65fd_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/benito-gomez-cocina-exito-libro_0_2005398491.html",
-        "date": "2025-12-07 06:00:40",
-        "sentiment_score": 0.787406213581562
-    },
-    {
-        "title": "¿Adiós a los bares de toda la vida? Los motivos que propiciaron el cambio del modelo de negocio en la hostelería",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d9dd0164-9e3c-4e9b-8bcc-f5dd931d357a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "negocios",
-            "cafés y bares",
-            "hostelería"
-        ],
-        "link": "https://www.elperiodicodearagon.com/zaragoza/2025/12/07/adios-bares-vida-zaragoza-hosteleria-124529816.html",
-        "date": "2025-12-07 06:00:39",
-        "sentiment_score": -0.17097613215446472
-    },
-    {
-        "title": "Germán Aparicio: el \"procrastinador disciplinado\" en el top del streaming",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ee269b6d-3b04-40e0-a755-c509c3e5a831_16-9-aspect-ratio_default_1420229.jpg",
-        "tags": [
-            "madrid",
-            "streaming",
-            "gluten",
-            "trabajo"
-        ],
-        "link": "https://www.laopiniondemalaga.es/cultura-espectaculos/2025/12/07/guionista-series-german-aparicio-procrastinador-disciplinado-top-124520261.html",
-        "date": "2025-12-07 06:00:33",
-        "sentiment_score": -0.10801038146018982
-    },
-    {
-        "title": "Ya puedes registrarte como pareja de hecho por videoconferencia",
-        "image_url": "https://static1.ara.cat/clip/97b18710-aaea-4a51-9c7f-b4f062d74c3e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "puedes",
-            "hecho",
-            "registrarte",
-            "videoconferencia",
-            "pareja"
-        ],
-        "link": "https://es.ara.cat/politica/puedes-registrarte-pareja-hecho-videoconferencia_1_5585434.html",
-        "date": "2025-12-07 06:00:32",
-        "sentiment_score": 0.2090926468372345
-    },
-    {
-        "title": "Un público cada vez más harto y desconfiado: los retos de la fotografía y el periodismo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/271a543c-2e4c-4eb5-bbac-b9df3d39e113_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "entender más",
-            "noticias falsas",
-            "fotografía",
-            "prensa"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251207/publico-vez-harto-desconfiado-retos-124445404",
-        "date": "2025-12-07 06:00:30",
-        "sentiment_score": 0.31678125262260437
-    },
-    {
-        "title": "La \"mierdificación\" de Internet: por qué las plataformas son cada vez peores",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47ec44f4-c020-4a7e-8fa7-f71d0d5145fc_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "amazon",
-            "tiktok",
-            "apple",
-            "entender más",
-            "internet",
-            "redes sociales",
-            "competencia",
-            "facebook",
-            "instagram",
-            "google",
-            "microsoft"
-        ],
-        "link": "https://www.elperiodico.com/es/tecnologia/20251207/mierdificacion-internet-plataformas-redes-sociales-cory-doctorow-enshittification-peor-mierda-experiencia-122972628",
-        "date": "2025-12-07 06:00:30",
-        "sentiment_score": -0.9054250931367278
-    },
-    {
         "title": "Regreso al pasado",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/2d2c34ec-3801-496d-bf39-d41ddae9b02c_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2731,5 +2539,233 @@ export default [
         "link": "https://www.levante-emv.com/cultura/2025/12/10/titanic-atracara-valencia-experiencia-inmersiva-124636486.html",
         "date": "2025-12-10 17:00:12",
         "sentiment_score": 0.10188153386116028
+    },
+    {
+        "title": "Guardiola hurga en la herida de Xabi Alonso",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/84e93d0f-c0e2-46c2-92dacccec1fed363.jpg",
+        "tags": [
+            "real madrid",
+            "thibaut courtois",
+            "jude bellingham",
+            "vinícius júnior",
+            "manchester city",
+            "árbitros",
+            "rodrygo goes",
+            "pep guardiola",
+            "xabi alonso",
+            "santiago bernabéu",
+            "champions league",
+            "fede valverde",
+            "kylian mbappé"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z0194ae9f-6df1-4250-9d05b8e7b5111aaf/202512/guardiola-hurga-en-la-herida-de-xabi-alonso",
+        "date": "2025-12-10 22:20:09",
+        "sentiment_score": 0.23413367569446564
+    },
+    {
+        "title": "Resumen Real Madrid-Manchester City: El plan de Guardiola eclipsa la nula mejoría de Xabi (1-2)",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/10/image-8b8b2476-812a-4723-ab8e-cc20dd4dca0c-85-2560-1440.jpeg",
+        "tags": [
+            "sports",
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/futbol/champions-league/2025-2026/video-resumen-real-madrid-manchester-city-goles-resultado-highlights-rodrygo-haaland-o-reilly_vid60041320/video.shtml",
+        "date": "2025-12-10 22:18:30",
+        "sentiment_score": 0.18096834421157837
+    },
+    {
+        "title": "El City acerca más al abismo a Xabi Alonso",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/10/real-madrid-city-kiGE-U240512314436fDH-758x531@RC.JPG",
+        "tags": [
+            "thibaut courtois",
+            "vinícius",
+            "kylian mbappé",
+            "real madrid",
+            "manchester city",
+            "pep guardiola",
+            "xabi alonso"
+        ],
+        "link": "https://www.elnortedecastilla.es/deportes/futbol/liga-campeones/city-acerca-abismo-xabi-alonso-20251210231018-ntrc.html",
+        "date": "2025-12-10 22:12:28",
+        "sentiment_score": 0.48236455768346786
+    },
+    {
+        "title": "El Real Madrid es un quiero y no puedo: pierde contra el City sin Mbappé y se complica el Top 8 de la Champions",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/10/culemania/real-madrid/1003742715062_15499922_1706x960.jpg",
+        "tags": [
+            "manchester city",
+            "pep guardiola",
+            "xabi alonso",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20251210/real-madrid-city-mbappe-complica-top-champions/1003742715053_0.html",
+        "date": "2025-12-10 22:11:41",
+        "sentiment_score": -0.29240599274635315
+    },
+    {
+        "title": "O’Rilley y Haaland remontan el gol de Rodrygo antes del descanso (1-2)",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/10/orilley-y-haaland-remontan-el-gol-de-rodrygo-antes-del-descanso-1-2/",
+        "date": "2025-12-10 22:09:12",
+        "sentiment_score": 0.28139229118824005
+    },
+    {
+        "title": "Las mejores fotos del Real Madrid-Manchester City",
+        "image_url": "https://static.grupojoly.com/clip/fa13d459-c7b8-4844-b0cd-1e02643fc95b_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid",
+            "fútbol",
+            "uefa champions league"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/mejores-fotos-real-madrid-manchester-city_3_2005430872.html",
+        "date": "2025-12-10 22:06:19",
+        "sentiment_score": 0.5256071835756302
+    },
+    {
+        "title": "El City deja al Real Madrid de Xabi Alonso en una calle sin salida",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/24b4c1b5-8453-4bfa-8106-09c6853b31be_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "xabi alonso",
+            "real madrid",
+            "manchester city",
+            "champions",
+            "champions league",
+            "liga de campeones",
+            "pep guardiola"
+        ],
+        "link": "https://www.lne.es/deportes/2025/12/10/real-madrid-manchester-city-resultado-goles-resumen-champions-124661942.html",
+        "date": "2025-12-10 21:58:14",
+        "sentiment_score": -0.39242999255657196
+    },
+    {
+        "title": "Marc, el concursante que juega “dopado” a El 1%: ¡ha participado en más de 400 escape rooms!",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/10/05DAEA57-CC71-44FE-997A-D6B22CA6F4F8/marc-concursante-que-juega-dopado-1-participado-mas-400-escape-rooms_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "programas",
+            "el 1 por ciento",
+            "antena3"
+        ],
+        "link": "https://www.antena3.com/programas/el-1-por-ciento/marc-concursante-que-juega-dopado-participado-mas-400-escape-rooms_202512106939f1fe6f86fb0fe9f021f9.html",
+        "date": "2025-12-10 22:19:42",
+        "sentiment_score": 0.7018319517374039
+    },
+    {
+        "title": "Jordi Hurtado confiesa a sus 68 años a qué icónico personaje de 'Barrio Sésamo' puso voz: \"No fui el único que lo dobló\"",
+        "image_url": "https://s3.elespanol.com/2025/12/10/bluper/1003744050509_260417869_1706x960.jpg",
+        "tags": [
+            "saber y ganar",
+            "bluper",
+            "david broncano",
+            "la revuelta",
+            "jordi hurtado"
+        ],
+        "link": "https://www.elespanol.com/bluper/20251210/jordi-hurtado-confiesa-anos-iconico-personaje-barrio-sesamo-puso-voz-no-unico-doblo/1003744050497_0.html",
+        "date": "2025-12-10 22:07:43",
+        "sentiment_score": 0.1487642228603363
+    },
+    {
+        "title": "Derrota dolorosa: Xabi Alonso peligra como técnico del Real Madrid y ya surgen opciones de recambio",
+        "image_url": "https://pxcdn.meridiano.net/122025/1765403773999.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/derrota-dolorosa-xabi-alonso-peligra-como-tecnico-del-real-madrid-y-ya-surgen-opciones-de-recambio-2025121017560",
+        "date": "2025-12-10 21:56:00",
+        "sentiment_score": -0.7633832637220621
+    },
+    {
+        "title": "Airbnb retira 2.479 anuncios irregulares de habitaciones a petición del Ayuntamiento de Barcelona",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/07/08/8B30FB38-E3FD-4A4A-A5D7-7C4B4BE951CE/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/airbnb-retira-2479-anuncios-irregulares-habitaciones-peticion-ayuntamiento-barcelona_202512106939ec63cc0f8a3219a61014.html",
+        "date": "2025-12-10 21:55:47",
+        "sentiment_score": 0.08193869143724442
+    },
+    {
+        "title": "La empresa de videojuegos Socialpoint inaugura un nuevo centro en el 22@ de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/10/economia/1003742715061_15499898_1706x960.jpg",
+        "tags": [
+            "economía",
+            "22@",
+            "empresas barcelona",
+            "videojuegos y gamers"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20251210/empresa-videojuegos-socialpoint-inaugura-nuevo-centro-barcelona/1003742715060_0.html",
+        "date": "2025-12-10 21:52:02",
+        "sentiment_score": 0.6479983925819397
+    },
+    {
+        "title": "2-3. El Villarreal consuma su debacle europea ante el Copenhague",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/10/2-3-el-villarreal-consuma-su-debacle-europea-ante-el-copenhague/",
+        "date": "2025-12-10 21:51:06",
+        "sentiment_score": -0.24380232393741608
+    },
+    {
+        "title": "Sánchez se humilla ante Junts",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f9e45e14-247a-4cee-84fe-90b8fe60458c_alta-libre-aspect-ratio_320w_0.webp",
+        "tags": [
+            "presidente del gobierno",
+            "moción de censura",
+            "moncloa",
+            "sánchez"
+        ],
+        "link": "https://www.lne.es/opinion/2025/12/11/sanchez-humilla-junts-124657737.html",
+        "date": "2025-12-10 21:43:15",
+        "sentiment_score": -0.4073775112628937
+    },
+    {
+        "title": "Celsa completa la refinanciación del grupo por importe de unos 2.000 millones",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/10/celsa-completa-la-refinanciacion-del-grupo-por-importe-de-unos-2000-millones/",
+        "date": "2025-12-10 21:38:17",
+        "sentiment_score": 0.26778434216976166
+    },
+    {
+        "title": "Raúl González, candidato de Juntos X Extremadura-Levanta: \"Si Feijóo quiere un gobierno aquí, tendrá que venir en tren\"",
+        "image_url": "https://static.eldiario.es/clip/b268b055-250a-44ac-a6f8-36897dc91ac6_16-9-discover-aspect-ratio_default_1132229.jpg",
+        "tags": [
+            "extremadura",
+            "josé l. aroca",
+            "badajoz",
+            "jesús conde",
+            "mérida",
+            "actualidad",
+            "política",
+            "sociedad",
+            "cáceres",
+            "agro"
+        ],
+        "link": "https://www.eldiario.es/extremadura/politica/raul-gonzalez-candidato-x-extremadura-levanta-si-feijoo-quiere-gobierno-tendra-venir-tren_128_12832644.html",
+        "date": "2025-12-10 21:36:04",
+        "sentiment_score": -0.018407464027404785
+    },
+    {
+        "title": "Todo sobre Xabi Alonso: su edad, en qué equipos ha estado, qué idiomas habla, quién es su mujer y su padre",
+        "image_url": "https://okdiario.com/img/2025/12/10/xabi-alonso.jpg",
+        "tags": [
+            "real madrid",
+            "deportes",
+            "fútbol",
+            "bayer leverkusen",
+            "xabi alonso"
+        ],
+        "link": "https://okdiario.com/deportes/asi-xabi-alonso-como-entrenador-padre-familia-mujer-edad-futuro-real-madrid-12871673",
+        "date": "2025-12-10 21:35:46",
+        "sentiment_score": -0.12072862684726715
     }
 ];
