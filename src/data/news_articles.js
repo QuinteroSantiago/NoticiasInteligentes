@@ -1,221 +1,5 @@
 export default [
     {
-        "title": "Regreso al pasado",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2d2c34ec-3801-496d-bf39-d41ddae9b02c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pasado",
-            "regreso"
-        ],
-        "link": "https://www.noticiasdenavarra.com/navarra/2025/12/07/regreso-pasado-10444433.html",
-        "date": "2025-12-07 17:00:40",
-        "sentiment_score": 0.12972913682460785
-    },
-    {
-        "title": "El presidente de Melilla denuncia que las promesas de una reapertura de aduanas con Marruecos son una “tomadura de pelo” y asegura que no pasa “ni un yogur”",
-        "image_url": "https://www.infobae.com/resizer/v2/57UXTDJZBZD7TFMIIYVZOR3JCU.jpg?auth=0a94ba2681539ce9e9cc4d4da7775dcd351769540c1e4d7645d808987e381814&height=1280&smart=true&width=1920",
-        "tags": [
-            "gobierno de españa",
-            "partido popular",
-            "psoe",
-            "aduanas",
-            "españa-nacional",
-            "españa-noticias",
-            "política españa",
-            "pp",
-            "melilla",
-            "marruecos"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/07/el-presidente-de-melilla-denuncia-que-las-promesas-de-una-reapertura-de-aduanas-con-marruecos-son-una-tomadura-de-pelo-y-asegura-que-no-pasa-ni-un-yogur/",
-        "date": "2025-12-07 16:37:13",
-        "sentiment_score": -0.837897252291441
-    },
-    {
-        "title": "GALERÍA | Partido del Zamora CF vs Real Madrid Castilla",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3a2a0159-c28e-42cf-8b99-c56c647096f1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "deportes,real madrid,zamora cf"
-        ],
-        "link": "https://www.laopiniondezamora.es/fotos/deportes/2025/12/07/galeria-partido-zamora-cf-vs-124550665.html",
-        "date": "2025-12-07 16:24:07",
-        "sentiment_score": -0.0007473230361938477
-    },
-    {
-        "title": "El Hospital Universitario Infanta Elena celebra su III Jornada de Humanización Sanitaria",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2586464.jpg",
-        "tags": [
-            "sanitatem"
-        ],
-        "link": "https://www.vozpopuli.com/sanitatem/el-hospital-universitario-infanta-elena-celebra-su-iii-jornada-de-humanizacion-sanitaria.html",
-        "date": "2025-12-07 16:19:32",
-        "sentiment_score": 0.0044671520590782166
-    },
-    {
-        "title": "Llull le da el triunfo al Real Madrid en la última jugada ante el Tenerife",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/07/6935a6e870f61.r_d.615-270-9577.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldebate.com/deportes/baloncesto/20251207/llull-le-da-triunfo-real-madrid-ultima-jugada-ante-tenerife_363074.html",
-        "date": "2025-12-07 16:14:24",
-        "sentiment_score": 0.636086817830801
-    },
-    {
-        "title": "Aumentan los jóvenes que se sienten solos y sin nadie real con quien hablar",
-        "image_url": "https://static.grupojoly.com/clip/6c72c0d1-c4f6-4f22-8916-81a45b78534e_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "jovenes",
-            "sienten",
-            "aumentan",
-            "nadie",
-            "solos"
-        ],
-        "link": "https://www.granadahoy.com/sociedad/aumentan-jovenes-sienten-solos-nadie_0_2005406078.html",
-        "date": "2025-12-07 16:12:12",
-        "sentiment_score": -0.6805602665990591
-    },
-    {
-        "title": "El PP reivindica la “revolución industrial” de Juanma Moreno con ejemplos tangibles en Jaén",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251207164349_690.jpg",
-        "tags": [
-            "andalucía"
-        ],
-        "link": "https://www.europapress.es/andalucia/noticia-pp-reivindica-revolucion-industrial-juanma-moreno-ejemplos-tangibles-jaen-20251207164349.html",
-        "date": "2025-12-07 15:43:49",
-        "sentiment_score": 0.41590458154678345
-    },
-    {
-        "title": "Llull firma su enésimo truco de magia para darle la victoria al Real Madrid ante el Tenerife y dejar líderes a los blancos",
-        "image_url": "https://s3.elespanol.com/2025/12/07/actualidad/1003744046262_260363815_1706x960.jpg",
-        "tags": [
-            "deportes",
-            "baloncesto",
-            "real madrid baloncesto"
-        ],
-        "link": "https://www.elespanol.com/deportes/baloncesto/20251207/llull-firma-enesimo-truco-magia-darle-victoria-real-madrid-tenerife-dejar-lideres-blancos/1003744046256_0.html",
-        "date": "2025-12-07 15:34:06",
-        "sentiment_score": 0.3021309971809387
-    },
-    {
-        "title": "Prisión provisional para un vecino de Cornellà detenido por una agresión sexual a una menor",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/02/28/el-pulso-de-la-ciudad/836176501_12526185_1706x960.jpg",
-        "tags": [
-            "cornellà de llobregat",
-            "agresiones sexuales barcelona",
-            "sucesos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sucesos/20251207/prision-provisional-vecino-cornella-detenido-agresion-sexual-menor/1003742714236_0.html",
-        "date": "2025-12-07 17:11:25",
-        "sentiment_score": -0.6959225907921791
-    },
-    {
-        "title": "Manifestantes ondean banderas ucranianas mientras La Scala ofrece una ópera rusa",
-        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/1/f5/1f509f18-2c1a-5900-9350-3daf826b2d9a/69357fa60f3f9.image.jpg?resize=300%2C200",
-        "tags": [
-            "italia la scala opera",
-            "entertainment"
-        ],
-        "link": "https://santamariatimes.com/ap/entertainment/manifestantes-ondean-banderas-ucranianas-mientras-la-scala-ofrece-una-pera-rusa/article_fd85f558-a323-5085-8b2e-c8631dd8fb51.html",
-        "date": "2025-12-07 17:03:29",
-        "sentiment_score": 0.19991091638803482
-    },
-    {
-        "title": "Las renovables retroceden en Cataluña a pesar del fin de la sequía",
-        "image_url": "https://static1.ara.cat/clip/8b90c8a5-a267-424b-b131-b4c3e64a759b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sequia",
-            "cataluna",
-            "retroceden",
-            "pesar",
-            "renovables"
-        ],
-        "link": "https://es.ara.cat/economia/energia/renovables-retroceden-cataluna-pesar-sequia_1_5585766.html",
-        "date": "2025-12-07 17:01:58",
-        "sentiment_score": 0.004830420017242432
-    },
-    {
-        "title": "Jordi Morera: \"El pan bueno no es el demonio de la alimentación ni engorda ni tiene hidratos malos\"",
-        "image_url": "https://static1.ara.cat/clip/5af7bc9f-7528-444c-8cc6-791ff6ccbb5e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "demonio",
-            "jordi",
-            "no",
-            "pan",
-            "alimentacion",
-            "malos",
-            "morera",
-            "engorda",
-            "bueno",
-            "hidratos"
-        ],
-        "link": "https://es.ara.cat/comer/jordi-morera-pan-bueno-no-demonio-alimentacion-engorda-hidratos-malos_1_5585751.html",
-        "date": "2025-12-07 17:00:43",
-        "sentiment_score": -0.8783715106546879
-    },
-    {
-        "title": "La gran cúpula del nuevo pabellón de Fira de Barcelona toma forma",
-        "image_url": "https://static1.ara.cat/clip/3e51f571-fa99-4870-ab35-6284edf228e2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "toma",
-            "barcelona",
-            "forma",
-            "gran",
-            "nuevo",
-            "fira",
-            "cupula",
-            "pabellon"
-        ],
-        "link": "https://es.ara.cat/economia/industria/gran-cupula-nuevo-pabellon-fira-barcelona-toma-forma_1_5585752.html",
-        "date": "2025-12-07 17:00:43",
-        "sentiment_score": 0.44867897778749466
-    },
-    {
-        "title": "Manel Esteller, doctor experto en longevidad: \"Si hacemos las cosas bien, en 100 años veremos personas de 110, 120 o 130 años\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2020/10/06/el-director-del-institut-de-recerca-contra-la-leucemia-josep-carreras-investigador-icrea-y-catedratico-de-la-universitat-de-barcelona-ub-manel-esteller.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/salud/actualidad/longevidad-salud-vivir-mas-100-anos-manel-esteller-experto_6902365_0.html",
-        "date": "2025-12-07 17:00:00",
-        "sentiment_score": 0.5493769943714142
-    },
-    {
-        "title": "Bikini con pimientos de piquillo caramelizados, una receta fácil y deliciosa para triunfar en otoño y reinventar la clásica receta",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/24/69243c1211b143-62062693.jpeg",
-        "tags": [
-            "recetas"
-        ],
-        "link": "https://www.20minutos.es/gastronomia/recetas/bikini-pimientos-piquillo-caramelizados-receta-facil-deliciosa-triunfar-otono-reinventar-clasica-receta_6899760_0.html",
-        "date": "2025-12-07 17:00:00",
-        "sentiment_score": 0.7144318334758282
-    },
-    {
-        "title": "El mercadillo navideño a 2 horas de Barcelona donde luce un Papa Noel de 18 metros de altura",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/02/noria-del-mercadillo-navideno-de-le-barcares-en-2021-al-sur-de-francia.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/el-mercadillo-navideno-2-horas-barcelona-luce-papa-noel-18-metros-altura.html",
-        "date": "2025-12-07 16:58:34",
-        "sentiment_score": 0.09946461021900177
-    },
-    {
-        "title": "¿De verdad puede ‘escaparse’ de un laboratorio un virus como el de la peste porcina? La hipótesis gana peso",
-        "image_url": "https://www.infobae.com/resizer/v2/ROJTZNZBBJCPHPGCOAKXL242RU.jpg?auth=5542dc8a6d5fb1683b83227568ef9b76fe2b84cc0efc9cd496f51c6faa959b65&height=1280&smart=true&width=1920",
-        "tags": [
-            "enfermedades y medicamentos españa",
-            "españa-noticias",
-            "sanidad españa",
-            "cerdos",
-            "cataluña",
-            "españa-sociedad",
-            "enfermedades y medicamentos",
-            "animales"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/07/de-verdad-puede-escaparse-de-un-laboratorio-un-virus-como-el-de-la-peste-porcina-la-hipotesis-gana-peso/",
-        "date": "2025-12-07 16:57:54",
-        "sentiment_score": -0.19159530848264694
-    },
-    {
         "title": "Resumen Real Madrid-Celta de Vigo: Williot ahonda la crisis blanca (0-2)",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/07/image-514e1bbf-9102-4504-a2dd-4d66d60afd9b-85-2560-1440.jpeg",
         "tags": [
@@ -2930,5 +2714,133 @@ export default [
         "link": "https://www.elespanol.com/invertia/medios/20251211/declive-rne-rac1-superado-audiencia-publica-emitiendo-solo-cataluna/1003744049225_0.html",
         "date": "2025-12-11 01:14:47",
         "sentiment_score": -0.06589695811271667
+    },
+    {
+        "title": "La derrota del Real Madrid en Champions y la eliminación del Villarreal, protagonistas de las portadas",
+        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2025/12/11/693a6257d4ae9.jpeg",
+        "tags": [
+            "vaya mundo"
+        ],
+        "link": "https://www.mundodeportivo.com/vaya-mundo/20251211/1002584880/derrota-real-madrid-champions-eliminacion-villarreal-protagonistas-portadas-galeria-dct.html",
+        "date": "2025-12-11 06:31:33",
+        "sentiment_score": 0.19403806328773499
+    },
+    {
+        "title": "De Rodrygo a Jude Bellingham, el vestuario del Real Madrid cierra filas con Xabi Alonso: \"Estamos con nuestro entrenador\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/10/6939f91c3f8316-99307202.r_d.1360-504.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/rodrygo-jude-bellingham-vestuario-real-madrid-cierra-filas-xabi-alonso-estamos-con-nuestro-entrenador_6909031_0.html",
+        "date": "2025-12-11 06:23:37",
+        "sentiment_score": 0.30806534737348557
+    },
+    {
+        "title": "Los españoles expertos en ciberseguridad pueden duplicar su sueldo en Suiza: hasta 180.000 euros al año",
+        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/uploads/imagenes/2024/07/03/68c097b5c7762.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.businessinsider.es/economia/espanoles-expertos-ciberseguridad-duplicar-sueldo-suiza-hasta-180-000-euros-ano_6908770_0.html",
+        "date": "2025-12-11 06:20:00",
+        "sentiment_score": -0.6845530662685633
+    },
+    {
+        "title": "Todos menos uno en Osasuna",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/af2694ae-a320-4d28-8284-3ea1de3b72be_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/11/osasuna-10456179.html",
+        "date": "2025-12-11 06:18:51",
+        "sentiment_score": 0.09868663549423218
+    },
+    {
+        "title": "Pinza de PP y Sumar en el Congreso contra el \"bloqueo\" del PSOE a la ley para nacionalizar saharauis",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/644f6399-cd11-4b85-9142-4b2bce751c21_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sáhara occidental",
+            "política",
+            "naturaleza",
+            "sumar",
+            "psoe",
+            "gobierno",
+            "pp"
+        ],
+        "link": "https://www.lacronicabadajoz.com/nacional/2025/12/11/pinza-pp-sumar-congreso-bloqueo-124666273.html",
+        "date": "2025-12-11 06:18:17",
+        "sentiment_score": -0.016814351081848145
+    },
+    {
+        "title": "Cánovas, la hora en punto de la Barceloneta",
+        "image_url": "https://static1.ara.cat/clip/64cf28a7-7805-4ce3-8a6a-cb523a9da3ab_16-9-aspect-ratio_default_0_x2521y1331.jpg",
+        "tags": [
+            "hora",
+            "punto",
+            "canovas",
+            "barceloneta"
+        ],
+        "link": "https://es.ara.cat/economia/empresas/canovas-hora-punto-barceloneta_1_5588795.html",
+        "date": "2025-12-11 06:30:11",
+        "sentiment_score": -0.11598259210586548
+    },
+    {
+        "title": "El servicio de Renfe en Navarra",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dfd17cd7-b6cc-4060-86de-1b33989c6123_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "renfe",
+            "navarra",
+            "servicio"
+        ],
+        "link": "https://www.noticiasdenavarra.com/opinion/cartas-al-director/2025/12/11/servicio-renfe-navarra-10455893.html",
+        "date": "2025-12-11 06:20:53",
+        "sentiment_score": -0.20833535492420197
+    },
+    {
+        "title": "Boyomo está para irse",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5d0df4ea-fc69-4d4e-8bec-01ed1613ae32_16-9-aspect-ratio_default_0_x899y521.jpg",
+        "tags": [
+            "irse",
+            "boyomo"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/11/boyomo-irse-10456169.html",
+        "date": "2025-12-11 06:18:36",
+        "sentiment_score": -0.021337151527404785
+    },
+    {
+        "title": "Recuperan la conversación con Rosalía que tuvo una fan en 2017: hay que verla para darse cuenta de todo lo que ha cambiado",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/10/la-conversacion-con-rosalia-en-2017-y-recuperada-ahora.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/recuperan-conversacion-rosalia-tuvo-fan-2017-hay-verla-darse-cuenta-cambiado.html",
+        "date": "2025-12-11 06:16:37",
+        "sentiment_score": 0.6676245629787445
+    },
+    {
+        "title": "Es oficial: en verano de 2026 se podrá volar desde el aeropuerto de Bilbao a Cabo Verde",
+        "image_url": "https://okdiario.com/img/2025/12/10/es-oficial-en-verano-de-2026-se-podra-volar-desde-el-aeropuerto-de-bilbao-a-cabo-verde.jpg",
+        "tags": [
+            "españa",
+            "okd",
+            "país vasco",
+            "bilbao"
+        ],
+        "link": "https://okdiario.com/pais-vasco/oficial-verano-2026-podra-volar-desde-aeropuerto-bilbao-cabo-verde-15907986",
+        "date": "2025-12-11 06:15:12",
+        "sentiment_score": 0.2991272658109665
+    },
+    {
+        "title": "La participación de España en el futuro caza europeo mueve a aliarse a empresas e investigadores",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/43faae0f-3f71-4fb5-93b1-6d556eb8e5b2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ministerio de defensa",
+            "tecnología",
+            "armas",
+            "ejército del aire"
+        ],
+        "link": "https://www.laprovincia.es/espana/2025/12/11/participacion-espana-futuro-caza-europeo-mueve-empresas-investigacion-124666075.html",
+        "date": "2025-12-11 06:10:26",
+        "sentiment_score": 0.26211215555667877
     }
 ];
