@@ -2767,5 +2767,168 @@ export default [
         "link": "https://okdiario.com/deportes/asi-xabi-alonso-como-entrenador-padre-familia-mujer-edad-futuro-real-madrid-12871673",
         "date": "2025-12-10 21:35:46",
         "sentiment_score": -0.12072862684726715
+    },
+    {
+        "title": "El #MeToo del PSOE",
+        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050284_260414632_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "psoe (partido socialista obrero español)",
+            "feminismo",
+            "agresiones sexuales",
+            "columnas",
+            "columnas de opinión",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elespanol.com/opinion/columnas/20251211/metoo-psoe/1003744050243_12.html",
+        "date": "2025-12-11 02:19:51",
+        "sentiment_score": -0.9199337335303426
+    },
+    {
+        "title": "¿Hay vida en el Real Madrid sin Kylian Mbappé?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/11/2025121103080644264.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/mbappe-dependencia-es-mas-problema-que-bendicion/20251211030913366528.html",
+        "date": "2025-12-11 02:09:13",
+        "sentiment_score": -0.3404081463813782
+    },
+    {
+        "title": "Así se sabrá si el origen de la peste porcina es un laboratorio o un bocadillo con embutido: \"No descartemos el sabotaje\"",
+        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050311_260415014_1706x960.jpg",
+        "tags": [
+            "ciencia",
+            "microbiología y parasitología",
+            "veterinaria",
+            "peste porcina"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20251211/sabra-origen-peste-porcina-laboratorio-bocadillo-embutido-no-descartemos-sabotaje/1003744050069_0.html",
+        "date": "2025-12-11 02:03:28",
+        "sentiment_score": -0.6044848104938865
+    },
+    {
+        "title": "Habla Nazzaro, el exanalista del FBI que lidera desde Rusia la 'Al-Qaeda' neonazi: \"Los 3 españoles detenidos son presos políticos\"",
+        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050259_260414147_1706x960.jpg",
+        "tags": [
+            "nazismo",
+            "san petersburgo",
+            "sucesos",
+            "reportajes",
+            "entrevistas",
+            "rusia",
+            "terrorismo"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251211/habla-nazzaro-exanalista-fbi-lidera-rusia-al-qaeda-neonazi-espanoles-detenidos-presos-politicos/1003744049993_0.html",
+        "date": "2025-12-11 02:03:22",
+        "sentiment_score": -0.7496971543878317
+    },
+    {
+        "title": "Veinte años sin Julián Marías, el filósofo 'olvidado', crítico de cine y discípulo de Ortega y Gasset",
+        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/12/fotonoticia-20080109215159-412_1600_1067.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://elcierredigital.com/cultura/veinte-anos-sin-julian-marias-filosofo-olvidado-critico-cine-discipulo-ortega-gasset",
+        "date": "2025-12-11 02:00:00",
+        "sentiment_score": 0.21200091019272804
+    },
+    {
+        "title": "Respaldado por sus jugadores, Xabi Alonso confía en que el Madrid superará mal momento",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/12/CAMPEONES_REAL_MADRID-ALONSO_17257.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2025/12/10/respaldado-por-sus-jugadores-xabi-alonso-confa-en-que-el-madrid-superar-mal-momento/",
+        "date": "2025-12-11 00:57:30",
+        "sentiment_score": 0.3754350543022156
+    },
+    {
+        "title": "Respaldado por sus jugadores, Xabi Alonso confía en que el Madrid superará mal momento",
+        "image_url": "https://dims.apnews.com/dims4/default/dea9c2e/2147483647/strip/true/crop/8640x5751+0+5/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2Fb1%2Ff042834e87391a293839c76fa608%2F9c24dac05b364b31a0c35838b54da093",
+        "tags": [
+            "sports",
+            "deportes",
+            "champions league xabi alonso manchester city"
+        ],
+        "link": "https://apnews.com/article/champions-league-xabi-alonso-manchester-city-46f12eaba2bfcbfd1cd1a2d3fc2135e3",
+        "date": "2025-12-11 00:57:30",
+        "sentiment_score": 0.6354370340704918
+    },
+    {
+        "title": "Barça Legends y Real Madrid Leyendas jugarán en el BMO Stadium de Los Ángeles en 2026",
+        "image_url": "https://i.headtopics.com/images/2025/12/10/latimes/barca-legends-y-real-madrid-leyendas-jugar-n-en-el-barca-legends-y-real-madrid-leyendas-jugar-n-en-el-40A17EC5DDF90662DDF531AC789E4D64.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://headtopics.com/news/barca-legends-y-real-madrid-leyendas-jugar-n-en-el-bmo-77013069",
+        "date": "2025-12-11 00:39:01",
+        "sentiment_score": 0.836355235427618
+    },
+    {
+        "title": "Inter Miami de Messi jugará en Ecuador contra este histórico equipo",
+        "image_url": "https://pxcdn.meridiano.net/122025/1765420872842.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/inter-miami-de-messi-jugara-en-ecuador-contra-este-historico-equipo--2025121022140",
+        "date": "2025-12-11 02:14:00",
+        "sentiment_score": 0.5887435264885426
+    },
+    {
+        "title": "La teunolóxica catalana ByteTravel va tener la so sede asturiana en L'Entregu",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6cd8c60a-a687-4709-ad76-f3b5a6cbb014_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "el entrego",
+            "nalón",
+            "empresas",
+            "digital"
+        ],
+        "link": "https://www.lne.es/asturias/n-asturianu/2025/12/11/teunoloxica-catalana-bytetravel-sede-asturiana-124528155.html",
+        "date": "2025-12-11 02:00:53",
+        "sentiment_score": 0.00044021010398864746
+    },
+    {
+        "title": "Marli Salmon, defensa de 16 años, debuta en la Champions con el Arsenal",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "deportes",
+            "arsenal salmon 16 anos champions league",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/arsenal-salmon-16-anos-champions-league-73b3cd21b5d9751a9a711b7835301b89",
+        "date": "2025-12-11 01:41:22",
+        "sentiment_score": 0.6353338435292244
+    },
+    {
+        "title": "Marli Salmon, defensa de 16 años, debuta en la Champions con el Arsenal",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2021/08/readeag.jpg",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/12/10/marli-salmon-defensa-de-16-aos-debuta-en-la-champions-con-el-arsenal/",
+        "date": "2025-12-11 01:41:21",
+        "sentiment_score": 0.4352986589074135
+    },
+    {
+        "title": "El declive de RNE: RAC1 ha superado en audiencia a la pública durante todo 2025 emitiendo sólo en Cataluña",
+        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050350_260415600_1706x960.jpg",
+        "tags": [
+            "rne",
+            "audiencia de medios",
+            "rtve (radiotelevisión española)",
+            "radio",
+            "sector audiovisual",
+            "medios",
+            "rac1",
+            "medios de comunicación",
+            "egm estudio general de medios",
+            "grupos de comunicación"
+        ],
+        "link": "https://www.elespanol.com/invertia/medios/20251211/declive-rne-rac1-superado-audiencia-publica-emitiendo-solo-cataluna/1003744049225_0.html",
+        "date": "2025-12-11 01:14:47",
+        "sentiment_score": -0.06589695811271667
     }
 ];
