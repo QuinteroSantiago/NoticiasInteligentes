@@ -1,423 +1,5 @@
 export default [
     {
-        "title": "Un misil de Berenguer descuelga al Atlético",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/0f5da37d-6024-4d2f-84e62b02a4f12711.jpg",
-        "tags": [
-            "aymeric laporte",
-            "real madrid",
-            "nico williams",
-            "fc barcelona",
-            "ernesto valverde",
-            "san mamés",
-            "psg",
-            "nico gonzález",
-            "bilbao",
-            "antoine griezmann",
-            "athletic club",
-            "laliga ea sports",
-            "atlético de madrid"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z1896f121-d51a-4db7-9f3b028946d7cca4/202512/un-misil-de-berenguer-descuelga-al-atletico",
-        "date": "2025-12-06 22:15:48",
-        "sentiment_score": -0.8225658144801855
-    },
-    {
-        "title": "Berenguer tumba al Atlético en San Mamés",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/06/cronica-athletic-atletico-kz0H-U240475268949ORB-1200x840@RC.jpg",
-        "tags": [
-            "antoine griezmann",
-            "athletic de bilbao",
-            "atlético de madrid",
-            "liga de fútbol profesional"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/cronica-athletic-atletico-20251206223726-ntrc.html",
-        "date": "2025-12-06 22:14:21",
-        "sentiment_score": -0.9075388722121716
-    },
-    {
-        "title": "Las notas de Pako Ruiz: Nico Williams resurge y decide",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/25482ffc-3d02-4bdf-b047-17c30f8575b3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "notas",
-            "williams",
-            "ruiz",
-            "nico",
-            "decide",
-            "pako",
-            "resurge"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/12/06/notas-pako-ruiz-nico-williams-resurge-decide-10442937.html",
-        "date": "2025-12-06 22:11:34",
-        "sentiment_score": 0.8725771643221378
-    },
-    {
-        "title": "El Atlético se hace pequeño en San Mamés y cede terreno en su lucha por la Liga",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/06/6934a76305e10.r_d.2667-825-3066.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251206/atletico-hace-pequeno-san-mames-cede-terreno-lucha-liga_362970.html",
-        "date": "2025-12-06 22:08:05",
-        "sentiment_score": 0.16290003061294556
-    },
-    {
-        "title": "El negocio de 'encender' la Navidad: 100 millones y carreras por iluminar más",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/06/fotolead-pradonegro1200-kXCC--562x562@RC.jpg",
-        "tags": [
-            "navidad",
-            "españa",
-            "historias visuales",
-            "abel caballero álvarez",
-            "vigo"
-        ],
-        "link": "https://www.canarias7.es/economia/negocio-encender-navidad-100-millones-carreras-iluminar-20251207000705-ntrc.html",
-        "date": "2025-12-06 22:07:08",
-        "sentiment_score": 0.7381919175386429
-    },
-    {
-        "title": "Las imágenes del Real Madrid-Real",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3712c5c6-123a-403a-a217-084210237654_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "real",
-            "imagenes"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/fotos/2025/12/06/imagenes-real-madrid-real-10443379.html",
-        "date": "2025-12-06 21:56:41",
-        "sentiment_score": -0.7913955822587013
-    },
-    {
-        "title": "La comunidad venezolana en Madrid respalda a María Corina Machado a pocos días de recibir el Nobel de la Paz",
-        "image_url": "https://www.infobae.com/resizer/v2/PPLJNSJFBFDKDG522LY3PO4WTQ.jpg?auth=1046d670f53c4598e2383f066518347837bda6586279b6f066255fb604d6c6eb&height=3461&smart=true&width=5191",
-        "tags": [
-            "españa-noticias",
-            "españa-sociedad",
-            "premio nobel de la paz",
-            "nicolás maduro",
-            "edmundo gonzález urrutia",
-            "maria corina machado",
-            "donald trump",
-            "antonio ledezma",
-            "madrid"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/06/la-comunidad-venezolana-en-madrid-respalda-a-maria-corina-machado-a-pocos-dias-de-recibir-el-nobel-de-la-paz/",
-        "date": "2025-12-06 21:56:10",
-        "sentiment_score": 0.03351348266005516
-    },
-    {
-        "title": "El show de Messi para darle el título de la MLS al Inter Miami: asistencia clave para De Paul y un pase genial que enloqueció a Mascherano",
-        "image_url": "https://www.infobae.com/resizer/v2/JFUTWGZFBZC2TMREHPUP653JBY.JPG?auth=0beca941b75ee033ab1fdf86093253bfe923b1ca5ccf7561e1114b354601f5c0&height=2287&smart=true&width=4065",
-        "tags": [
-            "deportes-argentina",
-            "mls",
-            "inter miami",
-            "lionel messi",
-            "vancouver whitecaps",
-            "thomas müller",
-            "rodrigo de paul"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/06/el-show-de-messi-para-darle-el-titulo-de-la-mls-al-inter-miami-asistencia-clave-para-de-paul-y-un-pase-genial-que-enloquecio-a-mascherano/",
-        "date": "2025-12-06 21:52:18",
-        "sentiment_score": 0.6661940887570381
-    },
-    {
-        "title": "La fuerte patada de Cubas a Messi en la final de la MLS entre Inter Miami y Vancouver Whitecaps: el antecedente",
-        "image_url": "https://www.infobae.com/resizer/v2/SF6Z2Q76UNE6TDOP5FCASPJ3TQ.JPG?auth=48a1638fb4572d64ed0479483764f8e05ab033a8d3ddaae59c38ed6d5ce4ae3c&height=2235&smart=true&width=3973",
-        "tags": [
-            "lionel messi",
-            "mls",
-            "deportes-argentina",
-            "vancouver whitecaps",
-            "inter miami",
-            "andrés cubas"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/06/la-fuerte-patada-de-cubas-a-messi-en-la-final-de-la-mls-entre-inter-miami-y-vancouver-whitecaps-el-antecedente-previo/",
-        "date": "2025-12-06 22:08:59",
-        "sentiment_score": -0.9178457725793123
-    },
-    {
-        "title": "Busquets y Jordi Alba cuelgan las botas ganando la MLS con el Inter Miami",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/06/6934a532bdf58.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/busquets-jordi-alba-cuelgan-botas-ganando-mls-inter-miami-20251206_3266934.html",
-        "date": "2025-12-06 22:06:03",
-        "sentiment_score": 0.005622148513793945
-    },
-    {
-        "title": "\"Las líneas eléctricas se están convirtiendo en el motor clave para el impulso de la industria en Cataluña\"",
-        "image_url": "https://static1.ara.cat/clip/078a8044-6c32-4c0c-bce3-0ef998ea6169_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lineas",
-            "motor",
-            "industria",
-            "impulso",
-            "clave",
-            "cataluna",
-            "electricas",
-            "convirtiendo"
-        ],
-        "link": "https://es.ara.cat/misc/lineas-electricas-convirtiendo-motor-clave-impulso-industria-cataluna_128_5585400.html",
-        "date": "2025-12-06 22:01:17",
-        "sentiment_score": 0.30784180760383606
-    },
-    {
-        "title": "Factorenergía: 25 años impulsando un modelo energético más limpio, cercano y participativo",
-        "image_url": "https://static1.ara.cat/clip/edce8273-dc98-46cf-80a5-488f57e4fd9c_16-9-aspect-ratio_default_0.png",
-        "tags": [
-            "participativo",
-            "anos",
-            "energetico",
-            "modelo",
-            "limpio",
-            "25",
-            "impulsando",
-            "cercano",
-            "factorenergia"
-        ],
-        "link": "https://es.ara.cat/misc/factorenergia-25-anos-impulsando-modelo-energetico-limpio-cercano-participativo_1_5585384.html",
-        "date": "2025-12-06 22:01:10",
-        "sentiment_score": 0.6951348930597305
-    },
-    {
-        "title": "Un zarpazo del Athletic aleja al Atlético de la Liga",
-        "image_url": "https://okdiario.com/img/2025/12/06/cronica-atletico-interior.jpg",
-        "tags": [
-            "athletic club de bilbao",
-            "fútbol",
-            "la liga",
-            "deportes",
-            "atlético de madrid"
-        ],
-        "link": "https://okdiario.com/deportes/zarpazo-del-athletic-aleja-atletico-liga-15895029",
-        "date": "2025-12-06 21:59:35",
-        "sentiment_score": -0.45337817072868347
-    },
-    {
-        "title": "Aiko quiere ser emperatriz",
-        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "emperatriz",
-            "aiko",
-            "quiere"
-        ],
-        "link": "https://www.diariodejerez.es/opinion/articulos/aiko-quiere-emperatriz_0_2005404331.html",
-        "date": "2025-12-07 02:08:54",
-        "sentiment_score": -0.20108169317245483
-    },
-    {
-        "title": "Centros de datos que esperan \"enchufarse\" a la red: 12 GW de potencia y 240.000 millones de euros que podrían invertirse",
-        "image_url": "https://s3.elespanol.com/2025/10/04/actualidad/1003743954977_259177288_1706x960.jpg",
-        "tags": [
-            "energía - consumo",
-            "centros de datos",
-            "observatorio de la energía",
-            "electricidad",
-            "almacenamiento energético"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/energia/20251207/centros-datos-esperan-enchufarse-red-gw-potencia-millones-euros-podrian-invertirse/1003744044684_0.html",
-        "date": "2025-12-07 01:30:14",
-        "sentiment_score": 0.34685781598091125
-    },
-    {
-        "title": "Al CB Canarias solo le vale un encuentro redondo para ganarle al Real Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f25640af-8771-4cb9-95f5-b1e11f059322_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid",
-            "txus vidorreta",
-            "canarias",
-            "tenerife",
-            "cb canarias"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/07/cb-canarias-le-vale-encuentro-124533404.html",
-        "date": "2025-12-07 01:16:45",
-        "sentiment_score": -0.24150358140468597
-    },
-    {
-        "title": "Mbappé y Vinicius para enfrentar al Celta en el Bernabéu ante medirse al City",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/26/2025102618542915372.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/madrid-afila-mbappe-vinicius-seguir-vivo-antes-city/20251207020408366113.html",
-        "date": "2025-12-07 01:04:08",
-        "sentiment_score": -0.6578100882470608
-    },
-    {
-        "title": "Mbappé y Vinicius listos para el Celta en el Bernabéu antes del duelo con el City",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/26/2025102618542915372.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/madrid-afila-mbappe-vinicius-seguir-vivo-antes-city/20251207020216366113.html",
-        "date": "2025-12-07 01:02:16",
-        "sentiment_score": -0.6578100882470608
-    },
-    {
-        "title": "Álex Seco te asegura entre un 12 y un 15% del beneficio al invertir con él en vivienda: \"En un año ganas 1.500€ si pones 10.000€\"",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744044843_260345061_1706x960.jpg",
-        "tags": [
-            "sector inmobiliario",
-            "sociedad",
-            "madrid",
-            "comunidad de madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251207/alex-seco-asegura-beneficio-invertir-vivienda-ano-ganas-pones/1003744038425_0.html",
-        "date": "2025-12-07 01:00:00",
-        "sentiment_score": 0.6312936898320913
-    },
-    {
-        "title": "Eduardo Casanova: \"Soy más amigo de Satán, la Iglesia ha hecho muchísimo daño a la hora de silenciar el VIH\"",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045102_260348532_1706x960.jpg",
-        "tags": [
-            "porfolio",
-            "entrevistas",
-            "eduardo casanova",
-            "reportajes",
-            "actores"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251207/eduardo-casanova-amigo-satan-iglesia-hecho-muchisimo-dano-hora-silenciar-vih/1003744044965_0.html",
-        "date": "2025-12-07 00:40:00",
-        "sentiment_score": -0.5187882483005524
-    },
-    {
-        "title": "Sánchez, del macromachismo al micromachismo: de las saunas de Sabiniano a las escorts de Ábalos y la bragueta de Salazar",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045127_260348923_1706x960.jpg",
-        "tags": [
-            "acoso sexual",
-            "josé luis ábalos",
-            "machismo",
-            "porfolio",
-            "pedro sánchez",
-            "víctor ábalos",
-            "reportajes",
-            "begoña gómez"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251207/sanchez-macromachismo-micromachismo-saunas-sabiniano-escorts-abalos-bragueta-salazar/1003744039239_0.html",
-        "date": "2025-12-07 00:40:00",
-        "sentiment_score": -0.8119309023022652
-    },
-    {
-        "title": "Los puentes de Laporta funcionan: la Superliga, dispuesta a negociar con la UEFA (con condiciones)",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/06/culemania/palco/1003742695161_15300500_1706x960.jpg",
-        "tags": [
-            "nasser al-khelaifi",
-            "florentino pérez",
-            "joan laporta",
-            "barça",
-            "superliga",
-            "uefa",
-            "palco",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251207/laporta-funcionan-superliga-dispuesta-negociar-uefa-condiciones/1003742714166_0.html",
-        "date": "2025-12-07 00:06:33",
-        "sentiment_score": 0.26314011216163635
-    },
-    {
-        "title": "2a PARTE | 06 DIC 2025 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/2a-parte-06-dic-2025-juego-20251207_3266944.html",
-        "date": "2025-12-07 00:01:27",
-        "sentiment_score": -0.026996612548828125
-    },
-    {
-        "title": "Paco",
-        "image_url": "https://static.grupojoly.com/clip/5cc350cc-5f5d-4ad5-9247-93f0e00a61c1_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "paco"
-        ],
-        "link": "https://www.diariodejerez.es/opinion/articulos/paco_0_2005404338.html",
-        "date": "2025-12-07 02:08:57",
-        "sentiment_score": -0.2162807285785675
-    },
-    {
-        "title": "Shakira y Piqué sorprenden con una posible tregua: se rumora una reconciliación tras retomar el diálogo sin intermediarios",
-        "image_url": "https://www.infobae.com/resizer/v2/PFBSNACZZ5FDXMPPRPYPNHXEGQ.jpg?auth=a89d245965cf06892022fab595893d0c801aa82d9cbb63502362a32ec2e00acc&height=540&smart=true&width=960",
-        "tags": [
-            "shakira",
-            "colombia-entretenimiento",
-            "hijos de shakira",
-            "tour shakira",
-            "reconciliación shakira",
-            "shakira y piqué",
-            "gerard piqué",
-            "colombia-noticias"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/12/07/shakira-y-pique-sorprenden-con-una-posible-tregua-se-rumora-una-reconciliacion-tras-retomar-el-dialogo-sin-intermediarios/",
-        "date": "2025-12-07 01:02:01",
-        "sentiment_score": -0.13514091074466705
-    },
-    {
-        "title": "El imperio de Julita, con 9 tiendas 'rosas' de tartas de queso, llega a Alcalá: \"Facturo 4.000 euros al día en cada una\"",
-        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043186_260323355_1706x960.jpg",
-        "tags": [
-            "tienda",
-            "ocio",
-            "tiendas",
-            "tarta",
-            "queso",
-            "alcalá de henares"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20251207/imperio-julita-tiendas-rosas-tartas-queso-llega-alcala-facturo-euros-dia/1003744043061_0.html",
-        "date": "2025-12-07 01:00:00",
-        "sentiment_score": -0.12361681461334229
-    },
-    {
-        "title": "Marwa Arsanios: mapas de desposesión y resistencia en el Artium de Vitoria",
-        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027704_260120524_1706x960.jpg",
-        "tags": [
-            "vitoria (municipio)",
-            "arte",
-            "ec-critica-arte",
-            "exposiciones"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20251207/marwa-arsanios-mapas-desposesion-resistencia-artium-vitoria/1003744027662_0.html",
-        "date": "2025-12-07 00:55:00",
-        "sentiment_score": 0.3419988378882408
-    },
-    {
-        "title": "El Athletic manda al Atlético a 9 puntos del lidertato del Barça",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/07/2025120701463953434.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/alex-berenguer-manda-atletico-9-pu/20251207014702366112.html",
-        "date": "2025-12-07 00:47:02",
-        "sentiment_score": -0.4873180687427521
-    },
-    {
-        "title": "Leipzig-Eintracht Frankfurt: Set en blanco en contra antes del Camp Nou (6-0)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/06/image-b5024126-480c-495b-8d33-d37ed7f9e21a-85-2560-1440.jpeg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/futbol/bundesliga/2025-2026/leipzig-eintracht-frankfurt-resumen-resultado-goles-jornada-13-highlights-hoy_vid60040711/video.shtml",
-        "date": "2025-12-07 00:30:59",
-        "sentiment_score": 0.201725572347641
-    },
-    {
-        "title": "Jorge Mendes se reinventa y gana más poder en el Barça: Laporta reconstruye las secciones bajo la bandera de Gestifute",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/05/culemania/primer-equipo/1003742713945_15486619_1706x960.jpg",
-        "tags": [
-            "lamine yamal",
-            "fcbfemeni",
-            "barça de balonmano",
-            "alejandro balde",
-            "palco",
-            "jorge mendes",
-            "barça femenino"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251207/jorge-mendes-reinventa-barca-laporta-reconstruye-gestifute/1003742713784_0.html",
-        "date": "2025-12-07 00:06:53",
-        "sentiment_score": -0.0018222033977508545
-    },
-    {
         "title": "El patrimonio de Sabina tras su jubilación, más allá de su icónico y lujoso piso en Lavapiés",
         "image_url": "https://theobjective.com/wp-content/uploads/2025/12/sabina-patrimonio.jpeg",
         "tags": [
@@ -2908,5 +2490,246 @@ export default [
         "link": "https://www.lavanguardia.com/magazine/viajes/20251210/11328468/ruta-literaria-barcelona-la-sombra-del-viento-ruiz-zafon.html",
         "date": "2025-12-10 06:00:00",
         "sentiment_score": 0.438973693177104
+    },
+    {
+        "title": "De Tocorón a São Paulo: Por qué las cárceles de América Latina crean algunas de las pandillas más letales del mundo",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/09/Captura-de-pantalla-2025-09-24-064217.jpg",
+        "tags": [
+            "cárceles",
+            "internacionales",
+            "nacionales",
+            "destacados",
+            "américa latina",
+            "tocorón a são paulo"
+        ],
+        "link": "https://lapatilla.com/2025/12/10/de-tocoron-a-sao-paulo-por-que-las-carceles-de-america-latina-crean-algunas-de-las-pandillas-mas-letales-del-mundo/",
+        "date": "2025-12-10 11:50:33",
+        "sentiment_score": -0.5462710857391357
+    },
+    {
+        "title": "Android recibe las videollamadas para contactar con los servicios de emergencia",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251210181056_690.jpg",
+        "tags": [
+            "software",
+            "portaltic"
+        ],
+        "link": "https://www.europapress.es/portaltic/software/noticia-android-recibe-videollamadas-contactar-servicios-emergencia-20251210181056.html",
+        "date": "2025-12-10 17:10:56",
+        "sentiment_score": 0.589651420712471
+    },
+    {
+        "title": "España retrocede en felicidad por la vivienda, la precariedad y la inseguridad",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/12/10/2025121018051696192.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.clm24.es/articulo/sociedad/espana-pierde-puntos-felicidad-vivienda-precariedad-inseguridad/20251210180741465940.html",
+        "date": "2025-12-10 17:07:41",
+        "sentiment_score": 0.08723651617765427
+    },
+    {
+        "title": "COPADE concluye 'Del Bosque a tu Casa', un proyecto que combate la despoblación rural con innovación tecnológica",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251210180656_260.jpg",
+        "tags": [
+            "responsables",
+            "ep social"
+        ],
+        "link": "https://www.europapress.es/epsocial/responsables/noticia-copade-concluye-bosque-casa-proyecto-combate-despoblacion-rural-innovacion-tecnologica-20251210180656.html",
+        "date": "2025-12-10 17:06:56",
+        "sentiment_score": 0.5707686208188534
+    },
+    {
+        "title": "Cinco detenidos por secuestrar y asesinar a un hombre en Mijas para robarle sus criptomonedas",
+        "image_url": "https://okdiario.com/img/2025/12/10/captura-de-pantalla-2025-12-10-a-las-17.59.03.jpg",
+        "tags": [
+            "mijas",
+            "sucesos",
+            "criptomonedas",
+            "españa",
+            "málaga",
+            "asesinatos",
+            "andalucía"
+        ],
+        "link": "https://okdiario.com/andalucia/cinco-detenidos-secuestrar-asesinar-hombre-mijas-robarle-sus-criptomonedas-15912894",
+        "date": "2025-12-10 17:06:34",
+        "sentiment_score": -0.8035711105912924
+    },
+    {
+        "title": "La vez que Pep regresó al Bernabéu por Champions y eclipsó el Madrid-City con un guiño secreto a Nadal",
+        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050030_260411411_1706x960.jpg",
+        "tags": [
+            "pep guardiola",
+            "fútbol",
+            "rafael nadal"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251210/vez-pep-regreso-bernabeu-champions-eclipso-madrid-city-guino-secreto-nadal/1003744049955_0.html",
+        "date": "2025-12-10 17:06:24",
+        "sentiment_score": 0.8695161733776331
+    },
+    {
+        "title": "17:00H | 10 DIC 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-10-dic-2025-tarde-20251210_3268810.html",
+        "date": "2025-12-10 17:04:00",
+        "sentiment_score": -0.1640389859676361
+    },
+    {
+        "title": "La San Silvestre va camino de batir su propio récord",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/a0b31f41-9127-49a2-8ec61717b72a0c1e.jpg",
+        "tags": [
+            "san silvestre",
+            "universidad de castilla-la mancha",
+            "san clemente",
+            "guadalajara",
+            "puente viejo de talavera",
+            "udat",
+            "jardines del prado",
+            "avenida de madrid",
+            "avenida real fábrica de sedas",
+            "avenida castilla la mancha",
+            "avenida de castilla",
+            "españa",
+            "atletismo",
+            "extremadura",
+            "castilla-la mancha",
+            "talavera de la reina",
+            "la lanera"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zf55dfaf3-7ae4-48e9-b1a94165a9ce4ea9/202512/la-san-silvestre-va-camino-de-batir-su-propio-record",
+        "date": "2025-12-10 17:02:15",
+        "sentiment_score": 0.8711962047964334
+    },
+    {
+        "title": "Guardia Civil detecta alquileres fraudulentos en diferentes ciudades usando este tipo de anuncios",
+        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/d/8/5/guardia-civil.jpg",
+        "tags": [
+            "vivienda-inmobiliario"
+        ],
+        "link": "https://www.eleconomista.es/vivienda-inmobiliario/noticias/13685254/12/25/guardia-civil-detecta-alquileres-fraudulentos-en-diferentes-ciudades-usando-este-tipo-de-anuncios.html",
+        "date": "2025-12-10 17:02:03",
+        "sentiment_score": -0.7218001298606396
+    },
+    {
+        "title": "Hartazgo e insatisfacción: Froilán contradice las palabras de Juan Carlos I en 'Reconciliación' sobre su vida en Abu Dabi",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/10/felipe-juan-froilan-de-marichalar-hijo-de-la-infanta-elena-y-nieto-del-rey-juan-carlos-en-una-visita-al-hospital-a-su-abuelo.jpeg",
+        "tags": [
+            "influencers y celebrities"
+        ],
+        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/hartazgo-e-insatisfaccion-froilan-contradice-palabras-juan-carlos-i-reconciliacion-sobre-vida-abu-dabi.html",
+        "date": "2025-12-10 16:52:40",
+        "sentiment_score": -0.346218079328537
+    },
+    {
+        "title": "La nueva aventura de Pablo Laso en Turquía tras ser descartado por la selección española",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/09/24/66f2cb45d8fc5.r_d.808-449.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.eldebate.com/deportes/baloncesto/20251210/nueva-aventura-pablo-laso-turquia-descartado-seleccion-espanola_364044.html",
+        "date": "2025-12-10 16:32:28",
+        "sentiment_score": -0.4948815032839775
+    },
+    {
+        "title": "Greenpeace defiende que cazar jabalíes expande la peste porcina africana y protege a la industria",
+        "image_url": "https://okdiario.com/img/2025/12/10/jabalies-peste.jpg",
+        "tags": [
+            "greenpeace",
+            "caza",
+            "okgreen",
+            "green - biodiversidad"
+        ],
+        "link": "https://okdiario.com/okgreen/greenpeace-defiende-que-cazar-jabalies-expande-peste-porcina-africana-protege-industria-15912813",
+        "date": "2025-12-10 17:12:54",
+        "sentiment_score": -0.5190003663301468
+    },
+    {
+        "title": "La alcaldesa Morales, en el coloquio de EL PERIÓDICO en Viladecans: Sorprende que en el Pleno con más mujeres de nuestra historia no haya acuerdos para el 8-M",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dce53c88-dcab-4126-b0c4-7e658bdf1ee0_source-aspect-ratio_default_0_x945y520.jpg",
+        "tags": [
+            "viladecans",
+            "alcaldes"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20251210/alcaldesa-morales-coloquio-periodico-viladecans-sorprende-pleno-mas-mujeres-nuestra-historia-no-haya-acuerdo-8m-124648960",
+        "date": "2025-12-10 17:12:15",
+        "sentiment_score": 0.04146541655063629
+    },
+    {
+        "title": "PortAventura World genera un impacto anual de 600 millones en la economía española",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/91c7dbb2bbf989b2b179dc704b5ba523/crop/328x130/1966x1222/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/10/17653862513828.jpg",
+        "tags": [
+            "turismo>",
+            "cataluña>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2025/12/10/69398fe8468aeb2f748b4594.html",
+        "date": "2025-12-10 17:10:06",
+        "sentiment_score": 0.14592069759964943
+    },
+    {
+        "title": "Susana (79), autónoma jubilada, con una pensión de 800 euros: “Llevo 56 años de alquiler, nunca he podido pagar un piso”",
+        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043607_260328649_1706x960.jpg",
+        "tags": [
+            "soft",
+            "autónomos",
+            "jubilación",
+            "sociedad",
+            "jubilados"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251210/susana-autonoma-jubilada-pension-euros-llevo-anos-alquiler-nunca-podido-pagar-piso/1003744043476_0.html",
+        "date": "2025-12-10 17:08:26",
+        "sentiment_score": 0.07340320944786072
+    },
+    {
+        "title": "Miguel Félix Chicón, histórico jefe de Salvamento en Baleares, presenta 'Navegar es necesario'",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/10/6939a822dcc22.r_d.971-17-7500.jpeg",
+        "tags": [
+            "baleares"
+        ],
+        "link": "https://www.eldebate.com/espana/baleares/20251210/miguel-felix-chicon-historico-jefe-salvamento-baleares-presenta-navegar-necesario_364077.html",
+        "date": "2025-12-10 17:05:32",
+        "sentiment_score": 0.007874622941017151
+    },
+    {
+        "title": "Hallados tres jabalís muertos en una misma tarde en el Vallès en plena alerta por la peste porcina",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4b4ab6c2-ac41-4432-8f65-aa0f2df5adff_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "peste porcina"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20251210/hallados-jabalies-muertos-b-124-animales-sabadell-castellar-agents-rurals-mossos-124652020",
+        "date": "2025-12-10 17:04:30",
+        "sentiment_score": -0.8653359906747937
+    },
+    {
+        "title": "Cataluña prevé reducir a la mitad la población de jabalíes, que cifra en 125.000",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251210171235-1.jpg?fit=1920%2C1513&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/catalua-prev-reducir-a-la-mitad-la-poblacin-de-jabales-que-cifra-en-125-000-2/",
+        "date": "2025-12-10 17:00:15",
+        "sentiment_score": -0.3751445710659027
+    },
+    {
+        "title": "El Titanic atracará en València con una experiencia inmersiva en Bombas Gens",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7d79b19b-cf53-47bb-8dd9-245209a3bfef_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bombas gens",
+            "planes",
+            "luz",
+            "arte",
+            "programación",
+            "exposició",
+            "frida kahlo",
+            "exposiciones",
+            "exposición",
+            "plan",
+            "cultura"
+        ],
+        "link": "https://www.levante-emv.com/cultura/2025/12/10/titanic-atracara-valencia-experiencia-inmersiva-124636486.html",
+        "date": "2025-12-10 17:00:12",
+        "sentiment_score": 0.10188153386116028
     }
 ];
