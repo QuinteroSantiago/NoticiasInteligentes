@@ -1,327 +1,5 @@
 export default [
     {
-        "title": "Resumen Real Madrid-Celta de Vigo: Williot ahonda la crisis blanca (0-2)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/07/image-514e1bbf-9102-4504-a2dd-4d66d60afd9b-85-2560-1440.jpeg",
-        "tags": [
-            "entertainment",
-            "top"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/la-liga/2025-2026/video-resumen-real-madrid-celta-de-vigo-goles-resultado-highlights-williot-carreras-fran-garcia-mbappe_vid60040990/video.shtml",
-        "date": "2025-12-07 22:19:18",
-        "sentiment_score": 0.5898917019367218
-    },
-    {
-        "title": "Borja Iglesias, sobre el triunfo del Celta en el Bernabéu: «Ha sido tremendo»",
-        "image_url": "https://cflvdg.avoz.es/sc/liJiRnwKOxtfPiDyj1g_s4EVPFo=/768x/2025/12/07/00121765145462042998396/Foto/eup_20251207_215651786.jpg",
-        "tags": [
-            "borja iglesias",
-            "celta",
-            "grada de río"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/gradario/2025/12/07/borja-iglesias-sobre-triunfo-celta-bernabeu-tremendo/00031765145446475269363.htm",
-        "date": "2025-12-07 22:12:00",
-        "sentiment_score": 0.6917963474988937
-    },
-    {
-        "title": "El Celta ridiculiza al Real Madrid en el Bernabéu",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e468312a-7884-462d-9a85-c802683c77c2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "real madrid"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/12/07/real-madrid-celta-laliga-resumen-resultado-futbol-124557719.html",
-        "date": "2025-12-07 22:06:43",
-        "sentiment_score": -0.1927720010280609
-    },
-    {
-        "title": "Comprobar Quinigol: resultados del 7 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
-        "tags": [
-            "quinigol",
-            "españa-loterias",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/07/quinigol-resultados-del-7-de-diciembre/",
-        "date": "2025-12-07 22:05:14",
-        "sentiment_score": 0.1734202764928341
-    },
-    {
-        "title": "Cuando el modernismo se quiebra en Barcelona",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/78e49461-a111-4e78-a5d33f50b9119e3e.png",
-        "tags": [
-            "desigualdad",
-            "corrupción",
-            "eixample",
-            "thriller",
-            "crímenes",
-            "barcelona",
-            "novela",
-            "violencia",
-            "sagrada familia",
-            "antoni gaudí"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/z58815727-6ad6-436e-a7b48829ee6425a3/202512/cuando-el-modernismo-se-quiebra-en-barcelona",
-        "date": "2025-12-07 22:18:12",
-        "sentiment_score": 0.5318169146776199
-    },
-    {
-        "title": "El aguilando sale a la calle para anunciar la Navidad en Vilches",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/07/Los%20Campanilleros%20llevando%20sus%20aguilandos%20por%20todas%20las%20calles%20de%20Vilches%20(12)-kaKG-U240483964999GKH-1200x840@Ideal.jpg",
-        "tags": [
-            "linares",
-            "navidad",
-            "guarromán",
-            "sevilla",
-            "jaén",
-            "vigo"
-        ],
-        "link": "https://www.ideal.es/jaen/provincia-jaen/aguilando-sale-calle-anunciar-navidad-vilches-20251208230741-nt.html",
-        "date": "2025-12-07 22:07:41",
-        "sentiment_score": -0.22599492967128754
-    },
-    {
-        "title": "Carmen Utrera, la madrileña que lleva 24 años enseñando a bailar a los Seises: la tradición sevillana con cinco siglos",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744044297_260350723_1706x960.jpg",
-        "tags": [
-            "reportajes",
-            "tradiciones",
-            "sevilla (municipio)",
-            "sevilla",
-            "religión",
-            "danza"
-        ],
-        "link": "https://www.elespanol.com/sevilla/20251208/carmen-utrera-madrilena-lleva-anos-ensenando-bailar-seises-tradicion-sevillana-siglos-dl/1003744043017_0.html",
-        "date": "2025-12-08 02:04:24",
-        "sentiment_score": -0.19995807111263275
-    },
-    {
-        "title": "Williot Swedberg: «Siempre hablamos con Claudio de los espacios, les doy las gracias a él y a los compañeros»",
-        "image_url": "https://cflvdg.avoz.es/sc/JfbSS7JHerCY_pAubOOW10mEMwQ=/768x/2025/12/08/00121765157882191446794/Foto/eup_20251207_223738450.jpg",
-        "tags": [
-            "celta",
-            "williot swedberg",
-            "grada de río"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/gradario/2025/12/08/williot-swedberg-siempre-hablamos-claudio-espacios-doy-gracias-companeros/00031765158134130529398.htm",
-        "date": "2025-12-08 01:43:00",
-        "sentiment_score": 0.8588595855981112
-    },
-    {
-        "title": "Yanira y Jorge estudian para guardia civil en Madrid, donde faltan 2.000 agentes y es difícil atraerles: \"Es una oportunidad\"",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045294_260351612_1706x960.jpg",
-        "tags": [
-            "guardia civil",
-            "sociedad",
-            "oposiciones",
-            "comunidad de madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251208/yanira-jorge-estudian-guardia-civil-madrid-faltan-agentes-dificil-atraerles-oportunidad/1003744044420_0.html",
-        "date": "2025-12-08 01:03:24",
-        "sentiment_score": -0.8968630554154515
-    },
-    {
-        "title": "El Prado salda su deuda con Antonio Raphael Mengs, pintor de cámara de Carlos III y retratista de la nobleza",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045236_260350636_1706x960.jpg",
-        "tags": [
-            "pintura",
-            "museo del prado",
-            "exposiciones",
-            "arte",
-            "ec-critica-arte"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20251208/prado-salda-deuda-antonio-raphael-mengs-pintor-camara-carlos-iii-retratista-nobleza/1003744034411_0.html",
-        "date": "2025-12-08 00:57:58",
-        "sentiment_score": 0.12679669633507729
-    },
-    {
-        "title": "07 DIC 2025 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/07-dic-2025-tertulion-domingos-20251208_3267095.html",
-        "date": "2025-12-08 00:55:05",
-        "sentiment_score": 0.2961702048778534
-    },
-    {
-        "title": "Dos años sin Itziar Castro: sus amigas no le han organizado ningún homenaje y su familia \"la recuerda todos los días\"",
-        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043044_260321540_1706x960.jpg",
-        "tags": [
-            "famosos",
-            "actrices",
-            "lloret de mar",
-            "homenajes",
-            "muertes"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251208/anos-sin-itziar-castro-amigas-no-organizado-ningun-homenaje-familia-recuerda-dias/1003744042998_0.html",
-        "date": "2025-12-08 00:46:35",
-        "sentiment_score": 0.7169596180319786
-    },
-    {
-        "title": "El Real Madrid sigue perdiendo puntos y el Barça es más líder, en El Tertulión",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/08/6936177e6c334.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-07-20251208_3267088.html",
-        "date": "2025-12-08 00:14:51",
-        "sentiment_score": 0.02035146951675415
-    },
-    {
-        "title": "Batacazo del Madrid ante el Celta en el Bernabéu",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/0945f7ae-e30e-40a3-882d-d474c9e9bd09_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "bernabeu",
-            "batacazo",
-            "celta"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2025/12/08/batacazo-madrid-celta-bernabeu-10445677.html",
-        "date": "2025-12-08 00:00:00",
-        "sentiment_score": -0.22247564792633057
-    },
-    {
-        "title": "Los detalles del “trencito” en los festejos por el título del Inter Miami: la cumbia de Beckham y la actitud de Messi",
-        "image_url": "https://www.infobae.com/resizer/v2/E26MD6QIHFBQVO6IJROUY7OCYM.jpg?auth=f524753b774fd2a9630b2169803b484916451812f3014ea3858abe8ffa70766b&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-argentina",
-            "mls",
-            "david beckham",
-            "inter miami",
-            "lionel messi",
-            "deportes-internacional",
-            "vancouver whitecaps"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/07/los-detalles-del-trencito-en-los-festejos-por-el-titulo-del-inter-miami-la-cumbia-de-beckham-y-la-actitud-de-messi/",
-        "date": "2025-12-07 23:58:52",
-        "sentiment_score": 0.10435069352388382
-    },
-    {
-        "title": "El Real Madrid se desploma ante el Celta y el Barcelona se aleja",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/07195333/Real-Madrid-Celta.jpg",
-        "tags": [
-            "celta",
-            "laliga",
-            "real madrid",
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.elnacional.com/2025/12/el-real-madrid-se-desploma-ante-el-celta-y-el-barcelona-se-aleja/",
-        "date": "2025-12-07 23:54:44",
-        "sentiment_score": 0.15519945323467255
-    },
-    {
-        "title": "Nuestras referentes",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "referentes"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/referentes_0_2005411827.html",
-        "date": "2025-12-08 02:08:11",
-        "sentiment_score": 0.7989991083741188
-    },
-    {
-        "title": "Saúl Martínez-Horta, neuropsicólogo: \"La felicidad es saber que todo está ordenado y no tener miedo a lo que suceda\"",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045251_260350877_1706x960.jpg",
-        "tags": [
-            "párkinson",
-            "alzheimer",
-            "enfermedades",
-            "salud",
-            "cerebro"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20251208/saul-martinez-horta-neuropsicologo-felicidad-saber-ordenado-no-tener-miedo-suceda/1003744045131_0.html",
-        "date": "2025-12-08 02:04:33",
-        "sentiment_score": -0.8331950418651104
-    },
-    {
-        "title": "La impactante revelación de Beckham que augura el regreso de Messi a España",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/lionel-messi-david-beckham.jpg",
-        "tags": [
-            "futbol",
-            "lionel messi",
-            "david beckham",
-            "deportes",
-            "inter miami",
-            "titulares",
-            "estados unidos"
-        ],
-        "link": "https://lapatilla.com/2025/12/07/la-impactante-revelacion-de-beckham-que-augura-el-regreso-de-messi-a-espana/",
-        "date": "2025-12-08 01:46:32",
-        "sentiment_score": 0.6788696125149727
-    },
-    {
-        "title": "Rebelión de universitarios de otras CCAA obligados a examinarse en catalán: \"Parece que no estás en España. Somos extranjeros en nuestro país. No me quedaré\"",
-        "image_url": "https://phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
-        "tags": [
-            "artículos víctor mondelo",
-            "universidades"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2025/12/08/691377dbe9cf4ae93c8b4587.html",
-        "date": "2025-12-08 01:28:51",
-        "sentiment_score": 0.07181322574615479
-    },
-    {
-        "title": "El Govern busca mostrar \"transparencia\" y rapidez en la gestión de la peste porcina africana para recuperar mercados clave como Japón o Filipinas",
-        "image_url": "https://phantom-elmundo.uecdn.es/c5ec876da0e694d95968b36a655485c8/crop/102x26/940x867/f/image/jpeg/assets/multimedia/imagenes/2023/04/17/16817425449512.jpg",
-        "tags": [
-            "biociencia",
-            "gobierno de españa",
-            "generalitat de cataluña",
-            "alimentación",
-            "empleo",
-            "salvador illa",
-            "sanidad",
-            "política",
-            "comisión europea",
-            "barcelona",
-            "artículos gerard melgar",
-            "agricultura",
-            "ganadería"
-        ],
-        "link": "https://www.elmundo.es/economia/2025/12/08/6935c6fe21efa0b80f8b4580.html",
-        "date": "2025-12-08 01:28:51",
-        "sentiment_score": -0.6708985157310963
-    },
-    {
-        "title": "Los partidos se lanzan a por el voto rural en Extremadura sin el impulso de los alcaldes y con la peste porcina africana al acecho",
-        "image_url": "https://phantom-elmundo.uecdn.es/2ab434141f03587d2f6108be196f67b2/f/webp/assets/multimedia/imagenes/2025/12/07/17651311468938.jpg",
-        "tags": [
-            "extremadura",
-            "elecciones extremadura"
-        ],
-        "link": "https://www.elmundo.es/espana/extremadura/2025/12/08/6935a0d6e85ece3d738b4573.html",
-        "date": "2025-12-08 01:28:38",
-        "sentiment_score": -0.6215640604496002
-    },
-    {
-        "title": "'Deshacerse del padre' con Freud: un ensayo sobre el declive paterno y la crisis de la autoridad",
-        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043488_260327137_1706x960.jpg",
-        "tags": [
-            "ensayo",
-            "literatura"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/ensayo/20251208/deshacerse-padre-freud-ensayo-declive-paterno-crisis-autoridad/1003744043416_0.html",
-        "date": "2025-12-08 00:58:01",
-        "sentiment_score": -0.37817639112472534
-    },
-    {
-        "title": "El secreto de Danone no está solo en el yogur: así usa su CIO la IA y el cloud para convertir los datos en ventas",
-        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043003_260321071_1706x960.jpg",
-        "tags": [
-            "tecnología",
-            "cios disruptores",
-            "danone",
-            "alimentación",
-            "industria tecnológica",
-            "innovación",
-            "gran empresa"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/corporaciones/20251208/secreto-danone-no-solo-yogur-usa-cio-ia-cloud-convertir-datos-ventas/1003744037396_0.html",
-        "date": "2025-12-08 00:40:41",
-        "sentiment_score": -0.08195845782756805
-    },
-    {
         "title": "\"El PSOE presume de feminista con depredadores en Ferraz y el PP se hace fotos con toros de lidia\": el ataque de Buxadé al bipartidismo",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/09286b9f-1a4d-4ce0-a68a-9b502ad95f19_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -441,32 +119,6 @@ export default [
         "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/juanma-castano-cambiar-tanto-equipo-miercoles-bilbao-partido-casa-celta-20251208_3267085.html",
         "date": "2025-12-08 05:15:22",
         "sentiment_score": -0.109825998544693
-    },
-    {
-        "title": "Apenas el 20% de las empresas españolas cuentan con un Chief Artificial Intelligence Officer o CAIO",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2025/12/Apenas-el-20-de-las-empresas-espanolas-cuentan-con-un-Chief-Artificial-Intelligence-Officer-o-CAIO.webp",
-        "tags": [
-            "inteligencia artificial",
-            "ia",
-            "caio",
-            "últimas noticias",
-            "tecnología",
-            "negocios"
-        ],
-        "link": "https://www.merca2.es/2025/12/08/empresas-caio-2331228/",
-        "date": "2025-12-08 05:10:00",
-        "sentiment_score": 0.07845067977905273
-    },
-    {
-        "title": "El Ejército del Aire planea dotar de almacén de munición a la base militar de Lavacolla",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aab8f3ba-7c95-4b29-ab01-3cb41234a313_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "defensa",
-            "lavacolla"
-        ],
-        "link": "https://www.elcorreogallego.es/santiago/2025/12/08/arsenal-militar-aerodromo-lavacolla-124557669.html",
-        "date": "2025-12-08 05:01:16",
-        "sentiment_score": -0.2613469511270523
     },
     {
         "title": "Aitana diversifica sus inversiones: cinco sociedades y cuatro millones en inmuebles",
@@ -2842,5 +2494,248 @@ export default [
         "link": "https://www.laprovincia.es/espana/2025/12/11/participacion-espana-futuro-caza-europeo-mueve-empresas-investigacion-124666075.html",
         "date": "2025-12-11 06:10:26",
         "sentiment_score": 0.26211215555667877
+    },
+    {
+        "title": "El Gobierno logra un acuerdo con ERC sobre el superávit de ayuntamientos para salvar el decreto de Verifactu",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251211180656_120.jpg",
+        "tags": [
+            "macroeconomía",
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-gobierno-logra-acuerdo-erc-superavit-ayuntamientos-salvar-decreto-verifactu-20251211180656.html",
+        "date": "2025-12-11 17:06:56",
+        "sentiment_score": 0.24249319732189178
+    },
+    {
+        "title": "La reforma de las leyes de dependencia y discapacidad supera su primer examen en el Congreso",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251211180055_690.jpg",
+        "tags": [
+            "igualdad",
+            "ep social"
+        ],
+        "link": "https://www.europapress.es/epsocial/igualdad/noticia-reforma-leyes-dependencia-discapacidad-supera-primer-examen-congreso-20251211180055.html",
+        "date": "2025-12-11 17:00:55",
+        "sentiment_score": 0.11106826364994049
+    },
+    {
+        "title": "Investigadores y emprendedores subrayan la importancia de acelerar la llegada de la medicina personalizada al paciente",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251211172213.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "sanidad"
+        ],
+        "link": "https://cronicadecantabria.com/cr/investigadores-y-emprendedores-subrayan-la-importancia-de-acelerar-la-llegada-de-la-medicina-personalizada-al-paciente/",
+        "date": "2025-12-11 17:00:16",
+        "sentiment_score": 0.46518242359161377
+    },
+    {
+        "title": "El estado de un viaducto de la A-6 obliga a Transportes a anunciar uno nuevo que se construirá paralelamente",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/04/69313ec51384a6-35809129.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.20minutos.es/motor/actualidad/estado-viaducto-a6-transportes-anunciar-nuevo_6906232_0.html",
+        "date": "2025-12-11 17:00:00",
+        "sentiment_score": 0.043098464608192444
+    },
+    {
+        "title": "Javier ‘Chicharito’ Hernández cierra su etapa en las Chivas",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/H3RLD5AR4ZBUPD2HXKK5LS6Q74.jpg?auth=305d2ba77a40479585087cfd1f2839eedc2d50a5702eda9bc0a480a0892922fb&width=1200",
+        "tags": [
+            "méxico",
+            "machismo",
+            "deportes",
+            "chiva",
+            "américa",
+            "chicharito",
+            "selección mexicana",
+            "latinoamérica",
+            "fútbol",
+            "futbolistas"
+        ],
+        "link": "https://elpais.com/mexico/2025-12-11/javier-chicharito-hernandez-cierra-su-etapa-en-las-chivas.html",
+        "date": "2025-12-11 16:59:50",
+        "sentiment_score": -0.6817857977002859
+    },
+    {
+        "title": "Los análisis de las cigüeñas muertas en Getafe confirman que se trata de un brote de gripe aviar de alta patogenicidad",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/76HG5QQG4JD47CSKDXZGJT6ZEA.jpg?auth=1a86ab45483288bdb41f6ad63e61ece79f748a2104222ea473c921bbd10b7f45&width=1200",
+        "tags": [
+            "madrid",
+            "enfermedades infecciosas",
+            "boadilla del monte",
+            "arganda del rey",
+            "bomberos",
+            "comunidad de madrid",
+            "aves",
+            "getafe",
+            "rivas-vaciamadrid",
+            "gripe aviar"
+        ],
+        "link": "https://elpais.com/espana/madrid/2025-12-11/los-analisis-de-las-ciguenas-muertas-en-getafe-confirman-que-se-trata-de-un-brote-de-gripe-aviar-de-alta-patogenicidad.html",
+        "date": "2025-12-11 16:59:02",
+        "sentiment_score": -0.3226514384150505
+    },
+    {
+        "title": "El Gobierno cierra el año en el Congreso sin Presupuestos y con el apoyo decisivo del PP en la dependencia y los funcionarios",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/11/maria-jesus-montero-kOCH-U240527375778exD-1200x840@RC.jpg",
+        "tags": [
+            "partido popular (pp)",
+            "vox",
+            "partido socialista obrero español (psoe)",
+            "podemos",
+            "pedro sánchez",
+            "presupuestos generales del estado",
+            "maría jesús montero",
+            "junts per catalunya"
+        ],
+        "link": "https://www.ideal.es/nacional/gobierno-cierra-ano-congreso-presupuestos-apoyo-decisivo-20251211175318-ntrc.html",
+        "date": "2025-12-11 16:58:59",
+        "sentiment_score": -0.8535692133009434
+    },
+    {
+        "title": "La Real busca acercarse a Europa a costa de hundir al Girona",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251211175817_690.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-busca-acercarse-europa-costa-hundir-girona-20251211175817.html",
+        "date": "2025-12-11 16:58:17",
+        "sentiment_score": 0.2064206600189209
+    },
+    {
+        "title": "Muere la profesora y académica de San Quirce María Jesús Callejo",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/11/callejo--758x531.jpg",
+        "tags": [
+            "la granja de san ildefonso",
+            "segovia (provincia)",
+            "segovia",
+            "arte",
+            "real sitio de san ildefonso"
+        ],
+        "link": "https://www.elnortedecastilla.es/segovia/muere-profesora-academica-san-quirce-maria-jesus-20251211175537-nt.html",
+        "date": "2025-12-11 16:55:37",
+        "sentiment_score": 0.2572319731116295
+    },
+    {
+        "title": "CESM critica que Sanidad no contacte con el comité de huelga pese a su obligación",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/12/11/2025121117294090206.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.clm24.es/articulo/sociedad/cesm-critica-que-sanidad-contacte-comite-huelga-pese-obligacion/20251211175225466010.html",
+        "date": "2025-12-11 16:52:25",
+        "sentiment_score": -0.709155822172761
+    },
+    {
+        "title": "El Gobierno avisa de que el veto a la compra de pisos para invertir precisa de una regulación europea",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/O2NAL5PVFJE47KOS3VFEG7F53M.jpg?auth=df37eae813d7007825c6e570f436467656dcfdc0e5451d5dc0fcc3156672c0ef&width=1200",
+        "tags": [
+            "cataluña",
+            "generalitat cataluña",
+            "vivienda",
+            "barcelona",
+            "unión europea"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-12-11/david-lucas-avisa-de-que-el-veto-a-la-compra-de-pisos-para-invertir-precisa-de-una-regulacion-europea.html",
+        "date": "2025-12-11 17:11:16",
+        "sentiment_score": -0.8446585275232792
+    },
+    {
+        "title": "“No hay paz en Gaza: Israel ha vulnerado 700 veces el alto el fuego”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "claves del día"
+        ],
+        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20251211/11354398/hay-paz-gaza-israel-vulnerado-700-veces-alto-fuego.html",
+        "date": "2025-12-11 17:08:29",
+        "sentiment_score": -0.8796307472512126
+    },
+    {
+        "title": "La plaza del ‘pescao’ por Navidad",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/11/693af20803e3d.jpeg",
+        "tags": [
+            "tal como éramos"
+        ],
+        "link": "https://www.lavozdealmeria.com/almeria/tal-como-eramos/411496/plaza-pescao-navidad.html",
+        "date": "2025-12-11 17:07:23",
+        "sentiment_score": -0.820613918825984
+    },
+    {
+        "title": "La Guardia Urbana podrá cobrar multas por incivismo al momento con datáfono a turistas en Barcelona",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/11/693af16e598b03-32605808.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/guardia-urbana-podra-cobrar-multas-por-incivismo-momento-con-datafono-turistas-barcelona_6909388_0.html",
+        "date": "2025-12-11 17:05:23",
+        "sentiment_score": 0.14580442756414413
+    },
+    {
+        "title": "La Síndica de Greuges defiende un \"acuerdo de país\" en Cataluña contra el sinhogarismo",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/12/04/10CB455D-3069-4E28-8B75-360E612B5BEF/69.jpg?crop=7504%2C4221%2Cx0%2Cy391&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/sindica-greuges-defiende-acuerdo-pais-cataluna-sinhogarismo_20251211693af9ce22f0db7dafedd56b.html",
+        "date": "2025-12-11 17:05:18",
+        "sentiment_score": 0.3699062801897526
+    },
+    {
+        "title": "CEREMONIA nuevo disco de Vale Moï",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7766799",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5701049/ceremonia-nuevo-disco-vale-mo",
+        "date": "2025-12-11 17:05:12",
+        "sentiment_score": 0.2752414643764496
+    },
+    {
+        "title": "La UCO registra la empresa navarra en la que fue consejera Leire Díez: recibió un millón de euros en ayudas",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/12/11/2025121117492425158.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/politica/registran-empresa-navarra-que-fue-consejera-leire-diaz-recibio-millon-euros-ayudas-publicas/20251211180511625850.html",
+        "date": "2025-12-11 17:05:11",
+        "sentiment_score": -0.600961223244667
+    },
+    {
+        "title": "CriteriaCaixa reparte un dividendo de 85 millones de euros a la Fundación La Caixa",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/12/fotonoticia_20251211173958_1920-1200x675.jpg",
+        "tags": [
+            "última hora",
+            "economía"
+        ],
+        "link": "https://forbes.es/economia/844607/criteriacaixa-reparte-un-dividendo-de-85-millones-de-euros-a-la-fundacion-la-caixa/",
+        "date": "2025-12-11 17:05:08",
+        "sentiment_score": 0.0015292614698410034
+    },
+    {
+        "title": "Una agente de los Mossos fuera de servicio salva a un hombre que cayó a las vías del metro en Barcelona",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/11/693af8c4d0a4f2-93174338.png",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/agente-mossos-fuera-servicio-salva-hombre-cayo-vias-metro-barcelona_6909466_0.html",
+        "date": "2025-12-11 17:02:08",
+        "sentiment_score": -0.839903611689806
+    },
+    {
+        "title": "Eric Garcia: de arma electoral a comodín imprescindible",
+        "image_url": "https://static1.ara.cat/clip/a5c3ee26-6913-4ac2-a9a9-90a807fcd798_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "comodin",
+            "eric",
+            "imprescindible",
+            "arma",
+            "electoral",
+            "garcia"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/eric-garcia-arma-electoral-comodin-imprescindible_1_5589487.html",
+        "date": "2025-12-11 17:00:37",
+        "sentiment_score": -0.23857800662517548
     }
 ];
