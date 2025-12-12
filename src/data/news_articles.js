@@ -1,244 +1,5 @@
 export default [
     {
-        "title": "\"El PSOE presume de feminista con depredadores en Ferraz y el PP se hace fotos con toros de lidia\": el ataque de Buxadé al bipartidismo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/09286b9f-1a4d-4ce0-a68a-9b502ad95f19_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "toros",
-            "pp",
-            "bipartidismo",
-            "extremadura",
-            "21d elecciones en extremadura",
-            "elecciones",
-            "nuclear",
-            "psoe"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/08/psoe-presume-feminista-depredadores-ferraz-124561181.html",
-        "date": "2025-12-08 06:01:00",
-        "sentiment_score": -0.2516031675040722
-    },
-    {
-        "title": "\"Si en Madrid el ticket medio del mediodía en los restaurantes de nuestros hoteles es de 220 euros, en Barcelona es de 45\"",
-        "image_url": "https://static1.ara.cat/clip/0863377b-c146-4f69-bb6d-619e752325b9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mediodia",
-            "ticket",
-            "220",
-            "barcelona",
-            "hoteles",
-            "madrid",
-            "restaurantes",
-            "medio",
-            "45",
-            "euros"
-        ],
-        "link": "https://es.ara.cat/comer/madrid-ticket-medio-mediodia-restaurantes-hoteles-220-euros-barcelona-45_128_5585990.html",
-        "date": "2025-12-08 06:00:50",
-        "sentiment_score": -0.10701282322406769
-    },
-    {
-        "title": "El Alavés mejora su primera vuelta de la 2024-25",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/d6303b54-7da9-44e2-8b83-7d185d2f5e07_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mejora",
-            "primera",
-            "alaves",
-            "vuelta",
-            "2024",
-            "balace de puntos y resultados la liga fútbol"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2025/12/08/alaves-mejora-primera-vuelta-2024-balace-de-puntos-y-resultados-la-liga-futbol-10444490.html",
-        "date": "2025-12-08 06:00:31",
-        "sentiment_score": 0.00709688663482666
-    },
-    {
-        "title": "Jornada 6 de la Champions League: partidos, horarios y cuándo juega el Real Madrid contra Manchester City",
-        "image_url": "https://static.eldiario.es/clip/6b5f45d1-4a96-4f52-b7f5-80e4d09d1279_16-9-discover-aspect-ratio_default_1131987.jpg",
-        "tags": [
-            "horarios",
-            "manchester",
-            "league",
-            "pm",
-            "jornada",
-            "juega",
-            "city",
-            "champions",
-            "real",
-            "partidos",
-            "6",
-            "madrid"
-        ],
-        "link": "https://www.eldiario.es/spin/deportes/jornada-6-champions-league-partidos-horarios-juega-real-madrid-manchester-city-pm_1_12823846.html",
-        "date": "2025-12-08 06:00:21",
-        "sentiment_score": -0.06223410367965698
-    },
-    {
-        "title": "Denia Bravo, jugadora del Kiele: «Lo que más me ha impactado de La Mancha es el calor de su gente»",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Captura-de-pantalla-2025-12-08-a-las-13.25.42.png",
-        "tags": [
-            "superliga iberdrola",
-            "cv kiele socuéllamos",
-            "voleibol",
-            "socuéllamos",
-            "deportes",
-            "ciudad real",
-            "superliga femenina iberdrola"
-        ],
-        "link": "https://www.lanzadigital.com/deportes/voleibol/superliga-femenina-iberdrola/denia-bravo-lo-que-mas-me-ha-impactado-de-la-mancha-es-el-calor-de-su-gente/",
-        "date": "2025-12-08 06:00:00",
-        "sentiment_score": 0.06906968355178833
-    },
-    {
-        "title": "Denia Bravo: «Lo que más me ha impactado de La Mancha es el calor de su gente»",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/DENIA-PERFIL.jpg",
-        "tags": [
-            "ciudad real",
-            "cv kiele socuéllamos"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/ciudad-real/denia-bravo-lo-que-mas-me-ha-impactado-de-la-mancha-es-el-calor-de-su-gente/",
-        "date": "2025-12-08 06:00:00",
-        "sentiment_score": 0.07808986306190491
-    },
-    {
-        "title": "Así es la ley sobre la colaboración público-privada en hospitales que plantea Sanidad y que derogaría la del 97",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2025/12/07/4EE7E3F9-D541-416F-9012-799E99F88844/imagen-archivo-ministra-sanidad-monica-garcia_70.jpg?crop=1077%2C606%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "noticias",
-            "españa",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/asi-ley-colaboracion-publicoprivada-hospitales-que-plantea-sanidad-que-derogaria-97_20251208693662669261f37ec740c19e.html",
-        "date": "2025-12-08 05:30:14",
-        "sentiment_score": -0.8368245251476765
-    },
-    {
-        "title": "Juanma Castaño: \"¿Cómo puede cambiar tanto un equipo del miércoles en Bilbao al partido en casa contra el Celta?\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/08/693611777d5e6.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/juanma-castano-cambiar-tanto-equipo-miercoles-bilbao-partido-casa-celta-20251208_3267085.html",
-        "date": "2025-12-08 05:15:22",
-        "sentiment_score": -0.109825998544693
-    },
-    {
-        "title": "Aitana diversifica sus inversiones: cinco sociedades y cuatro millones en inmuebles",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/aitana-exnovio-vicente.jpg",
-        "tags": [
-            "aitana ocaña",
-            "celebrities",
-            "gente"
-        ],
-        "link": "https://theobjective.com/gente/2025-12-08/aitana-exito-empresarial-sociedades/",
-        "date": "2025-12-08 06:30:00",
-        "sentiment_score": 0.8588900249451399
-    },
-    {
-        "title": "¿Qué supermercados están abiertos hoy 8 de diciembre en Barcelona y resto de Catalunya? Horario de Lidl, Mercadona y resto de tiendas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2a5e0bea-6c5d-4cb4-b759-3bc2bd8c4535_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "carrefour",
-            "lidl",
-            "supermercados",
-            "barcelona",
-            "consum (supermercados)",
-            "todos los santos",
-            "mercadona"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20251208/supermercados-abiertos-hoy-8-diciembre-barcelona-cataluna-lidl-mercadona-dv-124326700",
-        "date": "2025-12-08 06:28:00",
-        "sentiment_score": 0.3209484610706568
-    },
-    {
-        "title": "Parte de la entrevista a Jorge Buxadé, jefe de la delegación de Vox en el Parlamento Europeo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/09286b9f-1a4d-4ce0-a68a-9b502ad95f19_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "entrevista"
-        ],
-        "link": "https://www.lacronicabadajoz.com/videos/2025/12/08/parte-entrevista-jorge-buxade-jefe-124561177.html",
-        "date": "2025-12-08 06:00:58",
-        "sentiment_score": 0.01227518916130066
-    },
-    {
-        "title": "Fábio Silva, en el radar del Betis para la delantera",
-        "image_url": "https://static.grupojoly.com/clip/f52858b6-cb8d-4ee0-a91b-ba1408ad50b1_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fichajes betis",
-            "betis"
-        ],
-        "link": "https://www.diariodesevilla.es/realbetis/fabio-silva-radar-betis-delantera_0_2005407952.html",
-        "date": "2025-12-08 06:00:55",
-        "sentiment_score": -0.009604066610336304
-    },
-    {
-        "title": "Los taxistas llaman a ocupar la Gran Via este martes con el sector dividido",
-        "image_url": "https://static1.ara.cat/clip/0837ebfa-ea5e-41d0-8865-0c3ff7f6bdf4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "llaman",
-            "martes",
-            "gran",
-            "dividido",
-            "via",
-            "taxistas",
-            "ocupar",
-            "sector"
-        ],
-        "link": "https://es.ara.cat/economia/tecnologia/taxistas-llaman-ocupar-gran-via-martes-sector-dividido_1_5585999.html",
-        "date": "2025-12-08 06:00:53",
-        "sentiment_score": -0.03256627917289734
-    },
-    {
-        "title": "La serie sobre el robo del siglo con uno de los aspirantes a nueve James Bond",
-        "image_url": "https://static1.ara.cat/clip/ce220137-dc1c-4608-a1ad-70798a2547c4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "siglo",
-            "james",
-            "serie",
-            "aspirantes",
-            "bond",
-            "nueve",
-            "robo"
-        ],
-        "link": "https://es.ara.cat/media/series/serie-robo-siglo-aspirantes-nueve-james-bond_1_5585994.html",
-        "date": "2025-12-08 06:00:50",
-        "sentiment_score": -0.23815582692623138
-    },
-    {
-        "title": "Málaga y Puente Genil: las dos ciudades de Andalucía con las mejor iluminación de Navidad",
-        "image_url": "https://okdiario.com/img/2025/12/05/malaga-y-puente-genil-las-dos-ciudades-de-andalucia-con-las-mejor-iluminacion-de-navidad.jpg",
-        "tags": [
-            "españa",
-            "málaga",
-            "okd",
-            "luces de navidad",
-            "navidad",
-            "andalucía"
-        ],
-        "link": "https://okdiario.com/andalucia/malaga-puente-genil-dos-ciudades-andalucia-mejor-iluminacion-navidad-15890821",
-        "date": "2025-12-08 06:00:43",
-        "sentiment_score": 0.7773705422878265
-    },
-    {
-        "title": "Alonso y Morote apuestan por el crecimiento de Andersen en Barcelona",
-        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/12/Rafael-Vallet-andersen.jpg",
-        "tags": [
-            "despacho",
-            "app",
-            "barcelona",
-            "abogado",
-            "andersen",
-            "noticias jurídicas",
-            "rafael vallet",
-            "znoticia portada2",
-            "josé vicente morote",
-            "despachos y abogados",
-            "juan ignacio alonso",
-            "abogacia"
-        ],
-        "link": "https://www.economistjurist.es/actualidad-juridica/actualidad-de-los-despachos/alonso-y-morote-apuestan-por-el-crecimiento-de-andersen-en-barcelona/",
-        "date": "2025-12-08 06:00:17",
-        "sentiment_score": 0.5768054090440273
-    },
-    {
         "title": "Reunir aliados y expandir presencia, la nueva estrategia de seguridad de Donald Trump para América Latina",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Screenshot_7.jpg",
         "tags": [
@@ -2737,5 +2498,181 @@ export default [
         "link": "https://es.ara.cat/deportes/fc-barcelona/eric-garcia-arma-electoral-comodin-imprescindible_1_5589487.html",
         "date": "2025-12-11 17:00:37",
         "sentiment_score": -0.23857800662517548
+    },
+    {
+        "title": "El Madrid sigue en racha en la Euroliga",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3947ae4-ccf5-460b-8ea4-5346410cf128_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "euroliga,baloncesto,real madrid de baloncesto"
+        ],
+        "link": "https://www.superdeporte.es/baloncesto/2025/12/11/madrid-sigue-racha-euroliga-124701476.html",
+        "date": "2025-12-11 22:18:59",
+        "sentiment_score": 0.6675194948911667
+    },
+    {
+        "title": "Ana, franca sobre los altos precios de los cerrajeros: \"Me cobraron 1.125 euros por abrirme la puerta\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/09/04/un-cerrajero-arreglando-una-puerta.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/ana-franca-sobre-altos-precios-cerrajeros-me-cobraron-1125-euros-abrirme-puerta-f202512.html",
+        "date": "2025-12-11 22:18:07",
+        "sentiment_score": -0.8374841026961803
+    },
+    {
+        "title": "El 1x1 del Baskonia: Forrest vuelve tras casi dos meses",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b99222d9-dec1-44b2-a818-a6de9d18ed6f_16-9-aspect-ratio_default_0_x341y116.jpg",
+        "tags": [
+            "baskonia",
+            "forrest",
+            "meses",
+            "1x1",
+            "vuelve"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2025/12/11/1x1-baskonia-forrest-vuelve-meses-10461656.html",
+        "date": "2025-12-11 22:14:07",
+        "sentiment_score": -0.5083066672086716
+    },
+    {
+        "title": "Dónde han caído 57 millones de euros de La Primitiva los premios de la Lotería Nacional, Bonoloto, ONCE y EuroDreams de hoy jueves 11 de diciembre de 2025",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2024/11/28/6089236E-7DE5-4924-98A5-B58FBB998013/administracion-loteria-dona-manolita_98.jpg?crop=4252%2C2392%2Cx0%2Cy220&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-57-millones-euros-primitiva-premios-loteria-nacional-bonoloto-once-eurodreams-hoy-jueves-11-diciembre-2025_20251211693b3e22ea66eb73530ef232.html",
+        "date": "2025-12-11 21:57:08",
+        "sentiment_score": 0.02554870769381523
+    },
+    {
+        "title": "Así será el balneario público de aguas termales que se pondrá en marcha en 2026: a menos de 20 minutos de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/25/gran-barcelona/1003742701288_15323958_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "obras",
+            "santa coloma de gramenet"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251211/balneario-publico-aguas-termales-pondra-marcha-minutos-barcelona/1003742715371_0.html",
+        "date": "2025-12-11 21:55:07",
+        "sentiment_score": 0.2382054552435875
+    },
+    {
+        "title": "'La Revuelta' le hace la compra de la semana a Nathy Peluso: «Me viene de lujo, no tengo nada en casa»",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/12/11/nathy-1-kw8E--758x531@El%20Correo.jpg",
+        "tags": [
+            "audiencias",
+            "madrid (ciudad)",
+            "david broncano",
+            "la revuelta",
+            "argentina"
+        ],
+        "link": "https://www.elcorreo.com/gente-estilo/revuelta-compra-semana-nathy-peluso-viene-lujo-20251211225203-nt.html",
+        "date": "2025-12-11 21:52:03",
+        "sentiment_score": 0.3482006639242172
+    },
+    {
+        "title": "Crece el escándalo en Camerún: acusan a Samuel Eto’o de no convocar a una de las figuras para que no supere su récord de goles",
+        "image_url": "https://www.infobae.com/resizer/v2/CUB24IYNHFHPTNBFW2XLT565P4.gif?auth=a14aebef6cad98acc9fe9ed4c646040d24700d43d0ebce6bc88093ae7c03b994&height=3078&smart=true&width=5472",
+        "tags": [
+            "selección de camerún",
+            "fecafoot",
+            "samuel eto’o",
+            "deportes-argentina",
+            "vincent aboubakar"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/11/crece-el-escandalo-en-camerun-acusan-a-samuel-etoo-de-no-convocar-a-una-de-las-figuras-para-que-no-supere-su-record-de-goles/",
+        "date": "2025-12-11 21:48:12",
+        "sentiment_score": -0.8104122057557106
+    },
+    {
+        "title": "Quién sería el nuevo amor de Luli Fernández: los indicios que la vinculan con un productor agropecuario",
+        "image_url": "https://www.infobae.com/resizer/v2/YP57FI3IY5FGXAP7RRBSAL3J4U.gif?auth=063fa25736adafd18ea279dc62d763f1b1ab1487bbb378f98d4921b55aaadab3&height=462&smart=true&width=822",
+        "tags": [
+            "juancho lamarque",
+            "luli fernández"
+        ],
+        "link": "https://www.infobae.com/teleshow/2025/12/11/quien-seria-el-nuevo-amor-de-luli-fernandez-los-indicios-que-la-vinculan-con-un-productor-agropecuario/",
+        "date": "2025-12-11 21:47:36",
+        "sentiment_score": -0.04208189994096756
+    },
+    {
+        "title": "Los precios y la vivienda expulsan población de Madrid y Cataluña a otras comunidades pese a ser las que más extranjeros captan",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/6989ccb92a06969a4f1df62605fe2a60/crop/514x0/2562x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/20/17609823533524.jpg",
+        "tags": [
+            "economía",
+            "artículos alejandra olcese",
+            "inmigración",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/macroeconomia/2025/12/11/693af85be85ece74418b458e.html",
+        "date": "2025-12-11 21:39:25",
+        "sentiment_score": -0.8112683985382318
+    },
+    {
+        "title": "Urdangarin, en su primera entrevista: «Cuando entré en la cárcel estuve llorando tres meses»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/urdanga-2.jpeg",
+        "tags": [
+            "cárcel",
+            "gente",
+            "celebrities",
+            "iñaki urdangarin"
+        ],
+        "link": "https://theobjective.com/gente/2025-12-11/urdangarin-entrevista-carcel-llorando/",
+        "date": "2025-12-11 21:37:37",
+        "sentiment_score": -0.10999514162540436
+    },
+    {
+        "title": "Una figura de Uruguay reveló cuándo fue el “quiebre” de la relación entre el plantel y Marcelo Bielsa: “Eso te mata”",
+        "image_url": "https://www.infobae.com/resizer/v2/55C5OA67U5ACJEFFDOQK22TDCU.JPG?auth=39d253241347e38a5729590a26d52aa366187c077769275232f799b1d0780bdf&height=1666&smart=true&width=2961",
+        "tags": [
+            "selección de uruguay mundial 2026",
+            "lamine yamal",
+            "selección de españa mundial 2026",
+            "flamengo",
+            "mundial 2026",
+            "marcelo bielsa",
+            "deportes-argentina",
+            "guillermo varela"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/11/una-figura-de-uruguay-revelo-cuando-fue-el-quiebre-de-la-relacion-entre-el-plantel-y-marcelo-bielsa-eso-te-mata/",
+        "date": "2025-12-11 21:36:21",
+        "sentiment_score": 0.5110589880496264
+    },
+    {
+        "title": "Iñaki Urdangarin, sobre su paso por la cárcel: “No se lo deseo a nadie”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/P44BBQZZ4NDVJDXWBIEKDJEGZE.jpg?auth=481186ddffa79676cdf41e9b15bb42abb169606464d9e519269f714323e01165&width=1200",
+        "tags": [
+            "iñaki urdangarin",
+            "gente",
+            "televisión",
+            "cristina de borbón y grecia",
+            "cataluña",
+            "casa real",
+            "juan carlos i",
+            "rtve",
+            "felipe vi",
+            "instituto nóos",
+            "fc barcelona"
+        ],
+        "link": "https://elpais.com/gente/2025-12-11/inaki-urdangarin-sobre-su-paso-por-la-carcel-no-se-lo-deseo-a-nadie.html",
+        "date": "2025-12-11 21:29:22",
+        "sentiment_score": 0.08444194495677948
+    },
+    {
+        "title": "Daniel Vázquez Sallés, escritor: “La vida para un adicto es un todo o nada”",
+        "image_url": "https://static.eldiario.es/clip/4b078b73-d767-4ee4-884c-2651e7174283_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "periodismo independiente",
+            "ignacio escolar",
+            "economía",
+            "cataluña",
+            "noticias",
+            "actualidad",
+            "política",
+            "barcelona"
+        ],
+        "link": "https://www.eldiario.es/catalunya/daniel-vazquez-salles-escritor-vida-adicto_128_12833840.html",
+        "date": "2025-12-11 21:28:18",
+        "sentiment_score": -0.1001182496547699
     }
 ];
