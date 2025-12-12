@@ -1,20 +1,5 @@
 export default [
     {
-        "title": "Reunir aliados y expandir presencia, la nueva estrategia de seguridad de Donald Trump para América Latina",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Screenshot_7.jpg",
-        "tags": [
-            "donald trump",
-            "estrategia de seguridad",
-            "destacados",
-            "usa",
-            "nacionales",
-            "internacionales"
-        ],
-        "link": "https://lapatilla.com/2025/12/08/reunir-aliados-y-expandir-presencia-la-nueva-estrategia-de-seguridad-de-donald-trump-para-america-latina/",
-        "date": "2025-12-08 10:59:42",
-        "sentiment_score": -0.03160858154296875
-    },
-    {
         "title": "17:00H | 08 DIC 2025 | La Tarde",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -168,21 +153,6 @@ export default [
         "link": "https://lapatilla.com/2025/12/08/nicolas-maduro-el-politico-improbable-que-desafio-todos-los-pronosticos-pero-gobierna-un-pais-con-millones-en-el-exilio/",
         "date": "2025-12-08 17:13:41",
         "sentiment_score": -0.758212273940444
-    },
-    {
-        "title": "Reunir aliados y expandir presencia, la nueva estrategia de seguridad de Donald Trump para América Latina",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Screenshot_7.jpg",
-        "tags": [
-            "donald trump",
-            "estrategia de seguridad",
-            "destacados",
-            "usa",
-            "nacionales",
-            "internacionales"
-        ],
-        "link": "https://lapatilla.com/2025/12/08/reunir-aliados-y-expandir-presencia-la-nueva-estrategia-de-seguridad-de-donald-trump-para-america-latina/",
-        "date": "2025-12-08 10:59:42",
-        "sentiment_score": -0.03160849213600159
     },
     {
         "title": "Osasuna-Levante (2-0): Víctor Muñoz se reencuentra con el gol",
@@ -2674,5 +2644,260 @@ export default [
         "link": "https://www.eldiario.es/catalunya/daniel-vazquez-salles-escritor-vida-adicto_128_12833840.html",
         "date": "2025-12-11 21:28:18",
         "sentiment_score": -0.1001182496547699
+    },
+    {
+        "title": "Europa cierra el grifo a Rusia: España, ante la oportunidad real de convertirse en poder energético",
+        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050493_260417581_1706x960.jpg",
+        "tags": [
+            "guerra rusia-ucrania",
+            "guerra ucrania",
+            "petróleo",
+            "opinión",
+            "geopolítica",
+            "crisis energética",
+            "rusia",
+            "energía - opinión",
+            "tribunas de opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20251212/europa-cierra-grifo-rusia-espana-oportunidad-real-convertirse-poder-energetico/1003744050486_12.html",
+        "date": "2025-12-12 01:47:46",
+        "sentiment_score": 0.38535214960575104
+    },
+    {
+        "title": "Detenidos el dueño y el CEO de Plus Ultra en una operación por presunto blanqueo de capitales",
+        "image_url": "https://correodelcaroni.com/wp-content/uploads/2025/12/PLUSU_DuenoDetenido.jpg",
+        "tags": [
+            "ceo",
+            "mundo",
+            "blanqueo de capitales",
+            "julio martínez",
+            "dueño",
+            "a - modulo 7 - b",
+            "plus ultra"
+        ],
+        "link": "https://correodelcaroni.com/mundo/detenidos-el-dueno-y-el-ceo-de-plus-ultra-en-una-operacion-por-presunto-blanqueo-de-capitales/",
+        "date": "2025-12-12 01:34:05",
+        "sentiment_score": -0.7773471809923649
+    },
+    {
+        "title": "Gabriel Boric, el desencanto de las promesas de cambio",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/10/29/3061A6B9-55AB-41EE-9A70-69B4B4793683/69.jpg?crop=3553%2C1999%2Cx0%2Cy185&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "internacional",
+            "américa",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/internacional/america/gabriel-boric-desencanto-promesas-cambio_20251212693b691eea66eb73530f0e74.html",
+        "date": "2025-12-12 01:00:14",
+        "sentiment_score": -0.769902728497982
+    },
+    {
+        "title": "Javier Villanueva, bombero forestal herido en la manifestación: \"Gano 1.300 € y eso no da para vivir en Madrid\"",
+        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744052002_260436587_1706x1280.jpg",
+        "tags": [
+            "madrid",
+            "bomberos forestales",
+            "sociedad",
+            "protestas",
+            "comunidad de madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251212/javier-villanueva-bombero-forestal-herido-manifestacion-gano-eur-no-da-vivir-madrid/1003744051659_0.html",
+        "date": "2025-12-12 01:00:00",
+        "sentiment_score": -0.5020038187503815
+    },
+    {
+        "title": "¿Benzema podría volver para el Mundial de 2026?",
+        "image_url": "https://pxcdn.meridiano.net/122025/1765500510099.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/benzema-podria-volver-para-el-mundial-de-2026--2025121120510",
+        "date": "2025-12-12 00:51:00",
+        "sentiment_score": -0.36433936655521393
+    },
+    {
+        "title": "Florentino Pérez y el futuro de Xabi Alonso en el banquillo del Real Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/17/2025061709395556099.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/florentino-perez-futuro-xabi-alonso-banquillo-real-madrid/20251212014140366642.html",
+        "date": "2025-12-12 00:41:40",
+        "sentiment_score": -0.88498255610466
+    },
+    {
+        "title": "Pol Deportes, el narrador peruano de 15 años, estudiará periodismo deportivo en España tras terminar el colegio en Perú",
+        "image_url": "https://www.infobae.com/resizer/v2/Z27K6SYEXFC73DENEB6PSCTNEY.jpg?auth=d554246931f656e923fc8f63b430d880ab03ad6057423b9d2672e87b4dd0f1ee&height=1080&smart=true&width=1920",
+        "tags": [
+            "pol deportes",
+            "peru-entretenimiento",
+            "santiago bernabéu"
+        ],
+        "link": "https://www.infobae.com/peru/2025/12/12/pol-deportes-el-narrador-peruano-de-15-anos-estudiara-periodismo-deportivo-en-espana-tras-terminar-el-colegio-en-peru/",
+        "date": "2025-12-12 00:41:19",
+        "sentiment_score": 0.771123168990016
+    },
+    {
+        "title": "«Es más honesto con el espectador ser expresivo que técnicamente correcto»",
+        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/12/11/208985457-kFRH--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "música",
+            "santander",
+            "música clásica"
+        ],
+        "link": "https://www.eldiariomontanes.es/dmusica/honesto-espectador-expresivo-tecnicamente-correcto-20251212081621-nt.html",
+        "date": "2025-12-12 00:00:00",
+        "sentiment_score": 0.11121068894863129
+    },
+    {
+        "title": "La Unidad Canina de Torrelavega se forma en Madrid junto a cuerpos de seguridad estatales",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/12/11/1469868741-knXH--1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "policía nacional",
+            "guardia civil",
+            "torrelavega"
+        ],
+        "link": "https://www.eldiariomontanes.es/torrelavega/unidad-canina-torrelavega-forma-madrid-junto-cuerpos-20251212073825-nt.html",
+        "date": "2025-12-12 00:00:00",
+        "sentiment_score": 0.03488558530807495
+    },
+    {
+        "title": "El Gobierno acelera para subir el salario mínimo y dar un golpe de efecto antes de final de año",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/12/yd-kVRB-U240528384624AMC-1200x840@RC.jpg",
+        "tags": [
+            "gobierno de pedro sánchez",
+            "impuesto sobre la renta de las personas físicas (irpf)",
+            "ugt union general de trabajadores",
+            "ministerio de hacienda y función pública",
+            "maría jesús montero",
+            "ceoe",
+            "salario mínimo interprofesional (smi)",
+            "yolanda díaz"
+        ],
+        "link": "https://www.ideal.es/economia/trabajo/gobierno-acelera-subir-salario-minimo-dar-golpe-20251212004933-ntrc.html",
+        "date": "2025-12-11 23:49:34",
+        "sentiment_score": -0.05457697808742523
+    },
+    {
+        "title": "Este pueblo de Sevilla fue la \"capital\" de la Península Ibérica hace 5.000 años",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2024/09/14/6213A7F1-4314-4245-A9D6-29435CD86708/dolmen-pastora-valencina-concepcion-sevilla_69.jpg?crop=1380%2C776%2Cx0%2Cy132&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "sevilla",
+            "andalucía",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/andalucia/sevilla/este-pueblo-sevilla-fue-capital-peninsula-iberica-hace-5000-anos_20251212693b7aaeea66eb73530f18fa.html",
+        "date": "2025-12-12 02:15:10",
+        "sentiment_score": 0.3606564775109291
+    },
+    {
+        "title": "El teatro de calle anima las calles de Viladecans en Navidad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a657a78e-db34-414e-ab77-d77186de60a2_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fiestas",
+            "festival",
+            "teatro",
+            "viladecans"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/viladecans/20251212/teatro-calle-anima-calles-viladecans-124366212",
+        "date": "2025-12-12 01:59:28",
+        "sentiment_score": 0.7734495885670185
+    },
+    {
+        "title": "Inma Puig, expsicóloga del FC Barcelona y de Iniesta: \"El pasado ha sido de los fuertes y el futuro va a ser de los sensibles\"",
+        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744051936_260435688_1706x960.jpg",
+        "tags": [
+            "andrés iniesta",
+            "psicología",
+            "fc barcelona",
+            "vivir"
+        ],
+        "link": "https://www.elespanol.com/malaga/vivir/20251212/inma-puig-expsicologa-fc-barcelona-iniesta-pasado-fuertes-futuro-va-sensibles-dl/1003744051927_0.html",
+        "date": "2025-12-12 01:50:18",
+        "sentiment_score": 0.30352121591567993
+    },
+    {
+        "title": "Isabel Calvo, de doctora en biomedicina a campeona de artes marciales mixtas: \"También oposito a bombera\"",
+        "image_url": "https://s3.elespanol.com/2025/12/11/mujer/protagonistas/1003744051750_260433298_1706x960.jpg",
+        "tags": [
+            "protagonistas",
+            "deportistas",
+            "entrevistas",
+            "ilia topuria",
+            "deporte femenino",
+            "mma: artes marciales mixtas"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20251212/isabel-calvo-doctora-biomedicina-campeona-artes-marciales-mixtas-oposito-bombera/1003744050969_0.html",
+        "date": "2025-12-12 01:50:07",
+        "sentiment_score": 0.10250820219516754
+    },
+    {
+        "title": "España recupera renta tras la Covid, pero la desigualdad crece en las áreas metropolitanas y el litoral mediterráneo",
+        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744051635_260431841_1706x960.jpg",
+        "tags": [
+            "macroeconomía",
+            "municipios",
+            "economía",
+            "españa",
+            "renta per cápita"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20251212/espana-recupera-renta-covid-desigualdad-crece-areas-metropolitanas-litoral-mediterraneo/1003744051616_0.html",
+        "date": "2025-12-12 01:47:54",
+        "sentiment_score": -0.8074505273252726
+    },
+    {
+        "title": "Así es la alta velocidad china que tanto interesa a Óscar Puente: trenes que circulan a 350 km/h y llegarán a los 450",
+        "image_url": "https://s3.elespanol.com/2023/07/12/omicrono/tecnologia/778432843_260426836_1706x960.jpg",
+        "tags": [
+            "óscar puente santiago",
+            "renfe",
+            "movilidad",
+            "trenes",
+            "observatorio de la movilidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20251212/alta-velocidad-china-interesa-oscar-puente-trenes-circulan-kmh-llegaran/1003744051160_0.html",
+        "date": "2025-12-12 01:47:52",
+        "sentiment_score": -0.5740998182445765
+    },
+    {
+        "title": "11 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/11-dic-2025-partidazo-cope-20251212_3269846.html",
+        "date": "2025-12-12 00:38:33",
+        "sentiment_score": -0.04206645488739014
+    },
+    {
+        "title": "Unicef elige la radio del Palacio Valdés para un podcast nacional",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/11/208974505.jpg",
+        "tags": [
+            "palacio",
+            "elige",
+            "nacional",
+            "valdes",
+            "podcast",
+            "radio",
+            "unicef"
+        ],
+        "link": "https://www.elcomercio.es/aviles/unicef-elige-radio-palacio-valdes-podcast-nacional-20251212225349-nt.html",
+        "date": "2025-12-12 00:00:00",
+        "sentiment_score": 0.5610039830207825
+    },
+    {
+        "title": "«Nadie deja su casa o su tierra por gusto»",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/10/frontera-02-k3B-U240510383473exD-1200x840@RC.jpg",
+        "tags": [
+            "francisco franco",
+            "cataluña",
+            "cine",
+            "segunda guerra mundial",
+            "francia"
+        ],
+        "link": "https://www.hoy.es/pantallas/cine/deja-casa-tierra-gusto-20251210004300-ntrc.html",
+        "date": "2025-12-11 23:43:02",
+        "sentiment_score": 0.6601227819919586
     }
 ];
