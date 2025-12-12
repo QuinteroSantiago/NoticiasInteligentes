@@ -1,160 +1,5 @@
 export default [
     {
-        "title": "17:00H | 08 DIC 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-08-dic-2025-tarde-20251208_3267199.html",
-        "date": "2025-12-08 17:09:00",
-        "sentiment_score": -0.10565349459648132
-    },
-    {
-        "title": "Una fiesta entre las ruinas de Siria",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/08/siria-1-kKvE-U240490592234iUC-1200x840@RC.jpg",
-        "tags": [
-            "fiesta",
-            "siria",
-            "ruinas"
-        ],
-        "link": "https://www.eldiariomontanes.es/internacional/oriente-proximo/fiesta-ruinas-siria-primer-aniversario-sin-assad-20251208175643-ntrc.html",
-        "date": "2025-12-08 17:00:19",
-        "sentiment_score": -0.28990888595581055
-    },
-    {
-        "title": "Los niños de San Ildefonso, felices por participar en el sorteo: «Mola mucho, cantar es bonito”",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/EuropaPress_7143147_ninas_ninos_san_ildefonso_preparan_sorteo_extraordinario_navidad_2025-1095x730.jpg",
-        "tags": [
-            "lotería",
-            "sorteo extraordinario de lotería de navidad",
-            "estilo de vida"
-        ],
-        "link": "https://www.lanzadigital.com/estilo-de-vida/los-ninos-de-san-ildefonso-felices-por-participar-en-el-sorteo-mola-mucho-cantar-es-bonito/",
-        "date": "2025-12-08 16:55:39",
-        "sentiment_score": -0.005654186010360718
-    },
-    {
-        "title": "El mensaje del Sant Andreu tras la última derrota del Real Madrid: \"Competir contra el Celta no está al alcance de todos\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/08/6936ff16cbd37.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mensaje-sant-andreu-ultima-derrota-real-madrid-competir-celta-alcance-todos-20251208_3267192.html",
-        "date": "2025-12-08 16:48:22",
-        "sentiment_score": -0.03433004021644592
-    },
-    {
-        "title": "Alerta roja en el Madrid antes del City: cuatro meses para Militao, sin Camavinga y Huijsen, y Mbappé tocado",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/08/6936f422cac0e7-15146023.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/alerta-roja-madrid-antes-city-cuatro-meses-para-militao-sin-camavinga-huijsen-con-mbappe-tocado_6907910_0.html",
-        "date": "2025-12-08 16:46:01",
-        "sentiment_score": -0.865144670009613
-    },
-    {
-        "title": "Barça, Real Madrid, Atlético y Athletic empiezan su andadura en Copa en el sorteo de dieciseisavos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251208174420_120.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-barca-real-madrid-atletico-athletic-empiezan-andadura-copa-sorteo-dieciseisavos-20251208174420.html",
-        "date": "2025-12-08 16:44:20",
-        "sentiment_score": 0.055232297629117966
-    },
-    {
-        "title": "¡Segundo llamado! España convoca a este prospecto venezolano",
-        "image_url": "https://pxcdn.meridiano.net/122025/1765211059368/Captura%20de%20pantalla%202025-12-08%20122352.png?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/segundo-llamado-espana-convoca-a-este-prospecto-venezolano-202512812340",
-        "date": "2025-12-08 16:34:00",
-        "sentiment_score": -0.42529696226119995
-    },
-    {
-        "title": "El FC Barcelona busca trasladar a Europa su mejoría liguera",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9ad708ba-15c8-4ee4-9586-3245fe2f0a04_16-9-aspect-ratio_default_0_x1727y1039.jpg",
-        "tags": [
-            "busca",
-            "europa",
-            "barca",
-            "trasladar",
-            "mejoria"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2025/12/08/barca-busca-trasladar-europa-mejoria-10446807.html",
-        "date": "2025-12-08 16:33:46",
-        "sentiment_score": 0.7061183415353298
-    },
-    {
-        "title": "Ribas de Sil homenajeó a Javier Rodríguez Sotuela, el sacerdote que plantó cara al franquismo en El Bierzo",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/12/08/2025120818035262871.jpg",
-        "tags": [
-            "ribeira sacra"
-        ],
-        "link": "https://www.elprogreso.es/articulo/ribeira-sacra/ribas-sil-homenajea-javier-rodriguez-situela-sacerdote-que-planto-cara-franquismo-cuenca-minera-berciana/202512081810001930072.html",
-        "date": "2025-12-08 17:10:00",
-        "sentiment_score": -0.46953627839684486
-    },
-    {
-        "title": "Escapada gastro a Zamora en diciembre: sabores, vinos y paseos con mucho encanto",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/08/2025120818042810184.jpg",
-        "tags": [
-            "comerybeber"
-        ],
-        "link": "https://www.mundiario.com/articulo/comerybeber/escapada-gastro-zamora-diciembre-sabores-vinos-paseos-mucho-encanto/20251208180543366254.html",
-        "date": "2025-12-08 17:05:43",
-        "sentiment_score": 0.6374027896672487
-    },
-    {
-        "title": "12 Km de retención en la C-16 en La Nou de Berguedà por la operación retorno del puente de la Puríssima",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/08/6936d54d92624.r_d.384-228-5719.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.lavanguardia.com/local/catalunya/20251208/11342579/12-km-retencion-c-16-nou-bergueda-operacion-retorno-puente-purissima.html",
-        "date": "2025-12-08 16:59:14",
-        "sentiment_score": -0.7031236067414284
-    },
-    {
-        "title": "El Barça se planta con una joya de la Masía: no habrá 'caso Éric García' 2.0",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/06/culemania/primer-equipo/1003742704824_15368468_1706x960.jpg",
-        "tags": [
-            "barça",
-            "marc bernal",
-            "primer equipo",
-            "la masía"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251208/barca-planta-joya-masia-caso-eric-garcia/1003742714350_0.html",
-        "date": "2025-12-08 16:55:47",
-        "sentiment_score": -0.005438610911369324
-    },
-    {
-        "title": "Israel asalta la sede de la agencia de la ONU para los refugiados palestinos en Jerusalén Este",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/08/6936f8d861d31.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20251208/11342529/israel-asalta-sede-agencia-onu-refugiados-palestinos-jerusalen.html",
-        "date": "2025-12-08 16:49:23",
-        "sentiment_score": -0.8266942035406828
-    },
-    {
-        "title": "Nicolás Maduro, el político improbable que desafió todos los pronósticos pero gobierna un país con millones en el exilio",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/04e5c96a550ed2ace41e537dd93edee6b7d3b898w.jpg",
-        "tags": [
-            "nacionales",
-            "actualidad",
-            "nicolás maduro"
-        ],
-        "link": "https://lapatilla.com/2025/12/08/nicolas-maduro-el-politico-improbable-que-desafio-todos-los-pronosticos-pero-gobierna-un-pais-con-millones-en-el-exilio/",
-        "date": "2025-12-08 17:13:41",
-        "sentiment_score": -0.758212273940444
-    },
-    {
         "title": "Osasuna-Levante (2-0): Víctor Muñoz se reencuentra con el gol",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/5da6f956-01f9-4b81-90da-8c4d8563557b_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -392,18 +237,6 @@ export default [
         "link": "https://okdiario.com/deportes/alineacion-del-barcelona-contra-eintracht-vuelve-raphinha-15898901",
         "date": "2025-12-08 21:00:08",
         "sentiment_score": 0.04039902985095978
-    },
-    {
-        "title": "Nicolás Maduro, el político improbable que desafió todos los pronósticos pero gobierna un país con millones en el exilio",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/04e5c96a550ed2ace41e537dd93edee6b7d3b898w.jpg",
-        "tags": [
-            "nacionales",
-            "actualidad",
-            "nicolás maduro"
-        ],
-        "link": "https://lapatilla.com/2025/12/08/nicolas-maduro-el-politico-improbable-que-desafio-todos-los-pronosticos-pero-gobierna-un-pais-con-millones-en-el-exilio/",
-        "date": "2025-12-08 17:13:41",
-        "sentiment_score": -0.7582131586968899
     },
     {
         "title": "El Real Madrid, del cielo al infierno en 40 días: ¿le encontrará la vuelta un Xabi Alonso en la cornisa?",
@@ -2899,5 +2732,172 @@ export default [
         "link": "https://www.hoy.es/pantallas/cine/deja-casa-tierra-gusto-20251210004300-ntrc.html",
         "date": "2025-12-11 23:43:02",
         "sentiment_score": 0.6601227819919586
+    },
+    {
+        "title": "Madrid confirma cuatro nuevos focos de gripe aviar tras la muerte de cientos de cigüeñas",
+        "image_url": "https://images.ecestaticos.com/PsD3zYiy4-Hn5mdG2zAatvyrGAc=/0x0:2272x1513/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4b1%2F027%2F7a1%2F4b10277a1b48c77c4a5d17ecd15f740a.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.elconfidencial.com/espana/madrid/2025-12-12/gripe-aviar-madrid-aves-silvestres-1tps_4264854/",
+        "date": "2025-12-12 06:42:00",
+        "sentiment_score": 0.12506327778100967
+    },
+    {
+        "title": "Del clamor del Acuerdo de París al fracaso del 'mutirão' de Belém: 2025 marca 10 años de victorias y desencuentros climáticos",
+        "image_url": "https://s3.elespanol.com/2021/08/24/enclave-ods/606699910_201202098_1706x960.jpg",
+        "tags": [
+            "cop30",
+            "historias",
+            "cop21",
+            "agenda 2030"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20251212/clamor-acuerdo-paris-fracaso-mutirao-belem-marca-anos-victorias-desencuentros-climaticos/1003744049223_0.html",
+        "date": "2025-12-12 06:30:00",
+        "sentiment_score": -0.9072903161868453
+    },
+    {
+        "title": "De su novia Ainhoa al libro del Emérito: lo que se ha olvidado Urdangarin en su primera entrevista",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/urdanga-infant-dos.jpeg",
+        "tags": [
+            "casa real española",
+            "iñaki urdangarin",
+            "rey juan carlos",
+            "familia real española",
+            "celebrities",
+            "gente"
+        ],
+        "link": "https://theobjective.com/gente/2025-12-12/ainhoa-libro-emerito-olvidado-urdangarin-entrevista/",
+        "date": "2025-12-12 06:30:00",
+        "sentiment_score": 0.5509465858340263
+    },
+    {
+        "title": "Un taller de biodiversidad en Madrid o una plantación de árboles en Cantabria: estos son los planes ODS de la semana",
+        "image_url": "https://s3.elespanol.com/2024/12/12/actualidad/908169204_251610049_1706x960.jpg",
+        "tags": [
+            "planes",
+            "ods (objetivos de desarrollo sostenible)",
+            "semanales"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/semanales/20251212/taller-biodiversidad-madrid-plantacion-arboles-cantabria-planes-ods-semana/1003744049983_0.html",
+        "date": "2025-12-12 06:20:00",
+        "sentiment_score": 0.8134340811520815
+    },
+    {
+        "title": "La UCO pone el foco en el patrimonio de Vicente Fernández y en los ingresos en su bar de Sevilla tras salir de la SEPI",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f2d8fbb-cfab-4d23-9130-89a9c44cde34_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "la cartuja,psoe,sepi"
+        ],
+        "link": "https://www.laopiniondezamora.es/nacional/2025/12/12/uco-pone-foco-patrimonio-vicente-fernandez-ingresos-bar-sevilla-sepi-124705281.html",
+        "date": "2025-12-12 06:19:10",
+        "sentiment_score": -0.28820283710956573
+    },
+    {
+        "title": "La interrupción de la circulación de trenes entre Granollers Centre y Mollet Sant Fost desde primera hora impide a los usuarios seguir su viaje a Barcelona en hora punta",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/27fadad7-9d1b-460c-837f-0a464b64db32_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "granollers",
+            "hora punta",
+            "renfe",
+            "trenes",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20251212/interrupcion-circulacion-trenes-granollers-centre-124706237",
+        "date": "2025-12-12 06:38:36",
+        "sentiment_score": -0.8085192143917084
+    },
+    {
+        "title": "Un niño pide un olivo a los Reyes Magos para fundar el equipo de fútbol de su pueblo",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/12/693bb0ad326c6.r_d.460-185-4778.jpeg",
+        "tags": [
+            "aragón"
+        ],
+        "link": "https://www.cope.es/emisoras/aragon/noticias/nino-pide-olivo-reyes-magos-fundar-equipo-futbol-pueblo-20251212_3269864.html",
+        "date": "2025-12-12 06:31:53",
+        "sentiment_score": 0.0760340690612793
+    },
+    {
+        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades de España para hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "gasolina",
+            "españa-economia",
+            "precio gasolina",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/12/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-de-espana-para-hoy/",
+        "date": "2025-12-12 06:30:40",
+        "sentiment_score": -0.0036076977849006653
+    },
+    {
+        "title": "Cuerdas de escalada que son raíces",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/757a8b3b-e165-47f3-98fe-fb57a4bd4390_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "son",
+            "cuerdas",
+            "escalada",
+            "raices"
+        ],
+        "link": "https://www.deia.eus/otros-deportes/2025/12/12/cuerdas-escalada-son-raices-10461866.html",
+        "date": "2025-12-12 06:21:03",
+        "sentiment_score": -0.04626736044883728
+    },
+    {
+        "title": "Volver a casa por Navidad: un 22% de los barceloneses declara llegar al final del periodo agotado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9506a75a-7cdb-4a31-8e97-a76d7fbabe71_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "navidad",
+            "bc",
+            "psicología"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251212/volver-casa-navidad-genera-estres-124705198",
+        "date": "2025-12-12 06:17:14",
+        "sentiment_score": -0.1903834193944931
+    },
+    {
+        "title": "Lo que se perdió Richard Gere en la feria de Guadalajara",
+        "image_url": "https://static1.ara.cat/clip/0fa65e06-6738-4c38-8257-dad7ef60421b_16-9-aspect-ratio_default_0_x477y316.jpg",
+        "tags": [
+            "richard",
+            "feria",
+            "guadalajara",
+            "perdio",
+            "gere"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/perdio-richard-gere-feria-guadalajara_129_5589858.html",
+        "date": "2025-12-12 06:16:03",
+        "sentiment_score": -0.11059853434562683
+    },
+    {
+        "title": "Tres buenos escritores catalanes que rehuyen la fama",
+        "image_url": "https://static1.ara.cat/clip/16ced904-52c1-4db0-8fa5-1cadfc0ea1a3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fama",
+            "escritores",
+            "tres",
+            "rehuyen",
+            "catalanes",
+            "buenos"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/tres-buenos-escritores-catalanes-rehuyen-fama_129_5589854.html",
+        "date": "2025-12-12 06:15:58",
+        "sentiment_score": -0.2554401010274887
+    },
+    {
+        "title": "Cinco beneficios del pádel para la salud",
+        "image_url": "https://efesalud.com/wp-content/uploads/2025/12/padel-quironsalud-torneo.webp",
+        "tags": [
+            "cardiosaludable",
+            "beneficios",
+            "prevención",
+            "deporte",
+            "salud y prevención",
+            "noticias principales"
+        ],
+        "link": "https://efesalud.com/padel-beneficios-salud-quironsalud/",
+        "date": "2025-12-12 06:13:00",
+        "sentiment_score": 0.6954927518963814
     }
 ];
