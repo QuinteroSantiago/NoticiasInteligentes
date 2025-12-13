@@ -2865,5 +2865,251 @@ export default [
         "link": "https://elpais.com/deportes/baloncesto/2025-12-12/el-barca-de-clyburn-y-punter-se-crece-ante-el-olympiacos.html",
         "date": "2025-12-12 21:33:22",
         "sentiment_score": 0.7984130661934614
+    },
+    {
+        "title": "José Mercé: \"Una IA nunca va a tener un corazón, está claro que no puede sentir ni ponerte los pelos como escarpias\"",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053230_260451972_1706x960.jpg",
+        "tags": [
+            "flamenco",
+            "jerez de la frontera",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251213/jose-merce-ia-nunca-va-tener-corazon-claro-no-puede-sentir-ponerte-pelos-escarpias/1003744053129_0.html",
+        "date": "2025-12-13 02:00:11",
+        "sentiment_score": -0.9274617861956358
+    },
+    {
+        "title": "¿Destitución de Sergio Francisco?: Anoeta mira al palco",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4f71a873-09a5-42f0-a78a-8d7102209e84_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mira",
+            "sergio",
+            "anoeta",
+            "francisco",
+            "destitucion"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/12/13/destitucion-sergio-francisco-anoeta-mira-10466310.html",
+        "date": "2025-12-13 01:31:37",
+        "sentiment_score": -0.31225229799747467
+    },
+    {
+        "title": "Vinicius vive una larga sequía de gol mientras que Real Madrid se desploma",
+        "image_url": "https://pxcdn.meridiano.net/122025/1765588721912.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/vinicius-vive-una-larga-sequia-de-gol-mientras-que-real-madrid-se-desploma--2025121221100",
+        "date": "2025-12-13 01:10:00",
+        "sentiment_score": -0.8742328248918056
+    },
+    {
+        "title": "Vinivius vive una larga sequía de gol mientras que Real Madrid se desploma",
+        "image_url": "https://pxcdn.meridiano.net/122025/1765588721912.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/vinivius-vive-una-larga-sequia-de-gol-mientras-que-real-madrid-se-desploma--2025121221100",
+        "date": "2025-12-13 01:10:00",
+        "sentiment_score": -0.8742328248918056
+    },
+    {
+        "title": "Análisis del Mundial 2026: Grupos E, F, G y H. Alemania ante una trampa, España y Países Bajos son candidatos",
+        "image_url": "https://i.headtopics.com/images/2025/12/12/latimes/an-lisis-del-mundial-2026-grupos-e-f-g-y-h-alemani-an-lisis-del-mundial-2026-grupos-e-f-g-y-h-alemani-714F2453B4C9480BAC7759424077B582.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://headtopics.com/news/an-lisis-del-mundial-2026-grupos-e-f-g-y-h-alemania-77108043",
+        "date": "2025-12-13 01:01:22",
+        "sentiment_score": -0.6376520656049252
+    },
+    {
+        "title": "El Real Madrid pone a Laporta contra las cuerdas en los juzgados: incómodo interrogatorio del 'caso Negreira'",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/12/culemania/palco/1003742715734_15507996_1706x960.jpg",
+        "tags": [
+            "palco",
+            "real madrid",
+            "josé maría enríquez negreira",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251213/real-madrid-laporta-juzgados-incomodo-interrogatorio-negreira/1003742715733_0.html",
+        "date": "2025-12-12 23:18:25",
+        "sentiment_score": -0.7660761456936598
+    },
+    {
+        "title": "Así gestiona su fortuna la familia Del Pino",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/6b40dad461ba23c35a5174f710052436/f/webp/assets/multimedia/imagenes/2025/12/12/17655720546685.png",
+        "tags": [
+            "mercados>",
+            "ahorro>"
+        ],
+        "link": "https://www.expansion.com/ahorro/2025/12/13/693c7c26468aebc6398b45a0.html",
+        "date": "2025-12-12 23:13:16",
+        "sentiment_score": 0.30064715072512627
+    },
+    {
+        "title": "Tsygankov anota dos goles y Girona logra importante victoria 2-1 ante Real Sociedad en La Liga",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "girona real sociedad la liga",
+            "deportes",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/girona-real-sociedad-la-liga-ebfbdd0c0b37ba871d199efee1b9ca15",
+        "date": "2025-12-12 23:02:22",
+        "sentiment_score": 0.6087261289358139
+    },
+    {
+        "title": "Tsygankov anota dos goles y Girona logra importante victoria 2-1 ante Real Sociedad en La Liga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/tsygankov-anota-dos-goles-y-girona-logra-importante-victoria-2-1-ante-real-sociedad-en/article_5b593277-3e30-50dd-ab5d-24dcc51bb91b.html",
+        "date": "2025-12-12 23:02:22",
+        "sentiment_score": 0.6095401383936405
+    },
+    {
+        "title": "Tsygankov anota dos goles y Girona logra importante victoria 2-1 ante Real Sociedad en La Liga",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "en español"
+        ],
+        "link": "https://www.chicagotribune.com/2025/12/12/tsygankov-anota-dos-goles-y-girona-logra-importante-victoria-2-1-ante-real-sociedad-en-la-liga/",
+        "date": "2025-12-12 23:02:21",
+        "sentiment_score": 0.5585096068680286
+    },
+    {
+        "title": "Woody Allen cambia Barcelona por Madrid: Ayuso quiere convertir la ciudad en un referente para Hollywood",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053150_260451040_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "barcelona",
+            "woody allen",
+            "política",
+            "netflix",
+            "cine",
+            "isabel díaz ayuso"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251213/woody-allen-cambia-barcelona-madrid-ayuso-quiere-convertir-ciudad-referente-hollywood/1003744052581_0.html",
+        "date": "2025-12-13 01:40:23",
+        "sentiment_score": 0.23125281929969788
+    },
+    {
+        "title": "'Ciudad de sombras', la serie póstuma de Verónica Echegui: un 'thriller' en la Barcelona de Gaudí",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053721_260458323_1706x960.jpg",
+        "tags": [
+            "estrenos de series",
+            "en plan serie",
+            "series"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/blogs/en_plan_serie/20251213/ciudad-sombras-serie-postuma-veronica-echegui-thriller-barcelona-gaudi/1003744053657_12.html",
+        "date": "2025-12-13 01:38:45",
+        "sentiment_score": -0.4138190895318985
+    },
+    {
+        "title": "\"Hemos creado el Hollywood de los jabalíes\": la odisea de acabar con 60.000 ejemplares como quiere hacer Cataluña",
+        "image_url": "https://s3.elespanol.com/2025/12/12/ciencia/1003744052226_260439654_1706x960.jpg",
+        "tags": [
+            "jabalíes",
+            "cataluña",
+            "ciencia",
+            "peste porcina",
+            "caza"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20251213/creado-hollywood-jabalies-odisea-acabar-ejemplares-quiere-hacer-cataluna/1003744052034_0.html",
+        "date": "2025-12-13 00:58:24",
+        "sentiment_score": -0.4392324239015579
+    },
+    {
+        "title": "Del 'desliz' con su hijo Miguel al extraño silencio sobre su pareja: las otras curiosidades de la entrevista de Iñaki Urdangarin",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052455_260442181_1706x960.jpg",
+        "tags": [
+            "cristina de borbón y grecia",
+            "iñaki urdangarín",
+            "famosos",
+            "pablo urdangarin",
+            "entrevistas",
+            "hijos"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251213/desliz-hijo-miguel-extrano-silencio-pareja-curiosidades-entrevista-inaki-urdangarin/1003744052415_0.html",
+        "date": "2025-12-13 00:45:35",
+        "sentiment_score": -0.46325553208589554
+    },
+    {
+        "title": "El multitudinario recibimiento a Lionel Messi en su llegada a la India junto a De Paul y Suárez para el GOAT Tour",
+        "image_url": "https://www.infobae.com/resizer/v2/WVAVQLYWBBDJTENKLRPKVAPTLU.jpg?auth=d2a7707c9c3e5e19330cdc153f29d15089ca7a1d905a944982f270382d745b17&height=712&smart=true&width=1266",
+        "tags": [
+            "inter miami",
+            "rodrigo de paul",
+            "luis suárez",
+            "india",
+            "deportes-argentina",
+            "goat tour",
+            "lionel messi"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/13/el-multitudinario-recibimiento-a-lionel-messi-en-su-llegada-a-la-india-junto-a-de-paul-y-suarez-para-el-goat-tour/",
+        "date": "2025-12-13 00:27:51",
+        "sentiment_score": 0.17717618122696877
+    },
+    {
+        "title": "El as en la manga de Laporta para incrementar los ingresos del Camp Nou: cómo hacer caja antes y después de los partidos",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/13/culemania/palco/1003742715762_15508502_1706x960.jpg",
+        "tags": [
+            "camp nou",
+            "espai barça",
+            "fc barcelona",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251213/laporta-potenciar-ingresos-camp-nou-despues-partidos/1003742715729_0.html",
+        "date": "2025-12-13 00:23:32",
+        "sentiment_score": 0.7172010783106089
+    },
+    {
+        "title": "Purificación Tomás: Exilio y acción política",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/668732e0-1cab-41df-8cde-ca853da1a70d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "purificacion",
+            "accion",
+            "politica",
+            "tomas",
+            "exilio"
+        ],
+        "link": "https://www.lne.es/club/agenda/purificacion-tomas-exilio-accion-politica-124737503.html",
+        "date": "2025-12-13 00:07:05",
+        "sentiment_score": 0.10093837976455688
+    },
+    {
+        "title": "Guía del partido Barça-Osasuna de hoy: horario, dónde verlo y alineaciones",
+        "image_url": "https://static1.ara.cat/clip/2bd55cac-6a10-4381-b892-5f098944ef7a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "guia",
+            "partido",
+            "alineaciones",
+            "verlo",
+            "hoy",
+            "barca",
+            "horario",
+            "osasuna"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/guia-partido-barca-osasuna-hoy-horario-verlo-alineaciones_1_5591035.html",
+        "date": "2025-12-13 00:00:19",
+        "sentiment_score": 0.6334709376096725
+    },
+    {
+        "title": "Feijóo pide el voto para Guardiola «y no hacer experimentos»",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/12/209055750.jpg",
+        "tags": [
+            "pide",
+            "voto",
+            "experimentos",
+            "feijoo",
+            "guardiola"
+        ],
+        "link": "https://www.hoy.es/elecciones/extremadura/feijoo-pide-voto-guardiola-experimentos-20251213232318-nt.html",
+        "date": "2025-12-13 00:00:00",
+        "sentiment_score": -0.3193872310221195
     }
 ];
