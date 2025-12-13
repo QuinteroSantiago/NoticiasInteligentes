@@ -1,170 +1,5 @@
 export default [
     {
-        "title": "17:00H | 09 DIC 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-09-dic-2025-tarde-20251209_3267955.html",
-        "date": "2025-12-09 17:07:00",
-        "sentiment_score": -0.265930712223053
-    },
-    {
-        "title": "Las entradas para el UCAM Murcia-Real Madrid, a la venta: precios y localidades que quedan",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/598ae089-c7c2-4380-aa62-1d4ae901fa71_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ucam murcia",
-            "deportes",
-            "joventut",
-            "precios",
-            "real madrid",
-            "ucam"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/09/entradas-ucam-murcia-real-madrid-124611529.html",
-        "date": "2025-12-09 17:06:58",
-        "sentiment_score": 0.16508892178535461
-    },
-    {
-        "title": "Shock por la muerte de Jorge Martínez, líder de Ilegales y \"un gran corazón que jugaba a ser macarra\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e0e477df-37a6-4deb-9806-1609f87fddf3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "música",
-            "rock"
-        ],
-        "link": "https://www.informacion.es/cultura/2025/12/09/shock-muerte-jorge-martinez-lider-124611819.html",
-        "date": "2025-12-09 17:05:02",
-        "sentiment_score": -0.8685974441468716
-    },
-    {
-        "title": "Hugo González es la última sensación en la NBA",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/09/D1602615-F939-4E41-B678-B3BF20C66DBF/hugo-gonzalez-ultima-sensacion-nba_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena 3 noticias",
-            "deportes",
-            "baloncesto"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/baloncesto/hugo-gonzalez-ultima-sensacion-nba_20251209693856ab55584d48fb701de9.html",
-        "date": "2025-12-09 17:04:43",
-        "sentiment_score": 0.8485059291124344
-    },
-    {
-        "title": "El Real Madrid, una noche clave y un enemigo íntimo",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251209180403_120.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-madrid-noche-clave-enemigo-intimo-20251209180403.html",
-        "date": "2025-12-09 17:04:03",
-        "sentiment_score": -0.2609911262989044
-    },
-    {
-        "title": "El curioso destino escogido por Ronald Araujo para su viaje espiritual: en busca de la paz",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/09/culemania/primer-equipo/1003742714681_15495150_1706x960.jpg",
-        "tags": [
-            "primer equipo",
-            "barça",
-            "ronald araujo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251209/curioso-destino-escogido-ronald-araujo-viaje-espiritual/1003742714675_0.html",
-        "date": "2025-12-09 17:13:07",
-        "sentiment_score": -0.8035711161792278
-    },
-    {
-        "title": "Andrés Iniesta sitúa Barcelona en el epicentro del ciclismo mundial: “Me ha acompañado siempre en mi vida, más allá del fútbol”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/GNN6X323OZH7RAXCAAY7KOZQVY.jpg?auth=84604f44331d697258b37af96e9f93f827d7e8b764c1d05736f5fbe60ded3f8c&width=1200",
-        "tags": [
-            "barcelona",
-            "ciclismo",
-            "jaume collboni",
-            "nsn cycling team",
-            "andrés iniesta",
-            "ayuntamiento barcelona",
-            "cataluña",
-            "ciclistas"
-        ],
-        "link": "https://elpais.com/deportes/ciclismo/2025-12-09/andres-iniesta-situa-barcelona-en-el-epicentro-del-ciclismo-mundial-me-ha-acompanado-siempre-en-mi-vida-mas-alla-del-futbol.html",
-        "date": "2025-12-09 17:12:52",
-        "sentiment_score": 0.11362113803625107
-    },
-    {
-        "title": "Araujo busca su paz mental en Israel",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/09/Clipboard-0190-k0VD-U240500999166tLH-1200x840@RC.jpg",
-        "tags": [
-            "salud mental",
-            "f.c. barcelona"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/araujo-busca-paz-mental-israel-20251209181202-ntrc.html",
-        "date": "2025-12-09 17:12:04",
-        "sentiment_score": 0.08506396412849426
-    },
-    {
-        "title": "El viento impide aterrizar en Santander el segundo vuelo entre Granada y la capital cántabra",
-        "image_url": "https://static.grupojoly.com/clip/cbecc1e7-c6d8-4fb5-a6cb-a56f9ac0f686_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sucesos granada",
-            "aeropuerto de granada",
-            "últimas noticias granada"
-        ],
-        "link": "https://www.granadahoy.com/granada/viento-impide-aterrizar-santander-segundo-vuelo-granada_0_2005419429.html",
-        "date": "2025-12-09 17:10:00",
-        "sentiment_score": 0.6097338944673538
-    },
-    {
-        "title": "Trump advierte a Maduro de que tiene «los días contados» en Venezuela",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/11/trump-ucrania-acuerdo-guerra-rusia.jpg",
-        "tags": [
-            "donald trump",
-            "narcotráfico",
-            "nicolás maduro",
-            "venezuela",
-            "internacional"
-        ],
-        "link": "https://theobjective.com/internacional/2025-12-09/trump-maduro-dias-venezuela/",
-        "date": "2025-12-09 17:07:35",
-        "sentiment_score": 0.026369646191596985
-    },
-    {
-        "title": "Miquel y Costas confirma un dividendo de 0,1171 euros brutos por acción el 17 de diciembre",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251209180708_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-miquel-costas-confirma-dividendo-01171-euros-brutos-accion-17-diciembre-20251209180708.html",
-        "date": "2025-12-09 17:07:08",
-        "sentiment_score": 0.0388222374022007
-    },
-    {
-        "title": "Maxi López revela cómo eligió a Ronaldinho en vez de a su pareja durante su etapa en el Barcelona: \"Le compré un pasaje\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/09/6938553385e3f.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/maxi-lopez-revela-eligio-ronaldinho-vez-pareja-etapa-barcelona-le-compre-pasaje-20251209_3267954.html",
-        "date": "2025-12-09 17:07:01",
-        "sentiment_score": -0.19572830200195312
-    },
-    {
-        "title": "Salud cifra en un 5,9% el seguimiento de la huelga de médicos en Catalunya este martes por la tarde",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251209180542_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-salud-cifra-59-seguimiento-huelga-medicos-catalunya-martes-tarde-20251209180542.html",
-        "date": "2025-12-09 17:05:42",
-        "sentiment_score": 0.06124665588140488
-    },
-    {
-        "title": "El Govern de Cataluña aprueba una estrategia para captar 6.000 millones de euros en inversión extranjera en los próximos cinco años",
-        "image_url": "https://www.elplural.com/uploads/s1/21/07/56/4/illa-oportunitats-per-liderar_7_480x270.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.elplural.com/autonomias/cataluna/govern-cataluna-aprueba-estrategia-captar-6000-millones-euros-inversion-extranjera-proximos-cinco-anos_367050102",
-        "date": "2025-12-09 17:05:28",
-        "sentiment_score": -0.01620122790336609
-    },
-    {
         "title": "Así queda la clasificación de la Champions League tras los partidos de Barcelona y Atlético",
         "image_url": "https://okdiario.com/img/2025/12/09/befunky-collage-.jpg",
         "tags": [
@@ -3111,5 +2946,191 @@ export default [
         "link": "https://www.hoy.es/elecciones/extremadura/feijoo-pide-voto-guardiola-experimentos-20251213232318-nt.html",
         "date": "2025-12-13 00:00:00",
         "sentiment_score": -0.3193872310221195
+    },
+    {
+        "title": "Ni Madrid ni Vigo: la calle más iluminada de Navidad está en Málaga y es obra de los vecinos",
+        "image_url": "https://okdiario.com/img/2025/12/11/ni-madrid-ni-vigo-la-calle-mas-iluminada-de-navidad-esta-en-malaga-y-es-obra-de-los-vecinos.jpg",
+        "tags": [
+            "españa",
+            "okd",
+            "navidad",
+            "luces de navidad",
+            "andalucía"
+        ],
+        "link": "https://okdiario.com/andalucia/ni-madrid-ni-vigo-calle-mas-iluminada-navidad-esta-malaga-obra-vecinos-15914799",
+        "date": "2025-12-13 06:30:47",
+        "sentiment_score": -0.18033792078495026
+    },
+    {
+        "title": "Leonor «establece límites» y Felipe VI transmite «contención» a través de sus firmas navideñas",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/firma-rey-felipe-letizia-leonor-sofia.jpg",
+        "tags": [
+            "felicitaciones",
+            "familia real española",
+            "celebrities",
+            "princesa leonor",
+            "casa real española",
+            "psicología",
+            "rey felipe vi",
+            "gente",
+            "infanta sofía",
+            "reina letizia"
+        ],
+        "link": "https://theobjective.com/gente/2025-12-13/leonor-establece-limites-felipe-firmas-personalidad/",
+        "date": "2025-12-13 06:30:00",
+        "sentiment_score": 0.7150136586278677
+    },
+    {
+        "title": "‘Zapata tenor’ y ‘CLM Sinfónica’ este sábado con “Gigantes” en el Quijano",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Cantero-Zapata-Velasco-y-Lozano.-JMC-2025-12-12-11Sinfonica-Zapata-scaled.jpg",
+        "tags": [
+            "cultura",
+            "música",
+            "ciudad real"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/ciudad-real/zapata-tenor-y-clm-sinfonica-este-sabado-con-gigantes-en-el-quijano/",
+        "date": "2025-12-13 06:23:54",
+        "sentiment_score": 0.0471842885017395
+    },
+    {
+        "title": "Un certamen de danzas con identidad propia",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/Festival-de-Danzas.jpg",
+        "tags": [
+            "folklore",
+            "la última",
+            "danza",
+            "segovia"
+        ],
+        "link": "https://eladelantado.com/un-certamen-de-danzas-con-identidad-propia/",
+        "date": "2025-12-13 06:00:48",
+        "sentiment_score": 0.07489696145057678
+    },
+    {
+        "title": "Sonia Bermúdez, una de las nuestras",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e4b88773-2f72-4965-924f-16144469b8c2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "historia",
+            "rayo",
+            "barça",
+            "tiempo"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/2025/12/13/sonia-bermudez-una-nuestras-124734485.html",
+        "date": "2025-12-13 06:00:25",
+        "sentiment_score": 0.1482250839471817
+    },
+    {
+        "title": "Así puedes ver el Atlético de Madrid - Valencia al menor precio: choque de realidades con objetivos muy distintos",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/12/09/693894fe8c608.jpeg",
+        "tags": [
+            "elrecomendador"
+        ],
+        "link": "https://www.mundodeportivo.com/elrecomendador/20251213/1002585490/asi-puedes-ver-atletico-madrid-valencia-menor-precio-choque-realidades-objetivos-distintos.html",
+        "date": "2025-12-13 05:50:00",
+        "sentiment_score": -0.8527704644948244
+    },
+    {
+        "title": "La UCO on fire y a Sánchez su cuate le llama corrupto",
+        "image_url": "https://s1.staticld.com/2025/12/12/pedro-sanchez.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-12-13/pedro-gil-ruiz-la-uco-on-fire-y-a-sanchez-su-cuate-le-llama-corrupto-7333128/",
+        "date": "2025-12-13 05:32:32",
+        "sentiment_score": -0.9074148898944259
+    },
+    {
+        "title": "Liga F: Arturo Ruiz quiere que la Real llega a Navidad \"con 30 puntos\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a361da02-f343-41d6-8324-9a8959a3585c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "arturo",
+            "ruiz",
+            "quiere",
+            "f",
+            "liga"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2025/12/13/liga-f-arturo-ruiz-quiere-10465359.html",
+        "date": "2025-12-13 05:04:12",
+        "sentiment_score": 0.55253566801548
+    },
+    {
+        "title": "SPM consolida un modelo de agencia basado en calidad, innovación y talento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47a0e293-e33b-41c6-849d-c5a99345dd78_16-9-aspect-ratio_default_1421364.jpg",
+        "tags": [
+            "comunicación",
+            "innovación",
+            "talento",
+            "marketing"
+        ],
+        "link": "https://www.laopiniondemurcia.es/comunidad/2025/12/13/spm-consolida-modelo-agencia-basado-124686924.html",
+        "date": "2025-12-13 05:02:21",
+        "sentiment_score": 0.7237413991242647
+    },
+    {
+        "title": "Cien años de la muerte de Antoni Maura, el político de derechas al que no mira el PP",
+        "image_url": "https://static.eldiario.es/clip/de61039f-cd6f-43eb-92cf-7b4b47ea1158_16-9-discover-aspect-ratio_default_0_x602y427.jpg",
+        "tags": [
+            "pp",
+            "anos",
+            "muerte",
+            "cien",
+            "mira",
+            "maura",
+            "politico",
+            "no",
+            "derechas",
+            "antoni"
+        ],
+        "link": "https://www.eldiario.es/illes-balears/politica/cien-anos-muerte-antoni-maura-politico-derechas-no-mira-pp_1_12842086.html",
+        "date": "2025-12-13 05:01:59",
+        "sentiment_score": -0.10888123512268066
+    },
+    {
+        "title": "La primera Navidad de soltero de Pep Guardiola en Manchester: lujo discreto, rutina y fútbol",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/vida-soltero-pep-guardiola.jpeg",
+        "tags": [
+            "manchester",
+            "celebrities",
+            "pep guardiola",
+            "futbolistas",
+            "gente"
+        ],
+        "link": "https://theobjective.com/gente/2025-12-13/primera-navidad-soltero-pep-guardiola-manchester/",
+        "date": "2025-12-13 06:30:00",
+        "sentiment_score": 0.06881812959909439
+    },
+    {
+        "title": "Los fabricantes de piensos se atragantan con la peste porcina: temen una menor demanda y que ponga en jaque el crecimiento del sector",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/11/693b1a9bcca6d7-41477747.r_d.956-281.jpeg",
+        "tags": [
+            "economía y finanzas"
+        ],
+        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/fabricantes-piensos-atragantan-peste-porcina-temen-menor-demanda-ponga-jaque-crecimiento-sector_6909532_0.html",
+        "date": "2025-12-13 06:30:00",
+        "sentiment_score": -0.8007495868951082
+    },
+    {
+        "title": "El diario aparecido en los Encantes que se convirtió en cómic",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/12/12/1416240C-10A5-481F-87E3-01B3B5C6C762/diario-aparecido-encantes-que-convirtio-comic_69.jpg?crop=5271%2C2965%2Cx0%2Cy291&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/diario-aparecido-encantes-que-convirtio-comic_20251213693d059daf09df5010859c43.html",
+        "date": "2025-12-13 06:20:13",
+        "sentiment_score": -0.25386203825473785
+    },
+    {
+        "title": "Esta revista de decoración se convierte en un nuevo canal temático",
+        "image_url": "https://static.grupojoly.com/clip/01f24174-f947-4292-9eed-a040e557b7b9_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "revista",
+            "nuevo",
+            "decoracion",
+            "canal",
+            "convierte"
+        ],
+        "link": "https://www.malagahoy.es/television/revista-decoracion-convierte-nuevo-canal_0_2005447042.html",
+        "date": "2025-12-13 06:10:56",
+        "sentiment_score": -0.6323479488492012
     }
 ];
