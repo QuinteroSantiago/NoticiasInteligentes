@@ -1,394 +1,5 @@
 export default [
     {
-        "title": "Osasuna-Levante (2-0): Víctor Muñoz se reencuentra con el gol",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5da6f956-01f9-4b81-90da-8c4d8563557b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "osasuna",
-            "0",
-            "victor",
-            "2",
-            "levante"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/08/osasuna-levante-2-0-victor-10447522.html",
-        "date": "2025-12-08 22:14:41",
-        "sentiment_score": 0.2741923928260803
-    },
-    {
-        "title": "Sergio Ramos no continuará con Monterrey y busca nuevo equipo",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Sergio-Ramos-Monterrey.jpg",
-        "tags": [
-            "cf monterrey",
-            "méxico",
-            "titulares",
-            "deportes",
-            "futbol",
-            "sergio ramos"
-        ],
-        "link": "https://lapatilla.com/2025/12/08/sergio-ramos-no-continuara-con-monterrey-y-busca-nuevo-equipo/",
-        "date": "2025-12-08 22:06:12",
-        "sentiment_score": -0.13051368296146393
-    },
-    {
-        "title": "David Faitelson protagoniza pelea con La Volpe por Sergio Ramos: “Yo me voy”",
-        "image_url": "https://www.infobae.com/resizer/v2/TPZ5P56L5JFCRD6EMO5A5POIMY.jpg?auth=cf57de457e71d5e0b643968b17bb6f11b61904a7e3592fccc2fa7d28eac29539&height=1080&smart=true&width=1920",
-        "tags": [
-            "mexico-deportes",
-            "sergio ramos",
-            "liga mx",
-            "david faitelson",
-            "ricardo la volpe"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2025/12/08/david-faitelson-protagoniza-pelea-con-la-volpe-por-sergio-ramos-yo-me-voy/",
-        "date": "2025-12-08 21:47:03",
-        "sentiment_score": -0.10754063725471497
-    },
-    {
-        "title": "Rodrygo apela a uno de sus mejores momentos para vencer al City en plena crisis: \"Inolvidable\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/11/13/image-ce65d842-e70f-4d4f-bc15-3b46f9dd81e1-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "champions league 2025-2026"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/rodrygo-apela-mejores-momentos-vencer-al-city-plena-crisis-inolvidable_sto23248773/story.shtml",
-        "date": "2025-12-08 20:44:09",
-        "sentiment_score": 0.0679178237915039
-    },
-    {
-        "title": "Llega a Ceuta Coolligan, la tienda de fútbol retro para vestir",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/12/llega-ceuta-coolligan-tienda-futbol-retro-vestir-1-750x563.jpeg",
-        "tags": [
-            "sociedad",
-            "empresas",
-            "noticias",
-            "comercios"
-        ],
-        "link": "https://elfarodeceuta.es/llega-ceuta-coolligan-tienda-futbol-retro-vestir/",
-        "date": "2025-12-08 20:44:00",
-        "sentiment_score": 0.5037320032715797
-    },
-    {
-        "title": "Carlos Lopes, exnegociador de la Unión Africana: “Cuando África logra posiciones comunes, Europa las rompe\"",
-        "image_url": "https://static.eldiario.es/clip/3c978d70-ff73-4ad7-89c5-702026c94ae4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "logra",
-            "carlos",
-            "rompe",
-            "europa",
-            "africa",
-            "posiciones",
-            "comunes",
-            "union",
-            "exnegociador",
-            "africana",
-            "lopes"
-        ],
-        "link": "https://www.eldiario.es/internacional/carlos-lopes-exnegociador-union-africana-africa-logra-posiciones-comunes-europa-rompe_128_12824229.html",
-        "date": "2025-12-08 20:35:46",
-        "sentiment_score": -0.17424561083316803
-    },
-    {
-        "title": "España retrasa la maternidad: así se desploma la natalidad mientras la congelación de óvulos bate récords",
-        "image_url": "https://static.eldiario.es/clip/ccc7d0cb-856e-4f79-aa4f-aae56e6ee121_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "bate",
-            "records",
-            "maternidad",
-            "desploma",
-            "ovulos",
-            "congelacion",
-            "natalidad",
-            "espana",
-            "retrasa"
-        ],
-        "link": "https://www.eldiario.es/sociedad/espana-retrasa-maternidad-desploma-natalidad-congelacion-ovulos-bate-records_1_12821925.html",
-        "date": "2025-12-08 20:35:40",
-        "sentiment_score": -0.08620283007621765
-    },
-    {
-        "title": "La venta del campo del Racing de Santander legalizó un pelotazo urbanístico en primera línea de playa hace 40 años",
-        "image_url": "https://static.eldiario.es/clip/ac90e226-6cda-4553-9ff5-a0e0952f4407_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "santander",
-            "cantabria",
-            "actualidad",
-            "política",
-            "sociedad"
-        ],
-        "link": "https://www.eldiario.es/cantabria/ultimas-noticias/venta-campo-racing-santander-legalizo-pelotazo-urbanistico-primera-linea-playa-40-anos_1_12755114.html",
-        "date": "2025-12-08 20:30:49",
-        "sentiment_score": -0.047716766595840454
-    },
-    {
-        "title": "Sorteo de la tercera ronda de Copa del Rey 25/26: Madrid, Barça, Atleti y Athletic entran en escena",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/10/06/image-47444c43-1d8c-49d6-b89a-a978535d2e9d-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "copa del rey 2025-2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/copa-del-rey/2025-2026/sorteo-tercera-ronda-copa-del-rey-atleti-madrid-barca-horario-donde-ver-online-tv_sto23248770/story.shtml",
-        "date": "2025-12-08 20:22:24",
-        "sentiment_score": 0.04377825930714607
-    },
-    {
-        "title": "Claves para entender lo que pasa con la peste porcina africana en España",
-        "image_url": "https://media.es.wired.com/photos/69374399ba55d5c8aacfcd4f/master/pass/peste%20porcina%20africana%20Espa%C3%B1a%202249545146.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://es.wired.com/articulos/claves-para-entender-lo-que-pasa-con-la-peste-porcina-africana-en-espana",
-        "date": "2025-12-08 22:11:22",
-        "sentiment_score": -0.6965285800397396
-    },
-    {
-        "title": "FC Barcelona vs. Eintracht, por la Champions League 2025/2026: previa, alineaciones, hora y cómo ver por TV e internet",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2025/12/08/champions-league-barcelona-eintracht-frankfurt-orix/",
-        "date": "2025-12-08 22:03:50",
-        "sentiment_score": -0.033585041761398315
-    },
-    {
-        "title": "Una alegría en El Sadar: Osasuna se deshace del penúltimo y alivia su delicada situación",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/12/08/2025120821531654907.jpg",
-        "tags": [
-            "osasuna"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/osasuna/cronica-partido-futbol-osasuna-levante-estadio-sadar-pamplona/20251208225228625531.html",
-        "date": "2025-12-08 21:52:28",
-        "sentiment_score": 0.6286613084375858
-    },
-    {
-        "title": "Anatomía del 'plan obrero' de Vox: así ha logrado arrebatar 300.000 votos al PSOE en tan solo dos meses",
-        "image_url": "https://phantom-elmundo.uecdn.es/df6bd93fc11af6e5b6224a1c69217e11/f/image/jpeg/assets/multimedia/imagenes/2022/05/31/16540080180026.jpg",
-        "tags": [
-            "vox",
-            "nlpremium",
-            "artículos rodrigo terrasa",
-            "santiago abascal conde"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/12/08/69372fb8e9cf4a70038b4580.html",
-        "date": "2025-12-08 21:51:38",
-        "sentiment_score": -0.46388494223356247
-    },
-    {
-        "title": "Entrevista a la manager de Colapinto: cómo se cerró la butaca para 2026 con Alpine y la frase que ilusiona de cara al futuro",
-        "image_url": "https://www.infobae.com/resizer/v2/XVXKMDN6NBGZ7J4GQSIUDQE2RY.png?auth=db9ec63302b927c870650f3686824e0e1ffaa803b13e2754d20a9cb417e3f217&height=1080&smart=true&width=1920",
-        "tags": [
-            "alpine f1 team",
-            "franco colapinto",
-            "fórmula 1",
-            "maría catarineu",
-            "deportes-internacional",
-            "deportes-argentina",
-            "williams racing"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/08/entrevista-a-la-manager-de-colapinto-como-se-cerro-la-butaca-para-2026-con-alpine-y-la-frase-que-ilusiona-de-cara-al-futuro/",
-        "date": "2025-12-08 21:39:15",
-        "sentiment_score": 0.5854080989956856
-    },
-    {
-        "title": "Píriteños celebraron a su patrona y más de 4 siglos de historia",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/12/Piritu-300x156.jpg",
-        "tags": [
-            "cultura",
-            "anzoátegui"
-        ],
-        "link": "https://ultimasnoticias.com.ve/anzoateggui/piritenos-celebraron-a-su-patrona-y-mas-de-4-siglos-de-historia/",
-        "date": "2025-12-08 21:37:58",
-        "sentiment_score": -0.07449524104595184
-    },
-    {
-        "title": "Comerciantes de Barcelona están a la expectativa de que se eleven las ventas decembrinas (+Fotos)",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "economía",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/comerciantes-de-barcelona-estan-a-la-expectativa-de-que-se-eleven-las-ventas-decembrinas-fotos/",
-        "date": "2025-12-08 21:31:00",
-        "sentiment_score": 0.37519414722919464
-    },
-    {
-        "title": "El Salón Ocasión de Barcelona cierra con 1.100 vehículos vendidos y 15.000 visitantes",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/11/02/economia/624197592_9821033_1706x960.jpg",
-        "tags": [
-            "eventos",
-            "economía",
-            "vivir en barcelona",
-            "fira de barcelona",
-            "coches"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251208/salon-ocasion-barcelona-cierra-vehiculos-vendidos-visitantes/1003742714406_0.html",
-        "date": "2025-12-08 21:22:43",
-        "sentiment_score": 0.6831782292574644
-    },
-    {
-        "title": "Alineación del Barcelona contra el Eintracht: vuelve Raphinha",
-        "image_url": "https://okdiario.com/img/2025/11/29/imagen_recortada-9.jpg",
-        "tags": [
-            "deportes",
-            "champions league",
-            "barcelona",
-            "fc barcelona",
-            "eintracht frankfurt"
-        ],
-        "link": "https://okdiario.com/deportes/alineacion-del-barcelona-contra-eintracht-vuelve-raphinha-15898901",
-        "date": "2025-12-08 21:00:08",
-        "sentiment_score": 0.04039902985095978
-    },
-    {
-        "title": "El Real Madrid, del cielo al infierno en 40 días: ¿le encontrará la vuelta un Xabi Alonso en la cornisa?",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2025/12/08/real-madrid-crisis-xabi-alonso-orix/",
-        "date": "2025-12-09 02:03:52",
-        "sentiment_score": -0.7443257533013821
-    },
-    {
-        "title": "Reunión de madrugada en el Santiago Bernabéu: el futuro de Xabi Alonso en el Real Madrid pende de un hilo",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Xabi-Alonso-Real-Madrid.jpg",
-        "tags": [
-            "xabi alonso",
-            "real madrid cf",
-            "titulares",
-            "deportes",
-            "futbol"
-        ],
-        "link": "https://lapatilla.com/2025/12/08/reunion-de-madrugada-en-el-santiago-bernabeu-el-futuro-de-xabi-alonso-en-el-real-madrid-pende-de-un-hilo/",
-        "date": "2025-12-09 01:57:47",
-        "sentiment_score": -0.6082302443683147
-    },
-    {
-        "title": "Mil conciertos en una navidad: de Bach a Haendel",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744045195_260349967_1706x960.jpg",
-        "tags": [
-            "conciertos",
-            "música",
-            "navidad"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251209/mil-conciertos-navidad-bach-haendel/1003744045177_0.html",
-        "date": "2025-12-09 01:08:32",
-        "sentiment_score": 0.16085927188396454
-    },
-    {
-        "title": "08 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/08-dic-2025-partidazo-cope-20251209_3267269.html",
-        "date": "2025-12-09 00:50:00",
-        "sentiment_score": -0.5552520453929901
-    },
-    {
-        "title": "Benedek Vasy (Triodos): \"La regulación de las finanzas éticas que propone Yolanda Díaz debería incluir a los bancos\"",
-        "image_url": "https://s3.elespanol.com/2025/12/05/actualidad/1003744044988_260346789_1706x960.jpg",
-        "tags": [
-            "banca",
-            "criterios asg",
-            "mercados financieros",
-            "yolanda díaz"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/banca/20251209/benedek-vasy-triodos-regulacion-finanzas-eticas-propone-yolanda-diaz-deberia-incluir-bancos/1003744044979_0.html",
-        "date": "2025-12-09 00:06:29",
-        "sentiment_score": 0.658482052385807
-    },
-    {
-        "title": "El ultimátum para Xabi Alonso: reconducir la situación y ganarse al vestuario o meterse en un callejón sin salida",
-        "image_url": "https://s3.elespanol.com/2025/12/08/actualidad/1003744047012_260373452_1706x960.jpg",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "champions league",
-            "xabi alonso",
-            "real madrid cf"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251209/ultimatum-xabi-alonso-reconducir-situacion-ganarse-vestuario-meterse-callejon-sin-salida/1003744046971_0.html",
-        "date": "2025-12-09 00:01:08",
-        "sentiment_score": -0.8950084745883942
-    },
-    {
-        "title": "Deportes | El Elche CF y el CD Eldense conocen este martes su nuevo rival de Copa del Rey",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1736932.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-y-el-cd-eldense-conocen-este-martes-su-nuevo-rival-de-copa-del-rey",
-        "date": "2025-12-09 00:00:44",
-        "sentiment_score": 0.1298261471092701
-    },
-    {
-        "title": "2a PARTE | 08 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-08-dic-2025-partidazo-cope-20251209_3267264.html",
-        "date": "2025-12-08 23:45:25",
-        "sentiment_score": -0.4087192639708519
-    },
-    {
-        "title": "El Surne es el tercer equipo invicto en casa junto a los líderes Valencia y Madrid",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/12/08/Imagen%20149473559-k7AI--758x531@El%20Correo.jpg",
-        "tags": [
-            "equipo",
-            "madrid",
-            "casa",
-            "surne",
-            "invicto",
-            "lideres",
-            "junto",
-            "valencia",
-            "tercer"
-        ],
-        "link": "https://www.elcorreo.com/bilbaobasket/surne-tercer-equipo-invicto-casa-junto-lideres-20251208003558-nt.html",
-        "date": "2025-12-08 23:35:59",
-        "sentiment_score": 0.6006687879562378
-    },
-    {
-        "title": "El Año en Búsquedas 2025: De la hegemonía del futbol a la normalización de la IA en la vida diaria",
-        "image_url": "https://media.es.wired.com/photos/69375e48e6a16ea0d82acfe8/master/pass/2249090837",
-        "tags": [
-            "cultura digital",
-            "textaboveleftsmall",
-            "web"
-        ],
-        "link": "https://es.wired.com/articulos/el-ano-en-busquedas-2025-de-la-hegemonia-del-futbol-a-la-normalizacion-de-la-ia-en-la-vida-diaria",
-        "date": "2025-12-08 23:25:32",
-        "sentiment_score": 0.05822712182998657
-    },
-    {
-        "title": "Blindaje contra la peste porcina",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "blindaje",
-            "peste",
-            "porcina"
-        ],
-        "link": "https://www.malagahoy.es/opinion/editorial/blindaje-peste-porcina_0_2005416347.html",
-        "date": "2025-12-09 02:06:59",
-        "sentiment_score": -0.20559439063072205
-    },
-    {
-        "title": "Del Gran Maestro senador a Antonio Hernández, 'el masón de la Moncloa': los 10 cargos de las logias españolas en el PSOE",
-        "image_url": "https://s3.elespanol.com/2025/12/08/actualidad/1003744046972_260373002_1706x960.jpg",
-        "tags": [
-            "psoe (partido socialista obrero español)",
-            "cargos públicos",
-            "masonería",
-            "reportajes",
-            "senado",
-            "palacio de la moncloa"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251209/gran-maestro-senador-antonio-hernandez-mason-moncloa-cargos-logias-espanolas-psoe/1003744046968_0.html",
-        "date": "2025-12-09 01:14:27",
-        "sentiment_score": -0.411006823182106
-    },
-    {
         "title": "El Gobierno aprobará este martes la transformación del Sepes en la nueva Casa 47",
         "image_url": "https://www.elplural.com/uploads/s1/21/16/77/8/la-ministra-de-vivienda-y-agenda-urbana-isabel-rodriguez-ep_7_480x270.jpeg",
         "tags": [
@@ -2899,5 +2510,246 @@ export default [
         "link": "https://efesalud.com/padel-beneficios-salud-quironsalud/",
         "date": "2025-12-12 06:13:00",
         "sentiment_score": 0.6954927518963814
+    },
+    {
+        "title": "De la clandestinidad a la salida de película desde Venezuela: lo que vivió María Corina Machado y lo que sigue ahora",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/8fb0bf35a97b5f562b142a6e6a5f30c4d81e044ew.jpg",
+        "tags": [
+            "destacados",
+            "nacionales",
+            "maría corina machado",
+            "internacionales"
+        ],
+        "link": "https://lapatilla.com/2025/12/12/de-la-clandestinidad-a-la-salida-de-pelicula-desde-venezuela-lo-que-vivio-maria-corina-machado-y-lo-que-sigue-ahora/",
+        "date": "2025-12-12 10:25:10",
+        "sentiment_score": -0.5187390223145485
+    },
+    {
+        "title": "Los bombos y el resto de elementos del sorteo de lotería de Navidad ya están en el Teatro Real",
+        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/81eb1aaa-fd8e-4002-beec-bf43b9b3968f/main/224x126/37s834ms/match/image.jpg?pubId=85707284001",
+        "tags": [
+            "elementos",
+            "navidad",
+            "estan",
+            "resto",
+            "real",
+            "teatro",
+            "loteria",
+            "sorteo",
+            "bombos"
+        ],
+        "link": "https://www.elcomercio.es/sociedad/bombos-resto-elementos-sorteo-loteria-navidad-teatro-20251212165532-vi.html",
+        "date": "2025-12-12 17:08:03",
+        "sentiment_score": 0.09685244411230087
+    },
+    {
+        "title": "17:00H | 12 DIC 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-12-dic-2025-tarde-20251212_3270632.html",
+        "date": "2025-12-12 17:08:00",
+        "sentiment_score": -0.09493663907051086
+    },
+    {
+        "title": "(Pre) Barça, Real Madrid y Atlético cierran a domicilio el 2025 en la Liga F antes de dirimir su futuro europeo",
+        "image_url": "https://www.infobae.com/resizer/v2/YECP7HAZLNERRJVGIMNK4XXLGI.jpg?auth=c61358f475881a313eafe2323598fb5bbd3939cd93ac4387f981296240aaf364&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/12/pre-barca-real-madrid-y-atletico-cierran-a-domicilio-el-2025-en-la-liga-f-antes-de-dirimir-su-futuro-europeo/",
+        "date": "2025-12-12 17:01:10",
+        "sentiment_score": 0.061062052845954895
+    },
+    {
+        "title": "Víctor Muñoz busca su redención en Barcelona",
+        "image_url": "https://okdiario.com/img/2025/12/12/munoz.jpg",
+        "tags": [
+            "club atlético osasuna",
+            "deportes",
+            "fc barcelona",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/victor-munoz-busca-redencion-barcelona-15923380",
+        "date": "2025-12-12 17:00:50",
+        "sentiment_score": -0.5449110716581345
+    },
+    {
+        "title": "El Banco de España celebra el XXII Foro de Análisis Latinoamericano",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251212175158.jpg?fit=1280%2C1920&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/el-banco-de-espaa-celebra-el-xxii-foro-de-anlisis-latinoamericano/",
+        "date": "2025-12-12 17:00:04",
+        "sentiment_score": 0.2417164035141468
+    },
+    {
+        "title": "La Complutense restaura una pintada de 1979 en honor a Emilio Martínez y José Luis Montañés, estudiantes asesinados por la Policía",
+        "image_url": "https://static.eldiario.es/clip/69180c38-d53f-4fbc-b653-112e67a24c9c_16-9-discover-aspect-ratio_default_0_x1687y1742.jpg",
+        "tags": [
+            "montanes",
+            "emilio",
+            "martinez",
+            "luis",
+            "honor",
+            "pintada",
+            "estudiantes",
+            "restaura",
+            "complutense",
+            "policia",
+            "jose",
+            "1979",
+            "asesinados"
+        ],
+        "link": "https://www.eldiario.es/madrid/complutense-restaura-pintada-1979-honor-emilio-martinez-jose-luis-montanes-estudiantes-asesinados-policia_1_12841887.html",
+        "date": "2025-12-12 16:54:58",
+        "sentiment_score": -0.028816431760787964
+    },
+    {
+        "title": "Blanqueo de capitales: la acusación contra el propietario y el CEO de Plus Ultra",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/12114657/eefbdb9c30ee6d8901e87685f849cf46af9ec44fw.jpg",
+        "tags": [
+            "españa",
+            "blanqueo de capitales",
+            "mundo",
+            "plus ultra"
+        ],
+        "link": "https://www.elnacional.com/2025/12/la-acusacion-contra-el-propietario-y-el-ceo-de-plus-ultra/",
+        "date": "2025-12-12 16:52:46",
+        "sentiment_score": -0.7864409685134888
+    },
+    {
+        "title": "El Banco de España celebra el XXII Foro de Análisis Latinoamericano",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251212175159_260.jpg",
+        "tags": [
+            "economía finanzas"
+        ],
+        "link": "https://www.europapress.es/economia/noticia-banco-espana-celebra-xxii-foro-analisis-latinoamericano-20251212175159.html",
+        "date": "2025-12-12 16:51:59",
+        "sentiment_score": 0.35930445045232773
+    },
+    {
+        "title": "La nueva obligación que el SEPE exigirá a los parados para cobrar el subsidio a partir de 2026",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/12/12/sepe-subsidio-ksDE-U240539565228wN-758x531@El%20Correo.JPG",
+        "tags": [
+            "impuesto sobre la renta de las personas físicas (irpf)",
+            "trabajo",
+            "declaración de la renta",
+            "audiencias"
+        ],
+        "link": "https://www.elcorreo.com/economia/tu-economia/nueva-obligacion-sepe-exigira-parados-cobrar-subsidio-20251212174837-nt.html",
+        "date": "2025-12-12 16:48:52",
+        "sentiment_score": 0.2281142883002758
+    },
+    {
+        "title": "Elche cierra el mejor noviembre de tasa de ocupación hotelera desde que hay registros",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92700990-fc28-447e-a284-0a471bd7bbc8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "turismo",
+            "empresas",
+            "tasa",
+            "precios",
+            "ocupación hotelera",
+            "fútbol",
+            "umh"
+        ],
+        "link": "https://www.informacion.es/elche/2025/12/12/tasa-ocupacion-hotelera-elche-turismo-124729969.html",
+        "date": "2025-12-12 16:47:09",
+        "sentiment_score": 0.18045476078987122
+    },
+    {
+        "title": "Fira de Barcelona prevé cerrar 2025 con un nuevo \"récord\" de 350 millones de ingresos, un 17% más",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/12/693c4a257bfee.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/noticias/fira-barcelona-preve-cerrar-2025-nuevo-record-350-millones-ingresos-17-20251212_3270630.html",
+        "date": "2025-12-12 17:10:25",
+        "sentiment_score": -0.060334086418151855
+    },
+    {
+        "title": "Sàmper desmiente \"con contundencia\" que se haya firmado con la F1 para después de 2026",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251212180949_120.jpg",
+        "tags": [
+            "catalunya",
+            "fira de barcelona"
+        ],
+        "link": "https://www.europapress.es/catalunya/firadebarcelona-00630/noticia-samper-desmiente-contundencia-haya-firmado-f1-despues-2026-20251212180949.html",
+        "date": "2025-12-12 17:09:49",
+        "sentiment_score": -0.3453792445361614
+    },
+    {
+        "title": "Vlahovic se ofrece al Barcelona",
+        "image_url": "https://okdiario.com/img/2025/12/12/vlahovic-se-ofrece-al-barcelona-interior.jpg",
+        "tags": [
+            "fútbol club barcelona",
+            "deportes",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/vlahovic-ofrece-barcelona-15900588",
+        "date": "2025-12-12 17:07:31",
+        "sentiment_score": -0.01653246581554413
+    },
+    {
+        "title": "El Barcelona Open Conde de Godó busca la estela de los Masters 1000",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/12/693c47e1aee89.r_d.649-58-3583.jpeg",
+        "tags": [
+            "esports cope"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/barcelona-open-conde-godo-busca-estela-masters-1000-20251212_3270621.html",
+        "date": "2025-12-12 17:07:01",
+        "sentiment_score": -0.004612475633621216
+    },
+    {
+        "title": "Lápiz y tinta en Mid Century Tattoo",
+        "image_url": "https://www.eldiadevalladolid.com/media/img/2025/518ec3ba-0cd0-4187-99b1afd29288d9d3.jpeg",
+        "tags": [
+            "valladolid",
+            "círculo de bellas artes",
+            "novela",
+            "barcelona",
+            "exposiciones",
+            "madrid",
+            "jesús martín"
+        ],
+        "link": "https://www.eldiadevalladolid.com/noticia/z7312bde9-533c-4427-959f07509cb40e38/202512/lapiz-y-tinta-en-mid-century-tattoo",
+        "date": "2025-12-12 17:03:23",
+        "sentiment_score": 0.17108269408345222
+    },
+    {
+        "title": "Entregados los galardones de la tercera edición del Concurso Literario de la Fundación Los Maestros",
+        "image_url": "https://www.liberaldecastilla.com/wp-content/uploads/2025/12/FOTO-PRINCIPAL-DEL-CERTAMEN-CON-DIEGO-YUSTE-JOSE-MIGUEL-Y-LOS-GANADORES-DEL-CERTAMEN.jpg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://informacioncuenca.com/entregados-los-galardones-de-la-tercera-edicion-del-concurso-literario-de-la-fundacion-los-maestros",
+        "date": "2025-12-12 17:02:48",
+        "sentiment_score": 0.44459443539381027
+    },
+    {
+        "title": "(Pre) El Espanyol defiende su momento en Getafe y el Elche quiere aprovechar las dudas del Mallorca",
+        "image_url": "https://www.infobae.com/resizer/v2/I33LEH7F3BHOZKEYZPKNHOPDJE.jpg?auth=ba14533380c567252adbbcf38942225831cecd8fcf5f9c679af76de198865b6c&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/12/pre-el-espanyol-defiende-su-momento-en-getafe-y-el-elche-quiere-aprovechar-las-dudas-del-mallorca/",
+        "date": "2025-12-12 17:01:28",
+        "sentiment_score": -0.6486213691532612
+    },
+    {
+        "title": "Los vigilantes de metro de Barcelona preparan paros en Nochebuena, Navidad, Nochevieja y Año Nuevo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dbbfc87f-3920-43b9-abaa-7b8042a1d1f5_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "metro de barcelona",
+            "transporte público",
+            "tmb - transportes metropolitanos de barcelona",
+            "metro",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20251212/barcelona-metro-navidad-nochebuena-nochevieja-horarios-paros-vigilantes-124732035",
+        "date": "2025-12-12 17:00:53",
+        "sentiment_score": -0.44437824934720993
     }
 ];
