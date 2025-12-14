@@ -1,384 +1,5 @@
 export default [
     {
-        "title": "Así queda la clasificación de la Champions League tras los partidos de Barcelona y Atlético",
-        "image_url": "https://okdiario.com/img/2025/12/09/befunky-collage-.jpg",
-        "tags": [
-            "fc barcelona",
-            "atlético de madrid",
-            "champions league",
-            "deportes",
-            "barcelona"
-        ],
-        "link": "https://okdiario.com/deportes/asi-queda-clasificacion-champions-league-partidos-barcelona-atletico-15907149",
-        "date": "2025-12-09 22:19:14",
-        "sentiment_score": 0.30515138804912567
-    },
-    {
-        "title": "Vicente Boluda Fos recibe el premio ‘Marino del Año 2025’ de Nautik Magazine",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/12/AperturaNautikMarino-del-ano-1200x675.jpg",
-        "tags": [
-            "actualidad",
-            "óscar puente",
-            "vicente boluda",
-            "nautik magazine",
-            "forbes house"
-        ],
-        "link": "https://forbes.es/nautik/842390/vicente-boluda-fos-recibe-el-premio-marino-del-ano-2025-de-nautik-magazine/",
-        "date": "2025-12-09 22:12:58",
-        "sentiment_score": -0.13270890712738037
-    },
-    {
-        "title": "El Atlético vence en Eindhoven y aspira a acabar en el 'top 8'",
-        "image_url": "https://static.grupojoly.com/clip/986b6c78-2bf0-468c-a1a7-7bf8f5acc047_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "atletico",
-            "vence",
-            "eindhoven",
-            "acabar",
-            "aspira"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/atletico-vence-eindhoven-aspira-acabar_0_2005420711.html",
-        "date": "2025-12-09 22:06:09",
-        "sentiment_score": -0.2536148875951767
-    },
-    {
-        "title": "Clasificación: El Atleti se cuela en el TOP-8 y el Barça mantiene vivas sus esperanzas",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1250x321:1252x319)/origin-imgresizer.eurosport.com/2025/12/09/image-148a791b-2df8-4ae5-b3d0-e5f767f84946-85-2560-1440.jpeg",
-        "tags": [
-            "champions league 2025-2026",
-            "football"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/champions-league/2025-2026/clasificacion-fase-liga-diferencias-real-madrid-barcelona-atletico-madrid-athletic-bilbao-villarreal_sto23222399/story.shtml",
-        "date": "2025-12-09 22:04:23",
-        "sentiment_score": -0.004638172686100006
-    },
-    {
-        "title": "El Barça de las remontadas somete, por fin, al engorroso Eintracht de Frankfurt: goleador inesperado",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/09/culemania/primer-equipo/1003742714755_15496154_1706x960.jpg",
-        "tags": [
-            "hansi flick",
-            "champions league",
-            "barça",
-            "jules koundé",
-            "primer equipo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251209/barca-remontadas-engorroso-eintracht-frankfurt-goleador-inesperado/1003742714752_0.html",
-        "date": "2025-12-09 22:00:20",
-        "sentiment_score": 0.6278953552246094
-    },
-    {
-        "title": "Qué esperar de los próximos derbis y clásicos que definirán la tabla de La Liga",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/12/09/2025120914254759967.jpg",
-        "tags": [
-            "comunicados"
-        ],
-        "link": "https://www.clm24.es/articulo/comunicados/que-esperar-proximos-derbis-clasicos-que-definiran-tabla-liga/20251209225405465893.html",
-        "date": "2025-12-09 21:54:05",
-        "sentiment_score": 0.8998807333409786
-    },
-    {
-        "title": "Este es el mensaje que envío Sergio Ramos a la afición de Rayados tras su salida del club",
-        "image_url": "https://www.infobae.com/resizer/v2/QSYL6HQBGJGSBEB6W7HR3Y4ERQ.JPG?auth=a44a3b53b0e5dab0f22772517d2a4ccda485231968ac3cabb3ea9b1e18676b5d&height=3440&smart=true&width=4806",
-        "tags": [
-            "rayados de monterrey",
-            "mexico-deportes",
-            "liga mx",
-            "rayados",
-            "sergio ramos",
-            "semifinales",
-            "toluca",
-            "monterrey",
-            "futbol"
-        ],
-        "link": "https://www.infobae.com/mexico/deportes/2025/12/09/este-es-el-mensaje-que-envio-sergio-ramos-a-la-aficion-de-rayados-tras-su-salida-del-club/",
-        "date": "2025-12-09 21:50:00",
-        "sentiment_score": 0.8582842480391264
-    },
-    {
-        "title": "Sergio Ramos se despide del Monterrey de México tras una etapa de un año",
-        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "tags": [
-            "sergio ramos monterrey liga mx",
-            "deportes",
-            "sports"
-        ],
-        "link": "https://apnews.com/article/sergio-ramos-monterrey-liga-mx-70c0ba0711572045b3dab6eebfd7bbb2",
-        "date": "2025-12-09 21:23:49",
-        "sentiment_score": -0.5274638533592224
-    },
-    {
-        "title": "Sergio Ramos se despide del Monterrey de México tras una etapa de un año",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2025/12/09/sergio-ramos-se-despide-del-monterrey-de-mxico-tras-una-etapa-de-un-ao/",
-        "date": "2025-12-09 21:23:48",
-        "sentiment_score": 0.12761224806308746
-    },
-    {
-        "title": "Comenzó la Messi Cup, el torneo que reúne a jóvenes talentos en Miami: la euforia de los chicos de River y Newell’s al verlo a Lionel",
-        "image_url": "https://www.infobae.com/resizer/v2/HW5BDUR4ZVHRTBZDNPRBQVDKLY.gif?auth=0d6e1f07f0be9e956baaf8cfcb7cfd230854b827c6f5a4c3c103d7d21adb09d1&height=1079&smart=true&width=1920",
-        "tags": [
-            "inter de milán",
-            "messi cup",
-            "lionel messi",
-            "newell's",
-            "river plate",
-            "inter miami",
-            "atlético de madrid",
-            "fc barcelona"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/09/comenzo-la-messi-cup-el-torneo-que-reune-a-jovenes-talentos-en-miami-la-euforia-de-los-chicos-de-river-y-newells-al-verlo-a-lionel/",
-        "date": "2025-12-09 22:20:33",
-        "sentiment_score": 0.16709090769290924
-    },
-    {
-        "title": "Atlético de Madrid logró victoria clave contra PSV Eindhoven para acercarse al top 8 de Champions",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/a9f3b35f90a057ed272decd8745fc12ceee68a62w.jpg",
-        "tags": [
-            "remontada",
-            "champions league",
-            "atletico de madrid",
-            "victoria",
-            "titulares",
-            "deportes"
-        ],
-        "link": "https://lapatilla.com/2025/12/09/atletico-de-madrid-logro-victoria-clave-contra-psv-eindhoven-para-acercarse-al-top-8-de-champions/",
-        "date": "2025-12-09 22:18:39",
-        "sentiment_score": 0.6265570372343063
-    },
-    {
-        "title": "Las fotos del Barcelona-Eintracht Frankfurt",
-        "image_url": "https://static.grupojoly.com/clip/73e398d1-a321-4e80-9b73-d1a4f7dfc900_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "eintracht",
-            "barcelona",
-            "fotos",
-            "frankfurt"
-        ],
-        "link": "https://www.diariodealmeria.es/deportes/fotos-barcelona-eintracht-frankfurt_3_2005421447.html",
-        "date": "2025-12-09 22:13:20",
-        "sentiment_score": 0.2704242989420891
-    },
-    {
-        "title": "Las claves de un referéndum que puede convertir a Recep Tayyip Erdogan en el nuevo sultán de Turquía",
-        "image_url": "https://www.infobae.com/resizer/v2/https:%2F%2Fs3.amazonaws.com%2Farc-wordpress-client-uploads%2Finfobae-wp%2Fwp-content%2Fuploads%2F2017%2F04%2F14190935%2FTurkey-Referendum-erdogan-1920.jpg?auth=d6818f281422d6294b5ed335b36fe3d44706bb0ebf25547d25bd97eb57d8a692&height=1079&smart=true&width=1920",
-        "tags": [
-            "recep tayyip erdogan"
-        ],
-        "link": "https://www.infobae.com/america/mundo/2017/04/16/las-claves-de-un-referendum-que-puede-convertir-a-recep-tayyip-erdogan-en-el-nuevo-sultan-de-turquia/",
-        "date": "2025-12-09 22:13:14",
-        "sentiment_score": 0.048498257994651794
-    },
-    {
-        "title": "Koundé desatasca al Barça",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/09/jules-kounde-kv9E-U240502296677z8B-1200x840@RC.JPG",
-        "tags": [
-            "champions league",
-            "f.c. barcelona"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/liga-campeones/kounde-desatasca-barca-20251209231241-ntrc.html",
-        "date": "2025-12-09 22:12:43",
-        "sentiment_score": -0.2764609456062317
-    },
-    {
-        "title": "Malas noticias para el Barça: Lamine Yamal se pierde por sanción el importante duelo en Praga en enero",
-        "image_url": "https://okdiario.com/img/2025/12/09/imagen_recortada-4-2.jpg",
-        "tags": [
-            "barcelona",
-            "fc barcelona",
-            "deportes",
-            "lamine yamal"
-        ],
-        "link": "https://okdiario.com/deportes/malas-noticias-barca-lamine-yamal-pierde-sancion-importante-duelo-praga-enero-15907334",
-        "date": "2025-12-09 22:09:59",
-        "sentiment_score": -0.9149322295561433
-    },
-    {
-        "title": "El Barcelona rescató una victoria en Champions ante el Eintracht con la persona menos esperada",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/fc-barcelona-vs-eitracht-francfort.jpg",
-        "tags": [
-            "titulares",
-            "deportes",
-            "futbol",
-            "eintracht fráncfort",
-            "fc barcelona",
-            "champions league"
-        ],
-        "link": "https://lapatilla.com/2025/12/09/el-barcelona-rescato-una-victoria-en-champions-ante-el-eintracht-con-la-persona-menos-esperada/",
-        "date": "2025-12-09 22:09:09",
-        "sentiment_score": 0.515195332467556
-    },
-    {
-        "title": "La élite nacional del aperitivo se da cita este miércoles en Avilés",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/12/09/campeonato-mejor-aperitivo-nacional-aviles-RgXKpL4qMUF8ABtY3xSUcNP-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "cita",
-            "elite",
-            "aperitivo",
-            "miercoles",
-            "aviles",
-            "nacional"
-        ],
-        "link": "https://www.elcomercio.es/planes/elite-nacional-aperitivo-cita-miercoles-aviles-20251209191200-nt.html",
-        "date": "2025-12-09 22:07:15",
-        "sentiment_score": 0.10174739360809326
-    },
-    {
-        "title": "La ciudad menos franquista",
-        "image_url": "https://static.grupojoly.com/clip/f35d753c-21a7-43c6-9615-858f39a8648a_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "franquista",
-            "ciudad"
-        ],
-        "link": "https://www.diariodecadiz.es/opinion/articulos/ciudad-franquista_0_2005424228.html",
-        "date": "2025-12-10 02:04:43",
-        "sentiment_score": -0.4497866854071617
-    },
-    {
-        "title": "El 'match-ball' de Xabi ante uno de sus maestros: el banquillo del Real Madrid se decide en la batalla táctica contra Guardiola",
-        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744048733_260395599_1706x960.jpg",
-        "tags": [
-            "xabi alonso",
-            "real madrid cf",
-            "fútbol",
-            "manchester city",
-            "champions league"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251210/match-ball-xabi-maestros-banquillo-real-madrid-decide-batalla-tactica-guardiola/1003744047963_0.html",
-        "date": "2025-12-10 01:50:50",
-        "sentiment_score": 0.28907153010368347
-    },
-    {
-        "title": "El doctor murciano Damián García, quiso “curar con las manos” y acabó cambiando la forma de tratar el cáncer",
-        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744047345_260377094_1706x960.jpg",
-        "tags": [
-            "premios",
-            "universidad",
-            "adn",
-            "cáncer",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251210/doctor-murciano-damian-garcia-quiso-curar-manos-acabo-cambiando-forma-tratar-cancer/1003744047262_0.html",
-        "date": "2025-12-10 01:50:10",
-        "sentiment_score": 0.7679173238575459
-    },
-    {
-        "title": "Del enorme elogio a Julián Álvarez al tenso cruce con un periodista: 7 frases del Cholo Simeone tras el triunfo del Atlético de Madrid",
-        "image_url": "https://www.infobae.com/resizer/v2/F5CWONPLZVHFZKPNWP7KUBEWOY.JPG?auth=f3e948c15edc6151663baee742aac592324061f23d0c8a6cfaced8076c64cd5d&height=1013&smart=true&width=1533",
-        "tags": [
-            "atlético de madrid",
-            "diego simeone",
-            "champions league",
-            "deportes-internacional",
-            "julián álvarez",
-            "psv",
-            "fútbol europeo"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/10/del-enorme-elogio-a-julian-alvarez-al-tenso-cruce-con-un-periodista-7-frases-del-cholo-simeone-tras-el-triunfo-del-atletico-de-madrid/",
-        "date": "2025-12-10 01:47:28",
-        "sentiment_score": 0.7130391113460064
-    },
-    {
-        "title": "Caicedo ayuda al Madrid a vencer al Wolfsburgo en la Champions femenina, y Arsenal y Juventus ganan",
-        "image_url": "https://dims.apnews.com/dims4/default/4b46c21/2147483647/strip/true/crop/3500x2330+0+47/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F57%2Ffd40f5822d937386f4f4b180036a%2Fe44205d6d9bc482d9b4106a7cf6d3938",
-        "tags": [
-            "sports",
-            "liga campeones champjons femenina real madrid arsenal juventus",
-            "deportes"
-        ],
-        "link": "https://apnews.com/article/liga-campeones-champjons-femenina-real-madrid-arsenal-juventus-5edd79429df420aeed486c158fc95977",
-        "date": "2025-12-10 00:48:13",
-        "sentiment_score": 0.47485949844121933
-    },
-    {
-        "title": "Caicedo ayuda al Madrid a vencer al Wolfsburgo en la Champions femenina, y Arsenal y Juventus ganan",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/12/CAMPEONES-MUJERES_69544.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2025/12/09/caicedo-ayuda-al-madrid-a-vencer-al-wolfsburgo-en-la-champions-femenina-y-arsenal-y-juventus-ganan/",
-        "date": "2025-12-10 00:48:13",
-        "sentiment_score": 0.3759406805038452
-    },
-    {
-        "title": "09 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/09-dic-2025-partidazo-cope-20251210_3268099.html",
-        "date": "2025-12-10 00:37:08",
-        "sentiment_score": 0.214377261698246
-    },
-    {
-        "title": "3a PARTE | 09 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/3a-parte-09-dic-2025-partidazo-cope-20251210_3268096.html",
-        "date": "2025-12-10 00:35:29",
-        "sentiment_score": -0.006626538932323456
-    },
-    {
-        "title": "La reconquista de lo amable",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "reconquista",
-            "amable"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/reconquista-amable_0_2005424330.html",
-        "date": "2025-12-10 02:08:25",
-        "sentiment_score": -0.29502350091934204
-    },
-    {
-        "title": "Quero 'el Carmeno' y Moñino, la 'Isabel de Vox', los artífices del giro obrerista que roba votos al PSOE: \"Conocen los barrios\"",
-        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744048300_260389723_1706x960.jpg",
-        "tags": [
-            "jorge buxadé villalba",
-            "santiago abascal",
-            "vox",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251210/quero-carmeno-monino-isabel-vox-artifices-giro-obrerista-roba-votos-psoe-conocen-barrios/1003744047726_0.html",
-        "date": "2025-12-10 01:50:45",
-        "sentiment_score": -0.9078032169491053
-    },
-    {
-        "title": "Bebés más altos, más sanos y más inteligentes: Herasight, la compañía que promete niños a la carta por 42.000 euros",
-        "image_url": "https://s3.elespanol.com/2025/01/24/ciencia/918919008_252595107_1706x960.png",
-        "tags": [
-            "españa",
-            "nacimientos",
-            "reino unido",
-            "salud",
-            "fecundación in vitro"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20251210/bebes-altos-sanos-inteligentes-herasight-compania-promete-ninos-carta-euros/1003744047540_0.html",
-        "date": "2025-12-10 01:50:43",
-        "sentiment_score": -0.029857173562049866
-    },
-    {
-        "title": "Entramos en el cuartel secreto de la guerra de la UE contra el narcotráfico marítimo: \"España es la puerta de entrada\"",
-        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744048544_260392806_1706x960.jpg",
-        "tags": [
-            "cocaína",
-            "tráfico de drogas",
-            "policía nacional",
-            "unión europea (ue)",
-            "portugal",
-            "narcotráfico",
-            "lisboa",
-            "reportajes",
-            "latinoamérica"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251210/entramos-cuartel-secreto-guerra-ue-narcotrafico-maritimo-espana-puerta-entrada/1003744036430_0.html",
-        "date": "2025-12-10 01:49:07",
-        "sentiment_score": -0.6788098141551018
-    },
-    {
         "title": "El campeón de Europa",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/ffda81bd-e861-4913-8e9c-98537c8a5096_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -450,60 +71,6 @@ export default [
         "link": "https://www.lavozdealmeria.com/ud-almeria/409438/pedro-benito-capitan-precoz-lidera-real-murcia.html",
         "date": "2025-12-10 05:56:16",
         "sentiment_score": 0.09261927008628845
-    },
-    {
-        "title": "Ana Boyer y Fernando Verdasco nos anuncian que esperan su cuarto hijo: \"Es un bebé totalmente buscado\"",
-        "image_url": "https://www.hola.com/horizon/landscape/11fa1ec25c60-dsc04623cut.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "contenido sensible",
-            "ana boyer",
-            "fernando verdasco",
-            "¡hola! +"
-        ],
-        "link": "https://www.hola.com/actualidad/20251210871801/ana-boyer-fernando-verdasco-anuncian-esperan-cuarto-hijo-bebe-totalmente-buscado/",
-        "date": "2025-12-10 05:06:00",
-        "sentiment_score": 0.015072807669639587
-    },
-    {
-        "title": "Pellegrini: «¿El Real Murcia anda bien?»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f2e46585-c773-4cf2-b780-80c7128e5722_16-9-aspect-ratio_default_0_x834y773.jpg",
-        "tags": [
-            "real murcia",
-            "betis",
-            "nueva condomina",
-            "deportes",
-            "futbolistas"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/10/pellegrini-real-murcia-anda-124615843.html",
-        "date": "2025-12-10 05:01:29",
-        "sentiment_score": -0.16192619502544403
-    },
-    {
-        "title": "El UCAM Murcia inicia en el Top 16 de la FIBA Europe Cup veinte días sin tregua",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/edd985a9-60d0-4abf-97c3-e41cf93ad4c0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ronda",
-            "ucam",
-            "real madrid",
-            "ucam murcia cb",
-            "joventut"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/10/ucam-murcia-inicia-top-16-124615358.html",
-        "date": "2025-12-10 05:01:23",
-        "sentiment_score": 0.21637046337127686
-    },
-    {
-        "title": "Un deporte de héroes y villanos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fdc9f9dd-a91f-4f8e-84ae-42549fc4f1bd_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "real madrid",
-            "crisis"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/opinion/2025/12/10/deporte-heroes-villanos-124614767.html",
-        "date": "2025-12-10 05:01:20",
-        "sentiment_score": -0.705074205994606
     },
     {
         "title": "Ca l'Estevet: el restaurante que demuestra que la cocina catalana está estupendamente",
@@ -3132,5 +2699,135 @@ export default [
         "link": "https://www.malagahoy.es/television/revista-decoracion-convierte-nuevo-canal_0_2005447042.html",
         "date": "2025-12-13 06:10:56",
         "sentiment_score": -0.6323479488492012
+    },
+    {
+        "title": "El técnico del Guadalajara antes de medirse al Barça: «Me pierdo la infancia de mis hijas por cuatro pesetas»",
+        "image_url": "https://okdiario.com/img/2025/12/11/imagen_recortada-1-1.jpg",
+        "tags": [
+            "deportes",
+            "fc barcelona",
+            "copa del rey",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/tecnico-del-guadalajara-antes-medirse-barca-pierdo-infancia-mis-hijas-cuatro-pesetas-15930109",
+        "date": "2025-12-13 17:04:14",
+        "sentiment_score": -0.572195790708065
+    },
+    {
+        "title": "Barcelona – Osasuna, en directo hoy | Alineaciones, dónde ver online gratis y última hora del partido de Liga",
+        "image_url": "https://okdiario.com/img/2025/12/13/befunky-collage.jpg",
+        "tags": [
+            "directo",
+            "barcelona",
+            "la liga",
+            "deportes",
+            "club atlético osasuna",
+            "fc barcelona",
+            "fútbol"
+        ],
+        "link": "https://okdiario.com/deportes/barcelona-osasuna-directo-hoy-alineaciones-donde-ver-online-gratis-ultima-hora-del-partido-liga-15929431",
+        "date": "2025-12-13 17:02:19",
+        "sentiment_score": 0.4088451601564884
+    },
+    {
+        "title": "Raphinha sostiene el ritmo de líder del Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4cd0d579-68ef-4e18-86aa-f6ccf0e7d319_16-9-aspect-ratio_default_1421679.jpg",
+        "tags": [
+            "fc barcelona",
+            "atlético osasuna",
+            "fútbol",
+            "laliga"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2025/12/13/laliga-barcelona-osasuna-raphinha-124756056.html",
+        "date": "2025-12-13 17:00:39",
+        "sentiment_score": 0.7964537590742111
+    },
+    {
+        "title": "Xabi Alonso ya habla de su posible sustituto en el banquillo: \"Está haciendo las cosas muy bien\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(833x653:835x651)/origin-imgresizer.eurosport.com/2025/12/13/image-11ce0459-68bc-41af-a508-986df495f332-85-2560-1440.jpeg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/xabi-alonso-arbeloa-posible-sustituto-banquillo-real-madrid-esta-haciendo-las-cosas-muy-bien_vid60041847/video.shtml",
+        "date": "2025-12-13 16:59:13",
+        "sentiment_score": -0.43818314373493195
+    },
+    {
+        "title": "Griezmann anota como suplente en la victoria 2-1 del Atlético de Madrid ante Valencia",
+        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+        "tags": [
+            "sports",
+            "deportes",
+            "la liga espanola atletico madrid barcelona"
+        ],
+        "link": "https://apnews.com/article/la-liga-espanola-atletico-madrid-barcelona-bce6977515be9d2d40184c93b7b98b56",
+        "date": "2025-12-13 16:57:11",
+        "sentiment_score": 0.5457661412656307
+    },
+    {
+        "title": "Griezmann anota como suplente en la victoria 2-1 del Atlético de Madrid ante Valencia",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2025/12/13/griezmann-anota-como-suplente-en-la-victoria-2-1-del-atltico-de-madrid-ante-valencia/",
+        "date": "2025-12-13 16:57:10",
+        "sentiment_score": 0.2560077905654907
+    },
+    {
+        "title": "Raphinha anota dos en la victoria del Barcelona para ampliar su ventaja en La Liga",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/12/ESPA209A-LIGA_31344.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/12/13/raphinha-anota-dos-en-la-victoria-del-barcelona-para-ampliar-su-ventaja-en-la-liga/",
+        "date": "2025-12-13 16:57:10",
+        "sentiment_score": 0.47455547004938126
+    },
+    {
+        "title": "Pogacar no se obsesiona con el quinto Tour: “Prefiero ganar la Roubaix”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/13/693d9d6ac2802.r_d.1601-1411-1325.jpeg",
+        "tags": [
+            "ciclismo"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/ciclismo/20251213/11360436/pogacar-obsesiona-quinto-tour-prefiero-ganar-roubaix.html",
+        "date": "2025-12-13 17:09:09",
+        "sentiment_score": 0.44896451383829117
+    },
+    {
+        "title": "Al menos 8 heridos, varios graves, tras el incendio originado en un bloque de pisos",
+        "image_url": "https://www.clm24.es/media/clm24/images/2025/06/01/2025060113244693776.jpg",
+        "tags": [
+            "viral"
+        ],
+        "link": "https://www.clm24.es/articulo/viral/menos-ocho-heridos-varios-graves-incendio-originado-bloque-pisos/20251213180455466155.html",
+        "date": "2025-12-13 17:04:55",
+        "sentiment_score": -0.7945776358246803
+    },
+    {
+        "title": "Muere Gabriel Masfurroll Lacambra, expresidente del FC Barcelona y su Fundación",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1301x277:1303x275)/origin-imgresizer.eurosport.com/2025/12/13/image-f4173362-8d14-49ec-912e-9a491cf886e1-85-2560-1440.jpeg",
+        "tags": [
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/muere-expresidente-del-fc-barcelona-gabriel-masfurroll-lacambra-hoy_sto23250341/story.shtml",
+        "date": "2025-12-13 17:02:37",
+        "sentiment_score": -0.8985065696761012
+    },
+    {
+        "title": "Detenido un joven por atropellar a tres ciclistas en Vilanova i la Geltrú (Barcelona), uno de ellos en estado crítico",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/HF74EXIQCZBBFMLAHGRLGEV67Y.jpg?auth=14961f0b6059abff7fb2c16129398fcfc375831fd38cc4803109eb5d0e707bd9&width=1200",
+        "tags": [
+            "carreteras",
+            "sucesos",
+            "tráfico",
+            "accidentes",
+            "ciclistas",
+            "cataluña"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-12-13/detenido-un-joven-por-atropellar-a-tres-ciclistas-en-vilanova-i-la-geltru-barcelona-uno-de-ellos-en-estado-critico.html",
+        "date": "2025-12-13 17:00:58",
+        "sentiment_score": -0.7511391509324312
     }
 ];
