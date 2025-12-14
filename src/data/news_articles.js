@@ -1,231 +1,5 @@
 export default [
     {
-        "title": "Android recibe las videollamadas para contactar con los servicios de emergencia",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251210181056_690.jpg",
-        "tags": [
-            "software",
-            "portaltic"
-        ],
-        "link": "https://www.europapress.es/portaltic/software/noticia-android-recibe-videollamadas-contactar-servicios-emergencia-20251210181056.html",
-        "date": "2025-12-10 17:10:56",
-        "sentiment_score": 0.589651420712471
-    },
-    {
-        "title": "España retrocede en felicidad por la vivienda, la precariedad y la inseguridad",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/12/10/2025121018051696192.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.clm24.es/articulo/sociedad/espana-pierde-puntos-felicidad-vivienda-precariedad-inseguridad/20251210180741465940.html",
-        "date": "2025-12-10 17:07:41",
-        "sentiment_score": 0.08723651617765427
-    },
-    {
-        "title": "COPADE concluye 'Del Bosque a tu Casa', un proyecto que combate la despoblación rural con innovación tecnológica",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251210180656_260.jpg",
-        "tags": [
-            "responsables",
-            "ep social"
-        ],
-        "link": "https://www.europapress.es/epsocial/responsables/noticia-copade-concluye-bosque-casa-proyecto-combate-despoblacion-rural-innovacion-tecnologica-20251210180656.html",
-        "date": "2025-12-10 17:06:56",
-        "sentiment_score": 0.5707686208188534
-    },
-    {
-        "title": "Cinco detenidos por secuestrar y asesinar a un hombre en Mijas para robarle sus criptomonedas",
-        "image_url": "https://okdiario.com/img/2025/12/10/captura-de-pantalla-2025-12-10-a-las-17.59.03.jpg",
-        "tags": [
-            "mijas",
-            "sucesos",
-            "criptomonedas",
-            "españa",
-            "málaga",
-            "asesinatos",
-            "andalucía"
-        ],
-        "link": "https://okdiario.com/andalucia/cinco-detenidos-secuestrar-asesinar-hombre-mijas-robarle-sus-criptomonedas-15912894",
-        "date": "2025-12-10 17:06:34",
-        "sentiment_score": -0.8035711105912924
-    },
-    {
-        "title": "La vez que Pep regresó al Bernabéu por Champions y eclipsó el Madrid-City con un guiño secreto a Nadal",
-        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050030_260411411_1706x960.jpg",
-        "tags": [
-            "pep guardiola",
-            "fútbol",
-            "rafael nadal"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251210/vez-pep-regreso-bernabeu-champions-eclipso-madrid-city-guino-secreto-nadal/1003744049955_0.html",
-        "date": "2025-12-10 17:06:24",
-        "sentiment_score": 0.8695161733776331
-    },
-    {
-        "title": "17:00H | 10 DIC 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-10-dic-2025-tarde-20251210_3268810.html",
-        "date": "2025-12-10 17:04:00",
-        "sentiment_score": -0.1640389859676361
-    },
-    {
-        "title": "La San Silvestre va camino de batir su propio récord",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/a0b31f41-9127-49a2-8ec61717b72a0c1e.jpg",
-        "tags": [
-            "san silvestre",
-            "universidad de castilla-la mancha",
-            "san clemente",
-            "guadalajara",
-            "puente viejo de talavera",
-            "udat",
-            "jardines del prado",
-            "avenida de madrid",
-            "avenida real fábrica de sedas",
-            "avenida castilla la mancha",
-            "avenida de castilla",
-            "españa",
-            "atletismo",
-            "extremadura",
-            "castilla-la mancha",
-            "talavera de la reina",
-            "la lanera"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zf55dfaf3-7ae4-48e9-b1a94165a9ce4ea9/202512/la-san-silvestre-va-camino-de-batir-su-propio-record",
-        "date": "2025-12-10 17:02:15",
-        "sentiment_score": 0.8711962047964334
-    },
-    {
-        "title": "Guardia Civil detecta alquileres fraudulentos en diferentes ciudades usando este tipo de anuncios",
-        "image_url": "https://s10.s3c.es/imag/_v0/1200x655/d/8/5/guardia-civil.jpg",
-        "tags": [
-            "vivienda-inmobiliario"
-        ],
-        "link": "https://www.eleconomista.es/vivienda-inmobiliario/noticias/13685254/12/25/guardia-civil-detecta-alquileres-fraudulentos-en-diferentes-ciudades-usando-este-tipo-de-anuncios.html",
-        "date": "2025-12-10 17:02:03",
-        "sentiment_score": -0.7218001298606396
-    },
-    {
-        "title": "Hartazgo e insatisfacción: Froilán contradice las palabras de Juan Carlos I en 'Reconciliación' sobre su vida en Abu Dabi",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/10/felipe-juan-froilan-de-marichalar-hijo-de-la-infanta-elena-y-nieto-del-rey-juan-carlos-en-una-visita-al-hospital-a-su-abuelo.jpeg",
-        "tags": [
-            "influencers y celebrities"
-        ],
-        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/hartazgo-e-insatisfaccion-froilan-contradice-palabras-juan-carlos-i-reconciliacion-sobre-vida-abu-dabi.html",
-        "date": "2025-12-10 16:52:40",
-        "sentiment_score": -0.346218079328537
-    },
-    {
-        "title": "La nueva aventura de Pablo Laso en Turquía tras ser descartado por la selección española",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/09/24/66f2cb45d8fc5.r_d.808-449.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.eldebate.com/deportes/baloncesto/20251210/nueva-aventura-pablo-laso-turquia-descartado-seleccion-espanola_364044.html",
-        "date": "2025-12-10 16:32:28",
-        "sentiment_score": -0.4948815032839775
-    },
-    {
-        "title": "Greenpeace defiende que cazar jabalíes expande la peste porcina africana y protege a la industria",
-        "image_url": "https://okdiario.com/img/2025/12/10/jabalies-peste.jpg",
-        "tags": [
-            "greenpeace",
-            "caza",
-            "okgreen",
-            "green - biodiversidad"
-        ],
-        "link": "https://okdiario.com/okgreen/greenpeace-defiende-que-cazar-jabalies-expande-peste-porcina-africana-protege-industria-15912813",
-        "date": "2025-12-10 17:12:54",
-        "sentiment_score": -0.5190003663301468
-    },
-    {
-        "title": "La alcaldesa Morales, en el coloquio de EL PERIÓDICO en Viladecans: Sorprende que en el Pleno con más mujeres de nuestra historia no haya acuerdos para el 8-M",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dce53c88-dcab-4126-b0c4-7e658bdf1ee0_source-aspect-ratio_default_0_x945y520.jpg",
-        "tags": [
-            "viladecans",
-            "alcaldes"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20251210/alcaldesa-morales-coloquio-periodico-viladecans-sorprende-pleno-mas-mujeres-nuestra-historia-no-haya-acuerdo-8m-124648960",
-        "date": "2025-12-10 17:12:15",
-        "sentiment_score": 0.04146541655063629
-    },
-    {
-        "title": "PortAventura World genera un impacto anual de 600 millones en la economía española",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/91c7dbb2bbf989b2b179dc704b5ba523/crop/328x130/1966x1222/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/10/17653862513828.jpg",
-        "tags": [
-            "turismo>",
-            "cataluña>",
-            "empresas>"
-        ],
-        "link": "https://www.expansion.com/catalunya/2025/12/10/69398fe8468aeb2f748b4594.html",
-        "date": "2025-12-10 17:10:06",
-        "sentiment_score": 0.14592069759964943
-    },
-    {
-        "title": "Susana (79), autónoma jubilada, con una pensión de 800 euros: “Llevo 56 años de alquiler, nunca he podido pagar un piso”",
-        "image_url": "https://s3.elespanol.com/2025/12/04/actualidad/1003744043607_260328649_1706x960.jpg",
-        "tags": [
-            "soft",
-            "autónomos",
-            "jubilación",
-            "sociedad",
-            "jubilados"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251210/susana-autonoma-jubilada-pension-euros-llevo-anos-alquiler-nunca-podido-pagar-piso/1003744043476_0.html",
-        "date": "2025-12-10 17:08:26",
-        "sentiment_score": 0.07340320944786072
-    },
-    {
-        "title": "Miguel Félix Chicón, histórico jefe de Salvamento en Baleares, presenta 'Navegar es necesario'",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/10/6939a822dcc22.r_d.971-17-7500.jpeg",
-        "tags": [
-            "baleares"
-        ],
-        "link": "https://www.eldebate.com/espana/baleares/20251210/miguel-felix-chicon-historico-jefe-salvamento-baleares-presenta-navegar-necesario_364077.html",
-        "date": "2025-12-10 17:05:32",
-        "sentiment_score": 0.007874622941017151
-    },
-    {
-        "title": "Hallados tres jabalís muertos en una misma tarde en el Vallès en plena alerta por la peste porcina",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4b4ab6c2-ac41-4432-8f65-aa0f2df5adff_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "peste porcina"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20251210/hallados-jabalies-muertos-b-124-animales-sabadell-castellar-agents-rurals-mossos-124652020",
-        "date": "2025-12-10 17:04:30",
-        "sentiment_score": -0.8653359906747937
-    },
-    {
-        "title": "Cataluña prevé reducir a la mitad la población de jabalíes, que cifra en 125.000",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251210171235-1.jpg?fit=1920%2C1513&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/catalua-prev-reducir-a-la-mitad-la-poblacin-de-jabales-que-cifra-en-125-000-2/",
-        "date": "2025-12-10 17:00:15",
-        "sentiment_score": -0.3751445710659027
-    },
-    {
-        "title": "El Titanic atracará en València con una experiencia inmersiva en Bombas Gens",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7d79b19b-cf53-47bb-8dd9-245209a3bfef_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "bombas gens",
-            "planes",
-            "luz",
-            "arte",
-            "programación",
-            "exposició",
-            "frida kahlo",
-            "exposiciones",
-            "exposición",
-            "plan",
-            "cultura"
-        ],
-        "link": "https://www.levante-emv.com/cultura/2025/12/10/titanic-atracara-valencia-experiencia-inmersiva-124636486.html",
-        "date": "2025-12-10 17:00:12",
-        "sentiment_score": 0.10188153386116028
-    },
-    {
         "title": "Guardiola hurga en la herida de Xabi Alonso",
         "image_url": "https://www.latribunadetoledo.es/media/img/2025/84e93d0f-c0e2-46c2-92dacccec1fed363.jpg",
         "tags": [
@@ -3061,5 +2835,235 @@ export default [
         "link": "https://www.elmundo.es/metropoli/gastronomia/2025/12/14/693a8e97fc6c837b068b4581.html",
         "date": "2025-12-14 00:27:56",
         "sentiment_score": 0.15904122591018677
+    },
+    {
+        "title": "Arranca un nuevo juicio al comisario Villarejo por un presunto espionaje empresarial",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/14/arranca-un-nuevo-juicio-al-comisario-villarejo-por-un-presunto-espionaje-empresarial/",
+        "date": "2025-12-14 06:30:20",
+        "sentiment_score": -0.830797553062439
+    },
+    {
+        "title": "Ricardo Vilá, asesor financiero, sobre comprar la vivienda a la otra parte en un divorcio: “Es un error que cuesta miles de euros”",
+        "image_url": "https://s3.elespanol.com/2025/12/03/actualidad/1003744040784_260292469_1706x960.jpg",
+        "tags": [
+            "vivienda",
+            "divorcios",
+            "sociedad",
+            "impuestos"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251214/ricardo-vila-asesor-financiero-comprar-vivienda-parte-divorcio-error-cuesta-miles-euros/1003744040701_0.html",
+        "date": "2025-12-14 06:28:21",
+        "sentiment_score": 0.14445459842681885
+    },
+    {
+        "title": "La Escolanía ilumina la Catedral por Navidad",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/40-2-2.jpg",
+        "tags": [
+            "segovia",
+            "la última"
+        ],
+        "link": "https://eladelantado.com/la-escolania-ilumina-la-catedral-por-navidad/",
+        "date": "2025-12-14 06:10:32",
+        "sentiment_score": 0.5787781365215778
+    },
+    {
+        "title": "La familia blanquinegra crece: veteranos del C.D. Badajoz mantienen vivo su legado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf16269d-e24a-4bcc-928e-a8983366fe61_16-9-aspect-ratio_default_0_x1221y1117.jpg",
+        "tags": [
+            "aspace",
+            "crecimiento",
+            "familia",
+            "convivencia",
+            "fútbol"
+        ],
+        "link": "https://www.lacronicabadajoz.com/badajoz/2025/12/14/familia-blanquinegra-crece-veteranos-c-124767100.html",
+        "date": "2025-12-14 06:05:47",
+        "sentiment_score": 0.4914618358016014
+    },
+    {
+        "title": "La llave ‘maldita’: el secuestro mortal de una pareja a la que tendieron una trampa cuando iban a alquilar una villa en Mijas",
+        "image_url": "https://static.grupojoly.com/clip/4b2718e9-8318-43b3-8d2c-afea0024398f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sucesos málaga",
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/llave-maldita-secuestro-mortal-pareja_0_2005444640.html",
+        "date": "2025-12-14 06:05:02",
+        "sentiment_score": -0.8287020279094577
+    },
+    {
+        "title": "Francisca Pizarro: mestiza de la conquista y herencia imperial",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f469cb77-6624-4480-9e4e-08b357af56b2_16-9-aspect-ratio_default_0_x507y603.jpg",
+        "tags": [
+            "españa",
+            "ribera",
+            "madrid",
+            "extremadura",
+            "más extremadura"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/14/francisca-pizarro-mestiza-conquista-herencia-124733432.html",
+        "date": "2025-12-14 06:02:23",
+        "sentiment_score": -0.44463665783405304
+    },
+    {
+        "title": "Al acecho del gigante herido",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3845ebcf-36ae-4073-9cde-ce9bd1773698_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "herido",
+            "previa",
+            "alavés",
+            "la liga",
+            "gigante",
+            "real madrid",
+            "acecho"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2025/12/14/acecho-gigante-herido-alaves-real-madrid-la-liga-previa-10468574.html",
+        "date": "2025-12-14 06:00:49",
+        "sentiment_score": -0.46090124547481537
+    },
+    {
+        "title": "El largo peregrinar de los menceyes destronados",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2c46a391-2835-41f5-86e8-c0e48dc7a54f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "guanches",
+            "tenerife",
+            "los reyes",
+            "adeje",
+            "lugo",
+            "güímar",
+            "isla"
+        ],
+        "link": "https://www.laprovincia.es/dominical/2025/12/14/peregrinar-menceyes-destronados-124761499.html",
+        "date": "2025-12-14 06:00:00",
+        "sentiment_score": -0.055590689182281494
+    },
+    {
+        "title": "El Madrid Innovation District del Real Madrid generará 1.200 millones al año",
+        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2025/12/madrid-innovation-hub-real-madrid.jpg",
+        "tags": [
+            "startups",
+            "real madrid"
+        ],
+        "link": "https://emprendedores.es/actualidad/madrid-innovation-district-real-madrid",
+        "date": "2025-12-14 06:00:00",
+        "sentiment_score": 0.29672911018133163
+    },
+    {
+        "title": "Esto es lo que hará tu banco si ganas algún premio importante de la Lotería de Navidad 2025: un movimiento muy habitual",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/12/09/6756e975beda4.r_d.2923-1949.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20251214/1002585740/esto-hara-banco-ganas-premio-importante-loteria-navidad-2025-movimiento-habitual-dct.html",
+        "date": "2025-12-14 06:00:00",
+        "sentiment_score": 0.22680674493312836
+    },
+    {
+        "title": "La Audiencia juzga al yihadista que atacó con un hacha un McDonalds en el Màgic de Badalona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8f35198d-df58-4790-8490-8e13729860f4_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "badalona",
+            "yihad",
+            "audiencia nacional"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/badalona/20251214/audiencia-juzga-yihadista-ataco-hacha-mcdonalds-magic-badalona-124767601",
+        "date": "2025-12-14 06:34:40",
+        "sentiment_score": -0.8536315374076366
+    },
+    {
+        "title": "Jane Austen, una fascinación en auge 250 años después de su nacimiento",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/14/jane-austen-una-fascinacion-en-auge-250-anos-despues-de-su-nacimiento/",
+        "date": "2025-12-14 06:30:52",
+        "sentiment_score": 0.7881584726274014
+    },
+    {
+        "title": "La Marató dedica más de 17 horas en directo en Cataluña para sensibilizar sobre el cáncer",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/14/la-marato-dedica-mas-de-17-horas-en-directo-en-cataluna-para-sensibilizar-sobre-el-cancer/",
+        "date": "2025-12-14 06:30:36",
+        "sentiment_score": 0.16782569140195847
+    },
+    {
+        "title": "Alfredo, dueño de un viñedo de 80 hectáreas, en vísperas de Nochevieja: \"Sacaremos 35.000 kilos por hectárea a 1,5€ el kilo\"",
+        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744049153_260400948_1706x960.jpg",
+        "tags": [
+            "soft",
+            "uva",
+            "viñedo",
+            "año nuevo",
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251214/alfredo-dueno-vinedo-hectareas-visperas-nochevieja-sacaremos-kilos-hectarea-kilo/1003744048827_0.html",
+        "date": "2025-12-14 06:28:58",
+        "sentiment_score": 0.2837541699409485
+    },
+    {
+        "title": "La Audiencia juzga al yihadista que atacó con un hacha un McDonald ́s de Badalona en 2024",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/14/la-audiencia-juzga-al-yihadista-que-ataco-con-un-hacha-un-mcdonalds-de-badalona-en-2024/",
+        "date": "2025-12-14 06:15:36",
+        "sentiment_score": -0.9065718045458198
+    },
+    {
+        "title": "Mònica Planas: “Muchos de los que me han abucheado o amenazado no se habrían atrevido con un hombre”",
+        "image_url": "https://static1.ara.cat/clip/28aa3701-c1b2-4c63-b77c-4dc2a5132e49_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "no",
+            "abucheado",
+            "hombre",
+            "monica",
+            "han",
+            "habrian",
+            "amenazado",
+            "planas",
+            "atrevido"
+        ],
+        "link": "https://es.ara.cat/videos/monica-planas-han-abucheado-amenazado-no-habrian-atrevido-hombre_7_5591883.html",
+        "date": "2025-12-14 06:01:05",
+        "sentiment_score": -0.14741435647010803
+    },
+    {
+        "title": "\"Muchos de los que me han abucheado o amenazado no se habrían atrevido con un hombre\"",
+        "image_url": "https://static1.ara.cat/clip/28aa3701-c1b2-4c63-b77c-4dc2a5132e49_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "han",
+            "atrevido",
+            "no",
+            "habrian",
+            "abucheado",
+            "hombre",
+            "amenazado"
+        ],
+        "link": "https://es.ara.cat/media/han-abucheado-amenazado-no-habrian-atrevido-hombre_128_5591884.html",
+        "date": "2025-12-14 06:01:05",
+        "sentiment_score": -0.13001008331775665
+    },
+    {
+        "title": "El caso Negreira",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7b0dc4c1-8c98-463d-b616-d0024fee248e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "árbitros",
+            "justicia",
+            "vicepresidente",
+            "barça",
+            "barcelona"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2025/12/14/caso-negreira-opinion-francis-tome-124756863.html",
+        "date": "2025-12-14 06:01:00",
+        "sentiment_score": 0.018069103360176086
     }
 ];
