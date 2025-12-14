@@ -1,200 +1,5 @@
 export default [
     {
-        "title": "El campeón de Europa",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ffda81bd-e861-4913-8e9c-98537c8a5096_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "europa",
-            "monje",
-            "champions",
-            "campeon",
-            "psg"
-        ],
-        "link": "https://www.deia.eus/opinion/minuto-y-resultado/2025/12/10/campeon-europa-champions-monje-psg-10452078.html",
-        "date": "2025-12-10 06:30:28",
-        "sentiment_score": 0.4255000501871109
-    },
-    {
-        "title": "Lío con los horarios de la Copa del Rey: el Atlético jugará un jueves a las 21 horas... y en Liga el domingo a las 14h",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/03/68dfa2ddae0aa.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/lio-con-los-horarios-copa-rey-atletico-jugara-un-jueves-las-21-horas-liga-domingo-las-14h_6908490_0.html",
-        "date": "2025-12-10 06:22:30",
-        "sentiment_score": -0.3678089492022991
-    },
-    {
-        "title": "Una 'final' para un Xabi Alonso contra las cuerdas... con Guardiola amenazando: el Real Madrid se mide al Manchester City",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/09/6937c7ce95e753-47739676.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.20minutos.es/deportes/una-final-para-un-xabi-alonso-contra-las-cuerdas-con-guardiola-amenazando-real-madrid-se-mide-manchester-city_6908485_0.html",
-        "date": "2025-12-10 06:22:13",
-        "sentiment_score": -0.8521092459559441
-    },
-    {
-        "title": "Cuando un partido cumbre parece imposible de coronar",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ac05c947-9f1d-4345-b074-4d69786ff4ca_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "champions",
-            "bilbao",
-            "previa",
-            "san mames",
-            "psg"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/12/10/psg-san-mames-bilbao-previa-champions-10452065.html",
-        "date": "2025-12-10 06:15:47",
-        "sentiment_score": 0.5626818388700485
-    },
-    {
-        "title": "«Nuestro objetivo es que el talento encuentre en Castilla y León un ecosistema atractivo para desarrollarse»",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/09/consejeraEducacion-kXKE-U240501263141uP-758x531@El%20Norte.jpg",
-        "tags": [
-            "junta de castilla y león",
-            "castilla y león",
-            "rocío lucas navas",
-            "educación",
-            "innovación",
-            "universidades"
-        ],
-        "link": "https://www.elnortedecastilla.es/castillayleon/objetivo-talento-encuentre-castilla-leon-ecosistema-atractivo-20251210065839-nt.html",
-        "date": "2025-12-10 05:58:39",
-        "sentiment_score": -0.03935988247394562
-    },
-    {
-        "title": "Pedro Benito, el capitán precoz que lidera al Real Murcia",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/10/693908f815e2c.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/409438/pedro-benito-capitan-precoz-lidera-real-murcia.html",
-        "date": "2025-12-10 05:56:16",
-        "sentiment_score": 0.09261927008628845
-    },
-    {
-        "title": "Ca l'Estevet: el restaurante que demuestra que la cocina catalana está estupendamente",
-        "image_url": "https://static1.ara.cat/clip/72aa8d56-017a-4548-9473-e486ac2795a7_16-9-aspect-ratio_default_0_x1728y510.jpg",
-        "tags": [
-            "cocina",
-            "estevet",
-            "ca",
-            "restaurante",
-            "estupendamente",
-            "demuestra",
-            "catalana",
-            "l"
-        ],
-        "link": "https://es.ara.cat/comer/ca-l-estevet-restaurante-demuestra-cocina-catalana-estupendamente_1_5587701.html",
-        "date": "2025-12-10 06:40:21",
-        "sentiment_score": -0.20357392728328705
-    },
-    {
-        "title": "Cataluña encara un día de ambiente estable y alguna nevada débil en el Pirineo occidental",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/10/vida/1003742714785_15496590_1706x960.jpg",
-        "tags": [
-            "el tiempo",
-            "meteorología",
-            "meteocat",
-            "los pirineos",
-            "tiempo",
-            "cataluña",
-            "nieve"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/el-tiempo/20251210/cataluna-encara-ambiente-estable-alguna-pirineo-occidental/1003742714783_0.html",
-        "date": "2025-12-10 06:33:57",
-        "sentiment_score": -0.7979859188199043
-    },
-    {
-        "title": "Lo que debes saber hoy, 10 de diciembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/04/18/vivir-en-barcelona/757184282_9128786_1706x960.jpg",
-        "tags": [
-            "transports metropolitans barcelona tmb",
-            "tráfico",
-            "vivir en barcelona",
-            "clima",
-            "transporte",
-            "tiempo",
-            "coches"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251210/debes-saber-hoy-diciembre-barcelona/1003742714784_0.html",
-        "date": "2025-12-10 06:32:11",
-        "sentiment_score": 0.027752280235290527
-    },
-    {
-        "title": "Los motivos por los que Rosalía no hace estadios con su 'LUX Tour', una gira mundial con entradas agotadas en minutos",
-        "image_url": "https://album.mediaset.es/eimg/2025/12/09/rosalia_76a8.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.telecinco.es/noticias/cultura/20251210/motivos-rosalia-no-hace-estadios-lux-tour-entradas-agotadas_18_017801989.html",
-        "date": "2025-12-10 06:15:55",
-        "sentiment_score": 0.06084220111370087
-    },
-    {
-        "title": "\"Mi padre me enseñó dos cosas fundamentales: a cazar ya no ser obediente\"",
-        "image_url": "https://static1.ara.cat/clip/ab8498aa-f935-4894-a447-783a6c4ac49b_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "no",
-            "cosas",
-            "padre",
-            "cazar",
-            "fundamentales",
-            "obediente",
-            "enseno"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/padre-enseno-cosas-fundamentales-cazar-no-obediente_128_5587693.html",
-        "date": "2025-12-10 06:15:10",
-        "sentiment_score": -0.13137187063694
-    },
-    {
-        "title": "Muere el músico Robe Iniesta, líder de Extremoduro, a los 63 años",
-        "image_url": "https://static1.ara.cat/clip/e025f28d-779f-4d6a-9aa3-48ca939bee3e_16-9-aspect-ratio_default_0_x1511y0.jpg",
-        "tags": [
-            "musico",
-            "iniesta",
-            "muere",
-            "63",
-            "anos",
-            "robe"
-        ],
-        "link": "https://es.ara.cat/cultura/musica/muere-musico-robe-iniesta-63-anos_1_5587674.html",
-        "date": "2025-12-10 06:00:58",
-        "sentiment_score": -0.1320675164461136
-    },
-    {
-        "title": "Una empresa aragonesa de venta de carne de jabalí: \"Llevamos años pagando la psicosis de la peste porcina; me recuerda a las vacas locas\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/352d2bdb-53c7-417c-93db-b1be98b95c72_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "aragón",
-            "peste porcina",
-            "dga"
-        ],
-        "link": "https://www.elperiodicodearagon.com/aragon/2025/12/10/empresa-aragonesa-venta-carne-jabali-124606001.html",
-        "date": "2025-12-10 06:00:29",
-        "sentiment_score": -0.6539629325270653
-    },
-    {
-        "title": "El Gran Wyoming: \"La Justicia me ha citado dos veces solo para que me hicieran la foto\"",
-        "image_url": "https://www.elplural.com/uploads/s1/21/07/98/4/el-gran-wyoming-en-los-premios-ondas-cadena-ser-x_7_480x270.jpeg",
-        "tags": [
-            "extratele"
-        ],
-        "link": "https://www.elplural.com/extratele/gran-wyoming-justicia-me-ha-citado-dos-veces-solo-me-hicieran-foto_367025102",
-        "date": "2025-12-10 06:00:11",
-        "sentiment_score": -0.17718030512332916
-    },
-    {
-        "title": "Ruta literaria en Barcelona: recorrer la ciudad tras los pasos de Ruiz Zafón",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/09/6937fdbf27239.r_d.3028-2693-748.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/viajes/20251210/11328468/ruta-literaria-barcelona-la-sombra-del-viento-ruiz-zafon.html",
-        "date": "2025-12-10 06:00:00",
-        "sentiment_score": 0.438973693177104
-    },
-    {
         "title": "De Tocorón a São Paulo: Por qué las cárceles de América Latina crean algunas de las pandillas más letales del mundo",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/09/Captura-de-pantalla-2025-09-24-064217.jpg",
         "tags": [
@@ -2829,5 +2634,245 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-12-13/detenido-un-joven-por-atropellar-a-tres-ciclistas-en-vilanova-i-la-geltru-barcelona-uno-de-ellos-en-estado-critico.html",
         "date": "2025-12-13 17:00:58",
         "sentiment_score": -0.7511391509324312
+    },
+    {
+        "title": "De la clandestinidad a la salida de película desde Venezuela: lo que vivió María Corina Machado y lo que sigue ahora",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/8fb0bf35a97b5f562b142a6e6a5f30c4d81e044ew.jpg",
+        "tags": [
+            "destacados",
+            "nacionales",
+            "maría corina machado",
+            "internacionales"
+        ],
+        "link": "https://lapatilla.com/2025/12/12/de-la-clandestinidad-a-la-salida-de-pelicula-desde-venezuela-lo-que-vivio-maria-corina-machado-y-lo-que-sigue-ahora/",
+        "date": "2025-12-12 10:25:10",
+        "sentiment_score": -0.5187392681837082
+    },
+    {
+        "title": "Hansi Flick mejora el rendimiento del Barça con mano dura: más meritocracia y menos 'vacas sagradas'",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/13/culemania/primer-equipo/1003742715902_15510191_1706x960.jpg",
+        "tags": [
+            "hansi flick",
+            "joan laporta",
+            "frenkie de jong",
+            "robert lewandowski",
+            "laliga",
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251213/hansi-flick-mejora-rendimiento-barca-meritocracia-sagradas/1003742715898_0.html",
+        "date": "2025-12-13 22:05:17",
+        "sentiment_score": 0.5577767118811607
+    },
+    {
+        "title": "Del Mobile a la Fórmula 1: ¿amenaza el cerco a los pisos turísticos la celebración de megaeventos?",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
+        "tags": [
+            "artículos clara rojas",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2025/12/13/693c5badfc6c832c278b458f.html",
+        "date": "2025-12-13 21:43:23",
+        "sentiment_score": -0.4715760499238968
+    },
+    {
+        "title": "Europa busca su sitio en el orden mundial tras el golpe del trumpismo",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/5e9841c93535725f3d78830e3b5fd585/f/image/jpeg/assets/multimedia/imagenes/2022/04/26/16509973411538.jpg",
+        "tags": [
+            "estados unidos",
+            "gran angular",
+            "unión europea",
+            "artículos pablo pardo",
+            "nlpremium",
+            "rusia",
+            "internacional",
+            "europa"
+        ],
+        "link": "https://www.elmundo.es/internacional/2025/12/13/6939a00a21efa04a468b4585.html",
+        "date": "2025-12-13 21:42:02",
+        "sentiment_score": -0.7931611370295286
+    },
+    {
+        "title": "Flamengo vs. PSG: Jorge Carrascal buscará sumarse a la lista de colombianos que han sido campeones intercontinentales",
+        "image_url": "https://www.infobae.com/resizer/v2/SL6AKJNUPVCJNOSOPKHPZGSROA.png?auth=569579fdfd62e906c0f245cec1b8bcd22f8daf9d50fa3fc8bbd7b82403476177&height=1600&smart=true&width=2400",
+        "tags": [
+            "flamengo",
+            "copa intercontinental",
+            "colombia-deportes",
+            "colombianos",
+            "psg",
+            "fifa",
+            "final",
+            "jorge carrascal"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/12/13/flamengo-vs-psg-jorge-carrascal-buscara-sumarse-a-la-lista-de-colombianos-que-han-sido-campeones-intercontinentales/",
+        "date": "2025-12-13 21:38:44",
+        "sentiment_score": 0.05308964103460312
+    },
+    {
+        "title": "Ayón afirma que al baloncetista mexicano le falta \"fortaleza mental\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe",
+            "partidos de despedida",
+            "amistosos",
+            "deportistas"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/13/ayon-afirma-que-al-baloncetista-mexicano-le-falta-fortaleza-mental/",
+        "date": "2025-12-13 21:30:25",
+        "sentiment_score": -0.5819608140736818
+    },
+    {
+        "title": "Flick ensalza el trabajo de la Masía y manda un recado a Ter Stegen",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/13/culemania/primer-equipo/1003742715882_15509933_1706x960.jpg",
+        "tags": [
+            "hansi flick",
+            "primer equipo",
+            "la masía",
+            "raphinha"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251213/flick-ensalza-trabajo-masia-recado-ter-stegen/1003742715881_0.html",
+        "date": "2025-12-13 21:26:36",
+        "sentiment_score": 0.29519394040107727
+    },
+    {
+        "title": "«Cada proyecto me exige un nivel emocional distinto, y eso es lo que más me motiva»",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/12/09/1000162649-kohD-U240498797308KsH-1200x840@Ideal.jpg",
+        "tags": [
+            "cultura",
+            "galicia",
+            "trabajo",
+            "juan josé ballesta",
+            "jaén (provincia)",
+            "cine",
+            "málaga",
+            "valladolid (ciudad)",
+            "academia del cine español"
+        ],
+        "link": "https://www.ideal.es/jaen/jaen/proyecto-exige-nivel-emocional-distinto-motiva-20251209221747-nt.html",
+        "date": "2025-12-13 21:17:47",
+        "sentiment_score": 0.6336035951972008
+    },
+    {
+        "title": "Ayón afirma que al baloncetista uruguayo le falta \"fortaleza mental\"",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/13/ayon-afirma-que-al-baloncetista-uruguayo-le-falta-fortaleza-mental/",
+        "date": "2025-12-13 21:16:30",
+        "sentiment_score": -0.6025655921548605
+    },
+    {
+        "title": "Rapinha rescata al Barcelona con un doblete ante Osasuna y afianza el liderato",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/13170848/Rapinha.jpg",
+        "tags": [
+            "deportes",
+            "rapinha",
+            "barcelona",
+            "fútbol",
+            "osasuna"
+        ],
+        "link": "https://www.elnacional.com/2025/12/rapinha-rescata-al-barcelona-con-un-doblete-ante-osasuna-y-afianza-el-liderato/",
+        "date": "2025-12-13 21:10:18",
+        "sentiment_score": 0.49390872567892075
+    },
+    {
+        "title": "Flick apunta al Real Madrid: \"Nos beneficia poner presión a los demás\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/13/image-584eeed7-68fd-41d3-ae49-98165ab67840-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "la liga 2025-2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/flick-apunta-real-madrid-es-bueno-poner-presion-rivales_sto23250422/story.shtml",
+        "date": "2025-12-13 21:04:01",
+        "sentiment_score": -0.23984672129154205
+    },
+    {
+        "title": "Este es el primer puente que se celebrará en Barcelona en 2026 (después de Año Nuevo): cuatro días de fiesta",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/01/28/vivir-en-barcelona/828427193_12328772_1706x960.jpg",
+        "tags": [
+            "vivir en barcelona",
+            "festivos barcelona",
+            "recomendaciones",
+            "calendario laboral"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251213/primer-puente-celebrara-barcelona-despues-ano-nuevo-dias-fiesta/1003742715901_0.html",
+        "date": "2025-12-13 22:07:12",
+        "sentiment_score": 0.5967460162937641
+    },
+    {
+        "title": "Se cumple un año de la muerte de Isak Andic, fundador de Mango: sin indicios concluyentes de muerte criminal",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/16/asi-son-las-cuevas-de-salnitre-de-collbato-el-entorno-donde-ha-muerto-el-dueno-de-mango-isak-andic.webp",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/cumple-ano-muerte-isak-andic-fundador-mango-sin-indicios-muerte-criminal_6910253_0.html",
+        "date": "2025-12-13 21:59:03",
+        "sentiment_score": -0.5386833995580673
+    },
+    {
+        "title": "«La elección del centro de Asturias por Amazon fue la mejor, la ubicación es envidiable»",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/13/amazon-siero-RYD4dqf2uXGDiT8qwwne07O-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "siero",
+            "amazon",
+            "el comercio",
+            "navidad",
+            "innovación",
+            "principado de asturias"
+        ],
+        "link": "https://www.elcomercio.es/area-metropolitana-asturias/siero-centro/eleccion-centro-asturias-amazon-mejor-ubicacion-envidiable-20251213204529-nt.html",
+        "date": "2025-12-13 21:58:15",
+        "sentiment_score": 0.39189422130584717
+    },
+    {
+        "title": "La provincia de Almería supera los 773.500 vecinos y la capital gana casi 3.000 habitantes",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/12/13/gentecalle.jpg",
+        "tags": [
+            "almería (provincia)",
+            "almería",
+            "ine"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/provincia-almeria-supera-773500-vecinos-capital-gana-20251214225621-nt.html",
+        "date": "2025-12-13 21:56:22",
+        "sentiment_score": 0.4256376028060913
+    },
+    {
+        "title": "El Espanyol toca techo y amenaza con romperlo",
+        "image_url": "https://static1.ara.cat/clip/6cc616ea-b9ed-40c3-9756-5cdd66160209_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "amenaza",
+            "cargarselo",
+            "espanyol",
+            "toca",
+            "techo"
+        ],
+        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-toca-techo-amenaza-cargarselo_1_5591867.html",
+        "date": "2025-12-13 21:53:12",
+        "sentiment_score": 0.12457919120788574
+    },
+    {
+        "title": "La falta de jugadoras frustra al Miralvalle",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/13/Adrijana-Rvf0YCcE5xrhiV5QQFyb6lL-1200x840@Hoy.jpg",
+        "tags": [
+            "plasencia",
+            "baloncesto"
+        ],
+        "link": "https://www.hoy.es/deportes/baloncesto/falta-jugadoras-frustra-miralvalle-20251213224135-nt.html",
+        "date": "2025-12-13 21:41:35",
+        "sentiment_score": 0.42148375511169434
+    },
+    {
+        "title": "El entrenador de Osasuna clama por el penalti no pitado: «En la tele no lo han puesto mucho...»",
+        "image_url": "https://okdiario.com/img/2025/12/13/imagen_recortada-3-3.jpg",
+        "tags": [
+            "deportes",
+            "fc barcelona",
+            "club atlético osasuna",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/entrenador-osasuna-clama-penalti-no-pitado-tele-no-lo-han-puesto-mucho-15931096",
+        "date": "2025-12-13 21:30:47",
+        "sentiment_score": -0.6400462165474892
     }
 ];
