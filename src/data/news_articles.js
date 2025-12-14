@@ -1,20 +1,5 @@
 export default [
     {
-        "title": "De Tocorón a São Paulo: Por qué las cárceles de América Latina crean algunas de las pandillas más letales del mundo",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/09/Captura-de-pantalla-2025-09-24-064217.jpg",
-        "tags": [
-            "cárceles",
-            "internacionales",
-            "nacionales",
-            "destacados",
-            "américa latina",
-            "tocorón a são paulo"
-        ],
-        "link": "https://lapatilla.com/2025/12/10/de-tocoron-a-sao-paulo-por-que-las-carceles-de-america-latina-crean-algunas-de-las-pandillas-mas-letales-del-mundo/",
-        "date": "2025-12-10 11:50:33",
-        "sentiment_score": -0.5462710857391357
-    },
-    {
         "title": "Android recibe las videollamadas para contactar con los servicios de emergencia",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251210181056_690.jpg",
         "tags": [
@@ -2874,5 +2859,207 @@ export default [
         "link": "https://okdiario.com/deportes/entrenador-osasuna-clama-penalti-no-pitado-tele-no-lo-han-puesto-mucho-15931096",
         "date": "2025-12-13 21:30:47",
         "sentiment_score": -0.6400462165474892
+    },
+    {
+        "title": "Las otras Navidades de Madrid: liturgia ortodoxa en Hortaleza, culto evangélico en Aluche o Hanukkah en Alcobendas",
+        "image_url": "https://s3.elespanol.com/2025/12/13/actualidad/1003744054178_260464773_1706x960.jpg",
+        "tags": [
+            "religión",
+            "navidades",
+            "sociedad",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251214/navidades-madrid-liturgia-ortodoxa-hortaleza-culto-evangelico-aluche-hanukkah-alcobendas/1003744053690_0.html",
+        "date": "2025-12-14 02:09:59",
+        "sentiment_score": 0.21537740528583527
+    },
+    {
+        "title": "El de Íñigo Onieva y los otros clubes de socios que ya tienen lista de espera antes de abrir: membresías de 2.000 euros",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053006_260449069_1706x960.jpg",
+        "tags": [
+            "restaurantes",
+            "iñigo onieva",
+            "ocio"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20251214/inigo-onieva-clubes-socios-lista-espera-abrir-membresias-euros/1003744052440_0.html",
+        "date": "2025-12-14 02:08:11",
+        "sentiment_score": 0.44632886722683907
+    },
+    {
+        "title": "\"La familia es un reducto contra el Estado y su poder uniformador\"",
+        "image_url": "https://static.grupojoly.com/clip/b8ae4b18-51ce-4474-bf1c-7bdf3c2c7b84_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "reducto",
+            "familia",
+            "uniformador"
+        ],
+        "link": "https://www.diariodesevilla.es/rastrodelafama/familia-reducto-uniformador_0_2005447836.html",
+        "date": "2025-12-14 02:00:47",
+        "sentiment_score": -0.11990796774625778
+    },
+    {
+        "title": "Álvaro Falcón, de llevar las arras como Seise en la boda de la infanta Elena a montar pistas de hielo en 82 países",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052855_260447233_1706x960.jpg",
+        "tags": [
+            "parques de atracciones",
+            "tradiciones",
+            "infantas",
+            "casa real",
+            "sevilla (municipio)",
+            "empresas",
+            "patinaje sobre hielo",
+            "sevilla"
+        ],
+        "link": "https://www.elespanol.com/sevilla/20251214/alvaro-falcon-llevar-arras-seise-boda-infanta-elena-montar-pistas-hielo-paises-dl/1003744048306_0.html",
+        "date": "2025-12-14 01:32:18",
+        "sentiment_score": 0.30450239777565
+    },
+    {
+        "title": "Beret: \"Mi hermana murió por una negligencia médica, parece que se dejaron algo dentro. Fue la cosa más dura del mundo\"",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052817_260446922_1706x960.jpg",
+        "tags": [
+            "canciones",
+            "reportajes",
+            "música",
+            "sevilla (municipio)"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251214/beret-hermana-murio-negligencia-medica-parece-dejaron-dentro-cosa-dura-mundo/1003744052786_0.html",
+        "date": "2025-12-14 01:30:01",
+        "sentiment_score": -0.18946541845798492
+    },
+    {
+        "title": "Martínez Sola, el español que ya hundió Air Madrid y mantiene Plus Ultra a flote con dinero de Maduro, Obiang y el castrismo",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053781_260459214_1706x960.jpg",
+        "tags": [
+            "aviación",
+            "empresas",
+            "plus ultra líneas aéreas",
+            "reportajes",
+            "covid-19",
+            "gobierno de españa",
+            "sepi sociedad estatal participaciones industriales",
+            "policía nacional",
+            "udef"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251214/martinez-sola-espanol-hundio-air-madrid-mantiene-plus-ultra-flote-dinero-maduro-obiang-castrismo/1003744052726_0.html",
+        "date": "2025-12-14 01:25:34",
+        "sentiment_score": -0.8455064408481121
+    },
+    {
+        "title": "Raphinha anota dos en la victoria del Barcelona ante Osasuna",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/5ba7a82/2147483647/strip/true/crop/4979x2614+0+353/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2Fe7%2Fe5ec257b461aa2accae9dea35362%2Fe1bb3a7532934e83b4910766b05197db.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-13/raphinha-anota-dos-en-la-victoria-del-barcelona-ante-osasuna",
+        "date": "2025-12-14 01:17:48",
+        "sentiment_score": 0.7616387978196144
+    },
+    {
+        "title": "Álvaro Benito, con Pignoise: \"A nosotros no se nos tomó en serio por ser yo futbolista; ahora pasa lo mismo con Ramos\"",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053993_260462436_1706x960.jpg",
+        "tags": [
+            "pignoise",
+            "ruta por el madrid de...",
+            "alvaro benito",
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251214/alvaro-benito-pignoise-no-tomo-serio-futbolista-ahora-pasa-mismo-ramos/1003744053950_0.html",
+        "date": "2025-12-14 01:11:35",
+        "sentiment_score": -0.6971652433276176
+    },
+    {
+        "title": "En el centenario de Pablo Iglesias Posse",
+        "image_url": "https://s3.elespanol.com/2025/12/13/actualidad/1003744054431_260467858_1706x960.jpg",
+        "tags": [
+            "el comentario",
+            "psoe (partido socialista obrero español)",
+            "fernando mora"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/opinion/el-comentario/20251214/centenario-pablo-iglesias-posse/1003744054427_12.html",
+        "date": "2025-12-14 01:00:00",
+        "sentiment_score": 0.0008615180850028992
+    },
+    {
+        "title": "Qué fue de Betty Missiego, la cantante hispanoperuana que representó a España en Eurovisión en 1979 en Israel",
+        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744049922_260410010_1706x960.jpg",
+        "tags": [
+            "eurovisión",
+            "cantantes",
+            "qué fue de...",
+            "famosos"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251214/betty-missiego-cantante-hispanoperuana-represento-espana-eurovision-israel/1003744049787_0.html",
+        "date": "2025-12-14 00:43:16",
+        "sentiment_score": -0.18346866965293884
+    },
+    {
+        "title": "Guido Pizarro: de capitán en la cancha a líder en el banquillo de Tigres y a un paso de ser campeón",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/12/13/guido-pizarro-capitan-banquillo-campeon-tigres-orix/",
+        "date": "2025-12-14 02:03:43",
+        "sentiment_score": 0.3212639093399048
+    },
+    {
+        "title": "Reutilizar botellas de cava: Barcelona pone en marcha un servicio de recogida por Navidad",
+        "image_url": "https://album.mediaset.es/eimg/2025/11/21/champan-unsplash_d650.jpg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.telecinco.es/noticias/catalunya/20251214/reutilizar-botellas-cava-servicio-recogida-navidad-barcelona_18_017798923.html",
+        "date": "2025-12-14 02:00:04",
+        "sentiment_score": 0.12115225195884705
+    },
+    {
+        "title": "De lejía caducada al 'Chernóbil biológico': cómo escapan los virus de laboratorios de alta seguridad como el de Barcelona",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053880_260461005_1706x960.jpg",
+        "tags": [
+            "ciencia",
+            "infecciones",
+            "bacterias",
+            "virus",
+            "ántrax",
+            "peste porcina",
+            "viruela"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20251214/lejia-caducada-chernobil-biologico-escapan-virus-laboratorios-alta-seguridad-barcelona/1003744053579_0.html",
+        "date": "2025-12-14 01:28:43",
+        "sentiment_score": -0.8023799788206816
+    },
+    {
+        "title": "Crece la sublevación de los médicos contra la doble cara de Mónica García: \"Era la doctora Jekyll y se volvió míster Hyde\"",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053680_260457839_1706x960.jpg",
+        "tags": [
+            "gobierno de españa",
+            "ministerio de sanidad",
+            "reportajes",
+            "mónica garcía gómez",
+            "porfolio",
+            "comunidades autónomas",
+            "huelgas",
+            "sanidad",
+            "sumar"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251214/crece-sublevacion-medicos-doble-cara-monica-garcia-doctora-jekyll-volvio-mister-hyde/1003744053096_0.html",
+        "date": "2025-12-14 01:27:45",
+        "sentiment_score": 0.016179949045181274
+    },
+    {
+        "title": "Roberto Ruiz, el 'embajador' de México que es feliz sin estrella y que ha enseñado a los madrileños que las tortillas no son tortitas",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/632557bea609862e01ed11e93e759d34/crop/22x22/923x923/f/image/jpeg/assets/multimedia/imagenes/2022/08/12/16602970788092.jpg",
+        "tags": [
+            "gastronomía",
+            "madrid",
+            "restaurantes",
+            "barcelona",
+            "comer"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/12/14/693a8e97fc6c837b068b4581.html",
+        "date": "2025-12-14 00:27:56",
+        "sentiment_score": 0.15904122591018677
     }
 ];
