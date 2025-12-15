@@ -1,248 +1,5 @@
 export default [
     {
-        "title": "El Gobierno logra un acuerdo con ERC sobre el superávit de ayuntamientos para salvar el decreto de Verifactu",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251211180656_120.jpg",
-        "tags": [
-            "macroeconomía",
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/macroeconomia-00338/noticia-gobierno-logra-acuerdo-erc-superavit-ayuntamientos-salvar-decreto-verifactu-20251211180656.html",
-        "date": "2025-12-11 17:06:56",
-        "sentiment_score": 0.24249319732189178
-    },
-    {
-        "title": "La reforma de las leyes de dependencia y discapacidad supera su primer examen en el Congreso",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251211180055_690.jpg",
-        "tags": [
-            "igualdad",
-            "ep social"
-        ],
-        "link": "https://www.europapress.es/epsocial/igualdad/noticia-reforma-leyes-dependencia-discapacidad-supera-primer-examen-congreso-20251211180055.html",
-        "date": "2025-12-11 17:00:55",
-        "sentiment_score": 0.11106826364994049
-    },
-    {
-        "title": "Investigadores y emprendedores subrayan la importancia de acelerar la llegada de la medicina personalizada al paciente",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251211172213.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "sanidad"
-        ],
-        "link": "https://cronicadecantabria.com/cr/investigadores-y-emprendedores-subrayan-la-importancia-de-acelerar-la-llegada-de-la-medicina-personalizada-al-paciente/",
-        "date": "2025-12-11 17:00:16",
-        "sentiment_score": 0.46518242359161377
-    },
-    {
-        "title": "El estado de un viaducto de la A-6 obliga a Transportes a anunciar uno nuevo que se construirá paralelamente",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/04/69313ec51384a6-35809129.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.20minutos.es/motor/actualidad/estado-viaducto-a6-transportes-anunciar-nuevo_6906232_0.html",
-        "date": "2025-12-11 17:00:00",
-        "sentiment_score": 0.043098464608192444
-    },
-    {
-        "title": "Javier ‘Chicharito’ Hernández cierra su etapa en las Chivas",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/H3RLD5AR4ZBUPD2HXKK5LS6Q74.jpg?auth=305d2ba77a40479585087cfd1f2839eedc2d50a5702eda9bc0a480a0892922fb&width=1200",
-        "tags": [
-            "méxico",
-            "machismo",
-            "deportes",
-            "chiva",
-            "américa",
-            "chicharito",
-            "selección mexicana",
-            "latinoamérica",
-            "fútbol",
-            "futbolistas"
-        ],
-        "link": "https://elpais.com/mexico/2025-12-11/javier-chicharito-hernandez-cierra-su-etapa-en-las-chivas.html",
-        "date": "2025-12-11 16:59:50",
-        "sentiment_score": -0.6817857977002859
-    },
-    {
-        "title": "Los análisis de las cigüeñas muertas en Getafe confirman que se trata de un brote de gripe aviar de alta patogenicidad",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/76HG5QQG4JD47CSKDXZGJT6ZEA.jpg?auth=1a86ab45483288bdb41f6ad63e61ece79f748a2104222ea473c921bbd10b7f45&width=1200",
-        "tags": [
-            "madrid",
-            "enfermedades infecciosas",
-            "boadilla del monte",
-            "arganda del rey",
-            "bomberos",
-            "comunidad de madrid",
-            "aves",
-            "getafe",
-            "rivas-vaciamadrid",
-            "gripe aviar"
-        ],
-        "link": "https://elpais.com/espana/madrid/2025-12-11/los-analisis-de-las-ciguenas-muertas-en-getafe-confirman-que-se-trata-de-un-brote-de-gripe-aviar-de-alta-patogenicidad.html",
-        "date": "2025-12-11 16:59:02",
-        "sentiment_score": -0.3226514384150505
-    },
-    {
-        "title": "El Gobierno cierra el año en el Congreso sin Presupuestos y con el apoyo decisivo del PP en la dependencia y los funcionarios",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/11/maria-jesus-montero-kOCH-U240527375778exD-1200x840@RC.jpg",
-        "tags": [
-            "partido popular (pp)",
-            "vox",
-            "partido socialista obrero español (psoe)",
-            "podemos",
-            "pedro sánchez",
-            "presupuestos generales del estado",
-            "maría jesús montero",
-            "junts per catalunya"
-        ],
-        "link": "https://www.ideal.es/nacional/gobierno-cierra-ano-congreso-presupuestos-apoyo-decisivo-20251211175318-ntrc.html",
-        "date": "2025-12-11 16:58:59",
-        "sentiment_score": -0.8535692133009434
-    },
-    {
-        "title": "La Real busca acercarse a Europa a costa de hundir al Girona",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251211175817_690.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-real-busca-acercarse-europa-costa-hundir-girona-20251211175817.html",
-        "date": "2025-12-11 16:58:17",
-        "sentiment_score": 0.2064206600189209
-    },
-    {
-        "title": "Muere la profesora y académica de San Quirce María Jesús Callejo",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/11/callejo--758x531.jpg",
-        "tags": [
-            "la granja de san ildefonso",
-            "segovia (provincia)",
-            "segovia",
-            "arte",
-            "real sitio de san ildefonso"
-        ],
-        "link": "https://www.elnortedecastilla.es/segovia/muere-profesora-academica-san-quirce-maria-jesus-20251211175537-nt.html",
-        "date": "2025-12-11 16:55:37",
-        "sentiment_score": 0.2572319731116295
-    },
-    {
-        "title": "CESM critica que Sanidad no contacte con el comité de huelga pese a su obligación",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/12/11/2025121117294090206.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.clm24.es/articulo/sociedad/cesm-critica-que-sanidad-contacte-comite-huelga-pese-obligacion/20251211175225466010.html",
-        "date": "2025-12-11 16:52:25",
-        "sentiment_score": -0.709155822172761
-    },
-    {
-        "title": "El Gobierno avisa de que el veto a la compra de pisos para invertir precisa de una regulación europea",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/O2NAL5PVFJE47KOS3VFEG7F53M.jpg?auth=df37eae813d7007825c6e570f436467656dcfdc0e5451d5dc0fcc3156672c0ef&width=1200",
-        "tags": [
-            "cataluña",
-            "generalitat cataluña",
-            "vivienda",
-            "barcelona",
-            "unión europea"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-12-11/david-lucas-avisa-de-que-el-veto-a-la-compra-de-pisos-para-invertir-precisa-de-una-regulacion-europea.html",
-        "date": "2025-12-11 17:11:16",
-        "sentiment_score": -0.8446585275232792
-    },
-    {
-        "title": "“No hay paz en Gaza: Israel ha vulnerado 700 veces el alto el fuego”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
-        "tags": [
-            "claves del día"
-        ],
-        "link": "https://www.lavanguardia.com/videos/claves-del-dia/20251211/11354398/hay-paz-gaza-israel-vulnerado-700-veces-alto-fuego.html",
-        "date": "2025-12-11 17:08:29",
-        "sentiment_score": -0.8796307472512126
-    },
-    {
-        "title": "La plaza del ‘pescao’ por Navidad",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/11/693af20803e3d.jpeg",
-        "tags": [
-            "tal como éramos"
-        ],
-        "link": "https://www.lavozdealmeria.com/almeria/tal-como-eramos/411496/plaza-pescao-navidad.html",
-        "date": "2025-12-11 17:07:23",
-        "sentiment_score": -0.820613918825984
-    },
-    {
-        "title": "La Guardia Urbana podrá cobrar multas por incivismo al momento con datáfono a turistas en Barcelona",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/11/693af16e598b03-32605808.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/guardia-urbana-podra-cobrar-multas-por-incivismo-momento-con-datafono-turistas-barcelona_6909388_0.html",
-        "date": "2025-12-11 17:05:23",
-        "sentiment_score": 0.14580442756414413
-    },
-    {
-        "title": "La Síndica de Greuges defiende un \"acuerdo de país\" en Cataluña contra el sinhogarismo",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/12/04/10CB455D-3069-4E28-8B75-360E612B5BEF/69.jpg?crop=7504%2C4221%2Cx0%2Cy391&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/sindica-greuges-defiende-acuerdo-pais-cataluna-sinhogarismo_20251211693af9ce22f0db7dafedd56b.html",
-        "date": "2025-12-11 17:05:18",
-        "sentiment_score": 0.3699062801897526
-    },
-    {
-        "title": "CEREMONIA nuevo disco de Vale Moï",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7766799",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5701049/ceremonia-nuevo-disco-vale-mo",
-        "date": "2025-12-11 17:05:12",
-        "sentiment_score": 0.2752414643764496
-    },
-    {
-        "title": "La UCO registra la empresa navarra en la que fue consejera Leire Díez: recibió un millón de euros en ayudas",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/12/11/2025121117492425158.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/politica/registran-empresa-navarra-que-fue-consejera-leire-diaz-recibio-millon-euros-ayudas-publicas/20251211180511625850.html",
-        "date": "2025-12-11 17:05:11",
-        "sentiment_score": -0.600961223244667
-    },
-    {
-        "title": "CriteriaCaixa reparte un dividendo de 85 millones de euros a la Fundación La Caixa",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/12/fotonoticia_20251211173958_1920-1200x675.jpg",
-        "tags": [
-            "última hora",
-            "economía"
-        ],
-        "link": "https://forbes.es/economia/844607/criteriacaixa-reparte-un-dividendo-de-85-millones-de-euros-a-la-fundacion-la-caixa/",
-        "date": "2025-12-11 17:05:08",
-        "sentiment_score": 0.0015292614698410034
-    },
-    {
-        "title": "Una agente de los Mossos fuera de servicio salva a un hombre que cayó a las vías del metro en Barcelona",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/11/693af8c4d0a4f2-93174338.png",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/agente-mossos-fuera-servicio-salva-hombre-cayo-vias-metro-barcelona_6909466_0.html",
-        "date": "2025-12-11 17:02:08",
-        "sentiment_score": -0.839903611689806
-    },
-    {
-        "title": "Eric Garcia: de arma electoral a comodín imprescindible",
-        "image_url": "https://static1.ara.cat/clip/a5c3ee26-6913-4ac2-a9a9-90a807fcd798_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "comodin",
-            "eric",
-            "imprescindible",
-            "arma",
-            "electoral",
-            "garcia"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/eric-garcia-arma-electoral-comodin-imprescindible_1_5589487.html",
-        "date": "2025-12-11 17:00:37",
-        "sentiment_score": -0.23857800662517548
-    },
-    {
         "title": "El Madrid sigue en racha en la Euroliga",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3947ae4-ccf5-460b-8ea4-5346410cf128_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3261,5 +3018,106 @@ export default [
         "link": "https://www.laizquierdadiario.com/Se-realizo-el-gran-acto-internacionalista-socialista-e-internacionalista-de-la-Fraccion-Trotskista",
         "date": "2025-12-15 00:52:43",
         "sentiment_score": 0.06713367998600006
+    },
+    {
+        "title": "La reserva millonaria que utiliza el Gobierno de Navarra para invertir mengua con el paso del tiempo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7c8f1c00-c825-43e5-aa9a-2c776e7c9c04_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "reserva",
+            "navarra",
+            "gobierno",
+            "millonaria",
+            "utiliza"
+        ],
+        "link": "https://www.noticiasdenavarra.com/politica/2025/12/15/reserva-millonaria-utiliza-gobierno-navarra-10471364.html",
+        "date": "2025-12-15 06:23:51",
+        "sentiment_score": 0.5372111424803734
+    },
+    {
+        "title": "El enigma de las redes sociales en campaña: el arma electoral que nadie sabe medir",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a473320-c4ce-4c7b-b897-7e469c0666f6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "extremadura",
+            "whatsapp",
+            "psoe",
+            "digital",
+            "política",
+            "redes sociales"
+        ],
+        "link": "https://www.lne.es/espana/2025/12/15/enigma-redes-sociales-campana-arma-124790378.html",
+        "date": "2025-12-15 06:22:42",
+        "sentiment_score": -0.09230934083461761
+    },
+    {
+        "title": "Las trabas urbanísticas contadas por uno de los pocos desarrollos que surfeó la burbuja inmobiliaria",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a8ebbe1f-3f00-4ec1-91cd-31be2df877a2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ifema",
+            "madrid",
+            "suelo",
+            "mercado inmobiliario",
+            "aeropuerto",
+            "sector inmobiliario",
+            "real madrid",
+            "vivienda"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/economia/2025/12/15/trabas-urbanisticas-valdebebas-124790337.html",
+        "date": "2025-12-15 06:21:31",
+        "sentiment_score": -0.05566273629665375
+    },
+    {
+        "title": "Las operaciones de la UCO y de la UDEF siembran dudas de corrupción en el rescate por 641 millones de tres empresas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/825058c1-43a1-4b4b-acd8-42dbb65f7063_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "koldo garcía",
+            "josé luis ábalos",
+            "caso koldo",
+            "plus ultra",
+            "santos cerdán",
+            "air europa"
+        ],
+        "link": "https://www.levante-emv.com/espana/2025/12/15/uco-udef-dudas-rescate-air-europa-plus-ultra-tubos-reunidos-abalos-aldama-koldo-antxon-venezuela-124790194.html",
+        "date": "2025-12-15 06:16:58",
+        "sentiment_score": -0.3772100545465946
+    },
+    {
+        "title": "España apuesta por la IA en las aulas: así quiere prevenir el abandono escolar",
+        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/uploads/imagenes/2022/10/11/68bcb0581d153.jpeg",
+        "tags": [
+            "tecnología"
+        ],
+        "link": "https://www.businessinsider.es/tecnologia/espana-apuesta-ia-aulas-prevenir-abandono-escolar_6909901_0.html",
+        "date": "2025-12-15 06:20:00",
+        "sentiment_score": 0.09591545164585114
+    },
+    {
+        "title": "Ayuntamientos y comunidades recurren a la inversión privada para acelerar la construcción de pisos en alquiler asequible",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bbb703c0-1234-4a2f-bb20-6b32de5983a3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "suelo",
+            "mercado inmobiliario",
+            "sector inmobiliario",
+            "ley del suelo",
+            "vivienda",
+            "construcción"
+        ],
+        "link": "https://www.informacion.es/economia/2025/12/15/ayuntamientos-comunidades-inversion-alquiler-asequible-vivienda-124790305.html",
+        "date": "2025-12-15 06:19:31",
+        "sentiment_score": -0.0174863338470459
+    },
+    {
+        "title": "España tiene suelo para 1,8 millones de viviendas, pero la burocracia impide construirlas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/96765aa3-d869-4e8c-96aa-10fa85453b5e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "suelo",
+            "mercado inmobiliario",
+            "sector inmobiliario",
+            "ley del suelo",
+            "vivienda",
+            "construcción"
+        ],
+        "link": "https://www.informacion.es/economia/2025/12/15/problema-suelo-vivienda-124790249.html",
+        "date": "2025-12-15 06:18:22",
+        "sentiment_score": -0.5868603400886059
     }
 ];
