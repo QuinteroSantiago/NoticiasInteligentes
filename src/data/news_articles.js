@@ -1,133 +1,5 @@
 export default [
     {
-        "title": "La derrota del Real Madrid en Champions y la eliminación del Villarreal, protagonistas de las portadas",
-        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2025/12/11/693a6257d4ae9.jpeg",
-        "tags": [
-            "vaya mundo"
-        ],
-        "link": "https://www.mundodeportivo.com/vaya-mundo/20251211/1002584880/derrota-real-madrid-champions-eliminacion-villarreal-protagonistas-portadas-galeria-dct.html",
-        "date": "2025-12-11 06:31:33",
-        "sentiment_score": 0.19403806328773499
-    },
-    {
-        "title": "De Rodrygo a Jude Bellingham, el vestuario del Real Madrid cierra filas con Xabi Alonso: \"Estamos con nuestro entrenador\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/10/6939f91c3f8316-99307202.r_d.1360-504.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/rodrygo-jude-bellingham-vestuario-real-madrid-cierra-filas-xabi-alonso-estamos-con-nuestro-entrenador_6909031_0.html",
-        "date": "2025-12-11 06:23:37",
-        "sentiment_score": 0.30806534737348557
-    },
-    {
-        "title": "Los españoles expertos en ciberseguridad pueden duplicar su sueldo en Suiza: hasta 180.000 euros al año",
-        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/uploads/imagenes/2024/07/03/68c097b5c7762.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.businessinsider.es/economia/espanoles-expertos-ciberseguridad-duplicar-sueldo-suiza-hasta-180-000-euros-ano_6908770_0.html",
-        "date": "2025-12-11 06:20:00",
-        "sentiment_score": -0.6845530662685633
-    },
-    {
-        "title": "Todos menos uno en Osasuna",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/af2694ae-a320-4d28-8284-3ea1de3b72be_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "osasuna"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/11/osasuna-10456179.html",
-        "date": "2025-12-11 06:18:51",
-        "sentiment_score": 0.09868663549423218
-    },
-    {
-        "title": "Pinza de PP y Sumar en el Congreso contra el \"bloqueo\" del PSOE a la ley para nacionalizar saharauis",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/644f6399-cd11-4b85-9142-4b2bce751c21_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sáhara occidental",
-            "política",
-            "naturaleza",
-            "sumar",
-            "psoe",
-            "gobierno",
-            "pp"
-        ],
-        "link": "https://www.lacronicabadajoz.com/nacional/2025/12/11/pinza-pp-sumar-congreso-bloqueo-124666273.html",
-        "date": "2025-12-11 06:18:17",
-        "sentiment_score": -0.016814351081848145
-    },
-    {
-        "title": "Cánovas, la hora en punto de la Barceloneta",
-        "image_url": "https://static1.ara.cat/clip/64cf28a7-7805-4ce3-8a6a-cb523a9da3ab_16-9-aspect-ratio_default_0_x2521y1331.jpg",
-        "tags": [
-            "hora",
-            "punto",
-            "canovas",
-            "barceloneta"
-        ],
-        "link": "https://es.ara.cat/economia/empresas/canovas-hora-punto-barceloneta_1_5588795.html",
-        "date": "2025-12-11 06:30:11",
-        "sentiment_score": -0.11598259210586548
-    },
-    {
-        "title": "El servicio de Renfe en Navarra",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/dfd17cd7-b6cc-4060-86de-1b33989c6123_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "renfe",
-            "navarra",
-            "servicio"
-        ],
-        "link": "https://www.noticiasdenavarra.com/opinion/cartas-al-director/2025/12/11/servicio-renfe-navarra-10455893.html",
-        "date": "2025-12-11 06:20:53",
-        "sentiment_score": -0.20833535492420197
-    },
-    {
-        "title": "Boyomo está para irse",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5d0df4ea-fc69-4d4e-8bec-01ed1613ae32_16-9-aspect-ratio_default_0_x899y521.jpg",
-        "tags": [
-            "irse",
-            "boyomo"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/11/boyomo-irse-10456169.html",
-        "date": "2025-12-11 06:18:36",
-        "sentiment_score": -0.021337151527404785
-    },
-    {
-        "title": "Recuperan la conversación con Rosalía que tuvo una fan en 2017: hay que verla para darse cuenta de todo lo que ha cambiado",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/10/la-conversacion-con-rosalia-en-2017-y-recuperada-ahora.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/recuperan-conversacion-rosalia-tuvo-fan-2017-hay-verla-darse-cuenta-cambiado.html",
-        "date": "2025-12-11 06:16:37",
-        "sentiment_score": 0.6676245629787445
-    },
-    {
-        "title": "Es oficial: en verano de 2026 se podrá volar desde el aeropuerto de Bilbao a Cabo Verde",
-        "image_url": "https://okdiario.com/img/2025/12/10/es-oficial-en-verano-de-2026-se-podra-volar-desde-el-aeropuerto-de-bilbao-a-cabo-verde.jpg",
-        "tags": [
-            "españa",
-            "okd",
-            "país vasco",
-            "bilbao"
-        ],
-        "link": "https://okdiario.com/pais-vasco/oficial-verano-2026-podra-volar-desde-aeropuerto-bilbao-cabo-verde-15907986",
-        "date": "2025-12-11 06:15:12",
-        "sentiment_score": 0.2991272658109665
-    },
-    {
-        "title": "La participación de España en el futuro caza europeo mueve a aliarse a empresas e investigadores",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/43faae0f-3f71-4fb5-93b1-6d556eb8e5b2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ministerio de defensa",
-            "tecnología",
-            "armas",
-            "ejército del aire"
-        ],
-        "link": "https://www.laprovincia.es/espana/2025/12/11/participacion-espana-futuro-caza-europeo-mueve-empresas-investigacion-124666075.html",
-        "date": "2025-12-11 06:10:26",
-        "sentiment_score": 0.26211215555667877
-    },
-    {
         "title": "El Gobierno logra un acuerdo con ERC sobre el superávit de ayuntamientos para salvar el decreto de Verifactu",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251211180656_120.jpg",
         "tags": [
@@ -2966,5 +2838,182 @@ export default [
         "link": "https://www.informe21.com/post/semana-deportiva-una-multitud-esperaba-ver-a-messi-en-calcuta",
         "date": "2025-12-14 13:43:26",
         "sentiment_score": -0.8535036686807871
+    },
+    {
+        "title": "Horario, canal de TV y dónde ver el Talavera - Real Madrid de los dieciseisavos de la Copa del Rey",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/14/image-82d277cb-9373-4bc4-b796-c2b73e8703c2-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "copa del rey 2025-2026"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/copa-del-rey/2025-2026/talavera-real-madrid-horario-donde-ver-champions-canal-tv-hoy-partido-dieciseisavos_sto23250690/story.shtml",
+        "date": "2025-12-14 22:22:11",
+        "sentiment_score": 0.012772336602210999
+    },
+    {
+        "title": "Villalibre resiste el acoso de Andrés Martín y conserva el liderato pese a no marcar",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/14/villalibre-resiste-el-acoso-de-andres-martin-y-conserva-el-liderato-pese-a-no-marcar/",
+        "date": "2025-12-14 22:21:31",
+        "sentiment_score": -0.456999309360981
+    },
+    {
+        "title": "Los Cármenes aguarda su reencuentro con parte del 'EuroGranada' ante el Albacete",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/12/15/eurogranada-albacete-kx9D-U24055590272247F-1200x840@Ideal.jpg",
+        "tags": [
+            "carmenes",
+            "albacete",
+            "aguarda",
+            "parte",
+            "reencuentro",
+            "ante",
+            "eurogranada"
+        ],
+        "link": "https://www.ideal.es/granadacf/carmenes-aguarda-reencuentro-parte-eurogranada-ante-albacete-20251215232117-nt.html",
+        "date": "2025-12-14 22:21:17",
+        "sentiment_score": -0.047200992703437805
+    },
+    {
+        "title": "Resultados, clasificación y resúmenes de la Jornada 16 de LaLiga EA Sports 25-26: Terremoto en los banquillos; Real Sociedad y Oviedo destituyen a sus entrenadores",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/laliga-ea-sports-25-26-jornada-16-domingo-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/laliga-jornada-16-resultados-resumen-clasificacion-partidos-getafe-espanyol-domingo-ceses-entrenadores-real-oviedo-real-sociedad/",
+        "date": "2025-12-14 22:21:02",
+        "sentiment_score": -0.18078851699829102
+    },
+    {
+        "title": "Rodrygo salva al Real Madrid y rompe su sequía sin gol: No anotaba desde esta fecha",
+        "image_url": "https://pxcdn.meridiano.net/122025/1765750893401.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/rodrygo-salva-al-real-madrid-y-rompe-su-sequia-sin-gol-no-anotaba-desde-esta-fecha-2025121418210",
+        "date": "2025-12-14 22:21:00",
+        "sentiment_score": -0.022934600710868835
+    },
+    {
+        "title": "El Racing sale reforzado en el liderato pese a no pasar del empate",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/14/el-racing-sale-reforzado-en-el-liderato-pese-a-no-pasar-del-empate/",
+        "date": "2025-12-14 22:20:58",
+        "sentiment_score": -0.22337813675403595
+    },
+    {
+        "title": "El Real Madrid supera al Alavés en Mendizorroza (1-2)",
+        "image_url": "https://s3.ppllstatics.com/lagacetadesalamanca/www/multimedia/2025/12/14/RM-kO3--758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "mendizorroza",
+            "alaves",
+            "madrid",
+            "real",
+            "supera"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/deportes/real-madrid-supera-alaves-mendizorroza-20251214231804-nt.html",
+        "date": "2025-12-14 22:20:55",
+        "sentiment_score": 0.3619998097419739
+    },
+    {
+        "title": "Xabi Alonso toma aire",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/14/xabi-alonso-toma-aire/",
+        "date": "2025-12-14 22:20:07",
+        "sentiment_score": -0.08331823348999023
+    },
+    {
+        "title": "VÍDEO | Sabía que se lo jugaba todo: La rabia irrefrenable de Xabi Alonso tras el gol de Rodrygo",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/14/image-fab721a5-8656-4d05-9fa5-177d1c795623-85-2560-1440.jpeg",
+        "tags": [
+            "la liga 2025-2026",
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/celerbacion-xabi-alonso-victoria-real-madrid-alaves-mbappe-rodrygo_sto23250748/story.shtml",
+        "date": "2025-12-14 22:19:51",
+        "sentiment_score": -0.6918002963066101
+    },
+    {
+        "title": "1-2. Mbappé y Rodrygo dan aire al Real Madrid",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/14/1-2-mbappe-y-rodrygo-dan-aire-al-real-madrid/",
+        "date": "2025-12-14 22:17:44",
+        "sentiment_score": 0.1470838189125061
+    },
+    {
+        "title": "Xabi Alonso salva la 'bola de partido' en Vitoria (1-2)",
+        "image_url": "https://static.grupojoly.com/clip/87823f93-ddbf-4ca5-bdf4-4ca7d49c02f6_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "partido",
+            "alonso",
+            "bola",
+            "xabi",
+            "salva"
+        ],
+        "link": "https://www.diariodesevilla.es/deportes/xabi-alonso-salva-bola-partido_0_2005456552.html",
+        "date": "2025-12-14 22:15:45",
+        "sentiment_score": -0.6277434378862381
+    },
+    {
+        "title": "Mbappé responde a Haaland, Raphinha toma impulso y estreno de Rodrygo",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/14/mbappe-responde-a-haaland-raphinha-toma-impulso-y-estreno-de-rodrygo/",
+        "date": "2025-12-14 22:15:20",
+        "sentiment_score": 0.04817216098308563
+    },
+    {
+        "title": "Mbappé y Rodrygo dan aire al Real Madrid",
+        "image_url": "https://imagenes.diariodenavarra.es/files/og_thumbnail/uploads/2025/12/14/693f3380c9f1c.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.diariodenavarra.es/noticias/deportes/futbol/2025/12/14/mbappe-rodrygo-dan-aire-real-madrid-803517-31.html",
+        "date": "2025-12-14 22:10:33",
+        "sentiment_score": 0.1542903184890747
+    },
+    {
+        "title": "El Real Madrid evita la tragedia en Mendizorroza y da oxígeno a Xabi Alonso",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/12/14/693f346a34673.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251214/real-madrid-evita-tragedia-mendizorroza-da-oxigeno-xabi-alonso_365346.html",
+        "date": "2025-12-14 22:01:16",
+        "sentiment_score": -0.09953561425209045
+    },
+    {
+        "title": "1-2. El Real Madrid sufre y respira en Vitoria",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/14/1-2-el-real-madrid-sufre-y-respira-en-vitoria/",
+        "date": "2025-12-14 22:00:42",
+        "sentiment_score": -0.09661442041397095
+    },
+    {
+        "title": "Semana Deportiva: Una multitud esperaba ver a Messi en Calcuta",
+        "image_url": "https://static.wixstatic.com/media/cf263a_c5bc297b657f4e5ebd97844451340822~mv2.png/v1/fit/w_434,h_272,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/semana-deportiva-una-multitud-esperaba-ver-a-messi-en-calcuta",
+        "date": "2025-12-14 13:43:26",
+        "sentiment_score": -0.8535036630928516
     }
 ];
