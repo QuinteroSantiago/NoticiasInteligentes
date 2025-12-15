@@ -3015,5 +3015,251 @@ export default [
         "link": "https://www.informe21.com/post/semana-deportiva-una-multitud-esperaba-ver-a-messi-en-calcuta",
         "date": "2025-12-14 13:43:26",
         "sentiment_score": -0.8535036630928516
+    },
+    {
+        "title": "Diez minutos de furia del Celta certifican el mal momento del Athletic en LaLiga",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/15/2025121503141320406.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/diez-minutos-furia-celta-bastan-doblegar-athletic-vigo/20251215031500366952.html",
+        "date": "2025-12-15 02:15:00",
+        "sentiment_score": -0.8536938317120075
+    },
+    {
+        "title": "Queremos que nuestros estudiantes sean capaces de ser referentes, de tener impacto y liderar el futuro de sus sectores",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/84d422a7-964a-4573-a73a-c7f5329d2be8_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "+salud",
+            "psicología",
+            "universidad",
+            "estudiantes"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251215/queremos-estudiantes-sean-capaces-referentes-124788182",
+        "date": "2025-12-15 02:00:17",
+        "sentiment_score": 0.31421735137701035
+    },
+    {
+        "title": "Encargar una muerte en España cuesta hoy 1.700 €: \"Seremos el México europeo si no paramos el sicariato latino de bajo coste\"",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053717_260458279_1706x960.jpg",
+        "tags": [
+            "narcotráfico",
+            "méxico",
+            "asesinatos",
+            "cataluña",
+            "colombia",
+            "república dominicana",
+            "islas canarias",
+            "drogas",
+            "mozos de escuadra (mossos d'esquadra)",
+            "policía nacional"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251215/encargar-muerte-espana-cuesta-hoy-eur-mexico-europeo-no-paramos-sicariato-latino-coste/1003744049180_0.html",
+        "date": "2025-12-15 01:15:25",
+        "sentiment_score": -0.6216425597667694
+    },
+    {
+        "title": "Madrid, la ciudad que nos quitaron",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/almeida-1.jpg",
+        "tags": [
+            "tribuna"
+        ],
+        "link": "https://gaceta.es/tribuna/madrid-la-ciudad-que-nos-quitaron-20251215-0212/",
+        "date": "2025-12-15 01:12:03",
+        "sentiment_score": -0.5591082870960236
+    },
+    {
+        "title": "Triunfo de Kast crea nuevo polo ultraderechista en Suramérica y refuerza órbita de Trump",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "políticos",
+            "efe"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/15/triunfo-de-kast-crea-nuevo-polo-ultraderechista-en-suramerica-y-refuerza-orbita-de-trump/",
+        "date": "2025-12-15 00:32:38",
+        "sentiment_score": -0.16029508411884308
+    },
+    {
+        "title": "Xabi Alonso salva su primer ultimátum, en El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/15/693f4c0049494.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-14-20251215_3271031.html",
+        "date": "2025-12-15 00:14:03",
+        "sentiment_score": -0.029289036989212036
+    },
+    {
+        "title": "Javier Villegas (Franklin Templeton): \"Hemos vivido la mayor transformación de nuestra historia y empieza a dar sus frutos\"",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/98d352122f14f3c5552c8e0ebae8ae1c/crop/23x93/2031x1432/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/14/17657466350554.jpg",
+        "tags": [
+            "mercados>",
+            "fondos de inversión>"
+        ],
+        "link": "https://www.expansion.com/mercados/fondos/2025/12/15/693f2346468aebde5e8b4571.html",
+        "date": "2025-12-15 00:11:00",
+        "sentiment_score": 0.7546173520386219
+    },
+    {
+        "title": "Álvaro Fidalgo, el psicólogo que advierte de que \"la cautela\" también traumatiza a los niños",
+        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744051701_260432715_1706x960.jpg",
+        "tags": [
+            "salud mental",
+            "referentes",
+            "objetivo 3: salud y bienestar",
+            "psicología"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/referentes/20251215/alvaro-fidalgo-psicologo-advierte-cautela-traumatiza-ninos/1003744050994_0.html",
+        "date": "2025-12-15 00:06:29",
+        "sentiment_score": -0.04432857036590576
+    },
+    {
+        "title": "Mbappé anota en su regreso tras lesión y el Madrid vence a Alavés, dando respaldo a Alonso",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/1/3f/13fd0842-5809-528d-9a08-a2e4c0fe9e44/693f3f7c830aa.image.jpg?resize=300%2C200",
+        "tags": [
+            "liga espanola real madrid mbappe",
+            "sports"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/mbapp-anota-en-su-regreso-tras-lesi-n-y-el-madrid-vence-a-alav-s/article_044e23f5-4a51-5e1d-b787-2f654e879672.html",
+        "date": "2025-12-15 00:01:42",
+        "sentiment_score": 0.5729627162218094
+    },
+    {
+        "title": "Aventuras y desventuras de un epidemiólogo en pandemia",
+        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2024/06/07/191669694-kyRH--1200x840@Canarias7.jpg",
+        "tags": [
+            "covid-19",
+            "museo elder",
+            "ciencia",
+            "gobierno de canarias",
+            "novela",
+            "la gomera",
+            "gran canaria",
+            "vacunas",
+            "canarias"
+        ],
+        "link": "https://www.canarias7.es/sociedad/salud/aventuras-desventuras-epidemiologo-pandemia-20251215235844-nt.html",
+        "date": "2025-12-15 00:00:00",
+        "sentiment_score": 0.3108712062239647
+    },
+    {
+        "title": "Sor Lucía Caram, en Kiev: \"Es raro ver a una monja que pida armas, pero en Ucrania hablamos de legítima defensa\"",
+        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744054996_260475241_1706x1280.jpg",
+        "tags": [
+            "rusia",
+            "europa",
+            "ucrania",
+            "guerra rusia-ucrania",
+            "kiev",
+            "sor lucía caram"
+        ],
+        "link": "https://www.elespanol.com/mundo/europa/20251215/rusia-ucrania-guerra_rusia-ucrania-sor_lucia_caram-kiev-europa/1003744054995_0.html",
+        "date": "2025-12-15 02:20:26",
+        "sentiment_score": -0.6756650283932686
+    },
+    {
+        "title": "Pudieron ser estrellas, 4: Espronceda",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "espronceda",
+            "estrellas",
+            "pudieron",
+            "4"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/pudieron-estrellas-4-espronceda_0_2005461444.html",
+        "date": "2025-12-15 02:08:03",
+        "sentiment_score": -0.0586550235748291
+    },
+    {
+        "title": "Independiente, Liga de Quito, Barcelona y Católica jugarán la Copa Libertadores de 2026",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/15/independiente-liga-de-quito-barcelona-y-catolica-jugaran-la-copa-libertadores-de-2026/",
+        "date": "2025-12-15 01:30:33",
+        "sentiment_score": 0.01808583363890648
+    },
+    {
+        "title": "Pep Martorell (exdirector adjunto del BSC): \"Europa falla en la rapidez de ejecución de las políticas\"",
+        "image_url": "https://s3.elespanol.com/2025/12/09/actualidad/1003744047356_260377202_1706x960.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "investigación científica",
+            "investigación",
+            "regulación sector tecnológico"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/grandes-actores/investigacion/20251215/pep-martorell-exdirector-adjunto-bsc-europa-falla-rapidez-ejecucion-politicas/1003744047177_0.html",
+        "date": "2025-12-15 01:29:03",
+        "sentiment_score": 0.19793720543384552
+    },
+    {
+        "title": "Las tiernas fotos que compartieron Julián Álvarez y Emilia Ferrero en la recta final de su embarazo: “Te esperamos con mucho amor”",
+        "image_url": "https://www.infobae.com/resizer/v2/TN42S23GLBB7DDRK4MFKXH2HCI.jpg?auth=3571152192b25d48d66d825e2ac6aa361e012838b5cc42cd61a9cdc007aad760&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-argentina",
+            "emilia ferrero",
+            "julián álvarez",
+            "atlético madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/15/las-tiernas-fotos-que-compartieron-julian-alvarez-y-emilia-ferrero-en-la-recta-final-de-su-embarazo-te-esperamos-con-mucho-amor/",
+        "date": "2025-12-15 01:03:55",
+        "sentiment_score": 0.6620073094964027
+    },
+    {
+        "title": "“¿Cómo es ser normal?“: El insólito disfraz que usó Neymar para pasear por Nueva York sin ser reconocido",
+        "image_url": "https://www.infobae.com/resizer/v2/TQH77TYAKZEOZIOMHERBPTERDU.jpg?auth=7a8ba2f805e46178325043c37375f9f761549f4fc6739d5837fd8514b24fea5a&height=2400&smart=true&width=1920",
+        "tags": [
+            "selección de brasil",
+            "deportes-argentina",
+            "neymar",
+            "santos",
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/15/como-es-ser-normal-el-insolito-disfraz-que-uso-neymar-para-pasear-por-nueva-york-sin-ser-reconocido/",
+        "date": "2025-12-15 00:59:49",
+        "sentiment_score": 0.030435711145401
+    },
+    {
+        "title": "14 DIC 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/14-dic-2025-tertulion-domingos-20251215_3271039.html",
+        "date": "2025-12-15 00:53:39",
+        "sentiment_score": -0.5877422168850899
+    },
+    {
+        "title": "Se realizó el gran acto internacionalista, socialista y antiimperialista de la Fracción Trotskista",
+        "image_url": "https://www.laizquierdadiario.com/IMG/logo/acto_brasil.jpg?1765759638=",
+        "tags": [
+            "partido de los trabajadores socialistas (pts)",
+            "anasse kazib",
+            "acto internacionalista ft-ci",
+            "brasil",
+            "francia",
+            "movimiento revolucionario de trabajadores (mrt)",
+            "estado español"
+        ],
+        "link": "https://www.laizquierdadiario.com/Se-realizo-el-gran-acto-internacionalista-socialista-y-antiimperialista-de-la-Fraccion-Trotskista",
+        "date": "2025-12-15 00:52:43",
+        "sentiment_score": 0.06427314877510071
+    },
+    {
+        "title": "Se realizó el gran acto internacionalista, socialista e internacionalista de la Fracción Trotskista",
+        "image_url": "https://www.laizquierdadiario.com/IMG/logo/acto_brasil.jpg?1765759638=",
+        "tags": [
+            "francia",
+            "partido de los trabajadores socialistas (pts)",
+            "movimiento revolucionario de trabajadores (mrt)",
+            "anasse kazib",
+            "acto internacionalista ft-ci",
+            "estado español",
+            "brasil"
+        ],
+        "link": "https://www.laizquierdadiario.com/Se-realizo-el-gran-acto-internacionalista-socialista-e-internacionalista-de-la-Fraccion-Trotskista",
+        "date": "2025-12-15 00:52:43",
+        "sentiment_score": 0.06713367998600006
     }
 ];
