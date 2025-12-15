@@ -1,396 +1,5 @@
 export default [
     {
-        "title": "Guardiola hurga en la herida de Xabi Alonso",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/84e93d0f-c0e2-46c2-92dacccec1fed363.jpg",
-        "tags": [
-            "real madrid",
-            "thibaut courtois",
-            "jude bellingham",
-            "vinícius júnior",
-            "manchester city",
-            "árbitros",
-            "rodrygo goes",
-            "pep guardiola",
-            "xabi alonso",
-            "santiago bernabéu",
-            "champions league",
-            "fede valverde",
-            "kylian mbappé"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z0194ae9f-6df1-4250-9d05b8e7b5111aaf/202512/guardiola-hurga-en-la-herida-de-xabi-alonso",
-        "date": "2025-12-10 22:20:09",
-        "sentiment_score": 0.23413367569446564
-    },
-    {
-        "title": "Resumen Real Madrid-Manchester City: El plan de Guardiola eclipsa la nula mejoría de Xabi (1-2)",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/10/image-8b8b2476-812a-4723-ab8e-cc20dd4dca0c-85-2560-1440.jpeg",
-        "tags": [
-            "sports",
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.eurosport.es/futbol/champions-league/2025-2026/video-resumen-real-madrid-manchester-city-goles-resultado-highlights-rodrygo-haaland-o-reilly_vid60041320/video.shtml",
-        "date": "2025-12-10 22:18:30",
-        "sentiment_score": 0.18096834421157837
-    },
-    {
-        "title": "El City acerca más al abismo a Xabi Alonso",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/10/real-madrid-city-kiGE-U240512314436fDH-758x531@RC.JPG",
-        "tags": [
-            "thibaut courtois",
-            "vinícius",
-            "kylian mbappé",
-            "real madrid",
-            "manchester city",
-            "pep guardiola",
-            "xabi alonso"
-        ],
-        "link": "https://www.elnortedecastilla.es/deportes/futbol/liga-campeones/city-acerca-abismo-xabi-alonso-20251210231018-ntrc.html",
-        "date": "2025-12-10 22:12:28",
-        "sentiment_score": 0.48236455768346786
-    },
-    {
-        "title": "El Real Madrid es un quiero y no puedo: pierde contra el City sin Mbappé y se complica el Top 8 de la Champions",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/10/culemania/real-madrid/1003742715062_15499922_1706x960.jpg",
-        "tags": [
-            "manchester city",
-            "pep guardiola",
-            "xabi alonso",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20251210/real-madrid-city-mbappe-complica-top-champions/1003742715053_0.html",
-        "date": "2025-12-10 22:11:41",
-        "sentiment_score": -0.29240599274635315
-    },
-    {
-        "title": "O’Rilley y Haaland remontan el gol de Rodrygo antes del descanso (1-2)",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/10/orilley-y-haaland-remontan-el-gol-de-rodrygo-antes-del-descanso-1-2/",
-        "date": "2025-12-10 22:09:12",
-        "sentiment_score": 0.28139229118824005
-    },
-    {
-        "title": "Las mejores fotos del Real Madrid-Manchester City",
-        "image_url": "https://static.grupojoly.com/clip/fa13d459-c7b8-4844-b0cd-1e02643fc95b_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid",
-            "fútbol",
-            "uefa champions league"
-        ],
-        "link": "https://www.diariodesevilla.es/deportes/mejores-fotos-real-madrid-manchester-city_3_2005430872.html",
-        "date": "2025-12-10 22:06:19",
-        "sentiment_score": 0.5256071835756302
-    },
-    {
-        "title": "El City deja al Real Madrid de Xabi Alonso en una calle sin salida",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/24b4c1b5-8453-4bfa-8106-09c6853b31be_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "xabi alonso",
-            "real madrid",
-            "manchester city",
-            "champions",
-            "champions league",
-            "liga de campeones",
-            "pep guardiola"
-        ],
-        "link": "https://www.lne.es/deportes/2025/12/10/real-madrid-manchester-city-resultado-goles-resumen-champions-124661942.html",
-        "date": "2025-12-10 21:58:14",
-        "sentiment_score": -0.39242999255657196
-    },
-    {
-        "title": "Marc, el concursante que juega “dopado” a El 1%: ¡ha participado en más de 400 escape rooms!",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/10/05DAEA57-CC71-44FE-997A-D6B22CA6F4F8/marc-concursante-que-juega-dopado-1-participado-mas-400-escape-rooms_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "programas",
-            "el 1 por ciento",
-            "antena3"
-        ],
-        "link": "https://www.antena3.com/programas/el-1-por-ciento/marc-concursante-que-juega-dopado-participado-mas-400-escape-rooms_202512106939f1fe6f86fb0fe9f021f9.html",
-        "date": "2025-12-10 22:19:42",
-        "sentiment_score": 0.7018319517374039
-    },
-    {
-        "title": "Jordi Hurtado confiesa a sus 68 años a qué icónico personaje de 'Barrio Sésamo' puso voz: \"No fui el único que lo dobló\"",
-        "image_url": "https://s3.elespanol.com/2025/12/10/bluper/1003744050509_260417869_1706x960.jpg",
-        "tags": [
-            "saber y ganar",
-            "bluper",
-            "david broncano",
-            "la revuelta",
-            "jordi hurtado"
-        ],
-        "link": "https://www.elespanol.com/bluper/20251210/jordi-hurtado-confiesa-anos-iconico-personaje-barrio-sesamo-puso-voz-no-unico-doblo/1003744050497_0.html",
-        "date": "2025-12-10 22:07:43",
-        "sentiment_score": 0.1487642228603363
-    },
-    {
-        "title": "Derrota dolorosa: Xabi Alonso peligra como técnico del Real Madrid y ya surgen opciones de recambio",
-        "image_url": "https://pxcdn.meridiano.net/122025/1765403773999.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/derrota-dolorosa-xabi-alonso-peligra-como-tecnico-del-real-madrid-y-ya-surgen-opciones-de-recambio-2025121017560",
-        "date": "2025-12-10 21:56:00",
-        "sentiment_score": -0.7633832637220621
-    },
-    {
-        "title": "Airbnb retira 2.479 anuncios irregulares de habitaciones a petición del Ayuntamiento de Barcelona",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/07/08/8B30FB38-E3FD-4A4A-A5D7-7C4B4BE951CE/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/airbnb-retira-2479-anuncios-irregulares-habitaciones-peticion-ayuntamiento-barcelona_202512106939ec63cc0f8a3219a61014.html",
-        "date": "2025-12-10 21:55:47",
-        "sentiment_score": 0.08193869143724442
-    },
-    {
-        "title": "La empresa de videojuegos Socialpoint inaugura un nuevo centro en el 22@ de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/10/economia/1003742715061_15499898_1706x960.jpg",
-        "tags": [
-            "economía",
-            "22@",
-            "empresas barcelona",
-            "videojuegos y gamers"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20251210/empresa-videojuegos-socialpoint-inaugura-nuevo-centro-barcelona/1003742715060_0.html",
-        "date": "2025-12-10 21:52:02",
-        "sentiment_score": 0.6479983925819397
-    },
-    {
-        "title": "2-3. El Villarreal consuma su debacle europea ante el Copenhague",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/10/2-3-el-villarreal-consuma-su-debacle-europea-ante-el-copenhague/",
-        "date": "2025-12-10 21:51:06",
-        "sentiment_score": -0.24380232393741608
-    },
-    {
-        "title": "Sánchez se humilla ante Junts",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f9e45e14-247a-4cee-84fe-90b8fe60458c_alta-libre-aspect-ratio_320w_0.webp",
-        "tags": [
-            "presidente del gobierno",
-            "moción de censura",
-            "moncloa",
-            "sánchez"
-        ],
-        "link": "https://www.lne.es/opinion/2025/12/11/sanchez-humilla-junts-124657737.html",
-        "date": "2025-12-10 21:43:15",
-        "sentiment_score": -0.4073775112628937
-    },
-    {
-        "title": "Celsa completa la refinanciación del grupo por importe de unos 2.000 millones",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/10/celsa-completa-la-refinanciacion-del-grupo-por-importe-de-unos-2000-millones/",
-        "date": "2025-12-10 21:38:17",
-        "sentiment_score": 0.26778434216976166
-    },
-    {
-        "title": "Raúl González, candidato de Juntos X Extremadura-Levanta: \"Si Feijóo quiere un gobierno aquí, tendrá que venir en tren\"",
-        "image_url": "https://static.eldiario.es/clip/b268b055-250a-44ac-a6f8-36897dc91ac6_16-9-discover-aspect-ratio_default_1132229.jpg",
-        "tags": [
-            "extremadura",
-            "josé l. aroca",
-            "badajoz",
-            "jesús conde",
-            "mérida",
-            "actualidad",
-            "política",
-            "sociedad",
-            "cáceres",
-            "agro"
-        ],
-        "link": "https://www.eldiario.es/extremadura/politica/raul-gonzalez-candidato-x-extremadura-levanta-si-feijoo-quiere-gobierno-tendra-venir-tren_128_12832644.html",
-        "date": "2025-12-10 21:36:04",
-        "sentiment_score": -0.018407464027404785
-    },
-    {
-        "title": "Todo sobre Xabi Alonso: su edad, en qué equipos ha estado, qué idiomas habla, quién es su mujer y su padre",
-        "image_url": "https://okdiario.com/img/2025/12/10/xabi-alonso.jpg",
-        "tags": [
-            "real madrid",
-            "deportes",
-            "fútbol",
-            "bayer leverkusen",
-            "xabi alonso"
-        ],
-        "link": "https://okdiario.com/deportes/asi-xabi-alonso-como-entrenador-padre-familia-mujer-edad-futuro-real-madrid-12871673",
-        "date": "2025-12-10 21:35:46",
-        "sentiment_score": -0.12072862684726715
-    },
-    {
-        "title": "El #MeToo del PSOE",
-        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050284_260414632_1706x960.jpg",
-        "tags": [
-            "opinión",
-            "psoe (partido socialista obrero español)",
-            "feminismo",
-            "agresiones sexuales",
-            "columnas",
-            "columnas de opinión",
-            "pedro sánchez"
-        ],
-        "link": "https://www.elespanol.com/opinion/columnas/20251211/metoo-psoe/1003744050243_12.html",
-        "date": "2025-12-11 02:19:51",
-        "sentiment_score": -0.9199337335303426
-    },
-    {
-        "title": "¿Hay vida en el Real Madrid sin Kylian Mbappé?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/11/2025121103080644264.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/mbappe-dependencia-es-mas-problema-que-bendicion/20251211030913366528.html",
-        "date": "2025-12-11 02:09:13",
-        "sentiment_score": -0.3404081463813782
-    },
-    {
-        "title": "Así se sabrá si el origen de la peste porcina es un laboratorio o un bocadillo con embutido: \"No descartemos el sabotaje\"",
-        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050311_260415014_1706x960.jpg",
-        "tags": [
-            "ciencia",
-            "microbiología y parasitología",
-            "veterinaria",
-            "peste porcina"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20251211/sabra-origen-peste-porcina-laboratorio-bocadillo-embutido-no-descartemos-sabotaje/1003744050069_0.html",
-        "date": "2025-12-11 02:03:28",
-        "sentiment_score": -0.6044848104938865
-    },
-    {
-        "title": "Habla Nazzaro, el exanalista del FBI que lidera desde Rusia la 'Al-Qaeda' neonazi: \"Los 3 españoles detenidos son presos políticos\"",
-        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050259_260414147_1706x960.jpg",
-        "tags": [
-            "nazismo",
-            "san petersburgo",
-            "sucesos",
-            "reportajes",
-            "entrevistas",
-            "rusia",
-            "terrorismo"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251211/habla-nazzaro-exanalista-fbi-lidera-rusia-al-qaeda-neonazi-espanoles-detenidos-presos-politicos/1003744049993_0.html",
-        "date": "2025-12-11 02:03:22",
-        "sentiment_score": -0.7496971543878317
-    },
-    {
-        "title": "Veinte años sin Julián Marías, el filósofo 'olvidado', crítico de cine y discípulo de Ortega y Gasset",
-        "image_url": "https://elcierredigital.com/filesedc/uploads/image/post/2025/12/fotonoticia-20080109215159-412_1600_1067.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://elcierredigital.com/cultura/veinte-anos-sin-julian-marias-filosofo-olvidado-critico-cine-discipulo-ortega-gasset",
-        "date": "2025-12-11 02:00:00",
-        "sentiment_score": 0.21200091019272804
-    },
-    {
-        "title": "Respaldado por sus jugadores, Xabi Alonso confía en que el Madrid superará mal momento",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/12/CAMPEONES_REAL_MADRID-ALONSO_17257.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2025/12/10/respaldado-por-sus-jugadores-xabi-alonso-confa-en-que-el-madrid-superar-mal-momento/",
-        "date": "2025-12-11 00:57:30",
-        "sentiment_score": 0.3754350543022156
-    },
-    {
-        "title": "Respaldado por sus jugadores, Xabi Alonso confía en que el Madrid superará mal momento",
-        "image_url": "https://dims.apnews.com/dims4/default/dea9c2e/2147483647/strip/true/crop/8640x5751+0+5/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2Fb1%2Ff042834e87391a293839c76fa608%2F9c24dac05b364b31a0c35838b54da093",
-        "tags": [
-            "sports",
-            "deportes",
-            "champions league xabi alonso manchester city"
-        ],
-        "link": "https://apnews.com/article/champions-league-xabi-alonso-manchester-city-46f12eaba2bfcbfd1cd1a2d3fc2135e3",
-        "date": "2025-12-11 00:57:30",
-        "sentiment_score": 0.6354370340704918
-    },
-    {
-        "title": "Barça Legends y Real Madrid Leyendas jugarán en el BMO Stadium de Los Ángeles en 2026",
-        "image_url": "https://i.headtopics.com/images/2025/12/10/latimes/barca-legends-y-real-madrid-leyendas-jugar-n-en-el-barca-legends-y-real-madrid-leyendas-jugar-n-en-el-40A17EC5DDF90662DDF531AC789E4D64.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://headtopics.com/news/barca-legends-y-real-madrid-leyendas-jugar-n-en-el-bmo-77013069",
-        "date": "2025-12-11 00:39:01",
-        "sentiment_score": 0.836355235427618
-    },
-    {
-        "title": "Inter Miami de Messi jugará en Ecuador contra este histórico equipo",
-        "image_url": "https://pxcdn.meridiano.net/122025/1765420872842.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/inter-miami-de-messi-jugara-en-ecuador-contra-este-historico-equipo--2025121022140",
-        "date": "2025-12-11 02:14:00",
-        "sentiment_score": 0.5887435264885426
-    },
-    {
-        "title": "La teunolóxica catalana ByteTravel va tener la so sede asturiana en L'Entregu",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6cd8c60a-a687-4709-ad76-f3b5a6cbb014_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "el entrego",
-            "nalón",
-            "empresas",
-            "digital"
-        ],
-        "link": "https://www.lne.es/asturias/n-asturianu/2025/12/11/teunoloxica-catalana-bytetravel-sede-asturiana-124528155.html",
-        "date": "2025-12-11 02:00:53",
-        "sentiment_score": 0.00044021010398864746
-    },
-    {
-        "title": "Marli Salmon, defensa de 16 años, debuta en la Champions con el Arsenal",
-        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "tags": [
-            "deportes",
-            "arsenal salmon 16 anos champions league",
-            "sports"
-        ],
-        "link": "https://apnews.com/article/arsenal-salmon-16-anos-champions-league-73b3cd21b5d9751a9a711b7835301b89",
-        "date": "2025-12-11 01:41:22",
-        "sentiment_score": 0.6353338435292244
-    },
-    {
-        "title": "Marli Salmon, defensa de 16 años, debuta en la Champions con el Arsenal",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2021/08/readeag.jpg",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2025/12/10/marli-salmon-defensa-de-16-aos-debuta-en-la-champions-con-el-arsenal/",
-        "date": "2025-12-11 01:41:21",
-        "sentiment_score": 0.4352986589074135
-    },
-    {
-        "title": "El declive de RNE: RAC1 ha superado en audiencia a la pública durante todo 2025 emitiendo sólo en Cataluña",
-        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050350_260415600_1706x960.jpg",
-        "tags": [
-            "rne",
-            "audiencia de medios",
-            "rtve (radiotelevisión española)",
-            "radio",
-            "sector audiovisual",
-            "medios",
-            "rac1",
-            "medios de comunicación",
-            "egm estudio general de medios",
-            "grupos de comunicación"
-        ],
-        "link": "https://www.elespanol.com/invertia/medios/20251211/declive-rne-rac1-superado-audiencia-publica-emitiendo-solo-cataluna/1003744049225_0.html",
-        "date": "2025-12-11 01:14:47",
-        "sentiment_score": -0.06589695811271667
-    },
-    {
         "title": "La derrota del Real Madrid en Champions y la eliminación del Villarreal, protagonistas de las portadas",
         "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2025/12/11/693a6257d4ae9.jpeg",
         "tags": [
@@ -3065,5 +2674,297 @@ export default [
         "link": "https://www.laopiniondemalaga.es/opinion/2025/12/14/caso-negreira-opinion-francis-tome-124756863.html",
         "date": "2025-12-14 06:01:00",
         "sentiment_score": 0.018069103360176086
+    },
+    {
+        "title": "Balaídos celebra la primera victoria liguera del Celta ante el Athletic",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251214180954_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-balaidos-celebra-primera-victoria-liguera-celta-athletic-20251214180954.html",
+        "date": "2025-12-14 17:09:54",
+        "sentiment_score": -0.483658567070961
+    },
+    {
+        "title": "Rotundo éxito en Ciudad Real del primer mercadillo ‘Jaleo Village’, dedicado a ropa de segunda mano",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Mercadillo-vintage-_-1.jpg",
+        "tags": [
+            "mercadillo",
+            "ciudad real",
+            "segunda mano",
+            "moda",
+            "evento",
+            "ropa usada"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/ciudad-real/rotundo-exito-en-ciudad-real-del-primer-mercadillo-jaleo-village-dedicado-a-ropa-de-segunda-mano/",
+        "date": "2025-12-14 17:00:00",
+        "sentiment_score": -0.08616939187049866
+    },
+    {
+        "title": "León ya espera al Gordo en el Teatro Real",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/12/14/WhatsApp%20Image%202025-12-14%20at%2015.53.17%20(1)-kWCF-U240554961149eTC-1200x840@Leonoticias.jpeg",
+        "tags": [
+            "gordo",
+            "leon",
+            "real",
+            "espera",
+            "teatro"
+        ],
+        "link": "https://www.leonoticias.com/leon/leon-espera-gordo-teatro-real-20251214173524-nt.html",
+        "date": "2025-12-14 16:35:25",
+        "sentiment_score": -0.09063388407230377
+    },
+    {
+        "title": "Sevilla 4-0 Real Oviedo | El Sevilla desnuda a un Real Oviedo sin alma y deja a Carrión en el alambre",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/14/sevilla-real-oviedo-k2kD-U240554761276kIG-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/sevilla-real-oviedo-sevilla-desnuda-real-oviedo-20251214164555-nt.html",
+        "date": "2025-12-14 16:12:05",
+        "sentiment_score": -0.918564603663981
+    },
+    {
+        "title": "Víctor Valdepeñas, el canterano que ha llamado Xabi Alonso para suplir las bajas por lesión del Real Madrid en el partido ante el Alavés",
+        "image_url": "https://www.infobae.com/resizer/v2/7WTKA4X5S5ACBBSFD4TADRBYTQ.jpeg?auth=1317d1cbcb77f1e4c93de4d573a372ad5d508cf2d84284fb90229f682f77d512&height=606&smart=true&width=1078",
+        "tags": [
+            "fútbol",
+            "fútbol españa",
+            "víctor valdepeñas",
+            "xabi alonso",
+            "real madrid",
+            "alavés",
+            "españa-noticias",
+            "españa-deportes"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/12/14/victor-valdepenas-el-canterano-que-ha-llamado-xabi-alonso-para-suplir-las-bajas-por-lesion-del-real-madrid-en-el-partido-ante-el-alaves/",
+        "date": "2025-12-14 16:09:24",
+        "sentiment_score": -0.8494091220200062
+    },
+    {
+        "title": "El 'obispo de la lotería' ya tienta a la suerte a la puerta del Teatro Real",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/02/04/6/juan-lopez-ante-el-teatro-real-l-n-c.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/obispo-loteria-ya-tienta-suerte-puerta-teatro-real_187785_102.html",
+        "date": "2025-12-14 16:04:22",
+        "sentiment_score": 0.03174537420272827
+    },
+    {
+        "title": "El Príncipe de Viana, anfitrión en el Palacio de Olite",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4657ae91-1fe3-4a8f-af1e-8cac2e579504_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "principe",
+            "anfitrion",
+            "viana",
+            "palacio",
+            "olite"
+        ],
+        "link": "https://www.noticiasdenavarra.com/navarra/2025/12/14/principe-viana-anfitrion-palacio-olite-10470469.html",
+        "date": "2025-12-14 15:24:24",
+        "sentiment_score": -0.05074429512023926
+    },
+    {
+        "title": "La villa que no puede faltar en tu ruta por Valladolid: un histórico tratado, un monasterio y el triste destino de una reina",
+        "image_url": "https://s2.ppllstatics.com/mujerhoy/www/multimedia/2025/12/11/tordesillas-iglesia-museo-san-antolin-RovTmi2UwlmTuKhs1hbECQI-758x758@Mujer%20Hoy.jpg",
+        "tags": [
+            "proxima",
+            "historico",
+            "villa",
+            "bello",
+            "triste",
+            "puede",
+            "ruta",
+            "faltar",
+            "tratado",
+            "destino",
+            "valladolid",
+            "reina",
+            "monasterio"
+        ],
+        "link": "https://www.mujerhoy.com/vivir/ocio/tordesillas-valladolid-monasterio-tragedia-reina-juana-20251214142722-nt.html",
+        "date": "2025-12-14 14:30:22",
+        "sentiment_score": 0.3381430059671402
+    },
+    {
+        "title": "La Real llega al parón liguero con un claro triunfo frente al Deportivo (3-0)",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/95b63759-aad0-4eee-8dd4-3c1d56b46330_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "claro",
+            "real",
+            "llega",
+            "liguero",
+            "paron"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2025/12/14/real-llega-paron-liguero-claro-10470293.html",
+        "date": "2025-12-14 14:24:46",
+        "sentiment_score": 0.19981083273887634
+    },
+    {
+        "title": "El Rayo, a enderezar el rumbo, y el Betis a mantener la pujanza en zona europea",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/14/el-rayo-a-enderezar-el-rumbo-y-el-betis-a-mantener-la-pujanza-en-zona-europea/",
+        "date": "2025-12-14 14:15:23",
+        "sentiment_score": 0.36147937923669815
+    },
+    {
+        "title": "Vicente, dueño de un negocio de oficinas compartidas: \"Montar una por tu cuenta te vale 1.000€ al mes y aquí te cuesta 200€\"",
+        "image_url": "https://s3.elespanol.com/2025/12/12/sociedad/1003744053290_260452700_1706x960.jpg",
+        "tags": [
+            "soft",
+            "trabajo",
+            "negocios",
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251214/vicente-dueno-negocio-oficinas-compartidas-montar-cuenta-vale-mes-cuesta/1003744052796_0.html",
+        "date": "2025-12-14 17:06:59",
+        "sentiment_score": 0.5659131594002247
+    },
+    {
+        "title": "Enric Bono: \"Queremos que la gente de Barcelona redescubra La Rambla y su historia viva\"",
+        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/44b1cc36-4d4d-44fc-aeee-3c5898b6a9d7/main/1920x1080/36s96ms/match/image.jpg?pubId=85707284001",
+        "tags": [
+            "redescubra",
+            "rambla",
+            "gente",
+            "queremos",
+            "bono",
+            "barcelona",
+            "viva",
+            "enric",
+            "historia"
+        ],
+        "link": "https://www.elcomercio.es/culturas/enric-bono-queremos-gente-barcelona-redescubra-rambla-20251214165644-vi.html",
+        "date": "2025-12-14 17:05:54",
+        "sentiment_score": -0.007195577025413513
+    },
+    {
+        "title": "Cuatro consejos para mejorar la calidad del esperma, según expertas en fertilidad: “Evita duchas calientes”",
+        "image_url": "https://www.infobae.com/resizer/v2/O6P7FSXVLBAR5OYTKMWZIZQCIM.jpg?auth=abf159b05aa296df3c5f488e54cd1c36542f11bfad2853e67074a820df17fe5c&height=1365&smart=true&width=1920",
+        "tags": [
+            "ciencia",
+            "españa-noticias",
+            "ejercicio",
+            "salud y sexo",
+            "ciencia españa",
+            "españa-salud"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/14/cuatro-consejos-para-mejorar-la-calidad-del-esperma-segun-expertas-en-fertilidad-evita-duchas-calientes/",
+        "date": "2025-12-14 16:55:40",
+        "sentiment_score": 0.3493094816803932
+    },
+    {
+        "title": "Enric Bono: \"Queremos que la gente de Barcelona redescubra La Rambla y su historia viva\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251214174834_120.jpg",
+        "tags": [
+            "cultura y ocio",
+            "vídeos culturaocio"
+        ],
+        "link": "https://www.culturaocio.com/videos/video-enric-bono-queremos-gente-barcelona-redescubra-rambla-historia-viva-20251214174834.html",
+        "date": "2025-12-14 16:48:34",
+        "sentiment_score": 0.35518331825733185
+    },
+    {
+        "title": "Paula Josemaría/Ari Sánchez: fin a una pareja de leyenda",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0f2fb23-cd00-4e1a-a154-715c7a41f021_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "moraleja",
+            "cáceres",
+            "pádel",
+            "premier padel",
+            "paula josemaría"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/2025/12/14/paula-josemaria-ari-sanchez-pareja-leyenda-padel-separacion-124780074.html",
+        "date": "2025-12-14 16:44:35",
+        "sentiment_score": 0.19511190056800842
+    },
+    {
+        "title": "Reparan tramo del centro histórico de Barcelona",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/12/Bna-Centro-2-300x286.jpg",
+        "tags": [
+            "anzoátegui",
+            "actualidad"
+        ],
+        "link": "https://ultimasnoticias.com.ve/anzoateggui/reparan-tramo-del-centro-historico-de-barcelona/",
+        "date": "2025-12-14 16:44:03",
+        "sentiment_score": -0.10430553555488586
+    },
+    {
+        "title": "Detienen a un hombre en Barcelona por un robo violento en Roma: se cambió de nombre",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/09/19/gran-barcelona/1003742690357_15175176_1706x960.jpg",
+        "tags": [
+            "robos",
+            "mossos d'esquadra",
+            "sucesos",
+            "policía"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sucesos/20251214/detienen-hombre-barcelona-robo-violento-roma-cambio-nombre/1003742715971_0.html",
+        "date": "2025-12-14 16:43:27",
+        "sentiment_score": -0.3283110558986664
+    },
+    {
+        "title": "Confirmado por la Generalitat: el transporte público en Cataluña costará la mitad en 2026 para los jóvenes",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/12/vida/1003742715573_15505867_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "barcelona",
+            "girona",
+            "lleida",
+            "tarragona",
+            "jóvenes",
+            "vida",
+            "transportes"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20251214/confirmado-generalitat-transporte-publico-cataluna-costara-mitad-jovenes-trt/1003742715572_0.html",
+        "date": "2025-12-14 16:30:00",
+        "sentiment_score": 0.26087425649166107
+    },
+    {
+        "title": "Navarra busca cómo ofrecer desde Pamplona a Italia y Alemania",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/65e49908-1a1d-4cf3-ae19-3e887429cb06_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "busca",
+            "italia",
+            "pamplona",
+            "navarra",
+            "ofrecer"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2025/12/14/navarra-busca-ofrecer-pamplona-italia-10463665.html",
+        "date": "2025-12-14 16:29:34",
+        "sentiment_score": 0.07442015409469604
+    },
+    {
+        "title": "Cataluña fía a la estación de la Llagosta y al desdoblamiento del Ebro el impulso a las mercancías por tren",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/12/27/business/820428064_12147409_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "rodalies",
+            "business",
+            "ferrocarrils de la generalitat (fgc)",
+            "mercancías",
+            "importaciones",
+            "exportaciones",
+            "sílvia paneque",
+            "trenes",
+            "industria"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20251214/cataluna-estacion-llagosta-desdoblamiento-ebro-impulso-mercancias/1003742706505_0.html",
+        "date": "2025-12-14 16:27:22",
+        "sentiment_score": -0.9059428833425045
+    },
+    {
+        "title": "Semana Deportiva: Una multitud esperaba ver a Messi en Calcuta",
+        "image_url": "https://static.wixstatic.com/media/cf263a_c5bc297b657f4e5ebd97844451340822~mv2.png/v1/fit/w_434,h_272,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/semana-deportiva-una-multitud-esperaba-ver-a-messi-en-calcuta",
+        "date": "2025-12-14 13:43:26",
+        "sentiment_score": -0.8535036686807871
     }
 ];
