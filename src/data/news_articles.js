@@ -1,436 +1,5 @@
 export default [
     {
-        "title": "El Madrid sigue en racha en la Euroliga",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f3947ae4-ccf5-460b-8ea4-5346410cf128_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "euroliga,baloncesto,real madrid de baloncesto"
-        ],
-        "link": "https://www.superdeporte.es/baloncesto/2025/12/11/madrid-sigue-racha-euroliga-124701476.html",
-        "date": "2025-12-11 22:18:59",
-        "sentiment_score": 0.6675194948911667
-    },
-    {
-        "title": "Ana, franca sobre los altos precios de los cerrajeros: \"Me cobraron 1.125 euros por abrirme la puerta\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/09/04/un-cerrajero-arreglando-una-puerta.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/ana-franca-sobre-altos-precios-cerrajeros-me-cobraron-1125-euros-abrirme-puerta-f202512.html",
-        "date": "2025-12-11 22:18:07",
-        "sentiment_score": -0.8374841026961803
-    },
-    {
-        "title": "El 1x1 del Baskonia: Forrest vuelve tras casi dos meses",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b99222d9-dec1-44b2-a818-a6de9d18ed6f_16-9-aspect-ratio_default_0_x341y116.jpg",
-        "tags": [
-            "baskonia",
-            "forrest",
-            "meses",
-            "1x1",
-            "vuelve"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2025/12/11/1x1-baskonia-forrest-vuelve-meses-10461656.html",
-        "date": "2025-12-11 22:14:07",
-        "sentiment_score": -0.5083066672086716
-    },
-    {
-        "title": "Dónde han caído 57 millones de euros de La Primitiva los premios de la Lotería Nacional, Bonoloto, ONCE y EuroDreams de hoy jueves 11 de diciembre de 2025",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2024/11/28/6089236E-7DE5-4924-98A5-B58FBB998013/administracion-loteria-dona-manolita_98.jpg?crop=4252%2C2392%2Cx0%2Cy220&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "loterías"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-57-millones-euros-primitiva-premios-loteria-nacional-bonoloto-once-eurodreams-hoy-jueves-11-diciembre-2025_20251211693b3e22ea66eb73530ef232.html",
-        "date": "2025-12-11 21:57:08",
-        "sentiment_score": 0.02554870769381523
-    },
-    {
-        "title": "Así será el balneario público de aguas termales que se pondrá en marcha en 2026: a menos de 20 minutos de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/25/gran-barcelona/1003742701288_15323958_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "obras",
-            "santa coloma de gramenet"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251211/balneario-publico-aguas-termales-pondra-marcha-minutos-barcelona/1003742715371_0.html",
-        "date": "2025-12-11 21:55:07",
-        "sentiment_score": 0.2382054552435875
-    },
-    {
-        "title": "'La Revuelta' le hace la compra de la semana a Nathy Peluso: «Me viene de lujo, no tengo nada en casa»",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/12/11/nathy-1-kw8E--758x531@El%20Correo.jpg",
-        "tags": [
-            "audiencias",
-            "madrid (ciudad)",
-            "david broncano",
-            "la revuelta",
-            "argentina"
-        ],
-        "link": "https://www.elcorreo.com/gente-estilo/revuelta-compra-semana-nathy-peluso-viene-lujo-20251211225203-nt.html",
-        "date": "2025-12-11 21:52:03",
-        "sentiment_score": 0.3482006639242172
-    },
-    {
-        "title": "Crece el escándalo en Camerún: acusan a Samuel Eto’o de no convocar a una de las figuras para que no supere su récord de goles",
-        "image_url": "https://www.infobae.com/resizer/v2/CUB24IYNHFHPTNBFW2XLT565P4.gif?auth=a14aebef6cad98acc9fe9ed4c646040d24700d43d0ebce6bc88093ae7c03b994&height=3078&smart=true&width=5472",
-        "tags": [
-            "selección de camerún",
-            "fecafoot",
-            "samuel eto’o",
-            "deportes-argentina",
-            "vincent aboubakar"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/11/crece-el-escandalo-en-camerun-acusan-a-samuel-etoo-de-no-convocar-a-una-de-las-figuras-para-que-no-supere-su-record-de-goles/",
-        "date": "2025-12-11 21:48:12",
-        "sentiment_score": -0.8104122057557106
-    },
-    {
-        "title": "Quién sería el nuevo amor de Luli Fernández: los indicios que la vinculan con un productor agropecuario",
-        "image_url": "https://www.infobae.com/resizer/v2/YP57FI3IY5FGXAP7RRBSAL3J4U.gif?auth=063fa25736adafd18ea279dc62d763f1b1ab1487bbb378f98d4921b55aaadab3&height=462&smart=true&width=822",
-        "tags": [
-            "juancho lamarque",
-            "luli fernández"
-        ],
-        "link": "https://www.infobae.com/teleshow/2025/12/11/quien-seria-el-nuevo-amor-de-luli-fernandez-los-indicios-que-la-vinculan-con-un-productor-agropecuario/",
-        "date": "2025-12-11 21:47:36",
-        "sentiment_score": -0.04208189994096756
-    },
-    {
-        "title": "Los precios y la vivienda expulsan población de Madrid y Cataluña a otras comunidades pese a ser las que más extranjeros captan",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/6989ccb92a06969a4f1df62605fe2a60/crop/514x0/2562x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/20/17609823533524.jpg",
-        "tags": [
-            "economía",
-            "artículos alejandra olcese",
-            "inmigración",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/economia/macroeconomia/2025/12/11/693af85be85ece74418b458e.html",
-        "date": "2025-12-11 21:39:25",
-        "sentiment_score": -0.8112683985382318
-    },
-    {
-        "title": "Urdangarin, en su primera entrevista: «Cuando entré en la cárcel estuve llorando tres meses»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/urdanga-2.jpeg",
-        "tags": [
-            "cárcel",
-            "gente",
-            "celebrities",
-            "iñaki urdangarin"
-        ],
-        "link": "https://theobjective.com/gente/2025-12-11/urdangarin-entrevista-carcel-llorando/",
-        "date": "2025-12-11 21:37:37",
-        "sentiment_score": -0.10999514162540436
-    },
-    {
-        "title": "Una figura de Uruguay reveló cuándo fue el “quiebre” de la relación entre el plantel y Marcelo Bielsa: “Eso te mata”",
-        "image_url": "https://www.infobae.com/resizer/v2/55C5OA67U5ACJEFFDOQK22TDCU.JPG?auth=39d253241347e38a5729590a26d52aa366187c077769275232f799b1d0780bdf&height=1666&smart=true&width=2961",
-        "tags": [
-            "selección de uruguay mundial 2026",
-            "lamine yamal",
-            "selección de españa mundial 2026",
-            "flamengo",
-            "mundial 2026",
-            "marcelo bielsa",
-            "deportes-argentina",
-            "guillermo varela"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/11/una-figura-de-uruguay-revelo-cuando-fue-el-quiebre-de-la-relacion-entre-el-plantel-y-marcelo-bielsa-eso-te-mata/",
-        "date": "2025-12-11 21:36:21",
-        "sentiment_score": 0.5110589880496264
-    },
-    {
-        "title": "Iñaki Urdangarin, sobre su paso por la cárcel: “No se lo deseo a nadie”",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/P44BBQZZ4NDVJDXWBIEKDJEGZE.jpg?auth=481186ddffa79676cdf41e9b15bb42abb169606464d9e519269f714323e01165&width=1200",
-        "tags": [
-            "iñaki urdangarin",
-            "gente",
-            "televisión",
-            "cristina de borbón y grecia",
-            "cataluña",
-            "casa real",
-            "juan carlos i",
-            "rtve",
-            "felipe vi",
-            "instituto nóos",
-            "fc barcelona"
-        ],
-        "link": "https://elpais.com/gente/2025-12-11/inaki-urdangarin-sobre-su-paso-por-la-carcel-no-se-lo-deseo-a-nadie.html",
-        "date": "2025-12-11 21:29:22",
-        "sentiment_score": 0.08444194495677948
-    },
-    {
-        "title": "Daniel Vázquez Sallés, escritor: “La vida para un adicto es un todo o nada”",
-        "image_url": "https://static.eldiario.es/clip/4b078b73-d767-4ee4-884c-2651e7174283_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "periodismo independiente",
-            "ignacio escolar",
-            "economía",
-            "cataluña",
-            "noticias",
-            "actualidad",
-            "política",
-            "barcelona"
-        ],
-        "link": "https://www.eldiario.es/catalunya/daniel-vazquez-salles-escritor-vida-adicto_128_12833840.html",
-        "date": "2025-12-11 21:28:18",
-        "sentiment_score": -0.1001182496547699
-    },
-    {
-        "title": "Europa cierra el grifo a Rusia: España, ante la oportunidad real de convertirse en poder energético",
-        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744050493_260417581_1706x960.jpg",
-        "tags": [
-            "guerra rusia-ucrania",
-            "guerra ucrania",
-            "petróleo",
-            "opinión",
-            "geopolítica",
-            "crisis energética",
-            "rusia",
-            "energía - opinión",
-            "tribunas de opinión"
-        ],
-        "link": "https://www.elespanol.com/invertia/opinion/20251212/europa-cierra-grifo-rusia-espana-oportunidad-real-convertirse-poder-energetico/1003744050486_12.html",
-        "date": "2025-12-12 01:47:46",
-        "sentiment_score": 0.38535214960575104
-    },
-    {
-        "title": "Detenidos el dueño y el CEO de Plus Ultra en una operación por presunto blanqueo de capitales",
-        "image_url": "https://correodelcaroni.com/wp-content/uploads/2025/12/PLUSU_DuenoDetenido.jpg",
-        "tags": [
-            "ceo",
-            "mundo",
-            "blanqueo de capitales",
-            "julio martínez",
-            "dueño",
-            "a - modulo 7 - b",
-            "plus ultra"
-        ],
-        "link": "https://correodelcaroni.com/mundo/detenidos-el-dueno-y-el-ceo-de-plus-ultra-en-una-operacion-por-presunto-blanqueo-de-capitales/",
-        "date": "2025-12-12 01:34:05",
-        "sentiment_score": -0.7773471809923649
-    },
-    {
-        "title": "Gabriel Boric, el desencanto de las promesas de cambio",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/10/29/3061A6B9-55AB-41EE-9A70-69B4B4793683/69.jpg?crop=3553%2C1999%2Cx0%2Cy185&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "internacional",
-            "américa",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/internacional/america/gabriel-boric-desencanto-promesas-cambio_20251212693b691eea66eb73530f0e74.html",
-        "date": "2025-12-12 01:00:14",
-        "sentiment_score": -0.769902728497982
-    },
-    {
-        "title": "Javier Villanueva, bombero forestal herido en la manifestación: \"Gano 1.300 € y eso no da para vivir en Madrid\"",
-        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744052002_260436587_1706x1280.jpg",
-        "tags": [
-            "madrid",
-            "bomberos forestales",
-            "sociedad",
-            "protestas",
-            "comunidad de madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251212/javier-villanueva-bombero-forestal-herido-manifestacion-gano-eur-no-da-vivir-madrid/1003744051659_0.html",
-        "date": "2025-12-12 01:00:00",
-        "sentiment_score": -0.5020038187503815
-    },
-    {
-        "title": "¿Benzema podría volver para el Mundial de 2026?",
-        "image_url": "https://pxcdn.meridiano.net/122025/1765500510099.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/benzema-podria-volver-para-el-mundial-de-2026--2025121120510",
-        "date": "2025-12-12 00:51:00",
-        "sentiment_score": -0.36433936655521393
-    },
-    {
-        "title": "Florentino Pérez y el futuro de Xabi Alonso en el banquillo del Real Madrid",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/17/2025061709395556099.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/florentino-perez-futuro-xabi-alonso-banquillo-real-madrid/20251212014140366642.html",
-        "date": "2025-12-12 00:41:40",
-        "sentiment_score": -0.88498255610466
-    },
-    {
-        "title": "Pol Deportes, el narrador peruano de 15 años, estudiará periodismo deportivo en España tras terminar el colegio en Perú",
-        "image_url": "https://www.infobae.com/resizer/v2/Z27K6SYEXFC73DENEB6PSCTNEY.jpg?auth=d554246931f656e923fc8f63b430d880ab03ad6057423b9d2672e87b4dd0f1ee&height=1080&smart=true&width=1920",
-        "tags": [
-            "pol deportes",
-            "peru-entretenimiento",
-            "santiago bernabéu"
-        ],
-        "link": "https://www.infobae.com/peru/2025/12/12/pol-deportes-el-narrador-peruano-de-15-anos-estudiara-periodismo-deportivo-en-espana-tras-terminar-el-colegio-en-peru/",
-        "date": "2025-12-12 00:41:19",
-        "sentiment_score": 0.771123168990016
-    },
-    {
-        "title": "«Es más honesto con el espectador ser expresivo que técnicamente correcto»",
-        "image_url": "https://s2.ppllstatics.com/eldiariomontanes/www/multimedia/2025/12/11/208985457-kFRH--1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "música",
-            "santander",
-            "música clásica"
-        ],
-        "link": "https://www.eldiariomontanes.es/dmusica/honesto-espectador-expresivo-tecnicamente-correcto-20251212081621-nt.html",
-        "date": "2025-12-12 00:00:00",
-        "sentiment_score": 0.11121068894863129
-    },
-    {
-        "title": "La Unidad Canina de Torrelavega se forma en Madrid junto a cuerpos de seguridad estatales",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/12/11/1469868741-knXH--1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "policía nacional",
-            "guardia civil",
-            "torrelavega"
-        ],
-        "link": "https://www.eldiariomontanes.es/torrelavega/unidad-canina-torrelavega-forma-madrid-junto-cuerpos-20251212073825-nt.html",
-        "date": "2025-12-12 00:00:00",
-        "sentiment_score": 0.03488558530807495
-    },
-    {
-        "title": "El Gobierno acelera para subir el salario mínimo y dar un golpe de efecto antes de final de año",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/12/yd-kVRB-U240528384624AMC-1200x840@RC.jpg",
-        "tags": [
-            "gobierno de pedro sánchez",
-            "impuesto sobre la renta de las personas físicas (irpf)",
-            "ugt union general de trabajadores",
-            "ministerio de hacienda y función pública",
-            "maría jesús montero",
-            "ceoe",
-            "salario mínimo interprofesional (smi)",
-            "yolanda díaz"
-        ],
-        "link": "https://www.ideal.es/economia/trabajo/gobierno-acelera-subir-salario-minimo-dar-golpe-20251212004933-ntrc.html",
-        "date": "2025-12-11 23:49:34",
-        "sentiment_score": -0.05457697808742523
-    },
-    {
-        "title": "Este pueblo de Sevilla fue la \"capital\" de la Península Ibérica hace 5.000 años",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2024/09/14/6213A7F1-4314-4245-A9D6-29435CD86708/dolmen-pastora-valencina-concepcion-sevilla_69.jpg?crop=1380%2C776%2Cx0%2Cy132&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "sevilla",
-            "andalucía",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/andalucia/sevilla/este-pueblo-sevilla-fue-capital-peninsula-iberica-hace-5000-anos_20251212693b7aaeea66eb73530f18fa.html",
-        "date": "2025-12-12 02:15:10",
-        "sentiment_score": 0.3606564775109291
-    },
-    {
-        "title": "El teatro de calle anima las calles de Viladecans en Navidad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a657a78e-db34-414e-ab77-d77186de60a2_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fiestas",
-            "festival",
-            "teatro",
-            "viladecans"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/viladecans/20251212/teatro-calle-anima-calles-viladecans-124366212",
-        "date": "2025-12-12 01:59:28",
-        "sentiment_score": 0.7734495885670185
-    },
-    {
-        "title": "Inma Puig, expsicóloga del FC Barcelona y de Iniesta: \"El pasado ha sido de los fuertes y el futuro va a ser de los sensibles\"",
-        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744051936_260435688_1706x960.jpg",
-        "tags": [
-            "andrés iniesta",
-            "psicología",
-            "fc barcelona",
-            "vivir"
-        ],
-        "link": "https://www.elespanol.com/malaga/vivir/20251212/inma-puig-expsicologa-fc-barcelona-iniesta-pasado-fuertes-futuro-va-sensibles-dl/1003744051927_0.html",
-        "date": "2025-12-12 01:50:18",
-        "sentiment_score": 0.30352121591567993
-    },
-    {
-        "title": "Isabel Calvo, de doctora en biomedicina a campeona de artes marciales mixtas: \"También oposito a bombera\"",
-        "image_url": "https://s3.elespanol.com/2025/12/11/mujer/protagonistas/1003744051750_260433298_1706x960.jpg",
-        "tags": [
-            "protagonistas",
-            "deportistas",
-            "entrevistas",
-            "ilia topuria",
-            "deporte femenino",
-            "mma: artes marciales mixtas"
-        ],
-        "link": "https://www.elespanol.com/mujer/protagonistas/20251212/isabel-calvo-doctora-biomedicina-campeona-artes-marciales-mixtas-oposito-bombera/1003744050969_0.html",
-        "date": "2025-12-12 01:50:07",
-        "sentiment_score": 0.10250820219516754
-    },
-    {
-        "title": "España recupera renta tras la Covid, pero la desigualdad crece en las áreas metropolitanas y el litoral mediterráneo",
-        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744051635_260431841_1706x960.jpg",
-        "tags": [
-            "macroeconomía",
-            "municipios",
-            "economía",
-            "españa",
-            "renta per cápita"
-        ],
-        "link": "https://www.elespanol.com/invertia/economia/macroeconomia/20251212/espana-recupera-renta-covid-desigualdad-crece-areas-metropolitanas-litoral-mediterraneo/1003744051616_0.html",
-        "date": "2025-12-12 01:47:54",
-        "sentiment_score": -0.8074505273252726
-    },
-    {
-        "title": "Así es la alta velocidad china que tanto interesa a Óscar Puente: trenes que circulan a 350 km/h y llegarán a los 450",
-        "image_url": "https://s3.elespanol.com/2023/07/12/omicrono/tecnologia/778432843_260426836_1706x960.jpg",
-        "tags": [
-            "óscar puente santiago",
-            "renfe",
-            "movilidad",
-            "trenes",
-            "observatorio de la movilidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/movilidad/20251212/alta-velocidad-china-interesa-oscar-puente-trenes-circulan-kmh-llegaran/1003744051160_0.html",
-        "date": "2025-12-12 01:47:52",
-        "sentiment_score": -0.5740998182445765
-    },
-    {
-        "title": "11 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/11-dic-2025-partidazo-cope-20251212_3269846.html",
-        "date": "2025-12-12 00:38:33",
-        "sentiment_score": -0.04206645488739014
-    },
-    {
-        "title": "Unicef elige la radio del Palacio Valdés para un podcast nacional",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/11/208974505.jpg",
-        "tags": [
-            "palacio",
-            "elige",
-            "nacional",
-            "valdes",
-            "podcast",
-            "radio",
-            "unicef"
-        ],
-        "link": "https://www.elcomercio.es/aviles/unicef-elige-radio-palacio-valdes-podcast-nacional-20251212225349-nt.html",
-        "date": "2025-12-12 00:00:00",
-        "sentiment_score": 0.5610039830207825
-    },
-    {
-        "title": "«Nadie deja su casa o su tierra por gusto»",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/10/frontera-02-k3B-U240510383473exD-1200x840@RC.jpg",
-        "tags": [
-            "francisco franco",
-            "cataluña",
-            "cine",
-            "segunda guerra mundial",
-            "francia"
-        ],
-        "link": "https://www.hoy.es/pantallas/cine/deja-casa-tierra-gusto-20251210004300-ntrc.html",
-        "date": "2025-12-11 23:43:02",
-        "sentiment_score": 0.6601227819919586
-    },
-    {
         "title": "Madrid confirma cuatro nuevos focos de gripe aviar tras la muerte de cientos de cigüeñas",
         "image_url": "https://images.ecestaticos.com/PsD3zYiy4-Hn5mdG2zAatvyrGAc=/0x0:2272x1513/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4b1%2F027%2F7a1%2F4b10277a1b48c77c4a5d17ecd15f740a.jpg",
         "tags": [
@@ -3119,5 +2688,275 @@ export default [
         "link": "https://www.informacion.es/economia/2025/12/15/problema-suelo-vivienda-124790249.html",
         "date": "2025-12-15 06:18:22",
         "sentiment_score": -0.5868603400886059
+    },
+    {
+        "title": "Las cuatro claves del triunfo de José Antonio Kast en Chile",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Screenshot_85.jpg",
+        "tags": [
+            "chile",
+            "josé antonio kast",
+            "internacionales",
+            "actualidad"
+        ],
+        "link": "https://lapatilla.com/2025/12/15/las-cuatro-claves-del-triunfo-de-jose-antonio-kast-en-chile/",
+        "date": "2025-12-15 10:22:47",
+        "sentiment_score": 0.6518082767724991
+    },
+    {
+        "title": "¿Cuánto toca con el quinto premio de la Lotería de Navidad?",
+        "image_url": "https://okdiario.com/img/2023/12/18/imagen_recortada-15.jpg",
+        "tags": [
+            "gordo navidad",
+            "lotería de navidad",
+            "lotería",
+            "navidad",
+            "lotería nacional"
+        ],
+        "link": "https://okdiario.com/loteria-navidad/quinto-premio-loteria-navidad-cuanto-toca-8121606",
+        "date": "2025-12-15 17:00:50",
+        "sentiment_score": -0.023869425058364868
+    },
+    {
+        "title": "Lionel Messi tiene nuevo compañero: Inter Miami oficializó al primer refuerzo tras el título de la MLS Cup",
+        "image_url": "https://www.infobae.com/resizer/v2/PL24R3FBDFFHPESQNZWGYDFRAM.JPG?auth=72906dfdcb99791771d54ba260848477254ba67031a0ea07c4289c9ff1a01e97&height=427&smart=true&width=640",
+        "tags": [
+            "inter miami",
+            "jordi alba",
+            "deportes-internacional",
+            "sergio reguilón",
+            "mls",
+            "lionel messi"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/15/lionel-messi-tiene-nuevo-companero-inter-miami-oficializo-al-primer-refuerzo-tras-el-titulo-de-la-mls-cup/",
+        "date": "2025-12-15 17:00:23",
+        "sentiment_score": 0.0722745768725872
+    },
+    {
+        "title": "Florentino Pérez: «El caso Negreira es el mayor escándalo de la historia del fútbol»",
+        "image_url": "https://cflvdg.avoz.es/sc/uwr8wekjrpgMkjRkRDr0fbOzIVY=/768x/2025/12/15/00121765817281759546323/Foto/efe_20251215_143533108.jpg",
+        "tags": [
+            "deportes",
+            "caso negreira",
+            "real madrid",
+            "florentino pérez"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/15/florentino-perez-negreira-mayor-escandalo-historia-futbol/00031765817219369902477.htm",
+        "date": "2025-12-15 16:52:00",
+        "sentiment_score": -0.898814526386559
+    },
+    {
+        "title": "Florentino Pérez se niega a pasar página con el 'caso Negreira': \"Es el mayor escándalo del futbol\"",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2608480.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/florentino-perez-se-niega-a-pasar-pagina-con-el-caso-negreira-es-el-mayor-escandalo-del-futbol.html",
+        "date": "2025-12-15 16:49:58",
+        "sentiment_score": -0.84140052087605
+    },
+    {
+        "title": "El Ayuntamiento lleva a cabo mejoras en El Prado",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/7ff31c53-7cdc-4add-a65a221d9a2d8344.jpg",
+        "tags": [
+            "copa del rey",
+            "real madrid",
+            "cf talavera",
+            "talavera de la reina",
+            "estadio el prado"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z88b2ccf5-e8d8-4169-8b86727a45c71f50/202512/el-ayuntamiento-lleva-a-cabo-mejoras-en-el-prado",
+        "date": "2025-12-15 16:49:30",
+        "sentiment_score": -0.8182984385639429
+    },
+    {
+        "title": "Sacedón (Guadalajara) acusa a la CHT estar \"presuma\" de gestión y lamenta la situación de Entrepeñas y Buendía",
+        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
+        "tags": [
+            "guadalajara",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/guadalajara/sacedon-guadalajara-cht-presuma-gestion-situacion-entrepenas-buendia-794887-1.html",
+        "date": "2025-12-15 16:48:00",
+        "sentiment_score": -0.5650182329118252
+    },
+    {
+        "title": "Reguilón sale del ostracismo y ficha por el Inter Miami: Messi ya tiene a su nuevo ‘socio’",
+        "image_url": "https://okdiario.com/img/2025/12/15/regui.jpg",
+        "tags": [
+            "fútbol",
+            "sergio reguilón",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/reguilon-sale-del-ostracismo-ficha-inter-miami-messi-ya-tiene-nuevo-socio-15938755",
+        "date": "2025-12-15 16:47:33",
+        "sentiment_score": -0.013583138585090637
+    },
+    {
+        "title": "El inmobiliario mueve 17.000 millones en España en 2025, un 30% más",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/T3JL2Z57IVDY3LYGVGG6UJSBOU.jpeg?auth=16a8e365bb7f4810e5176e49092df2aa0904682817f8902efde80fe01aead2eb&width=1200",
+        "tags": [
+            "sareb",
+            "sector inmobiliario",
+            "residencias ancianos",
+            "residencias estudiantes",
+            "energía",
+            "hoteles",
+            "mercado inmobiliario",
+            "turismo",
+            "empresas"
+        ],
+        "link": "https://cincodias.elpais.com/companias/2025-12-15/el-inmobiliario-mueve-17000-millones-en-espana-en-2025-un-30-mas.html",
+        "date": "2025-12-15 16:47:03",
+        "sentiment_score": -0.8912953417748213
+    },
+    {
+        "title": "Cuarto premio de la Lotería de Navidad 2025: cuánto toca",
+        "image_url": "https://okdiario.com/img/2023/12/18/imagen_recortada-14.jpg",
+        "tags": [
+            "lotería de navidad",
+            "navidad",
+            "gordo navidad",
+            "lotería nacional",
+            "lotería"
+        ],
+        "link": "https://okdiario.com/loteria-navidad/cuarto-premio-cuanto-toca-dinero-loteria-navidad-6605874",
+        "date": "2025-12-15 16:45:56",
+        "sentiment_score": 0.5053382590413094
+    },
+    {
+        "title": "Florentino Pérez: \"El 'caso Negreira' es el mayor escándalo de la historia del fútbol\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251215174526_120.jpg",
+        "tags": [
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-florentino-perez-caso-negreira-mayor-escandalo-historia-futbol-20251215174526.html",
+        "date": "2025-12-15 16:45:26",
+        "sentiment_score": -0.8711096383631229
+    },
+    {
+        "title": "Rosalía brilla en el videoclip de 'La Perla': así canta a sus ex, con medalla de oro en deportes de contacto incluida",
+        "image_url": "https://www.hola.com/horizon/landscape/f51896d244b5-g8n4a5kweaqmrby.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad",
+            "rosalia"
+        ],
+        "link": "https://www.hola.com/actualidad/20251215873017/rosalia-brilla-en-el-videoclip-de-la-perla-asi-canta-a-sus-ex/",
+        "date": "2025-12-15 17:14:54",
+        "sentiment_score": 0.7422923892736435
+    },
+    {
+        "title": "La agencia GrandVoyage se dispara casi un 20% en su estreno bursátil",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/7854c0c570c820977a215aa172ca1703/crop/225x153/1863x1245/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/15/17658186884485.jpg",
+        "tags": [
+            "cataluña>",
+            "viajes>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2025/12/15/694041c8468aebb7788b457f.html",
+        "date": "2025-12-15 17:13:56",
+        "sentiment_score": 0.5879315324127674
+    },
+    {
+        "title": "Bruselas hace caso omiso a Sánchez y planea eliminar la prohibición de los coches de combustión",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/12/presidente-gobierno-pedro-sanchez-rueda-prensa-palacio-moncloa-15-diciembre-2025-madrid-20251215124212-1000x665.jpg",
+        "tags": [
+            "economía",
+            "bruselas",
+            "pedro sánchez"
+        ],
+        "link": "https://www.economiadigital.es/economia/bruselas-caso-omiso-sanchez.html",
+        "date": "2025-12-15 17:13:08",
+        "sentiment_score": 0.47079867869615555
+    },
+    {
+        "title": "Barcelona Activa clausura la edición 2025 de Projectes Singulars con 173 jóvenes participantes",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251215181307_690.jpg",
+        "tags": [
+            "barcelona economías",
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/barcelona-economias-00982/noticia-barcelona-activa-clausura-edicion-2025-projectes-singulars-173-jovenes-participantes-20251215181307.html",
+        "date": "2025-12-15 17:13:07",
+        "sentiment_score": 0.6349062249064445
+    },
+    {
+        "title": "Aston Martin empieza a ver los frutos de su trabajo de preparación de cara a 2026: es un candidato real al título en la nueva era de la Fórmula 1",
+        "image_url": "https://www.infobae.com/resizer/v2/K2GBENBIOZG6XEGZPI5ZG6OECM.JPG?auth=a216b81ffc1c11bc65ea4f12ebf1b7b4e24c038994d6754629c23e1454bfc61d&height=3216&smart=true&width=5718",
+        "tags": [
+            "aston martin",
+            "honda",
+            "españa-noticias",
+            "españa-deportes",
+            "fernando alonso",
+            "fórmula 1",
+            "f1",
+            "f1 españa"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/12/15/aston-martin-empieza-a-ver-los-frutos-de-su-trabajo-de-preparacion-de-cara-a-2026-es-un-candidato-real-al-titulo-en-la-nueva-era-de-la-formula-1/",
+        "date": "2025-12-15 17:13:03",
+        "sentiment_score": 0.43418413773179054
+    },
+    {
+        "title": "Denuncian que su tía murió en la residencia después de que la quemaran con agua hirviendo: \"Nos dijeron que eran heridas leves\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/15/C54E2747-DA61-4677-AEB4-0ABC1F88FA85/residencia_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "antena3",
+            "programas",
+            "y ahora sonsoles"
+        ],
+        "link": "https://www.antena3.com/programas/y-ahora-sonsoles/denuncian-que-tia-murio-residencia-despues-que-quemaran-agua-hirviendo-nos-dijeron-que-eran-heridas-leves_202512156940419f22f0db7daff23e16.html",
+        "date": "2025-12-15 17:13:03",
+        "sentiment_score": -0.8486868590116501
+    },
+    {
+        "title": "Dóberman, braga metálica y cigarro: Rosalía publica el vídeo de ‘La Perla‘, su canción más escuchada de ‘Lux’",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/SU2UHQSVEJFPRPOYQJOVHI5H3Y.jpg?auth=dc1c47f430f3edc114c065c86a426607c8fb8bc23cb5531961accd42aa26b3f2&width=1200",
+        "tags": [
+            "cultura",
+            "música",
+            "spotify",
+            "canciones",
+            "rosalía",
+            "vídeo",
+            "conciertos"
+        ],
+        "link": "https://elpais.com/cultura/2025-12-15/rosalia-publica-el-video-de-la-perla-su-cancion-mas-escuchada-de-lux.html",
+        "date": "2025-12-15 17:12:44",
+        "sentiment_score": 0.15109984949231148
+    },
+    {
+        "title": "Tiene dos trabajos y paga un alquiler de 950€: \"Termino a las 10 de la noche, sólo veo a mis hijos los fines de semana\"",
+        "image_url": "https://s3.elespanol.com/2025/12/10/sociedad/1003744049687_260407279_1706x960.jpg",
+        "tags": [
+            "sociedad",
+            "trabajo",
+            "alquiler de viviendas",
+            "soft"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251215/trabajos-paga-alquiler-termino-noche-solo-veo-hijos-fines-semana/1003744049350_0.html",
+        "date": "2025-12-15 17:08:51",
+        "sentiment_score": -0.09703686088323593
+    },
+    {
+        "title": "Aliança Catalana inaugurará esta semana su sede en Barcelona pero no anunciará a su candidato hasta abril",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/11/01/69065fe0282af.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20251215/alianca-catalana-inaugurara-esta-semana-sede-barcelona-no-anunciara-candidato-hasta-abril_365680.html",
+        "date": "2025-12-15 17:06:43",
+        "sentiment_score": -0.09835875779390335
+    },
+    {
+        "title": "Las personas con trastorno de salud mental acuden casi el doble al médico, según un estudio",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251215180410_690.jpg",
+        "tags": [
+            "infosalus.com",
+            "asistencia"
+        ],
+        "link": "https://www.infosalus.com/asistencia/noticia-personas-trastorno-salud-mental-acuden-casi-doble-medico-estudio-20251215180410.html",
+        "date": "2025-12-15 17:04:10",
+        "sentiment_score": -0.019587524235248566
     }
 ];
