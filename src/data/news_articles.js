@@ -1,18 +1,5 @@
 export default [
     {
-        "title": "De la clandestinidad a la salida de película desde Venezuela: lo que vivió María Corina Machado y lo que sigue ahora",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/8fb0bf35a97b5f562b142a6e6a5f30c4d81e044ew.jpg",
-        "tags": [
-            "destacados",
-            "nacionales",
-            "maría corina machado",
-            "internacionales"
-        ],
-        "link": "https://lapatilla.com/2025/12/12/de-la-clandestinidad-a-la-salida-de-pelicula-desde-venezuela-lo-que-vivio-maria-corina-machado-y-lo-que-sigue-ahora/",
-        "date": "2025-12-12 10:25:10",
-        "sentiment_score": -0.5187390223145485
-    },
-    {
         "title": "Los bombos y el resto de elementos del sorteo de lotería de Navidad ya están en el Teatro Real",
         "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/81eb1aaa-fd8e-4002-beec-bf43b9b3968f/main/224x126/37s834ms/match/image.jpg?pubId=85707284001",
         "tags": [
@@ -1033,19 +1020,6 @@ export default [
         "link": "https://elpais.com/espana/catalunya/2025-12-13/detenido-un-joven-por-atropellar-a-tres-ciclistas-en-vilanova-i-la-geltru-barcelona-uno-de-ellos-en-estado-critico.html",
         "date": "2025-12-13 17:00:58",
         "sentiment_score": -0.7511391509324312
-    },
-    {
-        "title": "De la clandestinidad a la salida de película desde Venezuela: lo que vivió María Corina Machado y lo que sigue ahora",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/8fb0bf35a97b5f562b142a6e6a5f30c4d81e044ew.jpg",
-        "tags": [
-            "destacados",
-            "nacionales",
-            "maría corina machado",
-            "internacionales"
-        ],
-        "link": "https://lapatilla.com/2025/12/12/de-la-clandestinidad-a-la-salida-de-pelicula-desde-venezuela-lo-que-vivio-maria-corina-machado-y-lo-que-sigue-ahora/",
-        "date": "2025-12-12 10:25:10",
-        "sentiment_score": -0.5187392681837082
     },
     {
         "title": "Hansi Flick mejora el rendimiento del Barça con mano dura: más meritocracia y menos 'vacas sagradas'",
@@ -2984,5 +2958,235 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/gastro/20251215/masia-rodeada-naturaleza-perfecta-ir-calcotada-invierno-minutos-barcelona/1003742716326_0.html",
         "date": "2025-12-15 21:13:04",
         "sentiment_score": 0.4376419298350811
+    },
+    {
+        "title": "La decisión de Cristiano Ronaldo que cambia por completo su futuro en Al Nassr",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Cristiano-Ronaldo.jpg",
+        "tags": [
+            "titulares",
+            "futbol",
+            "arabia saudí",
+            "al nassr",
+            "deportes",
+            "cristiano ronaldo"
+        ],
+        "link": "https://lapatilla.com/2025/12/15/la-decision-de-cristiano-ronaldo-que-cambia-por-completo-su-futuro-en-al-nassr/",
+        "date": "2025-12-16 01:32:39",
+        "sentiment_score": 0.6516357287764549
+    },
+    {
+        "title": "La visita de Messi a India comienza de forma caótica con fanáticos enojados que invaden el campo",
+        "image_url": "https://i.headtopics.com/images/2025/12/15/latimes/la-visita-de-messi-a-india-comienza-de-forma-ca-ti-la-visita-de-messi-a-india-comienza-de-forma-ca-ti-026486BAD45A334505ABFFC56E18720F.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/la-visita-de-messi-a-india-comienza-de-forma-ca-tica-con-77224137",
+        "date": "2025-12-16 01:24:59",
+        "sentiment_score": -0.9049338083714247
+    },
+    {
+        "title": "Marc Dos Santos asume como nuevo entrenador en LAFC: “La intensidad no es negociable”",
+        "image_url": "https://i.headtopics.com/images/2025/12/15/latimes/marc-dos-santos-asume-como-nuevo-entrenador-en-laf-marc-dos-santos-asume-como-nuevo-entrenador-en-laf-CA20EF72B89BD3D6F323EF74036044D1.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/marc-dos-santos-asume-como-nuevo-entrenador-en-lafc-la-77223628",
+        "date": "2025-12-16 01:10:39",
+        "sentiment_score": 0.5583901591598988
+    },
+    {
+        "title": "¿La Copa del Rey como redención para un alicaído Dépor?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/18/2025061820441646967.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/depor-debe-dar-paso-adelante-bano-que-recibio-sanse/20251216020439367049.html",
+        "date": "2025-12-16 01:04:39",
+        "sentiment_score": -0.12178854644298553
+    },
+    {
+        "title": "De la escuela al patrimonio: 23 jóvenes de Madrid restauran el retablo mayor de la Capilla de los Apóstoles de Cuenca",
+        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744056527_260494478_1706x960.jpg",
+        "tags": [
+            "madrid comunidad",
+            "cultura",
+            "educación",
+            "comunidad de madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20251216/escuela-patrimonio-jovenes-madrid-restauran-retablo-mayor-capilla-apostoles-cuenca/1003744056500_0.html",
+        "date": "2025-12-16 01:03:14",
+        "sentiment_score": 0.7185903415083885
+    },
+    {
+        "title": "La “trampa” de Mastantuono que complica al Real Madrid de cara a su debut en la Copa del Rey",
+        "image_url": "https://www.infobae.com/resizer/v2/F4VEG2XT6FEW7AE64DYFSTITRQ.jpg?auth=3320b984e938a6d52d090020fcea5716f6e40b1e0fea8de7c2712927f9f8ac33&height=1080&smart=true&width=1920",
+        "tags": [
+            "copa del rey",
+            "franco mastantuono",
+            "deportes-argentina",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/16/la-trampa-de-mastantuono-que-complica-al-real-madrid-de-cara-a-su-debut-en-la-copa-del-rey/",
+        "date": "2025-12-16 00:45:16",
+        "sentiment_score": 0.2108306959271431
+    },
+    {
+        "title": "‘Apadrina una viga’: las nueve monjas de clausura que necesitan 60.000 euros y prometen \"rezar por ti\" si ayudas",
+        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744056245_260490914_1706x960.jpg",
+        "tags": [
+            "monjas",
+            "valladolid",
+            "sociedad castilla y león",
+            "valladolid (municipio)",
+            "donaciones"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20251216/apadrina-viga-monjas-clausura-necesitan-euros-prometen-rezar-ayudas/1003744056224_0.html",
+        "date": "2025-12-16 00:43:56",
+        "sentiment_score": 0.07286840677261353
+    },
+    {
+        "title": "Sánchez postalita",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/05/16/64634836ead59.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20251216/sanchez-postalita_365695.html",
+        "date": "2025-12-16 00:30:00",
+        "sentiment_score": -0.28530025482177734
+    },
+    {
+        "title": "Las vidas (im)posibles de Cervantes",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2025/12/15/6940408b9c6b0.jpeg",
+        "tags": [
+            "en primera línea"
+        ],
+        "link": "https://www.eldebate.com/opinion/en-primera-linea/20251216/vidas-imposibles-cervantes_365676.html",
+        "date": "2025-12-16 00:30:00",
+        "sentiment_score": -0.6083606816828251
+    },
+    {
+        "title": "Kylian Mbappé se acerca al récord de goles de Cristiano Ronaldo en el Real Madrid, ‘entre unos pocos elegidos’",
+        "image_url": "https://www.elboletin.com/wp-content/uploads/2025/12/kylian-mbappe-real-madrid-goleador.jpg",
+        "tags": [
+            "eventos deportivos",
+            "hoy en la red",
+            "clubes de fútbol",
+            "jugadores",
+            "estadísticas deportivas",
+            "carreras deportivas",
+            "competencias",
+            "fútbol",
+            "kylian mbappe",
+            "cristiano ronaldo",
+            "récords"
+        ],
+        "link": "https://www.elboletin.com/mbappe-esta-punto-de-romper-la-marca-de-goles-de-cr7-record-madridista/",
+        "date": "2025-12-16 00:02:11",
+        "sentiment_score": -0.09021270275115967
+    },
+    {
+        "title": "Granadas pacíficas contra el acoso callejero",
+        "image_url": "https://s3.elespanol.com/2024/04/16/invertia/disruptores/opinion/848175310_241539305_1706x960.jpg",
+        "tags": [
+            "acoso sexual",
+            "mujeres",
+            "tecnología",
+            "opinión",
+            "innovación",
+            "columnas de opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/opinion/20251216/granadas-pacificas-acoso-callejero/1003744055309_13.html",
+        "date": "2025-12-16 01:36:19",
+        "sentiment_score": -0.38481901586055756
+    },
+    {
+        "title": "Barcelona prueba 'microhubs' inteligentes para la distribución de mercancías en hostelería",
+        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744055637_260483392_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "tecnología",
+            "wake up - sostenibilidad",
+            "logística",
+            "innovación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/cataluna/20251216/barcelona-prueba-microhubs-inteligentes-distribucion-mercancias-hosteleria/1003744055606_0.html",
+        "date": "2025-12-16 01:27:01",
+        "sentiment_score": 0.6191788502037525
+    },
+    {
+        "title": "Las diez mejores películas españolas de 2025: 'Tardes de soledad' gana en un año de ritos y ceremonias",
+        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744055503_260492770_1706x960.jpg",
+        "tags": [
+            "el cultural - lo mejor de 2025",
+            "cine español",
+            "cine",
+            "recomendaciones"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20251216/mejores-peliculas-espanolas-tardes-soledad-gana-ano-ritos-ceremonias/1003744055293_0.html",
+        "date": "2025-12-16 00:47:56",
+        "sentiment_score": -0.28087233006954193
+    },
+    {
+        "title": "“Muy optimista”: el análisis sobre el Alpine de Colapinto que ilusiona a los fanáticos de cara a la temporada 2026 de la F1",
+        "image_url": "https://www.infobae.com/resizer/v2/7F43KN7XEZFLPDPWG6GMU4HVTM.jpg?auth=50b15ea6365f2e8b99962bfdec35442979881327e55e6e6bf0bfa7cd963125c4&height=680&smart=true&width=1080",
+        "tags": [
+            "pierre gasly",
+            "fórmula 1",
+            "mercedes",
+            "alpine",
+            "deportes-argentina",
+            "franco colapinto"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/16/muy-optimista-el-analisis-sobre-el-alpine-de-colapinto-que-ilusiona-a-los-fanaticos-de-cara-a-la-temporada-2026-de-la-f1/",
+        "date": "2025-12-16 00:38:57",
+        "sentiment_score": 0.8763754749670625
+    },
+    {
+        "title": "Gabriel Masfurroll",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/15/69405788d88ff.r_d.1110-238-7500.jpeg",
+        "tags": [
+            "obituarios"
+        ],
+        "link": "https://www.eldebate.com/obituarios/20251216/humanista-entendio-valor-sanidad-privada_365720.html",
+        "date": "2025-12-16 00:30:00",
+        "sentiment_score": -0.176823228597641
+    },
+    {
+        "title": "Aldi roza los 500 supermercados en España tras abrir una treintena de tiendas en 2025",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/0a44ee0876d4192ff5052644573f8bad/crop/0x11/2015x1354/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/15/17658171137255.jpg",
+        "tags": [
+            "distribución>",
+            "alimentación>",
+            "empresas>",
+            "supermercados>",
+            "artículos nerea san esteban>"
+        ],
+        "link": "https://www.expansion.com/empresas/distribucion/2025/12/16/69403606468aeb8c7f8b45a8.html",
+        "date": "2025-12-16 00:04:11",
+        "sentiment_score": 0.6192051246762276
+    },
+    {
+        "title": "2a PARTE | 15 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-15-dic-2025-partidazo-cope-20251216_3271836.html",
+        "date": "2025-12-15 23:42:02",
+        "sentiment_score": -0.40543642826378345
+    },
+    {
+        "title": "El 'family office' de Daniel Entrecanales y Catella invierten en residencias de estudiantes",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/a9a39f8b029f290afb50bbcc9c06bfdd/crop/440x130/1802x1038/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/15/17658259625407.png",
+        "tags": [
+            "artículos rebeca arroyo>",
+            "cataluña>",
+            "inmobiliario y construcción>",
+            "empresas>",
+            "mercado inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/12/16/69405faae5fdeaac698b4579.html",
+        "date": "2025-12-15 23:41:19",
+        "sentiment_score": 0.3378986082971096
     }
 ];
