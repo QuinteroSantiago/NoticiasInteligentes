@@ -1,233 +1,5 @@
 export default [
     {
-        "title": "Los bombos y el resto de elementos del sorteo de lotería de Navidad ya están en el Teatro Real",
-        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/81eb1aaa-fd8e-4002-beec-bf43b9b3968f/main/224x126/37s834ms/match/image.jpg?pubId=85707284001",
-        "tags": [
-            "elementos",
-            "navidad",
-            "estan",
-            "resto",
-            "real",
-            "teatro",
-            "loteria",
-            "sorteo",
-            "bombos"
-        ],
-        "link": "https://www.elcomercio.es/sociedad/bombos-resto-elementos-sorteo-loteria-navidad-teatro-20251212165532-vi.html",
-        "date": "2025-12-12 17:08:03",
-        "sentiment_score": 0.09685244411230087
-    },
-    {
-        "title": "17:00H | 12 DIC 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-12-dic-2025-tarde-20251212_3270632.html",
-        "date": "2025-12-12 17:08:00",
-        "sentiment_score": -0.09493663907051086
-    },
-    {
-        "title": "(Pre) Barça, Real Madrid y Atlético cierran a domicilio el 2025 en la Liga F antes de dirimir su futuro europeo",
-        "image_url": "https://www.infobae.com/resizer/v2/YECP7HAZLNERRJVGIMNK4XXLGI.jpg?auth=c61358f475881a313eafe2323598fb5bbd3939cd93ac4387f981296240aaf364&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/12/pre-barca-real-madrid-y-atletico-cierran-a-domicilio-el-2025-en-la-liga-f-antes-de-dirimir-su-futuro-europeo/",
-        "date": "2025-12-12 17:01:10",
-        "sentiment_score": 0.061062052845954895
-    },
-    {
-        "title": "Víctor Muñoz busca su redención en Barcelona",
-        "image_url": "https://okdiario.com/img/2025/12/12/munoz.jpg",
-        "tags": [
-            "club atlético osasuna",
-            "deportes",
-            "fc barcelona",
-            "barcelona"
-        ],
-        "link": "https://okdiario.com/deportes/victor-munoz-busca-redencion-barcelona-15923380",
-        "date": "2025-12-12 17:00:50",
-        "sentiment_score": -0.5449110716581345
-    },
-    {
-        "title": "El Banco de España celebra el XXII Foro de Análisis Latinoamericano",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251212175158.jpg?fit=1280%2C1920&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/el-banco-de-espaa-celebra-el-xxii-foro-de-anlisis-latinoamericano/",
-        "date": "2025-12-12 17:00:04",
-        "sentiment_score": 0.2417164035141468
-    },
-    {
-        "title": "La Complutense restaura una pintada de 1979 en honor a Emilio Martínez y José Luis Montañés, estudiantes asesinados por la Policía",
-        "image_url": "https://static.eldiario.es/clip/69180c38-d53f-4fbc-b653-112e67a24c9c_16-9-discover-aspect-ratio_default_0_x1687y1742.jpg",
-        "tags": [
-            "montanes",
-            "emilio",
-            "martinez",
-            "luis",
-            "honor",
-            "pintada",
-            "estudiantes",
-            "restaura",
-            "complutense",
-            "policia",
-            "jose",
-            "1979",
-            "asesinados"
-        ],
-        "link": "https://www.eldiario.es/madrid/complutense-restaura-pintada-1979-honor-emilio-martinez-jose-luis-montanes-estudiantes-asesinados-policia_1_12841887.html",
-        "date": "2025-12-12 16:54:58",
-        "sentiment_score": -0.028816431760787964
-    },
-    {
-        "title": "Blanqueo de capitales: la acusación contra el propietario y el CEO de Plus Ultra",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/12114657/eefbdb9c30ee6d8901e87685f849cf46af9ec44fw.jpg",
-        "tags": [
-            "españa",
-            "blanqueo de capitales",
-            "mundo",
-            "plus ultra"
-        ],
-        "link": "https://www.elnacional.com/2025/12/la-acusacion-contra-el-propietario-y-el-ceo-de-plus-ultra/",
-        "date": "2025-12-12 16:52:46",
-        "sentiment_score": -0.7864409685134888
-    },
-    {
-        "title": "El Banco de España celebra el XXII Foro de Análisis Latinoamericano",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251212175159_260.jpg",
-        "tags": [
-            "economía finanzas"
-        ],
-        "link": "https://www.europapress.es/economia/noticia-banco-espana-celebra-xxii-foro-analisis-latinoamericano-20251212175159.html",
-        "date": "2025-12-12 16:51:59",
-        "sentiment_score": 0.35930445045232773
-    },
-    {
-        "title": "La nueva obligación que el SEPE exigirá a los parados para cobrar el subsidio a partir de 2026",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2025/12/12/sepe-subsidio-ksDE-U240539565228wN-758x531@El%20Correo.JPG",
-        "tags": [
-            "impuesto sobre la renta de las personas físicas (irpf)",
-            "trabajo",
-            "declaración de la renta",
-            "audiencias"
-        ],
-        "link": "https://www.elcorreo.com/economia/tu-economia/nueva-obligacion-sepe-exigira-parados-cobrar-subsidio-20251212174837-nt.html",
-        "date": "2025-12-12 16:48:52",
-        "sentiment_score": 0.2281142883002758
-    },
-    {
-        "title": "Elche cierra el mejor noviembre de tasa de ocupación hotelera desde que hay registros",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/92700990-fc28-447e-a284-0a471bd7bbc8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "turismo",
-            "empresas",
-            "tasa",
-            "precios",
-            "ocupación hotelera",
-            "fútbol",
-            "umh"
-        ],
-        "link": "https://www.informacion.es/elche/2025/12/12/tasa-ocupacion-hotelera-elche-turismo-124729969.html",
-        "date": "2025-12-12 16:47:09",
-        "sentiment_score": 0.18045476078987122
-    },
-    {
-        "title": "Fira de Barcelona prevé cerrar 2025 con un nuevo \"récord\" de 350 millones de ingresos, un 17% más",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/12/693c4a257bfee.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/fira-barcelona-preve-cerrar-2025-nuevo-record-350-millones-ingresos-17-20251212_3270630.html",
-        "date": "2025-12-12 17:10:25",
-        "sentiment_score": -0.060334086418151855
-    },
-    {
-        "title": "Sàmper desmiente \"con contundencia\" que se haya firmado con la F1 para después de 2026",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251212180949_120.jpg",
-        "tags": [
-            "catalunya",
-            "fira de barcelona"
-        ],
-        "link": "https://www.europapress.es/catalunya/firadebarcelona-00630/noticia-samper-desmiente-contundencia-haya-firmado-f1-despues-2026-20251212180949.html",
-        "date": "2025-12-12 17:09:49",
-        "sentiment_score": -0.3453792445361614
-    },
-    {
-        "title": "Vlahovic se ofrece al Barcelona",
-        "image_url": "https://okdiario.com/img/2025/12/12/vlahovic-se-ofrece-al-barcelona-interior.jpg",
-        "tags": [
-            "fútbol club barcelona",
-            "deportes",
-            "barcelona"
-        ],
-        "link": "https://okdiario.com/deportes/vlahovic-ofrece-barcelona-15900588",
-        "date": "2025-12-12 17:07:31",
-        "sentiment_score": -0.01653246581554413
-    },
-    {
-        "title": "El Barcelona Open Conde de Godó busca la estela de los Masters 1000",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/12/693c47e1aee89.r_d.649-58-3583.jpeg",
-        "tags": [
-            "esports cope"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/barcelona-open-conde-godo-busca-estela-masters-1000-20251212_3270621.html",
-        "date": "2025-12-12 17:07:01",
-        "sentiment_score": -0.004612475633621216
-    },
-    {
-        "title": "Lápiz y tinta en Mid Century Tattoo",
-        "image_url": "https://www.eldiadevalladolid.com/media/img/2025/518ec3ba-0cd0-4187-99b1afd29288d9d3.jpeg",
-        "tags": [
-            "valladolid",
-            "círculo de bellas artes",
-            "novela",
-            "barcelona",
-            "exposiciones",
-            "madrid",
-            "jesús martín"
-        ],
-        "link": "https://www.eldiadevalladolid.com/noticia/z7312bde9-533c-4427-959f07509cb40e38/202512/lapiz-y-tinta-en-mid-century-tattoo",
-        "date": "2025-12-12 17:03:23",
-        "sentiment_score": 0.17108269408345222
-    },
-    {
-        "title": "Entregados los galardones de la tercera edición del Concurso Literario de la Fundación Los Maestros",
-        "image_url": "https://www.liberaldecastilla.com/wp-content/uploads/2025/12/FOTO-PRINCIPAL-DEL-CERTAMEN-CON-DIEGO-YUSTE-JOSE-MIGUEL-Y-LOS-GANADORES-DEL-CERTAMEN.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://informacioncuenca.com/entregados-los-galardones-de-la-tercera-edicion-del-concurso-literario-de-la-fundacion-los-maestros",
-        "date": "2025-12-12 17:02:48",
-        "sentiment_score": 0.44459443539381027
-    },
-    {
-        "title": "(Pre) El Espanyol defiende su momento en Getafe y el Elche quiere aprovechar las dudas del Mallorca",
-        "image_url": "https://www.infobae.com/resizer/v2/I33LEH7F3BHOZKEYZPKNHOPDJE.jpg?auth=ba14533380c567252adbbcf38942225831cecd8fcf5f9c679af76de198865b6c&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/12/pre-el-espanyol-defiende-su-momento-en-getafe-y-el-elche-quiere-aprovechar-las-dudas-del-mallorca/",
-        "date": "2025-12-12 17:01:28",
-        "sentiment_score": -0.6486213691532612
-    },
-    {
-        "title": "Los vigilantes de metro de Barcelona preparan paros en Nochebuena, Navidad, Nochevieja y Año Nuevo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dbbfc87f-3920-43b9-abaa-7b8042a1d1f5_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "metro de barcelona",
-            "transporte público",
-            "tmb - transportes metropolitanos de barcelona",
-            "metro",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20251212/barcelona-metro-navidad-nochebuena-nochevieja-horarios-paros-vigilantes-124732035",
-        "date": "2025-12-12 17:00:53",
-        "sentiment_score": -0.44437824934720993
-    },
-    {
         "title": "Dendoncker, el fichaje consolidado del Real Oviedo",
         "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/12/209062958-kQCB--1200x840@El%20Comercio.jpg",
         "tags": [
@@ -3188,5 +2960,171 @@ export default [
         "link": "https://www.expansion.com/inmobiliario/mercado/2025/12/16/69405faae5fdeaac698b4579.html",
         "date": "2025-12-15 23:41:19",
         "sentiment_score": 0.3378986082971096
+    },
+    {
+        "title": "El Atlético se acerca a los 200 millones por un fichaje que ya estaba firmado",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/24/2025062414072582713.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/atletico-acerca-200-millones-fichaje-que-estaba-firmado/20251216073822367081.html",
+        "date": "2025-12-16 06:38:22",
+        "sentiment_score": -0.765638891607523
+    },
+    {
+        "title": "Castilla-La Mancha supera los 22000 festejos en 15 años y logra máximos de asistencia",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/16/6940fb5d885d4.r_d.511-527-4199.jpeg",
+        "tags": [
+            "toros"
+        ],
+        "link": "https://www.cope.es/actualidad/toros/noticias/castilla-mancha-supera-22-000-festejos-15-anos-alcanza-maximos-asistencia-pandemia-20251216_3271873.html",
+        "date": "2025-12-16 06:35:03",
+        "sentiment_score": 0.07856455445289612
+    },
+    {
+        "title": "Así es la programación navideña de Canal Sur, con Toñi Moreno en las campanadas",
+        "image_url": "https://static.grupojoly.com/clip/fb28849c-7c3c-4b60-8d6d-345e799d5d8d_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "toni",
+            "sur",
+            "navidena",
+            "programacion",
+            "canal"
+        ],
+        "link": "https://www.granadahoy.com/television/programacion-navidena-canal-sur-toni_0_2005466806.html",
+        "date": "2025-12-16 06:31:00",
+        "sentiment_score": -0.3022118955850601
+    },
+    {
+        "title": "Xabi Alonso sigue en el alambre y Florentino ya contempla un relevo interno",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/19/2025031920243562227.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/xabi-alonso-sigue-alambre-florentino-contempla-relevo-interno/20251216072658367079.html",
+        "date": "2025-12-16 06:26:58",
+        "sentiment_score": -0.10450661182403564
+    },
+    {
+        "title": "El padre del hijo de la novia",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/12/padre-hijo-novia-750x500.jpg",
+        "tags": [
+            "opinión",
+            "colaboraciones"
+        ],
+        "link": "https://elfarodeceuta.es/padre-hijo-novia/",
+        "date": "2025-12-16 06:20:09",
+        "sentiment_score": -0.7320544868707657
+    },
+    {
+        "title": "Zapatero se reunió con la SEPI y Escrivá durante el rescate de Plus Ultra, según la UCO",
+        "image_url": "https://s1.staticld.com/2025/12/16/rodriguez-zapatero-04122025.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/espana/2025-12-16/zapatero-se-reunio-con-la-sepi-y-escriva-durante-el-rescate-de-plus-ultra-segun-la-uco-7334105/",
+        "date": "2025-12-16 06:14:24",
+        "sentiment_score": -0.2739822193980217
+    },
+    {
+        "title": "Albert vive en Girona y trabaja en Barcelona: \"No puedo destinar el 95% de mi sueldo a pagar un alquiler\"",
+        "image_url": "https://s3.elespanol.com/2025/12/11/sociedad/1003744051423_260429176_1706x960.jpg",
+        "tags": [
+            "barcelona",
+            "soft",
+            "sociedad",
+            "vivienda"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251216/albert-vive-girona-trabaja-barcelona-no-puedo-destinar-sueldo-pagar-alquiler/1003744051223_0.html",
+        "date": "2025-12-16 06:39:07",
+        "sentiment_score": 0.05543571710586548
+    },
+    {
+        "title": "Después de Gaza, África 50: Franco Berardi “Bifo” y René Vautier",
+        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/5f6eabda/afrique50-image2.jpg?v=63933071731",
+        "tags": [
+            "colonialismo",
+            "áfrica",
+            "actualidad"
+        ],
+        "link": "https://www.elsaltodiario.com/palestina/despues-gaza-africa-50-franco-berardi-bifo-rene-vautier",
+        "date": "2025-12-16 06:28:00",
+        "sentiment_score": -0.21188120543956757
+    },
+    {
+        "title": "De \"Error García\" a indiscutible: la increíble transformación de Eric García en el Barça",
+        "image_url": "https://www.elplural.com/uploads/s1/21/21/91/9/la-increible-transformacion-de-eric-garcia-en-el-barca-ep_7_480x270.jpeg",
+        "tags": [
+            "el regate"
+        ],
+        "link": "https://www.elplural.com/el-regate/error-garcia-indiscutible-increible-transformacion-eric-garcia-barca_367515102",
+        "date": "2025-12-16 06:23:24",
+        "sentiment_score": -0.056178539991378784
+    },
+    {
+        "title": "Lo que debes saber hoy, 16 de diciembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/03/03/vivir-en-barcelona/928417197_14199573_1706x960.png",
+        "tags": [
+            "tráfico",
+            "gran barcelona",
+            "coches",
+            "metro barcelona",
+            "clima",
+            "rodalies",
+            "autobús",
+            "transporte",
+            "renfe barcelona",
+            "transports metropolitans barcelona tmb"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251216/debes-saber-hoy-diciembre-barcelona/1003742716368_0.html",
+        "date": "2025-12-16 06:20:32",
+        "sentiment_score": -0.870185000821948
+    },
+    {
+        "title": "Una comensal se despista e intenta salir de 'First Dates' por el armario: \"Es que me quiero quedar\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/16/6940a872717d92-19340371.r_d.549-269.jpeg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.20minutos.es/television/una-comensal-se-despista-intenta-salir-first-dates-por-armario-es-que-me-quiero-quedar_6910950_0.html",
+        "date": "2025-12-16 06:14:34",
+        "sentiment_score": -0.6904592541977763
+    },
+    {
+        "title": "Florentino insiste por Navidad: \"El caso Negreira es el escándalo más grande de la hsitoria del fútbol\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5123c2f-565e-4ce6-94dd-10f22e8b1c60_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid",
+            "caso negreira",
+            "florentino pérez",
+            "fc barcelona"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/deportes/2025/12/16/programada-florentino-insiste-navidad-caso-124826333.html",
+        "date": "2025-12-16 06:12:35",
+        "sentiment_score": -0.13422485440969467
+    },
+    {
+        "title": "La posible alineación titular del Barcelona para enfrentarse al Guadalajara",
+        "image_url": "https://recentlyheard.com/wp-content/uploads/2025/12/1765865321_La-posible-alineacion-titular-del-Barcelona-para-enfrentarse-al-Guadalajara.jpg",
+        "tags": [
+            "news"
+        ],
+        "link": "https://recentlyheard.com/la-posible-alineacion-titular-del-barcelona-para-enfrentarse-al-guadalajara/",
+        "date": "2025-12-16 06:08:41",
+        "sentiment_score": 0.046037085354328156
+    },
+    {
+        "title": "Ruggero Mughini, presidente de Iveco España en sustitución de Ángel R. Lagunilla",
+        "image_url": "https://static.grupojoly.com/clip/899de67c-07ef-4c4f-b18b-51884e0dffd9_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "espana",
+            "presidente",
+            "mughini",
+            "iveco",
+            "ruggero"
+        ],
+        "link": "https://www.diariodejerez.es/motor/ruggero-mughini-presidente-iveco-espana_0_2005466769.html",
+        "date": "2025-12-16 06:01:01",
+        "sentiment_score": 0.34233374893665314
     }
 ];
