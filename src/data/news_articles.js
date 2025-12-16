@@ -1,172 +1,5 @@
 export default [
     {
-        "title": "Madrid confirma cuatro nuevos focos de gripe aviar tras la muerte de cientos de cigüeñas",
-        "image_url": "https://images.ecestaticos.com/PsD3zYiy4-Hn5mdG2zAatvyrGAc=/0x0:2272x1513/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F4b1%2F027%2F7a1%2F4b10277a1b48c77c4a5d17ecd15f740a.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.elconfidencial.com/espana/madrid/2025-12-12/gripe-aviar-madrid-aves-silvestres-1tps_4264854/",
-        "date": "2025-12-12 06:42:00",
-        "sentiment_score": 0.12506327778100967
-    },
-    {
-        "title": "Del clamor del Acuerdo de París al fracaso del 'mutirão' de Belém: 2025 marca 10 años de victorias y desencuentros climáticos",
-        "image_url": "https://s3.elespanol.com/2021/08/24/enclave-ods/606699910_201202098_1706x960.jpg",
-        "tags": [
-            "cop30",
-            "historias",
-            "cop21",
-            "agenda 2030"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/historias/20251212/clamor-acuerdo-paris-fracaso-mutirao-belem-marca-anos-victorias-desencuentros-climaticos/1003744049223_0.html",
-        "date": "2025-12-12 06:30:00",
-        "sentiment_score": -0.9072903161868453
-    },
-    {
-        "title": "De su novia Ainhoa al libro del Emérito: lo que se ha olvidado Urdangarin en su primera entrevista",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/urdanga-infant-dos.jpeg",
-        "tags": [
-            "casa real española",
-            "iñaki urdangarin",
-            "rey juan carlos",
-            "familia real española",
-            "celebrities",
-            "gente"
-        ],
-        "link": "https://theobjective.com/gente/2025-12-12/ainhoa-libro-emerito-olvidado-urdangarin-entrevista/",
-        "date": "2025-12-12 06:30:00",
-        "sentiment_score": 0.5509465858340263
-    },
-    {
-        "title": "Un taller de biodiversidad en Madrid o una plantación de árboles en Cantabria: estos son los planes ODS de la semana",
-        "image_url": "https://s3.elespanol.com/2024/12/12/actualidad/908169204_251610049_1706x960.jpg",
-        "tags": [
-            "planes",
-            "ods (objetivos de desarrollo sostenible)",
-            "semanales"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/semanales/20251212/taller-biodiversidad-madrid-plantacion-arboles-cantabria-planes-ods-semana/1003744049983_0.html",
-        "date": "2025-12-12 06:20:00",
-        "sentiment_score": 0.8134340811520815
-    },
-    {
-        "title": "La UCO pone el foco en el patrimonio de Vicente Fernández y en los ingresos en su bar de Sevilla tras salir de la SEPI",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f2d8fbb-cfab-4d23-9130-89a9c44cde34_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "la cartuja,psoe,sepi"
-        ],
-        "link": "https://www.laopiniondezamora.es/nacional/2025/12/12/uco-pone-foco-patrimonio-vicente-fernandez-ingresos-bar-sevilla-sepi-124705281.html",
-        "date": "2025-12-12 06:19:10",
-        "sentiment_score": -0.28820283710956573
-    },
-    {
-        "title": "La interrupción de la circulación de trenes entre Granollers Centre y Mollet Sant Fost desde primera hora impide a los usuarios seguir su viaje a Barcelona en hora punta",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/27fadad7-9d1b-460c-837f-0a464b64db32_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "granollers",
-            "hora punta",
-            "renfe",
-            "trenes",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20251212/interrupcion-circulacion-trenes-granollers-centre-124706237",
-        "date": "2025-12-12 06:38:36",
-        "sentiment_score": -0.8085192143917084
-    },
-    {
-        "title": "Un niño pide un olivo a los Reyes Magos para fundar el equipo de fútbol de su pueblo",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/12/693bb0ad326c6.r_d.460-185-4778.jpeg",
-        "tags": [
-            "aragón"
-        ],
-        "link": "https://www.cope.es/emisoras/aragon/noticias/nino-pide-olivo-reyes-magos-fundar-equipo-futbol-pueblo-20251212_3269864.html",
-        "date": "2025-12-12 06:31:53",
-        "sentiment_score": 0.0760340690612793
-    },
-    {
-        "title": "El precio de la gasolina en Madrid, Barcelona y otras ciudades de España para hoy",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "gasolina",
-            "españa-economia",
-            "precio gasolina",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/12/el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-de-espana-para-hoy/",
-        "date": "2025-12-12 06:30:40",
-        "sentiment_score": -0.0036076977849006653
-    },
-    {
-        "title": "Cuerdas de escalada que son raíces",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/757a8b3b-e165-47f3-98fe-fb57a4bd4390_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "son",
-            "cuerdas",
-            "escalada",
-            "raices"
-        ],
-        "link": "https://www.deia.eus/otros-deportes/2025/12/12/cuerdas-escalada-son-raices-10461866.html",
-        "date": "2025-12-12 06:21:03",
-        "sentiment_score": -0.04626736044883728
-    },
-    {
-        "title": "Volver a casa por Navidad: un 22% de los barceloneses declara llegar al final del periodo agotado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9506a75a-7cdb-4a31-8e97-a76d7fbabe71_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navidad",
-            "bc",
-            "psicología"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251212/volver-casa-navidad-genera-estres-124705198",
-        "date": "2025-12-12 06:17:14",
-        "sentiment_score": -0.1903834193944931
-    },
-    {
-        "title": "Lo que se perdió Richard Gere en la feria de Guadalajara",
-        "image_url": "https://static1.ara.cat/clip/0fa65e06-6738-4c38-8257-dad7ef60421b_16-9-aspect-ratio_default_0_x477y316.jpg",
-        "tags": [
-            "richard",
-            "feria",
-            "guadalajara",
-            "perdio",
-            "gere"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/perdio-richard-gere-feria-guadalajara_129_5589858.html",
-        "date": "2025-12-12 06:16:03",
-        "sentiment_score": -0.11059853434562683
-    },
-    {
-        "title": "Tres buenos escritores catalanes que rehuyen la fama",
-        "image_url": "https://static1.ara.cat/clip/16ced904-52c1-4db0-8fa5-1cadfc0ea1a3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fama",
-            "escritores",
-            "tres",
-            "rehuyen",
-            "catalanes",
-            "buenos"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/tres-buenos-escritores-catalanes-rehuyen-fama_129_5589854.html",
-        "date": "2025-12-12 06:15:58",
-        "sentiment_score": -0.2554401010274887
-    },
-    {
-        "title": "Cinco beneficios del pádel para la salud",
-        "image_url": "https://efesalud.com/wp-content/uploads/2025/12/padel-quironsalud-torneo.webp",
-        "tags": [
-            "cardiosaludable",
-            "beneficios",
-            "prevención",
-            "deporte",
-            "salud y prevención",
-            "noticias principales"
-        ],
-        "link": "https://efesalud.com/padel-beneficios-salud-quironsalud/",
-        "date": "2025-12-12 06:13:00",
-        "sentiment_score": 0.6954927518963814
-    },
-    {
         "title": "De la clandestinidad a la salida de película desde Venezuela: lo que vivió María Corina Machado y lo que sigue ahora",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/8fb0bf35a97b5f562b142a6e6a5f30c4d81e044ew.jpg",
         "tags": [
@@ -2958,5 +2791,198 @@ export default [
         "link": "https://www.infosalus.com/asistencia/noticia-personas-trastorno-salud-mental-acuden-casi-doble-medico-estudio-20251215180410.html",
         "date": "2025-12-15 17:04:10",
         "sentiment_score": -0.019587524235248566
+    },
+    {
+        "title": "Las cuatro claves del triunfo de José Antonio Kast en Chile",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Screenshot_85.jpg",
+        "tags": [
+            "chile",
+            "josé antonio kast",
+            "internacionales",
+            "actualidad"
+        ],
+        "link": "https://lapatilla.com/2025/12/15/las-cuatro-claves-del-triunfo-de-jose-antonio-kast-en-chile/",
+        "date": "2025-12-15 10:22:47",
+        "sentiment_score": 0.6518086977303028
+    },
+    {
+        "title": "Resultados, clasificación y resúmenes acabada la Jornada 16 de LaLiga EA Sports 25-26",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/laliga-ea-sports-25-26-jornada-16-lunes-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/da-16-resultados-resumen-clasificacion-partidos-getafe-espanyol-lunes-ceses-entrenadores-real-oviedo-real-sociedad/",
+        "date": "2025-12-15 22:14:11",
+        "sentiment_score": -0.18078851699829102
+    },
+    {
+        "title": "Ayuso y Feijóo hacen gala de los valores cristianos del PP en su cena: \"No hay que pedir perdón por ser católico\"",
+        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744056763_260497428_1706x960.jpg",
+        "tags": [
+            "partido popular (pp)",
+            "pp madrid",
+            "política"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251215/ayuso-feijoo-hacen-gala-valores-cristianos-pp-cena-no-pedir-perdon-catolico/1003744056731_0.html",
+        "date": "2025-12-15 22:07:07",
+        "sentiment_score": -0.04805278778076172
+    },
+    {
+        "title": "Ni siquiera ganar el Gordo garantiza la vivienda: los municipios donde el premio ya no es suficiente para comprar una casa",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
+        "tags": [
+            "artículos elsa martín",
+            "artículos daniela saltos",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/12/15/69273ffae85eceb93b8b4580.html",
+        "date": "2025-12-15 21:55:47",
+        "sentiment_score": -0.9005665900185704
+    },
+    {
+        "title": "Tebas contesta a Florentino por sus palabras sobre el caso Negreira: \"No es indignación: es teatro\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2024/09/11/image-a6b2b661-d01a-4c57-add0-7cd134dd2f62-85-2560-1440.jpeg",
+        "tags": [
+            "la liga 2025-2026",
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/respuesta-sin-piedad-tebas-florentino-caso-negreira-pagos-fc-barcelona_sto23251019/story.shtml",
+        "date": "2025-12-15 21:46:57",
+        "sentiment_score": -0.20552513003349304
+    },
+    {
+        "title": "Tras la llegada de Reguilón y la renovación de De Paul: el Dream Team que proyecta el Inter Miami de Messi para 2026",
+        "image_url": "https://www.infobae.com/resizer/v2/7BQOSTNHTRDJHLAWCSLXNY7AWA.jpg?auth=cec5821c7942604bd35075d3a0f00a617f7dd9596fb66e384b2838b26ea94080&height=1080&smart=true&width=1920",
+        "tags": [
+            "mls",
+            "lionel messi",
+            "inter miami",
+            "deportes-argentina",
+            "deportes-internacional",
+            "sergio reguilón"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/15/tras-la-llegada-de-reguilon-y-la-renovacion-de-de-paul-el-dream-team-que-proyecta-el-inter-miami-de-messi-para-2026/",
+        "date": "2025-12-15 21:40:37",
+        "sentiment_score": 0.36869452707469463
+    },
+    {
+        "title": "Tebas contesta a Florentino: \"LaLiga respeta los procesos y no construye relatos\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/23/6922f94807cfd.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tebas-contesta-florentino-laliga-respeta-procesos-actua-construye-relatos-20251215_3271815.html",
+        "date": "2025-12-15 21:26:41",
+        "sentiment_score": -0.18466083705425262
+    },
+    {
+        "title": "ONG Conciencia es Dignidad denuncia ante la CPI a diputados del régimen venezolano por \"delito de obstrucción a la justicia\" al aprobar intento derogación del Estatuto de Roma",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/09102425/afp-cpi-1-1.jpg",
+        "tags": [
+            "política",
+            "venezuela",
+            "cpi",
+            "estatuto de roma"
+        ],
+        "link": "https://www.elnacional.com/2025/12/ong-conciencia-es-dignidad-denuncia-ante-la-cpi-a-diputados-del-regimen-venezolano-por-delito-de-obstruccion-a-la-justicia-al-aprobar-intento-derogacion-del-estatuto-de-roma/",
+        "date": "2025-12-15 21:09:07",
+        "sentiment_score": -0.3338128924369812
+    },
+    {
+        "title": "Los efectos de la vaguada en Extremadura: un martes cargado de lluvia y temperaturas mínimas de 4 grados",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3682d551-e056-413b-a1e6-643e13e61b51_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "temperaturas",
+            "previsión meteorológica",
+            "lluvia"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/15/efectos-vaguada-extremadura-martes-cargado-124821748.html",
+        "date": "2025-12-15 20:47:01",
+        "sentiment_score": -0.8160772603005171
+    },
+    {
+        "title": "Juegos de la semana 10 y 11 en vivo y gratis para Venezuela del baloncesto español",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1765832742054.jpg?ch=675&cw=1200",
+        "tags": [
+            "meridianotv",
+            "basket",
+            "venezuela"
+        ],
+        "link": "https://2001online.com/deportes/juegos-de-la-semana-10-y-11-en-vivo-y-gratis-para-venezuela-del-baloncesto-espanol-2025121516470",
+        "date": "2025-12-15 20:47:00",
+        "sentiment_score": 0.7013275381177664
+    },
+    {
+        "title": "Cancelados los vuelos entre Barcelona y Badajoz de este lunes por «razones técnicas»",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/12/15/aeropuerto_badajoz-kZ0D-U1705980-kriC-U240567960292vi-1200x840@Hoy.jpg",
+        "tags": [
+            "extremadura",
+            "aeropuerto de badajoz",
+            "badajoz"
+        ],
+        "link": "https://www.hoy.es/badajoz/cancelados-vuelos-barcelona-badajoz-lunes-razones-tecnicas-20251215230858-nt.html",
+        "date": "2025-12-15 22:08:58",
+        "sentiment_score": 0.06515037640929222
+    },
+    {
+        "title": "El chef de los cinco millones de seguidores que ocultó durante una década su raro trastorno: \"Me pasaba horas grabando y regrabando para que no se me notara\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/796276b32b31a172538a1885c062bd86/f/image/jpeg/assets/multimedia/imagenes/2023/02/13/16763014917691.jpg",
+        "tags": [
+            "artículos rebeca yanke",
+            "neurología",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/papel/historias/2025/12/15/694034d1e4d4d82d198b458a.html",
+        "date": "2025-12-15 21:54:40",
+        "sentiment_score": -0.6591688096523285
+    },
+    {
+        "title": "Una mujer encuentra un bolso de mano en la calle en Barcelona, lo lleva a la Policía y no se creen lo que había: \"Con el nombre escrito\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/16/68f0b49d9cf78.jpeg",
+        "tags": [
+            "lotería de navidad"
+        ],
+        "link": "https://www.cope.es/actualidad/vivir/loteria-de-navidad/noticias/mujer-encuentra-bolso-mano-calle-barcelona-lleva-policia-creen-habia-nombre-escrito-20251215_3271806.html",
+        "date": "2025-12-15 21:30:21",
+        "sentiment_score": -0.07298171520233154
+    },
+    {
+        "title": "Cuatro detenidos en Barcelona después de que un pasajero se ahogara en un taxi con una cadena de oro robada",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/05/26/6834523707e8f.r_d.1868-1463-1918.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20251215/11366267/cuatro-detenidos-barcelona-pasajero-ahogara-cadena-oro-robada-taxi.html",
+        "date": "2025-12-15 21:28:34",
+        "sentiment_score": -0.14783522486686707
+    },
+    {
+        "title": "Nacho Fresneda, sobre la política: \"Cuando el lugar de la palabra lo ocupa el insulto, en la calle se genera violencia\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/02/actualidad/1003742712778_15471644_1706x960.jpg",
+        "tags": [
+            "cineastas",
+            "cine",
+            "actores y actrices",
+            "creación",
+            "goya",
+            "películas",
+            "entrevistas"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/creacion/20251215/nacho-fresneda-politica-palabra-insulto-genera-violencia-trt/1003742716349_0.html",
+        "date": "2025-12-15 21:17:09",
+        "sentiment_score": -0.2862551063299179
+    },
+    {
+        "title": "La masía rodeada de naturaleza perfecta para ir de ‘calçotada’ este invierno: a 20 minutos de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/08/17/vivir-en-barcelona/1003742682096_15023397_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "gastronomía",
+            "sant cugat",
+            "gastro"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gastro/20251215/masia-rodeada-naturaleza-perfecta-ir-calcotada-invierno-minutos-barcelona/1003742716326_0.html",
+        "date": "2025-12-15 21:13:04",
+        "sentiment_score": 0.4376419298350811
     }
 ];
