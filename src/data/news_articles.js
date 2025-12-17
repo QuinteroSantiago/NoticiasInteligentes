@@ -1,135 +1,5 @@
 export default [
     {
-        "title": "El técnico del Guadalajara antes de medirse al Barça: «Me pierdo la infancia de mis hijas por cuatro pesetas»",
-        "image_url": "https://okdiario.com/img/2025/12/11/imagen_recortada-1-1.jpg",
-        "tags": [
-            "deportes",
-            "fc barcelona",
-            "copa del rey",
-            "barcelona"
-        ],
-        "link": "https://okdiario.com/deportes/tecnico-del-guadalajara-antes-medirse-barca-pierdo-infancia-mis-hijas-cuatro-pesetas-15930109",
-        "date": "2025-12-13 17:04:14",
-        "sentiment_score": -0.572195790708065
-    },
-    {
-        "title": "Barcelona – Osasuna, en directo hoy | Alineaciones, dónde ver online gratis y última hora del partido de Liga",
-        "image_url": "https://okdiario.com/img/2025/12/13/befunky-collage.jpg",
-        "tags": [
-            "directo",
-            "barcelona",
-            "la liga",
-            "deportes",
-            "club atlético osasuna",
-            "fc barcelona",
-            "fútbol"
-        ],
-        "link": "https://okdiario.com/deportes/barcelona-osasuna-directo-hoy-alineaciones-donde-ver-online-gratis-ultima-hora-del-partido-liga-15929431",
-        "date": "2025-12-13 17:02:19",
-        "sentiment_score": 0.4088451601564884
-    },
-    {
-        "title": "Raphinha sostiene el ritmo de líder del Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4cd0d579-68ef-4e18-86aa-f6ccf0e7d319_16-9-aspect-ratio_default_1421679.jpg",
-        "tags": [
-            "fc barcelona",
-            "atlético osasuna",
-            "fútbol",
-            "laliga"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/12/13/laliga-barcelona-osasuna-raphinha-124756056.html",
-        "date": "2025-12-13 17:00:39",
-        "sentiment_score": 0.7964537590742111
-    },
-    {
-        "title": "Xabi Alonso ya habla de su posible sustituto en el banquillo: \"Está haciendo las cosas muy bien\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(833x653:835x651)/origin-imgresizer.eurosport.com/2025/12/13/image-11ce0459-68bc-41af-a508-986df495f332-85-2560-1440.jpeg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/xabi-alonso-arbeloa-posible-sustituto-banquillo-real-madrid-esta-haciendo-las-cosas-muy-bien_vid60041847/video.shtml",
-        "date": "2025-12-13 16:59:13",
-        "sentiment_score": -0.43818314373493195
-    },
-    {
-        "title": "Griezmann anota como suplente en la victoria 2-1 del Atlético de Madrid ante Valencia",
-        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "tags": [
-            "sports",
-            "deportes",
-            "la liga espanola atletico madrid barcelona"
-        ],
-        "link": "https://apnews.com/article/la-liga-espanola-atletico-madrid-barcelona-bce6977515be9d2d40184c93b7b98b56",
-        "date": "2025-12-13 16:57:11",
-        "sentiment_score": 0.5457661412656307
-    },
-    {
-        "title": "Griezmann anota como suplente en la victoria 2-1 del Atlético de Madrid ante Valencia",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2025/12/13/griezmann-anota-como-suplente-en-la-victoria-2-1-del-atltico-de-madrid-ante-valencia/",
-        "date": "2025-12-13 16:57:10",
-        "sentiment_score": 0.2560077905654907
-    },
-    {
-        "title": "Raphinha anota dos en la victoria del Barcelona para ampliar su ventaja en La Liga",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2025/12/ESPA209A-LIGA_31344.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2025/12/13/raphinha-anota-dos-en-la-victoria-del-barcelona-para-ampliar-su-ventaja-en-la-liga/",
-        "date": "2025-12-13 16:57:10",
-        "sentiment_score": 0.47455547004938126
-    },
-    {
-        "title": "Pogacar no se obsesiona con el quinto Tour: “Prefiero ganar la Roubaix”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/13/693d9d6ac2802.r_d.1601-1411-1325.jpeg",
-        "tags": [
-            "ciclismo"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/ciclismo/20251213/11360436/pogacar-obsesiona-quinto-tour-prefiero-ganar-roubaix.html",
-        "date": "2025-12-13 17:09:09",
-        "sentiment_score": 0.44896451383829117
-    },
-    {
-        "title": "Al menos 8 heridos, varios graves, tras el incendio originado en un bloque de pisos",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/06/01/2025060113244693776.jpg",
-        "tags": [
-            "viral"
-        ],
-        "link": "https://www.clm24.es/articulo/viral/menos-ocho-heridos-varios-graves-incendio-originado-bloque-pisos/20251213180455466155.html",
-        "date": "2025-12-13 17:04:55",
-        "sentiment_score": -0.7945776358246803
-    },
-    {
-        "title": "Muere Gabriel Masfurroll Lacambra, expresidente del FC Barcelona y su Fundación",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1301x277:1303x275)/origin-imgresizer.eurosport.com/2025/12/13/image-f4173362-8d14-49ec-912e-9a491cf886e1-85-2560-1440.jpeg",
-        "tags": [
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/muere-expresidente-del-fc-barcelona-gabriel-masfurroll-lacambra-hoy_sto23250341/story.shtml",
-        "date": "2025-12-13 17:02:37",
-        "sentiment_score": -0.8985065696761012
-    },
-    {
-        "title": "Detenido un joven por atropellar a tres ciclistas en Vilanova i la Geltrú (Barcelona), uno de ellos en estado crítico",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/HF74EXIQCZBBFMLAHGRLGEV67Y.jpg?auth=14961f0b6059abff7fb2c16129398fcfc375831fd38cc4803109eb5d0e707bd9&width=1200",
-        "tags": [
-            "carreteras",
-            "sucesos",
-            "tráfico",
-            "accidentes",
-            "ciclistas",
-            "cataluña"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-12-13/detenido-un-joven-por-atropellar-a-tres-ciclistas-en-vilanova-i-la-geltru-barcelona-uno-de-ellos-en-estado-critico.html",
-        "date": "2025-12-13 17:00:58",
-        "sentiment_score": -0.7511391509324312
-    },
-    {
         "title": "Hansi Flick mejora el rendimiento del Barça con mano dura: más meritocracia y menos 'vacas sagradas'",
         "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/13/culemania/primer-equipo/1003742715902_15510191_1706x960.jpg",
         "tags": [
@@ -3008,5 +2878,86 @@ export default [
         "link": "https://www.elespanol.com/invertia/disruptores/autonomias/galicia/20251217/factoria-gallega-ia-hito-cesga-momento-emocionante-retador-pone-nivel/1003744057368_0.html",
         "date": "2025-12-17 00:34:00",
         "sentiment_score": -0.3582821413874626
+    },
+    {
+        "title": "El 'papa' de Novales ya está en Madrid",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/12/16/Imagen%20loteria_1.jpg",
+        "tags": [
+            "whatsapp",
+            "lotería de navidad",
+            "madrid (ciudad)",
+            "novales",
+            "navidad",
+            "papa"
+        ],
+        "link": "https://www.eldiariomontanes.es/cantabria/papa-novales-madrid-20251217071140-nt.html",
+        "date": "2025-12-17 06:25:05",
+        "sentiment_score": -0.5403139777481556
+    },
+    {
+        "title": "Un error judicial impidió a la jueza interrogar a Plus Ultra por el rescate de 53 millones",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e1dae5d5-7c12-47ba-a5c1-5dc4d49ebed2_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fiscalia",
+            "venezuela",
+            "fiscalía anticorrupción",
+            "anticorrupción"
+        ],
+        "link": "https://www.elcorreogallego.es/espana/2025/12/17/error-judicial-impidio-jueza-imputar-124871575.html",
+        "date": "2025-12-17 06:18:21",
+        "sentiment_score": -0.3918330445885658
+    },
+    {
+        "title": "Statu quo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "quo",
+            "statu"
+        ],
+        "link": "https://www.deia.eus/opinion/tribuna-abierta/2025/12/17/statu-quo-10481098.html",
+        "date": "2025-12-17 06:15:26",
+        "sentiment_score": 0.14940864592790604
+    },
+    {
+        "title": "Las lluvias causan inundaciones en Badalona y cortes en el metro de Barcelona: hoy hay alerta naranja en Valencia",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/17/captura-de-un-video-que-muestra-inundaciones-en-el-metro-de-barcelona-el-16-de-diciembre-de-2025.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/las-lluvias-causan-inundaciones-badalona-cortes-metro-barcelona-hoy-hay-alerta-naranja-valenciabr-f202512.html",
+        "date": "2025-12-17 06:33:28",
+        "sentiment_score": -0.809925738722086
+    },
+    {
+        "title": "La aporofobia crece un 33% por la subida del sinhogarismo: la mayoría de agresores son hombres de 18 a 35 años",
+        "image_url": "https://s3.elespanol.com/2021/10/07/enclave-ods/historias/617699648_211000541_1706x960.jpg",
+        "tags": [
+            "sinhogarismo",
+            "objetivo 3: salud y bienestar",
+            "objetivo 1: fin de la pobreza",
+            "historias",
+            "objetivo 10: reducción de las desigualdades",
+            "pobreza"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20251217/aporofobia-crece-subida-sinhogarismo-mayoria-agresores-hombres-anos/1003744057076_0.html",
+        "date": "2025-12-17 06:30:00",
+        "sentiment_score": -0.8963865665718913
+    },
+    {
+        "title": "La fiscalía pide 4 años y medio de cárcel para el yihadista que la emprendió a hachazos contra un McDonald's de Badalona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/33450bf2-ab55-492b-a514-9f14329adfdb_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "badalona",
+            "terrorismo yihadista",
+            "audiencia nacional",
+            "terrorismo",
+            "atentados terroristas",
+            "yihadismo",
+            "terrorismo islámico",
+            "fiscalía de la audiencia nacional"
+        ],
+        "link": "https://www.laopiniondemalaga.es/nacional/2025/12/17/fiscalia-pide-4-anos-medio-hachazos-yihadista-comida-rapida-badalona-124871754.html",
+        "date": "2025-12-17 06:24:55",
+        "sentiment_score": -0.871046407148242
     }
 ];
