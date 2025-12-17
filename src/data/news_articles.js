@@ -1,145 +1,5 @@
 export default [
     {
-        "title": "Ni Madrid ni Vigo: la calle más iluminada de Navidad está en Málaga y es obra de los vecinos",
-        "image_url": "https://okdiario.com/img/2025/12/11/ni-madrid-ni-vigo-la-calle-mas-iluminada-de-navidad-esta-en-malaga-y-es-obra-de-los-vecinos.jpg",
-        "tags": [
-            "españa",
-            "okd",
-            "navidad",
-            "luces de navidad",
-            "andalucía"
-        ],
-        "link": "https://okdiario.com/andalucia/ni-madrid-ni-vigo-calle-mas-iluminada-navidad-esta-malaga-obra-vecinos-15914799",
-        "date": "2025-12-13 06:30:47",
-        "sentiment_score": -0.18033792078495026
-    },
-    {
-        "title": "Leonor «establece límites» y Felipe VI transmite «contención» a través de sus firmas navideñas",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/firma-rey-felipe-letizia-leonor-sofia.jpg",
-        "tags": [
-            "felicitaciones",
-            "familia real española",
-            "celebrities",
-            "princesa leonor",
-            "casa real española",
-            "psicología",
-            "rey felipe vi",
-            "gente",
-            "infanta sofía",
-            "reina letizia"
-        ],
-        "link": "https://theobjective.com/gente/2025-12-13/leonor-establece-limites-felipe-firmas-personalidad/",
-        "date": "2025-12-13 06:30:00",
-        "sentiment_score": 0.7150136586278677
-    },
-    {
-        "title": "‘Zapata tenor’ y ‘CLM Sinfónica’ este sábado con “Gigantes” en el Quijano",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Cantero-Zapata-Velasco-y-Lozano.-JMC-2025-12-12-11Sinfonica-Zapata-scaled.jpg",
-        "tags": [
-            "cultura",
-            "música",
-            "ciudad real"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/ciudad-real/zapata-tenor-y-clm-sinfonica-este-sabado-con-gigantes-en-el-quijano/",
-        "date": "2025-12-13 06:23:54",
-        "sentiment_score": 0.0471842885017395
-    },
-    {
-        "title": "Un certamen de danzas con identidad propia",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/Festival-de-Danzas.jpg",
-        "tags": [
-            "folklore",
-            "la última",
-            "danza",
-            "segovia"
-        ],
-        "link": "https://eladelantado.com/un-certamen-de-danzas-con-identidad-propia/",
-        "date": "2025-12-13 06:00:48",
-        "sentiment_score": 0.07489696145057678
-    },
-    {
-        "title": "Sonia Bermúdez, una de las nuestras",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e4b88773-2f72-4965-924f-16144469b8c2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "historia",
-            "rayo",
-            "barça",
-            "tiempo"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/2025/12/13/sonia-bermudez-una-nuestras-124734485.html",
-        "date": "2025-12-13 06:00:25",
-        "sentiment_score": 0.1482250839471817
-    },
-    {
-        "title": "Así puedes ver el Atlético de Madrid - Valencia al menor precio: choque de realidades con objetivos muy distintos",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/12/09/693894fe8c608.jpeg",
-        "tags": [
-            "elrecomendador"
-        ],
-        "link": "https://www.mundodeportivo.com/elrecomendador/20251213/1002585490/asi-puedes-ver-atletico-madrid-valencia-menor-precio-choque-realidades-objetivos-distintos.html",
-        "date": "2025-12-13 05:50:00",
-        "sentiment_score": -0.8527704644948244
-    },
-    {
-        "title": "La UCO on fire y a Sánchez su cuate le llama corrupto",
-        "image_url": "https://s1.staticld.com/2025/12/12/pedro-sanchez.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2025-12-13/pedro-gil-ruiz-la-uco-on-fire-y-a-sanchez-su-cuate-le-llama-corrupto-7333128/",
-        "date": "2025-12-13 05:32:32",
-        "sentiment_score": -0.9074148898944259
-    },
-    {
-        "title": "La primera Navidad de soltero de Pep Guardiola en Manchester: lujo discreto, rutina y fútbol",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/vida-soltero-pep-guardiola.jpeg",
-        "tags": [
-            "manchester",
-            "celebrities",
-            "pep guardiola",
-            "futbolistas",
-            "gente"
-        ],
-        "link": "https://theobjective.com/gente/2025-12-13/primera-navidad-soltero-pep-guardiola-manchester/",
-        "date": "2025-12-13 06:30:00",
-        "sentiment_score": 0.06881812959909439
-    },
-    {
-        "title": "Los fabricantes de piensos se atragantan con la peste porcina: temen una menor demanda y que ponga en jaque el crecimiento del sector",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/11/693b1a9bcca6d7-41477747.r_d.956-281.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/fabricantes-piensos-atragantan-peste-porcina-temen-menor-demanda-ponga-jaque-crecimiento-sector_6909532_0.html",
-        "date": "2025-12-13 06:30:00",
-        "sentiment_score": -0.8007495868951082
-    },
-    {
-        "title": "El diario aparecido en los Encantes que se convirtió en cómic",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/12/12/1416240C-10A5-481F-87E3-01B3B5C6C762/diario-aparecido-encantes-que-convirtio-comic_69.jpg?crop=5271%2C2965%2Cx0%2Cy291&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/diario-aparecido-encantes-que-convirtio-comic_20251213693d059daf09df5010859c43.html",
-        "date": "2025-12-13 06:20:13",
-        "sentiment_score": -0.25386203825473785
-    },
-    {
-        "title": "Esta revista de decoración se convierte en un nuevo canal temático",
-        "image_url": "https://static.grupojoly.com/clip/01f24174-f947-4292-9eed-a040e557b7b9_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "revista",
-            "nuevo",
-            "decoracion",
-            "canal",
-            "convierte"
-        ],
-        "link": "https://www.malagahoy.es/television/revista-decoracion-convierte-nuevo-canal_0_2005447042.html",
-        "date": "2025-12-13 06:10:56",
-        "sentiment_score": -0.6323479488492012
-    },
-    {
         "title": "El técnico del Guadalajara antes de medirse al Barça: «Me pierdo la infancia de mis hijas por cuatro pesetas»",
         "image_url": "https://okdiario.com/img/2025/12/11/imagen_recortada-1-1.jpg",
         "tags": [
@@ -2806,5 +2666,130 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/sucesos/20251216/desarticulada-red-dedicada-robo-despiece-motocicletas-area-metropolitana-barcelona/1003742716574_0.html",
         "date": "2025-12-16 17:10:17",
         "sentiment_score": -0.8284967169165611
+    },
+    {
+        "title": "El Madrid se desconecta en su visita al EA7 Emporio Armani",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/7fdf1383-200e-421b-85e007f6300325ea.jpg",
+        "tags": [
+            "sergio scariolo",
+            "facundo campazzo",
+            "sergio llull",
+            "real madrid",
+            "euroliga",
+            "milán",
+            "usman garuba"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z8a843892-272f-408d-a5bb0b7e8dea97cc/202512/el-madrid-se-desconecta-en-su-visita-al-ea7-emporio-armani",
+        "date": "2025-12-16 22:15:10",
+        "sentiment_score": -0.7936563435941935
+    },
+    {
+        "title": "Aitana Bonmatí conquista su tercer The Best",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/4a672d5d-700e-4474-b8ee9e8436554672.jpg",
+        "tags": [
+            "doha",
+            "dembélé",
+            "psg",
+            "champions league",
+            "selección española de fútbol",
+            "fútbol femenino",
+            "catar",
+            "real madrid",
+            "balón de oro",
+            "eurocopa",
+            "aitana bonmatí",
+            "alexia putellas",
+            "fifa",
+            "inglaterra",
+            "arsenal fc",
+            "manchester city",
+            "fc barcelona",
+            "liverpool fc",
+            "chelsea fc"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z90c62a85-6f72-4a76-876613cd5cc84ef5/202512/aitana-bonmati-conquista-su-tercer-the-best",
+        "date": "2025-12-16 22:12:17",
+        "sentiment_score": 0.5943743512034416
+    },
+    {
+        "title": "El Milán borra los pasos hacia adelante del Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8932c889-d5d6-4272-8581-a4b6373ac360_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,euroliga"
+        ],
+        "link": "https://www.superdeporte.es/baloncesto/2025/12/16/milan-borra-pasos-adelante-real-124867055.html",
+        "date": "2025-12-16 22:03:27",
+        "sentiment_score": 0.38396090269088745
+    },
+    {
+        "title": "Crónica del EA7 Emporio Armani Milan - Real Madrid: 89-82",
+        "image_url": "https://www.infobae.com/resizer/v2/PW5B2W6JI5GGPDYJNDE6L6BORQ.jpg?auth=584f744e43688ef75ed4d7c1f5fed3ad3e7e11ef333465726c4566ba4ac66c73&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/16/cronica-del-ea7-emporio-armani-milan-real-madrid-89-82/",
+        "date": "2025-12-16 22:00:38",
+        "sentiment_score": -0.07233672589063644
+    },
+    {
+        "title": "La Fiscalía pide diez años para un exprofesor acusado de abusar sexualmente de una niña",
+        "image_url": "https://theobjective.com/wp-content/uploads/2024/09/justicia-barcelona-amnistia.jpg",
+        "tags": [
+            "fiscalía",
+            "audiencias",
+            "audiencia de barcelona",
+            "abusos sexuales",
+            "tribunal superior de justicia de cataluña",
+            "tribunales"
+        ],
+        "link": "https://theobjective.com/espana/tribunales/2025-12-16/fiscalia-diez-anos-exprofesor-abusar-nina/",
+        "date": "2025-12-16 22:11:36",
+        "sentiment_score": -0.7347214855253696
+    },
+    {
+        "title": "El Barça de Pascual se ha convertido en una máquina de ganar",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/16/6941d876e608c.r_d.489-307-4726.png",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/baloncesto/20251216/11370527/paris-barca-pascual-euroliga-resumen.html",
+        "date": "2025-12-16 22:11:15",
+        "sentiment_score": 0.8017568364739418
+    },
+    {
+        "title": "Salen a la luz las votaciones del The Best: La escasa diferencia por la que Dembélé ganó a Lamine",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1345x394:1347x392)/origin-imgresizer.eurosport.com/2025/12/16/image-fc89a5f2-627a-4b87-8af2-73e964f36fc9-85-2560-1440.jpeg",
+        "tags": [
+            "football"
+        ],
+        "link": "https://espanol.eurosport.com/futbol/votaciones-the-best-escasa-diferencia-dembele-lamine-yamal-mbappe_sto23251337/story.shtml",
+        "date": "2025-12-16 22:10:22",
+        "sentiment_score": -0.26966428756713867
+    },
+    {
+        "title": "El examen para contratar electricistas en ayuntamientos de ERC: \"Se penaliza la mala pronunciación en catalán\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
+        "tags": [
+            "erc",
+            "artículos víctor mondelo",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/12/16/6941ac0f21efa0316a8b45cd.html",
+        "date": "2025-12-16 21:56:21",
+        "sentiment_score": -0.8096630237996578
+    },
+    {
+        "title": "32 vinos españoles para brindis especiales",
+        "image_url": "https://static.grupojoly.com/clip/76a4449f-0a1e-49ed-bb25-07a0ffdde139_facebook-aspect-ratio_default_0_x949y500.jpg",
+        "tags": [
+            "espanoles",
+            "32",
+            "vinos",
+            "especiales",
+            "brindis"
+        ],
+        "link": "https://www.diariodejerez.es/economia/32-vinos-espanoles-brindis-especiales_0_2005472019.html",
+        "date": "2025-12-16 21:53:44",
+        "sentiment_score": 0.43916358053684235
     }
 ];
