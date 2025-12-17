@@ -1,483 +1,5 @@
 export default [
     {
-        "title": "Dendoncker, el fichaje consolidado del Real Oviedo",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/12/209062958-kQCB--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/dendoncker-fichaje-consolidado-real-oviedo-20251212230801-nt.html",
-        "date": "2025-12-12 22:08:02",
-        "sentiment_score": 0.3809944912791252
-    },
-    {
-        "title": "Cuáles son las 19 ciudades donde el espíritu navideño cobra vida, según Condé Nast",
-        "image_url": "https://www.infobae.com/resizer/v2/FZRSKQPTORCLLC4NJYDHZSWEWA.JPG?auth=c9d57e9411e7130767909c29477217ca317709a13c3bcc9293f1194e43ab3686&height=3667&smart=true&width=5500",
-        "tags": [
-            "magazines",
-            "mercados de navidad",
-            "condé nast traveler",
-            "tradiciones navideñas",
-            "destinos turísticos navideños",
-            "navidad en el mundo",
-            "newsroom bue"
-        ],
-        "link": "https://www.infobae.com/tendencias/2025/12/12/cuales-son-las-19-ciudades-donde-el-espiritu-navideno-cobra-vida-segun-conde-nast/",
-        "date": "2025-12-12 21:43:35",
-        "sentiment_score": 0.8547256551682949
-    },
-    {
-        "title": "El Casademont U22 suma su quinta victoria consecutiva y se afianza en lo alto de la tabla",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2025/12/12/alex-moreno-subiendo-el-balon-para-su-equipo.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.heraldo.es/noticias/deportes/2025/12/12/el-casademont-u22-suma-su-quinta-victoria-seguida-y-se-afianza-en-lo-alto-de-la-clasificacion-1878215.html",
-        "date": "2025-12-12 21:42:45",
-        "sentiment_score": -0.2278778851032257
-    },
-    {
-        "title": "El CB Gran Canaria se aferra al clavo ardiente de vencer al Baskonia en el Arena",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a22d0665-f6eb-40e9-9bc4-727e6721337f_16-9-aspect-ratio_default_0_x516y35.jpg",
-        "tags": [
-            "cb gran canaria",
-            "baskonia",
-            "isla",
-            "real madrid",
-            "euroliga"
-        ],
-        "link": "https://www.laprovincia.es/fotos/deportes/cbgrancanaria/2025/12/12/cb-gran-canaria-aferra-clavo-124738303.html",
-        "date": "2025-12-12 21:40:20",
-        "sentiment_score": 0.2817017585039139
-    },
-    {
-        "title": "Antonio Orozco no se detiene: la gira que marcará 2026 ya tiene fechas",
-        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2025/12/12/2025121222290556227.jpg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.eldiarioalerta.com/articulo/musica/antonio-orozco-detiene-gira-que-marcara-2026-tiene-fechas/20251212222923577117.html",
-        "date": "2025-12-12 21:29:23",
-        "sentiment_score": 0.7428074246272445
-    },
-    {
-        "title": "Lo más visto esta semana de Netflix en Colombia",
-        "image_url": "https://www.infobae.com/resizer/v2/XM3CUKGI7JFU5BTYWILZJERTIY.jpg?auth=d390d161fe69bf48303aab3b1029a33d48e4f49cbf71d87436780d73cfa2fa63&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "películas",
-            "streaming",
-            "colombia-entretenimiento",
-            "netflix"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/12/12/lo-mas-visto-esta-semana-de-netflix-en-colombia/",
-        "date": "2025-12-12 21:00:58",
-        "sentiment_score": 0.6136825308203697
-    },
-    {
-        "title": "Lenglet regresa a la convocatoria en el Atleti, con las bajas de Giménez, Baena y Llorente",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/12/lenglet-regresa-a-la-convocatoria-en-el-atleti-con-las-bajas-de-gimenez-baena-y-llorente/",
-        "date": "2025-12-12 20:45:43",
-        "sentiment_score": -0.2249741330742836
-    },
-    {
-        "title": "Temas del día de EFE España del sábado 13 de diciembre de 2025",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/12/temas-del-dia-de-efe-espana-del-sabado-13-de-diciembre-de-2025/",
-        "date": "2025-12-12 20:17:15",
-        "sentiment_score": -0.017990533262491226
-    },
-    {
-        "title": "Temas del día de EFE Economía del sábado 13 de diciembre de 2025",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/12/temas-del-dia-de-efe-economia-del-sabado-13-de-diciembre-de-2025/",
-        "date": "2025-12-12 20:15:22",
-        "sentiment_score": 0.005298156291246414
-    },
-    {
-        "title": "Diez días para el sorteo del Gordo de Navidad: desde qué hacer si el décimo se estropea a cuánto dinero se puede cobrar en efectivo (ojo que los premios caducan)",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8ff0cab8-d8a5-4c37-881f-c55da0acc602_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navidad",
-            "sorteo",
-            "lotería navidad"
-        ],
-        "link": "https://www.lne.es/asturias/2025/12/12/diez-dias-sorteo-gordo-navidad-124736561.html",
-        "date": "2025-12-12 20:12:14",
-        "sentiment_score": -0.31080738455057144
-    },
-    {
-        "title": "Bartzokas: \"Nos ha faltado espíritu de lucha, concentración y seguir el plan de partido\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/12/bartzokas-nos-ha-faltado-espiritu-de-lucha-concentracion-y-seguir-el-plan-de-partido/",
-        "date": "2025-12-12 22:17:21",
-        "sentiment_score": -0.27358197420835495
-    },
-    {
-        "title": "Así fue la reforma imposible de Sutton: \"La imprimimos en 3D y la montamos como en Ikea\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/02/actualidad/1003742712811_15472211_1706x960.jpg",
-        "tags": [
-            "lujo",
-            "ocio",
-            "construcción",
-            "discoteca",
-            "barcelona",
-            "business",
-            "cataluña"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20251212/reforma-imposible-sutton-imprimimos-montamos-ikea/1003742715664_0.html",
-        "date": "2025-12-12 22:00:00",
-        "sentiment_score": 0.22313429415225983
-    },
-    {
-        "title": "La ciudad brilla con la llegada de la Navidad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4d958194-96a9-40ca-8199-001afe2212ab_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navidad",
-            "agenda de actividades en barcelona",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/mas-barcelona/20251212/barcelona-brilla-llegada-navidad-2025-26-124670564",
-        "date": "2025-12-12 21:59:23",
-        "sentiment_score": 0.6325623616576195
-    },
-    {
-        "title": "El Barça fríe al Olympiacos con 13 triples",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b8cccf6b-fe48-4a5e-9043-f433320bc503_16-9-aspect-ratio_default_1421577.jpg",
-        "tags": [
-            "euroliga",
-            "fc barcelona de baloncesto",
-            "baloncesto"
-        ],
-        "link": "https://www.lne.es/deportes/2025/12/12/barca-frie-olympiacos-13-triples-124738804.html",
-        "date": "2025-12-12 21:57:06",
-        "sentiment_score": 0.06256929039955139
-    },
-    {
-        "title": "Juanjo Bona vuelve a enamorar a una Zaragoza entregadísima en un concierto que sabe a final",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/12/12/2025121222540189289.jpg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.aragondigital.es/articulo/cultura/juanjo-bona-vuelve-enamorar-zaragoza-entregadisima-concierto-que-sabe-final/20251212225451956849.html",
-        "date": "2025-12-12 21:54:51",
-        "sentiment_score": -0.16122764348983765
-    },
-    {
-        "title": "98-85. El Barça asfixia al Olympiacos y prolonga su estado de gracia",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/12/98-85-el-barca-asfixia-al-olympiacos-y-prolonga-su-estado-de-gracia/",
-        "date": "2025-12-12 21:48:35",
-        "sentiment_score": -0.507476419210434
-    },
-    {
-        "title": "BDV y Mundial de Clubes encabezaron las búsquedas de Google en Venezuela en 2025",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/12/IMAGEN-DESTACADA-GOOGLE-2025-NUEVO-DATOS-UN-300x224.jpg",
-        "tags": [
-            "datos ún"
-        ],
-        "link": "https://ultimasnoticias.com.ve/datos-un/bdv-y-mundial-de-clubes-encabezaron-las-busquedas-de-google-en-venezuela-en-2025/",
-        "date": "2025-12-12 21:37:08",
-        "sentiment_score": 0.12075990438461304
-    },
-    {
-        "title": "Una patera en la Barceloneta: Open Arms y La Fura dels Baus exponen el drama migratorio",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "baus",
-            "open",
-            "drama",
-            "exponen",
-            "arms",
-            "barceloneta",
-            "dels",
-            "migratorio",
-            "fura",
-            "patera"
-        ],
-        "link": "https://es.ara.cat/internacional/europa/patera-barceloneta-open-arms-fura-dels-baus-exponen-drama-migratorio_1_5590963.html",
-        "date": "2025-12-12 21:34:50",
-        "sentiment_score": -0.3590206950902939
-    },
-    {
-        "title": "El Barça de Clyburn y Punter se crece ante el Olympiacos",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/B6RVHV5UFRN3PLW7U64XDHWXJ4.jpg?auth=7bb5a0d39ed36fdff9c02afdc8176f2c512ff9bfbd911eb5b5f0b3416fa3ab86&width=1200",
-        "tags": [
-            "xavi pascual",
-            "jugadores baloncesto",
-            "deportes",
-            "fc barcelona baloncesto",
-            "euroliga",
-            "baloncesto",
-            "olympiacos bc",
-            "competiciones"
-        ],
-        "link": "https://elpais.com/deportes/baloncesto/2025-12-12/el-barca-de-clyburn-y-punter-se-crece-ante-el-olympiacos.html",
-        "date": "2025-12-12 21:33:22",
-        "sentiment_score": 0.7984130661934614
-    },
-    {
-        "title": "José Mercé: \"Una IA nunca va a tener un corazón, está claro que no puede sentir ni ponerte los pelos como escarpias\"",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053230_260451972_1706x960.jpg",
-        "tags": [
-            "flamenco",
-            "jerez de la frontera",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251213/jose-merce-ia-nunca-va-tener-corazon-claro-no-puede-sentir-ponerte-pelos-escarpias/1003744053129_0.html",
-        "date": "2025-12-13 02:00:11",
-        "sentiment_score": -0.9274617861956358
-    },
-    {
-        "title": "¿Destitución de Sergio Francisco?: Anoeta mira al palco",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4f71a873-09a5-42f0-a78a-8d7102209e84_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mira",
-            "sergio",
-            "anoeta",
-            "francisco",
-            "destitucion"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/12/13/destitucion-sergio-francisco-anoeta-mira-10466310.html",
-        "date": "2025-12-13 01:31:37",
-        "sentiment_score": -0.31225229799747467
-    },
-    {
-        "title": "Vinicius vive una larga sequía de gol mientras que Real Madrid se desploma",
-        "image_url": "https://pxcdn.meridiano.net/122025/1765588721912.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/vinicius-vive-una-larga-sequia-de-gol-mientras-que-real-madrid-se-desploma--2025121221100",
-        "date": "2025-12-13 01:10:00",
-        "sentiment_score": -0.8742328248918056
-    },
-    {
-        "title": "Vinivius vive una larga sequía de gol mientras que Real Madrid se desploma",
-        "image_url": "https://pxcdn.meridiano.net/122025/1765588721912.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/vinivius-vive-una-larga-sequia-de-gol-mientras-que-real-madrid-se-desploma--2025121221100",
-        "date": "2025-12-13 01:10:00",
-        "sentiment_score": -0.8742328248918056
-    },
-    {
-        "title": "Análisis del Mundial 2026: Grupos E, F, G y H. Alemania ante una trampa, España y Países Bajos son candidatos",
-        "image_url": "https://i.headtopics.com/images/2025/12/12/latimes/an-lisis-del-mundial-2026-grupos-e-f-g-y-h-alemani-an-lisis-del-mundial-2026-grupos-e-f-g-y-h-alemani-714F2453B4C9480BAC7759424077B582.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://headtopics.com/news/an-lisis-del-mundial-2026-grupos-e-f-g-y-h-alemania-77108043",
-        "date": "2025-12-13 01:01:22",
-        "sentiment_score": -0.6376520656049252
-    },
-    {
-        "title": "El Real Madrid pone a Laporta contra las cuerdas en los juzgados: incómodo interrogatorio del 'caso Negreira'",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/12/culemania/palco/1003742715734_15507996_1706x960.jpg",
-        "tags": [
-            "palco",
-            "real madrid",
-            "josé maría enríquez negreira",
-            "joan laporta"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251213/real-madrid-laporta-juzgados-incomodo-interrogatorio-negreira/1003742715733_0.html",
-        "date": "2025-12-12 23:18:25",
-        "sentiment_score": -0.7660761456936598
-    },
-    {
-        "title": "Así gestiona su fortuna la familia Del Pino",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/6b40dad461ba23c35a5174f710052436/f/webp/assets/multimedia/imagenes/2025/12/12/17655720546685.png",
-        "tags": [
-            "mercados>",
-            "ahorro>"
-        ],
-        "link": "https://www.expansion.com/ahorro/2025/12/13/693c7c26468aebc6398b45a0.html",
-        "date": "2025-12-12 23:13:16",
-        "sentiment_score": 0.30064715072512627
-    },
-    {
-        "title": "Tsygankov anota dos goles y Girona logra importante victoria 2-1 ante Real Sociedad en La Liga",
-        "image_url": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-        "tags": [
-            "girona real sociedad la liga",
-            "deportes",
-            "sports"
-        ],
-        "link": "https://apnews.com/article/girona-real-sociedad-la-liga-ebfbdd0c0b37ba871d199efee1b9ca15",
-        "date": "2025-12-12 23:02:22",
-        "sentiment_score": 0.6087261289358139
-    },
-    {
-        "title": "Tsygankov anota dos goles y Girona logra importante victoria 2-1 ante Real Sociedad en La Liga",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://santamariatimes.com/ap/sports/tsygankov-anota-dos-goles-y-girona-logra-importante-victoria-2-1-ante-real-sociedad-en/article_5b593277-3e30-50dd-ab5d-24dcc51bb91b.html",
-        "date": "2025-12-12 23:02:22",
-        "sentiment_score": 0.6095401383936405
-    },
-    {
-        "title": "Tsygankov anota dos goles y Girona logra importante victoria 2-1 ante Real Sociedad en La Liga",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "en español"
-        ],
-        "link": "https://www.chicagotribune.com/2025/12/12/tsygankov-anota-dos-goles-y-girona-logra-importante-victoria-2-1-ante-real-sociedad-en-la-liga/",
-        "date": "2025-12-12 23:02:21",
-        "sentiment_score": 0.5585096068680286
-    },
-    {
-        "title": "Woody Allen cambia Barcelona por Madrid: Ayuso quiere convertir la ciudad en un referente para Hollywood",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053150_260451040_1706x960.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "barcelona",
-            "woody allen",
-            "política",
-            "netflix",
-            "cine",
-            "isabel díaz ayuso"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251213/woody-allen-cambia-barcelona-madrid-ayuso-quiere-convertir-ciudad-referente-hollywood/1003744052581_0.html",
-        "date": "2025-12-13 01:40:23",
-        "sentiment_score": 0.23125281929969788
-    },
-    {
-        "title": "'Ciudad de sombras', la serie póstuma de Verónica Echegui: un 'thriller' en la Barcelona de Gaudí",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053721_260458323_1706x960.jpg",
-        "tags": [
-            "estrenos de series",
-            "en plan serie",
-            "series"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/blogs/en_plan_serie/20251213/ciudad-sombras-serie-postuma-veronica-echegui-thriller-barcelona-gaudi/1003744053657_12.html",
-        "date": "2025-12-13 01:38:45",
-        "sentiment_score": -0.4138190895318985
-    },
-    {
-        "title": "\"Hemos creado el Hollywood de los jabalíes\": la odisea de acabar con 60.000 ejemplares como quiere hacer Cataluña",
-        "image_url": "https://s3.elespanol.com/2025/12/12/ciencia/1003744052226_260439654_1706x960.jpg",
-        "tags": [
-            "jabalíes",
-            "cataluña",
-            "ciencia",
-            "peste porcina",
-            "caza"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20251213/creado-hollywood-jabalies-odisea-acabar-ejemplares-quiere-hacer-cataluna/1003744052034_0.html",
-        "date": "2025-12-13 00:58:24",
-        "sentiment_score": -0.4392324239015579
-    },
-    {
-        "title": "Del 'desliz' con su hijo Miguel al extraño silencio sobre su pareja: las otras curiosidades de la entrevista de Iñaki Urdangarin",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052455_260442181_1706x960.jpg",
-        "tags": [
-            "cristina de borbón y grecia",
-            "iñaki urdangarín",
-            "famosos",
-            "pablo urdangarin",
-            "entrevistas",
-            "hijos"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251213/desliz-hijo-miguel-extrano-silencio-pareja-curiosidades-entrevista-inaki-urdangarin/1003744052415_0.html",
-        "date": "2025-12-13 00:45:35",
-        "sentiment_score": -0.46325553208589554
-    },
-    {
-        "title": "El multitudinario recibimiento a Lionel Messi en su llegada a la India junto a De Paul y Suárez para el GOAT Tour",
-        "image_url": "https://www.infobae.com/resizer/v2/WVAVQLYWBBDJTENKLRPKVAPTLU.jpg?auth=d2a7707c9c3e5e19330cdc153f29d15089ca7a1d905a944982f270382d745b17&height=712&smart=true&width=1266",
-        "tags": [
-            "inter miami",
-            "rodrigo de paul",
-            "luis suárez",
-            "india",
-            "deportes-argentina",
-            "goat tour",
-            "lionel messi"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/13/el-multitudinario-recibimiento-a-lionel-messi-en-su-llegada-a-la-india-junto-a-de-paul-y-suarez-para-el-goat-tour/",
-        "date": "2025-12-13 00:27:51",
-        "sentiment_score": 0.17717618122696877
-    },
-    {
-        "title": "El as en la manga de Laporta para incrementar los ingresos del Camp Nou: cómo hacer caja antes y después de los partidos",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/13/culemania/palco/1003742715762_15508502_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "espai barça",
-            "fc barcelona",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251213/laporta-potenciar-ingresos-camp-nou-despues-partidos/1003742715729_0.html",
-        "date": "2025-12-13 00:23:32",
-        "sentiment_score": 0.7172010783106089
-    },
-    {
-        "title": "Purificación Tomás: Exilio y acción política",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/668732e0-1cab-41df-8cde-ca853da1a70d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "purificacion",
-            "accion",
-            "politica",
-            "tomas",
-            "exilio"
-        ],
-        "link": "https://www.lne.es/club/agenda/purificacion-tomas-exilio-accion-politica-124737503.html",
-        "date": "2025-12-13 00:07:05",
-        "sentiment_score": 0.10093837976455688
-    },
-    {
-        "title": "Guía del partido Barça-Osasuna de hoy: horario, dónde verlo y alineaciones",
-        "image_url": "https://static1.ara.cat/clip/2bd55cac-6a10-4381-b892-5f098944ef7a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "guia",
-            "partido",
-            "alineaciones",
-            "verlo",
-            "hoy",
-            "barca",
-            "horario",
-            "osasuna"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/guia-partido-barca-osasuna-hoy-horario-verlo-alineaciones_1_5591035.html",
-        "date": "2025-12-13 00:00:19",
-        "sentiment_score": 0.6334709376096725
-    },
-    {
-        "title": "Feijóo pide el voto para Guardiola «y no hacer experimentos»",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/12/209055750.jpg",
-        "tags": [
-            "pide",
-            "voto",
-            "experimentos",
-            "feijoo",
-            "guardiola"
-        ],
-        "link": "https://www.hoy.es/elecciones/extremadura/feijoo-pide-voto-guardiola-experimentos-20251213232318-nt.html",
-        "date": "2025-12-13 00:00:00",
-        "sentiment_score": -0.3193872310221195
-    },
-    {
         "title": "Ni Madrid ni Vigo: la calle más iluminada de Navidad está en Málaga y es obra de los vecinos",
         "image_url": "https://okdiario.com/img/2025/12/11/ni-madrid-ni-vigo-la-calle-mas-iluminada-de-navidad-esta-en-malaga-y-es-obra-de-los-vecinos.jpg",
         "tags": [
@@ -567,52 +89,6 @@ export default [
         "link": "https://www.libertaddigital.com/opinion/2025-12-13/pedro-gil-ruiz-la-uco-on-fire-y-a-sanchez-su-cuate-le-llama-corrupto-7333128/",
         "date": "2025-12-13 05:32:32",
         "sentiment_score": -0.9074148898944259
-    },
-    {
-        "title": "Liga F: Arturo Ruiz quiere que la Real llega a Navidad \"con 30 puntos\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a361da02-f343-41d6-8324-9a8959a3585c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "arturo",
-            "ruiz",
-            "quiere",
-            "f",
-            "liga"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2025/12/13/liga-f-arturo-ruiz-quiere-10465359.html",
-        "date": "2025-12-13 05:04:12",
-        "sentiment_score": 0.55253566801548
-    },
-    {
-        "title": "SPM consolida un modelo de agencia basado en calidad, innovación y talento",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/47a0e293-e33b-41c6-849d-c5a99345dd78_16-9-aspect-ratio_default_1421364.jpg",
-        "tags": [
-            "comunicación",
-            "innovación",
-            "talento",
-            "marketing"
-        ],
-        "link": "https://www.laopiniondemurcia.es/comunidad/2025/12/13/spm-consolida-modelo-agencia-basado-124686924.html",
-        "date": "2025-12-13 05:02:21",
-        "sentiment_score": 0.7237413991242647
-    },
-    {
-        "title": "Cien años de la muerte de Antoni Maura, el político de derechas al que no mira el PP",
-        "image_url": "https://static.eldiario.es/clip/de61039f-cd6f-43eb-92cf-7b4b47ea1158_16-9-discover-aspect-ratio_default_0_x602y427.jpg",
-        "tags": [
-            "pp",
-            "anos",
-            "muerte",
-            "cien",
-            "mira",
-            "maura",
-            "politico",
-            "no",
-            "derechas",
-            "antoni"
-        ],
-        "link": "https://www.eldiario.es/illes-balears/politica/cien-anos-muerte-antoni-maura-politico-derechas-no-mira-pp_1_12842086.html",
-        "date": "2025-12-13 05:01:59",
-        "sentiment_score": -0.10888123512268066
     },
     {
         "title": "La primera Navidad de soltero de Pep Guardiola en Manchester: lujo discreto, rutina y fútbol",
@@ -3126,5 +2602,209 @@ export default [
         "link": "https://www.diariodejerez.es/motor/ruggero-mughini-presidente-iveco-espana_0_2005466769.html",
         "date": "2025-12-16 06:01:01",
         "sentiment_score": 0.34233374893665314
+    },
+    {
+        "title": "El CTA exculpa a González Fuertes del penalti no pitado sobre Vinicius en el Alavés - Real Madrid: \"El VAR no debe intervenir\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/06/23/685910093872d.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/cta-exculpa-gonzalez-fuertes-penalti-pitado-sobre-vinicius-alaves-real-madrid-var-debe-intervenir-20251216_3272610.html",
+        "date": "2025-12-16 17:13:36",
+        "sentiment_score": -0.15299932658672333
+    },
+    {
+        "title": "Lotería de Navidad 2025: cuándo es, premios y buscador de Administaciones",
+        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/12/loteria-navidad-2025-cuanto-cuesta-decimo-cuantas-series-un-numero-469x317.jpg",
+        "tags": [
+            "loterías y apuestas del estado",
+            "el gordo",
+            "lotería de navidad",
+            "premios",
+            "resultados",
+            "loteria",
+            "sorteo de navidad",
+            "fechas",
+            "suerte",
+            "lom"
+        ],
+        "link": "https://theobjective.com/loterias/loteria-navidad/2025-12-16/comprobar-loteria-navidad-2025-premios/",
+        "date": "2025-12-16 17:12:42",
+        "sentiment_score": 0.04914022982120514
+    },
+    {
+        "title": "El presidente de la RANME pide a Sanidad la financiación pública de la determinación del ADNtc para cáncer colorrectal",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251216181238_120.jpg",
+        "tags": [
+            "infosalus.com",
+            "asistencia"
+        ],
+        "link": "https://www.infosalus.com/asistencia/noticia-presidente-ranme-pide-sanidad-financiacion-publica-determinacion-adntc-cancer-colorrectal-20251216181238.html",
+        "date": "2025-12-16 17:12:38",
+        "sentiment_score": -0.22267305105924606
+    },
+    {
+        "title": "Caso Plus Ultra: dinero del CLAP y el oro del BCV bajo sospecha en España por trama de blanqueo",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "clap",
+            "venezuela",
+            "internacional"
+        ],
+        "link": "https://elpitazo.net/internacional/caso-plus-ultra-dinero-del-clap-y-el-oro-del-bcv-bajo-sospecha-en-espana-por-trama-de-blanqueo/",
+        "date": "2025-12-16 17:11:06",
+        "sentiment_score": -0.6908324472606182
+    },
+    {
+        "title": "Las comunicaciones del Suroeste Ibérico se erigen como el \"gran reto\" del territorio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88857bf8-2f6f-4e21-b18f-19a265b0c57a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "foro suroeste",
+            "extremadura",
+            "portugal"
+        ],
+        "link": "https://www.lacronicabadajoz.com/extremadura/2025/12/16/comunicaciones-suroeste-iberico-siguen-gran-124857277.html",
+        "date": "2025-12-16 17:08:01",
+        "sentiment_score": 0.2594522088766098
+    },
+    {
+        "title": "Galbiati: Mike James es el jugador con mayor impacto en toda la liga",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/16/galbiati-mike-james-es-el-jugador-con-mayor-impacto-en-toda-la-liga/",
+        "date": "2025-12-16 17:06:35",
+        "sentiment_score": 0.7037625312805176
+    },
+    {
+        "title": "El Valencia volará a Israel con discreción y tendrá un importante despliegue de seguridad",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "efe"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/16/el-valencia-volara-a-israel-con-discrecion-y-tendra-un-importante-despliegue-de-seguridad/",
+        "date": "2025-12-16 17:06:01",
+        "sentiment_score": -0.13077692687511444
+    },
+    {
+        "title": "La Vuelta presenta este miércoles en Mónaco el recorrido de 2026, que no acabará en Madrid",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251216180515_690.jpg",
+        "tags": [
+            "deportes",
+            "ciclismo"
+        ],
+        "link": "https://www.europapress.es/deportes/ciclismo-00396/noticia-vuelta-presenta-miercoles-monaco-recorrido-2026-no-acabara-madrid-20251216180515.html",
+        "date": "2025-12-16 17:05:15",
+        "sentiment_score": 0.22739087231457233
+    },
+    {
+        "title": "Baskonia necesita seguir fuerte en el Buesa Arena",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251216180352_120.jpg",
+        "tags": [
+            "deportes",
+            "baloncesto"
+        ],
+        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-baskonia-necesita-seguir-fuerte-buesa-arena-20251216180352.html",
+        "date": "2025-12-16 17:03:52",
+        "sentiment_score": 0.3137615919113159
+    },
+    {
+        "title": "La FIFA entrega el premio The Best en Doha, en vivo: los candidatos a ganarlo y las distinciones que ya se entregaron",
+        "image_url": "https://www.infobae.com/resizer/v2/ZZWD4RG33FAMNFLN7TWRJOOCFU.jfif?auth=d1c693443f5949a8c6c9c79eeed9df46d0c21179eab2e31eb688c6a20d7dc4cc&height=383&smart=true&width=680",
+        "tags": [
+            "fifa",
+            "fútbol",
+            "premios the best"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/16/la-fifa-entrega-el-premio-the-best-en-doha-en-vivo-los-candidatos-a-ganarlo-y-las-distinciones-que-ya-se-entregaron/",
+        "date": "2025-12-16 17:03:20",
+        "sentiment_score": 0.5861177332699299
+    },
+    {
+        "title": "Elena Juncosa, nueva directora del Museu Nacional Arqueològic de Tarragona",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251216181246_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-elena-juncosa-nueva-directora-museu-nacional-arqueologic-tarragona-20251216181246.html",
+        "date": "2025-12-16 17:12:46",
+        "sentiment_score": 0.25301794707775116
+    },
+    {
+        "title": "Los trabajadores presenciales tienen el doble de riesgo de sufrir Covid persistente que los que teletrabajan",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5393757e-71b6-414d-9a7b-a1a972239d31_16-9-aspect-ratio_default_0_x2135y977.jpg",
+        "tags": [
+            "riesgo",
+            "presenciales",
+            "sufrir",
+            "covid persistente",
+            "trabajadores",
+            "doble"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/salud/2025/12/16/trabajadores-presenciales-doble-riesgo-sufrir-covid-persistente-10479802.html",
+        "date": "2025-12-16 17:12:14",
+        "sentiment_score": 0.18449921905994415
+    },
+    {
+        "title": "El matadero de Ejea de los Caballeros capta 1,7 millones del último Perte e instalará en 2026 un molino de 118 metros",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fcfc1093-7ec6-46bb-be51-7b65c22da30e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cinco villas",
+            "ejea",
+            "sector porcino",
+            "aragón"
+        ],
+        "link": "https://www.elperiodicodearagon.com/aragon/2025/12/16/matadero-ejea-caballeros-capta-1-124856620.html",
+        "date": "2025-12-16 17:12:00",
+        "sentiment_score": -0.5406816154718399
+    },
+    {
+        "title": "Jofre Bardagí homenajea a Joan Manuel Serrat y a su padre en un disco publicado en dos partes",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/16/69418d9cb1ee7.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/20251216/11369629/jofre-bardagi-homenajea-joan-manuel-serrat-padre-disco-publicado-dos-partes.html",
+        "date": "2025-12-16 17:11:44",
+        "sentiment_score": 0.12789076194167137
+    },
+    {
+        "title": "Activada la alerta del plan de emergencia del Parc Fluvial del Besòs por posible desbordamiento",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/12/16/E3C7201D-ADC5-41B5-B83B-F0E665DF3BE2/varias-personas-parc-fluvial-besos-16-abril-2025-sant-adria-besos-barcelona_69.jpg?crop=1920%2C1080%2Cx0%2Cy101&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/activada-alerta-plan-emergencia-parc-fluvial-besos-posible-desbordamiento_20251216694192ce22f0db7daff381b7.html",
+        "date": "2025-12-16 17:11:42",
+        "sentiment_score": -0.528020579367876
+    },
+    {
+        "title": "ChatGPT revela los números favoritos para la Lotería de Navidad 2025",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/11/vero-max-decimo-enmarcado-emotiva-historia-anuncio-loteria-navidad-002-750x373.png",
+        "tags": [
+            "tecnología",
+            "lotería",
+            "noticias",
+            "navidad",
+            "sociedad"
+        ],
+        "link": "https://elfarodeceuta.es/chatgpt-numeros-favoritos-loteria-navidad-2025/",
+        "date": "2025-12-16 17:11:12",
+        "sentiment_score": 0.25085996091365814
+    },
+    {
+        "title": "Desarticulada una red dedicada al robo y despiece de motocicletas del área metropolitana de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/05/09/sucesos/1003742656273_14558379_1706x960.jpg",
+        "tags": [
+            "sucesos",
+            "gran barcelona",
+            "mossos d'esquadra",
+            "robos"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/sucesos/20251216/desarticulada-red-dedicada-robo-despiece-motocicletas-area-metropolitana-barcelona/1003742716574_0.html",
+        "date": "2025-12-16 17:10:17",
+        "sentiment_score": -0.8284967169165611
     }
 ];
