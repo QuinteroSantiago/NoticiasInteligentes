@@ -2791,5 +2791,222 @@ export default [
         "link": "https://www.diariodejerez.es/economia/32-vinos-espanoles-brindis-especiales_0_2005472019.html",
         "date": "2025-12-16 21:53:44",
         "sentiment_score": 0.43916358053684235
+    },
+    {
+        "title": "¿Gato blanco público o gato negro privado?",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053339_260453381_1706x960.jpg",
+        "tags": [
+            "tribunas",
+            "tribunas de opinión",
+            "comunidad de madrid",
+            "opinión",
+            "sanidad"
+        ],
+        "link": "https://www.elespanol.com/opinion/tribunas/20251217/gato-blanco-publico-gato-negro-privado/1003744053286_12.html",
+        "date": "2025-12-17 01:36:37",
+        "sentiment_score": 0.47874029353260994
+    },
+    {
+        "title": "James Rodríguez también protagonizó los premios The Best de la FIFA: así fue su votación en la ceremonia",
+        "image_url": "https://www.infobae.com/resizer/v2/BMEAJD46XNHG5GXY3R5G4A5H7A.jpg?auth=44ab56cd05651378e4a0730f7ce9eafe3414372c572191db9c19ec12227a2f69&height=1487&smart=true&width=2495",
+        "tags": [
+            "the best fifa 2025",
+            "fifa",
+            "james rodríguez the best",
+            "james rodríguez",
+            "colombia-deportes",
+            "ousmane dembélé",
+            "paris saint-germain"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/12/17/james-rodriguez-tambien-protagonizo-los-premios-the-best-de-la-fifa-asi-fue-su-votacion-en-la-ceremonia/",
+        "date": "2025-12-17 01:06:41",
+        "sentiment_score": 0.6380411274731159
+    },
+    {
+        "title": "Tribunal ordena al PSG pagar más de 70 millones de dólares a Mbappé por salarios impagos",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/8cd7136/2147483647/strip/true/crop/2445x1284+0+173/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2c%2F44%2Fd3771c2d46728abb0d2ccfe7861c%2Fd1e6ba1e625d4d54a263f068c383ee12.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-16/tribunal-ordena-al-psg-pagar-mas-de-70-millones-de-dolares-mbappe-por-salarios-impagos",
+        "date": "2025-12-17 00:52:49",
+        "sentiment_score": -0.3583551123738289
+    },
+    {
+        "title": "ITV más impuesto de circulación",
+        "image_url": "https://www.eldebate.com/images/el-debate.png",
+        "tags": [
+            "cartas al director"
+        ],
+        "link": "https://www.eldebate.com/opinion/cartas-director/20251217/itv-impuesto-circulacion_366173.html",
+        "date": "2025-12-17 00:30:00",
+        "sentiment_score": -0.3513157442212105
+    },
+    {
+        "title": "Todos los ganadores de los premios FIFA The Best 2025 por categoría",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/12/16/ganadores-premios-fifa-the-best-orix/",
+        "date": "2025-12-17 00:03:47",
+        "sentiment_score": 0.20349718630313873
+    },
+    {
+        "title": "Dembélé ganó el The Best con 11 puntos de ventaja sobre Lamine Yamal",
+        "image_url": "https://www.infobae.com/resizer/v2/4ETFP44QGVHFFCEXLBF365W7EQ.jpg?auth=196dda4ac0eed7df3a45b0f4779f7a0c22792d36523958c86e9cde5c1e0bd9b8&height=1265&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/17/dembele-gano-el-the-best-con-11-puntos-de-ventaja-sobre-lamine-yamal/",
+        "date": "2025-12-17 00:00:16",
+        "sentiment_score": 0.549650102853775
+    },
+    {
+        "title": "Arranca la construcción del 'palacio' vip de Madring: vistas premium, 'paddock club' y los boxes de las escuderías",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/16/17659040778775.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/12/17/69418f4bfdddff48358b4590.html",
+        "date": "2025-12-16 23:06:19",
+        "sentiment_score": 0.13667190074920654
+    },
+    {
+        "title": "Las 20 mejores películas españolas de 2025",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/e6254ddced7937c2244bbb4651a0e03c/crop/0x24/1181x1205/f/image/jpeg/assets/multimedia/imagenes/2021/05/31/16224775184865.jpg",
+        "tags": [
+            "artículos luis martínez",
+            "cultura",
+            "cine",
+            "críticas de cine"
+        ],
+        "link": "https://www.elmundo.es/cultura/cine/2025/12/17/693fe90be9cf4a06328b4582.html",
+        "date": "2025-12-16 23:05:16",
+        "sentiment_score": 0.5256201550364494
+    },
+    {
+        "title": "Noche de sufrimiento de los equipos de Primera División en Copa",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2025/12/16/2025121623520541401.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/deportes/noche-sufrimiento-copa-primera-division-copa/20251216235609438554.html",
+        "date": "2025-12-16 22:56:09",
+        "sentiment_score": -0.7015613317489624
+    },
+    {
+        "title": "Christensen y Rashford dan triunfo al Barcelona sobre el modesto Guadalajara en la Copa del Rey",
+        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/12/COPA_DEL_REY_29483.jpg?strip=all&w=1400px",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.bostonherald.com/2025/12/16/christensen-y-rashford-dan-triunfo-al-barcelona-sobre-el-modesto-guadalajara-en-la-copa-del-rey/",
+        "date": "2025-12-16 22:48:53",
+        "sentiment_score": -0.6559339314699173
+    },
+    {
+        "title": "Montserrat en Montserrat",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "montserrat"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/montserrat_0_2005473798.html",
+        "date": "2025-12-17 02:06:12",
+        "sentiment_score": 0.16027972102165222
+    },
+    {
+        "title": "El argentino Guillermo Francella revela su \"costado español\": este es el concejo asturiano donde hunde sus raíces el actor de \"El secreto de sus ojos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/56430a21-4bf5-4929-9e1e-7cdcb3dd3cec_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asturiano",
+            "javier veiga",
+            "principado",
+            "avilés"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2025/12/17/argentino-guillermo-francella-revela-costado-124866986.html",
+        "date": "2025-12-17 02:05:00",
+        "sentiment_score": -0.06076544523239136
+    },
+    {
+        "title": "El Gobierno y el Ayuntamiento de Barcelona destinan 400.000 euros a dos exposiciones sobre el franquismo y el feminismo",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/12/17/franco-R1PgoZw545OcEKqu9ZkUJ2I-1200x840@diario_abc.jpg",
+        "tags": [
+            "cataluña",
+            "españa"
+        ],
+        "link": "https://www.abc.es/espana/cataluna/gobierno-ayuntamiento-barcelona-destinan-400000-euros-dos-20251217025456-nt.html",
+        "date": "2025-12-17 01:54:56",
+        "sentiment_score": -0.08058798313140869
+    },
+    {
+        "title": "Álex Fernández recibe de sorpresa a sus ídolos, en su primer concierto en Madrid",
+        "image_url": "https://www.hola.com/horizon/landscape/37ff3a89633b-67791.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20251217873347/alex-fernandez-visita-ildivo-backstage-primer-concierto-madrid/",
+        "date": "2025-12-17 01:54:39",
+        "sentiment_score": 0.21389037370681763
+    },
+    {
+        "title": "¿Lionel Messi en el Manchester City? La declaración que impactó a todo el mundo",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Lionel-Messi.jpg",
+        "tags": [
+            "titulares",
+            "mark bowen",
+            "lionel messi",
+            "manchester city",
+            "deportes",
+            "futbol"
+        ],
+        "link": "https://lapatilla.com/2025/12/16/lionel-messi-en-el-manchester-city-la-declaracion-que-impacto-a-todo-el-mundo/",
+        "date": "2025-12-17 01:31:03",
+        "sentiment_score": -0.10497211664915085
+    },
+    {
+        "title": "Por qué las fábricas españolas de coches no salen tan mal paradas con el volantazo de Bruselas con la combustión",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c6cdc0da9c1bdb36f71bed7370c9505a/crop/202x97/2870x2765/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053386573556.jpg",
+        "tags": [
+            "motor",
+            "artículos félix cerezo",
+            "unión europea"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/12/17/694201c1e85ece37518b457f.html",
+        "date": "2025-12-17 01:05:08",
+        "sentiment_score": 0.6696561127901077
+    },
+    {
+        "title": "El ICA prohibió el ingreso a Colombia de chorizo o jamón de cerdo proveniente de España para evitar una “catástrofe”",
+        "image_url": "https://www.infobae.com/resizer/v2/KIGEGNF3GFF7JNAC435MHVQAI4.jpg?auth=16bfdae01fa93babbef6b93b54b073e82b5c5f263b78f116a760205316c07289&height=1280&smart=true&width=1920",
+        "tags": [
+            "peste porcina africana",
+            "jamón de cerdo",
+            "colombia-economía",
+            "ica",
+            "colombia-noticias",
+            "cerdo",
+            "españa",
+            "chorizo español"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/12/17/el-ica-prohibio-el-ingreso-a-colombia-de-chorizo-o-jamon-de-cerdo-proveniente-de-espana-para-evitar-una-catastrofe/",
+        "date": "2025-12-17 00:48:15",
+        "sentiment_score": 0.1818685382604599
+    },
+    {
+        "title": "La factoría gallega de IA, otro hito del CESGA: \"Es un momento emocionante y retador, nos pone a otro nivel\"",
+        "image_url": "https://s3.elespanol.com/2025/12/16/actualidad/1003744057404_260504749_1706x960.jpg",
+        "tags": [
+            "innovación",
+            "galicia",
+            "inteligencia artificial",
+            "wake up - digitalización",
+            "tecnología",
+            "branded content"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/galicia/20251217/factoria-gallega-ia-hito-cesga-momento-emocionante-retador-pone-nivel/1003744057368_0.html",
+        "date": "2025-12-17 00:34:00",
+        "sentiment_score": -0.3582821413874626
     }
 ];
