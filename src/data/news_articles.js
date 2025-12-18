@@ -1,277 +1,5 @@
 export default [
     {
-        "title": "Balaídos celebra la primera victoria liguera del Celta ante el Athletic",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251214180954_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-balaidos-celebra-primera-victoria-liguera-celta-athletic-20251214180954.html",
-        "date": "2025-12-14 17:09:54",
-        "sentiment_score": -0.483658567070961
-    },
-    {
-        "title": "Rotundo éxito en Ciudad Real del primer mercadillo ‘Jaleo Village’, dedicado a ropa de segunda mano",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Mercadillo-vintage-_-1.jpg",
-        "tags": [
-            "mercadillo",
-            "ciudad real",
-            "segunda mano",
-            "moda",
-            "evento",
-            "ropa usada"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/ciudad-real/rotundo-exito-en-ciudad-real-del-primer-mercadillo-jaleo-village-dedicado-a-ropa-de-segunda-mano/",
-        "date": "2025-12-14 17:00:00",
-        "sentiment_score": -0.08616939187049866
-    },
-    {
-        "title": "León ya espera al Gordo en el Teatro Real",
-        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/12/14/WhatsApp%20Image%202025-12-14%20at%2015.53.17%20(1)-kWCF-U240554961149eTC-1200x840@Leonoticias.jpeg",
-        "tags": [
-            "gordo",
-            "leon",
-            "real",
-            "espera",
-            "teatro"
-        ],
-        "link": "https://www.leonoticias.com/leon/leon-espera-gordo-teatro-real-20251214173524-nt.html",
-        "date": "2025-12-14 16:35:25",
-        "sentiment_score": -0.09063388407230377
-    },
-    {
-        "title": "Sevilla 4-0 Real Oviedo | El Sevilla desnuda a un Real Oviedo sin alma y deja a Carrión en el alambre",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/14/sevilla-real-oviedo-k2kD-U240554761276kIG-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/sevilla-real-oviedo-sevilla-desnuda-real-oviedo-20251214164555-nt.html",
-        "date": "2025-12-14 16:12:05",
-        "sentiment_score": -0.918564603663981
-    },
-    {
-        "title": "Víctor Valdepeñas, el canterano que ha llamado Xabi Alonso para suplir las bajas por lesión del Real Madrid en el partido ante el Alavés",
-        "image_url": "https://www.infobae.com/resizer/v2/7WTKA4X5S5ACBBSFD4TADRBYTQ.jpeg?auth=1317d1cbcb77f1e4c93de4d573a372ad5d508cf2d84284fb90229f682f77d512&height=606&smart=true&width=1078",
-        "tags": [
-            "fútbol",
-            "fútbol españa",
-            "víctor valdepeñas",
-            "xabi alonso",
-            "real madrid",
-            "alavés",
-            "españa-noticias",
-            "españa-deportes"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/12/14/victor-valdepenas-el-canterano-que-ha-llamado-xabi-alonso-para-suplir-las-bajas-por-lesion-del-real-madrid-en-el-partido-ante-el-alaves/",
-        "date": "2025-12-14 16:09:24",
-        "sentiment_score": -0.8494091220200062
-    },
-    {
-        "title": "El 'obispo de la lotería' ya tienta a la suerte a la puerta del Teatro Real",
-        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/02/04/6/juan-lopez-ante-el-teatro-real-l-n-c.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lanuevacronica.com/actualidad/obispo-loteria-ya-tienta-suerte-puerta-teatro-real_187785_102.html",
-        "date": "2025-12-14 16:04:22",
-        "sentiment_score": 0.03174537420272827
-    },
-    {
-        "title": "El Príncipe de Viana, anfitrión en el Palacio de Olite",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4657ae91-1fe3-4a8f-af1e-8cac2e579504_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "principe",
-            "anfitrion",
-            "viana",
-            "palacio",
-            "olite"
-        ],
-        "link": "https://www.noticiasdenavarra.com/navarra/2025/12/14/principe-viana-anfitrion-palacio-olite-10470469.html",
-        "date": "2025-12-14 15:24:24",
-        "sentiment_score": -0.05074429512023926
-    },
-    {
-        "title": "La villa que no puede faltar en tu ruta por Valladolid: un histórico tratado, un monasterio y el triste destino de una reina",
-        "image_url": "https://s2.ppllstatics.com/mujerhoy/www/multimedia/2025/12/11/tordesillas-iglesia-museo-san-antolin-RovTmi2UwlmTuKhs1hbECQI-758x758@Mujer%20Hoy.jpg",
-        "tags": [
-            "proxima",
-            "historico",
-            "villa",
-            "bello",
-            "triste",
-            "puede",
-            "ruta",
-            "faltar",
-            "tratado",
-            "destino",
-            "valladolid",
-            "reina",
-            "monasterio"
-        ],
-        "link": "https://www.mujerhoy.com/vivir/ocio/tordesillas-valladolid-monasterio-tragedia-reina-juana-20251214142722-nt.html",
-        "date": "2025-12-14 14:30:22",
-        "sentiment_score": 0.3381430059671402
-    },
-    {
-        "title": "La Real llega al parón liguero con un claro triunfo frente al Deportivo (3-0)",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/95b63759-aad0-4eee-8dd4-3c1d56b46330_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "claro",
-            "real",
-            "llega",
-            "liguero",
-            "paron"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/femenino/2025/12/14/real-llega-paron-liguero-claro-10470293.html",
-        "date": "2025-12-14 14:24:46",
-        "sentiment_score": 0.19981083273887634
-    },
-    {
-        "title": "Vicente, dueño de un negocio de oficinas compartidas: \"Montar una por tu cuenta te vale 1.000€ al mes y aquí te cuesta 200€\"",
-        "image_url": "https://s3.elespanol.com/2025/12/12/sociedad/1003744053290_260452700_1706x960.jpg",
-        "tags": [
-            "soft",
-            "trabajo",
-            "negocios",
-            "sociedad"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251214/vicente-dueno-negocio-oficinas-compartidas-montar-cuenta-vale-mes-cuesta/1003744052796_0.html",
-        "date": "2025-12-14 17:06:59",
-        "sentiment_score": 0.5659131594002247
-    },
-    {
-        "title": "Enric Bono: \"Queremos que la gente de Barcelona redescubra La Rambla y su historia viva\"",
-        "image_url": "https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/78527749001/44b1cc36-4d4d-44fc-aeee-3c5898b6a9d7/main/1920x1080/36s96ms/match/image.jpg?pubId=85707284001",
-        "tags": [
-            "redescubra",
-            "rambla",
-            "gente",
-            "queremos",
-            "bono",
-            "barcelona",
-            "viva",
-            "enric",
-            "historia"
-        ],
-        "link": "https://www.elcomercio.es/culturas/enric-bono-queremos-gente-barcelona-redescubra-rambla-20251214165644-vi.html",
-        "date": "2025-12-14 17:05:54",
-        "sentiment_score": -0.007195577025413513
-    },
-    {
-        "title": "Cuatro consejos para mejorar la calidad del esperma, según expertas en fertilidad: “Evita duchas calientes”",
-        "image_url": "https://www.infobae.com/resizer/v2/O6P7FSXVLBAR5OYTKMWZIZQCIM.jpg?auth=abf159b05aa296df3c5f488e54cd1c36542f11bfad2853e67074a820df17fe5c&height=1365&smart=true&width=1920",
-        "tags": [
-            "ciencia",
-            "españa-noticias",
-            "ejercicio",
-            "salud y sexo",
-            "ciencia españa",
-            "españa-salud"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/14/cuatro-consejos-para-mejorar-la-calidad-del-esperma-segun-expertas-en-fertilidad-evita-duchas-calientes/",
-        "date": "2025-12-14 16:55:40",
-        "sentiment_score": 0.3493094816803932
-    },
-    {
-        "title": "Enric Bono: \"Queremos que la gente de Barcelona redescubra La Rambla y su historia viva\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251214174834_120.jpg",
-        "tags": [
-            "cultura y ocio",
-            "vídeos culturaocio"
-        ],
-        "link": "https://www.culturaocio.com/videos/video-enric-bono-queremos-gente-barcelona-redescubra-rambla-historia-viva-20251214174834.html",
-        "date": "2025-12-14 16:48:34",
-        "sentiment_score": 0.35518331825733185
-    },
-    {
-        "title": "Paula Josemaría/Ari Sánchez: fin a una pareja de leyenda",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0f2fb23-cd00-4e1a-a154-715c7a41f021_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "moraleja",
-            "cáceres",
-            "pádel",
-            "premier padel",
-            "paula josemaría"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/deportes/2025/12/14/paula-josemaria-ari-sanchez-pareja-leyenda-padel-separacion-124780074.html",
-        "date": "2025-12-14 16:44:35",
-        "sentiment_score": 0.19511190056800842
-    },
-    {
-        "title": "Reparan tramo del centro histórico de Barcelona",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/12/Bna-Centro-2-300x286.jpg",
-        "tags": [
-            "anzoátegui",
-            "actualidad"
-        ],
-        "link": "https://ultimasnoticias.com.ve/anzoateggui/reparan-tramo-del-centro-historico-de-barcelona/",
-        "date": "2025-12-14 16:44:03",
-        "sentiment_score": -0.10430553555488586
-    },
-    {
-        "title": "Detienen a un hombre en Barcelona por un robo violento en Roma: se cambió de nombre",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/09/19/gran-barcelona/1003742690357_15175176_1706x960.jpg",
-        "tags": [
-            "robos",
-            "mossos d'esquadra",
-            "sucesos",
-            "policía"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sucesos/20251214/detienen-hombre-barcelona-robo-violento-roma-cambio-nombre/1003742715971_0.html",
-        "date": "2025-12-14 16:43:27",
-        "sentiment_score": -0.3283110558986664
-    },
-    {
-        "title": "Confirmado por la Generalitat: el transporte público en Cataluña costará la mitad en 2026 para los jóvenes",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/12/vida/1003742715573_15505867_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "barcelona",
-            "girona",
-            "lleida",
-            "tarragona",
-            "jóvenes",
-            "vida",
-            "transportes"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20251214/confirmado-generalitat-transporte-publico-cataluna-costara-mitad-jovenes-trt/1003742715572_0.html",
-        "date": "2025-12-14 16:30:00",
-        "sentiment_score": 0.26087425649166107
-    },
-    {
-        "title": "Navarra busca cómo ofrecer desde Pamplona a Italia y Alemania",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/65e49908-1a1d-4cf3-ae19-3e887429cb06_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "busca",
-            "italia",
-            "pamplona",
-            "navarra",
-            "ofrecer"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2025/12/14/navarra-busca-ofrecer-pamplona-italia-10463665.html",
-        "date": "2025-12-14 16:29:34",
-        "sentiment_score": 0.07442015409469604
-    },
-    {
-        "title": "Cataluña fía a la estación de la Llagosta y al desdoblamiento del Ebro el impulso a las mercancías por tren",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/12/27/business/820428064_12147409_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "rodalies",
-            "business",
-            "ferrocarrils de la generalitat (fgc)",
-            "mercancías",
-            "importaciones",
-            "exportaciones",
-            "sílvia paneque",
-            "trenes",
-            "industria"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20251214/cataluna-estacion-llagosta-desdoblamiento-ebro-impulso-mercancias/1003742706505_0.html",
-        "date": "2025-12-14 16:27:22",
-        "sentiment_score": -0.9059428833425045
-    },
-    {
         "title": "Horario, canal de TV y dónde ver el Talavera - Real Madrid de los dieciseisavos de la Copa del Rey",
         "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/14/image-82d277cb-9373-4bc4-b796-c2b73e8703c2-85-2560-1440.jpeg",
         "tags": [
@@ -2646,5 +2374,123 @@ export default [
         "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251218/mejores-discos-nacionales-rosalia-lidera-ano-gigantes-gorilas-sanguijuelas/1003744056133_0.html",
         "date": "2025-12-18 00:55:00",
         "sentiment_score": 0.8025687765330076
+    },
+    {
+        "title": "Florentino se rinde: Xabi es el mejor escudo y la solución menos mala",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/91f9df83-0c45-484a-85d7-478106d0df58_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "xabi alonso",
+            "florentino pérez",
+            "real madrid",
+            "fútbol"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/18/florentino-rinde-xabi-mejor-escudo-banquillo-real-madrid-124911444.html",
+        "date": "2025-12-18 06:28:52",
+        "sentiment_score": -0.7235350981354713
+    },
+    {
+        "title": "La nueva dimensión del injerto capilar: lujo, tecnología y vida plena con FUE GOLD en Clínica Frontela",
+        "image_url": "https://static.grupojoly.com/clip/6397ea03-7a4d-4ffc-abb0-1763778a72fc_source-aspect-ratio_1600w_0.jpg",
+        "tags": [
+            "lujo",
+            "dimension",
+            "capilar",
+            "nueva",
+            "injerto"
+        ],
+        "link": "https://www.diariodesevilla.es/bc-sevilla/nueva-dimension-injerto-capilar-lujo_0_2005443921.html",
+        "date": "2025-12-18 06:01:31",
+        "sentiment_score": 0.641169011592865
+    },
+    {
+        "title": "Pedro Sánchez califica de “error histórico” la flexibilización del veto a los motores de combustión",
+        "image_url": "https://static.grupojoly.com/clip/f3a035b7-b2c9-44fc-9151-3fadb0885b51_facebook-aspect-ratio_default_0_x41y7.jpg",
+        "tags": [
+            "historico",
+            "error",
+            "pedro",
+            "califica",
+            "sanchez"
+        ],
+        "link": "https://www.diariodejerez.es/motor/pedro-sanchez-califica-error-historico_0_2005482218.html",
+        "date": "2025-12-18 06:00:31",
+        "sentiment_score": -0.8873834758996964
+    },
+    {
+        "title": "Gonzalo Bernardos, economista, advierte sobre la subida de precios en la vivienda: “Durará bastantes años”",
+        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744009966_259886596_1706x960.jpg",
+        "tags": [
+            "soft",
+            "burbuja inmobiliaria",
+            "gonzalo bernardos",
+            "vivienda",
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251218/gonzalo-bernardos-economista-advierte-subida-precios-vivienda-durara-bastantes-anos/1003744048048_0.html",
+        "date": "2025-12-18 06:39:34",
+        "sentiment_score": -0.0009960383176803589
+    },
+    {
+        "title": "La presunta mina de oro de Zapatero que conectó los negocios del ex presidente entre China y Venezuela",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/22/6921bd0c8b9e3.r_d.1477-909-6973.jpeg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.eldebate.com/espana/20251218/presunta-mina-oro-zapatero-conecto-negocios-ex-presidente-entre-china-venezuela_366591.html",
+        "date": "2025-12-18 06:35:28",
+        "sentiment_score": -0.7200217731297016
+    },
+    {
+        "title": "La última visita guiada a puerta cerrada a la exposición del World Press Photo, la del Club Premium del ARA",
+        "image_url": "https://static1.ara.cat/clip/5c94ca5a-e3e8-418d-a335-11c7710b96d2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ultima",
+            "exposicion",
+            "guiada",
+            "puerta",
+            "world",
+            "photo",
+            "cerrada",
+            "premium",
+            "visita",
+            "press",
+            "ara",
+            "club"
+        ],
+        "link": "https://es.ara.cat/cultura/ultima-visita-guiada-puerta-cerrada-exposicion-world-press-photo-club-premium-ara_1_5595629.html",
+        "date": "2025-12-18 06:32:41",
+        "sentiment_score": 0.026866108179092407
+    },
+    {
+        "title": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades este 18 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "gasolina",
+            "españa-economia",
+            "precio gasolina",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/18/el-precio-mas-alto-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-este-18-de-diciembre/",
+        "date": "2025-12-18 06:30:35",
+        "sentiment_score": -0.006723970174789429
+    },
+    {
+        "title": "Lo que debes saber hoy, 18 de diciembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/11/vivir-en-barcelona/1003742706368_15389774_1706x960.jpg",
+        "tags": [
+            "tráfico",
+            "gran barcelona",
+            "coches",
+            "metro barcelona",
+            "clima",
+            "rodalies",
+            "autobús",
+            "transporte",
+            "renfe barcelona",
+            "transports metropolitans barcelona tmb"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251218/debes-saber-hoy-diciembre-barcelona/1003742717095_0.html",
+        "date": "2025-12-18 06:26:25",
+        "sentiment_score": 0.07664899528026581
     }
 ];
