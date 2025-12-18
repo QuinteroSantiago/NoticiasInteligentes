@@ -1,235 +1,5 @@
 export default [
     {
-        "title": "Arranca un nuevo juicio al comisario Villarejo por un presunto espionaje empresarial",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/14/arranca-un-nuevo-juicio-al-comisario-villarejo-por-un-presunto-espionaje-empresarial/",
-        "date": "2025-12-14 06:30:20",
-        "sentiment_score": -0.830797553062439
-    },
-    {
-        "title": "Ricardo Vilá, asesor financiero, sobre comprar la vivienda a la otra parte en un divorcio: “Es un error que cuesta miles de euros”",
-        "image_url": "https://s3.elespanol.com/2025/12/03/actualidad/1003744040784_260292469_1706x960.jpg",
-        "tags": [
-            "vivienda",
-            "divorcios",
-            "sociedad",
-            "impuestos"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251214/ricardo-vila-asesor-financiero-comprar-vivienda-parte-divorcio-error-cuesta-miles-euros/1003744040701_0.html",
-        "date": "2025-12-14 06:28:21",
-        "sentiment_score": 0.14445459842681885
-    },
-    {
-        "title": "La Escolanía ilumina la Catedral por Navidad",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/40-2-2.jpg",
-        "tags": [
-            "segovia",
-            "la última"
-        ],
-        "link": "https://eladelantado.com/la-escolania-ilumina-la-catedral-por-navidad/",
-        "date": "2025-12-14 06:10:32",
-        "sentiment_score": 0.5787781365215778
-    },
-    {
-        "title": "La familia blanquinegra crece: veteranos del C.D. Badajoz mantienen vivo su legado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cf16269d-e24a-4bcc-928e-a8983366fe61_16-9-aspect-ratio_default_0_x1221y1117.jpg",
-        "tags": [
-            "aspace",
-            "crecimiento",
-            "familia",
-            "convivencia",
-            "fútbol"
-        ],
-        "link": "https://www.lacronicabadajoz.com/badajoz/2025/12/14/familia-blanquinegra-crece-veteranos-c-124767100.html",
-        "date": "2025-12-14 06:05:47",
-        "sentiment_score": 0.4914618358016014
-    },
-    {
-        "title": "La llave ‘maldita’: el secuestro mortal de una pareja a la que tendieron una trampa cuando iban a alquilar una villa en Mijas",
-        "image_url": "https://static.grupojoly.com/clip/4b2718e9-8318-43b3-8d2c-afea0024398f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sucesos málaga",
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/llave-maldita-secuestro-mortal-pareja_0_2005444640.html",
-        "date": "2025-12-14 06:05:02",
-        "sentiment_score": -0.8287020279094577
-    },
-    {
-        "title": "Francisca Pizarro: mestiza de la conquista y herencia imperial",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f469cb77-6624-4480-9e4e-08b357af56b2_16-9-aspect-ratio_default_0_x507y603.jpg",
-        "tags": [
-            "españa",
-            "ribera",
-            "madrid",
-            "extremadura",
-            "más extremadura"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/14/francisca-pizarro-mestiza-conquista-herencia-124733432.html",
-        "date": "2025-12-14 06:02:23",
-        "sentiment_score": -0.44463665783405304
-    },
-    {
-        "title": "Al acecho del gigante herido",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/3845ebcf-36ae-4073-9cde-ce9bd1773698_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "herido",
-            "previa",
-            "alavés",
-            "la liga",
-            "gigante",
-            "real madrid",
-            "acecho"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2025/12/14/acecho-gigante-herido-alaves-real-madrid-la-liga-previa-10468574.html",
-        "date": "2025-12-14 06:00:49",
-        "sentiment_score": -0.46090124547481537
-    },
-    {
-        "title": "El largo peregrinar de los menceyes destronados",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2c46a391-2835-41f5-86e8-c0e48dc7a54f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "guanches",
-            "tenerife",
-            "los reyes",
-            "adeje",
-            "lugo",
-            "güímar",
-            "isla"
-        ],
-        "link": "https://www.laprovincia.es/dominical/2025/12/14/peregrinar-menceyes-destronados-124761499.html",
-        "date": "2025-12-14 06:00:00",
-        "sentiment_score": -0.055590689182281494
-    },
-    {
-        "title": "El Madrid Innovation District del Real Madrid generará 1.200 millones al año",
-        "image_url": "https://wp.emprendedores.es/wp-content/uploads/2025/12/madrid-innovation-hub-real-madrid.jpg",
-        "tags": [
-            "startups",
-            "real madrid"
-        ],
-        "link": "https://emprendedores.es/actualidad/madrid-innovation-district-real-madrid",
-        "date": "2025-12-14 06:00:00",
-        "sentiment_score": 0.29672911018133163
-    },
-    {
-        "title": "Esto es lo que hará tu banco si ganas algún premio importante de la Lotería de Navidad 2025: un movimiento muy habitual",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2024/12/09/6756e975beda4.r_d.2923-1949.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.mundodeportivo.com/actualidad/20251214/1002585740/esto-hara-banco-ganas-premio-importante-loteria-navidad-2025-movimiento-habitual-dct.html",
-        "date": "2025-12-14 06:00:00",
-        "sentiment_score": 0.22680674493312836
-    },
-    {
-        "title": "La Audiencia juzga al yihadista que atacó con un hacha un McDonalds en el Màgic de Badalona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8f35198d-df58-4790-8490-8e13729860f4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "badalona",
-            "yihad",
-            "audiencia nacional"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/badalona/20251214/audiencia-juzga-yihadista-ataco-hacha-mcdonalds-magic-badalona-124767601",
-        "date": "2025-12-14 06:34:40",
-        "sentiment_score": -0.8536315374076366
-    },
-    {
-        "title": "Jane Austen, una fascinación en auge 250 años después de su nacimiento",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/14/jane-austen-una-fascinacion-en-auge-250-anos-despues-de-su-nacimiento/",
-        "date": "2025-12-14 06:30:52",
-        "sentiment_score": 0.7881584726274014
-    },
-    {
-        "title": "La Marató dedica más de 17 horas en directo en Cataluña para sensibilizar sobre el cáncer",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/14/la-marato-dedica-mas-de-17-horas-en-directo-en-cataluna-para-sensibilizar-sobre-el-cancer/",
-        "date": "2025-12-14 06:30:36",
-        "sentiment_score": 0.16782569140195847
-    },
-    {
-        "title": "Alfredo, dueño de un viñedo de 80 hectáreas, en vísperas de Nochevieja: \"Sacaremos 35.000 kilos por hectárea a 1,5€ el kilo\"",
-        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744049153_260400948_1706x960.jpg",
-        "tags": [
-            "soft",
-            "uva",
-            "viñedo",
-            "año nuevo",
-            "sociedad"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251214/alfredo-dueno-vinedo-hectareas-visperas-nochevieja-sacaremos-kilos-hectarea-kilo/1003744048827_0.html",
-        "date": "2025-12-14 06:28:58",
-        "sentiment_score": 0.2837541699409485
-    },
-    {
-        "title": "La Audiencia juzga al yihadista que atacó con un hacha un McDonald ́s de Badalona en 2024",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/14/la-audiencia-juzga-al-yihadista-que-ataco-con-un-hacha-un-mcdonalds-de-badalona-en-2024/",
-        "date": "2025-12-14 06:15:36",
-        "sentiment_score": -0.9065718045458198
-    },
-    {
-        "title": "Mònica Planas: “Muchos de los que me han abucheado o amenazado no se habrían atrevido con un hombre”",
-        "image_url": "https://static1.ara.cat/clip/28aa3701-c1b2-4c63-b77c-4dc2a5132e49_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "no",
-            "abucheado",
-            "hombre",
-            "monica",
-            "han",
-            "habrian",
-            "amenazado",
-            "planas",
-            "atrevido"
-        ],
-        "link": "https://es.ara.cat/videos/monica-planas-han-abucheado-amenazado-no-habrian-atrevido-hombre_7_5591883.html",
-        "date": "2025-12-14 06:01:05",
-        "sentiment_score": -0.14741435647010803
-    },
-    {
-        "title": "\"Muchos de los que me han abucheado o amenazado no se habrían atrevido con un hombre\"",
-        "image_url": "https://static1.ara.cat/clip/28aa3701-c1b2-4c63-b77c-4dc2a5132e49_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "han",
-            "atrevido",
-            "no",
-            "habrian",
-            "abucheado",
-            "hombre",
-            "amenazado"
-        ],
-        "link": "https://es.ara.cat/media/han-abucheado-amenazado-no-habrian-atrevido-hombre_128_5591884.html",
-        "date": "2025-12-14 06:01:05",
-        "sentiment_score": -0.13001008331775665
-    },
-    {
-        "title": "El caso Negreira",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7b0dc4c1-8c98-463d-b616-d0024fee248e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "árbitros",
-            "justicia",
-            "vicepresidente",
-            "barça",
-            "barcelona"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2025/12/14/caso-negreira-opinion-francis-tome-124756863.html",
-        "date": "2025-12-14 06:01:00",
-        "sentiment_score": 0.018069103360176086
-    },
-    {
         "title": "Balaídos celebra la primera victoria liguera del Celta ante el Athletic",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251214180954_690.jpg",
         "tags": [
@@ -355,16 +125,6 @@ export default [
         "link": "https://www.noticiasdegipuzkoa.eus/femenino/2025/12/14/real-llega-paron-liguero-claro-10470293.html",
         "date": "2025-12-14 14:24:46",
         "sentiment_score": 0.19981083273887634
-    },
-    {
-        "title": "El Rayo, a enderezar el rumbo, y el Betis a mantener la pujanza en zona europea",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/14/el-rayo-a-enderezar-el-rumbo-y-el-betis-a-mantener-la-pujanza-en-zona-europea/",
-        "date": "2025-12-14 14:15:23",
-        "sentiment_score": 0.36147937923669815
     },
     {
         "title": "Vicente, dueño de un negocio de oficinas compartidas: \"Montar una por tu cuenta te vale 1.000€ al mes y aquí te cuesta 200€\"",
@@ -510,16 +270,6 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/business/20251214/cataluna-estacion-llagosta-desdoblamiento-ebro-impulso-mercancias/1003742706505_0.html",
         "date": "2025-12-14 16:27:22",
         "sentiment_score": -0.9059428833425045
-    },
-    {
-        "title": "Semana Deportiva: Una multitud esperaba ver a Messi en Calcuta",
-        "image_url": "https://static.wixstatic.com/media/cf263a_c5bc297b657f4e5ebd97844451340822~mv2.png/v1/fit/w_434,h_272,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/semana-deportiva-una-multitud-esperaba-ver-a-messi-en-calcuta",
-        "date": "2025-12-14 13:43:26",
-        "sentiment_score": -0.8535036686807871
     },
     {
         "title": "Horario, canal de TV y dónde ver el Talavera - Real Madrid de los dieciseisavos de la Copa del Rey",
@@ -687,16 +437,6 @@ export default [
         "link": "https://www.infobae.com/espana/agencias/2025/12/14/1-2-el-real-madrid-sufre-y-respira-en-vitoria/",
         "date": "2025-12-14 22:00:42",
         "sentiment_score": -0.09661442041397095
-    },
-    {
-        "title": "Semana Deportiva: Una multitud esperaba ver a Messi en Calcuta",
-        "image_url": "https://static.wixstatic.com/media/cf263a_c5bc297b657f4e5ebd97844451340822~mv2.png/v1/fit/w_434,h_272,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/semana-deportiva-una-multitud-esperaba-ver-a-messi-en-calcuta",
-        "date": "2025-12-14 13:43:26",
-        "sentiment_score": -0.8535036630928516
     },
     {
         "title": "Diez minutos de furia del Celta certifican el mal momento del Athletic en LaLiga",
@@ -2675,5 +2415,236 @@ export default [
         "link": "https://elpais.com/economia/branded/el-poder-de-las-empresas/2025-12-17/los-caminos-que-abre-la-inteligencia-artificial.html",
         "date": "2025-12-17 17:02:37",
         "sentiment_score": 0.5526500344276428
+    },
+    {
+        "title": "Con doblete de Mbappé, Real Madrid resuelve un enredo inesperado en la Copa del Rey",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/343aaae/2147483647/strip/true/crop/2061x1082+0+146/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe9%2F7a%2Fa36f138449c19f353ab86f45d8d5%2F2860fd4ce9814ada8a58482a5c68b413.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-17/con-doblete-de-mbappe-real-madrid-resuelve-un-enredo-inesperado-en-la-copa-del-rey",
+        "date": "2025-12-18 01:06:08",
+        "sentiment_score": 0.0524405837059021
+    },
+    {
+        "title": "Lo mejor de la música en 2025: el 'Wozzeck' de Afkham y el triunfo de la ópera contemporánea española",
+        "image_url": "https://s3.elespanol.com/2025/12/16/actualidad/1003744057863_260510340_1706x960.jpg",
+        "tags": [
+            "el cultural - lo mejor de 2025",
+            "música",
+            "música clásica"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251218/mejor-musica-wozzeck-afkham-triunfo-opera-contemporanea-espanola/1003744057823_0.html",
+        "date": "2025-12-18 00:55:00",
+        "sentiment_score": 0.41491834819316864
+    },
+    {
+        "title": "'Emergency Exit': una fantasía sobre la muerte que será la última película de Marisa Paredes",
+        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744060343_260542379_1706x960.jpg",
+        "tags": [
+            "cine",
+            "estrenos de cine"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20251218/emergency-exit-fantasia-muerte-ultima-pelicula-marisa-paredes/1003744060316_0.html",
+        "date": "2025-12-18 00:55:00",
+        "sentiment_score": -0.024413034319877625
+    },
+    {
+        "title": "Davide Ancelotti abandona el banquillo del Botafogo tras 5 meses en el cargo",
+        "image_url": "https://www.infobae.com/resizer/v2/YYHVI3LKEZAJZDCBYECFLIG6KM.JPG?auth=8f57193eba295f9e3b7d868b79080b08ca9ca72eb5c15cee7119ada4c92e2751&height=3180&smart=true&width=4770",
+        "tags": [
+            "davide ancelotti",
+            "brasil",
+            "españa-noticias",
+            "real madrid",
+            "fútbol",
+            "españa-deportes",
+            "botafogo"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/18/davide-ancelotti-abandona-el-banquillo-del-botafogo-tras-5-meses-en-el-cargo/",
+        "date": "2025-12-18 00:47:41",
+        "sentiment_score": -0.8093234058469534
+    },
+    {
+        "title": "17 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/17-dic-2025-partidazo-cope-20251218_3273544.html",
+        "date": "2025-12-18 00:37:30",
+        "sentiment_score": -0.2461521178483963
+    },
+    {
+        "title": "Mario Alberto Yepes narró los secretos del famoso túnel de Riquelme en un Superclásico",
+        "image_url": "https://www.infobae.com/resizer/v2/ZHZ5VOVLRBAZTLM7N3VXBXYUVU.png?auth=db1a56d23faaf25c189b654259f9c44969d56d9d1e11cf1445f9b6190dad808b&height=770&smart=true&width=1200",
+        "tags": [
+            "superclásico",
+            "clásico",
+            "colombia-deportes",
+            "boca juniors",
+            "juan román riquelme",
+            "mario alberto yepes",
+            "river plate"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/12/18/mario-alberto-yepes-narro-los-secretos-del-famoso-tunel-de-riquelme-en-un-superclasico/",
+        "date": "2025-12-18 00:35:33",
+        "sentiment_score": 0.1891629844903946
+    },
+    {
+        "title": "La familia orensana de Vivián: «Le mandé un mensaje, 'ven con taco largo'»",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/12/17/primos-kXjE-RIVyk470DELn5h3LvwlKkzO-758x531@El%20Correo.jpg",
+        "tags": [
+            "athletic de bilbao",
+            "daniel vivian"
+        ],
+        "link": "https://www.elcorreo.com/athletic/familia-orensana-vivian-mande-mensaje-ven-taco-20251217005937-nt.html",
+        "date": "2025-12-17 23:59:37",
+        "sentiment_score": -0.17888393253087997
+    },
+    {
+        "title": "2a PARTE | 17 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-17-dic-2025-partidazo-cope-20251218_3273527.html",
+        "date": "2025-12-17 23:48:18",
+        "sentiment_score": -0.7535727769136429
+    },
+    {
+        "title": "El insólito gesto de Mastantuono tras un pase de Mbappé que despertó críticas en la victoria de Real Madrid: “¿Qué hizo?”",
+        "image_url": "https://www.infobae.com/resizer/v2/J26XAME4BFGN3E2R4CY735M63Q.jpg?auth=d895256602b994e90cd5a77e5398ab2a194b0ae4c0c6d2141177596277518722&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-argentina",
+            "kylian mbappé",
+            "copa del rey",
+            "talavera",
+            "real madrid",
+            "franco mastantuono"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/17/el-insolito-gesto-de-mastantuono-tras-un-pase-de-mbappe-que-desperto-criticas-en-la-victoria-de-real-madrid-que-hizo/",
+        "date": "2025-12-17 23:47:34",
+        "sentiment_score": 0.3718602731823921
+    },
+    {
+        "title": "El italiano Davide Ancelotti deja el Botafogo",
+        "image_url": "https://www.infobae.com/resizer/v2/WGUV3ARFCZHADB5MF27UEOEUPQ.jpg?auth=aa362202d8b993953262ec44e2be19c4ead6810b34a7fb7789cefc35d6228fab&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/17/el-italiano-davide-ancelotti-deja-el-botafogo/",
+        "date": "2025-12-17 23:45:17",
+        "sentiment_score": -0.4511310011148453
+    },
+    {
+        "title": "El emotivo posteo del fisioterapeuta de Franco Colapinto que fue clave en su preparación en la F1",
+        "image_url": "https://www.infobae.com/resizer/v2/S7C753FTBVBYPJGDHMGRYTI6DI.gif?auth=3a97bb4c70f59bea8cccb17c52e058bd4e4c3fb1f9fbf4c3b4ca6fa62361cc9d&height=608&smart=true&width=1080",
+        "tags": [
+            "franco colapinto",
+            "miguel presencia",
+            "alpine f1 team",
+            "fórmula 1"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/18/el-emotivo-posteo-del-fisioterapeuta-de-franco-colapinto-que-fue-clave-en-su-preparacion-en-la-f1/",
+        "date": "2025-12-18 02:07:29",
+        "sentiment_score": 0.14590108022093773
+    },
+    {
+        "title": "Juanma, nacido en Barcelona",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "nacido",
+            "juanma"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/juanma-nacido-barcelona_0_2005481807.html",
+        "date": "2025-12-18 02:06:22",
+        "sentiment_score": -0.08050315082073212
+    },
+    {
+        "title": "Los escalofriantes detalles del asesinato de Mario Pineida, futbolista del Barcelona de Ecuador: “Fue un ataque dirigido”",
+        "image_url": "https://www.infobae.com/resizer/v2/4DXXMENTN5G23JNHPUPAERWAIE.jpg?auth=870ea3e7bcbebc71ee9cbb11a13966ca060c81d9cf2b2301e62fa45366333993&height=2537&smart=true&width=4510",
+        "tags": [
+            "deportes-internacional",
+            "barcelona de ecuador",
+            "mario pineida",
+            "ecuador",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/18/los-escalofriantes-detalles-del-asesinato-de-mario-pineida-futbolista-del-barcelona-de-ecuador-fue-un-ataque-dirigido/",
+        "date": "2025-12-18 01:36:06",
+        "sentiment_score": -0.5975443199276924
+    },
+    {
+        "title": "ING planea doblar su negocio global de inversión en cinco años y sitúa a España como mercado prioritario",
+        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744060249_260541294_1706x960.jpg",
+        "tags": [
+            "ing",
+            "fondos de inversión",
+            "banca"
+        ],
+        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20251218/ing-planea-doblar-negocio-global-inversion-anos-situa-espana-mercado-prioritario/1003744060237_0.html",
+        "date": "2025-12-18 01:31:20",
+        "sentiment_score": 0.28385765105485916
+    },
+    {
+        "title": "La cadena de descuento Action apuesta por España: prevé abrir cerca de 40 tiendas en 2026 y no descarta llegar a las islas",
+        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744055500_260481681_1706x960.jpg",
+        "tags": [
+            "distribución",
+            "action"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20251218/cadena-descuento-action-apuesta-espana-preve-abrir-cerca-tiendas-no-descarta-llegar-islas/1003744055424_0.html",
+        "date": "2025-12-18 01:30:58",
+        "sentiment_score": 0.6688865721225739
+    },
+    {
+        "title": "Granada y Zaragoza, las primeras ciudades en presentar su candidatura para alojar la Agencia Estatal de Salud Pública",
+        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744060345_260542400_1706x960.jpg",
+        "tags": [
+            "sanidad - política sanitaria",
+            "sanidad - actualidad sanitaria",
+            "observatorio de la sanidad"
+        ],
+        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20251218/granada-zaragoza-primeras-ciudades-presentar-candidatura-alojar-agencia-estatal-salud-publica/1003744060216_0.html",
+        "date": "2025-12-18 01:10:00",
+        "sentiment_score": 0.46425427682697773
+    },
+    {
+        "title": "Joyería hip-hop con acento barcelonés",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/13/693dd00532fbf.r_d.2095-1243-1114.jpeg",
+        "tags": [
+            "emprendedores"
+        ],
+        "link": "https://www.lavanguardia.com/economia/emprendedores/20251218/11360712/joyeria-hip-hop-gold-dealers.html",
+        "date": "2025-12-18 01:00:00",
+        "sentiment_score": 0.6626644572243094
+    },
+    {
+        "title": "Seat y España se alzan como grandes beneficiados de la prórroga de la UE",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/67985ea5cb7d72f8f692050ab1c3b152/crop/65x23/1973x1295/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/17/17659976281593.jpg",
+        "tags": [
+            "sostenibilidad>",
+            "motor>",
+            "artículos carlos drake>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/empresas/motor/2025/12/18/6942fd53e5fdeaf45a8b45f2.html",
+        "date": "2025-12-18 00:57:17",
+        "sentiment_score": 0.006062932312488556
+    },
+    {
+        "title": "Los mejores discos nacionales de 2025: Rosalía lidera el año entre gigantes, gorilas y sanguijuelas",
+        "image_url": "https://s3.elespanol.com/2025/10/30/actualidad/1003743992808_260491183_1706x960.jpg",
+        "tags": [
+            "discos música",
+            "el cultural - lo mejor de 2025",
+            "música"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251218/mejores-discos-nacionales-rosalia-lidera-ano-gigantes-gorilas-sanguijuelas/1003744056133_0.html",
+        "date": "2025-12-18 00:55:00",
+        "sentiment_score": 0.8025687765330076
     }
 ];
