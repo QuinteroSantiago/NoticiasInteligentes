@@ -1,434 +1,5 @@
 export default [
     {
-        "title": "Hansi Flick mejora el rendimiento del Barça con mano dura: más meritocracia y menos 'vacas sagradas'",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/13/culemania/primer-equipo/1003742715902_15510191_1706x960.jpg",
-        "tags": [
-            "hansi flick",
-            "joan laporta",
-            "frenkie de jong",
-            "robert lewandowski",
-            "laliga",
-            "primer equipo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251213/hansi-flick-mejora-rendimiento-barca-meritocracia-sagradas/1003742715898_0.html",
-        "date": "2025-12-13 22:05:17",
-        "sentiment_score": 0.5577767118811607
-    },
-    {
-        "title": "Del Mobile a la Fórmula 1: ¿amenaza el cerco a los pisos turísticos la celebración de megaeventos?",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
-        "tags": [
-            "artículos clara rojas",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/economia/vivienda/2025/12/13/693c5badfc6c832c278b458f.html",
-        "date": "2025-12-13 21:43:23",
-        "sentiment_score": -0.4715760499238968
-    },
-    {
-        "title": "Europa busca su sitio en el orden mundial tras el golpe del trumpismo",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/5e9841c93535725f3d78830e3b5fd585/f/image/jpeg/assets/multimedia/imagenes/2022/04/26/16509973411538.jpg",
-        "tags": [
-            "estados unidos",
-            "gran angular",
-            "unión europea",
-            "artículos pablo pardo",
-            "nlpremium",
-            "rusia",
-            "internacional",
-            "europa"
-        ],
-        "link": "https://www.elmundo.es/internacional/2025/12/13/6939a00a21efa04a468b4585.html",
-        "date": "2025-12-13 21:42:02",
-        "sentiment_score": -0.7931611370295286
-    },
-    {
-        "title": "Flamengo vs. PSG: Jorge Carrascal buscará sumarse a la lista de colombianos que han sido campeones intercontinentales",
-        "image_url": "https://www.infobae.com/resizer/v2/SL6AKJNUPVCJNOSOPKHPZGSROA.png?auth=569579fdfd62e906c0f245cec1b8bcd22f8daf9d50fa3fc8bbd7b82403476177&height=1600&smart=true&width=2400",
-        "tags": [
-            "flamengo",
-            "copa intercontinental",
-            "colombia-deportes",
-            "colombianos",
-            "psg",
-            "fifa",
-            "final",
-            "jorge carrascal"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/12/13/flamengo-vs-psg-jorge-carrascal-buscara-sumarse-a-la-lista-de-colombianos-que-han-sido-campeones-intercontinentales/",
-        "date": "2025-12-13 21:38:44",
-        "sentiment_score": 0.05308964103460312
-    },
-    {
-        "title": "Ayón afirma que al baloncetista mexicano le falta \"fortaleza mental\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe",
-            "partidos de despedida",
-            "amistosos",
-            "deportistas"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/13/ayon-afirma-que-al-baloncetista-mexicano-le-falta-fortaleza-mental/",
-        "date": "2025-12-13 21:30:25",
-        "sentiment_score": -0.5819608140736818
-    },
-    {
-        "title": "Flick ensalza el trabajo de la Masía y manda un recado a Ter Stegen",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/13/culemania/primer-equipo/1003742715882_15509933_1706x960.jpg",
-        "tags": [
-            "hansi flick",
-            "primer equipo",
-            "la masía",
-            "raphinha"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251213/flick-ensalza-trabajo-masia-recado-ter-stegen/1003742715881_0.html",
-        "date": "2025-12-13 21:26:36",
-        "sentiment_score": 0.29519394040107727
-    },
-    {
-        "title": "«Cada proyecto me exige un nivel emocional distinto, y eso es lo que más me motiva»",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/12/09/1000162649-kohD-U240498797308KsH-1200x840@Ideal.jpg",
-        "tags": [
-            "cultura",
-            "galicia",
-            "trabajo",
-            "juan josé ballesta",
-            "jaén (provincia)",
-            "cine",
-            "málaga",
-            "valladolid (ciudad)",
-            "academia del cine español"
-        ],
-        "link": "https://www.ideal.es/jaen/jaen/proyecto-exige-nivel-emocional-distinto-motiva-20251209221747-nt.html",
-        "date": "2025-12-13 21:17:47",
-        "sentiment_score": 0.6336035951972008
-    },
-    {
-        "title": "Ayón afirma que al baloncetista uruguayo le falta \"fortaleza mental\"",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/13/ayon-afirma-que-al-baloncetista-uruguayo-le-falta-fortaleza-mental/",
-        "date": "2025-12-13 21:16:30",
-        "sentiment_score": -0.6025655921548605
-    },
-    {
-        "title": "Rapinha rescata al Barcelona con un doblete ante Osasuna y afianza el liderato",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/13170848/Rapinha.jpg",
-        "tags": [
-            "deportes",
-            "rapinha",
-            "barcelona",
-            "fútbol",
-            "osasuna"
-        ],
-        "link": "https://www.elnacional.com/2025/12/rapinha-rescata-al-barcelona-con-un-doblete-ante-osasuna-y-afianza-el-liderato/",
-        "date": "2025-12-13 21:10:18",
-        "sentiment_score": 0.49390872567892075
-    },
-    {
-        "title": "Flick apunta al Real Madrid: \"Nos beneficia poner presión a los demás\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/13/image-584eeed7-68fd-41d3-ae49-98165ab67840-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025-2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/flick-apunta-real-madrid-es-bueno-poner-presion-rivales_sto23250422/story.shtml",
-        "date": "2025-12-13 21:04:01",
-        "sentiment_score": -0.23984672129154205
-    },
-    {
-        "title": "Este es el primer puente que se celebrará en Barcelona en 2026 (después de Año Nuevo): cuatro días de fiesta",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/01/28/vivir-en-barcelona/828427193_12328772_1706x960.jpg",
-        "tags": [
-            "vivir en barcelona",
-            "festivos barcelona",
-            "recomendaciones",
-            "calendario laboral"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251213/primer-puente-celebrara-barcelona-despues-ano-nuevo-dias-fiesta/1003742715901_0.html",
-        "date": "2025-12-13 22:07:12",
-        "sentiment_score": 0.5967460162937641
-    },
-    {
-        "title": "Se cumple un año de la muerte de Isak Andic, fundador de Mango: sin indicios concluyentes de muerte criminal",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/12/16/asi-son-las-cuevas-de-salnitre-de-collbato-el-entorno-donde-ha-muerto-el-dueno-de-mango-isak-andic.webp",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/cumple-ano-muerte-isak-andic-fundador-mango-sin-indicios-muerte-criminal_6910253_0.html",
-        "date": "2025-12-13 21:59:03",
-        "sentiment_score": -0.5386833995580673
-    },
-    {
-        "title": "«La elección del centro de Asturias por Amazon fue la mejor, la ubicación es envidiable»",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/13/amazon-siero-RYD4dqf2uXGDiT8qwwne07O-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "siero",
-            "amazon",
-            "el comercio",
-            "navidad",
-            "innovación",
-            "principado de asturias"
-        ],
-        "link": "https://www.elcomercio.es/area-metropolitana-asturias/siero-centro/eleccion-centro-asturias-amazon-mejor-ubicacion-envidiable-20251213204529-nt.html",
-        "date": "2025-12-13 21:58:15",
-        "sentiment_score": 0.39189422130584717
-    },
-    {
-        "title": "La provincia de Almería supera los 773.500 vecinos y la capital gana casi 3.000 habitantes",
-        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2025/12/13/gentecalle.jpg",
-        "tags": [
-            "almería (provincia)",
-            "almería",
-            "ine"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/provincia-almeria-supera-773500-vecinos-capital-gana-20251214225621-nt.html",
-        "date": "2025-12-13 21:56:22",
-        "sentiment_score": 0.4256376028060913
-    },
-    {
-        "title": "El Espanyol toca techo y amenaza con romperlo",
-        "image_url": "https://static1.ara.cat/clip/6cc616ea-b9ed-40c3-9756-5cdd66160209_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "amenaza",
-            "cargarselo",
-            "espanyol",
-            "toca",
-            "techo"
-        ],
-        "link": "https://es.ara.cat/deportes/rcd-espanyol/espanyol-toca-techo-amenaza-cargarselo_1_5591867.html",
-        "date": "2025-12-13 21:53:12",
-        "sentiment_score": 0.12457919120788574
-    },
-    {
-        "title": "La falta de jugadoras frustra al Miralvalle",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/13/Adrijana-Rvf0YCcE5xrhiV5QQFyb6lL-1200x840@Hoy.jpg",
-        "tags": [
-            "plasencia",
-            "baloncesto"
-        ],
-        "link": "https://www.hoy.es/deportes/baloncesto/falta-jugadoras-frustra-miralvalle-20251213224135-nt.html",
-        "date": "2025-12-13 21:41:35",
-        "sentiment_score": 0.42148375511169434
-    },
-    {
-        "title": "El entrenador de Osasuna clama por el penalti no pitado: «En la tele no lo han puesto mucho...»",
-        "image_url": "https://okdiario.com/img/2025/12/13/imagen_recortada-3-3.jpg",
-        "tags": [
-            "deportes",
-            "fc barcelona",
-            "club atlético osasuna",
-            "barcelona"
-        ],
-        "link": "https://okdiario.com/deportes/entrenador-osasuna-clama-penalti-no-pitado-tele-no-lo-han-puesto-mucho-15931096",
-        "date": "2025-12-13 21:30:47",
-        "sentiment_score": -0.6400462165474892
-    },
-    {
-        "title": "Las otras Navidades de Madrid: liturgia ortodoxa en Hortaleza, culto evangélico en Aluche o Hanukkah en Alcobendas",
-        "image_url": "https://s3.elespanol.com/2025/12/13/actualidad/1003744054178_260464773_1706x960.jpg",
-        "tags": [
-            "religión",
-            "navidades",
-            "sociedad",
-            "madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251214/navidades-madrid-liturgia-ortodoxa-hortaleza-culto-evangelico-aluche-hanukkah-alcobendas/1003744053690_0.html",
-        "date": "2025-12-14 02:09:59",
-        "sentiment_score": 0.21537740528583527
-    },
-    {
-        "title": "El de Íñigo Onieva y los otros clubes de socios que ya tienen lista de espera antes de abrir: membresías de 2.000 euros",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053006_260449069_1706x960.jpg",
-        "tags": [
-            "restaurantes",
-            "iñigo onieva",
-            "ocio"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20251214/inigo-onieva-clubes-socios-lista-espera-abrir-membresias-euros/1003744052440_0.html",
-        "date": "2025-12-14 02:08:11",
-        "sentiment_score": 0.44632886722683907
-    },
-    {
-        "title": "\"La familia es un reducto contra el Estado y su poder uniformador\"",
-        "image_url": "https://static.grupojoly.com/clip/b8ae4b18-51ce-4474-bf1c-7bdf3c2c7b84_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "reducto",
-            "familia",
-            "uniformador"
-        ],
-        "link": "https://www.diariodesevilla.es/rastrodelafama/familia-reducto-uniformador_0_2005447836.html",
-        "date": "2025-12-14 02:00:47",
-        "sentiment_score": -0.11990796774625778
-    },
-    {
-        "title": "Álvaro Falcón, de llevar las arras como Seise en la boda de la infanta Elena a montar pistas de hielo en 82 países",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052855_260447233_1706x960.jpg",
-        "tags": [
-            "parques de atracciones",
-            "tradiciones",
-            "infantas",
-            "casa real",
-            "sevilla (municipio)",
-            "empresas",
-            "patinaje sobre hielo",
-            "sevilla"
-        ],
-        "link": "https://www.elespanol.com/sevilla/20251214/alvaro-falcon-llevar-arras-seise-boda-infanta-elena-montar-pistas-hielo-paises-dl/1003744048306_0.html",
-        "date": "2025-12-14 01:32:18",
-        "sentiment_score": 0.30450239777565
-    },
-    {
-        "title": "Beret: \"Mi hermana murió por una negligencia médica, parece que se dejaron algo dentro. Fue la cosa más dura del mundo\"",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052817_260446922_1706x960.jpg",
-        "tags": [
-            "canciones",
-            "reportajes",
-            "música",
-            "sevilla (municipio)"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251214/beret-hermana-murio-negligencia-medica-parece-dejaron-dentro-cosa-dura-mundo/1003744052786_0.html",
-        "date": "2025-12-14 01:30:01",
-        "sentiment_score": -0.18946541845798492
-    },
-    {
-        "title": "Martínez Sola, el español que ya hundió Air Madrid y mantiene Plus Ultra a flote con dinero de Maduro, Obiang y el castrismo",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053781_260459214_1706x960.jpg",
-        "tags": [
-            "aviación",
-            "empresas",
-            "plus ultra líneas aéreas",
-            "reportajes",
-            "covid-19",
-            "gobierno de españa",
-            "sepi sociedad estatal participaciones industriales",
-            "policía nacional",
-            "udef"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251214/martinez-sola-espanol-hundio-air-madrid-mantiene-plus-ultra-flote-dinero-maduro-obiang-castrismo/1003744052726_0.html",
-        "date": "2025-12-14 01:25:34",
-        "sentiment_score": -0.8455064408481121
-    },
-    {
-        "title": "Raphinha anota dos en la victoria del Barcelona ante Osasuna",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/5ba7a82/2147483647/strip/true/crop/4979x2614+0+353/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd5%2Fe7%2Fe5ec257b461aa2accae9dea35362%2Fe1bb3a7532934e83b4910766b05197db.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-13/raphinha-anota-dos-en-la-victoria-del-barcelona-ante-osasuna",
-        "date": "2025-12-14 01:17:48",
-        "sentiment_score": 0.7616387978196144
-    },
-    {
-        "title": "Álvaro Benito, con Pignoise: \"A nosotros no se nos tomó en serio por ser yo futbolista; ahora pasa lo mismo con Ramos\"",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053993_260462436_1706x960.jpg",
-        "tags": [
-            "pignoise",
-            "ruta por el madrid de...",
-            "alvaro benito",
-            "sociedad"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251214/alvaro-benito-pignoise-no-tomo-serio-futbolista-ahora-pasa-mismo-ramos/1003744053950_0.html",
-        "date": "2025-12-14 01:11:35",
-        "sentiment_score": -0.6971652433276176
-    },
-    {
-        "title": "En el centenario de Pablo Iglesias Posse",
-        "image_url": "https://s3.elespanol.com/2025/12/13/actualidad/1003744054431_260467858_1706x960.jpg",
-        "tags": [
-            "el comentario",
-            "psoe (partido socialista obrero español)",
-            "fernando mora"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/opinion/el-comentario/20251214/centenario-pablo-iglesias-posse/1003744054427_12.html",
-        "date": "2025-12-14 01:00:00",
-        "sentiment_score": 0.0008615180850028992
-    },
-    {
-        "title": "Qué fue de Betty Missiego, la cantante hispanoperuana que representó a España en Eurovisión en 1979 en Israel",
-        "image_url": "https://s3.elespanol.com/2025/12/10/actualidad/1003744049922_260410010_1706x960.jpg",
-        "tags": [
-            "eurovisión",
-            "cantantes",
-            "qué fue de...",
-            "famosos"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251214/betty-missiego-cantante-hispanoperuana-represento-espana-eurovision-israel/1003744049787_0.html",
-        "date": "2025-12-14 00:43:16",
-        "sentiment_score": -0.18346866965293884
-    },
-    {
-        "title": "Guido Pizarro: de capitán en la cancha a líder en el banquillo de Tigres y a un paso de ser campeón",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2025/12/13/guido-pizarro-capitan-banquillo-campeon-tigres-orix/",
-        "date": "2025-12-14 02:03:43",
-        "sentiment_score": 0.3212639093399048
-    },
-    {
-        "title": "Reutilizar botellas de cava: Barcelona pone en marcha un servicio de recogida por Navidad",
-        "image_url": "https://album.mediaset.es/eimg/2025/11/21/champan-unsplash_d650.jpg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.telecinco.es/noticias/catalunya/20251214/reutilizar-botellas-cava-servicio-recogida-navidad-barcelona_18_017798923.html",
-        "date": "2025-12-14 02:00:04",
-        "sentiment_score": 0.12115225195884705
-    },
-    {
-        "title": "De lejía caducada al 'Chernóbil biológico': cómo escapan los virus de laboratorios de alta seguridad como el de Barcelona",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053880_260461005_1706x960.jpg",
-        "tags": [
-            "ciencia",
-            "infecciones",
-            "bacterias",
-            "virus",
-            "ántrax",
-            "peste porcina",
-            "viruela"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20251214/lejia-caducada-chernobil-biologico-escapan-virus-laboratorios-alta-seguridad-barcelona/1003744053579_0.html",
-        "date": "2025-12-14 01:28:43",
-        "sentiment_score": -0.8023799788206816
-    },
-    {
-        "title": "Crece la sublevación de los médicos contra la doble cara de Mónica García: \"Era la doctora Jekyll y se volvió míster Hyde\"",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053680_260457839_1706x960.jpg",
-        "tags": [
-            "gobierno de españa",
-            "ministerio de sanidad",
-            "reportajes",
-            "mónica garcía gómez",
-            "porfolio",
-            "comunidades autónomas",
-            "huelgas",
-            "sanidad",
-            "sumar"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251214/crece-sublevacion-medicos-doble-cara-monica-garcia-doctora-jekyll-volvio-mister-hyde/1003744053096_0.html",
-        "date": "2025-12-14 01:27:45",
-        "sentiment_score": 0.016179949045181274
-    },
-    {
-        "title": "Roberto Ruiz, el 'embajador' de México que es feliz sin estrella y que ha enseñado a los madrileños que las tortillas no son tortitas",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/632557bea609862e01ed11e93e759d34/crop/22x22/923x923/f/image/jpeg/assets/multimedia/imagenes/2022/08/12/16602970788092.jpg",
-        "tags": [
-            "gastronomía",
-            "madrid",
-            "restaurantes",
-            "barcelona",
-            "comer"
-        ],
-        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/12/14/693a8e97fc6c837b068b4581.html",
-        "date": "2025-12-14 00:27:56",
-        "sentiment_score": 0.15904122591018677
-    },
-    {
         "title": "Arranca un nuevo juicio al comisario Villarejo por un presunto espionaje empresarial",
         "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
         "tags": [
@@ -2959,5 +2530,150 @@ export default [
         "link": "https://www.laopiniondemalaga.es/nacional/2025/12/17/fiscalia-pide-4-anos-medio-hachazos-yihadista-comida-rapida-badalona-124871754.html",
         "date": "2025-12-17 06:24:55",
         "sentiment_score": -0.871046407148242
+    },
+    {
+        "title": "17:00H | 17 DIC 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-17-dic-2025-tarde-20251217_3273401.html",
+        "date": "2025-12-17 17:11:00",
+        "sentiment_score": -0.6324836537241936
+    },
+    {
+        "title": "Lo que Cerdán ha defendido y ha callado en el Senado tras su paso por cinco meses de prisión",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/736dd679-d88f-49ef-8fad-c3e7f8d17c8e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "psoe",
+            "política",
+            "caso koldo",
+            "guardia civil",
+            "senado"
+        ],
+        "link": "https://www.lacronicabadajoz.com/nacional/2025/12/17/cerdan-defendido-callado-senado-paso-124896505.html",
+        "date": "2025-12-17 17:05:59",
+        "sentiment_score": -0.6177545432001352
+    },
+    {
+        "title": "La Fórmula 1 presentó las primeras imágenes de cómo son los coches del 2026 y detalló el nuevo modo para los sobrepasos en carrera",
+        "image_url": "https://www.infobae.com/resizer/v2/WDDHUQ55KZH53LVZEDLVD26VSY.jpg?auth=8544cf5d4e7ebd85d04b500c3dff0dcce2ef3228a1e4b08cdf2191c836a87e9b&height=1080&smart=true&width=1920",
+        "tags": [
+            "fórmula 1",
+            "red bull",
+            "alpine",
+            "fia",
+            "pirelli",
+            "f1",
+            "williams",
+            "f1 hoy",
+            "mclaren",
+            "mercedes"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/17/la-formula-1-presento-las-primeras-imagenes-de-como-son-los-coches-del-2026-y-detallo-el-nuevo-modo-para-los-sobrepasos-en-carrera/",
+        "date": "2025-12-17 17:13:57",
+        "sentiment_score": 0.6596926767379045
+    },
+    {
+        "title": "KPMG incorpora como socios en Barcelona a Clara Guasch, Belén García, Cristina Civit y Álex Esteban",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251217181247_120.jpg",
+        "tags": [
+            "andorra",
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/andorra-01111/noticia-kpmg-incorpora-socios-barcelona-clara-guasch-belen-garcia-cristina-civit-alex-esteban-20251217181247.html",
+        "date": "2025-12-17 17:12:47",
+        "sentiment_score": 0.09274979680776596
+    },
+    {
+        "title": "El Puerto de Vigo estrena un nuevo sistema de carga de semirremolques: \"Una auténtica revolución\"",
+        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744060023_260538289_1706x960.jpg",
+        "tags": [
+            "comarca de vigo",
+            "vigo",
+            "cámara de comercio"
+        ],
+        "link": "https://www.elespanol.com/treintayseis/vigo/20251217/puerto-vigo-estrena-nuevo-sistema-carga-semirremolques-autentica-revolucion/1003744060010_0.html",
+        "date": "2025-12-17 17:11:30",
+        "sentiment_score": 0.5342436283826828
+    },
+    {
+        "title": "Así es la nueva ley catalana que obliga a las administraciones a «recuperar» la «memoria democrática LGBTI»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/17/6942e3c018f35.r_d.972-480-6250.jpeg",
+        "tags": [
+            "cataluña"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/20251217/asi-nueva-ley-catalana-obliga-administraciones-recuperar-memoria-democratica-lgbti_366459.html",
+        "date": "2025-12-17 17:11:03",
+        "sentiment_score": -0.2946641966700554
+    },
+    {
+        "title": "Acuerdo entre Barcelona y Osaka para colaborar en ámbitos \"clave\" como emprendimiento o turismo",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/12/17/C4960293-7D25-40F6-8166-C2825CF7055C/collboni-firmando-acuerdo_69.jpg?crop=1920%2C1080%2Cx0%2Cy103&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/acuerdo-barcelona-osaka-colaborar-ambitos-clave-como-emprendimiento-turismo_202512176942e3dbaf09df50108b457d.html",
+        "date": "2025-12-17 17:09:47",
+        "sentiment_score": 0.04698886722326279
+    },
+    {
+        "title": "El presidente de Hotusa considera \"demencial\" el aumento de la tasa turística de Barcelona",
+        "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://es.investing.com/news/stock-market-news/el-presidente-de-hotusa-considera-demencial-el-aumento-de-la-tasa-turistica-de-barcelona-3439966",
+        "date": "2025-12-17 17:06:13",
+        "sentiment_score": -0.7113670147955418
+    },
+    {
+        "title": "Barcelona refuerza la recogida de las hojas caídas en las calles de la ciudad",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/12/17/63636D04-7E5A-4BBC-A4E3-D042378EADD8/primera-teniente-alcalde-ayuntamiento-barcelona-laia-bonet-afirmado-que-gobierno-municipal-reforzado-servicio-limpieza-recogida-hojas-calles-ciudad-ma_69.jpg?crop=1920%2C1080%2Cx0%2Cy119&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/barcelona-refuerza-recogida-hojas-caidas-calles-ciudad_202512176942e26caf09df50108b43dc.html",
+        "date": "2025-12-17 17:03:40",
+        "sentiment_score": -0.8999526919797063
+    },
+    {
+        "title": "Barcelona presenta el plan para mejorar la movilidad durante las obras de la línea L8: todos los detalles",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/11/10/movilidad/808679378_11869377_1706x960.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "obras",
+            "vivir en barcelona",
+            "ferrocarrils de la generalitat (fgc)"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251217/barcelona-presenta-plan-mejorar-movilidad-obras-linea-l8-detalles/1003742716961_0.html",
+        "date": "2025-12-17 17:03:34",
+        "sentiment_score": -0.6545634269714355
+    },
+    {
+        "title": "Catalá: \"No me perdonaría no hacer el mismo esfuerzo que nuestros antepasados con el desvío del Turia\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c2bea211-89d8-40b8-8545-b99006615ac4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "inundaciones",
+            "área metropolitana",
+            "agua",
+            "emshi",
+            "comunitat valenciana"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2025/12/17/catala-perdonaria-esfuerzo-antepasados-desvio-124895890.html",
+        "date": "2025-12-17 17:02:52",
+        "sentiment_score": 0.19915013015270233
+    },
+    {
+        "title": "Los caminos que abre la inteligencia artificial",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/VSZ75QG7NZD6HAHZU76DHNIJBY.jpg?auth=afaf7223040348f3a25150d78c06d4569534009564339a347f42ad5298963c29&width=1200",
+        "tags": [
+            "business"
+        ],
+        "link": "https://elpais.com/economia/branded/el-poder-de-las-empresas/2025-12-17/los-caminos-que-abre-la-inteligencia-artificial.html",
+        "date": "2025-12-17 17:02:37",
+        "sentiment_score": 0.5526500344276428
     }
 ];
