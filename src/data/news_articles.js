@@ -1,18 +1,5 @@
 export default [
     {
-        "title": "Las cuatro claves del triunfo de José Antonio Kast en Chile",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Screenshot_85.jpg",
-        "tags": [
-            "chile",
-            "josé antonio kast",
-            "internacionales",
-            "actualidad"
-        ],
-        "link": "https://lapatilla.com/2025/12/15/las-cuatro-claves-del-triunfo-de-jose-antonio-kast-en-chile/",
-        "date": "2025-12-15 10:22:47",
-        "sentiment_score": 0.6518082767724991
-    },
-    {
         "title": "¿Cuánto toca con el quinto premio de la Lotería de Navidad?",
         "image_url": "https://okdiario.com/img/2023/12/18/imagen_recortada-15.jpg",
         "tags": [
@@ -268,19 +255,6 @@ export default [
         "link": "https://www.infosalus.com/asistencia/noticia-personas-trastorno-salud-mental-acuden-casi-doble-medico-estudio-20251215180410.html",
         "date": "2025-12-15 17:04:10",
         "sentiment_score": -0.019587524235248566
-    },
-    {
-        "title": "Las cuatro claves del triunfo de José Antonio Kast en Chile",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Screenshot_85.jpg",
-        "tags": [
-            "chile",
-            "josé antonio kast",
-            "internacionales",
-            "actualidad"
-        ],
-        "link": "https://lapatilla.com/2025/12/15/las-cuatro-claves-del-triunfo-de-jose-antonio-kast-en-chile/",
-        "date": "2025-12-15 10:22:47",
-        "sentiment_score": 0.6518086977303028
     },
     {
         "title": "Resultados, clasificación y resúmenes acabada la Jornada 16 de LaLiga EA Sports 25-26",
@@ -2346,5 +2320,142 @@ export default [
         "link": "https://www.elmundo.es/cataluna/2025/12/18/69444412fdddffcf3b8b45c0.html",
         "date": "2025-12-18 21:44:38",
         "sentiment_score": -0.8473134506493807
+    },
+    {
+        "title": "Los nuevos robots del 'rey de los tractores' que cambiarán el campo: autónomos y ahorran un 50% de agua y fertilizantes",
+        "image_url": "https://s3.elespanol.com/2025/12/18/omicrono/tecnologia/1003744060938_260549636_1706x960.jpg",
+        "tags": [
+            "innovación",
+            "vehículo eléctrico",
+            "agricultura",
+            "tecnología",
+            "robótica"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20251219/nuevos-robots-rey-tractores-cambiaran-campo-autonomos-ahorran-agua-fertilizantes/1003744060033_0.html",
+        "date": "2025-12-19 01:58:29",
+        "sentiment_score": 0.6267016716301441
+    },
+    {
+        "title": "Las diez mejores obras de teatro en 2025: una búsqueda de la esencia y la emoción",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052612_260444299_1706x960.jpg",
+        "tags": [
+            "el cultural - lo mejor de 2025",
+            "teatro"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/teatro/20251219/mejores-obras-teatro-busqueda-esencia-emocion/1003744052564_0.html",
+        "date": "2025-12-19 00:55:00",
+        "sentiment_score": 0.16502605378627777
+    },
+    {
+        "title": "Joan Laporta carga contra el Real Madrid: \"Tienen un bodrio de televisión, vomitan mentiras e intoxican\"",
+        "image_url": "https://www.infobae.com/resizer/v2/MRV626SXIVCG3JISD6RWWIGG2A.jpg?auth=d0a1fa2a9adacbfa303c3a3b94f05a1058717ee861e9717c2e5936fe8bd11877&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/19/joan-laporta-carga-contra-el-real-madrid-tienen-un-bodrio-de-television-vomitan-mentiras-e-intoxican/",
+        "date": "2025-12-19 00:45:32",
+        "sentiment_score": -0.9260100247338414
+    },
+    {
+        "title": "El 'fenómeno' Manu Ríos: del grupo Parchís a actor de moda, con 9,5 millones de seguidores y una empresa de moda urbana",
+        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744061038_260551045_1706x960.jpg",
+        "tags": [
+            "instagram",
+            "manu ríos",
+            "cantantes",
+            "netflix",
+            "actores",
+            "famosos",
+            "empresas"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251219/fenomeno-manu-rios-grupo-parchis-actor-moda-millones-seguidores-empresa-urbana/1003744061016_0.html",
+        "date": "2025-12-19 00:33:00",
+        "sentiment_score": 0.29413411021232605
+    },
+    {
+        "title": "El Laporta más encendido carga contra el Real Madrid: \"Tienen un bodrio de televisión, vomitan mentiras e intoxican\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/19/69449a9f9e450.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/laporta-encendido-real-madrid-bodrio-television-vomitan-mentiras-e-intoxican-20251219_3274365.html",
+        "date": "2025-12-19 00:26:48",
+        "sentiment_score": -0.06175577640533447
+    },
+    {
+        "title": "Burgos de segunda división soprende a Getafe, Athletic y Betis avanzan en Copa del Rey",
+        "image_url": "https://www.readingeagle.com/wp-content/uploads/2021/08/readeag.jpg",
+        "tags": [
+            "espanol"
+        ],
+        "link": "https://www.readingeagle.com/2025/12/18/burgos-de-segunda-divisin-soprende-a-getafe-athletic-y-betis-avanzan-en-copa-del-rey/",
+        "date": "2025-12-19 00:10:51",
+        "sentiment_score": -0.36326102912425995
+    },
+    {
+        "title": "Conmoción en Ecuador por la muerte del futbolista Mario Pineida en Guayaquil",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/12/18/ecuador-muerte-futbolista-mario-pineida-orix/",
+        "date": "2025-12-19 00:03:49",
+        "sentiment_score": -0.8910231441259384
+    },
+    {
+        "title": "El portero extremeño Danel Castro debuta con la selección española sub-15",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/19/209405804-kEZG--1200x840@Hoy.jpg",
+        "tags": [
+            "extremeno",
+            "portero",
+            "castro",
+            "sub15",
+            "seleccion",
+            "danel",
+            "espanola",
+            "debuta"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/portero-extremeno-danel-castro-debuta-seleccion-espanola-20251219091208-nt.html",
+        "date": "2025-12-19 00:00:00",
+        "sentiment_score": 0.3412521928548813
+    },
+    {
+        "title": "Cataluña cierra el círculo del control de precios de los alquileres",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c5ec876da0e694d95968b36a655485c8/crop/102x26/940x867/f/image/jpeg/assets/multimedia/imagenes/2023/04/17/16817425449512.jpg",
+        "tags": [
+            "covid 19",
+            "erc",
+            "generalitat de cataluña",
+            "salvador illa",
+            "cup",
+            "aliança catalana",
+            "vox",
+            "alquiler",
+            "parlament de cataluña",
+            "tribunal constitucional",
+            "barcelona",
+            "pp",
+            "junts per catalunya",
+            "artículos gerard melgar",
+            "psc",
+            "catalunya en comú"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2025/12/19/69446a85fc6c83f01d8b45ad.html",
+        "date": "2025-12-19 02:03:30",
+        "sentiment_score": 0.3987066000699997
+    },
+    {
+        "title": "Tecnología para la conservación de Sierra Nevada y Sant Llorenç del Munt",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/df8c1a27-75bd-420b-bb0f-48f0ca9132a5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tecnología",
+            "visitantes",
+            "suplemento activos",
+            "naturaleza",
+            "sierra nevada"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/economia/activos/2025/12/19/tecnologia-conservacion-sierra-nevada-sant-124948263.html",
+        "date": "2025-12-19 01:59:53",
+        "sentiment_score": 0.3588332086801529
     }
 ];
