@@ -1,106 +1,5 @@
 export default [
     {
-        "title": "La reserva millonaria que utiliza el Gobierno de Navarra para invertir mengua con el paso del tiempo",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7c8f1c00-c825-43e5-aa9a-2c776e7c9c04_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "reserva",
-            "navarra",
-            "gobierno",
-            "millonaria",
-            "utiliza"
-        ],
-        "link": "https://www.noticiasdenavarra.com/politica/2025/12/15/reserva-millonaria-utiliza-gobierno-navarra-10471364.html",
-        "date": "2025-12-15 06:23:51",
-        "sentiment_score": 0.5372111424803734
-    },
-    {
-        "title": "El enigma de las redes sociales en campaña: el arma electoral que nadie sabe medir",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8a473320-c4ce-4c7b-b897-7e469c0666f6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "extremadura",
-            "whatsapp",
-            "psoe",
-            "digital",
-            "política",
-            "redes sociales"
-        ],
-        "link": "https://www.lne.es/espana/2025/12/15/enigma-redes-sociales-campana-arma-124790378.html",
-        "date": "2025-12-15 06:22:42",
-        "sentiment_score": -0.09230934083461761
-    },
-    {
-        "title": "Las trabas urbanísticas contadas por uno de los pocos desarrollos que surfeó la burbuja inmobiliaria",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a8ebbe1f-3f00-4ec1-91cd-31be2df877a2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ifema",
-            "madrid",
-            "suelo",
-            "mercado inmobiliario",
-            "aeropuerto",
-            "sector inmobiliario",
-            "real madrid",
-            "vivienda"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/economia/2025/12/15/trabas-urbanisticas-valdebebas-124790337.html",
-        "date": "2025-12-15 06:21:31",
-        "sentiment_score": -0.05566273629665375
-    },
-    {
-        "title": "Las operaciones de la UCO y de la UDEF siembran dudas de corrupción en el rescate por 641 millones de tres empresas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/825058c1-43a1-4b4b-acd8-42dbb65f7063_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "koldo garcía",
-            "josé luis ábalos",
-            "caso koldo",
-            "plus ultra",
-            "santos cerdán",
-            "air europa"
-        ],
-        "link": "https://www.levante-emv.com/espana/2025/12/15/uco-udef-dudas-rescate-air-europa-plus-ultra-tubos-reunidos-abalos-aldama-koldo-antxon-venezuela-124790194.html",
-        "date": "2025-12-15 06:16:58",
-        "sentiment_score": -0.3772100545465946
-    },
-    {
-        "title": "España apuesta por la IA en las aulas: así quiere prevenir el abandono escolar",
-        "image_url": "https://imagenes.businessinsider.es/files/image_1920_1080/uploads/imagenes/2022/10/11/68bcb0581d153.jpeg",
-        "tags": [
-            "tecnología"
-        ],
-        "link": "https://www.businessinsider.es/tecnologia/espana-apuesta-ia-aulas-prevenir-abandono-escolar_6909901_0.html",
-        "date": "2025-12-15 06:20:00",
-        "sentiment_score": 0.09591545164585114
-    },
-    {
-        "title": "Ayuntamientos y comunidades recurren a la inversión privada para acelerar la construcción de pisos en alquiler asequible",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bbb703c0-1234-4a2f-bb20-6b32de5983a3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "suelo",
-            "mercado inmobiliario",
-            "sector inmobiliario",
-            "ley del suelo",
-            "vivienda",
-            "construcción"
-        ],
-        "link": "https://www.informacion.es/economia/2025/12/15/ayuntamientos-comunidades-inversion-alquiler-asequible-vivienda-124790305.html",
-        "date": "2025-12-15 06:19:31",
-        "sentiment_score": -0.0174863338470459
-    },
-    {
-        "title": "España tiene suelo para 1,8 millones de viviendas, pero la burocracia impide construirlas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/96765aa3-d869-4e8c-96aa-10fa85453b5e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "suelo",
-            "mercado inmobiliario",
-            "sector inmobiliario",
-            "ley del suelo",
-            "vivienda",
-            "construcción"
-        ],
-        "link": "https://www.informacion.es/economia/2025/12/15/problema-suelo-vivienda-124790249.html",
-        "date": "2025-12-15 06:18:22",
-        "sentiment_score": -0.5868603400886059
-    },
-    {
         "title": "Las cuatro claves del triunfo de José Antonio Kast en Chile",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Screenshot_85.jpg",
         "tags": [
@@ -2305,5 +2204,147 @@ export default [
         "link": "https://www.elespanol.com/deportes/futbol/20251218/mendieta-exfutbolista-inversion-avion-anos-jugadores-bancarrota/1003744060472_0.html",
         "date": "2025-12-18 17:00:00",
         "sentiment_score": -0.46276702359318733
+    },
+    {
+        "title": "Cuándo es el sorteo de octavos de la Copa del Rey 2025/26: equipos clasificados, bombos y dónde ver en TV y online",
+        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744061803_260561346_1706x960.jpg",
+        "tags": [
+            "fútbol",
+            "copa del rey de fútbol",
+            "deportes"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251218/sorteo-octavos-copa-rey-equipos-clasificados-bombos-ver-tv-online/1003744061768_0.html",
+        "date": "2025-12-18 22:06:07",
+        "sentiment_score": 0.5006401836872101
+    },
+    {
+        "title": "Estos son los equipos clasificados para los octavos de Copa del Rey y cuándo es el sorteo",
+        "image_url": "https://okdiario.com/img/2025/12/18/copa-del-rey.jpg",
+        "tags": [
+            "deportes",
+            "copa del rey",
+            "fútbol"
+        ],
+        "link": "https://okdiario.com/deportes/estos-son-equipos-clasificados-octavos-copa-del-rey-cuando-sorteo-15958450",
+        "date": "2025-12-18 21:51:12",
+        "sentiment_score": 0.039968281984329224
+    },
+    {
+        "title": "El secreto del éxito de Karlos Arguiñano a sus 77 años: “Siempre pienso en la gente que cobra 1.200 euros al mes”",
+        "image_url": "https://s3.elespanol.com/2025/12/18/bluper/1003744062341_260568529_1706x960.jpg",
+        "tags": [
+            "bluper",
+            "el hormiguero",
+            "pablo motos",
+            "karlos arguiñano"
+        ],
+        "link": "https://www.elespanol.com/bluper/20251218/secreto-exito-karlos-arguinano-anos-siempre-pienso-gente-cobra-euros-mes/1003744062329_0.html",
+        "date": "2025-12-18 21:49:09",
+        "sentiment_score": -0.6205145008862019
+    },
+    {
+        "title": "Maledon evita el naufragio del Real Madrid ante la anarquía parisina",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd8bb5db-7540-4bd8-88a4-91661ce7e7d0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,baloncesto,euroliga"
+        ],
+        "link": "https://www.elcorreoweb.es/deportes/2025/12/18/real-madrid-paris-baloncesto-euroliga-resumen-resultado-124945191.html",
+        "date": "2025-12-18 21:46:51",
+        "sentiment_score": 0.0013553500175476074
+    },
+    {
+        "title": "Dónde ha caído el bote de 61,5 millones de euros de La Primitiva, el de 1,8 millones de euros de la Bonoloto, y los premios de la ONCE, Eurodreams y Lotería Nacional de hoy jueves 18 de diciembre",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2021/12/17/408B5BA4-CC10-4B44-BF85-5BA300D9F6EC/98.jpg?crop=4953%2C2787%2Cx0%2Cy265&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-caido-bote-615-millones-euros-primitiva-18-millones-euros-bonoloto-premios-once-eurodreams-loteria-nacional-hoy-jueves-18-diciembre_2025121869447e10ea66eb735317dcff.html",
+        "date": "2025-12-18 22:20:00",
+        "sentiment_score": 0.025397788733243942
+    },
+    {
+        "title": "Dos solteros dejan su timidez a un lado y viven un fogoso momento en 'First Dates': \"Me ha sorprendido que fuera tan lanzada\"",
+        "image_url": "https://album.mediaset.es/eimg/2025/12/18/diseno-sin-titulo-2025-12-18t221543-809_a35a.jpg",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.cuatro.com/television/20251218/first-dates-solteros-dejan-timidez-viven-fogoso-momento_18_017903758.html",
+        "date": "2025-12-18 22:19:36",
+        "sentiment_score": -0.3623639941215515
+    },
+    {
+        "title": "Koldo: «En las primarias de 2017 votaron hasta los muertos»",
+        "image_url": "https://okdiario.com/img/2025/12/18/foto-bild-entrevista-koldo-parte-12-interior.jpg",
+        "tags": [
+            "psoe",
+            "pedro sánchez",
+            "gobierno",
+            "koldo garcía",
+            "españa",
+            "josé luis ábalos"
+        ],
+        "link": "https://okdiario.com/espana/koldo-primarias-2017-votaron-hasta-muertos-15882274",
+        "date": "2025-12-18 22:00:06",
+        "sentiment_score": -0.277494840323925
+    },
+    {
+        "title": "Suma Capital prepara un nuevo fondo para pymes de 200 millones de euros",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/3aa0e7aaa7eee2923ed82f84e80c68e7/crop/191x135/1830x1227/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/18/17660886569584.jpg",
+        "tags": [
+            "empresas>",
+            "cataluña>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2025/12/18/694447b5468aeb08408b45bf.html",
+        "date": "2025-12-18 22:00:00",
+        "sentiment_score": 0.0448615700006485
+    },
+    {
+        "title": "El Athletic espera rival en octavos: estas son las opciones",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/04760bba-d1ff-4a09-936f-944a3bb39949_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "athletic",
+            "espera",
+            "copa",
+            "octavos",
+            "rival"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/12/18/athletic-espera-rival-octavos-copa-10490780.html",
+        "date": "2025-12-18 21:46:14",
+        "sentiment_score": -0.08795188367366791
+    },
+    {
+        "title": "Sàmper se reúne con el alcalde de Sallent para buscar alternativas a la planta de ICL",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be859096-4a0e-4e69-b29c-4d9400d526fe_16-9-aspect-ratio_default_1422803.jpg",
+        "tags": [
+            "empresas",
+            "sallent"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20251218/samper-reune-alcalde-sallent-buscar-alternativas-planta-icl-124945835",
+        "date": "2025-12-18 21:45:45",
+        "sentiment_score": -0.12158097326755524
+    },
+    {
+        "title": "La Lotería deja un importante premio en el Intercambiador de Santa Cruz Tenerife (y no es el único en las Islas)",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2025/12/loteria-intercambiador-1024x597.jpg",
+        "tags": [
+            "sociedad",
+            "portada",
+            "portada apertura 1"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/12/loteria-intercambiador-santa-cruz/",
+        "date": "2025-12-18 21:44:38",
+        "sentiment_score": 0.08421128988265991
+    },
+    {
+        "title": "Orriols abre hoy sede en Barcelona en su plan para hundir a Junts en 2027: 4.000 nuevos militantes y asaltar los cuatro \"estandartes nacionalistas\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
+        "tags": [
+            "nlpremium",
+            "artículos víctor mondelo"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/12/18/69444412fdddffcf3b8b45c0.html",
+        "date": "2025-12-18 21:44:38",
+        "sentiment_score": -0.8473134506493807
     }
 ];
