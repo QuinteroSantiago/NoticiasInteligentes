@@ -1,262 +1,5 @@
 export default [
     {
-        "title": "¿Cuánto toca con el quinto premio de la Lotería de Navidad?",
-        "image_url": "https://okdiario.com/img/2023/12/18/imagen_recortada-15.jpg",
-        "tags": [
-            "gordo navidad",
-            "lotería de navidad",
-            "lotería",
-            "navidad",
-            "lotería nacional"
-        ],
-        "link": "https://okdiario.com/loteria-navidad/quinto-premio-loteria-navidad-cuanto-toca-8121606",
-        "date": "2025-12-15 17:00:50",
-        "sentiment_score": -0.023869425058364868
-    },
-    {
-        "title": "Lionel Messi tiene nuevo compañero: Inter Miami oficializó al primer refuerzo tras el título de la MLS Cup",
-        "image_url": "https://www.infobae.com/resizer/v2/PL24R3FBDFFHPESQNZWGYDFRAM.JPG?auth=72906dfdcb99791771d54ba260848477254ba67031a0ea07c4289c9ff1a01e97&height=427&smart=true&width=640",
-        "tags": [
-            "inter miami",
-            "jordi alba",
-            "deportes-internacional",
-            "sergio reguilón",
-            "mls",
-            "lionel messi"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/15/lionel-messi-tiene-nuevo-companero-inter-miami-oficializo-al-primer-refuerzo-tras-el-titulo-de-la-mls-cup/",
-        "date": "2025-12-15 17:00:23",
-        "sentiment_score": 0.0722745768725872
-    },
-    {
-        "title": "Florentino Pérez: «El caso Negreira es el mayor escándalo de la historia del fútbol»",
-        "image_url": "https://cflvdg.avoz.es/sc/uwr8wekjrpgMkjRkRDr0fbOzIVY=/768x/2025/12/15/00121765817281759546323/Foto/efe_20251215_143533108.jpg",
-        "tags": [
-            "deportes",
-            "caso negreira",
-            "real madrid",
-            "florentino pérez"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/15/florentino-perez-negreira-mayor-escandalo-historia-futbol/00031765817219369902477.htm",
-        "date": "2025-12-15 16:52:00",
-        "sentiment_score": -0.898814526386559
-    },
-    {
-        "title": "Florentino Pérez se niega a pasar página con el 'caso Negreira': \"Es el mayor escándalo del futbol\"",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2608480.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/florentino-perez-se-niega-a-pasar-pagina-con-el-caso-negreira-es-el-mayor-escandalo-del-futbol.html",
-        "date": "2025-12-15 16:49:58",
-        "sentiment_score": -0.84140052087605
-    },
-    {
-        "title": "El Ayuntamiento lleva a cabo mejoras en El Prado",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/7ff31c53-7cdc-4add-a65a221d9a2d8344.jpg",
-        "tags": [
-            "copa del rey",
-            "real madrid",
-            "cf talavera",
-            "talavera de la reina",
-            "estadio el prado"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z88b2ccf5-e8d8-4169-8b86727a45c71f50/202512/el-ayuntamiento-lleva-a-cabo-mejoras-en-el-prado",
-        "date": "2025-12-15 16:49:30",
-        "sentiment_score": -0.8182984385639429
-    },
-    {
-        "title": "Sacedón (Guadalajara) acusa a la CHT estar \"presuma\" de gestión y lamenta la situación de Entrepeñas y Buendía",
-        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
-        "tags": [
-            "guadalajara",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/guadalajara/sacedon-guadalajara-cht-presuma-gestion-situacion-entrepenas-buendia-794887-1.html",
-        "date": "2025-12-15 16:48:00",
-        "sentiment_score": -0.5650182329118252
-    },
-    {
-        "title": "Reguilón sale del ostracismo y ficha por el Inter Miami: Messi ya tiene a su nuevo ‘socio’",
-        "image_url": "https://okdiario.com/img/2025/12/15/regui.jpg",
-        "tags": [
-            "fútbol",
-            "sergio reguilón",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/reguilon-sale-del-ostracismo-ficha-inter-miami-messi-ya-tiene-nuevo-socio-15938755",
-        "date": "2025-12-15 16:47:33",
-        "sentiment_score": -0.013583138585090637
-    },
-    {
-        "title": "El inmobiliario mueve 17.000 millones en España en 2025, un 30% más",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/T3JL2Z57IVDY3LYGVGG6UJSBOU.jpeg?auth=16a8e365bb7f4810e5176e49092df2aa0904682817f8902efde80fe01aead2eb&width=1200",
-        "tags": [
-            "sareb",
-            "sector inmobiliario",
-            "residencias ancianos",
-            "residencias estudiantes",
-            "energía",
-            "hoteles",
-            "mercado inmobiliario",
-            "turismo",
-            "empresas"
-        ],
-        "link": "https://cincodias.elpais.com/companias/2025-12-15/el-inmobiliario-mueve-17000-millones-en-espana-en-2025-un-30-mas.html",
-        "date": "2025-12-15 16:47:03",
-        "sentiment_score": -0.8912953417748213
-    },
-    {
-        "title": "Cuarto premio de la Lotería de Navidad 2025: cuánto toca",
-        "image_url": "https://okdiario.com/img/2023/12/18/imagen_recortada-14.jpg",
-        "tags": [
-            "lotería de navidad",
-            "navidad",
-            "gordo navidad",
-            "lotería nacional",
-            "lotería"
-        ],
-        "link": "https://okdiario.com/loteria-navidad/cuarto-premio-cuanto-toca-dinero-loteria-navidad-6605874",
-        "date": "2025-12-15 16:45:56",
-        "sentiment_score": 0.5053382590413094
-    },
-    {
-        "title": "Florentino Pérez: \"El 'caso Negreira' es el mayor escándalo de la historia del fútbol\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251215174526_120.jpg",
-        "tags": [
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-florentino-perez-caso-negreira-mayor-escandalo-historia-futbol-20251215174526.html",
-        "date": "2025-12-15 16:45:26",
-        "sentiment_score": -0.8711096383631229
-    },
-    {
-        "title": "Rosalía brilla en el videoclip de 'La Perla': así canta a sus ex, con medalla de oro en deportes de contacto incluida",
-        "image_url": "https://www.hola.com/horizon/landscape/f51896d244b5-g8n4a5kweaqmrby.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "rosalia"
-        ],
-        "link": "https://www.hola.com/actualidad/20251215873017/rosalia-brilla-en-el-videoclip-de-la-perla-asi-canta-a-sus-ex/",
-        "date": "2025-12-15 17:14:54",
-        "sentiment_score": 0.7422923892736435
-    },
-    {
-        "title": "La agencia GrandVoyage se dispara casi un 20% en su estreno bursátil",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/7854c0c570c820977a215aa172ca1703/crop/225x153/1863x1245/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/15/17658186884485.jpg",
-        "tags": [
-            "cataluña>",
-            "viajes>",
-            "empresas>"
-        ],
-        "link": "https://www.expansion.com/catalunya/2025/12/15/694041c8468aebb7788b457f.html",
-        "date": "2025-12-15 17:13:56",
-        "sentiment_score": 0.5879315324127674
-    },
-    {
-        "title": "Bruselas hace caso omiso a Sánchez y planea eliminar la prohibición de los coches de combustión",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/12/presidente-gobierno-pedro-sanchez-rueda-prensa-palacio-moncloa-15-diciembre-2025-madrid-20251215124212-1000x665.jpg",
-        "tags": [
-            "economía",
-            "bruselas",
-            "pedro sánchez"
-        ],
-        "link": "https://www.economiadigital.es/economia/bruselas-caso-omiso-sanchez.html",
-        "date": "2025-12-15 17:13:08",
-        "sentiment_score": 0.47079867869615555
-    },
-    {
-        "title": "Barcelona Activa clausura la edición 2025 de Projectes Singulars con 173 jóvenes participantes",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251215181307_690.jpg",
-        "tags": [
-            "barcelona economías",
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/barcelona-economias-00982/noticia-barcelona-activa-clausura-edicion-2025-projectes-singulars-173-jovenes-participantes-20251215181307.html",
-        "date": "2025-12-15 17:13:07",
-        "sentiment_score": 0.6349062249064445
-    },
-    {
-        "title": "Aston Martin empieza a ver los frutos de su trabajo de preparación de cara a 2026: es un candidato real al título en la nueva era de la Fórmula 1",
-        "image_url": "https://www.infobae.com/resizer/v2/K2GBENBIOZG6XEGZPI5ZG6OECM.JPG?auth=a216b81ffc1c11bc65ea4f12ebf1b7b4e24c038994d6754629c23e1454bfc61d&height=3216&smart=true&width=5718",
-        "tags": [
-            "aston martin",
-            "honda",
-            "españa-noticias",
-            "españa-deportes",
-            "fernando alonso",
-            "fórmula 1",
-            "f1",
-            "f1 españa"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/12/15/aston-martin-empieza-a-ver-los-frutos-de-su-trabajo-de-preparacion-de-cara-a-2026-es-un-candidato-real-al-titulo-en-la-nueva-era-de-la-formula-1/",
-        "date": "2025-12-15 17:13:03",
-        "sentiment_score": 0.43418413773179054
-    },
-    {
-        "title": "Denuncian que su tía murió en la residencia después de que la quemaran con agua hirviendo: \"Nos dijeron que eran heridas leves\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/15/C54E2747-DA61-4677-AEB4-0ABC1F88FA85/residencia_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena3",
-            "programas",
-            "y ahora sonsoles"
-        ],
-        "link": "https://www.antena3.com/programas/y-ahora-sonsoles/denuncian-que-tia-murio-residencia-despues-que-quemaran-agua-hirviendo-nos-dijeron-que-eran-heridas-leves_202512156940419f22f0db7daff23e16.html",
-        "date": "2025-12-15 17:13:03",
-        "sentiment_score": -0.8486868590116501
-    },
-    {
-        "title": "Dóberman, braga metálica y cigarro: Rosalía publica el vídeo de ‘La Perla‘, su canción más escuchada de ‘Lux’",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/SU2UHQSVEJFPRPOYQJOVHI5H3Y.jpg?auth=dc1c47f430f3edc114c065c86a426607c8fb8bc23cb5531961accd42aa26b3f2&width=1200",
-        "tags": [
-            "cultura",
-            "música",
-            "spotify",
-            "canciones",
-            "rosalía",
-            "vídeo",
-            "conciertos"
-        ],
-        "link": "https://elpais.com/cultura/2025-12-15/rosalia-publica-el-video-de-la-perla-su-cancion-mas-escuchada-de-lux.html",
-        "date": "2025-12-15 17:12:44",
-        "sentiment_score": 0.15109984949231148
-    },
-    {
-        "title": "Tiene dos trabajos y paga un alquiler de 950€: \"Termino a las 10 de la noche, sólo veo a mis hijos los fines de semana\"",
-        "image_url": "https://s3.elespanol.com/2025/12/10/sociedad/1003744049687_260407279_1706x960.jpg",
-        "tags": [
-            "sociedad",
-            "trabajo",
-            "alquiler de viviendas",
-            "soft"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251215/trabajos-paga-alquiler-termino-noche-solo-veo-hijos-fines-semana/1003744049350_0.html",
-        "date": "2025-12-15 17:08:51",
-        "sentiment_score": -0.09703686088323593
-    },
-    {
-        "title": "Aliança Catalana inaugurará esta semana su sede en Barcelona pero no anunciará a su candidato hasta abril",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/11/01/69065fe0282af.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20251215/alianca-catalana-inaugurara-esta-semana-sede-barcelona-no-anunciara-candidato-hasta-abril_365680.html",
-        "date": "2025-12-15 17:06:43",
-        "sentiment_score": -0.09835875779390335
-    },
-    {
-        "title": "Las personas con trastorno de salud mental acuden casi el doble al médico, según un estudio",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251215180410_690.jpg",
-        "tags": [
-            "infosalus.com",
-            "asistencia"
-        ],
-        "link": "https://www.infosalus.com/asistencia/noticia-personas-trastorno-salud-mental-acuden-casi-doble-medico-estudio-20251215180410.html",
-        "date": "2025-12-15 17:04:10",
-        "sentiment_score": -0.019587524235248566
-    },
-    {
         "title": "Resultados, clasificación y resúmenes acabada la Jornada 16 de LaLiga EA Sports 25-26",
         "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/laliga-ea-sports-25-26-jornada-16-lunes-750x422.jpg",
         "tags": [
@@ -2457,5 +2200,172 @@ export default [
         "link": "https://www.elperiodicoextremadura.com/economia/activos/2025/12/19/tecnologia-conservacion-sierra-nevada-sant-124948263.html",
         "date": "2025-12-19 01:59:53",
         "sentiment_score": 0.3588332086801529
+    },
+    {
+        "title": "«El 22 de diciembre Abascal saldrá corriendo de Extremadura»",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/18/maria-guardiola-elecciones-extremadura-pp%20(1)-kmU-U240601638023HC-758x531@Hoy.jpg",
+        "tags": [
+            "extremadura",
+            "maría guardiola"
+        ],
+        "link": "https://www.hoy.es/elecciones/extremadura/entrevista-maria-guardiola-pp-abascal-elecciones-en-extremadura-20251219203842-nt.html",
+        "date": "2025-12-19 06:33:08",
+        "sentiment_score": 0.4411422275006771
+    },
+    {
+        "title": "La Peña Madridista Los Molinos cumple ¡24 años de historia!",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/17/6942c6b319866.jpeg",
+        "tags": [
+            "galerías"
+        ],
+        "link": "https://www.lavozdealmeria.com/galerias/416686/pena-madridista-molinos-cumple-24-anos-historia.html",
+        "date": "2025-12-19 06:33:05",
+        "sentiment_score": 0.4413643777370453
+    },
+    {
+        "title": "El futbolista que más puntos ha dado al Almería",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/18/69440ad1dd86b.jpeg",
+        "tags": [
+            "jugadores"
+        ],
+        "link": "https://www.lavozdealmeria.com/ud-almeria/jugadores/417685/futbolista-puntos-dado-almeria.html",
+        "date": "2025-12-19 06:32:55",
+        "sentiment_score": 0.3031829074025154
+    },
+    {
+        "title": "Juanma Castaño, sobre la tensión entre Real Madrid y Barcelona: \"La guerra va a más y el lenguaje se está recrudeciendo; como haya un Clásico en enero con la Supercopa...\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/juanma-castano-sobre-tension-real-madrid-barcelona-guerra-lenguaje-recrudeciendo-haya-clasico-enero-supercopa-20251219_3274357.html",
+        "date": "2025-12-19 06:24:56",
+        "sentiment_score": -0.18753550946712494
+    },
+    {
+        "title": "Abu Dabi negocia la compra de Millenium, el mayor propietario cotizado de hoteles de cinco estrellas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bedab259-148b-4fd6-b4a5-261f9008f114_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "abu dabi",
+            "emiratos árabes",
+            "inversión",
+            "sevilla",
+            "hoteles",
+            "san sebastián",
+            "cnmv",
+            "opa",
+            "mercado inmobiliario",
+            "bilbao",
+            "madrid",
+            "hotel",
+            "bolsa",
+            "sector inmobiliario"
+        ],
+        "link": "https://www.eldia.es/economia/2025/12/19/abu-dabi-compra-opa-millenium-124950531.html",
+        "date": "2025-12-19 06:18:41",
+        "sentiment_score": -0.04267680644989014
+    },
+    {
+        "title": "Lo que debes saber hoy, 19 de diciembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/03/vivir-en-barcelona/1003742712950_15474166_1706x960.jpg",
+        "tags": [
+            "transports metropolitans barcelona tmb",
+            "tráfico",
+            "clima",
+            "renfe barcelona",
+            "transporte",
+            "rodalies",
+            "coches",
+            "gran barcelona",
+            "metro barcelona",
+            "autobús"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251219/debes-saber-hoy-diciembre-barcelona/1003742717457_0.html",
+        "date": "2025-12-19 06:30:41",
+        "sentiment_score": -0.2908029556274414
+    },
+    {
+        "title": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 19 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "gasolina",
+            "españa-economia",
+            "noticias",
+            "precio gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/19/el-precio-mas-alto-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-19-de-diciembre/",
+        "date": "2025-12-19 06:30:34",
+        "sentiment_score": -0.22392894327640533
+    },
+    {
+        "title": "Un jamón de 70 meses de curación... y 1.200 : estos son los secretos para alcanzar tal longevidad y tal precio",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5fcf9c4c-b055-47ee-ad51-25edae44a20b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gastronomía",
+            "barcelona",
+            "qué comer hoy"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/20251219/jamon-iberico-bellota-70-meses-curacion-reserva-iberica-123870757",
+        "date": "2025-12-19 06:21:20",
+        "sentiment_score": -0.20175960659980774
+    },
+    {
+        "title": "3 buenos restaurantes de Barcelona para el fin de semana: La Plata, Chambacú y Veraz",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/263dbe8a-9214-46b5-ad06-67d2ff422363_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dónde comer hoy",
+            "restaurante",
+            "restaurantes barcelona",
+            "barcelona",
+            "gastronomía"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251219/buenos-restaurantes-barcelona-plata-chambacu-veraz-124832260",
+        "date": "2025-12-19 06:19:42",
+        "sentiment_score": -0.2884330675005913
+    },
+    {
+        "title": "En estos 3 sitios de Barcelona preparan unas lentejas sensacionales que te alegrarán el fin de semana",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d370494-c4e0-4aea-89b7-f043dd1f930d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "dónde comer hoy",
+            "restaurante",
+            "restaurantes barcelona",
+            "barcelona",
+            "gastronomía",
+            "qué comer hoy"
+        ],
+        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251219/mejores-lentejas-barcelona-restaurantes-contracorrent-bistro-capet-jiribilla-124835123",
+        "date": "2025-12-19 06:17:23",
+        "sentiment_score": 0.7878035418689251
+    },
+    {
+        "title": "Ferrari confirma la fecha de presentación de su auto para la F1",
+        "image_url": "https://mundonow.com/wp-content/uploads/2025/12/shutterstock_1132465508-550x367.jpg",
+        "tags": [
+            "hogar y auto"
+        ],
+        "link": "https://mundonow.com/ferrari-confirma-la-fecha-de-presentacion-de-su-auto-para-la-f1/",
+        "date": "2025-12-19 06:16:11",
+        "sentiment_score": 0.4089990220963955
+    },
+    {
+        "title": "De 'El Día de la Bestia' a 'Barrio': así suena Extremoduro en el cine",
+        "image_url": "https://www.elplural.com/uploads/s1/21/25/43/0/robe-iniesta-li-der-de-extremoduro-ep_7_480x270.jpeg",
+        "tags": [
+            "playtime"
+        ],
+        "link": "https://www.elplural.com/playtime/dia-bestia-barrio-suena-extremoduro-cine_367898102",
+        "date": "2025-12-19 06:04:55",
+        "sentiment_score": -0.04459446668624878
+    },
+    {
+        "title": "Javi Puado, cada vez más cerca de volver: ¿Athletic o Barça?",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/09/puado-espanyol-valencia-2-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/javi-puado-vuelta-lesion-espanyol-athletic-barcelona/",
+        "date": "2025-12-19 06:00:49",
+        "sentiment_score": -0.8669751416891813
     }
 ];
