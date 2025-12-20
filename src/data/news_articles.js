@@ -1,171 +1,5 @@
 export default [
     {
-        "title": "El Atlético se acerca a los 200 millones por un fichaje que ya estaba firmado",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/24/2025062414072582713.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/atletico-acerca-200-millones-fichaje-que-estaba-firmado/20251216073822367081.html",
-        "date": "2025-12-16 06:38:22",
-        "sentiment_score": -0.765638891607523
-    },
-    {
-        "title": "Castilla-La Mancha supera los 22000 festejos en 15 años y logra máximos de asistencia",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/16/6940fb5d885d4.r_d.511-527-4199.jpeg",
-        "tags": [
-            "toros"
-        ],
-        "link": "https://www.cope.es/actualidad/toros/noticias/castilla-mancha-supera-22-000-festejos-15-anos-alcanza-maximos-asistencia-pandemia-20251216_3271873.html",
-        "date": "2025-12-16 06:35:03",
-        "sentiment_score": 0.07856455445289612
-    },
-    {
-        "title": "Así es la programación navideña de Canal Sur, con Toñi Moreno en las campanadas",
-        "image_url": "https://static.grupojoly.com/clip/fb28849c-7c3c-4b60-8d6d-345e799d5d8d_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "toni",
-            "sur",
-            "navidena",
-            "programacion",
-            "canal"
-        ],
-        "link": "https://www.granadahoy.com/television/programacion-navidena-canal-sur-toni_0_2005466806.html",
-        "date": "2025-12-16 06:31:00",
-        "sentiment_score": -0.3022118955850601
-    },
-    {
-        "title": "Xabi Alonso sigue en el alambre y Florentino ya contempla un relevo interno",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/19/2025031920243562227.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/xabi-alonso-sigue-alambre-florentino-contempla-relevo-interno/20251216072658367079.html",
-        "date": "2025-12-16 06:26:58",
-        "sentiment_score": -0.10450661182403564
-    },
-    {
-        "title": "El padre del hijo de la novia",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/12/padre-hijo-novia-750x500.jpg",
-        "tags": [
-            "opinión",
-            "colaboraciones"
-        ],
-        "link": "https://elfarodeceuta.es/padre-hijo-novia/",
-        "date": "2025-12-16 06:20:09",
-        "sentiment_score": -0.7320544868707657
-    },
-    {
-        "title": "Zapatero se reunió con la SEPI y Escrivá durante el rescate de Plus Ultra, según la UCO",
-        "image_url": "https://s1.staticld.com/2025/12/16/rodriguez-zapatero-04122025.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/espana/2025-12-16/zapatero-se-reunio-con-la-sepi-y-escriva-durante-el-rescate-de-plus-ultra-segun-la-uco-7334105/",
-        "date": "2025-12-16 06:14:24",
-        "sentiment_score": -0.2739822193980217
-    },
-    {
-        "title": "Albert vive en Girona y trabaja en Barcelona: \"No puedo destinar el 95% de mi sueldo a pagar un alquiler\"",
-        "image_url": "https://s3.elespanol.com/2025/12/11/sociedad/1003744051423_260429176_1706x960.jpg",
-        "tags": [
-            "barcelona",
-            "soft",
-            "sociedad",
-            "vivienda"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251216/albert-vive-girona-trabaja-barcelona-no-puedo-destinar-sueldo-pagar-alquiler/1003744051223_0.html",
-        "date": "2025-12-16 06:39:07",
-        "sentiment_score": 0.05543571710586548
-    },
-    {
-        "title": "Después de Gaza, África 50: Franco Berardi “Bifo” y René Vautier",
-        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/5f6eabda/afrique50-image2.jpg?v=63933071731",
-        "tags": [
-            "colonialismo",
-            "áfrica",
-            "actualidad"
-        ],
-        "link": "https://www.elsaltodiario.com/palestina/despues-gaza-africa-50-franco-berardi-bifo-rene-vautier",
-        "date": "2025-12-16 06:28:00",
-        "sentiment_score": -0.21188120543956757
-    },
-    {
-        "title": "De \"Error García\" a indiscutible: la increíble transformación de Eric García en el Barça",
-        "image_url": "https://www.elplural.com/uploads/s1/21/21/91/9/la-increible-transformacion-de-eric-garcia-en-el-barca-ep_7_480x270.jpeg",
-        "tags": [
-            "el regate"
-        ],
-        "link": "https://www.elplural.com/el-regate/error-garcia-indiscutible-increible-transformacion-eric-garcia-barca_367515102",
-        "date": "2025-12-16 06:23:24",
-        "sentiment_score": -0.056178539991378784
-    },
-    {
-        "title": "Lo que debes saber hoy, 16 de diciembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/03/03/vivir-en-barcelona/928417197_14199573_1706x960.png",
-        "tags": [
-            "tráfico",
-            "gran barcelona",
-            "coches",
-            "metro barcelona",
-            "clima",
-            "rodalies",
-            "autobús",
-            "transporte",
-            "renfe barcelona",
-            "transports metropolitans barcelona tmb"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251216/debes-saber-hoy-diciembre-barcelona/1003742716368_0.html",
-        "date": "2025-12-16 06:20:32",
-        "sentiment_score": -0.870185000821948
-    },
-    {
-        "title": "Una comensal se despista e intenta salir de 'First Dates' por el armario: \"Es que me quiero quedar\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/16/6940a872717d92-19340371.r_d.549-269.jpeg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.20minutos.es/television/una-comensal-se-despista-intenta-salir-first-dates-por-armario-es-que-me-quiero-quedar_6910950_0.html",
-        "date": "2025-12-16 06:14:34",
-        "sentiment_score": -0.6904592541977763
-    },
-    {
-        "title": "Florentino insiste por Navidad: \"El caso Negreira es el escándalo más grande de la hsitoria del fútbol\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5123c2f-565e-4ce6-94dd-10f22e8b1c60_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid",
-            "caso negreira",
-            "florentino pérez",
-            "fc barcelona"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/deportes/2025/12/16/programada-florentino-insiste-navidad-caso-124826333.html",
-        "date": "2025-12-16 06:12:35",
-        "sentiment_score": -0.13422485440969467
-    },
-    {
-        "title": "La posible alineación titular del Barcelona para enfrentarse al Guadalajara",
-        "image_url": "https://recentlyheard.com/wp-content/uploads/2025/12/1765865321_La-posible-alineacion-titular-del-Barcelona-para-enfrentarse-al-Guadalajara.jpg",
-        "tags": [
-            "news"
-        ],
-        "link": "https://recentlyheard.com/la-posible-alineacion-titular-del-barcelona-para-enfrentarse-al-guadalajara/",
-        "date": "2025-12-16 06:08:41",
-        "sentiment_score": 0.046037085354328156
-    },
-    {
-        "title": "Ruggero Mughini, presidente de Iveco España en sustitución de Ángel R. Lagunilla",
-        "image_url": "https://static.grupojoly.com/clip/899de67c-07ef-4c4f-b18b-51884e0dffd9_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "espana",
-            "presidente",
-            "mughini",
-            "iveco",
-            "ruggero"
-        ],
-        "link": "https://www.diariodejerez.es/motor/ruggero-mughini-presidente-iveco-espana_0_2005466769.html",
-        "date": "2025-12-16 06:01:01",
-        "sentiment_score": 0.34233374893665314
-    },
-    {
         "title": "El CTA exculpa a González Fuertes del penalti no pitado sobre Vinicius en el Alavés - Real Madrid: \"El VAR no debe intervenir\"",
         "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/06/23/685910093872d.jpeg",
         "tags": [
@@ -2196,5 +2030,256 @@ export default [
         "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/cursa-dels-nassos-cubre-13-000-inscripciones-20251219_3275148.html",
         "date": "2025-12-19 16:59:29",
         "sentiment_score": -0.00473359227180481
+    },
+    {
+        "title": "El Real Oviedo se aferra al 'efecto Almada'",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/19/209513737-kYNB--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-aferra-efecto-almada-20251220223507-nt.html",
+        "date": "2025-12-19 21:55:52",
+        "sentiment_score": 0.3430245593190193
+    },
+    {
+        "title": "“El equipo que mejor nos trataba siempre era el Real Madrid”, afirma un exárbitro en el debate sobre el caso Negreira",
+        "image_url": "https://www.infobae.com/resizer/v2/2C2EMIEGFRBRTOXMDVWRXEYGNI.jpg?auth=94a1bd1798ddf2987907207173bdc4873257dd4ae994a3bb579c86788f6cf408&height=678&smart=true&width=980",
+        "tags": [
+            "fútbol españa",
+            "negreira",
+            "españa-noticias",
+            "caso negreira",
+            "joan laporta",
+            "real madrid",
+            "españa-deportes",
+            "fc barcelona",
+            "fútbol"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/12/19/el-equipo-que-mejor-nos-trataba-siempre-era-el-real-madrid-afirma-un-exarbitro-en-el-debate-sobre-el-caso-negreira/",
+        "date": "2025-12-19 21:46:31",
+        "sentiment_score": 0.1357797160744667
+    },
+    {
+        "title": "LaLiga: Xabi Alonso responde a los rumores de su salida del Real Madrid",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/laliga-xabi-alonso-responde-a-los-rumores-de-su-salida-del-real-madrid--2025121916540",
+        "date": "2025-12-19 20:54:00",
+        "sentiment_score": 0.5516146961599588
+    },
+    {
+        "title": "Brasil anuncia amistosos ante Francia y Croacia",
+        "image_url": "https://mundonow.com/wp-content/uploads/2025/12/Sin-contrato-Limited-Users-No-Monthly-Fees-Up-to-100-Projects-1200-x-768-px-2025-12-19T154456.754.png",
+        "tags": [
+            "mundial",
+            "copa mundial 2026",
+            "deportes",
+            "fifa 2026",
+            "fifa"
+        ],
+        "link": "https://mundonow.com/brasil-amistosos-francia-croacia-mundial-2026/",
+        "date": "2025-12-19 20:52:56",
+        "sentiment_score": 0.030524268746376038
+    },
+    {
+        "title": "Barça, Real Madrid y Atlético pugnan por el nuevo Pedri de 19 años: una 'ganga' de 25 millones que enamora a Koeman",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/14/culemania/primer-equipo/1003742715933_15510504_1706x960.jpg",
+        "tags": [
+            "fichajes barça",
+            "ronald koeman",
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251219/barca-real-madrid-atletico-pedri-millones-koeman/1003742717836_0.html",
+        "date": "2025-12-19 20:24:36",
+        "sentiment_score": -0.3841095492243767
+    },
+    {
+        "title": "Dani Vidal, entrenador del Real Avilés: «Si cuidamos un poco más los detalles estaremos cerca de ganar»",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/19/dani-vidal-kfN-U2406146713930DG-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real avilés"
+        ],
+        "link": "https://www.elcomercio.es/real-aviles/dani-vidal-entrenador-real-aviles-cerca-ganar-20251219211825-nt.html",
+        "date": "2025-12-19 20:19:32",
+        "sentiment_score": 0.7792200706899166
+    },
+    {
+        "title": "Gallardo (PSOE) pide el apoyo para que Extremadura recupere la fuerza y vuelva a «levantar la voz»",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/EuropaPress_7169144_i_d_portavoz_psoe_provincia_caceres_irene_pozas_secretaria_general_psoe.jpg",
+        "tags": [
+            "elecciones",
+            "nacional"
+        ],
+        "link": "https://www.lanzadigital.com/nacional/gallardo-pide-el-apoyo-de-los-ciudadanos-para-que-extremadura-recupere-la-fuerza-y-vuelva-a-levantar-la-voz/",
+        "date": "2025-12-19 19:37:54",
+        "sentiment_score": -0.06281864643096924
+    },
+    {
+        "title": "La Audiencia de Madrid da la razón al juez Peinado y respalda que investigue a Begoña Gómez por malversación",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/EuropaPress_5271358_directora_catedra_extraordinaria_transformacion_social_ucm_begona_gomez-scaled.jpg",
+        "tags": [
+            "tribunal",
+            "nacional"
+        ],
+        "link": "https://www.lanzadigital.com/nacional/la-audiencia-de-madrid-da-la-razon-al-juez-peinado-y-respalda-que-investigue-a-begona-gomez-por-malversacion/",
+        "date": "2025-12-19 19:35:08",
+        "sentiment_score": -0.13738903403282166
+    },
+    {
+        "title": "Más de 22.000 trenes circularán esta Navidad en España y Renfe ofrecerá 2,6 millones de plazas",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/EuropaPress_6825791_varias_personas_andenes_estacion_puerta_atocha_almudena_grandes_primera-scaled.jpg",
+        "tags": [
+            "castilla-la mancha",
+            "trenes",
+            "renfe"
+        ],
+        "link": "https://www.lanzadigital.com/castilla-la-mancha/mas-de-22-000-trenes-circularan-esta-navidad-en-espana-y-renfe-ofrecera-26-millones-de-plazas/",
+        "date": "2025-12-19 19:24:44",
+        "sentiment_score": -0.04295828938484192
+    },
+    {
+        "title": "Brasil jugará con Francia el 26 de marzo en Boston y después con Croacia en Orlando",
+        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2025/12/BRASIL-ENTRENA-PREVIA-ESPANA.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://soynuevaprensadigital.com/npd/brasil-jugara-con-francia-el-26-de-marzo-en-boston-y-despues-con-croacia-en-orlando/",
+        "date": "2025-12-19 19:09:21",
+        "sentiment_score": -0.0014443248510360718
+    },
+    {
+        "title": "Última hora del Meteocat: declara ‘peligro máximo’ en estas 16 comarcas catalanas",
+        "image_url": "https://okdiario.com/img/2025/12/19/la-rambla-iberia-de-sabadell-cortada-por-una-inundacion..jpg",
+        "tags": [
+            "protección civil",
+            "temperaturas",
+            "temporal",
+            "fenómenos meteorológicos",
+            "lluvias",
+            "frío",
+            "cataluña",
+            "previsiones",
+            "invierno",
+            "ola de frío",
+            "previsión del tiempo",
+            "españa",
+            "previsión meteorológica",
+            "meteorología",
+            "tiempo"
+        ],
+        "link": "https://okdiario.com/cataluna/ultima-hora-del-meteocat-declara-peligro-maximo-estas-16-comarcas-catalanas-15965454",
+        "date": "2025-12-19 22:00:47",
+        "sentiment_score": -0.7554783895611763
+    },
+    {
+        "title": "Rosaliers y motomamis, los fans incondicionales de Rosalía: \"Daría todos mis ahorros por ir a un concierto suyo. Y si tengo que esperar 15 horas de pie para verla, lo haría\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c4a76b8ac05bf943606289cec05a6dc7/crop/0x65/1193x1656/f/webp/assets/multimedia/imagenes/2025/12/19/17661380028063.jpg",
+        "tags": [
+            "nlpremium",
+            "rosalía",
+            "yodona",
+            "actualidad"
+        ],
+        "link": "https://www.elmundo.es/yodona/actualidad/2025/12/19/69451fc5e85ece88738b45ac.html",
+        "date": "2025-12-19 21:53:16",
+        "sentiment_score": 0.5399880781769753
+    },
+    {
+        "title": "La librería Sant Jordi de Barcelona desafía a la gentrificación y vuelve a subir la persiana ocho meses después",
+        "image_url": "https://static.eldiario.es/clip/0366e1f6-fe93-44a8-a596-bb90d54c5fd5_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "periodismo independiente",
+            "política",
+            "barcelona",
+            "actualidad",
+            "economía",
+            "cataluña",
+            "noticias",
+            "ignacio escolar"
+        ],
+        "link": "https://www.eldiario.es/catalunya/libreria-sant-jordi-barcelona-desafia-gentrificacion-vuelve-subir-persiana-ocho-meses-despues_1_12858438.html",
+        "date": "2025-12-19 21:50:52",
+        "sentiment_score": -0.034777283668518066
+    },
+    {
+        "title": "Andalucía, 25 años después de Carlos Cano (y II): un té verde por el Sáhara y un vinho verde por Portugal",
+        "image_url": "https://static.eldiario.es/clip/54da07a0-3e33-41b3-928c-0325182bc17d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "córdoba",
+            "sevilla",
+            "eldiario.es",
+            "análisis",
+            "málaga",
+            "noticias",
+            "granada",
+            "información",
+            "andalucía",
+            "opinión"
+        ],
+        "link": "https://www.eldiario.es/andalucia/lacajanegra/andalucia-25-anos-despues-carlos-cano-ii-verde-sahara-vinho-verde-portugal_1_12859492.html",
+        "date": "2025-12-19 21:50:52",
+        "sentiment_score": 0.03311237692832947
+    },
+    {
+        "title": "El brote de peste porcina se mantiene controlado tres semanas después mientras crece la presión sobre su origen",
+        "image_url": "https://static.eldiario.es/clip/5d50d90a-b9db-4b03-8a98-e7fc9f31103a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "periodismo independiente",
+            "política",
+            "barcelona",
+            "actualidad",
+            "economía",
+            "cataluña",
+            "noticias",
+            "ignacio escolar"
+        ],
+        "link": "https://www.eldiario.es/catalunya/brote-peste-porcina-mantiene-controlado-tres-semanas-despues-crece-presion-origen_1_12858339.html",
+        "date": "2025-12-19 21:50:47",
+        "sentiment_score": -0.18888874351978302
+    },
+    {
+        "title": "El fiasco de los activos rusos pone en duda la capacidad de Europa como potencia global",
+        "image_url": "https://static.eldiario.es/clip/e356fb2a-ed9a-4c6a-9b12-59e267223a70_16-9-discover-aspect-ratio_default_1133013.jpg",
+        "tags": [
+            "europa",
+            "duda",
+            "capacidad",
+            "potencia",
+            "global",
+            "activos",
+            "rusos",
+            "pone",
+            "fiasco"
+        ],
+        "link": "https://www.eldiario.es/internacional/fiasco-activos-rusos-pone-duda-capacidad-europa-potencia-global_1_12859991.html",
+        "date": "2025-12-19 21:50:45",
+        "sentiment_score": -0.12179359793663025
+    },
+    {
+        "title": "El fracaso de los cursos en catalán: un 15% de los alumnos abandonan",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2024/10/09/44BF13F3-D39D-4ED0-8446-D50EEC93F061/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/fracaso-cursos-catalan-15-alumnos-abandonan_202512196945c5e322f0db7daff83757.html",
+        "date": "2025-12-19 21:38:43",
+        "sentiment_score": 0.3143814317882061
+    },
+    {
+        "title": "Desde la generosidad, el Este y el Oeste siempre se encuentran",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f493df74-0f58-420d-82d1-7db119c09081_alta-libre-aspect-ratio_320w_0.webp",
+        "tags": [
+            "península",
+            "españa",
+            "europa",
+            "lisboa"
+        ],
+        "link": "https://www.lne.es/opinion/2025/12/20/generosidad-oeste-encuentran-124978869.html",
+        "date": "2025-12-19 21:36:41",
+        "sentiment_score": 0.18506377935409546
     }
 ];
