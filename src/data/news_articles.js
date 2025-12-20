@@ -1,209 +1,5 @@
 export default [
     {
-        "title": "El CTA exculpa a González Fuertes del penalti no pitado sobre Vinicius en el Alavés - Real Madrid: \"El VAR no debe intervenir\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/06/23/685910093872d.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/cta-exculpa-gonzalez-fuertes-penalti-pitado-sobre-vinicius-alaves-real-madrid-var-debe-intervenir-20251216_3272610.html",
-        "date": "2025-12-16 17:13:36",
-        "sentiment_score": -0.15299932658672333
-    },
-    {
-        "title": "Lotería de Navidad 2025: cuándo es, premios y buscador de Administaciones",
-        "image_url": "https://theobjective.com/theobjective.com/wp-content/uploads/2025/12/loteria-navidad-2025-cuanto-cuesta-decimo-cuantas-series-un-numero-469x317.jpg",
-        "tags": [
-            "loterías y apuestas del estado",
-            "el gordo",
-            "lotería de navidad",
-            "premios",
-            "resultados",
-            "loteria",
-            "sorteo de navidad",
-            "fechas",
-            "suerte",
-            "lom"
-        ],
-        "link": "https://theobjective.com/loterias/loteria-navidad/2025-12-16/comprobar-loteria-navidad-2025-premios/",
-        "date": "2025-12-16 17:12:42",
-        "sentiment_score": 0.04914022982120514
-    },
-    {
-        "title": "El presidente de la RANME pide a Sanidad la financiación pública de la determinación del ADNtc para cáncer colorrectal",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251216181238_120.jpg",
-        "tags": [
-            "infosalus.com",
-            "asistencia"
-        ],
-        "link": "https://www.infosalus.com/asistencia/noticia-presidente-ranme-pide-sanidad-financiacion-publica-determinacion-adntc-cancer-colorrectal-20251216181238.html",
-        "date": "2025-12-16 17:12:38",
-        "sentiment_score": -0.22267305105924606
-    },
-    {
-        "title": "Caso Plus Ultra: dinero del CLAP y el oro del BCV bajo sospecha en España por trama de blanqueo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "clap",
-            "venezuela",
-            "internacional"
-        ],
-        "link": "https://elpitazo.net/internacional/caso-plus-ultra-dinero-del-clap-y-el-oro-del-bcv-bajo-sospecha-en-espana-por-trama-de-blanqueo/",
-        "date": "2025-12-16 17:11:06",
-        "sentiment_score": -0.6908324472606182
-    },
-    {
-        "title": "Las comunicaciones del Suroeste Ibérico se erigen como el \"gran reto\" del territorio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/88857bf8-2f6f-4e21-b18f-19a265b0c57a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "foro suroeste",
-            "extremadura",
-            "portugal"
-        ],
-        "link": "https://www.lacronicabadajoz.com/extremadura/2025/12/16/comunicaciones-suroeste-iberico-siguen-gran-124857277.html",
-        "date": "2025-12-16 17:08:01",
-        "sentiment_score": 0.2594522088766098
-    },
-    {
-        "title": "Galbiati: Mike James es el jugador con mayor impacto en toda la liga",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/16/galbiati-mike-james-es-el-jugador-con-mayor-impacto-en-toda-la-liga/",
-        "date": "2025-12-16 17:06:35",
-        "sentiment_score": 0.7037625312805176
-    },
-    {
-        "title": "El Valencia volará a Israel con discreción y tendrá un importante despliegue de seguridad",
-        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-        "tags": [
-            "efe"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/16/el-valencia-volara-a-israel-con-discrecion-y-tendra-un-importante-despliegue-de-seguridad/",
-        "date": "2025-12-16 17:06:01",
-        "sentiment_score": -0.13077692687511444
-    },
-    {
-        "title": "La Vuelta presenta este miércoles en Mónaco el recorrido de 2026, que no acabará en Madrid",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251216180515_690.jpg",
-        "tags": [
-            "deportes",
-            "ciclismo"
-        ],
-        "link": "https://www.europapress.es/deportes/ciclismo-00396/noticia-vuelta-presenta-miercoles-monaco-recorrido-2026-no-acabara-madrid-20251216180515.html",
-        "date": "2025-12-16 17:05:15",
-        "sentiment_score": 0.22739087231457233
-    },
-    {
-        "title": "Baskonia necesita seguir fuerte en el Buesa Arena",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251216180352_120.jpg",
-        "tags": [
-            "deportes",
-            "baloncesto"
-        ],
-        "link": "https://www.europapress.es/deportes/baloncesto-00163/noticia-baskonia-necesita-seguir-fuerte-buesa-arena-20251216180352.html",
-        "date": "2025-12-16 17:03:52",
-        "sentiment_score": 0.3137615919113159
-    },
-    {
-        "title": "La FIFA entrega el premio The Best en Doha, en vivo: los candidatos a ganarlo y las distinciones que ya se entregaron",
-        "image_url": "https://www.infobae.com/resizer/v2/ZZWD4RG33FAMNFLN7TWRJOOCFU.jfif?auth=d1c693443f5949a8c6c9c79eeed9df46d0c21179eab2e31eb688c6a20d7dc4cc&height=383&smart=true&width=680",
-        "tags": [
-            "fifa",
-            "fútbol",
-            "premios the best"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/16/la-fifa-entrega-el-premio-the-best-en-doha-en-vivo-los-candidatos-a-ganarlo-y-las-distinciones-que-ya-se-entregaron/",
-        "date": "2025-12-16 17:03:20",
-        "sentiment_score": 0.5861177332699299
-    },
-    {
-        "title": "Elena Juncosa, nueva directora del Museu Nacional Arqueològic de Tarragona",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251216181246_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-elena-juncosa-nueva-directora-museu-nacional-arqueologic-tarragona-20251216181246.html",
-        "date": "2025-12-16 17:12:46",
-        "sentiment_score": 0.25301794707775116
-    },
-    {
-        "title": "Los trabajadores presenciales tienen el doble de riesgo de sufrir Covid persistente que los que teletrabajan",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5393757e-71b6-414d-9a7b-a1a972239d31_16-9-aspect-ratio_default_0_x2135y977.jpg",
-        "tags": [
-            "riesgo",
-            "presenciales",
-            "sufrir",
-            "covid persistente",
-            "trabajadores",
-            "doble"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/salud/2025/12/16/trabajadores-presenciales-doble-riesgo-sufrir-covid-persistente-10479802.html",
-        "date": "2025-12-16 17:12:14",
-        "sentiment_score": 0.18449921905994415
-    },
-    {
-        "title": "El matadero de Ejea de los Caballeros capta 1,7 millones del último Perte e instalará en 2026 un molino de 118 metros",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fcfc1093-7ec6-46bb-be51-7b65c22da30e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cinco villas",
-            "ejea",
-            "sector porcino",
-            "aragón"
-        ],
-        "link": "https://www.elperiodicodearagon.com/aragon/2025/12/16/matadero-ejea-caballeros-capta-1-124856620.html",
-        "date": "2025-12-16 17:12:00",
-        "sentiment_score": -0.5406816154718399
-    },
-    {
-        "title": "Jofre Bardagí homenajea a Joan Manuel Serrat y a su padre en un disco publicado en dos partes",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/16/69418d9cb1ee7.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/20251216/11369629/jofre-bardagi-homenajea-joan-manuel-serrat-padre-disco-publicado-dos-partes.html",
-        "date": "2025-12-16 17:11:44",
-        "sentiment_score": 0.12789076194167137
-    },
-    {
-        "title": "Activada la alerta del plan de emergencia del Parc Fluvial del Besòs por posible desbordamiento",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/12/16/E3C7201D-ADC5-41B5-B83B-F0E665DF3BE2/varias-personas-parc-fluvial-besos-16-abril-2025-sant-adria-besos-barcelona_69.jpg?crop=1920%2C1080%2Cx0%2Cy101&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/activada-alerta-plan-emergencia-parc-fluvial-besos-posible-desbordamiento_20251216694192ce22f0db7daff381b7.html",
-        "date": "2025-12-16 17:11:42",
-        "sentiment_score": -0.528020579367876
-    },
-    {
-        "title": "ChatGPT revela los números favoritos para la Lotería de Navidad 2025",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/11/vero-max-decimo-enmarcado-emotiva-historia-anuncio-loteria-navidad-002-750x373.png",
-        "tags": [
-            "tecnología",
-            "lotería",
-            "noticias",
-            "navidad",
-            "sociedad"
-        ],
-        "link": "https://elfarodeceuta.es/chatgpt-numeros-favoritos-loteria-navidad-2025/",
-        "date": "2025-12-16 17:11:12",
-        "sentiment_score": 0.25085996091365814
-    },
-    {
-        "title": "Desarticulada una red dedicada al robo y despiece de motocicletas del área metropolitana de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/05/09/sucesos/1003742656273_14558379_1706x960.jpg",
-        "tags": [
-            "sucesos",
-            "gran barcelona",
-            "mossos d'esquadra",
-            "robos"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/sucesos/20251216/desarticulada-red-dedicada-robo-despiece-motocicletas-area-metropolitana-barcelona/1003742716574_0.html",
-        "date": "2025-12-16 17:10:17",
-        "sentiment_score": -0.8284967169165611
-    },
-    {
         "title": "El Madrid se desconecta en su visita al EA7 Emporio Armani",
         "image_url": "https://www.latribunadetoledo.es/media/img/2025/7fdf1383-200e-421b-85e007f6300325ea.jpg",
         "tags": [
@@ -2509,5 +2305,178 @@ export default [
         "link": "https://lacalle.com.ve/cayo-la-banda-de-los-piranas-de-valencia-en-barcelona/",
         "date": "2025-12-20 00:34:22",
         "sentiment_score": -0.7106451857835054
+    },
+    {
+        "title": "Una ruta para degustar buen aceite por Las Vegas y la Alcarria madrileña",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ac1571e-7db0-4e18-8988-a8450af7f152_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "turismo"
+        ],
+        "link": "https://www.epe.es/es/madrid/20251220/ruta-degustar-buen-aceite-vegas-alcarria-124897062",
+        "date": "2025-12-20 06:33:41",
+        "sentiment_score": 0.5449544731527567
+    },
+    {
+        "title": "SEAT 127, el coche más vendido el año en que se estrenó Tiburón..., y pasaron otras «cosas»",
+        "image_url": "https://s2.ppllstatics.com/RC//202512/20/media/Foto%202-U53810601204DbZ-760x427@diario_abc.jpg?uuid=77282a8c-dcc6-11f0-9ec4-d27edca2050e",
+        "tags": [
+            "fiat (coches)",
+            "seat",
+            "juan carlos i de españa",
+            "francisco franco"
+        ],
+        "link": "https://www.leonoticias.com/motor/reportajes/seat-127-coche-vendido-ano-estreno-tiburon-20251220073300-ntrc.html",
+        "date": "2025-12-20 06:33:20",
+        "sentiment_score": -0.2819669842720032
+    },
+    {
+        "title": "Las joyas preferidas de la reina Letizia en 2025: de su anillo diario a las dos tiaras que ha usado",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/joyas-reina-letizia-tiara.jpg",
+        "tags": [
+            "casa real española",
+            "familia real española",
+            "gente",
+            "celebrities",
+            "reina letizia",
+            "moda",
+            "joyas"
+        ],
+        "link": "https://theobjective.com/gente/2025-12-20/joyas-preferidas-reina-letizia-2025-anillo/",
+        "date": "2025-12-20 06:30:00",
+        "sentiment_score": -0.24797868728637695
+    },
+    {
+        "title": "Zapatero y la conspiración de El Pardo",
+        "image_url": "https://s1.staticld.com/2025/12/20/jose-luis-rodrgiguez-zapatero-03112025.jpg",
+        "tags": [
+            "política"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-12-20/javier-somalo-zapatero-y-la-conspiracion-de-el-pardo-7336240/",
+        "date": "2025-12-20 06:23:40",
+        "sentiment_score": -0.7931160032749176
+    },
+    {
+        "title": "Margarita del Val, Patricia Altea y Volkswagen, ganadoras de los premios Hipatia 2025",
+        "image_url": "https://s10.s3c.es/imag/_v0/6006x3278/1/d/8/1200x655__F2A0282.JPG",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13699904/12/25/margarita-del-val-patricia-altea-y-volkswagen-ganadoras-de-los-premios-hipatia-2025.html",
+        "date": "2025-12-20 06:15:45",
+        "sentiment_score": 0.33848514407873154
+    },
+    {
+        "title": "Verdinas: tres templos del cuchareo en Madrid",
+        "image_url": "https://okdiario.com/img/2025/12/20/portada_cultura_noticia_okdiario_1080x1013px-1.jpg",
+        "tags": [
+            "cultura",
+            "actualidad",
+            "madrid",
+            "ocio",
+            "gastronomía"
+        ],
+        "link": "https://okdiario.com/actualidad/verdinas-tres-templos-del-cuchareo-madrid-15966001",
+        "date": "2025-12-20 06:00:52",
+        "sentiment_score": 0.43055977672338486
+    },
+    {
+        "title": "Un cacereño relata la odisea que ha vivido por un cáncer mal diagnosticado, siéndole denegada la pensión de incapacidad permanente: \"Es inhumano\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fb34f4a9-8d96-4c1e-856d-08ee26508917_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "deuda",
+            "cárcel",
+            "portada",
+            "cáceres",
+            "hospital",
+            "home",
+            "gente",
+            "cáncer"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres-local/2025/12/20/cacereno-relata-odisea-vivido-cancer-124875428.html",
+        "date": "2025-12-20 05:45:22",
+        "sentiment_score": -0.9331721132621169
+    },
+    {
+        "title": "Los 50 dirigentes empresariales más influyentes en España en 2026",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2025/12/Amancio-Ortega-2.webp",
+        "tags": [
+            "últimas noticias",
+            "empresas",
+            "en portada 4"
+        ],
+        "link": "https://www.merca2.es/2025/12/20/50-dirigentes-empresariales-mas-influyentes-2026-2335286/",
+        "date": "2025-12-20 05:30:00",
+        "sentiment_score": 0.45359423756599426
+    },
+    {
+        "title": "El alza de impuestos en Soria y la despoblación",
+        "image_url": "https://imagenes.diariodecastillayleon.es/static/img/logo-dcyl-poster.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodecastillayleon.es/opinion/251220/103741/alza-impuestos-soria-despoblacion.html",
+        "date": "2025-12-20 05:30:00",
+        "sentiment_score": -0.23532867431640625
+    },
+    {
+        "title": "Igor Paskual busca respuestas: ¿Para qué sirve la música?",
+        "image_url": "https://static.eldiario.es/clip/a0b88c37-1de4-4dba-a5e6-01107cde9ed8_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "musica",
+            "igor",
+            "busca",
+            "sirve",
+            "respuestas",
+            "paskual"
+        ],
+        "link": "https://www.eldiario.es/asturias/igor-paskual-busca-respuestas-sirve-musica_1_12833630.html",
+        "date": "2025-12-20 05:02:44",
+        "sentiment_score": -0.05596330761909485
+    },
+    {
+        "title": "La pequeña empresa que resiste tras 45 años en un barrio de Pamplona y con relevo asegurado: \"Es la tercera generación\"",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/11/30/2025113011381861127.jpg",
+        "tags": [
+            "comercio local"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/comercio-local/pequena-empresa-que-resiste-45-anos-barrio-pamplona-relevo-asegurado-es-tercera-generacion/20251220073334625505.html",
+        "date": "2025-12-20 06:33:34",
+        "sentiment_score": 0.1032353974878788
+    },
+    {
+        "title": "Mercadona, Carrefour, Dia, Lidl... así terminan el año los grandes supermercados: decenas de nuevas aperturas, más músculo logístico e innovación",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/05/28/foto-recurso-compra-supermercados.jpeg",
+        "tags": [
+            "economía y finanzas"
+        ],
+        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/mercadona-carrefour-dia-lidl-asi-terminan-ano-grandes-supermercados_6912560_0.html",
+        "date": "2025-12-20 06:30:00",
+        "sentiment_score": 0.7662674579769373
+    },
+    {
+        "title": "Feminismo y represión en los inicios del alpinismo navarro",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6ca96970-0b97-4331-80ce-bd7704ced4e9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "navarro",
+            "alpinismo",
+            "represion",
+            "inicios",
+            "feminismo"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/20/feminismo-represion-inicios-alpinismo-navarro-10495322.html",
+        "date": "2025-12-20 06:14:11",
+        "sentiment_score": -0.17653614282608032
+    },
+    {
+        "title": "ISE 2026 vuelve a Barcelona con la edición más grande y ambiciosa de su historia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f4386bf3-8f3e-4c38-b0d4-0bc2dddfac0f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tecnología",
+            "audiovisual",
+            "barcelona"
+        ],
+        "link": "https://www.informacion.es/tecnologia/2025/12/20/ise-2026-vuelve-barcelona-edicion-124984256.html",
+        "date": "2025-12-20 06:01:21",
+        "sentiment_score": 0.47287851944565773
     }
 ];
