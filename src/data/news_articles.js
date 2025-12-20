@@ -2281,5 +2281,233 @@ export default [
         "link": "https://www.lne.es/opinion/2025/12/20/generosidad-oeste-encuentran-124978869.html",
         "date": "2025-12-19 21:36:41",
         "sentiment_score": 0.18506377935409546
+    },
+    {
+        "title": "LaLiga: Sevilla es la última prueba de Xabi Alonso y el Real Madrid en el año",
+        "image_url": "https://pxcdn.meridiano.net/122025/1766196664549.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/laliga-sevilla-es-la-ultima-prueba-de-xabi-alonso-y-el-real-madrid-en-el-ano-202512192270",
+        "date": "2025-12-20 02:07:00",
+        "sentiment_score": 0.7627085763961077
+    },
+    {
+        "title": "Carlota Gurt: \"La libido de la mujer se ha tenido que rebelar contra las grandes verdades, contra Dios, contra Freud, contra Darwin\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/e843f26e6f4d9cd602fea4d7cd783f47/crop/15x0/233x218/f/image/jpeg/assets/multimedia/imagenes/2022/03/21/16478798783008.png",
+        "tags": [
+            "cultura",
+            "literatura",
+            "artículos vanessa graell",
+            "sexo",
+            "teatro",
+            "barcelona"
+        ],
+        "link": "https://www.elmundo.es/la-lectura/2025/12/20/693afa0221efa01d738b457f.html",
+        "date": "2025-12-20 01:14:39",
+        "sentiment_score": -0.3997897356748581
+    },
+    {
+        "title": "La aldea gala 'de Diego', el comercio madrileño de más de 200 años que aún sobrevive en Sol: \"Somos un dinosaurio\"",
+        "image_url": "https://s3.elespanol.com/2025/12/12/madrid/1003744053549_260456291_1706x960.jpg",
+        "tags": [
+            "ocio",
+            "madrid",
+            "abanicos",
+            "puerta del sol"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20251220/aldea-gala-diego-comercio-madrileno-anos-sobrevive-sol-dinosaurio/1003744053394_0.html",
+        "date": "2025-12-20 01:00:00",
+        "sentiment_score": 0.029775917530059814
+    },
+    {
+        "title": "La cooperación que nace de la semilla del conocimiento: educación, ciencia y cultura como motores del desarrollo",
+        "image_url": "https://s3.elespanol.com/2024/05/29/actualidad/858924575_243579631_1706x960.jpg",
+        "tags": [
+            "oei iberoamérica en democracia",
+            "historias",
+            "latinoamérica",
+            "cooperación al desarrollo",
+            "objetivo 17: alianzas para lograr los objetivos",
+            "objetivo 16: paz",
+            "justicia e instituciones sólidas"
+        ],
+        "link": "https://www.elespanol.com/enclave-ods/historias/20251220/cooperacion-nace-semilla-conocimiento-educacion-ciencia-cultura-motores-desarrollo/1003744060234_0.html",
+        "date": "2025-12-20 00:45:00",
+        "sentiment_score": 0.6589751802384853
+    },
+    {
+        "title": "19 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/19-dic-2025-partidazo-cope-20251220_3275245.html",
+        "date": "2025-12-20 00:45:00",
+        "sentiment_score": 0.15633757412433624
+    },
+    {
+        "title": "La reina Letizia, Soraya Arnelas o Mercedes Milá: todos los famosos a los que les ha tocado la Lotería de Navidad",
+        "image_url": "https://s3.elespanol.com/2025/12/19/corazon/famosos/1003744062800_260573979_1706x960.jpg",
+        "tags": [
+            "soft",
+            "lotería de navidad",
+            "isabel gemio",
+            "mercedes milá",
+            "reina letizia",
+            "famosos",
+            "carmen lomana"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251220/reina-letizia-soraya-arnelas-mercedes-mila-famosos-tocado-loteria-navidad/271473027_0.html",
+        "date": "2025-12-20 00:33:00",
+        "sentiment_score": 0.3594335541129112
+    },
+    {
+        "title": "Albéniz, al mando en el reto copero del Costa Adeje",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/65323d10-dd09-4c99-8898-f8b00922e617_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tenerife",
+            "costa adeje",
+            "copa de la reina",
+            "sevilla"
+        ],
+        "link": "https://www.eldia.es/deportes/ud-tenerife/2025/12/20/albeniz-mando-reto-copero-costa-124981878.html",
+        "date": "2025-12-20 00:00:31",
+        "sentiment_score": 0.16576866805553436
+    },
+    {
+        "title": "El ranking de los 100 mejores futbolistas del 2025: en qué puesto quedó Lionel Messi y los otros seis argentinos de la lista",
+        "image_url": "https://www.infobae.com/resizer/v2/C347LAEDENGPLMINZSLH5XLAEM.jpg?auth=62b39be3dc057f55c5eafdf4358da0fff82276ff71f3943b297561150166515b&height=1080&smart=true&width=1920",
+        "tags": [
+            "julián álvarez",
+            "enzo fernández",
+            "selección argentina",
+            "alexis mac allister",
+            "lautaro martínez",
+            "lionel messi",
+            "emiliano dibu martínez",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/19/el-ranking-de-los-100-mejores-futbolistas-del-2025-en-que-puesto-quedo-lionel-messi-y-los-otros-seis-argentinos-de-la-lista/",
+        "date": "2025-12-19 23:50:51",
+        "sentiment_score": 0.7802167274057865
+    },
+    {
+        "title": "El Gordo llama a las puertas",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/19/1504009204-RDJr1ta4Ij4QkHOpMg0abRK-758x531@RC.JPG",
+        "tags": [
+            "premios",
+            "el gordo",
+            "loterías y apuestas del estado",
+            "apuestas",
+            "lotería de navidad",
+            "navidad",
+            "hacienda"
+        ],
+        "link": "https://www.elcorreo.com/sociedad/gordo-llama-puertas-20251219004534-ntrc.html",
+        "date": "2025-12-19 23:45:35",
+        "sentiment_score": 0.5647520199418068
+    },
+    {
+        "title": "Barcelona encabeza pagos de la UEFA por jugadoras en la Eurocopa Femenina 2025",
+        "image_url": "https://i.headtopics.com/images/2025/12/19/latimes/barcelona-encabeza-pagos-de-la-uefa-por-jugadoras--barcelona-encabeza-pagos-de-la-uefa-por-jugadoras--F4EE9342FCCC95FFECAB327C33EDA31A.webp",
+        "tags": [
+            "united states news"
+        ],
+        "link": "https://us.headtopics.com/news/barcelona-encabeza-pagos-de-la-uefa-por-jugadoras-en-la-77412567",
+        "date": "2025-12-20 01:39:43",
+        "sentiment_score": 0.375769954174757
+    },
+    {
+        "title": "El papel de Leo Messi en las elecciones del Barça: los opositores contra Laporta",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/23/culemania/culemaniacos/1003742700801_15317545_1706x960.jpg",
+        "tags": [
+            "palco",
+            "elecciones barça",
+            "joan camprubí",
+            "joan laporta",
+            "barça",
+            "xavier vilajoana",
+            "víctor font",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251220/papel-leo-messi-elecciones-barca-opositores-laporta/1003742717741_0.html",
+        "date": "2025-12-20 01:01:31",
+        "sentiment_score": -0.17160136997699738
+    },
+    {
+        "title": "El éxito cañón de Alcalá Norte: \"Todo el mundo está deseando que nos demos la hostia\"",
+        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744062065_260564873_1706x960.jpg",
+        "tags": [
+            "música",
+            "entrevistas"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251220/exito-canon-alcala-norte-mundo-deseando-demos-hostia/1003744062060_0.html",
+        "date": "2025-12-20 00:55:00",
+        "sentiment_score": 0.5930808596313
+    },
+    {
+        "title": "Las 25 mejores series de 2025: del delirio de Nathan Fielder en 'Los ensayos' al clasicismo de 'The Pitt'",
+        "image_url": "https://s3.elespanol.com/2025/12/19/actualidad/1003744063709_260586479_1706x960.jpg",
+        "tags": [
+            "en plan serie",
+            "series",
+            "recomendaciones",
+            "el cultural - lo mejor de 2025"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/blogs/en_plan_serie/20251220/mejores-series-delirio-nathan-fielder-ensayos-clasicismo-the-pitt/1003744063210_12.html",
+        "date": "2025-12-20 00:55:00",
+        "sentiment_score": -0.23819025605916977
+    },
+    {
+        "title": "Los 10 mejores ensayos de 2025: un Chaves Nogales inmortal se encumbra frente a los problemas de la actualidad",
+        "image_url": "https://s3.elespanol.com/2025/12/16/actualidad/1003744057397_260504704_1706x960.jpg",
+        "tags": [
+            "ensayo",
+            "libros",
+            "el cultural - lo mejor de 2025"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/ensayo/20251220/mejores-ensayos-chaves-nogales-inmortal-encumbra-frente-problemas-actualidad/1003744057164_0.html",
+        "date": "2025-12-20 00:55:00",
+        "sentiment_score": -0.07006657123565674
+    },
+    {
+        "title": "Kavac y Škaljari: una guerra entre narcos nacida en Valencia y afianzada en la Costa del Sol que deja más de 70 muertos",
+        "image_url": "https://s3.elespanol.com/2025/12/19/actualidad/1003744063192_260579066_1706x960.jpg",
+        "tags": [
+            "sucesos málaga",
+            "mafias",
+            "costa del sol",
+            "málaga",
+            "narcotráfico"
+        ],
+        "link": "https://www.elespanol.com/malaga/20251220/kavac-skaljari-guerra-narcos-nacida-valencia-afianzada-costa-sol-deja-muertos-dl/1003744063133_0.html",
+        "date": "2025-12-20 00:40:00",
+        "sentiment_score": -0.8504240801557899
+    },
+    {
+        "title": "Luna Miguel: \"Se habla de violencia sexual, del consentimiento, pero la reacción ha sido 'callaos, que ya aburre'\"",
+        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744062138_260585743_1706x960.jpg",
+        "tags": [
+            "periodistas",
+            "entrevistas",
+            "porfolio",
+            "escritores",
+            "reportajes"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251220/luna-miguel-habla-violencia-sexual-consentimiento-reaccion-callaos-aburre/1003744062077_0.html",
+        "date": "2025-12-20 00:40:00",
+        "sentiment_score": -0.708986446261406
+    },
+    {
+        "title": "Cayó la banda de “Los Pirañas de Valencia” en Barcelona",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/12/IMG-20251219-WA0006.webp",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://lacalle.com.ve/cayo-la-banda-de-los-piranas-de-valencia-en-barcelona/",
+        "date": "2025-12-20 00:34:22",
+        "sentiment_score": -0.7106451857835054
     }
 ];
