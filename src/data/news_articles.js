@@ -1,415 +1,5 @@
 export default [
     {
-        "title": "Resultados, clasificación y resúmenes acabada la Jornada 16 de LaLiga EA Sports 25-26",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/laliga-ea-sports-25-26-jornada-16-lunes-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/da-16-resultados-resumen-clasificacion-partidos-getafe-espanyol-lunes-ceses-entrenadores-real-oviedo-real-sociedad/",
-        "date": "2025-12-15 22:14:11",
-        "sentiment_score": -0.18078851699829102
-    },
-    {
-        "title": "Ayuso y Feijóo hacen gala de los valores cristianos del PP en su cena: \"No hay que pedir perdón por ser católico\"",
-        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744056763_260497428_1706x960.jpg",
-        "tags": [
-            "partido popular (pp)",
-            "pp madrid",
-            "política"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251215/ayuso-feijoo-hacen-gala-valores-cristianos-pp-cena-no-pedir-perdon-catolico/1003744056731_0.html",
-        "date": "2025-12-15 22:07:07",
-        "sentiment_score": -0.04805278778076172
-    },
-    {
-        "title": "Ni siquiera ganar el Gordo garantiza la vivienda: los municipios donde el premio ya no es suficiente para comprar una casa",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
-        "tags": [
-            "artículos elsa martín",
-            "artículos daniela saltos",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/economia/2025/12/15/69273ffae85eceb93b8b4580.html",
-        "date": "2025-12-15 21:55:47",
-        "sentiment_score": -0.9005665900185704
-    },
-    {
-        "title": "Tebas contesta a Florentino por sus palabras sobre el caso Negreira: \"No es indignación: es teatro\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2024/09/11/image-a6b2b661-d01a-4c57-add0-7cd134dd2f62-85-2560-1440.jpeg",
-        "tags": [
-            "la liga 2025-2026",
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/respuesta-sin-piedad-tebas-florentino-caso-negreira-pagos-fc-barcelona_sto23251019/story.shtml",
-        "date": "2025-12-15 21:46:57",
-        "sentiment_score": -0.20552513003349304
-    },
-    {
-        "title": "Tras la llegada de Reguilón y la renovación de De Paul: el Dream Team que proyecta el Inter Miami de Messi para 2026",
-        "image_url": "https://www.infobae.com/resizer/v2/7BQOSTNHTRDJHLAWCSLXNY7AWA.jpg?auth=cec5821c7942604bd35075d3a0f00a617f7dd9596fb66e384b2838b26ea94080&height=1080&smart=true&width=1920",
-        "tags": [
-            "mls",
-            "lionel messi",
-            "inter miami",
-            "deportes-argentina",
-            "deportes-internacional",
-            "sergio reguilón"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/15/tras-la-llegada-de-reguilon-y-la-renovacion-de-de-paul-el-dream-team-que-proyecta-el-inter-miami-de-messi-para-2026/",
-        "date": "2025-12-15 21:40:37",
-        "sentiment_score": 0.36869452707469463
-    },
-    {
-        "title": "Tebas contesta a Florentino: \"LaLiga respeta los procesos y no construye relatos\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/11/23/6922f94807cfd.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tebas-contesta-florentino-laliga-respeta-procesos-actua-construye-relatos-20251215_3271815.html",
-        "date": "2025-12-15 21:26:41",
-        "sentiment_score": -0.18466083705425262
-    },
-    {
-        "title": "ONG Conciencia es Dignidad denuncia ante la CPI a diputados del régimen venezolano por \"delito de obstrucción a la justicia\" al aprobar intento derogación del Estatuto de Roma",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/07/09102425/afp-cpi-1-1.jpg",
-        "tags": [
-            "política",
-            "venezuela",
-            "cpi",
-            "estatuto de roma"
-        ],
-        "link": "https://www.elnacional.com/2025/12/ong-conciencia-es-dignidad-denuncia-ante-la-cpi-a-diputados-del-regimen-venezolano-por-delito-de-obstruccion-a-la-justicia-al-aprobar-intento-derogacion-del-estatuto-de-roma/",
-        "date": "2025-12-15 21:09:07",
-        "sentiment_score": -0.3338128924369812
-    },
-    {
-        "title": "Los efectos de la vaguada en Extremadura: un martes cargado de lluvia y temperaturas mínimas de 4 grados",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3682d551-e056-413b-a1e6-643e13e61b51_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "temperaturas",
-            "previsión meteorológica",
-            "lluvia"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/extremadura/2025/12/15/efectos-vaguada-extremadura-martes-cargado-124821748.html",
-        "date": "2025-12-15 20:47:01",
-        "sentiment_score": -0.8160772603005171
-    },
-    {
-        "title": "Juegos de la semana 10 y 11 en vivo y gratis para Venezuela del baloncesto español",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1765832742054.jpg?ch=675&cw=1200",
-        "tags": [
-            "meridianotv",
-            "basket",
-            "venezuela"
-        ],
-        "link": "https://2001online.com/deportes/juegos-de-la-semana-10-y-11-en-vivo-y-gratis-para-venezuela-del-baloncesto-espanol-2025121516470",
-        "date": "2025-12-15 20:47:00",
-        "sentiment_score": 0.7013275381177664
-    },
-    {
-        "title": "Cancelados los vuelos entre Barcelona y Badajoz de este lunes por «razones técnicas»",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/12/15/aeropuerto_badajoz-kZ0D-U1705980-kriC-U240567960292vi-1200x840@Hoy.jpg",
-        "tags": [
-            "extremadura",
-            "aeropuerto de badajoz",
-            "badajoz"
-        ],
-        "link": "https://www.hoy.es/badajoz/cancelados-vuelos-barcelona-badajoz-lunes-razones-tecnicas-20251215230858-nt.html",
-        "date": "2025-12-15 22:08:58",
-        "sentiment_score": 0.06515037640929222
-    },
-    {
-        "title": "El chef de los cinco millones de seguidores que ocultó durante una década su raro trastorno: \"Me pasaba horas grabando y regrabando para que no se me notara\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/796276b32b31a172538a1885c062bd86/f/image/jpeg/assets/multimedia/imagenes/2023/02/13/16763014917691.jpg",
-        "tags": [
-            "artículos rebeca yanke",
-            "neurología",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/papel/historias/2025/12/15/694034d1e4d4d82d198b458a.html",
-        "date": "2025-12-15 21:54:40",
-        "sentiment_score": -0.6591688096523285
-    },
-    {
-        "title": "Una mujer encuentra un bolso de mano en la calle en Barcelona, lo lleva a la Policía y no se creen lo que había: \"Con el nombre escrito\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/10/16/68f0b49d9cf78.jpeg",
-        "tags": [
-            "lotería de navidad"
-        ],
-        "link": "https://www.cope.es/actualidad/vivir/loteria-de-navidad/noticias/mujer-encuentra-bolso-mano-calle-barcelona-lleva-policia-creen-habia-nombre-escrito-20251215_3271806.html",
-        "date": "2025-12-15 21:30:21",
-        "sentiment_score": -0.07298171520233154
-    },
-    {
-        "title": "Cuatro detenidos en Barcelona después de que un pasajero se ahogara en un taxi con una cadena de oro robada",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/05/26/6834523707e8f.r_d.1868-1463-1918.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20251215/11366267/cuatro-detenidos-barcelona-pasajero-ahogara-cadena-oro-robada-taxi.html",
-        "date": "2025-12-15 21:28:34",
-        "sentiment_score": -0.14783522486686707
-    },
-    {
-        "title": "Nacho Fresneda, sobre la política: \"Cuando el lugar de la palabra lo ocupa el insulto, en la calle se genera violencia\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/02/actualidad/1003742712778_15471644_1706x960.jpg",
-        "tags": [
-            "cineastas",
-            "cine",
-            "actores y actrices",
-            "creación",
-            "goya",
-            "películas",
-            "entrevistas"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/creacion/20251215/nacho-fresneda-politica-palabra-insulto-genera-violencia-trt/1003742716349_0.html",
-        "date": "2025-12-15 21:17:09",
-        "sentiment_score": -0.2862551063299179
-    },
-    {
-        "title": "La masía rodeada de naturaleza perfecta para ir de ‘calçotada’ este invierno: a 20 minutos de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/08/17/vivir-en-barcelona/1003742682096_15023397_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "gastronomía",
-            "sant cugat",
-            "gastro"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gastro/20251215/masia-rodeada-naturaleza-perfecta-ir-calcotada-invierno-minutos-barcelona/1003742716326_0.html",
-        "date": "2025-12-15 21:13:04",
-        "sentiment_score": 0.4376419298350811
-    },
-    {
-        "title": "La decisión de Cristiano Ronaldo que cambia por completo su futuro en Al Nassr",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Cristiano-Ronaldo.jpg",
-        "tags": [
-            "titulares",
-            "futbol",
-            "arabia saudí",
-            "al nassr",
-            "deportes",
-            "cristiano ronaldo"
-        ],
-        "link": "https://lapatilla.com/2025/12/15/la-decision-de-cristiano-ronaldo-que-cambia-por-completo-su-futuro-en-al-nassr/",
-        "date": "2025-12-16 01:32:39",
-        "sentiment_score": 0.6516357287764549
-    },
-    {
-        "title": "La visita de Messi a India comienza de forma caótica con fanáticos enojados que invaden el campo",
-        "image_url": "https://i.headtopics.com/images/2025/12/15/latimes/la-visita-de-messi-a-india-comienza-de-forma-ca-ti-la-visita-de-messi-a-india-comienza-de-forma-ca-ti-026486BAD45A334505ABFFC56E18720F.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://us.headtopics.com/news/la-visita-de-messi-a-india-comienza-de-forma-ca-tica-con-77224137",
-        "date": "2025-12-16 01:24:59",
-        "sentiment_score": -0.9049338083714247
-    },
-    {
-        "title": "Marc Dos Santos asume como nuevo entrenador en LAFC: “La intensidad no es negociable”",
-        "image_url": "https://i.headtopics.com/images/2025/12/15/latimes/marc-dos-santos-asume-como-nuevo-entrenador-en-laf-marc-dos-santos-asume-como-nuevo-entrenador-en-laf-CA20EF72B89BD3D6F323EF74036044D1.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://us.headtopics.com/news/marc-dos-santos-asume-como-nuevo-entrenador-en-lafc-la-77223628",
-        "date": "2025-12-16 01:10:39",
-        "sentiment_score": 0.5583901591598988
-    },
-    {
-        "title": "¿La Copa del Rey como redención para un alicaído Dépor?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/18/2025061820441646967.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/depor-debe-dar-paso-adelante-bano-que-recibio-sanse/20251216020439367049.html",
-        "date": "2025-12-16 01:04:39",
-        "sentiment_score": -0.12178854644298553
-    },
-    {
-        "title": "De la escuela al patrimonio: 23 jóvenes de Madrid restauran el retablo mayor de la Capilla de los Apóstoles de Cuenca",
-        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744056527_260494478_1706x960.jpg",
-        "tags": [
-            "madrid comunidad",
-            "cultura",
-            "educación",
-            "comunidad de madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/comunidad/20251216/escuela-patrimonio-jovenes-madrid-restauran-retablo-mayor-capilla-apostoles-cuenca/1003744056500_0.html",
-        "date": "2025-12-16 01:03:14",
-        "sentiment_score": 0.7185903415083885
-    },
-    {
-        "title": "La “trampa” de Mastantuono que complica al Real Madrid de cara a su debut en la Copa del Rey",
-        "image_url": "https://www.infobae.com/resizer/v2/F4VEG2XT6FEW7AE64DYFSTITRQ.jpg?auth=3320b984e938a6d52d090020fcea5716f6e40b1e0fea8de7c2712927f9f8ac33&height=1080&smart=true&width=1920",
-        "tags": [
-            "copa del rey",
-            "franco mastantuono",
-            "deportes-argentina",
-            "real madrid"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/16/la-trampa-de-mastantuono-que-complica-al-real-madrid-de-cara-a-su-debut-en-la-copa-del-rey/",
-        "date": "2025-12-16 00:45:16",
-        "sentiment_score": 0.2108306959271431
-    },
-    {
-        "title": "‘Apadrina una viga’: las nueve monjas de clausura que necesitan 60.000 euros y prometen \"rezar por ti\" si ayudas",
-        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744056245_260490914_1706x960.jpg",
-        "tags": [
-            "monjas",
-            "valladolid",
-            "sociedad castilla y león",
-            "valladolid (municipio)",
-            "donaciones"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20251216/apadrina-viga-monjas-clausura-necesitan-euros-prometen-rezar-ayudas/1003744056224_0.html",
-        "date": "2025-12-16 00:43:56",
-        "sentiment_score": 0.07286840677261353
-    },
-    {
-        "title": "Sánchez postalita",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2023/05/16/64634836ead59.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20251216/sanchez-postalita_365695.html",
-        "date": "2025-12-16 00:30:00",
-        "sentiment_score": -0.28530025482177734
-    },
-    {
-        "title": "Las vidas (im)posibles de Cervantes",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2025/12/15/6940408b9c6b0.jpeg",
-        "tags": [
-            "en primera línea"
-        ],
-        "link": "https://www.eldebate.com/opinion/en-primera-linea/20251216/vidas-imposibles-cervantes_365676.html",
-        "date": "2025-12-16 00:30:00",
-        "sentiment_score": -0.6083606816828251
-    },
-    {
-        "title": "Kylian Mbappé se acerca al récord de goles de Cristiano Ronaldo en el Real Madrid, ‘entre unos pocos elegidos’",
-        "image_url": "https://www.elboletin.com/wp-content/uploads/2025/12/kylian-mbappe-real-madrid-goleador.jpg",
-        "tags": [
-            "eventos deportivos",
-            "hoy en la red",
-            "clubes de fútbol",
-            "jugadores",
-            "estadísticas deportivas",
-            "carreras deportivas",
-            "competencias",
-            "fútbol",
-            "kylian mbappe",
-            "cristiano ronaldo",
-            "récords"
-        ],
-        "link": "https://www.elboletin.com/mbappe-esta-punto-de-romper-la-marca-de-goles-de-cr7-record-madridista/",
-        "date": "2025-12-16 00:02:11",
-        "sentiment_score": -0.09021270275115967
-    },
-    {
-        "title": "Granadas pacíficas contra el acoso callejero",
-        "image_url": "https://s3.elespanol.com/2024/04/16/invertia/disruptores/opinion/848175310_241539305_1706x960.jpg",
-        "tags": [
-            "acoso sexual",
-            "mujeres",
-            "tecnología",
-            "opinión",
-            "innovación",
-            "columnas de opinión"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/opinion/20251216/granadas-pacificas-acoso-callejero/1003744055309_13.html",
-        "date": "2025-12-16 01:36:19",
-        "sentiment_score": -0.38481901586055756
-    },
-    {
-        "title": "Barcelona prueba 'microhubs' inteligentes para la distribución de mercancías en hostelería",
-        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744055637_260483392_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "tecnología",
-            "wake up - sostenibilidad",
-            "logística",
-            "innovación"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/cataluna/20251216/barcelona-prueba-microhubs-inteligentes-distribucion-mercancias-hosteleria/1003744055606_0.html",
-        "date": "2025-12-16 01:27:01",
-        "sentiment_score": 0.6191788502037525
-    },
-    {
-        "title": "Las diez mejores películas españolas de 2025: 'Tardes de soledad' gana en un año de ritos y ceremonias",
-        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744055503_260492770_1706x960.jpg",
-        "tags": [
-            "el cultural - lo mejor de 2025",
-            "cine español",
-            "cine",
-            "recomendaciones"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/cine/20251216/mejores-peliculas-espanolas-tardes-soledad-gana-ano-ritos-ceremonias/1003744055293_0.html",
-        "date": "2025-12-16 00:47:56",
-        "sentiment_score": -0.28087233006954193
-    },
-    {
-        "title": "“Muy optimista”: el análisis sobre el Alpine de Colapinto que ilusiona a los fanáticos de cara a la temporada 2026 de la F1",
-        "image_url": "https://www.infobae.com/resizer/v2/7F43KN7XEZFLPDPWG6GMU4HVTM.jpg?auth=50b15ea6365f2e8b99962bfdec35442979881327e55e6e6bf0bfa7cd963125c4&height=680&smart=true&width=1080",
-        "tags": [
-            "pierre gasly",
-            "fórmula 1",
-            "mercedes",
-            "alpine",
-            "deportes-argentina",
-            "franco colapinto"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/16/muy-optimista-el-analisis-sobre-el-alpine-de-colapinto-que-ilusiona-a-los-fanaticos-de-cara-a-la-temporada-2026-de-la-f1/",
-        "date": "2025-12-16 00:38:57",
-        "sentiment_score": 0.8763754749670625
-    },
-    {
-        "title": "Gabriel Masfurroll",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/15/69405788d88ff.r_d.1110-238-7500.jpeg",
-        "tags": [
-            "obituarios"
-        ],
-        "link": "https://www.eldebate.com/obituarios/20251216/humanista-entendio-valor-sanidad-privada_365720.html",
-        "date": "2025-12-16 00:30:00",
-        "sentiment_score": -0.176823228597641
-    },
-    {
-        "title": "Aldi roza los 500 supermercados en España tras abrir una treintena de tiendas en 2025",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/0a44ee0876d4192ff5052644573f8bad/crop/0x11/2015x1354/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/15/17658171137255.jpg",
-        "tags": [
-            "distribución>",
-            "alimentación>",
-            "empresas>",
-            "supermercados>",
-            "artículos nerea san esteban>"
-        ],
-        "link": "https://www.expansion.com/empresas/distribucion/2025/12/16/69403606468aeb8c7f8b45a8.html",
-        "date": "2025-12-16 00:04:11",
-        "sentiment_score": 0.6192051246762276
-    },
-    {
-        "title": "2a PARTE | 15 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-15-dic-2025-partidazo-cope-20251216_3271836.html",
-        "date": "2025-12-15 23:42:02",
-        "sentiment_score": -0.40543642826378345
-    },
-    {
-        "title": "El 'family office' de Daniel Entrecanales y Catella invierten en residencias de estudiantes",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/a9a39f8b029f290afb50bbcc9c06bfdd/crop/440x130/1802x1038/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/15/17658259625407.png",
-        "tags": [
-            "artículos rebeca arroyo>",
-            "cataluña>",
-            "inmobiliario y construcción>",
-            "empresas>",
-            "mercado inmobiliario>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/mercado/2025/12/16/69405faae5fdeaac698b4579.html",
-        "date": "2025-12-15 23:41:19",
-        "sentiment_score": 0.3378986082971096
-    },
-    {
         "title": "El Atlético se acerca a los 200 millones por un fichaje que ya estaba firmado",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/06/24/2025062414072582713.jpg",
         "tags": [
@@ -2367,5 +1957,244 @@ export default [
         "link": "https://lagradaonline.com/javi-puado-vuelta-lesion-espanyol-athletic-barcelona/",
         "date": "2025-12-19 06:00:49",
         "sentiment_score": -0.8669751416891813
+    },
+    {
+        "title": "Las cambiantes justificaciones de Donald Trump sobre Venezuela y los ataques en el Caribe",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/buques-petroleros-venezuela.jpg",
+        "tags": [
+            "internacionales",
+            "nicolás maduro",
+            "donald trump",
+            "nacionales",
+            "eeuu",
+            "caribe",
+            "venezuela",
+            "ataques",
+            "destacados"
+        ],
+        "link": "https://lapatilla.com/2025/12/19/las-cambiantes-justificaciones-de-donald-trump-sobre-venezuela-y-los-ataques-en-el-caribe/",
+        "date": "2025-12-19 10:54:49",
+        "sentiment_score": 0.4652853161096573
+    },
+    {
+        "title": "17:00H | 19 DIC 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-19-dic-2025-tarde-20251219_3275154.html",
+        "date": "2025-12-19 17:08:00",
+        "sentiment_score": -0.45851027965545654
+    },
+    {
+        "title": "Nuevo hito en el proceso de modernización del Museo de Covadonga: estas son todas las novedades",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ad68fb56-71ab-4418-8e02-f0a831e32cb6_16-9-aspect-ratio_default_0_x1530y394.jpg",
+        "tags": [
+            "fundación",
+            "covadonga",
+            "proyecto",
+            "asturias",
+            "patrimonio"
+        ],
+        "link": "https://www.lne.es/oriente/2025/12/19/nuevo-hito-proceso-modernizacion-museo-124972514.html",
+        "date": "2025-12-19 17:07:18",
+        "sentiment_score": 0.40193313360214233
+    },
+    {
+        "title": "Televisiones y radios ofrecen este lunes especiales con motivo de la celebración del sorteo de Navidad 2025",
+        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
+        "tags": [
+            "castilla-la mancha",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/televisiones-radios-lunes-especiales-celebracion-sorteo-navidad-2025-795615-1.html",
+        "date": "2025-12-19 17:07:00",
+        "sentiment_score": 0.23340176045894623
+    },
+    {
+        "title": "La Junta de Personal Docente insta a la Junta y al ayuntamiento a firmar un acuerdo de colaboración",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/12/19/trepalio-tejado.jpg",
+        "tags": [
+            "san andrés del rabanedo"
+        ],
+        "link": "https://www.leonoticias.com/alfoz/sanandresdelrabanedo/junta-personal-docente-insta-junta-ayuntamiento-firmar-20251219180422-nt.html",
+        "date": "2025-12-19 17:04:39",
+        "sentiment_score": -0.05344654619693756
+    },
+    {
+        "title": "Televisiones y radios ofrecen este lunes especiales con motivo de la celebración del sorteo de Navidad 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/LAVLAEFYMVB2PAWPR3R7N42ZOU.jpg?auth=4c36b9635bf1486b0dd6535d78c94df756809537755bec2b9d2254d2f18d1f47&height=1352&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/19/televisiones-y-radios-ofrecen-este-lunes-especiales-con-motivo-de-la-celebracion-del-sorteo-de-navidad-2025/",
+        "date": "2025-12-19 17:00:53",
+        "sentiment_score": 0.14325204119086266
+    },
+    {
+        "title": "Los 'Segundas' quieren abrirse paso con una gran campanada en la Copa del Rey",
+        "image_url": "https://www.infobae.com/resizer/v2/R6OGRRDN3ZDVZGH2ORSZFM4DT4.jpg?auth=38d8ccd00b302857d939b7e0e4c9e7844e56ce65993cdee2f564c56d0c5ad056&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/19/los-segundas-quieren-abrirse-paso-con-una-gran-campanada-en-la-copa-del-rey/",
+        "date": "2025-12-19 17:00:34",
+        "sentiment_score": 0.5058804079890251
+    },
+    {
+        "title": "Catalonia Hotels & Resorts compra a Meridia dos hoteles en Barcelona y Málaga",
+        "image_url": "https://forbes.es/wp-content/uploads/2025/12/fotonoticia_20251219173257_1920-1200x675.jpg",
+        "tags": [
+            "economía",
+            "última hora"
+        ],
+        "link": "https://forbes.es/economia/848903/catalonia-hotels-resorts-compra-a-meridia-dos-hoteles-en-barcelona-y-malaga/",
+        "date": "2025-12-19 17:00:16",
+        "sentiment_score": 0.09773916751146317
+    },
+    {
+        "title": "Catalonia adquiere el hotel Molina Lario, su tercer establecimiento en Málaga",
+        "image_url": "https://static.grupojoly.com/clip/3d19bc6c-5184-4746-8489-9476d0e196fc_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "turismo málaga",
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/catalonia-adquiere-hotel-molina-lario-malaga_0_2005491298.html",
+        "date": "2025-12-19 16:58:13",
+        "sentiment_score": -0.06084827333688736
+    },
+    {
+        "title": "Meridia vende dos hoteles en Barcelona y Málaga a Catalonia Hotels & Resorts",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/19/business/1003742717730_15533366_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "hoteles",
+            "business",
+            "meridia capital",
+            "turismo",
+            "barcelona",
+            "málaga"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20251219/meridia-hoteles-barcelona-malaga-catalonia-hotels-resorts/1003742717723_0.html",
+        "date": "2025-12-19 16:55:38",
+        "sentiment_score": 0.28160006552934647
+    },
+    {
+        "title": "Lotería de Navidad 2025: hasta qué día y a qué hora se podrán comprar los décimos",
+        "image_url": "https://www.infobae.com/resizer/v2/DBXDKJWP5RC33HDIYUHVRAQHVU.jpg?auth=0cd88a414a961024b5c365441835db8ced5a4bd6910ab548e4c4470b961e0d75&height=1314&smart=true&width=1920",
+        "tags": [
+            "lotería de navidad",
+            "loterias y apuestas del estado",
+            "lotería",
+            "españa-loterías",
+            "lotería navidad",
+            "lotería navidad 2025",
+            "décimos",
+            "el gordo de la loteria de navidad",
+            "españa-noticias",
+            "españa-sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/19/loteria-de-navidad-2025-hasta-que-dia-y-a-que-hora-se-podran-comprar-los-decimos/",
+        "date": "2025-12-19 16:54:20",
+        "sentiment_score": -0.44898339733481407
+    },
+    {
+        "title": "El dardo de un ex portero del Barcelona a Ter Stegen: «El club toma decisiones que hay que respetar»",
+        "image_url": "https://okdiario.com/img/2025/12/19/ter-stegen-en-un-calentamiento-con-el-barcelona.-europa-press.jpg",
+        "tags": [
+            "ter stegen",
+            "deportes",
+            "fc barcelona",
+            "barcelona"
+        ],
+        "link": "https://okdiario.com/deportes/dardo-ex-portero-del-barcelona-ter-stegen-club-toma-decisiones-que-hay-que-respetar-15963874",
+        "date": "2025-12-19 17:09:42",
+        "sentiment_score": -0.09361326694488525
+    },
+    {
+        "title": "'Razones y contradicciones', la nueva gira de Cobardes",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/cd9b4f69-4442-4f7b-a930-8efeff89e9f6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cobardes",
+            "nueva",
+            "gira",
+            "razones",
+            "contradicciones"
+        ],
+        "link": "https://www.noticiasdenavarra.com/cultura/2025/12/19/razones-contradicciones-nueva-gira-cobardes-10494546.html",
+        "date": "2025-12-19 17:08:47",
+        "sentiment_score": -0.0378907173871994
+    },
+    {
+        "title": "El número de detenidos por yihadismo alcanza por primera vez el centenar desde el año del 11-M",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/QJREHQIILRF75HYMT7CCO6RNDQ.jpg?auth=b083ef641f7cdc16aa1f6d888f7700c04d975445905bd50a7e9ac558bfbb7e68&width=1200",
+        "tags": [
+            "policía nacional",
+            "guardia civil",
+            "detención terroristas",
+            "ministerio del interior",
+            "españa",
+            "yihadismo",
+            "detenciones",
+            "11-m"
+        ],
+        "link": "https://elpais.com/espana/2025-12-19/el-numero-de-detenidos-por-yihadismo-alcanza-por-primera-vez-el-centenar-desde-el-ano-del-11-m.html",
+        "date": "2025-12-19 17:06:31",
+        "sentiment_score": -0.4265360087156296
+    },
+    {
+        "title": "La «dama sin rostro» que donó un millón de pesetas para que la Sagrada Familia de Barcelona no sea «una iglesita»",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/12/04/6931bdf9acb64.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20251219/dama-rostro-dono-millon-pesetas-sagrada-familia-barcelona-no-sea-iglesita_367375.html",
+        "date": "2025-12-19 17:02:20",
+        "sentiment_score": -0.7677036132663488
+    },
+    {
+        "title": "El pleno de Barcelona aprueba el Plan de Usos del distrito de Sant Martí que amplía la limitación de nuevos bares musicales y discotecas",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/19/694581ae04a67.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/noticias/pleno-barcelona-aprueba-plan-usos-distrito-sant-marti-amplia-limitacion-nuevos-bares-musicales-discotecas-20251219_3275150.html",
+        "date": "2025-12-19 17:01:57",
+        "sentiment_score": -0.0027996301651000977
+    },
+    {
+        "title": "Las investigaciones no logran esclarecer el origen del brote de peste porcina",
+        "image_url": "https://static.infolibre.es/clip/f46887b2-0cca-4247-9bed-9da84d1865e8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "política",
+            "barcelona",
+            "cataluña",
+            "salud",
+            "ministerio de agricultura",
+            "sanidad"
+        ],
+        "link": "https://www.infolibre.es/politica/investigaciones-curso-no-logran-esclarecer-origen-brote-peste-porcina_1_2117546.html",
+        "date": "2025-12-19 17:00:30",
+        "sentiment_score": -0.1804417073726654
+    },
+    {
+        "title": "Confirmado un nuevo jabalí muerto por PPA dentro del radio del primer foco",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251219170203-1.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/confirmado-un-nuevo-jabal-muerto-por-ppa-dentro-del-radio-del-primer-foco-2/",
+        "date": "2025-12-19 17:00:12",
+        "sentiment_score": -0.33616726845502853
+    },
+    {
+        "title": "La Cursa dels Nassos cubre 13.000 inscripciones",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/19/694580b7a9e5e.r_d.1639-301-1433.jpeg",
+        "tags": [
+            "esports cope"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/cursa-dels-nassos-cubre-13-000-inscripciones-20251219_3275148.html",
+        "date": "2025-12-19 16:59:29",
+        "sentiment_score": -0.00473359227180481
     }
 ];
