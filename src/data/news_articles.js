@@ -2495,5 +2495,233 @@ export default [
         "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-el-h%C3%A9roe-de-bondi-beach",
         "date": "2025-12-20 18:00:14",
         "sentiment_score": -0.7831405773758888
+    },
+    {
+        "title": "El áspero discurso de Almeyda tras ser expulsado ante el Real Madrid: “No soy el payaso de ningún circo”",
+        "image_url": "https://www.infobae.com/resizer/v2/FQUTLKTXSNDR7IUIINAH6VAJJY.png?auth=bea43b83f95ba25121e8b5d73244cfef8611479b0c0544937f436bdcf31e7c9e&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-argentina",
+            "sevilla",
+            "matías almeyda",
+            "real madrid",
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/21/el-aspero-discurso-de-almeyda-tras-ser-expulsado-ante-el-real-madrid-no-soy-el-payaso-de-ningun-circo/",
+        "date": "2025-12-21 02:14:39",
+        "sentiment_score": -0.8994914786890149
+    },
+    {
+        "title": "Los diez mejores libros de poemas de 2025: de lo íntimo a lo social, versos para contener el mundo contemporáneo",
+        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744051848_260434698_1706x960.jpg",
+        "tags": [
+            "el cultural - lo mejor de 2025",
+            "poesía",
+            "letras",
+            "escritores"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20251221/mejores-libros-poemas-intimo-social-versos-contener-mundo-contemporaneo/1003744051727_0.html",
+        "date": "2025-12-21 01:16:33",
+        "sentiment_score": 0.824494544416666
+    },
+    {
+        "title": "Linda Caicedo comandó al Real Madrid en la Copa de la Reina: doblete en goleada a Espanyol",
+        "image_url": "https://www.infobae.com/resizer/v2/XUK3W52NPFCG5FDWWBVSHBMJBE.jpg?auth=ed2692d0ef38ac0431821491237c5fecf1fdbba310defedcb944c93a171941a2&height=862&smart=true&width=1467",
+        "tags": [
+            "colombia-deportes",
+            "linda caicedo gol",
+            "copa de la reina",
+            "real madrid",
+            "linda caicedo real madrid",
+            "real madrid femenino",
+            "linda caicedo",
+            "linda caicedo doblete"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/12/21/linda-caicedo-comando-al-real-madrid-en-la-copa-de-la-reina-doblete-en-goleada-a-espanyol/",
+        "date": "2025-12-21 00:57:30",
+        "sentiment_score": 0.9074696842581034
+    },
+    {
+        "title": "España y Portugal, un camino común",
+        "image_url": "https://static.laregion.es/clip/e0f00c5d-e0f3-4dfa-bd83-2768af954758_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "historia",
+            "unión europea"
+        ],
+        "link": "https://www.laregion.es/espana/espana-portugal-camino-comun_1_20251221-4101074.html",
+        "date": "2025-12-21 00:50:02",
+        "sentiment_score": -0.03514258563518524
+    },
+    {
+        "title": "20 DIC 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/20-dic-2025-tramo-final-juego-20251221_3275403.html",
+        "date": "2025-12-21 00:15:00",
+        "sentiment_score": -0.5882956385612488
+    },
+    {
+        "title": "Xabi salva el 'match ball' del Sevilla; Mbappé pasa a la historia del Madrid",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2618662.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.vozpopuli.com/deportes/xabi-salva-el-match-ball-del-sevilla-mbappe-pasa-a-la-historia-del-madrid.html",
+        "date": "2025-12-20 23:58:53",
+        "sentiment_score": 0.31473955512046814
+    },
+    {
+        "title": "Xabi Alonso: \"Le pongo contexto al momento en el que estamos\"",
+        "image_url": "https://www.infobae.com/resizer/v2/5JYIC7ACWNBVTGKV4AXUDW33XU.jpg?auth=64d7945f1fe2005b8b146d4321e8e3b28fca6df8601ae8f22b7fd74039345c07&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/20/xabi-alonso-le-pongo-contexto-al-momento-en-el-que-estamos/",
+        "date": "2025-12-20 23:45:16",
+        "sentiment_score": 0.041022077202796936
+    },
+    {
+        "title": "Cifra histórica: Kylian Mbappé iguala récord de Cristiano Ronaldo",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1766276924112/kylian-mbappe_qn149fij9vb61f678birf15kx.jpg?ch=675&cw=1200",
+        "tags": [
+            "madrid",
+            "mbappé rompe récord de cristiano ronaldo",
+            "kylian mbappé",
+            "real madrid",
+            "laliga",
+            "récord de cristiano ronaldo"
+        ],
+        "link": "https://2001online.com/deportes/cifra-historica-kylian-mbappe-iguala-record-de-cristiano-ronaldo-2025122020350",
+        "date": "2025-12-20 23:36:55",
+        "sentiment_score": 0.6418760046362877
+    },
+    {
+        "title": "Vinícius cambió foto de perfil en redes tras ser pitado en el Bernabéu",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/vinicius-jr-1.jpg",
+        "tags": [
+            "titulares",
+            "deportes",
+            "vinicius jr",
+            "real madrid cf",
+            "futbol"
+        ],
+        "link": "https://lapatilla.com/2025/12/20/vinicius-cambio-foto-de-perfil-en-redes-tras-ser-pitado-en-el-bernabeu/",
+        "date": "2025-12-20 23:36:37",
+        "sentiment_score": 0.029263176023960114
+    },
+    {
+        "title": "Unas navidades de película",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/21/avatar-escena-promocional-klUC-U2406224936100CB-1200x840@RC.jpg",
+        "tags": [
+            "netflix",
+            "bob esponja",
+            "james cameron",
+            "cine",
+            "santiago segura",
+            "navidad",
+            "disney"
+        ],
+        "link": "https://www.leonoticias.com/pantallas/cine/navidades-pelicula-20251221003508-ntrc.html",
+        "date": "2025-12-20 23:35:09",
+        "sentiment_score": 0.3379253149032593
+    },
+    {
+        "title": "Antonio Ledezma: \"Sánchez es quien ha cambiado, recibía a mi esposa cuando yo estaba preso y ahora no felicita a María Corina\"",
+        "image_url": "https://s3.elespanol.com/2025/12/19/espana/politica/1003744064018_260590469_1706x960.jpg",
+        "tags": [
+            "josé luis rodríguez-zapatero",
+            "pedro sánchez",
+            "nicolás maduro",
+            "entrevistas",
+            "antonio ledezma",
+            "hablando sobre españa",
+            "venezuela",
+            "política"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251221/antonio-ledezma-sanchez-cambiado-recibia-esposa-preso-ahora-no-felicita-maria-corina/1003744062253_0.html",
+        "date": "2025-12-21 02:09:40",
+        "sentiment_score": -0.9016937492415309
+    },
+    {
+        "title": "Moreno no sabe contar",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "contar",
+            "no",
+            "moreno"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/moreno-no-contar_0_2005496838.html",
+        "date": "2025-12-21 02:09:25",
+        "sentiment_score": -0.4624992907047272
+    },
+    {
+        "title": "Feijóo y otros mártires del compás",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "compas",
+            "martires",
+            "feijoo"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/feijoo-martires-compas_0_2005496836.html",
+        "date": "2025-12-21 02:09:24",
+        "sentiment_score": -0.6853425726294518
+    },
+    {
+        "title": "Sumar tiene una gran culpa",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sumar",
+            "culpa",
+            "gran"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/sumar-gran-culpa_0_2005496827.html",
+        "date": "2025-12-21 02:09:21",
+        "sentiment_score": -0.3011537194252014
+    },
+    {
+        "title": "Las verdades de Gates",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "verdades",
+            "gates"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/verdades-gates_0_2005496824.html",
+        "date": "2025-12-21 02:09:20",
+        "sentiment_score": 0.5834769159555435
+    },
+    {
+        "title": "Feliz, cristiana y dickensiana Navidad",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "navidad",
+            "feliz",
+            "cristiana",
+            "dickensiana"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/feliz-cristiana-dickensiana-navidad_0_2005496823.html",
+        "date": "2025-12-21 02:09:20",
+        "sentiment_score": -0.149230495095253
+    },
+    {
+        "title": "El poder local",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "local"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/local_0_2005496821.html",
+        "date": "2025-12-21 02:09:19",
+        "sentiment_score": -0.30257005989551544
+    },
+    {
+        "title": "El baluarte contra la ultraderecha",
+        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ultraderecha",
+            "baluarte"
+        ],
+        "link": "https://www.diariodesevilla.es/opinion/articulos/baluarte-ultraderecha_0_2005496818.html",
+        "date": "2025-12-21 02:09:18",
+        "sentiment_score": -0.7478578761219978
     }
 ];
