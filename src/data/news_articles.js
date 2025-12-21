@@ -1,86 +1,5 @@
 export default [
     {
-        "title": "El 'papa' de Novales ya está en Madrid",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/12/16/Imagen%20loteria_1.jpg",
-        "tags": [
-            "whatsapp",
-            "lotería de navidad",
-            "madrid (ciudad)",
-            "novales",
-            "navidad",
-            "papa"
-        ],
-        "link": "https://www.eldiariomontanes.es/cantabria/papa-novales-madrid-20251217071140-nt.html",
-        "date": "2025-12-17 06:25:05",
-        "sentiment_score": -0.5403139777481556
-    },
-    {
-        "title": "Un error judicial impidió a la jueza interrogar a Plus Ultra por el rescate de 53 millones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e1dae5d5-7c12-47ba-a5c1-5dc4d49ebed2_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fiscalia",
-            "venezuela",
-            "fiscalía anticorrupción",
-            "anticorrupción"
-        ],
-        "link": "https://www.elcorreogallego.es/espana/2025/12/17/error-judicial-impidio-jueza-imputar-124871575.html",
-        "date": "2025-12-17 06:18:21",
-        "sentiment_score": -0.3918330445885658
-    },
-    {
-        "title": "Statu quo",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "quo",
-            "statu"
-        ],
-        "link": "https://www.deia.eus/opinion/tribuna-abierta/2025/12/17/statu-quo-10481098.html",
-        "date": "2025-12-17 06:15:26",
-        "sentiment_score": 0.14940864592790604
-    },
-    {
-        "title": "Las lluvias causan inundaciones en Badalona y cortes en el metro de Barcelona: hoy hay alerta naranja en Valencia",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/17/captura-de-un-video-que-muestra-inundaciones-en-el-metro-de-barcelona-el-16-de-diciembre-de-2025.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/las-lluvias-causan-inundaciones-badalona-cortes-metro-barcelona-hoy-hay-alerta-naranja-valenciabr-f202512.html",
-        "date": "2025-12-17 06:33:28",
-        "sentiment_score": -0.809925738722086
-    },
-    {
-        "title": "La aporofobia crece un 33% por la subida del sinhogarismo: la mayoría de agresores son hombres de 18 a 35 años",
-        "image_url": "https://s3.elespanol.com/2021/10/07/enclave-ods/historias/617699648_211000541_1706x960.jpg",
-        "tags": [
-            "sinhogarismo",
-            "objetivo 3: salud y bienestar",
-            "objetivo 1: fin de la pobreza",
-            "historias",
-            "objetivo 10: reducción de las desigualdades",
-            "pobreza"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/historias/20251217/aporofobia-crece-subida-sinhogarismo-mayoria-agresores-hombres-anos/1003744057076_0.html",
-        "date": "2025-12-17 06:30:00",
-        "sentiment_score": -0.8963865665718913
-    },
-    {
-        "title": "La fiscalía pide 4 años y medio de cárcel para el yihadista que la emprendió a hachazos contra un McDonald's de Badalona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/33450bf2-ab55-492b-a514-9f14329adfdb_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "badalona",
-            "terrorismo yihadista",
-            "audiencia nacional",
-            "terrorismo",
-            "atentados terroristas",
-            "yihadismo",
-            "terrorismo islámico",
-            "fiscalía de la audiencia nacional"
-        ],
-        "link": "https://www.laopiniondemalaga.es/nacional/2025/12/17/fiscalia-pide-4-anos-medio-hachazos-yihadista-comida-rapida-badalona-124871754.html",
-        "date": "2025-12-17 06:24:55",
-        "sentiment_score": -0.871046407148242
-    },
-    {
         "title": "17:00H | 17 DIC 2025 | La Tarde",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -2365,5 +2284,216 @@ export default [
         "link": "https://www.eldiadecordoba.es/cordoba/juanma-moreno-cordoba-libro-manual-convivencia_0_2005494203.html",
         "date": "2025-12-20 16:50:52",
         "sentiment_score": 0.15202144160866737
+    },
+    {
+        "title": "El escultor almeriense que miraba al Cid Campeador y a la Unión Soviética",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/21/IMG_20251207_172630-k78F-U2406211157731oF-1200x840@Ideal.jpg",
+        "tags": [
+            "castilla y león",
+            "trabajo",
+            "segundo premio",
+            "cuba",
+            "granada",
+            "cadalso de los vidrios",
+            "atocha",
+            "burgos",
+            "exposiciones",
+            "alameda",
+            "bari",
+            "quesada",
+            "cultura",
+            "argentina",
+            "cadalso",
+            "el arco",
+            "córdoba",
+            "la alhambra",
+            "principado de asturias",
+            "la unión",
+            "biblioteca nacional de españa",
+            "el pais",
+            "ciudades",
+            "arte",
+            "madrid (ciudad)",
+            "san fernando",
+            "café",
+            "ciudad real",
+            "ohanes",
+            "museo nacional del prado",
+            "nacimiento",
+            "ángel ganivet",
+            "almería"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/escultor-almeriense-miraba-cid-campeador-union-sovietica-20251221231805-nt.html",
+        "date": "2025-12-20 22:18:05",
+        "sentiment_score": 0.6668883785605431
+    },
+    {
+        "title": "Extremadura testa este domingo el empuje del cambio en España",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/21/maria-guardiola-elecciones-kp2E-U240619758151QxE-1200x840@RC.jpg",
+        "tags": [
+            "partido socialista obrero español (psoe)",
+            "cis",
+            "vox",
+            "maría guardiola",
+            "santiago abascal",
+            "ione belarra",
+            "alberto núñez feijóo",
+            "partido popular (pp)",
+            "extremadura",
+            "guillermo fernández vara",
+            "pedro sánchez",
+            "yolanda díaz",
+            "elecciones autonómicas"
+        ],
+        "link": "https://www.canarias7.es/elecciones/extremadura/extremadura-testa-domingo-empuje-cambio-espana-20251221001716-ntrc.html",
+        "date": "2025-12-20 22:17:21",
+        "sentiment_score": -0.5980740934610367
+    },
+    {
+        "title": "El Real Madrid despide el 2025 con victoria ante el Sevilla y Mbappé iguala a Cristiano (2-0)",
+        "image_url": "https://cflvdg.avoz.es/sc/OQmUKHI0g7_CYHdrQMw2sB1U4ow=/768x/2025/12/20/00121766268061534696733/Foto/eup_20251220_214139951.jpg",
+        "tags": [
+            "jude bellingham",
+            "kylian mbappé",
+            "sevilla fc",
+            "deportes",
+            "real madrid"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/20/real-madrid-despide-2025-victoria-ante-sevilla-mbappe-iguala-cristiano-2-0/00031766268668384412965.htm",
+        "date": "2025-12-20 22:13:00",
+        "sentiment_score": 0.0042929574847221375
+    },
+    {
+        "title": "El Real Madrid acaba el año con una victoria que no cambia su triste realidad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d5476d5f-1827-4545-9d4b-1f13c66ccda8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "kylian mbappé",
+            "xabi alonso",
+            "real madrid",
+            "fútbol",
+            "sevilla fc"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/20/real-madrid-sevilla-resultado-goles-resumen-125004041.html",
+        "date": "2025-12-20 22:06:30",
+        "sentiment_score": -0.0853813886642456
+    },
+    {
+        "title": "El jardín mágico lleno de luces de Navidad más viral de Barcelona: a 30 minutos y entrada gratuita",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/11/21/gran-barcelona/811428864_11924780_1706x960.jpg",
+        "tags": [
+            "baix llobregat",
+            "navidad barcelona",
+            "gavà",
+            "planes",
+            "gran barcelona",
+            "recomendaciones"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251220/jardin-magico-lleno-luces-navidad-viral-barcelona-minutos-entrada-gratuita/1003742718006_0.html",
+        "date": "2025-12-20 21:41:55",
+        "sentiment_score": 0.5600081905722618
+    },
+    {
+        "title": "Fallece una joven de 20 años que iba en patinete atropellada por un coche",
+        "image_url": "https://www.clm24.es/media/clm24/images/2024/01/31/2024013117333955034.jpg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://www.clm24.es/articulo/sucesos/fallece-joven-20-anos-que-iba-patinete-atropellada-coche/20251220222054466628.html",
+        "date": "2025-12-20 21:20:54",
+        "sentiment_score": -0.8234851891174912
+    },
+    {
+        "title": "Sophie Gilbert: “Que algunas feministas quieran convertirse en 'tradwife' es uno de los grandes retos de la modernidad”",
+        "image_url": "https://static.eldiario.es/clip/0f328d89-0d34-4ea1-8769-bf32c8096ae0_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cataluña",
+            "ignacio escolar",
+            "actualidad",
+            "noticias",
+            "barcelona",
+            "política",
+            "periodismo independiente",
+            "economía"
+        ],
+        "link": "https://www.eldiario.es/catalunya/sophie-gilbert-feministas-quieran-convertirse-tradwife-grandes-retos-modernidad_128_12847759.html",
+        "date": "2025-12-20 21:18:26",
+        "sentiment_score": -0.15196867287158966
+    },
+    {
+        "title": "El día que nadie aplaudió el gol que dos delanteros colaron al franquismo",
+        "image_url": "https://static.eldiario.es/clip/1da60300-e6c9-4dca-a84b-e118d4464607_16-9-discover-aspect-ratio_default_1132686.jpg",
+        "tags": [
+            "cantabria",
+            "actualidad",
+            "política",
+            "sociedad",
+            "santander"
+        ],
+        "link": "https://www.eldiario.es/cantabria/dia-nadie-aplaudio-gol-delanteros-colaron-franquismo_1_12831644.html",
+        "date": "2025-12-20 21:18:24",
+        "sentiment_score": -0.08230245113372803
+    },
+    {
+        "title": "La Generalitat y entidades darán cobijo a los desalojados de Badalona (Barcelona)",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/20/el-centenar-de-migrantes-acampados-en-una-plaza-junto-al-antiguo-instituto-b9-de-badalona-barcelona-desalojado-el-pasado-miercoles-por-los-mossos-d-esquadra-recogen-sus-cosas.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/la-generalitat-entidades-daran-cobijo-desalojados-badalona-barcelonabr-f202512.html",
+        "date": "2025-12-20 21:12:51",
+        "sentiment_score": -0.13611222803592682
+    },
+    {
+        "title": "Hay 15 provincias en alerta por lluvia, nieve, olas y viento",
+        "image_url": "https://cflvdg.avoz.es/sc/sol5ekbrxtxhR4ULUn9-IplLxwU=/768x/2025/12/20/00121766262421846245449/Foto/i_20251218_130139000.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/espana/2025/12/20/15-provincias-alerta-lluvia-nieve-olas-viento/00031766261652587358250.htm",
+        "date": "2025-12-20 21:12:01",
+        "sentiment_score": -0.651967728510499
+    },
+    {
+        "title": "Se registraron largas colas de vehículos en estaciones de servicio de la zona norte",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "transporte",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/se-registraron-largas-colas-de-vehiculos-en-estaciones-de-servicio-de-la-zona-norte/",
+        "date": "2025-12-20 21:10:01",
+        "sentiment_score": -0.24089671671390533
+    },
+    {
+        "title": "Real Madrid TV lanza un duro contraataque al Barça tras el discurso de Laporta: \"Falta a la verdad ante un juez\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/28/culemania/real-madrid/1003742702087_15536887_1706x960.jpg",
+        "tags": [
+            "josé maría enríquez negreira",
+            "joan laporta",
+            "real madrid"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20251220/real-madrid-tv-contraataque-barca-discurso-laporta/1003742717994_0.html",
+        "date": "2025-12-20 20:53:32",
+        "sentiment_score": -0.8932209247723222
+    },
+    {
+        "title": "Las ligas bajan el telón de la primera vuelta e inician su parón invernal por los Europeos",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/10/24/68fbae96cd8c8.r_d.1790-829.jpeg",
+        "tags": [
+            "waterpolo"
+        ],
+        "link": "https://www.mundodeportivo.com/waterpolo/20251220/1002590326/ligas-bajan-telon-primera-vuelta-e-inician-paron-febrero.html",
+        "date": "2025-12-20 20:53:27",
+        "sentiment_score": -0.00797814130783081
+    },
+    {
+        "title": "Lo más viral de la semana: El héroe de Bondi Beach",
+        "image_url": "https://static.wixstatic.com/media/cf263a_3ecf02ecbfab4d32a7c7cd6e796696a6~mv2.png/v1/fit/w_778,h_473,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-el-h%C3%A9roe-de-bondi-beach",
+        "date": "2025-12-20 18:00:14",
+        "sentiment_score": -0.7831405773758888
     }
 ];
