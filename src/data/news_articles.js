@@ -1,347 +1,5 @@
 export default [
     {
-        "title": "El Madrid se desconecta en su visita al EA7 Emporio Armani",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/7fdf1383-200e-421b-85e007f6300325ea.jpg",
-        "tags": [
-            "sergio scariolo",
-            "facundo campazzo",
-            "sergio llull",
-            "real madrid",
-            "euroliga",
-            "milán",
-            "usman garuba"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z8a843892-272f-408d-a5bb0b7e8dea97cc/202512/el-madrid-se-desconecta-en-su-visita-al-ea7-emporio-armani",
-        "date": "2025-12-16 22:15:10",
-        "sentiment_score": -0.7936563435941935
-    },
-    {
-        "title": "Aitana Bonmatí conquista su tercer The Best",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/4a672d5d-700e-4474-b8ee9e8436554672.jpg",
-        "tags": [
-            "doha",
-            "dembélé",
-            "psg",
-            "champions league",
-            "selección española de fútbol",
-            "fútbol femenino",
-            "catar",
-            "real madrid",
-            "balón de oro",
-            "eurocopa",
-            "aitana bonmatí",
-            "alexia putellas",
-            "fifa",
-            "inglaterra",
-            "arsenal fc",
-            "manchester city",
-            "fc barcelona",
-            "liverpool fc",
-            "chelsea fc"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z90c62a85-6f72-4a76-876613cd5cc84ef5/202512/aitana-bonmati-conquista-su-tercer-the-best",
-        "date": "2025-12-16 22:12:17",
-        "sentiment_score": 0.5943743512034416
-    },
-    {
-        "title": "El Milán borra los pasos hacia adelante del Real Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8932c889-d5d6-4272-8581-a4b6373ac360_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid,euroliga"
-        ],
-        "link": "https://www.superdeporte.es/baloncesto/2025/12/16/milan-borra-pasos-adelante-real-124867055.html",
-        "date": "2025-12-16 22:03:27",
-        "sentiment_score": 0.38396090269088745
-    },
-    {
-        "title": "Crónica del EA7 Emporio Armani Milan - Real Madrid: 89-82",
-        "image_url": "https://www.infobae.com/resizer/v2/PW5B2W6JI5GGPDYJNDE6L6BORQ.jpg?auth=584f744e43688ef75ed4d7c1f5fed3ad3e7e11ef333465726c4566ba4ac66c73&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/16/cronica-del-ea7-emporio-armani-milan-real-madrid-89-82/",
-        "date": "2025-12-16 22:00:38",
-        "sentiment_score": -0.07233672589063644
-    },
-    {
-        "title": "La Fiscalía pide diez años para un exprofesor acusado de abusar sexualmente de una niña",
-        "image_url": "https://theobjective.com/wp-content/uploads/2024/09/justicia-barcelona-amnistia.jpg",
-        "tags": [
-            "fiscalía",
-            "audiencias",
-            "audiencia de barcelona",
-            "abusos sexuales",
-            "tribunal superior de justicia de cataluña",
-            "tribunales"
-        ],
-        "link": "https://theobjective.com/espana/tribunales/2025-12-16/fiscalia-diez-anos-exprofesor-abusar-nina/",
-        "date": "2025-12-16 22:11:36",
-        "sentiment_score": -0.7347214855253696
-    },
-    {
-        "title": "El Barça de Pascual se ha convertido en una máquina de ganar",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/16/6941d876e608c.r_d.489-307-4726.png",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/baloncesto/20251216/11370527/paris-barca-pascual-euroliga-resumen.html",
-        "date": "2025-12-16 22:11:15",
-        "sentiment_score": 0.8017568364739418
-    },
-    {
-        "title": "Salen a la luz las votaciones del The Best: La escasa diferencia por la que Dembélé ganó a Lamine",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(1345x394:1347x392)/origin-imgresizer.eurosport.com/2025/12/16/image-fc89a5f2-627a-4b87-8af2-73e964f36fc9-85-2560-1440.jpeg",
-        "tags": [
-            "football"
-        ],
-        "link": "https://espanol.eurosport.com/futbol/votaciones-the-best-escasa-diferencia-dembele-lamine-yamal-mbappe_sto23251337/story.shtml",
-        "date": "2025-12-16 22:10:22",
-        "sentiment_score": -0.26966428756713867
-    },
-    {
-        "title": "El examen para contratar electricistas en ayuntamientos de ERC: \"Se penaliza la mala pronunciación en catalán\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
-        "tags": [
-            "erc",
-            "artículos víctor mondelo",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2025/12/16/6941ac0f21efa0316a8b45cd.html",
-        "date": "2025-12-16 21:56:21",
-        "sentiment_score": -0.8096630237996578
-    },
-    {
-        "title": "32 vinos españoles para brindis especiales",
-        "image_url": "https://static.grupojoly.com/clip/76a4449f-0a1e-49ed-bb25-07a0ffdde139_facebook-aspect-ratio_default_0_x949y500.jpg",
-        "tags": [
-            "espanoles",
-            "32",
-            "vinos",
-            "especiales",
-            "brindis"
-        ],
-        "link": "https://www.diariodejerez.es/economia/32-vinos-espanoles-brindis-especiales_0_2005472019.html",
-        "date": "2025-12-16 21:53:44",
-        "sentiment_score": 0.43916358053684235
-    },
-    {
-        "title": "¿Gato blanco público o gato negro privado?",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053339_260453381_1706x960.jpg",
-        "tags": [
-            "tribunas",
-            "tribunas de opinión",
-            "comunidad de madrid",
-            "opinión",
-            "sanidad"
-        ],
-        "link": "https://www.elespanol.com/opinion/tribunas/20251217/gato-blanco-publico-gato-negro-privado/1003744053286_12.html",
-        "date": "2025-12-17 01:36:37",
-        "sentiment_score": 0.47874029353260994
-    },
-    {
-        "title": "James Rodríguez también protagonizó los premios The Best de la FIFA: así fue su votación en la ceremonia",
-        "image_url": "https://www.infobae.com/resizer/v2/BMEAJD46XNHG5GXY3R5G4A5H7A.jpg?auth=44ab56cd05651378e4a0730f7ce9eafe3414372c572191db9c19ec12227a2f69&height=1487&smart=true&width=2495",
-        "tags": [
-            "the best fifa 2025",
-            "fifa",
-            "james rodríguez the best",
-            "james rodríguez",
-            "colombia-deportes",
-            "ousmane dembélé",
-            "paris saint-germain"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/12/17/james-rodriguez-tambien-protagonizo-los-premios-the-best-de-la-fifa-asi-fue-su-votacion-en-la-ceremonia/",
-        "date": "2025-12-17 01:06:41",
-        "sentiment_score": 0.6380411274731159
-    },
-    {
-        "title": "Tribunal ordena al PSG pagar más de 70 millones de dólares a Mbappé por salarios impagos",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/8cd7136/2147483647/strip/true/crop/2445x1284+0+173/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2c%2F44%2Fd3771c2d46728abb0d2ccfe7861c%2Fd1e6ba1e625d4d54a263f068c383ee12.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-16/tribunal-ordena-al-psg-pagar-mas-de-70-millones-de-dolares-mbappe-por-salarios-impagos",
-        "date": "2025-12-17 00:52:49",
-        "sentiment_score": -0.3583551123738289
-    },
-    {
-        "title": "ITV más impuesto de circulación",
-        "image_url": "https://www.eldebate.com/images/el-debate.png",
-        "tags": [
-            "cartas al director"
-        ],
-        "link": "https://www.eldebate.com/opinion/cartas-director/20251217/itv-impuesto-circulacion_366173.html",
-        "date": "2025-12-17 00:30:00",
-        "sentiment_score": -0.3513157442212105
-    },
-    {
-        "title": "Todos los ganadores de los premios FIFA The Best 2025 por categoría",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2025/12/16/ganadores-premios-fifa-the-best-orix/",
-        "date": "2025-12-17 00:03:47",
-        "sentiment_score": 0.20349718630313873
-    },
-    {
-        "title": "Dembélé ganó el The Best con 11 puntos de ventaja sobre Lamine Yamal",
-        "image_url": "https://www.infobae.com/resizer/v2/4ETFP44QGVHFFCEXLBF365W7EQ.jpg?auth=196dda4ac0eed7df3a45b0f4779f7a0c22792d36523958c86e9cde5c1e0bd9b8&height=1265&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/17/dembele-gano-el-the-best-con-11-puntos-de-ventaja-sobre-lamine-yamal/",
-        "date": "2025-12-17 00:00:16",
-        "sentiment_score": 0.549650102853775
-    },
-    {
-        "title": "Arranca la construcción del 'palacio' vip de Madring: vistas premium, 'paddock club' y los boxes de las escuderías",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/16/17659040778775.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elmundo.es/madrid/2025/12/17/69418f4bfdddff48358b4590.html",
-        "date": "2025-12-16 23:06:19",
-        "sentiment_score": 0.13667190074920654
-    },
-    {
-        "title": "Las 20 mejores películas españolas de 2025",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/e6254ddced7937c2244bbb4651a0e03c/crop/0x24/1181x1205/f/image/jpeg/assets/multimedia/imagenes/2021/05/31/16224775184865.jpg",
-        "tags": [
-            "artículos luis martínez",
-            "cultura",
-            "cine",
-            "críticas de cine"
-        ],
-        "link": "https://www.elmundo.es/cultura/cine/2025/12/17/693fe90be9cf4a06328b4582.html",
-        "date": "2025-12-16 23:05:16",
-        "sentiment_score": 0.5256201550364494
-    },
-    {
-        "title": "Noche de sufrimiento de los equipos de Primera División en Copa",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2025/12/16/2025121623520541401.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/deportes/noche-sufrimiento-copa-primera-division-copa/20251216235609438554.html",
-        "date": "2025-12-16 22:56:09",
-        "sentiment_score": -0.7015613317489624
-    },
-    {
-        "title": "Christensen y Rashford dan triunfo al Barcelona sobre el modesto Guadalajara en la Copa del Rey",
-        "image_url": "https://www.bostonherald.com/wp-content/uploads/2025/12/COPA_DEL_REY_29483.jpg?strip=all&w=1400px",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.bostonherald.com/2025/12/16/christensen-y-rashford-dan-triunfo-al-barcelona-sobre-el-modesto-guadalajara-en-la-copa-del-rey/",
-        "date": "2025-12-16 22:48:53",
-        "sentiment_score": -0.6559339314699173
-    },
-    {
-        "title": "Montserrat en Montserrat",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "montserrat"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/montserrat_0_2005473798.html",
-        "date": "2025-12-17 02:06:12",
-        "sentiment_score": 0.16027972102165222
-    },
-    {
-        "title": "El argentino Guillermo Francella revela su \"costado español\": este es el concejo asturiano donde hunde sus raíces el actor de \"El secreto de sus ojos\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/56430a21-4bf5-4929-9e1e-7cdcb3dd3cec_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "asturiano",
-            "javier veiga",
-            "principado",
-            "avilés"
-        ],
-        "link": "https://www.lne.es/asturias-exterior/2025/12/17/argentino-guillermo-francella-revela-costado-124866986.html",
-        "date": "2025-12-17 02:05:00",
-        "sentiment_score": -0.06076544523239136
-    },
-    {
-        "title": "El Gobierno y el Ayuntamiento de Barcelona destinan 400.000 euros a dos exposiciones sobre el franquismo y el feminismo",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2025/12/17/franco-R1PgoZw545OcEKqu9ZkUJ2I-1200x840@diario_abc.jpg",
-        "tags": [
-            "cataluña",
-            "españa"
-        ],
-        "link": "https://www.abc.es/espana/cataluna/gobierno-ayuntamiento-barcelona-destinan-400000-euros-dos-20251217025456-nt.html",
-        "date": "2025-12-17 01:54:56",
-        "sentiment_score": -0.08058798313140869
-    },
-    {
-        "title": "Álex Fernández recibe de sorpresa a sus ídolos, en su primer concierto en Madrid",
-        "image_url": "https://www.hola.com/horizon/landscape/37ff3a89633b-67791.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.hola.com/us-es/celebrities/20251217873347/alex-fernandez-visita-ildivo-backstage-primer-concierto-madrid/",
-        "date": "2025-12-17 01:54:39",
-        "sentiment_score": 0.21389037370681763
-    },
-    {
-        "title": "¿Lionel Messi en el Manchester City? La declaración que impactó a todo el mundo",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/11/Lionel-Messi.jpg",
-        "tags": [
-            "titulares",
-            "mark bowen",
-            "lionel messi",
-            "manchester city",
-            "deportes",
-            "futbol"
-        ],
-        "link": "https://lapatilla.com/2025/12/16/lionel-messi-en-el-manchester-city-la-declaracion-que-impacto-a-todo-el-mundo/",
-        "date": "2025-12-17 01:31:03",
-        "sentiment_score": -0.10497211664915085
-    },
-    {
-        "title": "Por qué las fábricas españolas de coches no salen tan mal paradas con el volantazo de Bruselas con la combustión",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c6cdc0da9c1bdb36f71bed7370c9505a/crop/202x97/2870x2765/f/image/jpeg/assets/multimedia/imagenes/2024/01/15/17053386573556.jpg",
-        "tags": [
-            "motor",
-            "artículos félix cerezo",
-            "unión europea"
-        ],
-        "link": "https://www.elmundo.es/economia/2025/12/17/694201c1e85ece37518b457f.html",
-        "date": "2025-12-17 01:05:08",
-        "sentiment_score": 0.6696561127901077
-    },
-    {
-        "title": "El ICA prohibió el ingreso a Colombia de chorizo o jamón de cerdo proveniente de España para evitar una “catástrofe”",
-        "image_url": "https://www.infobae.com/resizer/v2/KIGEGNF3GFF7JNAC435MHVQAI4.jpg?auth=16bfdae01fa93babbef6b93b54b073e82b5c5f263b78f116a760205316c07289&height=1280&smart=true&width=1920",
-        "tags": [
-            "peste porcina africana",
-            "jamón de cerdo",
-            "colombia-economía",
-            "ica",
-            "colombia-noticias",
-            "cerdo",
-            "españa",
-            "chorizo español"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/12/17/el-ica-prohibio-el-ingreso-a-colombia-de-chorizo-o-jamon-de-cerdo-proveniente-de-espana-para-evitar-una-catastrofe/",
-        "date": "2025-12-17 00:48:15",
-        "sentiment_score": 0.1818685382604599
-    },
-    {
-        "title": "La factoría gallega de IA, otro hito del CESGA: \"Es un momento emocionante y retador, nos pone a otro nivel\"",
-        "image_url": "https://s3.elespanol.com/2025/12/16/actualidad/1003744057404_260504749_1706x960.jpg",
-        "tags": [
-            "innovación",
-            "galicia",
-            "inteligencia artificial",
-            "wake up - digitalización",
-            "tecnología",
-            "branded content"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/galicia/20251217/factoria-gallega-ia-hito-cesga-momento-emocionante-retador-pone-nivel/1003744057368_0.html",
-        "date": "2025-12-17 00:34:00",
-        "sentiment_score": -0.3582821413874626
-    },
-    {
         "title": "El 'papa' de Novales ya está en Madrid",
         "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/12/16/Imagen%20loteria_1.jpg",
         "tags": [
@@ -2478,5 +2136,234 @@ export default [
         "link": "https://www.informacion.es/tecnologia/2025/12/20/ise-2026-vuelve-barcelona-edicion-124984256.html",
         "date": "2025-12-20 06:01:21",
         "sentiment_score": 0.47287851944565773
+    },
+    {
+        "title": "Una masa de aire polar desplomará la cota de nieve en las próximas horas: nevadas a 500 metros",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/20/6946dac83e7d73-55175308.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/masa-aire-polar-desplomara-cota-nieve-proximas-horas-posibles-nevadas-metros_6913155_0.html",
+        "date": "2025-12-20 17:11:55",
+        "sentiment_score": 0.03510192036628723
+    },
+    {
+        "title": "La alineación probable del Barça ante el Villarreal en la jornada 17 de La Liga",
+        "image_url": "https://s3.elespanol.com/2025/12/13/actualidad/1003744054391_260467429_1706x960.jpg",
+        "tags": [
+            "deportes",
+            "fútbol",
+            "la liga",
+            "fc barcelona",
+            "villarreal cf"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251220/alineacion-probable-barca-villarreal-jornada-liga/1003744064454_0.html",
+        "date": "2025-12-20 17:07:11",
+        "sentiment_score": -0.26445765793323517
+    },
+    {
+        "title": "Tráfico recomienda mucha precaución ante las nevadas de este fin de semana",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/20/nieve-lugo-gcivil-carretera-kwFB-U240620637392dPF-1200x840@RC.jpg",
+        "tags": [
+            "neumáticos",
+            "dgt dirección general de tráfico",
+            "guardia civil",
+            "tráfico",
+            "seguridad vial",
+            "invierno",
+            "carreteras",
+            "agencia estatal de meteorología (aemet)"
+        ],
+        "link": "https://www.ideal.es/sociedad/trafico-recomienda-precaucion-ante-nevadas-fin-semana-20251220180628-ntrc.html",
+        "date": "2025-12-20 17:06:29",
+        "sentiment_score": -0.5994443222880363
+    },
+    {
+        "title": "Interiorismo con identidad frente a las modas decorativas en Canarias",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/02979408-43f3-4c09-b3ac-66797d38cbd1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vivienda",
+            "arquitectura",
+            "clientes",
+            "interiorismo"
+        ],
+        "link": "https://www.laprovincia.es/canarias/2025/12/20/vivienda-arquitectura-luz-diseno-de-interiores-necesidades-reales-clientes-124884122.html",
+        "date": "2025-12-20 16:57:07",
+        "sentiment_score": 0.113340362906456
+    },
+    {
+        "title": "El Oporto anuncia por sorpresa el regreso de Thiago Silva",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/20/thiago-silva-kxoD-U240620507849prH-1200x840@RC.jpg",
+        "tags": [
+            "carlo ancelotti",
+            "atlético de madrid",
+            "oporto"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/oporto-anuncia-sorpresa-regreso-thiago-silva-20251220173015-ntrc.html",
+        "date": "2025-12-20 16:34:50",
+        "sentiment_score": 0.2887372858822346
+    },
+    {
+        "title": "Hansi Flick celebra un fichaje top y lamenta una baja muy sensible para el Villarreal-Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/20/culemania/primer-equipo/1003742717969_15536522_1706x960.jpg",
+        "tags": [
+            "hansi flick",
+            "barça",
+            "pedro gonzález pedri",
+            "robert lewandowski",
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251220/hansi-flick-celebra-fichaje-lamenta-sensible-villarreal-barca/1003742717965_0.html",
+        "date": "2025-12-20 16:31:13",
+        "sentiment_score": -0.0013180375099182129
+    },
+    {
+        "title": "La cabalgata del Cartero Real recorrerá las calles de Jerez el 28 de diciembre",
+        "image_url": "https://static.grupojoly.com/clip/8cb7b243-0538-479d-af27-2c3d8f3cd2ca_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias jerez"
+        ],
+        "link": "https://www.diariodejerez.es/jerez/cabalgata-cartero-real-recorrera-calles-28-diciembre-jerez_0_2005494962.html",
+        "date": "2025-12-20 16:30:28",
+        "sentiment_score": -0.05152842402458191
+    },
+    {
+        "title": "Jonny, titular en el derbi ante a Osasuna",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e3be95e3-281f-407f-9efa-a6b466681dbc_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "osasuna",
+            "titular",
+            "derbi",
+            "jonny"
+        ],
+        "link": "https://www.noticiasdealava.eus/alaves/2025/12/20/jonny-titular-derbi-osasuna-10497100.html",
+        "date": "2025-12-20 16:25:13",
+        "sentiment_score": 0.8058811165392399
+    },
+    {
+        "title": "La ausencia de última hora de Pedri condiciona al Barça en La Cerámica",
+        "image_url": "https://cflvdg.avoz.es/sc/YkIFfGFMNnW-crKpZS0wa_RsUfU=/768x/2025/12/20/00121766250361320719380/Foto/efe_20251220_152603450.jpg",
+        "tags": [
+            "deportes",
+            "villarreal cf",
+            "fc barcelona"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/20/ausencia-ultima-hora-pedri-condiciona-barca-ceramica/00031766249996919667527.htm",
+        "date": "2025-12-20 17:07:00",
+        "sentiment_score": -0.8125490639358759
+    },
+    {
+        "title": "Muere Joaquim Arenas, artífice de la inmersión lingüística del catalán",
+        "image_url": "https://static1.ara.cat/clip/add1a8e0-6c98-4b64-8745-4fd365fe20b0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "catalan",
+            "arenas",
+            "joaquim",
+            "inmersion",
+            "muere",
+            "artifice",
+            "linguistica"
+        ],
+        "link": "https://es.ara.cat/cultura/muere-joaquim-arenas-artifice-inmersion-linguistica-catalan_1_5598529.html",
+        "date": "2025-12-20 17:05:26",
+        "sentiment_score": -0.10469740629196167
+    },
+    {
+        "title": "Estos son los festivales de Alicante vinculados al fondo de inversión proisraelí KKR",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/29ee3bce-c9a0-4530-8f4f-9943cedb9bd7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cultura",
+            "gaza",
+            "españa",
+            "música",
+            "festivales"
+        ],
+        "link": "https://www.informacion.es/cultura/2025/12/20/son-festivales-alicante-vinculados-fondo-inversion-proisraeli-kkr-124971425.html",
+        "date": "2025-12-20 17:01:16",
+        "sentiment_score": -0.7447341568768024
+    },
+    {
+        "title": "Crónica de Navidad",
+        "image_url": "https://static1.ara.cat/clip/55b7eebf-59d1-41b3-8862-b1a06bdc02b0_16-9-aspect-ratio_default_0_x801y507.jpg",
+        "tags": [
+            "navidad",
+            "cronica"
+        ],
+        "link": "https://es.ara.cat/defensor-del-lector/cronica-navidad_129_5598488.html",
+        "date": "2025-12-20 17:00:35",
+        "sentiment_score": -0.09992605447769165
+    },
+    {
+        "title": "¿La lengua catalana es antipática? La teoría del PP que falla",
+        "image_url": "https://static1.ara.cat/clip/dc9af280-bdda-4ab2-a29f-6c91f3c34cb9_16-9-aspect-ratio_default_1052688.jpg",
+        "tags": [
+            "antipatica",
+            "falla",
+            "catalana",
+            "lengua",
+            "pp",
+            "teoria"
+        ],
+        "link": "https://es.ara.cat/politica/lengua-catalana-antipatica-teoria-pp-falla_1_5598445.html",
+        "date": "2025-12-20 16:59:58",
+        "sentiment_score": -0.6322175860404968
+    },
+    {
+        "title": "Un catalán que vive en Bruselas se queja de la cantidad de gente de su país que hay en la ciudad: “Bajo mi ventana escucho más español que francés”",
+        "image_url": "https://www.infobae.com/resizer/v2/474YQCOXYVEO7MTG3F7M6LQTYU.jpg?auth=9cc76fb040c466e5d4e877dcbbf031977b18190a088b2c1cbc32d444c4f50d23&height=2601&smart=true&width=3901",
+        "tags": [
+            "migrantes",
+            "europa",
+            "redes sociales",
+            "españa-noticias",
+            "bruselas",
+            "tiktok",
+            "virales-espana"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/20/un-catalan-que-vive-en-bruselas-se-queja-de-la-cantidad-de-gente-de-su-pais-que-hay-en-la-ciudad-bajo-mi-ventana-escucho-mas-espanol-que-frances/",
+        "date": "2025-12-20 16:58:45",
+        "sentiment_score": 0.4246217906475067
+    },
+    {
+        "title": "El gran ecosistema industrial que el franquismo no vio venir: el estudio pionero de un investigador asturiano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d7c79f1-0786-4458-a725-f56355d0d558_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "talento exterior",
+            "asturias",
+            "empresas",
+            "industria",
+            "ecosistema",
+            "franquismo",
+            "universidad",
+            "asturiano"
+        ],
+        "link": "https://www.lne.es/asturias-exterior/2025/12/20/gran-ecosistema-industrial-franquismo-vio-124936751.html",
+        "date": "2025-12-20 16:57:47",
+        "sentiment_score": -0.08766625821590424
+    },
+    {
+        "title": "La Barceloneta: así se vive en el barrio más gentrificado del Estado",
+        "image_url": "https://static1.ara.cat/clip/0830c72f-9681-4e42-af0e-9da62edf357a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gentrificado",
+            "barceloneta",
+            "barrio",
+            "vive"
+        ],
+        "link": "https://es.ara.cat/sociedad/barcelona/barceloneta-vive-barrio-gentrificado_130_5598439.html",
+        "date": "2025-12-20 16:56:27",
+        "sentiment_score": -0.35069572925567627
+    },
+    {
+        "title": "Juanma Moreno presenta en Córdoba su libro 'Manual de convivencia': \"Una sociedad dividida no puede desarrollar su potencial\"",
+        "image_url": "https://static.grupojoly.com/clip/939c5c6b-179d-415a-9e74-090f6cb83970_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "literatura córdoba",
+            "últimas noticias córdoba",
+            "junta de andalucía córdoba"
+        ],
+        "link": "https://www.eldiadecordoba.es/cordoba/juanma-moreno-cordoba-libro-manual-convivencia_0_2005494203.html",
+        "date": "2025-12-20 16:50:52",
+        "sentiment_score": 0.15202144160866737
     }
 ];
