@@ -1,150 +1,5 @@
 export default [
     {
-        "title": "17:00H | 17 DIC 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-17-dic-2025-tarde-20251217_3273401.html",
-        "date": "2025-12-17 17:11:00",
-        "sentiment_score": -0.6324836537241936
-    },
-    {
-        "title": "Lo que Cerdán ha defendido y ha callado en el Senado tras su paso por cinco meses de prisión",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/736dd679-d88f-49ef-8fad-c3e7f8d17c8e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "psoe",
-            "política",
-            "caso koldo",
-            "guardia civil",
-            "senado"
-        ],
-        "link": "https://www.lacronicabadajoz.com/nacional/2025/12/17/cerdan-defendido-callado-senado-paso-124896505.html",
-        "date": "2025-12-17 17:05:59",
-        "sentiment_score": -0.6177545432001352
-    },
-    {
-        "title": "La Fórmula 1 presentó las primeras imágenes de cómo son los coches del 2026 y detalló el nuevo modo para los sobrepasos en carrera",
-        "image_url": "https://www.infobae.com/resizer/v2/WDDHUQ55KZH53LVZEDLVD26VSY.jpg?auth=8544cf5d4e7ebd85d04b500c3dff0dcce2ef3228a1e4b08cdf2191c836a87e9b&height=1080&smart=true&width=1920",
-        "tags": [
-            "fórmula 1",
-            "red bull",
-            "alpine",
-            "fia",
-            "pirelli",
-            "f1",
-            "williams",
-            "f1 hoy",
-            "mclaren",
-            "mercedes"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/17/la-formula-1-presento-las-primeras-imagenes-de-como-son-los-coches-del-2026-y-detallo-el-nuevo-modo-para-los-sobrepasos-en-carrera/",
-        "date": "2025-12-17 17:13:57",
-        "sentiment_score": 0.6596926767379045
-    },
-    {
-        "title": "KPMG incorpora como socios en Barcelona a Clara Guasch, Belén García, Cristina Civit y Álex Esteban",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251217181247_120.jpg",
-        "tags": [
-            "andorra",
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/andorra-01111/noticia-kpmg-incorpora-socios-barcelona-clara-guasch-belen-garcia-cristina-civit-alex-esteban-20251217181247.html",
-        "date": "2025-12-17 17:12:47",
-        "sentiment_score": 0.09274979680776596
-    },
-    {
-        "title": "El Puerto de Vigo estrena un nuevo sistema de carga de semirremolques: \"Una auténtica revolución\"",
-        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744060023_260538289_1706x960.jpg",
-        "tags": [
-            "comarca de vigo",
-            "vigo",
-            "cámara de comercio"
-        ],
-        "link": "https://www.elespanol.com/treintayseis/vigo/20251217/puerto-vigo-estrena-nuevo-sistema-carga-semirremolques-autentica-revolucion/1003744060010_0.html",
-        "date": "2025-12-17 17:11:30",
-        "sentiment_score": 0.5342436283826828
-    },
-    {
-        "title": "Así es la nueva ley catalana que obliga a las administraciones a «recuperar» la «memoria democrática LGBTI»",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/17/6942e3c018f35.r_d.972-480-6250.jpeg",
-        "tags": [
-            "cataluña"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/20251217/asi-nueva-ley-catalana-obliga-administraciones-recuperar-memoria-democratica-lgbti_366459.html",
-        "date": "2025-12-17 17:11:03",
-        "sentiment_score": -0.2946641966700554
-    },
-    {
-        "title": "Acuerdo entre Barcelona y Osaka para colaborar en ámbitos \"clave\" como emprendimiento o turismo",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/12/17/C4960293-7D25-40F6-8166-C2825CF7055C/collboni-firmando-acuerdo_69.jpg?crop=1920%2C1080%2Cx0%2Cy103&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/acuerdo-barcelona-osaka-colaborar-ambitos-clave-como-emprendimiento-turismo_202512176942e3dbaf09df50108b457d.html",
-        "date": "2025-12-17 17:09:47",
-        "sentiment_score": 0.04698886722326279
-    },
-    {
-        "title": "El presidente de Hotusa considera \"demencial\" el aumento de la tasa turística de Barcelona",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEAAP0BV_M.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://es.investing.com/news/stock-market-news/el-presidente-de-hotusa-considera-demencial-el-aumento-de-la-tasa-turistica-de-barcelona-3439966",
-        "date": "2025-12-17 17:06:13",
-        "sentiment_score": -0.7113670147955418
-    },
-    {
-        "title": "Barcelona refuerza la recogida de las hojas caídas en las calles de la ciudad",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/12/17/63636D04-7E5A-4BBC-A4E3-D042378EADD8/primera-teniente-alcalde-ayuntamiento-barcelona-laia-bonet-afirmado-que-gobierno-municipal-reforzado-servicio-limpieza-recogida-hojas-calles-ciudad-ma_69.jpg?crop=1920%2C1080%2Cx0%2Cy119&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/barcelona-refuerza-recogida-hojas-caidas-calles-ciudad_202512176942e26caf09df50108b43dc.html",
-        "date": "2025-12-17 17:03:40",
-        "sentiment_score": -0.8999526919797063
-    },
-    {
-        "title": "Barcelona presenta el plan para mejorar la movilidad durante las obras de la línea L8: todos los detalles",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/11/10/movilidad/808679378_11869377_1706x960.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "obras",
-            "vivir en barcelona",
-            "ferrocarrils de la generalitat (fgc)"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251217/barcelona-presenta-plan-mejorar-movilidad-obras-linea-l8-detalles/1003742716961_0.html",
-        "date": "2025-12-17 17:03:34",
-        "sentiment_score": -0.6545634269714355
-    },
-    {
-        "title": "Catalá: \"No me perdonaría no hacer el mismo esfuerzo que nuestros antepasados con el desvío del Turia\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c2bea211-89d8-40b8-8545-b99006615ac4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "inundaciones",
-            "área metropolitana",
-            "agua",
-            "emshi",
-            "comunitat valenciana"
-        ],
-        "link": "https://www.levante-emv.com/comunitat-valenciana/2025/12/17/catala-perdonaria-esfuerzo-antepasados-desvio-124895890.html",
-        "date": "2025-12-17 17:02:52",
-        "sentiment_score": 0.19915013015270233
-    },
-    {
-        "title": "Los caminos que abre la inteligencia artificial",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/VSZ75QG7NZD6HAHZU76DHNIJBY.jpg?auth=afaf7223040348f3a25150d78c06d4569534009564339a347f42ad5298963c29&width=1200",
-        "tags": [
-            "business"
-        ],
-        "link": "https://elpais.com/economia/branded/el-poder-de-las-empresas/2025-12-17/los-caminos-que-abre-la-inteligencia-artificial.html",
-        "date": "2025-12-17 17:02:37",
-        "sentiment_score": 0.5526500344276428
-    },
-    {
         "title": "Con doblete de Mbappé, Real Madrid resuelve un enredo inesperado en la Copa del Rey",
         "image_url": "https://ca-times.brightspotcdn.com/dims4/default/343aaae/2147483647/strip/true/crop/2061x1082+0+146/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe9%2F7a%2Fa36f138449c19f353ab86f45d8d5%2F2860fd4ce9814ada8a58482a5c68b413.jpg",
         "tags": [
@@ -2723,5 +2578,226 @@ export default [
         "link": "https://www.diariodesevilla.es/opinion/articulos/baluarte-ultraderecha_0_2005496818.html",
         "date": "2025-12-21 02:09:18",
         "sentiment_score": -0.7478578761219978
+    },
+    {
+        "title": "Este es el número de 'El Gordo' en la Lotería de Navidad 2025, según Benita: \"Lo tengo muy claro\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/08/13/689c50a17b52b.png",
+        "tags": [
+            "televisión"
+        ],
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20251221/1002589998/numero-gordo-loteria-navidad-2025-benita-claro-dct.html",
+        "date": "2025-12-21 06:30:00",
+        "sentiment_score": 0.6220109686255455
+    },
+    {
+        "title": "Osasuna - Alavés, el análisis | 'Lisci tiene otro plan'",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/bc41bc00-6f02-4f48-88c5-aa433674a39c_16-9-aspect-ratio_default_0_x1500y521.jpg",
+        "tags": [
+            "osasuna",
+            "plan",
+            "analisis",
+            "alaves",
+            "lisci"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/21/osasuna-alaves-analisis-lisci-plan-10498082.html",
+        "date": "2025-12-21 06:24:18",
+        "sentiment_score": -0.25255200266838074
+    },
+    {
+        "title": "Vanessa Goikoetxea, sin etiquetas",
+        "image_url": "https://static.grupojoly.com/clip/54510d3f-50fb-41d1-83ab-dc8ba5766df2_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vanessa",
+            "goikoetxea",
+            "entrevista"
+        ],
+        "link": "https://www.diariodealmeria.es/ocio/vanessa-goikoetxea-entrevista_0_2005497053.html",
+        "date": "2025-12-21 06:19:33",
+        "sentiment_score": 0.21337152644991875
+    },
+    {
+        "title": "Historia de una zambomba",
+        "image_url": "https://static.grupojoly.com/clip/1de92ea0-596e-4f93-96ca-b8afddacc088_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "historia",
+            "zambomba",
+            "origen",
+            "palabra"
+        ],
+        "link": "https://www.granadahoy.com/ocio/historia-zambomba-origen-palabra_0_2005497031.html",
+        "date": "2025-12-21 06:09:22",
+        "sentiment_score": -0.2608298733830452
+    },
+    {
+        "title": "Vivienda: del derecho a la angustia diaria en España",
+        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2025/12/20/2025122022393477046.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/espana/crisis-vivienda-precios-alquiler-espana/20251221070500438651.html",
+        "date": "2025-12-21 06:05:00",
+        "sentiment_score": -0.8754762522876263
+    },
+    {
+        "title": "Estos son los barrios que nunca han olido 'El Gordo'",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/09/estos-son-los-barrios-que-nunca-han-olido-el-gordo-de-la-loteria.jpeg",
+        "tags": [
+            "lotería de navidad"
+        ],
+        "link": "https://www.huffingtonpost.es/loterias/loteria-de-navidad/la-suerte-barrios-son-lugares-nunca-han-olido-gordo-pese-mas-200nos-historia-f202512.html",
+        "date": "2025-12-21 06:04:54",
+        "sentiment_score": 0.09084498882293701
+    },
+    {
+        "title": "La ilusión recorre los barrios de Sevilla en vísperas de la Lotería de Navidad: \"Este año va a caer\"",
+        "image_url": "https://static.grupojoly.com/clip/e761ab30-5195-440e-8933-a351d9c87973_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/sevilla/ilusion-recorre-barrios-sevilla-visperas_0_2005495409.html",
+        "date": "2025-12-21 06:01:08",
+        "sentiment_score": 0.5500694140791893
+    },
+    {
+        "title": "El Baskonia, exigente examen para el Unicaja y para su fortín",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2d65118-0835-45ae-8007-dbc78a357a6d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja",
+            "palau blaugrana",
+            "baskonia",
+            "barça",
+            "plantilla"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/21/baskonia-exigente-examen-unicaja-fortin-previa-liga-endesa-125002545.html",
+        "date": "2025-12-21 06:00:41",
+        "sentiment_score": 0.8394684009253979
+    },
+    {
+        "title": "Contrastes entre riqueza y pobreza en Santa Cruz de Tenerife: Las Mimosas vs Añaza",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/28cf68b1-edee-4a8c-a2e0-1bc38e92ff6d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "añaza",
+            "navidad",
+            "vecinos",
+            "jóvenes"
+        ],
+        "link": "https://www.eldia.es/tenerife/2025/12/21/contrastes-riqueza-pobreza-santa-cruz-125000022.html",
+        "date": "2025-12-21 06:00:39",
+        "sentiment_score": -0.29086095839738846
+    },
+    {
+        "title": "Málaga reúne a nueve de los 80 municipios que más vivienda venden en toda España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0edefa5e-9177-4c0e-9b84-1187133d7772_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "vivienda",
+            "españa",
+            "viviendas",
+            "casas",
+            "barcelona",
+            "precios"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2025/12/21/malaga-nueve-80-municipios-venta-viviendas-espana-124976300.html",
+        "date": "2025-12-21 06:01:52",
+        "sentiment_score": 0.15843845903873444
+    },
+    {
+        "title": "La lotería de Navidad que sacudió Sevilla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/859ea6c3-78e5-4f2f-919d-202a003de7b8_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lotería de navidad,lotería de navidad 2025,historia"
+        ],
+        "link": "https://www.elcorreoweb.es/sevilla/2025/12/21/reportaje-loteria-navidad-sacudio-sevilla-124887609.html",
+        "date": "2025-12-21 06:00:35",
+        "sentiment_score": -0.2818502187728882
+    },
+    {
+        "title": "Óscar Puente: \"Si queremos que Rodalies sea puntual, fiable y eficaz, hace falta más que traspasar la gestión\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a6c8b29e-f116-4bf7-a4e1-8e73a0fd5d46_alta-libre-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ministerio de transportes",
+            "ave",
+            "aena",
+            "adif",
+            "óscar puente santiago",
+            "sílvia paneque i sureda",
+            "renfe",
+            "trenes",
+            "rodalies",
+            "transportes",
+            "conselleria de territori"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20251221/ministro-oscar-puente-rodalies-entrevista-transportes-124979337",
+        "date": "2025-12-21 06:00:32",
+        "sentiment_score": 0.1693529486656189
+    },
+    {
+        "title": "¿Somos solidarios los españoles?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/14437702-e232-4c3f-967b-b94ee2c35cb0_16-9-discover-aspect-ratio_default_0_x1970y1286.jpg",
+        "tags": [
+            "solidaridad",
+            "acto benéfico",
+            "entender más"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251221/solidarios-espanoles-124975521",
+        "date": "2025-12-21 06:00:29",
+        "sentiment_score": -0.0508139431476593
+    },
+    {
+        "title": "El 'Gordo' de Navidad ya no es tan gordo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/46796603-b7d5-4507-b6b0-44578a00e634_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "entender más",
+            "sorteos y loterías",
+            "sorteos",
+            "lotería de navidad"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251221/gordo-navidad-gordo-124892542",
+        "date": "2025-12-21 06:00:28",
+        "sentiment_score": -0.20203131437301636
+    },
+    {
+        "title": "Josefina Domínguez Mujica: «La vivienda de promoción pública que se hizo en los años 60 está hoy en una posición terrible»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d911fee-ffd1-4aed-8091-c0aec3d0d7ad_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "población",
+            "las palmas",
+            "suelo",
+            "tenerife",
+            "san francisco",
+            "crisis",
+            "años 60",
+            "vivienda",
+            "canarias"
+        ],
+        "link": "https://www.laprovincia.es/enfoques/2025/12/21/josefina-dominguez-mujica-vivienda-promocion-124998047.html",
+        "date": "2025-12-21 06:00:27",
+        "sentiment_score": -0.39109307527542114
+    },
+    {
+        "title": "Guía para sobrevivir al tráfico navideño y aparcar sin desesperar",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/20/NP_motor-RFVMMz6pE4K5mUCIB8oBn7H-1200x840@diario_abc.jpg",
+        "tags": [
+            "estrés",
+            "ciudades",
+            "navidad",
+            "dgt dirección general de tráfico",
+            "tráfico"
+        ],
+        "link": "https://www.canarias7.es/motor/reportajes/salir-margen-fijar-parking-rutas-secundarias-moverte-20251220080000-ntrc.html",
+        "date": "2025-12-21 06:00:21",
+        "sentiment_score": 0.02809065580368042
+    },
+    {
+        "title": "Sánchez París, un ciudadrealeño que pasará a formar parte de la Red Euro-Iberoamericana de Alumni de Yuste",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/d9ec9c04-2ada-4843-a260-3d101e376be0.jpeg",
+        "tags": [
+            "ciudad real",
+            "investigación",
+            "provincia de ciudad real"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/sanchez-paris-un-ciudadrealeno-que-pasara-a-formar-parte-de-la-red-euro-iberoamericana-de-alumni-de-yuste/",
+        "date": "2025-12-21 06:00:00",
+        "sentiment_score": 0.014401555061340332
     }
 ];
