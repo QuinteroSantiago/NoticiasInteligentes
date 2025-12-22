@@ -1,123 +1,5 @@
 export default [
     {
-        "title": "Florentino se rinde: Xabi es el mejor escudo y la solución menos mala",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/91f9df83-0c45-484a-85d7-478106d0df58_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "xabi alonso",
-            "florentino pérez",
-            "real madrid",
-            "fútbol"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/18/florentino-rinde-xabi-mejor-escudo-banquillo-real-madrid-124911444.html",
-        "date": "2025-12-18 06:28:52",
-        "sentiment_score": -0.7235350981354713
-    },
-    {
-        "title": "La nueva dimensión del injerto capilar: lujo, tecnología y vida plena con FUE GOLD en Clínica Frontela",
-        "image_url": "https://static.grupojoly.com/clip/6397ea03-7a4d-4ffc-abb0-1763778a72fc_source-aspect-ratio_1600w_0.jpg",
-        "tags": [
-            "lujo",
-            "dimension",
-            "capilar",
-            "nueva",
-            "injerto"
-        ],
-        "link": "https://www.diariodesevilla.es/bc-sevilla/nueva-dimension-injerto-capilar-lujo_0_2005443921.html",
-        "date": "2025-12-18 06:01:31",
-        "sentiment_score": 0.641169011592865
-    },
-    {
-        "title": "Pedro Sánchez califica de “error histórico” la flexibilización del veto a los motores de combustión",
-        "image_url": "https://static.grupojoly.com/clip/f3a035b7-b2c9-44fc-9151-3fadb0885b51_facebook-aspect-ratio_default_0_x41y7.jpg",
-        "tags": [
-            "historico",
-            "error",
-            "pedro",
-            "califica",
-            "sanchez"
-        ],
-        "link": "https://www.diariodejerez.es/motor/pedro-sanchez-califica-error-historico_0_2005482218.html",
-        "date": "2025-12-18 06:00:31",
-        "sentiment_score": -0.8873834758996964
-    },
-    {
-        "title": "Gonzalo Bernardos, economista, advierte sobre la subida de precios en la vivienda: “Durará bastantes años”",
-        "image_url": "https://s3.elespanol.com/2025/11/12/actualidad/1003744009966_259886596_1706x960.jpg",
-        "tags": [
-            "soft",
-            "burbuja inmobiliaria",
-            "gonzalo bernardos",
-            "vivienda",
-            "sociedad"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251218/gonzalo-bernardos-economista-advierte-subida-precios-vivienda-durara-bastantes-anos/1003744048048_0.html",
-        "date": "2025-12-18 06:39:34",
-        "sentiment_score": -0.0009960383176803589
-    },
-    {
-        "title": "La presunta mina de oro de Zapatero que conectó los negocios del ex presidente entre China y Venezuela",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/11/22/6921bd0c8b9e3.r_d.1477-909-6973.jpeg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.eldebate.com/espana/20251218/presunta-mina-oro-zapatero-conecto-negocios-ex-presidente-entre-china-venezuela_366591.html",
-        "date": "2025-12-18 06:35:28",
-        "sentiment_score": -0.7200217731297016
-    },
-    {
-        "title": "La última visita guiada a puerta cerrada a la exposición del World Press Photo, la del Club Premium del ARA",
-        "image_url": "https://static1.ara.cat/clip/5c94ca5a-e3e8-418d-a335-11c7710b96d2_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ultima",
-            "exposicion",
-            "guiada",
-            "puerta",
-            "world",
-            "photo",
-            "cerrada",
-            "premium",
-            "visita",
-            "press",
-            "ara",
-            "club"
-        ],
-        "link": "https://es.ara.cat/cultura/ultima-visita-guiada-puerta-cerrada-exposicion-world-press-photo-club-premium-ara_1_5595629.html",
-        "date": "2025-12-18 06:32:41",
-        "sentiment_score": 0.026866108179092407
-    },
-    {
-        "title": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades este 18 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "gasolina",
-            "españa-economia",
-            "precio gasolina",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/18/el-precio-mas-alto-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-este-18-de-diciembre/",
-        "date": "2025-12-18 06:30:35",
-        "sentiment_score": -0.006723970174789429
-    },
-    {
-        "title": "Lo que debes saber hoy, 18 de diciembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/11/vivir-en-barcelona/1003742706368_15389774_1706x960.jpg",
-        "tags": [
-            "tráfico",
-            "gran barcelona",
-            "coches",
-            "metro barcelona",
-            "clima",
-            "rodalies",
-            "autobús",
-            "transporte",
-            "renfe barcelona",
-            "transports metropolitans barcelona tmb"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251218/debes-saber-hoy-diciembre-barcelona/1003742717095_0.html",
-        "date": "2025-12-18 06:26:25",
-        "sentiment_score": 0.07664899528026581
-    },
-    {
         "title": "Grupotec factura 306 millones de euros en 2025 y augura crecer al 7%",
         "image_url": "https://www.economiadigital.es/valencia/wp-content/uploads/sites/2/2025/12/Olallo-Villold_presidente-Grupotec-1000x665.jpeg",
         "tags": [
@@ -2768,5 +2650,146 @@ export default [
         "link": "https://www.informe21.com/post/semana-deportiva-13",
         "date": "2025-12-21 14:10:27",
         "sentiment_score": 0.641560647636652
+    },
+    {
+        "title": "La pitada contra Vinicius en el Bernabéu: ¿qué pasó con el jugador brasileño?",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/21190604/Vinicius-Bernabeu.jpg",
+        "tags": [
+            "estadio santiago bernabeú",
+            "real madrid",
+            "deportes",
+            "fútbol",
+            "vinicius jr"
+        ],
+        "link": "https://www.elnacional.com/2025/12/la-pitada-contra-vinicius-en-el-bernabeu-que-paso-con-el-jugador-brasileno/",
+        "date": "2025-12-21 22:06:00",
+        "sentiment_score": -0.8463352117687464
+    },
+    {
+        "title": "María Guardiola, una presidenta sin pulso político",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ce523525-2ec9-4e08-976c-78a653e7aaba_16-9-aspect-ratio_default_0_x848y447.jpg",
+        "tags": [
+            "presidenta",
+            "sin",
+            "politico",
+            "pulso"
+        ],
+        "link": "https://www.deia.eus/politica/2025/12/21/presidenta-sin-pulso-politico-10500393.html",
+        "date": "2025-12-21 22:04:57",
+        "sentiment_score": 0.09794121980667114
+    },
+    {
+        "title": "Brahim brilla en la Copa África y le da a Marruecos la victoria sobre Comoras",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/21/69486bdb9ac6c4-70837644.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/brahim-brilla-copa-africa-le-da-marruecos-victoria-sobre-comoras_6913391_0.html",
+        "date": "2025-12-21 22:01:24",
+        "sentiment_score": 0.26030586659908295
+    },
+    {
+        "title": "Comprueba los resultados del Quinigol del 21 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-loterias",
+            "quinigol",
+            "noticias"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/21/comprueba-los-resultados-del-quinigol-del-21-de-diciembre/",
+        "date": "2025-12-21 22:00:40",
+        "sentiment_score": 0.043751731514930725
+    },
+    {
+        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 17 de LaLiga EA Sports 25-26 | El Espanyol, a poner la guinda a un año que invita a soñar",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/laliga-ea-sports-25-26-jornada-17-domingo-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/liga-jornada-17-resultados-clasificacion-cronica-resumen-partidos-athletic-club-rcd-espanyol-domingo/",
+        "date": "2025-12-21 22:00:29",
+        "sentiment_score": 0.7950837574899197
+    },
+    {
+        "title": "(Crónica) El Barça golea camino a cuartos y el Atlético necesita los penaltis en la Copa de la Reina",
+        "image_url": "https://www.infobae.com/resizer/v2/26A3UTYFUNFK5H53HLLGL3KMZI.jpg?auth=23ac6465797722b14fa6d9ba55a2607380ff69aff41dd184e2dcd16c64fb6546&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/21/cronica-el-barca-golea-camino-a-cuartos-y-el-atletico-necesita-los-penaltis-en-la-copa-de-la-reina/",
+        "date": "2025-12-21 22:00:19",
+        "sentiment_score": -0.0629735141992569
+    },
+    {
+        "title": "Alerta por Mastantuono: tras otro partido sin minutos en el Real Madrid, se dispararon los rumores sobre su futuro",
+        "image_url": "https://www.infobae.com/resizer/v2/5LG3SKP2UVHVXIY5QI24VXTJS4.JPG?auth=6f3795cb2c23ed64e3c863015d93ed65ce548dbba3acff7231429d9b6a8399bf&height=1582&smart=true&width=2813",
+        "tags": [
+            "franco mastantuono",
+            "deportes-argentina",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/21/alerta-por-mastantuono-tras-otro-partido-sin-minutos-en-el-real-madrid-se-dispararon-los-rumores-sobre-su-futuro/",
+        "date": "2025-12-21 21:54:24",
+        "sentiment_score": -0.46506909653544426
+    },
+    {
+        "title": "Podemos e IU rompen en Extremadura la debacle electoral de la izquierda",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/27a65e76702b180b1f0c07bbf3b19833/crop/55x36/1986x1324/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/21/17663552773607.jpg",
+        "tags": [
+            "elecciones extremadura"
+        ],
+        "link": "https://www.expansion.com/elecciones/elecciones-extremadura/2025/12/21/69486baae5fdea4c2a8b4592.html",
+        "date": "2025-12-21 22:15:35",
+        "sentiment_score": 0.3299166113138199
+    },
+    {
+        "title": "A Pedro Sánchez sólo le queda Cataluña",
+        "image_url": "https://static1.ara.cat/clip/c596ef1a-4524-43e7-975c-6b6e07ba2351_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sanchez",
+            "cataluna",
+            "le",
+            "pedro",
+            "queda"
+        ],
+        "link": "https://es.ara.cat/politica/pedro-sanchez-le-queda-cataluna_129_5599333.html",
+        "date": "2025-12-21 22:07:35",
+        "sentiment_score": -0.24829386174678802
+    },
+    {
+        "title": "Barcelona espera el 'Gordo' de la Lotería de Navidad 2025: este es el último que tocó en un pequeño pueblo hace 15 años",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/12/22/vivir-en-barcelona/636696325_9281645_1706x960.jpg",
+        "tags": [
+            "premios",
+            "navidad barcelona",
+            "vivir en barcelona",
+            "lotería navidad",
+            "curiosidades",
+            "recomendaciones"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251221/barcelona-espera-gordo-loteria-navidad-ultimo-toco-pequeno-pueblo-hace-anos/1003742718184_0.html",
+        "date": "2025-12-21 22:03:28",
+        "sentiment_score": 0.5812423974275589
+    },
+    {
+        "title": "El Barça 2.0 de Flick se dispara en Liga: Pulveriza sus números con un salto diferencial",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/21/image-ef4bd756-365d-44b9-8790-0a67b369dd49-85-2560-1440.jpeg",
+        "tags": [
+            "football",
+            "la liga 2025-2026"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/analisis-primera-vuelta-barcelona-cambio-casa-puntos-lider-campeon-invierno_sto23252810/story.shtml",
+        "date": "2025-12-21 22:02:56",
+        "sentiment_score": 0.5405744574964046
+    },
+    {
+        "title": "Un grupo de vecinos impide que una parroquia acoja a 15 de los migrantes desalojados de un instituto en Badalona",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/21/69486a8ddca805-69690314.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/un-grupo-vecinos-impide-que-una-parroquia-acoja-15-los-migrantes-desalojados-un-instituto-badalona_6913390_0.html",
+        "date": "2025-12-21 22:00:47",
+        "sentiment_score": -0.6732999701052904
     }
 ];
