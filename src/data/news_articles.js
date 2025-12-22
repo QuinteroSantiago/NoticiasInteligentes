@@ -2791,5 +2791,228 @@ export default [
         "link": "https://www.20minutos.es/cataluna/barcelona/un-grupo-vecinos-impide-que-una-parroquia-acoja-15-los-migrantes-desalojados-un-instituto-badalona_6913390_0.html",
         "date": "2025-12-21 22:00:47",
         "sentiment_score": -0.6732999701052904
+    },
+    {
+        "title": "02:00H |22 DICIEMBRE 2025 | LA NOCHE DE ADOLFO ARJONA",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la noche de adolfo arjona"
+        ],
+        "link": "https://www.cope.es/programas/la-noche-de-adolfo-arjona/horas-completas/02-00h-22-diciembre-2025-noche-adolfo-arjona-20251218_3273715.html",
+        "date": "2025-12-22 02:05:00",
+        "sentiment_score": -0.20518869161605835
+    },
+    {
+        "title": "Barcelona cerró 2025 como firme líder en la LaLiga",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/12/Barcelona-1.jpg",
+        "tags": [
+            "21dic",
+            "barcelona",
+            "deportes",
+            "líder",
+            "laliga"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/12/21/barcelona-cerro-lider/",
+        "date": "2025-12-22 01:37:49",
+        "sentiment_score": -0.21821072697639465
+    },
+    {
+        "title": "El Sorteo de la Lotería de Navidad reparte este lunes 2.772 millones en premios: el Gordo dará 400.000 euros por décimo",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/15/17657872051436.jpg",
+        "tags": [
+            "lotería de navidad",
+            "sorteo",
+            "lotería"
+        ],
+        "link": "https://www.elmundo.es/loterias/loteria-de-navidad/2025/12/22/6948403de85ecee0058b4572.html",
+        "date": "2025-12-22 01:25:30",
+        "sentiment_score": 0.10605643689632416
+    },
+    {
+        "title": "De hispano flamencos a canarios: el linaje Van de Walle",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fe006457-62ca-4c03-a17c-fd631fb03152_16-9-aspect-ratio_default_0_x663y560.jpg",
+        "tags": [
+            "canarias",
+            "la palma",
+            "isla",
+            "familia"
+        ],
+        "link": "https://www.laprovincia.es/cultura/2025/12/22/hispano-flamencos-canarios-linaje-walle-125030606.html",
+        "date": "2025-12-22 01:09:17",
+        "sentiment_score": -0.048941582441329956
+    },
+    {
+        "title": "Los silbidos a Vinicius y el gesto de Lamine Yamal en Villarreal, en El Tertulión",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/22/69488ecec3144.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/silbidos-bernabeu-vinicius-gesto-lamine-yamal-villarreal-tertulion-juego-20251222_3275580.html",
+        "date": "2025-12-22 01:03:09",
+        "sentiment_score": -0.050243884325027466
+    },
+    {
+        "title": "Taiwán refuerza su capacidad militar ante la amenaza china: adquirirá sistemas HIMARS, obuses, misiles y drones a EEUU",
+        "image_url": "https://s3.elespanol.com/2025/11/11/actualidad/1003744008462_259866028_1706x960.jpg",
+        "tags": [
+            "taiwán",
+            "industria armamentística",
+            "observatorio de la defensa",
+            "china",
+            "defensa - política de defensa",
+            "estados unidos"
+        ],
+        "link": "https://www.elespanol.com/observatorio-defensa/20251222/taiwan-refuerza-capacidad-militar-amenaza-china-adquirira-sistemas-himars-obuses-misiles-drones-eeuu/1003744062571_0.html",
+        "date": "2025-12-22 00:48:32",
+        "sentiment_score": -0.09824731945991516
+    },
+    {
+        "title": "21 DIC 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/21-dic-2025-tertulion-domingos-20251222_3275583.html",
+        "date": "2025-12-22 00:43:00",
+        "sentiment_score": -0.7082764655351639
+    },
+    {
+        "title": "El golazo de chilena de Marruecos en el inicio de la Copa de África: el particular festejo y la reacción del Príncipe",
+        "image_url": "https://www.infobae.com/resizer/v2/ZZQLC7FP2FHA5D44XXWAZOLUZ4.jpg?auth=d9e6f874458652be8e86d0ddaa14d2e6bb4f13a29cd5bb4e02fa9b1c041e79c5&height=1202&smart=true&width=2137",
+        "tags": [
+            "copa áfrica",
+            "ayoub el kaabi",
+            "deportes-argentina",
+            "selección de marruecos"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/22/el-golazo-de-chilena-de-marruecos-en-el-inicio-de-la-copa-de-africa-el-particular-festejo-y-la-reaccion-del-principe/",
+        "date": "2025-12-22 00:26:48",
+        "sentiment_score": 0.6936040595173836
+    },
+    {
+        "title": "Arranca con una exigente cuesta de enero",
+        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2025/12/21/209579968-kwpB--758x531@Diario%20Vasco.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.diariovasco.com/real-sociedad/arranca-exigente-cuesta-enero-20251222061351-nt.html",
+        "date": "2025-12-22 00:00:00",
+        "sentiment_score": 0.22300536185503006
+    },
+    {
+        "title": "España se entrega a San Pancracio: la Lotería del 22 de diciembre, última posibilidad de cambiar el rumbo del año",
+        "image_url": "https://s3.elespanol.com/2025/12/21/actualidad/1003744065177_260607401_1706x960.jpg",
+        "tags": [
+            "lotería de navidad",
+            "gordo de navidad",
+            "loterías",
+            "loterías y apuestas del estado (lae)",
+            "navidad"
+        ],
+        "link": "https://www.elespanol.com/loterias/20251222/espana-entrega-san-pancracio-loteria-diciembre-ultima-posibilidad-cambiar-rumbo-ano/1003744065135_0.html",
+        "date": "2025-12-21 23:50:21",
+        "sentiment_score": 0.33261846005916595
+    },
+    {
+        "title": "Jerez visto por los viajeros germanos del siglo XIX",
+        "image_url": "https://static.grupojoly.com/clip/eb5e5a71-9b11-4397-bd8b-bcc90faea909_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias jerez"
+        ],
+        "link": "https://www.diariodejerez.es/jerez/jerez-visto-viajeros-germanos-siglo_0_2005483920.html",
+        "date": "2025-12-22 02:17:49",
+        "sentiment_score": -0.15909116715192795
+    },
+    {
+        "title": "Los siete golpes letales que Trump ha asestado a la ciencia: \"Es un regreso a un oscurantismo medieval\"",
+        "image_url": "https://s3.elespanol.com/2025/02/28/actualidad/927667543_253493849_1706x960.jpg",
+        "tags": [
+            "estados unidos",
+            "ciencia",
+            "investigación científica"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20251222/golpes-letales-trump-asestado-ciencia-regreso-oscurantismo-medieval/1003744063814_0.html",
+        "date": "2025-12-22 02:08:28",
+        "sentiment_score": -0.9088962581008673
+    },
+    {
+        "title": "A Málaga desde Canadá por la robótica infantil",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/12/21/9DE97E99-A9EF-4A2F-A660-F0C6179B0047/69.jpg?crop=1600%2C900%2Cx0%2Cy126&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "málaga",
+            "home la razón",
+            "andalucía"
+        ],
+        "link": "https://www.larazon.es/andalucia/malaga/malaga-canada-robotica-infantil_2025122269489b1d22f0db7daffa53d4.html",
+        "date": "2025-12-22 01:13:01",
+        "sentiment_score": 0.663019597530365
+    },
+    {
+        "title": "El lesionado del Barça que desatasca el mercado de fichajes: inyección de Fair Play sin obtener la regla 1:1",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/22/culemania/palco/1003742718221_15539836_1706x960.jpg",
+        "tags": [
+            "fichajes barça",
+            "andreas christensen",
+            "primer equipo",
+            "deco",
+            "fair play de la liga"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251222/lesionado-barca-desatasca-fichajes-inyeccion-fair-play/1003742718219_0.html",
+        "date": "2025-12-22 00:40:51",
+        "sentiment_score": 0.38325583934783936
+    },
+    {
+        "title": "Los orígenes del Sorteo de Navidad: más de dos siglos de ilusión cuya denominación definitiva data de 1892",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/BOLAS-SORTEO-NAVIDAD.jpg",
+        "tags": [
+            "españa",
+            "economía",
+            "lotería de navidad"
+        ],
+        "link": "https://gaceta.es/espana/los-origenes-del-sorteo-de-navidad-mas-de-dos-siglos-de-ilusion-cuya-denominacion-definitiva-data-de-1892-20251222-0138/",
+        "date": "2025-12-22 00:38:00",
+        "sentiment_score": -0.15295887738466263
+    },
+    {
+        "title": "¿La seguridad es una quimera? Cómo establecer la estrategia correcta",
+        "image_url": "https://revistabyte.es/wp-content/uploads/2025/12/seguridad-es-una-quimera.webp",
+        "tags": [
+            "eventos",
+            "ia",
+            "hclsoftware",
+            "seguridad",
+            "ciberseguridad"
+        ],
+        "link": "https://revistabyte.es/eventos-tic/seguridad-es-una-quimera/",
+        "date": "2025-12-22 00:05:00",
+        "sentiment_score": -0.3201056942343712
+    },
+    {
+        "title": "Blessd anunció gran concierto en el Atanasio Girardot para cerrar su tour por Colombia: “Mi primer estadio en Medellín”",
+        "image_url": "https://www.infobae.com/resizer/v2/6HHZXSHPSJCMVCRLRB6UGL22EQ.jpg?auth=47dde114ae58899d0ad69a301587a967bd5674c3d9ca338ac5ab735a91767e97&height=1080&smart=true&width=1920",
+        "tags": [
+            "colombia-noticias",
+            "conciertos en medellín",
+            "medellín",
+            "colombia-entretenimiento",
+            "estadio atanasio girardot",
+            "el bendito",
+            "el mejor hombre del mundo tour",
+            "blessd"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/12/22/blessd-anuncio-gran-concierto-en-el-atanasio-girardot-para-cerrar-su-tour-por-colombia-mi-primer-estadio-en-medellin/",
+        "date": "2025-12-22 00:02:57",
+        "sentiment_score": 0.8179403580725193
+    },
+    {
+        "title": "23:00 | 21 DIC 2025 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/23-00-21-dic-2025-juego-20251222_3275570.html",
+        "date": "2025-12-21 23:22:40",
+        "sentiment_score": 0.5031455419957638
     }
 ];
