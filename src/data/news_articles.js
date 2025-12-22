@@ -1,236 +1,5 @@
 export default [
     {
-        "title": "Con doblete de Mbappé, Real Madrid resuelve un enredo inesperado en la Copa del Rey",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/343aaae/2147483647/strip/true/crop/2061x1082+0+146/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe9%2F7a%2Fa36f138449c19f353ab86f45d8d5%2F2860fd4ce9814ada8a58482a5c68b413.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-17/con-doblete-de-mbappe-real-madrid-resuelve-un-enredo-inesperado-en-la-copa-del-rey",
-        "date": "2025-12-18 01:06:08",
-        "sentiment_score": 0.0524405837059021
-    },
-    {
-        "title": "Lo mejor de la música en 2025: el 'Wozzeck' de Afkham y el triunfo de la ópera contemporánea española",
-        "image_url": "https://s3.elespanol.com/2025/12/16/actualidad/1003744057863_260510340_1706x960.jpg",
-        "tags": [
-            "el cultural - lo mejor de 2025",
-            "música",
-            "música clásica"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251218/mejor-musica-wozzeck-afkham-triunfo-opera-contemporanea-espanola/1003744057823_0.html",
-        "date": "2025-12-18 00:55:00",
-        "sentiment_score": 0.41491834819316864
-    },
-    {
-        "title": "'Emergency Exit': una fantasía sobre la muerte que será la última película de Marisa Paredes",
-        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744060343_260542379_1706x960.jpg",
-        "tags": [
-            "cine",
-            "estrenos de cine"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/cine/20251218/emergency-exit-fantasia-muerte-ultima-pelicula-marisa-paredes/1003744060316_0.html",
-        "date": "2025-12-18 00:55:00",
-        "sentiment_score": -0.024413034319877625
-    },
-    {
-        "title": "Davide Ancelotti abandona el banquillo del Botafogo tras 5 meses en el cargo",
-        "image_url": "https://www.infobae.com/resizer/v2/YYHVI3LKEZAJZDCBYECFLIG6KM.JPG?auth=8f57193eba295f9e3b7d868b79080b08ca9ca72eb5c15cee7119ada4c92e2751&height=3180&smart=true&width=4770",
-        "tags": [
-            "davide ancelotti",
-            "brasil",
-            "españa-noticias",
-            "real madrid",
-            "fútbol",
-            "españa-deportes",
-            "botafogo"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/18/davide-ancelotti-abandona-el-banquillo-del-botafogo-tras-5-meses-en-el-cargo/",
-        "date": "2025-12-18 00:47:41",
-        "sentiment_score": -0.8093234058469534
-    },
-    {
-        "title": "17 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/17-dic-2025-partidazo-cope-20251218_3273544.html",
-        "date": "2025-12-18 00:37:30",
-        "sentiment_score": -0.2461521178483963
-    },
-    {
-        "title": "Mario Alberto Yepes narró los secretos del famoso túnel de Riquelme en un Superclásico",
-        "image_url": "https://www.infobae.com/resizer/v2/ZHZ5VOVLRBAZTLM7N3VXBXYUVU.png?auth=db1a56d23faaf25c189b654259f9c44969d56d9d1e11cf1445f9b6190dad808b&height=770&smart=true&width=1200",
-        "tags": [
-            "superclásico",
-            "clásico",
-            "colombia-deportes",
-            "boca juniors",
-            "juan román riquelme",
-            "mario alberto yepes",
-            "river plate"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/12/18/mario-alberto-yepes-narro-los-secretos-del-famoso-tunel-de-riquelme-en-un-superclasico/",
-        "date": "2025-12-18 00:35:33",
-        "sentiment_score": 0.1891629844903946
-    },
-    {
-        "title": "La familia orensana de Vivián: «Le mandé un mensaje, 'ven con taco largo'»",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/12/17/primos-kXjE-RIVyk470DELn5h3LvwlKkzO-758x531@El%20Correo.jpg",
-        "tags": [
-            "athletic de bilbao",
-            "daniel vivian"
-        ],
-        "link": "https://www.elcorreo.com/athletic/familia-orensana-vivian-mande-mensaje-ven-taco-20251217005937-nt.html",
-        "date": "2025-12-17 23:59:37",
-        "sentiment_score": -0.17888393253087997
-    },
-    {
-        "title": "2a PARTE | 17 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-17-dic-2025-partidazo-cope-20251218_3273527.html",
-        "date": "2025-12-17 23:48:18",
-        "sentiment_score": -0.7535727769136429
-    },
-    {
-        "title": "El insólito gesto de Mastantuono tras un pase de Mbappé que despertó críticas en la victoria de Real Madrid: “¿Qué hizo?”",
-        "image_url": "https://www.infobae.com/resizer/v2/J26XAME4BFGN3E2R4CY735M63Q.jpg?auth=d895256602b994e90cd5a77e5398ab2a194b0ae4c0c6d2141177596277518722&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-argentina",
-            "kylian mbappé",
-            "copa del rey",
-            "talavera",
-            "real madrid",
-            "franco mastantuono"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/17/el-insolito-gesto-de-mastantuono-tras-un-pase-de-mbappe-que-desperto-criticas-en-la-victoria-de-real-madrid-que-hizo/",
-        "date": "2025-12-17 23:47:34",
-        "sentiment_score": 0.3718602731823921
-    },
-    {
-        "title": "El italiano Davide Ancelotti deja el Botafogo",
-        "image_url": "https://www.infobae.com/resizer/v2/WGUV3ARFCZHADB5MF27UEOEUPQ.jpg?auth=aa362202d8b993953262ec44e2be19c4ead6810b34a7fb7789cefc35d6228fab&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/17/el-italiano-davide-ancelotti-deja-el-botafogo/",
-        "date": "2025-12-17 23:45:17",
-        "sentiment_score": -0.4511310011148453
-    },
-    {
-        "title": "El emotivo posteo del fisioterapeuta de Franco Colapinto que fue clave en su preparación en la F1",
-        "image_url": "https://www.infobae.com/resizer/v2/S7C753FTBVBYPJGDHMGRYTI6DI.gif?auth=3a97bb4c70f59bea8cccb17c52e058bd4e4c3fb1f9fbf4c3b4ca6fa62361cc9d&height=608&smart=true&width=1080",
-        "tags": [
-            "franco colapinto",
-            "miguel presencia",
-            "alpine f1 team",
-            "fórmula 1"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/18/el-emotivo-posteo-del-fisioterapeuta-de-franco-colapinto-que-fue-clave-en-su-preparacion-en-la-f1/",
-        "date": "2025-12-18 02:07:29",
-        "sentiment_score": 0.14590108022093773
-    },
-    {
-        "title": "Juanma, nacido en Barcelona",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "nacido",
-            "juanma"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/juanma-nacido-barcelona_0_2005481807.html",
-        "date": "2025-12-18 02:06:22",
-        "sentiment_score": -0.08050315082073212
-    },
-    {
-        "title": "Los escalofriantes detalles del asesinato de Mario Pineida, futbolista del Barcelona de Ecuador: “Fue un ataque dirigido”",
-        "image_url": "https://www.infobae.com/resizer/v2/4DXXMENTN5G23JNHPUPAERWAIE.jpg?auth=870ea3e7bcbebc71ee9cbb11a13966ca060c81d9cf2b2301e62fa45366333993&height=2537&smart=true&width=4510",
-        "tags": [
-            "deportes-internacional",
-            "barcelona de ecuador",
-            "mario pineida",
-            "ecuador",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/18/los-escalofriantes-detalles-del-asesinato-de-mario-pineida-futbolista-del-barcelona-de-ecuador-fue-un-ataque-dirigido/",
-        "date": "2025-12-18 01:36:06",
-        "sentiment_score": -0.5975443199276924
-    },
-    {
-        "title": "ING planea doblar su negocio global de inversión en cinco años y sitúa a España como mercado prioritario",
-        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744060249_260541294_1706x960.jpg",
-        "tags": [
-            "ing",
-            "fondos de inversión",
-            "banca"
-        ],
-        "link": "https://www.elespanol.com/invertia/mis-finanzas/fondos-de-inversion/20251218/ing-planea-doblar-negocio-global-inversion-anos-situa-espana-mercado-prioritario/1003744060237_0.html",
-        "date": "2025-12-18 01:31:20",
-        "sentiment_score": 0.28385765105485916
-    },
-    {
-        "title": "La cadena de descuento Action apuesta por España: prevé abrir cerca de 40 tiendas en 2026 y no descarta llegar a las islas",
-        "image_url": "https://s3.elespanol.com/2025/12/15/actualidad/1003744055500_260481681_1706x960.jpg",
-        "tags": [
-            "distribución",
-            "action"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/distribucion/20251218/cadena-descuento-action-apuesta-espana-preve-abrir-cerca-tiendas-no-descarta-llegar-islas/1003744055424_0.html",
-        "date": "2025-12-18 01:30:58",
-        "sentiment_score": 0.6688865721225739
-    },
-    {
-        "title": "Granada y Zaragoza, las primeras ciudades en presentar su candidatura para alojar la Agencia Estatal de Salud Pública",
-        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744060345_260542400_1706x960.jpg",
-        "tags": [
-            "sanidad - política sanitaria",
-            "sanidad - actualidad sanitaria",
-            "observatorio de la sanidad"
-        ],
-        "link": "https://www.elespanol.com/invertia/observatorios/sanidad/20251218/granada-zaragoza-primeras-ciudades-presentar-candidatura-alojar-agencia-estatal-salud-publica/1003744060216_0.html",
-        "date": "2025-12-18 01:10:00",
-        "sentiment_score": 0.46425427682697773
-    },
-    {
-        "title": "Joyería hip-hop con acento barcelonés",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/13/693dd00532fbf.r_d.2095-1243-1114.jpeg",
-        "tags": [
-            "emprendedores"
-        ],
-        "link": "https://www.lavanguardia.com/economia/emprendedores/20251218/11360712/joyeria-hip-hop-gold-dealers.html",
-        "date": "2025-12-18 01:00:00",
-        "sentiment_score": 0.6626644572243094
-    },
-    {
-        "title": "Seat y España se alzan como grandes beneficiados de la prórroga de la UE",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/67985ea5cb7d72f8f692050ab1c3b152/crop/65x23/1973x1295/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/17/17659976281593.jpg",
-        "tags": [
-            "sostenibilidad>",
-            "motor>",
-            "artículos carlos drake>",
-            "empresas>"
-        ],
-        "link": "https://www.expansion.com/empresas/motor/2025/12/18/6942fd53e5fdeaf45a8b45f2.html",
-        "date": "2025-12-18 00:57:17",
-        "sentiment_score": 0.006062932312488556
-    },
-    {
-        "title": "Los mejores discos nacionales de 2025: Rosalía lidera el año entre gigantes, gorilas y sanguijuelas",
-        "image_url": "https://s3.elespanol.com/2025/10/30/actualidad/1003743992808_260491183_1706x960.jpg",
-        "tags": [
-            "discos música",
-            "el cultural - lo mejor de 2025",
-            "música"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251218/mejores-discos-nacionales-rosalia-lidera-ano-gigantes-gorilas-sanguijuelas/1003744056133_0.html",
-        "date": "2025-12-18 00:55:00",
-        "sentiment_score": 0.8025687765330076
-    },
-    {
         "title": "Florentino se rinde: Xabi es el mejor escudo y la solución menos mala",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/91f9df83-0c45-484a-85d7-478106d0df58_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2799,5 +2568,205 @@ export default [
         "link": "https://www.lanzadigital.com/provincia/sanchez-paris-un-ciudadrealeno-que-pasara-a-formar-parte-de-la-red-euro-iberoamericana-de-alumni-de-yuste/",
         "date": "2025-12-21 06:00:00",
         "sentiment_score": 0.014401555061340332
+    },
+    {
+        "title": "Villarreal 0 - Barcelona 2 : Los catalanes cierran el año con una importante victoria",
+        "image_url": "https://pxcdn.meridiano.net/122025/1766335502976.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/villarreal---barcelona-en-vivo-flick-pone-su-confianza-en-ferran-torres--2025122111100",
+        "date": "2025-12-21 17:14:00",
+        "sentiment_score": 0.6419097632169724
+    },
+    {
+        "title": "El Barça logra el triunfo de siempre en La Cerámica y cierra el año en lo más alto de la tabla",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/21/694826b9b370d.r_d.1421-469-6250.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251221/barca-logra-triunfo-siempre-ceramica-cierra-ano-alto-tabla_367651.html",
+        "date": "2025-12-21 17:09:47",
+        "sentiment_score": 0.8665844816714525
+    },
+    {
+        "title": "El Barça asalta La Cerámica, pone tierra de por medio con el Villarreal y cierra el año con el liderato de La Liga",
+        "image_url": "https://s3.elespanol.com/2025/12/21/actualidad/1003744065122_260606809_1706x960.jpg",
+        "tags": [
+            "la liga",
+            "deportes",
+            "fc barcelona",
+            "fútbol",
+            "villarreal cf"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251221/barca-asalta-ceramica-pone-tierra-medio-villarreal-cierra-ano-liderato-liga/1003744065016_0.html",
+        "date": "2025-12-21 17:09:23",
+        "sentiment_score": 0.3849268853664398
+    },
+    {
+        "title": "Muere Celso Bugallo, uno de los grandes secundarios del cine español",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/21/Bugallo-RUUXahUNCw0B6p6N1jSEyXJ-1200x840@RC.jpg",
+        "tags": [
+            "festival internacional de cine de san sebastián",
+            "premios goya",
+            "pontevedra (provincia)"
+        ],
+        "link": "https://www.leonoticias.com/culturas/muere-celso-bugallo-grandes-secundarios-20251221175336-ntrc.html",
+        "date": "2025-12-21 17:08:52",
+        "sentiment_score": -0.2895224690437317
+    },
+    {
+        "title": "Niños de San Ildefonso, felices de estar en el Sorteo: \"Mola mucho, cantar es bonito y una experiencia única\"",
+        "image_url": "http://st1.lacerca.com/imagenes/view/5f63b0e239a613c84080497845f275ae.jpg",
+        "tags": [
+            "noticias",
+            "castilla-la mancha"
+        ],
+        "link": "https://turismo.lacerca.com/noticias/castilla_la_mancha/ninos-san-ildefonso-sorteo-cantar-bonito-experiencia-unica-795728-1.html",
+        "date": "2025-12-21 17:06:00",
+        "sentiment_score": 0.10918281972408295
+    },
+    {
+        "title": "Estos son los entrenadores de La Liga más y menos atractivos según la ciencia, y hay sorpresas",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f0151004-1db0-4bca-88e4-da6b240ce1c0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "liga",
+            "atractivos",
+            "segun",
+            "entrenadores",
+            "ciencia",
+            "sorpresas"
+        ],
+        "link": "https://www.noticiasdenavarra.com/buzz-on/2025/12/21/entrenadores-liga-atractivos-segun-ciencia-sorpresas-10499633.html",
+        "date": "2025-12-21 17:00:42",
+        "sentiment_score": -0.022344186902046204
+    },
+    {
+        "title": "Lotería.- El sorteo de Navidad 2025 reparte este lunes 2.772 millones de euros en premios, 70 millones más",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251221175254_690.jpg",
+        "tags": [
+            "castilla-la mancha"
+        ],
+        "link": "https://www.europapress.es/castilla-lamancha/noticia-loteria-sorteo-navidad-2025-reparte-lunes-2772-millones-euros-premios-70-millones-mas-20251221175254.html",
+        "date": "2025-12-21 16:52:54",
+        "sentiment_score": 0.24470747262239456
+    },
+    {
+        "title": "Diego Pablo Simeone: \"El 100 no alcanza contra Real Madrid y Barcelona por distintas situaciones\"",
+        "image_url": "https://www.infobae.com/resizer/v2/7ALVUTRILJG2VNTFUP5AL5MBGI.jpg?auth=d1a55f47a23e63c81f743d509c468f2839ce0183c5981cf1bc02f277b6f82be5&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/21/diego-pablo-simeone-el-100-no-alcanza-contra-real-madrid-y-barcelona-por-distintas-situaciones/",
+        "date": "2025-12-21 16:45:55",
+        "sentiment_score": -0.5743009075522423
+    },
+    {
+        "title": "Vinicius echa más sal en la herida del Real Madrid",
+        "image_url": "https://cflvdg.avoz.es/sc/LmF07m0ZFd7lCGCFjzirWOfTvhs=/768x/2025/12/21/00121766335202053911221/Foto/eup_20251220_214608285.jpg",
+        "tags": [
+            "xabi alonso",
+            "deportes",
+            "real madrid",
+            "vinicius",
+            "florentino pérez"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/21/vinicius-echa-sal-herida-real-madrid/00031766335202174164529.htm",
+        "date": "2025-12-21 16:44:00",
+        "sentiment_score": -0.9003854859620333
+    },
+    {
+        "title": "Cada castellanomanchego gastará 86,47 euros para el Sorteo de Navidad frente a los 76,08 de media en el país",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251221173637_690.jpg",
+        "tags": [
+            "castilla-la mancha"
+        ],
+        "link": "https://www.europapress.es/castilla-lamancha/noticia-cada-castellanomanchego-gastara-8647-euros-sorteo-navidad-frente-7608-media-pais-20251221173637.html",
+        "date": "2025-12-21 16:36:37",
+        "sentiment_score": 0.056113436818122864
+    },
+    {
+        "title": "Catalunya comerá el día de Navidad con nubes y lluvia, y con tormentas en el Empordà",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a98777ea-1dc7-431b-a2f0-875c9864a940_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tiempo"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251221/cataluna-dia-navidad-nubes-lluvia-tiempo-125025470",
+        "date": "2025-12-21 17:11:19",
+        "sentiment_score": -0.08636315166950226
+    },
+    {
+        "title": "Imanes por 7 euros, tazas por 12 y cantimploras por 18: estos son los precios de la nueva tienda del metro de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/15/vivir-en-barcelona/1003742716160_15513072_1706x960.jpg",
+        "tags": [
+            "vivir en barcelona",
+            "metro barcelona",
+            "curiosidades",
+            "transports metropolitans barcelona tmb"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251221/imanes-euros-tazas-cantimploras-precios-nueva-tienda-metro-barcelona/1003742718139_0.html",
+        "date": "2025-12-21 17:09:54",
+        "sentiment_score": 0.43363656662404537
+    },
+    {
+        "title": "La Papanoelada Motera Solidaria congrega a 2.000 personas en Barcelona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6cfe6c5f-ef46-4b8d-b7a7-c5a5aac62d75_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "motos",
+            "barcelona",
+            "montjuïc"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20251221/2-000-motos-participan-papanoelada-barcelona-125025369",
+        "date": "2025-12-21 17:07:43",
+        "sentiment_score": 0.34462697990238667
+    },
+    {
+        "title": "Alberola Rojas pone cuesta arriba la posibilidad del Villarreal de ser campeón de invierno",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aa180f55-7b27-45b2-b0dc-39e4641ab573_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "villarreal cf,villarreal,invierno,fc barcelona,levante ud,la cerámica,lamine yamal,renato veiga"
+        ],
+        "link": "https://www.superdeporte.es/villarreal-cf/2025/12/21/alberola-rojas-posibilidad-villarreal-terminar-campeon-invierno-125022014.html",
+        "date": "2025-12-21 17:01:03",
+        "sentiment_score": -0.044962719082832336
+    },
+    {
+        "title": "Un gran restaurante para comidas en grupo frente al mar en Barcelona",
+        "image_url": "https://static1.ara.cat/clip/79ad8f89-25af-4d1a-899b-acdefd8b575a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "grupo",
+            "restaurante",
+            "mar",
+            "gran",
+            "comidas",
+            "barcelona",
+            "frente"
+        ],
+        "link": "https://es.ara.cat/comer/gran-restaurante-comidas-grupo-frente-mar-barcelona_1_5599142.html",
+        "date": "2025-12-21 17:00:46",
+        "sentiment_score": 0.026371538639068604
+    },
+    {
+        "title": "Cinco proyectos cinematográficos de Castellón consiguen apoyo del Ministerio de Cultura",
+        "image_url": "https://castellondiario.com/wp-content/uploads/2025/12/cinco-proyectos-cinematograficos-de-castellon-reciben-financiacion-estatal-para-llegar-a-la-gran-pantalla.jpg",
+        "tags": [
+            "provincia",
+            "cine",
+            "gobierno"
+        ],
+        "link": "https://castellondiario.com/cinco-proyectos-cinematograficos-de-castellon-consiguen-apoyo-del-ministerio-de-cultura/",
+        "date": "2025-12-21 16:57:02",
+        "sentiment_score": 0.290423858910799
+    },
+    {
+        "title": "Semana Deportiva: Los margariteños lideran la pelota criolla",
+        "image_url": "https://static.wixstatic.com/media/335561_7343b4a896f14cf28785e741e82f466a~mv2.jpg/v1/fit/w_700,h_470,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/semana-deportiva-13",
+        "date": "2025-12-21 14:10:27",
+        "sentiment_score": 0.641560647636652
     }
 ];
