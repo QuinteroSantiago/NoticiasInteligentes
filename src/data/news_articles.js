@@ -1,231 +1,5 @@
 export default [
     {
-        "title": "Grupotec factura 306 millones de euros en 2025 y augura crecer al 7%",
-        "image_url": "https://www.economiadigital.es/valencia/wp-content/uploads/sites/2/2025/12/Olallo-Villold_presidente-Grupotec-1000x665.jpeg",
-        "tags": [
-            "empresas"
-        ],
-        "link": "https://www.economiadigital.es/valencia/empresas/grupotec-factura-306-millones-euros-2025-crecer-7.html",
-        "date": "2025-12-18 17:08:40",
-        "sentiment_score": 0.2498936504125595
-    },
-    {
-        "title": "La fiscal general considera que la reforma de la Lecrim no puede demorarse para garantizar una Justicia más ágil",
-        "image_url": "https://www.infobae.com/resizer/v2/KESK5UEV2FHNNKZXHTJEMLZSOY.jpg?auth=c23d5ccdd4a7c6603615e6726e10e8bc55aee1ed279cad42b15ed198af1efd33&height=1279&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/18/la-fiscal-general-considera-que-la-reforma-de-la-lecrim-no-puede-demorarse-para-garantizar-una-justicia-mas-agil/",
-        "date": "2025-12-18 17:01:31",
-        "sentiment_score": 0.2659735530614853
-    },
-    {
-        "title": "Palencia ya tiene su particular 'bosque románico'",
-        "image_url": "https://s3.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/18/AGUILARbosqueromanicoNURIAESTALAYO%20(18)-kJrH-U240601791978xzF-758x531@El%20Norte.jpg",
-        "tags": [
-            "aguilar de campoo",
-            "románico",
-            "fundación santa maría la real",
-            "palencia",
-            "isabel blanco llamas",
-            "junta de castilla y león",
-            "castilla y león"
-        ],
-        "link": "https://www.elnortedecastilla.es/palencia/palencia-particular-bosque-romanico-20251218180059-nt.html",
-        "date": "2025-12-18 17:01:00",
-        "sentiment_score": 0.05864329636096954
-    },
-    {
-        "title": "La fiscal general considera que la reforma de la Lecrim no puede demorarse para garantizar una Justicia más ágil",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251218173840.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/la-fiscal-general-considera-que-la-reforma-de-la-lecrim-no-puede-demorarse-para-garantizar-una-justicia-ms-gil/",
-        "date": "2025-12-18 17:00:12",
-        "sentiment_score": -0.26822976768016815
-    },
-    {
-        "title": "Una nutricionista del Real Madrid denuncia la situación que vivió dentro del club: “Se reían de mí y se burlaban en los grupos de WhatsApp”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "fútbol",
-            "acoso",
-            "españa-deportes",
-            "real madrid",
-            "españa-noticias",
-            "acoso laboral",
-            "fútbol españa",
-            "nutrición"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/12/18/una-nutricionista-del-real-madrid-denuncia-la-situacion-que-vivio-dentro-del-club-se-reian-de-mi-y-se-burlaban-en-los-grupos-de-whatsapp/",
-        "date": "2025-12-18 16:56:25",
-        "sentiment_score": -0.7306697927415371
-    },
-    {
-        "title": "La Navidad de 2025 trae nieve, lluvias y más frío de lo normal, hasta 5oC menos, según Meteored y eltiempo.es",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/EuropaPress_7115208_paseantes_cubiertos_nieve_llegada_masa_aire_artico_21_noviembre_2025-scaled.jpg",
-        "tags": [
-            "el tiempo",
-            "castilla-la mancha"
-        ],
-        "link": "https://www.lanzadigital.com/castilla-la-mancha/la-navidad-de-2025-trae-nieve-lluvias-y-mas-frio-de-lo-normal-hasta-5oc-menos-segun-meteored-y-eltiempo-es/",
-        "date": "2025-12-18 16:55:31",
-        "sentiment_score": -0.09005934000015259
-    },
-    {
-        "title": "Guía brilla en el Teatro Real de Madrid por su excelencia en Educación Europea",
-        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2025/12/18/Eva%20Surez%20y%20Lourdes%20Manzanera%20(derecha)-kxlH-U2406023481158VG-1200x840@Canarias7.jpg",
-        "tags": [
-            "unión europea",
-            "santa maría de guía de gran canaria",
-            "programa erasmus",
-            "educación"
-        ],
-        "link": "https://www.canarias7.es/canarias/gran-canaria/guia-brilla-teatro-real-madrid-excelencia-educacion-20251218175436-nt.html",
-        "date": "2025-12-18 16:54:37",
-        "sentiment_score": 0.6268343701958656
-    },
-    {
-        "title": "Tráfico prevé 3,8 millones de viajes por carreteras de Castilla-La Mancha en Navidad",
-        "image_url": "https://www.clm24.es/media/clm24/images/2025/07/30/2025073016434162773.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.clm24.es/articulo/sociedad/trafico-preve-38-millones-viajes-carreteras-castilla-mancha-navidad/20251218175126466473.html",
-        "date": "2025-12-18 16:51:26",
-        "sentiment_score": 0.2640389911830425
-    },
-    {
-        "title": "Juanma Castaño señala un detalle de Xabi Alonso al finalizar el Talavera - Real Madrid: \"Se ha quedado como ido\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/18/69433f4511697.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/juanma-castano-senala-detalle-xabi-alonso-finalizar-talavera-real-madrid-quedado-ido-20251218_3273523.html",
-        "date": "2025-12-18 16:47:14",
-        "sentiment_score": -0.10180851817131042
-    },
-    {
-        "title": "El mensaje de Endrick en redes sociales que apunta a despedida del Real Madrid",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/18/69442f2c6cb5b.r_d.1392-563-1434.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mensaje-endrick-redes-sociales-apunta-despedida-real-madrid-20251218_3274259.html",
-        "date": "2025-12-18 16:44:26",
-        "sentiment_score": -0.15645256638526917
-    },
-    {
-        "title": "Diez detenidos por empadronamientos fraudulentos en varios municipios del Maresme",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/18/6944349da7878.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/diez-detenidos-empadronamientos-fraudulentos-municipios-maresme-20251218_3274273.html",
-        "date": "2025-12-18 17:08:58",
-        "sentiment_score": -0.5371516644954681
-    },
-    {
-        "title": "Un grupo de inversores suizos y estadounidenses compran el hotel The Hoxton de Barcelona a Norlake",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/18/694432d8383e87-04973495.jpeg",
-        "tags": [
-            "empresas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/empresas/suizos-estadounidenses-compran-hotel-hoxton-barcelona-norlake_6912446_0.html",
-        "date": "2025-12-18 17:03:22",
-        "sentiment_score": 0.012171261012554169
-    },
-    {
-        "title": "Confirmado por el Gobierno: si tienes menos de 26 años podrás viajar por toda España por 30€ al mes a partir de esta fecha",
-        "image_url": "https://s3.elespanol.com/2025/06/23/actualidad/1003743817138_256711064_1706x960.jpg",
-        "tags": [
-            "gobierno de españa",
-            "renfe",
-            "sociedad",
-            "soft",
-            "transportes"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251218/confirmado-gobierno-anos-podras-viajar-toda-espana-mes-partir-fecha/1003744058258_0.html",
-        "date": "2025-12-18 17:02:58",
-        "sentiment_score": -0.21129509061574936
-    },
-    {
-        "title": "Nace el nuevo Barts Festival de Barcelona con Beat, Belle & Sebastian, ZZ Top y Joan Dausà",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251218180257_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-nace-nuevo-barts-festival-barcelona-beat-belle-sebastian-zz-top-joan-dausa-20251218180257.html",
-        "date": "2025-12-18 17:02:57",
-        "sentiment_score": 0.08019419386982918
-    },
-    {
-        "title": "De 1 a 4 millones; HOMEnFUN revoluciona la gestión turística con tecnología, diseño y rentabilidad",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7776878",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5709397/1-4-millones-homenfun-revoluciona-gestion-turistica-tecnologia-diseno-rentabilidad",
-        "date": "2025-12-18 17:02:03",
-        "sentiment_score": 0.5766973532736301
-    },
-    {
-        "title": "El fuerte viento obliga a desviar once vuelos en el Aeropuerto de Bilbao",
-        "image_url": "https://s01.europapress.net/imagenes/estaticos/OpenGraph_EP_1024x512.jpg",
-        "tags": [
-            "país vasco"
-        ],
-        "link": "https://www.europapress.es/euskadi/noticia-fuerte-viento-obliga-desviar-once-vuelos-aeropuerto-bilbao-20251218180150.html",
-        "date": "2025-12-18 17:01:50",
-        "sentiment_score": -0.7176074050366879
-    },
-    {
-        "title": "MSC Cruceros abre las ventas de su vuelta al mundo de 2028",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251218171322-1.jpg?fit=1920%2C1394&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/msc-cruceros-abre-las-ventas-de-su-vuelta-al-mundo-de-2028/",
-        "date": "2025-12-18 17:00:09",
-        "sentiment_score": 0.44842134043574333
-    },
-    {
-        "title": "Eurofirms nombra a Anna Golsa consejera delegada global en sustitución al fundador Miquel Jordà",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251218174103.jpg?fit=1600%2C1200&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/eurofirms-nombra-a-anna-golsa-consejera-delegada-global-en-sustitucin-al-fundador-miquel-jord/",
-        "date": "2025-12-18 17:00:06",
-        "sentiment_score": 0.07897236943244934
-    },
-    {
-        "title": "Iberia lanza una ficción sonora por Navidad interpretada por actores, empleados y el CEO de la compañía",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251218172136.jpg?fit=1920%2C1080&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/iberia-lanza-una-ficcin-sonora-por-navidad-interpretada-por-actores-empleados-y-el-ceo-de-la-compaa/",
-        "date": "2025-12-18 17:00:04",
-        "sentiment_score": 0.09290891885757446
-    },
-    {
-        "title": "Mendieta (51), exfutbolista, sobre su inversión en un avión: \"En 5 años, un 40% o 50% de jugadores están en bancarrota\"",
-        "image_url": "https://s3.elespanol.com/2019/05/24/elbernabeu/400971337_123707464_1706x960.jpg",
-        "tags": [
-            "fútbol",
-            "valencia cf",
-            "fc barcelona",
-            "tendencias deportes",
-            "negocios",
-            "aviones"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251218/mendieta-exfutbolista-inversion-avion-anos-jugadores-bancarrota/1003744060472_0.html",
-        "date": "2025-12-18 17:00:00",
-        "sentiment_score": -0.46276702359318733
-    },
-    {
         "title": "Cuándo es el sorteo de octavos de la Copa del Rey 2025/26: equipos clasificados, bombos y dónde ver en TV y online",
         "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744061803_260561346_1706x960.jpg",
         "tags": [
@@ -3014,5 +2788,211 @@ export default [
         "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/23-00-21-dic-2025-juego-20251222_3275570.html",
         "date": "2025-12-21 23:22:40",
         "sentiment_score": 0.5031455419957638
+    },
+    {
+        "title": "Lotería de Navidad 2025 en directo: última hora del Sorteo de El Gordo",
+        "image_url": "https://static.eldiario.es/clip/aa2264e0-8d6a-4d6b-a72f-596a1b0138eb_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "loteria",
+            "navidad",
+            "hora",
+            "sorteo",
+            "2025",
+            "directo",
+            "ultima",
+            "gordo"
+        ],
+        "link": "https://www.eldiario.es/loteria-de-navidad/loteria-navidad-2025-directo-ultima-hora-sorteo-gordo_6_12857388.html",
+        "date": "2025-12-22 06:39:57",
+        "sentiment_score": -0.05382123589515686
+    },
+    {
+        "title": "Lotería de Navidad 2025 en directo, última hora: los asistentes hacen cola en el Teatro Real",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/22/CEE06B11-F56C-4EF2-950B-88EF751C89E0/loteria-navidad-2025-directo-ultima-hora-esperando-gordo_98.jpg?crop=1486%2C836%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "loterías",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/comprobar-loteria-navidad-2025-directo-ultima-hora-premios-reintegro-pedrea-resultados-22-diciembre_202512226948e033ea66eb73531b72d0.html",
+        "date": "2025-12-22 06:38:50",
+        "sentiment_score": 0.26721939258277416
+    },
+    {
+        "title": "El Teatro Real abre sus puertas con todo listo para el sorteo de la Lotería de Navidad 2025",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/EuropaPress_7183419_asistentes_sorteo_extraordinario_loteria_navidad_2025_puertas_teatro_real.jpg",
+        "tags": [
+            "lotería de navidad",
+            "sociedad"
+        ],
+        "link": "https://www.lanzadigital.com/sociedad/el-teatro-real-abre-sus-puertas-con-todo-listo-para-el-sorteo-de-la-loteria-de-navidad-2025/",
+        "date": "2025-12-22 06:38:00",
+        "sentiment_score": -0.06351032853126526
+    },
+    {
+        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"Descalabro del PSOE y premio para el PP y Vox en Extremadura\"",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
+        "tags": [
+            "españa",
+            "noticias",
+            "ondacero"
+        ],
+        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-descalabro-psoe-premio-vox-extremadura_202512226948e5e722f0db7daffa81b8.html",
+        "date": "2025-12-22 06:32:07",
+        "sentiment_score": 0.16316413134336472
+    },
+    {
+        "title": "Quién es Sandra Daviú: su edad, su pareja y biografía de la presentadora de la Lotería en RTVE",
+        "image_url": "https://okdiario.com/img/2025/12/19/sandra-daviu..jpg",
+        "tags": [
+            "lotería nacional",
+            "happyfm",
+            "televisión española (tve)"
+        ],
+        "link": "https://okdiario.com/happyfm/quien-sandra-daviu-edad-pareja-biografia-presentadora-loteria-rtve-15964478",
+        "date": "2025-12-22 06:30:59",
+        "sentiment_score": 0.28629736602306366
+    },
+    {
+        "title": "¿Cuándo acaba el Sorteo de Lotería de Navidad 2025?",
+        "image_url": "https://okdiario.com/img/2023/12/15/hasta-que-hora-dura-el-sorteo-de-la-loteria-de-navidad-y-cuando-sale-el-gordo.jpg",
+        "tags": [
+            "lotería",
+            "navidad",
+            "lotería de navidad"
+        ],
+        "link": "https://okdiario.com/loteria-navidad/hasta-que-hora-dura-sorteo-loteria-navidad-8316480",
+        "date": "2025-12-22 06:30:48",
+        "sentiment_score": 0.09970109164714813
+    },
+    {
+        "title": "A qué hora empieza la Lotería de Navidad 2025 y dónde ver el sorteo en directo por TV y online en vivo",
+        "image_url": "https://okdiario.com/img/2025/12/15/horario-donde-ver-loteria-navidad-2025.jpg",
+        "tags": [
+            "lotería de navidad"
+        ],
+        "link": "https://okdiario.com/loteria-navidad/que-hora-empieza-loteria-navidad-2025-donde-ver-sorteo-directo-tv-online-vivo-15939193",
+        "date": "2025-12-22 06:30:29",
+        "sentiment_score": 0.08984105288982391
+    },
+    {
+        "title": "Nadie da crédito pero la ‘paguilla’ de diciembre vuelve: vas a cobrar más de 1.500 euros",
+        "image_url": "https://okdiario.com/img/2025/12/21/imagen_recortada-13.jpg",
+        "tags": [
+            "economía",
+            "pensiones",
+            "funcionarios",
+            "okd"
+        ],
+        "link": "https://okdiario.com/economia/nadie-da-credito-pero-paguilla-diciembre-vuelve-vas-cobrar-mas-1-500-euros-15959074",
+        "date": "2025-12-22 06:30:13",
+        "sentiment_score": -0.35250529646873474
+    },
+    {
+        "title": "Las administraciones de Alicante que más suerte reparten en la lotería de Navidad: 10 premios de El Gordo en 5 años",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/12c4d5aa-d5ae-43e1-9eda-ae811b5d8b74_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lotería de navidad",
+            "premios",
+            "el gordo",
+            "sorteo de navidad"
+        ],
+        "link": "https://www.informacion.es/alicante/2025/12/22/administracion-loteria-provincia-alicante-premios-seguidos-gordo-navidad-124841572.html",
+        "date": "2025-12-22 06:30:00",
+        "sentiment_score": -0.04387742280960083
+    },
+    {
+        "title": "Sorteo de Lotería de Navidad 2025, en directo",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/LUYHTCC2RNEXZLLRZ56OS6KWXA.png?auth=eb9b193a28f32b9ab8a0c55f015bae07771a95ebaedc14c6181fabb16b3065b3&width=1200",
+        "tags": [
+            "lotería navidad",
+            "navidad",
+            "fiestas",
+            "sociedad",
+            "juego",
+            "españa",
+            "lotería nacional",
+            "premios lotería",
+            "eventos",
+            "juegos azar",
+            "lotería"
+        ],
+        "link": "https://elpais.com/loteria-de-navidad/2025-12-22/sorteo-del-gordo-de-la-loteria-de-navidad-en-directo-decimos-premios-y-pedreas-en-la-lista-oficial.html",
+        "date": "2025-12-22 06:30:00",
+        "sentiment_score": 0.29445473849773407
+    },
+    {
+        "title": "Lo que debes saber hoy, 22 de diciembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/07/12/vivir-en-barcelona/1003742673272_14861103_1706x960.jpg",
+        "tags": [
+            "rodalies",
+            "metro barcelona",
+            "coches",
+            "autobús",
+            "clima",
+            "gran barcelona",
+            "renfe barcelona",
+            "transporte",
+            "transports metropolitans barcelona tmb",
+            "tráfico"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251222/debes-saber-hoy-diciembre-barcelona/1003742718222_0.html",
+        "date": "2025-12-22 06:33:08",
+        "sentiment_score": 0.16234580613672733
+    },
+    {
+        "title": "Iñaki Unsain advierte a quien busca alquiler: “Hay una auténtica ‘guerra’ entre inquilinos en las ciudades”",
+        "image_url": "https://s3.elespanol.com/2025/06/03/actualidad/1003743786517_256123830_1706x960.jpg",
+        "tags": [
+            "alquiler de viviendas",
+            "soft",
+            "sociedad",
+            "vivienda"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251222/inaki-unsain-advierte-busca-alquiler-autentica-guerra-inquilinos-ciudades/1003744049006_0.html",
+        "date": "2025-12-22 06:30:03",
+        "sentiment_score": -0.8902835454791784
+    },
+    {
+        "title": "Las tres mejores series de Marta Belmonte ('Sueños de libertad') para ver en Navidad",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/files/fp/uploads/2025/12/19/694519716dd61.r_d.662-418-10000.webp",
+        "tags": [
+            "series y tv"
+        ],
+        "link": "https://www.lavozdealmeria.com/series-y-tv/418205/tres-mejores-series-marta-belmonte-suenos-libertad-ver-navidad.html",
+        "date": "2025-12-22 06:30:00",
+        "sentiment_score": 0.8862556917592883
+    },
+    {
+        "title": "Mara Rolli Grau, campeona de España con el FACSA Playas de Castellón a lo grande",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7e1fe6be-31e0-4674-b913-434172e07ec1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "atletas",
+            "selección",
+            "europa",
+            "tavernes de la valldigna",
+            "atletismo",
+            "españa",
+            "europeo",
+            "mundial",
+            "campeonato",
+            "playas",
+            "la safor"
+        ],
+        "link": "https://www.levante-emv.com/safor/2025/12/22/mara-rolli-grau-campeona-espana-125037586.html",
+        "date": "2025-12-22 06:24:54",
+        "sentiment_score": 0.7252062596380711
+    },
+    {
+        "title": "El día que Florentino quiso despedir a Zidane en el descanso de un partido de Champions",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd6204ed-10c3-4e7a-9146-778945bcbc08_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "xabi alonso",
+            "real madrid",
+            "florentino pérez"
+        ],
+        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/22/dia-florentino-quiso-despedir-zidane-descanso-real-madrid-125037351.html",
+        "date": "2025-12-22 06:06:37",
+        "sentiment_score": -0.2682434618473053
     }
 ];
