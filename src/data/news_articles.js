@@ -1,226 +1,5 @@
 export default [
     {
-        "title": "17:00H | 19 DIC 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-19-dic-2025-tarde-20251219_3275154.html",
-        "date": "2025-12-19 17:08:00",
-        "sentiment_score": -0.45851027965545654
-    },
-    {
-        "title": "Nuevo hito en el proceso de modernización del Museo de Covadonga: estas son todas las novedades",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ad68fb56-71ab-4418-8e02-f0a831e32cb6_16-9-aspect-ratio_default_0_x1530y394.jpg",
-        "tags": [
-            "fundación",
-            "covadonga",
-            "proyecto",
-            "asturias",
-            "patrimonio"
-        ],
-        "link": "https://www.lne.es/oriente/2025/12/19/nuevo-hito-proceso-modernizacion-museo-124972514.html",
-        "date": "2025-12-19 17:07:18",
-        "sentiment_score": 0.40193313360214233
-    },
-    {
-        "title": "Televisiones y radios ofrecen este lunes especiales con motivo de la celebración del sorteo de Navidad 2025",
-        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
-        "tags": [
-            "castilla-la mancha",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/televisiones-radios-lunes-especiales-celebracion-sorteo-navidad-2025-795615-1.html",
-        "date": "2025-12-19 17:07:00",
-        "sentiment_score": 0.23340176045894623
-    },
-    {
-        "title": "La Junta de Personal Docente insta a la Junta y al ayuntamiento a firmar un acuerdo de colaboración",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/12/19/trepalio-tejado.jpg",
-        "tags": [
-            "san andrés del rabanedo"
-        ],
-        "link": "https://www.leonoticias.com/alfoz/sanandresdelrabanedo/junta-personal-docente-insta-junta-ayuntamiento-firmar-20251219180422-nt.html",
-        "date": "2025-12-19 17:04:39",
-        "sentiment_score": -0.05344654619693756
-    },
-    {
-        "title": "Televisiones y radios ofrecen este lunes especiales con motivo de la celebración del sorteo de Navidad 2025",
-        "image_url": "https://www.infobae.com/resizer/v2/LAVLAEFYMVB2PAWPR3R7N42ZOU.jpg?auth=4c36b9635bf1486b0dd6535d78c94df756809537755bec2b9d2254d2f18d1f47&height=1352&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/19/televisiones-y-radios-ofrecen-este-lunes-especiales-con-motivo-de-la-celebracion-del-sorteo-de-navidad-2025/",
-        "date": "2025-12-19 17:00:53",
-        "sentiment_score": 0.14325204119086266
-    },
-    {
-        "title": "Los 'Segundas' quieren abrirse paso con una gran campanada en la Copa del Rey",
-        "image_url": "https://www.infobae.com/resizer/v2/R6OGRRDN3ZDVZGH2ORSZFM4DT4.jpg?auth=38d8ccd00b302857d939b7e0e4c9e7844e56ce65993cdee2f564c56d0c5ad056&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/19/los-segundas-quieren-abrirse-paso-con-una-gran-campanada-en-la-copa-del-rey/",
-        "date": "2025-12-19 17:00:34",
-        "sentiment_score": 0.5058804079890251
-    },
-    {
-        "title": "Catalonia Hotels & Resorts compra a Meridia dos hoteles en Barcelona y Málaga",
-        "image_url": "https://forbes.es/wp-content/uploads/2025/12/fotonoticia_20251219173257_1920-1200x675.jpg",
-        "tags": [
-            "economía",
-            "última hora"
-        ],
-        "link": "https://forbes.es/economia/848903/catalonia-hotels-resorts-compra-a-meridia-dos-hoteles-en-barcelona-y-malaga/",
-        "date": "2025-12-19 17:00:16",
-        "sentiment_score": 0.09773916751146317
-    },
-    {
-        "title": "Catalonia adquiere el hotel Molina Lario, su tercer establecimiento en Málaga",
-        "image_url": "https://static.grupojoly.com/clip/3d19bc6c-5184-4746-8489-9476d0e196fc_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "turismo málaga",
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/catalonia-adquiere-hotel-molina-lario-malaga_0_2005491298.html",
-        "date": "2025-12-19 16:58:13",
-        "sentiment_score": -0.06084827333688736
-    },
-    {
-        "title": "Meridia vende dos hoteles en Barcelona y Málaga a Catalonia Hotels & Resorts",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/19/business/1003742717730_15533366_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "hoteles",
-            "business",
-            "meridia capital",
-            "turismo",
-            "barcelona",
-            "málaga"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20251219/meridia-hoteles-barcelona-malaga-catalonia-hotels-resorts/1003742717723_0.html",
-        "date": "2025-12-19 16:55:38",
-        "sentiment_score": 0.28160006552934647
-    },
-    {
-        "title": "Lotería de Navidad 2025: hasta qué día y a qué hora se podrán comprar los décimos",
-        "image_url": "https://www.infobae.com/resizer/v2/DBXDKJWP5RC33HDIYUHVRAQHVU.jpg?auth=0cd88a414a961024b5c365441835db8ced5a4bd6910ab548e4c4470b961e0d75&height=1314&smart=true&width=1920",
-        "tags": [
-            "lotería de navidad",
-            "loterias y apuestas del estado",
-            "lotería",
-            "españa-loterías",
-            "lotería navidad",
-            "lotería navidad 2025",
-            "décimos",
-            "el gordo de la loteria de navidad",
-            "españa-noticias",
-            "españa-sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/19/loteria-de-navidad-2025-hasta-que-dia-y-a-que-hora-se-podran-comprar-los-decimos/",
-        "date": "2025-12-19 16:54:20",
-        "sentiment_score": -0.44898339733481407
-    },
-    {
-        "title": "El dardo de un ex portero del Barcelona a Ter Stegen: «El club toma decisiones que hay que respetar»",
-        "image_url": "https://okdiario.com/img/2025/12/19/ter-stegen-en-un-calentamiento-con-el-barcelona.-europa-press.jpg",
-        "tags": [
-            "ter stegen",
-            "deportes",
-            "fc barcelona",
-            "barcelona"
-        ],
-        "link": "https://okdiario.com/deportes/dardo-ex-portero-del-barcelona-ter-stegen-club-toma-decisiones-que-hay-que-respetar-15963874",
-        "date": "2025-12-19 17:09:42",
-        "sentiment_score": -0.09361326694488525
-    },
-    {
-        "title": "'Razones y contradicciones', la nueva gira de Cobardes",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/cd9b4f69-4442-4f7b-a930-8efeff89e9f6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cobardes",
-            "nueva",
-            "gira",
-            "razones",
-            "contradicciones"
-        ],
-        "link": "https://www.noticiasdenavarra.com/cultura/2025/12/19/razones-contradicciones-nueva-gira-cobardes-10494546.html",
-        "date": "2025-12-19 17:08:47",
-        "sentiment_score": -0.0378907173871994
-    },
-    {
-        "title": "El número de detenidos por yihadismo alcanza por primera vez el centenar desde el año del 11-M",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/QJREHQIILRF75HYMT7CCO6RNDQ.jpg?auth=b083ef641f7cdc16aa1f6d888f7700c04d975445905bd50a7e9ac558bfbb7e68&width=1200",
-        "tags": [
-            "policía nacional",
-            "guardia civil",
-            "detención terroristas",
-            "ministerio del interior",
-            "españa",
-            "yihadismo",
-            "detenciones",
-            "11-m"
-        ],
-        "link": "https://elpais.com/espana/2025-12-19/el-numero-de-detenidos-por-yihadismo-alcanza-por-primera-vez-el-centenar-desde-el-ano-del-11-m.html",
-        "date": "2025-12-19 17:06:31",
-        "sentiment_score": -0.4265360087156296
-    },
-    {
-        "title": "La «dama sin rostro» que donó un millón de pesetas para que la Sagrada Familia de Barcelona no sea «una iglesita»",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2025/12/04/6931bdf9acb64.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.eldebate.com/espana/cataluna/barcelona/20251219/dama-rostro-dono-millon-pesetas-sagrada-familia-barcelona-no-sea-iglesita_367375.html",
-        "date": "2025-12-19 17:02:20",
-        "sentiment_score": -0.7677036132663488
-    },
-    {
-        "title": "El pleno de Barcelona aprueba el Plan de Usos del distrito de Sant Martí que amplía la limitación de nuevos bares musicales y discotecas",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/19/694581ae04a67.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/pleno-barcelona-aprueba-plan-usos-distrito-sant-marti-amplia-limitacion-nuevos-bares-musicales-discotecas-20251219_3275150.html",
-        "date": "2025-12-19 17:01:57",
-        "sentiment_score": -0.0027996301651000977
-    },
-    {
-        "title": "Las investigaciones no logran esclarecer el origen del brote de peste porcina",
-        "image_url": "https://static.infolibre.es/clip/f46887b2-0cca-4247-9bed-9da84d1865e8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "política",
-            "barcelona",
-            "cataluña",
-            "salud",
-            "ministerio de agricultura",
-            "sanidad"
-        ],
-        "link": "https://www.infolibre.es/politica/investigaciones-curso-no-logran-esclarecer-origen-brote-peste-porcina_1_2117546.html",
-        "date": "2025-12-19 17:00:30",
-        "sentiment_score": -0.1804417073726654
-    },
-    {
-        "title": "Confirmado un nuevo jabalí muerto por PPA dentro del radio del primer foco",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251219170203-1.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/confirmado-un-nuevo-jabal-muerto-por-ppa-dentro-del-radio-del-primer-foco-2/",
-        "date": "2025-12-19 17:00:12",
-        "sentiment_score": -0.33616726845502853
-    },
-    {
-        "title": "La Cursa dels Nassos cubre 13.000 inscripciones",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/19/694580b7a9e5e.r_d.1639-301-1433.jpeg",
-        "tags": [
-            "esports cope"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/cursa-dels-nassos-cubre-13-000-inscripciones-20251219_3275148.html",
-        "date": "2025-12-19 16:59:29",
-        "sentiment_score": -0.00473359227180481
-    },
-    {
         "title": "El Real Oviedo se aferra al 'efecto Almada'",
         "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/19/209513737-kYNB--1200x840@El%20Comercio.jpg",
         "tags": [
@@ -3161,5 +2940,124 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251223/volantazo-laporta-oculta-camp-nou-boulevard-ubicacion/1003742718546_0.html",
         "date": "2025-12-23 00:06:43",
         "sentiment_score": 0.7182957138866186
+    },
+    {
+        "title": "Un diamante en bruto y un fondo de salida: las claves de la venta del mayor propietario cotizado de hoteles de cinco estrellas",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a268d1b-ee3a-489f-8811-74c63b0fc3d0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "hoteles",
+            "fondos de inversión",
+            "sector inmobiliario",
+            "bolsa",
+            "mercado inmobiliario"
+        ],
+        "link": "https://www.lacronicabadajoz.com/economia/2025/12/23/claves-venta-millenium-hoteles-125077782.html",
+        "date": "2025-12-23 06:18:37",
+        "sentiment_score": 0.07316175103187561
+    },
+    {
+        "title": "Endrick jugará en el Lyon para salvar su sueño mundialista",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/23081233/Captura-de-pantalla-2025-12-23-080923.png",
+        "tags": [
+            "endrick",
+            "real madrid",
+            "deportes",
+            "fútbol",
+            "lyon"
+        ],
+        "link": "https://www.elnacional.com/2025/12/endrick-jugara-en-el-lyon-para-salvar-su-sueno-mundialista/",
+        "date": "2025-12-23 06:16:00",
+        "sentiment_score": 0.14979170262813568
+    },
+    {
+        "title": "El Real Madrid se polariza: la grada apoya a Xabi y Florentino respalda a Vinícius",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/38f396f1-030a-40e2-927f-d8b8b58c9f7b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "florentino pérez",
+            "real madrid",
+            "fútbol",
+            "vinicius",
+            "xabi alonso"
+        ],
+        "link": "https://www.elcorreogallego.es/deportes/2025/12/23/real-madrid-polariza-grada-vinicius-xabi-alonso-florentino-perez-125077549.html",
+        "date": "2025-12-23 06:10:15",
+        "sentiment_score": -0.5470281019806862
+    },
+    {
+        "title": "El consejo de Gonzalo Bernardos para gastar menos estas Navidades: \"Menos marisco, menos ternera y más...\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/16/69418336b9d4a3-58066066.r_d.921-619.jpeg",
+        "tags": [
+            "economía y finanzas"
+        ],
+        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/consejo-gonzalo-bernardos-para-gastar-menos-estas-navidades-menos-marisco-menos-ternera-mas_6913723_0.html",
+        "date": "2025-12-23 06:34:02",
+        "sentiment_score": -0.040870219469070435
+    },
+    {
+        "title": "Tres sentencias avalan el plan de Barcelona para limitar los alojamientos turísticos",
+        "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://es.investing.com/news/stock-market-news/tres-sentencias-avalan-el-plan-de-barcelona-para-limitar-los-alojamientos-turisticos-3445510",
+        "date": "2025-12-23 06:33:36",
+        "sentiment_score": -0.6091952845454216
+    },
+    {
+        "title": "Todo lo que quiso saber para ser un buen anticuario y nunca se atrevió a preguntar",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2023/11/28/C7369154-BE93-487B-9A6F-34FDD733043D/artur-ramon-fotografiado-ayer-barcelona_69.jpg?crop=6000%2C3375%2Cx0%2Cy330&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/todo-que-quiso-saber-ser-buen-anticuario-nunca-atrevio-preguntar_20251223694a349daf09df501091ac32.html",
+        "date": "2025-12-23 06:20:13",
+        "sentiment_score": 0.5073812901973724
+    },
+    {
+        "title": "Dani Alves vuelve al fútbol tras comprar un club en Portugal y ficharse a sí mismo",
+        "image_url": "https://www.elplural.com/uploads/s1/21/27/32/7/europapress-2495273-dani-alves-portrait-during-the-2019-formula-one-world-championship-brazil_7_480x270.jpeg",
+        "tags": [
+            "el regate"
+        ],
+        "link": "https://www.elplural.com/el-regate/dani-alves-vuelve-futbol-comprar-club-portugal-ficharse-si-mismo_368121102",
+        "date": "2025-12-23 06:19:30",
+        "sentiment_score": 0.09242501854896545
+    },
+    {
+        "title": "Artillería pesada",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5b2a5d5a-3712-44c5-8d00-f0f4b68bb100_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pesada",
+            "artilleria"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/23/artilleria-pesada-10505391.html",
+        "date": "2025-12-23 06:17:46",
+        "sentiment_score": -0.14320486783981323
+    },
+    {
+        "title": "Iris Tió, una histórica sirena de oro",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2a0bab6-e802-42cd-afc8-967476acce9a_16-9-aspect-ratio_default_0_x944y617.jpg",
+        "tags": [
+            "natación sincronizada"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2025/12/23/iris-tio-historica-sirena-oro-125077745.html",
+        "date": "2025-12-23 06:16:56",
+        "sentiment_score": -0.12868160009384155
+    },
+    {
+        "title": "Naufragio en las áreas",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a25a75da-3c15-46c1-9b0d-78a4ff37d528_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "areas",
+            "espanyol",
+            "san mames",
+            "naufragio"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/12/23/naufragio-areas-10506324.html",
+        "date": "2025-12-23 06:13:43",
+        "sentiment_score": -0.751170240342617
     }
 ];
