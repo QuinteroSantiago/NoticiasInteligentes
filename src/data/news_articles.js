@@ -1,172 +1,5 @@
 export default [
     {
-        "title": "«El 22 de diciembre Abascal saldrá corriendo de Extremadura»",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/18/maria-guardiola-elecciones-extremadura-pp%20(1)-kmU-U240601638023HC-758x531@Hoy.jpg",
-        "tags": [
-            "extremadura",
-            "maría guardiola"
-        ],
-        "link": "https://www.hoy.es/elecciones/extremadura/entrevista-maria-guardiola-pp-abascal-elecciones-en-extremadura-20251219203842-nt.html",
-        "date": "2025-12-19 06:33:08",
-        "sentiment_score": 0.4411422275006771
-    },
-    {
-        "title": "La Peña Madridista Los Molinos cumple ¡24 años de historia!",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/17/6942c6b319866.jpeg",
-        "tags": [
-            "galerías"
-        ],
-        "link": "https://www.lavozdealmeria.com/galerias/416686/pena-madridista-molinos-cumple-24-anos-historia.html",
-        "date": "2025-12-19 06:33:05",
-        "sentiment_score": 0.4413643777370453
-    },
-    {
-        "title": "El futbolista que más puntos ha dado al Almería",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/18/69440ad1dd86b.jpeg",
-        "tags": [
-            "jugadores"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/jugadores/417685/futbolista-puntos-dado-almeria.html",
-        "date": "2025-12-19 06:32:55",
-        "sentiment_score": 0.3031829074025154
-    },
-    {
-        "title": "Juanma Castaño, sobre la tensión entre Real Madrid y Barcelona: \"La guerra va a más y el lenguaje se está recrudeciendo; como haya un Clásico en enero con la Supercopa...\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/juanma-castano-sobre-tension-real-madrid-barcelona-guerra-lenguaje-recrudeciendo-haya-clasico-enero-supercopa-20251219_3274357.html",
-        "date": "2025-12-19 06:24:56",
-        "sentiment_score": -0.18753550946712494
-    },
-    {
-        "title": "Abu Dabi negocia la compra de Millenium, el mayor propietario cotizado de hoteles de cinco estrellas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bedab259-148b-4fd6-b4a5-261f9008f114_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "abu dabi",
-            "emiratos árabes",
-            "inversión",
-            "sevilla",
-            "hoteles",
-            "san sebastián",
-            "cnmv",
-            "opa",
-            "mercado inmobiliario",
-            "bilbao",
-            "madrid",
-            "hotel",
-            "bolsa",
-            "sector inmobiliario"
-        ],
-        "link": "https://www.eldia.es/economia/2025/12/19/abu-dabi-compra-opa-millenium-124950531.html",
-        "date": "2025-12-19 06:18:41",
-        "sentiment_score": -0.04267680644989014
-    },
-    {
-        "title": "Lo que debes saber hoy, 19 de diciembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/03/vivir-en-barcelona/1003742712950_15474166_1706x960.jpg",
-        "tags": [
-            "transports metropolitans barcelona tmb",
-            "tráfico",
-            "clima",
-            "renfe barcelona",
-            "transporte",
-            "rodalies",
-            "coches",
-            "gran barcelona",
-            "metro barcelona",
-            "autobús"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251219/debes-saber-hoy-diciembre-barcelona/1003742717457_0.html",
-        "date": "2025-12-19 06:30:41",
-        "sentiment_score": -0.2908029556274414
-    },
-    {
-        "title": "El precio más alto de la gasolina hoy en Madrid, Barcelona y otras ciudades de España este 19 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "gasolina",
-            "españa-economia",
-            "noticias",
-            "precio gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/19/el-precio-mas-alto-de-la-gasolina-hoy-en-madrid-barcelona-y-otras-ciudades-de-espana-este-19-de-diciembre/",
-        "date": "2025-12-19 06:30:34",
-        "sentiment_score": -0.22392894327640533
-    },
-    {
-        "title": "Un jamón de 70 meses de curación... y 1.200 : estos son los secretos para alcanzar tal longevidad y tal precio",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5fcf9c4c-b055-47ee-ad51-25edae44a20b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gastronomía",
-            "barcelona",
-            "qué comer hoy"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/20251219/jamon-iberico-bellota-70-meses-curacion-reserva-iberica-123870757",
-        "date": "2025-12-19 06:21:20",
-        "sentiment_score": -0.20175960659980774
-    },
-    {
-        "title": "3 buenos restaurantes de Barcelona para el fin de semana: La Plata, Chambacú y Veraz",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/263dbe8a-9214-46b5-ad06-67d2ff422363_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dónde comer hoy",
-            "restaurante",
-            "restaurantes barcelona",
-            "barcelona",
-            "gastronomía"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251219/buenos-restaurantes-barcelona-plata-chambacu-veraz-124832260",
-        "date": "2025-12-19 06:19:42",
-        "sentiment_score": -0.2884330675005913
-    },
-    {
-        "title": "En estos 3 sitios de Barcelona preparan unas lentejas sensacionales que te alegrarán el fin de semana",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5d370494-c4e0-4aea-89b7-f043dd1f930d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "dónde comer hoy",
-            "restaurante",
-            "restaurantes barcelona",
-            "barcelona",
-            "gastronomía",
-            "qué comer hoy"
-        ],
-        "link": "https://www.elperiodico.com/es/gastronomia/restaurantes/20251219/mejores-lentejas-barcelona-restaurantes-contracorrent-bistro-capet-jiribilla-124835123",
-        "date": "2025-12-19 06:17:23",
-        "sentiment_score": 0.7878035418689251
-    },
-    {
-        "title": "Ferrari confirma la fecha de presentación de su auto para la F1",
-        "image_url": "https://mundonow.com/wp-content/uploads/2025/12/shutterstock_1132465508-550x367.jpg",
-        "tags": [
-            "hogar y auto"
-        ],
-        "link": "https://mundonow.com/ferrari-confirma-la-fecha-de-presentacion-de-su-auto-para-la-f1/",
-        "date": "2025-12-19 06:16:11",
-        "sentiment_score": 0.4089990220963955
-    },
-    {
-        "title": "De 'El Día de la Bestia' a 'Barrio': así suena Extremoduro en el cine",
-        "image_url": "https://www.elplural.com/uploads/s1/21/25/43/0/robe-iniesta-li-der-de-extremoduro-ep_7_480x270.jpeg",
-        "tags": [
-            "playtime"
-        ],
-        "link": "https://www.elplural.com/playtime/dia-bestia-barrio-suena-extremoduro-cine_367898102",
-        "date": "2025-12-19 06:04:55",
-        "sentiment_score": -0.04459446668624878
-    },
-    {
-        "title": "Javi Puado, cada vez más cerca de volver: ¿Athletic o Barça?",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/09/puado-espanyol-valencia-2-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/javi-puado-vuelta-lesion-espanyol-athletic-barcelona/",
-        "date": "2025-12-19 06:00:49",
-        "sentiment_score": -0.8669751416891813
-    },
-    {
         "title": "Las cambiantes justificaciones de Donald Trump sobre Venezuela y los ataques en el Caribe",
         "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/buques-petroleros-venezuela.jpg",
         "tags": [
@@ -2933,5 +2766,190 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251222/tiroteo-plena-luz-dia-castelldefels-hombre-mata-huye-policia/1003742718472_0.html",
         "date": "2025-12-22 17:02:01",
         "sentiment_score": -0.7631283272057772
+    },
+    {
+        "title": "\"Podemos decir que a todos nos ha tocado la lotería, lo recaudado en impuestos...\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/12/22/6949c1d42a959.jpeg",
+        "tags": [
+            "clases de economía"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/clases-de-economia/audios/carlos-cruzado-tecnico-hacienda-decir-todos-tocado-loteria-recaudado-impuestos-destina-gastos-publicos-20251222_3276227.html",
+        "date": "2025-12-22 22:19:30",
+        "sentiment_score": -0.037714630365371704
+    },
+    {
+        "title": "Competencia aprueba la polémica propuesta de pago a las redes eléctricas tras el informe del Consejo de Estado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5376611a-28a0-43a5-b42a-f03b63d77ab7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "redes",
+            "energía"
+        ],
+        "link": "https://www.laopiniondemalaga.es/economia/2025/12/22/competencia-aprueba-propuesta-pago-redes-electricas-consejo-estado-125073788.html",
+        "date": "2025-12-22 22:08:54",
+        "sentiment_score": 0.15620018541812897
+    },
+    {
+        "title": "La CNMC aprueba la retribución a las redes eléctricas manteniendo su tasa del 6,58%",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/22/68d1775957ed4.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20251222/11388765/cnmc-aprueba-retribucion-redes-electricas-manteniendo-tasa-6-58.html",
+        "date": "2025-12-22 21:40:40",
+        "sentiment_score": 0.17321619391441345
+    },
+    {
+        "title": "Karanka: \"Si alguien es capaz de enderezar la situación del Real Madrid es Xabi Alonso\"",
+        "image_url": "https://www.infobae.com/resizer/v2/KUMMDVT6DFC6BBBGBABWYUQKYM.jpg?auth=4a37895ea3ff8d29709ba1b3fbd43e41b10fed69e3248734e0b69ef13ac978a6&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/22/karanka-si-alguien-es-capaz-de-enderezar-la-situacion-del-real-madrid-es-xabi-alonso/",
+        "date": "2025-12-22 21:15:51",
+        "sentiment_score": -0.16726256906986237
+    },
+    {
+        "title": "21:00H | 22 DIC 2025 | La Linterna",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/horas-completas/21-00h-22-dic-2025-linterna-20251222_3276217.html",
+        "date": "2025-12-22 21:07:00",
+        "sentiment_score": -0.07394582033157349
+    },
+    {
+        "title": "Los esperpentos de la ballena de Sol: el negocio publicitario que transforma el 'Kilómetro 0' de Madrid en un anuncio",
+        "image_url": "https://static.eldiario.es/clip/e3205aac-f598-4f72-8982-7ed691ce8357_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "kilometro",
+            "esperpentos",
+            "anuncio",
+            "publicitario",
+            "transforma",
+            "madrid",
+            "negocio",
+            "sol",
+            "ballena",
+            "0"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/esperpentos-ballena-sol-negocio-publicitario-transforma-kilometro-0-madrid-anuncio_1_12762794.html",
+        "date": "2025-12-22 20:58:06",
+        "sentiment_score": -0.04306963086128235
+    },
+    {
+        "title": "Un año de cambios gracias a proyectos culturales con impacto",
+        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/22/reale1-ki4H-U240639457584NDE-1200x840@El%20Norte.jpg",
+        "tags": [
+            "realidad virtual",
+            "atapuerca",
+            "seguros",
+            "cultura"
+        ],
+        "link": "https://www.leonoticias.com/promocionales/ano-cambios-gracias-proyectos-culturales-impacto-20251223215732-nt.html",
+        "date": "2025-12-22 20:57:32",
+        "sentiment_score": 0.6345964595675468
+    },
+    {
+        "title": "Tebas se pronuncia sobre la 'guerra' abierta entre Florentino Pérez y Laporta",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/22/6949b00d889bc.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tebas-pronuncia-sobre-guerra-abierta-florentino-perez-laporta-barcelona-genera-crispacion-real-madrid-20251222_3276213.html",
+        "date": "2025-12-22 20:56:10",
+        "sentiment_score": -0.1592055857181549
+    },
+    {
+        "title": "El 90693, muy repartido, deja la mayor parte del premio en Santa Fe e Igorre",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/12/22/celebracion-en-vizcaya-de-la-loteria.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/12/22/el-90693-muy-repartido-deja-la-mayor-parte-del-premio-en-santa-fe-e-igorre-1880863-daa.html",
+        "date": "2025-12-22 20:55:19",
+        "sentiment_score": -0.18096134066581726
+    },
+    {
+        "title": "Rusia y China apoyan a Venezuela ante los ataques de EEUU",
+        "image_url": "https://static1.ara.cat/clip/ebe92e76-52ab-459a-96af-652d292eda7c_16-9-aspect-ratio_default_0_x1634y783.jpg",
+        "tags": [
+            "venezuela",
+            "ataques",
+            "rusia",
+            "apoyan",
+            "eeuu",
+            "china"
+        ],
+        "link": "https://es.ara.cat/internacional/america/rusia-china-apoyan-venezuela-ataques-eeuu_1_5600378.html",
+        "date": "2025-12-22 22:06:37",
+        "sentiment_score": -0.5498011782765388
+    },
+    {
+        "title": "La última \"hostia\" del año del Espanyol de Manolo González",
+        "image_url": "https://static1.ara.cat/clip/7241ba26-8042-4dbe-ae60-4c4e7e035db0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ultima",
+            "gonzalez",
+            "ano",
+            "espanyol",
+            "manolo",
+            "hostia"
+        ],
+        "link": "https://es.ara.cat/deportes/rcd-espanyol/ultima-hostia-ano-espanyol-manolo-gonzalez_1_5600374.html",
+        "date": "2025-12-22 21:54:18",
+        "sentiment_score": 0.41016922891139984
+    },
+    {
+        "title": "Collboni pone el acento en las personas mayores en el 25o ‘Canta Gran!’: \"Barcelona no sería lo que es\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/22/vivir-en-barcelona/1003742718567_15544220_1706x960.jpg",
+        "tags": [
+            "ayuntamiento de barcelona",
+            "vivir en barcelona",
+            "jaume collboni",
+            "navidad barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251222/collboni-pone-acento-personas-mayores-canta-gran-barcelona-no/1003742718566_0.html",
+        "date": "2025-12-22 21:50:11",
+        "sentiment_score": 0.5007655695080757
+    },
+    {
+        "title": "Lamine Yamal estrenó su canal de YouTube y revela su nueva faceta como influencer",
+        "image_url": "https://www.infobae.com/resizer/v2/4D5HOVGSV5FHDGIKWSFRXJHQ4Q.jpg?auth=99224ac6732c2955137f560ad62b1a47b652ecf979014d99fb64bfcafc70756e&height=1080&smart=true&width=1920",
+        "tags": [
+            "fc barcelona",
+            "luis díaz",
+            "lamine yamal",
+            "influencer",
+            "dr dre",
+            "canal youtube",
+            "lo último en tecnología",
+            "tecnología-noticias"
+        ],
+        "link": "https://www.infobae.com/tecno/2025/12/22/lamine-yamal-estreno-su-canal-de-youtube-y-revela-su-nueva-faceta-como-influencer/",
+        "date": "2025-12-22 21:37:15",
+        "sentiment_score": 0.22666585445404053
+    },
+    {
+        "title": "El sector del metal de Barcelona sella su convenio colectivo hasta 2027",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/30/el-pulso-de-la-ciudad/1003742702707_15340970_1706x960.jpg",
+        "tags": [
+            "trabajadores",
+            "sindicatos",
+            "el pulso de la ciudad"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20251222/sector-metal-barcelona-sella-convenio-colectivo/1003742718564_0.html",
+        "date": "2025-12-22 21:29:27",
+        "sentiment_score": 0.011840566992759705
+    },
+    {
+        "title": "Rafinha anuncia su retirada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6dce14d1-8108-49d2-a3f0-099ab0c6be97_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fc barcelona,futbol"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/12/22/rafinha-anuncia-retirada-125073214.html",
+        "date": "2025-12-22 21:26:10",
+        "sentiment_score": -0.8142267651855946
     }
 ];
