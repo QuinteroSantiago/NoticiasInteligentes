@@ -1,284 +1,5 @@
 export default [
     {
-        "title": "Cuándo es el sorteo de octavos de la Copa del Rey 2025/26: equipos clasificados, bombos y dónde ver en TV y online",
-        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744061803_260561346_1706x960.jpg",
-        "tags": [
-            "fútbol",
-            "copa del rey de fútbol",
-            "deportes"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251218/sorteo-octavos-copa-rey-equipos-clasificados-bombos-ver-tv-online/1003744061768_0.html",
-        "date": "2025-12-18 22:06:07",
-        "sentiment_score": 0.5006401836872101
-    },
-    {
-        "title": "Estos son los equipos clasificados para los octavos de Copa del Rey y cuándo es el sorteo",
-        "image_url": "https://okdiario.com/img/2025/12/18/copa-del-rey.jpg",
-        "tags": [
-            "deportes",
-            "copa del rey",
-            "fútbol"
-        ],
-        "link": "https://okdiario.com/deportes/estos-son-equipos-clasificados-octavos-copa-del-rey-cuando-sorteo-15958450",
-        "date": "2025-12-18 21:51:12",
-        "sentiment_score": 0.039968281984329224
-    },
-    {
-        "title": "El secreto del éxito de Karlos Arguiñano a sus 77 años: “Siempre pienso en la gente que cobra 1.200 euros al mes”",
-        "image_url": "https://s3.elespanol.com/2025/12/18/bluper/1003744062341_260568529_1706x960.jpg",
-        "tags": [
-            "bluper",
-            "el hormiguero",
-            "pablo motos",
-            "karlos arguiñano"
-        ],
-        "link": "https://www.elespanol.com/bluper/20251218/secreto-exito-karlos-arguinano-anos-siempre-pienso-gente-cobra-euros-mes/1003744062329_0.html",
-        "date": "2025-12-18 21:49:09",
-        "sentiment_score": -0.6205145008862019
-    },
-    {
-        "title": "Maledon evita el naufragio del Real Madrid ante la anarquía parisina",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd8bb5db-7540-4bd8-88a4-91661ce7e7d0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid,baloncesto,euroliga"
-        ],
-        "link": "https://www.elcorreoweb.es/deportes/2025/12/18/real-madrid-paris-baloncesto-euroliga-resumen-resultado-124945191.html",
-        "date": "2025-12-18 21:46:51",
-        "sentiment_score": 0.0013553500175476074
-    },
-    {
-        "title": "Dónde ha caído el bote de 61,5 millones de euros de La Primitiva, el de 1,8 millones de euros de la Bonoloto, y los premios de la ONCE, Eurodreams y Lotería Nacional de hoy jueves 18 de diciembre",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2021/12/17/408B5BA4-CC10-4B44-BF85-5BA300D9F6EC/98.jpg?crop=4953%2C2787%2Cx0%2Cy265&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "loterías"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-caido-bote-615-millones-euros-primitiva-18-millones-euros-bonoloto-premios-once-eurodreams-loteria-nacional-hoy-jueves-18-diciembre_2025121869447e10ea66eb735317dcff.html",
-        "date": "2025-12-18 22:20:00",
-        "sentiment_score": 0.025397788733243942
-    },
-    {
-        "title": "Dos solteros dejan su timidez a un lado y viven un fogoso momento en 'First Dates': \"Me ha sorprendido que fuera tan lanzada\"",
-        "image_url": "https://album.mediaset.es/eimg/2025/12/18/diseno-sin-titulo-2025-12-18t221543-809_a35a.jpg",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.cuatro.com/television/20251218/first-dates-solteros-dejan-timidez-viven-fogoso-momento_18_017903758.html",
-        "date": "2025-12-18 22:19:36",
-        "sentiment_score": -0.3623639941215515
-    },
-    {
-        "title": "Koldo: «En las primarias de 2017 votaron hasta los muertos»",
-        "image_url": "https://okdiario.com/img/2025/12/18/foto-bild-entrevista-koldo-parte-12-interior.jpg",
-        "tags": [
-            "psoe",
-            "pedro sánchez",
-            "gobierno",
-            "koldo garcía",
-            "españa",
-            "josé luis ábalos"
-        ],
-        "link": "https://okdiario.com/espana/koldo-primarias-2017-votaron-hasta-muertos-15882274",
-        "date": "2025-12-18 22:00:06",
-        "sentiment_score": -0.277494840323925
-    },
-    {
-        "title": "Suma Capital prepara un nuevo fondo para pymes de 200 millones de euros",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/3aa0e7aaa7eee2923ed82f84e80c68e7/crop/191x135/1830x1227/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/18/17660886569584.jpg",
-        "tags": [
-            "empresas>",
-            "cataluña>"
-        ],
-        "link": "https://www.expansion.com/catalunya/2025/12/18/694447b5468aeb08408b45bf.html",
-        "date": "2025-12-18 22:00:00",
-        "sentiment_score": 0.0448615700006485
-    },
-    {
-        "title": "El Athletic espera rival en octavos: estas son las opciones",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/04760bba-d1ff-4a09-936f-944a3bb39949_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "athletic",
-            "espera",
-            "copa",
-            "octavos",
-            "rival"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/12/18/athletic-espera-rival-octavos-copa-10490780.html",
-        "date": "2025-12-18 21:46:14",
-        "sentiment_score": -0.08795188367366791
-    },
-    {
-        "title": "Sàmper se reúne con el alcalde de Sallent para buscar alternativas a la planta de ICL",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/be859096-4a0e-4e69-b29c-4d9400d526fe_16-9-aspect-ratio_default_1422803.jpg",
-        "tags": [
-            "empresas",
-            "sallent"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20251218/samper-reune-alcalde-sallent-buscar-alternativas-planta-icl-124945835",
-        "date": "2025-12-18 21:45:45",
-        "sentiment_score": -0.12158097326755524
-    },
-    {
-        "title": "La Lotería deja un importante premio en el Intercambiador de Santa Cruz Tenerife (y no es el único en las Islas)",
-        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2025/12/loteria-intercambiador-1024x597.jpg",
-        "tags": [
-            "sociedad",
-            "portada",
-            "portada apertura 1"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2025/12/loteria-intercambiador-santa-cruz/",
-        "date": "2025-12-18 21:44:38",
-        "sentiment_score": 0.08421128988265991
-    },
-    {
-        "title": "Orriols abre hoy sede en Barcelona en su plan para hundir a Junts en 2027: 4.000 nuevos militantes y asaltar los cuatro \"estandartes nacionalistas\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
-        "tags": [
-            "nlpremium",
-            "artículos víctor mondelo"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2025/12/18/69444412fdddffcf3b8b45c0.html",
-        "date": "2025-12-18 21:44:38",
-        "sentiment_score": -0.8473134506493807
-    },
-    {
-        "title": "Los nuevos robots del 'rey de los tractores' que cambiarán el campo: autónomos y ahorran un 50% de agua y fertilizantes",
-        "image_url": "https://s3.elespanol.com/2025/12/18/omicrono/tecnologia/1003744060938_260549636_1706x960.jpg",
-        "tags": [
-            "innovación",
-            "vehículo eléctrico",
-            "agricultura",
-            "tecnología",
-            "robótica"
-        ],
-        "link": "https://www.elespanol.com/omicrono/tecnologia/20251219/nuevos-robots-rey-tractores-cambiaran-campo-autonomos-ahorran-agua-fertilizantes/1003744060033_0.html",
-        "date": "2025-12-19 01:58:29",
-        "sentiment_score": 0.6267016716301441
-    },
-    {
-        "title": "Las diez mejores obras de teatro en 2025: una búsqueda de la esencia y la emoción",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052612_260444299_1706x960.jpg",
-        "tags": [
-            "el cultural - lo mejor de 2025",
-            "teatro"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/teatro/20251219/mejores-obras-teatro-busqueda-esencia-emocion/1003744052564_0.html",
-        "date": "2025-12-19 00:55:00",
-        "sentiment_score": 0.16502605378627777
-    },
-    {
-        "title": "Joan Laporta carga contra el Real Madrid: \"Tienen un bodrio de televisión, vomitan mentiras e intoxican\"",
-        "image_url": "https://www.infobae.com/resizer/v2/MRV626SXIVCG3JISD6RWWIGG2A.jpg?auth=d0a1fa2a9adacbfa303c3a3b94f05a1058717ee861e9717c2e5936fe8bd11877&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/19/joan-laporta-carga-contra-el-real-madrid-tienen-un-bodrio-de-television-vomitan-mentiras-e-intoxican/",
-        "date": "2025-12-19 00:45:32",
-        "sentiment_score": -0.9260100247338414
-    },
-    {
-        "title": "El 'fenómeno' Manu Ríos: del grupo Parchís a actor de moda, con 9,5 millones de seguidores y una empresa de moda urbana",
-        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744061038_260551045_1706x960.jpg",
-        "tags": [
-            "instagram",
-            "manu ríos",
-            "cantantes",
-            "netflix",
-            "actores",
-            "famosos",
-            "empresas"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251219/fenomeno-manu-rios-grupo-parchis-actor-moda-millones-seguidores-empresa-urbana/1003744061016_0.html",
-        "date": "2025-12-19 00:33:00",
-        "sentiment_score": 0.29413411021232605
-    },
-    {
-        "title": "El Laporta más encendido carga contra el Real Madrid: \"Tienen un bodrio de televisión, vomitan mentiras e intoxican\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/19/69449a9f9e450.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/laporta-encendido-real-madrid-bodrio-television-vomitan-mentiras-e-intoxican-20251219_3274365.html",
-        "date": "2025-12-19 00:26:48",
-        "sentiment_score": -0.06175577640533447
-    },
-    {
-        "title": "Burgos de segunda división soprende a Getafe, Athletic y Betis avanzan en Copa del Rey",
-        "image_url": "https://www.readingeagle.com/wp-content/uploads/2021/08/readeag.jpg",
-        "tags": [
-            "espanol"
-        ],
-        "link": "https://www.readingeagle.com/2025/12/18/burgos-de-segunda-divisin-soprende-a-getafe-athletic-y-betis-avanzan-en-copa-del-rey/",
-        "date": "2025-12-19 00:10:51",
-        "sentiment_score": -0.36326102912425995
-    },
-    {
-        "title": "Conmoción en Ecuador por la muerte del futbolista Mario Pineida en Guayaquil",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2025/12/18/ecuador-muerte-futbolista-mario-pineida-orix/",
-        "date": "2025-12-19 00:03:49",
-        "sentiment_score": -0.8910231441259384
-    },
-    {
-        "title": "El portero extremeño Danel Castro debuta con la selección española sub-15",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/19/209405804-kEZG--1200x840@Hoy.jpg",
-        "tags": [
-            "extremeno",
-            "portero",
-            "castro",
-            "sub15",
-            "seleccion",
-            "danel",
-            "espanola",
-            "debuta"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/portero-extremeno-danel-castro-debuta-seleccion-espanola-20251219091208-nt.html",
-        "date": "2025-12-19 00:00:00",
-        "sentiment_score": 0.3412521928548813
-    },
-    {
-        "title": "Cataluña cierra el círculo del control de precios de los alquileres",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c5ec876da0e694d95968b36a655485c8/crop/102x26/940x867/f/image/jpeg/assets/multimedia/imagenes/2023/04/17/16817425449512.jpg",
-        "tags": [
-            "covid 19",
-            "erc",
-            "generalitat de cataluña",
-            "salvador illa",
-            "cup",
-            "aliança catalana",
-            "vox",
-            "alquiler",
-            "parlament de cataluña",
-            "tribunal constitucional",
-            "barcelona",
-            "pp",
-            "junts per catalunya",
-            "artículos gerard melgar",
-            "psc",
-            "catalunya en comú"
-        ],
-        "link": "https://www.elmundo.es/economia/vivienda/2025/12/19/69446a85fc6c83f01d8b45ad.html",
-        "date": "2025-12-19 02:03:30",
-        "sentiment_score": 0.3987066000699997
-    },
-    {
-        "title": "Tecnología para la conservación de Sierra Nevada y Sant Llorenç del Munt",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/df8c1a27-75bd-420b-bb0f-48f0ca9132a5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tecnología",
-            "visitantes",
-            "suplemento activos",
-            "naturaleza",
-            "sierra nevada"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/economia/activos/2025/12/19/tecnologia-conservacion-sierra-nevada-sant-124948263.html",
-        "date": "2025-12-19 01:59:53",
-        "sentiment_score": 0.3588332086801529
-    },
-    {
         "title": "«El 22 de diciembre Abascal saldrá corriendo de Extremadura»",
         "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/18/maria-guardiola-elecciones-extremadura-pp%20(1)-kmU-U240601638023HC-758x531@Hoy.jpg",
         "tags": [
@@ -2994,5 +2715,223 @@ export default [
         "link": "https://www.laopiniondemurcia.es/deportes/2025/12/22/dia-florentino-quiso-despedir-zidane-descanso-real-madrid-125037351.html",
         "date": "2025-12-22 06:06:37",
         "sentiment_score": -0.2682434618473053
+    },
+    {
+        "title": "Los famosos también saben lo que se siente cuando toca La Lotería",
+        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/22/letizia-kYuF-U240642379057udC-758x531@El%20Norte.jpg",
+        "tags": [
+            "isabel gemio",
+            "mercedes milá",
+            "pedro sánchez",
+            "famosos",
+            "lotería de navidad"
+        ],
+        "link": "https://www.elnortedecastilla.es/gente-estilo/famosos-saben-siente-toca-loteria-20251222181505-nt.html",
+        "date": "2025-12-22 17:15:33",
+        "sentiment_score": 0.28322451561689377
+    },
+    {
+        "title": "El 70048 llega a Las Palmas de Gran Canaria: cuatro trabajadoras de una firma de moda pellizcan el segundo premio de la Lotería de Navidad en Mesa y López",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06953946-b88a-4a3a-9391-97b5b903d824_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "el corte inglés",
+            "navidad 2025",
+            "las palmas de gran canaria",
+            "las palmas",
+            "isabel",
+            "mesa y lópez",
+            "moda",
+            "lotería de navidad"
+        ],
+        "link": "https://www.laprovincia.es/las-palmas/2025/12/22/70048-llega-palmas-gran-canaria-segundo-premio-loteria-de-navidad-125063910.html",
+        "date": "2025-12-22 17:12:28",
+        "sentiment_score": -0.24946294724941254
+    },
+    {
+        "title": "Los almerienses que se han quedado a un sólo número del tercer premio",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/22/6949781c2c17e.jpeg",
+        "tags": [
+            "adra"
+        ],
+        "link": "https://www.lavozdealmeria.com/provincia/adra/420633/almerienses-han-quedado-numero-tercer-premio.html",
+        "date": "2025-12-22 17:08:30",
+        "sentiment_score": -0.09132921323180199
+    },
+    {
+        "title": "La Audiencia Nacional impone condenas de hasta 8 años cárcel por la pieza de Púnica de contratos energéticos en ayuntamientos de Madrid",
+        "image_url": "https://cflvdg.avoz.es/sc/xOGq_E1P36MX2kiVMI3zuBsF5O8=/768x/2017/11/16/00121510826462833621396/Foto/efe_20171116_092751499.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/espana/2025/12/22/audiencia-nacionalimpone-condenas-8-anos-carcel-pieza-punica-contratos-energeticos-ayuntamientos-madrid/00031766422961023956935.htm",
+        "date": "2025-12-22 17:08:00",
+        "sentiment_score": -0.8529489077627659
+    },
+    {
+        "title": "17:00H | 22 DIC 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-22-dic-2025-tarde-20251222_3276141.html",
+        "date": "2025-12-22 17:07:00",
+        "sentiment_score": -0.3054930567741394
+    },
+    {
+        "title": "Las ventas para el Sorteo de la Lotería de Navidad aumentan un 2,65% en C-LM hasta los 169 millones de euros",
+        "image_url": "https://www.lacerca.com/imagenes/api_seo_43_thumb/8eb7b26e57b57330bf2d13c53febc42b.jpg",
+        "tags": [
+            "noticias",
+            "ciudad real"
+        ],
+        "link": "https://www.lacerca.com/noticias/ciudad_real/ventas-sorteo-loteria-navidad-2-65-169-euros-795920-1.html",
+        "date": "2025-12-22 17:04:00",
+        "sentiment_score": 0.3244146779179573
+    },
+    {
+        "title": "Risto Mejide rinde tributo a Patricia López: \"Perdemos a una gran compañera y España pierde a una gran periodista\"",
+        "image_url": "https://s3.elespanol.com/2025/12/22/actualidad/1003744066654_260625576_1706x960.jpg",
+        "tags": [
+            "todo es mentira - programa de televisión",
+            "risto mejide",
+            "soft",
+            "cuatro",
+            "muertes",
+            "televisión",
+            "bluper"
+        ],
+        "link": "https://www.elespanol.com/bluper/20251222/risto-mejide-rinde-tributo-patricia-lopez-perdemos-gran-companera-espana-pierde-periodista/1003744066504_0.html",
+        "date": "2025-12-22 17:03:35",
+        "sentiment_score": -0.9119716286659241
+    },
+    {
+        "title": "La Audiencia Nacional desactiva el deseo del Arenas",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2fc495db-8ac0-4263-9c50-2ebc5f068166_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "audiencia",
+            "desactiva",
+            "deseo",
+            "nacional",
+            "arenas"
+        ],
+        "link": "https://www.deia.eus/futbol/2025/12/22/audiencia-nacional-desactiva-deseo-arenas-10504983.html",
+        "date": "2025-12-22 17:01:42",
+        "sentiment_score": -0.8086857870221138
+    },
+    {
+        "title": "Operación especial de Tráfico en Navidad: dispositivos, fases y previsiones",
+        "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2024/07/atasco-trafico.jpg",
+        "tags": [
+            "seguridad y seguridad vial"
+        ],
+        "link": "https://www.actualidadmotor.com/operacion-especial-de-trafico-en-navidad-dispositivos-fases-y-previsiones/",
+        "date": "2025-12-22 17:00:01",
+        "sentiment_score": -0.2672743760049343
+    },
+    {
+        "title": "La AN impone condenas de hasta 8 años cárcel por la pieza de Púnica de contratos energéticos en ayuntamientos de Madrid",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251222175735_120.jpg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.europapress.es/nacional/noticia-an-impone-condenas-anos-carcel-pieza-punica-contratos-energeticos-ayuntamientos-madrid-20251222175735.html",
+        "date": "2025-12-22 16:57:35",
+        "sentiment_score": -0.7701354660093784
+    },
+    {
+        "title": "Lamine Yamal debuta como youtuber",
+        "image_url": "https://mundonow.com/wp-content/uploads/2025/12/yamal-youtube.png",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://mundonow.com/lamine-yamal-debuta-como-youtuber/",
+        "date": "2025-12-22 17:15:06",
+        "sentiment_score": 0.6064356714487076
+    },
+    {
+        "title": "78.477 y 25.508, los cuartos del Sorteo de Navidad 2025, reparten suerte a 'veteranos' y 'novatos' por España",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251222181425_690.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.europapress.es/sociedad/noticia-78477-25508-cuartos-sorteo-navidad-2025-reparten-suerte-veteranos-novatos-espana-20251222181425.html",
+        "date": "2025-12-22 17:14:25",
+        "sentiment_score": 0.4093705713748932
+    },
+    {
+        "title": "Muere un hombre tiroteado en plena calle de Castelldefels",
+        "image_url": "https://static1.ara.cat/clip/c391ca92-8427-4bbf-8b15-072825b58656_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tiroteado",
+            "calle",
+            "castelldefels",
+            "plena",
+            "muere",
+            "hombre"
+        ],
+        "link": "https://es.ara.cat/sociedad/sucesos/muere-hombre-tiroteado-plena-calle-castelldefels_1_5600087.html",
+        "date": "2025-12-22 17:12:36",
+        "sentiment_score": -0.624276427552104
+    },
+    {
+        "title": "Cómo el ferrocarril obligó a unificar la hora de las ciudades: había 45 minutos de diferencia entre Barcelona y A Coruña",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/01/media_thumb-link-4129024.webp?1766401806=",
+        "tags": [
+            "horario",
+            "horarios",
+            "unificación",
+            "cultura",
+            "ferrocarril"
+        ],
+        "link": "https://www.meneame.net/story/como-ferrocarril-obligo-unificar-hora-ciudades-habia-45-minutos",
+        "date": "2025-12-22 17:10:02",
+        "sentiment_score": -0.018117234110832214
+    },
+    {
+        "title": "La confesión más sorprendente de Lamine Yamal y las galletas: “Por eso no puedo tener novia”",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/22/culemania/culemaniacos/1003742718475_15542986_1706x960.jpg",
+        "tags": [
+            "lamine yamal",
+            "barça",
+            "culemaníacos"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251222/confesion-sorprendente-lamine-yamal-galletas-puedo-tener/1003742718471_0.html",
+        "date": "2025-12-22 17:08:51",
+        "sentiment_score": 0.45509514957666397
+    },
+    {
+        "title": "Barcelona salvaje: Otra interesante oferta turística",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/13/31/5/dentro-de-las-multiples-posibilidades-que-te-esperan-en-barcelona-hay-que-destacar-afrodita-bcn-como-una-de-las-propuestas-mas-destacadas.jpeg",
+        "tags": [
+            "estilo de vida"
+        ],
+        "link": "https://www.lanuevacronica.com/estilo-vida/barcelona-salvaje-otra-interesante-oferta-turistica_188264_102.html",
+        "date": "2025-12-22 17:03:05",
+        "sentiment_score": 0.807845514267683
+    },
+    {
+        "title": "Un estudio identifica un mecanismo con el que las células \"mastican\" y eliminan células muertas",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251222180242_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-estudio-identifica-mecanismo-celulas-mastican-eliminan-celulas-muertas-20251222180242.html",
+        "date": "2025-12-22 17:02:42",
+        "sentiment_score": -0.21269073337316513
+    },
+    {
+        "title": "Tiroteo a plena luz del día en Castelldefels: un hombre mata a otro y huye de la policía",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/07/05/ciutat-vella/1003742671312_14825164_1706x960.jpg",
+        "tags": [
+            "castelldefels",
+            "gran barcelona",
+            "guardia urbana",
+            "crimen",
+            "mossos d'esquadra"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251222/tiroteo-plena-luz-dia-castelldefels-hombre-mata-huye-policia/1003742718472_0.html",
+        "date": "2025-12-22 17:02:01",
+        "sentiment_score": -0.7631283272057772
     }
 ];
