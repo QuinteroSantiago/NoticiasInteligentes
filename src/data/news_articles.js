@@ -1,23 +1,5 @@
 export default [
     {
-        "title": "Las cambiantes justificaciones de Donald Trump sobre Venezuela y los ataques en el Caribe",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/buques-petroleros-venezuela.jpg",
-        "tags": [
-            "internacionales",
-            "nicolás maduro",
-            "donald trump",
-            "nacionales",
-            "eeuu",
-            "caribe",
-            "venezuela",
-            "ataques",
-            "destacados"
-        ],
-        "link": "https://lapatilla.com/2025/12/19/las-cambiantes-justificaciones-de-donald-trump-sobre-venezuela-y-los-ataques-en-el-caribe/",
-        "date": "2025-12-19 10:54:49",
-        "sentiment_score": 0.4652853161096573
-    },
-    {
         "title": "17:00H | 19 DIC 2025 | La Tarde",
         "image_url": "/assets/placeholder-for-na.png",
         "tags": [
@@ -2951,5 +2933,233 @@ export default [
         "link": "https://www.superdeporte.es/futbol/2025/12/22/rafinha-anuncia-retirada-125073214.html",
         "date": "2025-12-22 21:26:10",
         "sentiment_score": -0.8142267651855946
+    },
+    {
+        "title": "Las selecciones a seguir en la Copa Africana de Naciones",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/12/22/selecciones-a-seguir-copa-africana-naciones-orix/",
+        "date": "2025-12-23 02:03:48",
+        "sentiment_score": 0.10056321322917938
+    },
+    {
+        "title": "180 años de un código de honor y primer aviso a Sánchez",
+        "image_url": "https://s1.staticld.com//2023/12/19/guardia-civil-191223.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-12-23/pedro-gil-ruiz-180-anos-de-un-codigo-de-honor-y-primer-aviso-a-sanchez-7337118/",
+        "date": "2025-12-23 01:59:14",
+        "sentiment_score": -0.8288980964571238
+    },
+    {
+        "title": "De la condesa de Romanones a Mata Hari y Marina Vega: el espionaje también tuvo (y aún tiene) nombre de mujer",
+        "image_url": "https://s3.elespanol.com/2025/12/22/mujer/protagonistas/1003744066077_260618229_1706x960.jpg",
+        "tags": [
+            "política",
+            "mujeres que hicieron historia",
+            "protagonistas",
+            "espionaje"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20251223/condesa-romanones-mata-hari-marina-vega-espionaje-nombre-mujer/1003744065913_0.html",
+        "date": "2025-12-23 01:45:13",
+        "sentiment_score": -0.22346371412277222
+    },
+    {
+        "title": "Raphinha y Yamal anotan en la victoria del líder español Barcelona sobre Villarreal",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/25b47d3/2147483647/strip/true/crop/4978x2613+0+353/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffc%2F08%2Fcaeab42d467587c55192c561395d%2Ff41245c89c95420fab33812eb89e8853.jpg",
+        "tags": [
+            "entertainment",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-22/raphinha-y-yamal-anotan-en-la-victoria-del-lider-espanol-barcelona-sobre-villarreal",
+        "date": "2025-12-23 01:22:41",
+        "sentiment_score": 0.27390752732753754
+    },
+    {
+        "title": "Ambición digital y fricciones políticas: el año en que el Gobierno encalló con su estrategia tecnológica",
+        "image_url": "https://s3.elespanol.com/2025/10/28/actualidad/1003743990163_259631475_1706x960.jpg",
+        "tags": [
+            "regulación sector tecnológico",
+            "óscar lópez",
+            "digitalización",
+            "tecnología",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20251223/ambicion-digital-fricciones-politicas-ano-gobierno-encallo-estrategia-tecnologica/1003744059244_0.html",
+        "date": "2025-12-23 00:34:00",
+        "sentiment_score": 0.49499329924583435
+    },
+    {
+        "title": "Enero de élite española: fechas y dónde ver la Supercopa",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1766448396708.jpg?ch=675&cw=1200",
+        "tags": [
+            "súpercopa",
+            "real madrid",
+            "españa",
+            "barcelona fc",
+            "meridiano tv",
+            "atleticodemadrid"
+        ],
+        "link": "https://2001online.com/deportes/enero-de-elite-espanola-fechas-y-donde-ver-la-supercopa-202512222050",
+        "date": "2025-12-23 00:05:00",
+        "sentiment_score": 0.8700175173580647
+    },
+    {
+        "title": "2a PARTE | 22 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-22-dic-2025-partidazo-cope-20251223_3276240.html",
+        "date": "2025-12-22 23:51:09",
+        "sentiment_score": -0.6037655007094145
+    },
+    {
+        "title": "«No tiene nada que ver la ideología con la afinidad personal»",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/23/cifuentes-carrillo-kqKF-U240643137089qfB-1200x840@RC.jpg",
+        "tags": [
+            "cristina cifuentes",
+            "la 1 (tve)",
+            "televisión"
+        ],
+        "link": "https://www.leonoticias.com/culturas/tv/ver-ideologia-afinidad-personal-20251223002104-ntrc.html",
+        "date": "2025-12-22 23:21:05",
+        "sentiment_score": -0.07451756298542023
+    },
+    {
+        "title": "El nuevo barrio de Los Berrocales despierta dos décadas después: calles con nombres de ciudades y periodistas, el proyecto para la llegada del Metro y vecinos en el primer trimestre de 2026",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/8195674c40ad44c3e6856531bcf8fb15/crop/86x36/726x676/f/image/jpeg/assets/multimedia/imagenes/2022/03/21/16478803395824.jpg",
+        "tags": [
+            "madrid",
+            "artículos carlos guisasola",
+            "josé luis martínez-almeida"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/12/23/694997f6e9cf4aae5a8b4580.html",
+        "date": "2025-12-22 23:11:00",
+        "sentiment_score": 0.49708500504493713
+    },
+    {
+        "title": "Detenido un hombre en Chamberí tras amenazar de muerte a su mujer y atrincherarse armado en su vivienda",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/bfc62fc31d86105e92fd646741f3f8b8/crop/0x0/1166x1166/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529624450788.jpg",
+        "tags": [
+            "artículos luis f. durán"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/12/23/694936d2fc6c8303138b456f.html",
+        "date": "2025-12-22 23:10:57",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Madrid es el Nueva York europeo",
+        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "europeo",
+            "nueva",
+            "madrid",
+            "york"
+        ],
+        "link": "https://www.eldiadecordoba.es/opinion/analisis/madrid-nueva-york-europeo_0_2005505402.html",
+        "date": "2025-12-23 02:07:26",
+        "sentiment_score": -0.06283867359161377
+    },
+    {
+        "title": "Los grandes grupos buscan cómo competir contra Vinted",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/20/6947030209afb.r_d.1659-1065-1403.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251223/11383601/vinted-textil-empresas-comercio-segunda-mano-reciclado.html",
+        "date": "2025-12-23 02:00:00",
+        "sentiment_score": -0.148667573928833
+    },
+    {
+        "title": "El \"Sheriff de Badalona\" y 400 desalojados del tirón",
+        "image_url": "https://s1.staticld.com/2025/12/17/desalojo-badalona171225.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-12-23/pablo-planas-el-sheriff-de-badalona-y-400-desalojados-del-tiron-7337197/",
+        "date": "2025-12-23 01:59:05",
+        "sentiment_score": -0.7684848085045815
+    },
+    {
+        "title": "Se definieron los 47 clasificados a la Copa Libertadores: los bombos y el “grupo de la muerte” que podría tocarle a Boca Juniors",
+        "image_url": "https://www.infobae.com/resizer/v2/46Q5YPDHFRGATBNRGFLNQY6HPU.jpg?auth=7b4389e61ab39533b537277805b0d1adc62f5e06e2d514ad27c35d3e46eec21c&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-internacional",
+            "lanús",
+            "platense",
+            "copa libertadores",
+            "independiente rivadavia",
+            "estudiantes",
+            "boca juniors",
+            "rosario central"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/23/se-definieron-los-47-clasificados-a-la-copa-libertadores-los-bombos-y-el-grupo-de-la-muerte-que-podria-tocarle-a-boca-juniors/",
+        "date": "2025-12-23 01:41:03",
+        "sentiment_score": 0.42970453761518
+    },
+    {
+        "title": "Occident abre 17 oficinas y llega a 1.230 puntos de venta",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/c94c9275db3b5076bf812d06d42eb00d/crop/141x22/1757x1099/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/23/17664515470878.jpg",
+        "tags": [
+            "seguros>"
+        ],
+        "link": "https://www.expansion.com/empresas/seguros/2025/12/23/6949e86b468aeb01078b4574.html",
+        "date": "2025-12-23 01:00:22",
+        "sentiment_score": 0.4679220113903284
+    },
+    {
+        "title": "Sequra mira hacia EE.UU.",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/20/694702e472f34.r_d.2815-1909-825.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251223/11383593/sequra-estados-unidos-pagos.html",
+        "date": "2025-12-23 01:00:00",
+        "sentiment_score": 0.5317215844988823
+    },
+    {
+        "title": "Antin suma a Citi como asesor para la venta de Indaqua",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/bf8a361e4abcc3726918356d0bb97028/crop/156x13/1839x1135/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/23/17664506557046.jpg",
+        "tags": [
+            "inmobiliario y construcción>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/empresas/2025/12/23/6949df40468aeb313b8b458d.html",
+        "date": "2025-12-23 00:45:54",
+        "sentiment_score": 0.27436402812600136
+    },
+    {
+        "title": "Fue multicampeón en Barcelona con Messi y sorprendió al anunciar su retiro a los 32 años: “Fue duro aceptarlo”",
+        "image_url": "https://www.infobae.com/resizer/v2/AZH2M6M5HBAWXEQLJINGUYLPJM.jpg?auth=9333ac9dd4a3043ac0bf4975e434ce7d574b8ffac21c13eb750e1263bc6ce24b&height=1080&smart=true&width=1920",
+        "tags": [
+            "al-arabi sc",
+            "deportes-argentina",
+            "fc barcelona",
+            "rafinha alcántara",
+            "juegos olímpicos río 2016",
+            "selección de brasil"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/23/fue-multicampeon-en-barcelona-con-messi-y-sorprendio-al-anunciar-su-retiro-a-los-32-anos-fue-duro-aceptarlo/",
+        "date": "2025-12-23 00:18:42",
+        "sentiment_score": -0.8026713170111179
+    },
+    {
+        "title": "Volantazo de Laporta con la joya oculta del nuevo Camp Nou: el boulevard cambia de ubicación",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/07/19/culemania/palco/871672976_13250515_1706x960.png",
+        "tags": [
+            "espai barça",
+            "palco",
+            "limak construction",
+            "barça",
+            "camp nou",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251223/volantazo-laporta-oculta-camp-nou-boulevard-ubicacion/1003742718546_0.html",
+        "date": "2025-12-23 00:06:43",
+        "sentiment_score": 0.7182957138866186
     }
 ];
