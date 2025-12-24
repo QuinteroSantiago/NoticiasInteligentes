@@ -1,234 +1,5 @@
 export default [
     {
-        "title": "Una masa de aire polar desplomará la cota de nieve en las próximas horas: nevadas a 500 metros",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/20/6946dac83e7d73-55175308.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/masa-aire-polar-desplomara-cota-nieve-proximas-horas-posibles-nevadas-metros_6913155_0.html",
-        "date": "2025-12-20 17:11:55",
-        "sentiment_score": 0.03510192036628723
-    },
-    {
-        "title": "La alineación probable del Barça ante el Villarreal en la jornada 17 de La Liga",
-        "image_url": "https://s3.elespanol.com/2025/12/13/actualidad/1003744054391_260467429_1706x960.jpg",
-        "tags": [
-            "deportes",
-            "fútbol",
-            "la liga",
-            "fc barcelona",
-            "villarreal cf"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251220/alineacion-probable-barca-villarreal-jornada-liga/1003744064454_0.html",
-        "date": "2025-12-20 17:07:11",
-        "sentiment_score": -0.26445765793323517
-    },
-    {
-        "title": "Tráfico recomienda mucha precaución ante las nevadas de este fin de semana",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/20/nieve-lugo-gcivil-carretera-kwFB-U240620637392dPF-1200x840@RC.jpg",
-        "tags": [
-            "neumáticos",
-            "dgt dirección general de tráfico",
-            "guardia civil",
-            "tráfico",
-            "seguridad vial",
-            "invierno",
-            "carreteras",
-            "agencia estatal de meteorología (aemet)"
-        ],
-        "link": "https://www.ideal.es/sociedad/trafico-recomienda-precaucion-ante-nevadas-fin-semana-20251220180628-ntrc.html",
-        "date": "2025-12-20 17:06:29",
-        "sentiment_score": -0.5994443222880363
-    },
-    {
-        "title": "Interiorismo con identidad frente a las modas decorativas en Canarias",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/02979408-43f3-4c09-b3ac-66797d38cbd1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vivienda",
-            "arquitectura",
-            "clientes",
-            "interiorismo"
-        ],
-        "link": "https://www.laprovincia.es/canarias/2025/12/20/vivienda-arquitectura-luz-diseno-de-interiores-necesidades-reales-clientes-124884122.html",
-        "date": "2025-12-20 16:57:07",
-        "sentiment_score": 0.113340362906456
-    },
-    {
-        "title": "El Oporto anuncia por sorpresa el regreso de Thiago Silva",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/20/thiago-silva-kxoD-U240620507849prH-1200x840@RC.jpg",
-        "tags": [
-            "carlo ancelotti",
-            "atlético de madrid",
-            "oporto"
-        ],
-        "link": "https://www.leonoticias.com/deportes/futbol/oporto-anuncia-sorpresa-regreso-thiago-silva-20251220173015-ntrc.html",
-        "date": "2025-12-20 16:34:50",
-        "sentiment_score": 0.2887372858822346
-    },
-    {
-        "title": "Hansi Flick celebra un fichaje top y lamenta una baja muy sensible para el Villarreal-Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/20/culemania/primer-equipo/1003742717969_15536522_1706x960.jpg",
-        "tags": [
-            "hansi flick",
-            "barça",
-            "pedro gonzález pedri",
-            "robert lewandowski",
-            "primer equipo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251220/hansi-flick-celebra-fichaje-lamenta-sensible-villarreal-barca/1003742717965_0.html",
-        "date": "2025-12-20 16:31:13",
-        "sentiment_score": -0.0013180375099182129
-    },
-    {
-        "title": "La cabalgata del Cartero Real recorrerá las calles de Jerez el 28 de diciembre",
-        "image_url": "https://static.grupojoly.com/clip/8cb7b243-0538-479d-af27-2c3d8f3cd2ca_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias jerez"
-        ],
-        "link": "https://www.diariodejerez.es/jerez/cabalgata-cartero-real-recorrera-calles-28-diciembre-jerez_0_2005494962.html",
-        "date": "2025-12-20 16:30:28",
-        "sentiment_score": -0.05152842402458191
-    },
-    {
-        "title": "Jonny, titular en el derbi ante a Osasuna",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/e3be95e3-281f-407f-9efa-a6b466681dbc_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "osasuna",
-            "titular",
-            "derbi",
-            "jonny"
-        ],
-        "link": "https://www.noticiasdealava.eus/alaves/2025/12/20/jonny-titular-derbi-osasuna-10497100.html",
-        "date": "2025-12-20 16:25:13",
-        "sentiment_score": 0.8058811165392399
-    },
-    {
-        "title": "La ausencia de última hora de Pedri condiciona al Barça en La Cerámica",
-        "image_url": "https://cflvdg.avoz.es/sc/YkIFfGFMNnW-crKpZS0wa_RsUfU=/768x/2025/12/20/00121766250361320719380/Foto/efe_20251220_152603450.jpg",
-        "tags": [
-            "deportes",
-            "villarreal cf",
-            "fc barcelona"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/20/ausencia-ultima-hora-pedri-condiciona-barca-ceramica/00031766249996919667527.htm",
-        "date": "2025-12-20 17:07:00",
-        "sentiment_score": -0.8125490639358759
-    },
-    {
-        "title": "Muere Joaquim Arenas, artífice de la inmersión lingüística del catalán",
-        "image_url": "https://static1.ara.cat/clip/add1a8e0-6c98-4b64-8745-4fd365fe20b0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "catalan",
-            "arenas",
-            "joaquim",
-            "inmersion",
-            "muere",
-            "artifice",
-            "linguistica"
-        ],
-        "link": "https://es.ara.cat/cultura/muere-joaquim-arenas-artifice-inmersion-linguistica-catalan_1_5598529.html",
-        "date": "2025-12-20 17:05:26",
-        "sentiment_score": -0.10469740629196167
-    },
-    {
-        "title": "Estos son los festivales de Alicante vinculados al fondo de inversión proisraelí KKR",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/29ee3bce-c9a0-4530-8f4f-9943cedb9bd7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cultura",
-            "gaza",
-            "españa",
-            "música",
-            "festivales"
-        ],
-        "link": "https://www.informacion.es/cultura/2025/12/20/son-festivales-alicante-vinculados-fondo-inversion-proisraeli-kkr-124971425.html",
-        "date": "2025-12-20 17:01:16",
-        "sentiment_score": -0.7447341568768024
-    },
-    {
-        "title": "Crónica de Navidad",
-        "image_url": "https://static1.ara.cat/clip/55b7eebf-59d1-41b3-8862-b1a06bdc02b0_16-9-aspect-ratio_default_0_x801y507.jpg",
-        "tags": [
-            "navidad",
-            "cronica"
-        ],
-        "link": "https://es.ara.cat/defensor-del-lector/cronica-navidad_129_5598488.html",
-        "date": "2025-12-20 17:00:35",
-        "sentiment_score": -0.09992605447769165
-    },
-    {
-        "title": "¿La lengua catalana es antipática? La teoría del PP que falla",
-        "image_url": "https://static1.ara.cat/clip/dc9af280-bdda-4ab2-a29f-6c91f3c34cb9_16-9-aspect-ratio_default_1052688.jpg",
-        "tags": [
-            "antipatica",
-            "falla",
-            "catalana",
-            "lengua",
-            "pp",
-            "teoria"
-        ],
-        "link": "https://es.ara.cat/politica/lengua-catalana-antipatica-teoria-pp-falla_1_5598445.html",
-        "date": "2025-12-20 16:59:58",
-        "sentiment_score": -0.6322175860404968
-    },
-    {
-        "title": "Un catalán que vive en Bruselas se queja de la cantidad de gente de su país que hay en la ciudad: “Bajo mi ventana escucho más español que francés”",
-        "image_url": "https://www.infobae.com/resizer/v2/474YQCOXYVEO7MTG3F7M6LQTYU.jpg?auth=9cc76fb040c466e5d4e877dcbbf031977b18190a088b2c1cbc32d444c4f50d23&height=2601&smart=true&width=3901",
-        "tags": [
-            "migrantes",
-            "europa",
-            "redes sociales",
-            "españa-noticias",
-            "bruselas",
-            "tiktok",
-            "virales-espana"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/20/un-catalan-que-vive-en-bruselas-se-queja-de-la-cantidad-de-gente-de-su-pais-que-hay-en-la-ciudad-bajo-mi-ventana-escucho-mas-espanol-que-frances/",
-        "date": "2025-12-20 16:58:45",
-        "sentiment_score": 0.4246217906475067
-    },
-    {
-        "title": "El gran ecosistema industrial que el franquismo no vio venir: el estudio pionero de un investigador asturiano",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9d7c79f1-0786-4458-a725-f56355d0d558_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "talento exterior",
-            "asturias",
-            "empresas",
-            "industria",
-            "ecosistema",
-            "franquismo",
-            "universidad",
-            "asturiano"
-        ],
-        "link": "https://www.lne.es/asturias-exterior/2025/12/20/gran-ecosistema-industrial-franquismo-vio-124936751.html",
-        "date": "2025-12-20 16:57:47",
-        "sentiment_score": -0.08766625821590424
-    },
-    {
-        "title": "La Barceloneta: así se vive en el barrio más gentrificado del Estado",
-        "image_url": "https://static1.ara.cat/clip/0830c72f-9681-4e42-af0e-9da62edf357a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gentrificado",
-            "barceloneta",
-            "barrio",
-            "vive"
-        ],
-        "link": "https://es.ara.cat/sociedad/barcelona/barceloneta-vive-barrio-gentrificado_130_5598439.html",
-        "date": "2025-12-20 16:56:27",
-        "sentiment_score": -0.35069572925567627
-    },
-    {
-        "title": "Juanma Moreno presenta en Córdoba su libro 'Manual de convivencia': \"Una sociedad dividida no puede desarrollar su potencial\"",
-        "image_url": "https://static.grupojoly.com/clip/939c5c6b-179d-415a-9e74-090f6cb83970_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "literatura córdoba",
-            "últimas noticias córdoba",
-            "junta de andalucía córdoba"
-        ],
-        "link": "https://www.eldiadecordoba.es/cordoba/juanma-moreno-cordoba-libro-manual-convivencia_0_2005494203.html",
-        "date": "2025-12-20 16:50:52",
-        "sentiment_score": 0.15202144160866737
-    },
-    {
         "title": "El escultor almeriense que miraba al Cid Campeador y a la Unión Soviética",
         "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/21/IMG_20251207_172630-k78F-U2406211157731oF-1200x840@Ideal.jpg",
         "tags": [
@@ -428,16 +199,6 @@ export default [
         "link": "https://www.mundodeportivo.com/waterpolo/20251220/1002590326/ligas-bajan-telon-primera-vuelta-e-inician-paron-febrero.html",
         "date": "2025-12-20 20:53:27",
         "sentiment_score": -0.00797814130783081
-    },
-    {
-        "title": "Lo más viral de la semana: El héroe de Bondi Beach",
-        "image_url": "https://static.wixstatic.com/media/cf263a_3ecf02ecbfab4d32a7c7cd6e796696a6~mv2.png/v1/fit/w_778,h_473,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/lo-m%C3%A1s-viral-de-la-semana-el-h%C3%A9roe-de-bondi-beach",
-        "date": "2025-12-20 18:00:14",
-        "sentiment_score": -0.7831405773758888
     },
     {
         "title": "El áspero discurso de Almeyda tras ser expulsado ante el Real Madrid: “No soy el payaso de ningún circo”",
@@ -3038,5 +2799,175 @@ export default [
         "link": "https://www.elmundo.es/yodona/lifestyle/2025/12/24/69491f4fe9cf4ab97c8b4594.html",
         "date": "2025-12-23 23:11:12",
         "sentiment_score": 0.056269895285367966
+    },
+    {
+        "title": "El Rey despide un 2025 empañado por la sombra de Juan Carlos I",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/24/rey-navidad-k3rF-U240653024767ucD-1200x840@RC.jpg",
+        "tags": [
+            "casa real",
+            "felipe de borbón y grecia",
+            "nochebuena",
+            "navidad"
+        ],
+        "link": "https://www.ideal.es/nacional/rey-despide-2025-empanado-sombra-juan-carlos-20251224073454-ntrc.html",
+        "date": "2025-12-24 06:34:56",
+        "sentiment_score": -0.08362323045730591
+    },
+    {
+        "title": "Chicho Lorenzo: \"Puedo ayudar a Maverick Viñales con la técnica de pilotaje. Si su aventura con Jorge Lorenzo sale bien, habrá un antes y un después de una unión que revolucionaría este deporte\"",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/12/24/694b878b54371.r_d.813-1185-4736.jpeg",
+        "tags": [
+            "motogp"
+        ],
+        "link": "https://www.mundodeportivo.com/motor/motogp/20251224/1002591715/chicho-lorenzo-ayudar-maverick-vinales-tecnica-pilotaje-aventura-jorge-lorenzo-sale-habra-union-revolucionaria-deporte-smd.html",
+        "date": "2025-12-24 06:27:03",
+        "sentiment_score": -0.08854517340660095
+    },
+    {
+        "title": "Espacio Movistar pone el ‘kilómetro 0’ de la Navidad en la Gran Vía",
+        "image_url": "https://static.grupojoly.com/clip/dec695a4-e69d-4d5f-922f-c28e95b9886c_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "movistar",
+            "kilometro",
+            "navidad",
+            "espacio",
+            "pone"
+        ],
+        "link": "https://www.malagahoy.es/suplemento-tecnologico/espacio-movistar-pone-kilometro-navidad_0_2005510054.html",
+        "date": "2025-12-24 06:20:30",
+        "sentiment_score": -0.05437353253364563
+    },
+    {
+        "title": "En el burdel desconocido de Picasso",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/12/23/D645420D-EE86-416A-846E-2A735894269F/imagen-dibujo-que-expone-barcelona_69.jpg?crop=982%2C552%2Cx0%2Cy12&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/burdel-desconocido-picasso_20251224694b83c522f0db7daffcbcc3.html",
+        "date": "2025-12-24 06:10:13",
+        "sentiment_score": 0.39795225486159325
+    },
+    {
+        "title": "Confirmado por Loterías: estos son los municipios donde más veces ha tocado el primer premio del sorteo del Niño",
+        "image_url": "https://s3.elespanol.com/2025/12/22/actualidad/1003744066588_260624808_1706x960.jpg",
+        "tags": [
+            "soft",
+            "loterías",
+            "sociedad",
+            "loterías y apuestas del estado (lae)",
+            "lotería del niño"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251224/confirmado-loterias-municipios-veces-tocado-primer-premio-sorteo-nino/1003744066567_0.html",
+        "date": "2025-12-24 06:37:28",
+        "sentiment_score": 0.4414205774664879
+    },
+    {
+        "title": "Coincidencia total entre los expertos: este es el fallo que más perjudica nuestra jubilación",
+        "image_url": "https://okdiario.com/img/2025/12/23/imagen_recortada-8.jpg",
+        "tags": [
+            "okd",
+            "economía",
+            "pensiones",
+            "jubilación"
+        ],
+        "link": "https://okdiario.com/economia/coincidencia-total-expertos-este-fallo-que-mas-perjudica-nuestra-jubilacion-15980025",
+        "date": "2025-12-24 06:30:38",
+        "sentiment_score": -0.20229586958885193
+    },
+    {
+        "title": "Lo que debes saber hoy, 24 de diciembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/10/08/vivir-en-barcelona/617948202_9430345_1706x960.jpg",
+        "tags": [
+            "clima",
+            "coches",
+            "gran barcelona",
+            "transports metropolitans barcelona tmb",
+            "autobús",
+            "metro barcelona",
+            "renfe barcelona",
+            "rodalies",
+            "tráfico",
+            "transporte"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251224/debes-saber-hoy-diciembre-barcelona/1003742718835_0.html",
+        "date": "2025-12-24 06:30:17",
+        "sentiment_score": -0.306843601167202
+    },
+    {
+        "title": "Comuns denuncia a Albiol ante la Fiscalía de Odio y Discriminación por el macrodesalojo del B9",
+        "image_url": "https://images.ecestaticos.com/0sQSdpsF-mp5sKLOmc9x4IF5RKU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F452%2F41d%2F797%2F45241d79716d700fa6b12ca3b531254e.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.elconfidencial.com/espana/cataluna/2025-12-24/denuncia-delitos-odio-badalona-1tna-1tps_4274409/",
+        "date": "2025-12-24 06:05:00",
+        "sentiment_score": -0.9185077426955104
+    },
+    {
+        "title": "De la DGAIA a la peste porcina: ¿le han pasado factura las crisis a Salvador Illa?",
+        "image_url": "https://static1.ara.cat/clip/1625844c-96ee-4a58-88aa-dd880ba379f1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "illa",
+            "han",
+            "factura",
+            "crisis",
+            "peste",
+            "porcina",
+            "dgaia",
+            "salvador",
+            "le",
+            "pasado"
+        ],
+        "link": "https://es.ara.cat/politica/dgaia-peste-porcina-le-han-pasado-factura-crisis-salvador-illa_1_5601393.html",
+        "date": "2025-12-24 06:01:09",
+        "sentiment_score": -0.6983241513371468
+    },
+    {
+        "title": "La nueva terminal de la Llagosta recibirá el primer tren de mercancías a principios de enero",
+        "image_url": "https://static1.ara.cat/clip/264c501e-1327-4a97-8808-b5eb09c158cb_16-9-aspect-ratio_default_0.png",
+        "tags": [
+            "llagosta",
+            "recibira",
+            "enero",
+            "principios",
+            "nueva",
+            "tren",
+            "mercancias",
+            "terminal"
+        ],
+        "link": "https://es.ara.cat/economia/industria/nueva-terminal-llagosta-recibira-tren-mercancias-principios-enero_1_5601390.html",
+        "date": "2025-12-24 06:00:57",
+        "sentiment_score": 0.3126986548304558
+    },
+    {
+        "title": "Coca-Cola reparte 200 comidas navideñas junto a Galdakaoko Boluntarioak",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/04976b8b-abd7-41c3-bca6-22c0310e77df_16-9-aspect-ratio_default_0_x1429y1542.jpg",
+        "tags": [
+            "reparte",
+            "comidas",
+            "coca",
+            "galdakao",
+            "cola",
+            "200"
+        ],
+        "link": "https://www.deia.eus/bizkaia/2025/12/24/coca-cola-reparte-200-comidas-galdakao-10507888.html",
+        "date": "2025-12-24 06:00:56",
+        "sentiment_score": 0.20237234234809875
+    },
+    {
+        "title": "La revolución de los libros que pasan de madres a hijas",
+        "image_url": "https://static1.ara.cat/clip/3ba8ecd8-4fab-474b-93a6-9d7bb93a60be_16-9-aspect-ratio_default_0_x3408y1275.jpg",
+        "tags": [
+            "pasan",
+            "madres",
+            "hijas",
+            "libros",
+            "revolucion"
+        ],
+        "link": "https://es.ara.cat/cultura/leer/revolucion-libros-pasan-madres-hijas_1_5601388.html",
+        "date": "2025-12-24 06:00:55",
+        "sentiment_score": 0.11910036206245422
     }
 ];
