@@ -1,163 +1,5 @@
 export default [
     {
-        "title": "Una ruta para degustar buen aceite por Las Vegas y la Alcarria madrileña",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ac1571e-7db0-4e18-8988-a8450af7f152_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "turismo"
-        ],
-        "link": "https://www.epe.es/es/madrid/20251220/ruta-degustar-buen-aceite-vegas-alcarria-124897062",
-        "date": "2025-12-20 06:33:41",
-        "sentiment_score": 0.5449544731527567
-    },
-    {
-        "title": "SEAT 127, el coche más vendido el año en que se estrenó Tiburón..., y pasaron otras «cosas»",
-        "image_url": "https://s2.ppllstatics.com/RC//202512/20/media/Foto%202-U53810601204DbZ-760x427@diario_abc.jpg?uuid=77282a8c-dcc6-11f0-9ec4-d27edca2050e",
-        "tags": [
-            "fiat (coches)",
-            "seat",
-            "juan carlos i de españa",
-            "francisco franco"
-        ],
-        "link": "https://www.leonoticias.com/motor/reportajes/seat-127-coche-vendido-ano-estreno-tiburon-20251220073300-ntrc.html",
-        "date": "2025-12-20 06:33:20",
-        "sentiment_score": -0.2819669842720032
-    },
-    {
-        "title": "Las joyas preferidas de la reina Letizia en 2025: de su anillo diario a las dos tiaras que ha usado",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/joyas-reina-letizia-tiara.jpg",
-        "tags": [
-            "casa real española",
-            "familia real española",
-            "gente",
-            "celebrities",
-            "reina letizia",
-            "moda",
-            "joyas"
-        ],
-        "link": "https://theobjective.com/gente/2025-12-20/joyas-preferidas-reina-letizia-2025-anillo/",
-        "date": "2025-12-20 06:30:00",
-        "sentiment_score": -0.24797868728637695
-    },
-    {
-        "title": "Zapatero y la conspiración de El Pardo",
-        "image_url": "https://s1.staticld.com/2025/12/20/jose-luis-rodrgiguez-zapatero-03112025.jpg",
-        "tags": [
-            "política"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2025-12-20/javier-somalo-zapatero-y-la-conspiracion-de-el-pardo-7336240/",
-        "date": "2025-12-20 06:23:40",
-        "sentiment_score": -0.7931160032749176
-    },
-    {
-        "title": "Margarita del Val, Patricia Altea y Volkswagen, ganadoras de los premios Hipatia 2025",
-        "image_url": "https://s10.s3c.es/imag/_v0/6006x3278/1/d/8/1200x655__F2A0282.JPG",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13699904/12/25/margarita-del-val-patricia-altea-y-volkswagen-ganadoras-de-los-premios-hipatia-2025.html",
-        "date": "2025-12-20 06:15:45",
-        "sentiment_score": 0.33848514407873154
-    },
-    {
-        "title": "Verdinas: tres templos del cuchareo en Madrid",
-        "image_url": "https://okdiario.com/img/2025/12/20/portada_cultura_noticia_okdiario_1080x1013px-1.jpg",
-        "tags": [
-            "cultura",
-            "actualidad",
-            "madrid",
-            "ocio",
-            "gastronomía"
-        ],
-        "link": "https://okdiario.com/actualidad/verdinas-tres-templos-del-cuchareo-madrid-15966001",
-        "date": "2025-12-20 06:00:52",
-        "sentiment_score": 0.43055977672338486
-    },
-    {
-        "title": "Un cacereño relata la odisea que ha vivido por un cáncer mal diagnosticado, siéndole denegada la pensión de incapacidad permanente: \"Es inhumano\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fb34f4a9-8d96-4c1e-856d-08ee26508917_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "deuda",
-            "cárcel",
-            "portada",
-            "cáceres",
-            "hospital",
-            "home",
-            "gente",
-            "cáncer"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres-local/2025/12/20/cacereno-relata-odisea-vivido-cancer-124875428.html",
-        "date": "2025-12-20 05:45:22",
-        "sentiment_score": -0.9331721132621169
-    },
-    {
-        "title": "Los 50 dirigentes empresariales más influyentes en España en 2026",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2025/12/Amancio-Ortega-2.webp",
-        "tags": [
-            "últimas noticias",
-            "empresas",
-            "en portada 4"
-        ],
-        "link": "https://www.merca2.es/2025/12/20/50-dirigentes-empresariales-mas-influyentes-2026-2335286/",
-        "date": "2025-12-20 05:30:00",
-        "sentiment_score": 0.45359423756599426
-    },
-    {
-        "title": "El alza de impuestos en Soria y la despoblación",
-        "image_url": "https://imagenes.diariodecastillayleon.es/static/img/logo-dcyl-poster.png",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.diariodecastillayleon.es/opinion/251220/103741/alza-impuestos-soria-despoblacion.html",
-        "date": "2025-12-20 05:30:00",
-        "sentiment_score": -0.23532867431640625
-    },
-    {
-        "title": "La pequeña empresa que resiste tras 45 años en un barrio de Pamplona y con relevo asegurado: \"Es la tercera generación\"",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/11/30/2025113011381861127.jpg",
-        "tags": [
-            "comercio local"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/comercio-local/pequena-empresa-que-resiste-45-anos-barrio-pamplona-relevo-asegurado-es-tercera-generacion/20251220073334625505.html",
-        "date": "2025-12-20 06:33:34",
-        "sentiment_score": 0.1032353974878788
-    },
-    {
-        "title": "Mercadona, Carrefour, Dia, Lidl... así terminan el año los grandes supermercados: decenas de nuevas aperturas, más músculo logístico e innovación",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/05/28/foto-recurso-compra-supermercados.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/mercadona-carrefour-dia-lidl-asi-terminan-ano-grandes-supermercados_6912560_0.html",
-        "date": "2025-12-20 06:30:00",
-        "sentiment_score": 0.7662674579769373
-    },
-    {
-        "title": "Feminismo y represión en los inicios del alpinismo navarro",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/6ca96970-0b97-4331-80ce-bd7704ced4e9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navarro",
-            "alpinismo",
-            "represion",
-            "inicios",
-            "feminismo"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/20/feminismo-represion-inicios-alpinismo-navarro-10495322.html",
-        "date": "2025-12-20 06:14:11",
-        "sentiment_score": -0.17653614282608032
-    },
-    {
-        "title": "ISE 2026 vuelve a Barcelona con la edición más grande y ambiciosa de su historia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f4386bf3-8f3e-4c38-b0d4-0bc2dddfac0f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tecnología",
-            "audiovisual",
-            "barcelona"
-        ],
-        "link": "https://www.informacion.es/tecnologia/2025/12/20/ise-2026-vuelve-barcelona-edicion-124984256.html",
-        "date": "2025-12-20 06:01:21",
-        "sentiment_score": 0.47287851944565773
-    },
-    {
         "title": "Una masa de aire polar desplomará la cota de nieve en las próximas horas: nevadas a 500 metros",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/20/6946dac83e7d73-55175308.jpeg",
         "tags": [
@@ -2707,5 +2549,240 @@ export default [
         "link": "https://www.elconfidencial.com/empresas/2025-12-23/agricultura-sostenible-reduccion-emisiones-biodiversidad-1hms_4274202/",
         "date": "2025-12-23 16:54:00",
         "sentiment_score": 0.6241463124752045
+    },
+    {
+        "title": "La propuesta que prepara el Atlético de Madrid para Simeone: la decisión con su hijo Giuliano y Julián Álvarez",
+        "image_url": "https://www.infobae.com/resizer/v2/F5CWONPLZVHFZKPNWP7KUBEWOY.JPG?auth=f3e948c15edc6151663baee742aac592324061f23d0c8a6cfaced8076c64cd5d&height=1013&smart=true&width=1533",
+        "tags": [
+            "atlético de madrid",
+            "diego simeone",
+            "deportes-argentina",
+            "champions league",
+            "miguel ángel gil marín"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/23/la-propuesta-que-prepara-el-atletico-de-madrid-para-simeone-la-decision-con-su-hijo-giuliano-y-julian-alvarez/",
+        "date": "2025-12-23 22:10:31",
+        "sentiment_score": -0.017057202756404877
+    },
+    {
+        "title": "El Unicaja invita a regalar emoción por Navidad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/edfd23e6-e0c9-4c14-b38f-f8e20e3da197_16-9-aspect-ratio_default_1423730.jpg",
+        "tags": [
+            "unicaja baloncesto",
+            "liga endesa",
+            "navidad",
+            "morabanc andorra",
+            "unicaja"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/23/club-cajista-invita-regalar-emocion-125108390.html",
+        "date": "2025-12-23 22:06:43",
+        "sentiment_score": 0.5190727040171623
+    },
+    {
+        "title": "Catalá aparta de la Mesa de Contratación del Ayuntamiento de València al concejal que oculta con qué empresas trabaja",
+        "image_url": "https://static.eldiario.es/clip/0e12f348-4137-450c-a5ea-60ca788210e6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "información",
+            "análisis",
+            "noticias",
+            "alicante",
+            "comunidad valenciana",
+            "castellón",
+            "actualidad",
+            "valencia",
+            "opinión"
+        ],
+        "link": "https://www.eldiario.es/comunitat-valenciana/valencia/catala-aparta-mesa-contratacion-ayuntamiento-valencia-concejal-oculta-empresas-trabaja_1_12867309.html",
+        "date": "2025-12-23 22:00:22",
+        "sentiment_score": -0.08395397663116455
+    },
+    {
+        "title": "La cesión de Endrick confirma el desastre en la gestión de jóvenes estrellas del Real Madrid",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/23/2025122322432067487.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-nefasta-gestion-talento-ultimo-ejemplo-cesion-endrick/20251223224401368046.html",
+        "date": "2025-12-23 21:44:01",
+        "sentiment_score": 0.19531971216201782
+    },
+    {
+        "title": "2025: los corridos tumbados alcanzan el estatus global del mariachi a pesar de la censura",
+        "image_url": "https://www.infobae.com/resizer/v2/JHI6H4VKANDS3BE7IPNLJFAB5Q.jpg?auth=909e0f843bd0ce612d4bf90a3d6a1f1bb3c04a259bea94a87ee080f7b3f814af&height=1080&smart=true&width=1920",
+        "tags": [
+            "corridos bélicos",
+            "corridos tumbados",
+            "mexico-noticias",
+            "ángel del villar",
+            "2025",
+            "mexico-entretenimiento",
+            "del records"
+        ],
+        "link": "https://www.infobae.com/mexico/2025/12/23/2025-los-corridos-tumbados-alcanzan-el-estatus-global-del-mariachi-a-pesar-de-la-censura/",
+        "date": "2025-12-23 21:09:42",
+        "sentiment_score": 0.32101014256477356
+    },
+    {
+        "title": "Dani Carvajal podría dejar el Real Madrid tras el Mundial de 2026",
+        "image_url": "https://pxcdn.meridiano.net/122025/1766524627653.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-internacional/dani-carvajal-podria-dejar-el-real-madrid-tras-el-mundial-de-2026-202512231760",
+        "date": "2025-12-23 21:06:00",
+        "sentiment_score": 0.5844029039144516
+    },
+    {
+        "title": "Ester Muñoz dice que ser católico \"es el nuevo punk\" al ver a Ayuso con Hakuna: la réplica de Roberto Sotomayor es de medalla de oro",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/23/fotomontaje-de-isabel-diaz-ayuso-ester-munoz-y-roberto-sotomayor.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/ester-munoz-dice-catolico-es-nuevo-punk-ver-ayuso-hakuna-replica-roberto-sotomayor-medalla-oro.html",
+        "date": "2025-12-23 20:59:58",
+        "sentiment_score": 0.060892254114151
+    },
+    {
+        "title": "David Bisbal despide por todo lo alto su Navidad adelantada en un Sant Jordi a rebosar",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/23/694af922a78b0.r_d.2724-2113-781.jpeg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.lavanguardia.com/cultura/musica/20251223/11306032/david-bisbal-despide-alto-navidad-adelantada-sant-jordi-rebosar.html",
+        "date": "2025-12-23 20:55:51",
+        "sentiment_score": 0.8964917017146945
+    },
+    {
+        "title": "El espíritu de la ansiedad: las reflexiones de un psicólogo sobre lo agotadoras que pueden ser las fiestas",
+        "image_url": "https://static.eldiario.es/clip/cff0cc73-ed0b-4323-9049-b0b19ae0d5fe_16-9-discover-aspect-ratio_default_1133236.jpg",
+        "tags": [
+            "fiestas",
+            "reflexiones",
+            "agotadoras",
+            "espiritu",
+            "psicologo",
+            "ansiedad"
+        ],
+        "link": "https://www.eldiario.es/era/espiritu-ansiedad-reflexiones-psicologo-agotadoras-fiestas_129_12868240.html",
+        "date": "2025-12-23 20:53:35",
+        "sentiment_score": -0.025117188692092896
+    },
+    {
+        "title": "Asturias se vuelca con su selección femenina absoluta en un Suárez Puerta teñido de azul y amarillo",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0eb7b538-0ed5-493a-a031-f0b0ba026546_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "suárez",
+            "orgullo",
+            "asturianos",
+            "asturias"
+        ],
+        "link": "https://www.lne.es/deportes/deporte-astur/2025/12/23/asturias-vuelca-seleccion-femenina-absoluta-125107152.html",
+        "date": "2025-12-23 20:33:10",
+        "sentiment_score": 0.4383592903614044
+    },
+    {
+        "title": "La cesta de la compra en Granada, por las nubes en los primeros días de Navidad",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/24/LOTEREstndar%20BASE-100-kqRD-U240649610896MuH-1200x840@Ideal.jpg",
+        "tags": [
+            "navidad",
+            "euro",
+            "historias visuales",
+            "precios",
+            "cesta de la compra"
+        ],
+        "link": "https://www.ideal.es/granada/cesta-compra-granada-nubes-primeros-dias-navidad-20251224231722-nt.html",
+        "date": "2025-12-23 22:17:23",
+        "sentiment_score": 0.2617102861404419
+    },
+    {
+        "title": "La planta hotelera de Granada sube el nivel con diez proyectos de lujo y un boom de reformas",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/27/Claridgeterraza-kIIF-U240649697675XYF-1200x840@Ideal.jpg",
+        "tags": [
+            "granada",
+            "urbanismo"
+        ],
+        "link": "https://www.ideal.es/granada/planta-hotelera-granada-sube-nivel-diez-proyectos-20251224231715-nt.html",
+        "date": "2025-12-23 22:17:15",
+        "sentiment_score": 0.6388011705130339
+    },
+    {
+        "title": "Granada analizará la repercusión económica de la llegada de la Agencia de Salud Pública",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/23/agenciaandaluza-kkT-U240649279845pBC-1200x840@Ideal.jpg",
+        "tags": [
+            "granada",
+            "junta de andalucía",
+            "salud"
+        ],
+        "link": "https://www.ideal.es/granada/granada-analizara-repercusion-economica-llegada-agencia-salud-20251224231704-nt.html",
+        "date": "2025-12-23 22:17:05",
+        "sentiment_score": 0.552229218184948
+    },
+    {
+        "title": "Está creciendo un paganismo contagioso y excluyente, de rechazo a todo lo cristiano",
+        "image_url": "https://www.alertadigital.com/wp-content/uploads/2024/12/paganm-700x394-1.jpg",
+        "tags": [
+            "paganismo",
+            "portada",
+            "excluyente",
+            "rechazo",
+            "contagioso",
+            "religión",
+            "cristiano"
+        ],
+        "link": "https://www.alertadigital.com/2025/12/23/esta-creciendo-un-paganismo-contagioso-y-excluyente-de-rechazo-a-todo-lo-cristiano/",
+        "date": "2025-12-23 22:08:13",
+        "sentiment_score": 0.17447923123836517
+    },
+    {
+        "title": "Casi dos millones de votantes españoles en Argentina por la Ley de Memoria Democrática: \"La tercera ciudad española va a ser Buenos Aires de largo\"",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/23/17665191120343.jpg",
+        "tags": [
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/12/23/694ad9c8fc6c8349578b458b.html",
+        "date": "2025-12-23 21:50:00",
+        "sentiment_score": -0.18783216178417206
+    },
+    {
+        "title": "El grupo académico CREA, del catedrático investigado Ramón Flecha, anuncia el fin de su actividad tras llegar el caso a Fiscalía",
+        "image_url": "https://static.eldiario.es/clip/e3e395d0-95e1-49a7-95a8-8846e7dea76d_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "política",
+            "barcelona",
+            "economía",
+            "periodismo independiente",
+            "ignacio escolar",
+            "noticias",
+            "cataluña",
+            "actualidad"
+        ],
+        "link": "https://www.eldiario.es/catalunya/grupo-academico-crea-catedratico-investigado-ramon-flecha-anuncia-actividad-llegar-caso-fiscalia_1_12868503.html",
+        "date": "2025-12-23 21:43:35",
+        "sentiment_score": -0.1545204073190689
+    },
+    {
+        "title": "Galbiati: \"Estamos cerca, pero necesitamos algo más para ganar estos partidos\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/51455028-a3a5-4191-aaba-c3c3e9a52f98_16-9-aspect-ratio_default_0_x969y123.jpg",
+        "tags": [
+            "galbiati",
+            "necesitamos",
+            "ganar",
+            "partidos",
+            "cerca"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2025/12/23/galbiati-cerca-necesitamos-ganar-partidos-10509387.html",
+        "date": "2025-12-23 21:43:09",
+        "sentiment_score": 0.16372008621692657
+    },
+    {
+        "title": "El Fenerbahçe frena la racha del Barcelona y Valencia recupera la segunda posición",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/23/694b0b2981929.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/fenerbahce-frena-racha-barcelona-valencia-recupera-segunda-posicion-20251223_3276914.html",
+        "date": "2025-12-23 21:39:32",
+        "sentiment_score": -0.09281188249588013
     }
 ];
