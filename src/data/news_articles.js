@@ -2784,5 +2784,259 @@ export default [
         "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/fenerbahce-frena-racha-barcelona-valencia-recupera-segunda-posicion-20251223_3276914.html",
         "date": "2025-12-23 21:39:32",
         "sentiment_score": -0.09281188249588013
+    },
+    {
+        "title": "La medida exacta",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "medida",
+            "exacta"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/medida-exacta_0_2005509836.html",
+        "date": "2025-12-24 02:07:18",
+        "sentiment_score": -0.01748567819595337
+    },
+    {
+        "title": "La inversión inmobiliaria apunta a nuevo récord tras el boom de 2025",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/b15b7e832b62aa531bc3badf1a86962c/crop/34x26/1752x1172/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/23/17665288694974.jpg",
+        "tags": [
+            "inmobiliario>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/2025/12/24/694b0af7e5fdea7c1b8b4596.html",
+        "date": "2025-12-24 01:39:04",
+        "sentiment_score": 0.618793660774827
+    },
+    {
+        "title": "Hugo 'Boss' González, el gran robo del Draft de la NBA que se ha convertido en el MVP invisible de los Boston Celtics",
+        "image_url": "https://s3.elespanol.com/2025/12/23/actualidad/1003744067793_260639475_1706x960.jpg",
+        "tags": [
+            "baloncesto",
+            "real madrid baloncesto",
+            "boston celtics",
+            "nba (national basketball association)",
+            "selección española de baloncesto"
+        ],
+        "link": "https://www.elespanol.com/deportes/baloncesto/20251224/hugo-boss-gonzalez-gran-robo-draft-nba-convertido-mvp-invisible-boston-celtics/1003744067621_0.html",
+        "date": "2025-12-24 01:30:00",
+        "sentiment_score": 0.7711213435977697
+    },
+    {
+        "title": "Corrupción socialista: Begoña Gómez, David Sánchez, José Luis Ábalos... los siete frentes judiciales que rodean a Pedro Sánchez",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/EuropaPress_7179981_secretario_general_psoe_presidente_gobierno_pedro_sanchez_participa_acto-1.jpg",
+        "tags": [
+            "sánchez",
+            "david azagra",
+            "caso begoña",
+            "begoña gómez",
+            "pedro sánchez",
+            "josé luis ábalos",
+            "españa",
+            "caso koldo"
+        ],
+        "link": "https://gaceta.es/espana/begona-gomez-david-sanchez-jose-luis-abalos-siete-frentes-judiciales-y-un-gobierno-en-guerra-abierta-contra-la-justicia-20251224-0155/",
+        "date": "2025-12-24 00:55:37",
+        "sentiment_score": -0.608323659747839
+    },
+    {
+        "title": "La Real abre en Madrid un nuevo templo de la gilda con más de 40 variedades de esta icónica banderilla",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/22/17664105847046.jpg",
+        "tags": [
+            "ocio",
+            "comer",
+            "gastronomía",
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/12/24/69494aa121efa01a118b45a5.html",
+        "date": "2025-12-24 00:48:55",
+        "sentiment_score": 0.17659831047058105
+    },
+    {
+        "title": "Sergio Batista: «No hubo ningún deterioro en la relación personal con Maestre»",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a5e65d15-2e14-4909-9ae5-410a6b668309_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "crecimiento",
+            "trabajo",
+            "tenerife",
+            "sevilla"
+        ],
+        "link": "https://www.eldia.es/deportes/ud-tenerife/2025/12/24/sergio-batista-hubo-deterioro-relacion-125109216.html",
+        "date": "2025-12-24 00:31:31",
+        "sentiment_score": -0.389752134680748
+    },
+    {
+        "title": "Los Mensajes de Navidad del Rey: 50 años llamando a la concordia, la unión y la firmeza ante la corrupción",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/12/24/676ad2dc59f8b.r_d.2929-1710.jpeg",
+        "tags": [
+            "casa real"
+        ],
+        "link": "https://www.eldebate.com/espana/casa-real/20251224/mensajes-navidad-rey-50-anos-llamando-concordia-union-firmeza-ante-corrupcion_368297.html",
+        "date": "2025-12-24 00:30:00",
+        "sentiment_score": 0.5463123694062233
+    },
+    {
+        "title": "Ritos y Raíz",
+        "image_url": "https://gaceta.es/wp-content/uploads/2022/07/Enrique-Garcia-Maiquez.png",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://gaceta.es/opinion/ritos-y-raiz-20251224-0045/",
+        "date": "2025-12-23 23:45:00",
+        "sentiment_score": 0.2217768207192421
+    },
+    {
+        "title": "Nochebuena en la tele: el clásico 'Telepasión', mucha música y maratón de humor",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/24/lalachus-kVUB-U240651770486VKF-1200x840@RC.jpg",
+        "tags": [
+            "tu cara me suena",
+            "felipe de borbón y grecia",
+            "telecinco",
+            "pasapalabra",
+            "navidad",
+            "manuel carrasco",
+            "cuatro",
+            "ana torroja",
+            "sergio dalma",
+            "nochebuena",
+            "atresmedia",
+            "televisión española (tve)",
+            "daniel fernández",
+            "antena 3",
+            "carlos sobera",
+            "la sexta",
+            "first dates"
+        ],
+        "link": "https://www.leonoticias.com/culturas/tv/nochebuena-tele-clasico-telepasion-musica-maraton-humor-20251224001925-ntrc.html",
+        "date": "2025-12-23 23:19:27",
+        "sentiment_score": -0.6612897217273712
+    },
+    {
+        "title": "¿Beber sin resaca? Apunta estos trucos para levantarte (casi) como nuevo después de una noche de excesos",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/22/resaca-web.jpg",
+        "tags": [
+            "nochevieja",
+            "controles de alcoholemia",
+            "navidad",
+            "nochebuena",
+            "vino",
+            "cerveza"
+        ],
+        "link": "https://www.leonoticias.com/vivir/salud/beber-resaca-apunta-trucos-levantarte-nuevo-despues-20251223001552-ntrc.html",
+        "date": "2025-12-23 23:16:12",
+        "sentiment_score": -0.18453126028180122
+    },
+    {
+        "title": "“Nadie habla de Robert Sánchez o Leo Román”: De la Fuente opina sobre Joan García y el debate en la portería de la Selección",
+        "image_url": "https://www.infobae.com/resizer/v2/7UDXXB4XDFHBNFNNFJTY7DOC6I.jpg?auth=70e7a97f89eea7e4906502774c7056a66d0433325cce76c6f73fc92fe8e54184&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-deportes",
+            "joan garcía",
+            "fc barcelona",
+            "athletic club",
+            "fútbol españa",
+            "luis de la fuente",
+            "españa-noticias",
+            "mundial 2026",
+            "fútbol",
+            "arsenal",
+            "real federación española de fútbol",
+            "real sociedad"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/12/24/nadie-habla-de-robert-sanchez-o-leo-roman-de-la-fuente-opina-sobre-joan-garcia-y-el-debate-en-la-porteria-de-la-seleccion/",
+        "date": "2025-12-24 02:10:55",
+        "sentiment_score": 0.20051342993974686
+    },
+    {
+        "title": "Priyageetha Dia se clava en las entrañas en la nueva sede madrileña de la galería The Ryder",
+        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053877_260460942_1706x960.jpg",
+        "tags": [
+            "galerías de arte",
+            "ec-critica-arte",
+            "arte",
+            "madrid",
+            "exposiciones"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20251224/priyageetha-dia-clava-entranas-nueva-sede-madrilena-galeria-the-ryder/1003744053769_0.html",
+        "date": "2025-12-24 00:55:00",
+        "sentiment_score": 0.026926085352897644
+    },
+    {
+        "title": "Otra Barcelona",
+        "image_url": "https://s3.elespanol.com/2025/12/23/actualidad/1003744068110_260643372_1706x960.jpg",
+        "tags": [
+            "escritores",
+            "mínima molestia",
+            "literatura",
+            "barcelona"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/opinion/minima_molestia_ignacio_echevarria/20251224/barcelona/1003744068046_13.html",
+        "date": "2025-12-24 00:55:00",
+        "sentiment_score": 0.17463475465774536
+    },
+    {
+        "title": "23 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/23-dic-2025-partidazo-cope-20251224_3276940.html",
+        "date": "2025-12-24 00:45:00",
+        "sentiment_score": 0.042516425251960754
+    },
+    {
+        "title": "El nuevo rol de Robert Lewandowski sacude al Barça",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/24/2025112412220030825.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/nuevo-rol-lewandowski-marca-punto-inflexion-ataque-barca/20251224010642368077.html",
+        "date": "2025-12-24 00:06:42",
+        "sentiment_score": 0.008358210325241089
+    },
+    {
+        "title": "Coca-Cola reparte 500 comidas solidarias en Santa Cruz de Tenerife",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5e8aece6-0da5-400f-ab6c-6637824d82b1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vecinos",
+            "coca-cola",
+            "santa cruz",
+            "tenerife"
+        ],
+        "link": "https://www.eldia.es/sociedad/2025/12/24/coca-cola-reparte-500-comidas-125107114.html",
+        "date": "2025-12-24 00:00:40",
+        "sentiment_score": 0.2786934971809387
+    },
+    {
+        "title": "1a PARTE | 23 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/1a-parte-23-dic-2025-partidazo-cope-20251224_3276928.html",
+        "date": "2025-12-23 23:26:12",
+        "sentiment_score": 0.2835140563547611
+    },
+    {
+        "title": "Ni camisetas del Barça ni ratas disecadas: el derbi contra el Espanyol se calienta más de lo previsto",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/05/15/culemania/culemaniacos/1003742657956_14586586_1706x960.jpg",
+        "tags": [
+            "camp nou",
+            "barça",
+            "rcd espanyol",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251224/camisetas-barca-ratas-disecadas-espanyol-calienta-previsto/1003742718829_0.html",
+        "date": "2025-12-23 23:11:25",
+        "sentiment_score": 0.561053678393364
+    },
+    {
+        "title": "De profesión, vendedor de un robot de cocina: \"Puede sonar surrealista, pero he llegado a ganar 15.000 euros al mes como comercial de Thermomix\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/33204eafd88267ae13b0f0e60f907b36/crop/63x0/1129x800/f/webp/assets/multimedia/imagenes/2025/12/22/17664001973517.jpg",
+        "tags": [
+            "yodona",
+            "lifestyle"
+        ],
+        "link": "https://www.elmundo.es/yodona/lifestyle/2025/12/24/69491f4fe9cf4ab97c8b4594.html",
+        "date": "2025-12-23 23:11:12",
+        "sentiment_score": 0.056269895285367966
     }
 ];
