@@ -1,484 +1,5 @@
 export default [
     {
-        "title": "El Real Oviedo se aferra al 'efecto Almada'",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/19/209513737-kYNB--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-aferra-efecto-almada-20251220223507-nt.html",
-        "date": "2025-12-19 21:55:52",
-        "sentiment_score": 0.3430245593190193
-    },
-    {
-        "title": "“El equipo que mejor nos trataba siempre era el Real Madrid”, afirma un exárbitro en el debate sobre el caso Negreira",
-        "image_url": "https://www.infobae.com/resizer/v2/2C2EMIEGFRBRTOXMDVWRXEYGNI.jpg?auth=94a1bd1798ddf2987907207173bdc4873257dd4ae994a3bb579c86788f6cf408&height=678&smart=true&width=980",
-        "tags": [
-            "fútbol españa",
-            "negreira",
-            "españa-noticias",
-            "caso negreira",
-            "joan laporta",
-            "real madrid",
-            "españa-deportes",
-            "fc barcelona",
-            "fútbol"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/12/19/el-equipo-que-mejor-nos-trataba-siempre-era-el-real-madrid-afirma-un-exarbitro-en-el-debate-sobre-el-caso-negreira/",
-        "date": "2025-12-19 21:46:31",
-        "sentiment_score": 0.1357797160744667
-    },
-    {
-        "title": "LaLiga: Xabi Alonso responde a los rumores de su salida del Real Madrid",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/laliga-xabi-alonso-responde-a-los-rumores-de-su-salida-del-real-madrid--2025121916540",
-        "date": "2025-12-19 20:54:00",
-        "sentiment_score": 0.5516146961599588
-    },
-    {
-        "title": "Brasil anuncia amistosos ante Francia y Croacia",
-        "image_url": "https://mundonow.com/wp-content/uploads/2025/12/Sin-contrato-Limited-Users-No-Monthly-Fees-Up-to-100-Projects-1200-x-768-px-2025-12-19T154456.754.png",
-        "tags": [
-            "mundial",
-            "copa mundial 2026",
-            "deportes",
-            "fifa 2026",
-            "fifa"
-        ],
-        "link": "https://mundonow.com/brasil-amistosos-francia-croacia-mundial-2026/",
-        "date": "2025-12-19 20:52:56",
-        "sentiment_score": 0.030524268746376038
-    },
-    {
-        "title": "Barça, Real Madrid y Atlético pugnan por el nuevo Pedri de 19 años: una 'ganga' de 25 millones que enamora a Koeman",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/14/culemania/primer-equipo/1003742715933_15510504_1706x960.jpg",
-        "tags": [
-            "fichajes barça",
-            "ronald koeman",
-            "primer equipo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251219/barca-real-madrid-atletico-pedri-millones-koeman/1003742717836_0.html",
-        "date": "2025-12-19 20:24:36",
-        "sentiment_score": -0.3841095492243767
-    },
-    {
-        "title": "Dani Vidal, entrenador del Real Avilés: «Si cuidamos un poco más los detalles estaremos cerca de ganar»",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/19/dani-vidal-kfN-U2406146713930DG-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real avilés"
-        ],
-        "link": "https://www.elcomercio.es/real-aviles/dani-vidal-entrenador-real-aviles-cerca-ganar-20251219211825-nt.html",
-        "date": "2025-12-19 20:19:32",
-        "sentiment_score": 0.7792200706899166
-    },
-    {
-        "title": "Gallardo (PSOE) pide el apoyo para que Extremadura recupere la fuerza y vuelva a «levantar la voz»",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/EuropaPress_7169144_i_d_portavoz_psoe_provincia_caceres_irene_pozas_secretaria_general_psoe.jpg",
-        "tags": [
-            "elecciones",
-            "nacional"
-        ],
-        "link": "https://www.lanzadigital.com/nacional/gallardo-pide-el-apoyo-de-los-ciudadanos-para-que-extremadura-recupere-la-fuerza-y-vuelva-a-levantar-la-voz/",
-        "date": "2025-12-19 19:37:54",
-        "sentiment_score": -0.06281864643096924
-    },
-    {
-        "title": "La Audiencia de Madrid da la razón al juez Peinado y respalda que investigue a Begoña Gómez por malversación",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/EuropaPress_5271358_directora_catedra_extraordinaria_transformacion_social_ucm_begona_gomez-scaled.jpg",
-        "tags": [
-            "tribunal",
-            "nacional"
-        ],
-        "link": "https://www.lanzadigital.com/nacional/la-audiencia-de-madrid-da-la-razon-al-juez-peinado-y-respalda-que-investigue-a-begona-gomez-por-malversacion/",
-        "date": "2025-12-19 19:35:08",
-        "sentiment_score": -0.13738903403282166
-    },
-    {
-        "title": "Más de 22.000 trenes circularán esta Navidad en España y Renfe ofrecerá 2,6 millones de plazas",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/11/EuropaPress_6825791_varias_personas_andenes_estacion_puerta_atocha_almudena_grandes_primera-scaled.jpg",
-        "tags": [
-            "castilla-la mancha",
-            "trenes",
-            "renfe"
-        ],
-        "link": "https://www.lanzadigital.com/castilla-la-mancha/mas-de-22-000-trenes-circularan-esta-navidad-en-espana-y-renfe-ofrecera-26-millones-de-plazas/",
-        "date": "2025-12-19 19:24:44",
-        "sentiment_score": -0.04295828938484192
-    },
-    {
-        "title": "Brasil jugará con Francia el 26 de marzo en Boston y después con Croacia en Orlando",
-        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2025/12/BRASIL-ENTRENA-PREVIA-ESPANA.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://soynuevaprensadigital.com/npd/brasil-jugara-con-francia-el-26-de-marzo-en-boston-y-despues-con-croacia-en-orlando/",
-        "date": "2025-12-19 19:09:21",
-        "sentiment_score": -0.0014443248510360718
-    },
-    {
-        "title": "Última hora del Meteocat: declara ‘peligro máximo’ en estas 16 comarcas catalanas",
-        "image_url": "https://okdiario.com/img/2025/12/19/la-rambla-iberia-de-sabadell-cortada-por-una-inundacion..jpg",
-        "tags": [
-            "protección civil",
-            "temperaturas",
-            "temporal",
-            "fenómenos meteorológicos",
-            "lluvias",
-            "frío",
-            "cataluña",
-            "previsiones",
-            "invierno",
-            "ola de frío",
-            "previsión del tiempo",
-            "españa",
-            "previsión meteorológica",
-            "meteorología",
-            "tiempo"
-        ],
-        "link": "https://okdiario.com/cataluna/ultima-hora-del-meteocat-declara-peligro-maximo-estas-16-comarcas-catalanas-15965454",
-        "date": "2025-12-19 22:00:47",
-        "sentiment_score": -0.7554783895611763
-    },
-    {
-        "title": "Rosaliers y motomamis, los fans incondicionales de Rosalía: \"Daría todos mis ahorros por ir a un concierto suyo. Y si tengo que esperar 15 horas de pie para verla, lo haría\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c4a76b8ac05bf943606289cec05a6dc7/crop/0x65/1193x1656/f/webp/assets/multimedia/imagenes/2025/12/19/17661380028063.jpg",
-        "tags": [
-            "nlpremium",
-            "rosalía",
-            "yodona",
-            "actualidad"
-        ],
-        "link": "https://www.elmundo.es/yodona/actualidad/2025/12/19/69451fc5e85ece88738b45ac.html",
-        "date": "2025-12-19 21:53:16",
-        "sentiment_score": 0.5399880781769753
-    },
-    {
-        "title": "La librería Sant Jordi de Barcelona desafía a la gentrificación y vuelve a subir la persiana ocho meses después",
-        "image_url": "https://static.eldiario.es/clip/0366e1f6-fe93-44a8-a596-bb90d54c5fd5_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "periodismo independiente",
-            "política",
-            "barcelona",
-            "actualidad",
-            "economía",
-            "cataluña",
-            "noticias",
-            "ignacio escolar"
-        ],
-        "link": "https://www.eldiario.es/catalunya/libreria-sant-jordi-barcelona-desafia-gentrificacion-vuelve-subir-persiana-ocho-meses-despues_1_12858438.html",
-        "date": "2025-12-19 21:50:52",
-        "sentiment_score": -0.034777283668518066
-    },
-    {
-        "title": "Andalucía, 25 años después de Carlos Cano (y II): un té verde por el Sáhara y un vinho verde por Portugal",
-        "image_url": "https://static.eldiario.es/clip/54da07a0-3e33-41b3-928c-0325182bc17d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "córdoba",
-            "sevilla",
-            "eldiario.es",
-            "análisis",
-            "málaga",
-            "noticias",
-            "granada",
-            "información",
-            "andalucía",
-            "opinión"
-        ],
-        "link": "https://www.eldiario.es/andalucia/lacajanegra/andalucia-25-anos-despues-carlos-cano-ii-verde-sahara-vinho-verde-portugal_1_12859492.html",
-        "date": "2025-12-19 21:50:52",
-        "sentiment_score": 0.03311237692832947
-    },
-    {
-        "title": "El brote de peste porcina se mantiene controlado tres semanas después mientras crece la presión sobre su origen",
-        "image_url": "https://static.eldiario.es/clip/5d50d90a-b9db-4b03-8a98-e7fc9f31103a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "periodismo independiente",
-            "política",
-            "barcelona",
-            "actualidad",
-            "economía",
-            "cataluña",
-            "noticias",
-            "ignacio escolar"
-        ],
-        "link": "https://www.eldiario.es/catalunya/brote-peste-porcina-mantiene-controlado-tres-semanas-despues-crece-presion-origen_1_12858339.html",
-        "date": "2025-12-19 21:50:47",
-        "sentiment_score": -0.18888874351978302
-    },
-    {
-        "title": "El fiasco de los activos rusos pone en duda la capacidad de Europa como potencia global",
-        "image_url": "https://static.eldiario.es/clip/e356fb2a-ed9a-4c6a-9b12-59e267223a70_16-9-discover-aspect-ratio_default_1133013.jpg",
-        "tags": [
-            "europa",
-            "duda",
-            "capacidad",
-            "potencia",
-            "global",
-            "activos",
-            "rusos",
-            "pone",
-            "fiasco"
-        ],
-        "link": "https://www.eldiario.es/internacional/fiasco-activos-rusos-pone-duda-capacidad-europa-potencia-global_1_12859991.html",
-        "date": "2025-12-19 21:50:45",
-        "sentiment_score": -0.12179359793663025
-    },
-    {
-        "title": "El fracaso de los cursos en catalán: un 15% de los alumnos abandonan",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2024/10/09/44BF13F3-D39D-4ED0-8446-D50EEC93F061/69.jpg?crop=1920%2C1080%2Cx0%2Cy100&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/fracaso-cursos-catalan-15-alumnos-abandonan_202512196945c5e322f0db7daff83757.html",
-        "date": "2025-12-19 21:38:43",
-        "sentiment_score": 0.3143814317882061
-    },
-    {
-        "title": "Desde la generosidad, el Este y el Oeste siempre se encuentran",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f493df74-0f58-420d-82d1-7db119c09081_alta-libre-aspect-ratio_320w_0.webp",
-        "tags": [
-            "península",
-            "españa",
-            "europa",
-            "lisboa"
-        ],
-        "link": "https://www.lne.es/opinion/2025/12/20/generosidad-oeste-encuentran-124978869.html",
-        "date": "2025-12-19 21:36:41",
-        "sentiment_score": 0.18506377935409546
-    },
-    {
-        "title": "LaLiga: Sevilla es la última prueba de Xabi Alonso y el Real Madrid en el año",
-        "image_url": "https://pxcdn.meridiano.net/122025/1766196664549.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/laliga-sevilla-es-la-ultima-prueba-de-xabi-alonso-y-el-real-madrid-en-el-ano-202512192270",
-        "date": "2025-12-20 02:07:00",
-        "sentiment_score": 0.7627085763961077
-    },
-    {
-        "title": "Carlota Gurt: \"La libido de la mujer se ha tenido que rebelar contra las grandes verdades, contra Dios, contra Freud, contra Darwin\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/e843f26e6f4d9cd602fea4d7cd783f47/crop/15x0/233x218/f/image/jpeg/assets/multimedia/imagenes/2022/03/21/16478798783008.png",
-        "tags": [
-            "cultura",
-            "literatura",
-            "artículos vanessa graell",
-            "sexo",
-            "teatro",
-            "barcelona"
-        ],
-        "link": "https://www.elmundo.es/la-lectura/2025/12/20/693afa0221efa01d738b457f.html",
-        "date": "2025-12-20 01:14:39",
-        "sentiment_score": -0.3997897356748581
-    },
-    {
-        "title": "La aldea gala 'de Diego', el comercio madrileño de más de 200 años que aún sobrevive en Sol: \"Somos un dinosaurio\"",
-        "image_url": "https://s3.elespanol.com/2025/12/12/madrid/1003744053549_260456291_1706x960.jpg",
-        "tags": [
-            "ocio",
-            "madrid",
-            "abanicos",
-            "puerta del sol"
-        ],
-        "link": "https://www.elespanol.com/madrid/ocio/20251220/aldea-gala-diego-comercio-madrileno-anos-sobrevive-sol-dinosaurio/1003744053394_0.html",
-        "date": "2025-12-20 01:00:00",
-        "sentiment_score": 0.029775917530059814
-    },
-    {
-        "title": "La cooperación que nace de la semilla del conocimiento: educación, ciencia y cultura como motores del desarrollo",
-        "image_url": "https://s3.elespanol.com/2024/05/29/actualidad/858924575_243579631_1706x960.jpg",
-        "tags": [
-            "oei iberoamérica en democracia",
-            "historias",
-            "latinoamérica",
-            "cooperación al desarrollo",
-            "objetivo 17: alianzas para lograr los objetivos",
-            "objetivo 16: paz",
-            "justicia e instituciones sólidas"
-        ],
-        "link": "https://www.elespanol.com/enclave-ods/historias/20251220/cooperacion-nace-semilla-conocimiento-educacion-ciencia-cultura-motores-desarrollo/1003744060234_0.html",
-        "date": "2025-12-20 00:45:00",
-        "sentiment_score": 0.6589751802384853
-    },
-    {
-        "title": "19 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/19-dic-2025-partidazo-cope-20251220_3275245.html",
-        "date": "2025-12-20 00:45:00",
-        "sentiment_score": 0.15633757412433624
-    },
-    {
-        "title": "La reina Letizia, Soraya Arnelas o Mercedes Milá: todos los famosos a los que les ha tocado la Lotería de Navidad",
-        "image_url": "https://s3.elespanol.com/2025/12/19/corazon/famosos/1003744062800_260573979_1706x960.jpg",
-        "tags": [
-            "soft",
-            "lotería de navidad",
-            "isabel gemio",
-            "mercedes milá",
-            "reina letizia",
-            "famosos",
-            "carmen lomana"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251220/reina-letizia-soraya-arnelas-mercedes-mila-famosos-tocado-loteria-navidad/271473027_0.html",
-        "date": "2025-12-20 00:33:00",
-        "sentiment_score": 0.3594335541129112
-    },
-    {
-        "title": "Albéniz, al mando en el reto copero del Costa Adeje",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/65323d10-dd09-4c99-8898-f8b00922e617_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tenerife",
-            "costa adeje",
-            "copa de la reina",
-            "sevilla"
-        ],
-        "link": "https://www.eldia.es/deportes/ud-tenerife/2025/12/20/albeniz-mando-reto-copero-costa-124981878.html",
-        "date": "2025-12-20 00:00:31",
-        "sentiment_score": 0.16576866805553436
-    },
-    {
-        "title": "El ranking de los 100 mejores futbolistas del 2025: en qué puesto quedó Lionel Messi y los otros seis argentinos de la lista",
-        "image_url": "https://www.infobae.com/resizer/v2/C347LAEDENGPLMINZSLH5XLAEM.jpg?auth=62b39be3dc057f55c5eafdf4358da0fff82276ff71f3943b297561150166515b&height=1080&smart=true&width=1920",
-        "tags": [
-            "julián álvarez",
-            "enzo fernández",
-            "selección argentina",
-            "alexis mac allister",
-            "lautaro martínez",
-            "lionel messi",
-            "emiliano dibu martínez",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/19/el-ranking-de-los-100-mejores-futbolistas-del-2025-en-que-puesto-quedo-lionel-messi-y-los-otros-seis-argentinos-de-la-lista/",
-        "date": "2025-12-19 23:50:51",
-        "sentiment_score": 0.7802167274057865
-    },
-    {
-        "title": "El Gordo llama a las puertas",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/19/1504009204-RDJr1ta4Ij4QkHOpMg0abRK-758x531@RC.JPG",
-        "tags": [
-            "premios",
-            "el gordo",
-            "loterías y apuestas del estado",
-            "apuestas",
-            "lotería de navidad",
-            "navidad",
-            "hacienda"
-        ],
-        "link": "https://www.elcorreo.com/sociedad/gordo-llama-puertas-20251219004534-ntrc.html",
-        "date": "2025-12-19 23:45:35",
-        "sentiment_score": 0.5647520199418068
-    },
-    {
-        "title": "Barcelona encabeza pagos de la UEFA por jugadoras en la Eurocopa Femenina 2025",
-        "image_url": "https://i.headtopics.com/images/2025/12/19/latimes/barcelona-encabeza-pagos-de-la-uefa-por-jugadoras--barcelona-encabeza-pagos-de-la-uefa-por-jugadoras--F4EE9342FCCC95FFECAB327C33EDA31A.webp",
-        "tags": [
-            "united states news"
-        ],
-        "link": "https://us.headtopics.com/news/barcelona-encabeza-pagos-de-la-uefa-por-jugadoras-en-la-77412567",
-        "date": "2025-12-20 01:39:43",
-        "sentiment_score": 0.375769954174757
-    },
-    {
-        "title": "El papel de Leo Messi en las elecciones del Barça: los opositores contra Laporta",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/23/culemania/culemaniacos/1003742700801_15317545_1706x960.jpg",
-        "tags": [
-            "palco",
-            "elecciones barça",
-            "joan camprubí",
-            "joan laporta",
-            "barça",
-            "xavier vilajoana",
-            "víctor font",
-            "fc barcelona"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251220/papel-leo-messi-elecciones-barca-opositores-laporta/1003742717741_0.html",
-        "date": "2025-12-20 01:01:31",
-        "sentiment_score": -0.17160136997699738
-    },
-    {
-        "title": "El éxito cañón de Alcalá Norte: \"Todo el mundo está deseando que nos demos la hostia\"",
-        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744062065_260564873_1706x960.jpg",
-        "tags": [
-            "música",
-            "entrevistas"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20251220/exito-canon-alcala-norte-mundo-deseando-demos-hostia/1003744062060_0.html",
-        "date": "2025-12-20 00:55:00",
-        "sentiment_score": 0.5930808596313
-    },
-    {
-        "title": "Las 25 mejores series de 2025: del delirio de Nathan Fielder en 'Los ensayos' al clasicismo de 'The Pitt'",
-        "image_url": "https://s3.elespanol.com/2025/12/19/actualidad/1003744063709_260586479_1706x960.jpg",
-        "tags": [
-            "en plan serie",
-            "series",
-            "recomendaciones",
-            "el cultural - lo mejor de 2025"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/blogs/en_plan_serie/20251220/mejores-series-delirio-nathan-fielder-ensayos-clasicismo-the-pitt/1003744063210_12.html",
-        "date": "2025-12-20 00:55:00",
-        "sentiment_score": -0.23819025605916977
-    },
-    {
-        "title": "Los 10 mejores ensayos de 2025: un Chaves Nogales inmortal se encumbra frente a los problemas de la actualidad",
-        "image_url": "https://s3.elespanol.com/2025/12/16/actualidad/1003744057397_260504704_1706x960.jpg",
-        "tags": [
-            "ensayo",
-            "libros",
-            "el cultural - lo mejor de 2025"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/ensayo/20251220/mejores-ensayos-chaves-nogales-inmortal-encumbra-frente-problemas-actualidad/1003744057164_0.html",
-        "date": "2025-12-20 00:55:00",
-        "sentiment_score": -0.07006657123565674
-    },
-    {
-        "title": "Kavac y Škaljari: una guerra entre narcos nacida en Valencia y afianzada en la Costa del Sol que deja más de 70 muertos",
-        "image_url": "https://s3.elespanol.com/2025/12/19/actualidad/1003744063192_260579066_1706x960.jpg",
-        "tags": [
-            "sucesos málaga",
-            "mafias",
-            "costa del sol",
-            "málaga",
-            "narcotráfico"
-        ],
-        "link": "https://www.elespanol.com/malaga/20251220/kavac-skaljari-guerra-narcos-nacida-valencia-afianzada-costa-sol-deja-muertos-dl/1003744063133_0.html",
-        "date": "2025-12-20 00:40:00",
-        "sentiment_score": -0.8504240801557899
-    },
-    {
-        "title": "Luna Miguel: \"Se habla de violencia sexual, del consentimiento, pero la reacción ha sido 'callaos, que ya aburre'\"",
-        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744062138_260585743_1706x960.jpg",
-        "tags": [
-            "periodistas",
-            "entrevistas",
-            "porfolio",
-            "escritores",
-            "reportajes"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251220/luna-miguel-habla-violencia-sexual-consentimiento-reaccion-callaos-aburre/1003744062077_0.html",
-        "date": "2025-12-20 00:40:00",
-        "sentiment_score": -0.708986446261406
-    },
-    {
-        "title": "Cayó la banda de “Los Pirañas de Valencia” en Barcelona",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/12/IMG-20251219-WA0006.webp",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://lacalle.com.ve/cayo-la-banda-de-los-piranas-de-valencia-en-barcelona/",
-        "date": "2025-12-20 00:34:22",
-        "sentiment_score": -0.7106451857835054
-    },
-    {
         "title": "Una ruta para degustar buen aceite por Las Vegas y la Alcarria madrileña",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5ac1571e-7db0-4e18-8988-a8450af7f152_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -589,21 +110,6 @@ export default [
         "link": "https://www.diariodecastillayleon.es/opinion/251220/103741/alza-impuestos-soria-despoblacion.html",
         "date": "2025-12-20 05:30:00",
         "sentiment_score": -0.23532867431640625
-    },
-    {
-        "title": "Igor Paskual busca respuestas: ¿Para qué sirve la música?",
-        "image_url": "https://static.eldiario.es/clip/a0b88c37-1de4-4dba-a5e6-01107cde9ed8_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "musica",
-            "igor",
-            "busca",
-            "sirve",
-            "respuestas",
-            "paskual"
-        ],
-        "link": "https://www.eldiario.es/asturias/igor-paskual-busca-respuestas-sirve-musica_1_12833630.html",
-        "date": "2025-12-20 05:02:44",
-        "sentiment_score": -0.05596330761909485
     },
     {
         "title": "La pequeña empresa que resiste tras 45 años en un barrio de Pamplona y con relevo asegurado: \"Es la tercera generación\"",
@@ -3059,5 +2565,147 @@ export default [
         "link": "https://www.deia.eus/athletic/2025/12/23/naufragio-areas-10506324.html",
         "date": "2025-12-23 06:13:43",
         "sentiment_score": -0.751170240342617
+    },
+    {
+        "title": "El Real Madrid cede a Endrick al Lyon",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/01/17/6789924e44e99.r_d.1094-482.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/lyon-oficial-llegada-endrick-cedido-20251223_3276840.html",
+        "date": "2025-12-23 17:08:12",
+        "sentiment_score": -0.06490282714366913
+    },
+    {
+        "title": "17:00H | 23 DIC 2025 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-23-dic-2025-tarde-20251223_3276846.html",
+        "date": "2025-12-23 17:07:00",
+        "sentiment_score": -0.047014474868774414
+    },
+    {
+        "title": "El Real Madrid hace oficial la cesión de Endrick al Lyon hasta el final de la temporada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/52c79acb-63f2-4e1d-837d-077bbfb09db0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid,futbol"
+        ],
+        "link": "https://www.superdeporte.es/futbol/2025/12/23/real-madrid-oficial-cesion-endrick-125102538.html",
+        "date": "2025-12-23 17:06:56",
+        "sentiment_score": 0.11766715347766876
+    },
+    {
+        "title": "La crisis de convivencia en Badalona desata otra previsible batalla política",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/23/694acb0b36d0f.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20251223/11391513/crisis-convivencia-badalona-desata-previsible-batalla-politica.html",
+        "date": "2025-12-23 17:09:49",
+        "sentiment_score": -0.8655569609254599
+    },
+    {
+        "title": "Sánchez Llibre denuncia un \"ataque sin piedad\" contra los propietarios de viviendas",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/23/business/1003742718787_15546846_1706x960.jpg",
+        "tags": [
+            "izquierda",
+            "govern",
+            "vivienda",
+            "patronales",
+            "cataluña",
+            "generalitat de cataluña",
+            "presupuestos",
+            "foment del treball",
+            "salvador illa",
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20251223/sanchez-llibre-denuncia-ataque-piedad-propietarios-viviendas/1003742718756_0.html",
+        "date": "2025-12-23 17:09:11",
+        "sentiment_score": -0.6466213837265968
+    },
+    {
+        "title": "Limpieza de capitanes en el Barça: el elegido de Flick y Deco para liquidarlos a todos",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/03/07/culemania/primer-equipo/929417264_15546637_1706x960.jpg",
+        "tags": [
+            "hansi flick",
+            "frenkie de jong",
+            "éric garcía",
+            "ronald araujo",
+            "primer equipo",
+            "raphinha",
+            "ter stegen",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251223/limpieza-capitanes-barca-elegido-flick-deco-liquidarlos/1003742718771_0.html",
+        "date": "2025-12-23 17:05:14",
+        "sentiment_score": 0.5421902611851692
+    },
+    {
+        "title": "Entidades sociales reubican a 52 desalojados del B9 de Badalona y descartan la parroquia",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/b9_badalona.jpg",
+        "tags": [
+            "emergencias",
+            "barcelona",
+            "desalojos",
+            "cruz roja",
+            "badalona",
+            "generalitat de cataluña",
+            "sociedad"
+        ],
+        "link": "https://theobjective.com/sociedad/2025-12-23/entidades-desalojados-b9-badalona/",
+        "date": "2025-12-23 17:05:02",
+        "sentiment_score": -0.2467874363064766
+    },
+    {
+        "title": "El PAR concurrirá en solitario a las elecciones autonómicas con Alberto Izquierdo como candidato",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/12/23/alberto-izquierdo-e-integrantes-de-la-ejecutiva-del-par.jpeg",
+        "tags": [
+            "aragón"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/aragon/2025/12/23/el-par-concurrira-en-solitario-a-las-elecciones-autonomicas-con-alberto-izquierdo-como-candidato-1881035-daa.html",
+        "date": "2025-12-23 17:03:26",
+        "sentiment_score": 0.2803651690483093
+    },
+    {
+        "title": "Unió de Pagesos pide al Govern que «se responsabilice» de la gestión de la avispa asiática",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251223175259.jpg?fit=1272%2C251&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/uni-de-pagesos-pide-al-govern-que-se-responsabilice-de-la-gestin-de-la-avispa-asitica/",
+        "date": "2025-12-23 17:00:07",
+        "sentiment_score": -0.535172875970602
+    },
+    {
+        "title": "ISEB y Universidad Isabel I consolidan UNISEB; nueva oferta de másters online con doble acreditación",
+        "image_url": "https://www.diariosigloxxi.com/images/showid/7782889",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5714464/iseb-universidad-isabel-i-consolidan-uniseb-nueva-oferta-masters-online-doble-acreditacion",
+        "date": "2025-12-23 16:57:28",
+        "sentiment_score": 0.6950496733188629
+    },
+    {
+        "title": "La Fiscalía pide que se aclare si Albiol ofrece alternativa a los migrantes desalojados",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/23/694ac24a38870.r_d.3956-2637-567.jpeg",
+        "tags": [
+            "badalona barcelonès n."
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelones-nord/20251223/11391475/fiscalia-pide-aclare-albiol-ofrece-alternativa-migrantes-desalojados.html",
+        "date": "2025-12-23 16:56:12",
+        "sentiment_score": -0.6971295457333326
+    },
+    {
+        "title": "Eurecat impulsa un nuevo esquema de compensación de carbono en territorios mediterráneos",
+        "image_url": "https://images.ecestaticos.com/kW-uUftG5iHs3QMo91DA9msDW3U=/0x0:1200x837/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F45a%2F4b1%2F5db%2F45a4b15db2b72e5493a629126495a0a1.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elconfidencial.com/empresas/2025-12-23/agricultura-sostenible-reduccion-emisiones-biodiversidad-1hms_4274202/",
+        "date": "2025-12-23 16:54:00",
+        "sentiment_score": 0.6241463124752045
     }
 ];
