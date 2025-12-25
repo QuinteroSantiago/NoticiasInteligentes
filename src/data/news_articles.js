@@ -1,434 +1,5 @@
 export default [
     {
-        "title": "El escultor almeriense que miraba al Cid Campeador y a la Unión Soviética",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/21/IMG_20251207_172630-k78F-U2406211157731oF-1200x840@Ideal.jpg",
-        "tags": [
-            "castilla y león",
-            "trabajo",
-            "segundo premio",
-            "cuba",
-            "granada",
-            "cadalso de los vidrios",
-            "atocha",
-            "burgos",
-            "exposiciones",
-            "alameda",
-            "bari",
-            "quesada",
-            "cultura",
-            "argentina",
-            "cadalso",
-            "el arco",
-            "córdoba",
-            "la alhambra",
-            "principado de asturias",
-            "la unión",
-            "biblioteca nacional de españa",
-            "el pais",
-            "ciudades",
-            "arte",
-            "madrid (ciudad)",
-            "san fernando",
-            "café",
-            "ciudad real",
-            "ohanes",
-            "museo nacional del prado",
-            "nacimiento",
-            "ángel ganivet",
-            "almería"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/escultor-almeriense-miraba-cid-campeador-union-sovietica-20251221231805-nt.html",
-        "date": "2025-12-20 22:18:05",
-        "sentiment_score": 0.6668883785605431
-    },
-    {
-        "title": "Extremadura testa este domingo el empuje del cambio en España",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/21/maria-guardiola-elecciones-kp2E-U240619758151QxE-1200x840@RC.jpg",
-        "tags": [
-            "partido socialista obrero español (psoe)",
-            "cis",
-            "vox",
-            "maría guardiola",
-            "santiago abascal",
-            "ione belarra",
-            "alberto núñez feijóo",
-            "partido popular (pp)",
-            "extremadura",
-            "guillermo fernández vara",
-            "pedro sánchez",
-            "yolanda díaz",
-            "elecciones autonómicas"
-        ],
-        "link": "https://www.canarias7.es/elecciones/extremadura/extremadura-testa-domingo-empuje-cambio-espana-20251221001716-ntrc.html",
-        "date": "2025-12-20 22:17:21",
-        "sentiment_score": -0.5980740934610367
-    },
-    {
-        "title": "El Real Madrid despide el 2025 con victoria ante el Sevilla y Mbappé iguala a Cristiano (2-0)",
-        "image_url": "https://cflvdg.avoz.es/sc/OQmUKHI0g7_CYHdrQMw2sB1U4ow=/768x/2025/12/20/00121766268061534696733/Foto/eup_20251220_214139951.jpg",
-        "tags": [
-            "jude bellingham",
-            "kylian mbappé",
-            "sevilla fc",
-            "deportes",
-            "real madrid"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/20/real-madrid-despide-2025-victoria-ante-sevilla-mbappe-iguala-cristiano-2-0/00031766268668384412965.htm",
-        "date": "2025-12-20 22:13:00",
-        "sentiment_score": 0.0042929574847221375
-    },
-    {
-        "title": "El Real Madrid acaba el año con una victoria que no cambia su triste realidad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d5476d5f-1827-4545-9d4b-1f13c66ccda8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "kylian mbappé",
-            "xabi alonso",
-            "real madrid",
-            "fútbol",
-            "sevilla fc"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/20/real-madrid-sevilla-resultado-goles-resumen-125004041.html",
-        "date": "2025-12-20 22:06:30",
-        "sentiment_score": -0.0853813886642456
-    },
-    {
-        "title": "El jardín mágico lleno de luces de Navidad más viral de Barcelona: a 30 minutos y entrada gratuita",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2023/11/21/gran-barcelona/811428864_11924780_1706x960.jpg",
-        "tags": [
-            "baix llobregat",
-            "navidad barcelona",
-            "gavà",
-            "planes",
-            "gran barcelona",
-            "recomendaciones"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251220/jardin-magico-lleno-luces-navidad-viral-barcelona-minutos-entrada-gratuita/1003742718006_0.html",
-        "date": "2025-12-20 21:41:55",
-        "sentiment_score": 0.5600081905722618
-    },
-    {
-        "title": "Fallece una joven de 20 años que iba en patinete atropellada por un coche",
-        "image_url": "https://www.clm24.es/media/clm24/images/2024/01/31/2024013117333955034.jpg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://www.clm24.es/articulo/sucesos/fallece-joven-20-anos-que-iba-patinete-atropellada-coche/20251220222054466628.html",
-        "date": "2025-12-20 21:20:54",
-        "sentiment_score": -0.8234851891174912
-    },
-    {
-        "title": "Sophie Gilbert: “Que algunas feministas quieran convertirse en 'tradwife' es uno de los grandes retos de la modernidad”",
-        "image_url": "https://static.eldiario.es/clip/0f328d89-0d34-4ea1-8769-bf32c8096ae0_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cataluña",
-            "ignacio escolar",
-            "actualidad",
-            "noticias",
-            "barcelona",
-            "política",
-            "periodismo independiente",
-            "economía"
-        ],
-        "link": "https://www.eldiario.es/catalunya/sophie-gilbert-feministas-quieran-convertirse-tradwife-grandes-retos-modernidad_128_12847759.html",
-        "date": "2025-12-20 21:18:26",
-        "sentiment_score": -0.15196867287158966
-    },
-    {
-        "title": "El día que nadie aplaudió el gol que dos delanteros colaron al franquismo",
-        "image_url": "https://static.eldiario.es/clip/1da60300-e6c9-4dca-a84b-e118d4464607_16-9-discover-aspect-ratio_default_1132686.jpg",
-        "tags": [
-            "cantabria",
-            "actualidad",
-            "política",
-            "sociedad",
-            "santander"
-        ],
-        "link": "https://www.eldiario.es/cantabria/dia-nadie-aplaudio-gol-delanteros-colaron-franquismo_1_12831644.html",
-        "date": "2025-12-20 21:18:24",
-        "sentiment_score": -0.08230245113372803
-    },
-    {
-        "title": "La Generalitat y entidades darán cobijo a los desalojados de Badalona (Barcelona)",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/20/el-centenar-de-migrantes-acampados-en-una-plaza-junto-al-antiguo-instituto-b9-de-badalona-barcelona-desalojado-el-pasado-miercoles-por-los-mossos-d-esquadra-recogen-sus-cosas.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/la-generalitat-entidades-daran-cobijo-desalojados-badalona-barcelonabr-f202512.html",
-        "date": "2025-12-20 21:12:51",
-        "sentiment_score": -0.13611222803592682
-    },
-    {
-        "title": "Hay 15 provincias en alerta por lluvia, nieve, olas y viento",
-        "image_url": "https://cflvdg.avoz.es/sc/sol5ekbrxtxhR4ULUn9-IplLxwU=/768x/2025/12/20/00121766262421846245449/Foto/i_20251218_130139000.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/espana/2025/12/20/15-provincias-alerta-lluvia-nieve-olas-viento/00031766261652587358250.htm",
-        "date": "2025-12-20 21:12:01",
-        "sentiment_score": -0.651967728510499
-    },
-    {
-        "title": "Se registraron largas colas de vehículos en estaciones de servicio de la zona norte",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "transporte",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/se-registraron-largas-colas-de-vehiculos-en-estaciones-de-servicio-de-la-zona-norte/",
-        "date": "2025-12-20 21:10:01",
-        "sentiment_score": -0.24089671671390533
-    },
-    {
-        "title": "Real Madrid TV lanza un duro contraataque al Barça tras el discurso de Laporta: \"Falta a la verdad ante un juez\"",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/10/28/culemania/real-madrid/1003742702087_15536887_1706x960.jpg",
-        "tags": [
-            "josé maría enríquez negreira",
-            "joan laporta",
-            "real madrid"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20251220/real-madrid-tv-contraataque-barca-discurso-laporta/1003742717994_0.html",
-        "date": "2025-12-20 20:53:32",
-        "sentiment_score": -0.8932209247723222
-    },
-    {
-        "title": "Las ligas bajan el telón de la primera vuelta e inician su parón invernal por los Europeos",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/10/24/68fbae96cd8c8.r_d.1790-829.jpeg",
-        "tags": [
-            "waterpolo"
-        ],
-        "link": "https://www.mundodeportivo.com/waterpolo/20251220/1002590326/ligas-bajan-telon-primera-vuelta-e-inician-paron-febrero.html",
-        "date": "2025-12-20 20:53:27",
-        "sentiment_score": -0.00797814130783081
-    },
-    {
-        "title": "El áspero discurso de Almeyda tras ser expulsado ante el Real Madrid: “No soy el payaso de ningún circo”",
-        "image_url": "https://www.infobae.com/resizer/v2/FQUTLKTXSNDR7IUIINAH6VAJJY.png?auth=bea43b83f95ba25121e8b5d73244cfef8611479b0c0544937f436bdcf31e7c9e&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-argentina",
-            "sevilla",
-            "matías almeyda",
-            "real madrid",
-            "deportes-internacional"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/21/el-aspero-discurso-de-almeyda-tras-ser-expulsado-ante-el-real-madrid-no-soy-el-payaso-de-ningun-circo/",
-        "date": "2025-12-21 02:14:39",
-        "sentiment_score": -0.8994914786890149
-    },
-    {
-        "title": "Los diez mejores libros de poemas de 2025: de lo íntimo a lo social, versos para contener el mundo contemporáneo",
-        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744051848_260434698_1706x960.jpg",
-        "tags": [
-            "el cultural - lo mejor de 2025",
-            "poesía",
-            "letras",
-            "escritores"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/letras/20251221/mejores-libros-poemas-intimo-social-versos-contener-mundo-contemporaneo/1003744051727_0.html",
-        "date": "2025-12-21 01:16:33",
-        "sentiment_score": 0.824494544416666
-    },
-    {
-        "title": "Linda Caicedo comandó al Real Madrid en la Copa de la Reina: doblete en goleada a Espanyol",
-        "image_url": "https://www.infobae.com/resizer/v2/XUK3W52NPFCG5FDWWBVSHBMJBE.jpg?auth=ed2692d0ef38ac0431821491237c5fecf1fdbba310defedcb944c93a171941a2&height=862&smart=true&width=1467",
-        "tags": [
-            "colombia-deportes",
-            "linda caicedo gol",
-            "copa de la reina",
-            "real madrid",
-            "linda caicedo real madrid",
-            "real madrid femenino",
-            "linda caicedo",
-            "linda caicedo doblete"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/12/21/linda-caicedo-comando-al-real-madrid-en-la-copa-de-la-reina-doblete-en-goleada-a-espanyol/",
-        "date": "2025-12-21 00:57:30",
-        "sentiment_score": 0.9074696842581034
-    },
-    {
-        "title": "España y Portugal, un camino común",
-        "image_url": "https://static.laregion.es/clip/e0f00c5d-e0f3-4dfa-bd83-2768af954758_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "historia",
-            "unión europea"
-        ],
-        "link": "https://www.laregion.es/espana/espana-portugal-camino-comun_1_20251221-4101074.html",
-        "date": "2025-12-21 00:50:02",
-        "sentiment_score": -0.03514258563518524
-    },
-    {
-        "title": "20 DIC 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/20-dic-2025-tramo-final-juego-20251221_3275403.html",
-        "date": "2025-12-21 00:15:00",
-        "sentiment_score": -0.5882956385612488
-    },
-    {
-        "title": "Xabi salva el 'match ball' del Sevilla; Mbappé pasa a la historia del Madrid",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2618662.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.vozpopuli.com/deportes/xabi-salva-el-match-ball-del-sevilla-mbappe-pasa-a-la-historia-del-madrid.html",
-        "date": "2025-12-20 23:58:53",
-        "sentiment_score": 0.31473955512046814
-    },
-    {
-        "title": "Xabi Alonso: \"Le pongo contexto al momento en el que estamos\"",
-        "image_url": "https://www.infobae.com/resizer/v2/5JYIC7ACWNBVTGKV4AXUDW33XU.jpg?auth=64d7945f1fe2005b8b146d4321e8e3b28fca6df8601ae8f22b7fd74039345c07&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/20/xabi-alonso-le-pongo-contexto-al-momento-en-el-que-estamos/",
-        "date": "2025-12-20 23:45:16",
-        "sentiment_score": 0.041022077202796936
-    },
-    {
-        "title": "Cifra histórica: Kylian Mbappé iguala récord de Cristiano Ronaldo",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1766276924112/kylian-mbappe_qn149fij9vb61f678birf15kx.jpg?ch=675&cw=1200",
-        "tags": [
-            "madrid",
-            "mbappé rompe récord de cristiano ronaldo",
-            "kylian mbappé",
-            "real madrid",
-            "laliga",
-            "récord de cristiano ronaldo"
-        ],
-        "link": "https://2001online.com/deportes/cifra-historica-kylian-mbappe-iguala-record-de-cristiano-ronaldo-2025122020350",
-        "date": "2025-12-20 23:36:55",
-        "sentiment_score": 0.6418760046362877
-    },
-    {
-        "title": "Vinícius cambió foto de perfil en redes tras ser pitado en el Bernabéu",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/vinicius-jr-1.jpg",
-        "tags": [
-            "titulares",
-            "deportes",
-            "vinicius jr",
-            "real madrid cf",
-            "futbol"
-        ],
-        "link": "https://lapatilla.com/2025/12/20/vinicius-cambio-foto-de-perfil-en-redes-tras-ser-pitado-en-el-bernabeu/",
-        "date": "2025-12-20 23:36:37",
-        "sentiment_score": 0.029263176023960114
-    },
-    {
-        "title": "Unas navidades de película",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/21/avatar-escena-promocional-klUC-U2406224936100CB-1200x840@RC.jpg",
-        "tags": [
-            "netflix",
-            "bob esponja",
-            "james cameron",
-            "cine",
-            "santiago segura",
-            "navidad",
-            "disney"
-        ],
-        "link": "https://www.leonoticias.com/pantallas/cine/navidades-pelicula-20251221003508-ntrc.html",
-        "date": "2025-12-20 23:35:09",
-        "sentiment_score": 0.3379253149032593
-    },
-    {
-        "title": "Antonio Ledezma: \"Sánchez es quien ha cambiado, recibía a mi esposa cuando yo estaba preso y ahora no felicita a María Corina\"",
-        "image_url": "https://s3.elespanol.com/2025/12/19/espana/politica/1003744064018_260590469_1706x960.jpg",
-        "tags": [
-            "josé luis rodríguez-zapatero",
-            "pedro sánchez",
-            "nicolás maduro",
-            "entrevistas",
-            "antonio ledezma",
-            "hablando sobre españa",
-            "venezuela",
-            "política"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251221/antonio-ledezma-sanchez-cambiado-recibia-esposa-preso-ahora-no-felicita-maria-corina/1003744062253_0.html",
-        "date": "2025-12-21 02:09:40",
-        "sentiment_score": -0.9016937492415309
-    },
-    {
-        "title": "Moreno no sabe contar",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "contar",
-            "no",
-            "moreno"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/moreno-no-contar_0_2005496838.html",
-        "date": "2025-12-21 02:09:25",
-        "sentiment_score": -0.4624992907047272
-    },
-    {
-        "title": "Feijóo y otros mártires del compás",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "compas",
-            "martires",
-            "feijoo"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/feijoo-martires-compas_0_2005496836.html",
-        "date": "2025-12-21 02:09:24",
-        "sentiment_score": -0.6853425726294518
-    },
-    {
-        "title": "Sumar tiene una gran culpa",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sumar",
-            "culpa",
-            "gran"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/sumar-gran-culpa_0_2005496827.html",
-        "date": "2025-12-21 02:09:21",
-        "sentiment_score": -0.3011537194252014
-    },
-    {
-        "title": "Las verdades de Gates",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "verdades",
-            "gates"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/verdades-gates_0_2005496824.html",
-        "date": "2025-12-21 02:09:20",
-        "sentiment_score": 0.5834769159555435
-    },
-    {
-        "title": "Feliz, cristiana y dickensiana Navidad",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navidad",
-            "feliz",
-            "cristiana",
-            "dickensiana"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/feliz-cristiana-dickensiana-navidad_0_2005496823.html",
-        "date": "2025-12-21 02:09:20",
-        "sentiment_score": -0.149230495095253
-    },
-    {
-        "title": "El poder local",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "local"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/local_0_2005496821.html",
-        "date": "2025-12-21 02:09:19",
-        "sentiment_score": -0.30257005989551544
-    },
-    {
-        "title": "El baluarte contra la ultraderecha",
-        "image_url": "https://static.grupojoly.com/clip/682e7885-596b-4461-9c17-eea1ddb6cd26_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ultraderecha",
-            "baluarte"
-        ],
-        "link": "https://www.diariodesevilla.es/opinion/articulos/baluarte-ultraderecha_0_2005496818.html",
-        "date": "2025-12-21 02:09:18",
-        "sentiment_score": -0.7478578761219978
-    },
-    {
         "title": "Este es el número de 'El Gordo' en la Lotería de Navidad 2025, según Benita: \"Lo tengo muy claro\"",
         "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/08/13/689c50a17b52b.png",
         "tags": [
@@ -2969,5 +2540,239 @@ export default [
         "link": "https://es.ara.cat/cultura/leer/revolucion-libros-pasan-madres-hijas_1_5601388.html",
         "date": "2025-12-24 06:00:55",
         "sentiment_score": 0.11910036206245422
+    },
+    {
+        "title": "Éxito rotundo de la Tardebuena en León: la plaza Mayor y la de Regla se convierten en una fiesta",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/12/24/WhatsApp%20Image%202025-12-24%20at%2017.38.12-U22017405028216qB-U240659077518IXH-1200x840@Leonoticias.jpeg",
+        "tags": [
+            "león (capital)",
+            "navidad",
+            "ayuntamiento de león"
+        ],
+        "link": "https://www.leonoticias.com/leon/exito-rotundo-tardebuena-leon-plaza-mayor-regla-20251224180800-nt.html",
+        "date": "2025-12-24 17:08:01",
+        "sentiment_score": 0.8318272847682238
+    },
+    {
+        "title": "El Atlético de Madrid traspasa al excéltico Javi Galán a Osasuna",
+        "image_url": "https://cflvdg.avoz.es/sc/g9zF7136XMBhFACyglxfWloCP9w=/768x/2025/12/24/00121766595721531697964/Foto/eup_20251126_214549686.jpg",
+        "tags": [
+            "atlético de madrid",
+            "osasuna",
+            "deportes",
+            "javi galán"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/24/atletico-madrid-traspasa-exceltico-javi-galan-osasuna/00031766595689983254169.htm",
+        "date": "2025-12-24 17:04:00",
+        "sentiment_score": -0.2559093162417412
+    },
+    {
+        "title": "Herida una mujer de 31 años tras una colisión entre dos turismos en León",
+        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/12/24/ambukanci-pucela-kI7-U2406599108743pD-1200x840@Leonoticias.jpg",
+        "tags": [
+            "policía nacional",
+            "sacyl",
+            "león (capital)",
+            "hospital de león"
+        ],
+        "link": "https://www.leonoticias.com/leon/herida-mujer-anos-tras-colision-dos-turismos-20251224173829-nt.html",
+        "date": "2025-12-24 16:38:29",
+        "sentiment_score": -0.6702999509871006
+    },
+    {
+        "title": "El Atlético de Madrid alcanza un acuerdo con Osasuna para el traspaso de Javi Galán",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/24/694c0d3d1d8b10-33418850.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/atletico-madrid-alcanza-un-acuerdo-con-osasuna-para-traspaso-javi-galan_6914605_0.html",
+        "date": "2025-12-24 16:15:35",
+        "sentiment_score": 0.14963464438915253
+    },
+    {
+        "title": "El Atlético de Madrid traspasa al defensa Javi Galán a Osasuna",
+        "image_url": "https://www.infobae.com/resizer/v2/FBRH55K2VBGOJIIUBK4SJZX7XI.jpg?auth=c41c514339c8c29447e1865feb646707d93c13bce9fa68db0bde4159c8f46168&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/24/el-atletico-de-madrid-traspasa-al-defensa-javi-galan-a-osasuna/",
+        "date": "2025-12-24 16:15:18",
+        "sentiment_score": -0.214790940284729
+    },
+    {
+        "title": "Los desempleados quedan exentos de presentar la declaración de la renta",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/24/694c0ff8826ab.r_d.3104-1801-0.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20251224/11393242/desempleados-quedan-exentos-presentar-declaracion-renta.html",
+        "date": "2025-12-24 16:12:19",
+        "sentiment_score": 0.03721427917480469
+    },
+    {
+        "title": "Regalo de Nochebuena: el sorprendente fichaje navideño de Osasuna que llega desde Madrid",
+        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/12/24/2025122416562243943.jpg",
+        "tags": [
+            "osasuna"
+        ],
+        "link": "https://navarra.okdiario.com/articulo/osasuna/sorprendente-fichaje-navideno-osasuna-que-llega-madrid/20251224170813627367.html",
+        "date": "2025-12-24 16:08:13",
+        "sentiment_score": 0.06710679084062576
+    },
+    {
+        "title": "Los clubes de fútbol felicitan las fiestas a toda la afición y despiden el 2025",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/24/4390BFA4-039D-4B71-8DF2-F823DC34A0EB/felicitacion-navidena-real-sociedad_70.jpg?crop=1668%2C938%2Cx48%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "deportes",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/clubes-futbol-felicitan-fiestas-toda-aficion-despiden-2025_20251224694c0fa2af09df5010931307.html",
+        "date": "2025-12-24 16:06:58",
+        "sentiment_score": 0.7077704332768917
+    },
+    {
+        "title": "El Atlético se desprende de Javi Galán por medio millón de euros",
+        "image_url": "https://okdiario.com/img/2025/12/24/javi-galan.-ep.jpg",
+        "tags": [
+            "atlético de madrid",
+            "deportes",
+            "fútbol",
+            "club atlético osasuna"
+        ],
+        "link": "https://okdiario.com/deportes/atletico-desprende-javi-galan-medio-millon-euros-15987456",
+        "date": "2025-12-24 16:03:29",
+        "sentiment_score": 0.005414977669715881
+    },
+    {
+        "title": "El Prado dedica una muestra al papel de Isabel de Farnesio",
+        "image_url": "https://okdiario.com/img/2025/12/19/isabel-_11zon.png",
+        "tags": [
+            "exposiciones",
+            "okplanes",
+            "museo del prado",
+            "cultura",
+            "madrid"
+        ],
+        "link": "https://okdiario.com/okplanes/prado-dedica-muestra-papel-isabel-farnesio-15963598",
+        "date": "2025-12-24 16:00:47",
+        "sentiment_score": 0.10151951760053635
+    },
+    {
+        "title": "Ahorrar en la cena de Nochebuena es misión (casi) imposible",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/21/AD6841D0-CA70-4BB1-83B7-52A4CFDFB021/70.jpg?crop=1920%2C1080%2Cx0%2Cy437&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "antena 3 noticias",
+            "economía"
+        ],
+        "link": "https://www.antena3.com/noticias/economia/ahorrar-cena-nochebuena-mision-casi-imposible_20251224694c1ec522f0db7daffd2422.html",
+        "date": "2025-12-24 17:11:33",
+        "sentiment_score": -0.6256814636290073
+    },
+    {
+        "title": "Prisión sin fianza para uno de los tres detenidos por la muerte violenta de un hombre en Molins de Rei",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ea255b92-8ac3-460d-9a97-90baa8e12375_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://www.elperiodico.com/es/sucesos/20251224/prision-detenido-muerte-violenta-hombre-molins-rei-125124716",
+        "date": "2025-12-24 17:10:34",
+        "sentiment_score": -0.7663252335041761
+    },
+    {
+        "title": "Navidad con abrigo y paraguas: vuelven la lluvia y la nieve con ambiente de pleno invierno",
+        "image_url": "https://static1.ara.cat/clip/e7590ba7-d0cf-4f1c-a2d4-e4fa9d7056e0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ambiente",
+            "navidad",
+            "paraguas",
+            "lluvia",
+            "invierno",
+            "pleno",
+            "nieve",
+            "abrigo",
+            "vuelven"
+        ],
+        "link": "https://es.ara.cat/el-tiempo/navidad-abrigo-paraguas-vuelven-lluvia-nieve-ambiente-pleno-invierno_1_5601976.html",
+        "date": "2025-12-24 17:08:06",
+        "sentiment_score": 0.12053315341472626
+    },
+    {
+        "title": "La Guardia Urbana de Barcelona intensifica las inspecciones a locales de ocio por Navidad",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/12/09/71228A74-19F8-4EB6-B56F-8CF2A039FE3A/agentes-guardia-urbana-presentacion-nuevos-vehiculos-cuerpo-policial_69.jpg?crop=6959%2C3914%2Cx0%2Cy367&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/guardia-urbana-barcelona-intensifica-inspecciones-locales-ocio-navidad_20251224694c1de3af09df5010931b3c.html",
+        "date": "2025-12-24 17:07:47",
+        "sentiment_score": 0.06938614696264267
+    },
+    {
+        "title": "La compra de 39 nuevos trenes para el metro de Barcelona no convence a los fabricantes",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/24/694c108cdab5f.r_d.1825-1185-1229.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20251224/11393022/compra-39-nuevos-trenes-metro-barcelona-concurso-desierto-alstom.html",
+        "date": "2025-12-24 17:01:34",
+        "sentiment_score": -0.5615678392350674
+    },
+    {
+        "title": "San Silvestre Vallecana 2025: horarios de las oleadas, cómo llegar a la salida y novedades para la edición de este año",
+        "image_url": "https://s3.elespanol.com/2024/12/31/deportes/otros-deportes/912919207_252041873_1706x960.jpg",
+        "tags": [
+            "vallecas",
+            "san silvestre vallecana",
+            "madrid",
+            "estadio santiago bernabéu",
+            "deportes",
+            "carreras populares",
+            "running"
+        ],
+        "link": "https://www.elespanol.com/deportes/20251224/san-silvestre-vallecana-horarios-oleadas-llegar-salida-novedades-edicion-ano/1003744068848_0.html",
+        "date": "2025-12-24 17:00:00",
+        "sentiment_score": 0.3095702975988388
+    },
+    {
+        "title": "Lo de las copas de Navidad",
+        "image_url": "https://static1.ara.cat/clip/d321af23-956a-4145-8e63-ab7c0710a38c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "copas",
+            "navidad"
+        ],
+        "link": "https://es.ara.cat/economia/patronales/copas-navidad_1_5601934.html",
+        "date": "2025-12-24 16:43:10",
+        "sentiment_score": -0.011782720685005188
+    },
+    {
+        "title": "Las palabras de Kiko Galván tras su expulsión por imprudencia vial: \"Lo que duele es sentir que has decepcionado a los tuyos\"",
+        "image_url": "https://album.mediaset.es/eimg/2025/12/24/kiko-galvan-tras-su-expulsion-por-imprudencia-vial-lo-que-duele-es-decepcionar_35c5.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.telecinco.es/noticias/deportes/20251224/kiko-galvan-palabras-expulsion-imprudencia-vial_18_017941549.html",
+        "date": "2025-12-24 16:39:22",
+        "sentiment_score": -0.7247012034058571
+    },
+    {
+        "title": "Helen Hunt, una turista en Barcelona fascinada por la Sagrada Familia",
+        "image_url": "https://www.hola.com/horizon/landscape/88db26da5636-gettyimages-2056676866.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad",
+            "cine"
+        ],
+        "link": "https://www.hola.com/actualidad/20251224874640/helen-hunt-barcelona-sagrada-familia/",
+        "date": "2025-12-24 16:32:55",
+        "sentiment_score": 0.45373033732175827
+    },
+    {
+        "title": "Loterías paga más de 710 millones de euros en premios del Sorteo de Navidad 2025 hasta hoy 24 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/XFLJZJFBDVD6RGZELMEAXKVSMI.jpg?auth=f7398c5f584610e32c5e98094181f70ad20d98b9b64c43d155e8301e1d78dab8&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/24/loterias-paga-mas-de-710-millones-de-euros-en-premios-del-sorteo-de-navidad-2025-hasta-hoy-24-de-diciembre/",
+        "date": "2025-12-24 16:30:21",
+        "sentiment_score": 0.3124479651451111
     }
 ];
