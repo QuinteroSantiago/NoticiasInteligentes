@@ -190,16 +190,6 @@ export default [
         "sentiment_score": 0.290423858910799
     },
     {
-        "title": "Semana Deportiva: Los margariteños lideran la pelota criolla",
-        "image_url": "https://static.wixstatic.com/media/335561_7343b4a896f14cf28785e741e82f466a~mv2.jpg/v1/fit/w_700,h_470,al_c,q_80/file.png",
-        "tags": [
-            "información"
-        ],
-        "link": "https://www.informe21.com/post/semana-deportiva-13",
-        "date": "2025-12-21 14:10:27",
-        "sentiment_score": 0.641560647636652
-    },
-    {
         "title": "La pitada contra Vinicius en el Bernabéu: ¿qué pasó con el jugador brasileño?",
         "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/21190604/Vinicius-Bernabeu.jpg",
         "tags": [
@@ -2875,5 +2865,67 @@ export default [
         "link": "https://mundonow.com/marcus-rashford-y-un-mensaje-claro-desde-barcelona/",
         "date": "2025-12-24 20:03:20",
         "sentiment_score": 0.07344774901866913
+    },
+    {
+        "title": "Las reacciones al mensaje de Felipe VI evidencian respaldo en el Partido Popular y críticas desde la izquierda",
+        "image_url": "https://www.infobae.com/resizer/v2/OSTOYBP3XBASNFVOEQTEM3IMFQ.jpeg?auth=9454e446bb1ce3d71a92028203abf3eb17fefe833af300174f995d20784f66f1&height=900&smart=true&width=1600",
+        "tags": [
+            "podemos",
+            "sumar",
+            "españa-noticias",
+            "españa-sociedad",
+            "pp",
+            "felipe vi",
+            "juanma moreno",
+            "isabel díaz ayuso",
+            "gabriel rufián",
+            "alberto núñez feijóo",
+            "cuca gamarra",
+            "josé luis martínez almeida"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/25/las-reacciones-al-mensaje-de-felipe-vi-evidencian-respaldo-en-el-partido-popular-y-criticas-desde-la-izquierda/",
+        "date": "2025-12-25 00:53:04",
+        "sentiment_score": -0.7656395621597767
+    },
+    {
+        "title": "La misión española en Irak, clave en la lucha contra el terrorismo y la estabilidad de una zona de alto riesgo",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/24/694bd9864cf25.r_d.1290-727-4688.jpeg",
+        "tags": [
+            "defensa y fuerzas armadas"
+        ],
+        "link": "https://www.eldebate.com/espana/defensa/20251225/mision-espanola-irak-clave-lucha-contra-terrorismo-estabilidad-zona-alto-riesgo_368489.html",
+        "date": "2025-12-25 00:30:00",
+        "sentiment_score": 0.27344532310962677
+    },
+    {
+        "title": "Unas 60 personas desalojadas en Badalona pasarán la Nochebuena debajo de un puente",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/12/25/decenas-de-personas-bajo-el-puente-de-la-autopista-c31.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2025/12/25/unas-60-personas-desalojadas-en-badalona-pasaran-la-nochebuena-debajo-de-un-puente-1881224.html",
+        "date": "2025-12-25 00:47:53",
+        "sentiment_score": -0.13604826480150223
+    },
+    {
+        "title": "Guillem Pujol y Laura Rodríguez favoritos en la Copa Nadal",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/24/694c04737431b.jpeg",
+        "tags": [
+            "esports cope"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/guillem-pujol-laura-rodriguez-favoritos-copa-nadal-20251225_3277417.html",
+        "date": "2025-12-24 23:05:00",
+        "sentiment_score": 0.0951666533946991
+    },
+    {
+        "title": "El gran gesto navideño de Raphinha: Juguetes, música y filosofía \"Sankofa\" en Brasil",
+        "image_url": "https://pxcdn.meridiano.net/122025/1766621712329.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/usa/futbol/espanol/el-gran-gesto-navideno-de-raphinha-juguetes-musica-y-filosofia-sankofa-en-brasil-202512241940",
+        "date": "2025-12-24 23:04:00",
+        "sentiment_score": 0.10865089297294617
     }
 ];
