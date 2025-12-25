@@ -1,195 +1,5 @@
 export default [
     {
-        "title": "Villarreal 0 - Barcelona 2 : Los catalanes cierran el año con una importante victoria",
-        "image_url": "https://pxcdn.meridiano.net/122025/1766335502976.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/villarreal---barcelona-en-vivo-flick-pone-su-confianza-en-ferran-torres--2025122111100",
-        "date": "2025-12-21 17:14:00",
-        "sentiment_score": 0.6419097632169724
-    },
-    {
-        "title": "El Barça logra el triunfo de siempre en La Cerámica y cierra el año en lo más alto de la tabla",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/21/694826b9b370d.r_d.1421-469-6250.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20251221/barca-logra-triunfo-siempre-ceramica-cierra-ano-alto-tabla_367651.html",
-        "date": "2025-12-21 17:09:47",
-        "sentiment_score": 0.8665844816714525
-    },
-    {
-        "title": "El Barça asalta La Cerámica, pone tierra de por medio con el Villarreal y cierra el año con el liderato de La Liga",
-        "image_url": "https://s3.elespanol.com/2025/12/21/actualidad/1003744065122_260606809_1706x960.jpg",
-        "tags": [
-            "la liga",
-            "deportes",
-            "fc barcelona",
-            "fútbol",
-            "villarreal cf"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251221/barca-asalta-ceramica-pone-tierra-medio-villarreal-cierra-ano-liderato-liga/1003744065016_0.html",
-        "date": "2025-12-21 17:09:23",
-        "sentiment_score": 0.3849268853664398
-    },
-    {
-        "title": "Muere Celso Bugallo, uno de los grandes secundarios del cine español",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/21/Bugallo-RUUXahUNCw0B6p6N1jSEyXJ-1200x840@RC.jpg",
-        "tags": [
-            "festival internacional de cine de san sebastián",
-            "premios goya",
-            "pontevedra (provincia)"
-        ],
-        "link": "https://www.leonoticias.com/culturas/muere-celso-bugallo-grandes-secundarios-20251221175336-ntrc.html",
-        "date": "2025-12-21 17:08:52",
-        "sentiment_score": -0.2895224690437317
-    },
-    {
-        "title": "Niños de San Ildefonso, felices de estar en el Sorteo: \"Mola mucho, cantar es bonito y una experiencia única\"",
-        "image_url": "http://st1.lacerca.com/imagenes/view/5f63b0e239a613c84080497845f275ae.jpg",
-        "tags": [
-            "noticias",
-            "castilla-la mancha"
-        ],
-        "link": "https://turismo.lacerca.com/noticias/castilla_la_mancha/ninos-san-ildefonso-sorteo-cantar-bonito-experiencia-unica-795728-1.html",
-        "date": "2025-12-21 17:06:00",
-        "sentiment_score": 0.10918281972408295
-    },
-    {
-        "title": "Estos son los entrenadores de La Liga más y menos atractivos según la ciencia, y hay sorpresas",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/f0151004-1db0-4bca-88e4-da6b240ce1c0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "liga",
-            "atractivos",
-            "segun",
-            "entrenadores",
-            "ciencia",
-            "sorpresas"
-        ],
-        "link": "https://www.noticiasdenavarra.com/buzz-on/2025/12/21/entrenadores-liga-atractivos-segun-ciencia-sorpresas-10499633.html",
-        "date": "2025-12-21 17:00:42",
-        "sentiment_score": -0.022344186902046204
-    },
-    {
-        "title": "Lotería.- El sorteo de Navidad 2025 reparte este lunes 2.772 millones de euros en premios, 70 millones más",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251221175254_690.jpg",
-        "tags": [
-            "castilla-la mancha"
-        ],
-        "link": "https://www.europapress.es/castilla-lamancha/noticia-loteria-sorteo-navidad-2025-reparte-lunes-2772-millones-euros-premios-70-millones-mas-20251221175254.html",
-        "date": "2025-12-21 16:52:54",
-        "sentiment_score": 0.24470747262239456
-    },
-    {
-        "title": "Diego Pablo Simeone: \"El 100 no alcanza contra Real Madrid y Barcelona por distintas situaciones\"",
-        "image_url": "https://www.infobae.com/resizer/v2/7ALVUTRILJG2VNTFUP5AL5MBGI.jpg?auth=d1a55f47a23e63c81f743d509c468f2839ce0183c5981cf1bc02f277b6f82be5&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/21/diego-pablo-simeone-el-100-no-alcanza-contra-real-madrid-y-barcelona-por-distintas-situaciones/",
-        "date": "2025-12-21 16:45:55",
-        "sentiment_score": -0.5743009075522423
-    },
-    {
-        "title": "Vinicius echa más sal en la herida del Real Madrid",
-        "image_url": "https://cflvdg.avoz.es/sc/LmF07m0ZFd7lCGCFjzirWOfTvhs=/768x/2025/12/21/00121766335202053911221/Foto/eup_20251220_214608285.jpg",
-        "tags": [
-            "xabi alonso",
-            "deportes",
-            "real madrid",
-            "vinicius",
-            "florentino pérez"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/21/vinicius-echa-sal-herida-real-madrid/00031766335202174164529.htm",
-        "date": "2025-12-21 16:44:00",
-        "sentiment_score": -0.9003854859620333
-    },
-    {
-        "title": "Cada castellanomanchego gastará 86,47 euros para el Sorteo de Navidad frente a los 76,08 de media en el país",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251221173637_690.jpg",
-        "tags": [
-            "castilla-la mancha"
-        ],
-        "link": "https://www.europapress.es/castilla-lamancha/noticia-cada-castellanomanchego-gastara-8647-euros-sorteo-navidad-frente-7608-media-pais-20251221173637.html",
-        "date": "2025-12-21 16:36:37",
-        "sentiment_score": 0.056113436818122864
-    },
-    {
-        "title": "Catalunya comerá el día de Navidad con nubes y lluvia, y con tormentas en el Empordà",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a98777ea-1dc7-431b-a2f0-875c9864a940_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tiempo"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251221/cataluna-dia-navidad-nubes-lluvia-tiempo-125025470",
-        "date": "2025-12-21 17:11:19",
-        "sentiment_score": -0.08636315166950226
-    },
-    {
-        "title": "Imanes por 7 euros, tazas por 12 y cantimploras por 18: estos son los precios de la nueva tienda del metro de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/15/vivir-en-barcelona/1003742716160_15513072_1706x960.jpg",
-        "tags": [
-            "vivir en barcelona",
-            "metro barcelona",
-            "curiosidades",
-            "transports metropolitans barcelona tmb"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251221/imanes-euros-tazas-cantimploras-precios-nueva-tienda-metro-barcelona/1003742718139_0.html",
-        "date": "2025-12-21 17:09:54",
-        "sentiment_score": 0.43363656662404537
-    },
-    {
-        "title": "La Papanoelada Motera Solidaria congrega a 2.000 personas en Barcelona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6cfe6c5f-ef46-4b8d-b7a7-c5a5aac62d75_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "motos",
-            "barcelona",
-            "montjuïc"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20251221/2-000-motos-participan-papanoelada-barcelona-125025369",
-        "date": "2025-12-21 17:07:43",
-        "sentiment_score": 0.34462697990238667
-    },
-    {
-        "title": "Alberola Rojas pone cuesta arriba la posibilidad del Villarreal de ser campeón de invierno",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/aa180f55-7b27-45b2-b0dc-39e4641ab573_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "villarreal cf,villarreal,invierno,fc barcelona,levante ud,la cerámica,lamine yamal,renato veiga"
-        ],
-        "link": "https://www.superdeporte.es/villarreal-cf/2025/12/21/alberola-rojas-posibilidad-villarreal-terminar-campeon-invierno-125022014.html",
-        "date": "2025-12-21 17:01:03",
-        "sentiment_score": -0.044962719082832336
-    },
-    {
-        "title": "Un gran restaurante para comidas en grupo frente al mar en Barcelona",
-        "image_url": "https://static1.ara.cat/clip/79ad8f89-25af-4d1a-899b-acdefd8b575a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "grupo",
-            "restaurante",
-            "mar",
-            "gran",
-            "comidas",
-            "barcelona",
-            "frente"
-        ],
-        "link": "https://es.ara.cat/comer/gran-restaurante-comidas-grupo-frente-mar-barcelona_1_5599142.html",
-        "date": "2025-12-21 17:00:46",
-        "sentiment_score": 0.026371538639068604
-    },
-    {
-        "title": "Cinco proyectos cinematográficos de Castellón consiguen apoyo del Ministerio de Cultura",
-        "image_url": "https://castellondiario.com/wp-content/uploads/2025/12/cinco-proyectos-cinematograficos-de-castellon-reciben-financiacion-estatal-para-llegar-a-la-gran-pantalla.jpg",
-        "tags": [
-            "provincia",
-            "cine",
-            "gobierno"
-        ],
-        "link": "https://castellondiario.com/cinco-proyectos-cinematograficos-de-castellon-consiguen-apoyo-del-ministerio-de-cultura/",
-        "date": "2025-12-21 16:57:02",
-        "sentiment_score": 0.290423858910799
-    },
-    {
         "title": "La pitada contra Vinicius en el Bernabéu: ¿qué pasó con el jugador brasileño?",
         "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/21190604/Vinicius-Bernabeu.jpg",
         "tags": [
@@ -2927,5 +2737,209 @@ export default [
         "link": "https://meridiano.net/usa/futbol/espanol/el-gran-gesto-navideno-de-raphinha-juguetes-musica-y-filosofia-sankofa-en-brasil-202512241940",
         "date": "2025-12-24 23:04:00",
         "sentiment_score": 0.10865089297294617
+    },
+    {
+        "title": "Pilar García de la Granja, sobre el abono transporte: \"Nos cuesta 1.371 millones de euros al año y beneficia a aquellos que combinan varios transportes más allá de su región, viven en Ávila y trabajan en Madrid\"",
+        "image_url": "https://imagenes.cope.es/files/webp_80_80/uploads/2025/12/24/694b8741ccaed.png",
+        "tags": [
+            "economía de bolsillo con pilar garcía de la granja"
+        ],
+        "link": "https://www.cope.es/programas/herrera-en-cope/economia-de-bolsillo/audios/pilar-garcia-granja-sobre-abono-transporte-cuesta-1-371-millones-euros-ano-beneficia-combinan-transportes-region-viven-avila-trabajan-madrid-20251225_3276960.html",
+        "date": "2025-12-25 06:19:03",
+        "sentiment_score": -0.05022069811820984
+    },
+    {
+        "title": "Aquellos maravillosos años que nunca volverán: así celebraba la familia real española la Navidad y así lo hace ahora",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/10/15/los-reyes-juan-carlos-y-sofia-los-reyes-felipe-letizia-y-sus-hijos-la-infanta-elena-y-sus-hijos-y-la-infanta-cristina-y-los-suyos-en-el-80-cumpleanos-de-la-reina-sofia-en-2008.jpeg",
+        "tags": [
+            "influencers y celebrities"
+        ],
+        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/aquellos-maravillososnos-nunca-volveran-asi-celebraba-familia-real-espanola-navidad-asi-f202512.html",
+        "date": "2025-12-25 06:10:51",
+        "sentiment_score": 0.15681402385234833
+    },
+    {
+        "title": "Tren de la Navidad de Madrid: horarios, fechas de los viajes, precio de entradas y recorrido",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/17/6942b8cbf11546-35978018.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.20minutos.es/madrid/tren-navidad-madrid-horarios-fechas-viajes-precio-entradas-recorrido_6911802_0.html",
+        "date": "2025-12-25 06:00:00",
+        "sentiment_score": 0.24670394882559776
+    },
+    {
+        "title": "Nueva edad de jubilación, control a los bizum, la baliza...: toma nota de los cambios que trae 2026",
+        "image_url": "https://s10.s3c.es/imag/_v0/2122x1158/4/b/2/1200x655_clndr-istock.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.eleconomista.es/actualidad/noticias/13676450/12/25/nueva-edad-de-jubilacion-control-a-los-bizum-la-baliza-toma-nota-de-los-cambios-que-trae-2026.html",
+        "date": "2025-12-25 05:55:02",
+        "sentiment_score": -0.16490726172924042
+    },
+    {
+        "title": "Navidad en Málaga es sinónimo a churros con chocolate: bares y cafeterías en las que hacer cola y disfrutar",
+        "image_url": "https://static.grupojoly.com/clip/50d3ae00-806a-4478-8a32-c87f34668c67_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gastronomía málaga",
+            "bares málaga",
+            "qué ver en málaga",
+            "qué hacer en málaga"
+        ],
+        "link": "https://www.malagahoy.es/la-farola/navidad-malaga-churros-chocolate-bares-cafeterias-cola-disfrutar_0_2005507821.html",
+        "date": "2025-12-25 05:00:52",
+        "sentiment_score": 0.22494880855083466
+    },
+    {
+        "title": "La gestión de Barcelona, la OPA al Sabadell y Rodalies, temas del año mejor valorados por los lectores en Catalunya",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d2056daa-e495-46c6-a493-682857b7730c_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "2025",
+            "catalunya",
+            "informativas",
+            "tendencias"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/tendencias-informativas-catalunya-2025-125057318-rm/index.html",
+        "date": "2025-12-25 05:00:30",
+        "sentiment_score": 0.05204415321350098
+    },
+    {
+        "title": "Alcoy - El Comtat | 'Arre, borriquito': un villancico universal obra del compositor alcoyano Ricardo Boronat",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1747474.jpg",
+        "tags": [
+            "alcoy - el comtat"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/alcoy-el-comtat/arre-borriquito-un-villancico-universal-obra-del-compositor-alcoyano-ricardo-boronat",
+        "date": "2025-12-25 05:00:03",
+        "sentiment_score": 0.0824614018201828
+    },
+    {
+        "title": "Las aseguradoras prevén un aumento del 10% en las reclamaciones por accidentes estas navidades",
+        "image_url": "https://okdiario.com/img/2025/11/23/trafico5.jpg",
+        "tags": [
+            "accidentes",
+            "aseguradoras",
+            "economía",
+            "navidad"
+        ],
+        "link": "https://okdiario.com/economia/aseguradoras-preven-aumento-del-10-reclamaciones-accidentes-estas-navidades-15986648",
+        "date": "2025-12-25 04:45:17",
+        "sentiment_score": 0.205655537545681
+    },
+    {
+        "title": "Más mujeres y menos militares: estos son los cambios de Felipe VI en la Casa Real",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/DVRYYDULWJHMFE7ZI7TNBVW3NQ.jpg?auth=a81578604f2c259fffc70a7654b79e7e204af54439f9e378850bbaaa30abcc35&width=1200",
+        "tags": [
+            "reina letizia",
+            "monarquía",
+            "españa",
+            "felipe vi",
+            "casa real"
+        ],
+        "link": "https://elpais.com/espana/2025-12-25/mas-mujeres-y-menos-militares-estos-son-los-cambios-de-felipe-vi-en-la-casa-real.html",
+        "date": "2025-12-25 04:40:00",
+        "sentiment_score": 0.47412243485450745
+    },
+    {
+        "title": "Uber, Cabify y Bolt se preparan para un complejo 2026",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2025/12/Uber-electrico-cargando.webp",
+        "tags": [
+            "últimas noticias",
+            "lo más leído",
+            "transporte",
+            "en portada 3"
+        ],
+        "link": "https://www.merca2.es/2025/12/25/uber-cabify-bolt-2026-retos-2337911/",
+        "date": "2025-12-25 04:40:00",
+        "sentiment_score": -0.6753946356475353
+    },
+    {
+        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 25 de diciembre",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "precio gasolina",
+            "españa-economia",
+            "gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/25/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-de-espana-este-25-de-diciembre/",
+        "date": "2025-12-25 06:30:54",
+        "sentiment_score": -0.19599322974681854
+    },
+    {
+        "title": "El comité de expertos catalán sobre el brote porcino, bajo sospecha",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/12/18/021ED028-0C8D-4AFE-9CFA-B649FBA47BD2/69.jpg?crop=7954%2C4474%2Cx0%2Cy414&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/comite-expertos-catalan-brote-porcino-sospecha_20251225694ae8b122f0db7daffc5fd9.html",
+        "date": "2025-12-25 06:00:13",
+        "sentiment_score": -0.9359594425186515
+    },
+    {
+        "title": "¿'Avatar 3' en 3D, IMAX o HFR? Elige la mejor opción para disfrutar al máximo de 'Fuego y ceniza' en el cine",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/22/69493edd277212-77918700.jpeg",
+        "tags": [
+            "cine"
+        ],
+        "link": "https://www.20minutos.es/cinemania/noticias/avatar-3d-imax-hfr-mejor-opcion-cine-fuego-ceniza_6911904_0.html",
+        "date": "2025-12-25 06:00:06",
+        "sentiment_score": 0.6906650476157665
+    },
+    {
+        "title": "El pueblo que más nieva de Castilla y León está en León y así pasa la Navidad: \"Esto es otro mundo, recuerda a Laponia\"",
+        "image_url": "https://s3.elespanol.com/2025/12/13/actualidad/1003744054249_260465467_1706x960.jpg",
+        "tags": [
+            "león",
+            "león (provincia)",
+            "nieve",
+            "navidad",
+            "sociedad castilla y león"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20251225/pueblo-nieva-castilla-leon-pasa-navidad-mundo-recuerda-laponia/1003744054248_0.html",
+        "date": "2025-12-25 06:00:00",
+        "sentiment_score": -0.2943927124142647
+    },
+    {
+        "title": "Estos son los horarios del transporte público de Barcelona para las fiestas de Navidad",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/09/19/68cd286177b41.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.20minutos.es/cataluna/barcelona/estos-son-los-horarios-transporte-publico-barcelona-para-las-fiestas-navidad_6914573_0.html",
+        "date": "2025-12-25 06:00:00",
+        "sentiment_score": -0.06840844824910164
+    },
+    {
+        "title": "Poros, la isla tranquila a un tiro de piedra de Atenas",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/22/69493dc805c1d.r_d.1099-894-2192.jpeg",
+        "tags": [
+            "viajes"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/viajes/20251225/11380976/isla-poros-grecia-cerca-atenas-tranquilidad.html",
+        "date": "2025-12-25 06:00:00",
+        "sentiment_score": 0.6779561042785645
+    },
+    {
+        "title": "Premiar a quien alquila barato: ¿la solución que necesita la vivienda en España?",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/11/6912f05207341.jpeg",
+        "tags": [
+            "vivienda"
+        ],
+        "link": "https://www.20minutos.es/vivienda/premiar-quien-alquila-barato-solucion-que-necesita-vivienda-espana_6914443_0.html",
+        "date": "2025-12-25 06:00:00",
+        "sentiment_score": 0.5923708453774452
+    },
+    {
+        "title": "Exculpado de una gran deuda por \"buena fe\": la justicia le perdona el impago de 213.000 euros a la Seguridad Social",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/169ce9af-9682-42b7-b7ce-461d104e6026_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "seguridad social,sociedad,justicia,deuda,la ley"
+        ],
+        "link": "https://www.elperiodicomediterraneo.com/sociedad/2025/12/25/exculpado-gran-deuda-buena-fe-seguridad-social-dv-125054962.html",
+        "date": "2025-12-25 05:00:45",
+        "sentiment_score": -0.1685919314622879
     }
 ];
