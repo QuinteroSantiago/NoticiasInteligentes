@@ -1,226 +1,5 @@
 export default [
     {
-        "title": "Este es el número de 'El Gordo' en la Lotería de Navidad 2025, según Benita: \"Lo tengo muy claro\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/08/13/689c50a17b52b.png",
-        "tags": [
-            "televisión"
-        ],
-        "link": "https://www.mundodeportivo.com/elotromundo/television/20251221/1002589998/numero-gordo-loteria-navidad-2025-benita-claro-dct.html",
-        "date": "2025-12-21 06:30:00",
-        "sentiment_score": 0.6220109686255455
-    },
-    {
-        "title": "Osasuna - Alavés, el análisis | 'Lisci tiene otro plan'",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/bc41bc00-6f02-4f48-88c5-aa433674a39c_16-9-aspect-ratio_default_0_x1500y521.jpg",
-        "tags": [
-            "osasuna",
-            "plan",
-            "analisis",
-            "alaves",
-            "lisci"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/21/osasuna-alaves-analisis-lisci-plan-10498082.html",
-        "date": "2025-12-21 06:24:18",
-        "sentiment_score": -0.25255200266838074
-    },
-    {
-        "title": "Vanessa Goikoetxea, sin etiquetas",
-        "image_url": "https://static.grupojoly.com/clip/54510d3f-50fb-41d1-83ab-dc8ba5766df2_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vanessa",
-            "goikoetxea",
-            "entrevista"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/vanessa-goikoetxea-entrevista_0_2005497053.html",
-        "date": "2025-12-21 06:19:33",
-        "sentiment_score": 0.21337152644991875
-    },
-    {
-        "title": "Historia de una zambomba",
-        "image_url": "https://static.grupojoly.com/clip/1de92ea0-596e-4f93-96ca-b8afddacc088_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "historia",
-            "zambomba",
-            "origen",
-            "palabra"
-        ],
-        "link": "https://www.granadahoy.com/ocio/historia-zambomba-origen-palabra_0_2005497031.html",
-        "date": "2025-12-21 06:09:22",
-        "sentiment_score": -0.2608298733830452
-    },
-    {
-        "title": "Vivienda: del derecho a la angustia diaria en España",
-        "image_url": "https://www.estrelladigital.es/media/estrelladigital/images/2025/12/20/2025122022393477046.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/espana/crisis-vivienda-precios-alquiler-espana/20251221070500438651.html",
-        "date": "2025-12-21 06:05:00",
-        "sentiment_score": -0.8754762522876263
-    },
-    {
-        "title": "Estos son los barrios que nunca han olido 'El Gordo'",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/09/estos-son-los-barrios-que-nunca-han-olido-el-gordo-de-la-loteria.jpeg",
-        "tags": [
-            "lotería de navidad"
-        ],
-        "link": "https://www.huffingtonpost.es/loterias/loteria-de-navidad/la-suerte-barrios-son-lugares-nunca-han-olido-gordo-pese-mas-200nos-historia-f202512.html",
-        "date": "2025-12-21 06:04:54",
-        "sentiment_score": 0.09084498882293701
-    },
-    {
-        "title": "La ilusión recorre los barrios de Sevilla en vísperas de la Lotería de Navidad: \"Este año va a caer\"",
-        "image_url": "https://static.grupojoly.com/clip/e761ab30-5195-440e-8933-a351d9c87973_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/sevilla/ilusion-recorre-barrios-sevilla-visperas_0_2005495409.html",
-        "date": "2025-12-21 06:01:08",
-        "sentiment_score": 0.5500694140791893
-    },
-    {
-        "title": "El Baskonia, exigente examen para el Unicaja y para su fortín",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2d65118-0835-45ae-8007-dbc78a357a6d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja",
-            "palau blaugrana",
-            "baskonia",
-            "barça",
-            "plantilla"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/21/baskonia-exigente-examen-unicaja-fortin-previa-liga-endesa-125002545.html",
-        "date": "2025-12-21 06:00:41",
-        "sentiment_score": 0.8394684009253979
-    },
-    {
-        "title": "Contrastes entre riqueza y pobreza en Santa Cruz de Tenerife: Las Mimosas vs Añaza",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/28cf68b1-edee-4a8c-a2e0-1bc38e92ff6d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "añaza",
-            "navidad",
-            "vecinos",
-            "jóvenes"
-        ],
-        "link": "https://www.eldia.es/tenerife/2025/12/21/contrastes-riqueza-pobreza-santa-cruz-125000022.html",
-        "date": "2025-12-21 06:00:39",
-        "sentiment_score": -0.29086095839738846
-    },
-    {
-        "title": "Málaga reúne a nueve de los 80 municipios que más vivienda venden en toda España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0edefa5e-9177-4c0e-9b84-1187133d7772_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "vivienda",
-            "españa",
-            "viviendas",
-            "casas",
-            "barcelona",
-            "precios"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2025/12/21/malaga-nueve-80-municipios-venta-viviendas-espana-124976300.html",
-        "date": "2025-12-21 06:01:52",
-        "sentiment_score": 0.15843845903873444
-    },
-    {
-        "title": "La lotería de Navidad que sacudió Sevilla",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/859ea6c3-78e5-4f2f-919d-202a003de7b8_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lotería de navidad,lotería de navidad 2025,historia"
-        ],
-        "link": "https://www.elcorreoweb.es/sevilla/2025/12/21/reportaje-loteria-navidad-sacudio-sevilla-124887609.html",
-        "date": "2025-12-21 06:00:35",
-        "sentiment_score": -0.2818502187728882
-    },
-    {
-        "title": "Óscar Puente: \"Si queremos que Rodalies sea puntual, fiable y eficaz, hace falta más que traspasar la gestión\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a6c8b29e-f116-4bf7-a4e1-8e73a0fd5d46_alta-libre-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ministerio de transportes",
-            "ave",
-            "aena",
-            "adif",
-            "óscar puente santiago",
-            "sílvia paneque i sureda",
-            "renfe",
-            "trenes",
-            "rodalies",
-            "transportes",
-            "conselleria de territori"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20251221/ministro-oscar-puente-rodalies-entrevista-transportes-124979337",
-        "date": "2025-12-21 06:00:32",
-        "sentiment_score": 0.1693529486656189
-    },
-    {
-        "title": "¿Somos solidarios los españoles?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/14437702-e232-4c3f-967b-b94ee2c35cb0_16-9-discover-aspect-ratio_default_0_x1970y1286.jpg",
-        "tags": [
-            "solidaridad",
-            "acto benéfico",
-            "entender más"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251221/solidarios-espanoles-124975521",
-        "date": "2025-12-21 06:00:29",
-        "sentiment_score": -0.0508139431476593
-    },
-    {
-        "title": "El 'Gordo' de Navidad ya no es tan gordo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/46796603-b7d5-4507-b6b0-44578a00e634_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "entender más",
-            "sorteos y loterías",
-            "sorteos",
-            "lotería de navidad"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251221/gordo-navidad-gordo-124892542",
-        "date": "2025-12-21 06:00:28",
-        "sentiment_score": -0.20203131437301636
-    },
-    {
-        "title": "Josefina Domínguez Mujica: «La vivienda de promoción pública que se hizo en los años 60 está hoy en una posición terrible»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0d911fee-ffd1-4aed-8091-c0aec3d0d7ad_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "población",
-            "las palmas",
-            "suelo",
-            "tenerife",
-            "san francisco",
-            "crisis",
-            "años 60",
-            "vivienda",
-            "canarias"
-        ],
-        "link": "https://www.laprovincia.es/enfoques/2025/12/21/josefina-dominguez-mujica-vivienda-promocion-124998047.html",
-        "date": "2025-12-21 06:00:27",
-        "sentiment_score": -0.39109307527542114
-    },
-    {
-        "title": "Guía para sobrevivir al tráfico navideño y aparcar sin desesperar",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/20/NP_motor-RFVMMz6pE4K5mUCIB8oBn7H-1200x840@diario_abc.jpg",
-        "tags": [
-            "estrés",
-            "ciudades",
-            "navidad",
-            "dgt dirección general de tráfico",
-            "tráfico"
-        ],
-        "link": "https://www.canarias7.es/motor/reportajes/salir-margen-fijar-parking-rutas-secundarias-moverte-20251220080000-ntrc.html",
-        "date": "2025-12-21 06:00:21",
-        "sentiment_score": 0.02809065580368042
-    },
-    {
-        "title": "Sánchez París, un ciudadrealeño que pasará a formar parte de la Red Euro-Iberoamericana de Alumni de Yuste",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/d9ec9c04-2ada-4843-a260-3d101e376be0.jpeg",
-        "tags": [
-            "ciudad real",
-            "investigación",
-            "provincia de ciudad real"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/sanchez-paris-un-ciudadrealeno-que-pasara-a-formar-parte-de-la-red-euro-iberoamericana-de-alumni-de-yuste/",
-        "date": "2025-12-21 06:00:00",
-        "sentiment_score": 0.014401555061340332
-    },
-    {
         "title": "Villarreal 0 - Barcelona 2 : Los catalanes cierran el año con una importante victoria",
         "image_url": "https://pxcdn.meridiano.net/122025/1766335502976.jpg?ch=180&cw=320",
         "tags": [
@@ -2774,5 +2553,327 @@ export default [
         "link": "https://www.infobae.com/america/agencias/2025/12/24/loterias-paga-mas-de-710-millones-de-euros-en-premios-del-sorteo-de-navidad-2025-hasta-hoy-24-de-diciembre/",
         "date": "2025-12-24 16:30:21",
         "sentiment_score": 0.3124479651451111
+    },
+    {
+        "title": "La impactante goleada de unos de los rivales de Argentina en el Mundial 2026: el tanto de antología bajo la mirada de Zidane",
+        "image_url": "https://www.infobae.com/resizer/v2/2WGSWYYSLRHAXDOZZMVZ7HEMNQ.jpg?auth=711ffa6823c8ee3b25c35994b4b35f8e8fd20fb52958428b29bcbf7e9bd72938&height=1080&smart=true&width=1920",
+        "tags": [
+            "selección de argelia",
+            "zinedine zidane",
+            "copa de áfrica",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/24/la-impactante-goleada-de-unos-de-los-rivales-de-argentina-en-el-mundial-2026-el-tanto-de-antologia-bajo-la-mirada-de-zidane/",
+        "date": "2025-12-24 21:16:17",
+        "sentiment_score": 0.5981265977025032
+    },
+    {
+        "title": "Felipe VI pronuncia por primera vez de pie su Mensaje de Navidad con el Palacio Real de nuevo como escenario",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251224211626.jpg?fit=1920%2C1107&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/felipe-vi-pronuncia-por-primera-vez-de-pie-su-mensaje-de-navidad-con-el-palacio-real-de-nuevo-como-escenario/",
+        "date": "2025-12-24 21:00:04",
+        "sentiment_score": -0.07506643235683441
+    },
+    {
+        "title": "Felipe VI pronuncia por primera vez de pie su Mensaje de Navidad y vuelve a elegir el Palacio Real",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/12/24/felipe-vi-pronuncia-su-5391803.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/12/24/felipe-vi-pronuncia-por-primera-vez-de-pie-su-mensaje-de-navidad-de-nuevo-desde-el-palacio-real-1881217-daa.html",
+        "date": "2025-12-24 20:47:48",
+        "sentiment_score": 0.136160209774971
+    },
+    {
+        "title": "Felipe VI pronuncia por primera vez de pie su Mensaje de Navidad con el Palacio Real de nuevo como escenario",
+        "image_url": "https://www.infobae.com/resizer/v2/SOKTXTDAMVCTHD2NW5F6FKECZI.jpg?auth=b150796ce4f6909b9928ce2b35e54ca1d732968d80f1bd71418261d11b43df28&height=1107&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/24/felipe-vi-pronuncia-por-primera-vez-de-pie-su-mensaje-de-navidad-con-el-palacio-real-de-nuevo-como-escenario/",
+        "date": "2025-12-24 20:45:20",
+        "sentiment_score": 0.13403983414173126
+    },
+    {
+        "title": "Azcón: \"Brillante y acertadísimo\"",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/12/15/jorge-azcon-comparece-tras-firmar-el-decreto-de-disolucion-de-las-cortes-de-aragon-y-convocar-elecciones-13.jpeg",
+        "tags": [
+            "aragón"
+        ],
+        "link": "https://www.heraldo.es/noticias/aragon/2025/12/24/jorge-azcon-aplaude-el-discurso-de-navidad-del-rey-brillante-y-acertadisimo-1881216.html",
+        "date": "2025-12-24 20:39:25",
+        "sentiment_score": 0.44772330671548843
+    },
+    {
+        "title": "Mensaje de Navidad",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/24/2025122421314862777.avif",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.mundiario.com/articulo/opiniones/mensaje-de-navidad/20251224213616368176.html",
+        "date": "2025-12-24 20:36:16",
+        "sentiment_score": 0.30315106362104416
+    },
+    {
+        "title": "Esta semana en tu quiosco: Lucía Solla Sobral, el debut literario más iluminador, en El Cultural",
+        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744068659_260649851_1706x1280.jpg",
+        "tags": [
+            "literatura",
+            "el cultural",
+            "teatro",
+            "cine",
+            "ciencia",
+            "música"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/20251224/semana-quiosco-lucia-solla-sobral-debut-literario-iluminador-cultural/1003744068635_0.html",
+        "date": "2025-12-24 20:35:04",
+        "sentiment_score": 0.29411208629608154
+    },
+    {
+        "title": "Los 50 años de democracia, la crisis del orden mundial,... lee íntegro el discurso",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/24/694c479a86cd05-11408600.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/los-50-anos-democracia-crisis-orden-mundial-los-desafios-valores-espana-lee-integro-discurso-navidad-felipe-vi_6914616_0.html",
+        "date": "2025-12-24 20:34:59",
+        "sentiment_score": -0.37674730271101
+    },
+    {
+        "title": "Innovadora puesta en escena del discurso del Rey: las claves de su mensaje de Nochebuena",
+        "image_url": "https://i.ytimg.com/vi/r-etpQMsHXo/hqdefault.jpg",
+        "tags": [
+            "casas reales"
+        ],
+        "link": "https://www.estrelladigital.es/articulo/casas-reales/mensaje-rey-felipe-vi-discurso-nochebuena-navidad-innovadora-puesta-escena/20251224213411438776.html",
+        "date": "2025-12-24 20:34:11",
+        "sentiment_score": 0.7779121734201908
+    },
+    {
+        "title": "El Rey llama a preservar la convivencia, pide diálogo y alerta de \"hastío\" por la tensión política",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/24/694c4b5931d38.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lavozdealmeria.com/actualidad/421826/rey-llama-preservar-convivencia-pide-dialogo-ejemplaridad-alerta-hastio-tension-politica.html",
+        "date": "2025-12-24 20:32:29",
+        "sentiment_score": 0.15409109368920326
+    },
+    {
+        "title": "Detenido un hombre por sextorsión y acoso en Anzoátegui",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias carabobo",
+            "noticias carabobo 24",
+            "detenido por sextorsión",
+            "noticias24 sucesos",
+            "octubre 2025",
+            "feliz navidad",
+            "bonos patria",
+            "portada",
+            "noticias24carabobo en google news",
+            "noticias 24 carabobo",
+            "combo clap",
+            "diciembre 24",
+            "noticias de hoy carabobo",
+            "noticias24carabobo",
+            "noticias 24 venezuela",
+            "noticias de hoy valencia",
+            "noticias 24 actualidad",
+            "n24carabobo",
+            "noticia de carabobo",
+            "noticias 24 horas carabobo",
+            "sucesos",
+            "noticias24 carabobo",
+            "sucesos (+destacados)",
+            "noticias24",
+            "noticias 24 carabobo hoy",
+            "24 de diciembre",
+            "noticias 24",
+            "bonos patria diciembre 2025",
+            "salud (+destacados)"
+        ],
+        "link": "https://noticias24carabobo.com/detenido-un-hombre-por-sextorsion-y-acoso-en-anzoategui/",
+        "date": "2025-12-24 22:00:01",
+        "sentiment_score": -0.6429632548242807
+    },
+    {
+        "title": "Camila Diez Canseco sorprende al elogiar la relación de su padre, Mauricio Diez Canseco, con la modelo argentina Aixa Sosa",
+        "image_url": "https://www.infobae.com/resizer/v2/IZIPZPAI3BFCBLCFTFAWIQNG4A.png?auth=000952fbd3a950d6345e1d8940c0ec74183016df704942ac0a9fb11be239fa08&height=720&smart=true&width=1280",
+        "tags": [
+            "camila diez canseco",
+            "aixa sosa",
+            "mauricio diez canseco",
+            "peru-entretenimiento"
+        ],
+        "link": "https://www.infobae.com/peru/2025/12/24/camila-diez-canseco-sorprende-al-elogiar-la-relacion-de-su-padre-mauricio-diez-canseco-con-la-modelo-argentina-aixa-sosa/",
+        "date": "2025-12-24 21:02:44",
+        "sentiment_score": 0.8512527011334896
+    },
+    {
+        "title": "Aemet confirma que la Navidad en España está siendo la más fría de los últimos 15 años: \"Será algo cada vez menos frecuente\"",
+        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744068816_260651900_1706x960.jpg",
+        "tags": [
+            "temperaturas",
+            "navidad",
+            "meteorología",
+            "nieve",
+            "frío",
+            "aemet"
+        ],
+        "link": "https://www.elespanol.com/ciencia/meteorologia/20251224/aemet-confirma-navidad-espana-fria-ultimos-anos-vez-frecuente/1003744068776_0.html",
+        "date": "2025-12-24 20:23:09",
+        "sentiment_score": -0.7569945342838764
+    },
+    {
+        "title": "Navidad, campo de minas para 7,3 M de abstemios como Álvaro que dejó el alcohol hace un año: \"Me voy para evitar las fiestas\"",
+        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744068960_260653923_1706x960.jpg",
+        "tags": [
+            "reportajes",
+            "navidad",
+            "alcohol",
+            "sanidad",
+            "sociedad"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251224/navidad-campo-minas-abstemios-alvaro-dejo-alcohol-hace-ano-voy-evitar-fiestas/1003744068937_0.html",
+        "date": "2025-12-24 20:23:07",
+        "sentiment_score": 0.29262247681617737
+    },
+    {
+        "title": "Cayó desalmado que agredió a su madre tras fuerte discusión por dinero en Anzoátegui",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Cicpc-detuvo-a-agresor-en-Anzoategui.jpg",
+        "tags": [
+            "anzoátegui",
+            "actualidad",
+            "josé daniel bernaez gonzález",
+            "sucesos región oriental",
+            "sucesos",
+            "región oriental",
+            "regiones",
+            "agresión"
+        ],
+        "link": "https://lapatilla.com/2025/12/24/cayo-desalmado-que-agredio-a-su-madre-tras-fuerte-discusion-por-dinero-en-anzoategui/",
+        "date": "2025-12-24 20:21:15",
+        "sentiment_score": -0.5650169719010592
+    },
+    {
+        "title": "El líder de la secta santera de Tenerife captaba a mujeres para que vivieran con él y su novia: hacían rituales con 'popper'",
+        "image_url": "https://s3.elespanol.com/2025/12/24/reportajes/1003744069088_260655285_1706x960.jpg",
+        "tags": [
+            "espiritualidad",
+            "reportajes",
+            "policía nacional",
+            "sectas",
+            "santa cruz de tenerife (municipio)",
+            "canarias"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251224/lider-secta-santera-tenerife-captaba-mujeres-vivieran-novia-hacian-rituales-popper/1003744068944_0.html",
+        "date": "2025-12-24 20:20:50",
+        "sentiment_score": -0.5332476794719696
+    },
+    {
+        "title": "El Teatro Príncipe de Vitoria cumple cien años: de Carlos Gardel, Guridi y el lujo de un casino al total olvido institucional",
+        "image_url": "https://static.eldiario.es/clip/458ac3e7-c759-427c-ac7e-bc216c7c5e03_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "vitoria",
+            "gernika",
+            "gipuzkoa",
+            "rodrigo saiz",
+            "imanol pradales",
+            "maialen ferreira",
+            "bilbao",
+            "ertzaintza",
+            "caso de miguel",
+            "kutxabank",
+            "pp vasco",
+            "irún",
+            "emergencia climática",
+            "feminismo",
+            "barakaldo",
+            "eroski",
+            "país vasco",
+            "euskadi",
+            "sindicatos",
+            "rubén pereda",
+            "pnv",
+            "belén ferreras",
+            "actualidad",
+            "álava",
+            "andar en bici",
+            "sociedad",
+            "eldiario.es/euskadi",
+            "ignacio escolar",
+            "montai",
+            "eldiario.es",
+            "pse-ee",
+            "ela",
+            "brands",
+            "hondarribia",
+            "corrupción",
+            "eh bildu",
+            "igualdad",
+            "bbva",
+            "euskal herria",
+            "política",
+            "educación",
+            "donostia",
+            "lab",
+            "getxo",
+            "eldiarionorte.es",
+            "bizkaia",
+            "osakidetza",
+            "iker rioja andueza",
+            "upv/ehu",
+            "eibar",
+            "lanbide",
+            "eldiario.eus"
+        ],
+        "link": "https://www.eldiario.es/euskadi/teatro-principe-vitoria-cumple-cien-anos-carlos-gardel-guridi-lujo-casino-total-olvido-institucional_1_12867685.html",
+        "date": "2025-12-24 20:10:52",
+        "sentiment_score": -0.07461243867874146
+    },
+    {
+        "title": "Las multas a bicicletas y patinetes eléctricos en Barcelona se disparan casi un 50% en un año",
+        "image_url": "https://static.eldiario.es/clip/7d02d4af-e79c-48a4-96ee-9650af982a14_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "noticias",
+            "actualidad",
+            "economía",
+            "política",
+            "ignacio escolar",
+            "cataluña",
+            "barcelona",
+            "periodismo independiente"
+        ],
+        "link": "https://www.eldiario.es/catalunya/multas-bicicletas-patinetes-electricos-barcelona-disparan-50-ano_1_12868466.html",
+        "date": "2025-12-24 20:10:49",
+        "sentiment_score": -0.10058146715164185
+    },
+    {
+        "title": "Estrategia cuántica y la concesión de una factoría europea de IA marcan el año que ha consolidado a Galicia",
+        "image_url": "https://s3.elespanol.com/2024/05/15/invertia/disruptores/autonomias/galicia/855424551_242305995_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "transformación digital",
+            "galicia",
+            "innovación"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/galicia/20251224/estrategia-cuantica-concesion-factoria-europea-ia-marcan-ano-consolidado-galicia/1003744064723_0.html",
+        "date": "2025-12-24 20:10:00",
+        "sentiment_score": 0.8434807248413563
+    },
+    {
+        "title": "Marcus Rashford y un mensaje claro desde Barcelona",
+        "image_url": "https://mundonow.com/wp-content/uploads/2025/12/shutterstock_2712051255-550x367.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://mundonow.com/marcus-rashford-y-un-mensaje-claro-desde-barcelona/",
+        "date": "2025-12-24 20:03:20",
+        "sentiment_score": 0.07344774901866913
     }
 ];
