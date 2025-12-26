@@ -1,211 +1,5 @@
 export default [
     {
-        "title": "Lotería de Navidad 2025 en directo: última hora del Sorteo de El Gordo",
-        "image_url": "https://static.eldiario.es/clip/aa2264e0-8d6a-4d6b-a72f-596a1b0138eb_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "loteria",
-            "navidad",
-            "hora",
-            "sorteo",
-            "2025",
-            "directo",
-            "ultima",
-            "gordo"
-        ],
-        "link": "https://www.eldiario.es/loteria-de-navidad/loteria-navidad-2025-directo-ultima-hora-sorteo-gordo_6_12857388.html",
-        "date": "2025-12-22 06:39:57",
-        "sentiment_score": -0.05382123589515686
-    },
-    {
-        "title": "Lotería de Navidad 2025 en directo, última hora: los asistentes hacen cola en el Teatro Real",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/22/CEE06B11-F56C-4EF2-950B-88EF751C89E0/loteria-navidad-2025-directo-ultima-hora-esperando-gordo_98.jpg?crop=1486%2C836%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "loterías",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/comprobar-loteria-navidad-2025-directo-ultima-hora-premios-reintegro-pedrea-resultados-22-diciembre_202512226948e033ea66eb73531b72d0.html",
-        "date": "2025-12-22 06:38:50",
-        "sentiment_score": 0.26721939258277416
-    },
-    {
-        "title": "El Teatro Real abre sus puertas con todo listo para el sorteo de la Lotería de Navidad 2025",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/EuropaPress_7183419_asistentes_sorteo_extraordinario_loteria_navidad_2025_puertas_teatro_real.jpg",
-        "tags": [
-            "lotería de navidad",
-            "sociedad"
-        ],
-        "link": "https://www.lanzadigital.com/sociedad/el-teatro-real-abre-sus-puertas-con-todo-listo-para-el-sorteo-de-la-loteria-de-navidad-2025/",
-        "date": "2025-12-22 06:38:00",
-        "sentiment_score": -0.06351032853126526
-    },
-    {
-        "title": "Las tres noticias de Carlos Alsina para empezar el día: \"Descalabro del PSOE y premio para el PP y Vox en Extremadura\"",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2024/05/09/6DE83B54-8831-4632-AA7C-6CB358183EDA/tres-historias-empezar-dia-carlos-alsina_96.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=675&optimize=low&width=1200",
-        "tags": [
-            "españa",
-            "noticias",
-            "ondacero"
-        ],
-        "link": "https://www.ondacero.es/noticias/espana/tres-noticias-carlos-alsina-empezar-dia-descalabro-psoe-premio-vox-extremadura_202512226948e5e722f0db7daffa81b8.html",
-        "date": "2025-12-22 06:32:07",
-        "sentiment_score": 0.16316413134336472
-    },
-    {
-        "title": "Quién es Sandra Daviú: su edad, su pareja y biografía de la presentadora de la Lotería en RTVE",
-        "image_url": "https://okdiario.com/img/2025/12/19/sandra-daviu..jpg",
-        "tags": [
-            "lotería nacional",
-            "happyfm",
-            "televisión española (tve)"
-        ],
-        "link": "https://okdiario.com/happyfm/quien-sandra-daviu-edad-pareja-biografia-presentadora-loteria-rtve-15964478",
-        "date": "2025-12-22 06:30:59",
-        "sentiment_score": 0.28629736602306366
-    },
-    {
-        "title": "¿Cuándo acaba el Sorteo de Lotería de Navidad 2025?",
-        "image_url": "https://okdiario.com/img/2023/12/15/hasta-que-hora-dura-el-sorteo-de-la-loteria-de-navidad-y-cuando-sale-el-gordo.jpg",
-        "tags": [
-            "lotería",
-            "navidad",
-            "lotería de navidad"
-        ],
-        "link": "https://okdiario.com/loteria-navidad/hasta-que-hora-dura-sorteo-loteria-navidad-8316480",
-        "date": "2025-12-22 06:30:48",
-        "sentiment_score": 0.09970109164714813
-    },
-    {
-        "title": "A qué hora empieza la Lotería de Navidad 2025 y dónde ver el sorteo en directo por TV y online en vivo",
-        "image_url": "https://okdiario.com/img/2025/12/15/horario-donde-ver-loteria-navidad-2025.jpg",
-        "tags": [
-            "lotería de navidad"
-        ],
-        "link": "https://okdiario.com/loteria-navidad/que-hora-empieza-loteria-navidad-2025-donde-ver-sorteo-directo-tv-online-vivo-15939193",
-        "date": "2025-12-22 06:30:29",
-        "sentiment_score": 0.08984105288982391
-    },
-    {
-        "title": "Nadie da crédito pero la ‘paguilla’ de diciembre vuelve: vas a cobrar más de 1.500 euros",
-        "image_url": "https://okdiario.com/img/2025/12/21/imagen_recortada-13.jpg",
-        "tags": [
-            "economía",
-            "pensiones",
-            "funcionarios",
-            "okd"
-        ],
-        "link": "https://okdiario.com/economia/nadie-da-credito-pero-paguilla-diciembre-vuelve-vas-cobrar-mas-1-500-euros-15959074",
-        "date": "2025-12-22 06:30:13",
-        "sentiment_score": -0.35250529646873474
-    },
-    {
-        "title": "Las administraciones de Alicante que más suerte reparten en la lotería de Navidad: 10 premios de El Gordo en 5 años",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/12c4d5aa-d5ae-43e1-9eda-ae811b5d8b74_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lotería de navidad",
-            "premios",
-            "el gordo",
-            "sorteo de navidad"
-        ],
-        "link": "https://www.informacion.es/alicante/2025/12/22/administracion-loteria-provincia-alicante-premios-seguidos-gordo-navidad-124841572.html",
-        "date": "2025-12-22 06:30:00",
-        "sentiment_score": -0.04387742280960083
-    },
-    {
-        "title": "Sorteo de Lotería de Navidad 2025, en directo",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/LUYHTCC2RNEXZLLRZ56OS6KWXA.png?auth=eb9b193a28f32b9ab8a0c55f015bae07771a95ebaedc14c6181fabb16b3065b3&width=1200",
-        "tags": [
-            "lotería navidad",
-            "navidad",
-            "fiestas",
-            "sociedad",
-            "juego",
-            "españa",
-            "lotería nacional",
-            "premios lotería",
-            "eventos",
-            "juegos azar",
-            "lotería"
-        ],
-        "link": "https://elpais.com/loteria-de-navidad/2025-12-22/sorteo-del-gordo-de-la-loteria-de-navidad-en-directo-decimos-premios-y-pedreas-en-la-lista-oficial.html",
-        "date": "2025-12-22 06:30:00",
-        "sentiment_score": 0.29445473849773407
-    },
-    {
-        "title": "Lo que debes saber hoy, 22 de diciembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/07/12/vivir-en-barcelona/1003742673272_14861103_1706x960.jpg",
-        "tags": [
-            "rodalies",
-            "metro barcelona",
-            "coches",
-            "autobús",
-            "clima",
-            "gran barcelona",
-            "renfe barcelona",
-            "transporte",
-            "transports metropolitans barcelona tmb",
-            "tráfico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251222/debes-saber-hoy-diciembre-barcelona/1003742718222_0.html",
-        "date": "2025-12-22 06:33:08",
-        "sentiment_score": 0.16234580613672733
-    },
-    {
-        "title": "Iñaki Unsain advierte a quien busca alquiler: “Hay una auténtica ‘guerra’ entre inquilinos en las ciudades”",
-        "image_url": "https://s3.elespanol.com/2025/06/03/actualidad/1003743786517_256123830_1706x960.jpg",
-        "tags": [
-            "alquiler de viviendas",
-            "soft",
-            "sociedad",
-            "vivienda"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251222/inaki-unsain-advierte-busca-alquiler-autentica-guerra-inquilinos-ciudades/1003744049006_0.html",
-        "date": "2025-12-22 06:30:03",
-        "sentiment_score": -0.8902835454791784
-    },
-    {
-        "title": "Las tres mejores series de Marta Belmonte ('Sueños de libertad') para ver en Navidad",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/files/fp/uploads/2025/12/19/694519716dd61.r_d.662-418-10000.webp",
-        "tags": [
-            "series y tv"
-        ],
-        "link": "https://www.lavozdealmeria.com/series-y-tv/418205/tres-mejores-series-marta-belmonte-suenos-libertad-ver-navidad.html",
-        "date": "2025-12-22 06:30:00",
-        "sentiment_score": 0.8862556917592883
-    },
-    {
-        "title": "Mara Rolli Grau, campeona de España con el FACSA Playas de Castellón a lo grande",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7e1fe6be-31e0-4674-b913-434172e07ec1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "atletas",
-            "selección",
-            "europa",
-            "tavernes de la valldigna",
-            "atletismo",
-            "españa",
-            "europeo",
-            "mundial",
-            "campeonato",
-            "playas",
-            "la safor"
-        ],
-        "link": "https://www.levante-emv.com/safor/2025/12/22/mara-rolli-grau-campeona-espana-125037586.html",
-        "date": "2025-12-22 06:24:54",
-        "sentiment_score": 0.7252062596380711
-    },
-    {
-        "title": "El día que Florentino quiso despedir a Zidane en el descanso de un partido de Champions",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fd6204ed-10c3-4e7a-9146-778945bcbc08_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol",
-            "xabi alonso",
-            "real madrid",
-            "florentino pérez"
-        ],
-        "link": "https://www.laopiniondemurcia.es/deportes/2025/12/22/dia-florentino-quiso-despedir-zidane-descanso-real-madrid-125037351.html",
-        "date": "2025-12-22 06:06:37",
-        "sentiment_score": -0.2682434618473053
-    },
-    {
         "title": "Los famosos también saben lo que se siente cuando toca La Lotería",
         "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/22/letizia-kYuF-U240642379057udC-758x531@El%20Norte.jpg",
         "tags": [
@@ -2810,5 +2604,259 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251225/amigos-balde-lamine-olmo-raphinha-juegan-privada/1003742715546_0.html",
         "date": "2025-12-25 16:29:36",
         "sentiment_score": -0.0397087037563324
+    },
+    {
+        "title": "Así pasaron la Navidad algunos jugadores del Unicaja",
+        "image_url": "https://static.grupojoly.com/clip/5e589ce3-8657-4391-9b39-df0440bf7c0a_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja baloncesto"
+        ],
+        "link": "https://www.malagahoy.es/unicaja/pasaron-navidad-jugadores-unicaja_3_2005513023.html",
+        "date": "2025-12-25 20:27:11",
+        "sentiment_score": 0.11203277297317982
+    },
+    {
+        "title": "Santiago Bernabéu se convierte en la mina de oro del Real Madrid: meta de 400 millones",
+        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2025/12/Santiago-Bernabeu-Foto-Hotel-INDIANA.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://soynuevaprensadigital.com/npd/santiago-bernabeu-se-convierte-en-la-mina-de-oro-del-real-madrid-meta-de-400-millones/",
+        "date": "2025-12-25 20:26:51",
+        "sentiment_score": 0.6116219758987427
+    },
+    {
+        "title": "Feijóo trata de escaquearse de declarar en Catarroja ante la jueza de la dana pese a tener la agenda vacía el día de su citación",
+        "image_url": "https://static.eldiario.es/clip/c7ac5f70-159f-4781-95bf-41b8b4748584_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "castellón",
+            "análisis",
+            "actualidad",
+            "noticias",
+            "información",
+            "comunidad valenciana",
+            "alicante",
+            "opinión",
+            "valencia"
+        ],
+        "link": "https://www.eldiario.es/comunitat-valenciana/feijoo-trata-escaquearse-declarar-catarroja-jueza-dana-pese-agenda-vacia-dia-citacion_1_12870465.html",
+        "date": "2025-12-25 20:14:50",
+        "sentiment_score": -0.1888641119003296
+    },
+    {
+        "title": "La estrella de Belén que guio a los Reyes Magos: ¿existió realmente?",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/La-estrella-de-Belen-que-guio-a-los-Reyes-Magos-existio-realmente-1.jpg",
+        "tags": [
+            "reyes magos",
+            "ciencia",
+            "oriente medio",
+            "estrellas"
+        ],
+        "link": "https://theobjective.com/sociedad/ciencia/2025-12-25/estrella-belen-reyes-magos/",
+        "date": "2025-12-25 20:14:15",
+        "sentiment_score": 0.18655216693878174
+    },
+    {
+        "title": "Marwán incluye Almería en su gira y actuará el 15 de marzo en el Apolo",
+        "image_url": "https://static.grupojoly.com/clip/40888c02-6eb1-4274-abd6-5419e8c743ea_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "noticias almería"
+        ],
+        "link": "https://www.diariodealmeria.es/ocio/marwan-incluye-almeria-gira-actuara_0_2005512855.html",
+        "date": "2025-12-25 20:04:15",
+        "sentiment_score": 0.6861959677189589
+    },
+    {
+        "title": "Calleja celebra la Navidad con «un paseo guapísimo» por la nieve en la montaña de León",
+        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2025/12/25/calleja-kfmB-U240665887052LOF-1200x840@Leonoticias.jpg",
+        "tags": [
+            "nieve",
+            "leon",
+            "montana",
+            "paseo",
+            "calleja",
+            "guapisimo",
+            "navidad",
+            "celebra"
+        ],
+        "link": "https://www.leonoticias.com/leon/calleja-celebra-navidad-paseo-guapisimo-nieve-montana-20251225204730-nt.html",
+        "date": "2025-12-25 19:47:31",
+        "sentiment_score": 0.31397897005081177
+    },
+    {
+        "title": "Las nuevas maravillas del Camp Nou que ilusionan a los socios del Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/17/culemania/palco/1003742674673_14885237_1706x960.jpg",
+        "tags": [
+            "espai barça",
+            "camp nou",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251225/nuevas-maravillas-camp-nou-ilusionan-socios-barca/1003742716144_0.html",
+        "date": "2025-12-25 19:25:38",
+        "sentiment_score": 0.2119269073009491
+    },
+    {
+        "title": "Real Madrid prevé ingresos millonarios con el Bernabéu",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/12/Diseno-sin-titulo-10.png",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://ultimasnoticias.com.ve/deportes/real-madrid-preve-ingresos-millonarios-con-el-bernabeu/",
+        "date": "2025-12-25 19:10:46",
+        "sentiment_score": -0.04969283938407898
+    },
+    {
+        "title": "Las noticias imprescindibles de este jueves 25 de diciembre en León",
+        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/12/25/newspaint-1766685711500-1200x840-kDEI-U240665242632vUB-1200x840@Leonoticias.jpg",
+        "tags": [
+            "las noticias imprescindibles del día"
+        ],
+        "link": "https://www.leonoticias.com/leon/noticias-imprescindibles-jueves-diciembre-leon-20251225201035-nt.html",
+        "date": "2025-12-25 19:10:35",
+        "sentiment_score": 0.20106851309537888
+    },
+    {
+        "title": "19:00H | 25 DIC 2025 | La Linterna",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/horas-completas/19-00h-25-dic-2025-linterna-20251225_3277483.html",
+        "date": "2025-12-25 19:06:00",
+        "sentiment_score": -0.16769956052303314
+    },
+    {
+        "title": "Adjudicadas, por 1,3 millones, las obras de construcción de la Casa Club 'Alborán Golf'",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/26/Imagen%20Render%20Casa%20Club%20Alborn%20Golf-kbAC-U2406656062895pE-1200x840@Ideal.jpg",
+        "tags": [
+            "el toyo",
+            "golf",
+            "ayuntamiento de almería"
+        ],
+        "link": "https://www.ideal.es/almeria/almeria/adjudicadas-millones-obras-construccion-casa-club-alboran-20251226230723-nt.html",
+        "date": "2025-12-25 22:08:05",
+        "sentiment_score": 0.5845852121710777
+    },
+    {
+        "title": "Zonas de bajas emisiones: restricciones y multas descafeinadas, freno de Vox y el riesgo de 'agujero' en Valencia",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/25/17666833028596.jpg",
+        "tags": [
+            "artículos gerard melgar",
+            "españa",
+            "artículos ismael poveda",
+            "nlpremium",
+            "artículos josean izarra",
+            "artículos silvia moreno",
+            "artículos eduardo colom",
+            "comunidad valenciana",
+            "artículos inma lidón",
+            "artículos carlos guisasola"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/12/25/69492109fdddff677d8b457d.html",
+        "date": "2025-12-25 21:50:42",
+        "sentiment_score": -0.21431681513786316
+    },
+    {
+        "title": "Héctor Bellerín: \"Comprendo los memes del macho performativo, pero hay hombres que buscan un espacio fuera de la masculinidad hegemónica tradicional y la mofa puede asustar\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/3727684ed80deb70dba765782150f49b/crop/0x575/3072x3647/f/image/jpeg/assets/multimedia/imagenes/2024/08/03/17226433175716.jpg",
+        "tags": [
+            "nlpremium",
+            "real betis balompié",
+            "bellerín",
+            "artículos charo lagares"
+        ],
+        "link": "https://www.elmundo.es/papel/lideres/2025/12/25/694c1ae4fc6c832f108b456e.html",
+        "date": "2025-12-25 21:44:08",
+        "sentiment_score": 0.03575710952281952
+    },
+    {
+        "title": "El temporal del mar en Barcelona ciudad obliga a activar la alerta del plan de emergencia",
+        "image_url": "https://www.infobae.com/resizer/v2/K2V4BKKOJBBYRBNFOD6XB6PE7E.jpg?auth=8a0ec7029fba538232719563c477c1d0c3a4096eefd83b8719614f853ae3e998&height=1080&smart=true&width=1920",
+        "tags": [
+            "plan básico de emergencia municipal",
+            "alerta",
+            "barcelona",
+            "guardia urbana",
+            "litoral",
+            "europapress",
+            "playas",
+            "espigones",
+            "ayuntamiento de barcelona",
+            "temporal marítimo",
+            "olas"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/25/el-temporal-del-mar-en-barcelona-ciudad-obliga-a-activar-la-alerta-del-plan-de-emergencia/",
+        "date": "2025-12-25 20:45:45",
+        "sentiment_score": -0.8451709654182196
+    },
+    {
+        "title": "La historia de Alexia Putellas llegará al cine en 2027 como ficción inspiradora",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/16/2025051614063393675.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/historia-alexia-putellas-llegara-cine-2027-como-ficcion-inspiradora/20251225214422368287.html",
+        "date": "2025-12-25 20:44:22",
+        "sentiment_score": 0.5713183768093586
+    },
+    {
+        "title": "Aitana Bonmatí pone fecha a su vuelta tras la fractura de peroné",
+        "image_url": "https://okdiario.com/img/2025/12/25/imagen_recortada-2025-12-25t212247.427.jpg",
+        "tags": [
+            "selección española de fútbol femenino",
+            "fútbol",
+            "actualidad",
+            "barcelona",
+            "deportes",
+            "fútbol femenino"
+        ],
+        "link": "https://okdiario.com/actualidad/aitana-bonmati-pone-fecha-vuelta-fractura-perone-15989126",
+        "date": "2025-12-25 20:37:14",
+        "sentiment_score": -0.16070587933063507
+    },
+    {
+        "title": "¿Está Europa preparada para un coche eléctrico realmente asequible?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/27/2024122718174132390.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.mundiario.com/articulo/economia/coche-electrico-entra-fase-decisiva-precios-mas-bajos-mas-competencia/20251225213032368285.html",
+        "date": "2025-12-25 20:30:32",
+        "sentiment_score": 0.5781803131103516
+    },
+    {
+        "title": "Cataluña encara una noche de fuerte temporal en el mar, con olas de siete metros",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/b314bad24a8ae2b57b49ea3d9e1caad0/f/webp/assets/multimedia/imagenes/2025/12/25/17666945437554.jpg",
+        "tags": [
+            "cataluna"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/12/25/694d9ce821efa039098b45ba.html",
+        "date": "2025-12-25 20:29:39",
+        "sentiment_score": -0.009942833334207535
+    },
+    {
+        "title": "El coche eléctrico baja de los 25.000 euros: la ofensiva europea para competir con China",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/25/2025112514481898226.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.mundiario.com/articulo/economia/coche-electrico-baja-25000-euros-ofensiva-europea-competir-china/20251225212455368284.html",
+        "date": "2025-12-25 20:24:55",
+        "sentiment_score": -0.3549386039376259
+    },
+    {
+        "title": "“Mi vida es trabajar y criar, nada más”: así es ser madre sin apoyo familiar",
+        "image_url": "https://static.eldiario.es/clip/e8b22983-f020-4b0e-8328-8175f0a72380_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madre",
+            "criar",
+            "trabajar",
+            "familiar",
+            "apoyo",
+            "vida"
+        ],
+        "link": "https://www.eldiario.es/nidos/vida-trabajar-criar-madre-apoyo-familiar_1_12868785.html",
+        "date": "2025-12-25 20:14:55",
+        "sentiment_score": -0.2147848755121231
     }
 ];
