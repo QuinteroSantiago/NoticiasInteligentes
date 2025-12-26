@@ -1,369 +1,5 @@
 export default [
     {
-        "title": "La pitada contra Vinicius en el Bernabéu: ¿qué pasó con el jugador brasileño?",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/21190604/Vinicius-Bernabeu.jpg",
-        "tags": [
-            "estadio santiago bernabeú",
-            "real madrid",
-            "deportes",
-            "fútbol",
-            "vinicius jr"
-        ],
-        "link": "https://www.elnacional.com/2025/12/la-pitada-contra-vinicius-en-el-bernabeu-que-paso-con-el-jugador-brasileno/",
-        "date": "2025-12-21 22:06:00",
-        "sentiment_score": -0.8463352117687464
-    },
-    {
-        "title": "María Guardiola, una presidenta sin pulso político",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ce523525-2ec9-4e08-976c-78a653e7aaba_16-9-aspect-ratio_default_0_x848y447.jpg",
-        "tags": [
-            "presidenta",
-            "sin",
-            "politico",
-            "pulso"
-        ],
-        "link": "https://www.deia.eus/politica/2025/12/21/presidenta-sin-pulso-politico-10500393.html",
-        "date": "2025-12-21 22:04:57",
-        "sentiment_score": 0.09794121980667114
-    },
-    {
-        "title": "Brahim brilla en la Copa África y le da a Marruecos la victoria sobre Comoras",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/21/69486bdb9ac6c4-70837644.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/brahim-brilla-copa-africa-le-da-marruecos-victoria-sobre-comoras_6913391_0.html",
-        "date": "2025-12-21 22:01:24",
-        "sentiment_score": 0.26030586659908295
-    },
-    {
-        "title": "Comprueba los resultados del Quinigol del 21 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-loterias",
-            "quinigol",
-            "noticias"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/21/comprueba-los-resultados-del-quinigol-del-21-de-diciembre/",
-        "date": "2025-12-21 22:00:40",
-        "sentiment_score": 0.043751731514930725
-    },
-    {
-        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 17 de LaLiga EA Sports 25-26 | El Espanyol, a poner la guinda a un año que invita a soñar",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/laliga-ea-sports-25-26-jornada-17-domingo-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/liga-jornada-17-resultados-clasificacion-cronica-resumen-partidos-athletic-club-rcd-espanyol-domingo/",
-        "date": "2025-12-21 22:00:29",
-        "sentiment_score": 0.7950837574899197
-    },
-    {
-        "title": "(Crónica) El Barça golea camino a cuartos y el Atlético necesita los penaltis en la Copa de la Reina",
-        "image_url": "https://www.infobae.com/resizer/v2/26A3UTYFUNFK5H53HLLGL3KMZI.jpg?auth=23ac6465797722b14fa6d9ba55a2607380ff69aff41dd184e2dcd16c64fb6546&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/21/cronica-el-barca-golea-camino-a-cuartos-y-el-atletico-necesita-los-penaltis-en-la-copa-de-la-reina/",
-        "date": "2025-12-21 22:00:19",
-        "sentiment_score": -0.0629735141992569
-    },
-    {
-        "title": "Alerta por Mastantuono: tras otro partido sin minutos en el Real Madrid, se dispararon los rumores sobre su futuro",
-        "image_url": "https://www.infobae.com/resizer/v2/5LG3SKP2UVHVXIY5QI24VXTJS4.JPG?auth=6f3795cb2c23ed64e3c863015d93ed65ce548dbba3acff7231429d9b6a8399bf&height=1582&smart=true&width=2813",
-        "tags": [
-            "franco mastantuono",
-            "deportes-argentina",
-            "real madrid"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/21/alerta-por-mastantuono-tras-otro-partido-sin-minutos-en-el-real-madrid-se-dispararon-los-rumores-sobre-su-futuro/",
-        "date": "2025-12-21 21:54:24",
-        "sentiment_score": -0.46506909653544426
-    },
-    {
-        "title": "Podemos e IU rompen en Extremadura la debacle electoral de la izquierda",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/27a65e76702b180b1f0c07bbf3b19833/crop/55x36/1986x1324/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/21/17663552773607.jpg",
-        "tags": [
-            "elecciones extremadura"
-        ],
-        "link": "https://www.expansion.com/elecciones/elecciones-extremadura/2025/12/21/69486baae5fdea4c2a8b4592.html",
-        "date": "2025-12-21 22:15:35",
-        "sentiment_score": 0.3299166113138199
-    },
-    {
-        "title": "A Pedro Sánchez sólo le queda Cataluña",
-        "image_url": "https://static1.ara.cat/clip/c596ef1a-4524-43e7-975c-6b6e07ba2351_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sanchez",
-            "cataluna",
-            "le",
-            "pedro",
-            "queda"
-        ],
-        "link": "https://es.ara.cat/politica/pedro-sanchez-le-queda-cataluna_129_5599333.html",
-        "date": "2025-12-21 22:07:35",
-        "sentiment_score": -0.24829386174678802
-    },
-    {
-        "title": "Barcelona espera el 'Gordo' de la Lotería de Navidad 2025: este es el último que tocó en un pequeño pueblo hace 15 años",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/12/22/vivir-en-barcelona/636696325_9281645_1706x960.jpg",
-        "tags": [
-            "premios",
-            "navidad barcelona",
-            "vivir en barcelona",
-            "lotería navidad",
-            "curiosidades",
-            "recomendaciones"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251221/barcelona-espera-gordo-loteria-navidad-ultimo-toco-pequeno-pueblo-hace-anos/1003742718184_0.html",
-        "date": "2025-12-21 22:03:28",
-        "sentiment_score": 0.5812423974275589
-    },
-    {
-        "title": "El Barça 2.0 de Flick se dispara en Liga: Pulveriza sus números con un salto diferencial",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/21/image-ef4bd756-365d-44b9-8790-0a67b369dd49-85-2560-1440.jpeg",
-        "tags": [
-            "football",
-            "la liga 2025-2026"
-        ],
-        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/analisis-primera-vuelta-barcelona-cambio-casa-puntos-lider-campeon-invierno_sto23252810/story.shtml",
-        "date": "2025-12-21 22:02:56",
-        "sentiment_score": 0.5405744574964046
-    },
-    {
-        "title": "Un grupo de vecinos impide que una parroquia acoja a 15 de los migrantes desalojados de un instituto en Badalona",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/21/69486a8ddca805-69690314.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/un-grupo-vecinos-impide-que-una-parroquia-acoja-15-los-migrantes-desalojados-un-instituto-badalona_6913390_0.html",
-        "date": "2025-12-21 22:00:47",
-        "sentiment_score": -0.6732999701052904
-    },
-    {
-        "title": "02:00H |22 DICIEMBRE 2025 | LA NOCHE DE ADOLFO ARJONA",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la noche de adolfo arjona"
-        ],
-        "link": "https://www.cope.es/programas/la-noche-de-adolfo-arjona/horas-completas/02-00h-22-diciembre-2025-noche-adolfo-arjona-20251218_3273715.html",
-        "date": "2025-12-22 02:05:00",
-        "sentiment_score": -0.20518869161605835
-    },
-    {
-        "title": "Barcelona cerró 2025 como firme líder en la LaLiga",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/12/Barcelona-1.jpg",
-        "tags": [
-            "21dic",
-            "barcelona",
-            "deportes",
-            "líder",
-            "laliga"
-        ],
-        "link": "https://laverdaddemonagas.com/2025/12/21/barcelona-cerro-lider/",
-        "date": "2025-12-22 01:37:49",
-        "sentiment_score": -0.21821072697639465
-    },
-    {
-        "title": "El Sorteo de la Lotería de Navidad reparte este lunes 2.772 millones en premios: el Gordo dará 400.000 euros por décimo",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/15/17657872051436.jpg",
-        "tags": [
-            "lotería de navidad",
-            "sorteo",
-            "lotería"
-        ],
-        "link": "https://www.elmundo.es/loterias/loteria-de-navidad/2025/12/22/6948403de85ecee0058b4572.html",
-        "date": "2025-12-22 01:25:30",
-        "sentiment_score": 0.10605643689632416
-    },
-    {
-        "title": "De hispano flamencos a canarios: el linaje Van de Walle",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fe006457-62ca-4c03-a17c-fd631fb03152_16-9-aspect-ratio_default_0_x663y560.jpg",
-        "tags": [
-            "canarias",
-            "la palma",
-            "isla",
-            "familia"
-        ],
-        "link": "https://www.laprovincia.es/cultura/2025/12/22/hispano-flamencos-canarios-linaje-walle-125030606.html",
-        "date": "2025-12-22 01:09:17",
-        "sentiment_score": -0.048941582441329956
-    },
-    {
-        "title": "Los silbidos a Vinicius y el gesto de Lamine Yamal en Villarreal, en El Tertulión",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/22/69488ecec3144.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/silbidos-bernabeu-vinicius-gesto-lamine-yamal-villarreal-tertulion-juego-20251222_3275580.html",
-        "date": "2025-12-22 01:03:09",
-        "sentiment_score": -0.050243884325027466
-    },
-    {
-        "title": "Taiwán refuerza su capacidad militar ante la amenaza china: adquirirá sistemas HIMARS, obuses, misiles y drones a EEUU",
-        "image_url": "https://s3.elespanol.com/2025/11/11/actualidad/1003744008462_259866028_1706x960.jpg",
-        "tags": [
-            "taiwán",
-            "industria armamentística",
-            "observatorio de la defensa",
-            "china",
-            "defensa - política de defensa",
-            "estados unidos"
-        ],
-        "link": "https://www.elespanol.com/observatorio-defensa/20251222/taiwan-refuerza-capacidad-militar-amenaza-china-adquirira-sistemas-himars-obuses-misiles-drones-eeuu/1003744062571_0.html",
-        "date": "2025-12-22 00:48:32",
-        "sentiment_score": -0.09824731945991516
-    },
-    {
-        "title": "21 DIC 2025 | EL TERTULIÓN DE LOS DOMINGOS",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/21-dic-2025-tertulion-domingos-20251222_3275583.html",
-        "date": "2025-12-22 00:43:00",
-        "sentiment_score": -0.7082764655351639
-    },
-    {
-        "title": "El golazo de chilena de Marruecos en el inicio de la Copa de África: el particular festejo y la reacción del Príncipe",
-        "image_url": "https://www.infobae.com/resizer/v2/ZZQLC7FP2FHA5D44XXWAZOLUZ4.jpg?auth=d9e6f874458652be8e86d0ddaa14d2e6bb4f13a29cd5bb4e02fa9b1c041e79c5&height=1202&smart=true&width=2137",
-        "tags": [
-            "copa áfrica",
-            "ayoub el kaabi",
-            "deportes-argentina",
-            "selección de marruecos"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/22/el-golazo-de-chilena-de-marruecos-en-el-inicio-de-la-copa-de-africa-el-particular-festejo-y-la-reaccion-del-principe/",
-        "date": "2025-12-22 00:26:48",
-        "sentiment_score": 0.6936040595173836
-    },
-    {
-        "title": "Arranca con una exigente cuesta de enero",
-        "image_url": "https://s3.ppllstatics.com/diariovasco/www/multimedia/2025/12/21/209579968-kwpB--758x531@Diario%20Vasco.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://www.diariovasco.com/real-sociedad/arranca-exigente-cuesta-enero-20251222061351-nt.html",
-        "date": "2025-12-22 00:00:00",
-        "sentiment_score": 0.22300536185503006
-    },
-    {
-        "title": "España se entrega a San Pancracio: la Lotería del 22 de diciembre, última posibilidad de cambiar el rumbo del año",
-        "image_url": "https://s3.elespanol.com/2025/12/21/actualidad/1003744065177_260607401_1706x960.jpg",
-        "tags": [
-            "lotería de navidad",
-            "gordo de navidad",
-            "loterías",
-            "loterías y apuestas del estado (lae)",
-            "navidad"
-        ],
-        "link": "https://www.elespanol.com/loterias/20251222/espana-entrega-san-pancracio-loteria-diciembre-ultima-posibilidad-cambiar-rumbo-ano/1003744065135_0.html",
-        "date": "2025-12-21 23:50:21",
-        "sentiment_score": 0.33261846005916595
-    },
-    {
-        "title": "Jerez visto por los viajeros germanos del siglo XIX",
-        "image_url": "https://static.grupojoly.com/clip/eb5e5a71-9b11-4397-bd8b-bcc90faea909_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias jerez"
-        ],
-        "link": "https://www.diariodejerez.es/jerez/jerez-visto-viajeros-germanos-siglo_0_2005483920.html",
-        "date": "2025-12-22 02:17:49",
-        "sentiment_score": -0.15909116715192795
-    },
-    {
-        "title": "Los siete golpes letales que Trump ha asestado a la ciencia: \"Es un regreso a un oscurantismo medieval\"",
-        "image_url": "https://s3.elespanol.com/2025/02/28/actualidad/927667543_253493849_1706x960.jpg",
-        "tags": [
-            "estados unidos",
-            "ciencia",
-            "investigación científica"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20251222/golpes-letales-trump-asestado-ciencia-regreso-oscurantismo-medieval/1003744063814_0.html",
-        "date": "2025-12-22 02:08:28",
-        "sentiment_score": -0.9088962581008673
-    },
-    {
-        "title": "A Málaga desde Canadá por la robótica infantil",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/12/21/9DE97E99-A9EF-4A2F-A660-F0C6179B0047/69.jpg?crop=1600%2C900%2Cx0%2Cy126&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "málaga",
-            "home la razón",
-            "andalucía"
-        ],
-        "link": "https://www.larazon.es/andalucia/malaga/malaga-canada-robotica-infantil_2025122269489b1d22f0db7daffa53d4.html",
-        "date": "2025-12-22 01:13:01",
-        "sentiment_score": 0.663019597530365
-    },
-    {
-        "title": "El lesionado del Barça que desatasca el mercado de fichajes: inyección de Fair Play sin obtener la regla 1:1",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/22/culemania/palco/1003742718221_15539836_1706x960.jpg",
-        "tags": [
-            "fichajes barça",
-            "andreas christensen",
-            "primer equipo",
-            "deco",
-            "fair play de la liga"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251222/lesionado-barca-desatasca-fichajes-inyeccion-fair-play/1003742718219_0.html",
-        "date": "2025-12-22 00:40:51",
-        "sentiment_score": 0.38325583934783936
-    },
-    {
-        "title": "Los orígenes del Sorteo de Navidad: más de dos siglos de ilusión cuya denominación definitiva data de 1892",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/BOLAS-SORTEO-NAVIDAD.jpg",
-        "tags": [
-            "españa",
-            "economía",
-            "lotería de navidad"
-        ],
-        "link": "https://gaceta.es/espana/los-origenes-del-sorteo-de-navidad-mas-de-dos-siglos-de-ilusion-cuya-denominacion-definitiva-data-de-1892-20251222-0138/",
-        "date": "2025-12-22 00:38:00",
-        "sentiment_score": -0.15295887738466263
-    },
-    {
-        "title": "¿La seguridad es una quimera? Cómo establecer la estrategia correcta",
-        "image_url": "https://revistabyte.es/wp-content/uploads/2025/12/seguridad-es-una-quimera.webp",
-        "tags": [
-            "eventos",
-            "ia",
-            "hclsoftware",
-            "seguridad",
-            "ciberseguridad"
-        ],
-        "link": "https://revistabyte.es/eventos-tic/seguridad-es-una-quimera/",
-        "date": "2025-12-22 00:05:00",
-        "sentiment_score": -0.3201056942343712
-    },
-    {
-        "title": "Blessd anunció gran concierto en el Atanasio Girardot para cerrar su tour por Colombia: “Mi primer estadio en Medellín”",
-        "image_url": "https://www.infobae.com/resizer/v2/6HHZXSHPSJCMVCRLRB6UGL22EQ.jpg?auth=47dde114ae58899d0ad69a301587a967bd5674c3d9ca338ac5ab735a91767e97&height=1080&smart=true&width=1920",
-        "tags": [
-            "colombia-noticias",
-            "conciertos en medellín",
-            "medellín",
-            "colombia-entretenimiento",
-            "estadio atanasio girardot",
-            "el bendito",
-            "el mejor hombre del mundo tour",
-            "blessd"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/12/22/blessd-anuncio-gran-concierto-en-el-atanasio-girardot-para-cerrar-su-tour-por-colombia-mi-primer-estadio-en-medellin/",
-        "date": "2025-12-22 00:02:57",
-        "sentiment_score": 0.8179403580725193
-    },
-    {
-        "title": "23:00 | 21 DIC 2025 | TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/23-00-21-dic-2025-juego-20251222_3275570.html",
-        "date": "2025-12-21 23:22:40",
-        "sentiment_score": 0.5031455419957638
-    },
-    {
         "title": "Lotería de Navidad 2025 en directo: última hora del Sorteo de El Gordo",
         "image_url": "https://static.eldiario.es/clip/aa2264e0-8d6a-4d6b-a72f-596a1b0138eb_16-9-discover-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2941,5 +2577,238 @@ export default [
         "link": "https://www.elperiodicomediterraneo.com/sociedad/2025/12/25/exculpado-gran-deuda-buena-fe-seguridad-social-dv-125054962.html",
         "date": "2025-12-25 05:00:45",
         "sentiment_score": -0.1685919314622879
+    },
+    {
+        "title": "Fallece Roberto Moreno Díaz, catedrático emérito de la ULPGC e impulsor de los estudios de Informática: «Es un día de duelo en la universidad»",
+        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2025/12/25/roberto%20moreno.jpg",
+        "tags": [
+            "universidad de las palmas de gran canaria",
+            "gáldar",
+            "informática",
+            "inteligencia artificial",
+            "cabildo insular de gran canaria",
+            "canarias"
+        ],
+        "link": "https://www.canarias7.es/sociedad/educacion/fallece-roberto-moreno-diaz-catedratico-emerito-ulpgc-20251225174716-nt.html",
+        "date": "2025-12-25 17:11:26",
+        "sentiment_score": 0.7882053591310978
+    },
+    {
+        "title": "Olivier Rioux, el gigante de 2,36 metros anota su primera canasta en el basket universitario",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/25/F04B59A6-9964-4A45-B22E-66CF4BB7AED4/olivier-rioux-gigante-basket-universitario-estados-unidos_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "baloncesto",
+            "antena 3 noticias",
+            "deportes"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/baloncesto/olivier-rioux-gigante-236-metros-anota-primera-canasta-basket-universitario_20251225694d7029af09df501093c09a.html",
+        "date": "2025-12-25 17:11:05",
+        "sentiment_score": 0.7010933682322502
+    },
+    {
+        "title": "El PNV afea al rey español su silencio sobre el euskera y los capítulos negros de la transición",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b27620f8-05da-4b1c-aca3-f721aa44656c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "capítulos negros transición",
+            "afea",
+            "rey",
+            "silencio",
+            "felipe vi",
+            "pnv",
+            "espanol",
+            "euskera"
+        ],
+        "link": "https://www.deia.eus/politica/2025/12/25/felipe-vi-pnv-afea-rey-espanol-silencio-euskera-capitulos-negros-transicion-10512984.html",
+        "date": "2025-12-25 17:00:25",
+        "sentiment_score": -0.23613063991069794
+    },
+    {
+        "title": "Diogo Jota, George Foreman o Manolo 'el del Bombo': los 25 grandes nombres del deporte que fallecieron este 2025",
+        "image_url": "https://s3.elespanol.com/2025/07/04/actualidad/1003743834069_257027478_1706x960.jpg",
+        "tags": [
+            "fútbol",
+            "george foreman",
+            "felix baumgartner",
+            "otros deportes",
+            "baloncesto",
+            "deportes",
+            "hulk hogan"
+        ],
+        "link": "https://www.elespanol.com/deportes/otros-deportes/20251225/diogo-jota-george-foreman-manolo-bombo-grandes-nombres-deporte-fallecieron/1003744054479_0.html",
+        "date": "2025-12-25 17:00:00",
+        "sentiment_score": -0.7867275699973106
+    },
+    {
+        "title": "Eugenia de York escoge una marca de Madrid para un look de alto impacto en Sandringham",
+        "image_url": "https://images.ecestaticos.com/qXKshhiVUBuUil_RcuRtbpoSWkc=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F40b%2Fc1f%2F371%2F40bc1f3713999cefd8b0f3aaaea27998.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2025-12-25/eugenia-de-york-marca-de-madrid-look-sandringham_4274734/",
+        "date": "2025-12-25 16:42:00",
+        "sentiment_score": 0.09655043482780457
+    },
+    {
+        "title": "Los dos fichajes low-cost que más gustan a Deco para sustituir a Robert Lewandowski en el Barça (y cuatro deseos prohibitivos)",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/12/culemania/primer-equipo/1003742715390_15503990_1706x960.jpg",
+        "tags": [
+            "erling haaland",
+            "fichajes barça",
+            "deco",
+            "robert lewandowski",
+            "barça",
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251225/fichajes-deco-sustituir-robert-lewandowski-barca-prohibitivos/1003742715357_0.html",
+        "date": "2025-12-25 16:27:49",
+        "sentiment_score": -0.07166261970996857
+    },
+    {
+        "title": "El pico estacional de la soledad no deseada: «La Navidad es como abrir la herida y echarle sal»",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/soledad-sinc.jpg",
+        "tags": [
+            "personas",
+            "navidad",
+            "soledad",
+            "sociedad"
+        ],
+        "link": "https://theobjective.com/sociedad/2025-12-25/pico-estacional-soledad/",
+        "date": "2025-12-25 16:11:11",
+        "sentiment_score": -0.2572436258196831
+    },
+    {
+        "title": "El reto del Unicaja: Acabar con la racha de victorias histórica del Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b41ad734-d70e-459e-9bb3-a2afc5738b3a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "la liga",
+            "real madrid",
+            "unicaja",
+            "madrid",
+            "historia",
+            "movistar",
+            "baloncesto"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/25/reto-unicaja-acabar-racha-victorias-real-madrid-casa-manresa-125135845.html",
+        "date": "2025-12-25 16:11:09",
+        "sentiment_score": 0.7992249950766563
+    },
+    {
+        "title": "Detuvieron a mujer por trato cruel contra sus hijos en Barcelona",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/25131323/trato-cruel-contra-hijos-en-barcelona.jpg",
+        "tags": [
+            "detenida",
+            "barcelona",
+            "cicpc",
+            "sucesos",
+            "venezuela"
+        ],
+        "link": "https://www.elnacional.com/2025/12/detuvieron-a-mujer-por-trato-cruel-contra-sus-hijos-en-barcelona/",
+        "date": "2025-12-25 17:04:00",
+        "sentiment_score": -0.8742926996201277
+    },
+    {
+        "title": "Los peores presagios para Fernando Alonso y el cambio de reglas en 2026: \"Sería muy bueno para Carlos Sainz, pero malo para el Aston Martin\"",
+        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/12/23/6949d63dc1140.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/peores-presagios-fernando-alonso-cambio-reglas-2026-seria-bueno-carlos-sainz-malo-aston-martin-20251225_3276236.html",
+        "date": "2025-12-25 17:00:00",
+        "sentiment_score": -0.0341678261756897
+    },
+    {
+        "title": "Elsa Pataky y Chris Hemsworth, la pareja que vive entre constantes rumores de crisis, cumple 15 años de matrimonio",
+        "image_url": "https://s3.elespanol.com/2025/12/22/actualidad/1003744066465_260623211_1706x960.jpg",
+        "tags": [
+            "elsa pataky",
+            "amor",
+            "famosos",
+            "chris hemsworth",
+            "relaciones de pareja"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251225/elsa-pataky-chris-hemsworth-pareja-vive-constantes-rumores-crisis-cumple-anos-matrimonio/1003744066417_0.html",
+        "date": "2025-12-25 16:56:53",
+        "sentiment_score": -0.054289087653160095
+    },
+    {
+        "title": "La facturación de las empresas tecnológicas se duplica en Alicante y ya supera los 706 millones",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/42c88c46-59ed-464b-94d7-da1d662e49d0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "facturación",
+            "trabajo",
+            "valencia",
+            "empresas",
+            "startup",
+            "ecosistema"
+        ],
+        "link": "https://www.informacion.es/economia/2025/12/25/facturacion-empresas-tecnologicas-duplica-alicante-125136051.html",
+        "date": "2025-12-25 16:42:20",
+        "sentiment_score": 0.49926985800266266
+    },
+    {
+        "title": "El número de personas que acceden a la eutanasia crece un 27,5%: Cataluña y Madrid lideran el aumento pero una de cada tres muere esperando la resolución",
+        "image_url": "https://www.infobae.com/resizer/v2/ZH3FQ4FCTFBK5F77SIS4KEO6HU.jpg?auth=9cabce4c0a5b9c9b12df1900465509aba1213e1e146857fcd3ae71285928454f&height=1280&smart=true&width=1920",
+        "tags": [
+            "eutanasia",
+            "españa-sociedad",
+            "españa-noticias",
+            "sanidad españa",
+            "muerte digna",
+            "ministerio de sanidad"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/25/el-numero-de-personas-que-acceden-a-la-eutanasia-crece-un-275-cataluna-y-madrid-lideran-el-aumento-pero-una-de-cada-tres-muere-esperando-la-resolucion/",
+        "date": "2025-12-25 16:36:11",
+        "sentiment_score": 0.04060989245772362
+    },
+    {
+        "title": "¿Qué supermercados (y en qué horarios) abren en Sant Esteve en Barcelona y el resto de Catalunya?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0aaf946d-f84c-49b1-b2e6-5ea419097f22_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "supermercados",
+            "navidad"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20251225/supermercados-abiertos-barcelona-catalunya-sant-esteve-cataluna-barcelona-dv-125099259",
+        "date": "2025-12-25 16:30:00",
+        "sentiment_score": -0.3157719075679779
+    },
+    {
+        "title": "Detienen a \"Railer\": acosaba a su ex y la chantajeaba para tener encuentros sexuales",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1766680154222.jpg?ch=675&cw=1200",
+        "tags": [
+            "detienen a \"railer\"",
+            "encuentros sexuales",
+            "acosaba a su ex"
+        ],
+        "link": "https://2001online.com/sucesos/detienen-a-railer-acosaba-a-su-ex-y-la-chantajeaba-para-tener-encuentros-sexuales-2025122512300",
+        "date": "2025-12-25 16:30:00",
+        "sentiment_score": -0.7442636936903
+    },
+    {
+        "title": "¿Qué centros comerciales (y en qué horarios) abren en Sant Esteve en Barcelona y el resto de Catalunya?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fff15a51-8d11-404e-9d8a-ee99d38a34e9_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tiendas",
+            "centros comerciales",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/economia/20251225/centros-comerciales-abiertos-sant-esteve-barcelona-cataluna-horarios-dv-125100023",
+        "date": "2025-12-25 16:30:00",
+        "sentiment_score": -0.2025761604309082
+    },
+    {
+        "title": "Los amigos de Balde, Lamine, Olmo y Raphinha juegan su propia liga privada",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/20/culemania/primer-equipo/1003742675243_15505773_1706x960.jpg",
+        "tags": [
+            "lamine yamal",
+            "alejandro balde",
+            "raphinha",
+            "barça",
+            "culemaníacos",
+            "dani olmo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251225/amigos-balde-lamine-olmo-raphinha-juegan-privada/1003742715546_0.html",
+        "date": "2025-12-25 16:29:36",
+        "sentiment_score": -0.0397087037563324
     }
 ];
