@@ -2858,5 +2858,255 @@ export default [
         "link": "https://www.eldiario.es/nidos/vida-trabajar-criar-madre-apoyo-familiar_1_12868785.html",
         "date": "2025-12-25 20:14:55",
         "sentiment_score": -0.2147848755121231
+    },
+    {
+        "title": "Millonarios",
+        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20251226/millonarios_367884.html",
+        "date": "2025-12-26 00:30:00",
+        "sentiment_score": -0.04310043156147003
+    },
+    {
+        "title": "El tenso cruce entre Mourinho y un periodista luego del triunfo del Benfica en la liga de Portugal",
+        "image_url": "https://www.infobae.com/resizer/v2/WCIU4S3AHRBTDPL3LLC3XDWT2A.jpg?auth=7a87dbc6a488034ce156662cf3d3afbcd22e4e951569cbeaf72dc1d0784e6e9b&height=1080&smart=true&width=1920",
+        "tags": [
+            "benfica",
+            "josé mourinho",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/26/el-tenso-cruce-entre-mourinho-y-un-periodista-luego-del-triunfo-del-benfica-en-la-liga-de-portugal/",
+        "date": "2025-12-26 00:28:15",
+        "sentiment_score": -0.8773624580353498
+    },
+    {
+        "title": "Una temporada de contrastes",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/280579db-429a-4c87-8361-906431ad372e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "primera división",
+            "la liga",
+            "costa adeje",
+            "real madrid"
+        ],
+        "link": "https://www.eldia.es/deportes/ud-tenerife/2025/12/26/temporada-contrastes-125141360.html",
+        "date": "2025-12-26 00:00:31",
+        "sentiment_score": 0.40192340314388275
+    },
+    {
+        "title": "Convivencia, diálogo y ejemplaridad",
+        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/12/24/felipe-vi-pronuncia-su-5391807.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/opinion/2025/12/26/convivencia-dialogo-y-ejemplaridad-1881350-daa.html",
+        "date": "2025-12-25 23:05:00",
+        "sentiment_score": 0.46046414971351624
+    },
+    {
+        "title": "Lo mejor del deporte en 2025 | El Mundial de Clubes: emociones, sorpresas y una que otra decepción",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/12/25/mundial-clubes-2025-orix/",
+        "date": "2025-12-25 23:03:53",
+        "sentiment_score": 0.29933711886405945
+    },
+    {
+        "title": "Cal y arena",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/270cb901-2e91-48c4-829a-85b30c744288_16-9-discover-aspect-ratio_320w_0.webp",
+        "tags": [
+            "psoe",
+            "gobierno regional",
+            "ayuntamiento de gijón"
+        ],
+        "link": "https://www.lne.es/gijon/gijon-oeste/gijon-oeste-opinion/2025/12/26/cal-arena-125138146.html",
+        "date": "2025-12-25 23:01:18",
+        "sentiment_score": -0.004830151796340942
+    },
+    {
+        "title": "Ahora más que nunca, consenso",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/24/pensamiento/1003742718978_15548991_1706x960.jpg",
+        "tags": [
+            "pensamiento",
+            "corrupción",
+            "congreso de los diputados",
+            "políticos"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/20251226/ahora-nunca-consenso/1003742718975_12.html",
+        "date": "2025-12-25 23:00:00",
+        "sentiment_score": -0.9347480870783329
+    },
+    {
+        "title": "Prensa internacional se rinde a los pies de Luis Díaz por año futbolístico en el Liverpool y Bayern Múnich: “Ha estado muy bien”",
+        "image_url": "https://www.infobae.com/resizer/v2/QL6SONBPV5EUHGSPTHZRF3LN2I.JPG?auth=5c205e8749c7d385da5177fd052e582ef7539e76420fa07fc9af0f735ce7ea8a&height=1570&smart=true&width=2187",
+        "tags": [
+            "bayern múnich",
+            "luis díaz bayern múnich",
+            "luis díaz gol",
+            "prensa internacional",
+            "liverpool",
+            "colombia-deportes",
+            "luis díaz",
+            "premier league",
+            "bundesliga"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/12/25/prensa-internacional-se-rinde-a-los-pies-de-luis-diaz-por-ano-futbolistico-en-el-liverpool-y-bayern-munich-ha-estado-muy-bien/",
+        "date": "2025-12-25 22:38:49",
+        "sentiment_score": 0.8316904678940773
+    },
+    {
+        "title": "Denuncian a Cabify por discriminar a las personas en silla de ruedas",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/25/2025122523285760269.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.mundiario.com/articulo/sociedad/denuncian-cabify-discriminar-personas-silla-ruedas/20251225233249368298.html",
+        "date": "2025-12-25 22:32:49",
+        "sentiment_score": -0.13877151161432266
+    },
+    {
+        "title": "Muere Roberto Moreno, catedrático de la ULPGC e impulsor de los estudios tecnológicos",
+        "image_url": "https://static.eldiario.es/clip/03a5ef14-194b-47cb-aafc-d4d5351926ec_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "impulsor",
+            "roberto",
+            "catedratico",
+            "tecnologicos",
+            "moreno",
+            "muere",
+            "ulpgc",
+            "e",
+            "estudios"
+        ],
+        "link": "https://www.eldiario.es/canariasahora/sociedad/muere-roberto-moreno-catedratico-ulpgc-e-impulsor-estudios-tecnologicos_1_12870572.html",
+        "date": "2025-12-25 22:32:19",
+        "sentiment_score": -0.06175197660923004
+    },
+    {
+        "title": "Conmoción en Brasil por fallecimiento de campeona juvenil de gimnasia",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/12/Isabella-Marciniak-1068x601-1.jpg",
+        "tags": [
+            "deceso",
+            "deportes",
+            "isabella marciniak",
+            "25dic"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/12/25/conmocion-en-brasil-gimnasia/",
+        "date": "2025-12-26 02:01:37",
+        "sentiment_score": -0.8641350250691175
+    },
+    {
+        "title": "Detenido en Barcelona por golpear brutalmente a su madre tras negarle dinero",
+        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2025/12/image-470.png",
+        "tags": [
+            "principales",
+            "nacionales"
+        ],
+        "link": "https://reporteconfidencial.info/2025/12/25/detenido-en-barcelona-por-golpear-brutalmente-a-su-madre-tras-negarle-dinero/",
+        "date": "2025-12-26 01:32:26",
+        "sentiment_score": -0.8362184707075357
+    },
+    {
+        "title": "Escribano abrirá en Reino Unido su primera planta fuera de España",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/e0b6e40dba9a73a865f5eda3609d30c1/crop/24x452/1909x1709/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/25/17666973889679.jpg",
+        "tags": [
+            "empresas>",
+            "industria>"
+        ],
+        "link": "https://www.expansion.com/empresas/industria/2025/12/26/694da3e3468aeb7e048b4594.html",
+        "date": "2025-12-26 01:08:58",
+        "sentiment_score": 0.7237555738538504
+    },
+    {
+        "title": "El 'harén' de Ramón Flecha en la UB: el catedrático acusado por 14 mujeres que pedía masajes a sus becarias antes de tener sexo",
+        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744068998_260654358_1706x960.jpg",
+        "tags": [
+            "violencia de género",
+            "reportajes",
+            "alumnos",
+            "investigación científica",
+            "universidad de barcelona",
+            "profesorado",
+            "abusos sexuales",
+            "csic"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251226/haren-ramon-flecha-ub-catedratico-acusado-mujeres-pedia-masajes-becarias-tener-sexo/1003744068217_0.html",
+        "date": "2025-12-26 01:06:46",
+        "sentiment_score": -0.8891744092106819
+    },
+    {
+        "title": "Extremadura descubre en 2025 su poder de atracción de inversiones en centros de datos",
+        "image_url": "https://s3.elespanol.com/2025/01/20/invertia/disruptores/autonomias/extremadura/917918490_252459007_1706x960.jpg",
+        "tags": [
+            "innovación",
+            "transformación digital",
+            "tecnología",
+            "extremadura",
+            "wake up spain"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/extremadura/20251226/extremadura-descubre-poder-atraccion-inversiones-centros-datos/1003744064724_0.html",
+        "date": "2025-12-26 01:00:01",
+        "sentiment_score": 0.7853220161050558
+    },
+    {
+        "title": "El milagro navideño de Gina: la catalana de 5 años aparece en Italia tras secuestrarla su padre argentino acusado de maltrato",
+        "image_url": "https://s3.elespanol.com/2025/12/25/actualidad/1003744069633_260662760_1706x1280.jpg",
+        "tags": [
+            "el prat de llobregat",
+            "reportajes",
+            "personas desaparecidas",
+            "navidad",
+            "niños robados",
+            "mozos de escuadra (mossos d'esquadra)",
+            "secuestros de niños",
+            "barcelona (provincia)",
+            "italia"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251226/milagro-navideno-gina-catalana-anos-aparece-italia-secuestrarla-padre-argentino-acusado-maltrato/1003744069510_0.html",
+        "date": "2025-12-26 00:54:51",
+        "sentiment_score": -0.3414100855588913
+    },
+    {
+        "title": "Fernando del Pozo: \"Nunca vi nada como un aliado negándose a seguir lo acordado por consenso\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/282efb91f3c7d14a152347205b159538/resize/1200/f/webp/assets/multimedia/imagenes/2025/10/31/17619357716305.jpg",
+        "tags": [
+            "ministerio de defensa"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/12/26/6905021afdddff9a178b45bb.html",
+        "date": "2025-12-26 00:05:47",
+        "sentiment_score": 0.17523585259914398
+    },
+    {
+        "title": "Daniel Muñoz, elegido en el “once ideal” de la Premier League por la televisión inglesa",
+        "image_url": "https://www.infobae.com/resizer/v2/V2M4P47GTVE2BJXFXZKIHPXXNM.JPG?auth=d3ade81167a8cba838db7e754fe78fd064bef6ae666689d07b4a42751cfcf0da&height=2370&smart=true&width=4213",
+        "tags": [
+            "colombia-deportes",
+            "daniel muñoz",
+            "jamie carragher",
+            "premier league",
+            "crystal palace"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/12/25/daniel-munoz-elegido-en-el-once-ideal-de-la-premier-league-por-la-television-inglesa/",
+        "date": "2025-12-25 23:47:03",
+        "sentiment_score": -0.4983437582850456
+    },
+    {
+        "title": "De la peste porcina a la gripe aviar: Cataluña se enfrenta a dos peligrosos brotes víricos de consecuencias inciertas",
+        "image_url": "https://s3.elespanol.com/2025/12/25/actualidad/1003744069598_260662257_1706x960.jpg",
+        "tags": [
+            "peste porcina",
+            "cataluña",
+            "pollos (valladolid)",
+            "veterinaria",
+            "ciencia",
+            "cerdos",
+            "gripe aviar"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20251226/peste-porcina-gripe-aviar-cataluna-enfrenta-peligrosos-brotes-viricos-consecuencias-inciertas/1003744069580_0.html",
+        "date": "2025-12-25 23:30:26",
+        "sentiment_score": -0.5157177522778511
     }
 ];
