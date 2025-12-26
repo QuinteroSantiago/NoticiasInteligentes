@@ -1,223 +1,5 @@
 export default [
     {
-        "title": "Los famosos también saben lo que se siente cuando toca La Lotería",
-        "image_url": "https://s2.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/22/letizia-kYuF-U240642379057udC-758x531@El%20Norte.jpg",
-        "tags": [
-            "isabel gemio",
-            "mercedes milá",
-            "pedro sánchez",
-            "famosos",
-            "lotería de navidad"
-        ],
-        "link": "https://www.elnortedecastilla.es/gente-estilo/famosos-saben-siente-toca-loteria-20251222181505-nt.html",
-        "date": "2025-12-22 17:15:33",
-        "sentiment_score": 0.28322451561689377
-    },
-    {
-        "title": "El 70048 llega a Las Palmas de Gran Canaria: cuatro trabajadoras de una firma de moda pellizcan el segundo premio de la Lotería de Navidad en Mesa y López",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06953946-b88a-4a3a-9391-97b5b903d824_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "el corte inglés",
-            "navidad 2025",
-            "las palmas de gran canaria",
-            "las palmas",
-            "isabel",
-            "mesa y lópez",
-            "moda",
-            "lotería de navidad"
-        ],
-        "link": "https://www.laprovincia.es/las-palmas/2025/12/22/70048-llega-palmas-gran-canaria-segundo-premio-loteria-de-navidad-125063910.html",
-        "date": "2025-12-22 17:12:28",
-        "sentiment_score": -0.24946294724941254
-    },
-    {
-        "title": "Los almerienses que se han quedado a un sólo número del tercer premio",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/22/6949781c2c17e.jpeg",
-        "tags": [
-            "adra"
-        ],
-        "link": "https://www.lavozdealmeria.com/provincia/adra/420633/almerienses-han-quedado-numero-tercer-premio.html",
-        "date": "2025-12-22 17:08:30",
-        "sentiment_score": -0.09132921323180199
-    },
-    {
-        "title": "La Audiencia Nacional impone condenas de hasta 8 años cárcel por la pieza de Púnica de contratos energéticos en ayuntamientos de Madrid",
-        "image_url": "https://cflvdg.avoz.es/sc/xOGq_E1P36MX2kiVMI3zuBsF5O8=/768x/2017/11/16/00121510826462833621396/Foto/efe_20171116_092751499.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/espana/2025/12/22/audiencia-nacionalimpone-condenas-8-anos-carcel-pieza-punica-contratos-energeticos-ayuntamientos-madrid/00031766422961023956935.htm",
-        "date": "2025-12-22 17:08:00",
-        "sentiment_score": -0.8529489077627659
-    },
-    {
-        "title": "17:00H | 22 DIC 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-22-dic-2025-tarde-20251222_3276141.html",
-        "date": "2025-12-22 17:07:00",
-        "sentiment_score": -0.3054930567741394
-    },
-    {
-        "title": "Las ventas para el Sorteo de la Lotería de Navidad aumentan un 2,65% en C-LM hasta los 169 millones de euros",
-        "image_url": "https://www.lacerca.com/imagenes/api_seo_43_thumb/8eb7b26e57b57330bf2d13c53febc42b.jpg",
-        "tags": [
-            "noticias",
-            "ciudad real"
-        ],
-        "link": "https://www.lacerca.com/noticias/ciudad_real/ventas-sorteo-loteria-navidad-2-65-169-euros-795920-1.html",
-        "date": "2025-12-22 17:04:00",
-        "sentiment_score": 0.3244146779179573
-    },
-    {
-        "title": "Risto Mejide rinde tributo a Patricia López: \"Perdemos a una gran compañera y España pierde a una gran periodista\"",
-        "image_url": "https://s3.elespanol.com/2025/12/22/actualidad/1003744066654_260625576_1706x960.jpg",
-        "tags": [
-            "todo es mentira - programa de televisión",
-            "risto mejide",
-            "soft",
-            "cuatro",
-            "muertes",
-            "televisión",
-            "bluper"
-        ],
-        "link": "https://www.elespanol.com/bluper/20251222/risto-mejide-rinde-tributo-patricia-lopez-perdemos-gran-companera-espana-pierde-periodista/1003744066504_0.html",
-        "date": "2025-12-22 17:03:35",
-        "sentiment_score": -0.9119716286659241
-    },
-    {
-        "title": "La Audiencia Nacional desactiva el deseo del Arenas",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/2fc495db-8ac0-4263-9c50-2ebc5f068166_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "audiencia",
-            "desactiva",
-            "deseo",
-            "nacional",
-            "arenas"
-        ],
-        "link": "https://www.deia.eus/futbol/2025/12/22/audiencia-nacional-desactiva-deseo-arenas-10504983.html",
-        "date": "2025-12-22 17:01:42",
-        "sentiment_score": -0.8086857870221138
-    },
-    {
-        "title": "Operación especial de Tráfico en Navidad: dispositivos, fases y previsiones",
-        "image_url": "https://www.actualidadmotor.com/wp-content/uploads/2024/07/atasco-trafico.jpg",
-        "tags": [
-            "seguridad y seguridad vial"
-        ],
-        "link": "https://www.actualidadmotor.com/operacion-especial-de-trafico-en-navidad-dispositivos-fases-y-previsiones/",
-        "date": "2025-12-22 17:00:01",
-        "sentiment_score": -0.2672743760049343
-    },
-    {
-        "title": "La AN impone condenas de hasta 8 años cárcel por la pieza de Púnica de contratos energéticos en ayuntamientos de Madrid",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251222175735_120.jpg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.europapress.es/nacional/noticia-an-impone-condenas-anos-carcel-pieza-punica-contratos-energeticos-ayuntamientos-madrid-20251222175735.html",
-        "date": "2025-12-22 16:57:35",
-        "sentiment_score": -0.7701354660093784
-    },
-    {
-        "title": "Lamine Yamal debuta como youtuber",
-        "image_url": "https://mundonow.com/wp-content/uploads/2025/12/yamal-youtube.png",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://mundonow.com/lamine-yamal-debuta-como-youtuber/",
-        "date": "2025-12-22 17:15:06",
-        "sentiment_score": 0.6064356714487076
-    },
-    {
-        "title": "78.477 y 25.508, los cuartos del Sorteo de Navidad 2025, reparten suerte a 'veteranos' y 'novatos' por España",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251222181425_690.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-78477-25508-cuartos-sorteo-navidad-2025-reparten-suerte-veteranos-novatos-espana-20251222181425.html",
-        "date": "2025-12-22 17:14:25",
-        "sentiment_score": 0.4093705713748932
-    },
-    {
-        "title": "Muere un hombre tiroteado en plena calle de Castelldefels",
-        "image_url": "https://static1.ara.cat/clip/c391ca92-8427-4bbf-8b15-072825b58656_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tiroteado",
-            "calle",
-            "castelldefels",
-            "plena",
-            "muere",
-            "hombre"
-        ],
-        "link": "https://es.ara.cat/sociedad/sucesos/muere-hombre-tiroteado-plena-calle-castelldefels_1_5600087.html",
-        "date": "2025-12-22 17:12:36",
-        "sentiment_score": -0.624276427552104
-    },
-    {
-        "title": "Cómo el ferrocarril obligó a unificar la hora de las ciudades: había 45 minutos de diferencia entre Barcelona y A Coruña",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/01/media_thumb-link-4129024.webp?1766401806=",
-        "tags": [
-            "horario",
-            "horarios",
-            "unificación",
-            "cultura",
-            "ferrocarril"
-        ],
-        "link": "https://www.meneame.net/story/como-ferrocarril-obligo-unificar-hora-ciudades-habia-45-minutos",
-        "date": "2025-12-22 17:10:02",
-        "sentiment_score": -0.018117234110832214
-    },
-    {
-        "title": "La confesión más sorprendente de Lamine Yamal y las galletas: “Por eso no puedo tener novia”",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/22/culemania/culemaniacos/1003742718475_15542986_1706x960.jpg",
-        "tags": [
-            "lamine yamal",
-            "barça",
-            "culemaníacos"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251222/confesion-sorprendente-lamine-yamal-galletas-puedo-tener/1003742718471_0.html",
-        "date": "2025-12-22 17:08:51",
-        "sentiment_score": 0.45509514957666397
-    },
-    {
-        "title": "Barcelona salvaje: Otra interesante oferta turística",
-        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/13/31/5/dentro-de-las-multiples-posibilidades-que-te-esperan-en-barcelona-hay-que-destacar-afrodita-bcn-como-una-de-las-propuestas-mas-destacadas.jpeg",
-        "tags": [
-            "estilo de vida"
-        ],
-        "link": "https://www.lanuevacronica.com/estilo-vida/barcelona-salvaje-otra-interesante-oferta-turistica_188264_102.html",
-        "date": "2025-12-22 17:03:05",
-        "sentiment_score": 0.807845514267683
-    },
-    {
-        "title": "Un estudio identifica un mecanismo con el que las células \"mastican\" y eliminan células muertas",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251222180242_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-estudio-identifica-mecanismo-celulas-mastican-eliminan-celulas-muertas-20251222180242.html",
-        "date": "2025-12-22 17:02:42",
-        "sentiment_score": -0.21269073337316513
-    },
-    {
-        "title": "Tiroteo a plena luz del día en Castelldefels: un hombre mata a otro y huye de la policía",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/07/05/ciutat-vella/1003742671312_14825164_1706x960.jpg",
-        "tags": [
-            "castelldefels",
-            "gran barcelona",
-            "guardia urbana",
-            "crimen",
-            "mossos d'esquadra"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251222/tiroteo-plena-luz-dia-castelldefels-hombre-mata-huye-policia/1003742718472_0.html",
-        "date": "2025-12-22 17:02:01",
-        "sentiment_score": -0.7631283272057772
-    },
-    {
         "title": "\"Podemos decir que a todos nos ha tocado la lotería, lo recaudado en impuestos...\"",
         "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/12/22/6949c1d42a959.jpeg",
         "tags": [
@@ -3108,5 +2890,153 @@ export default [
         "link": "https://www.elespanol.com/ciencia/20251226/peste-porcina-gripe-aviar-cataluna-enfrenta-peligrosos-brotes-viricos-consecuencias-inciertas/1003744069580_0.html",
         "date": "2025-12-25 23:30:26",
         "sentiment_score": -0.5157177522778511
+    },
+    {
+        "title": "Mazón fingió con Feijóo que conocía la magnitud de la tragedia tras la tarde en El Ventorro: \"Se está jodiendo cada minuto\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cce9b8dc-6250-4efd-962b-773325776614_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "feijoo",
+            "alberto núñez feijóo",
+            "carlos mazón",
+            "comunitat valenciana",
+            "dana"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/espana/2025/12/26/mazon-fingio-con-feijoo-que-conocia-la-magnitud-de-la-tragedia-tras-la-tarde-en-el-ventorro-se-esta-jodiendo-cada-minuto-125143469.html",
+        "date": "2025-12-26 06:25:11",
+        "sentiment_score": -0.7373316809535027
+    },
+    {
+        "title": "Mazón fingió con Feijóo que conocía la magnitud de la tragedia tras la tarde en El Ventorro: \"Se está jodiendo cada minuto\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cce9b8dc-6250-4efd-962b-773325776614_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "alberto núñez feijóo",
+            "dana",
+            "carlos mazón",
+            "comunitat valenciana",
+            "feijoo"
+        ],
+        "link": "https://www.elcorreogallego.es/espana/2025/12/26/mazon-fingio-con-feijoo-que-conocia-la-magnitud-de-la-tragedia-tras-la-tarde-en-el-ventorro-se-esta-jodiendo-cada-minuto-125143463.html",
+        "date": "2025-12-26 06:25:09",
+        "sentiment_score": -0.7257093843072653
+    },
+    {
+        "title": "ElectrAV: la cultura electrónica late con fuerza en Pamplona",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ad8cfe22-1e72-4ec8-b90b-bd1e05e646e0_16-9-aspect-ratio_default_0_x1068y1864.jpg",
+        "tags": [
+            "late",
+            "electronica",
+            "electrav",
+            "cultura",
+            "pamplona",
+            "fuerza"
+        ],
+        "link": "https://www.noticiasdenavarra.com/cultura/2025/12/26/electrav-cultura-electronica-late-fuerza-pamplona-10511477.html",
+        "date": "2025-12-26 06:24:05",
+        "sentiment_score": 0.2954311668872833
+    },
+    {
+        "title": "Este es el precio de la gasolina en Madrid, Barcelona y otras ciudades para hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "gasolina",
+            "precio gasolina",
+            "españa-economia"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/26/este-es-el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-para-hoy/",
+        "date": "2025-12-26 06:30:34",
+        "sentiment_score": -0.04640984535217285
+    },
+    {
+        "title": "Gripe aviar, dermatosis, peste porcina, lengua azul... el año 2025 que vivimos peligrosamente en las granjas",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/19/6945578c6551a0-11841055.jpeg",
+        "tags": [
+            "economía y finanzas"
+        ],
+        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ano-vivimos-peligrosamente-granjas-gripe-aviar-dermatosis-peste-porcina-lengua-azul_6912845_0.html",
+        "date": "2025-12-26 06:27:12",
+        "sentiment_score": -0.9407227374613285
+    },
+    {
+        "title": "Lisci bate su récord de canteranos",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ae19112a-e70b-4de0-99ba-e8e0094ac0ff_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "record",
+            "canteranos",
+            "lisci",
+            "bate"
+        ],
+        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/26/lisci-bate-record-canteranos-10511591.html",
+        "date": "2025-12-26 06:23:47",
+        "sentiment_score": -0.1536906510591507
+    },
+    {
+        "title": "Rosalía, Bad Bunny, The Weeknd, Agorazein con C. Tangana... Los conciertos de 2026 en España",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/25/694d59094e2b91-32888249.jpeg",
+        "tags": [
+            "música"
+        ],
+        "link": "https://www.20minutos.es/musica/rosalia-bad-bunny-the-weeknd-ultimo-fila-agorazein-con-c-tangana-los-conciertos-2026-espana_6914702_0.html",
+        "date": "2025-12-26 06:22:03",
+        "sentiment_score": -0.09806566685438156
+    },
+    {
+        "title": "Fuertes heladas, lluvia y nieve este viernes: continúan la inestabilidad y las bajas temperaturas en España",
+        "image_url": "https://www.infobae.com/resizer/v2/IKIEVWJYIBFSTLXF5WOXFNFI5A.jpg?auth=3709c0ff524bf4d2fde7df7e712864b75762fb2f7d3a1fd81c5d8f6995d23468&height=6000&smart=true&width=9000",
+        "tags": [
+            "españa-noticias",
+            "españa-sociedad",
+            "clima",
+            "meteorología",
+            "aemet",
+            "tiempo en españa"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/26/fuertes-heladas-lluvia-y-nieve-este-viernes-continua-la-inestabilidad-y-las-bajas-temperaturas-en-espana/",
+        "date": "2025-12-26 06:21:30",
+        "sentiment_score": -0.05942027270793915
+    },
+    {
+        "title": "Una masa de aire frío dejará hoy nieve y temperaturas de hasta -6 oC en varias comunidades autónomas",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/25/694d7b6220e2a1-08348966.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/una-masa-aire-frio-dejara-manana-nieve-norte-temperaturas-6oc-cantabria-otras-comunidades_6914724_0.html",
+        "date": "2025-12-26 06:13:18",
+        "sentiment_score": -0.8492116183042526
+    },
+    {
+        "title": "Cristina Lázaro, da el salto a la élite europea en Masters",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/44018af4-6249-41e9-a615-cf57bd81126d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "élite,europa,máster,natación"
+        ],
+        "link": "https://www.laopiniondezamora.es/deportes/2025/12/26/cristina-lazaro-da-salto-elite-125139711.html",
+        "date": "2025-12-26 06:00:59",
+        "sentiment_score": 0.8173047862946987
+    },
+    {
+        "title": "Prejuicios",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0dc68bc-396c-4e16-906f-96c13a9cbae5_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "viajar,grecia,seguros,destinos"
+        ],
+        "link": "https://www.laopiniondezamora.es/opinion/2025/12/26/prejuicios-125137994.html",
+        "date": "2025-12-26 06:00:54",
+        "sentiment_score": -0.8683065176010132
+    },
+    {
+        "title": "Málaga culmina el año con una demanda de más de 1.800 empleos tecnológicos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/625e4a3b-ba36-4379-94ce-8c79639e3fee_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "empleo",
+            "empresas tecnológicas",
+            "empresas",
+            "tecnología",
+            "software"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2025/12/26/malaga-culmina-ano-demanda-empleos-tecnologicos-125136578.html",
+        "date": "2025-12-26 06:00:54",
+        "sentiment_score": 0.2821348085999489
     }
 ];
