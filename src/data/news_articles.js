@@ -1,124 +1,5 @@
 export default [
     {
-        "title": "Un diamante en bruto y un fondo de salida: las claves de la venta del mayor propietario cotizado de hoteles de cinco estrellas",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a268d1b-ee3a-489f-8811-74c63b0fc3d0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madrid",
-            "hoteles",
-            "fondos de inversión",
-            "sector inmobiliario",
-            "bolsa",
-            "mercado inmobiliario"
-        ],
-        "link": "https://www.lacronicabadajoz.com/economia/2025/12/23/claves-venta-millenium-hoteles-125077782.html",
-        "date": "2025-12-23 06:18:37",
-        "sentiment_score": 0.07316175103187561
-    },
-    {
-        "title": "Endrick jugará en el Lyon para salvar su sueño mundialista",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/23081233/Captura-de-pantalla-2025-12-23-080923.png",
-        "tags": [
-            "endrick",
-            "real madrid",
-            "deportes",
-            "fútbol",
-            "lyon"
-        ],
-        "link": "https://www.elnacional.com/2025/12/endrick-jugara-en-el-lyon-para-salvar-su-sueno-mundialista/",
-        "date": "2025-12-23 06:16:00",
-        "sentiment_score": 0.14979170262813568
-    },
-    {
-        "title": "El Real Madrid se polariza: la grada apoya a Xabi y Florentino respalda a Vinícius",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/38f396f1-030a-40e2-927f-d8b8b58c9f7b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "florentino pérez",
-            "real madrid",
-            "fútbol",
-            "vinicius",
-            "xabi alonso"
-        ],
-        "link": "https://www.elcorreogallego.es/deportes/2025/12/23/real-madrid-polariza-grada-vinicius-xabi-alonso-florentino-perez-125077549.html",
-        "date": "2025-12-23 06:10:15",
-        "sentiment_score": -0.5470281019806862
-    },
-    {
-        "title": "El consejo de Gonzalo Bernardos para gastar menos estas Navidades: \"Menos marisco, menos ternera y más...\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/16/69418336b9d4a3-58066066.r_d.921-619.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/consejo-gonzalo-bernardos-para-gastar-menos-estas-navidades-menos-marisco-menos-ternera-mas_6913723_0.html",
-        "date": "2025-12-23 06:34:02",
-        "sentiment_score": -0.040870219469070435
-    },
-    {
-        "title": "Tres sentencias avalan el plan de Barcelona para limitar los alojamientos turísticos",
-        "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://es.investing.com/news/stock-market-news/tres-sentencias-avalan-el-plan-de-barcelona-para-limitar-los-alojamientos-turisticos-3445510",
-        "date": "2025-12-23 06:33:36",
-        "sentiment_score": -0.6091952845454216
-    },
-    {
-        "title": "Todo lo que quiso saber para ser un buen anticuario y nunca se atrevió a preguntar",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2023/11/28/C7369154-BE93-487B-9A6F-34FDD733043D/artur-ramon-fotografiado-ayer-barcelona_69.jpg?crop=6000%2C3375%2Cx0%2Cy330&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/todo-que-quiso-saber-ser-buen-anticuario-nunca-atrevio-preguntar_20251223694a349daf09df501091ac32.html",
-        "date": "2025-12-23 06:20:13",
-        "sentiment_score": 0.5073812901973724
-    },
-    {
-        "title": "Dani Alves vuelve al fútbol tras comprar un club en Portugal y ficharse a sí mismo",
-        "image_url": "https://www.elplural.com/uploads/s1/21/27/32/7/europapress-2495273-dani-alves-portrait-during-the-2019-formula-one-world-championship-brazil_7_480x270.jpeg",
-        "tags": [
-            "el regate"
-        ],
-        "link": "https://www.elplural.com/el-regate/dani-alves-vuelve-futbol-comprar-club-portugal-ficharse-si-mismo_368121102",
-        "date": "2025-12-23 06:19:30",
-        "sentiment_score": 0.09242501854896545
-    },
-    {
-        "title": "Artillería pesada",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/5b2a5d5a-3712-44c5-8d00-f0f4b68bb100_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pesada",
-            "artilleria"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/23/artilleria-pesada-10505391.html",
-        "date": "2025-12-23 06:17:46",
-        "sentiment_score": -0.14320486783981323
-    },
-    {
-        "title": "Iris Tió, una histórica sirena de oro",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a2a0bab6-e802-42cd-afc8-967476acce9a_16-9-aspect-ratio_default_0_x944y617.jpg",
-        "tags": [
-            "natación sincronizada"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/12/23/iris-tio-historica-sirena-oro-125077745.html",
-        "date": "2025-12-23 06:16:56",
-        "sentiment_score": -0.12868160009384155
-    },
-    {
-        "title": "Naufragio en las áreas",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a25a75da-3c15-46c1-9b0d-78a4ff37d528_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "areas",
-            "espanyol",
-            "san mames",
-            "naufragio"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/12/23/naufragio-areas-10506324.html",
-        "date": "2025-12-23 06:13:43",
-        "sentiment_score": -0.751170240342617
-    },
-    {
         "title": "El Real Madrid cede a Endrick al Lyon",
         "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/01/17/6789924e44e99.r_d.1094-482.jpeg",
         "tags": [
@@ -2790,5 +2671,261 @@ export default [
         "link": "https://www.laprovincia.es/economia/2025/12/26/jose-luis-bonet-espana-pais-125160103.html",
         "date": "2025-12-26 17:00:22",
         "sentiment_score": 0.09896834194660187
+    },
+    {
+        "title": "La izquierda fracasa en su intento de unidad en Aragón e irá dividida con tres listas diferentes",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251226230037.jpg?fit=1920%2C1280&ssl=1",
+        "tags": [
+            "política"
+        ],
+        "link": "https://cronicadecantabria.com/cr/la-izquierda-fracasa-en-su-intento-de-unidad-en-aragn-e-ir-dividida-con-tres-listas-diferentes/",
+        "date": "2025-12-26 22:00:03",
+        "sentiment_score": -0.8883854988962412
+    },
+    {
+        "title": "El milagro, en diez claves",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/4fb42b73018f5771f8183c53b5fab529/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/26/17667629694814.jpg",
+        "tags": [
+            "nlpremium",
+            "china"
+        ],
+        "link": "https://www.elmundo.es/internacional/2025/12/26/694e686cfdddff82778b4583.html",
+        "date": "2025-12-26 21:55:44",
+        "sentiment_score": 0.6868342123925686
+    },
+    {
+        "title": "Campazzo no es suficiente para levantar al Real Madrid",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/d0685e48-7ee3-4681-969b8a8e158504bb.jpg",
+        "tags": [
+            "usman garuba",
+            "charles leclerc",
+            "mónaco",
+            "sergio llull",
+            "nikola mirotic",
+            "sergio scariolo",
+            "facundo campazzo",
+            "euroliga",
+            "real madrid",
+            "córdoba",
+            "baloncesto"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z5d7d2f1b-207f-4e7a-b257e59e1f4e29a5/202512/campazzo-no-es-suficiente-para-levantar-al-real-madrid",
+        "date": "2025-12-26 21:52:02",
+        "sentiment_score": -0.7660352569073439
+    },
+    {
+        "title": "El Madrid cae en Mónaco antes de recibir al Unicaja",
+        "image_url": "https://static.grupojoly.com/clip/c3372c1a-fa29-465a-a2be-a04b1c435aa9_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja baloncesto"
+        ],
+        "link": "https://www.malagahoy.es/unicaja/madrid-cae-monaco-recibir-unicaja_3_2005516765.html",
+        "date": "2025-12-26 21:45:57",
+        "sentiment_score": -0.5491453781723976
+    },
+    {
+        "title": "Mbappé se pone la camiseta de Achraf Hakimi, en la Copa África, para animar a Marruecos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/26/694f010672423.r_d.540-351-4075.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mbappe-pone-camiseta-achraf-hakimi-copa-africa-animar-marruecos-20251226_3278045.html",
+        "date": "2025-12-26 21:41:52",
+        "sentiment_score": -0.11020129919052124
+    },
+    {
+        "title": "Sin acuerdo global de las izquierdas en Aragón: IU y Sumar pactan, pero Podemos y CHA concurrirán por separado el 8M",
+        "image_url": "https://static.eldiario.es/clip/83392bee-b3ce-4956-956f-02c5bfd0f4b4_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "zaragoza",
+            "teruel",
+            "eldiario",
+            "elprismático",
+            "actualidad",
+            "fernando garcía mongay",
+            "política",
+            "óscar f. civieta",
+            "marimar cabrera",
+            "huesca",
+            "sociedad",
+            "aragón",
+            "celia soria"
+        ],
+        "link": "https://www.eldiario.es/aragon/politica/acuerdo-global-izquierdas-aragon-iu-sumar-pactan-cha-concurriran-separado-8m_1_12872289.html",
+        "date": "2025-12-26 21:27:22",
+        "sentiment_score": -0.024935930967330933
+    },
+    {
+        "title": "La IFFHS dio a conocer los rankings con los mejores de la temporada: las posiciones de Messi, Dibu Martínez y Scaloni",
+        "image_url": "https://www.infobae.com/resizer/v2/RMU3HDVTXNETHL27MISA4FNEGQ.jpg?auth=36171bf854733f908bf748883f1c5615809de9a8f6c2a855dd580d65b53e7286&height=1080&smart=true&width=1920",
+        "tags": [
+            "lionel messi",
+            "deportes-argentina",
+            "iffhs",
+            "lionel scaloni",
+            "dibu martínez"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/26/la-iffhs-dio-a-conocer-los-rankings-con-los-mejores-de-la-temporada-las-posiciones-de-messi-dibu-martinez-y-scaloni/",
+        "date": "2025-12-26 21:25:58",
+        "sentiment_score": 0.1051173247396946
+    },
+    {
+        "title": "Campazzo no puede con el Mónaco",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/26/694efc3d8a15a.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/campazzo-monaco-20251226_3278043.html",
+        "date": "2025-12-26 21:22:59",
+        "sentiment_score": -0.03890720009803772
+    },
+    {
+        "title": "Crónica del AS Monaco - Real Madrid: 100-95",
+        "image_url": "https://www.infobae.com/resizer/v2/QAOJ6ETTLFB23N5MPMYGHFS46U.jpg?auth=9d8d02d8f2eb157b673400f44815fa71741dd85e5f91de76aa13264ed70f4834&height=1280&smart=true&width=1920",
+        "tags": [
+            "euroliga",
+            "sergio scariolo",
+            "nikola mirotic",
+            "as monaco",
+            "europapress",
+            "mónaco",
+            "baloncesto",
+            "salle gaston médecin",
+            "vassilis spanoulis",
+            "real madrid",
+            "facundo campazzo"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/26/cronica-del-as-monaco-real-madrid-100-95/",
+        "date": "2025-12-26 21:15:17",
+        "sentiment_score": 0.8476174864917994
+    },
+    {
+        "title": "Imagínate de Danny Ocean con Kapo es la canción venezolana mejor posicionada en las 50 de la revista Rolling Stone 2025",
+        "image_url": "https://www.turimiquire.net/wp-content/uploads/2025/12/imaginate-de-danny-ocean-con-kapo-es-la-cancion-venezolana-mejor-posicionada-en-las-50-de-la-revista-rolling-stone-2025.jpg",
+        "tags": [
+            "el pizarrón noticias"
+        ],
+        "link": "https://www.turimiquire.net/2025/12/26/imaginate-de-danny-ocean-con-kapo-es-la-cancion-venezolana-mejor-posicionada-en-las-50-de-la-revista-rolling-stone-2025/",
+        "date": "2025-12-26 21:01:10",
+        "sentiment_score": 0.11389105021953583
+    },
+    {
+        "title": "Robert Lewandowski se sincera sobre su futuro en el Barcelona: \"No se trata de bajarme el sueldo a la mitad\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/10/16/68f0fe1053e12.r_d.1506-1190-1433.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/robert-lewandowski-sincera-sobre-futuro-barcelona-trata-bajarme-sueldo-mitad-20251226_3278050.html",
+        "date": "2025-12-26 22:14:59",
+        "sentiment_score": -0.05062547326087952
+    },
+    {
+        "title": "El Manchester United bate al Newcastle en un Boxing Day de mínimos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/26/694f0523d0314.r_d.1733-1207-1295.jpeg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/20251226/11396155/united-bate-newcastle-boxing-day-minimos.html",
+        "date": "2025-12-26 22:00:51",
+        "sentiment_score": 0.8704790975898504
+    },
+    {
+        "title": "La 'fiebre' de las experiencias inmersivas llega a Terrassa: GameSide invierte casi 2 millones en su primer centro de 600 m2 en España",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/20/actualidad/1003742709189_15425467_1706x960.jpg",
+        "tags": [
+            "terrassa",
+            "gran barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251226/fiebre-experiencias-inmersivas-llega-terrassa-gameside-invierte-millones-primer-centro-m2-espana/1003742713218_0.html",
+        "date": "2025-12-26 22:00:00",
+        "sentiment_score": 0.4506624788045883
+    },
+    {
+        "title": "De una granja en Nueva York a ser taxista en Barcelona: \"Aquí tengo mi libertad y puedo vivir mi vida a mi manera\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/22/actualidad/1003742718453_15542558_1706x960.jpg",
+        "tags": [
+            "uber",
+            "historia",
+            "vivir en barcelona",
+            "taxistas barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251226/granja-nueva-york-taxista-barcelona-libertad-puedo-vivir-vida-manera/1003742718955_0.html",
+        "date": "2025-12-26 22:00:00",
+        "sentiment_score": 0.19790802896022797
+    },
+    {
+        "title": "Agustí Colomines, diputado de Junts: \"Sánchez cometió un error histórico al engañar a Puigdemont\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/9602e51eaab3dbc20e19e9b11bb673ac/f/image/jpeg/assets/multimedia/imagenes/2023/05/27/16851936859154.jpg",
+        "tags": [
+            "artículos iñaki ellakuría",
+            "carles puigdemont",
+            "nlpremium",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2025/12/26/694edd2be9cf4a643b8b458e.html",
+        "date": "2025-12-26 21:57:59",
+        "sentiment_score": 0.17295411974191666
+    },
+    {
+        "title": "Ilan y la jauría: \"Le perseguían para pegarle, se burlaban de él, lloraba de miedo\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/90e26ffa675aeebb56a7fe4ba9b7e3f1/crop/344x161/2296x2114/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529602497028.jpg",
+        "tags": [
+            "acoso escolar",
+            "educación",
+            "baleares",
+            "infancia",
+            "artículos pedro simón",
+            "nlpremium"
+        ],
+        "link": "https://www.elmundo.es/papel/historias/2025/12/26/694eac44fc6c831f6f8b456d.html",
+        "date": "2025-12-26 21:51:54",
+        "sentiment_score": -0.7060053404420614
+    },
+    {
+        "title": "Varios accidentes provocan retenciones en Guadalajara, Madrid, Segovia, Lérida, Valencia o Cádiz",
+        "image_url": "https://www.infobae.com/resizer/v2/UCL3G3QLVJAQFGTTJKATA3A2IY.jpg?auth=81cdd6223fb47c6aa4eff5180fb9902184ac7cc33a7a8f29c63acb368bfe1015&height=1280&smart=true&width=1920",
+        "tags": [
+            "carreteras",
+            "accidentes de tráfico",
+            "madrid",
+            "temporales de nieve",
+            "segovia",
+            "guadalajara",
+            "europapress",
+            "operación de tráfico de navidad",
+            "cádiz",
+            "dirección general de tráfico",
+            "valencia"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/26/varios-accidentes-provocan-retenciones-en-guadalajara-madrid-segovia-lerida-valencia-o-cadiz/",
+        "date": "2025-12-26 21:45:29",
+        "sentiment_score": -0.7592020463198423
+    },
+    {
+        "title": "Muere Perry Bamonte, guitarrista de The Cure, a los 65 años",
+        "image_url": "https://static1.ara.cat/clip/2adc8e4f-62c3-4892-a2f8-c4c32da9b29d_16-9-aspect-ratio_default_0_x505y189.jpg",
+        "tags": [
+            "perry",
+            "guitarrista",
+            "the",
+            "bamonte",
+            "muere",
+            "cure",
+            "65",
+            "anos"
+        ],
+        "link": "https://es.ara.cat/cultura/musica/muere-perry-bamonte-guitarrista-the-cure-65-anos_1_5603068.html",
+        "date": "2025-12-26 21:26:37",
+        "sentiment_score": 0.03612114489078522
+    },
+    {
+        "title": "Lewandowski: “¿Seguir en el Barça? No se trata de rebajarme el sueldo a la mitad”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/26/694ed0dd1ee14.jpeg",
+        "tags": [
+            "barça"
+        ],
+        "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20251226/11395964/lewandowski-seguir-barca-trata-rebajarme-sueldo-mitad.html",
+        "date": "2025-12-26 21:18:30",
+        "sentiment_score": -0.019653961062431335
     }
 ];
