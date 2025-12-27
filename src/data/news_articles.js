@@ -1,418 +1,5 @@
 export default [
     {
-        "title": "\"Podemos decir que a todos nos ha tocado la lotería, lo recaudado en impuestos...\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/12/22/6949c1d42a959.jpeg",
-        "tags": [
-            "clases de economía"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/clases-de-economia/audios/carlos-cruzado-tecnico-hacienda-decir-todos-tocado-loteria-recaudado-impuestos-destina-gastos-publicos-20251222_3276227.html",
-        "date": "2025-12-22 22:19:30",
-        "sentiment_score": -0.037714630365371704
-    },
-    {
-        "title": "Competencia aprueba la polémica propuesta de pago a las redes eléctricas tras el informe del Consejo de Estado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5376611a-28a0-43a5-b42a-f03b63d77ab7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "redes",
-            "energía"
-        ],
-        "link": "https://www.laopiniondemalaga.es/economia/2025/12/22/competencia-aprueba-propuesta-pago-redes-electricas-consejo-estado-125073788.html",
-        "date": "2025-12-22 22:08:54",
-        "sentiment_score": 0.15620018541812897
-    },
-    {
-        "title": "La CNMC aprueba la retribución a las redes eléctricas manteniendo su tasa del 6,58%",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/09/22/68d1775957ed4.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20251222/11388765/cnmc-aprueba-retribucion-redes-electricas-manteniendo-tasa-6-58.html",
-        "date": "2025-12-22 21:40:40",
-        "sentiment_score": 0.17321619391441345
-    },
-    {
-        "title": "Karanka: \"Si alguien es capaz de enderezar la situación del Real Madrid es Xabi Alonso\"",
-        "image_url": "https://www.infobae.com/resizer/v2/KUMMDVT6DFC6BBBGBABWYUQKYM.jpg?auth=4a37895ea3ff8d29709ba1b3fbd43e41b10fed69e3248734e0b69ef13ac978a6&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/22/karanka-si-alguien-es-capaz-de-enderezar-la-situacion-del-real-madrid-es-xabi-alonso/",
-        "date": "2025-12-22 21:15:51",
-        "sentiment_score": -0.16726256906986237
-    },
-    {
-        "title": "21:00H | 22 DIC 2025 | La Linterna",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/horas-completas/21-00h-22-dic-2025-linterna-20251222_3276217.html",
-        "date": "2025-12-22 21:07:00",
-        "sentiment_score": -0.07394582033157349
-    },
-    {
-        "title": "Los esperpentos de la ballena de Sol: el negocio publicitario que transforma el 'Kilómetro 0' de Madrid en un anuncio",
-        "image_url": "https://static.eldiario.es/clip/e3205aac-f598-4f72-8982-7ed691ce8357_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "kilometro",
-            "esperpentos",
-            "anuncio",
-            "publicitario",
-            "transforma",
-            "madrid",
-            "negocio",
-            "sol",
-            "ballena",
-            "0"
-        ],
-        "link": "https://www.eldiario.es/madrid/somos/esperpentos-ballena-sol-negocio-publicitario-transforma-kilometro-0-madrid-anuncio_1_12762794.html",
-        "date": "2025-12-22 20:58:06",
-        "sentiment_score": -0.04306963086128235
-    },
-    {
-        "title": "Un año de cambios gracias a proyectos culturales con impacto",
-        "image_url": "https://s1.ppllstatics.com/elnortedecastilla/www/multimedia/2025/12/22/reale1-ki4H-U240639457584NDE-1200x840@El%20Norte.jpg",
-        "tags": [
-            "realidad virtual",
-            "atapuerca",
-            "seguros",
-            "cultura"
-        ],
-        "link": "https://www.leonoticias.com/promocionales/ano-cambios-gracias-proyectos-culturales-impacto-20251223215732-nt.html",
-        "date": "2025-12-22 20:57:32",
-        "sentiment_score": 0.6345964595675468
-    },
-    {
-        "title": "Tebas se pronuncia sobre la 'guerra' abierta entre Florentino Pérez y Laporta",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/22/6949b00d889bc.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tebas-pronuncia-sobre-guerra-abierta-florentino-perez-laporta-barcelona-genera-crispacion-real-madrid-20251222_3276213.html",
-        "date": "2025-12-22 20:56:10",
-        "sentiment_score": -0.1592055857181549
-    },
-    {
-        "title": "El 90693, muy repartido, deja la mayor parte del premio en Santa Fe e Igorre",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/12/22/celebracion-en-vizcaya-de-la-loteria.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/12/22/el-90693-muy-repartido-deja-la-mayor-parte-del-premio-en-santa-fe-e-igorre-1880863-daa.html",
-        "date": "2025-12-22 20:55:19",
-        "sentiment_score": -0.18096134066581726
-    },
-    {
-        "title": "Rusia y China apoyan a Venezuela ante los ataques de EEUU",
-        "image_url": "https://static1.ara.cat/clip/ebe92e76-52ab-459a-96af-652d292eda7c_16-9-aspect-ratio_default_0_x1634y783.jpg",
-        "tags": [
-            "venezuela",
-            "ataques",
-            "rusia",
-            "apoyan",
-            "eeuu",
-            "china"
-        ],
-        "link": "https://es.ara.cat/internacional/america/rusia-china-apoyan-venezuela-ataques-eeuu_1_5600378.html",
-        "date": "2025-12-22 22:06:37",
-        "sentiment_score": -0.5498011782765388
-    },
-    {
-        "title": "La última \"hostia\" del año del Espanyol de Manolo González",
-        "image_url": "https://static1.ara.cat/clip/7241ba26-8042-4dbe-ae60-4c4e7e035db0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ultima",
-            "gonzalez",
-            "ano",
-            "espanyol",
-            "manolo",
-            "hostia"
-        ],
-        "link": "https://es.ara.cat/deportes/rcd-espanyol/ultima-hostia-ano-espanyol-manolo-gonzalez_1_5600374.html",
-        "date": "2025-12-22 21:54:18",
-        "sentiment_score": 0.41016922891139984
-    },
-    {
-        "title": "Collboni pone el acento en las personas mayores en el 25o ‘Canta Gran!’: \"Barcelona no sería lo que es\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/22/vivir-en-barcelona/1003742718567_15544220_1706x960.jpg",
-        "tags": [
-            "ayuntamiento de barcelona",
-            "vivir en barcelona",
-            "jaume collboni",
-            "navidad barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251222/collboni-pone-acento-personas-mayores-canta-gran-barcelona-no/1003742718566_0.html",
-        "date": "2025-12-22 21:50:11",
-        "sentiment_score": 0.5007655695080757
-    },
-    {
-        "title": "Lamine Yamal estrenó su canal de YouTube y revela su nueva faceta como influencer",
-        "image_url": "https://www.infobae.com/resizer/v2/4D5HOVGSV5FHDGIKWSFRXJHQ4Q.jpg?auth=99224ac6732c2955137f560ad62b1a47b652ecf979014d99fb64bfcafc70756e&height=1080&smart=true&width=1920",
-        "tags": [
-            "fc barcelona",
-            "luis díaz",
-            "lamine yamal",
-            "influencer",
-            "dr dre",
-            "canal youtube",
-            "lo último en tecnología",
-            "tecnología-noticias"
-        ],
-        "link": "https://www.infobae.com/tecno/2025/12/22/lamine-yamal-estreno-su-canal-de-youtube-y-revela-su-nueva-faceta-como-influencer/",
-        "date": "2025-12-22 21:37:15",
-        "sentiment_score": 0.22666585445404053
-    },
-    {
-        "title": "El sector del metal de Barcelona sella su convenio colectivo hasta 2027",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/30/el-pulso-de-la-ciudad/1003742702707_15340970_1706x960.jpg",
-        "tags": [
-            "trabajadores",
-            "sindicatos",
-            "el pulso de la ciudad"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20251222/sector-metal-barcelona-sella-convenio-colectivo/1003742718564_0.html",
-        "date": "2025-12-22 21:29:27",
-        "sentiment_score": 0.011840566992759705
-    },
-    {
-        "title": "Rafinha anuncia su retirada",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6dce14d1-8108-49d2-a3f0-099ab0c6be97_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fc barcelona,futbol"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2025/12/22/rafinha-anuncia-retirada-125073214.html",
-        "date": "2025-12-22 21:26:10",
-        "sentiment_score": -0.8142267651855946
-    },
-    {
-        "title": "Las selecciones a seguir en la Copa Africana de Naciones",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2025/12/22/selecciones-a-seguir-copa-africana-naciones-orix/",
-        "date": "2025-12-23 02:03:48",
-        "sentiment_score": 0.10056321322917938
-    },
-    {
-        "title": "180 años de un código de honor y primer aviso a Sánchez",
-        "image_url": "https://s1.staticld.com//2023/12/19/guardia-civil-191223.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2025-12-23/pedro-gil-ruiz-180-anos-de-un-codigo-de-honor-y-primer-aviso-a-sanchez-7337118/",
-        "date": "2025-12-23 01:59:14",
-        "sentiment_score": -0.8288980964571238
-    },
-    {
-        "title": "De la condesa de Romanones a Mata Hari y Marina Vega: el espionaje también tuvo (y aún tiene) nombre de mujer",
-        "image_url": "https://s3.elespanol.com/2025/12/22/mujer/protagonistas/1003744066077_260618229_1706x960.jpg",
-        "tags": [
-            "política",
-            "mujeres que hicieron historia",
-            "protagonistas",
-            "espionaje"
-        ],
-        "link": "https://www.elespanol.com/mujer/protagonistas/20251223/condesa-romanones-mata-hari-marina-vega-espionaje-nombre-mujer/1003744065913_0.html",
-        "date": "2025-12-23 01:45:13",
-        "sentiment_score": -0.22346371412277222
-    },
-    {
-        "title": "Raphinha y Yamal anotan en la victoria del líder español Barcelona sobre Villarreal",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/25b47d3/2147483647/strip/true/crop/4978x2613+0+353/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffc%2F08%2Fcaeab42d467587c55192c561395d%2Ff41245c89c95420fab33812eb89e8853.jpg",
-        "tags": [
-            "entertainment",
-            "top"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-22/raphinha-y-yamal-anotan-en-la-victoria-del-lider-espanol-barcelona-sobre-villarreal",
-        "date": "2025-12-23 01:22:41",
-        "sentiment_score": 0.27390752732753754
-    },
-    {
-        "title": "Ambición digital y fricciones políticas: el año en que el Gobierno encalló con su estrategia tecnológica",
-        "image_url": "https://s3.elespanol.com/2025/10/28/actualidad/1003743990163_259631475_1706x960.jpg",
-        "tags": [
-            "regulación sector tecnológico",
-            "óscar lópez",
-            "digitalización",
-            "tecnología",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20251223/ambicion-digital-fricciones-politicas-ano-gobierno-encallo-estrategia-tecnologica/1003744059244_0.html",
-        "date": "2025-12-23 00:34:00",
-        "sentiment_score": 0.49499329924583435
-    },
-    {
-        "title": "Enero de élite española: fechas y dónde ver la Supercopa",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1766448396708.jpg?ch=675&cw=1200",
-        "tags": [
-            "súpercopa",
-            "real madrid",
-            "españa",
-            "barcelona fc",
-            "meridiano tv",
-            "atleticodemadrid"
-        ],
-        "link": "https://2001online.com/deportes/enero-de-elite-espanola-fechas-y-donde-ver-la-supercopa-202512222050",
-        "date": "2025-12-23 00:05:00",
-        "sentiment_score": 0.8700175173580647
-    },
-    {
-        "title": "2a PARTE | 22 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-22-dic-2025-partidazo-cope-20251223_3276240.html",
-        "date": "2025-12-22 23:51:09",
-        "sentiment_score": -0.6037655007094145
-    },
-    {
-        "title": "«No tiene nada que ver la ideología con la afinidad personal»",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/23/cifuentes-carrillo-kqKF-U240643137089qfB-1200x840@RC.jpg",
-        "tags": [
-            "cristina cifuentes",
-            "la 1 (tve)",
-            "televisión"
-        ],
-        "link": "https://www.leonoticias.com/culturas/tv/ver-ideologia-afinidad-personal-20251223002104-ntrc.html",
-        "date": "2025-12-22 23:21:05",
-        "sentiment_score": -0.07451756298542023
-    },
-    {
-        "title": "El nuevo barrio de Los Berrocales despierta dos décadas después: calles con nombres de ciudades y periodistas, el proyecto para la llegada del Metro y vecinos en el primer trimestre de 2026",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/8195674c40ad44c3e6856531bcf8fb15/crop/86x36/726x676/f/image/jpeg/assets/multimedia/imagenes/2022/03/21/16478803395824.jpg",
-        "tags": [
-            "madrid",
-            "artículos carlos guisasola",
-            "josé luis martínez-almeida"
-        ],
-        "link": "https://www.elmundo.es/madrid/2025/12/23/694997f6e9cf4aae5a8b4580.html",
-        "date": "2025-12-22 23:11:00",
-        "sentiment_score": 0.49708500504493713
-    },
-    {
-        "title": "Detenido un hombre en Chamberí tras amenazar de muerte a su mujer y atrincherarse armado en su vivienda",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/bfc62fc31d86105e92fd646741f3f8b8/crop/0x0/1166x1166/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529624450788.jpg",
-        "tags": [
-            "artículos luis f. durán"
-        ],
-        "link": "https://www.elmundo.es/madrid/2025/12/23/694936d2fc6c8303138b456f.html",
-        "date": "2025-12-22 23:10:57",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "Madrid es el Nueva York europeo",
-        "image_url": "https://static.grupojoly.com/clip/025f37d1-0524-4497-96ac-5b67165c1204_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "europeo",
-            "nueva",
-            "madrid",
-            "york"
-        ],
-        "link": "https://www.eldiadecordoba.es/opinion/analisis/madrid-nueva-york-europeo_0_2005505402.html",
-        "date": "2025-12-23 02:07:26",
-        "sentiment_score": -0.06283867359161377
-    },
-    {
-        "title": "Los grandes grupos buscan cómo competir contra Vinted",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/20/6947030209afb.r_d.1659-1065-1403.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20251223/11383601/vinted-textil-empresas-comercio-segunda-mano-reciclado.html",
-        "date": "2025-12-23 02:00:00",
-        "sentiment_score": -0.148667573928833
-    },
-    {
-        "title": "El \"Sheriff de Badalona\" y 400 desalojados del tirón",
-        "image_url": "https://s1.staticld.com/2025/12/17/desalojo-badalona171225.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2025-12-23/pablo-planas-el-sheriff-de-badalona-y-400-desalojados-del-tiron-7337197/",
-        "date": "2025-12-23 01:59:05",
-        "sentiment_score": -0.7684848085045815
-    },
-    {
-        "title": "Se definieron los 47 clasificados a la Copa Libertadores: los bombos y el “grupo de la muerte” que podría tocarle a Boca Juniors",
-        "image_url": "https://www.infobae.com/resizer/v2/46Q5YPDHFRGATBNRGFLNQY6HPU.jpg?auth=7b4389e61ab39533b537277805b0d1adc62f5e06e2d514ad27c35d3e46eec21c&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-internacional",
-            "lanús",
-            "platense",
-            "copa libertadores",
-            "independiente rivadavia",
-            "estudiantes",
-            "boca juniors",
-            "rosario central"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/23/se-definieron-los-47-clasificados-a-la-copa-libertadores-los-bombos-y-el-grupo-de-la-muerte-que-podria-tocarle-a-boca-juniors/",
-        "date": "2025-12-23 01:41:03",
-        "sentiment_score": 0.42970453761518
-    },
-    {
-        "title": "Occident abre 17 oficinas y llega a 1.230 puntos de venta",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/c94c9275db3b5076bf812d06d42eb00d/crop/141x22/1757x1099/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/23/17664515470878.jpg",
-        "tags": [
-            "seguros>"
-        ],
-        "link": "https://www.expansion.com/empresas/seguros/2025/12/23/6949e86b468aeb01078b4574.html",
-        "date": "2025-12-23 01:00:22",
-        "sentiment_score": 0.4679220113903284
-    },
-    {
-        "title": "Sequra mira hacia EE.UU.",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/20/694702e472f34.r_d.2815-1909-825.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20251223/11383593/sequra-estados-unidos-pagos.html",
-        "date": "2025-12-23 01:00:00",
-        "sentiment_score": 0.5317215844988823
-    },
-    {
-        "title": "Antin suma a Citi como asesor para la venta de Indaqua",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/bf8a361e4abcc3726918356d0bb97028/crop/156x13/1839x1135/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/23/17664506557046.jpg",
-        "tags": [
-            "inmobiliario y construcción>",
-            "empresas>"
-        ],
-        "link": "https://www.expansion.com/empresas/2025/12/23/6949df40468aeb313b8b458d.html",
-        "date": "2025-12-23 00:45:54",
-        "sentiment_score": 0.27436402812600136
-    },
-    {
-        "title": "Fue multicampeón en Barcelona con Messi y sorprendió al anunciar su retiro a los 32 años: “Fue duro aceptarlo”",
-        "image_url": "https://www.infobae.com/resizer/v2/AZH2M6M5HBAWXEQLJINGUYLPJM.jpg?auth=9333ac9dd4a3043ac0bf4975e434ce7d574b8ffac21c13eb750e1263bc6ce24b&height=1080&smart=true&width=1920",
-        "tags": [
-            "al-arabi sc",
-            "deportes-argentina",
-            "fc barcelona",
-            "rafinha alcántara",
-            "juegos olímpicos río 2016",
-            "selección de brasil"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/23/fue-multicampeon-en-barcelona-con-messi-y-sorprendio-al-anunciar-su-retiro-a-los-32-anos-fue-duro-aceptarlo/",
-        "date": "2025-12-23 00:18:42",
-        "sentiment_score": -0.8026713170111179
-    },
-    {
-        "title": "Volantazo de Laporta con la joya oculta del nuevo Camp Nou: el boulevard cambia de ubicación",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/07/19/culemania/palco/871672976_13250515_1706x960.png",
-        "tags": [
-            "espai barça",
-            "palco",
-            "limak construction",
-            "barça",
-            "camp nou",
-            "joan laporta"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251223/volantazo-laporta-oculta-camp-nou-boulevard-ubicacion/1003742718546_0.html",
-        "date": "2025-12-23 00:06:43",
-        "sentiment_score": 0.7182957138866186
-    },
-    {
         "title": "Un diamante en bruto y un fondo de salida: las claves de la venta del mayor propietario cotizado de hoteles de cinco estrellas",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6a268d1b-ee3a-489f-8811-74c63b0fc3d0_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3038,5 +2625,170 @@ export default [
         "link": "https://www.laopiniondemalaga.es/malaga/2025/12/26/malaga-culmina-ano-demanda-empleos-tecnologicos-125136578.html",
         "date": "2025-12-26 06:00:54",
         "sentiment_score": 0.2821348085999489
+    },
+    {
+        "title": "Tráfico lento y alertas por nieve en las carreteras españolas",
+        "image_url": "https://www.diariodeburgos.es/media/img/2025/94cb59f9-9a8b-4ebc-b2fb446ccbc202bc.jpg",
+        "tags": [
+            "burgos",
+            "temporal",
+            "dgt",
+            "barcelona",
+            "valencia",
+            "asturias",
+            "murcia",
+            "nieve",
+            "tarragona",
+            "municipio de herencia",
+            "cantabria",
+            "madrid",
+            "navidad",
+            "andalucía",
+            "huesca",
+            "tráfico",
+            "ciudad real"
+        ],
+        "link": "https://www.diariodeburgos.es/noticia/zefd9bedf-bc91-41ea-a0c512461ab1debe/202512/trafico-lento-y-alertas-por-nieve-en-las-carreteras-espanolas",
+        "date": "2025-12-26 17:09:20",
+        "sentiment_score": 0.17981786280870438
+    },
+    {
+        "title": "El Real Zaragoza despedirá el 2025 con un entrenamiento a puertas abiertas",
+        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/11/17/2025111700341671422.jpg",
+        "tags": [
+            "real zaragoza"
+        ],
+        "link": "https://www.aragondigital.es/articulo/real-zaragoza/real-zaragoza-despedira-2025-entrenamiento-puertas-abiertas/20251226180713958556.html",
+        "date": "2025-12-26 17:07:13",
+        "sentiment_score": 0.06817198544740677
+    },
+    {
+        "title": "El 2025, a punto de cerrar el año con 1.088 muertos en carreteras",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/08/03/816FBE66-EC20-4EFD-B6BD-D6E02F744027/imagen-carreteras-espanolas-1-agosto-2025_98.jpg?crop=4999%2C2813%2Cx0%2Cy77&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "sociedad"
+        ],
+        "link": "https://www.antena3.com/noticias/sociedad/2025-punto-cerrar-ano-1088-muertos-carreteras_20251226694ec089af09df5010948021.html",
+        "date": "2025-12-26 17:06:17",
+        "sentiment_score": -0.27069638669490814
+    },
+    {
+        "title": "Ni Vinicius Jr ni Endrick: Florentino despacha a un descarte de Xabi Alonso en el Real Madrid",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/04/01/culemania/real-madrid/935666613_15551783_1706x960.jpg",
+        "tags": [
+            "florentino pérez",
+            "vinicius",
+            "fichajes real madrid",
+            "real madrid",
+            "xabi alonso"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20251226/vinicius-endrick-florentino-xabi-alonso-real-madrid/1003742719225_0.html",
+        "date": "2025-12-26 17:01:20",
+        "sentiment_score": -0.8835409097373486
+    },
+    {
+        "title": "Una inolvidable Pre-Nochevieja hará las delicias de los más pequeños en Vallsur: \"Queremos que vivan la magia y la ilusión\"",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070646_260674867_1706x960.jpg",
+        "tags": [
+            "sociedad castilla y león",
+            "infancia",
+            "nochevieja",
+            "valladolid",
+            "navidad",
+            "vallsur",
+            "niños",
+            "centros comerciales",
+            "valladolid (municipio)"
+        ],
+        "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20251226/inolvidable-pre-nochevieja-hara-delicias-pequenos-vallsur-queremos-vivan-magia-ilusion/1003744070514_0.html",
+        "date": "2025-12-26 16:59:30",
+        "sentiment_score": 0.6796069871634245
+    },
+    {
+        "title": "Sarah Santaolalla tira de hemeroteca para retratar el relato de Feijóo con Mazón y la DANA",
+        "image_url": "https://www.elplural.com/uploads/s1/20/91/30/7/1_7_480x270.jpeg",
+        "tags": [
+            "extratele"
+        ],
+        "link": "https://www.elplural.com/extratele/sarah-santaolalla-tira-hemeroteca-retratar-relato-feijoo-mazon-dana_368391102",
+        "date": "2025-12-26 16:57:14",
+        "sentiment_score": -0.13919875025749207
+    },
+    {
+        "title": "El Real Madrid descarta fichajes en el mercado invernal",
+        "image_url": "https://pxcdn.meridiano.net/122025/1766770556787.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/el-real-madrid-descarta-fichajes-en-el-mercado-invernal-2025122612470",
+        "date": "2025-12-26 16:47:00",
+        "sentiment_score": -0.5520606562495232
+    },
+    {
+        "title": "Paula Badosa: \"Este año me cambió, no fue fácil, pero fue necesario\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251226174635_120.jpg",
+        "tags": [
+            "tenis",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/tenis-00166/noticia-paula-badosa-ano-me-cambio-no-fue-facil-fue-necesario-20251226174635.html",
+        "date": "2025-12-26 16:46:35",
+        "sentiment_score": -0.7334388867020607
+    },
+    {
+        "title": "Las recomendaciones de la DGT ante los desplazamientos por Navidad en pleno temporal",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/26/1735CE2D-268C-41A4-A2EB-CD93E07CB401/trafico-segunda-operacion-salida-navidad_70.jpg?crop=1920%2C1080%2Cx0%2Cy102&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "sociedad",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/sociedad/esperan-mas-8-millones-desplazamientos-segundo-fin-semana-navidad-marcado-mal-tiempo_20251226694ec21622f0db7daffe8b71.html",
+        "date": "2025-12-26 17:12:54",
+        "sentiment_score": 0.10899129509925842
+    },
+    {
+        "title": "Trueno regresa a Barcelona con un gran concierto en el Palau Sant Jordi: fecha y todos los detalles",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/07/07/vivir-en-barcelona/685941450_11430079_1706x960.jpg",
+        "tags": [
+            "arte barcelona",
+            "conciertos",
+            "música",
+            "vivir en barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251226/trueno-regresa-barcelona-gran-concierto-palau-sant-jordi-fecha-detalles/1003742719202_0.html",
+        "date": "2025-12-26 17:09:38",
+        "sentiment_score": 0.14341853559017181
+    },
+    {
+        "title": "Enric González: \"Antes en las redacciones si bebías agua se escondía\"",
+        "image_url": "https://static1.ara.cat/clip/5863334c-977e-4521-850b-d31452cf9366_16-9-aspect-ratio_default_1032788.jpg",
+        "tags": [
+            "gonzalez",
+            "agua",
+            "escondia",
+            "bebias",
+            "enric",
+            "redacciones"
+        ],
+        "link": "https://es.ara.cat/comer/enric-gonzalez-redacciones-bebias-agua-escondia_1_5602845.html",
+        "date": "2025-12-26 17:00:38",
+        "sentiment_score": -0.23149526119232178
+    },
+    {
+        "title": "José Luis Bonet: “España es un país de pymes, pero se las está asfixiando fiscalmente”",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4c76882c-ee26-4496-9f5a-e5a184324a44_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pymes",
+            "empresas",
+            "economía",
+            "comercio",
+            "españa",
+            "crecimiento"
+        ],
+        "link": "https://www.laprovincia.es/economia/2025/12/26/jose-luis-bonet-espana-pais-125160103.html",
+        "date": "2025-12-26 17:00:22",
+        "sentiment_score": 0.09896834194660187
     }
 ];
