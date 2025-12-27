@@ -1,147 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid cede a Endrick al Lyon",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/01/17/6789924e44e99.r_d.1094-482.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/lyon-oficial-llegada-endrick-cedido-20251223_3276840.html",
-        "date": "2025-12-23 17:08:12",
-        "sentiment_score": -0.06490282714366913
-    },
-    {
-        "title": "17:00H | 23 DIC 2025 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-23-dic-2025-tarde-20251223_3276846.html",
-        "date": "2025-12-23 17:07:00",
-        "sentiment_score": -0.047014474868774414
-    },
-    {
-        "title": "El Real Madrid hace oficial la cesión de Endrick al Lyon hasta el final de la temporada",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/52c79acb-63f2-4e1d-837d-077bbfb09db0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid,futbol"
-        ],
-        "link": "https://www.superdeporte.es/futbol/2025/12/23/real-madrid-oficial-cesion-endrick-125102538.html",
-        "date": "2025-12-23 17:06:56",
-        "sentiment_score": 0.11766715347766876
-    },
-    {
-        "title": "La crisis de convivencia en Badalona desata otra previsible batalla política",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/23/694acb0b36d0f.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20251223/11391513/crisis-convivencia-badalona-desata-previsible-batalla-politica.html",
-        "date": "2025-12-23 17:09:49",
-        "sentiment_score": -0.8655569609254599
-    },
-    {
-        "title": "Sánchez Llibre denuncia un \"ataque sin piedad\" contra los propietarios de viviendas",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/23/business/1003742718787_15546846_1706x960.jpg",
-        "tags": [
-            "izquierda",
-            "govern",
-            "vivienda",
-            "patronales",
-            "cataluña",
-            "generalitat de cataluña",
-            "presupuestos",
-            "foment del treball",
-            "salvador illa",
-            "business"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20251223/sanchez-llibre-denuncia-ataque-piedad-propietarios-viviendas/1003742718756_0.html",
-        "date": "2025-12-23 17:09:11",
-        "sentiment_score": -0.6466213837265968
-    },
-    {
-        "title": "Limpieza de capitanes en el Barça: el elegido de Flick y Deco para liquidarlos a todos",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/03/07/culemania/primer-equipo/929417264_15546637_1706x960.jpg",
-        "tags": [
-            "hansi flick",
-            "frenkie de jong",
-            "éric garcía",
-            "ronald araujo",
-            "primer equipo",
-            "raphinha",
-            "ter stegen",
-            "barça"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251223/limpieza-capitanes-barca-elegido-flick-deco-liquidarlos/1003742718771_0.html",
-        "date": "2025-12-23 17:05:14",
-        "sentiment_score": 0.5421902611851692
-    },
-    {
-        "title": "Entidades sociales reubican a 52 desalojados del B9 de Badalona y descartan la parroquia",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/b9_badalona.jpg",
-        "tags": [
-            "emergencias",
-            "barcelona",
-            "desalojos",
-            "cruz roja",
-            "badalona",
-            "generalitat de cataluña",
-            "sociedad"
-        ],
-        "link": "https://theobjective.com/sociedad/2025-12-23/entidades-desalojados-b9-badalona/",
-        "date": "2025-12-23 17:05:02",
-        "sentiment_score": -0.2467874363064766
-    },
-    {
-        "title": "El PAR concurrirá en solitario a las elecciones autonómicas con Alberto Izquierdo como candidato",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/12/23/alberto-izquierdo-e-integrantes-de-la-ejecutiva-del-par.jpeg",
-        "tags": [
-            "aragón"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/aragon/2025/12/23/el-par-concurrira-en-solitario-a-las-elecciones-autonomicas-con-alberto-izquierdo-como-candidato-1881035-daa.html",
-        "date": "2025-12-23 17:03:26",
-        "sentiment_score": 0.2803651690483093
-    },
-    {
-        "title": "Unió de Pagesos pide al Govern que «se responsabilice» de la gestión de la avispa asiática",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251223175259.jpg?fit=1272%2C251&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/uni-de-pagesos-pide-al-govern-que-se-responsabilice-de-la-gestin-de-la-avispa-asitica/",
-        "date": "2025-12-23 17:00:07",
-        "sentiment_score": -0.535172875970602
-    },
-    {
-        "title": "ISEB y Universidad Isabel I consolidan UNISEB; nueva oferta de másters online con doble acreditación",
-        "image_url": "https://www.diariosigloxxi.com/images/showid/7782889",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5714464/iseb-universidad-isabel-i-consolidan-uniseb-nueva-oferta-masters-online-doble-acreditacion",
-        "date": "2025-12-23 16:57:28",
-        "sentiment_score": 0.6950496733188629
-    },
-    {
-        "title": "La Fiscalía pide que se aclare si Albiol ofrece alternativa a los migrantes desalojados",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/23/694ac24a38870.r_d.3956-2637-567.jpeg",
-        "tags": [
-            "badalona barcelonès n."
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelones-nord/20251223/11391475/fiscalia-pide-aclare-albiol-ofrece-alternativa-migrantes-desalojados.html",
-        "date": "2025-12-23 16:56:12",
-        "sentiment_score": -0.6971295457333326
-    },
-    {
-        "title": "Eurecat impulsa un nuevo esquema de compensación de carbono en territorios mediterráneos",
-        "image_url": "https://images.ecestaticos.com/kW-uUftG5iHs3QMo91DA9msDW3U=/0x0:1200x837/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F45a%2F4b1%2F5db%2F45a4b15db2b72e5493a629126495a0a1.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elconfidencial.com/empresas/2025-12-23/agricultura-sostenible-reduccion-emisiones-biodiversidad-1hms_4274202/",
-        "date": "2025-12-23 16:54:00",
-        "sentiment_score": 0.6241463124752045
-    },
-    {
         "title": "La propuesta que prepara el Atlético de Madrid para Simeone: la decisión con su hijo Giuliano y Julián Álvarez",
         "image_url": "https://www.infobae.com/resizer/v2/F5CWONPLZVHFZKPNWP7KUBEWOY.JPG?auth=f3e948c15edc6151663baee742aac592324061f23d0c8a6cfaced8076c64cd5d&height=1013&smart=true&width=1533",
         "tags": [
@@ -3166,5 +3024,238 @@ export default [
         "link": "https://www.elmundo.es/economia/algoritmo/2025/12/27/694e6aeae4d4d865678b457b.html",
         "date": "2025-12-26 23:08:11",
         "sentiment_score": 0.5728392414748669
+    },
+    {
+        "title": "El Procurador pide ayudas específicas al pastoreo en Castilla y León para prevenir incendios forestales",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2025/12/26/694e871ba633b.r_d.581-499-14067.jpeg",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/251227/103857/procurador-pide-ayudas-especificas-pastoreo-castilla-leon-prevenir-incendios-forestales.html",
+        "date": "2025-12-27 06:30:00",
+        "sentiment_score": 0.14428755640983582
+    },
+    {
+        "title": "Pablo Aguado: el cambio tranquilo...",
+        "image_url": "https://static.grupojoly.com/clip/44f60f1b-5656-4472-8157-3f8ffaa92f7a_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "plaza de toros de la maestranza de sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/toros/pablo-aguado-cambio-tranquilo_0_2005506217.html",
+        "date": "2025-12-27 06:00:44",
+        "sentiment_score": 0.5170247480273247
+    },
+    {
+        "title": "Un rival propicio para seguir avanzando hacia la Copa",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/64d087a8-1a36-498a-a51d-4608af290c01_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rival",
+            "san pablo burgos",
+            "seguir",
+            "avanzando",
+            "euroliga",
+            "paolo galbiati",
+            "baskonia",
+            "copa",
+            "acb",
+            "propicio",
+            "copa del rey"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2025/12/27/rival-propicio-seguir-avanzando-copa-baskonia-acb-san-pablo-burgos-euroliga-copa-del-rey-paolo-galbiati-10515473.html",
+        "date": "2025-12-27 06:00:41",
+        "sentiment_score": 0.1070181205868721
+    },
+    {
+        "title": "Las 10 claves del éxito del Espanyol de Manolo González: del caos a la estabilidad, una transformación impensable",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/11/entreno-rcd-espanyol-manolo-gonzalez-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/espanyol-claves-exito-manolo-gonzalez/",
+        "date": "2025-12-27 06:00:32",
+        "sentiment_score": 0.7017159909009933
+    },
+    {
+        "title": "\"ChatGPT, ¿es verdad que los Reyes son los padres?\": el reto de mantener la magia de la Navidad en la era de la hiperconectividad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/98685d69-1bf7-4272-a17b-ae9b89e36f19_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "internet",
+            "educación",
+            "club de educación y crianza",
+            "los reyes magos",
+            "niños",
+            "chatgpt",
+            "navidad",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251227/chatgpt-reyes-padres-magia-navidad-inocencia-era-digital-125140238",
+        "date": "2025-12-27 06:00:20",
+        "sentiment_score": -0.2519531697034836
+    },
+    {
+        "title": "La discreta vida de Sonsoles Espinosa: cantante de ópera, estudios, su matrimonio con Zapatero y sus propiedades",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2630636.jpg",
+        "tags": [
+            "dolcevita"
+        ],
+        "link": "https://www.vozpopuli.com/dolcevita/la-discreta-vida-de-sonsoles-espinosa-cantante-de-opera-estudios-su-matrimonio-con-zapatero-y-sus-propiedades.html",
+        "date": "2025-12-27 06:00:02",
+        "sentiment_score": -0.6809807196259499
+    },
+    {
+        "title": "¿El mejor Espanyol moderno? El equipo de Manolo ya compite con Clemente y Valverde, cuyo batacazo en el 2008 sirve de aviso",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/celebracion-1-1-romero-athletic-club-espanyol-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/espanyol-mejor-primera-vuelta-primera-division/",
+        "date": "2025-12-27 05:55:40",
+        "sentiment_score": 0.7151191681623459
+    },
+    {
+        "title": "¿En Argentina o en el exterior?: cuánto cuesta irse de vacaciones en 2026 y qué opción es la más barata",
+        "image_url": "https://www.infobae.com/resizer/v2/RXOS5XS6JRDNXCWI2X77DS7SZY.jpg?auth=da84115d9c23d7426a2caa88950f1918946bb49e60796250d504653bc13a8812&height=1080&smart=true&width=1920",
+        "tags": [
+            "destinos turísticos argentinos",
+            "últimas noticias",
+            "turismo interno en argentina",
+            "veranear",
+            "poder adquisitivo argentina",
+            "vacaciones 2026 argentina",
+            "destinos internacionales baratos",
+            "costo de vacaciones"
+        ],
+        "link": "https://www.infobae.com/economia/2025/12/27/en-argentina-o-en-el-exterior-cuanto-cuesta-irse-de-vacaciones-en-2026-y-que-opcion-es-la-mas-barata/",
+        "date": "2025-12-27 05:44:53",
+        "sentiment_score": -0.0035001710057258606
+    },
+    {
+        "title": "Hallacofagia o con qué se come elmestizaje",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/26194913/hallacofagia.jpg",
+        "tags": [
+            "columnistas",
+            "opinión"
+        ],
+        "link": "https://www.elnacional.com/2025/12/hallacofagia-o-con-que-se-come-elmestizaje/",
+        "date": "2025-12-27 05:09:00",
+        "sentiment_score": -0.13080234825611115
+    },
+    {
+        "title": "Vivienda cooperativa en cesión de uso, un modelo que pone en jaque el sistema de alquiler privado",
+        "image_url": "https://static.infolibre.es/clip/2808495e-4369-40cd-a6e1-c8c36160330d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "asociaciones vecinos",
+            "barrios",
+            "madrid",
+            "viviendas alquiler",
+            "economía",
+            "barcelona",
+            "vivienda",
+            "ministerio de vivienda"
+        ],
+        "link": "https://www.infolibre.es/economia/vivienda-cooperativa-cesion-modelo-pone-jaque-sistema-alquiler-privado_1_2115277.html",
+        "date": "2025-12-27 05:01:07",
+        "sentiment_score": -0.14347884058952332
+    },
+    {
+        "title": "Lluvia, viento y oleaje activan este sábado avisos en siete provincias con mínimas de hasta -3°C",
+        "image_url": "https://www.galiciapress.es/images/285310",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.galiciapress.es/articulo/ultima-hora/2025-12-27/5716668-lluvia-viento-oleaje-activan-sabado-avisos-siete-provincias-minimas-hasta-3c",
+        "date": "2025-12-27 06:31:04",
+        "sentiment_score": -0.5372786372900009
+    },
+    {
+        "title": "Catalunya despliega los lectores de matrículas en autopistas y carreteras en la lucha contra el crimen organizado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3005caed-ce8b-4d4f-af4a-01954782a7c2_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "delincuencia",
+            "mossos d'esquadra",
+            "terrorismo",
+            "sucesos",
+            "radares de tráfico",
+            "tráfico"
+        ],
+        "link": "https://www.elperiodico.com/es/sucesos/20251227/mossos-amplian-sistema-lectura-matriculas-autopistas-carreteras-crimen-organizado-terrorismo-125144457",
+        "date": "2025-12-27 06:30:15",
+        "sentiment_score": -0.20504537224769592
+    },
+    {
+        "title": "La artista Zoly Segovia expone su obra ‘De flores y territorios’ en la Casa Joven",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/40-1.jpg",
+        "tags": [
+            "la última",
+            "segovia"
+        ],
+        "link": "https://eladelantado.com/la-artista-zoly-segovia-expone-su-obra-de-flores-y-territorios-en-la-casa-joven/",
+        "date": "2025-12-27 06:12:37",
+        "sentiment_score": 0.5622852966189384
+    },
+    {
+        "title": "Comprar una casa en la provincia de Málaga cuesta hoy un 43% más que hace cinco años",
+        "image_url": "https://static.grupojoly.com/clip/dd414b21-c282-4f8a-b737-0e6e2093a4f3_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga",
+            "vivienda málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/comprar-casa-provincia-malaga-cuesta_0_2005516066.html",
+        "date": "2025-12-27 06:00:50",
+        "sentiment_score": -0.3856925889849663
+    },
+    {
+        "title": "Estas son las horas a las que más lloverá este sábado 27 de diciembre",
+        "image_url": "https://static.grupojoly.com/clip/403f9f81-50c8-412e-a759-3e887772fd57_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "el tiempo en sevilla",
+            "últimas noticias sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/sevilla/son-horas-llovera-sabado-27_0_2005514905.html",
+        "date": "2025-12-27 06:00:46",
+        "sentiment_score": -0.7583518754690886
+    },
+    {
+        "title": "Éxito de Ripley y Tagliavini desde su dirección de Uría Menéndez Barcelona",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/12/uria-menendez.jpg",
+        "tags": [
+            "znoticia portada2",
+            "despachos y abogados",
+            "barcelona",
+            "firma legal",
+            "uría menendez",
+            "ciudad condal",
+            "despachos",
+            "app",
+            "abogados",
+            "abogacia"
+        ],
+        "link": "https://www.economistjurist.es/actualidad-juridica/actualidad-de-los-despachos/exito-de-ripley-y-tagliavini-desde-su-direccion-de-uria-menendez-barcelona/",
+        "date": "2025-12-27 06:00:35",
+        "sentiment_score": 0.5738537311553955
+    },
+    {
+        "title": "Nani Marquina, diseñadora: \"Hay algo de infantil en descalzarse y revolcarse en una alfombra\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7eb27391-82e1-454c-8c66-e528b21994c8_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "entender más",
+            "diseño"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251227/nani-marquina-disenadora-hay-infantil-124865099",
+        "date": "2025-12-27 06:00:14",
+        "sentiment_score": 0.04358425736427307
+    },
+    {
+        "title": "Éxitos como futbolista, polémicas fuera del campo y ruptura con Nicki Nicole: así ha sido el 2025 para Lamine Yamal",
+        "image_url": "https://www.hola.com/horizon/landscape/8a631053afef-gettyimages-2233344319.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad",
+            "deporte",
+            "lamine yamal"
+        ],
+        "link": "https://www.hola.com/actualidad/20251227872897/asi-ha-sido-el-2025-para-lamine-yamal/",
+        "date": "2025-12-27 06:00:00",
+        "sentiment_score": -0.6352597177028656
     }
 ];
