@@ -2927,5 +2927,244 @@ export default [
         "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20251226/11395964/lewandowski-seguir-barca-trata-rebajarme-sueldo-mitad.html",
         "date": "2025-12-26 21:18:30",
         "sentiment_score": -0.019653961062431335
+    },
+    {
+        "title": "Lamine y Mbappé impulsan a LaLiga por encima de la Premier",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/22/2025112220022723599.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/lamine-mbappe-impulsan-laliga-encima-premier/20251227030845368414.html",
+        "date": "2025-12-27 02:08:45",
+        "sentiment_score": 0.6483831703662872
+    },
+    {
+        "title": "Deportes | El Elche CF contempla ceder la explotación de los bajos del Martínez Valero a un operador especializado y la prestación de otros servicios prémium",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1693824.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-contempla-ceder-la-explotacion-de-los-bajos-del-martinez-valero-a-un-operador-especializado-y-la-prestacion-de-otros-servicios-premium",
+        "date": "2025-12-27 01:25:13",
+        "sentiment_score": 0.2945103570818901
+    },
+    {
+        "title": "De niños de la Guerra Civil a espías del KGB en la España de Franco: Ucrania desclasifica las pruebas de al menos 11 agentes",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070184_260668767_1706x960.jpg",
+        "tags": [
+            "moscú",
+            "porfolio",
+            "reportajes",
+            "kremlin",
+            "urss",
+            "partido comunista",
+            "kgb",
+            "franquismo"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251227/ninos-guerra-civil-espias-kgb-espana-franco-ucrania-desclasifica-pruebas-agentes/1003744066696_0.html",
+        "date": "2025-12-27 01:24:28",
+        "sentiment_score": -0.7350680623203516
+    },
+    {
+        "title": "Conserje de día, bestia de noche: Fernando, el 'Pelicot español' en Alemania, violó durante 6 años a su mujer y lo subió a Telegram",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070679_260675282_1706x960.jpg",
+        "tags": [
+            "alemania",
+            "porfolio",
+            "reportajes",
+            "detenciones",
+            "juicios",
+            "abusos sexuales"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20251227/conserje-dia-bestia-noche-fernando-pelicot-espanol-alemania-violo-anos-mujer-subio-telegram/1003744067800_0.html",
+        "date": "2025-12-27 01:21:47",
+        "sentiment_score": -0.8575935028493404
+    },
+    {
+        "title": "La sorpresiva presencia de Mbappé en el empate de Marruecos por la Copa de África: la camiseta especial que utilizó",
+        "image_url": "https://www.infobae.com/resizer/v2/NGJ6WI75IVE67HRJ7LQEOBLQ3Q.jpg?auth=bffe22f1f24f26756def918b0b167bdc7414cb7cf5779b9e1bffb4711e786f33&height=1018&smart=true&width=1809",
+        "tags": [
+            "kylian mbappé",
+            "achraf hakimi",
+            "selección de marruecos",
+            "copa africana"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/27/la-sorpresiva-presencia-de-mbappe-en-el-empate-de-marruecos-por-la-copa-de-africa-la-camiseta-especial-que-utilizo/",
+        "date": "2025-12-27 00:24:47",
+        "sentiment_score": -0.06955586373806
+    },
+    {
+        "title": "Resumen del año con rima",
+        "image_url": "https://s1.staticld.com/2025/10/30/gafas-pedro-sanchez-dior-senado.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-12-27/itxu-diaz-resumen-del-ano-con-rima-7338138/",
+        "date": "2025-12-27 00:16:23",
+        "sentiment_score": -0.17243224382400513
+    },
+    {
+        "title": "El año en el que los robotaxis llegarán a Europa: así se abrirá una nueva era de la movilidad viajando sin conductor",
+        "image_url": "https://s3.elespanol.com/2025/10/02/omicrono/tecnologia/1003743951351_259125530_1706x960.jpg",
+        "tags": [
+            "coche autónomo",
+            "vehículos",
+            "tecnología",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20251227/ano-robotaxis-llegaran-europa-abrira-nueva-movilidad-viajando-sin-conductor/1003744061669_0.html",
+        "date": "2025-12-27 00:13:47",
+        "sentiment_score": 0.24551763385534286
+    },
+    {
+        "title": "Dean Huijsen y un cierre de año bajo presión: el central del Real Madrid se juega su plaza mundialista",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1766795704426/0fa634dadc6dee494e1f2451a1e998c047375a6b_16_54_52_300.jpg?ch=675&cw=1200",
+        "tags": [
+            "dean huijsen",
+            "españa",
+            "real madrid",
+            "selección de españa",
+            "mundial 2026",
+            "luis de la fuente"
+        ],
+        "link": "https://2001online.com/deportes/dean-huijsen-y-un-cierre-de-ano-bajo-presion-el-central-del-real-madrid-se-juega-su-plaza-mundialista-202512262100",
+        "date": "2025-12-27 00:09:12",
+        "sentiment_score": -0.8617597799748182
+    },
+    {
+        "title": "Abromaitis, listo para ponerse otra corona",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6613444f-90dd-47fa-a745-b86bf009d36e_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gran canaria",
+            "global",
+            "joan sastre",
+            "guerra"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/27/abromaitis-listo-ponerse-corona-125167297.html",
+        "date": "2025-12-27 00:00:16",
+        "sentiment_score": -0.27740946412086487
+    },
+    {
+        "title": "Estas son las canciones que escuchan los vestuarios de los equipos de La Liga: del líder al descenso",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/26/694ed53425c52.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/son-canciones-escuchan-vestuarios-equipos-liga-lider-descenso-20251227_3278024.html",
+        "date": "2025-12-26 23:58:20",
+        "sentiment_score": -0.004717886447906494
+    },
+    {
+        "title": "Adif contrataba con \"falta de transparencia\" y \"arbitrariedad\" en la etapa de Pardo de Vera con Ábalos en Transportes",
+        "image_url": "https://s3.elespanol.com/2025/04/09/actualidad/1003743707260_260678795_1706x960.jpg",
+        "tags": [
+            "política",
+            "adif",
+            "transparencia",
+            "contratos",
+            "tribunal de cuentas",
+            "gobierno de españa"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251227/adif-contrataba-falta-transparencia-arbitrariedad-etapa-pardo-vera-abalos-transportes/1003744070161_0.html",
+        "date": "2025-12-27 01:57:41",
+        "sentiment_score": -0.40955401584506035
+    },
+    {
+        "title": "De mayor quiero ser agente de igualdad: el Gobierno 'inventa' una profesión para vigilar los planes de las empresas",
+        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744061401_260555994_1706x960.jpg",
+        "tags": [
+            "educación",
+            "política",
+            "ministerio de universidades",
+            "ministerio de igualdad",
+            "igualdad"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251227/mayor-quiero-agente-igualdad-gobierno-inventa-profesion-vigilar-planes-empresas/1003744060080_0.html",
+        "date": "2025-12-27 01:56:04",
+        "sentiment_score": 0.08766792714595795
+    },
+    {
+        "title": "La gran carrera de dos alumnos talentosos: Miguel Anaya ahora es profesor de Física y Gabriel del Haro trabaja en Airbus",
+        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744069154_260656284_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "educación",
+            "sociedad",
+            "enseñanza",
+            "españa",
+            "colegios",
+            "madrid"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251227/gran-carrera-alumnos-talentosos-miguel-anaya-ahora-profesor-fisica-gabriel-haro-trabaja-airbus/1003744064859_0.html",
+        "date": "2025-12-27 01:12:18",
+        "sentiment_score": 0.23704718798398972
+    },
+    {
+        "title": "Las hipotecas serán más caras en 2026: la banca subirá precios ante la locura por comprar vivienda",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/63aa2b13d58eb487f19599424c7a8eb8/crop/307x307/2765x2765/f/image/jpeg/assets/multimedia/imagenes/2023/10/11/16970261849784.jpg",
+        "tags": [
+            "banca",
+            "artículos laura de la quintana",
+            "hipotecas",
+            "vivienda"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2025/12/27/694e772cfdddff162e8b4596.html",
+        "date": "2025-12-27 01:03:30",
+        "sentiment_score": 0.44188836961984634
+    },
+    {
+        "title": "26 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/26-dic-2025-partidazo-cope-20251227_3278057.html",
+        "date": "2025-12-27 00:40:00",
+        "sentiment_score": 0.7233765795826912
+    },
+    {
+        "title": "Victoria Camps (84 años), filósofa, sobre la felicidad: \"Ser feliz es mantener las ganas de vivir a pesar de la frustración\"",
+        "image_url": "https://s3.elespanol.com/2022/02/12/malaga/cultura/649695056_221807780_1706x960.jpg",
+        "tags": [
+            "felicidad",
+            "ciencia",
+            "psicología",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/ciencia/20251227/victoria-camps-anos-filosofa-felicidad-feliz-mantener-ganas-vivir-pesar-frustracion/1003744070699_0.html",
+        "date": "2025-12-27 00:24:24",
+        "sentiment_score": 0.6128566302359104
+    },
+    {
+        "title": "El Surne más anotador de la historia",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/12/26/1504316043-kNFH--80x80@El%20Correo.jpg",
+        "tags": [
+            "liga acb",
+            "miribilla",
+            "bilbao basket"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/surne-anotador-historia-20251226011648-nt.html",
+        "date": "2025-12-27 00:16:48",
+        "sentiment_score": -0.2777915298938751
+    },
+    {
+        "title": "¿Escudo social o propaganda electoral?",
+        "image_url": "https://s1.staticld.com/2025/12/12/pedro-sanchez-yolanda-diaz-congreso.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2025-12-27/emilio-montilla-escudo-social-o-propaganda-electoral-7338130/",
+        "date": "2025-12-27 00:16:47",
+        "sentiment_score": -0.8163014408200979
+    },
+    {
+        "title": "Este es el ranking (subjetivo) de las mejores 'startups' de 2025",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/4e02025836aa8e91694bcb57fc0f6125/crop/0x0/3071x2047/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/26/17667464538040.jpg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.elmundo.es/economia/algoritmo/2025/12/27/694e6aeae4d4d865678b457b.html",
+        "date": "2025-12-26 23:08:11",
+        "sentiment_score": 0.5728392414748669
     }
 ];
