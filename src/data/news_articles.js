@@ -3099,5 +3099,222 @@ export default [
         "link": "https://www.20minutos.es/nacional/acertante-primitiva-gana-millones-euros-bote-sube-millones_6915258_0.html",
         "date": "2025-12-27 21:24:25",
         "sentiment_score": -0.050587818026542664
+    },
+    {
+        "title": "La empresa de Santos Cerdán escondía un millón de euros listo para repartir justo antes de ser descubierta por la UCO",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
+        "tags": [
+            "artículos esteban urreiztieta",
+            "artículos quico alsedo"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/12/28/69503503fdddffde6e8b456f.html",
+        "date": "2025-12-28 01:45:42",
+        "sentiment_score": 0.019573234021663666
+    },
+    {
+        "title": "El año que Sánchez no logró taparnos la boca",
+        "image_url": "https://s3.elespanol.com/2025/12/27/actualidad/1003744071205_260681685_1706x960.jpg",
+        "tags": [
+            "carta del director",
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/opinion/carta-del-director/20251228/ano-sanchez-no-logro-taparnos-boca/1003744071201_20.html",
+        "date": "2025-12-28 00:56:59",
+        "sentiment_score": 0.4538593702018261
+    },
+    {
+        "title": "“Jugar contra España dará a Cabo Verde una repercusión brutal”",
+        "image_url": "https://img.asmedia.epimg.net/resizer/v2/BS23RMNH3FLDLPSVJF2MRKI7IQ.jpg?auth=e88e7443c541dcd5841b14e7e076dfbaea0bb818de545eeac13b0c687191c63c&focal=1925%2C1323&height=828&width=1472",
+        "tags": [
+            "fútbol",
+            "selección fútbol cabo verde",
+            "selección española fútbol",
+            "valdo",
+            "mundial 2030"
+        ],
+        "link": "https://as.com/futbol/mundial/jugar-contra-espana-dara-a-cabo-verde-una-repercusion-brutal-f202512-n/",
+        "date": "2025-12-28 00:55:31",
+        "sentiment_score": 0.6470831595361233
+    },
+    {
+        "title": "Fernando Gonzalo convertirá un hotel okupado y en ruinas de Madrid en viviendas: ya lleva 200 edificios rehabilitados",
+        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744069224_260657525_1706x960.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "madrid",
+            "alpedrete",
+            "sociedad",
+            "sector inmobiliario"
+        ],
+        "link": "https://www.elespanol.com/madrid/sociedad/20251228/fernando-gonzalo-convertira-hotel-okupado-ruinas-madrid-viviendas-lleva-edificios-rehabilitados-dl/1003744068810_0.html",
+        "date": "2025-12-28 00:46:16",
+        "sentiment_score": 0.29932256042957306
+    },
+    {
+        "title": "Implantes que se comunican con el cerebro: el futuro de la neurotecnología está en marcha",
+        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/12/6cb460db177e0a33869cdfd8dc4efb7eb1558e63w.jpg",
+        "tags": [
+            "cerebro",
+            "salud",
+            "neurotecnología"
+        ],
+        "link": "https://elsiglo.com.ve/implantes-que-se-comunican-con-el-cerebro-el-futuro-de-la-neurotecnologia-esta-en-marcha/",
+        "date": "2025-12-28 00:29:07",
+        "sentiment_score": 0.16974271833896637
+    },
+    {
+        "title": "José Riveiro analiza la Copa de África y descubre el talento de la selección de Sudáfrica: \"Tienen jugadores muy divertidos de ver y puede dar más de un susto\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/27/695056314c66a.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/jose-riveiro-analiza-copa-africa-descubre-talento-seleccion-sudafrica-jugadores-divertidos-ver-dar-susto-20251228_3278140.html",
+        "date": "2025-12-27 23:52:41",
+        "sentiment_score": -0.032198965549468994
+    },
+    {
+        "title": "El UCAM Murcia pelea el liderato navideño",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/7d1a8b84-efcb-412b-ac68345c6a18606b.jpg",
+        "tags": [
+            "málaga",
+            "ucam murcia",
+            "casademont zaragoza",
+            "liga acb",
+            "real madrid",
+            "joventut",
+            "liga endesa"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z116ab9f6-ad45-4436-b80ad491e9abb892/202512/el-ucam-murcia-pelea-el-liderato-navideno",
+        "date": "2025-12-27 23:05:07",
+        "sentiment_score": 0.4943678677082062
+    },
+    {
+        "title": "Sánchez despide 2025 decidido a resistir un nuevo tsunami autonómico de la derecha",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/28/sanchez-vicepresidentas-gobierno-krxH-U240679542436QkF-1200x840@RC.jpg",
+        "tags": [
+            "emiliano garcía page",
+            "partido socialista obrero español (psoe)",
+            "pedro sánchez",
+            "maría jesús montero",
+            "partido popular (pp)"
+        ],
+        "link": "https://www.ideal.es/nacional/sanchez-despide-2025-decidido-resistir-nuevo-tsunami-20251228000501-ntrc.html",
+        "date": "2025-12-27 23:05:02",
+        "sentiment_score": -0.477286696434021
+    },
+    {
+        "title": "Europa, en guerra y paz con los jóvenes",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/28/guerra-kM4E-U240680439805x0G-1200x840@RC.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elcomercio.es/opinion/jesus-g-maestro-europa-guerra-paz-jovenes-20251228000355-ntrc.html",
+        "date": "2025-12-27 23:03:56",
+        "sentiment_score": -0.2583903968334198
+    },
+    {
+        "title": "Rodríguez Ibarra: \"Hubo alternativa a Felipe, ¿cómo no va a haberla a Sánchez en un partido de 160.000 militantes?\"",
+        "image_url": "https://s3.elespanol.com/2025/12/27/actualidad/1003744071334_260683438_1706x1280.jpg",
+        "tags": [
+            "pedro sánchez",
+            "maría guardiola",
+            "política",
+            "vox",
+            "extremadura",
+            "guillermo fernández vara",
+            "hablando sobre españa",
+            "miguel ángel gallardo",
+            "juan carlos rodríguez ibarra",
+            "psoe (partido socialista obrero español)"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251228/psoe_-partido_socialista_obrero_espanol-pedro_sanchez-extremadura-juan_carlos_rodriguez_ibarra-maria_guardiola-miguel_Angel_gallardo-vox-guillermo_fernandez_vara-hablando_sobre_espana-politica/1003744070074_0.html",
+        "date": "2025-12-28 01:57:20",
+        "sentiment_score": -0.5524427592754364
+    },
+    {
+        "title": "Messi y su familia viajan a Uruguay para celebrar los 15 años de la hija de Luis Suárez",
+        "image_url": "https://www.hola.com/horizon/landscape/abed8312a556-saveclipapp44887759016230166552210436561940144490058458n.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad",
+            "lionel messi"
+        ],
+        "link": "https://www.hola.com/us-es/celebrities/20251228874993/messi-viaje-uruguay-cumpleanios-hija-luis-suarez/",
+        "date": "2025-12-28 01:05:39",
+        "sentiment_score": 0.5673436708748341
+    },
+    {
+        "title": "Dr. Antonio García-Cáceres Especialista en cirugía plástica mamaria: Un año vivido con gratitud y perspectiva",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3cbe458-f6a5-4e72-9577-de6fdb0ecbc3_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cirugía plástica",
+            "trabajo",
+            "familia",
+            "estética",
+            "cáceres",
+            "salud",
+            "alemania"
+        ],
+        "link": "https://www.eldia.es/salud/2025/12/28/dr-antonio-garcia-caceres-especialista-125181229.html",
+        "date": "2025-12-28 00:00:06",
+        "sentiment_score": 0.5700649246573448
+    },
+    {
+        "title": "Albert Serra vive en Bilbao y cena todas las noches en un batzoki: «Yo lo que quiero es joder al espectador»",
+        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/12/26/albert-serra-bilbao-kdp-U240672579468lLB-758x531@El%20Correo.jpg",
+        "tags": [
+            "cine"
+        ],
+        "link": "https://www.elcorreo.com/culturas/cine/albert-serra-vive-bilbao-cena-noches-batzoki-20251226003544-nt.html",
+        "date": "2025-12-27 23:35:44",
+        "sentiment_score": -0.14528974145650864
+    },
+    {
+        "title": "Y para rematar, una fabada",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/27/fabada-kZ0C--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "gijón",
+            "navidad",
+            "nochebuena",
+            "fabada"
+        ],
+        "link": "https://www.elcomercio.es/opinion/juanma-castano-rematar-fabada-20251228000027-nt.html",
+        "date": "2025-12-27 23:25:32",
+        "sentiment_score": -0.12234506011009216
+    },
+    {
+        "title": "Fallece Amelia del Castillo: la mujer que revolucionó el fútbol",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1766873299471/695027398aaa7.jpeg?ch=675&cw=1200",
+        "tags": [
+            "amelia del castillo",
+            "laliga",
+            "atlético de madrid",
+            "españa",
+            "atlético de pinto",
+            "fútbol español",
+            "barcelona"
+        ],
+        "link": "https://2001online.com/deportes/fallece-amelia-del-castillo-la-mujer-que-revoluciono-el-futbol-202512272000",
+        "date": "2025-12-27 23:09:16",
+        "sentiment_score": -0.8553245104849339
+    },
+    {
+        "title": "Fiatc se refuerza en sanidad y residencias",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/24/694bd3c2d99de.r_d.2284-1581-1055.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251228/11392745/fiatc-refuerza-sanidad-residencias.html",
+        "date": "2025-12-27 23:05:00",
+        "sentiment_score": 0.5224709752947092
+    },
+    {
+        "title": "Y la tormenta de las tarifas acabó en un vaso de agua",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/24/694c079ea3392.r_d.2587-2115-882.jpeg",
+        "tags": [
+            "dinero"
+        ],
+        "link": "https://www.lavanguardia.com/dinero/20251228/11393203/tormenta-tarifas-acabo-vaso-agua.html",
+        "date": "2025-12-27 23:05:00",
+        "sentiment_score": -0.8614148665219545
     }
 ];
