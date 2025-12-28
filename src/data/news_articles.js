@@ -1,239 +1,5 @@
 export default [
     {
-        "title": "Éxito rotundo de la Tardebuena en León: la plaza Mayor y la de Regla se convierten en una fiesta",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/12/24/WhatsApp%20Image%202025-12-24%20at%2017.38.12-U22017405028216qB-U240659077518IXH-1200x840@Leonoticias.jpeg",
-        "tags": [
-            "león (capital)",
-            "navidad",
-            "ayuntamiento de león"
-        ],
-        "link": "https://www.leonoticias.com/leon/exito-rotundo-tardebuena-leon-plaza-mayor-regla-20251224180800-nt.html",
-        "date": "2025-12-24 17:08:01",
-        "sentiment_score": 0.8318272847682238
-    },
-    {
-        "title": "El Atlético de Madrid traspasa al excéltico Javi Galán a Osasuna",
-        "image_url": "https://cflvdg.avoz.es/sc/g9zF7136XMBhFACyglxfWloCP9w=/768x/2025/12/24/00121766595721531697964/Foto/eup_20251126_214549686.jpg",
-        "tags": [
-            "atlético de madrid",
-            "osasuna",
-            "deportes",
-            "javi galán"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/24/atletico-madrid-traspasa-exceltico-javi-galan-osasuna/00031766595689983254169.htm",
-        "date": "2025-12-24 17:04:00",
-        "sentiment_score": -0.2559093162417412
-    },
-    {
-        "title": "Herida una mujer de 31 años tras una colisión entre dos turismos en León",
-        "image_url": "https://s2.ppllstatics.com/leonoticias/www/multimedia/2025/12/24/ambukanci-pucela-kI7-U2406599108743pD-1200x840@Leonoticias.jpg",
-        "tags": [
-            "policía nacional",
-            "sacyl",
-            "león (capital)",
-            "hospital de león"
-        ],
-        "link": "https://www.leonoticias.com/leon/herida-mujer-anos-tras-colision-dos-turismos-20251224173829-nt.html",
-        "date": "2025-12-24 16:38:29",
-        "sentiment_score": -0.6702999509871006
-    },
-    {
-        "title": "El Atlético de Madrid alcanza un acuerdo con Osasuna para el traspaso de Javi Galán",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/24/694c0d3d1d8b10-33418850.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/atletico-madrid-alcanza-un-acuerdo-con-osasuna-para-traspaso-javi-galan_6914605_0.html",
-        "date": "2025-12-24 16:15:35",
-        "sentiment_score": 0.14963464438915253
-    },
-    {
-        "title": "El Atlético de Madrid traspasa al defensa Javi Galán a Osasuna",
-        "image_url": "https://www.infobae.com/resizer/v2/FBRH55K2VBGOJIIUBK4SJZX7XI.jpg?auth=c41c514339c8c29447e1865feb646707d93c13bce9fa68db0bde4159c8f46168&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/24/el-atletico-de-madrid-traspasa-al-defensa-javi-galan-a-osasuna/",
-        "date": "2025-12-24 16:15:18",
-        "sentiment_score": -0.214790940284729
-    },
-    {
-        "title": "Los desempleados quedan exentos de presentar la declaración de la renta",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/24/694c0ff8826ab.r_d.3104-1801-0.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20251224/11393242/desempleados-quedan-exentos-presentar-declaracion-renta.html",
-        "date": "2025-12-24 16:12:19",
-        "sentiment_score": 0.03721427917480469
-    },
-    {
-        "title": "Regalo de Nochebuena: el sorprendente fichaje navideño de Osasuna que llega desde Madrid",
-        "image_url": "https://navarra.okdiario.com/media/navarra/images/2025/12/24/2025122416562243943.jpg",
-        "tags": [
-            "osasuna"
-        ],
-        "link": "https://navarra.okdiario.com/articulo/osasuna/sorprendente-fichaje-navideno-osasuna-que-llega-madrid/20251224170813627367.html",
-        "date": "2025-12-24 16:08:13",
-        "sentiment_score": 0.06710679084062576
-    },
-    {
-        "title": "Los clubes de fútbol felicitan las fiestas a toda la afición y despiden el 2025",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/24/4390BFA4-039D-4B71-8DF2-F823DC34A0EB/felicitacion-navidena-real-sociedad_70.jpg?crop=1668%2C938%2Cx48%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "deportes",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/clubes-futbol-felicitan-fiestas-toda-aficion-despiden-2025_20251224694c0fa2af09df5010931307.html",
-        "date": "2025-12-24 16:06:58",
-        "sentiment_score": 0.7077704332768917
-    },
-    {
-        "title": "El Atlético se desprende de Javi Galán por medio millón de euros",
-        "image_url": "https://okdiario.com/img/2025/12/24/javi-galan.-ep.jpg",
-        "tags": [
-            "atlético de madrid",
-            "deportes",
-            "fútbol",
-            "club atlético osasuna"
-        ],
-        "link": "https://okdiario.com/deportes/atletico-desprende-javi-galan-medio-millon-euros-15987456",
-        "date": "2025-12-24 16:03:29",
-        "sentiment_score": 0.005414977669715881
-    },
-    {
-        "title": "El Prado dedica una muestra al papel de Isabel de Farnesio",
-        "image_url": "https://okdiario.com/img/2025/12/19/isabel-_11zon.png",
-        "tags": [
-            "exposiciones",
-            "okplanes",
-            "museo del prado",
-            "cultura",
-            "madrid"
-        ],
-        "link": "https://okdiario.com/okplanes/prado-dedica-muestra-papel-isabel-farnesio-15963598",
-        "date": "2025-12-24 16:00:47",
-        "sentiment_score": 0.10151951760053635
-    },
-    {
-        "title": "Ahorrar en la cena de Nochebuena es misión (casi) imposible",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/21/AD6841D0-CA70-4BB1-83B7-52A4CFDFB021/70.jpg?crop=1920%2C1080%2Cx0%2Cy437&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena 3 noticias",
-            "economía"
-        ],
-        "link": "https://www.antena3.com/noticias/economia/ahorrar-cena-nochebuena-mision-casi-imposible_20251224694c1ec522f0db7daffd2422.html",
-        "date": "2025-12-24 17:11:33",
-        "sentiment_score": -0.6256814636290073
-    },
-    {
-        "title": "Prisión sin fianza para uno de los tres detenidos por la muerte violenta de un hombre en Molins de Rei",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/ea255b92-8ac3-460d-9a97-90baa8e12375_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sucesos"
-        ],
-        "link": "https://www.elperiodico.com/es/sucesos/20251224/prision-detenido-muerte-violenta-hombre-molins-rei-125124716",
-        "date": "2025-12-24 17:10:34",
-        "sentiment_score": -0.7663252335041761
-    },
-    {
-        "title": "Navidad con abrigo y paraguas: vuelven la lluvia y la nieve con ambiente de pleno invierno",
-        "image_url": "https://static1.ara.cat/clip/e7590ba7-d0cf-4f1c-a2d4-e4fa9d7056e0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "ambiente",
-            "navidad",
-            "paraguas",
-            "lluvia",
-            "invierno",
-            "pleno",
-            "nieve",
-            "abrigo",
-            "vuelven"
-        ],
-        "link": "https://es.ara.cat/el-tiempo/navidad-abrigo-paraguas-vuelven-lluvia-nieve-ambiente-pleno-invierno_1_5601976.html",
-        "date": "2025-12-24 17:08:06",
-        "sentiment_score": 0.12053315341472626
-    },
-    {
-        "title": "La Guardia Urbana de Barcelona intensifica las inspecciones a locales de ocio por Navidad",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/12/09/71228A74-19F8-4EB6-B56F-8CF2A039FE3A/agentes-guardia-urbana-presentacion-nuevos-vehiculos-cuerpo-policial_69.jpg?crop=6959%2C3914%2Cx0%2Cy367&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/guardia-urbana-barcelona-intensifica-inspecciones-locales-ocio-navidad_20251224694c1de3af09df5010931b3c.html",
-        "date": "2025-12-24 17:07:47",
-        "sentiment_score": 0.06938614696264267
-    },
-    {
-        "title": "La compra de 39 nuevos trenes para el metro de Barcelona no convence a los fabricantes",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/24/694c108cdab5f.r_d.1825-1185-1229.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20251224/11393022/compra-39-nuevos-trenes-metro-barcelona-concurso-desierto-alstom.html",
-        "date": "2025-12-24 17:01:34",
-        "sentiment_score": -0.5615678392350674
-    },
-    {
-        "title": "San Silvestre Vallecana 2025: horarios de las oleadas, cómo llegar a la salida y novedades para la edición de este año",
-        "image_url": "https://s3.elespanol.com/2024/12/31/deportes/otros-deportes/912919207_252041873_1706x960.jpg",
-        "tags": [
-            "vallecas",
-            "san silvestre vallecana",
-            "madrid",
-            "estadio santiago bernabéu",
-            "deportes",
-            "carreras populares",
-            "running"
-        ],
-        "link": "https://www.elespanol.com/deportes/20251224/san-silvestre-vallecana-horarios-oleadas-llegar-salida-novedades-edicion-ano/1003744068848_0.html",
-        "date": "2025-12-24 17:00:00",
-        "sentiment_score": 0.3095702975988388
-    },
-    {
-        "title": "Lo de las copas de Navidad",
-        "image_url": "https://static1.ara.cat/clip/d321af23-956a-4145-8e63-ab7c0710a38c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "copas",
-            "navidad"
-        ],
-        "link": "https://es.ara.cat/economia/patronales/copas-navidad_1_5601934.html",
-        "date": "2025-12-24 16:43:10",
-        "sentiment_score": -0.011782720685005188
-    },
-    {
-        "title": "Las palabras de Kiko Galván tras su expulsión por imprudencia vial: \"Lo que duele es sentir que has decepcionado a los tuyos\"",
-        "image_url": "https://album.mediaset.es/eimg/2025/12/24/kiko-galvan-tras-su-expulsion-por-imprudencia-vial-lo-que-duele-es-decepcionar_35c5.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.telecinco.es/noticias/deportes/20251224/kiko-galvan-palabras-expulsion-imprudencia-vial_18_017941549.html",
-        "date": "2025-12-24 16:39:22",
-        "sentiment_score": -0.7247012034058571
-    },
-    {
-        "title": "Helen Hunt, una turista en Barcelona fascinada por la Sagrada Familia",
-        "image_url": "https://www.hola.com/horizon/landscape/88db26da5636-gettyimages-2056676866.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "cine"
-        ],
-        "link": "https://www.hola.com/actualidad/20251224874640/helen-hunt-barcelona-sagrada-familia/",
-        "date": "2025-12-24 16:32:55",
-        "sentiment_score": 0.45373033732175827
-    },
-    {
-        "title": "Loterías paga más de 710 millones de euros en premios del Sorteo de Navidad 2025 hasta hoy 24 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/XFLJZJFBDVD6RGZELMEAXKVSMI.jpg?auth=f7398c5f584610e32c5e98094181f70ad20d98b9b64c43d155e8301e1d78dab8&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/24/loterias-paga-mas-de-710-millones-de-euros-en-premios-del-sorteo-de-navidad-2025-hasta-hoy-24-de-diciembre/",
-        "date": "2025-12-24 16:30:21",
-        "sentiment_score": 0.3124479651451111
-    },
-    {
         "title": "La impactante goleada de unos de los rivales de Argentina en el Mundial 2026: el tanto de antología bajo la mirada de Zidane",
         "image_url": "https://www.infobae.com/resizer/v2/2WGSWYYSLRHAXDOZZMVZ7HEMNQ.jpg?auth=711ffa6823c8ee3b25c35994b4b35f8e8fd20fb52958428b29bcbf7e9bd72938&height=1080&smart=true&width=1920",
         "tags": [
@@ -3316,5 +3082,226 @@ export default [
         "link": "https://www.lavanguardia.com/dinero/20251228/11393203/tormenta-tarifas-acabo-vaso-agua.html",
         "date": "2025-12-27 23:05:00",
         "sentiment_score": -0.8614148665219545
+    },
+    {
+        "title": "El CB Canarias quiere que el derbi siga siendo tradición... pero sin relajación",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b9b0abd7-5c88-400f-9c60-65ecb26ab8c6_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "valencia",
+            "cb canarias",
+            "txus vidorreta",
+            "santiago",
+            "tenerife",
+            "derbi"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/28/cb-canarias-quiere-derbi-siga-125190373.html",
+        "date": "2025-12-28 06:26:25",
+        "sentiment_score": -0.02763769030570984
+    },
+    {
+        "title": "Por qué ChatGPT es una absoluta amenaza para el clima",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1f6b913a-ce96-4b93-952c-6702c1168439_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "amenaza",
+            "clima",
+            "por",
+            "que",
+            "chatgpt",
+            "absoluta"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/bermatu/2025/12/28/por-que-chatgpt-absoluta-amenaza-clima-10518174.html",
+        "date": "2025-12-28 06:01:04",
+        "sentiment_score": 0.4601063057780266
+    },
+    {
+        "title": "Christian, propietario de 4 pisos: \"Gano 2.800 euros netos al mes, más que con mi salario por cuenta ajena\"",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744069968_260666655_1706x960.jpg",
+        "tags": [
+            "inversores",
+            "sector inmobiliario",
+            "vivir",
+            "aragón",
+            "propiedades",
+            "inmobiliarias",
+            "propietarios"
+        ],
+        "link": "https://www.elespanol.com/aragon/vivir/20251228/christian-propietario-pisos-gano-euros-netos-mes-salario-cuenta-ajena-trt/1003744069833_0.html",
+        "date": "2025-12-28 06:00:00",
+        "sentiment_score": -0.445712648332119
+    },
+    {
+        "title": "El Unicaja visita a un Real Madrid líder e invicto en su cancha",
+        "image_url": "https://s3.elespanol.com/2025/12/21/malaga/deporte/unicaja/1003744065202_260607749_1706x960.jpg",
+        "tags": [
+            "baloncesto",
+            "unicaja",
+            "liga endesa",
+            "real madrid baloncesto",
+            "club baloncesto málaga (unicaja málaga)",
+            "acb"
+        ],
+        "link": "https://www.elespanol.com/malaga/deporte/unicaja/20251228/unicaja-visita-real-madrid-lider-invicto-cancha/1003744071351_0.html",
+        "date": "2025-12-28 05:50:00",
+        "sentiment_score": 0.11307377368211746
+    },
+    {
+        "title": "Real Madrid-Unicaja: Ligeros de equipaje (19:00)",
+        "image_url": "https://static.grupojoly.com/clip/fc96bf07-06be-4615-8af1-4ff54d717c9e_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja baloncesto"
+        ],
+        "link": "https://www.malagahoy.es/unicaja/real-madrid-unicaja-ligeros-equipaje_0_2005518030.html",
+        "date": "2025-12-28 05:44:50",
+        "sentiment_score": -0.5130356773734093
+    },
+    {
+        "title": "Matías Almeyda, el anclaje del sevillismo para el incierto 2026",
+        "image_url": "https://static.grupojoly.com/clip/510af6af-f522-40a3-a13e-7413c2185905_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "entrenador del sevilla fc",
+            "sevilla fc"
+        ],
+        "link": "https://www.diariodesevilla.es/sevillafc/matias-almeyda-anclaje-sevillismo-incierto-2026-sevilla_0_2005518910.html",
+        "date": "2025-12-28 05:30:36",
+        "sentiment_score": 0.22169291973114014
+    },
+    {
+        "title": "La Papelería Moisés Mata de Alcázar de San Juan celebra su centenario reinventándose como espacio cultural",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Papeleria-Mata-_-Clara-Manzano-124-1299x730.jpg",
+        "tags": [
+            "café",
+            "librería",
+            "cafetería",
+            "provincia de ciudad real",
+            "museo",
+            "libros",
+            "alcázar de san juan",
+            "papelería"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/la-papeleria-moises-mata-de-alcazar-de-san-juan-celebra-su-centenario-reinventandose-como-espacio-cultural/",
+        "date": "2025-12-28 05:23:00",
+        "sentiment_score": -0.028393208980560303
+    },
+    {
+        "title": "Real Sitio de San Ildefonso (I)",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/145_REAL_SITIO_SAN_ILDEFONSO_2025_02.jpg",
+        "tags": [
+            "nuestros pueblos",
+            "segovia"
+        ],
+        "link": "https://eladelantado.com/real-sitio-de-san-ildefonso-i/",
+        "date": "2025-12-28 05:15:22",
+        "sentiment_score": -0.14174869656562805
+    },
+    {
+        "title": "El equipo que recorre Extremadura y salva vidas",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/12/19/ECMO5-RA3bQpKA3IIlmrltIvtwbmL-1200x840@Hoy.jpg",
+        "tags": [
+            "extremadura",
+            "hospital universitario de badajoz",
+            "hoy",
+            "badajoz",
+            "ses",
+            "salud"
+        ],
+        "link": "https://www.hoy.es/extremadura/equipo-recorre-extremadura-salva-vidas-20251228073122-nt.html",
+        "date": "2025-12-28 06:31:23",
+        "sentiment_score": -0.0258004292845726
+    },
+    {
+        "title": "Un amanecer difícil de ver",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/24/694bd0e19df84.r_d.1002-852-2338.jpeg",
+        "tags": [
+            "las fotos de los lectores"
+        ],
+        "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20251228/11392710/amanecer-dificil-ver.html",
+        "date": "2025-12-28 06:19:48",
+        "sentiment_score": -0.3559249937534332
+    },
+    {
+        "title": "Incomodar al poder, no a la verdad",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/26/vito-quiles-durante-una-rueda-de-prensa-del-diputado-enrique-santiago-en-el-congreso-1450.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.huffingtonpost.es/opinion/incomodar-verdad-f202512.html",
+        "date": "2025-12-28 06:07:02",
+        "sentiment_score": -0.6387163288891315
+    },
+    {
+        "title": "José Manuel Macarro : «Todos los que protestaban contra Franco en la Universidad de Sevilla cabían en un aula magna»",
+        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/12/28/jose-manuel-macarro-krzF-RCurVkoW4GCNipZMRdzwD9K-1200x840@diario_abc.jpg",
+        "tags": [
+            "ciudad",
+            "sevilla"
+        ],
+        "link": "https://www.abc.es/sevilla/ciudad/protestaban-franco-universidad-sevilla-cabian-aula-magna-20251228104321-nts.html",
+        "date": "2025-12-28 06:06:36",
+        "sentiment_score": -0.16435019671916962
+    },
+    {
+        "title": "El vino caliente de los mercadillos navideños europeos conquista también España: \"Vendemos mucho desde la mañana\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7c258f1c-4a80-4760-b77d-7b0752be5e67_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "bebidas",
+            "bebidas azucaradas",
+            "bebidas alcohólicas",
+            "barcelona",
+            "madrid",
+            "valencia",
+            "navidad"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20251228/vino-caliente-mercadillos-navidenos-europeos-espana-125161864",
+        "date": "2025-12-28 06:00:23",
+        "sentiment_score": 0.0647105872631073
+    },
+    {
+        "title": "Pilar García, experta en economía: \"En la mayoría de las ciudades, los coches eléctricos e híbridos enchufables ya tienen que pagar por estacionar en las zonas reservadas para ellos\"",
+        "image_url": "https://images.ecestaticos.com/2Tkt2fWRr0UxTQ8y_RW1b1NCw5I=/0x0:1500x844/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2a9%2F0b8%2F982%2F2a90b8982f3ea291b7f85155068b3c28.jpg",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.elconfidencial.com/economia/2025-12-28/pilar-garcia-experta-economia-coches-electricos_4266119/",
+        "date": "2025-12-28 06:00:00",
+        "sentiment_score": -0.34411364793777466
+    },
+    {
+        "title": "Francesc Orella: “Yo he vivido los 70 y los 80 y ahora nos la cogemos más con papel de fumar”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/27/695043f116b2b.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.lavanguardia.com/gente/20251228/11397348/francesc-orella-he-vivido-70-80-cogemos-mas-papel-fumar.html",
+        "date": "2025-12-28 06:00:00",
+        "sentiment_score": -0.0074145495891571045
+    },
+    {
+        "title": "Judimendi, referente de la alimentación saludable",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/782595bc-d9ee-4253-ad07-2bd14e1c261c_16-9-aspect-ratio_default_0_x1254y960.jpg",
+        "tags": [
+            "productos sostenibles",
+            "saludable",
+            "alimentacion",
+            "judimendi",
+            "proyecto albarrio",
+            "referente"
+        ],
+        "link": "https://www.noticiasdealava.eus/gasteiz/2025/12/28/judimendi-referente-alimentacion-saludable-proyecto-albarrio-productos-sostenibles-10514168.html",
+        "date": "2025-12-28 05:59:45",
+        "sentiment_score": 0.6193334888666868
+    },
+    {
+        "title": "Moreno tendrá que sudar esta vez la camiseta",
+        "image_url": "https://static.grupojoly.com/clip/53403519-7475-4dca-ab59-5b74e5e9b18c_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "camiseta",
+            "moreno",
+            "vez",
+            "sudar",
+            "tendra"
+        ],
+        "link": "https://www.granadahoy.com/andalucia/moreno-tendra-sudar-vez-camiseta_0_2005519622.html",
+        "date": "2025-12-28 05:59:30",
+        "sentiment_score": 0.10799586772918701
     }
 ];
