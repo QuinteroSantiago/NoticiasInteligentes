@@ -1,175 +1,5 @@
 export default [
     {
-        "title": "El Rey despide un 2025 empañado por la sombra de Juan Carlos I",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/24/rey-navidad-k3rF-U240653024767ucD-1200x840@RC.jpg",
-        "tags": [
-            "casa real",
-            "felipe de borbón y grecia",
-            "nochebuena",
-            "navidad"
-        ],
-        "link": "https://www.ideal.es/nacional/rey-despide-2025-empanado-sombra-juan-carlos-20251224073454-ntrc.html",
-        "date": "2025-12-24 06:34:56",
-        "sentiment_score": -0.08362323045730591
-    },
-    {
-        "title": "Chicho Lorenzo: \"Puedo ayudar a Maverick Viñales con la técnica de pilotaje. Si su aventura con Jorge Lorenzo sale bien, habrá un antes y un después de una unión que revolucionaría este deporte\"",
-        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2025/12/24/694b878b54371.r_d.813-1185-4736.jpeg",
-        "tags": [
-            "motogp"
-        ],
-        "link": "https://www.mundodeportivo.com/motor/motogp/20251224/1002591715/chicho-lorenzo-ayudar-maverick-vinales-tecnica-pilotaje-aventura-jorge-lorenzo-sale-habra-union-revolucionaria-deporte-smd.html",
-        "date": "2025-12-24 06:27:03",
-        "sentiment_score": -0.08854517340660095
-    },
-    {
-        "title": "Espacio Movistar pone el ‘kilómetro 0’ de la Navidad en la Gran Vía",
-        "image_url": "https://static.grupojoly.com/clip/dec695a4-e69d-4d5f-922f-c28e95b9886c_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "movistar",
-            "kilometro",
-            "navidad",
-            "espacio",
-            "pone"
-        ],
-        "link": "https://www.malagahoy.es/suplemento-tecnologico/espacio-movistar-pone-kilometro-navidad_0_2005510054.html",
-        "date": "2025-12-24 06:20:30",
-        "sentiment_score": -0.05437353253364563
-    },
-    {
-        "title": "En el burdel desconocido de Picasso",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/12/23/D645420D-EE86-416A-846E-2A735894269F/imagen-dibujo-que-expone-barcelona_69.jpg?crop=982%2C552%2Cx0%2Cy12&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/burdel-desconocido-picasso_20251224694b83c522f0db7daffcbcc3.html",
-        "date": "2025-12-24 06:10:13",
-        "sentiment_score": 0.39795225486159325
-    },
-    {
-        "title": "Confirmado por Loterías: estos son los municipios donde más veces ha tocado el primer premio del sorteo del Niño",
-        "image_url": "https://s3.elespanol.com/2025/12/22/actualidad/1003744066588_260624808_1706x960.jpg",
-        "tags": [
-            "soft",
-            "loterías",
-            "sociedad",
-            "loterías y apuestas del estado (lae)",
-            "lotería del niño"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251224/confirmado-loterias-municipios-veces-tocado-primer-premio-sorteo-nino/1003744066567_0.html",
-        "date": "2025-12-24 06:37:28",
-        "sentiment_score": 0.4414205774664879
-    },
-    {
-        "title": "Coincidencia total entre los expertos: este es el fallo que más perjudica nuestra jubilación",
-        "image_url": "https://okdiario.com/img/2025/12/23/imagen_recortada-8.jpg",
-        "tags": [
-            "okd",
-            "economía",
-            "pensiones",
-            "jubilación"
-        ],
-        "link": "https://okdiario.com/economia/coincidencia-total-expertos-este-fallo-que-mas-perjudica-nuestra-jubilacion-15980025",
-        "date": "2025-12-24 06:30:38",
-        "sentiment_score": -0.20229586958885193
-    },
-    {
-        "title": "Lo que debes saber hoy, 24 de diciembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2021/10/08/vivir-en-barcelona/617948202_9430345_1706x960.jpg",
-        "tags": [
-            "clima",
-            "coches",
-            "gran barcelona",
-            "transports metropolitans barcelona tmb",
-            "autobús",
-            "metro barcelona",
-            "renfe barcelona",
-            "rodalies",
-            "tráfico",
-            "transporte"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251224/debes-saber-hoy-diciembre-barcelona/1003742718835_0.html",
-        "date": "2025-12-24 06:30:17",
-        "sentiment_score": -0.306843601167202
-    },
-    {
-        "title": "Comuns denuncia a Albiol ante la Fiscalía de Odio y Discriminación por el macrodesalojo del B9",
-        "image_url": "https://images.ecestaticos.com/0sQSdpsF-mp5sKLOmc9x4IF5RKU=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F452%2F41d%2F797%2F45241d79716d700fa6b12ca3b531254e.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.elconfidencial.com/espana/cataluna/2025-12-24/denuncia-delitos-odio-badalona-1tna-1tps_4274409/",
-        "date": "2025-12-24 06:05:00",
-        "sentiment_score": -0.9185077426955104
-    },
-    {
-        "title": "De la DGAIA a la peste porcina: ¿le han pasado factura las crisis a Salvador Illa?",
-        "image_url": "https://static1.ara.cat/clip/1625844c-96ee-4a58-88aa-dd880ba379f1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "illa",
-            "han",
-            "factura",
-            "crisis",
-            "peste",
-            "porcina",
-            "dgaia",
-            "salvador",
-            "le",
-            "pasado"
-        ],
-        "link": "https://es.ara.cat/politica/dgaia-peste-porcina-le-han-pasado-factura-crisis-salvador-illa_1_5601393.html",
-        "date": "2025-12-24 06:01:09",
-        "sentiment_score": -0.6983241513371468
-    },
-    {
-        "title": "La nueva terminal de la Llagosta recibirá el primer tren de mercancías a principios de enero",
-        "image_url": "https://static1.ara.cat/clip/264c501e-1327-4a97-8808-b5eb09c158cb_16-9-aspect-ratio_default_0.png",
-        "tags": [
-            "llagosta",
-            "recibira",
-            "enero",
-            "principios",
-            "nueva",
-            "tren",
-            "mercancias",
-            "terminal"
-        ],
-        "link": "https://es.ara.cat/economia/industria/nueva-terminal-llagosta-recibira-tren-mercancias-principios-enero_1_5601390.html",
-        "date": "2025-12-24 06:00:57",
-        "sentiment_score": 0.3126986548304558
-    },
-    {
-        "title": "Coca-Cola reparte 200 comidas navideñas junto a Galdakaoko Boluntarioak",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/04976b8b-abd7-41c3-bca6-22c0310e77df_16-9-aspect-ratio_default_0_x1429y1542.jpg",
-        "tags": [
-            "reparte",
-            "comidas",
-            "coca",
-            "galdakao",
-            "cola",
-            "200"
-        ],
-        "link": "https://www.deia.eus/bizkaia/2025/12/24/coca-cola-reparte-200-comidas-galdakao-10507888.html",
-        "date": "2025-12-24 06:00:56",
-        "sentiment_score": 0.20237234234809875
-    },
-    {
-        "title": "La revolución de los libros que pasan de madres a hijas",
-        "image_url": "https://static1.ara.cat/clip/3ba8ecd8-4fab-474b-93a6-9d7bb93a60be_16-9-aspect-ratio_default_0_x3408y1275.jpg",
-        "tags": [
-            "pasan",
-            "madres",
-            "hijas",
-            "libros",
-            "revolucion"
-        ],
-        "link": "https://es.ara.cat/cultura/leer/revolucion-libros-pasan-madres-hijas_1_5601388.html",
-        "date": "2025-12-24 06:00:55",
-        "sentiment_score": 0.11910036206245422
-    },
-    {
         "title": "Éxito rotundo de la Tardebuena en León: la plaza Mayor y la de Regla se convierten en una fiesta",
         "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/12/24/WhatsApp%20Image%202025-12-24%20at%2017.38.12-U22017405028216qB-U240659077518IXH-1200x840@Leonoticias.jpeg",
         "tags": [
@@ -3006,5 +2836,268 @@ export default [
         "link": "https://www.elprogreso.es/articulo/lugo/pavimento-mira-futuro-final-obras-eternas/202512271801331932289.html",
         "date": "2025-12-27 17:01:33",
         "sentiment_score": 0.7851511053740978
+    },
+    {
+        "title": "River Plate cierra 2025 como el equipo con mayor promedio de espectadores del mundo, según Transfermarkt",
+        "image_url": "https://www.infobae.com/resizer/v2/FAKKZZA4ZRGVBJSYHTTGND4RMU.jpg?auth=47d2174788bf56ddd6d070a0c21c3d955ab60a27d34157e165be9c26b4052d5d&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress",
+            "buenos aires",
+            "fútbol",
+            "mâs monumental",
+            "ezeiza",
+            "stéfano di carlo",
+            "transfermarkt",
+            "jorge brito",
+            "rodolfo donofrio",
+            "asistencia de público",
+            "river plate"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/27/river-plate-cierra-2025-como-el-equipo-con-mayor-promedio-de-espectadores-del-mundo-segun-transfermarkt/",
+        "date": "2025-12-27 22:01:24",
+        "sentiment_score": 0.8153420947492123
+    },
+    {
+        "title": "El conmovedor homenaje a Diogo Jota en el Liverpool-Wolves: sus hijos Dinis y Duarte saltaron al césped",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/27/552FFAAE-2D9B-435D-87C2-F00D3990CBE7/dos-hijos-mayores-diogo-jota-anfield_70.jpg?crop=4572%2C2572%2Cx0%2Cy35&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "antena 3 noticias",
+            "deportes",
+            "fútbol"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/conmovedor-homenaje-diogo-jota-liverpoolwolves-sus-hijos-dinis-duarte-saltaron-cesped_202512276950529c22f0db7dafff440d.html",
+        "date": "2025-12-27 21:41:48",
+        "sentiment_score": -0.06117472052574158
+    },
+    {
+        "title": "El CB Canarias y el Granca miman el balón como nadie",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/61cc0465-7243-405a-b7be-23d670066e85_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "regalos",
+            "cb canarias",
+            "canarias",
+            "santiago",
+            "txus vidorreta",
+            "balones"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/27/cb-canarias-granca-miman-balon-125185751.html",
+        "date": "2025-12-27 21:34:01",
+        "sentiment_score": 0.04714241623878479
+    },
+    {
+        "title": "El Covirán Granada vuelve a estropear al final otro buen partido",
+        "image_url": "https://static.grupojoly.com/clip/4634478f-f93a-4f1f-9875-72c902c56e44_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fundación cb granada"
+        ],
+        "link": "https://www.granadahoy.com/coviran-granada/coviran-granada-vuelve-estropear-final_0_2005518391.html",
+        "date": "2025-12-27 21:17:09",
+        "sentiment_score": -0.887776643037796
+    },
+    {
+        "title": "El Real Oviedo hace eterno su sentimiento centenario",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/12/27/partido-leyendas-real-oviedo%20(14)-kFyB-U240680939304YHI-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "real oviedo"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-partido-leyendas-eterno-sentimiento-centenario-20251227220051-nt.html",
+        "date": "2025-12-27 21:01:06",
+        "sentiment_score": 0.6976867839694023
+    },
+    {
+        "title": "El Arsenal se mantiene firme en el liderato y el Aston Villa sigue haciendo historia",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/27/69503d46aef08.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/arsenal-mantiene-firme-liderato-aston-villa-sigue-haciendo-historia-20251227_3278129.html",
+        "date": "2025-12-27 20:30:41",
+        "sentiment_score": 0.07110467553138733
+    },
+    {
+        "title": "Año 2025: sacudida en la política navarra",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/618f654e-ac74-4d27-9073-7e4bf7e15dc1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "navarra",
+            "politica",
+            "2025",
+            "ano",
+            "sacudida"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/politica/2025/12/27/ano-2025-sacudida-politica-navarra-10517291.html",
+        "date": "2025-12-27 20:30:00",
+        "sentiment_score": -0.4116835445165634
+    },
+    {
+        "title": "Las dos fenomenales atajadas del Dibu Martínez para el triunfo del Aston Villa que lo deja a tiro de la cima en la Premier League",
+        "image_url": "https://www.infobae.com/resizer/v2/UDABZYEGP5HRFMCIHWUIOQTEDM.JPG?auth=2a8a1b3033d3f32542b4475f03fbf24f039c10ab3571dd3931020d103cfcbd23&height=2000&smart=true&width=3556",
+        "tags": [
+            "enzo fernández",
+            "emiliano dibu martínez",
+            "premier league",
+            "chelsea",
+            "aston villa"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/27/las-dos-fenomenales-atajadas-del-dibu-martinez-para-el-triunfo-del-aston-villa-que-lo-deja-a-tiro-de-la-cima-en-la-premier-league/",
+        "date": "2025-12-27 20:27:53",
+        "sentiment_score": 0.6353750489652157
+    },
+    {
+        "title": "Éxito rotundo en el II Torneo Alevín Granada Contra el Cáncer",
+        "image_url": "https://static.grupojoly.com/clip/34801ec5-b195-4a34-aebc-644f80f8c1c3_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.granadahoy.com/deportes/exito-rotundo-ii-torneo-alevin_0_2005518938.html",
+        "date": "2025-12-27 20:24:53",
+        "sentiment_score": 0.41925671696662903
+    },
+    {
+        "title": "El planazo de los Reyes Felipe y Letizia junto a sus hijas en plena Navidad",
+        "image_url": "https://okdiario.com/look/img/2025/12/27/image-2025-12-27t210859.987.jpg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://okdiario.com/look/actualidad/planazo-reyes-felipe-letizia-junto-sus-hijas-plena-navidad-2457923",
+        "date": "2025-12-27 20:12:16",
+        "sentiment_score": -0.17797406017780304
+    },
+    {
+        "title": "Las familias numerosas lamentan la negativa de Barcelona a fomentar la conciliación y la natalidad",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/12/el-pulso-de-la-ciudad/1003742715718_15507762_1706x960.jpg",
+        "tags": [
+            "pp",
+            "ayuntamiento de barcelona",
+            "economía",
+            "pisos turísticos",
+            "el pulso de la ciudad"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20251227/familias-numerosas-lamentan-negativa-barcelona-fomentar-conciliacion-natalidad/1003742715681_0.html",
+        "date": "2025-12-27 22:15:00",
+        "sentiment_score": -0.26114314794540405
+    },
+    {
+        "title": "Daisuke Fukamura, el chef japonés que ha revolucionado el ‘omakase’ en Gràcia: “Me gustó Barcelona y decidí quedarme”",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/30/empresas/1003742702832_15410489_1706x960.jpg",
+        "tags": [
+            "el camp d'en grassot i gràcia nova",
+            "restaurantes barcelona",
+            "recomendaciones",
+            "gastro",
+            "gràcia",
+            "gastronomía"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gastro/20251227/daisuke-fukamura-chef-japones-revolucionado-omakase-gracia-gusto-barcelona-decidi-quedarme/1003742708065_0.html",
+        "date": "2025-12-27 22:15:00",
+        "sentiment_score": -0.008052527904510498
+    },
+    {
+        "title": "Dónde han caído el bote de 69 millones de la Primitiva, el de 900.000 de la Bonoloto, y los premios de la ONCE de hoy sábado 27 de diciembre",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2024/01/08/0C9B5437-9D5F-4373-961D-A4CE2EE94756/administracion-loteria-atracada-lugo_98.jpg?crop=1024%2C576%2Cx0%2Cy11&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "loterías",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-69-millones-primitiva-900000-bonoloto-premios-once-hoy-sabado-27-diciembre_202512276950565b22f0db7dafff4572.html",
+        "date": "2025-12-27 21:57:47",
+        "sentiment_score": 0.2076326347887516
+    },
+    {
+        "title": "Una ciudad en psicosis por el narco: \"La Marsella que conocemos no sería posible sin la droga que nos llega desde Cataluña\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/68d93e3956b24060cdeac6a6cd11b216/crop/988x18/2809x1839/f/image/jpeg/assets/multimedia/imagenes/2022/03/14/16472689940900.jpg",
+        "tags": [
+            "nlpremium",
+            "marbella",
+            "francia",
+            "barcelona",
+            "narcotráfico",
+            "artículos andros lozano",
+            "emmanuel macron",
+            "olympique de marsella",
+            "drogas",
+            "artículos elena iribas",
+            "crónica"
+        ],
+        "link": "https://www.elmundo.es/cronica/2025/12/27/6949958dfdddff71608b45ae.html",
+        "date": "2025-12-27 21:53:36",
+        "sentiment_score": -0.6545466147363186
+    },
+    {
+        "title": "El Manzanares, el Jaén y el Valdepeñas completan el cartel de la Copa de España masculina",
+        "image_url": "https://www.infobae.com/resizer/v2/OX7FMBOY2NFYRJUAM6W7MCSWCY.jpg?auth=b2290415262e183a3554421a0050eb2c28a410a33c9e4ef5790f699d49d4dd90&height=1281&smart=true&width=1920",
+        "tags": [
+            "europapress",
+            "cartagena",
+            "fútbol sala",
+            "murcia",
+            "copa de españa",
+            "jaén",
+            "viña albali valdepeñas",
+            "fc barcelona",
+            "jaén paraíso interior",
+            "elpozo murcia costa cálida",
+            "quesos el hidalgo manzanares"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/27/el-manzanares-el-jaen-y-el-valdepenas-completan-el-cartel-de-la-copa-de-espana-masculina/",
+        "date": "2025-12-27 21:45:24",
+        "sentiment_score": 0.9013283429667354
+    },
+    {
+        "title": "Israel, primer país del mundo en reconocer Somalilandia como estado independiente",
+        "image_url": "https://static1.ara.cat/clip/83f3b4d8-80d0-4f1c-8e04-7f6aa6ec8c8f_16-9-aspect-ratio_default_0_x499y189.png",
+        "tags": [
+            "somalilandia",
+            "pais",
+            "mundo",
+            "independiente",
+            "israel",
+            "reconocer"
+        ],
+        "link": "https://es.ara.cat/internacional/africa/israel-pais-mundo-reconocer-somalilandia-independiente_1_5603898.html",
+        "date": "2025-12-27 21:41:27",
+        "sentiment_score": 0.01592785120010376
+    },
+    {
+        "title": "La Primitiva deja más de 70.000 euros en Extremadura este sábado",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/27/08045E1-kAiE-U240321190888xiB-1200x840@Hoy.jpg",
+        "tags": [
+            "sabado",
+            "sorteo"
+        ],
+        "link": "https://www.hoy.es/sociedad/primitiva-deja-70000-euros-extremadura-sabado-20251227223217-nt.html",
+        "date": "2025-12-27 21:32:18",
+        "sentiment_score": 0.07503945380449295
+    },
+    {
+        "title": "La Primitiva deja 1,3 millones de euros en Basauri",
+        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/06/03/basauri-kDJE--758x531@El%20Correo.jpg",
+        "tags": [
+            "audiencias",
+            "primitiva",
+            "loterías y apuestas del estado"
+        ],
+        "link": "https://www.elcorreo.com/loteria/primitiva/primitiva-sabado-comprobar-resultados-27-diciembre-20251227171253-nt.html",
+        "date": "2025-12-27 21:29:03",
+        "sentiment_score": -0.6791902855038643
+    },
+    {
+        "title": "El sorteo de Bonoloto deja un nuevo millonario este sábado",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2025/12/13/05820E1.jpg",
+        "tags": [
+            "bonoloto"
+        ],
+        "link": "https://www.hoy.es/sociedad/sorteo-bonoloto-deja-nuevo-millonario-sabado-20251227222644-nt.html",
+        "date": "2025-12-27 21:26:44",
+        "sentiment_score": 0.0724673792719841
+    },
+    {
+        "title": "Un acertante de la Primitiva gana 1,3 millones de euros y el bote sube a 69,5 millones",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/08/14/689d18a5b4494.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/acertante-primitiva-gana-millones-euros-bote-sube-millones_6915258_0.html",
+        "date": "2025-12-27 21:24:25",
+        "sentiment_score": -0.050587818026542664
     }
 ];
