@@ -1,494 +1,5 @@
 export default [
     {
-        "title": "La propuesta que prepara el Atlético de Madrid para Simeone: la decisión con su hijo Giuliano y Julián Álvarez",
-        "image_url": "https://www.infobae.com/resizer/v2/F5CWONPLZVHFZKPNWP7KUBEWOY.JPG?auth=f3e948c15edc6151663baee742aac592324061f23d0c8a6cfaced8076c64cd5d&height=1013&smart=true&width=1533",
-        "tags": [
-            "atlético de madrid",
-            "diego simeone",
-            "deportes-argentina",
-            "champions league",
-            "miguel ángel gil marín"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/23/la-propuesta-que-prepara-el-atletico-de-madrid-para-simeone-la-decision-con-su-hijo-giuliano-y-julian-alvarez/",
-        "date": "2025-12-23 22:10:31",
-        "sentiment_score": -0.017057202756404877
-    },
-    {
-        "title": "El Unicaja invita a regalar emoción por Navidad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/edfd23e6-e0c9-4c14-b38f-f8e20e3da197_16-9-aspect-ratio_default_1423730.jpg",
-        "tags": [
-            "unicaja baloncesto",
-            "liga endesa",
-            "navidad",
-            "morabanc andorra",
-            "unicaja"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/23/club-cajista-invita-regalar-emocion-125108390.html",
-        "date": "2025-12-23 22:06:43",
-        "sentiment_score": 0.5190727040171623
-    },
-    {
-        "title": "Catalá aparta de la Mesa de Contratación del Ayuntamiento de València al concejal que oculta con qué empresas trabaja",
-        "image_url": "https://static.eldiario.es/clip/0e12f348-4137-450c-a5ea-60ca788210e6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "información",
-            "análisis",
-            "noticias",
-            "alicante",
-            "comunidad valenciana",
-            "castellón",
-            "actualidad",
-            "valencia",
-            "opinión"
-        ],
-        "link": "https://www.eldiario.es/comunitat-valenciana/valencia/catala-aparta-mesa-contratacion-ayuntamiento-valencia-concejal-oculta-empresas-trabaja_1_12867309.html",
-        "date": "2025-12-23 22:00:22",
-        "sentiment_score": -0.08395397663116455
-    },
-    {
-        "title": "La cesión de Endrick confirma el desastre en la gestión de jóvenes estrellas del Real Madrid",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/23/2025122322432067487.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/real-madrid-nefasta-gestion-talento-ultimo-ejemplo-cesion-endrick/20251223224401368046.html",
-        "date": "2025-12-23 21:44:01",
-        "sentiment_score": 0.19531971216201782
-    },
-    {
-        "title": "2025: los corridos tumbados alcanzan el estatus global del mariachi a pesar de la censura",
-        "image_url": "https://www.infobae.com/resizer/v2/JHI6H4VKANDS3BE7IPNLJFAB5Q.jpg?auth=909e0f843bd0ce612d4bf90a3d6a1f1bb3c04a259bea94a87ee080f7b3f814af&height=1080&smart=true&width=1920",
-        "tags": [
-            "corridos bélicos",
-            "corridos tumbados",
-            "mexico-noticias",
-            "ángel del villar",
-            "2025",
-            "mexico-entretenimiento",
-            "del records"
-        ],
-        "link": "https://www.infobae.com/mexico/2025/12/23/2025-los-corridos-tumbados-alcanzan-el-estatus-global-del-mariachi-a-pesar-de-la-censura/",
-        "date": "2025-12-23 21:09:42",
-        "sentiment_score": 0.32101014256477356
-    },
-    {
-        "title": "Dani Carvajal podría dejar el Real Madrid tras el Mundial de 2026",
-        "image_url": "https://pxcdn.meridiano.net/122025/1766524627653.jpg?ch=180&cw=320",
-        "tags": [
-            "lifestyle",
-            "top"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-internacional/dani-carvajal-podria-dejar-el-real-madrid-tras-el-mundial-de-2026-202512231760",
-        "date": "2025-12-23 21:06:00",
-        "sentiment_score": 0.5844029039144516
-    },
-    {
-        "title": "Ester Muñoz dice que ser católico \"es el nuevo punk\" al ver a Ayuso con Hakuna: la réplica de Roberto Sotomayor es de medalla de oro",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/23/fotomontaje-de-isabel-diaz-ayuso-ester-munoz-y-roberto-sotomayor.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/ester-munoz-dice-catolico-es-nuevo-punk-ver-ayuso-hakuna-replica-roberto-sotomayor-medalla-oro.html",
-        "date": "2025-12-23 20:59:58",
-        "sentiment_score": 0.060892254114151
-    },
-    {
-        "title": "David Bisbal despide por todo lo alto su Navidad adelantada en un Sant Jordi a rebosar",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/23/694af922a78b0.r_d.2724-2113-781.jpeg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.lavanguardia.com/cultura/musica/20251223/11306032/david-bisbal-despide-alto-navidad-adelantada-sant-jordi-rebosar.html",
-        "date": "2025-12-23 20:55:51",
-        "sentiment_score": 0.8964917017146945
-    },
-    {
-        "title": "El espíritu de la ansiedad: las reflexiones de un psicólogo sobre lo agotadoras que pueden ser las fiestas",
-        "image_url": "https://static.eldiario.es/clip/cff0cc73-ed0b-4323-9049-b0b19ae0d5fe_16-9-discover-aspect-ratio_default_1133236.jpg",
-        "tags": [
-            "fiestas",
-            "reflexiones",
-            "agotadoras",
-            "espiritu",
-            "psicologo",
-            "ansiedad"
-        ],
-        "link": "https://www.eldiario.es/era/espiritu-ansiedad-reflexiones-psicologo-agotadoras-fiestas_129_12868240.html",
-        "date": "2025-12-23 20:53:35",
-        "sentiment_score": -0.025117188692092896
-    },
-    {
-        "title": "Asturias se vuelca con su selección femenina absoluta en un Suárez Puerta teñido de azul y amarillo",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0eb7b538-0ed5-493a-a031-f0b0ba026546_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "suárez",
-            "orgullo",
-            "asturianos",
-            "asturias"
-        ],
-        "link": "https://www.lne.es/deportes/deporte-astur/2025/12/23/asturias-vuelca-seleccion-femenina-absoluta-125107152.html",
-        "date": "2025-12-23 20:33:10",
-        "sentiment_score": 0.4383592903614044
-    },
-    {
-        "title": "La cesta de la compra en Granada, por las nubes en los primeros días de Navidad",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/24/LOTEREstndar%20BASE-100-kqRD-U240649610896MuH-1200x840@Ideal.jpg",
-        "tags": [
-            "navidad",
-            "euro",
-            "historias visuales",
-            "precios",
-            "cesta de la compra"
-        ],
-        "link": "https://www.ideal.es/granada/cesta-compra-granada-nubes-primeros-dias-navidad-20251224231722-nt.html",
-        "date": "2025-12-23 22:17:23",
-        "sentiment_score": 0.2617102861404419
-    },
-    {
-        "title": "La planta hotelera de Granada sube el nivel con diez proyectos de lujo y un boom de reformas",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/27/Claridgeterraza-kIIF-U240649697675XYF-1200x840@Ideal.jpg",
-        "tags": [
-            "granada",
-            "urbanismo"
-        ],
-        "link": "https://www.ideal.es/granada/planta-hotelera-granada-sube-nivel-diez-proyectos-20251224231715-nt.html",
-        "date": "2025-12-23 22:17:15",
-        "sentiment_score": 0.6388011705130339
-    },
-    {
-        "title": "Granada analizará la repercusión económica de la llegada de la Agencia de Salud Pública",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/23/agenciaandaluza-kkT-U240649279845pBC-1200x840@Ideal.jpg",
-        "tags": [
-            "granada",
-            "junta de andalucía",
-            "salud"
-        ],
-        "link": "https://www.ideal.es/granada/granada-analizara-repercusion-economica-llegada-agencia-salud-20251224231704-nt.html",
-        "date": "2025-12-23 22:17:05",
-        "sentiment_score": 0.552229218184948
-    },
-    {
-        "title": "Está creciendo un paganismo contagioso y excluyente, de rechazo a todo lo cristiano",
-        "image_url": "https://www.alertadigital.com/wp-content/uploads/2024/12/paganm-700x394-1.jpg",
-        "tags": [
-            "paganismo",
-            "portada",
-            "excluyente",
-            "rechazo",
-            "contagioso",
-            "religión",
-            "cristiano"
-        ],
-        "link": "https://www.alertadigital.com/2025/12/23/esta-creciendo-un-paganismo-contagioso-y-excluyente-de-rechazo-a-todo-lo-cristiano/",
-        "date": "2025-12-23 22:08:13",
-        "sentiment_score": 0.17447923123836517
-    },
-    {
-        "title": "Casi dos millones de votantes españoles en Argentina por la Ley de Memoria Democrática: \"La tercera ciudad española va a ser Buenos Aires de largo\"",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/23/17665191120343.jpg",
-        "tags": [
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/12/23/694ad9c8fc6c8349578b458b.html",
-        "date": "2025-12-23 21:50:00",
-        "sentiment_score": -0.18783216178417206
-    },
-    {
-        "title": "El grupo académico CREA, del catedrático investigado Ramón Flecha, anuncia el fin de su actividad tras llegar el caso a Fiscalía",
-        "image_url": "https://static.eldiario.es/clip/e3e395d0-95e1-49a7-95a8-8846e7dea76d_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "política",
-            "barcelona",
-            "economía",
-            "periodismo independiente",
-            "ignacio escolar",
-            "noticias",
-            "cataluña",
-            "actualidad"
-        ],
-        "link": "https://www.eldiario.es/catalunya/grupo-academico-crea-catedratico-investigado-ramon-flecha-anuncia-actividad-llegar-caso-fiscalia_1_12868503.html",
-        "date": "2025-12-23 21:43:35",
-        "sentiment_score": -0.1545204073190689
-    },
-    {
-        "title": "Galbiati: \"Estamos cerca, pero necesitamos algo más para ganar estos partidos\"",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/51455028-a3a5-4191-aaba-c3c3e9a52f98_16-9-aspect-ratio_default_0_x969y123.jpg",
-        "tags": [
-            "galbiati",
-            "necesitamos",
-            "ganar",
-            "partidos",
-            "cerca"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2025/12/23/galbiati-cerca-necesitamos-ganar-partidos-10509387.html",
-        "date": "2025-12-23 21:43:09",
-        "sentiment_score": 0.16372008621692657
-    },
-    {
-        "title": "El Fenerbahçe frena la racha del Barcelona y Valencia recupera la segunda posición",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/23/694b0b2981929.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/fenerbahce-frena-racha-barcelona-valencia-recupera-segunda-posicion-20251223_3276914.html",
-        "date": "2025-12-23 21:39:32",
-        "sentiment_score": -0.09281188249588013
-    },
-    {
-        "title": "La medida exacta",
-        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "medida",
-            "exacta"
-        ],
-        "link": "https://www.diariodealmeria.es/opinion/articulos/medida-exacta_0_2005509836.html",
-        "date": "2025-12-24 02:07:18",
-        "sentiment_score": -0.01748567819595337
-    },
-    {
-        "title": "La inversión inmobiliaria apunta a nuevo récord tras el boom de 2025",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/b15b7e832b62aa531bc3badf1a86962c/crop/34x26/1752x1172/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/23/17665288694974.jpg",
-        "tags": [
-            "inmobiliario>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/2025/12/24/694b0af7e5fdea7c1b8b4596.html",
-        "date": "2025-12-24 01:39:04",
-        "sentiment_score": 0.618793660774827
-    },
-    {
-        "title": "Hugo 'Boss' González, el gran robo del Draft de la NBA que se ha convertido en el MVP invisible de los Boston Celtics",
-        "image_url": "https://s3.elespanol.com/2025/12/23/actualidad/1003744067793_260639475_1706x960.jpg",
-        "tags": [
-            "baloncesto",
-            "real madrid baloncesto",
-            "boston celtics",
-            "nba (national basketball association)",
-            "selección española de baloncesto"
-        ],
-        "link": "https://www.elespanol.com/deportes/baloncesto/20251224/hugo-boss-gonzalez-gran-robo-draft-nba-convertido-mvp-invisible-boston-celtics/1003744067621_0.html",
-        "date": "2025-12-24 01:30:00",
-        "sentiment_score": 0.7711213435977697
-    },
-    {
-        "title": "Corrupción socialista: Begoña Gómez, David Sánchez, José Luis Ábalos... los siete frentes judiciales que rodean a Pedro Sánchez",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/EuropaPress_7179981_secretario_general_psoe_presidente_gobierno_pedro_sanchez_participa_acto-1.jpg",
-        "tags": [
-            "sánchez",
-            "david azagra",
-            "caso begoña",
-            "begoña gómez",
-            "pedro sánchez",
-            "josé luis ábalos",
-            "españa",
-            "caso koldo"
-        ],
-        "link": "https://gaceta.es/espana/begona-gomez-david-sanchez-jose-luis-abalos-siete-frentes-judiciales-y-un-gobierno-en-guerra-abierta-contra-la-justicia-20251224-0155/",
-        "date": "2025-12-24 00:55:37",
-        "sentiment_score": -0.608323659747839
-    },
-    {
-        "title": "La Real abre en Madrid un nuevo templo de la gilda con más de 40 variedades de esta icónica banderilla",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/22/17664105847046.jpg",
-        "tags": [
-            "ocio",
-            "comer",
-            "gastronomía",
-            "madrid"
-        ],
-        "link": "https://www.elmundo.es/metropoli/gastronomia/2025/12/24/69494aa121efa01a118b45a5.html",
-        "date": "2025-12-24 00:48:55",
-        "sentiment_score": 0.17659831047058105
-    },
-    {
-        "title": "Sergio Batista: «No hubo ningún deterioro en la relación personal con Maestre»",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a5e65d15-2e14-4909-9ae5-410a6b668309_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "crecimiento",
-            "trabajo",
-            "tenerife",
-            "sevilla"
-        ],
-        "link": "https://www.eldia.es/deportes/ud-tenerife/2025/12/24/sergio-batista-hubo-deterioro-relacion-125109216.html",
-        "date": "2025-12-24 00:31:31",
-        "sentiment_score": -0.389752134680748
-    },
-    {
-        "title": "Los Mensajes de Navidad del Rey: 50 años llamando a la concordia, la unión y la firmeza ante la corrupción",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2024/12/24/676ad2dc59f8b.r_d.2929-1710.jpeg",
-        "tags": [
-            "casa real"
-        ],
-        "link": "https://www.eldebate.com/espana/casa-real/20251224/mensajes-navidad-rey-50-anos-llamando-concordia-union-firmeza-ante-corrupcion_368297.html",
-        "date": "2025-12-24 00:30:00",
-        "sentiment_score": 0.5463123694062233
-    },
-    {
-        "title": "Ritos y Raíz",
-        "image_url": "https://gaceta.es/wp-content/uploads/2022/07/Enrique-Garcia-Maiquez.png",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://gaceta.es/opinion/ritos-y-raiz-20251224-0045/",
-        "date": "2025-12-23 23:45:00",
-        "sentiment_score": 0.2217768207192421
-    },
-    {
-        "title": "Nochebuena en la tele: el clásico 'Telepasión', mucha música y maratón de humor",
-        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/24/lalachus-kVUB-U240651770486VKF-1200x840@RC.jpg",
-        "tags": [
-            "tu cara me suena",
-            "felipe de borbón y grecia",
-            "telecinco",
-            "pasapalabra",
-            "navidad",
-            "manuel carrasco",
-            "cuatro",
-            "ana torroja",
-            "sergio dalma",
-            "nochebuena",
-            "atresmedia",
-            "televisión española (tve)",
-            "daniel fernández",
-            "antena 3",
-            "carlos sobera",
-            "la sexta",
-            "first dates"
-        ],
-        "link": "https://www.leonoticias.com/culturas/tv/nochebuena-tele-clasico-telepasion-musica-maraton-humor-20251224001925-ntrc.html",
-        "date": "2025-12-23 23:19:27",
-        "sentiment_score": -0.6612897217273712
-    },
-    {
-        "title": "¿Beber sin resaca? Apunta estos trucos para levantarte (casi) como nuevo después de una noche de excesos",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/22/resaca-web.jpg",
-        "tags": [
-            "nochevieja",
-            "controles de alcoholemia",
-            "navidad",
-            "nochebuena",
-            "vino",
-            "cerveza"
-        ],
-        "link": "https://www.leonoticias.com/vivir/salud/beber-resaca-apunta-trucos-levantarte-nuevo-despues-20251223001552-ntrc.html",
-        "date": "2025-12-23 23:16:12",
-        "sentiment_score": -0.18453126028180122
-    },
-    {
-        "title": "“Nadie habla de Robert Sánchez o Leo Román”: De la Fuente opina sobre Joan García y el debate en la portería de la Selección",
-        "image_url": "https://www.infobae.com/resizer/v2/7UDXXB4XDFHBNFNNFJTY7DOC6I.jpg?auth=70e7a97f89eea7e4906502774c7056a66d0433325cce76c6f73fc92fe8e54184&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-deportes",
-            "joan garcía",
-            "fc barcelona",
-            "athletic club",
-            "fútbol españa",
-            "luis de la fuente",
-            "españa-noticias",
-            "mundial 2026",
-            "fútbol",
-            "arsenal",
-            "real federación española de fútbol",
-            "real sociedad"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/12/24/nadie-habla-de-robert-sanchez-o-leo-roman-de-la-fuente-opina-sobre-joan-garcia-y-el-debate-en-la-porteria-de-la-seleccion/",
-        "date": "2025-12-24 02:10:55",
-        "sentiment_score": 0.20051342993974686
-    },
-    {
-        "title": "Priyageetha Dia se clava en las entrañas en la nueva sede madrileña de la galería The Ryder",
-        "image_url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744053877_260460942_1706x960.jpg",
-        "tags": [
-            "galerías de arte",
-            "ec-critica-arte",
-            "arte",
-            "madrid",
-            "exposiciones"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20251224/priyageetha-dia-clava-entranas-nueva-sede-madrilena-galeria-the-ryder/1003744053769_0.html",
-        "date": "2025-12-24 00:55:00",
-        "sentiment_score": 0.026926085352897644
-    },
-    {
-        "title": "Otra Barcelona",
-        "image_url": "https://s3.elespanol.com/2025/12/23/actualidad/1003744068110_260643372_1706x960.jpg",
-        "tags": [
-            "escritores",
-            "mínima molestia",
-            "literatura",
-            "barcelona"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/opinion/minima_molestia_ignacio_echevarria/20251224/barcelona/1003744068046_13.html",
-        "date": "2025-12-24 00:55:00",
-        "sentiment_score": 0.17463475465774536
-    },
-    {
-        "title": "23 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/23-dic-2025-partidazo-cope-20251224_3276940.html",
-        "date": "2025-12-24 00:45:00",
-        "sentiment_score": 0.042516425251960754
-    },
-    {
-        "title": "El nuevo rol de Robert Lewandowski sacude al Barça",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/24/2025112412220030825.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/nuevo-rol-lewandowski-marca-punto-inflexion-ataque-barca/20251224010642368077.html",
-        "date": "2025-12-24 00:06:42",
-        "sentiment_score": 0.008358210325241089
-    },
-    {
-        "title": "Coca-Cola reparte 500 comidas solidarias en Santa Cruz de Tenerife",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5e8aece6-0da5-400f-ab6c-6637824d82b1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vecinos",
-            "coca-cola",
-            "santa cruz",
-            "tenerife"
-        ],
-        "link": "https://www.eldia.es/sociedad/2025/12/24/coca-cola-reparte-500-comidas-125107114.html",
-        "date": "2025-12-24 00:00:40",
-        "sentiment_score": 0.2786934971809387
-    },
-    {
-        "title": "1a PARTE | 23 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/1a-parte-23-dic-2025-partidazo-cope-20251224_3276928.html",
-        "date": "2025-12-23 23:26:12",
-        "sentiment_score": 0.2835140563547611
-    },
-    {
-        "title": "Ni camisetas del Barça ni ratas disecadas: el derbi contra el Espanyol se calienta más de lo previsto",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/05/15/culemania/culemaniacos/1003742657956_14586586_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "barça",
-            "rcd espanyol",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251224/camisetas-barca-ratas-disecadas-espanyol-calienta-previsto/1003742718829_0.html",
-        "date": "2025-12-23 23:11:25",
-        "sentiment_score": 0.561053678393364
-    },
-    {
-        "title": "De profesión, vendedor de un robot de cocina: \"Puede sonar surrealista, pero he llegado a ganar 15.000 euros al mes como comercial de Thermomix\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/33204eafd88267ae13b0f0e60f907b36/crop/63x0/1129x800/f/webp/assets/multimedia/imagenes/2025/12/22/17664001973517.jpg",
-        "tags": [
-            "yodona",
-            "lifestyle"
-        ],
-        "link": "https://www.elmundo.es/yodona/lifestyle/2025/12/24/69491f4fe9cf4ab97c8b4594.html",
-        "date": "2025-12-23 23:11:12",
-        "sentiment_score": 0.056269895285367966
-    },
-    {
         "title": "El Rey despide un 2025 empañado por la sombra de Juan Carlos I",
         "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2025/12/24/rey-navidad-k3rF-U240653024767ucD-1200x840@RC.jpg",
         "tags": [
@@ -3257,5 +2768,243 @@ export default [
         "link": "https://www.hola.com/actualidad/20251227872897/asi-ha-sido-el-2025-para-lamine-yamal/",
         "date": "2025-12-27 06:00:00",
         "sentiment_score": -0.6352597177028656
+    },
+    {
+        "title": "Conmoción en el Valencia y el fútbol por la tragedia de Fernando Martín en Indonesia: \"Consternados\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/27/694ffa98caec70-14913927.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/conmocion-valencia-futbol-espanol-tragedia-fernando-martin-hijos-indonesia-consternados_6915208_0.html",
+        "date": "2025-12-27 17:07:55",
+        "sentiment_score": -0.7085158005356789
+    },
+    {
+        "title": "El otro proyecto de Xenia Tostado antes de acabar 2025, además de 'Sueños de libertad': ¿qué es 'Donde habitan los sueños' y cuál es su papel?",
+        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2025/12/22/694932387e562.jpeg",
+        "tags": [
+            "trending topic"
+        ],
+        "link": "https://www.cadena100.es/trending-topic/noticias/proyecto-xenia-tostado-acabar-2025-suenos-libertad-habitan-suenos-papel-20251227_143928.html",
+        "date": "2025-12-27 17:05:00",
+        "sentiment_score": 0.051151782274246216
+    },
+    {
+        "title": "El Valencia, \"consternado\" por el fallecimiento de Fernando Martín, entrenador del Femenino B,y sus hijos",
+        "image_url": "https://www.infobae.com/resizer/v2/CU77WUJKXRCBJD27GGFMTKQXGE.jpg?auth=9770271732bc123b5ea45eeaaec71f02c9a66c79a30bea324e60ca8c403b0cd9&height=1080&smart=true&width=1920",
+        "tags": [
+            "fc barcelona",
+            "levante ud",
+            "valencia cf",
+            "indonesia",
+            "europapress",
+            "fallecimiento",
+            "naufragio",
+            "valencia cf femenino",
+            "fernando martín",
+            "real madrid",
+            "labuan bajo"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/27/el-valencia-consternado-por-el-fallecimiento-de-fernando-martin-entrenador-del-femenino-by-sus-hijos/",
+        "date": "2025-12-27 17:00:27",
+        "sentiment_score": -0.9041741425171494
+    },
+    {
+        "title": "Endrick desata pasiones por su llegada al Olympique de Lyon: \"Puede ser uno de los mejores delanteros de la Ligue 1\"",
+        "image_url": "https://s3.elespanol.com/2025/12/27/actualidad/1003744071259_260682388_1706x960.jpg",
+        "tags": [
+            "olympique de lyon",
+            "endrick felipe",
+            "real madrid cf",
+            "ligue 1",
+            "deportes",
+            "fútbol",
+            "kylian mbappé"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20251227/endrick-desata-pasiones-llegada-olympique-lyon-puede-mejores-delanteros-ligue/1003744071234_0.html",
+        "date": "2025-12-27 16:51:57",
+        "sentiment_score": -0.2555745393037796
+    },
+    {
+        "title": "Irene Soto, la joven con síndrome de Down dará las Campanadas más inclusivas de la televisión",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/27/695008a5c7c528-12880015.jpeg",
+        "tags": [
+            "capaces"
+        ],
+        "link": "https://www.20minutos.es/capaces/irene-soto-joven-con-sindrome-down-dara-las-campanadas-mas-inclusivas-television_6915215_0.html",
+        "date": "2025-12-27 16:43:32",
+        "sentiment_score": -0.3697548843920231
+    },
+    {
+        "title": "La Casa Real publica las imágenes más virales de la reina Letizia este 2025",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2025/01/11/40DEF2AC-AFE3-476A-8C5C-69B0528AFEC1/reina-letizia-princesa-leonor-funden-emotivo-abrazo-mirada-rey-felipe-antes-zarpar-juan-sebastian-elcano_70.jpg?crop=1143%2C643%2Cx0%2Cy189&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "ondacero",
+            "noticias",
+            "sociedad"
+        ],
+        "link": "https://www.ondacero.es/noticias/sociedad/casa-real-publica-imagenes-mas-virales-reina-letizia-este-2025_20251227695008faaf09df5010950bbe.html",
+        "date": "2025-12-27 16:29:15",
+        "sentiment_score": 0.861626148223877
+    },
+    {
+        "title": "Nowell regresa ante el Burgos",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/841e5c77-c25d-4077-9c52-3b462e5b29f5_16-9-aspect-ratio_default_0_x818y546.jpg",
+        "tags": [
+            "baskonia",
+            "burgos",
+            "regresa",
+            "nowell"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2025/12/27/nowell-regresa-baskonia-burgos-10517226.html",
+        "date": "2025-12-27 16:11:34",
+        "sentiment_score": 0.2667059153318405
+    },
+    {
+        "title": "El plan discreto y cultural de los reyes Felipe y Letizia con sus hijas, Leonor y Sofía: mucha cercanía y looks cómodos",
+        "image_url": "https://images.ecestaticos.com/6UsTgy3swo_x5ERO-wX_rGCIcF0=/0x0:800x600/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5bd%2F190%2F8e1%2F5bd1908e1bb3e3460688b6b986fa55e6.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2025-12-27/plan-discreto-cultural-reyes-felipe-letizia-leonor-sofia_4275588/",
+        "date": "2025-12-27 16:09:00",
+        "sentiment_score": 0.33711954951286316
+    },
+    {
+        "title": "Los orígenes canarios de la periodista Lydia Lozano",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e220e438-6f70-4c26-a9c5-6f7090105bde_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lydia lozano",
+            "universidad complutense de madrid",
+            "isla",
+            "matrimonio",
+            "periodismo",
+            "españa",
+            "palmera"
+        ],
+        "link": "https://www.laprovincia.es/sociedad/2025/12/27/origenes-canarios-periodista-lydia-lozano-125179362.html",
+        "date": "2025-12-27 16:06:34",
+        "sentiment_score": 0.18442124128341675
+    },
+    {
+        "title": "Real Madrid tiene esta cantidad de títulos en la Supercopa de España",
+        "image_url": "https://pxcdn.meridiano.net/122025/1766852332000.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/real-madrid-tiene-esta-cantidad-de-titulos-en-la-supercopa-de-espana-202512271250",
+        "date": "2025-12-27 16:05:00",
+        "sentiment_score": 0.8244222607463598
+    },
+    {
+        "title": "Cierran todos los accesos al Parc Fluvial del Besòs por riesgo de desbordamiento",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/27/gran-barcelona/1003742719366_15553426_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "sant adrià de besòs",
+            "santa coloma de gramenet",
+            "temporal",
+            "lluvias"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251227/cierran-accesos-parc-fluvial-besos-riesgo-desbordamiento/1003742719365_0.html",
+        "date": "2025-12-27 17:14:16",
+        "sentiment_score": -0.4985368028283119
+    },
+    {
+        "title": "Una mujer en estado crítico tras caerle una farola por el temporal en Sabadell (Barcelona)",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/07/ambulancia-cataluna-barcelona.jpg",
+        "tags": [
+            "mal tiempo",
+            "sucesos",
+            "heridos",
+            "barcelona",
+            "el tiempo"
+        ],
+        "link": "https://theobjective.com/sociedad/suceso/2025-12-27/estado-critico-temporal/",
+        "date": "2025-12-27 17:13:35",
+        "sentiment_score": -0.8504044869914651
+    },
+    {
+        "title": "El maître Julián Hervás, elegido vilcheño del año",
+        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/27/El%20Matre%20Julin%20Hervs%20vilcheo%20del%20ao%20(2)%20(1)-kCNC-U240679779554YNG-1200x840@Ideal.jpg",
+        "tags": [
+            "gastronomía",
+            "españa",
+            "adeje",
+            "ibiza"
+        ],
+        "link": "https://www.ideal.es/jaen/provincia-jaen/maitre-julian-hervas-elegido-vilcheno-ano-20251227180100-nt.html",
+        "date": "2025-12-27 17:11:57",
+        "sentiment_score": 0.6820024102926254
+    },
+    {
+        "title": "Alquilar una casa rural en nochevieja es casi imposible: el 70% están ya ocupadas",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/27/3A42DEC6-96EF-4304-8924-E1DB3A236A64/alquilar-casa-rural-nochevieja-casi-imposible-70-estan-ocupadas_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "antena 3 noticias",
+            "economía"
+        ],
+        "link": "https://www.antena3.com/noticias/economia/alquilar-casa-rural-nochevieja-casi-imposible-70-estan-ocupadas_2025122769501337af09df501095145e.html",
+        "date": "2025-12-27 17:11:19",
+        "sentiment_score": 0.233906090259552
+    },
+    {
+        "title": "FC Barcelona tiene esta cantidad de títulos en la Supercopa de España",
+        "image_url": "https://pxcdn.meridiano.net/122025/1766856097768.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/fc-barcelona-tiene-esta-cantidad-de-titulos-en-la-supercopa-de-espana-2025122713100",
+        "date": "2025-12-27 17:10:00",
+        "sentiment_score": 0.9134334772825241
+    },
+    {
+        "title": "Marc, catalán viviendo en Corea del Sur, sobre su piso: \"Pago 361 euros incluido alquiler, luz, gas y agua\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/24/un-hombre-metiendo-las-llaves-en-la-cerradura-de-una-vivienda-y-abriendo-la-puerta.jpeg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.huffingtonpost.es/sociedad/marc-catalan-viviendo-corea-sur-sobre-piso-pago-361-euros-incluido-alquiler-luz-gas-agua-f202512.html",
+        "date": "2025-12-27 17:06:14",
+        "sentiment_score": 0.191013902425766
+    },
+    {
+        "title": "Rosario, inquilina en Barcelona desde hace más de 26 años: “Echan a todos los vecinos para alquilarle a estudiantes”",
+        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027042_260112010_1706x960.jpg",
+        "tags": [
+            "soft",
+            "turismo",
+            "alquiler de viviendas",
+            "sociedad",
+            "vivienda",
+            "barcelona"
+        ],
+        "link": "https://www.elespanol.com/sociedad/20251227/rosario-inquilina-barcelona-hace-anos-echan-vecinos-alquilarle-estudiantes/1003744026609_0.html",
+        "date": "2025-12-27 17:04:02",
+        "sentiment_score": -0.5897363610565662
+    },
+    {
+        "title": "147 inmigrantes realojados tras el desalojo del antiguo instituto B9 de Badalona",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/18/ADC5E069-4268-46C5-80BF-DEAA764908AA/okupas-badalona_98.jpg?crop=1920%2C1080%2Cx0%2Cy57&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "españa",
+            "antena 3 noticias"
+        ],
+        "link": "https://www.antena3.com/noticias/espana/147-inmigrantes-realojados-desalojo-antiguo-instituto-badalona_202512276950115022f0db7dafff1f5a.html",
+        "date": "2025-12-27 17:03:45",
+        "sentiment_score": -0.41193530708551407
+    },
+    {
+        "title": "¿Y después de las obras en el centro, qué? Las asignaturas pendientes de Lugo",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/05/16/2025051619174367635.jpg",
+        "tags": [
+            "lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/lugo/pavimento-mira-futuro-final-obras-eternas/202512271801331932289.html",
+        "date": "2025-12-27 17:01:33",
+        "sentiment_score": 0.7851511053740978
     }
 ];
