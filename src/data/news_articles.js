@@ -1,389 +1,5 @@
 export default [
     {
-        "title": "La impactante goleada de unos de los rivales de Argentina en el Mundial 2026: el tanto de antología bajo la mirada de Zidane",
-        "image_url": "https://www.infobae.com/resizer/v2/2WGSWYYSLRHAXDOZZMVZ7HEMNQ.jpg?auth=711ffa6823c8ee3b25c35994b4b35f8e8fd20fb52958428b29bcbf7e9bd72938&height=1080&smart=true&width=1920",
-        "tags": [
-            "selección de argelia",
-            "zinedine zidane",
-            "copa de áfrica",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/24/la-impactante-goleada-de-unos-de-los-rivales-de-argentina-en-el-mundial-2026-el-tanto-de-antologia-bajo-la-mirada-de-zidane/",
-        "date": "2025-12-24 21:16:17",
-        "sentiment_score": 0.5981265977025032
-    },
-    {
-        "title": "Felipe VI pronuncia por primera vez de pie su Mensaje de Navidad con el Palacio Real de nuevo como escenario",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251224211626.jpg?fit=1920%2C1107&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/felipe-vi-pronuncia-por-primera-vez-de-pie-su-mensaje-de-navidad-con-el-palacio-real-de-nuevo-como-escenario/",
-        "date": "2025-12-24 21:00:04",
-        "sentiment_score": -0.07506643235683441
-    },
-    {
-        "title": "Felipe VI pronuncia por primera vez de pie su Mensaje de Navidad y vuelve a elegir el Palacio Real",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/12/24/felipe-vi-pronuncia-su-5391803.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/actualidad/2025/12/24/felipe-vi-pronuncia-por-primera-vez-de-pie-su-mensaje-de-navidad-de-nuevo-desde-el-palacio-real-1881217-daa.html",
-        "date": "2025-12-24 20:47:48",
-        "sentiment_score": 0.136160209774971
-    },
-    {
-        "title": "Felipe VI pronuncia por primera vez de pie su Mensaje de Navidad con el Palacio Real de nuevo como escenario",
-        "image_url": "https://www.infobae.com/resizer/v2/SOKTXTDAMVCTHD2NW5F6FKECZI.jpg?auth=b150796ce4f6909b9928ce2b35e54ca1d732968d80f1bd71418261d11b43df28&height=1107&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/24/felipe-vi-pronuncia-por-primera-vez-de-pie-su-mensaje-de-navidad-con-el-palacio-real-de-nuevo-como-escenario/",
-        "date": "2025-12-24 20:45:20",
-        "sentiment_score": 0.13403983414173126
-    },
-    {
-        "title": "Azcón: \"Brillante y acertadísimo\"",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/12/15/jorge-azcon-comparece-tras-firmar-el-decreto-de-disolucion-de-las-cortes-de-aragon-y-convocar-elecciones-13.jpeg",
-        "tags": [
-            "aragón"
-        ],
-        "link": "https://www.heraldo.es/noticias/aragon/2025/12/24/jorge-azcon-aplaude-el-discurso-de-navidad-del-rey-brillante-y-acertadisimo-1881216.html",
-        "date": "2025-12-24 20:39:25",
-        "sentiment_score": 0.44772330671548843
-    },
-    {
-        "title": "Mensaje de Navidad",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/24/2025122421314862777.avif",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.mundiario.com/articulo/opiniones/mensaje-de-navidad/20251224213616368176.html",
-        "date": "2025-12-24 20:36:16",
-        "sentiment_score": 0.30315106362104416
-    },
-    {
-        "title": "Esta semana en tu quiosco: Lucía Solla Sobral, el debut literario más iluminador, en El Cultural",
-        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744068659_260649851_1706x1280.jpg",
-        "tags": [
-            "literatura",
-            "el cultural",
-            "teatro",
-            "cine",
-            "ciencia",
-            "música"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/20251224/semana-quiosco-lucia-solla-sobral-debut-literario-iluminador-cultural/1003744068635_0.html",
-        "date": "2025-12-24 20:35:04",
-        "sentiment_score": 0.29411208629608154
-    },
-    {
-        "title": "Los 50 años de democracia, la crisis del orden mundial,... lee íntegro el discurso",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/24/694c479a86cd05-11408600.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/los-50-anos-democracia-crisis-orden-mundial-los-desafios-valores-espana-lee-integro-discurso-navidad-felipe-vi_6914616_0.html",
-        "date": "2025-12-24 20:34:59",
-        "sentiment_score": -0.37674730271101
-    },
-    {
-        "title": "Innovadora puesta en escena del discurso del Rey: las claves de su mensaje de Nochebuena",
-        "image_url": "https://i.ytimg.com/vi/r-etpQMsHXo/hqdefault.jpg",
-        "tags": [
-            "casas reales"
-        ],
-        "link": "https://www.estrelladigital.es/articulo/casas-reales/mensaje-rey-felipe-vi-discurso-nochebuena-navidad-innovadora-puesta-escena/20251224213411438776.html",
-        "date": "2025-12-24 20:34:11",
-        "sentiment_score": 0.7779121734201908
-    },
-    {
-        "title": "El Rey llama a preservar la convivencia, pide diálogo y alerta de \"hastío\" por la tensión política",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2025/12/24/694c4b5931d38.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lavozdealmeria.com/actualidad/421826/rey-llama-preservar-convivencia-pide-dialogo-ejemplaridad-alerta-hastio-tension-politica.html",
-        "date": "2025-12-24 20:32:29",
-        "sentiment_score": 0.15409109368920326
-    },
-    {
-        "title": "Detenido un hombre por sextorsión y acoso en Anzoátegui",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias carabobo",
-            "noticias carabobo 24",
-            "detenido por sextorsión",
-            "noticias24 sucesos",
-            "octubre 2025",
-            "feliz navidad",
-            "bonos patria",
-            "portada",
-            "noticias24carabobo en google news",
-            "noticias 24 carabobo",
-            "combo clap",
-            "diciembre 24",
-            "noticias de hoy carabobo",
-            "noticias24carabobo",
-            "noticias 24 venezuela",
-            "noticias de hoy valencia",
-            "noticias 24 actualidad",
-            "n24carabobo",
-            "noticia de carabobo",
-            "noticias 24 horas carabobo",
-            "sucesos",
-            "noticias24 carabobo",
-            "sucesos (+destacados)",
-            "noticias24",
-            "noticias 24 carabobo hoy",
-            "24 de diciembre",
-            "noticias 24",
-            "bonos patria diciembre 2025",
-            "salud (+destacados)"
-        ],
-        "link": "https://noticias24carabobo.com/detenido-un-hombre-por-sextorsion-y-acoso-en-anzoategui/",
-        "date": "2025-12-24 22:00:01",
-        "sentiment_score": -0.6429632548242807
-    },
-    {
-        "title": "Camila Diez Canseco sorprende al elogiar la relación de su padre, Mauricio Diez Canseco, con la modelo argentina Aixa Sosa",
-        "image_url": "https://www.infobae.com/resizer/v2/IZIPZPAI3BFCBLCFTFAWIQNG4A.png?auth=000952fbd3a950d6345e1d8940c0ec74183016df704942ac0a9fb11be239fa08&height=720&smart=true&width=1280",
-        "tags": [
-            "camila diez canseco",
-            "aixa sosa",
-            "mauricio diez canseco",
-            "peru-entretenimiento"
-        ],
-        "link": "https://www.infobae.com/peru/2025/12/24/camila-diez-canseco-sorprende-al-elogiar-la-relacion-de-su-padre-mauricio-diez-canseco-con-la-modelo-argentina-aixa-sosa/",
-        "date": "2025-12-24 21:02:44",
-        "sentiment_score": 0.8512527011334896
-    },
-    {
-        "title": "Aemet confirma que la Navidad en España está siendo la más fría de los últimos 15 años: \"Será algo cada vez menos frecuente\"",
-        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744068816_260651900_1706x960.jpg",
-        "tags": [
-            "temperaturas",
-            "navidad",
-            "meteorología",
-            "nieve",
-            "frío",
-            "aemet"
-        ],
-        "link": "https://www.elespanol.com/ciencia/meteorologia/20251224/aemet-confirma-navidad-espana-fria-ultimos-anos-vez-frecuente/1003744068776_0.html",
-        "date": "2025-12-24 20:23:09",
-        "sentiment_score": -0.7569945342838764
-    },
-    {
-        "title": "Navidad, campo de minas para 7,3 M de abstemios como Álvaro que dejó el alcohol hace un año: \"Me voy para evitar las fiestas\"",
-        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744068960_260653923_1706x960.jpg",
-        "tags": [
-            "reportajes",
-            "navidad",
-            "alcohol",
-            "sanidad",
-            "sociedad"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251224/navidad-campo-minas-abstemios-alvaro-dejo-alcohol-hace-ano-voy-evitar-fiestas/1003744068937_0.html",
-        "date": "2025-12-24 20:23:07",
-        "sentiment_score": 0.29262247681617737
-    },
-    {
-        "title": "Cayó desalmado que agredió a su madre tras fuerte discusión por dinero en Anzoátegui",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/Cicpc-detuvo-a-agresor-en-Anzoategui.jpg",
-        "tags": [
-            "anzoátegui",
-            "actualidad",
-            "josé daniel bernaez gonzález",
-            "sucesos región oriental",
-            "sucesos",
-            "región oriental",
-            "regiones",
-            "agresión"
-        ],
-        "link": "https://lapatilla.com/2025/12/24/cayo-desalmado-que-agredio-a-su-madre-tras-fuerte-discusion-por-dinero-en-anzoategui/",
-        "date": "2025-12-24 20:21:15",
-        "sentiment_score": -0.5650169719010592
-    },
-    {
-        "title": "El líder de la secta santera de Tenerife captaba a mujeres para que vivieran con él y su novia: hacían rituales con 'popper'",
-        "image_url": "https://s3.elespanol.com/2025/12/24/reportajes/1003744069088_260655285_1706x960.jpg",
-        "tags": [
-            "espiritualidad",
-            "reportajes",
-            "policía nacional",
-            "sectas",
-            "santa cruz de tenerife (municipio)",
-            "canarias"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251224/lider-secta-santera-tenerife-captaba-mujeres-vivieran-novia-hacian-rituales-popper/1003744068944_0.html",
-        "date": "2025-12-24 20:20:50",
-        "sentiment_score": -0.5332476794719696
-    },
-    {
-        "title": "El Teatro Príncipe de Vitoria cumple cien años: de Carlos Gardel, Guridi y el lujo de un casino al total olvido institucional",
-        "image_url": "https://static.eldiario.es/clip/458ac3e7-c759-427c-ac7e-bc216c7c5e03_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "vitoria",
-            "gernika",
-            "gipuzkoa",
-            "rodrigo saiz",
-            "imanol pradales",
-            "maialen ferreira",
-            "bilbao",
-            "ertzaintza",
-            "caso de miguel",
-            "kutxabank",
-            "pp vasco",
-            "irún",
-            "emergencia climática",
-            "feminismo",
-            "barakaldo",
-            "eroski",
-            "país vasco",
-            "euskadi",
-            "sindicatos",
-            "rubén pereda",
-            "pnv",
-            "belén ferreras",
-            "actualidad",
-            "álava",
-            "andar en bici",
-            "sociedad",
-            "eldiario.es/euskadi",
-            "ignacio escolar",
-            "montai",
-            "eldiario.es",
-            "pse-ee",
-            "ela",
-            "brands",
-            "hondarribia",
-            "corrupción",
-            "eh bildu",
-            "igualdad",
-            "bbva",
-            "euskal herria",
-            "política",
-            "educación",
-            "donostia",
-            "lab",
-            "getxo",
-            "eldiarionorte.es",
-            "bizkaia",
-            "osakidetza",
-            "iker rioja andueza",
-            "upv/ehu",
-            "eibar",
-            "lanbide",
-            "eldiario.eus"
-        ],
-        "link": "https://www.eldiario.es/euskadi/teatro-principe-vitoria-cumple-cien-anos-carlos-gardel-guridi-lujo-casino-total-olvido-institucional_1_12867685.html",
-        "date": "2025-12-24 20:10:52",
-        "sentiment_score": -0.07461243867874146
-    },
-    {
-        "title": "Las multas a bicicletas y patinetes eléctricos en Barcelona se disparan casi un 50% en un año",
-        "image_url": "https://static.eldiario.es/clip/7d02d4af-e79c-48a4-96ee-9650af982a14_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias",
-            "actualidad",
-            "economía",
-            "política",
-            "ignacio escolar",
-            "cataluña",
-            "barcelona",
-            "periodismo independiente"
-        ],
-        "link": "https://www.eldiario.es/catalunya/multas-bicicletas-patinetes-electricos-barcelona-disparan-50-ano_1_12868466.html",
-        "date": "2025-12-24 20:10:49",
-        "sentiment_score": -0.10058146715164185
-    },
-    {
-        "title": "Estrategia cuántica y la concesión de una factoría europea de IA marcan el año que ha consolidado a Galicia",
-        "image_url": "https://s3.elespanol.com/2024/05/15/invertia/disruptores/autonomias/galicia/855424551_242305995_1706x960.jpg",
-        "tags": [
-            "tecnología",
-            "transformación digital",
-            "galicia",
-            "innovación"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/galicia/20251224/estrategia-cuantica-concesion-factoria-europea-ia-marcan-ano-consolidado-galicia/1003744064723_0.html",
-        "date": "2025-12-24 20:10:00",
-        "sentiment_score": 0.8434807248413563
-    },
-    {
-        "title": "Marcus Rashford y un mensaje claro desde Barcelona",
-        "image_url": "https://mundonow.com/wp-content/uploads/2025/12/shutterstock_2712051255-550x367.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://mundonow.com/marcus-rashford-y-un-mensaje-claro-desde-barcelona/",
-        "date": "2025-12-24 20:03:20",
-        "sentiment_score": 0.07344774901866913
-    },
-    {
-        "title": "Las reacciones al mensaje de Felipe VI evidencian respaldo en el Partido Popular y críticas desde la izquierda",
-        "image_url": "https://www.infobae.com/resizer/v2/OSTOYBP3XBASNFVOEQTEM3IMFQ.jpeg?auth=9454e446bb1ce3d71a92028203abf3eb17fefe833af300174f995d20784f66f1&height=900&smart=true&width=1600",
-        "tags": [
-            "podemos",
-            "sumar",
-            "españa-noticias",
-            "españa-sociedad",
-            "pp",
-            "felipe vi",
-            "juanma moreno",
-            "isabel díaz ayuso",
-            "gabriel rufián",
-            "alberto núñez feijóo",
-            "cuca gamarra",
-            "josé luis martínez almeida"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/25/las-reacciones-al-mensaje-de-felipe-vi-evidencian-respaldo-en-el-partido-popular-y-criticas-desde-la-izquierda/",
-        "date": "2025-12-25 00:53:04",
-        "sentiment_score": -0.7656395621597767
-    },
-    {
-        "title": "La misión española en Irak, clave en la lucha contra el terrorismo y la estabilidad de una zona de alto riesgo",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/24/694bd9864cf25.r_d.1290-727-4688.jpeg",
-        "tags": [
-            "defensa y fuerzas armadas"
-        ],
-        "link": "https://www.eldebate.com/espana/defensa/20251225/mision-espanola-irak-clave-lucha-contra-terrorismo-estabilidad-zona-alto-riesgo_368489.html",
-        "date": "2025-12-25 00:30:00",
-        "sentiment_score": 0.27344532310962677
-    },
-    {
-        "title": "Unas 60 personas desalojadas en Badalona pasarán la Nochebuena debajo de un puente",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/12/25/decenas-de-personas-bajo-el-puente-de-la-autopista-c31.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2025/12/25/unas-60-personas-desalojadas-en-badalona-pasaran-la-nochebuena-debajo-de-un-puente-1881224.html",
-        "date": "2025-12-25 00:47:53",
-        "sentiment_score": -0.13604826480150223
-    },
-    {
-        "title": "Guillem Pujol y Laura Rodríguez favoritos en la Copa Nadal",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/24/694c04737431b.jpeg",
-        "tags": [
-            "esports cope"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/guillem-pujol-laura-rodriguez-favoritos-copa-nadal-20251225_3277417.html",
-        "date": "2025-12-24 23:05:00",
-        "sentiment_score": 0.0951666533946991
-    },
-    {
-        "title": "El gran gesto navideño de Raphinha: Juguetes, música y filosofía \"Sankofa\" en Brasil",
-        "image_url": "https://pxcdn.meridiano.net/122025/1766621712329.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/usa/futbol/espanol/el-gran-gesto-navideno-de-raphinha-juguetes-musica-y-filosofia-sankofa-en-brasil-202512241940",
-        "date": "2025-12-24 23:04:00",
-        "sentiment_score": 0.10865089297294617
-    },
-    {
         "title": "Pilar García de la Granja, sobre el abono transporte: \"Nos cuesta 1.371 millones de euros al año y beneficia a aquellos que combinan varios transportes más allá de su región, viven en Ávila y trabajan en Madrid\"",
         "image_url": "https://imagenes.cope.es/files/webp_80_80/uploads/2025/12/24/694b8741ccaed.png",
         "tags": [
@@ -422,82 +38,6 @@ export default [
         "link": "https://www.eleconomista.es/actualidad/noticias/13676450/12/25/nueva-edad-de-jubilacion-control-a-los-bizum-la-baliza-toma-nota-de-los-cambios-que-trae-2026.html",
         "date": "2025-12-25 05:55:02",
         "sentiment_score": -0.16490726172924042
-    },
-    {
-        "title": "Navidad en Málaga es sinónimo a churros con chocolate: bares y cafeterías en las que hacer cola y disfrutar",
-        "image_url": "https://static.grupojoly.com/clip/50d3ae00-806a-4478-8a32-c87f34668c67_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gastronomía málaga",
-            "bares málaga",
-            "qué ver en málaga",
-            "qué hacer en málaga"
-        ],
-        "link": "https://www.malagahoy.es/la-farola/navidad-malaga-churros-chocolate-bares-cafeterias-cola-disfrutar_0_2005507821.html",
-        "date": "2025-12-25 05:00:52",
-        "sentiment_score": 0.22494880855083466
-    },
-    {
-        "title": "La gestión de Barcelona, la OPA al Sabadell y Rodalies, temas del año mejor valorados por los lectores en Catalunya",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d2056daa-e495-46c6-a493-682857b7730c_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "2025",
-            "catalunya",
-            "informativas",
-            "tendencias"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/tendencias-informativas-catalunya-2025-125057318-rm/index.html",
-        "date": "2025-12-25 05:00:30",
-        "sentiment_score": 0.05204415321350098
-    },
-    {
-        "title": "Alcoy - El Comtat | 'Arre, borriquito': un villancico universal obra del compositor alcoyano Ricardo Boronat",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1747474.jpg",
-        "tags": [
-            "alcoy - el comtat"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/alcoy-el-comtat/arre-borriquito-un-villancico-universal-obra-del-compositor-alcoyano-ricardo-boronat",
-        "date": "2025-12-25 05:00:03",
-        "sentiment_score": 0.0824614018201828
-    },
-    {
-        "title": "Las aseguradoras prevén un aumento del 10% en las reclamaciones por accidentes estas navidades",
-        "image_url": "https://okdiario.com/img/2025/11/23/trafico5.jpg",
-        "tags": [
-            "accidentes",
-            "aseguradoras",
-            "economía",
-            "navidad"
-        ],
-        "link": "https://okdiario.com/economia/aseguradoras-preven-aumento-del-10-reclamaciones-accidentes-estas-navidades-15986648",
-        "date": "2025-12-25 04:45:17",
-        "sentiment_score": 0.205655537545681
-    },
-    {
-        "title": "Más mujeres y menos militares: estos son los cambios de Felipe VI en la Casa Real",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/DVRYYDULWJHMFE7ZI7TNBVW3NQ.jpg?auth=a81578604f2c259fffc70a7654b79e7e204af54439f9e378850bbaaa30abcc35&width=1200",
-        "tags": [
-            "reina letizia",
-            "monarquía",
-            "españa",
-            "felipe vi",
-            "casa real"
-        ],
-        "link": "https://elpais.com/espana/2025-12-25/mas-mujeres-y-menos-militares-estos-son-los-cambios-de-felipe-vi-en-la-casa-real.html",
-        "date": "2025-12-25 04:40:00",
-        "sentiment_score": 0.47412243485450745
-    },
-    {
-        "title": "Uber, Cabify y Bolt se preparan para un complejo 2026",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2025/12/Uber-electrico-cargando.webp",
-        "tags": [
-            "últimas noticias",
-            "lo más leído",
-            "transporte",
-            "en portada 3"
-        ],
-        "link": "https://www.merca2.es/2025/12/25/uber-cabify-bolt-2026-retos-2337911/",
-        "date": "2025-12-25 04:40:00",
-        "sentiment_score": -0.6753946356475353
     },
     {
         "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 25 de diciembre",
@@ -576,16 +116,6 @@ export default [
         "link": "https://www.20minutos.es/vivienda/premiar-quien-alquila-barato-solucion-que-necesita-vivienda-espana_6914443_0.html",
         "date": "2025-12-25 06:00:00",
         "sentiment_score": 0.5923708453774452
-    },
-    {
-        "title": "Exculpado de una gran deuda por \"buena fe\": la justicia le perdona el impago de 213.000 euros a la Seguridad Social",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/169ce9af-9682-42b7-b7ce-461d104e6026_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "seguridad social,sociedad,justicia,deuda,la ley"
-        ],
-        "link": "https://www.elperiodicomediterraneo.com/sociedad/2025/12/25/exculpado-gran-deuda-buena-fe-seguridad-social-dv-125054962.html",
-        "date": "2025-12-25 05:00:45",
-        "sentiment_score": -0.1685919314622879
     },
     {
         "title": "Fallece Roberto Moreno Díaz, catedrático emérito de la ULPGC e impulsor de los estudios de Informática: «Es un día de duelo en la universidad»",
@@ -3303,5 +2833,212 @@ export default [
         "link": "https://www.granadahoy.com/andalucia/moreno-tendra-sudar-vez-camiseta_0_2005519622.html",
         "date": "2025-12-28 05:59:30",
         "sentiment_score": 0.10799586772918701
+    },
+    {
+        "title": "Este es el descarte del Unicaja para enfrentarse al Real Madrid",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/26369f54-4e85-4e6d-8cd5-13937fb064c6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "nihad djedovic",
+            "sergio scariolo",
+            "unicaja",
+            "real madrid",
+            "ibon navarro",
+            "movistar"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/28/descarte-unicaja-enfrentarse-real-madrid-125203681.html",
+        "date": "2025-12-28 17:11:32",
+        "sentiment_score": -0.06501995772123337
+    },
+    {
+        "title": "Toni Kroos sobre Xabi Alonso: \"Hay que dar tiempo, pero sabemos lo que significa el Madrid\"",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "toni kroos",
+            "real madrid",
+            "deportes",
+            "fútbol",
+            "xabi alonso"
+        ],
+        "link": "https://www.elnacional.com/2025/12/toni-kroos-sobre-xabi-alonso-hay-que-dar-tiempo-pero-sabemos-lo-que-significa-el-madrid/",
+        "date": "2025-12-28 17:03:24",
+        "sentiment_score": -0.279467448592186
+    },
+    {
+        "title": "EN DIRECTO: Liga Endesa | Real Madrid - Unicaja",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dde2be5e-0b9f-4f4c-b850-76312af9c74c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "acb partidos",
+            "partidos acb en directo",
+            "partidos en directo",
+            "partidos baloncesto",
+            "partidos acb",
+            "real madrid vs unicaja en directo",
+            "real madrid vs unicaja",
+            "real madrid unicaja en directo"
+        ],
+        "link": "https://www.laopiniondemalaga.es/deportes/baloncesto/acb/2025-2026/r-madrid-unicaja-30535_10_12_6210_6203.html",
+        "date": "2025-12-28 17:00:50",
+        "sentiment_score": -0.1089949905872345
+    },
+    {
+        "title": "Carles Vilarrubí en el Tibidabo de los Andreu",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/12/01/business/813928665_11988576_1706x960.jpg",
+        "tags": [
+            "carles vilarrubí",
+            "tibidabo",
+            "business"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20251228/carles-vilarrubi-tibidabo-andreu/1003742719482_0.html",
+        "date": "2025-12-28 16:17:03",
+        "sentiment_score": -0.7462727278470993
+    },
+    {
+        "title": "El as en la manga de Laporta para poder fichar a Haaland y Julián Álvarez de golpe",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/21/culemania/culemaniacos/1003742709466_15429455_1706x960.jpg",
+        "tags": [
+            "barça",
+            "fake news",
+            "erling haaland",
+            "fichajes barça",
+            "culemaníacos",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251228/manga-laporta-poder-fichar-haaland-julian-alvarez/1003742719477_0.html",
+        "date": "2025-12-28 16:04:49",
+        "sentiment_score": 0.4887801930308342
+    },
+    {
+        "title": "“Vinicius no habría durado ni dos semanas en mi Real Madrid”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a2ef6fcb-24e2-4672-be1c-71a560d563c6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "durado",
+            "semanas",
+            "fútbol",
+            "xabi alonso",
+            "vinicius",
+            "real",
+            "habria"
+        ],
+        "link": "https://www.noticiasdenavarra.com/futbol/2025/12/28/vinicius-habria-durado-semanas-real-futbol-xabi-alonso-10519243.html",
+        "date": "2025-12-28 16:03:10",
+        "sentiment_score": -0.7244826704263687
+    },
+    {
+        "title": "Javier Viar, aquel ‘médico’ de cuerpo y alma",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/575e4eff-45d3-406e-a532-3f5c9356940a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "viar",
+            "bilbao",
+            "javier",
+            "bellas",
+            "artes",
+            "cuerpo",
+            "alma",
+            "medico"
+        ],
+        "link": "https://www.deia.eus/contando-historias/2025/12/28/javier-viar-medico-cuerpo-alma-bellas-artes-bilbao-10518651.html",
+        "date": "2025-12-28 16:00:39",
+        "sentiment_score": 0.16866719722747803
+    },
+    {
+        "title": "\"Si acabo en la calle con la niña, sí intervienen los Servicios Sociales”: madre de una niña de 3 años relata su odisea para conseguir un piso en Barcelona",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/04/693195195bafd.png",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.cope.es/actualidad/sociedad/noticias/acabo-calle-nina-intervienen-servicios-sociales-madre-nina-3-anos-relata-odisea-conseguir-piso-barcelona-20251228_3265619.html",
+        "date": "2025-12-28 17:06:19",
+        "sentiment_score": -0.16191919147968292
+    },
+    {
+        "title": "Pere Navarro, director de la DGT: \"Mover cada día el coche para transportar a una sola persona es un lujo\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/07/23/pere-navarro-senala-problematica-accesos-grandes-ciudades.jpeg",
+        "tags": [
+            "movilidad"
+        ],
+        "link": "https://www.20minutos.es/motor/movilidad/pere-navarro-director-dgt-mover-cada-dia-coche-transportar-sola-persona-lujo_6911501_0.html",
+        "date": "2025-12-28 17:00:00",
+        "sentiment_score": 0.17434020340442657
+    },
+    {
+        "title": "Los puertos españoles baten un nuevo récord histórico de cruceros, con un aumento del 10%",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/ZKH3GNF2ZRLPJOGLEITLDPGQDQ.jpg?auth=5148a0cdf819e952815c3e7331215ccd9523df19e04fc18a7d07310a61c3be26&width=1200",
+        "tags": [
+            "turismo",
+            "transporte",
+            "empresas",
+            "puertos del estado",
+            "cruceros",
+            "puertos",
+            "transporte marítimo"
+        ],
+        "link": "https://cincodias.elpais.com/companias/2025-12-28/los-puertos-espanoles-baten-un-nuevo-record-historico-de-cruceros-con-un-aumento-del-10.html",
+        "date": "2025-12-28 16:58:28",
+        "sentiment_score": -0.02049754559993744
+    },
+    {
+        "title": "El llamativo análisis de un histórico rival de Messi sobre el impacto que podría tener en el Mundial 2026: “Dudo que funcione”",
+        "image_url": "https://www.infobae.com/resizer/v2/CC5LKBYMMFDW3JFPLXKOC7TCPY.JPG?auth=4fad43426ee563b61903850179cf55c463000ec7a2daec257a4777fce801bc75&height=3513&smart=true&width=5053",
+        "tags": [
+            "deportes-internacional",
+            "lionel messi",
+            "thomas muller",
+            "selección argentina",
+            "mundial 2026",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/28/el-llamativo-analisis-de-un-historico-rival-de-messi-sobre-el-impacto-que-podria-tener-en-el-mundial-2026-dudo-que-funcione/",
+        "date": "2025-12-28 16:57:12",
+        "sentiment_score": -0.47528279945254326
+    },
+    {
+        "title": "Ni Bastoni ni Schlotterbeck: el central 'low-cost' que se ofrece al Barça para ser el fichaje estrella de 2026",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/18/culemania/culemaniacos/1003742717271_15554778_1706x960.jpg",
+        "tags": [
+            "fichajes barça",
+            "barça",
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251228/bastoni-schlotterbeck-central-low-cost-barca-fichaje-estrella/1003742719485_0.html",
+        "date": "2025-12-28 16:46:56",
+        "sentiment_score": -0.6744763366878033
+    },
+    {
+        "title": "El otro Araujo al que ofrecen al Barça en plena 'Operación Central': \"Volverán a buscarle\"",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/28/image-50c0dccd-acb8-463c-bc1a-5cf4f1e8e86a-85-2560-1440.jpeg",
+        "tags": [
+            "mercado de fichajes 2026 2026",
+            "football"
+        ],
+        "link": "https://www.eurosport.es/futbol/mercado-de-fichajes-2026/2026/tomas-araujo-interes-barcelona-central-todos-juegan-defensas-adelantadas-volveran-a-buscarle_sto23254151/story.shtml",
+        "date": "2025-12-28 16:37:07",
+        "sentiment_score": 0.22304576635360718
+    },
+    {
+        "title": "Un único acertante en Basauri gana más de un millón de euros en La Primitiva",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/54f57997-dc0a-4de5-b237-f8541246eaaf_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "basauri",
+            "gana",
+            "acertante",
+            "unico",
+            "millon"
+        ],
+        "link": "https://www.deia.eus/bizkaia/2025/12/28/unico-acertante-basauri-gana-millon-10519290.html",
+        "date": "2025-12-28 16:34:02",
+        "sentiment_score": 0.007107749581336975
+    },
+    {
+        "title": "La Navidad \"hecha a mano\" en Vitoria",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ebf90780-73e4-46fa-9668-6f535b16fb67_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "navidad",
+            "mano",
+            "vitoria",
+            "hecha"
+        ],
+        "link": "https://www.noticiasdealava.eus/gasteiz/2025/12/28/navidad-hecha-mano-vitoria-10519166.html",
+        "date": "2025-12-28 16:30:56",
+        "sentiment_score": 0.18964362144470215
     }
 ];
