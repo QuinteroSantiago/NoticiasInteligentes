@@ -1,123 +1,5 @@
 export default [
     {
-        "title": "Pilar García de la Granja, sobre el abono transporte: \"Nos cuesta 1.371 millones de euros al año y beneficia a aquellos que combinan varios transportes más allá de su región, viven en Ávila y trabajan en Madrid\"",
-        "image_url": "https://imagenes.cope.es/files/webp_80_80/uploads/2025/12/24/694b8741ccaed.png",
-        "tags": [
-            "economía de bolsillo con pilar garcía de la granja"
-        ],
-        "link": "https://www.cope.es/programas/herrera-en-cope/economia-de-bolsillo/audios/pilar-garcia-granja-sobre-abono-transporte-cuesta-1-371-millones-euros-ano-beneficia-combinan-transportes-region-viven-avila-trabajan-madrid-20251225_3276960.html",
-        "date": "2025-12-25 06:19:03",
-        "sentiment_score": -0.05022069811820984
-    },
-    {
-        "title": "Aquellos maravillosos años que nunca volverán: así celebraba la familia real española la Navidad y así lo hace ahora",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/10/15/los-reyes-juan-carlos-y-sofia-los-reyes-felipe-letizia-y-sus-hijos-la-infanta-elena-y-sus-hijos-y-la-infanta-cristina-y-los-suyos-en-el-80-cumpleanos-de-la-reina-sofia-en-2008.jpeg",
-        "tags": [
-            "influencers y celebrities"
-        ],
-        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/aquellos-maravillososnos-nunca-volveran-asi-celebraba-familia-real-espanola-navidad-asi-f202512.html",
-        "date": "2025-12-25 06:10:51",
-        "sentiment_score": 0.15681402385234833
-    },
-    {
-        "title": "Tren de la Navidad de Madrid: horarios, fechas de los viajes, precio de entradas y recorrido",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/17/6942b8cbf11546-35978018.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/madrid/tren-navidad-madrid-horarios-fechas-viajes-precio-entradas-recorrido_6911802_0.html",
-        "date": "2025-12-25 06:00:00",
-        "sentiment_score": 0.24670394882559776
-    },
-    {
-        "title": "Nueva edad de jubilación, control a los bizum, la baliza...: toma nota de los cambios que trae 2026",
-        "image_url": "https://s10.s3c.es/imag/_v0/2122x1158/4/b/2/1200x655_clndr-istock.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.eleconomista.es/actualidad/noticias/13676450/12/25/nueva-edad-de-jubilacion-control-a-los-bizum-la-baliza-toma-nota-de-los-cambios-que-trae-2026.html",
-        "date": "2025-12-25 05:55:02",
-        "sentiment_score": -0.16490726172924042
-    },
-    {
-        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 25 de diciembre",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "precio gasolina",
-            "españa-economia",
-            "gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/25/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-de-espana-este-25-de-diciembre/",
-        "date": "2025-12-25 06:30:54",
-        "sentiment_score": -0.19599322974681854
-    },
-    {
-        "title": "El comité de expertos catalán sobre el brote porcino, bajo sospecha",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2025/12/18/021ED028-0C8D-4AFE-9CFA-B649FBA47BD2/69.jpg?crop=7954%2C4474%2Cx0%2Cy414&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "cataluña",
-            "home la razón"
-        ],
-        "link": "https://www.larazon.es/cataluna/comite-expertos-catalan-brote-porcino-sospecha_20251225694ae8b122f0db7daffc5fd9.html",
-        "date": "2025-12-25 06:00:13",
-        "sentiment_score": -0.9359594425186515
-    },
-    {
-        "title": "¿'Avatar 3' en 3D, IMAX o HFR? Elige la mejor opción para disfrutar al máximo de 'Fuego y ceniza' en el cine",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/22/69493edd277212-77918700.jpeg",
-        "tags": [
-            "cine"
-        ],
-        "link": "https://www.20minutos.es/cinemania/noticias/avatar-3d-imax-hfr-mejor-opcion-cine-fuego-ceniza_6911904_0.html",
-        "date": "2025-12-25 06:00:06",
-        "sentiment_score": 0.6906650476157665
-    },
-    {
-        "title": "El pueblo que más nieva de Castilla y León está en León y así pasa la Navidad: \"Esto es otro mundo, recuerda a Laponia\"",
-        "image_url": "https://s3.elespanol.com/2025/12/13/actualidad/1003744054249_260465467_1706x960.jpg",
-        "tags": [
-            "león",
-            "león (provincia)",
-            "nieve",
-            "navidad",
-            "sociedad castilla y león"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/leon/20251225/pueblo-nieva-castilla-leon-pasa-navidad-mundo-recuerda-laponia/1003744054248_0.html",
-        "date": "2025-12-25 06:00:00",
-        "sentiment_score": -0.2943927124142647
-    },
-    {
-        "title": "Estos son los horarios del transporte público de Barcelona para las fiestas de Navidad",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/09/19/68cd286177b41.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.20minutos.es/cataluna/barcelona/estos-son-los-horarios-transporte-publico-barcelona-para-las-fiestas-navidad_6914573_0.html",
-        "date": "2025-12-25 06:00:00",
-        "sentiment_score": -0.06840844824910164
-    },
-    {
-        "title": "Poros, la isla tranquila a un tiro de piedra de Atenas",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/22/69493dc805c1d.r_d.1099-894-2192.jpeg",
-        "tags": [
-            "viajes"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/viajes/20251225/11380976/isla-poros-grecia-cerca-atenas-tranquilidad.html",
-        "date": "2025-12-25 06:00:00",
-        "sentiment_score": 0.6779561042785645
-    },
-    {
-        "title": "Premiar a quien alquila barato: ¿la solución que necesita la vivienda en España?",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/11/6912f05207341.jpeg",
-        "tags": [
-            "vivienda"
-        ],
-        "link": "https://www.20minutos.es/vivienda/premiar-quien-alquila-barato-solucion-que-necesita-vivienda-espana_6914443_0.html",
-        "date": "2025-12-25 06:00:00",
-        "sentiment_score": 0.5923708453774452
-    },
-    {
         "title": "Fallece Roberto Moreno Díaz, catedrático emérito de la ULPGC e impulsor de los estudios de Informática: «Es un día de duelo en la universidad»",
         "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2025/12/25/roberto%20moreno.jpg",
         "tags": [
@@ -3040,5 +2922,288 @@ export default [
         "link": "https://www.noticiasdealava.eus/gasteiz/2025/12/28/navidad-hecha-mano-vitoria-10519166.html",
         "date": "2025-12-28 16:30:56",
         "sentiment_score": 0.18964362144470215
+    },
+    {
+        "title": "Matarazzo se estrena en Zubieta ante la afición txuri-urdin",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/43b43809-312a-4cd3-92b0-4a9546cd4ed6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "matarazzo",
+            "zubieta",
+            "txuri",
+            "aficion",
+            "estrena"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/12/28/matarazzo-estrena-zubieta-aficion-txuri-10520062.html",
+        "date": "2025-12-28 21:54:15",
+        "sentiment_score": 0.5818168669939041
+    },
+    {
+        "title": "Los otros trabajos de diputados y senadores: desde una poeta hasta un cirujano taurino",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/03/18/imagen-general-del-pleno-del-semnmad.r_d.904-1161.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/otros-trabajos-diputados-senadores-poeta-cirujano-taurino_6915403_0.html",
+        "date": "2025-12-28 21:39:18",
+        "sentiment_score": -0.005082517862319946
+    },
+    {
+        "title": "Kroos: \"Hay que dar tiempo a Xabi Alonso, pero en el Madrid...\"",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/28/BC087BA4-2038-4F4B-87E3-8B39B4CC3F5D/kroos-evento-reciente_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.antena3.com/noticias/deportes/futbol/kroos-hay-que-dar-tiempo-xabi-alonso-pero-madrid_202512286951a23d22f0db7dafffe341.html",
+        "date": "2025-12-28 21:33:49",
+        "sentiment_score": 0.8070554155856371
+    },
+    {
+        "title": "Lamine, premio Maradona: \"Mejor no compararse con nadie, Cristiano quiso ser él mismo\"",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/28/69519ec360a682-69831638.r_d.1504-1160.jpeg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.20minutos.es/deportes/futbol/lamine-yamal-gana-premio-maradona-mejor-no-compararse-con-nadie-cristiano-quiso-ser-mismo_6915402_0.html",
+        "date": "2025-12-28 21:33:00",
+        "sentiment_score": 0.408151775598526
+    },
+    {
+        "title": "Unicaja aún no está preparado para ganar al Real Madrid (91-82)",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/28/69519bd3bf1b7.jpeg",
+        "tags": [
+            "deportes cope málaga"
+        ],
+        "link": "https://www.cope.es/emisoras/andalucia/malaga-provincia/malaga/deportes-cope-malaga/noticias/unicaja-aun-preparado-ganar-real-madrid-20251228_3278246.html",
+        "date": "2025-12-28 21:17:19",
+        "sentiment_score": -0.0023253262042999268
+    },
+    {
+        "title": "(Crónica) Real Madrid, Barça y Valencia Basket cumplen en la jornada navideña",
+        "image_url": "https://www.infobae.com/resizer/v2/V7N3ZEU4JJDKNF7C4UGT3SKVW4.jpg?auth=ea6efaf8daec7c0e4263e598246d00e0699cad91395b45ae47799e75b733bca0&height=1280&smart=true&width=1920",
+        "tags": [
+            "copa del rey",
+            "andorra",
+            "baloncesto",
+            "liga endesa",
+            "movistar arena",
+            "barça",
+            "valencia basket",
+            "europapress",
+            "real madrid",
+            "unicaja",
+            "bilbao"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/28/cronica-real-madrid-barca-y-valencia-basket-cumplen-en-la-jornada-navidena/",
+        "date": "2025-12-28 21:15:18",
+        "sentiment_score": 0.8994937837123871
+    },
+    {
+        "title": "Así queda el Unicaja en la clasificación de la Liga Endesa tras la disputa de la jornada 12",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2580393f-b702-48d6-923f-353a149d53e9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja",
+            "liga endesa",
+            "clasificación"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/28/unicaja-clasificacion-liga-endesa-jornada-12-125209074.html",
+        "date": "2025-12-28 21:13:21",
+        "sentiment_score": -0.1443256288766861
+    },
+    {
+        "title": "La figura de Alemania que dejó afuera a la Argentina entre los candidatos a ganar el Mundial 2026: su crítica a la organización",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "selección argentina",
+            "romário",
+            "toni kroos",
+            "mundial 2026"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/28/la-figura-de-alemania-que-dejo-afuera-a-la-argentina-entre-los-candidatos-a-ganar-el-mundial-2026-su-critica-a-la-organizacion/",
+        "date": "2025-12-28 21:03:25",
+        "sentiment_score": -0.7431756295263767
+    },
+    {
+        "title": "Ibon Navarro: \"Hemos mejorado pero aún no nos da para ganarle al Real Madrid\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c92796a8-da29-44f2-82ed-2f6528741a6f_16-9-aspect-ratio_default_1424312.jpg",
+        "tags": [
+            "unicaja",
+            "real madrid",
+            "ibon navarro",
+            "rueda de prensa",
+            "unicaja baloncesto"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/28/ibon-navarro-hemos-mejorado-da-125208989.html",
+        "date": "2025-12-28 21:00:17",
+        "sentiment_score": -0.6786626055836678
+    },
+    {
+        "title": "Real Madrid, Barça y Valencia Basket cumplen",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/075d70a1-688a-46f5-abc2b5bb03b48dbe.jpg",
+        "tags": [
+            "willy hernangómez",
+            "andorra",
+            "valencia basket",
+            "ucam murcia",
+            "tenerife",
+            "facundo campazzo",
+            "fc barcelona",
+            "bàsquet girona",
+            "txus vidorreta",
+            "usman garuba",
+            "sergio scariolo",
+            "liga acb",
+            "real madrid",
+            "maratón",
+            "liga endesa",
+            "morabanc andorra",
+            "gran canaria",
+            "xavi pascual",
+            "unicaja",
+            "copa del rey"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/zb71d00ae-d343-40f0-80775b7638c8586b/202512/real-madrid-barca-y-valencia-basket-cumplen",
+        "date": "2025-12-28 20:57:50",
+        "sentiment_score": 0.09761694073677063
+    },
+    {
+        "title": "Jordi Cruyff llega a un \"acuerdo verbal\" con el Ajax para ser su director técnico",
+        "image_url": "https://www.infobae.com/resizer/v2/EGDEVOBFWJANPMIWC2XL2VVMQY.jpg?auth=cef3ef68b23a1bfd08fbd5fb7dd36ff7fd42b7e66a0990b5c10fe249ca8a60bc&height=1280&smart=true&width=1920",
+        "tags": [
+            "ajax",
+            "países bajos",
+            "johan cruyff",
+            "europapress",
+            "fútbol",
+            "jordi cruyff",
+            "exfutbolista",
+            "manchester united",
+            "fc barcelona",
+            "dirección técnica",
+            "ámsterdam"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/28/jordi-cruyff-llega-a-un-acuerdo-verbal-con-el-ajax-para-ser-su-director-tecnico/",
+        "date": "2025-12-28 22:15:16",
+        "sentiment_score": 0.5265860185027122
+    },
+    {
+        "title": "Colau, bajo fuego ‘amigo’: Podemos desata la guerra contra los comunes",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/01/18/informacion-municipal/917418327_13996944_1706x960.jpg",
+        "tags": [
+            "barcelona en comú",
+            "jaume collboni",
+            "podem",
+            "ayuntamiento de barcelona",
+            "información municipal",
+            "ada colau",
+            "psc - partit dels socialistes de catalunya"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20251228/colau-fuego-amigo-podemos-desata-guerra-comunes/1003742718904_0.html",
+        "date": "2025-12-28 22:15:00",
+        "sentiment_score": 0.14878331124782562
+    },
+    {
+        "title": "Barcelona renueva la gestión de un casal a una polémica federación de Vallcarca",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/18/gracia/1003742717413_15529209_1706x960.jpg",
+        "tags": [
+            "subvenciones barcelona",
+            "gràcia",
+            "vallcarca i els penitents",
+            "ayuntamiento de barcelona",
+            "okupas"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gracia/20251228/barcelona-renueva-gestion-casal-polemica-federacion-vallcarca/1003742717387_0.html",
+        "date": "2025-12-28 22:15:00",
+        "sentiment_score": -0.2790013253688812
+    },
+    {
+        "title": "Las macropanaderías crecen en los barrios por la ‘saturación’ del Eixample: Barcelona roza el millar",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/01/30/vivir-en-barcelona/828927152_12337466_1706x960.jpg",
+        "tags": [
+            "empresas barcelona",
+            "macropanaderías",
+            "economía",
+            "barrios",
+            "gremi de restauració"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20251228/macropanaderias-crecen-barrios-saturacion-eixample-barcelona-roza-millar/1003742716944_0.html",
+        "date": "2025-12-28 22:15:00",
+        "sentiment_score": 0.2506052553653717
+    },
+    {
+        "title": "Muere a los 71 años Carles Vilarrubí, exvicepresidente del FC Barcelona y marido de Sol Daurella",
+        "image_url": "https://www.hola.com/horizon/landscape/81968a3c4c04-gettyimages-158602149.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.hola.com/actualidad/20251228875050/muere-a-los-71-anos-carles-vilarrubi-marido-de-sol-daurella/",
+        "date": "2025-12-28 22:04:59",
+        "sentiment_score": -0.062051355838775635
+    },
+    {
+        "title": "45 años del primer oro de Cortavitarte",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/28/cortavitarte-aviles-kOdG--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "oro",
+            "anos",
+            "primer",
+            "cortavitarte"
+        ],
+        "link": "https://www.elcomercio.es/aviles/anos-primer-oro-cortavitarte-20251229221622-nt.html",
+        "date": "2025-12-28 21:53:53",
+        "sentiment_score": 0.6120015382766724
+    },
+    {
+        "title": "La precariedad y la vivienda marcan el fin de las certezas generacionales: \"Nosotros no vamos a tener la vida que pudieron tener nuestros padres\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos daniela saltos"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/12/28/69457ca821efa0c3258b4589.html",
+        "date": "2025-12-28 21:48:30",
+        "sentiment_score": -0.32679708302021027
+    },
+    {
+        "title": "Jordi Cruyff continúa el legado de su padre: ficha por el Ajax como director deportivo",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/07/27/culemania/palco/782182003_15555390_1706x960.jpg",
+        "tags": [
+            "jordi cruyff",
+            "palco",
+            "johan cruyff"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251228/jordi-cruyff-continua-legado-ajax-director-deportivo/1003742719529_0.html",
+        "date": "2025-12-28 21:37:00",
+        "sentiment_score": 0.1244773343205452
+    },
+    {
+        "title": "Globe Soccer Awards 2025: el PSG domina la última gala del año",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1766959363689/942072.jpg?ch=675&cw=1200",
+        "tags": [
+            "premios",
+            "lamine yamal",
+            "cristiano ronaldo",
+            "globe soccer awards",
+            "novak djokovic",
+            "psg",
+            "mejor futbolista del mundo",
+            "vitinha",
+            "globe soccer awards 2025",
+            "ousmane dembélé"
+        ],
+        "link": "https://2001online.com/deportes/globe-soccer-awards-2025-el-psg-domina-la-ultima-gala-del-ano-2025122818100",
+        "date": "2025-12-28 21:36:58",
+        "sentiment_score": 0.7322918847203255
+    },
+    {
+        "title": "Jordi Cruyff, a un paso de ser director técnico del Ajax",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/28/6951a2e66f047.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/jordi-cruyff-paso-director-tecnico-ajax-20251228_3278248.html",
+        "date": "2025-12-28 21:36:51",
+        "sentiment_score": -0.11181339621543884
     }
 ];
