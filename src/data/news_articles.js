@@ -3205,5 +3205,190 @@ export default [
         "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/jordi-cruyff-paso-director-tecnico-ajax-20251228_3278248.html",
         "date": "2025-12-28 21:36:51",
         "sentiment_score": -0.11181339621543884
+    },
+    {
+        "title": "Vivla, lista para escalar su copropiedad de segundas residencias; así se pasa de startup \"promesa\" a consolidada",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744069844_260665312_1706x960.jpg",
+        "tags": [
+            "startup",
+            "vivienda",
+            "digitalización",
+            "startups",
+            "emprendedores"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20251229/vivla-lista-escalar-copropiedad-segundas-residencias-pasa-startup-promesa-consolidada/1003744069806_0.html",
+        "date": "2025-12-29 02:05:18",
+        "sentiment_score": 0.7516433335840702
+    },
+    {
+        "title": "Un juzgado condena a Vodafone y WiZink a resarcir a un cliente tras ser robado con una duplicación de su tarjeta SIM",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070671_260675156_1706x960.jpg",
+        "tags": [
+            "fraudes",
+            "banca",
+            "vodafone",
+            "wizink"
+        ],
+        "link": "https://www.elespanol.com/invertia/empresas/banca/20251229/juzgado-condena-vodafone-wizink-resarcir-cliente-robado-duplicacion-tarjeta-sim/1003744070609_0.html",
+        "date": "2025-12-29 01:25:01",
+        "sentiment_score": -0.8538957107812166
+    },
+    {
+        "title": "Víctor y Javier Alfaro, de crear plantillas en el bajo de una casa a ser olímpicos y podólogos de 7.000 deportistas de élite",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744069899_260665874_1706x960.jpg",
+        "tags": [
+            "aragón",
+            "huesca (provincia)",
+            "huesca"
+        ],
+        "link": "https://www.elespanol.com/aragon/actualidad/huesca/20251229/victor-javier-alfaro-crear-plantillas-casa-olimpicos-podologos-deportistas-elite-dl/1003744069895_0.html",
+        "date": "2025-12-29 01:21:51",
+        "sentiment_score": 0.6504364684224129
+    },
+    {
+        "title": "Nos conectamos, luego somos: nuestros derechos digitales, a la palestra en la Fundación Telefónica",
+        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744059628_260532772_1706x960.jpg",
+        "tags": [
+            "fundación teléfonica",
+            "madrid",
+            "exposiciones",
+            "ec-critica-arte",
+            "arte"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20251229/conectamos-luego-derechos-digitales-palestra-fundacion-telefonica/1003744059498_0.html",
+        "date": "2025-12-29 01:14:18",
+        "sentiment_score": 0.7805597260594368
+    },
+    {
+        "title": "La imputación principal de Ábalos por organización criminal aleja la posibilidad de ser juzgado por un jurado",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/d9754f9e1c9ec2c05cc471eb1d5216d6/crop/519x0/2567x2048/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468205674169.jpg",
+        "tags": [
+            "nlpremium",
+            "tribunal supremo",
+            "artículos ángela martialay",
+            "josé luis ábalos",
+            "corrupción"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/12/29/69516fd4e9cf4adc458b4583.html",
+        "date": "2025-12-29 00:57:45",
+        "sentiment_score": 0.006420820951461792
+    },
+    {
+        "title": "28 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/28-dic-2025-partidazo-cope-20251229_3278263.html",
+        "date": "2025-12-29 00:45:00",
+        "sentiment_score": 0.2810220420360565
+    },
+    {
+        "title": "28 DIC 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/28-dic-2025-tramo-final-juego-20251229_3278262.html",
+        "date": "2025-12-29 00:45:00",
+        "sentiment_score": 0.31807592511177063
+    },
+    {
+        "title": "Costa de Marfil y Camerún empatan en la Copa Africana mientras Zidane observa a Argelia avanzar",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/23c3db3/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F8f%2F152e1ee8449cadbbfef8deaa56d4%2F3f503991b35846ae9cce36b6ca240ec0.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-28/costa-de-marfil-y-camerun-empatan-en-la-copa-africana-mientras-zidane-observa-argelia-avanzar",
+        "date": "2025-12-29 00:38:29",
+        "sentiment_score": 0.29234206676483154
+    },
+    {
+        "title": "Cristiano Ronaldo está a 44 goles de los mil",
+        "image_url": "https://meridadigital.com.ve/wp-content/uploads/2025/12/cristianojpg-104755-150x150.jpg",
+        "tags": [
+            "deportes",
+            "destacadas"
+        ],
+        "link": "https://meridadigital.com.ve/cristiano-ronaldo-esta-a-44-goles-de-los-mil",
+        "date": "2025-12-29 00:35:28",
+        "sentiment_score": 0.4738096222281456
+    },
+    {
+        "title": "El chulo del AVE",
+        "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.eldebate.com/opinion/20251229/chulo-ave-143280-1766745970_368989.html",
+        "date": "2025-12-29 00:30:00",
+        "sentiment_score": 0.5823131427168846
+    },
+    {
+        "title": "Telefónica ofrece cobertura 5G al 95% de la población catalana y ya llega a 703 municipios",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a77ae3d3-8a2b-4517-870a-086eec03abb8_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "telefónica",
+            "barcelona"
+        ],
+        "link": "https://www.elperiodico.com/es/tecnologia/20251229/telefonica-ofrece-cobertura-5g-95-125060499",
+        "date": "2025-12-29 01:00:01",
+        "sentiment_score": 0.6345400512218475
+    },
+    {
+        "title": "Raphinha Jugador del Año de La Liga en los Globe Soccer Awards 2025",
+        "image_url": "https://laprensadelara.com/wp-content/uploads/2025/12/Raphinha-Jugador-del-Ano-en-los-Globe-Soccer-Awards-2025.webp",
+        "tags": [
+            "la liga",
+            "futbol",
+            "hansi flick",
+            "raphinha",
+            "mejor jugador del año",
+            "deportes",
+            "fc barcelona",
+            "globe soccer awards"
+        ],
+        "link": "https://laprensadelara.com/deportes/raphinha-jugador-del-ano-de-la-liga/",
+        "date": "2025-12-29 00:28:52",
+        "sentiment_score": 0.7042856700718403
+    },
+    {
+        "title": "Lamine Yamal cierra un 2025 de ensueño: triplete, aspirante real al Balón de Oro, promesa al barcelonismo y renovación millonaria",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/28/culemania/primer-equipo/1003742719531_15555398_1706x960.jpg",
+        "tags": [
+            "barça",
+            "primer equipo",
+            "lamine yamal"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251229/lamine-yamal-balon-oro-barcelonismo-renovacion-millonaria/1003742719530_0.html",
+        "date": "2025-12-28 23:49:36",
+        "sentiment_score": 0.8860825132578611
+    },
+    {
+        "title": "De la licencia 1B a la 1C en dos meses: el empujón de Laporta con el regreso al Camp Nou que explica el buen momento del Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/actualidad/1003742705341_15374487_1706x960.jpg",
+        "tags": [
+            "camp nou",
+            "barça",
+            "ayuntamiento de barcelona",
+            "palco"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251229/licencia-empujon-laporta-regreso-camp-nou-barca/1003742719534_0.html",
+        "date": "2025-12-28 23:46:06",
+        "sentiment_score": 0.38169698417186737
+    },
+    {
+        "title": "Gavi: \"Me gustaría ir al Mundial, pero estoy centrado en recuperarme\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4ac855f-fdf6-447d-be6f-e1d5f6e34a63_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "gavi",
+            "fútbol",
+            "fc barcelona",
+            "deportes"
+        ],
+        "link": "https://www.lne.es/videos/deportes/2025/12/29/gavi-gustaria-mundial-centrado-recuperarme-125210554.html",
+        "date": "2025-12-28 23:22:00",
+        "sentiment_score": 0.35227120667696
     }
 ];
