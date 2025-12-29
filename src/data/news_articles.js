@@ -1,238 +1,5 @@
 export default [
     {
-        "title": "Fallece Roberto Moreno Díaz, catedrático emérito de la ULPGC e impulsor de los estudios de Informática: «Es un día de duelo en la universidad»",
-        "image_url": "https://s1.ppllstatics.com/canarias7/www/multimedia/2025/12/25/roberto%20moreno.jpg",
-        "tags": [
-            "universidad de las palmas de gran canaria",
-            "gáldar",
-            "informática",
-            "inteligencia artificial",
-            "cabildo insular de gran canaria",
-            "canarias"
-        ],
-        "link": "https://www.canarias7.es/sociedad/educacion/fallece-roberto-moreno-diaz-catedratico-emerito-ulpgc-20251225174716-nt.html",
-        "date": "2025-12-25 17:11:26",
-        "sentiment_score": 0.7882053591310978
-    },
-    {
-        "title": "Olivier Rioux, el gigante de 2,36 metros anota su primera canasta en el basket universitario",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/25/F04B59A6-9964-4A45-B22E-66CF4BB7AED4/olivier-rioux-gigante-basket-universitario-estados-unidos_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "baloncesto",
-            "antena 3 noticias",
-            "deportes"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/baloncesto/olivier-rioux-gigante-236-metros-anota-primera-canasta-basket-universitario_20251225694d7029af09df501093c09a.html",
-        "date": "2025-12-25 17:11:05",
-        "sentiment_score": 0.7010933682322502
-    },
-    {
-        "title": "El PNV afea al rey español su silencio sobre el euskera y los capítulos negros de la transición",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b27620f8-05da-4b1c-aca3-f721aa44656c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "capítulos negros transición",
-            "afea",
-            "rey",
-            "silencio",
-            "felipe vi",
-            "pnv",
-            "espanol",
-            "euskera"
-        ],
-        "link": "https://www.deia.eus/politica/2025/12/25/felipe-vi-pnv-afea-rey-espanol-silencio-euskera-capitulos-negros-transicion-10512984.html",
-        "date": "2025-12-25 17:00:25",
-        "sentiment_score": -0.23613063991069794
-    },
-    {
-        "title": "Diogo Jota, George Foreman o Manolo 'el del Bombo': los 25 grandes nombres del deporte que fallecieron este 2025",
-        "image_url": "https://s3.elespanol.com/2025/07/04/actualidad/1003743834069_257027478_1706x960.jpg",
-        "tags": [
-            "fútbol",
-            "george foreman",
-            "felix baumgartner",
-            "otros deportes",
-            "baloncesto",
-            "deportes",
-            "hulk hogan"
-        ],
-        "link": "https://www.elespanol.com/deportes/otros-deportes/20251225/diogo-jota-george-foreman-manolo-bombo-grandes-nombres-deporte-fallecieron/1003744054479_0.html",
-        "date": "2025-12-25 17:00:00",
-        "sentiment_score": -0.7867275699973106
-    },
-    {
-        "title": "Eugenia de York escoge una marca de Madrid para un look de alto impacto en Sandringham",
-        "image_url": "https://images.ecestaticos.com/qXKshhiVUBuUil_RcuRtbpoSWkc=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F40b%2Fc1f%2F371%2F40bc1f3713999cefd8b0f3aaaea27998.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2025-12-25/eugenia-de-york-marca-de-madrid-look-sandringham_4274734/",
-        "date": "2025-12-25 16:42:00",
-        "sentiment_score": 0.09655043482780457
-    },
-    {
-        "title": "Los dos fichajes low-cost que más gustan a Deco para sustituir a Robert Lewandowski en el Barça (y cuatro deseos prohibitivos)",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/12/culemania/primer-equipo/1003742715390_15503990_1706x960.jpg",
-        "tags": [
-            "erling haaland",
-            "fichajes barça",
-            "deco",
-            "robert lewandowski",
-            "barça",
-            "primer equipo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251225/fichajes-deco-sustituir-robert-lewandowski-barca-prohibitivos/1003742715357_0.html",
-        "date": "2025-12-25 16:27:49",
-        "sentiment_score": -0.07166261970996857
-    },
-    {
-        "title": "El pico estacional de la soledad no deseada: «La Navidad es como abrir la herida y echarle sal»",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/soledad-sinc.jpg",
-        "tags": [
-            "personas",
-            "navidad",
-            "soledad",
-            "sociedad"
-        ],
-        "link": "https://theobjective.com/sociedad/2025-12-25/pico-estacional-soledad/",
-        "date": "2025-12-25 16:11:11",
-        "sentiment_score": -0.2572436258196831
-    },
-    {
-        "title": "El reto del Unicaja: Acabar con la racha de victorias histórica del Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b41ad734-d70e-459e-9bb3-a2afc5738b3a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "la liga",
-            "real madrid",
-            "unicaja",
-            "madrid",
-            "historia",
-            "movistar",
-            "baloncesto"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/25/reto-unicaja-acabar-racha-victorias-real-madrid-casa-manresa-125135845.html",
-        "date": "2025-12-25 16:11:09",
-        "sentiment_score": 0.7992249950766563
-    },
-    {
-        "title": "Detuvieron a mujer por trato cruel contra sus hijos en Barcelona",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/25131323/trato-cruel-contra-hijos-en-barcelona.jpg",
-        "tags": [
-            "detenida",
-            "barcelona",
-            "cicpc",
-            "sucesos",
-            "venezuela"
-        ],
-        "link": "https://www.elnacional.com/2025/12/detuvieron-a-mujer-por-trato-cruel-contra-sus-hijos-en-barcelona/",
-        "date": "2025-12-25 17:04:00",
-        "sentiment_score": -0.8742926996201277
-    },
-    {
-        "title": "Los peores presagios para Fernando Alonso y el cambio de reglas en 2026: \"Sería muy bueno para Carlos Sainz, pero malo para el Aston Martin\"",
-        "image_url": "https://imagenes.cope.es/files/content_image/uploads/2025/12/23/6949d63dc1140.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/audios/peores-presagios-fernando-alonso-cambio-reglas-2026-seria-bueno-carlos-sainz-malo-aston-martin-20251225_3276236.html",
-        "date": "2025-12-25 17:00:00",
-        "sentiment_score": -0.0341678261756897
-    },
-    {
-        "title": "Elsa Pataky y Chris Hemsworth, la pareja que vive entre constantes rumores de crisis, cumple 15 años de matrimonio",
-        "image_url": "https://s3.elespanol.com/2025/12/22/actualidad/1003744066465_260623211_1706x960.jpg",
-        "tags": [
-            "elsa pataky",
-            "amor",
-            "famosos",
-            "chris hemsworth",
-            "relaciones de pareja"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251225/elsa-pataky-chris-hemsworth-pareja-vive-constantes-rumores-crisis-cumple-anos-matrimonio/1003744066417_0.html",
-        "date": "2025-12-25 16:56:53",
-        "sentiment_score": -0.054289087653160095
-    },
-    {
-        "title": "La facturación de las empresas tecnológicas se duplica en Alicante y ya supera los 706 millones",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/42c88c46-59ed-464b-94d7-da1d662e49d0_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "facturación",
-            "trabajo",
-            "valencia",
-            "empresas",
-            "startup",
-            "ecosistema"
-        ],
-        "link": "https://www.informacion.es/economia/2025/12/25/facturacion-empresas-tecnologicas-duplica-alicante-125136051.html",
-        "date": "2025-12-25 16:42:20",
-        "sentiment_score": 0.49926985800266266
-    },
-    {
-        "title": "El número de personas que acceden a la eutanasia crece un 27,5%: Cataluña y Madrid lideran el aumento pero una de cada tres muere esperando la resolución",
-        "image_url": "https://www.infobae.com/resizer/v2/ZH3FQ4FCTFBK5F77SIS4KEO6HU.jpg?auth=9cabce4c0a5b9c9b12df1900465509aba1213e1e146857fcd3ae71285928454f&height=1280&smart=true&width=1920",
-        "tags": [
-            "eutanasia",
-            "españa-sociedad",
-            "españa-noticias",
-            "sanidad españa",
-            "muerte digna",
-            "ministerio de sanidad"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/25/el-numero-de-personas-que-acceden-a-la-eutanasia-crece-un-275-cataluna-y-madrid-lideran-el-aumento-pero-una-de-cada-tres-muere-esperando-la-resolucion/",
-        "date": "2025-12-25 16:36:11",
-        "sentiment_score": 0.04060989245772362
-    },
-    {
-        "title": "¿Qué supermercados (y en qué horarios) abren en Sant Esteve en Barcelona y el resto de Catalunya?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0aaf946d-f84c-49b1-b2e6-5ea419097f22_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "supermercados",
-            "navidad"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20251225/supermercados-abiertos-barcelona-catalunya-sant-esteve-cataluna-barcelona-dv-125099259",
-        "date": "2025-12-25 16:30:00",
-        "sentiment_score": -0.3157719075679779
-    },
-    {
-        "title": "Detienen a \"Railer\": acosaba a su ex y la chantajeaba para tener encuentros sexuales",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1766680154222.jpg?ch=675&cw=1200",
-        "tags": [
-            "detienen a \"railer\"",
-            "encuentros sexuales",
-            "acosaba a su ex"
-        ],
-        "link": "https://2001online.com/sucesos/detienen-a-railer-acosaba-a-su-ex-y-la-chantajeaba-para-tener-encuentros-sexuales-2025122512300",
-        "date": "2025-12-25 16:30:00",
-        "sentiment_score": -0.7442636936903
-    },
-    {
-        "title": "¿Qué centros comerciales (y en qué horarios) abren en Sant Esteve en Barcelona y el resto de Catalunya?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fff15a51-8d11-404e-9d8a-ee99d38a34e9_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tiendas",
-            "centros comerciales",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/economia/20251225/centros-comerciales-abiertos-sant-esteve-barcelona-cataluna-horarios-dv-125100023",
-        "date": "2025-12-25 16:30:00",
-        "sentiment_score": -0.2025761604309082
-    },
-    {
-        "title": "Los amigos de Balde, Lamine, Olmo y Raphinha juegan su propia liga privada",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/20/culemania/primer-equipo/1003742675243_15505773_1706x960.jpg",
-        "tags": [
-            "lamine yamal",
-            "alejandro balde",
-            "raphinha",
-            "barça",
-            "culemaníacos",
-            "dani olmo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251225/amigos-balde-lamine-olmo-raphinha-juegan-privada/1003742715546_0.html",
-        "date": "2025-12-25 16:29:36",
-        "sentiment_score": -0.0397087037563324
-    },
-    {
         "title": "Así pasaron la Navidad algunos jugadores del Unicaja",
         "image_url": "https://static.grupojoly.com/clip/5e589ce3-8657-4391-9b39-df0440bf7c0a_facebook-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3390,5 +3157,186 @@ export default [
         "link": "https://www.lne.es/videos/deportes/2025/12/29/gavi-gustaria-mundial-centrado-recuperarme-125210554.html",
         "date": "2025-12-28 23:22:00",
         "sentiment_score": 0.35227120667696
+    },
+    {
+        "title": "La Academia General Militar (2a ÉPOCA)",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/12/ACADEMIA-750x421.webp",
+        "tags": [
+            "opinión",
+            "colaboraciones"
+        ],
+        "link": "https://elfarodeceuta.es/academia-general-militar-segunda-epoca/",
+        "date": "2025-12-29 06:27:42",
+        "sentiment_score": 0.3900216966867447
+    },
+    {
+        "title": "2025, annus horribilis del Real Madrid: 376 días sin ganar un título",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/374df347-6940-4682-97b5-76479bd5bb91_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid",
+            "xabi alonso",
+            "florentino pérez",
+            "carlo ancelotti"
+        ],
+        "link": "https://www.levante-emv.com/deportes/2025/12/29/programada-2025-annus-horribilis-real-125213127.html",
+        "date": "2025-12-29 06:26:47",
+        "sentiment_score": -0.2029106169939041
+    },
+    {
+        "title": "Lo que debes saber hoy, 29 de diciembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/09/18/vivir-en-barcelona/886921350_13458760_1706x960.jpg",
+        "tags": [
+            "tiempo",
+            "movilidad",
+            "aemet (agencia estatal de meteorología)",
+            "vivir en barcelona",
+            "metro barcelona",
+            "transports metropolitans barcelona tmb",
+            "clima",
+            "tráfico"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251229/debes-saber-hoy-diciembre-barcelona/1003742719547_0.html",
+        "date": "2025-12-29 06:30:00",
+        "sentiment_score": -0.8739133086055517
+    },
+    {
+        "title": "Segovia, cuna de uno de los primeros velódromos de España",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/01w.jpg",
+        "tags": [
+            "ciclismo",
+            "deportes"
+        ],
+        "link": "https://eladelantado.com/segovia-cuna-de-uno-de-los-primeros-velodromos-de-espana/",
+        "date": "2025-12-29 06:22:26",
+        "sentiment_score": 0.06561130285263062
+    },
+    {
+        "title": "El nuevo impuesto europeo al carbono puede transformar el comercio global y nuestros hábitos de consumo",
+        "image_url": "https://images.theconversation.com/files/706711/original/file-20251205-56-d6xjms.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&w=754",
+        "tags": [
+            "cambio climático",
+            "impuestos",
+            "empresas",
+            "emisiones de co₂",
+            "emisiones",
+            "impuestos ambientales",
+            "unión europea"
+        ],
+        "link": "https://theconversation.com/el-nuevo-impuesto-europeo-al-carbono-puede-transformar-el-comercio-global-y-nuestros-habitos-de-consumo-272408",
+        "date": "2025-12-29 06:22:17",
+        "sentiment_score": 0.1525874212384224
+    },
+    {
+        "title": "La herencia Negreira: los testimonios de Laporta, Rosell y Bartomeu frente a frente",
+        "image_url": "https://www.elplural.com/uploads/s1/21/31/20/0/diseno-sin-titulo-3_7_480x270.jpeg",
+        "tags": [
+            "el regate"
+        ],
+        "link": "https://www.elplural.com/el-regate/unidad-discurso-matices-fondo-rosell-senala-laporta-caso-negreira_368470102",
+        "date": "2025-12-29 06:20:23",
+        "sentiment_score": -0.14146310091018677
+    },
+    {
+        "title": "El Bobo de Coria que no tenía un pelo de tonto",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0cbe0222-271b-47c1-ba7c-26087c9cebac_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "provincia de cáceres",
+            "historia",
+            "publicación"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/caceres/2025/12/29/bobo-coria-historia-bufon-corte-velazquez-125209448.html",
+        "date": "2025-12-29 06:01:22",
+        "sentiment_score": -0.15779103338718414
+    },
+    {
+        "title": "“Los Sirex somos más que temas populares como ‘La Escoba’ y ‘Que se mueran los feos”",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1385b91a-96e3-4c2e-a150-0febc5c16e3e_16-9-aspect-ratio_default_0_x800y448.jpg",
+        "tags": [
+            "temas",
+            "vitoria",
+            "escoba",
+            "concierto",
+            "mueran",
+            "gasteiz",
+            "helldorado",
+            "feos",
+            "alava",
+            "araba",
+            "sirex",
+            "musica",
+            "populares"
+        ],
+        "link": "https://www.noticiasdealava.eus/cultura/2025/12/29/sirex-temas-populares-escoba-mueran-feos-musica-concierto-helldorado-vitoria-gasteiz-alava-araba-10509754.html",
+        "date": "2025-12-29 06:00:46",
+        "sentiment_score": -0.014065295457839966
+    },
+    {
+        "title": "Las grandes empresas vuelven a volcarse en la recompra de acciones",
+        "image_url": "https://static1.ara.cat/clip/b6c2bbbd-2f7b-4598-b769-7c19412e54f4_16-9-aspect-ratio_default_0_x1109y480.jpg",
+        "tags": [
+            "volcarse",
+            "vuelven",
+            "recompra",
+            "empresas",
+            "grandes",
+            "acciones"
+        ],
+        "link": "https://es.ara.cat/economia/mercados/grandes-empresas-vuelven-volcarse-recompra-acciones_1_5604486.html",
+        "date": "2025-12-29 06:00:42",
+        "sentiment_score": -0.026727959513664246
+    },
+    {
+        "title": "Guía para entender el mundo en 2026: los 10 temas que marcarán la agenda",
+        "image_url": "https://static1.ara.cat/clip/e84327c4-0b37-457b-8295-69bedc794c2c_16-9-aspect-ratio_default_1055263.jpg",
+        "tags": [
+            "temas",
+            "marcaran",
+            "10",
+            "agenda",
+            "entender",
+            "2026",
+            "guia",
+            "mundo"
+        ],
+        "link": "https://es.ara.cat/internacional/guia-entender-mundo-2026-10-temas-marcaran-agenda_1_5604484.html",
+        "date": "2025-12-29 06:00:41",
+        "sentiment_score": -0.006453752517700195
+    },
+    {
+        "title": "Vilaplana no acompañó a Mazón a la Generalitat: el ES-Alert le sonó en casa",
+        "image_url": "https://static1.ara.cat/clip/4c86d175-f045-412f-b9be-c020c0cefaf3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sono",
+            "alert",
+            "no",
+            "casa",
+            "vilaplana",
+            "acompano",
+            "le",
+            "generalitat",
+            "mazon"
+        ],
+        "link": "https://es.ara.cat/politica/vilaplana-no-acompano-mazon-generalitat-alert-le-sono-casa_1_5604481.html",
+        "date": "2025-12-29 06:00:38",
+        "sentiment_score": -0.6497454047203064
+    },
+    {
+        "title": "\"¿Por qué no puedo elaborar un espumoso que entre en la DO Cava en Esparreguera y, en cambio, sí que pueden hacerlo en La Rioja o Extremadura?\"",
+        "image_url": "https://static1.ara.cat/clip/c11aebb0-9de7-4d02-a996-2453d1ff106e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "esparreguera",
+            "hacerlo",
+            "elaborar",
+            "no",
+            "extremadura",
+            "cava",
+            "do",
+            "rioja",
+            "espumoso",
+            "cambio"
+        ],
+        "link": "https://es.ara.cat/comer/no-elaborar-espumoso-do-cava-esparreguera-cambio-hacerlo-rioja-extremadura_128_5604480.html",
+        "date": "2025-12-29 06:00:36",
+        "sentiment_score": -0.11105288565158844
     }
 ];
