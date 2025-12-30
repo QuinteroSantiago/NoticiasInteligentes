@@ -1,170 +1,5 @@
 export default [
     {
-        "title": "Tráfico lento y alertas por nieve en las carreteras españolas",
-        "image_url": "https://www.diariodeburgos.es/media/img/2025/94cb59f9-9a8b-4ebc-b2fb446ccbc202bc.jpg",
-        "tags": [
-            "burgos",
-            "temporal",
-            "dgt",
-            "barcelona",
-            "valencia",
-            "asturias",
-            "murcia",
-            "nieve",
-            "tarragona",
-            "municipio de herencia",
-            "cantabria",
-            "madrid",
-            "navidad",
-            "andalucía",
-            "huesca",
-            "tráfico",
-            "ciudad real"
-        ],
-        "link": "https://www.diariodeburgos.es/noticia/zefd9bedf-bc91-41ea-a0c512461ab1debe/202512/trafico-lento-y-alertas-por-nieve-en-las-carreteras-espanolas",
-        "date": "2025-12-26 17:09:20",
-        "sentiment_score": 0.17981786280870438
-    },
-    {
-        "title": "El Real Zaragoza despedirá el 2025 con un entrenamiento a puertas abiertas",
-        "image_url": "https://www.aragondigital.es/media/aragondigital/images/2025/11/17/2025111700341671422.jpg",
-        "tags": [
-            "real zaragoza"
-        ],
-        "link": "https://www.aragondigital.es/articulo/real-zaragoza/real-zaragoza-despedira-2025-entrenamiento-puertas-abiertas/20251226180713958556.html",
-        "date": "2025-12-26 17:07:13",
-        "sentiment_score": 0.06817198544740677
-    },
-    {
-        "title": "El 2025, a punto de cerrar el año con 1.088 muertos en carreteras",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/08/03/816FBE66-EC20-4EFD-B6BD-D6E02F744027/imagen-carreteras-espanolas-1-agosto-2025_98.jpg?crop=4999%2C2813%2Cx0%2Cy77&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "sociedad"
-        ],
-        "link": "https://www.antena3.com/noticias/sociedad/2025-punto-cerrar-ano-1088-muertos-carreteras_20251226694ec089af09df5010948021.html",
-        "date": "2025-12-26 17:06:17",
-        "sentiment_score": -0.27069638669490814
-    },
-    {
-        "title": "Ni Vinicius Jr ni Endrick: Florentino despacha a un descarte de Xabi Alonso en el Real Madrid",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/04/01/culemania/real-madrid/935666613_15551783_1706x960.jpg",
-        "tags": [
-            "florentino pérez",
-            "vinicius",
-            "fichajes real madrid",
-            "real madrid",
-            "xabi alonso"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/real-madrid/20251226/vinicius-endrick-florentino-xabi-alonso-real-madrid/1003742719225_0.html",
-        "date": "2025-12-26 17:01:20",
-        "sentiment_score": -0.8835409097373486
-    },
-    {
-        "title": "Una inolvidable Pre-Nochevieja hará las delicias de los más pequeños en Vallsur: \"Queremos que vivan la magia y la ilusión\"",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070646_260674867_1706x960.jpg",
-        "tags": [
-            "sociedad castilla y león",
-            "infancia",
-            "nochevieja",
-            "valladolid",
-            "navidad",
-            "vallsur",
-            "niños",
-            "centros comerciales",
-            "valladolid (municipio)"
-        ],
-        "link": "https://www.elespanol.com/castilla-y-leon/region/valladolid/20251226/inolvidable-pre-nochevieja-hara-delicias-pequenos-vallsur-queremos-vivan-magia-ilusion/1003744070514_0.html",
-        "date": "2025-12-26 16:59:30",
-        "sentiment_score": 0.6796069871634245
-    },
-    {
-        "title": "Sarah Santaolalla tira de hemeroteca para retratar el relato de Feijóo con Mazón y la DANA",
-        "image_url": "https://www.elplural.com/uploads/s1/20/91/30/7/1_7_480x270.jpeg",
-        "tags": [
-            "extratele"
-        ],
-        "link": "https://www.elplural.com/extratele/sarah-santaolalla-tira-hemeroteca-retratar-relato-feijoo-mazon-dana_368391102",
-        "date": "2025-12-26 16:57:14",
-        "sentiment_score": -0.13919875025749207
-    },
-    {
-        "title": "El Real Madrid descarta fichajes en el mercado invernal",
-        "image_url": "https://pxcdn.meridiano.net/122025/1766770556787.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/el-real-madrid-descarta-fichajes-en-el-mercado-invernal-2025122612470",
-        "date": "2025-12-26 16:47:00",
-        "sentiment_score": -0.5520606562495232
-    },
-    {
-        "title": "Paula Badosa: \"Este año me cambió, no fue fácil, pero fue necesario\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251226174635_120.jpg",
-        "tags": [
-            "tenis",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/tenis-00166/noticia-paula-badosa-ano-me-cambio-no-fue-facil-fue-necesario-20251226174635.html",
-        "date": "2025-12-26 16:46:35",
-        "sentiment_score": -0.7334388867020607
-    },
-    {
-        "title": "Las recomendaciones de la DGT ante los desplazamientos por Navidad en pleno temporal",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/26/1735CE2D-268C-41A4-A2EB-CD93E07CB401/trafico-segunda-operacion-salida-navidad_70.jpg?crop=1920%2C1080%2Cx0%2Cy102&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "sociedad",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/sociedad/esperan-mas-8-millones-desplazamientos-segundo-fin-semana-navidad-marcado-mal-tiempo_20251226694ec21622f0db7daffe8b71.html",
-        "date": "2025-12-26 17:12:54",
-        "sentiment_score": 0.10899129509925842
-    },
-    {
-        "title": "Trueno regresa a Barcelona con un gran concierto en el Palau Sant Jordi: fecha y todos los detalles",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2022/07/07/vivir-en-barcelona/685941450_11430079_1706x960.jpg",
-        "tags": [
-            "arte barcelona",
-            "conciertos",
-            "música",
-            "vivir en barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251226/trueno-regresa-barcelona-gran-concierto-palau-sant-jordi-fecha-detalles/1003742719202_0.html",
-        "date": "2025-12-26 17:09:38",
-        "sentiment_score": 0.14341853559017181
-    },
-    {
-        "title": "Enric González: \"Antes en las redacciones si bebías agua se escondía\"",
-        "image_url": "https://static1.ara.cat/clip/5863334c-977e-4521-850b-d31452cf9366_16-9-aspect-ratio_default_1032788.jpg",
-        "tags": [
-            "gonzalez",
-            "agua",
-            "escondia",
-            "bebias",
-            "enric",
-            "redacciones"
-        ],
-        "link": "https://es.ara.cat/comer/enric-gonzalez-redacciones-bebias-agua-escondia_1_5602845.html",
-        "date": "2025-12-26 17:00:38",
-        "sentiment_score": -0.23149526119232178
-    },
-    {
-        "title": "José Luis Bonet: “España es un país de pymes, pero se las está asfixiando fiscalmente”",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4c76882c-ee26-4496-9f5a-e5a184324a44_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pymes",
-            "empresas",
-            "economía",
-            "comercio",
-            "españa",
-            "crecimiento"
-        ],
-        "link": "https://www.laprovincia.es/economia/2025/12/26/jose-luis-bonet-espana-pais-125160103.html",
-        "date": "2025-12-26 17:00:22",
-        "sentiment_score": 0.09896834194660187
-    },
-    {
         "title": "La izquierda fracasa en su intento de unidad en Aragón e irá dividida con tres listas diferentes",
         "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251226230037.jpg?fit=1920%2C1280&ssl=1",
         "tags": [
@@ -3308,5 +3143,176 @@ export default [
         "link": "https://2001online.com/servicios/arranca-2026-con-empleo-cadena-de-supermercados-y-farmacias-ofrece-estas-vacantes-en-varios-estados-2025122919510",
         "date": "2025-12-29 23:51:00",
         "sentiment_score": 0.06194693595170975
+    },
+    {
+        "title": "El Madrid asume el final de ciclo de dos piezas que brillaron en LaLiga y en la Champions",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/23/2025022315062225233.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/madrid-asume-final-ciclo-dos-piezas-que-brillaron-laliga-champions/20251230072036368728.html",
+        "date": "2025-12-30 06:20:36",
+        "sentiment_score": -0.1007021889090538
+    },
+    {
+        "title": "El año para olvidar de Cayetano Rivera: una separación y varias polémicas",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/07/06/cayetano-rivera.r_d.455-157.jpeg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.20minutos.es/gente/ano-para-olvidar-cayetano-rivera-una-separacion-varias-polemicas_6915483_0.html",
+        "date": "2025-12-30 06:12:45",
+        "sentiment_score": -0.5623832680284977
+    },
+    {
+        "title": "Diez campanadas y dos campanazos taurinos para despedir 2025",
+        "image_url": "https://static.grupojoly.com/clip/ddcd2b30-6a53-49d6-a130-d646721f73a6_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "plaza de toros de la maestranza de sevilla",
+            "morante de la puebla"
+        ],
+        "link": "https://www.diariodesevilla.es/toros/diez-campanadas-campanazos-taurinos-despedir_0_2005524956.html",
+        "date": "2025-12-30 06:00:37",
+        "sentiment_score": -0.14440973103046417
+    },
+    {
+        "title": "Unicaja-Joventut: atajo hacia la Copa del Rey",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/269b6b88-b2c8-485a-8dcd-700ed57fe6d1_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unicaja",
+            "joventut",
+            "carpena",
+            "copa del rey",
+            "real madrid"
+        ],
+        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/30/unicaja-joventut-atajo-copa-rey-liga-carpena-partido-125238956.html",
+        "date": "2025-12-30 06:00:36",
+        "sentiment_score": 0.1131182461977005
+    },
+    {
+        "title": "Descubrimientos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eadd200d-7bf1-4ab6-9399-6e1cfbdab1de_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "lesión",
+            "valencia",
+            "unicaja",
+            "descubrimientos"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2025/12/30/descubrimientos-125233833.html",
+        "date": "2025-12-30 06:00:29",
+        "sentiment_score": 0.4680434614419937
+    },
+    {
+        "title": "Nochevieja, año nuevo. Doble latido de España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0fbcdaf9-dd64-4263-9a35-0382c6d18957_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "españa,año nuevo,nochevieja,luz"
+        ],
+        "link": "https://www.laopiniondezamora.es/opinion/2025/12/30/nochevieja-ano-nuevo-doble-latido-125228174.html",
+        "date": "2025-12-30 06:00:24",
+        "sentiment_score": -0.06450960040092468
+    },
+    {
+        "title": "La cuesta de enero del Athletic será larga y a distancia",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/51be2d9a-4816-40b8-899e-8c35522fa84f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "enero",
+            "larga",
+            "athletic",
+            "2026",
+            "a distancia",
+            "cuesta"
+        ],
+        "link": "https://www.deia.eus/athletic/2025/12/30/cuesta-enero-athletic-2026-larga-a-distancia-10522842.html",
+        "date": "2025-12-30 06:00:21",
+        "sentiment_score": 0.4296015799045563
+    },
+    {
+        "title": "Los Reyes Magos llegan a los distritos de Málaga: pasacalles, fiestas infantiles y degustación de roscones",
+        "image_url": "https://static.grupojoly.com/clip/b53a2b4a-c0d1-4a8b-9905-59b9963dffa6_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "navidad málaga",
+            "qué hacer en málaga",
+            "últimas noticias málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/reyes-magos-distritos-malaga-pasacalles-fiestas-roscones_0_2005524293.html",
+        "date": "2025-12-30 05:57:23",
+        "sentiment_score": 0.5723282545804977
+    },
+    {
+        "title": "Laporta, Yuste, Sala i Martín y Oliver son inocentes...mientras no se demuestre lo contrario",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/735d2b07-afab-45d4-9c01-65e8cfd2c35a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "andá pallá bobo"
+        ],
+        "link": "https://www.elperiodico.com/es/deportes/20251230/laporta-yuste-sala-martin-oliver-125237976",
+        "date": "2025-12-30 05:46:19",
+        "sentiment_score": -0.6735229007899761
+    },
+    {
+        "title": "José Ramón: «Mientras el cuerpo me aguante, voy a seguir jugando al fútbol»",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Choche-principal.jpg",
+        "tags": [
+            "josé ramón fernández lavado 'choche'",
+            "deportes",
+            "fútbol",
+            "tercera rfef",
+            "cd manchego",
+            "tercera rfef fútbol"
+        ],
+        "link": "https://www.lanzadigital.com/deportes/futbol/tercera-rfef/jose-ramon-mientras-el-cuerpo-me-aguante-voy-a-seguir-jugando-al-futbol/",
+        "date": "2025-12-30 05:42:47",
+        "sentiment_score": 0.04085183143615723
+    },
+    {
+        "title": "De Bad Bunny a La Oreja de Van Gogh: los 10 conciertos más esperados de 2026 en España",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/10/23/jon-imagen2-krgE-U240437967843SWG-562x562@El%20Correo.jpg",
+        "tags": [
+            "historias visuales",
+            "alejandro sanz",
+            "celtas cortos",
+            "rosalía",
+            "amaia montero"
+        ],
+        "link": "https://www.elcorreo.com/culturas/musica/bad-bunny-oreja-van-gogh-conciertos-esperados-20251229073002-ntrc.html",
+        "date": "2025-12-30 06:30:04",
+        "sentiment_score": 0.7311527971178293
+    },
+    {
+        "title": "Lo que debes saber hoy, 30 de diciembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/27/vivir-en-barcelona/1003742711189_15452134_1706x960.jpg",
+        "tags": [
+            "metro barcelona",
+            "aemet (agencia estatal de meteorología)",
+            "clima",
+            "movilidad",
+            "transports metropolitans barcelona tmb",
+            "tráfico",
+            "vivir en barcelona",
+            "tiempo"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251230/debes-saber-hoy-diciembre-barcelona/1003742719793_0.html",
+        "date": "2025-12-30 06:26:48",
+        "sentiment_score": 0.45600826293230057
+    },
+    {
+        "title": "Vivienda, luz, agua, pensiones, transporte, telefonía, impuestos... todo lo que sube y baja de precio en 2026",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/29/6952f504e42db1-32203762.webp",
+        "tags": [
+            "economía y finanzas"
+        ],
+        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/vivienda-luz-agua-pensiones-transporte-telefonia-impuestos-todo-que-sube-baja-precio-2026_6912986_0.html",
+        "date": "2025-12-30 06:19:35",
+        "sentiment_score": 0.19834931194782257
+    },
+    {
+        "title": "Pogacar, el único que siempre gana sobre una bici",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cfe0d042-4522-4eff-b870-1dcab0a5ba2e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "tadej pogacar"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2025/12/30/pogacar-unico-gana-bici-protagonist-2025-125241166.html",
+        "date": "2025-12-30 06:19:28",
+        "sentiment_score": 0.43072961270809174
     }
 ];
