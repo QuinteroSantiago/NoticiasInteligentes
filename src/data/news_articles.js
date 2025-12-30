@@ -1,153 +1,5 @@
 export default [
     {
-        "title": "Mazón fingió con Feijóo que conocía la magnitud de la tragedia tras la tarde en El Ventorro: \"Se está jodiendo cada minuto\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cce9b8dc-6250-4efd-962b-773325776614_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "feijoo",
-            "alberto núñez feijóo",
-            "carlos mazón",
-            "comunitat valenciana",
-            "dana"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/espana/2025/12/26/mazon-fingio-con-feijoo-que-conocia-la-magnitud-de-la-tragedia-tras-la-tarde-en-el-ventorro-se-esta-jodiendo-cada-minuto-125143469.html",
-        "date": "2025-12-26 06:25:11",
-        "sentiment_score": -0.7373316809535027
-    },
-    {
-        "title": "Mazón fingió con Feijóo que conocía la magnitud de la tragedia tras la tarde en El Ventorro: \"Se está jodiendo cada minuto\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cce9b8dc-6250-4efd-962b-773325776614_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "alberto núñez feijóo",
-            "dana",
-            "carlos mazón",
-            "comunitat valenciana",
-            "feijoo"
-        ],
-        "link": "https://www.elcorreogallego.es/espana/2025/12/26/mazon-fingio-con-feijoo-que-conocia-la-magnitud-de-la-tragedia-tras-la-tarde-en-el-ventorro-se-esta-jodiendo-cada-minuto-125143463.html",
-        "date": "2025-12-26 06:25:09",
-        "sentiment_score": -0.7257093843072653
-    },
-    {
-        "title": "ElectrAV: la cultura electrónica late con fuerza en Pamplona",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ad8cfe22-1e72-4ec8-b90b-bd1e05e646e0_16-9-aspect-ratio_default_0_x1068y1864.jpg",
-        "tags": [
-            "late",
-            "electronica",
-            "electrav",
-            "cultura",
-            "pamplona",
-            "fuerza"
-        ],
-        "link": "https://www.noticiasdenavarra.com/cultura/2025/12/26/electrav-cultura-electronica-late-fuerza-pamplona-10511477.html",
-        "date": "2025-12-26 06:24:05",
-        "sentiment_score": 0.2954311668872833
-    },
-    {
-        "title": "Este es el precio de la gasolina en Madrid, Barcelona y otras ciudades para hoy",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "noticias",
-            "gasolina",
-            "precio gasolina",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/26/este-es-el-precio-de-la-gasolina-en-madrid-barcelona-y-otras-ciudades-para-hoy/",
-        "date": "2025-12-26 06:30:34",
-        "sentiment_score": -0.04640984535217285
-    },
-    {
-        "title": "Gripe aviar, dermatosis, peste porcina, lengua azul... el año 2025 que vivimos peligrosamente en las granjas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/19/6945578c6551a0-11841055.jpeg",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/ano-vivimos-peligrosamente-granjas-gripe-aviar-dermatosis-peste-porcina-lengua-azul_6912845_0.html",
-        "date": "2025-12-26 06:27:12",
-        "sentiment_score": -0.9407227374613285
-    },
-    {
-        "title": "Lisci bate su récord de canteranos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ae19112a-e70b-4de0-99ba-e8e0094ac0ff_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "record",
-            "canteranos",
-            "lisci",
-            "bate"
-        ],
-        "link": "https://www.noticiasdenavarra.com/osasuna/2025/12/26/lisci-bate-record-canteranos-10511591.html",
-        "date": "2025-12-26 06:23:47",
-        "sentiment_score": -0.1536906510591507
-    },
-    {
-        "title": "Rosalía, Bad Bunny, The Weeknd, Agorazein con C. Tangana... Los conciertos de 2026 en España",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/25/694d59094e2b91-32888249.jpeg",
-        "tags": [
-            "música"
-        ],
-        "link": "https://www.20minutos.es/musica/rosalia-bad-bunny-the-weeknd-ultimo-fila-agorazein-con-c-tangana-los-conciertos-2026-espana_6914702_0.html",
-        "date": "2025-12-26 06:22:03",
-        "sentiment_score": -0.09806566685438156
-    },
-    {
-        "title": "Fuertes heladas, lluvia y nieve este viernes: continúan la inestabilidad y las bajas temperaturas en España",
-        "image_url": "https://www.infobae.com/resizer/v2/IKIEVWJYIBFSTLXF5WOXFNFI5A.jpg?auth=3709c0ff524bf4d2fde7df7e712864b75762fb2f7d3a1fd81c5d8f6995d23468&height=6000&smart=true&width=9000",
-        "tags": [
-            "españa-noticias",
-            "españa-sociedad",
-            "clima",
-            "meteorología",
-            "aemet",
-            "tiempo en españa"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/26/fuertes-heladas-lluvia-y-nieve-este-viernes-continua-la-inestabilidad-y-las-bajas-temperaturas-en-espana/",
-        "date": "2025-12-26 06:21:30",
-        "sentiment_score": -0.05942027270793915
-    },
-    {
-        "title": "Una masa de aire frío dejará hoy nieve y temperaturas de hasta -6 oC en varias comunidades autónomas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/25/694d7b6220e2a1-08348966.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/una-masa-aire-frio-dejara-manana-nieve-norte-temperaturas-6oc-cantabria-otras-comunidades_6914724_0.html",
-        "date": "2025-12-26 06:13:18",
-        "sentiment_score": -0.8492116183042526
-    },
-    {
-        "title": "Cristina Lázaro, da el salto a la élite europea en Masters",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/44018af4-6249-41e9-a615-cf57bd81126d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "élite,europa,máster,natación"
-        ],
-        "link": "https://www.laopiniondezamora.es/deportes/2025/12/26/cristina-lazaro-da-salto-elite-125139711.html",
-        "date": "2025-12-26 06:00:59",
-        "sentiment_score": 0.8173047862946987
-    },
-    {
-        "title": "Prejuicios",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f0dc68bc-396c-4e16-906f-96c13a9cbae5_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "viajar,grecia,seguros,destinos"
-        ],
-        "link": "https://www.laopiniondezamora.es/opinion/2025/12/26/prejuicios-125137994.html",
-        "date": "2025-12-26 06:00:54",
-        "sentiment_score": -0.8683065176010132
-    },
-    {
-        "title": "Málaga culmina el año con una demanda de más de 1.800 empleos tecnológicos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/625e4a3b-ba36-4379-94ce-8c79639e3fee_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "empleo",
-            "empresas tecnológicas",
-            "empresas",
-            "tecnología",
-            "software"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2025/12/26/malaga-culmina-ano-demanda-empleos-tecnologicos-125136578.html",
-        "date": "2025-12-26 06:00:54",
-        "sentiment_score": 0.2821348085999489
-    },
-    {
         "title": "Tráfico lento y alertas por nieve en las carreteras españolas",
         "image_url": "https://www.diariodeburgos.es/media/img/2025/94cb59f9-9a8b-4ebc-b2fb446ccbc202bc.jpg",
         "tags": [
@@ -3028,5 +2880,241 @@ export default [
         "link": "https://www.europapress.es/catalunya/noticia-pimec-pide-ce-medidas-mas-ambiciosas-mas-alla-plan-europeo-vivienda-asequible-20251229181227.html",
         "date": "2025-12-29 17:12:27",
         "sentiment_score": 0.6487325578927994
+    },
+    {
+        "title": "El Betis se aferra a Isco: esto es lo que durará la recuperación que podría marcar la temporada",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/14/2025031414544965158.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/cuanto-tiempo-estara-isco-baja-betis-aferra-recuperacion-plena/20251229231617368711.html",
+        "date": "2025-12-29 22:16:17",
+        "sentiment_score": -0.8670723801478744
+    },
+    {
+        "title": "Estos son todos los campeones de la Copa del Rey",
+        "image_url": "https://pxcdn.meridiano.net/122025/1767048395118.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/estos-son-todos-los-campeones-de-la-copa-del-rey-2025122918160",
+        "date": "2025-12-29 22:16:00",
+        "sentiment_score": 0.17226672545075417
+    },
+    {
+        "title": "Muere Enrique Collar, leyenda del Atlético de Madrid, a los 91 años",
+        "image_url": "https://okdiario.com/img/2025/12/29/imagen_recortada-3-1.jpg",
+        "tags": [
+            "atlético de madrid",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/muere-enrique-collar-leyenda-del-atletico-madrid-91-anos-16001810",
+        "date": "2025-12-29 22:10:39",
+        "sentiment_score": -0.7523191310465336
+    },
+    {
+        "title": "Linares se prepara para la llegada de los Reyes Magos, que repartirán 7.300 kilos de caramelos",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/12/29/20251229%20-%20Los%20Reyes%20Magos%20repartirn%207.300%20kilos%20de%20caramelos%20y%20miles%20de%20regalos%20en%20su%20visita%20a%20la%20ciudad%20(2)-ky6H-U240697189145hAC-1200x840@Ideal.JPG",
+        "tags": [
+            "linares",
+            "san francisco",
+            "reyes magos",
+            "linares deportivo",
+            "música"
+        ],
+        "link": "https://www.ideal.es/jaen/linares/linares-prepara-llegada-reyes-magos-repartiran-7300-20251229224500-nt.html",
+        "date": "2025-12-29 21:45:01",
+        "sentiment_score": 0.246633131057024
+    },
+    {
+        "title": "El Celta se intermpone en el camino de un refuerzo monitoreado por el Espanyol",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/29/2025122922263894763.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/celta-intermpone-camino-refuerzo-monitoreado-espanyol/20251229222720368704.html",
+        "date": "2025-12-29 21:27:20",
+        "sentiment_score": 0.40540653467178345
+    },
+    {
+        "title": "Partido urgente para curar las heridas del derbi",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/30662213-9aee-4e62-9172-c67ccbf7c2d3_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pabellón santiago martín",
+            "txus vidorreta",
+            "liga endesa",
+            "cb canarias",
+            "acb"
+        ],
+        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/29/partido-urgente-curar-heridas-derbi-125237698.html",
+        "date": "2025-12-29 20:43:20",
+        "sentiment_score": -0.28752565383911133
+    },
+    {
+        "title": "Cristiano Ronaldo: Quiero llegar a la cifra que todos saben y estoy seguro que llegaré",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/12/CR7-696x392-1.jpg",
+        "tags": [
+            "carrera",
+            "deportes",
+            "1000",
+            "cr7",
+            "29dic",
+            "goles"
+        ],
+        "link": "https://laverdaddemonagas.com/2025/12/29/cristiano-ronaldo-2/",
+        "date": "2025-12-29 20:32:54",
+        "sentiment_score": 0.2743562310934067
+    },
+    {
+        "title": "Córdoba escapa de las fuertes tensiones del precio de la vivienda: cierra 2025 con una subida del 2,8%",
+        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/12/29/bloques-obras-cordoba-km3H-U1014197469546oG-1200x840@diario_abc.jpg",
+        "tags": [
+            "madrid (ciudad)",
+            "palencia",
+            "córdoba",
+            "ceuta",
+            "españa",
+            "vivienda",
+            "andalucía"
+        ],
+        "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-escapa-fuertes-tensiones-precio-vivienda-cierra-20251229113745-nts.html",
+        "date": "2025-12-29 20:30:36",
+        "sentiment_score": -0.10866741836071014
+    },
+    {
+        "title": "El feriante de Cáceres ya tenía una orden de alejamiento por amenazar con un arma al empresario sevillano",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/12/29/OTRAGENERALCCFETEN-RE2TbgrEB7nO6X4eyLlJahK-1200x840@Hoy.jpg",
+        "tags": [
+            "cáceres",
+            "sucesos de extremadura"
+        ],
+        "link": "https://www.hoy.es/caceres/feriante-caceres-orden-alejamiento-amenazar-arma-empresario-20251229190927-nt.html",
+        "date": "2025-12-29 19:49:14",
+        "sentiment_score": -0.7728342898190022
+    },
+    {
+        "title": "Cristiano Ronaldo quiere alcanzar 1.000 goles antes de terminar su carrera, lleva 956",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/4f369d8/2147483647/strip/true/crop/2634x1383+0+187/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2Fa4%2Fabda5ae74debb89dbcb3ee975f3a%2Fdd603f17acbe48f2abf327cfe740b5b0.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-29/cristiano-ronaldo-quiere-alcanzar-1-000-goles-antes-de-terminar-su-carrera-lleva-956",
+        "date": "2025-12-29 19:41:41",
+        "sentiment_score": 0.6007116064429283
+    },
+    {
+        "title": "Más de 30 adultos mayores permanecen como presos políticos en el país",
+        "image_url": "https://www.el-carabobeno.com/wp-content/uploads/2025/12/adultos-mayores-presos-politicos.png",
+        "tags": [
+            "rec1",
+            "rec",
+            "tuit2",
+            "nacional",
+            "rec4",
+            "rec3",
+            "faceb2"
+        ],
+        "link": "https://www.el-carabobeno.com/30-adultos-mayores-permanecen-como-presos-politicos-en-el-pais/",
+        "date": "2025-12-29 22:17:00",
+        "sentiment_score": -0.8575140116736293
+    },
+    {
+        "title": "“¡Es un mago!“: a los 45 años, Ronaldinho sorprendió con tres pases ”no look\" en un partido de fútbol-vóley",
+        "image_url": "https://www.infobae.com/resizer/v2/BTE5DVT2ARAKNNMICRQMV64BGM.jpg?auth=7e7f15b454ef0c0204edb14d4e47b36dabe824cde92023ee81ce3619eb3b647e&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-internacional",
+            "ronaldinho",
+            "deportes-argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/29/es-un-mago-a-los-45-anos-ronaldinho-sorprendio-con-tres-pases-no-look-en-un-partido-de-futbol-voley/",
+        "date": "2025-12-29 22:12:45",
+        "sentiment_score": 0.05608603358268738
+    },
+    {
+        "title": "Hugo González de Oliveira vuelve a ganar el Torneo Internacional de Navidad",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/bb1d6c00-0c1c-4ec4-8381-c1b1862d2a22_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "oliveira",
+            "gonzalez",
+            "ganar",
+            "hugo",
+            "vuelve"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/deportes/2025/12/29/hugo-gonzalez-oliveira-vuelve-ganar-10523211.html",
+        "date": "2025-12-29 22:11:13",
+        "sentiment_score": 0.023645326495170593
+    },
+    {
+        "title": "Sintrasalud: Ministerio de Salud envió sólo 500 juguetes para un censo de siete mil niños",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "locales",
+            "salud"
+        ],
+        "link": "https://eltiempove.com/sintrasalud-ministerio-de-salud-envio-solo-500-juguetes-para-un-censo-de-siete-mil-ninos/",
+        "date": "2025-12-29 21:53:03",
+        "sentiment_score": -0.7639569826424122
+    },
+    {
+        "title": "La Fiscalía investigará las denuncias por acoso sexual contra el catedrático Ramón Flecha",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/fisclia.jpg",
+        "tags": [
+            "violencia",
+            "violencia de género",
+            "fiscalía",
+            "denuncias",
+            "sociedad",
+            "acoso sexual"
+        ],
+        "link": "https://theobjective.com/sociedad/2025-12-29/fiscalia-denuncias-acoso-sexual-contra-catedratico/",
+        "date": "2025-12-29 21:52:39",
+        "sentiment_score": -0.846434710547328
+    },
+    {
+        "title": "La subida de la vivienda triplica la inflación en la mitad de las capitales",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/c304bde3a98a385dfd2466bfa1ad3b01/f/webp/assets/multimedia/imagenes/2025/12/29/17670448141686.jpg",
+        "tags": [
+            "economía>"
+        ],
+        "link": "https://www.expansion.com/economia/2025/12/29/6952f744468aeb477e8b4588.html",
+        "date": "2025-12-29 21:48:56",
+        "sentiment_score": 0.08130517601966858
+    },
+    {
+        "title": "Los precios de la vivienda aceleran la crisis y exigen más esfuerzo a los hogares españoles",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
+        "tags": [
+            "vivienda",
+            "nlpremium",
+            "artículos daniela saltos"
+        ],
+        "link": "https://www.elmundo.es/economia/2025/12/29/69526db4fc6c8383758b458c.html",
+        "date": "2025-12-29 21:48:03",
+        "sentiment_score": 0.22543121129274368
+    },
+    {
+        "title": "Carlos Alcaraz rozó la perfección en un curso para enmarcar",
+        "image_url": "https://cflvdg.avoz.es/sc/0R9_695Ah2JhDwktHV6x9p-4Vds=/768x/2025/12/29/00121767040802180423327/Foto/j_20251229_174854000.jpg",
+        "tags": [
+            "carlos alcaraz",
+            "tenis",
+            "deportes"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/29/carlos-alcaraz-rozo-perfeccion-curso-enmarcar/00031767040832665746128.htm",
+        "date": "2025-12-29 21:35:00",
+        "sentiment_score": 0.8706930000334978
+    },
+    {
+        "title": "Dónde han caído los premios de la Bonoloto, Primitiva, Eurodreams y ONCE de hoy, lunes 29 de diciembre",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2023/12/20/6FD0278D-9A94-4FE5-97BD-59763A767F2A/administracion-castellon-plana_98.jpg?crop=1080%2C608%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-premios-bonoloto-primitiva-eurodreams-once-hoy-lunes-29-diciembre_202512296952f3d6af09df501096a14a.html",
+        "date": "2025-12-29 21:34:14",
+        "sentiment_score": 0.048016153275966644
     }
 ];
