@@ -1,509 +1,5 @@
 export default [
     {
-        "title": "Así pasaron la Navidad algunos jugadores del Unicaja",
-        "image_url": "https://static.grupojoly.com/clip/5e589ce3-8657-4391-9b39-df0440bf7c0a_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.malagahoy.es/unicaja/pasaron-navidad-jugadores-unicaja_3_2005513023.html",
-        "date": "2025-12-25 20:27:11",
-        "sentiment_score": 0.11203277297317982
-    },
-    {
-        "title": "Santiago Bernabéu se convierte en la mina de oro del Real Madrid: meta de 400 millones",
-        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2025/12/Santiago-Bernabeu-Foto-Hotel-INDIANA.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://soynuevaprensadigital.com/npd/santiago-bernabeu-se-convierte-en-la-mina-de-oro-del-real-madrid-meta-de-400-millones/",
-        "date": "2025-12-25 20:26:51",
-        "sentiment_score": 0.6116219758987427
-    },
-    {
-        "title": "Feijóo trata de escaquearse de declarar en Catarroja ante la jueza de la dana pese a tener la agenda vacía el día de su citación",
-        "image_url": "https://static.eldiario.es/clip/c7ac5f70-159f-4781-95bf-41b8b4748584_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "castellón",
-            "análisis",
-            "actualidad",
-            "noticias",
-            "información",
-            "comunidad valenciana",
-            "alicante",
-            "opinión",
-            "valencia"
-        ],
-        "link": "https://www.eldiario.es/comunitat-valenciana/feijoo-trata-escaquearse-declarar-catarroja-jueza-dana-pese-agenda-vacia-dia-citacion_1_12870465.html",
-        "date": "2025-12-25 20:14:50",
-        "sentiment_score": -0.1888641119003296
-    },
-    {
-        "title": "La estrella de Belén que guio a los Reyes Magos: ¿existió realmente?",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/La-estrella-de-Belen-que-guio-a-los-Reyes-Magos-existio-realmente-1.jpg",
-        "tags": [
-            "reyes magos",
-            "ciencia",
-            "oriente medio",
-            "estrellas"
-        ],
-        "link": "https://theobjective.com/sociedad/ciencia/2025-12-25/estrella-belen-reyes-magos/",
-        "date": "2025-12-25 20:14:15",
-        "sentiment_score": 0.18655216693878174
-    },
-    {
-        "title": "Marwán incluye Almería en su gira y actuará el 15 de marzo en el Apolo",
-        "image_url": "https://static.grupojoly.com/clip/40888c02-6eb1-4274-abd6-5419e8c743ea_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/ocio/marwan-incluye-almeria-gira-actuara_0_2005512855.html",
-        "date": "2025-12-25 20:04:15",
-        "sentiment_score": 0.6861959677189589
-    },
-    {
-        "title": "Calleja celebra la Navidad con «un paseo guapísimo» por la nieve en la montaña de León",
-        "image_url": "https://s3.ppllstatics.com/leonoticias/www/multimedia/2025/12/25/calleja-kfmB-U240665887052LOF-1200x840@Leonoticias.jpg",
-        "tags": [
-            "nieve",
-            "leon",
-            "montana",
-            "paseo",
-            "calleja",
-            "guapisimo",
-            "navidad",
-            "celebra"
-        ],
-        "link": "https://www.leonoticias.com/leon/calleja-celebra-navidad-paseo-guapisimo-nieve-montana-20251225204730-nt.html",
-        "date": "2025-12-25 19:47:31",
-        "sentiment_score": 0.31397897005081177
-    },
-    {
-        "title": "Las nuevas maravillas del Camp Nou que ilusionan a los socios del Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/17/culemania/palco/1003742674673_14885237_1706x960.jpg",
-        "tags": [
-            "espai barça",
-            "camp nou",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251225/nuevas-maravillas-camp-nou-ilusionan-socios-barca/1003742716144_0.html",
-        "date": "2025-12-25 19:25:38",
-        "sentiment_score": 0.2119269073009491
-    },
-    {
-        "title": "Real Madrid prevé ingresos millonarios con el Bernabéu",
-        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2025/12/Diseno-sin-titulo-10.png",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://ultimasnoticias.com.ve/deportes/real-madrid-preve-ingresos-millonarios-con-el-bernabeu/",
-        "date": "2025-12-25 19:10:46",
-        "sentiment_score": -0.04969283938407898
-    },
-    {
-        "title": "Las noticias imprescindibles de este jueves 25 de diciembre en León",
-        "image_url": "https://s1.ppllstatics.com/leonoticias/www/multimedia/2025/12/25/newspaint-1766685711500-1200x840-kDEI-U240665242632vUB-1200x840@Leonoticias.jpg",
-        "tags": [
-            "las noticias imprescindibles del día"
-        ],
-        "link": "https://www.leonoticias.com/leon/noticias-imprescindibles-jueves-diciembre-leon-20251225201035-nt.html",
-        "date": "2025-12-25 19:10:35",
-        "sentiment_score": 0.20106851309537888
-    },
-    {
-        "title": "19:00H | 25 DIC 2025 | La Linterna",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/horas-completas/19-00h-25-dic-2025-linterna-20251225_3277483.html",
-        "date": "2025-12-25 19:06:00",
-        "sentiment_score": -0.16769956052303314
-    },
-    {
-        "title": "Adjudicadas, por 1,3 millones, las obras de construcción de la Casa Club 'Alborán Golf'",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/26/Imagen%20Render%20Casa%20Club%20Alborn%20Golf-kbAC-U2406656062895pE-1200x840@Ideal.jpg",
-        "tags": [
-            "el toyo",
-            "golf",
-            "ayuntamiento de almería"
-        ],
-        "link": "https://www.ideal.es/almeria/almeria/adjudicadas-millones-obras-construccion-casa-club-alboran-20251226230723-nt.html",
-        "date": "2025-12-25 22:08:05",
-        "sentiment_score": 0.5845852121710777
-    },
-    {
-        "title": "Zonas de bajas emisiones: restricciones y multas descafeinadas, freno de Vox y el riesgo de 'agujero' en Valencia",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/25/17666833028596.jpg",
-        "tags": [
-            "artículos gerard melgar",
-            "españa",
-            "artículos ismael poveda",
-            "nlpremium",
-            "artículos josean izarra",
-            "artículos silvia moreno",
-            "artículos eduardo colom",
-            "comunidad valenciana",
-            "artículos inma lidón",
-            "artículos carlos guisasola"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/12/25/69492109fdddff677d8b457d.html",
-        "date": "2025-12-25 21:50:42",
-        "sentiment_score": -0.21431681513786316
-    },
-    {
-        "title": "Héctor Bellerín: \"Comprendo los memes del macho performativo, pero hay hombres que buscan un espacio fuera de la masculinidad hegemónica tradicional y la mofa puede asustar\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/3727684ed80deb70dba765782150f49b/crop/0x575/3072x3647/f/image/jpeg/assets/multimedia/imagenes/2024/08/03/17226433175716.jpg",
-        "tags": [
-            "nlpremium",
-            "real betis balompié",
-            "bellerín",
-            "artículos charo lagares"
-        ],
-        "link": "https://www.elmundo.es/papel/lideres/2025/12/25/694c1ae4fc6c832f108b456e.html",
-        "date": "2025-12-25 21:44:08",
-        "sentiment_score": 0.03575710952281952
-    },
-    {
-        "title": "El temporal del mar en Barcelona ciudad obliga a activar la alerta del plan de emergencia",
-        "image_url": "https://www.infobae.com/resizer/v2/K2V4BKKOJBBYRBNFOD6XB6PE7E.jpg?auth=8a0ec7029fba538232719563c477c1d0c3a4096eefd83b8719614f853ae3e998&height=1080&smart=true&width=1920",
-        "tags": [
-            "plan básico de emergencia municipal",
-            "alerta",
-            "barcelona",
-            "guardia urbana",
-            "litoral",
-            "europapress",
-            "playas",
-            "espigones",
-            "ayuntamiento de barcelona",
-            "temporal marítimo",
-            "olas"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/25/el-temporal-del-mar-en-barcelona-ciudad-obliga-a-activar-la-alerta-del-plan-de-emergencia/",
-        "date": "2025-12-25 20:45:45",
-        "sentiment_score": -0.8451709654182196
-    },
-    {
-        "title": "La historia de Alexia Putellas llegará al cine en 2027 como ficción inspiradora",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/05/16/2025051614063393675.jpg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.mundiario.com/articulo/gente/historia-alexia-putellas-llegara-cine-2027-como-ficcion-inspiradora/20251225214422368287.html",
-        "date": "2025-12-25 20:44:22",
-        "sentiment_score": 0.5713183768093586
-    },
-    {
-        "title": "Aitana Bonmatí pone fecha a su vuelta tras la fractura de peroné",
-        "image_url": "https://okdiario.com/img/2025/12/25/imagen_recortada-2025-12-25t212247.427.jpg",
-        "tags": [
-            "selección española de fútbol femenino",
-            "fútbol",
-            "actualidad",
-            "barcelona",
-            "deportes",
-            "fútbol femenino"
-        ],
-        "link": "https://okdiario.com/actualidad/aitana-bonmati-pone-fecha-vuelta-fractura-perone-15989126",
-        "date": "2025-12-25 20:37:14",
-        "sentiment_score": -0.16070587933063507
-    },
-    {
-        "title": "¿Está Europa preparada para un coche eléctrico realmente asequible?",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2024/12/27/2024122718174132390.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.mundiario.com/articulo/economia/coche-electrico-entra-fase-decisiva-precios-mas-bajos-mas-competencia/20251225213032368285.html",
-        "date": "2025-12-25 20:30:32",
-        "sentiment_score": 0.5781803131103516
-    },
-    {
-        "title": "Cataluña encara una noche de fuerte temporal en el mar, con olas de siete metros",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/b314bad24a8ae2b57b49ea3d9e1caad0/f/webp/assets/multimedia/imagenes/2025/12/25/17666945437554.jpg",
-        "tags": [
-            "cataluna"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2025/12/25/694d9ce821efa039098b45ba.html",
-        "date": "2025-12-25 20:29:39",
-        "sentiment_score": -0.009942833334207535
-    },
-    {
-        "title": "El coche eléctrico baja de los 25.000 euros: la ofensiva europea para competir con China",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/25/2025112514481898226.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.mundiario.com/articulo/economia/coche-electrico-baja-25000-euros-ofensiva-europea-competir-china/20251225212455368284.html",
-        "date": "2025-12-25 20:24:55",
-        "sentiment_score": -0.3549386039376259
-    },
-    {
-        "title": "“Mi vida es trabajar y criar, nada más”: así es ser madre sin apoyo familiar",
-        "image_url": "https://static.eldiario.es/clip/e8b22983-f020-4b0e-8328-8175f0a72380_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "madre",
-            "criar",
-            "trabajar",
-            "familiar",
-            "apoyo",
-            "vida"
-        ],
-        "link": "https://www.eldiario.es/nidos/vida-trabajar-criar-madre-apoyo-familiar_1_12868785.html",
-        "date": "2025-12-25 20:14:55",
-        "sentiment_score": -0.2147848755121231
-    },
-    {
-        "title": "Millonarios",
-        "image_url": "https://www.eldebate.com/files/article_social/uploads/2024/06/13/666b6508d3885.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20251226/millonarios_367884.html",
-        "date": "2025-12-26 00:30:00",
-        "sentiment_score": -0.04310043156147003
-    },
-    {
-        "title": "El tenso cruce entre Mourinho y un periodista luego del triunfo del Benfica en la liga de Portugal",
-        "image_url": "https://www.infobae.com/resizer/v2/WCIU4S3AHRBTDPL3LLC3XDWT2A.jpg?auth=7a87dbc6a488034ce156662cf3d3afbcd22e4e951569cbeaf72dc1d0784e6e9b&height=1080&smart=true&width=1920",
-        "tags": [
-            "benfica",
-            "josé mourinho",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/26/el-tenso-cruce-entre-mourinho-y-un-periodista-luego-del-triunfo-del-benfica-en-la-liga-de-portugal/",
-        "date": "2025-12-26 00:28:15",
-        "sentiment_score": -0.8773624580353498
-    },
-    {
-        "title": "Una temporada de contrastes",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/280579db-429a-4c87-8361-906431ad372e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "primera división",
-            "la liga",
-            "costa adeje",
-            "real madrid"
-        ],
-        "link": "https://www.eldia.es/deportes/ud-tenerife/2025/12/26/temporada-contrastes-125141360.html",
-        "date": "2025-12-26 00:00:31",
-        "sentiment_score": 0.40192340314388275
-    },
-    {
-        "title": "Convivencia, diálogo y ejemplaridad",
-        "image_url": "https://imagenes.diariodelaltoaragon.es/files/image_1920_1080/uploads/imagenes/2025/12/24/felipe-vi-pronuncia-su-5391807.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.diariodelaltoaragon.es/noticias/diariodelaltoaragon/opinion/2025/12/26/convivencia-dialogo-y-ejemplaridad-1881350-daa.html",
-        "date": "2025-12-25 23:05:00",
-        "sentiment_score": 0.46046414971351624
-    },
-    {
-        "title": "Lo mejor del deporte en 2025 | El Mundial de Clubes: emociones, sorpresas y una que otra decepción",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2025/12/25/mundial-clubes-2025-orix/",
-        "date": "2025-12-25 23:03:53",
-        "sentiment_score": 0.29933711886405945
-    },
-    {
-        "title": "Cal y arena",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/270cb901-2e91-48c4-829a-85b30c744288_16-9-discover-aspect-ratio_320w_0.webp",
-        "tags": [
-            "psoe",
-            "gobierno regional",
-            "ayuntamiento de gijón"
-        ],
-        "link": "https://www.lne.es/gijon/gijon-oeste/gijon-oeste-opinion/2025/12/26/cal-arena-125138146.html",
-        "date": "2025-12-25 23:01:18",
-        "sentiment_score": -0.004830151796340942
-    },
-    {
-        "title": "Ahora más que nunca, consenso",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/24/pensamiento/1003742718978_15548991_1706x960.jpg",
-        "tags": [
-            "pensamiento",
-            "corrupción",
-            "congreso de los diputados",
-            "políticos"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/pensamiento/20251226/ahora-nunca-consenso/1003742718975_12.html",
-        "date": "2025-12-25 23:00:00",
-        "sentiment_score": -0.9347480870783329
-    },
-    {
-        "title": "Prensa internacional se rinde a los pies de Luis Díaz por año futbolístico en el Liverpool y Bayern Múnich: “Ha estado muy bien”",
-        "image_url": "https://www.infobae.com/resizer/v2/QL6SONBPV5EUHGSPTHZRF3LN2I.JPG?auth=5c205e8749c7d385da5177fd052e582ef7539e76420fa07fc9af0f735ce7ea8a&height=1570&smart=true&width=2187",
-        "tags": [
-            "bayern múnich",
-            "luis díaz bayern múnich",
-            "luis díaz gol",
-            "prensa internacional",
-            "liverpool",
-            "colombia-deportes",
-            "luis díaz",
-            "premier league",
-            "bundesliga"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/12/25/prensa-internacional-se-rinde-a-los-pies-de-luis-diaz-por-ano-futbolistico-en-el-liverpool-y-bayern-munich-ha-estado-muy-bien/",
-        "date": "2025-12-25 22:38:49",
-        "sentiment_score": 0.8316904678940773
-    },
-    {
-        "title": "Denuncian a Cabify por discriminar a las personas en silla de ruedas",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/25/2025122523285760269.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.mundiario.com/articulo/sociedad/denuncian-cabify-discriminar-personas-silla-ruedas/20251225233249368298.html",
-        "date": "2025-12-25 22:32:49",
-        "sentiment_score": -0.13877151161432266
-    },
-    {
-        "title": "Muere Roberto Moreno, catedrático de la ULPGC e impulsor de los estudios tecnológicos",
-        "image_url": "https://static.eldiario.es/clip/03a5ef14-194b-47cb-aafc-d4d5351926ec_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "impulsor",
-            "roberto",
-            "catedratico",
-            "tecnologicos",
-            "moreno",
-            "muere",
-            "ulpgc",
-            "e",
-            "estudios"
-        ],
-        "link": "https://www.eldiario.es/canariasahora/sociedad/muere-roberto-moreno-catedratico-ulpgc-e-impulsor-estudios-tecnologicos_1_12870572.html",
-        "date": "2025-12-25 22:32:19",
-        "sentiment_score": -0.06175197660923004
-    },
-    {
-        "title": "Conmoción en Brasil por fallecimiento de campeona juvenil de gimnasia",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/12/Isabella-Marciniak-1068x601-1.jpg",
-        "tags": [
-            "deceso",
-            "deportes",
-            "isabella marciniak",
-            "25dic"
-        ],
-        "link": "https://laverdaddemonagas.com/2025/12/25/conmocion-en-brasil-gimnasia/",
-        "date": "2025-12-26 02:01:37",
-        "sentiment_score": -0.8641350250691175
-    },
-    {
-        "title": "Detenido en Barcelona por golpear brutalmente a su madre tras negarle dinero",
-        "image_url": "https://reporteconfidencial.info/wp-content/uploads/2025/12/image-470.png",
-        "tags": [
-            "principales",
-            "nacionales"
-        ],
-        "link": "https://reporteconfidencial.info/2025/12/25/detenido-en-barcelona-por-golpear-brutalmente-a-su-madre-tras-negarle-dinero/",
-        "date": "2025-12-26 01:32:26",
-        "sentiment_score": -0.8362184707075357
-    },
-    {
-        "title": "Escribano abrirá en Reino Unido su primera planta fuera de España",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/e0b6e40dba9a73a865f5eda3609d30c1/crop/24x452/1909x1709/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/25/17666973889679.jpg",
-        "tags": [
-            "empresas>",
-            "industria>"
-        ],
-        "link": "https://www.expansion.com/empresas/industria/2025/12/26/694da3e3468aeb7e048b4594.html",
-        "date": "2025-12-26 01:08:58",
-        "sentiment_score": 0.7237555738538504
-    },
-    {
-        "title": "El 'harén' de Ramón Flecha en la UB: el catedrático acusado por 14 mujeres que pedía masajes a sus becarias antes de tener sexo",
-        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744068998_260654358_1706x960.jpg",
-        "tags": [
-            "violencia de género",
-            "reportajes",
-            "alumnos",
-            "investigación científica",
-            "universidad de barcelona",
-            "profesorado",
-            "abusos sexuales",
-            "csic"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251226/haren-ramon-flecha-ub-catedratico-acusado-mujeres-pedia-masajes-becarias-tener-sexo/1003744068217_0.html",
-        "date": "2025-12-26 01:06:46",
-        "sentiment_score": -0.8891744092106819
-    },
-    {
-        "title": "Extremadura descubre en 2025 su poder de atracción de inversiones en centros de datos",
-        "image_url": "https://s3.elespanol.com/2025/01/20/invertia/disruptores/autonomias/extremadura/917918490_252459007_1706x960.jpg",
-        "tags": [
-            "innovación",
-            "transformación digital",
-            "tecnología",
-            "extremadura",
-            "wake up spain"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/autonomias/extremadura/20251226/extremadura-descubre-poder-atraccion-inversiones-centros-datos/1003744064724_0.html",
-        "date": "2025-12-26 01:00:01",
-        "sentiment_score": 0.7853220161050558
-    },
-    {
-        "title": "El milagro navideño de Gina: la catalana de 5 años aparece en Italia tras secuestrarla su padre argentino acusado de maltrato",
-        "image_url": "https://s3.elespanol.com/2025/12/25/actualidad/1003744069633_260662760_1706x1280.jpg",
-        "tags": [
-            "el prat de llobregat",
-            "reportajes",
-            "personas desaparecidas",
-            "navidad",
-            "niños robados",
-            "mozos de escuadra (mossos d'esquadra)",
-            "secuestros de niños",
-            "barcelona (provincia)",
-            "italia"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251226/milagro-navideno-gina-catalana-anos-aparece-italia-secuestrarla-padre-argentino-acusado-maltrato/1003744069510_0.html",
-        "date": "2025-12-26 00:54:51",
-        "sentiment_score": -0.3414100855588913
-    },
-    {
-        "title": "Fernando del Pozo: \"Nunca vi nada como un aliado negándose a seguir lo acordado por consenso\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/282efb91f3c7d14a152347205b159538/resize/1200/f/webp/assets/multimedia/imagenes/2025/10/31/17619357716305.jpg",
-        "tags": [
-            "ministerio de defensa"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/12/26/6905021afdddff9a178b45bb.html",
-        "date": "2025-12-26 00:05:47",
-        "sentiment_score": 0.17523585259914398
-    },
-    {
-        "title": "Daniel Muñoz, elegido en el “once ideal” de la Premier League por la televisión inglesa",
-        "image_url": "https://www.infobae.com/resizer/v2/V2M4P47GTVE2BJXFXZKIHPXXNM.JPG?auth=d3ade81167a8cba838db7e754fe78fd064bef6ae666689d07b4a42751cfcf0da&height=2370&smart=true&width=4213",
-        "tags": [
-            "colombia-deportes",
-            "daniel muñoz",
-            "jamie carragher",
-            "premier league",
-            "crystal palace"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/12/25/daniel-munoz-elegido-en-el-once-ideal-de-la-premier-league-por-la-television-inglesa/",
-        "date": "2025-12-25 23:47:03",
-        "sentiment_score": -0.4983437582850456
-    },
-    {
-        "title": "De la peste porcina a la gripe aviar: Cataluña se enfrenta a dos peligrosos brotes víricos de consecuencias inciertas",
-        "image_url": "https://s3.elespanol.com/2025/12/25/actualidad/1003744069598_260662257_1706x960.jpg",
-        "tags": [
-            "peste porcina",
-            "cataluña",
-            "pollos (valladolid)",
-            "veterinaria",
-            "ciencia",
-            "cerdos",
-            "gripe aviar"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20251226/peste-porcina-gripe-aviar-cataluna-enfrenta-peligrosos-brotes-viricos-consecuencias-inciertas/1003744069580_0.html",
-        "date": "2025-12-25 23:30:26",
-        "sentiment_score": -0.5157177522778511
-    },
-    {
         "title": "Mazón fingió con Feijóo que conocía la magnitud de la tragedia tras la tarde en El Ventorro: \"Se está jodiendo cada minuto\"",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cce9b8dc-6250-4efd-962b-773325776614_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3338,5 +2834,199 @@ export default [
         "link": "https://es.ara.cat/comer/no-elaborar-espumoso-do-cava-esparreguera-cambio-hacerlo-rioja-extremadura_128_5604480.html",
         "date": "2025-12-29 06:00:36",
         "sentiment_score": -0.11105288565158844
+    },
+    {
+        "title": "Cristiano Ronaldo quiere alcanzar 1.000 goles antes de terminar su carrera, lleva 956",
+        "image_url": "https://dims.apnews.com/dims4/default/6683013/2147483647/strip/true/crop/2634x1753+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F1b%2Fa9e39a2b5707132c915f8a4b1fb2%2Fdd603f17acbe48f2abf327cfe740b5b0",
+        "tags": [
+            "cristiano ronaldo 1000 goles record",
+            "deportes",
+            "sports"
+        ],
+        "link": "https://apnews.com/article/cristiano-ronaldo-1000-goles-record-f21a39f706f76b9ed97a62eda65c16ba",
+        "date": "2025-12-29 17:14:53",
+        "sentiment_score": 0.5220872052013874
+    },
+    {
+        "title": "Robles justifica en \"interés comercial\" la compra de armas a Israel y la ruptura del \"embargo total\" sólo dos meses después",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/c8be0ff5d60841b741fde4de6fc2a12d/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/29/17670282493776.jpg",
+        "tags": [
+            "espana"
+        ],
+        "link": "https://www.elmundo.es/espana/2025/12/29/6952b4ffe9cf4a242e8b459e.html",
+        "date": "2025-12-29 17:13:51",
+        "sentiment_score": -0.379286989569664
+    },
+    {
+        "title": "La Fundación Jiménez Díaz lidera el ranking del mejor hospital en España durante una década",
+        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/fundacion_jimenez-Diaz-1.jpg",
+        "tags": [
+            "actualidad",
+            "servimedia"
+        ],
+        "link": "https://theobjective.com/actualidad/2025-12-29/fundacion-jimenez-diaz-hospital-espana/",
+        "date": "2025-12-29 17:13:34",
+        "sentiment_score": 0.3361674174666405
+    },
+    {
+        "title": "La celebración del III Torneo Navideño Datchball consolida a Miguelturra como referente de este deporte",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/III-Torneo-Navideno-Datchball.jpg",
+        "tags": [
+            "clara campoamor",
+            "miguelturra",
+            "campeonato regional",
+            "provincia de ciudad real"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/la-celebracion-del-iii-torneo-navideno-datchball-consolida-a-miguelturra-como-referente-de-este-deporte/",
+        "date": "2025-12-29 17:08:55",
+        "sentiment_score": 0.11628180742263794
+    },
+    {
+        "title": "Granada vs Rayo Vallecano: el juego de Copa del Rey del Día de Reyes",
+        "image_url": "https://pxcdn.meridiano.net/122025/1767029039664.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/granada-vs-rayo-vallecano-el-juego-de-copa-del-rey-del-dia-de-reyes-202512291350",
+        "date": "2025-12-29 17:05:00",
+        "sentiment_score": -0.07268571853637695
+    },
+    {
+        "title": "Un compromiso que va más allá de ofrecer movilidad eficiente y de calidad",
+        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/12/29/Imagen%20Branded%20Cabify1-kwoD-U240695804910a1E-1200x840@Diario%20Montanes.jpg",
+        "tags": [
+            "alla",
+            "compromiso",
+            "ofrecer",
+            "movilidad",
+            "calidad",
+            "eficiente"
+        ],
+        "link": "https://www.eldiariomontanes.es/economia/compromiso-alla-ofrecer-movilidad-eficiente-calidad-20251229180149-nt.html",
+        "date": "2025-12-29 17:01:50",
+        "sentiment_score": 0.7987718991935253
+    },
+    {
+        "title": "Ecologistas en Acción alerta de \"retrocesos\" en objetivos de emisiones y en la política climática europea este 2025",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251229175243_120.jpg",
+        "tags": [
+            "sociedad"
+        ],
+        "link": "https://www.europapress.es/sociedad/noticia-ecologistas-accion-alerta-retrocesos-objetivos-emisiones-politica-climatica-europea-2025-20251229175243.html",
+        "date": "2025-12-29 16:52:43",
+        "sentiment_score": -0.06036941707134247
+    },
+    {
+        "title": "Toni Kroos habla sobre la crisis de Xabi Alonso en el Real Madrid: “Las críticas vienen muy rápido, tienes muy poco tiempo como entrenador para crear algo”",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "españa-deportes",
+            "toni kroos",
+            "fútbol españa",
+            "españa-noticias",
+            "fútbol",
+            "real madrid",
+            "xabi alonso"
+        ],
+        "link": "https://www.infobae.com/espana/deportes/2025/12/29/toni-kroos-habla-sobre-la-crisis-de-xabi-alonso-en-el-real-madrid-las-criticas-vienen-muy-rapido-tienes-muy-poco-tiempo-como-entrenador-para-crear-algo/",
+        "date": "2025-12-29 16:35:57",
+        "sentiment_score": 0.035642705857753754
+    },
+    {
+        "title": "Moyca repartirá 8.100 tarrinas de uva en el UCAM Murcia-Real Madrid de baloncesto",
+        "image_url": "https://www.murciadiario.com/media/murciadiario/images/2025/12/29/2025122917314997524.jpg",
+        "tags": [
+            "empresas"
+        ],
+        "link": "https://www.murciadiario.com/articulo/empresas/moyca-uvas/20251229173515138048.html",
+        "date": "2025-12-29 16:35:15",
+        "sentiment_score": 0.7918952312320471
+    },
+    {
+        "title": "El Índice de Excelencia Hospitalaria 2025 confirma el liderazgo de la Fundación Jiménez Díaz como mejor hospital de España durante una década",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5b387bf-c177-45c7-b324-114436fb52b0_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "madrid",
+            "jesús",
+            "cuatro",
+            "andalucía"
+        ],
+        "link": "https://www.diaridegirona.cat/comunicacio-empresarial/2025/12/29/indice-excelencia-hospitalaria-2025-confirma-liderazgo-fundacion-jimenez-diaz-125231651.html",
+        "date": "2025-12-29 16:34:20",
+        "sentiment_score": 0.27991223335266113
+    },
+    {
+        "title": "El Gobierno español confirma otros dos positivos por peste porcina y un foco de gripe aviar en Catalunya",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b484b216-76ef-4239-b6ab-2520e783dcc9_16-9-aspect-ratio_default_0_x920y614.jpg",
+        "tags": [
+            "positivos",
+            "catalunya",
+            "porcina",
+            "peste",
+            "confirma",
+            "espanol",
+            "gobierno"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2025/12/29/gobierno-espanol-confirma-positivos-peste-porcina-catalunya-10522594.html",
+        "date": "2025-12-29 17:15:40",
+        "sentiment_score": -0.6631727404892445
+    },
+    {
+        "title": "Laporta, investigado por una presunta estafa en 2016",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/29/laporta-investigado-presunta-estafa-kHJ-U240696040834gLE-1200x840@RC.jpg",
+        "tags": [
+            "2016",
+            "laporta",
+            "estafa",
+            "presunta",
+            "investigado"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/laporta-investigado-presunta-estafa-2016-20251229181530-ntrc.html",
+        "date": "2025-12-29 17:15:34",
+        "sentiment_score": -0.7734087947756052
+    },
+    {
+        "title": "El temporal dispara hasta el 82% las reservas de agua de las cuencas internas de Cataluña",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/4DV2S22VWFAGNEURLVIPNZSNAA.jpg?auth=54110df37844cbee55650c0b8fd76bc46c62218cecdedfcdb05dd47c977ae681&width=1200",
+        "tags": [
+            "embalses",
+            "salvador illa",
+            "sequía",
+            "govern cataluña",
+            "regadío",
+            "embalses riego",
+            "barcelona",
+            "cataluña",
+            "lluvias torrenciales",
+            "generalitat cataluña",
+            "confederaciones hidrográficas",
+            "temporales"
+        ],
+        "link": "https://elpais.com/espana/catalunya/2025-12-29/el-temporal-dispara-hasta-el-82-las-reservas-de-agua-de-las-cuencas-internas-de-cataluna.html",
+        "date": "2025-12-29 17:15:27",
+        "sentiment_score": 0.17204837501049042
+    },
+    {
+        "title": "El Roscón de Reyes se une a Fundación Villavecchia contra el cáncer infantil",
+        "image_url": "https://theobjective.com/wp-content/uploads/2024/12/roscon-ocu.jpg",
+        "tags": [
+            "actualidad",
+            "servimedia"
+        ],
+        "link": "https://theobjective.com/actualidad/2025-12-29/roscon-reyes-fundacion-villavecchia-cancer-infantil/",
+        "date": "2025-12-29 17:13:20",
+        "sentiment_score": 0.6547324825078249
+    },
+    {
+        "title": "Pimec pide a la CE medidas \"más ambiciosas\" más allá del Plan Europeo de Vivienda Asequible",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251229181227_690.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-pimec-pide-ce-medidas-mas-ambiciosas-mas-alla-plan-europeo-vivienda-asequible-20251229181227.html",
+        "date": "2025-12-29 17:12:27",
+        "sentiment_score": 0.6487325578927994
     }
 ];
