@@ -3116,5 +3116,197 @@ export default [
         "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-premios-bonoloto-primitiva-eurodreams-once-hoy-lunes-29-diciembre_202512296952f3d6af09df501096a14a.html",
         "date": "2025-12-29 21:34:14",
         "sentiment_score": 0.048016153275966644
+    },
+    {
+        "title": "60 años de la llegada de Mary Poppins",
+        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "anos",
+            "60",
+            "mary",
+            "poppins",
+            "llegada"
+        ],
+        "link": "https://www.malagahoy.es/opinion/articulos/60-anos-llegada-mary-poppins_0_2005526198.html",
+        "date": "2025-12-30 02:07:14",
+        "sentiment_score": 0.0463620126247406
+    },
+    {
+        "title": "El año en el que vimos por primera vez condenado a un fiscal general y a dos altos dirigentes del PSOE en la cárcel",
+        "image_url": "https://s3.elespanol.com/2025/12/20/actualidad/1003744064522_260597543_1706x960.jpg",
+        "tags": [
+            "begoña gómez",
+            "pedro sánchez",
+            "cgpj",
+            "fiscalía general del estado",
+            "cristóbal montoro",
+            "carles puigdemont",
+            "tribunal supremo",
+            "gobierno de españa",
+            "josé luis ábalos",
+            "corrupción"
+        ],
+        "link": "https://www.elespanol.com/espana/tribunales/20251230/ano-vimos-primera-vez-condenado-fiscal-general-altos-dirigentes-psoe-carcel/1003744072981_0.html",
+        "date": "2025-12-30 02:01:46",
+        "sentiment_score": -0.6529106087982655
+    },
+    {
+        "title": "“Vuelve el rey”: Salomón Rondón regresa al fútbol mexicano",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/29215604/Screenshot-2025-12-29-9.55.06-PM.png",
+        "tags": [
+            "fútbol",
+            "deportes",
+            "pachuca",
+            "salomón rondón"
+        ],
+        "link": "https://www.elnacional.com/2025/12/vuelve-el-rey-salomon-rondon-regresa-al-futbol-mexicano/",
+        "date": "2025-12-30 02:01:27",
+        "sentiment_score": 0.4486266039311886
+    },
+    {
+        "title": "El «engaño» climático: la AEMET pasa de pronosticar un invierno «más cálido de lo normal» a reconocer que es la Navidad más fría en 15 años",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/98-28-1-1.jpg",
+        "tags": [
+            "aemet",
+            "cambio climático",
+            "españa",
+            "lluvias",
+            "invierno"
+        ],
+        "link": "https://gaceta.es/espana/el-engano-climatico-la-aemet-pasa-de-pronosticar-un-invierno-mas-calido-de-lo-normal-a-reconocer-que-es-la-navidad-mas-fria-en-15-anos-20251230-0241/",
+        "date": "2025-12-30 01:41:00",
+        "sentiment_score": -0.8706876877695322
+    },
+    {
+        "title": "29 DIC 2025 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/29-dic-2025-partidazo-cope-20251230_3278845.html",
+        "date": "2025-12-30 00:45:00",
+        "sentiment_score": -0.11538290977478027
+    },
+    {
+        "title": "María García de Jaime tiene la camisa de popelina negra con tachuelas plateadas que te eleva cualquier look",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070629_260674639_1706x960.jpg",
+        "tags": [
+            "el estilo",
+            "camisas",
+            "estilo",
+            "moda"
+        ],
+        "link": "https://www.elespanol.com/corazon/estilo/20251230/maria-garcia-jaime-camisa-popelina-negra-tachuelas-plateadas-eleva-cualquier-look/1003744070617_0.html",
+        "date": "2025-12-30 00:33:00",
+        "sentiment_score": 0.44257359579205513
+    },
+    {
+        "title": "Apoyo al Tutor de Pymes: la iniciativa que conecta empresas pequeñas con la FP dual",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7011bba-a36d-4721-bce8-aa0e1e4a59c7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.laprovincia.es/ideas/Camara-de-Comercio-apoyo-PYMES/index.html",
+        "date": "2025-12-30 01:59:56",
+        "sentiment_score": -0.15657201409339905
+    },
+    {
+        "title": "El 'caso Reus' amenaza la reputación de Laporta antes de las elecciones del Barça: el presidente, investigado por estafa",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/03/19/culemania/palco/932416892_14294241_1706x960.png",
+        "tags": [
+            "juicio",
+            "joan laporta",
+            "fc barcelona",
+            "reus",
+            "palco",
+            "estafas"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251230/reus-reputacion-laporta-elecciones-barca-presidente-investigado/1003742719790_0.html",
+        "date": "2025-12-30 00:41:00",
+        "sentiment_score": -0.8833275763317943
+    },
+    {
+        "title": "David y José Muñoz (Estopa), en la intimidad: historias de amor paralelas, hijos y la empresa de música que gestiona su padre",
+        "image_url": "https://s3.elespanol.com/2025/12/29/corazon/famosos/1003744072548_260697856_1706x960.jpg",
+        "tags": [
+            "famosos",
+            "tve (televisión española)",
+            "estopa",
+            "campanadas"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251230/david-jose-munoz-estopa-intimidad-historias-amor-paralelas-hijos-empresa-musica-gestiona-padre/1003744072277_0.html",
+        "date": "2025-12-30 00:33:00",
+        "sentiment_score": 0.15588265284895897
+    },
+    {
+        "title": "Carles Vilarrubí i Carrió",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/28/6951a161b99f3.r_d.981-537.jpeg",
+        "tags": [
+            "obituarios"
+        ],
+        "link": "https://www.eldebate.com/obituarios/20251230/exitoso-empresario-catalan-llego-vicepresidencia-fc-barcelona_369556.html",
+        "date": "2025-12-30 00:30:00",
+        "sentiment_score": -0.06008428335189819
+    },
+    {
+        "title": "Joan Collet sobre Joan Garcia: \"No podemos caer en el error de lo que pasó con Figo\"",
+        "image_url": "https://www.infobae.com/resizer/v2/VPC7JX6INNDOJERH66V2T35RVY.jpg?auth=90eaae90f4e13367b8e231762c49613baae1923cebab1812261558e9402319a8&height=1279&smart=true&width=1920",
+        "tags": [
+            "mossos desquadra",
+            "rcd espanyol",
+            "manolo gonzález",
+            "fc barcelona",
+            "joan garcia",
+            "europapress",
+            "joan collet",
+            "fútbol español",
+            "derbi catalán",
+            "rcde stadium",
+            "cataluña"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/30/joan-collet-sobre-joan-garcia-no-podemos-caer-en-el-error-de-lo-que-paso-con-figo/",
+        "date": "2025-12-30 00:15:56",
+        "sentiment_score": -0.7868030834943056
+    },
+    {
+        "title": "Lionel Messi posó con una camiseta del fútbol argentino y causó furor: “El mejor del mundo, con la remera más linda del mundo”",
+        "image_url": "https://www.infobae.com/resizer/v2/47FYXM3FMZEADDD2GPEH5RYFOY.jfif?auth=08daf653e6637433260a5e47a0c485517c15f298fe0684b2300865bcd51416ca&height=412&smart=true&width=732",
+        "tags": [
+            "lionel messi",
+            "tristán suárez",
+            "selección argentina",
+            "inter miami"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/30/lionel-messi-poso-con-una-camiseta-del-futbol-argentino-y-causo-furor-el-mejor-del-mundo-con-la-remera-mas-linda-del-mundo/",
+        "date": "2025-12-30 00:01:32",
+        "sentiment_score": 0.19057904183864594
+    },
+    {
+        "title": "El Hospital Quirónsalud Tenerife, líder de la sanidad privada canaria según el Índice de Excelencia Hospitalaria 2025",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a0c7453f-a172-43bd-b96d-43557e2e03e4_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "españa",
+            "hospital quirónsalud",
+            "sanidad privada",
+            "innovación",
+            "tenerife",
+            "canarias",
+            "quirónsalud"
+        ],
+        "link": "https://www.eldia.es/tenerife/2025/12/30/hospital-quironsalud-tenerife-lider-sanidad-125239478.html",
+        "date": "2025-12-29 23:59:00",
+        "sentiment_score": 0.7100261524319649
+    },
+    {
+        "title": "Arranca 2026 con empleo: cadena de supermercados y farmacias ofrece estas vacantes en varios estados",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1767054371929.jpg?ch=675&cw=1200",
+        "tags": [
+            "redvital",
+            "makro"
+        ],
+        "link": "https://2001online.com/servicios/arranca-2026-con-empleo-cadena-de-supermercados-y-farmacias-ofrece-estas-vacantes-en-varios-estados-2025122919510",
+        "date": "2025-12-29 23:51:00",
+        "sentiment_score": 0.06194693595170975
     }
 ];
