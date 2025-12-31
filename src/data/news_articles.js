@@ -1,210 +1,5 @@
 export default [
     {
-        "title": "El Procurador pide ayudas específicas al pastoreo en Castilla y León para prevenir incendios forestales",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2025/12/26/694e871ba633b.r_d.581-499-14067.jpeg",
-        "tags": [
-            "castilla y león"
-        ],
-        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/251227/103857/procurador-pide-ayudas-especificas-pastoreo-castilla-leon-prevenir-incendios-forestales.html",
-        "date": "2025-12-27 06:30:00",
-        "sentiment_score": 0.14428755640983582
-    },
-    {
-        "title": "Pablo Aguado: el cambio tranquilo...",
-        "image_url": "https://static.grupojoly.com/clip/44f60f1b-5656-4472-8157-3f8ffaa92f7a_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "plaza de toros de la maestranza de sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/toros/pablo-aguado-cambio-tranquilo_0_2005506217.html",
-        "date": "2025-12-27 06:00:44",
-        "sentiment_score": 0.5170247480273247
-    },
-    {
-        "title": "Un rival propicio para seguir avanzando hacia la Copa",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/64d087a8-1a36-498a-a51d-4608af290c01_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rival",
-            "san pablo burgos",
-            "seguir",
-            "avanzando",
-            "euroliga",
-            "paolo galbiati",
-            "baskonia",
-            "copa",
-            "acb",
-            "propicio",
-            "copa del rey"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2025/12/27/rival-propicio-seguir-avanzando-copa-baskonia-acb-san-pablo-burgos-euroliga-copa-del-rey-paolo-galbiati-10515473.html",
-        "date": "2025-12-27 06:00:41",
-        "sentiment_score": 0.1070181205868721
-    },
-    {
-        "title": "Las 10 claves del éxito del Espanyol de Manolo González: del caos a la estabilidad, una transformación impensable",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/11/entreno-rcd-espanyol-manolo-gonzalez-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/espanyol-claves-exito-manolo-gonzalez/",
-        "date": "2025-12-27 06:00:32",
-        "sentiment_score": 0.7017159909009933
-    },
-    {
-        "title": "\"ChatGPT, ¿es verdad que los Reyes son los padres?\": el reto de mantener la magia de la Navidad en la era de la hiperconectividad",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/98685d69-1bf7-4272-a17b-ae9b89e36f19_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "internet",
-            "educación",
-            "club de educación y crianza",
-            "los reyes magos",
-            "niños",
-            "chatgpt",
-            "navidad",
-            "inteligencia artificial"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251227/chatgpt-reyes-padres-magia-navidad-inocencia-era-digital-125140238",
-        "date": "2025-12-27 06:00:20",
-        "sentiment_score": -0.2519531697034836
-    },
-    {
-        "title": "La discreta vida de Sonsoles Espinosa: cantante de ópera, estudios, su matrimonio con Zapatero y sus propiedades",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2630636.jpg",
-        "tags": [
-            "dolcevita"
-        ],
-        "link": "https://www.vozpopuli.com/dolcevita/la-discreta-vida-de-sonsoles-espinosa-cantante-de-opera-estudios-su-matrimonio-con-zapatero-y-sus-propiedades.html",
-        "date": "2025-12-27 06:00:02",
-        "sentiment_score": -0.6809807196259499
-    },
-    {
-        "title": "¿El mejor Espanyol moderno? El equipo de Manolo ya compite con Clemente y Valverde, cuyo batacazo en el 2008 sirve de aviso",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/celebracion-1-1-romero-athletic-club-espanyol-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/espanyol-mejor-primera-vuelta-primera-division/",
-        "date": "2025-12-27 05:55:40",
-        "sentiment_score": 0.7151191681623459
-    },
-    {
-        "title": "¿En Argentina o en el exterior?: cuánto cuesta irse de vacaciones en 2026 y qué opción es la más barata",
-        "image_url": "https://www.infobae.com/resizer/v2/RXOS5XS6JRDNXCWI2X77DS7SZY.jpg?auth=da84115d9c23d7426a2caa88950f1918946bb49e60796250d504653bc13a8812&height=1080&smart=true&width=1920",
-        "tags": [
-            "destinos turísticos argentinos",
-            "últimas noticias",
-            "turismo interno en argentina",
-            "veranear",
-            "poder adquisitivo argentina",
-            "vacaciones 2026 argentina",
-            "destinos internacionales baratos",
-            "costo de vacaciones"
-        ],
-        "link": "https://www.infobae.com/economia/2025/12/27/en-argentina-o-en-el-exterior-cuanto-cuesta-irse-de-vacaciones-en-2026-y-que-opcion-es-la-mas-barata/",
-        "date": "2025-12-27 05:44:53",
-        "sentiment_score": -0.0035001710057258606
-    },
-    {
-        "title": "Lluvia, viento y oleaje activan este sábado avisos en siete provincias con mínimas de hasta -3°C",
-        "image_url": "https://www.galiciapress.es/images/285310",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.galiciapress.es/articulo/ultima-hora/2025-12-27/5716668-lluvia-viento-oleaje-activan-sabado-avisos-siete-provincias-minimas-hasta-3c",
-        "date": "2025-12-27 06:31:04",
-        "sentiment_score": -0.5372786372900009
-    },
-    {
-        "title": "Catalunya despliega los lectores de matrículas en autopistas y carreteras en la lucha contra el crimen organizado",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3005caed-ce8b-4d4f-af4a-01954782a7c2_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "delincuencia",
-            "mossos d'esquadra",
-            "terrorismo",
-            "sucesos",
-            "radares de tráfico",
-            "tráfico"
-        ],
-        "link": "https://www.elperiodico.com/es/sucesos/20251227/mossos-amplian-sistema-lectura-matriculas-autopistas-carreteras-crimen-organizado-terrorismo-125144457",
-        "date": "2025-12-27 06:30:15",
-        "sentiment_score": -0.20504537224769592
-    },
-    {
-        "title": "La artista Zoly Segovia expone su obra ‘De flores y territorios’ en la Casa Joven",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/40-1.jpg",
-        "tags": [
-            "la última",
-            "segovia"
-        ],
-        "link": "https://eladelantado.com/la-artista-zoly-segovia-expone-su-obra-de-flores-y-territorios-en-la-casa-joven/",
-        "date": "2025-12-27 06:12:37",
-        "sentiment_score": 0.5622852966189384
-    },
-    {
-        "title": "Comprar una casa en la provincia de Málaga cuesta hoy un 43% más que hace cinco años",
-        "image_url": "https://static.grupojoly.com/clip/dd414b21-c282-4f8a-b737-0e6e2093a4f3_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias málaga",
-            "vivienda málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/comprar-casa-provincia-malaga-cuesta_0_2005516066.html",
-        "date": "2025-12-27 06:00:50",
-        "sentiment_score": -0.3856925889849663
-    },
-    {
-        "title": "Estas son las horas a las que más lloverá este sábado 27 de diciembre",
-        "image_url": "https://static.grupojoly.com/clip/403f9f81-50c8-412e-a759-3e887772fd57_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "el tiempo en sevilla",
-            "últimas noticias sevilla"
-        ],
-        "link": "https://www.diariodesevilla.es/sevilla/son-horas-llovera-sabado-27_0_2005514905.html",
-        "date": "2025-12-27 06:00:46",
-        "sentiment_score": -0.7583518754690886
-    },
-    {
-        "title": "Éxito de Ripley y Tagliavini desde su dirección de Uría Menéndez Barcelona",
-        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2025/12/uria-menendez.jpg",
-        "tags": [
-            "znoticia portada2",
-            "despachos y abogados",
-            "barcelona",
-            "firma legal",
-            "uría menendez",
-            "ciudad condal",
-            "despachos",
-            "app",
-            "abogados",
-            "abogacia"
-        ],
-        "link": "https://www.economistjurist.es/actualidad-juridica/actualidad-de-los-despachos/exito-de-ripley-y-tagliavini-desde-su-direccion-de-uria-menendez-barcelona/",
-        "date": "2025-12-27 06:00:35",
-        "sentiment_score": 0.5738537311553955
-    },
-    {
-        "title": "Nani Marquina, diseñadora: \"Hay algo de infantil en descalzarse y revolcarse en una alfombra\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7eb27391-82e1-454c-8c66-e528b21994c8_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "entender más",
-            "diseño"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251227/nani-marquina-disenadora-hay-infantil-124865099",
-        "date": "2025-12-27 06:00:14",
-        "sentiment_score": 0.04358425736427307
-    },
-    {
-        "title": "Éxitos como futbolista, polémicas fuera del campo y ruptura con Nicki Nicole: así ha sido el 2025 para Lamine Yamal",
-        "image_url": "https://www.hola.com/horizon/landscape/8a631053afef-gettyimages-2233344319.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "deporte",
-            "lamine yamal"
-        ],
-        "link": "https://www.hola.com/actualidad/20251227872897/asi-ha-sido-el-2025-para-lamine-yamal/",
-        "date": "2025-12-27 06:00:00",
-        "sentiment_score": -0.6352597177028656
-    },
-    {
         "title": "Conmoción en el Valencia y el fútbol por la tragedia de Fernando Martín en Indonesia: \"Consternados\"",
         "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/27/694ffa98caec70-14913927.jpeg",
         "tags": [
@@ -2986,5 +2781,226 @@ export default [
         "link": "https://www.elespanol.com/elandroidelibre/moviles-android/20251230/promete-calentar-mercado-movil-espana-vivo-xiaomi-apuestan-traer-modelos-ultra-europa/1003744074110_0.html",
         "date": "2025-12-30 17:01:16",
         "sentiment_score": 0.6387880370020866
+    },
+    {
+        "title": "El Real Madrid da un golpe de autoridad en la cancha del UCAM Murcia y despide 2025 como líder de la Liga Endesa",
+        "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744074482_260720480_1706x960.jpg",
+        "tags": [
+            "liga endesa",
+            "real madrid baloncesto",
+            "deportes",
+            "baloncesto"
+        ],
+        "link": "https://www.elespanol.com/deportes/baloncesto/20251230/real-madrid-da-golpe-autoridad-cancha-ucam-murcia-despide-lider-liga-endesa/1003744074479_0.html",
+        "date": "2025-12-30 22:13:40",
+        "sentiment_score": 0.6657443232834339
+    },
+    {
+        "title": "El 2025 madrileño: de las grandes obras y el tráfico a la tensión política... sin olvidar que se retiró Morante y llegó la NFL",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/11/16/17633040074115.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/12/30/6953bfdbfdddffbc038b45af.html",
+        "date": "2025-12-30 21:27:33",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Blindaje policial en la Puerta del Sol para las uvas: tres filtros, un millar de efectivos y un aforo de 15.000 personas",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/bfc62fc31d86105e92fd646741f3f8b8/crop/0x0/1166x1166/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529624450788.jpg",
+        "tags": [
+            "policía nacional",
+            "campanadas"
+        ],
+        "link": "https://www.elmundo.es/madrid/2025/12/30/69541417fdddff2c088b45bb.html",
+        "date": "2025-12-30 21:27:22",
+        "sentiment_score": -0.699987405911088
+    },
+    {
+        "title": "Canarias sigue a la cola en servicios sociales: los dos municipios entre los más “pobres”",
+        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2016/12/mayores-dependencia.jpg",
+        "tags": [
+            "sociedad",
+            "portada apertura 4",
+            "portada"
+        ],
+        "link": "https://diariodeavisos.elespanol.com/2025/12/municipios-canarias-servicios-sociales/",
+        "date": "2025-12-30 21:26:13",
+        "sentiment_score": -0.8441230729222298
+    },
+    {
+        "title": "Por un 2026 repleto de éxitos para el Racing de Ferrol",
+        "image_url": "https://cflvdg.avoz.es/sc/vhQO2jCfCQQwhV6e__n89fCJlnM=/768x/2025/12/30/00121767115084131622339/Foto/f_20251230_165806001.jpg",
+        "tags": [
+            "racing de ferrol",
+            "fútbol gallego",
+            "opa racing"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/oparacing/2025/12/31/2026-repleto-exitos/0003_202512F31P39991.htm",
+        "date": "2025-12-30 21:12:01",
+        "sentiment_score": 0.6887170225381851
+    },
+    {
+        "title": "Las memorias más esperadas de 2025: del rey Juan Carlos a Isabel Preysler, un fenómeno editorial sin precedentes",
+        "image_url": "https://www.hola.com/horizon/landscape/b0d32d4085ad-dlu378449007.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "rey juan carlos",
+            "inaki urdangarin",
+            "isabel preysler",
+            "mar flores",
+            "actualidad"
+        ],
+        "link": "https://www.hola.com/actualidad/20251230872440/memoria-esperadas-2025-rey-juan-carlos-isabel-preysler-fenomeno-editorial/",
+        "date": "2025-12-30 21:05:21",
+        "sentiment_score": 0.3206103965640068
+    },
+    {
+        "title": "\"Victoria Eugenia fue una reina que se preocupó por el pueblo español\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/30/xih16aa4zmjsxcof9.jpeg",
+        "tags": [
+            "la linterna"
+        ],
+        "link": "https://www.cope.es/programas/la-linterna/noticias/hay-gente-pone-duda-claro-victoria-eugenia-reina-preocupo-pueblo-espanol-ayudo-causas-sociales-epoca-20251230_3279382.html",
+        "date": "2025-12-30 20:30:00",
+        "sentiment_score": -0.07896527647972107
+    },
+    {
+        "title": "De la 'gracia' de un petardo al sufrimiento de las personas con TEA y los animales: “No es nada necesario”",
+        "image_url": "https://static.eldiario.es/clip/970dbb64-4bea-42ac-a689-39356287d134_16-9-discover-aspect-ratio_default_1133386.jpg",
+        "tags": [
+            "tea",
+            "animales",
+            "necesario",
+            "personas",
+            "petardo",
+            "gracia",
+            "sufrimiento",
+            "no"
+        ],
+        "link": "https://www.eldiario.es/sociedad/gracia-petardo-sufrimiento-personas-tea-animales-no-necesario_1_12874738.html",
+        "date": "2025-12-30 20:21:08",
+        "sentiment_score": -0.21648894250392914
+    },
+    {
+        "title": "Trabajo esclavo y vidas rotas: la verdad anegada de los pantanos de Franco",
+        "image_url": "https://static.eldiario.es/clip/00709773-b047-4165-a6ec-8853e0f2765f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "rotas",
+            "trabajo",
+            "esclavo",
+            "anegada",
+            "pantanos",
+            "vidas",
+            "franco"
+        ],
+        "link": "https://www.eldiario.es/castilla-y-leon/trabajo-esclavo-vidas-rotas-anegada-pantanos-franco_1_12876070.html",
+        "date": "2025-12-30 20:21:07",
+        "sentiment_score": -0.08754852414131165
+    },
+    {
+        "title": "105-83 | El Unicaja brinda por la Copa antes de las uvas",
+        "image_url": "https://s3.elespanol.com/2025/12/30/malaga/deporte/unicaja/1003744074452_260720127_1706x960.jpg",
+        "tags": [
+            "liga endesa",
+            "club baloncesto málaga (unicaja málaga)",
+            "acb",
+            "joventut de badalona",
+            "unicaja",
+            "baloncesto"
+        ],
+        "link": "https://www.elespanol.com/malaga/deporte/unicaja/20251230/unicaja-brinda-copa-uvas/1003744074310_0.html",
+        "date": "2025-12-30 20:11:50",
+        "sentiment_score": 0.4965727776288986
+    },
+    {
+        "title": "Crónica del Barça - AS Monaco: 74-90",
+        "image_url": "https://www.infobae.com/resizer/v2/6LHCLJ7WA5AATCD2M2HWNISZ6M.jpg?auth=a6db37ce1cc6cfe3686ca806c56bcf8028fa91075550a2bd65853be0cb3eec9a&height=1280&smart=true&width=1920",
+        "tags": [
+            "darío brizuela",
+            "as monaco",
+            "playoffs",
+            "euroliga",
+            "mike james",
+            "palau blaugrana",
+            "europapress",
+            "barça",
+            "nikola mirotic",
+            "mónaco",
+            "baloncesto"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2025/12/30/cronica-del-barca-as-monaco-74-90/",
+        "date": "2025-12-30 22:15:16",
+        "sentiment_score": -0.6116347908973694
+    },
+    {
+        "title": "El Valencia cierra el año como líder de la Euroliga",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/30/69544caf4cdb1.r_d.594-520-3226.jpeg",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/valencia-cierra-ano-lider-euroliga-20251230_3279412.html",
+        "date": "2025-12-30 22:09:56",
+        "sentiment_score": -0.046176910400390625
+    },
+    {
+        "title": "Otra estupenda actuación de Enzo Fernández en Chelsea: marcó un golazo y tuvo un “gesto de campeón del mundo” con un niño",
+        "image_url": "https://www.infobae.com/resizer/v2/NZRADITLFVA4RCTL2Z2H6EA5OY.JPG?auth=0ae4989bc9f525898e8c28c30b9d321c19db064e4499705f9e8e09548fa010f0&height=2800&smart=true&width=4366",
+        "tags": [
+            "chelsea",
+            "premier league",
+            "enzo fernández"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/30/otra-estupenda-actuacion-de-enzo-fernandez-en-chelsea-marco-un-golazo-y-tuvo-un-gesto-de-campeon-del-mundo-con-un-nino/",
+        "date": "2025-12-30 22:08:09",
+        "sentiment_score": 0.6167109310626984
+    },
+    {
+        "title": "VÍDEO | La doble técnica y expulsión a un Xavi Pascual indignado y ovacionado por un Palau encendido",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/30/image-1b66e3b8-b47f-468b-922a-f50982750d09-85-2560-1440.jpeg",
+        "tags": [
+            "euroleague 2025-2026",
+            "basketball"
+        ],
+        "link": "https://espanol.eurosport.com/baloncesto/euroliga/2025-2026/video-expulsion-xavi-pascual-barcelona-monaco-palau-doble-tecnica-arbitraje_sto23254710/story.shtml",
+        "date": "2025-12-30 21:54:11",
+        "sentiment_score": -0.7224117517471313
+    },
+    {
+        "title": "El Barça tiene atravesado al Mónaco",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bf7c1b4e-190e-4ce0-b417-1cdf69cbbf93_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "euroliga",
+            "baloncesto",
+            "fc barcelona de baloncesto"
+        ],
+        "link": "https://www.lne.es/deportes/2025/12/30/barca-atravesado-monaco-125266295.html",
+        "date": "2025-12-30 21:48:14",
+        "sentiment_score": -0.903155280277133
+    },
+    {
+        "title": "Motrasalud se une a iniciativa privada para brindar un almuerzo a personal de hospital (+Fotos)",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "salud",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/motrasalud-se-une-a-iniciativa-privada-para-brindar-un-almuerzo-a-personal-de-hospital-fotos/",
+        "date": "2025-12-30 21:47:43",
+        "sentiment_score": 0.18204446136951447
+    },
+    {
+        "title": "Al Barça de las mil vidas se le indigestan los silbidos",
+        "image_url": "https://static1.ara.cat/clip/df133fed-e0e1-4128-842d-31dafcc96385_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "mil",
+            "le",
+            "indigestan",
+            "vidas",
+            "silbidos",
+            "barca"
+        ],
+        "link": "https://es.ara.cat/deportes/baloncesto/barca-mil-vidas-le-indigestan-silbidos_1_5606068.html",
+        "date": "2025-12-30 21:25:45",
+        "sentiment_score": -0.7844194620847702
     }
 ];
