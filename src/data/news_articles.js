@@ -1,500 +1,5 @@
 export default [
     {
-        "title": "La izquierda fracasa en su intento de unidad en Aragón e irá dividida con tres listas diferentes",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2025/12/20251226230037.jpg?fit=1920%2C1280&ssl=1",
-        "tags": [
-            "política"
-        ],
-        "link": "https://cronicadecantabria.com/cr/la-izquierda-fracasa-en-su-intento-de-unidad-en-aragn-e-ir-dividida-con-tres-listas-diferentes/",
-        "date": "2025-12-26 22:00:03",
-        "sentiment_score": -0.8883854988962412
-    },
-    {
-        "title": "El milagro, en diez claves",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/4fb42b73018f5771f8183c53b5fab529/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/26/17667629694814.jpg",
-        "tags": [
-            "nlpremium",
-            "china"
-        ],
-        "link": "https://www.elmundo.es/internacional/2025/12/26/694e686cfdddff82778b4583.html",
-        "date": "2025-12-26 21:55:44",
-        "sentiment_score": 0.6868342123925686
-    },
-    {
-        "title": "Campazzo no es suficiente para levantar al Real Madrid",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/d0685e48-7ee3-4681-969b8a8e158504bb.jpg",
-        "tags": [
-            "usman garuba",
-            "charles leclerc",
-            "mónaco",
-            "sergio llull",
-            "nikola mirotic",
-            "sergio scariolo",
-            "facundo campazzo",
-            "euroliga",
-            "real madrid",
-            "córdoba",
-            "baloncesto"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z5d7d2f1b-207f-4e7a-b257e59e1f4e29a5/202512/campazzo-no-es-suficiente-para-levantar-al-real-madrid",
-        "date": "2025-12-26 21:52:02",
-        "sentiment_score": -0.7660352569073439
-    },
-    {
-        "title": "El Madrid cae en Mónaco antes de recibir al Unicaja",
-        "image_url": "https://static.grupojoly.com/clip/c3372c1a-fa29-465a-a2be-a04b1c435aa9_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.malagahoy.es/unicaja/madrid-cae-monaco-recibir-unicaja_3_2005516765.html",
-        "date": "2025-12-26 21:45:57",
-        "sentiment_score": -0.5491453781723976
-    },
-    {
-        "title": "Mbappé se pone la camiseta de Achraf Hakimi, en la Copa África, para animar a Marruecos",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/26/694f010672423.r_d.540-351-4075.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/mbappe-pone-camiseta-achraf-hakimi-copa-africa-animar-marruecos-20251226_3278045.html",
-        "date": "2025-12-26 21:41:52",
-        "sentiment_score": -0.11020129919052124
-    },
-    {
-        "title": "Sin acuerdo global de las izquierdas en Aragón: IU y Sumar pactan, pero Podemos y CHA concurrirán por separado el 8M",
-        "image_url": "https://static.eldiario.es/clip/83392bee-b3ce-4956-956f-02c5bfd0f4b4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "zaragoza",
-            "teruel",
-            "eldiario",
-            "elprismático",
-            "actualidad",
-            "fernando garcía mongay",
-            "política",
-            "óscar f. civieta",
-            "marimar cabrera",
-            "huesca",
-            "sociedad",
-            "aragón",
-            "celia soria"
-        ],
-        "link": "https://www.eldiario.es/aragon/politica/acuerdo-global-izquierdas-aragon-iu-sumar-pactan-cha-concurriran-separado-8m_1_12872289.html",
-        "date": "2025-12-26 21:27:22",
-        "sentiment_score": -0.024935930967330933
-    },
-    {
-        "title": "La IFFHS dio a conocer los rankings con los mejores de la temporada: las posiciones de Messi, Dibu Martínez y Scaloni",
-        "image_url": "https://www.infobae.com/resizer/v2/RMU3HDVTXNETHL27MISA4FNEGQ.jpg?auth=36171bf854733f908bf748883f1c5615809de9a8f6c2a855dd580d65b53e7286&height=1080&smart=true&width=1920",
-        "tags": [
-            "lionel messi",
-            "deportes-argentina",
-            "iffhs",
-            "lionel scaloni",
-            "dibu martínez"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/26/la-iffhs-dio-a-conocer-los-rankings-con-los-mejores-de-la-temporada-las-posiciones-de-messi-dibu-martinez-y-scaloni/",
-        "date": "2025-12-26 21:25:58",
-        "sentiment_score": 0.1051173247396946
-    },
-    {
-        "title": "Campazzo no puede con el Mónaco",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/26/694efc3d8a15a.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/campazzo-monaco-20251226_3278043.html",
-        "date": "2025-12-26 21:22:59",
-        "sentiment_score": -0.03890720009803772
-    },
-    {
-        "title": "Crónica del AS Monaco - Real Madrid: 100-95",
-        "image_url": "https://www.infobae.com/resizer/v2/QAOJ6ETTLFB23N5MPMYGHFS46U.jpg?auth=9d8d02d8f2eb157b673400f44815fa71741dd85e5f91de76aa13264ed70f4834&height=1280&smart=true&width=1920",
-        "tags": [
-            "euroliga",
-            "sergio scariolo",
-            "nikola mirotic",
-            "as monaco",
-            "europapress",
-            "mónaco",
-            "baloncesto",
-            "salle gaston médecin",
-            "vassilis spanoulis",
-            "real madrid",
-            "facundo campazzo"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/26/cronica-del-as-monaco-real-madrid-100-95/",
-        "date": "2025-12-26 21:15:17",
-        "sentiment_score": 0.8476174864917994
-    },
-    {
-        "title": "Imagínate de Danny Ocean con Kapo es la canción venezolana mejor posicionada en las 50 de la revista Rolling Stone 2025",
-        "image_url": "https://www.turimiquire.net/wp-content/uploads/2025/12/imaginate-de-danny-ocean-con-kapo-es-la-cancion-venezolana-mejor-posicionada-en-las-50-de-la-revista-rolling-stone-2025.jpg",
-        "tags": [
-            "el pizarrón noticias"
-        ],
-        "link": "https://www.turimiquire.net/2025/12/26/imaginate-de-danny-ocean-con-kapo-es-la-cancion-venezolana-mejor-posicionada-en-las-50-de-la-revista-rolling-stone-2025/",
-        "date": "2025-12-26 21:01:10",
-        "sentiment_score": 0.11389105021953583
-    },
-    {
-        "title": "Robert Lewandowski se sincera sobre su futuro en el Barcelona: \"No se trata de bajarme el sueldo a la mitad\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/10/16/68f0fe1053e12.r_d.1506-1190-1433.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/robert-lewandowski-sincera-sobre-futuro-barcelona-trata-bajarme-sueldo-mitad-20251226_3278050.html",
-        "date": "2025-12-26 22:14:59",
-        "sentiment_score": -0.05062547326087952
-    },
-    {
-        "title": "El Manchester United bate al Newcastle en un Boxing Day de mínimos",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/26/694f0523d0314.r_d.1733-1207-1295.jpeg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/20251226/11396155/united-bate-newcastle-boxing-day-minimos.html",
-        "date": "2025-12-26 22:00:51",
-        "sentiment_score": 0.8704790975898504
-    },
-    {
-        "title": "La 'fiebre' de las experiencias inmersivas llega a Terrassa: GameSide invierte casi 2 millones en su primer centro de 600 m2 en España",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/20/actualidad/1003742709189_15425467_1706x960.jpg",
-        "tags": [
-            "terrassa",
-            "gran barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251226/fiebre-experiencias-inmersivas-llega-terrassa-gameside-invierte-millones-primer-centro-m2-espana/1003742713218_0.html",
-        "date": "2025-12-26 22:00:00",
-        "sentiment_score": 0.4506624788045883
-    },
-    {
-        "title": "De una granja en Nueva York a ser taxista en Barcelona: \"Aquí tengo mi libertad y puedo vivir mi vida a mi manera\"",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/22/actualidad/1003742718453_15542558_1706x960.jpg",
-        "tags": [
-            "uber",
-            "historia",
-            "vivir en barcelona",
-            "taxistas barcelona"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251226/granja-nueva-york-taxista-barcelona-libertad-puedo-vivir-vida-manera/1003742718955_0.html",
-        "date": "2025-12-26 22:00:00",
-        "sentiment_score": 0.19790802896022797
-    },
-    {
-        "title": "Agustí Colomines, diputado de Junts: \"Sánchez cometió un error histórico al engañar a Puigdemont\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/9602e51eaab3dbc20e19e9b11bb673ac/f/image/jpeg/assets/multimedia/imagenes/2023/05/27/16851936859154.jpg",
-        "tags": [
-            "artículos iñaki ellakuría",
-            "carles puigdemont",
-            "nlpremium",
-            "pedro sánchez"
-        ],
-        "link": "https://www.elmundo.es/cataluna/2025/12/26/694edd2be9cf4a643b8b458e.html",
-        "date": "2025-12-26 21:57:59",
-        "sentiment_score": 0.17295411974191666
-    },
-    {
-        "title": "Ilan y la jauría: \"Le perseguían para pegarle, se burlaban de él, lloraba de miedo\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/90e26ffa675aeebb56a7fe4ba9b7e3f1/crop/344x161/2296x2114/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529602497028.jpg",
-        "tags": [
-            "acoso escolar",
-            "educación",
-            "baleares",
-            "infancia",
-            "artículos pedro simón",
-            "nlpremium"
-        ],
-        "link": "https://www.elmundo.es/papel/historias/2025/12/26/694eac44fc6c831f6f8b456d.html",
-        "date": "2025-12-26 21:51:54",
-        "sentiment_score": -0.7060053404420614
-    },
-    {
-        "title": "Varios accidentes provocan retenciones en Guadalajara, Madrid, Segovia, Lérida, Valencia o Cádiz",
-        "image_url": "https://www.infobae.com/resizer/v2/UCL3G3QLVJAQFGTTJKATA3A2IY.jpg?auth=81cdd6223fb47c6aa4eff5180fb9902184ac7cc33a7a8f29c63acb368bfe1015&height=1280&smart=true&width=1920",
-        "tags": [
-            "carreteras",
-            "accidentes de tráfico",
-            "madrid",
-            "temporales de nieve",
-            "segovia",
-            "guadalajara",
-            "europapress",
-            "operación de tráfico de navidad",
-            "cádiz",
-            "dirección general de tráfico",
-            "valencia"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/26/varios-accidentes-provocan-retenciones-en-guadalajara-madrid-segovia-lerida-valencia-o-cadiz/",
-        "date": "2025-12-26 21:45:29",
-        "sentiment_score": -0.7592020463198423
-    },
-    {
-        "title": "Muere Perry Bamonte, guitarrista de The Cure, a los 65 años",
-        "image_url": "https://static1.ara.cat/clip/2adc8e4f-62c3-4892-a2f8-c4c32da9b29d_16-9-aspect-ratio_default_0_x505y189.jpg",
-        "tags": [
-            "perry",
-            "guitarrista",
-            "the",
-            "bamonte",
-            "muere",
-            "cure",
-            "65",
-            "anos"
-        ],
-        "link": "https://es.ara.cat/cultura/musica/muere-perry-bamonte-guitarrista-the-cure-65-anos_1_5603068.html",
-        "date": "2025-12-26 21:26:37",
-        "sentiment_score": 0.03612114489078522
-    },
-    {
-        "title": "Lewandowski: “¿Seguir en el Barça? No se trata de rebajarme el sueldo a la mitad”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/26/694ed0dd1ee14.jpeg",
-        "tags": [
-            "barça"
-        ],
-        "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20251226/11395964/lewandowski-seguir-barca-trata-rebajarme-sueldo-mitad.html",
-        "date": "2025-12-26 21:18:30",
-        "sentiment_score": -0.019653961062431335
-    },
-    {
-        "title": "Lamine y Mbappé impulsan a LaLiga por encima de la Premier",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/11/22/2025112220022723599.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/lamine-mbappe-impulsan-laliga-encima-premier/20251227030845368414.html",
-        "date": "2025-12-27 02:08:45",
-        "sentiment_score": 0.6483831703662872
-    },
-    {
-        "title": "Deportes | El Elche CF contempla ceder la explotación de los bajos del Martínez Valero a un operador especializado y la prestación de otros servicios prémium",
-        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1693824.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-elche-cf-contempla-ceder-la-explotacion-de-los-bajos-del-martinez-valero-a-un-operador-especializado-y-la-prestacion-de-otros-servicios-premium",
-        "date": "2025-12-27 01:25:13",
-        "sentiment_score": 0.2945103570818901
-    },
-    {
-        "title": "De niños de la Guerra Civil a espías del KGB en la España de Franco: Ucrania desclasifica las pruebas de al menos 11 agentes",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070184_260668767_1706x960.jpg",
-        "tags": [
-            "moscú",
-            "porfolio",
-            "reportajes",
-            "kremlin",
-            "urss",
-            "partido comunista",
-            "kgb",
-            "franquismo"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251227/ninos-guerra-civil-espias-kgb-espana-franco-ucrania-desclasifica-pruebas-agentes/1003744066696_0.html",
-        "date": "2025-12-27 01:24:28",
-        "sentiment_score": -0.7350680623203516
-    },
-    {
-        "title": "Conserje de día, bestia de noche: Fernando, el 'Pelicot español' en Alemania, violó durante 6 años a su mujer y lo subió a Telegram",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070679_260675282_1706x960.jpg",
-        "tags": [
-            "alemania",
-            "porfolio",
-            "reportajes",
-            "detenciones",
-            "juicios",
-            "abusos sexuales"
-        ],
-        "link": "https://www.elespanol.com/reportajes/20251227/conserje-dia-bestia-noche-fernando-pelicot-espanol-alemania-violo-anos-mujer-subio-telegram/1003744067800_0.html",
-        "date": "2025-12-27 01:21:47",
-        "sentiment_score": -0.8575935028493404
-    },
-    {
-        "title": "La sorpresiva presencia de Mbappé en el empate de Marruecos por la Copa de África: la camiseta especial que utilizó",
-        "image_url": "https://www.infobae.com/resizer/v2/NGJ6WI75IVE67HRJ7LQEOBLQ3Q.jpg?auth=bffe22f1f24f26756def918b0b167bdc7414cb7cf5779b9e1bffb4711e786f33&height=1018&smart=true&width=1809",
-        "tags": [
-            "kylian mbappé",
-            "achraf hakimi",
-            "selección de marruecos",
-            "copa africana"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/27/la-sorpresiva-presencia-de-mbappe-en-el-empate-de-marruecos-por-la-copa-de-africa-la-camiseta-especial-que-utilizo/",
-        "date": "2025-12-27 00:24:47",
-        "sentiment_score": -0.06955586373806
-    },
-    {
-        "title": "Resumen del año con rima",
-        "image_url": "https://s1.staticld.com/2025/10/30/gafas-pedro-sanchez-dior-senado.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2025-12-27/itxu-diaz-resumen-del-ano-con-rima-7338138/",
-        "date": "2025-12-27 00:16:23",
-        "sentiment_score": -0.17243224382400513
-    },
-    {
-        "title": "El año en el que los robotaxis llegarán a Europa: así se abrirá una nueva era de la movilidad viajando sin conductor",
-        "image_url": "https://s3.elespanol.com/2025/10/02/omicrono/tecnologia/1003743951351_259125530_1706x960.jpg",
-        "tags": [
-            "coche autónomo",
-            "vehículos",
-            "tecnología",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/omicrono/tecnologia/20251227/ano-robotaxis-llegaran-europa-abrira-nueva-movilidad-viajando-sin-conductor/1003744061669_0.html",
-        "date": "2025-12-27 00:13:47",
-        "sentiment_score": 0.24551763385534286
-    },
-    {
-        "title": "Dean Huijsen y un cierre de año bajo presión: el central del Real Madrid se juega su plaza mundialista",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1766795704426/0fa634dadc6dee494e1f2451a1e998c047375a6b_16_54_52_300.jpg?ch=675&cw=1200",
-        "tags": [
-            "dean huijsen",
-            "españa",
-            "real madrid",
-            "selección de españa",
-            "mundial 2026",
-            "luis de la fuente"
-        ],
-        "link": "https://2001online.com/deportes/dean-huijsen-y-un-cierre-de-ano-bajo-presion-el-central-del-real-madrid-se-juega-su-plaza-mundialista-202512262100",
-        "date": "2025-12-27 00:09:12",
-        "sentiment_score": -0.8617597799748182
-    },
-    {
-        "title": "Abromaitis, listo para ponerse otra corona",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6613444f-90dd-47fa-a745-b86bf009d36e_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gran canaria",
-            "global",
-            "joan sastre",
-            "guerra"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/27/abromaitis-listo-ponerse-corona-125167297.html",
-        "date": "2025-12-27 00:00:16",
-        "sentiment_score": -0.27740946412086487
-    },
-    {
-        "title": "Estas son las canciones que escuchan los vestuarios de los equipos de La Liga: del líder al descenso",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/26/694ed53425c52.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/son-canciones-escuchan-vestuarios-equipos-liga-lider-descenso-20251227_3278024.html",
-        "date": "2025-12-26 23:58:20",
-        "sentiment_score": -0.004717886447906494
-    },
-    {
-        "title": "Adif contrataba con \"falta de transparencia\" y \"arbitrariedad\" en la etapa de Pardo de Vera con Ábalos en Transportes",
-        "image_url": "https://s3.elespanol.com/2025/04/09/actualidad/1003743707260_260678795_1706x960.jpg",
-        "tags": [
-            "política",
-            "adif",
-            "transparencia",
-            "contratos",
-            "tribunal de cuentas",
-            "gobierno de españa"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251227/adif-contrataba-falta-transparencia-arbitrariedad-etapa-pardo-vera-abalos-transportes/1003744070161_0.html",
-        "date": "2025-12-27 01:57:41",
-        "sentiment_score": -0.40955401584506035
-    },
-    {
-        "title": "De mayor quiero ser agente de igualdad: el Gobierno 'inventa' una profesión para vigilar los planes de las empresas",
-        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744061401_260555994_1706x960.jpg",
-        "tags": [
-            "educación",
-            "política",
-            "ministerio de universidades",
-            "ministerio de igualdad",
-            "igualdad"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251227/mayor-quiero-agente-igualdad-gobierno-inventa-profesion-vigilar-planes-empresas/1003744060080_0.html",
-        "date": "2025-12-27 01:56:04",
-        "sentiment_score": 0.08766792714595795
-    },
-    {
-        "title": "La gran carrera de dos alumnos talentosos: Miguel Anaya ahora es profesor de Física y Gabriel del Haro trabaja en Airbus",
-        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744069154_260656284_1706x960.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "educación",
-            "sociedad",
-            "enseñanza",
-            "españa",
-            "colegios",
-            "madrid"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251227/gran-carrera-alumnos-talentosos-miguel-anaya-ahora-profesor-fisica-gabriel-haro-trabaja-airbus/1003744064859_0.html",
-        "date": "2025-12-27 01:12:18",
-        "sentiment_score": 0.23704718798398972
-    },
-    {
-        "title": "Las hipotecas serán más caras en 2026: la banca subirá precios ante la locura por comprar vivienda",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/63aa2b13d58eb487f19599424c7a8eb8/crop/307x307/2765x2765/f/image/jpeg/assets/multimedia/imagenes/2023/10/11/16970261849784.jpg",
-        "tags": [
-            "banca",
-            "artículos laura de la quintana",
-            "hipotecas",
-            "vivienda"
-        ],
-        "link": "https://www.elmundo.es/economia/vivienda/2025/12/27/694e772cfdddff162e8b4596.html",
-        "date": "2025-12-27 01:03:30",
-        "sentiment_score": 0.44188836961984634
-    },
-    {
-        "title": "26 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/26-dic-2025-partidazo-cope-20251227_3278057.html",
-        "date": "2025-12-27 00:40:00",
-        "sentiment_score": 0.7233765795826912
-    },
-    {
-        "title": "Victoria Camps (84 años), filósofa, sobre la felicidad: \"Ser feliz es mantener las ganas de vivir a pesar de la frustración\"",
-        "image_url": "https://s3.elespanol.com/2022/02/12/malaga/cultura/649695056_221807780_1706x960.jpg",
-        "tags": [
-            "felicidad",
-            "ciencia",
-            "psicología",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/ciencia/20251227/victoria-camps-anos-filosofa-felicidad-feliz-mantener-ganas-vivir-pesar-frustracion/1003744070699_0.html",
-        "date": "2025-12-27 00:24:24",
-        "sentiment_score": 0.6128566302359104
-    },
-    {
-        "title": "El Surne más anotador de la historia",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/12/26/1504316043-kNFH--80x80@El%20Correo.jpg",
-        "tags": [
-            "liga acb",
-            "miribilla",
-            "bilbao basket"
-        ],
-        "link": "https://www.elcorreo.com/bilbaobasket/surne-anotador-historia-20251226011648-nt.html",
-        "date": "2025-12-27 00:16:48",
-        "sentiment_score": -0.2777915298938751
-    },
-    {
-        "title": "¿Escudo social o propaganda electoral?",
-        "image_url": "https://s1.staticld.com/2025/12/12/pedro-sanchez-yolanda-diaz-congreso.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.libertaddigital.com/opinion/2025-12-27/emilio-montilla-escudo-social-o-propaganda-electoral-7338130/",
-        "date": "2025-12-27 00:16:47",
-        "sentiment_score": -0.8163014408200979
-    },
-    {
-        "title": "Este es el ranking (subjetivo) de las mejores 'startups' de 2025",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/4e02025836aa8e91694bcb57fc0f6125/crop/0x0/3071x2047/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/26/17667464538040.jpg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.elmundo.es/economia/algoritmo/2025/12/27/694e6aeae4d4d865678b457b.html",
-        "date": "2025-12-26 23:08:11",
-        "sentiment_score": 0.5728392414748669
-    },
-    {
         "title": "El Procurador pide ayudas específicas al pastoreo en Castilla y León para prevenir incendios forestales",
         "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/files/fp/uploads/2025/12/26/694e871ba633b.r_d.581-499-14067.jpeg",
         "tags": [
@@ -597,34 +102,6 @@ export default [
         "link": "https://www.infobae.com/economia/2025/12/27/en-argentina-o-en-el-exterior-cuanto-cuesta-irse-de-vacaciones-en-2026-y-que-opcion-es-la-mas-barata/",
         "date": "2025-12-27 05:44:53",
         "sentiment_score": -0.0035001710057258606
-    },
-    {
-        "title": "Hallacofagia o con qué se come elmestizaje",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/26194913/hallacofagia.jpg",
-        "tags": [
-            "columnistas",
-            "opinión"
-        ],
-        "link": "https://www.elnacional.com/2025/12/hallacofagia-o-con-que-se-come-elmestizaje/",
-        "date": "2025-12-27 05:09:00",
-        "sentiment_score": -0.13080234825611115
-    },
-    {
-        "title": "Vivienda cooperativa en cesión de uso, un modelo que pone en jaque el sistema de alquiler privado",
-        "image_url": "https://static.infolibre.es/clip/2808495e-4369-40cd-a6e1-c8c36160330d_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "asociaciones vecinos",
-            "barrios",
-            "madrid",
-            "viviendas alquiler",
-            "economía",
-            "barcelona",
-            "vivienda",
-            "ministerio de vivienda"
-        ],
-        "link": "https://www.infolibre.es/economia/vivienda-cooperativa-cesion-modelo-pone-jaque-sistema-alquiler-privado_1_2115277.html",
-        "date": "2025-12-27 05:01:07",
-        "sentiment_score": -0.14347884058952332
     },
     {
         "title": "Lluvia, viento y oleaje activan este sábado avisos en siete provincias con mínimas de hasta -3°C",
@@ -3314,5 +2791,200 @@ export default [
         "link": "https://www.lacronicabadajoz.com/deportes/2025/12/30/pogacar-unico-gana-bici-protagonist-2025-125241166.html",
         "date": "2025-12-30 06:19:28",
         "sentiment_score": 0.43072961270809174
+    },
+    {
+        "title": "Toledo, Talavera y Puertollano, ayuntamientos \"pobres en inversión social\" en 2024, según gerentes de servicios sociales",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251230181945_690.jpg",
+        "tags": [
+            "castilla-la mancha"
+        ],
+        "link": "https://www.europapress.es/castilla-lamancha/noticia-toledo-talavera-puertollano-ayuntamientos-pobres-inversion-social-2024-gerentes-servicios-sociales-20251230181945.html",
+        "date": "2025-12-30 17:19:45",
+        "sentiment_score": -0.029215365648269653
+    },
+    {
+        "title": "Toledo, Talavera y Puertollano, ayuntamientos \"pobres en inversión social\" en 2024, según gerentes de servicios sociales",
+        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
+        "tags": [
+            "castilla-la mancha",
+            "noticias"
+        ],
+        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/toledo-ayuntamientos-pobres-inversion-social-segun-servicios-sociales-796543-1.html",
+        "date": "2025-12-30 17:19:00",
+        "sentiment_score": 0.05907285213470459
+    },
+    {
+        "title": "El municipio más barato para comprar vivienda de toda la comunidad está en León",
+        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/20/11/8/villablino-es-el-municipio-mas-barato-de-castilla-y-leon-aunque-no-entra-en-el-top-10-a-nivel-nacional-e-nino.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.lanuevacronica.com/actualidad/villablino-tiene-vivienda-mas-asequible-toda-comunidad_188627_102.html",
+        "date": "2025-12-30 17:10:01",
+        "sentiment_score": 0.08806080371141434
+    },
+    {
+        "title": "Ayuso consolida a Madrid como \"polo de excelencia hospitalaria por especialidades\" en el IEH 2025",
+        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2639727.jpg",
+        "tags": [
+            "sanitatem"
+        ],
+        "link": "https://www.vozpopuli.com/sanitatem/ayuso-consolida-madrid-como-polo-excelencia-hospitalaria-especialidades-ieh-2025.html",
+        "date": "2025-12-30 17:01:05",
+        "sentiment_score": 0.16782981902360916
+    },
+    {
+        "title": "VOX denuncia un aumento del 62% de las violaciones en la provincia de Ciudad Real: «Que el bipartidismo abra las puertas de sus casas a los ilegales»",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-30-at-17.56.41.jpeg",
+        "tags": [
+            "inseguridad",
+            "españa",
+            "castilla la mancha",
+            "vox",
+            "agresión sexual",
+            "inmigración ilegal"
+        ],
+        "link": "https://gaceta.es/espana/vox-denuncia-un-aumento-del-62-de-las-violaciones-en-la-provincia-de-ciudad-real-que-el-bipartidismo-abra-las-puertas-de-sus-casas-a-los-ilegales-20251230-1800/",
+        "date": "2025-12-30 17:00:39",
+        "sentiment_score": -0.3601606860756874
+    },
+    {
+        "title": "El gran líder que pone en venta al Madrid",
+        "image_url": "https://static1.ara.cat/clip/9a0ee376-4ea9-42a0-a2a5-98d0d3bdf81e_16-9-aspect-ratio_default_1053623.jpg",
+        "tags": [
+            "gran",
+            "venta",
+            "pone",
+            "lider",
+            "madrid"
+        ],
+        "link": "https://es.ara.cat/deportes/fc-barcelona/gran-lider-pone-venta-madrid_129_5605787.html",
+        "date": "2025-12-30 17:00:29",
+        "sentiment_score": -0.7910015657544136
+    },
+    {
+        "title": "Miguel Fisac, la innovación, \"Huesos y Pieles\" que dejaron huella en la arquitectura española",
+        "image_url": "https://www.diariosigloxxi.com/images/20537",
+        "tags": [
+            "business"
+        ],
+        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5719455/miguel-fisac-innovacion-huesos-pieles-dejaron-huella-arquitectura-espanola",
+        "date": "2025-12-30 16:53:20",
+        "sentiment_score": 0.2645595520734787
+    },
+    {
+        "title": "Fallece el histórico dirigente del PSOE Fernández Marugán",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Francisco-Fernandez-Marugan-.jpg",
+        "tags": [
+            "nacional",
+            "defensor del pueblo",
+            "diputado",
+            "presupuestos"
+        ],
+        "link": "https://www.lanzadigital.com/nacional/fallece-el-historico-dirigente-del-psoe-fernandez-marugan/",
+        "date": "2025-12-30 16:52:30",
+        "sentiment_score": -0.013735771179199219
+    },
+    {
+        "title": "Los regantes del Alto Guadiana votan en contra de los Planes Especiales de Sequía",
+        "image_url": "https://www.clm24.es/media/clm24/images/2022/01/29/2022012912201365638.jpg",
+        "tags": [
+            "ciudad real"
+        ],
+        "link": "https://www.clm24.es/articulo/ciudad-real/regantes-alto-guadiana-votan-planes-especiales-sequia/20251230175017467151.html",
+        "date": "2025-12-30 16:50:17",
+        "sentiment_score": -0.796561598777771
+    },
+    {
+        "title": "Yeda acogerá el 'II Congreso Internacional de Entrenadores/as de Fútbol RFEF' el 8 de enero",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251230174615_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-yeda-acogera-ii-congreso-internacional-entrenadores-as-futbol-rfef-enero-20251230174615.html",
+        "date": "2025-12-30 16:46:15",
+        "sentiment_score": 0.056875426322221756
+    },
+    {
+        "title": "Fundación HM organiza una visita de jugadores del RCD Espanyol al Hospital HM NensHospital HM Nens",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251230181850_120.jpg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.europapress.es/catalunya/noticia-fundacion-hm-organiza-visita-jugadores-rcd-espanyol-hospital-hm-nenshospital-hm-nens-20251230181850.html",
+        "date": "2025-12-30 17:18:50",
+        "sentiment_score": 0.16130242869257927
+    },
+    {
+        "title": "Detenido un viajero del metro en la Sagrera por oler a hachís y llevar encima 500 gramos y una báscula de precision",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/46b619a3-0a5e-4e8f-a6cc-ecdecdecebc1_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "narcopisos",
+            "guardia urbana de barcelona",
+            "narcotráfico",
+            "drogas"
+        ],
+        "link": "https://www.elperiodico.com/es/sucesos/20251230/detenido-viajero-metro-sagrera-oler-hachis-droga-bascula-125261486",
+        "date": "2025-12-30 17:14:57",
+        "sentiment_score": -0.8385731466114521
+    },
+    {
+        "title": "La infanta Cristina se muda de nuevo a Barcelona para vivir en el edificio en el que residió con Urdangarin",
+        "image_url": "https://cflvdg.avoz.es/sc/Xdt9RMTcquUcJ41-ILleojp1eBc=/768x/2025/12/30/00121767114962198164938/Foto/j_20251230_181337000.jpg",
+        "tags": [
+            "infanta cristina",
+            "gente"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/gente/2025/12/30/infanta-cristina-muda-nuevo-barcelona-vivir-edificio-residio-urdangarin/00031767112766204695328.htm",
+        "date": "2025-12-30 17:06:00",
+        "sentiment_score": 0.24392349272966385
+    },
+    {
+        "title": "Gianni Infantino y la FIFA estudian una modificación del reglamento que pondrá en jaque al Barça de Hansi Flick",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/08/culemania/palco/1003742672340_14844225_1706x960.jpg",
+        "tags": [
+            "palco",
+            "barça",
+            "hansi flick",
+            "fifa"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251230/gianni-infantino-fifa-modificacion-barca-hansi-flick/1003742719970_0.html",
+        "date": "2025-12-30 17:05:25",
+        "sentiment_score": 0.5914520546793938
+    },
+    {
+        "title": "Rusia instala en Bielorrusia los mísiles nucleares rusos Oreshnik",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/30/695404920092f.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20251230/11403585/ruso-oreshnik-mas-cerca-objetivos-europeos.html",
+        "date": "2025-12-30 17:01:49",
+        "sentiment_score": 0.08817467093467712
+    },
+    {
+        "title": "El PSC ganaría en Barcelona, ERC superaría a BComú y AC a Junts, según el barómetro municipal",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/30/6954048908e91.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/noticias/psc-ganaria-barcelona-erc-superaria-bcomu-ac-junts-barometro-municipal-20251230_3279347.html",
+        "date": "2025-12-30 17:01:23",
+        "sentiment_score": -0.08623902499675751
+    },
+    {
+        "title": "2026 promete calentar el mercado móvil en España: VIVO y Xiaomi apuestan por traer los modelos Ultra a Europa",
+        "image_url": "https://s3.elespanol.com/2025/12/26/elandroidelibre/noticias-y-novedades/1003744069790_260664702_1706x960.jpg",
+        "tags": [
+            "móviles android",
+            "smartphones",
+            "vivo smartphones",
+            "xiaomi",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/elandroidelibre/moviles-android/20251230/promete-calentar-mercado-movil-espana-vivo-xiaomi-apuestan-traer-modelos-ultra-europa/1003744074110_0.html",
+        "date": "2025-12-30 17:01:16",
+        "sentiment_score": 0.6387880370020866
     }
 ];
