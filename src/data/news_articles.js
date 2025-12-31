@@ -1,243 +1,5 @@
 export default [
     {
-        "title": "Conmoción en el Valencia y el fútbol por la tragedia de Fernando Martín en Indonesia: \"Consternados\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/27/694ffa98caec70-14913927.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/conmocion-valencia-futbol-espanol-tragedia-fernando-martin-hijos-indonesia-consternados_6915208_0.html",
-        "date": "2025-12-27 17:07:55",
-        "sentiment_score": -0.7085158005356789
-    },
-    {
-        "title": "El otro proyecto de Xenia Tostado antes de acabar 2025, además de 'Sueños de libertad': ¿qué es 'Donde habitan los sueños' y cuál es su papel?",
-        "image_url": "https://imagenes.cadena100.es/files/og_thumbnail/uploads/2025/12/22/694932387e562.jpeg",
-        "tags": [
-            "trending topic"
-        ],
-        "link": "https://www.cadena100.es/trending-topic/noticias/proyecto-xenia-tostado-acabar-2025-suenos-libertad-habitan-suenos-papel-20251227_143928.html",
-        "date": "2025-12-27 17:05:00",
-        "sentiment_score": 0.051151782274246216
-    },
-    {
-        "title": "El Valencia, \"consternado\" por el fallecimiento de Fernando Martín, entrenador del Femenino B,y sus hijos",
-        "image_url": "https://www.infobae.com/resizer/v2/CU77WUJKXRCBJD27GGFMTKQXGE.jpg?auth=9770271732bc123b5ea45eeaaec71f02c9a66c79a30bea324e60ca8c403b0cd9&height=1080&smart=true&width=1920",
-        "tags": [
-            "fc barcelona",
-            "levante ud",
-            "valencia cf",
-            "indonesia",
-            "europapress",
-            "fallecimiento",
-            "naufragio",
-            "valencia cf femenino",
-            "fernando martín",
-            "real madrid",
-            "labuan bajo"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/27/el-valencia-consternado-por-el-fallecimiento-de-fernando-martin-entrenador-del-femenino-by-sus-hijos/",
-        "date": "2025-12-27 17:00:27",
-        "sentiment_score": -0.9041741425171494
-    },
-    {
-        "title": "Endrick desata pasiones por su llegada al Olympique de Lyon: \"Puede ser uno de los mejores delanteros de la Ligue 1\"",
-        "image_url": "https://s3.elespanol.com/2025/12/27/actualidad/1003744071259_260682388_1706x960.jpg",
-        "tags": [
-            "olympique de lyon",
-            "endrick felipe",
-            "real madrid cf",
-            "ligue 1",
-            "deportes",
-            "fútbol",
-            "kylian mbappé"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20251227/endrick-desata-pasiones-llegada-olympique-lyon-puede-mejores-delanteros-ligue/1003744071234_0.html",
-        "date": "2025-12-27 16:51:57",
-        "sentiment_score": -0.2555745393037796
-    },
-    {
-        "title": "Irene Soto, la joven con síndrome de Down dará las Campanadas más inclusivas de la televisión",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/27/695008a5c7c528-12880015.jpeg",
-        "tags": [
-            "capaces"
-        ],
-        "link": "https://www.20minutos.es/capaces/irene-soto-joven-con-sindrome-down-dara-las-campanadas-mas-inclusivas-television_6915215_0.html",
-        "date": "2025-12-27 16:43:32",
-        "sentiment_score": -0.3697548843920231
-    },
-    {
-        "title": "La Casa Real publica las imágenes más virales de la reina Letizia este 2025",
-        "image_url": "https://image.ondacero.es/clipping/cmsimages02/2025/01/11/40DEF2AC-AFE3-476A-8C5C-69B0528AFEC1/reina-letizia-princesa-leonor-funden-emotivo-abrazo-mirada-rey-felipe-antes-zarpar-juan-sebastian-elcano_70.jpg?crop=1143%2C643%2Cx0%2Cy189&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "ondacero",
-            "noticias",
-            "sociedad"
-        ],
-        "link": "https://www.ondacero.es/noticias/sociedad/casa-real-publica-imagenes-mas-virales-reina-letizia-este-2025_20251227695008faaf09df5010950bbe.html",
-        "date": "2025-12-27 16:29:15",
-        "sentiment_score": 0.861626148223877
-    },
-    {
-        "title": "Nowell regresa ante el Burgos",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/841e5c77-c25d-4077-9c52-3b462e5b29f5_16-9-aspect-ratio_default_0_x818y546.jpg",
-        "tags": [
-            "baskonia",
-            "burgos",
-            "regresa",
-            "nowell"
-        ],
-        "link": "https://www.noticiasdealava.eus/baskonia/2025/12/27/nowell-regresa-baskonia-burgos-10517226.html",
-        "date": "2025-12-27 16:11:34",
-        "sentiment_score": 0.2667059153318405
-    },
-    {
-        "title": "El plan discreto y cultural de los reyes Felipe y Letizia con sus hijas, Leonor y Sofía: mucha cercanía y looks cómodos",
-        "image_url": "https://images.ecestaticos.com/6UsTgy3swo_x5ERO-wX_rGCIcF0=/0x0:800x600/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F5bd%2F190%2F8e1%2F5bd1908e1bb3e3460688b6b986fa55e6.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.vanitatis.elconfidencial.com/casas-reales/2025-12-27/plan-discreto-cultural-reyes-felipe-letizia-leonor-sofia_4275588/",
-        "date": "2025-12-27 16:09:00",
-        "sentiment_score": 0.33711954951286316
-    },
-    {
-        "title": "Los orígenes canarios de la periodista Lydia Lozano",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e220e438-6f70-4c26-a9c5-6f7090105bde_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lydia lozano",
-            "universidad complutense de madrid",
-            "isla",
-            "matrimonio",
-            "periodismo",
-            "españa",
-            "palmera"
-        ],
-        "link": "https://www.laprovincia.es/sociedad/2025/12/27/origenes-canarios-periodista-lydia-lozano-125179362.html",
-        "date": "2025-12-27 16:06:34",
-        "sentiment_score": 0.18442124128341675
-    },
-    {
-        "title": "Real Madrid tiene esta cantidad de títulos en la Supercopa de España",
-        "image_url": "https://pxcdn.meridiano.net/122025/1766852332000.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/real-madrid-tiene-esta-cantidad-de-titulos-en-la-supercopa-de-espana-202512271250",
-        "date": "2025-12-27 16:05:00",
-        "sentiment_score": 0.8244222607463598
-    },
-    {
-        "title": "Cierran todos los accesos al Parc Fluvial del Besòs por riesgo de desbordamiento",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/27/gran-barcelona/1003742719366_15553426_1706x960.jpg",
-        "tags": [
-            "gran barcelona",
-            "sant adrià de besòs",
-            "santa coloma de gramenet",
-            "temporal",
-            "lluvias"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20251227/cierran-accesos-parc-fluvial-besos-riesgo-desbordamiento/1003742719365_0.html",
-        "date": "2025-12-27 17:14:16",
-        "sentiment_score": -0.4985368028283119
-    },
-    {
-        "title": "Una mujer en estado crítico tras caerle una farola por el temporal en Sabadell (Barcelona)",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/07/ambulancia-cataluna-barcelona.jpg",
-        "tags": [
-            "mal tiempo",
-            "sucesos",
-            "heridos",
-            "barcelona",
-            "el tiempo"
-        ],
-        "link": "https://theobjective.com/sociedad/suceso/2025-12-27/estado-critico-temporal/",
-        "date": "2025-12-27 17:13:35",
-        "sentiment_score": -0.8504044869914651
-    },
-    {
-        "title": "El maître Julián Hervás, elegido vilcheño del año",
-        "image_url": "https://s2.ppllstatics.com/ideal/www/multimedia/2025/12/27/El%20Matre%20Julin%20Hervs%20vilcheo%20del%20ao%20(2)%20(1)-kCNC-U240679779554YNG-1200x840@Ideal.jpg",
-        "tags": [
-            "gastronomía",
-            "españa",
-            "adeje",
-            "ibiza"
-        ],
-        "link": "https://www.ideal.es/jaen/provincia-jaen/maitre-julian-hervas-elegido-vilcheno-ano-20251227180100-nt.html",
-        "date": "2025-12-27 17:11:57",
-        "sentiment_score": 0.6820024102926254
-    },
-    {
-        "title": "Alquilar una casa rural en nochevieja es casi imposible: el 70% están ya ocupadas",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/27/3A42DEC6-96EF-4304-8924-E1DB3A236A64/alquilar-casa-rural-nochevieja-casi-imposible-70-estan-ocupadas_70.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena 3 noticias",
-            "economía"
-        ],
-        "link": "https://www.antena3.com/noticias/economia/alquilar-casa-rural-nochevieja-casi-imposible-70-estan-ocupadas_2025122769501337af09df501095145e.html",
-        "date": "2025-12-27 17:11:19",
-        "sentiment_score": 0.233906090259552
-    },
-    {
-        "title": "FC Barcelona tiene esta cantidad de títulos en la Supercopa de España",
-        "image_url": "https://pxcdn.meridiano.net/122025/1766856097768.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/fc-barcelona-tiene-esta-cantidad-de-titulos-en-la-supercopa-de-espana-2025122713100",
-        "date": "2025-12-27 17:10:00",
-        "sentiment_score": 0.9134334772825241
-    },
-    {
-        "title": "Marc, catalán viviendo en Corea del Sur, sobre su piso: \"Pago 361 euros incluido alquiler, luz, gas y agua\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/24/un-hombre-metiendo-las-llaves-en-la-cerradura-de-una-vivienda-y-abriendo-la-puerta.jpeg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.huffingtonpost.es/sociedad/marc-catalan-viviendo-corea-sur-sobre-piso-pago-361-euros-incluido-alquiler-luz-gas-agua-f202512.html",
-        "date": "2025-12-27 17:06:14",
-        "sentiment_score": 0.191013902425766
-    },
-    {
-        "title": "Rosario, inquilina en Barcelona desde hace más de 26 años: “Echan a todos los vecinos para alquilarle a estudiantes”",
-        "image_url": "https://s3.elespanol.com/2025/11/24/actualidad/1003744027042_260112010_1706x960.jpg",
-        "tags": [
-            "soft",
-            "turismo",
-            "alquiler de viviendas",
-            "sociedad",
-            "vivienda",
-            "barcelona"
-        ],
-        "link": "https://www.elespanol.com/sociedad/20251227/rosario-inquilina-barcelona-hace-anos-echan-vecinos-alquilarle-estudiantes/1003744026609_0.html",
-        "date": "2025-12-27 17:04:02",
-        "sentiment_score": -0.5897363610565662
-    },
-    {
-        "title": "147 inmigrantes realojados tras el desalojo del antiguo instituto B9 de Badalona",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/18/ADC5E069-4268-46C5-80BF-DEAA764908AA/okupas-badalona_98.jpg?crop=1920%2C1080%2Cx0%2Cy57&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "españa",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/espana/147-inmigrantes-realojados-desalojo-antiguo-instituto-badalona_202512276950115022f0db7dafff1f5a.html",
-        "date": "2025-12-27 17:03:45",
-        "sentiment_score": -0.41193530708551407
-    },
-    {
-        "title": "¿Y después de las obras en el centro, qué? Las asignaturas pendientes de Lugo",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/05/16/2025051619174367635.jpg",
-        "tags": [
-            "lugo"
-        ],
-        "link": "https://www.elprogreso.es/articulo/lugo/pavimento-mira-futuro-final-obras-eternas/202512271801331932289.html",
-        "date": "2025-12-27 17:01:33",
-        "sentiment_score": 0.7851511053740978
-    },
-    {
         "title": "River Plate cierra 2025 como el equipo con mayor promedio de espectadores del mundo, según Transfermarkt",
         "image_url": "https://www.infobae.com/resizer/v2/FAKKZZA4ZRGVBJSYHTTGND4RMU.jpg?auth=47d2174788bf56ddd6d070a0c21c3d955ab60a27d34157e165be9c26b4052d5d&height=1280&smart=true&width=1920",
         "tags": [
@@ -3220,5 +2982,70 @@ export default [
         "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/han-gustado-redes-entiendo-medidas-espanyol-impedir-incidente-20251231_3279418.html",
         "date": "2025-12-30 23:26:45",
         "sentiment_score": -0.06060472130775452
+    },
+    {
+        "title": "¿Cuánto subirá el precio de la vivienda en 2026? ¿Cuánto te pueden subir el alquiler?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c2ab3250-04f0-4846-a3df-a8ce00e8717c_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "construcción",
+            "precio de la vivienda",
+            "alquiler",
+            "vivienda",
+            "barcelona",
+            "sector inmobiliario",
+            "mercado inmobiliario",
+            "inversión",
+            "madrid"
+        ],
+        "link": "https://www.farodevigo.es/economia/2025/12/31/precio-vivienda-2026-compra-alquiler-125270688.html",
+        "date": "2025-12-31 06:15:38",
+        "sentiment_score": 0.16327127814292908
+    },
+    {
+        "title": "El precio de la gasolina este 31 de diciembre en Madrid, Barcelona y otras ciudades",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "gasolina",
+            "españa-economia",
+            "noticias",
+            "precio gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2025/12/31/el-precio-de-la-gasolina-este-31-de-diciembre-en-madrid-barcelona-y-otras-ciudades/",
+        "date": "2025-12-31 06:30:39",
+        "sentiment_score": -0.676497520878911
+    },
+    {
+        "title": "El importante consejo del chef Jordi Cruz, de 'MasterChef', para no tener \"una Nochevieja de pesadilla\"",
+        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/31/jordi-cruz-en-tiktok.jpeg",
+        "tags": [
+            "virales"
+        ],
+        "link": "https://www.huffingtonpost.es/virales/el-importante-consejo-chef-jordi-cruz-masterchef-una-nochevieja-pesadilla-f202512.html",
+        "date": "2025-12-31 06:28:42",
+        "sentiment_score": 0.2518441453576088
+    },
+    {
+        "title": "Lo que debes saber hoy, 31 de diciembre, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/24/vivir-en-barcelona/1003742710519_15443469_1706x960.jpg",
+        "tags": [
+            "tráfico",
+            "tiempo",
+            "vivir en barcelona",
+            "transports metropolitans barcelona tmb",
+            "el tiempo"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251231/debes-saber-hoy-diciembre-barcelona/1003742720101_0.html",
+        "date": "2025-12-31 06:19:38",
+        "sentiment_score": -0.6883664727210999
+    },
+    {
+        "title": "Los que se fueron en 2025: de la alcaldesa de Lugo al productor Julio Fernández",
+        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/12/11/2025121112534546582.jpg",
+        "tags": [
+            "lugo"
+        ],
+        "link": "https://www.elprogreso.es/articulo/lugo/que-fueron-2025/202512111210431930673.html",
+        "date": "2025-12-31 06:15:57",
+        "sentiment_score": -0.8754879403859377
     }
 ];
