@@ -3002,5 +3002,223 @@ export default [
         "link": "https://es.ara.cat/deportes/baloncesto/barca-mil-vidas-le-indigestan-silbidos_1_5606068.html",
         "date": "2025-12-30 21:25:45",
         "sentiment_score": -0.7844194620847702
+    },
+    {
+        "title": "El arma de los pobres",
+        "image_url": "https://s3.elespanol.com/static/ESPEspanol/img/elespanol_amp-1706x960.png?hash=924e",
+        "tags": [
+            "opinión"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/opinion/20251231/arma-pobres/1003744073635_13.html",
+        "date": "2025-12-31 02:00:00",
+        "sentiment_score": -0.8347305757924914
+    },
+    {
+        "title": "Plazas a medida y sin rastro documental: Cuentas cuestiona los contratos de la Casa Árabe bajo el mando de Irene Lozano",
+        "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744074417_260719777_1706x960.jpg",
+        "tags": [
+            "política",
+            "casa árabe",
+            "irene lozano",
+            "psoe (partido socialista obrero español)",
+            "tribunal de cuentas",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20251231/plazas-medida-sin-rastro-documental-cuentas-cuestiona-contratos-casa-arabe-mando-irene-lozano/1003744074412_0.html",
+        "date": "2025-12-31 01:40:17",
+        "sentiment_score": -0.7263041008263826
+    },
+    {
+        "title": "Agenda cultural 2026: libros, películas, discos, obras de teatro y exposiciones que darán que hablar",
+        "image_url": "https://s3.elespanol.com/2025/12/22/actualidad/1003744066596_260624899_1706x960.jpg",
+        "tags": [
+            "libros",
+            "el cultural",
+            "cine",
+            "exposiciones",
+            "películas",
+            "teatro"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/20251231/agenda-cultural-libros-peliculas-discos-obras-teatro-exposiciones-daran-hablar/1003744066519_0.html",
+        "date": "2025-12-31 00:55:00",
+        "sentiment_score": 0.8305674828588963
+    },
+    {
+        "title": "Subida de diputados en Castilla-La Mancha, Pacto Verde, Agenda 2030... la larga lista de acuerdos entre el PP y el PSOE en el año 2025",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/Diseno-sin-titulo-2025-12-30T171725.654.png",
+        "tags": [
+            "pp",
+            "pacto verde",
+            "vox",
+            "castilla la mancha",
+            "españa",
+            "psoe",
+            "agenda 2030"
+        ],
+        "link": "https://gaceta.es/espana/subida-de-diputados-en-castilla-la-mancha-pacto-verde-agenda-2030-la-larga-lista-de-acuerdos-entre-el-pp-y-el-psoe-en-el-ano-2025-20251231-0151/",
+        "date": "2025-12-31 00:51:00",
+        "sentiment_score": 0.01716737449169159
+    },
+    {
+        "title": "Retrato íntimo de Josie, el artífice del fenómeno Pedroche en las Campanadas: de su vida familiar a la finca que heredó",
+        "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744074292_260718135_1706x960.jpg",
+        "tags": [
+            "famosos",
+            "josie",
+            "cristina pedroche",
+            "campanadas"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20251231/retrato-intimo-josie-artifice-fenomeno-pedroche-campanadas-vida-familiar-finca-heredo/1003744073555_0.html",
+        "date": "2025-12-31 00:33:00",
+        "sentiment_score": 0.6818295679986477
+    },
+    {
+        "title": "Raquel García: “España siempre ha sido el buen alumno, el socio fiable, en europa”",
+        "image_url": "https://static.laregion.es/clip/8feb2295-d285-4098-849d-d0fb5e6a9b8b_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "otan",
+            "josé maría aznar",
+            "eeuu",
+            "unión europea"
+        ],
+        "link": "https://www.laregion.es/espana/raquel-garcia-espana-sido-buen_1_20251231-4109726.html",
+        "date": "2025-12-31 00:30:29",
+        "sentiment_score": 0.025054670870304108
+    },
+    {
+        "title": "Airbus liderará en España el avión entrenador Hürjet",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/0f06e81a0e3dc3efe0e154ffcc2d8b5c/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/30/17671206897619.jpg",
+        "tags": [
+            "defensa y aeroespacial>",
+            "artículos carlos drake>",
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/empresas/2025/12/31/69541f45e5fdea124b8b4591.html",
+        "date": "2025-12-31 00:24:30",
+        "sentiment_score": 0.3022313825786114
+    },
+    {
+        "title": "La lujosa jugada de Nico Paz que provocó la reacción de una leyenda de la Premier League: “¡Sálvame!”",
+        "image_url": "https://www.infobae.com/resizer/v2/ZYF4YOF4CVBATAD52S7RS7KZVQ.jpg?auth=799d696a57d1407fdfe3ce344298a2d660cd40078a38adabeb50445341e54454&height=1079&smart=true&width=1920",
+        "tags": [
+            "nico paz",
+            "como",
+            "joe cole",
+            "barcelona",
+            "deportes-argentina",
+            "real madrid",
+            "pedri"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/31/la-lujosa-jugada-de-nico-paz-que-provoco-la-reaccion-de-una-leyenda-de-la-premier-league-salvame/",
+        "date": "2025-12-31 00:12:48",
+        "sentiment_score": -0.3329932689666748
+    },
+    {
+        "title": "Los éxitos del Barça de Laporta en 2025: del triplete nacional al regreso al Camp Nou",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/culemania/palco/1003742720100_15562571_1706x960.jpg",
+        "tags": [
+            "palco",
+            "barça",
+            "fc barcelona",
+            "joan laporta",
+            "hansi flick",
+            "camp nou"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251231/barca-laporta-triplete-nacional-regreso-camp-nou/1003742719942_0.html",
+        "date": "2025-12-30 23:56:34",
+        "sentiment_score": -0.5961595699191093
+    },
+    {
+        "title": "Cuántos salarios mínimos se necesitan para igualar el sueldo de Cristiano Ronaldo, Messi y otras estrellas del fútbol",
+        "image_url": "https://www.infobae.com/resizer/v2/Z67I5BEJKJGDBBZWLXV3XMGRBM.png?auth=623a6752ada9c7b560f061f8f60f8420af8cbb9799b5196a89cf88852f03d86f&height=770&smart=true&width=1200",
+        "tags": [
+            "messi",
+            "colombia-economía",
+            "salario mínimo",
+            "mbappé",
+            "colombia-noticias",
+            "lamine yamal",
+            "cristiano ronaldo",
+            "luis díaz",
+            "sueldo mínimo"
+        ],
+        "link": "https://www.infobae.com/colombia/2025/12/30/cuantos-salarios-minimos-se-necesitan-para-igualar-el-sueldo-de-cristiano-ronaldo-messi-y-otras-estrellas-del-futbol/",
+        "date": "2025-12-30 23:50:10",
+        "sentiment_score": 0.058918021619319916
+    },
+    {
+        "title": "Rosalía toca el cielo en 2026: una gira mundial millonaria, récords históricos y el triunfo del nuevo misticismo",
+        "image_url": "https://s3.elespanol.com/2025/12/23/mujer/protagonistas/1003744067977_260641757_1706x960.jpg",
+        "tags": [
+            "protagonistas",
+            "rosalía (cantante)",
+            "música"
+        ],
+        "link": "https://www.elespanol.com/mujer/protagonistas/20251231/rosalia-toca-cielo-gira-mundial-millonaria-records-historicos-triunfo-nuevo-misticismo/1003744066717_0.html",
+        "date": "2025-12-31 01:40:08",
+        "sentiment_score": -0.18516474962234497
+    },
+    {
+        "title": "Pontegadea apuesta por las oficinas y suma inmuebles por 2.300 millones",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/bf970cf8452d4fdfc3eb41ac536bc3c3/crop/71x15/2018x1313/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/02/17331367246583.jpg",
+        "tags": [
+            "artículos rebeca arroyo>",
+            "mercado inmobiliario>",
+            "empresas>",
+            "inmobiliario y construcción>"
+        ],
+        "link": "https://www.expansion.com/inmobiliario/mercado/2025/12/31/69543c0ae5fdea583a8b458b.html",
+        "date": "2025-12-31 01:25:16",
+        "sentiment_score": 0.5303962714970112
+    },
+    {
+        "title": "Matute, 69 años, neurobiólogo y corredor de 18 maratones: \"El cerebro termina reponiéndose, como la cuenta corriente\"",
+        "image_url": "https://s3.elespanol.com/2025/12/30/ciencia/salud/1003744074332_260718519_1706x960.jpg",
+        "tags": [
+            "investigación científica",
+            "neurociencia",
+            "cerebro",
+            "salud",
+            "maratón"
+        ],
+        "link": "https://www.elespanol.com/ciencia/salud/20251231/matute-anos-neurobiologo-corredor-maratones-cerebro-termina-reponiendose-cuenta-corriente/1003744073722_0.html",
+        "date": "2025-12-31 01:10:00",
+        "sentiment_score": -0.48819469660520554
+    },
+    {
+        "title": "'Las muertas': de la realidad a la novela, de la novela a la serie",
+        "image_url": "https://s3.elespanol.com/2025/12/29/actualidad/1003744072674_260699464_1706x960.jpg",
+        "tags": [
+            "series",
+            "a la intemperie",
+            "escritores",
+            "novela"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/blogs/a_la_intemperie/20251231/muertas-realidad-novela-serie/1003744071898_12.html",
+        "date": "2025-12-31 00:55:00",
+        "sentiment_score": -0.2710307687520981
+    },
+    {
+        "title": "Una mezquita en Barcelona lleva el nombre de Tariq ibn Ziyad, el general que inició la conquista islámica de España en 711",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/Diseno-sin-titulo-76.png",
+        "tags": [
+            "inmigración ilegal",
+            "islam",
+            "españa",
+            "inmigración"
+        ],
+        "link": "https://gaceta.es/espana/una-mezquita-en-barcelona-lleva-el-nombre-de-tariq-ibn-ziyad-el-general-que-inicio-la-conquista-islamica-de-espana-en-711-20251231-0038/",
+        "date": "2025-12-30 23:38:00",
+        "sentiment_score": 0.19138462841510773
+    },
+    {
+        "title": "\"Entiendo las medidas del Espanyol para impedir incidentes contra Joan García\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/30/69544804bb486.r_d.1373-791-1727.jpeg",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/han-gustado-redes-entiendo-medidas-espanyol-impedir-incidente-20251231_3279418.html",
+        "date": "2025-12-30 23:26:45",
+        "sentiment_score": -0.06060472130775452
     }
 ];
