@@ -1,212 +1,5 @@
 export default [
     {
-        "title": "Este es el descarte del Unicaja para enfrentarse al Real Madrid",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/26369f54-4e85-4e6d-8cd5-13937fb064c6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "nihad djedovic",
-            "sergio scariolo",
-            "unicaja",
-            "real madrid",
-            "ibon navarro",
-            "movistar"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/28/descarte-unicaja-enfrentarse-real-madrid-125203681.html",
-        "date": "2025-12-28 17:11:32",
-        "sentiment_score": -0.06501995772123337
-    },
-    {
-        "title": "Toni Kroos sobre Xabi Alonso: \"Hay que dar tiempo, pero sabemos lo que significa el Madrid\"",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "toni kroos",
-            "real madrid",
-            "deportes",
-            "fútbol",
-            "xabi alonso"
-        ],
-        "link": "https://www.elnacional.com/2025/12/toni-kroos-sobre-xabi-alonso-hay-que-dar-tiempo-pero-sabemos-lo-que-significa-el-madrid/",
-        "date": "2025-12-28 17:03:24",
-        "sentiment_score": -0.279467448592186
-    },
-    {
-        "title": "EN DIRECTO: Liga Endesa | Real Madrid - Unicaja",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dde2be5e-0b9f-4f4c-b850-76312af9c74c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "acb partidos",
-            "partidos acb en directo",
-            "partidos en directo",
-            "partidos baloncesto",
-            "partidos acb",
-            "real madrid vs unicaja en directo",
-            "real madrid vs unicaja",
-            "real madrid unicaja en directo"
-        ],
-        "link": "https://www.laopiniondemalaga.es/deportes/baloncesto/acb/2025-2026/r-madrid-unicaja-30535_10_12_6210_6203.html",
-        "date": "2025-12-28 17:00:50",
-        "sentiment_score": -0.1089949905872345
-    },
-    {
-        "title": "Carles Vilarrubí en el Tibidabo de los Andreu",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/12/01/business/813928665_11988576_1706x960.jpg",
-        "tags": [
-            "carles vilarrubí",
-            "tibidabo",
-            "business"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20251228/carles-vilarrubi-tibidabo-andreu/1003742719482_0.html",
-        "date": "2025-12-28 16:17:03",
-        "sentiment_score": -0.7462727278470993
-    },
-    {
-        "title": "El as en la manga de Laporta para poder fichar a Haaland y Julián Álvarez de golpe",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/21/culemania/culemaniacos/1003742709466_15429455_1706x960.jpg",
-        "tags": [
-            "barça",
-            "fake news",
-            "erling haaland",
-            "fichajes barça",
-            "culemaníacos",
-            "joan laporta"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20251228/manga-laporta-poder-fichar-haaland-julian-alvarez/1003742719477_0.html",
-        "date": "2025-12-28 16:04:49",
-        "sentiment_score": 0.4887801930308342
-    },
-    {
-        "title": "“Vinicius no habría durado ni dos semanas en mi Real Madrid”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/a2ef6fcb-24e2-4672-be1c-71a560d563c6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "durado",
-            "semanas",
-            "fútbol",
-            "xabi alonso",
-            "vinicius",
-            "real",
-            "habria"
-        ],
-        "link": "https://www.noticiasdenavarra.com/futbol/2025/12/28/vinicius-habria-durado-semanas-real-futbol-xabi-alonso-10519243.html",
-        "date": "2025-12-28 16:03:10",
-        "sentiment_score": -0.7244826704263687
-    },
-    {
-        "title": "Javier Viar, aquel ‘médico’ de cuerpo y alma",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/575e4eff-45d3-406e-a532-3f5c9356940a_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "viar",
-            "bilbao",
-            "javier",
-            "bellas",
-            "artes",
-            "cuerpo",
-            "alma",
-            "medico"
-        ],
-        "link": "https://www.deia.eus/contando-historias/2025/12/28/javier-viar-medico-cuerpo-alma-bellas-artes-bilbao-10518651.html",
-        "date": "2025-12-28 16:00:39",
-        "sentiment_score": 0.16866719722747803
-    },
-    {
-        "title": "\"Si acabo en la calle con la niña, sí intervienen los Servicios Sociales”: madre de una niña de 3 años relata su odisea para conseguir un piso en Barcelona",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/04/693195195bafd.png",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.cope.es/actualidad/sociedad/noticias/acabo-calle-nina-intervienen-servicios-sociales-madre-nina-3-anos-relata-odisea-conseguir-piso-barcelona-20251228_3265619.html",
-        "date": "2025-12-28 17:06:19",
-        "sentiment_score": -0.16191919147968292
-    },
-    {
-        "title": "Pere Navarro, director de la DGT: \"Mover cada día el coche para transportar a una sola persona es un lujo\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/07/23/pere-navarro-senala-problematica-accesos-grandes-ciudades.jpeg",
-        "tags": [
-            "movilidad"
-        ],
-        "link": "https://www.20minutos.es/motor/movilidad/pere-navarro-director-dgt-mover-cada-dia-coche-transportar-sola-persona-lujo_6911501_0.html",
-        "date": "2025-12-28 17:00:00",
-        "sentiment_score": 0.17434020340442657
-    },
-    {
-        "title": "Los puertos españoles baten un nuevo récord histórico de cruceros, con un aumento del 10%",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/ZKH3GNF2ZRLPJOGLEITLDPGQDQ.jpg?auth=5148a0cdf819e952815c3e7331215ccd9523df19e04fc18a7d07310a61c3be26&width=1200",
-        "tags": [
-            "turismo",
-            "transporte",
-            "empresas",
-            "puertos del estado",
-            "cruceros",
-            "puertos",
-            "transporte marítimo"
-        ],
-        "link": "https://cincodias.elpais.com/companias/2025-12-28/los-puertos-espanoles-baten-un-nuevo-record-historico-de-cruceros-con-un-aumento-del-10.html",
-        "date": "2025-12-28 16:58:28",
-        "sentiment_score": -0.02049754559993744
-    },
-    {
-        "title": "El llamativo análisis de un histórico rival de Messi sobre el impacto que podría tener en el Mundial 2026: “Dudo que funcione”",
-        "image_url": "https://www.infobae.com/resizer/v2/CC5LKBYMMFDW3JFPLXKOC7TCPY.JPG?auth=4fad43426ee563b61903850179cf55c463000ec7a2daec257a4777fce801bc75&height=3513&smart=true&width=5053",
-        "tags": [
-            "deportes-internacional",
-            "lionel messi",
-            "thomas muller",
-            "selección argentina",
-            "mundial 2026",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/28/el-llamativo-analisis-de-un-historico-rival-de-messi-sobre-el-impacto-que-podria-tener-en-el-mundial-2026-dudo-que-funcione/",
-        "date": "2025-12-28 16:57:12",
-        "sentiment_score": -0.47528279945254326
-    },
-    {
-        "title": "Ni Bastoni ni Schlotterbeck: el central 'low-cost' que se ofrece al Barça para ser el fichaje estrella de 2026",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/18/culemania/culemaniacos/1003742717271_15554778_1706x960.jpg",
-        "tags": [
-            "fichajes barça",
-            "barça",
-            "primer equipo"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251228/bastoni-schlotterbeck-central-low-cost-barca-fichaje-estrella/1003742719485_0.html",
-        "date": "2025-12-28 16:46:56",
-        "sentiment_score": -0.6744763366878033
-    },
-    {
-        "title": "El otro Araujo al que ofrecen al Barça en plena 'Operación Central': \"Volverán a buscarle\"",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/28/image-50c0dccd-acb8-463c-bc1a-5cf4f1e8e86a-85-2560-1440.jpeg",
-        "tags": [
-            "mercado de fichajes 2026 2026",
-            "football"
-        ],
-        "link": "https://www.eurosport.es/futbol/mercado-de-fichajes-2026/2026/tomas-araujo-interes-barcelona-central-todos-juegan-defensas-adelantadas-volveran-a-buscarle_sto23254151/story.shtml",
-        "date": "2025-12-28 16:37:07",
-        "sentiment_score": 0.22304576635360718
-    },
-    {
-        "title": "Un único acertante en Basauri gana más de un millón de euros en La Primitiva",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/54f57997-dc0a-4de5-b237-f8541246eaaf_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "basauri",
-            "gana",
-            "acertante",
-            "unico",
-            "millon"
-        ],
-        "link": "https://www.deia.eus/bizkaia/2025/12/28/unico-acertante-basauri-gana-millon-10519290.html",
-        "date": "2025-12-28 16:34:02",
-        "sentiment_score": 0.007107749581336975
-    },
-    {
-        "title": "La Navidad \"hecha a mano\" en Vitoria",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/ebf90780-73e4-46fa-9668-6f535b16fb67_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navidad",
-            "mano",
-            "vitoria",
-            "hecha"
-        ],
-        "link": "https://www.noticiasdealava.eus/gasteiz/2025/12/28/navidad-hecha-mano-vitoria-10519166.html",
-        "date": "2025-12-28 16:30:56",
-        "sentiment_score": 0.18964362144470215
-    },
-    {
         "title": "Matarazzo se estrena en Zubieta ante la afición txuri-urdin",
         "image_url": "https://estaticosgn-cdn.deia.eus/clip/43b43809-312a-4cd3-92b0-4a9546cd4ed6_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3057,5 +2850,190 @@ export default [
         "link": "https://www.diariodeteruel.es/teruel/la-cabalgata-de-los-reyes-comenzara-de-nuevo-con-un-tramo-en-silencio",
         "date": "2025-12-31 21:51:00",
         "sentiment_score": 0.08766490966081619
+    },
+    {
+        "title": "El Atlético se planta: tranquilidad total con el futuro de Julián Alvarez",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081800081853699.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/atletico-planta-tranquilidad-total-futuro-julian-alvarez/20260101072055368987.html",
+        "date": "2026-01-01 06:20:55",
+        "sentiment_score": 0.2055225670337677
+    },
+    {
+        "title": "Los grandes deseos y objetivos del Espanyol para 2026: con los pies en el suelo y los sueños muy arriba",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/objetivos-espanyol-2026-caricatura-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/objetivos-espanyol-2026-laliga-europa-velocity/",
+        "date": "2026-01-01 06:00:15",
+        "sentiment_score": 0.7092682495713234
+    },
+    {
+        "title": "Las diez tardes clave de la temporada de Marco Pérez: así fue su 2025",
+        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2025/12/30/marcouno-RvbSZ32WIA3uWhDkOIImy4N-758x531@Gaceta%20Salamanca.jpg",
+        "tags": [
+            "plaza de toros de la glorieta",
+            "francia",
+            "toros",
+            "venezuela",
+            "mérida",
+            "españa",
+            "colombia",
+            "huelva"
+        ],
+        "link": "https://www.lagacetadesalamanca.es/toros/diez-tardes-clave-temporada-marco-perez-2025-20251230070000-nt.html",
+        "date": "2026-01-01 06:00:02",
+        "sentiment_score": 0.5446284413337708
+    },
+    {
+        "title": "El Córdoba CF, ante su particular cuesta de enero",
+        "image_url": "https://static.grupojoly.com/clip/38371b4c-7263-48aa-917a-664e0d596345_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias córdoba",
+            "córdoba club de fútbol"
+        ],
+        "link": "https://www.eldiadecordoba.es/cordobacf/cordoba-cf-particular-cuesta-enero_0_2005522727.html",
+        "date": "2026-01-01 05:59:54",
+        "sentiment_score": 0.16191530227661133
+    },
+    {
+        "title": "2025, otro año productivo para las vitrinas de Los Guindos y de reseteo en el Unicaja",
+        "image_url": "https://s3.elespanol.com/2025/02/16/actualidad/924668018_253172998_1706x960.jpg",
+        "tags": [
+            "club baloncesto málaga (unicaja málaga)",
+            "baloncesto",
+            "unicaja"
+        ],
+        "link": "https://www.elespanol.com/malaga/deporte/unicaja/20260101/ano-productivo-vitrinas-guindos-reseteo-unicaja/1003744072648_0.html",
+        "date": "2026-01-01 05:50:00",
+        "sentiment_score": 0.6729782149195671
+    },
+    {
+        "title": "Marruecos mueve ficha con un blindado 8×8 fabricado en casa mientras España acelera su gran programa terrestre",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/07/07/2025070719313311710.jpg",
+        "tags": [
+            "defensa"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/defensa/marruecos-mueve-ficha-blindado-8%C3%978-fabricado-casa-mientras-espana-acelera-gran-programa-terrestre/20260101063500996052.html",
+        "date": "2026-01-01 05:35:00",
+        "sentiment_score": 0.16333797574043274
+    },
+    {
+        "title": "Conoce las veinte noticias más leídas en Lanza durante 2025",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/06/Entoldado-Plaza-Mayor-Elena-Rosa-06619.jpg",
+        "tags": [
+            "noticias",
+            "provincia de ciudad real",
+            "ciudad real",
+            "lanza"
+        ],
+        "link": "https://www.lanzadigital.com/provincia/noticias-mas-leidas-lanza-2025/",
+        "date": "2026-01-01 05:08:42",
+        "sentiment_score": -0.05792686343193054
+    },
+    {
+        "title": "España sextuplica su PIB tras 40 años de adhesión a la Unión Europea",
+        "image_url": "https://s10.s3c.es/imag/_v0/1920x1048/6/2/8/1200x655_2015-espana-30-ue.jpg",
+        "tags": [
+            "economia"
+        ],
+        "link": "https://www.eleconomista.es/economia/noticias/13710156/12/25/espana-sextuplica-su-pib-tras-40-anos-de-adhesion-a-la-union-europea.html",
+        "date": "2026-01-01 05:05:34",
+        "sentiment_score": 0.3923894912004471
+    },
+    {
+        "title": "Alberto González, director general de Cabify en España: Es un error eliminar licencias de VTC cuando la demanda pide el doble o el triple",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06e73e22-b71f-4207-9aec-ad5389f01062_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cabify",
+            "barcelona",
+            "taxis",
+            "vtc",
+            "movilidad"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260101/alberto-gonzalez-director-general-cabify-entrevista-nueva-ley-taxi-vtc-124879969",
+        "date": "2026-01-01 05:00:30",
+        "sentiment_score": -0.0436884481459856
+    },
+    {
+        "title": "De casa al trabajo: ¿cuánto tiempo pasamos los gallegos en el coche?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b1a8c5a-03d9-42a4-ba19-04142c5969a4_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "trabajo",
+            "desplazamientos",
+            "coche",
+            "seguridad vial",
+            "galicia"
+        ],
+        "link": "https://www.elcorreogallego.es/galicia/2026/01/01/casa-trabajo-tiempo-pasamos-gallegos-125251235.html",
+        "date": "2026-01-01 05:00:07",
+        "sentiment_score": -0.18375927209854126
+    },
+    {
+        "title": "Vlahovic vuelve al radar del Barça mientras se decide el futuro de Lewandowski",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/01/2026010107322233824.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/futuro-lewandowski/20260101073320368989.html",
+        "date": "2026-01-01 06:33:20",
+        "sentiment_score": 0.23864781856536865
+    },
+    {
+        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 1 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "precio gasolina",
+            "gasolina",
+            "noticias",
+            "españa-economia"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/01/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-de-espana-este-1-de-enero/",
+        "date": "2026-01-01 06:30:56",
+        "sentiment_score": -0.17768016085028648
+    },
+    {
+        "title": "España cumple los 40 en la Unión Europea",
+        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/30/40-esp-eu-1200x840.jpg",
+        "tags": [
+            "unión europea",
+            "españa"
+        ],
+        "link": "https://www.eldiariomontanes.es/nacional/espana-cumple-union-europea-20260101070623-ntrc.html",
+        "date": "2026-01-01 06:06:24",
+        "sentiment_score": 0.863344507291913
+    },
+    {
+        "title": "Oro, platino, titanio y mucha complicación: el tiempo prémium anuncia una nueva dimensión",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/30/6953bb767501e.r_d.404-600-6051.png",
+        "tags": [
+            "moda"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/moda/20260101/11379158/oro-platino-titanio-relojes-premium-nueva-dimension.html",
+        "date": "2026-01-01 05:50:00",
+        "sentiment_score": -0.2401721253991127
+    },
+    {
+        "title": "El precio de las licencias del taxi en Cataluña se dispara en plena discusión por la nueva ley",
+        "image_url": "https://static.merca2.es/wp-content/uploads/2025/12/Marcha-lenta-del-taxi-en-Barcelona.webp",
+        "tags": [
+            "últimas noticias"
+        ],
+        "link": "https://www.merca2.es/2026/01/01/licencia-taxi-barcelona-precio-2339413/",
+        "date": "2026-01-01 05:30:00",
+        "sentiment_score": -0.35231512039899826
+    },
+    {
+        "title": "Michael Anastassiades: “Mi vida se basa en el equilibrio”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/06/690c92c362fcc.r_d.2034-1535-1100.jpeg",
+        "tags": [
+            "casa"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/casa/20260101/11236932/michael-anastassiades-mi-vida-basa-equilibrio.html",
+        "date": "2026-01-01 05:28:58",
+        "sentiment_score": 0.6027448400855064
     }
 ];
