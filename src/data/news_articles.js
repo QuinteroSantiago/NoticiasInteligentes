@@ -2839,5 +2839,223 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20251231/deseo/1003742720304_12.html",
         "date": "2025-12-31 21:00:00",
         "sentiment_score": -0.8703420655801892
+    },
+    {
+        "title": "Alarma en el Real Madrid: Mbappé sufre un esguince de rodilla y se pierde la Supercopa",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1767229952071/638924952724693615jpg.jpeg?ch=675&cw=1200",
+        "tags": [
+            "madrid",
+            "lesión de mbappé",
+            "fútbol español",
+            "supercopa de españa",
+            "laliga",
+            "real madrid",
+            "kylian mbappé"
+        ],
+        "link": "https://2001online.com/deportes/alarma-en-el-real-madrid-mbappe-sufre-un-esguince-de-rodilla-y-se-pierde-la-supercopa-202512312300",
+        "date": "2026-01-01 02:05:37",
+        "sentiment_score": -0.6513609886169434
+    },
+    {
+        "title": "Roberto Carlos dice que se está 'recuperando bien' después de someterse a un procedimiento en Brasil",
+        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/5/ac/5ac087cd-68f6-5350-aebd-58647366cc26/69554681d5966.image.jpg?resize=300%2C200",
+        "tags": [
+            "roberto carlos hospitalizado cirugia corazon brasil madrid",
+            "sports"
+        ],
+        "link": "https://santamariatimes.com/ap/sports/roberto-carlos-dice-que-se-est-recuperando-bien-despu-s-de-someterse-a-un-procedimiento/article_fabf1881-c8a9-5504-b6c4-402b17f85a09.html",
+        "date": "2026-01-01 02:05:24",
+        "sentiment_score": -0.13481631875038147
+    },
+    {
+        "title": "El Real Madrid comienza mal el 2026: se lesionó Mbappé",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2025/12/31/real-madrid-kylian-mbappe-lesion-orix/",
+        "date": "2026-01-01 02:03:43",
+        "sentiment_score": -0.8714214190840721
+    },
+    {
+        "title": "Las nuevas drogas que alertan a las urgencias madrileñas: el laboratorio forense detecta un aumento del consumo de fentanilo, psilocina y cannabinoides sintéticos",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/bfc62fc31d86105e92fd646741f3f8b8/crop/0x0/1166x1166/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529624450788.jpg",
+        "tags": [
+            "artículos luis f. durán"
+        ],
+        "link": "https://www.elmundo.es/madrid/2026/01/01/69545522e4d4d8347c8b458a.html",
+        "date": "2026-01-01 01:16:17",
+        "sentiment_score": -0.47487881779670715
+    },
+    {
+        "title": "Fútbol de locura en 2025: los cinco partidos que marcaron un año inolvidable",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1767229411499/07f9a3fb-2df9-4bb2-aeca-ade4977a63b3_16-9-discover-aspect-ratio_default_0.jpg?ch=675&cw=1200",
+        "tags": [
+            "manchester united",
+            "inter de milán",
+            "manchester city",
+            "lyon",
+            "fútbol",
+            "fc barcelona",
+            "mejores partidos del 2025",
+            "al hilal",
+            "real madrid"
+        ],
+        "link": "https://2001online.com/deportes/futbol-de-locura-en-2025-los-cinco-partidos-que-marcaron-un-ano-inolvidable-202512312200",
+        "date": "2026-01-01 01:06:59",
+        "sentiment_score": 0.6352273225784302
+    },
+    {
+        "title": "Madrid se hace más pequeño en 2026: los 460.000 m2 menos que tendrá la capital por un histórico pacto con Rivas",
+        "image_url": "https://s3.elespanol.com/2024/12/16/madrid/comunidad/909169568_251716809_1706x960.jpg",
+        "tags": [
+            "madrid",
+            "rivas-vaciamadrid (madrid)",
+            "madrid capital"
+        ],
+        "link": "https://www.elespanol.com/madrid/capital/20260101/madrid-hace-pequeno-m2-capital-historico-pacto-rivas/1003744074685_0.html",
+        "date": "2026-01-01 01:00:00",
+        "sentiment_score": 0.22934898734092712
+    },
+    {
+        "title": "Zubimendi se convierte en símbolo de éxito para el Arsenal y dolor para la Real Sociedad",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/01/2026010101323810991.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/arsenal-gana-fichaje-ano-zubimendi-convierte-simbolo-exito-dolor-real/20260101013428368985.html",
+        "date": "2026-01-01 00:34:28",
+        "sentiment_score": 0.8352607656270266
+    },
+    {
+        "title": "El adiós de las leyendas: deportistas que fallecieron en el 2025",
+        "image_url": "https://pxcdn.2001online.com/2001/122025/1767228780803/fotos%20sitio%20-%202025-07-03T105056.236.png?ch=675&cw=1200",
+        "tags": [
+            "deportistas que fallecieron en 2025",
+            "miguel ángel russo",
+            "diogo jota",
+            "deportistas",
+            "hulk hogan",
+            "leo beenhakker",
+            "xabier azkargorta",
+            "george foreman"
+        ],
+        "link": "https://2001online.com/deportes/el-adios-de-las-leyendas-deportistas-que-fallecieron-en-el-2025-202512312100",
+        "date": "2026-01-01 00:07:21",
+        "sentiment_score": -0.6102777309715748
+    },
+    {
+        "title": "Adiós a 2025: política, sexo y caídas en desgracia",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7fd6382-a78b-4a6c-8b9a-16c8d1a8eaef_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "prensa",
+            "consell",
+            "política",
+            "psoe",
+            "comunitat valenciana",
+            "gobierno",
+            "verano"
+        ],
+        "link": "https://www.levante-emv.com/comunitat-valenciana/2026/01/01/adios-2025-politica-sexo-caidas-124592640.html",
+        "date": "2025-12-31 23:09:17",
+        "sentiment_score": -0.3014596253633499
+    },
+    {
+        "title": "Sánchez, el dilema de resistir en el año decisivo: un delicado carrusel electoral y el fardo pesado de la corrupción",
+        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/12/europapress-7161350-presidente-gobierno-pedro-sanchez-antes-recibir-presidente-estado-palestina-2-1440x808.jpg",
+        "tags": [
+            "pedro sánchez",
+            "pilar alegría",
+            "koldo garcía",
+            "españa",
+            "sumar",
+            "josé luis ábalos",
+            "david sánchez",
+            "gobierno de españa",
+            "miguel ángel gallardo",
+            "yolanda díaz",
+            "leire díez",
+            "santos cerdán",
+            "corrupción",
+            "maría jesús montero",
+            "partido socialista obrero español (psoe)",
+            "begoña gómez",
+            "paco salazar"
+        ],
+        "link": "https://www.elindependiente.com/espana/2026/01/01/sanchez-el-dilema-de-resistir-en-el-ano-decisivo-un-delicado-carrusel-electoral-y-el-fardo-pesado-de-la-corrupcion/",
+        "date": "2025-12-31 23:05:50",
+        "sentiment_score": -0.19941220432519913
+    },
+    {
+        "title": "Los retos de Madrid en 2026, el año de los grandes eventos: del récord de Bad Bunny a la F1 o la ampliación del Movistar Arena",
+        "image_url": "https://s3.elespanol.com/2025/06/07/actualidad/1003743794393_256272719_1706x960.jpg",
+        "tags": [
+            "festivales de música",
+            "madrid comunidad",
+            "eventos deportivos",
+            "wizink center",
+            "conciertos música"
+        ],
+        "link": "https://www.elespanol.com/madrid/comunidad/20260101/retos-madrid-ano-grandes-eventos-record-bad-bunny-f1-ampliacion-movistar-arena/1003744059402_0.html",
+        "date": "2026-01-01 01:00:00",
+        "sentiment_score": 0.6282425709068775
+    },
+    {
+        "title": "Bulevar de Barcelona estuvo concurrido por las compras para Año Nuevo (+Fotos)",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "economía",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/bulevar-de-barcelona-estuvo-concurrido-por-las-compras-para-ano-nuevo-fotos/",
+        "date": "2025-12-31 23:01:56",
+        "sentiment_score": 0.21976565569639206
+    },
+    {
+        "title": "Laura Escanes deslumbra en las Campanadas con un vestido corsé en rojo con el que rinde homenaje al cine clásico",
+        "image_url": "https://s3.elespanol.com/2025/12/31/actualidad/1003744074778_260724089_1706x960.jpg",
+        "tags": [
+            "tv3",
+            "laura escanes",
+            "moda",
+            "campanadas",
+            "famosos",
+            "televisión",
+            "estilo"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20260101/laura-escanes-deslumbra-campanadas-vestido-corse-rojo-rinde-homenaje-cine-clasico/1003744070496_0.html",
+        "date": "2025-12-31 23:01:22",
+        "sentiment_score": -0.7535532508045435
+    },
+    {
+        "title": "Laura Escanes se envuelve en un gran lazo de tul rojo para las Campanadas 2025",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/30/6953b68777640.r_d.4131-3160-564.jpeg",
+        "tags": [
+            "moda"
+        ],
+        "link": "https://www.lavanguardia.com/magazine/moda/20260101/11402820/laura-escanes-envuelve-gran-lazo-tul-rojo-campanadas-2025.html",
+        "date": "2025-12-31 23:00:00",
+        "sentiment_score": 0.5926442090421915
+    },
+    {
+        "title": "Transportistas de Barcelona actualizaron sus tarifas con la nueva gaceta (+Fotos)",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "transporte",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/transportistas-de-barcelona-actualizaron-sus-tarifas-con-la-nueva-gaceta-fotos/",
+        "date": "2025-12-31 22:27:37",
+        "sentiment_score": 0.07812567241489887
+    },
+    {
+        "title": "La Cabalgata de los Reyes comenzará de nuevo con un tramo en silencio",
+        "image_url": "https://www.diariodeteruel.es/uploads/diariodeteruel/contenidos/85641_251231-05-01.jpg",
+        "tags": [
+            "teruel"
+        ],
+        "link": "https://www.diariodeteruel.es/teruel/la-cabalgata-de-los-reyes-comenzara-de-nuevo-con-un-tramo-en-silencio",
+        "date": "2025-12-31 21:51:00",
+        "sentiment_score": 0.08766490966081619
     }
 ];
