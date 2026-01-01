@@ -1,485 +1,5 @@
 export default [
     {
-        "title": "River Plate cierra 2025 como el equipo con mayor promedio de espectadores del mundo, según Transfermarkt",
-        "image_url": "https://www.infobae.com/resizer/v2/FAKKZZA4ZRGVBJSYHTTGND4RMU.jpg?auth=47d2174788bf56ddd6d070a0c21c3d955ab60a27d34157e165be9c26b4052d5d&height=1280&smart=true&width=1920",
-        "tags": [
-            "europapress",
-            "buenos aires",
-            "fútbol",
-            "mâs monumental",
-            "ezeiza",
-            "stéfano di carlo",
-            "transfermarkt",
-            "jorge brito",
-            "rodolfo donofrio",
-            "asistencia de público",
-            "river plate"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/27/river-plate-cierra-2025-como-el-equipo-con-mayor-promedio-de-espectadores-del-mundo-segun-transfermarkt/",
-        "date": "2025-12-27 22:01:24",
-        "sentiment_score": 0.8153420947492123
-    },
-    {
-        "title": "El conmovedor homenaje a Diogo Jota en el Liverpool-Wolves: sus hijos Dinis y Duarte saltaron al césped",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/27/552FFAAE-2D9B-435D-87C2-F00D3990CBE7/dos-hijos-mayores-diogo-jota-anfield_70.jpg?crop=4572%2C2572%2Cx0%2Cy35&format=webply&height=270&optimize=high&width=480",
-        "tags": [
-            "antena 3 noticias",
-            "deportes",
-            "fútbol"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/conmovedor-homenaje-diogo-jota-liverpoolwolves-sus-hijos-dinis-duarte-saltaron-cesped_202512276950529c22f0db7dafff440d.html",
-        "date": "2025-12-27 21:41:48",
-        "sentiment_score": -0.06117472052574158
-    },
-    {
-        "title": "El CB Canarias y el Granca miman el balón como nadie",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/61cc0465-7243-405a-b7be-23d670066e85_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "regalos",
-            "cb canarias",
-            "canarias",
-            "santiago",
-            "txus vidorreta",
-            "balones"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/27/cb-canarias-granca-miman-balon-125185751.html",
-        "date": "2025-12-27 21:34:01",
-        "sentiment_score": 0.04714241623878479
-    },
-    {
-        "title": "El Covirán Granada vuelve a estropear al final otro buen partido",
-        "image_url": "https://static.grupojoly.com/clip/4634478f-f93a-4f1f-9875-72c902c56e44_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fundación cb granada"
-        ],
-        "link": "https://www.granadahoy.com/coviran-granada/coviran-granada-vuelve-estropear-final_0_2005518391.html",
-        "date": "2025-12-27 21:17:09",
-        "sentiment_score": -0.887776643037796
-    },
-    {
-        "title": "El Real Oviedo hace eterno su sentimiento centenario",
-        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2025/12/27/partido-leyendas-real-oviedo%20(14)-kFyB-U240680939304YHI-1200x840@El%20Comercio.jpg",
-        "tags": [
-            "real oviedo"
-        ],
-        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-partido-leyendas-eterno-sentimiento-centenario-20251227220051-nt.html",
-        "date": "2025-12-27 21:01:06",
-        "sentiment_score": 0.6976867839694023
-    },
-    {
-        "title": "El Arsenal se mantiene firme en el liderato y el Aston Villa sigue haciendo historia",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/27/69503d46aef08.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/arsenal-mantiene-firme-liderato-aston-villa-sigue-haciendo-historia-20251227_3278129.html",
-        "date": "2025-12-27 20:30:41",
-        "sentiment_score": 0.07110467553138733
-    },
-    {
-        "title": "Año 2025: sacudida en la política navarra",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/618f654e-ac74-4d27-9073-7e4bf7e15dc1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navarra",
-            "politica",
-            "2025",
-            "ano",
-            "sacudida"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/politica/2025/12/27/ano-2025-sacudida-politica-navarra-10517291.html",
-        "date": "2025-12-27 20:30:00",
-        "sentiment_score": -0.4116835445165634
-    },
-    {
-        "title": "Las dos fenomenales atajadas del Dibu Martínez para el triunfo del Aston Villa que lo deja a tiro de la cima en la Premier League",
-        "image_url": "https://www.infobae.com/resizer/v2/UDABZYEGP5HRFMCIHWUIOQTEDM.JPG?auth=2a8a1b3033d3f32542b4475f03fbf24f039c10ab3571dd3931020d103cfcbd23&height=2000&smart=true&width=3556",
-        "tags": [
-            "enzo fernández",
-            "emiliano dibu martínez",
-            "premier league",
-            "chelsea",
-            "aston villa"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/27/las-dos-fenomenales-atajadas-del-dibu-martinez-para-el-triunfo-del-aston-villa-que-lo-deja-a-tiro-de-la-cima-en-la-premier-league/",
-        "date": "2025-12-27 20:27:53",
-        "sentiment_score": 0.6353750489652157
-    },
-    {
-        "title": "Éxito rotundo en el II Torneo Alevín Granada Contra el Cáncer",
-        "image_url": "https://static.grupojoly.com/clip/34801ec5-b195-4a34-aebc-644f80f8c1c3_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.granadahoy.com/deportes/exito-rotundo-ii-torneo-alevin_0_2005518938.html",
-        "date": "2025-12-27 20:24:53",
-        "sentiment_score": 0.41925671696662903
-    },
-    {
-        "title": "El planazo de los Reyes Felipe y Letizia junto a sus hijas en plena Navidad",
-        "image_url": "https://okdiario.com/look/img/2025/12/27/image-2025-12-27t210859.987.jpg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://okdiario.com/look/actualidad/planazo-reyes-felipe-letizia-junto-sus-hijas-plena-navidad-2457923",
-        "date": "2025-12-27 20:12:16",
-        "sentiment_score": -0.17797406017780304
-    },
-    {
-        "title": "Las familias numerosas lamentan la negativa de Barcelona a fomentar la conciliación y la natalidad",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/12/el-pulso-de-la-ciudad/1003742715718_15507762_1706x960.jpg",
-        "tags": [
-            "pp",
-            "ayuntamiento de barcelona",
-            "economía",
-            "pisos turísticos",
-            "el pulso de la ciudad"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/el-pulso-de-la-ciudad/20251227/familias-numerosas-lamentan-negativa-barcelona-fomentar-conciliacion-natalidad/1003742715681_0.html",
-        "date": "2025-12-27 22:15:00",
-        "sentiment_score": -0.26114314794540405
-    },
-    {
-        "title": "Daisuke Fukamura, el chef japonés que ha revolucionado el ‘omakase’ en Gràcia: “Me gustó Barcelona y decidí quedarme”",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/10/30/empresas/1003742702832_15410489_1706x960.jpg",
-        "tags": [
-            "el camp d'en grassot i gràcia nova",
-            "restaurantes barcelona",
-            "recomendaciones",
-            "gastro",
-            "gràcia",
-            "gastronomía"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gastro/20251227/daisuke-fukamura-chef-japones-revolucionado-omakase-gracia-gusto-barcelona-decidi-quedarme/1003742708065_0.html",
-        "date": "2025-12-27 22:15:00",
-        "sentiment_score": -0.008052527904510498
-    },
-    {
-        "title": "Dónde han caído el bote de 69 millones de la Primitiva, el de 900.000 de la Bonoloto, y los premios de la ONCE de hoy sábado 27 de diciembre",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2024/01/08/0C9B5437-9D5F-4373-961D-A4CE2EE94756/administracion-loteria-atracada-lugo_98.jpg?crop=1024%2C576%2Cx0%2Cy11&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "loterías",
-            "antena 3 noticias"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-69-millones-primitiva-900000-bonoloto-premios-once-hoy-sabado-27-diciembre_202512276950565b22f0db7dafff4572.html",
-        "date": "2025-12-27 21:57:47",
-        "sentiment_score": 0.2076326347887516
-    },
-    {
-        "title": "Una ciudad en psicosis por el narco: \"La Marsella que conocemos no sería posible sin la droga que nos llega desde Cataluña\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/68d93e3956b24060cdeac6a6cd11b216/crop/988x18/2809x1839/f/image/jpeg/assets/multimedia/imagenes/2022/03/14/16472689940900.jpg",
-        "tags": [
-            "nlpremium",
-            "marbella",
-            "francia",
-            "barcelona",
-            "narcotráfico",
-            "artículos andros lozano",
-            "emmanuel macron",
-            "olympique de marsella",
-            "drogas",
-            "artículos elena iribas",
-            "crónica"
-        ],
-        "link": "https://www.elmundo.es/cronica/2025/12/27/6949958dfdddff71608b45ae.html",
-        "date": "2025-12-27 21:53:36",
-        "sentiment_score": -0.6545466147363186
-    },
-    {
-        "title": "El Manzanares, el Jaén y el Valdepeñas completan el cartel de la Copa de España masculina",
-        "image_url": "https://www.infobae.com/resizer/v2/OX7FMBOY2NFYRJUAM6W7MCSWCY.jpg?auth=b2290415262e183a3554421a0050eb2c28a410a33c9e4ef5790f699d49d4dd90&height=1281&smart=true&width=1920",
-        "tags": [
-            "europapress",
-            "cartagena",
-            "fútbol sala",
-            "murcia",
-            "copa de españa",
-            "jaén",
-            "viña albali valdepeñas",
-            "fc barcelona",
-            "jaén paraíso interior",
-            "elpozo murcia costa cálida",
-            "quesos el hidalgo manzanares"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/27/el-manzanares-el-jaen-y-el-valdepenas-completan-el-cartel-de-la-copa-de-espana-masculina/",
-        "date": "2025-12-27 21:45:24",
-        "sentiment_score": 0.9013283429667354
-    },
-    {
-        "title": "Israel, primer país del mundo en reconocer Somalilandia como estado independiente",
-        "image_url": "https://static1.ara.cat/clip/83f3b4d8-80d0-4f1c-8e04-7f6aa6ec8c8f_16-9-aspect-ratio_default_0_x499y189.png",
-        "tags": [
-            "somalilandia",
-            "pais",
-            "mundo",
-            "independiente",
-            "israel",
-            "reconocer"
-        ],
-        "link": "https://es.ara.cat/internacional/africa/israel-pais-mundo-reconocer-somalilandia-independiente_1_5603898.html",
-        "date": "2025-12-27 21:41:27",
-        "sentiment_score": 0.01592785120010376
-    },
-    {
-        "title": "La Primitiva deja más de 70.000 euros en Extremadura este sábado",
-        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2025/12/27/08045E1-kAiE-U240321190888xiB-1200x840@Hoy.jpg",
-        "tags": [
-            "sabado",
-            "sorteo"
-        ],
-        "link": "https://www.hoy.es/sociedad/primitiva-deja-70000-euros-extremadura-sabado-20251227223217-nt.html",
-        "date": "2025-12-27 21:32:18",
-        "sentiment_score": 0.07503945380449295
-    },
-    {
-        "title": "La Primitiva deja 1,3 millones de euros en Basauri",
-        "image_url": "https://s3.ppllstatics.com/elcorreo/www/multimedia/2024/06/03/basauri-kDJE--758x531@El%20Correo.jpg",
-        "tags": [
-            "audiencias",
-            "primitiva",
-            "loterías y apuestas del estado"
-        ],
-        "link": "https://www.elcorreo.com/loteria/primitiva/primitiva-sabado-comprobar-resultados-27-diciembre-20251227171253-nt.html",
-        "date": "2025-12-27 21:29:03",
-        "sentiment_score": -0.6791902855038643
-    },
-    {
-        "title": "El sorteo de Bonoloto deja un nuevo millonario este sábado",
-        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2025/12/13/05820E1.jpg",
-        "tags": [
-            "bonoloto"
-        ],
-        "link": "https://www.hoy.es/sociedad/sorteo-bonoloto-deja-nuevo-millonario-sabado-20251227222644-nt.html",
-        "date": "2025-12-27 21:26:44",
-        "sentiment_score": 0.0724673792719841
-    },
-    {
-        "title": "Un acertante de la Primitiva gana 1,3 millones de euros y el bote sube a 69,5 millones",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/08/14/689d18a5b4494.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/acertante-primitiva-gana-millones-euros-bote-sube-millones_6915258_0.html",
-        "date": "2025-12-27 21:24:25",
-        "sentiment_score": -0.050587818026542664
-    },
-    {
-        "title": "La empresa de Santos Cerdán escondía un millón de euros listo para repartir justo antes de ser descubierta por la UCO",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/d898fd73c0107760555f9dc0f9ab2dea/crop/34x0/411x377/f/image/jpeg/assets/multimedia/imagenes/2022/03/08/16467684465115.jpg",
-        "tags": [
-            "artículos esteban urreiztieta",
-            "artículos quico alsedo"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/12/28/69503503fdddffde6e8b456f.html",
-        "date": "2025-12-28 01:45:42",
-        "sentiment_score": 0.019573234021663666
-    },
-    {
-        "title": "El año que Sánchez no logró taparnos la boca",
-        "image_url": "https://s3.elespanol.com/2025/12/27/actualidad/1003744071205_260681685_1706x960.jpg",
-        "tags": [
-            "carta del director",
-            "opinión"
-        ],
-        "link": "https://www.elespanol.com/opinion/carta-del-director/20251228/ano-sanchez-no-logro-taparnos-boca/1003744071201_20.html",
-        "date": "2025-12-28 00:56:59",
-        "sentiment_score": 0.4538593702018261
-    },
-    {
-        "title": "“Jugar contra España dará a Cabo Verde una repercusión brutal”",
-        "image_url": "https://img.asmedia.epimg.net/resizer/v2/BS23RMNH3FLDLPSVJF2MRKI7IQ.jpg?auth=e88e7443c541dcd5841b14e7e076dfbaea0bb818de545eeac13b0c687191c63c&focal=1925%2C1323&height=828&width=1472",
-        "tags": [
-            "fútbol",
-            "selección fútbol cabo verde",
-            "selección española fútbol",
-            "valdo",
-            "mundial 2030"
-        ],
-        "link": "https://as.com/futbol/mundial/jugar-contra-espana-dara-a-cabo-verde-una-repercusion-brutal-f202512-n/",
-        "date": "2025-12-28 00:55:31",
-        "sentiment_score": 0.6470831595361233
-    },
-    {
-        "title": "Fernando Gonzalo convertirá un hotel okupado y en ruinas de Madrid en viviendas: ya lleva 200 edificios rehabilitados",
-        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744069224_260657525_1706x960.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "madrid",
-            "alpedrete",
-            "sociedad",
-            "sector inmobiliario"
-        ],
-        "link": "https://www.elespanol.com/madrid/sociedad/20251228/fernando-gonzalo-convertira-hotel-okupado-ruinas-madrid-viviendas-lleva-edificios-rehabilitados-dl/1003744068810_0.html",
-        "date": "2025-12-28 00:46:16",
-        "sentiment_score": 0.29932256042957306
-    },
-    {
-        "title": "Implantes que se comunican con el cerebro: el futuro de la neurotecnología está en marcha",
-        "image_url": "https://elsiglo.com.ve/wp-content/uploads/2025/12/6cb460db177e0a33869cdfd8dc4efb7eb1558e63w.jpg",
-        "tags": [
-            "cerebro",
-            "salud",
-            "neurotecnología"
-        ],
-        "link": "https://elsiglo.com.ve/implantes-que-se-comunican-con-el-cerebro-el-futuro-de-la-neurotecnologia-esta-en-marcha/",
-        "date": "2025-12-28 00:29:07",
-        "sentiment_score": 0.16974271833896637
-    },
-    {
-        "title": "José Riveiro analiza la Copa de África y descubre el talento de la selección de Sudáfrica: \"Tienen jugadores muy divertidos de ver y puede dar más de un susto\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/27/695056314c66a.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/jose-riveiro-analiza-copa-africa-descubre-talento-seleccion-sudafrica-jugadores-divertidos-ver-dar-susto-20251228_3278140.html",
-        "date": "2025-12-27 23:52:41",
-        "sentiment_score": -0.032198965549468994
-    },
-    {
-        "title": "El UCAM Murcia pelea el liderato navideño",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/7d1a8b84-efcb-412b-ac68345c6a18606b.jpg",
-        "tags": [
-            "málaga",
-            "ucam murcia",
-            "casademont zaragoza",
-            "liga acb",
-            "real madrid",
-            "joventut",
-            "liga endesa"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z116ab9f6-ad45-4436-b80ad491e9abb892/202512/el-ucam-murcia-pelea-el-liderato-navideno",
-        "date": "2025-12-27 23:05:07",
-        "sentiment_score": 0.4943678677082062
-    },
-    {
-        "title": "Sánchez despide 2025 decidido a resistir un nuevo tsunami autonómico de la derecha",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/28/sanchez-vicepresidentas-gobierno-krxH-U240679542436QkF-1200x840@RC.jpg",
-        "tags": [
-            "emiliano garcía page",
-            "partido socialista obrero español (psoe)",
-            "pedro sánchez",
-            "maría jesús montero",
-            "partido popular (pp)"
-        ],
-        "link": "https://www.ideal.es/nacional/sanchez-despide-2025-decidido-resistir-nuevo-tsunami-20251228000501-ntrc.html",
-        "date": "2025-12-27 23:05:02",
-        "sentiment_score": -0.477286696434021
-    },
-    {
-        "title": "Europa, en guerra y paz con los jóvenes",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/28/guerra-kM4E-U240680439805x0G-1200x840@RC.jpg",
-        "tags": [
-            "españa"
-        ],
-        "link": "https://www.elcomercio.es/opinion/jesus-g-maestro-europa-guerra-paz-jovenes-20251228000355-ntrc.html",
-        "date": "2025-12-27 23:03:56",
-        "sentiment_score": -0.2583903968334198
-    },
-    {
-        "title": "Rodríguez Ibarra: \"Hubo alternativa a Felipe, ¿cómo no va a haberla a Sánchez en un partido de 160.000 militantes?\"",
-        "image_url": "https://s3.elespanol.com/2025/12/27/actualidad/1003744071334_260683438_1706x1280.jpg",
-        "tags": [
-            "pedro sánchez",
-            "maría guardiola",
-            "política",
-            "vox",
-            "extremadura",
-            "guillermo fernández vara",
-            "hablando sobre españa",
-            "miguel ángel gallardo",
-            "juan carlos rodríguez ibarra",
-            "psoe (partido socialista obrero español)"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251228/psoe_-partido_socialista_obrero_espanol-pedro_sanchez-extremadura-juan_carlos_rodriguez_ibarra-maria_guardiola-miguel_Angel_gallardo-vox-guillermo_fernandez_vara-hablando_sobre_espana-politica/1003744070074_0.html",
-        "date": "2025-12-28 01:57:20",
-        "sentiment_score": -0.5524427592754364
-    },
-    {
-        "title": "Messi y su familia viajan a Uruguay para celebrar los 15 años de la hija de Luis Suárez",
-        "image_url": "https://www.hola.com/horizon/landscape/abed8312a556-saveclipapp44887759016230166552210436561940144490058458n.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad",
-            "lionel messi"
-        ],
-        "link": "https://www.hola.com/us-es/celebrities/20251228874993/messi-viaje-uruguay-cumpleanios-hija-luis-suarez/",
-        "date": "2025-12-28 01:05:39",
-        "sentiment_score": 0.5673436708748341
-    },
-    {
-        "title": "Dr. Antonio García-Cáceres Especialista en cirugía plástica mamaria: Un año vivido con gratitud y perspectiva",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e3cbe458-f6a5-4e72-9577-de6fdb0ecbc3_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cirugía plástica",
-            "trabajo",
-            "familia",
-            "estética",
-            "cáceres",
-            "salud",
-            "alemania"
-        ],
-        "link": "https://www.eldia.es/salud/2025/12/28/dr-antonio-garcia-caceres-especialista-125181229.html",
-        "date": "2025-12-28 00:00:06",
-        "sentiment_score": 0.5700649246573448
-    },
-    {
-        "title": "Albert Serra vive en Bilbao y cena todas las noches en un batzoki: «Yo lo que quiero es joder al espectador»",
-        "image_url": "https://s2.ppllstatics.com/elcorreo/www/multimedia/2025/12/26/albert-serra-bilbao-kdp-U240672579468lLB-758x531@El%20Correo.jpg",
-        "tags": [
-            "cine"
-        ],
-        "link": "https://www.elcorreo.com/culturas/cine/albert-serra-vive-bilbao-cena-noches-batzoki-20251226003544-nt.html",
-        "date": "2025-12-27 23:35:44",
-        "sentiment_score": -0.14528974145650864
-    },
-    {
-        "title": "Y para rematar, una fabada",
-        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2025/12/27/fabada-kZ0C--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "gijón",
-            "navidad",
-            "nochebuena",
-            "fabada"
-        ],
-        "link": "https://www.elcomercio.es/opinion/juanma-castano-rematar-fabada-20251228000027-nt.html",
-        "date": "2025-12-27 23:25:32",
-        "sentiment_score": -0.12234506011009216
-    },
-    {
-        "title": "Fallece Amelia del Castillo: la mujer que revolucionó el fútbol",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1766873299471/695027398aaa7.jpeg?ch=675&cw=1200",
-        "tags": [
-            "amelia del castillo",
-            "laliga",
-            "atlético de madrid",
-            "españa",
-            "atlético de pinto",
-            "fútbol español",
-            "barcelona"
-        ],
-        "link": "https://2001online.com/deportes/fallece-amelia-del-castillo-la-mujer-que-revoluciono-el-futbol-202512272000",
-        "date": "2025-12-27 23:09:16",
-        "sentiment_score": -0.8553245104849339
-    },
-    {
-        "title": "Fiatc se refuerza en sanidad y residencias",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/24/694bd3c2d99de.r_d.2284-1581-1055.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20251228/11392745/fiatc-refuerza-sanidad-residencias.html",
-        "date": "2025-12-27 23:05:00",
-        "sentiment_score": 0.5224709752947092
-    },
-    {
-        "title": "Y la tormenta de las tarifas acabó en un vaso de agua",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/24/694c079ea3392.r_d.2587-2115-882.jpeg",
-        "tags": [
-            "dinero"
-        ],
-        "link": "https://www.lavanguardia.com/dinero/20251228/11393203/tormenta-tarifas-acabo-vaso-agua.html",
-        "date": "2025-12-27 23:05:00",
-        "sentiment_score": -0.8614148665219545
-    },
-    {
         "title": "El CB Canarias quiere que el derbi siga siendo tradición... pero sin relajación",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b9b0abd7-5c88-400f-9c60-65ecb26ab8c6_16-9-discover-aspect-ratio_default_0.jpg",
         "tags": [
@@ -577,17 +97,6 @@ export default [
         "link": "https://www.lanzadigital.com/provincia/la-papeleria-moises-mata-de-alcazar-de-san-juan-celebra-su-centenario-reinventandose-como-espacio-cultural/",
         "date": "2025-12-28 05:23:00",
         "sentiment_score": -0.028393208980560303
-    },
-    {
-        "title": "Real Sitio de San Ildefonso (I)",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/145_REAL_SITIO_SAN_ILDEFONSO_2025_02.jpg",
-        "tags": [
-            "nuestros pueblos",
-            "segovia"
-        ],
-        "link": "https://eladelantado.com/real-sitio-de-san-ildefonso-i/",
-        "date": "2025-12-28 05:15:22",
-        "sentiment_score": -0.14174869656562805
     },
     {
         "title": "El equipo que recorre Extremadura y salva vidas",
@@ -3047,5 +2556,272 @@ export default [
         "link": "https://www.elprogreso.es/articulo/lugo/que-fueron-2025/202512111210431930673.html",
         "date": "2025-12-31 06:15:57",
         "sentiment_score": -0.8754879403859377
+    },
+    {
+        "title": "Los 80 cargos del PSOE, familiares y amigos de Sánchez señalados por la corrupción que deja 2025",
+        "image_url": "https://okdiario.com/img/2025/12/31/gif-sanchez-720x405-1.gif",
+        "tags": [
+            "begoña gómez",
+            "pedro sánchez",
+            "corrupción",
+            "españa",
+            "psoe"
+        ],
+        "link": "https://okdiario.com/espana/80-cargos-del-psoe-familiares-amigos-sanchez-senalados-corrupcion-que-deja-2025-16005336",
+        "date": "2025-12-31 17:08:05",
+        "sentiment_score": -0.5973502621054649
+    },
+    {
+        "title": "El Gobierno de La Rioja (PP) compra un convento de monjas por dos millones de dinero público para alojar a 17 menas de Canarias",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/Convento-fachada-2-1-1.jpg",
+        "tags": [
+            "españa",
+            "inmigración ilegal",
+            "menas",
+            "partido popular",
+            "la rioja"
+        ],
+        "link": "https://gaceta.es/espana/el-gobierno-de-la-rioja-pp-compra-un-convento-de-monjas-por-dos-millones-de-dinero-publico-para-alojar-a-17-menas-de-canarias-20251231-1805/",
+        "date": "2025-12-31 17:05:48",
+        "sentiment_score": -0.3268127925693989
+    },
+    {
+        "title": "Crisis de vivienda, clamor contra el turismo masivo y aumento de los discursos de odio: 2025, en clave canaria",
+        "image_url": "https://static.eldiario.es/clip/a5abd300-f8ba-47e2-bea0-c5e0edea3adc_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "odio",
+            "crisis",
+            "vivienda",
+            "clamor",
+            "turismo",
+            "aumento",
+            "clave",
+            "discursos",
+            "2025",
+            "canaria",
+            "masivo"
+        ],
+        "link": "https://www.eldiario.es/canariasahora/sociedad/crisis-vivienda-clamor-turismo-masivo-aumento-discursos-odio-2025-clave-canaria_1_12879338.html",
+        "date": "2025-12-31 17:01:50",
+        "sentiment_score": -0.24865439534187317
+    },
+    {
+        "title": "Kylian Mbappé encienden las alarmas en el Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/122025/1767199457379.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/futbol-espanol/kylian-mbappe-encienden-las-alarmas-en-el-real-madrid-2025123112410",
+        "date": "2025-12-31 17:01:00",
+        "sentiment_score": -0.6507679261267185
+    },
+    {
+        "title": "El mundo despide leyendas: los deportistas que se retiraron en 2025",
+        "image_url": "https://okdiario.com/img/2025/12/27/marcelo-alex-abrines-albert-ramos-y-terence-crawford-se-retiraron-en-2025.-.jpg",
+        "tags": [
+            "deportes",
+            "deporte"
+        ],
+        "link": "https://okdiario.com/deportes/mundo-despide-leyendas-deportistas-que-retiraron-2025-15994686",
+        "date": "2025-12-31 17:00:11",
+        "sentiment_score": 0.4501253068447113
+    },
+    {
+        "title": "Recordamos el peinado más inesperado de la reina Letizia en 2025, el pelo rizado que \"proyecta renovación y autenticidad\" según la psicología",
+        "image_url": "https://www.hola.com/horizon/landscape/b11d4f427774-gettyimages-2245021721.jpg?im=Resize%3D%281200%29",
+        "tags": [
+            "reina letizia",
+            "rizos",
+            "belleza",
+            "tendencias",
+            "cambio de look"
+        ],
+        "link": "https://www.hola.com/belleza/20251231875422/reina-letizia-pelo-rizado-significado-psicologia/",
+        "date": "2025-12-31 17:00:00",
+        "sentiment_score": 0.48490317538380623
+    },
+    {
+        "title": "12 meses que marcarán el fin de una generación: de Alonso a Djokovic o LeBron, mitos que se plantearán su futuro en 2026",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070099_260667765_1706x960.jpg",
+        "tags": [
+            "novak djokovic",
+            "fernando alonso",
+            "lewis hamilton",
+            "lionel messi",
+            "otros deportes",
+            "cristiano ronaldo",
+            "lebron james",
+            "2026"
+        ],
+        "link": "https://www.elespanol.com/deportes/otros-deportes/20251231/meses-marcaran-fin-generacion-alonso-djokovic-lebron-mitos-plantearan-futuro/1003744066796_0.html",
+        "date": "2025-12-31 17:00:00",
+        "sentiment_score": 0.014075517654418945
+    },
+    {
+        "title": "PNV aplaude el mensaje de Pradales a los migrantes \"basado en derechos y deberes\", y su defensa del euskera",
+        "image_url": "https://www.infobae.com/resizer/v2/3MUOS3B4LJATJAC3BMXYFF3FBA.jpg?auth=157aac63c989f6f854e4c8b78edab95170c2f8a0e88bb86ee328412616e13a09&height=1080&smart=true&width=1920",
+        "tags": [
+            "imanol pradales",
+            "álava",
+            "joseba díez antxustegi",
+            "euskadi",
+            "migrantes",
+            "pnv",
+            "euskera",
+            "herriko plaza",
+            "derechos y deberes",
+            "lehendakari",
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/espana/agencias/2025/12/31/pnv-aplaude-el-mensaje-de-pradales-a-los-migrantes-basado-en-derechos-y-deberes-y-su-defensa-del-euskera/",
+        "date": "2025-12-31 16:46:41",
+        "sentiment_score": 0.429510273039341
+    },
+    {
+        "title": "Roberto Carlos, ingresado en Brasil por un problema cardíaco",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2025/1ecadcd7-d6e9-4bbd-a5bbc13aef550234.jpg",
+        "tags": [
+            "real madrid",
+            "brasil"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z16f93bc0-aaf9-45ad-9ce614ed06254dda/202512/roberto-carlos-ingresado-en-brasil-por-un-problema-cardiaco",
+        "date": "2025-12-31 16:40:15",
+        "sentiment_score": -0.6664324188604951
+    },
+    {
+        "title": "Estrella del Real Madrid Kylian Mbappé, fuera por lesión de rodilla",
+        "image_url": "https://dims.apnews.com/dims4/default/315ccce/2147483647/strip/true/crop/3897x2594+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2Faf%2Fd9969ee6afc39a6e0280d47eb262%2F858b21fe97d5457db59f95579295d90b",
+        "tags": [
+            "sports",
+            "deportes",
+            "mbappe lesion real madrid francia mundial"
+        ],
+        "link": "https://apnews.com/article/mbappe-lesion-real-madrid-francia-mundial-58a848aa0c0bf62a46ceceede5032a3f",
+        "date": "2025-12-31 16:36:57",
+        "sentiment_score": -0.7244963152334094
+    },
+    {
+        "title": "Hallado muerto un hombre en un saco de dormir en el centro de Barcelona",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/04/19/imagen-de-archivo-de-un-coche-de-los-mossos-d-esquadra.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2025/12/31/hallado-muerto-hombre-saco-dormir-centro-barcelona-1882437.html",
+        "date": "2025-12-31 17:18:50",
+        "sentiment_score": -0.1344919167459011
+    },
+    {
+        "title": "Aparece muerto en su saco de dormir un sintecho en el Gòtic de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/27/ciutat-vella/1003742711480_15455458_1706x960.jpg",
+        "tags": [
+            "civismo",
+            "vivir en barcelona",
+            "el gòtic",
+            "ciutat vella",
+            "mossos d'esquadra"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251231/aparece-muerto-saco-dormir-sintecho-gotic-barcelona/1003742720303_0.html",
+        "date": "2025-12-31 17:13:45",
+        "sentiment_score": -0.8619733229279518
+    },
+    {
+        "title": "Evitar la sumisión química con un sensor que devuelve fluorescente la bebida",
+        "image_url": "https://static1.ara.cat/clip/23f5e655-3d03-4b69-a4f6-0432f9ccc377_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "devuelve",
+            "fluorescente",
+            "sensor",
+            "bebida",
+            "evitar",
+            "quimica",
+            "sumision"
+        ],
+        "link": "https://es.ara.cat/sociedad/evitar-sumision-quimica-sensor-devuelve-fluorescente-bebida_1_5606532.html",
+        "date": "2025-12-31 17:01:02",
+        "sentiment_score": -0.22243629395961761
+    },
+    {
+        "title": "Adiós a los billetes baratos: Renfe, Iryo y Ouigo ajustan precios en alta velocidad",
+        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/12/ave-renfe-ouigo-1000x665.jpg",
+        "tags": [
+            "iryo",
+            "sociedad",
+            "ouigo",
+            "renfe"
+        ],
+        "link": "https://www.economiadigital.es/sociedad/adios-billetes-baratos-renfe-iryo-ouigo-ds.html",
+        "date": "2025-12-31 17:00:00",
+        "sentiment_score": -0.6644420865923166
+    },
+    {
+        "title": "Termina el realojo de los expulsados del B9 y el Gobierno dice que \"fomentará\" su regreso a Badalona",
+        "image_url": "https://static1.ara.cat/clip/e2dfa170-ae9b-4e44-ab0e-1876dd2701a4_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "realojo",
+            "termina",
+            "regreso",
+            "expulsados",
+            "dice",
+            "gobierno",
+            "fomentara",
+            "b9",
+            "badalona"
+        ],
+        "link": "https://es.ara.cat/sociedad/emergencia-social/termina-realojo-expulsados-b9-gobierno-dice-fomentara-regreso-badalona_1_5606526.html",
+        "date": "2025-12-31 16:59:20",
+        "sentiment_score": 0.06399920582771301
+    },
+    {
+        "title": "Nueva fase en la solución a la crisis de Badalona con mayor implicación del Ayuntamiento",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/24/694bce1ecbde8.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.lavanguardia.com/local/catalunya/20251231/11405419/nueva-fase-solucion-crisis-badalona-mayor-implicacion-ayuntamiento.html",
+        "date": "2025-12-31 16:58:47",
+        "sentiment_score": -0.06323279440402985
+    },
+    {
+        "title": "Hola 2026: El mundo celebra la llegada del nuevo año",
+        "image_url": "https://static1.ara.cat/clip/a3fd8fb2-a9aa-40fe-b130-20ed0d52eb49_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "celebra",
+            "ano",
+            "llegada",
+            "2026",
+            "mundo",
+            "nuevo",
+            "hola"
+        ],
+        "link": "https://es.ara.cat/fotos/hola-2026-mundo-celebra-llegada-nuevo-ano_3_5606511.html",
+        "date": "2025-12-31 16:49:50",
+        "sentiment_score": 0.5353085100650787
+    },
+    {
+        "title": "La Tardevieja en Córdoba para despedir 2025, en imágenes",
+        "image_url": "https://static.grupojoly.com/clip/1145e6ed-c041-4338-8b07-e06f2f037b79_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias córdoba",
+            "navidad córdoba",
+            "últimas noticias"
+        ],
+        "link": "https://www.eldiadecordoba.es/cordoba/tardevieja-cordoba-despedir-2025-imagenes_3_2005532359.html",
+        "date": "2025-12-31 16:48:54",
+        "sentiment_score": 0.39319999143481255
+    },
+    {
+        "title": "La ciudad más cara para pasar las fiestas está en Baleares (y no es Ibiza)",
+        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2024/05/Turismo-en-Mallorca.jpg",
+        "tags": [
+            "turismo",
+            "palma",
+            "actualidad 3",
+            "actualidad",
+            "baleares"
+        ],
+        "link": "https://lavozdeibiza.com/actualidad/la-ciudad-mas-cara-para-pasar-las-fiestas-esta-en-baleares-y-no-es-ibiza/",
+        "date": "2025-12-31 16:48:07",
+        "sentiment_score": 0.015973851084709167
     }
 ];
