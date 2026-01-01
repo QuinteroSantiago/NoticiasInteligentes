@@ -1,215 +1,5 @@
 export default [
     {
-        "title": "El CB Canarias quiere que el derbi siga siendo tradición... pero sin relajación",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b9b0abd7-5c88-400f-9c60-65ecb26ab8c6_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "valencia",
-            "cb canarias",
-            "txus vidorreta",
-            "santiago",
-            "tenerife",
-            "derbi"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/28/cb-canarias-quiere-derbi-siga-125190373.html",
-        "date": "2025-12-28 06:26:25",
-        "sentiment_score": -0.02763769030570984
-    },
-    {
-        "title": "Por qué ChatGPT es una absoluta amenaza para el clima",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1f6b913a-ce96-4b93-952c-6702c1168439_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "amenaza",
-            "clima",
-            "por",
-            "que",
-            "chatgpt",
-            "absoluta"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/bermatu/2025/12/28/por-que-chatgpt-absoluta-amenaza-clima-10518174.html",
-        "date": "2025-12-28 06:01:04",
-        "sentiment_score": 0.4601063057780266
-    },
-    {
-        "title": "Christian, propietario de 4 pisos: \"Gano 2.800 euros netos al mes, más que con mi salario por cuenta ajena\"",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744069968_260666655_1706x960.jpg",
-        "tags": [
-            "inversores",
-            "sector inmobiliario",
-            "vivir",
-            "aragón",
-            "propiedades",
-            "inmobiliarias",
-            "propietarios"
-        ],
-        "link": "https://www.elespanol.com/aragon/vivir/20251228/christian-propietario-pisos-gano-euros-netos-mes-salario-cuenta-ajena-trt/1003744069833_0.html",
-        "date": "2025-12-28 06:00:00",
-        "sentiment_score": -0.445712648332119
-    },
-    {
-        "title": "El Unicaja visita a un Real Madrid líder e invicto en su cancha",
-        "image_url": "https://s3.elespanol.com/2025/12/21/malaga/deporte/unicaja/1003744065202_260607749_1706x960.jpg",
-        "tags": [
-            "baloncesto",
-            "unicaja",
-            "liga endesa",
-            "real madrid baloncesto",
-            "club baloncesto málaga (unicaja málaga)",
-            "acb"
-        ],
-        "link": "https://www.elespanol.com/malaga/deporte/unicaja/20251228/unicaja-visita-real-madrid-lider-invicto-cancha/1003744071351_0.html",
-        "date": "2025-12-28 05:50:00",
-        "sentiment_score": 0.11307377368211746
-    },
-    {
-        "title": "Real Madrid-Unicaja: Ligeros de equipaje (19:00)",
-        "image_url": "https://static.grupojoly.com/clip/fc96bf07-06be-4615-8af1-4ff54d717c9e_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.malagahoy.es/unicaja/real-madrid-unicaja-ligeros-equipaje_0_2005518030.html",
-        "date": "2025-12-28 05:44:50",
-        "sentiment_score": -0.5130356773734093
-    },
-    {
-        "title": "Matías Almeyda, el anclaje del sevillismo para el incierto 2026",
-        "image_url": "https://static.grupojoly.com/clip/510af6af-f522-40a3-a13e-7413c2185905_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "entrenador del sevilla fc",
-            "sevilla fc"
-        ],
-        "link": "https://www.diariodesevilla.es/sevillafc/matias-almeyda-anclaje-sevillismo-incierto-2026-sevilla_0_2005518910.html",
-        "date": "2025-12-28 05:30:36",
-        "sentiment_score": 0.22169291973114014
-    },
-    {
-        "title": "La Papelería Moisés Mata de Alcázar de San Juan celebra su centenario reinventándose como espacio cultural",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Papeleria-Mata-_-Clara-Manzano-124-1299x730.jpg",
-        "tags": [
-            "café",
-            "librería",
-            "cafetería",
-            "provincia de ciudad real",
-            "museo",
-            "libros",
-            "alcázar de san juan",
-            "papelería"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/la-papeleria-moises-mata-de-alcazar-de-san-juan-celebra-su-centenario-reinventandose-como-espacio-cultural/",
-        "date": "2025-12-28 05:23:00",
-        "sentiment_score": -0.028393208980560303
-    },
-    {
-        "title": "El equipo que recorre Extremadura y salva vidas",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/12/19/ECMO5-RA3bQpKA3IIlmrltIvtwbmL-1200x840@Hoy.jpg",
-        "tags": [
-            "extremadura",
-            "hospital universitario de badajoz",
-            "hoy",
-            "badajoz",
-            "ses",
-            "salud"
-        ],
-        "link": "https://www.hoy.es/extremadura/equipo-recorre-extremadura-salva-vidas-20251228073122-nt.html",
-        "date": "2025-12-28 06:31:23",
-        "sentiment_score": -0.0258004292845726
-    },
-    {
-        "title": "Un amanecer difícil de ver",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/24/694bd0e19df84.r_d.1002-852-2338.jpeg",
-        "tags": [
-            "las fotos de los lectores"
-        ],
-        "link": "https://www.lavanguardia.com/participacion/las-fotos-de-los-lectores/20251228/11392710/amanecer-dificil-ver.html",
-        "date": "2025-12-28 06:19:48",
-        "sentiment_score": -0.3559249937534332
-    },
-    {
-        "title": "Incomodar al poder, no a la verdad",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/26/vito-quiles-durante-una-rueda-de-prensa-del-diputado-enrique-santiago-en-el-congreso-1450.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.huffingtonpost.es/opinion/incomodar-verdad-f202512.html",
-        "date": "2025-12-28 06:07:02",
-        "sentiment_score": -0.6387163288891315
-    },
-    {
-        "title": "José Manuel Macarro : «Todos los que protestaban contra Franco en la Universidad de Sevilla cabían en un aula magna»",
-        "image_url": "https://s1.abcstatics.com/abc/www/multimedia/sevilla/2025/12/28/jose-manuel-macarro-krzF-RCurVkoW4GCNipZMRdzwD9K-1200x840@diario_abc.jpg",
-        "tags": [
-            "ciudad",
-            "sevilla"
-        ],
-        "link": "https://www.abc.es/sevilla/ciudad/protestaban-franco-universidad-sevilla-cabian-aula-magna-20251228104321-nts.html",
-        "date": "2025-12-28 06:06:36",
-        "sentiment_score": -0.16435019671916962
-    },
-    {
-        "title": "El vino caliente de los mercadillos navideños europeos conquista también España: \"Vendemos mucho desde la mañana\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7c258f1c-4a80-4760-b77d-7b0752be5e67_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "bebidas",
-            "bebidas azucaradas",
-            "bebidas alcohólicas",
-            "barcelona",
-            "madrid",
-            "valencia",
-            "navidad"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20251228/vino-caliente-mercadillos-navidenos-europeos-espana-125161864",
-        "date": "2025-12-28 06:00:23",
-        "sentiment_score": 0.0647105872631073
-    },
-    {
-        "title": "Pilar García, experta en economía: \"En la mayoría de las ciudades, los coches eléctricos e híbridos enchufables ya tienen que pagar por estacionar en las zonas reservadas para ellos\"",
-        "image_url": "https://images.ecestaticos.com/2Tkt2fWRr0UxTQ8y_RW1b1NCw5I=/0x0:1500x844/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2a9%2F0b8%2F982%2F2a90b8982f3ea291b7f85155068b3c28.jpg",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.elconfidencial.com/economia/2025-12-28/pilar-garcia-experta-economia-coches-electricos_4266119/",
-        "date": "2025-12-28 06:00:00",
-        "sentiment_score": -0.34411364793777466
-    },
-    {
-        "title": "Francesc Orella: “Yo he vivido los 70 y los 80 y ahora nos la cogemos más con papel de fumar”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/27/695043f116b2b.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.lavanguardia.com/gente/20251228/11397348/francesc-orella-he-vivido-70-80-cogemos-mas-papel-fumar.html",
-        "date": "2025-12-28 06:00:00",
-        "sentiment_score": -0.0074145495891571045
-    },
-    {
-        "title": "Judimendi, referente de la alimentación saludable",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/782595bc-d9ee-4253-ad07-2bd14e1c261c_16-9-aspect-ratio_default_0_x1254y960.jpg",
-        "tags": [
-            "productos sostenibles",
-            "saludable",
-            "alimentacion",
-            "judimendi",
-            "proyecto albarrio",
-            "referente"
-        ],
-        "link": "https://www.noticiasdealava.eus/gasteiz/2025/12/28/judimendi-referente-alimentacion-saludable-proyecto-albarrio-productos-sostenibles-10514168.html",
-        "date": "2025-12-28 05:59:45",
-        "sentiment_score": 0.6193334888666868
-    },
-    {
-        "title": "Moreno tendrá que sudar esta vez la camiseta",
-        "image_url": "https://static.grupojoly.com/clip/53403519-7475-4dca-ab59-5b74e5e9b18c_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "camiseta",
-            "moreno",
-            "vez",
-            "sudar",
-            "tendra"
-        ],
-        "link": "https://www.granadahoy.com/andalucia/moreno-tendra-sudar-vez-camiseta_0_2005519622.html",
-        "date": "2025-12-28 05:59:30",
-        "sentiment_score": 0.10799586772918701
-    },
-    {
         "title": "Este es el descarte del Unicaja para enfrentarse al Real Madrid",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/26369f54-4e85-4e6d-8cd5-13937fb064c6_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -2823,5 +2613,231 @@ export default [
         "link": "https://lavozdeibiza.com/actualidad/la-ciudad-mas-cara-para-pasar-las-fiestas-esta-en-baleares-y-no-es-ibiza/",
         "date": "2025-12-31 16:48:07",
         "sentiment_score": 0.015973851084709167
+    },
+    {
+        "title": "Descubre la verdad sobre la lesión de Christensen que obliga al Barça a mirar fuera",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/24/2025042421405751991.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/descubre-la-clave/20251231225830368979.html",
+        "date": "2025-12-31 21:58:30",
+        "sentiment_score": -0.8717050096020103
+    },
+    {
+        "title": "Roberto Carlos habló tras ser operado por un problema cardíaco: “No hay motivos para alarmarse”",
+        "image_url": "https://www.infobae.com/resizer/v2/6Y7TUCRDZFEN5BKNY2DB5CXLS4.jpg?auth=a6bc5c8c7c0c841207352ca52ad1c00b42c92f48da62b6cfc3cf5b84fa3bb0c5&height=608&smart=true&width=1080",
+        "tags": [
+            "real madrid",
+            "selección de brasil",
+            "roberto carlos"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/31/roberto-carlos-hablo-tras-ser-operado-por-un-problema-cardiaco-no-hay-motivos-para-alarmarse/",
+        "date": "2025-12-31 21:48:37",
+        "sentiment_score": -0.6509973499923944
+    },
+    {
+        "title": "James Rodríguez y el desconocido apodo que le tenían Porto: “Es curioso”",
+        "image_url": "https://www.infobae.com/resizer/v2/U2RNJ562S5ELZDRMHS4P72B4NQ.jpeg?auth=088f2c2fd5f34cbd9f516e791aec86d9b26d10ab4009dc027f36f5001b45055a&height=455&smart=true&width=600",
+        "tags": [
+            "entrevista",
+            "colombia-deportes",
+            "porto",
+            "playstation",
+            "james rodríguez",
+            "maicon"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2025/12/31/james-rodriguez-y-el-desconocido-apodo-que-le-tenian-porto-es-curioso/",
+        "date": "2025-12-31 21:23:11",
+        "sentiment_score": 0.13238971680402756
+    },
+    {
+        "title": "Las 12 campanadas del deporte en 2025",
+        "image_url": "https://okdiario.com/img/2025/12/28/campanadas-2025.jpg",
+        "tags": [
+            "nfl",
+            "álex palou",
+            "carlos alcaraz",
+            "deportes",
+            "tadej pogacar",
+            "ilia topuria",
+            "luis enrique",
+            "paris saint-germain (psg)",
+            "marc márquez",
+            "más deportes",
+            "lando norris"
+        ],
+        "link": "https://okdiario.com/deportes/12-campanadas-del-deporte-2025-15995125",
+        "date": "2025-12-31 21:00:09",
+        "sentiment_score": 0.8921331875026226
+    },
+    {
+        "title": "Joan Laporta",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/vida/1003742720313_15565245_1706x960.jpg",
+        "tags": [
+            "examen a los protagonistas",
+            "barça",
+            "fútbol",
+            "fc barcelona",
+            "joan laporta"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20251231/joan-laporta/1003742720309_0.html",
+        "date": "2025-12-31 21:00:00",
+        "sentiment_score": -0.16738668084144592
+    },
+    {
+        "title": "Conservatorio de Música de Carabobo se consolidó este 2025 como institución educativa musical de excelencia",
+        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-31-at-11.49.00-AM-2.webp",
+        "tags": [
+            "carabobo"
+        ],
+        "link": "https://lacalle.com.ve/conservatorio-de-musica-de-carabobo-se-consolido-este-2025-como-institucion-educativa-musical-de-excelencia/",
+        "date": "2025-12-31 20:52:25",
+        "sentiment_score": 0.6671277731657028
+    },
+    {
+        "title": "Mbappé se pierde la Supercopa de España: cuándo vuelve y qué tan grave es su lesión",
+        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2025/02/f2c550bc30da7458c82cd2b5d2727f05846a1dd7w.jpg",
+        "tags": [
+            "sociedad",
+            "kylian mbappé",
+            "actualidad",
+            "real madrid",
+            "supercopa de españa"
+        ],
+        "link": "https://lavozdeibiza.com/actualidad/mbappe-se-pierde-la-supercopa-de-espana-cuando-vuelve-y-que-tan-grave-es-su-lesion/",
+        "date": "2025-12-31 20:30:36",
+        "sentiment_score": -0.8690314069390297
+    },
+    {
+        "title": "El video de Julián Álvarez armando la cuna para su bebé que se hizo viral: “Misión imposible”",
+        "image_url": "https://www.infobae.com/resizer/v2/M5Z5DMRS5ZAFLAFOZA5DGSITTY.png?auth=32b3f15ce881e079fcc9339c0cca6e2baf7b5e3141d2c2991de6da06ccbb56ef&height=1080&smart=true&width=1920",
+        "tags": [
+            "emilia ferrero",
+            "deportes-argentina",
+            "julián álvarez",
+            "atlético madrid",
+            "selección argentina"
+        ],
+        "link": "https://www.infobae.com/deportes/2025/12/31/el-video-de-julian-alvarez-armando-la-cuna-para-su-bebe-que-se-hizo-viral-mision-imposible/",
+        "date": "2025-12-31 20:14:54",
+        "sentiment_score": 0.26268819719552994
+    },
+    {
+        "title": "Ayuso, en su mensaje de Fin de Año: \"Madrid es la región que pone freno a los totalitarios\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f311c37-55f7-4984-8a4a-46b0039f40f3_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "comunidad de madrid",
+            "isabel díaz ayuso",
+            "pi vídeos",
+            "nochevieja",
+            "fin de año"
+        ],
+        "link": "https://www.lne.es/videos/nacional/2025/12/31/ayuso-mensaje-fin-ano-madrid-125285423.html",
+        "date": "2025-12-31 20:13:03",
+        "sentiment_score": -0.6304659992456436
+    },
+    {
+        "title": "Laura Escanes, espectacular en las Campanadas de TV3 con un diseño rojo de alta costura de Yolancris inspirado en el cine clásico",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9f8a156f-c23b-4da1-941d-4c753577b45b_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "navidad",
+            "fin de año",
+            "club de estilo",
+            "alta costura",
+            "laura escanes",
+            "moda"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260101/laura-escanes-vestido-campanadas-fin-de-ano-tv3-125226367",
+        "date": "2025-12-31 22:02:35",
+        "sentiment_score": 0.02453473210334778
+    },
+    {
+        "title": "Rosalía, Bad Bunny, The Weeknd, El Último de la Fila o Agorazein con C. Tangana, conciertos de 2026 en España",
+        "image_url": "https://static.laregion.es/clip/f3ab7c79-e552-4de9-8bc3-639be3abcaa0_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "festival",
+            "rosalia",
+            "conciertos",
+            "música",
+            "festivales"
+        ],
+        "link": "https://www.laregion.es/espana/rosalia-bad-bunny-the-weeknd_1_20251231-4110324.html",
+        "date": "2025-12-31 21:30:12",
+        "sentiment_score": 0.06294891983270645
+    },
+    {
+        "title": "La incertidumbre en las secciones del Barça para 2026: revolución en el Palau Blaugrana",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/culemania/secciones/1003742720322_15565420_1706x960.jpg",
+        "tags": [
+            "secciones",
+            "palau blaugrana",
+            "fcb basket",
+            "fcbfemeni"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20251231/incertidumbre-secciones-barca-revolucion-palau-blaugrana/1003742720311_0.html",
+        "date": "2025-12-31 21:17:23",
+        "sentiment_score": -0.09453131258487701
+    },
+    {
+        "title": "Francesc Macià, la plaza en la que nadie gana",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/18/business/1003742717402_15529059_1706x960.jpg",
+        "tags": [
+            "bares y restaurantes",
+            "cataluña",
+            "plaza francesc macià",
+            "barcelona",
+            "business",
+            "restauración"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/business/20251231/francesc-macia-plaza-nadie-gana/1003742717346_0.html",
+        "date": "2025-12-31 21:00:00",
+        "sentiment_score": -0.8678862396627665
+    },
+    {
+        "title": "Feliz año... ¿nuevo?",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/pensamiento/zona-franca/1003742720275_15564871_1706x960.jpg",
+        "tags": [
+            "psc",
+            "fin de año",
+            "pedro sánchez",
+            "manicomio catalán",
+            "donald trump",
+            "año nuevo",
+            "vladimir putin"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/manicomio-catalan/20251231/feliz-ano-nuevo/1003742720271_12.html",
+        "date": "2025-12-31 21:00:00",
+        "sentiment_score": -0.8749120552092791
+    },
+    {
+        "title": "Los cinco desafíos de Cataluña en 2026 tras aumentar un 5% las muertes en carretera",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/vida/1003742720165_15563252_1706x960.jpg",
+        "tags": [
+            "cataluña",
+            "vida",
+            "servei català de trànsit",
+            "accidentes",
+            "ramon lamiel"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20251231/desafios-cataluna-aumentar-muertes-carretera/1003742720163_0.html",
+        "date": "2025-12-31 21:00:00",
+        "sentiment_score": -0.7314064055681229
+    },
+    {
+        "title": "Un deseo para 2026",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/pensamiento/1003742720306_15565179_1706x960.jpg",
+        "tags": [
+            "inversiones",
+            "cataluña",
+            "barcelona",
+            "vivienda",
+            "inflación",
+            "economía",
+            "zona franca"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20251231/deseo/1003742720304_12.html",
+        "date": "2025-12-31 21:00:00",
+        "sentiment_score": -0.8703420655801892
     }
 ];
