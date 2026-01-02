@@ -1,199 +1,5 @@
 export default [
     {
-        "title": "Cristiano Ronaldo quiere alcanzar 1.000 goles antes de terminar su carrera, lleva 956",
-        "image_url": "https://dims.apnews.com/dims4/default/6683013/2147483647/strip/true/crop/2634x1753+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F1b%2Fa9e39a2b5707132c915f8a4b1fb2%2Fdd603f17acbe48f2abf327cfe740b5b0",
-        "tags": [
-            "cristiano ronaldo 1000 goles record",
-            "deportes",
-            "sports"
-        ],
-        "link": "https://apnews.com/article/cristiano-ronaldo-1000-goles-record-f21a39f706f76b9ed97a62eda65c16ba",
-        "date": "2025-12-29 17:14:53",
-        "sentiment_score": 0.5220872052013874
-    },
-    {
-        "title": "Robles justifica en \"interés comercial\" la compra de armas a Israel y la ruptura del \"embargo total\" sólo dos meses después",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/c8be0ff5d60841b741fde4de6fc2a12d/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/29/17670282493776.jpg",
-        "tags": [
-            "espana"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/12/29/6952b4ffe9cf4a242e8b459e.html",
-        "date": "2025-12-29 17:13:51",
-        "sentiment_score": -0.379286989569664
-    },
-    {
-        "title": "La Fundación Jiménez Díaz lidera el ranking del mejor hospital en España durante una década",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/fundacion_jimenez-Diaz-1.jpg",
-        "tags": [
-            "actualidad",
-            "servimedia"
-        ],
-        "link": "https://theobjective.com/actualidad/2025-12-29/fundacion-jimenez-diaz-hospital-espana/",
-        "date": "2025-12-29 17:13:34",
-        "sentiment_score": 0.3361674174666405
-    },
-    {
-        "title": "La celebración del III Torneo Navideño Datchball consolida a Miguelturra como referente de este deporte",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/III-Torneo-Navideno-Datchball.jpg",
-        "tags": [
-            "clara campoamor",
-            "miguelturra",
-            "campeonato regional",
-            "provincia de ciudad real"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/la-celebracion-del-iii-torneo-navideno-datchball-consolida-a-miguelturra-como-referente-de-este-deporte/",
-        "date": "2025-12-29 17:08:55",
-        "sentiment_score": 0.11628180742263794
-    },
-    {
-        "title": "Granada vs Rayo Vallecano: el juego de Copa del Rey del Día de Reyes",
-        "image_url": "https://pxcdn.meridiano.net/122025/1767029039664.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/granada-vs-rayo-vallecano-el-juego-de-copa-del-rey-del-dia-de-reyes-202512291350",
-        "date": "2025-12-29 17:05:00",
-        "sentiment_score": -0.07268571853637695
-    },
-    {
-        "title": "Un compromiso que va más allá de ofrecer movilidad eficiente y de calidad",
-        "image_url": "https://s1.ppllstatics.com/eldiariomontanes/www/multimedia/2025/12/29/Imagen%20Branded%20Cabify1-kwoD-U240695804910a1E-1200x840@Diario%20Montanes.jpg",
-        "tags": [
-            "alla",
-            "compromiso",
-            "ofrecer",
-            "movilidad",
-            "calidad",
-            "eficiente"
-        ],
-        "link": "https://www.eldiariomontanes.es/economia/compromiso-alla-ofrecer-movilidad-eficiente-calidad-20251229180149-nt.html",
-        "date": "2025-12-29 17:01:50",
-        "sentiment_score": 0.7987718991935253
-    },
-    {
-        "title": "Ecologistas en Acción alerta de \"retrocesos\" en objetivos de emisiones y en la política climática europea este 2025",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251229175243_120.jpg",
-        "tags": [
-            "sociedad"
-        ],
-        "link": "https://www.europapress.es/sociedad/noticia-ecologistas-accion-alerta-retrocesos-objetivos-emisiones-politica-climatica-europea-2025-20251229175243.html",
-        "date": "2025-12-29 16:52:43",
-        "sentiment_score": -0.06036941707134247
-    },
-    {
-        "title": "Toni Kroos habla sobre la crisis de Xabi Alonso en el Real Madrid: “Las críticas vienen muy rápido, tienes muy poco tiempo como entrenador para crear algo”",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "españa-deportes",
-            "toni kroos",
-            "fútbol españa",
-            "españa-noticias",
-            "fútbol",
-            "real madrid",
-            "xabi alonso"
-        ],
-        "link": "https://www.infobae.com/espana/deportes/2025/12/29/toni-kroos-habla-sobre-la-crisis-de-xabi-alonso-en-el-real-madrid-las-criticas-vienen-muy-rapido-tienes-muy-poco-tiempo-como-entrenador-para-crear-algo/",
-        "date": "2025-12-29 16:35:57",
-        "sentiment_score": 0.035642705857753754
-    },
-    {
-        "title": "Moyca repartirá 8.100 tarrinas de uva en el UCAM Murcia-Real Madrid de baloncesto",
-        "image_url": "https://www.murciadiario.com/media/murciadiario/images/2025/12/29/2025122917314997524.jpg",
-        "tags": [
-            "empresas"
-        ],
-        "link": "https://www.murciadiario.com/articulo/empresas/moyca-uvas/20251229173515138048.html",
-        "date": "2025-12-29 16:35:15",
-        "sentiment_score": 0.7918952312320471
-    },
-    {
-        "title": "El Índice de Excelencia Hospitalaria 2025 confirma el liderazgo de la Fundación Jiménez Díaz como mejor hospital de España durante una década",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f5b387bf-c177-45c7-b324-114436fb52b0_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "barcelona",
-            "madrid",
-            "jesús",
-            "cuatro",
-            "andalucía"
-        ],
-        "link": "https://www.diaridegirona.cat/comunicacio-empresarial/2025/12/29/indice-excelencia-hospitalaria-2025-confirma-liderazgo-fundacion-jimenez-diaz-125231651.html",
-        "date": "2025-12-29 16:34:20",
-        "sentiment_score": 0.27991223335266113
-    },
-    {
-        "title": "El Gobierno español confirma otros dos positivos por peste porcina y un foco de gripe aviar en Catalunya",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/b484b216-76ef-4239-b6ab-2520e783dcc9_16-9-aspect-ratio_default_0_x920y614.jpg",
-        "tags": [
-            "positivos",
-            "catalunya",
-            "porcina",
-            "peste",
-            "confirma",
-            "espanol",
-            "gobierno"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/sociedad/2025/12/29/gobierno-espanol-confirma-positivos-peste-porcina-catalunya-10522594.html",
-        "date": "2025-12-29 17:15:40",
-        "sentiment_score": -0.6631727404892445
-    },
-    {
-        "title": "Laporta, investigado por una presunta estafa en 2016",
-        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2025/12/29/laporta-investigado-presunta-estafa-kHJ-U240696040834gLE-1200x840@RC.jpg",
-        "tags": [
-            "2016",
-            "laporta",
-            "estafa",
-            "presunta",
-            "investigado"
-        ],
-        "link": "https://www.hoy.es/deportes/futbol/laporta-investigado-presunta-estafa-2016-20251229181530-ntrc.html",
-        "date": "2025-12-29 17:15:34",
-        "sentiment_score": -0.7734087947756052
-    },
-    {
-        "title": "El temporal dispara hasta el 82% las reservas de agua de las cuencas internas de Cataluña",
-        "image_url": "https://imagenes.elpais.com/resizer/v2/4DV2S22VWFAGNEURLVIPNZSNAA.jpg?auth=54110df37844cbee55650c0b8fd76bc46c62218cecdedfcdb05dd47c977ae681&width=1200",
-        "tags": [
-            "embalses",
-            "salvador illa",
-            "sequía",
-            "govern cataluña",
-            "regadío",
-            "embalses riego",
-            "barcelona",
-            "cataluña",
-            "lluvias torrenciales",
-            "generalitat cataluña",
-            "confederaciones hidrográficas",
-            "temporales"
-        ],
-        "link": "https://elpais.com/espana/catalunya/2025-12-29/el-temporal-dispara-hasta-el-82-las-reservas-de-agua-de-las-cuencas-internas-de-cataluna.html",
-        "date": "2025-12-29 17:15:27",
-        "sentiment_score": 0.17204837501049042
-    },
-    {
-        "title": "El Roscón de Reyes se une a Fundación Villavecchia contra el cáncer infantil",
-        "image_url": "https://theobjective.com/wp-content/uploads/2024/12/roscon-ocu.jpg",
-        "tags": [
-            "actualidad",
-            "servimedia"
-        ],
-        "link": "https://theobjective.com/actualidad/2025-12-29/roscon-reyes-fundacion-villavecchia-cancer-infantil/",
-        "date": "2025-12-29 17:13:20",
-        "sentiment_score": 0.6547324825078249
-    },
-    {
-        "title": "Pimec pide a la CE medidas \"más ambiciosas\" más allá del Plan Europeo de Vivienda Asequible",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251229181227_690.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-pimec-pide-ce-medidas-mas-ambiciosas-mas-alla-plan-europeo-vivienda-asequible-20251229181227.html",
-        "date": "2025-12-29 17:12:27",
-        "sentiment_score": 0.6487325578927994
-    },
-    {
         "title": "El Betis se aferra a Isco: esto es lo que durará la recuperación que podría marcar la temporada",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/14/2025031414544965158.jpg",
         "tags": [
@@ -3127,5 +2933,242 @@ export default [
         "link": "https://gaceta.es/espana/una-islamista-radical-marroqui-afincada-en-espana-planea-fundar-un-banco-islamico-20260102-0010/",
         "date": "2026-01-01 23:10:00",
         "sentiment_score": 0.37961383163928986
+    },
+    {
+        "title": "El presidente burgalés del Real Madrid fusilado y olvidado por el club",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2025/12/28/6950f14a7675e.jpeg",
+        "tags": [
+            "burgos"
+        ],
+        "link": "https://www.diariodecastillayleon.es/burgos/260102/103471/presidente-burgales-real-madrid-fusilado-olvidado-club.html",
+        "date": "2026-01-02 06:30:00",
+        "sentiment_score": -0.4299115240573883
+    },
+    {
+        "title": "¿Qué sabemos de la macrofiesta 'rave' ilegal del embalse de Cenajo, en Albacete? Todas las claves",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/43e02c19-6056-421d-aeff-b08876039ddd_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "albacete"
+        ],
+        "link": "https://www.elperiodico.com/es/sociedad/20260102/macrofiesta-rave-ilegal-embalse-cenajo-albacete-claves-dv-125305615",
+        "date": "2026-01-02 06:17:01",
+        "sentiment_score": -0.35024795308709145
+    },
+    {
+        "title": "El ‘blockecore’, la estética futbolera que conecta con la generación Z",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/01e7e63c-c884-4b0e-a177-ef82265b68a1_16-9-aspect-ratio_default_0_x273y118.jpg",
+        "tags": [
+            "estilo",
+            "estética",
+            "moda",
+            "fútbol"
+        ],
+        "link": "https://www.laopiniondemalaga.es/opinion/2026/01/02/blockecore-estetica-futbolera-conecta-generacion-125299638.html",
+        "date": "2026-01-02 06:00:33",
+        "sentiment_score": -0.3529238998889923
+    },
+    {
+        "title": "Cuidado con las armas que afilamos",
+        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/8a53619a/Justicia%20para%20Samuel%20Sevilla%200010.jpg?v=63792748330",
+        "tags": [
+            "actualidad",
+            "justicia",
+            "odio"
+        ],
+        "link": "https://www.elsaltodiario.com/lgtbiq/cuidado-armas-afilamos-delito-odio",
+        "date": "2026-01-02 06:00:00",
+        "sentiment_score": -0.8727950789034367
+    },
+    {
+        "title": "Cabalgata de los Reyes Magos de Ciudad Lineal: horario, fecha, recorrido y cortes de tráfico",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/05/cabalgata-de-madrid.jpeg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.20minutos.es/madrid/cabalgata-los-reyes-magos-ciudad-lineal-horario-fecha-recorrido-cortes-trafico_6916366_0.html",
+        "date": "2026-01-02 06:00:00",
+        "sentiment_score": 0.8537774756550789
+    },
+    {
+        "title": "El Almería celebra la vuelta de Rachad",
+        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/01/695657988f028.jpeg",
+        "tags": [
+            "ud almería"
+        ],
+        "link": "https://www.lavozdealmeria.com/ud-almeria/425182/almeria-celebra-vuelta-rachad.html",
+        "date": "2026-01-02 05:44:41",
+        "sentiment_score": 0.4227309934794903
+    },
+    {
+        "title": "Urbanistas lanzan un crowdfunding para defender la Residencia de Tiempo Libre de Marbella",
+        "image_url": "https://static.grupojoly.com/clip/b038fe88-da94-4273-a4e5-b01e6fccd8fb_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga",
+            "ayuntamiento de marbella"
+        ],
+        "link": "https://www.malagahoy.es/marbella/urbanistas-lanzan-crowdfunding-defender-residencia_0_2005533197.html",
+        "date": "2026-01-02 05:10:09",
+        "sentiment_score": -0.6304784119129181
+    },
+    {
+        "title": "El Concello de A Illa plantea adquirir la casa del narco Marcial Dorado",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/16f9e245-aed6-497e-afba-1f7d90fc3b95_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "drogas",
+            "plan nacional sobre drogas",
+            "encuentro",
+            "marcial dorado",
+            "concello"
+        ],
+        "link": "https://www.farodevigo.es/arousa/2026/01/02/concello-illa-plantea-adquirir-casa-125300143.html",
+        "date": "2026-01-02 05:06:19",
+        "sentiment_score": -0.21908491849899292
+    },
+    {
+        "title": "Jornada 18 de La Liga: resultados y resúmenes de los partidos",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/A466A4WS4BJHHJESYY7OURSYBE.jpg?auth=5c4b351724853090483c41f41b22f65e7659188dc6e2fa8dd66f9cb3c00046a1&width=1200",
+        "tags": [
+            "deportivo alavés",
+            "osasuna",
+            "real betis",
+            "getafe cf",
+            "girona fc",
+            "rayo vallecano",
+            "celta de vigo",
+            "atlético de madrid",
+            "sevilla fútbol club",
+            "rcd espanyol",
+            "futbolistas",
+            "fútbol",
+            "valencia cf",
+            "competiciones",
+            "levante ud",
+            "real oviedo",
+            "entrenadores",
+            "deportes",
+            "rcd mallorca",
+            "real madrid",
+            "laliga ea sports",
+            "elche cf",
+            "fc barcelona",
+            "real sociedad",
+            "villarreal cf",
+            "athletic"
+        ],
+        "link": "https://elpais.com/deportes/futbol/2026-01-02/jornada-18-de-la-liga-resultados-y-resumenes-de-los-partidos.html",
+        "date": "2026-01-02 05:01:28",
+        "sentiment_score": 0.0297011137008667
+    },
+    {
+        "title": "‘La Emoción’ homenajea a Salzillo con un concierto navideño en la Iglesia de Jesús",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/3819badc-7f16-44eb-a8eb-dc56b324cd89_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "música",
+            "concierto",
+            "iglesia",
+            "jesús"
+        ],
+        "link": "https://www.laopiniondemurcia.es/cultura/2026/01/02/emocion-homenajea-salzillo-concierto-navideno-125301587.html",
+        "date": "2026-01-02 05:01:13",
+        "sentiment_score": 0.10398818552494049
+    },
+    {
+        "title": "Málaga alcanza un nuevo máximo histórico de empresas y roza las 60.000",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8382d3b5-57a5-46af-ab78-fa354c2cb995_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sector servicios",
+            "verano",
+            "seguridad social",
+            "empresas"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/02/malaga-nuevo-maximo-historico-empresas-2025-125290268.html",
+        "date": "2026-01-02 06:30:54",
+        "sentiment_score": 0.38588090240955353
+    },
+    {
+        "title": "Precio de la gasolina en España 2026: las tarifas más altas y más bajas hoy",
+        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
+        "tags": [
+            "españa-economia",
+            "noticias",
+            "gasolina",
+            "precio gasolina"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/02/precio-de-la-gasolina-en-espana-2026-las-tarifas-mas-altas-y-mas-bajas-hoy/",
+        "date": "2026-01-02 06:30:37",
+        "sentiment_score": 0.0135636106133461
+    },
+    {
+        "title": "El Ayuntamiento de Almería despide con 22.000 euros a la constructora que inició la Casa Club",
+        "image_url": "https://static.grupojoly.com/clip/bef606f0-08a0-40f5-98b7-7f6413840bcf_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "noticias almería"
+        ],
+        "link": "https://www.diariodealmeria.es/almeria/ayuntamiento-almeria-despide-22-000_0_2005529129.html",
+        "date": "2026-01-02 06:30:15",
+        "sentiment_score": -0.6003722846508026
+    },
+    {
+        "title": "Esta es la agenda musical de Barcelona para 2026: qué es lo que no hay que perderse",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/10/20/716BF998-C2E3-4042-845C-FBC6087B3B64/69.jpg?crop=1920%2C1080%2Cx0%2Cy179&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "home la razón",
+            "cataluña"
+        ],
+        "link": "https://www.larazon.es/cataluna/esta-agenda-musical-barcelona-2026-que-que-hay-que-perderse_20260102695765f522f0db7daf0301d2.html",
+        "date": "2026-01-02 06:30:13",
+        "sentiment_score": 0.7883716374635696
+    },
+    {
+        "title": "Las nubes dominan la mañana en Cataluña y dan una tregua parcial por la tarde",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/09/14/vida/885921405_13444135_1706x960.jpg",
+        "tags": [
+            "tiempo",
+            "cataluña",
+            "vida"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/vida/20260102/nubes-dominan-manana-cataluna-tregua-parcial-tarde/1003742720376_0.html",
+        "date": "2026-01-02 06:27:16",
+        "sentiment_score": 0.6011863872408867
+    },
+    {
+        "title": "Precio del transporte en 2026: podría subir el avión, el abono se mantiene y llega el billete único, sin una alta velocidad que se encarece",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/15/68efca78f2920.png",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.20minutos.es/nacional/precio-transporte-2026-podria-subir-avion-abono-se-mantiene-llega-billete-unico-sin-una-alta-velocidad-que-se-encarece_6916542_0.html",
+        "date": "2026-01-02 06:14:09",
+        "sentiment_score": -0.3426488898694515
+    },
+    {
+        "title": "Lo que debes saber hoy, 2 de enero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/03/vivir-en-barcelona/1003742712950_15474166_1706x960.jpg",
+        "tags": [
+            "metro barcelona",
+            "movilidad",
+            "tráfico",
+            "vivir en barcelona",
+            "transports metropolitans barcelona tmb",
+            "transporte",
+            "tiempo"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260102/debes-saber-hoy-enero-barcelona/1003742720375_0.html",
+        "date": "2026-01-02 06:10:38",
+        "sentiment_score": -0.29532890021800995
+    },
+    {
+        "title": "Juan Carlos Arias: \"El robo de la copia del 'greco' de Paradas es una chapuza\"",
+        "image_url": "https://static.grupojoly.com/clip/379b3ff9-c958-46ff-b9c7-4e7b7714a577_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "carlos",
+            "juan",
+            "copia",
+            "arias",
+            "robo"
+        ],
+        "link": "https://www.europasur.es/entrevistas/juan-carlos-arias-robo-copia_0_2005535126.html",
+        "date": "2026-01-02 06:01:26",
+        "sentiment_score": -0.756523635238409
     }
 ];
