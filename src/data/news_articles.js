@@ -2867,5 +2867,265 @@ export default [
         "link": "https://www.ultimahora.es/deportes/otros-deportes/2026/01/01/2541739/magaluf-cierra-ano-alto-nivel.html",
         "date": "2026-01-01 20:38:00",
         "sentiment_score": 0.5260705426335335
+    },
+    {
+        "title": "Venezuela y Dominicana, los agujeros negros de Sánchez: del auxilio a Maduro a los vuelos del Falcon a Santo Domingo",
+        "image_url": "https://s3.elespanol.com/2026/01/01/actualidad/1003744075925_260740019_1706x960.jpg",
+        "tags": [
+            "venezuela",
+            "caso koldo",
+            "psoe (partido socialista obrero español)",
+            "política",
+            "república dominicana",
+            "pedro sánchez",
+            "nicolás maduro"
+        ],
+        "link": "https://www.elespanol.com/espana/politica/20260102/venezuela-dominicana-agujeros-negros-sanchez-auxilio-maduro-vuelos-falcon-santo-domingo/1003744070639_0.html",
+        "date": "2026-01-02 01:32:06",
+        "sentiment_score": -0.7954623699188232
+    },
+    {
+        "title": "La 'rave' sin ley de Albacete amenaza con superar todos los récords de la 'Big Fucking Party'",
+        "image_url": "https://s3.elespanol.com/2026/01/01/actualidad/1003744075909_260739857_1706x960.jpg",
+        "tags": [
+            "albacete",
+            "albacete (provincia)",
+            "castilla-la mancha"
+        ],
+        "link": "https://www.elespanol.com/eldigitalcastillalamancha/region/albacete/20260102/rave-sin-ley-albacete-amenaza-superar-records-big-fucking-party/1003744075907_0.html",
+        "date": "2026-01-02 01:02:21",
+        "sentiment_score": -0.8813381064683199
+    },
+    {
+        "title": "Masorange dispara las operaciones corporativas hasta 65.000 millones",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/707cf536737b02a5b9862c048116deca/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/01/17673036929279.jpg",
+        "tags": [
+            "empresas>"
+        ],
+        "link": "https://www.expansion.com/empresas/tecnologia/2026/01/02/6956e43f468aebd6188b4582.html",
+        "date": "2026-01-02 00:56:05",
+        "sentiment_score": -0.16283921897411346
+    },
+    {
+        "title": "Esta sería la millonada que ganaría James Rodríguez en su nuevo club: estaría entre los mejor pagados en la liga de Estados Unidos",
+        "image_url": "https://www.infobae.com/resizer/v2/NYN5YE4FNBESRB3IPNTGOQ5QNE.JPG?auth=ebe2787b3def0be324594f33a9b5e405cfcc57a5a884467af4ed3b7e252ca808&height=1063&smart=true&width=1889",
+        "tags": [
+            "mercado de pases",
+            "mercado de fichajes",
+            "james mls",
+            "león de méxico",
+            "colombia-deportes",
+            "james rodríguez",
+            "mls",
+            "fútbol colombiano",
+            "copa del mundo 2026",
+            "selección colombia"
+        ],
+        "link": "https://www.infobae.com/colombia/2026/01/02/esta-seria-la-millonada-que-ganaria-james-rodriguez-en-su-nuevo-club-estaria-entre-los-mejor-pagados-en-la-liga-de-estados-unidos/",
+        "date": "2026-01-02 00:51:04",
+        "sentiment_score": -0.5284225605428219
+    },
+    {
+        "title": "Los 16 distritos de Madrid que celebran su propia cabalgata de Reyes: una cuenta con 50 años de vida y 1.500 participantes",
+        "image_url": "https://s3.elespanol.com/2026/01/01/madrid/1003744075807_260738472_1706x960.jpg",
+        "tags": [
+            "madrid",
+            "cabalgata de reyes",
+            "ocio",
+            "navidad"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260102/distritos-madrid-celebran-propia-cabalgata-reyes-cuenta-anos-vida-participantes/1003744075740_0.html",
+        "date": "2026-01-02 00:49:04",
+        "sentiment_score": 0.06619606912136078
+    },
+    {
+        "title": "El deseo en el Siglo de Oro, según De Villena: así amaron Garcilaso, Teresa de Jesús, Lope, Quevedo y Góngora",
+        "image_url": "https://s3.elespanol.com/2026/01/01/actualidad/1003744075694_260737049_1706x960.jpg",
+        "tags": [
+            "ec-critica-letras",
+            "letras",
+            "libros",
+            "historia",
+            "literatura",
+            "luis antonio de villena"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20260102/deseo-siglo-oro-villena-amaron-garcilaso-teresa-jesus-lope-quevedo-gongora/1003744075668_0.html",
+        "date": "2026-01-02 00:34:52",
+        "sentiment_score": 0.3203118294477463
+    },
+    {
+        "title": "Marilyn Monroe, un mito omnipresente: la mujer más deseada e incomprendida de Hollywood cumple un siglo",
+        "image_url": "https://s3.elespanol.com/2025/12/19/actualidad/1003744063768_260587251_1706x960.jpg",
+        "tags": [
+            "cine",
+            "exposiciones",
+            "marilyn monroe"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/cine/20260102/marilyn-monroe-mito-omnipresente-mujer-deseada-incomprendida-hollywood-cumple-siglo/1003744063760_0.html",
+        "date": "2026-01-02 00:33:36",
+        "sentiment_score": -0.3744308054447174
+    },
+    {
+        "title": "Una rave en Albacete reúne a unos mil coches, caravanas y furgonetas",
+        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2026/01/02/una-fiesta-rave-reune-a-mas-de-mil-vehiculos-en-el-pantano-del-cenajo-en-albacete.jpeg",
+        "tags": [
+            "nacional"
+        ],
+        "link": "https://www.heraldo.es/noticias/nacional/2026/01/02/300-guardias-civiles-vigilan-rave-albacete-transcurre-sin-incidentesmacrofiesta-rave-1882623.html",
+        "date": "2026-01-02 00:00:59",
+        "sentiment_score": 0.14509982615709305
+    },
+    {
+        "title": "¿Éxito o fracaso?",
+        "image_url": "https://s3.ppllstatics.com/hoy/www/multimedia/2026/01/01/FOTO%20PP%20EXT%20-%20GUARDIOLA%20-%20NAVALM--758x531.jpg",
+        "tags": [
+            "exito",
+            "fracaso"
+        ],
+        "link": "https://www.hoy.es/opinion/j-m-rodriguez-figueredo-exito-fracaso-20260102080537-nt.html",
+        "date": "2026-01-02 00:00:00",
+        "sentiment_score": -0.7876161634922028
+    },
+    {
+        "title": "EL ESPAÑOL lanza su nuevo Curso de Comunicación con IA y Creación de Contenidos: 50 horas, online y muy asequible",
+        "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744074380_260719246_1706x960.jpg",
+        "tags": [
+            "inteligencia artificial",
+            "curso online periodismo multiplataforma",
+            "periódico el español",
+            "ucjc: universidad camilo josé cela",
+            "educación"
+        ],
+        "link": "https://www.elespanol.com/sociedad/educacion/20260102/espanol-lanza-nuevo-curso-comunicacion-ia-creacion-contenidos-horas-online-asequible/1003744073695_0.html",
+        "date": "2026-01-01 23:59:42",
+        "sentiment_score": 0.499185873195529
+    },
+    {
+        "title": "Tras asegurarse la continuidad de Neymar, el Santos va por otra estrella con pasado de selección",
+        "image_url": "https://www.infobae.com/resizer/v2/PFF3PO3MIVFLXLXJE2FKLMW7PM.jpg?auth=5522af4fa1c9f5c8edd11676eed58c8aa0eff55d408f6d02731903a64a974b6b&height=1765&smart=true&width=2647",
+        "tags": [
+            "deportes-argentina",
+            "cruzeiro",
+            "gabigol",
+            "santos",
+            "neymar"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/02/tras-asegurarse-la-continuidad-de-neymar-el-santos-va-por-otra-estrella-con-pasado-de-seleccion/",
+        "date": "2026-01-02 01:11:11",
+        "sentiment_score": 0.046088844537734985
+    },
+    {
+        "title": "El exmilitar Paco vivió 3 años en la calle por culpa de la heroína y, tras desintoxicarse, busca a su hermana: \"Es mi deseo de 2026\"",
+        "image_url": "https://s3.elespanol.com/2026/01/01/actualidad/1003744075714_260737297_1706x960.jpg",
+        "tags": [
+            "heroína",
+            "familia",
+            "cáritas",
+            "vih sida",
+            "ine instituto nacional de estadistica",
+            "madrid",
+            "cocaína",
+            "reportajes",
+            "ejército de tierra",
+            "farmacias"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260102/exmilitar-paco-vivio-anos-calle-culpa-heroina-desintoxicarse-busca-hermana-deseo/1003744074987_0.html",
+        "date": "2026-01-02 00:18:27",
+        "sentiment_score": -0.22813573479652405
+    },
+    {
+        "title": "La francesa Sonepar adquiere la compañía catalana Grup Carol",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/a3fdf28be056ec3e749c437bc909b45b/crop/60x115/1140x835/f/webp/assets/multimedia/imagenes/2026/01/01/17672876952648.jpg",
+        "tags": [
+            "industria>",
+            "cataluña>",
+            "fusiones y adquisiciones>"
+        ],
+        "link": "https://www.expansion.com/catalunya/2026/01/02/6956ac08468aeb8f3b8b4570.html",
+        "date": "2026-01-02 00:14:51",
+        "sentiment_score": 0.6991260051727295
+    },
+    {
+        "title": "Una montanera soñada por los productores de ibérico",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/01/02/209974367.jpg",
+        "tags": [
+            "extremadura"
+        ],
+        "link": "https://www.hoy.es/agro/ganaderia/montanera-sonada-productores-iberico-20260102080134-nt.html",
+        "date": "2026-01-02 00:00:00",
+        "sentiment_score": 0.7943564262241125
+    },
+    {
+        "title": "El gran año de Amaia Romero: 200.000 euros en ingresos anuales y un suculento contrato publicitario como 'it girl'",
+        "image_url": "https://s3.elespanol.com/2025/12/31/actualidad/1003744074866_260724973_1706x960.jpg",
+        "tags": [
+            "famosos",
+            "operación triunfo",
+            "amaia romero",
+            "patrimonio personal"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20260102/gran-ano-amaia-romero-euros-ingresos-anuales-suculento-contrato-publicitario-it-girl/1003744074820_0.html",
+        "date": "2026-01-01 23:48:05",
+        "sentiment_score": 0.4967478960752487
+    },
+    {
+        "title": "Lionel Messi comenzó el 2026 jugando al fútbol: el video que publicó Antonela Roccuzzo",
+        "image_url": "https://www.infobae.com/resizer/v2/P4NNFDWEBVEINLOK5WPMFUFV2E.png?auth=fd84af5ce29ed9bf3b6d0e6be62aa76e87fbdbc5de4fb60a1a2e7f9d504ebd72&height=1080&smart=true&width=1920",
+        "tags": [
+            "antonela roccuzzo",
+            "lionel messi"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/01/lionel-messi-comenzo-el-2026-jugando-al-futbol-el-video-que-publico-antonela-roccuzzo/",
+        "date": "2026-01-01 23:39:20",
+        "sentiment_score": 0.688368670642376
+    },
+    {
+        "title": "Interpath, la banca de inversión nacida como una escisión de KPMG",
+        "image_url": "https://phantom-expansion.uecdn.es/b7c47b9a9fbc74c6ff1ac4cdeed71192/crop/210x39/1732x1053/resize/1522/assets/multimedia/imagenes/2025/12/23/17664908770907.jpg",
+        "tags": [
+            "artículos manuel de la cruz>",
+            "equipos financieros>",
+            "mercados>"
+        ],
+        "link": "https://www.expansion.com/mercados/fondos/2026/01/02/694a85a9468aeb01078b458c.html",
+        "date": "2026-01-01 23:28:27",
+        "sentiment_score": 0.23769224807620049
+    },
+    {
+        "title": "Calidez todo el año: hogares con alma y para celebrar la vida en Barcelona",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/460a6f046fa98cf78e6decee49a95ca1/f/webp/assets/multimedia/imagenes/2025/12/30/17671226517826.png",
+        "tags": [
+            "mercado inmobiliario>",
+            "cataluña>",
+            "inmobiliario>",
+            "casas>",
+            "estilo de vida>"
+        ],
+        "link": "https://www.expansion.com/directivos/estilo-vida/casas/2026/01/02/695429f0e5fdea9e768b4591.html",
+        "date": "2026-01-01 23:28:17",
+        "sentiment_score": 0.05199827253818512
+    },
+    {
+        "title": "El fondo público de pensiones no sale de su parálisis",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/2a2a532d38f23cc1261a6cc738f794b1/crop/167x30/1900x1185/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/02/17673092960885.jpg",
+        "tags": [
+            "pensiones>"
+        ],
+        "link": "https://www.expansion.com/ahorro/pensiones/2026/01/02/6956fedc468aeba22f8b458a.html",
+        "date": "2026-01-01 23:16:04",
+        "sentiment_score": -0.5159284099936485
+    },
+    {
+        "title": "Una islamista radical marroquí afincada en España planea fundar un «banco islámico»",
+        "image_url": "https://gaceta.es/wp-content/uploads/2025/10/98-24-1-1.jpg",
+        "tags": [
+            "inmigración",
+            "islamismo",
+            "españa",
+            "yihadismo"
+        ],
+        "link": "https://gaceta.es/espana/una-islamista-radical-marroqui-afincada-en-espana-planea-fundar-un-banco-islamico-20260102-0010/",
+        "date": "2026-01-01 23:10:00",
+        "sentiment_score": 0.37961383163928986
     }
 ];
