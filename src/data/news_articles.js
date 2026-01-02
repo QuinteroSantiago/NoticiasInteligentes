@@ -1,186 +1,5 @@
 export default [
     {
-        "title": "La Academia General Militar (2a ÉPOCA)",
-        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/12/ACADEMIA-750x421.webp",
-        "tags": [
-            "opinión",
-            "colaboraciones"
-        ],
-        "link": "https://elfarodeceuta.es/academia-general-militar-segunda-epoca/",
-        "date": "2025-12-29 06:27:42",
-        "sentiment_score": 0.3900216966867447
-    },
-    {
-        "title": "2025, annus horribilis del Real Madrid: 376 días sin ganar un título",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/374df347-6940-4682-97b5-76479bd5bb91_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "real madrid",
-            "xabi alonso",
-            "florentino pérez",
-            "carlo ancelotti"
-        ],
-        "link": "https://www.levante-emv.com/deportes/2025/12/29/programada-2025-annus-horribilis-real-125213127.html",
-        "date": "2025-12-29 06:26:47",
-        "sentiment_score": -0.2029106169939041
-    },
-    {
-        "title": "Lo que debes saber hoy, 29 de diciembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/09/18/vivir-en-barcelona/886921350_13458760_1706x960.jpg",
-        "tags": [
-            "tiempo",
-            "movilidad",
-            "aemet (agencia estatal de meteorología)",
-            "vivir en barcelona",
-            "metro barcelona",
-            "transports metropolitans barcelona tmb",
-            "clima",
-            "tráfico"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251229/debes-saber-hoy-diciembre-barcelona/1003742719547_0.html",
-        "date": "2025-12-29 06:30:00",
-        "sentiment_score": -0.8739133086055517
-    },
-    {
-        "title": "Segovia, cuna de uno de los primeros velódromos de España",
-        "image_url": "https://eladelantado.com/wp-content/uploads/2025/12/01w.jpg",
-        "tags": [
-            "ciclismo",
-            "deportes"
-        ],
-        "link": "https://eladelantado.com/segovia-cuna-de-uno-de-los-primeros-velodromos-de-espana/",
-        "date": "2025-12-29 06:22:26",
-        "sentiment_score": 0.06561130285263062
-    },
-    {
-        "title": "El nuevo impuesto europeo al carbono puede transformar el comercio global y nuestros hábitos de consumo",
-        "image_url": "https://images.theconversation.com/files/706711/original/file-20251205-56-d6xjms.jpg?auto=format&fit=clip&ixlib=rb-4.1.0&q=45&w=754",
-        "tags": [
-            "cambio climático",
-            "impuestos",
-            "empresas",
-            "emisiones de co₂",
-            "emisiones",
-            "impuestos ambientales",
-            "unión europea"
-        ],
-        "link": "https://theconversation.com/el-nuevo-impuesto-europeo-al-carbono-puede-transformar-el-comercio-global-y-nuestros-habitos-de-consumo-272408",
-        "date": "2025-12-29 06:22:17",
-        "sentiment_score": 0.1525874212384224
-    },
-    {
-        "title": "La herencia Negreira: los testimonios de Laporta, Rosell y Bartomeu frente a frente",
-        "image_url": "https://www.elplural.com/uploads/s1/21/31/20/0/diseno-sin-titulo-3_7_480x270.jpeg",
-        "tags": [
-            "el regate"
-        ],
-        "link": "https://www.elplural.com/el-regate/unidad-discurso-matices-fondo-rosell-senala-laporta-caso-negreira_368470102",
-        "date": "2025-12-29 06:20:23",
-        "sentiment_score": -0.14146310091018677
-    },
-    {
-        "title": "El Bobo de Coria que no tenía un pelo de tonto",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0cbe0222-271b-47c1-ba7c-26087c9cebac_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "provincia de cáceres",
-            "historia",
-            "publicación"
-        ],
-        "link": "https://www.elperiodicoextremadura.com/caceres/2025/12/29/bobo-coria-historia-bufon-corte-velazquez-125209448.html",
-        "date": "2025-12-29 06:01:22",
-        "sentiment_score": -0.15779103338718414
-    },
-    {
-        "title": "“Los Sirex somos más que temas populares como ‘La Escoba’ y ‘Que se mueran los feos”",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1385b91a-96e3-4c2e-a150-0febc5c16e3e_16-9-aspect-ratio_default_0_x800y448.jpg",
-        "tags": [
-            "temas",
-            "vitoria",
-            "escoba",
-            "concierto",
-            "mueran",
-            "gasteiz",
-            "helldorado",
-            "feos",
-            "alava",
-            "araba",
-            "sirex",
-            "musica",
-            "populares"
-        ],
-        "link": "https://www.noticiasdealava.eus/cultura/2025/12/29/sirex-temas-populares-escoba-mueran-feos-musica-concierto-helldorado-vitoria-gasteiz-alava-araba-10509754.html",
-        "date": "2025-12-29 06:00:46",
-        "sentiment_score": -0.014065295457839966
-    },
-    {
-        "title": "Las grandes empresas vuelven a volcarse en la recompra de acciones",
-        "image_url": "https://static1.ara.cat/clip/b6c2bbbd-2f7b-4598-b769-7c19412e54f4_16-9-aspect-ratio_default_0_x1109y480.jpg",
-        "tags": [
-            "volcarse",
-            "vuelven",
-            "recompra",
-            "empresas",
-            "grandes",
-            "acciones"
-        ],
-        "link": "https://es.ara.cat/economia/mercados/grandes-empresas-vuelven-volcarse-recompra-acciones_1_5604486.html",
-        "date": "2025-12-29 06:00:42",
-        "sentiment_score": -0.026727959513664246
-    },
-    {
-        "title": "Guía para entender el mundo en 2026: los 10 temas que marcarán la agenda",
-        "image_url": "https://static1.ara.cat/clip/e84327c4-0b37-457b-8295-69bedc794c2c_16-9-aspect-ratio_default_1055263.jpg",
-        "tags": [
-            "temas",
-            "marcaran",
-            "10",
-            "agenda",
-            "entender",
-            "2026",
-            "guia",
-            "mundo"
-        ],
-        "link": "https://es.ara.cat/internacional/guia-entender-mundo-2026-10-temas-marcaran-agenda_1_5604484.html",
-        "date": "2025-12-29 06:00:41",
-        "sentiment_score": -0.006453752517700195
-    },
-    {
-        "title": "Vilaplana no acompañó a Mazón a la Generalitat: el ES-Alert le sonó en casa",
-        "image_url": "https://static1.ara.cat/clip/4c86d175-f045-412f-b9be-c020c0cefaf3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sono",
-            "alert",
-            "no",
-            "casa",
-            "vilaplana",
-            "acompano",
-            "le",
-            "generalitat",
-            "mazon"
-        ],
-        "link": "https://es.ara.cat/politica/vilaplana-no-acompano-mazon-generalitat-alert-le-sono-casa_1_5604481.html",
-        "date": "2025-12-29 06:00:38",
-        "sentiment_score": -0.6497454047203064
-    },
-    {
-        "title": "\"¿Por qué no puedo elaborar un espumoso que entre en la DO Cava en Esparreguera y, en cambio, sí que pueden hacerlo en La Rioja o Extremadura?\"",
-        "image_url": "https://static1.ara.cat/clip/c11aebb0-9de7-4d02-a996-2453d1ff106e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "esparreguera",
-            "hacerlo",
-            "elaborar",
-            "no",
-            "extremadura",
-            "cava",
-            "do",
-            "rioja",
-            "espumoso",
-            "cambio"
-        ],
-        "link": "https://es.ara.cat/comer/no-elaborar-espumoso-do-cava-esparreguera-cambio-hacerlo-rioja-extremadura_128_5604480.html",
-        "date": "2025-12-29 06:00:36",
-        "sentiment_score": -0.11105288565158844
-    },
-    {
         "title": "Cristiano Ronaldo quiere alcanzar 1.000 goles antes de terminar su carrera, lleva 956",
         "image_url": "https://dims.apnews.com/dims4/default/6683013/2147483647/strip/true/crop/2634x1753+0+1/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F06%2F1b%2Fa9e39a2b5707132c915f8a4b1fb2%2Fdd603f17acbe48f2abf327cfe740b5b0",
         "tags": [
@@ -2795,5 +2614,258 @@ export default [
         "link": "https://lapatilla.com/2026/01/01/criptomonedas-y-un-influencer-acusado-de-violacion-barcelona-rompe-relaciones-con-su-patrocinador-mas-polemico/",
         "date": "2026-01-01 16:09:51",
         "sentiment_score": 0.018910646438598633
+    },
+    {
+        "title": "Destinos internacionales activos vía aérea desde Venezuela en 2026",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "asia",
+            "vuelos",
+            "latinoamérica",
+            "paises",
+            "euopa"
+        ],
+        "link": "https://2001online.com/nacionales/destinos-internacionales-activos-via-aerea-desde-venezuela-en-2026-2026111800",
+        "date": "2026-01-01 22:00:00",
+        "sentiment_score": 0.5749323647469282
+    },
+    {
+        "title": "Sergio Ramos lidera a un grupo de inversores para comprar el Sevilla",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/CPZWPL6NOFGZ3A7H5N24VP5Z7M.jpg?auth=09415ee5f28617bcfa065bdabae02e2693ae0048ea0bc59d80c6c895338a7d98&width=1200",
+        "tags": [
+            "josé maría del nido",
+            "ventas",
+            "josé maría del nido carrasco",
+            "sevilla fútbol club",
+            "laliga ea sports",
+            "fútbol",
+            "competiciones",
+            "monchi",
+            "entrenadores",
+            "sergio ramos",
+            "deportes",
+            "futbolistas",
+            "monterrey"
+        ],
+        "link": "https://elpais.com/deportes/futbol/2026-01-01/sergio-ramos-lidera-a-un-grupo-de-inversores-para-comprar-el-sevilla.html",
+        "date": "2026-01-01 21:54:35",
+        "sentiment_score": 0.6836027204990387
+    },
+    {
+        "title": "Real Madrid cierra 2025 como líder del ranking UEFA",
+        "image_url": "https://soynuevaprensadigital.com/wp-content/uploads/2025/07/REAL-MADRID-VUELOS-scaled.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://soynuevaprensadigital.com/npd/real-madrid-cierra-2025-como-lider-del-ranking-uefa/",
+        "date": "2026-01-01 21:41:17",
+        "sentiment_score": 0.45836666226387024
+    },
+    {
+        "title": "Raúl Cuenca: “Yo calificaría a mi equipo con una nota muy alta, un 9”",
+        "image_url": "https://melillahoy.es/wp-content/uploads/2026/01/raul-cuenca-entrenador-deportes.jpg",
+        "tags": [
+            "futbol sala",
+            "división de honor de juveniles",
+            "mcd peña real madrid",
+            "polideportivo",
+            "deportes"
+        ],
+        "link": "https://melillahoy.es/raul-cuenca-yo-calificaria-a-mi-equipo-con-una-nota-muy-alta-un-9/",
+        "date": "2026-01-01 21:37:43",
+        "sentiment_score": 0.4740634262561798
+    },
+    {
+        "title": "Los juguetes que hicieron 'iguales' a infantes reales y niños humildes: del birlocho y el praxinoscopio al scalextric o la famosa Mariquita Pérez",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/29/17670212724748.jpg",
+        "tags": [
+            "madrid",
+            "exposiciones",
+            "cultura"
+        ],
+        "link": "https://www.elmundo.es/madrid/2026/01/01/69529dc2e4d4d8e5058b4573.html",
+        "date": "2026-01-01 21:10:28",
+        "sentiment_score": 0.25250931084156036
+    },
+    {
+        "title": "Casadó se apaga en el Barça: España pierde un talento valioso para el futuro",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/21/2025022105082954572.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/casado-pierde-peso-barca-consecuencia-espana-pierde-activo-valioso/20260101220426369054.html",
+        "date": "2026-01-01 21:04:26",
+        "sentiment_score": -0.8184254579246044
+    },
+    {
+        "title": "El Atlético de Madrid inicia los entrenamientos en 2026 con la mente puesta en la Real Sociedad",
+        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/01/01/image-d70ed635-3e83-49b4-ae1d-aafb88a1aa8e-85-2560-1440.jpeg",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.eurosport.es/futbol/la-liga/2025-2026/el-atletico-de-madrid-inicia-los-entrenamientos-en-2026-con-la-mente-puesta-en-la-real-sociedad_vid60044271/video.shtml",
+        "date": "2026-01-01 20:52:08",
+        "sentiment_score": 0.38728994131088257
+    },
+    {
+        "title": "El Milan disfruta cada gota de magia de Modric mientras el Madrid sigue huérfano de un cerebro",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081803430337791.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/milan-beneficia-cada-gota-talento-luka-modric/20260101214719369052.html",
+        "date": "2026-01-01 20:47:19",
+        "sentiment_score": 0.10282744467258453
+    },
+    {
+        "title": "Un goleador argentino se muda la Premier con el sueño de llegar al Mundial 2026: la impactante cifra por la que fue vendido",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "lazio",
+            "taty castellanos",
+            "serie a",
+            "deportes-argentina",
+            "west ham united",
+            "selección argentina",
+            "premier league"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/01/un-goleador-argentino-se-muda-la-premier-con-el-sueno-de-llegar-al-mundial-2026-la-impactante-cifra-por-la-que-fue-vendido/",
+        "date": "2026-01-01 20:38:37",
+        "sentiment_score": -0.35975807160139084
+    },
+    {
+        "title": "Lola Índigo y Lorca se cuelan en la Nochevieja de los españoles desde el Carlos V",
+        "image_url": "https://static.grupojoly.com/clip/54c8f2b1-1e6d-4008-b516-08bdbbfb7c1d_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "la alhambra"
+        ],
+        "link": "https://www.granadahoy.com/ocio/video-ext-lola-indigo-lorca-cuelan-nochevieja_7_2005534858.html",
+        "date": "2026-01-01 21:48:07",
+        "sentiment_score": -0.013375386595726013
+    },
+    {
+        "title": "Barcelona transformará el antiguo patronato de las mujeres obreras de Sagrada Família en 40 pisos sociales",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/23/eixample/1003742718799_15546895_1706x960.jpg",
+        "tags": [
+            "educación",
+            "historia",
+            "colegios barcelona",
+            "vivienda",
+            "eixample",
+            "ayuntamiento de barcelona",
+            "sagrada família",
+            "colegios",
+            "viviendas",
+            "alquiler vivienda"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/eixample/20260101/barcelona-transformara-antiguo-patronato-mujeres-obreras-sagrada-familia-pisos-sociales/1003742718796_0.html",
+        "date": "2026-01-01 21:40:39",
+        "sentiment_score": 0.02945546805858612
+    },
+    {
+        "title": "La Lotería Nacional deja un primer premio en la provincia de Alicante",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/314c563d-7997-4965-a5e5-2cd76b0337f6_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "provincia de alicante",
+            "lotería nacional",
+            "sorteos",
+            "badajoz"
+        ],
+        "link": "https://www.informacion.es/elda/2026/01/01/loteria-nacional-primer-premio-elda-dv-125302589.html",
+        "date": "2026-01-01 21:38:46",
+        "sentiment_score": 0.7854065522551537
+    },
+    {
+        "title": "TMB renovará más de 30 trenes del metro de Barcelona por 82 millones tras la licitación fallida con Alstom",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/01/05/vivir-en-barcelona/822678753_15556624_1706x960.jpg",
+        "tags": [
+            "economía",
+            "transports metropolitans barcelona tmb",
+            "movilidad",
+            "contratos barcelona",
+            "metro barcelona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/economia/20260101/tmb-renovara-trenes-metro-barcelona-millones-licitacion-fallida-alstom/1003742719651_0.html",
+        "date": "2026-01-01 21:38:42",
+        "sentiment_score": 0.2788810655474663
+    },
+    {
+        "title": "El chef Martín Berasategui: “El sandwich favorito que hago en 15 minutos cuando llego a casa sin ganas de cocinar”",
+        "image_url": "https://okdiario.com/img/2025/10/06/sandwich-de-aguacate-y-anguila.jpg",
+        "tags": [
+            "recetas",
+            "recetas de pan y bollería",
+            "recetas de cocina",
+            "chef"
+        ],
+        "link": "https://okdiario.com/recetas/chef-martin-berasategui-sandwich-favorito-que-hago-15-minutos-cuando-llego-casa-sin-ganas-cocinar-15538425",
+        "date": "2026-01-01 21:35:18",
+        "sentiment_score": 0.2971533238887787
+    },
+    {
+        "title": "El gobierno suspende a la selección de Gabón y sanciona a Aubameyang",
+        "image_url": "https://www.infobae.com/resizer/v2/CHESYA6VAZALDDFU6AEIEP2DL4.jpg?auth=669fead1f6f3586e0595e20c759b5832477f1a7652e285973db98f3366cbece6&height=1280&smart=true&width=1920",
+        "tags": [
+            "olympique de marsella",
+            "gabón",
+            "simplice-desire mamboula",
+            "eliminación",
+            "selección de gabón",
+            "costa de marfil",
+            "thierry mouyouma",
+            "pierre-emerick aubameyang",
+            "marrakech",
+            "copa áfrica",
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/01/el-gobierno-suspende-a-la-seleccion-de-gabon-y-sanciona-a-aubameyang/",
+        "date": "2026-01-01 21:15:34",
+        "sentiment_score": -0.8872208939865232
+    },
+    {
+        "title": "Mago Pop: de la discusión más tensa en el declive de Bartomeu a nuevo aliado de Laporta en el Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/18/culemania/palco/1003742717094_15525106_1706x960.jpg",
+        "tags": [
+            "joan laporta",
+            "palco",
+            "el clásico",
+            "josep maria bartomeu",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260101/mago-pop-discusion-declive-bartomeu-laporta-barca/1003742717086_0.html",
+        "date": "2026-01-01 21:07:55",
+        "sentiment_score": 0.8093172423541546
+    },
+    {
+        "title": "Los cuatro pilares de Xavi Vilajoana para destronar a Joan Laporta: \"No hay rastro de los valores que nos han hecho grandes\"",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/21/culemania/palco/1003742718023_15537260_1706x960.jpg",
+        "tags": [
+            "elecciones barça",
+            "joan laporta",
+            "palco",
+            "xavier vilajoana",
+            "fc barcelona"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260101/pilares-xavi-vilajoana-destronar-joan-laporta-no/1003742717651_0.html",
+        "date": "2026-01-01 21:05:38",
+        "sentiment_score": -0.06416812539100647
+    },
+    {
+        "title": "Magaluf cierra el año con alto nivel",
+        "image_url": "https://www.ultimahora.es/images/og.png",
+        "tags": [
+            "voleibol",
+            "ciclismo",
+            "tenis",
+            "vela",
+            "golf",
+            "deporte balear",
+            "otros deportes",
+            "san silvestre"
+        ],
+        "link": "https://www.ultimahora.es/deportes/otros-deportes/2026/01/01/2541739/magaluf-cierra-ano-alto-nivel.html",
+        "date": "2026-01-01 20:38:00",
+        "sentiment_score": 0.5260705426335335
     }
 ];
