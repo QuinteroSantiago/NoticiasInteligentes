@@ -1,473 +1,5 @@
 export default [
     {
-        "title": "Matarazzo se estrena en Zubieta ante la afición txuri-urdin",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/43b43809-312a-4cd3-92b0-4a9546cd4ed6_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "matarazzo",
-            "zubieta",
-            "txuri",
-            "aficion",
-            "estrena"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/reala/2025/12/28/matarazzo-estrena-zubieta-aficion-txuri-10520062.html",
-        "date": "2025-12-28 21:54:15",
-        "sentiment_score": 0.5818168669939041
-    },
-    {
-        "title": "Los otros trabajos de diputados y senadores: desde una poeta hasta un cirujano taurino",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2024/03/18/imagen-general-del-pleno-del-semnmad.r_d.904-1161.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/otros-trabajos-diputados-senadores-poeta-cirujano-taurino_6915403_0.html",
-        "date": "2025-12-28 21:39:18",
-        "sentiment_score": -0.005082517862319946
-    },
-    {
-        "title": "Kroos: \"Hay que dar tiempo a Xabi Alonso, pero en el Madrid...\"",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages02/2025/12/28/BC087BA4-2038-4F4B-87E3-8B39B4CC3F5D/kroos-evento-reciente_98.jpg?crop=1920%2C1080%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.antena3.com/noticias/deportes/futbol/kroos-hay-que-dar-tiempo-xabi-alonso-pero-madrid_202512286951a23d22f0db7dafffe341.html",
-        "date": "2025-12-28 21:33:49",
-        "sentiment_score": 0.8070554155856371
-    },
-    {
-        "title": "Lamine, premio Maradona: \"Mejor no compararse con nadie, Cristiano quiso ser él mismo\"",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/12/28/69519ec360a682-69831638.r_d.1504-1160.jpeg",
-        "tags": [
-            "fútbol"
-        ],
-        "link": "https://www.20minutos.es/deportes/futbol/lamine-yamal-gana-premio-maradona-mejor-no-compararse-con-nadie-cristiano-quiso-ser-mismo_6915402_0.html",
-        "date": "2025-12-28 21:33:00",
-        "sentiment_score": 0.408151775598526
-    },
-    {
-        "title": "Unicaja aún no está preparado para ganar al Real Madrid (91-82)",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/28/69519bd3bf1b7.jpeg",
-        "tags": [
-            "deportes cope málaga"
-        ],
-        "link": "https://www.cope.es/emisoras/andalucia/malaga-provincia/malaga/deportes-cope-malaga/noticias/unicaja-aun-preparado-ganar-real-madrid-20251228_3278246.html",
-        "date": "2025-12-28 21:17:19",
-        "sentiment_score": -0.0023253262042999268
-    },
-    {
-        "title": "(Crónica) Real Madrid, Barça y Valencia Basket cumplen en la jornada navideña",
-        "image_url": "https://www.infobae.com/resizer/v2/V7N3ZEU4JJDKNF7C4UGT3SKVW4.jpg?auth=ea6efaf8daec7c0e4263e598246d00e0699cad91395b45ae47799e75b733bca0&height=1280&smart=true&width=1920",
-        "tags": [
-            "copa del rey",
-            "andorra",
-            "baloncesto",
-            "liga endesa",
-            "movistar arena",
-            "barça",
-            "valencia basket",
-            "europapress",
-            "real madrid",
-            "unicaja",
-            "bilbao"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/28/cronica-real-madrid-barca-y-valencia-basket-cumplen-en-la-jornada-navidena/",
-        "date": "2025-12-28 21:15:18",
-        "sentiment_score": 0.8994937837123871
-    },
-    {
-        "title": "Así queda el Unicaja en la clasificación de la Liga Endesa tras la disputa de la jornada 12",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/2580393f-b702-48d6-923f-353a149d53e9_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja",
-            "liga endesa",
-            "clasificación"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/28/unicaja-clasificacion-liga-endesa-jornada-12-125209074.html",
-        "date": "2025-12-28 21:13:21",
-        "sentiment_score": -0.1443256288766861
-    },
-    {
-        "title": "La figura de Alemania que dejó afuera a la Argentina entre los candidatos a ganar el Mundial 2026: su crítica a la organización",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "selección argentina",
-            "romário",
-            "toni kroos",
-            "mundial 2026"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/28/la-figura-de-alemania-que-dejo-afuera-a-la-argentina-entre-los-candidatos-a-ganar-el-mundial-2026-su-critica-a-la-organizacion/",
-        "date": "2025-12-28 21:03:25",
-        "sentiment_score": -0.7431756295263767
-    },
-    {
-        "title": "Ibon Navarro: \"Hemos mejorado pero aún no nos da para ganarle al Real Madrid\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c92796a8-da29-44f2-82ed-2f6528741a6f_16-9-aspect-ratio_default_1424312.jpg",
-        "tags": [
-            "unicaja",
-            "real madrid",
-            "ibon navarro",
-            "rueda de prensa",
-            "unicaja baloncesto"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/28/ibon-navarro-hemos-mejorado-da-125208989.html",
-        "date": "2025-12-28 21:00:17",
-        "sentiment_score": -0.6786626055836678
-    },
-    {
-        "title": "Real Madrid, Barça y Valencia Basket cumplen",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/075d70a1-688a-46f5-abc2b5bb03b48dbe.jpg",
-        "tags": [
-            "willy hernangómez",
-            "andorra",
-            "valencia basket",
-            "ucam murcia",
-            "tenerife",
-            "facundo campazzo",
-            "fc barcelona",
-            "bàsquet girona",
-            "txus vidorreta",
-            "usman garuba",
-            "sergio scariolo",
-            "liga acb",
-            "real madrid",
-            "maratón",
-            "liga endesa",
-            "morabanc andorra",
-            "gran canaria",
-            "xavi pascual",
-            "unicaja",
-            "copa del rey"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/zb71d00ae-d343-40f0-80775b7638c8586b/202512/real-madrid-barca-y-valencia-basket-cumplen",
-        "date": "2025-12-28 20:57:50",
-        "sentiment_score": 0.09761694073677063
-    },
-    {
-        "title": "Jordi Cruyff llega a un \"acuerdo verbal\" con el Ajax para ser su director técnico",
-        "image_url": "https://www.infobae.com/resizer/v2/EGDEVOBFWJANPMIWC2XL2VVMQY.jpg?auth=cef3ef68b23a1bfd08fbd5fb7dd36ff7fd42b7e66a0990b5c10fe249ca8a60bc&height=1280&smart=true&width=1920",
-        "tags": [
-            "ajax",
-            "países bajos",
-            "johan cruyff",
-            "europapress",
-            "fútbol",
-            "jordi cruyff",
-            "exfutbolista",
-            "manchester united",
-            "fc barcelona",
-            "dirección técnica",
-            "ámsterdam"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/28/jordi-cruyff-llega-a-un-acuerdo-verbal-con-el-ajax-para-ser-su-director-tecnico/",
-        "date": "2025-12-28 22:15:16",
-        "sentiment_score": 0.5265860185027122
-    },
-    {
-        "title": "Colau, bajo fuego ‘amigo’: Podemos desata la guerra contra los comunes",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/01/18/informacion-municipal/917418327_13996944_1706x960.jpg",
-        "tags": [
-            "barcelona en comú",
-            "jaume collboni",
-            "podem",
-            "ayuntamiento de barcelona",
-            "información municipal",
-            "ada colau",
-            "psc - partit dels socialistes de catalunya"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/informacion-municipal/20251228/colau-fuego-amigo-podemos-desata-guerra-comunes/1003742718904_0.html",
-        "date": "2025-12-28 22:15:00",
-        "sentiment_score": 0.14878331124782562
-    },
-    {
-        "title": "Barcelona renueva la gestión de un casal a una polémica federación de Vallcarca",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/18/gracia/1003742717413_15529209_1706x960.jpg",
-        "tags": [
-            "subvenciones barcelona",
-            "gràcia",
-            "vallcarca i els penitents",
-            "ayuntamiento de barcelona",
-            "okupas"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/gracia/20251228/barcelona-renueva-gestion-casal-polemica-federacion-vallcarca/1003742717387_0.html",
-        "date": "2025-12-28 22:15:00",
-        "sentiment_score": -0.2790013253688812
-    },
-    {
-        "title": "Las macropanaderías crecen en los barrios por la ‘saturación’ del Eixample: Barcelona roza el millar",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2024/01/30/vivir-en-barcelona/828927152_12337466_1706x960.jpg",
-        "tags": [
-            "empresas barcelona",
-            "macropanaderías",
-            "economía",
-            "barrios",
-            "gremi de restauració"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/economia/20251228/macropanaderias-crecen-barrios-saturacion-eixample-barcelona-roza-millar/1003742716944_0.html",
-        "date": "2025-12-28 22:15:00",
-        "sentiment_score": 0.2506052553653717
-    },
-    {
-        "title": "Muere a los 71 años Carles Vilarrubí, exvicepresidente del FC Barcelona y marido de Sol Daurella",
-        "image_url": "https://www.hola.com/horizon/landscape/81968a3c4c04-gettyimages-158602149.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.hola.com/actualidad/20251228875050/muere-a-los-71-anos-carles-vilarrubi-marido-de-sol-daurella/",
-        "date": "2025-12-28 22:04:59",
-        "sentiment_score": -0.062051355838775635
-    },
-    {
-        "title": "45 años del primer oro de Cortavitarte",
-        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2025/12/28/cortavitarte-aviles-kOdG--1200x840@El%20Comercio.jpg",
-        "tags": [
-            "oro",
-            "anos",
-            "primer",
-            "cortavitarte"
-        ],
-        "link": "https://www.elcomercio.es/aviles/anos-primer-oro-cortavitarte-20251229221622-nt.html",
-        "date": "2025-12-28 21:53:53",
-        "sentiment_score": 0.6120015382766724
-    },
-    {
-        "title": "La precariedad y la vivienda marcan el fin de las certezas generacionales: \"Nosotros no vamos a tener la vida que pudieron tener nuestros padres\"",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
-        "tags": [
-            "nlpremium",
-            "artículos daniela saltos"
-        ],
-        "link": "https://www.elmundo.es/economia/2025/12/28/69457ca821efa0c3258b4589.html",
-        "date": "2025-12-28 21:48:30",
-        "sentiment_score": -0.32679708302021027
-    },
-    {
-        "title": "Jordi Cruyff continúa el legado de su padre: ficha por el Ajax como director deportivo",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/07/27/culemania/palco/782182003_15555390_1706x960.jpg",
-        "tags": [
-            "jordi cruyff",
-            "palco",
-            "johan cruyff"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251228/jordi-cruyff-continua-legado-ajax-director-deportivo/1003742719529_0.html",
-        "date": "2025-12-28 21:37:00",
-        "sentiment_score": 0.1244773343205452
-    },
-    {
-        "title": "Globe Soccer Awards 2025: el PSG domina la última gala del año",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1766959363689/942072.jpg?ch=675&cw=1200",
-        "tags": [
-            "premios",
-            "lamine yamal",
-            "cristiano ronaldo",
-            "globe soccer awards",
-            "novak djokovic",
-            "psg",
-            "mejor futbolista del mundo",
-            "vitinha",
-            "globe soccer awards 2025",
-            "ousmane dembélé"
-        ],
-        "link": "https://2001online.com/deportes/globe-soccer-awards-2025-el-psg-domina-la-ultima-gala-del-ano-2025122818100",
-        "date": "2025-12-28 21:36:58",
-        "sentiment_score": 0.7322918847203255
-    },
-    {
-        "title": "Jordi Cruyff, a un paso de ser director técnico del Ajax",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/28/6951a2e66f047.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/jordi-cruyff-paso-director-tecnico-ajax-20251228_3278248.html",
-        "date": "2025-12-28 21:36:51",
-        "sentiment_score": -0.11181339621543884
-    },
-    {
-        "title": "Vivla, lista para escalar su copropiedad de segundas residencias; así se pasa de startup \"promesa\" a consolidada",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744069844_260665312_1706x960.jpg",
-        "tags": [
-            "startup",
-            "vivienda",
-            "digitalización",
-            "startups",
-            "emprendedores"
-        ],
-        "link": "https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20251229/vivla-lista-escalar-copropiedad-segundas-residencias-pasa-startup-promesa-consolidada/1003744069806_0.html",
-        "date": "2025-12-29 02:05:18",
-        "sentiment_score": 0.7516433335840702
-    },
-    {
-        "title": "Un juzgado condena a Vodafone y WiZink a resarcir a un cliente tras ser robado con una duplicación de su tarjeta SIM",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070671_260675156_1706x960.jpg",
-        "tags": [
-            "fraudes",
-            "banca",
-            "vodafone",
-            "wizink"
-        ],
-        "link": "https://www.elespanol.com/invertia/empresas/banca/20251229/juzgado-condena-vodafone-wizink-resarcir-cliente-robado-duplicacion-tarjeta-sim/1003744070609_0.html",
-        "date": "2025-12-29 01:25:01",
-        "sentiment_score": -0.8538957107812166
-    },
-    {
-        "title": "Víctor y Javier Alfaro, de crear plantillas en el bajo de una casa a ser olímpicos y podólogos de 7.000 deportistas de élite",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744069899_260665874_1706x960.jpg",
-        "tags": [
-            "aragón",
-            "huesca (provincia)",
-            "huesca"
-        ],
-        "link": "https://www.elespanol.com/aragon/actualidad/huesca/20251229/victor-javier-alfaro-crear-plantillas-casa-olimpicos-podologos-deportistas-elite-dl/1003744069895_0.html",
-        "date": "2025-12-29 01:21:51",
-        "sentiment_score": 0.6504364684224129
-    },
-    {
-        "title": "Nos conectamos, luego somos: nuestros derechos digitales, a la palestra en la Fundación Telefónica",
-        "image_url": "https://s3.elespanol.com/2025/12/17/actualidad/1003744059628_260532772_1706x960.jpg",
-        "tags": [
-            "fundación teléfonica",
-            "madrid",
-            "exposiciones",
-            "ec-critica-arte",
-            "arte"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/arte/20251229/conectamos-luego-derechos-digitales-palestra-fundacion-telefonica/1003744059498_0.html",
-        "date": "2025-12-29 01:14:18",
-        "sentiment_score": 0.7805597260594368
-    },
-    {
-        "title": "La imputación principal de Ábalos por organización criminal aleja la posibilidad de ser juzgado por un jurado",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/d9754f9e1c9ec2c05cc471eb1d5216d6/crop/519x0/2567x2048/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468205674169.jpg",
-        "tags": [
-            "nlpremium",
-            "tribunal supremo",
-            "artículos ángela martialay",
-            "josé luis ábalos",
-            "corrupción"
-        ],
-        "link": "https://www.elmundo.es/espana/2025/12/29/69516fd4e9cf4adc458b4583.html",
-        "date": "2025-12-29 00:57:45",
-        "sentiment_score": 0.006420820951461792
-    },
-    {
-        "title": "28 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/28-dic-2025-partidazo-cope-20251229_3278263.html",
-        "date": "2025-12-29 00:45:00",
-        "sentiment_score": 0.2810220420360565
-    },
-    {
-        "title": "28 DIC 2025 | TRAMO FINAL DE TIEMPO DE JUEGO",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/28-dic-2025-tramo-final-juego-20251229_3278262.html",
-        "date": "2025-12-29 00:45:00",
-        "sentiment_score": 0.31807592511177063
-    },
-    {
-        "title": "Costa de Marfil y Camerún empatan en la Copa Africana mientras Zidane observa a Argelia avanzar",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/23c3db3/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F8f%2F152e1ee8449cadbbfef8deaa56d4%2F3f503991b35846ae9cce36b6ca240ec0.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-28/costa-de-marfil-y-camerun-empatan-en-la-copa-africana-mientras-zidane-observa-argelia-avanzar",
-        "date": "2025-12-29 00:38:29",
-        "sentiment_score": 0.29234206676483154
-    },
-    {
-        "title": "Cristiano Ronaldo está a 44 goles de los mil",
-        "image_url": "https://meridadigital.com.ve/wp-content/uploads/2025/12/cristianojpg-104755-150x150.jpg",
-        "tags": [
-            "deportes",
-            "destacadas"
-        ],
-        "link": "https://meridadigital.com.ve/cristiano-ronaldo-esta-a-44-goles-de-los-mil",
-        "date": "2025-12-29 00:35:28",
-        "sentiment_score": 0.4738096222281456
-    },
-    {
-        "title": "El chulo del AVE",
-        "image_url": "https://www.eldebate.com/files/article_social/files/fp/uploads/2021/10/21/61713c9335472.r_d.577-326-0.jpeg",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.eldebate.com/opinion/20251229/chulo-ave-143280-1766745970_368989.html",
-        "date": "2025-12-29 00:30:00",
-        "sentiment_score": 0.5823131427168846
-    },
-    {
-        "title": "Telefónica ofrece cobertura 5G al 95% de la población catalana y ya llega a 703 municipios",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a77ae3d3-8a2b-4517-870a-086eec03abb8_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "telefónica",
-            "barcelona"
-        ],
-        "link": "https://www.elperiodico.com/es/tecnologia/20251229/telefonica-ofrece-cobertura-5g-95-125060499",
-        "date": "2025-12-29 01:00:01",
-        "sentiment_score": 0.6345400512218475
-    },
-    {
-        "title": "Raphinha Jugador del Año de La Liga en los Globe Soccer Awards 2025",
-        "image_url": "https://laprensadelara.com/wp-content/uploads/2025/12/Raphinha-Jugador-del-Ano-en-los-Globe-Soccer-Awards-2025.webp",
-        "tags": [
-            "la liga",
-            "futbol",
-            "hansi flick",
-            "raphinha",
-            "mejor jugador del año",
-            "deportes",
-            "fc barcelona",
-            "globe soccer awards"
-        ],
-        "link": "https://laprensadelara.com/deportes/raphinha-jugador-del-ano-de-la-liga/",
-        "date": "2025-12-29 00:28:52",
-        "sentiment_score": 0.7042856700718403
-    },
-    {
-        "title": "Lamine Yamal cierra un 2025 de ensueño: triplete, aspirante real al Balón de Oro, promesa al barcelonismo y renovación millonaria",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/28/culemania/primer-equipo/1003742719531_15555398_1706x960.jpg",
-        "tags": [
-            "barça",
-            "primer equipo",
-            "lamine yamal"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20251229/lamine-yamal-balon-oro-barcelonismo-renovacion-millonaria/1003742719530_0.html",
-        "date": "2025-12-28 23:49:36",
-        "sentiment_score": 0.8860825132578611
-    },
-    {
-        "title": "De la licencia 1B a la 1C en dos meses: el empujón de Laporta con el regreso al Camp Nou que explica el buen momento del Barça",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/07/actualidad/1003742705341_15374487_1706x960.jpg",
-        "tags": [
-            "camp nou",
-            "barça",
-            "ayuntamiento de barcelona",
-            "palco"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251229/licencia-empujon-laporta-regreso-camp-nou-barca/1003742719534_0.html",
-        "date": "2025-12-28 23:46:06",
-        "sentiment_score": 0.38169698417186737
-    },
-    {
-        "title": "Gavi: \"Me gustaría ir al Mundial, pero estoy centrado en recuperarme\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4ac855f-fdf6-447d-be6f-e1d5f6e34a63_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "gavi",
-            "fútbol",
-            "fc barcelona",
-            "deportes"
-        ],
-        "link": "https://www.lne.es/videos/deportes/2025/12/29/gavi-gustaria-mundial-centrado-recuperarme-125210554.html",
-        "date": "2025-12-28 23:22:00",
-        "sentiment_score": 0.35227120667696
-    },
-    {
         "title": "La Academia General Militar (2a ÉPOCA)",
         "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/12/ACADEMIA-750x421.webp",
         "tags": [
@@ -3035,5 +2567,233 @@ export default [
         "link": "https://www.lavanguardia.com/magazine/casa/20260101/11236932/michael-anastassiades-mi-vida-basa-equilibrio.html",
         "date": "2026-01-01 05:28:58",
         "sentiment_score": 0.6027448400855064
+    },
+    {
+        "title": "El Casademont Zaragoza U22 mira al liderato de la Liga U",
+        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2025/11/14/partido-casademont-zaragoza-barcelona-de-la-liga-u22-en-el-pabellon-principe-felipe-19.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.heraldo.es/noticias/deportes/baloncesto/2026/01/01/casademont-zaragoza-u22-mira-liderato-liga-u-1882553.html",
+        "date": "2026-01-01 17:16:00",
+        "sentiment_score": 0.566253712400794
+    },
+    {
+        "title": "Fallece a los 89 años Enric Mestre, maestro y referente internacional de la cerámica contemporánea",
+        "image_url": "https://www.infobae.com/resizer/v2/4U5U7JROMVDCRLWS367D4GWSHA.jpg?auth=e166a81f1ee196e5f07ef5a4f93d115356e5817567cb7d80d6fb04aaed0fd2f4&height=1080&smart=true&width=1920",
+        "tags": [
+            "enric mestre",
+            "museo nacional de cerámica y artes suntuarias gonzález martí",
+            "europapress",
+            "alboraya",
+            "valència",
+            "cerámica contemporánea",
+            "premio de las artes plásticas",
+            "exposiciones",
+            "academia internacional de cerámica",
+            "arte",
+            "ayuntamiento de alboraya"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/01/fallece-a-los-89-anos-enric-mestre-maestro-y-referente-internacional-de-la-ceramica-contemporanea/",
+        "date": "2026-01-01 17:15:38",
+        "sentiment_score": 0.6449132710695267
+    },
+    {
+        "title": "Fallece a los 89 años Enric Mestre, maestro y referente internacional de la cerámica contemporánea",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9922c927-8a60-4e32-b03a-e6480bf0b5c7_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cerámica",
+            "enric",
+            "mestre",
+            "fallece"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/cultura/2026/01/01/fallece-enric-mestre-ceramica-10530953.html",
+        "date": "2026-01-01 17:11:15",
+        "sentiment_score": -0.6655565109103918
+    },
+    {
+        "title": "Qué se sabe del estado de salud de Roberto Carlos tras su operación de urgencia en Brasil",
+        "image_url": "https://s3.elespanol.com/2025/12/31/actualidad/1003744074898_260725360_1706x960.jpg",
+        "tags": [
+            "operaciones quirúrgicas",
+            "real madrid cf",
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260101/sabe-salud-roberto-carlos-operacion-urgencia-brasil/1003744075851_0.html",
+        "date": "2026-01-01 17:06:58",
+        "sentiment_score": -0.6647304482758045
+    },
+    {
+        "title": "Muere a los 89 años Enric Mestre, maestro y referente internacional de la cerámica contemporánea",
+        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/01/6956a98924feb9-16167957.jpeg",
+        "tags": [
+            "cultura"
+        ],
+        "link": "https://www.20minutos.es/cultura/muere-los-89-anos-enric-mestre-maestro-referente-internacional-ceramica-contemporanea_6916572_0.html",
+        "date": "2026-01-01 17:06:23",
+        "sentiment_score": 0.3914201110601425
+    },
+    {
+        "title": "Los cinco grandes retos del Córdoba CF en 2026",
+        "image_url": "https://static.grupojoly.com/clip/6f10862c-d9da-4407-a20d-a7a3401900e5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias córdoba",
+            "córdoba club de fútbol",
+            "últimas noticias"
+        ],
+        "link": "https://www.eldiadecordoba.es/cordobacf/cinco-grandes-retos-cordoba-cf-2026_0_2005533425.html",
+        "date": "2026-01-01 17:04:31",
+        "sentiment_score": 0.76007373444736
+    },
+    {
+        "title": "Rüdiger transforma vidas en Sierra Leona: «No se trata de religión, se trata de humanidad»",
+        "image_url": "https://okdiario.com/diariomadridista/img/2026/01/01/rudiger-5.jpg",
+        "tags": [
+            "real madrid",
+            "antonio rudiger"
+        ],
+        "link": "https://okdiario.com/diariomadridista/real-madrid/rudiger-transforma-vidas-sierra-leona-no-trata-religion-trata-humanidad-591555",
+        "date": "2026-01-01 17:00:53",
+        "sentiment_score": 0.05304866284132004
+    },
+    {
+        "title": "Previa del Real Madrid - Dubai Basketbal",
+        "image_url": "https://www.infobae.com/resizer/v2/PQYSOJ7BLVFBVBVODJ473H5TQU.jpg?auth=e4e8753f0c23e0c82d95e3ee11e074b73d16daded2533da592795bd383160e40&height=1280&smart=true&width=1920",
+        "tags": [
+            "madrid",
+            "sergio scariolo",
+            "real madrid",
+            "baloncesto",
+            "edy tavares",
+            "jurica golemac",
+            "europapress",
+            "movistar arena",
+            "dubai basketball",
+            "euroliga",
+            "ucam murcia"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/01/previa-del-real-madrid-dubai-basketbal/",
+        "date": "2026-01-01 17:00:28",
+        "sentiment_score": 0.5681127905845642
+    },
+    {
+        "title": "El sueño del trabajo remoto parece que se rompió completamente en España. Cuando contratar a un programador equivale a abrir una empresa entera la cosa se complica",
+        "image_url": "https://es.gizmodo.com/app/uploads/2025/10/Diseno-sin-titulo-22-13-1024x683.jpg",
+        "tags": [
+            "tecnología"
+        ],
+        "link": "https://es.gizmodo.com/sueno-del-trabajo-remoto-se-rompio-en-espana-cuando-contratar-a-un-programador-equivale-a-abrir-empresa-entera-2000198517",
+        "date": "2026-01-01 16:45:39",
+        "sentiment_score": -0.09204679727554321
+    },
+    {
+        "title": "Patrick Soko avanza a los octavos de final desde el banquillo en la Copa África",
+        "image_url": "https://static.grupojoly.com/clip/c3861790-672f-4b6f-821d-eca454638aa8_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "unión deportiva almería"
+        ],
+        "link": "https://www.diariodealmeria.es/ud-almeria/soko-avanza-octavos-copa-africa_0_2005533882.html",
+        "date": "2026-01-01 17:15:57",
+        "sentiment_score": -0.5130404364317656
+    },
+    {
+        "title": "Más de 115.000 personas asisten al espectáculo de Nochevieja de Montjuïc en Barcelona",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/01/6956a87f5973d.r_d.3024-2012-742.jpeg",
+        "tags": [
+            "barcelona"
+        ],
+        "link": "https://www.lavanguardia.com/local/barcelona/20260101/11406644/mas-115-000-personas-asisten-espectaculo-nochevieja-montjuic.html",
+        "date": "2026-01-01 17:13:48",
+        "sentiment_score": -0.5657060742378235
+    },
+    {
+        "title": "Una niña fue la primera bebé nacida en Barcelona en 2026",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "salud",
+            "locales"
+        ],
+        "link": "https://eltiempove.com/una-nina-fue-la-primera-bebe-nacida-en-barcelona-en-2026/",
+        "date": "2026-01-01 17:11:27",
+        "sentiment_score": 0.009235948324203491
+    },
+    {
+        "title": "David Muñoz recuerda su infancia en un barrio marcado por un pasado inesperado",
+        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/01/09/2023010912260924034.jpg",
+        "tags": [
+            "medios"
+        ],
+        "link": "https://www.elconfidencialdigital.com/articulo/medios/david-munoz-recuerda-infancia-barrio-marcado-pasado-inesperado/20260101180945996327.html",
+        "date": "2026-01-01 17:09:45",
+        "sentiment_score": -0.04570797085762024
+    },
+    {
+        "title": "El Extra de Navidad de la ONCE reparte más de 25 millones de euros en premios mayores en media España",
+        "image_url": "https://www.infobae.com/resizer/v2/TRRIT46SKNHBFN33KIJB3HSH2Q.jpg?auth=64dc2072ade09a38f20fb159fd890605aee125122aedf32dc9af0e63dedd5495&height=1277&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/01/el-extra-de-navidad-de-la-once-reparte-mas-de-25-millones-de-euros-en-premios-mayores-en-media-espana/",
+        "date": "2026-01-01 17:00:35",
+        "sentiment_score": 0.13773175328969955
+    },
+    {
+        "title": "Violenta pelea entre indios y pakistaníes tras las campanadas de Año Nuevo en Barcelona",
+        "image_url": "https://www.mediterraneodigital.com/images/2026/1/barcelona-fin-de-ano.jpg",
+        "tags": [
+            "sucesos españa"
+        ],
+        "link": "https://www.mediterraneodigital.com/sucesos-espana/video-pelea-barcelona-indios-pakistanies-ano-nuevo",
+        "date": "2026-01-01 16:55:45",
+        "sentiment_score": -0.7573622222989798
+    },
+    {
+        "title": "Sidecars llegará a Córdoba el 19 de junio para presentar su nuevo disco, 'Everest'",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/01/69569e9487bb7.jpeg",
+        "tags": [
+            "córdoba - cultura"
+        ],
+        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/cultura/20260101/sidecars-llegara-cordoba-19-junio-presentar-nuevo-disco-everest_370508.html",
+        "date": "2026-01-01 16:30:53",
+        "sentiment_score": 0.1650732308626175
+    },
+    {
+        "title": "Concierto de Año Nuevo 2026: el rompedor Nézet-Séguin triunfa con su entusiasmo y su buen humor",
+        "image_url": "https://s3.elespanol.com/2026/01/01/actualidad/1003744075846_260739003_1706x960.jpg",
+        "tags": [
+            "conciertos",
+            "música",
+            "crítica musical",
+            "viena",
+            "año nuevo"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20260101/concierto-ano-nuevo-rompedor-nezet-seguin-triunfa-entusiasmo-buen-humor/1003744075832_0.html",
+        "date": "2026-01-01 16:29:15",
+        "sentiment_score": 0.5649512261152267
+    },
+    {
+        "title": "Tal día como HOY, 2 de enero",
+        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/01/01/paz-vega-kTZC-U2201593729325wDG.jpg",
+        "tags": [
+            "cumpleaños de hoy"
+        ],
+        "link": "https://www.hoy.es/sociedad/dia-hoy-enero-20260102140118-nt.html",
+        "date": "2026-01-01 16:23:58",
+        "sentiment_score": 0.14977512508630753
+    },
+    {
+        "title": "Criptomonedas y un influencer acusado de violación: Barcelona rompe relaciones con su patrocinador más polémico",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/97.webp",
+        "tags": [
+            "barcelona",
+            "titulares",
+            "zero-knowledge proof",
+            "deportes",
+            "criptomonedas"
+        ],
+        "link": "https://lapatilla.com/2026/01/01/criptomonedas-y-un-influencer-acusado-de-violacion-barcelona-rompe-relaciones-con-su-patrocinador-mas-polemico/",
+        "date": "2026-01-01 16:09:51",
+        "sentiment_score": 0.018910646438598633
     }
 ];
