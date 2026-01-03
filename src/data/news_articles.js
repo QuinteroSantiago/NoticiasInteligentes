@@ -1,200 +1,5 @@
 export default [
     {
-        "title": "Toledo, Talavera y Puertollano, ayuntamientos \"pobres en inversión social\" en 2024, según gerentes de servicios sociales",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251230181945_690.jpg",
-        "tags": [
-            "castilla-la mancha"
-        ],
-        "link": "https://www.europapress.es/castilla-lamancha/noticia-toledo-talavera-puertollano-ayuntamientos-pobres-inversion-social-2024-gerentes-servicios-sociales-20251230181945.html",
-        "date": "2025-12-30 17:19:45",
-        "sentiment_score": -0.029215365648269653
-    },
-    {
-        "title": "Toledo, Talavera y Puertollano, ayuntamientos \"pobres en inversión social\" en 2024, según gerentes de servicios sociales",
-        "image_url": "http://st1.lacerca.com/imagenes/view/d91ba10dfb8d77b5777e255281f2da59.jpg",
-        "tags": [
-            "castilla-la mancha",
-            "noticias"
-        ],
-        "link": "https://www.lacerca.com/noticias/castilla_la_mancha/toledo-ayuntamientos-pobres-inversion-social-segun-servicios-sociales-796543-1.html",
-        "date": "2025-12-30 17:19:00",
-        "sentiment_score": 0.05907285213470459
-    },
-    {
-        "title": "El municipio más barato para comprar vivienda de toda la comunidad está en León",
-        "image_url": "https://www.lanuevacronica.com/uploads/s1/31/20/11/8/villablino-es-el-municipio-mas-barato-de-castilla-y-leon-aunque-no-entra-en-el-top-10-a-nivel-nacional-e-nino.jpeg",
-        "tags": [
-            "actualidad"
-        ],
-        "link": "https://www.lanuevacronica.com/actualidad/villablino-tiene-vivienda-mas-asequible-toda-comunidad_188627_102.html",
-        "date": "2025-12-30 17:10:01",
-        "sentiment_score": 0.08806080371141434
-    },
-    {
-        "title": "Ayuso consolida a Madrid como \"polo de excelencia hospitalaria por especialidades\" en el IEH 2025",
-        "image_url": "https://d2x3b4b4wxwlxb.cloudfront.net/articulos/articulos-2639727.jpg",
-        "tags": [
-            "sanitatem"
-        ],
-        "link": "https://www.vozpopuli.com/sanitatem/ayuso-consolida-madrid-como-polo-excelencia-hospitalaria-especialidades-ieh-2025.html",
-        "date": "2025-12-30 17:01:05",
-        "sentiment_score": 0.16782981902360916
-    },
-    {
-        "title": "VOX denuncia un aumento del 62% de las violaciones en la provincia de Ciudad Real: «Que el bipartidismo abra las puertas de sus casas a los ilegales»",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-30-at-17.56.41.jpeg",
-        "tags": [
-            "inseguridad",
-            "españa",
-            "castilla la mancha",
-            "vox",
-            "agresión sexual",
-            "inmigración ilegal"
-        ],
-        "link": "https://gaceta.es/espana/vox-denuncia-un-aumento-del-62-de-las-violaciones-en-la-provincia-de-ciudad-real-que-el-bipartidismo-abra-las-puertas-de-sus-casas-a-los-ilegales-20251230-1800/",
-        "date": "2025-12-30 17:00:39",
-        "sentiment_score": -0.3601606860756874
-    },
-    {
-        "title": "El gran líder que pone en venta al Madrid",
-        "image_url": "https://static1.ara.cat/clip/9a0ee376-4ea9-42a0-a2a5-98d0d3bdf81e_16-9-aspect-ratio_default_1053623.jpg",
-        "tags": [
-            "gran",
-            "venta",
-            "pone",
-            "lider",
-            "madrid"
-        ],
-        "link": "https://es.ara.cat/deportes/fc-barcelona/gran-lider-pone-venta-madrid_129_5605787.html",
-        "date": "2025-12-30 17:00:29",
-        "sentiment_score": -0.7910015657544136
-    },
-    {
-        "title": "Miguel Fisac, la innovación, \"Huesos y Pieles\" que dejaron huella en la arquitectura española",
-        "image_url": "https://www.diariosigloxxi.com/images/20537",
-        "tags": [
-            "business"
-        ],
-        "link": "https://www.diariosigloxxi.com/texto-diario/mostrar/5719455/miguel-fisac-innovacion-huesos-pieles-dejaron-huella-arquitectura-espanola",
-        "date": "2025-12-30 16:53:20",
-        "sentiment_score": 0.2645595520734787
-    },
-    {
-        "title": "Fallece el histórico dirigente del PSOE Fernández Marugán",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Francisco-Fernandez-Marugan-.jpg",
-        "tags": [
-            "nacional",
-            "defensor del pueblo",
-            "diputado",
-            "presupuestos"
-        ],
-        "link": "https://www.lanzadigital.com/nacional/fallece-el-historico-dirigente-del-psoe-fernandez-marugan/",
-        "date": "2025-12-30 16:52:30",
-        "sentiment_score": -0.013735771179199219
-    },
-    {
-        "title": "Los regantes del Alto Guadiana votan en contra de los Planes Especiales de Sequía",
-        "image_url": "https://www.clm24.es/media/clm24/images/2022/01/29/2022012912201365638.jpg",
-        "tags": [
-            "ciudad real"
-        ],
-        "link": "https://www.clm24.es/articulo/ciudad-real/regantes-alto-guadiana-votan-planes-especiales-sequia/20251230175017467151.html",
-        "date": "2025-12-30 16:50:17",
-        "sentiment_score": -0.796561598777771
-    },
-    {
-        "title": "Yeda acogerá el 'II Congreso Internacional de Entrenadores/as de Fútbol RFEF' el 8 de enero",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251230174615_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-yeda-acogera-ii-congreso-internacional-entrenadores-as-futbol-rfef-enero-20251230174615.html",
-        "date": "2025-12-30 16:46:15",
-        "sentiment_score": 0.056875426322221756
-    },
-    {
-        "title": "Fundación HM organiza una visita de jugadores del RCD Espanyol al Hospital HM NensHospital HM Nens",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251230181850_120.jpg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.europapress.es/catalunya/noticia-fundacion-hm-organiza-visita-jugadores-rcd-espanyol-hospital-hm-nenshospital-hm-nens-20251230181850.html",
-        "date": "2025-12-30 17:18:50",
-        "sentiment_score": 0.16130242869257927
-    },
-    {
-        "title": "Detenido un viajero del metro en la Sagrera por oler a hachís y llevar encima 500 gramos y una báscula de precision",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/46b619a3-0a5e-4e8f-a6cc-ecdecdecebc1_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "narcopisos",
-            "guardia urbana de barcelona",
-            "narcotráfico",
-            "drogas"
-        ],
-        "link": "https://www.elperiodico.com/es/sucesos/20251230/detenido-viajero-metro-sagrera-oler-hachis-droga-bascula-125261486",
-        "date": "2025-12-30 17:14:57",
-        "sentiment_score": -0.8385731466114521
-    },
-    {
-        "title": "La infanta Cristina se muda de nuevo a Barcelona para vivir en el edificio en el que residió con Urdangarin",
-        "image_url": "https://cflvdg.avoz.es/sc/Xdt9RMTcquUcJ41-ILleojp1eBc=/768x/2025/12/30/00121767114962198164938/Foto/j_20251230_181337000.jpg",
-        "tags": [
-            "infanta cristina",
-            "gente"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/gente/2025/12/30/infanta-cristina-muda-nuevo-barcelona-vivir-edificio-residio-urdangarin/00031767112766204695328.htm",
-        "date": "2025-12-30 17:06:00",
-        "sentiment_score": 0.24392349272966385
-    },
-    {
-        "title": "Gianni Infantino y la FIFA estudian una modificación del reglamento que pondrá en jaque al Barça de Hansi Flick",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/08/culemania/palco/1003742672340_14844225_1706x960.jpg",
-        "tags": [
-            "palco",
-            "barça",
-            "hansi flick",
-            "fifa"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251230/gianni-infantino-fifa-modificacion-barca-hansi-flick/1003742719970_0.html",
-        "date": "2025-12-30 17:05:25",
-        "sentiment_score": 0.5914520546793938
-    },
-    {
-        "title": "Rusia instala en Bielorrusia los mísiles nucleares rusos Oreshnik",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/30/695404920092f.jpeg",
-        "tags": [
-            "internacional"
-        ],
-        "link": "https://www.lavanguardia.com/internacional/20251230/11403585/ruso-oreshnik-mas-cerca-objetivos-europeos.html",
-        "date": "2025-12-30 17:01:49",
-        "sentiment_score": 0.08817467093467712
-    },
-    {
-        "title": "El PSC ganaría en Barcelona, ERC superaría a BComú y AC a Junts, según el barómetro municipal",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/30/6954048908e91.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/psc-ganaria-barcelona-erc-superaria-bcomu-ac-junts-barometro-municipal-20251230_3279347.html",
-        "date": "2025-12-30 17:01:23",
-        "sentiment_score": -0.08623902499675751
-    },
-    {
-        "title": "2026 promete calentar el mercado móvil en España: VIVO y Xiaomi apuestan por traer los modelos Ultra a Europa",
-        "image_url": "https://s3.elespanol.com/2025/12/26/elandroidelibre/noticias-y-novedades/1003744069790_260664702_1706x960.jpg",
-        "tags": [
-            "móviles android",
-            "smartphones",
-            "vivo smartphones",
-            "xiaomi",
-            "españa"
-        ],
-        "link": "https://www.elespanol.com/elandroidelibre/moviles-android/20251230/promete-calentar-mercado-movil-espana-vivo-xiaomi-apuestan-traer-modelos-ultra-europa/1003744074110_0.html",
-        "date": "2025-12-30 17:01:16",
-        "sentiment_score": 0.6387880370020866
-    },
-    {
         "title": "El Real Madrid da un golpe de autoridad en la cancha del UCAM Murcia y despide 2025 como líder de la Liga Endesa",
         "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744074482_260720480_1706x960.jpg",
         "tags": [
@@ -3207,5 +3012,220 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260103/pagos-barca-mossos-seguridad-montjuic-descubierto/1003742683491_0.html",
         "date": "2026-01-02 23:14:00",
         "sentiment_score": -0.09843239188194275
+    },
+    {
+        "title": "La victoria, primer propósito del Athletic de año nuevo",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/8dcbe70f-d45a-403b-8c80-60a8b5f24b65_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "victoria",
+            "ano",
+            "primer",
+            "athletic",
+            "proposito"
+        ],
+        "link": "https://www.deia.eus/athletic/2026/01/03/victoria-primer-proposito-athletic-ano-10533503.html",
+        "date": "2026-01-03 06:30:46",
+        "sentiment_score": -0.06990289688110352
+    },
+    {
+        "title": "El Tribunal Supremo descarta el carácter sancionador de la reducción de rentabilidad a instalaciones renovables con litigios",
+        "image_url": "https://www.economistjurist.es/wp-content/uploads/sites/2/2026/01/ENERGETICAS.jpg",
+        "tags": [
+            "tribunal supremo",
+            "app",
+            "litigios arbitrales",
+            "sector eléctrico",
+            "artículos",
+            "incentivos regulatorios",
+            "energías renovables",
+            "rentabilidad razonable",
+            "artículo 25 ce",
+            "znoticia portada1"
+        ],
+        "link": "https://www.economistjurist.es/articulos-juridicos-destacados/el-tribunal-supremo-descarta-el-caracter-sancionador-de-la-reduccion-de-rentabilidad-a-instalaciones-renovables-con-litigios/",
+        "date": "2026-01-03 06:00:47",
+        "sentiment_score": -0.12301928550004959
+    },
+    {
+        "title": "Tradiciones de año nuevo: campanadas, 'necroporra' y 'rave'",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/6dc0b5da-b330-49cd-9115-1a7f04b9d5e8_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cristina pedroche",
+            "albacete",
+            "chenoa",
+            "estopa"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260103/tradiciones-ano-nuevo-campanadas-necroporra-rave-redes-125320264",
+        "date": "2026-01-03 06:00:04",
+        "sentiment_score": -0.4871346317231655
+    },
+    {
+        "title": "Luis García y la intrahistoria con un Real Zaragoza especial en su carrera",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b6d1df2e-4ce8-4692-8a7c-a36570c29785_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "real zaragoza"
+        ],
+        "link": "https://www.elperiodicodearagon.com/real-zaragoza/2026/01/03/luis-garcia-intrahistoria-real-zaragoza-125310178.html",
+        "date": "2026-01-03 05:58:00",
+        "sentiment_score": 0.055134981870651245
+    },
+    {
+        "title": "Stats & Facts RCDE | Espanyol – Barça: estadísticas, precedentes y curiosidades de un derbi que arde",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/estadisticas-stats-facts-espanyol-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/espanyol-barcelona-estadisticas-precedentes-curiosidades-derbi-jornada-18-laliga-25-26/",
+        "date": "2026-01-03 05:30:40",
+        "sentiment_score": 0.01438334584236145
+    },
+    {
+        "title": "Nico Paz y Mastantuono: ¿solo uno brillará en el nuevo Real Madrid?",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/10/2025121017310715266.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/2222222/20260103062834369199.html",
+        "date": "2026-01-03 05:28:34",
+        "sentiment_score": 0.6490733586251736
+    },
+    {
+        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 18 de LaLiga EA Sports 25-26 | El Rayo – Getafe abrió 2026 y hoy se juega un Espanyol – Barça que paraliza el país",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2026/01/laliga-ea-sports-25-26-jornada-18-viernes-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/liga-jornada-18-resultados-clasificacion-cronica-resumen-partidos-rcd-espanyol-barca-viernes/",
+        "date": "2026-01-03 05:15:41",
+        "sentiment_score": -0.2723274230957031
+    },
+    {
+        "title": "Ecuador a la vista: las primeras vueltas de la Real",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/7e4ad9a7-c7e8-405b-978c-5497bf6baeae_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sociedad",
+            "getafe",
+            "real",
+            "atlético",
+            "vista",
+            "vuelta",
+            "primera",
+            "ecuador"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/03/ecuador-vista-real-sociedad-vuelta-primera-atletico-getafe-10532606.html",
+        "date": "2026-01-03 05:00:49",
+        "sentiment_score": -0.02614954113960266
+    },
+    {
+        "title": "Sin fechas ni confirmación oficial de la visita del Papa a Santiago",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fa756048-440e-4185-9e2b-a8b872d23a4f_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "león xiv",
+            "españa",
+            "visita",
+            "compostela",
+            "santa sede",
+            "papa",
+            "santiago"
+        ],
+        "link": "https://www.elcorreogallego.es/santiago/2026/01/03/fechas-confirmacion-oficial-visita-papa-leon-santiago-espana-ano-santo-compostelano-125324671.html",
+        "date": "2026-01-03 05:00:34",
+        "sentiment_score": -0.5128031298518181
+    },
+    {
+        "title": "Diego Sanz: \"La música tiene que emocionar, entristecer, alegrar y hacernos sentir\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/89d558d8-f14f-43b3-b45d-4fc2c5f54b4b_16-9-aspect-ratio_default_0_x626y312.jpg",
+        "tags": [
+            "mozart",
+            "concierto",
+            "música"
+        ],
+        "link": "https://www.laopiniondemurcia.es/cultura/2026/01/03/diego-sanz-musica-emocionar-entristecer-125324430.html",
+        "date": "2026-01-03 05:00:32",
+        "sentiment_score": 0.14887674152851105
+    },
+    {
+        "title": "La DO Rueda esquiva las adversidades del sector y anota otro récord de ventas",
+        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2026/01/02/6957cc09ce35d.png",
+        "tags": [
+            "castilla y león"
+        ],
+        "link": "https://www.diariodecastillayleon.es/castilla-y-leon/260103/103932/do-rueda-esquiva-adversidades-sector-anota-record-ventas.html",
+        "date": "2026-01-03 06:30:00",
+        "sentiment_score": 0.23025841265916824
+    },
+    {
+        "title": "Rafael Barradas, el gran ignorado por los museos catalanes",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/01/02/EC3B5E2F-F828-469F-9648-9916C74F29E7/pacifico-puerta-atocha-cuadro-1918-propiedad-ayuntamiento-girona_69.jpg?crop=1900%2C1069%2Cx0%2Cy0&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/rafael-barradas-gran-ignorado-museos-catalanes_202601036958b51dea66eb735324f8ee.html",
+        "date": "2026-01-03 06:20:13",
+        "sentiment_score": -0.8484746180474758
+    },
+    {
+        "title": "“Me horroriza que la gente joven se esté todo el rato maquillando en las redes sociales”",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/19/6945ad0ef0fa1.r_d.326-333-7336.png",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.lavanguardia.com/gente/20260103/11381884/maria-adanez-rebela-frente-redes-sociales.html",
+        "date": "2026-01-03 06:15:10",
+        "sentiment_score": -0.6047077216207981
+    },
+    {
+        "title": "El año que Baltasar no se tuvo que pintar en la Cabalgata de Reyes Magos de Sevilla",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b035f383-6441-4b39-a9e7-1008ef6c2979_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cabalgata de los reyes magos,ateneo de sevilla,reyes magos,navidad en sevilla,navidad 2025"
+        ],
+        "link": "https://www.elcorreoweb.es/sevilla/2026/01/03/ano-baltasar-tuvo-pintar-cabalgata-reyes-magos-125095112.html",
+        "date": "2026-01-03 06:01:55",
+        "sentiment_score": -0.1954524964094162
+    },
+    {
+        "title": "PREVIA | Espanyol – FC Barcelona: el derbi del siglo",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/previa-Espanyol-FC-Barcelona-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/espanyol-fc-barcelona-previa-derbi-barca-joan-garcia-jornada-18-liga-25-26/",
+        "date": "2026-01-03 06:00:30",
+        "sentiment_score": 0.5586450099945068
+    },
+    {
+        "title": "Año Nuevo, viuda nueva",
+        "image_url": "https://static.grupojoly.com/clip/0fc9b9d5-8791-4ebe-b90b-bd67caa20d93_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias sevilla"
+        ],
+        "link": "https://www.diariodesevilla.es/sevilla/ano-nuevo-viuda-nueva_0_2005538728.html",
+        "date": "2026-01-03 06:00:27",
+        "sentiment_score": -0.800544947385788
+    },
+    {
+        "title": "Una expo resucita el poco conocido 'milagro' de Jujol en Sant Maria del Pi",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/e9abba64-4564-4381-bd20-9f4e1d67cdbc_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "arte",
+            "arquitectura",
+            "modernismo"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260103/expo-resucita-conocido-milagro-jujol-125311997",
+        "date": "2026-01-03 06:00:01",
+        "sentiment_score": 0.030378222465515137
+    },
+    {
+        "title": "Javi Puado vuelve a una convocatoria justo a tiempo para el derbi entre Espanyol y Barça",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/09/javi-puado-espanyol-valencia-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/convocatoria-espanyol-barca-vuelta-javi-puado/",
+        "date": "2026-01-03 05:54:07",
+        "sentiment_score": 0.8167606443166733
     }
 ];
