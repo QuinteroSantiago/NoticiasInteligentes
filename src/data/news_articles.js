@@ -1,176 +1,5 @@
 export default [
     {
-        "title": "El Madrid asume el final de ciclo de dos piezas que brillaron en LaLiga y en la Champions",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/23/2025022315062225233.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/madrid-asume-final-ciclo-dos-piezas-que-brillaron-laliga-champions/20251230072036368728.html",
-        "date": "2025-12-30 06:20:36",
-        "sentiment_score": -0.1007021889090538
-    },
-    {
-        "title": "El año para olvidar de Cayetano Rivera: una separación y varias polémicas",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2025/07/06/cayetano-rivera.r_d.455-157.jpeg",
-        "tags": [
-            "gente"
-        ],
-        "link": "https://www.20minutos.es/gente/ano-para-olvidar-cayetano-rivera-una-separacion-varias-polemicas_6915483_0.html",
-        "date": "2025-12-30 06:12:45",
-        "sentiment_score": -0.5623832680284977
-    },
-    {
-        "title": "Diez campanadas y dos campanazos taurinos para despedir 2025",
-        "image_url": "https://static.grupojoly.com/clip/ddcd2b30-6a53-49d6-a130-d646721f73a6_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "plaza de toros de la maestranza de sevilla",
-            "morante de la puebla"
-        ],
-        "link": "https://www.diariodesevilla.es/toros/diez-campanadas-campanazos-taurinos-despedir_0_2005524956.html",
-        "date": "2025-12-30 06:00:37",
-        "sentiment_score": -0.14440973103046417
-    },
-    {
-        "title": "Unicaja-Joventut: atajo hacia la Copa del Rey",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/269b6b88-b2c8-485a-8dcd-700ed57fe6d1_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unicaja",
-            "joventut",
-            "carpena",
-            "copa del rey",
-            "real madrid"
-        ],
-        "link": "https://www.laopiniondemalaga.es/unicaja/2025/12/30/unicaja-joventut-atajo-copa-rey-liga-carpena-partido-125238956.html",
-        "date": "2025-12-30 06:00:36",
-        "sentiment_score": 0.1131182461977005
-    },
-    {
-        "title": "Descubrimientos",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/eadd200d-7bf1-4ab6-9399-6e1cfbdab1de_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "lesión",
-            "valencia",
-            "unicaja",
-            "descubrimientos"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2025/12/30/descubrimientos-125233833.html",
-        "date": "2025-12-30 06:00:29",
-        "sentiment_score": 0.4680434614419937
-    },
-    {
-        "title": "Nochevieja, año nuevo. Doble latido de España",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0fbcdaf9-dd64-4263-9a35-0382c6d18957_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "españa,año nuevo,nochevieja,luz"
-        ],
-        "link": "https://www.laopiniondezamora.es/opinion/2025/12/30/nochevieja-ano-nuevo-doble-latido-125228174.html",
-        "date": "2025-12-30 06:00:24",
-        "sentiment_score": -0.06450960040092468
-    },
-    {
-        "title": "La cuesta de enero del Athletic será larga y a distancia",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/51be2d9a-4816-40b8-899e-8c35522fa84f_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "enero",
-            "larga",
-            "athletic",
-            "2026",
-            "a distancia",
-            "cuesta"
-        ],
-        "link": "https://www.deia.eus/athletic/2025/12/30/cuesta-enero-athletic-2026-larga-a-distancia-10522842.html",
-        "date": "2025-12-30 06:00:21",
-        "sentiment_score": 0.4296015799045563
-    },
-    {
-        "title": "Los Reyes Magos llegan a los distritos de Málaga: pasacalles, fiestas infantiles y degustación de roscones",
-        "image_url": "https://static.grupojoly.com/clip/b53a2b4a-c0d1-4a8b-9905-59b9963dffa6_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navidad málaga",
-            "qué hacer en málaga",
-            "últimas noticias málaga"
-        ],
-        "link": "https://www.malagahoy.es/malaga/reyes-magos-distritos-malaga-pasacalles-fiestas-roscones_0_2005524293.html",
-        "date": "2025-12-30 05:57:23",
-        "sentiment_score": 0.5723282545804977
-    },
-    {
-        "title": "Laporta, Yuste, Sala i Martín y Oliver son inocentes...mientras no se demuestre lo contrario",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/735d2b07-afab-45d4-9c01-65e8cfd2c35a_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "andá pallá bobo"
-        ],
-        "link": "https://www.elperiodico.com/es/deportes/20251230/laporta-yuste-sala-martin-oliver-125237976",
-        "date": "2025-12-30 05:46:19",
-        "sentiment_score": -0.6735229007899761
-    },
-    {
-        "title": "José Ramón: «Mientras el cuerpo me aguante, voy a seguir jugando al fútbol»",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/12/Choche-principal.jpg",
-        "tags": [
-            "josé ramón fernández lavado 'choche'",
-            "deportes",
-            "fútbol",
-            "tercera rfef",
-            "cd manchego",
-            "tercera rfef fútbol"
-        ],
-        "link": "https://www.lanzadigital.com/deportes/futbol/tercera-rfef/jose-ramon-mientras-el-cuerpo-me-aguante-voy-a-seguir-jugando-al-futbol/",
-        "date": "2025-12-30 05:42:47",
-        "sentiment_score": 0.04085183143615723
-    },
-    {
-        "title": "De Bad Bunny a La Oreja de Van Gogh: los 10 conciertos más esperados de 2026 en España",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/10/23/jon-imagen2-krgE-U240437967843SWG-562x562@El%20Correo.jpg",
-        "tags": [
-            "historias visuales",
-            "alejandro sanz",
-            "celtas cortos",
-            "rosalía",
-            "amaia montero"
-        ],
-        "link": "https://www.elcorreo.com/culturas/musica/bad-bunny-oreja-van-gogh-conciertos-esperados-20251229073002-ntrc.html",
-        "date": "2025-12-30 06:30:04",
-        "sentiment_score": 0.7311527971178293
-    },
-    {
-        "title": "Lo que debes saber hoy, 30 de diciembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/27/vivir-en-barcelona/1003742711189_15452134_1706x960.jpg",
-        "tags": [
-            "metro barcelona",
-            "aemet (agencia estatal de meteorología)",
-            "clima",
-            "movilidad",
-            "transports metropolitans barcelona tmb",
-            "tráfico",
-            "vivir en barcelona",
-            "tiempo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251230/debes-saber-hoy-diciembre-barcelona/1003742719793_0.html",
-        "date": "2025-12-30 06:26:48",
-        "sentiment_score": 0.45600826293230057
-    },
-    {
-        "title": "Vivienda, luz, agua, pensiones, transporte, telefonía, impuestos... todo lo que sube y baja de precio en 2026",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/12/29/6952f504e42db1-32203762.webp",
-        "tags": [
-            "economía y finanzas"
-        ],
-        "link": "https://www.20minutos.es/lainformacion/economia-y-finanzas/vivienda-luz-agua-pensiones-transporte-telefonia-impuestos-todo-que-sube-baja-precio-2026_6912986_0.html",
-        "date": "2025-12-30 06:19:35",
-        "sentiment_score": 0.19834931194782257
-    },
-    {
-        "title": "Pogacar, el único que siempre gana sobre una bici",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/cfe0d042-4522-4eff-b870-1dcab0a5ba2e_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "tadej pogacar"
-        ],
-        "link": "https://www.lacronicabadajoz.com/deportes/2025/12/30/pogacar-unico-gana-bici-protagonist-2025-125241166.html",
-        "date": "2025-12-30 06:19:28",
-        "sentiment_score": 0.43072961270809174
-    },
-    {
         "title": "Toledo, Talavera y Puertollano, ayuntamientos \"pobres en inversión social\" en 2024, según gerentes de servicios sociales",
         "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20251230181945_690.jpg",
         "tags": [
@@ -2969,5 +2798,166 @@ export default [
         "link": "https://www.europapress.es/deportes/futbol-00162/noticia-joan-garcia-regresa-casa-convertido-enemigo-20260102174930.html",
         "date": "2026-01-02 16:49:30",
         "sentiment_score": 0.06477832794189453
+    },
+    {
+        "title": "Encuentran muerta a la hija del actor Tommy Lee Jones en un hotel de San Francisco",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/0b/media_thumb-link-4131717.webp?1767348426=",
+        "tags": [
+            "tommy lee jones",
+            "actor",
+            "san francisco",
+            "actualidad",
+            "victoria jones"
+        ],
+        "link": "https://www.meneame.net/story/encuentran-muerta-hija-actor-tommy-lee-jones-hotel-san-francisco",
+        "date": "2026-01-02 18:15:02",
+        "sentiment_score": -0.2676515132188797
+    },
+    {
+        "title": "El Madrid sigue como en 2025 y remonta para ganar al Dubái",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dab791ef-164b-49f3-ac1e-e03c2b25f95f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real madrid de baloncesto",
+            "euroliga",
+            "baloncesto"
+        ],
+        "link": "https://www.eldia.es/deportes/2026/01/02/madrid-remonta-ganar-dubai-euroliga-125328672.html",
+        "date": "2026-01-02 22:05:35",
+        "sentiment_score": 0.75492063164711
+    },
+    {
+        "title": "El Real Madrid firma una nueva remontada en una segunda parte colosal ante el Dubái para empezar el año con victoria",
+        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744077169_260755805_1706x960.jpg",
+        "tags": [
+            "dubai",
+            "deportes",
+            "euroliga de baloncesto",
+            "real madrid baloncesto",
+            "baloncesto"
+        ],
+        "link": "https://www.elespanol.com/deportes/baloncesto/20260102/real-madrid-firma-nueva-remontada-segunda-parte-colosal-dubai-empezar-ano-victoria/1003744077134_0.html",
+        "date": "2026-01-02 21:42:40",
+        "sentiment_score": 0.7650856152176857
+    },
+    {
+        "title": "Programa WBA Future promueve el desarrollo de jóvenes boxeadores en Venezuela",
+        "image_url": "https://elpitazo.net/wp-content/uploads/2026/01/photo_5096326623874714474_y.jpg",
+        "tags": [
+            "qué acaba de pasar",
+            "deportes"
+        ],
+        "link": "https://elpitazo.net/deportes/programa-wba-future-promueve-el-desarrollo-de-jovenes-boxeadores-en-venezuela/",
+        "date": "2026-01-02 21:37:04",
+        "sentiment_score": 0.5179274454712868
+    },
+    {
+        "title": "El ocio nocturno ve «ambiguas» las normas sobre incendios en locales en España",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/02/sala-fiestas-suiza-kw7H-U240728177379GYB-1200x840@RC.jpg",
+        "tags": [
+            "suiza",
+            "nochevieja",
+            "ocio nocturno",
+            "sucesos"
+        ],
+        "link": "https://www.leonoticias.com/sociedad/ocio-nocturno-ambiguas-normas-sobre-incendios-locales-20260102231650-ntrc.html",
+        "date": "2026-01-02 22:16:54",
+        "sentiment_score": -0.8690072493627667
+    },
+    {
+        "title": "Del día a la noche con todo de cara",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/09d70f43-fd1f-4916-ac6d-4aec232fdd62_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cara",
+            "baskonia 93-108 fenerbahce euroliga",
+            "noche",
+            "dia"
+        ],
+        "link": "https://www.noticiasdealava.eus/baskonia/2026/01/02/dia-noche-cara-baskonia-93-108-fenerbahce-euroliga-10534409.html",
+        "date": "2026-01-02 22:03:09",
+        "sentiment_score": -0.8943952079862356
+    },
+    {
+        "title": "La mujer del alcalde de Nueva York luce botas 'made in Galicia'",
+        "image_url": "https://www.diariodepontevedra.es/media/diariodepontevedra/images/2026/01/02/2026010223004735098.webp",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.diariodepontevedra.es/articulo/gente/mujer-alcalde-nueva-york-luce-botas-made-in-galicia/202601022301451425949.html",
+        "date": "2026-01-02 22:01:45",
+        "sentiment_score": 0.02334250509738922
+    },
+    {
+        "title": "Por qué debes ver ‘No nos moverán’, la película que representará a México en los premios Oscar",
+        "image_url": "https://cst.brightspotcdn.com/dims4/default/4757236/2147483647/strip/true/crop/2250x1500+375+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F44%2Faa%2F175e7b9f49ef958b96c5e2ba5597%2Fweshallnotbemoved-3.jpg",
+        "tags": [
+            "top",
+            "entertainment"
+        ],
+        "link": "https://chicago.suntimes.com/la-voz/2026/01/02/por-que-debes-ver-no-nos-moveran-la-pelicula-que-representara-a-mexico-en-los-premios-oscar",
+        "date": "2026-01-02 22:00:29",
+        "sentiment_score": 0.18340599536895752
+    },
+    {
+        "title": "Dani Alves vuelve a escena y compra un club de Portugal: su plan sería regresar al fútbol tras ser absuelto por el delito de abuso sexual",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/03/14035553/La-resolucion-absolutoria-deja-sin-efecto-las-medidas-cautelares-adoptadas-contra-Dani-Alves-Foto-Archivo.jpg",
+        "tags": [
+            "mundo",
+            "deportes",
+            "sociedad"
+        ],
+        "link": "https://www.elnacional.com/2026/01/dani-alves-vuelve-a-escena-y-compra-un-club-de-portugal-su-plan-seria-regresar-al-futbol-tras-ser-absuelto-por-el-delito-de-abuso-sexual/",
+        "date": "2026-01-02 22:00:12",
+        "sentiment_score": -0.8722559316083789
+    },
+    {
+        "title": "Familiares de joven desaparecido solicitan ayuda para dar con su paradero",
+        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
+        "tags": [
+            "sucesos"
+        ],
+        "link": "https://eltiempove.com/familiares-de-joven-desaparecido-solicitan-ayuda-para-dar-con-su-paradero/",
+        "date": "2026-01-02 21:58:16",
+        "sentiment_score": -0.6365953385829926
+    },
+    {
+        "title": "Dónde han caído el bote de 31 millones de euros del Euromillones, el de 2,1 millones de euros de la Bonoloto, y los premios del Eurojackpot y la ONCE de hoy viernes 2 de enero de 2026",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2023/12/20/6FD0278D-9A94-4FE5-97BD-59763A767F2A/administracion-castellon-plana_98.jpg?crop=1080%2C608%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-bote-31-millones-euros-euromillones-21-millones-euros-bonoloto-premios-eurojackpot-once-hoy-viernes-2-enero_2026010269583e41af09df501099a795.html",
+        "date": "2026-01-02 21:53:05",
+        "sentiment_score": 0.056990429759025574
+    },
+    {
+        "title": "¡Ayuso, culpable!",
+        "image_url": "https://okdiario.com/img/2026/01/02/interior_rius.jpg",
+        "tags": [
+            "junts",
+            "generalitat cataluña",
+            "isabel díaz ayuso",
+            "psoe",
+            "tribunas",
+            "opinión",
+            "sanidad"
+        ],
+        "link": "https://okdiario.com/opinion/ayuso-culpable-16016463",
+        "date": "2026-01-02 21:51:34",
+        "sentiment_score": -0.7174938954412937
+    },
+    {
+        "title": "El milagro de Xavi Pascual con tres actores secundarios del Barça de basket: de sentenciados a estrellas del Palau",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/02/culemania/secciones/1003742720606_15568591_1706x960.jpg",
+        "tags": [
+            "kevin punter",
+            "secciones",
+            "baloncesto",
+            "fcb basket",
+            "xavi pascual"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260102/xavi-pascual-secundarios-barca-sentenciados-estrellas-palau/1003742720600_0.html",
+        "date": "2026-01-02 21:41:07",
+        "sentiment_score": 0.06313300132751465
     }
 ];
