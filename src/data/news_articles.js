@@ -2959,5 +2959,253 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260102/xavi-pascual-secundarios-barca-sentenciados-estrellas-palau/1003742720600_0.html",
         "date": "2026-01-02 21:41:07",
         "sentiment_score": 0.06313300132751465
+    },
+    {
+        "title": "Rüdiger en Sierra Leona: el viaje solidario del central madridista",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1767397997811/SP2AFYQQOBHKJE6RKLUI2X6PDU.jpg?ch=675&cw=1200",
+        "tags": [
+            "sierra leona",
+            "rüdiger",
+            "real madrid",
+            "fundación",
+            "antonio rüdiger"
+        ],
+        "link": "https://2001online.com/deportes/rudiger-en-sierra-leona-el-viaje-solidario-del-central-madridista-2026122300",
+        "date": "2026-01-03 02:07:08",
+        "sentiment_score": -0.1249912828207016
+    },
+    {
+        "title": "Tragedias, accidentes, muertes y reconocimientos: las historias que conmovieron a Perú en 2025",
+        "image_url": "https://www.infobae.com/resizer/v2/S65OF3IBWVBCTJZYMH7UGM7OW4.png?auth=8e432eee41f17807b598441c9f37d806430528c825ede3868cca25c94496591d&height=1080&smart=true&width=1920",
+        "tags": [
+            "agosto 2025",
+            "resumen del año",
+            "año nuevo 2026",
+            "peru-noticias"
+        ],
+        "link": "https://www.infobae.com/peru/2026/01/03/tragedias-accidentes-muertes-y-reconocimientos-las-historias-que-conmovieron-a-peru-en-2025/",
+        "date": "2026-01-03 01:43:46",
+        "sentiment_score": -0.8382336404174566
+    },
+    {
+        "title": "España se acerca a los 100 millones de visitantes mientras el gasto turístico bate récords",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/95acc8c53e6ace282f1e283955704ae3/crop/83x195/643x755/f/image/jpeg/assets/multimedia/imagenes/2022/05/18/16529079984891.jpg",
+        "tags": [
+            "artículos gabriela galarza",
+            "turismo"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/01/03/6958049ee9cf4af5108b459b.html",
+        "date": "2026-01-03 01:20:05",
+        "sentiment_score": 0.13487297296524048
+    },
+    {
+        "title": "107-93. El Madrid inicia 2026 respetando las tradiciones y remonta para ganar al Dubái",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/03/69586d6232423.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.eldebate.com/internacional/20260103/10793-madrid-inicia-2026-respetando-tradiciones-remonta-ganar-dubai_370868.html",
+        "date": "2026-01-03 01:16:25",
+        "sentiment_score": 0.5324616357684135
+    },
+    {
+        "title": "'Sé agua', la ambiciosa fábula tecnológica de Andrés Ortega sobre la identidad en tiempos de inteligencia artificial",
+        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070723_260675882_1706x960.jpg",
+        "tags": [
+            "letras",
+            "novela",
+            "ec-critica-letras"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/letras/20260103/agua-ambiciosa-fabula-tecnologica-andres-ortega-identidad-tiempos-inteligencia-artificial/1003744070712_0.html",
+        "date": "2026-01-03 00:55:00",
+        "sentiment_score": -0.17935492098331451
+    },
+    {
+        "title": "El plan especial que tiene el Real Madrid con Franco Mastantuono: la estrategia para darle protagonismo",
+        "image_url": "https://www.infobae.com/resizer/v2/KBDQUG2UPNDMFG5KW37DMCK4DM.JPG?auth=84dbb80e8cb94c1eded73981743602b09b6a2c228582c9b12f8069680e13420e&height=1020&smart=true&width=1813",
+        "tags": [
+            "deportes-argentina",
+            "franco mastantuono",
+            "real madrid"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/03/el-plan-especial-que-tiene-el-real-madrid-con-franco-mastantuono-la-estrategia-para-darle-protagonismo/",
+        "date": "2026-01-03 00:46:34",
+        "sentiment_score": 0.3386685214936733
+    },
+    {
+        "title": "Brahim, renovación pactada y gran icono de la Copa África: un fenómeno en Marruecos que invade anuncios y gasolineras",
+        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076613_260747972_1706x960.jpg",
+        "tags": [
+            "copa de áfrica de fútbol",
+            "fútbol",
+            "selección de fútbol de marruecos",
+            "real madrid cf",
+            "brahim díaz"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260103/brahim-renovacion-pactada-gran-icono-copa-africa-fenomeno-marruecos-invade-anuncios-gasolineras/1003744076370_0.html",
+        "date": "2026-01-03 00:40:00",
+        "sentiment_score": 0.5342549458146095
+    },
+    {
+        "title": "Luis Díaz generó un vendaval de reacciones en España por tener mejor presente que una de las estrellas del Barcelona: “Su experiencia se ha notado”",
+        "image_url": "https://www.infobae.com/resizer/v2/O34FBMIC6NFP7AKYARYMYCPX3Q.jpg?auth=0d0c32e28eff6eebbe2c17509f770ada9fa45d59688341f6dfc83073d9ff4f11&height=4433&smart=true&width=6649",
+        "tags": [
+            "fc barcelona",
+            "prensa española",
+            "estrellas del barcelona",
+            "marcus rashford",
+            "colombia-deportes",
+            "luis díaz barcelona",
+            "luis díaz"
+        ],
+        "link": "https://www.infobae.com/colombia/deportes/2026/01/03/luis-diaz-genero-un-vendaval-de-reacciones-en-espana-por-tener-mejor-presente-que-una-de-las-estrellas-del-barcelona-su-experiencia-se-ha-notado/",
+        "date": "2026-01-03 00:34:11",
+        "sentiment_score": 0.5895493179559708
+    },
+    {
+        "title": "Úrsula Corberó, C. Tangana y Fernando Alonso, rumbo a la paternidad: todos los famosos que esperan un bebé este 2026",
+        "image_url": "https://s3.elespanol.com/2025/12/11/actualidad/1003744051797_260433920_1706x960.jpg",
+        "tags": [
+            "melissa jiménez",
+            "nacimientos",
+            "hijos de famosos",
+            "úrsula corberó",
+            "famosos",
+            "isabelle junot",
+            "ana boyer"
+        ],
+        "link": "https://www.elespanol.com/corazon/famosos/20260103/ursula-corbero-tangana-fernando-alonso-rumbo-paternidad-famosos-esperan-bebe/1003744050992_0.html",
+        "date": "2026-01-03 00:33:00",
+        "sentiment_score": 0.10639122873544693
+    },
+    {
+        "title": "Equipos de la LVBP se reforzaron de cara al Round Robin",
+        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2026/01/LVBP-1-696x392-1.jpg",
+        "tags": [
+            "béisbol",
+            "deportes",
+            "round robin",
+            "02ene"
+        ],
+        "link": "https://laverdaddemonagas.com/2026/01/02/equipos-de-la-lvbp-round-robin/",
+        "date": "2026-01-03 00:20:52",
+        "sentiment_score": 0.06273457407951355
+    },
+    {
+        "title": "Jordi Merca, de camarero a llevar 8 años con el show 'Yo sobreviví a la EGB': \"Me ha dado para la entrada de un piso\"",
+        "image_url": "https://s3.elespanol.com/2025/12/24/actualidad/1003744069071_260655157_1706x960.jpg",
+        "tags": [
+            "teatro",
+            "planes",
+            "ocio",
+            "madrid",
+            "comedia"
+        ],
+        "link": "https://www.elespanol.com/madrid/ocio/20260103/jordi-merca-camarero-llevar-anos-show-sobrevivi-egb-dado-entrada-piso-dl/1003744068253_0.html",
+        "date": "2026-01-03 01:00:00",
+        "sentiment_score": 0.31791627407073975
+    },
+    {
+        "title": "\"Busco empadronamiento. Sólo gente seria\": la 'mafia del padrón' engaña a migrantes por 4.000 € para obtener la residencia",
+        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744077054_260754202_1706x960.jpg",
+        "tags": [
+            "inmigración ilegal",
+            "reportajes",
+            "inmigración",
+            "inmigrantes",
+            "porfolio"
+        ],
+        "link": "https://www.elespanol.com/reportajes/20260103/busco-empadronamiento-solo-gente-mafia-padron-engana-migrantes-eur-obtener-residencia/1003744074711_0.html",
+        "date": "2026-01-03 00:40:00",
+        "sentiment_score": -0.12168796360492706
+    },
+    {
+        "title": "02 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/02-ene-2026-partidazo-cope-20260103_3280521.html",
+        "date": "2026-01-03 00:40:00",
+        "sentiment_score": 0.6449189260601997
+    },
+    {
+        "title": "La denuncia sindical contra el Barça prospera: la seguridad privada del derbi catalán irá equipada como los Mossos",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/03/13/vida/839676222_12612541_1706x960.jpg",
+        "tags": [
+            "fc barcelona",
+            "rcd espanyol",
+            "fuerzas y cuerpos de seguridad del estado",
+            "mossos d'esquadra",
+            "sindicatos",
+            "vigilantes de seguridad",
+            "culemaníacos"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260103/denuncia-sindical-barca-prospera-seguridad-equipada-mossos/1003742720550_0.html",
+        "date": "2026-01-03 00:21:39",
+        "sentiment_score": 0.17407195270061493
+    },
+    {
+        "title": "#OasisDeLibertad (02-01-2026)",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "oasisdelibertad"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/oasisdelibertad/audios/oasisdelibertad-02-20260103_3280519.html",
+        "date": "2026-01-03 00:18:03",
+        "sentiment_score": -0.12687347829341888
+    },
+    {
+        "title": "\"Voy a pisar a Lamine Yamal\": Pere Milla incendia la previa del derbi catalán",
+        "image_url": "https://pxcdn.2001online.com/2001/012026/1767397529106/68d3c4e8cf11f.jpeg?ch=675&cw=1200",
+        "tags": [
+            "espanyol",
+            "lamine yamal",
+            "laliga",
+            "cataluña",
+            "pere milla",
+            "fc barcelona",
+            "españa",
+            "espanyol vs barcelona"
+        ],
+        "link": "https://2001online.com/deportes/voy-a-pisar-a-lamine-yamal-pere-milla-incendia-la-previa-del-derbi-catalan-2026122100",
+        "date": "2026-01-03 00:10:04",
+        "sentiment_score": -0.21400120109319687
+    },
+    {
+        "title": "El Espanyol y la muralla que frena su crecimiento económico: mucho más que un derbi contra el Barça",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/07/15/culemania/palco/1003742674110_14875767_1706x960.jpg",
+        "tags": [
+            "rcd espanyol",
+            "primer equipo",
+            "laliga",
+            "joan garcía"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260103/espanyol-muralla-frena-crecimiento-economico-derbi-barca/1003742720445_0.html",
+        "date": "2026-01-02 23:39:54",
+        "sentiment_score": 0.3658077232539654
+    },
+    {
+        "title": "Las localidades donde más veces ha caído el primer premio del Sorteo de El Niño",
+        "image_url": "https://static.grupojoly.com/clip/56d0cf6e-5185-4f45-b27a-507ea7208ee4_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "loterías"
+        ],
+        "link": "https://www.diariodesevilla.es/loteria-de-navidad/localidades-veces-caido-primer-premio_0_2005538881.html",
+        "date": "2026-01-02 23:33:41",
+        "sentiment_score": 0.6014183685183525
+    },
+    {
+        "title": "Los pagos del Barça a los Mossos por la seguridad de Montjuïc, al descubierto",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/03/11/culemania/culemaniacos/930417098_14248799_1706x960.png",
+        "tags": [
+            "camp nou",
+            "joan laporta",
+            "palco",
+            "mossos d'esquadra"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260103/pagos-barca-mossos-seguridad-montjuic-descubierto/1003742683491_0.html",
+        "date": "2026-01-02 23:14:00",
+        "sentiment_score": -0.09843239188194275
     }
 ];
