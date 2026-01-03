@@ -1,433 +1,5 @@
 export default [
     {
-        "title": "El Betis se aferra a Isco: esto es lo que durará la recuperación que podría marcar la temporada",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/03/14/2025031414544965158.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/cuanto-tiempo-estara-isco-baja-betis-aferra-recuperacion-plena/20251229231617368711.html",
-        "date": "2025-12-29 22:16:17",
-        "sentiment_score": -0.8670723801478744
-    },
-    {
-        "title": "Estos son todos los campeones de la Copa del Rey",
-        "image_url": "https://pxcdn.meridiano.net/122025/1767048395118.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/espanol/estos-son-todos-los-campeones-de-la-copa-del-rey-2025122918160",
-        "date": "2025-12-29 22:16:00",
-        "sentiment_score": 0.17226672545075417
-    },
-    {
-        "title": "Muere Enrique Collar, leyenda del Atlético de Madrid, a los 91 años",
-        "image_url": "https://okdiario.com/img/2025/12/29/imagen_recortada-3-1.jpg",
-        "tags": [
-            "atlético de madrid",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/muere-enrique-collar-leyenda-del-atletico-madrid-91-anos-16001810",
-        "date": "2025-12-29 22:10:39",
-        "sentiment_score": -0.7523191310465336
-    },
-    {
-        "title": "Linares se prepara para la llegada de los Reyes Magos, que repartirán 7.300 kilos de caramelos",
-        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2025/12/29/20251229%20-%20Los%20Reyes%20Magos%20repartirn%207.300%20kilos%20de%20caramelos%20y%20miles%20de%20regalos%20en%20su%20visita%20a%20la%20ciudad%20(2)-ky6H-U240697189145hAC-1200x840@Ideal.JPG",
-        "tags": [
-            "linares",
-            "san francisco",
-            "reyes magos",
-            "linares deportivo",
-            "música"
-        ],
-        "link": "https://www.ideal.es/jaen/linares/linares-prepara-llegada-reyes-magos-repartiran-7300-20251229224500-nt.html",
-        "date": "2025-12-29 21:45:01",
-        "sentiment_score": 0.246633131057024
-    },
-    {
-        "title": "El Celta se intermpone en el camino de un refuerzo monitoreado por el Espanyol",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/12/29/2025122922263894763.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/celta-intermpone-camino-refuerzo-monitoreado-espanyol/20251229222720368704.html",
-        "date": "2025-12-29 21:27:20",
-        "sentiment_score": 0.40540653467178345
-    },
-    {
-        "title": "Partido urgente para curar las heridas del derbi",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/30662213-9aee-4e62-9172-c67ccbf7c2d3_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "pabellón santiago martín",
-            "txus vidorreta",
-            "liga endesa",
-            "cb canarias",
-            "acb"
-        ],
-        "link": "https://www.eldia.es/deportes/cb-canarias/2025/12/29/partido-urgente-curar-heridas-derbi-125237698.html",
-        "date": "2025-12-29 20:43:20",
-        "sentiment_score": -0.28752565383911133
-    },
-    {
-        "title": "Cristiano Ronaldo: Quiero llegar a la cifra que todos saben y estoy seguro que llegaré",
-        "image_url": "https://laverdaddemonagas.com/wp-content/uploads/2025/12/CR7-696x392-1.jpg",
-        "tags": [
-            "carrera",
-            "deportes",
-            "1000",
-            "cr7",
-            "29dic",
-            "goles"
-        ],
-        "link": "https://laverdaddemonagas.com/2025/12/29/cristiano-ronaldo-2/",
-        "date": "2025-12-29 20:32:54",
-        "sentiment_score": 0.2743562310934067
-    },
-    {
-        "title": "Córdoba escapa de las fuertes tensiones del precio de la vivienda: cierra 2025 con una subida del 2,8%",
-        "image_url": "https://s3.abcstatics.com/abc/www/multimedia/espana/2025/12/29/bloques-obras-cordoba-km3H-U1014197469546oG-1200x840@diario_abc.jpg",
-        "tags": [
-            "madrid (ciudad)",
-            "palencia",
-            "córdoba",
-            "ceuta",
-            "españa",
-            "vivienda",
-            "andalucía"
-        ],
-        "link": "https://www.abc.es/espana/andalucia/cordoba/cordoba-escapa-fuertes-tensiones-precio-vivienda-cierra-20251229113745-nts.html",
-        "date": "2025-12-29 20:30:36",
-        "sentiment_score": -0.10866741836071014
-    },
-    {
-        "title": "El feriante de Cáceres ya tenía una orden de alejamiento por amenazar con un arma al empresario sevillano",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2025/12/29/OTRAGENERALCCFETEN-RE2TbgrEB7nO6X4eyLlJahK-1200x840@Hoy.jpg",
-        "tags": [
-            "cáceres",
-            "sucesos de extremadura"
-        ],
-        "link": "https://www.hoy.es/caceres/feriante-caceres-orden-alejamiento-amenazar-arma-empresario-20251229190927-nt.html",
-        "date": "2025-12-29 19:49:14",
-        "sentiment_score": -0.7728342898190022
-    },
-    {
-        "title": "Cristiano Ronaldo quiere alcanzar 1.000 goles antes de terminar su carrera, lleva 956",
-        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/4f369d8/2147483647/strip/true/crop/2634x1383+0+187/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe8%2Fa4%2Fabda5ae74debb89dbcb3ee975f3a%2Fdd603f17acbe48f2abf327cfe740b5b0.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.latimes.com/espanol/deportes/articulo/2025-12-29/cristiano-ronaldo-quiere-alcanzar-1-000-goles-antes-de-terminar-su-carrera-lleva-956",
-        "date": "2025-12-29 19:41:41",
-        "sentiment_score": 0.6007116064429283
-    },
-    {
-        "title": "Más de 30 adultos mayores permanecen como presos políticos en el país",
-        "image_url": "https://www.el-carabobeno.com/wp-content/uploads/2025/12/adultos-mayores-presos-politicos.png",
-        "tags": [
-            "rec1",
-            "rec",
-            "tuit2",
-            "nacional",
-            "rec4",
-            "rec3",
-            "faceb2"
-        ],
-        "link": "https://www.el-carabobeno.com/30-adultos-mayores-permanecen-como-presos-politicos-en-el-pais/",
-        "date": "2025-12-29 22:17:00",
-        "sentiment_score": -0.8575140116736293
-    },
-    {
-        "title": "“¡Es un mago!“: a los 45 años, Ronaldinho sorprendió con tres pases ”no look\" en un partido de fútbol-vóley",
-        "image_url": "https://www.infobae.com/resizer/v2/BTE5DVT2ARAKNNMICRQMV64BGM.jpg?auth=7e7f15b454ef0c0204edb14d4e47b36dabe824cde92023ee81ce3619eb3b647e&height=1080&smart=true&width=1920",
-        "tags": [
-            "deportes-internacional",
-            "ronaldinho",
-            "deportes-argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/29/es-un-mago-a-los-45-anos-ronaldinho-sorprendio-con-tres-pases-no-look-en-un-partido-de-futbol-voley/",
-        "date": "2025-12-29 22:12:45",
-        "sentiment_score": 0.05608603358268738
-    },
-    {
-        "title": "Hugo González de Oliveira vuelve a ganar el Torneo Internacional de Navidad",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/bb1d6c00-0c1c-4ec4-8381-c1b1862d2a22_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "oliveira",
-            "gonzalez",
-            "ganar",
-            "hugo",
-            "vuelve"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/deportes/2025/12/29/hugo-gonzalez-oliveira-vuelve-ganar-10523211.html",
-        "date": "2025-12-29 22:11:13",
-        "sentiment_score": 0.023645326495170593
-    },
-    {
-        "title": "Sintrasalud: Ministerio de Salud envió sólo 500 juguetes para un censo de siete mil niños",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "locales",
-            "salud"
-        ],
-        "link": "https://eltiempove.com/sintrasalud-ministerio-de-salud-envio-solo-500-juguetes-para-un-censo-de-siete-mil-ninos/",
-        "date": "2025-12-29 21:53:03",
-        "sentiment_score": -0.7639569826424122
-    },
-    {
-        "title": "La Fiscalía investigará las denuncias por acoso sexual contra el catedrático Ramón Flecha",
-        "image_url": "https://theobjective.com/wp-content/uploads/2025/12/fisclia.jpg",
-        "tags": [
-            "violencia",
-            "violencia de género",
-            "fiscalía",
-            "denuncias",
-            "sociedad",
-            "acoso sexual"
-        ],
-        "link": "https://theobjective.com/sociedad/2025-12-29/fiscalia-denuncias-acoso-sexual-contra-catedratico/",
-        "date": "2025-12-29 21:52:39",
-        "sentiment_score": -0.846434710547328
-    },
-    {
-        "title": "La subida de la vivienda triplica la inflación en la mitad de las capitales",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/c304bde3a98a385dfd2466bfa1ad3b01/f/webp/assets/multimedia/imagenes/2025/12/29/17670448141686.jpg",
-        "tags": [
-            "economía>"
-        ],
-        "link": "https://www.expansion.com/economia/2025/12/29/6952f744468aeb477e8b4588.html",
-        "date": "2025-12-29 21:48:56",
-        "sentiment_score": 0.08130517601966858
-    },
-    {
-        "title": "Los precios de la vivienda aceleran la crisis y exigen más esfuerzo a los hogares españoles",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/f2f6ab53c349e081fbbb687d4089352e/crop/412x0/2460x2048/f/image/jpeg/assets/multimedia/imagenes/2025/10/03/17595033174068.jpg",
-        "tags": [
-            "vivienda",
-            "nlpremium",
-            "artículos daniela saltos"
-        ],
-        "link": "https://www.elmundo.es/economia/2025/12/29/69526db4fc6c8383758b458c.html",
-        "date": "2025-12-29 21:48:03",
-        "sentiment_score": 0.22543121129274368
-    },
-    {
-        "title": "Carlos Alcaraz rozó la perfección en un curso para enmarcar",
-        "image_url": "https://cflvdg.avoz.es/sc/0R9_695Ah2JhDwktHV6x9p-4Vds=/768x/2025/12/29/00121767040802180423327/Foto/j_20251229_174854000.jpg",
-        "tags": [
-            "carlos alcaraz",
-            "tenis",
-            "deportes"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/deportes/2025/12/29/carlos-alcaraz-rozo-perfeccion-curso-enmarcar/00031767040832665746128.htm",
-        "date": "2025-12-29 21:35:00",
-        "sentiment_score": 0.8706930000334978
-    },
-    {
-        "title": "Dónde han caído los premios de la Bonoloto, Primitiva, Eurodreams y ONCE de hoy, lunes 29 de diciembre",
-        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2023/12/20/6FD0278D-9A94-4FE5-97BD-59763A767F2A/administracion-castellon-plana_98.jpg?crop=1080%2C608%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
-        "tags": [
-            "antena 3 noticias",
-            "loterías"
-        ],
-        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-premios-bonoloto-primitiva-eurodreams-once-hoy-lunes-29-diciembre_202512296952f3d6af09df501096a14a.html",
-        "date": "2025-12-29 21:34:14",
-        "sentiment_score": 0.048016153275966644
-    },
-    {
-        "title": "60 años de la llegada de Mary Poppins",
-        "image_url": "https://static.grupojoly.com/clip/ff057008-94ff-4db1-a112-ae79a64bcdf5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "anos",
-            "60",
-            "mary",
-            "poppins",
-            "llegada"
-        ],
-        "link": "https://www.malagahoy.es/opinion/articulos/60-anos-llegada-mary-poppins_0_2005526198.html",
-        "date": "2025-12-30 02:07:14",
-        "sentiment_score": 0.0463620126247406
-    },
-    {
-        "title": "El año en el que vimos por primera vez condenado a un fiscal general y a dos altos dirigentes del PSOE en la cárcel",
-        "image_url": "https://s3.elespanol.com/2025/12/20/actualidad/1003744064522_260597543_1706x960.jpg",
-        "tags": [
-            "begoña gómez",
-            "pedro sánchez",
-            "cgpj",
-            "fiscalía general del estado",
-            "cristóbal montoro",
-            "carles puigdemont",
-            "tribunal supremo",
-            "gobierno de españa",
-            "josé luis ábalos",
-            "corrupción"
-        ],
-        "link": "https://www.elespanol.com/espana/tribunales/20251230/ano-vimos-primera-vez-condenado-fiscal-general-altos-dirigentes-psoe-carcel/1003744072981_0.html",
-        "date": "2025-12-30 02:01:46",
-        "sentiment_score": -0.6529106087982655
-    },
-    {
-        "title": "“Vuelve el rey”: Salomón Rondón regresa al fútbol mexicano",
-        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2025/12/29215604/Screenshot-2025-12-29-9.55.06-PM.png",
-        "tags": [
-            "fútbol",
-            "deportes",
-            "pachuca",
-            "salomón rondón"
-        ],
-        "link": "https://www.elnacional.com/2025/12/vuelve-el-rey-salomon-rondon-regresa-al-futbol-mexicano/",
-        "date": "2025-12-30 02:01:27",
-        "sentiment_score": 0.4486266039311886
-    },
-    {
-        "title": "El «engaño» climático: la AEMET pasa de pronosticar un invierno «más cálido de lo normal» a reconocer que es la Navidad más fría en 15 años",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/98-28-1-1.jpg",
-        "tags": [
-            "aemet",
-            "cambio climático",
-            "españa",
-            "lluvias",
-            "invierno"
-        ],
-        "link": "https://gaceta.es/espana/el-engano-climatico-la-aemet-pasa-de-pronosticar-un-invierno-mas-calido-de-lo-normal-a-reconocer-que-es-la-navidad-mas-fria-en-15-anos-20251230-0241/",
-        "date": "2025-12-30 01:41:00",
-        "sentiment_score": -0.8706876877695322
-    },
-    {
-        "title": "29 DIC 2025 | EL PARTIDAZO DE COPE",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/29-dic-2025-partidazo-cope-20251230_3278845.html",
-        "date": "2025-12-30 00:45:00",
-        "sentiment_score": -0.11538290977478027
-    },
-    {
-        "title": "María García de Jaime tiene la camisa de popelina negra con tachuelas plateadas que te eleva cualquier look",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070629_260674639_1706x960.jpg",
-        "tags": [
-            "el estilo",
-            "camisas",
-            "estilo",
-            "moda"
-        ],
-        "link": "https://www.elespanol.com/corazon/estilo/20251230/maria-garcia-jaime-camisa-popelina-negra-tachuelas-plateadas-eleva-cualquier-look/1003744070617_0.html",
-        "date": "2025-12-30 00:33:00",
-        "sentiment_score": 0.44257359579205513
-    },
-    {
-        "title": "Apoyo al Tutor de Pymes: la iniciativa que conecta empresas pequeñas con la FP dual",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7011bba-a36d-4721-bce8-aa0e1e4a59c7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://www.laprovincia.es/ideas/Camara-de-Comercio-apoyo-PYMES/index.html",
-        "date": "2025-12-30 01:59:56",
-        "sentiment_score": -0.15657201409339905
-    },
-    {
-        "title": "El 'caso Reus' amenaza la reputación de Laporta antes de las elecciones del Barça: el presidente, investigado por estafa",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/03/19/culemania/palco/932416892_14294241_1706x960.png",
-        "tags": [
-            "juicio",
-            "joan laporta",
-            "fc barcelona",
-            "reus",
-            "palco",
-            "estafas"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251230/reus-reputacion-laporta-elecciones-barca-presidente-investigado/1003742719790_0.html",
-        "date": "2025-12-30 00:41:00",
-        "sentiment_score": -0.8833275763317943
-    },
-    {
-        "title": "David y José Muñoz (Estopa), en la intimidad: historias de amor paralelas, hijos y la empresa de música que gestiona su padre",
-        "image_url": "https://s3.elespanol.com/2025/12/29/corazon/famosos/1003744072548_260697856_1706x960.jpg",
-        "tags": [
-            "famosos",
-            "tve (televisión española)",
-            "estopa",
-            "campanadas"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251230/david-jose-munoz-estopa-intimidad-historias-amor-paralelas-hijos-empresa-musica-gestiona-padre/1003744072277_0.html",
-        "date": "2025-12-30 00:33:00",
-        "sentiment_score": 0.15588265284895897
-    },
-    {
-        "title": "Carles Vilarrubí i Carrió",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2025/12/28/6951a161b99f3.r_d.981-537.jpeg",
-        "tags": [
-            "obituarios"
-        ],
-        "link": "https://www.eldebate.com/obituarios/20251230/exitoso-empresario-catalan-llego-vicepresidencia-fc-barcelona_369556.html",
-        "date": "2025-12-30 00:30:00",
-        "sentiment_score": -0.06008428335189819
-    },
-    {
-        "title": "Joan Collet sobre Joan Garcia: \"No podemos caer en el error de lo que pasó con Figo\"",
-        "image_url": "https://www.infobae.com/resizer/v2/VPC7JX6INNDOJERH66V2T35RVY.jpg?auth=90eaae90f4e13367b8e231762c49613baae1923cebab1812261558e9402319a8&height=1279&smart=true&width=1920",
-        "tags": [
-            "mossos desquadra",
-            "rcd espanyol",
-            "manolo gonzález",
-            "fc barcelona",
-            "joan garcia",
-            "europapress",
-            "joan collet",
-            "fútbol español",
-            "derbi catalán",
-            "rcde stadium",
-            "cataluña"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/30/joan-collet-sobre-joan-garcia-no-podemos-caer-en-el-error-de-lo-que-paso-con-figo/",
-        "date": "2025-12-30 00:15:56",
-        "sentiment_score": -0.7868030834943056
-    },
-    {
-        "title": "Lionel Messi posó con una camiseta del fútbol argentino y causó furor: “El mejor del mundo, con la remera más linda del mundo”",
-        "image_url": "https://www.infobae.com/resizer/v2/47FYXM3FMZEADDD2GPEH5RYFOY.jfif?auth=08daf653e6637433260a5e47a0c485517c15f298fe0684b2300865bcd51416ca&height=412&smart=true&width=732",
-        "tags": [
-            "lionel messi",
-            "tristán suárez",
-            "selección argentina",
-            "inter miami"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/30/lionel-messi-poso-con-una-camiseta-del-futbol-argentino-y-causo-furor-el-mejor-del-mundo-con-la-remera-mas-linda-del-mundo/",
-        "date": "2025-12-30 00:01:32",
-        "sentiment_score": 0.19057904183864594
-    },
-    {
-        "title": "El Hospital Quirónsalud Tenerife, líder de la sanidad privada canaria según el Índice de Excelencia Hospitalaria 2025",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a0c7453f-a172-43bd-b96d-43557e2e03e4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "españa",
-            "hospital quirónsalud",
-            "sanidad privada",
-            "innovación",
-            "tenerife",
-            "canarias",
-            "quirónsalud"
-        ],
-        "link": "https://www.eldia.es/tenerife/2025/12/30/hospital-quironsalud-tenerife-lider-sanidad-125239478.html",
-        "date": "2025-12-29 23:59:00",
-        "sentiment_score": 0.7100261524319649
-    },
-    {
-        "title": "Arranca 2026 con empleo: cadena de supermercados y farmacias ofrece estas vacantes en varios estados",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1767054371929.jpg?ch=675&cw=1200",
-        "tags": [
-            "redvital",
-            "makro"
-        ],
-        "link": "https://2001online.com/servicios/arranca-2026-con-empleo-cadena-de-supermercados-y-farmacias-ofrece-estas-vacantes-en-varios-estados-2025122919510",
-        "date": "2025-12-29 23:51:00",
-        "sentiment_score": 0.06194693595170975
-    },
-    {
         "title": "El Madrid asume el final de ciclo de dos piezas que brillaron en LaLiga y en la Champions",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/02/23/2025022315062225233.jpg",
         "tags": [
@@ -3170,5 +2742,232 @@ export default [
         "link": "https://www.europasur.es/entrevistas/juan-carlos-arias-robo-copia_0_2005535126.html",
         "date": "2026-01-02 06:01:26",
         "sentiment_score": -0.756523635238409
+    },
+    {
+        "title": "Venezuela detiene a varios ciudadanos estadounidenses mientras aumentan las tensiones con EE.UU",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/0b/media_thumb-link-4131653.webp?1767317226=",
+        "tags": [
+            "ee.uu",
+            "detención",
+            "ciudadanos estadounidense",
+            "venezuela",
+            "politica"
+        ],
+        "link": "https://www.meneame.net/story/venezuela-detiene-varios-ciudadanos-estadounidenses-mientras-ee",
+        "date": "2026-01-02 15:30:04",
+        "sentiment_score": -0.43761805817484856
+    },
+    {
+        "title": "Roberto Carlos desmiente que tuvo un infarto cardíaco",
+        "image_url": "https://elperiodicodemonagas.com.ve/wp-content/uploads/2026/01/Roberto-Carlos-desmiente-que-tuvo-un-infarto-cardiaco-768x384.jpg",
+        "tags": [
+            "entretenimiento"
+        ],
+        "link": "https://elperiodicodemonagas.com.ve/entretenimiento/roberto-carlos-desmiente-que-tuvo-un-infarto-cardiaco/",
+        "date": "2026-01-02 17:12:50",
+        "sentiment_score": -0.65807681158185
+    },
+    {
+        "title": "17:00H | 02 ENE 2026 | La Tarde",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "la tarde"
+        ],
+        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-02-ene-2026-tarde-20260102_3280422.html",
+        "date": "2026-01-02 17:07:00",
+        "sentiment_score": -0.05799320340156555
+    },
+    {
+        "title": "Roborock se convierte en el patrocinador global del Real Madrid: \"Buscamos compartir valores fundamentales\"",
+        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076777_260750190_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "hardware",
+            "españa",
+            "deportes"
+        ],
+        "link": "https://www.elespanol.com/omicrono/tecnologia/20260102/roborock-convierte-patrocinador-global-real-madrid-buscamos-compartir-valores-fundamentales/1003744076764_0.html",
+        "date": "2026-01-02 17:06:33",
+        "sentiment_score": 0.5457639247179031
+    },
+    {
+        "title": "El Barcelona sigue muy endeudado. ¿Puede arreglar sus finanzas?",
+        "image_url": "https://www.infobae.com/resizer/v2/MCOOMYRWUVDNLARXSMABF6RDEQ.jpg?auth=82ccd9a326918dedb8dc05a730e4bbb3af3b4572f86ab79bbfbbdddc3e15eb3d&height=3334&smart=true&width=5000",
+        "tags": [
+            "new york times"
+        ],
+        "link": "https://www.infobae.com/america/the-new-york-times/2026/01/02/el-barcelona-sigue-muy-endeudado-puede-arreglar-sus-finanzas/",
+        "date": "2026-01-02 17:00:20",
+        "sentiment_score": 0.0074668824672698975
+    },
+    {
+        "title": "Marc Pubill: \"El equipo se va a dejar todo para ganar la Supercopa de España\"",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260102175113_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-marc-pubill-equipo-va-dejar-todo-ganar-supercopa-espana-20260102175113.html",
+        "date": "2026-01-02 16:51:13",
+        "sentiment_score": 0.7659003026783466
+    },
+    {
+        "title": "Horario y dónde ver por televisión el Espanyol - FC Barcelona de la jornada 18 de LaLiga",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/02/6957ec65e1a2d.r_d.864-452.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260102/horario-donde-ver-television-espanyol-fc-barcelona-jornada-18-laliga_370782.html",
+        "date": "2026-01-02 16:36:01",
+        "sentiment_score": 0.012851230800151825
+    },
+    {
+        "title": "Guadalajara ultima una cabalgata de Reyes con novedades y gran final festivo",
+        "image_url": "https://www.clm24.es/media/clm24/images/2026/01/02/2026010217272923556.jpg",
+        "tags": [
+            "guadalajara"
+        ],
+        "link": "https://www.clm24.es/articulo/guadalajara/guadalajara-ultima-cabalgata-reyes-novedades-gran-final-festivo/20260102173042467320.html",
+        "date": "2026-01-02 16:34:05",
+        "sentiment_score": 0.5673775151371956
+    },
+    {
+        "title": "La cabalgata de Reyes Magos de Guadalajara tendrá un recorrido más amplio",
+        "image_url": "https://www.clm24.es/media/clm24/images/2026/01/02/2026010217272923556.jpg",
+        "tags": [
+            "guadalajara"
+        ],
+        "link": "https://www.clm24.es/articulo/guadalajara/cabalgata-reyes-magos-guadalajara-tendra-recorrido-mas-amplio/20260102173042467320.html",
+        "date": "2026-01-02 16:34:05",
+        "sentiment_score": 0.5673775151371956
+    },
+    {
+        "title": "El Azulmarino busca igualar el récord",
+        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3623255.jpg",
+        "tags": [
+            "azulmarino",
+            "baloncesto",
+            "eurobasket",
+            "euroliga",
+            "eurocup",
+            "leb oro",
+            "liga acb"
+        ],
+        "link": "https://www.ultimahora.es/deportes/baloncesto/2026/01/02/2542199/azulmarino-busca-igualar-record.html",
+        "date": "2026-01-02 16:28:31",
+        "sentiment_score": 0.4740864336490631
+    },
+    {
+        "title": "Quién es Eric García: edad, cuánto cobra y dónde ha jugado",
+        "image_url": "https://okdiario.com/img/2025/12/23/befunky-collage-1-1.jpg",
+        "tags": [
+            "barcelona",
+            "deportes"
+        ],
+        "link": "https://okdiario.com/deportes/quien-eric-garcia-edad-cuanto-cobra-donde-jugado-16014289",
+        "date": "2026-01-02 16:18:49",
+        "sentiment_score": -0.02692331373691559
+    },
+    {
+        "title": "Los socios de Sánchez ansían suspender el Barcelona-Maccabi Tel Aviv del Día de Reyes",
+        "image_url": "https://okdiario.com/img/2026/01/02/barcelona-maccabi.jpg",
+        "tags": [
+            "euroliga",
+            "deportes",
+            "baloncesto",
+            "fútbol club barcelona (baloncesto)"
+        ],
+        "link": "https://okdiario.com/deportes/socios-sanchez-ansian-suspender-barcelona-maccabi-tel-aviv-del-dia-reyes-16014983",
+        "date": "2026-01-02 17:07:14",
+        "sentiment_score": -0.06856274604797363
+    },
+    {
+        "title": "El Ibex estrena el año con un nuevo récord y roza los 17.500 puntos",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/02/6957f97263694.r_d.431-563-4885.jpeg",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://www.lavanguardia.com/economia/20260102/11408864/ibex-estrena-ano-nuevo-record-roza-17-500-puntos.html",
+        "date": "2026-01-02 17:01:20",
+        "sentiment_score": 0.45362332463264465
+    },
+    {
+        "title": "Los Reyes Magos llegarán a Barcelona este lunes navegando hasta el Portal de la Pau",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/02/6957f164482c4.jpeg",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/noticias/reyes-magos-llegaran-barcelona-lunes-navegando-portal-pau-20260102_3280421.html",
+        "date": "2026-01-02 17:01:08",
+        "sentiment_score": 0.04276537895202637
+    },
+    {
+        "title": "Antoni Gaudí, responsable de la posible visita del Papa León XIV a Barcelona",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/26/694e87d414d20.webp",
+        "tags": [
+            "iglesia española"
+        ],
+        "link": "https://www.cope.es/religion/hoy-en-dia/iglesia-espanola/noticias/antoni-gaudi-responsable-posible-visita-papa-leon-xiv-barcelona-20260102_3277810.html",
+        "date": "2026-01-02 17:00:28",
+        "sentiment_score": 0.05860084295272827
+    },
+    {
+        "title": "Laia Sanz: \"Hace un año todo parecía oscuro y ahora llego al Dakar mejor que nunca\"",
+        "image_url": "https://static1.ara.cat/clip/9d61992f-964a-4038-96d5-2efca1864bb2_16-9-aspect-ratio_default_0_x4460y1973.jpg",
+        "tags": [
+            "ahora",
+            "dakar",
+            "ano",
+            "sanz",
+            "mejor",
+            "oscuro",
+            "parecia",
+            "llego",
+            "laia"
+        ],
+        "link": "https://es.ara.cat/deportes/laia-sanz-ano-parecia-oscuro-ahora-llego-dakar-mejor_1_5607486.html",
+        "date": "2026-01-02 17:00:27",
+        "sentiment_score": -0.03474503755569458
+    },
+    {
+        "title": "Grupo Catalana Occidente será excluido de negociación en Bolsa desde el 5 de enero",
+        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260102175644.jpg?fit=1502%2C826&ssl=1",
+        "tags": [
+            "economía"
+        ],
+        "link": "https://cronicadecantabria.com/cr/grupo-catalana-occidente-ser-excluido-de-negociacin-en-bolsa-desde-el-5-de-enero/",
+        "date": "2026-01-02 17:00:03",
+        "sentiment_score": -0.3134930320084095
+    },
+    {
+        "title": "Surne Bilbao-Valencia desde Miribilla",
+        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/10/04/surne-bilbao-kpvG--758x531@El%20Correo-ElCorreo.jpg",
+        "tags": [
+            "bilbao basket"
+        ],
+        "link": "https://www.elcorreo.com/bilbaobasket/directo-bilbao-basket-valencia-liga-endesa-jornada-13-20260102121312-di.html",
+        "date": "2026-01-02 16:54:32",
+        "sentiment_score": 0.04520172253251076
+    },
+    {
+        "title": "El Cartero Real recorrerá Córdoba este sábado ofreciendo unos 500 kilos de caramelos y miles de regalos",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260102175119_690.jpg",
+        "tags": [
+            "andalucía"
+        ],
+        "link": "https://www.europapress.es/andalucia/noticia-cartero-real-recorrera-cordoba-sabado-ofreciendo-500-kilos-caramelos-miles-regalos-20260102175119.html",
+        "date": "2026-01-02 16:51:19",
+        "sentiment_score": -0.002007514238357544
+    },
+    {
+        "title": "Joan Garcia regresa a 'casa' convertido en enemigo",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260102174930_690.jpg",
+        "tags": [
+            "fútbol",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-joan-garcia-regresa-casa-convertido-enemigo-20260102174930.html",
+        "date": "2026-01-02 16:49:30",
+        "sentiment_score": 0.06477832794189453
     }
 ];
