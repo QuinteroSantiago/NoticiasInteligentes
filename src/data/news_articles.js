@@ -1,272 +1,5 @@
 export default [
     {
-        "title": "Los 80 cargos del PSOE, familiares y amigos de Sánchez señalados por la corrupción que deja 2025",
-        "image_url": "https://okdiario.com/img/2025/12/31/gif-sanchez-720x405-1.gif",
-        "tags": [
-            "begoña gómez",
-            "pedro sánchez",
-            "corrupción",
-            "españa",
-            "psoe"
-        ],
-        "link": "https://okdiario.com/espana/80-cargos-del-psoe-familiares-amigos-sanchez-senalados-corrupcion-que-deja-2025-16005336",
-        "date": "2025-12-31 17:08:05",
-        "sentiment_score": -0.5973502621054649
-    },
-    {
-        "title": "El Gobierno de La Rioja (PP) compra un convento de monjas por dos millones de dinero público para alojar a 17 menas de Canarias",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/Convento-fachada-2-1-1.jpg",
-        "tags": [
-            "españa",
-            "inmigración ilegal",
-            "menas",
-            "partido popular",
-            "la rioja"
-        ],
-        "link": "https://gaceta.es/espana/el-gobierno-de-la-rioja-pp-compra-un-convento-de-monjas-por-dos-millones-de-dinero-publico-para-alojar-a-17-menas-de-canarias-20251231-1805/",
-        "date": "2025-12-31 17:05:48",
-        "sentiment_score": -0.3268127925693989
-    },
-    {
-        "title": "Crisis de vivienda, clamor contra el turismo masivo y aumento de los discursos de odio: 2025, en clave canaria",
-        "image_url": "https://static.eldiario.es/clip/a5abd300-f8ba-47e2-bea0-c5e0edea3adc_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "odio",
-            "crisis",
-            "vivienda",
-            "clamor",
-            "turismo",
-            "aumento",
-            "clave",
-            "discursos",
-            "2025",
-            "canaria",
-            "masivo"
-        ],
-        "link": "https://www.eldiario.es/canariasahora/sociedad/crisis-vivienda-clamor-turismo-masivo-aumento-discursos-odio-2025-clave-canaria_1_12879338.html",
-        "date": "2025-12-31 17:01:50",
-        "sentiment_score": -0.24865439534187317
-    },
-    {
-        "title": "Kylian Mbappé encienden las alarmas en el Real Madrid",
-        "image_url": "https://pxcdn.meridiano.net/122025/1767199457379.jpg?ch=180&cw=320",
-        "tags": [
-            "top",
-            "lifestyle"
-        ],
-        "link": "https://meridiano.net/futbol/futbol-espanol/kylian-mbappe-encienden-las-alarmas-en-el-real-madrid-2025123112410",
-        "date": "2025-12-31 17:01:00",
-        "sentiment_score": -0.6507679261267185
-    },
-    {
-        "title": "El mundo despide leyendas: los deportistas que se retiraron en 2025",
-        "image_url": "https://okdiario.com/img/2025/12/27/marcelo-alex-abrines-albert-ramos-y-terence-crawford-se-retiraron-en-2025.-.jpg",
-        "tags": [
-            "deportes",
-            "deporte"
-        ],
-        "link": "https://okdiario.com/deportes/mundo-despide-leyendas-deportistas-que-retiraron-2025-15994686",
-        "date": "2025-12-31 17:00:11",
-        "sentiment_score": 0.4501253068447113
-    },
-    {
-        "title": "Recordamos el peinado más inesperado de la reina Letizia en 2025, el pelo rizado que \"proyecta renovación y autenticidad\" según la psicología",
-        "image_url": "https://www.hola.com/horizon/landscape/b11d4f427774-gettyimages-2245021721.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "reina letizia",
-            "rizos",
-            "belleza",
-            "tendencias",
-            "cambio de look"
-        ],
-        "link": "https://www.hola.com/belleza/20251231875422/reina-letizia-pelo-rizado-significado-psicologia/",
-        "date": "2025-12-31 17:00:00",
-        "sentiment_score": 0.48490317538380623
-    },
-    {
-        "title": "12 meses que marcarán el fin de una generación: de Alonso a Djokovic o LeBron, mitos que se plantearán su futuro en 2026",
-        "image_url": "https://s3.elespanol.com/2025/12/26/actualidad/1003744070099_260667765_1706x960.jpg",
-        "tags": [
-            "novak djokovic",
-            "fernando alonso",
-            "lewis hamilton",
-            "lionel messi",
-            "otros deportes",
-            "cristiano ronaldo",
-            "lebron james",
-            "2026"
-        ],
-        "link": "https://www.elespanol.com/deportes/otros-deportes/20251231/meses-marcaran-fin-generacion-alonso-djokovic-lebron-mitos-plantearan-futuro/1003744066796_0.html",
-        "date": "2025-12-31 17:00:00",
-        "sentiment_score": 0.014075517654418945
-    },
-    {
-        "title": "PNV aplaude el mensaje de Pradales a los migrantes \"basado en derechos y deberes\", y su defensa del euskera",
-        "image_url": "https://www.infobae.com/resizer/v2/3MUOS3B4LJATJAC3BMXYFF3FBA.jpg?auth=157aac63c989f6f854e4c8b78edab95170c2f8a0e88bb86ee328412616e13a09&height=1080&smart=true&width=1920",
-        "tags": [
-            "imanol pradales",
-            "álava",
-            "joseba díez antxustegi",
-            "euskadi",
-            "migrantes",
-            "pnv",
-            "euskera",
-            "herriko plaza",
-            "derechos y deberes",
-            "lehendakari",
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/espana/agencias/2025/12/31/pnv-aplaude-el-mensaje-de-pradales-a-los-migrantes-basado-en-derechos-y-deberes-y-su-defensa-del-euskera/",
-        "date": "2025-12-31 16:46:41",
-        "sentiment_score": 0.429510273039341
-    },
-    {
-        "title": "Roberto Carlos, ingresado en Brasil por un problema cardíaco",
-        "image_url": "https://www.latribunadetoledo.es/media/img/2025/1ecadcd7-d6e9-4bbd-a5bbc13aef550234.jpg",
-        "tags": [
-            "real madrid",
-            "brasil"
-        ],
-        "link": "https://www.latribunadetoledo.es/noticia/z16f93bc0-aaf9-45ad-9ce614ed06254dda/202512/roberto-carlos-ingresado-en-brasil-por-un-problema-cardiaco",
-        "date": "2025-12-31 16:40:15",
-        "sentiment_score": -0.6664324188604951
-    },
-    {
-        "title": "Estrella del Real Madrid Kylian Mbappé, fuera por lesión de rodilla",
-        "image_url": "https://dims.apnews.com/dims4/default/315ccce/2147483647/strip/true/crop/3897x2594+0+2/resize/320x213!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2Faf%2Fd9969ee6afc39a6e0280d47eb262%2F858b21fe97d5457db59f95579295d90b",
-        "tags": [
-            "sports",
-            "deportes",
-            "mbappe lesion real madrid francia mundial"
-        ],
-        "link": "https://apnews.com/article/mbappe-lesion-real-madrid-francia-mundial-58a848aa0c0bf62a46ceceede5032a3f",
-        "date": "2025-12-31 16:36:57",
-        "sentiment_score": -0.7244963152334094
-    },
-    {
-        "title": "Hallado muerto un hombre en un saco de dormir en el centro de Barcelona",
-        "image_url": "https://imagenes.heraldo.es/files/image_990_556/uploads/imagenes/2025/04/19/imagen-de-archivo-de-un-coche-de-los-mossos-d-esquadra.jpeg",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.heraldo.es/noticias/nacional/2025/12/31/hallado-muerto-hombre-saco-dormir-centro-barcelona-1882437.html",
-        "date": "2025-12-31 17:18:50",
-        "sentiment_score": -0.1344919167459011
-    },
-    {
-        "title": "Aparece muerto en su saco de dormir un sintecho en el Gòtic de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/27/ciutat-vella/1003742711480_15455458_1706x960.jpg",
-        "tags": [
-            "civismo",
-            "vivir en barcelona",
-            "el gòtic",
-            "ciutat vella",
-            "mossos d'esquadra"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251231/aparece-muerto-saco-dormir-sintecho-gotic-barcelona/1003742720303_0.html",
-        "date": "2025-12-31 17:13:45",
-        "sentiment_score": -0.8619733229279518
-    },
-    {
-        "title": "Evitar la sumisión química con un sensor que devuelve fluorescente la bebida",
-        "image_url": "https://static1.ara.cat/clip/23f5e655-3d03-4b69-a4f6-0432f9ccc377_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "devuelve",
-            "fluorescente",
-            "sensor",
-            "bebida",
-            "evitar",
-            "quimica",
-            "sumision"
-        ],
-        "link": "https://es.ara.cat/sociedad/evitar-sumision-quimica-sensor-devuelve-fluorescente-bebida_1_5606532.html",
-        "date": "2025-12-31 17:01:02",
-        "sentiment_score": -0.22243629395961761
-    },
-    {
-        "title": "Adiós a los billetes baratos: Renfe, Iryo y Ouigo ajustan precios en alta velocidad",
-        "image_url": "https://www.economiadigital.es/wp-content/uploads/2025/12/ave-renfe-ouigo-1000x665.jpg",
-        "tags": [
-            "iryo",
-            "sociedad",
-            "ouigo",
-            "renfe"
-        ],
-        "link": "https://www.economiadigital.es/sociedad/adios-billetes-baratos-renfe-iryo-ouigo-ds.html",
-        "date": "2025-12-31 17:00:00",
-        "sentiment_score": -0.6644420865923166
-    },
-    {
-        "title": "Termina el realojo de los expulsados del B9 y el Gobierno dice que \"fomentará\" su regreso a Badalona",
-        "image_url": "https://static1.ara.cat/clip/e2dfa170-ae9b-4e44-ab0e-1876dd2701a4_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "realojo",
-            "termina",
-            "regreso",
-            "expulsados",
-            "dice",
-            "gobierno",
-            "fomentara",
-            "b9",
-            "badalona"
-        ],
-        "link": "https://es.ara.cat/sociedad/emergencia-social/termina-realojo-expulsados-b9-gobierno-dice-fomentara-regreso-badalona_1_5606526.html",
-        "date": "2025-12-31 16:59:20",
-        "sentiment_score": 0.06399920582771301
-    },
-    {
-        "title": "Nueva fase en la solución a la crisis de Badalona con mayor implicación del Ayuntamiento",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/24/694bce1ecbde8.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.lavanguardia.com/local/catalunya/20251231/11405419/nueva-fase-solucion-crisis-badalona-mayor-implicacion-ayuntamiento.html",
-        "date": "2025-12-31 16:58:47",
-        "sentiment_score": -0.06323279440402985
-    },
-    {
-        "title": "Hola 2026: El mundo celebra la llegada del nuevo año",
-        "image_url": "https://static1.ara.cat/clip/a3fd8fb2-a9aa-40fe-b130-20ed0d52eb49_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "celebra",
-            "ano",
-            "llegada",
-            "2026",
-            "mundo",
-            "nuevo",
-            "hola"
-        ],
-        "link": "https://es.ara.cat/fotos/hola-2026-mundo-celebra-llegada-nuevo-ano_3_5606511.html",
-        "date": "2025-12-31 16:49:50",
-        "sentiment_score": 0.5353085100650787
-    },
-    {
-        "title": "La Tardevieja en Córdoba para despedir 2025, en imágenes",
-        "image_url": "https://static.grupojoly.com/clip/1145e6ed-c041-4338-8b07-e06f2f037b79_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias córdoba",
-            "navidad córdoba",
-            "últimas noticias"
-        ],
-        "link": "https://www.eldiadecordoba.es/cordoba/tardevieja-cordoba-despedir-2025-imagenes_3_2005532359.html",
-        "date": "2025-12-31 16:48:54",
-        "sentiment_score": 0.39319999143481255
-    },
-    {
-        "title": "La ciudad más cara para pasar las fiestas está en Baleares (y no es Ibiza)",
-        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2024/05/Turismo-en-Mallorca.jpg",
-        "tags": [
-            "turismo",
-            "palma",
-            "actualidad 3",
-            "actualidad",
-            "baleares"
-        ],
-        "link": "https://lavozdeibiza.com/actualidad/la-ciudad-mas-cara-para-pasar-las-fiestas-esta-en-baleares-y-no-es-ibiza/",
-        "date": "2025-12-31 16:48:07",
-        "sentiment_score": 0.015973851084709167
-    },
-    {
         "title": "Descubre la verdad sobre la lesión de Christensen que obliga al Barça a mirar fuera",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/24/2025042421405751991.jpg",
         "tags": [
@@ -3508,5 +3241,169 @@ export default [
         "link": "https://www.mundiario.com/articulo/gente/maduro-conocida-aficion-fc-barcelona-vuelve-escena/20260104010647369298.html",
         "date": "2026-01-04 00:06:47",
         "sentiment_score": -0.06090064346790314
+    },
+    {
+        "title": "Los más de 60.000 intentos de pase de inmigrantes en la frontera sur más dura",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2025/09/no-quiere-ver-marlaska-frontera-ceuta-intentos-pase-inmigrantes-4-750x500.jpg?v=1757827684",
+        "tags": [
+            "frontera e inmigración",
+            "guardia civil",
+            "marruecos",
+            "sociedad",
+            "frontera sur",
+            "policía nacional",
+            "inmigración",
+            "benzú",
+            "noticias",
+            "tarajal ii"
+        ],
+        "link": "https://elfarodeceuta.es/miles-intentos-pase-inmigrantes-frontera-sur-mas-dura/",
+        "date": "2026-01-04 06:20:56",
+        "sentiment_score": -0.3947412632405758
+    },
+    {
+        "title": "Excelencia malagueña para la Fiscalía",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/fc3e3c6c-dbdc-426e-9d96-955f464f0947_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "promoción",
+            "formación",
+            "jóvenes",
+            "fiscal"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/04/excelencia-malaguena-fiscalia-125346226.html",
+        "date": "2026-01-04 06:00:49",
+        "sentiment_score": -0.0863383561372757
+    },
+    {
+        "title": "Dos empresarios y el presidente de la Junta: ¿Quién hay detrás de las túnicas de los Reyes Magos de la Cabalgata de Sevilla?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/7a0875b6-8508-4440-a541-9bc0a73be805_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cabalgata de los reyes magos,reyes magos,sevilla,juanma moreno,junta de andalucía,navidad,ateneo de sevilla"
+        ],
+        "link": "https://www.elcorreoweb.es/sevilla/2026/01/04/empresarios-presidente-junta-hay-detras-125319320.html",
+        "date": "2026-01-04 06:00:48",
+        "sentiment_score": -0.2269846349954605
+    },
+    {
+        "title": "El mapa de las 6.000 VPO en marcha en Sevilla durante 2026: desde la Cruz del Campo hasta Palmas Altas o Artillería",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4e29909e-f43a-411c-8328-989e8e977c34_16-9-aspect-ratio_default_0_x1059y1173.jpg",
+        "tags": [
+            "vpo,viviendas,vivienda,emvisesa,obras,barrio cruz del campo,algodonera,fibes,real fábrica de artillería"
+        ],
+        "link": "https://www.elcorreoweb.es/sevilla/2026/01/04/mapa-obras-vpo-alquiler-sevilla-2026-125244862.html",
+        "date": "2026-01-04 06:00:48",
+        "sentiment_score": 0.23829369246959686
+    },
+    {
+        "title": "La iglesia de San Martín y la plaza de las Sirenas (I)",
+        "image_url": "https://eladelantado.com/wp-content/uploads/2026/01/1-Composicion.jpg",
+        "tags": [
+            "la mirada",
+            "segovia",
+            "portada imagen vertical"
+        ],
+        "link": "https://eladelantado.com/la-iglesia-de-san-martin-y-la-plaza-de-las-sirenas-i/",
+        "date": "2026-01-04 06:00:08",
+        "sentiment_score": -0.11873602122068405
+    },
+    {
+        "title": "Antonio Maíllo y el destino de la izquierda",
+        "image_url": "https://static.grupojoly.com/clip/165f72fe-3d73-41d0-a8a8-334b062426cd_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "antonio",
+            "destino",
+            "izquierda",
+            "maillo"
+        ],
+        "link": "https://www.malagahoy.es/andalucia/antonio-maillo-destino-izquierda_0_2005548076.html",
+        "date": "2026-01-04 05:59:48",
+        "sentiment_score": 0.065092533826828
+    },
+    {
+        "title": "De Caracas a Brooklyn: el periplo de Maduro bajo custodia de los EE.UU.",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/03/695991712d474.r_d.481-353-0.jpeg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20260104/11411392/caracas-brooklyn-periplo-maduro-custodia-ee-uu.html",
+        "date": "2026-01-04 06:34:47",
+        "sentiment_score": -0.7652487987652421
+    },
+    {
+        "title": "Óscar Dalmau, el hombre por el que sonríe Thais Villas y trabaja como locutor en Barcelona",
+        "image_url": "https://theobjective.com/wp-content/uploads/2026/01/thais-villa-marido.jpeg",
+        "tags": [
+            "barcelona",
+            "celebrities",
+            "hijos",
+            "gente",
+            "relaciones de pareja"
+        ],
+        "link": "https://theobjective.com/gente/2026-01-04/oscar-dalmau-hombre-thais-villas-locutor/",
+        "date": "2026-01-04 06:30:00",
+        "sentiment_score": -0.32129282504320145
+    },
+    {
+        "title": "Los 10 Grandes Premios de Fórmula 1 que tendrán a tres pilotos argentinos compartiendo circuitos",
+        "image_url": "https://www.infobae.com/resizer/v2/ZRSMVLZFE5FSXHFX2H5D2UQZTU.jpg?auth=99de0e04734d8dddea2494a78cf65d24dab535b418d9e2c6777188c237bd53f3&height=1080&smart=true&width=1920",
+        "tags": [
+            "fórmula 1",
+            "mattia colnaghi",
+            "nicolás varrone",
+            "últimas noticias",
+            "fórmula 3",
+            "franco colapinto",
+            "f1",
+            "f3",
+            "fórmula 2",
+            "f2"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/04/los-10-grandes-premios-de-formula-1-que-tendran-a-tres-pilotos-argentinos-compartiendo-circuitos/",
+        "date": "2026-01-04 06:28:22",
+        "sentiment_score": 0.12190317362546921
+    },
+    {
+        "title": "Andrea Beltramino explica cómo cambió el turismo silver: “Hoy el viajero mayor es activo, autónomo, conocedor, culto y dinámico”",
+        "image_url": "https://www.infobae.com/resizer/v2/PUPUM5QCAZFX7H7Q2V4UIVD4YE.jpg?auth=1e8571c63f8cf0f6dc3ece28e54aae5dbe0f59dc0d673ba0ca6819fedc6e63ef&height=1080&smart=true&width=1920",
+        "tags": [
+            "viajeros senior",
+            "turismo en argentina",
+            "andrea beltramino",
+            "turismo silver",
+            "últimas noticias",
+            "tercera edad",
+            "rosario"
+        ],
+        "link": "https://www.infobae.com/generacion-silver/2026/01/04/andrea-beltramino-explica-como-cambio-el-turismo-silver-hoy-el-viajero-mayor-es-activo-autonomo-conocedor-culto-y-dinamico/",
+        "date": "2026-01-04 06:06:30",
+        "sentiment_score": 0.5802578199654818
+    },
+    {
+        "title": "Juan Francisco Fuentes: “Me sentí poseído por esa alegría de vivir que transmiten los protagonistas del libro”",
+        "image_url": "https://static.grupojoly.com/clip/af74ac53-4789-4ca6-8b8f-32d368b0b349_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "poseido",
+            "francisco",
+            "juan",
+            "senti",
+            "fuentes"
+        ],
+        "link": "https://www.malagahoy.es/ocio/juan-francisco-fuentes-senti-poseido_0_2005548104.html",
+        "date": "2026-01-04 06:01:12",
+        "sentiment_score": 0.27020715922117233
+    },
+    {
+        "title": "Marianne Nilsen Nygaard: la musa de Antonio Flores",
+        "image_url": "https://static.grupojoly.com/clip/1570b7f3-de55-4a67-b580-4caaee5da619_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "marianne",
+            "antonio",
+            "nilsen",
+            "nygaard",
+            "musa"
+        ],
+        "link": "https://www.malagahoy.es/marbella/marianne-nilsen-nygaard-musa-antonio_0_2005541637.html",
+        "date": "2026-01-04 06:00:59",
+        "sentiment_score": 0.4388357140123844
     }
 ];
