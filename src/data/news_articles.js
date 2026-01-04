@@ -1,70 +1,5 @@
 export default [
     {
-        "title": "¿Cuánto subirá el precio de la vivienda en 2026? ¿Cuánto te pueden subir el alquiler?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c2ab3250-04f0-4846-a3df-a8ce00e8717c_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "construcción",
-            "precio de la vivienda",
-            "alquiler",
-            "vivienda",
-            "barcelona",
-            "sector inmobiliario",
-            "mercado inmobiliario",
-            "inversión",
-            "madrid"
-        ],
-        "link": "https://www.farodevigo.es/economia/2025/12/31/precio-vivienda-2026-compra-alquiler-125270688.html",
-        "date": "2025-12-31 06:15:38",
-        "sentiment_score": 0.16327127814292908
-    },
-    {
-        "title": "El precio de la gasolina este 31 de diciembre en Madrid, Barcelona y otras ciudades",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "gasolina",
-            "españa-economia",
-            "noticias",
-            "precio gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2025/12/31/el-precio-de-la-gasolina-este-31-de-diciembre-en-madrid-barcelona-y-otras-ciudades/",
-        "date": "2025-12-31 06:30:39",
-        "sentiment_score": -0.676497520878911
-    },
-    {
-        "title": "El importante consejo del chef Jordi Cruz, de 'MasterChef', para no tener \"una Nochevieja de pesadilla\"",
-        "image_url": "https://img2.huffingtonpost.es/files/image_1200_800/uploads/2025/12/31/jordi-cruz-en-tiktok.jpeg",
-        "tags": [
-            "virales"
-        ],
-        "link": "https://www.huffingtonpost.es/virales/el-importante-consejo-chef-jordi-cruz-masterchef-una-nochevieja-pesadilla-f202512.html",
-        "date": "2025-12-31 06:28:42",
-        "sentiment_score": 0.2518441453576088
-    },
-    {
-        "title": "Lo que debes saber hoy, 31 de diciembre, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/11/24/vivir-en-barcelona/1003742710519_15443469_1706x960.jpg",
-        "tags": [
-            "tráfico",
-            "tiempo",
-            "vivir en barcelona",
-            "transports metropolitans barcelona tmb",
-            "el tiempo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20251231/debes-saber-hoy-diciembre-barcelona/1003742720101_0.html",
-        "date": "2025-12-31 06:19:38",
-        "sentiment_score": -0.6883664727210999
-    },
-    {
-        "title": "Los que se fueron en 2025: de la alcaldesa de Lugo al productor Julio Fernández",
-        "image_url": "https://www.elprogreso.es/media/elprogreso/images/2025/12/11/2025121112534546582.jpg",
-        "tags": [
-            "lugo"
-        ],
-        "link": "https://www.elprogreso.es/articulo/lugo/que-fueron-2025/202512111210431930673.html",
-        "date": "2025-12-31 06:15:57",
-        "sentiment_score": -0.8754879403859377
-    },
-    {
         "title": "Los 80 cargos del PSOE, familiares y amigos de Sánchez señalados por la corrupción que deja 2025",
         "image_url": "https://okdiario.com/img/2025/12/31/gif-sanchez-720x405-1.gif",
         "tags": [
@@ -3107,5 +3042,180 @@ export default [
         "link": "https://cronicaglobal.elespanol.com/letraglobal/ideas/20260103/julio-ceballos-liberal-democratico-decadas-perdiendo-eficacia/1003742718910_0.html",
         "date": "2026-01-03 16:15:16",
         "sentiment_score": 0.2854781150817871
+    },
+    {
+        "title": "Nicolás Maduro y Cilia Flores van rumbo a Nueva York en un buque de guerra",
+        "image_url": "https://static.wixstatic.com/media/cf263a_0597c58d890740338f9fe134c2b251e5~mv2.png/v1/fit/w_709,h_400,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/nicol%C3%A1s-maduro-y-cilia-flores-van-rumbo-a-nueva-york-en-un-buque-de-guerra",
+        "date": "2026-01-03 18:25:51",
+        "sentiment_score": -0.0768035501241684
+    },
+    {
+        "title": "EEUU desplegó más de 150 aeronaves en una misión de varias horas para capturar a Maduro",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_148.jpg",
+        "tags": [
+            "eeuu",
+            "150 aeronaves",
+            "desplegó",
+            "internacionales",
+            "actualidad",
+            "maduro",
+            "nacionales",
+            "capturar"
+        ],
+        "link": "https://lapatilla.com/2026/01/03/eeuu-desplego-mas-de-150-aeronaves-en-una-mision-de-varias-horas-para-capturar-a-maduro/",
+        "date": "2026-01-03 17:54:36",
+        "sentiment_score": -0.0464315265417099
+    },
+    {
+        "title": "Joan García y Fermín apagan la caldera espanyolista (0-2)",
+        "image_url": "https://cflvdg.avoz.es/sc/Fl1Af-HY6RFw5VGHFBCvf7oaJeE=/768x/2026/01/03/00121767477781362775368/Foto/efe_20260103_215959662.jpg",
+        "tags": [
+            "primera división",
+            "rcd espanyol",
+            "deportes",
+            "fc barcelona"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/03/joan-garcia-fermin-apagan-caldera-espanyolista-0-2/00031767478389899957723.htm",
+        "date": "2026-01-03 22:19:00",
+        "sentiment_score": 0.24228563904762268
+    },
+    {
+        "title": "La sinceridad de Guasch tras la victoria del Barcelona: \"Hemos visto al campeón\"",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/03/695995b9f0f81.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/sinceridad-tomas-guasch-victoria-barcelona-espanyol-hemos-visto-campeon-20260103_3280646.html",
+        "date": "2026-01-03 22:18:38",
+        "sentiment_score": -0.013464599847793579
+    },
+    {
+        "title": "Gran cabalgata de los Reyes Magos 2026 en Chipiona: horario, recorrido e ilusión a raudales",
+        "image_url": "https://static.grupojoly.com/clip/74a6e214-5ea0-45be-9b92-b7a985c6ca72_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "reyes",
+            "magos",
+            "gran",
+            "2026",
+            "cabalgata"
+        ],
+        "link": "https://www.diariodejerez.es/que-hacer/gran-cabalgata-reyes-magos-2026_0_2005545440.html",
+        "date": "2026-01-03 22:18:37",
+        "sentiment_score": 0.16150106489658356
+    },
+    {
+        "title": "Joan García y Fermín apagan la caldera espanyolista",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/03/Clipboard-0183-kOaC-U240735590188yd-1200x840@RC.jpg",
+        "tags": [
+            "f.c. barcelona",
+            "lamine yamal",
+            "rcd espanyol",
+            "ferran torres"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/cronica-espanyol-barcelona-jornada18-20260103190757-ntrc.html",
+        "date": "2026-01-03 22:12:06",
+        "sentiment_score": 0.4327663332223892
+    },
+    {
+        "title": "Joan García y Dani Olmo asaltan Cornellá y dan al Barça un derbi en el que sufrió de lo lindo",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/03/6959908ff2433.jpeg",
+        "tags": [
+            "la liga"
+        ],
+        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260103/joan-garcia-dani-olmo-asaltan-cornella-dan-barca-derbi-sufrio-lindo_371047.html",
+        "date": "2026-01-03 22:00:09",
+        "sentiment_score": -0.3975140154361725
+    },
+    {
+        "title": "Mariví Monteserín, alcaldesa de Avilés: «Hay que acercar las decisiones de desarrollo industrial al territorio»",
+        "image_url": "https://s3.ppllstatics.com/elcomercio/www/multimedia/2026/01/03/entrevista-alcaldesa-marivi-aviles-RtWWrSjBdhAmDu5idPibdAP-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "avilés"
+        ],
+        "link": "https://www.elcomercio.es/aviles/marivi-monteserin-alcaldesa-acercar-decisiones-desarrollo-industrial-territorio-20260103181347-nt.html",
+        "date": "2026-01-03 21:47:25",
+        "sentiment_score": 0.31163909286260605
+    },
+    {
+        "title": "Los deseos de los Reyes Magos para Jaén: unión, prosperidad e integración",
+        "image_url": "https://s1.ppllstatics.com/ideal/www/multimedia/2026/01/03/JAEN-reyes-kf1F-U2407350907017nG-1200x840@Ideal.jpg",
+        "tags": [
+            "canal sur",
+            "jaén",
+            "real madrid",
+            "juguetes"
+        ],
+        "link": "https://www.ideal.es/jaen/jaen/deseos-reyes-magos-jaen-union-prosperidad-integracion-20260103223948-nt.html",
+        "date": "2026-01-03 21:39:48",
+        "sentiment_score": 0.29828400164842606
+    },
+    {
+        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 18 de LaLiga EA Sports 25-26 | Se rompe la racha: el Espanyol frena su serie de cinco victorias tras caer en el derbi",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2026/01/laliga-ea-sports-25-26-jornada-18-sabado-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/liga-jornada-18-resultados-clasificacion-cronica-resumen-partidos-rcd-espanyol-barca-sabado/",
+        "date": "2026-01-03 21:28:50",
+        "sentiment_score": -0.08376088738441467
+    },
+    {
+        "title": "Así fue el recibimiento de la afición del Espanyol a Joan García: pitos, billetes y pancartas de Judas",
+        "image_url": "https://okdiario.com/img/2026/01/03/joangarcia.jpg",
+        "tags": [
+            "joan garcía",
+            "barcelona",
+            "deportes",
+            "fútbol club barcelona",
+            "rcd espanyol"
+        ],
+        "link": "https://okdiario.com/deportes/asi-fue-recibimiento-aficion-del-espanyol-joan-garcia-pitos-billetes-pancartas-judas-16019623",
+        "date": "2026-01-03 20:27:20",
+        "sentiment_score": -0.1824740320444107
+    },
+    {
+        "title": "Un protagonista llamado Joan García (0-2)",
+        "image_url": "https://static.grupojoly.com/clip/7c951260-5fe9-4e63-8191-6337a0013231_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "protagonista",
+            "llamado",
+            "garcia",
+            "joan",
+            "2"
+        ],
+        "link": "https://www.malagahoy.es/deportes/protagonista-llamado-joan-garcia-2_0_2005545715.html",
+        "date": "2026-01-03 22:18:15",
+        "sentiment_score": 0.7135517373681068
+    },
+    {
+        "title": "Joan García frustra a un Espanyol superior y el Barça gana en su estadio fetiche con goles de Olmo y Lewandowski",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/03/culemania/primer-equipo/1003742720729_15569992_1706x960.jpg",
+        "tags": [
+            "hansi flick",
+            "rcd espanyol",
+            "laliga",
+            "primer equipo"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260103/joan-garcia-espanyol-superior-barca-olmo-lewandowski/1003742720713_0.html",
+        "date": "2026-01-03 22:06:35",
+        "sentiment_score": 0.8569868821650743
+    },
+    {
+        "title": "Presidente de Avior: A partir de este 4 de enero se reactivarán los vuelos nacionales en Venezuela",
+        "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+        "tags": [
+            "vuelos viajes",
+            "vuelos nacionales eeuu",
+            "avior airlines",
+            "viajes",
+            "aerolinea"
+        ],
+        "link": "https://2001online.com/nacionales/presidente-de-avior-a-partir-de-este-4-de-enero-se-reactivaran-los-vuelos-nacionales-en-venezuela-2026131810",
+        "date": "2026-01-03 22:01:00",
+        "sentiment_score": 0.12750835716724396
     }
 ];
