@@ -1,444 +1,5 @@
 export default [
     {
-        "title": "El Real Madrid da un golpe de autoridad en la cancha del UCAM Murcia y despide 2025 como líder de la Liga Endesa",
-        "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744074482_260720480_1706x960.jpg",
-        "tags": [
-            "liga endesa",
-            "real madrid baloncesto",
-            "deportes",
-            "baloncesto"
-        ],
-        "link": "https://www.elespanol.com/deportes/baloncesto/20251230/real-madrid-da-golpe-autoridad-cancha-ucam-murcia-despide-lider-liga-endesa/1003744074479_0.html",
-        "date": "2025-12-30 22:13:40",
-        "sentiment_score": 0.6657443232834339
-    },
-    {
-        "title": "El 2025 madrileño: de las grandes obras y el tráfico a la tensión política... sin olvidar que se retiró Morante y llegó la NFL",
-        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/11/16/17633040074115.jpg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.elmundo.es/madrid/2025/12/30/6953bfdbfdddffbc038b45af.html",
-        "date": "2025-12-30 21:27:33",
-        "sentiment_score": -0.032287657260894775
-    },
-    {
-        "title": "Blindaje policial en la Puerta del Sol para las uvas: tres filtros, un millar de efectivos y un aforo de 15.000 personas",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/bfc62fc31d86105e92fd646741f3f8b8/crop/0x0/1166x1166/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529624450788.jpg",
-        "tags": [
-            "policía nacional",
-            "campanadas"
-        ],
-        "link": "https://www.elmundo.es/madrid/2025/12/30/69541417fdddff2c088b45bb.html",
-        "date": "2025-12-30 21:27:22",
-        "sentiment_score": -0.699987405911088
-    },
-    {
-        "title": "Canarias sigue a la cola en servicios sociales: los dos municipios entre los más “pobres”",
-        "image_url": "https://diariodeavisos.elespanol.com/wp-content/uploads/2016/12/mayores-dependencia.jpg",
-        "tags": [
-            "sociedad",
-            "portada apertura 4",
-            "portada"
-        ],
-        "link": "https://diariodeavisos.elespanol.com/2025/12/municipios-canarias-servicios-sociales/",
-        "date": "2025-12-30 21:26:13",
-        "sentiment_score": -0.8441230729222298
-    },
-    {
-        "title": "Por un 2026 repleto de éxitos para el Racing de Ferrol",
-        "image_url": "https://cflvdg.avoz.es/sc/vhQO2jCfCQQwhV6e__n89fCJlnM=/768x/2025/12/30/00121767115084131622339/Foto/f_20251230_165806001.jpg",
-        "tags": [
-            "racing de ferrol",
-            "fútbol gallego",
-            "opa racing"
-        ],
-        "link": "https://www.lavozdegalicia.es/noticia/oparacing/2025/12/31/2026-repleto-exitos/0003_202512F31P39991.htm",
-        "date": "2025-12-30 21:12:01",
-        "sentiment_score": 0.6887170225381851
-    },
-    {
-        "title": "Las memorias más esperadas de 2025: del rey Juan Carlos a Isabel Preysler, un fenómeno editorial sin precedentes",
-        "image_url": "https://www.hola.com/horizon/landscape/b0d32d4085ad-dlu378449007.jpg?im=Resize%3D%281200%29",
-        "tags": [
-            "rey juan carlos",
-            "inaki urdangarin",
-            "isabel preysler",
-            "mar flores",
-            "actualidad"
-        ],
-        "link": "https://www.hola.com/actualidad/20251230872440/memoria-esperadas-2025-rey-juan-carlos-isabel-preysler-fenomeno-editorial/",
-        "date": "2025-12-30 21:05:21",
-        "sentiment_score": 0.3206103965640068
-    },
-    {
-        "title": "\"Victoria Eugenia fue una reina que se preocupó por el pueblo español\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/30/xih16aa4zmjsxcof9.jpeg",
-        "tags": [
-            "la linterna"
-        ],
-        "link": "https://www.cope.es/programas/la-linterna/noticias/hay-gente-pone-duda-claro-victoria-eugenia-reina-preocupo-pueblo-espanol-ayudo-causas-sociales-epoca-20251230_3279382.html",
-        "date": "2025-12-30 20:30:00",
-        "sentiment_score": -0.07896527647972107
-    },
-    {
-        "title": "De la 'gracia' de un petardo al sufrimiento de las personas con TEA y los animales: “No es nada necesario”",
-        "image_url": "https://static.eldiario.es/clip/970dbb64-4bea-42ac-a689-39356287d134_16-9-discover-aspect-ratio_default_1133386.jpg",
-        "tags": [
-            "tea",
-            "animales",
-            "necesario",
-            "personas",
-            "petardo",
-            "gracia",
-            "sufrimiento",
-            "no"
-        ],
-        "link": "https://www.eldiario.es/sociedad/gracia-petardo-sufrimiento-personas-tea-animales-no-necesario_1_12874738.html",
-        "date": "2025-12-30 20:21:08",
-        "sentiment_score": -0.21648894250392914
-    },
-    {
-        "title": "Trabajo esclavo y vidas rotas: la verdad anegada de los pantanos de Franco",
-        "image_url": "https://static.eldiario.es/clip/00709773-b047-4165-a6ec-8853e0f2765f_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "rotas",
-            "trabajo",
-            "esclavo",
-            "anegada",
-            "pantanos",
-            "vidas",
-            "franco"
-        ],
-        "link": "https://www.eldiario.es/castilla-y-leon/trabajo-esclavo-vidas-rotas-anegada-pantanos-franco_1_12876070.html",
-        "date": "2025-12-30 20:21:07",
-        "sentiment_score": -0.08754852414131165
-    },
-    {
-        "title": "105-83 | El Unicaja brinda por la Copa antes de las uvas",
-        "image_url": "https://s3.elespanol.com/2025/12/30/malaga/deporte/unicaja/1003744074452_260720127_1706x960.jpg",
-        "tags": [
-            "liga endesa",
-            "club baloncesto málaga (unicaja málaga)",
-            "acb",
-            "joventut de badalona",
-            "unicaja",
-            "baloncesto"
-        ],
-        "link": "https://www.elespanol.com/malaga/deporte/unicaja/20251230/unicaja-brinda-copa-uvas/1003744074310_0.html",
-        "date": "2025-12-30 20:11:50",
-        "sentiment_score": 0.4965727776288986
-    },
-    {
-        "title": "Crónica del Barça - AS Monaco: 74-90",
-        "image_url": "https://www.infobae.com/resizer/v2/6LHCLJ7WA5AATCD2M2HWNISZ6M.jpg?auth=a6db37ce1cc6cfe3686ca806c56bcf8028fa91075550a2bd65853be0cb3eec9a&height=1280&smart=true&width=1920",
-        "tags": [
-            "darío brizuela",
-            "as monaco",
-            "playoffs",
-            "euroliga",
-            "mike james",
-            "palau blaugrana",
-            "europapress",
-            "barça",
-            "nikola mirotic",
-            "mónaco",
-            "baloncesto"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2025/12/30/cronica-del-barca-as-monaco-74-90/",
-        "date": "2025-12-30 22:15:16",
-        "sentiment_score": -0.6116347908973694
-    },
-    {
-        "title": "El Valencia cierra el año como líder de la Euroliga",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/30/69544caf4cdb1.r_d.594-520-3226.jpeg",
-        "tags": [
-            "tiempo de juego"
-        ],
-        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/valencia-cierra-ano-lider-euroliga-20251230_3279412.html",
-        "date": "2025-12-30 22:09:56",
-        "sentiment_score": -0.046176910400390625
-    },
-    {
-        "title": "Otra estupenda actuación de Enzo Fernández en Chelsea: marcó un golazo y tuvo un “gesto de campeón del mundo” con un niño",
-        "image_url": "https://www.infobae.com/resizer/v2/NZRADITLFVA4RCTL2Z2H6EA5OY.JPG?auth=0ae4989bc9f525898e8c28c30b9d321c19db064e4499705f9e8e09548fa010f0&height=2800&smart=true&width=4366",
-        "tags": [
-            "chelsea",
-            "premier league",
-            "enzo fernández"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/30/otra-estupenda-actuacion-de-enzo-fernandez-en-chelsea-marco-un-golazo-y-tuvo-un-gesto-de-campeon-del-mundo-con-un-nino/",
-        "date": "2025-12-30 22:08:09",
-        "sentiment_score": 0.6167109310626984
-    },
-    {
-        "title": "VÍDEO | La doble técnica y expulsión a un Xavi Pascual indignado y ovacionado por un Palau encendido",
-        "image_url": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2025/12/30/image-1b66e3b8-b47f-468b-922a-f50982750d09-85-2560-1440.jpeg",
-        "tags": [
-            "euroleague 2025-2026",
-            "basketball"
-        ],
-        "link": "https://espanol.eurosport.com/baloncesto/euroliga/2025-2026/video-expulsion-xavi-pascual-barcelona-monaco-palau-doble-tecnica-arbitraje_sto23254710/story.shtml",
-        "date": "2025-12-30 21:54:11",
-        "sentiment_score": -0.7224117517471313
-    },
-    {
-        "title": "El Barça tiene atravesado al Mónaco",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/bf7c1b4e-190e-4ce0-b417-1cdf69cbbf93_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "euroliga",
-            "baloncesto",
-            "fc barcelona de baloncesto"
-        ],
-        "link": "https://www.lne.es/deportes/2025/12/30/barca-atravesado-monaco-125266295.html",
-        "date": "2025-12-30 21:48:14",
-        "sentiment_score": -0.903155280277133
-    },
-    {
-        "title": "Motrasalud se une a iniciativa privada para brindar un almuerzo a personal de hospital (+Fotos)",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "salud",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/motrasalud-se-une-a-iniciativa-privada-para-brindar-un-almuerzo-a-personal-de-hospital-fotos/",
-        "date": "2025-12-30 21:47:43",
-        "sentiment_score": 0.18204446136951447
-    },
-    {
-        "title": "Al Barça de las mil vidas se le indigestan los silbidos",
-        "image_url": "https://static1.ara.cat/clip/df133fed-e0e1-4128-842d-31dafcc96385_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "mil",
-            "le",
-            "indigestan",
-            "vidas",
-            "silbidos",
-            "barca"
-        ],
-        "link": "https://es.ara.cat/deportes/baloncesto/barca-mil-vidas-le-indigestan-silbidos_1_5606068.html",
-        "date": "2025-12-30 21:25:45",
-        "sentiment_score": -0.7844194620847702
-    },
-    {
-        "title": "El arma de los pobres",
-        "image_url": "https://s3.elespanol.com/static/ESPEspanol/img/elespanol_amp-1706x960.png?hash=924e",
-        "tags": [
-            "opinión"
-        ],
-        "link": "https://www.elespanol.com/eldigitalcastillalamancha/opinion/20251231/arma-pobres/1003744073635_13.html",
-        "date": "2025-12-31 02:00:00",
-        "sentiment_score": -0.8347305757924914
-    },
-    {
-        "title": "Plazas a medida y sin rastro documental: Cuentas cuestiona los contratos de la Casa Árabe bajo el mando de Irene Lozano",
-        "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744074417_260719777_1706x960.jpg",
-        "tags": [
-            "política",
-            "casa árabe",
-            "irene lozano",
-            "psoe (partido socialista obrero español)",
-            "tribunal de cuentas",
-            "pedro sánchez"
-        ],
-        "link": "https://www.elespanol.com/espana/politica/20251231/plazas-medida-sin-rastro-documental-cuentas-cuestiona-contratos-casa-arabe-mando-irene-lozano/1003744074412_0.html",
-        "date": "2025-12-31 01:40:17",
-        "sentiment_score": -0.7263041008263826
-    },
-    {
-        "title": "Agenda cultural 2026: libros, películas, discos, obras de teatro y exposiciones que darán que hablar",
-        "image_url": "https://s3.elespanol.com/2025/12/22/actualidad/1003744066596_260624899_1706x960.jpg",
-        "tags": [
-            "libros",
-            "el cultural",
-            "cine",
-            "exposiciones",
-            "películas",
-            "teatro"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/20251231/agenda-cultural-libros-peliculas-discos-obras-teatro-exposiciones-daran-hablar/1003744066519_0.html",
-        "date": "2025-12-31 00:55:00",
-        "sentiment_score": 0.8305674828588963
-    },
-    {
-        "title": "Subida de diputados en Castilla-La Mancha, Pacto Verde, Agenda 2030... la larga lista de acuerdos entre el PP y el PSOE en el año 2025",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/Diseno-sin-titulo-2025-12-30T171725.654.png",
-        "tags": [
-            "pp",
-            "pacto verde",
-            "vox",
-            "castilla la mancha",
-            "españa",
-            "psoe",
-            "agenda 2030"
-        ],
-        "link": "https://gaceta.es/espana/subida-de-diputados-en-castilla-la-mancha-pacto-verde-agenda-2030-la-larga-lista-de-acuerdos-entre-el-pp-y-el-psoe-en-el-ano-2025-20251231-0151/",
-        "date": "2025-12-31 00:51:00",
-        "sentiment_score": 0.01716737449169159
-    },
-    {
-        "title": "Retrato íntimo de Josie, el artífice del fenómeno Pedroche en las Campanadas: de su vida familiar a la finca que heredó",
-        "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744074292_260718135_1706x960.jpg",
-        "tags": [
-            "famosos",
-            "josie",
-            "cristina pedroche",
-            "campanadas"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20251231/retrato-intimo-josie-artifice-fenomeno-pedroche-campanadas-vida-familiar-finca-heredo/1003744073555_0.html",
-        "date": "2025-12-31 00:33:00",
-        "sentiment_score": 0.6818295679986477
-    },
-    {
-        "title": "Raquel García: “España siempre ha sido el buen alumno, el socio fiable, en europa”",
-        "image_url": "https://static.laregion.es/clip/8feb2295-d285-4098-849d-d0fb5e6a9b8b_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "otan",
-            "josé maría aznar",
-            "eeuu",
-            "unión europea"
-        ],
-        "link": "https://www.laregion.es/espana/raquel-garcia-espana-sido-buen_1_20251231-4109726.html",
-        "date": "2025-12-31 00:30:29",
-        "sentiment_score": 0.025054670870304108
-    },
-    {
-        "title": "Airbus liderará en España el avión entrenador Hürjet",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/0f06e81a0e3dc3efe0e154ffcc2d8b5c/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/30/17671206897619.jpg",
-        "tags": [
-            "defensa y aeroespacial>",
-            "artículos carlos drake>",
-            "empresas>"
-        ],
-        "link": "https://www.expansion.com/empresas/2025/12/31/69541f45e5fdea124b8b4591.html",
-        "date": "2025-12-31 00:24:30",
-        "sentiment_score": 0.3022313825786114
-    },
-    {
-        "title": "La lujosa jugada de Nico Paz que provocó la reacción de una leyenda de la Premier League: “¡Sálvame!”",
-        "image_url": "https://www.infobae.com/resizer/v2/ZYF4YOF4CVBATAD52S7RS7KZVQ.jpg?auth=799d696a57d1407fdfe3ce344298a2d660cd40078a38adabeb50445341e54454&height=1079&smart=true&width=1920",
-        "tags": [
-            "nico paz",
-            "como",
-            "joe cole",
-            "barcelona",
-            "deportes-argentina",
-            "real madrid",
-            "pedri"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/31/la-lujosa-jugada-de-nico-paz-que-provoco-la-reaccion-de-una-leyenda-de-la-premier-league-salvame/",
-        "date": "2025-12-31 00:12:48",
-        "sentiment_score": -0.3329932689666748
-    },
-    {
-        "title": "Los éxitos del Barça de Laporta en 2025: del triplete nacional al regreso al Camp Nou",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/culemania/palco/1003742720100_15562571_1706x960.jpg",
-        "tags": [
-            "palco",
-            "barça",
-            "fc barcelona",
-            "joan laporta",
-            "hansi flick",
-            "camp nou"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20251231/barca-laporta-triplete-nacional-regreso-camp-nou/1003742719942_0.html",
-        "date": "2025-12-30 23:56:34",
-        "sentiment_score": -0.5961595699191093
-    },
-    {
-        "title": "Cuántos salarios mínimos se necesitan para igualar el sueldo de Cristiano Ronaldo, Messi y otras estrellas del fútbol",
-        "image_url": "https://www.infobae.com/resizer/v2/Z67I5BEJKJGDBBZWLXV3XMGRBM.png?auth=623a6752ada9c7b560f061f8f60f8420af8cbb9799b5196a89cf88852f03d86f&height=770&smart=true&width=1200",
-        "tags": [
-            "messi",
-            "colombia-economía",
-            "salario mínimo",
-            "mbappé",
-            "colombia-noticias",
-            "lamine yamal",
-            "cristiano ronaldo",
-            "luis díaz",
-            "sueldo mínimo"
-        ],
-        "link": "https://www.infobae.com/colombia/2025/12/30/cuantos-salarios-minimos-se-necesitan-para-igualar-el-sueldo-de-cristiano-ronaldo-messi-y-otras-estrellas-del-futbol/",
-        "date": "2025-12-30 23:50:10",
-        "sentiment_score": 0.058918021619319916
-    },
-    {
-        "title": "Rosalía toca el cielo en 2026: una gira mundial millonaria, récords históricos y el triunfo del nuevo misticismo",
-        "image_url": "https://s3.elespanol.com/2025/12/23/mujer/protagonistas/1003744067977_260641757_1706x960.jpg",
-        "tags": [
-            "protagonistas",
-            "rosalía (cantante)",
-            "música"
-        ],
-        "link": "https://www.elespanol.com/mujer/protagonistas/20251231/rosalia-toca-cielo-gira-mundial-millonaria-records-historicos-triunfo-nuevo-misticismo/1003744066717_0.html",
-        "date": "2025-12-31 01:40:08",
-        "sentiment_score": -0.18516474962234497
-    },
-    {
-        "title": "Pontegadea apuesta por las oficinas y suma inmuebles por 2.300 millones",
-        "image_url": "https://e01-phantom-expansion.uecdn.es/bf970cf8452d4fdfc3eb41ac536bc3c3/crop/71x15/2018x1313/resize/1200/f/webp/assets/multimedia/imagenes/2024/12/02/17331367246583.jpg",
-        "tags": [
-            "artículos rebeca arroyo>",
-            "mercado inmobiliario>",
-            "empresas>",
-            "inmobiliario y construcción>"
-        ],
-        "link": "https://www.expansion.com/inmobiliario/mercado/2025/12/31/69543c0ae5fdea583a8b458b.html",
-        "date": "2025-12-31 01:25:16",
-        "sentiment_score": 0.5303962714970112
-    },
-    {
-        "title": "Matute, 69 años, neurobiólogo y corredor de 18 maratones: \"El cerebro termina reponiéndose, como la cuenta corriente\"",
-        "image_url": "https://s3.elespanol.com/2025/12/30/ciencia/salud/1003744074332_260718519_1706x960.jpg",
-        "tags": [
-            "investigación científica",
-            "neurociencia",
-            "cerebro",
-            "salud",
-            "maratón"
-        ],
-        "link": "https://www.elespanol.com/ciencia/salud/20251231/matute-anos-neurobiologo-corredor-maratones-cerebro-termina-reponiendose-cuenta-corriente/1003744073722_0.html",
-        "date": "2025-12-31 01:10:00",
-        "sentiment_score": -0.48819469660520554
-    },
-    {
-        "title": "'Las muertas': de la realidad a la novela, de la novela a la serie",
-        "image_url": "https://s3.elespanol.com/2025/12/29/actualidad/1003744072674_260699464_1706x960.jpg",
-        "tags": [
-            "series",
-            "a la intemperie",
-            "escritores",
-            "novela"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/blogs/a_la_intemperie/20251231/muertas-realidad-novela-serie/1003744071898_12.html",
-        "date": "2025-12-31 00:55:00",
-        "sentiment_score": -0.2710307687520981
-    },
-    {
-        "title": "Una mezquita en Barcelona lleva el nombre de Tariq ibn Ziyad, el general que inició la conquista islámica de España en 711",
-        "image_url": "https://gaceta.es/wp-content/uploads/2025/12/Diseno-sin-titulo-76.png",
-        "tags": [
-            "inmigración ilegal",
-            "islam",
-            "españa",
-            "inmigración"
-        ],
-        "link": "https://gaceta.es/espana/una-mezquita-en-barcelona-lleva-el-nombre-de-tariq-ibn-ziyad-el-general-que-inicio-la-conquista-islamica-de-espana-en-711-20251231-0038/",
-        "date": "2025-12-30 23:38:00",
-        "sentiment_score": 0.19138462841510773
-    },
-    {
-        "title": "\"Entiendo las medidas del Espanyol para impedir incidentes contra Joan García\"",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/files/fp/uploads/2025/12/30/69544804bb486.r_d.1373-791-1727.jpeg",
-        "tags": [
-            "el partidazo de cope"
-        ],
-        "link": "https://www.cope.es/programas/el-partidazo-de-cope/noticias/han-gustado-redes-entiendo-medidas-espanyol-impedir-incidente-20251231_3279418.html",
-        "date": "2025-12-30 23:26:45",
-        "sentiment_score": -0.06060472130775452
-    },
-    {
         "title": "¿Cuánto subirá el precio de la vivienda en 2026? ¿Cuánto te pueden subir el alquiler?",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c2ab3250-04f0-4846-a3df-a8ce00e8717c_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -3227,5 +2788,324 @@ export default [
         "link": "https://lagradaonline.com/convocatoria-espanyol-barca-vuelta-javi-puado/",
         "date": "2026-01-03 05:54:07",
         "sentiment_score": 0.8167606443166733
+    },
+    {
+        "title": "¿Quién es Vladimir Padrino López, el ministro de Defensa de Venezuela?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/vladimir-padrino-lopez-fanb.jpg",
+        "tags": [
+            "nacionales",
+            "actualidad",
+            "vladimir padrino lópez"
+        ],
+        "link": "https://lapatilla.com/2026/01/03/quien-es-vladimir-padrino-lopez-el-ministro-de-defensa-de-venezuela/",
+        "date": "2026-01-03 15:31:31",
+        "sentiment_score": -0.7555730026215315
+    },
+    {
+        "title": "¿Qué ocurrirá en Venezuela tras la acción de EEUU?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/be0bac6fade27944ed7bb479361873106a09979aw.jpg",
+        "tags": [
+            "eeuu",
+            "venezuela",
+            "actualidad",
+            "internacionales",
+            "nacionales"
+        ],
+        "link": "https://lapatilla.com/2026/01/03/que-ocurrira-en-venezuela-tras-la-accion-de-eeuu/",
+        "date": "2026-01-03 14:18:41",
+        "sentiment_score": -0.3641430474817753
+    },
+    {
+        "title": "Nicolás Maduro, el político improbable que desafió a todos los pronósticos pero no pudo con el último",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/regimen-de-nicolas-maduro-venezuela.jpg",
+        "tags": [
+            "actualidad",
+            "nicolás maduro",
+            "nacionales",
+            "internacionales"
+        ],
+        "link": "https://lapatilla.com/2026/01/03/nicolas-maduro-el-politico-improbable-que-desafio-a-todos-los-pronosticos-pero-no-pudo-con-el-ultimo/",
+        "date": "2026-01-03 12:54:13",
+        "sentiment_score": -0.7725238911807537
+    },
+    {
+        "title": "Venezuela detiene a varios ciudadanos estadounidenses mientras aumentan las tensiones con EE.UU",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/0b/media_thumb-link-4131653.webp?1767317226=",
+        "tags": [
+            "ee.uu",
+            "detención",
+            "ciudadanos estadounidense",
+            "venezuela",
+            "politica"
+        ],
+        "link": "https://www.meneame.net/story/venezuela-detiene-varios-ciudadanos-estadounidenses-mientras-ee",
+        "date": "2026-01-02 15:30:04",
+        "sentiment_score": -0.4376175869256258
+    },
+    {
+        "title": "Petro condena el ataque de EE.UU. a Venezuela y convoca al Consejo de Seguridad de la ONU",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/0c/media_thumb-link-4132087.webp?1767449946=",
+        "tags": [
+            "condena",
+            "colombia",
+            "politica",
+            "petro",
+            "ataque",
+            "consejo de seguridad",
+            "onu"
+        ],
+        "link": "https://www.meneame.net/story/petro-condena-ataque-ee-uu-venezuela-convoca-consejo-seguridad",
+        "date": "2026-01-03 16:50:05",
+        "sentiment_score": -0.2164357751607895
+    },
+    {
+        "title": "Encuentran muerta a la hija del actor Tommy Lee Jones en un hotel de San Francisco",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/0b/media_thumb-link-4131717.webp?1767348426=",
+        "tags": [
+            "tommy lee jones",
+            "actor",
+            "san francisco",
+            "actualidad",
+            "victoria jones"
+        ],
+        "link": "https://www.meneame.net/story/encuentran-muerta-hija-actor-tommy-lee-jones-hotel-san-francisco",
+        "date": "2026-01-02 18:15:02",
+        "sentiment_score": -0.26765138655900955
+    },
+    {
+        "title": "La inversión en servicios sociales en Plasencia, Mérida y Badajoz, entre las más bajas de España",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5939b36a-1591-4e3a-afdd-44d69f61f89d_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "plasencia",
+            "servicios sociales",
+            "badajoz",
+            "mérida"
+        ],
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/01/03/badajoz-merida-plasencia-ciudades-menor-inversion-social-espana-125344604.html",
+        "date": "2026-01-03 17:17:29",
+        "sentiment_score": -0.052077099680900574
+    },
+    {
+        "title": "Las dos bajas del Atlético para Anoeta",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/19f79d50-b9ed-457c-b1d4-b0ce16c6d59f_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sociedad",
+            "anoeta",
+            "atletico",
+            "real",
+            "convocatoria",
+            "lenglet",
+            "nico",
+            "madrid",
+            "bajas"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/03/bajas-atletico-anoeta-madrid-real-sociedad-lenglet-nico-convocatoria-10536496.html",
+        "date": "2026-01-03 17:06:06",
+        "sentiment_score": -0.17830032110214233
+    },
+    {
+        "title": "El Valencia en crisis total: el Celta arrasa y deja a Corberán al borde del abismo",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/03/2026010317531359743.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/valencia-crisis-total-celta-arrasa-deja-corberan-borde-abismo/20260103175339369252.html",
+        "date": "2026-01-03 16:53:39",
+        "sentiment_score": 0.4519914239645004
+    },
+    {
+        "title": "El Real Madrid abre la cuesta de enero con una emboscada",
+        "image_url": "https://s1.ppllstatics.com/rc/www/multimedia/2026/01/03/real-madrid-kV5G--758x531@RC.JPG",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://www.diariovasco.com/deportes/futbol/liga-primera/real-madrid-abre-cuesta-enero-emboscada-20260103173938-ntrc.html",
+        "date": "2026-01-03 16:47:44",
+        "sentiment_score": -0.050066202878952026
+    },
+    {
+        "title": "Pellegrini: \"El puesto de entrenador del Real Madrid exige ganar, golear y gustar, las tres cosas\"",
+        "image_url": "https://www.infobae.com/resizer/v2/4PPXYNERVRBMPPNJJHGU6XBAKY.jpg?auth=02d3144b41d19f709c5479fe6bca9b7e976e6028727de09ef8a311f2d1841b46&height=1280&smart=true&width=1920",
+        "tags": [
+            "sevilla",
+            "europapress",
+            "isco alarcón",
+            "real madrid",
+            "entrenador",
+            "fútbol",
+            "santiago bernabéu",
+            "refuerzo",
+            "manuel pellegrini",
+            "xabi alonso",
+            "lesión"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/03/pellegrini-el-puesto-de-entrenador-del-real-madrid-exige-ganar-golear-y-gustar-las-tres-cosas/",
+        "date": "2026-01-03 16:46:12",
+        "sentiment_score": 0.3022906482219696
+    },
+    {
+        "title": "El Cacereño afronta la primera de sus veintiuna batallas restantes",
+        "image_url": "https://s2.ppllstatics.com/hoy/www/multimedia/2026/01/03/Joserra-RAtkL9Du2TZlwxWEsf5H74H-1200x840@Hoy.jpg",
+        "tags": [
+            "primera",
+            "cacereno",
+            "afronta",
+            "batallas",
+            "veintiuna",
+            "restantes"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/primera-rfef/cacereno-afronta-primera-veintiuna-batallas-restantes-20260103174308-nt.html",
+        "date": "2026-01-03 16:43:09",
+        "sentiment_score": 0.44899214059114456
+    },
+    {
+        "title": "Pellegrino Matarazzo: \"El Atlético busca esos pequeños momentos para definir cómo es cada partido\"",
+        "image_url": "https://www.infobae.com/resizer/v2/VDAREJSJEFH73NX4QKFBZ7BCQQ.jpg?auth=50606c060562dbe3cc914b795b02a6708a081711f9cb12fcb1cc91fe446ca8b0&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/03/pellegrino-matarazzo-el-atletico-busca-esos-pequenos-momentos-para-definir-como-es-cada-partido/",
+        "date": "2026-01-03 16:30:33",
+        "sentiment_score": 0.16738684102892876
+    },
+    {
+        "title": "Primer muerto del año en las carreteras catalanas, en la AP-7 en Castellbisbal (Barcelona)",
+        "image_url": "https://www.infobae.com/resizer/v2/Y5E2QKDWLJD6JCWK7WDM4PWDG4.jpg?auth=fd3806efed033119c02fea3e28a9049bc2c04abbcd3bace187a52a843a6cb301&height=1280&smart=true&width=1920",
+        "tags": [
+            "europapress",
+            "castellbisbal",
+            "accidente de tráfico",
+            "barcelona",
+            "bombers de la generalitat",
+            "ap-7",
+            "víctimas mortales",
+            "servei català de trànsit",
+            "mossos desquadra",
+            "carreteras catalanas",
+            "hospital de bellvitge"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/03/primer-muerto-del-ano-en-las-carreteras-catalanas-en-la-ap-7-en-castellbisbal-barcelona/",
+        "date": "2026-01-03 17:16:56",
+        "sentiment_score": -0.8011520709842443
+    },
+    {
+        "title": "El Polo se renueva y electrifica",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b430d7e5-819e-44ee-9a79-9dbd887f7237_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "clásico",
+            "volkswagen",
+            "neomotor",
+            "lfp"
+        ],
+        "link": "https://www.informacion.es/motor/2026/01/03/polo-renueva-electrifica-125344267.html",
+        "date": "2026-01-03 17:09:08",
+        "sentiment_score": 0.23726659081876278
+    },
+    {
+        "title": "\"Para protegernos del cura nos envolvíamos muy fuerte con las sábanas\"",
+        "image_url": "https://static1.ara.cat/clip/1ccdcc99-77a5-4a28-bb83-ec66d70f87a7_16-9-aspect-ratio_default_0.png",
+        "tags": [
+            "envolviamos",
+            "fuerte",
+            "sabanas",
+            "cura",
+            "protegernos"
+        ],
+        "link": "https://es.ara.cat/cultura/cine/protegernos-cura-envolviamos-fuerte-sabanas_1_5608250.html",
+        "date": "2026-01-03 17:00:19",
+        "sentiment_score": -0.4355488196015358
+    },
+    {
+        "title": "Nicolás Maduro, el aficionado más singular del Barça: de ser 'el nuevo fichaje' a enfadarse con Laporta por la salida de Messi",
+        "image_url": "https://s3.elespanol.com/2026/01/03/actualidad/1003744077491_260759629_1706x960.jpg",
+        "tags": [
+            "fútbol",
+            "venezuela",
+            "nicolás maduro",
+            "deportes",
+            "fc barcelona"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260103/nicolas-maduro-aficionado-singular-barca-nuevo-fichaje-enfadarse-laporta-salida-messi/1003744077486_0.html",
+        "date": "2026-01-03 16:59:49",
+        "sentiment_score": -0.8729120139032602
+    },
+    {
+        "title": "\"Esperanza\", \"prudencia\" y alegría espontánea en las calles: Así han reaccionado los venezolanos en España",
+        "image_url": "https://static1.ara.cat/clip/08527b9e-6602-430d-b5da-182d30d2d297_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "prudencia",
+            "calles",
+            "reaccionado",
+            "espontanea",
+            "han",
+            "espana",
+            "alegria",
+            "venezolanos",
+            "esperanza"
+        ],
+        "link": "https://es.ara.cat/politica/esperanza-prudencia-alegria-espontanea-calles-han-reaccionado-venezolanos-espana_1_5608229.html",
+        "date": "2026-01-03 16:37:18",
+        "sentiment_score": -0.09712371230125427
+    },
+    {
+        "title": "Trump habla tras bombardear a Venezuela y capturar a Maduro",
+        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/images/default.jpg",
+        "tags": [
+            "internacional"
+        ],
+        "link": "https://www.lavanguardia.com/internacional/20260103/11410552/trump-habla-bombardear-venezuela-capturar-maduro.html",
+        "date": "2026-01-03 16:23:53",
+        "sentiment_score": -0.4128672927618027
+    },
+    {
+        "title": "Estos son los centros comerciales de Barcelona abiertos este domingo, 4 de enero, para las compras de Reyes",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2020/12/14/economia/543455656_10016977_1706x960.jpg",
+        "tags": [
+            "navidad barcelona",
+            "compras bcn",
+            "centro comercial",
+            "vivir en barcelona",
+            "comercio"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260103/centros-comerciales-barcelona-abiertos-domingo-enero-compras-reyes/1003742720657_0.html",
+        "date": "2026-01-03 16:21:36",
+        "sentiment_score": 0.44350145012140274
+    },
+    {
+        "title": "Barcelona, preparada para la llegada del frío intenso y la nieve: el Meteocat lo confirma y activa el aviso por nevadas en la ciudad a partir de esta fecha",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/files/fp/uploads/2023/02/28/63fdb9894e9f2.r_d.2758-2320.jpeg",
+        "tags": [
+            "actualidad"
+        ],
+        "link": "https://www.mundodeportivo.com/actualidad/20260103/1002595331/barcelona-preparada-llegada-frio-intenso-nieve-meteocat-confirma-activa-aviso-nevadas-ciudad-partir-fecha-dct.html",
+        "date": "2026-01-03 16:21:13",
+        "sentiment_score": -0.8838963583111763
+    },
+    {
+        "title": "Del Mag Lari con Bartomeu al Mago Pop con Laporta: la magia y el Barça, siempre de la mano",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/03/culemania/palco/1003742720670_15569161_1706x960.jpg",
+        "tags": [
+            "palco",
+            "fc barcelona",
+            "joan laporta",
+            "josep maria bartomeu",
+            "el clásico"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260103/mag-lari-bartomeu-mago-pop-laporta-barca/1003742717086_0.html",
+        "date": "2026-01-03 16:18:00",
+        "sentiment_score": 0.6213145032525063
+    },
+    {
+        "title": "Julio Ceballos: “El modelo liberal democrático es el mejor para nosotros cuando es eficaz y lleva décadas perdiendo eficacia”",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/24/actualidad/1003742718923_15548323_1706x960.jpg",
+        "tags": [
+            "literatura",
+            "ideas",
+            "filosofia"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/letraglobal/ideas/20260103/julio-ceballos-liberal-democratico-decadas-perdiendo-eficacia/1003742718910_0.html",
+        "date": "2026-01-03 16:15:16",
+        "sentiment_score": 0.2854781150817871
     }
 ];
