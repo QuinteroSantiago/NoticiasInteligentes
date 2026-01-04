@@ -3217,5 +3217,296 @@ export default [
         "link": "https://2001online.com/nacionales/presidente-de-avior-a-partir-de-este-4-de-enero-se-reactivaran-los-vuelos-nacionales-en-venezuela-2026131810",
         "date": "2026-01-03 22:01:00",
         "sentiment_score": 0.12750835716724396
+    },
+    {
+        "title": "Nicolás Maduro y Cilia Flores van rumbo a Nueva York en un buque de guerra",
+        "image_url": "https://static.wixstatic.com/media/cf263a_0597c58d890740338f9fe134c2b251e5~mv2.png/v1/fit/w_709,h_400,al_c,q_80/file.png",
+        "tags": [
+            "información"
+        ],
+        "link": "https://www.informe21.com/post/nicol%C3%A1s-maduro-y-cilia-flores-van-rumbo-a-nueva-york-en-un-buque-de-guerra",
+        "date": "2026-01-03 18:25:51",
+        "sentiment_score": -0.07680349051952362
+    },
+    {
+        "title": "EEUU desplegó más de 150 aeronaves en una misión de varias horas para capturar a Maduro",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/Screenshot_148.jpg",
+        "tags": [
+            "eeuu",
+            "150 aeronaves",
+            "desplegó",
+            "internacionales",
+            "actualidad",
+            "maduro",
+            "nacionales",
+            "capturar"
+        ],
+        "link": "https://lapatilla.com/2026/01/03/eeuu-desplego-mas-de-150-aeronaves-en-una-mision-de-varias-horas-para-capturar-a-maduro/",
+        "date": "2026-01-03 17:54:36",
+        "sentiment_score": -0.046431973576545715
+    },
+    {
+        "title": "¿Quién es Vladimir Padrino López, el ministro de Defensa de Venezuela?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/vladimir-padrino-lopez-fanb.jpg",
+        "tags": [
+            "nacionales",
+            "actualidad",
+            "vladimir padrino lópez"
+        ],
+        "link": "https://lapatilla.com/2026/01/03/quien-es-vladimir-padrino-lopez-el-ministro-de-defensa-de-venezuela/",
+        "date": "2026-01-03 15:31:31",
+        "sentiment_score": -0.7555732652544975
+    },
+    {
+        "title": "¿Qué ocurrirá en Venezuela tras la acción de EEUU?",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/be0bac6fade27944ed7bb479361873106a09979aw.jpg",
+        "tags": [
+            "eeuu",
+            "venezuela",
+            "actualidad",
+            "internacionales",
+            "nacionales"
+        ],
+        "link": "https://lapatilla.com/2026/01/03/que-ocurrira-en-venezuela-tras-la-accion-de-eeuu/",
+        "date": "2026-01-03 14:18:41",
+        "sentiment_score": -0.36414238065481186
+    },
+    {
+        "title": "Nicolás Maduro, el político improbable que desafió a todos los pronósticos pero no pudo con el último",
+        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2025/12/regimen-de-nicolas-maduro-venezuela.jpg",
+        "tags": [
+            "actualidad",
+            "nicolás maduro",
+            "nacionales",
+            "internacionales"
+        ],
+        "link": "https://lapatilla.com/2026/01/03/nicolas-maduro-el-politico-improbable-que-desafio-a-todos-los-pronosticos-pero-no-pudo-con-el-ultimo/",
+        "date": "2026-01-03 12:54:13",
+        "sentiment_score": -0.7725244555622339
+    },
+    {
+        "title": "Petro condena el ataque de EE.UU. a Venezuela y convoca al Consejo de Seguridad de la ONU",
+        "image_url": "https://cdn.mnmstatic.net/cache/3f/0c/media_thumb-link-4132087.webp?1767449946=",
+        "tags": [
+            "condena",
+            "colombia",
+            "politica",
+            "petro",
+            "ataque",
+            "consejo de seguridad",
+            "onu"
+        ],
+        "link": "https://www.meneame.net/story/petro-condena-ataque-ee-uu-venezuela-convoca-consejo-seguridad",
+        "date": "2026-01-03 16:50:05",
+        "sentiment_score": -0.21643634140491486
+    },
+    {
+        "title": "Sergio, creador de una app que \"revoluciona\" el fútbol base y apoyada por Juan Roig: \"Dijeron que íbamos a matar el deporte\"",
+        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076962_260753051_1706x960.jpg",
+        "tags": [
+            "valencia",
+            "comunidad valenciana",
+            "fútbol",
+            "inteligencia artificial"
+        ],
+        "link": "https://www.elespanol.com/valencia/20260104/sergio-creador-app-revoluciona-futbol-base-apoyada-juan-roig-dijeron-ibamos-matar-deporte/1003744076491_0.html",
+        "date": "2026-01-04 01:40:55",
+        "sentiment_score": 0.2009463906288147
+    },
+    {
+        "title": "Así negocié con los okupas para recuperar mi casa: \"Te sientes como un delincuente\"",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/05def6b73a1113170099687077a8b3d3/crop/172x33/821x682/f/image/jpeg/assets/multimedia/imagenes/2024/11/08/17310771747216.jpg",
+        "tags": [
+            "artículos clara rojas",
+            "vivienda"
+        ],
+        "link": "https://www.elmundo.es/economia/vivienda/2026/01/04/695796e8fc6c83d1638b457c.html",
+        "date": "2026-01-04 01:37:17",
+        "sentiment_score": 0.1037619560956955
+    },
+    {
+        "title": "Esther Ferrer: la belleza de los números primos en la Real Fábrica de Moneda y Timbre",
+        "image_url": "https://s3.elespanol.com/2025/12/18/actualidad/1003744061987_260563772_1706x960.jpg",
+        "tags": [
+            "arte",
+            "exposiciones",
+            "madrid",
+            "ec-critica-arte"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/arte/20260104/esther-ferrer-belleza-numeros-primos-real-fabrica-moneda-timbre/1003744061926_0.html",
+        "date": "2026-01-04 01:17:22",
+        "sentiment_score": 0.8608470074832439
+    },
+    {
+        "title": "La película de culto sobre las adicciones que usa Madrid como escenario: \"El director toma una decisión que es vivir y morir con heroína, controlando los tiempos\"",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/01/01/17672848968411.jpg",
+        "tags": [
+            "madrid"
+        ],
+        "link": "https://www.elmundo.es/madrid/2026/01/04/69569ee5fc6c83c23a8b45c3.html",
+        "date": "2026-01-04 01:10:29",
+        "sentiment_score": -0.032287657260894775
+    },
+    {
+        "title": "Imparable: el Barcelona suma su novena victoria consecutiva ante el Espanyol",
+        "image_url": "https://pxcdn.meridiano.net/012026/1767498825417.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/imparable-el-barcelona-suma-su-novena-victoria-consecutiva-ante-el-espanyol-2026132160",
+        "date": "2026-01-04 01:06:00",
+        "sentiment_score": -0.5450340583920479
+    },
+    {
+        "title": "Un viaje por la gastronomía castiza y centenaria de Madrid: de la fundación del PSOE entre pinchos de bacalao a la actriz Catherine Zeta-Jones cantando con la tuna",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2024/05/31/17171530795787.jpg",
+        "tags": [
+            "gastronomía",
+            "madrid",
+            "comer",
+            "libros",
+            "restaurantes"
+        ],
+        "link": "https://www.elmundo.es/metropoli/gastronomia/2026/01/04/694146d7fdddffd1318b457f.html",
+        "date": "2026-01-04 00:38:12",
+        "sentiment_score": 0.25546758621931076
+    },
+    {
+        "title": "La Real estrena año y entrenador ante el Atlético: vida nueva",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/88044ecf-474a-4262-b524-cd9d0b1f53d0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sociedad",
+            "vida",
+            "nueva",
+            "real",
+            "atlético",
+            "madrid",
+            "previa"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/04/previa-vida-nueva-real-sociedad-atletico-madrid-10536320.html",
+        "date": "2026-01-04 00:24:51",
+        "sentiment_score": 0.1413775086402893
+    },
+    {
+        "title": "03 ENE 2026 | TRAMO FINAL DE TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/03-ene-2026-tramo-final-juego-20260104_3280657.html",
+        "date": "2026-01-04 00:03:13",
+        "sentiment_score": 0.15608159825205803
+    },
+    {
+        "title": "La inusual salvada del arquero del Barcelona que empujó a su defensor para evitar el gol y fue clave para ganar el clásico",
+        "image_url": "https://www.infobae.com/resizer/v2/DF7OGQAYUZA5JLOMFP5EEW6LHQ.JPG?auth=3fc1b3c65045f3ce870387ea222230725001cb8f52c4a82c6ceb7cfc47a28170&height=1032&smart=true&width=1835",
+        "tags": [
+            "joan garcía",
+            "la liga de españa",
+            "barcelona",
+            "gerard martin",
+            "espanyol",
+            "deportes-internacional"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/03/la-inusual-salvada-del-arquero-del-barcelona-que-empujo-a-su-defensor-para-evitar-el-gol-y-fue-clave-para-ganar-el-clasico/",
+        "date": "2026-01-03 23:45:11",
+        "sentiment_score": 0.8264713771641254
+    },
+    {
+        "title": "2a PARTE | 03 ENE 2026 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/2a-parte-03-ene-2026-juego-20260104_3280655.html",
+        "date": "2026-01-03 23:33:32",
+        "sentiment_score": -0.08152129501104355
+    },
+    {
+        "title": "Los Domínguez, de un taller en un pueblo de Málaga a vender en 100 países con Mayoral: su patrimonio es 1.200 millones",
+        "image_url": "https://s3.elespanol.com/2018/01/04/actualidad/274734490_59335560_1706x960.jpg",
+        "tags": [
+            "economía",
+            "moda infantil",
+            "málaga",
+            "empresas"
+        ],
+        "link": "https://www.elespanol.com/malaga/economia/20260104/dominguez-taller-pueblo-malaga-vender-paises-mayoral-patrimonio-millones-dl/1003744075389_0.html",
+        "date": "2026-01-04 01:38:12",
+        "sentiment_score": 0.4584345668554306
+    },
+    {
+        "title": "Tope histórico de víctimas que convivían con su agresor y denuncias en mínimos en el año con menos asesinatos machistas",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/100cc57e14e19b0030a2412626aad5ec/crop/1116x125/2131x1140/f/image/jpeg/assets/multimedia/imagenes/2024/10/31/17303778454999.jpg",
+        "tags": [
+            "artículos silvia lorenzo",
+            "vox",
+            "guardia civil",
+            "pedro sánchez"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/01/04/69594724e4d4d830628b45ac.html",
+        "date": "2026-01-04 01:31:48",
+        "sentiment_score": -0.34694381058216095
+    },
+    {
+        "title": "Abraham Boba y el gran festín de León Benavente: \"No somos el grupo de moda, vamos a lo nuestro\"",
+        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076540_260747031_1706x960.jpg",
+        "tags": [
+            "música",
+            "conciertos",
+            "libros"
+        ],
+        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20260104/abraham-boba-gran-festin-leon-benavente-no-grupo-moda-vamos/1003744076495_0.html",
+        "date": "2026-01-04 01:17:09",
+        "sentiment_score": 0.32443876937031746
+    },
+    {
+        "title": "MVP: Joan García",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/04/culemania/tarjetas-jornada/1003742720754_15570389_1706x960.jpg",
+        "tags": [
+            "el mvp y las tarjetas de la jornada",
+            "hansi flick",
+            "barça",
+            "rcd espanyol",
+            "joan garcía"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/tarjetas-jornada/20260104/mvp-joan-garcia/1003742720730_0.html",
+        "date": "2026-01-04 00:43:52",
+        "sentiment_score": 0.8000233881175518
+    },
+    {
+        "title": "Brigitte Bardot era \"insufrible\": así recordaba Teresa Gimpera, ya fallecida, a la actriz francesa con la que rodó en España",
+        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076869_260751485_1706x960.jpg",
+        "tags": [
+            "cine",
+            "raquel welch",
+            "actrices",
+            "brigitte bardot",
+            "celebrities"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20260104/brigitte-bardot-insufrible-recordaba-teresa-gimpera-fallecida-actriz-francesa-rodo-espana/1003744076158_0.html",
+        "date": "2026-01-04 00:31:05",
+        "sentiment_score": -0.9035196201875806
+    },
+    {
+        "title": "Enric Mestre",
+        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/01/6956936939450.r_d.802-422.png",
+        "tags": [
+            "obituarios"
+        ],
+        "link": "https://www.eldebate.com/obituarios/20260104/referente-mundial-ceramica_371018.html",
+        "date": "2026-01-04 00:30:00",
+        "sentiment_score": 0.31818918883800507
+    },
+    {
+        "title": "Maduro y su conocida afición por el FC Barcelona vuelve a escena",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/25/2025082522175120826.jpg",
+        "tags": [
+            "gente"
+        ],
+        "link": "https://www.mundiario.com/articulo/gente/maduro-conocida-aficion-fc-barcelona-vuelve-escena/20260104010647369298.html",
+        "date": "2026-01-04 00:06:47",
+        "sentiment_score": -0.06090064346790314
     }
 ];
