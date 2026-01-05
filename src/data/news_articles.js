@@ -1,129 +1,5 @@
 export default [
     {
-        "title": "El Atlético se planta: tranquilidad total con el futuro de Julián Alvarez",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081800081853699.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/atletico-planta-tranquilidad-total-futuro-julian-alvarez/20260101072055368987.html",
-        "date": "2026-01-01 06:20:55",
-        "sentiment_score": 0.2055225670337677
-    },
-    {
-        "title": "Los grandes deseos y objetivos del Espanyol para 2026: con los pies en el suelo y los sueños muy arriba",
-        "image_url": "https://lagradaonline.com/wp-content/uploads/2025/12/objetivos-espanyol-2026-caricatura-750x422.jpg",
-        "tags": [
-            "rcd espanyol"
-        ],
-        "link": "https://lagradaonline.com/objetivos-espanyol-2026-laliga-europa-velocity/",
-        "date": "2026-01-01 06:00:15",
-        "sentiment_score": 0.7092682495713234
-    },
-    {
-        "title": "Las diez tardes clave de la temporada de Marco Pérez: así fue su 2025",
-        "image_url": "https://s2.ppllstatics.com/lagacetadesalamanca/www/multimedia/2025/12/30/marcouno-RvbSZ32WIA3uWhDkOIImy4N-758x531@Gaceta%20Salamanca.jpg",
-        "tags": [
-            "plaza de toros de la glorieta",
-            "francia",
-            "toros",
-            "venezuela",
-            "mérida",
-            "españa",
-            "colombia",
-            "huelva"
-        ],
-        "link": "https://www.lagacetadesalamanca.es/toros/diez-tardes-clave-temporada-marco-perez-2025-20251230070000-nt.html",
-        "date": "2026-01-01 06:00:02",
-        "sentiment_score": 0.5446284413337708
-    },
-    {
-        "title": "El Córdoba CF, ante su particular cuesta de enero",
-        "image_url": "https://static.grupojoly.com/clip/38371b4c-7263-48aa-917a-664e0d596345_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias córdoba",
-            "córdoba club de fútbol"
-        ],
-        "link": "https://www.eldiadecordoba.es/cordobacf/cordoba-cf-particular-cuesta-enero_0_2005522727.html",
-        "date": "2026-01-01 05:59:54",
-        "sentiment_score": 0.16191530227661133
-    },
-    {
-        "title": "2025, otro año productivo para las vitrinas de Los Guindos y de reseteo en el Unicaja",
-        "image_url": "https://s3.elespanol.com/2025/02/16/actualidad/924668018_253172998_1706x960.jpg",
-        "tags": [
-            "club baloncesto málaga (unicaja málaga)",
-            "baloncesto",
-            "unicaja"
-        ],
-        "link": "https://www.elespanol.com/malaga/deporte/unicaja/20260101/ano-productivo-vitrinas-guindos-reseteo-unicaja/1003744072648_0.html",
-        "date": "2026-01-01 05:50:00",
-        "sentiment_score": 0.6729782149195671
-    },
-    {
-        "title": "Marruecos mueve ficha con un blindado 8×8 fabricado en casa mientras España acelera su gran programa terrestre",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2025/07/07/2025070719313311710.jpg",
-        "tags": [
-            "defensa"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/defensa/marruecos-mueve-ficha-blindado-8%C3%978-fabricado-casa-mientras-espana-acelera-gran-programa-terrestre/20260101063500996052.html",
-        "date": "2026-01-01 05:35:00",
-        "sentiment_score": 0.16333797574043274
-    },
-    {
-        "title": "Vlahovic vuelve al radar del Barça mientras se decide el futuro de Lewandowski",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/01/2026010107322233824.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/futuro-lewandowski/20260101073320368989.html",
-        "date": "2026-01-01 06:33:20",
-        "sentiment_score": 0.23864781856536865
-    },
-    {
-        "title": "La gasolina más barata y más cara de Madrid, Barcelona y otras ciudades de España este 1 de enero",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "precio gasolina",
-            "gasolina",
-            "noticias",
-            "españa-economia"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/01/la-gasolina-mas-barata-y-mas-cara-de-madrid-barcelona-y-otras-ciudades-de-espana-este-1-de-enero/",
-        "date": "2026-01-01 06:30:56",
-        "sentiment_score": -0.17768016085028648
-    },
-    {
-        "title": "España cumple los 40 en la Unión Europea",
-        "image_url": "https://s2.ppllstatics.com/rc/www/multimedia/2025/12/30/40-esp-eu-1200x840.jpg",
-        "tags": [
-            "unión europea",
-            "españa"
-        ],
-        "link": "https://www.eldiariomontanes.es/nacional/espana-cumple-union-europea-20260101070623-ntrc.html",
-        "date": "2026-01-01 06:06:24",
-        "sentiment_score": 0.863344507291913
-    },
-    {
-        "title": "Oro, platino, titanio y mucha complicación: el tiempo prémium anuncia una nueva dimensión",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/30/6953bb767501e.r_d.404-600-6051.png",
-        "tags": [
-            "moda"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/moda/20260101/11379158/oro-platino-titanio-relojes-premium-nueva-dimension.html",
-        "date": "2026-01-01 05:50:00",
-        "sentiment_score": -0.2401721253991127
-    },
-    {
-        "title": "El precio de las licencias del taxi en Cataluña se dispara en plena discusión por la nueva ley",
-        "image_url": "https://static.merca2.es/wp-content/uploads/2025/12/Marcha-lenta-del-taxi-en-Barcelona.webp",
-        "tags": [
-            "últimas noticias"
-        ],
-        "link": "https://www.merca2.es/2026/01/01/licencia-taxi-barcelona-precio-2339413/",
-        "date": "2026-01-01 05:30:00",
-        "sentiment_score": -0.35231512039899826
-    },
-    {
         "title": "El Casademont Zaragoza U22 mira al liderato de la Liga U",
         "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2025/11/14/partido-casademont-zaragoza-barcelona-de-la-liga-u22-en-el-pabellon-principe-felipe-19.jpeg",
         "tags": [
@@ -3084,5 +2960,225 @@ export default [
         "link": "https://www.mundodeportivo.com/videos/baloncesto/20260104/1002595808/fiesta-barca-basket-vestuario-ganar-clasico.html",
         "date": "2026-01-04 16:49:58",
         "sentiment_score": 0.14670980721712112
+    },
+    {
+        "title": "La vida sigue igual para el Atlético",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/04/real-atletico-kpuC-U240743366121dNC-1200x840@RC.jpg",
+        "tags": [
+            "real sociedad de fútbol",
+            "koke",
+            "antoine griezmann",
+            "jan oblak",
+            "atlético de madrid"
+        ],
+        "link": "https://www.leonoticias.com/deportes/futbol/liga-primera/atletico-sigue-dar-tecla-lejos-metropolitano-20260104230715-ntrc.html",
+        "date": "2026-01-04 22:20:54",
+        "sentiment_score": -0.5214499831199646
+    },
+    {
+        "title": "El Atlético se estanca contra la Real de Matarazzo",
+        "image_url": "https://www.latribunadetoledo.es/media/img/2026/5f6be744-00b8-4a71-a9a3d47ace709ee1.jpg",
+        "tags": [
+            "grupo promecal",
+            "toledano",
+            "consuegra",
+            "prensa",
+            "talavera de la reina",
+            "vivir",
+            "diario",
+            "provincia",
+            "noticias",
+            "toledo",
+            "fuensalida",
+            "illescas",
+            "promecal",
+            "periódico",
+            "actualidad",
+            "ocaña",
+            "toledana",
+            "madrigalejos"
+        ],
+        "link": "https://www.latribunadetoledo.es/noticia/z579c2eac-8028-41a2-85c9d81d50bbd975/202601/el-atletico-se-estanca-contra-la-real-de-matarazzo",
+        "date": "2026-01-04 22:20:23",
+        "sentiment_score": -0.8122806549072266
+    },
+    {
+        "title": "El Atlético sigue sin dar con la tecla lejos del Metropolitano",
+        "image_url": "https://s3.ppllstatics.com/rc/www/multimedia/2026/01/04/real-atletico-kpuC-U240743366121dNC-1200x840@RC.jpg",
+        "tags": [
+            "cronica",
+            "real",
+            "sociedad",
+            "atletico"
+        ],
+        "link": "https://www.hoy.es/deportes/futbol/liga-primera/atletico-sigue-dar-tecla-lejos-metropolitano-20260104230715-ntrc.html",
+        "date": "2026-01-04 22:07:17",
+        "sentiment_score": -0.8526992835104465
+    },
+    {
+        "title": "Las mejores imágenes del Real - Atlético de Madrid (1-1)",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/4d444eb8-a84d-49c0-ae00-4140292b8dad_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "imagenes",
+            "atletico",
+            "real",
+            "madrid",
+            "mejores"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/04/mejores-imagenes-real-atletico-madrid-10539552.html",
+        "date": "2026-01-04 22:05:43",
+        "sentiment_score": 0.24494943022727966
+    },
+    {
+        "title": "22:00 | 04 ENE 2026 | TIEMPO DE JUEGO",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/horas-completas/22-00-04-ene-2026-juego-20260104_3280793.html",
+        "date": "2026-01-04 22:05:35",
+        "sentiment_score": 0.08894016221165657
+    },
+    {
+        "title": "Resultados, clasificación, crónica y resúmenes de la Jornada 18 de LaLiga EA Sports 25-26 | El Espanyol conserva los cinco puntos de ventaja sobre el Betis; Levante, y Girona próximos rivales, reaccionan con victorias",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2026/01/laliga-ea-sports-25-26-jornada-18-domingo-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/liga-jornada-18-resultados-clasificacion-cronica-resumen-partidos-rcd-espanyol-barca-domingo/",
+        "date": "2026-01-04 22:03:33",
+        "sentiment_score": 0.26790156960487366
+    },
+    {
+        "title": "Quinigol: resultados del 4 de enero",
+        "image_url": "https://www.infobae.com/resizer/v2/ZREB2RDNHJG65KZ4BHGFT66QMU.png?auth=4157cbba8b2f2cf33879727b4e1979450d4a81bab52957a85efae525adb8aae7&height=1080&smart=true&width=1920",
+        "tags": [
+            "noticias",
+            "quinigol",
+            "españa-loterias"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/04/quinigol-resultados-del-4-de-enero/",
+        "date": "2026-01-04 22:00:29",
+        "sentiment_score": 0.42532434314489365
+    },
+    {
+        "title": "La afición de la Real opina: ¿quién ha sido el mejor contra el Atlético?",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/69aa42ec-3c95-4a41-8627-61cef227f5fd_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "real",
+            "mejor",
+            "aficion",
+            "sido",
+            "opina"
+        ],
+        "link": "https://www.noticiasdegipuzkoa.eus/reala/2026/01/04/aficion-real-opina-sido-mejor-10532629.html",
+        "date": "2026-01-04 21:51:54",
+        "sentiment_score": -0.08250107616186142
+    },
+    {
+        "title": "Las dos estrellas del Barça Femenino que amenazan a Alexia Putellas para suceder a Aitana Bonmatí en el Balón de Oro",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/11/12/culemania/secciones/1003742706958_15571609_1706x960.jpg",
+        "tags": [
+            "secciones",
+            "futfem",
+            "fcbfemeni",
+            "aitana bonmatí",
+            "alexia putellas"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20260104/barca-femenino-alexia-putellas-aitana-bonmati-balon/1003742720872_0.html",
+        "date": "2026-01-04 21:42:31",
+        "sentiment_score": 0.8864610344171524
+    },
+    {
+        "title": "Mineros, electricistas, técnicos y presidentes: las tres caras de la carrera laboral que puede perder España",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/eff26eeb1c56eb78de4f6cc54ae9e8de/crop/0x0/1000x1000/f/image/jpeg/assets/multimedia/imagenes/2022/06/01/16540908229228.jpg",
+        "tags": [
+            "nlpremium",
+            "artículos guillermo del palacio"
+        ],
+        "link": "https://www.elmundo.es/economia/2026/01/04/6952a77a21efa04c4e8b45a0.html",
+        "date": "2026-01-04 21:41:15",
+        "sentiment_score": 0.11369144916534424
+    },
+    {
+        "title": "Horario y recorrido de las cabalgatas de Reyes Magos en Barcelona 2026",
+        "image_url": "https://www.mundodeportivo.com/files/image_449_220/uploads/2025/01/06/677bac633a806.jpeg",
+        "tags": [
+            "horarios"
+        ],
+        "link": "https://www.mundodeportivo.com/horarios/20260104/1002595813/horario-recorrido-cabalgatas-reyes-magos-barcelona-2026.html",
+        "date": "2026-01-04 22:06:27",
+        "sentiment_score": 0.5815899949520826
+    },
+    {
+        "title": "Los diez temas que marcarán la agenda internacional del nuevo año 2026",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/4b25fb948d7d85f6f696cb4346ab4a14/crop/172x38/1810x1130/resize/1200/f/webp/assets/multimedia/imagenes/2026/01/04/17675413670991.jpg",
+        "tags": [
+            "donald trump>",
+            "artículos david casals>",
+            "política>",
+            "economía>",
+            "cataluña>"
+        ],
+        "link": "https://www.expansion.com/economia/politica/2026/01/04/69582c5ee5fdea9f3e8b45ae.html",
+        "date": "2026-01-04 22:01:26",
+        "sentiment_score": -0.8807363063097
+    },
+    {
+        "title": "Muere a los 91 años el periodista Joan Armengol, histórico de la radio y la televisión de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2026/01/04/quien-hace-barcelona/1003742720878_15571589_1706x960.jpg",
+        "tags": [
+            "¿quién hace barcelona?",
+            "periódicos barcelona",
+            "barcelona",
+            "televisión"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/quien-hace-barcelona/20260104/muere-anos-periodista-joan-armengol-historico-radio-television-barcelona/1003742720874_0.html",
+        "date": "2026-01-04 21:38:40",
+        "sentiment_score": 0.21250461786985397
+    },
+    {
+        "title": "Hilda, Mireya... María 1900-19xx y otros teldesianos",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f4d4f126-4856-45f6-ba22-ffb467d5dd85_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "granada",
+            "suárez",
+            "santana",
+            "universidad",
+            "guerra civil",
+            "jesús",
+            "cultura"
+        ],
+        "link": "https://www.laprovincia.es/cultura/2026/01/04/hilda-mireya-maria-1900-19xx-125373456.html",
+        "date": "2026-01-04 21:35:41",
+        "sentiment_score": 0.020892322063446045
+    },
+    {
+        "title": "El amor solo, solo el amor",
+        "image_url": "https://static.eldiario.es/clip/a104cc05-d61f-4a6e-a2df-8f0ed98a07e5_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "amor"
+        ],
+        "link": "https://www.eldiario.es/sociedad/amor-amor_1_12856719.html",
+        "date": "2026-01-04 21:24:35",
+        "sentiment_score": -0.12321795523166656
+    },
+    {
+        "title": "España tiene suelo vacante para construir 6,7 millones de viviendas nuevas",
+        "image_url": "https://static.eldiario.es/clip/7a065b47-f22e-4a59-9d42-9fbea9f4ab6b_16-9-discover-aspect-ratio_default_1133520.jpg",
+        "tags": [
+            "6",
+            "nuevas",
+            "millones",
+            "construir",
+            "viviendas",
+            "7",
+            "espana",
+            "suelo",
+            "vacante"
+        ],
+        "link": "https://www.eldiario.es/economia/espana-suelo-vacante-construir-6-7-millones-viviendas-nuevas_1_12877765.html",
+        "date": "2026-01-04 21:24:33",
+        "sentiment_score": -0.09352633357048035
     }
 ];
