@@ -1,233 +1,5 @@
 export default [
     {
-        "title": "El Casademont Zaragoza U22 mira al liderato de la Liga U",
-        "image_url": "https://imagenes.heraldo.es/files/image_1920_1080/uploads/imagenes/2025/11/14/partido-casademont-zaragoza-barcelona-de-la-liga-u22-en-el-pabellon-principe-felipe-19.jpeg",
-        "tags": [
-            "baloncesto"
-        ],
-        "link": "https://www.heraldo.es/noticias/deportes/baloncesto/2026/01/01/casademont-zaragoza-u22-mira-liderato-liga-u-1882553.html",
-        "date": "2026-01-01 17:16:00",
-        "sentiment_score": 0.566253712400794
-    },
-    {
-        "title": "Fallece a los 89 años Enric Mestre, maestro y referente internacional de la cerámica contemporánea",
-        "image_url": "https://www.infobae.com/resizer/v2/4U5U7JROMVDCRLWS367D4GWSHA.jpg?auth=e166a81f1ee196e5f07ef5a4f93d115356e5817567cb7d80d6fb04aaed0fd2f4&height=1080&smart=true&width=1920",
-        "tags": [
-            "enric mestre",
-            "museo nacional de cerámica y artes suntuarias gonzález martí",
-            "europapress",
-            "alboraya",
-            "valència",
-            "cerámica contemporánea",
-            "premio de las artes plásticas",
-            "exposiciones",
-            "academia internacional de cerámica",
-            "arte",
-            "ayuntamiento de alboraya"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/01/fallece-a-los-89-anos-enric-mestre-maestro-y-referente-internacional-de-la-ceramica-contemporanea/",
-        "date": "2026-01-01 17:15:38",
-        "sentiment_score": 0.6449132710695267
-    },
-    {
-        "title": "Fallece a los 89 años Enric Mestre, maestro y referente internacional de la cerámica contemporánea",
-        "image_url": "https://estaticosgn-cdn.deia.eus/clip/9922c927-8a60-4e32-b03a-e6480bf0b5c7_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cerámica",
-            "enric",
-            "mestre",
-            "fallece"
-        ],
-        "link": "https://www.noticiasdegipuzkoa.eus/cultura/2026/01/01/fallece-enric-mestre-ceramica-10530953.html",
-        "date": "2026-01-01 17:11:15",
-        "sentiment_score": -0.6655565109103918
-    },
-    {
-        "title": "Qué se sabe del estado de salud de Roberto Carlos tras su operación de urgencia en Brasil",
-        "image_url": "https://s3.elespanol.com/2025/12/31/actualidad/1003744074898_260725360_1706x960.jpg",
-        "tags": [
-            "operaciones quirúrgicas",
-            "real madrid cf",
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.elespanol.com/deportes/futbol/20260101/sabe-salud-roberto-carlos-operacion-urgencia-brasil/1003744075851_0.html",
-        "date": "2026-01-01 17:06:58",
-        "sentiment_score": -0.6647304482758045
-    },
-    {
-        "title": "Muere a los 89 años Enric Mestre, maestro y referente internacional de la cerámica contemporánea",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/01/6956a98924feb9-16167957.jpeg",
-        "tags": [
-            "cultura"
-        ],
-        "link": "https://www.20minutos.es/cultura/muere-los-89-anos-enric-mestre-maestro-referente-internacional-ceramica-contemporanea_6916572_0.html",
-        "date": "2026-01-01 17:06:23",
-        "sentiment_score": 0.3914201110601425
-    },
-    {
-        "title": "Los cinco grandes retos del Córdoba CF en 2026",
-        "image_url": "https://static.grupojoly.com/clip/6f10862c-d9da-4407-a20d-a7a3401900e5_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "últimas noticias córdoba",
-            "córdoba club de fútbol",
-            "últimas noticias"
-        ],
-        "link": "https://www.eldiadecordoba.es/cordobacf/cinco-grandes-retos-cordoba-cf-2026_0_2005533425.html",
-        "date": "2026-01-01 17:04:31",
-        "sentiment_score": 0.76007373444736
-    },
-    {
-        "title": "Rüdiger transforma vidas en Sierra Leona: «No se trata de religión, se trata de humanidad»",
-        "image_url": "https://okdiario.com/diariomadridista/img/2026/01/01/rudiger-5.jpg",
-        "tags": [
-            "real madrid",
-            "antonio rudiger"
-        ],
-        "link": "https://okdiario.com/diariomadridista/real-madrid/rudiger-transforma-vidas-sierra-leona-no-trata-religion-trata-humanidad-591555",
-        "date": "2026-01-01 17:00:53",
-        "sentiment_score": 0.05304866284132004
-    },
-    {
-        "title": "Previa del Real Madrid - Dubai Basketbal",
-        "image_url": "https://www.infobae.com/resizer/v2/PQYSOJ7BLVFBVBVODJ473H5TQU.jpg?auth=e4e8753f0c23e0c82d95e3ee11e074b73d16daded2533da592795bd383160e40&height=1280&smart=true&width=1920",
-        "tags": [
-            "madrid",
-            "sergio scariolo",
-            "real madrid",
-            "baloncesto",
-            "edy tavares",
-            "jurica golemac",
-            "europapress",
-            "movistar arena",
-            "dubai basketball",
-            "euroliga",
-            "ucam murcia"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/01/previa-del-real-madrid-dubai-basketbal/",
-        "date": "2026-01-01 17:00:28",
-        "sentiment_score": 0.5681127905845642
-    },
-    {
-        "title": "El sueño del trabajo remoto parece que se rompió completamente en España. Cuando contratar a un programador equivale a abrir una empresa entera la cosa se complica",
-        "image_url": "https://es.gizmodo.com/app/uploads/2025/10/Diseno-sin-titulo-22-13-1024x683.jpg",
-        "tags": [
-            "tecnología"
-        ],
-        "link": "https://es.gizmodo.com/sueno-del-trabajo-remoto-se-rompio-en-espana-cuando-contratar-a-un-programador-equivale-a-abrir-empresa-entera-2000198517",
-        "date": "2026-01-01 16:45:39",
-        "sentiment_score": -0.09204679727554321
-    },
-    {
-        "title": "Patrick Soko avanza a los octavos de final desde el banquillo en la Copa África",
-        "image_url": "https://static.grupojoly.com/clip/c3861790-672f-4b6f-821d-eca454638aa8_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "unión deportiva almería"
-        ],
-        "link": "https://www.diariodealmeria.es/ud-almeria/soko-avanza-octavos-copa-africa_0_2005533882.html",
-        "date": "2026-01-01 17:15:57",
-        "sentiment_score": -0.5130404364317656
-    },
-    {
-        "title": "Más de 115.000 personas asisten al espectáculo de Nochevieja de Montjuïc en Barcelona",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/01/6956a87f5973d.r_d.3024-2012-742.jpeg",
-        "tags": [
-            "barcelona"
-        ],
-        "link": "https://www.lavanguardia.com/local/barcelona/20260101/11406644/mas-115-000-personas-asisten-espectaculo-nochevieja-montjuic.html",
-        "date": "2026-01-01 17:13:48",
-        "sentiment_score": -0.5657060742378235
-    },
-    {
-        "title": "Una niña fue la primera bebé nacida en Barcelona en 2026",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "salud",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/una-nina-fue-la-primera-bebe-nacida-en-barcelona-en-2026/",
-        "date": "2026-01-01 17:11:27",
-        "sentiment_score": 0.009235948324203491
-    },
-    {
-        "title": "David Muñoz recuerda su infancia en un barrio marcado por un pasado inesperado",
-        "image_url": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/01/09/2023010912260924034.jpg",
-        "tags": [
-            "medios"
-        ],
-        "link": "https://www.elconfidencialdigital.com/articulo/medios/david-munoz-recuerda-infancia-barrio-marcado-pasado-inesperado/20260101180945996327.html",
-        "date": "2026-01-01 17:09:45",
-        "sentiment_score": -0.04570797085762024
-    },
-    {
-        "title": "El Extra de Navidad de la ONCE reparte más de 25 millones de euros en premios mayores en media España",
-        "image_url": "https://www.infobae.com/resizer/v2/TRRIT46SKNHBFN33KIJB3HSH2Q.jpg?auth=64dc2072ade09a38f20fb159fd890605aee125122aedf32dc9af0e63dedd5495&height=1277&smart=true&width=1920",
-        "tags": [
-            "europapress"
-        ],
-        "link": "https://www.infobae.com/america/agencias/2026/01/01/el-extra-de-navidad-de-la-once-reparte-mas-de-25-millones-de-euros-en-premios-mayores-en-media-espana/",
-        "date": "2026-01-01 17:00:35",
-        "sentiment_score": 0.13773175328969955
-    },
-    {
-        "title": "Violenta pelea entre indios y pakistaníes tras las campanadas de Año Nuevo en Barcelona",
-        "image_url": "https://www.mediterraneodigital.com/images/2026/1/barcelona-fin-de-ano.jpg",
-        "tags": [
-            "sucesos españa"
-        ],
-        "link": "https://www.mediterraneodigital.com/sucesos-espana/video-pelea-barcelona-indios-pakistanies-ano-nuevo",
-        "date": "2026-01-01 16:55:45",
-        "sentiment_score": -0.7573622222989798
-    },
-    {
-        "title": "Sidecars llegará a Córdoba el 19 de junio para presentar su nuevo disco, 'Everest'",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/uploads/2026/01/01/69569e9487bb7.jpeg",
-        "tags": [
-            "córdoba - cultura"
-        ],
-        "link": "https://www.eldebate.com/espana/la-voz-de-cordoba/cultura/20260101/sidecars-llegara-cordoba-19-junio-presentar-nuevo-disco-everest_370508.html",
-        "date": "2026-01-01 16:30:53",
-        "sentiment_score": 0.1650732308626175
-    },
-    {
-        "title": "Concierto de Año Nuevo 2026: el rompedor Nézet-Séguin triunfa con su entusiasmo y su buen humor",
-        "image_url": "https://s3.elespanol.com/2026/01/01/actualidad/1003744075846_260739003_1706x960.jpg",
-        "tags": [
-            "conciertos",
-            "música",
-            "crítica musical",
-            "viena",
-            "año nuevo"
-        ],
-        "link": "https://www.elespanol.com/el-cultural/escenarios/musica/20260101/concierto-ano-nuevo-rompedor-nezet-seguin-triunfa-entusiasmo-buen-humor/1003744075832_0.html",
-        "date": "2026-01-01 16:29:15",
-        "sentiment_score": 0.5649512261152267
-    },
-    {
-        "title": "Tal día como HOY, 2 de enero",
-        "image_url": "https://s1.ppllstatics.com/hoy/www/multimedia/2026/01/01/paz-vega-kTZC-U2201593729325wDG.jpg",
-        "tags": [
-            "cumpleaños de hoy"
-        ],
-        "link": "https://www.hoy.es/sociedad/dia-hoy-enero-20260102140118-nt.html",
-        "date": "2026-01-01 16:23:58",
-        "sentiment_score": 0.14977512508630753
-    },
-    {
-        "title": "Criptomonedas y un influencer acusado de violación: Barcelona rompe relaciones con su patrocinador más polémico",
-        "image_url": "https://sandia.datanubex.uk/wp-content/uploads/2026/01/97.webp",
-        "tags": [
-            "barcelona",
-            "titulares",
-            "zero-knowledge proof",
-            "deportes",
-            "criptomonedas"
-        ],
-        "link": "https://lapatilla.com/2026/01/01/criptomonedas-y-un-influencer-acusado-de-violacion-barcelona-rompe-relaciones-con-su-patrocinador-mas-polemico/",
-        "date": "2026-01-01 16:09:51",
-        "sentiment_score": 0.018910646438598633
-    },
-    {
         "title": "Destinos internacionales activos vía aérea desde Venezuela en 2026",
         "image_url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
         "tags": [
@@ -3399,5 +3171,263 @@ export default [
         "link": "https://www.elnacional.com/2026/01/opositores-pidieron-en-espana-perseverar-hasta-que-edmundo-gonzalez-tome-posesion/",
         "date": "2026-01-04 23:30:32",
         "sentiment_score": -0.5241170972585678
+    },
+    {
+        "title": "Lunes de lluvia, nieve y frío por la borrasca Francis en la víspera de Reyes",
+        "image_url": "https://static.eldiario.es/clip/12e51c55-a01f-45c3-8c94-7acb8346af90_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "francis",
+            "reyes",
+            "vispera",
+            "pm",
+            "nieve",
+            "borrasca",
+            "lluvia",
+            "lunes",
+            "frio"
+        ],
+        "link": "https://www.eldiario.es/sociedad/el-tiempo/lunes-lluvia-nieve-frio-borrasca-francis-vispera-reyes-pm_1_12885740.html",
+        "date": "2026-01-05 06:42:37",
+        "sentiment_score": 0.020826637744903564
+    },
+    {
+        "title": "Joan Garcia y la victoria del Barça frente al Real Madrid de baloncesto, protagonistas de las portadas deportivas",
+        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2026/01/05/695b56c49747a.jpeg",
+        "tags": [
+            "vaya mundo"
+        ],
+        "link": "https://www.mundodeportivo.com/vaya-mundo/20260105/1002596052/joan-garcia-victoria-barca-frente-real-madrid-baloncesto-protagonistas-portadas-deportivas-galeria-dct.html",
+        "date": "2026-01-05 06:25:41",
+        "sentiment_score": 0.15768762677907944
+    },
+    {
+        "title": "Gonzalo, el heredero silencioso: 159 goles, un hat-trick y una ambición blanca",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2026/01/05/2026010507011637231.jpg",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/futbol/gonzalo-heredero-silencioso-159-goles-hat-trick-ambicion-blanca/20260105070214578093.html",
+        "date": "2026-01-05 06:02:14",
+        "sentiment_score": 0.7842257395386696
+    },
+    {
+        "title": "Javier Cabeza de Vaca: \"Tenemos una carga de trabajo que no se recuerda. Cádiz tiene un potencial enorme\"",
+        "image_url": "https://static.grupojoly.com/clip/a7d27937-1a75-4188-bd52-f91df2b65eb5_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "cabeza",
+            "trabajo",
+            "potencial",
+            "enorme",
+            "carga",
+            "vaca",
+            "javier",
+            "cádiz"
+        ],
+        "link": "https://www.diariodejerez.es/noticias-provincia-cadiz/javier-cabeza-vaca-carga-trabajo-cadiz-potencial-enorme_0_2005555604.html",
+        "date": "2026-01-05 06:01:06",
+        "sentiment_score": 0.11048996448516846
+    },
+    {
+        "title": "El Espanyol se rehace tras el derbi con la vista puesta en Levante y Girona, dos rivales reactivados",
+        "image_url": "https://lagradaonline.com/wp-content/uploads/2026/01/manolo-gonzalez-espanyol-barca-2-750x422.jpg",
+        "tags": [
+            "rcd espanyol"
+        ],
+        "link": "https://lagradaonline.com/espanyol-tras-derbi-levante-girona-rivales-en-racha/",
+        "date": "2026-01-05 06:00:55",
+        "sentiment_score": -0.5463981106877327
+    },
+    {
+        "title": "El funcionario que descubrió que en Málaga no hacía frío",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/c96e9142-9eaa-432b-9430-11f9cc006bab_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "madrid",
+            "historia",
+            "oposiciones",
+            "tiempo"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/05/funcionario-descubrio-malaga-frio-125371153.html",
+        "date": "2026-01-05 06:00:25",
+        "sentiment_score": -0.04651689529418945
+    },
+    {
+        "title": "Resentimiento",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/992db25a-afbc-4ddc-8f04-5a9b62647a3b_16-9-discover-aspect-ratio_320w_0.webp",
+        "tags": [
+            "crisis",
+            "vivienda",
+            "sanidad",
+            "gente"
+        ],
+        "link": "https://www.elperiodicodearagon.com/opinion/2026/01/05/resentimiento-125367080.html",
+        "date": "2026-01-05 06:00:20",
+        "sentiment_score": -0.7328190058469772
+    },
+    {
+        "title": "Xabi Alonso: \"Fue una victoria importante para empezar el año\"",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/05093321/Xabi-Alonso-no-descarto-por-completo-a-Mbappe-para-la-Supercopa-Foto-Archivo.jpg",
+        "tags": [
+            "xabi alonso",
+            "fútbol",
+            "real madrid",
+            "gonzalo garcía",
+            "real betis",
+            "deportes"
+        ],
+        "link": "https://www.elnacional.com/2026/01/xabi-alonso-fue-una-victoria-importante-para-empezar-el-ano/",
+        "date": "2026-01-05 06:00:00",
+        "sentiment_score": 0.8413026295602322
+    },
+    {
+        "title": "Palacio de los Mencos: cuando el marqués es el guía y el vino, el final del recorrido",
+        "image_url": "https://s3.elespanol.com/2025/12/29/actualidad/1003744072286_260694725_1706x960.jpg",
+        "tags": [
+            "embutidos",
+            "reportajes gastronómicos",
+            "vino",
+            "tafalla"
+        ],
+        "link": "https://www.elespanol.com/cocinillas/reportajes-gastronomicos/20260105/palacio-mencos-marques-guia-vino-final-recorrido/1003744062905_0.html",
+        "date": "2026-01-05 05:55:00",
+        "sentiment_score": 0.2568977028131485
+    },
+    {
+        "title": "¿Ha tocado techo este Barcelona? Líder con autoridad tras una jornada que reafirma su candidatura",
+        "image_url": "https://www.eldiarioalerta.com/media/diarioalerta/images/2024/11/02/2024110217174781510.png",
+        "tags": [
+            "fútbol"
+        ],
+        "link": "https://www.eldiarioalerta.com/articulo/futbol/ha-tocado-techo-barcelona-lider-autoridad-jornada-que-reafirma-candidatura/20260105064658578091.html",
+        "date": "2026-01-05 05:46:58",
+        "sentiment_score": 0.8515911679714918
+    },
+    {
+        "title": "\"A principios de los 80, nadie pensaba que los grupos de Pamplona pudiesen llegar a nada\"",
+        "image_url": "https://estaticosgn-cdn.deia.eus/clip/1d10e7a7-ce23-453e-8787-a456103aa0b7_16-9-aspect-ratio_default_0_x1317y621.jpg",
+        "tags": [
+            "grupos",
+            "pensaba",
+            "principios",
+            "80",
+            "nadie"
+        ],
+        "link": "https://www.noticiasdenavarra.com/cultura/2026/01/05/principios-80-nadie-pensaba-grupos-10535083.html",
+        "date": "2026-01-05 06:20:49",
+        "sentiment_score": 0.025942057371139526
+    },
+    {
+        "title": "Lo que debes saber hoy, 5 de enero, de Barcelona",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/09/02/vivir-en-barcelona/1003742685677_15087792_1706x960.jpg",
+        "tags": [
+            "transporte",
+            "tráfico",
+            "metro barcelona",
+            "tiempo",
+            "ferrocarrils de la generalitat (fgc)",
+            "renfe barcelona",
+            "vivir en barcelona",
+            "transports metropolitans barcelona tmb",
+            "clima"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260105/debes-saber-hoy-enero-barcelona/1003742720894_0.html",
+        "date": "2026-01-05 06:15:24",
+        "sentiment_score": -0.00944492220878601
+    },
+    {
+        "title": "Salas quiere codearse con Gijón, Barcelona o Londres: el concejo se postula para ser Destino Turístico Inteligente",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/4b7257ce-924c-4bfb-98c5-121015d8876a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "londres",
+            "turismo",
+            "barcelona"
+        ],
+        "link": "https://www.lne.es/salas/2026/01/05/salas-quiere-codearse-gijon-barcelona-125246571.html",
+        "date": "2026-01-05 06:01:09",
+        "sentiment_score": 0.35546837747097015
+    },
+    {
+        "title": "¿Málaga o Barcelona? Huelin ya vislumbra las primeras supermanzanas con el avance de las obras",
+        "image_url": "https://static.grupojoly.com/clip/513d9185-8a9d-4520-8cb8-c2c07ef75de9_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias málaga",
+            "urbanismo málaga"
+        ],
+        "link": "https://www.malagahoy.es/malaga/malaga-barcelona-huelin-vislumbra-primeras_0_2005547404.html",
+        "date": "2026-01-05 06:00:59",
+        "sentiment_score": -0.6745767593383789
+    },
+    {
+        "title": "¿Cuáles son los intereses económicos españoles en Venezuela?",
+        "image_url": "https://static1.ara.cat/clip/a2d2c6a7-3b06-4d5a-836e-e5ac9a6f3c8b_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "espanoles",
+            "son",
+            "venezuela",
+            "economicos",
+            "intereses"
+        ],
+        "link": "https://es.ara.cat/economia/macroeconomia/son-intereses-economicos-espanoles-venezuela_1_5609225.html",
+        "date": "2026-01-05 06:00:51",
+        "sentiment_score": 0.16845324635505676
+    },
+    {
+        "title": "Sánchez levanta la veda y abre la Moncloa a los líderes del Proceso",
+        "image_url": "https://static1.ara.cat/clip/f20023f3-42e3-4cf1-a693-c2b6fb135b8a_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sanchez",
+            "veda",
+            "lideres",
+            "moncloa",
+            "levanta",
+            "proceso",
+            "abre"
+        ],
+        "link": "https://es.ara.cat/politica/sanchez-levanta-veda-abre-moncloa-lideres-proceso_129_5609221.html",
+        "date": "2026-01-05 06:00:47",
+        "sentiment_score": -0.01631826162338257
+    },
+    {
+        "title": "El cacao vuelve a abaratarse tras sus precios de récord",
+        "image_url": "https://static1.ara.cat/clip/c974e3c3-faf0-40e3-a808-12285ad3efd2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "abaratarse",
+            "record",
+            "vuelve",
+            "precios",
+            "cacao"
+        ],
+        "link": "https://es.ara.cat/economia/alimentacion/cacao-vuelve-abaratarse-precios-record_1_5609220.html",
+        "date": "2026-01-05 06:00:46",
+        "sentiment_score": -0.5382651202380657
+    },
+    {
+        "title": "El cambio en la carta del mejor buffet libre de Europa y que está a dos horas de Barcelona: no te lo vas a creer",
+        "image_url": "https://okdiario.com/img/2026/01/01/el-cambio-en-la-carta-del-mejor-buffet-libre-de-europa-y-que-esta-a-dos-horas-de-barcelona-no-te-lo-vas-a-creer.jpg",
+        "tags": [
+            "cataluña",
+            "gastronomía",
+            "españa",
+            "restaurantes",
+            "okd"
+        ],
+        "link": "https://okdiario.com/cataluna/cambio-carta-del-mejor-buffet-libre-europa-que-esta-dos-horas-barcelona-no-te-lo-vas-creer-16010034",
+        "date": "2026-01-05 06:00:36",
+        "sentiment_score": 0.06765633821487427
+    },
+    {
+        "title": "Los profesores, sobrepasados: \"Las faltas de respeto son de padres y alumnos\"",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/5f0310dc-a375-4a6b-acff-512b9ff55af2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "profesores",
+            "docentes",
+            "agresiones",
+            "encuesta",
+            "educación en málaga",
+            "educación",
+            "padres"
+        ],
+        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/05/profesores-sobrepasados-faltas-respeto-son-125369950.html",
+        "date": "2026-01-05 06:00:25",
+        "sentiment_score": -0.818239483051002
     }
 ];
