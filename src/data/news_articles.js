@@ -1,449 +1,5 @@
 export default [
     {
-        "title": "Descubre la verdad sobre la lesión de Christensen que obliga al Barça a mirar fuera",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/04/24/2025042421405751991.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/descubre-la-clave/20251231225830368979.html",
-        "date": "2025-12-31 21:58:30",
-        "sentiment_score": -0.8717050096020103
-    },
-    {
-        "title": "Roberto Carlos habló tras ser operado por un problema cardíaco: “No hay motivos para alarmarse”",
-        "image_url": "https://www.infobae.com/resizer/v2/6Y7TUCRDZFEN5BKNY2DB5CXLS4.jpg?auth=a6bc5c8c7c0c841207352ca52ad1c00b42c92f48da62b6cfc3cf5b84fa3bb0c5&height=608&smart=true&width=1080",
-        "tags": [
-            "real madrid",
-            "selección de brasil",
-            "roberto carlos"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/31/roberto-carlos-hablo-tras-ser-operado-por-un-problema-cardiaco-no-hay-motivos-para-alarmarse/",
-        "date": "2025-12-31 21:48:37",
-        "sentiment_score": -0.6509973499923944
-    },
-    {
-        "title": "James Rodríguez y el desconocido apodo que le tenían Porto: “Es curioso”",
-        "image_url": "https://www.infobae.com/resizer/v2/U2RNJ562S5ELZDRMHS4P72B4NQ.jpeg?auth=088f2c2fd5f34cbd9f516e791aec86d9b26d10ab4009dc027f36f5001b45055a&height=455&smart=true&width=600",
-        "tags": [
-            "entrevista",
-            "colombia-deportes",
-            "porto",
-            "playstation",
-            "james rodríguez",
-            "maicon"
-        ],
-        "link": "https://www.infobae.com/colombia/deportes/2025/12/31/james-rodriguez-y-el-desconocido-apodo-que-le-tenian-porto-es-curioso/",
-        "date": "2025-12-31 21:23:11",
-        "sentiment_score": 0.13238971680402756
-    },
-    {
-        "title": "Las 12 campanadas del deporte en 2025",
-        "image_url": "https://okdiario.com/img/2025/12/28/campanadas-2025.jpg",
-        "tags": [
-            "nfl",
-            "álex palou",
-            "carlos alcaraz",
-            "deportes",
-            "tadej pogacar",
-            "ilia topuria",
-            "luis enrique",
-            "paris saint-germain (psg)",
-            "marc márquez",
-            "más deportes",
-            "lando norris"
-        ],
-        "link": "https://okdiario.com/deportes/12-campanadas-del-deporte-2025-15995125",
-        "date": "2025-12-31 21:00:09",
-        "sentiment_score": 0.8921331875026226
-    },
-    {
-        "title": "Joan Laporta",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/vida/1003742720313_15565245_1706x960.jpg",
-        "tags": [
-            "examen a los protagonistas",
-            "barça",
-            "fútbol",
-            "fc barcelona",
-            "joan laporta"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/examen-protagonistas/20251231/joan-laporta/1003742720309_0.html",
-        "date": "2025-12-31 21:00:00",
-        "sentiment_score": -0.16738668084144592
-    },
-    {
-        "title": "Conservatorio de Música de Carabobo se consolidó este 2025 como institución educativa musical de excelencia",
-        "image_url": "https://lacalle.com.ve/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-31-at-11.49.00-AM-2.webp",
-        "tags": [
-            "carabobo"
-        ],
-        "link": "https://lacalle.com.ve/conservatorio-de-musica-de-carabobo-se-consolido-este-2025-como-institucion-educativa-musical-de-excelencia/",
-        "date": "2025-12-31 20:52:25",
-        "sentiment_score": 0.6671277731657028
-    },
-    {
-        "title": "Mbappé se pierde la Supercopa de España: cuándo vuelve y qué tan grave es su lesión",
-        "image_url": "https://lavozdeibiza.com/wp-content/uploads/2025/02/f2c550bc30da7458c82cd2b5d2727f05846a1dd7w.jpg",
-        "tags": [
-            "sociedad",
-            "kylian mbappé",
-            "actualidad",
-            "real madrid",
-            "supercopa de españa"
-        ],
-        "link": "https://lavozdeibiza.com/actualidad/mbappe-se-pierde-la-supercopa-de-espana-cuando-vuelve-y-que-tan-grave-es-su-lesion/",
-        "date": "2025-12-31 20:30:36",
-        "sentiment_score": -0.8690314069390297
-    },
-    {
-        "title": "El video de Julián Álvarez armando la cuna para su bebé que se hizo viral: “Misión imposible”",
-        "image_url": "https://www.infobae.com/resizer/v2/M5Z5DMRS5ZAFLAFOZA5DGSITTY.png?auth=32b3f15ce881e079fcc9339c0cca6e2baf7b5e3141d2c2991de6da06ccbb56ef&height=1080&smart=true&width=1920",
-        "tags": [
-            "emilia ferrero",
-            "deportes-argentina",
-            "julián álvarez",
-            "atlético madrid",
-            "selección argentina"
-        ],
-        "link": "https://www.infobae.com/deportes/2025/12/31/el-video-de-julian-alvarez-armando-la-cuna-para-su-bebe-que-se-hizo-viral-mision-imposible/",
-        "date": "2025-12-31 20:14:54",
-        "sentiment_score": 0.26268819719552994
-    },
-    {
-        "title": "Ayuso, en su mensaje de Fin de Año: \"Madrid es la región que pone freno a los totalitarios\"",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0f311c37-55f7-4984-8a4a-46b0039f40f3_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "comunidad de madrid",
-            "isabel díaz ayuso",
-            "pi vídeos",
-            "nochevieja",
-            "fin de año"
-        ],
-        "link": "https://www.lne.es/videos/nacional/2025/12/31/ayuso-mensaje-fin-ano-madrid-125285423.html",
-        "date": "2025-12-31 20:13:03",
-        "sentiment_score": -0.6304659992456436
-    },
-    {
-        "title": "Laura Escanes, espectacular en las Campanadas de TV3 con un diseño rojo de alta costura de Yolancris inspirado en el cine clásico",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/9f8a156f-c23b-4da1-941d-4c753577b45b_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "navidad",
-            "fin de año",
-            "club de estilo",
-            "alta costura",
-            "laura escanes",
-            "moda"
-        ],
-        "link": "https://www.elperiodico.com/es/gente/20260101/laura-escanes-vestido-campanadas-fin-de-ano-tv3-125226367",
-        "date": "2025-12-31 22:02:35",
-        "sentiment_score": 0.02453473210334778
-    },
-    {
-        "title": "Rosalía, Bad Bunny, The Weeknd, El Último de la Fila o Agorazein con C. Tangana, conciertos de 2026 en España",
-        "image_url": "https://static.laregion.es/clip/f3ab7c79-e552-4de9-8bc3-639be3abcaa0_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "festival",
-            "rosalia",
-            "conciertos",
-            "música",
-            "festivales"
-        ],
-        "link": "https://www.laregion.es/espana/rosalia-bad-bunny-the-weeknd_1_20251231-4110324.html",
-        "date": "2025-12-31 21:30:12",
-        "sentiment_score": 0.06294891983270645
-    },
-    {
-        "title": "La incertidumbre en las secciones del Barça para 2026: revolución en el Palau Blaugrana",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/culemania/secciones/1003742720322_15565420_1706x960.jpg",
-        "tags": [
-            "secciones",
-            "palau blaugrana",
-            "fcb basket",
-            "fcbfemeni"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/culemania/secciones/20251231/incertidumbre-secciones-barca-revolucion-palau-blaugrana/1003742720311_0.html",
-        "date": "2025-12-31 21:17:23",
-        "sentiment_score": -0.09453131258487701
-    },
-    {
-        "title": "Francesc Macià, la plaza en la que nadie gana",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/18/business/1003742717402_15529059_1706x960.jpg",
-        "tags": [
-            "bares y restaurantes",
-            "cataluña",
-            "plaza francesc macià",
-            "barcelona",
-            "business",
-            "restauración"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/business/20251231/francesc-macia-plaza-nadie-gana/1003742717346_0.html",
-        "date": "2025-12-31 21:00:00",
-        "sentiment_score": -0.8678862396627665
-    },
-    {
-        "title": "Feliz año... ¿nuevo?",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/pensamiento/zona-franca/1003742720275_15564871_1706x960.jpg",
-        "tags": [
-            "psc",
-            "fin de año",
-            "pedro sánchez",
-            "manicomio catalán",
-            "donald trump",
-            "año nuevo",
-            "vladimir putin"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/pensamiento/manicomio-catalan/20251231/feliz-ano-nuevo/1003742720271_12.html",
-        "date": "2025-12-31 21:00:00",
-        "sentiment_score": -0.8749120552092791
-    },
-    {
-        "title": "Los cinco desafíos de Cataluña en 2026 tras aumentar un 5% las muertes en carretera",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/vida/1003742720165_15563252_1706x960.jpg",
-        "tags": [
-            "cataluña",
-            "vida",
-            "servei català de trànsit",
-            "accidentes",
-            "ramon lamiel"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20251231/desafios-cataluna-aumentar-muertes-carretera/1003742720163_0.html",
-        "date": "2025-12-31 21:00:00",
-        "sentiment_score": -0.7314064055681229
-    },
-    {
-        "title": "Un deseo para 2026",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2025/12/31/pensamiento/1003742720306_15565179_1706x960.jpg",
-        "tags": [
-            "inversiones",
-            "cataluña",
-            "barcelona",
-            "vivienda",
-            "inflación",
-            "economía",
-            "zona franca"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/pensamiento/zona-franca/20251231/deseo/1003742720304_12.html",
-        "date": "2025-12-31 21:00:00",
-        "sentiment_score": -0.8703420655801892
-    },
-    {
-        "title": "Alarma en el Real Madrid: Mbappé sufre un esguince de rodilla y se pierde la Supercopa",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1767229952071/638924952724693615jpg.jpeg?ch=675&cw=1200",
-        "tags": [
-            "madrid",
-            "lesión de mbappé",
-            "fútbol español",
-            "supercopa de españa",
-            "laliga",
-            "real madrid",
-            "kylian mbappé"
-        ],
-        "link": "https://2001online.com/deportes/alarma-en-el-real-madrid-mbappe-sufre-un-esguince-de-rodilla-y-se-pierde-la-supercopa-202512312300",
-        "date": "2026-01-01 02:05:37",
-        "sentiment_score": -0.6513609886169434
-    },
-    {
-        "title": "Roberto Carlos dice que se está 'recuperando bien' después de someterse a un procedimiento en Brasil",
-        "image_url": "https://bloximages.chicago2.vip.townnews.com/santamariatimes.com/content/tncms/assets/v3/editorial/5/ac/5ac087cd-68f6-5350-aebd-58647366cc26/69554681d5966.image.jpg?resize=300%2C200",
-        "tags": [
-            "roberto carlos hospitalizado cirugia corazon brasil madrid",
-            "sports"
-        ],
-        "link": "https://santamariatimes.com/ap/sports/roberto-carlos-dice-que-se-est-recuperando-bien-despu-s-de-someterse-a-un-procedimiento/article_fabf1881-c8a9-5504-b6c4-402b17f85a09.html",
-        "date": "2026-01-01 02:05:24",
-        "sentiment_score": -0.13481631875038147
-    },
-    {
-        "title": "El Real Madrid comienza mal el 2026: se lesionó Mbappé",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "noticias nacionales"
-        ],
-        "link": "https://noticiasya.com/2025/12/31/real-madrid-kylian-mbappe-lesion-orix/",
-        "date": "2026-01-01 02:03:43",
-        "sentiment_score": -0.8714214190840721
-    },
-    {
-        "title": "Las nuevas drogas que alertan a las urgencias madrileñas: el laboratorio forense detecta un aumento del consumo de fentanilo, psilocina y cannabinoides sintéticos",
-        "image_url": "https://e01-phantom-elmundo.uecdn.es/bfc62fc31d86105e92fd646741f3f8b8/crop/0x0/1166x1166/f/image/jpeg/assets/multimedia/imagenes/2022/05/19/16529624450788.jpg",
-        "tags": [
-            "artículos luis f. durán"
-        ],
-        "link": "https://www.elmundo.es/madrid/2026/01/01/69545522e4d4d8347c8b458a.html",
-        "date": "2026-01-01 01:16:17",
-        "sentiment_score": -0.47487881779670715
-    },
-    {
-        "title": "Fútbol de locura en 2025: los cinco partidos que marcaron un año inolvidable",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1767229411499/07f9a3fb-2df9-4bb2-aeca-ade4977a63b3_16-9-discover-aspect-ratio_default_0.jpg?ch=675&cw=1200",
-        "tags": [
-            "manchester united",
-            "inter de milán",
-            "manchester city",
-            "lyon",
-            "fútbol",
-            "fc barcelona",
-            "mejores partidos del 2025",
-            "al hilal",
-            "real madrid"
-        ],
-        "link": "https://2001online.com/deportes/futbol-de-locura-en-2025-los-cinco-partidos-que-marcaron-un-ano-inolvidable-202512312200",
-        "date": "2026-01-01 01:06:59",
-        "sentiment_score": 0.6352273225784302
-    },
-    {
-        "title": "Madrid se hace más pequeño en 2026: los 460.000 m2 menos que tendrá la capital por un histórico pacto con Rivas",
-        "image_url": "https://s3.elespanol.com/2024/12/16/madrid/comunidad/909169568_251716809_1706x960.jpg",
-        "tags": [
-            "madrid",
-            "rivas-vaciamadrid (madrid)",
-            "madrid capital"
-        ],
-        "link": "https://www.elespanol.com/madrid/capital/20260101/madrid-hace-pequeno-m2-capital-historico-pacto-rivas/1003744074685_0.html",
-        "date": "2026-01-01 01:00:00",
-        "sentiment_score": 0.22934898734092712
-    },
-    {
-        "title": "Zubimendi se convierte en símbolo de éxito para el Arsenal y dolor para la Real Sociedad",
-        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/01/2026010101323810991.jpg",
-        "tags": [
-            "deportes"
-        ],
-        "link": "https://www.mundiario.com/articulo/deportes/arsenal-gana-fichaje-ano-zubimendi-convierte-simbolo-exito-dolor-real/20260101013428368985.html",
-        "date": "2026-01-01 00:34:28",
-        "sentiment_score": 0.8352607656270266
-    },
-    {
-        "title": "El adiós de las leyendas: deportistas que fallecieron en el 2025",
-        "image_url": "https://pxcdn.2001online.com/2001/122025/1767228780803/fotos%20sitio%20-%202025-07-03T105056.236.png?ch=675&cw=1200",
-        "tags": [
-            "deportistas que fallecieron en 2025",
-            "miguel ángel russo",
-            "diogo jota",
-            "deportistas",
-            "hulk hogan",
-            "leo beenhakker",
-            "xabier azkargorta",
-            "george foreman"
-        ],
-        "link": "https://2001online.com/deportes/el-adios-de-las-leyendas-deportistas-que-fallecieron-en-el-2025-202512312100",
-        "date": "2026-01-01 00:07:21",
-        "sentiment_score": -0.6102777309715748
-    },
-    {
-        "title": "Adiós a 2025: política, sexo y caídas en desgracia",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b7fd6382-a78b-4a6c-8b9a-16c8d1a8eaef_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "prensa",
-            "consell",
-            "política",
-            "psoe",
-            "comunitat valenciana",
-            "gobierno",
-            "verano"
-        ],
-        "link": "https://www.levante-emv.com/comunitat-valenciana/2026/01/01/adios-2025-politica-sexo-caidas-124592640.html",
-        "date": "2025-12-31 23:09:17",
-        "sentiment_score": -0.3014596253633499
-    },
-    {
-        "title": "Sánchez, el dilema de resistir en el año decisivo: un delicado carrusel electoral y el fardo pesado de la corrupción",
-        "image_url": "https://www.elindependiente.com/wp-content/uploads/2025/12/europapress-7161350-presidente-gobierno-pedro-sanchez-antes-recibir-presidente-estado-palestina-2-1440x808.jpg",
-        "tags": [
-            "pedro sánchez",
-            "pilar alegría",
-            "koldo garcía",
-            "españa",
-            "sumar",
-            "josé luis ábalos",
-            "david sánchez",
-            "gobierno de españa",
-            "miguel ángel gallardo",
-            "yolanda díaz",
-            "leire díez",
-            "santos cerdán",
-            "corrupción",
-            "maría jesús montero",
-            "partido socialista obrero español (psoe)",
-            "begoña gómez",
-            "paco salazar"
-        ],
-        "link": "https://www.elindependiente.com/espana/2026/01/01/sanchez-el-dilema-de-resistir-en-el-ano-decisivo-un-delicado-carrusel-electoral-y-el-fardo-pesado-de-la-corrupcion/",
-        "date": "2025-12-31 23:05:50",
-        "sentiment_score": -0.19941220432519913
-    },
-    {
-        "title": "Los retos de Madrid en 2026, el año de los grandes eventos: del récord de Bad Bunny a la F1 o la ampliación del Movistar Arena",
-        "image_url": "https://s3.elespanol.com/2025/06/07/actualidad/1003743794393_256272719_1706x960.jpg",
-        "tags": [
-            "festivales de música",
-            "madrid comunidad",
-            "eventos deportivos",
-            "wizink center",
-            "conciertos música"
-        ],
-        "link": "https://www.elespanol.com/madrid/comunidad/20260101/retos-madrid-ano-grandes-eventos-record-bad-bunny-f1-ampliacion-movistar-arena/1003744059402_0.html",
-        "date": "2026-01-01 01:00:00",
-        "sentiment_score": 0.6282425709068775
-    },
-    {
-        "title": "Bulevar de Barcelona estuvo concurrido por las compras para Año Nuevo (+Fotos)",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "economía",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/bulevar-de-barcelona-estuvo-concurrido-por-las-compras-para-ano-nuevo-fotos/",
-        "date": "2025-12-31 23:01:56",
-        "sentiment_score": 0.21976565569639206
-    },
-    {
-        "title": "Laura Escanes deslumbra en las Campanadas con un vestido corsé en rojo con el que rinde homenaje al cine clásico",
-        "image_url": "https://s3.elespanol.com/2025/12/31/actualidad/1003744074778_260724089_1706x960.jpg",
-        "tags": [
-            "tv3",
-            "laura escanes",
-            "moda",
-            "campanadas",
-            "famosos",
-            "televisión",
-            "estilo"
-        ],
-        "link": "https://www.elespanol.com/corazon/famosos/20260101/laura-escanes-deslumbra-campanadas-vestido-corse-rojo-rinde-homenaje-cine-clasico/1003744070496_0.html",
-        "date": "2025-12-31 23:01:22",
-        "sentiment_score": -0.7535532508045435
-    },
-    {
-        "title": "Laura Escanes se envuelve en un gran lazo de tul rojo para las Campanadas 2025",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/12/30/6953b68777640.r_d.4131-3160-564.jpeg",
-        "tags": [
-            "moda"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/moda/20260101/11402820/laura-escanes-envuelve-gran-lazo-tul-rojo-campanadas-2025.html",
-        "date": "2025-12-31 23:00:00",
-        "sentiment_score": 0.5926442090421915
-    },
-    {
-        "title": "Transportistas de Barcelona actualizaron sus tarifas con la nueva gaceta (+Fotos)",
-        "image_url": "https://eltiempove.com/wp-content/uploads/2021/10/logo-ET-800px-001A.png",
-        "tags": [
-            "transporte",
-            "locales"
-        ],
-        "link": "https://eltiempove.com/transportistas-de-barcelona-actualizaron-sus-tarifas-con-la-nueva-gaceta-fotos/",
-        "date": "2025-12-31 22:27:37",
-        "sentiment_score": 0.07812567241489887
-    },
-    {
-        "title": "La Cabalgata de los Reyes comenzará de nuevo con un tramo en silencio",
-        "image_url": "https://www.diariodeteruel.es/uploads/diariodeteruel/contenidos/85641_251231-05-01.jpg",
-        "tags": [
-            "teruel"
-        ],
-        "link": "https://www.diariodeteruel.es/teruel/la-cabalgata-de-los-reyes-comenzara-de-nuevo-con-un-tramo-en-silencio",
-        "date": "2025-12-31 21:51:00",
-        "sentiment_score": 0.08766490966081619
-    },
-    {
         "title": "El Atlético se planta: tranquilidad total con el futuro de Julián Alvarez",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081800081853699.jpg",
         "tags": [
@@ -514,57 +70,6 @@ export default [
         "sentiment_score": 0.16333797574043274
     },
     {
-        "title": "Conoce las veinte noticias más leídas en Lanza durante 2025",
-        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2025/06/Entoldado-Plaza-Mayor-Elena-Rosa-06619.jpg",
-        "tags": [
-            "noticias",
-            "provincia de ciudad real",
-            "ciudad real",
-            "lanza"
-        ],
-        "link": "https://www.lanzadigital.com/provincia/noticias-mas-leidas-lanza-2025/",
-        "date": "2026-01-01 05:08:42",
-        "sentiment_score": -0.05792686343193054
-    },
-    {
-        "title": "España sextuplica su PIB tras 40 años de adhesión a la Unión Europea",
-        "image_url": "https://s10.s3c.es/imag/_v0/1920x1048/6/2/8/1200x655_2015-espana-30-ue.jpg",
-        "tags": [
-            "economia"
-        ],
-        "link": "https://www.eleconomista.es/economia/noticias/13710156/12/25/espana-sextuplica-su-pib-tras-40-anos-de-adhesion-a-la-union-europea.html",
-        "date": "2026-01-01 05:05:34",
-        "sentiment_score": 0.3923894912004471
-    },
-    {
-        "title": "Alberto González, director general de Cabify en España: Es un error eliminar licencias de VTC cuando la demanda pide el doble o el triple",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/06e73e22-b71f-4207-9aec-ad5389f01062_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "cabify",
-            "barcelona",
-            "taxis",
-            "vtc",
-            "movilidad"
-        ],
-        "link": "https://www.elperiodico.com/es/barcelona/20260101/alberto-gonzalez-director-general-cabify-entrevista-nueva-ley-taxi-vtc-124879969",
-        "date": "2026-01-01 05:00:30",
-        "sentiment_score": -0.0436884481459856
-    },
-    {
-        "title": "De casa al trabajo: ¿cuánto tiempo pasamos los gallegos en el coche?",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/1b1a8c5a-03d9-42a4-ba19-04142c5969a4_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "trabajo",
-            "desplazamientos",
-            "coche",
-            "seguridad vial",
-            "galicia"
-        ],
-        "link": "https://www.elcorreogallego.es/galicia/2026/01/01/casa-trabajo-tiempo-pasamos-gallegos-125251235.html",
-        "date": "2026-01-01 05:00:07",
-        "sentiment_score": -0.18375927209854126
-    },
-    {
         "title": "Vlahovic vuelve al radar del Barça mientras se decide el futuro de Lewandowski",
         "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/01/2026010107322233824.jpg",
         "tags": [
@@ -617,16 +122,6 @@ export default [
         "link": "https://www.merca2.es/2026/01/01/licencia-taxi-barcelona-precio-2339413/",
         "date": "2026-01-01 05:30:00",
         "sentiment_score": -0.35231512039899826
-    },
-    {
-        "title": "Michael Anastassiades: “Mi vida se basa en el equilibrio”",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/11/06/690c92c362fcc.r_d.2034-1535-1100.jpeg",
-        "tags": [
-            "casa"
-        ],
-        "link": "https://www.lavanguardia.com/magazine/casa/20260101/11236932/michael-anastassiades-mi-vida-basa-equilibrio.html",
-        "date": "2026-01-01 05:28:58",
-        "sentiment_score": 0.6027448400855064
     },
     {
         "title": "El Casademont Zaragoza U22 mira al liderato de la Liga U",
@@ -3405,5 +2900,189 @@ export default [
         "link": "https://www.malagahoy.es/marbella/marianne-nilsen-nygaard-musa-antonio_0_2005541637.html",
         "date": "2026-01-04 06:00:59",
         "sentiment_score": 0.4388357140123844
+    },
+    {
+        "title": "En el Bernabéu hay vida sin Mbappé: el Madrid vence al Betis 5-1",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2026/01/04/2026010418254551208.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/bernabeu-vida-mbappe/20260104182752369348.html",
+        "date": "2026-01-04 17:27:52",
+        "sentiment_score": 0.8334657996892929
+    },
+    {
+        "title": "Deportes | Febas se une a Affengruber en la lista de apercibidos de suspensión del Elche CF",
+        "image_url": "https://d31u1w5651ly23.cloudfront.net/articulos/articulos-1752022.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://alicanteplaza.es/alicanteplaza/deportesalicante/febas-se-une-a-affengruber-entre-los-apercibidos-de-sancion-del-elche-cf",
+        "date": "2026-01-04 17:27:39",
+        "sentiment_score": -0.08133850991725922
+    },
+    {
+        "title": "“Ir a esperar a los Reyes Magos”: la broma que hacían los madrileños a migrantes gallegos, asturianos y cántabros en el siglo XIX",
+        "image_url": "https://www.infobae.com/resizer/v2/C6IH2MVER5BCNMO532GJV2BUAA.jpg?auth=31dcf1f9da3b8e543e1d03c4970b35f9cbda84fe09c0cee5e96fedf802655610&height=433&smart=true&width=770",
+        "tags": [
+            "españa-sociedad",
+            "madrid",
+            "puerta del sol",
+            "monedas",
+            "migración",
+            "navidad",
+            "historia",
+            "españa-noticias",
+            "reyes magos"
+        ],
+        "link": "https://www.infobae.com/espana/2026/01/04/ir-a-esperar-a-los-reyes-magos-la-broma-que-hacian-los-madrilenos-a-gallegos-asturianos-y-cantabros-migrantes-en-el-siglo-xix/",
+        "date": "2026-01-04 17:21:02",
+        "sentiment_score": -0.07819677889347076
+    },
+    {
+        "title": "El Ceuta se adelanta a los Reyes y regala la primera victoria del año (2-1)",
+        "image_url": "https://elfarodeceuta.es/wp-content/uploads/2026/01/Gol-AD-Ceuta-Andorra-Murube-007-750x500.jpeg?v=1767541791",
+        "tags": [
+            "ad ceuta",
+            "estadio alfonso murube",
+            "futbol",
+            "noticias",
+            "deportes"
+        ],
+        "link": "https://elfarodeceuta.es/ceuta-adelanta-reyes-regala-primera-victoria/",
+        "date": "2026-01-04 17:18:41",
+        "sentiment_score": 0.4648454934358597
+    },
+    {
+        "title": "El Real Madrid de Gonzalo corre, centra, remata, repite y arrasa",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/a6586091-3e6e-4133-bc5d-1324d8be9ee0_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "fútbol",
+            "vinicius",
+            "xabi alonso",
+            "real madrid",
+            "real betis",
+            "betis"
+        ],
+        "link": "https://www.lacronicabadajoz.com/deportes/2026/01/04/real-madrid-betis-resultado-goles-resumen-liga-gonzalo-garcia-125367735.html",
+        "date": "2026-01-04 17:17:39",
+        "sentiment_score": 0.21176740527153015
+    },
+    {
+        "title": "El Bacelona ya se frota las manos con Joan García",
+        "image_url": "https://cflvdg.avoz.es/sc/m2NIPMO-F-IbeqRthtY_AOSLpvk=/768x/2026/01/04/00121767547141889939782/Foto/eup_20260103_212532229.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.lavozdegalicia.es/noticia/deportes/2026/01/04/bacelona-frota-manos-joan-garcia/00031767546903400857113.htm",
+        "date": "2026-01-04 17:20:00",
+        "sentiment_score": 0.44988344609737396
+    },
+    {
+        "title": "Alerta en Cataluña: llega una ola de frío intenso con temperaturas de hasta -12 grados",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/04/695a9e082fc93.png",
+        "tags": [
+            "catalunya"
+        ],
+        "link": "https://www.cope.es/emisoras/catalunya/noticias/alerta-cataluna-llega-ola-frio-intenso-temperaturas-12-grados-20260104_3280753.html",
+        "date": "2026-01-04 17:17:24",
+        "sentiment_score": -0.15983498096466064
+    },
+    {
+        "title": "Real Madrid 5 - 1 Betis | Resumen, goles y resultado del partido de hoy",
+        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260104181350_120.jpg",
+        "tags": [
+            "estadísticas deportivas",
+            "deportes"
+        ],
+        "link": "https://www.europapress.es/deportes/estadisticas-deportivas/noticia-real-madrid-betis-resumen-goles-resultado-partido-hoy-20260104181350.html",
+        "date": "2026-01-04 17:13:50",
+        "sentiment_score": 0.06379356980323792
+    },
+    {
+        "title": "Unas 500 personas celebran en Barcelona la captura de Nicolás Maduro y apoyan a Edmundo González",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/647a8fc1-06b6-4269-af81-4ff53f917341_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "donald trump",
+            "edmundo gonzález",
+            "barcelona",
+            "venezuela",
+            "nicolás maduro",
+            "estados unidos"
+        ],
+        "link": "https://www.elperiodico.com/es/barcelona/20260104/500-personas-celebran-barcelona-captura-nicolas-maduro-apoyo-edmundo-gonzalez-125368686",
+        "date": "2026-01-04 17:08:35",
+        "sentiment_score": -0.125486359000206
+    },
+    {
+        "title": "Muere en un reto un ‘streamer’ español que copió el modelo de Simón Pérez, el influencer de las hipotecas y la cocaína: “Me podía haber pasado a mí”",
+        "image_url": "https://imagenes.elpais.com/resizer/v2/GVZP3ZGZMBCRRORTIPLIQCX5CE.jpg?auth=2e2b6ceae463e7946ea76c26e90de4a125dbaa23550e5a87f6630ea485af115f&width=1200",
+        "tags": [
+            "streamers",
+            "alcoholismo",
+            "retos virales",
+            "videoconferencia",
+            "plataformas digitales",
+            "zoom video",
+            "drogas",
+            "tecnología"
+        ],
+        "link": "https://elpais.com/tecnologia/2026-01-04/muere-en-un-reto-un-streamer-espanol-que-copio-el-modelo-de-simon-perez-el-influencer-de-las-hipotecas-y-la-cocaina-me-podia-haber-pasado-a-mi.html",
+        "date": "2026-01-04 17:05:25",
+        "sentiment_score": -0.28010742738842964
+    },
+    {
+        "title": "Cancelo cerca del Barça, pero las dudas internas ponen en riesgo la operación",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/10/30/2025103021484811334.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/cancelo-tiro-barca-tiene-todo-claro-fichaje-portugues/20260104180256369338.html",
+        "date": "2026-01-04 17:02:56",
+        "sentiment_score": 0.20280945673584938
+    },
+    {
+        "title": "Todas las CCAA, salvo Extremadura, estarán en alerta este lunes por lluvias, nieve, frío y oleaje",
+        "image_url": "https://www.lanzadigital.com/wp-content/uploads/2026/01/EuropaPress_5700574_dos_ninos_caminan_mientras_nieva_19_enero_2024_soria_castilla_leon_espana-scaled.jpg",
+        "tags": [
+            "el tiempo",
+            "castilla-la mancha",
+            "aemet"
+        ],
+        "link": "https://www.lanzadigital.com/castilla-la-mancha/todas-las-ccaa-salvo-extremadura-estaran-en-alerta-este-lunes-por-lluvias-nieve-frio-y-oleaje/",
+        "date": "2026-01-04 16:53:18",
+        "sentiment_score": -0.14502570033073425
+    },
+    {
+        "title": "Muere a los 91 años el periodista Joan Armengol, histórico de la radio y la televisión",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/d4f18dd1-0b6e-4447-8ab3-dd238478077a_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "igualada"
+        ],
+        "link": "https://www.elperiodico.com/es/gente/20260104/muere-91-anos-periodista-joan-armengol-historico-radio-television-125368303",
+        "date": "2026-01-04 16:51:54",
+        "sentiment_score": -0.702358815819025
+    },
+    {
+        "title": "FOTOS La alerta por nieve hace soñar a Barcelona con una noche de Reyes blanca: ¿Se repetirá la histórica nevada de 1985?",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/f4b0cdaa-32dd-4fee-bd4b-d2b43473d597_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "barcelona",
+            "nieve"
+        ],
+        "link": "https://www.elperiodico.com/es/tiempo/20260104/fotos-alerta-nieve-sonar-barcelona-noche-reyes-magica-historica-nevada-1985-125367357",
+        "date": "2026-01-04 16:50:53",
+        "sentiment_score": -0.3331262320280075
+    },
+    {
+        "title": "La fiesta del Barça Basket en el vestuario tras ganar El Clásico",
+        "image_url": "https://www.mundodeportivo.com/files/og_thumbnail/uploads/2026/01/04/695a9a347b6f9.jpeg",
+        "tags": [
+            "baloncesto"
+        ],
+        "link": "https://www.mundodeportivo.com/videos/baloncesto/20260104/1002595808/fiesta-barca-basket-vestuario-ganar-clasico.html",
+        "date": "2026-01-04 16:49:58",
+        "sentiment_score": 0.14670980721712112
     }
 ];
