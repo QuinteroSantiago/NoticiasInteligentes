@@ -3180,5 +3180,224 @@ export default [
         "link": "https://www.eldiario.es/economia/espana-suelo-vacante-construir-6-7-millones-viviendas-nuevas_1_12877765.html",
         "date": "2026-01-04 21:24:33",
         "sentiment_score": -0.09352633357048035
+    },
+    {
+        "title": "Pascua militar y romería",
+        "image_url": "https://static.grupojoly.com/clip/61d56fdb-5309-4dcc-9a33-6d07f60f5a8f_facebook-aspect-ratio_default_0.jpg",
+        "tags": [
+            "pascua",
+            "romeria",
+            "militar"
+        ],
+        "link": "https://www.diariodealmeria.es/opinion/articulos/pascua-militar-romeria_0_2005555429.html",
+        "date": "2026-01-05 02:05:42",
+        "sentiment_score": 0.07956111431121826
+    },
+    {
+        "title": "¿Por qué España sigue siendo una isla energética en Europa?",
+        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076879_260751612_1706x960.jpg",
+        "tags": [
+            "opinión",
+            "electricidad",
+            "energía - opinión"
+        ],
+        "link": "https://www.elespanol.com/invertia/opinion/20260105/espana-sigue-isla-energetica-europa/1003744076760_12.html",
+        "date": "2026-01-05 01:41:47",
+        "sentiment_score": -0.7018237262964249
+    },
+    {
+        "title": "La nueva financiación autonómica irrumpe en un semestre de elecciones en las CCAA clave del PP",
+        "image_url": "https://s3.elespanol.com/2025/12/19/sociedad/1003744063148_260578564_1706x960.jpg",
+        "tags": [
+            "financiación autonómica",
+            "economía",
+            "maría jesús montero",
+            "agencia tributaria",
+            "ministerio de hacienda y función pública",
+            "iva",
+            "irpf"
+        ],
+        "link": "https://www.elespanol.com/invertia/economia/20260105/nueva-financiacion-autonomica-irrumpe-semestre-elecciones-ccaa-clave-pp/1003744069779_0.html",
+        "date": "2026-01-05 01:36:41",
+        "sentiment_score": 0.11355111002922058
+    },
+    {
+        "title": "El legado del 'Guía del Guardia Civil' y el 'Guía del Carabinero'",
+        "image_url": "https://static.grupojoly.com/clip/bf10067c-ba84-4a43-9bd2-53162cda122b_source-aspect-ratio_default_0.jpg",
+        "tags": [
+            "últimas noticias campo de gibraltar"
+        ],
+        "link": "https://www.europasur.es/algeciras/legado-guia-guardia-civil-carabinero_0_2005535206.html",
+        "date": "2026-01-05 01:33:02",
+        "sentiment_score": 0.5536660104990005
+    },
+    {
+        "title": "El Atlético necesita la mejor versión de Julián Alvarez con carácter de urgencia",
+        "image_url": "https://www.mundiario.com/media/mundiario/images/2025/08/18/2025081800081853699.jpg",
+        "tags": [
+            "deportes"
+        ],
+        "link": "https://www.mundiario.com/articulo/deportes/atletico-necesita-mejor-version-julian-alvarez-caracter-urgencia/20260105020941369381.html",
+        "date": "2026-01-05 01:09:41",
+        "sentiment_score": -0.9235961781814694
+    },
+    {
+        "title": "Hansi Flick y Xavi Pascual, los antídotos de Laporta en el Barça para combatir la cartera del Real Madrid",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2026/01/05/culemania/palco/1003742720892_15571808_1706x960.jpg",
+        "tags": [
+            "barça",
+            "joan laporta",
+            "palco",
+            "fcb basket",
+            "xavi pascual",
+            "fc barcelona",
+            "hansi flick"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/palco/20260105/hansi-flick-xavi-pascual-laporta-barca-madrid/1003742720886_0.html",
+        "date": "2026-01-05 01:05:10",
+        "sentiment_score": 0.4653737097978592
+    },
+    {
+        "title": "Tras la captura de Maduro, la diáspora venezolana rechaza la continuidad del chavismo: «No queremos a Delcy»",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "noticias nacionales"
+        ],
+        "link": "https://noticiasya.com/2026/01/04/captura-maduro-diaspora-venezolana-rechaza-continuidad-chavismo-delcy-orix/",
+        "date": "2026-01-05 01:03:47",
+        "sentiment_score": -0.36260582506656647
+    },
+    {
+        "title": "La cantera sale al rescate de Xabi Alonso: Gonzalo se doctora, vuelve a tirar la puerta abajo y es el salvavidas para la Supercopa",
+        "image_url": "https://s3.elespanol.com/2026/01/04/actualidad/1003744078112_260768015_1706x960.jpg",
+        "tags": [
+            "real madrid cf",
+            "fútbol",
+            "gonzalo garcía",
+            "la liga",
+            "deportes",
+            "supercopa de europa"
+        ],
+        "link": "https://www.elespanol.com/deportes/futbol/20260105/cantera-sale-rescate-xabi-alonso-gonzalo-doctora-vuelve-tirar-puerta-abajo-salvavidas-supercopa/1003744078088_0.html",
+        "date": "2026-01-05 01:03:14",
+        "sentiment_score": 0.749078094959259
+    },
+    {
+        "title": "04 ENE 2025 | EL TERTULIÓN DE LOS DOMINGOS",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/04-ene-2025-tertulion-domingos-20260105_3280807.html",
+        "date": "2026-01-05 00:56:10",
+        "sentiment_score": -0.08952873945236206
+    },
+    {
+        "title": "Vini Jr. y un hito para la historia: 150 victorias en LaLiga con el Real Madrid",
+        "image_url": "https://pxcdn.meridiano.net/012026/1767577106644.jpg?ch=180&cw=320",
+        "tags": [
+            "top",
+            "lifestyle"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/vini-jr-y-un-hito-para-la-historia-150-victorias-en-laliga-con-el-real-madrid-20261420520",
+        "date": "2026-01-05 00:52:00",
+        "sentiment_score": 0.6879720762372017
+    },
+    {
+        "title": "Mujer y tecnología: las historias que cambiaron el relato de la innovación y la ciencia",
+        "image_url": "https://s3.elespanol.com/2025/12/30/actualidad/1003744073541_260709094_1706x960.jpg",
+        "tags": [
+            "tecnología",
+            "innovación",
+            "mujeres",
+            "mujeres emprendedoras",
+            "industria tecnológica",
+            "españa"
+        ],
+        "link": "https://www.elespanol.com/invertia/disruptores/politica-digital/espana/20260105/mujer-tecnologia-historias-cambiaron-relato-innovacion-ciencia/1003744073539_0.html",
+        "date": "2026-01-05 01:45:02",
+        "sentiment_score": 0.3391326032578945
+    },
+    {
+        "title": "Puigdemont busca un \"mirlo blanco\" para Barcelona tras superarle Orriols: sondea al economista Sala i Martin y al ex consejero delegado del Sabadell, Jaume Guardiola",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/0194d48742d02528f35346a3f68899a3/crop/0x0/240x240/f/image/jpeg/assets/multimedia/imagenes/2022/03/22/16479611698676.png",
+        "tags": [
+            "artículos víctor mondelo"
+        ],
+        "link": "https://www.elmundo.es/cataluna/2026/01/05/695a9f23fdddffac158b457f.html",
+        "date": "2026-01-05 01:11:45",
+        "sentiment_score": -0.8087887987494469
+    },
+    {
+        "title": "Los vinos que van a mandar en la barra en 2026 y dónde beberlos en Madrid",
+        "image_url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/01/01/17672765835495.jpg",
+        "tags": [
+            "comer",
+            "madrid",
+            "vinos"
+        ],
+        "link": "https://www.elmundo.es/metropoli/elmundovino/2026/01/05/6956808fe4d4d896188b459e.html",
+        "date": "2026-01-05 00:43:14",
+        "sentiment_score": -0.053652092814445496
+    },
+    {
+        "title": "El pueblo de Anzoátegui exige el retorno del presidente Maduro",
+        "image_url": "https://ultimasnoticias.com.ve/wp-content/uploads/2026/01/PLaza-04013.jpg",
+        "tags": [
+            "actualidad",
+            "política",
+            "anzoátegui"
+        ],
+        "link": "https://ultimasnoticias.com.ve/actualidad/el-pueblo-de-anzoategui-exige-el-retorno-del-presidente-maduro/",
+        "date": "2026-01-05 00:27:29",
+        "sentiment_score": -0.06096698343753815
+    },
+    {
+        "title": "Los centros de procesamiento de datos en España allanan el camino hacia el futuro",
+        "image_url": "https://www.galiciapress.es/images/showid/7793089",
+        "tags": [
+            "internet"
+        ],
+        "link": "https://www.galiciapress.es/articulo/economia/2026-01-05/5723398-centros-procesamiento-datos-espana-allanan-camino-hacia-futuro",
+        "date": "2026-01-05 00:19:42",
+        "sentiment_score": 0.616944570094347
+    },
+    {
+        "title": "Joan García y Gonzalo, protagonistas de El Tertulión de los domingos",
+        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/04/695aeb84d5cd8.png",
+        "tags": [
+            "tiempo de juego"
+        ],
+        "link": "https://www.cope.es/programas/tiempo-de-juego/noticias/tertulion-domingos-juego-04-20260105_3280796.html",
+        "date": "2026-01-05 00:13:36",
+        "sentiment_score": -0.06398603320121765
+    },
+    {
+        "title": "“Los escucho preocupados”: la fuerte defensa del Cholo Simeone al oír en vivo las críticas a Julián Álvarez",
+        "image_url": "https://www.infobae.com/resizer/v2/LGPZD2NBKNCQRKNVD2SQIUN4DI.JPG?auth=77a8feecc512f2b807ee188f03fea1f4dea6703696cfb985bd9c4ccda661b1e3&height=1080&smart=true&width=1920",
+        "tags": [
+            "deportes-internacional",
+            "diego simeone",
+            "atlético de madrid",
+            "la liga española",
+            "real sociedad",
+            "julián álvarez"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/04/los-escucho-preocupados-la-fuerte-defensa-del-cholo-simeone-al-oir-en-vivo-las-criticas-a-julian-alvarez/",
+        "date": "2026-01-04 23:34:20",
+        "sentiment_score": -0.8631376326084137
+    },
+    {
+        "title": "Opositores pidieron en España perseverar hasta que Edmundo González tome posesión",
+        "image_url": "https://elnacional-uploads.nyc3.digitaloceanspaces.com/wp-content/uploads/2026/01/04191430/opositores-edmundo-gonzalez.jpg",
+        "tags": [
+            "edmundo gonzalez",
+            "españa",
+            "opositores",
+            "mundo"
+        ],
+        "link": "https://www.elnacional.com/2026/01/opositores-pidieron-en-espana-perseverar-hasta-que-edmundo-gonzalez-tome-posesion/",
+        "date": "2026-01-04 23:30:32",
+        "sentiment_score": -0.5241170972585678
     }
 ];
