@@ -1,246 +1,5 @@
 export default [
     {
-        "title": "Venezuela detiene a varios ciudadanos estadounidenses mientras aumentan las tensiones con EE.UU",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/0b/media_thumb-link-4131653.webp?1767317226=",
-        "tags": [
-            "ee.uu",
-            "detención",
-            "ciudadanos estadounidense",
-            "venezuela",
-            "politica"
-        ],
-        "link": "https://www.meneame.net/story/venezuela-detiene-varios-ciudadanos-estadounidenses-mientras-ee",
-        "date": "2026-01-02 15:30:04",
-        "sentiment_score": -0.43761805817484856
-    },
-    {
-        "title": "Roberto Carlos desmiente que tuvo un infarto cardíaco",
-        "image_url": "https://elperiodicodemonagas.com.ve/wp-content/uploads/2026/01/Roberto-Carlos-desmiente-que-tuvo-un-infarto-cardiaco-768x384.jpg",
-        "tags": [
-            "entretenimiento"
-        ],
-        "link": "https://elperiodicodemonagas.com.ve/entretenimiento/roberto-carlos-desmiente-que-tuvo-un-infarto-cardiaco/",
-        "date": "2026-01-02 17:12:50",
-        "sentiment_score": -0.65807681158185
-    },
-    {
-        "title": "17:00H | 02 ENE 2026 | La Tarde",
-        "image_url": "/assets/placeholder-for-na.png",
-        "tags": [
-            "la tarde"
-        ],
-        "link": "https://www.cope.es/programas/la-tarde/horas-completas/17-00h-02-ene-2026-tarde-20260102_3280422.html",
-        "date": "2026-01-02 17:07:00",
-        "sentiment_score": -0.05799320340156555
-    },
-    {
-        "title": "Roborock se convierte en el patrocinador global del Real Madrid: \"Buscamos compartir valores fundamentales\"",
-        "image_url": "https://s3.elespanol.com/2026/01/02/actualidad/1003744076777_260750190_1706x960.jpg",
-        "tags": [
-            "tecnología",
-            "hardware",
-            "españa",
-            "deportes"
-        ],
-        "link": "https://www.elespanol.com/omicrono/tecnologia/20260102/roborock-convierte-patrocinador-global-real-madrid-buscamos-compartir-valores-fundamentales/1003744076764_0.html",
-        "date": "2026-01-02 17:06:33",
-        "sentiment_score": 0.5457639247179031
-    },
-    {
-        "title": "El Barcelona sigue muy endeudado. ¿Puede arreglar sus finanzas?",
-        "image_url": "https://www.infobae.com/resizer/v2/MCOOMYRWUVDNLARXSMABF6RDEQ.jpg?auth=82ccd9a326918dedb8dc05a730e4bbb3af3b4572f86ab79bbfbbdddc3e15eb3d&height=3334&smart=true&width=5000",
-        "tags": [
-            "new york times"
-        ],
-        "link": "https://www.infobae.com/america/the-new-york-times/2026/01/02/el-barcelona-sigue-muy-endeudado-puede-arreglar-sus-finanzas/",
-        "date": "2026-01-02 17:00:20",
-        "sentiment_score": 0.0074668824672698975
-    },
-    {
-        "title": "Marc Pubill: \"El equipo se va a dejar todo para ganar la Supercopa de España\"",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260102175113_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-marc-pubill-equipo-va-dejar-todo-ganar-supercopa-espana-20260102175113.html",
-        "date": "2026-01-02 16:51:13",
-        "sentiment_score": 0.7659003026783466
-    },
-    {
-        "title": "Horario y dónde ver por televisión el Espanyol - FC Barcelona de la jornada 18 de LaLiga",
-        "image_url": "https://imagenes.eldebate.com/files/new_main_image/files/fp/uploads/2026/01/02/6957ec65e1a2d.r_d.864-452.jpeg",
-        "tags": [
-            "la liga"
-        ],
-        "link": "https://www.eldebate.com/deportes/futbol/la-liga/20260102/horario-donde-ver-television-espanyol-fc-barcelona-jornada-18-laliga_370782.html",
-        "date": "2026-01-02 16:36:01",
-        "sentiment_score": 0.012851230800151825
-    },
-    {
-        "title": "Guadalajara ultima una cabalgata de Reyes con novedades y gran final festivo",
-        "image_url": "https://www.clm24.es/media/clm24/images/2026/01/02/2026010217272923556.jpg",
-        "tags": [
-            "guadalajara"
-        ],
-        "link": "https://www.clm24.es/articulo/guadalajara/guadalajara-ultima-cabalgata-reyes-novedades-gran-final-festivo/20260102173042467320.html",
-        "date": "2026-01-02 16:34:05",
-        "sentiment_score": 0.5673775151371956
-    },
-    {
-        "title": "La cabalgata de Reyes Magos de Guadalajara tendrá un recorrido más amplio",
-        "image_url": "https://www.clm24.es/media/clm24/images/2026/01/02/2026010217272923556.jpg",
-        "tags": [
-            "guadalajara"
-        ],
-        "link": "https://www.clm24.es/articulo/guadalajara/cabalgata-reyes-magos-guadalajara-tendra-recorrido-mas-amplio/20260102173042467320.html",
-        "date": "2026-01-02 16:34:05",
-        "sentiment_score": 0.5673775151371956
-    },
-    {
-        "title": "El Azulmarino busca igualar el récord",
-        "image_url": "https://uh.gsstatic.es/sfAttachPlugin/social/3623255.jpg",
-        "tags": [
-            "azulmarino",
-            "baloncesto",
-            "eurobasket",
-            "euroliga",
-            "eurocup",
-            "leb oro",
-            "liga acb"
-        ],
-        "link": "https://www.ultimahora.es/deportes/baloncesto/2026/01/02/2542199/azulmarino-busca-igualar-record.html",
-        "date": "2026-01-02 16:28:31",
-        "sentiment_score": 0.4740864336490631
-    },
-    {
-        "title": "Quién es Eric García: edad, cuánto cobra y dónde ha jugado",
-        "image_url": "https://okdiario.com/img/2025/12/23/befunky-collage-1-1.jpg",
-        "tags": [
-            "barcelona",
-            "deportes"
-        ],
-        "link": "https://okdiario.com/deportes/quien-eric-garcia-edad-cuanto-cobra-donde-jugado-16014289",
-        "date": "2026-01-02 16:18:49",
-        "sentiment_score": -0.02692331373691559
-    },
-    {
-        "title": "Los socios de Sánchez ansían suspender el Barcelona-Maccabi Tel Aviv del Día de Reyes",
-        "image_url": "https://okdiario.com/img/2026/01/02/barcelona-maccabi.jpg",
-        "tags": [
-            "euroliga",
-            "deportes",
-            "baloncesto",
-            "fútbol club barcelona (baloncesto)"
-        ],
-        "link": "https://okdiario.com/deportes/socios-sanchez-ansian-suspender-barcelona-maccabi-tel-aviv-del-dia-reyes-16014983",
-        "date": "2026-01-02 17:07:14",
-        "sentiment_score": -0.06856274604797363
-    },
-    {
-        "title": "El Ibex estrena el año con un nuevo récord y roza los 17.500 puntos",
-        "image_url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/01/02/6957f97263694.r_d.431-563-4885.jpeg",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://www.lavanguardia.com/economia/20260102/11408864/ibex-estrena-ano-nuevo-record-roza-17-500-puntos.html",
-        "date": "2026-01-02 17:01:20",
-        "sentiment_score": 0.45362332463264465
-    },
-    {
-        "title": "Los Reyes Magos llegarán a Barcelona este lunes navegando hasta el Portal de la Pau",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2026/01/02/6957f164482c4.jpeg",
-        "tags": [
-            "catalunya"
-        ],
-        "link": "https://www.cope.es/emisoras/catalunya/noticias/reyes-magos-llegaran-barcelona-lunes-navegando-portal-pau-20260102_3280421.html",
-        "date": "2026-01-02 17:01:08",
-        "sentiment_score": 0.04276537895202637
-    },
-    {
-        "title": "Antoni Gaudí, responsable de la posible visita del Papa León XIV a Barcelona",
-        "image_url": "https://imagenes.cope.es/files/webp_425_238/uploads/2025/12/26/694e87d414d20.webp",
-        "tags": [
-            "iglesia española"
-        ],
-        "link": "https://www.cope.es/religion/hoy-en-dia/iglesia-espanola/noticias/antoni-gaudi-responsable-posible-visita-papa-leon-xiv-barcelona-20260102_3277810.html",
-        "date": "2026-01-02 17:00:28",
-        "sentiment_score": 0.05860084295272827
-    },
-    {
-        "title": "Laia Sanz: \"Hace un año todo parecía oscuro y ahora llego al Dakar mejor que nunca\"",
-        "image_url": "https://static1.ara.cat/clip/9d61992f-964a-4038-96d5-2efca1864bb2_16-9-aspect-ratio_default_0_x4460y1973.jpg",
-        "tags": [
-            "ahora",
-            "dakar",
-            "ano",
-            "sanz",
-            "mejor",
-            "oscuro",
-            "parecia",
-            "llego",
-            "laia"
-        ],
-        "link": "https://es.ara.cat/deportes/laia-sanz-ano-parecia-oscuro-ahora-llego-dakar-mejor_1_5607486.html",
-        "date": "2026-01-02 17:00:27",
-        "sentiment_score": -0.03474503755569458
-    },
-    {
-        "title": "Grupo Catalana Occidente será excluido de negociación en Bolsa desde el 5 de enero",
-        "image_url": "https://i0.wp.com/cronicadecantabria.com/cr/wp-content/uploads/2026/01/20260102175644.jpg?fit=1502%2C826&ssl=1",
-        "tags": [
-            "economía"
-        ],
-        "link": "https://cronicadecantabria.com/cr/grupo-catalana-occidente-ser-excluido-de-negociacin-en-bolsa-desde-el-5-de-enero/",
-        "date": "2026-01-02 17:00:03",
-        "sentiment_score": -0.3134930320084095
-    },
-    {
-        "title": "Surne Bilbao-Valencia desde Miribilla",
-        "image_url": "https://s1.ppllstatics.com/elcorreo/www/multimedia/2025/10/04/surne-bilbao-kpvG--758x531@El%20Correo-ElCorreo.jpg",
-        "tags": [
-            "bilbao basket"
-        ],
-        "link": "https://www.elcorreo.com/bilbaobasket/directo-bilbao-basket-valencia-liga-endesa-jornada-13-20260102121312-di.html",
-        "date": "2026-01-02 16:54:32",
-        "sentiment_score": 0.04520172253251076
-    },
-    {
-        "title": "El Cartero Real recorrerá Córdoba este sábado ofreciendo unos 500 kilos de caramelos y miles de regalos",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260102175119_690.jpg",
-        "tags": [
-            "andalucía"
-        ],
-        "link": "https://www.europapress.es/andalucia/noticia-cartero-real-recorrera-cordoba-sabado-ofreciendo-500-kilos-caramelos-miles-regalos-20260102175119.html",
-        "date": "2026-01-02 16:51:19",
-        "sentiment_score": -0.002007514238357544
-    },
-    {
-        "title": "Joan Garcia regresa a 'casa' convertido en enemigo",
-        "image_url": "https://img.europapress.es/fotoweb/fotonoticia_20260102174930_690.jpg",
-        "tags": [
-            "fútbol",
-            "deportes"
-        ],
-        "link": "https://www.europapress.es/deportes/futbol-00162/noticia-joan-garcia-regresa-casa-convertido-enemigo-20260102174930.html",
-        "date": "2026-01-02 16:49:30",
-        "sentiment_score": 0.06477832794189453
-    },
-    {
-        "title": "Encuentran muerta a la hija del actor Tommy Lee Jones en un hotel de San Francisco",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/0b/media_thumb-link-4131717.webp?1767348426=",
-        "tags": [
-            "tommy lee jones",
-            "actor",
-            "san francisco",
-            "actualidad",
-            "victoria jones"
-        ],
-        "link": "https://www.meneame.net/story/encuentran-muerta-hija-actor-tommy-lee-jones-hotel-san-francisco",
-        "date": "2026-01-02 18:15:02",
-        "sentiment_score": -0.2676515132188797
-    },
-    {
         "title": "El Madrid sigue como en 2025 y remonta para ganar al Dubái",
         "image_url": "https://estaticos-cdn.prensaiberica.es/clip/dab791ef-164b-49f3-ac1e-e03c2b25f95f_16-9-aspect-ratio_default_0.jpg",
         "tags": [
@@ -890,20 +649,6 @@ export default [
         "sentiment_score": -0.7725238911807537
     },
     {
-        "title": "Venezuela detiene a varios ciudadanos estadounidenses mientras aumentan las tensiones con EE.UU",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/0b/media_thumb-link-4131653.webp?1767317226=",
-        "tags": [
-            "ee.uu",
-            "detención",
-            "ciudadanos estadounidense",
-            "venezuela",
-            "politica"
-        ],
-        "link": "https://www.meneame.net/story/venezuela-detiene-varios-ciudadanos-estadounidenses-mientras-ee",
-        "date": "2026-01-02 15:30:04",
-        "sentiment_score": -0.4376175869256258
-    },
-    {
         "title": "Petro condena el ataque de EE.UU. a Venezuela y convoca al Consejo de Seguridad de la ONU",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/0c/media_thumb-link-4132087.webp?1767449946=",
         "tags": [
@@ -918,20 +663,6 @@ export default [
         "link": "https://www.meneame.net/story/petro-condena-ataque-ee-uu-venezuela-convoca-consejo-seguridad",
         "date": "2026-01-03 16:50:05",
         "sentiment_score": -0.2164357751607895
-    },
-    {
-        "title": "Encuentran muerta a la hija del actor Tommy Lee Jones en un hotel de San Francisco",
-        "image_url": "https://cdn.mnmstatic.net/cache/3f/0b/media_thumb-link-4131717.webp?1767348426=",
-        "tags": [
-            "tommy lee jones",
-            "actor",
-            "san francisco",
-            "actualidad",
-            "victoria jones"
-        ],
-        "link": "https://www.meneame.net/story/encuentran-muerta-hija-actor-tommy-lee-jones-hotel-san-francisco",
-        "date": "2026-01-02 18:15:02",
-        "sentiment_score": -0.26765138655900955
     },
     {
         "title": "La inversión en servicios sociales en Plasencia, Mérida y Badajoz, entre las más bajas de España",
@@ -3339,5 +3070,78 @@ export default [
         "link": "https://www.canarias7.es/economia/galdar-cierra-2025-vivienda-barata-canarias-san-20260106070000-nt.html",
         "date": "2026-01-06 00:00:00",
         "sentiment_score": 0.012199923396110535
+    },
+    {
+        "title": "Pascua Militar: el Rey felicita a las Fuerzas Armadas con la OTAN en plena incertidumbre y Europa doblemente amenazada",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3311454-98b4-4fae-92aa-c6ed120fd2c9_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "felipe vi,reina letizia,princesa leonor,ejército de tierra,armada,ejército del aire,margarita robles,ministerio de defensa,otan,trump,groenlandia,venezuela"
+        ],
+        "link": "https://www.elcorreoweb.es/espana/2026/01/06/pascua-militar-rey-felicita-fuerzas-armadas-otan-incertidumbre-amenaza-europa-125410361.html",
+        "date": "2026-01-06 06:35:57",
+        "sentiment_score": -0.4738491028547287
+    },
+    {
+        "title": "Cuchillos camuflados a seis euros, machetes a 20: la promoción de las armas blancas en internet inquieta a las fuerzas de seguridad",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/0399d58e-5af0-45e6-a551-cb13a1f975b2_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "delincuencia",
+            "ministerio de interior",
+            "cuchillo",
+            "machetazos",
+            "guardia civil",
+            "armas",
+            "policía nacional"
+        ],
+        "link": "https://www.laprovincia.es/sociedad/2026/01/06/cuchillos-camuflados-seis-euros-machetes-20-euros-promocion-armas-internet-inquieta-policia-125410306.html",
+        "date": "2026-01-06 06:28:24",
+        "sentiment_score": -0.6108329445123672
+    },
+    {
+        "title": "El manuscrito perdido de Delibes que reapareció en Barcelona",
+        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2021/10/06/6DCB237C-93C7-4F84-BDE6-DA96BDEC357B/69.jpg?crop=990%2C557%2Cx0%2Cy23&format=jpg&height=720&optimize=low&width=1280",
+        "tags": [
+            "cataluña",
+            "home la razón"
+        ],
+        "link": "https://www.larazon.es/cataluna/manuscrito-perdido-delibes-que-reaparecio-barcelona_20260106695ca99d22f0db7daf069232.html",
+        "date": "2026-01-06 06:20:13",
+        "sentiment_score": -0.009156174957752228
+    },
+    {
+        "title": "¿Qué es la Doctrina Monroe que ahora Trump ha recuperado?",
+        "image_url": "https://static1.ara.cat/clip/608ed395-30cd-47ca-9787-b0900bfaa40e_16-9-aspect-ratio_default_0.jpg",
+        "tags": [
+            "ahora",
+            "trump",
+            "monroe",
+            "doctrina",
+            "recuperado"
+        ],
+        "link": "https://es.ara.cat/internacional/doctrina-monroe-ahora-trump-recuperado_130_5610040.html",
+        "date": "2026-01-06 06:00:36",
+        "sentiment_score": 0.05183606594800949
+    },
+    {
+        "title": "Dónde ha caído el primer premio de la Lotería del Niño 2026",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/29/1194A75E-7A5A-4275-87FB-1546B8D0A4BC/donde-caido-primer-premio-loteria-nino-2026_98.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-caido-primer-premio-loteria-nino-2026_20260106695ca4f422f0db7daf068fe3.html",
+        "date": "2026-01-06 06:00:20",
+        "sentiment_score": 0.8486505839973688
+    },
+    {
+        "title": "Mapa de premios de la Lotería del Niño 2026: ¿Dónde han caído los premios del sorteo de hoy 6 de enero?",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2025/12/29/E40B535A-58C4-4858-9C43-8E4ED14E7A1F/mapa-premios-loteria-nino-2026-donde-han-caido-premios-sorteo-hoy-6-enero_98.jpg?crop=1600%2C900%2Cx0%2Cy0&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/mapa-premios-loteria-nino-2026-donde-han-caido-premios-sorteo-hoy-6-enero_20260106695ca4f2af09df50109c7654.html",
+        "date": "2026-01-06 06:00:18",
+        "sentiment_score": 0.3449147343635559
     }
 ];
