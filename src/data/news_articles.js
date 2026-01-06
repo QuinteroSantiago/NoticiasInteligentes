@@ -3131,5 +3131,213 @@ export default [
         "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260105/albiol-mensaje-ano-nuevo-mundo-venga-trabajar-bienvenido/1003742721181_0.html",
         "date": "2026-01-05 21:26:46",
         "sentiment_score": -0.11018042266368866
+    },
+    {
+        "title": "Las conexiones de Delcy con el gobierno español: el \"bien\" de Sánchez, una 'cena' con ministros, Ábalos en Barajas, mensajes con Koldo...",
+        "image_url": "https://e01-phantom-elmundo.uecdn.es/d9754f9e1c9ec2c05cc471eb1d5216d6/crop/519x0/2567x2048/f/image/jpeg/assets/multimedia/imagenes/2022/03/09/16468205674169.jpg",
+        "tags": [
+            "artículos ángela martialay",
+            "delcy rodríguez",
+            "pedro sánchez",
+            "josé luis ábalos",
+            "josé luis rodríguez zapatero"
+        ],
+        "link": "https://www.elmundo.es/espana/2026/01/06/695bdf4be4d4d878418b4593.html",
+        "date": "2026-01-06 01:26:58",
+        "sentiment_score": -0.8495018519461155
+    },
+    {
+        "title": "Los Reyes junto a la Princesa de Asturias presiden la Pascua Militar con la ausencia inédita de Pedro Sánchez",
+        "image_url": "https://www.elconfidencialdigital.com/media/monarquiaconfidencial/images/2024/01/06/2024010614122444702.jpg",
+        "tags": [
+            "españa"
+        ],
+        "link": "https://www.elconfidencialdigital.com/monarquia/articulo/espana/reyes-espana-junto-princesa-asturias-presiden-pascua-militar-ausencia-pedro-sanchez/20260106021800148012.html",
+        "date": "2026-01-06 01:18:00",
+        "sentiment_score": 0.22991348803043365
+    },
+    {
+        "title": "Las dos estrellas internacionales que busca el Inter Miami de Messi para terminar de rearmar su Dream Team",
+        "image_url": "https://www.infobae.com/resizer/v2/RE4TKCVCXNCQ3BPN6FCMJHX6BE.JPG?auth=18e05ce03de4b39977cd7c20e364e0843c3fcdaf8961143d07a9ccb86ae4bc03&height=1777&smart=true&width=3159",
+        "tags": [
+            "atlético de madrid",
+            "koke",
+            "lionel messi",
+            "deportes-argentina",
+            "antoine griezmann",
+            "mls",
+            "inter miami"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/06/las-dos-estrellas-internacionales-que-busca-el-inter-miami-de-messi-para-terminar-de-rearmar-su-dream-team/",
+        "date": "2026-01-06 00:57:48",
+        "sentiment_score": 0.6412315145134926
+    },
+    {
+        "title": "05 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/05-ene-2026-partidazo-cope-20260106_3281320.html",
+        "date": "2026-01-06 00:50:00",
+        "sentiment_score": -0.05286677926778793
+    },
+    {
+        "title": "Felipe VI recogiendo el broche que se le cayó a la reina Letizia y otras anécdotas memorables en la historia de la Pascua Militar",
+        "image_url": "https://s3.elespanol.com/2026/01/05/actualidad/1003744079074_260779581_1706x960.jpg",
+        "tags": [
+            "pascua militar",
+            "leonor de borbón ortiz",
+            "casas reales",
+            "felipe vi",
+            "reina letizia"
+        ],
+        "link": "https://www.elespanol.com/corazon/casas-reales/20260106/felipe-vi-recogiendo-broche-cayo-reina-letizia-anecdotas-memorables-historia-pascua-militar/1003744078583_0.html",
+        "date": "2026-01-06 00:33:00",
+        "sentiment_score": 0.41293201595544815
+    },
+    {
+        "title": "Irina Shayk cumple 40 años: la modelo humilde que sufrió acoso por su físico y enamoró a Cristiano y Bradley Cooper",
+        "image_url": "https://s3.elespanol.com/2026/01/05/corazon/celebrities/1003744079307_260783007_1706x960.jpg",
+        "tags": [
+            "bradley cooper",
+            "celebrities",
+            "cristiano ronaldo",
+            "irina shayk"
+        ],
+        "link": "https://www.elespanol.com/corazon/celebrities/20260106/irina-shayk-cumple-anos-modelo-humilde-sufrio-acoso-fisico-enamoro-cristiano-bradley-cooper/1003744079230_0.html",
+        "date": "2026-01-06 00:33:00",
+        "sentiment_score": -0.694218635559082
+    },
+    {
+        "title": "Habló Trump. Y María Corina pensó en Zelenski",
+        "image_url": "https://s1.staticld.com/2026/01/05/donald-trump-04012026.jpg",
+        "tags": [
+            "estados unidos"
+        ],
+        "link": "https://www.libertaddigital.com/opinion/2026-01-06/pedro-gil-ruiz-hablo-trump-y-maria-corina-penso-en-zelenski-7340249/",
+        "date": "2026-01-06 00:19:19",
+        "sentiment_score": -0.4119236320257187
+    },
+    {
+        "title": "Crecimiento imparable: el mercado iGaming español sube un 18,6 % interanual en 2025",
+        "image_url": "https://www.elboletin.com/wp-content/uploads/2024/12/gaming.webp",
+        "tags": [
+            "hoy en la red",
+            "educación digital",
+            "fiscalidad",
+            "ocio",
+            "regulacion",
+            "datos",
+            "tecnología",
+            "innovacion",
+            "sostenibilidad"
+        ],
+        "link": "https://www.elboletin.com/crecimiento-imparable-el-mercado-igaming-espanol-sube-un-186-interanual-en-2025/",
+        "date": "2026-01-06 00:17:54",
+        "sentiment_score": 0.665702398866415
+    },
+    {
+        "title": "La impactante oferta que prepara el Chelsea para sacar a Vinícius del Real Madrid tras los silbidos que sufrió en el Bernabéu",
+        "image_url": "https://www.infobae.com/resizer/v2/ERW3PQHUWZCXJM6LEPKZCPVFZ4.JPG?auth=68c7be68340c5f82e25cba0ba5ded8727a932b722bf51210536644bddaf68a38&height=1465&smart=true&width=2604",
+        "tags": [
+            "deportes-argentina",
+            "chelsea",
+            "real madrid",
+            "vinicius jr."
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/06/la-impactante-oferta-que-prepara-el-chelsea-por-vinicius-para-sacarlo-del-real-madrid-tras-los-silbidos-que-sufrio-en-el-bernabeu/",
+        "date": "2026-01-06 00:14:48",
+        "sentiment_score": -0.4868268743157387
+    },
+    {
+        "title": "2a PARTE | 05 ENE 2026 | EL PARTIDAZO DE COPE",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "el partidazo de cope"
+        ],
+        "link": "https://www.cope.es/programas/el-partidazo-de-cope/horas-completas/2a-parte-05-ene-2026-partidazo-cope-20260106_3281318.html",
+        "date": "2026-01-05 23:43:05",
+        "sentiment_score": -0.3708856739103794
+    },
+    {
+        "title": "El día que estuvieron a punto de expulsar a Los Protagonistas de José Ramón Fernández de unos Olímpicos",
+        "image_url": "https://www.infobae.com/resizer/v2/E6UBUFKCDJGVNNRHCH2U2TGIBM.jpg?auth=2fc45a81a0966f8696771792379589699161f974748ca2ea2857f26ef7fa8287&height=1080&smart=true&width=1920",
+        "tags": [
+            "barcelona 92",
+            "mexico-entretenimiento",
+            "los protagonistas",
+            "josé ramón fernández"
+        ],
+        "link": "https://www.infobae.com/america/entretenimiento/2021/06/14/el-dia-que-estuvieron-a-punto-de-expulsar-a-los-protagonistas-de-jose-ramon-fernandez-de-unos-olimpicos/",
+        "date": "2026-01-06 01:44:23",
+        "sentiment_score": -0.7814426608383656
+    },
+    {
+        "title": "Gina Lollobrigida cumple 93 años sumergida en una triste batalla familiar",
+        "image_url": "https://www.infobae.com/resizer/v2/5IVEMI6LRFHGHK75IPNZOFAW2M.jpg?auth=399ba0a15906e5aad0c1c038f75a3060108b6843346fc4dc833e901167d52551&height=1080&smart=true&width=1920",
+        "tags": [
+            "gina lollobrigida",
+            "hollywood",
+            "cine italiano"
+        ],
+        "link": "https://www.infobae.com/america/entretenimiento/2020/07/04/gina-lollobrigida-cumple-93-anos-sumergida-en-una-triste-batalla-familiar/",
+        "date": "2026-01-06 01:34:31",
+        "sentiment_score": -0.6565233319997787
+    },
+    {
+        "title": "“Era una guerra contra Televisa”: José Ramón Fernández y la historia de Los Protagonistas",
+        "image_url": "https://www.infobae.com/resizer/v2/PAWJYJNMTNBPVOREQQDRPSG7YA.jpg?auth=af45ec9e4706cdb8cccfa8a32d9db3b90c9df1fde7bc7176ace0ca9284526861&height=1080&smart=true&width=1920",
+        "tags": [
+            "enrique garay",
+            "mexico-entretenimiento",
+            "los protagonistas",
+            "televisa",
+            "rafa puente",
+            "josé ramón fernández",
+            "david faitelson"
+        ],
+        "link": "https://www.infobae.com/america/entretenimiento/2021/06/10/era-una-guerra-contra-televisa-jose-ramon-fernandez-y-la-historia-de-los-protagonistas/",
+        "date": "2026-01-06 01:18:47",
+        "sentiment_score": -0.4792559817433357
+    },
+    {
+        "title": "Joao Cancelo vuelve al Barcelona",
+        "image_url": "/assets/placeholder-for-na.png",
+        "tags": [
+            "cesión",
+            "barcelona",
+            "deportes",
+            "al hilal",
+            "joao cancelo"
+        ],
+        "link": "https://noticialdia.com/deportes/joao-cancelo-vuelve-al-barcelona/",
+        "date": "2026-01-06 00:15:56",
+        "sentiment_score": 0.08734040707349777
+    },
+    {
+        "title": "La automovilística Chery instalará su sede para Europa en Barcelona",
+        "image_url": "https://e01-phantom-expansion.uecdn.es/3adc26463257c0d6a6e4dc9def6b4235/crop/318x273/1923x1343/resize/1200/f/webp/assets/multimedia/imagenes/2025/06/05/17491332019810.jpg",
+        "tags": [
+            "artículos daniel g. lifona>",
+            "cataluña>",
+            "empresas>",
+            "motor>"
+        ],
+        "link": "https://www.expansion.com/empresas/motor/2026/01/06/695c02fde5fdea95228b4599.html",
+        "date": "2026-01-06 00:14:37",
+        "sentiment_score": 0.2755042612552643
+    },
+    {
+        "title": "Gáldar cierra el 2025 con la vivienda más barata de Canarias y San Bartolomé, con la más cara",
+        "image_url": "https://s2.ppllstatics.com/canarias7/www/multimedia/2026/01/05/210203454-kJGE--1200x840@Canarias7.jpg",
+        "tags": [
+            "precios",
+            "municipios",
+            "vivienda"
+        ],
+        "link": "https://www.canarias7.es/economia/galdar-cierra-2025-vivienda-barata-canarias-san-20260106070000-nt.html",
+        "date": "2026-01-06 00:00:00",
+        "sentiment_score": 0.012199923396110535
     }
 ];
