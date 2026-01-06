@@ -1,169 +1,5 @@
 export default [
     {
-        "title": "El presidente burgalés del Real Madrid fusilado y olvidado por el club",
-        "image_url": "https://imagenes.diariodecastillayleon.es/files/og_thumbnail/uploads/2025/12/28/6950f14a7675e.jpeg",
-        "tags": [
-            "burgos"
-        ],
-        "link": "https://www.diariodecastillayleon.es/burgos/260102/103471/presidente-burgales-real-madrid-fusilado-olvidado-club.html",
-        "date": "2026-01-02 06:30:00",
-        "sentiment_score": -0.4299115240573883
-    },
-    {
-        "title": "¿Qué sabemos de la macrofiesta 'rave' ilegal del embalse de Cenajo, en Albacete? Todas las claves",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/43e02c19-6056-421d-aeff-b08876039ddd_16-9-discover-aspect-ratio_default_0.jpg",
-        "tags": [
-            "albacete"
-        ],
-        "link": "https://www.elperiodico.com/es/sociedad/20260102/macrofiesta-rave-ilegal-embalse-cenajo-albacete-claves-dv-125305615",
-        "date": "2026-01-02 06:17:01",
-        "sentiment_score": -0.35024795308709145
-    },
-    {
-        "title": "El ‘blockecore’, la estética futbolera que conecta con la generación Z",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/01e7e63c-c884-4b0e-a177-ef82265b68a1_16-9-aspect-ratio_default_0_x273y118.jpg",
-        "tags": [
-            "estilo",
-            "estética",
-            "moda",
-            "fútbol"
-        ],
-        "link": "https://www.laopiniondemalaga.es/opinion/2026/01/02/blockecore-estetica-futbolera-conecta-generacion-125299638.html",
-        "date": "2026-01-02 06:00:33",
-        "sentiment_score": -0.3529238998889923
-    },
-    {
-        "title": "Cuidado con las armas que afilamos",
-        "image_url": "https://www.elsaltodiario.com/uploads/fotos/r2000/8a53619a/Justicia%20para%20Samuel%20Sevilla%200010.jpg?v=63792748330",
-        "tags": [
-            "actualidad",
-            "justicia",
-            "odio"
-        ],
-        "link": "https://www.elsaltodiario.com/lgtbiq/cuidado-armas-afilamos-delito-odio",
-        "date": "2026-01-02 06:00:00",
-        "sentiment_score": -0.8727950789034367
-    },
-    {
-        "title": "Cabalgata de los Reyes Magos de Ciudad Lineal: horario, fecha, recorrido y cortes de tráfico",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/01/05/cabalgata-de-madrid.jpeg",
-        "tags": [
-            "madrid"
-        ],
-        "link": "https://www.20minutos.es/madrid/cabalgata-los-reyes-magos-ciudad-lineal-horario-fecha-recorrido-cortes-trafico_6916366_0.html",
-        "date": "2026-01-02 06:00:00",
-        "sentiment_score": 0.8537774756550789
-    },
-    {
-        "title": "El Almería celebra la vuelta de Rachad",
-        "image_url": "https://imagenes.lavozdealmeria.com/files/og_thumbnail/uploads/2026/01/01/695657988f028.jpeg",
-        "tags": [
-            "ud almería"
-        ],
-        "link": "https://www.lavozdealmeria.com/ud-almeria/425182/almeria-celebra-vuelta-rachad.html",
-        "date": "2026-01-02 05:44:41",
-        "sentiment_score": 0.4227309934794903
-    },
-    {
-        "title": "Málaga alcanza un nuevo máximo histórico de empresas y roza las 60.000",
-        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/8382d3b5-57a5-46af-ab78-fa354c2cb995_16-9-aspect-ratio_default_0.jpg",
-        "tags": [
-            "sector servicios",
-            "verano",
-            "seguridad social",
-            "empresas"
-        ],
-        "link": "https://www.laopiniondemalaga.es/malaga/2026/01/02/malaga-nuevo-maximo-historico-empresas-2025-125290268.html",
-        "date": "2026-01-02 06:30:54",
-        "sentiment_score": 0.38588090240955353
-    },
-    {
-        "title": "Precio de la gasolina en España 2026: las tarifas más altas y más bajas hoy",
-        "image_url": "https://www.infobae.com/resizer/v2/JHGVEFW4C5BMBMMUPVTE5IL7WU.jpg?auth=454ef44096997a4ae7cd41098783be873d645be45b614c445a7be1a76c8f27e5&height=1080&smart=true&width=1920",
-        "tags": [
-            "españa-economia",
-            "noticias",
-            "gasolina",
-            "precio gasolina"
-        ],
-        "link": "https://www.infobae.com/espana/2026/01/02/precio-de-la-gasolina-en-espana-2026-las-tarifas-mas-altas-y-mas-bajas-hoy/",
-        "date": "2026-01-02 06:30:37",
-        "sentiment_score": 0.0135636106133461
-    },
-    {
-        "title": "El Ayuntamiento de Almería despide con 22.000 euros a la constructora que inició la Casa Club",
-        "image_url": "https://static.grupojoly.com/clip/bef606f0-08a0-40f5-98b7-7f6413840bcf_facebook-aspect-ratio_default_0.jpg",
-        "tags": [
-            "noticias almería"
-        ],
-        "link": "https://www.diariodealmeria.es/almeria/ayuntamiento-almeria-despide-22-000_0_2005529129.html",
-        "date": "2026-01-02 06:30:15",
-        "sentiment_score": -0.6003722846508026
-    },
-    {
-        "title": "Esta es la agenda musical de Barcelona para 2026: qué es lo que no hay que perderse",
-        "image_url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2025/10/20/716BF998-C2E3-4042-845C-FBC6087B3B64/69.jpg?crop=1920%2C1080%2Cx0%2Cy179&format=jpg&height=720&optimize=low&width=1280",
-        "tags": [
-            "home la razón",
-            "cataluña"
-        ],
-        "link": "https://www.larazon.es/cataluna/esta-agenda-musical-barcelona-2026-que-que-hay-que-perderse_20260102695765f522f0db7daf0301d2.html",
-        "date": "2026-01-02 06:30:13",
-        "sentiment_score": 0.7883716374635696
-    },
-    {
-        "title": "Las nubes dominan la mañana en Cataluña y dan una tregua parcial por la tarde",
-        "image_url": "https://a2.elespanol.com/cronicaglobal/2024/09/14/vida/885921405_13444135_1706x960.jpg",
-        "tags": [
-            "tiempo",
-            "cataluña",
-            "vida"
-        ],
-        "link": "https://cronicaglobal.elespanol.com/vida/20260102/nubes-dominan-manana-cataluna-tregua-parcial-tarde/1003742720376_0.html",
-        "date": "2026-01-02 06:27:16",
-        "sentiment_score": 0.6011863872408867
-    },
-    {
-        "title": "Precio del transporte en 2026: podría subir el avión, el abono se mantiene y llega el billete único, sin una alta velocidad que se encarece",
-        "image_url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/10/15/68efca78f2920.png",
-        "tags": [
-            "nacional"
-        ],
-        "link": "https://www.20minutos.es/nacional/precio-transporte-2026-podria-subir-avion-abono-se-mantiene-llega-billete-unico-sin-una-alta-velocidad-que-se-encarece_6916542_0.html",
-        "date": "2026-01-02 06:14:09",
-        "sentiment_score": -0.3426488898694515
-    },
-    {
-        "title": "Lo que debes saber hoy, 2 de enero, de Barcelona",
-        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/03/vivir-en-barcelona/1003742712950_15474166_1706x960.jpg",
-        "tags": [
-            "metro barcelona",
-            "movilidad",
-            "tráfico",
-            "vivir en barcelona",
-            "transports metropolitans barcelona tmb",
-            "transporte",
-            "tiempo"
-        ],
-        "link": "https://metropoliabierta.elespanol.com/vivir-en-barcelona/20260102/debes-saber-hoy-enero-barcelona/1003742720375_0.html",
-        "date": "2026-01-02 06:10:38",
-        "sentiment_score": -0.29532890021800995
-    },
-    {
-        "title": "Juan Carlos Arias: \"El robo de la copia del 'greco' de Paradas es una chapuza\"",
-        "image_url": "https://static.grupojoly.com/clip/379b3ff9-c958-46ff-b9c7-4e7b7714a577_source-aspect-ratio_default_0.jpg",
-        "tags": [
-            "carlos",
-            "juan",
-            "copia",
-            "arias",
-            "robo"
-        ],
-        "link": "https://www.europasur.es/entrevistas/juan-carlos-arias-robo-copia_0_2005535126.html",
-        "date": "2026-01-02 06:01:26",
-        "sentiment_score": -0.756523635238409
-    },
-    {
         "title": "Venezuela detiene a varios ciudadanos estadounidenses mientras aumentan las tensiones con EE.UU",
         "image_url": "https://cdn.mnmstatic.net/cache/3f/0b/media_thumb-link-4131653.webp?1767317226=",
         "tags": [
@@ -3050,5 +2886,250 @@ export default [
         "link": "https://www.expansion.com/expansion-empleo/emprendedores/2026/01/05/695beaf7468aeb71018b4583.html",
         "date": "2026-01-05 17:03:22",
         "sentiment_score": 0.5181846246123314
+    },
+    {
+        "title": "Un 2026 lleno de conciertos en Granada",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/01/06/agenda-musical-granada-kMWB-U240752792872KvF-1200x840@Ideal.jpg",
+        "tags": [
+            "conciertos",
+            "granada",
+            "2026",
+            "lleno"
+        ],
+        "link": "https://www.ideal.es/culturas/2026-lleno-conciertos-granada-20260106230540-nt.html",
+        "date": "2026-01-05 22:05:41",
+        "sentiment_score": 0.6537977010011673
+    },
+    {
+        "title": "El Real Madrid se reencuentra con su verdugo: Julián Álvarez, en la nueva edición de la Supercopa",
+        "image_url": "https://pxcdn.meridiano.net/012026/1767656354199.jpg?ch=180&cw=320",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://meridiano.net/futbol/espanol/el-real-madrid-se-reencuentra-con-su-verdugo-julian-alvarez-en-la-nueva-edicion-de-la-supercopa-2026151850",
+        "date": "2026-01-05 22:05:00",
+        "sentiment_score": -0.0727146565914154
+    },
+    {
+        "title": "Real Madrid viaja a Arabia pendiente de Huijsen y Mbappé",
+        "image_url": "https://noticialdia.com/wp-content/firewall/uploads/2026/01/dean-huijsen-l-y-kylian-mbappe-r-en-el-entrenamiento-del-real-madrid-previo-al-keirat-almaty-real-madrid-de-champions-league-2025-26-efe-maxim-shipenkov.jpg",
+        "tags": [
+            "arabia",
+            "mbappé",
+            "deportes",
+            "huijsen",
+            "real madrid"
+        ],
+        "link": "https://noticialdia.com/deportes/real-madrid-viaja-a-arabia-pendiente-de-huijsen-y-mbappe/",
+        "date": "2026-01-05 22:04:55",
+        "sentiment_score": -0.3416649401187897
+    },
+    {
+        "title": "Sus Majestades de Oriente desafían a la lluvia en Sant Josep",
+        "image_url": "https://estaticos-cdn.prensaiberica.es/clip/b3725dda-51ae-484e-aba1-1afe3a7aa9db_16-9-discover-aspect-ratio_default_0.jpg",
+        "tags": [
+            "sant josep",
+            "cala de bou",
+            "cabalgatas de reyes",
+            "reyes magos en ibiza"
+        ],
+        "link": "https://www.diariodeibiza.es/ibiza/2026/01/05/majestades-oriente-desafian-lluvia-sant-josep-125405771.html",
+        "date": "2026-01-05 21:57:59",
+        "sentiment_score": -0.20559759438037872
+    },
+    {
+        "title": "Endrick agradece a Ancelotti por sus consejos tras unirse a Lyon cedido por Real Madrid",
+        "image_url": "https://ca-times.brightspotcdn.com/dims4/default/2696cef/2147483647/strip/true/crop/4366x2292+0+309/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3b%2Fef%2Fe6b4abb94cd5b43e5383a04a6d88%2F555d3bd1bc01470ea06ec6a637e9235c.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.latimes.com/espanol/deportes/articulo/2026-01-05/endrick-agradece-ancelotti-por-sus-consejos-tras-unirse-lyon-cedido-por-real-madrid",
+        "date": "2026-01-05 21:55:17",
+        "sentiment_score": 0.057820260524749756
+    },
+    {
+        "title": "El adiós a Paquita Cortés reúne a una familia sportinguista única",
+        "image_url": "https://s1.ppllstatics.com/elcomercio/www/multimedia/2026/01/05/1504819344-RjL5nvylWlTULoiAjVpYNoJ-1200x840@El%20Comercio.jpg",
+        "tags": [
+            "sporting de gijón",
+            "abelardo fernández",
+            "ferrol",
+            "fútbol",
+            "real madrid",
+            "el molinón",
+            "f.c. barcelona",
+            "quini",
+            "portugal",
+            "ceares",
+            "juanele"
+        ],
+        "link": "https://www.elcomercio.es/gijon/adios-paquita-cortes-reune-familia-sportinguista-unica-20260105224927-nt.html",
+        "date": "2026-01-05 21:49:28",
+        "sentiment_score": -0.5233741998672485
+    },
+    {
+        "title": "El Real Oviedo, un colista que lidera la tabla de expulsados",
+        "image_url": "https://s2.ppllstatics.com/elcomercio/www/multimedia/2026/01/05/210235003-kvT--1200x840@El%20Comercio.jpg",
+        "tags": [
+            "expulsados",
+            "colista",
+            "lidera",
+            "tabla",
+            "oviedo",
+            "real"
+        ],
+        "link": "https://www.elcomercio.es/real-oviedo/real-oviedo-colista-lidera-tabla-expulsados-20260105193528-nt.html",
+        "date": "2026-01-05 21:49:02",
+        "sentiment_score": -0.835528526455164
+    },
+    {
+        "title": "Agenda gráfica para el día 6 de enero de 2026",
+        "image_url": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
+        "tags": [
+            "agenda gráfica",
+            "barcelona",
+            "premio nadal",
+            "europapress",
+            "letizia",
+            "reyes felipe vi",
+            "europa press",
+            "madrid",
+            "pascua militar",
+            "leonor",
+            "sorteo extraordinario el niño"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/05/agenda-grafica-para-el-dia-6-de-enero-de-2026/",
+        "date": "2026-01-05 21:46:09",
+        "sentiment_score": 0.4684738628566265
+    },
+    {
+        "title": "Yeda recibe a Barça y Athletic",
+        "image_url": "https://www.infobae.com/resizer/v2/K4SYT2S6QJES7IGY45HQ7XQKGI.jpg?auth=baa485d8cb50c8097d5e6890429b06bf81ab47aa7e402681f0b8c69e1d8e0dc0&height=1277&smart=true&width=1920",
+        "tags": [
+            "arabia saudí",
+            "real madrid",
+            "fútbol",
+            "europapress",
+            "supercopa de españa",
+            "athletic club",
+            "alinma stadium",
+            "atlético de madrid",
+            "yeda",
+            "fc barcelona",
+            "hansi flick"
+        ],
+        "link": "https://www.infobae.com/america/agencias/2026/01/05/yeda-recibe-a-barca-y-athletic/",
+        "date": "2026-01-05 21:45:20",
+        "sentiment_score": 0.17569497227668762
+    },
+    {
+        "title": "Republicanos, perseguidos por homosexuales y escritores bohemios: historias secretas en himnos futboleros de Madrid",
+        "image_url": "https://static.eldiario.es/clip/c4468aaa-04d6-4e2f-9100-2f2a6191984f_16-9-discover-aspect-ratio_default_1131758.jpg",
+        "tags": [
+            "madrid",
+            "secretas",
+            "himnos",
+            "homosexuales",
+            "futboleros",
+            "perseguidos",
+            "bohemios",
+            "historias",
+            "escritores",
+            "republicanos"
+        ],
+        "link": "https://www.eldiario.es/madrid/somos/republicanos-perseguidos-homosexuales-escritores-bohemios-historias-secretas-himnos-futboleros-madrid_1_12816725.html",
+        "date": "2026-01-05 21:00:38",
+        "sentiment_score": -0.06527835130691528
+    },
+    {
+        "title": "Dónde han caído los premios de la Bonoloto, Primitiva, Eurodreams y ONCE de hoy, lunes 5 de enero",
+        "image_url": "https://fotografias.antena3.com/clipping/cmsimages01/2023/12/20/6FD0278D-9A94-4FE5-97BD-59763A767F2A/administracion-castellon-plana_98.jpg?crop=1080%2C608%2Cx0%2Cy53&format=webply&height=1069&optimize=low&width=1900",
+        "tags": [
+            "antena 3 noticias",
+            "loterías"
+        ],
+        "link": "https://www.antena3.com/noticias/loterias/donde-han-caido-premios-bonoloto-primitiva-eurodreams-once-hoy-lunes-5-enero_20260105695c3709af09df50109c4339.html",
+        "date": "2026-01-05 22:11:21",
+        "sentiment_score": 0.04113054648041725
+    },
+    {
+        "title": "Oviedo, la única candidata con sede para la Agencia de Salud Pública",
+        "image_url": "https://s3.ppllstatics.com/ideal/www/multimedia/2026/01/06/Imagen%20galeria-calatrava-RE8DYWfcVP7h2d-k8QC-U2407511050178PH-1200x840@Ideal.jpg",
+        "tags": [
+            "junta de andalucía",
+            "consejo de ministros",
+            "asturias",
+            "salud",
+            "granada",
+            "oviedo"
+        ],
+        "link": "https://www.ideal.es/granada/oviedo-unica-candidata-sede-agencia-salud-publica-20260106230506-nt.html",
+        "date": "2026-01-05 22:05:06",
+        "sentiment_score": 0.4981658235192299
+    },
+    {
+        "title": "10 horas en auto a Roland Garros, abuela fan y un sueño cumplido a los 36: la historia de uno de los citados por Argentina para la Davis",
+        "image_url": "https://www.infobae.com/resizer/v2/UCBGQHZ4SFACPOU3FS73D632YQ.jpg?auth=878838d1654177392d78fe5a3612b3720d4d2263057f2723f9f82d3545b12dcf&height=1080&smart=true&width=1920",
+        "tags": [
+            "marco trungelliti",
+            "tenis",
+            "argentina",
+            "deportes-argentina",
+            "tenis argentino",
+            "copa davis"
+        ],
+        "link": "https://www.infobae.com/deportes/2026/01/05/10-horas-en-auto-a-roland-garros-abuela-fan-y-un-sueno-cumplido-a-los-36-la-historia-de-uno-de-los-citados-por-argentina-para-la-davis/",
+        "date": "2026-01-05 21:57:58",
+        "sentiment_score": 0.485129427164793
+    },
+    {
+        "title": "Acuerdo con el Al-Hilal: el Barça cierra el fichaje de Joao Cancelo bajo dos condiciones",
+        "image_url": "https://a2.elespanol.com/cronicaglobal/2023/12/02/culemania/primer-equipo/814178671_11997293_1706x960.jpg",
+        "tags": [
+            "fichajes barça",
+            "joao cancelo",
+            "primer equipo",
+            "barça"
+        ],
+        "link": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260105/acuerdo-cerrado-al-hilal-barca-joao-cancelo-condiciones/1003742721182_0.html",
+        "date": "2026-01-05 21:57:23",
+        "sentiment_score": 0.1556164100766182
+    },
+    {
+        "title": "Ni el frío achanta a sus majestades: los Reyes Magos visitan muchos rincones de España",
+        "image_url": "https://images.ecestaticos.com/ewmBU0YrS-iAJmaQ4YRAoA03C4I=/0x0:1920x1280/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F401%2F1d8%2F958%2F4011d8958d437a3aae0dc963eea165a6.jpg",
+        "tags": [
+            "lifestyle",
+            "top"
+        ],
+        "link": "https://www.elconfidencial.com/espana/2026-01-05/reyes-magos-navidad_4278934/",
+        "date": "2026-01-05 21:40:00",
+        "sentiment_score": -0.7858553472906351
+    },
+    {
+        "title": "Los Reyes Magos hacen frente al frío y reparten la ilusión por toda España",
+        "image_url": "https://image.ondacero.es/clipping/cmsimages01/2026/01/05/7D600502-88CB-45F6-836F-A1C4CF374757/reyes-magos-hacen-frente-frio-reparten-ilusion-toda-espana_70.jpg?crop=1920%2C1080%2Cx0%2Cy176&format=webply&height=270&optimize=high&width=480",
+        "tags": [
+            "noticias",
+            "ondacero",
+            "sociedad"
+        ],
+        "link": "https://www.ondacero.es/noticias/sociedad/reyes-magos-hacen-frente-frio-reparten-ilusion-toda-espana_20260105695c2dd6ea66eb735327648d.html",
+        "date": "2026-01-05 21:32:06",
+        "sentiment_score": -0.7704910598695278
+    },
+    {
+        "title": "Albiol, en su mensaje de Año Nuevo: \"Todo el mundo que venga a trabajar a Badalona es bienvenido\"",
+        "image_url": "https://a2.elespanol.com/metropoliabierta/2025/12/23/gran-barcelona/1003742718663_15545409_1706x960.jpg",
+        "tags": [
+            "gran barcelona",
+            "xavier garcía albiol",
+            "badalona"
+        ],
+        "link": "https://metropoliabierta.elespanol.com/gran-barcelona/20260105/albiol-mensaje-ano-nuevo-mundo-venga-trabajar-bienvenido/1003742721181_0.html",
+        "date": "2026-01-05 21:26:46",
+        "sentiment_score": -0.11018042266368866
     }
 ];
